@@ -1,25 +1,3 @@
-2 Lantern of Insight
-2 Glimmervoid
-2 Ancient Stirrings
-2 Pyxis of Pandemonium
-3 Ensnaring Bridge
-3 Glimmervoid
-3 Ancient Stirrings
-3 Lantern of Insight
-3 Codex Shredder
-4 Glimmervoid
-4 Codex Shredder
-4 Ancient Stirrings
-4 Lantern of Insight
-2 Blooming Marsh
-3 Blooming Marsh
-4 Blooming Marsh
-1 Welding Jar
-4 Ensnaring Bridge
-1 The Underworld Cookbook
-4 Verdant Catacombs
-2 Overgrown Tomb
-2 Nurturing Peatland
 1 Street Wraith
 1 Witch's Oven
 1 Asmoranomardicadaistinaculdacar
@@ -43,149 +21,70 @@
 4 Street Wraith
 4 The Underworld Cookbook
 4 Feasting Troll King
-2 Watery Grave
-4 Polluted Delta
-4 Fatal Push
-1 Death's Shadow
-1 Scourge of the Skyclaves
-1 Hexdrinker
-1 Dismember
-1 Stubborn Denial
-2 Death's Shadow
-2 Scourge of the Skyclaves
-2 Stubborn Denial
-2 Hexdrinker
-3 Death's Shadow
-3 Scourge of the Skyclaves
-3 Hexdrinker
-3 Stubborn Denial
-4 Death's Shadow
-4 Scourge of the Skyclaves
-4 Thoughtseize
-1 Darkbore Pathway
-1 Ghost Quarter
-1 Collective Brutality
-1 Elixir of Immortality
-1 Karn, the Great Creator
-1 Talisman of Resilience
-2 Darkbore Pathway
-2 Collective Brutality
-2 Forest
-2 Karn, the Great Creator
-2 Talisman of Resilience
-1 Abrupt Decay
-1 Snow-Covered Swamp
-1 Snow-Covered Forest
-1 Snow-Covered Island
-1 Breeding Pool
-1 Cling to Dust
-1 Ice-Fang Coatl
-2 Snow-Covered Swamp
-2 Snow-Covered Forest
-2 Abrupt Decay
-2 Cling to Dust
-2 Unearth
-2 Ice-Fang Coatl
-3 Snapcaster Mage
-3 Ice-Fang Coatl
-4 Ice-Fang Coatl
-3 Witch's Oven
-4 Witch's Oven
-4 Ovalchase Daredevil
-4 Cauldron Familiar
+1 Island
 1 Surgical Extraction
 1 Relic of Progenitus
-1 Village Rites
-1 Nissa, Steward of Elements
-1 Noble Hierarch
-2 Village Rites
-2 Noble Hierarch
-3 Noble Hierarch
-4 Snapcaster Mage
-4 Misty Rainforest
-1 Bloodstained Mire
-2 Bloodstained Mire
+1 Verdant Catacombs
+2 Verdant Catacombs
+3 Verdant Catacombs
+3 Witch's Oven
+4 Verdant Catacombs
+4 Witch's Oven
+1 Overgrown Tomb
+1 Nurturing Peatland
+4 Ovalchase Daredevil
 1 Barren Moor
 1 Gilded Goose
 1 Yavimaya, Cradle of Growth
 1 Urborg, Tomb of Yawgmoth
 2 Gilded Goose
+2 Overgrown Tomb
+2 Nurturing Peatland
 3 Gilded Goose
 4 Gilded Goose
-1 Botanical Sanctum
-1 Darkslick Shores
-2 Darkslick Shores
-3 Darkslick Shores
-4 Darkslick Shores
+4 Cauldron Familiar
 1 Stitcher's Supplier
 2 Stitcher's Supplier
 3 Stitcher's Supplier
 4 Stitcher's Supplier
 2 Swamp
-1 Smuggler's Copter
-1 Blood Crypt
-1 Blackcleave Cliffs
-1 Mountain
-2 Smuggler's Copter
-2 Blood Crypt
-2 Blackcleave Cliffs
-3 Bloodstained Mire
-3 Blackcleave Cliffs
-4 Blackcleave Cliffs
-4 Bloodstained Mire
-1 Charge Through
+1 Darkslick Shores
+1 Mishra's Bauble
+2 Darkslick Shores
+2 Mishra's Bauble
+3 Darkslick Shores
+3 Mishra's Bauble
+4 Darkslick Shores
+1 Bloodstained Mire
+2 Bloodstained Mire
 2 Welding Jar
 1 Tranquil Thicket
 1 Life from the Loam
 2 Life from the Loam
-1 Metallic Rebuke
-1 Emry, Lurker of the Loch
-1 Waterlogged Grove
-1 Trail of Crumbs
-2 Metallic Rebuke
-2 Emry, Lurker of the Loch
-2 Trail of Crumbs
-3 Emry, Lurker of the Loch
-3 Metallic Rebuke
-4 Emry, Lurker of the Loch
-4 Stubborn Denial
 1 Satyr Wayfinder
 1 Lotleth Troll
 2 Satyr Wayfinder
 2 Lotleth Troll
-3 Satyr Wayfinder
 3 Lotleth Troll
+3 Satyr Wayfinder
 4 Lotleth Troll
-1 Witchbane Orb
-1 Whir of Invention
-2 Whir of Invention
-2 Botanical Sanctum
-3 Spire of Industry
-3 Whir of Invention
-3 Botanical Sanctum
-4 Spire of Industry
-4 Botanical Sanctum
-4 Whir of Invention
-1 Ragavan, Nimble Pilferer
-1 Feed the Swarm
-1 Blightstep Pathway
-1 Seasoned Pyromancer
-2 Blightstep Pathway
-2 Ragavan, Nimble Pilferer
-2 Feed the Swarm
-2 Seasoned Pyromancer
-3 Blightstep Pathway
-3 Smuggler's Copter
-3 Seasoned Pyromancer
-4 Blightstep Pathway
-4 Seasoned Pyromancer
-4 Smuggler's Copter
-1 Thought Scour
-2 Snow-Covered Island
-2 Thought Scour
-3 Thought Scour
-4 Drown in the Loch
-4 Thought Scour
+1 Metallic Rebuke
+1 Emry, Lurker of the Loch
+1 Watery Grave
+1 Waterlogged Grove
+1 Polluted Delta
+1 Trail of Crumbs
+2 Metallic Rebuke
+2 Emry, Lurker of the Loch
+2 Watery Grave
+2 Trail of Crumbs
+2 Polluted Delta
+3 Emry, Lurker of the Loch
+3 Metallic Rebuke
+3 Polluted Delta
+4 Emry, Lurker of the Loch
+4 Polluted Delta
+4 Mishra's Bauble
 1 Prismatic Vista
 1 Tezzeret, Agent of Bolas
 1 Leyline of Sanctity
@@ -196,10 +95,32 @@
 3 Leyline of Sanctity
 4 Leyline of Sanctity
 4 Inquisition of Kozilek
+1 Smuggler's Copter
+1 Blood Crypt
+1 Blackcleave Cliffs
 1 Greater Gargadon
+1 Mountain
 1 Mayhem Devil
-2 Mayhem Devil
+2 Smuggler's Copter
+2 Blackcleave Cliffs
+2 Blood Crypt
 2 Greater Gargadon
+2 Mayhem Devil
 3 Blood Crypt
+3 Bloodstained Mire
+3 Blackcleave Cliffs
 3 Mayhem Devil
+4 Blackcleave Cliffs
+4 Bloodstained Mire
 4 Mayhem Devil
+1 Botanical Sanctum
+1 Witchbane Orb
+1 Whir of Invention
+2 Whir of Invention
+2 Botanical Sanctum
+3 Spire of Industry
+3 Botanical Sanctum
+3 Whir of Invention
+4 Spire of Industry
+4 Botanical Sanctum
+4 Whir of Invention

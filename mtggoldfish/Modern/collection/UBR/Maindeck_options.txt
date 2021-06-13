@@ -10,6 +10,7 @@
 4 Scalding Tarn
 1 Fiery Islet
 1 As Foretold
+1 Tolaria West
 1 Street Wraith
 1 Spirebluff Canal
 1 Brazen Borrower
@@ -17,7 +18,6 @@
 1 Curator of Mysteries
 1 Living End
 1 Electrodominance
-1 Tolaria West
 1 Remand
 1 Windcaller Aven
 1 Striped Riverwinder
@@ -53,18 +53,18 @@
 4 Striped Riverwinder
 4 Curator of Mysteries
 4 As Foretold
-1 Swamp
 1 Spell Pierce
 1 Silundi Vision
-2 Watery Grave
+1 Swamp
 4 Island
 1 Go for the Throat
-1 Creeping Tar Pit
+2 Watery Grave
 1 Assassin's Trophy
 1 Counterspell
 2 Counterspell
 3 Counterspell
 4 Counterspell
+1 Creeping Tar Pit
 1 Kolaghan's Command
 1 Sulfur Falls
 1 Blood Crypt
@@ -84,11 +84,10 @@
 2 Drown in the Loch
 2 Lightning Bolt
 2 Serum Visions
+3 Inquisition of Kozilek
 3 Kolaghan's Command
 3 Lightning Bolt
 4 Snapcaster Mage
-3 Inquisition of Kozilek
-3 Serum Visions
 4 Cryptic Command
 1 Flooded Strand
 1 Snow-Covered Forest
@@ -96,6 +95,4 @@
 2 Spell Snare
 1 Solve the Equation
 4 Force of Negation
-1 Thoughtseize
-2 Thoughtseize
-4 Lightning Bolt
+3 Serum Visions

@@ -94,10 +94,10 @@
 1 Windswept Heath
 2 Windswept Heath
 2 Utopia Sprawl
-3 Windswept Heath
 3 Utopia Sprawl
-4 Windswept Heath
+3 Windswept Heath
 4 Utopia Sprawl
+4 Windswept Heath
 1 Winding Constrictor
 2 Nurturing Peatland
 2 Winding Constrictor
@@ -133,16 +133,6 @@
 2 Sparring Construct
 3 Sparring Construct
 4 Sparring Construct
-1 Copperline Gorge
-1 Stonecoil Serpent
-1 Galvanic Blast
-2 Stonecoil Serpent
-2 Copperline Gorge
-3 Copperline Gorge
-3 Stonecoil Serpent
-4 Stonecoil Serpent
-4 Copperline Gorge
-4 Lightning Bolt
 1 Dismember
 3 Darksteel Citadel
 4 Darksteel Citadel
@@ -169,6 +159,16 @@
 4 Fatal Push
 4 Verdant Catacombs
 4 Animation Module
+1 Copperline Gorge
+1 Stonecoil Serpent
+1 Galvanic Blast
+2 Stonecoil Serpent
+2 Copperline Gorge
+3 Copperline Gorge
+3 Stonecoil Serpent
+4 Copperline Gorge
+4 Lightning Bolt
+4 Stonecoil Serpent
 1 Arcbound Mouser
 2 Arcbound Mouser
 3 Horizon Canopy

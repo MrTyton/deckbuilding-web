@@ -49,8 +49,8 @@
 |                    3|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)             |                     |                                                                                            |
 |                    3|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)     |                     |                                                                                            |
 |                    3|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136218)              |                     |                                                                                            |
-|                    4|[Jwari Disruption](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491693)      |                     |                                                                                            |
 |                    4|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)     |                     |                                                                                            |
 |                    4|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136218)              |                     |                                                                                            |
 |                    4|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)             |                     |                                                                                            |
+|                    4|[Jwari Disruption](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491693)      |                     |                                                                                            |
 

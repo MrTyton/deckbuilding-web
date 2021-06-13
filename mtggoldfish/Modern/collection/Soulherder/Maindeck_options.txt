@@ -41,8 +41,8 @@
 4 Arid Mesa
 2 Prismatic Vista
 1 Kiki-Jiki, Mirror Breaker
-1 Restoration Angel
 1 Avalanche Riders
+1 Restoration Angel
 1 Chord of Calling
 2 Chord of Calling
 2 Avalanche Riders
@@ -127,14 +127,14 @@
 1 Sword of Fire and Ice
 4 Stoneforge Mystic
 1 Waterlogged Grove
-1 Mutavault
 1 Vendilion Clique
 1 Spellstutter Sprite
+1 Mutavault
 2 Vendilion Clique
 2 Mutavault
 2 Spellstutter Sprite
-3 Mutavault
 3 Spellstutter Sprite
+3 Mutavault
 4 Spellstutter Sprite
 1 Elite Spellbinder
 2 Elite Spellbinder
@@ -161,7 +161,6 @@
 4 Omnath, Locus of Creation
 4 Teferi, Time Raveler
 1 Kaldra Compleat
-1 Inspiring Vantage
 1 Tectonic Edge
 1 Thalia, Guardian of Thraben
 1 Esper Sentinel
@@ -171,25 +170,26 @@
 1 Maul of the Skyclaves
 1 Savai Triome
 1 Rugged Prairie
-2 Inspiring Vantage
+1 Inspiring Vantage
 2 Thalia, Guardian of Thraben
 2 Esper Sentinel
 2 Tectonic Edge
 2 Sacred Foundry
 2 Marsh Flats
-3 Inspiring Vantage
+2 Inspiring Vantage
+3 Sacred Foundry
 3 Thalia, Guardian of Thraben
 3 Esper Sentinel
+3 Inspiring Vantage
 3 Tectonic Edge
-3 Sacred Foundry
 3 Charming Prince
 3 Marsh Flats
-4 Inspiring Vantage
 4 Thalia, Guardian of Thraben
 4 Esper Sentinel
 4 Charming Prince
 4 Tectonic Edge
 4 Marsh Flats
+4 Inspiring Vantage
 1 Hengegate Pathway
 1 Flickerwisp
 2 Hengegate Pathway
@@ -215,23 +215,23 @@
 2 Time Warp
 2 Cryptic Command
 2 Of One Mind
-1 Blade Splicer
-2 Neoform
-3 Neoform
 1 Cosima, God of the Voyage
 2 Cosima, God of the Voyage
 3 Snow-Covered Island
 3 Cosima, God of the Voyage
+1 Blade Splicer
+2 Neoform
+3 Neoform
 1 Sunpetal Grove
 1 Collected Company
 2 Collected Company
 3 Collected Company
 1 Darkslick Shores
 1 Swamp
-1 Thassa's Oracle
 1 Watery Grave
 1 Tidehollow Sculler
 1 Inverter of Truth
+1 Thassa's Oracle
 1 Silent Clearing
 1 Godless Shrine
 1 Concealed Courtyard
@@ -239,8 +239,8 @@
 1 Sunken Ruins
 2 Sunken Ruins
 2 Thraben Inspector
-2 Thassa's Oracle
 2 Concealed Courtyard
+2 Thassa's Oracle
 2 Silent Clearing
 2 Tidehollow Sculler
 2 Godless Shrine

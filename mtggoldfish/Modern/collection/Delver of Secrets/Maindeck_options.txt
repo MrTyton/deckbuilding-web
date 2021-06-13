@@ -3,17 +3,17 @@
 1 Swamp
 1 Thoughtseize
 1 Thieves' Guild Enforcer
-2 Thieves' Guild Enforcer
 2 Drown in the Loch
+2 Thieves' Guild Enforcer
 3 Drown in the Loch
+3 Inquisition of Kozilek
 3 Watery Grave
 3 Thieves' Guild Enforcer
-3 Inquisition of Kozilek
 4 Drown in the Loch
 4 Thieves' Guild Enforcer
 4 Snapcaster Mage
-1 Kolaghan's Command
 1 Blood Crypt
+1 Kolaghan's Command
 2 Kolaghan's Command
 1 Bloodstained Mire
 2 Bloodstained Mire
@@ -63,20 +63,20 @@
 2 Dreadhorde Arcanist
 3 Dreadhorde Arcanist
 4 Dreadhorde Arcanist
-1 Path to Exile
 1 Sacred Foundry
+1 Path to Exile
 2 Path to Exile
 3 Path to Exile
 1 Counterspell
 2 Counterspell
 4 Sleight of Hand
 1 Brazen Borrower
-1 Snow-Covered Plains
 1 Seachrome Coast
-1 Maul of the Skyclaves
+1 Snow-Covered Plains
 1 Sword of Fire and Ice
-1 Batterskull
+1 Maul of the Skyclaves
 1 Stoneforge Mystic
+1 Batterskull
 1 Geist of Saint Traft
 2 Seachrome Coast
 2 Stoneforge Mystic
@@ -85,8 +85,8 @@
 3 Stoneforge Mystic
 3 Geist of Saint Traft
 4 Stoneforge Mystic
-4 Path to Exile
 4 Geist of Saint Traft
+4 Path to Exile
 2 Wooded Foothills
 3 Misty Rainforest
 1 Soul-Scar Mage
@@ -164,8 +164,8 @@
 2 Ascendant Spirit
 3 Ascendant Spirit
 4 Ascendant Spirit
-1 Ice Tunnel
 1 Snow-Covered Swamp
+1 Ice Tunnel
 1 Unearth
 1 Tyrant's Scorn
 2 Deprive
@@ -183,8 +183,8 @@
 2 Swamp
 2 Thoughtseize
 2 Bitterblossom
-3 Darkslick Shores
 3 Bitterblossom
+3 Darkslick Shores
 2 Brazen Borrower
 3 Steam Vents
 1 Vendilion Clique
@@ -199,52 +199,52 @@
 1 Icehide Golem
 2 Unearth
 2 Icehide Golem
-2 Hallowed Fountain
-3 Hallowed Fountain
 1 Scavenging Ooze
 1 Jace, Vryn's Prodigy
 1 Burst Lightning
 1 Snakeskin Veil
 2 Snakeskin Veil
 3 Wooded Foothills
-1 The Royal Scions
+2 Hallowed Fountain
+3 Hallowed Fountain
 1 Dark Confidant
+1 The Royal Scions
 2 Dark Confidant
 3 Kolaghan's Command
+1 Young Pyromancer
+2 Young Pyromancer
+3 Young Pyromancer
+4 Young Pyromancer
 1 Agadeem's Awakening
 1 Marsh Flats
 2 Marsh Flats
 2 Bloodchief's Thirst
 2 Agadeem's Awakening
 4 Darkslick Shores
-1 Young Pyromancer
-2 Young Pyromancer
-3 Young Pyromancer
-4 Young Pyromancer
-1 Magmatic Sinkhole
-1 Blood Moon
-2 Blood Moon
-2 Magmatic Sinkhole
-2 Mystic Sanctuary
-4 Steam Vents
 2 Wizard's Retort
 3 Wizard's Retort
 4 Wizard's Retort
-1 Light Up the Stage
+1 Magmatic Sinkhole
+1 Blood Moon
+2 Mystic Sanctuary
+2 Blood Moon
+2 Magmatic Sinkhole
+4 Steam Vents
+1 Sunbaked Canyon
 1 Manamorphose
 1 Gut Shot
 1 Assault Strobe
 1 Lava Spike
-1 Sunbaked Canyon
+1 Light Up the Stage
 1 Lava Dart
 1 Stormwing Entity
-2 Light Up the Stage
 2 Monastery Swiftspear
 2 Mountain
 2 Stormwing Entity
 2 Assault Strobe
 2 Lava Spike
 2 Lava Dart
+2 Light Up the Stage
 2 Manamorphose
 2 Gut Shot
 3 Manamorphose
@@ -254,12 +254,12 @@
 3 Mountain
 3 Lava Spike
 3 Stormwing Entity
-4 Mountain
 4 Fiery Islet
 4 Manamorphose
 4 Stormwing Entity
 4 Lava Dart
 4 Monastery Swiftspear
+4 Mountain
 4 Lava Spike
 4 Light Up the Stage
 1 Volatile Fjord
@@ -267,15 +267,15 @@
 6 Snow-Covered Island
 1 Oboro, Palace in the Clouds
 1 Spellstutter Sprite
+1 Cryptic Command
 1 Mutavault
 1 Castle Vantress
-1 Cryptic Command
 1 Deliberate
 1 Silundi Vision
 1 Psionic Blast
 2 Spellstutter Sprite
-2 Mutavault
 2 Vendilion Clique
+2 Mutavault
 2 Psionic Blast
 2 Deliberate
 2 Cryptic Command
