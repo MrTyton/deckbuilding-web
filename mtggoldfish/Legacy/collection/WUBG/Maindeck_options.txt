@@ -24,76 +24,85 @@
 1 Leovold, Emissary of Trest
 1 Tropical Island
 1 Uro, Titan of Nature's Wrath
-1 Misty Rainforest
-2 Misty Rainforest
 2 Uro, Titan of Nature's Wrath
 1 Dryad Arbor
 1 Green Sun's Zenith
 2 Green Sun's Zenith
-3 Misty Rainforest
-1 Sylvan Library
 1 Savannah
+1 Sylvan Library
+1 Misty Rainforest
+2 Misty Rainforest
 1 Abrupt Decay
+1 Bayou
+1 Verdant Catacombs
+2 Verdant Catacombs
+2 Sylvan Library
+2 Abrupt Decay
+3 Abrupt Decay
+3 Misty Rainforest
+3 Green Sun's Zenith
 1 Brainstorm
 1 Underground Sea
-1 Verdant Catacombs
-1 Bayou
 1 Force of Will
 2 Force of Will
-2 Verdant Catacombs
 2 Brainstorm
 3 Force of Will
 3 Brainstorm
 4 Force of Will
 4 Brainstorm
 4 Misty Rainforest
-2 Abrupt Decay
-3 Abrupt Decay
+1 Scrubland
+4 Green Sun's Zenith
 2 Tropical Island
-2 Sylvan Library
 3 Uro, Titan of Nature's Wrath
 1 Scavenging Ooze
 2 Leovold, Emissary of Trest
-3 Green Sun's Zenith
+3 Verdant Catacombs
+1 Forest
 1 Ponder
 2 Ponder
 3 Ponder
 4 Ponder
-1 Forest
-1 Force of Negation
-2 Force of Negation
-4 Green Sun's Zenith
-1 Island
-1 Imperial Recruiter
-1 Tomik, Distinguished Advokist
-1 Scrubland
-3 Verdant Catacombs
 1 Ramunap Excavator
 3 Sylvan Library
+1 Force of Negation
+2 Force of Negation
+1 Blast Zone
 1 Elvish Reclaimer
 2 Elvish Reclaimer
+1 Island
+2 Savannah
+1 Sejiri Steppe
+1 Bojuka Bog
+1 Glacial Chasm
+1 Mox Diamond
+2 Mox Diamond
+3 Elvish Reclaimer
+3 Mox Diamond
+4 Elvish Reclaimer
+1 Snow-Covered Forest
+1 Imperial Recruiter
+1 Tomik, Distinguished Advokist
+1 Knight of the Reliquary
+2 Knight of the Reliquary
+4 Mox Diamond
+1 Windswept Heath
+2 Windswept Heath
 4 Uro, Titan of Nature's Wrath
-1 Blast Zone
+1 Crop Rotation
+2 Crop Rotation
 1 Waterlogged Grove
 1 Valakut, the Molten Pinnacle
 1 Dryad of the Ilysian Grove
-1 Archon of Emeria
-1 Bojuka Bog
-1 Glacial Chasm
 1 Vesuva
-1 Mox Diamond
+1 Archon of Emeria
 1 Drownyard Temple
-1 Sejiri Steppe
 2 Dryad of the Ilysian Grove
 2 Valakut, the Molten Pinnacle
 2 Archon of Emeria
-2 Mox Diamond
 2 Vesuva
-3 Elvish Reclaimer
 3 Dryad of the Ilysian Grove
-3 Mox Diamond
 3 Archon of Emeria
-4 Elvish Reclaimer
 4 Dryad of the Ilysian Grove
 1 Birds of Paradise
 2 Underground Sea
@@ -101,24 +110,30 @@
 1 Questing Beast
 4 Abrupt Decay
 1 Teferi, Time Raveler
-1 Realmwalker
-2 Imperial Recruiter
 1 Polluted Delta
 2 Polluted Delta
+1 Realmwalker
+2 Imperial Recruiter
 4 Unclaimed Territory
 3 Kitesail Freebooter
-2 Savannah
 3 Tropical Island
 4 Archon of Emeria
-4 Mox Diamond
-1 Ancient Tomb
+1 Thespian's Stage
+1 Dark Depths
 1 Simic Growth Chamber
-1 Snow-Covered Forest
+1 Ancient Tomb
+3 Windswept Heath
 1 Snow-Covered Island
 1 Jace, the Mind Sculptor
 2 Teferi, Time Raveler
 1 Swamp
 3 Polluted Delta
+1 Flagstones of Trokair
+1 Witherbloom Command
+2 Flagstones of Trokair
+2 Dark Depths
+2 Thespian's Stage
+3 Knight of the Reliquary
 1 Silverquill Silencer
 1 Judith, the Scourge Diva
 1 Kambal, Consul of Allocation
@@ -132,18 +147,12 @@
 2 Plague Engineer
 2 Jace, the Mind Sculptor
 3 Ice-Fang Coatl
-1 Knight of the Reliquary
-2 Knight of the Reliquary
-1 Palace Jailer
-2 Palace Jailer
 1 Life from the Loam
 1 Cephalid Coliseum
 2 Life from the Loam
-1 Crop Rotation
-2 Crop Rotation
+1 Palace Jailer
+2 Palace Jailer
 4 Sylvan Library
-1 Windswept Heath
-2 Windswept Heath
 1 Primeval Titan
 2 Reflector Mage
 2 Island
@@ -152,24 +161,24 @@
 1 Titania, Protector of Argoth
 1 Spell Pierce
 2 Spell Pierce
-1 True-Name Nemesis
 1 Unearth
+1 True-Name Nemesis
 1 Nimble Obstructionist
 1 Cabal Therapy
 1 Sea Gate Stormcaller
-1 Neoform
 1 Snapcaster Mage
+1 Neoform
 1 Fatal Push
 1 Heliod, Sun-Crowned
 1 Spike Feeder
 2 True-Name Nemesis
 2 Drown in the Loch
-2 Neoform
 2 Unearth
 2 Snapcaster Mage
 2 Birds of Paradise
 2 Sea Gate Stormcaller
 2 Cabal Therapy
+2 Neoform
 3 Neoform
 3 Cabal Therapy
 3 Sea Gate Stormcaller
@@ -180,27 +189,24 @@
 1 Deputy of Detention
 1 General Kudro of Drannith
 2 Skyclave Apparition
-1 Dark Depths
-1 Thespian's Stage
 1 Collector Ouphe
 3 Crop Rotation
 1 Vanishing Verse
 1 Jolrael, Mwonvuli Recluse
-3 Windswept Heath
 3 Teferi, Time Raveler
+1 Containment Priest
+1 Magus of the Moon
+2 Opposition Agent
+2 Containment Priest
+2 Magus of the Moon
+3 Horizon Canopy
+3 Opposition Agent
 1 Venser, Shaper Savant
 1 Growth Spiral
 1 Scryb Ranger
 2 Growth Spiral
 2 Simic Growth Chamber
 3 Growth Spiral
-1 Containment Priest
-1 Magus of the Moon
-2 Containment Priest
-2 Magus of the Moon
-2 Opposition Agent
-3 Horizon Canopy
-3 Opposition Agent
 1 Baleful Strix
 1 Shark Typhoon
 1 Thoughtseize

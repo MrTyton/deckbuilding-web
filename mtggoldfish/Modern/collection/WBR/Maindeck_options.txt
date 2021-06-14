@@ -1,12 +1,12 @@
 1 Batterskull
-1 Kaya's Guile
 1 Lingering Souls
 1 Stoneforge Mystic
+1 Kaya's Guile
 2 Lingering Souls
 2 Stoneforge Mystic
 3 Stoneforge Mystic
+4 Liliana of the Veil
 3 Dreadbore
-4 Thoughtseize
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 4 Blood Moon
@@ -14,29 +14,26 @@
 3 Polluted Delta
 4 Polluted Delta
 1 Sunbaked Canyon
-1 Sword of Feast and Famine
 1 Cling to Dust
 1 Sacred Foundry
-4 Liliana of the Veil
-1 Dark Confidant
+4 Thoughtseize
 1 Verdant Catacombs
-4 Stoneforge Mystic
-2 Arid Mesa
+1 Sword of Feast and Famine
+1 Dark Confidant
 1 Kolaghan's Command
-3 Bonecrusher Giant
-1 Sword of Fire and Ice
-2 Kaya's Guile
+2 Arid Mesa
+1 Shambling Vent
+4 Stoneforge Mystic
 3 Lingering Souls
+1 Sword of Fire and Ice
+3 Bonecrusher Giant
+1 Collective Brutality
 2 Mountain
 1 Chandra, Torch of Defiance
-1 Collective Brutality
-1 Shambling Vent
 2 Cling to Dust
 2 Dark Confidant
 5 Swamp
-1 Silent Clearing
-1 Unearth
-1 Bloodchief's Thirst
+2 Kaya's Guile
 1 Vanishing Verse
 1 Kaya, Orzhov Usurper
 1 Path to Exile
@@ -50,30 +47,7 @@
 1 Hazoret the Fervent
 4 Kroxa, Titan of Death's Hunger
 1 Lightning Helix
-3 Kaya's Guile
-1 Urborg, Tomb of Yawgmoth
-1 Ghost Quarter
-1 Indatha Triome
-1 Fulminator Mage
-1 Flagstones of Trokair
-1 Smallpox
-1 Deadly Brew
-2 Ghost Quarter
-2 Fulminator Mage
-2 Flagstones of Trokair
-2 Urborg, Tomb of Yawgmoth
-2 Plains
-2 Deadly Brew
-2 Silent Clearing
-2 Smallpox
-2 Godless Shrine
-3 Godless Shrine
-3 Flagstones of Trokair
-3 Smallpox
-3 Urborg, Tomb of Yawgmoth
-4 Smallpox
-4 Godless Shrine
-4 Flagstones of Trokair
+1 Unearth
 1 Lightning Skelemental
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
@@ -83,19 +57,17 @@
 3 Ragavan, Nimble Pilferer
 4 Blood Crypt
 6 Swamp
+2 Verdant Catacombs
+1 Silent Clearing
+1 Bloodchief's Thirst
+3 Kaya's Guile
+1 Overgrown Tomb
 2 Castle Locthwain
 2 Kolaghan's Command
-2 Verdant Catacombs
-1 Sedgemoor Witch
-1 Temple Garden
-2 Sedgemoor Witch
-3 Sedgemoor Witch
 1 Valki, God of Lies
 1 Angrath's Rampage
 2 Lightning Helix
 3 Lightning Helix
-1 Overgrown Tomb
-3 Fulminator Mage
 1 Fury
 1 Tourach, Dread Cantor
 2 Tourach, Dread Cantor
@@ -114,3 +86,52 @@
 3 Magus of the Moon
 4 Ragavan, Nimble Pilferer
 4 Dreadbore
+1 Urborg, Tomb of Yawgmoth
+1 Ghost Quarter
+1 Indatha Triome
+1 Fulminator Mage
+1 Flagstones of Trokair
+1 Smallpox
+1 Deadly Brew
+2 Ghost Quarter
+2 Fulminator Mage
+2 Flagstones of Trokair
+2 Urborg, Tomb of Yawgmoth
+2 Deadly Brew
+2 Plains
+2 Silent Clearing
+2 Godless Shrine
+2 Smallpox
+3 Fulminator Mage
+3 Godless Shrine
+3 Flagstones of Trokair
+3 Smallpox
+3 Urborg, Tomb of Yawgmoth
+4 Smallpox
+4 Godless Shrine
+4 Flagstones of Trokair
+1 Nurturing Peatland
+1 Noble Hierarch
+1 Gideon, Ally of Zendikar
+1 Assassin's Trophy
+1 Tarmogoyf
+1 Temple Garden
+1 Blooming Marsh
+1 Abrupt Decay
+1 Maelstrom Pulse
+1 Scavenging Ooze
+1 Forest
+2 Noble Hierarch
+2 Blooming Marsh
+2 Tarmogoyf
+2 Shambling Vent
+2 Scavenging Ooze
+3 Noble Hierarch
+3 Tarmogoyf
+3 Blooming Marsh
+3 Verdant Catacombs
+4 Noble Hierarch
+4 Lingering Souls
+4 Tarmogoyf
+4 Verdant Catacombs
+4 Blooming Marsh

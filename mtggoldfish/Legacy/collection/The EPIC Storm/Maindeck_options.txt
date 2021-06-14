@@ -68,10 +68,10 @@
 2 Exhume
 2 Faithless Looting
 2 Griselbrand
-3 Badlands
 3 Shallow Grave
 3 Entomb
 3 Exhume
+3 Badlands
 3 Faithless Looting
 3 Griselbrand
 4 Bloodstained Mire
@@ -94,35 +94,34 @@
 2 Bonus Round
 3 Bonus Round
 1 Tundra
-4 Mox Opal
 4 Chrome Mox
+4 Mox Opal
 1 Gamble
 1 Mastermind's Acquisition
 1 Corpse Dance
-1 Experimental Frenzy
-2 Experimental Frenzy
-3 Experimental Frenzy
 1 Simian Spirit Guide
 1 Hazoret's Undying Fury
 2 Past in Flames
 2 Simian Spirit Guide
-3 Past in Flames
 3 Simian Spirit Guide
-1 Silence
-1 Bayou
-1 Chain of Vapor
-1 Gemstone Mine
-2 Gemstone Mine
-2 Silence
-3 Gemstone Mine
-3 Silence
-4 Gemstone Mine
+3 Past in Flames
 1 Orim's Chant
 1 Scalding Tarn
 2 Orim's Chant
 2 Scalding Tarn
 3 Orim's Chant
 4 Verdant Catacombs
+1 Silence
+1 Bayou
+1 Chain of Vapor
+1 Gemstone Mine
+2 Silence
+2 Gemstone Mine
+3 Silence
+3 Gemstone Mine
+4 Gemstone Mine
+2 Echo of Eons
+4 Defense Grid
 1 Light Up the Stage
 1 Surgical Extraction
 2 Light Up the Stage
@@ -131,5 +130,6 @@
 3 Surgical Extraction
 4 Light Up the Stage
 4 Surgical Extraction
-2 Echo of Eons
-4 Defense Grid
+1 Experimental Frenzy
+2 Experimental Frenzy
+3 Experimental Frenzy

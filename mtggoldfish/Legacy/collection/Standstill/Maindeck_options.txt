@@ -49,25 +49,25 @@
 4 Polluted Delta
 1 Cling to Dust
 1 Eliminate
-1 Fatal Push
 1 Bloodstained Mire
 1 Changeling Outcast
 1 Baleful Strix
+1 Fatal Push
 1 Yuriko, the Tiger's Shadow
 1 Ingenious Infiltrator
 1 Ornithopter
-2 Fatal Push
 2 Ornithopter
 2 Yuriko, the Tiger's Shadow
 2 Changeling Outcast
 2 Swamp
 2 Ingenious Infiltrator
-3 Fatal Push
+2 Fatal Push
 3 Retrofitter Foundry
 3 Yuriko, the Tiger's Shadow
 3 Ornithopter
 3 Ingenious Infiltrator
 3 Changeling Outcast
+3 Fatal Push
 3 Swamp
 4 Changeling Outcast
 4 Ingenious Infiltrator
@@ -85,8 +85,8 @@
 2 Court of Cunning
 1 Back to Basics
 1 Crucible of Worlds
-1 Cast Out
 1 Replenish
+1 Cast Out
 1 Lay Claim
 2 Cast Out
 2 Replenish
@@ -130,19 +130,19 @@
 4 Urza's Saga
 1 Abrupt Decay
 1 Mox Diamond
+1 Forest
 1 Life from the Loam
+1 Savannah
 1 Lonely Sandbar
-1 Tranquil Thicket
 1 Verdant Catacombs
+1 Tranquil Thicket
+1 Field of the Dead
 1 Bojuka Bog
 1 Crop Rotation
-1 Field of the Dead
 1 Tropical Island
 1 Bayou
 1 Snow-Covered Forest
 1 Uro, Titan of Nature's Wrath
-1 Savannah
-1 Forest
 2 Abrupt Decay
 2 Mox Diamond
 2 Life from the Loam
@@ -150,8 +150,8 @@
 2 Field of the Dead
 3 Abrupt Decay
 3 Mox Diamond
-3 Life from the Loam
 3 Wasteland
+3 Life from the Loam
 3 Misty Rainforest
 3 Uro, Titan of Nature's Wrath
 4 Abrupt Decay
@@ -180,12 +180,12 @@
 3 Faerie Conclave
 3 Burst Lightning
 3 Snapcaster Mage
+4 Snapcaster Mage
 4 Bonecrusher Giant
+4 Mishra's Factory
 4 Volcanic Island
 4 Lightning Bolt
-4 Snapcaster Mage
 4 Faerie Conclave
-4 Mishra's Factory
 1 Path to Exile
 4 Cast Out
 4 Replenish

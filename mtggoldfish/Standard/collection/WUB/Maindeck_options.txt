@@ -1,160 +1,37 @@
-1 Omen of the Sun
-2 Omen of the Sun
-1 Jwari Disruption
-2 Jwari Disruption
-2 Midnight Clock
-3 Saw It Coming
-3 Jwari Disruption
-4 Saw It Coming
-4 Jwari Disruption
-3 Mazemind Tome
-1 Field of Ruin
-1 Niko Aris
-4 Glass Casket
-1 Negate
-1 Dream Trawler
-1 Brightclimb Pathway
-1 Swamp
-2 Brightclimb Pathway
-2 Swamp
-3 Brightclimb Pathway
-1 Clearwater Pathway
-2 Clearwater Pathway
-3 Clearwater Pathway
-1 Gyruda, Doom of Depths
-1 Thassa, Deep-Dwelling
-1 Port of Karfell
-2 Thassa, Deep-Dwelling
-2 Port of Karfell
-2 Gyruda, Doom of Depths
-3 Gyruda, Doom of Depths
-1 Disdainful Stroke
-4 Brightclimb Pathway
-4 Clearwater Pathway
-1 Charming Prince
-1 Drannith Magistrate
-2 Charming Prince
-3 Charming Prince
-4 Charming Prince
-1 Massacre Wurm
-3 Port of Karfell
-1 Burning-Rune Demon
-2 Burning-Rune Demon
-1 Thassa's Oracle
-3 Thassa, Deep-Dwelling
-1 Elite Spellbinder
-1 Mystical Dispute
-1 Professor of Symbology
-2 Mystical Dispute
-2 Elite Spellbinder
-2 Professor of Symbology
-3 Professor of Symbology
-3 Elite Spellbinder
-4 Professor of Symbology
-4 Gyruda, Doom of Depths
-4 Elite Spellbinder
-1 Nullpriest of Oblivion
-1 Acquisitions Expert
-2 Acquisitions Expert
-2 Nullpriest of Oblivion
-2 Field of Ruin
-3 Omen of the Sun
-2 Niko Aris
-4 Mazemind Tome
-8 Island
-1 Silverquill Command
-2 Silverquill Command
-1 Raugrin Triome
-3 Field of Ruin
 4 Doomskar
 9 Plains
-3 Swamp
+1 Negate
 1 Crawling Barrens
+3 Niko Aris
 1 Emeria's Call
+1 Dream Trawler
 2 Emeria's Call
 2 Negate
-3 Niko Aris
-1 Darkbore Pathway
-1 Binding the Old Gods
-1 Zagoth Triome
-1 Wolfwillow Haven
-2 Binding the Old Gods
-2 Wolfwillow Haven
-3 Wolfwillow Haven
-1 Heartless Act
-2 Heartless Act
-1 Snow-Covered Island
-2 Darkbore Pathway
-3 Darkbore Pathway
-3 Binding the Old Gods
-4 Wolfwillow Haven
 4 Elspeth Conquers Death
-1 Polukranos, Unchained
-2 Zagoth Triome
+1 Disdainful Stroke
+2 Disdainful Stroke
 1 Sea Gate Restoration
 2 Sea Gate Restoration
-4 Binding the Old Gods
-1 Snow-Covered Swamp
-1 Snow-Covered Forest
-1 Barkchannel Pathway
-2 Snow-Covered Swamp
-2 Snow-Covered Forest
-3 Snow-Covered Swamp
-3 Snow-Covered Forest
-1 Hunt for Specimens
-1 Decisive Denial
-1 Witherbloom Command
-1 Quandrix Cultivator
-1 Titans' Nest
-2 Snow-Covered Island
-2 Hunt for Specimens
-2 Decisive Denial
-2 Barkchannel Pathway
-2 Quandrix Cultivator
-2 Witherbloom Command
-2 Massacre Wurm
-2 Titans' Nest
-3 Snow-Covered Island
-3 Quandrix Cultivator
-3 Titans' Nest
-3 Zagoth Triome
-4 Zagoth Triome
-3 Acquisitions Expert
-4 Acquisitions Expert
-1 Kaervek, the Spiteful
-1 Forest
-1 Shepherd of the Cosmos
-1 Branchloft Pathway
-1 Indatha Triome
-2 Kaervek, the Spiteful
-2 Drannith Magistrate
-2 Shepherd of the Cosmos
-2 Indatha Triome
-2 Branchloft Pathway
-3 Branchloft Pathway
-3 Shepherd of the Cosmos
-3 Indatha Triome
-4 Branchloft Pathway
-4 Shepherd of the Cosmos
 2 Dream Trawler
-1 Acolyte of Affliction
 1 Mystic Subdual
 1 Castle Vantress
 1 Banishing Light
 2 Banishing Light
+3 Disdainful Stroke
 4 Omen of the Sun
+1 Snow-Covered Island
 1 Essence Scatter
-1 Shark Typhoon
 1 Glimpse of Freedom
 1 Snow-Covered Plains
 1 Solemn Simulacrum
-2 Shark Typhoon
-2 Essence Scatter
+1 Shark Typhoon
 2 Glimpse of Freedom
+2 Essence Scatter
 2 Crawling Barrens
+2 Shark Typhoon
 2 Solemn Simulacrum
-3 Shark Typhoon
 3 Negate
+3 Shark Typhoon
 3 Emeria's Call
 3 Solemn Simulacrum
 3 Glimpse of Freedom
@@ -163,15 +40,27 @@
 4 Niko Aris
 1 Behold the Multiverse
 1 Ashiok, Nightmare Muse
+1 Brightclimb Pathway
+1 Heartless Act
+1 Swamp
 1 Elspeth's Nightmare
 1 Temple of Deceit
+1 Clearwater Pathway
 1 Vanishing Verse
+2 Brightclimb Pathway
 2 Behold the Multiverse
 2 Vanishing Verse
 2 Temple of Deceit
+2 Swamp
 2 Elspeth's Nightmare
+2 Clearwater Pathway
+2 Heartless Act
+3 Brightclimb Pathway
+3 Clearwater Pathway
 3 Vanishing Verse
 3 Temple of Deceit
+4 Brightclimb Pathway
+4 Clearwater Pathway
 4 Vanishing Verse
 1 Showdown of the Skalds
 1 Baneslayer Angel
@@ -189,59 +78,21 @@
 2 Showdown of the Skalds
 2 Baneslayer Angel
 2 Ox of Agonas
-2 Narset of the Ancient Way
-2 Needleverge Pathway
 2 Fire Prophecy
 2 Omen of the Forge
-2 Disdainful Stroke
 2 Riverglide Pathway
+2 Narset of the Ancient Way
 2 Raugrin Triome
 2 Mountain
+2 Needleverge Pathway
 2 Prismari Command
 3 Fire Prophecy
 3 Showdown of the Skalds
 3 Needleverge Pathway
 3 Raugrin Triome
-3 Riverglide Pathway
 3 Omen of the Forge
+3 Riverglide Pathway
 3 Narset of the Ancient Way
-4 Riverglide Pathway
 4 Raugrin Triome
+4 Riverglide Pathway
 4 Needleverge Pathway
-1 Toski, Bearer of Secrets
-3 Drannith Magistrate
-3 Mystical Dispute
-4 Thassa, Deep-Dwelling
-1 Masked Vandal
-3 Heartless Act
-4 Heartless Act
-4 Port of Karfell
-1 Baleful Mastery
-1 Temple of Mystery
-1 Tangled Florahedron
-1 Eliminate
-1 Spirit of the Aldergard
-1 Nylea, Keen-Eyed
-1 Feed the Serpent
-1 Lochmere Serpent
-1 Eat to Extinction
-1 Ilysian Caryatid
-1 Temple of Malady
-1 Kogla, the Titan Ape
-1 Jungle Hollow
-1 Atris, Oracle of Half-Truths
-2 Jungle Hollow
-2 Ilysian Caryatid
-2 Polukranos, Unchained
-2 Temple of Mystery
-2 Kogla, the Titan Ape
-2 Spirit of the Aldergard
-2 Atris, Oracle of Half-Truths
-2 Eliminate
-2 Tangled Florahedron
-3 Eliminate
-3 Ilysian Caryatid
-4 Snow-Covered Swamp
-4 Snow-Covered Forest
-5 Snow-Covered Forest
-4 Ilysian Caryatid

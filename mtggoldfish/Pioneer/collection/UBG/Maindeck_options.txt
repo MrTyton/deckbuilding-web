@@ -1,4 +1,3 @@
-3 Dig Through Time
 1 Thoughtseize
 1 Fatal Push
 1 Fabled Passage
@@ -7,11 +6,11 @@
 2 Fatal Push
 2 Watery Grave
 2 Fabled Passage
-3 Fatal Push
-3 Thoughtseize
 3 Fabled Passage
-4 Fabled Passage
+3 Thoughtseize
+3 Fatal Push
 4 Fatal Push
+4 Fabled Passage
 1 Zagoth Triome
 2 Zagoth Triome
 1 Drowned Catacomb
@@ -34,30 +33,46 @@
 3 Drowned Catacomb
 3 Sinister Sabotage
 3 Bring to Light
-1 Forest
 4 Thoughtseize
+1 Forest
+3 Temple of Mystery
+1 Opt
+2 Opt
 1 Drown in the Loch
 2 Drown in the Loch
 3 Watery Grave
 4 Watery Grave
-1 Heartless Act
-1 Bloodchief's Thirst
-4 Sinister Sabotage
-1 Opt
-2 Opt
-1 Breeding Pool
-4 Fae of Wishes
-2 Heartless Act
-3 Opt
 1 Swamp
 1 Island
 2 Island
+3 Opt
+4 Fae of Wishes
+1 Heartless Act
+4 Bala Ged Recovery
+1 Bloodchief's Thirst
+4 Sinister Sabotage
+1 Breeding Pool
+2 Heartless Act
 4 Shimmer of Possibility
 4 Dig Through Time
-4 Bala Ged Recovery
+3 Emergent Ultimatum
 1 Collective Brutality
 1 Blood Crypt
 2 Swamp
+3 Jace, Vryn's Prodigy
+1 Castle Vantress
+1 Urborg, Tomb of Yawgmoth
+1 Behold the Multiverse
+1 Assassin's Trophy
+1 Scavenging Ooze
+1 Negate
+1 Essence Extraction
+1 Dead Weight
+1 Dragonskull Summit
+1 Rootbound Crag
+3 Ketria Triome
+3 Zagoth Triome
+4 Opt
 1 Hinterland Harbor
 1 Snow-Covered Mountain
 1 Snow-Covered Forest
@@ -67,60 +82,45 @@
 2 Snow-Covered Swamp
 1 Mountain
 2 Breeding Pool
-3 Emergent Ultimatum
+2 Discontinuity
 1 Dark Petition
 1 Enter the Infinite
 1 Thassa's Oracle
 4 Emergent Ultimatum
 4 Temple of Mystery
-3 Jace, Vryn's Prodigy
 1 Mystical Dispute
 1 Sheltered Thicket
-2 Discontinuity
 1 Blightstep Pathway
 1 Soul-Guide Lantern
 1 Dragonmaster Outcast
 2 Soul-Guide Lantern
 3 Valki, God of Lies
 4 Bring to Light
-1 Castle Vantress
-1 Urborg, Tomb of Yawgmoth
-1 Behold the Multiverse
-1 Dead Weight
-1 Assassin's Trophy
-1 Negate
-1 Scavenging Ooze
-1 Essence Extraction
-1 Dragonskull Summit
-1 Rootbound Crag
-3 Ketria Triome
-3 Zagoth Triome
-4 Opt
 1 Castle Locthwain
 1 Into the Story
-1 Thieves' Guild Enforcer
 1 Soaring Thought-Thief
+1 Thieves' Guild Enforcer
 1 Clearwater Pathway
 1 Agadeem's Awakening
 1 Ruin Crab
-2 Into the Story
+2 Soaring Thought-Thief
 2 Ruin Crab
 2 Agadeem's Awakening
-2 Soaring Thought-Thief
+2 Into the Story
 2 Clearwater Pathway
 2 Thieves' Guild Enforcer
+3 Soaring Thought-Thief
 3 Clearwater Pathway
-3 Into the Story
 3 Thieves' Guild Enforcer
 3 Ruin Crab
 3 Island
 3 Drown in the Loch
-3 Soaring Thought-Thief
+3 Into the Story
+4 Thieves' Guild Enforcer
+4 Soaring Thought-Thief
 4 Clearwater Pathway
 4 Drown in the Loch
 4 Ruin Crab
-4 Thieves' Guild Enforcer
-4 Soaring Thought-Thief
 1 Hieroglyphic Illumination
 1 Abrupt Decay
 2 Abrupt Decay

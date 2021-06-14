@@ -21,31 +21,30 @@
 1 Remand
 1 Windcaller Aven
 1 Striped Riverwinder
-2 Brazen Borrower
+2 Spirebluff Canal
 2 Street Wraith
 2 Fiery Islet
-2 Spirebluff Canal
 2 Crashing Footfalls
 2 Remand
 2 Striped Riverwinder
 2 Electrodominance
 2 As Foretold
+2 Brazen Borrower
 2 Windcaller Aven
 2 Curator of Mysteries
 2 Living End
-3 Street Wraith
-3 Spirebluff Canal
 3 Crashing Footfalls
 3 Remand
 3 Windcaller Aven
 3 Curator of Mysteries
 3 Living End
+3 Spirebluff Canal
 3 Steam Vents
 3 Electrodominance
 3 As Foretold
 3 Striped Riverwinder
-4 Living End
 4 Spirebluff Canal
+4 Living End
 4 Remand
 4 Crashing Footfalls
 4 Electrodominance
@@ -53,6 +52,7 @@
 4 Striped Riverwinder
 4 Curator of Mysteries
 4 As Foretold
+3 Street Wraith
 1 Spell Pierce
 1 Silundi Vision
 1 Swamp
@@ -64,8 +64,8 @@
 2 Counterspell
 3 Counterspell
 4 Counterspell
+4 Force of Negation
 1 Creeping Tar Pit
-1 Kolaghan's Command
 1 Sulfur Falls
 1 Blood Crypt
 1 Dreadbore
@@ -73,26 +73,28 @@
 1 Serum Visions
 1 Inquisition of Kozilek
 1 Drown in the Loch
+1 Kolaghan's Command
 1 Lightning Bolt
-2 Kolaghan's Command
-2 Inquisition of Kozilek
 2 Creeping Tar Pit
 2 Logic Knot
 2 Dreadbore
 2 Swamp
+2 Kolaghan's Command
 2 Jace, Vryn's Prodigy
 2 Drown in the Loch
 2 Lightning Bolt
+2 Inquisition of Kozilek
 2 Serum Visions
 3 Inquisition of Kozilek
-3 Kolaghan's Command
 3 Lightning Bolt
+3 Kolaghan's Command
 3 Serum Visions
-4 Snapcaster Mage
 4 Cryptic Command
+4 Snapcaster Mage
 1 Flooded Strand
 1 Snow-Covered Forest
+1 Subtlety
+2 Subtlety
 1 Spell Snare
 2 Spell Snare
-4 Force of Negation
 1 Solve the Equation
