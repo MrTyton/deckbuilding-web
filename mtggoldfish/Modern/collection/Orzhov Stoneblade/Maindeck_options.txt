@@ -82,8 +82,8 @@
 3 Sedgemoor Witch
 1 Flagstones of Trokair
 1 Smallpox
-2 Smallpox
 2 Urborg, Tomb of Yawgmoth
+2 Smallpox
 2 Flagstones of Trokair
 3 Smallpox
 3 Flagstones of Trokair
@@ -100,9 +100,9 @@
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
-1 Murderous Rider
 1 Nihil Spellbomb
 1 Sword of Hearth and Home
+1 Murderous Rider
 1 Mavinda, Students' Advocate
 1 Callous Bloodmage
 2 Shriekmaw
@@ -117,8 +117,8 @@
 2 Bloodstained Mire
 3 Urborg, Tomb of Yawgmoth
 4 Flagstones of Trokair
-1 Prismatic Ending
 1 Skyclave Cleric
+1 Prismatic Ending
 2 Skyclave Cleric
 2 Prismatic Ending
 3 Prismatic Ending
@@ -141,25 +141,6 @@
 3 Dusk Legion Zealot
 4 Fetid Heath
 4 Dusk Legion Zealot
-1 Polluted Delta
-1 Mire Triton
-1 Unmarked Grave
-1 Collective Brutality
-1 Priest of Fell Rites
-2 Polluted Delta
-2 Mire Triton
-2 Unmarked Grave
-2 Collective Brutality
-2 Priest of Fell Rites
-3 Verdant Catacombs
-3 Unmarked Grave
-3 Priest of Fell Rites
-3 Polluted Delta
-4 Verdant Catacombs
-4 Priest of Fell Rites
-4 Polluted Delta
-4 Persist
-4 Unmarked Grave
 1 Eiganjo Castle
 1 Thalia, Guardian of Thraben
 1 Ghost Quarter
@@ -168,6 +149,25 @@
 3 Thalia, Guardian of Thraben
 3 Ghost Quarter
 4 Thalia, Guardian of Thraben
+1 Polluted Delta
+1 Mire Triton
+1 Collective Brutality
+1 Priest of Fell Rites
+1 Unmarked Grave
+2 Polluted Delta
+2 Mire Triton
+2 Collective Brutality
+2 Unmarked Grave
+2 Priest of Fell Rites
+3 Verdant Catacombs
+3 Unmarked Grave
+3 Priest of Fell Rites
+3 Polluted Delta
+4 Priest of Fell Rites
+4 Polluted Delta
+4 Persist
+4 Unmarked Grave
+4 Verdant Catacombs
 1 Sword of Light and Shadow
 1 Esper Sentinel
 1 Geralf's Messenger

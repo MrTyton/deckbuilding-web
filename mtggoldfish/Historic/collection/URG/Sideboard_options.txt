@@ -1,8 +1,8 @@
+1 Spell Pierce
 2 Anger of the Gods
 1 Scavenging Ooze
 1 Cindervines
 2 Cindervines
-1 Grafdigger's Cage
 2 Grafdigger's Cage
 1 Brazen Borrower
 1 Soul-Guide Lantern
@@ -51,29 +51,45 @@
 2 Brazen Borrower
 1 Chainweb Aracnir
 1 Weather the Storm
-2 Chandra, Awakened Inferno
-1 Shark Typhoon
-2 Shark Typhoon
-2 Disdainful Stroke
 1 Narset, Parter of Veils
 1 Cling to Dust
+1 Shark Typhoon
+2 Shark Typhoon
+2 Chandra, Awakened Inferno
+2 Disdainful Stroke
+1 Sweltering Suns
+1 Expansion/Explosion
+1 Escape to the Wilds
+1 Alrund's Epiphany
+1 Yasharn, Implacable Earth
+1 Ugin, the Spirit Dragon
+1 Fabled Passage
+1 Thud
+2 Yasharn, Implacable Earth
 2 Lava Coil
 3 Grafdigger's Cage
+2 Narset, Parter of Veils
 3 Negate
-1 Sweltering Suns
 2 Sweltering Suns
 1 Fry
-1 Arasta of the Endless Web
+1 Shadowspear
+1 Saw It Coming
 2 Elder Gargaroth
+1 Unsummon
+4 Aether Gust
 1 Nightpack Ambusher
 2 Nightpack Ambusher
-4 Aether Gust
-2 Narset, Parter of Veils
+1 Arasta of the Endless Web
 1 Unsubstantiate
 2 Unsubstantiate
-1 Unsummon
 2 Unsummon
 3 Unsummon
+1 Fatal Push
+2 Fatal Push
+1 Duress
+2 Duress
+1 Test of Talents
+2 Test of Talents
 1 Prismari Command
 2 Fry
 1 Scorching Dragonfire
@@ -85,41 +101,45 @@
 3 Leyline of the Void
 1 Kira, Great Glass-Spinner
 2 Regrowth
-3 Allosaurus Shepherd
-2 Arasta of the Endless Web
-1 Fatal Push
-2 Fatal Push
-1 Roiling Vortex
-2 Roiling Vortex
-3 Fatal Push
-1 Duress
-1 Leyline of Sanctity
-2 Leyline of Sanctity
-2 Duress
 3 Duress
 4 Duress
+3 Allosaurus Shepherd
+1 Whelming Wave
+2 Arasta of the Endless Web
+2 Cling to Dust
+3 Fatal Push
+1 Leyline of Sanctity
+2 Leyline of Sanctity
+1 Roiling Vortex
+2 Roiling Vortex
 1 Legion's End
-1 Erebos's Intervention
 1 Crippling Fear
+1 Erebos's Intervention
 2 Commence the Endgame
-2 Erebos's Intervention
 2 Crippling Fear
+2 Erebos's Intervention
 1 Tormod's Crypt
 1 Esika's Chariot
-1 Chandra, Torch of Defiance
 1 Beacon Bolt
-2 Cling to Dust
+1 Entrancing Melody
+1 Storm's Wrath
+1 Banefire
+1 Chandra, Torch of Defiance
+1 River's Rebuke
+1 Narset's Reversal
+1 Plummet
 1 Essence Scatter
 1 Toski, Bearer of Secrets
 2 Essence Scatter
-1 Carnage Tyrant
-2 Carnage Tyrant
 1 Extinction Event
 2 Extinction Event
-1 Cry of the Carnarium
 1 Perilous Voyage
-2 Cry of the Carnarium
+1 Cry of the Carnarium
 2 Perilous Voyage
+2 Cry of the Carnarium
+2 Ox of Agonas
+1 Carnage Tyrant
+2 Carnage Tyrant
 1 The Great Henge
 1 Skysovereign, Consul Flagship
 1 Hour of Devastation
@@ -128,7 +148,6 @@
 1 Platinum Angel
 1 Sorcerous Spyglass
 2 Hour of Devastation
-2 Ox of Agonas
 1 Assassin's Trophy
 1 Ashiok's Erasure
 1 Eat to Extinction
@@ -139,9 +158,7 @@
 1 Wilt
 2 Crush the Weak
 2 Wilt
-1 Test of Talents
 1 Decisive Denial
-2 Test of Talents
 2 Decisive Denial
 1 Tamiyo, Collector of Tales
 1 Noxious Grasp
@@ -152,16 +169,19 @@
 2 Esika's Chariot
 3 Elder Gargaroth
 3 Nightpack Ambusher
-3 Roiling Vortex
+1 Polukranos, Unchained
+2 Polukranos, Unchained
+3 Test of Talents
 3 Klothys, God of Destiny
+3 Roiling Vortex
 1 Phyrexian Scriptures
 2 Legion's End
 2 Phyrexian Scriptures
 3 Legion's End
+3 Yasharn, Implacable Earth
 1 Run Afoul
 3 Relic of Progenitus
 1 Into the Roil
-1 Expansion/Explosion
 1 Neoform
 1 Weaver of Lightning
 2 Weaver of Lightning
@@ -170,8 +190,8 @@
 1 Phyrexian Arena
 3 Leyline of Sanctity
 4 Leyline of Sanctity
-1 Dissenter's Deliverance
 1 Questing Beast
+1 Dissenter's Deliverance
 2 Tale's End
 2 Dissenter's Deliverance
 3 Pact of Negation
@@ -183,6 +203,9 @@
 1 Robber of the Rich
 2 Rampaging Ferocidon
 2 Robber of the Rich
-3 Scavenging Ooze
 3 Robber of the Rich
+3 Scavenging Ooze
+1 Bloodchief's Thirst
+2 Bloodchief's Thirst
+3 Bloodchief's Thirst
 4 Robber of the Rich

@@ -42,6 +42,10 @@
 2 Cling to Dust
 2 Ensnaring Bridge
 3 Ensnaring Bridge
+1 Counterspell
+2 Counterspell
+3 Counterspell
+4 Counterspell
 1 Murderous Cut
 1 Echoing Truth
 1 Search for Azcanta
@@ -53,10 +57,6 @@
 2 Manic Scribe
 2 Damnation
 4 Snow-Covered Island
-1 Counterspell
-2 Counterspell
-3 Counterspell
-4 Counterspell
 1 Urborg, Tomb of Yawgmoth
 1 Drowned Catacomb
 1 Extirpate
@@ -70,12 +70,12 @@
 4 Watery Grave
 4 Extirpate
 1 Unearth
-1 Blood Crypt
 1 Jace, Vryn's Prodigy
 1 Scalding Tarn
 1 Call of the Death-Dweller
 1 Reflecting Pool
 1 Izzet Charm
+1 Blood Crypt
 1 Inquisition of Kozilek
 1 Battle Mastery
 1 Verdant Catacombs
@@ -89,8 +89,8 @@
 2 Jace, Vryn's Prodigy
 2 Scalding Tarn
 2 Izzet Charm
-2 Storm Herald
 2 Blood Crypt
+2 Storm Herald
 2 Prodigious Growth
 2 Collective Brutality
 2 Eldrazi Conscription

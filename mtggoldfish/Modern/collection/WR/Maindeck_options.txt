@@ -1,60 +1,16 @@
 2 Arid Mesa
 3 Mountain
-3 Inspiring Vantage
 1 Crash Through
 2 Crash Through
+3 Inspiring Vantage
 4 Sunbaked Canyon
 1 Kiln Fiend
 2 Kiln Fiend
-4 Inspiring Vantage
 3 Crash Through
+4 Inspiring Vantage
 3 Arid Mesa
-4 Arid Mesa
-1 Giver of Runes
-2 Giver of Runes
-3 Giver of Runes
-4 Giver of Runes
-1 Stoneforge Mystic
-1 Skyclave Apparition
-1 Imperial Recruiter
-1 Flickerwisp
-1 Aether Vial
-1 Thalia, Guardian of Thraben
-1 Plains
-2 Stoneforge Mystic
-2 Plains
-2 Skyclave Apparition
-2 Flickerwisp
-2 Aether Vial
-2 Thalia, Guardian of Thraben
-2 Imperial Recruiter
-3 Stoneforge Mystic
-3 Skyclave Apparition
-3 Thalia, Guardian of Thraben
-3 Imperial Recruiter
-3 Plains
-3 Flickerwisp
-3 Aether Vial
-4 Stoneforge Mystic
-4 Aether Vial
-4 Plains
-4 Flickerwisp
-4 Thalia, Guardian of Thraben
-5 Plains
-1 Magus of the Moon
-1 Needleverge Pathway
-2 Needleverge Pathway
-4 Imperial Recruiter
-1 Kaldra Compleat
-6 Plains
-1 Sword of Fire and Ice
-1 Charming Prince
-1 Sanctum Prelate
-1 Batterskull
-4 Skyclave Apparition
 1 Blood Crypt
-1 Marsh Flats
-2 Marsh Flats
+4 Arid Mesa
 1 Flusterstorm
 1 Steam Vents
 2 Flusterstorm
@@ -62,24 +18,62 @@
 3 Flusterstorm
 1 Emerge Unscathed
 2 Emerge Unscathed
-1 Solitude
-2 Charming Prince
-2 Solitude
-3 Solitude
-4 Solitude
-1 Prismatic Ending
-1 Shadowspear
-2 Prismatic Ending
-1 Windswept Heath
-2 Magus of the Moon
-2 Sanctum Prelate
+1 Giver of Runes
+2 Giver of Runes
+3 Giver of Runes
+4 Giver of Runes
+1 Aether Vial
+1 Skyclave Apparition
+1 Imperial Recruiter
+1 Flickerwisp
+1 Stoneforge Mystic
+1 Thalia, Guardian of Thraben
+1 Plains
+2 Aether Vial
+2 Skyclave Apparition
+2 Flickerwisp
+2 Plains
+2 Stoneforge Mystic
+2 Thalia, Guardian of Thraben
+2 Imperial Recruiter
+3 Aether Vial
+3 Skyclave Apparition
+3 Stoneforge Mystic
+3 Thalia, Guardian of Thraben
+3 Imperial Recruiter
+3 Plains
+3 Flickerwisp
+4 Aether Vial
+4 Plains
+4 Flickerwisp
+4 Stoneforge Mystic
+4 Thalia, Guardian of Thraben
+5 Plains
+1 Marsh Flats
+2 Marsh Flats
 3 Kiln Fiend
-3 Marsh Flats
-4 Marsh Flats
 3 Assault Strobe
 1 Tainted Strike
 2 Tainted Strike
 3 Tainted Strike
+1 Magus of the Moon
+1 Needleverge Pathway
+2 Magus of the Moon
+2 Needleverge Pathway
+4 Imperial Recruiter
+1 Prismatic Ending
+1 Kaldra Compleat
+1 Shadowspear
+2 Prismatic Ending
+6 Plains
+3 Marsh Flats
+4 Marsh Flats
+1 Sanctum Prelate
+1 Batterskull
+2 Sanctum Prelate
+4 Skyclave Apparition
+1 Sword of Fire and Ice
+1 Charming Prince
 1 Esper Sentinel
 1 Godless Shrine
 2 Esper Sentinel
@@ -87,23 +81,21 @@
 3 Esper Sentinel
 4 Esper Sentinel
 4 Prismatic Ending
-1 Hallowed Fountain
+1 Solitude
+2 Solitude
+2 Charming Prince
+3 Solitude
+4 Solitude
+7 Plains
 1 Spellskite
 1 Lightning Helix
+1 Windswept Heath
 2 Lightning Helix
 3 Lightning Helix
-2 Windswept Heath
-3 Windswept Heath
-3 Needleverge Pathway
-4 Windswept Heath
-4 Needleverge Pathway
-7 Plains
-3 Charming Prince
-4 Charming Prince
+4 Flusterstorm
 1 Maul of the Skyclaves
 1 Mishra's Factory
 2 Mishra's Factory
-4 Flusterstorm
 1 Light Up the Stage
 2 Light Up the Stage
 3 Light Up the Stage
@@ -123,21 +115,12 @@
 1 Cavern of Souls
 1 Blinkmoth Nexus
 1 Urza's Saga
+1 Hallowed Fountain
 1 Sword of Hearth and Home
 2 Urza's Saga
 2 Blinkmoth Nexus
 3 Urza's Saga
 4 Urza's Saga
-1 Glasspool Mimic
-1 Sword of Feast and Famine
-1 Wall of Omens
-1 Emeria's Call
-1 Ephemerate
-2 Emeria's Call
-2 Ephemerate
-2 Wall of Omens
-3 Ephemerate
-4 Ephemerate
 1 Field of Ruin
 1 Archon of Emeria
 1 Eldrazi Displacer
@@ -149,29 +132,36 @@
 2 Silent Clearing
 3 Archon of Emeria
 3 Field of Ruin
-3 Tectonic Edge
+3 Charming Prince
 3 Silent Clearing
+3 Tectonic Edge
 3 Sanctum Prelate
 4 Archon of Emeria
 4 Field of Ruin
+4 Charming Prince
 4 Tectonic Edge
 4 Silent Clearing
-1 Noble Hierarch
 1 Branchloft Pathway
 1 Temple Garden
 1 Dryad Arbor
+1 Noble Hierarch
 1 Path to Exile
 2 Noble Hierarch
 2 Branchloft Pathway
 2 Spellskite
+2 Windswept Heath
 2 Path to Exile
 3 Noble Hierarch
 3 Branchloft Pathway
+3 Windswept Heath
+3 Needleverge Pathway
 3 Mishra's Factory
 4 Noble Hierarch
+4 Windswept Heath
 4 Branchloft Pathway
 4 Lightning Helix
 4 Mishra's Factory
+4 Needleverge Pathway
 2 Scalding Tarn
 3 Scalding Tarn
 4 Kiln Fiend

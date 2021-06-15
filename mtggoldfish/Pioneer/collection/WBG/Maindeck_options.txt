@@ -16,19 +16,20 @@
 3 Clearwater Pathway
 1 Silversmote Ghoul
 2 Silversmote Ghoul
-1 Watery Grave
-1 Creeping Chill
+1 Darkbore Pathway
 1 Haunted Dead
 1 Driven/Despair
 1 Witherbloom Command
-1 Darkbore Pathway
+1 Creeping Chill
 1 Narcomoeba
+1 Watery Grave
 1 Grisly Salvage
 1 Deathrite Shaman
 1 Stitcher's Supplier
 1 Glowspore Shaman
 1 Gather the Pack
 1 Prized Amalgam
+2 Darkbore Pathway
 2 Creeping Chill
 2 Witherbloom Command
 2 Stitcher's Supplier
@@ -36,22 +37,21 @@
 2 Grisly Salvage
 2 Prized Amalgam
 2 Narcomoeba
-2 Darkbore Pathway
 2 Deathrite Shaman
-3 Darkbore Pathway
 3 Witherbloom Command
-3 Creeping Chill
+3 Darkbore Pathway
 3 Silversmote Ghoul
 3 Gather the Pack
 3 Prized Amalgam
 3 Narcomoeba
 3 Grisly Salvage
+3 Creeping Chill
 3 Stitcher's Supplier
 3 Deathrite Shaman
 4 Silversmote Ghoul
 4 Darkbore Pathway
-4 Creeping Chill
 4 Gather the Pack
+4 Creeping Chill
 4 Stitcher's Supplier
 4 Deathrite Shaman
 4 Prized Amalgam
@@ -103,8 +103,8 @@
 2 Traverse the Ulvenwald
 2 Assassin's Trophy
 3 Snow-Covered Forest
-3 Grim Flayer
 3 Snow-Covered Swamp
+3 Grim Flayer
 3 Traverse the Ulvenwald
 3 Blooming Marsh
 4 Grim Flayer
@@ -128,8 +128,8 @@
 1 Read the Bones
 2 Starnheim Unleashed
 2 Shatter the Sky
-2 Declaration in Stone
 2 Agonizing Remorse
+2 Declaration in Stone
 2 Bloodchief's Thirst
 2 Humiliate
 2 Approach of the Second Sun
@@ -148,11 +148,11 @@
 3 Godless Shrine
 3 Isolated Chapel
 3 Starnheim Unleashed
-4 Bloodchief's Thirst
 4 Agonizing Remorse
 4 Shatter the Sky
 4 Humiliate
 4 Isolated Chapel
+4 Bloodchief's Thirst
 4 Read the Bones
 4 Declaration in Stone
 4 Approach of the Second Sun
@@ -162,36 +162,36 @@
 5 Plains
 6 Plains
 7 Plains
+1 Sorin, Imperious Bloodlord
 1 Knight of the Ebon Legion
 1 Dusk Legion Zealot
 1 Vicious Conquistador
 1 Gifted Aetherborn
 1 Mutavault
-1 Sorin, Imperious Bloodlord
 1 Sanctum Seeker
 1 Champion of Dusk
+2 Sorin, Imperious Bloodlord
 2 Knight of the Ebon Legion
 2 Dusk Legion Zealot
 2 Champion of Dusk
 2 Gifted Aetherborn
 2 Sanctum Seeker
-2 Sorin, Imperious Bloodlord
 2 Vicious Conquistador
 2 Mutavault
-3 Dusk Legion Zealot
 3 Sorin, Imperious Bloodlord
+3 Dusk Legion Zealot
 3 Sanctum Seeker
 3 Vicious Conquistador
 3 Knight of the Ebon Legion
 3 Gifted Aetherborn
 3 Mutavault
 3 Champion of Dusk
+4 Sorin, Imperious Bloodlord
 4 Castle Locthwain
 4 Dusk Legion Zealot
 4 Champion of Dusk
 4 Gifted Aetherborn
 4 Knight of the Ebon Legion
-4 Sorin, Imperious Bloodlord
 4 Vicious Conquistador
 4 Sanctum Seeker
 4 Mutavault
