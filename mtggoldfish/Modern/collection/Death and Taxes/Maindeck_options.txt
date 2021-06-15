@@ -1,17 +1,17 @@
 17 Snow-Covered Plains
 18 Snow-Covered Plains
-1 Branchloft Pathway
-1 Razorverge Thicket
-1 Noble Hierarch
 1 Forest
-2 Branchloft Pathway
+1 Razorverge Thicket
+1 Branchloft Pathway
+1 Noble Hierarch
 2 Razorverge Thicket
+2 Branchloft Pathway
 2 Noble Hierarch
-3 Branchloft Pathway
 3 Razorverge Thicket
+3 Branchloft Pathway
 3 Noble Hierarch
-4 Branchloft Pathway
 4 Razorverge Thicket
+4 Branchloft Pathway
 4 Noble Hierarch
 2 Castle Ardenvale
 2 Charming Prince
@@ -29,8 +29,8 @@
 2 Stirring Wildwood
 1 Brushland
 1 Temple Garden
-2 Temple Garden
 2 Brushland
+2 Temple Garden
 3 Temple Garden
 4 Temple Garden
 1 Eiganjo Castle
@@ -51,11 +51,11 @@
 1 Winds of Abandon
 1 Sunbaked Canyon
 10 Plains
+1 Collected Company
 1 Scavenging Ooze
 1 Gavony Township
-1 Collected Company
-2 Scavenging Ooze
 2 Collected Company
+2 Scavenging Ooze
 3 Collected Company
 1 Flagstones of Trokair
 1 Auriok Champion
@@ -79,33 +79,33 @@
 3 Phyrexian Revoker
 1 Kaldra Compleat
 1 Inspiring Vantage
-2 Sunbaked Canyon
 2 Inspiring Vantage
+2 Sunbaked Canyon
 3 Sunbaked Canyon
 3 Inspiring Vantage
-4 Sunbaked Canyon
 4 Inspiring Vantage
+4 Sunbaked Canyon
 3 Winds of Abandon
 3 Spellskite
 1 Hexdrinker
 2 Hexdrinker
 3 Hexdrinker
 4 Hexdrinker
-1 Thraben Inspector
+1 Skyclave Cleric
 1 Mishra's Factory
 1 Emeria's Call
-1 Skyclave Cleric
+1 Thraben Inspector
 1 Solitude
+2 Solitude
 2 Mishra's Factory
 2 Emeria's Call
 2 Thraben Inspector
-2 Solitude
-3 Emeria's Call
-3 Mishra's Factory
 3 Solitude
+3 Mishra's Factory
+3 Emeria's Call
 4 Emeria's Call
-4 Restoration Angel
 4 Solitude
+4 Restoration Angel
 3 Linvala, Keeper of Silence
 4 Auriok Champion
 4 Linvala, Keeper of Silence
@@ -115,15 +115,15 @@
 1 Embercleave
 1 Sanctum Prelate
 2 Sanctum Prelate
-1 Selfless Savior
-2 Selfless Savior
-1 Mountain
 1 Venerable Warsinger
+1 Mountain
 2 Venerable Warsinger
 3 Venerable Warsinger
+3 Horizon Canopy
+4 Horizon Canopy
 1 Vryn Wingmare
 2 Vryn Wingmare
 3 Vryn Wingmare
 4 Vryn Wingmare
-3 Horizon Canopy
-4 Horizon Canopy
+1 Selfless Savior
+2 Selfless Savior

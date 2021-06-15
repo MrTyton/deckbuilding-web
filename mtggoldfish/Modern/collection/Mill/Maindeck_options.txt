@@ -1,14 +1,14 @@
 1 Flooded Strand
 2 Flooded Strand
-3 Maddening Cacophony
 2 Snapcaster Mage
+3 Maddening Cacophony
 4 Surgical Extraction
 2 Crypt Incursion
 3 Flooded Strand
 4 Maddening Cacophony
-1 Into the Story
 3 Snapcaster Mage
 3 Prismatic Vista
+1 Into the Story
 1 Shelldock Isle
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
@@ -18,15 +18,17 @@
 2 Shelldock Isle
 1 Fraying Sanity
 2 Fraying Sanity
+1 Fractured Sanity
+2 Fractured Sanity
+3 Fractured Sanity
+4 Fractured Sanity
 1 Baleful Mastery
 1 Snow-Covered Swamp
 1 Snow-Covered Island
-2 Snow-Covered Swamp
 2 Snow-Covered Island
+2 Snow-Covered Swamp
 3 Snow-Covered Island
 1 Mikokoro, Center of the Sea
-1 Misty Rainforest
-2 Misty Rainforest
 3 Bloodchief's Thirst
 1 Thoughtseize
 2 Thoughtseize
@@ -34,20 +36,12 @@
 2 Bloodstained Mire
 3 Bloodstained Mire
 4 Bloodstained Mire
+1 Misty Rainforest
+2 Misty Rainforest
 1 Cling to Dust
 2 Cling to Dust
 2 Ensnaring Bridge
 3 Ensnaring Bridge
-1 Forest
-1 Breeding Pool
-1 Waterlogged Grove
-1 Harrow
-1 Assassin's Trophy
-2 Breeding Pool
-2 Assassin's Trophy
-2 Harrow
-3 Misty Rainforest
-4 Misty Rainforest
 1 Murderous Cut
 1 Echoing Truth
 1 Search for Azcanta
@@ -59,6 +53,10 @@
 2 Manic Scribe
 2 Damnation
 4 Snow-Covered Island
+1 Counterspell
+2 Counterspell
+3 Counterspell
+4 Counterspell
 1 Urborg, Tomb of Yawgmoth
 1 Drowned Catacomb
 1 Extirpate
@@ -67,52 +65,44 @@
 2 Drowned Catacomb
 2 Extirpate
 2 Breaking/Entering
-3 Extirpate
 3 Drowned Catacomb
+3 Extirpate
 4 Watery Grave
 4 Extirpate
-1 Counterspell
-1 Fractured Sanity
-2 Counterspell
-2 Fractured Sanity
-3 Counterspell
-3 Fractured Sanity
-4 Counterspell
-4 Fractured Sanity
-1 Scalding Tarn
-1 Verdant Catacombs
 1 Unearth
-1 Reflecting Pool
-1 Call of the Death-Dweller
-1 Jace, Vryn's Prodigy
-1 Izzet Charm
 1 Blood Crypt
+1 Jace, Vryn's Prodigy
+1 Scalding Tarn
+1 Call of the Death-Dweller
+1 Reflecting Pool
+1 Izzet Charm
 1 Inquisition of Kozilek
 1 Battle Mastery
+1 Verdant Catacombs
 1 Steam Vents
 1 Eldrazi Conscription
 1 Collective Brutality
 1 Prodigious Growth
 1 Stinkweed Imp
 1 Storm Herald
-2 Scalding Tarn
 2 Unearth
-2 Izzet Charm
 2 Jace, Vryn's Prodigy
-2 Blood Crypt
+2 Scalding Tarn
+2 Izzet Charm
 2 Storm Herald
+2 Blood Crypt
+2 Prodigious Growth
 2 Collective Brutality
 2 Eldrazi Conscription
-2 Prodigious Growth
 2 Inquisition of Kozilek
-3 Collective Brutality
+3 Scalding Tarn
 3 Unearth
+3 Collective Brutality
 3 Eldrazi Conscription
 3 Storm Herald
 3 Jace, Vryn's Prodigy
-3 Scalding Tarn
-4 Unearth
-4 Eldrazi Conscription
 4 Collective Brutality
-4 Storm Herald
+4 Unearth
 4 Jace, Vryn's Prodigy
+4 Eldrazi Conscription
+4 Storm Herald

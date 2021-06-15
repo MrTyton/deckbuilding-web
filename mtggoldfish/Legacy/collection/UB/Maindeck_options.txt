@@ -1,30 +1,25 @@
-1 Street Wraith
+3 Thoughtseize
+4 Wasteland
+1 Watery Grave
 1 Snuff Out
-2 Death's Shadow
-2 Wasteland
+1 Street Wraith
+1 Death's Shadow
 2 Street Wraith
 2 Snuff Out
+2 Death's Shadow
 2 Watery Grave
-3 Thoughtseize
-3 Death's Shadow
-3 Wasteland
 3 Street Wraith
+3 Death's Shadow
 4 Thoughtseize
 4 Street Wraith
 4 Death's Shadow
-4 Wasteland
 1 Daze
 2 Daze
-3 Watery Grave
 3 Daze
 4 Daze
 1 Gurmag Angler
 2 Gurmag Angler
-1 Duress
-1 Night's Whisper
-1 Rain of Filth
-2 Duress
-2 Rain of Filth
+3 Watery Grave
 1 Stifle
 2 Stifle
 3 Stifle
@@ -32,37 +27,43 @@
 2 Delver of Secrets
 3 Delver of Secrets
 4 Delver of Secrets
-1 Misty Rainforest
+1 Duress
+1 Night's Whisper
+1 Rain of Filth
+2 Duress
+2 Rain of Filth
 1 Marsh Flats
+1 Misty Rainforest
 2 Marsh Flats
-1 Chrome Mox
-2 Chrome Mox
-1 Spell Pierce
-2 Spell Pierce
 2 Scalding Tarn
 1 Brazen Borrower
+1 Spell Pierce
+2 Spell Pierce
+1 Chrome Mox
+2 Chrome Mox
+3 Scalding Tarn
+1 Volcanic Island
+2 Brazen Borrower
 1 Spell Snare
 2 Spell Snare
-3 Scalding Tarn
 4 Scalding Tarn
 1 Predict
 2 Predict
 3 Predict
 4 Predict
-1 Volcanic Island
-2 Brazen Borrower
+1 Badlands
+4 Stifle
 1 Fatal Push
 2 Fatal Push
-1 Burning Wish
-1 Galvanic Relay
-1 Badlands
-2 Burning Wish
-2 Galvanic Relay
 1 Ethereal Forager
 1 Force of Negation
-2 Ethereal Forager
-2 Force of Negation
 2 Bloodstained Mire
+2 Force of Negation
+2 Ethereal Forager
+1 Galvanic Relay
+1 Burning Wish
+2 Galvanic Relay
+2 Burning Wish
 1 Prismatic Vista
 2 Night's Whisper
 3 Duress
@@ -72,7 +73,20 @@
 2 Drown in the Loch
 2 Reanimate
 3 Gurmag Angler
-4 Stifle
+1 Fiery Islet
+1 Cling to Dust
+1 Lightning Bolt
+1 Bonecrusher Giant
+1 Abrade
+1 Snow-Covered Island
+1 Young Pyromancer
+2 Volcanic Island
+2 Lightning Bolt
+2 Bonecrusher Giant
+2 Fiery Islet
+2 Young Pyromancer
+3 Lightning Bolt
+4 Lightning Bolt
 2 Flooded Strand
 4 Island
 1 Overgrown Tomb
@@ -81,13 +95,13 @@
 1 Breeding Pool
 1 Tarmogoyf
 1 Once Upon a Time
-2 Verdant Catacombs
 2 Stubborn Denial
 2 Inquisition of Kozilek
-2 Tarmogoyf
 2 Once Upon a Time
-3 Verdant Catacombs
+2 Verdant Catacombs
+2 Tarmogoyf
 3 Stubborn Denial
 3 Tarmogoyf
-3 Once Upon a Time
+3 Verdant Catacombs
 4 Verdant Catacombs
+3 Once Upon a Time

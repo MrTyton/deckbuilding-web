@@ -1,27 +1,26 @@
+2 Snow-Covered Island
 3 Snow-Covered Island
-2 Counterspell
 2 Moat
 1 Snow-Covered Mountain
 2 Snow-Covered Plains
+1 Council's Judgment
 4 Scalding Tarn
 4 Snow-Covered Island
-1 Council's Judgment
 5 Snow-Covered Island
 3 Prismatic Vista
 1 Spell Pierce
 2 Supreme Verdict
 1 Court of Grace
 5 Island
-1 Dovin's Veto
 1 Counterbalance
 1 Polluted Delta
 2 Brazen Borrower
+1 Dovin's Veto
+1 Misty Rainforest
 3 Plains
 1 Terminus
 2 Terminus
-1 Misty Rainforest
 2 Counterbalance
-2 Dovin's Veto
 2 Spell Pierce
 3 Supreme Verdict
 1 Hullbreacher
@@ -31,25 +30,25 @@
 1 Daze
 2 Daze
 3 Daze
-1 Spell Snare
+2 Dovin's Veto
 1 Day's Undoing
 2 Day's Undoing
 3 Teferi, Time Raveler
 4 Prismatic Vista
+2 Misty Rainforest
 3 Force of Negation
 1 Wasteland
 2 Wasteland
 1 Swamp
 1 Underground Sea
-2 Misty Rainforest
 1 Retrofitter Foundry
 2 Retrofitter Foundry
 2 Polluted Delta
 3 Polluted Delta
 4 Polluted Delta
 1 Cling to Dust
-1 Eliminate
 1 Bloodstained Mire
+1 Eliminate
 1 Changeling Outcast
 1 Baleful Strix
 1 Fatal Push
@@ -62,8 +61,8 @@
 2 Swamp
 2 Ingenious Infiltrator
 2 Fatal Push
-3 Retrofitter Foundry
 3 Yuriko, the Tiger's Shadow
+3 Retrofitter Foundry
 3 Ornithopter
 3 Ingenious Infiltrator
 3 Changeling Outcast
@@ -75,16 +74,13 @@
 4 Retrofitter Foundry
 1 Detention Sphere
 1 Teferi, Hero of Dominaria
+1 Spell Snare
 1 Predict
 2 Spell Snare
 2 Council's Judgment
 1 Pyroblast
 3 Day's Undoing
 4 Plains
-1 Court of Cunning
-2 Court of Cunning
-1 Back to Basics
-1 Crucible of Worlds
 1 Replenish
 1 Cast Out
 1 Lay Claim
@@ -92,18 +88,29 @@
 2 Replenish
 2 Lay Claim
 3 Cast Out
-3 Replenish
 3 Lay Claim
+3 Replenish
+1 Crucible of Worlds
 4 Force of Negation
 1 Mishra's Factory
 2 Mishra's Factory
 3 Mishra's Factory
+1 Prismatic Ending
+2 Prismatic Ending
+1 Snow-Covered Forest
+1 Uro, Titan of Nature's Wrath
+1 Tropical Island
+1 Savannah
+2 Uro, Titan of Nature's Wrath
+3 Uro, Titan of Nature's Wrath
+3 Misty Rainforest
+4 Misty Rainforest
 1 Doomskar
 2 Mystic Sanctuary
 1 Unexpectedly Absent
+1 Back to Basics
 1 Vendilion Clique
 1 Flusterstorm
-2 Back to Basics
 1 Omen of the Sea
 1 Vanishing Verse
 1 Trial of Ambition
@@ -115,76 +122,87 @@
 2 Trial of Ambition
 3 Omen of the Sea
 3 Narset, Parter of Veils
-1 Rest in Peace
 1 Helm of Obedience
+1 Rest in Peace
 2 Rest in Peace
 2 Helm of Obedience
 3 Rest in Peace
+1 Sylvan Library
+1 Engineered Explosives
+1 Timeless Dragon
+1 Ice-Fang Coatl
+1 Endurance
+1 Batterskull
+1 Umezawa's Jitte
+1 Stoneforge Mystic
+2 Endurance
+2 Tropical Island
+2 Ice-Fang Coatl
+2 Snow-Covered Forest
+2 Engineered Explosives
+2 Stoneforge Mystic
+2 Timeless Dragon
+3 Tundra
+3 Ice-Fang Coatl
+3 Timeless Dragon
+3 Stoneforge Mystic
+1 Court of Cunning
+2 Court of Cunning
 3 Court of Cunning
-1 Urza's Saga
-1 Pithing Needle
-1 Prismatic Ending
-2 Prismatic Ending
-2 Urza's Saga
-3 Urza's Saga
-4 Urza's Saga
 1 Abrupt Decay
 1 Mox Diamond
-1 Forest
-1 Life from the Loam
-1 Savannah
+1 Tranquil Thicket
 1 Lonely Sandbar
 1 Verdant Catacombs
-1 Tranquil Thicket
-1 Field of the Dead
+1 Forest
 1 Bojuka Bog
 1 Crop Rotation
-1 Tropical Island
+1 Life from the Loam
+1 Field of the Dead
 1 Bayou
-1 Snow-Covered Forest
-1 Uro, Titan of Nature's Wrath
 2 Abrupt Decay
 2 Mox Diamond
 2 Life from the Loam
-2 Uro, Titan of Nature's Wrath
 2 Field of the Dead
 3 Abrupt Decay
 3 Mox Diamond
-3 Wasteland
 3 Life from the Loam
-3 Misty Rainforest
-3 Uro, Titan of Nature's Wrath
+3 Wasteland
 4 Abrupt Decay
+4 Wasteland
 4 Mox Diamond
 4 Uro, Titan of Nature's Wrath
-4 Misty Rainforest
-4 Wasteland
-1 Lightning Bolt
+1 Urza's Saga
+1 Pithing Needle
+2 Urza's Saga
+3 Urza's Saga
+4 Urza's Saga
 1 Impulse
+1 Lightning Bolt
 1 Bonecrusher Giant
 1 Fiery Islet
 1 Burst Lightning
 1 Faerie Conclave
-2 Lightning Bolt
 2 Impulse
+2 Volcanic Island
+2 Lightning Bolt
 2 Bonecrusher Giant
-2 Snapcaster Mage
 2 Fiery Islet
 2 Burst Lightning
+2 Snapcaster Mage
 2 Faerie Conclave
-2 Volcanic Island
+3 Snapcaster Mage
+3 Volcanic Island
 3 Lightning Bolt
 3 Bonecrusher Giant
 3 Brazen Borrower
-3 Volcanic Island
 3 Faerie Conclave
 3 Burst Lightning
-3 Snapcaster Mage
-4 Snapcaster Mage
-4 Bonecrusher Giant
-4 Mishra's Factory
-4 Volcanic Island
 4 Lightning Bolt
+4 Bonecrusher Giant
+4 Volcanic Island
+4 Snapcaster Mage
+4 Mishra's Factory
 4 Faerie Conclave
 1 Path to Exile
 4 Cast Out

@@ -83,8 +83,8 @@
 1 Gods Willing
 4 Righteous Valkyrie
 1 Baneslayer Angel
-1 Vito, Thorn of the Dusk Rose
 1 Godless Shrine
+1 Vito, Thorn of the Dusk Rose
 1 Temple of Silence
 1 Isolated Chapel
 2 Godless Shrine
@@ -124,6 +124,13 @@
 2 Gods Willing
 2 Benalish Marshal
 3 Benalish Marshal
+1 Fight as One
+1 Mazemind Tome
+1 Selfless Savior
+2 Selfless Savior
+2 Fight as One
+3 Selfless Savior
+4 Selfless Savior
 1 Oath of Kaya
 1 Erebos's Intervention
 1 Scoured Barrens
@@ -132,11 +139,11 @@
 1 Elspeth, Sun's Nemesis
 1 Linvala, Keeper of Silence
 2 Oath of Kaya
+2 Erebos's Intervention
 2 Castle Locthwain
 2 Scoured Barrens
 2 Temple of Silence
 2 Angelic Ascension
-2 Erebos's Intervention
 2 Elspeth, Sun's Nemesis
 2 Linvala, Keeper of Silence
 3 Oath of Kaya
@@ -155,13 +162,6 @@
 3 Idyllic Grange
 4 Idyllic Grange
 4 Banishing Light
-1 Fight as One
-1 Selfless Savior
-1 Mazemind Tome
-2 Fight as One
-2 Selfless Savior
-3 Selfless Savior
-4 Selfless Savior
 1 Ajani's Welcome
 2 Ajani's Welcome
 3 Ajani's Welcome
@@ -192,8 +192,8 @@
 15 Snow-Covered Plains
 16 Snow-Covered Plains
 1 Wrath of God
-1 Containment Priest
 1 Realm-Cloaked Giant
+1 Containment Priest
 1 Secluded Steppe
 1 Mikaeus, the Lunarch
 2 Wrath of God

@@ -1,5 +1,5 @@
-8 Forest
 9 Forest
+1 Metallic Mimic
 3 Welding Jar
 3 Animation Module
 2 Steel Overseer
@@ -7,88 +7,89 @@
 3 Scrapyard Recombiner
 1 Darksteel Citadel
 2 Darksteel Citadel
-1 Brushland
-2 Brushland
-3 Brushland
 1 Cavern of Souls
 2 Cavern of Souls
 4 Blinkmoth Nexus
-1 Llanowar Wastes
-2 Llanowar Wastes
-3 Llanowar Wastes
-4 Llanowar Wastes
-4 Brushland
-1 Razorverge Thicket
-1 Branchloft Pathway
-1 Swamp
 1 Cragcrown Pathway
 2 Cragcrown Pathway
-1 Darkbore Pathway
-2 Darkbore Pathway
-3 Darkbore Pathway
-4 Darkbore Pathway
-1 Horizon Canopy
-2 Razorverge Thicket
-3 Razorverge Thicket
+3 Cragcrown Pathway
+1 Urza's Saga
 1 Zabaz, the Glimmerwasp
 1 Power Depot
-1 Urza's Saga
-2 Zabaz, the Glimmerwasp
 2 Urza's Saga
+2 Zabaz, the Glimmerwasp
 2 Power Depot
 3 Urza's Saga
 3 Zabaz, the Glimmerwasp
 4 Urza's Saga
 4 Zabaz, the Glimmerwasp
-3 Cragcrown Pathway
+1 Branchloft Pathway
+1 Llanowar Wastes
+2 Llanowar Wastes
+3 Llanowar Wastes
+4 Llanowar Wastes
+1 Razorverge Thicket
+1 Brushland
+2 Brushland
+3 Brushland
+1 Swamp
+4 Brushland
+1 Horizon Canopy
+2 Razorverge Thicket
+3 Razorverge Thicket
+1 Darkbore Pathway
+2 Darkbore Pathway
+3 Darkbore Pathway
+4 Darkbore Pathway
+4 Cragcrown Pathway
 1 Blooming Marsh
+1 Springleaf Drum
 1 Nurturing Peatland
 1 Urborg, Tomb of Yawgmoth
 2 Pendelhaven
 4 Scrapyard Recombiner
 4 Welding Jar
 10 Forest
-1 Lightning Bolt
-1 Spellskite
-4 Cragcrown Pathway
-1 Temple Garden
 2 Branchloft Pathway
-3 Branchloft Pathway
-1 Grove of the Burnwillows
-2 Grove of the Burnwillows
-3 Grove of the Burnwillows
-2 Snakeskin Veil
+3 Power Depot
+1 Spellskite
+1 Temple Garden
 2 Blooming Marsh
-1 Springleaf Drum
-1 Luminarch Aspirant
-2 Luminarch Aspirant
-1 Plains
 1 Stomping Ground
-1 Mountain
-2 Lightning Bolt
 1 Overgrown Tomb
 2 Overgrown Tomb
+1 Lightning Bolt
+2 Lightning Bolt
 2 Temple Garden
 3 Cavern of Souls
 1 Power Conduit
 11 Forest
-1 Path to Exile
-2 Path to Exile
 1 Snow-Covered Forest
 2 Snow-Covered Forest
+1 Grove of the Burnwillows
+2 Grove of the Burnwillows
+3 Grove of the Burnwillows
+3 Branchloft Pathway
+1 Path to Exile
+2 Path to Exile
+4 Power Depot
 2 Horizon Canopy
 4 Razorverge Thicket
-3 Power Depot
-4 Power Depot
 3 Blooming Marsh
 4 Blooming Marsh
-4 Grove of the Burnwillows
-1 Showdown of the Skalds
-2 Showdown of the Skalds
-3 Showdown of the Skalds
+2 Snakeskin Veil
+1 Luminarch Aspirant
+2 Luminarch Aspirant
 1 Kazuul's Fury
 3 Lightning Bolt
+1 Plains
+1 Winding Constrictor
+2 Nurturing Peatland
+2 Winding Constrictor
+3 Winding Constrictor
+4 Winding Constrictor
 1 Wooded Foothills
+1 Mountain
 2 Wooded Foothills
 1 Utopia Sprawl
 1 Windswept Heath
@@ -98,29 +99,37 @@
 3 Utopia Sprawl
 4 Windswept Heath
 4 Utopia Sprawl
-1 Winding Constrictor
-2 Nurturing Peatland
-2 Winding Constrictor
-3 Winding Constrictor
-4 Winding Constrictor
 1 Fatal Push
 2 Fatal Push
-2 Springleaf Drum
 1 Sorcerous Spyglass
-1 Snow-Covered Mountain
-2 Kazuul's Fury
+2 Springleaf Drum
 1 Witch's Oven
 2 Power Conduit
 1 Crystalline Giant
 2 Crystalline Giant
-1 Spire of Industry
-2 Spire of Industry
-3 Spire of Industry
 3 Metallic Mimic
 3 Snakeskin Veil
 4 Snakeskin Veil
+1 Showdown of the Skalds
+2 Showdown of the Skalds
 3 Wooded Foothills
+3 Showdown of the Skalds
 4 Wooded Foothills
+1 Botanical Sanctum
+1 Island
+1 Barkchannel Pathway
+1 Emry, Lurker of the Loch
+1 Yavimaya Coast
+2 Botanical Sanctum
+2 Barkchannel Pathway
+2 Emry, Lurker of the Loch
+2 Spellskite
+2 Island
+3 Barkchannel Pathway
+3 Emry, Lurker of the Loch
+3 Springleaf Drum
+4 Barkchannel Pathway
+4 Emry, Lurker of the Loch
 4 Cavern of Souls
 1 Castle Locthwain
 1 Thoughtseize
@@ -129,6 +138,9 @@
 3 Overgrown Tomb
 3 Thoughtseize
 4 Thoughtseize
+1 Snow-Covered Mountain
+2 Kazuul's Fury
+4 Grove of the Burnwillows
 1 Sparring Construct
 2 Sparring Construct
 3 Sparring Construct
@@ -136,23 +148,8 @@
 1 Dismember
 3 Darksteel Citadel
 4 Darksteel Citadel
-1 Botanical Sanctum
-1 Barkchannel Pathway
-1 Island
-1 Emry, Lurker of the Loch
-1 Yavimaya Coast
-2 Botanical Sanctum
-2 Barkchannel Pathway
-2 Spellskite
-2 Emry, Lurker of the Loch
-2 Island
-3 Barkchannel Pathway
-3 Springleaf Drum
-3 Emry, Lurker of the Loch
-4 Barkchannel Pathway
-4 Emry, Lurker of the Loch
-1 Prismatic Vista
 1 Verdant Catacombs
+1 Prismatic Vista
 2 Verdant Catacombs
 3 Fatal Push
 3 Verdant Catacombs

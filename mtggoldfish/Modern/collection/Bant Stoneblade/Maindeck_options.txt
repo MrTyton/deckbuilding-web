@@ -33,31 +33,31 @@
 3 Remand
 3 Geist of Saint Traft
 1 Polluted Delta
-1 Collected Company
 1 Glasspool Mimic
 1 Voice of Resurgence
+1 Collected Company
 1 Reflector Mage
-2 Collected Company
 2 Voice of Resurgence
 2 Reflector Mage
-3 Collected Company
+2 Collected Company
 3 Voice of Resurgence
+3 Collected Company
 3 Reflector Mage
 4 Collected Company
 1 Ajani, Adversary of Tyrants
 1 Kaldra Compleat
 4 Force of Negation
 1 Omen of the Sea
-1 Abundant Growth
 1 Esika's Chariot
 1 Prairie Stream
+1 Abundant Growth
 1 Archmage's Charm
 2 Omen of the Sea
 2 Abundant Growth
 2 Archmage's Charm
-3 Birds of Paradise
 3 Prismatic Vista
 3 Omen of the Sea
+3 Birds of Paradise
 3 Abundant Growth
 4 Birds of Paradise
 4 Prismatic Vista
@@ -65,36 +65,36 @@
 4 Skyclave Apparition
 1 Behold the Multiverse
 2 Behold the Multiverse
-1 Razorverge Thicket
 1 Shardless Agent
 1 Plains
-1 Gavony Township
+1 Giver of Runes
 1 Chord of Calling
+1 Razorverge Thicket
 1 Devoted Druid
-1 Forest
 1 Vizier of Remedies
-1 Walking Ballista
 1 Kitchen Finks
 1 Knight of Autumn
+1 Walking Ballista
 1 Shalai, Voice of Plenty
 1 Viridian Longbow
 1 Duskwatch Recruiter
-1 Giver of Runes
+1 Gavony Township
 1 Eladamri's Call
-2 Razorverge Thicket
-2 Eladamri's Call
+1 Forest
 2 Shardless Agent
-2 Forest
 2 Chord of Calling
-2 Devoted Druid
 2 Giver of Runes
+2 Devoted Druid
+2 Razorverge Thicket
+2 Forest
+2 Eladamri's Call
 2 Vizier of Remedies
 2 Horizon Canopy
 3 Shardless Agent
 3 Eladamri's Call
 3 Chord of Calling
-3 Devoted Druid
 3 Giver of Runes
+3 Devoted Druid
 3 Vizier of Remedies
 4 Eladamri's Call
 4 Chord of Calling
@@ -105,11 +105,10 @@
 1 Botanical Sanctum
 1 Disdainful Stroke
 3 Snow-Covered Forest
-1 Solitude
 1 Prismatic Ending
+1 Solitude
 2 Prismatic Ending
 3 Prismatic Ending
-3 Jace, the Mind Sculptor
 1 Unsettled Mariner
 1 Vendilion Clique
 1 Spellstutter Sprite
@@ -119,9 +118,10 @@
 3 Spellstutter Sprite
 4 Unsettled Mariner
 4 Spellstutter Sprite
-4 Voice of Resurgence
 1 Counterspell
+1 Glacial Fortress
 2 Counterspell
 3 Counterspell
 4 Counterspell
-1 Glacial Fortress
+4 Voice of Resurgence
+3 Jace, the Mind Sculptor

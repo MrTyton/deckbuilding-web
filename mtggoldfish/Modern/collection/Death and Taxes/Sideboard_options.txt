@@ -12,8 +12,8 @@
 1 On Thin Ice
 1 Knight of Autumn
 1 Mana Tithe
-2 Mana Tithe
 2 Knight of Autumn
+2 Mana Tithe
 3 Mana Tithe
 4 Aven Mindcensor
 3 Isolate
@@ -23,10 +23,10 @@
 2 Linvala, Keeper of Silence
 1 Scavenging Ooze
 1 Gaddock Teeg
-2 Gaddock Teeg
 2 Scavenging Ooze
-3 Gaddock Teeg
+2 Gaddock Teeg
 3 Scavenging Ooze
+3 Gaddock Teeg
 2 Grafdigger's Cage
 3 Kor Firewalker
 1 Mirran Crusader
@@ -49,17 +49,17 @@
 1 Charming Prince
 1 Idol of Endurance
 2 Charming Prince
-1 Esper Sentinel
 1 Solitude
+1 Esper Sentinel
 2 Esper Sentinel
-1 Condemn
-1 Venerable Warsinger
 1 Lightning Bolt
+1 Venerable Warsinger
+1 Condemn
+2 Lightning Bolt
 2 Venerable Warsinger
 2 Condemn
-2 Lightning Bolt
-1 Sword of Hearth and Home
 1 Sanctum Prelate
+1 Sword of Hearth and Home
 3 Sanctifier en-Vec
 1 Relic of Progenitus
 1 Pithing Needle
@@ -67,8 +67,8 @@
 3 Relic of Progenitus
 1 Containment Priest
 3 Winds of Abandon
-4 Kor Firewalker
 4 Auriok Champion
+4 Kor Firewalker
 3 Fragmentize
 4 Fragmentize
 1 Vryn Wingmare

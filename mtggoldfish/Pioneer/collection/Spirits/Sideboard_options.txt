@@ -3,40 +3,38 @@
 1 Mystic Subdual
 2 Mystic Subdual
 4 Mystical Dispute
-1 Dispel
-2 Dispel
 1 Entrancing Melody
 2 Entrancing Melody
+1 Dispel
+2 Dispel
 3 Dispel
 3 Entrancing Melody
 1 Aethersphere Harvester
 1 Masked Vandal
 2 Masked Vandal
 2 Settle the Wreckage
+1 Disdainful Stroke
+2 Skyclave Apparition
 1 Isolate
 2 Isolate
-1 Disdainful Stroke
-3 Isolate
 1 Brazen Borrower
 1 Light of Hope
 2 Brazen Borrower
 2 Light of Hope
-2 Aethersphere Harvester
+2 Disdainful Stroke
 1 Selfless Spirit
 1 Devout Decree
 2 Devout Decree
-4 Isolate
+3 Isolate
 1 Test of Talents
 2 Test of Talents
 1 Damping Sphere
-2 Disdainful Stroke
-2 Skyclave Apparition
+1 Deafening Silence
+2 Deafening Silence
+2 Aethersphere Harvester
 1 Shacklegeist
 3 Brazen Borrower
 3 Mystic Subdual
-1 Declaration in Stone
-2 Declaration in Stone
-3 Declaration in Stone
 1 Shadowspear
 1 Supreme Verdict
 1 Dovin's Veto
@@ -51,8 +49,6 @@
 2 Miscast
 3 Bind the Monster
 4 Bind the Monster
-3 Test of Talents
-4 Test of Talents
 1 Negate
 1 Selective Snare
 1 Essence Capture
@@ -60,6 +56,9 @@
 2 Negate
 2 Essence Capture
 4 Aether Gust
-1 Grafdigger's Cage
-2 Grafdigger's Cage
-3 Devout Decree
+3 Test of Talents
+4 Test of Talents
+1 Declaration in Stone
+2 Declaration in Stone
+3 Declaration in Stone
+4 Isolate
