@@ -103,8 +103,8 @@
 |                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)     |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)            |
 |                     |                                                                                                 |                    1|Grist, the Hunger Tide                                                                             |
 |                     |                                                                                                 |                    1|Endurance                                                                                          |
-|                     |                                                                                                 |                    2|Grist, the Hunger Tide                                                                             |
 |                     |                                                                                                 |                    2|Endurance                                                                                          |
+|                     |                                                                                                 |                    2|Grist, the Hunger Tide                                                                             |
 |                     |                                                                                                 |                    4|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)          |
 |                     |                                                                                                 |                    3|Grist, the Hunger Tide                                                                             |
 

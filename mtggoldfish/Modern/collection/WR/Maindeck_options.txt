@@ -21,19 +21,19 @@
 1 Stoneforge Mystic
 1 Thalia, Guardian of Thraben
 1 Plains
-2 Skyclave Apparition
 2 Flickerwisp
+2 Skyclave Apparition
 2 Aether Vial
 2 Plains
 2 Stoneforge Mystic
 2 Thalia, Guardian of Thraben
 2 Imperial Recruiter
 3 Skyclave Apparition
+3 Flickerwisp
 3 Stoneforge Mystic
 3 Thalia, Guardian of Thraben
 3 Imperial Recruiter
 3 Plains
-3 Flickerwisp
 3 Aether Vial
 4 Aether Vial
 4 Plains
@@ -52,8 +52,8 @@
 1 Batterskull
 4 Skyclave Apparition
 1 Solitude
-2 Charming Prince
 2 Solitude
+2 Charming Prince
 3 Solitude
 4 Solitude
 1 Windswept Heath
@@ -72,10 +72,10 @@
 1 Shadowspear
 2 Prismatic Ending
 2 Magus of the Moon
-1 Flusterstorm
 1 Steam Vents
-2 Flusterstorm
+1 Flusterstorm
 2 Steam Vents
+2 Flusterstorm
 3 Flusterstorm
 2 Sanctum Prelate
 1 Emerge Unscathed
@@ -161,9 +161,9 @@
 1 Dryad Arbor
 1 Noble Hierarch
 1 Path to Exile
-2 Noble Hierarch
 2 Branchloft Pathway
 2 Spellskite
+2 Noble Hierarch
 2 Path to Exile
 3 Noble Hierarch
 3 Branchloft Pathway
@@ -175,11 +175,11 @@
 2 Scalding Tarn
 3 Scalding Tarn
 4 Kiln Fiend
+1 Temur Battle Rage
 1 Blackcleave Cliffs
 1 Death's Shadow
-1 Temur Battle Rage
-2 Death's Shadow
 2 Temur Battle Rage
+2 Death's Shadow
 3 Death's Shadow
 4 Death's Shadow
 1 Mishra's Bauble

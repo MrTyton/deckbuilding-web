@@ -3,13 +3,13 @@
 2 Castle Ardenvale
 2 Charming Prince
 3 Charming Prince
-1 Forest
 1 Razorverge Thicket
 1 Noble Hierarch
 1 Branchloft Pathway
+1 Forest
 2 Razorverge Thicket
-2 Branchloft Pathway
 2 Noble Hierarch
+2 Branchloft Pathway
 3 Razorverge Thicket
 3 Noble Hierarch
 4 Razorverge Thicket
@@ -72,10 +72,10 @@
 1 Sanctum Prelate
 2 Sanctum Prelate
 1 Inspiring Vantage
-2 Inspiring Vantage
 2 Sunbaked Canyon
-3 Sunbaked Canyon
+2 Inspiring Vantage
 3 Inspiring Vantage
+3 Sunbaked Canyon
 4 Inspiring Vantage
 4 Sunbaked Canyon
 3 Winds of Abandon
@@ -96,8 +96,8 @@
 18 Plains
 1 Needleverge Pathway
 1 Embercleave
-1 Solitude
 1 Esper Sentinel
+1 Solitude
 2 Solitude
 2 Esper Sentinel
 3 Esper Sentinel

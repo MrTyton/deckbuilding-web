@@ -106,16 +106,16 @@
 2 Cryptic Command
 4 Snow-Covered Island
 1 Field of Ruin
-1 Blast Zone
 1 Endurance
 1 Wilderness Reclamation
 1 Hinterland Harbor
 1 Expansion/Explosion
+1 Blast Zone
 2 Expansion/Explosion
 2 Wilderness Reclamation
+3 Cryptic Command
 3 Wilderness Reclamation
 3 Expansion/Explosion
-3 Cryptic Command
 2 Raugrin Triome
 4 Teferi, Time Raveler
 4 Misty Rainforest
@@ -132,8 +132,8 @@
 3 Ephemerate
 4 Ephemerate
 1 Plains
-1 Reflecting Pool
 1 Shark Typhoon
+1 Reflecting Pool
 2 Shark Typhoon
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
@@ -164,9 +164,9 @@
 1 Polymorph
 1 Valakut Awakening
 1 Omen of the Sea
+2 Valakut Awakening
 2 Omen of the Sea
 2 Farseek
-2 Valakut Awakening
 2 Polymorph
 3 Tamiyo, Collector of Tales
 3 Farseek
@@ -183,18 +183,18 @@
 1 Kasmina, Enigma Sage
 2 Kasmina, Enigma Sage
 1 Mystic Gate
-1 Coiling Oracle
 1 Wall of Blossoms
+1 Coiling Oracle
+1 Archmage's Charm
 1 Teferi, Hero of Dominaria
 1 Oracle of Mul Daya
 1 Venser, Shaper Savant
 1 Eternal Witness
-1 Archmage's Charm
 2 Coiling Oracle
 2 Omnath, Locus of Creation
+2 Archmage's Charm
 2 Flooded Grove
 2 Eternal Witness
-2 Archmage's Charm
 3 Coiling Oracle
 3 Omnath, Locus of Creation
 3 Force of Negation
@@ -202,8 +202,8 @@
 2 Might of Alara
 3 Might of Alara
 1 Izzet Charm
-1 Nahiri, the Harbinger
 1 Narset, Parter of Veils
+1 Nahiri, the Harbinger
 2 Izzet Charm
 3 Velomachus Lorehold
 1 Tarfire
@@ -213,6 +213,12 @@
 2 Vindicate
 3 Vindicate
 4 Vindicate
+3 Noble Hierarch
+3 Snapcaster Mage
+3 Verdant Catacombs
+4 Noble Hierarch
+4 Snapcaster Mage
+4 Verdant Catacombs
 1 Opt
 1 Swamp
 2 Swamp
@@ -222,13 +228,7 @@
 4 Swamp
 4 Opt
 1 Expressive Iteration
-1 Castle Vantress
 1 Cascade Bluffs
+1 Castle Vantress
 2 Expressive Iteration
 4 Expansion/Explosion
-3 Noble Hierarch
-3 Snapcaster Mage
-3 Verdant Catacombs
-4 Noble Hierarch
-4 Verdant Catacombs
-4 Snapcaster Mage

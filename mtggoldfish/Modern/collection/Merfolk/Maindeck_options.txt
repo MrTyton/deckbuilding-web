@@ -90,16 +90,16 @@
 2 Counterspell
 3 Counterspell
 4 Counterspell
-1 Bind the Monster
-2 Bind the Monster
-3 Bind the Monster
-4 Bind the Monster
 1 Chalice of the Void
 1 Smuggler's Copter
 2 Chalice of the Void
 2 Smuggler's Copter
 3 Chalice of the Void
 4 Cavern of Souls
+1 Bind the Monster
+2 Bind the Monster
+3 Bind the Monster
+4 Bind the Monster
 1 Disrupting Shoal
 2 Disrupting Shoal
 12 Island
@@ -123,12 +123,12 @@
 1 Hieroglyphic Illumination
 2 Echoing Truth
 4 Waterlogged Grove
+1 Watery Grave
 1 Soul-Guide Lantern
 1 Sunken Hollow
-1 Watery Grave
 2 Soul-Guide Lantern
-3 Soul-Guide Lantern
 3 Flooded Strand
+3 Soul-Guide Lantern
 4 Soul-Guide Lantern
 4 Flooded Strand
 4 Glasspool Mimic
@@ -141,8 +141,8 @@
 1 Mountain
 1 Swamp
 1 Misty Rainforest
-2 Mountain
 2 Swamp
+2 Mountain
 3 Mountain
 3 Swamp
 4 Swamp
