@@ -1,6 +1,5 @@
 1 Swamp
 2 Swamp
-1 Crux of Fate
 1 Chandra, Torch of Defiance
 1 Cling to Dust
 1 Bloodchief's Thirst
@@ -8,7 +7,7 @@
 1 Castle Locthwain
 2 Glorybringer
 2 Chandra, Torch of Defiance
-2 Crux of Fate
+1 Crux of Fate
 2 Bloodchief's Thirst
 1 Bonecrusher Giant
 2 Bonecrusher Giant
@@ -17,31 +16,30 @@
 3 Sulfur Falls
 4 Sulfur Falls
 1 Kolaghan's Command
-2 Cling to Dust
+2 Crux of Fate
 2 Kolaghan's Command
-3 Glorybringer
 1 Mind Stone
 2 Mind Stone
+2 Cling to Dust
+3 Glorybringer
 1 Canyon Slough
 2 Canyon Slough
 3 Bloodchief's Thirst
 3 Canyon Slough
-1 Dragonskull Summit
-1 Mountain
-1 Island
 1 Baleful Mastery
+1 Mountain
+1 Dragonskull Summit
+1 Island
 1 Fabled Passage
 2 Fabled Passage
 2 Baleful Mastery
-2 Dragonskull Summit
 1 Saw It Coming
 2 Island
+2 Dragonskull Summit
 1 Anger of the Gods
 2 Mountain
 3 Island
 2 Saw It Coming
-1 Extinction Event
-3 Fabled Passage
 1 Field of Ruin
 1 Whirlwind Denial
 2 Anger of the Gods
@@ -49,41 +47,39 @@
 3 Behold the Multiverse
 3 Anger of the Gods
 3 Crux of Fate
+1 Valki, God of Lies
+2 Valki, God of Lies
 3 Kolaghan's Command
 1 Coldsteel Heart
-1 Search for Azcanta
-1 Brainstorm
-2 Brainstorm
-3 Brainstorm
-3 Fatal Push
+1 Extinction Event
+3 Fabled Passage
 1 Mazemind Tome
 2 Coldsteel Heart
 2 Mazemind Tome
 1 Temple of Deceit
 1 Flunk
 3 Cling to Dust
-1 Valki, God of Lies
-2 Valki, God of Lies
-1 Memory Lapse
-2 Memory Lapse
-3 Memory Lapse
-4 Memory Lapse
-1 Interplanar Beacon
-2 Extinction Event
-4 Brainstorm
+1 Savai Triome
 1 Eliminate
+1 Search for Azcanta
 4 Fabled Passage
 3 Swamp
+1 Brainstorm
+2 Brainstorm
+3 Brainstorm
 2 Heartless Act
+3 Fatal Push
 1 Bedevil
-2 Flunk
-2 Temple of Deceit
 1 Shadows' Verdict
 2 Shadows' Verdict
-1 Go Blank
-1 Liliana, Dreadhorde General
-2 Eliminate
-2 Go Blank
+2 Flunk
+2 Temple of Deceit
+1 Fetid Pools
+1 Ketria Triome
+1 Rankle, Master of Pranks
+1 Thought Erasure
+2 Thought Erasure
+2 Rankle, Master of Pranks
 1 Castle Vantress
 1 Crawling Barrens
 1 Angrath's Rampage
@@ -92,22 +88,26 @@
 1 Test of Talents
 1 Cry of the Carnarium
 1 The Scarab God
-2 Crawling Barrens
 2 Angrath's Rampage
-2 The Scarab God
+2 Crawling Barrens
 2 Cry of the Carnarium
 2 Bedevil
+2 The Scarab God
 3 Saw It Coming
-1 Savai Triome
-2 Savai Triome
-3 Savai Triome
-3 Chandra, Torch of Defiance
 1 Spirebluff Canal
 1 Drown in the Loch
 2 Spirebluff Canal
 3 Spirebluff Canal
-1 Ashiok, Nightmare Muse
-4 Prismari Command
+2 Savai Triome
+3 Savai Triome
+3 Chandra, Torch of Defiance
+1 Go Blank
+1 Liliana, Dreadhorde General
+1 Interplanar Beacon
+2 Eliminate
+2 Go Blank
+2 Extinction Event
+4 Brainstorm
 1 Grafdigger's Cage
 1 Commit/Memory
 2 Commit/Memory
@@ -119,8 +119,12 @@
 4 Island
 4 Grafdigger's Cage
 1 Riverglide Pathway
+1 Memory Lapse
 2 Riverglide Pathway
+2 Memory Lapse
 3 Riverglide Pathway
+3 Memory Lapse
+4 Memory Lapse
 4 Relic of Progenitus
 1 Stifle
 1 Kroxa, Titan of Death's Hunger

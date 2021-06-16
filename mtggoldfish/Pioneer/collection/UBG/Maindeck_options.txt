@@ -1,7 +1,5 @@
-3 Temple of Mystery
 2 Dig Through Time
 3 Dig Through Time
-1 Forest
 1 Thoughtseize
 1 Fatal Push
 1 Fabled Passage
@@ -13,8 +11,8 @@
 3 Fabled Passage
 3 Thoughtseize
 3 Fatal Push
-4 Fatal Push
 4 Fabled Passage
+4 Fatal Push
 1 Zagoth Triome
 2 Zagoth Triome
 1 Drowned Catacomb
@@ -37,17 +35,19 @@
 3 Drowned Catacomb
 3 Sinister Sabotage
 3 Bring to Light
+1 Forest
 4 Thoughtseize
+3 Temple of Mystery
 1 Opt
 2 Opt
+3 Opt
+1 Swamp
+1 Island
+2 Island
 1 Drown in the Loch
 2 Drown in the Loch
 3 Watery Grave
 4 Watery Grave
-1 Swamp
-1 Island
-2 Island
-3 Opt
 1 Heartless Act
 1 Bloodchief's Thirst
 4 Sinister Sabotage
@@ -56,23 +56,23 @@
 2 Heartless Act
 3 Emergent Ultimatum
 4 Dig Through Time
-1 Collective Brutality
-1 Blood Crypt
-2 Swamp
 3 Jace, Vryn's Prodigy
-1 Castle Vantress
 1 Urborg, Tomb of Yawgmoth
 1 Behold the Multiverse
 1 Dead Weight
 1 Assassin's Trophy
 1 Scavenging Ooze
 1 Negate
-1 Essence Extraction
+1 Castle Vantress
 1 Dragonskull Summit
 1 Rootbound Crag
 3 Ketria Triome
 3 Zagoth Triome
 4 Opt
+1 Collective Brutality
+1 Blood Crypt
+2 Swamp
+1 Essence Extraction
 1 Hinterland Harbor
 1 Snow-Covered Island
 1 Snow-Covered Mountain
@@ -100,14 +100,14 @@
 4 Bring to Light
 1 Castle Locthwain
 1 Into the Story
-1 Thieves' Guild Enforcer
 1 Soaring Thought-Thief
+1 Thieves' Guild Enforcer
 1 Clearwater Pathway
 1 Agadeem's Awakening
 1 Ruin Crab
-2 Thieves' Guild Enforcer
-2 Soaring Thought-Thief
 2 Into the Story
+2 Soaring Thought-Thief
+2 Thieves' Guild Enforcer
 2 Ruin Crab
 2 Agadeem's Awakening
 2 Clearwater Pathway
@@ -124,6 +124,7 @@
 4 Drown in the Loch
 4 Ruin Crab
 1 Growth Spiral
+1 Necromentia
 1 Hieroglyphic Illumination
 1 Abrupt Decay
 2 Abrupt Decay

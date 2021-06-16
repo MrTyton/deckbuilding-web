@@ -1,24 +1,3 @@
-2 Heroic Intervention
-1 Toski, Bearer of Secrets
-3 Reclamation Sage
-3 Heroic Intervention
-1 Blossoming Defense
-2 Blossoming Defense
-3 Blossoming Defense
-1 Wildborn Preserver
-2 Wildborn Preserver
-1 Nissa, Who Shakes the World
-1 Rhonas the Indomitable
-2 Nissa, Who Shakes the World
-3 Wildborn Preserver
-4 Heroic Intervention
-1 Necromentia
-1 Faceless Haven
-1 Shifting Ceratops
-2 Shifting Ceratops
-1 Return to Nature
-2 Toski, Bearer of Secrets
-4 Shapers' Sanctuary
 1 Rest in Peace
 2 Rest in Peace
 1 Declaration in Stone
@@ -29,6 +8,27 @@
 2 Aether Gust
 2 Negate
 3 Declaration in Stone
+1 Crippling Fear
+1 Icon of Ancestry
+2 Crippling Fear
+1 Necromentia
+3 Reclamation Sage
+1 Faceless Haven
+1 Shifting Ceratops
+2 Shifting Ceratops
+3 Heroic Intervention
+1 Return to Nature
+2 Toski, Bearer of Secrets
+1 Wildborn Preserver
+2 Wildborn Preserver
+1 Blossoming Defense
+2 Blossoming Defense
+3 Blossoming Defense
+1 Nissa, Who Shakes the World
+1 Rhonas the Indomitable
+2 Nissa, Who Shakes the World
+3 Wildborn Preserver
+4 Heroic Intervention
 1 Skysovereign, Consul Flagship
 3 Scavenging Ooze
 4 Scavenging Ooze
@@ -47,7 +47,6 @@
 2 Mirror Shield
 1 Ugin, the Spirit Dragon
 1 Moment of Craving
-1 Legion's End
 1 Elvish Visionary
 1 Meteor Golem
 1 Gemrazer
@@ -57,19 +56,19 @@
 1 End-Raze Forerunners
 1 God-Eternal Rhonas
 1 The Great Henge
-1 Realmwalker
 1 Kogla, the Titan Ape
+1 Realmwalker
 1 Soul-Guide Lantern
 2 Kogla, the Titan Ape
-2 Soul-Guide Lantern
 2 Realmwalker
-1 Vivien Reid
+2 Soul-Guide Lantern
 1 Vivien, Monsters' Advocate
+1 Vivien Reid
 2 Vivien, Monsters' Advocate
-1 Boreal Outrider
 1 Pelt Collector
 1 Primal Might
 1 Thorn Lieutenant
+1 Boreal Outrider
 1 Incubation Druid
 2 Boreal Outrider
 2 Incubation Druid
@@ -85,13 +84,6 @@
 2 Titanoth Rex
 2 Skysovereign, Consul Flagship
 3 Toski, Bearer of Secrets
-1 Questing Beast
-1 Run Afoul
-2 Questing Beast
-2 Run Afoul
-3 Questing Beast
-3 Shifting Ceratops
-4 Shifting Ceratops
 1 Reidane, God of the Worthy
 1 Baffling End
 2 Reidane, God of the Worthy
@@ -100,6 +92,13 @@
 3 Rest in Peace
 3 Baffling End
 4 Reidane, God of the Worthy
+1 Questing Beast
+1 Run Afoul
+2 Questing Beast
+2 Run Afoul
+3 Questing Beast
+3 Shifting Ceratops
+4 Shifting Ceratops
 1 Imperious Perfect
 1 Allosaurus Shepherd
 1 Arbor Armament
@@ -121,8 +120,8 @@
 1 Craterhoof Behemoth
 1 Llanowar Visionary
 1 Beast Whisperer
-2 Craterhoof Behemoth
 2 Fierce Empath
+2 Craterhoof Behemoth
 2 Llanowar Visionary
 2 Beast Whisperer
 2 Elvish Visionary

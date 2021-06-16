@@ -1,8 +1,8 @@
+2 Maddening Cacophony
 1 Flooded Strand
 2 Flooded Strand
-2 Snapcaster Mage
-3 Maddening Cacophony
 4 Surgical Extraction
+3 Maddening Cacophony
 2 Crypt Incursion
 3 Flooded Strand
 4 Maddening Cacophony
@@ -15,7 +15,6 @@
 3 Swamp
 3 Watery Grave
 1 Ensnaring Bridge
-2 Shelldock Isle
 1 Fraying Sanity
 2 Fraying Sanity
 1 Fractured Sanity
@@ -23,6 +22,7 @@
 3 Fractured Sanity
 4 Fractured Sanity
 1 Baleful Mastery
+2 Shelldock Isle
 1 Snow-Covered Swamp
 1 Snow-Covered Island
 2 Snow-Covered Island
@@ -42,10 +42,6 @@
 2 Cling to Dust
 2 Ensnaring Bridge
 3 Ensnaring Bridge
-1 Counterspell
-2 Counterspell
-3 Counterspell
-4 Counterspell
 1 Murderous Cut
 1 Echoing Truth
 1 Search for Azcanta
@@ -57,6 +53,10 @@
 2 Manic Scribe
 2 Damnation
 4 Snow-Covered Island
+1 Counterspell
+2 Counterspell
+3 Counterspell
+4 Counterspell
 1 Urborg, Tomb of Yawgmoth
 1 Drowned Catacomb
 1 Extirpate
@@ -65,17 +65,17 @@
 2 Drowned Catacomb
 2 Extirpate
 2 Breaking/Entering
-3 Drowned Catacomb
 3 Extirpate
+3 Drowned Catacomb
 4 Watery Grave
 4 Extirpate
-1 Unearth
 1 Jace, Vryn's Prodigy
 1 Scalding Tarn
 1 Call of the Death-Dweller
+1 Blood Crypt
 1 Reflecting Pool
 1 Izzet Charm
-1 Blood Crypt
+1 Unearth
 1 Inquisition of Kozilek
 1 Battle Mastery
 1 Verdant Catacombs
@@ -88,19 +88,19 @@
 2 Unearth
 2 Jace, Vryn's Prodigy
 2 Scalding Tarn
-2 Izzet Charm
 2 Blood Crypt
+2 Izzet Charm
 2 Storm Herald
 2 Prodigious Growth
 2 Collective Brutality
 2 Eldrazi Conscription
 2 Inquisition of Kozilek
-3 Scalding Tarn
 3 Unearth
 3 Collective Brutality
 3 Eldrazi Conscription
 3 Storm Herald
 3 Jace, Vryn's Prodigy
+3 Scalding Tarn
 4 Collective Brutality
 4 Unearth
 4 Jace, Vryn's Prodigy

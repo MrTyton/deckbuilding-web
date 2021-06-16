@@ -1,4 +1,3 @@
-1 Fierce Empath
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
@@ -16,7 +15,9 @@
 15 Snow-Covered Forest
 16 Snow-Covered Forest
 1 Faceless Haven
+1 Fierce Empath
 1 Growing Rites of Itlimoc
+17 Snow-Covered Forest
 1 Darkbore Pathway
 1 Overgrown Tomb
 2 Overgrown Tomb
@@ -24,32 +25,25 @@
 3 Overgrown Tomb
 3 Darkbore Pathway
 4 Darkbore Pathway
+16 Forest
 1 Marwyn, the Nurturer
-17 Snow-Covered Forest
 1 Blooming Marsh
 2 Blooming Marsh
 3 Blooming Marsh
 4 Overgrown Tomb
 4 Blooming Marsh
-16 Forest
+3 Elvish Visionary
+2 Fierce Empath
 2 Marwyn, the Nurturer
 17 Forest
-2 Fierce Empath
+2 Growing Rites of Itlimoc
 1 Llanowar Visionary
 2 Llanowar Visionary
-3 Elvish Visionary
+2 Faceless Haven
 1 Skemfar Avenger
 2 Skemfar Avenger
-2 Growing Rites of Itlimoc
-1 Abomination of Llanowar
-2 Faceless Haven
 3 Realmwalker
-18 Snow-Covered Forest
-19 Snow-Covered Forest
-18 Forest
-2 Craterhoof Behemoth
-1 Turntimber Symbiosis
-1 Heroic Intervention
+1 Abomination of Llanowar
 4 Elvish Visionary
 1 Branchloft Pathway
 1 Temple Garden
@@ -59,7 +53,8 @@
 3 Temple Garden
 4 Temple Garden
 4 Branchloft Pathway
-2 Heroic Intervention
+18 Snow-Covered Forest
+19 Snow-Covered Forest
 1 Barkchannel Pathway
 1 Breeding Pool
 1 Aether Gust
@@ -75,38 +70,46 @@
 4 Botanical Sanctum
 4 Breeding Pool
 4 Barkchannel Pathway
-1 Finale of Devastation
+2 Craterhoof Behemoth
+1 Turntimber Symbiosis
+1 Heroic Intervention
+18 Forest
 1 Tyvar Kell
+2 Heroic Intervention
+1 Canopy Tactician
+1 Finale of Devastation
+19 Forest
+20 Forest
+1 Ochran Assassin
 3 Marwyn, the Nurturer
 1 Ram Through
 1 Snakeskin Veil
 1 Blizzard Brawl
-2 Blizzard Brawl
 2 Ram Through
 2 Snakeskin Veil
+2 Blizzard Brawl
 3 Snakeskin Veil
 3 Blizzard Brawl
 4 Snakeskin Veil
 20 Snow-Covered Forest
-1 Ochran Assassin
-1 Canopy Tactician
 1 Druid of the Cowl
 1 Thorn Lieutenant
-1 Swamp
-1 The Great Henge
+3 Llanowar Visionary
 1 Lys Alana Huntmaster
+2 Lys Alana Huntmaster
+1 Swamp
+1 Haunting Voyage
+1 The Great Henge
 1 Harald Unites the Elves
 1 Elven Ambush
 1 Poison-Tip Archer
-1 Haunting Voyage
-2 Swamp
 2 Harald Unites the Elves
 2 Abomination of Llanowar
-2 Canopy Tactician
 2 Druid of the Cowl
 2 Elven Ambush
 2 Poison-Tip Archer
-2 Lys Alana Huntmaster
+2 Swamp
+2 Canopy Tactician
 3 Swamp
 3 Druid of the Cowl
 4 Swamp
@@ -120,17 +123,17 @@
 11 Swamp
 12 Swamp
 1 Vivien, Arkbow Ranger
-1 Necroblossom Snarl
-1 Skemfar Elderhall
-2 Necroblossom Snarl
 1 Fauna Shaman
 2 Fauna Shaman
+1 Elderfang Disciple
+2 Elderfang Disciple
 1 Wildborn Preserver
 2 Wildborn Preserver
 1 Pelt Collector
 2 Pelt Collector
-1 Elderfang Disciple
-2 Elderfang Disciple
+1 Necroblossom Snarl
+1 Skemfar Elderhall
+2 Necroblossom Snarl
 1 Sunpetal Grove
 1 Plains
 2 Sunpetal Grove
@@ -155,14 +158,32 @@
 3 Faceless Haven
 4 Faceless Haven
 4 Blizzard Brawl
-19 Forest
-20 Forest
+1 Lovestruck Beast
+1 Rishkar, Peema Renegade
+1 Containment Breach
+1 Tangletrap
+1 Elven Bow
+1 Elderleaf Mentor
+1 Silhana Wayfinder
+1 Wren's Run Vanquisher
+1 Woodland Champion
+1 Devouring Tendrils
+1 Charge of the Forever-Beast
+1 Skyway Sniper
+1 Oakhame Ranger
+2 Tangletrap
+2 Woodland Champion
+2 Oakhame Ranger
+2 Wren's Run Vanquisher
+3 Oakhame Ranger
+3 Lys Alana Huntmaster
+4 Llanowar Visionary
+4 Lys Alana Huntmaster
 1 Incubation Druid
 1 Beast Whisperer
 1 Steel Leaf Champion
 2 Beast Whisperer
 2 Thorn Lieutenant
-3 Llanowar Visionary
 3 Beast Whisperer
 3 Thorn Lieutenant
 4 Beast Whisperer

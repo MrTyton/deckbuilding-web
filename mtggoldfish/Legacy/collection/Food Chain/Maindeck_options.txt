@@ -41,7 +41,6 @@
 1 Conspicuous Snoop
 1 Badlands
 1 Ignoble Hierarch
-1 Pashalik Mons
 1 Mountain
 1 Arid Mesa
 1 Gempalm Incinerator
@@ -49,6 +48,7 @@
 1 Goblin Ringleader
 1 Goblin Anarchomancer
 1 Goblin Matron
+1 Pashalik Mons
 1 Bloodstained Mire
 1 Wily Goblin
 1 Forest
@@ -80,10 +80,10 @@
 3 Goblin Ringleader
 3 Skirk Prospector
 3 Goblin Matron
-4 Skirk Prospector
 4 Muxus, Goblin Grandee
-4 Wooded Foothills
+4 Skirk Prospector
 4 Ignoble Hierarch
+4 Wooded Foothills
 4 Goblin Ringleader
 4 Conspicuous Snoop
 4 Ancient Tomb
