@@ -41,8 +41,8 @@
 1 Murktide Regent
 2 Dragon's Rage Channeler
 2 Murktide Regent
-2 Unholy Heat
 2 Subtlety
+2 Unholy Heat
 3 Dragon's Rage Channeler
 3 Murktide Regent
 3 Unholy Heat
@@ -102,8 +102,8 @@
 2 Archmage's Charm
 3 Archmage's Charm
 1 Mystic Sanctuary
-1 Ascendant Spirit
 1 Deprive
+1 Ascendant Spirit
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
@@ -209,10 +209,6 @@
 3 Kolaghan's Command
 3 Subtlety
 3 Steam Vents
-1 Young Pyromancer
-2 Young Pyromancer
-3 Young Pyromancer
-4 Young Pyromancer
 4 Ancestral Vision
 1 Marsh Flats
 1 Agadeem's Awakening
@@ -220,6 +216,10 @@
 2 Bloodchief's Thirst
 2 Agadeem's Awakening
 4 Darkslick Shores
+1 Young Pyromancer
+2 Young Pyromancer
+3 Young Pyromancer
+4 Young Pyromancer
 1 Sunbaked Canyon
 1 Manamorphose
 1 Gut Shot
@@ -228,6 +228,7 @@
 1 Lava Dart
 1 Light Up the Stage
 1 Stormwing Entity
+2 Manamorphose
 2 Monastery Swiftspear
 2 Mountain
 2 Stormwing Entity
@@ -235,7 +236,6 @@
 2 Lava Spike
 2 Lava Dart
 2 Light Up the Stage
-2 Manamorphose
 2 Gut Shot
 3 Manamorphose
 3 Light Up the Stage
@@ -244,8 +244,8 @@
 3 Mountain
 3 Lava Spike
 3 Stormwing Entity
-4 Fiery Islet
 4 Manamorphose
+4 Fiery Islet
 4 Stormwing Entity
 4 Lava Dart
 4 Monastery Swiftspear
@@ -273,8 +273,8 @@
 3 Spellstutter Sprite
 3 Cryptic Command
 3 Deliberate
-4 Remand
 4 Cryptic Command
+4 Remand
 5 Island
 6 Island
 7 Island

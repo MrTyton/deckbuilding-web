@@ -54,30 +54,30 @@
 2 Counterspell
 1 Giver of Runes
 1 Gavony Township
-2 Giver of Runes
 2 Horizon Canopy
+2 Giver of Runes
 3 Giver of Runes
 1 Omen of the Sea
-1 Abundant Growth
 1 Esika's Chariot
 1 Prairie Stream
 1 Archmage's Charm
+1 Abundant Growth
 2 Omen of the Sea
-2 Abundant Growth
 2 Archmage's Charm
+2 Abundant Growth
 3 Prismatic Vista
+3 Abundant Growth
 3 Omen of the Sea
 3 Birds of Paradise
-3 Abundant Growth
 4 Prismatic Vista
 4 Omen of the Sea
 4 Birds of Paradise
 1 Plains
 1 Forest
-1 Razorverge Thicket
 1 Eladamri's Call
 1 Devoted Druid
 1 Vizier of Remedies
+1 Razorverge Thicket
 1 Kitchen Finks
 1 Knight of Autumn
 1 Shalai, Voice of Plenty
@@ -87,10 +87,10 @@
 1 Walking Ballista
 1 Chord of Calling
 2 Eladamri's Call
+2 Forest
 2 Devoted Druid
 2 Razorverge Thicket
 2 Chord of Calling
-2 Forest
 2 Shardless Agent
 2 Vizier of Remedies
 3 Shardless Agent
@@ -102,15 +102,18 @@
 4 Devoted Druid
 4 Vizier of Remedies
 4 Chord of Calling
-1 Disdainful Stroke
+1 Hexdrinker
 1 Seachrome Coast
 1 Botanical Sanctum
-1 Hexdrinker
+1 Disdainful Stroke
 2 Gavony Township
 3 Jace, the Mind Sculptor
 3 Snow-Covered Forest
 1 Solitude
 3 Prismatic Ending
+1 Glacial Fortress
+3 Counterspell
+4 Counterspell
 1 Unsettled Mariner
 1 Vendilion Clique
 1 Spellstutter Sprite
@@ -120,9 +123,6 @@
 3 Spellstutter Sprite
 4 Unsettled Mariner
 4 Spellstutter Sprite
-1 Glacial Fortress
-3 Counterspell
-4 Counterspell
 4 Voice of Resurgence
 1 Titania, Protector of Argoth
 1 Utopia Sprawl

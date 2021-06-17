@@ -1,24 +1,17 @@
-2 Harbinger of the Tides
+3 Tide Shaper
+4 Tide Shaper
 1 Glasspool Mimic
+1 Harbinger of the Tides
+2 Harbinger of the Tides
+4 Botanical Sanctum
+1 Breeding Pool
+3 Cursecatcher
+4 Cursecatcher
 1 Dismember
 2 Dismember
 3 Dismember
-1 Svyelun of Sea and Sky
-1 Tide Shaper
-2 Svyelun of Sea and Sky
-2 Tide Shaper
-3 Tide Shaper
-4 Tide Shaper
 2 Glasspool Mimic
-3 Merfolk Mistbinder
-4 Merfolk Mistbinder
-1 Oboro, Palace in the Clouds
-3 Cursecatcher
-4 Cursecatcher
-4 Merrow Reejerey
-8 Island
-9 Island
-3 Svyelun of Sea and Sky
+4 Force of Negation
 1 Unsettled Mariner
 1 Wanderwine Hub
 1 Seachrome Coast
@@ -30,9 +23,18 @@
 3 Unsettled Mariner
 4 Wanderwine Hub
 4 Unsettled Mariner
-1 Flooded Strand
+1 Oboro, Palace in the Clouds
+3 Svyelun of Sea and Sky
+4 Merrow Reejerey
+8 Island
+9 Island
+1 Suspend
+2 Suspend
+3 Merfolk Mistbinder
+4 Merfolk Mistbinder
 10 Island
 11 Island
+1 Flooded Strand
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
@@ -40,11 +42,8 @@
 2 Deprive
 3 Deprive
 4 Deprive
-1 Suspend
-2 Suspend
 4 Svyelun of Sea and Sky
 3 Cavern of Souls
-2 Breeding Pool
 2 Flooded Strand
 1 Polluted Delta
 2 Polluted Delta
@@ -60,8 +59,8 @@
 3 Creeping Tar Pit
 4 Creeping Tar Pit
 4 Repeal
-3 Waterlogged Grove
 3 Glasspool Mimic
+2 Breeding Pool
 4 Dismember
 1 Spell Pierce
 2 Spell Pierce
@@ -75,6 +74,7 @@
 6 Snow-Covered Island
 1 Phantasmal Image
 2 Phantasmal Image
+3 Waterlogged Grove
 1 Clearwater Pathway
 2 Clearwater Pathway
 3 Clearwater Pathway
@@ -110,8 +110,8 @@
 1 Lurrus of the Dream-Den
 2 Lurrus of the Dream-Den
 3 Lurrus of the Dream-Den
-1 Tidebinder Mage
 1 Mana Leak
+1 Tidebinder Mage
 2 Tidebinder Mage
 2 Mana Leak
 3 Mana Leak
@@ -119,10 +119,6 @@
 1 Mystic Reflection
 2 Mystic Reflection
 3 Mystic Reflection
-1 Echoing Truth
-1 Hieroglyphic Illumination
-2 Echoing Truth
-4 Waterlogged Grove
 1 Watery Grave
 1 Soul-Guide Lantern
 1 Sunken Hollow
