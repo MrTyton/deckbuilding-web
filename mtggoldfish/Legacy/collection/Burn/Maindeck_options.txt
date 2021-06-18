@@ -4,7 +4,6 @@
 3 Roiling Vortex
 1 Wooded Foothills
 1 Skewer the Critics
-1 Pyrostatic Pillar
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 1 Bloodstained Mire
@@ -12,6 +11,7 @@
 2 Wooded Foothills
 2 Sulfuric Vortex
 2 Skewer the Critics
+1 Pyrostatic Pillar
 3 Snow-Covered Mountain
 2 Pyrostatic Pillar
 3 Wooded Foothills
@@ -20,7 +20,6 @@
 3 Bloodstained Mire
 4 Bloodstained Mire
 4 Wooded Foothills
-1 Flame Rift
 3 Skewer the Critics
 4 Skewer the Critics
 5 Snow-Covered Mountain
@@ -33,10 +32,8 @@
 1 Bomat Courier
 2 Bomat Courier
 2 Arid Mesa
-2 Flame Rift
-3 Flame Rift
-4 Flame Rift
 1 Skullcrack
+1 Flame Rift
 1 Pyrokinesis
 1 Prismatic Vista
 2 Prismatic Vista
@@ -46,6 +43,9 @@
 2 Skullcrack
 3 Skullcrack
 4 Skullcrack
+2 Flame Rift
+3 Flame Rift
+4 Flame Rift
 2 Pyrokinesis
 3 Pyrostatic Pillar
 3 Sulfuric Vortex
@@ -63,13 +63,13 @@
 2 Bump in the Night
 2 Street Wraith
 3 Blood Crypt
-3 Scourge of the Skyclaves
 3 Arid Mesa
+3 Scourge of the Skyclaves
 3 Street Wraith
 3 Bump in the Night
 4 Street Wraith
-4 Scourge of the Skyclaves
 4 Arid Mesa
+4 Scourge of the Skyclaves
 4 Bump in the Night
 1 Wheel of Misfortune
 3 Bonecrusher Giant

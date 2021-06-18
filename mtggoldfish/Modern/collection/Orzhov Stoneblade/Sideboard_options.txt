@@ -44,8 +44,8 @@
 2 Vindicate
 1 Nihil Spellbomb
 1 Gideon, Ally of Zendikar
-1 Liliana, the Last Hope
 1 Kaldra Compleat
+1 Liliana, the Last Hope
 1 Archon of Emeria
 1 Sword of Fire and Ice
 1 Night's Whisper
@@ -81,16 +81,16 @@
 1 Cleansing Nova
 1 Kozilek, Butcher of Truth
 1 Extirpate
-1 Orzhov Pontiff
-2 Path to Exile
 1 Eidolon of Rhetoric
 2 Eidolon of Rhetoric
 1 Drannith Magistrate
 1 Manriki-Gusari
 2 Drannith Magistrate
+1 Orzhov Pontiff
+2 Path to Exile
 1 Sanctifier en-Vec
-2 Aven Mindcensor
 2 Solitude
+2 Aven Mindcensor
 2 Gideon, Ally of Zendikar
 2 Sanctifier en-Vec
 3 Solitude
@@ -101,6 +101,9 @@
 2 Chalice of the Void
 2 Tormod's Crypt
 3 Chalice of the Void
+1 Duress
+2 Duress
+3 Duress
 1 Wheel of Sun and Moon
 2 Wheel of Sun and Moon
 3 Engineered Explosives
@@ -109,12 +112,10 @@
 3 Fracture
 2 Thoughtseize
 3 Fatal Push
-1 Duress
-2 Duress
-3 Duress
 1 Rain of Tears
 2 Rain of Tears
 3 Stony Silence
+4 Relic of Progenitus
 1 Heliod's Intervention
 1 Fragmentize
 1 Lone Missionary
@@ -122,10 +123,9 @@
 2 Lone Missionary
 3 Skyclave Apparition
 4 Rest in Peace
-4 Relic of Progenitus
 1 Sword of Feast and Famine
 1 Kalitas, Traitor of Ghet
 3 Collective Brutality
 4 Fulminator Mage
-4 Kor Firewalker
 4 Break the Ice
+4 Kor Firewalker

@@ -1,58 +1,58 @@
-3 Snapcaster Mage
+3 Expressive Iteration
+4 Expressive Iteration
+1 Dragon's Rage Channeler
+1 Unholy Heat
+1 Murktide Regent
+2 Dragon's Rage Channeler
+2 Unholy Heat
+2 Murktide Regent
+3 Dragon's Rage Channeler
+3 Unholy Heat
+3 Murktide Regent
+4 Dragon's Rage Channeler
+4 Murktide Regent
+1 Vapor Snag
+1 Flooded Strand
+2 Flooded Strand
+3 Counterspell
+4 Counterspell
+1 Subtlety
+2 Subtlety
+1 Remand
+1 Spell Snare
+1 Watery Grave
+2 Watery Grave
+3 Polluted Delta
+4 Polluted Delta
+2 Remand
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
 1 Swamp
 1 Drown in the Loch
 1 Thoughtseize
+1 Soaring Thought-Thief
 1 Thieves' Guild Enforcer
 2 Thieves' Guild Enforcer
+2 Soaring Thought-Thief
 2 Drown in the Loch
 3 Inquisition of Kozilek
 3 Watery Grave
 3 Drown in the Loch
 3 Thieves' Guild Enforcer
+3 Soaring Thought-Thief
 4 Drown in the Loch
+4 Soaring Thought-Thief
 4 Thieves' Guild Enforcer
-1 Flooded Strand
-2 Flooded Strand
+3 Snapcaster Mage
+2 Vapor Snag
 1 Bloodstained Mire
 2 Bloodstained Mire
-1 Soaring Thought-Thief
-2 Soaring Thought-Thief
-3 Soaring Thought-Thief
-4 Soaring Thought-Thief
+3 Flooded Strand
 4 Snapcaster Mage
-1 Misty Rainforest
-2 Misty Rainforest
+1 Snow-Covered Island
 1 Blood Crypt
 1 Kolaghan's Command
 2 Kolaghan's Command
-1 Mishra's Bauble
-2 Mishra's Bauble
-3 Mishra's Bauble
-4 Mishra's Bauble
-1 Counterspell
-2 Counterspell
-1 Expressive Iteration
-2 Expressive Iteration
-3 Expressive Iteration
-4 Expressive Iteration
-1 Dragon's Rage Channeler
-1 Unholy Heat
-1 Subtlety
-1 Murktide Regent
-2 Dragon's Rage Channeler
-2 Murktide Regent
-2 Subtlety
-2 Unholy Heat
-3 Dragon's Rage Channeler
-3 Murktide Regent
-3 Unholy Heat
-4 Dragon's Rage Channeler
-4 Murktide Regent
-3 Counterspell
-2 Vapor Snag
-3 Flooded Strand
-4 Counterspell
-1 Snow-Covered Island
 4 Watery Grave
 1 Mountain
 4 Island
@@ -88,8 +88,8 @@
 1 Magmatic Channeler
 2 Magmatic Channeler
 3 Magmatic Channeler
-1 Wooded Foothills
 1 Breeding Pool
+1 Wooded Foothills
 2 Fire/Ice
 1 Prismatic Ending
 1 Sword of Fire and Ice
@@ -102,8 +102,8 @@
 2 Archmage's Charm
 3 Archmage's Charm
 1 Mystic Sanctuary
-1 Deprive
 1 Ascendant Spirit
+1 Deprive
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
@@ -123,6 +123,10 @@
 3 Dreadhorde Arcanist
 4 Dreadhorde Arcanist
 1 Suspend
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
+3 Steam Vents
 1 Disrupting Shoal
 1 Hexdrinker
 1 Stubborn Denial
@@ -183,6 +187,7 @@
 3 Sprite Dragon
 4 Sprite Dragon
 1 Creeping Tar Pit
+1 Tarfire
 1 Waterlogged Grove
 1 Grim Lavamancer
 1 Wizard's Retort
@@ -200,26 +205,18 @@
 1 Lightning Helix
 2 Lightning Helix
 3 Lightning Helix
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
-1 The Royal Scions
-1 Dark Confidant
-2 Dark Confidant
-3 Kolaghan's Command
 3 Subtlety
-3 Steam Vents
 4 Ancestral Vision
-1 Marsh Flats
-1 Agadeem's Awakening
-2 Marsh Flats
-2 Bloodchief's Thirst
-2 Agadeem's Awakening
-4 Darkslick Shores
 1 Young Pyromancer
 2 Young Pyromancer
 3 Young Pyromancer
 4 Young Pyromancer
+1 Agadeem's Awakening
+1 Marsh Flats
+2 Agadeem's Awakening
+2 Marsh Flats
+2 Bloodchief's Thirst
+4 Darkslick Shores
 1 Sunbaked Canyon
 1 Manamorphose
 1 Gut Shot
@@ -228,7 +225,6 @@
 1 Lava Dart
 1 Light Up the Stage
 1 Stormwing Entity
-2 Manamorphose
 2 Monastery Swiftspear
 2 Mountain
 2 Stormwing Entity
@@ -236,6 +232,7 @@
 2 Lava Spike
 2 Lava Dart
 2 Light Up the Stage
+2 Manamorphose
 2 Gut Shot
 3 Manamorphose
 3 Light Up the Stage
@@ -244,8 +241,8 @@
 3 Mountain
 3 Lava Spike
 3 Stormwing Entity
-4 Manamorphose
 4 Fiery Islet
+4 Manamorphose
 4 Stormwing Entity
 4 Lava Dart
 4 Monastery Swiftspear
@@ -260,21 +257,21 @@
 1 Spellstutter Sprite
 1 Cryptic Command
 1 Mutavault
-1 Castle Vantress
 1 Deliberate
+1 Castle Vantress
 1 Silundi Vision
 1 Psionic Blast
 2 Spellstutter Sprite
 2 Vendilion Clique
 2 Mutavault
-2 Psionic Blast
 2 Deliberate
+2 Psionic Blast
 2 Cryptic Command
 3 Spellstutter Sprite
 3 Cryptic Command
 3 Deliberate
-4 Cryptic Command
 4 Remand
+4 Cryptic Command
 5 Island
 6 Island
 7 Island

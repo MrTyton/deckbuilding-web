@@ -28,18 +28,18 @@
 3 Port of Karfell
 1 Massacre Wurm
 3 Thassa, Deep-Dwelling
-1 Elite Spellbinder
 1 Professor of Symbology
+1 Elite Spellbinder
 1 Mystical Dispute
 1 Burning-Rune Demon
 2 Professor of Symbology
-2 Elite Spellbinder
 2 Burning-Rune Demon
+2 Elite Spellbinder
 2 Mystical Dispute
 3 Elite Spellbinder
 3 Professor of Symbology
-4 Elite Spellbinder
 4 Professor of Symbology
+4 Elite Spellbinder
 4 Gyruda, Doom of Depths
 1 Acquisitions Expert
 2 Acquisitions Expert
@@ -61,25 +61,25 @@
 1 Heartless Act
 2 Heartless Act
 1 Binding the Old Gods
+1 Wolfwillow Haven
 1 Darkbore Pathway
 1 Zagoth Triome
-1 Wolfwillow Haven
-2 Binding the Old Gods
 2 Wolfwillow Haven
+2 Binding the Old Gods
 3 Wolfwillow Haven
-1 Indatha Triome
 1 Kaervek, the Spiteful
 1 Shepherd of the Cosmos
 1 Branchloft Pathway
+1 Indatha Triome
 1 Forest
-2 Indatha Triome
 2 Drannith Magistrate
 2 Shepherd of the Cosmos
+2 Indatha Triome
 2 Branchloft Pathway
 2 Kaervek, the Spiteful
-3 Binding the Old Gods
 3 Branchloft Pathway
 3 Shepherd of the Cosmos
+3 Binding the Old Gods
 4 Wolfwillow Haven
 4 Branchloft Pathway
 4 Shepherd of the Cosmos
@@ -90,41 +90,41 @@
 1 Polukranos, Unchained
 1 Acolyte of Affliction
 2 Zagoth Triome
-1 Baleful Mastery
-1 Lochmere Serpent
-1 Temple of Mystery
-1 Snow-Covered Swamp
-1 Atris, Oracle of Half-Truths
-1 Tangled Florahedron
-1 Temple of Malady
-1 Snow-Covered Forest
-1 Eliminate
-1 Spirit of the Aldergard
-1 Nylea, Keen-Eyed
-1 Eat to Extinction
-1 Feed the Serpent
 1 Ilysian Caryatid
 1 Kogla, the Titan Ape
+1 Temple of Mystery
+1 Nylea, Keen-Eyed
+1 Tangled Florahedron
 1 Jungle Hollow
+1 Snow-Covered Forest
+1 Temple of Malady
+1 Baleful Mastery
+1 Eliminate
+1 Spirit of the Aldergard
+1 Eat to Extinction
+1 Feed the Serpent
+1 Lochmere Serpent
+1 Snow-Covered Swamp
 1 Barkchannel Pathway
-2 Polukranos, Unchained
-2 Snow-Covered Swamp
-2 Atris, Oracle of Half-Truths
-2 Tangled Florahedron
-2 Snow-Covered Forest
-2 Spirit of the Aldergard
+1 Atris, Oracle of Half-Truths
 2 Ilysian Caryatid
-2 Jungle Hollow
-2 Temple of Mystery
 2 Kogla, the Titan Ape
+2 Tangled Florahedron
+2 Jungle Hollow
+2 Snow-Covered Forest
 2 Eliminate
-3 Snow-Covered Swamp
-3 Snow-Covered Forest
-3 Eliminate
+2 Spirit of the Aldergard
+2 Polukranos, Unchained
+2 Temple of Mystery
+2 Atris, Oracle of Half-Truths
+2 Snow-Covered Swamp
 3 Ilysian Caryatid
-4 Snow-Covered Swamp
-4 Snow-Covered Forest
+3 Snow-Covered Forest
+3 Snow-Covered Swamp
+3 Eliminate
 4 Ilysian Caryatid
+4 Snow-Covered Forest
+4 Snow-Covered Swamp
 5 Snow-Covered Forest
 1 Masked Vandal
 3 Heartless Act
@@ -132,8 +132,8 @@
 4 Binding the Old Gods
 4 Port of Karfell
 2 Darkbore Pathway
-3 Darkbore Pathway
 3 Indatha Triome
+3 Darkbore Pathway
 3 Acquisitions Expert
 4 Acquisitions Expert
 2 Dream Trawler
@@ -142,71 +142,71 @@
 1 Banishing Light
 2 Banishing Light
 3 Disdainful Stroke
-1 Ashiok, Nightmare Muse
+4 Omen of the Sun
+4 Niko Aris
+1 Snow-Covered Plains
+1 Glimpse of Freedom
+1 Essence Scatter
+1 Solemn Simulacrum
+1 Shark Typhoon
+2 Crawling Barrens
+2 Glimpse of Freedom
+2 Essence Scatter
+2 Shark Typhoon
+2 Solemn Simulacrum
+3 Shark Typhoon
+3 Negate
+3 Emeria's Call
+3 Solemn Simulacrum
+3 Glimpse of Freedom
+4 Solemn Simulacrum
+4 Emeria's Call
+1 Temple of Deceit
 1 Behold the Multiverse
 1 Vanishing Verse
+1 Ashiok, Nightmare Muse
 1 Elspeth's Nightmare
-1 Temple of Deceit
+2 Temple of Deceit
 2 Behold the Multiverse
 2 Vanishing Verse
-2 Temple of Deceit
 2 Elspeth's Nightmare
 3 Vanishing Verse
 3 Temple of Deceit
 4 Vanishing Verse
-4 Omen of the Sun
-4 Niko Aris
-1 Essence Scatter
-1 Solemn Simulacrum
-1 Glimpse of Freedom
-1 Snow-Covered Plains
-1 Shark Typhoon
-2 Solemn Simulacrum
-2 Essence Scatter
-2 Glimpse of Freedom
-2 Crawling Barrens
-2 Shark Typhoon
-3 Solemn Simulacrum
-3 Shark Typhoon
-3 Negate
-3 Emeria's Call
-3 Glimpse of Freedom
-4 Solemn Simulacrum
-4 Emeria's Call
 1 Prismari Command
 1 Fire Prophecy
 1 Mountain
 1 Showdown of the Skalds
-1 Inspired Ultimatum
-1 Narset of the Ancient Way
 1 Ox of Agonas
 1 Alrund's Epiphany
 1 Riverglide Pathway
 1 Omen of the Forge
+1 Narset of the Ancient Way
+1 Inspired Ultimatum
 1 Glasspool Mimic
 1 Needleverge Pathway
 2 Prismari Command
 2 Mountain
 2 Fire Prophecy
 2 Showdown of the Skalds
-2 Narset of the Ancient Way
 2 Baneslayer Angel
 2 Ox of Agonas
 2 Needleverge Pathway
 2 Omen of the Forge
 2 Riverglide Pathway
+2 Narset of the Ancient Way
 2 Raugrin Triome
 3 Fire Prophecy
-3 Narset of the Ancient Way
+3 Showdown of the Skalds
 3 Needleverge Pathway
 3 Raugrin Triome
-3 Showdown of the Skalds
 3 Omen of the Forge
 3 Riverglide Pathway
+3 Narset of the Ancient Way
 4 Raugrin Triome
 4 Riverglide Pathway
 4 Needleverge Pathway
 2 Forest
-3 Mystical Dispute
 3 Drannith Magistrate
+3 Mystical Dispute
 4 Thassa, Deep-Dwelling

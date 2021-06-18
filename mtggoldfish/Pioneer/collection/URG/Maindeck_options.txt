@@ -83,42 +83,6 @@
 4 Watery Grave
 4 Censor
 4 Fatal Push
-1 Chandra, Acolyte of Flame
-1 See the Truth
-1 Multiple Choice
-1 Terror of the Peaks
-1 Spirebluff Canal
-1 Shivan Reef
-1 Forbidden Friendship
-1 Fire Prophecy
-2 Shivan Reef
-2 Terror of the Peaks
-2 Spirebluff Canal
-2 Fire Prophecy
-2 Forbidden Friendship
-2 Valakut Awakening
-2 Chandra, Acolyte of Flame
-2 Multiple Choice
-3 Terror of the Peaks
-3 Spirebluff Canal
-3 Valakut Awakening
-3 Shivan Reef
-3 Chandra, Acolyte of Flame
-3 Fire Prophecy
-3 Forbidden Friendship
-4 Shivan Reef
-4 Spirebluff Canal
-4 Chandra, Acolyte of Flame
-4 Terror of the Peaks
-4 Forbidden Friendship
-1 Abrade
-1 Quicken
-1 Creative Outburst
-2 Quicken
-2 Abrade
-2 Creative Outburst
-3 Creative Outburst
-4 Creative Outburst
 1 Castle Embereth
 1 Legion Loyalist
 1 Wild Slash
@@ -142,44 +106,80 @@
 16 Mountain
 1 Zurgo Bellstriker
 1 Burning-Tree Emissary
+1 Ramunap Ruins
+1 Lightning Strike
+1 Bomat Courier
 1 Monastery Swiftspear
 1 Foundry Street Denizen
-1 Lightning Strike
 1 Rakdos Cackler
-1 Bomat Courier
 1 Reckless Bushwhacker
-1 Ramunap Ruins
 1 Shock
-2 Burning-Tree Emissary
 2 Shock
+2 Burning-Tree Emissary
+2 Ramunap Ruins
+2 Lightning Strike
 2 Bomat Courier
 2 Foundry Street Denizen
 2 Reckless Bushwhacker
 2 Monastery Swiftspear
-2 Lightning Strike
-2 Ramunap Ruins
 2 Rakdos Cackler
 3 Burning-Tree Emissary
+3 Ramunap Ruins
+3 Lightning Strike
 3 Bomat Courier
 3 Foundry Street Denizen
 3 Reckless Bushwhacker
-3 Ramunap Ruins
 3 Rakdos Cackler
 3 Monastery Swiftspear
-3 Lightning Strike
 4 Burning-Tree Emissary
+4 Ramunap Ruins
+4 Lightning Strike
 4 Bomat Courier
 4 Rakdos Cackler
 4 Reckless Bushwhacker
-4 Lightning Strike
 4 Foundry Street Denizen
 4 Monastery Swiftspear
-4 Ramunap Ruins
+1 Chandra, Acolyte of Flame
+1 See the Truth
+1 Multiple Choice
+1 Terror of the Peaks
+1 Spirebluff Canal
+1 Shivan Reef
+1 Forbidden Friendship
+1 Fire Prophecy
+2 Shivan Reef
+2 Terror of the Peaks
+2 Fire Prophecy
+2 Forbidden Friendship
+2 Spirebluff Canal
+2 Valakut Awakening
+2 Chandra, Acolyte of Flame
+2 Multiple Choice
+3 Valakut Awakening
+3 Terror of the Peaks
+3 Shivan Reef
+3 Chandra, Acolyte of Flame
+3 Spirebluff Canal
+3 Fire Prophecy
+3 Forbidden Friendship
+4 Shivan Reef
+4 Chandra, Acolyte of Flame
+4 Terror of the Peaks
+4 Spirebluff Canal
+4 Forbidden Friendship
+1 Creative Outburst
+1 Abrade
+1 Quicken
+2 Quicken
+2 Abrade
+2 Creative Outburst
+3 Creative Outburst
+4 Creative Outburst
 1 Bonecrusher Giant
 1 Frantic Inventory
+1 Torrent Sculptor
 1 Sweltering Suns
 1 Goldspan Dragon
-1 Torrent Sculptor
 1 Depths of Desire
 2 Bonecrusher Giant
 2 Frantic Inventory
@@ -209,21 +209,21 @@
 2 Castle Embereth
 2 Frenzied Goblin
 2 Goblin Piledriver
-3 Castle Embereth
 3 Goblin Warchief
 3 Goblin Ringleader
 3 Conspicuous Snoop
 3 Goblin Chainwhirler
 3 Fanatical Firebrand
+3 Castle Embereth
 3 Frenzied Goblin
 3 Goblin Piledriver
+4 Castle Embereth
 4 Goblin Warchief
 4 Conspicuous Snoop
 4 Goblin Chainwhirler
 4 Goblin Piledriver
 4 Frenzied Goblin
 4 Fanatical Firebrand
-4 Castle Embereth
 17 Mountain
 18 Mountain
 19 Mountain
