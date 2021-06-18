@@ -23,9 +23,9 @@
 5 Forest
 1 Omen of the Forge
 1 Branchloft Pathway
+1 Godless Shrine
 1 Thirst for Meaning
 1 Dryad of the Ilysian Grove
-1 Godless Shrine
 1 Finale of Devastation
 1 Solemn Simulacrum
 1 Sanctum of Stone Fangs
@@ -34,14 +34,15 @@
 1 Prophetic Prism
 1 Treacherous Blessing
 1 Elder Gargaroth
+1 Mastermind's Acquisition
 1 Terror of the Peaks
+1 Massacre Wurm
 1 Sanctum of All
 1 Genesis Ultimatum
 1 Mirari's Wake
 1 God-Eternal Rhonas
 1 Assassin's Trophy
 1 Wrath of God
-1 Massacre Wurm
 1 Ulvenwald Hydra
 1 Needleverge Pathway
 1 Sanctum of Shattered Heights
@@ -55,7 +56,6 @@
 1 Cultivate
 1 Honden of Seeing Winds
 1 Renegade Map
-1 Mastermind's Acquisition
 1 Cragcrown Pathway
 1 Smothering Tithe
 1 Honden of Cleansing Fire
@@ -67,18 +67,19 @@
 1 Sanctum of Fruitful Harvest
 1 Sanctum of Tranquil Light
 1 Trial of Knowledge
+2 The Birth of Meletis
 2 Omen of the Forge
 2 Branchloft Pathway
 2 Dryad of the Ilysian Grove
 2 Thirst for Meaning
-2 Solemn Simulacrum
 2 Godless Shrine
+2 Solemn Simulacrum
 2 Elspeth Conquers Death
-2 The Birth of Meletis
+2 Cultivate
+2 Sacred Foundry
 2 Prophetic Prism
 2 Evolving Wilds
 2 Treacherous Blessing
-2 Sacred Foundry
 2 Watery Grave
 2 Terror of the Peaks
 2 Wrath of God
@@ -88,7 +89,6 @@
 2 Migration Path
 2 Smothering Tithe
 2 Yorion, Sky Nomad
-2 Cultivate
 2 Mastermind's Acquisition
 2 Sanctum of Fruitful Harvest
 2 Finale of Devastation
@@ -107,12 +107,13 @@
 2 Renegade Map
 2 Riverglide Pathway
 2 Cragcrown Pathway
-3 Plains
 3 Dryad of the Ilysian Grove
 3 Branchloft Pathway
-3 Prophetic Prism
+3 Cultivate
 3 Omen of the Forge
 3 Assassin's Trophy
+3 Plains
+3 Sacred Foundry
 3 Watery Grave
 3 Deafening Clarion
 3 Wrath of God
@@ -123,7 +124,6 @@
 3 Fae of Wishes
 3 Renegade Map
 3 Cragcrown Pathway
-3 Cultivate
 3 Ketria Triome
 3 Mirari's Wake
 3 Migration Path
@@ -133,8 +133,8 @@
 3 Sanctum of Fruitful Harvest
 3 Evolving Wilds
 3 Thirst for Meaning
-3 Sacred Foundry
 3 Steam Vents
+3 Prophetic Prism
 3 Treacherous Blessing
 3 Sanctum of All
 4 Plains
@@ -143,6 +143,7 @@
 4 Temple Garden
 4 Breeding Pool
 4 Treacherous Blessing
+4 Sacred Foundry
 4 Deafening Clarion
 4 Watery Grave
 4 Wrath of God
@@ -150,7 +151,6 @@
 4 Fae of Wishes
 4 Cultivate
 4 Renegade Map
-4 Sacred Foundry
 4 Migration Path
 4 Gilded Goose
 4 Island
@@ -169,9 +169,9 @@
 2 Ugin, the Spirit Dragon
 1 Ugin, the Ineffable
 1 Inventors' Fair
-1 Mind Stone
 1 Hedron Archive
 1 Blast Zone
+1 Mind Stone
 1 Guardian Idol
 1 Forsaken Monument
 2 Ugin, the Ineffable
@@ -179,10 +179,10 @@
 2 Forsaken Monument
 2 Guardian Idol
 2 Hedron Archive
-3 Guardian Idol
 3 Mind Stone
-4 Guardian Idol
+3 Guardian Idol
 4 Mind Stone
+4 Guardian Idol
 1 Zhalfirin Void
 1 Crawling Barrens
 2 Blast Zone
@@ -240,9 +240,9 @@
 1 Hinterland Harbor
 2 Setessan Champion
 2 Woodland Cemetery
+2 Elspeth's Nightmare
 2 In Search of Greatness
 2 Hinterland Harbor
-2 Elspeth's Nightmare
 2 Sunpetal Grove
 2 Glacial Fortress
 2 Calix, Destiny's Hand
@@ -289,8 +289,8 @@
 3 Omen of the Hunt
 3 Yorion, Sky Nomad
 4 Mirari's Wake
-1 Shalai, Voice of Plenty
 1 Medomai's Prophecy
+1 Shalai, Voice of Plenty
 1 Luminous Broodmoth
 1 Idyllic Tutor
 2 Medomai's Prophecy
@@ -410,13 +410,13 @@
 1 Barkchannel Pathway
 1 Necroblossom Snarl
 1 Castle Locthwain
-1 Vivien, Champion of the Wilds
-1 Vineglimmer Snarl
 1 Temple of Malady
+1 Migratory Greathorn
 1 Auspicious Starrix
-1 Nethroi, Apex of Death
+1 Vivien, Champion of the Wilds
 1 Dirge Bat
 1 The Great Henge
+1 Pollywog Symbiote
 1 Nissa, Who Shakes the World
 1 Vivien Reid
 1 Gemrazer
@@ -424,28 +424,28 @@
 1 Darkbore Pathway
 1 Koma, Cosmos Serpent
 1 Temple of Deceit
-1 Migratory Greathorn
+1 Nethroi, Apex of Death
+1 Vineglimmer Snarl
 1 Boneyard Lurker
-1 Pollywog Symbiote
 1 Pouncing Shoreshark
 1 Insatiable Hemophage
 2 Season of Growth
 2 Darkbore Pathway
+2 Migratory Greathorn
 2 Auspicious Starrix
 2 Dirge Bat
+2 Pollywog Symbiote
 2 Nissa, Who Shakes the World
 2 Gemrazer
 2 Boneyard Lurker
-2 Migratory Greathorn
-2 Pollywog Symbiote
 2 Pouncing Shoreshark
 2 Insatiable Hemophage
-3 Auspicious Starrix
-3 Gemrazer
 3 Migratory Greathorn
+3 Auspicious Starrix
+3 Pollywog Symbiote
+3 Gemrazer
 3 Insatiable Hemophage
 3 Boneyard Lurker
-3 Pollywog Symbiote
 1 Valki, God of Lies
 1 Alrund's Epiphany
 1 Felidar Retreat
@@ -466,14 +466,14 @@
 4 Open the Gates
 1 Thought Erasure
 1 Isolated Chapel
+1 Angrath's Rampage
 1 Dragonskull Summit
 1 Rootbound Crag
-1 Vraska, Golgari Queen
 1 Drowned Catacomb
+1 Vraska, Golgari Queen
 1 Solar Blaze
-1 Ashiok, Dream Render
 1 Time Wipe
-1 Angrath's Rampage
+1 Ashiok, Dream Render
 1 Captain Sisay
 1 Sulfur Falls
 2 Thought Erasure
@@ -485,22 +485,22 @@
 4 Thought Erasure
 1 Voltaic Brawler
 1 Knight of Autumn
-1 Elite Guardmage
 1 Kambal, Consul of Allocation
 1 Attune with Aether
 1 Faeburrow Elder
 1 Ancient Ziggurat
+1 Elite Guardmage
 1 Ephemerate
 1 Whirler Virtuoso
 1 Lightning Helix
 1 Rogue Refiner
 2 The World Tree
 2 Voltaic Brawler
-2 Elite Guardmage
 2 Ephemerate
 2 Whirler Virtuoso
 2 Hydroid Krasis
 2 Rogue Refiner
+2 Elite Guardmage
 2 Attune with Aether
 2 Lightning Helix
 2 Ancient Ziggurat

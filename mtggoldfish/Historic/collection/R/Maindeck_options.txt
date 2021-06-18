@@ -1,9 +1,3 @@
-4 Skewer the Critics
-2 Mountain
-1 Ghitu Lavarunner
-2 Ghitu Lavarunner
-3 Ghitu Lavarunner
-3 Mountain
 1 Needleverge Pathway
 1 Lightning Helix
 1 Inspiring Vantage
@@ -13,51 +7,55 @@
 2 Needleverge Pathway
 2 Lightning Helix
 3 Sacred Foundry
-3 Needleverge Pathway
 3 Inspiring Vantage
+3 Needleverge Pathway
 4 Sacred Foundry
 4 Inspiring Vantage
 4 Needleverge Pathway
+2 Sunscorched Desert
+1 Rampaging Ferocidon
+2 Rampaging Ferocidon
+3 Bonecrusher Giant
+1 Faceless Haven
 1 Hazoret the Fervent
 2 Hazoret the Fervent
+3 Lightning Helix
+4 Lightning Helix
+4 Mountain
+14 Snow-Covered Mountain
+1 Clever Lumimancer
+2 Clever Lumimancer
+3 Clever Lumimancer
+4 Ghitu Lavarunner
+5 Mountain
+6 Mountain
+7 Mountain
 1 Grim Lavamancer
 1 Thermo-Alchemist
 2 Thermo-Alchemist
 3 Thermo-Alchemist
-4 Ghitu Lavarunner
-4 Mountain
-3 Lightning Helix
-4 Lightning Helix
-1 Clever Lumimancer
-2 Clever Lumimancer
-3 Clever Lumimancer
 4 Clever Lumimancer
-3 Pillar of Flame
 3 Rampaging Ferocidon
-2 Faceless Haven
-5 Mountain
-6 Mountain
-7 Mountain
-2 Grim Lavamancer
+1 Kari Zev, Skyship Raider
+2 Kari Zev, Skyship Raider
+3 Pillar of Flame
+8 Mountain
 1 Chandra's Incinerator
 2 Chandra's Incinerator
-4 Thermo-Alchemist
 3 Chandra's Incinerator
 4 Chandra's Incinerator
-8 Mountain
+4 Thermo-Alchemist
 9 Mountain
 10 Mountain
 11 Mountain
 12 Mountain
-1 Kari Zev, Skyship Raider
-2 Kari Zev, Skyship Raider
+2 Faceless Haven
 13 Mountain
 14 Mountain
 15 Mountain
-4 Pillar of Flame
-1 Spikefield Hazard
+2 Grim Lavamancer
 4 Rampaging Ferocidon
-1 Chandra, Torch of Defiance
+4 Pillar of Flame
 1 Fanatical Firebrand
 1 Risk Factor
 1 Chandra's Spitfire
@@ -67,7 +65,9 @@
 3 Fanatical Firebrand
 3 Chandra's Spitfire
 4 Fanatical Firebrand
+1 Spikefield Hazard
 1 Plains
+1 Chandra, Torch of Defiance
 3 Risk Factor
 2 Spikefield Hazard
 1 Ahn-Crop Crasher
@@ -78,11 +78,11 @@
 2 Ahn-Crop Crasher
 16 Mountain
 3 Sunscorched Desert
-4 Bonecrusher Giant
 1 Chandra, Acolyte of Flame
 1 Heartfire Immolator
 2 Heartfire Immolator
 3 Heartfire Immolator
+4 Bonecrusher Giant
 15 Snow-Covered Mountain
 1 Firebrand Archer
 1 Collateral Damage
@@ -94,43 +94,49 @@
 19 Mountain
 3 Faceless Haven
 16 Snow-Covered Mountain
-2 Chandra, Torch of Defiance
-1 Showdown of the Skalds
-2 Showdown of the Skalds
-3 Showdown of the Skalds
-1 Runaway Steam-Kin
-2 Runaway Steam-Kin
-1 Grapeshot
-1 Castle Embereth
-2 Castle Embereth
-1 Magma Jet
-2 Magma Jet
-1 Goblin Chainwhirler
-1 Robber of the Rich
-2 Robber of the Rich
-1 The Flame of Keld
-2 The Flame of Keld
-2 Plains
-3 Plains
-1 Blood Crypt
-1 Magmatic Channeler
-1 Increasing Vengeance
-1 Clifftop Retreat
-2 Blood Crypt
-2 Magmatic Channeler
-2 Increasing Vengeance
-3 Blood Crypt
-1 The Biblioplex
-4 Showdown of the Skalds
-3 Hazoret the Fervent
-4 Sunscorched Desert
 1 Burning-Tree Emissary
 2 Burning-Tree Emissary
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
-1 Guttersnipe
-2 Guttersnipe
-3 Guttersnipe
-4 Guttersnipe
-3 Runaway Steam-Kin
-4 Runaway Steam-Kin
+1 Grapeshot
+1 Castle Embereth
+2 Castle Embereth
+2 Chandra, Torch of Defiance
+1 Goblin Chainwhirler
+1 Robber of the Rich
+2 Robber of the Rich
+1 Magma Jet
+2 Magma Jet
+2 Plains
+3 Plains
+1 Blood Crypt
+1 Increasing Vengeance
+1 Magmatic Channeler
+1 Clifftop Retreat
+2 Blood Crypt
+2 Increasing Vengeance
+2 Magmatic Channeler
+3 Blood Crypt
+1 Showdown of the Skalds
+1 The Biblioplex
+2 Showdown of the Skalds
+3 Showdown of the Skalds
+4 Showdown of the Skalds
+3 Hazoret the Fervent
+4 Sunscorched Desert
+1 Cragcrown Pathway
+1 Atarka's Command
+1 Stomping Ground
+1 Rootbound Crag
+2 Chandra, Acolyte of Flame
+2 Stomping Ground
+2 Rootbound Crag
+2 Cragcrown Pathway
+2 Atarka's Command
+3 Rootbound Crag
+3 Atarka's Command
+3 Stomping Ground
+3 Cragcrown Pathway
+4 Atarka's Command
+4 Rootbound Crag
+4 Stomping Ground

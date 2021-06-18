@@ -14,14 +14,14 @@
 3 Snow-Covered Mountain
 4 Snow-Covered Forest
 4 Snow-Covered Mountain
-5 Snow-Covered Forest
 5 Snow-Covered Mountain
-6 Snow-Covered Forest
+5 Snow-Covered Forest
 6 Snow-Covered Mountain
-7 Snow-Covered Mountain
+6 Snow-Covered Forest
 7 Snow-Covered Forest
-8 Snow-Covered Mountain
+7 Snow-Covered Mountain
 8 Snow-Covered Forest
+8 Snow-Covered Mountain
 6 Mountain
 1 Elder Gargaroth
 2 Elder Gargaroth
@@ -39,14 +39,29 @@
 3 Fabled Passage
 4 Fabled Passage
 1 Tangled Florahedron
-1 Primal Might
 1 Garruk, Unleashed
 1 Vivien, Monsters' Advocate
+1 Primal Might
 1 Inscription of Abundance
 1 Grumgully, the Generous
 2 Inscription of Abundance
 1 Extus, Oriq Overlord
 2 Extus, Oriq Overlord
+1 Scavenging Ooze
+1 Fire Prophecy
+2 Fire Prophecy
+2 Questing Beast
+2 Scavenging Ooze
+3 Kazandu Mammoth
+4 Kazandu Mammoth
+1 Funeral Longboat
+1 Ox of Agonas
+1 Klothys, God of Destiny
+2 Hall of Oracles
+2 Klothys, God of Destiny
+2 Funeral Longboat
+2 The Akroan War
+7 Mountain
 1 Toski, Bearer of Secrets
 1 Mascot Interception
 2 Toski, Bearer of Secrets
@@ -54,18 +69,3 @@
 2 Mascot Interception
 3 Temple of Abandon
 4 Temple of Abandon
-1 Funeral Longboat
-1 Ox of Agonas
-1 Klothys, God of Destiny
-2 Klothys, God of Destiny
-2 Funeral Longboat
-2 The Akroan War
-2 Hall of Oracles
-7 Mountain
-1 Scavenging Ooze
-1 Fire Prophecy
-2 Scavenging Ooze
-2 Fire Prophecy
-2 Questing Beast
-3 Kazandu Mammoth
-4 Kazandu Mammoth

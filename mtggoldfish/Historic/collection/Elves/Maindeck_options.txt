@@ -49,17 +49,17 @@
 1 Temple Garden
 2 Branchloft Pathway
 2 Temple Garden
-3 Branchloft Pathway
 3 Temple Garden
+3 Branchloft Pathway
 4 Temple Garden
 4 Branchloft Pathway
 18 Snow-Covered Forest
 19 Snow-Covered Forest
-1 Barkchannel Pathway
 1 Swan Song
 1 Aether Gust
 1 Breeding Pool
 1 Botanical Sanctum
+1 Barkchannel Pathway
 2 Barkchannel Pathway
 2 Swan Song
 2 Breeding Pool
@@ -99,10 +99,10 @@
 2 Lys Alana Huntmaster
 1 Swamp
 1 The Great Henge
+1 Haunting Voyage
 1 Harald Unites the Elves
 1 Elven Ambush
 1 Poison-Tip Archer
-1 Haunting Voyage
 2 Swamp
 2 Harald Unites the Elves
 2 Abomination of Llanowar
@@ -126,16 +126,16 @@
 1 Necroblossom Snarl
 1 Skemfar Elderhall
 2 Necroblossom Snarl
-1 Fauna Shaman
-2 Fauna Shaman
 1 Wildborn Preserver
 2 Wildborn Preserver
 1 Pelt Collector
 2 Pelt Collector
 1 Elderfang Disciple
 2 Elderfang Disciple
-1 Sunpetal Grove
+1 Fauna Shaman
+2 Fauna Shaman
 1 Plains
+1 Sunpetal Grove
 2 Sunpetal Grove
 3 Sunpetal Grove
 2 Turntimber Symbiosis
@@ -163,11 +163,11 @@
 1 Containment Breach
 1 Tangletrap
 1 Elven Bow
+1 Devouring Tendrils
 1 Elderleaf Mentor
 1 Silhana Wayfinder
 1 Wren's Run Vanquisher
 1 Woodland Champion
-1 Devouring Tendrils
 1 Charge of the Forever-Beast
 1 Skyway Sniper
 1 Oakhame Ranger

@@ -3,33 +3,33 @@
 2 Selfless Savior
 3 Selfless Savior
 2 Mountain
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-3 Bonecrusher Giant
 4 Selfless Savior
 3 Plains
 4 Plains
 1 Skyclave Apparition
 2 Skyclave Apparition
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+3 Bonecrusher Giant
 4 Bonecrusher Giant
 3 Mountain
 4 Mountain
+4 Blade Historian
 3 Elite Spellbinder
 3 Skyclave Apparition
+1 Professor of Symbology
+2 Professor of Symbology
 5 Plains
 6 Plains
 7 Plains
-4 Blade Historian
-1 Furycalm Snarl
-5 Mountain
-1 Professor of Symbology
-2 Professor of Symbology
-2 Furycalm Snarl
-3 Furycalm Snarl
 3 Professor of Symbology
 4 Professor of Symbology
 1 Alseid of Life's Bounty
 2 Alseid of Life's Bounty
+1 Furycalm Snarl
+5 Mountain
+2 Furycalm Snarl
+3 Furycalm Snarl
 8 Plains
 4 Elite Spellbinder
 9 Plains
@@ -43,16 +43,16 @@
 4 Furycalm Snarl
 3 Alseid of Life's Bounty
 4 Alseid of Life's Bounty
+1 Skyclave Cleric
+2 Skyclave Cleric
 1 Shatterskull Smashing
 1 Turntimber Symbiosis
 3 Esika's Chariot
-1 Skyclave Cleric
-2 Skyclave Cleric
+3 Basri's Lieutenant
 1 Temple of Triumph
 2 Temple of Triumph
 1 Embercleave
 2 Embercleave
-3 Basri's Lieutenant
 2 Shatterskull Smashing
 3 Shatterskull Smashing
 1 Seasoned Hallowblade
@@ -64,35 +64,36 @@
 2 Luminarch Aspirant
 3 Luminarch Aspirant
 4 Luminarch Aspirant
+3 Skyclave Cleric
 1 Venerable Warsinger
 2 Venerable Warsinger
-4 Shatterskull Smashing
-3 Rimrock Knight
-4 Rimrock Knight
-7 Mountain
 1 Fabled Passage
 2 Fabled Passage
-10 Plains
-3 Skyclave Cleric
-3 Temple of Triumph
-4 Temple of Triumph
-3 Fabled Passage
-1 Snow-Covered Mountain
-1 Snow-Covered Plains
-1 Haktos the Unscarred
-8 Mountain
+4 Shatterskull Smashing
+7 Mountain
+3 Rimrock Knight
+4 Rimrock Knight
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 3 Stonecoil Serpent
+3 Fabled Passage
 4 Fabled Passage
-4 Blightstep Pathway
 4 Skyclave Cleric
+1 Proud Wildbonder
+2 Proud Wildbonder
+10 Plains
+3 Temple of Triumph
+4 Temple of Triumph
+1 Snow-Covered Mountain
+1 Snow-Covered Plains
+1 Haktos the Unscarred
+4 Stonecoil Serpent
+8 Mountain
+4 Blightstep Pathway
 1 Clarion Spirit
 2 Clarion Spirit
 3 Clarion Spirit
 4 Clarion Spirit
-1 Proud Wildbonder
-2 Proud Wildbonder
 1 Hengegate Pathway
 2 Hengegate Pathway
 3 Venerable Warsinger
@@ -108,21 +109,25 @@
 2 Shaile, Dean of Radiance
 3 Shaile, Dean of Radiance
 4 Brightclimb Pathway
-4 Stonecoil Serpent
+1 Tangled Florahedron
+2 Tangled Florahedron
+2 Seasoned Hallowblade
+3 Tangled Florahedron
+4 Esika's Chariot
 1 Robber of the Rich
 1 Anax, Hardened in the Forge
 2 Robber of the Rich
 2 Anax, Hardened in the Forge
 4 Basri's Lieutenant
+1 Hofri Ghostforge
 1 Mila, Crafty Companion
-1 Mythos of Vadrok
 1 Thassa, Deep-Dwelling
 1 Riverglide Pathway
+1 Mythos of Vadrok
 1 Terror of the Peaks
 1 Harmonious Archon
 1 Emeria's Call
 1 Island
-1 Hofri Ghostforge
 1 Raugrin Triome
 2 Hofri Ghostforge
 2 Mythos of Vadrok
@@ -137,36 +142,6 @@
 3 Hengegate Pathway
 4 Hengegate Pathway
 4 Riverglide Pathway
-1 Showdown of the Skalds
-1 Shadowspear
-1 Maul of the Skyclaves
-1 Stonebinder's Familiar
-1 Rally the Ranks
-1 Igneous Cur
-1 Pack Leader
-1 Akoum Hellhound
-1 Castle Embereth
-1 Wind-Scarred Crag
-1 Underworld Rage-Hound
-1 Bolt Hound
-2 Shadowspear
-2 Showdown of the Skalds
-2 Maul of the Skyclaves
-2 Underworld Rage-Hound
-2 Igneous Cur
-2 Stonebinder's Familiar
-2 Wind-Scarred Crag
-2 Pack Leader
-2 Castle Embereth
-2 Bolt Hound
-2 Rally the Ranks
-3 Maul of the Skyclaves
-3 Wind-Scarred Crag
-3 Bolt Hound
-3 Igneous Cur
-3 Underworld Rage-Hound
-3 Pack Leader
-4 Pack Leader
 1 Kitesail Cleric
 1 Plargg, Dean of Chaos
 2 Plargg, Dean of Chaos
@@ -175,10 +150,5 @@
 3 Kitesail Cleric
 4 Drannith Magistrate
 4 Plargg, Dean of Chaos
-4 Kitesail Cleric
 11 Plains
-1 Tangled Florahedron
-2 Tangled Florahedron
-2 Seasoned Hallowblade
-3 Tangled Florahedron
-4 Esika's Chariot
+4 Kitesail Cleric

@@ -136,7 +136,7 @@
 |                    3|[Akoum Hellhound](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491772)         |                     |                                                                                                |
 |                    3|[Wayward Guide-Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491821)     |                     |                                                                                                |
 |                    4|[Vexing Devil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278257)            |                     |                                                                                                |
-|                    4|[Akoum Hellhound](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491772)         |                     |                                                                                                |
 |                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)         |                     |                                                                                                |
+|                    4|[Akoum Hellhound](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491772)         |                     |                                                                                                |
 |                    4|[Wayward Guide-Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491821)     |                     |                                                                                                |
 
