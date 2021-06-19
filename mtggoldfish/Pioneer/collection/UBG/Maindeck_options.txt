@@ -1,18 +1,17 @@
 3 Temple of Mystery
 2 Dig Through Time
 3 Dig Through Time
-1 Forest
 1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
 1 Fatal Push
 1 Fabled Passage
 1 Watery Grave
-2 Thoughtseize
 2 Fabled Passage
 2 Watery Grave
 2 Fatal Push
-3 Fabled Passage
-3 Thoughtseize
 3 Fatal Push
+3 Fabled Passage
 4 Fabled Passage
 4 Fatal Push
 1 Zagoth Triome
@@ -25,8 +24,8 @@
 1 Overgrown Tomb
 1 Sinister Sabotage
 1 Extinction Event
-1 Valki, God of Lies
 1 Ketria Triome
+1 Valki, God of Lies
 1 Bring to Light
 2 Valki, God of Lies
 2 Jace, Vryn's Prodigy
@@ -38,6 +37,7 @@
 3 Bring to Light
 3 Sinister Sabotage
 4 Thoughtseize
+1 Forest
 1 Opt
 2 Opt
 3 Opt
@@ -70,9 +70,9 @@
 3 Zagoth Triome
 4 Opt
 4 Temple of Mystery
+2 Swamp
 1 Collective Brutality
 1 Blood Crypt
-2 Swamp
 1 Essence Extraction
 1 Hinterland Harbor
 1 Snow-Covered Forest
@@ -112,17 +112,18 @@
 2 Clearwater Pathway
 2 Thieves' Guild Enforcer
 3 Clearwater Pathway
-3 Into the Story
 3 Thieves' Guild Enforcer
 3 Ruin Crab
 3 Island
 3 Drown in the Loch
+3 Into the Story
 3 Soaring Thought-Thief
 4 Clearwater Pathway
 4 Drown in the Loch
 4 Ruin Crab
 4 Thieves' Guild Enforcer
 4 Soaring Thought-Thief
+3 Swamp
 1 Growth Spiral
 1 Necromentia
 1 Hieroglyphic Illumination
@@ -145,9 +146,60 @@
 1 Merfolk Windrobber
 2 Merfolk Windrobber
 2 Mystical Dispute
-3 Swamp
 3 Merfolk Windrobber
 4 Into the Story
+4 Island
 5 Island
 6 Island
-4 Island
+1 Isolated Chapel
+1 Shatter the Sky
+1 Agonizing Remorse
+1 Shambling Vent
+1 Starnheim Unleashed
+1 Humiliate
+1 Declaration in Stone
+1 Godless Shrine
+1 Approach of the Second Sun
+1 Plains
+1 Read the Bones
+2 Bloodchief's Thirst
+2 Shatter the Sky
+2 Starnheim Unleashed
+2 Isolated Chapel
+2 Agonizing Remorse
+2 Declaration in Stone
+2 Plains
+2 Humiliate
+2 Approach of the Second Sun
+2 Godless Shrine
+2 Shambling Vent
+2 Read the Bones
+3 Godless Shrine
+3 Isolated Chapel
+3 Agonizing Remorse
+3 Shatter the Sky
+3 Declaration in Stone
+3 Bloodchief's Thirst
+3 Humiliate
+3 Approach of the Second Sun
+3 Read the Bones
+3 Plains
+3 Starnheim Unleashed
+4 Swamp
+4 Isolated Chapel
+4 Agonizing Remorse
+4 Bloodchief's Thirst
+4 Shatter the Sky
+4 Humiliate
+4 Plains
+4 Godless Shrine
+4 Declaration in Stone
+4 Starnheim Unleashed
+4 Read the Bones
+5 Swamp
+5 Plains
+6 Swamp
+6 Plains
+7 Swamp
+7 Plains
+4 Approach of the Second Sun

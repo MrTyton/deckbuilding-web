@@ -1,66 +1,26 @@
-3 Expressive Iteration
-4 Expressive Iteration
-1 Dragon's Rage Channeler
-1 Unholy Heat
-1 Murktide Regent
-2 Dragon's Rage Channeler
-2 Unholy Heat
-2 Murktide Regent
-3 Dragon's Rage Channeler
+2 Subtlety
 3 Unholy Heat
-3 Murktide Regent
-4 Dragon's Rage Channeler
-4 Murktide Regent
-1 Vapor Snag
+1 Snapcaster Mage
+2 Snapcaster Mage
+2 Spell Pierce
+4 Force of Negation
+1 Misty Rainforest
+2 Misty Rainforest
+1 Sleight of Hand
+2 Sleight of Hand
+1 Mana Leak
+2 Mana Leak
+1 Opt
+2 Opt
+3 Opt
+4 Opt
+3 Mana Leak
 1 Flooded Strand
 2 Flooded Strand
-3 Counterspell
-4 Counterspell
-1 Subtlety
-2 Subtlety
-1 Remand
-1 Spell Snare
-1 Watery Grave
-2 Watery Grave
-3 Polluted Delta
-4 Polluted Delta
-2 Remand
-1 Inquisition of Kozilek
-2 Inquisition of Kozilek
-1 Swamp
-1 Drown in the Loch
-1 Thoughtseize
-1 Soaring Thought-Thief
-1 Thieves' Guild Enforcer
-2 Thieves' Guild Enforcer
-2 Soaring Thought-Thief
-2 Drown in the Loch
-3 Inquisition of Kozilek
-3 Watery Grave
-3 Drown in the Loch
-3 Thieves' Guild Enforcer
-3 Soaring Thought-Thief
-4 Drown in the Loch
-4 Soaring Thought-Thief
-4 Thieves' Guild Enforcer
-3 Snapcaster Mage
-2 Vapor Snag
-1 Bloodstained Mire
-2 Bloodstained Mire
-3 Flooded Strand
-4 Snapcaster Mage
-1 Snow-Covered Island
-1 Blood Crypt
-1 Kolaghan's Command
-2 Kolaghan's Command
-4 Watery Grave
+1 Vapor Snag
 1 Mountain
-4 Island
-1 Flame Slash
-1 Pteramander
-2 Pteramander
-3 Pteramander
-4 Pteramander
+1 Snow-Covered Island
+3 Flooded Strand
 1 Hallowed Fountain
 4 Flooded Strand
 3 Sleight of Hand
@@ -69,11 +29,11 @@
 1 Seachrome Coast
 1 Snow-Covered Plains
 1 Sacred Foundry
-1 Maul of the Skyclaves
-1 Stoneforge Mystic
 1 Batterskull
+1 Stoneforge Mystic
 1 Geist of Saint Traft
 1 Path to Exile
+1 Maul of the Skyclaves
 2 Seachrome Coast
 2 Stoneforge Mystic
 2 Path to Exile
@@ -85,19 +45,60 @@
 4 Stoneforge Mystic
 4 Geist of Saint Traft
 4 Path to Exile
+4 Island
+2 Vapor Snag
+3 Polluted Delta
+4 Polluted Delta
+1 Remand
+1 Spell Snare
+1 Watery Grave
+2 Watery Grave
+2 Remand
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
+1 Swamp
+1 Drown in the Loch
+1 Thoughtseize
+1 Thieves' Guild Enforcer
+1 Soaring Thought-Thief
+2 Thieves' Guild Enforcer
+2 Soaring Thought-Thief
+2 Drown in the Loch
+3 Drown in the Loch
+3 Watery Grave
+3 Thieves' Guild Enforcer
+3 Inquisition of Kozilek
+3 Soaring Thought-Thief
+4 Drown in the Loch
+4 Soaring Thought-Thief
+4 Thieves' Guild Enforcer
+3 Snapcaster Mage
+1 Prismatic Ending
+1 Flame Slash
+1 Pteramander
+2 Pteramander
+3 Pteramander
+4 Pteramander
 1 Magmatic Channeler
 2 Magmatic Channeler
 3 Magmatic Channeler
-1 Breeding Pool
-1 Wooded Foothills
+1 Bloodstained Mire
+2 Bloodstained Mire
+4 Snapcaster Mage
+1 Blood Crypt
+1 Kolaghan's Command
+2 Kolaghan's Command
+4 Watery Grave
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
 2 Fire/Ice
-1 Prismatic Ending
 1 Sword of Fire and Ice
 1 Fatal Push
 2 Fatal Push
 4 Magmatic Channeler
-2 Wooded Foothills
-3 Misty Rainforest
+1 Breeding Pool
+1 Wooded Foothills
 1 Archmage's Charm
 2 Archmage's Charm
 3 Archmage's Charm
@@ -109,37 +110,15 @@
 4 Snow-Covered Island
 4 Archmage's Charm
 3 Fatal Push
-1 Brazen Borrower
-1 Forest
-1 Tarmogoyf
-2 Breeding Pool
-2 Tarmogoyf
-3 Tarmogoyf
-4 Misty Rainforest
-4 Tarmogoyf
 1 Stomping Ground
 1 Dreadhorde Arcanist
 2 Dreadhorde Arcanist
 3 Dreadhorde Arcanist
 4 Dreadhorde Arcanist
+2 Wooded Foothills
+3 Misty Rainforest
 1 Suspend
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
 3 Steam Vents
-1 Disrupting Shoal
-1 Hexdrinker
-1 Stubborn Denial
-2 Disrupting Shoal
-2 Hexdrinker
-2 Stubborn Denial
-3 Disrupting Shoal
-3 Stubborn Denial
-3 Hexdrinker
-4 Hexdrinker
-4 Disrupting Shoal
-4 Stubborn Denial
-4 Mana Leak
 2 Spell Snare
 1 Mutagenic Growth
 2 Mutagenic Growth
@@ -178,7 +157,14 @@
 2 Ascendant Spirit
 3 Ascendant Spirit
 4 Ascendant Spirit
-1 Vendilion Clique
+1 Brazen Borrower
+1 Forest
+1 Tarmogoyf
+2 Breeding Pool
+2 Tarmogoyf
+3 Tarmogoyf
+4 Misty Rainforest
+4 Tarmogoyf
 1 Monastery Swiftspear
 3 Fiery Islet
 3 Remand
@@ -186,13 +172,11 @@
 2 Sprite Dragon
 3 Sprite Dragon
 4 Sprite Dragon
-1 Creeping Tar Pit
 1 Tarfire
-1 Waterlogged Grove
 1 Grim Lavamancer
+1 Waterlogged Grove
 1 Wizard's Retort
 1 Become Immense
-2 Brazen Borrower
 1 Icehide Golem
 2 Unearth
 2 Icehide Golem
@@ -206,22 +190,69 @@
 2 Lightning Helix
 3 Lightning Helix
 3 Subtlety
-4 Ancestral Vision
 1 Young Pyromancer
 2 Young Pyromancer
 3 Young Pyromancer
 4 Young Pyromancer
+4 Ancestral Vision
 1 Agadeem's Awakening
 1 Marsh Flats
 2 Agadeem's Awakening
-2 Marsh Flats
 2 Bloodchief's Thirst
+2 Marsh Flats
 4 Darkslick Shores
+1 Disrupting Shoal
+1 Hexdrinker
+1 Stubborn Denial
+2 Disrupting Shoal
+2 Brazen Borrower
+2 Hexdrinker
+2 Stubborn Denial
+3 Disrupting Shoal
+3 Stubborn Denial
+3 Hexdrinker
+4 Stubborn Denial
+4 Hexdrinker
+4 Disrupting Shoal
+4 Mana Leak
+1 Gut Shot
+1 Sunbaked Canyon
+1 Manamorphose
+1 Assault Strobe
+1 Lava Spike
+1 Lava Dart
+1 Light Up the Stage
+1 Stormwing Entity
+2 Gut Shot
+2 Monastery Swiftspear
+2 Mountain
+2 Stormwing Entity
+2 Assault Strobe
+2 Lava Spike
+2 Lava Dart
+2 Light Up the Stage
+2 Manamorphose
+3 Manamorphose
+3 Light Up the Stage
+3 Lava Dart
+3 Monastery Swiftspear
+3 Mountain
+3 Lava Spike
+3 Stormwing Entity
+4 Manamorphose
+4 Stormwing Entity
+4 Lava Dart
+4 Fiery Islet
+4 Monastery Swiftspear
+4 Mountain
+4 Lava Spike
+4 Light Up the Stage
 1 Volatile Fjord
 1 Snow-Covered Mountain
 5 Snow-Covered Island
 6 Snow-Covered Island
 1 Oboro, Palace in the Clouds
+1 Vendilion Clique
 1 Spellstutter Sprite
 1 Cryptic Command
 1 Mutavault
@@ -252,35 +283,3 @@
 14 Island
 15 Island
 16 Island
-1 Sunbaked Canyon
-1 Manamorphose
-1 Gut Shot
-1 Assault Strobe
-1 Lava Spike
-1 Lava Dart
-1 Light Up the Stage
-1 Stormwing Entity
-2 Monastery Swiftspear
-2 Mountain
-2 Stormwing Entity
-2 Assault Strobe
-2 Lava Spike
-2 Lava Dart
-2 Light Up the Stage
-2 Manamorphose
-2 Gut Shot
-3 Manamorphose
-3 Light Up the Stage
-3 Lava Dart
-3 Monastery Swiftspear
-3 Mountain
-3 Lava Spike
-3 Stormwing Entity
-4 Fiery Islet
-4 Manamorphose
-4 Stormwing Entity
-4 Lava Dart
-4 Monastery Swiftspear
-4 Mountain
-4 Lava Spike
-4 Light Up the Stage

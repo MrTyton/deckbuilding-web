@@ -1,25 +1,28 @@
 2 Zabaz, the Glimmerwasp
-2 Urza's Saga
 3 Urza's Saga
 3 Zabaz, the Glimmerwasp
 4 Zabaz, the Glimmerwasp
-1 Steel Overseer
+2 Phyrexia's Core
 1 Power Depot
 2 Power Depot
 4 Urza's Saga
-3 Blinkmoth Nexus
+1 Steel Overseer
+4 Cragcrown Pathway
 3 Welding Jar
 2 Scrapyard Recombiner
 7 Forest
 8 Forest
 9 Forest
-4 Cragcrown Pathway
+3 Blinkmoth Nexus
+1 Springleaf Drum
 3 Animation Module
 1 Metallic Mimic
+1 Branchloft Pathway
+2 Branchloft Pathway
+3 Power Depot
 1 Cavern of Souls
 2 Cavern of Souls
 3 Scrapyard Recombiner
-1 Springleaf Drum
 2 Metallic Mimic
 1 Llanowar Wastes
 2 Llanowar Wastes
@@ -27,8 +30,6 @@
 4 Llanowar Wastes
 1 Swamp
 1 Power Conduit
-1 Branchloft Pathway
-2 Branchloft Pathway
 2 Steel Overseer
 1 Darkbore Pathway
 2 Darkbore Pathway
@@ -36,21 +37,19 @@
 4 Darkbore Pathway
 1 Darksteel Citadel
 2 Darksteel Citadel
-3 Power Depot
-4 Blinkmoth Nexus
 1 Blooming Marsh
 1 Nurturing Peatland
-1 Lightning Bolt
 1 Urborg, Tomb of Yawgmoth
 2 Pendelhaven
 4 Scrapyard Recombiner
+4 Blinkmoth Nexus
 4 Welding Jar
+3 Branchloft Pathway
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 1 Grove of the Burnwillows
 2 Grove of the Burnwillows
 3 Grove of the Burnwillows
-3 Branchloft Pathway
 1 Spellskite
 4 Power Depot
 2 Blooming Marsh
@@ -59,14 +58,12 @@
 1 Brushland
 2 Brushland
 3 Brushland
-1 Stomping Ground
-2 Lightning Bolt
+1 Lightning Bolt
 1 Overgrown Tomb
 2 Overgrown Tomb
 3 Cavern of Souls
 2 Power Conduit
 10 Forest
-4 Grove of the Burnwillows
 1 Path to Exile
 2 Path to Exile
 4 Brushland
@@ -74,50 +71,53 @@
 2 Razorverge Thicket
 3 Razorverge Thicket
 4 Razorverge Thicket
+4 Grove of the Burnwillows
 3 Blooming Marsh
 4 Blooming Marsh
 2 Snakeskin Veil
-1 Copperline Gorge
-2 Copperline Gorge
-3 Copperline Gorge
-1 Kazuul's Fury
-3 Lightning Bolt
+1 Stomping Ground
 1 Luminarch Aspirant
 2 Luminarch Aspirant
 1 Plains
-1 Wooded Foothills
-1 Mountain
-2 Wooded Foothills
+2 Lightning Bolt
 1 Winding Constrictor
-2 Nurturing Peatland
 2 Winding Constrictor
+2 Nurturing Peatland
 3 Winding Constrictor
 4 Winding Constrictor
-1 Utopia Sprawl
-1 Windswept Heath
-2 Windswept Heath
-2 Utopia Sprawl
-3 Windswept Heath
-3 Utopia Sprawl
-4 Windswept Heath
-4 Utopia Sprawl
 1 Fatal Push
 2 Fatal Push
-2 Springleaf Drum
+1 Utopia Sprawl
+1 Windswept Heath
+2 Utopia Sprawl
+2 Windswept Heath
+3 Utopia Sprawl
+3 Windswept Heath
+4 Utopia Sprawl
+4 Windswept Heath
 1 Sorcerous Spyglass
+2 Springleaf Drum
 1 Witch's Oven
-1 Yavimaya, Cradle of Growth
-1 Snow-Covered Mountain
-2 Kazuul's Fury
 1 Shadowspear
 1 Relic of Progenitus
 1 Goblin Bombardment
 2 Goblin Bombardment
 1 Crystalline Giant
 2 Crystalline Giant
+1 Snow-Covered Mountain
+1 Kazuul's Fury
+2 Kazuul's Fury
+3 Lightning Bolt
+1 Yavimaya, Cradle of Growth
+1 Copperline Gorge
+2 Copperline Gorge
+3 Copperline Gorge
 3 Metallic Mimic
 1 Temple Garden
+1 Mountain
+1 Wooded Foothills
 1 Showdown of the Skalds
+2 Wooded Foothills
 2 Showdown of the Skalds
 3 Wooded Foothills
 3 Showdown of the Skalds
@@ -126,33 +126,26 @@
 1 Thoughtseize
 2 Thoughtseize
 2 Swamp
-3 Overgrown Tomb
 3 Thoughtseize
+3 Overgrown Tomb
 4 Thoughtseize
 1 Sparring Construct
 2 Sparring Construct
 3 Sparring Construct
 4 Sparring Construct
-1 Stonecoil Serpent
-1 Galvanic Blast
-2 Stonecoil Serpent
-3 Stonecoil Serpent
-4 Stonecoil Serpent
-4 Copperline Gorge
-4 Lightning Bolt
 1 Dismember
 3 Darksteel Citadel
 4 Darksteel Citadel
-1 Barkchannel Pathway
 1 Island
+1 Barkchannel Pathway
 1 Emry, Lurker of the Loch
 1 Botanical Sanctum
 1 Yavimaya Coast
 2 Botanical Sanctum
+2 Island
 2 Barkchannel Pathway
 2 Spellskite
 2 Emry, Lurker of the Loch
-2 Island
 3 Barkchannel Pathway
 3 Springleaf Drum
 3 Emry, Lurker of the Loch
@@ -176,7 +169,7 @@
 2 Plains
 3 Path to Exile
 4 Branchloft Pathway
-4 Cavern of Souls
 3 Snakeskin Veil
 4 Snakeskin Veil
 11 Forest
+4 Cavern of Souls

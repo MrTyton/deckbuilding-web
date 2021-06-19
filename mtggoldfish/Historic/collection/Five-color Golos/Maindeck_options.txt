@@ -24,19 +24,18 @@
 1 Omen of the Forge
 1 Branchloft Pathway
 1 Godless Shrine
-1 Thirst for Meaning
 1 Dryad of the Ilysian Grove
 1 Finale of Devastation
 1 Solemn Simulacrum
 1 Sanctum of Stone Fangs
-1 The Birth of Meletis
 1 Elspeth Conquers Death
+1 The Birth of Meletis
+1 Thirst for Meaning
 1 Prophetic Prism
-1 Treacherous Blessing
 1 Elder Gargaroth
+1 Massacre Wurm
 1 Mastermind's Acquisition
 1 Terror of the Peaks
-1 Massacre Wurm
 1 Sanctum of All
 1 Genesis Ultimatum
 1 Mirari's Wake
@@ -60,6 +59,7 @@
 1 Smothering Tithe
 1 Honden of Cleansing Fire
 1 Honden of Life's Web
+1 Treacherous Blessing
 1 Blood Crypt
 1 Migration Path
 1 Honden of Night's Reach
@@ -73,13 +73,11 @@
 2 Dryad of the Ilysian Grove
 2 Thirst for Meaning
 2 Godless Shrine
-2 Solemn Simulacrum
 2 Elspeth Conquers Death
-2 Cultivate
 2 Sacred Foundry
-2 Prophetic Prism
 2 Evolving Wilds
-2 Treacherous Blessing
+2 Prophetic Prism
+2 Solemn Simulacrum
 2 Watery Grave
 2 Terror of the Peaks
 2 Wrath of God
@@ -89,6 +87,7 @@
 2 Migration Path
 2 Smothering Tithe
 2 Yorion, Sky Nomad
+2 Cultivate
 2 Mastermind's Acquisition
 2 Sanctum of Fruitful Harvest
 2 Finale of Devastation
@@ -96,6 +95,7 @@
 2 Steam Vents
 2 Sanctum of All
 2 Escape to the Wilds
+2 Treacherous Blessing
 2 Honden of Infinite Rage
 2 Trial of Knowledge
 2 Genesis Ultimatum
@@ -109,12 +109,11 @@
 2 Cragcrown Pathway
 3 Dryad of the Ilysian Grove
 3 Branchloft Pathway
-3 Cultivate
 3 Omen of the Forge
 3 Assassin's Trophy
+3 Watery Grave
 3 Plains
 3 Sacred Foundry
-3 Watery Grave
 3 Deafening Clarion
 3 Wrath of God
 3 Escape to the Wilds
@@ -124,6 +123,7 @@
 3 Fae of Wishes
 3 Renegade Map
 3 Cragcrown Pathway
+3 Cultivate
 3 Ketria Triome
 3 Mirari's Wake
 3 Migration Path
@@ -144,8 +144,8 @@
 4 Breeding Pool
 4 Treacherous Blessing
 4 Sacred Foundry
-4 Deafening Clarion
 4 Watery Grave
+4 Deafening Clarion
 4 Wrath of God
 4 Prophetic Prism
 4 Fae of Wishes
@@ -229,22 +229,22 @@
 2 Binding the Old Gods
 3 Binding the Old Gods
 1 Tolsimir, Friend to Wolves
+1 Elspeth's Nightmare
 1 In Search of Greatness
 1 Woodland Cemetery
 1 Deputy of Detention
 1 Hostage Taker
 1 Calix, Destiny's Hand
-1 Elspeth's Nightmare
 1 Renegade Rallier
 1 Setessan Champion
 1 Hinterland Harbor
-2 Setessan Champion
 2 Woodland Cemetery
-2 Elspeth's Nightmare
 2 In Search of Greatness
 2 Hinterland Harbor
+2 Elspeth's Nightmare
 2 Sunpetal Grove
 2 Glacial Fortress
+2 Setessan Champion
 2 Calix, Destiny's Hand
 3 Oath of Kaya
 3 Skyclave Apparition
@@ -290,8 +290,8 @@
 3 Yorion, Sky Nomad
 4 Mirari's Wake
 1 Medomai's Prophecy
-1 Shalai, Voice of Plenty
 1 Luminous Broodmoth
+1 Shalai, Voice of Plenty
 1 Idyllic Tutor
 2 Medomai's Prophecy
 2 Idyllic Tutor
@@ -410,13 +410,11 @@
 1 Barkchannel Pathway
 1 Necroblossom Snarl
 1 Castle Locthwain
-1 Temple of Malady
-1 Migratory Greathorn
-1 Auspicious Starrix
 1 Vivien, Champion of the Wilds
-1 Dirge Bat
+1 Temple of Malady
+1 Auspicious Starrix
 1 The Great Henge
-1 Pollywog Symbiote
+1 Dirge Bat
 1 Nissa, Who Shakes the World
 1 Vivien Reid
 1 Gemrazer
@@ -426,26 +424,28 @@
 1 Temple of Deceit
 1 Nethroi, Apex of Death
 1 Vineglimmer Snarl
+1 Migratory Greathorn
 1 Boneyard Lurker
+1 Pollywog Symbiote
 1 Pouncing Shoreshark
 1 Insatiable Hemophage
 2 Season of Growth
 2 Darkbore Pathway
-2 Migratory Greathorn
 2 Auspicious Starrix
 2 Dirge Bat
-2 Pollywog Symbiote
 2 Nissa, Who Shakes the World
 2 Gemrazer
 2 Boneyard Lurker
+2 Migratory Greathorn
+2 Pollywog Symbiote
 2 Pouncing Shoreshark
 2 Insatiable Hemophage
-3 Migratory Greathorn
 3 Auspicious Starrix
-3 Pollywog Symbiote
 3 Gemrazer
+3 Migratory Greathorn
 3 Insatiable Hemophage
 3 Boneyard Lurker
+3 Pollywog Symbiote
 1 Valki, God of Lies
 1 Alrund's Epiphany
 1 Felidar Retreat
@@ -469,11 +469,11 @@
 1 Angrath's Rampage
 1 Dragonskull Summit
 1 Rootbound Crag
-1 Drowned Catacomb
 1 Vraska, Golgari Queen
+1 Drowned Catacomb
 1 Solar Blaze
-1 Time Wipe
 1 Ashiok, Dream Render
+1 Time Wipe
 1 Captain Sisay
 1 Sulfur Falls
 2 Thought Erasure
@@ -504,17 +504,17 @@
 2 Attune with Aether
 2 Lightning Helix
 2 Ancient Ziggurat
+3 Lightning Helix
 3 The World Tree
 3 Voltaic Brawler
-3 Lightning Helix
 3 Ancient Ziggurat
 3 Ephemerate
 3 Whirler Virtuoso
 3 Rogue Refiner
 3 Attune with Aether
+4 Lightning Helix
 4 Niv-Mizzet Reborn
 4 Paradise Druid
-4 Lightning Helix
 4 Ancient Ziggurat
 4 Whirler Virtuoso
 4 Rogue Refiner
@@ -526,8 +526,8 @@
 3 Simic Guildgate
 1 Thassa, Deep-Dwelling
 1 Lukka, Coppercoat Outcast
-1 Heliod, Sun-Crowned
 1 Jace, Unraveler of Secrets
+1 Heliod, Sun-Crowned
 1 Glaive of the Guildpact
 1 The First Iroan Games
 1 Cavalier of Dawn

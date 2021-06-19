@@ -40,34 +40,34 @@
 3 Force of Negation
 1 Mishra's Factory
 2 Mishra's Factory
-1 Underground Sea
 1 Swamp
+1 Underground Sea
 1 Wasteland
 2 Wasteland
 1 Retrofitter Foundry
 2 Retrofitter Foundry
 4 Polluted Delta
-1 Baleful Strix
-1 Fatal Push
 1 Cling to Dust
-1 Eliminate
 1 Bloodstained Mire
+1 Eliminate
 1 Ingenious Infiltrator
 1 Changeling Outcast
+1 Baleful Strix
+1 Fatal Push
 1 Yuriko, the Tiger's Shadow
 1 Ornithopter
-2 Fatal Push
 2 Ornithopter
 2 Yuriko, the Tiger's Shadow
 2 Changeling Outcast
 2 Swamp
 2 Ingenious Infiltrator
-3 Fatal Push
+2 Fatal Push
 3 Yuriko, the Tiger's Shadow
 3 Retrofitter Foundry
 3 Ornithopter
 3 Ingenious Infiltrator
 3 Changeling Outcast
+3 Fatal Push
 3 Swamp
 4 Changeling Outcast
 4 Ingenious Infiltrator
@@ -99,8 +99,8 @@
 1 Prismatic Ending
 2 Prismatic Ending
 1 Snow-Covered Forest
-1 Tropical Island
 1 Uro, Titan of Nature's Wrath
+1 Tropical Island
 1 Savannah
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
@@ -117,8 +117,8 @@
 1 Trial of Ambition
 1 Estrid's Invocation
 2 Omen of the Sea
-2 Vanishing Verse
 2 Court of Grace
+2 Vanishing Verse
 2 Estrid's Invocation
 2 Trial of Ambition
 3 Omen of the Sea
@@ -128,25 +128,25 @@
 2 Helm of Obedience
 2 Rest in Peace
 3 Rest in Peace
+1 Sylvan Library
 1 Engineered Explosives
 1 Timeless Dragon
-1 Batterskull
 1 Ice-Fang Coatl
 1 Endurance
+1 Batterskull
 1 Umezawa's Jitte
-1 Sylvan Library
 1 Stoneforge Mystic
 2 Endurance
 2 Tropical Island
-2 Stoneforge Mystic
 2 Ice-Fang Coatl
 2 Snow-Covered Forest
 2 Engineered Explosives
+2 Stoneforge Mystic
 2 Timeless Dragon
 3 Tundra
-3 Stoneforge Mystic
 3 Ice-Fang Coatl
 3 Timeless Dragon
+3 Stoneforge Mystic
 1 Prairie Stream
 1 Ominous Seas
 1 Hallowed Fountain
@@ -155,22 +155,17 @@
 1 Court of Cunning
 2 Court of Cunning
 3 Court of Cunning
-1 Urza's Saga
-1 Pithing Needle
-2 Urza's Saga
-3 Urza's Saga
-4 Urza's Saga
 1 Abrupt Decay
 1 Tranquil Thicket
-1 Lonely Sandbar
 1 Verdant Catacombs
-1 Life from the Loam
+1 Forest
 1 Bayou
 1 Bojuka Bog
+1 Life from the Loam
 1 Crop Rotation
 1 Mox Diamond
 1 Field of the Dead
-1 Forest
+1 Lonely Sandbar
 2 Abrupt Decay
 2 Mox Diamond
 2 Life from the Loam
@@ -180,9 +175,14 @@
 3 Life from the Loam
 3 Wasteland
 4 Abrupt Decay
+4 Wasteland
 4 Mox Diamond
 4 Uro, Titan of Nature's Wrath
-4 Wasteland
+1 Urza's Saga
+1 Pithing Needle
+2 Urza's Saga
+3 Urza's Saga
+4 Urza's Saga
 1 Impulse
 1 Lightning Bolt
 1 Bonecrusher Giant
