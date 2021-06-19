@@ -50,6 +50,6 @@
 |                    3|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397731)          |                     |                                                                                              |
 |                    3|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264)     |                     |                                                                                              |
 |                    4|[Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397731)          |                     |                                                                                              |
-|                    1|[Plateau](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=880)                    |                     |                                                                                              |
 |                    2|[Plateau](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=880)                    |                     |                                                                                              |
+|                    1|[Plateau](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=880)                    |                     |                                                                                              |
 

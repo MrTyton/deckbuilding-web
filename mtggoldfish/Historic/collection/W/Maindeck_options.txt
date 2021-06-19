@@ -1,11 +1,11 @@
-1 Scavenger Grounds
 1 Blinkmoth Nexus
-2 Blinkmoth Nexus
+1 Emeria's Call
 2 Shefet Dunes
-2 Emeria's Call
 2 Scavenger Grounds
-3 Blinkmoth Nexus
+2 Blinkmoth Nexus
+2 Emeria's Call
 3 Shefet Dunes
+3 Blinkmoth Nexus
 4 Blinkmoth Nexus
 8 Plains
 9 Plains
@@ -28,8 +28,8 @@
 1 Brightclimb Pathway
 1 Kitesail Freebooter
 2 Brightclimb Pathway
-2 Godless Shrine
 2 Silverquill Silencer
+2 Godless Shrine
 2 Kitesail Freebooter
 3 Brightclimb Pathway
 3 Godless Shrine
@@ -47,8 +47,8 @@
 2 Thoughtseize
 2 Overgrown Tomb
 2 Inquisition of Kozilek
-3 Thoughtseize
 3 Overgrown Tomb
+3 Thoughtseize
 4 Overgrown Tomb
 1 Glorious Protector
 2 Glorious Protector
@@ -56,8 +56,8 @@
 3 Halvar, God of Battle
 4 Emeria's Call
 4 Archon of Emeria
-1 Faceless Haven
 1 Snow-Covered Plains
+1 Faceless Haven
 2 Faceless Haven
 2 Snow-Covered Plains
 3 Faceless Haven
@@ -102,16 +102,12 @@
 2 Scattered Groves
 3 Giant Killer
 1 Charming Prince
-1 Breeding Pool
 1 Island
+1 Breeding Pool
 2 Charming Prince
 3 Charming Prince
 3 Glasspool Mimic
 4 Glasspool Mimic
-1 Sejiri Shelter
-1 Containment Priest
-2 Containment Priest
-12 Plains
 1 General Kudro of Drannith
 1 Unclaimed Territory
 1 Ancient Ziggurat
@@ -122,3 +118,7 @@
 3 Kitesail Freebooter
 4 Ancient Ziggurat
 4 Kitesail Freebooter
+1 Sejiri Shelter
+1 Containment Priest
+2 Containment Priest
+12 Plains

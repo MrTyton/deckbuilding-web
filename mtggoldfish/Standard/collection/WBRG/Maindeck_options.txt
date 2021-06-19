@@ -7,16 +7,16 @@
 3 Forest
 1 Darkbore Pathway
 2 Darkbore Pathway
+1 Brightclimb Pathway
 1 Silverquill Campus
 1 Agonizing Remorse
-1 Brightclimb Pathway
 1 Temple of Silence
 1 Shineshadow Snarl
 2 Agonizing Remorse
 2 Silverquill Campus
 3 Agonizing Remorse
 1 Field of Ruin
-1 Savai Triome
+1 Crawling Barrens
 1 Tergrid, God of Fright
 1 Go Blank
 1 Duress
@@ -24,7 +24,6 @@
 1 Heartless Act
 1 Minion's Return
 1 Castle Ardenvale
-1 Crawling Barrens
 1 Silverquill Pledgemage
 1 Shadrix Silverquill
 1 Tymaret, Chosen from Death
@@ -35,6 +34,7 @@
 1 Light of Hope
 1 Expel
 1 Guiding Voice
+1 Savai Triome
 1 Great Hall of Starnheim
 1 Banishing Light
 1 Hall of Oracles
@@ -46,6 +46,7 @@
 1 Killian, Ink Duelist
 1 Tyrite Sanctum
 1 Revitalize
+2 Brightclimb Pathway
 2 Go Blank
 2 Heartless Act
 2 Fracture
@@ -57,7 +58,6 @@
 2 Revitalize
 2 Shadrix Silverquill
 2 Tymaret, Chosen from Death
-2 Brightclimb Pathway
 2 Light of Hope
 2 Professor Onyx
 2 Guiding Voice
@@ -76,9 +76,9 @@
 3 Baleful Mastery
 3 Silverquill Campus
 3 Silverquill Command
+4 Brightclimb Pathway
 4 Agonizing Remorse
 4 Silverquill Campus
-4 Brightclimb Pathway
 4 Forest
 5 Forest
 5 Swamp
@@ -106,41 +106,41 @@
 1 Fiend Artisan
 2 Fiend Artisan
 4 Darkbore Pathway
-1 Binding the Old Gods
 1 Culling Ritual
+1 Binding the Old Gods
 1 Pestilent Cauldron
 2 Binding the Old Gods
 2 Pestilent Cauldron
+1 Island
 1 Zagoth Triome
 1 Barkchannel Pathway
-1 Island
 2 Zagoth Triome
 3 Zagoth Triome
-1 Polukranos, Unchained
-1 Temple of Mystery
 1 Midnight Clock
 1 Elspeth's Nightmare
-1 Rankle, Master of Pranks
 1 Bala Ged Recovery
 1 Hagra Mauling
+1 Rankle, Master of Pranks
 1 Test of Talents
 1 Deadly Brew
 1 Grim Tutor
 1 Witherbloom Command
 1 Koma, Cosmos Serpent
 1 Witherbloom Campus
+1 Polukranos, Unchained
 1 Pelakka Predation
+1 Temple of Mystery
 1 Murderous Rider
 2 Elspeth's Nightmare
 2 Culling Ritual
 2 Test of Talents
-2 Rankle, Master of Pranks
 2 Murderous Rider
 2 Witherbloom Command
+2 Rankle, Master of Pranks
 2 Deadly Brew
 2 Island
-3 Binding the Old Gods
 3 Culling Ritual
+3 Binding the Old Gods
 1 Of One Mind
 1 Opt
 1 Toski, Bearer of Secrets
@@ -150,8 +150,8 @@
 2 Jolrael, Mwonvuli Recluse
 2 Barkchannel Pathway
 2 Opt
-3 Jolrael, Mwonvuli Recluse
 3 Clearwater Pathway
+3 Jolrael, Mwonvuli Recluse
 3 Barkchannel Pathway
 3 Opt
 3 Of One Mind
@@ -177,13 +177,13 @@
 4 Necroblossom Snarl
 4 Temple of Malady
 1 Snow-Covered Plains
-1 Eliminate
 1 Cling to Dust
 1 Vanishing Verse
+1 Eliminate
 1 Snowfield Sinkhole
-2 Eliminate
 2 Vanishing Verse
 2 Cling to Dust
+2 Eliminate
 2 Temple of Silence
 2 Shineshadow Snarl
 2 Snowfield Sinkhole
