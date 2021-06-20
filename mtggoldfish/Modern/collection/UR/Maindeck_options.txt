@@ -1,25 +1,43 @@
 2 Cryptic Command
 1 Raugrin Triome
 2 Hallowed Fountain
+1 Mountain
+1 Cascade Bluffs
 1 Remand
 2 Remand
 3 Remand
-1 Cascade Bluffs
+1 Sprite Dragon
+2 Sprite Dragon
+3 Sprite Dragon
+4 Sprite Dragon
 1 Kiki-Jiki, Mirror Breaker
-1 Mountain
+4 Island
 1 Spell Snare
+1 Watery Grave
 1 Valakut Awakening
 4 Snapcaster Mage
 1 Prismatic Ending
 2 Prismatic Ending
 3 Prismatic Ending
-1 Watery Grave
-1 Sprite Dragon
-2 Sprite Dragon
 2 Unholy Heat
-3 Sprite Dragon
-4 Sprite Dragon
 4 Remand
+1 Polluted Delta
+1 Urza's Saga
+1 Emry, Lurker of the Loch
+1 Urza, Lord High Artificer
+1 Thought Monitor
+2 Urza's Saga
+2 Emry, Lurker of the Loch
+2 Thought Monitor
+2 Urza, Lord High Artificer
+3 Urza's Saga
+3 Emry, Lurker of the Loch
+3 Thought Monitor
+3 Urza, Lord High Artificer
+4 Urza's Saga
+4 Emry, Lurker of the Loch
+4 Thought Monitor
+4 Spirebluff Canal
 1 Minamo, School at Water's Edge
 1 Deceiver Exarch
 1 Riverglide Pathway
@@ -27,55 +45,110 @@
 2 Deceiver Exarch
 2 Cascade Bluffs
 2 Kiki-Jiki, Mirror Breaker
-4 Island
+1 Sulfur Falls
+2 Sulfur Falls
+5 Island
 1 Wandering Fumarole
 1 Crackling Drake
 1 Flusterstorm
-1 Abrade
 1 Flame Slash
+1 Abrade
 2 Valakut Awakening
 2 Spell Snare
 3 Riverglide Pathway
 3 Cascade Bluffs
 4 Cascade Bluffs
 4 Riverglide Pathway
-4 Spirebluff Canal
-1 Vendilion Clique
-1 Sulfur Falls
-2 Sulfur Falls
-5 Island
-1 Mystic Gate
-1 Sacred Foundry
-1 Felidar Guardian
-1 Saheeli Rai
-1 Lightning Helix
-1 Sun Titan
-1 Plains
-1 Path to Exile
-2 Felidar Guardian
-2 Saheeli Rai
-2 Lightning Helix
-2 Path to Exile
-3 Saheeli Rai
-3 Path to Exile
-3 Felidar Guardian
-4 Saheeli Rai
-4 Path to Exile
-4 Felidar Guardian
-1 Fire/Ice
-1 Ral, Izzet Viceroy
-1 Blood Moon
-1 Jace, the Mind Sculptor
+1 Misty Rainforest
+2 Polluted Delta
+1 Aether Spellbomb
+4 Urza, Lord High Artificer
+2 Watery Grave
+1 The Underworld Cookbook
+1 Mox Amber
+1 Asmoranomardicadaistinaculdacar
+1 Ovalchase Daredevil
+1 Street Wraith
+2 Asmoranomardicadaistinaculdacar
+2 The Underworld Cookbook
+2 Street Wraith
+2 Ovalchase Daredevil
+3 The Underworld Cookbook
+3 Asmoranomardicadaistinaculdacar
+3 Street Wraith
+3 Ovalchase Daredevil
+4 Asmoranomardicadaistinaculdacar
+4 The Underworld Cookbook
 1 Murktide Regent
 1 Thought Scour
-2 Jace, the Mind Sculptor
-2 Fire/Ice
-2 Blood Moon
 2 Thought Scour
 2 Murktide Regent
 3 Murktide Regent
 3 Thought Scour
 4 Thought Scour
+1 Engineered Explosives
+1 Metallic Rebuke
+1 Darksteel Citadel
+2 Metallic Rebuke
+2 Darksteel Citadel
+3 Polluted Delta
+1 Vendilion Clique
+1 Expedition Map
+1 Hex Parasite
+1 Pithing Needle
+1 Shadowspear
+1 Springleaf Drum
+2 Engineered Explosives
+3 Metallic Rebuke
+3 Darksteel Citadel
+4 Metallic Rebuke
+4 Darksteel Citadel
+1 Castle Vantress
+1 Seachrome Coast
+1 Esper Sentinel
+1 Dispatch
+1 Razortide Bridge
+1 Glimmervoid
+1 Adarkar Wastes
+1 Zephyr Boots
+2 Esper Sentinel
+2 Adarkar Wastes
+2 Razortide Bridge
+2 Glimmervoid
+2 Dispatch
+2 Seachrome Coast
+3 Esper Sentinel
+3 Dispatch
+3 Seachrome Coast
+3 Razortide Bridge
+4 Esper Sentinel
+4 Dispatch
+4 Razortide Bridge
+1 Mystic Gate
+1 Sacred Foundry
+1 Lightning Helix
+1 Saheeli Rai
+1 Felidar Guardian
+1 Sun Titan
+1 Plains
+1 Path to Exile
+2 Lightning Helix
+2 Felidar Guardian
+2 Path to Exile
+2 Saheeli Rai
+3 Path to Exile
+3 Felidar Guardian
+3 Saheeli Rai
+4 Saheeli Rai
+4 Felidar Guardian
+4 Path to Exile
+1 Fire/Ice
+1 Ral, Izzet Viceroy
+1 Blood Moon
+1 Jace, the Mind Sculptor
+2 Jace, the Mind Sculptor
+2 Fire/Ice
+2 Blood Moon
 6 Island
 7 Island
 8 Island
@@ -86,61 +159,90 @@
 2 Reflecting Pool
 3 Reflecting Pool
 1 Teferi, Mage of Zhalfir
-1 Mana Leak
+1 Swamp
+1 Darkslick Shores
+2 Darkslick Shores
+3 Darkslick Shores
+4 Polluted Delta
+4 Street Wraith
+4 Ovalchase Daredevil
+2 Mox Amber
+1 Witching Well
+1 Pyrite Spellbomb
+1 Galvanic Blast
+2 Galvanic Blast
 1 Spell Pierce
-1 Polluted Delta
-1 Misty Rainforest
-2 Polluted Delta
+1 Mana Leak
+1 Prismari Command
+2 Prismari Command
 2 Misty Rainforest
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 3 Cryptic Command
-1 Castle Vantress
-1 Engineered Explosives
-2 Watery Grave
+1 Soul-Guide Lantern
 2 Mana Leak
-1 Fiery Islet
-1 Magmatic Sinkhole
-1 Prismari Command
-1 Seasoned Pyromancer
+3 Mox Amber
 1 Shark Typhoon
+1 Fiery Islet
+1 Seasoned Pyromancer
+1 Magmatic Sinkhole
 1 Blast Zone
 1 Pestermite
 2 Castle Vantress
-2 Prismari Command
 2 Shark Typhoon
-2 Blast Zone
 2 Pestermite
+2 Blast Zone
 2 Mountain
-3 Shark Typhoon
 3 Deceiver Exarch
+3 Shark Typhoon
 3 Sulfur Falls
 3 Kiki-Jiki, Mirror Breaker
 3 Mountain
+1 Fatal Push
+4 Darkslick Shores
+1 Goldspan Dragon
+1 Subtlety
+1 Silumgar's Scorn
+2 Goldspan Dragon
+3 Goldspan Dragon
+4 Steam Vents
+4 Murktide Regent
+1 Spire of Industry
+1 Blinkmoth Nexus
+1 Silverbluff Bridge
+2 Witching Well
+2 Spire of Industry
+2 Blinkmoth Nexus
+2 Silverbluff Bridge
+2 Hex Parasite
+3 Galvanic Blast
+3 Silverbluff Bridge
+3 Hex Parasite
+4 Galvanic Blast
+4 Silverbluff Bridge
 1 Ketria Triome
-1 Wrenn and Six
 1 Breeding Pool
-1 Flooded Grove
+1 Wrenn and Six
 1 Snow-Covered Forest
 1 Hinterland Harbor
-1 Fact or Fiction
 1 Growth Spiral
 1 Dryad of the Ilysian Grove
+1 Fact or Fiction
+1 Flooded Grove
 1 Valakut, the Molten Pinnacle
 2 Breeding Pool
 2 Wrenn and Six
-2 Flooded Grove
-2 Fact or Fiction
 2 Growth Spiral
+2 Fact or Fiction
 2 Valakut, the Molten Pinnacle
+2 Flooded Grove
 2 Dryad of the Ilysian Grove
 3 Misty Rainforest
 3 Wrenn and Six
-3 Polluted Delta
 3 Valakut, the Molten Pinnacle
-3 Growth Spiral
 3 Dryad of the Ilysian Grove
+3 Growth Spiral
 4 Misty Rainforest
 4 Valakut, the Molten Pinnacle
 4 Dryad of the Ilysian Grove

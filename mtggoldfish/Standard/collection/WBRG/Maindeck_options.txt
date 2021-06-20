@@ -7,20 +7,24 @@
 3 Forest
 1 Darkbore Pathway
 2 Darkbore Pathway
-1 Brightclimb Pathway
 1 Silverquill Campus
 1 Agonizing Remorse
+1 Brightclimb Pathway
 1 Temple of Silence
 1 Shineshadow Snarl
 2 Agonizing Remorse
 2 Silverquill Campus
 3 Agonizing Remorse
 1 Field of Ruin
+1 Revitalize
+1 Silverquill Command
+1 Doomskar
 1 Crawling Barrens
 1 Tergrid, God of Fright
-1 Go Blank
 1 Duress
+1 Go Blank
 1 Fracture
+1 Banishing Light
 1 Heartless Act
 1 Minion's Return
 1 Castle Ardenvale
@@ -36,39 +40,35 @@
 1 Guiding Voice
 1 Savai Triome
 1 Great Hall of Starnheim
-1 Banishing Light
 1 Hall of Oracles
 1 Faith's Fetters
-1 Silverquill Command
 1 Scoured Barrens
-1 Doomskar
 1 Plains
 1 Killian, Ink Duelist
 1 Tyrite Sanctum
-1 Revitalize
-2 Brightclimb Pathway
+2 Revitalize
+2 Silverquill Command
+2 Doomskar
 2 Go Blank
-2 Heartless Act
 2 Fracture
+2 Banishing Light
+2 Heartless Act
 2 Duress
 2 Expel
 2 Faith's Fetters
 2 Scoured Barrens
 2 Plains
-2 Revitalize
 2 Shadrix Silverquill
 2 Tymaret, Chosen from Death
+2 Brightclimb Pathway
 2 Light of Hope
 2 Professor Onyx
 2 Guiding Voice
-2 Doomskar
 2 Hall of Oracles
 2 Silverquill Pledgemage
-2 Silverquill Command
 2 Killian, Ink Duelist
 2 Tergrid, God of Fright
 2 Great Hall of Starnheim
-2 Banishing Light
 3 Brightclimb Pathway
 3 Doomskar
 3 Plains
@@ -76,9 +76,9 @@
 3 Baleful Mastery
 3 Silverquill Campus
 3 Silverquill Command
-4 Brightclimb Pathway
 4 Agonizing Remorse
 4 Silverquill Campus
+4 Brightclimb Pathway
 4 Forest
 5 Forest
 5 Swamp
@@ -91,8 +91,8 @@
 1 Blex, Vexing Pest
 2 Blex, Vexing Pest
 6 Forest
-7 Forest
 7 Swamp
+7 Forest
 8 Swamp
 1 Temple of Malady
 1 Valentin, Dean of the Vein
@@ -116,7 +116,6 @@
 1 Barkchannel Pathway
 2 Zagoth Triome
 3 Zagoth Triome
-1 Midnight Clock
 1 Elspeth's Nightmare
 1 Bala Ged Recovery
 1 Hagra Mauling
@@ -128,17 +127,18 @@
 1 Koma, Cosmos Serpent
 1 Witherbloom Campus
 1 Polukranos, Unchained
+1 Midnight Clock
 1 Pelakka Predation
 1 Temple of Mystery
 1 Murderous Rider
-2 Elspeth's Nightmare
 2 Culling Ritual
-2 Test of Talents
 2 Murderous Rider
 2 Witherbloom Command
 2 Rankle, Master of Pranks
 2 Deadly Brew
 2 Island
+2 Elspeth's Nightmare
+2 Test of Talents
 3 Culling Ritual
 3 Binding the Old Gods
 1 Of One Mind
@@ -150,12 +150,12 @@
 2 Jolrael, Mwonvuli Recluse
 2 Barkchannel Pathway
 2 Opt
-3 Clearwater Pathway
+3 Bloodchief's Thirst
 3 Jolrael, Mwonvuli Recluse
+3 Clearwater Pathway
 3 Barkchannel Pathway
 3 Opt
 3 Of One Mind
-3 Bloodchief's Thirst
 4 Clearwater Pathway
 4 Barkchannel Pathway
 4 Opt
@@ -176,15 +176,15 @@
 3 Dina, Soul Steeper
 4 Necroblossom Snarl
 4 Temple of Malady
-1 Snow-Covered Plains
-1 Cling to Dust
-1 Vanishing Verse
 1 Eliminate
+1 Vanishing Verse
+1 Cling to Dust
+1 Snow-Covered Plains
 1 Snowfield Sinkhole
-2 Vanishing Verse
-2 Cling to Dust
-2 Eliminate
 2 Temple of Silence
+2 Eliminate
+2 Cling to Dust
+2 Vanishing Verse
 2 Shineshadow Snarl
 2 Snowfield Sinkhole
 2 Snow-Covered Plains

@@ -82,11 +82,11 @@
 1 Pithing Needle
 1 Grafdigger's Cage
 2 Pithing Needle
-1 Wear/Tear
 1 Sanctifier en-Vec
+1 Wear/Tear
 2 Wear/Tear
-1 Unearth
 1 Cling to Dust
+1 Unearth
 1 Thoughtseize
 2 Thoughtseize
 1 Rip Apart
@@ -98,13 +98,13 @@
 1 Annul
 2 Klothys, God of Destiny
 2 Annul
+2 Fury
+3 Abrade
 1 Dragon's Claw
 2 Dragon's Claw
 2 Flusterstorm
 3 Dragon's Claw
 3 Ceremonious Rejection
-2 Fury
-3 Abrade
 1 Shattering Spree
 1 Kozilek's Return
 1 Tarmogoyf
@@ -112,10 +112,6 @@
 2 Tarmogoyf
 2 Wizard's Retort
 3 Tarmogoyf
-1 Ancestral Vision
-2 Ancestral Vision
-3 Tormod's Crypt
-4 Cleansing Wildfire
 1 Shadowspear
 4 Rest in Peace
 1 Relic of Progenitus
@@ -129,6 +125,10 @@
 2 Relic of Progenitus
 3 Entrancing Melody
 4 Aether Gust
+1 Ancestral Vision
+2 Ancestral Vision
+3 Tormod's Crypt
+4 Cleansing Wildfire
 1 Dead of Winter
 2 Bitterblossom
 4 Kaya's Guile

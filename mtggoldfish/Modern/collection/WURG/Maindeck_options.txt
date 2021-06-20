@@ -92,11 +92,11 @@
 2 Mountain
 1 Manamorphose
 2 Manamorphose
-3 Manamorphose
 3 Flooded Strand
+3 Manamorphose
+4 Flooded Strand
 4 Manamorphose
 4 General Ferrous Rokiric
-4 Flooded Strand
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
@@ -110,8 +110,8 @@
 1 Valakut Awakening
 1 Ulamog, the Infinite Gyre
 2 Gemstone Caverns
-1 Snow-Covered Forest
 1 Leyline of the Void
+1 Snow-Covered Forest
 2 Snow-Covered Mountain
 2 Archon of Cruelty
 2 Leyline of the Void
@@ -166,18 +166,18 @@
 2 Snapcaster Mage
 3 Noble Hierarch
 4 Noble Hierarch
-1 Farseek
 1 Omen of the Sea
+1 Farseek
 1 Polymorph
 2 Omen of the Sea
 2 Farseek
 2 Polymorph
+3 Omen of the Sea
 3 Farseek
 3 Tamiyo, Collector of Tales
 3 Transmogrify
-3 Omen of the Sea
-4 Transmogrify
 4 Omen of the Sea
+4 Transmogrify
 4 Tamiyo, Collector of Tales
 4 Farseek
 1 Omnath, Locus of Creation
@@ -186,13 +186,12 @@
 2 Anafenza, the Foremost
 1 Kasmina, Enigma Sage
 2 Kasmina, Enigma Sage
-3 Valakut Awakening
 1 Might of Alara
 2 Might of Alara
 3 Might of Alara
-1 Ugin, the Spirit Dragon
 1 Fiery Islet
 1 Brazen Borrower
+1 Ugin, the Spirit Dragon
 1 Gemstone Mine
 2 Ugin, the Spirit Dragon
 2 Gemstone Mine
@@ -202,25 +201,26 @@
 1 Nahiri, the Harbinger
 2 Izzet Charm
 3 Velomachus Lorehold
+3 Valakut Awakening
+1 Hallowed Fountain
 1 Hexdrinker
 1 Waterlogged Grove
 1 Wild Nacatl
-1 Hallowed Fountain
 2 Wild Nacatl
 2 Temple Garden
 3 Wild Nacatl
 1 Opt
 1 Swamp
-2 Swamp
 2 Opt
+2 Swamp
 3 Opt
 3 Swamp
 4 Opt
 4 Swamp
 1 Tarfire
-1 Seal of Fire
 1 Vindicate
 1 Ajani, Caller of the Pride
+1 Seal of Fire
 2 Vindicate
 3 Vindicate
 4 Vindicate

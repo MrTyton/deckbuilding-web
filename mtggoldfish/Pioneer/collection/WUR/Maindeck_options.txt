@@ -1,11 +1,11 @@
 3 Clifftop Retreat
 1 Dig Through Time
-1 Glorybringer
 1 Bonecrusher Giant
-2 Glorybringer
 2 Bonecrusher Giant
 3 Bonecrusher Giant
 4 Bonecrusher Giant
+1 Glorybringer
+2 Glorybringer
 1 Mana Confluence
 1 Llanowar Elves
 1 Elvish Mystic
@@ -15,38 +15,38 @@
 3 Elvish Mystic
 4 Elvish Mystic
 4 Llanowar Elves
-1 Enter the Infinite
 1 Lovestruck Beast
-1 Gnarled Professor
-1 Chandra, Torch of Defiance
-1 Domri, Anarch of Bolas
-1 Stonecoil Serpent
-1 Borborygmos Enraged
 1 Cragcrown Pathway
-1 Possibility Storm
 1 Forest
 1 Stomping Ground
 1 Rootbound Crag
 2 Lovestruck Beast
-2 Gnarled Professor
-2 Chandra, Torch of Defiance
 2 Forest
 2 Stomping Ground
 2 Cragcrown Pathway
-2 Possibility Storm
-2 Rootbound Crag
-3 Rootbound Crag
 3 Lovestruck Beast
-3 Possibility Storm
 3 Cragcrown Pathway
 3 Forest
 3 Stomping Ground
-3 Mountain
 4 Cragcrown Pathway
-4 Rootbound Crag
 4 Lovestruck Beast
-4 Possibility Storm
 4 Stomping Ground
+1 Chandra, Torch of Defiance
+1 Enter the Infinite
+1 Gnarled Professor
+1 Domri, Anarch of Bolas
+1 Borborygmos Enraged
+1 Stonecoil Serpent
+1 Possibility Storm
+2 Chandra, Torch of Defiance
+2 Gnarled Professor
+2 Possibility Storm
+2 Rootbound Crag
+3 Rootbound Crag
+3 Possibility Storm
+3 Mountain
+4 Rootbound Crag
+4 Possibility Storm
 4 Forest
 4 Mountain
 5 Forest
@@ -54,10 +54,10 @@
 1 Shared Summons
 3 Gnarled Professor
 1 Goblin Rabblemaster
-1 Captain Lannery Storm
 2 Goblin Rabblemaster
-2 Domri, Anarch of Bolas
 3 Goblin Rabblemaster
+1 Captain Lannery Storm
+2 Domri, Anarch of Bolas
 1 Garruk's Harbinger
 1 Kiora, Behemoth Beckoner
 2 Garruk's Harbinger
@@ -66,24 +66,50 @@
 1 Dovin's Veto
 1 Castle Vantress
 2 Dig Through Time
+1 Riverglide Pathway
+1 Scavenging Ooze
+1 Breeding Pool
+1 Collected Company
+1 Botanical Sanctum
+2 Breeding Pool
+2 Collected Company
+2 Botanical Sanctum
+3 Breeding Pool
+3 Collected Company
+3 Botanical Sanctum
+4 Collected Company
 1 Enthusiastic Study
 4 Garruk's Harbinger
+1 Klothys, God of Destiny
+1 Steel Leaf Champion
+1 Rhonas the Indomitable
+1 Savage Knuckleblade
+1 Embercleave
+1 Stubborn Denial
+1 Crater's Claws
+1 Game Trail
+2 Scavenging Ooze
+2 Steel Leaf Champion
+2 Savage Knuckleblade
+2 Stubborn Denial
+3 Steel Leaf Champion
+3 Stubborn Denial
+4 Goblin Rabblemaster
 1 Teferi, Hero of Dominaria
 1 Thassa's Intervention
 1 Deafening Clarion
+1 Silumgar's Scorn
 1 Goldspan Dragon
 1 Brazen Borrower
-1 Riverglide Pathway
-1 Silumgar's Scorn
-2 Goldspan Dragon
 2 Deafening Clarion
+2 Goldspan Dragon
 2 Brazen Borrower
+2 Riverglide Pathway
 2 Teferi, Hero of Dominaria
 2 Thassa's Intervention
-2 Riverglide Pathway
 2 Silumgar's Scorn
-3 Goldspan Dragon
 3 Glorybringer
+3 Goldspan Dragon
 3 Brazen Borrower
 3 Riverglide Pathway
 3 Deafening Clarion
@@ -91,26 +117,22 @@
 3 Thassa's Intervention
 4 Goldspan Dragon
 4 Brazen Borrower
+4 Riverglide Pathway
 4 Thassa's Intervention
 4 Glorybringer
-4 Deafening Clarion
-4 Riverglide Pathway
 4 Silumgar's Scorn
+4 Deafening Clarion
 1 Realmwalker
 1 Paradise Druid
 1 Darkbore Pathway
 1 Blooming Marsh
 1 Overgrown Tomb
-1 Scavenging Ooze
 1 Frilled Mystic
 1 Elvish Warmaster
 1 Llanowar Visionary
 1 Harald, King of Skemfar
-1 Collected Company
-1 Botanical Sanctum
 1 Barkchannel Pathway
 1 Elvish Clancaller
-1 Breeding Pool
 1 Shaman of the Pack
 1 Driven/Despair
 2 Mana Confluence
@@ -126,24 +148,17 @@
 2 Elvish Warmaster
 2 Realmwalker
 2 Barkchannel Pathway
-2 Breeding Pool
-2 Collected Company
-2 Botanical Sanctum
 3 Mana Confluence
 3 Paradise Druid
 3 Darkbore Pathway
 3 Overgrown Tomb
 3 Blooming Marsh
 3 Elvish Clancaller
-3 Breeding Pool
-3 Collected Company
-3 Botanical Sanctum
 3 Realmwalker
 3 Shaman of the Pack
 3 Elvish Warmaster
 3 Harald, King of Skemfar
 4 Overgrown Tomb
-4 Collected Company
 4 Elvish Warmaster
 4 Shaman of the Pack
 4 Breeding Pool

@@ -116,8 +116,8 @@
 |                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)               |                     |                                                                                                  |
 |                    4|[Pteramander](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457191)          |                     |                                                                                                  |
 |                    4|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380203)        |                     |                                                                                                  |
+|                    4|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)             |                     |                                                                                                  |
 |                    4|[Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389512)    |                     |                                                                                                  |
 |                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)       |                     |                                                                                                  |
-|                    4|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)             |                     |                                                                                                  |
 |                    4|[Arclight Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452841)     |                     |                                                                                                  |
 
