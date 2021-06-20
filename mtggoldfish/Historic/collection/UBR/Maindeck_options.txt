@@ -1,38 +1,36 @@
 1 Swamp
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+3 Bonecrusher Giant
+4 Bonecrusher Giant
 1 Chandra, Torch of Defiance
+1 Cling to Dust
+1 Bloodchief's Thirst
+2 Bloodchief's Thirst
+3 Sulfur Falls
+4 Sulfur Falls
 1 Glorybringer
 1 Castle Locthwain
 2 Chandra, Torch of Defiance
 2 Glorybringer
 2 Swamp
-1 Cling to Dust
-1 Bloodchief's Thirst
-2 Bloodchief's Thirst
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-3 Bonecrusher Giant
-4 Bonecrusher Giant
-3 Sulfur Falls
-4 Sulfur Falls
-1 Crux of Fate
-1 Kolaghan's Command
-2 Crux of Fate
 1 Mind Stone
 2 Mind Stone
 2 Cling to Dust
-2 Kolaghan's Command
+1 Crux of Fate
 3 Glorybringer
+1 Kolaghan's Command
+2 Crux of Fate
 1 Canyon Slough
 2 Canyon Slough
+2 Kolaghan's Command
 3 Bloodchief's Thirst
 3 Canyon Slough
 1 Baleful Mastery
 1 Mountain
-1 Dragonskull Summit
 1 Island
 1 Fabled Passage
 2 Fabled Passage
-2 Island
 1 Mizzix's Mastery
 1 Terror of the Peaks
 1 Dragonstorm
@@ -47,49 +45,38 @@
 4 Faithless Looting
 4 Mizzix's Mastery
 4 Dragonstorm
-2 Mountain
-3 Island
-3 Terror of the Peaks
+2 Island
 1 Brainstorm
 2 Brainstorm
 3 Brainstorm
 3 Fabled Passage
+3 Terror of the Peaks
+2 Mountain
 4 Fabled Passage
-2 Baleful Mastery
+1 Dragonskull Summit
 4 Prismari Command
+3 Island
 3 Mountain
 4 Mountain
+1 Spirebluff Canal
+2 Spirebluff Canal
+4 Brainstorm
 1 Riverglide Pathway
 2 Riverglide Pathway
 3 Riverglide Pathway
+1 Lathliss, Dragon Queen
+2 Lathliss, Dragon Queen
 1 Solve the Equation
 2 Solve the Equation
 1 Bladewing the Risen
 2 Bladewing the Risen
 3 Bladewing the Risen
-1 Spirebluff Canal
-2 Spirebluff Canal
-4 Brainstorm
-1 Anger of the Gods
-1 Coldsteel Heart
-2 Coldsteel Heart
-1 Lathliss, Dragon Queen
-2 Lathliss, Dragon Queen
-3 Solve the Equation
 3 Spirebluff Canal
 4 Island
-4 Riverglide Pathway
-4 Terror of the Peaks
-1 Saw It Coming
-2 Anger of the Gods
-3 Anger of the Gods
+3 Solve the Equation
 1 Mystical Dispute
+2 Baleful Mastery
 2 Dragonskull Summit
-1 Field of Ruin
-1 Whirlwind Denial
-2 Saw It Coming
-2 Whirlwind Denial
-3 Behold the Multiverse
 3 Crux of Fate
 1 Strategic Planning
 1 Pact of Negation
@@ -98,17 +85,25 @@
 3 Strategic Planning
 4 Strategic Planning
 4 Bladewing the Risen
+1 Coldsteel Heart
+2 Coldsteel Heart
+3 Coldsteel Heart
+4 Spirebluff Canal
+4 Coldsteel Heart
+4 Riverglide Pathway
+4 Terror of the Peaks
 1 Sweltering Suns
-1 Magma Opus
-2 Magma Opus
 2 Sweltering Suns
+4 Solve the Equation
 1 Volatile Fjord
 1 Snow-Covered Island
 1 Tundra Fumarole
 1 Snow-Covered Mountain
+1 Magma Opus
 2 Volatile Fjord
 2 Snow-Covered Mountain
 2 Tundra Fumarole
+2 Magma Opus
 3 Volatile Fjord
 3 Snow-Covered Mountain
 3 Tundra Fumarole
@@ -121,17 +116,10 @@
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
 10 Snow-Covered Mountain
-4 Solve the Equation
-3 Coldsteel Heart
-4 Spirebluff Canal
-4 Coldsteel Heart
+1 Anger of the Gods
 1 Valki, God of Lies
 2 Valki, God of Lies
 1 Search for Azcanta
-3 Magma Opus
-1 Mazemind Tome
-2 Mazemind Tome
-3 Kolaghan's Command
 1 Hengegate Pathway
 1 Into the Roil
 1 Failure/Comply
@@ -156,6 +144,7 @@
 1 Frost Bite
 2 Frost Bite
 3 Sweltering Suns
+3 Magma Opus
 4 Sweltering Suns
 1 Discovery/Dispersal
 2 Search for Azcanta
@@ -168,7 +157,10 @@
 2 Baral, Chief of Compliance
 1 Memory Lapse
 2 Memory Lapse
+2 Anger of the Gods
+3 Anger of the Gods
 1 Savai Triome
+1 Saw It Coming
 1 Extinction Event
 1 Drown in the Loch
 1 Rankle, Master of Pranks
@@ -184,6 +176,11 @@
 2 Savai Triome
 3 Savai Triome
 3 Chandra, Torch of Defiance
+1 Field of Ruin
+1 Whirlwind Denial
+2 Saw It Coming
+2 Whirlwind Denial
+3 Behold the Multiverse
 1 Irencrag Feat
 1 Rowan, Scholar of Sparks
 2 Irencrag Feat
@@ -204,15 +201,6 @@
 3 Memory Lapse
 4 Relic of Progenitus
 4 Memory Lapse
-1 Merfolk Secretkeeper
-1 Stitcher's Supplier
-2 Stitcher's Supplier
-2 Merfolk Secretkeeper
-3 Merfolk Secretkeeper
-3 Stitcher's Supplier
-4 Magma Opus
-4 Stitcher's Supplier
-4 Merfolk Secretkeeper
 5 Mountain
 1 Mind's Desire
 2 Mind's Desire

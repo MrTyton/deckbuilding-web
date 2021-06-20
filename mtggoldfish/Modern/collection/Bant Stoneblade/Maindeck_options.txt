@@ -66,12 +66,14 @@
 2 Omen of the Sea
 2 Abundant Growth
 3 Prismatic Vista
-3 Abundant Growth
 3 Omen of the Sea
 3 Birds of Paradise
+3 Abundant Growth
 4 Omen of the Sea
 4 Prismatic Vista
 4 Birds of Paradise
+1 Forest
+1 Razorverge Thicket
 1 Eladamri's Call
 1 Devoted Druid
 1 Vizier of Remedies
@@ -81,10 +83,8 @@
 1 Shalai, Voice of Plenty
 1 Viridian Longbow
 1 Duskwatch Recruiter
-1 Razorverge Thicket
 1 Shardless Agent
 1 Plains
-1 Forest
 1 Chord of Calling
 2 Razorverge Thicket
 2 Forest
@@ -102,9 +102,9 @@
 4 Devoted Druid
 4 Vizier of Remedies
 4 Chord of Calling
-1 Hexdrinker
-1 Botanical Sanctum
 1 Seachrome Coast
+1 Botanical Sanctum
+1 Hexdrinker
 1 Disdainful Stroke
 2 Gavony Township
 3 Jace, the Mind Sculptor

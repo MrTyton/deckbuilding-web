@@ -32,10 +32,10 @@
 3 Swamp
 1 Castle Locthwain
 2 Castle Locthwain
-1 Kolaghan's Command
 1 Woodland Cemetery
 1 Rootbound Crag
 1 Dragonskull Summit
+1 Kolaghan's Command
 1 Doom Blade
 2 Doom Blade
 1 Abundant Harvest
@@ -45,18 +45,16 @@
 1 Temple of Malice
 1 Temple of Abandon
 1 Duress
-1 Mortality Spear
 1 Scorching Dragonfire
+1 Mortality Spear
 2 Necroblossom Snarl
 2 Duress
 2 Scorching Dragonfire
 2 Mortality Spear
 3 Necroblossom Snarl
 3 Scorching Dragonfire
-4 Cragcrown Pathway
 1 Relic of Progenitus
 4 Thoughtseize
-4 Heartless Act
 1 Vraska, Golgari Queen
 1 Assassin's Trophy
 1 Plumb the Forbidden
@@ -70,5 +68,7 @@
 2 Rune of Mortality
 2 Collected Company
 3 Assassin's Trophy
-4 Assassin's Trophy
 3 Rune of Mortality
+4 Assassin's Trophy
+4 Heartless Act
+4 Cragcrown Pathway

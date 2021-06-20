@@ -1,20 +1,20 @@
-1 Inquisition of Kozilek
-2 Inquisition of Kozilek
 1 Spawn of Mayhem
+2 Spawn of Mayhem
 1 Dread Wanderer
 1 Gutterbones
 2 Gutterbones
-2 Spawn of Mayhem
 2 Dread Wanderer
 3 Spawn of Mayhem
 3 Dread Wanderer
 4 Dread Wanderer
-18 Snow-Covered Swamp
 1 Skyclave Shade
 2 Skyclave Shade
+18 Snow-Covered Swamp
 3 Gutterbones
 1 Rankle, Master of Pranks
 2 Rankle, Master of Pranks
+1 Vito, Thorn of the Dusk Rose
+4 Murderous Rider
 4 Gutterbones
 3 Skyclave Shade
 4 Spawn of Mayhem
@@ -31,27 +31,27 @@
 2 Scrapheap Scrounger
 1 Silversmote Ghoul
 2 Silversmote Ghoul
+1 Mind Stone
+1 Ugin, the Spirit Dragon
+1 Ugin, the Ineffable
 1 Forsaken Monument
 1 Ulamog, the Ceaseless Hunger
-1 Guardian Idol
 1 Hedron Archive
-1 Mind Stone
-1 Ugin, the Ineffable
-1 Ugin, the Spirit Dragon
+1 Guardian Idol
 1 Radiant Fountain
 2 Hedron Archive
-2 Ugin, the Spirit Dragon
 2 Guardian Idol
+2 Forsaken Monument
 2 Mind Stone
 2 Ugin, the Ineffable
-2 Forsaken Monument
+2 Ugin, the Spirit Dragon
 2 Radiant Fountain
-3 Guardian Idol
-3 Radiant Fountain
-3 Mind Stone
-3 Forsaken Monument
 3 Ugin, the Spirit Dragon
+3 Forsaken Monument
 3 Hedron Archive
+3 Guardian Idol
+3 Mind Stone
+3 Radiant Fountain
 4 Mind Stone
 4 Radiant Fountain
 1 Aether Hub
@@ -75,15 +75,16 @@
 2 Golos, Tireless Pilgrim
 3 Extinction Event
 4 Ifnir Deadlands
-1 Blast Zone
-1 Arch of Orazca
-2 Spire of Industry
 1 Swamp
+1 Arch of Orazca
+1 Blast Zone
+2 Spire of Industry
 1 Buried Ruin
 1 Mazemind Tome
 2 Mazemind Tome
 4 Aether Hub
 1 Rotting Regisaur
+2 Swamp
 1 Zhalfirin Void
 2 Zhalfirin Void
 3 Silversmote Ghoul
@@ -91,7 +92,6 @@
 1 Shadows' Verdict
 2 Shadows' Verdict
 3 Spire of Industry
-2 Swamp
 1 Inventors' Fair
 2 Karn, Scion of Urza
 1 Vicious Conquistador
@@ -102,26 +102,27 @@
 2 Rotting Regisaur
 4 Spire of Industry
 1 Nighthawk Scavenger
-1 Bloodchief's Thirst
-2 Bloodchief's Thirst
 2 Crawling Barrens
 4 Silversmote Ghoul
 4 Karn, the Great Creator
 2 Nighthawk Scavenger
 3 Scrapheap Scrounger
 4 Scrapheap Scrounger
+1 Bloodchief's Thirst
+2 Bloodchief's Thirst
 1 Scavenger Grounds
+1 Phyrexian Arena
 4 Hedron Archive
+1 Bojuka Bog
 1 Blinkmoth Nexus
 3 Zhalfirin Void
 1 Doom Blade
 3 Rotting Regisaur
 4 Rotting Regisaur
-1 Phyrexian Arena
-1 Bojuka Bog
 1 Coldsteel Heart
 2 Coldsteel Heart
 3 Blast Zone
+2 Agadeem's Awakening
 3 Mazemind Tome
 4 Zhalfirin Void
 1 Interplanar Beacon
@@ -134,9 +135,6 @@
 1 Cast Down
 1 Tymaret, Chosen from Death
 1 Drana, the Last Bloodchief
-2 Agadeem's Awakening
-1 Vampire of the Dire Moon
-2 Vampire of the Dire Moon
 1 Ghost Quarter
 1 Grafdigger's Cage
 1 Eliminate
@@ -159,25 +157,27 @@
 1 Sign in Blood
 2 Tymaret, Chosen from Death
 2 Sign in Blood
-3 Nighthawk Scavenger
+1 The World Tree
 1 Bonders' Enclave
 1 Crypt of the Eternals
 1 Torment of Hailfire
-1 The World Tree
 1 Myriad Construct
 2 Crypt of the Eternals
-2 The World Tree
 2 Ghost Quarter
+2 The World Tree
 2 Myriad Construct
 3 Ugin, the Ineffable
+1 Vampire of the Dire Moon
+2 Vampire of the Dire Moon
+3 Nighthawk Scavenger
 4 Forsaken Monument
+1 Wandering Archaic
+1 Heart of Kiran
 1 Plains
 1 Fountain of Renewal
-1 Heart of Kiran
-1 Wandering Archaic
 2 Blinkmoth Nexus
-2 Plains
 2 Arch of Orazca
+2 Plains
 3 Karn, Scion of Urza
 3 Blinkmoth Nexus
 4 Blast Zone
@@ -186,11 +186,32 @@
 3 Crawling Barrens
 4 Extinction Event
 4 Crawling Barrens
-3 Vampire of the Dire Moon
-4 Vampire of the Dire Moon
 1 Languish
 2 Languish
 3 Languish
 4 Languish
+2 Bojuka Bog
+2 Phyrexian Arena
+3 Swamp
+3 Phyrexian Obliterator
+3 Phyrexian Arena
+4 Swamp
+4 Phyrexian Obliterator
+5 Swamp
+6 Swamp
+7 Swamp
+8 Swamp
+9 Swamp
+10 Swamp
+11 Swamp
+12 Swamp
+13 Swamp
+14 Swamp
+15 Swamp
+16 Swamp
+17 Swamp
+18 Swamp
+19 Swamp
+20 Swamp
 19 Snow-Covered Swamp
 20 Snow-Covered Swamp

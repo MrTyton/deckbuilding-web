@@ -1,31 +1,31 @@
 2 Censor
-3 Censor
 2 Sublime Epiphany
+3 Censor
 3 Rootbound Crag
 1 Storm's Wrath
 1 Shark Typhoon
-2 Shark Typhoon
 1 Riverglide Pathway
-3 Shark Typhoon
 2 Mountain
 2 Dig Through Time
 2 Riverglide Pathway
-3 Riverglide Pathway
-4 Riverglide Pathway
+2 Shark Typhoon
 1 Sulfur Falls
-1 Wandering Fumarole
-1 Izzet Charm
-2 Wandering Fumarole
 2 Sulfur Falls
-2 Izzet Charm
-3 Dig Through Time
 3 Sulfur Falls
 4 Sulfur Falls
 3 Mountain
+3 Island
+3 Riverglide Pathway
+4 Riverglide Pathway
+3 Shark Typhoon
+1 Wandering Fumarole
+1 Izzet Charm
+2 Wandering Fumarole
+2 Izzet Charm
+3 Dig Through Time
 1 Search for Azcanta
 1 Behold the Multiverse
 2 Behold the Multiverse
-3 Island
 1 Narset, Parter of Veils
 1 Niv-Mizzet, Parun
 2 Narset, Parter of Veils
@@ -43,6 +43,9 @@
 2 Indomitable Creativity
 3 Indomitable Creativity
 4 Indomitable Creativity
+4 Mountain
+4 Island
+4 Fabled Passage
 2 Niv-Mizzet, Parun
 1 Rewind
 1 Brazen Borrower
@@ -78,11 +81,8 @@
 3 Drowned Catacomb
 3 Fatal Push
 4 Watery Grave
-4 Island
 4 Censor
-4 Fabled Passage
 4 Fatal Push
-4 Mountain
 1 Chandra, Acolyte of Flame
 1 See the Truth
 1 Multiple Choice
@@ -115,8 +115,8 @@
 1 Abrade
 1 Quicken
 2 Quicken
-2 Abrade
 2 Creative Outburst
+2 Abrade
 3 Creative Outburst
 4 Creative Outburst
 1 Castle Embereth
@@ -161,11 +161,11 @@
 2 Rakdos Cackler
 3 Burning-Tree Emissary
 3 Bomat Courier
-3 Monastery Swiftspear
 3 Foundry Street Denizen
 3 Reckless Bushwhacker
 3 Ramunap Ruins
 3 Rakdos Cackler
+3 Monastery Swiftspear
 3 Lightning Strike
 4 Burning-Tree Emissary
 4 Bomat Courier
@@ -175,18 +175,35 @@
 4 Foundry Street Denizen
 4 Monastery Swiftspear
 4 Ramunap Ruins
+1 Bonecrusher Giant
+1 Torrent Sculptor
+1 Frantic Inventory
+1 Sweltering Suns
+1 Goldspan Dragon
+1 Depths of Desire
+2 Bonecrusher Giant
+2 Frantic Inventory
+2 Goldspan Dragon
+2 Torrent Sculptor
+2 Sweltering Suns
+2 Depths of Desire
+3 Frantic Inventory
+3 Bonecrusher Giant
+4 Bonecrusher Giant
+4 Frantic Inventory
+5 Island
 1 Goblin Rabblemaster
+1 Goblin Piledriver
+1 Goblin Warchief
 1 Conspicuous Snoop
 1 Goblin Ringleader
 1 Frenzied Goblin
-1 Goblin Warchief
 1 Fanatical Firebrand
-1 Goblin Piledriver
 1 Goblin Chainwhirler
 2 Goblin Rabblemaster
+2 Goblin Warchief
 2 Goblin Ringleader
 2 Conspicuous Snoop
-2 Goblin Warchief
 2 Fanatical Firebrand
 2 Castle Embereth
 2 Goblin Chainwhirler
@@ -201,8 +218,8 @@
 3 Goblin Piledriver
 3 Goblin Chainwhirler
 4 Castle Embereth
-4 Goblin Warchief
 4 Conspicuous Snoop
+4 Goblin Warchief
 4 Goblin Chainwhirler
 4 Goblin Piledriver
 4 Frenzied Goblin
