@@ -116,11 +116,6 @@
 2 Karakas
 2 Vendilion Clique
 3 Vendilion Clique
-1 Spell Snare
-1 Frantic Inventory
-2 Frantic Inventory
-3 Frantic Inventory
-4 Frantic Inventory
 1 Arid Mesa
 3 Tundra
 4 Terminus
@@ -129,25 +124,29 @@
 2 Accumulated Knowledge
 3 Accumulated Knowledge
 4 Accumulated Knowledge
+1 Spell Snare
+1 Frantic Inventory
+2 Frantic Inventory
+3 Frantic Inventory
+4 Frantic Inventory
+1 Life from the Loam
 1 Wasteland
 1 Mox Diamond
-1 Life from the Loam
 2 Council's Judgment
-2 Wasteland
 2 Life from the Loam
+2 Wasteland
 2 Mox Diamond
+3 Life from the Loam
 3 Wasteland
 3 Mox Diamond
-3 Life from the Loam
 4 Mox Diamond
 4 Wasteland
-2 Windswept Heath
 2 Counterspell
+2 Windswept Heath
 6 Island
 7 Island
-1 Orim's Chant
 1 Street Wraith
-1 Duress
+1 Orim's Chant
 1 Swamp
 1 Thassa's Oracle
 1 Personal Tutor
@@ -157,13 +156,14 @@
 1 Scrubland
 1 Edge of Autumn
 1 Doomsday
+1 Duress
 1 Dark Ritual
 1 Lotus Petal
-2 Underground Sea
 2 Street Wraith
-2 Duress
 2 Personal Tutor
+2 Duress
 2 Dark Ritual
+2 Underground Sea
 2 Doomsday
 2 Lotus Petal
 3 Personal Tutor

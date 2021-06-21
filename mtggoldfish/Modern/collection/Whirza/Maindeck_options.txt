@@ -75,8 +75,8 @@
 2 Nihil Spellbomb
 3 Mox Amber
 4 Mox Amber
-2 Watery Grave
 2 Mystic Sanctuary
+2 Watery Grave
 4 Flooded Strand
 3 Sword of the Meek
 3 Spire of Industry
@@ -95,21 +95,19 @@
 2 Teferi, Time Raveler
 1 Breeding Pool
 3 Fatal Push
-1 Chalice of the Void
 1 Sorcerous Spyglass
+1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
 1 Welding Jar
 2 Talisman of Dominance
 1 Sacred Foundry
+1 Drown in the Loch
+1 Cryptic Command
 1 Snow-Covered Mountain
 1 Dreadbore
 1 Spirebluff Canal
-1 Cryptic Command
-1 Drown in the Loch
-1 Plargg, Dean of Chaos
-2 Plargg, Dean of Chaos
 1 Prismatic Vista
 1 Sai, Master Thopterist
 1 Fetid Pools
@@ -121,20 +119,28 @@
 2 Steam Vents
 2 Swamp
 2 Ashiok, Dream Render
+1 Plargg, Dean of Chaos
+2 Plargg, Dean of Chaos
 1 River of Tears
+1 Karn, the Great Creator
 1 Urza's Saga
 1 Relic of Progenitus
-1 Karn, the Great Creator
 1 Underground River
-2 Urza's Saga
 2 Karn, the Great Creator
+2 Urza's Saga
 2 River of Tears
 2 Underground River
 3 Urza's Saga
 3 Talisman of Dominance
 4 Urza's Saga
-1 Stoneforge Mystic
+1 Zagoth Triome
+1 Remand
+2 Remand
+3 Remand
+4 Misty Rainforest
+4 Engineered Explosives
 1 Batterskull
+1 Stoneforge Mystic
 1 Temple Garden
 1 Bloodchief's Thirst
 1 Isolated Chapel
@@ -147,12 +153,6 @@
 3 Stoneforge Mystic
 3 Serum Visions
 4 Serum Visions
-1 Remand
-1 Zagoth Triome
-2 Remand
-3 Remand
-4 Misty Rainforest
-4 Engineered Explosives
 4 Inquisition of Kozilek
 4 Spire of Industry
 1 Narset, Parter of Veils
@@ -165,7 +165,6 @@
 3 Force of Negation
 3 Narset, Parter of Veils
 4 Fatal Push
-1 Tolaria West
 1 Cascade Bluffs
 1 Simian Spirit Guide
 1 Tectonic Edge
@@ -174,6 +173,7 @@
 1 Ghost Quarter
 1 Ipnu Rivulet
 1 Bottled Cloister
+1 Tolaria West
 2 Simian Spirit Guide
 2 Welding Jar
 2 Sorcerous Spyglass

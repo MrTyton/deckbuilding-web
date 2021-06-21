@@ -4,12 +4,12 @@
 1 Golos, Tireless Pilgrim
 2 Golos, Tireless Pilgrim
 1 Ugin, the Spirit Dragon
-1 Ancient Tomb
 1 Chalice of the Void
+1 Ancient Tomb
 1 Grim Monolith
-2 Ancient Tomb
 2 Chalice of the Void
 2 Grim Monolith
+2 Ancient Tomb
 3 Ancient Tomb
 3 Chalice of the Void
 3 Grim Monolith
@@ -31,27 +31,40 @@
 2 City of Traitors
 2 Sorcerous Spyglass
 1 Urborg, Tomb of Yawgmoth
-4 Chalice of the Void
-4 Karn, the Great Creator
-3 Golos, Tireless Pilgrim
-4 Golos, Tireless Pilgrim
-1 Wastes
-2 Walking Ballista
 1 Yavimaya, Cradle of Growth
 1 Endurance
+4 Chalice of the Void
+4 Karn, the Great Creator
+1 Wastes
+2 Walking Ballista
 1 Emrakul, the Promised End
 1 Manifold Key
+1 Sphere of Resistance
 1 Forsaken Monument
 1 Basalt Monolith
-1 Sphere of Resistance
 2 Forsaken Monument
 2 Basalt Monolith
 3 Sorcerous Spyglass
+3 Golos, Tireless Pilgrim
+4 Golos, Tireless Pilgrim
 1 All Is Dust
 2 All Is Dust
 3 Eldrazi Temple
 1 Trinisphere
 2 Ugin, the Spirit Dragon
+1 The Tabernacle at Pendrell Vale
+1 Waterlogged Grove
+2 Sphere of Resistance
+3 Sphere of Resistance
+3 Walking Ballista
+1 Mazemind Tome
+1 Snow-Covered Forest
+2 Snow-Covered Forest
+3 Snow-Covered Forest
+4 Snow-Covered Forest
+5 Snow-Covered Forest
+2 Trinisphere
+1 Tireless Tracker
 1 Windswept Heath
 1 The World Tree
 1 Boompile
@@ -61,19 +74,6 @@
 2 Ancient Stirrings
 3 Ancient Stirrings
 4 Ancient Stirrings
-1 The Tabernacle at Pendrell Vale
-1 Waterlogged Grove
-2 Sphere of Resistance
-3 Walking Ballista
-3 Sphere of Resistance
-1 Mazemind Tome
-1 Snow-Covered Forest
-2 Snow-Covered Forest
-3 Snow-Covered Forest
-4 Snow-Covered Forest
-5 Snow-Covered Forest
-2 Trinisphere
-1 Tireless Tracker
 1 Thran Dynamo
 2 Thran Dynamo
 1 Ugin, the Ineffable
@@ -143,8 +143,8 @@
 3 Lodestone Golem
 3 Kuldotha Forgemaster
 3 Metalworker
+4 City of Traitors
 4 Metalworker
 4 Lodestone Golem
 4 Wasteland
 4 Kuldotha Forgemaster
-4 City of Traitors

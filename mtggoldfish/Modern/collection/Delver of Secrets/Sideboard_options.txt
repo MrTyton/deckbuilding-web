@@ -1,3 +1,4 @@
+1 Brazen Borrower
 1 Bedlam Reveler
 1 Ravenous Trap
 2 Ravenous Trap
@@ -5,35 +6,34 @@
 1 Threads of Disloyalty
 2 Threads of Disloyalty
 3 Threads of Disloyalty
-1 Fury
 1 Mystical Dispute
-1 Ceremonious Rejection
-2 Ceremonious Rejection
-1 Surgical Extraction
-2 Surgical Extraction
 2 Mystical Dispute
 1 Rest in Peace
 2 Rest in Peace
 3 Rest in Peace
-1 Engineered Explosives
 1 Prismatic Ending
 1 Counterspell
 2 Prismatic Ending
+1 Engineered Explosives
+1 Spell Pierce
+1 Ceremonious Rejection
+2 Ceremonious Rejection
+1 Surgical Extraction
+2 Surgical Extraction
 1 Collective Brutality
 2 Collective Brutality
 2 Brazen Borrower
-1 Spell Pierce
 1 Dispel
 2 Engineered Explosives
 1 Vapor Snag
 2 Vapor Snag
 3 Collective Brutality
 1 Lurrus of the Dream-Den
-2 Spell Pierce
 1 Subtlety
 1 Hurkyl's Recall
-2 Subtlety
 2 Force of Negation
+2 Subtlety
+2 Spell Pierce
 1 Void Mirror
 1 Timely Reinforcements
 2 Counterspell
@@ -56,7 +56,6 @@
 1 Kor Firewalker
 2 Kor Firewalker
 3 Kor Firewalker
-3 Surgical Extraction
 2 Tormod's Crypt
 3 Veil of Summer
 3 Cleansing Wildfire
@@ -65,17 +64,12 @@
 2 Kaya's Guile
 3 Kaya's Guile
 2 Dispel
-1 Blazing Volley
 1 Life Goes On
+1 Blazing Volley
 2 Life Goes On
 1 Firespout
 1 Ashiok, Dream Render
 1 Fiery Cannonade
-1 Skyclave Apparition
-1 Rip Apart
-1 Disdainful Stroke
-1 Lightning Helix
-2 Skyclave Apparition
 1 Fry
 1 Magma Spray
 2 Bedlam Reveler
@@ -87,24 +81,25 @@
 1 Pithing Needle
 1 Grafdigger's Cage
 2 Pithing Needle
-1 Wear/Tear
 1 Sanctifier en-Vec
+1 Wear/Tear
 2 Wear/Tear
-1 Annul
-1 Klothys, God of Destiny
-2 Klothys, God of Destiny
-2 Annul
 1 Cling to Dust
 1 Unearth
 1 Thoughtseize
 2 Thoughtseize
+1 Rip Apart
+1 Disdainful Stroke
+1 Skyclave Apparition
+1 Lightning Helix
+2 Skyclave Apparition
+1 Klothys, God of Destiny
+1 Annul
+2 Klothys, God of Destiny
+2 Annul
 2 Fury
 3 Abrade
-1 Dragon's Claw
-2 Dragon's Claw
-2 Flusterstorm
-3 Dragon's Claw
-3 Ceremonious Rejection
+3 Surgical Extraction
 1 Shattering Spree
 1 Kozilek's Return
 1 Tarmogoyf
@@ -112,12 +107,12 @@
 2 Tarmogoyf
 2 Wizard's Retort
 3 Tarmogoyf
-1 Shadowspear
-4 Rest in Peace
 1 Ancestral Vision
 2 Ancestral Vision
 3 Tormod's Crypt
 4 Cleansing Wildfire
+1 Shadowspear
+4 Rest in Peace
 1 Dead of Winter
 2 Bitterblossom
 4 Kaya's Guile
