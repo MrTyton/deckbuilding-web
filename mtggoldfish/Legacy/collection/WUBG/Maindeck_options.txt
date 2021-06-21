@@ -1,26 +1,25 @@
 4 Swords to Plowshares
 1 Arid Mesa
-1 Plains
 1 Flooded Strand
-2 Plains
+1 Plains
 2 Flooded Strand
+2 Plains
 3 Plains
 2 Arid Mesa
 3 Flooded Strand
 4 Flooded Strand
 3 Recruiter of the Guard
 1 Charming Prince
+4 Elite Spellbinder
 1 Sanctum Prelate
 2 Silent Clearing
 2 Kitesail Freebooter
 2 Charming Prince
-4 Elite Spellbinder
-1 Kelsien, the Plague
 2 Tundra
+1 Kelsien, the Plague
 1 Lavinia, Azorius Renegade
-1 Opposition Agent
 1 Reflector Mage
-1 Kessig Malcontents
+1 Opposition Agent
 1 Leovold, Emissary of Trest
 1 Tropical Island
 1 Uro, Titan of Nature's Wrath
@@ -47,42 +46,44 @@
 3 Misty Rainforest
 3 Verdant Catacombs
 1 Abrupt Decay
+1 Kessig Malcontents
 2 Tropical Island
 1 Scavenging Ooze
 4 Misty Rainforest
-1 Polluted Delta
-2 Polluted Delta
 4 Green Sun's Zenith
+1 Polluted Delta
 2 Abrupt Decay
-3 Abrupt Decay
 1 Force of Negation
-2 Force of Negation
-3 Polluted Delta
-1 Ramunap Excavator
-2 Leovold, Emissary of Trest
+2 Polluted Delta
 1 Snow-Covered Swamp
 1 Snow-Covered Forest
 1 Snow-Covered Island
-2 Sylvan Library
 3 Uro, Titan of Nature's Wrath
-4 Abrupt Decay
+3 Abrupt Decay
+2 Force of Negation
 1 Birds of Paradise
 2 Underground Sea
-1 Savannah
+3 Polluted Delta
+1 Ramunap Excavator
+2 Leovold, Emissary of Trest
+4 Abrupt Decay
+2 Sylvan Library
+1 Fatal Push
+1 Plague Engineer
+2 Plague Engineer
 1 Jace, the Mind Sculptor
+2 Fatal Push
 1 Baleful Strix
 2 Baleful Strix
 3 Baleful Strix
-1 Fatal Push
+1 Savannah
+3 Tropical Island
 1 Forest
+4 Unclaimed Territory
 1 Scrubland
 1 Imperial Recruiter
 1 Tomik, Distinguished Advokist
-3 Tropical Island
-1 Plague Engineer
 2 Snow-Covered Island
-2 Plague Engineer
-2 Fatal Push
 1 Questing Beast
 1 Teferi, Time Raveler
 1 Island
@@ -94,21 +95,21 @@
 1 Valakut, the Molten Pinnacle
 1 Dryad of the Ilysian Grove
 1 Bojuka Bog
+1 Drownyard Temple
 1 Glacial Chasm
-1 Sejiri Steppe
 1 Vesuva
 1 Mox Diamond
 1 Archon of Emeria
-1 Drownyard Temple
+1 Sejiri Steppe
 2 Dryad of the Ilysian Grove
 2 Valakut, the Molten Pinnacle
 2 Archon of Emeria
 2 Mox Diamond
 2 Vesuva
-3 Dryad of the Ilysian Grove
 3 Elvish Reclaimer
-3 Mox Diamond
+3 Dryad of the Ilysian Grove
 3 Archon of Emeria
+3 Mox Diamond
 4 Elvish Reclaimer
 4 Dryad of the Ilysian Grove
 1 Ponder
@@ -118,9 +119,14 @@
 2 Bayou
 1 Realmwalker
 2 Imperial Recruiter
-4 Unclaimed Territory
+1 Palace Jailer
 3 Kitesail Freebooter
 2 Teferi, Time Raveler
+1 Ice-Fang Coatl
+2 Snow-Covered Forest
+2 Ice-Fang Coatl
+3 Ice-Fang Coatl
+1 Grist, the Hunger Tide
 1 Hexdrinker
 1 Thoughtseize
 2 Thoughtseize
@@ -136,23 +142,17 @@
 1 Judith, the Scourge Diva
 1 Kambal, Consul of Allocation
 2 Rick, Steadfast Leader
-1 Tarmogoyf
 1 Tireless Tracker
+1 Tarmogoyf
 2 Tarmogoyf
 3 Tarmogoyf
 3 Bayou
+2 Jace, the Mind Sculptor
 1 Assassin's Trophy
-1 Grist, the Hunger Tide
 1 Brazen Borrower
 2 Assassin's Trophy
 2 Brazen Borrower
 3 Fatal Push
-1 Ice-Fang Coatl
-2 Snow-Covered Forest
-2 Jace, the Mind Sculptor
-2 Ice-Fang Coatl
-3 Ice-Fang Coatl
-1 Palace Jailer
 2 Palace Jailer
 1 Life from the Loam
 1 Cephalid Coliseum
@@ -166,35 +166,46 @@
 2 Savannah
 1 Primeval Titan
 2 Reflector Mage
+4 Ice-Fang Coatl
+3 Horizon Canopy
 2 Island
 1 Unearth
+4 Verdant Catacombs
 1 Cabal Therapy
+1 Nimble Obstructionist
 1 Sea Gate Stormcaller
-1 Snapcaster Mage
 1 Drown in the Loch
+1 Snapcaster Mage
 1 Neoform
 1 Heliod, Sun-Crowned
 1 Spike Feeder
-1 Nimble Obstructionist
 1 True-Name Nemesis
 2 Drown in the Loch
 2 Snapcaster Mage
-2 Unearth
 2 True-Name Nemesis
+2 Unearth
 2 Sea Gate Stormcaller
 2 Cabal Therapy
 2 Neoform
 3 Neoform
 3 Cabal Therapy
 3 Sea Gate Stormcaller
-4 Verdant Catacombs
 4 Sea Gate Stormcaller
 1 General Kudro of Drannith
 1 Marsh Flats
 1 Unsettled Mariner
 1 Deputy of Detention
 2 Skyclave Apparition
+1 Esper Sentinel
+1 Barrin, Tolarian Archmage
+2 Esper Sentinel
+3 Esper Sentinel
 3 Assassin's Trophy
+1 Witherbloom Command
+1 Endurance
+1 Hullbreacher
+2 Grist, the Hunger Tide
+3 Grist, the Hunger Tide
 1 Thespian's Stage
 1 Dark Depths
 1 Collector Ouphe
@@ -212,14 +223,12 @@
 1 Containment Priest
 1 Magus of the Moon
 2 Opposition Agent
-2 Containment Priest
 2 Magus of the Moon
-3 Horizon Canopy
+2 Containment Priest
 3 Opposition Agent
 1 Shark Typhoon
 1 Narset, Parter of Veils
 2 Shark Typhoon
 4 Baleful Strix
 4 Thoughtseize
-4 Ice-Fang Coatl
 4 Tropical Island

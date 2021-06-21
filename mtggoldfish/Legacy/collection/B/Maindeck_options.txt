@@ -11,13 +11,13 @@
 4 Sudden Edict
 11 Swamp
 1 Smallpox
-1 Duress
 1 Sign in Blood
+1 Duress
 2 Smallpox
 2 Duress
 2 Sign in Blood
-3 Smallpox
 3 Duress
+3 Smallpox
 3 Sign in Blood
 4 Duress
 4 Smallpox
@@ -77,11 +77,11 @@
 4 Innocent Blood
 4 Cry of Contrition
 1 Sword of Fire and Ice
-1 Rotting Regisaur
 1 Umezawa's Jitte
 1 Juzam Djinn
 1 Desecration Demon
 1 Opposition Agent
+1 Rotting Regisaur
 1 Archfiend of Ifnir
 1 Plague Engineer
 2 Eliminate
@@ -95,22 +95,22 @@
 3 Rotting Regisaur
 3 Plague Engineer
 3 Desecration Demon
-4 Opposition Agent
 4 Eliminate
 4 Desecration Demon
 4 Plague Engineer
+4 Opposition Agent
 4 Rotting Regisaur
-1 Underworld Dreams
-1 Sanctum of Stone Fangs
 1 Sinkhole
 1 Divest
 1 Choking Sands
-2 Underworld Dreams
+1 Underworld Dreams
+1 Sanctum of Stone Fangs
 2 Sinkhole
+2 Underworld Dreams
 2 Divest
 2 Choking Sands
-3 Underworld Dreams
 3 Sinkhole
+3 Underworld Dreams
 3 Choking Sands
 3 Divest
 4 Fatal Push

@@ -7,13 +7,13 @@
 1 Cling to Dust
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
+2 Swamp
 3 Sulfur Falls
 4 Sulfur Falls
 1 Glorybringer
 1 Castle Locthwain
 2 Chandra, Torch of Defiance
 2 Glorybringer
-2 Swamp
 1 Mind Stone
 2 Mind Stone
 2 Cling to Dust
@@ -31,6 +31,7 @@
 1 Island
 1 Fabled Passage
 2 Fabled Passage
+2 Island
 1 Mizzix's Mastery
 1 Terror of the Peaks
 1 Dragonstorm
@@ -45,15 +46,14 @@
 4 Faithless Looting
 4 Mizzix's Mastery
 4 Dragonstorm
-2 Island
 1 Brainstorm
 2 Brainstorm
 3 Brainstorm
 3 Fabled Passage
+1 Dragonskull Summit
 3 Terror of the Peaks
 2 Mountain
 4 Fabled Passage
-1 Dragonskull Summit
 4 Prismari Command
 3 Island
 3 Mountain
@@ -71,17 +71,17 @@
 1 Bladewing the Risen
 2 Bladewing the Risen
 3 Bladewing the Risen
+2 Dragonskull Summit
 3 Spirebluff Canal
 4 Island
 3 Solve the Equation
 1 Mystical Dispute
 2 Baleful Mastery
-2 Dragonskull Summit
 3 Crux of Fate
-1 Strategic Planning
 1 Pact of Negation
-2 Strategic Planning
+1 Strategic Planning
 2 Pact of Negation
+2 Strategic Planning
 3 Strategic Planning
 4 Strategic Planning
 4 Bladewing the Risen
@@ -100,16 +100,16 @@
 1 Tundra Fumarole
 1 Snow-Covered Mountain
 1 Magma Opus
+2 Tundra Fumarole
 2 Volatile Fjord
 2 Snow-Covered Mountain
-2 Tundra Fumarole
 2 Magma Opus
-3 Volatile Fjord
 3 Snow-Covered Mountain
 3 Tundra Fumarole
-4 Volatile Fjord
-4 Tundra Fumarole
+3 Volatile Fjord
 4 Snow-Covered Mountain
+4 Tundra Fumarole
+4 Volatile Fjord
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
@@ -120,14 +120,20 @@
 1 Valki, God of Lies
 2 Valki, God of Lies
 1 Search for Azcanta
+1 Saw It Coming
+1 Frost Bite
+2 Frost Bite
+3 Sweltering Suns
+3 Magma Opus
+4 Sweltering Suns
 1 Hengegate Pathway
 1 Into the Roil
 1 Failure/Comply
 1 Lightning Helix
 1 Rip Apart
 1 Wrath of God
-1 Sacred Foundry
 1 Plains
+1 Sacred Foundry
 1 Raugrin Triome
 2 Hengegate Pathway
 2 Failure/Comply
@@ -139,13 +145,8 @@
 3 Hengegate Pathway
 3 Raugrin Triome
 4 Sacred Foundry
-4 Hengegate Pathway
 4 Raugrin Triome
-1 Frost Bite
-2 Frost Bite
-3 Sweltering Suns
-3 Magma Opus
-4 Sweltering Suns
+4 Hengegate Pathway
 1 Discovery/Dispersal
 2 Search for Azcanta
 2 Discovery/Dispersal
@@ -160,8 +161,10 @@
 2 Anger of the Gods
 3 Anger of the Gods
 1 Savai Triome
-1 Saw It Coming
 1 Extinction Event
+2 Saw It Coming
+2 Heartless Act
+1 Bedevil
 1 Drown in the Loch
 1 Rankle, Master of Pranks
 1 Thought Erasure
@@ -175,19 +178,32 @@
 2 Temple of Deceit
 2 Savai Triome
 3 Savai Triome
-3 Chandra, Torch of Defiance
 1 Field of Ruin
 1 Whirlwind Denial
-2 Saw It Coming
 2 Whirlwind Denial
 3 Behold the Multiverse
+3 Chandra, Torch of Defiance
+1 Castle Vantress
+1 Angrath's Rampage
+1 Crawling Barrens
+1 Sea Gate Restoration
+1 Shatterskull Smashing
+1 Test of Talents
+1 Cry of the Carnarium
+1 The Scarab God
+2 Crawling Barrens
+2 Angrath's Rampage
+2 Cry of the Carnarium
+2 Bedevil
+2 The Scarab God
+3 Saw It Coming
+3 Fatal Push
 1 Irencrag Feat
 1 Rowan, Scholar of Sparks
 2 Irencrag Feat
 2 Rowan, Scholar of Sparks
 3 Irencrag Feat
 4 Irencrag Feat
-1 Bedevil
 1 Grafdigger's Cage
 1 Commit/Memory
 2 Commit/Memory
@@ -197,7 +213,6 @@
 4 Swamp
 4 Grafdigger's Cage
 1 Eliminate
-2 Heartless Act
 3 Memory Lapse
 4 Relic of Progenitus
 4 Memory Lapse

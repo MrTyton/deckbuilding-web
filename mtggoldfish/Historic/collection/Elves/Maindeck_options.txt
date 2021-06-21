@@ -1,4 +1,20 @@
+1 Darkbore Pathway
+1 Overgrown Tomb
+2 Overgrown Tomb
+2 Darkbore Pathway
+3 Overgrown Tomb
+3 Darkbore Pathway
+4 Darkbore Pathway
+16 Forest
+1 Fierce Empath
+1 Blooming Marsh
+2 Blooming Marsh
+3 Blooming Marsh
+4 Overgrown Tomb
+4 Blooming Marsh
+1 Growing Rites of Itlimoc
 1 Snow-Covered Forest
+1 Faceless Haven
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 4 Snow-Covered Forest
@@ -14,34 +30,19 @@
 14 Snow-Covered Forest
 15 Snow-Covered Forest
 16 Snow-Covered Forest
-1 Fierce Empath
-1 Faceless Haven
-16 Forest
-1 Growing Rites of Itlimoc
-17 Snow-Covered Forest
 1 Marwyn, the Nurturer
-2 Marwyn, the Nurturer
 17 Forest
-1 Darkbore Pathway
-1 Overgrown Tomb
-2 Overgrown Tomb
-2 Darkbore Pathway
-3 Overgrown Tomb
-3 Darkbore Pathway
-4 Darkbore Pathway
-1 Blooming Marsh
-2 Blooming Marsh
-3 Blooming Marsh
-4 Overgrown Tomb
-4 Blooming Marsh
+17 Snow-Covered Forest
+2 Marwyn, the Nurturer
 3 Elvish Visionary
-1 Llanowar Visionary
-2 Llanowar Visionary
 2 Fierce Empath
-2 Growing Rites of Itlimoc
-2 Faceless Haven
 1 Skemfar Avenger
 2 Skemfar Avenger
+2 Growing Rites of Itlimoc
+1 Abomination of Llanowar
+1 Llanowar Visionary
+2 Llanowar Visionary
+2 Faceless Haven
 3 Realmwalker
 18 Forest
 4 Elvish Visionary
@@ -53,16 +54,13 @@
 3 Branchloft Pathway
 4 Temple Garden
 4 Branchloft Pathway
-18 Snow-Covered Forest
-19 Snow-Covered Forest
-1 Abomination of Llanowar
-1 Aether Gust
 1 Swan Song
+1 Aether Gust
 1 Breeding Pool
 1 Botanical Sanctum
 1 Barkchannel Pathway
-2 Swan Song
 2 Barkchannel Pathway
+2 Swan Song
 2 Breeding Pool
 2 Botanical Sanctum
 3 Breeding Pool
@@ -73,29 +71,46 @@
 4 Barkchannel Pathway
 2 Craterhoof Behemoth
 1 Turntimber Symbiosis
-1 Tyvar Kell
-1 Heroic Intervention
+1 Canopy Tactician
 1 Finale of Devastation
-2 Heroic Intervention
-3 Marwyn, the Nurturer
+18 Snow-Covered Forest
+19 Snow-Covered Forest
+1 Tyvar Kell
 19 Forest
 20 Forest
-1 Ram Through
-1 Snakeskin Veil
-1 Blizzard Brawl
-2 Ram Through
-2 Snakeskin Veil
-2 Blizzard Brawl
-3 Snakeskin Veil
-3 Blizzard Brawl
-4 Snakeskin Veil
-20 Snow-Covered Forest
-1 Canopy Tactician
-3 Llanowar Visionary
-1 Vivien, Arkbow Ranger
-1 Elderfang Disciple
 1 Ochran Assassin
-2 Elderfang Disciple
+1 Heroic Intervention
+2 Heroic Intervention
+1 Lys Alana Huntmaster
+2 Lys Alana Huntmaster
+1 Harald Unites the Elves
+1 The Great Henge
+1 Swamp
+1 Thorn Lieutenant
+1 Druid of the Cowl
+1 Elven Ambush
+1 Poison-Tip Archer
+1 Haunting Voyage
+2 Swamp
+2 Canopy Tactician
+2 Harald Unites the Elves
+2 Abomination of Llanowar
+2 Druid of the Cowl
+2 Poison-Tip Archer
+2 Elven Ambush
+3 Swamp
+3 Druid of the Cowl
+4 Swamp
+4 Druid of the Cowl
+5 Swamp
+6 Swamp
+7 Swamp
+8 Swamp
+9 Swamp
+10 Swamp
+11 Swamp
+12 Swamp
+1 Vivien, Arkbow Ranger
 1 Necroblossom Snarl
 1 Skemfar Elderhall
 2 Necroblossom Snarl
@@ -103,26 +118,19 @@
 2 Wildborn Preserver
 1 Pelt Collector
 2 Pelt Collector
+1 Elderfang Disciple
+2 Elderfang Disciple
 1 Fauna Shaman
 2 Fauna Shaman
-1 Plains
 1 Sunpetal Grove
+1 Plains
 2 Sunpetal Grove
 3 Sunpetal Grove
+3 Marwyn, the Nurturer
 2 Turntimber Symbiosis
 3 Growing Rites of Itlimoc
 3 Turntimber Symbiosis
 4 Realmwalker
-1 Grafdigger's Cage
-1 Primal Might
-1 Questing Beast
-1 Druid of the Cowl
-1 Yorvo, Lord of Garenbrig
-2 Questing Beast
-2 Primal Might
-3 Faceless Haven
-4 Faceless Haven
-4 Blizzard Brawl
 1 Paradise Druid
 1 Unclaimed Territory
 2 Paradise Druid
@@ -133,37 +141,22 @@
 1 Lovestruck Beast
 1 Rishkar, Peema Renegade
 1 Containment Breach
-1 Tangletrap
 1 Elven Bow
+1 Tangletrap
 1 Elderleaf Mentor
 1 Silhana Wayfinder
 1 Wren's Run Vanquisher
-1 Lys Alana Huntmaster
 1 Woodland Champion
 1 Devouring Tendrils
 1 Charge of the Forever-Beast
 1 Skyway Sniper
 1 Oakhame Ranger
-2 Tangletrap
 2 Woodland Champion
 2 Oakhame Ranger
+2 Tangletrap
 2 Wren's Run Vanquisher
-2 Lys Alana Huntmaster
+3 Llanowar Visionary
 3 Oakhame Ranger
 3 Lys Alana Huntmaster
 4 Llanowar Visionary
 4 Lys Alana Huntmaster
-1 Incubation Druid
-1 Thorn Lieutenant
-1 Beast Whisperer
-1 Steel Leaf Champion
-2 Beast Whisperer
-2 Thorn Lieutenant
-3 Beast Whisperer
-3 Thorn Lieutenant
-4 Beast Whisperer
-4 Marwyn, the Nurturer
-21 Snow-Covered Forest
-22 Snow-Covered Forest
-23 Snow-Covered Forest
-24 Snow-Covered Forest

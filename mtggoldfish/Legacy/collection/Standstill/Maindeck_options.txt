@@ -1,40 +1,38 @@
-1 Snow-Covered Plains
-2 Moat
-2 Snow-Covered Island
-1 Spell Pierce
-3 Snow-Covered Island
-5 Island
-3 Prismatic Vista
-2 Snow-Covered Plains
-1 Snow-Covered Mountain
-1 Court of Grace
+2 Narset, Parter of Veils
 2 Supreme Verdict
-4 Scalding Tarn
+1 Snow-Covered Island
+3 Prismatic Vista
+1 Snow-Covered Plains
 1 Polluted Delta
+2 Snow-Covered Island
+2 Moat
+1 Court of Grace
+3 Snow-Covered Island
+4 Scalding Tarn
+2 Snow-Covered Plains
 1 Counterbalance
+1 Snow-Covered Mountain
 4 Snow-Covered Island
 5 Snow-Covered Island
+1 Misty Rainforest
+3 Plains
 1 Terminus
 2 Terminus
 2 Brazen Borrower
-1 Misty Rainforest
-3 Plains
 1 Snapcaster Mage
+3 Supreme Verdict
 2 Counterbalance
 2 Spell Pierce
-3 Supreme Verdict
-1 Hullbreacher
-2 Hullbreacher
 1 Daze
 2 Daze
 1 Mountain
 3 Daze
+4 Plains
 1 Dovin's Veto
 1 Wasteland
 2 Wasteland
-1 Day's Undoing
-2 Day's Undoing
-3 Teferi, Time Raveler
+1 Hullbreacher
+2 Hullbreacher
 2 Polluted Delta
 3 Polluted Delta
 4 Prismatic Vista
@@ -47,13 +45,13 @@
 2 Mishra's Factory
 2 Retrofitter Foundry
 4 Polluted Delta
-1 Cling to Dust
+1 Bloodstained Mire
 1 Eliminate
 1 Fatal Push
-1 Bloodstained Mire
 1 Ingenious Infiltrator
 1 Changeling Outcast
 1 Baleful Strix
+1 Cling to Dust
 1 Yuriko, the Tiger's Shadow
 1 Ornithopter
 2 Fatal Push
@@ -73,15 +71,17 @@
 4 Ingenious Infiltrator
 4 Ornithopter
 4 Retrofitter Foundry
-1 Detention Sphere
 1 Teferi, Hero of Dominaria
+1 Detention Sphere
 1 Predict
 1 Spell Snare
 2 Spell Snare
 2 Council's Judgment
-1 Pyroblast
-3 Day's Undoing
-4 Plains
+1 Back to Basics
+1 Crucible of Worlds
+1 Day's Undoing
+2 Day's Undoing
+3 Teferi, Time Raveler
 1 Cast Out
 1 Replenish
 1 Lay Claim
@@ -92,7 +92,6 @@
 3 Lay Claim
 3 Replenish
 4 Force of Negation
-1 Crucible of Worlds
 1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
@@ -124,33 +123,33 @@
 1 Brought Back
 1 Weathered Wayfarer
 1 Aether Vial
+1 Meddling Mage
 1 Peacekeeper
 1 Recruiter of the Guard
 1 Knight of the White Orchid
-1 Meddling Mage
 1 Barrin, Tolarian Archmage
 2 Marsh Flats
 2 Windswept Heath
+2 Brought Back
 2 Karakas
 2 Solitude
 2 Arid Mesa
 2 Meddling Mage
-2 Brought Back
 2 Fblthp, the Lost
 2 Aether Vial
 2 Recruiter of the Guard
 2 Knight of the White Orchid
 2 Weathered Wayfarer
 3 Solitude
+3 Brought Back
 3 Windswept Heath
 3 Meddling Mage
-3 Recruiter of the Guard
-3 Brought Back
-3 Aether Vial
 3 Weathered Wayfarer
+3 Recruiter of the Guard
+3 Aether Vial
 4 Solitude
-4 Recruiter of the Guard
 4 Tundra
+4 Recruiter of the Guard
 4 Aether Vial
 4 Weathered Wayfarer
 4 Meddling Mage
@@ -158,10 +157,13 @@
 2 Mystic Sanctuary
 1 Pithing Needle
 1 Unexpectedly Absent
-1 Back to Basics
 1 Vendilion Clique
 1 Flusterstorm
+1 Luminarch Ascension
+2 Back to Basics
 2 Dovin's Veto
+1 Pyroblast
+3 Day's Undoing
 1 Omen of the Sea
 1 Vanishing Verse
 1 Estrid's Invocation
@@ -186,11 +188,11 @@
 1 Endurance
 1 Batterskull
 1 Stoneforge Mystic
-2 Endurance
 2 Tropical Island
 2 Snow-Covered Forest
 2 Ice-Fang Coatl
 2 Engineered Explosives
+2 Endurance
 2 Stoneforge Mystic
 2 Timeless Dragon
 3 Ice-Fang Coatl
@@ -205,15 +207,15 @@
 2 Court of Cunning
 3 Court of Cunning
 1 Abrupt Decay
+1 Mox Diamond
 1 Tranquil Thicket
 1 Verdant Catacombs
 1 Forest
-1 Bayou
 1 Bojuka Bog
 1 Crop Rotation
 1 Life from the Loam
-1 Mox Diamond
 1 Field of the Dead
+1 Bayou
 1 Lonely Sandbar
 2 Abrupt Decay
 2 Mox Diamond
@@ -233,10 +235,10 @@
 1 Burst Lightning
 1 Faerie Conclave
 2 Impulse
-2 Volcanic Island
 2 Lightning Bolt
 2 Bonecrusher Giant
 2 Fiery Islet
+2 Volcanic Island
 2 Burst Lightning
 2 Faerie Conclave
 3 Snapcaster Mage

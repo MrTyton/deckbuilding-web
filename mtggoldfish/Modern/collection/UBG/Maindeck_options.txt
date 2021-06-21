@@ -5,30 +5,30 @@
 2 Darkslick Shores
 3 Darkslick Shores
 4 Darkslick Shores
-1 Drown in the Loch
 1 Watery Grave
-2 Watery Grave
+1 Drown in the Loch
 2 Drown in the Loch
+2 Watery Grave
 4 Mishra's Bauble
-1 Polluted Delta
 1 Soaring Thought-Thief
 1 Thieves' Guild Enforcer
+1 Polluted Delta
 1 Fatal Push
 1 Snapcaster Mage
-2 Polluted Delta
 2 Soaring Thought-Thief
 2 Thieves' Guild Enforcer
+2 Polluted Delta
 2 Fatal Push
 2 Snapcaster Mage
-3 Polluted Delta
 3 Soaring Thought-Thief
-3 Thieves' Guild Enforcer
 3 Drown in the Loch
+3 Polluted Delta
+3 Thieves' Guild Enforcer
 3 Fatal Push
 4 Soaring Thought-Thief
+4 Drown in the Loch
 4 Thieves' Guild Enforcer
 4 Polluted Delta
-4 Drown in the Loch
 1 Unearth
 4 Fatal Push
 1 Cling to Dust
@@ -54,19 +54,19 @@
 4 Dauthi Voidwalker
 1 Scalding Tarn
 2 Scalding Tarn
-1 Spell Snare
 1 Sunken Ruins
-1 Into the Story
+1 Spell Snare
 1 Archmage's Charm
+1 Into the Story
 2 Into the Story
 2 Island
 2 Archmage's Charm
 3 Snapcaster Mage
 3 Island
 3 Archmage's Charm
+4 Snapcaster Mage
 4 Island
 4 Archmage's Charm
-4 Snapcaster Mage
 1 Breeding Pool
 3 Spire of Industry
 1 The Underworld Cookbook
@@ -74,8 +74,8 @@
 1 Mana Leak
 1 Zagoth Triome
 1 Abrupt Decay
-2 Spell Snare
 2 Mana Leak
+2 Spell Snare
 4 Scalding Tarn
 1 Botanical Sanctum
 1 Witchbane Orb
@@ -90,9 +90,9 @@
 1 Dismember
 1 Scourge of the Skyclaves
 1 Death's Shadow
+2 Dismember
 2 Death's Shadow
 2 Scourge of the Skyclaves
-2 Dismember
 3 Death's Shadow
 3 Scourge of the Skyclaves
 4 Death's Shadow
@@ -104,6 +104,13 @@
 1 Overgrown Tomb
 2 Misty Rainforest
 3 Misty Rainforest
+1 Mox Amber
+1 Emry, Lurker of the Loch
+1 Soul-Guide Lantern
+1 Crucible of Worlds
+2 Emry, Lurker of the Loch
+3 Emry, Lurker of the Loch
+4 Emry, Lurker of the Loch
 1 Dark Confidant
 1 Blood Crypt
 1 Stubborn Denial
@@ -113,13 +120,6 @@
 3 Bloodstained Mire
 4 Bloodstained Mire
 4 Watery Grave
-1 Mox Amber
-1 Emry, Lurker of the Loch
-1 Soul-Guide Lantern
-1 Crucible of Worlds
-2 Emry, Lurker of the Loch
-3 Emry, Lurker of the Loch
-4 Emry, Lurker of the Loch
 1 Logic Knot
 1 Sunken Hollow
 1 River of Tears
@@ -129,6 +129,6 @@
 1 Leyline of Sanctity
 2 Prismatic Vista
 2 Leyline of Sanctity
-3 Leyline of Sanctity
 3 Prismatic Vista
+3 Leyline of Sanctity
 4 Leyline of Sanctity

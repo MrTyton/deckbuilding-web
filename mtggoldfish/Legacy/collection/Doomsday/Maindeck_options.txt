@@ -33,19 +33,19 @@
 1 Cling to Dust
 1 Chrome Mox
 2 Verdant Catacombs
+1 Emrakul, the Aeons Torn
 1 Shallow Grave
 1 Goryo's Vengeance
 1 Griselbrand
 1 Entomb
-1 Emrakul, the Aeons Torn
 1 Children of Korlis
 2 Goryo's Vengeance
 2 Entomb
 2 Griselbrand
 2 Shallow Grave
+3 Verdant Catacombs
 3 Entomb
 3 Shallow Grave
-3 Verdant Catacombs
 4 Verdant Catacombs
 4 Entomb
 4 Shallow Grave
@@ -54,8 +54,11 @@
 2 Stifle
 1 Veil of Summer
 1 Sunken Ruins
+1 Clearwater Pathway
+1 Opt
 1 Prismatic Vista
 1 Inquisition of Kozilek
+1 Watery Grave
 1 Peek
 1 Sunken Hollow
 1 Spell Pierce
@@ -65,8 +68,6 @@
 1 Drown in the Loch
 1 Portent
 1 Fatal Push
-1 Opt
-1 Watery Grave
 1 Thought Lash
 1 Marsh Flats
 1 Sleight of Hand
@@ -75,7 +76,6 @@
 1 Spellseeker
 1 Force of Negation
 1 Tainted Pact
-1 Clearwater Pathway
 1 Muddle the Mixture
 2 Tainted Pact
 1 Collective Brutality
@@ -111,15 +111,15 @@
 1 Scrubland
 1 Tundra
 4 Flooded Strand
-1 Witherbloom Apprentice
 1 Forest
+1 Witherbloom Apprentice
 1 Chain of Smog
-2 Sylvan Library
 2 Witherbloom Apprentice
+2 Sylvan Library
 2 Chain of Smog
-3 Witherbloom Apprentice
 3 Veil of Summer
 3 Chain of Smog
+3 Witherbloom Apprentice
 4 Witherbloom Apprentice
 4 Chain of Smog
 1 Young Pyromancer
