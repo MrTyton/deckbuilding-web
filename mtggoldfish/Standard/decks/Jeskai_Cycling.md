@@ -67,7 +67,7 @@
 |                    3|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)      |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)       |
 |                    3|[Imposing Vantasaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479537)  |                    3|[Shredded Sails](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479656)       |
 |                    3|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)            |                    4|[Shredded Sails](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479656)       |
-|                    4|[Imposing Vantasaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479537)  |                    4|[Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977)         |
-|                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)      |                     |                                                                                                |
+|                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)      |                    4|[Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977)         |
 |                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |                                                                                                |
+|                    4|[Imposing Vantasaur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479537)  |                     |                                                                                                |
 

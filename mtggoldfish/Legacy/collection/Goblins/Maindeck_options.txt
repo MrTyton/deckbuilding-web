@@ -51,19 +51,19 @@
 1 Fireflux Squad
 1 Legion Warboss
 2 Shatterskull Smashing
-2 Trinisphere
-2 Blood Moon
-2 Simian Spirit Guide
 2 Magus of the Moon
+2 Blood Moon
+2 Trinisphere
+2 Simian Spirit Guide
 2 Fireflux Squad
 2 Legion Warboss
 3 Shatterskull Smashing
+3 Blood Moon
 3 Simian Spirit Guide
 3 Legion Warboss
 3 Fireflux Squad
 3 City of Traitors
 3 Trinisphere
-3 Blood Moon
 4 Simian Spirit Guide
 4 Legion Warboss
 4 Fireflux Squad
@@ -110,20 +110,15 @@
 3 Goblin Warchief
 1 Masked Vandal
 4 Magus of the Moon
-1 Nurturing Peatland
 1 Swamp
 1 Lightning Crafter
+1 Nurturing Peatland
 1 Goblin King
 1 Grenzo, Havoc Raiser
 1 Goblin Settler
 1 Mogg Fanatic
 2 Karakas
 3 Scalding Tarn
-1 Gaea's Cradle
-1 Priest of Forgotten Gods
-1 Phyrexian Tower
-2 Priest of Forgotten Gods
-4 Mogg War Marshal
 1 Fury
 2 Fury
 3 Fury
@@ -134,5 +129,10 @@
 1 Blade Historian
 2 Abrade
 2 Blade Historian
-4 Blade Historian
 3 Blade Historian
+4 Blade Historian
+1 Gaea's Cradle
+1 Priest of Forgotten Gods
+1 Phyrexian Tower
+4 Mogg War Marshal
+2 Priest of Forgotten Gods

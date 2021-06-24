@@ -72,9 +72,9 @@
 2 Cast Out
 2 Replenish
 2 Lay Claim
+3 Cast Out
 3 Lay Claim
 3 Replenish
-3 Cast Out
 3 Wasteland
 1 Sylvan Library
 1 Timeless Dragon
@@ -198,8 +198,8 @@
 2 Trial of Ambition
 3 Omen of the Sea
 3 Narset, Parter of Veils
-1 Rest in Peace
 1 Helm of Obedience
+1 Rest in Peace
 2 Rest in Peace
 2 Helm of Obedience
 3 Rest in Peace
@@ -211,6 +211,28 @@
 1 Court of Cunning
 2 Court of Cunning
 3 Court of Cunning
+1 Abrupt Decay
+1 Mox Diamond
+1 Tranquil Thicket
+1 Lonely Sandbar
+1 Verdant Catacombs
+1 Forest
+1 Bojuka Bog
+1 Crop Rotation
+1 Life from the Loam
+1 Field of the Dead
+1 Bayou
+2 Abrupt Decay
+2 Mox Diamond
+2 Life from the Loam
+2 Field of the Dead
+3 Abrupt Decay
+3 Mox Diamond
+3 Life from the Loam
+4 Abrupt Decay
+4 Wasteland
+4 Uro, Titan of Nature's Wrath
+4 Mox Diamond
 1 Phyrexian Dreadnought
 1 Stifle
 1 Murktide Regent
@@ -224,28 +246,6 @@
 4 Stifle
 4 Daze
 4 Ragavan, Nimble Pilferer
-1 Mox Diamond
-1 Tranquil Thicket
-1 Verdant Catacombs
-1 Forest
-1 Bojuka Bog
-1 Life from the Loam
-1 Crop Rotation
-1 Field of the Dead
-1 Bayou
-1 Abrupt Decay
-1 Lonely Sandbar
-2 Mox Diamond
-2 Life from the Loam
-2 Abrupt Decay
-2 Field of the Dead
-3 Mox Diamond
-3 Life from the Loam
-3 Abrupt Decay
-4 Wasteland
-4 Uro, Titan of Nature's Wrath
-4 Mox Diamond
-4 Abrupt Decay
 1 Impulse
 1 Bonecrusher Giant
 1 Burst Lightning
@@ -262,9 +262,9 @@
 3 Brazen Borrower
 3 Faerie Conclave
 3 Burst Lightning
+4 Snapcaster Mage
 4 Lightning Bolt
 4 Mishra's Factory
-4 Snapcaster Mage
 4 Bonecrusher Giant
 4 Volcanic Island
 4 Faerie Conclave
