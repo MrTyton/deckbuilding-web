@@ -68,8 +68,8 @@
 1 Path to Exile
 2 Path to Exile
 4 Brushland
-2 Horizon Canopy
 2 Razorverge Thicket
+2 Horizon Canopy
 3 Razorverge Thicket
 4 Razorverge Thicket
 2 Snakeskin Veil
@@ -80,20 +80,20 @@
 1 Lightning Bolt
 1 Plains
 1 Winding Constrictor
-2 Nurturing Peatland
 2 Winding Constrictor
+2 Nurturing Peatland
 3 Winding Constrictor
 4 Winding Constrictor
 1 Fatal Push
 2 Fatal Push
-1 Windswept Heath
 1 Utopia Sprawl
+1 Windswept Heath
 2 Utopia Sprawl
 2 Windswept Heath
 3 Utopia Sprawl
 3 Windswept Heath
-4 Windswept Heath
 4 Utopia Sprawl
+4 Windswept Heath
 1 Sorcerous Spyglass
 1 Relic of Progenitus
 2 Goblin Bombardment
@@ -104,11 +104,11 @@
 2 Copperline Gorge
 3 Copperline Gorge
 1 Temple Garden
-1 Wooded Foothills
 1 Mountain
+1 Wooded Foothills
 1 Showdown of the Skalds
-2 Lightning Bolt
 2 Wooded Foothills
+2 Lightning Bolt
 2 Showdown of the Skalds
 3 Wooded Foothills
 3 Showdown of the Skalds
@@ -117,31 +117,25 @@
 1 Thoughtseize
 2 Thoughtseize
 2 Swamp
-3 Overgrown Tomb
 3 Thoughtseize
+3 Overgrown Tomb
 4 Thoughtseize
 1 Botanical Sanctum
-1 Emry, Lurker of the Loch
 1 Island
+1 Emry, Lurker of the Loch
 1 Yavimaya Coast
 1 Barkchannel Pathway
-2 Island
-2 Emry, Lurker of the Loch
 2 Botanical Sanctum
-2 Spellskite
+2 Island
 2 Springleaf Drum
+2 Emry, Lurker of the Loch
+2 Spellskite
 2 Barkchannel Pathway
-3 Emry, Lurker of the Loch
 3 Springleaf Drum
 3 Barkchannel Pathway
-4 Emry, Lurker of the Loch
+3 Emry, Lurker of the Loch
 4 Barkchannel Pathway
-1 Sparring Construct
-2 Sparring Construct
-3 Blooming Marsh
-3 Sparring Construct
-4 Blooming Marsh
-4 Sparring Construct
+4 Emry, Lurker of the Loch
 1 Prismatic Vista
 1 Verdant Catacombs
 2 Verdant Catacombs
@@ -152,14 +146,20 @@
 4 Animation Module
 1 Arcbound Mouser
 2 Arcbound Mouser
-3 Horizon Canopy
 3 Arcbound Mouser
+3 Horizon Canopy
 3 Throne of Geth
 4 Horizon Canopy
 4 Throne of Geth
 2 Plains
 3 Path to Exile
 4 Branchloft Pathway
+1 Sparring Construct
+2 Sparring Construct
+3 Sparring Construct
+3 Blooming Marsh
+4 Sparring Construct
+4 Blooming Marsh
 1 Dismember
 3 Darksteel Citadel
 4 Darksteel Citadel

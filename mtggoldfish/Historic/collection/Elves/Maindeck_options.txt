@@ -1,7 +1,7 @@
 2 Overgrown Tomb
 2 Darkbore Pathway
-3 Darkbore Pathway
 3 Overgrown Tomb
+3 Darkbore Pathway
 4 Darkbore Pathway
 2 Elvish Visionary
 4 Castle Garenbrig
@@ -126,6 +126,8 @@
 11 Swamp
 12 Swamp
 1 Vivien, Arkbow Ranger
+1 Wildborn Preserver
+2 Wildborn Preserver
 1 Pelt Collector
 2 Pelt Collector
 1 Elderfang Disciple
@@ -133,18 +135,22 @@
 1 Necroblossom Snarl
 1 Skemfar Elderhall
 2 Necroblossom Snarl
-1 Wildborn Preserver
-2 Wildborn Preserver
 1 Fauna Shaman
 2 Fauna Shaman
-1 Sunpetal Grove
 1 Plains
+1 Sunpetal Grove
 2 Sunpetal Grove
 3 Sunpetal Grove
 2 Turntimber Symbiosis
 3 Turntimber Symbiosis
 3 Growing Rites of Itlimoc
 4 Realmwalker
+1 Woodland Cemetery
+1 Fiend Artisan
+2 Woodland Cemetery
+2 Fiend Artisan
+3 Woodland Cemetery
+4 Woodland Cemetery
 1 Ghalta, Primal Hunger
 1 Carnage Tyrant
 1 Return of the Wildspeaker
@@ -153,12 +159,6 @@
 2 Unclaimed Territory
 3 Unclaimed Territory
 4 Unclaimed Territory
-1 Fiend Artisan
-1 Woodland Cemetery
-2 Fiend Artisan
-2 Woodland Cemetery
-3 Woodland Cemetery
-4 Woodland Cemetery
 1 Grafdigger's Cage
 1 Primal Might
 1 Questing Beast
@@ -168,16 +168,16 @@
 3 Faceless Haven
 4 Faceless Haven
 4 Blizzard Brawl
+1 Lovestruck Beast
+1 Rishkar, Peema Renegade
 1 Containment Breach
 1 Elven Bow
 1 Tangletrap
-1 Rishkar, Peema Renegade
 1 Elderleaf Mentor
 1 Silhana Wayfinder
 1 Wren's Run Vanquisher
 1 Woodland Champion
 1 Devouring Tendrils
-1 Lovestruck Beast
 1 Charge of the Forever-Beast
 1 Skyway Sniper
 1 Oakhame Ranger

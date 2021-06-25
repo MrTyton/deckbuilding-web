@@ -101,27 +101,27 @@
 3 Hallowed Fountain
 1 Field of Ruin
 1 Hengegate Pathway
-2 Field of Ruin
 2 Island
+2 Field of Ruin
 2 Hengegate Pathway
 3 Seachrome Coast
 3 Field of Ruin
 3 Hengegate Pathway
-4 Flickerwisp
-4 Field of Ruin
 4 Seachrome Coast
+4 Field of Ruin
+4 Hallowed Fountain
 4 Elite Spellbinder
 4 Hengegate Pathway
-4 Hallowed Fountain
+4 Flickerwisp
 6 Plains
 1 Sanctum Prelate
 1 Seasoned Pyromancer
 1 Reflecting Pool
 1 Horizon Canopy
-1 Maul of the Skyclaves
-1 Thalia, Guardian of Thraben
-1 Batterskull
 1 Sword of Fire and Ice
+1 Batterskull
+1 Thalia, Guardian of Thraben
+1 Maul of the Skyclaves
 1 Stoneforge Mystic
 2 Thalia, Guardian of Thraben
 2 Stoneforge Mystic
@@ -130,8 +130,8 @@
 4 Stoneforge Mystic
 4 Thalia, Guardian of Thraben
 1 Scavenging Ooze
-1 Birds of Paradise
 1 Wooded Foothills
+1 Birds of Paradise
 2 Wooded Foothills
 2 Birds of Paradise
 3 Wooded Foothills
@@ -145,11 +145,11 @@
 1 Avalanche Riders
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
-1 Vendilion Clique
 1 Mutavault
+1 Vendilion Clique
 1 Spellstutter Sprite
-2 Vendilion Clique
 2 Mutavault
+2 Vendilion Clique
 2 Spellstutter Sprite
 3 Spellstutter Sprite
 3 Mutavault
@@ -158,15 +158,6 @@
 1 Force of Negation
 2 Force of Negation
 4 Ice-Fang Coatl
-1 Oath of Nissa
-1 Archon of Emeria
-2 Oath of Nissa
-2 Prismatic Ending
-2 Horizon Canopy
-3 Prismatic Ending
-3 Oath of Nissa
-4 Razorverge Thicket
-4 Oath of Nissa
 1 Mulldrifter
 1 Flametongue Yearling
 1 Sulfur Falls
@@ -178,91 +169,100 @@
 2 Sulfur Falls
 2 Clifftop Retreat
 3 Scalding Tarn
+3 Militia Bugler
 3 Raugrin Triome
 3 Flametongue Yearling
 3 Clifftop Retreat
-3 Militia Bugler
 4 Scalding Tarn
 4 Clifftop Retreat
 4 Flametongue Yearling
 1 Omnath, Locus of Creation
 2 Omnath, Locus of Creation
+3 Omnath, Locus of Creation
 3 Wall of Blossoms
 3 Snow-Covered Forest
-3 Omnath, Locus of Creation
 4 Wooded Foothills
 4 Birds of Paradise
 4 Wall of Blossoms
 1 Esper Sentinel
+1 Kaldra Compleat
+1 Inspiring Vantage
 1 Eidolon of Rhetoric
 1 Marsh Flats
 1 Savai Triome
-1 Kaldra Compleat
-1 Inspiring Vantage
 1 Tectonic Edge
 2 Esper Sentinel
+2 Inspiring Vantage
 2 Marsh Flats
 2 Tectonic Edge
 2 Sacred Foundry
-2 Inspiring Vantage
-3 Sacred Foundry
-3 Esper Sentinel
 3 Inspiring Vantage
+3 Esper Sentinel
 3 Tectonic Edge
+3 Sacred Foundry
 3 Marsh Flats
-4 Esper Sentinel
 4 Marsh Flats
+4 Esper Sentinel
 4 Inspiring Vantage
 4 Tectonic Edge
+1 Archon of Emeria
+1 Oath of Nissa
+2 Prismatic Ending
+2 Oath of Nissa
+2 Horizon Canopy
+3 Prismatic Ending
+3 Oath of Nissa
+4 Razorverge Thicket
+4 Oath of Nissa
 4 Soulherder
+1 Phyrexian Revoker
 1 Verdant Catacombs
 1 Botanical Sanctum
-1 Phyrexian Revoker
 1 Reveillark
 1 Time Warp
 1 Lavinia of the Tenth
 2 Gaddock Teeg
 1 Coiling Oracle
 2 Coiling Oracle
-1 Cavern of Souls
-2 Cavern of Souls
-3 Cavern of Souls
 1 Sunpetal Grove
 1 Collected Company
 2 Collected Company
 3 Collected Company
-1 Darkslick Shores
-1 Swamp
-1 Watery Grave
-1 Sunken Ruins
-1 Tidehollow Sculler
-1 Inverter of Truth
-1 Thassa's Oracle
-1 Silent Clearing
-1 Concealed Courtyard
-1 Niambi, Esteemed Speaker
-1 Godless Shrine
-2 Sunken Ruins
-2 Thraben Inspector
-2 Concealed Courtyard
-2 Thassa's Oracle
-2 Silent Clearing
-2 Tidehollow Sculler
-2 Godless Shrine
-2 Inverter of Truth
-3 Tidehollow Sculler
-3 Concealed Courtyard
-3 Thassa's Oracle
-3 Godless Shrine
-3 Inverter of Truth
-4 Tidehollow Sculler
-4 Thassa's Oracle
-4 Inverter of Truth
+1 Cavern of Souls
+2 Cavern of Souls
+3 Cavern of Souls
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Forest
 3 Utopia Sprawl
 4 Utopia Sprawl
+1 Swamp
+1 Concealed Courtyard
+1 Tidehollow Sculler
+1 Inverter of Truth
+1 Thassa's Oracle
+1 Silent Clearing
+1 Watery Grave
+1 Niambi, Esteemed Speaker
+1 Godless Shrine
+1 Darkslick Shores
+1 Sunken Ruins
+2 Concealed Courtyard
+2 Thraben Inspector
+2 Thassa's Oracle
+2 Silent Clearing
+2 Sunken Ruins
+2 Tidehollow Sculler
+2 Godless Shrine
+2 Inverter of Truth
+3 Concealed Courtyard
+3 Thassa's Oracle
+3 Godless Shrine
+3 Tidehollow Sculler
+3 Inverter of Truth
+4 Thassa's Oracle
+4 Inverter of Truth
+4 Tidehollow Sculler
 5 Snow-Covered Plains
 1 Brazen Borrower
 4 Mutavault

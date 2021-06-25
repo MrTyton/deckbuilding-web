@@ -39,26 +39,27 @@
 1 Mirror Shield
 2 Mirror Shield
 1 Tyvar Kell
-1 Ugin, the Spirit Dragon
 1 Moment of Craving
+1 Ugin, the Spirit Dragon
 1 Nissa, Who Shakes the World
 1 Elvish Visionary
 1 The Great Henge
-1 Weathered Runestone
 1 Meteor Golem
 1 Gemrazer
+1 Weathered Runestone
 1 Sentinel Totem
 1 Rampage of the Clans
 1 End-Raze Forerunners
 1 God-Eternal Rhonas
-1 Noxious Grasp
-1 Maelstrom Pulse
-2 Noxious Grasp
-2 Maelstrom Pulse
 1 Vivien, Monsters' Advocate
 1 Vivien Reid
 2 Vivien, Monsters' Advocate
 1 Kogla, the Titan Ape
+1 Realmwalker
+1 Soul-Guide Lantern
+2 Kogla, the Titan Ape
+2 Soul-Guide Lantern
+2 Realmwalker
 1 Incubation Druid
 1 Pelt Collector
 1 Primal Might
@@ -66,11 +67,10 @@
 1 Boreal Outrider
 2 Boreal Outrider
 2 Incubation Druid
-1 Realmwalker
-1 Soul-Guide Lantern
-2 Kogla, the Titan Ape
-2 Soul-Guide Lantern
-2 Realmwalker
+1 Noxious Grasp
+1 Maelstrom Pulse
+2 Noxious Grasp
+2 Maelstrom Pulse
 1 Titanoth Rex
 1 Carnage Tyrant
 1 Treeshaker Chimera
@@ -80,10 +80,13 @@
 1 Rhonas the Indomitable
 2 Nissa, Who Shakes the World
 3 Wildborn Preserver
-2 Skysovereign, Consul Flagship
-3 Scavenging Ooze
-3 Toski, Bearer of Secrets
-4 Scavenging Ooze
+1 Questing Beast
+1 Run Afoul
+2 Questing Beast
+2 Run Afoul
+3 Questing Beast
+3 Shifting Ceratops
+4 Shifting Ceratops
 1 Reidane, God of the Worthy
 1 Baffling End
 2 Reidane, God of the Worthy
@@ -92,13 +95,14 @@
 3 Baffling End
 3 Rest in Peace
 4 Reidane, God of the Worthy
-1 Questing Beast
-1 Run Afoul
-2 Run Afoul
-2 Questing Beast
-3 Questing Beast
-3 Shifting Ceratops
-4 Shifting Ceratops
+1 Skyclave Shade
+1 Fatal Push
+2 Skyclave Shade
+2 Fatal Push
+3 Skyclave Shade
+3 Leyline of the Void
+4 Skyclave Shade
+4 Leyline of the Void
 1 Imperious Perfect
 1 Allosaurus Shepherd
 1 Arbor Armament
@@ -127,14 +131,10 @@
 2 Elvish Visionary
 3 Beast Whisperer
 4 Reclamation Sage
-1 Fatal Push
-1 Skyclave Shade
-2 Fatal Push
-2 Skyclave Shade
-3 Leyline of the Void
-3 Skyclave Shade
-4 Leyline of the Void
-4 Skyclave Shade
+2 Skysovereign, Consul Flagship
+3 Scavenging Ooze
+3 Toski, Bearer of Secrets
+4 Scavenging Ooze
 1 In Search of Greatness
 1 Primal Command
 1 Harmonize
