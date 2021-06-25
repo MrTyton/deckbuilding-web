@@ -94,8 +94,8 @@
 2 Birds of Paradise
 1 Scrubland
 4 Unclaimed Territory
-1 Tomik, Distinguished Advokist
 1 Imperial Recruiter
+1 Tomik, Distinguished Advokist
 1 Waterlogged Grove
 1 Grist, the Hunger Tide
 4 Ice-Fang Coatl
@@ -107,9 +107,9 @@
 1 Archon of Emeria
 1 Drownyard Temple
 1 Glacial Chasm
+1 Sejiri Steppe
 1 Vesuva
 1 Mox Diamond
-1 Sejiri Steppe
 2 Valakut, the Molten Pinnacle
 2 Dryad of the Ilysian Grove
 2 Archon of Emeria
@@ -183,18 +183,18 @@
 1 True-Name Nemesis
 1 Unearth
 1 Cabal Therapy
-1 Sea Gate Stormcaller
 1 Drown in the Loch
 1 Snapcaster Mage
+1 Sea Gate Stormcaller
 1 Heliod, Sun-Crowned
 1 Nimble Obstructionist
 1 Neoform
 1 Spike Feeder
 2 Drown in the Loch
-2 Snapcaster Mage
 2 True-Name Nemesis
-2 Unearth
+2 Snapcaster Mage
 2 Sea Gate Stormcaller
+2 Unearth
 2 Cabal Therapy
 2 Neoform
 3 Neoform
@@ -211,6 +211,10 @@
 1 Barrin, Tolarian Archmage
 2 Esper Sentinel
 3 Esper Sentinel
+1 Vanishing Verse
+1 Jolrael, Mwonvuli Recluse
+3 Teferi, Time Raveler
+3 Windswept Heath
 1 Growth Spiral
 1 Venser, Shaper Savant
 1 Scryb Ranger
@@ -226,10 +230,6 @@
 1 Dark Depths
 1 Collector Ouphe
 3 Crop Rotation
-1 Vanishing Verse
-1 Jolrael, Mwonvuli Recluse
-3 Windswept Heath
-3 Teferi, Time Raveler
 1 Containment Priest
 1 Magus of the Moon
 2 Opposition Agent
@@ -241,8 +241,8 @@
 2 Shark Typhoon
 4 Baleful Strix
 4 Thoughtseize
-1 Progenitus
 1 Natural Order
+1 Progenitus
 1 Prismatic Vista
 1 Archon of Valor's Reach
 2 Prismatic Vista

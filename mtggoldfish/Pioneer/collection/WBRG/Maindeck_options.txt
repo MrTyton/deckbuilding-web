@@ -6,7 +6,6 @@
 2 Brazen Borrower
 3 Brazen Borrower
 4 Brazen Borrower
-1 Zareth San, the Trickster
 1 Into the Story
 1 Watery Grave
 1 Soaring Thought-Thief
@@ -14,6 +13,7 @@
 1 Drowned Catacomb
 1 Clearwater Pathway
 1 Drown in the Loch
+1 Zareth San, the Trickster
 1 Fetid Pools
 1 Notion Thief
 1 Nighthawk Scavenger
@@ -51,25 +51,25 @@
 4 Island
 5 Island
 6 Island
-1 Jwari Disruption
 1 Breeding Pool
+1 Jwari Disruption
 1 Master of Waves
 1 Risen Reef
 1 Barkchannel Pathway
 1 Nykthos, Shrine to Nyx
 1 Wizard's Retort
 1 Entrancing Melody
-1 Gadwick, the Wizened
 1 Omen of the Sea
 1 Glasspool Mimic
 1 Botanical Sanctum
 1 Merfolk Trickster
 1 Unsummon
-2 Jwari Disruption
+1 Gadwick, the Wizened
 2 Master of Waves
 2 Risen Reef
 2 Breeding Pool
 2 Entrancing Melody
+2 Jwari Disruption
 2 Barkchannel Pathway
 2 Wizard's Retort
 2 Gadwick, the Wizened
@@ -78,8 +78,8 @@
 2 Merfolk Trickster
 2 Omen of the Sea
 3 Master of Waves
-3 Risen Reef
 3 Jwari Disruption
+3 Risen Reef
 3 Entrancing Melody
 3 Barkchannel Pathway
 3 Breeding Pool
@@ -88,8 +88,8 @@
 3 Gadwick, the Wizened
 3 Botanical Sanctum
 3 Merfolk Trickster
-4 Risen Reef
 4 Jwari Disruption
+4 Risen Reef
 4 Mutavault
 4 Breeding Pool
 4 Barkchannel Pathway
@@ -158,57 +158,57 @@
 4 Reckless Bushwhacker
 4 Lightning Strike
 4 Rakdos Cackler
-1 Approach of the Second Sun
-1 Shatter the Sky
 1 Starnheim Unleashed
+1 Approach of the Second Sun
+1 Shambling Vent
 1 Isolated Chapel
-1 Humiliate
 1 Agonizing Remorse
+1 Shatter the Sky
 1 Declaration in Stone
 1 Read the Bones
 1 Bloodchief's Thirst
-1 Shambling Vent
+1 Humiliate
 2 Shambling Vent
 2 Starnheim Unleashed
-2 Shatter the Sky
-2 Humiliate
 2 Agonizing Remorse
+2 Shatter the Sky
 2 Declaration in Stone
 2 Plains
+2 Humiliate
 2 Isolated Chapel
 2 Approach of the Second Sun
 2 Bloodchief's Thirst
 2 Read the Bones
 3 Starnheim Unleashed
-3 Shatter the Sky
 3 Swamp
-3 Humiliate
+3 Godless Shrine
 3 Agonizing Remorse
+3 Shatter the Sky
 3 Bloodchief's Thirst
 3 Declaration in Stone
 3 Read the Bones
 3 Approach of the Second Sun
 3 Plains
-3 Godless Shrine
+3 Humiliate
 3 Isolated Chapel
 4 Godless Shrine
 4 Plains
 4 Swamp
-4 Humiliate
 4 Agonizing Remorse
 4 Shatter the Sky
 4 Read the Bones
 4 Isolated Chapel
 4 Declaration in Stone
 4 Approach of the Second Sun
+4 Humiliate
 4 Starnheim Unleashed
 4 Bloodchief's Thirst
 5 Plains
 5 Swamp
-6 Swamp
 6 Plains
-7 Swamp
+6 Swamp
 7 Plains
+7 Swamp
 1 Darksteel Citadel
 1 Sai, Master Thopterist
 1 Emry, Lurker of the Loch

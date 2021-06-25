@@ -1,12 +1,14 @@
-1 Branchloft Pathway
-1 Forest
-2 Razorverge Thicket
-2 Noble Hierarch
-2 Branchloft Pathway
-3 Razorverge Thicket
 3 Noble Hierarch
 4 Razorverge Thicket
 4 Noble Hierarch
+14 Snow-Covered Plains
+1 On Thin Ice
+2 On Thin Ice
+1 Stirring Wildwood
+2 Stirring Wildwood
+1 Charming Prince
+15 Snow-Covered Plains
+16 Snow-Covered Plains
 6 Plains
 1 Silent Clearing
 2 Silent Clearing
@@ -19,25 +21,23 @@
 2 Linvala, Keeper of Silence
 17 Snow-Covered Plains
 18 Snow-Covered Plains
-1 Stirring Wildwood
-2 Stirring Wildwood
-2 Charming Prince
-3 Charming Prince
-3 Silent Clearing
-4 Silent Clearing
-1 Kaldra Compleat
-1 Collected Company
-1 Gavony Township
 2 Forest
-2 Collected Company
-3 Collected Company
-1 Eiganjo Castle
 1 Elite Spellbinder
 2 Elite Spellbinder
 3 Branchloft Pathway
 4 Branchloft Pathway
 1 Temple Garden
 2 Temple Garden
+1 Gavony Township
+1 Collected Company
+2 Collected Company
+3 Collected Company
+2 Charming Prince
+3 Charming Prince
+1 Kaldra Compleat
+3 Silent Clearing
+4 Silent Clearing
+1 Eiganjo Castle
 19 Snow-Covered Plains
 1 Solitude
 2 Solitude
@@ -46,10 +46,14 @@
 3 On Thin Ice
 4 On Thin Ice
 20 Snow-Covered Plains
+3 Elite Spellbinder
+4 Elite Spellbinder
 1 Sunbaked Canyon
+3 Temple Garden
+4 Temple Garden
+3 Restoration Angel
 3 Solitude
 4 Solitude
-3 Restoration Angel
 1 Scavenging Ooze
 2 Scavenging Ooze
 1 Mishra's Factory
@@ -63,6 +67,12 @@
 1 Auriok Champion
 2 Auriok Champion
 3 Auriok Champion
+1 Oath of Nissa
+2 Oath of Nissa
+3 Oath of Nissa
+4 Oath of Nissa
+1 Brushland
+2 Brushland
 1 Skyclave Cleric
 1 Thraben Inspector
 1 Emeria's Call
@@ -77,10 +87,6 @@
 14 Plains
 15 Plains
 16 Plains
-3 Elite Spellbinder
-4 Elite Spellbinder
-3 Temple Garden
-4 Temple Garden
 1 Sword of Light and Shadow
 1 Phyrexian Revoker
 2 Phyrexian Revoker
@@ -94,21 +100,15 @@
 3 Inspiring Vantage
 4 Sunbaked Canyon
 4 Inspiring Vantage
+1 Aven Mindcensor
+2 Aven Mindcensor
 1 Winds of Abandon
 2 Winds of Abandon
 3 Winds of Abandon
-1 Brushland
 1 Spellskite
-2 Brushland
 2 Spellskite
 3 Brushland
 4 Brushland
-1 Oath of Nissa
-1 Aven Mindcensor
-2 Oath of Nissa
-2 Aven Mindcensor
-3 Oath of Nissa
-4 Oath of Nissa
 1 Ephemerate
 2 Skyclave Cleric
 2 Ephemerate
