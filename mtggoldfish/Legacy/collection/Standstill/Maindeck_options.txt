@@ -53,14 +53,14 @@
 2 Spell Snare
 2 Council's Judgment
 1 Snow-Covered Forest
-1 Uro, Titan of Nature's Wrath
 1 Tropical Island
+1 Uro, Titan of Nature's Wrath
 1 Savannah
 2 Uro, Titan of Nature's Wrath
 3 Misty Rainforest
 4 Misty Rainforest
-1 Swamp
 1 Underground Sea
+1 Swamp
 1 Back to Basics
 1 Crucible of Worlds
 1 Day's Undoing
@@ -72,15 +72,15 @@
 2 Cast Out
 2 Replenish
 2 Lay Claim
-3 Cast Out
 3 Lay Claim
 3 Replenish
+3 Cast Out
 3 Wasteland
-1 Sylvan Library
 1 Timeless Dragon
+1 Batterskull
 1 Ice-Fang Coatl
 1 Endurance
-1 Batterskull
+1 Sylvan Library
 1 Stoneforge Mystic
 2 Tropical Island
 2 Snow-Covered Forest
@@ -88,8 +88,8 @@
 2 Endurance
 2 Stoneforge Mystic
 2 Timeless Dragon
-3 Ice-Fang Coatl
 3 Stoneforge Mystic
+3 Ice-Fang Coatl
 3 Timeless Dragon
 4 Force of Negation
 1 Dovin's Veto
@@ -101,14 +101,13 @@
 1 Soul-Guide Lantern
 2 Arid Mesa
 1 Lightning Bolt
-2 Lightning Bolt
 2 Volcanic Island
+2 Lightning Bolt
 3 Volcanic Island
 4 Polluted Delta
 1 Fblthp, the Lost
-1 Marsh Flats
-1 Windswept Heath
 1 Venser, Shaper Savant
+1 Marsh Flats
 1 Palace Jailer
 1 Solitude
 1 Lavinia, Azorius Renegade
@@ -117,28 +116,29 @@
 1 Weathered Wayfarer
 1 Recruiter of the Guard
 1 Aether Vial
+1 Windswept Heath
 1 Peacekeeper
 1 Knight of the White Orchid
 1 Meddling Mage
 1 Barrin, Tolarian Archmage
-2 Marsh Flats
-2 Windswept Heath
 2 Karakas
+2 Marsh Flats
 2 Solitude
 2 Meddling Mage
 2 Brought Back
+2 Windswept Heath
 2 Fblthp, the Lost
 2 Recruiter of the Guard
 2 Aether Vial
 2 Knight of the White Orchid
 2 Weathered Wayfarer
 3 Solitude
-3 Windswept Heath
 3 Meddling Mage
 3 Weathered Wayfarer
 3 Recruiter of the Guard
 3 Brought Back
 3 Aether Vial
+3 Windswept Heath
 4 Solitude
 4 Tundra
 4 Recruiter of the Guard
@@ -147,13 +147,13 @@
 4 Meddling Mage
 1 Doomskar
 2 Mystic Sanctuary
-1 Bloodstained Mire
-1 Eliminate
+1 Baleful Strix
 1 Fatal Push
+1 Bloodstained Mire
+1 Cling to Dust
+1 Eliminate
 1 Ingenious Infiltrator
 1 Changeling Outcast
-1 Baleful Strix
-1 Cling to Dust
 1 Ornithopter
 1 Yuriko, the Tiger's Shadow
 2 Fatal Push
@@ -198,8 +198,8 @@
 2 Trial of Ambition
 3 Omen of the Sea
 3 Narset, Parter of Veils
-1 Rest in Peace
 1 Helm of Obedience
+1 Rest in Peace
 2 Rest in Peace
 2 Helm of Obedience
 3 Rest in Peace
@@ -222,30 +222,30 @@
 3 Stifle
 3 Ragavan, Nimble Pilferer
 4 Stifle
-4 Daze
 4 Ragavan, Nimble Pilferer
+4 Daze
 1 Mox Diamond
 1 Tranquil Thicket
+1 Bayou
 1 Verdant Catacombs
-1 Forest
+1 Field of the Dead
 1 Bojuka Bog
 1 Life from the Loam
 1 Crop Rotation
-1 Field of the Dead
-1 Bayou
 1 Abrupt Decay
 1 Lonely Sandbar
+1 Forest
 2 Mox Diamond
+2 Field of the Dead
 2 Life from the Loam
 2 Abrupt Decay
-2 Field of the Dead
 3 Mox Diamond
 3 Life from the Loam
 3 Abrupt Decay
-4 Wasteland
 4 Uro, Titan of Nature's Wrath
 4 Mox Diamond
 4 Abrupt Decay
+4 Wasteland
 1 Impulse
 1 Bonecrusher Giant
 1 Burst Lightning

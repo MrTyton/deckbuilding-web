@@ -6,11 +6,11 @@
 2 Mountain
 2 Wild Slash
 3 Wild Slash
-3 Mountain
 3 Legion Loyalist
+3 Mountain
 4 Mountain
-4 Legion Loyalist
 4 Wild Slash
+4 Legion Loyalist
 5 Mountain
 6 Mountain
 7 Mountain
@@ -26,8 +26,8 @@
 1 Bomat Courier
 1 Foundry Street Denizen
 1 Lightning Strike
-1 Rakdos Cackler
 1 Monastery Swiftspear
+1 Rakdos Cackler
 1 Shock
 1 Zurgo Bellstriker
 1 Burning-Tree Emissary
@@ -36,88 +36,28 @@
 2 Bomat Courier
 2 Foundry Street Denizen
 2 Reckless Bushwhacker
+2 Lightning Strike
 2 Shock
 2 Burning-Tree Emissary
 2 Monastery Swiftspear
-2 Lightning Strike
 2 Ramunap Ruins
 2 Rakdos Cackler
 3 Bomat Courier
+3 Monastery Swiftspear
 3 Burning-Tree Emissary
-3 Foundry Street Denizen
 3 Lightning Strike
+3 Foundry Street Denizen
 3 Reckless Bushwhacker
 3 Ramunap Ruins
-3 Monastery Swiftspear
 3 Rakdos Cackler
 4 Bomat Courier
 4 Burning-Tree Emissary
-4 Rakdos Cackler
 4 Reckless Bushwhacker
 4 Foundry Street Denizen
 4 Lightning Strike
 4 Monastery Swiftspear
+4 Rakdos Cackler
 4 Ramunap Ruins
-1 Breeding Pool
-1 Jwari Disruption
-1 Master of Waves
-1 Risen Reef
-1 Barkchannel Pathway
-1 Mutavault
-1 Nykthos, Shrine to Nyx
-1 Wizard's Retort
-1 Entrancing Melody
-1 Brazen Borrower
-1 Unsummon
-1 Gadwick, the Wizened
-1 Botanical Sanctum
-1 Glasspool Mimic
-1 Merfolk Trickster
-1 Island
-1 Omen of the Sea
-2 Master of Waves
-2 Risen Reef
-2 Breeding Pool
-2 Mutavault
-2 Entrancing Melody
-2 Jwari Disruption
-2 Barkchannel Pathway
-2 Wizard's Retort
-2 Brazen Borrower
-2 Omen of the Sea
-2 Island
-2 Merfolk Trickster
-2 Gadwick, the Wizened
-2 Unsummon
-2 Botanical Sanctum
-3 Master of Waves
-3 Jwari Disruption
-3 Risen Reef
-3 Entrancing Melody
-3 Mutavault
-3 Barkchannel Pathway
-3 Breeding Pool
-3 Brazen Borrower
-3 Botanical Sanctum
-3 Merfolk Trickster
-3 Wizard's Retort
-3 Unsummon
-3 Gadwick, the Wizened
-3 Island
-4 Jwari Disruption
-4 Risen Reef
-4 Mutavault
-4 Breeding Pool
-4 Barkchannel Pathway
-4 Botanical Sanctum
-4 Brazen Borrower
-4 Unsummon
-4 Entrancing Melody
-4 Island
-4 Merfolk Trickster
-4 Gadwick, the Wizened
-5 Island
-6 Island
 1 Goblin Rabblemaster
 1 Goblin Chainwhirler
 1 Goblin Piledriver
@@ -139,16 +79,16 @@
 3 Goblin Ringleader
 3 Conspicuous Snoop
 3 Goblin Chainwhirler
-3 Fanatical Firebrand
 3 Castle Embereth
 3 Frenzied Goblin
+3 Fanatical Firebrand
 3 Goblin Piledriver
 4 Conspicuous Snoop
-4 Goblin Warchief
 4 Goblin Chainwhirler
 4 Goblin Piledriver
-4 Frenzied Goblin
 4 Fanatical Firebrand
+4 Frenzied Goblin
+4 Goblin Warchief
 4 Castle Embereth
 17 Mountain
 18 Mountain

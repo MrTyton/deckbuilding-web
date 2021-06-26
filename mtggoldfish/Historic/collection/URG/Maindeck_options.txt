@@ -1,33 +1,33 @@
 3 Steam Vents
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-3 Stomping Ground
 3 Hinterland Harbor
+3 Stomping Ground
 2 Sublime Epiphany
-1 Quandrix Command
 3 Bonecrusher Giant
+1 Quandrix Command
 4 Stomping Ground
-1 Botanical Sanctum
 4 Bonecrusher Giant
+1 Botanical Sanctum
 4 Steam Vents
-2 Botanical Sanctum
 1 Fabled Passage
 2 Fabled Passage
 1 Brainstorm
 2 Brainstorm
 3 Brainstorm
+2 Botanical Sanctum
 3 Botanical Sanctum
 4 Botanical Sanctum
 1 Rootbound Crag
 1 Mountain
-1 Abundant Harvest
 3 Fabled Passage
 1 Paradise Druid
 2 Paradise Druid
+1 Abundant Harvest
+2 Forest
+4 Brainstorm
 2 Abundant Harvest
 3 Abundant Harvest
-4 Brainstorm
-2 Forest
 3 Paradise Druid
 1 Glasspool Mimic
 1 Neoform
@@ -47,8 +47,6 @@
 4 Glasspool Mimic
 4 Dualcaster Mage
 4 Neoform
-4 Abundant Harvest
-4 Paradise Druid
 1 Sulfur Falls
 1 Glorybringer
 2 Glorybringer
@@ -65,6 +63,7 @@
 1 Kasmina, Enigma Sage
 2 The Royal Scions
 2 Kasmina, Enigma Sage
+4 Paradise Druid
 2 Rootbound Crag
 3 Kasmina, Enigma Sage
 3 The Royal Scions
@@ -76,54 +75,53 @@
 3 Heart of Kiran
 1 Rekindling Phoenix
 2 Rekindling Phoenix
-2 Quandrix Command
+4 Abundant Harvest
 2 Tuktuk Rubblefort
+2 Quandrix Command
+1 Prismari Command
 1 Opt
 2 Opt
 1 Spirebluff Canal
 2 Spirebluff Canal
 1 Reckless Rage
-1 Dragonsguard Elite
-1 Dreadhorde Arcanist
 1 Snakeskin Veil
-2 Reckless Rage
-2 Dragonsguard Elite
-2 Dreadhorde Arcanist
-2 Snakeskin Veil
-3 Dreadhorde Arcanist
-3 Dragonsguard Elite
-4 Dragonsguard Elite
-1 Stormwing Entity
-2 Stormwing Entity
-3 Stormwing Entity
+1 Dragonsguard Elite
 1 Domri's Ambush
+1 Dreadhorde Arcanist
+1 Stormwing Entity
+2 Reckless Rage
+2 Snakeskin Veil
+2 Dragonsguard Elite
 2 Domri's Ambush
+2 Stormwing Entity
+2 Dreadhorde Arcanist
 3 Reckless Rage
-3 Snakeskin Veil
-1 Prismari Command
+3 Dragonsguard Elite
+3 Stormwing Entity
+3 Dreadhorde Arcanist
+4 Dragonsguard Elite
+3 Spirebluff Canal
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Soul-Scar Mage
-4 Dreadhorde Arcanist
-4 Soul-Scar Mage
-3 Spirebluff Canal
 4 Spirebluff Canal
+4 Soul-Scar Mage
+4 Dreadhorde Arcanist
+3 Snakeskin Veil
 1 Spell Pierce
 2 Spell Pierce
 3 Spell Pierce
-4 Reckless Rage
 3 Domri's Ambush
+4 Reckless Rage
 4 Stormwing Entity
 1 Pact of Negation
 2 Sulfur Falls
 1 Rhonas the Indomitable
-3 Opt
 1 Frilled Mystic
 2 Frilled Mystic
 1 Valakut Awakening
 1 Expressive Iteration
 2 Expressive Iteration
-4 Snakeskin Veil
 1 Gilded Goose
 2 Gilded Goose
 3 Gilded Goose
@@ -136,6 +134,7 @@
 3 Hieroglyphic Illumination
 4 Hieroglyphic Illumination
 3 Castle Vantress
+3 Opt
 1 Scavenging Ooze
 1 Teferi, Master of Time
 3 Expressive Iteration
@@ -188,9 +187,9 @@
 1 Port of Karfell
 1 Eliminate
 1 Deathsprout
+2 Port of Karfell
 2 Jwari Disruption
 2 Eliminate
-2 Port of Karfell
 2 Deathsprout
 3 Eliminate
 3 Sublime Epiphany
@@ -202,6 +201,7 @@
 2 Wall of Blossoms
 4 Servant of the Conduit
 3 Island
+4 Snakeskin Veil
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
 3 Nissa, Who Shakes the World
@@ -222,12 +222,6 @@
 3 Sarkhan the Masterless
 1 Relic of Progenitus
 4 Glorybringer
-1 Sprite Dragon
-2 Sprite Dragon
-3 Sprite Dragon
-4 Sprite Dragon
-1 Lightning Strike
-2 Lightning Strike
 4 Nissa, Who Shakes the World
 1 Heartless Act
 2 Heartless Act
@@ -237,25 +231,20 @@
 1 Frostboil Snarl
 2 Teferi, Master of Time
 2 Relic of Progenitus
-1 Silundi Vision
 1 Lotus Cobra
+1 Silundi Vision
 1 Dual Strike
 2 Silundi Vision
-2 Pact of Negation
 2 Lotus Cobra
+2 Pact of Negation
 2 Dual Strike
 3 Anticipate
 1 Electrolyze
 2 Censor
 4 Sulfur Falls
-1 Decisive Denial
-2 Decisive Denial
-1 Pillar of Flame
-2 Pillar of Flame
-3 Quandrix Command
 1 Behold the Multiverse
-1 Genesis Ultimatum
 1 Ulamog, the Ceaseless Hunger
+1 Genesis Ultimatum
 1 Ugin, the Spirit Dragon
 1 Glimmer of Genius
 1 Woodweaver's Puzzleknot
@@ -268,16 +257,17 @@
 2 Prismari Command
 1 Brineborn Cutthroat
 2 Brineborn Cutthroat
+1 Lightning Strike
+2 Lightning Strike
 3 Heartless Act
 4 Zagoth Triome
-3 Lightning Strike
 3 Rootbound Crag
 2 Mystical Dispute
 1 Hydroid Krasis
 1 Shatterskull Smashing
+1 Mizzix's Mastery
 1 Expansion/Explosion
 1 Arasta of the Endless Web
-1 Mizzix's Mastery
 2 Mizzix's Mastery
 1 Chandra, Awakened Inferno
 1 Baleful Mastery
@@ -286,13 +276,12 @@
 1 Anger of the Gods
 1 Shifting Ceratops
 2 Anger of the Gods
-1 Atarka's Command
-2 Atarka's Command
 1 Sweltering Suns
 2 Sweltering Suns
+1 Pillar of Flame
 1 Finale of Promise
+2 Pillar of Flame
 2 Finale of Promise
-2 Behold the Multiverse
 1 Karn, the Great Creator
 1 Magma Spray
 2 Karn, the Great Creator
@@ -301,6 +290,8 @@
 1 Fauna Shaman
 2 Solve the Equation
 3 Wall of Blossoms
+2 Behold the Multiverse
+3 Quandrix Command
 3 Censor
 3 Abrade
 1 Flame Sweep
@@ -335,31 +326,31 @@
 2 Saw It Coming
 3 Saw It Coming
 4 Overgrown Tomb
+1 Decisive Denial
+1 Sprite Dragon
+2 Decisive Denial
+2 Sprite Dragon
+3 Sprite Dragon
 4 Opt
-1 Blitz of the Thunder-Raptor
-1 Shock
-2 Shock
-3 Shock
-4 Shock
-4 Lightning Strike
+4 Sprite Dragon
 4 Heart of Kiran
 1 Seal Away
-1 Sunpetal Grove
-1 Irrigated Farmland
 1 Hallowed Fountain
 1 Plains
+1 Irrigated Farmland
 1 Glacial Fortress
 1 Scattered Groves
-1 Teferi, Hero of Dominaria
+1 Sunpetal Grove
 1 Rest in Peace
 1 Cast Out
+1 Teferi, Hero of Dominaria
 1 Negate
 1 Temple Garden
-2 Sunpetal Grove
 2 Seal Away
+2 Hydroid Krasis
 2 Glacial Fortress
 2 Hallowed Fountain
-2 Hydroid Krasis
+2 Sunpetal Grove
 2 Temple Garden
 2 Negate
 3 Shark Typhoon
@@ -367,9 +358,9 @@
 3 Hallowed Fountain
 3 Glacial Fortress
 3 Temple Garden
-4 Temple Garden
 4 Hinterland Harbor
 4 Shark Typhoon
+4 Temple Garden
 1 Lovestruck Beast
 1 The Great Henge
 1 Champion of Wits
@@ -379,6 +370,7 @@
 2 Champion of Wits
 2 Edgewall Innkeeper
 3 Lovestruck Beast
+3 Lightning Strike
 3 Edgewall Innkeeper
 4 Lovestruck Beast
 4 Edgewall Innkeeper

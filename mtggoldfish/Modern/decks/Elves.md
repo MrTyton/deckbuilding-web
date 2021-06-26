@@ -110,6 +110,6 @@
 |                    3|[Elvish Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129534)       |                    1|Endurance                                                                                          |
 |                    4|[Elvish Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129534)       |                    2|Endurance                                                                                          |
 |                     |                                                                                                 |                    2|Grist, the Hunger Tide                                                                             |
-|                     |                                                                                                 |                    4|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)          |
 |                     |                                                                                                 |                    3|Grist, the Hunger Tide                                                                             |
+|                     |                                                                                                 |                    4|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)          |
 
