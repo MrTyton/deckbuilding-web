@@ -1,8 +1,9 @@
 3 Fabled Passage
 4 Fabled Passage
+4 Island
+1 Castle Ardenvale
 1 Narset, Parter of Veils
 1 Teferi, Hero of Dominaria
-1 Castle Ardenvale
 2 Teferi, Hero of Dominaria
 2 Narset, Parter of Veils
 3 Teferi, Hero of Dominaria
@@ -18,16 +19,15 @@
 3 Narset, Parter of Veils
 1 Field of Ruin
 1 Saw It Coming
-4 Island
 1 Baffling End
 2 Baffling End
-3 Baffling End
-1 Commit/Memory
 1 Memory Lapse
 2 Memory Lapse
 3 Memory Lapse
-1 Castle Vantress
+3 Baffling End
+1 Commit/Memory
 4 Memory Lapse
+1 Castle Vantress
 4 Brainstorm
 2 Saw It Coming
 2 Wrath of God
@@ -59,14 +59,14 @@
 4 Shark Typhoon
 3 All That Glitters
 2 Doomskar
-2 Seal Away
 5 Island
+2 Seal Away
 1 Absorb
+4 Hengegate Pathway
 4 Wrath of God
 6 Island
 2 Absorb
 1 Dream Trawler
-4 Hengegate Pathway
 1 Dovin's Veto
 2 Commit/Memory
 3 Castle Ardenvale
@@ -74,6 +74,43 @@
 3 Saw It Coming
 4 Saw It Coming
 2 Grafdigger's Cage
+1 Blinkmoth Nexus
+1 Nebelgast Herald
+1 Elite Spellbinder
+1 Ancient Ziggurat
+1 Watcher of the Spheres
+1 Empyrean Eagle
+1 Rattlechains
+1 Supreme Phantom
+1 Hanged Executioner
+1 Shacklegeist
+1 Spectral Sailor
+2 Blinkmoth Nexus
+2 Nebelgast Herald
+2 Elite Spellbinder
+2 Watcher of the Spheres
+2 Rattlechains
+2 Shacklegeist
+2 Empyrean Eagle
+2 Hanged Executioner
+2 Supreme Phantom
+2 Spectral Sailor
+3 Blinkmoth Nexus
+3 Spectral Sailor
+3 Elite Spellbinder
+3 Shacklegeist
+3 Empyrean Eagle
+3 Supreme Phantom
+3 Rattlechains
+3 Watcher of the Spheres
+4 Spectral Sailor
+4 Shacklegeist
+4 Blinkmoth Nexus
+4 Elite Spellbinder
+4 Empyrean Eagle
+4 Supreme Phantom
+4 Rattlechains
+4 Watcher of the Spheres
 1 Essence Scatter
 2 Essence Scatter
 1 Glass Casket
@@ -83,11 +120,11 @@
 3 Censor
 3 Absorb
 1 Dive Down
-1 Curious Obsession
-2 Curious Obsession
+2 Gideon of the Trials
 1 Seasoned Hallowblade
 2 Seasoned Hallowblade
-2 Gideon of the Trials
+1 Curious Obsession
+2 Curious Obsession
 1 Blast Zone
 4 Censor
 4 Absorb
@@ -116,7 +153,6 @@
 3 Cast Out
 3 Heliod's Punishment
 3 Seal Away
-9 Plains
 1 Silundi Vision
 1 Brazen Borrower
 1 Warrant/Warden
@@ -124,3 +160,4 @@
 3 Warrant/Warden
 4 Warrant/Warden
 4 Field of Ruin
+9 Plains

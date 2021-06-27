@@ -19,8 +19,8 @@
 3 Fulminator Mage
 2 Dismember
 1 Grafdigger's Cage
-2 Endurance
 2 Grafdigger's Cage
+2 Endurance
 3 Grafdigger's Cage
 2 Fury
 1 Leyline of Sanctity
@@ -29,9 +29,9 @@
 2 Force of Vigor
 1 Mystical Dispute
 2 Mystical Dispute
-3 Force of Vigor
-3 Fury
 3 Mystical Dispute
+3 Fury
+3 Force of Vigor
 4 Mystical Dispute
 4 Fury
 4 Force of Vigor
@@ -58,22 +58,21 @@
 1 Mulldrifter
 2 Sun Droplet
 1 Teferi, Time Raveler
-1 Lightning Helix
-1 Engineered Explosives
 1 Veil of Summer
+1 Lightning Helix
 1 Rest in Peace
 1 Fracturing Gust
+1 Engineered Explosives
 1 Force of Negation
 2 Veil of Summer
-2 Lightning Helix
 2 Engineered Explosives
+2 Lightning Helix
 2 Fracturing Gust
-1 Unsettled Mariner
 1 Bonecrusher Giant
-2 Unsettled Mariner
+1 Unsettled Mariner
 2 Bonecrusher Giant
+2 Unsettled Mariner
 3 Unsettled Mariner
-3 Tormod's Crypt
 1 Relic of Progenitus
 1 Voice of Resurgence
 2 Relic of Progenitus
@@ -81,6 +80,7 @@
 1 Lightning Bolt
 2 Lightning Bolt
 3 Lightning Bolt
+3 Tormod's Crypt
 3 Rampaging Ferocidon
 3 Suppression Field
 4 Damping Sphere

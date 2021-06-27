@@ -1,20 +1,20 @@
-1 Tundra
-1 Swords to Plowshares
 1 Batterskull
+1 Stoneforge Mystic
+2 Tundra
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+1 True-Name Nemesis
 1 Brainstorm
 1 Ponder
 1 Flooded Strand
 1 Polluted Delta
-1 Stoneforge Mystic
+1 Swords to Plowshares
 2 Flooded Strand
 2 True-Name Nemesis
-2 Swords to Plowshares
 2 Brainstorm
 2 Ponder
-2 Tundra
-2 Stoneforge Mystic
+2 Swords to Plowshares
 3 Flooded Strand
-3 Stoneforge Mystic
 3 Swords to Plowshares
 3 Ponder
 3 Brainstorm
@@ -22,36 +22,103 @@
 4 Swords to Plowshares
 4 Ponder
 4 Brainstorm
+4 Stoneforge Mystic
 1 Snow-Covered Island
 1 Snapcaster Mage
-1 Delver of Secrets
 1 Snow-Covered Plains
+1 Delver of Secrets
 1 Scalding Tarn
 1 Misty Rainforest
 2 Snow-Covered Island
-2 Delver of Secrets
 2 Snapcaster Mage
+2 Delver of Secrets
 3 Snow-Covered Island
 3 Wasteland
 3 Delver of Secrets
 4 Delver of Secrets
+1 Karakas
+1 Sai, Master Thopterist
+1 Seat of the Synod
+1 Emry, Lurker of the Loch
+1 Mishra's Bauble
+1 Chalice of the Void
+1 Urza's Saga
+1 Walking Ballista
+1 Mox Opal
+1 Ancient Tomb
+1 Thought Monitor
+1 Ancient Den
+2 Seat of the Synod
+2 Emry, Lurker of the Loch
+2 Mishra's Bauble
+2 Chalice of the Void
+2 Urza's Saga
+2 Walking Ballista
+2 Mox Opal
+2 Ancient Tomb
+2 Thought Monitor
+3 Seat of the Synod
+3 Chalice of the Void
+3 Urza's Saga
+3 Mishra's Bauble
+3 Mox Opal
+3 Ancient Tomb
+3 Thought Monitor
+4 Thought Monitor
+4 Chalice of the Void
+4 Mishra's Bauble
+4 Urza's Saga
+4 Ancient Tomb
+1 Urza, Lord High Artificer
+1 Esper Sentinel
+1 Cavern of Souls
+1 Lotus Petal
+2 Urza, Lord High Artificer
+2 Esper Sentinel
+2 Cavern of Souls
+2 Lotus Petal
+3 Urza, Lord High Artificer
+3 Emry, Lurker of the Loch
+3 Esper Sentinel
+3 Cavern of Souls
+3 Lotus Petal
+4 Urza, Lord High Artificer
+4 Esper Sentinel
+4 Lotus Petal
+4 Cavern of Souls
+1 Retrofitter Foundry
+1 Nettlecyst
+3 Walking Ballista
+4 Seat of the Synod
 1 Spell Pierce
 3 True-Name Nemesis
-4 Stoneforge Mystic
 2 Umezawa's Jitte
 1 Kaldra Compleat
 1 Prismatic Vista
 1 Piracy Charm
 2 Prismatic Vista
 2 Snow-Covered Plains
+2 Sai, Master Thopterist
+2 Nettlecyst
+4 Emry, Lurker of the Loch
+4 Walking Ballista
 1 Spell Snare
+1 Ethersworn Canonist
+2 Ethersworn Canonist
 1 Jace, the Mind Sculptor
 2 Spell Pierce
 2 Polluted Delta
+4 Mox Opal
+3 Tundra
+2 Ancient Den
 1 Engineered Explosives
 1 Prismatic Ending
 1 Chain of Vapor
 1 Snapback
+1 Crucible of Worlds
+2 Crucible of Worlds
+3 Ethersworn Canonist
+4 Ethersworn Canonist
 1 Skaab Ruinator
 1 Ancestral Vision
 1 Disrupting Shoal
@@ -63,7 +130,6 @@
 1 Plains
 1 Sword of Fire and Ice
 1 Gideon, Ally of Zendikar
-1 Karakas
 1 Windswept Heath
 1 Squadron Hawk
 2 Plains
@@ -73,5 +139,16 @@
 3 Windswept Heath
 4 Squadron Hawk
 2 Misty Rainforest
-3 Tundra
 4 Wasteland
+1 Sword of the Meek
+1 Meekstone
+1 Thopter Foundry
+1 Karn, the Great Creator
+2 Thopter Foundry
+2 Karn, the Great Creator
+3 Karn, the Great Creator
+3 Ancient Den
+3 Thopter Foundry
+4 Ancient Den
+4 Tundra
+4 Karn, the Great Creator

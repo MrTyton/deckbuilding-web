@@ -21,21 +21,21 @@
 4 Flooded Strand
 1 Fire/Ice
 1 Maul of the Skyclaves
-1 Seachrome Coast
 1 Snow-Covered Plains
-1 Sacred Foundry
-1 Batterskull
 1 Stoneforge Mystic
+1 Batterskull
+1 Seachrome Coast
 1 Geist of Saint Traft
 1 Path to Exile
-2 Seachrome Coast
+1 Sacred Foundry
 2 Stoneforge Mystic
-2 Path to Exile
+2 Seachrome Coast
 2 Geist of Saint Traft
-3 Seachrome Coast
+2 Path to Exile
 3 Stoneforge Mystic
-3 Path to Exile
+3 Seachrome Coast
 3 Geist of Saint Traft
+3 Path to Exile
 4 Stoneforge Mystic
 4 Path to Exile
 4 Geist of Saint Traft
@@ -65,18 +65,18 @@
 1 Spell Snare
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
-1 Mystic Sanctuary
 1 Deprive
-1 Archmage's Charm
 1 Ascendant Spirit
-2 Archmage's Charm
+1 Mystic Sanctuary
+1 Archmage's Charm
 2 Snow-Covered Island
+2 Archmage's Charm
 3 Snow-Covered Island
 3 Archmage's Charm
-4 Snow-Covered Island
 4 Archmage's Charm
-1 Breeding Pool
+4 Snow-Covered Island
 1 Wooded Foothills
+1 Breeding Pool
 1 Unearth
 4 Fatal Push
 2 Remand
@@ -88,8 +88,8 @@
 4 Dreadhorde Arcanist
 3 Misty Rainforest
 2 Wooded Foothills
-1 Snow-Covered Swamp
 1 Ice Tunnel
+1 Snow-Covered Swamp
 1 Cling to Dust
 1 Tyrant's Scorn
 2 Deprive
@@ -146,14 +146,14 @@
 1 Lightning Helix
 2 Lightning Helix
 3 Lightning Helix
-3 Subtlety
 1 Waterlogged Grove
 1 Grim Lavamancer
 1 Monastery Swiftspear
 3 Fiery Islet
+3 Subtlety
 1 Scavenging Ooze
-1 Jace, Vryn's Prodigy
 1 Burst Lightning
+1 Jace, Vryn's Prodigy
 1 Snakeskin Veil
 2 Snakeskin Veil
 3 Wooded Foothills
@@ -178,24 +178,6 @@
 4 Stubborn Denial
 4 Mana Leak
 4 Disrupting Shoal
-1 Agadeem's Awakening
-1 Verdant Catacombs
-1 Dismember
-1 Dauthi Voidwalker
-1 Death's Shadow
-2 Verdant Catacombs
-2 Dismember
-2 Suspend
-2 Dauthi Voidwalker
-2 Death's Shadow
-3 Verdant Catacombs
-3 Thoughtseize
-3 Dauthi Voidwalker
-3 Death's Shadow
-4 Dauthi Voidwalker
-4 Verdant Catacombs
-4 Thoughtseize
-4 Death's Shadow
 1 Young Pyromancer
 1 Pteramander
 1 Flame Slash
@@ -205,15 +187,33 @@
 3 Pteramander
 4 Young Pyromancer
 4 Pteramander
+1 Verdant Catacombs
+1 Agadeem's Awakening
+1 Dauthi Voidwalker
+1 Dismember
+1 Death's Shadow
+2 Verdant Catacombs
+2 Dismember
+2 Dauthi Voidwalker
+2 Suspend
+2 Death's Shadow
+3 Verdant Catacombs
+3 Thoughtseize
+3 Dauthi Voidwalker
+3 Death's Shadow
+4 Dauthi Voidwalker
+4 Verdant Catacombs
+4 Death's Shadow
+4 Thoughtseize
 1 Bloodchief's Thirst
+1 Darkslick Shores
 1 Bitterblossom
 1 Ancestral Vision
-1 Darkslick Shores
+2 Spell Snare
+2 Darkslick Shores
 2 Swamp
 2 Bitterblossom
-2 Spell Snare
 2 Ancestral Vision
-2 Darkslick Shores
 3 Darkslick Shores
 3 Bitterblossom
 3 Ancestral Vision
