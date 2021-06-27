@@ -106,7 +106,7 @@
 |                     |                                                                                                    |                    4|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)                     |
 |                     |                                                                                                    |                    1|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)            |
 |                     |                                                                                                    |                    1|[Sunlance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222776)                    |
-|                     |                                                                                                    |                    2|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)            |
 |                     |                                                                                                    |                    2|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)    |
+|                     |                                                                                                    |                    2|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)            |
 |                     |                                                                                                    |                    4|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45431)                        |
 

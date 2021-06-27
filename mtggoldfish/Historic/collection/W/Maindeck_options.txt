@@ -1,43 +1,48 @@
+3 Godless Shrine
+4 Godless Shrine
+4 Brightclimb Pathway
+1 Gingerbrute
+1 Stonecoil Serpent
+1 Steel Overseer
+1 Vault Skirge
 1 Tempered Steel
 2 Gingerbrute
 2 Steel Overseer
 2 Stonecoil Serpent
 2 Vault Skirge
 2 Tempered Steel
-3 Stonecoil Serpent
 3 Steel Overseer
+3 Stonecoil Serpent
 3 Vault Skirge
 4 Vault Skirge
 4 Stonecoil Serpent
 4 Steel Overseer
-1 Shefet Dunes
-2 Shefet Dunes
-1 Hengegate Pathway
-2 Hengegate Pathway
-3 Hengegate Pathway
-4 Hengegate Pathway
 3 Gingerbrute
 3 Tempered Steel
 4 Gingerbrute
 4 Tempered Steel
-1 Thraben Inspector
-2 Thraben Inspector
-6 Plains
-7 Plains
-1 Mana Tithe
-2 Mana Tithe
+1 Hallowed Fountain
+2 Hallowed Fountain
+3 Hallowed Fountain
+4 Hallowed Fountain
+1 Collected Company
+2 Collected Company
+3 Collected Company
+4 Collected Company
+1 Hengegate Pathway
+2 Hengegate Pathway
+3 Hengegate Pathway
+4 Hengegate Pathway
+2 Emeria's Call
+9 Plains
+10 Plains
+11 Plains
+4 Thalia, Guardian of Thraben
 1 Court Homunculus
 2 Court Homunculus
 3 Court Homunculus
 1 Deputy of Detention
 2 Deputy of Detention
-3 Thraben Inspector
-8 Plains
-3 Shefet Dunes
-1 Emeria's Call
-1 Scavenger Grounds
-2 Scavenger Grounds
-4 Thraben Inspector
 1 Concealed Courtyard
 2 Concealed Courtyard
 1 Scrapheap Scrounger
@@ -53,11 +58,6 @@
 2 Meddling Mage
 3 Meddling Mage
 4 Meddling Mage
-4 Thalia, Guardian of Thraben
-2 Emeria's Call
-9 Plains
-10 Plains
-11 Plains
 1 Silverquill Silencer
 1 Kitesail Freebooter
 2 Silverquill Silencer
@@ -70,6 +70,11 @@
 1 Halvar, God of Battle
 2 Halvar, God of Battle
 3 Reidane, God of the Worthy
+1 Declaration in Stone
+2 Declaration in Stone
+3 Declaration in Stone
+1 Maul of the Skyclaves
+2 Maul of the Skyclaves
 1 Island
 3 Servo Exhibition
 4 Servo Exhibition
@@ -95,8 +100,8 @@
 1 Faceless Haven
 2 Faceless Haven
 2 Snow-Covered Plains
-3 Snow-Covered Plains
 3 Faceless Haven
+3 Snow-Covered Plains
 4 Snow-Covered Plains
 4 Faceless Haven
 5 Snow-Covered Plains
@@ -116,26 +121,28 @@
 19 Snow-Covered Plains
 20 Snow-Covered Plains
 1 Sword of Body and Mind
-1 Declaration in Stone
 2 Sword of Body and Mind
-2 Declaration in Stone
-3 Declaration in Stone
+1 Sejiri Shelter
+1 Containment Priest
+2 Containment Priest
+12 Plains
 3 Mana Tithe
 1 Linvala, Shield of Sea Gate
 2 Linvala, Shield of Sea Gate
-1 Maul of the Skyclaves
-2 Maul of the Skyclaves
+1 Adanto Vanguard
+2 Adanto Vanguard
+3 Adanto Vanguard
 1 Scattered Groves
 2 Scattered Groves
-3 Scrapheap Scrounger
-4 Scrapheap Scrounger
 3 Concealed Courtyard
 4 Concealed Courtyard
+3 Scrapheap Scrounger
+4 Scrapheap Scrounger
 1 Sacred Foundry
 1 Needleverge Pathway
 1 Showdown of the Skalds
-2 Needleverge Pathway
 2 Sacred Foundry
+2 Needleverge Pathway
 2 Showdown of the Skalds
 3 Needleverge Pathway
 4 Needleverge Pathway
@@ -150,15 +157,16 @@
 3 Ornithopter
 4 Ornithopter
 1 Toolcraft Exemplar
-1 Legion's Landing
-1 Usher of the Fallen
 1 Yasharn, Implacable Earth
 1 Lavinia, Azorius Renegade
-1 Scavenging Ooze
+1 Usher of the Fallen
+1 Legion's Landing
 1 Giant Killer
+1 Scavenging Ooze
 2 Giant Killer
 2 Scavenging Ooze
 3 Giant Killer
+4 Adanto Vanguard
 1 Inventors' Fair
 1 Spire of Industry
 1 Emry, Lurker of the Loch
@@ -172,16 +180,26 @@
 3 Charming Prince
 3 Glasspool Mimic
 4 Glasspool Mimic
+1 Sunpetal Grove
+1 Dromoka's Command
+1 Indatha Triome
+1 Vorinclex, Monstrous Raider
+1 Forest
+2 Vorinclex, Monstrous Raider
+2 Sunpetal Grove
+2 Dromoka's Command
+2 Indatha Triome
+3 Sunpetal Grove
+3 Scavenger Grounds
+3 Dromoka's Command
+4 Dromoka's Command
 1 Agadeem's Awakening
-1 Adanto Vanguard
 1 Baneslayer Angel
 1 Castle Ardenvale
 1 Swamp
 1 Castle Locthwain
 1 Knight of the Ebon Legion
-2 Adanto Vanguard
 2 Knight of the Ebon Legion
-3 Adanto Vanguard
 3 Knight of the Ebon Legion
 4 Thoughtseize
 4 Knight of the Ebon Legion
@@ -212,33 +230,20 @@
 4 Shefet Dunes
 4 Toolcraft Exemplar
 4 Chief of the Foundry
-1 Sunpetal Grove
-1 Dromoka's Command
-1 Indatha Triome
-1 Vorinclex, Monstrous Raider
-1 Forest
-2 Sunpetal Grove
-2 Dromoka's Command
-2 Vorinclex, Monstrous Raider
-2 Indatha Triome
-3 Scavenger Grounds
-3 Sunpetal Grove
-3 Dromoka's Command
-4 Dromoka's Command
 1 Shineshadow Snarl
 1 Unbreakable Formation
 1 Whirler Rogue
 1 Glacial Fortress
 1 Skilled Animator
 2 Shineshadow Snarl
-2 Skilled Animator
 2 Unbreakable Formation
+2 Skilled Animator
 2 Glacial Fortress
 2 Whirler Rogue
 3 Island
 3 Glacial Fortress
-3 Skilled Animator
 3 Unbreakable Formation
+3 Skilled Animator
 4 Island
 4 Glacial Fortress
 4 Skilled Animator
@@ -256,18 +261,14 @@
 4 Inspiring Vantage
 4 Sacred Foundry
 4 Ramunap Ruins
-1 Sejiri Shelter
-1 Containment Priest
-2 Containment Priest
-12 Plains
 1 Mountain
 1 Light Up the Stage
 1 All That Glitters
 2 Mountain
 2 All That Glitters
 2 Light Up the Stage
-3 All That Glitters
 3 Mountain
+3 All That Glitters
 3 Light Up the Stage
 4 Mountain
 4 All That Glitters
