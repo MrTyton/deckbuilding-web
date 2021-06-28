@@ -34,6 +34,6 @@
 |                    2|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)         |                    4|[Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)       |
 |                    3|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)         |                    1|[Contaminated Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366420)|
 |                    4|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)         |                    2|[Contaminated Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366420)|
-|                    1|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)      |                    1|[Fate Unraveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378440)     |
-|                    2|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)      |                    3|[Contaminated Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366420)|
+|                    2|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)      |                    1|[Fate Unraveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378440)     |
+|                    1|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)      |                    3|[Contaminated Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366420)|
 

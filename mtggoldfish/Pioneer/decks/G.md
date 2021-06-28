@@ -31,8 +31,10 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Elder Gargaroth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485502) |                    1|[Aethersphere Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423809)|
-|                    1|[Jadelight Ranger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439793)|                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)        |
-|                    2|[Castle Garenbrig](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473202)|                    1|[Aligned Hedron Network](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401807)|
-|                    2|[Jadelight Ranger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439793)|                    1|[Elder Gargaroth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485502)       |
+|                    1|[Elder Gargaroth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485502) |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)        |
+|                    1|[Jadelight Ranger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439793)|                    1|[Aligned Hedron Network](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401807)|
+|                    2|[Castle Garenbrig](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473202)|                    1|[Aethersphere Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423809)|
+|                    2|[Jadelight Ranger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439793)|                    1|[Skylasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=369083)             |
+|                     |                                                                                           |                    2|[Skylasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=369083)             |
+|                     |                                                                                           |                    1|[Elder Gargaroth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485502)       |
 

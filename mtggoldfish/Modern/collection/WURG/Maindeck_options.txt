@@ -3,36 +3,41 @@
 1 Lightning Helix
 2 Lightning Helix
 1 Breeding Pool
-1 Shardless Agent
-2 Shardless Agent
-3 Shardless Agent
 1 Temple Garden
 1 Scion of Draco
-1 Mantis Rider
 1 Tribal Flames
 1 Territorial Kavu
 2 Scion of Draco
 2 Territorial Kavu
-2 Mantis Rider
 2 Tribal Flames
 3 Territorial Kavu
 3 Tribal Flames
-3 Mantis Rider
 4 Tribal Flames
-4 Mantis Rider
 4 Territorial Kavu
+1 Shardless Agent
+2 Shardless Agent
+3 Shardless Agent
 3 Scion of Draco
+1 Mantis Rider
+2 Mantis Rider
+3 Mantis Rider
+4 Mantis Rider
 4 Scion of Draco
 1 Bloodbraid Elf
 2 Bloodbraid Elf
 3 Bloodbraid Elf
-4 Growth Spiral
-4 Shardless Agent
+2 Arid Mesa
 1 Forest
 1 Windswept Heath
 2 Windswept Heath
+4 Shardless Agent
+4 Growth Spiral
+1 Prismatic Ending
+2 Prismatic Ending
+3 Prismatic Ending
+1 Island
 1 Noble Hierarch
-2 Arid Mesa
+1 Savai Triome
 2 Noble Hierarch
 1 General Ferrous Rokiric
 2 General Ferrous Rokiric
@@ -40,20 +45,23 @@
 4 Bloodbraid Elf
 1 Verdant Catacombs
 1 Ignoble Hierarch
-1 Savai Triome
 2 Ignoble Hierarch
 3 Ignoble Hierarch
 4 Ignoble Hierarch
+1 Blood Crypt
 1 Indatha Triome
+2 Sacred Foundry
 3 Lightning Helix
 4 Lightning Helix
-1 Island
+1 Zagoth Triome
+3 Arid Mesa
+3 Bloodstained Mire
 1 Misty Rainforest
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
-1 Khalni Garden
 1 Omniscience
+1 Khalni Garden
 1 Glimpse of Tomorrow
 1 Leyline of Sanctity
 1 Gemstone Caverns
@@ -67,35 +75,34 @@
 2 Leyline of Sanctity
 2 As Foretold
 2 Violent Outburst
-3 Omniscience
 3 Khalni Garden
 3 Glimpse of Tomorrow
+3 Omniscience
 3 Leyline of Sanctity
 3 Violent Outburst
 3 As Foretold
 3 Emrakul, the Aeons Torn
 4 Omniscience
 4 Leyline of Sanctity
-4 Violent Outburst
 4 Emrakul, the Aeons Torn
+4 Violent Outburst
 1 Jace, the Mind Sculptor
-3 Bloodstained Mire
-2 Sacred Foundry
-1 Zagoth Triome
-1 Blood Crypt
 2 Verdant Catacombs
-3 Arid Mesa
-4 Khalni Garden
-4 Bloodstained Mire
-1 Prismatic Ending
-2 Prismatic Ending
-3 Prismatic Ending
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
+4 Khalni Garden
+4 Bloodstained Mire
+1 Tarmogoyf
+2 Tarmogoyf
+3 Tarmogoyf
+3 Windswept Heath
+4 Windswept Heath
 1 Flooded Strand
 2 Flooded Strand
 2 Mountain
+4 Arid Mesa
+4 Tarmogoyf
 1 Wavesifter
 1 Iona, Shield of Emeria
 2 Wavesifter
@@ -116,12 +123,12 @@
 4 Wavesifter
 4 Iona, Shield of Emeria
 1 Archon of Cruelty
-4 Arid Mesa
-1 Tarmogoyf
-2 Tarmogoyf
-3 Tarmogoyf
-3 Windswept Heath
-4 Windswept Heath
+1 Plains
+4 Teferi, Time Raveler
+1 Wild Nacatl
+2 Wild Nacatl
+3 Wild Nacatl
+1 Overgrown Tomb
 1 Valakut Awakening
 1 Ulamog, the Infinite Gyre
 2 Gemstone Caverns
@@ -139,18 +146,18 @@
 3 Fires of Invention
 4 Fires of Invention
 4 Explore
-1 Plains
 2 Raugrin Triome
-4 Teferi, Time Raveler
 1 Kozilek, Butcher of Truth
 1 Xenagos, God of Revels
-2 Xenagos, God of Revels
 2 Kozilek, Butcher of Truth
+2 Xenagos, God of Revels
 2 Ulamog, the Infinite Gyre
 3 Ulamog, the Infinite Gyre
 4 Glimpse of Tomorrow
 4 As Foretold
-4 Tarmogoyf
+4 Wild Nacatl
+1 Snapcaster Mage
+2 Snapcaster Mage
 2 Valakut Awakening
 1 Transmogrify
 2 Transmogrify
@@ -164,23 +171,22 @@
 4 Ulamog, the Infinite Gyre
 1 Fire/Ice
 2 Fire/Ice
-1 Wild Nacatl
-2 Wild Nacatl
-3 Wild Nacatl
-1 Overgrown Tomb
+4 Ragavan, Nimble Pilferer
 3 Noble Hierarch
 4 Noble Hierarch
-1 Snapcaster Mage
-2 Snapcaster Mage
+1 Knight of the Reliquary
+2 Knight of the Reliquary
+3 Knight of the Reliquary
+4 Knight of the Reliquary
 1 Farseek
 1 Omen of the Sea
 1 Polymorph
 2 Omen of the Sea
 2 Farseek
 2 Polymorph
-3 Farseek
 3 Tamiyo, Collector of Tales
 3 Transmogrify
+3 Farseek
 3 Omen of the Sea
 4 Transmogrify
 4 Omen of the Sea
@@ -197,26 +203,30 @@
 2 Anafenza, the Foremost
 1 Kasmina, Enigma Sage
 2 Kasmina, Enigma Sage
+1 Horizon Canopy
+1 Path to Exile
+2 Path to Exile
+3 Path to Exile
 1 Might of Alara
 2 Might of Alara
 3 Might of Alara
+1 Ugin, the Spirit Dragon
 1 Fiery Islet
 1 Brazen Borrower
-1 Ugin, the Spirit Dragon
 1 Gemstone Mine
 2 Ugin, the Spirit Dragon
 2 Gemstone Mine
 3 Gemstone Mine
+1 Nahiri, the Harbinger
 1 Izzet Charm
 1 Narset, Parter of Veils
-1 Nahiri, the Harbinger
 2 Izzet Charm
 3 Velomachus Lorehold
 3 Valakut Awakening
-3 Verdant Catacombs
-3 Snapcaster Mage
-4 Verdant Catacombs
-4 Snapcaster Mage
+1 Stubborn Denial
+2 Stubborn Denial
+3 Stubborn Denial
+4 Stubborn Denial
 1 Griselbrand
 2 Griselbrand
 3 Griselbrand
@@ -231,8 +241,6 @@
 2 Vindicate
 3 Vindicate
 4 Vindicate
-4 Ragavan, Nimble Pilferer
-4 Wild Nacatl
 1 Swamp
 1 Opt
 2 Swamp
@@ -241,3 +249,7 @@
 3 Opt
 4 Swamp
 4 Opt
+3 Verdant Catacombs
+3 Snapcaster Mage
+4 Verdant Catacombs
+4 Snapcaster Mage
