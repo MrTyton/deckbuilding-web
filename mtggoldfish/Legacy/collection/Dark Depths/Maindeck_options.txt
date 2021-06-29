@@ -1,3 +1,4 @@
+4 Pithing Needle
 1 Nurturing Peatland
 2 Elvish Reclaimer
 3 Elvish Reclaimer
@@ -7,7 +8,10 @@
 1 Dark Confidant
 2 Dark Confidant
 3 Dark Confidant
-4 Pithing Needle
+1 Forest
+1 Swamp
+3 Abrupt Decay
+4 Not of This World
 1 Mana Confluence
 1 Stifle
 1 Gemstone Mine
@@ -16,18 +20,14 @@
 2 Gemstone Mine
 2 Stifle
 3 Mana Confluence
-4 Mana Confluence
-1 Forest
-1 Swamp
-3 Abrupt Decay
 3 Gemstone Mine
+4 Mana Confluence
 4 Gemstone Mine
 1 Mox Diamond
 2 Mox Diamond
 3 Mox Diamond
 2 Wasteland
 4 Abrupt Decay
-4 Not of This World
 2 Nurturing Peatland
 1 Life from the Loam
 4 Dark Confidant
@@ -48,14 +48,14 @@
 1 Flusterstorm
 4 Inquisition of Kozilek
 1 Satyr Wayfinder
-1 Cabal Therapy
 1 Dryad Arbor
 1 Khalni Garden
+1 Cabal Therapy
 1 Stitcher's Supplier
 1 Hogaak, Arisen Necropolis
 2 Satyr Wayfinder
-2 Cabal Therapy
 2 Hogaak, Arisen Necropolis
+2 Cabal Therapy
 2 Stitcher's Supplier
 3 Cabal Therapy
 3 Satyr Wayfinder
@@ -72,8 +72,8 @@
 1 Castle Locthwain
 1 Marsh Flats
 1 Eliminate
+1 Vindicate
 1 Ancient Tomb
-1 Dark Ritual
 1 Liliana, the Last Hope
 1 Liliana's Triumph
 1 Toxic Deluge
@@ -82,24 +82,24 @@
 1 Scrubland
 1 Chrome Mox
 1 Cabal Ritual
-1 Vindicate
+1 Dark Ritual
 1 Karn, the Great Creator
 1 Chalice of the Void
 2 Snow-Covered Swamp
 2 Polluted Delta
 2 Plague Engineer
-2 Vindicate
 2 Eliminate
-2 Dark Ritual
+2 Vindicate
 2 Wishclaw Talisman
 2 Trinisphere
 2 Karn, the Great Creator
 2 Chrome Mox
 2 Chalice of the Void
+2 Dark Ritual
 3 Snow-Covered Swamp
 3 Polluted Delta
-3 Dark Ritual
 3 Karn, the Great Creator
+3 Dark Ritual
 3 Chalice of the Void
 3 Chrome Mox
 4 Snow-Covered Swamp
@@ -111,8 +111,6 @@
 2 Fatal Push
 2 Khalni Garden
 3 Khalni Garden
-2 City of Brass
-3 City of Brass
 3 Hymn to Tourach
 3 Stifle
 4 Stifle
@@ -134,11 +132,11 @@
 2 Gurmag Angler
 2 Court of Ambition
 5 Snow-Covered Swamp
-1 Chain of Smog
 1 Witherbloom Apprentice
+1 Chain of Smog
 2 Life from the Loam
-2 Chain of Smog
 2 Witherbloom Apprentice
+2 Chain of Smog
 3 Life from the Loam
 3 Chain of Smog
 3 Witherbloom Apprentice

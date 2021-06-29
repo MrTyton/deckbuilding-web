@@ -1,23 +1,27 @@
 2 Welding Jar
 5 Forest
 1 Snakeskin Veil
+1 Springleaf Drum
 6 Forest
 4 Llanowar Reborn
 2 Blinkmoth Nexus
 4 The Ozolith
-1 Springleaf Drum
 2 Phyrexia's Core
 1 Branchloft Pathway
 2 Branchloft Pathway
 3 Welding Jar
-1 Scrapyard Recombiner
 3 Power Depot
 7 Forest
 3 Blinkmoth Nexus
+1 Scrapyard Recombiner
 1 Power Conduit
 8 Forest
 9 Forest
 1 Steel Overseer
+1 Grove of the Burnwillows
+2 Grove of the Burnwillows
+3 Grove of the Burnwillows
+1 Shadowspear
 2 Scrapyard Recombiner
 1 Horizon Canopy
 1 Metallic Mimic
@@ -29,14 +33,10 @@
 4 Blinkmoth Nexus
 4 Welding Jar
 1 Swamp
+1 Goblin Bombardment
 1 Snow-Covered Forest
 2 Snow-Covered Forest
-1 Grove of the Burnwillows
-2 Grove of the Burnwillows
-3 Grove of the Burnwillows
-1 Shadowspear
 4 Power Depot
-1 Stomping Ground
 2 Metallic Mimic
 1 Darksteel Citadel
 2 Darksteel Citadel
@@ -53,6 +53,7 @@
 3 Animation Module
 1 Overgrown Tomb
 2 Overgrown Tomb
+1 Stomping Ground
 1 Urborg, Tomb of Yawgmoth
 1 Spellskite
 1 Copperline Gorge
@@ -62,7 +63,6 @@
 3 Branchloft Pathway
 1 Witch's Oven
 2 Power Conduit
-1 Goblin Bombardment
 4 Grove of the Burnwillows
 2 Snakeskin Veil
 2 Steel Overseer
@@ -75,9 +75,6 @@
 3 Brushland
 4 Razorverge Thicket
 2 Blooming Marsh
-1 Lightning Bolt
-1 Luminarch Aspirant
-2 Luminarch Aspirant
 1 Winding Constrictor
 2 Nurturing Peatland
 2 Winding Constrictor
@@ -85,30 +82,13 @@
 4 Winding Constrictor
 1 Fatal Push
 2 Fatal Push
-1 Utopia Sprawl
-1 Windswept Heath
-2 Utopia Sprawl
-2 Windswept Heath
-3 Utopia Sprawl
-3 Windswept Heath
-4 Utopia Sprawl
-4 Windswept Heath
+1 Pithing Needle
 1 Yavimaya, Cradle of Growth
+1 Lightning Bolt
 1 Relic of Progenitus
 2 Goblin Bombardment
 1 Crystalline Giant
 2 Crystalline Giant
-1 Temple Garden
-1 Mountain
-1 Wooded Foothills
-1 Showdown of the Skalds
-1 Plains
-2 Wooded Foothills
-2 Lightning Bolt
-2 Showdown of the Skalds
-3 Wooded Foothills
-3 Showdown of the Skalds
-4 Wooded Foothills
 1 Castle Locthwain
 1 Thoughtseize
 2 Thoughtseize
@@ -116,16 +96,26 @@
 3 Overgrown Tomb
 3 Thoughtseize
 4 Thoughtseize
+1 Luminarch Aspirant
 1 Path to Exile
+2 Luminarch Aspirant
 2 Path to Exile
 4 Brushland
 1 Prismatic Vista
 1 Verdant Catacombs
+1 Utopia Sprawl
+1 Windswept Heath
 2 Verdant Catacombs
-3 Fatal Push
+2 Utopia Sprawl
+2 Windswept Heath
 3 Verdant Catacombs
-4 Fatal Push
+3 Utopia Sprawl
+3 Fatal Push
+3 Windswept Heath
 4 Verdant Catacombs
+4 Utopia Sprawl
+4 Fatal Push
+4 Windswept Heath
 4 Animation Module
 1 Arcbound Mouser
 2 Arcbound Mouser

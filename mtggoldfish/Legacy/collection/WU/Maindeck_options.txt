@@ -1,38 +1,47 @@
-2 Mox Opal
-2 Ancient Tomb
-2 Thought Monitor
-3 Seat of the Synod
-3 Chalice of the Void
-3 Mishra's Bauble
-3 Mox Opal
-3 Ancient Tomb
-3 Thought Monitor
-4 Chalice of the Void
-4 Mishra's Bauble
-4 Ancient Tomb
-4 Thought Monitor
-1 Urza, Lord High Artificer
-1 Lotus Petal
-2 Urza, Lord High Artificer
-2 Lotus Petal
-3 Urza, Lord High Artificer
-3 Emry, Lurker of the Loch
-3 Cavern of Souls
-3 Lotus Petal
-4 Urza, Lord High Artificer
-4 Lotus Petal
-4 Cavern of Souls
+2 Force of Will
+3 Force of Will
+4 Force of Will
+1 Force of Negation
+1 Daze
+2 Daze
+2 Force of Negation
+3 Daze
+1 Tundra
+2 Tundra
+1 Batterskull
+1 Stoneforge Mystic
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+1 True-Name Nemesis
+1 Brainstorm
+1 Ponder
+1 Flooded Strand
+1 Polluted Delta
+1 Swords to Plowshares
+2 Flooded Strand
+2 True-Name Nemesis
+2 Brainstorm
+2 Ponder
+2 Swords to Plowshares
+3 Flooded Strand
+3 Swords to Plowshares
+3 Ponder
+3 Brainstorm
+4 Swords to Plowshares
+4 Brainstorm
 4 Daze
-1 Brazen Borrower
 3 Island
 4 Island
+1 Brazen Borrower
+5 Island
+6 Island
+1 Spellstutter Sprite
 1 Flusterstorm
 1 Sky Hussar
-1 Martyr of Frost
 1 Nivmagus Elemental
 1 Aether Vial
-1 Spellstutter Sprite
 1 Mausoleum Wanderer
+1 Martyr of Frost
 1 Judge's Familiar
 1 Ninja of the Deep Hours
 2 Flusterstorm
@@ -51,25 +60,17 @@
 3 Sky Hussar
 3 Martyr of Frost
 4 Sky Hussar
-4 Mausoleum Wanderer
 4 Judge's Familiar
-5 Island
-6 Island
+4 Mausoleum Wanderer
 7 Island
 8 Island
 9 Island
 10 Island
 11 Island
-1 Batterskull
-1 Stoneforge Mystic
-2 Stoneforge Mystic
-3 Stoneforge Mystic
-1 True-Name Nemesis
-2 True-Name Nemesis
-3 Tundra
-2 Ancient Den
-3 Walking Ballista
+4 Seat of the Synod
 4 Stoneforge Mystic
+4 Flooded Strand
+4 Ponder
 3 True-Name Nemesis
 1 Delver of Secrets
 2 Delver of Secrets
@@ -77,83 +78,91 @@
 3 Delver of Secrets
 4 Delver of Secrets
 1 Snow-Covered Island
+1 Snapcaster Mage
 1 Snow-Covered Plains
+2 Snow-Covered Island
+2 Snapcaster Mage
+1 Crucible of Worlds
+2 Crucible of Worlds
+3 Ethersworn Canonist
+4 Ethersworn Canonist
+2 Polluted Delta
 1 Erayo, Soratami Ascendant
 3 Spellstutter Sprite
 3 Force of Negation
 3 Nivmagus Elemental
 4 Flusterstorm
-4 Nivmagus Elemental
 4 Force of Negation
-1 Plains
-1 Engineered Explosives
-1 Ethersworn Canonist
-2 Ethersworn Canonist
-1 Snapcaster Mage
+4 Nivmagus Elemental
+2 Sai, Master Thopterist
+4 Emry, Lurker of the Loch
+1 Nettlecyst
+3 Walking Ballista
 1 Scalding Tarn
 1 Misty Rainforest
-2 Snow-Covered Island
-2 Snapcaster Mage
 3 Snow-Covered Island
-1 Nettlecyst
-4 Seat of the Synod
 1 Spell Pierce
-4 Walking Ballista
-2 Polluted Delta
-1 Prismatic Ending
-1 Expedition Map
-1 Teferi, Time Raveler
-1 Lion's Eye Diamond
-1 Auriok Salvagers
-2 Teferi, Time Raveler
-3 Teferi, Time Raveler
-1 Volcanic Island
-2 Umezawa's Jitte
-1 Crucible of Worlds
-2 Crucible of Worlds
-3 Ethersworn Canonist
-4 Ethersworn Canonist
-1 Arid Mesa
-1 Brainstone
-1 Aether Spellbomb
-1 Soul-Guide Lantern
-1 Pithing Needle
-1 Trinket Mage
-1 Academy Ruins
-2 Trinket Mage
-2 Auriok Salvagers
-3 Trinket Mage
-3 Auriok Salvagers
-4 Trinket Mage
-1 Kaldra Compleat
+4 Mox Opal
 1 Prismatic Vista
+2 Snow-Covered Plains
+1 Jace, the Mind Sculptor
+2 Umezawa's Jitte
+2 Nettlecyst
+4 Walking Ballista
+1 Kaldra Compleat
 1 Piracy Charm
 2 Prismatic Vista
-2 Snow-Covered Plains
-2 Sai, Master Thopterist
-2 Nettlecyst
-4 Emry, Lurker of the Loch
 1 Spell Snare
-1 Jace, the Mind Sculptor
 2 Spell Pierce
-4 Mox Opal
+3 Tundra
+1 Prismatic Ending
 4 Wasteland
-1 Windswept Heath
-2 Windswept Heath
-3 Windswept Heath
-1 Preordain
-2 Prismatic Ending
-2 Preordain
+1 Plains
+1 Sword of Fire and Ice
+3 Polluted Delta
+4 Polluted Delta
 1 Snapback
 1 Chain of Vapor
+1 Engineered Explosives
 2 Misty Rainforest
-1 Tropical Island
+1 Baleful Strix
+1 Snow-Covered Swamp
+1 Marsh Flats
 1 Scrubland
-1 Shadowspear
-1 Unburial Rites
-1 Intuition
-2 Intuition
-3 Intuition
+1 Liliana, the Last Hope
+1 Council's Judgment
+1 Underground Sea
+1 Thoughtseize
+2 Baleful Strix
+2 Thoughtseize
+2 Liliana, the Last Hope
+2 Underground Sea
+2 Jace, the Mind Sculptor
+3 Baleful Strix
+3 Thoughtseize
+1 Urza's Bauble
+1 Hullbreacher
+1 Tormod's Crypt
+1 City of Traitors
+1 Aether Spellbomb
+2 Urza's Bauble
+2 Hullbreacher
+2 City of Traitors
+3 Urza's Bauble
+3 Sai, Master Thopterist
+1 Volcanic Island
+1 Murktide Regent
+1 Forked Bolt
+1 Preordain
+2 Murktide Regent
+2 Prismatic Ending
+2 Preordain
+2 Forked Bolt
+2 Volcanic Island
+3 Prismatic Ending
+3 Murktide Regent
+3 Preordain
+4 Prismatic Ending
 1 Skaab Ruinator
 1 Ancestral Vision
 1 Disrupting Shoal
@@ -162,24 +171,15 @@
 2 Disrupting Shoal
 3 Aether Vial
 4 Aether Vial
-1 Sword of Fire and Ice
 1 Gideon, Ally of Zendikar
+1 Windswept Heath
 1 Squadron Hawk
 2 Plains
+2 Windswept Heath
 2 Squadron Hawk
 3 Squadron Hawk
+3 Windswept Heath
 4 Squadron Hawk
-1 Murktide Regent
-1 Forked Bolt
-2 Murktide Regent
-2 Forked Bolt
-2 Volcanic Island
-3 Prismatic Ending
-3 Murktide Regent
-3 Polluted Delta
-3 Preordain
-4 Prismatic Ending
-4 Polluted Delta
 1 Sword of the Meek
 1 Meekstone
 1 Thopter Foundry
@@ -189,6 +189,6 @@
 3 Karn, the Great Creator
 3 Ancient Den
 3 Thopter Foundry
-4 Tundra
 4 Ancient Den
+4 Tundra
 4 Karn, the Great Creator
