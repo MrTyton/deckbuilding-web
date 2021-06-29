@@ -1,20 +1,20 @@
-1 Mind Stone
-1 Guardian Idol
-1 Ugin, the Spirit Dragon
-2 Mind Stone
-2 Ugin, the Spirit Dragon
-2 Guardian Idol
-3 Mind Stone
-3 Guardian Idol
-4 Mind Stone
 1 Radiant Fountain
 1 Forsaken Monument
+1 Mind Stone
+1 Guardian Idol
 1 Hedron Archive
+1 Ugin, the Spirit Dragon
 2 Radiant Fountain
 2 Forsaken Monument
+2 Mind Stone
 2 Hedron Archive
+2 Ugin, the Spirit Dragon
+2 Guardian Idol
 3 Radiant Fountain
+3 Mind Stone
+3 Guardian Idol
 3 Hedron Archive
+4 Mind Stone
 3 Ugin, the Spirit Dragon
 3 Forsaken Monument
 1 Karn, the Great Creator
@@ -22,22 +22,22 @@
 3 Karn, the Great Creator
 4 Radiant Fountain
 1 Ugin, the Ineffable
-2 Ugin, the Ineffable
-4 Guardian Idol
-1 Karn, Scion of Urza
-1 Crawling Barrens
 1 Ulamog, the Ceaseless Hunger
-1 Golos, Tireless Pilgrim
+2 Ugin, the Ineffable
+1 Karn, Scion of Urza
+4 Guardian Idol
+1 Crawling Barrens
 1 Cascading Cataracts
 1 Aether Hub
+1 Golos, Tireless Pilgrim
 1 Ifnir Deadlands
 2 Ifnir Deadlands
 3 Ifnir Deadlands
-1 Mazemind Tome
-2 Mazemind Tome
 1 Buried Ruin
 1 Zhalfirin Void
 2 Zhalfirin Void
+1 Mazemind Tome
+2 Mazemind Tome
 1 Arch of Orazca
 1 Extinction Event
 2 Golos, Tireless Pilgrim
@@ -68,30 +68,25 @@
 1 Rotting Regisaur
 2 Rotting Regisaur
 1 Legion's End
-2 Crawling Barrens
 1 Interplanar Beacon
 2 Interplanar Beacon
 3 Interplanar Beacon
 4 Interplanar Beacon
+2 Crawling Barrens
 3 Mazemind Tome
 3 Rotting Regisaur
 3 Blast Zone
 1 Blinkmoth Nexus
-1 Scavenger Grounds
-1 Coldsteel Heart
-2 Coldsteel Heart
-3 Karn, Scion of Urza
-1 Grafdigger's Cage
 1 Demonic Embrace
 4 Extinction Event
 1 Callous Bloodmage
 1 Phyrexian Obliterator
+1 Agadeem's Awakening
 1 Vito, Thorn of the Dusk Rose
 1 Dusk Legion Zealot
 1 Fatal Push
 1 Gifted Aetherborn
 1 Sorin, Imperious Bloodlord
-1 Agadeem's Awakening
 1 Champion of Dusk
 2 Vito, Thorn of the Dusk Rose
 2 Dusk Legion Zealot
@@ -107,50 +102,20 @@
 4 Champion of Dusk
 4 Gifted Aetherborn
 4 Sorin, Imperious Bloodlord
+1 Scavenger Grounds
+1 Coldsteel Heart
+2 Coldsteel Heart
+3 Karn, Scion of Urza
 1 Ghost Quarter
-4 Mazemind Tome
+1 Grafdigger's Cage
 3 Crawling Barrens
 4 Crawling Barrens
+4 Mazemind Tome
 2 Arch of Orazca
-1 The World Tree
-1 Field of Ruin
-1 Mountain
-1 Ramunap Ruins
-1 Forgotten Cave
-1 Redcap Melee
-1 Chandra, Torch of Defiance
-1 Anger of the Gods
-1 Chandra, Awakened Inferno
-1 Shatterskull Smashing
-2 Shatterskull Smashing
-2 Ramunap Ruins
-2 Mountain
-2 Forgotten Cave
-2 Redcap Melee
-2 Anger of the Gods
-2 Chandra, Awakened Inferno
-2 Grafdigger's Cage
-2 Chandra, Torch of Defiance
-3 Anger of the Gods
-3 Ramunap Ruins
-3 Chandra, Torch of Defiance
-3 Mountain
-4 Chandra, Torch of Defiance
-4 Anger of the Gods
-4 Mountain
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-13 Mountain
-14 Mountain
 1 Thought Distortion
 1 Labyrinth of Skophos
 1 Mobilized District
+1 The World Tree
 1 Torment of Hailfire
 1 Myriad Construct
 1 Bonders' Enclave
@@ -190,6 +155,7 @@
 1 Aetherflux Reservoir
 1 Paradox Engine
 1 Witch's Oven
+1 Field of Ruin
 1 Metalwork Colossus
 1 Tyrite Sanctum
 2 Paradox Engine

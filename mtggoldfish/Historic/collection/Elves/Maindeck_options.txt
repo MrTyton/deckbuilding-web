@@ -48,15 +48,15 @@
 2 Temple Garden
 3 Temple Garden
 3 Branchloft Pathway
-4 Temple Garden
 4 Branchloft Pathway
+4 Temple Garden
 18 Snow-Covered Forest
 19 Snow-Covered Forest
 1 Breeding Pool
 1 Botanical Sanctum
-1 Swan Song
-1 Barkchannel Pathway
 1 Aether Gust
+1 Barkchannel Pathway
+1 Swan Song
 2 Breeding Pool
 2 Botanical Sanctum
 2 Barkchannel Pathway
@@ -102,10 +102,10 @@
 2 Lys Alana Huntmaster
 1 Swamp
 1 The Great Henge
+1 Haunting Voyage
 1 Harald Unites the Elves
 1 Elven Ambush
 1 Poison-Tip Archer
-1 Haunting Voyage
 2 Swamp
 2 Harald Unites the Elves
 2 Abomination of Llanowar
@@ -115,8 +115,8 @@
 2 Canopy Tactician
 3 Swamp
 3 Druid of the Cowl
-4 Swamp
 4 Druid of the Cowl
+4 Swamp
 5 Swamp
 6 Swamp
 7 Swamp
@@ -128,10 +128,10 @@
 1 Vivien, Arkbow Ranger
 1 Pelt Collector
 2 Pelt Collector
-1 Wildborn Preserver
-2 Wildborn Preserver
 1 Elderfang Disciple
 2 Elderfang Disciple
+1 Wildborn Preserver
+2 Wildborn Preserver
 1 Necroblossom Snarl
 1 Skemfar Elderhall
 2 Necroblossom Snarl
@@ -144,10 +144,6 @@
 2 Turntimber Symbiosis
 3 Turntimber Symbiosis
 3 Growing Rites of Itlimoc
-1 Unclaimed Territory
-2 Unclaimed Territory
-3 Unclaimed Territory
-4 Unclaimed Territory
 1 Woodland Cemetery
 1 Fiend Artisan
 2 Woodland Cemetery
@@ -158,6 +154,10 @@
 1 Carnage Tyrant
 1 Return of the Wildspeaker
 4 Paradise Druid
+1 Unclaimed Territory
+2 Unclaimed Territory
+3 Unclaimed Territory
+4 Unclaimed Territory
 1 Primal Might
 1 Questing Beast
 1 Grafdigger's Cage

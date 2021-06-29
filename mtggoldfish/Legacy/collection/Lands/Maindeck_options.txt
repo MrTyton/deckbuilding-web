@@ -2,17 +2,18 @@
 1 Glacial Chasm
 2 Field of the Dead
 1 Misty Rainforest
-1 Sheltered Thicket
 2 Urza's Saga
 3 Urza's Saga
 1 Lightning Bolt
 1 Snow-Covered Forest
-1 Nurturing Peatland
+1 Sheltered Thicket
 1 Horizon Canopy
 1 Retrofitter Foundry
 2 Lightning Bolt
 1 Pyrite Spellbomb
+1 Nurturing Peatland
 1 Waterlogged Grove
+1 Tranquil Thicket
 3 Elvish Reclaimer
 1 Savannah
 2 Windswept Heath
@@ -22,9 +23,6 @@
 1 Bayou
 1 Abrupt Decay
 2 Bayou
-1 Gamble
-2 Gamble
-1 Tranquil Thicket
 3 Windswept Heath
 1 Swords to Plowshares
 2 Swords to Plowshares
@@ -55,7 +53,8 @@
 2 Abrupt Decay
 1 Plateau
 4 Dark Depths
-1 Riftstone Portal
+1 Gamble
+2 Gamble
 1 Molten Vortex
 1 Sejiri Steppe
 1 Phyrexian Furnace
@@ -72,7 +71,6 @@
 1 Snow-Covered Plains
 2 Blast Zone
 3 Abrupt Decay
-1 Tropical Island
 1 Mishra's Bauble
 1 Sevinne's Reclamation
 1 Engineered Explosives
@@ -81,11 +79,12 @@
 1 Barbarian Ring
 1 Temple Garden
 1 Hall of Heliod's Generosity
+1 Riftstone Portal
 1 Grasping Dunes
 1 Manabond
 1 Karn, Scion of Urza
-2 Ghost Quarter
 2 Karn, Scion of Urza
+2 Ghost Quarter
 3 Gamble
 3 Maze of Ith
 4 Rishadan Port

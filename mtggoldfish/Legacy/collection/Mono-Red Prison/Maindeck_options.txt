@@ -22,11 +22,11 @@
 2 Blood Sun
 1 Hullbreacher
 1 Polluted Delta
-1 Island
 1 Jace, the Mind Sculptor
+1 Island
+1 Volcanic Island
 1 Izzet Charm
 1 Narset, Parter of Veils
-1 Volcanic Island
 1 Fiery Islet
 1 Day's Undoing
 1 Vendilion Clique
@@ -34,16 +34,16 @@
 1 Scalding Tarn
 1 Ash Barrens
 1 Force of Will
-2 Island
 2 Hullbreacher
+2 Island
 2 Scalding Tarn
 2 Jace, the Mind Sculptor
 2 Izzet Charm
 2 Force of Will
 2 Day's Undoing
 2 Volcanic Island
-3 Island
 3 Hullbreacher
+3 Island
 3 Scalding Tarn
 3 Day's Undoing
 3 Izzet Charm
@@ -73,8 +73,8 @@
 2 Force of Negation
 2 Narset, Parter of Veils
 2 Brazen Borrower
-1 Prismari Command
 1 Cascade Bluffs
+1 Prismari Command
 2 Prismari Command
 2 Fiery Islet
 2 Ash Barrens
@@ -91,12 +91,6 @@
 2 Birgi, God of Storytelling
 3 Birgi, God of Storytelling
 4 Birgi, God of Storytelling
-1 Chandra, Heart of Fire
-2 Chandra, Heart of Fire
-3 Abrade
-3 Chandra, Heart of Fire
-4 Ensnaring Bridge
-4 Abrade
 1 Seasoned Pyromancer
 1 Spikefield Hazard
 1 Fury
@@ -104,3 +98,9 @@
 2 Fury
 3 Seasoned Pyromancer
 4 Seasoned Pyromancer
+1 Chandra, Heart of Fire
+2 Chandra, Heart of Fire
+3 Abrade
+3 Chandra, Heart of Fire
+4 Abrade
+4 Ensnaring Bridge

@@ -1,51 +1,62 @@
-2 Supreme Verdict
-1 Snow-Covered Island
+1 Spell Pierce
 1 Snow-Covered Plains
+1 Snow-Covered Island
 3 Prismatic Vista
-2 Counterspell
-2 Narset, Parter of Veils
-2 Snow-Covered Island
-3 Scalding Tarn
 3 Plains
+2 Counterspell
 1 Terminus
 2 Terminus
-2 Snow-Covered Plains
 1 Snapcaster Mage
-3 Snow-Covered Island
-1 Counterbalance
-2 Moat
-1 Court of Grace
+2 Snow-Covered Island
 1 Daze
 2 Daze
 1 Retrofitter Foundry
-2 Misty Rainforest
+2 Narset, Parter of Veils
 1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
 3 Daze
-3 Supreme Verdict
-4 Snow-Covered Island
-5 Snow-Covered Island
-1 Snow-Covered Mountain
 1 Wasteland
 2 Wasteland
+3 Scalding Tarn
 3 Tundra
 2 Polluted Delta
 4 Urza's Saga
 1 Soul-Guide Lantern
-2 Brazen Borrower
-4 Scalding Tarn
-1 Mountain
+2 Snow-Covered Plains
+2 Moat
+1 Court of Grace
 3 Wasteland
+3 Snow-Covered Island
 1 Prismatic Ending
+2 Volcanic Island
+1 Lightning Bolt
+2 Lightning Bolt
+3 Volcanic Island
+1 Arid Mesa
+2 Arid Mesa
+1 Stifle
+1 Murktide Regent
+1 Ragavan, Nimble Pilferer
+1 True-Name Nemesis
+2 Stifle
+2 Murktide Regent
+2 Ragavan, Nimble Pilferer
+3 Stifle
+3 Ragavan, Nimble Pilferer
+4 Daze
+4 Ragavan, Nimble Pilferer
+1 Counterbalance
+3 Supreme Verdict
+2 Brazen Borrower
+2 Misty Rainforest
+1 Mountain
 2 Prismatic Ending
 2 Counterbalance
 4 Plains
-2 Spell Pierce
-2 Volcanic Island
-1 Arid Mesa
-2 Arid Mesa
-3 Force of Negation
+4 Snow-Covered Island
+5 Snow-Covered Island
+1 Snow-Covered Mountain
 1 Hullbreacher
 1 Fblthp, the Lost
 1 Marsh Flats
@@ -54,8 +65,8 @@
 1 Solitude
 1 Meddling Mage
 1 Lavinia, Azorius Renegade
-1 Skyclave Apparition
 1 Palace Jailer
+1 Skyclave Apparition
 1 Brought Back
 1 Weathered Wayfarer
 1 Aether Vial
@@ -72,29 +83,26 @@
 2 Recruiter of the Guard
 2 Aether Vial
 2 Weathered Wayfarer
-3 Solitude
 3 Windswept Heath
+3 Solitude
 3 Meddling Mage
 3 Recruiter of the Guard
 3 Brought Back
 3 Aether Vial
 3 Weathered Wayfarer
-4 Solitude
 4 Tundra
+4 Solitude
 4 Aether Vial
 4 Weathered Wayfarer
 4 Meddling Mage
 4 Recruiter of the Guard
+4 Scalding Tarn
 1 Mishra's Factory
 2 Mishra's Factory
 1 Timeless Dragon
 2 Timeless Dragon
 3 Timeless Dragon
 3 Polluted Delta
-4 Prismatic Vista
-1 Lightning Bolt
-2 Lightning Bolt
-3 Volcanic Island
 1 Snow-Covered Forest
 1 Uro, Titan of Nature's Wrath
 1 Tropical Island
@@ -102,39 +110,16 @@
 2 Uro, Titan of Nature's Wrath
 3 Misty Rainforest
 4 Misty Rainforest
-1 Swamp
-1 Underground Sea
-1 Teferi, Hero of Dominaria
 1 Predict
 1 Spell Snare
 2 Spell Snare
 2 Council's Judgment
-1 Stifle
-1 Murktide Regent
-1 Ragavan, Nimble Pilferer
-1 True-Name Nemesis
-2 Stifle
-2 Murktide Regent
-2 Ragavan, Nimble Pilferer
-3 Stifle
-3 Ragavan, Nimble Pilferer
+1 Cursed Scroll
+1 Swamp
+1 Underground Sea
 4 Stifle
-4 Daze
-4 Ragavan, Nimble Pilferer
+1 Pithing Needle
 1 Back to Basics
-1 Day's Undoing
-2 Hullbreacher
-2 Day's Undoing
-3 Teferi, Time Raveler
-1 Replenish
-1 Cast Out
-1 Lay Claim
-2 Cast Out
-2 Replenish
-2 Lay Claim
-3 Cast Out
-3 Lay Claim
-3 Replenish
 1 Sylvan Library
 1 Ice-Fang Coatl
 1 Endurance
@@ -147,20 +132,35 @@
 2 Endurance
 3 Ice-Fang Coatl
 3 Stoneforge Mystic
-4 Force of Negation
 1 Dovin's Veto
-3 Mishra's Factory
+2 Spell Pierce
+3 Force of Negation
+1 Day's Undoing
+2 Hullbreacher
+2 Day's Undoing
+3 Teferi, Time Raveler
 3 Uro, Titan of Nature's Wrath
+3 Mishra's Factory
 2 Retrofitter Foundry
 2 Snapcaster Mage
+4 Prismatic Vista
 4 Polluted Delta
 1 Knight of the White Orchid
 2 Knight of the White Orchid
 1 Niambi, Esteemed Speaker
 1 Charming Prince
 4 Brought Back
+1 Cast Out
 1 Doomskar
+1 Replenish
+1 Lay Claim
+2 Cast Out
 2 Mystic Sanctuary
+2 Replenish
+2 Lay Claim
+3 Lay Claim
+3 Replenish
+3 Cast Out
 1 Cling to Dust
 1 Bloodstained Mire
 1 Eliminate
@@ -188,24 +188,23 @@
 4 Ornithopter
 4 Retrofitter Foundry
 1 Phyrexian Dreadnought
+1 Teferi, Hero of Dominaria
 1 Kaldra Compleat
-1 Pithing Needle
-1 Cursed Scroll
 1 Vendilion Clique
 1 Crucible of Worlds
 1 Flusterstorm
+1 Luminarch Ascension
+2 Back to Basics
 2 Dovin's Veto
 1 Engineered Explosives
 1 Umezawa's Jitte
 2 Engineered Explosives
-1 Luminarch Ascension
-2 Back to Basics
 1 Pyroblast
 3 Day's Undoing
 1 Omen of the Sea
 1 Vanishing Verse
-1 Estrid's Invocation
 1 Trial of Ambition
+1 Estrid's Invocation
 2 Omen of the Sea
 2 Court of Grace
 2 Vanishing Verse
@@ -226,17 +225,18 @@
 2 Ominous Seas
 3 Ominous Seas
 3 Narset, Parter of Veils
+4 Force of Negation
 1 Mox Diamond
 1 Tranquil Thicket
 1 Verdant Catacombs
 1 Forest
+1 Lonely Sandbar
 1 Bojuka Bog
 1 Life from the Loam
 1 Crop Rotation
 1 Field of the Dead
 1 Bayou
 1 Abrupt Decay
-1 Lonely Sandbar
 2 Mox Diamond
 2 Life from the Loam
 2 Abrupt Decay
@@ -264,12 +264,9 @@
 3 Brazen Borrower
 3 Faerie Conclave
 3 Burst Lightning
+4 Snapcaster Mage
 4 Lightning Bolt
 4 Mishra's Factory
 4 Volcanic Island
 4 Bonecrusher Giant
-4 Snapcaster Mage
 4 Faerie Conclave
-1 Path to Exile
-4 Cast Out
-4 Replenish

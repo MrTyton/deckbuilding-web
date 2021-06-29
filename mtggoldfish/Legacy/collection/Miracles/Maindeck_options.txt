@@ -1,5 +1,5 @@
-1 Snow-Covered Plains
 1 Snow-Covered Island
+1 Snow-Covered Plains
 1 Karakas
 4 Scalding Tarn
 1 Council's Judgment
@@ -14,8 +14,8 @@
 1 Hullbreacher
 2 Prismatic Vista
 1 Uro, Titan of Nature's Wrath
-1 Tropical Island
 1 Sylvan Library
+1 Tropical Island
 2 Uro, Titan of Nature's Wrath
 3 Misty Rainforest
 3 Monastery Mentor
@@ -49,8 +49,8 @@
 3 Narset, Parter of Veils
 1 Abundant Harvest
 2 Abundant Harvest
-3 Sylvan Library
 3 Abundant Harvest
+3 Sylvan Library
 3 Prismatic Ending
 1 Mountain
 3 Polluted Delta
@@ -79,9 +79,9 @@
 2 Daze
 3 Daze
 1 Court of Grace
+1 Sphinx's Revelation
 1 Sedgemoor Witch
 1 Celestial Colonnade
-1 Sphinx's Revelation
 1 Unexpectedly Absent
 1 Gideon, Ally of Zendikar
 1 Sevinne's Reclamation
@@ -142,7 +142,6 @@
 7 Island
 1 Orim's Chant
 1 Street Wraith
-1 Duress
 1 Doomsday
 1 Ideas Unbound
 1 Edge of Autumn
@@ -152,14 +151,15 @@
 1 Thoughtseize
 1 Lion's Eye Diamond
 1 Scrubland
+1 Duress
 1 Dark Ritual
 1 Lotus Petal
-2 Underground Sea
 2 Street Wraith
-2 Duress
 2 Doomsday
 2 Personal Tutor
+2 Duress
 2 Dark Ritual
+2 Underground Sea
 2 Lotus Petal
 3 Street Wraith
 3 Underground Sea
