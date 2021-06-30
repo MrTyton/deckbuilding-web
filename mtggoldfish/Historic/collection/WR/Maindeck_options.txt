@@ -1,28 +1,28 @@
-3 Drannith Stinger
-3 Zenith Flare
-4 Drannith Stinger
-4 Flourishing Fox
-3 Go for Blood
-4 Zenith Flare
-4 Go for Blood
-1 Forgotten Cave
-1 Secluded Steppe
-2 Forgotten Cave
-2 Secluded Steppe
-3 Cast Out
-3 Forgotten Cave
-3 Secluded Steppe
-4 Forgotten Cave
-4 Cast Out
-4 Secluded Steppe
-1 Footfall Crater
-2 Footfall Crater
-1 Hollow One
-2 Hollow One
-3 Hollow One
-4 Hollow One
-1 Drannith Healer
-2 Drannith Healer
+1 Castle Ardenvale
+1 Shatterskull Smashing
+2 Shatterskull Smashing
+1 Skyclave Apparition
+2 Skyclave Apparition
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+3 Bonecrusher Giant
+4 Bonecrusher Giant
+3 Lightning Helix
+4 Lightning Helix
+1 Glorybringer
+3 Skyclave Apparition
+1 Elite Spellbinder
+2 Elite Spellbinder
+2 Glorybringer
+3 Elite Spellbinder
+4 Skyclave Apparition
+4 Elite Spellbinder
+2 Castle Ardenvale
+1 Adanto Vanguard
+2 Adanto Vanguard
+3 Glorybringer
+3 Adanto Vanguard
+4 Adanto Vanguard
 3 Shatterskull Smashing
 1 Savai Triome
 1 Raugrin Triome
@@ -30,27 +30,27 @@
 2 Flamescroll Celebrant
 1 Reidane, God of the Worthy
 2 Reidane, God of the Worthy
-3 Flamescroll Celebrant
-4 Plains
 1 Flameblade Adept
 2 Flameblade Adept
 3 Flameblade Adept
 3 Footfall Crater
+3 Flamescroll Celebrant
+4 Plains
 4 Shatterskull Smashing
-3 Mountain
 4 Flamescroll Celebrant
 3 Drannith Healer
 4 Chandra, Torch of Defiance
 4 Drannith Healer
+3 Mountain
 3 Reidane, God of the Worthy
+4 Footfall Crater
 4 Flameblade Adept
 1 Faithless Looting
-4 Footfall Crater
+1 Sweltering Suns
 2 Faithless Looting
 3 Faithless Looting
 4 Faithless Looting
 4 Mountain
-1 Sweltering Suns
 2 Sweltering Suns
 5 Plains
 1 Tenth District Legionnaire
@@ -77,73 +77,71 @@
 4 Clever Lumimancer
 1 Fight as One
 1 Emeria's Call
-5 Mountain
-1 Gods Willing
-1 Valiant Rescuer
 2 Fight as One
+1 Gods Willing
 3 Clifftop Retreat
 2 Gods Willing
-6 Mountain
+5 Mountain
 1 Transmogrify
+1 History of Benalia
 1 Forbidden Friendship
+1 Heroic Reinforcements
 1 Raise the Alarm
 1 Legion's Landing
 2 Transmogrify
+2 History of Benalia
 2 Raise the Alarm
 2 Forbidden Friendship
 2 Legion's Landing
+2 Heroic Reinforcements
 3 Transmogrify
 3 Legion's Landing
+3 Heroic Reinforcements
 3 Raise the Alarm
+3 History of Benalia
 3 Forbidden Friendship
 4 Forbidden Friendship
-4 Raise the Alarm
-4 Legion's Landing
-1 History of Benalia
-1 Heroic Reinforcements
-2 History of Benalia
-2 Heroic Reinforcements
-3 Heroic Reinforcements
-3 History of Benalia
 4 Transmogrify
 4 Heroic Reinforcements
 4 History of Benalia
+4 Raise the Alarm
+4 Legion's Landing
 1 Invigorated Rampage
 2 Invigorated Rampage
 3 Invigorated Rampage
-6 Plains
 3 Gods Willing
 3 Soul-Scar Mage
 4 Soul-Scar Mage
+1 Valiant Rescuer
+6 Mountain
+6 Plains
 4 Gods Willing
 1 Blinkmoth Nexus
 2 Blinkmoth Nexus
+1 Feather, the Redeemed
+2 Feather, the Redeemed
+4 Invigorated Rampage
 1 Guiding Voice
 2 Guiding Voice
 3 Guiding Voice
 4 Guiding Voice
-4 Invigorated Rampage
 1 Leonin Lightscribe
 2 Leonin Lightscribe
 3 Leonin Lightscribe
-1 Elesh Norn, Grand Cenobite
-1 Dragon Fodder
-2 Dragon Fodder
-1 Feather, the Redeemed
-2 Feather, the Redeemed
 4 Clifftop Retreat
-1 Furycalm Snarl
 3 Feather, the Redeemed
-1 Easy Prey
+1 Cragcrown Pathway
+2 Cragcrown Pathway
 1 Memory Leak
+1 Easy Prey
 2 Memory Leak
 2 Easy Prey
 3 Easy Prey
 3 Memory Leak
 4 Memory Leak
-1 Reptilian Reflection
-2 Elesh Norn, Grand Cenobite
-1 Gideon Blackblade
+1 Elesh Norn, Grand Cenobite
+1 Dragon Fodder
+2 Dragon Fodder
 1 Blightstep Pathway
 1 Brightclimb Pathway
 1 Canyon Slough
@@ -152,25 +150,30 @@
 2 Canyon Slough
 3 Blightstep Pathway
 3 Brightclimb Pathway
-1 Satyr's Cunning
-1 Fire Prophecy
-2 Fire Prophecy
-2 Valiant Rescuer
+1 Gideon Blackblade
+4 Feather, the Redeemed
+1 Furycalm Snarl
 1 Selfless Savior
 2 Selfless Savior
 3 Selfless Savior
 4 Selfless Savior
 4 Leonin Lightscribe
-1 Cragcrown Pathway
-2 Cragcrown Pathway
-4 Feather, the Redeemed
+1 Satyr's Cunning
+1 Sheltered Thicket
+1 Branchloft Pathway
+2 Branchloft Pathway
+1 Reptilian Reflection
+2 Elesh Norn, Grand Cenobite
 1 Gird for Battle
 2 Gird for Battle
 1 Castle Embereth
+1 Fire Prophecy
+2 Fire Prophecy
 1 Shefet Dunes
 2 Shefet Dunes
 3 Shefet Dunes
-7 Mountain
+2 Valiant Rescuer
+3 Fight as One
 1 Thraben Inspector
 2 Thraben Inspector
 3 Thraben Inspector
@@ -178,16 +181,13 @@
 1 Showdown of the Skalds
 2 Showdown of the Skalds
 3 Showdown of the Skalds
-3 Valiant Rescuer
-4 Valiant Rescuer
 1 Temple of Triumph
+2 Sheltered Thicket
+3 Cragcrown Pathway
 1 Hazoret the Fervent
-1 Sheltered Thicket
-1 Branchloft Pathway
-2 Branchloft Pathway
-1 Baffling End
 1 Desert of the True
-3 Fight as One
+1 Baffling End
+7 Mountain
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 2 Emeria's Call
@@ -204,54 +204,54 @@
 2 Lukka, Coppercoat Outcast
 1 Craterhoof Behemoth
 2 Craterhoof Behemoth
-3 Dragon Fodder
-1 Intangible Virtue
-2 Intangible Virtue
-3 Intangible Virtue
-4 Intangible Virtue
 2 Furycalm Snarl
 2 Gideon Blackblade
 1 Show of Confidence
 2 Show of Confidence
 3 Show of Confidence
-1 Shock
 1 Mila, Crafty Companion
-1 Fabled Passage
-2 Fabled Passage
+3 Valiant Rescuer
+4 Valiant Rescuer
+4 Fight as One
 1 Seasoned Hallowblade
 2 Seasoned Hallowblade
 2 Reptilian Reflection
 2 Desert of the True
 3 Desert of the True
-2 Sheltered Thicket
-3 Cragcrown Pathway
-1 Gideon of the Trials
 1 Lorehold Command
 2 Lorehold Command
+3 Dragon Fodder
 4 Dragon Fodder
+1 Gideon of the Trials
+1 Shock
 2 Shock
 3 Shock
-4 Fight as One
 3 Coldsteel Heart
-1 Valakut Awakening
 1 Infuriate
 3 Gird for Battle
 4 Gird for Battle
-1 Justice Strike
+1 Intangible Virtue
+2 Intangible Virtue
+3 Intangible Virtue
+4 Intangible Virtue
 3 Seasoned Hallowblade
-3 Fire Prophecy
-7 Plains
+1 Fabled Passage
+2 Fabled Passage
+1 Valakut Awakening
 1 Samut's Sprint
 2 Samut's Sprint
 3 Elesh Norn, Grand Cenobite
 4 Shock
 3 Chandra, Awakened Inferno
 4 Coldsteel Heart
+3 Fire Prophecy
+3 Fabled Passage
 1 Heart of Kiran
 2 Heart of Kiran
 2 Mila, Crafty Companion
 4 Seasoned Hallowblade
-3 Fabled Passage
+7 Plains
+1 Justice Strike
 2 Satyr's Cunning
 1 Luminarch Aspirant
 2 Luminarch Aspirant
@@ -262,33 +262,16 @@
 1 Grapeshot
 2 Temple of Triumph
 1 Mavinda, Students' Advocate
-2 Justice Strike
-1 Servo Exhibition
-2 Servo Exhibition
-8 Mountain
-1 Imposing Vantasaur
-2 Imposing Vantasaur
-3 Imposing Vantasaur
 2 Savai Triome
 1 Blood Crypt
 1 Concealed Courtyard
 2 Concealed Courtyard
 3 Concealed Courtyard
+1 Stomping Ground
+2 Stomping Ground
+3 Stomping Ground
+4 Stomping Ground
 1 Shredded Sails
-1 Irencrag Pyromancer
-1 Basri Ket
-1 Rowan, Scholar of Sparks
-1 Savai Thundermane
-1 Yidaro, Wandering Monster
-1 Lava Serpent
-1 Zirda, the Dawnwaker
-1 Rooting Moloch
-1 Splendor Mare
-2 Zirda, the Dawnwaker
-8 Plains
-9 Plains
-9 Mountain
-10 Plains
 1 Thoughtseize
 1 Angelheart Protector
 1 Castle Locthwain
@@ -312,18 +295,21 @@
 1 Desert of the Fervent
 1 Mana Tithe
 2 Mana Tithe
+1 Ephemerate
+1 The Birth of Meletis
+1 Sejiri Shelter
+2 Ephemerate
 1 Relic of Progenitus
 2 Gideon of the Trials
 1 Archon of Emeria
 2 Archon of Emeria
-1 The Birth of Meletis
-1 Ephemerate
-1 Sejiri Shelter
-2 Ephemerate
 1 Increasing Vengeance
 2 Mavinda, Students' Advocate
 2 Increasing Vengeance
+1 Indatha Triome
+2 Indatha Triome
 1 Aurelia, Exemplar of Justice
+2 Justice Strike
 2 Aurelia, Exemplar of Justice
 1 Kari Zev, Skyship Raider
 2 Hazoret the Fervent
@@ -334,11 +320,6 @@
 3 Lightning Strike
 2 Baffling End
 3 Sweltering Suns
-1 Conclave Tribunal
-1 Indomitable Creativity
-2 Valakut Awakening
-2 Indomitable Creativity
-3 Indomitable Creativity
 3 Sheltered Thicket
 3 Lorehold Command
 1 Wind-Scarred Crag
@@ -346,43 +327,66 @@
 3 Wind-Scarred Crag
 3 Emeria's Call
 4 Emeria's Call
-1 Stomping Ground
-1 Indatha Triome
-2 Stomping Ground
-2 Indatha Triome
-3 Stomping Ground
-4 Stomping Ground
 2 Infuriate
 3 Infuriate
 4 Infuriate
 1 Chandra, Acolyte of Flame
+1 Servo Exhibition
 2 Chandra, Acolyte of Flame
+2 Servo Exhibition
 3 Chandra, Acolyte of Flame
 4 Shefet Dunes
+1 Imposing Vantasaur
+2 Imposing Vantasaur
+3 Imposing Vantasaur
 4 Imposing Vantasaur
+1 Rootbound Crag
+1 Abundant Harvest
+1 Dromoka's Command
+1 Blossoming Defense
+1 Sunpetal Grove
+1 Temple Garden
+2 Abundant Harvest
+2 Dromoka's Command
+2 Blossoming Defense
+2 Rootbound Crag
+2 Temple Garden
+2 Sunpetal Grove
+3 Sunpetal Grove
+3 Abundant Harvest
+3 Blossoming Defense
+3 Dromoka's Command
+3 Temple Garden
+4 Abundant Harvest
+4 Sunpetal Grove
+4 Blossoming Defense
+4 Temple Garden
+4 Dromoka's Command
 1 Negate
-1 Mystical Dispute
 1 Temple of Enlightenment
+1 Mystical Dispute
 1 Temple of Epiphany
-1 Riverglide Pathway
+1 Rielle, the Everwise
 1 Startling Development
 1 Hengegate Pathway
+1 Riverglide Pathway
 1 Island
 1 Improbable Alliance
-1 Rielle, the Everwise
 1 Boon of the Wish-Giver
+1 Irencrag Pyromancer
 2 Temple of Epiphany
 2 Shredded Sails
-2 Riverglide Pathway
 2 Boon of the Wish-Giver
 2 Improbable Alliance
 2 Hengegate Pathway
 2 Rielle, the Everwise
 2 Startling Development
-3 Hengegate Pathway
+2 Riverglide Pathway
 3 Startling Development
 3 Riverglide Pathway
 3 Boon of the Wish-Giver
 3 Improbable Alliance
+3 Hengegate Pathway
 4 Boon of the Wish-Giver
 4 Fire Prophecy
+8 Mountain

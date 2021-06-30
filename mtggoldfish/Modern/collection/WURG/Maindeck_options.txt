@@ -2,70 +2,67 @@
 1 Prismatic Ending
 2 Prismatic Ending
 1 Island
+3 Prismatic Ending
 1 Arid Mesa
 1 Breeding Pool
 1 Lightning Helix
 2 Lightning Helix
+1 Shardless Agent
+2 Shardless Agent
+3 Shardless Agent
 1 Temple Garden
 1 Territorial Kavu
 2 Territorial Kavu
 3 Territorial Kavu
 4 Territorial Kavu
-1 Forest
-1 Shardless Agent
-2 Shardless Agent
-3 Shardless Agent
-1 Windswept Heath
-2 Windswept Heath
+4 Shardless Agent
 1 Scion of Draco
-1 Mantis Rider
 1 Tribal Flames
+1 Mantis Rider
 2 Scion of Draco
 2 Mantis Rider
 2 Tribal Flames
+3 Scion of Draco
 3 Tribal Flames
 3 Mantis Rider
+4 Scion of Draco
 4 Tribal Flames
 4 Mantis Rider
-3 Scion of Draco
-4 Scion of Draco
+1 Forest
+1 Windswept Heath
+2 Windswept Heath
+4 Growth Spiral
 1 Bloodbraid Elf
 2 Bloodbraid Elf
 3 Bloodbraid Elf
-4 Shardless Agent
-3 Prismatic Ending
-4 Growth Spiral
-1 Noble Hierarch
-1 Indatha Triome
 2 Arid Mesa
-2 Noble Hierarch
 1 General Ferrous Rokiric
 2 General Ferrous Rokiric
 3 General Ferrous Rokiric
 4 Bloodbraid Elf
+1 Indatha Triome
 1 Verdant Catacombs
+1 Noble Hierarch
+1 Blood Crypt
 1 Ignoble Hierarch
 1 Savai Triome
 2 Ignoble Hierarch
 3 Ignoble Hierarch
 4 Ignoble Hierarch
+2 Noble Hierarch
+2 Verdant Catacombs
 1 Misty Rainforest
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
-1 Blood Crypt
-2 Verdant Catacombs
 1 Omniscience
 1 Glimpse of Tomorrow
 1 Khalni Garden
 1 Leyline of Sanctity
 1 Gemstone Caverns
-1 As Foretold
 1 Emrakul, the Aeons Torn
 1 Violent Outburst
+1 As Foretold
 2 Khalni Garden
 2 Glimpse of Tomorrow
 2 Omniscience
@@ -82,41 +79,27 @@
 3 As Foretold
 4 Omniscience
 4 Leyline of Sanctity
-4 Emrakul, the Aeons Torn
 4 Violent Outburst
-1 Zagoth Triome
+4 Emrakul, the Aeons Torn
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
 3 Lightning Helix
 4 Lightning Helix
 4 Khalni Garden
 1 Jace, the Mind Sculptor
 3 Bloodstained Mire
 2 Sacred Foundry
-3 Windswept Heath
-1 Flooded Strand
-2 Flooded Strand
 3 Arid Mesa
 4 Bloodstained Mire
-4 Windswept Heath
-1 Plains
-1 Snow-Covered Forest
 1 Wavesifter
 1 Iona, Shield of Emeria
 2 Wavesifter
 2 Iona, Shield of Emeria
 3 Wavesifter
-1 Omnath, Locus of Creation
-3 Flooded Strand
-1 Hallowed Fountain
-1 Felidar Guardian
-1 Saheeli Rai
-1 Oath of Nissa
-2 Felidar Guardian
-2 Saheeli Rai
-2 Oath of Nissa
-2 Omnath, Locus of Creation
-3 Saheeli Rai
-3 Oath of Nissa
-3 Omnath, Locus of Creation
+1 Flooded Strand
+2 Flooded Strand
+1 Snow-Covered Forest
 1 Leyline of the Void
 2 Snow-Covered Mountain
 2 Leyline of the Void
@@ -124,57 +107,69 @@
 4 Wavesifter
 4 Iona, Shield of Emeria
 1 Archon of Cruelty
+1 Plains
+1 Omnath, Locus of Creation
+3 Windswept Heath
+4 Windswept Heath
+1 Hallowed Fountain
+1 Oath of Nissa
+1 Felidar Guardian
+1 Saheeli Rai
+2 Oath of Nissa
+2 Saheeli Rai
+2 Felidar Guardian
+2 Omnath, Locus of Creation
+3 Felidar Guardian
+3 Oath of Nissa
+3 Saheeli Rai
+4 Saheeli Rai
+1 Zagoth Triome
 2 Mountain
+1 Solitude
+2 Solitude
+3 Solitude
+3 Omnath, Locus of Creation
+4 Felidar Guardian
+4 Oath of Nissa
+4 Teferi, Time Raveler
+1 Arboreal Grazer
+2 Arboreal Grazer
+3 Arboreal Grazer
+4 Solitude
 1 Manamorphose
 2 Manamorphose
+3 Flooded Strand
 3 Manamorphose
 4 Flooded Strand
 4 Manamorphose
 4 General Ferrous Rokiric
-1 Solitude
-1 Arboreal Grazer
-2 Arboreal Grazer
-2 Solitude
-3 Felidar Guardian
-3 Arboreal Grazer
-3 Solitude
-4 Felidar Guardian
-4 Saheeli Rai
-4 Oath of Nissa
-4 Solitude
 2 Archon of Cruelty
 3 Archon of Cruelty
 4 Archon of Cruelty
 4 Arid Mesa
-4 Teferi, Time Raveler
-1 Tarmogoyf
-2 Tarmogoyf
-3 Tarmogoyf
 1 Valakut Awakening
 1 Ulamog, the Infinite Gyre
 2 Gemstone Caverns
 2 Jace, the Mind Sculptor
-1 Explore
 1 Fires of Invention
 1 Tamiyo, Collector of Tales
-2 Explore
+1 Explore
 2 Fires of Invention
 2 Tamiyo, Collector of Tales
-3 Explore
+2 Explore
 3 Fires of Invention
-4 Fires of Invention
+3 Explore
 4 Explore
+4 Fires of Invention
 2 Raugrin Triome
 1 Kozilek, Butcher of Truth
 1 Xenagos, God of Revels
 2 Xenagos, God of Revels
-2 Kozilek, Butcher of Truth
 2 Ulamog, the Infinite Gyre
+2 Kozilek, Butcher of Truth
 3 Ulamog, the Infinite Gyre
 4 Glimpse of Tomorrow
 4 As Foretold
-4 Tarmogoyf
-1 Kasmina, Enigma Sage
 2 Valakut Awakening
 1 Transmogrify
 2 Transmogrify
@@ -183,64 +178,67 @@
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
 2 Ketria Triome
-1 Snow-Covered Plains
-1 Path to Exile
-1 Supreme Verdict
-1 Utopia Sprawl
-1 Valki, God of Lies
-1 Bring to Light
-1 Kaya's Guile
-2 Path to Exile
-2 Utopia Sprawl
-2 Bring to Light
-3 Bring to Light
-3 Utopia Sprawl
-4 Utopia Sprawl
 1 Search for Tomorrow
 2 Search for Tomorrow
 1 Cascade Bluffs
 4 Ulamog, the Infinite Gyre
-1 Wild Nacatl
-2 Wild Nacatl
-3 Wild Nacatl
-1 Overgrown Tomb
 1 Fire/Ice
 2 Fire/Ice
-3 Noble Hierarch
-4 Noble Hierarch
-1 Snapcaster Mage
-2 Snapcaster Mage
-1 Farseek
-1 Omen of the Sea
-1 Polymorph
-2 Omen of the Sea
-2 Farseek
-2 Polymorph
-3 Tamiyo, Collector of Tales
-3 Farseek
-3 Transmogrify
-3 Omen of the Sea
-4 Transmogrify
-4 Omen of the Sea
-4 Tamiyo, Collector of Tales
-4 Farseek
+1 Overgrown Tomb
 1 Botanical Sanctum
 2 Botanical Sanctum
-2 Kasmina, Enigma Sage
+1 Birds of Paradise
+1 Voice of Resurgence
+1 Eternal Witness
+1 Eldritch Evolution
+1 Skyclave Apparition
+1 Sun Titan
+2 Birds of Paradise
+2 Voice of Resurgence
+2 Skyclave Apparition
+2 Eldritch Evolution
+3 Birds of Paradise
+4 Birds of Paradise
+1 Wall of Omens
+1 Eladamri's Call
+1 Wall of Blossoms
+1 Snow-Covered Plains
+1 Horizon Canopy
+1 Gilded Goose
+1 Magus of the Moon
+1 Grist, the Hunger Tide
+1 Tranquil Thicket
+1 Renegade Rallier
+1 Ephemerate
+2 Wall of Omens
+2 Wall of Blossoms
+2 Snow-Covered Forest
+2 Snow-Covered Plains
+2 Gilded Goose
+2 Ephemerate
+3 Skyclave Apparition
+3 Snow-Covered Forest
+3 Gilded Goose
+4 Omnath, Locus of Creation
+1 Farseek
+1 Polymorph
+1 Omen of the Sea
+2 Farseek
+2 Omen of the Sea
+2 Polymorph
+3 Omen of the Sea
+3 Transmogrify
+3 Tamiyo, Collector of Tales
+3 Farseek
+4 Omen of the Sea
+4 Tamiyo, Collector of Tales
+4 Transmogrify
+4 Farseek
 1 Anafenza, the Foremost
 1 Godless Shrine
 2 Anafenza, the Foremost
-1 Waterlogged Grove
-1 Hexdrinker
-2 Temple Garden
-1 Nahiri, the Harbinger
-1 Narset, Parter of Veils
-1 Izzet Charm
-2 Izzet Charm
-3 Velomachus Lorehold
-1 Might of Alara
-2 Might of Alara
-3 Might of Alara
+1 Kasmina, Enigma Sage
+2 Kasmina, Enigma Sage
 1 Ugin, the Spirit Dragon
 1 Fiery Islet
 1 Brazen Borrower
@@ -248,23 +246,23 @@
 2 Ugin, the Spirit Dragon
 2 Gemstone Mine
 3 Gemstone Mine
+1 Nahiri, the Harbinger
+1 Izzet Charm
+1 Narset, Parter of Veils
+2 Izzet Charm
+3 Velomachus Lorehold
 3 Valakut Awakening
+1 Tarmogoyf
+1 Might of Alara
+2 Might of Alara
+2 Tarmogoyf
+3 Might of Alara
+3 Tarmogoyf
+4 Tarmogoyf
 1 Griselbrand
 2 Griselbrand
 3 Griselbrand
 4 Griselbrand
-1 Fire-Lit Thicket
-3 Kozilek, Butcher of Truth
-4 Kozilek, Butcher of Truth
-1 Seal of Fire
-1 Tarfire
-1 Vindicate
-1 Ajani, Caller of the Pride
-2 Vindicate
-3 Vindicate
-4 Vindicate
-4 Ragavan, Nimble Pilferer
-4 Wild Nacatl
 1 Swamp
 1 Opt
 2 Swamp
@@ -273,7 +271,28 @@
 3 Opt
 4 Swamp
 4 Opt
+1 Snapcaster Mage
+2 Snapcaster Mage
 3 Verdant Catacombs
 3 Snapcaster Mage
+3 Noble Hierarch
 4 Verdant Catacombs
+4 Noble Hierarch
 4 Snapcaster Mage
+1 Fire-Lit Thicket
+3 Kozilek, Butcher of Truth
+4 Kozilek, Butcher of Truth
+1 Maul of the Skyclaves
+1 Grove of the Burnwillows
+1 Seasoned Pyromancer
+1 Razorverge Thicket
+1 Sword of Fire and Ice
+1 Stoneforge Mystic
+1 Batterskull
+2 Grove of the Burnwillows
+2 Razorverge Thicket
+2 Stoneforge Mystic
+3 Voice of Resurgence
+3 Razorverge Thicket
+3 Stoneforge Mystic
+4 Stoneforge Mystic

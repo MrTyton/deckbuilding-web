@@ -1,5 +1,5 @@
-1 Shadowspear
-2 Forest
+1 Trail of Crumbs
+2 Trail of Crumbs
 3 Trail of Crumbs
 1 Barren Moor
 2 Nurturing Peatland
@@ -10,17 +10,17 @@
 2 Smuggler's Copter
 1 Darkbore Pathway
 2 Darkbore Pathway
-2 Bloodstained Mire
 3 Darkbore Pathway
 4 Darkbore Pathway
 1 Bone Shards
 2 Bone Shards
 3 Bone Shards
 1 Springleaf Drum
-1 Blood Crypt
+2 Bloodstained Mire
 1 Blackcleave Cliffs
-2 Blackcleave Cliffs
+1 Blood Crypt
 2 Blood Crypt
+2 Blackcleave Cliffs
 3 Blackcleave Cliffs
 3 Bloodstained Mire
 4 Blackcleave Cliffs
@@ -48,12 +48,12 @@
 3 Smuggler's Copter
 4 Smuggler's Copter
 1 Polluted Delta
-1 Watery Grave
 1 Mishra's Factory
+1 Watery Grave
 1 Prismatic Vista
 1 Marsh Flats
-1 Karn, the Great Creator
 1 Silent Clearing
+1 Karn, the Great Creator
 2 Mishra's Factory
 2 Silent Clearing
 2 Karn, the Great Creator
@@ -115,8 +115,8 @@
 2 Goblin Bombardment
 4 Blood Crypt
 1 Breeding Pool
-1 Urza, Lord High Artificer
 1 Stomping Ground
+1 Urza, Lord High Artificer
 2 Breeding Pool
 2 Misty Rainforest
 3 Misty Rainforest
@@ -125,24 +125,3 @@
 2 Satyr Wayfinder
 3 Satyr Wayfinder
 4 Lotleth Troll
-1 Waterlogged Grove
-1 Island
-1 Darkslick Shores
-1 Metallic Rebuke
-1 Emry, Lurker of the Loch
-1 Mishra's Bauble
-2 Polluted Delta
-2 Watery Grave
-2 Darkslick Shores
-2 Metallic Rebuke
-2 Emry, Lurker of the Loch
-2 Mishra's Bauble
-3 Polluted Delta
-3 Emry, Lurker of the Loch
-3 Darkslick Shores
-3 Metallic Rebuke
-3 Mishra's Bauble
-4 Polluted Delta
-4 Darkslick Shores
-4 Mishra's Bauble
-4 Emry, Lurker of the Loch

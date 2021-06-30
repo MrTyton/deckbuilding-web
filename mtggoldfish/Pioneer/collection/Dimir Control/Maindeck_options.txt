@@ -1,10 +1,10 @@
 1 Blast Zone
 1 Search for Azcanta
-1 Radiant Fountain
 4 Fetid Pools
+1 Radiant Fountain
+1 Negate
 2 Field of Ruin
 1 Hero's Downfall
-1 Negate
 2 Radiant Fountain
 1 Bloodchief's Thirst
 1 Clearwater Pathway
@@ -42,8 +42,8 @@
 1 Saw It Coming
 1 Magma Opus
 2 Magma Opus
-3 Torrential Gearhulk
 3 Magma Opus
+3 Torrential Gearhulk
 1 Test of Talents
 2 Hero's Downfall
 4 Heartless Act
@@ -56,8 +56,16 @@
 5 Island
 2 Saw It Coming
 1 Mountain
+1 Prismari Command
+1 Ketria Triome
+1 Steam Vents
+2 Prismari Command
+2 Ketria Triome
+2 Steam Vents
+3 Ketria Triome
+3 Steam Vents
+4 Magma Opus
 1 Eliminate
-1 Ugin, the Spirit Dragon
 1 Snow-Covered Swamp
 1 Snow-Covered Island
 1 Drown in the Loch
@@ -66,39 +74,58 @@
 3 Snow-Covered Island
 4 Snow-Covered Island
 1 Breeding Pool
-1 Prismari Command
 1 Scorching Dragonfire
-1 Rewind
 1 Growth Spiral
 1 Hinterland Harbor
-1 Nightpack Ambusher
 1 Anger of the Gods
+1 Nightpack Ambusher
 1 Sulfur Falls
 1 Brazen Borrower
-1 Ketria Triome
-1 Steam Vents
-1 Forest
 1 Stomping Ground
+1 Forest
 1 Rootbound Crag
+1 Rewind
 2 Brazen Borrower
 2 Breeding Pool
-2 Anger of the Gods
-2 Prismari Command
 2 Growth Spiral
-2 Ketria Triome
+2 Anger of the Gods
 2 Rootbound Crag
 2 Sulfur Falls
-2 Steam Vents
 2 Nightpack Ambusher
-3 Ketria Triome
 3 Growth Spiral
 3 Breeding Pool
 3 Nightpack Ambusher
 3 Rootbound Crag
-3 Steam Vents
-4 Ketria Triome
-4 Magma Opus
 4 Growth Spiral
+4 Ketria Triome
 4 Torrential Gearhulk
+1 Miscast
+1 Fire Prophecy
+1 Indomitable Creativity
+1 Dwarven Mine
+1 Valakut Awakening
+1 Sage of the Falls
+1 The Locust God
+1 Raugrin Triome
+2 Miscast
+2 Mountain
+2 Raugrin Triome
+2 Indomitable Creativity
+2 Dwarven Mine
+2 Fire Prophecy
+2 Valakut Awakening
+3 Prismari Command
+3 Dwarven Mine
+3 Indomitable Creativity
+3 Fire Prophecy
+3 Mountain
+4 Prismari Command
+4 Indomitable Creativity
+4 Dwarven Mine
+4 Mountain
+4 Steam Vents
+4 Fire Prophecy
+5 Mountain
+6 Mountain
 6 Island
 7 Island

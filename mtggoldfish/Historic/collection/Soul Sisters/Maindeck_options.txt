@@ -36,8 +36,8 @@
 3 Sunpetal Grove
 3 Branchloft Pathway
 3 Collected Company
-4 Sunpetal Grove
 4 Branchloft Pathway
+4 Sunpetal Grove
 4 Collected Company
 4 Legion's Landing
 1 Bishop of Wings
@@ -101,15 +101,15 @@
 16 Snow-Covered Plains
 1 Idyllic Grange
 1 Baneslayer Angel
-1 Vito, Thorn of the Dusk Rose
-1 Temple of Silence
 1 Godless Shrine
 1 Isolated Chapel
-2 Vito, Thorn of the Dusk Rose
+1 Temple of Silence
+1 Vito, Thorn of the Dusk Rose
 2 Godless Shrine
 2 Isolated Chapel
-3 Godless Shrine
+2 Vito, Thorn of the Dusk Rose
 3 Isolated Chapel
+3 Godless Shrine
 3 Vito, Thorn of the Dusk Rose
 4 Godless Shrine
 4 Isolated Chapel
@@ -153,16 +153,16 @@
 3 Selfless Savior
 4 Selfless Savior
 1 Oath of Kaya
-1 Castle Locthwain
 1 Scoured Barrens
+1 Castle Locthwain
 1 Linvala, Keeper of Silence
 1 Elspeth, Sun's Nemesis
 1 Angelic Ascension
 1 Erebos's Intervention
 2 Linvala, Keeper of Silence
 2 Oath of Kaya
-2 Scoured Barrens
 2 Castle Locthwain
+2 Scoured Barrens
 2 Elspeth, Sun's Nemesis
 2 Angelic Ascension
 2 Temple of Silence
@@ -171,7 +171,6 @@
 3 Oath of Kaya
 3 Scoured Barrens
 4 Temple of Silence
-4 Banishing Light
 1 Reidane, God of the Worthy
 1 Youthful Valkyrie
 2 Youthful Valkyrie
@@ -183,30 +182,31 @@
 2 God-Eternal Oketra
 3 Idyllic Grange
 4 Idyllic Grange
-1 Secluded Steppe
-1 Wrath of God
-1 Containment Priest
-1 Mikaeus, the Lunarch
-1 Realm-Cloaked Giant
-2 Secluded Steppe
-2 Containment Priest
-2 Wrath of God
-2 Basri Ket
-2 Realm-Cloaked Giant
-3 Secluded Steppe
-3 Revitalize
-3 Containment Priest
-3 Basri Ket
-4 Secluded Steppe
-4 Basri Ket
+4 Banishing Light
 1 Ajani's Welcome
 2 Ajani's Welcome
 3 Ajani's Welcome
 4 Ajani's Welcome
+1 Sacred Cat
+2 Sacred Cat
+4 Authority of the Consuls
 1 Radiant Fountain
 2 Radiant Fountain
 17 Snow-Covered Plains
 18 Snow-Covered Plains
-1 Sacred Cat
-2 Sacred Cat
-4 Authority of the Consuls
+1 Wrath of God
+1 Containment Priest
+1 Secluded Steppe
+1 Mikaeus, the Lunarch
+1 Realm-Cloaked Giant
+2 Wrath of God
+2 Containment Priest
+2 Basri Ket
+2 Secluded Steppe
+2 Realm-Cloaked Giant
+3 Revitalize
+3 Containment Priest
+3 Basri Ket
+3 Secluded Steppe
+4 Basri Ket
+4 Secluded Steppe

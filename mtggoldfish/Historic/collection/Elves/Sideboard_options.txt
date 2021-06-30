@@ -40,9 +40,9 @@
 1 Mirror Shield
 2 Mirror Shield
 1 Moment of Craving
-1 Bloodchief's Thirst
-1 Return to Nature
 1 Ugin, the Spirit Dragon
+1 Return to Nature
+1 Bloodchief's Thirst
 1 Nissa, Who Shakes the World
 1 The Great Henge
 1 Gemrazer
@@ -59,8 +59,8 @@
 1 Boreal Outrider
 2 Boreal Outrider
 2 Incubation Druid
-1 Vivien, Monsters' Advocate
 1 Vivien Reid
+1 Vivien, Monsters' Advocate
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 2 Vivien Reid
@@ -75,9 +75,6 @@
 1 Noxious Grasp
 2 Maelstrom Pulse
 2 Noxious Grasp
-1 Rhonas the Indomitable
-2 Nissa, Who Shakes the World
-3 Wildborn Preserver
 1 Llanowar Visionary
 1 Beast Whisperer
 2 Craterhoof Behemoth
@@ -85,6 +82,9 @@
 2 Beast Whisperer
 2 Elvish Visionary
 3 Beast Whisperer
+1 Rhonas the Indomitable
+2 Nissa, Who Shakes the World
+3 Wildborn Preserver
 1 Reidane, God of the Worthy
 1 Baffling End
 2 Reidane, God of the Worthy
@@ -93,14 +93,6 @@
 3 Baffling End
 3 Rest in Peace
 4 Reidane, God of the Worthy
-1 Skyclave Shade
-1 Fatal Push
-2 Skyclave Shade
-2 Fatal Push
-3 Skyclave Shade
-3 Leyline of the Void
-4 Skyclave Shade
-4 Leyline of the Void
 1 Questing Beast
 1 Run Afoul
 2 Questing Beast
@@ -108,16 +100,24 @@
 3 Questing Beast
 3 Shifting Ceratops
 4 Shifting Ceratops
+1 Fatal Push
+1 Skyclave Shade
+2 Fatal Push
+2 Skyclave Shade
+3 Skyclave Shade
+3 Leyline of the Void
+4 Leyline of the Void
+4 Skyclave Shade
 1 Imperious Perfect
-1 Elven Bow
 1 Allosaurus Shepherd
 1 Arbor Armament
 1 Pause for Reflection
-2 Elven Bow
+1 Elven Bow
 2 Arbor Armament
 2 Pause for Reflection
-3 Broken Wings
+2 Elven Bow
 3 Pause for Reflection
+3 Broken Wings
 4 Pause for Reflection
 4 Broken Wings
 1 Sword of Body and Mind
@@ -129,8 +129,8 @@
 3 Sword of Body and Mind
 4 Sword of Body and Mind
 2 Skysovereign, Consul Flagship
-3 Scavenging Ooze
 3 Toski, Bearer of Secrets
+3 Scavenging Ooze
 4 Scavenging Ooze
 1 Kogla, the Titan Ape
 1 In Search of Greatness

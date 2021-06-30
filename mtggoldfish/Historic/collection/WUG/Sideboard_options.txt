@@ -20,7 +20,6 @@
 2 Wrath of God
 1 Day of Judgment
 2 Elder Gargaroth
-3 Rest in Peace
 1 Negate
 1 Skyclave Apparition
 1 Meddling Mage
@@ -39,6 +38,7 @@
 3 Elite Spellbinder
 1 Knight of Autumn
 2 Knight of Autumn
+3 Rest in Peace
 2 Ajani, Strength of the Pride
 1 Doomskar
 1 Return to Nature
@@ -72,9 +72,12 @@
 1 Tale's End
 1 Commence the Endgame
 1 Nezahal, Primal Tide
-1 Heliod's Intervention
-1 Glass Casket
-2 Glass Casket
+1 Fatal Push
+1 Relic of Progenitus
+1 Heartless Act
+1 Enter the God-Eternals
+1 Cry of the Carnarium
+2 Relic of Progenitus
 1 Miscast
 1 Soul-Guide Lantern
 2 Miscast
@@ -85,44 +88,27 @@
 1 Expel
 2 Strict Proctor
 2 Expel
-1 Shalai, Voice of Plenty
 1 Emeria's Call
 1 Angel of Destiny
+1 Shalai, Voice of Plenty
 1 Take Vengeance
 1 Planar Cleansing
 2 Take Vengeance
-1 Heartless Act
-1 Enter the God-Eternals
-1 Cry of the Carnarium
-1 Fatal Push
-1 Relic of Progenitus
-2 Relic of Progenitus
 1 Giant Killer
 2 Settle the Wreckage
 2 Giant Killer
-3 Adanto Vanguard
+1 Tithe Taker
+2 Tithe Taker
+3 Disdainful Stroke
+1 Shark Typhoon
+1 Timely Reinforcements
+2 Shark Typhoon
+3 Aether Gust
+3 Shark Typhoon
 1 Containment Priest
 1 Daxos, Blessed by the Sun
 2 Containment Priest
 3 Containment Priest
-1 Tithe Taker
-2 Tithe Taker
-3 Disdainful Stroke
-1 Gideon Blackblade
-1 Deafening Clarion
-1 Cindervines
-1 Selfless Glyphweaver
-2 Deafening Clarion
-2 Selfless Glyphweaver
-2 Gideon Blackblade
-2 Cindervines
-3 Deafening Clarion
-3 Cindervines
-1 Timely Reinforcements
-1 Shark Typhoon
-2 Shark Typhoon
-3 Aether Gust
-3 Shark Typhoon
 1 Deafening Silence
 1 Repudiate/Replicate
 1 Remorseful Cleric
@@ -130,11 +116,15 @@
 2 Deafening Silence
 2 Repudiate/Replicate
 3 Repudiate/Replicate
+3 Adanto Vanguard
 1 Angel of Vitality
 2 Angel of Vitality
 3 Angel of Vitality
 4 Rest in Peace
+1 Glass Casket
+2 Glass Casket
 1 Banishing Light
+1 Heliod's Intervention
 2 Banishing Light
 2 Heliod's Intervention
 3 Glass Casket
@@ -147,10 +137,18 @@
 1 Mana Tithe
 1 Basri Ket
 1 Ajani's Welcome
-1 Heliod, Sun-Crowned
+1 Gideon Blackblade
 1 Brought Back
+1 Heliod, Sun-Crowned
 1 Cloudshift
 2 Mana Tithe
 2 Cloudshift
 3 Cloudshift
 4 Cloudshift
+1 Gods Willing
+1 Light of Hope
+1 Platinum Angel
+1 Teferi's Protection
+2 Gods Willing
+3 Gods Willing
+2 Teferi's Protection

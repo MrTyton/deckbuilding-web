@@ -1,47 +1,46 @@
 1 Baleful Mastery
 1 Clearwater Pathway
 1 Mountain
+1 Island
 3 Steam Vents
 4 Steam Vents
-1 Island
 1 Fabled Passage
 2 Fabled Passage
-2 Mountain
 2 Island
-1 Faithless Looting
-2 Faithless Looting
-3 Faithless Looting
-4 Faithless Looting
+2 Mountain
 1 Terror of the Peaks
 1 Mizzix's Mastery
 1 Dragonstorm
-2 Dragonstorm
+1 Faithless Looting
 2 Terror of the Peaks
+2 Dragonstorm
+2 Faithless Looting
 2 Mizzix's Mastery
+3 Faithless Looting
 3 Mizzix's Mastery
 3 Dragonstorm
+4 Faithless Looting
 4 Mizzix's Mastery
 4 Dragonstorm
+3 Island
+3 Prismari Command
 1 Brainstorm
 2 Brainstorm
 3 Brainstorm
-3 Prismari Command
-3 Island
-3 Fabled Passage
 3 Terror of the Peaks
+3 Fabled Passage
 2 Baleful Mastery
 4 Fabled Passage
 4 Prismari Command
+3 Mountain
+4 Mountain
 1 Spirebluff Canal
 2 Spirebluff Canal
 4 Brainstorm
-3 Mountain
-4 Mountain
-1 Coldsteel Heart
-2 Coldsteel Heart
-1 Dragonskull Summit
 1 Lathliss, Dragon Queen
 2 Lathliss, Dragon Queen
+1 Coldsteel Heart
+2 Coldsteel Heart
 1 Solve the Equation
 2 Solve the Equation
 1 Riverglide Pathway
@@ -49,72 +48,57 @@
 3 Riverglide Pathway
 3 Spirebluff Canal
 4 Island
-3 Coldsteel Heart
-4 Coldsteel Heart
 3 Solve the Equation
+3 Coldsteel Heart
 4 Spirebluff Canal
-4 Riverglide Pathway
+4 Coldsteel Heart
 4 Terror of the Peaks
+4 Riverglide Pathway
 4 Solve the Equation
 1 Baral, Chief of Compliance
 2 Baral, Chief of Compliance
 3 Crux of Fate
-2 Dragonskull Summit
+1 Dragonskull Summit
 3 Nicol Bolas, Dragon-God
 1 Anger of the Gods
-3 Thoughtseize
 1 Bladewing the Risen
 2 Bladewing the Risen
 3 Bladewing the Risen
-1 Sweltering Suns
 2 Anger of the Gods
 3 Anger of the Gods
 1 Mystical Dispute
-4 Thoughtseize
-1 Expressive Iteration
-2 Expressive Iteration
-1 Death's Shadow
-1 Kroxa, Titan of Death's Hunger
-1 Fatal Push
-1 Dreadhorde Arcanist
-2 Death's Shadow
-2 Dreadhorde Arcanist
-2 Kroxa, Titan of Death's Hunger
-3 Death's Shadow
-3 Dreadhorde Arcanist
-4 Death's Shadow
-4 Dreadhorde Arcanist
 1 Field of Ruin
 1 Saw It Coming
-1 Behold the Multiverse
 1 Whirlwind Denial
+1 Behold the Multiverse
 2 Saw It Coming
 2 Behold the Multiverse
 2 Whirlwind Denial
 3 Behold the Multiverse
-2 Sweltering Suns
 1 Pact of Negation
 1 Strategic Planning
-2 Pact of Negation
 2 Strategic Planning
+2 Pact of Negation
 3 Strategic Planning
 4 Bladewing the Risen
 4 Strategic Planning
-1 Magma Opus
-1 Volatile Fjord
+1 Sweltering Suns
+2 Sweltering Suns
 1 Snow-Covered Mountain
 1 Snow-Covered Island
+1 Volatile Fjord
 1 Tundra Fumarole
-2 Volatile Fjord
+1 Magma Opus
 2 Snow-Covered Mountain
 2 Tundra Fumarole
+2 Volatile Fjord
 2 Magma Opus
-3 Volatile Fjord
 3 Tundra Fumarole
 3 Snow-Covered Mountain
-4 Volatile Fjord
-4 Tundra Fumarole
+3 Volatile Fjord
 4 Snow-Covered Mountain
+4 Tundra Fumarole
+4 Volatile Fjord
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
@@ -123,18 +107,6 @@
 10 Snow-Covered Mountain
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
-1 Valki, God of Lies
-2 Clearwater Pathway
-1 Drown in the Loch
-3 Expressive Iteration
-1 Sprite Dragon
-2 Sprite Dragon
-2 Fatal Push
-3 Kroxa, Titan of Death's Hunger
-1 Sacred Foundry
-2 Sacred Foundry
-3 Sacred Foundry
-4 Sacred Foundry
 1 Mazemind Tome
 2 Mazemind Tome
 3 Kolaghan's Command
@@ -145,58 +117,45 @@
 1 Rip Apart
 1 Wrath of God
 1 Plains
+1 Sacred Foundry
 1 Raugrin Triome
+2 Sacred Foundry
 2 Hengegate Pathway
 2 Failure/Comply
 2 Mystical Dispute
 2 Raugrin Triome
+3 Sacred Foundry
 3 Hengegate Pathway
 3 Failure/Comply
 3 Raugrin Triome
 4 Hengegate Pathway
+4 Sacred Foundry
 4 Raugrin Triome
 1 Frost Bite
 2 Frost Bite
 3 Sweltering Suns
 3 Magma Opus
 4 Sweltering Suns
-1 Opt
-2 Drown in the Loch
-2 Opt
-3 Dragonskull Summit
-3 Opt
-4 Expressive Iteration
-4 Dragonskull Summit
-4 Opt
 1 Search for Azcanta
 1 Discovery/Dispersal
 2 Search for Azcanta
 2 Discovery/Dispersal
 3 Pact of Negation
-3 Cling to Dust
+1 Valki, God of Lies
 2 Valki, God of Lies
 1 Savai Triome
+2 Dragonskull Summit
+3 Cling to Dust
 3 Narset, Parter of Veils
-3 Chandra, Torch of Defiance
-1 Fetid Pools
-1 Bedevil
-1 Agadeem's Awakening
-1 Shatterskull Smashing
-1 Scourge of the Skyclaves
-1 Shock
-2 Shock
-2 Scourge of the Skyclaves
-2 Agadeem's Awakening
-3 Shock
-3 Sprite Dragon
-3 Scourge of the Skyclaves
-4 Shock
-4 Sprite Dragon
-4 Scourge of the Skyclaves
-1 Flunk
+1 Expressive Iteration
+2 Expressive Iteration
+2 Clearwater Pathway
+3 Thoughtseize
 1 Temple of Deceit
+1 Flunk
 1 Memory Lapse
 2 Memory Lapse
+1 Fetid Pools
 1 Thought Erasure
 1 Rankle, Master of Pranks
 1 Ketria Triome
@@ -206,43 +165,25 @@
 2 Shadows' Verdict
 2 Savai Triome
 3 Savai Triome
-1 Furycalm Snarl
-1 Godless Shrine
-1 Shineshadow Snarl
-1 Silverquill Command
-1 Adanto Vanguard
-2 Godless Shrine
-2 Silverquill Command
-2 Adanto Vanguard
-3 Godless Shrine
-3 Silverquill Command
-3 Adanto Vanguard
-4 Adanto Vanguard
-4 Godless Shrine
-1 Goldspan Dragon
-1 Noxious Grasp
-1 Scorching Dragonfire
-1 Bedeck/Bedazzle
-2 Fetid Pools
-2 Goldspan Dragon
-2 Scorching Dragonfire
-3 Goldspan Dragon
-4 Goldspan Dragon
+3 Chandra, Torch of Defiance
 1 Irencrag Feat
 1 Rowan, Scholar of Sparks
 2 Irencrag Feat
 2 Rowan, Scholar of Sparks
 3 Irencrag Feat
 4 Irencrag Feat
+1 Extinction Event
+1 Drown in the Loch
+1 Heartless Act
+3 Expressive Iteration
+3 Clearwater Pathway
+4 Clearwater Pathway
 1 Mind's Desire
 2 Mind's Desire
 3 Mind's Desire
 4 Mind's Desire
-1 Extinction Event
-1 Heartless Act
-3 Clearwater Pathway
-4 Clearwater Pathway
 5 Mountain
+1 Bedevil
 1 Grafdigger's Cage
 1 Commit/Memory
 2 Commit/Memory
@@ -250,4 +191,5 @@
 3 Grafdigger's Cage
 3 Swamp
 4 Grafdigger's Cage
+4 Thoughtseize
 4 Swamp

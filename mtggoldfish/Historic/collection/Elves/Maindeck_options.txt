@@ -13,8 +13,8 @@
 1 Darkbore Pathway
 2 Overgrown Tomb
 2 Darkbore Pathway
-3 Darkbore Pathway
 3 Overgrown Tomb
+3 Darkbore Pathway
 4 Darkbore Pathway
 1 Growing Rites of Itlimoc
 2 Elvish Visionary
@@ -49,8 +49,8 @@
 1 Temple Garden
 2 Branchloft Pathway
 2 Temple Garden
-3 Branchloft Pathway
 3 Temple Garden
+3 Branchloft Pathway
 4 Temple Garden
 4 Branchloft Pathway
 18 Snow-Covered Forest
@@ -90,8 +90,8 @@
 2 Blizzard Brawl
 2 Ram Through
 2 Snakeskin Veil
-3 Blizzard Brawl
 3 Snakeskin Veil
+3 Blizzard Brawl
 4 Snakeskin Veil
 20 Snow-Covered Forest
 1 Druid of the Cowl
@@ -100,16 +100,16 @@
 3 Llanowar Visionary
 1 Lys Alana Huntmaster
 2 Lys Alana Huntmaster
-1 Elven Ambush
-1 Haunting Voyage
 1 The Great Henge
 1 Swamp
 1 Harald Unites the Elves
+1 Elven Ambush
 1 Poison-Tip Archer
-2 Elven Ambush
+1 Haunting Voyage
 2 Harald Unites the Elves
 2 Abomination of Llanowar
 2 Druid of the Cowl
+2 Elven Ambush
 2 Poison-Tip Archer
 2 Swamp
 2 Canopy Tactician
@@ -128,20 +128,20 @@
 1 Vivien, Arkbow Ranger
 1 Pelt Collector
 2 Pelt Collector
-1 Elderfang Disciple
-2 Elderfang Disciple
-1 Skemfar Elderhall
 1 Necroblossom Snarl
+1 Skemfar Elderhall
 2 Necroblossom Snarl
 1 Wildborn Preserver
 2 Wildborn Preserver
+1 Elderfang Disciple
+2 Elderfang Disciple
 1 Fauna Shaman
 2 Fauna Shaman
 1 Temple of Malady
 2 Temple of Malady
 3 Temple of Malady
-1 Sunpetal Grove
 1 Plains
+1 Sunpetal Grove
 2 Sunpetal Grove
 3 Sunpetal Grove
 2 Turntimber Symbiosis
@@ -178,8 +178,8 @@
 4 Lys Alana Huntmaster
 1 Woodland Cemetery
 1 Fiend Artisan
-2 Fiend Artisan
 2 Woodland Cemetery
+2 Fiend Artisan
 3 Woodland Cemetery
 4 Woodland Cemetery
 1 Primal Might

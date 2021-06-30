@@ -72,15 +72,15 @@
 3 Windswept Heath
 4 Windswept Heath
 1 Reveillark
-1 Ephemerate
 1 Flooded Strand
 1 Arid Mesa
-2 Ephemerate
+1 Ephemerate
 2 Flooded Strand
-3 Ephemerate
+2 Ephemerate
 3 Flooded Strand
-4 Solitude
+3 Ephemerate
 4 Ephemerate
+4 Solitude
 2 Fiery Islet
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
@@ -148,16 +148,16 @@
 2 Tireless Provisioner
 3 Tireless Provisioner
 4 Tireless Provisioner
-1 Ketria Triome
 1 Raugrin Triome
-1 Wrenn and Six
 1 Force of Negation
 1 Utopia Sprawl
 1 Titania, Protector of Argoth
+1 Wrenn and Six
 1 Eladamri's Call
 1 Prismatic Vista
-2 Wrenn and Six
+1 Ketria Triome
 2 Endurance
+2 Wrenn and Six
 2 Eladamri's Call
 2 Utopia Sprawl
 2 Force of Negation
