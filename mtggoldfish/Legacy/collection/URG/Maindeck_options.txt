@@ -19,15 +19,8 @@
 1 Life from the Loam
 1 Karakas
 3 Force of Negation
-4 Uro, Titan of Nature's Wrath
-1 Expressive Iteration
-2 Expressive Iteration
 4 Stifle
-3 Bonecrusher Giant
-2 Jace, the Mind Sculptor
-2 Wooded Foothills
-4 Scalding Tarn
-3 Tropical Island
+4 Uro, Titan of Nature's Wrath
 1 Dress Down
 1 Phyrexian Dreadnought
 2 Dress Down
@@ -37,6 +30,13 @@
 4 Daze
 4 Phyrexian Dreadnought
 4 Dress Down
+1 Expressive Iteration
+2 Expressive Iteration
+3 Bonecrusher Giant
+2 Jace, the Mind Sculptor
+2 Wooded Foothills
+3 Tropical Island
+4 Scalding Tarn
 1 Chart a Course
 2 Chart a Course
 1 Forked Bolt
@@ -48,14 +48,18 @@
 1 Abundant Harvest
 3 Volcanic Island
 3 Endurance
+1 Polluted Delta
+1 Underground Sea
+2 Polluted Delta
+3 Polluted Delta
 1 Forest
 1 Island
 1 Birds of Paradise
-1 Mountain
 1 Ancient Grudge
 1 Karn, the Great Creator
-1 Dack Fayden
 1 Liquimetal Coating
+1 Dack Fayden
+1 Mountain
 2 Birds of Paradise
 2 Liquimetal Coating
 2 Karn, the Great Creator
@@ -80,27 +84,23 @@
 3 Snow-Covered Island
 3 Prismatic Vista
 1 Bloodstained Mire
-1 Kroxa, Titan of Death's Hunger
 1 Cling to Dust
-1 Fatal Push
-1 Polluted Delta
 1 Badlands
 1 Dark Confidant
-1 Underground Sea
-2 Dark Confidant
-2 Polluted Delta
-2 Kroxa, Titan of Death's Hunger
-2 Fatal Push
+1 Fatal Push
+1 Kroxa, Titan of Death's Hunger
 2 Bloodstained Mire
+2 Dark Confidant
+2 Fatal Push
 2 Underground Sea
+2 Kroxa, Titan of Death's Hunger
 3 Kroxa, Titan of Death's Hunger
-3 Polluted Delta
 3 Underground Sea
 1 Snow-Covered Plains
 1 Prismatic Ending
-1 Swords to Plowshares
 1 Flooded Strand
 1 Tundra
+1 Swords to Plowshares
 2 Flooded Strand
 2 Swords to Plowshares
 2 Prismatic Ending
@@ -112,14 +112,34 @@
 4 Flooded Strand
 4 Prismatic Ending
 4 Bonecrusher Giant
+1 Verdant Catacombs
+1 Watery Grave
+1 Overgrown Tomb
+1 Death's Shadow
+1 Murktide Regent
+1 Snuff Out
+1 Berserk
+1 Thoughtseize
+2 Thoughtseize
+2 Verdant Catacombs
+2 Death's Shadow
+2 Murktide Regent
+2 Snuff Out
+2 Berserk
+2 Watery Grave
+3 Watery Grave
+3 Thoughtseize
+3 Death's Shadow
+4 Death's Shadow
+4 Thoughtseize
 1 Pyroclasm
 1 Preordain
 1 Retrofitter Foundry
 1 Urza's Saga
 1 Painter's Servant
-1 Tree of Tales
-1 Soul-Guide Lantern
 1 Grindstone
+1 Soul-Guide Lantern
+1 Tree of Tales
 2 Preordain
 2 Urza's Saga
 2 Painter's Servant

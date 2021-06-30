@@ -13,8 +13,8 @@
 1 Rest in Peace
 2 Rest in Peace
 3 Rest in Peace
-1 Counterspell
 1 Prismatic Ending
+1 Counterspell
 2 Prismatic Ending
 1 Alpine Moon
 2 Alpine Moon
@@ -49,18 +49,18 @@
 1 Vandalblast
 1 Fiery Cannonade
 1 Ashiok, Dream Render
-1 Sanctifier en-Vec
 1 Wear/Tear
+1 Sanctifier en-Vec
 2 Wear/Tear
-1 Disdainful Stroke
+1 Klothys, God of Destiny
+1 Annul
+2 Klothys, God of Destiny
+2 Annul
 1 Rip Apart
+1 Disdainful Stroke
 1 Skyclave Apparition
 1 Lightning Helix
 2 Skyclave Apparition
-1 Annul
-1 Klothys, God of Destiny
-2 Klothys, God of Destiny
-2 Annul
 2 Fury
 3 Abrade
 1 Geth's Verdict
@@ -71,8 +71,8 @@
 2 Vapor Snag
 2 Psychic Barrier
 3 Collective Brutality
-1 Fatal Push
 1 Countersquall
+1 Fatal Push
 1 Snapcaster Mage
 2 Countersquall
 2 Snapcaster Mage
@@ -84,15 +84,15 @@
 2 Tarmogoyf
 2 Wizard's Retort
 3 Tarmogoyf
-1 Drown in the Loch
-1 Heartless Act
 1 Nihil Spellbomb
+1 Heartless Act
+1 Drown in the Loch
 1 Flaying Tendrils
-2 Nihil Spellbomb
 2 Drown in the Loch
-2 Void Mirror
-2 Flaying Tendrils
 2 Heartless Act
+2 Void Mirror
+2 Nihil Spellbomb
+2 Flaying Tendrils
 3 Drown in the Loch
 4 Drown in the Loch
 1 Shadowspear
@@ -101,9 +101,9 @@
 2 Ancestral Vision
 3 Tormod's Crypt
 4 Cleansing Wildfire
+1 Kaya's Guile
 1 Bitterblossom
 1 Dead of Winter
-1 Kaya's Guile
 2 Kaya's Guile
 2 Bitterblossom
 3 Kaya's Guile

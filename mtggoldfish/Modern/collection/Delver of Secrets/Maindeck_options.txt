@@ -20,18 +20,18 @@
 4 Force of Negation
 1 Maul of the Skyclaves
 1 Snow-Covered Plains
+1 Seachrome Coast
 1 Stoneforge Mystic
 1 Batterskull
-1 Seachrome Coast
 1 Geist of Saint Traft
 1 Path to Exile
 1 Sacred Foundry
-2 Stoneforge Mystic
 2 Seachrome Coast
+2 Stoneforge Mystic
 2 Geist of Saint Traft
 2 Path to Exile
-3 Stoneforge Mystic
 3 Seachrome Coast
+3 Stoneforge Mystic
 3 Path to Exile
 3 Geist of Saint Traft
 4 Stoneforge Mystic
@@ -49,8 +49,8 @@
 1 Suspend
 2 Snapcaster Mage
 1 Mana Leak
-1 Wooded Foothills
 1 Breeding Pool
+1 Wooded Foothills
 2 Mana Leak
 3 Mana Leak
 1 Stomping Ground
@@ -63,17 +63,17 @@
 2 Wooded Foothills
 1 Watery Grave
 2 Watery Grave
+1 Mutagenic Growth
 1 Wizard's Lightning
 1 Atarka's Command
 1 Soul-Scar Mage
-1 Mutagenic Growth
+2 Mutagenic Growth
 2 Vapor Snag
 2 Wizard's Lightning
 2 Atarka's Command
-2 Mutagenic Growth
 2 Soul-Scar Mage
-3 Vapor Snag
 3 Wizard's Lightning
+3 Vapor Snag
 3 Atarka's Command
 3 Soul-Scar Mage
 4 Wizard's Lightning
@@ -90,15 +90,15 @@
 2 Fatal Push
 3 Fatal Push
 1 Bloodstained Mire
-1 Thieves' Guild Enforcer
 1 Soaring Thought-Thief
+1 Thieves' Guild Enforcer
 1 Drown in the Loch
 2 Thieves' Guild Enforcer
 2 Soaring Thought-Thief
 2 Drown in the Loch
 2 Bloodstained Mire
-3 Thieves' Guild Enforcer
 3 Soaring Thought-Thief
+3 Thieves' Guild Enforcer
 3 Drown in the Loch
 4 Thieves' Guild Enforcer
 4 Soaring Thought-Thief
@@ -129,17 +129,17 @@
 1 Waterlogged Grove
 1 Monastery Swiftspear
 3 Fiery Islet
-3 Subtlety
+1 Snakeskin Veil
 1 Scavenging Ooze
 1 Burst Lightning
 1 Jace, Vryn's Prodigy
-1 Snakeskin Veil
 2 Snakeskin Veil
 3 Wooded Foothills
-1 Cling to Dust
-1 Deprive
+3 Subtlety
 1 Ice Tunnel
+1 Cling to Dust
 1 Snow-Covered Swamp
+1 Deprive
 1 Ascendant Spirit
 1 Icehide Golem
 1 Archmage's Charm
@@ -160,12 +160,12 @@
 3 Magmatic Channeler
 4 Magmatic Channeler
 4 Ragavan, Nimble Pilferer
-1 Stubborn Denial
 1 Disrupting Shoal
+1 Stubborn Denial
 1 Hexdrinker
-2 Stubborn Denial
 2 Disrupting Shoal
 2 Brazen Borrower
+2 Stubborn Denial
 2 Hexdrinker
 3 Stubborn Denial
 3 Hexdrinker
@@ -180,10 +180,10 @@
 1 Dauthi Voidwalker
 1 Dismember
 1 Death's Shadow
+2 Suspend
 2 Verdant Catacombs
 2 Dismember
 2 Dauthi Voidwalker
-2 Suspend
 2 Death's Shadow
 3 Verdant Catacombs
 3 Thoughtseize
@@ -194,8 +194,8 @@
 4 Death's Shadow
 4 Thoughtseize
 1 Darkslick Shores
-1 Bloodchief's Thirst
 1 Ancestral Vision
+1 Bloodchief's Thirst
 1 Bitterblossom
 2 Spell Snare
 2 Darkslick Shores

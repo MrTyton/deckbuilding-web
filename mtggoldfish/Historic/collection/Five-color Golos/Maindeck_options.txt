@@ -18,26 +18,27 @@
 4 Forest
 1 Gilded Goose
 2 Gilded Goose
-3 Gilded Goose
 3 Swamp
+3 Gilded Goose
 5 Forest
-1 Godless Shrine
-1 Needleverge Pathway
 1 Riverglide Pathway
 1 Omen of the Forge
-1 Branchloft Pathway
 1 Terror of the Peaks
 1 Sanctum of Stone Fangs
+1 Godless Shrine
 1 Finale of Devastation
-1 Savai Triome
-1 Solemn Simulacrum
+1 Needleverge Pathway
+1 Migration Path
 1 Elspeth Conquers Death
-1 The Birth of Meletis
 1 Thirst for Meaning
+1 The Birth of Meletis
 1 Prophetic Prism
+1 Branchloft Pathway
+1 Cragcrown Pathway
 1 Mastermind's Acquisition
 1 Massacre Wurm
 1 Elder Gargaroth
+1 Solemn Simulacrum
 1 Dryad of the Ilysian Grove
 1 Sanctum of All
 1 Genesis Ultimatum
@@ -52,46 +53,44 @@
 1 Sanctum of Calm Waters
 1 Keruga, the Macrosage
 1 Omen of the Hunt
+1 Savai Triome
 1 Cultivate
 1 Honden of Seeing Winds
 1 Renegade Map
-1 Cragcrown Pathway
 1 Smothering Tithe
 1 Honden of Cleansing Fire
 1 Honden of Life's Web
 1 Treacherous Blessing
 1 Blood Crypt
-1 Migration Path
 1 Honden of Night's Reach
 1 Escape to the Wilds
 1 Sanctum of Fruitful Harvest
 1 Sanctum of Tranquil Light
 1 Trial of Knowledge
-2 The Birth of Meletis
-2 Godless Shrine
 2 Riverglide Pathway
-2 Omen of the Forge
 2 Terror of the Peaks
-2 Genesis Ultimatum
-2 Thirst for Meaning
+2 Omen of the Forge
+2 Godless Shrine
 2 Branchloft Pathway
 2 Sacred Foundry
-2 Solemn Simulacrum
+2 Migration Path
+2 The Birth of Meletis
+2 Thirst for Meaning
 2 Evolving Wilds
 2 Prophetic Prism
-2 Savai Triome
 2 Finale of Devastation
+2 Solemn Simulacrum
+2 Cragcrown Pathway
 2 Dryad of the Ilysian Grove
 2 Elspeth Conquers Death
 2 Archon of Sun's Grace
 2 Assassin's Trophy
 2 Wrath of God
+2 Cultivate
 2 Mirari's Wake
 2 Blood Crypt
-2 Migration Path
 2 Smothering Tithe
 2 Yorion, Sky Nomad
-2 Cultivate
 2 Mastermind's Acquisition
 2 Sanctum of Fruitful Harvest
 2 Steam Vents
@@ -101,37 +100,38 @@
 2 Treacherous Blessing
 2 Honden of Infinite Rage
 2 Trial of Knowledge
+2 Genesis Ultimatum
 2 Hallowed Fountain
 2 Sanctum of Stone Fangs
 2 Omen of the Hunt
 2 Fae of Wishes
+2 Savai Triome
 2 Renegade Map
-2 Cragcrown Pathway
 3 Treacherous Blessing
-3 Island
 3 Branchloft Pathway
-3 Evolving Wilds
+3 Migration Path
 3 Omen of the Forge
-3 Savai Triome
 3 Deafening Clarion
+3 Island
 3 Sacred Foundry
+3 Plains
 3 Dryad of the Ilysian Grove
-3 Wrath of God
+3 Cragcrown Pathway
 3 Assassin's Trophy
+3 Wrath of God
+3 Cultivate
 3 Escape to the Wilds
 3 Sanctum of Stone Fangs
 3 Hallowed Fountain
+3 Savai Triome
 3 Fae of Wishes
 3 Renegade Map
-3 Cragcrown Pathway
-3 Cultivate
 3 Ketria Triome
 3 Mirari's Wake
-3 Plains
-3 Migration Path
 3 Mastermind's Acquisition
 3 Mountain
 3 Sanctum of Fruitful Harvest
+3 Evolving Wilds
 3 Thirst for Meaning
 3 Steam Vents
 3 Prophetic Prism
@@ -139,50 +139,50 @@
 3 Sanctum of All
 4 Temple Garden
 4 Island
-4 Overgrown Tomb
+4 Plains
 4 Breeding Pool
-4 Gilded Goose
+4 Overgrown Tomb
+4 Migration Path
 4 Sacred Foundry
-4 Evolving Wilds
 4 Dryad of the Ilysian Grove
 4 Deafening Clarion
 4 Wrath of God
+4 Cultivate
 4 Prophetic Prism
 4 Treacherous Blessing
 4 Fae of Wishes
-4 Cultivate
 4 Renegade Map
-4 Migration Path
-4 Plains
+4 Gilded Goose
+4 Evolving Wilds
 4 Steam Vents
 4 Hallowed Fountain
 4 Stomping Ground
 4 Thirst for Meaning
 4 Watery Grave
-5 Island
 5 Plains
+5 Island
 6 Forest
 7 Forest
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 1 Ugin, the Spirit Dragon
 2 Ugin, the Spirit Dragon
-1 Inventors' Fair
 1 Ugin, the Ineffable
-1 Guardian Idol
+1 Inventors' Fair
 1 Hedron Archive
 1 Blast Zone
+1 Guardian Idol
 1 Mind Stone
 1 Forsaken Monument
 2 Ugin, the Ineffable
-2 Guardian Idol
-2 Hedron Archive
 2 Forsaken Monument
+2 Guardian Idol
 2 Mind Stone
-3 Guardian Idol
+2 Hedron Archive
 3 Mind Stone
-4 Guardian Idol
+3 Guardian Idol
 4 Mind Stone
+4 Guardian Idol
 1 Zhalfirin Void
 1 Crawling Barrens
 2 Blast Zone
@@ -192,21 +192,21 @@
 3 Karn, the Great Creator
 1 Karn, Scion of Urza
 2 Karn, Scion of Urza
-3 Ugin, the Spirit Dragon
 3 Ugin, the Ineffable
+3 Ugin, the Spirit Dragon
 1 Ulamog, the Ceaseless Hunger
 3 Zhalfirin Void
 4 Karn, the Great Creator
 4 Ugin, the Spirit Dragon
 1 Coldsteel Heart
 2 Coldsteel Heart
-3 Forsaken Monument
 3 Coldsteel Heart
+3 Forsaken Monument
 1 Interplanar Beacon
 1 Buried Ruin
 1 Mystic Forge
-2 Buried Ruin
 2 Mystic Forge
+2 Buried Ruin
 3 Hedron Archive
 4 Hedron Archive
 2 Interplanar Beacon
@@ -217,8 +217,8 @@
 4 Coldsteel Heart
 1 Grafdigger's Cage
 2 Grafdigger's Cage
-3 Interplanar Beacon
 3 Golos, Tireless Pilgrim
+3 Interplanar Beacon
 4 Interplanar Beacon
 1 Oath of Kaya
 1 Sunpetal Grove
@@ -229,17 +229,17 @@
 2 Binding the Old Gods
 3 Binding the Old Gods
 1 Tolsimir, Friend to Wolves
-1 Woodland Cemetery
 1 Setessan Champion
 1 Hinterland Harbor
+1 Woodland Cemetery
 1 Deputy of Detention
 1 Elspeth's Nightmare
 1 Calix, Destiny's Hand
 1 Hostage Taker
 1 In Search of Greatness
 1 Renegade Rallier
-2 Woodland Cemetery
 2 Setessan Champion
+2 Woodland Cemetery
 2 Sunpetal Grove
 2 Hinterland Harbor
 2 Glacial Fortress
@@ -247,8 +247,8 @@
 2 Calix, Destiny's Hand
 2 Elspeth's Nightmare
 3 Glacial Fortress
-3 Oath of Kaya
 3 Skyclave Apparition
+3 Oath of Kaya
 3 Elspeth's Nightmare
 3 In Search of Greatness
 3 Trial of Ambition
@@ -276,8 +276,8 @@
 3 Karn, Scion of Urza
 3 Mobilized District
 4 Blinkmoth Nexus
-4 Forsaken Monument
 4 Karn, Scion of Urza
+4 Forsaken Monument
 1 Runed Halo
 2 Runed Halo
 2 Honden of Cleansing Fire
@@ -286,8 +286,8 @@
 3 Archon of Sun's Grace
 3 The Birth of Meletis
 3 Solemn Simulacrum
-3 Yorion, Sky Nomad
 3 Omen of the Hunt
+3 Yorion, Sky Nomad
 4 Mirari's Wake
 1 Luminous Broodmoth
 1 Medomai's Prophecy
@@ -303,8 +303,8 @@
 1 Aetherflux Reservoir
 1 Metalwork Colossus
 1 Paradox Engine
-2 Metalwork Colossus
 2 Paradox Engine
+2 Metalwork Colossus
 1 Growth Spiral
 2 Growth Spiral
 1 Explore
@@ -352,8 +352,8 @@
 3 Arboreal Grazer
 4 Arboreal Grazer
 1 Ruinous Ultimatum
-2 Maelstrom Pulse
 2 Ruinous Ultimatum
+2 Maelstrom Pulse
 3 Maelstrom Pulse
 4 Maelstrom Pulse
 4 Plaza of Harmony
@@ -365,26 +365,26 @@
 2 Archway Angel
 2 Orzhov Guildgate
 3 Ruinous Ultimatum
-1 Cryptic Caves
-1 Karn's Bastion
-2 Karn's Bastion
-3 Ulamog, the Ceaseless Hunger
-3 Buried Ruin
-3 Karn's Bastion
-4 Mazemind Tome
-4 Ulamog, the Ceaseless Hunger
-4 Buried Ruin
 4 Ugin, the Ineffable
 4 Mobilized District
 1 Crypt of the Eternals
 2 Crypt of the Eternals
 3 Crypt of the Eternals
 4 Crypt of the Eternals
+1 Cryptic Caves
+1 Karn's Bastion
+2 Karn's Bastion
+3 Karn's Bastion
+3 Ulamog, the Ceaseless Hunger
+3 Buried Ruin
+4 Mazemind Tome
+4 Ulamog, the Ceaseless Hunger
+4 Buried Ruin
 3 Metalwork Colossus
 1 Powerstone Shard
 2 Powerstone Shard
-3 Paradox Engine
 3 Powerstone Shard
+3 Paradox Engine
 4 Powerstone Shard
 4 Growth Spiral
 1 Gate Colossus
@@ -407,90 +407,54 @@
 3 Paradise Druid
 1 Castle Vantress
 1 Season of Growth
-1 Temple of Deceit
-1 Pouncing Shoreshark
-1 Auspicious Starrix
-1 Dirge Bat
-1 Temple of Malady
-1 Migratory Greathorn
-1 Vivien, Champion of the Wilds
+1 Nissa, Who Shakes the World
 1 Necroblossom Snarl
+1 Vineglimmer Snarl
+1 Migratory Greathorn
+1 Temple of Deceit
+1 Temple of Malady
+1 Vivien, Champion of the Wilds
+1 Darkbore Pathway
 1 Vivien Reid
 1 Gemrazer
 1 Scute Swarm
 1 The Great Henge
-1 Darkbore Pathway
-1 Nissa, Who Shakes the World
 1 Castle Locthwain
+1 Dirge Bat
 1 Koma, Cosmos Serpent
 1 Nethroi, Apex of Death
-1 Vineglimmer Snarl
+1 Auspicious Starrix
 1 Barkchannel Pathway
 1 Boneyard Lurker
 1 Pollywog Symbiote
+1 Pouncing Shoreshark
 1 Insatiable Hemophage
+2 Darkbore Pathway
 2 Season of Growth
-2 Auspicious Starrix
+2 Nissa, Who Shakes the World
 2 Migratory Greathorn
-2 Pouncing Shoreshark
 2 Gemrazer
 2 Boneyard Lurker
+2 Auspicious Starrix
 2 Dirge Bat
 2 Pollywog Symbiote
-2 Darkbore Pathway
-2 Nissa, Who Shakes the World
+2 Pouncing Shoreshark
 2 Insatiable Hemophage
 3 Migratory Greathorn
-3 Auspicious Starrix
 3 Gemrazer
 3 Insatiable Hemophage
 3 Boneyard Lurker
+3 Auspicious Starrix
 3 Pollywog Symbiote
-1 Attune with Aether
-1 Rogue Refiner
-1 Whirler Virtuoso
-1 Lightning Helix
-1 Ancient Ziggurat
-1 Knight of Autumn
-1 Kambal, Consul of Allocation
-1 Faeburrow Elder
-1 Elite Guardmage
-1 Voltaic Brawler
-1 Ephemerate
-2 Rogue Refiner
-2 Attune with Aether
-2 Whirler Virtuoso
-2 The World Tree
-2 Hydroid Krasis
-2 Ancient Ziggurat
-2 Lightning Helix
-2 Voltaic Brawler
-2 Ephemerate
-2 Elite Guardmage
-3 Rogue Refiner
-3 Attune with Aether
-3 Whirler Virtuoso
-3 The World Tree
-3 Ancient Ziggurat
-3 Lightning Helix
-3 Voltaic Brawler
-3 Ephemerate
-4 Paradise Druid
-4 Rogue Refiner
-4 Attune with Aether
-4 Whirler Virtuoso
-4 Ancient Ziggurat
-4 Lightning Helix
-4 Niv-Mizzet Reborn
 1 Valki, God of Lies
-1 Felidar Retreat
 1 Alrund's Epiphany
+1 Felidar Retreat
 1 Root Snare
 1 Open the Gates
 2 Valki, God of Lies
+2 Alrund's Epiphany
 2 Root Snare
 2 Felidar Retreat
-2 Alrund's Epiphany
 2 Open the Gates
 3 Abundant Harvest
 3 Open the Gates
@@ -500,11 +464,11 @@
 4 Gatebreaker Ram
 4 Gate Colossus
 4 Open the Gates
-1 Dragonskull Summit
+1 Isolated Chapel
 1 Captain Sisay
+1 Dragonskull Summit
 1 Vraska, Golgari Queen
 1 Rootbound Crag
-1 Isolated Chapel
 1 Thought Erasure
 1 Angrath's Rampage
 1 Time Wipe
@@ -519,12 +483,47 @@
 3 Angrath's Rampage
 3 Captain Sisay
 4 Thought Erasure
-1 Ghost Quarter
+1 Ephemerate
+1 Ancient Ziggurat
+1 Lightning Helix
+1 Knight of Autumn
+1 Kambal, Consul of Allocation
+1 Attune with Aether
+1 Faeburrow Elder
+1 Elite Guardmage
+1 Voltaic Brawler
+1 Whirler Virtuoso
+1 Rogue Refiner
+2 Ephemerate
+2 Hydroid Krasis
+2 The World Tree
+2 Ancient Ziggurat
+2 Lightning Helix
+2 Voltaic Brawler
+2 Whirler Virtuoso
+2 Rogue Refiner
+2 Elite Guardmage
+2 Attune with Aether
+3 The World Tree
+3 Lightning Helix
+3 Ancient Ziggurat
+3 Voltaic Brawler
+3 Ephemerate
+3 Whirler Virtuoso
+3 Rogue Refiner
+3 Attune with Aether
+4 Paradise Druid
+4 Lightning Helix
+4 Ancient Ziggurat
+4 Niv-Mizzet Reborn
+4 Whirler Virtuoso
+4 Rogue Refiner
+4 Attune with Aether
 1 Crucible of Worlds
 1 Ratchet Bomb
+1 Ghost Quarter
 3 Maze's End
 3 Simic Guildgate
-4 Metalwork Colossus
 1 Lukka, Coppercoat Outcast
 1 Thassa, Deep-Dwelling
 1 Jace, Unraveler of Secrets
@@ -541,3 +540,4 @@
 3 Gruul Guildgate
 3 Selesnya Guildgate
 3 Glaive of the Guildpact
+4 Metalwork Colossus
