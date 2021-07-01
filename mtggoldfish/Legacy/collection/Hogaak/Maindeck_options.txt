@@ -11,14 +11,14 @@
 3 Bloodstained Mire
 2 Carrion Feeder
 3 Badlands
-1 Anger
 1 Satyr Wayfinder
 2 Satyr Wayfinder
 3 Satyr Wayfinder
-4 Cabal Therapy
+1 Anger
 3 Polluted Delta
 2 Marsh Flats
 3 Marsh Flats
+4 Cabal Therapy
 1 Wooded Foothills
 1 Once Upon a Time
 2 Once Upon a Time
@@ -45,8 +45,8 @@
 1 Ephemerate
 2 Ephemerate
 2 Scrubland
-3 Scrubland
 3 Ephemerate
+3 Scrubland
 4 Ephemerate
 4 Satyr Wayfinder
 1 Blazing Rootwalla
@@ -81,6 +81,10 @@
 3 Sylvan Safekeeper
 4 Lotleth Troll
 4 Wooded Foothills
+1 Polluted Dead
+2 Polluted Dead
+3 Polluted Dead
+4 Polluted Dead
 1 Mountain
 1 Asylum Visitor
 1 Kitchen Imp
@@ -108,10 +112,43 @@
 4 Lion's Eye Diamond
 4 Burning Inquiry
 4 Carrion Feeder
-1 Polluted Dead
-2 Polluted Dead
-3 Polluted Dead
-4 Polluted Dead
+1 Nurturing Peatland
+1 Khalni Garden
+1 Forest
+1 Karakas
+1 Dark Depths
+1 Elvish Reclaimer
+1 Urborg, Tomb of Yawgmoth
+1 Abrupt Decay
+1 Mox Diamond
+1 Thespian's Stage
+1 Vampire Hexmage
+1 Crop Rotation
+1 Bojuka Bog
+1 Wasteland
+1 Sejiri Steppe
+2 Nurturing Peatland
+2 Khalni Garden
+2 Crop Rotation
+2 Thespian's Stage
+2 Dark Depths
+2 Mox Diamond
+2 Vampire Hexmage
+2 Elvish Reclaimer
+2 Abrupt Decay
+3 Khalni Garden
+3 Thespian's Stage
+3 Vampire Hexmage
+3 Mox Diamond
+3 Crop Rotation
+3 Dark Depths
+3 Elvish Reclaimer
+3 Abrupt Decay
+4 Thespian's Stage
+4 Crop Rotation
+4 Dark Depths
+4 Elvish Reclaimer
+4 Vampire Hexmage
 1 Tireless Tribe
 2 Tireless Tribe
 3 Tireless Tribe

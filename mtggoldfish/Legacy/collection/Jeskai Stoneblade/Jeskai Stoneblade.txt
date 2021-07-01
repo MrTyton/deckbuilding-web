@@ -1,7 +1,7 @@
 1 Batterskull
 4 Brainstorm
 1 Brazen Borrower
-4 Daze
+2 Daze
 4 Flooded Strand
 2 Force of Negation
 4 Force of Will
@@ -14,8 +14,9 @@
 4 Ponder
 3 Prismatic Vista
 1 Scalding Tarn
-1 Snapcaster Mage
+2 Snapcaster Mage
 1 Snow-Covered Island
+1 Snow-Covered Plains
 4 Stoneforge Mystic
 4 Swords to Plowshares
 2 Teferi, Time Raveler
@@ -33,5 +34,6 @@ Sideboard
 2 Meddling Mage
 1 Pyroblast
 1 Red Elemental Blast
-2 Rest in Peace
+1 Rest in Peace
+1 Supreme Verdict
 2 Surgical Extraction

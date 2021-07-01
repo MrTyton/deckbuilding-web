@@ -1,4 +1,13 @@
 4 Pithing Needle
+1 Nurturing Peatland
+2 Elvish Reclaimer
+3 Elvish Reclaimer
+4 Elvish Reclaimer
+1 Dark Confidant
+1 Abrupt Decay
+2 Dark Confidant
+2 Abrupt Decay
+3 Dark Confidant
 1 Mana Confluence
 1 Stifle
 1 Gemstone Mine
@@ -10,31 +19,23 @@
 3 Gemstone Mine
 4 Mana Confluence
 4 Gemstone Mine
-1 Nurturing Peatland
-2 Elvish Reclaimer
-3 Elvish Reclaimer
-4 Elvish Reclaimer
-1 Abrupt Decay
-2 Abrupt Decay
+4 Not of This World
 1 Swamp
 1 Forest
-1 Dark Confidant
-2 Dark Confidant
-3 Dark Confidant
-4 Not of This World
 3 Abrupt Decay
+2 Wasteland
 1 Mox Diamond
 2 Mox Diamond
 3 Mox Diamond
-2 Nurturing Peatland
-2 Wasteland
 4 Abrupt Decay
 1 Life from the Loam
 4 Dark Confidant
+2 Nurturing Peatland
 1 Sylvan Safekeeper
 4 Mox Diamond
 1 Sylvan Library
 3 Bayou
+3 Wasteland
 1 Flusterstorm
 2 Sylvan Safekeeper
 3 Duress
@@ -43,27 +44,9 @@
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
-3 Wasteland
 1 Hymn to Tourach
 2 Hymn to Tourach
 4 Inquisition of Kozilek
-1 Satyr Wayfinder
-1 Cabal Therapy
-1 Dryad Arbor
-1 Khalni Garden
-1 Stitcher's Supplier
-1 Hogaak, Arisen Necropolis
-2 Satyr Wayfinder
-2 Cabal Therapy
-2 Hogaak, Arisen Necropolis
-2 Stitcher's Supplier
-3 Cabal Therapy
-3 Satyr Wayfinder
-3 Hogaak, Arisen Necropolis
-3 Stitcher's Supplier
-4 Cabal Therapy
-4 Stitcher's Supplier
-4 Hogaak, Arisen Necropolis
 4 Duress
 4 Once Upon a Time
 1 Vindicate
@@ -86,8 +69,8 @@
 1 Karn, the Great Creator
 1 Chalice of the Void
 2 Snow-Covered Swamp
-2 Polluted Delta
 2 Eliminate
+2 Polluted Delta
 2 Plague Engineer
 2 Dark Ritual
 2 Vindicate
@@ -109,8 +92,6 @@
 1 Blooming Marsh
 1 Fatal Push
 2 Fatal Push
-2 Khalni Garden
-3 Khalni Garden
 3 Hymn to Tourach
 3 Stifle
 4 Stifle
@@ -126,12 +107,6 @@
 3 Trinisphere
 3 Thought-Knot Seer
 4 Thought-Knot Seer
-1 Gurmag Angler
-1 Court of Ambition
-1 Lake of the Dead
-2 Gurmag Angler
-2 Court of Ambition
-5 Snow-Covered Swamp
 1 Chain of Smog
 1 Witherbloom Apprentice
 2 Life from the Loam
@@ -140,6 +115,29 @@
 3 Life from the Loam
 3 Chain of Smog
 3 Witherbloom Apprentice
-4 Bayou
 4 Witherbloom Apprentice
+4 Bayou
 4 Chain of Smog
+1 Satyr Wayfinder
+1 Cabal Therapy
+1 Dryad Arbor
+1 Khalni Garden
+1 Stitcher's Supplier
+1 Hogaak, Arisen Necropolis
+2 Satyr Wayfinder
+2 Cabal Therapy
+2 Hogaak, Arisen Necropolis
+2 Stitcher's Supplier
+3 Cabal Therapy
+3 Satyr Wayfinder
+3 Hogaak, Arisen Necropolis
+3 Stitcher's Supplier
+4 Cabal Therapy
+4 Stitcher's Supplier
+4 Hogaak, Arisen Necropolis
+1 Gurmag Angler
+1 Court of Ambition
+1 Lake of the Dead
+2 Gurmag Angler
+2 Court of Ambition
+5 Snow-Covered Swamp

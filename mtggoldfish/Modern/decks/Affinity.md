@@ -92,6 +92,6 @@
 |                    2|Esper Sentinel                                                                                     |                     |                                                                                                   |
 |                    3|Esper Sentinel                                                                                     |                     |                                                                                                   |
 |                    4|Esper Sentinel                                                                                     |                     |                                                                                                   |
-|                    4|[Steel Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222714)          |                     |                                                                                                   |
 |                    4|[Metallic Rebuke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423706)         |                     |                                                                                                   |
+|                    4|[Steel Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222714)          |                     |                                                                                                   |
 
