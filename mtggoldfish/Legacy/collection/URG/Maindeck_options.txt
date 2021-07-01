@@ -21,10 +21,10 @@
 3 Force of Negation
 4 Stifle
 4 Uro, Titan of Nature's Wrath
-1 Dress Down
 1 Phyrexian Dreadnought
-2 Dress Down
+1 Dress Down
 2 Phyrexian Dreadnought
+2 Dress Down
 3 Phyrexian Dreadnought
 3 Dress Down
 4 Daze
@@ -48,8 +48,8 @@
 1 Abundant Harvest
 3 Volcanic Island
 3 Endurance
-1 Underground Sea
 1 Polluted Delta
+1 Underground Sea
 2 Polluted Delta
 3 Polluted Delta
 1 Forest
@@ -70,53 +70,68 @@
 3 Karn, the Great Creator
 3 Ancient Grudge
 3 Dack Fayden
-4 Birds of Paradise
 4 Tarmogoyf
+4 Birds of Paradise
 4 Karn, the Great Creator
 4 Ancient Grudge
 1 Spell Pierce
 1 Engineered Explosives
-2 Hullbreacher
 2 Abundant Harvest
+2 Hullbreacher
 2 Narset, Parter of Veils
 1 Noble Hierarch
 2 Noble Hierarch
-3 Snow-Covered Island
 3 Prismatic Vista
+3 Snow-Covered Island
 1 Bloodstained Mire
 1 Cling to Dust
-1 Kroxa, Titan of Death's Hunger
 1 Badlands
 1 Dark Confidant
 1 Fatal Push
+1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
-2 Underground Sea
-2 Dark Confidant
 2 Fatal Push
+2 Dark Confidant
 2 Bloodstained Mire
+2 Underground Sea
 3 Kroxa, Titan of Death's Hunger
 3 Underground Sea
+1 Snow-Covered Plains
+1 Prismatic Ending
+1 Swords to Plowshares
+1 Flooded Strand
+1 Tundra
+2 Flooded Strand
+2 Swords to Plowshares
+2 Prismatic Ending
+2 Tundra
+3 Swords to Plowshares
+3 Flooded Strand
+3 Prismatic Ending
+4 Swords to Plowshares
+4 Flooded Strand
+4 Prismatic Ending
+4 Bonecrusher Giant
 1 Verdant Catacombs
 1 Watery Grave
 1 Murktide Regent
-1 Thoughtseize
-1 Death's Shadow
 1 Overgrown Tomb
 1 Berserk
+1 Thoughtseize
 1 Snuff Out
-2 Murktide Regent
+1 Death's Shadow
 2 Thoughtseize
 2 Verdant Catacombs
-2 Death's Shadow
+2 Murktide Regent
 2 Snuff Out
 2 Berserk
+2 Death's Shadow
 2 Watery Grave
 3 Watery Grave
 3 Thoughtseize
 3 Death's Shadow
-4 Death's Shadow
 4 Thoughtseize
-4 Bonecrusher Giant
+4 Death's Shadow
 1 Preordain
 1 Pyroclasm
 1 Retrofitter Foundry
@@ -133,18 +148,3 @@
 3 Painter's Servant
 4 Urza's Saga
 4 Painter's Servant
-1 Prismatic Ending
-1 Snow-Covered Plains
-1 Flooded Strand
-1 Tundra
-1 Swords to Plowshares
-2 Prismatic Ending
-2 Swords to Plowshares
-2 Flooded Strand
-2 Tundra
-3 Prismatic Ending
-3 Flooded Strand
-3 Swords to Plowshares
-4 Prismatic Ending
-4 Swords to Plowshares
-4 Flooded Strand

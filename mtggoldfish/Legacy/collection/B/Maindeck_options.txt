@@ -4,56 +4,19 @@
 4 Hagra Mauling
 9 Swamp
 10 Swamp
-1 Smallpox
-2 Smallpox
-3 Smallpox
-4 Smallpox
-1 Hymn to Tourach
-2 Hymn to Tourach
-1 Innocent Blood
-1 Sudden Edict
-1 Thoughtseize
-1 Liliana of the Veil
-1 Wasteland
-1 Mishra's Factory
-2 Mishra's Factory
-2 Thoughtseize
-2 Liliana of the Veil
-2 Wasteland
-3 Mishra's Factory
-3 Liliana of the Veil
-3 Thoughtseize
-3 Wasteland
-4 Wasteland
-4 Mishra's Factory
-4 Thoughtseize
-4 Liliana of the Veil
-1 Bloodchief's Thirst
-2 Bloodchief's Thirst
-1 Cling to Dust
-1 Liliana, the Last Hope
-1 Castle Locthwain
-2 Castle Locthwain
-2 Liliana, the Last Hope
-3 Castle Locthwain
-3 Urborg, Tomb of Yawgmoth
-4 Urborg, Tomb of Yawgmoth
+4 Trinisphere
 11 Swamp
-2 Innocent Blood
-1 Bojuka Bog
-1 Ensnaring Bridge
-2 Sudden Edict
-3 Hymn to Tourach
-2 Cling to Dust
-1 Fatal Push
-2 Fatal Push
-1 Duress
+1 Smallpox
 1 Sign in Blood
+1 Duress
+2 Smallpox
 2 Duress
 2 Sign in Blood
 3 Duress
+3 Smallpox
 3 Sign in Blood
 4 Duress
+4 Smallpox
 4 Sign in Blood
 12 Swamp
 13 Swamp
@@ -64,87 +27,53 @@
 18 Swamp
 19 Swamp
 20 Swamp
-4 Hymn to Tourach
-4 Trinisphere
 1 Asylum Visitor
+1 Hymn to Tourach
 1 Shrieking Affliction
 2 Asylum Visitor
+2 Hymn to Tourach
 2 Shrieking Affliction
-3 Asylum Visitor
+3 Hymn to Tourach
 3 Shrieking Affliction
+3 Asylum Visitor
+4 Hymn to Tourach
 4 Asylum Visitor
 4 Shrieking Affliction
-3 Fatal Push
-1 Bitterblossom
-3 Innocent Blood
-4 Innocent Blood
+1 Bloodchief's Thirst
+1 Innocent Blood
+2 Bloodchief's Thirst
+1 Sudden Edict
+2 Sudden Edict
 3 Sudden Edict
 4 Sudden Edict
-1 Liliana, Waker of the Dead
-1 Toxic Deluge
-1 Maze of Ith
-1 Baleful Mastery
 1 Cry of Contrition
+2 Innocent Blood
 2 Cry of Contrition
+3 Innocent Blood
 3 Cry of Contrition
+4 Innocent Blood
 4 Cry of Contrition
 1 Waste Not
 2 Waste Not
 3 Waste Not
+1 Bitterblossom
 3 Bloodchief's Thirst
 4 Bloodchief's Thirst
+1 Fatal Push
+2 Fatal Push
+3 Fatal Push
 21 Swamp
 1 Eliminate
-1 Plague Engineer
-4 Fatal Push
-1 Sinkhole
-2 Sinkhole
-3 Sinkhole
-4 Sinkhole
-1 Snow-Covered Swamp
 1 Gemstone Caverns
-1 Blast Zone
-1 The Tabernacle at Pendrell Vale
-1 Dauthi Voidwalker
-2 Dauthi Voidwalker
-1 Nether Spirit
-2 Bojuka Bog
+1 Snow-Covered Swamp
 1 Blackmail
 1 Davriel, Rogue Shadowmage
 2 Blackmail
 3 Defense Grid
+1 Baleful Mastery
 2 Baleful Mastery
 3 Baleful Mastery
 4 Collective Brutality
-1 Chain of Smog
-1 Ashiok, Dream Render
-1 Sedgemoor Witch
-1 Feed the Swarm
-2 Chain of Smog
-2 Sedgemoor Witch
-2 Bitterblossom
-3 Cling to Dust
-4 Castle Locthwain
-4 Cling to Dust
-1 Marsh Flats
-1 Scrubland
-1 Mana Tithe
-1 Vindicate
-1 Snow-Covered Plains
-1 Bloodghast
-2 Marsh Flats
-2 Vindicate
-2 Mana Tithe
-2 Scrubland
-2 Bloodghast
-3 Bloodghast
-3 Mana Tithe
-3 Vindicate
-3 Marsh Flats
-3 Scrubland
-4 Bloodghast
-4 Marsh Flats
-4 Mana Tithe
 1 Wrench Mind
 2 Wrench Mind
 3 Wrench Mind
@@ -157,32 +86,38 @@
 1 Juzam Djinn
 1 Opposition Agent
 1 Archfiend of Ifnir
+1 Plague Engineer
 2 Eliminate
-2 Plague Engineer
 2 Desecration Demon
 2 Opposition Agent
 2 Rotting Regisaur
+2 Plague Engineer
 2 Archfiend of Ifnir
-3 Opposition Agent
 3 Eliminate
+3 Opposition Agent
 3 Rotting Regisaur
 3 Plague Engineer
 3 Desecration Demon
 4 Eliminate
+4 Opposition Agent
 4 Desecration Demon
 4 Plague Engineer
-4 Opposition Agent
 4 Rotting Regisaur
+1 Sinkhole
 1 Divest
 1 Choking Sands
 1 Underworld Dreams
 1 Sanctum of Stone Fangs
+2 Sinkhole
 2 Underworld Dreams
 2 Divest
 2 Choking Sands
+3 Sinkhole
+3 Underworld Dreams
 3 Choking Sands
 3 Divest
-3 Underworld Dreams
+4 Fatal Push
+4 Sinkhole
 4 Underworld Dreams
 4 Divest
 4 Choking Sands

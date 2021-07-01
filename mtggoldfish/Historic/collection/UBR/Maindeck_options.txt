@@ -1,13 +1,12 @@
 1 Baleful Mastery
 1 Clearwater Pathway
 1 Mountain
+3 Steam Vents
+4 Steam Vents
 1 Island
 1 Fabled Passage
 2 Fabled Passage
-3 Steam Vents
-4 Steam Vents
 2 Island
-2 Mountain
 1 Mizzix's Mastery
 1 Terror of the Peaks
 1 Dragonstorm
@@ -22,83 +21,84 @@
 4 Faithless Looting
 4 Mizzix's Mastery
 4 Dragonstorm
-3 Fabled Passage
+2 Mountain
+3 Terror of the Peaks
 3 Prismari Command
 3 Island
 1 Brainstorm
 2 Brainstorm
 3 Brainstorm
-3 Terror of the Peaks
+3 Fabled Passage
 4 Fabled Passage
 4 Prismari Command
 3 Mountain
 4 Mountain
+1 Solve the Equation
+2 Solve the Equation
 1 Spirebluff Canal
 2 Spirebluff Canal
 4 Brainstorm
 1 Lathliss, Dragon Queen
 2 Lathliss, Dragon Queen
-1 Solve the Equation
-2 Solve the Equation
 1 Coldsteel Heart
 2 Coldsteel Heart
 1 Riverglide Pathway
 2 Riverglide Pathway
 3 Riverglide Pathway
+3 Solve the Equation
 3 Spirebluff Canal
 4 Island
-3 Solve the Equation
+4 Terror of the Peaks
+4 Riverglide Pathway
 3 Coldsteel Heart
 4 Spirebluff Canal
 4 Coldsteel Heart
-4 Riverglide Pathway
-4 Terror of the Peaks
 2 Baleful Mastery
 4 Solve the Equation
 1 Baral, Chief of Compliance
 2 Baral, Chief of Compliance
 3 Crux of Fate
-1 Dragonskull Summit
-3 Nicol Bolas, Dragon-God
-1 Anger of the Gods
 1 Bladewing the Risen
 2 Bladewing the Risen
 3 Bladewing the Risen
+1 Dragonskull Summit
+3 Nicol Bolas, Dragon-God
+1 Anger of the Gods
 2 Anger of the Gods
 3 Anger of the Gods
 1 Mystical Dispute
 1 Field of Ruin
 1 Saw It Coming
-1 Whirlwind Denial
 1 Behold the Multiverse
+1 Whirlwind Denial
 2 Behold the Multiverse
-2 Whirlwind Denial
 2 Saw It Coming
+2 Whirlwind Denial
 3 Behold the Multiverse
 1 Pact of Negation
 1 Strategic Planning
-2 Strategic Planning
 2 Pact of Negation
+2 Strategic Planning
 3 Strategic Planning
 4 Bladewing the Risen
 4 Strategic Planning
 1 Sweltering Suns
+1 Magma Opus
+2 Magma Opus
 2 Sweltering Suns
 1 Snow-Covered Mountain
-1 Volatile Fjord
 1 Snow-Covered Island
+1 Volatile Fjord
 1 Tundra Fumarole
-1 Magma Opus
 2 Snow-Covered Mountain
-2 Volatile Fjord
 2 Tundra Fumarole
-2 Magma Opus
-3 Volatile Fjord
+2 Volatile Fjord
 3 Tundra Fumarole
 3 Snow-Covered Mountain
-4 Volatile Fjord
+3 Volatile Fjord
 4 Snow-Covered Mountain
 4 Tundra Fumarole
+4 Volatile Fjord
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
@@ -107,8 +107,8 @@
 10 Snow-Covered Mountain
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
-1 Valki, God of Lies
-3 Thoughtseize
+3 Magma Opus
+2 Clearwater Pathway
 1 Mazemind Tome
 2 Mazemind Tome
 3 Kolaghan's Command
@@ -136,13 +136,13 @@
 1 Frost Bite
 2 Frost Bite
 3 Sweltering Suns
-3 Magma Opus
 4 Sweltering Suns
 1 Search for Azcanta
 1 Discovery/Dispersal
 2 Search for Azcanta
 2 Discovery/Dispersal
 3 Pact of Negation
+1 Valki, God of Lies
 2 Valki, God of Lies
 1 Savai Triome
 2 Dragonskull Summit
@@ -150,8 +150,9 @@
 3 Narset, Parter of Veils
 1 Expressive Iteration
 2 Expressive Iteration
-2 Clearwater Pathway
-1 Ketria Triome
+3 Clearwater Pathway
+4 Clearwater Pathway
+3 Thoughtseize
 1 Temple of Deceit
 1 Flunk
 1 Memory Lapse
@@ -159,60 +160,37 @@
 1 Fetid Pools
 1 Thought Erasure
 1 Rankle, Master of Pranks
+1 Ketria Triome
 2 Thought Erasure
 2 Rankle, Master of Pranks
 1 Shadows' Verdict
 2 Shadows' Verdict
+1 Extinction Event
+1 Drown in the Loch
+1 Heartless Act
+3 Expressive Iteration
 2 Savai Triome
 3 Savai Triome
 3 Chandra, Torch of Defiance
-1 Questing Beast
-1 Stomping Ground
-1 Sign in Blood
-1 Maelstrom Pulse
-1 Indatha Triome
-1 Forest
-1 Overgrown Tomb
-1 Scavenging Ooze
-1 Eliminate
-1 Klothys, God of Destiny
-1 Kroxa, Titan of Death's Hunger
-1 Fatal Push
-1 Nissa, Who Shakes the World
-1 Spawn of Mayhem
-2 Questing Beast
-2 Fatal Push
-2 Stomping Ground
-2 Ketria Triome
-2 Scavenging Ooze
-2 Indatha Triome
-2 Sign in Blood
-2 Maelstrom Pulse
-2 Overgrown Tomb
-2 Forest
-2 Spawn of Mayhem
-2 Nissa, Who Shakes the World
-3 Stomping Ground
-3 Overgrown Tomb
-3 Scavenging Ooze
-3 Spawn of Mayhem
-4 Overgrown Tomb
 1 Irencrag Feat
 1 Rowan, Scholar of Sparks
 2 Irencrag Feat
 2 Rowan, Scholar of Sparks
 3 Irencrag Feat
 4 Irencrag Feat
-1 Extinction Event
-1 Drown in the Loch
-1 Heartless Act
-3 Expressive Iteration
-3 Clearwater Pathway
-4 Clearwater Pathway
 1 Mind's Desire
 2 Mind's Desire
 3 Mind's Desire
 4 Mind's Desire
+1 Stitcher's Supplier
+1 Merfolk Secretkeeper
+2 Stitcher's Supplier
+2 Merfolk Secretkeeper
+3 Merfolk Secretkeeper
+3 Stitcher's Supplier
+4 Magma Opus
+4 Stitcher's Supplier
+4 Merfolk Secretkeeper
 5 Mountain
 1 Commit/Memory
 1 Bedevil

@@ -94,10 +94,10 @@
 3 Grafdigger's Cage
 1 Jegantha, the Wellspring
 2 Thoughtseize
-3 Flamescroll Celebrant
 1 Footfall Crater
 2 Valiant Rescuer
 3 Shredded Sails
+3 Flamescroll Celebrant
 4 Declaration in Stone
 1 Authority of the Consuls
 3 Fry
@@ -113,13 +113,13 @@
 2 Fight as One
 1 Relic of Progenitus
 2 Relic of Progenitus
-1 Lorehold Command
 1 Redcap Melee
 1 Valorous Stance
+1 Lorehold Command
 1 Craterhoof Behemoth
-2 Lorehold Command
 2 Redcap Melee
 2 Valorous Stance
+2 Lorehold Command
 2 Craterhoof Behemoth
 3 Relic of Progenitus
 3 Redcap Melee
@@ -127,8 +127,8 @@
 2 Wrath of God
 1 Gods Willing
 2 Gods Willing
-1 Introduction to Annihilation
 1 Spirit Summoning
+1 Introduction to Annihilation
 4 Rip Apart
 1 Chandra, Fire Artisan
 1 Tibalt, Rakish Instigator
@@ -136,22 +136,22 @@
 1 Phoenix of Ash
 1 Baird, Steward of Argive
 2 Authority of the Consuls
-2 Baneslayer Angel
-1 Fire Prophecy
-2 Fire Prophecy
-1 Storm's Wrath
-1 Doom Blade
-1 Duress
-2 Doom Blade
-2 Duress
-1 Soul Sear
-1 Heated Debate
-1 Thundering Rebuke
-1 Nahiri's Binding
-2 Nahiri's Binding
-2 Archon of Emeria
 1 Klothys, God of Destiny
 2 Klothys, God of Destiny
+2 Archon of Emeria
+1 Fire Prophecy
+2 Fire Prophecy
+2 Baneslayer Angel
+1 Soul Sear
+1 Thundering Rebuke
+1 Heated Debate
+1 Nahiri's Binding
+2 Nahiri's Binding
+1 Duress
+1 Storm's Wrath
+1 Doom Blade
+2 Doom Blade
+2 Duress
 1 Shalai, Voice of Plenty
 1 Conclave Tribunal
 2 Shalai, Voice of Plenty
@@ -164,6 +164,14 @@
 4 Wrath of God
 3 Lightning Helix
 4 Lightning Helix
+1 Bonecrusher Giant
+1 Grim Lavamancer
+2 Bonecrusher Giant
+2 Grim Lavamancer
+3 Bonecrusher Giant
+3 Settle the Wreckage
+4 Bonecrusher Giant
+4 Grafdigger's Cage
 2 Ox of Agonas
 3 Reidane, God of the Worthy
 4 Reidane, God of the Worthy
@@ -172,14 +180,6 @@
 3 Leyline of the Void
 4 Leyline of the Void
 4 Justice Strike
-1 Grim Lavamancer
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-2 Grim Lavamancer
-3 Settle the Wreckage
-3 Bonecrusher Giant
-4 Grafdigger's Cage
-4 Bonecrusher Giant
 1 Ajani, Strength of the Pride
 4 Valorous Stance
 1 Fragmentize

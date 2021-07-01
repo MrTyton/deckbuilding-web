@@ -22,8 +22,8 @@
 2 Blood Sun
 1 Hullbreacher
 1 Polluted Delta
-1 Island
 1 Jace, the Mind Sculptor
+1 Island
 1 Volcanic Island
 1 Izzet Charm
 1 Narset, Parter of Veils
@@ -34,24 +34,24 @@
 1 Scalding Tarn
 1 Ash Barrens
 1 Force of Will
-2 Scalding Tarn
-2 Island
 2 Hullbreacher
+2 Island
+2 Scalding Tarn
 2 Jace, the Mind Sculptor
-2 Volcanic Island
 2 Izzet Charm
 2 Force of Will
 2 Day's Undoing
-3 Island
+2 Volcanic Island
 3 Hullbreacher
+3 Island
 3 Scalding Tarn
-3 Volcanic Island
 3 Day's Undoing
 3 Izzet Charm
 3 Force of Will
+3 Volcanic Island
 4 Hullbreacher
-4 Scalding Tarn
 4 Day's Undoing
+4 Scalding Tarn
 4 Izzet Charm
 4 Force of Will
 3 Anje's Ravager
@@ -86,6 +86,13 @@
 3 Fireflux Squad
 3 Hanweir Garrison
 4 Fireflux Squad
+1 Seasoned Pyromancer
+1 Spikefield Hazard
+1 Fury
+2 Seasoned Pyromancer
+2 Fury
+3 Seasoned Pyromancer
+4 Seasoned Pyromancer
 1 Goblin Cratermaker
 1 Birgi, God of Storytelling
 2 Birgi, God of Storytelling
@@ -95,12 +102,5 @@
 2 Chandra, Heart of Fire
 3 Abrade
 3 Chandra, Heart of Fire
-4 Ensnaring Bridge
 4 Abrade
-1 Seasoned Pyromancer
-1 Spikefield Hazard
-1 Fury
-2 Seasoned Pyromancer
-2 Fury
-3 Seasoned Pyromancer
-4 Seasoned Pyromancer
+4 Ensnaring Bridge

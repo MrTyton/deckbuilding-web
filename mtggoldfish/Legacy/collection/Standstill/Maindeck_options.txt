@@ -35,12 +35,12 @@
 3 Volcanic Island
 1 Arid Mesa
 2 Arid Mesa
-1 Murktide Regent
 1 Stifle
+1 Murktide Regent
 1 Ragavan, Nimble Pilferer
 1 True-Name Nemesis
-2 Murktide Regent
 2 Stifle
+2 Murktide Regent
 2 Ragavan, Nimble Pilferer
 3 Stifle
 3 Ragavan, Nimble Pilferer
@@ -59,12 +59,12 @@
 1 Snow-Covered Mountain
 1 Hullbreacher
 1 Fblthp, the Lost
+1 Marsh Flats
 1 Windswept Heath
 1 Venser, Shaper Savant
 1 Solitude
 1 Meddling Mage
 1 Lavinia, Azorius Renegade
-1 Marsh Flats
 1 Palace Jailer
 1 Skyclave Apparition
 1 Brought Back
@@ -74,24 +74,24 @@
 1 Peacekeeper
 1 Barrin, Tolarian Archmage
 2 Windswept Heath
+2 Marsh Flats
 2 Brought Back
 2 Solitude
 2 Karakas
-2 Marsh Flats
 2 Meddling Mage
 2 Fblthp, the Lost
 2 Recruiter of the Guard
 2 Aether Vial
 2 Weathered Wayfarer
-3 Solitude
 3 Brought Back
 3 Windswept Heath
+3 Solitude
 3 Meddling Mage
 3 Recruiter of the Guard
 3 Aether Vial
 3 Weathered Wayfarer
-4 Solitude
 4 Tundra
+4 Solitude
 4 Aether Vial
 4 Weathered Wayfarer
 4 Meddling Mage
@@ -158,13 +158,13 @@
 2 Mystic Sanctuary
 2 Replenish
 2 Lay Claim
+3 Cast Out
 3 Lay Claim
 3 Replenish
-3 Cast Out
-1 Bloodstained Mire
 1 Cling to Dust
-1 Fatal Push
+1 Bloodstained Mire
 1 Eliminate
+1 Fatal Push
 1 Ingenious Infiltrator
 1 Changeling Outcast
 1 Baleful Strix
@@ -244,9 +244,9 @@
 3 Mox Diamond
 3 Life from the Loam
 3 Abrupt Decay
+4 Wasteland
 4 Uro, Titan of Nature's Wrath
 4 Mox Diamond
-4 Wasteland
 4 Abrupt Decay
 1 Impulse
 1 Bonecrusher Giant
@@ -266,7 +266,7 @@
 3 Burst Lightning
 4 Lightning Bolt
 4 Mishra's Factory
+4 Snapcaster Mage
 4 Volcanic Island
 4 Bonecrusher Giant
-4 Snapcaster Mage
 4 Faerie Conclave

@@ -16,8 +16,8 @@
 15 Swamp
 16 Swamp
 17 Swamp
-1 Clearwater Pathway
 1 Behold the Multiverse
+1 Clearwater Pathway
 1 Ashiok, Nightmare Muse
 1 Snow-Covered Island
 1 Ice Tunnel
@@ -44,13 +44,13 @@
 7 Snow-Covered Swamp
 2 Professor Onyx
 1 Snow-Covered Forest
-1 Garruk, Cursed Huntsman
 1 Extinction Event
 1 Blood on the Snow
+1 Garruk, Cursed Huntsman
 2 Snow-Covered Forest
-2 Garruk, Cursed Huntsman
 2 Extinction Event
 2 Blood on the Snow
+2 Garruk, Cursed Huntsman
 3 Extinction Event
 3 Snow-Covered Forest
 3 Murderous Rider
@@ -64,8 +64,8 @@
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
 11 Snow-Covered Swamp
-1 Heartless Act
 1 Woe Strider
+1 Heartless Act
 2 Woe Strider
 1 Crawling Barrens
 1 Pelakka Predation
@@ -75,8 +75,8 @@
 1 Ayara, First of Locthwain
 1 Serrated Scorpion
 2 Crawling Barrens
-2 Hagra Mauling
 2 Pelakka Predation
+2 Hagra Mauling
 2 Feed the Swarm
 2 Heartless Act
 2 Serrated Scorpion
@@ -95,34 +95,34 @@
 2 Scute Swarm
 3 Scute Swarm
 1 Brightclimb Pathway
-1 Darkbore Pathway
 1 Forest
-2 Darkbore Pathway
+1 Darkbore Pathway
 2 Forest
-3 Darkbore Pathway
+2 Darkbore Pathway
 3 Forest
-1 Negate
+3 Darkbore Pathway
 1 Temple of Deceit
+1 Negate
 1 Essence Scatter
 1 Brazen Borrower
 1 Foulmire Knight
-1 Kiora Bests the Sea God
+1 Opt
 1 Epic Downfall
+1 Kiora Bests the Sea God
 1 Duress
 1 Island
 1 Test of Talents
-1 Opt
 2 Negate
 2 Temple of Deceit
 2 Test of Talents
 2 Essence Scatter
 2 Brazen Borrower
+2 Opt
 2 Epic Downfall
 2 Duress
 2 Kiora Bests the Sea God
 2 Island
 2 Foulmire Knight
-2 Opt
 3 Temple of Deceit
 3 Negate
 3 Essence Scatter
@@ -153,8 +153,8 @@
 2 Go Blank
 3 Go Blank
 1 Snow-Covered Plains
-1 Temple of Silence
 1 Vanishing Verse
+1 Temple of Silence
 1 Silverquill Campus
 1 Agonizing Remorse
 1 Shineshadow Snarl
@@ -172,55 +172,55 @@
 3 Agonizing Remorse
 4 Snow-Covered Plains
 4 Snowfield Sinkhole
-1 Gilded Goose
 1 Professor of Symbology
 1 Temple of Malady
-1 Indatha Triome
 1 Happily Ever After
 1 Mythos of Nethroi
 1 Poet's Quill
 1 Lovestruck Beast
 1 Branchloft Pathway
-2 Gilded Goose
-2 Brightclimb Pathway
+1 Gilded Goose
+1 Indatha Triome
 2 Professor of Symbology
 2 Temple of Malady
-2 Indatha Triome
 2 Lovestruck Beast
+2 Gilded Goose
 2 Poet's Quill
+2 Indatha Triome
+2 Brightclimb Pathway
 2 Mythos of Nethroi
 2 Happily Ever After
 2 Branchloft Pathway
-3 Gilded Goose
 3 Brightclimb Pathway
-3 Indatha Triome
-3 Lovestruck Beast
 3 Poet's Quill
 3 Branchloft Pathway
-4 Gilded Goose
-4 Darkbore Pathway
+3 Lovestruck Beast
+3 Gilded Goose
+3 Indatha Triome
 4 Brightclimb Pathway
 4 Lovestruck Beast
+4 Gilded Goose
 4 Indatha Triome
+4 Darkbore Pathway
 4 Branchloft Pathway
-1 Lotus Cobra
 1 Blex, Vexing Pest
-1 Tend the Pests
 1 Dirge Bat
 1 Daemogoth Titan
 1 Glowstone Recluse
-2 Lotus Cobra
+1 Tend the Pests
+1 Lotus Cobra
 2 Blex, Vexing Pest
-2 Tend the Pests
 2 Glowstone Recluse
 2 Daemogoth Titan
 2 Dirge Bat
-3 Lotus Cobra
+2 Lotus Cobra
+2 Tend the Pests
 3 Dirge Bat
+3 Lotus Cobra
 4 Forest
 4 Scute Swarm
 5 Forest
-7 Forest
-8 Forest
-9 Forest
 6 Forest
+7 Forest
+9 Forest
+8 Forest
