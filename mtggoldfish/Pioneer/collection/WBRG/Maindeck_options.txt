@@ -1,7 +1,7 @@
 1 Sedgemoor Witch
 1 Blooming Marsh
-1 Heartless Act
 1 Liliana, Waker of the Dead
+1 Heartless Act
 1 Bloodchief's Thirst
 1 Elder Gargaroth
 1 Lovestruck Beast
@@ -10,17 +10,17 @@
 1 Plumb the Forbidden
 1 Blast Zone
 2 Hissing Quagmire
-2 Swamp
 2 Sedgemoor Witch
+2 Swamp
 2 Castle Locthwain
-2 Blooming Marsh
-2 Liliana, Waker of the Dead
 2 Elder Gargaroth
-2 Assassin's Trophy
 2 Scavenging Ooze
 2 Lovestruck Beast
+2 Blooming Marsh
 2 Plumb the Forbidden
+2 Assassin's Trophy
 2 Darkbore Pathway
+2 Liliana, Waker of the Dead
 3 Tireless Tracker
 3 Sedgemoor Witch
 3 Darkbore Pathway
@@ -32,19 +32,51 @@
 4 Sedgemoor Witch
 4 Lovestruck Beast
 4 Blooming Marsh
+1 Goblin Rabblemaster
+1 Goblin Chainwhirler
+1 Conspicuous Snoop
+1 Goblin Piledriver
+1 Goblin Warchief
 1 Castle Embereth
+1 Goblin Ringleader
 1 Mountain
+1 Frenzied Goblin
+1 Fanatical Firebrand
 1 Legion Loyalist
 1 Wild Slash
+2 Goblin Rabblemaster
+2 Conspicuous Snoop
+2 Goblin Ringleader
+2 Castle Embereth
+2 Goblin Warchief
+2 Goblin Chainwhirler
 2 Legion Loyalist
+2 Goblin Piledriver
 2 Mountain
+2 Fanatical Firebrand
+2 Frenzied Goblin
 2 Wild Slash
+3 Goblin Warchief
+3 Conspicuous Snoop
+3 Goblin Ringleader
+3 Castle Embereth
+3 Goblin Chainwhirler
+3 Fanatical Firebrand
 3 Wild Slash
+3 Frenzied Goblin
+3 Goblin Piledriver
 3 Legion Loyalist
 3 Mountain
 4 Mountain
+4 Conspicuous Snoop
+4 Castle Embereth
+4 Goblin Chainwhirler
 4 Legion Loyalist
+4 Goblin Piledriver
+4 Fanatical Firebrand
 4 Wild Slash
+4 Frenzied Goblin
+4 Goblin Warchief
 5 Mountain
 6 Mountain
 7 Mountain
@@ -57,73 +89,6 @@
 14 Mountain
 15 Mountain
 16 Mountain
-1 Bomat Courier
-1 Foundry Street Denizen
-1 Lightning Strike
-1 Rakdos Cackler
-1 Monastery Swiftspear
-1 Shock
-1 Zurgo Bellstriker
-1 Burning-Tree Emissary
-1 Reckless Bushwhacker
-1 Ramunap Ruins
-2 Bomat Courier
-2 Foundry Street Denizen
-2 Reckless Bushwhacker
-2 Shock
-2 Burning-Tree Emissary
-2 Monastery Swiftspear
-2 Lightning Strike
-2 Ramunap Ruins
-2 Rakdos Cackler
-3 Bomat Courier
-3 Monastery Swiftspear
-3 Burning-Tree Emissary
-3 Foundry Street Denizen
-3 Lightning Strike
-3 Reckless Bushwhacker
-3 Ramunap Ruins
-3 Rakdos Cackler
-4 Bomat Courier
-4 Burning-Tree Emissary
-4 Rakdos Cackler
-4 Reckless Bushwhacker
-4 Foundry Street Denizen
-4 Lightning Strike
-4 Monastery Swiftspear
-4 Ramunap Ruins
-1 Goblin Rabblemaster
-1 Goblin Chainwhirler
-1 Conspicuous Snoop
-1 Goblin Piledriver
-1 Goblin Warchief
-1 Goblin Ringleader
-1 Frenzied Goblin
-1 Fanatical Firebrand
-2 Goblin Rabblemaster
-2 Conspicuous Snoop
-2 Goblin Ringleader
-2 Castle Embereth
-2 Goblin Warchief
-2 Goblin Chainwhirler
-2 Goblin Piledriver
-2 Fanatical Firebrand
-2 Frenzied Goblin
-3 Goblin Warchief
-3 Conspicuous Snoop
-3 Goblin Ringleader
-3 Castle Embereth
-3 Goblin Chainwhirler
-3 Fanatical Firebrand
-3 Frenzied Goblin
-3 Goblin Piledriver
-4 Conspicuous Snoop
-4 Castle Embereth
-4 Goblin Chainwhirler
-4 Frenzied Goblin
-4 Goblin Piledriver
-4 Fanatical Firebrand
-4 Goblin Warchief
 17 Mountain
 18 Mountain
 19 Mountain

@@ -1,7 +1,7 @@
 3 Thoughtseize
 1 Island
-1 The Underworld Cookbook
 3 Spire of Industry
+1 The Underworld Cookbook
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
@@ -10,16 +10,18 @@
 3 Darkslick Shores
 4 Darkslick Shores
 1 Engineered Explosives
-1 Botanical Sanctum
 1 Whir of Invention
-2 Botanical Sanctum
 2 Whir of Invention
-3 Botanical Sanctum
 3 Whir of Invention
+4 Whir of Invention
+1 Botanical Sanctum
+2 Botanical Sanctum
+3 Botanical Sanctum
 4 Spire of Industry
 4 Botanical Sanctum
-4 Whir of Invention
 1 Soul-Guide Lantern
+1 Watery Grave
+2 Watery Grave
 1 Torpor Orb
 1 Witchbane Orb
 1 Prismatic Vista
@@ -31,20 +33,19 @@
 4 Inquisition of Kozilek
 4 Leyline of Sanctity
 2 Welding Jar
-1 Watery Grave
 1 Emry, Lurker of the Loch
 1 Mox Amber
 1 Drown in the Loch
 1 Crucible of Worlds
 2 Emry, Lurker of the Loch
 2 Drown in the Loch
-2 Watery Grave
 3 Emry, Lurker of the Loch
 4 Emry, Lurker of the Loch
 1 Overgrown Tomb
 1 Verdant Catacombs
 2 Verdant Catacombs
 3 Verdant Catacombs
+4 Mishra's Bauble
 1 Tezzeret, Agent of Bolas
 1 Inventors' Fair
 1 Ghoulcaller's Bell
@@ -61,9 +62,28 @@
 2 Ghost Quarter
 2 Wrenn and Six
 4 Verdant Catacombs
-4 Mishra's Bauble
 1 Metallic Rebuke
 2 Metallic Rebuke
 2 Soul-Guide Lantern
-4 Soul-Guide Lantern
 3 Soul-Guide Lantern
+4 Soul-Guide Lantern
+1 Polluted Delta
+1 Seachrome Coast
+1 Prismatic Ending
+1 Orbs of Warding
+1 Tormod's Crypt
+1 Hallowed Fountain
+1 Flooded Strand
+2 Hallowed Fountain
+2 Polluted Delta
+2 Seachrome Coast
+2 Prismatic Ending
+2 Engineered Explosives
+2 Island
+3 Polluted Delta
+3 Prismatic Ending
+3 Engineered Explosives
+4 Polluted Delta
+4 Prismatic Ending
+4 Thoughtseize
+3 Island

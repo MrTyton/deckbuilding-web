@@ -1,47 +1,45 @@
 2 Hallowed Fountain
 1 Opt
 2 Opt
-1 Cryptic Command
-2 Cryptic Command
 3 Opt
 4 Opt
+1 Cryptic Command
+2 Cryptic Command
 4 Snapcaster Mage
 4 Island
 1 Valakut Awakening
 1 Remand
 2 Remand
 5 Island
-1 Cascade Bluffs
 6 Island
 1 Spell Snare
+3 Cryptic Command
+1 Cascade Bluffs
 7 Island
 2 Valakut Awakening
 3 Remand
-3 Cryptic Command
 1 Riverglide Pathway
 2 Riverglide Pathway
 2 Cascade Bluffs
 3 Riverglide Pathway
 3 Cascade Bluffs
 4 Riverglide Pathway
-1 Emrakul, the Aeons Torn
+1 Mountain
+1 Sulfur Falls
+2 Sulfur Falls
+4 Remand
 1 Through the Breach
-2 Emrakul, the Aeons Torn
+1 Emrakul, the Aeons Torn
 2 Through the Breach
-3 Emrakul, the Aeons Torn
+2 Emrakul, the Aeons Torn
 3 Through the Breach
+3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
 4 Through the Breach
 1 Prismari Command
 2 Prismari Command
 1 Raugrin Triome
-1 Mountain
-4 Remand
-4 Spirebluff Canal
 1 Polluted Delta
-3 Prismari Command
-1 Sulfur Falls
-2 Sulfur Falls
 1 Murktide Regent
 1 Thought Scour
 2 Thought Scour
@@ -49,31 +47,33 @@
 3 Murktide Regent
 3 Thought Scour
 4 Thought Scour
+4 Spirebluff Canal
 2 Polluted Delta
 1 Watery Grave
 1 Fire/Ice
 3 Valakut Awakening
 1 Engineered Explosives
 2 Engineered Explosives
-1 Urza's Saga
 1 Pithing Needle
 1 Urza, Lord High Artificer
 1 Aether Spellbomb
 1 Emry, Lurker of the Loch
-2 Urza's Saga
+1 Urza's Saga
 2 Emry, Lurker of the Loch
+2 Urza's Saga
 2 Urza, Lord High Artificer
-3 Urza's Saga
 3 Emry, Lurker of the Loch
-4 Urza's Saga
+3 Urza's Saga
 4 Emry, Lurker of the Loch
+4 Urza's Saga
 2 Fire/Ice
 4 Cascade Bluffs
+3 Prismari Command
 3 Urza, Lord High Artificer
 1 Misty Rainforest
 4 Urza, Lord High Artificer
-1 Shadowspear
 1 Springleaf Drum
+1 Shadowspear
 1 Thought Monitor
 2 Thought Monitor
 1 Darksteel Citadel
@@ -107,11 +107,15 @@
 4 Esper Sentinel
 4 Dispatch
 4 Razortide Bridge
-3 Serum Visions
+1 Blood Moon
+1 Jace, the Mind Sculptor
+2 Blood Moon
+2 Jace, the Mind Sculptor
+8 Island
+9 Island
 1 Galvanic Blast
 2 Galvanic Blast
 3 Galvanic Blast
-4 Serum Visions
 1 Chromatic Star
 1 Grinding Station
 1 Underworld Breach
@@ -124,28 +128,23 @@
 3 Underworld Breach
 3 Grinding Station
 3 Mox Amber
+3 Serum Visions
 4 Underworld Breach
-1 Blood Moon
-1 Jace, the Mind Sculptor
-2 Blood Moon
-2 Jace, the Mind Sculptor
-8 Island
-9 Island
-1 Kiki-Jiki, Mirror Breaker
 1 Reflecting Pool
+3 Polluted Delta
 1 Flame Slash
 1 Abrade
 2 Spell Snare
-3 Polluted Delta
-1 Vendilion Clique
 2 Misty Rainforest
-4 Mox Amber
-4 Polluted Delta
+1 Kiki-Jiki, Mirror Breaker
 1 Path to Exile
 1 Plains
+4 Mox Amber
 1 Prismatic Ending
 2 Prismatic Ending
 3 Prismatic Ending
+4 Serum Visions
+4 Polluted Delta
 1 Castle Vantress
 1 Flusterstorm
 1 Minamo, School at Water's Edge
@@ -155,28 +154,16 @@
 2 Deceiver Exarch
 2 Kiki-Jiki, Mirror Breaker
 1 Snow-Covered Island
+1 Vendilion Clique
 1 Mana Leak
+1 Glacial Fortress
+2 Glacial Fortress
+2 Path to Exile
 2 Snow-Covered Island
 3 Snow-Covered Island
-2 Path to Exile
-1 Sacred Foundry
-1 Lightning Helix
-2 Lightning Helix
 1 Ral, Izzet Viceroy
 1 Zephyr Boots
 2 Expedition Map
-1 Saheeli Rai
-1 Felidar Guardian
-1 Mystic Gate
-1 Sun Titan
-2 Saheeli Rai
-2 Felidar Guardian
-3 Felidar Guardian
-3 Saheeli Rai
-3 Path to Exile
-4 Felidar Guardian
-4 Saheeli Rai
-4 Path to Exile
 1 Oboro, Palace in the Clouds
 1 Fury
 2 Reflecting Pool
@@ -186,15 +173,13 @@
 2 Temple of Epiphany
 4 Cryptic Command
 1 Anger of the Gods
-1 Glacial Fortress
 1 Teferi, Hero of Dominaria
 1 Celestial Colonnade
 1 Electrolyze
 1 Cleansing Wildfire
 2 Cleansing Wildfire
-2 Glacial Fortress
-2 Teferi, Hero of Dominaria
 2 Electrolyze
+2 Teferi, Hero of Dominaria
 3 Teferi, Hero of Dominaria
 3 Sulfur Falls
 4 Sulfur Falls
@@ -202,6 +187,11 @@
 1 Silverbluff Bridge
 4 Galvanic Blast
 2 Mana Leak
+3 Path to Exile
+4 Path to Exile
+1 Sacred Foundry
+1 Lightning Helix
+2 Lightning Helix
 1 Snow-Covered Mountain
 1 Snow-Covered Forest
 1 Breeding Pool
@@ -214,17 +204,21 @@
 3 Unholy Heat
 3 Glacial Fortress
 3 Electrolyze
-1 Subtlety
-1 Silumgar's Scorn
-1 Goldspan Dragon
-2 Goldspan Dragon
-3 Goldspan Dragon
-4 Steam Vents
+1 Felidar Guardian
+1 Saheeli Rai
+1 Mystic Gate
+1 Sun Titan
+2 Saheeli Rai
+2 Felidar Guardian
+3 Felidar Guardian
+3 Saheeli Rai
+4 Felidar Guardian
+4 Saheeli Rai
 4 Valakut Awakening
 1 Blinkmoth Nexus
 1 Pyrite Spellbomb
-1 Spire of Industry
 1 Witching Well
+1 Spire of Industry
 2 Silverbluff Bridge
 2 Blinkmoth Nexus
 2 Witching Well
@@ -234,12 +228,12 @@
 3 Silverbluff Bridge
 4 Silverbluff Bridge
 1 Hinterland Harbor
+1 Wrenn and Six
 1 Growth Spiral
 1 Flooded Grove
 1 Valakut, the Molten Pinnacle
 1 Dryad of the Ilysian Grove
 1 Fact or Fiction
-1 Wrenn and Six
 2 Breeding Pool
 2 Fact or Fiction
 2 Flooded Grove
@@ -256,6 +250,20 @@
 4 Misty Rainforest
 4 Valakut, the Molten Pinnacle
 4 Dryad of the Ilysian Grove
+1 Subtlety
+1 Silumgar's Scorn
+1 Goldspan Dragon
+2 Goldspan Dragon
+3 Goldspan Dragon
+4 Steam Vents
+1 Spell Queller
+1 Rattlechains
+2 Spell Queller
+2 Rattlechains
+3 Spell Queller
+3 Rattlechains
+4 Spell Queller
+4 Rattlechains
 1 Prismatic Vista
 1 Magma Opus
 1 Torrential Gearhulk

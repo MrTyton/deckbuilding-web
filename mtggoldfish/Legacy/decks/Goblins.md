@@ -170,6 +170,6 @@
 |                    1|[Blade Historian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513657)           |                     |                                                                                                    |
 |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                    |                     |                                                                                                    |
 |                    2|[Blade Historian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513657)           |                     |                                                                                                    |
-|                    4|[Blade Historian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513657)           |                     |                                                                                                    |
 |                    3|[Blade Historian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513657)           |                     |                                                                                                    |
+|                    4|[Blade Historian](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513657)           |                     |                                                                                                    |
 

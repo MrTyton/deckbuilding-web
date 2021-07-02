@@ -27,8 +27,8 @@
 3 Resplendent Angel
 1 Skyclave Apparition
 2 Skyclave Apparition
-1 Branchloft Pathway
 1 Sunpetal Grove
+1 Branchloft Pathway
 1 Collected Company
 2 Sunpetal Grove
 2 Branchloft Pathway
@@ -36,8 +36,8 @@
 3 Sunpetal Grove
 3 Branchloft Pathway
 3 Collected Company
-4 Branchloft Pathway
 4 Sunpetal Grove
+4 Branchloft Pathway
 4 Collected Company
 4 Legion's Landing
 1 Bishop of Wings
@@ -101,23 +101,23 @@
 16 Snow-Covered Plains
 1 Idyllic Grange
 1 Baneslayer Angel
-1 Temple of Silence
 1 Godless Shrine
 1 Isolated Chapel
+1 Temple of Silence
 1 Vito, Thorn of the Dusk Rose
 2 Godless Shrine
 2 Isolated Chapel
 2 Vito, Thorn of the Dusk Rose
-3 Isolated Chapel
 3 Godless Shrine
+3 Isolated Chapel
 3 Vito, Thorn of the Dusk Rose
 4 Godless Shrine
 4 Isolated Chapel
 1 Elspeth Conquers Death
 1 Revitalize
 1 God-Eternal Oketra
-2 Revitalize
 2 Luminous Broodmoth
+2 Revitalize
 3 Luminous Broodmoth
 3 Ranger of Eos
 4 Ranger of Eos
@@ -130,13 +130,13 @@
 1 Oketra the True
 1 Angel of Destiny
 1 Glory-Bound Initiate
+1 Luminarch Aspirant
+2 Luminarch Aspirant
+3 Luminarch Aspirant
 1 Emeria's Call
 1 Search for Glory
 2 Emeria's Call
 3 Emeria's Call
-1 Luminarch Aspirant
-2 Luminarch Aspirant
-3 Luminarch Aspirant
 1 Knight of Autumn
 2 Knight of Autumn
 3 Knight of Autumn
@@ -153,9 +153,9 @@
 3 Selfless Savior
 4 Selfless Savior
 1 Oath of Kaya
+1 Erebos's Intervention
 1 Castle Locthwain
 1 Scoured Barrens
-1 Erebos's Intervention
 1 Linvala, Keeper of Silence
 1 Elspeth, Sun's Nemesis
 1 Angelic Ascension
@@ -204,9 +204,9 @@
 2 Basri Ket
 2 Secluded Steppe
 2 Realm-Cloaked Giant
-3 Revitalize
 3 Containment Priest
 3 Basri Ket
 3 Secluded Steppe
+3 Revitalize
 4 Basri Ket
 4 Secluded Steppe
