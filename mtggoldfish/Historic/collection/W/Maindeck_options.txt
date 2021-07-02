@@ -1,35 +1,33 @@
 3 Giant Killer
 1 Thraben Inspector
 2 Thraben Inspector
-3 Thraben Inspector
+1 Plains
 1 Mana Tithe
 2 Mana Tithe
-1 Plains
-2 Plains
+3 Thraben Inspector
 4 Adanto Vanguard
-3 Reidane, God of the Worthy
-4 Thraben Inspector
-3 Plains
-4 Plains
-5 Plains
+2 Plains
 1 Blinkmoth Nexus
 2 Blinkmoth Nexus
 3 Blinkmoth Nexus
 4 Blinkmoth Nexus
-6 Plains
-7 Plains
+4 Thraben Inspector
+3 Plains
+4 Plains
+5 Plains
+3 Reidane, God of the Worthy
 1 Shefet Dunes
 2 Shefet Dunes
-1 Emeria's Call
-8 Plains
-3 Shefet Dunes
+1 Brightclimb Pathway
 1 Godless Shrine
+2 Brightclimb Pathway
+3 Brightclimb Pathway
+6 Plains
+7 Plains
 2 Godless Shrine
 3 Godless Shrine
 4 Godless Shrine
-1 Brightclimb Pathway
-2 Brightclimb Pathway
-3 Brightclimb Pathway
+4 Brightclimb Pathway
 1 Vault Skirge
 1 Gingerbrute
 1 Steel Overseer
@@ -50,6 +48,9 @@
 3 Tempered Steel
 4 Tempered Steel
 4 Gingerbrute
+1 Emeria's Call
+8 Plains
+3 Shefet Dunes
 1 Scavenger Grounds
 2 Scavenger Grounds
 2 Emeria's Call
@@ -59,11 +60,15 @@
 1 Court Homunculus
 2 Court Homunculus
 3 Court Homunculus
-4 Brightclimb Pathway
 1 Maul of the Skyclaves
 2 Maul of the Skyclaves
 1 Scrapheap Scrounger
 2 Scrapheap Scrounger
+1 Concealed Courtyard
+2 Concealed Courtyard
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
 1 Branchloft Pathway
 1 Temple Garden
 2 Branchloft Pathway
@@ -77,16 +82,19 @@
 2 Hallowed Fountain
 3 Hallowed Fountain
 4 Hallowed Fountain
-1 Hengegate Pathway
-2 Hengegate Pathway
-3 Hengegate Pathway
-4 Hengegate Pathway
 1 Collected Company
 2 Collected Company
 3 Collected Company
 4 Collected Company
-1 Concealed Courtyard
-2 Concealed Courtyard
+1 Hengegate Pathway
+2 Hengegate Pathway
+3 Hengegate Pathway
+4 Hengegate Pathway
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
+1 Castle Ardenvale
+1 Silverquill Silencer
+2 Silverquill Silencer
 1 Dauntless Bodyguard
 2 Dauntless Bodyguard
 1 Containment Priest
@@ -94,37 +102,34 @@
 1 Halvar, God of Battle
 2 Halvar, God of Battle
 4 Legion's Landing
-1 Silverquill Silencer
-2 Silverquill Silencer
 4 Court Homunculus
-1 Isolated Chapel
-1 Thoughtseize
-1 Inquisition of Kozilek
-2 Thoughtseize
-2 Inquisition of Kozilek
-3 Thoughtseize
 1 Kitesail Freebooter
 2 Kitesail Freebooter
-1 Drannith Magistrate
-2 Drannith Magistrate
 1 Deputy of Detention
 2 Deputy of Detention
-1 Castle Ardenvale
-1 Sacred Foundry
+3 Concealed Courtyard
+4 Concealed Courtyard
+1 Swamp
+1 Knight of the Ebon Legion
+2 Knight of the Ebon Legion
+3 Knight of the Ebon Legion
+4 Thoughtseize
+4 Knight of the Ebon Legion
 1 Needleverge Pathway
+1 Sacred Foundry
 1 Showdown of the Skalds
-2 Sacred Foundry
 2 Needleverge Pathway
+2 Sacred Foundry
 2 Showdown of the Skalds
 3 Needleverge Pathway
 4 Needleverge Pathway
 3 Servo Exhibition
 4 Servo Exhibition
+1 Isolated Chapel
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
-2 Isolated Chapel
 1 Glorious Protector
 2 Glorious Protector
 3 Emeria's Call
@@ -133,9 +138,9 @@
 1 Vanishing Verse
 1 Overgrown Tomb
 1 Blooming Marsh
+2 Vanishing Verse
 2 Blooming Marsh
 2 Overgrown Tomb
-2 Vanishing Verse
 3 Overgrown Tomb
 4 Overgrown Tomb
 1 All That Glitters
@@ -157,7 +162,22 @@
 3 Dauntless Bodyguard
 4 Dauntless Bodyguard
 20 Snow-Covered Plains
+1 Glint-Sleeve Siphoner
+1 Ajani, Adversary of Tyrants
+1 Savai Triome
+2 Swamp
+2 Glint-Sleeve Siphoner
+2 Ajani, Adversary of Tyrants
+2 Castle Ardenvale
+2 Savai Triome
+3 Swamp
+3 Glint-Sleeve Siphoner
+4 Glint-Sleeve Siphoner
+4 Swamp
+1 Baneslayer Angel
 3 Mana Tithe
+1 Drannith Magistrate
+2 Drannith Magistrate
 1 Glasspool Mimic
 2 Glasspool Mimic
 3 Deputy of Detention
@@ -168,27 +188,26 @@
 4 Meddling Mage
 1 Scattered Groves
 2 Scattered Groves
-3 Concealed Courtyard
-4 Concealed Courtyard
 3 Scrapheap Scrounger
 4 Scrapheap Scrounger
-1 Swamp
-1 Castle Locthwain
-3 Drannith Magistrate
-3 Isolated Chapel
+1 Shineshadow Snarl
+2 Shineshadow Snarl
+1 Island
+2 Island
 1 Ornithopter
+2 Isolated Chapel
 2 Ornithopter
 3 Ornithopter
 4 Ornithopter
-1 Island
-2 Island
+1 Toolcraft Exemplar
 1 Karn, Scion of Urza
 2 Karn, Scion of Urza
 3 Karn, Scion of Urza
-1 Toolcraft Exemplar
 1 Usher of the Fallen
 1 Yasharn, Implacable Earth
 1 Lavinia, Azorius Renegade
+1 Agadeem's Awakening
+1 Castle Locthwain
 1 Rest in Peace
 2 Rest in Peace
 1 Skymarcher Aspirant
@@ -210,49 +229,20 @@
 2 Alseid of Life's Bounty
 3 Alseid of Life's Bounty
 3 Militia Bugler
+3 Drannith Magistrate
 4 Alseid of Life's Bounty
-1 Temple of Silence
-1 Dire Tactics
-1 Bojuka Bog
-1 Kambal, Consul of Allocation
-1 Tithe Taker
-2 Swamp
-2 Dire Tactics
-2 Tithe Taker
-2 Kambal, Consul of Allocation
 3 Silverquill Silencer
-3 Swamp
-3 Dire Tactics
-3 Tithe Taker
-3 Kambal, Consul of Allocation
-4 Isolated Chapel
+3 Shineshadow Snarl
 4 Silverquill Silencer
-4 Swamp
-1 General Kudro of Drannith
-1 Ancient Ziggurat
-1 Unclaimed Territory
-2 General Kudro of Drannith
-2 Unclaimed Territory
-2 Ancient Ziggurat
-3 Kitesail Freebooter
-3 Ancient Ziggurat
-4 Kitesail Freebooter
-4 Ancient Ziggurat
-1 Agadeem's Awakening
-1 Baneslayer Angel
-1 Knight of the Ebon Legion
-2 Knight of the Ebon Legion
-3 Knight of the Ebon Legion
-4 Thoughtseize
-4 Knight of the Ebon Legion
+4 Shineshadow Snarl
 1 Inspiring Vantage
 1 Hope of Ghirapur
 1 Ramunap Ruins
 2 Inspiring Vantage
 2 Hope of Ghirapur
 2 Ramunap Ruins
-3 Inspiring Vantage
 3 Sacred Foundry
+3 Inspiring Vantage
 3 Showdown of the Skalds
 3 Ramunap Ruins
 4 Inspiring Vantage
@@ -262,8 +252,19 @@
 1 Venerated Loxodon
 2 Glass Casket
 2 Venerated Loxodon
+3 Isolated Chapel
 3 Venerated Loxodon
 4 Venerated Loxodon
+1 General Kudro of Drannith
+1 Unclaimed Territory
+1 Ancient Ziggurat
+2 Ancient Ziggurat
+2 General Kudro of Drannith
+2 Unclaimed Territory
+3 Ancient Ziggurat
+3 Kitesail Freebooter
+4 Ancient Ziggurat
+4 Kitesail Freebooter
 1 Sunpetal Grove
 1 Dromoka's Command
 1 Vorinclex, Monstrous Raider
@@ -277,12 +278,10 @@
 3 Scavenger Grounds
 3 Dromoka's Command
 4 Dromoka's Command
-1 Shineshadow Snarl
 1 Unbreakable Formation
 1 Glacial Fortress
 1 Whirler Rogue
 1 Skilled Animator
-2 Shineshadow Snarl
 2 Unbreakable Formation
 2 Skilled Animator
 2 Glacial Fortress
@@ -291,8 +290,8 @@
 3 Unbreakable Formation
 3 Glacial Fortress
 3 Skilled Animator
-4 Island
 4 Glacial Fortress
+4 Island
 4 Skilled Animator
 4 Unbreakable Formation
 1 Heart of Kiran

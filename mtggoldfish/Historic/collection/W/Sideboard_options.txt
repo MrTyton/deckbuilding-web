@@ -4,15 +4,15 @@
 2 Containment Priest
 1 Declaration in Stone
 2 Declaration in Stone
-1 Authority of the Consuls
-2 Authority of the Consuls
 1 Apostle of Purifying Light
 3 Declaration in Stone
+1 Authority of the Consuls
+2 Authority of the Consuls
 1 Giant Killer
 2 Giant Killer
+3 Rest in Peace
 3 Containment Priest
 1 Archon of Emeria
-3 Rest in Peace
 1 Thalia, Guardian of Thraben
 4 Declaration in Stone
 1 Settle the Wreckage
@@ -26,13 +26,19 @@
 1 Unbreakable Formation
 1 Mila, Crafty Companion
 2 Mila, Crafty Companion
-1 Humiliate
 1 Fairgrounds Warden
+1 Humiliate
 2 Thalia, Guardian of Thraben
 2 Fairgrounds Warden
 3 Thalia, Guardian of Thraben
 4 Thalia, Guardian of Thraben
 1 Skyclave Apparition
+1 Baneslayer Angel
+1 Fatal Push
+1 Duress
+1 Vanishing Verse
+2 Fatal Push
+2 Duress
 2 Archon of Emeria
 1 Rip Apart
 2 Rip Apart
@@ -48,6 +54,7 @@
 2 Hushbringer
 2 Linvala, Keeper of Silence
 1 Ranger of Eos
+2 Deafening Silence
 1 Yasharn, Implacable Earth
 1 Shapers' Sanctuary
 2 Yasharn, Implacable Earth
@@ -61,32 +68,37 @@
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
-2 Deafening Silence
+1 Despark
+2 Despark
 2 Skyclave Apparition
+2 Baneslayer Angel
 3 Archon of Emeria
-1 Baneslayer Angel
+2 Vanishing Verse
 1 Relic of Progenitus
 1 Aether Gust
 1 Negate
 2 Aether Gust
 2 Negate
-1 Kunoros, Hound of Athreos
-2 Kunoros, Hound of Athreos
 1 Heliod's Intervention
 1 Drannith Magistrate
 2 Drannith Magistrate
-1 Despark
-2 Despark
 1 Glorious Protector
 1 Timely Reinforcements
 1 Fragmentize
 2 Devout Decree
 2 Timely Reinforcements
 2 Fragmentize
+1 Kunoros, Hound of Athreos
 1 Lurrus of the Dream-Den
 1 Kambal, Consul of Allocation
 1 Hostage Taker
 2 Hostage Taker
+2 Kunoros, Hound of Athreos
+1 Lyra Dawnbringer
+1 Flunk
+1 Noxious Grasp
+2 Flunk
+2 Noxious Grasp
 1 Leyline of Sanctity
 1 Archon of Absolution
 1 Gideon Blackblade
@@ -108,24 +120,14 @@
 2 Lightning Helix
 2 Roiling Vortex
 3 Roiling Vortex
-1 Weathered Runestone
-1 Strict Proctor
-1 Selfless Glyphweaver
-1 Damping Sphere
-1 Remorseful Cleric
-2 Strict Proctor
-2 Damping Sphere
-2 Humiliate
-3 Humiliate
+1 Doom Blade
+1 Fracture
+2 Doom Blade
+3 Vanishing Verse
+3 Doom Blade
 3 Skyclave Apparition
 4 Skyclave Apparition
 1 Ajani, Adversary of Tyrants
-1 Fatal Push
-1 Duress
-1 Vanishing Verse
-2 Fatal Push
-2 Baneslayer Angel
-2 Duress
 3 Fatal Push
 4 Fatal Push
 2 Mana Tithe

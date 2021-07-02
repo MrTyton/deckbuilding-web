@@ -10,8 +10,8 @@
 2 Fabled Passage
 3 Fabled Passage
 4 Fabled Passage
-1 Memory Lapse
 1 Breeding Pool
+1 Memory Lapse
 2 Breeding Pool
 1 Nissa, Who Shakes the World
 1 Wrath of God
@@ -139,8 +139,8 @@
 9 Snow-Covered Plains
 10 Snow-Covered Plains
 11 Snow-Covered Plains
-1 Hinterland Harbor
 1 Tamiyo, Collector of Tales
+1 Hinterland Harbor
 2 Hinterland Harbor
 1 Crawling Barrens
 1 Ephemerate
@@ -154,60 +154,35 @@
 1 Dromoka's Command
 2 Dromoka's Command
 1 Deputy of Detention
-1 Barkchannel Pathway
 1 Spell Pierce
+1 Barkchannel Pathway
 2 Spell Pierce
+1 Elesh Norn, Grand Cenobite
+1 Graven Lore
+1 Glacial Floodplain
+2 Elesh Norn, Grand Cenobite
+2 Graven Lore
+3 Elesh Norn, Grand Cenobite
 1 Mystical Dispute
 3 Wrath of God
-1 Arboreal Grazer
-2 Arboreal Grazer
-3 Arboreal Grazer
 2 Blast Zone
 3 Elite Spellbinder
 1 Settle the Wreckage
 1 Explore
 2 Explore
 3 Hydroid Krasis
+1 Radiant Fountain
 1 Blossoming Sands
 1 Ajani's Pridemate
-1 Radiant Fountain
-2 Ajani's Pridemate
 2 Radiant Fountain
+2 Ajani's Pridemate
 2 Blossoming Sands
 3 Ajani's Pridemate
-1 Graven Lore
-1 Elesh Norn, Grand Cenobite
-1 Glacial Floodplain
-2 Graven Lore
-2 Elesh Norn, Grand Cenobite
-3 Elesh Norn, Grand Cenobite
-1 Baleful Mastery
-1 Woodland Cemetery
-1 Watery Grave
-1 Swamp
-1 Drowned Catacomb
-1 Vraska, Golgari Queen
-1 Elder Gargaroth
-1 Search for Azcanta
-1 Eliminate
-1 Castle Vantress
-1 Languish
-1 Extinction Event
-1 Cling to Dust
-1 Overgrown Tomb
-2 Crawling Barrens
-2 Castle Vantress
-2 Watery Grave
-2 Tamiyo, Collector of Tales
-2 Woodland Cemetery
-2 Overgrown Tomb
-2 Elder Gargaroth
-2 Languish
-2 Drowned Catacomb
-3 Narset, Parter of Veils
-4 Zagoth Triome
-1 Tale's End
+1 Arboreal Grazer
+2 Arboreal Grazer
+3 Arboreal Grazer
 1 Saw It Coming
+1 Tale's End
 2 Saw It Coming
 2 Tale's End
 3 Saw It Coming
@@ -221,6 +196,31 @@
 3 Brightclimb Pathway
 3 Vito, Thorn of the Dusk Rose
 4 Brightclimb Pathway
+1 Castle Vantress
+1 Baleful Mastery
+1 Woodland Cemetery
+1 Search for Azcanta
+1 Elder Gargaroth
+1 Vraska, Golgari Queen
+1 Swamp
+1 Extinction Event
+1 Languish
+1 Eliminate
+1 Cling to Dust
+1 Overgrown Tomb
+1 Drowned Catacomb
+1 Watery Grave
+2 Overgrown Tomb
+2 Drowned Catacomb
+2 Woodland Cemetery
+2 Castle Vantress
+2 Tamiyo, Collector of Tales
+2 Crawling Barrens
+2 Elder Gargaroth
+2 Languish
+2 Watery Grave
+3 Narset, Parter of Veils
+4 Zagoth Triome
 1 Remorseful Cleric
 2 Remorseful Cleric
 3 Remorseful Cleric

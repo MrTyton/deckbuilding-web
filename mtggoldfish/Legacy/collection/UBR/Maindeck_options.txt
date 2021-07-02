@@ -1,5 +1,5 @@
-1 Snow-Covered Island
 1 Snow-Covered Swamp
+1 Snow-Covered Island
 2 Snow-Covered Island
 1 Plague Engineer
 1 Gurmag Angler
@@ -15,6 +15,7 @@
 1 Murderous Cut
 2 Snow-Covered Swamp
 3 Snow-Covered Island
+2 Misty Rainforest
 3 Bloodstained Mire
 1 Liliana, the Last Hope
 1 Liliana's Triumph
@@ -24,14 +25,13 @@
 2 Force of Negation
 1 Spell Pierce
 2 Spell Pierce
-2 Misty Rainforest
 4 Snow-Covered Island
 1 Hullbreacher
 3 Kolaghan's Command
 3 Ethereal Forager
 1 Sudden Edict
-1 Murktide Regent
 1 Darkblast
+1 Murktide Regent
 2 Cling to Dust
 2 Sudden Edict
 1 Profane Tutor
@@ -55,6 +55,11 @@
 1 Flooded Strand
 3 Prismatic Vista
 4 Island
+1 Flusterstorm
+1 Sedgemoor Witch
+2 Sedgemoor Witch
+2 Flusterstorm
+3 Sedgemoor Witch
 1 Shark Typhoon
 1 Pyroblast
 1 Ashiok, Nightmare Muse
@@ -63,6 +68,27 @@
 1 As Foretold
 2 Profane Tutor
 2 Blood Moon
+1 Sylvan Library
+1 Verdant Catacombs
+1 Uro, Titan of Nature's Wrath
+1 Unearth
+1 Witherbloom Apprentice
+1 Chain of Smog
+1 Forest
+1 Tropical Island
+1 Bayou
+1 Cabal Therapy
+1 Abrupt Decay
+2 Tropical Island
+2 Verdant Catacombs
+2 Uro, Titan of Nature's Wrath
+2 Witherbloom Apprentice
+2 Abrupt Decay
+2 Cabal Therapy
+3 Verdant Catacombs
+3 Abrupt Decay
+3 Misty Rainforest
+3 Cabal Therapy
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
@@ -73,13 +99,8 @@
 3 Flooded Strand
 4 Underground Sea
 4 Ethereal Forager
-1 Flusterstorm
 1 Mystic Reflection
-1 Sedgemoor Witch
 2 Preordain
-2 Sedgemoor Witch
-2 Flusterstorm
-3 Sedgemoor Witch
 3 Flusterstorm
 4 Sedgemoor Witch
 4 Swamp
@@ -88,16 +109,16 @@
 1 Bitterblossom
 1 Umezawa's Jitte
 1 Daze
-1 Cunning Nightbonder
 1 Oona's Blackguard
 1 Mutavault
+1 Cunning Nightbonder
 2 Opposition Agent
 2 Hullbreacher
 2 Spellstutter Sprite
 2 Oona's Blackguard
-2 Mutavault
-2 Cunning Nightbonder
 2 Bitterblossom
+2 Cunning Nightbonder
+2 Mutavault
 2 Daze
 3 Spellstutter Sprite
 3 Brazen Borrower
