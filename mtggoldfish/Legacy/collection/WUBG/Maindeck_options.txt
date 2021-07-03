@@ -17,6 +17,7 @@
 2 Kitesail Freebooter
 2 Charming Prince
 1 Kelsien, the Plague
+1 Lavinia, Azorius Renegade
 1 Tropical Island
 1 Uro, Titan of Nature's Wrath
 1 Misty Rainforest
@@ -26,13 +27,14 @@
 2 Green Sun's Zenith
 3 Green Sun's Zenith
 2 Uro, Titan of Nature's Wrath
+4 Green Sun's Zenith
 1 Sylvan Library
 1 Leovold, Emissary of Trest
 2 Tropical Island
-4 Green Sun's Zenith
+3 Misty Rainforest
+1 Underground Sea
 1 Verdant Catacombs
 1 Brainstorm
-1 Underground Sea
 1 Force of Will
 2 Verdant Catacombs
 2 Brainstorm
@@ -41,54 +43,41 @@
 3 Brainstorm
 4 Force of Will
 4 Brainstorm
-3 Misty Rainforest
 3 Verdant Catacombs
 1 Abrupt Decay
-1 Scavenging Ooze
-1 Lavinia, Azorius Renegade
-1 Bayou
-2 Abrupt Decay
 4 Misty Rainforest
-3 Abrupt Decay
-3 Uro, Titan of Nature's Wrath
-1 Birds of Paradise
 1 Reflector Mage
+1 Scavenging Ooze
+3 Uro, Titan of Nature's Wrath
+1 Bayou
 1 Opposition Agent
+2 Abrupt Decay
+3 Abrupt Decay
+1 Birds of Paradise
+1 Forest
+2 Sylvan Library
 2 Underground Sea
+1 Ramunap Excavator
+1 Elvish Reclaimer
+2 Elvish Reclaimer
+1 Kessig Malcontents
 1 Polluted Delta
 1 Snow-Covered Swamp
 1 Snow-Covered Forest
 1 Snow-Covered Island
-1 Ramunap Excavator
-2 Polluted Delta
-2 Sylvan Library
-1 Forest
-1 Force of Negation
-1 Elvish Reclaimer
-2 Elvish Reclaimer
-1 Hexdrinker
 3 Tropical Island
-2 Force of Negation
-1 Fatal Push
-1 Kessig Malcontents
-3 Polluted Delta
 1 Savannah
-1 Plague Engineer
-2 Plague Engineer
-1 Jace, the Mind Sculptor
-2 Fatal Push
-2 Leovold, Emissary of Trest
-4 Abrupt Decay
+2 Polluted Delta
 1 Island
-1 Grist, the Hunger Tide
 4 Uro, Titan of Nature's Wrath
+1 Grist, the Hunger Tide
 1 Dryad of the Ilysian Grove
 1 Valakut, the Molten Pinnacle
 1 Bojuka Bog
-1 Archon of Emeria
 1 Glacial Chasm
 1 Vesuva
 1 Mox Diamond
+1 Archon of Emeria
 1 Sejiri Steppe
 2 Vesuva
 2 Archon of Emeria
@@ -96,32 +85,39 @@
 3 Elvish Reclaimer
 3 Archon of Emeria
 4 Elvish Reclaimer
+1 Plague Engineer
+2 Plague Engineer
+1 Jace, the Mind Sculptor
 1 Waterlogged Grove
+1 Force of Negation
+1 Drownyard Temple
+3 Mox Diamond
+1 Simic Growth Chamber
+3 Sylvan Library
 1 Ponder
 1 Questing Beast
 1 Ice-Fang Coatl
 2 Snow-Covered Forest
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
+1 Hexdrinker
 2 Snow-Covered Island
-1 Drownyard Temple
-3 Mox Diamond
-1 Simic Growth Chamber
-3 Sylvan Library
-1 Baleful Strix
-2 Baleful Strix
-3 Baleful Strix
-2 Birds of Paradise
 2 Dryad of the Ilysian Grove
 2 Valakut, the Molten Pinnacle
+1 Fatal Push
+2 Force of Negation
 1 Endurance
 4 Archon of Emeria
+3 Polluted Delta
 4 Sylvan Library
-1 Scrubland
 4 Unclaimed Territory
 1 Imperial Recruiter
 1 Tomik, Distinguished Advokist
+1 Scrubland
+2 Fatal Push
 4 Ice-Fang Coatl
+2 Leovold, Emissary of Trest
+4 Abrupt Decay
 1 Teferi, Time Raveler
 3 Dryad of the Ilysian Grove
 4 Dryad of the Ilysian Grove
@@ -130,7 +126,6 @@
 2 Ponder
 3 Ponder
 4 Ponder
-2 Bayou
 1 Scryb Ranger
 2 Jace, the Mind Sculptor
 1 Realmwalker
@@ -138,12 +133,11 @@
 2 Teferi, Time Raveler
 1 Palace Jailer
 3 Kitesail Freebooter
-1 Tireless Tracker
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
 4 Mox Diamond
 4 Tropical Island
+1 Baleful Strix
+2 Baleful Strix
+3 Baleful Strix
 1 Crop Rotation
 2 Crop Rotation
 1 Yavimaya, Cradle of Growth
@@ -158,15 +152,12 @@
 2 Daze
 3 Daze
 1 Swamp
+2 Birds of Paradise
 4 Verdant Catacombs
 1 Judith, the Scourge Diva
 1 Silverquill Silencer
 1 Kambal, Consul of Allocation
 2 Rick, Steadfast Leader
-1 Tarmogoyf
-2 Tarmogoyf
-3 Tarmogoyf
-3 Bayou
 1 Assassin's Trophy
 1 Brazen Borrower
 2 Assassin's Trophy
@@ -182,47 +173,49 @@
 4 Daze
 2 Palace Jailer
 1 Blast Zone
-2 Savannah
-1 Windswept Heath
-2 Windswept Heath
 2 Skyclave Apparition
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
 1 Thespian's Stage
 3 Crop Rotation
+1 Raugrin Triome
 1 Flagstones of Trokair
 1 Aether Spellbomb
-1 Raugrin Triome
 3 Endurance
 1 Primeval Titan
+2 Savannah
+1 Windswept Heath
+2 Windswept Heath
 2 Reflector Mage
 3 Horizon Canopy
 2 Island
 1 True-Name Nemesis
 1 Unearth
+2 Bayou
 1 Cabal Therapy
 1 Sea Gate Stormcaller
 1 Drown in the Loch
+1 Neoform
 1 Heliod, Sun-Crowned
 1 Nimble Obstructionist
 1 Spike Feeder
-1 Neoform
 1 Snapcaster Mage
+2 Neoform
 2 Unearth
 2 True-Name Nemesis
 2 Snapcaster Mage
 2 Sea Gate Stormcaller
-2 Neoform
 2 Cabal Therapy
 2 Drown in the Loch
 3 Neoform
 3 Cabal Therapy
 3 Sea Gate Stormcaller
 4 Sea Gate Stormcaller
+1 Tireless Tracker
 1 General Kudro of Drannith
-1 Titania, Protector of Argoth
 1 Marsh Flats
+1 Titania, Protector of Argoth
 1 Unsettled Mariner
 1 Deputy of Detention
 1 Barrin, Tolarian Archmage
@@ -235,11 +228,10 @@
 2 Valakut Awakening
 2 Bala Ged Recovery
 3 Valakut Awakening
-1 Growth Spiral
-1 Venser, Shaper Savant
-2 Growth Spiral
-2 Simic Growth Chamber
-3 Growth Spiral
+1 Vanishing Verse
+1 Jolrael, Mwonvuli Recluse
+3 Teferi, Time Raveler
+3 Windswept Heath
 1 Containment Priest
 1 Magus of the Moon
 2 Opposition Agent
@@ -251,23 +243,27 @@
 1 Hullbreacher
 2 Grist, the Hunger Tide
 3 Grist, the Hunger Tide
-1 Vanishing Verse
-1 Jolrael, Mwonvuli Recluse
-3 Windswept Heath
-3 Teferi, Time Raveler
-1 Sanctifier en-Vec
+1 Venser, Shaper Savant
+1 Growth Spiral
+2 Growth Spiral
+2 Simic Growth Chamber
+3 Growth Spiral
+1 Shark Typhoon
+1 Thoughtseize
+1 Narset, Parter of Veils
+2 Shark Typhoon
+2 Thoughtseize
+3 Thoughtseize
+4 Baleful Strix
+4 Thoughtseize
 1 Thalia, Heretic Cathar
+1 Sanctifier en-Vec
 4 Plains
 1 Pyrite Spellbomb
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
 4 Once Upon a Time
-1 Shark Typhoon
-1 Narset, Parter of Veils
-2 Shark Typhoon
-4 Baleful Strix
-4 Thoughtseize
 1 Progenitus
 1 Natural Order
 1 Prismatic Vista

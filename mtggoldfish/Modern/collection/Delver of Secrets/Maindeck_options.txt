@@ -20,18 +20,18 @@
 4 Force of Negation
 1 Maul of the Skyclaves
 1 Snow-Covered Plains
-1 Seachrome Coast
 1 Stoneforge Mystic
 1 Batterskull
+1 Seachrome Coast
 1 Geist of Saint Traft
 1 Path to Exile
 1 Sacred Foundry
-2 Seachrome Coast
 2 Stoneforge Mystic
+2 Seachrome Coast
 2 Geist of Saint Traft
 2 Path to Exile
-3 Seachrome Coast
 3 Stoneforge Mystic
+3 Seachrome Coast
 3 Path to Exile
 3 Geist of Saint Traft
 4 Stoneforge Mystic
@@ -54,8 +54,8 @@
 2 Mana Leak
 3 Mana Leak
 1 Stomping Ground
-1 Dreadhorde Arcanist
 1 Vapor Snag
+1 Dreadhorde Arcanist
 2 Dreadhorde Arcanist
 3 Dreadhorde Arcanist
 4 Dreadhorde Arcanist
@@ -90,19 +90,19 @@
 2 Fatal Push
 3 Fatal Push
 1 Bloodstained Mire
-1 Soaring Thought-Thief
-1 Thieves' Guild Enforcer
 1 Drown in the Loch
-2 Thieves' Guild Enforcer
-2 Soaring Thought-Thief
+1 Thieves' Guild Enforcer
+1 Soaring Thought-Thief
 2 Drown in the Loch
 2 Bloodstained Mire
-3 Soaring Thought-Thief
-3 Thieves' Guild Enforcer
+2 Soaring Thought-Thief
+2 Thieves' Guild Enforcer
 3 Drown in the Loch
-4 Thieves' Guild Enforcer
-4 Soaring Thought-Thief
+3 Thieves' Guild Enforcer
+3 Soaring Thought-Thief
 4 Drown in the Loch
+4 Soaring Thought-Thief
+4 Thieves' Guild Enforcer
 2 Remand
 1 Brazen Borrower
 2 Snow-Covered Island
@@ -129,18 +129,18 @@
 1 Waterlogged Grove
 1 Monastery Swiftspear
 3 Fiery Islet
+3 Subtlety
 1 Snakeskin Veil
 1 Scavenging Ooze
 1 Burst Lightning
 1 Jace, Vryn's Prodigy
 2 Snakeskin Veil
 3 Wooded Foothills
-3 Subtlety
 1 Cling to Dust
 1 Deprive
+1 Ice Tunnel
 1 Ascendant Spirit
 1 Snow-Covered Swamp
-1 Ice Tunnel
 1 Icehide Golem
 1 Archmage's Charm
 1 Mystic Sanctuary
@@ -160,13 +160,13 @@
 3 Magmatic Channeler
 4 Magmatic Channeler
 4 Ragavan, Nimble Pilferer
-1 Stubborn Denial
 1 Disrupting Shoal
 1 Hexdrinker
-2 Stubborn Denial
+1 Stubborn Denial
 2 Hexdrinker
 2 Disrupting Shoal
 2 Brazen Borrower
+2 Stubborn Denial
 3 Stubborn Denial
 3 Hexdrinker
 3 Disrupting Shoal
@@ -174,15 +174,15 @@
 4 Mana Leak
 4 Disrupting Shoal
 4 Hexdrinker
-1 Dauthi Voidwalker
 1 Agadeem's Awakening
 1 Verdant Catacombs
 1 Dismember
 1 Death's Shadow
-2 Dauthi Voidwalker
+1 Dauthi Voidwalker
 2 Suspend
 2 Verdant Catacombs
 2 Dismember
+2 Dauthi Voidwalker
 2 Death's Shadow
 3 Dauthi Voidwalker
 3 Verdant Catacombs

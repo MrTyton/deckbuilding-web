@@ -1,20 +1,33 @@
-1 Aether Gust
-3 Mystical Dispute
 1 Settle the Wreckage
-2 Aether Gust
-2 Yasharn, Implacable Earth
-2 Reidane, God of the Worthy
+4 Baffling End
+1 Yasharn, Implacable Earth
+1 Reidane, God of the Worthy
 1 Ajani, Strength of the Pride
+2 Reidane, God of the Worthy
 1 Declaration in Stone
 2 Declaration in Stone
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
+2 Yasharn, Implacable Earth
 3 Reidane, God of the Worthy
-3 Dovin's Veto
 3 Declaration in Stone
+1 Elder Gargaroth
+3 Dovin's Veto
 1 Elite Spellbinder
 2 Elite Spellbinder
-1 Elder Gargaroth
+2 Elder Gargaroth
+1 Archon of Emeria
+2 Archon of Emeria
+1 Day of Judgment
+2 Wrath of God
+3 Rest in Peace
+1 Negate
+1 Shifting Ceratops
+2 Shifting Ceratops
+1 Skyclave Apparition
+1 Meddling Mage
+2 Meddling Mage
+3 Elite Spellbinder
 1 Devout Decree
 2 Devout Decree
 1 Dawn of Hope
@@ -22,36 +35,20 @@
 2 Spell Pierce
 3 Spell Pierce
 3 Yasharn, Implacable Earth
-1 Archon of Emeria
-2 Archon of Emeria
-2 Wrath of God
-1 Day of Judgment
-2 Elder Gargaroth
-1 Negate
-1 Skyclave Apparition
-1 Meddling Mage
-2 Meddling Mage
-1 Shifting Ceratops
-2 Shifting Ceratops
-1 Disdainful Stroke
-2 Disdainful Stroke
-3 Elite Spellbinder
 1 Knight of Autumn
 2 Knight of Autumn
-3 Rest in Peace
-2 Ajani, Strength of the Pride
 1 Doomskar
 1 Return to Nature
 1 Grafdigger's Cage
-1 Sorcerous Spyglass
-2 Sorcerous Spyglass
 2 Return to Nature
-1 Ram Through
-1 Silent Gravestone
 1 Cleansing Nova
+1 Silent Gravestone
+1 Ram Through
+1 Sorcerous Spyglass
+2 Grafdigger's Cage
 2 Ram Through
 2 Doomskar
-2 Grafdigger's Cage
+2 Sorcerous Spyglass
 2 Silent Gravestone
 3 Return to Nature
 1 Heroic Intervention
@@ -59,6 +56,9 @@
 2 Negate
 1 Commence the Endgame
 1 Nezahal, Primal Tide
+2 Ajani, Strength of the Pride
+1 Disdainful Stroke
+2 Disdainful Stroke
 2 Skyclave Apparition
 1 Linvala, Keeper of Silence
 1 Authority of the Consuls
@@ -72,21 +72,24 @@
 1 Baneslayer Angel
 2 Authority of the Consuls
 1 Tale's End
+1 Giant Killer
+2 Giant Killer
+2 Settle the Wreckage
 1 Miscast
 1 Soul-Guide Lantern
 2 Miscast
 2 Soul-Guide Lantern
-1 Weathered Runestone
-2 Weathered Runestone
 1 Brazen Borrower
 2 Brazen Borrower
 1 Strict Proctor
 1 Expel
 2 Strict Proctor
 2 Expel
+1 Weathered Runestone
+2 Weathered Runestone
+1 Shalai, Voice of Plenty
 1 Emeria's Call
 1 Angel of Destiny
-1 Shalai, Voice of Plenty
 1 Take Vengeance
 1 Planar Cleansing
 2 Take Vengeance
@@ -96,16 +99,25 @@
 1 Cry of the Carnarium
 1 Relic of Progenitus
 2 Relic of Progenitus
-1 Giant Killer
-2 Settle the Wreckage
-2 Giant Killer
 1 Tithe Taker
 2 Tithe Taker
 3 Disdainful Stroke
+3 Adanto Vanguard
 1 Containment Priest
 1 Daxos, Blessed by the Sun
 2 Containment Priest
 3 Containment Priest
+1 Gideon Blackblade
+1 Deafening Clarion
+1 Selfless Glyphweaver
+1 Cindervines
+1 Heliod's Intervention
+2 Deafening Clarion
+2 Selfless Glyphweaver
+2 Cindervines
+2 Gideon Blackblade
+3 Deafening Clarion
+3 Cindervines
 1 Timely Reinforcements
 1 Shark Typhoon
 2 Shark Typhoon
@@ -118,19 +130,10 @@
 2 Deafening Silence
 2 Repudiate/Replicate
 3 Repudiate/Replicate
-3 Adanto Vanguard
 1 Angel of Vitality
 2 Angel of Vitality
 3 Angel of Vitality
 4 Rest in Peace
-1 Glass Casket
-2 Glass Casket
-1 Banishing Light
-1 Heliod's Intervention
-2 Banishing Light
-2 Heliod's Intervention
-3 Glass Casket
-4 Glass Casket
 1 Legion Angel
 2 Legion Angel
 4 Selfless Savior
@@ -139,11 +142,25 @@
 1 Mana Tithe
 1 Basri Ket
 1 Ajani's Welcome
-1 Gideon Blackblade
-1 Brought Back
+1 Glass Casket
 1 Heliod, Sun-Crowned
+1 Brought Back
 1 Cloudshift
 2 Mana Tithe
+2 Glass Casket
 2 Cloudshift
 3 Cloudshift
 4 Cloudshift
+1 Light of Hope
+1 Gods Willing
+1 Teferi's Protection
+1 Platinum Angel
+2 Gods Willing
+2 Teferi's Protection
+3 Gods Willing
+1 Gaea's Blessing
+1 Tormod's Crypt
+1 Maskwood Nexus
+2 Tormod's Crypt
+2 Gaea's Blessing
+2 Cleansing Nova

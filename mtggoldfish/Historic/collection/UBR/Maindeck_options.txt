@@ -1,80 +1,67 @@
 1 Baleful Mastery
-1 Clearwater Pathway
 1 Mountain
 3 Steam Vents
 4 Steam Vents
 1 Island
 1 Fabled Passage
 2 Fabled Passage
-2 Island
-1 Mizzix's Mastery
 1 Terror of the Peaks
+1 Mizzix's Mastery
 1 Dragonstorm
 1 Faithless Looting
-2 Mizzix's Mastery
-2 Dragonstorm
 2 Terror of the Peaks
+2 Dragonstorm
 2 Faithless Looting
+2 Mizzix's Mastery
 3 Faithless Looting
 3 Mizzix's Mastery
 3 Dragonstorm
 4 Faithless Looting
 4 Mizzix's Mastery
 4 Dragonstorm
-2 Mountain
 3 Terror of the Peaks
 3 Prismari Command
-3 Island
 1 Brainstorm
 2 Brainstorm
 3 Brainstorm
 3 Fabled Passage
+2 Island
 4 Fabled Passage
+2 Mountain
 4 Prismari Command
 3 Mountain
 4 Mountain
+3 Island
 1 Solve the Equation
 2 Solve the Equation
+4 Brainstorm
 1 Spirebluff Canal
 2 Spirebluff Canal
-4 Brainstorm
 1 Lathliss, Dragon Queen
 2 Lathliss, Dragon Queen
-1 Coldsteel Heart
-2 Coldsteel Heart
 1 Riverglide Pathway
 2 Riverglide Pathway
 3 Riverglide Pathway
 3 Solve the Equation
+1 Clearwater Pathway
 3 Spirebluff Canal
 4 Island
 4 Terror of the Peaks
 4 Riverglide Pathway
+1 Coldsteel Heart
+2 Coldsteel Heart
 3 Coldsteel Heart
 4 Spirebluff Canal
 4 Coldsteel Heart
-2 Baleful Mastery
 4 Solve the Equation
 1 Baral, Chief of Compliance
 2 Baral, Chief of Compliance
+2 Baleful Mastery
 3 Crux of Fate
 1 Bladewing the Risen
 2 Bladewing the Risen
 3 Bladewing the Risen
-1 Dragonskull Summit
-3 Nicol Bolas, Dragon-God
-1 Anger of the Gods
-2 Anger of the Gods
-3 Anger of the Gods
 1 Mystical Dispute
-1 Field of Ruin
-1 Saw It Coming
-1 Behold the Multiverse
-1 Whirlwind Denial
-2 Behold the Multiverse
-2 Whirlwind Denial
-2 Saw It Coming
-3 Behold the Multiverse
 1 Pact of Negation
 1 Strategic Planning
 2 Pact of Negation
@@ -86,12 +73,12 @@
 1 Magma Opus
 2 Magma Opus
 2 Sweltering Suns
-1 Snow-Covered Mountain
 1 Volatile Fjord
+1 Snow-Covered Mountain
 1 Snow-Covered Island
 1 Tundra Fumarole
-2 Snow-Covered Mountain
 2 Volatile Fjord
+2 Snow-Covered Mountain
 2 Tundra Fumarole
 3 Volatile Fjord
 3 Tundra Fumarole
@@ -105,13 +92,13 @@
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
 10 Snow-Covered Mountain
+3 Magma Opus
+1 Dragonskull Summit
+1 Anger of the Gods
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
-3 Magma Opus
 2 Clearwater Pathway
-1 Mazemind Tome
-2 Mazemind Tome
-3 Kolaghan's Command
+3 Nicol Bolas, Dragon-God
 1 Hengegate Pathway
 1 Into the Roil
 1 Failure/Comply
@@ -147,14 +134,16 @@
 1 Savai Triome
 2 Dragonskull Summit
 3 Cling to Dust
-3 Narset, Parter of Veils
+2 Anger of the Gods
+3 Anger of the Gods
 1 Expressive Iteration
 2 Expressive Iteration
 3 Clearwater Pathway
 4 Clearwater Pathway
 3 Thoughtseize
-1 Flunk
+3 Narset, Parter of Veils
 1 Temple of Deceit
+1 Flunk
 1 Memory Lapse
 2 Memory Lapse
 1 Fetid Pools
@@ -169,6 +158,14 @@
 1 Drown in the Loch
 1 Heartless Act
 3 Expressive Iteration
+1 Field of Ruin
+1 Saw It Coming
+1 Behold the Multiverse
+1 Whirlwind Denial
+2 Behold the Multiverse
+2 Whirlwind Denial
+2 Saw It Coming
+3 Behold the Multiverse
 2 Savai Triome
 3 Savai Triome
 3 Chandra, Torch of Defiance

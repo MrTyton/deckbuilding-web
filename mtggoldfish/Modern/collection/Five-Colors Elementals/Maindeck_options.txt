@@ -1,71 +1,31 @@
-1 Masked Vandal
-1 Smokebraider
-1 Reflecting Pool
+2 Mountain
 1 Solitude
 2 Solitude
 1 Fury
 1 Endurance
 2 Omnath, Locus of Creation
+1 Reflecting Pool
+1 Masked Vandal
 2 Fury
 3 Solitude
 1 Steam Vents
 1 Forest
+3 Omnath, Locus of Creation
+1 Subtlety
+2 Subtlety
+1 Plains
+1 Misty Rainforest
+1 Temple Garden
+1 Hallowed Fountain
+2 Misty Rainforest
+4 Omnath, Locus of Creation
 2 Reflecting Pool
 3 Reflecting Pool
 4 Reflecting Pool
-3 Omnath, Locus of Creation
 2 Sunbaked Canyon
-1 Plains
-1 Subtlety
-2 Subtlety
-1 Hallowed Fountain
-1 Temple Garden
-1 Misty Rainforest
-2 Misty Rainforest
-4 Omnath, Locus of Creation
-1 Stomping Ground
-1 Wooded Foothills
-2 Wooded Foothills
-3 Wooded Foothills
-3 Sunbaked Canyon
-1 Foundation Breaker
-1 Island
-3 Misty Rainforest
-4 Misty Rainforest
-1 Gemstone Caverns
-1 Glimpse of Tomorrow
-1 Shardless Agent
-1 Scalding Tarn
-1 Goblin Dark-Dwellers
-1 Khalni Garden
-1 Wavesifter
-1 Chancellor of the Forge
-1 Violent Outburst
-2 Stomping Ground
-2 Chancellor of the Forge
-2 Violent Outburst
-2 Shardless Agent
-2 Goblin Dark-Dwellers
-2 Scalding Tarn
-2 Wavesifter
-2 Glimpse of Tomorrow
-2 Khalni Garden
-3 Wavesifter
-3 Glimpse of Tomorrow
-3 Khalni Garden
-3 Goblin Dark-Dwellers
-3 Violent Outburst
-3 Scalding Tarn
-3 Shardless Agent
-4 Scalding Tarn
-4 Goblin Dark-Dwellers
-4 Shardless Agent
-4 Violent Outburst
-4 Khalni Garden
-4 Wavesifter
 1 Sacred Foundry
-4 Wooded Foothills
 3 Fury
+1 Foundation Breaker
 1 Windswept Heath
 1 Breeding Pool
 2 Windswept Heath
@@ -81,6 +41,46 @@
 3 Ephemerate
 4 Ephemerate
 4 Solitude
+1 Stomping Ground
+1 Wooded Foothills
+2 Wooded Foothills
+3 Wooded Foothills
+3 Sunbaked Canyon
+1 Island
+3 Misty Rainforest
+4 Misty Rainforest
+1 Gemstone Caverns
+1 Glimpse of Tomorrow
+1 Shardless Agent
+1 Scalding Tarn
+1 Goblin Dark-Dwellers
+1 Khalni Garden
+1 Wavesifter
+1 Chancellor of the Forge
+1 Violent Outburst
+2 Scalding Tarn
+2 Stomping Ground
+2 Chancellor of the Forge
+2 Violent Outburst
+2 Shardless Agent
+2 Goblin Dark-Dwellers
+2 Wavesifter
+2 Glimpse of Tomorrow
+2 Khalni Garden
+3 Scalding Tarn
+3 Wavesifter
+3 Glimpse of Tomorrow
+3 Khalni Garden
+3 Goblin Dark-Dwellers
+3 Violent Outburst
+3 Shardless Agent
+4 Scalding Tarn
+4 Goblin Dark-Dwellers
+4 Shardless Agent
+4 Violent Outburst
+4 Khalni Garden
+4 Wavesifter
+4 Wooded Foothills
 2 Fiery Islet
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
@@ -90,12 +90,12 @@
 2 Smokebraider
 1 Omniscience
 2 Omniscience
-3 Omniscience
 3 Seasoned Pyromancer
+3 Omniscience
 4 Omniscience
 1 Path to Exile
-2 Shriekmaw
 2 Path to Exile
+2 Shriekmaw
 3 Path to Exile
 3 Shriekmaw
 4 Sunbaked Canyon
@@ -109,9 +109,9 @@
 1 Cloudkin Seer
 3 Smokebraider
 4 Smokebraider
+1 Dismember
 1 Tangled Florahedron
 1 Pyre of Heroes
-1 Dismember
 1 Inspiring Vantage
 2 Waterlogged Grove
 2 Dismember
@@ -130,16 +130,33 @@
 3 Glasspool Mimic
 1 Realmwalker
 1 Mirror Entity
-1 Lightning Bolt
 1 Grove of the Burnwillows
+1 Lightning Bolt
+2 Grove of the Burnwillows
 2 Lightning Bolt
 2 Overgrowth Elemental
-2 Grove of the Burnwillows
-3 Lightning Bolt
 3 Grove of the Burnwillows
+3 Lightning Bolt
 1 Nurturing Peatland
 3 Vesperlark
 4 Glasspool Mimic
+1 Ketria Triome
+1 Raugrin Triome
+1 Titania, Protector of Argoth
+1 Utopia Sprawl
+1 Prismatic Vista
+1 Force of Negation
+1 Wrenn and Six
+1 Eladamri's Call
+2 Utopia Sprawl
+2 Force of Negation
+2 Wrenn and Six
+2 Endurance
+2 Eladamri's Call
+3 Utopia Sprawl
+3 Phantasmal Image
+3 Subtlety
+4 Utopia Sprawl
 2 Omnath, Locus of the Roil
 3 Mountain
 4 Fury
@@ -148,20 +165,3 @@
 2 Tireless Provisioner
 3 Tireless Provisioner
 4 Tireless Provisioner
-1 Raugrin Triome
-1 Force of Negation
-1 Utopia Sprawl
-1 Titania, Protector of Argoth
-1 Wrenn and Six
-1 Eladamri's Call
-1 Prismatic Vista
-1 Ketria Triome
-2 Endurance
-2 Wrenn and Six
-2 Eladamri's Call
-2 Utopia Sprawl
-2 Force of Negation
-3 Phantasmal Image
-3 Subtlety
-3 Utopia Sprawl
-4 Utopia Sprawl
