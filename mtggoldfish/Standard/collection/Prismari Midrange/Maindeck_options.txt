@@ -1,13 +1,13 @@
 3 Mystical Dispute
 1 Negate
-3 Galazeth Prismari
 4 Expressive Iteration
-2 Essence Scatter
+3 Galazeth Prismari
 1 Shark Typhoon
+2 Essence Scatter
 4 Faceless Haven
-1 Magma Opus
 1 Prismari Command
 1 Cinderclasm
+1 Magma Opus
 4 Alrund's Epiphany
 1 Fire Prophecy
 6 Snow-Covered Mountain
@@ -15,34 +15,29 @@
 3 Shark Typhoon
 4 Mazemind Tome
 1 Shatterskull Smashing
-1 Thryx, the Sudden Storm
-7 Snow-Covered Island
-8 Snow-Covered Island
 1 Temple of Epiphany
 2 Temple of Epiphany
 2 Fire Prophecy
-1 Miscast
-2 Miscast
-3 Miscast
 2 Cinderclasm
 4 Mystical Dispute
-1 Mountain
 1 Island
+1 Mountain
 2 Mountain
 2 Island
-1 Blightstep Pathway
 1 Swamp
+1 Blightstep Pathway
 1 Clearwater Pathway
 2 Blightstep Pathway
 2 Clearwater Pathway
-3 Blightstep Pathway
 3 Fire Prophecy
+3 Blightstep Pathway
 3 Clearwater Pathway
 3 Temple of Epiphany
 4 Clearwater Pathway
 4 Temple of Epiphany
 4 Blightstep Pathway
 4 Shark Typhoon
+1 Thryx, the Sudden Storm
 2 Prismari Command
 1 Field of Ruin
 2 Shatterskull Smashing
@@ -51,17 +46,27 @@
 2 Negate
 2 Scorching Dragonfire
 3 Prismari Command
+1 Miscast
+2 Miscast
+3 Miscast
+7 Snow-Covered Island
+8 Snow-Covered Island
 2 Magma Opus
-1 Test of Talents
-2 Test of Talents
-1 Valakut Awakening
+1 Opt
+1 Sprite Dragon
+2 Sprite Dragon
+2 Opt
+3 Sprite Dragon
+1 Shadowspear
 1 The Akroan War
 1 Sublime Epiphany
-1 Shadowspear
-1 Behold the Multiverse
-2 Behold the Multiverse
+1 Valakut Awakening
+1 Phoenix of Ash
+2 Phoenix of Ash
 1 Lofty Denial
 2 Lofty Denial
+1 Behold the Multiverse
+2 Behold the Multiverse
 3 Magma Opus
 1 Heartless Act
 2 Heartless Act
@@ -70,34 +75,44 @@
 2 Frostboil Snarl
 3 Frostboil Snarl
 4 Frostboil Snarl
+1 Crash Through
+1 Glimpse of Freedom
+1 Rimrock Knight
+1 Stormwing Entity
+2 Crash Through
+2 Stormwing Entity
+2 Rimrock Knight
+3 Crash Through
+3 Stormwing Entity
+3 Opt
+4 Sprite Dragon
+4 Opt
+4 Crash Through
+1 Test of Talents
+2 Test of Talents
 4 Galazeth Prismari
 1 Showdown of the Skalds
 1 Sejiri Shelter
 1 Unleash Fury
-1 Raugrin Triome
 1 Kazuul's Fury
 1 Unsubstantiate
 1 Needleverge Pathway
-1 Opt
 1 Hengegate Pathway
-1 Sprite Dragon
+1 Raugrin Triome
 2 Kazuul's Fury
 2 Unleash Fury
 2 Showdown of the Skalds
 2 Sejiri Shelter
-2 Raugrin Triome
-2 Sprite Dragon
 2 Disdainful Stroke
 2 Hengegate Pathway
 2 Needleverge Pathway
-2 Opt
+2 Raugrin Triome
 3 Unleash Fury
 3 Kazuul's Fury
 3 Showdown of the Skalds
 3 Needleverge Pathway
 3 Sejiri Shelter
 3 Raugrin Triome
-3 Sprite Dragon
 3 Hengegate Pathway
 4 Raugrin Triome
 4 Unleash Fury
@@ -105,9 +120,3 @@
 4 Hengegate Pathway
 4 Showdown of the Skalds
 4 Needleverge Pathway
-1 Crush the Weak
-1 Draconic Intervention
-2 Crush the Weak
-7 Snow-Covered Mountain
-8 Snow-Covered Mountain
-9 Snow-Covered Island

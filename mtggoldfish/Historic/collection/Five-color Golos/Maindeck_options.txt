@@ -71,8 +71,8 @@
 2 Godless Shrine
 2 Omen of the Forge
 2 Terror of the Peaks
-2 Solemn Simulacrum
 2 Genesis Ultimatum
+2 Solemn Simulacrum
 2 Branchloft Pathway
 2 Sacred Foundry
 2 Cragcrown Pathway
@@ -83,6 +83,7 @@
 2 Evolving Wilds
 2 Prophetic Prism
 2 Savai Triome
+2 Sanctum of Stone Fangs
 2 Elspeth Conquers Death
 2 Archon of Sun's Grace
 2 Assassin's Trophy
@@ -103,7 +104,6 @@
 2 Honden of Infinite Rage
 2 Trial of Knowledge
 2 Hallowed Fountain
-2 Sanctum of Stone Fangs
 2 Omen of the Hunt
 2 Fae of Wishes
 2 Renegade Map
@@ -117,9 +117,9 @@
 3 Island
 3 Sacred Foundry
 3 Assassin's Trophy
+3 Sanctum of Stone Fangs
 3 Wrath of God
 3 Escape to the Wilds
-3 Sanctum of Stone Fangs
 3 Hallowed Fountain
 3 Fae of Wishes
 3 Renegade Map
@@ -413,11 +413,11 @@
 1 Temple of Deceit
 1 Temple of Malady
 1 Vivien, Champion of the Wilds
-1 Migratory Greathorn
 1 Auspicious Starrix
+1 Migratory Greathorn
+1 Dirge Bat
 1 Vineglimmer Snarl
 1 Necroblossom Snarl
-1 Dirge Bat
 1 Vivien Reid
 1 Gemrazer
 1 Scute Swarm
@@ -432,8 +432,8 @@
 2 Darkbore Pathway
 2 Season of Growth
 2 Nissa, Who Shakes the World
-2 Auspicious Starrix
 2 Dirge Bat
+2 Auspicious Starrix
 2 Migratory Greathorn
 2 Gemrazer
 2 Boneyard Lurker

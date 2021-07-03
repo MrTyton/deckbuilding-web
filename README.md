@@ -4,12 +4,12 @@
 
 # Standard
 
-|                                    A                                     |                                    B                                     |                                  C                                   |                               D                                |                       E                        |
-|--------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------|
-|[BGx Sacrifice](./mtggoldfish/Standard/decks/BGx_Sacrifice.md)            |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)      |[Sultai Control](./mtggoldfish/Standard/decks/Sultai_Control.md)|[Winota](./mtggoldfish/Standard/decks/Winota.md)|
-|[B](./mtggoldfish/Standard/decks/B.md)                                    |[Jeskai Cycling](./mtggoldfish/Standard/decks/Jeskai_Cycling.md)          |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)  |[UBG](./mtggoldfish/Standard/decks/UBG.md)                      |                                                |
-|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)              |[Jeskai Tempo](./mtggoldfish/Standard/decks/Jeskai_Tempo.md)              |[Naya Adventures](./mtggoldfish/Standard/decks/Naya_Adventures.md)    |[URG](./mtggoldfish/Standard/decks/URG.md)                      |                                                |
-|[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Green Midrange](./mtggoldfish/Standard/decks/Mono-Green_Midrange.md)|[Prismari Midrange](./mtggoldfish/Standard/decks/Prismari_Midrange.md)|[WUB](./mtggoldfish/Standard/decks/WUB.md)                      |                                                |
+|                                    A                                     |                                    B                                     |                                  C                                   |                               D                                |
+|--------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------|
+|[BGx Sacrifice](./mtggoldfish/Standard/decks/BGx_Sacrifice.md)            |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)      |[Sultai Control](./mtggoldfish/Standard/decks/Sultai_Control.md)|
+|[B](./mtggoldfish/Standard/decks/B.md)                                    |[Jeskai Cycling](./mtggoldfish/Standard/decks/Jeskai_Cycling.md)          |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)  |[UR](./mtggoldfish/Standard/decks/UR.md)                        |
+|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)              |[Jeskai Tempo](./mtggoldfish/Standard/decks/Jeskai_Tempo.md)              |[Naya Adventures](./mtggoldfish/Standard/decks/Naya_Adventures.md)    |[WUB](./mtggoldfish/Standard/decks/WUB.md)                      |
+|[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Green Midrange](./mtggoldfish/Standard/decks/Mono-Green_Midrange.md)|[Prismari Midrange](./mtggoldfish/Standard/decks/Prismari_Midrange.md)|[Winota](./mtggoldfish/Standard/decks/Winota.md)                |
 
 
 # Historic
@@ -73,4 +73,4 @@
 
 
 
-#### Last Updated at 12:50AM on July 03, 2021
+#### Last Updated at 12:48PM on July 03, 2021
