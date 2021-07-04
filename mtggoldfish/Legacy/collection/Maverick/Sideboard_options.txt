@@ -39,12 +39,8 @@
 1 Titania, Protector of Argoth
 1 Chalice of the Void
 2 Chalice of the Void
-1 Aven Mindcensor
-1 Thalia, Heretic Cathar
-1 Qasali Pridemage
-2 Aven Mindcensor
-1 Scavenging Ooze
 1 Abrupt Decay
+1 Scavenging Ooze
 1 Opposition Agent
 2 Abrupt Decay
 2 Kaya, Orzhov Usurper
@@ -55,6 +51,10 @@
 1 Council's Judgment
 1 Rest in Peace
 2 Rest in Peace
+1 Thalia, Heretic Cathar
+1 Aven Mindcensor
+1 Qasali Pridemage
+2 Aven Mindcensor
 2 Court of Grace
 3 Court of Grace
 1 Thalia, Guardian of Thraben
@@ -67,6 +67,6 @@
 4 Pyroblast
 1 Reclamation Sage
 1 Sunlance
-2 Gideon, Ally of Zendikar
 2 Reclamation Sage
+2 Gideon, Ally of Zendikar
 4 Choke
