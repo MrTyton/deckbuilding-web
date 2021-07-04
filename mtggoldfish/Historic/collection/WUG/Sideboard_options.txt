@@ -1,33 +1,12 @@
-2 Aether Gust
-4 Baffling End
-1 Yasharn, Implacable Earth
-1 Reidane, God of the Worthy
-1 Ajani, Strength of the Pride
-2 Reidane, God of the Worthy
-1 Declaration in Stone
-2 Declaration in Stone
-1 Thalia, Guardian of Thraben
-2 Thalia, Guardian of Thraben
-2 Yasharn, Implacable Earth
-3 Reidane, God of the Worthy
-3 Declaration in Stone
-1 Elder Gargaroth
-3 Dovin's Veto
+1 Dovin's Veto
+2 Dovin's Veto
 1 Elite Spellbinder
 2 Elite Spellbinder
-2 Elder Gargaroth
-3 Rest in Peace
+3 Baffling End
+3 Dovin's Veto
 1 Archon of Emeria
 2 Archon of Emeria
-1 Day of Judgment
-2 Wrath of God
-1 Negate
-1 Shifting Ceratops
-2 Shifting Ceratops
-1 Skyclave Apparition
-1 Meddling Mage
-2 Meddling Mage
-3 Elite Spellbinder
+3 Rest in Peace
 1 Devout Decree
 2 Devout Decree
 1 Dawn of Hope
@@ -35,21 +14,38 @@
 2 Spell Pierce
 3 Spell Pierce
 3 Yasharn, Implacable Earth
-1 Knight of Autumn
-2 Knight of Autumn
-1 Heroic Intervention
-2 Heroic Intervention
-1 Commence the Endgame
-1 Nezahal, Primal Tide
+3 Elite Spellbinder
+1 Skyclave Apparition
+1 Meddling Mage
+2 Meddling Mage
+1 Return to Nature
+1 Settle the Wreckage
+1 Doomskar
+2 Return to Nature
+1 Cleansing Nova
+1 Grafdigger's Cage
+1 Ram Through
+1 Silent Gravestone
+1 Sorcerous Spyglass
+2 Grafdigger's Cage
+2 Ram Through
+2 Doomskar
+2 Sorcerous Spyglass
+2 Silent Gravestone
+3 Return to Nature
+1 Wrath of God
 2 Ajani, Strength of the Pride
-2 Negate
 1 Disdainful Stroke
 2 Disdainful Stroke
+1 Heroic Intervention
+2 Heroic Intervention
 2 Skyclave Apparition
-3 Shifting Ceratops
-1 Doomskar
+1 Shifting Ceratops
+1 Knight of Autumn
+2 Knight of Autumn
+2 Shifting Ceratops
 1 Linvala, Keeper of Silence
-1 Return to Nature
+2 Wrath of God
 1 Authority of the Consuls
 1 Adanto Vanguard
 2 Adanto Vanguard
@@ -58,81 +54,46 @@
 3 Selfless Savior
 3 Skyclave Apparition
 1 Baneslayer Angel
-1 Grafdigger's Cage
-2 Settle the Wreckage
 2 Authority of the Consuls
-1 Tale's End
-2 Return to Nature
 1 Giant Killer
 2 Giant Killer
+2 Settle the Wreckage
+1 Weathered Runestone
+2 Weathered Runestone
 1 Soul-Guide Lantern
 1 Miscast
 2 Miscast
 2 Soul-Guide Lantern
-1 Fatal Push
-1 Heartless Act
-1 Relic of Progenitus
-1 Enter the God-Eternals
-1 Cry of the Carnarium
-2 Relic of Progenitus
-1 Weathered Runestone
-2 Weathered Runestone
 1 Strict Proctor
 1 Expel
 2 Strict Proctor
 2 Expel
-1 Brazen Borrower
-2 Brazen Borrower
-1 Angel of Destiny
 1 Emeria's Call
 1 Shalai, Voice of Plenty
+1 Angel of Destiny
+1 Day of Judgment
 1 Take Vengeance
 1 Planar Cleansing
 2 Take Vengeance
 1 Gideon Blackblade
 1 Deafening Clarion
-1 Cindervines
-1 Selfless Glyphweaver
 1 Heliod's Intervention
-2 Deafening Clarion
-2 Cindervines
-2 Selfless Glyphweaver
+1 Selfless Glyphweaver
+1 Cindervines
 2 Gideon Blackblade
-3 Cindervines
+2 Deafening Clarion
+2 Selfless Glyphweaver
+2 Cindervines
 3 Deafening Clarion
+3 Cindervines
 3 Adanto Vanguard
-1 Shark Typhoon
-1 Timely Reinforcements
-2 Shark Typhoon
-3 Aether Gust
-3 Shark Typhoon
+1 Tithe Taker
+2 Tithe Taker
+3 Disdainful Stroke
 1 Containment Priest
 1 Daxos, Blessed by the Sun
 2 Containment Priest
 3 Containment Priest
-1 Tithe Taker
-2 Tithe Taker
-3 Disdainful Stroke
-1 Cleansing Nova
-1 Silent Gravestone
-1 Ram Through
-1 Sorcerous Spyglass
-2 Sorcerous Spyglass
-2 Grafdigger's Cage
-2 Doomskar
-2 Ram Through
-2 Silent Gravestone
-3 Return to Nature
-1 Flamescroll Celebrant
-1 Rip Apart
-1 Vanishing Verse
-1 Showdown of the Skalds
-2 Flamescroll Celebrant
-2 Rip Apart
-2 Vanishing Verse
-3 Flamescroll Celebrant
-3 Settle the Wreckage
-3 Vanishing Verse
 1 Remorseful Cleric
 1 Deafening Silence
 1 Repudiate/Replicate
@@ -149,13 +110,13 @@
 4 Rest in Peace
 1 Lyra Dawnbringer
 4 Elite Spellbinder
-1 Basri Ket
-1 Ajani's Welcome
-1 Mana Tithe
-1 Glass Casket
 1 Brought Back
+1 Basri Ket
+1 Mana Tithe
 1 Heliod, Sun-Crowned
+1 Glass Casket
 1 Cloudshift
+1 Ajani's Welcome
 2 Mana Tithe
 2 Glass Casket
 2 Cloudshift
@@ -163,8 +124,8 @@
 4 Cloudshift
 1 Light of Hope
 1 Gods Willing
-1 Platinum Angel
 1 Teferi's Protection
+1 Platinum Angel
 2 Gods Willing
 2 Teferi's Protection
 3 Gods Willing

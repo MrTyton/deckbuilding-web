@@ -31,6 +31,6 @@
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
 |                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)      |                    2|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|
-|                    2|[Skyclave Shade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491763)|                     |                                                                                                     |
 |                    1|[Skyclave Shade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491763)|                     |                                                                                                     |
+|                    2|[Skyclave Shade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491763)|                     |                                                                                                     |
 

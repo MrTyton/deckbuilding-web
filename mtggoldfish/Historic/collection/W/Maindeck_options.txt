@@ -13,8 +13,8 @@
 4 Godless Shrine
 4 Scrapheap Scrounger
 1 Ornithopter
-2 Isolated Chapel
 2 Ornithopter
+2 Isolated Chapel
 3 Ornithopter
 4 Ornithopter
 1 Shefet Dunes
@@ -44,29 +44,29 @@
 4 Spire of Industry
 4 Hengegate Pathway
 1 Temple Garden
-1 Branchloft Pathway
 1 Scavenger Grounds
-1 Forest
-1 Vorinclex, Monstrous Raider
 1 Scattered Groves
-1 Sunpetal Grove
+1 Branchloft Pathway
+1 Vorinclex, Monstrous Raider
 1 Dromoka's Command
+1 Sunpetal Grove
 1 Indatha Triome
+1 Forest
+2 Temple Garden
 2 Branchloft Pathway
 2 Sunpetal Grove
-2 Vorinclex, Monstrous Raider
-2 Temple Garden
 2 Scavenger Grounds
 2 Dromoka's Command
+2 Vorinclex, Monstrous Raider
 2 Scattered Groves
 2 Indatha Triome
-3 Branchloft Pathway
+3 Scavenger Grounds
 3 Sunpetal Grove
 3 Temple Garden
-3 Scavenger Grounds
+3 Branchloft Pathway
 3 Dromoka's Command
-4 Temple Garden
 4 Dromoka's Command
+4 Temple Garden
 1 Heart of Kiran
 1 Chief of the Foundry
 1 Concealed Courtyard
@@ -88,18 +88,28 @@
 1 Whirler Rogue
 1 Skilled Animator
 2 Shineshadow Snarl
-2 Unbreakable Formation
 2 Skilled Animator
+2 Unbreakable Formation
 2 Glacial Fortress
 2 Whirler Rogue
 3 Island
-3 Unbreakable Formation
 3 Glacial Fortress
+3 Unbreakable Formation
 3 Skilled Animator
 4 Island
 4 Skilled Animator
 4 Glacial Fortress
 4 Unbreakable Formation
+1 Venerated Loxodon
+1 Glass Casket
+2 Venerated Loxodon
+2 Glass Casket
+3 Isolated Chapel
+3 Venerated Loxodon
+4 Venerated Loxodon
+6 Plains
+7 Plains
+8 Plains
 1 Inspiring Vantage
 1 Hope of Ghirapur
 1 Ramunap Ruins
@@ -113,13 +123,3 @@
 4 Inspiring Vantage
 4 Sacred Foundry
 4 Ramunap Ruins
-1 Glass Casket
-1 Venerated Loxodon
-2 Glass Casket
-2 Venerated Loxodon
-3 Isolated Chapel
-3 Venerated Loxodon
-4 Venerated Loxodon
-6 Plains
-7 Plains
-8 Plains

@@ -28,8 +28,8 @@
 3 Green Sun's Zenith
 2 Uro, Titan of Nature's Wrath
 4 Green Sun's Zenith
-1 Sylvan Library
 1 Leovold, Emissary of Trest
+1 Sylvan Library
 2 Tropical Island
 3 Misty Rainforest
 1 Underground Sea
@@ -52,23 +52,23 @@
 1 Reflector Mage
 1 Opposition Agent
 2 Abrupt Decay
-1 Forest
-2 Sylvan Library
 3 Abrupt Decay
 1 Birds of Paradise
 2 Underground Sea
+1 Forest
+2 Sylvan Library
+1 Snow-Covered Swamp
+1 Snow-Covered Island
+1 Snow-Covered Forest
+1 Polluted Delta
 1 Ramunap Excavator
 1 Elvish Reclaimer
 2 Elvish Reclaimer
-1 Snow-Covered Forest
-1 Snow-Covered Swamp
-1 Snow-Covered Island
-1 Polluted Delta
-1 Savannah
 1 Plague Engineer
 2 Plague Engineer
 1 Kessig Malcontents
 3 Tropical Island
+1 Savannah
 2 Polluted Delta
 1 Jace, the Mind Sculptor
 1 Ice-Fang Coatl
@@ -79,49 +79,48 @@
 1 Island
 1 Grist, the Hunger Tide
 4 Uro, Titan of Nature's Wrath
-1 Endurance
-1 Dryad of the Ilysian Grove
-1 Valakut, the Molten Pinnacle
 1 Bojuka Bog
-3 Elvish Reclaimer
-4 Elvish Reclaimer
 1 Archon of Emeria
 1 Glacial Chasm
 1 Vesuva
 1 Mox Diamond
+1 Valakut, the Molten Pinnacle
 1 Sejiri Steppe
+1 Dryad of the Ilysian Grove
 2 Archon of Emeria
 2 Mox Diamond
 2 Vesuva
+3 Elvish Reclaimer
 3 Archon of Emeria
-3 Sylvan Library
+4 Elvish Reclaimer
 1 Force of Negation
 1 Waterlogged Grove
+1 Endurance
 1 Drownyard Temple
 3 Mox Diamond
-2 Dryad of the Ilysian Grove
-2 Valakut, the Molten Pinnacle
 1 Simic Growth Chamber
+3 Sylvan Library
 1 Ponder
 1 Questing Beast
 1 Hexdrinker
 4 Ice-Fang Coatl
 1 Fatal Push
-3 Dryad of the Ilysian Grove
-4 Dryad of the Ilysian Grove
-4 Archon of Emeria
+2 Valakut, the Molten Pinnacle
+2 Dryad of the Ilysian Grove
 2 Force of Negation
-4 Sylvan Library
+4 Archon of Emeria
 3 Polluted Delta
+4 Sylvan Library
 4 Unclaimed Territory
 1 Imperial Recruiter
 1 Tomik, Distinguished Advokist
 1 Scrubland
 2 Fatal Push
 2 Leovold, Emissary of Trest
-2 Endurance
 4 Abrupt Decay
 1 Teferi, Time Raveler
+3 Dryad of the Ilysian Grove
+4 Dryad of the Ilysian Grove
 2 Forest
 1 Ancient Tomb
 1 Baleful Strix
@@ -132,8 +131,7 @@
 4 Ponder
 1 Scryb Ranger
 4 Verdant Catacombs
-3 Endurance
-1 Yavimaya, Cradle of Growth
+2 Endurance
 2 Jace, the Mind Sculptor
 1 Realmwalker
 2 Imperial Recruiter
@@ -141,27 +139,20 @@
 1 Palace Jailer
 3 Kitesail Freebooter
 4 Mox Diamond
+4 Tropical Island
 1 Crop Rotation
 2 Crop Rotation
-4 Tropical Island
-1 Shadowspear
 1 Urza's Saga
+1 Shadowspear
 1 Pithing Needle
+1 Yavimaya, Cradle of Growth
 1 Oboro, Palace in the Clouds
 2 Yavimaya, Cradle of Growth
 2 Urza's Saga
-1 Life from the Loam
-2 Life from the Loam
-1 Windswept Heath
-2 Windswept Heath
-1 Thespian's Stage
-1 Primeval Titan
-1 Raugrin Triome
-1 Flagstones of Trokair
 1 Daze
 2 Daze
 3 Daze
-1 Hullbreacher
+3 Endurance
 1 Swamp
 2 Birds of Paradise
 2 Bayou
@@ -169,68 +160,63 @@
 1 Silverquill Silencer
 1 Kambal, Consul of Allocation
 2 Rick, Steadfast Leader
-1 Cephalid Coliseum
 1 Assassin's Trophy
 1 Brazen Borrower
 2 Brazen Borrower
 2 Assassin's Trophy
 3 Fatal Push
+1 Life from the Loam
+1 Cephalid Coliseum
+2 Life from the Loam
 1 Stifle
 2 Stifle
 3 Stifle
-4 Stifle
 4 Daze
-1 Blast Zone
+4 Stifle
 2 Palace Jailer
+1 Blast Zone
+1 Thespian's Stage
 3 Crop Rotation
+1 Flagstones of Trokair
 1 Aether Spellbomb
+1 Raugrin Triome
 2 Savannah
+1 Windswept Heath
+2 Windswept Heath
 2 Skyclave Apparition
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
+1 Primeval Titan
 2 Reflector Mage
 3 Horizon Canopy
 2 Island
-3 Windswept Heath
+1 Hullbreacher
 1 True-Name Nemesis
 1 Unearth
 1 Cabal Therapy
 1 Sea Gate Stormcaller
 1 Drown in the Loch
+1 Snapcaster Mage
 1 Neoform
 1 Spike Feeder
 1 Nimble Obstructionist
 1 Heliod, Sun-Crowned
-1 Snapcaster Mage
-2 Neoform
-2 Unearth
-2 Cabal Therapy
-2 Snapcaster Mage
-2 Drown in the Loch
 2 True-Name Nemesis
+2 Unearth
+2 Neoform
+2 Snapcaster Mage
+2 Cabal Therapy
+2 Drown in the Loch
 2 Sea Gate Stormcaller
 3 Neoform
 3 Cabal Therapy
 3 Sea Gate Stormcaller
 4 Sea Gate Stormcaller
-1 Taiga
-1 The Tabernacle at Pendrell Vale
-1 Snow-Covered Plains
-1 Prismatic Ending
-1 Field of the Dead
-1 Temple Garden
-1 Courser of Kruphix
-2 Flagstones of Trokair
-2 Prismatic Ending
-2 Primeval Titan
-3 Prismatic Ending
-4 Prismatic Ending
-4 Windswept Heath
 1 General Kudro of Drannith
-1 Titania, Protector of Argoth
 1 Tireless Tracker
 1 Marsh Flats
+1 Titania, Protector of Argoth
 1 Unsettled Mariner
 1 Deputy of Detention
 1 Barrin, Tolarian Archmage
@@ -243,19 +229,20 @@
 2 Valakut Awakening
 2 Bala Ged Recovery
 3 Valakut Awakening
-1 Vanishing Verse
-1 Jolrael, Mwonvuli Recluse
-3 Teferi, Time Raveler
 1 Witherbloom Command
 2 Grist, the Hunger Tide
 3 Grist, the Hunger Tide
 3 Assassin's Trophy
 1 Containment Priest
 1 Magus of the Moon
-2 Containment Priest
 2 Magus of the Moon
+2 Containment Priest
 2 Opposition Agent
 3 Opposition Agent
+1 Vanishing Verse
+1 Jolrael, Mwonvuli Recluse
+3 Windswept Heath
+3 Teferi, Time Raveler
 1 Venser, Shaper Savant
 1 Growth Spiral
 2 Growth Spiral
@@ -287,9 +274,9 @@
 2 Once Upon a Time
 3 Once Upon a Time
 4 Once Upon a Time
+1 Prismatic Vista
 1 Progenitus
 1 Natural Order
-1 Prismatic Vista
 1 Archon of Valor's Reach
 2 Prismatic Vista
 2 Natural Order

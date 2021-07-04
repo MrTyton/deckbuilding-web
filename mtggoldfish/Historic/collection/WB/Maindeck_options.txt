@@ -1,9 +1,3 @@
-1 Vanishing Verse
-2 Vanishing Verse
-2 Castle Locthwain
-3 Ifnir Deadlands
-4 Ifnir Deadlands
-3 Sign in Blood
 4 Sign in Blood
 1 Blood Crypt
 2 Blood Crypt
@@ -23,100 +17,84 @@
 3 Blightstep Pathway
 3 Fabled Passage
 4 Blightstep Pathway
+1 Vanishing Verse
+2 Vanishing Verse
+2 Castle Locthwain
+3 Swamp
+4 Swamp
 5 Swamp
-1 Elite Spellbinder
-2 Elite Spellbinder
-3 Elite Spellbinder
+4 Ifnir Deadlands
 2 Shock
 2 Kroxa, Titan of Death's Hunger
 4 Footfall Crater
-1 Plains
-1 Skyclave Apparition
-2 Skyclave Apparition
-1 Shefet Dunes
 1 Lurrus of the Dream-Den
-1 Dire Tactics
-3 Skyclave Apparition
-1 Silverquill Silencer
-2 Silverquill Silencer
 3 Shock
-4 Elite Spellbinder
-3 Silverquill Silencer
-2 Dire Tactics
-1 Bloodchief's Thirst
-4 Skyclave Apparition
 4 Shock
 3 Kroxa, Titan of Death's Hunger
 4 Kroxa, Titan of Death's Hunger
+1 Shefet Dunes
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
-2 Emeria's Call
+1 Elite Spellbinder
+2 Elite Spellbinder
+3 Elite Spellbinder
+1 Plains
+1 Dire Tactics
+1 Bloodchief's Thirst
+1 Skyclave Apparition
+2 Skyclave Apparition
+3 Skyclave Apparition
 2 Ramunap Ruins
 2 Mountain
+2 Emeria's Call
+2 Dire Tactics
+4 Skyclave Apparition
+4 Elite Spellbinder
+1 Silverquill Silencer
+2 Silverquill Silencer
 1 Selfless Savior
+3 Silverquill Silencer
 2 Shefet Dunes
 2 Bloodchief's Thirst
-2 Plains
-1 Thalia, Guardian of Thraben
-2 Thalia, Guardian of Thraben
-1 Castle Ardenvale
-1 Luminarch Aspirant
-2 Luminarch Aspirant
-4 Silverquill Silencer
-1 Reidane, God of the Worthy
-2 Reidane, God of the Worthy
-3 Thalia, Guardian of Thraben
-1 Archon of Emeria
-2 Archon of Emeria
-3 Luminarch Aspirant
-4 Luminarch Aspirant
-1 Mana Tithe
-1 Blinkmoth Nexus
-2 Blinkmoth Nexus
-3 Blinkmoth Nexus
-4 Blinkmoth Nexus
-1 Thraben Inspector
-2 Thraben Inspector
 3 Emeria's Call
 4 Emeria's Call
-2 Castle Ardenvale
+1 Mana Tithe
+1 Archon of Emeria
+1 Luminarch Aspirant
+2 Archon of Emeria
+2 Luminarch Aspirant
+3 Luminarch Aspirant
+4 Luminarch Aspirant
+1 Reidane, God of the Worthy
+2 Reidane, God of the Worthy
 2 Mana Tithe
+1 Thraben Inspector
+2 Thraben Inspector
 3 Thraben Inspector
-4 Thalia, Guardian of Thraben
+1 Thalia, Guardian of Thraben
+2 Thalia, Guardian of Thraben
+3 Thalia, Guardian of Thraben
 2 Selfless Savior
 3 Selfless Savior
 3 Archon of Emeria
-3 Plains
-4 Plains
-4 Thraben Inspector
-1 Maul of the Skyclaves
-2 Maul of the Skyclaves
 1 Kolaghan's Command
 1 Alseid of Life's Bounty
 1 Cling to Dust
-1 Baneslayer Angel
-1 Savai Triome
-1 Ajani, Adversary of Tyrants
-1 Glint-Sleeve Siphoner
-2 Savai Triome
-2 Glint-Sleeve Siphoner
-2 Ajani, Adversary of Tyrants
-3 Glint-Sleeve Siphoner
-4 Glint-Sleeve Siphoner
+4 Thraben Inspector
+1 Maul of the Skyclaves
+2 Maul of the Skyclaves
 4 Selfless Savior
-1 Shineshadow Snarl
-2 Shineshadow Snarl
-3 Shineshadow Snarl
-4 Shineshadow Snarl
+4 Thalia, Guardian of Thraben
+1 Castle Ardenvale
 1 Faceless Haven
 1 Snow-Covered Plains
 2 Faceless Haven
 2 Snow-Covered Plains
 3 Faceless Haven
-3 Reidane, God of the Worthy
 3 Snow-Covered Plains
+3 Reidane, God of the Worthy
 4 Snow-Covered Plains
 4 Archon of Emeria
 5 Snow-Covered Plains
@@ -133,12 +111,15 @@
 16 Snow-Covered Plains
 17 Snow-Covered Plains
 18 Snow-Covered Plains
-1 Silverquill Command
-2 Silverquill Command
 1 Sejiri Shelter
-3 Shefet Dunes
+1 Blinkmoth Nexus
+2 Blinkmoth Nexus
+2 Plains
+3 Blinkmoth Nexus
+4 Blinkmoth Nexus
 1 Containment Priest
 2 Containment Priest
+1 Baneslayer Angel
 1 Rest in Peace
 1 Drannith Magistrate
 2 Rest in Peace
@@ -147,25 +128,6 @@
 1 Cast Down
 2 Heartless Act
 2 Cast Down
-1 Seasoned Hallowblade
-1 General Kudro of Drannith
-2 General Kudro of Drannith
-2 Seasoned Hallowblade
-2 Giant Killer
-3 Vanishing Verse
-3 General Kudro of Drannith
-3 Seasoned Hallowblade
-3 Dire Tactics
-4 Seasoned Hallowblade
-1 Baleful Mastery
-1 Killian, Ink Duelist
-1 Crawling Barrens
-2 Crawling Barrens
-2 Baleful Mastery
-2 Killian, Ink Duelist
-3 Crawling Barrens
-3 Silverquill Command
-4 Silverquill Command
 1 Overgrown Tomb
 1 Kitesail Freebooter
 1 Blooming Marsh
@@ -186,14 +148,14 @@
 4 Temple Garden
 4 Overgrown Tomb
 1 Fling
+1 Silverquill Command
 1 Sacred Foundry
 2 Fling
 2 Sacred Foundry
+2 Silverquill Command
 3 Sacred Foundry
 4 Sacred Foundry
-1 Dead Weight
-2 Dead Weight
-4 Shefet Dunes
+4 Silverquill Silencer
 1 Scavenger Grounds
 1 Declaration in Stone
 1 Sword of Body and Mind
@@ -201,6 +163,9 @@
 2 Declaration in Stone
 2 Sword of Body and Mind
 3 Declaration in Stone
+3 Shefet Dunes
+3 Plains
+4 Plains
 5 Plains
 6 Plains
 7 Plains
