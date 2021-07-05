@@ -54,8 +54,8 @@
 2 Mana Leak
 3 Mana Leak
 1 Stomping Ground
-1 Vapor Snag
 1 Dreadhorde Arcanist
+1 Vapor Snag
 2 Dreadhorde Arcanist
 3 Dreadhorde Arcanist
 4 Dreadhorde Arcanist
@@ -72,8 +72,8 @@
 2 Atarka's Command
 2 Mutagenic Growth
 2 Soul-Scar Mage
-3 Wizard's Lightning
 3 Vapor Snag
+3 Wizard's Lightning
 3 Atarka's Command
 3 Soul-Scar Mage
 4 Wizard's Lightning
@@ -90,19 +90,19 @@
 2 Fatal Push
 3 Fatal Push
 1 Bloodstained Mire
-1 Soaring Thought-Thief
-1 Thieves' Guild Enforcer
 1 Drown in the Loch
-2 Thieves' Guild Enforcer
-2 Soaring Thought-Thief
+1 Thieves' Guild Enforcer
+1 Soaring Thought-Thief
 2 Drown in the Loch
 2 Bloodstained Mire
-3 Soaring Thought-Thief
-3 Thieves' Guild Enforcer
+2 Soaring Thought-Thief
+2 Thieves' Guild Enforcer
 3 Drown in the Loch
-4 Thieves' Guild Enforcer
-4 Soaring Thought-Thief
+3 Thieves' Guild Enforcer
+3 Soaring Thought-Thief
 4 Drown in the Loch
+4 Soaring Thought-Thief
+4 Thieves' Guild Enforcer
 2 Remand
 1 Brazen Borrower
 2 Snow-Covered Island
@@ -130,23 +130,23 @@
 1 Monastery Swiftspear
 3 Fiery Islet
 3 Subtlety
-1 Snakeskin Veil
 1 Scavenging Ooze
 1 Burst Lightning
 1 Jace, Vryn's Prodigy
+1 Snakeskin Veil
 2 Snakeskin Veil
 3 Wooded Foothills
 1 Cling to Dust
-1 Ice Tunnel
 1 Deprive
-1 Ascendant Spirit
+1 Ice Tunnel
 1 Snow-Covered Swamp
+1 Ascendant Spirit
 1 Icehide Golem
 1 Archmage's Charm
 1 Mystic Sanctuary
 1 Tyrant's Scorn
-2 Unearth
 2 Deprive
+2 Unearth
 2 Archmage's Charm
 2 Icehide Golem
 3 Snow-Covered Island
@@ -164,9 +164,9 @@
 1 Disrupting Shoal
 1 Hexdrinker
 2 Stubborn Denial
-2 Hexdrinker
 2 Disrupting Shoal
 2 Brazen Borrower
+2 Hexdrinker
 3 Stubborn Denial
 3 Hexdrinker
 3 Disrupting Shoal
@@ -179,9 +179,9 @@
 1 Dismember
 1 Death's Shadow
 1 Dauthi Voidwalker
-2 Suspend
 2 Verdant Catacombs
 2 Dismember
+2 Suspend
 2 Dauthi Voidwalker
 2 Death's Shadow
 3 Dauthi Voidwalker
@@ -189,14 +189,14 @@
 3 Thoughtseize
 3 Death's Shadow
 4 Dauthi Voidwalker
-4 Thoughtseize
 4 Verdant Catacombs
+4 Thoughtseize
 4 Death's Shadow
 4 Island
 1 Darkslick Shores
-1 Bloodchief's Thirst
 1 Ancestral Vision
 1 Bitterblossom
+1 Bloodchief's Thirst
 2 Spell Snare
 2 Darkslick Shores
 2 Swamp

@@ -30,8 +30,8 @@
 2 Ignoble Hierarch
 2 Wasteland
 3 Ignoble Hierarch
-3 Badlands
 3 Wasteland
+3 Badlands
 4 Verdant Catacombs
 4 Ignoble Hierarch
 4 Hymn to Tourach
@@ -78,9 +78,9 @@
 4 Brainstorm
 1 Kolaghan's Command
 1 Dark Confidant
-2 Kolaghan's Command
 2 Dark Confidant
 2 Swamp
+2 Kolaghan's Command
 3 Dark Confidant
 1 Dauthi Voidwalker
 2 Dauthi Voidwalker
@@ -92,8 +92,8 @@
 2 Tropical Island
 1 Inquisition of Kozilek
 1 Natural Order
-1 Progenitus
 1 Liliana, the Last Hope
+1 Progenitus
 1 Dryad Arbor
 1 Green Sun's Zenith
 1 Assassin's Trophy
@@ -105,6 +105,9 @@
 2 Darkblast
 3 Dauthi Voidwalker
 4 Dauthi Voidwalker
+1 Hexdrinker
+1 Scavenging Ooze
+4 Wasteland
 1 Mirri's Guile
 1 Yavimaya, Cradle of Growth
 1 Sudden Edict
@@ -112,11 +115,8 @@
 2 Mirri's Guile
 3 Kolaghan's Command
 4 Kolaghan's Command
-1 Hexdrinker
-1 Scavenging Ooze
-4 Wasteland
-1 Volcanic Island
 1 Preordain
+1 Volcanic Island
 2 Preordain
 2 Underground Sea
 3 Lotus Petal

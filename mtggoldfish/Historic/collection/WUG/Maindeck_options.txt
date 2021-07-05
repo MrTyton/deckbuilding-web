@@ -1,45 +1,39 @@
 3 Glasspool Mimic
-4 Speaker of the Heavens
 8 Plains
 9 Plains
-10 Plains
+4 Speaker of the Heavens
 2 Hengegate Pathway
-1 Castle Ardenvale
+10 Plains
 3 Linvala, Shield of Sea Gate
+1 Castle Ardenvale
 2 Castle Ardenvale
 1 Glacial Fortress
 2 Glacial Fortress
-1 Baffling End
 1 Reidane, God of the Worthy
 2 Reidane, God of the Worthy
+1 Baffling End
 4 Glasspool Mimic
 1 Angel of Vitality
 2 Angel of Vitality
-1 Declaration in Stone
 1 Forest
+1 Declaration in Stone
 2 Baffling End
-1 Heliod, Sun-Crowned
 1 Emeria's Call
+1 Heliod, Sun-Crowned
 3 Hengegate Pathway
 4 Hengegate Pathway
 2 Forest
-2 Heliod, Sun-Crowned
 3 Angel of Vitality
 4 Angel of Vitality
+2 Heliod, Sun-Crowned
 2 Emeria's Call
 1 Selfless Savior
 2 Selfless Savior
 3 Selfless Savior
 3 Forest
-1 Elite Spellbinder
-2 Elite Spellbinder
 1 Daxos, Blessed by the Sun
 2 Daxos, Blessed by the Sun
 11 Plains
-1 Fabled Passage
-2 Fabled Passage
-3 Fabled Passage
-2 Ajani, Strength of the Pride
 2 Declaration in Stone
 1 Conclave Tribunal
 2 Conclave Tribunal
@@ -47,17 +41,17 @@
 5 Forest
 6 Forest
 7 Forest
-4 Linvala, Shield of Sea Gate
+2 Ajani, Strength of the Pride
 4 Selfless Savior
+1 Elite Spellbinder
 1 Resplendent Marshal
 1 Blast Zone
+2 Elite Spellbinder
+4 Linvala, Shield of Sea Gate
 1 Brightclimb Pathway
-4 Fabled Passage
-1 Vito, Thorn of the Dusk Rose
-1 Isolated Chapel
-2 Vito, Thorn of the Dusk Rose
-3 Vito, Thorn of the Dusk Rose
-3 Elite Spellbinder
+1 Fabled Passage
+2 Fabled Passage
+3 Fabled Passage
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
@@ -69,107 +63,60 @@
 9 Snow-Covered Plains
 10 Snow-Covered Plains
 11 Snow-Covered Plains
-1 Elspeth Conquers Death
-1 Settle the Wreckage
-2 Elspeth Conquers Death
-2 Settle the Wreckage
 1 Ephemerate
 1 Adventurous Impulse
 2 Adventurous Impulse
 3 Adventurous Impulse
 4 Adventurous Impulse
-1 Island
-1 Knight of Autumn
 1 Legion Angel
+1 Island
 1 Dromoka's Command
 2 Dromoka's Command
+1 Spell Pierce
+1 Deputy of Detention
+1 Barkchannel Pathway
+2 Spell Pierce
 2 Blast Zone
+3 Elite Spellbinder
 1 Snow-Covered Forest
+1 Radiant Fountain
 1 Blossoming Sands
 1 Ajani's Pridemate
-1 Radiant Fountain
-2 Snow-Covered Forest
 2 Radiant Fountain
+2 Snow-Covered Forest
 2 Blossoming Sands
 2 Ajani's Pridemate
 3 Ajani's Pridemate
+1 Isolated Chapel
+1 Vito, Thorn of the Dusk Rose
 1 Godless Shrine
 2 Isolated Chapel
 2 Brightclimb Pathway
+2 Vito, Thorn of the Dusk Rose
 3 Brightclimb Pathway
+3 Vito, Thorn of the Dusk Rose
 4 Brightclimb Pathway
 1 Remorseful Cleric
 2 Remorseful Cleric
 3 Remorseful Cleric
 4 Remorseful Cleric
-1 Cragcrown Pathway
-1 Needleverge Pathway
-1 Sacred Foundry
-1 Skyclave Cleric
-1 Lightning Helix
-1 Showdown of the Skalds
-1 Clifftop Retreat
-2 Clifftop Retreat
-2 Cragcrown Pathway
-2 Sacred Foundry
-2 Skyclave Cleric
-2 Lightning Helix
-2 Showdown of the Skalds
-2 Needleverge Pathway
-3 Cragcrown Pathway
-3 Sacred Foundry
-3 Lightning Helix
-3 Needleverge Pathway
-3 Skyclave Cleric
-4 Sacred Foundry
-4 Elite Spellbinder
-4 Skyclave Cleric
-4 Needleverge Pathway
-4 Lightning Helix
-4 Cragcrown Pathway
-1 Indatha Triome
-1 Swamp
-1 Temple of Silence
-1 Temple of Malady
-1 The Immortal Sun
-1 Authority of the Consuls
-1 Maskwood Nexus
-1 Temple of Plenty
-2 Indatha Triome
-2 Authority of the Consuls
-2 Temple of Plenty
-2 Maskwood Nexus
-3 Authority of the Consuls
-4 Vito, Thorn of the Dusk Rose
-1 Banishing Light
-1 Faceless Haven
-1 Crawling Barrens
-2 Banishing Light
-3 Banishing Light
-3 Baffling End
-4 Baffling End
-4 Banishing Light
-12 Snow-Covered Plains
-13 Snow-Covered Plains
-14 Snow-Covered Plains
-15 Snow-Covered Plains
-16 Snow-Covered Plains
-17 Snow-Covered Plains
-18 Snow-Covered Plains
-19 Snow-Covered Plains
-20 Snow-Covered Plains
-21 Snow-Covered Plains
-1 Legion's Landing
-1 Lyra Dawnbringer
-1 Angel of Destiny
-1 Shalai, Voice of Plenty
-1 Light of Hope
-1 Divine Gambit
+1 Knight of Autumn
+4 Fabled Passage
+1 Elspeth Conquers Death
 1 Secluded Steppe
+1 Settle the Wreckage
+1 Lyra Dawnbringer
+1 Shalai, Voice of Plenty
+1 Angel of Destiny
+1 Light of Hope
+1 Legion's Landing
+1 Divine Gambit
 2 Secluded Steppe
-2 Legion's Landing
 2 Shalai, Voice of Plenty
+2 Elspeth Conquers Death
+2 Settle the Wreckage
 2 Divine Gambit
+2 Legion's Landing
 2 Lyra Dawnbringer
 3 Secluded Steppe
 3 Divine Gambit
@@ -184,3 +131,21 @@
 19 Plains
 20 Plains
 21 Plains
+1 Crawling Barrens
+1 Banishing Light
+1 Faceless Haven
+2 Banishing Light
+3 Banishing Light
+3 Baffling End
+4 Banishing Light
+4 Baffling End
+12 Snow-Covered Plains
+13 Snow-Covered Plains
+14 Snow-Covered Plains
+15 Snow-Covered Plains
+16 Snow-Covered Plains
+17 Snow-Covered Plains
+18 Snow-Covered Plains
+19 Snow-Covered Plains
+20 Snow-Covered Plains
+21 Snow-Covered Plains

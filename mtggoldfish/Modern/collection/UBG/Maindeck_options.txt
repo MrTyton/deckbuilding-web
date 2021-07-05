@@ -74,24 +74,24 @@
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 3 Prismatic Vista
-4 Inquisition of Kozilek
 4 Leyline of Sanctity
+4 Inquisition of Kozilek
 1 Windswept Heath
 2 Welding Jar
-1 Emry, Lurker of the Loch
 1 Drown in the Loch
+1 Emry, Lurker of the Loch
 1 Crucible of Worlds
-2 Emry, Lurker of the Loch
 2 Watery Grave
 2 Drown in the Loch
+2 Emry, Lurker of the Loch
 3 Emry, Lurker of the Loch
 4 Emry, Lurker of the Loch
 1 Trail of Crumbs
 1 Upheaval
 2 Upheaval
 2 Gingerbread Cabin
-3 Urza, Lord High Artificer
 3 Karn, the Great Creator
+3 Urza, Lord High Artificer
 4 Urza, Lord High Artificer
 1 Ovalchase Daredevil
 1 Aether Vial
@@ -142,18 +142,15 @@
 3 Kinnan, Bonder Prodigy
 4 Birds of Paradise
 4 Mishra's Bauble
-2 Soul-Guide Lantern
-3 Soul-Guide Lantern
-4 Soul-Guide Lantern
 1 Quirion Ranger
 2 Engineered Explosives
 3 Gingerbread Cabin
 4 Metallic Rebuke
 4 Cauldron Familiar
 4 Gingerbread Cabin
-1 Aether Spellbomb
 1 Reclamation Sage
 1 Claws of Gix
+1 Aether Spellbomb
 1 Chord of Calling
 2 Chord of Calling
 3 Chord of Calling
@@ -177,18 +174,18 @@
 2 Polluted Delta
 2 Tireless Tracker
 2 Tanglepool Bridge
-2 Barkchannel Pathway
 2 Confront the Unknown
 2 Erdwal Illuminator
 2 Hard Evidence
 2 Wooded Foothills
 2 Rise and Shine
 2 Ensoul Artifact
+2 Barkchannel Pathway
 2 Animating Faerie
 3 Tanglepool Bridge
-3 Barkchannel Pathway
 3 Tireless Tracker
 3 Confront the Unknown
+3 Barkchannel Pathway
 3 Hard Evidence
 3 Erdwal Illuminator
 3 Ensoul Artifact
@@ -198,22 +195,22 @@
 4 Ensoul Artifact
 4 Tireless Tracker
 1 Plains
-1 Thraben Inspector
 1 Arcbound Ravager
+1 Thraben Inspector
 1 Temple Garden
 1 Path to Exile
 1 Hallowed Fountain
 1 Disciple of the Vault
 1 Inkmoth Nexus
 1 Reckless Fireweaver
+2 Arcbound Ravager
 2 Path to Exile
 2 Thraben Inspector
-2 Arcbound Ravager
 2 Temple Garden
 2 Disciple of the Vault
 2 Reckless Fireweaver
-3 Path to Exile
 3 Arcbound Ravager
+3 Path to Exile
 3 Thraben Inspector
 3 Reckless Fireweaver
 3 Disciple of the Vault
@@ -222,3 +219,6 @@
 4 Windswept Heath
 4 Disciple of the Vault
 4 Reckless Fireweaver
+2 Soul-Guide Lantern
+3 Soul-Guide Lantern
+4 Soul-Guide Lantern

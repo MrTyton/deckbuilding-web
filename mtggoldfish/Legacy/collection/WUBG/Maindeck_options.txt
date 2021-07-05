@@ -79,14 +79,14 @@
 1 Island
 1 Grist, the Hunger Tide
 4 Uro, Titan of Nature's Wrath
+1 Valakut, the Molten Pinnacle
+1 Dryad of the Ilysian Grove
 1 Bojuka Bog
 1 Archon of Emeria
 1 Glacial Chasm
 1 Vesuva
 1 Mox Diamond
-1 Valakut, the Molten Pinnacle
 1 Sejiri Steppe
-1 Dryad of the Ilysian Grove
 2 Archon of Emeria
 2 Mox Diamond
 2 Vesuva
@@ -105,8 +105,8 @@
 1 Hexdrinker
 4 Ice-Fang Coatl
 1 Fatal Push
-2 Valakut, the Molten Pinnacle
 2 Dryad of the Ilysian Grove
+2 Valakut, the Molten Pinnacle
 2 Force of Negation
 4 Archon of Emeria
 3 Polluted Delta
@@ -142,10 +142,10 @@
 4 Tropical Island
 1 Crop Rotation
 2 Crop Rotation
+1 Yavimaya, Cradle of Growth
 1 Urza's Saga
 1 Shadowspear
 1 Pithing Needle
-1 Yavimaya, Cradle of Growth
 1 Oboro, Palace in the Clouds
 2 Yavimaya, Cradle of Growth
 2 Urza's Saga
@@ -177,9 +177,9 @@
 1 Blast Zone
 1 Thespian's Stage
 3 Crop Rotation
+1 Raugrin Triome
 1 Flagstones of Trokair
 1 Aether Spellbomb
-1 Raugrin Triome
 2 Savannah
 1 Windswept Heath
 2 Windswept Heath
@@ -196,27 +196,27 @@
 1 Unearth
 1 Cabal Therapy
 1 Sea Gate Stormcaller
-1 Drown in the Loch
 1 Snapcaster Mage
+1 Drown in the Loch
 1 Neoform
 1 Spike Feeder
 1 Nimble Obstructionist
 1 Heliod, Sun-Crowned
-2 True-Name Nemesis
+2 Drown in the Loch
+2 Snapcaster Mage
 2 Unearth
 2 Neoform
-2 Snapcaster Mage
 2 Cabal Therapy
-2 Drown in the Loch
+2 True-Name Nemesis
 2 Sea Gate Stormcaller
 3 Neoform
 3 Cabal Therapy
 3 Sea Gate Stormcaller
 4 Sea Gate Stormcaller
 1 General Kudro of Drannith
+1 Titania, Protector of Argoth
 1 Tireless Tracker
 1 Marsh Flats
-1 Titania, Protector of Argoth
 1 Unsettled Mariner
 1 Deputy of Detention
 1 Barrin, Tolarian Archmage
@@ -232,13 +232,13 @@
 1 Witherbloom Command
 2 Grist, the Hunger Tide
 3 Grist, the Hunger Tide
-3 Assassin's Trophy
 1 Containment Priest
 1 Magus of the Moon
 2 Magus of the Moon
 2 Containment Priest
 2 Opposition Agent
 3 Opposition Agent
+3 Assassin's Trophy
 1 Vanishing Verse
 1 Jolrael, Mwonvuli Recluse
 3 Windswept Heath
@@ -248,9 +248,6 @@
 2 Growth Spiral
 2 Simic Growth Chamber
 3 Growth Spiral
-1 Sanctifier en-Vec
-1 Thalia, Heretic Cathar
-4 Plains
 1 Shark Typhoon
 1 Thoughtseize
 1 Narset, Parter of Veils
@@ -274,9 +271,12 @@
 2 Once Upon a Time
 3 Once Upon a Time
 4 Once Upon a Time
-1 Prismatic Vista
+1 Sanctifier en-Vec
+1 Thalia, Heretic Cathar
+4 Plains
 1 Progenitus
 1 Natural Order
+1 Prismatic Vista
 1 Archon of Valor's Reach
 2 Prismatic Vista
 2 Natural Order

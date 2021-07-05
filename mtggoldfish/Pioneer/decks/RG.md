@@ -26,3 +26,19 @@
 |                                                                                              |1 [Obosh, the Preypiercer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479748)|                                                                                         |
 |                                                                                              |3 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)      |                                                                                         |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|[Domri, Anarch of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461118)|                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)       |
+|                    1|[Kazandu Mammoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491835)       |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
+|                    1|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)            |                    2|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)       |
+|                    1|[Rootbound Crag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420934)        |                    2|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
+|                    2|[Rhonas the Indomitable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426884)|                    3|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
+|                    2|[Kazandu Mammoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491835)       |                    4|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
+|                    2|[Rootbound Crag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420934)        |                    4|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)  |
+|                    2|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)            |                     |                                                                                             |
+|                    3|[Rootbound Crag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420934)        |                     |                                                                                             |
+|                    4|[Rootbound Crag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420934)        |                     |                                                                                             |
+

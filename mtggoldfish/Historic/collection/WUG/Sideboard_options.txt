@@ -6,7 +6,6 @@
 3 Dovin's Veto
 1 Archon of Emeria
 2 Archon of Emeria
-3 Rest in Peace
 1 Devout Decree
 2 Devout Decree
 1 Dawn of Hope
@@ -18,32 +17,33 @@
 1 Skyclave Apparition
 1 Meddling Mage
 2 Meddling Mage
+1 Disdainful Stroke
+2 Disdainful Stroke
+3 Rest in Peace
+2 Ajani, Strength of the Pride
 1 Return to Nature
 1 Settle the Wreckage
+1 Sorcerous Spyglass
+2 Sorcerous Spyglass
 1 Doomskar
 2 Return to Nature
-1 Cleansing Nova
+1 Silent Gravestone
 1 Grafdigger's Cage
 1 Ram Through
-1 Silent Gravestone
-1 Sorcerous Spyglass
+1 Cleansing Nova
+2 Doomskar
 2 Grafdigger's Cage
 2 Ram Through
-2 Doomskar
-2 Sorcerous Spyglass
 2 Silent Gravestone
 3 Return to Nature
 1 Wrath of God
-2 Ajani, Strength of the Pride
-1 Disdainful Stroke
-2 Disdainful Stroke
 1 Heroic Intervention
 2 Heroic Intervention
 2 Skyclave Apparition
 1 Shifting Ceratops
 1 Knight of Autumn
-2 Knight of Autumn
 2 Shifting Ceratops
+2 Knight of Autumn
 1 Linvala, Keeper of Silence
 2 Wrath of God
 1 Authority of the Consuls
@@ -51,15 +51,10 @@
 2 Adanto Vanguard
 1 Selfless Savior
 2 Selfless Savior
-3 Selfless Savior
 3 Skyclave Apparition
+3 Selfless Savior
 1 Baneslayer Angel
 2 Authority of the Consuls
-1 Giant Killer
-2 Giant Killer
-2 Settle the Wreckage
-1 Weathered Runestone
-2 Weathered Runestone
 1 Soul-Guide Lantern
 1 Miscast
 2 Miscast
@@ -69,24 +64,17 @@
 2 Strict Proctor
 2 Expel
 1 Emeria's Call
-1 Shalai, Voice of Plenty
 1 Angel of Destiny
+1 Shalai, Voice of Plenty
 1 Day of Judgment
 1 Take Vengeance
 1 Planar Cleansing
 2 Take Vengeance
-1 Gideon Blackblade
-1 Deafening Clarion
-1 Heliod's Intervention
-1 Selfless Glyphweaver
-1 Cindervines
-2 Gideon Blackblade
-2 Deafening Clarion
-2 Selfless Glyphweaver
-2 Cindervines
-3 Deafening Clarion
-3 Cindervines
-3 Adanto Vanguard
+1 Weathered Runestone
+2 Weathered Runestone
+1 Giant Killer
+2 Settle the Wreckage
+2 Giant Killer
 1 Tithe Taker
 2 Tithe Taker
 3 Disdainful Stroke
@@ -94,31 +82,40 @@
 1 Daxos, Blessed by the Sun
 2 Containment Priest
 3 Containment Priest
-1 Remorseful Cleric
 1 Deafening Silence
 1 Repudiate/Replicate
+1 Remorseful Cleric
 2 Remorseful Cleric
 2 Deafening Silence
 2 Repudiate/Replicate
 3 Repudiate/Replicate
-1 Legion Angel
-2 Legion Angel
-4 Selfless Savior
+3 Adanto Vanguard
+1 Lyra Dawnbringer
+4 Elite Spellbinder
 1 Angel of Vitality
 2 Angel of Vitality
 3 Angel of Vitality
 4 Rest in Peace
-1 Lyra Dawnbringer
-4 Elite Spellbinder
-1 Brought Back
-1 Basri Ket
-1 Mana Tithe
-1 Heliod, Sun-Crowned
 1 Glass Casket
-1 Cloudshift
-1 Ajani's Welcome
-2 Mana Tithe
 2 Glass Casket
+1 Banishing Light
+1 Heliod's Intervention
+2 Banishing Light
+2 Heliod's Intervention
+3 Glass Casket
+4 Glass Casket
+4 Baffling End
+1 Legion Angel
+2 Legion Angel
+4 Selfless Savior
+1 Mana Tithe
+1 Basri Ket
+1 Ajani's Welcome
+1 Gideon Blackblade
+1 Brought Back
+1 Heliod, Sun-Crowned
+1 Cloudshift
+2 Mana Tithe
 2 Cloudshift
 3 Cloudshift
 4 Cloudshift
@@ -127,11 +124,5 @@
 1 Teferi's Protection
 1 Platinum Angel
 2 Gods Willing
-2 Teferi's Protection
 3 Gods Willing
-1 Gaea's Blessing
-1 Tormod's Crypt
-1 Maskwood Nexus
-2 Tormod's Crypt
-2 Gaea's Blessing
-2 Cleansing Nova
+2 Teferi's Protection
