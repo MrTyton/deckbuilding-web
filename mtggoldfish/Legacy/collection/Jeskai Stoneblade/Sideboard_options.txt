@@ -1,8 +1,8 @@
 2 Red Elemental Blast
 1 Supreme Verdict
 2 Containment Priest
-1 Veil of Summer
 1 Wilt
+1 Veil of Summer
 2 Wilt
 2 Veil of Summer
 1 Carpet of Flowers
@@ -30,10 +30,10 @@
 1 Kaldra Compleat
 2 Disenchant
 1 Pyroclasm
-1 Wear/Tear
-2 Wear/Tear
 1 Collector Ouphe
 2 Pithing Needle
+1 Wear/Tear
+2 Wear/Tear
 1 Blue Elemental Blast
 2 Engineered Explosives
 2 Force of Negation
@@ -52,14 +52,16 @@
 1 Leyline of Sanctity
 1 Skyclave Apparition
 2 Skyclave Apparition
-1 Aether Gust
 1 Celestial Purge
 1 Teferi, Time Raveler
+1 Aether Gust
 2 Aether Gust
+1 Scavenging Ooze
+2 Hullbreacher
+1 Cling to Dust
 1 Fatal Push
 1 Vanishing Verse
 1 Liliana, the Last Hope
-1 Cling to Dust
 1 Kaya, Orzhov Usurper
 1 Plague Engineer
 2 Plague Engineer
@@ -68,8 +70,6 @@
 1 Liquimetal Coating
 1 Damping Sphere
 2 Relic of Progenitus
-1 Scavenging Ooze
-2 Hullbreacher
 1 Ruination
 2 Ruination
 1 Spikefield Hazard

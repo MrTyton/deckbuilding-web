@@ -1,32 +1,32 @@
 2 Snow-Covered Swamp
 1 Snow-Covered Mountain
 1 Castle Locthwain
-1 Fatal Push
 1 Dark Confidant
 2 Dark Confidant
-2 Fatal Push
+1 Fatal Push
 2 Snow-Covered Mountain
-1 Unearth
 4 Thoughtseize
+2 Fatal Push
+1 Unearth
 1 Marsh Flats
 2 Marsh Flats
-1 Seal of Fire
-1 Sunbaked Canyon
 2 Mountain
+1 Sunbaked Canyon
 3 Fatal Push
-1 Sacred Foundry
 1 Godless Shrine
+1 Seal of Fire
 1 Scourge of the Skyclaves
 2 Scourge of the Skyclaves
-1 Prismatic Ending
 1 Terminate
-4 Blood Crypt
+1 Prismatic Ending
+1 Sacred Foundry
 3 Scourge of the Skyclaves
 2 Sunbaked Canyon
 1 Polluted Delta
 2 Seal of Fire
-4 Fatal Push
+4 Blood Crypt
 4 Scourge of the Skyclaves
+4 Fatal Push
 1 Arid Mesa
 1 Cling to Dust
 1 Monastery Swiftspear
@@ -35,95 +35,107 @@
 3 Dark Confidant
 3 Marsh Flats
 2 Scalding Tarn
-1 Drown in the Loch
 1 Watery Grave
 1 Snapcaster Mage
-2 Drown in the Loch
 2 Snapcaster Mage
 2 Polluted Delta
 3 Polluted Delta
 3 Snapcaster Mage
-3 Verdant Catacombs
-1 Nurturing Peatland
-1 Urborg, Tomb of Yawgmoth
-2 Cling to Dust
 1 Steam Vents
 1 Counterspell
 1 Island
 2 Counterspell
 4 Polluted Delta
 4 Snapcaster Mage
+1 Drown in the Loch
+2 Drown in the Loch
+1 Force of Negation
+1 Creeping Tar Pit
+1 Archmage's Charm
+1 Drowned Catacomb
+2 Creeping Tar Pit
+2 Island
+2 Watery Grave
+2 Archmage's Charm
+3 Scalding Tarn
+3 Archmage's Charm
+3 Island
+4 Scalding Tarn
+1 Urborg, Tomb of Yawgmoth
+3 Verdant Catacombs
+2 Cling to Dust
+1 Reflecting Pool
 1 Misty Rainforest
 1 Overgrown Tomb
 1 Assassin's Trophy
 2 Misty Rainforest
+1 Sulfur Falls
+1 Dreadbore
+1 Jace, Vryn's Prodigy
+2 Steam Vents
+2 Force of Negation
+2 Dreadbore
+2 Jace, Vryn's Prodigy
 2 Arid Mesa
 1 Silent Clearing
 2 Prismatic Ending
 3 Prismatic Ending
 1 Abrade
 4 Marsh Flats
-1 Force of Negation
-1 Creeping Tar Pit
-1 Dreadbore
-1 Sulfur Falls
-1 Archmage's Charm
-1 Drowned Catacomb
-1 Jace, Vryn's Prodigy
-2 Steam Vents
-2 Force of Negation
-2 Dreadbore
-2 Creeping Tar Pit
-2 Jace, Vryn's Prodigy
-2 Island
-2 Watery Grave
-2 Archmage's Charm
-3 Scalding Tarn
-3 Island
-3 Archmage's Charm
-4 Scalding Tarn
+1 The Underworld Cookbook
 1 Ketria Triome
 1 Urza's Saga
-1 Reflecting Pool
-1 Damnation
+1 Mox Amber
 1 Zagoth Triome
+1 Wrenn and Six
 1 Brainstone
 1 Nihil Spellbomb
+1 Damnation
 1 Doom Blade
 1 Nature's Claim
 1 Pithing Needle
 1 Expressive Iteration
-1 Wrenn and Six
-1 The Underworld Cookbook
 1 Chromatic Star
-1 Mox Amber
 2 Urza's Saga
+2 Wrenn and Six
 2 Nature's Claim
 2 Pithing Needle
 2 Expressive Iteration
 2 Damnation
-2 Wrenn and Six
 3 Urza's Saga
 3 Wrenn and Six
 4 Urza's Saga
 4 Wrenn and Six
+1 Raugrin Triome
+1 Behold the Multiverse
+1 Spell Pierce
+1 Serum Visions
+1 Cryptic Command
+1 Engineered Explosives
+1 Sunken Ruins
+1 Castle Vantress
+2 Behold the Multiverse
+2 Cryptic Command
+3 Counterspell
+4 Counterspell
 1 Ice-Fang Coatl
 1 Snow-Covered Forest
+1 Nurturing Peatland
 1 Noble Hierarch
 1 Blooming Marsh
+1 Village Rites
+1 Abrupt Decay
 1 Nissa, Steward of Elements
 1 Tarmogoyf
-1 Abrupt Decay
 1 Snow-Covered Island
 1 Breeding Pool
-1 Village Rites
 2 Ice-Fang Coatl
 2 Snow-Covered Forest
 2 Noble Hierarch
+2 Unearth
 2 Village Rites
 2 Tarmogoyf
 2 Abrupt Decay
-2 Unearth
 3 Ice-Fang Coatl
 3 Noble Hierarch
 3 Drown in the Loch
@@ -148,9 +160,6 @@
 4 Burning Inquiry
 4 Dreadhorde Arcanist
 4 Waste Not
-2 Nurturing Peatland
-3 Tourach, Dread Cantor
-4 Tourach, Dread Cantor
 4 Unholy Heat
 1 Wooded Foothills
 1 Soul-Scar Mage

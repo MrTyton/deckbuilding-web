@@ -10,21 +10,21 @@
 1 Shardless Agent
 2 Shardless Agent
 3 Shardless Agent
+1 Territorial Kavu
+1 Tribal Flames
 1 Scion of Draco
 1 Temple Garden
 1 Mantis Rider
-1 Tribal Flames
-1 Territorial Kavu
-2 Scion of Draco
 2 Territorial Kavu
-2 Mantis Rider
 2 Tribal Flames
+2 Scion of Draco
+2 Mantis Rider
 3 Territorial Kavu
 3 Tribal Flames
 3 Mantis Rider
+4 Territorial Kavu
 4 Tribal Flames
 4 Mantis Rider
-4 Territorial Kavu
 3 Scion of Draco
 4 Scion of Draco
 4 Shardless Agent
@@ -43,8 +43,8 @@
 3 General Ferrous Rokiric
 4 Bloodbraid Elf
 1 Verdant Catacombs
-1 Ignoble Hierarch
 1 Savai Triome
+1 Ignoble Hierarch
 2 Ignoble Hierarch
 3 Ignoble Hierarch
 4 Ignoble Hierarch
@@ -146,9 +146,9 @@
 4 Prismatic Ending
 1 Explore
 1 Tamiyo, Collector of Tales
+2 Chandra, Torch of Defiance
 2 Explore
 2 Fires of Invention
-2 Chandra, Torch of Defiance
 2 Tamiyo, Collector of Tales
 2 Ketria Triome
 3 Explore
@@ -177,24 +177,24 @@
 1 Cindervines
 1 Omnath, Locus of Creation
 2 Island
+1 Hexdrinker
 1 Hallowed Fountain
 1 Waterlogged Grove
-1 Hexdrinker
 2 Temple Garden
 2 Jace, the Mind Sculptor
 1 Kasmina, Enigma Sage
 2 Kasmina, Enigma Sage
 1 Botanical Sanctum
 2 Botanical Sanctum
-1 Anafenza, the Foremost
 1 Godless Shrine
+1 Anafenza, the Foremost
 2 Anafenza, the Foremost
 1 Might of Alara
 2 Might of Alara
 3 Might of Alara
+1 Fiery Islet
 1 Ugin, the Spirit Dragon
 1 Brazen Borrower
-1 Fiery Islet
 1 Gemstone Mine
 2 Ugin, the Spirit Dragon
 2 Gemstone Mine
@@ -202,29 +202,27 @@
 2 Valakut Awakening
 3 Valakut Awakening
 1 Tarfire
-1 Vindicate
 1 Seal of Fire
+1 Vindicate
 1 Ajani, Caller of the Pride
 2 Vindicate
 3 Vindicate
 4 Vindicate
-1 Opt
-1 Swamp
-2 Opt
-2 Swamp
-3 Swamp
-3 Opt
-4 Swamp
-4 Opt
-3 Snapcaster Mage
-4 Snapcaster Mage
+4 Wild Nacatl
+4 Ragavan, Nimble Pilferer
 3 Griselbrand
 4 Griselbrand
 1 Fire-Lit Thicket
 3 Kozilek, Butcher of Truth
 4 Kozilek, Butcher of Truth
-4 Ragavan, Nimble Pilferer
-4 Wild Nacatl
+1 Swamp
+1 Opt
+2 Swamp
+2 Opt
+3 Swamp
+3 Opt
+4 Swamp
+4 Opt
 1 Narset, Parter of Veils
 1 Nahiri, the Harbinger
 1 Transmogrify
@@ -233,3 +231,5 @@
 2 Izzet Charm
 3 Velomachus Lorehold
 4 Steam Vents
+3 Snapcaster Mage
+4 Snapcaster Mage

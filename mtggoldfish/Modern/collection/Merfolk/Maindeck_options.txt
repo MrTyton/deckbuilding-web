@@ -106,21 +106,8 @@
 2 Swamp
 3 Mountain
 3 Swamp
-4 Swamp
 4 Mountain
-1 Underground River
-2 Underground River
-3 Phantasmal Image
-3 Underground River
-4 Underground River
-4 Darkslick Shores
-1 Rishadan Dockhand
-2 Rishadan Dockhand
-3 Suspend
-3 Rishadan Dockhand
-4 Rishadan Dockhand
-3 Spell Pierce
-4 Spell Pierce
+4 Swamp
 1 Creeping Tar Pit
 1 Soul-Guide Lantern
 1 Sunken Hollow
@@ -131,7 +118,20 @@
 3 Repeal
 3 Creeping Tar Pit
 3 Soul-Guide Lantern
+4 Soul-Guide Lantern
 4 Creeping Tar Pit
 4 Flooded Strand
 4 Repeal
-4 Soul-Guide Lantern
+1 Underground River
+2 Underground River
+3 Phantasmal Image
+3 Underground River
+4 Darkslick Shores
+4 Underground River
+1 Rishadan Dockhand
+2 Rishadan Dockhand
+3 Suspend
+3 Rishadan Dockhand
+4 Rishadan Dockhand
+3 Spell Pierce
+4 Spell Pierce

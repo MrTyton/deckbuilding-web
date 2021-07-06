@@ -22,18 +22,18 @@
 2 Volcanic Island
 1 Arid Mesa
 2 Arid Mesa
-1 Lightning Bolt
-1 Murktide Regent
 1 Ragavan, Nimble Pilferer
+1 Murktide Regent
+1 Lightning Bolt
 1 Stifle
 1 True-Name Nemesis
-2 Lightning Bolt
+2 Ragavan, Nimble Pilferer
 2 Murktide Regent
 2 Stifle
-2 Ragavan, Nimble Pilferer
+2 Lightning Bolt
+3 Ragavan, Nimble Pilferer
 3 Volcanic Island
 3 Stifle
-3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
 4 Daze
 3 Plains
@@ -63,10 +63,11 @@
 3 Force of Negation
 1 Hullbreacher
 1 Fblthp, the Lost
+1 Marsh Flats
+1 Windswept Heath
 1 Venser, Shaper Savant
 1 Solitude
 1 Meddling Mage
-1 Marsh Flats
 1 Lavinia, Azorius Renegade
 1 Palace Jailer
 1 Skyclave Apparition
@@ -74,36 +75,35 @@
 1 Weathered Wayfarer
 1 Aether Vial
 1 Recruiter of the Guard
-1 Windswept Heath
 1 Peacekeeper
 1 Barrin, Tolarian Archmage
+2 Marsh Flats
+2 Windswept Heath
 2 Brought Back
 2 Solitude
 2 Karakas
-2 Marsh Flats
 2 Meddling Mage
-2 Windswept Heath
 2 Fblthp, the Lost
 2 Recruiter of the Guard
 2 Aether Vial
 2 Weathered Wayfarer
 3 Brought Back
+3 Windswept Heath
 3 Solitude
 3 Meddling Mage
 3 Recruiter of the Guard
 3 Aether Vial
-3 Windswept Heath
 3 Weathered Wayfarer
-4 Tundra
 4 Solitude
+4 Tundra
 4 Aether Vial
 4 Weathered Wayfarer
 4 Meddling Mage
 4 Recruiter of the Guard
+1 Savannah
+1 Tropical Island
 1 Snow-Covered Forest
 1 Uro, Titan of Nature's Wrath
-1 Tropical Island
-1 Savannah
 2 Uro, Titan of Nature's Wrath
 3 Misty Rainforest
 4 Misty Rainforest
@@ -118,30 +118,30 @@
 5 Snow-Covered Island
 3 Prismatic Ending
 4 Scalding Tarn
-1 Ice-Fang Coatl
 1 Endurance
 1 Batterskull
+1 Ice-Fang Coatl
 1 Sylvan Library
 1 Stoneforge Mystic
-2 Tropical Island
-2 Snow-Covered Forest
-2 Ice-Fang Coatl
 2 Endurance
 2 Stoneforge Mystic
-3 Stoneforge Mystic
+2 Ice-Fang Coatl
+2 Tropical Island
+2 Snow-Covered Forest
 3 Ice-Fang Coatl
+3 Stoneforge Mystic
 1 Snow-Covered Mountain
 4 Prismatic Vista
 1 Mishra's Factory
 2 Mishra's Factory
 3 Polluted Delta
 3 Uro, Titan of Nature's Wrath
-1 Underground Sea
 1 Swamp
+1 Underground Sea
 1 Knight of the White Orchid
 2 Knight of the White Orchid
-1 Niambi, Esteemed Speaker
 1 Charming Prince
+1 Niambi, Esteemed Speaker
 4 Brought Back
 1 Cast Out
 1 Doomskar
@@ -182,6 +182,34 @@
 3 Ominous Seas
 1 Relic of Progenitus
 4 Prismatic Ending
+1 Day's Undoing
+2 Day's Undoing
+2 Hullbreacher
+3 Mishra's Factory
+3 Narset, Parter of Veils
+4 Force of Negation
+1 Abrupt Decay
+1 Mox Diamond
+1 Life from the Loam
+1 Tranquil Thicket
+1 Forest
+1 Verdant Catacombs
+1 Bojuka Bog
+1 Crop Rotation
+1 Field of the Dead
+1 Bayou
+1 Lonely Sandbar
+2 Abrupt Decay
+2 Mox Diamond
+2 Life from the Loam
+2 Field of the Dead
+3 Mox Diamond
+3 Abrupt Decay
+3 Life from the Loam
+4 Abrupt Decay
+4 Mox Diamond
+4 Uro, Titan of Nature's Wrath
+4 Wasteland
 1 Omen of the Sea
 1 Vanishing Verse
 1 Trial of Ambition
@@ -193,31 +221,3 @@
 2 Trial of Ambition
 3 Omen of the Sea
 4 Polluted Delta
-1 Day's Undoing
-2 Hullbreacher
-2 Day's Undoing
-3 Mishra's Factory
-3 Narset, Parter of Veils
-4 Force of Negation
-1 Mox Diamond
-1 Tranquil Thicket
-1 Life from the Loam
-1 Bayou
-1 Verdant Catacombs
-1 Bojuka Bog
-1 Crop Rotation
-1 Abrupt Decay
-1 Field of the Dead
-1 Forest
-1 Lonely Sandbar
-2 Mox Diamond
-2 Life from the Loam
-2 Abrupt Decay
-2 Field of the Dead
-3 Mox Diamond
-3 Abrupt Decay
-3 Life from the Loam
-4 Abrupt Decay
-4 Uro, Titan of Nature's Wrath
-4 Mox Diamond
-4 Wasteland

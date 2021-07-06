@@ -2,8 +2,8 @@
 1 Dismember
 1 Walking Ballista
 1 Thragtusk
-2 Walking Ballista
 3 All Is Dust
+2 Walking Ballista
 1 Emrakul, the Promised End
 1 Pithing Needle
 1 Urza's Saga
@@ -32,15 +32,16 @@
 2 Warping Wail
 3 Thragtusk
 3 Ulamog, the Ceaseless Hunger
+1 Breeding Pool
 1 Nurturing Peatland
 1 Labyrinth of Skophos
 1 Urza's Factory
-1 Scavenger Grounds
-1 Thought-Knot Seer
-2 Thought-Knot Seer
 1 Golos, Tireless Pilgrim
 1 Cascading Cataracts
 2 Golos, Tireless Pilgrim
+1 Scavenger Grounds
+1 Thought-Knot Seer
+2 Thought-Knot Seer
 1 Explore
 2 Explore
 3 Explore
@@ -49,7 +50,6 @@
 4 Warping Wail
 1 Gemstone Caverns
 1 Omniscience
-1 Breeding Pool
 1 Kozilek, Butcher of Truth
 1 Emrakul, the Aeons Torn
 1 Island
@@ -75,11 +75,37 @@
 4 Woodweaver's Puzzleknot
 4 Aetherworks Marvel
 4 Aether Hub
+1 Snow-Covered Island
+1 Botanical Sanctum
+1 Barkchannel Pathway
+1 Remand
+1 Thirst for Knowledge
+1 Talisman of Curiosity
+1 Tolaria West
+1 Mindslaver
+1 Repeal
+1 Condescend
+1 Academy Ruins
+1 Sundering Titan
+2 Snow-Covered Island
+2 Botanical Sanctum
+2 Barkchannel Pathway
+2 Remand
+2 Talisman of Curiosity
+2 Condescend
+2 Thirst for Knowledge
+3 Barkchannel Pathway
+3 Botanical Sanctum
+3 Condescend
+3 Remand
+3 Thirst for Knowledge
+4 Remand
+4 Condescend
 1 Ghost Quarter
 1 Mox Tantalite
 2 Mox Tantalite
-3 Ugin, the Spirit Dragon
 3 Walking Ballista
+3 Ugin, the Spirit Dragon
 3 Mox Tantalite
 4 All Is Dust
 4 Mox Tantalite

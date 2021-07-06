@@ -39,8 +39,8 @@
 1 Pact of Negation
 1 Enter the Infinite
 1 Thassa's Oracle
-2 Pact of Negation
 2 Sleight of Hand
+2 Pact of Negation
 3 Sleight of Hand
 3 City of Traitors
 4 Sleight of Hand
@@ -53,21 +53,21 @@
 1 Volcanic Island
 4 Emrakul, the Aeons Torn
 1 Elvish Reclaimer
-1 Dress Down
 1 Wasteland
-1 Urza's Saga
 1 Phyrexian Dreadnought
+1 Urza's Saga
+1 Dress Down
 1 Pithing Needle
 1 Mosswort Bridge
 2 Elvish Reclaimer
-2 Dress Down
 2 Urza's Saga
 2 Phyrexian Dreadnought
+2 Dress Down
 2 Mosswort Bridge
 3 Elvish Reclaimer
-3 Dress Down
 3 Phyrexian Dreadnought
 3 Urza's Saga
+3 Dress Down
 3 Mosswort Bridge
 4 Mosswort Bridge
 2 Ancient Tomb
@@ -77,8 +77,8 @@
 6 Snow-Covered Island
 1 Soul-Guide Lantern
 4 Elvish Reclaimer
-4 Dress Down
 4 Phyrexian Dreadnought
+4 Dress Down
 3 Lotus Petal
 4 Solve the Equation
 1 Plains
@@ -105,6 +105,10 @@
 1 Abundant Growth
 2 Abundant Growth
 4 Ice-Fang Coatl
+2 Tundra
+2 Orim's Chant
+2 Mystic Sanctuary
+4 Teferi, Time Raveler
 1 Wavesifter
 1 Archon of Cruelty
 1 Mountain
@@ -142,10 +146,6 @@
 4 Khalni Garden
 4 Archon of Cruelty
 4 Wooded Foothills
-2 Tundra
-2 Orim's Chant
-2 Mystic Sanctuary
-4 Teferi, Time Raveler
 2 Sylvan Library
 4 Veil of Summer
 1 Ragavan, Nimble Pilferer
