@@ -4,26 +4,26 @@
 1 Gilded Goose
 2 Lotus Cobra
 1 Basri's Lieutenant
-1 Brightclimb Pathway
-1 Blightstep Pathway
 1 Barkchannel Pathway
+1 Blightstep Pathway
 1 Darkbore Pathway
-2 Brightclimb Pathway
+1 Brightclimb Pathway
 2 Blightstep Pathway
 2 Darkbore Pathway
+2 Brightclimb Pathway
 2 Gilded Goose
 2 Reidane, God of the Worthy
 2 Basri's Lieutenant
-3 Brightclimb Pathway
 3 Blightstep Pathway
-3 Reidane, God of the Worthy
 3 Darkbore Pathway
+3 Brightclimb Pathway
+3 Reidane, God of the Worthy
 3 Gilded Goose
 3 Kenrith, the Returned King
 3 Lotus Cobra
 4 Darkbore Pathway
-4 Gilded Goose
 4 Lotus Cobra
+4 Gilded Goose
 4 Kenrith, the Returned King
 3 Skyclave Apparition
 9 Plains
@@ -46,10 +46,10 @@
 3 Professor of Symbology
 4 Professor of Symbology
 1 Shatterskull Smashing
-1 Spikefield Hazard
 1 Starnheim Unleashed
-2 Spikefield Hazard
+1 Spikefield Hazard
 2 Starnheim Unleashed
+2 Spikefield Hazard
 3 Starnheim Unleashed
 1 Seasoned Hallowblade
 2 Shatterskull Smashing
@@ -92,12 +92,12 @@
 4 Pack Leader
 8 Mountain
 1 Skyclave Cleric
-2 Seasoned Hallowblade
 2 Skyclave Cleric
+2 Seasoned Hallowblade
 1 Rimrock Knight
+3 Basri's Lieutenant
 2 Tangled Florahedron
 3 Tangled Florahedron
-3 Basri's Lieutenant
 4 Alpine Watchdog
 4 Igneous Cur
 1 Luminarch Aspirant
@@ -119,16 +119,16 @@
 1 Vivien, Monsters' Advocate
 2 Forest
 4 Fabled Passage
-1 Snow-Covered Mountain
 1 Snow-Covered Plains
+1 Snow-Covered Mountain
 1 Showdown of the Skalds
 2 Temple of Triumph
-1 Akoum Hellhound
-2 Akoum Hellhound
-1 The Akroan War
 1 Goldspan Dragon
+1 The Akroan War
 1 Turntimber Symbiosis
 2 Turntimber Symbiosis
+1 Akoum Hellhound
+2 Akoum Hellhound
 4 Reidane, God of the Worthy
 1 Proud Wildbonder
 2 Proud Wildbonder
@@ -147,19 +147,13 @@
 4 Skyclave Cleric
 4 Seasoned Hallowblade
 4 Clarion Spirit
-1 Drannith Magistrate
-1 Gallia of the Endless Dance
-2 Klothys, God of Destiny
-2 Vivien, Monsters' Advocate
-3 Forest
-4 Forest
 1 Faceless Haven
-2 Snow-Covered Mountain
 2 Snow-Covered Plains
-3 Snow-Covered Mountain
+2 Snow-Covered Mountain
 3 Snow-Covered Plains
-4 Snow-Covered Mountain
+3 Snow-Covered Mountain
 4 Snow-Covered Plains
+4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 5 Snow-Covered Plains
 6 Snow-Covered Plains
@@ -169,3 +163,9 @@
 10 Snow-Covered Plains
 9 Mountain
 13 Plains
+1 Drannith Magistrate
+1 Gallia of the Endless Dance
+2 Klothys, God of Destiny
+2 Vivien, Monsters' Advocate
+3 Forest
+4 Forest
