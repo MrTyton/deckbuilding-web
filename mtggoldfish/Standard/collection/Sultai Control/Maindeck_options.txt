@@ -44,8 +44,8 @@
 4 Behold the Multiverse
 1 Duress
 1 Blightstep Pathway
-1 Brightclimb Pathway
 1 Plains
+1 Brightclimb Pathway
 2 Brightclimb Pathway
 3 Brightclimb Pathway
 1 Vanishing Verse
@@ -72,9 +72,9 @@
 6 Swamp
 2 Ashiok, Nightmare Muse
 1 Lithoform Blight
-1 Crippling Fear
 1 Quandrix Cultivator
 1 Pestilent Haze
+1 Crippling Fear
 3 Shadows' Verdict
 4 Elder Gargaroth
 2 Test of Talents
@@ -111,18 +111,17 @@
 4 Bloodchief's Thirst
 4 Mystical Dispute
 4 Pelakka Predation
-1 The Birth of Meletis
+1 Skyclave Apparition
 1 Snow-Covered Plains
-1 Snow-Covered Swamp
-1 Temple of Silence
 1 Glass Casket
+1 Temple of Silence
 1 Faceless Haven
 1 Snow-Covered Forest
 1 Mythos of Nethroi
-1 Elite Spellbinder
-1 Skyclave Apparition
-1 Treacherous Blessing
 1 Kaya the Inexorable
+1 Snow-Covered Swamp
+1 Elite Spellbinder
+1 Treacherous Blessing
 1 Clackbridge Troll
 1 The World Tree
 1 Doom Foretold
@@ -135,29 +134,30 @@
 1 Agadeem's Awakening
 1 The Binding of the Titans
 1 Temple of Plenty
+1 The Birth of Meletis
 1 Tergrid, God of Fright
-2 The Birth of Meletis
+2 Skyclave Apparition
+2 Snow-Covered Plains
 2 Temple of Silence
+2 The Birth of Meletis
 2 Mythos of Nethroi
 2 Glass Casket
-2 Snow-Covered Plains
+2 Elite Spellbinder
 2 Yorion, Sky Nomad
 2 Bala Ged Recovery
-2 Elite Spellbinder
 2 Indatha Triome
 2 Doom Foretold
 2 Llanowar Visionary
 2 The Binding of the Titans
-2 Skyclave Apparition
 2 Eerie Ultimatum
 2 Elspeth Conquers Death
 2 Charming Prince
 2 Treacherous Blessing
 3 Mythos of Nethroi
-3 The Birth of Meletis
 3 Eerie Ultimatum
 3 Doom Foretold
 3 The Binding of the Titans
+3 The Birth of Meletis
 3 Indatha Triome
 3 Charming Prince
 3 Yorion, Sky Nomad
@@ -169,11 +169,13 @@
 2 Ketria Triome
 1 Solemn Simulacrum
 2 Professor Onyx
-2 Ugin, the Spirit Dragon
 2 Solemn Simulacrum
+2 Ugin, the Spirit Dragon
 3 Solemn Simulacrum
 2 Hagra Mauling
 3 Hagra Mauling
+1 Dream Trawler
+4 Plains
 1 Koma, Cosmos Serpent
 4 Forest
 1 Castle Ardenvale
@@ -182,14 +184,12 @@
 4 Vanishing Verse
 4 Raugrin Triome
 1 Baleful Mastery
-1 Suffocating Fumes
 1 Temple of Enlightenment
+1 Suffocating Fumes
 2 Temple of Enlightenment
 3 Negate
 3 Temple of Enlightenment
 4 Temple of Enlightenment
-1 Dream Trawler
-4 Plains
 1 The Biblioplex
 3 Field of Ruin
 3 Ashiok, Nightmare Muse
