@@ -1,40 +1,42 @@
+1 Brightclimb Pathway
+2 Needleverge Pathway
+2 Brightclimb Pathway
+1 Eyetwitch
+2 Eyetwitch
+3 Eyetwitch
+1 Bastion of Remembrance
+2 Bastion of Remembrance
+1 Plumb the Forbidden
 2 Plumb the Forbidden
 3 Bastion of Remembrance
 4 Bastion of Remembrance
+3 Needleverge Pathway
+4 Eyetwitch
 3 Brightclimb Pathway
 4 Brightclimb Pathway
-3 Heartless Act
-1 Valki, God of Lies
-3 Temple of Malice
-2 Castle Locthwain
-4 Eyetwitch
-1 Savai Triome
 1 Extus, Oriq Overlord
 2 Extus, Oriq Overlord
-4 Temple of Malice
-1 Pelakka Predation
-3 Immersturm Predator
-4 Heartless Act
 3 Kroxa, Titan of Death's Hunger
 1 Forbidden Friendship
 2 Forbidden Friendship
-2 Pelakka Predation
-2 Valki, God of Lies
+1 Savai Triome
+4 Immersturm Predator
 3 Forbidden Friendship
 1 Serrated Scorpion
 2 Serrated Scorpion
 1 Shatterskull Smashing
-2 Savai Triome
-1 Kazuul's Fury
 3 Plumb the Forbidden
 4 Forbidden Friendship
 3 Extus, Oriq Overlord
 3 Serrated Scorpion
-3 Savai Triome
-4 Needleverge Pathway
-4 Immersturm Predator
+2 Savai Triome
+1 Kazuul's Fury
 4 Serrated Scorpion
 2 Shatterskull Smashing
+3 Savai Triome
+4 Needleverge Pathway
+4 Kroxa, Titan of Death's Hunger
+1 Rankle, Master of Pranks
 2 Kazuul's Fury
 1 Drannith Magistrate
 1 Elite Spellbinder
@@ -56,8 +58,6 @@
 3 Kazuul's Fury
 3 Unleash Fury
 4 Savai Triome
-4 Kroxa, Titan of Death's Hunger
-1 Rankle, Master of Pranks
 5 Mountain
 4 Plumb the Forbidden
 2 Rankle, Master of Pranks
@@ -100,20 +100,20 @@
 1 Murderous Rider
 2 Sedgemoor Witch
 3 Sedgemoor Witch
-1 Scavenging Ooze
 1 Snow-Covered Forest
-1 Extinction Event
-1 Questing Beast
-1 Polukranos, Unchained
+1 Scavenging Ooze
 1 Garruk, Cursed Huntsman
+1 Questing Beast
+1 Extinction Event
+1 Polukranos, Unchained
 1 Blood on the Snow
 2 Scavenging Ooze
 2 Snow-Covered Forest
-2 Extinction Event
-2 Blood on the Snow
-2 Questing Beast
-2 Polukranos, Unchained
 2 Garruk, Cursed Huntsman
+2 Questing Beast
+2 Extinction Event
+2 Polukranos, Unchained
+2 Blood on the Snow
 3 Snow-Covered Forest
 3 Extinction Event
 3 Blood on the Snow
@@ -130,26 +130,26 @@
 11 Snow-Covered Swamp
 3 Tymaret Calls the Dead
 2 Murderous Rider
-1 Spikefield Hazard
 1 Ox of Agonas
-2 Spikefield Hazard
+1 Spikefield Hazard
 2 Shredded Sails
+2 Spikefield Hazard
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
-1 Plains
-1 Giant Killer
-1 Felidar Retreat
-1 Clarion Spirit
-1 Thrilling Discovery
-2 Giant Killer
-2 Thrilling Discovery
-2 Clarion Spirit
-2 Plains
-3 Giant Killer
 1 Go Blank
 2 Go Blank
 3 Go Blank
 3 Murderous Rider
+1 Plains
+1 Clarion Spirit
+1 Felidar Retreat
+1 Giant Killer
+1 Thrilling Discovery
+2 Thrilling Discovery
+2 Clarion Spirit
+2 Giant Killer
+2 Plains
+3 Giant Killer
 1 Fireblade Charger
 2 Fireblade Charger
 3 Fireblade Charger
@@ -165,9 +165,9 @@
 2 Malakir Rebirth
 2 Agadeem's Awakening
 2 Dramatic Finale
-3 Agadeem's Awakening
 3 Dramatic Finale
 3 Malakir Rebirth
+3 Agadeem's Awakening
 4 Hunt for Specimens
 4 Dramatic Finale
 4 Sedgemoor Witch
