@@ -62,8 +62,8 @@
 1 Snow-Covered Island
 1 Shark Typhoon
 1 Omen of the Sea
-2 Omen of the Sea
 2 Shark Typhoon
+2 Omen of the Sea
 3 Estrid's Invocation
 1 Taiga
 1 Seal of Primordium
@@ -97,25 +97,25 @@
 2 Spreading Seas
 2 Words of Wind
 2 Energy Field
+3 Shark Typhoon
 3 Omen of the Sea
 3 Spreading Seas
-3 Shark Typhoon
 3 Energy Field
 4 Shark Typhoon
+4 Misty Rainforest
 4 Spreading Seas
 4 Omen of the Sea
-4 Misty Rainforest
 9 Snow-Covered Forest
 10 Snow-Covered Forest
 11 Snow-Covered Forest
-1 Snow-Covered Swamp
 1 Arcum's Astrolabe
+1 Snow-Covered Swamp
 1 Snow-Covered Mountain
 1 Trail of Crumbs
-1 Detention Sphere
-1 Happily Ever After
 1 Bitterblossom
+1 Happily Ever After
 1 Supreme Verdict
+1 Detention Sphere
 1 The Royal Scions
 1 Brazen Borrower
 1 Arcane Laboratory
@@ -125,10 +125,10 @@
 2 Trail of Crumbs
 3 Arcum's Astrolabe
 1 Oath of Nissa
+1 Enlightened Tutor
 1 Abundance
 1 Candelabra of Tawnos
 1 Elvish Spirit Guide
-1 Enlightened Tutor
 1 Dryad Arbor
 1 Fertile Ground
 1 Replenish
@@ -144,9 +144,9 @@
 3 Abundant Harvest
 1 Archon of Valor's Reach
 4 Wooded Foothills
-1 Island
 1 Karn, the Great Creator
 1 Leyline of the Void
+1 Island
 2 Karn, the Great Creator
 2 Leyline of the Void
 3 Karn, the Great Creator
@@ -156,9 +156,8 @@
 1 Ancient Tomb
 9 Forest
 1 Field of the Dead
-1 Life from the Loam
 1 Valakut Exploration
-1 Crop Rotation
+1 Life from the Loam
 1 Mox Diamond
 1 Rishadan Port
 1 Bojuka Bog
@@ -166,6 +165,7 @@
 1 The Tabernacle at Pendrell Vale
 1 Dark Depths
 1 Thespian's Stage
+1 Crop Rotation
 1 Maze of Ith
 2 Taiga
 2 Valakut Exploration
@@ -178,13 +178,13 @@
 2 Dark Depths
 2 Exploration
 2 Maze of Ith
-3 Wasteland
 3 Life from the Loam
 3 Mox Diamond
 3 Rishadan Port
 3 Thespian's Stage
 3 Mirri's Guile
 3 Crop Rotation
+3 Wasteland
 3 Valakut Exploration
 3 Exploration
 4 Valakut Exploration

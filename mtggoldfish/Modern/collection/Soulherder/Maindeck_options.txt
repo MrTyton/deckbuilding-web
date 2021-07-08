@@ -60,9 +60,9 @@
 1 Mystic Gate
 4 Snow-Covered Plains
 1 Mountain
+1 Stoneforge Mystic
 1 Batterskull
 1 Sword of Fire and Ice
-1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
@@ -117,10 +117,10 @@
 3 Meddling Mage
 4 Meddling Mage
 2 Mystic Gate
-1 Seachrome Coast
 1 Elite Spellbinder
-2 Seachrome Coast
+1 Seachrome Coast
 2 Elite Spellbinder
+2 Seachrome Coast
 3 Elite Spellbinder
 3 Charming Prince
 4 Charming Prince
@@ -202,11 +202,11 @@
 3 Clifftop Retreat
 4 Clifftop Retreat
 1 Tectonic Edge
-1 Eidolon of Rhetoric
 1 Savai Triome
 1 Esper Sentinel
-2 Tectonic Edge
+1 Eidolon of Rhetoric
 2 Esper Sentinel
+2 Tectonic Edge
 3 Esper Sentinel
 3 Tectonic Edge
 4 Esper Sentinel
@@ -234,9 +234,9 @@
 4 Oath of Nissa
 4 Soulherder
 1 Ancient Ziggurat
-1 Overgrown Tomb
 1 Zagoth Triome
 1 Tidehollow Sculler
+1 Overgrown Tomb
 1 Abundant Growth
 1 Wasteland Strangler
 2 Ancient Ziggurat
@@ -249,10 +249,10 @@
 4 Ancient Ziggurat
 4 Abundant Growth
 4 Tidehollow Sculler
-1 Botanical Sanctum
-1 Verdant Catacombs
 1 Lavinia, Azorius Renegade
 1 Phyrexian Revoker
+1 Botanical Sanctum
+1 Verdant Catacombs
 1 Kataki, War's Wage
 1 Wooded Bastion
 1 Lonis, Cryptozoologist

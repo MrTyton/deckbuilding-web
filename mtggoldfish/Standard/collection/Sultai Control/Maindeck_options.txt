@@ -1,11 +1,11 @@
 3 Swamp
-3 Elder Gargaroth
 3 Temple of Malady
+3 Elder Gargaroth
 1 Mazemind Tome
 1 Soul Shatter
 3 Mystical Dispute
-2 Disdainful Stroke
 2 Mazemind Tome
+2 Disdainful Stroke
 1 Saw It Coming
 1 Erebos's Intervention
 1 Shark Typhoon
@@ -22,36 +22,37 @@
 1 Test of Talents
 4 Island
 2 Temple of Deceit
-3 Extinction Event
-1 Castle Locthwain
 3 Saw It Coming
 1 Behold the Multiverse
+3 Extinction Event
 4 Extinction Event
 4 Swamp
-1 Field of Ruin
+1 Castle Locthwain
 2 Negate
 1 Lochmere Serpent
 3 Mazemind Tome
 4 Mazemind Tome
 2 Erebos's Intervention
+1 Field of Ruin
 2 Castle Vantress
 2 Behold the Multiverse
 1 Essence Scatter
 4 Shark Typhoon
-1 Bala Ged Recovery
 1 Crawling Barrens
 3 Behold the Multiverse
 4 Behold the Multiverse
+3 Shadows' Verdict
+1 Bala Ged Recovery
 1 Duress
 1 Blightstep Pathway
-1 Plains
 1 Brightclimb Pathway
-2 Brightclimb Pathway
-3 Brightclimb Pathway
 1 Vanishing Verse
 1 Hengegate Pathway
+1 Plains
+2 Brightclimb Pathway
 2 Vanishing Verse
 2 Hengegate Pathway
+3 Brightclimb Pathway
 3 Vanishing Verse
 3 Hengegate Pathway
 4 Brightclimb Pathway
@@ -71,14 +72,13 @@
 5 Swamp
 6 Swamp
 2 Ashiok, Nightmare Muse
-1 Lithoform Blight
 1 Quandrix Cultivator
 1 Pestilent Haze
 1 Crippling Fear
-3 Shadows' Verdict
 4 Elder Gargaroth
 2 Test of Talents
 3 Test of Talents
+1 Lithoform Blight
 1 Raugrin Triome
 2 Plains
 2 Raugrin Triome
@@ -94,90 +94,32 @@
 3 Castle Vantress
 1 Easy Prey
 2 Easy Prey
-3 Soul Shatter
 3 Crawling Barrens
+3 Soul Shatter
 4 Soul Shatter
 3 Eliminate
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
 7 Swamp
 1 Ugin, the Spirit Dragon
-1 Indatha Triome
-3 Elspeth's Nightmare
 3 Bloodchief's Thirst
 3 Lochmere Serpent
 3 Temple of Deceit
-4 Temple of Deceit
 4 Bloodchief's Thirst
 4 Mystical Dispute
 4 Pelakka Predation
-1 Skyclave Apparition
-1 Snow-Covered Plains
-1 Glass Casket
-1 Temple of Silence
-1 Faceless Haven
-1 Snow-Covered Forest
-1 Mythos of Nethroi
-1 Kaya the Inexorable
-1 Snow-Covered Swamp
-1 Elite Spellbinder
-1 Treacherous Blessing
-1 Clackbridge Troll
-1 The World Tree
-1 Doom Foretold
-1 Branchloft Pathway
-1 Yorion, Sky Nomad
-1 Llanowar Visionary
-1 Eerie Ultimatum
-1 Charming Prince
-1 Elspeth Conquers Death
-1 Agadeem's Awakening
-1 The Binding of the Titans
-1 Temple of Plenty
-1 The Birth of Meletis
-1 Tergrid, God of Fright
-2 Skyclave Apparition
-2 Snow-Covered Plains
-2 Temple of Silence
-2 The Birth of Meletis
-2 Mythos of Nethroi
-2 Glass Casket
-2 Elite Spellbinder
-2 Yorion, Sky Nomad
-2 Bala Ged Recovery
-2 Indatha Triome
-2 Doom Foretold
-2 Llanowar Visionary
-2 The Binding of the Titans
-2 Eerie Ultimatum
-2 Elspeth Conquers Death
-2 Charming Prince
-2 Treacherous Blessing
-3 Mythos of Nethroi
-3 Eerie Ultimatum
-3 Doom Foretold
-3 The Binding of the Titans
-3 The Birth of Meletis
-3 Indatha Triome
-3 Charming Prince
-3 Yorion, Sky Nomad
-4 Doom Foretold
-4 Indatha Triome
+4 Temple of Deceit
 1 Temple of Mystery
 1 Eureka Moment
 2 Eureka Moment
 2 Ketria Triome
 1 Solemn Simulacrum
+2 Ugin, the Spirit Dragon
 2 Professor Onyx
 2 Solemn Simulacrum
-2 Ugin, the Spirit Dragon
 3 Solemn Simulacrum
 2 Hagra Mauling
 3 Hagra Mauling
-1 Dream Trawler
-4 Plains
-1 Koma, Cosmos Serpent
-4 Forest
 1 Castle Ardenvale
 1 Doomskar
 3 Raugrin Triome
@@ -190,12 +132,18 @@
 3 Negate
 3 Temple of Enlightenment
 4 Temple of Enlightenment
-1 The Biblioplex
-3 Field of Ruin
-3 Ashiok, Nightmare Muse
-4 Field of Ruin
-6 Island
+1 Dream Trawler
+4 Plains
+1 Indatha Triome
 2 Essence Scatter
 3 Easy Prey
 4 Crawling Barrens
 4 Easy Prey
+1 Koma, Cosmos Serpent
+4 Forest
+1 The Biblioplex
+3 Field of Ruin
+3 Ashiok, Nightmare Muse
+3 Elspeth's Nightmare
+6 Island
+4 Field of Ruin

@@ -1,5 +1,11 @@
-1 Dryad of the Ilysian Grove
+1 Island
+4 Uro, Titan of Nature's Wrath
+1 Savannah
 1 Cavern of Souls
+1 Bojuka Bog
+1 Archon of Emeria
+1 Glacial Chasm
+1 Dryad of the Ilysian Grove
 1 Vesuva
 1 Mox Diamond
 1 Valakut, the Molten Pinnacle
@@ -10,44 +16,42 @@
 3 Elvish Reclaimer
 3 Archon of Emeria
 4 Elvish Reclaimer
-3 Tropical Island
 1 Waterlogged Grove
-1 Grist, the Hunger Tide
 1 Endurance
 1 Drownyard Temple
 2 Cavern of Souls
 3 Mox Diamond
 1 Simic Growth Chamber
 3 Sylvan Library
-2 Polluted Delta
 1 Ponder
 2 Wasteland
 1 Hexdrinker
 1 Questing Beast
-1 Jace, the Mind Sculptor
 4 Ice-Fang Coatl
-2 Snow-Covered Island
+1 Fatal Push
+2 Force of Negation
 2 Valakut, the Molten Pinnacle
 2 Dryad of the Ilysian Grove
-1 Force of Negation
 4 Archon of Emeria
 4 Sylvan Library
+3 Polluted Delta
+2 Fatal Push
 3 Cavern of Souls
 3 Dryad of the Ilysian Grove
 4 Dryad of the Ilysian Grove
 4 Cavern of Souls
-1 Ancient Tomb
 2 Leovold, Emissary of Trest
 3 Noble Hierarch
 4 Abrupt Decay
 1 Tundra
-1 Swords to Plowshares
 1 Teferi, Time Raveler
+1 Swords to Plowshares
 2 Swords to Plowshares
 2 Forest
-2 Force of Negation
-1 Fatal Push
-3 Polluted Delta
+1 Ancient Tomb
+1 Baleful Strix
+2 Baleful Strix
+3 Baleful Strix
 2 Ponder
 3 Ponder
 4 Ponder
@@ -56,7 +60,6 @@
 2 Endurance
 2 Jace, the Mind Sculptor
 2 Teferi, Time Raveler
-2 Fatal Push
 1 Horizon Canopy
 4 Mox Diamond
 1 Crop Rotation
@@ -74,12 +77,14 @@
 2 Daze
 3 Daze
 3 Endurance
-1 Baleful Strix
-2 Baleful Strix
-3 Baleful Strix
 2 Birds of Paradise
 1 Swamp
 2 Bayou
+1 Assassin's Trophy
+1 Brazen Borrower
+2 Brazen Borrower
+2 Assassin's Trophy
+3 Fatal Push
 1 Stifle
 2 Stifle
 3 Stifle
@@ -112,35 +117,37 @@
 1 Opposition Agent
 1 Heliod, Sun-Crowned
 1 Spike Feeder
-2 Drown in the Loch
 2 True-Name Nemesis
 2 Neoform
 2 Unearth
 2 Snapcaster Mage
 2 Sea Gate Stormcaller
+2 Drown in the Loch
 2 Cabal Therapy
 3 Neoform
 3 Cabal Therapy
 3 Sea Gate Stormcaller
 4 Sea Gate Stormcaller
-1 Titania, Protector of Argoth
 1 Tireless Tracker
+1 Titania, Protector of Argoth
 1 Dark Depths
 1 Collector Ouphe
 2 Horizon Canopy
-1 Bala Ged Recovery
 1 Valakut Awakening
+1 Bala Ged Recovery
 1 Omnath, Locus of Creation
 1 Sejiri Shelter
 2 Valakut Awakening
 2 Bala Ged Recovery
 3 Valakut Awakening
-1 Assassin's Trophy
-1 Brazen Borrower
-2 Brazen Borrower
-2 Assassin's Trophy
 3 Assassin's Trophy
-3 Fatal Push
+1 Windswept Heath
+1 Vanishing Verse
+1 Jolrael, Mwonvuli Recluse
+2 Windswept Heath
+2 Savannah
+3 Teferi, Time Raveler
+3 Windswept Heath
 1 Witherbloom Command
 2 Grist, the Hunger Tide
 3 Grist, the Hunger Tide
@@ -149,13 +156,21 @@
 2 Growth Spiral
 2 Simic Growth Chamber
 3 Growth Spiral
-1 Windswept Heath
-1 Vanishing Verse
-1 Jolrael, Mwonvuli Recluse
-2 Windswept Heath
-2 Savannah
-3 Windswept Heath
-3 Teferi, Time Raveler
+1 Collected Company
+2 Collected Company
+2 Hullbreacher
+3 Hullbreacher
+3 Collected Company
+3 Plague Engineer
+4 Collected Company
+4 Hullbreacher
+4 Endurance
+4 Plague Engineer
+1 Once Upon a Time
+1 Pyrite Spellbomb
+2 Once Upon a Time
+3 Once Upon a Time
+4 Once Upon a Time
 1 Shark Typhoon
 1 Thoughtseize
 1 Scrubland
@@ -165,21 +180,6 @@
 3 Thoughtseize
 4 Baleful Strix
 4 Thoughtseize
-1 Pyrite Spellbomb
-1 Once Upon a Time
-2 Once Upon a Time
-3 Once Upon a Time
-4 Once Upon a Time
-1 Collected Company
-2 Collected Company
-2 Hullbreacher
-3 Hullbreacher
-3 Collected Company
-3 Plague Engineer
-4 Collected Company
-4 Hullbreacher
-4 Plague Engineer
-4 Endurance
 1 Progenitus
 1 Natural Order
 1 Prismatic Vista

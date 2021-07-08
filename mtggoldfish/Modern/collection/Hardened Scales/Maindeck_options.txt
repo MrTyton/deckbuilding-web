@@ -70,12 +70,6 @@
 2 Steel Overseer
 1 Crystalline Giant
 2 Crystalline Giant
-1 Mishra's Bauble
-1 Temple Garden
-2 Mishra's Bauble
-2 Temple Garden
-3 Mishra's Bauble
-4 Mishra's Bauble
 1 Urborg, Tomb of Yawgmoth
 1 Spellskite
 1 Darkbore Pathway
@@ -86,6 +80,12 @@
 3 Llanowar Wastes
 4 Darkbore Pathway
 4 Llanowar Wastes
+1 Temple Garden
+1 Mishra's Bauble
+2 Mishra's Bauble
+2 Temple Garden
+3 Mishra's Bauble
+4 Mishra's Bauble
 1 Prismatic Ending
 2 Plains
 2 Prismatic Ending
@@ -101,20 +101,20 @@
 1 Windswept Heath
 1 Winding Constrictor
 2 Nurturing Peatland
-2 Verdant Catacombs
 2 Utopia Sprawl
 2 Fatal Push
 2 Winding Constrictor
 2 Windswept Heath
+2 Verdant Catacombs
 2 Overgrown Tomb
-3 Verdant Catacombs
 3 Utopia Sprawl
 3 Fatal Push
 3 Windswept Heath
 3 Winding Constrictor
+3 Verdant Catacombs
+4 Utopia Sprawl
 4 Fatal Push
 4 Verdant Catacombs
-4 Utopia Sprawl
 4 Windswept Heath
 4 Animation Module
 4 Winding Constrictor
