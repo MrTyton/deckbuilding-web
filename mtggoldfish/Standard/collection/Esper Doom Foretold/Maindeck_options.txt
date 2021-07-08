@@ -47,17 +47,17 @@
 1 Skyclave Apparition
 1 Niko Aris
 3 Doomskar
-1 Professor of Symbology
 1 Ashiok, Nightmare Muse
 1 Saw It Coming
+1 Professor of Symbology
 2 Ashiok, Nightmare Muse
-2 Professor of Symbology
 2 Saw It Coming
-3 Professor of Symbology
+2 Professor of Symbology
 3 Saw It Coming
 3 Ashiok, Nightmare Muse
-4 Professor of Symbology
+3 Professor of Symbology
 4 Saw It Coming
+4 Professor of Symbology
 2 Skyclave Apparition
 4 The Raven's Warning
 1 Dream Trawler
@@ -81,8 +81,8 @@
 2 Lithoform Blight
 1 Shadrix Silverquill
 2 Shadrix Silverquill
-1 Pelakka Predation
 1 Test of Talents
+1 Pelakka Predation
 2 Castle Locthwain
 2 Ugin, the Spirit Dragon
 2 Test of Talents
@@ -94,8 +94,8 @@
 1 Firja's Retribution
 1 The Trickster-God's Heist
 1 Medomai's Prophecy
-2 Kiora Bests the Sea God
 2 Firja's Retribution
+2 Kiora Bests the Sea God
 2 Niko Aris
 2 The Trickster-God's Heist
 2 Niko Defies Destiny
@@ -110,17 +110,14 @@
 1 Essence Scatter
 1 Fracture
 2 Essence Scatter
-2 Shatter the Sky
 2 Fracture
-1 Alela, Artful Provocateur
-2 Aphemia, the Cacophony
-3 Temple of Enlightenment
+2 Shatter the Sky
 1 Field of Ruin
-1 Felidar Retreat
-1 Heliod, Sun-Crowned
 1 Alseid of Life's Bounty
-1 Banishing Light
+1 Felidar Retreat
 1 Shadowspear
+1 Heliod, Sun-Crowned
+1 Banishing Light
 1 Skyclave Relic
 1 The Circle of Loyalty
 1 Cosmos Elixir
@@ -128,10 +125,13 @@
 1 Bloodline Pretender
 1 Witching Well
 1 Biblioplex Assistant
-2 Felidar Retreat
 2 Alseid of Life's Bounty
 2 Banishing Light
+2 Felidar Retreat
 3 Alseid of Life's Bounty
+1 Alela, Artful Provocateur
+2 Aphemia, the Cacophony
+3 Temple of Enlightenment
 2 Castle Vantress
 4 Yorion, Sky Nomad
 6 Swamp

@@ -44,8 +44,8 @@
 3 Noble Hierarch
 4 Abrupt Decay
 1 Tundra
-1 Teferi, Time Raveler
 1 Swords to Plowshares
+1 Teferi, Time Raveler
 2 Swords to Plowshares
 2 Forest
 1 Ancient Tomb
@@ -67,8 +67,8 @@
 1 Oboro, Palace in the Clouds
 1 Yavimaya, Cradle of Growth
 1 Urza's Saga
-1 Shadowspear
 1 Pithing Needle
+1 Shadowspear
 2 Yavimaya, Cradle of Growth
 2 Urza's Saga
 4 Tropical Island
@@ -135,19 +135,12 @@
 2 Horizon Canopy
 1 Valakut Awakening
 1 Bala Ged Recovery
-1 Omnath, Locus of Creation
 1 Sejiri Shelter
+1 Omnath, Locus of Creation
 2 Valakut Awakening
 2 Bala Ged Recovery
 3 Valakut Awakening
 3 Assassin's Trophy
-1 Windswept Heath
-1 Vanishing Verse
-1 Jolrael, Mwonvuli Recluse
-2 Windswept Heath
-2 Savannah
-3 Teferi, Time Raveler
-3 Windswept Heath
 1 Witherbloom Command
 2 Grist, the Hunger Tide
 3 Grist, the Hunger Tide
@@ -156,6 +149,27 @@
 2 Growth Spiral
 2 Simic Growth Chamber
 3 Growth Spiral
+1 Windswept Heath
+1 Vanishing Verse
+1 Jolrael, Mwonvuli Recluse
+2 Windswept Heath
+2 Savannah
+3 Windswept Heath
+3 Teferi, Time Raveler
+1 Shark Typhoon
+1 Scrubland
+1 Thoughtseize
+1 Narset, Parter of Veils
+2 Shark Typhoon
+2 Thoughtseize
+3 Thoughtseize
+4 Baleful Strix
+4 Thoughtseize
+1 Once Upon a Time
+1 Pyrite Spellbomb
+2 Once Upon a Time
+3 Once Upon a Time
+4 Once Upon a Time
 1 Collected Company
 2 Collected Company
 2 Hullbreacher
@@ -164,22 +178,8 @@
 3 Plague Engineer
 4 Collected Company
 4 Hullbreacher
-4 Endurance
 4 Plague Engineer
-1 Once Upon a Time
-1 Pyrite Spellbomb
-2 Once Upon a Time
-3 Once Upon a Time
-4 Once Upon a Time
-1 Shark Typhoon
-1 Thoughtseize
-1 Scrubland
-1 Narset, Parter of Veils
-2 Shark Typhoon
-2 Thoughtseize
-3 Thoughtseize
-4 Baleful Strix
-4 Thoughtseize
+4 Endurance
 1 Progenitus
 1 Natural Order
 1 Prismatic Vista

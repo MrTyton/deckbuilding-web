@@ -49,8 +49,8 @@
 1 Suspend
 2 Snapcaster Mage
 1 Mana Leak
-1 Wooded Foothills
 1 Breeding Pool
+1 Wooded Foothills
 2 Mana Leak
 3 Mana Leak
 1 Dreadhorde Arcanist
@@ -89,9 +89,9 @@
 1 Fatal Push
 2 Fatal Push
 3 Fatal Push
-1 Bloodstained Mire
 1 Drown in the Loch
 1 Thieves' Guild Enforcer
+1 Bloodstained Mire
 1 Soaring Thought-Thief
 2 Drown in the Loch
 2 Bloodstained Mire
@@ -108,8 +108,8 @@
 2 Snow-Covered Island
 1 Forest
 1 Tarmogoyf
-2 Tarmogoyf
 2 Breeding Pool
+2 Tarmogoyf
 3 Tarmogoyf
 4 Misty Rainforest
 4 Tarmogoyf
@@ -125,28 +125,28 @@
 1 Lightning Helix
 2 Lightning Helix
 3 Lightning Helix
-1 Grim Lavamancer
-1 Waterlogged Grove
-1 Monastery Swiftspear
-3 Fiery Islet
 1 Snakeskin Veil
 1 Burst Lightning
 1 Jace, Vryn's Prodigy
 1 Scavenging Ooze
 2 Snakeskin Veil
 3 Wooded Foothills
+1 Grim Lavamancer
+1 Waterlogged Grove
+1 Monastery Swiftspear
+3 Fiery Islet
 3 Subtlety
 1 Cling to Dust
-1 Snow-Covered Swamp
 1 Deprive
-1 Ice Tunnel
-1 Ascendant Spirit
+1 Snow-Covered Swamp
 1 Icehide Golem
 1 Archmage's Charm
+1 Ascendant Spirit
 1 Mystic Sanctuary
+1 Ice Tunnel
 1 Tyrant's Scorn
-2 Deprive
 2 Unearth
+2 Deprive
 2 Archmage's Charm
 2 Icehide Golem
 3 Snow-Covered Island
@@ -154,6 +154,12 @@
 4 Archmage's Charm
 4 Snow-Covered Island
 4 Ragavan, Nimble Pilferer
+1 Magmatic Channeler
+1 Wizard's Retort
+1 Become Immense
+2 Magmatic Channeler
+3 Magmatic Channeler
+4 Magmatic Channeler
 1 Stubborn Denial
 1 Disrupting Shoal
 1 Hexdrinker
@@ -168,6 +174,7 @@
 4 Mana Leak
 4 Disrupting Shoal
 4 Hexdrinker
+4 Island
 1 Agadeem's Awakening
 1 Verdant Catacombs
 1 Dismember
@@ -180,19 +187,12 @@
 2 Death's Shadow
 3 Dauthi Voidwalker
 3 Verdant Catacombs
-3 Thoughtseize
 3 Death's Shadow
+3 Thoughtseize
 4 Dauthi Voidwalker
 4 Verdant Catacombs
-4 Thoughtseize
 4 Death's Shadow
-1 Magmatic Channeler
-1 Wizard's Retort
-1 Become Immense
-2 Magmatic Channeler
-3 Magmatic Channeler
-4 Magmatic Channeler
-4 Island
+4 Thoughtseize
 1 Darkslick Shores
 1 Bloodchief's Thirst
 1 Ancestral Vision

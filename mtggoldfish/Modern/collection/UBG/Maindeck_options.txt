@@ -1,27 +1,24 @@
 3 Thoughtseize
 1 Island
-3 Spire of Industry
 1 The Underworld Cookbook
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
+3 Spire of Industry
 1 Darkslick Shores
 2 Darkslick Shores
 3 Darkslick Shores
 4 Darkslick Shores
-1 Engineered Explosives
 1 Whir of Invention
 2 Whir of Invention
 3 Whir of Invention
 4 Whir of Invention
+1 Engineered Explosives
 1 Botanical Sanctum
 2 Botanical Sanctum
 3 Botanical Sanctum
 4 Spire of Industry
 4 Botanical Sanctum
-1 Soul-Guide Lantern
-1 Watery Grave
-2 Watery Grave
 1 Torpor Orb
 1 Witchbane Orb
 1 Prismatic Vista
@@ -30,23 +27,18 @@
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 3 Prismatic Vista
-4 Inquisition of Kozilek
 4 Leyline of Sanctity
-2 Welding Jar
-1 Mox Amber
-1 Drown in the Loch
-1 Emry, Lurker of the Loch
-1 Crucible of Worlds
-2 Emry, Lurker of the Loch
-2 Drown in the Loch
-3 Emry, Lurker of the Loch
-4 Emry, Lurker of the Loch
+4 Inquisition of Kozilek
 1 Overgrown Tomb
 1 Verdant Catacombs
 2 Verdant Catacombs
 3 Verdant Catacombs
+1 Soul-Guide Lantern
+1 Watery Grave
+2 Watery Grave
 4 Mishra's Bauble
 1 Tezzeret, Agent of Bolas
+2 Welding Jar
 1 Inventors' Fair
 1 Ghoulcaller's Bell
 2 Ghoulcaller's Bell
@@ -55,6 +47,14 @@
 1 Ghirapur Aether Grid
 2 Swamp
 3 Collective Brutality
+1 Drown in the Loch
+1 Mox Amber
+1 Emry, Lurker of the Loch
+1 Crucible of Worlds
+2 Drown in the Loch
+2 Emry, Lurker of the Loch
+3 Emry, Lurker of the Loch
+4 Emry, Lurker of the Loch
 1 Indatha Triome
 1 Blood Crypt
 1 Wrenn and Six
@@ -62,20 +62,15 @@
 2 Ghost Quarter
 2 Wrenn and Six
 4 Verdant Catacombs
-1 Metallic Rebuke
-2 Metallic Rebuke
-2 Soul-Guide Lantern
-3 Soul-Guide Lantern
-4 Soul-Guide Lantern
 1 Polluted Delta
 1 Hallowed Fountain
 1 Prismatic Ending
 1 Orbs of Warding
+1 Seachrome Coast
 1 Tormod's Crypt
 1 Flooded Strand
-1 Seachrome Coast
-2 Hallowed Fountain
 2 Polluted Delta
+2 Hallowed Fountain
 2 Prismatic Ending
 2 Seachrome Coast
 2 Engineered Explosives
@@ -83,7 +78,7 @@
 3 Prismatic Ending
 3 Polluted Delta
 3 Engineered Explosives
+3 Island
 4 Polluted Delta
 4 Prismatic Ending
 4 Thoughtseize
-3 Island

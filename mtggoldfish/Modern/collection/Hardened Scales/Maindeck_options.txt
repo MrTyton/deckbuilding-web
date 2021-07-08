@@ -1,13 +1,14 @@
 2 Animation Module
 3 Llanowar Reborn
-2 Welding Jar
 1 Power Conduit
 1 Branchloft Pathway
 3 Power Depot
-6 Forest
+2 Welding Jar
 2 Branchloft Pathway
+6 Forest
 4 Llanowar Reborn
 1 Snakeskin Veil
+1 Stomping Ground
 2 Blinkmoth Nexus
 4 The Ozolith
 3 Welding Jar
@@ -16,15 +17,12 @@
 3 Grove of the Burnwillows
 1 Shadowspear
 2 Phyrexia's Core
-7 Forest
 3 Blinkmoth Nexus
 1 Scrapyard Recombiner
-1 Stomping Ground
-1 Goblin Bombardment
-8 Forest
-9 Forest
-1 Horizon Canopy
 1 Pithing Needle
+1 Goblin Bombardment
+7 Forest
+1 Horizon Canopy
 1 Cavern of Souls
 2 Cavern of Souls
 2 Scrapyard Recombiner
@@ -34,6 +32,8 @@
 4 Scrapyard Recombiner
 4 Welding Jar
 4 Grove of the Burnwillows
+8 Forest
+9 Forest
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 1 Steel Overseer
@@ -49,8 +49,6 @@
 3 Branchloft Pathway
 3 Cavern of Souls
 2 Power Conduit
-1 Darksteel Citadel
-2 Darksteel Citadel
 2 Horizon Canopy
 3 Horizon Canopy
 1 Brushland
@@ -60,16 +58,17 @@
 3 Brushland
 3 Arcbound Mouser
 1 Plains
-3 Animation Module
 1 Nurturing Peatland
 1 Swamp
 2 Snakeskin Veil
+1 Crystalline Giant
+2 Crystalline Giant
 1 Lightning Bolt
 1 Relic of Progenitus
 2 Goblin Bombardment
 2 Steel Overseer
-1 Crystalline Giant
-2 Crystalline Giant
+1 Darksteel Citadel
+2 Darksteel Citadel
 1 Urborg, Tomb of Yawgmoth
 1 Spellskite
 1 Darkbore Pathway
@@ -96,36 +95,31 @@
 1 Prismatic Vista
 1 Overgrown Tomb
 1 Verdant Catacombs
-1 Utopia Sprawl
 1 Fatal Push
+1 Utopia Sprawl
 1 Windswept Heath
 1 Winding Constrictor
 2 Nurturing Peatland
-2 Utopia Sprawl
 2 Fatal Push
 2 Winding Constrictor
 2 Windswept Heath
 2 Verdant Catacombs
+2 Utopia Sprawl
 2 Overgrown Tomb
-3 Utopia Sprawl
+3 Animation Module
 3 Fatal Push
 3 Windswept Heath
 3 Winding Constrictor
 3 Verdant Catacombs
-4 Utopia Sprawl
+3 Utopia Sprawl
 4 Fatal Push
 4 Verdant Catacombs
 4 Windswept Heath
+4 Utopia Sprawl
 4 Animation Module
 4 Winding Constrictor
 3 Throne of Geth
 4 Razorverge Thicket
 4 Horizon Canopy
 4 Throne of Geth
-1 Metallic Mimic
-1 Dismember
-2 Metallic Mimic
-3 Darksteel Citadel
-4 Darksteel Citadel
-10 Forest
 4 Cavern of Souls
