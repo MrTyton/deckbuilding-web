@@ -22,12 +22,12 @@
 1 Dismember
 2 Nihil Spellbomb
 1 Leyline of the Void
-1 Life from the Loam
-1 Bojuka Bog
 1 Hydroblast
 1 Liliana, the Last Hope
 1 Sudden Edict
 1 Blue Elemental Blast
+1 Life from the Loam
+1 Bojuka Bog
 1 Ashiok, Dream Render
 1 Swords to Plowshares
 2 Swords to Plowshares
@@ -46,8 +46,8 @@
 1 Unsubstantiate
 2 Fatal Push
 2 Dismember
-1 Apex Altisaur
 1 Back to Basics
+1 Apex Altisaur
 2 Force of Negation
 3 Thoughtseize
 3 Flusterstorm
@@ -55,6 +55,7 @@
 1 Meddling Mage
 2 Meddling Mage
 3 Meddling Mage
+4 Force of Vigor
 1 Phyrexian Revoker
 2 Leyline of the Void
 2 Phyrexian Revoker
@@ -62,7 +63,6 @@
 3 Leyline of the Void
 3 Phyrexian Revoker
 4 Leyline of the Void
-4 Force of Vigor
 1 Hullbreacher
 1 Containment Priest
 2 Hullbreacher
@@ -77,10 +77,10 @@
 1 Brazen Borrower
 1 Leovold, Emissary of Trest
 2 Scavenging Ooze
-2 Opposition Agent
-2 Collector Ouphe
 2 Assassin's Trophy
+2 Collector Ouphe
 2 Brazen Borrower
+2 Opposition Agent
 3 Collector Ouphe
 3 Opposition Agent
 4 Opposition Agent

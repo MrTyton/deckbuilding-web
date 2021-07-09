@@ -1,80 +1,80 @@
 4 Righteous Valkyrie
-2 Plains
 1 Collected Company
+1 Branchloft Pathway
 2 Collected Company
 3 Collected Company
 4 Collected Company
+2 Plains
 1 Sunpetal Grove
-1 Branchloft Pathway
-4 Resplendent Angel
 2 Branchloft Pathway
 1 Youthful Valkyrie
 2 Youthful Valkyrie
 3 Youthful Valkyrie
 4 Youthful Valkyrie
+4 Resplendent Angel
 1 Soul Warden
 2 Soul Warden
 3 Soul Warden
 1 Skyclave Apparition
 1 Speaker of the Heavens
-2 Speaker of the Heavens
-2 Sunpetal Grove
 3 Branchloft Pathway
 2 Skyclave Apparition
+2 Speaker of the Heavens
+2 Sunpetal Grove
 4 Soul Warden
 3 Skyclave Apparition
-4 Branchloft Pathway
 3 Sunpetal Grove
-3 Speaker of the Heavens
-4 Sunpetal Grove
-4 Skyclave Apparition
-3 Plains
-4 Plains
+4 Branchloft Pathway
 2 Rimewood Falls
 2 Yasharn, Implacable Earth
 3 Brainstorm
 4 Brainstorm
-1 Day of Judgment
-5 Plains
-1 Ajani, Strength of the Pride
-6 Plains
-7 Plains
 2 Arctic Treeline
+1 Day of Judgment
+3 Speaker of the Heavens
 2 Commit/Memory
+3 Plains
+4 Sunpetal Grove
+4 Skyclave Apparition
+2 Faceless Haven
+1 Into the Roil
+1 Seal Away
+2 Seal Away
 1 Linvala, Shield of Sea Gate
 1 Hallowed Fountain
 2 Linvala, Shield of Sea Gate
 2 Hallowed Fountain
-3 Hallowed Fountain
-4 Hallowed Fountain
-1 Hengegate Pathway
 1 Glasspool Mimic
+1 Hengegate Pathway
 2 Glasspool Mimic
 3 Glasspool Mimic
+3 Hallowed Fountain
+4 Hallowed Fountain
+1 Ajani, Strength of the Pride
+4 Plains
 2 Hengegate Pathway
-2 Faceless Haven
+5 Plains
+6 Plains
+7 Plains
+3 Linvala, Shield of Sea Gate
 8 Plains
-1 Into the Roil
 9 Plains
 4 Speaker of the Heavens
-1 Castle Ardenvale
-3 Linvala, Shield of Sea Gate
-1 Seal Away
-2 Seal Away
 10 Plains
+1 Castle Ardenvale
 2 Castle Ardenvale
+2 Wrath of God
 1 Forest
 1 Growth Spiral
 2 Growth Spiral
-2 Wrath of God
 4 Glasspool Mimic
 1 Reidane, God of the Worthy
 2 Reidane, God of the Worthy
 1 Baffling End
-1 Angel of Vitality
-2 Angel of Vitality
 1 Abundant Harvest
 2 Abundant Harvest
+1 Angel of Vitality
+2 Angel of Vitality
 1 Aether Gust
 3 Abundant Harvest
 4 Abundant Harvest
@@ -85,14 +85,14 @@
 1 Scattered Groves
 2 Forest
 1 Emeria's Call
-3 Angel of Vitality
-4 Angel of Vitality
 1 Heliod, Sun-Crowned
 3 Hengegate Pathway
 4 Hengegate Pathway
 1 Irrigated Farmland
 3 Snow-Covered Forest
 2 Aether Gust
+3 Angel of Vitality
+4 Angel of Vitality
 2 Heliod, Sun-Crowned
 3 Growth Spiral
 4 Growth Spiral
@@ -111,6 +111,8 @@
 3 Zagoth Triome
 2 Ajani, Strength of the Pride
 2 Declaration in Stone
+2 Day of Judgment
+3 Seal Away
 1 Mystical Dispute
 3 Wrath of God
 1 Conclave Tribunal
@@ -129,10 +131,6 @@
 4 Selfless Savior
 4 Glacial Fortress
 1 Brightclimb Pathway
-1 Vito, Thorn of the Dusk Rose
-1 Isolated Chapel
-2 Vito, Thorn of the Dusk Rose
-3 Vito, Thorn of the Dusk Rose
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
@@ -146,10 +144,9 @@
 1 Extinction Event
 1 Overgrown Tomb
 1 Drowned Catacomb
-2 Drowned Catacomb
 2 Overgrown Tomb
+2 Drowned Catacomb
 1 Crawling Barrens
-1 Swamp
 1 Adventurous Impulse
 1 Ephemerate
 2 Adventurous Impulse
@@ -161,8 +158,16 @@
 1 Legion Angel
 1 Dromoka's Command
 2 Dromoka's Command
-2 Day of Judgment
-3 Seal Away
+1 Spell Pierce
+1 Deputy of Detention
+1 Barkchannel Pathway
+2 Spell Pierce
+1 Elesh Norn, Grand Cenobite
+1 Graven Lore
+1 Glacial Floodplain
+2 Elesh Norn, Grand Cenobite
+2 Graven Lore
+3 Elesh Norn, Grand Cenobite
 2 Blast Zone
 3 Elite Spellbinder
 1 Radiant Fountain
@@ -172,26 +177,9 @@
 2 Ajani's Pridemate
 2 Blossoming Sands
 3 Ajani's Pridemate
-1 Graven Lore
-1 Elesh Norn, Grand Cenobite
-1 Glacial Floodplain
-2 Graven Lore
-2 Elesh Norn, Grand Cenobite
-3 Elesh Norn, Grand Cenobite
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
-1 Godless Shrine
-2 Brightclimb Pathway
-2 Isolated Chapel
-3 Brightclimb Pathway
-4 Brightclimb Pathway
-1 Saw It Coming
-1 Tale's End
-2 Saw It Coming
-2 Tale's End
-3 Saw It Coming
-4 Saw It Coming
 1 Woodland Chasm
 1 Snow-Covered Swamp
 1 Doom Blade
@@ -203,21 +191,37 @@
 3 Overgrown Tomb
 3 Drowned Catacomb
 4 Overgrown Tomb
+1 Saw It Coming
+1 Tale's End
+2 Saw It Coming
+2 Tale's End
+3 Saw It Coming
+4 Saw It Coming
+1 Godless Shrine
+1 Vito, Thorn of the Dusk Rose
+1 Isolated Chapel
+2 Vito, Thorn of the Dusk Rose
+2 Brightclimb Pathway
+2 Isolated Chapel
+3 Brightclimb Pathway
+3 Vito, Thorn of the Dusk Rose
+4 Brightclimb Pathway
 1 Castle Vantress
 1 Baleful Mastery
-1 Hinterland Harbor
 1 Woodland Cemetery
+1 Hinterland Harbor
+1 Search for Azcanta
 1 Elder Gargaroth
 1 Vraska, Golgari Queen
-1 Search for Azcanta
+1 Swamp
 1 Tamiyo, Collector of Tales
 1 Cling to Dust
 1 Eliminate
 1 Watery Grave
+2 Woodland Cemetery
 2 Castle Vantress
 2 Tamiyo, Collector of Tales
 2 Crawling Barrens
-2 Woodland Cemetery
 2 Hinterland Harbor
 2 Elder Gargaroth
 2 Languish
@@ -228,23 +232,6 @@
 2 Remorseful Cleric
 3 Remorseful Cleric
 4 Remorseful Cleric
-1 Temple of Silence
-1 Elspeth Conquers Death
-1 Temple of Malady
-1 Authority of the Consuls
-1 The Immortal Sun
-1 Maskwood Nexus
-1 Settle the Wreckage
-1 Temple of Plenty
-1 Indatha Triome
-2 Authority of the Consuls
-2 Elspeth Conquers Death
-2 Settle the Wreckage
-2 Maskwood Nexus
-2 Temple of Plenty
-2 Indatha Triome
-3 Authority of the Consuls
-4 Vito, Thorn of the Dusk Rose
 1 Banishing Light
 2 Banishing Light
 3 Banishing Light

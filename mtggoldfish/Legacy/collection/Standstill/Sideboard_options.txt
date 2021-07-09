@@ -39,10 +39,10 @@
 1 Bojuka Bog
 1 Ipnu Rivulet
 1 Sanctifier en-Vec
-1 Wasteland
-1 Thieving Skydiver
-1 Yorion, Sky Nomad
 1 Expedition Map
+1 Yorion, Sky Nomad
+1 Thieving Skydiver
+1 Wasteland
 2 Force of Negation
 3 Force of Negation
 4 Force of Negation
@@ -62,17 +62,19 @@
 1 Counterspell
 1 Brazen Borrower
 1 Toxic Deluge
-1 Swords to Plowshares
 1 Invasive Surgery
 1 Unmoored Ego
 1 Return to Nature
-1 Elder Gargaroth
 1 Crop Rotation
+1 Elder Gargaroth
+1 Swords to Plowshares
+1 Izzet Staticaster
+2 Narset, Parter of Veils
 1 Doomskar
 1 Counterbalance
 1 Monastery Mentor
-1 Court of Grace
 1 Fragmentize
+1 Court of Grace
 2 Counterbalance
 2 Monastery Mentor
 1 Voice of Resurgence
@@ -80,8 +82,6 @@
 1 Council's Judgment
 1 Test of Talents
 2 Test of Talents
-1 Izzet Staticaster
-2 Narset, Parter of Veils
 1 Wear/Tear
 2 Wear/Tear
 1 Serenity
@@ -89,8 +89,8 @@
 2 Ethersworn Canonist
 2 Stony Silence
 1 Torpor Orb
-1 Mystical Dispute
 1 Liquimetal Coating
+1 Mystical Dispute
 2 Hullbreacher
 2 Mystical Dispute
 1 Propaganda
@@ -98,14 +98,14 @@
 2 Supreme Verdict
 2 Propaganda
 3 Back to Basics
+1 Plague Engineer
+1 Fracture
+1 Kaya, Orzhov Usurper
+2 Plague Engineer
+2 Fracture
+3 Plague Engineer
 1 Crucible of Worlds
 1 Meekstone
 2 Terminus
-3 Terminus
 4 Terminus
-1 Plague Engineer
-1 Kaya, Orzhov Usurper
-1 Fracture
-2 Fracture
-2 Plague Engineer
-3 Plague Engineer
+3 Terminus

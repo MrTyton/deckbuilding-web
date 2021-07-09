@@ -1,12 +1,12 @@
-3 Swamp
-3 Temple of Malady
+2 Eliminate
 3 Elder Gargaroth
 1 Mazemind Tome
+3 Temple of Malady
 1 Soul Shatter
 3 Mystical Dispute
 2 Mazemind Tome
-2 Disdainful Stroke
 1 Saw It Coming
+2 Disdainful Stroke
 1 Erebos's Intervention
 1 Shark Typhoon
 2 Shark Typhoon
@@ -41,7 +41,7 @@
 1 Crawling Barrens
 3 Behold the Multiverse
 4 Behold the Multiverse
-3 Shadows' Verdict
+1 Crippling Fear
 1 Bala Ged Recovery
 1 Duress
 1 Blightstep Pathway
@@ -49,11 +49,11 @@
 1 Vanishing Verse
 1 Hengegate Pathway
 1 Plains
-2 Vanishing Verse
 2 Brightclimb Pathway
+2 Vanishing Verse
 2 Hengegate Pathway
-3 Brightclimb Pathway
 3 Vanishing Verse
+3 Brightclimb Pathway
 3 Hengegate Pathway
 4 Brightclimb Pathway
 4 Hengegate Pathway
@@ -72,9 +72,9 @@
 5 Swamp
 6 Swamp
 2 Ashiok, Nightmare Muse
-1 Quandrix Cultivator
 1 Pestilent Haze
-1 Crippling Fear
+1 Quandrix Cultivator
+3 Shadows' Verdict
 4 Elder Gargaroth
 2 Test of Talents
 3 Test of Talents
@@ -114,9 +114,9 @@
 2 Eureka Moment
 2 Ketria Triome
 1 Solemn Simulacrum
+2 Professor Onyx
 2 Ugin, the Spirit Dragon
 2 Solemn Simulacrum
-2 Professor Onyx
 3 Solemn Simulacrum
 2 Hagra Mauling
 3 Hagra Mauling

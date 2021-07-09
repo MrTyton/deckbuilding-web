@@ -3,8 +3,8 @@
 1 The Underworld Cookbook
 1 Mishra's Bauble
 2 Mishra's Bauble
-3 Mishra's Bauble
 3 Spire of Industry
+3 Mishra's Bauble
 1 Darkslick Shores
 2 Darkslick Shores
 3 Darkslick Shores
@@ -17,8 +17,8 @@
 1 Botanical Sanctum
 2 Botanical Sanctum
 3 Botanical Sanctum
-4 Spire of Industry
 4 Botanical Sanctum
+4 Spire of Industry
 1 Torpor Orb
 1 Witchbane Orb
 1 Prismatic Vista
@@ -27,8 +27,8 @@
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 3 Prismatic Vista
-4 Leyline of Sanctity
 4 Inquisition of Kozilek
+4 Leyline of Sanctity
 1 Overgrown Tomb
 1 Verdant Catacombs
 2 Verdant Catacombs
@@ -43,10 +43,17 @@
 1 Ghoulcaller's Bell
 2 Ghoulcaller's Bell
 3 Darkbore Pathway
-1 Ketria Triome
 1 Ghirapur Aether Grid
+1 Ketria Triome
 2 Swamp
 3 Collective Brutality
+1 Indatha Triome
+1 Blood Crypt
+1 Wrenn and Six
+1 Stomping Ground
+2 Ghost Quarter
+2 Wrenn and Six
+4 Verdant Catacombs
 1 Drown in the Loch
 1 Mox Amber
 1 Emry, Lurker of the Loch
@@ -55,30 +62,23 @@
 2 Emry, Lurker of the Loch
 3 Emry, Lurker of the Loch
 4 Emry, Lurker of the Loch
-1 Indatha Triome
-1 Blood Crypt
-1 Wrenn and Six
-1 Stomping Ground
-2 Ghost Quarter
-2 Wrenn and Six
-4 Verdant Catacombs
-1 Polluted Delta
 1 Hallowed Fountain
 1 Prismatic Ending
-1 Orbs of Warding
+1 Polluted Delta
 1 Seachrome Coast
 1 Tormod's Crypt
+1 Orbs of Warding
 1 Flooded Strand
 2 Polluted Delta
 2 Hallowed Fountain
 2 Prismatic Ending
-2 Seachrome Coast
 2 Engineered Explosives
 2 Island
-3 Prismatic Ending
-3 Polluted Delta
-3 Engineered Explosives
+2 Seachrome Coast
 3 Island
-4 Polluted Delta
+3 Engineered Explosives
+3 Polluted Delta
+3 Prismatic Ending
 4 Prismatic Ending
+4 Polluted Delta
 4 Thoughtseize

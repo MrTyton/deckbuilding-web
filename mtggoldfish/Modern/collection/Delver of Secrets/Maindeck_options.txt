@@ -18,26 +18,26 @@
 1 Fire/Ice
 1 Hallowed Fountain
 4 Force of Negation
-1 Sacred Foundry
-1 Maul of the Skyclaves
-1 Seachrome Coast
 1 Path to Exile
-1 Geist of Saint Traft
+1 Maul of the Skyclaves
+1 Stoneforge Mystic
 1 Batterskull
 1 Snow-Covered Plains
-1 Stoneforge Mystic
-2 Seachrome Coast
+1 Sacred Foundry
+1 Geist of Saint Traft
+1 Seachrome Coast
 2 Path to Exile
-2 Geist of Saint Traft
+2 Seachrome Coast
 2 Stoneforge Mystic
-3 Seachrome Coast
+2 Geist of Saint Traft
 3 Path to Exile
 3 Stoneforge Mystic
+3 Seachrome Coast
 3 Geist of Saint Traft
-4 Stoneforge Mystic
-4 Path to Exile
-4 Geist of Saint Traft
 4 Flooded Strand
+4 Path to Exile
+4 Stoneforge Mystic
+4 Geist of Saint Traft
 2 Spell Pierce
 3 Polluted Delta
 4 Polluted Delta
@@ -81,8 +81,8 @@
 1 Remand
 1 Spell Snare
 1 Swamp
-1 Thoughtseize
 1 Inquisition of Kozilek
+1 Thoughtseize
 2 Inquisition of Kozilek
 3 Watery Grave
 3 Inquisition of Kozilek
@@ -93,8 +93,8 @@
 1 Thieves' Guild Enforcer
 1 Bloodstained Mire
 1 Soaring Thought-Thief
-2 Drown in the Loch
 2 Bloodstained Mire
+2 Drown in the Loch
 2 Soaring Thought-Thief
 2 Thieves' Guild Enforcer
 3 Drown in the Loch
@@ -106,8 +106,8 @@
 2 Remand
 1 Brazen Borrower
 2 Snow-Covered Island
-1 Forest
 1 Tarmogoyf
+1 Forest
 2 Breeding Pool
 2 Tarmogoyf
 3 Tarmogoyf
@@ -122,50 +122,56 @@
 2 Thoughtseize
 1 Unearth
 4 Fatal Push
-1 Lightning Helix
-2 Lightning Helix
-3 Lightning Helix
-1 Snakeskin Veil
-1 Burst Lightning
-1 Jace, Vryn's Prodigy
-1 Scavenging Ooze
-2 Snakeskin Veil
-3 Wooded Foothills
 1 Grim Lavamancer
 1 Waterlogged Grove
 1 Monastery Swiftspear
 3 Fiery Islet
+1 Lightning Helix
+2 Lightning Helix
+3 Lightning Helix
 3 Subtlety
-1 Cling to Dust
-1 Deprive
-1 Snow-Covered Swamp
-1 Icehide Golem
-1 Archmage's Charm
-1 Ascendant Spirit
-1 Mystic Sanctuary
-1 Ice Tunnel
-1 Tyrant's Scorn
-2 Unearth
-2 Deprive
-2 Archmage's Charm
-2 Icehide Golem
-3 Snow-Covered Island
-3 Archmage's Charm
-4 Archmage's Charm
-4 Snow-Covered Island
-4 Ragavan, Nimble Pilferer
+1 Scavenging Ooze
+1 Snakeskin Veil
+1 Jace, Vryn's Prodigy
+1 Burst Lightning
+2 Snakeskin Veil
+3 Wooded Foothills
+4 Island
+1 Blood Crypt
+1 Kolaghan's Command
+2 Kolaghan's Command
+3 Snapcaster Mage
+4 Snapcaster Mage
 1 Magmatic Channeler
 1 Wizard's Retort
 1 Become Immense
 2 Magmatic Channeler
 3 Magmatic Channeler
 4 Magmatic Channeler
-1 Stubborn Denial
+1 Cling to Dust
+1 Deprive
+1 Snow-Covered Swamp
+1 Ice Tunnel
+1 Icehide Golem
+1 Archmage's Charm
+1 Ascendant Spirit
+1 Mystic Sanctuary
+1 Tyrant's Scorn
+2 Unearth
+2 Deprive
+2 Archmage's Charm
+2 Icehide Golem
+3 Archmage's Charm
+3 Snow-Covered Island
+4 Archmage's Charm
+4 Snow-Covered Island
+4 Ragavan, Nimble Pilferer
 1 Disrupting Shoal
 1 Hexdrinker
-2 Stubborn Denial
+1 Stubborn Denial
 2 Disrupting Shoal
 2 Brazen Borrower
+2 Stubborn Denial
 2 Hexdrinker
 3 Stubborn Denial
 3 Hexdrinker
@@ -174,40 +180,34 @@
 4 Mana Leak
 4 Disrupting Shoal
 4 Hexdrinker
-4 Island
 1 Agadeem's Awakening
-1 Verdant Catacombs
-1 Dismember
-1 Death's Shadow
 1 Dauthi Voidwalker
+1 Dismember
+1 Verdant Catacombs
+1 Death's Shadow
 2 Suspend
-2 Verdant Catacombs
-2 Dismember
 2 Dauthi Voidwalker
+2 Dismember
+2 Verdant Catacombs
 2 Death's Shadow
 3 Dauthi Voidwalker
 3 Verdant Catacombs
-3 Death's Shadow
 3 Thoughtseize
+3 Death's Shadow
 4 Dauthi Voidwalker
 4 Verdant Catacombs
-4 Death's Shadow
 4 Thoughtseize
-1 Darkslick Shores
+4 Death's Shadow
 1 Bloodchief's Thirst
 1 Ancestral Vision
 1 Bitterblossom
+1 Darkslick Shores
 2 Spell Snare
-2 Darkslick Shores
 2 Swamp
 2 Ancestral Vision
 2 Bitterblossom
+2 Darkslick Shores
 3 Darkslick Shores
 3 Bitterblossom
 3 Ancestral Vision
 4 Ancestral Vision
-1 Blood Crypt
-1 Kolaghan's Command
-2 Kolaghan's Command
-3 Snapcaster Mage
-4 Snapcaster Mage

@@ -4,9 +4,11 @@
 2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
+1 Chalice of the Void
+2 Chalice of the Void
 1 Thoughtseize
-1 Yorion, Sky Nomad
 2 Thoughtseize
+1 Yorion, Sky Nomad
 1 Solitude
 2 Solitude
 1 Pithing Needle
@@ -19,10 +21,8 @@
 1 Relic of Progenitus
 2 Relic of Progenitus
 3 Relic of Progenitus
-1 Chalice of the Void
-2 Chalice of the Void
-1 Engineered Explosives
 3 Chalice of the Void
+1 Engineered Explosives
 1 Prismatic Ending
 1 Break the Ice
 3 Sanctifier en-Vec
@@ -34,12 +34,11 @@
 3 Auriok Champion
 1 Fulminator Mage
 2 Damn
-1 Nihil Spellbomb
-2 Nihil Spellbomb
 1 Fracture
 1 Lingering Souls
+1 Nihil Spellbomb
 2 Lingering Souls
-1 Gideon, Ally of Zendikar
+2 Nihil Spellbomb
 2 Plague Engineer
 1 Rest in Peace
 1 Kaya's Guile
@@ -51,6 +50,7 @@
 1 Skyclave Apparition
 1 Stony Silence
 2 Stony Silence
+1 Gideon, Ally of Zendikar
 1 Dauthi Voidwalker
 2 Dauthi Voidwalker
 2 Fracture
@@ -58,14 +58,14 @@
 1 Damping Sphere
 2 Damping Sphere
 3 Fatal Push
-1 Collective Brutality
 2 Prismatic Ending
 1 Kaya, Orzhov Usurper
 1 Isolate
 1 Ashiok, Dream Render
 2 Ashiok, Dream Render
 2 Leonin Relic-Warder
-2 Collective Brutality
+2 Rest in Peace
+1 Collective Brutality
 1 Vanishing Verse
 3 Damping Sphere
 1 Liliana of the Veil
@@ -73,16 +73,9 @@
 1 Gifted Aetherborn
 1 Drannith Magistrate
 1 Thalia, Guardian of Thraben
-1 Liliana, the Last Hope
-1 Night's Whisper
-1 Archon of Emeria
-1 Sword of Fire and Ice
-1 Erase
-1 Kaldra Compleat
-2 Archon of Emeria
+2 Break the Ice
 1 Paraselene
 2 Paraselene
-2 Break the Ice
 1 Vindicate
 1 Aven Mindcensor
 2 Vindicate
@@ -106,9 +99,16 @@
 1 Fracturing Gust
 2 Fulminator Mage
 3 Fulminator Mage
-2 Rest in Peace
 4 Auriok Champion
+2 Collective Brutality
 4 Dauthi Voidwalker
+1 Grafdigger's Cage
+1 Manriki-Gusari
+1 Fragmentize
+2 Fragmentize
+3 Rest in Peace
+3 Fragmentize
+4 Kor Firewalker
 3 Ashiok, Dream Render
 4 Ashiok, Dream Render
 3 Leonin Relic-Warder

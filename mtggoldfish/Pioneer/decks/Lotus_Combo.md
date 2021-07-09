@@ -54,7 +54,7 @@
 |                    2|Birgi, God of Storytelling                                                                           |                     |                                                                                                     |
 |                    2|Barkchannel Pathway                                                                                  |                     |                                                                                                     |
 |                    2|[Baral, Chief of Compliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423695)|                     |                                                                                                     |
-|                    3|[Baral, Chief of Compliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423695)|                     |                                                                                                     |
 |                    3|Barkchannel Pathway                                                                                  |                     |                                                                                                     |
 |                    4|Barkchannel Pathway                                                                                  |                     |                                                                                                     |
+|                    3|[Baral, Chief of Compliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423695)|                     |                                                                                                     |
 
