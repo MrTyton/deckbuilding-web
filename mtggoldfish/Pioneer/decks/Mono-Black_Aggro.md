@@ -35,7 +35,7 @@
 |                    1|[Crippling Fear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503690)          |                    1|[Agonizing Remorse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476334)    |
 |                    1|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)        |                    1|[Infinite Obliteration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398503)|
 |                    2|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)        |                    1|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)        |
-|                     |                                                                                                   |                    2|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)        |
 |                     |                                                                                                   |                    2|[Agonizing Remorse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476334)    |
+|                     |                                                                                                   |                    2|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)        |
 |                     |                                                                                                   |                    1|[Necromentia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485439)          |
 

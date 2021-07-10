@@ -1,28 +1,33 @@
 2 Animation Module
-3 Llanowar Reborn
 1 Power Conduit
 1 Branchloft Pathway
 3 Power Depot
-2 Welding Jar
+3 Llanowar Reborn
 2 Branchloft Pathway
+2 Welding Jar
 6 Forest
-4 Llanowar Reborn
-1 Snakeskin Veil
 1 Stomping Ground
 2 Blinkmoth Nexus
+4 Llanowar Reborn
 4 The Ozolith
-3 Welding Jar
 1 Grove of the Burnwillows
 2 Grove of the Burnwillows
 3 Grove of the Burnwillows
 1 Shadowspear
+1 Snakeskin Veil
 2 Phyrexia's Core
 3 Blinkmoth Nexus
+3 Welding Jar
 1 Scrapyard Recombiner
+1 Horizon Canopy
 1 Pithing Needle
 1 Goblin Bombardment
 7 Forest
-1 Horizon Canopy
+1 Snow-Covered Forest
+2 Snow-Covered Forest
+1 Copperline Gorge
+2 Copperline Gorge
+3 Copperline Gorge
 1 Cavern of Souls
 2 Cavern of Souls
 2 Scrapyard Recombiner
@@ -34,20 +39,15 @@
 4 Grove of the Burnwillows
 8 Forest
 9 Forest
-1 Snow-Covered Forest
-2 Snow-Covered Forest
-1 Steel Overseer
 4 Power Depot
 1 Razorverge Thicket
 2 Razorverge Thicket
 3 Razorverge Thicket
 1 Yavimaya, Cradle of Growth
-1 Copperline Gorge
-2 Copperline Gorge
-3 Copperline Gorge
 1 Witch's Oven
 3 Branchloft Pathway
 3 Cavern of Souls
+1 Steel Overseer
 2 Power Conduit
 2 Horizon Canopy
 3 Horizon Canopy
@@ -58,8 +58,6 @@
 3 Brushland
 3 Arcbound Mouser
 1 Plains
-1 Nurturing Peatland
-1 Swamp
 2 Snakeskin Veil
 1 Crystalline Giant
 2 Crystalline Giant
@@ -75,16 +73,6 @@
 2 Temple Garden
 3 Mishra's Bauble
 4 Mishra's Bauble
-1 Urborg, Tomb of Yawgmoth
-1 Spellskite
-1 Darkbore Pathway
-1 Llanowar Wastes
-2 Darkbore Pathway
-2 Llanowar Wastes
-3 Darkbore Pathway
-3 Llanowar Wastes
-4 Darkbore Pathway
-4 Llanowar Wastes
 1 Prismatic Ending
 2 Plains
 2 Prismatic Ending
@@ -93,29 +81,31 @@
 4 Brushland
 4 Arcbound Mouser
 1 Prismatic Vista
+1 Fatal Push
+1 Nurturing Peatland
 1 Overgrown Tomb
 1 Verdant Catacombs
-1 Fatal Push
 1 Utopia Sprawl
+1 Swamp
 1 Windswept Heath
 1 Winding Constrictor
 2 Nurturing Peatland
 2 Verdant Catacombs
 2 Fatal Push
+2 Utopia Sprawl
 2 Winding Constrictor
 2 Windswept Heath
-2 Utopia Sprawl
 2 Overgrown Tomb
 3 Verdant Catacombs
-3 Animation Module
 3 Fatal Push
+3 Utopia Sprawl
+3 Animation Module
 3 Windswept Heath
 3 Winding Constrictor
-3 Utopia Sprawl
 4 Fatal Push
 4 Verdant Catacombs
-4 Windswept Heath
 4 Utopia Sprawl
+4 Windswept Heath
 4 Animation Module
 4 Winding Constrictor
 3 Throne of Geth

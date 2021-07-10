@@ -8,19 +8,19 @@
 4 Arcbound Ravager
 3 Ethersworn Canonist
 4 Ethersworn Canonist
-1 Ornithopter
-3 Ancient Den
-4 Ancient Den
 3 Stonecoil Serpent
 3 Thoughtcast
+1 Ornithopter
+1 Cavern of Souls
+4 Mishra's Bauble
+3 Ancient Den
+4 Ancient Den
 2 Ornithopter
 3 Ornithopter
 4 Ornithopter
 1 Springleaf Drum
 2 Springleaf Drum
 3 Springleaf Drum
-1 Cavern of Souls
-4 Mishra's Bauble
 4 Emry, Lurker of the Loch
 2 Cavern of Souls
 3 Cavern of Souls
@@ -31,7 +31,6 @@
 2 Vault Skirge
 3 Vault Skirge
 1 Urza's Bauble
-1 Shadowspear
 4 Springleaf Drum
 1 Cranial Plating
 4 Vault Skirge
@@ -43,6 +42,7 @@
 1 City of Traitors
 3 Island
 4 Island
+1 Shadowspear
 4 Karn, the Great Creator
 2 Urza's Bauble
 3 Darksteel Citadel
@@ -92,10 +92,6 @@
 3 Cranial Plating
 4 Cranial Plating
 4 Tundra
-1 Stoneforge Mystic
-2 Stoneforge Mystic
-3 Stoneforge Mystic
-4 Stoneforge Mystic
 2 Phyrexian Walker
 1 Trinket Mage
 1 Flooded Strand
@@ -111,20 +107,13 @@
 2 Zabaz, the Glimmerwasp
 1 Lightning Greaves
 2 Lightning Greaves
+3 Retrofitter Foundry
 2 City of Traitors
 3 Sai, Master Thopterist
-1 Umezawa's Jitte
-1 Batterskull
-1 Sword of the Meek
-1 Meekstone
-1 Thopter Foundry
-2 Thopter Foundry
-3 Thopter Foundry
-3 Retrofitter Foundry
-1 Great Furnace
 1 Galvanic Blast
-2 Great Furnace
+1 Great Furnace
 2 Galvanic Blast
+2 Great Furnace
 3 Great Furnace
 3 Galvanic Blast
 4 Great Furnace
@@ -133,48 +122,36 @@
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
-1 Snow-Covered Plains
-1 Kaldra Compleat
-1 Hope of Ghirapur
-1 Colossus Hammer
-1 Steelshaper's Gift
-1 Inkmoth Nexus
-1 Puresteel Paladin
-1 Sigarda's Aid
-2 Snow-Covered Plains
-2 Karakas
-2 Inkmoth Nexus
-2 Steelshaper's Gift
-2 Colossus Hammer
-2 Sigarda's Aid
-2 Puresteel Paladin
-3 Steelshaper's Gift
-3 Snow-Covered Plains
-3 Puresteel Paladin
-3 Sigarda's Aid
-3 Colossus Hammer
-4 Puresteel Paladin
-4 Sigarda's Aid
-4 Colossus Hammer
 3 Wasteland
 4 Wasteland
-1 Mishra's Factory
 1 Mox Diamond
+1 Mishra's Factory
 2 Mishra's Factory
 2 Mox Diamond
 3 Mishra's Factory
 3 Mox Diamond
 4 Mishra's Factory
-1 Myr Enforcer
+1 Umezawa's Jitte
+1 Batterskull
+1 Stoneforge Mystic
+1 Sword of the Meek
+1 Meekstone
+1 Thopter Foundry
+2 Stoneforge Mystic
+2 Thopter Foundry
+3 Stoneforge Mystic
+3 Thopter Foundry
+4 Stoneforge Mystic
 1 Thassa's Oracle
 1 Tree of Tales
-1 Barricade Breaker
-1 Frogmite
+1 Myr Enforcer
 1 Shield Sphere
+1 Sojourner's Companion
 1 Glimpse of Nature
 1 Foundry Assembler
 1 Memnite
-1 Sojourner's Companion
+1 Barricade Breaker
+1 Frogmite
 2 Myr Enforcer
 2 Frogmite
 2 Sojourner's Companion

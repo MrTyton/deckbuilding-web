@@ -1,6 +1,9 @@
 1 Mountain
 3 Steam Vents
 4 Steam Vents
+1 Island
+1 Fabled Passage
+2 Fabled Passage
 1 Terror of the Peaks
 1 Mizzix's Mastery
 1 Dragonstorm
@@ -15,52 +18,49 @@
 4 Faithless Looting
 4 Mizzix's Mastery
 4 Dragonstorm
-1 Fabled Passage
-2 Fabled Passage
-1 Island
 3 Terror of the Peaks
 3 Prismari Command
 1 Brainstorm
 2 Brainstorm
 3 Brainstorm
 3 Fabled Passage
-4 Fabled Passage
 2 Island
+4 Fabled Passage
 2 Mountain
 4 Prismari Command
-1 Solve the Equation
-2 Solve the Equation
-1 Lathliss, Dragon Queen
-4 Brainstorm
-1 Spirebluff Canal
-2 Spirebluff Canal
-2 Lathliss, Dragon Queen
 3 Mountain
 4 Mountain
 3 Island
+1 Solve the Equation
+2 Solve the Equation
+4 Brainstorm
+1 Spirebluff Canal
+2 Spirebluff Canal
+1 Lathliss, Dragon Queen
+2 Lathliss, Dragon Queen
 1 Riverglide Pathway
 2 Riverglide Pathway
 3 Riverglide Pathway
 3 Solve the Equation
 3 Spirebluff Canal
+4 Island
 4 Riverglide Pathway
 4 Terror of the Peaks
 1 Coldsteel Heart
 2 Coldsteel Heart
 3 Coldsteel Heart
-4 Island
-4 Spirebluff Canal
 4 Coldsteel Heart
+4 Spirebluff Canal
 1 Baleful Mastery
 4 Solve the Equation
 1 Baral, Chief of Compliance
 2 Baral, Chief of Compliance
 1 Clearwater Pathway
 2 Baleful Mastery
+3 Crux of Fate
 1 Bladewing the Risen
 2 Bladewing the Risen
 3 Bladewing the Risen
-3 Crux of Fate
 1 Mystical Dispute
 1 Pact of Negation
 1 Strategic Planning
@@ -73,15 +73,15 @@
 1 Magma Opus
 2 Magma Opus
 2 Sweltering Suns
-1 Snow-Covered Mountain
-1 Volatile Fjord
 1 Snow-Covered Island
+1 Volatile Fjord
+1 Snow-Covered Mountain
 1 Tundra Fumarole
 2 Snow-Covered Mountain
-2 Volatile Fjord
 2 Tundra Fumarole
-3 Snow-Covered Mountain
+2 Volatile Fjord
 3 Tundra Fumarole
+3 Snow-Covered Mountain
 3 Volatile Fjord
 4 Snow-Covered Mountain
 4 Tundra Fumarole
@@ -95,15 +95,10 @@
 3 Magma Opus
 1 Dragonskull Summit
 1 Anger of the Gods
-1 Savai Triome
-1 Sacred Foundry
-2 Sacred Foundry
-3 Sacred Foundry
-4 Sacred Foundry
-1 Frost Bite
-2 Frost Bite
-3 Sweltering Suns
-4 Sweltering Suns
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
+2 Clearwater Pathway
+3 Nicol Bolas, Dragon-God
 1 Hengegate Pathway
 1 Into the Roil
 1 Failure/Comply
@@ -111,16 +106,24 @@
 1 Rip Apart
 1 Wrath of God
 1 Plains
+1 Sacred Foundry
 1 Raugrin Triome
 2 Mystical Dispute
 2 Failure/Comply
 2 Hengegate Pathway
+2 Sacred Foundry
 2 Raugrin Triome
+3 Sacred Foundry
 3 Hengegate Pathway
 3 Raugrin Triome
 3 Failure/Comply
+4 Sacred Foundry
 4 Hengegate Pathway
 4 Raugrin Triome
+1 Frost Bite
+2 Frost Bite
+3 Sweltering Suns
+4 Sweltering Suns
 1 Search for Azcanta
 1 Discovery/Dispersal
 2 Search for Azcanta
@@ -128,47 +131,44 @@
 3 Pact of Negation
 1 Valki, God of Lies
 2 Valki, God of Lies
+1 Savai Triome
 2 Dragonskull Summit
 3 Cling to Dust
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
 2 Anger of the Gods
 3 Anger of the Gods
 1 Expressive Iteration
 2 Expressive Iteration
-3 Nicol Bolas, Dragon-God
-2 Clearwater Pathway
 3 Clearwater Pathway
 4 Clearwater Pathway
-2 Savai Triome
-3 Savai Triome
 3 Thoughtseize
+3 Narset, Parter of Veils
 1 Temple of Deceit
 1 Flunk
+1 Memory Lapse
+2 Memory Lapse
 1 Fetid Pools
 1 Ketria Triome
 1 Thought Erasure
 1 Rankle, Master of Pranks
 2 Thought Erasure
 2 Rankle, Master of Pranks
-1 Memory Lapse
-2 Memory Lapse
 1 Shadows' Verdict
 2 Shadows' Verdict
-1 Extinction Event
-1 Drown in the Loch
-1 Heartless Act
-3 Expressive Iteration
-3 Chandra, Torch of Defiance
 1 Field of Ruin
 1 Saw It Coming
 1 Behold the Multiverse
 1 Whirlwind Denial
-2 Behold the Multiverse
 2 Saw It Coming
+2 Behold the Multiverse
 2 Whirlwind Denial
 3 Behold the Multiverse
-3 Narset, Parter of Veils
+2 Savai Triome
+3 Savai Triome
+3 Chandra, Torch of Defiance
+1 Extinction Event
+1 Drown in the Loch
+1 Heartless Act
+3 Expressive Iteration
 1 Irencrag Feat
 1 Rowan, Scholar of Sparks
 2 Irencrag Feat
@@ -185,31 +185,17 @@
 2 Stitcher's Supplier
 3 Merfolk Secretkeeper
 3 Stitcher's Supplier
+4 Magma Opus
 4 Merfolk Secretkeeper
 4 Stitcher's Supplier
-4 Magma Opus
 5 Mountain
-1 Godless Shrine
-1 Needleverge Pathway
-1 Velomachus Lorehold
-1 Thrilling Discovery
-1 Cathartic Reunion
-1 Duress
-1 Unburial Rites
-2 Needleverge Pathway
-2 Godless Shrine
-2 Thrilling Discovery
-2 Velomachus Lorehold
-2 Duress
-2 Cathartic Reunion
-2 Unburial Rites
-3 Needleverge Pathway
-3 Godless Shrine
-3 Thrilling Discovery
-3 Velomachus Lorehold
-3 Unburial Rites
-4 Needleverge Pathway
-4 Godless Shrine
-4 Velomachus Lorehold
+1 Commit/Memory
+1 Bedevil
+1 Grafdigger's Cage
+2 Commit/Memory
+2 Grafdigger's Cage
+3 Grafdigger's Cage
+3 Swamp
+4 Grafdigger's Cage
 4 Thoughtseize
-4 Unburial Rites
+4 Swamp
