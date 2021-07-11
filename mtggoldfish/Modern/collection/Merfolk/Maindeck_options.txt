@@ -24,8 +24,6 @@
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
-1 Harbinger of the Tides
-2 Harbinger of the Tides
 1 Seachrome Coast
 1 Unsettled Mariner
 1 Wanderwine Hub
@@ -41,16 +39,16 @@
 4 Snow-Covered Island
 5 Snow-Covered Island
 6 Snow-Covered Island
+1 Harbinger of the Tides
+2 Harbinger of the Tides
+1 Breeding Pool
 1 Master of Waves
 2 Master of Waves
 3 Master of Waves
 4 Master of Waves
-1 Breeding Pool
-3 Harbinger of the Tides
 3 Merfolk Mistbinder
 4 Merfolk Mistbinder
-1 Phantasmal Image
-2 Phantasmal Image
+3 Harbinger of the Tides
 1 Dismember
 2 Dismember
 3 Dismember
@@ -59,66 +57,53 @@
 1 Counterspell
 2 Counterspell
 2 Breeding Pool
+1 Phantasmal Image
+2 Phantasmal Image
 4 Harbinger of the Tides
 2 Flooded Strand
 1 Repeal
 4 Chalice of the Void
 3 Counterspell
 4 Counterspell
+1 Fiery Islet
 1 Polluted Delta
 2 Polluted Delta
 3 Glasspool Mimic
 4 Glasspool Mimic
+12 Island
 1 Darkslick Shores
 2 Darkslick Shores
 3 Darkslick Shores
 1 Tidebinder Mage
 2 Tidebinder Mage
 4 Seachrome Coast
+2 Repeal
+1 Brazen Borrower
+2 Fiery Islet
 1 Spell Pierce
 2 Spell Pierce
-12 Island
-1 Benthic Biomancer
-2 Benthic Biomancer
-3 Benthic Biomancer
-4 Benthic Biomancer
-2 Repeal
-1 Deprive
-2 Deprive
-3 Deprive
-4 Deprive
-1 Fiery Islet
-1 Brazen Borrower
 1 Disrupting Shoal
 2 Disrupting Shoal
 1 Lurrus of the Dream-Den
 2 Lurrus of the Dream-Den
 3 Lurrus of the Dream-Den
-1 Mana Leak
-2 Mana Leak
-3 Mana Leak
 3 Tidebinder Mage
-1 Mountain
-1 Swamp
-1 Misty Rainforest
-2 Swamp
-2 Mountain
-3 Swamp
-3 Mountain
-4 Swamp
-4 Mountain
 1 Creeping Tar Pit
-1 Sunken Hollow
 1 Watery Grave
+1 Deprive
 1 Soul-Guide Lantern
+1 Sunken Hollow
 2 Creeping Tar Pit
+2 Deprive
 2 Soul-Guide Lantern
 3 Flooded Strand
+3 Deprive
+3 Soul-Guide Lantern
 3 Repeal
 3 Creeping Tar Pit
-3 Soul-Guide Lantern
 4 Soul-Guide Lantern
 4 Dismember
+4 Deprive
 4 Creeping Tar Pit
 4 Flooded Strand
 4 Repeal
@@ -134,5 +119,19 @@
 3 Suspend
 3 Rishadan Dockhand
 4 Rishadan Dockhand
-3 Spell Pierce
-4 Spell Pierce
+1 Mana Leak
+1 Benthic Biomancer
+2 Mana Leak
+2 Benthic Biomancer
+3 Mana Leak
+3 Benthic Biomancer
+4 Benthic Biomancer
+1 Mountain
+1 Swamp
+1 Misty Rainforest
+2 Mountain
+2 Swamp
+3 Swamp
+3 Mountain
+4 Swamp
+4 Mountain

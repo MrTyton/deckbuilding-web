@@ -2,7 +2,6 @@
 2 Growth Spiral
 1 Arid Mesa
 1 Mountain
-2 Arid Mesa
 1 Lightning Helix
 2 Lightning Helix
 1 Breeding Pool
@@ -11,53 +10,54 @@
 3 Shardless Agent
 1 Scion of Draco
 1 Mantis Rider
-1 Bloodbraid Elf
 1 Temple Garden
 1 Tribal Flames
 1 Territorial Kavu
 2 Scion of Draco
-2 Bloodbraid Elf
 2 Territorial Kavu
 2 Mantis Rider
 2 Tribal Flames
 3 Territorial Kavu
 3 Tribal Flames
 3 Mantis Rider
-3 Bloodbraid Elf
 4 Tribal Flames
 4 Mantis Rider
 4 Territorial Kavu
 4 Shardless Agent
+1 Bloodbraid Elf
+2 Bloodbraid Elf
+3 Bloodbraid Elf
 3 Scion of Draco
 4 Scion of Draco
+2 Arid Mesa
 1 Island
-3 Growth Spiral
 1 Forest
+3 Growth Spiral
+1 Windswept Heath
+2 Windswept Heath
+1 Noble Hierarch
 1 General Ferrous Rokiric
 2 General Ferrous Rokiric
 3 General Ferrous Rokiric
 4 Bloodbraid Elf
-1 Noble Hierarch
 2 Noble Hierarch
-1 Windswept Heath
-2 Windswept Heath
-3 Arid Mesa
 1 Verdant Catacombs
-1 Savai Triome
 1 Blood Crypt
+1 Savai Triome
 1 Ignoble Hierarch
 2 Ignoble Hierarch
 3 Ignoble Hierarch
 4 Ignoble Hierarch
 2 Verdant Catacombs
+3 Arid Mesa
 1 Misty Rainforest
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
-1 Glimpse of Tomorrow
-1 Omniscience
 1 Khalni Garden
+1 Glimpse of Tomorrow
 1 Gemstone Caverns
+1 Omniscience
 1 Leyline of Sanctity
 1 Emrakul, the Aeons Torn
 1 Violent Outburst
@@ -69,14 +69,14 @@
 2 Violent Outburst
 3 Khalni Garden
 3 Glimpse of Tomorrow
-3 Emrakul, the Aeons Torn
 3 Omniscience
+3 Emrakul, the Aeons Torn
 3 Leyline of Sanctity
 3 Violent Outburst
 4 Omniscience
+4 Emrakul, the Aeons Torn
 4 Leyline of Sanctity
 4 Violent Outburst
-4 Emrakul, the Aeons Torn
 4 Khalni Garden
 1 As Foretold
 2 As Foretold
@@ -90,8 +90,9 @@
 2 Wavesifter
 2 Iona, Shield of Emeria
 3 Wavesifter
-4 Teferi, Time Raveler
+1 Indatha Triome
 1 Zagoth Triome
+4 Teferi, Time Raveler
 1 Leyline of the Void
 2 Leyline of the Void
 4 Wavesifter
@@ -99,13 +100,15 @@
 3 Bloodstained Mire
 2 Sacred Foundry
 4 Growth Spiral
-1 Indatha Triome
 1 Snow-Covered Forest
 2 Snow-Covered Mountain
 3 Iona, Shield of Emeria
 4 Iona, Shield of Emeria
 2 Archon of Cruelty
 3 Archon of Cruelty
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
 1 Flooded Strand
 2 Flooded Strand
 4 Bloodstained Mire
@@ -118,9 +121,6 @@
 4 Manamorphose
 4 General Ferrous Rokiric
 4 Archon of Cruelty
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
 1 Chandra, Torch of Defiance
 1 Fires of Invention
 2 Raugrin Triome
@@ -137,13 +137,16 @@
 4 Glimpse of Tomorrow
 4 As Foretold
 1 Valakut Awakening
+1 Tarmogoyf
+2 Tarmogoyf
+3 Tarmogoyf
 3 Windswept Heath
 4 Windswept Heath
 4 Prismatic Ending
 1 Explore
 1 Tamiyo, Collector of Tales
-2 Chandra, Torch of Defiance
 2 Explore
+2 Chandra, Torch of Defiance
 2 Fires of Invention
 2 Tamiyo, Collector of Tales
 2 Ketria Triome
@@ -159,24 +162,22 @@
 4 Ulamog, the Infinite Gyre
 3 Verdant Catacombs
 4 Verdant Catacombs
-1 Overgrown Tomb
+4 Tarmogoyf
 1 Wild Nacatl
-1 Tarmogoyf
-2 Tarmogoyf
 2 Wild Nacatl
 3 Wild Nacatl
-3 Tarmogoyf
+1 Overgrown Tomb
 3 Noble Hierarch
 4 Noble Hierarch
 1 Fire/Ice
 2 Fire/Ice
-1 Snow-Covered Plains
 1 Cindervines
+1 Snow-Covered Plains
 1 Omnath, Locus of Creation
 1 Botanical Sanctum
 2 Botanical Sanctum
-2 Island
 2 Jace, the Mind Sculptor
+2 Island
 1 Hallowed Fountain
 1 Waterlogged Grove
 1 Hexdrinker
@@ -188,6 +189,9 @@
 2 Anafenza, the Foremost
 2 Valakut Awakening
 3 Valakut Awakening
+1 Might of Alara
+2 Might of Alara
+3 Might of Alara
 1 Gemstone Mine
 1 Fiery Islet
 1 Brazen Borrower
@@ -195,31 +199,30 @@
 2 Gemstone Mine
 2 Ugin, the Spirit Dragon
 3 Gemstone Mine
+1 Opt
+1 Swamp
+2 Opt
+2 Swamp
+3 Swamp
+3 Opt
+4 Swamp
+4 Opt
 3 Griselbrand
 4 Griselbrand
 1 Fire-Lit Thicket
 3 Kozilek, Butcher of Truth
 4 Kozilek, Butcher of Truth
-1 Narset, Parter of Veils
 1 Nahiri, the Harbinger
 1 Transmogrify
+1 Narset, Parter of Veils
 1 Izzet Charm
 2 Transmogrify
 2 Izzet Charm
 3 Velomachus Lorehold
 4 Steam Vents
-1 Swamp
-1 Opt
-2 Swamp
-2 Opt
-3 Swamp
-3 Opt
-4 Swamp
-4 Opt
+4 Ragavan, Nimble Pilferer
+4 Wild Nacatl
 1 Snapcaster Mage
 2 Snapcaster Mage
 3 Snapcaster Mage
 4 Snapcaster Mage
-4 Ragavan, Nimble Pilferer
-4 Wild Nacatl
-4 Tarmogoyf

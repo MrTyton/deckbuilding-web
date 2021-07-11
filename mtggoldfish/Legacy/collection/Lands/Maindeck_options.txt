@@ -1,38 +1,36 @@
-1 Ancient Tomb
-1 Misty Rainforest
+1 Glacial Chasm
 2 Urza's Saga
 3 Urza's Saga
 1 Snow-Covered Forest
-1 Verdant Catacombs
+1 Ancient Tomb
 1 Lightning Bolt
-2 Field of the Dead
 1 Retrofitter Foundry
-1 Pyrite Spellbomb
-1 Sheltered Thicket
 1 Waterlogged Grove
+1 Pyrite Spellbomb
+1 Verdant Catacombs
+2 Field of the Dead
+1 Savannah
 2 Lightning Bolt
 1 Tranquil Thicket
-1 Savannah
+1 Sheltered Thicket
 2 Windswept Heath
 1 Horizon Canopy
 1 Flagstones of Trokair
 2 Flagstones of Trokair
-3 Elvish Reclaimer
 1 Swords to Plowshares
 2 Swords to Plowshares
+3 Elvish Reclaimer
 4 Elvish Reclaimer
 1 Expedition Map
 3 Windswept Heath
 1 Prismatic Ending
-2 Prismatic Ending
 2 Misty Rainforest
+2 Prismatic Ending
 1 Knight of the Reliquary
 2 Knight of the Reliquary
 3 Knight of the Reliquary
 4 Windswept Heath
 4 Knight of the Reliquary
-1 Gamble
-2 Gamble
 2 Ghost Quarter
 2 Savannah
 3 Flagstones of Trokair
@@ -40,8 +38,12 @@
 4 Swords to Plowshares
 1 Sejiri Steppe
 2 Forest
-1 Cursed Scroll
+3 Misty Rainforest
+1 Tropical Island
+1 Uro, Titan of Nature's Wrath
+1 Tundra
 1 Thalia, Guardian of Thraben
+1 Cursed Scroll
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
 3 Savannah
@@ -49,81 +51,94 @@
 4 Thalia, Guardian of Thraben
 4 Savannah
 4 Urza's Saga
-3 Misty Rainforest
 1 Plateau
-4 Dark Depths
-1 Nurturing Peatland
-1 Barbarian Ring
 1 Sevinne's Reclamation
-1 Tropical Island
-1 Uro, Titan of Nature's Wrath
-1 Tundra
-1 Scavenging Ooze
-1 Sylvan Safekeeper
-1 Dryad Arbor
-1 Plains
-1 Green Sun's Zenith
+4 Dark Depths
+1 Gamble
+2 Gamble
+1 Barbarian Ring
 1 Knight of Autumn
+1 Sylvan Safekeeper
+1 Plains
+1 Dryad Arbor
+1 Scavenging Ooze
+1 Green Sun's Zenith
 2 Green Sun's Zenith
 3 Green Sun's Zenith
 4 Green Sun's Zenith
-1 Stoneforge Mystic
-1 Batterskull
-1 Phyrexian Furnace
-1 Umezawa's Jitte
 1 Endurance
-2 Stoneforge Mystic
 2 Endurance
-3 Stoneforge Mystic
 3 Prismatic Ending
-4 Prismatic Ending
-1 Dakkon, Shadow Slayer
-1 Grist, the Hunger Tide
-1 Dryad of the Ilysian Grove
-1 Leovold, Emissary of Trest
-1 Valakut, the Molten Pinnacle
 1 Brainstorm
-1 Ramunap Excavator
-1 Scrubland
-1 Grasping Dunes
+1 Leovold, Emissary of Trest
 2 Brainstorm
-2 Yavimaya, Cradle of Growth
 3 Brainstorm
-3 Yavimaya, Cradle of Growth
 4 Brainstorm
-1 Snow-Covered Plains
-1 Mishra's Bauble
-1 Stomping Ground
-1 Crucible of Worlds
-1 Engineered Explosives
-1 Klothys, God of Destiny
-1 Hall of Heliod's Generosity
-1 Temple Garden
-1 Riftstone Portal
-1 Molten Vortex
-1 Manabond
-1 Ipnu Rivulet
 2 Uro, Titan of Nature's Wrath
 2 Tropical Island
+1 Ramunap Excavator
+1 Dakkon, Shadow Slayer
+1 Scrubland
+1 Grist, the Hunger Tide
+1 Dryad of the Ilysian Grove
+1 Valakut, the Molten Pinnacle
+1 Grasping Dunes
+2 Yavimaya, Cradle of Growth
+3 Yavimaya, Cradle of Growth
+1 Phyrexian Furnace
+1 Batterskull
+1 Umezawa's Jitte
+1 Stoneforge Mystic
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+4 Prismatic Ending
+1 Snow-Covered Plains
+1 Baleful Strix
+1 Swamp
+1 Underground Sea
+1 Cephalid Coliseum
+1 Creeping Tar Pit
+1 Teferi, Time Raveler
+1 Jace, the Mind Sculptor
+1 Abrupt Decay
+1 Bayou
+1 Cabal Pit
+1 Polluted Delta
+1 Island
+2 Baleful Strix
+2 Abrupt Decay
+2 Leovold, Emissary of Trest
+2 Teferi, Time Raveler
+2 Jace, the Mind Sculptor
+3 Uro, Titan of Nature's Wrath
+3 Baleful Strix
+3 Abrupt Decay
+4 Misty Rainforest
+1 Nurturing Peatland
+1 Mishra's Bauble
+1 Klothys, God of Destiny
+1 Ipnu Rivulet
+1 Engineered Explosives
+1 Hall of Heliod's Generosity
+1 Molten Vortex
+1 Temple Garden
+1 Riftstone Portal
+1 Manabond
 1 Karn, Scion of Urza
 2 Karn, Scion of Urza
-1 Primeval Titan
+1 Birds of Paradise
 1 Titania, Protector of Argoth
 1 Archon of Valor's Reach
-1 Birds of Paradise
+1 Orcish Lumberjack
 1 Natural Order
 1 Scattered Groves
-1 Orcish Lumberjack
-2 Titania, Protector of Argoth
+1 Primeval Titan
 2 Verdant Catacombs
+2 Titania, Protector of Argoth
 2 Orcish Lumberjack
 2 Natural Order
 2 Birds of Paradise
-1 Abrupt Decay
-1 Bayou
-2 Bayou
-3 Sylvan Library
 3 Gamble
 3 Maze of Ith
-4 Valakut Exploration
 4 Rishadan Port
+4 Valakut Exploration

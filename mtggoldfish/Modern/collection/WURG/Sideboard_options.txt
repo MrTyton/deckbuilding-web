@@ -13,11 +13,11 @@
 2 Path to Exile
 3 Path to Exile
 1 Gaddock Teeg
+1 Jegantha, the Wellspring
+2 Gaddock Teeg
+1 Lightning Helix
 1 Cindervines
 4 Path to Exile
-1 Lightning Helix
-2 Gaddock Teeg
-1 Jegantha, the Wellspring
 3 Mystical Dispute
 1 Leyline of the Void
 2 Leyline of the Void
@@ -41,9 +41,9 @@
 2 Meddling Mage
 3 Meddling Mage
 1 Ashiok, Dream Render
+1 Assassin's Trophy
 1 Nahiri, the Harbinger
 1 Klothys, God of Destiny
-1 Assassin's Trophy
 1 Force of Negation
 1 Hurkyl's Recall
 3 Stony Silence
@@ -54,20 +54,20 @@
 2 Fury
 1 Platinum Emperion
 2 Platinum Emperion
-3 Fury
 3 Gaddock Teeg
+3 Fury
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 3 Anger of the Gods
 4 Leyline of Sanctity
-1 Cursed Totem
+3 Rest in Peace
 1 Chalice of the Void
-2 Cursed Totem
+1 Cursed Totem
 2 Chalice of the Void
+2 Cursed Totem
 3 Cursed Totem
 3 Chalice of the Void
-3 Rest in Peace
 4 Chalice of the Void
 1 Shattering Spree
 1 Flame Slash
@@ -101,8 +101,8 @@
 2 Bonecrusher Giant
 1 Lavinia, Azorius Renegade
 2 Lavinia, Azorius Renegade
-1 Grafdigger's Cage
 1 Chandra, Torch of Defiance
+1 Grafdigger's Cage
 1 Back to Nature
 1 Anafenza, the Foremost
 1 Through the Breach
@@ -141,6 +141,16 @@
 3 Endurance
 3 Platinum Emperion
 4 Force of Negation
+1 Fatal Push
+1 Stubborn Denial
+1 Ancient Grudge
+1 Dromoka's Command
+2 Stubborn Denial
+2 Fatal Push
+2 Ancient Grudge
+2 Dromoka's Command
+3 Stubborn Denial
+4 Stubborn Denial
 1 Madcap Experiment
 2 Madcap Experiment
 3 Madcap Experiment

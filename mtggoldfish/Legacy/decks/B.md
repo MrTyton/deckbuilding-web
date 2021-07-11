@@ -51,7 +51,7 @@
 |                    3|[Dark Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=651)                 |                     |                                                                                              |
 |                    3|[Wrench Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438681)              |                     |                                                                                              |
 |                    4|[Dark Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=651)                 |                     |                                                                                              |
-|                    4|[Waste Not](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420734)                |                     |                                                                                              |
 |                    4|[Wrench Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438681)              |                     |                                                                                              |
+|                    4|[Waste Not](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420734)                |                     |                                                                                              |
 |                   21|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                    |                     |                                                                                              |
 

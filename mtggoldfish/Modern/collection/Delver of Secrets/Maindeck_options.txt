@@ -1,34 +1,30 @@
-3 Force of Negation
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
+3 Steam Vents
 1 Polluted Delta
-1 Snapcaster Mage
+1 Subtlety
+2 Subtlety
 2 Polluted Delta
-4 Force of Negation
-2 Snapcaster Mage
-1 Sleight of Hand
-2 Sleight of Hand
+1 Tarfire
+3 Force of Negation
 1 Flooded Strand
 2 Flooded Strand
+1 Mountain
+1 Spell Pierce
 1 Snow-Covered Island
-1 Mana Leak
-3 Polluted Delta
-4 Polluted Delta
-3 Steam Vents
-2 Mana Leak
-3 Mana Leak
-1 Hallowed Fountain
 3 Flooded Strand
-4 Flooded Strand
+1 Sleight of Hand
+2 Sleight of Hand
 3 Sleight of Hand
 4 Sleight of Hand
+1 Fire/Ice
+1 Hallowed Fountain
+4 Force of Negation
 1 Path to Exile
 1 Stoneforge Mystic
 1 Maul of the Skyclaves
 1 Seachrome Coast
-1 Snow-Covered Plains
 1 Batterskull
+1 Snow-Covered Plains
 1 Sacred Foundry
 1 Geist of Saint Traft
 2 Path to Exile
@@ -39,35 +35,66 @@
 3 Stoneforge Mystic
 3 Seachrome Coast
 3 Geist of Saint Traft
+4 Flooded Strand
 4 Path to Exile
 4 Stoneforge Mystic
 4 Geist of Saint Traft
-1 Opt
-2 Opt
-3 Opt
-4 Opt
-1 Vapor Snag
-1 Subtlety
-2 Subtlety
-1 Tarfire
-1 Fire/Ice
+2 Spell Pierce
+3 Polluted Delta
+4 Polluted Delta
 1 Prismatic Ending
-2 Vapor Snag
-1 Remand
+1 Snapcaster Mage
+2 Fire/Ice
+1 Sword of Fire and Ice
+1 Dreadhorde Arcanist
+2 Dreadhorde Arcanist
+2 Snapcaster Mage
+1 Mana Leak
+1 Brazen Borrower
+1 Suspend
+1 Breeding Pool
+1 Wooded Foothills
+2 Mana Leak
+3 Mana Leak
+3 Misty Rainforest
+1 Vapor Snag
+1 Stomping Ground
+3 Dreadhorde Arcanist
+4 Dreadhorde Arcanist
+2 Wooded Foothills
 1 Watery Grave
 2 Watery Grave
+1 Wizard's Lightning
+1 Atarka's Command
+1 Soul-Scar Mage
+1 Mutagenic Growth
+2 Vapor Snag
+2 Wizard's Lightning
+2 Atarka's Command
+2 Mutagenic Growth
+2 Soul-Scar Mage
+3 Wizard's Lightning
+3 Vapor Snag
+3 Atarka's Command
+3 Soul-Scar Mage
+4 Wizard's Lightning
+4 Soul-Scar Mage
+1 Remand
 1 Spell Snare
-1 Inquisition of Kozilek
-2 Inquisition of Kozilek
 1 Swamp
 1 Thoughtseize
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
 3 Watery Grave
 3 Inquisition of Kozilek
 1 Fatal Push
 2 Fatal Push
+3 Fatal Push
 1 Soaring Thought-Thief
 1 Thieves' Guild Enforcer
 1 Drown in the Loch
+1 Bloodstained Mire
+2 Bloodstained Mire
 2 Thieves' Guild Enforcer
 2 Soaring Thought-Thief
 2 Drown in the Loch
@@ -79,86 +106,6 @@
 4 Drown in the Loch
 2 Remand
 2 Snow-Covered Island
-1 Sword of Fire and Ice
-1 Flame Slash
-1 Pteramander
-2 Pteramander
-3 Pteramander
-4 Island
-4 Pteramander
-1 Mountain
-3 Fatal Push
-1 Suspend
-1 Magmatic Channeler
-2 Magmatic Channeler
-3 Magmatic Channeler
-4 Magmatic Channeler
-1 Bloodstained Mire
-2 Bloodstained Mire
-1 Breeding Pool
-1 Wooded Foothills
-4 Watery Grave
-1 Deprive
-1 Ascendant Spirit
-1 Archmage's Charm
-1 Mystic Sanctuary
-2 Archmage's Charm
-3 Archmage's Charm
-3 Snow-Covered Island
-4 Archmage's Charm
-4 Snow-Covered Island
-1 Unearth
-4 Fatal Push
-2 Thoughtseize
-1 Dreadhorde Arcanist
-1 Stomping Ground
-2 Dreadhorde Arcanist
-3 Dreadhorde Arcanist
-4 Dreadhorde Arcanist
-2 Wooded Foothills
-3 Misty Rainforest
-2 Fire/Ice
-1 Kolaghan's Command
-1 Blood Crypt
-2 Kolaghan's Command
-3 Snapcaster Mage
-4 Snapcaster Mage
-1 Wizard's Lightning
-1 Atarka's Command
-1 Soul-Scar Mage
-1 Mutagenic Growth
-2 Wizard's Lightning
-2 Mutagenic Growth
-2 Atarka's Command
-2 Soul-Scar Mage
-3 Wizard's Lightning
-3 Vapor Snag
-3 Atarka's Command
-3 Soul-Scar Mage
-4 Wizard's Lightning
-4 Soul-Scar Mage
-1 Snow-Covered Swamp
-1 Ice Tunnel
-1 Cling to Dust
-1 Tyrant's Scorn
-2 Deprive
-3 Spell Pierce
-1 Darkslick Shores
-1 Bitterblossom
-1 Bloodchief's Thirst
-1 Ancestral Vision
-2 Spell Snare
-2 Darkslick Shores
-2 Bitterblossom
-2 Ancestral Vision
-2 Swamp
-3 Darkslick Shores
-3 Bitterblossom
-3 Ancestral Vision
-2 Ascendant Spirit
-3 Ascendant Spirit
-4 Ascendant Spirit
-1 Brazen Borrower
 1 Tarmogoyf
 1 Forest
 2 Breeding Pool
@@ -166,12 +113,15 @@
 3 Tarmogoyf
 4 Misty Rainforest
 4 Tarmogoyf
-1 Agadeem's Awakening
-1 Wizard's Retort
-1 Become Immense
-1 Icehide Golem
-2 Unearth
-2 Icehide Golem
+1 Opt
+2 Opt
+3 Opt
+4 Opt
+4 Watery Grave
+3 Spell Pierce
+2 Thoughtseize
+1 Unearth
+4 Fatal Push
 1 Grim Lavamancer
 1 Waterlogged Grove
 1 Monastery Swiftspear
@@ -179,60 +129,86 @@
 1 Lightning Helix
 2 Lightning Helix
 3 Lightning Helix
+3 Subtlety
 1 Scavenging Ooze
 1 Snakeskin Veil
-1 Burst Lightning
 1 Jace, Vryn's Prodigy
+1 Burst Lightning
 2 Snakeskin Veil
 3 Wooded Foothills
+4 Unholy Heat
+4 Island
+1 Blood Crypt
+1 Kolaghan's Command
+2 Kolaghan's Command
+3 Snapcaster Mage
+4 Snapcaster Mage
+1 Cling to Dust
+1 Snow-Covered Swamp
+1 Deprive
+1 Icehide Golem
+1 Archmage's Charm
+1 Ascendant Spirit
+1 Mystic Sanctuary
+1 Ice Tunnel
+1 Tyrant's Scorn
+2 Unearth
+2 Deprive
+2 Archmage's Charm
+2 Icehide Golem
+3 Archmage's Charm
+3 Snow-Covered Island
+4 Archmage's Charm
+4 Snow-Covered Island
 4 Ragavan, Nimble Pilferer
-1 Stubborn Denial
+1 Magmatic Channeler
+1 Wizard's Retort
+1 Become Immense
+2 Magmatic Channeler
+3 Magmatic Channeler
+4 Magmatic Channeler
 1 Disrupting Shoal
 1 Hexdrinker
-2 Stubborn Denial
+1 Stubborn Denial
 2 Disrupting Shoal
 2 Hexdrinker
 2 Brazen Borrower
-3 Stubborn Denial
+2 Stubborn Denial
 3 Hexdrinker
+3 Stubborn Denial
 3 Disrupting Shoal
+4 Hexdrinker
 4 Stubborn Denial
 4 Mana Leak
 4 Disrupting Shoal
-4 Hexdrinker
+1 Agadeem's Awakening
 1 Dauthi Voidwalker
 1 Dismember
 1 Verdant Catacombs
 1 Death's Shadow
 2 Suspend
 2 Dauthi Voidwalker
-2 Dismember
 2 Verdant Catacombs
 2 Death's Shadow
+2 Dismember
 3 Verdant Catacombs
 3 Thoughtseize
-3 Death's Shadow
 3 Dauthi Voidwalker
+3 Death's Shadow
 4 Dauthi Voidwalker
 4 Verdant Catacombs
-4 Death's Shadow
 4 Thoughtseize
-1 Young Pyromancer
-2 Young Pyromancer
-3 Young Pyromancer
-4 Young Pyromancer
-1 Marsh Flats
-2 Agadeem's Awakening
-2 Marsh Flats
-2 Bloodchief's Thirst
-4 Darkslick Shores
-1 Sprite Dragon
-1 Snow-Covered Mountain
-1 Volatile Fjord
-2 Sprite Dragon
-3 Sprite Dragon
-3 Remand
-4 Sprite Dragon
-5 Snow-Covered Island
-6 Snow-Covered Island
+4 Death's Shadow
+1 Darkslick Shores
+1 Ancestral Vision
+1 Bitterblossom
+1 Bloodchief's Thirst
+2 Spell Snare
+2 Darkslick Shores
+2 Swamp
+2 Ancestral Vision
+2 Bitterblossom
+3 Darkslick Shores
+3 Bitterblossom
+3 Ancestral Vision
 4 Ancestral Vision

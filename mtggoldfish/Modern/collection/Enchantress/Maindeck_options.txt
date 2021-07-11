@@ -1,4 +1,4 @@
-1 Emrakul, the Aeons Torn
+1 Mana Bloom
 6 Snow-Covered Forest
 3 Prismatic Vista
 1 Yavimaya, Cradle of Growth
@@ -6,16 +6,17 @@
 3 Snow-Covered Plains
 1 Verdant Catacombs
 1 Eidolon of Blossoms
-3 Wooded Foothills
-1 Arid Mesa
-4 Solitary Confinement
 1 Oblivion Ring
+7 Snow-Covered Forest
+3 Wooded Foothills
 3 Temple Garden
+1 Arid Mesa
 1 Misty Rainforest
 1 Sacred Foundry
+4 Snow-Covered Plains
 1 Setessan Champion
 2 Setessan Champion
-7 Snow-Covered Forest
+4 Solitary Confinement
 1 Solitude
 1 Wheel of Sun and Moon
 1 Solemnity
@@ -37,13 +38,9 @@
 3 Forest
 4 Forest
 2 Eidolon of Blossoms
-4 Snow-Covered Plains
 8 Snow-Covered Forest
-2 Sigil of the Empty Throne
 1 Flame Blitz
 2 Solitude
-1 Horizon Canopy
-2 Horizon Canopy
 1 Seal of Primordium
 3 Noble Hierarch
 5 Forest
@@ -51,6 +48,7 @@
 4 Setessan Champion
 4 Wooded Foothills
 1 Sphere of Safety
+2 Sigil of the Empty Throne
 1 Satyr Enchanter
 1 Suppression Field
 2 Suppression Field
@@ -58,10 +56,10 @@
 3 Satyr Enchanter
 3 Plains
 4 Prismatic Vista
-2 Cast Out
 1 Nine Lives
 2 Nine Lives
-2 Arid Mesa
+1 Horizon Canopy
+2 Horizon Canopy
 2 Greater Auramancy
 1 Helix Pinnacle
 1 Arbor Elf
@@ -77,11 +75,13 @@
 1 Trace of Abundance
 2 Trace of Abundance
 2 Hall of Heliod's Generosity
-2 Sacred Foundry
-3 Arid Mesa
-4 Arid Mesa
+2 Cast Out
 3 Greater Auramancy
 4 Greater Auramancy
+2 Sacred Foundry
+2 Arid Mesa
+3 Arid Mesa
+4 Arid Mesa
 1 Privileged Position
 1 Quarantine Field
 1 Ghostly Prison

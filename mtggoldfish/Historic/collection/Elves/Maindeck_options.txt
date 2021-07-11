@@ -22,10 +22,10 @@
 14 Forest
 15 Forest
 2 Growing Rites of Itlimoc
-1 Darkbore Pathway
 1 Overgrown Tomb
-2 Darkbore Pathway
+1 Darkbore Pathway
 2 Overgrown Tomb
+2 Darkbore Pathway
 3 Overgrown Tomb
 3 Darkbore Pathway
 4 Darkbore Pathway
@@ -51,10 +51,10 @@
 1 Temple Garden
 2 Branchloft Pathway
 2 Temple Garden
-3 Temple Garden
 3 Branchloft Pathway
-4 Branchloft Pathway
+3 Temple Garden
 4 Temple Garden
+4 Branchloft Pathway
 1 The Great Henge
 1 Llanowar Visionary
 2 Llanowar Visionary
@@ -91,8 +91,8 @@
 2 Ram Through
 2 Blizzard Brawl
 2 Snakeskin Veil
-3 Snakeskin Veil
 3 Blizzard Brawl
+3 Snakeskin Veil
 4 Snakeskin Veil
 20 Snow-Covered Forest
 1 Druid of the Cowl
@@ -102,21 +102,21 @@
 1 Lys Alana Huntmaster
 2 Lys Alana Huntmaster
 1 Swamp
-1 Haunting Voyage
 1 Harald Unites the Elves
 1 Elven Ambush
 1 Poison-Tip Archer
-2 Swamp
+1 Haunting Voyage
 2 Harald Unites the Elves
 2 Abomination of Llanowar
 2 Druid of the Cowl
 2 Elven Ambush
 2 Poison-Tip Archer
+2 Swamp
 2 Canopy Tactician
 3 Swamp
 3 Druid of the Cowl
-4 Swamp
 4 Druid of the Cowl
+4 Swamp
 5 Swamp
 6 Swamp
 7 Swamp
@@ -128,15 +128,15 @@
 1 Vivien, Arkbow Ranger
 1 Pelt Collector
 2 Pelt Collector
-1 Necroblossom Snarl
-1 Skemfar Elderhall
-2 Necroblossom Snarl
 1 Wildborn Preserver
 2 Wildborn Preserver
 1 Lead the Stampede
 2 Lead the Stampede
 1 Elderfang Disciple
 2 Elderfang Disciple
+1 Necroblossom Snarl
+1 Skemfar Elderhall
+2 Necroblossom Snarl
 1 Temple of Malady
 2 Temple of Malady
 3 Temple of Malady
@@ -158,8 +158,8 @@
 3 Woodland Cemetery
 4 Woodland Cemetery
 1 Grafdigger's Cage
-1 Questing Beast
 1 Primal Might
+1 Questing Beast
 1 Yorvo, Lord of Garenbrig
 2 Primal Might
 2 Questing Beast
@@ -171,7 +171,6 @@
 3 Unclaimed Territory
 4 Unclaimed Territory
 1 Containment Breach
-1 Devouring Tendrils
 1 Tangletrap
 1 Elven Bow
 1 Rishkar, Peema Renegade
@@ -179,6 +178,7 @@
 1 Silhana Wayfinder
 1 Wren's Run Vanquisher
 1 Woodland Champion
+1 Devouring Tendrils
 1 Lovestruck Beast
 1 Charge of the Forever-Beast
 1 Skyway Sniper
