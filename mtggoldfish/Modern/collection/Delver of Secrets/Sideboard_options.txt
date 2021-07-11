@@ -45,17 +45,17 @@
 1 Lurrus of the Dream-Den
 1 Collective Brutality
 2 Collective Brutality
-1 Chalice of the Void
 1 Firespout
 1 Vandalblast
 1 Ashiok, Dream Render
 1 Fiery Cannonade
+1 Chalice of the Void
 1 Wear/Tear
 1 Sanctifier en-Vec
 2 Wear/Tear
 1 Skyclave Apparition
-1 Lightning Helix
 1 Rip Apart
+1 Lightning Helix
 1 Disdainful Stroke
 2 Skyclave Apparition
 1 Annul
@@ -68,14 +68,6 @@
 2 Snapcaster Mage
 2 Countersquall
 3 Snapcaster Mage
-1 Vapor Snag
-1 Geth's Verdict
-1 Psychic Barrier
-2 Vapor Snag
-2 Brazen Borrower
-2 Geth's Verdict
-2 Psychic Barrier
-3 Collective Brutality
 1 Tarmogoyf
 1 Shattering Spree
 1 Kozilek's Return
@@ -85,10 +77,14 @@
 3 Tarmogoyf
 2 Fury
 3 Abrade
-1 Ancestral Vision
-2 Ancestral Vision
-3 Tormod's Crypt
-4 Cleansing Wildfire
+1 Geth's Verdict
+1 Vapor Snag
+1 Psychic Barrier
+2 Brazen Borrower
+2 Geth's Verdict
+2 Vapor Snag
+2 Psychic Barrier
+3 Collective Brutality
 1 Drown in the Loch
 1 Nihil Spellbomb
 1 Heartless Act
@@ -100,6 +96,10 @@
 2 Heartless Act
 3 Drown in the Loch
 4 Drown in the Loch
+1 Ancestral Vision
+2 Ancestral Vision
+3 Tormod's Crypt
+4 Cleansing Wildfire
 1 Shadowspear
 4 Rest in Peace
 1 Kaya's Guile

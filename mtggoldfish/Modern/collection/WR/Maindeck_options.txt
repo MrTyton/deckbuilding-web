@@ -1,12 +1,12 @@
-1 Sanctifier en-Vec
+1 Maul of the Skyclaves
 1 Sword of Feast and Famine
 7 Plains
 1 Field of Ruin
 2 Field of Ruin
-3 Sunbaked Canyon
 1 Skyclave Cleric
 3 Wall of Omens
 4 Wall of Omens
+3 Sunbaked Canyon
 1 Archon of Emeria
 1 Prismatic Ending
 1 Shadowspear
@@ -18,12 +18,6 @@
 2 Mishra's Factory
 1 Phyrexian Revoker
 1 Eiganjo Castle
-1 Lightning Bolt
-2 Lightning Bolt
-2 Mountain
-3 Lightning Bolt
-4 Lightning Bolt
-8 Plains
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
@@ -31,41 +25,43 @@
 2 Magus of the Moon
 3 Marsh Flats
 4 Marsh Flats
+8 Plains
 2 Archon of Emeria
 3 Field of Ruin
 3 Archon of Emeria
 4 Archon of Emeria
-4 Sunbaked Canyon
-1 Felidar Guardian
-1 Kiki-Jiki, Mirror Breaker
-1 Rugged Prairie
+1 Lightning Bolt
 1 Mirran Crusader
 1 Slayers' Stronghold
+2 Lightning Bolt
+2 Mountain
 2 Slayers' Stronghold
+3 Lightning Bolt
+4 Lightning Bolt
 4 Sacred Foundry
 1 Silent Clearing
 2 Silent Clearing
 3 Silent Clearing
 3 Sanctum Prelate
+4 Sunbaked Canyon
 4 Field of Ruin
 4 Silent Clearing
 1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
 4 Urza's Saga
-2 Sanctifier en-Vec
 1 Godless Shrine
 3 Prismatic Ending
 4 Prismatic Ending
+2 Sanctifier en-Vec
 1 Spellskite
 1 Lightning Helix
 2 Lightning Helix
 3 Lightning Helix
+1 Felidar Guardian
+1 Kiki-Jiki, Mirror Breaker
+1 Rugged Prairie
 2 Rugged Prairie
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
-4 Ragavan, Nimble Pilferer
 1 Sword of Hearth and Home
 1 Thraben Inspector
 1 Restoration Angel
@@ -76,14 +72,10 @@
 3 Mishra's Factory
 1 Temple Garden
 1 Horizon Canopy
-1 Prismatic Vista
-2 Prismatic Vista
 1 Basilisk Collar
 1 Cavern of Souls
 1 Blinkmoth Nexus
 2 Blinkmoth Nexus
-1 Fury
-2 Fury
 1 Sunhome, Fortress of the Legion
 1 Scavenger Grounds
 2 Scavenger Grounds
@@ -95,11 +87,13 @@
 1 Birds of Paradise
 1 Razorverge Thicket
 1 Aven Mindcensor
+1 Prismatic Vista
 1 Stonehorn Dignitary
 1 Eternal Witness
 1 Knight of Autumn
 1 Forest
 2 Wooded Foothills
+2 Prismatic Vista
 2 Birds of Paradise
 2 Horizon Canopy
 2 Temple Garden
@@ -113,6 +107,12 @@
 2 Tectonic Edge
 3 Tectonic Edge
 4 Tectonic Edge
+1 Ragavan, Nimble Pilferer
+1 Fury
+2 Fury
+2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
+4 Ragavan, Nimble Pilferer
 1 Branchloft Pathway
 1 Path to Exile
 1 Dryad Arbor

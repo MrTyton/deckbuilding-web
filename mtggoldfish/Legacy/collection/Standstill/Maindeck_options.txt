@@ -54,8 +54,8 @@
 3 Snow-Covered Island
 1 Snow-Covered Forest
 1 Uro, Titan of Nature's Wrath
-1 Tropical Island
 1 Savannah
+1 Tropical Island
 2 Uro, Titan of Nature's Wrath
 3 Misty Rainforest
 1 Court of Grace
@@ -64,9 +64,10 @@
 2 Narset, Parter of Veils
 1 Hullbreacher
 1 Fblthp, the Lost
+1 Marsh Flats
+1 Windswept Heath
 1 Venser, Shaper Savant
 1 Solitude
-1 Marsh Flats
 1 Meddling Mage
 1 Lavinia, Azorius Renegade
 1 Palace Jailer
@@ -76,25 +77,24 @@
 1 Weathered Wayfarer
 1 Barrin, Tolarian Archmage
 1 Recruiter of the Guard
-1 Windswept Heath
 1 Peacekeeper
+2 Marsh Flats
+2 Windswept Heath
 2 Brought Back
 2 Solitude
 2 Karakas
-2 Marsh Flats
 2 Meddling Mage
-2 Windswept Heath
 2 Fblthp, the Lost
 2 Recruiter of the Guard
 2 Aether Vial
 2 Weathered Wayfarer
 3 Brought Back
+3 Windswept Heath
 3 Solitude
 3 Meddling Mage
 3 Recruiter of the Guard
 3 Weathered Wayfarer
 3 Aether Vial
-3 Windswept Heath
 4 Solitude
 4 Tundra
 4 Aether Vial
@@ -109,18 +109,18 @@
 3 Uro, Titan of Nature's Wrath
 1 Crucible of Worlds
 1 Back to Basics
+1 Sylvan Library
 1 Ice-Fang Coatl
 1 Endurance
 1 Batterskull
-1 Sylvan Library
 1 Stoneforge Mystic
 2 Tropical Island
 2 Snow-Covered Forest
 2 Ice-Fang Coatl
 2 Endurance
 2 Stoneforge Mystic
-3 Stoneforge Mystic
 3 Ice-Fang Coatl
+3 Stoneforge Mystic
 4 Prismatic Vista
 1 Mishra's Factory
 2 Counterspell
@@ -130,18 +130,18 @@
 1 Mox Diamond
 1 Tranquil Thicket
 1 Life from the Loam
-1 Field of the Dead
 1 Forest
+1 Field of the Dead
 1 Lonely Sandbar
 2 Mox Diamond
 2 Life from the Loam
 3 Mox Diamond
 3 Life from the Loam
+4 Wasteland
 4 Uro, Titan of Nature's Wrath
 4 Mox Diamond
-4 Wasteland
-1 Underground Sea
 1 Swamp
+1 Underground Sea
 1 Knight of the White Orchid
 2 Knight of the White Orchid
 1 Niambi, Esteemed Speaker
@@ -170,11 +170,11 @@
 1 Engineered Explosives
 2 Engineered Explosives
 3 Murktide Regent
+1 Academy Ruins
 1 Karn, the Great Creator
 1 Expedition Map
 1 Ancient Tomb
 1 Thespian's Stage
-1 Academy Ruins
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 3 Terminus
@@ -184,11 +184,11 @@
 2 Snapcaster Mage
 2 Ominous Seas
 3 Ominous Seas
-1 Bayou
+1 Abrupt Decay
 1 Verdant Catacombs
 1 Bojuka Bog
 1 Crop Rotation
-1 Abrupt Decay
+1 Bayou
 2 Abrupt Decay
 2 Field of the Dead
 3 Abrupt Decay
@@ -196,6 +196,15 @@
 1 Relic of Progenitus
 3 Scalding Tarn
 4 Scalding Tarn
+1 Day's Undoing
+2 Hullbreacher
+2 Day's Undoing
+3 Mishra's Factory
+3 Narset, Parter of Veils
+4 Force of Negation
+2 Retrofitter Foundry
+4 Snow-Covered Island
+5 Snow-Covered Island
 1 Vanishing Verse
 1 Trial of Ambition
 1 Estrid's Invocation
@@ -207,12 +216,3 @@
 2 Trial of Ambition
 3 Omen of the Sea
 4 Polluted Delta
-2 Retrofitter Foundry
-4 Snow-Covered Island
-5 Snow-Covered Island
-1 Day's Undoing
-2 Hullbreacher
-2 Day's Undoing
-3 Mishra's Factory
-4 Force of Negation
-3 Narset, Parter of Veils

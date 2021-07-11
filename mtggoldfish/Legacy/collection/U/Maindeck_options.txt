@@ -1,55 +1,53 @@
-2 Thoughtcast
+4 Ethersworn Canonist
 4 Walking Ballista
+1 Thoughtcast
+2 Thoughtcast
+3 Ancient Den
+4 Ancient Den
+1 Ornithopter
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 1 Arcbound Ravager
 2 Arcbound Ravager
 3 Arcbound Ravager
 4 Arcbound Ravager
-3 Ethersworn Canonist
-4 Ethersworn Canonist
-1 Ornithopter
-3 Ancient Den
-4 Ancient Den
-3 Stonecoil Serpent
-3 Thoughtcast
 2 Ornithopter
 3 Ornithopter
 4 Ornithopter
 1 Springleaf Drum
 2 Springleaf Drum
 3 Springleaf Drum
+3 Thoughtcast
 1 Cavern of Souls
 4 Mishra's Bauble
+3 Stonecoil Serpent
 4 Emry, Lurker of the Loch
 2 Cavern of Souls
 3 Cavern of Souls
 4 Cavern of Souls
 4 Thoughtcast
+1 Urza's Bauble
 4 Stonecoil Serpent
 1 Vault Skirge
 2 Vault Skirge
 3 Vault Skirge
-1 Urza's Bauble
-1 Shadowspear
 4 Springleaf Drum
 1 Cranial Plating
-4 Vault Skirge
-1 Darksteel Citadel
-2 Darksteel Citadel
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
+1 Shadowspear
+4 Karn, the Great Creator
+2 Urza's Bauble
+1 Hullbreacher
 1 City of Traitors
 3 Island
 4 Island
-4 Karn, the Great Creator
-2 Urza's Bauble
-3 Darksteel Citadel
-4 Darksteel Citadel
-1 Welding Jar
-1 Hullbreacher
 1 Tundra
+1 Welding Jar
+4 Vault Skirge
+1 Darksteel Citadel
+2 Darksteel Citadel
 2 Hullbreacher
 1 Force of Will
 2 Force of Will
@@ -57,6 +55,8 @@
 4 Force of Will
 1 Crucible of Worlds
 1 Pithing Needle
+3 Darksteel Citadel
+4 Darksteel Citadel
 2 Tundra
 1 Expedition Map
 1 Plains
@@ -79,11 +79,11 @@
 2 Retrofitter Foundry
 2 Plains
 3 Plains
-1 Aether Spellbomb
 3 Tundra
 3 Master of Etherium
 1 Phyrexian Walker
 4 Urza's Bauble
+1 Aether Spellbomb
 1 Tormod's Crypt
 1 Zabaz, the Glimmerwasp
 4 Plains
@@ -123,10 +123,10 @@
 3 Retrofitter Foundry
 3 Wasteland
 4 Wasteland
-1 Great Furnace
 1 Galvanic Blast
-2 Great Furnace
+1 Great Furnace
 2 Galvanic Blast
+2 Great Furnace
 3 Great Furnace
 3 Galvanic Blast
 4 Great Furnace
@@ -138,14 +138,14 @@
 1 Snow-Covered Plains
 1 Kaldra Compleat
 1 Hope of Ghirapur
-1 Inkmoth Nexus
 1 Colossus Hammer
 1 Steelshaper's Gift
+1 Inkmoth Nexus
 1 Puresteel Paladin
 1 Sigarda's Aid
-2 Inkmoth Nexus
 2 Snow-Covered Plains
 2 Karakas
+2 Inkmoth Nexus
 2 Steelshaper's Gift
 2 Colossus Hammer
 2 Sigarda's Aid
@@ -158,13 +158,6 @@
 4 Puresteel Paladin
 4 Sigarda's Aid
 4 Colossus Hammer
-1 Mishra's Factory
-1 Mox Diamond
-2 Mishra's Factory
-2 Mox Diamond
-3 Mishra's Factory
-3 Mox Diamond
-4 Mishra's Factory
 1 Myr Enforcer
 1 Thassa's Oracle
 1 Tree of Tales
