@@ -44,8 +44,8 @@
 1 Vanishing Verse
 1 Hengegate Pathway
 1 Plains
-2 Brightclimb Pathway
 2 Vanishing Verse
+2 Brightclimb Pathway
 2 Hengegate Pathway
 3 Vanishing Verse
 3 Brightclimb Pathway
@@ -117,33 +117,31 @@
 2 Eureka Moment
 2 Ketria Triome
 1 Solemn Simulacrum
-2 Ugin, the Spirit Dragon
 2 Professor Onyx
+2 Ugin, the Spirit Dragon
 2 Solemn Simulacrum
 3 Solemn Simulacrum
 2 Hagra Mauling
 3 Hagra Mauling
 1 Branchloft Pathway
+1 Shineshadow Snarl
 1 Emeria's Call
 1 Archon of Sun's Grace
 1 Omen of the Sun
 1 Priest of Ancient Lore
 1 Yorion, Sky Nomad
-1 Shineshadow Snarl
 1 Westgate Regent
 2 Branchloft Pathway
 2 Emeria's Call
+2 Indatha Triome
 2 Yorion, Sky Nomad
 2 Omen of the Sun
-2 Indatha Triome
 2 Priest of Ancient Lore
 2 Westgate Regent
 2 Archon of Sun's Grace
-3 Emeria's Call
 3 Indatha Triome
+3 Emeria's Call
 3 Westgate Regent
-1 Koma, Cosmos Serpent
-4 Forest
 1 Castle Ardenvale
 1 Doomskar
 3 Raugrin Triome
@@ -155,6 +153,8 @@
 3 Negate
 3 Temple of Enlightenment
 4 Temple of Enlightenment
+1 Koma, Cosmos Serpent
+4 Forest
 1 Dream Trawler
 4 Plains
 2 Essence Scatter

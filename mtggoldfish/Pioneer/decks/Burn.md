@@ -1,7 +1,7 @@
 # Burn
 
 #### [Export MTGO List](../collection/Burn/Burn.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Battlefield%20Forge%0A4%09Boros%20Charm%0A4%09Eidolon%20of%20the%20Great%20Revel%0A4%09Ghitu%20Lavarunner%0A4%09Inspiring%20Vantage%0A4%09Light%20Up%20the%20Stage%0A3%09Lightning%20Strike%0A4%09Monastery%20Swiftspear%0A7%09Mountain%0A4%09Sacred%20Foundry%0A1%09Shock%0A4%09Soul-Scar%20Mage%0A4%09Viashino%20Pyromancer%0A4%09Wild%20Slash%0A4%09Wizard's%20Lightning%0A1%09Zurgo%20Bellstriker&deckside=4%09Chained%20to%20the%20Rocks%0A1%09Lurrus%20of%20the%20Dream-Den%0A2%09Rest%20in%20Peace%0A4%09Roiling%20Vortex%0A4%09Searing%20Blood)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Battlefield%20Forge%0A4%09Boros%20Charm%0A4%09Eidolon%20of%20the%20Great%20Revel%0A4%09Ghitu%20Lavarunner%0A4%09Inspiring%20Vantage%0A4%09Light%20Up%20the%20Stage%0A3%09Lightning%20Strike%0A4%09Monastery%20Swiftspear%0A7%09Mountain%0A4%09Sacred%20Foundry%0A1%09Shock%0A4%09Soul-Scar%20Mage%0A4%09Viashino%20Pyromancer%0A4%09Wild%20Slash%0A4%09Wizard's%20Lightning%0A1%09Zurgo%20Bellstriker&deckside=4%09Chained%20to%20the%20Rocks%0A1%09Lurrus%20of%20the%20Dream-Den%0A1%09Rest%20in%20Peace%0A4%09Roiling%20Vortex%0A4%09Searing%20Blood%0A1%09Skullcrack)
 # Maindeck
 
 |                                             Creature (21)                                             |                                         Instant (16)                                          |                                          Land (19)                                           |                                          Sorcery (4)                                          |
@@ -16,10 +16,10 @@
 
 # Sideboard
 
-|                                            Creature (1)                                            |                                        Enchantment (10)                                         |                                       Instant (4)                                        |
+|                                            Creature (1)                                            |                                         Enchantment (9)                                         |                                       Instant (5)                                        |
 |----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 |1 [Lurrus of the Dream-Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479746)|4 [Chained to the Rocks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373521)|4 [Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)|
-|                                                                                                    |2 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |                                                                                          |
+|                                                                                                    |1 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |1 [Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)   |
 |                                                                                                    |4 [Roiling Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491797)      |                                                                                          |
 
 
@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)|                    1|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)         |
-|                    2|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)              |                    2|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)         |
+|                    1|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)|                    2|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)         |
+|                    2|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)              |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
 |                    1|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)      |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
 |                    2|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)|                    2|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
 |                    4|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)   |                    1|[Rip Apart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513717)          |
@@ -40,15 +40,14 @@
 |                    1|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)  |                    1|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)          |
 |                    2|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)  |                    1|[Revoke Existence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378397)   |
 |                    3|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)              |                    2|[Revoke Existence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378397)   |
-|                    3|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)      |                    1|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259) |
-|                    3|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)  |                    1|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)|
-|                    4|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)              |                    1|[Viashino Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447302)|
-|                    9|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    2|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259) |
-|                   10|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    3|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259) |
-|                   11|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    4|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259) |
-|                   12|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    2|[Hazoret the Fervent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426838)|
+|                    3|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)      |                    1|[Rampaging Ferocidon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435308)|
+|                    3|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)  |                    2|[Rampaging Ferocidon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435308)|
+|                    4|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)              |                    3|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)         |
+|                    9|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    4|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)         |
+|                   10|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    3|[Rampaging Ferocidon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435308)|
+|                   11|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                     |                                                                                              |
+|                   12|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                     |                                                                                              |
 |                   13|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                     |                                                                                              |
 |                   14|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                     |                                                                                              |
-|                   15|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                     |                                                                                              |
 |                    4|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)      |                     |                                                                                              |
 

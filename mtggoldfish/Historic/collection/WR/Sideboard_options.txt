@@ -14,11 +14,11 @@
 2 Sweltering Suns
 1 Chandra, Heart of Fire
 1 Declaration in Stone
+2 Declaration in Stone
 1 Justice Strike
 1 Reidane, God of the Worthy
-2 Justice Strike
-2 Declaration in Stone
 1 Reptilian Reflection
+2 Justice Strike
 1 Abandoned Sarcophagus
 3 Sweltering Suns
 1 Chandra, Torch of Defiance
@@ -31,10 +31,10 @@
 2 Adanto Vanguard
 3 Adanto Vanguard
 2 Deafening Clarion
-1 Roiling Vortex
 1 Baneslayer Angel
 2 Reptilian Reflection
 1 Anger of the Gods
+1 Roiling Vortex
 1 Yasharn, Implacable Earth
 2 Yasharn, Implacable Earth
 1 Easy Prey
@@ -45,14 +45,14 @@
 3 Rip Apart
 1 Lurrus of the Dream-Den
 1 Lightning Helix
-1 Showdown of the Skalds
-2 Showdown of the Skalds
 1 Academic Probation
 1 Expanded Anatomy
 1 Settle the Wreckage
 1 Pillar of Flame
 2 Pillar of Flame
 2 Anger of the Gods
+1 Showdown of the Skalds
+2 Showdown of the Skalds
 3 Showdown of the Skalds
 1 Inkling Summoning
 1 Environmental Sciences
@@ -65,12 +65,11 @@
 3 Baffling End
 1 Light of Hope
 2 Chandra, Torch of Defiance
-2 Roiling Vortex
 1 Gideon of the Trials
 3 Chandra, Torch of Defiance
-2 Abandoned Sarcophagus
 1 Giant Killer
 2 Giant Killer
+2 Abandoned Sarcophagus
 2 Day of Judgment
 1 Hushbringer
 2 Hushbringer
@@ -82,14 +81,15 @@
 1 Containment Priest
 2 Containment Priest
 2 Light of Hope
+2 Roiling Vortex
 1 Reduce to Memory
 1 Ox of Agonas
 1 Kaheera, the Orphanguard
 1 Flameblade Adept
 1 Flamescroll Celebrant
 2 Flamescroll Celebrant
-1 Valiant Rescuer
 1 Desert of the True
+1 Valiant Rescuer
 1 Jegantha, the Wellspring
 2 Thoughtseize
 3 Flamescroll Celebrant
@@ -110,7 +110,6 @@
 2 Elspeth Conquers Death
 3 Elite Spellbinder
 4 Elite Spellbinder
-1 Authority of the Consuls
 2 Gideon of the Trials
 4 Rest in Peace
 1 Apostle of Purifying Light
@@ -135,6 +134,7 @@
 1 Fight as One
 1 Chandra, Fire Artisan
 1 Tibalt, Rakish Instigator
+1 Authority of the Consuls
 1 Seasoned Hallowblade
 1 Phoenix of Ash
 1 Baird, Steward of Argive
@@ -155,9 +155,6 @@
 1 Doom Blade
 2 Doom Blade
 2 Duress
-1 Chandra, Acolyte of Flame
-2 Authority of the Consuls
-2 Chandra, Acolyte of Flame
 1 Shalai, Voice of Plenty
 1 Conclave Tribunal
 2 Shalai, Voice of Plenty
@@ -169,6 +166,10 @@
 3 Gideon's Intervention
 3 Lightning Helix
 4 Lightning Helix
+2 Ox of Agonas
+3 Reidane, God of the Worthy
+4 Reidane, God of the Worthy
+4 Rip Apart
 1 Bonecrusher Giant
 1 Grim Lavamancer
 2 Bonecrusher Giant
@@ -177,10 +178,6 @@
 3 Settle the Wreckage
 4 Bonecrusher Giant
 4 Grafdigger's Cage
-2 Ox of Agonas
-3 Reidane, God of the Worthy
-4 Reidane, God of the Worthy
-4 Rip Apart
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
@@ -197,6 +194,6 @@
 4 Wrath of God
 1 Basri Ket
 2 Basri Ket
-1 Spirit Summoning
 1 Introduction to Annihilation
+1 Spirit Summoning
 1 Luminous Broodmoth

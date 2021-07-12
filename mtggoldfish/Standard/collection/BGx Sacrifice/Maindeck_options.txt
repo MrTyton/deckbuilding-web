@@ -21,8 +21,8 @@
 2 Serrated Scorpion
 3 Kroxa, Titan of Death's Hunger
 1 Kazuul's Fury
-2 Pelakka Predation
 2 Valki, God of Lies
+2 Pelakka Predation
 3 Forbidden Friendship
 1 Shatterskull Smashing
 3 Serrated Scorpion
@@ -36,11 +36,11 @@
 4 Immersturm Predator
 2 Shatterskull Smashing
 2 Kazuul's Fury
+1 Showdown of the Skalds
 1 Drannith Magistrate
 1 Elite Spellbinder
-1 Showdown of the Skalds
-2 Elite Spellbinder
 2 Showdown of the Skalds
+2 Elite Spellbinder
 3 Showdown of the Skalds
 1 Goldspan Dragon
 1 Unleash Fury
@@ -74,8 +74,8 @@
 1 Darkbore Pathway
 1 Cragcrown Pathway
 1 Forest
-2 Cragcrown Pathway
 2 Darkbore Pathway
+2 Cragcrown Pathway
 3 Darkbore Pathway
 3 Cragcrown Pathway
 4 Darkbore Pathway
@@ -106,21 +106,21 @@
 2 Zariel, Archduke of Avernus
 2 Korvold, Fae-Cursed King
 3 Korvold, Fae-Cursed King
-1 Ox of Agonas
 1 Spikefield Hazard
+1 Ox of Agonas
 2 Shredded Sails
 2 Spikefield Hazard
+1 Murderous Rider
 1 Plains
 1 Felidar Retreat
 1 Giant Killer
 1 Thrilling Discovery
 1 Clarion Spirit
-1 Murderous Rider
+2 Plains
 2 Murderous Rider
 2 Thrilling Discovery
 2 Clarion Spirit
 2 Giant Killer
-2 Plains
 3 Giant Killer
 1 Professor Onyx
 2 Professor Onyx
@@ -141,6 +141,13 @@
 1 Shadowspear
 2 Egon, God of Death
 4 Tymaret Calls the Dead
+1 Snow-Covered Swamp
+1 Snow-Covered Mountain
+2 Snow-Covered Swamp
+2 Snow-Covered Mountain
+3 Snow-Covered Swamp
+4 Snow-Covered Swamp
+5 Snow-Covered Swamp
 1 Ray of Enfeeblement
 1 Deadly Dispute
 1 Shambling Ghast
@@ -153,10 +160,3 @@
 4 Wight
 4 Shambling Ghast
 4 Cragcrown Pathway
-1 Snow-Covered Mountain
-1 Snow-Covered Swamp
-2 Snow-Covered Mountain
-2 Snow-Covered Swamp
-3 Snow-Covered Swamp
-4 Snow-Covered Swamp
-5 Snow-Covered Swamp

@@ -56,9 +56,9 @@
 |                    2|[Clearwater Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491913)|                    1|[Soul Shatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491765)        |
 |                    3|[Clearwater Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491913)|                    2|[Go Blank](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513549)            |
 |                    4|[Clearwater Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491913)|                    3|[Archon of Absolution](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472965)|
-|                     |                                                                                             |                    1|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)   |
 |                     |                                                                                             |                    1|[Shark Typhoon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479587)       |
 |                     |                                                                                             |                    1|[Revoke Existence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378397)    |
-|                     |                                                                                             |                    2|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)   |
+|                     |                                                                                             |                    1|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)   |
 |                     |                                                                                             |                    2|[Shark Typhoon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479587)       |
+|                     |                                                                                             |                    2|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)   |
 

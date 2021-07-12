@@ -37,9 +37,9 @@
 3 Footfall Crater
 4 Shatterskull Smashing
 4 Flamescroll Celebrant
-3 Mountain
 4 Plains
 3 Drannith Healer
+3 Mountain
 4 Chandra, Torch of Defiance
 4 Drannith Healer
 3 Reidane, God of the Worthy
@@ -82,27 +82,27 @@
 5 Mountain
 1 Forbidden Friendship
 1 Transmogrify
+1 History of Benalia
+1 Heroic Reinforcements
 1 Raise the Alarm
 1 Legion's Landing
 2 Forbidden Friendship
 2 Transmogrify
+2 History of Benalia
 2 Raise the Alarm
 2 Legion's Landing
+2 Heroic Reinforcements
 3 Forbidden Friendship
 3 Legion's Landing
 3 Transmogrify
-3 Raise the Alarm
-4 Forbidden Friendship
-4 Raise the Alarm
-4 Legion's Landing
-1 History of Benalia
-1 Heroic Reinforcements
-2 History of Benalia
-2 Heroic Reinforcements
 3 Heroic Reinforcements
+3 Raise the Alarm
 3 History of Benalia
+4 Forbidden Friendship
 4 Heroic Reinforcements
 4 History of Benalia
+4 Raise the Alarm
+4 Legion's Landing
 4 Transmogrify
 1 Invigorated Rampage
 2 Invigorated Rampage
@@ -124,9 +124,6 @@
 2 Selfless Savior
 3 Selfless Savior
 4 Selfless Savior
-1 Elesh Norn, Grand Cenobite
-1 Dragon Fodder
-2 Dragon Fodder
 3 Soul-Scar Mage
 4 Soul-Scar Mage
 1 Gods Willing
@@ -140,7 +137,9 @@
 3 Memory Leak
 4 Memory Leak
 1 Reptilian Reflection
-2 Elesh Norn, Grand Cenobite
+1 Elesh Norn, Grand Cenobite
+1 Dragon Fodder
+2 Dragon Fodder
 3 Gods Willing
 1 Blightstep Pathway
 1 Brightclimb Pathway
@@ -152,12 +151,13 @@
 3 Brightclimb Pathway
 1 Furycalm Snarl
 1 Gideon Blackblade
+2 Valiant Rescuer
 1 Satyr's Cunning
 1 Fire Prophecy
 2 Fire Prophecy
-2 Valiant Rescuer
 1 Cragcrown Pathway
 2 Cragcrown Pathway
+2 Elesh Norn, Grand Cenobite
 1 Castle Embereth
 1 Feather, the Redeemed
 2 Feather, the Redeemed
@@ -200,11 +200,6 @@
 2 Gird for Battle
 1 Craterhoof Behemoth
 2 Craterhoof Behemoth
-3 Dragon Fodder
-1 Intangible Virtue
-2 Intangible Virtue
-3 Intangible Virtue
-4 Intangible Virtue
 2 Gideon Blackblade
 1 Thraben Inspector
 1 Mila, Crafty Companion
@@ -223,26 +218,31 @@
 4 Fight as One
 1 Lorehold Command
 2 Lorehold Command
+3 Dragon Fodder
 4 Dragon Fodder
 1 Gideon of the Trials
 3 Coldsteel Heart
-1 Valakut Awakening
-1 Justice Strike
+1 Intangible Virtue
+2 Intangible Virtue
+3 Intangible Virtue
+4 Intangible Virtue
 3 Seasoned Hallowblade
-1 Fabled Passage
-2 Fabled Passage
-1 Temple of Triumph
 3 Fire Prophecy
+1 Temple of Triumph
 7 Plains
+1 Valakut Awakening
 3 Elesh Norn, Grand Cenobite
 3 Furycalm Snarl
 3 Chandra, Awakened Inferno
 4 Coldsteel Heart
 1 Heart of Kiran
-2 Heart of Kiran
 2 Mila, Crafty Companion
+2 Heart of Kiran
 4 Seasoned Hallowblade
+1 Fabled Passage
+2 Fabled Passage
 3 Fabled Passage
+1 Justice Strike
 2 Satyr's Cunning
 1 Luminarch Aspirant
 2 Luminarch Aspirant
@@ -253,9 +253,6 @@
 1 Infuriate
 3 Gird for Battle
 4 Gird for Battle
-2 Justice Strike
-1 Servo Exhibition
-2 Servo Exhibition
 8 Mountain
 1 Imposing Vantasaur
 2 Imposing Vantasaur
@@ -270,10 +267,10 @@
 1 Irencrag Pyromancer
 1 Basri Ket
 1 Rowan, Scholar of Sparks
+1 Zirda, the Dawnwaker
 1 Savai Thundermane
 1 Lava Serpent
 1 Yidaro, Wandering Monster
-1 Zirda, the Dawnwaker
 1 Rooting Moloch
 1 Splendor Mare
 2 Zirda, the Dawnwaker
@@ -311,29 +308,25 @@
 1 Archon of Emeria
 2 Archon of Emeria
 1 Aurelia, Exemplar of Justice
+2 Justice Strike
 2 Aurelia, Exemplar of Justice
-1 Kari Zev, Skyship Raider
-2 Hazoret the Fervent
-2 Kari Zev, Skyship Raider
 1 Alpine Meadow
 2 Alpine Meadow
+1 Kari Zev, Skyship Raider
+2 Kari Zev, Skyship Raider
+2 Hazoret the Fervent
 2 Baffling End
 3 Sweltering Suns
-1 Conclave Tribunal
-1 Indomitable Creativity
-2 Valakut Awakening
-2 Indomitable Creativity
-3 Indomitable Creativity
 3 Sheltered Thicket
 3 Lorehold Command
 1 Show of Confidence
 1 Wind-Scarred Crag
-2 Wind-Scarred Crag
-2 Shock
 2 Show of Confidence
+2 Shock
+2 Wind-Scarred Crag
 3 Shock
-3 Wind-Scarred Crag
 3 Show of Confidence
+3 Wind-Scarred Crag
 3 Lightning Strike
 1 Stomping Ground
 1 Indatha Triome
@@ -349,14 +342,16 @@
 3 Samut's Sprint
 4 Samut's Sprint
 1 Chandra, Acolyte of Flame
+1 Servo Exhibition
 2 Chandra, Acolyte of Flame
+2 Servo Exhibition
 3 Chandra, Acolyte of Flame
 4 Shefet Dunes
 4 Imposing Vantasaur
 1 Mystical Dispute
 1 Temple of Epiphany
-1 Temple of Enlightenment
 1 Negate
+1 Temple of Enlightenment
 1 Startling Development
 1 Hengegate Pathway
 1 Riverglide Pathway
