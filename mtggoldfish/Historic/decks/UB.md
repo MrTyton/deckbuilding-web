@@ -119,7 +119,7 @@
 |                    1|[Sedgemoor Witch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513563)           |                     |                                                                                                 |
 |                    2|[Commit/Memory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426913)             |                     |                                                                                                 |
 |                    2|[Temple of Deceit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373734)          |                     |                                                                                                 |
-|                    2|[Sedgemoor Witch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513563)           |                     |                                                                                                 |
 |                    3|[Sedgemoor Witch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513563)           |                     |                                                                                                 |
 |                    4|[Sedgemoor Witch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513563)           |                     |                                                                                                 |
+|                    2|[Sedgemoor Witch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513563)           |                     |                                                                                                 |
 

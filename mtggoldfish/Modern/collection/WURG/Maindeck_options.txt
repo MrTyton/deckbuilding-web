@@ -1,42 +1,41 @@
+1 Arid Mesa
 1 Growth Spiral
 2 Growth Spiral
-1 Arid Mesa
 1 Mountain
-2 Arid Mesa
 1 Lightning Helix
 2 Lightning Helix
 1 Breeding Pool
 1 Shardless Agent
 2 Shardless Agent
 3 Shardless Agent
-1 Territorial Kavu
-1 Tribal Flames
 1 Scion of Draco
-2 Territorial Kavu
-2 Tribal Flames
-2 Scion of Draco
-3 Territorial Kavu
-3 Tribal Flames
-4 Territorial Kavu
-4 Tribal Flames
 1 Mantis Rider
 1 Temple Garden
+1 Tribal Flames
+1 Territorial Kavu
+2 Scion of Draco
+2 Territorial Kavu
 2 Mantis Rider
+2 Tribal Flames
+3 Territorial Kavu
+3 Tribal Flames
 3 Mantis Rider
+4 Tribal Flames
 4 Mantis Rider
-3 Scion of Draco
-4 Scion of Draco
+4 Territorial Kavu
 4 Shardless Agent
 1 Bloodbraid Elf
 2 Bloodbraid Elf
 3 Bloodbraid Elf
-1 Forest
+3 Scion of Draco
+4 Scion of Draco
+2 Arid Mesa
 1 Island
-3 Growth Spiral
-1 General Ferrous Rokiric
+1 Forest
 1 Windswept Heath
 2 Windswept Heath
 1 Noble Hierarch
+1 General Ferrous Rokiric
 2 General Ferrous Rokiric
 3 General Ferrous Rokiric
 4 Bloodbraid Elf
@@ -50,6 +49,7 @@
 4 Ignoble Hierarch
 2 Verdant Catacombs
 3 Arid Mesa
+3 Growth Spiral
 1 Misty Rainforest
 2 Misty Rainforest
 3 Misty Rainforest
@@ -57,15 +57,15 @@
 1 Omniscience
 1 Khalni Garden
 1 Glimpse of Tomorrow
+1 Emrakul, the Aeons Torn
 1 Gemstone Caverns
 1 Leyline of Sanctity
-1 Emrakul, the Aeons Torn
 1 Violent Outburst
 2 Khalni Garden
 2 Glimpse of Tomorrow
 2 Omniscience
-2 Leyline of Sanctity
 2 Emrakul, the Aeons Torn
+2 Leyline of Sanctity
 2 Violent Outburst
 3 Khalni Garden
 3 Glimpse of Tomorrow
@@ -75,33 +75,30 @@
 3 Violent Outburst
 4 Omniscience
 4 Leyline of Sanctity
-4 Violent Outburst
 4 Emrakul, the Aeons Torn
+4 Violent Outburst
 4 Khalni Garden
 1 As Foretold
 2 As Foretold
 3 As Foretold
+4 Teferi, Time Raveler
+4 Arid Mesa
 3 Lightning Helix
 4 Lightning Helix
-4 Arid Mesa
-1 Indatha Triome
-1 Zagoth Triome
 2 Mountain
 1 Wavesifter
 1 Iona, Shield of Emeria
 2 Wavesifter
 2 Iona, Shield of Emeria
 3 Wavesifter
-4 Teferi, Time Raveler
+1 Indatha Triome
+1 Zagoth Triome
 1 Leyline of the Void
 2 Leyline of the Void
 4 Wavesifter
 1 Archon of Cruelty
 3 Bloodstained Mire
 2 Sacred Foundry
-1 Flooded Strand
-2 Flooded Strand
-4 Growth Spiral
 1 Snow-Covered Forest
 2 Snow-Covered Mountain
 3 Iona, Shield of Emeria
@@ -111,24 +108,27 @@
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
+1 Flooded Strand
+2 Flooded Strand
 4 Bloodstained Mire
-3 Flooded Strand
-4 Flooded Strand
 1 Ulamog, the Infinite Gyre
 1 Manamorphose
 2 Manamorphose
+3 Flooded Strand
 3 Manamorphose
-4 General Ferrous Rokiric
+4 Flooded Strand
 4 Manamorphose
+4 General Ferrous Rokiric
 4 Archon of Cruelty
+4 Growth Spiral
+1 Jace, the Mind Sculptor
 1 Chandra, Torch of Defiance
 1 Fires of Invention
-1 Plains
 2 Raugrin Triome
 1 Kozilek, Butcher of Truth
 2 Gemstone Caverns
 1 Klothys, God of Destiny
-1 Jace, the Mind Sculptor
+1 Plains
 1 Xenagos, God of Revels
 2 Xenagos, God of Revels
 2 Ulamog, the Infinite Gyre
@@ -142,6 +142,8 @@
 3 Tarmogoyf
 3 Windswept Heath
 4 Windswept Heath
+1 Snow-Covered Plains
+4 Prismatic Ending
 1 Explore
 1 Tamiyo, Collector of Tales
 2 Chandra, Torch of Defiance
@@ -153,7 +155,6 @@
 3 Fires of Invention
 4 Fires of Invention
 4 Explore
-4 Prismatic Ending
 1 Griselbrand
 2 Griselbrand
 1 Search for Tomorrow
@@ -171,14 +172,7 @@
 4 Noble Hierarch
 1 Fire/Ice
 2 Fire/Ice
-1 Might of Alara
-2 Might of Alara
-3 Might of Alara
-1 Snapcaster Mage
-2 Snapcaster Mage
-3 Snapcaster Mage
 1 Cindervines
-1 Snow-Covered Plains
 1 Omnath, Locus of Creation
 2 Island
 2 Jace, the Mind Sculptor
@@ -195,6 +189,9 @@
 2 Anafenza, the Foremost
 2 Valakut Awakening
 3 Valakut Awakening
+1 Might of Alara
+2 Might of Alara
+3 Might of Alara
 1 Ugin, the Spirit Dragon
 1 Fiery Islet
 1 Brazen Borrower
@@ -202,8 +199,6 @@
 2 Ugin, the Spirit Dragon
 2 Gemstone Mine
 3 Gemstone Mine
-4 Wild Nacatl
-4 Ragavan, Nimble Pilferer
 3 Griselbrand
 4 Griselbrand
 1 Fire-Lit Thicket
@@ -217,6 +212,8 @@
 2 Izzet Charm
 3 Velomachus Lorehold
 4 Steam Vents
+4 Ragavan, Nimble Pilferer
+4 Wild Nacatl
 1 Swamp
 1 Opt
 2 Swamp
@@ -225,13 +222,7 @@
 3 Opt
 4 Swamp
 4 Opt
+1 Snapcaster Mage
+2 Snapcaster Mage
+3 Snapcaster Mage
 4 Snapcaster Mage
-1 Brushfire Elemental
-1 Boros Charm
-2 Boros Charm
-2 Brushfire Elemental
-3 Boros Charm
-3 Brushfire Elemental
-4 Boros Charm
-4 Brushfire Elemental
-4 Might of Alara

@@ -62,12 +62,6 @@
 1 Beacon Bolt
 1 Run Afoul
 1 Ochran Assassin
-1 Baleful Mastery
-1 Voracious Greatshark
-1 Maelstrom Pulse
-2 Maelstrom Pulse
-2 Baleful Mastery
-2 Voracious Greatshark
 2 Fry
 1 Cast Out
 1 Wrath of God
@@ -77,6 +71,10 @@
 1 Day of Judgment
 2 Rest in Peace
 2 Baffling End
+1 Koma, Cosmos Serpent
+1 Crush the Weak
+2 Crush the Weak
+2 Disdainful Stroke
 1 Sorcerous Spyglass
 1 Platinum Angel
 1 Stonecoil Serpent
@@ -92,12 +90,14 @@
 1 Valakut Awakening
 2 Nightpack Ambusher
 2 Prismari Command
-1 Crush the Weak
-1 Koma, Cosmos Serpent
-2 Crush the Weak
-2 Disdainful Stroke
 1 Scavenging Ooze
 2 Scavenging Ooze
+1 Baleful Mastery
+1 Maelstrom Pulse
+1 Voracious Greatshark
+2 Maelstrom Pulse
+2 Baleful Mastery
+2 Voracious Greatshark
 1 Sweltering Suns
 2 Sweltering Suns
 3 Magma Spray
@@ -111,8 +111,8 @@
 4 Aether Gust
 1 Tale's End
 1 Chandra, Awakened Inferno
-2 Tale's End
 2 Chandra, Awakened Inferno
+2 Tale's End
 3 Tale's End
 4 Mystical Dispute
 1 Languish

@@ -1,13 +1,13 @@
 4 Soul-Guide Lantern
-1 Bontu's Last Reckoning
 1 Profane Memento
 2 Profane Memento
-1 Bloodchief's Thirst
-3 Profane Memento
 1 Ashiok, Dream Render
 2 Ashiok, Dream Render
+1 Bontu's Last Reckoning
 1 Fatal Push
+3 Profane Memento
 1 Ensnaring Bridge
+1 Bloodchief's Thirst
 2 Mystical Dispute
 2 Bloodchief's Thirst
 4 Profane Memento
@@ -28,13 +28,15 @@
 1 Negate
 1 Snapcaster Mage
 2 Go for the Throat
+1 Hurkyl's Recall
+2 Hurkyl's Recall
 2 Lurrus of the Dream-Den
-1 Force of Negation
-2 Force of Negation
 1 Winds of Rebuke
 1 Echoing Truth
-2 Winds of Rebuke
 2 Echoing Truth
+2 Winds of Rebuke
+1 Force of Negation
+2 Force of Negation
 3 Ensnaring Bridge
 2 Surgical Extraction
 1 Spreading Seas
@@ -51,14 +53,6 @@
 1 Counterspell
 2 Counterspell
 3 Counterspell
-1 Lazotep Plating
-1 Weathered Runestone
-1 Nihil Spellbomb
-1 Ashiok, Nightmare Weaver
-2 Lazotep Plating
-2 Weathered Runestone
-2 Nihil Spellbomb
-3 Lazotep Plating
 3 Crypt Incursion
 1 Suspend
 1 Tormod's Crypt
@@ -66,8 +60,8 @@
 1 Jace's Phantasm
 2 Suspend
 2 Tormod's Crypt
-2 Jace's Phantasm
 2 Elixir of Immortality
+2 Jace's Phantasm
 3 Suspend
 3 Jace's Phantasm
 4 Jace's Phantasm

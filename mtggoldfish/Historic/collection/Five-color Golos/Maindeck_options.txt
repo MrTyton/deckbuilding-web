@@ -62,21 +62,21 @@
 3 Swamp
 3 Gilded Goose
 5 Forest
-1 Riverglide Pathway
 1 Omen of the Forge
+1 Riverglide Pathway
 1 Terror of the Peaks
 1 Sanctum of Stone Fangs
 1 Godless Shrine
 1 Needleverge Pathway
 1 Finale of Devastation
 1 Sacred Foundry
-1 Dryad of the Ilysian Grove
 1 Elspeth Conquers Death
 1 Solemn Simulacrum
 1 Branchloft Pathway
 1 Mastermind's Acquisition
 1 Massacre Wurm
 1 Elder Gargaroth
+1 Dryad of the Ilysian Grove
 1 Assassin's Trophy
 1 Sanctum of All
 1 Genesis Ultimatum
@@ -120,7 +120,7 @@
 2 Cultivate
 2 Finale of Devastation
 2 Klothys, God of Destiny
-2 Sanctum of Stone Fangs
+2 Dryad of the Ilysian Grove
 2 Assassin's Trophy
 2 The Birth of Meletis
 2 Elspeth Conquers Death
@@ -144,12 +144,12 @@
 2 Trial of Knowledge
 2 Genesis Ultimatum
 2 Hallowed Fountain
+2 Sanctum of Stone Fangs
 2 Omen of the Hunt
 2 Fae of Wishes
 2 Savai Triome
 2 Renegade Map
 2 Cragcrown Pathway
-2 Dryad of the Ilysian Grove
 2 Prophetic Prism
 3 Ketria Triome
 3 Cultivate
@@ -158,16 +158,16 @@
 3 Island
 3 Sacred Foundry
 3 Plains
+3 Dryad of the Ilysian Grove
 3 Evolving Wilds
-3 Sanctum of Stone Fangs
 3 Wrath of God
 3 Assassin's Trophy
 3 Escape to the Wilds
+3 Sanctum of Stone Fangs
 3 Deafening Clarion
 3 Savai Triome
 3 Fae of Wishes
 3 Hallowed Fountain
-3 Dryad of the Ilysian Grove
 3 Renegade Map
 3 Cragcrown Pathway
 3 Mirari's Wake
@@ -189,6 +189,7 @@
 4 Overgrown Tomb
 4 Cultivate
 4 Sacred Foundry
+4 Dryad of the Ilysian Grove
 4 Evolving Wilds
 4 Deafening Clarion
 4 Wrath of God
@@ -198,7 +199,6 @@
 4 Renegade Map
 4 Migration Path
 4 Gilded Goose
-4 Dryad of the Ilysian Grove
 4 Steam Vents
 4 Hallowed Fountain
 4 Stomping Ground
@@ -234,8 +234,8 @@
 1 Woodland Cemetery
 1 Deputy of Detention
 1 Calix, Destiny's Hand
-1 Elspeth's Nightmare
 1 In Search of Greatness
+1 Elspeth's Nightmare
 1 Renegade Rallier
 1 Hostage Taker
 1 Setessan Champion
@@ -246,8 +246,8 @@
 2 Sunpetal Grove
 2 Hinterland Harbor
 2 Calix, Destiny's Hand
-2 Elspeth's Nightmare
 2 Glacial Fortress
+2 Elspeth's Nightmare
 3 Glacial Fortress
 3 Skyclave Apparition
 3 In Search of Greatness
@@ -280,9 +280,9 @@
 4 Karn, Scion of Urza
 4 Forsaken Monument
 1 Runed Halo
+2 Runed Halo
 2 Honden of Cleansing Fire
 2 Honden of Night's Reach
-2 Runed Halo
 2 Sanctum of Calm Waters
 3 Archon of Sun's Grace
 3 Solemn Simulacrum
@@ -407,8 +407,8 @@
 1 Temple of Malady
 1 Vivien, Champion of the Wilds
 1 Paradise Druid
-1 Auspicious Starrix
 1 Darkbore Pathway
+1 Auspicious Starrix
 1 Vineglimmer Snarl
 1 Vivien Reid
 1 Nissa, Who Shakes the World
@@ -495,8 +495,8 @@
 3 Simic Guildgate
 4 Metalwork Colossus
 1 Lukka, Coppercoat Outcast
-1 Jace, Unraveler of Secrets
 1 Thassa, Deep-Dwelling
+1 Jace, Unraveler of Secrets
 1 Heliod, Sun-Crowned
 1 Glaive of the Guildpact
 1 The First Iroan Games
