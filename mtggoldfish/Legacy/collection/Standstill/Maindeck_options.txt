@@ -1,58 +1,49 @@
-1 Island
-1 Pithing Needle
-3 Flooded Strand
-4 Standstill
 1 Snow-Covered Plains
-4 Flooded Strand
-1 Shark Typhoon
-1 Prismatic Vista
+1 Island
 1 Arid Mesa
 2 Arid Mesa
-1 Plains
-2 Shark Typhoon
+3 Standstill
+3 Flooded Strand
+4 Standstill
+1 Snow-Covered Island
+1 Prismatic Vista
+4 Flooded Strand
+1 Shark Typhoon
 1 Jace, the Mind Sculptor
+2 Prismatic Ending
+2 Force of Negation
+1 Plains
+2 Jace, the Mind Sculptor
+2 Shark Typhoon
 1 Hall of Heliod's Generosity
 1 Teferi, Time Raveler
 3 Shark Typhoon
 2 Island
-1 Supreme Verdict
 3 Island
-2 Jace, the Mind Sculptor
-1 Narset, Parter of Veils
 4 Island
-2 Force of Negation
-1 Snow-Covered Island
-2 Plains
-2 Teferi, Time Raveler
-2 Supreme Verdict
-2 Prismatic Vista
-2 Prismatic Ending
-4 Shark Typhoon
 2 Misty Rainforest
-3 Plains
-1 Snapcaster Mage
-1 Spell Pierce
-1 Brazen Borrower
-1 Terminus
-2 Terminus
-1 Mystic Sanctuary
-2 Snow-Covered Island
-1 Council's Judgment
-3 Supreme Verdict
+1 Narset, Parter of Veils
+2 Teferi, Time Raveler
+2 Plains
+2 Prismatic Vista
+1 Supreme Verdict
+2 Supreme Verdict
 5 Island
-1 Counterspell
+1 Spell Pierce
 2 Snow-Covered Plains
+2 Snow-Covered Island
 1 Timeless Dragon
 2 Timeless Dragon
 3 Timeless Dragon
 1 Cursed Scroll
 4 Stifle
-4 Plains
-2 Brazen Borrower
-1 Moat
-3 Snow-Covered Island
-3 Prismatic Vista
 3 Polluted Delta
+3 Force of Negation
+1 Terminus
+2 Terminus
+1 Counterspell
+1 Snapcaster Mage
+4 Shark Typhoon
 1 Fblthp, the Lost
 1 Marsh Flats
 1 Windswept Heath
@@ -60,11 +51,11 @@
 1 Solitude
 1 Meddling Mage
 1 Palace Jailer
-1 Lavinia, Azorius Renegade
 1 Brought Back
+1 Lavinia, Azorius Renegade
 1 Skyclave Apparition
-1 Aether Vial
 1 Weathered Wayfarer
+1 Aether Vial
 1 Barrin, Tolarian Archmage
 1 Recruiter of the Guard
 1 Peacekeeper
@@ -74,12 +65,12 @@
 2 Solitude
 2 Karakas
 2 Meddling Mage
+2 Aether Vial
 2 Fblthp, the Lost
 2 Recruiter of the Guard
-2 Aether Vial
 2 Weathered Wayfarer
-3 Windswept Heath
 3 Brought Back
+3 Windswept Heath
 3 Solitude
 3 Meddling Mage
 3 Recruiter of the Guard
@@ -93,15 +84,18 @@
 4 Recruiter of the Guard
 3 Prismatic Ending
 1 Hullbreacher
-1 Snow-Covered Forest
+1 Savannah
 1 Uro, Titan of Nature's Wrath
 1 Tropical Island
-1 Savannah
+1 Snow-Covered Forest
 2 Uro, Titan of Nature's Wrath
 3 Misty Rainforest
 3 Scalding Tarn
-1 Back to Basics
-1 Crucible of Worlds
+2 Retrofitter Foundry
+3 Prismatic Vista
+4 Prismatic Vista
+3 Snow-Covered Island
+1 Mystic Sanctuary
 1 Sylvan Library
 1 Endurance
 1 Batterskull
@@ -115,9 +109,10 @@
 3 Stoneforge Mystic
 3 Ice-Fang Coatl
 4 Misty Rainforest
-3 Force of Negation
-2 Narset, Parter of Veils
-1 Court of Grace
+1 Council's Judgment
+3 Plains
+3 Supreme Verdict
+4 Plains
 1 Aether Spellbomb
 4 Prismatic Ending
 3 Uro, Titan of Nature's Wrath
@@ -126,52 +121,33 @@
 1 Charming Prince
 1 Niambi, Esteemed Speaker
 4 Brought Back
-1 Cast Out
-1 Doomskar
-1 Replenish
-1 Lay Claim
-2 Cast Out
-2 Mystic Sanctuary
-2 Replenish
-2 Lay Claim
-3 Teferi, Time Raveler
-3 Lay Claim
-3 Replenish
-3 Cast Out
-1 Phyrexian Dreadnought
-1 Flusterstorm
-1 Vendilion Clique
 1 Kaldra Compleat
+1 Phyrexian Dreadnought
+1 Brazen Borrower
+2 Brazen Borrower
 1 Expressive Iteration
 2 Expressive Iteration
+1 Back to Basics
 1 Luminarch Ascension
 2 Back to Basics
+1 Dovin's Veto
+1 Crucible of Worlds
+1 Moat
+2 Narset, Parter of Veils
 1 Umezawa's Jitte
 1 Engineered Explosives
 2 Engineered Explosives
-1 Counterbalance
-2 Counterbalance
-2 Moat
 3 Murktide Regent
 3 Terminus
-1 Mishra's Factory
-1 Prairie Stream
-1 Ominous Seas
-1 Hallowed Fountain
-2 Snapcaster Mage
-2 Counterspell
-2 Mishra's Factory
-2 Ominous Seas
-3 Ominous Seas
 1 Relic of Progenitus
 4 Scalding Tarn
+1 Forest
+1 Mox Diamond
 1 Tranquil Thicket
 1 Life from the Loam
 1 Field of the Dead
 1 Karn, the Great Creator
-1 Forest
 1 Expedition Map
-1 Mox Diamond
 1 Ancient Tomb
 1 Thespian's Stage
 1 Lonely Sandbar
@@ -185,21 +161,14 @@
 4 Wasteland
 4 Uro, Titan of Nature's Wrath
 4 Mox Diamond
-1 Vanishing Verse
-1 Trial of Ambition
-1 Swamp
-1 Underground Sea
-1 Estrid's Invocation
-1 Omen of the Sea
-2 Court of Grace
-2 Vanishing Verse
-2 Omen of the Sea
-2 Estrid's Invocation
-2 Trial of Ambition
-3 Omen of the Sea
-4 Polluted Delta
-2 Retrofitter Foundry
 4 Snow-Covered Island
 5 Snow-Covered Island
-1 Dovin's Veto
-4 Prismatic Vista
+1 Mishra's Factory
+1 Prairie Stream
+1 Ominous Seas
+1 Hallowed Fountain
+2 Snapcaster Mage
+2 Counterspell
+2 Mishra's Factory
+2 Ominous Seas
+3 Ominous Seas

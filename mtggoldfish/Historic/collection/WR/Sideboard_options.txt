@@ -23,11 +23,12 @@
 3 Sweltering Suns
 1 Chandra, Torch of Defiance
 2 Reptilian Reflection
-1 Roiling Vortex
-2 Forsake the Worldly
 1 Yasharn, Implacable Earth
 2 Yasharn, Implacable Earth
+2 Forsake the Worldly
 1 Noxious Grasp
+1 Day of Judgment
+1 Roiling Vortex
 1 Deafening Clarion
 1 Adanto Vanguard
 2 Adanto Vanguard
@@ -44,28 +45,28 @@
 1 Academic Probation
 1 Expanded Anatomy
 1 Light of Hope
-1 Day of Judgment
-1 Showdown of the Skalds
-2 Showdown of the Skalds
 1 Pillar of Flame
 2 Pillar of Flame
-3 Showdown of the Skalds
-2 Roiling Vortex
 1 Settle the Wreckage
+1 Anger of the Gods
 3 Rip Apart
+1 Showdown of the Skalds
+2 Showdown of the Skalds
+3 Showdown of the Skalds
 1 Baneslayer Angel
-2 Light of Hope
 1 Inkling Summoning
 1 Environmental Sciences
+2 Light of Hope
 1 Wrath of God
-1 Anger of the Gods
 1 Shredded Sails
 2 Shredded Sails
 4 Adanto Vanguard
-2 Lightning Helix
+2 Anger of the Gods
 3 Thalia, Guardian of Thraben
+2 Lightning Helix
 3 Baffling End
 2 Chandra, Torch of Defiance
+2 Roiling Vortex
 1 Gideon of the Trials
 3 Chandra, Torch of Defiance
 2 Abandoned Sarcophagus
@@ -76,24 +77,22 @@
 2 Hushbringer
 1 Hazoret the Fervent
 3 Justice Strike
-2 Anger of the Gods
 4 Showdown of the Skalds
 1 Archon of Emeria
-1 Authority of the Consuls
+2 Settle the Wreckage
+1 Containment Priest
+2 Containment Priest
 3 Declaration in Stone
 1 Kaheera, the Orphanguard
 1 Reduce to Memory
-1 Containment Priest
-2 Containment Priest
-2 Settle the Wreckage
 1 Flameblade Adept
+1 Flamescroll Celebrant
+2 Flamescroll Celebrant
 1 Desert of the True
 1 Valiant Rescuer
 3 Grafdigger's Cage
 1 Jegantha, the Wellspring
 2 Thoughtseize
-1 Flamescroll Celebrant
-2 Flamescroll Celebrant
 3 Flamescroll Celebrant
 1 Footfall Crater
 2 Valiant Rescuer
@@ -103,19 +102,19 @@
 2 Lava Coil
 3 Lava Coil
 4 Lava Coil
+1 Authority of the Consuls
 3 Fry
 1 Ox of Agonas
-2 Authority of the Consuls
 2 Gideon of the Trials
 4 Rest in Peace
 1 Apostle of Purifying Light
 2 Apostle of Purifying Light
 1 Relic of Progenitus
+2 Relic of Progenitus
 1 Redcap Melee
 1 Valorous Stance
 1 Lorehold Command
 1 Craterhoof Behemoth
-2 Relic of Progenitus
 2 Redcap Melee
 2 Valorous Stance
 2 Lorehold Command
@@ -124,6 +123,8 @@
 3 Redcap Melee
 3 Valorous Stance
 2 Wrath of God
+1 Gods Willing
+2 Gods Willing
 1 Fight as One
 1 Chandra, Fire Artisan
 1 Tibalt, Rakish Instigator
@@ -134,6 +135,7 @@
 2 Shock
 2 Fight as One
 2 Baneslayer Angel
+2 Authority of the Consuls
 2 Archon of Emeria
 1 Fire Prophecy
 2 Fire Prophecy
@@ -147,8 +149,10 @@
 1 Doom Blade
 2 Doom Blade
 2 Duress
-1 Chandra, Acolyte of Flame
-2 Chandra, Acolyte of Flame
+1 Shalai, Voice of Plenty
+1 Conclave Tribunal
+2 Shalai, Voice of Plenty
+2 Conclave Tribunal
 3 Legion Warboss
 1 Gideon's Intervention
 2 Gideon's Intervention
@@ -170,10 +174,8 @@
 4 Justice Strike
 1 Ajani, Strength of the Pride
 4 Valorous Stance
-1 Gods Willing
 1 Fragmentize
 1 Start from Scratch
-2 Gods Willing
 2 Fragmentize
 3 Pillar of Flame
 4 Pillar of Flame

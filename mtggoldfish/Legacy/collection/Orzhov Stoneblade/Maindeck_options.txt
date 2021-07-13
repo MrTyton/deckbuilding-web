@@ -26,8 +26,8 @@
 1 Sedgemoor Witch
 2 Sedgemoor Witch
 2 Verdant Catacombs
-1 Cling to Dust
 1 Vanishing Verse
+1 Cling to Dust
 1 Kaya, Orzhov Usurper
 1 Snow-Covered Plains
 1 Castle Locthwain
@@ -41,6 +41,8 @@
 1 Flooded Strand
 1 Kaldra Compleat
 1 Zealous Persecution
+1 Bloodstained Mire
+2 Bloodstained Mire
 1 Prismatic Vista
 1 Dauthi Voidwalker
 1 Sudden Edict
@@ -48,14 +50,14 @@
 2 Prismatic Vista
 2 Dauthi Voidwalker
 2 Damn
-1 Bloodstained Mire
-2 Bloodstained Mire
 1 Castle Ardenvale
 1 Shambling Vent
 2 Cling to Dust
-3 Cling to Dust
 3 Castle Locthwain
+3 Cling to Dust
 4 Castle Locthwain
+3 Opposition Agent
+4 Opposition Agent
 1 Tombstalker
 1 Extirpate
 1 Ashiok, Dream Render
@@ -69,18 +71,16 @@
 2 Karn, the Great Creator
 2 Plague Engineer
 2 Urborg, Tomb of Yawgmoth
-3 Urborg, Tomb of Yawgmoth
 3 Mishra's Factory
 3 Inquisition of Kozilek
 3 Plague Engineer
+3 Urborg, Tomb of Yawgmoth
 3 Karn, the Great Creator
 3 Smallpox
 4 Inquisition of Kozilek
-4 Urborg, Tomb of Yawgmoth
 4 Mishra's Factory
 4 Smallpox
-3 Opposition Agent
-4 Opposition Agent
+4 Urborg, Tomb of Yawgmoth
 1 Flickerwisp
 1 Recruiter of the Guard
 1 Aether Vial
@@ -95,8 +95,8 @@
 1 Silent Clearing
 1 Palace Jailer
 1 Solitude
-2 Aether Vial
 2 Recruiter of the Guard
+2 Aether Vial
 2 Flickerwisp
 2 Thalia, Guardian of Thraben
 2 Esper Sentinel
