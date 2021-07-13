@@ -35,7 +35,7 @@
 |--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
 |                    3|[Teferi, Hero of Dominaria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443095)|                    1|[Narset's Reversal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460989)      |
 |                    1|[Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460139)         |                    1|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)|
-|                    1|[Ondu Inversion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491654)           |                    1|[Horribly Awry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401914)          |
-|                    1|[Sphinx's Revelation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460150)      |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)         |
+|                    1|[Ondu Inversion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491654)           |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)         |
+|                    1|[Sphinx's Revelation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460150)      |                    1|[Horribly Awry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401914)          |
 |                    1|[Horribly Awry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401914)            |                     |                                                                                                  |
 

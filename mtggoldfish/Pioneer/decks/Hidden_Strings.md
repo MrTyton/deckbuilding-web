@@ -46,7 +46,7 @@
 |                     |                                                                                                 |                    1|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)             |
 |                     |                                                                                                 |                    1|[Fog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=746)                          |
 |                     |                                                                                                 |                    1|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)           |
+|                     |                                                                                                 |                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)          |
 |                     |                                                                                                 |                    1|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)         |
 |                     |                                                                                                 |                    2|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)         |
-|                     |                                                                                                 |                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)          |
 

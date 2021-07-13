@@ -9,9 +9,9 @@
 4 Collected Company
 2 Game Trail
 3 Game Trail
-1 Wildborn Preserver
 1 Old-Growth Troll
 1 Cinder Glade
+1 Wildborn Preserver
 2 Cinder Glade
 3 Scavenging Ooze
 4 Mountain
@@ -41,14 +41,14 @@
 4 Pelt Collector
 6 Mountain
 4 Embercleave
+1 Heart of Kiran
 1 Vivien Reid
 1 Domri, Anarch of Bolas
-1 Heart of Kiran
 1 Vivien, Champion of the Wilds
 1 Chandra, Torch of Defiance
 1 Chandra, Fire Artisan
-2 Domri, Anarch of Bolas
 2 Heart of Kiran
+2 Domri, Anarch of Bolas
 2 Chandra, Fire Artisan
 3 Glorybringer
 1 Hashep Oasis
@@ -56,9 +56,9 @@
 1 Ramunap Ruins
 2 Hashep Oasis
 2 Ramunap Ruins
-3 Questing Beast
 3 Klothys, God of Destiny
 3 Hashep Oasis
+3 Questing Beast
 1 Botanical Sanctum
 1 Riverglide Pathway
 1 Stubborn Denial
@@ -89,32 +89,33 @@
 3 Experiment One
 4 Game Trail
 4 Experiment One
-1 Fanatical Firebrand
-1 Legion Loyalist
-1 Castle Embereth
-1 Goblin Piledriver
 1 Conspicuous Snoop
+1 Goblin Piledriver
+1 Castle Embereth
 1 Foundry Street Denizen
 1 Goblin Instigator
-2 Fanatical Firebrand
-2 Goblin Piledriver
-2 Legion Loyalist
-2 Castle Embereth
+1 Legion Loyalist
+1 Fanatical Firebrand
 2 Conspicuous Snoop
+2 Castle Embereth
 2 Foundry Street Denizen
+2 Legion Loyalist
+2 Goblin Piledriver
+2 Fanatical Firebrand
 2 Goblin Instigator
-3 Legion Loyalist
-3 Fanatical Firebrand
-3 Goblin Piledriver
-3 Castle Embereth
 3 Conspicuous Snoop
+3 Fanatical Firebrand
+3 Castle Embereth
 3 Foundry Street Denizen
+3 Goblin Piledriver
 3 Goblin Instigator
-4 Legion Loyalist
-4 Fanatical Firebrand
-4 Goblin Piledriver
+3 Legion Loyalist
 4 Conspicuous Snoop
+4 Legion Loyalist
+4 Goblin Piledriver
 4 Foundry Street Denizen
+4 Fanatical Firebrand
+4 Goblin Instigator
 7 Mountain
 8 Mountain
 9 Mountain
@@ -126,4 +127,3 @@
 15 Mountain
 16 Mountain
 17 Mountain
-4 Goblin Instigator

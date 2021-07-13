@@ -2,30 +2,30 @@
 1 Mystical Dispute
 1 Glimpse of Freedom
 1 Rimrock Knight
-2 Mystical Dispute
 2 Rimrock Knight
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
-5 Snow-Covered Island
+2 Mystical Dispute
 1 Frost Bite
 1 Snow-Covered Mountain
 1 Galazeth Prismari
 1 Volatile Fjord
+1 Snow-Covered Island
 1 Faceless Haven
 2 Frost Bite
 2 Snow-Covered Mountain
+2 Snow-Covered Island
 2 Volatile Fjord
 2 Faceless Haven
 3 Snow-Covered Mountain
+3 Snow-Covered Island
 3 Frost Bite
 3 Faceless Haven
 3 Volatile Fjord
 4 Snow-Covered Mountain
+4 Snow-Covered Island
 4 Faceless Haven
 4 Volatile Fjord
 5 Snow-Covered Mountain
+5 Snow-Covered Island
 6 Snow-Covered Island
 6 Snow-Covered Mountain
 1 Charge Through
@@ -35,67 +35,19 @@
 3 Decisive Denial
 4 Decisive Denial
 4 Barkchannel Pathway
-4 Island
-5 Island
-6 Island
 1 Riddleform
 1 Temple of Epiphany
 2 Riddleform
 2 Temple of Epiphany
 3 Riddleform
 3 Temple of Epiphany
+4 Island
 4 Mountain
 5 Mountain
+5 Island
+6 Island
 4 Snakeskin Veil
 1 Spikefield Hazard
-7 Island
-1 Defiant Strike
-1 Leonin Lightscribe
-2 Defiant Strike
-2 Leonin Lightscribe
-3 Leonin Lightscribe
-4 Leonin Lightscribe
-1 Plains
-2 Plains
-3 Plains
-4 Plains
-5 Plains
-6 Plains
-7 Plains
-1 Fight as One
-1 Show of Confidence
-1 Of One Mind
-1 Stern Dismissal
-1 Symmetry Sage
-1 Clever Lumimancer
-2 Fight as One
-2 Of One Mind
-2 Stern Dismissal
-2 Clever Lumimancer
-2 Symmetry Sage
-2 Show of Confidence
-3 Fight as One
-3 Symmetry Sage
-3 Clever Lumimancer
-3 Of One Mind
-3 Show of Confidence
-4 Of One Mind
-4 Symmetry Sage
-4 Clever Lumimancer
-4 Show of Confidence
-1 Clarion Spirit
-2 Clarion Spirit
-2 Fabled Passage
-1 Temple of Enlightenment
-2 Temple of Enlightenment
-3 Clarion Spirit
-3 Defiant Strike
-4 Clarion Spirit
-1 Hengegate Pathway
-2 Hengegate Pathway
-3 Hengegate Pathway
-1 Alseid of Life's Bounty
-8 Plains
 1 Unleash Fury
 1 Lofty Denial
 2 Lofty Denial
@@ -106,120 +58,29 @@
 1 Frostboil Snarl
 1 Disdainful Stroke
 2 Frostboil Snarl
+2 Fabled Passage
 3 Frostboil Snarl
 3 Rimrock Knight
 3 Mystical Dispute
-4 Rimrock Knight
 4 Frostboil Snarl
-1 Phalanx Tactics
-1 Tranquil Cove
-1 Eager First-Year
-2 Phalanx Tactics
-2 Tranquil Cove
-3 Tranquil Cove
-4 Tranquil Cove
+4 Rimrock Knight
 1 Klothys, God of Destiny
 1 Heartfire Immolator
 1 Infuriate
 1 Quandrix Command
-2 Quandrix Command
-2 Klothys, God of Destiny
-2 Heartfire Immolator
-2 Forest
 2 Infuriate
+2 Quandrix Command
+2 Forest
+2 Heartfire Immolator
+2 Klothys, God of Destiny
 3 Heartfire Immolator
 3 Infuriate
 4 Dragonsguard Elite
 4 Infuriate
-1 Kabira Takedown
-1 Usher of the Fallen
-1 Deliberate
-1 Sejiri Shelter
-1 Mentor's Guidance
-2 Sejiri Shelter
-2 Deliberate
-2 Usher of the Fallen
-3 Usher of the Fallen
-4 Hengegate Pathway
-4 Usher of the Fallen
 1 Prismari Command
 1 Demilich
 2 Spikefield Hazard
 2 Demilich
 3 Demilich
 4 Temple of Epiphany
-1 Selfless Savior
-1 Sea-Dasher Octopus
-1 Snow-Covered Plains
-1 Monk Class
-1 Monk of the Open Hand
-1 Strategic Planning
-2 Sea-Dasher Octopus
-2 Strategic Planning
-2 Monk Class
-2 Monk of the Open Hand
-2 Snow-Covered Plains
-2 Selfless Savior
-3 Strategic Planning
-3 Fabled Passage
-3 Selfless Savior
-3 Monk of the Open Hand
-3 Monk Class
-3 Temple of Enlightenment
-3 Snow-Covered Plains
-4 Monk of the Open Hand
-4 Fabled Passage
-4 Defiant Strike
-4 Snow-Covered Plains
-4 Selfless Savior
-4 Strategic Planning
-4 Monk Class
-5 Snow-Covered Plains
-1 Bloodchief's Thirst
-1 Duress
-1 Seasoned Hallowblade
-1 Heartless Act
-1 Eyetwitch
-1 Humiliate
-1 Swamp
-1 Valor of the Worthy
-1 Battlefield Raptor
-1 Sentinel's Eyes
-1 Silverquill Command
-1 Temple of Silence
-1 Bloodsky Berserker
-1 Shineshadow Snarl
-1 Call of the Death-Dweller
-2 Duress
-2 Seasoned Hallowblade
-2 Bloodchief's Thirst
-2 Humiliate
-2 Valor of the Worthy
-2 Swamp
-2 Battlefield Raptor
-2 Silverquill Command
-2 Temple of Silence
-2 Sentinel's Eyes
-2 Bloodsky Berserker
-2 Shineshadow Snarl
-2 Eyetwitch
-3 Valor of the Worthy
-3 Bloodsky Berserker
-3 Silverquill Command
-3 Battlefield Raptor
-3 Eyetwitch
-3 Humiliate
-3 Swamp
-4 Humiliate
-4 Swamp
-4 Eyetwitch
-4 Valor of the Worthy
-4 Silverquill Command
-4 Bloodsky Berserker
-4 Battlefield Raptor
-5 Swamp
-6 Swamp
-7 Swamp
-8 Swamp
-9 Plains
-9 Swamp
+7 Island

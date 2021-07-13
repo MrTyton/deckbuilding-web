@@ -1,4 +1,18 @@
 1 Horizon Canopy
+1 Solitude
+2 Solitude
+2 Horizon Canopy
+1 Forest
+1 Branchloft Pathway
+1 Razorverge Thicket
+1 Noble Hierarch
+2 Branchloft Pathway
+2 Razorverge Thicket
+2 Noble Hierarch
+3 Razorverge Thicket
+3 Noble Hierarch
+4 Razorverge Thicket
+4 Noble Hierarch
 4 Flickerwisp
 4 Archon of Emeria
 1 Snow-Covered Plains
@@ -15,33 +29,19 @@
 2 Tectonic Edge
 3 Tectonic Edge
 4 Tectonic Edge
-10 Plains
-2 Horizon Canopy
-1 Charming Prince
-1 Solitude
-2 Solitude
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
-1 Forest
-1 Branchloft Pathway
-1 Razorverge Thicket
-1 Noble Hierarch
-2 Branchloft Pathway
-2 Razorverge Thicket
-2 Noble Hierarch
-3 Razorverge Thicket
-3 Noble Hierarch
-4 Razorverge Thicket
-4 Noble Hierarch
+1 Stirring Wildwood
+2 Stirring Wildwood
+1 Charming Prince
 1 Mishra's Factory
 2 Mishra's Factory
 3 Mishra's Factory
+10 Plains
 1 Gavony Township
 1 Collected Company
-1 Stirring Wildwood
 2 Forest
-2 Stirring Wildwood
 2 Collected Company
 3 Collected Company
 1 On Thin Ice
@@ -52,6 +52,10 @@
 13 Snow-Covered Plains
 2 Charming Prince
 3 Charming Prince
+1 Temple Garden
+2 Temple Garden
+3 Branchloft Pathway
+4 Branchloft Pathway
 1 Elite Spellbinder
 2 Elite Spellbinder
 1 Linvala, Keeper of Silence
@@ -62,17 +66,14 @@
 17 Snow-Covered Plains
 18 Snow-Covered Plains
 1 Sanctum Prelate
-2 Castle Ardenvale
 1 Sunbaked Canyon
 1 Restoration Angel
 2 Restoration Angel
-1 Temple Garden
-2 Temple Garden
-3 Branchloft Pathway
-4 Branchloft Pathway
+3 Solitude
 4 Mishra's Factory
 2 Sanctum Prelate
 1 Flagstones of Trokair
+2 Castle Ardenvale
 19 Snow-Covered Plains
 20 Snow-Covered Plains
 3 On Thin Ice
@@ -80,26 +81,32 @@
 2 Sunbaked Canyon
 1 Scavenging Ooze
 2 Scavenging Ooze
-3 Solitude
 1 Inspiring Vantage
 2 Inspiring Vantage
 3 Inspiring Vantage
 4 Inspiring Vantage
 3 Elite Spellbinder
 4 Elite Spellbinder
-1 Auriok Champion
+3 Temple Garden
+4 Temple Garden
 3 Restoration Angel
+4 Solitude
+1 Auriok Champion
 3 Sunbaked Canyon
 4 Sunbaked Canyon
 2 Auriok Champion
 3 Auriok Champion
+1 Oath of Nissa
+1 Aven Mindcensor
+2 Oath of Nissa
+2 Aven Mindcensor
+3 Oath of Nissa
+4 Oath of Nissa
 1 Brushland
 1 Spellskite
 2 Brushland
 2 Spellskite
-3 Temple Garden
 3 Brushland
-4 Temple Garden
 4 Brushland
 1 Thraben Inspector
 1 Skyclave Cleric
@@ -112,7 +119,6 @@
 3 Emeria's Call
 3 Thraben Inspector
 4 Restoration Angel
-4 Solitude
 4 Emeria's Call
 4 Thraben Inspector
 11 Plains
@@ -127,14 +133,11 @@
 1 Venerable Warsinger
 2 Venerable Warsinger
 3 Venerable Warsinger
+2 Flagstones of Trokair
+4 Esper Sentinel
 1 Sacred Foundry
 1 Imperial Recruiter
 1 Sanctifier en-Vec
 2 Sacred Foundry
 2 Imperial Recruiter
 3 Imperial Recruiter
-2 Flagstones of Trokair
-4 Esper Sentinel
-1 Sword of Light and Shadow
-3 Horizon Canopy
-4 Horizon Canopy

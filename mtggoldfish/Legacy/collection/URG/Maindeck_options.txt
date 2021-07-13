@@ -1,52 +1,60 @@
-1 Endurance
-2 Endurance
-1 Hullbreacher
+2 Tarmogoyf
 1 Prismatic Vista
-3 Tarmogoyf
+1 Hullbreacher
+1 Taiga
+2 Endurance
+1 Life from the Loam
 3 Ice-Fang Coatl
+3 Tarmogoyf
 1 Abundant Growth
 2 Abundant Growth
-1 Taiga
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 1 Jace, the Mind Sculptor
-1 Life from the Loam
 1 Ethereal Forager
 2 Ethereal Forager
 1 Karakas
 2 Prismatic Vista
 1 Pyroblast
-2 Jace, the Mind Sculptor
+4 Uro, Titan of Nature's Wrath
+1 Expressive Iteration
+2 Expressive Iteration
 4 Ragavan, Nimble Pilferer
+2 Jace, the Mind Sculptor
 3 Force of Negation
 1 Dress Down
 1 Phyrexian Dreadnought
-2 Dress Down
 2 Phyrexian Dreadnought
+2 Dress Down
 3 Phyrexian Dreadnought
 3 Dress Down
 4 Stifle
 4 Daze
 4 Phyrexian Dreadnought
 4 Dress Down
-4 Uro, Titan of Nature's Wrath
 2 Wooded Foothills
-1 Expressive Iteration
-2 Expressive Iteration
+1 Carpet of Flowers
+1 Scavenging Ooze
+3 Endurance
+1 Island
+1 Forest
+3 Tropical Island
+4 Scalding Tarn
+1 Snow-Covered Plains
+1 Prismatic Ending
+1 Flooded Strand
+1 Tundra
+1 Swords to Plowshares
+2 Flooded Strand
+2 Prismatic Ending
+3 Flooded Strand
+4 Flooded Strand
+3 Volcanic Island
 1 Polluted Delta
 1 Underground Sea
 2 Polluted Delta
 3 Polluted Delta
-1 Carpet of Flowers
-1 Scavenging Ooze
-3 Endurance
-3 Tropical Island
-4 Scalding Tarn
-3 Volcanic Island
-1 Fatal Push
-2 Underground Sea
-2 Fatal Push
 1 Spell Pierce
 1 Chart a Course
 2 Chart a Course
@@ -56,8 +64,11 @@
 1 Kroxa, Titan of Death's Hunger
 1 Badlands
 1 Dark Confidant
-2 Dark Confidant
+1 Fatal Push
+2 Underground Sea
 2 Kroxa, Titan of Death's Hunger
+2 Dark Confidant
+2 Fatal Push
 2 Bloodstained Mire
 3 Kroxa, Titan of Death's Hunger
 3 Underground Sea
@@ -65,14 +76,19 @@
 2 Spell Snare
 1 Izzet Charm
 1 Abundant Harvest
-1 Preordain
-2 Preordain
-1 Verdant Catacombs
-1 Thoughtseize
-2 Thoughtseize
-4 Tarmogoyf
-1 Island
-1 Forest
+1 Ketria Triome
+1 Omnath, Locus of Creation
+1 Field of the Dead
+1 Savannah
+1 Primeval Titan
+2 Omnath, Locus of Creation
+2 Primeval Titan
+2 Life from the Loam
+2 Field of the Dead
+3 Expressive Iteration
+2 Swords to Plowshares
+3 Prismatic Ending
+4 Prismatic Ending
 1 Mountain
 1 Ancient Grudge
 1 Liquimetal Coating
@@ -89,6 +105,7 @@
 3 Ancient Grudge
 3 Karn, the Great Creator
 3 Dack Fayden
+4 Tarmogoyf
 4 Birds of Paradise
 4 Karn, the Great Creator
 4 Ancient Grudge
@@ -96,44 +113,25 @@
 2 Hullbreacher
 2 Abundant Harvest
 2 Narset, Parter of Veils
+1 Exploration
+2 Exploration
+3 Life from the Loam
 1 Noble Hierarch
 2 Noble Hierarch
-3 Snow-Covered Island
 3 Prismatic Vista
-1 Prismatic Ending
-1 Snow-Covered Plains
-1 Swords to Plowshares
-1 Flooded Strand
-1 Tundra
+3 Snow-Covered Island
 2 Tundra
-2 Flooded Strand
-2 Prismatic Ending
-2 Swords to Plowshares
 3 Swords to Plowshares
-3 Flooded Strand
-3 Prismatic Ending
 4 Swords to Plowshares
-4 Flooded Strand
-4 Prismatic Ending
-1 Bayou
-1 Snow-Covered Swamp
-1 Chain of Smog
-1 Abrupt Decay
-1 Witherbloom Apprentice
-2 Chain of Smog
-2 Abrupt Decay
-2 Witherbloom Apprentice
-3 Abrupt Decay
-3 Fatal Push
-3 Witherbloom Apprentice
-4 Witherbloom Apprentice
 1 Pyroclasm
+1 Preordain
 1 Urza's Saga
 1 Retrofitter Foundry
 1 Painter's Servant
 1 Grindstone
 1 Soul-Guide Lantern
 1 Tree of Tales
+2 Preordain
 2 Urza's Saga
 2 Painter's Servant
 2 Grindstone
@@ -141,12 +139,15 @@
 3 Painter's Servant
 4 Urza's Saga
 4 Painter's Servant
+1 Verdant Catacombs
 1 Watery Grave
+1 Thoughtseize
 1 Death's Shadow
 1 Murktide Regent
 1 Overgrown Tomb
 1 Berserk
 1 Snuff Out
+2 Thoughtseize
 2 Verdant Catacombs
 2 Death's Shadow
 2 Murktide Regent

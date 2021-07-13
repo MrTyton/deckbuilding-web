@@ -1,6 +1,4 @@
 1 Arid Mesa
-1 Growth Spiral
-2 Growth Spiral
 1 Mountain
 1 Lightning Helix
 2 Lightning Helix
@@ -8,27 +6,29 @@
 1 Shardless Agent
 2 Shardless Agent
 3 Shardless Agent
+1 Territorial Kavu
+1 Tribal Flames
 1 Scion of Draco
 1 Mantis Rider
 1 Temple Garden
-1 Tribal Flames
-1 Territorial Kavu
-2 Scion of Draco
 2 Territorial Kavu
-2 Mantis Rider
 2 Tribal Flames
+2 Scion of Draco
+2 Mantis Rider
 3 Territorial Kavu
 3 Tribal Flames
 3 Mantis Rider
+4 Territorial Kavu
 4 Tribal Flames
 4 Mantis Rider
-4 Territorial Kavu
 4 Shardless Agent
 1 Bloodbraid Elf
 2 Bloodbraid Elf
 3 Bloodbraid Elf
 3 Scion of Draco
 4 Scion of Draco
+1 Growth Spiral
+2 Growth Spiral
 2 Arid Mesa
 1 Island
 1 Forest
@@ -55,8 +55,8 @@
 3 Misty Rainforest
 4 Misty Rainforest
 1 Omniscience
-1 Khalni Garden
 1 Glimpse of Tomorrow
+1 Khalni Garden
 1 Emrakul, the Aeons Torn
 1 Gemstone Caverns
 1 Leyline of Sanctity
@@ -82,23 +82,22 @@
 2 As Foretold
 3 As Foretold
 4 Teferi, Time Raveler
-4 Arid Mesa
 3 Lightning Helix
 4 Lightning Helix
+3 Bloodstained Mire
 2 Mountain
 1 Wavesifter
 1 Iona, Shield of Emeria
 2 Wavesifter
 2 Iona, Shield of Emeria
 3 Wavesifter
+4 Arid Mesa
 1 Indatha Triome
 1 Zagoth Triome
 1 Leyline of the Void
 2 Leyline of the Void
 4 Wavesifter
 1 Archon of Cruelty
-3 Bloodstained Mire
-2 Sacred Foundry
 1 Snow-Covered Forest
 2 Snow-Covered Mountain
 3 Iona, Shield of Emeria
@@ -111,6 +110,7 @@
 1 Flooded Strand
 2 Flooded Strand
 4 Bloodstained Mire
+2 Sacred Foundry
 1 Ulamog, the Infinite Gyre
 1 Manamorphose
 2 Manamorphose
@@ -120,14 +120,14 @@
 4 Manamorphose
 4 General Ferrous Rokiric
 4 Archon of Cruelty
-4 Growth Spiral
 1 Jace, the Mind Sculptor
 1 Chandra, Torch of Defiance
 1 Fires of Invention
-2 Raugrin Triome
 1 Kozilek, Butcher of Truth
 2 Gemstone Caverns
 1 Klothys, God of Destiny
+4 Growth Spiral
+4 Prismatic Ending
 1 Plains
 1 Xenagos, God of Revels
 2 Xenagos, God of Revels
@@ -137,13 +137,13 @@
 4 Glimpse of Tomorrow
 4 As Foretold
 1 Valakut Awakening
+2 Raugrin Triome
 1 Tarmogoyf
 2 Tarmogoyf
 3 Tarmogoyf
 3 Windswept Heath
 4 Windswept Heath
 1 Snow-Covered Plains
-4 Prismatic Ending
 1 Explore
 1 Tamiyo, Collector of Tales
 2 Chandra, Torch of Defiance
@@ -173,9 +173,9 @@
 1 Fire/Ice
 2 Fire/Ice
 1 Cindervines
+1 Celestial Colonnade
 1 Omnath, Locus of Creation
 2 Island
-2 Jace, the Mind Sculptor
 1 Hallowed Fountain
 1 Hexdrinker
 1 Waterlogged Grove
@@ -199,21 +199,13 @@
 2 Ugin, the Spirit Dragon
 2 Gemstone Mine
 3 Gemstone Mine
+4 Wild Nacatl
+4 Ragavan, Nimble Pilferer
 3 Griselbrand
 4 Griselbrand
 1 Fire-Lit Thicket
 3 Kozilek, Butcher of Truth
 4 Kozilek, Butcher of Truth
-1 Nahiri, the Harbinger
-1 Narset, Parter of Veils
-1 Transmogrify
-1 Izzet Charm
-2 Transmogrify
-2 Izzet Charm
-3 Velomachus Lorehold
-4 Steam Vents
-4 Ragavan, Nimble Pilferer
-4 Wild Nacatl
 1 Swamp
 1 Opt
 2 Swamp

@@ -10,8 +10,8 @@
 3 Snow-Covered Swamp
 1 Opposition Agent
 2 Opposition Agent
-1 Verdant Catacombs
 1 Fatal Push
+1 Verdant Catacombs
 2 Fatal Push
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
@@ -43,8 +43,8 @@
 1 Zealous Persecution
 1 Prismatic Vista
 1 Dauthi Voidwalker
-1 Damn
 1 Sudden Edict
+1 Damn
 2 Prismatic Vista
 2 Dauthi Voidwalker
 2 Damn
@@ -56,8 +56,6 @@
 3 Cling to Dust
 3 Castle Locthwain
 4 Castle Locthwain
-3 Opposition Agent
-4 Opposition Agent
 1 Tombstalker
 1 Extirpate
 1 Ashiok, Dream Render
@@ -65,43 +63,45 @@
 1 Karn, the Great Creator
 1 Bloodchief's Thirst
 1 Plague Engineer
-2 Urborg, Tomb of Yawgmoth
 2 Ashiok, Dream Render
 2 Smallpox
 2 Bloodchief's Thirst
 2 Karn, the Great Creator
 2 Plague Engineer
+2 Urborg, Tomb of Yawgmoth
+3 Urborg, Tomb of Yawgmoth
+3 Mishra's Factory
 3 Inquisition of Kozilek
 3 Plague Engineer
-3 Mishra's Factory
-3 Urborg, Tomb of Yawgmoth
 3 Karn, the Great Creator
 3 Smallpox
 4 Inquisition of Kozilek
-4 Smallpox
 4 Urborg, Tomb of Yawgmoth
 4 Mishra's Factory
+4 Smallpox
+3 Opposition Agent
+4 Opposition Agent
 1 Flickerwisp
 1 Recruiter of the Guard
 1 Aether Vial
 1 Spirit of the Labyrinth
+1 Windswept Heath
 1 Charming Prince
+1 Thalia, Guardian of Thraben
 1 Esper Sentinel
 1 Rishadan Port
-1 Silent Clearing
 1 Sanctum Prelate
 1 Phyrexian Revoker
+1 Silent Clearing
 1 Palace Jailer
-1 Thalia, Guardian of Thraben
 1 Solitude
-1 Windswept Heath
-2 Windswept Heath
 2 Aether Vial
 2 Recruiter of the Guard
 2 Flickerwisp
+2 Thalia, Guardian of Thraben
 2 Esper Sentinel
 2 Rishadan Port
-2 Thalia, Guardian of Thraben
+2 Windswept Heath
 2 Flooded Strand
 2 Charming Prince
 3 Aether Vial
@@ -111,8 +111,8 @@
 3 Flickerwisp
 3 Karakas
 3 Plains
-4 Aether Vial
 4 Thalia, Guardian of Thraben
+4 Aether Vial
 4 Rishadan Port
 4 Plains
 4 Esper Sentinel

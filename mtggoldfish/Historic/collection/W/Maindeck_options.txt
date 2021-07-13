@@ -15,15 +15,15 @@
 3 Plains
 4 Plains
 1 Vault Skirge
-1 Gingerbrute
 1 Steel Overseer
 1 Stonecoil Serpent
 1 Tempered Steel
+1 Gingerbrute
 2 Vault Skirge
-2 Gingerbrute
 2 Steel Overseer
 2 Stonecoil Serpent
 2 Tempered Steel
+2 Gingerbrute
 3 Vault Skirge
 3 Steel Overseer
 3 Stonecoil Serpent
@@ -98,8 +98,8 @@
 2 Mountain
 2 All That Glitters
 2 Light Up the Stage
-3 All That Glitters
 3 Mountain
+3 All That Glitters
 3 Light Up the Stage
 4 Mountain
 4 All That Glitters
@@ -108,12 +108,12 @@
 1 Ramunap Ruins
 2 Inspiring Vantage
 2 Ramunap Ruins
-3 Sacred Foundry
 3 Inspiring Vantage
+3 Sacred Foundry
 3 Showdown of the Skalds
 3 Ramunap Ruins
-4 Sacred Foundry
 4 Inspiring Vantage
+4 Sacred Foundry
 4 Ramunap Ruins
 1 Sejiri Shelter
 2 Emeria's Call
@@ -163,15 +163,15 @@
 1 Collected Company
 1 Silverquill Silencer
 1 Vanishing Verse
-1 Kitesail Freebooter
 1 Overgrown Tomb
+1 Kitesail Freebooter
 1 Blooming Marsh
 2 Collected Company
 2 Silverquill Silencer
-2 Kitesail Freebooter
 2 Vanishing Verse
 2 Blooming Marsh
 2 Overgrown Tomb
+2 Kitesail Freebooter
 3 Collected Company
 3 Overgrown Tomb
 4 Collected Company
@@ -187,6 +187,10 @@
 3 Hengegate Pathway
 4 Hengegate Pathway
 4 Spire of Industry
+1 Loyal Warhound
+2 Loyal Warhound
+3 Loyal Warhound
+4 Loyal Warhound
 1 Militia Bugler
 1 Alseid of Life's Bounty
 2 Militia Bugler
@@ -195,13 +199,9 @@
 3 Militia Bugler
 3 Drannith Magistrate
 4 Alseid of Life's Bounty
-1 Loyal Warhound
-2 Loyal Warhound
-3 Loyal Warhound
-4 Loyal Warhound
+1 Agadeem's Awakening
 1 Baneslayer Angel
 1 Castle Locthwain
-1 Agadeem's Awakening
 1 Swamp
 1 Knight of the Ebon Legion
 2 Knight of the Ebon Legion
@@ -217,18 +217,18 @@
 4 Venerated Loxodon
 1 Heart of Kiran
 1 Chief of the Foundry
-2 Heart of Kiran
 2 Toolcraft Exemplar
+2 Heart of Kiran
 2 Chief of the Foundry
-3 Chief of the Foundry
 3 Toolcraft Exemplar
+3 Chief of the Foundry
 4 Shefet Dunes
 4 Toolcraft Exemplar
 4 Chief of the Foundry
 1 Dromoka's Command
 1 Sunpetal Grove
-1 Vorinclex, Monstrous Raider
 1 Scattered Groves
+1 Vorinclex, Monstrous Raider
 1 Indatha Triome
 1 Forest
 2 Dromoka's Command

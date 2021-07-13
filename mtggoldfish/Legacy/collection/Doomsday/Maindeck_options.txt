@@ -2,10 +2,10 @@
 4 Polluted Delta
 3 Preordain
 1 Swamp
-1 Cavern of Souls
 1 Night's Whisper
-1 Volcanic Island
 1 Snow-Covered Island
+1 Cavern of Souls
+1 Volcanic Island
 1 Baleful Strix
 1 Snow-Covered Swamp
 1 Stifle
@@ -20,43 +20,26 @@
 4 Baleful Strix
 2 Stifle
 4 Preordain
+2 Thassa's Oracle
 1 Verdant Catacombs
 1 Cabal Therapy
-2 Thassa's Oracle
-2 Thoughtseize
 1 Wasteland
 3 Stifle
 3 Scalding Tarn
 4 Scalding Tarn
-1 Lim-Dul's Vault
 1 Watery Grave
+2 Thoughtseize
 1 Cling to Dust
+1 Lim-Dul's Vault
 2 Snow-Covered Swamp
 2 Island
 2 Swamp
-1 Chrome Mox
-1 Griselbrand
-1 Shallow Grave
-1 Goryo's Vengeance
-1 Entomb
-1 Emrakul, the Aeons Torn
-1 Children of Korlis
-2 Griselbrand
-2 Verdant Catacombs
-2 Goryo's Vengeance
-2 Entomb
-2 Shallow Grave
-3 Verdant Catacombs
-3 Entomb
-3 Shallow Grave
-4 Verdant Catacombs
-4 Entomb
-4 Shallow Grave
 2 Wasteland
 1 Tropical Island
 1 Bayou
 3 Misty Rainforest
 4 Misty Rainforest
+1 Chrome Mox
 1 Brainstone
 1 Veil of Summer
 1 Uro, Titan of Nature's Wrath
@@ -64,7 +47,6 @@
 2 Tropical Island
 1 Sunken Ruins
 1 Clearwater Pathway
-1 Dark Confidant
 1 Sleight of Hand
 1 Prismatic Vista
 1 Drowned Catacomb
@@ -73,10 +55,11 @@
 1 Fatal Push
 1 Peek
 1 Jace, Vryn's Prodigy
+1 Spell Pierce
 1 Sunken Hollow
 1 Marsh Flats
 1 Snapcaster Mage
-1 Spell Pierce
+1 Dark Confidant
 1 Drown in the Loch
 1 Collective Brutality
 1 Spellseeker
@@ -100,4 +83,21 @@
 1 Orim's Chant
 1 Tundra
 4 Flooded Strand
+1 Griselbrand
+1 Shallow Grave
+1 Goryo's Vengeance
+1 Entomb
+1 Emrakul, the Aeons Torn
+1 Children of Korlis
+2 Griselbrand
+2 Verdant Catacombs
+2 Goryo's Vengeance
+2 Entomb
+2 Shallow Grave
+3 Verdant Catacombs
+3 Entomb
+3 Shallow Grave
+4 Verdant Catacombs
+4 Entomb
+4 Shallow Grave
 4 Personal Tutor

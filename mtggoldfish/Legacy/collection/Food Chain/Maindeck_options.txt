@@ -4,10 +4,10 @@
 1 Squee, the Immortal
 2 Scalding Tarn
 1 Snow-Covered Mountain
+1 Birds of Paradise
 1 Volcanic Island
 1 Imperial Recruiter
 1 Lightning Bolt
-1 Birds of Paradise
 2 Birds of Paradise
 2 Lightning Bolt
 2 Imperial Recruiter
@@ -16,10 +16,10 @@
 3 Imperial Recruiter
 3 Scalding Tarn
 4 Scalding Tarn
-1 Teferi, Time Raveler
 3 Prismatic Vista
 1 Sylvan Library
 4 Birds of Paradise
+1 Teferi, Time Raveler
 1 Waterlogged Grove
 1 Windswept Heath
 1 Wooded Foothills
@@ -44,10 +44,8 @@
 3 Goblin Ringleader
 3 Goblin Matron
 4 Ignoble Hierarch
-4 Goblin Ringleader
 4 Goblin Matron
 4 Cavern of Souls
-1 Gempalm Incinerator
 1 Forest
 1 Badlands
 1 Sling-Gang Lieutenant
@@ -62,34 +60,45 @@
 2 Goblin Lackey
 3 Goblin Lackey
 4 Goblin Lackey
+4 Goblin Ringleader
 1 Mountain
 2 Mountain
 3 Taiga
+1 Skirk Prospector
+1 Pashalik Mons
+1 Gempalm Incinerator
+1 Goblin Warchief
+1 Arid Mesa
+1 Fury
 1 Hydroid Krasis
 2 Teferi, Time Raveler
 4 Swords to Plowshares
-1 Pashalik Mons
-1 Skirk Prospector
 1 Goblin Anarchomancer
 2 Goblin Anarchomancer
 1 Conspicuous Snoop
-1 Arid Mesa
 2 Conspicuous Snoop
 3 Conspicuous Snoop
-1 Goblin Warchief
-1 Fury
 2 Goblin Cratermaker
 2 Fury
 3 Goblin Cratermaker
-2 Windswept Heath
+1 Goblin Trashmaster
+2 Goblin Warchief
 2 Tropical Island
+2 Windswept Heath
 1 Skyclave Apparition
 3 Bloodstained Mire
 1 Goblin Chieftain
-1 Goblin Trashmaster
 4 Ancient Tomb
-2 Goblin Warchief
 4 Conspicuous Snoop
+2 Skirk Prospector
+1 Munitions Expert
+1 Mogg War Marshal
+1 Verdant Catacombs
+2 Pashalik Mons
+2 Munitions Expert
+2 Mogg War Marshal
+2 Badlands
+3 Mogg War Marshal
 1 Mogg Fanatic
 1 Goblin Sharpshooter
 2 Goblin Chieftain
@@ -100,7 +109,6 @@
 3 Skyclave Apparition
 1 Wily Goblin
 2 Wily Goblin
-2 Skirk Prospector
 3 Wily Goblin
 3 Skirk Prospector
 4 Skirk Prospector
