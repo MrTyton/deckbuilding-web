@@ -22,9 +22,9 @@
 1 Path to Exile
 1 Maul of the Skyclaves
 1 Sacred Foundry
-1 Batterskull
-1 Stoneforge Mystic
 1 Snow-Covered Plains
+1 Stoneforge Mystic
+1 Batterskull
 1 Geist of Saint Traft
 1 Seachrome Coast
 2 Path to Exile
@@ -82,28 +82,28 @@
 1 Remand
 1 Spell Snare
 1 Swamp
-1 Inquisition of Kozilek
 1 Thoughtseize
+1 Inquisition of Kozilek
 2 Inquisition of Kozilek
-3 Watery Grave
 3 Inquisition of Kozilek
+3 Watery Grave
 1 Fatal Push
 2 Fatal Push
 3 Fatal Push
-1 Drown in the Loch
-1 Thieves' Guild Enforcer
-1 Bloodstained Mire
 1 Soaring Thought-Thief
+1 Thieves' Guild Enforcer
+1 Drown in the Loch
+1 Bloodstained Mire
 2 Bloodstained Mire
-2 Drown in the Loch
-2 Soaring Thought-Thief
 2 Thieves' Guild Enforcer
-3 Drown in the Loch
-3 Thieves' Guild Enforcer
+2 Soaring Thought-Thief
+2 Drown in the Loch
 3 Soaring Thought-Thief
-4 Drown in the Loch
-4 Soaring Thought-Thief
+3 Thieves' Guild Enforcer
+3 Drown in the Loch
 4 Thieves' Guild Enforcer
+4 Soaring Thought-Thief
+4 Drown in the Loch
 2 Remand
 2 Snow-Covered Island
 1 Tarmogoyf
@@ -131,15 +131,15 @@
 3 Fiery Islet
 3 Subtlety
 1 Scavenging Ooze
-1 Jace, Vryn's Prodigy
 1 Burst Lightning
+1 Jace, Vryn's Prodigy
 1 Snakeskin Veil
 2 Snakeskin Veil
 3 Wooded Foothills
 4 Unholy Heat
 4 Island
-1 Blood Crypt
 1 Kolaghan's Command
+1 Blood Crypt
 2 Kolaghan's Command
 3 Snapcaster Mage
 4 Snapcaster Mage
@@ -150,9 +150,9 @@
 3 Magmatic Channeler
 4 Magmatic Channeler
 4 Ragavan, Nimble Pilferer
-1 Cling to Dust
 1 Ice Tunnel
 1 Snow-Covered Swamp
+1 Cling to Dust
 1 Deprive
 1 Icehide Golem
 1 Archmage's Charm
@@ -170,10 +170,10 @@
 1 Disrupting Shoal
 1 Hexdrinker
 1 Stubborn Denial
-2 Hexdrinker
 2 Disrupting Shoal
-2 Stubborn Denial
+2 Hexdrinker
 2 Brazen Borrower
+2 Stubborn Denial
 3 Hexdrinker
 3 Stubborn Denial
 3 Disrupting Shoal
@@ -191,23 +191,23 @@
 2 Verdant Catacombs
 2 Death's Shadow
 2 Dismember
-3 Dauthi Voidwalker
 3 Verdant Catacombs
 3 Thoughtseize
 3 Death's Shadow
+3 Dauthi Voidwalker
 4 Dauthi Voidwalker
 4 Verdant Catacombs
-4 Thoughtseize
 4 Death's Shadow
+4 Thoughtseize
+1 Darkslick Shores
 1 Bloodchief's Thirst
 1 Ancestral Vision
 1 Bitterblossom
-1 Darkslick Shores
 2 Spell Snare
-2 Swamp
+2 Darkslick Shores
 2 Ancestral Vision
 2 Bitterblossom
-2 Darkslick Shores
+2 Swamp
 3 Darkslick Shores
 3 Bitterblossom
 3 Ancestral Vision

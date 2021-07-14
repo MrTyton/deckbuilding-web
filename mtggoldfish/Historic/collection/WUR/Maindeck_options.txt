@@ -82,8 +82,8 @@
 1 Authority of the Consuls
 1 Iymrith, Desert Doom
 1 Emeria's Call
-1 Sea Gate Restoration
 1 Shatterskull Smashing
+1 Sea Gate Restoration
 1 Thassa's Intervention
 1 Unsubstantiate
 1 Irrigated Farmland
@@ -104,22 +104,12 @@
 4 Bonecrusher Giant
 1 Electrolyze
 1 Chandra, Awakened Inferno
-2 Saw It Coming
 2 Electrolyze
 2 Field of Ruin
+2 Saw It Coming
 3 Saw It Coming
 4 Saw It Coming
 4 Sacred Foundry
-1 Quench
-1 Mana Tithe
-2 Quench
-2 Mana Tithe
-2 Commit/Memory
-3 Mana Tithe
-3 Doomskar
-3 Hengegate Pathway
-4 Doomskar
-4 Hengegate Pathway
 1 Censor
 1 Glass Casket
 1 Cast Out
@@ -130,10 +120,20 @@
 3 Wrath of God
 4 Censor
 4 Absorb
+1 Quench
+1 Mana Tithe
+2 Quench
+2 Mana Tithe
+2 Commit/Memory
+3 Mana Tithe
+3 Hengegate Pathway
+3 Doomskar
+4 Hengegate Pathway
+4 Doomskar
 1 Godless Shrine
 1 Brightclimb Pathway
-1 Bloodchief's Thirst
 1 Dragon Turtle
+1 Bloodchief's Thirst
 1 Heartless Act
 1 Swamp
 1 Watery Grave
@@ -141,8 +141,8 @@
 1 Clearwater Pathway
 2 Brightclimb Pathway
 2 Heartless Act
-2 Bloodchief's Thirst
 2 Dragon Turtle
+2 Bloodchief's Thirst
 2 Clearwater Pathway
 3 Brightclimb Pathway
 3 Bloodchief's Thirst
@@ -155,21 +155,21 @@
 7 Island
 1 Growth Spiral
 1 Pact of Negation
+1 Rootbound Crag
 1 Stomping Ground
 1 Explore
 1 Breeding Pool
 1 Hinterland Harbor
 1 Hydroid Krasis
 1 Ketria Triome
-1 Rootbound Crag
 2 Growth Spiral
-2 Ketria Triome
 2 Hydroid Krasis
+2 Ketria Triome
+2 Rootbound Crag
+2 Stomping Ground
 2 Pact of Negation
 2 Breeding Pool
 2 Hinterland Harbor
-2 Rootbound Crag
-2 Stomping Ground
 3 Growth Spiral
 3 Ketria Triome
 3 Stomping Ground

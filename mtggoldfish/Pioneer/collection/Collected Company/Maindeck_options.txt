@@ -9,16 +9,16 @@
 2 Charming Prince
 3 Charming Prince
 1 Wasteland Strangler
-1 Blooming Marsh
-1 Darkbore Pathway
-1 Anafenza, the Foremost
-1 Concealed Courtyard
-1 Loxodon Smiter
 1 Brightclimb Pathway
+1 Concealed Courtyard
+1 Darkbore Pathway
+1 Blooming Marsh
+1 Anafenza, the Foremost
+1 Loxodon Smiter
 2 Wasteland Strangler
+2 Concealed Courtyard
 2 Blooming Marsh
 2 Loxodon Smiter
-2 Concealed Courtyard
 3 Wasteland Strangler
 3 Concealed Courtyard
 3 Loxodon Smiter
@@ -30,8 +30,8 @@
 3 The Great Henge
 1 Archangel Avacyn
 1 Hallowed Fountain
-1 Breeding Pool
 1 Spell Queller
+1 Breeding Pool
 2 Breeding Pool
 2 Spell Queller
 3 Spell Queller
@@ -51,8 +51,8 @@
 1 Thalia, Heretic Cathar
 1 Hashep Oasis
 1 Nissa, Voice of Zendikar
-2 Thalia, Heretic Cathar
 2 Nissa, Voice of Zendikar
+2 Thalia, Heretic Cathar
 2 Hashep Oasis
 3 Nissa, Voice of Zendikar
 1 Giant Killer
@@ -77,21 +77,25 @@
 1 Knight of Autumn
 2 Decisive Denial
 2 Knight of Autumn
-1 Barkchannel Pathway
-2 Barkchannel Pathway
-3 Barkchannel Pathway
-4 Barkchannel Pathway
 1 Ojutai's Command
 1 Dromoka's Command
 1 Glacial Fortress
 2 Glacial Fortress
 4 Botanical Sanctum
+1 Barkchannel Pathway
+2 Barkchannel Pathway
+3 Barkchannel Pathway
+4 Barkchannel Pathway
+3 Yavimaya Coast
+4 Yavimaya Coast
+4 Breeding Pool
+4 Reflector Mage
 1 Militia Bugler
 1 Selfless Spirit
 1 Oketra's Monument
-2 Mana Confluence
 2 Militia Bugler
 2 Selfless Spirit
+2 Mana Confluence
 2 Oketra's Monument
 3 Militia Bugler
 3 Thraben Inspector
@@ -99,10 +103,6 @@
 4 Militia Bugler
 4 Thraben Inspector
 4 Charming Prince
-3 Yavimaya Coast
-4 Breeding Pool
-4 Reflector Mage
-4 Yavimaya Coast
 5 Plains
 6 Plains
 7 Forest
