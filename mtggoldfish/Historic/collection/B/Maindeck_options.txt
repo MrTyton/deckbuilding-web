@@ -1,4 +1,3 @@
-1 Karn, Scion of Urza
 1 Mind Stone
 1 Ugin, the Spirit Dragon
 1 Guardian Idol
@@ -9,10 +8,10 @@
 3 Guardian Idol
 4 Mind Stone
 1 Forsaken Monument
-1 Hedron Archive
 1 Radiant Fountain
-2 Radiant Fountain
+1 Hedron Archive
 2 Forsaken Monument
+2 Radiant Fountain
 2 Hedron Archive
 3 Radiant Fountain
 3 Hedron Archive
@@ -24,6 +23,7 @@
 1 Ugin, the Ineffable
 2 Ugin, the Ineffable
 4 Guardian Idol
+1 Karn, Scion of Urza
 1 Crawling Barrens
 1 Ulamog, the Ceaseless Hunger
 1 Golos, Tireless Pilgrim
@@ -44,10 +44,10 @@
 2 Aether Hub
 3 Aether Hub
 4 Ifnir Deadlands
-2 Karn, Scion of Urza
 2 Ulamog, the Ceaseless Hunger
-4 Aether Hub
 3 Extinction Event
+4 Aether Hub
+2 Karn, Scion of Urza
 1 Arch of Orazca
 1 Spire of Industry
 1 Inventors' Fair
@@ -59,18 +59,18 @@
 1 Blast Zone
 3 Spire of Industry
 1 Gifted Aetherborn
+1 Fatal Push
 2 Gifted Aetherborn
+2 Fatal Push
 3 Gifted Aetherborn
 4 Gifted Aetherborn
-1 Fatal Push
-2 Fatal Push
 1 Vito, Thorn of the Dusk Rose
 1 Dusk Legion Zealot
 1 Sorin, Imperious Bloodlord
 1 Champion of Dusk
+2 Vito, Thorn of the Dusk Rose
 2 Champion of Dusk
 2 Dusk Legion Zealot
-2 Vito, Thorn of the Dusk Rose
 2 Sorin, Imperious Bloodlord
 3 Sorin, Imperious Bloodlord
 3 Dusk Legion Zealot
@@ -82,14 +82,13 @@
 4 Dusk Legion Zealot
 3 Zhalfirin Void
 2 Blast Zone
-1 Phyrexian Obliterator
 4 Hedron Archive
 1 Callous Bloodmage
 2 Callous Bloodmage
 4 Zhalfirin Void
 2 Crawling Barrens
 1 Agadeem's Awakening
-2 Phyrexian Obliterator
+1 Phyrexian Obliterator
 4 Ugin, the Spirit Dragon
 1 Nullpriest of Oblivion
 3 Callous Bloodmage
@@ -97,13 +96,10 @@
 2 Interplanar Beacon
 3 Interplanar Beacon
 4 Interplanar Beacon
+2 Phyrexian Obliterator
 3 Mazemind Tome
 2 Nullpriest of Oblivion
 1 Legion's End
-1 Demonic Embrace
-1 Rotting Regisaur
-2 Rotting Regisaur
-3 Rotting Regisaur
 4 Extinction Event
 3 Blast Zone
 1 Ghost Quarter
@@ -117,39 +113,41 @@
 2 Coldsteel Heart
 3 Karn, Scion of Urza
 1 Grafdigger's Cage
+1 Demonic Embrace
+1 Rotting Regisaur
+2 Rotting Regisaur
+3 Rotting Regisaur
 1 Karn's Bastion
 4 Murderous Rider
-3 Castle Locthwain
+4 Mazemind Tome
 3 Crawling Barrens
 4 Crawling Barrens
-4 Mazemind Tome
-3 Phyrexian Obliterator
 2 Arch of Orazca
 1 The World Tree
 1 Field of Ruin
+1 Chandra, Torch of Defiance
 1 Shatterskull Smashing
-1 Ramunap Ruins
 1 Anger of the Gods
 1 Redcap Melee
 1 Chandra, Awakened Inferno
 1 Mountain
-1 Chandra, Torch of Defiance
 1 Forgotten Cave
-2 Shatterskull Smashing
-2 Grafdigger's Cage
-2 Anger of the Gods
-2 Redcap Melee
+1 Ramunap Ruins
 2 Forgotten Cave
 2 Chandra, Torch of Defiance
+2 Shatterskull Smashing
+2 Grafdigger's Cage
+2 Chandra, Awakened Inferno
+2 Anger of the Gods
+2 Redcap Melee
 2 Mountain
 2 Ramunap Ruins
-2 Chandra, Awakened Inferno
-3 Anger of the Gods
 3 Chandra, Torch of Defiance
+3 Anger of the Gods
 3 Ramunap Ruins
 3 Mountain
-4 Chandra, Torch of Defiance
 4 Mountain
+4 Chandra, Torch of Defiance
 4 Anger of the Gods
 5 Mountain
 6 Mountain
@@ -180,16 +178,12 @@
 2 Crypt of the Eternals
 2 Myriad Construct
 3 Ugin, the Ineffable
-1 Cling to Dust
-1 Baleful Mastery
-2 Demonic Embrace
-4 Rotting Regisaur
 3 Coldsteel Heart
 4 Coldsteel Heart
 1 Wandering Archaic
-1 Plains
 1 Fountain of Renewal
 1 Heart of Kiran
+1 Plains
 2 Blinkmoth Nexus
 2 Plains
 3 Blinkmoth Nexus
@@ -200,6 +194,7 @@
 2 Glint-Sleeve Siphoner
 3 Glint-Sleeve Siphoner
 4 Glint-Sleeve Siphoner
+3 Castle Locthwain
 4 Castle Locthwain
 1 Mystic Forge
 1 Aetherflux Reservoir
@@ -228,6 +223,7 @@
 2 Bojuka Bog
 2 Phyrexian Arena
 3 Phyrexian Arena
+3 Phyrexian Obliterator
 4 Swamp
 4 Phyrexian Obliterator
 4 Fatal Push

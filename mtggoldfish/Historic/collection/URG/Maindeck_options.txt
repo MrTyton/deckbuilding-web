@@ -16,30 +16,30 @@
 3 Fabled Passage
 4 Brainstorm
 1 Botanical Sanctum
-1 Aetherworks Marvel
-1 Woodweaver's Puzzleknot
-1 Aether Hub
 1 Rogue Refiner
-1 Ulamog, the Ceaseless Hunger
 1 Attune with Aether
 1 Harnessed Lightning
-2 Ulamog, the Ceaseless Hunger
-2 Aether Hub
-2 Aetherworks Marvel
-2 Woodweaver's Puzzleknot
+1 Aether Hub
+1 Woodweaver's Puzzleknot
+1 Aetherworks Marvel
+1 Ulamog, the Ceaseless Hunger
 2 Rogue Refiner
-2 Harnessed Lightning
 2 Attune with Aether
-3 Aether Hub
-3 Aetherworks Marvel
-3 Rogue Refiner
-3 Attune with Aether
+2 Harnessed Lightning
+2 Woodweaver's Puzzleknot
+2 Aetherworks Marvel
+2 Aether Hub
+2 Ulamog, the Ceaseless Hunger
 3 Harnessed Lightning
-4 Aether Hub
-4 Aetherworks Marvel
+3 Attune with Aether
+3 Rogue Refiner
+3 Aetherworks Marvel
+3 Aether Hub
 4 Attune with Aether
 4 Rogue Refiner
 4 Harnessed Lightning
+4 Aetherworks Marvel
+4 Aether Hub
 1 Prismari Command
 3 Stomping Ground
 1 Expressive Iteration
@@ -98,13 +98,13 @@
 1 Frilled Mystic
 2 Frilled Mystic
 1 Pact of Negation
-1 Overgrown Tomb
 1 Watery Grave
+1 Overgrown Tomb
 4 Botanical Sanctum
 1 Swamp
 3 Castle Vantress
-2 Overgrown Tomb
 2 Watery Grave
+2 Overgrown Tomb
 2 Valakut Awakening
 4 Forest
 3 Ugin, the Spirit Dragon
@@ -115,8 +115,8 @@
 3 Watery Grave
 1 Aether Meltdown
 2 Aether Meltdown
-1 Fatal Push
 1 Drowned Catacomb
+1 Fatal Push
 2 Fatal Push
 4 Watery Grave
 3 Overgrown Tomb
@@ -158,8 +158,8 @@
 2 Heartless Act
 4 Ulamog, the Ceaseless Hunger
 1 Shielded Aether Thief
-4 Spirebluff Canal
 4 Aether Meltdown
+4 Spirebluff Canal
 2 Censor
 4 Sulfur Falls
 1 Solve the Equation
@@ -245,9 +245,9 @@
 1 Chemister's Insight
 2 Supreme Will
 2 Chemister's Insight
+3 Drowned Catacomb
 3 Brineborn Cutthroat
 3 Frilled Mystic
-3 Drowned Catacomb
 4 Brineborn Cutthroat
 1 Lochmere Serpent
 1 Clearwater Pathway

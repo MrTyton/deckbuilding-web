@@ -55,6 +55,6 @@
 |                    2|[Wandering Fumarole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407692)  |                     |                                                                                               |
 |                    3|[Claim/Fame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430839)          |                     |                                                                                               |
 |                    3|Blightstep Pathway                                                                             |                     |                                                                                               |
-|                    4|Blightstep Pathway                                                                             |                     |                                                                                               |
 |                    4|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)        |                     |                                                                                               |
+|                    4|Blightstep Pathway                                                                             |                     |                                                                                               |
 

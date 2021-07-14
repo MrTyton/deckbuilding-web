@@ -60,13 +60,8 @@
 2 Platinum Emperion
 2 Prismatic Ending
 3 Prismatic Ending
-3 Fury
 3 Gaddock Teeg
-1 Leyline of Sanctity
-2 Leyline of Sanctity
-3 Leyline of Sanctity
-3 Anger of the Gods
-4 Leyline of Sanctity
+3 Fury
 3 Rest in Peace
 1 Cursed Totem
 1 Chalice of the Void
@@ -75,6 +70,11 @@
 3 Cursed Totem
 3 Chalice of the Void
 4 Chalice of the Void
+1 Leyline of Sanctity
+2 Leyline of Sanctity
+3 Anger of the Gods
+3 Leyline of Sanctity
+4 Leyline of Sanctity
 1 Shattering Spree
 1 Subtlety
 3 Force of Negation
@@ -99,6 +99,8 @@
 1 Chandra, Torch of Defiance
 1 Back to Nature
 1 Anafenza, the Foremost
+1 Shark Typhoon
+2 Shark Typhoon
 1 Through the Breach
 1 Fulminator Mage
 1 Ricochet Trap
@@ -110,8 +112,6 @@
 1 Flame Slash
 2 Ceremonious Rejection
 2 Klothys, God of Destiny
-1 Shark Typhoon
-2 Shark Typhoon
 1 Kolaghan's Command
 1 Wheel of Sun and Moon
 1 Abrupt Decay
@@ -120,12 +120,12 @@
 1 Generous Gift
 1 Knowledge Pool
 2 Generous Gift
-1 Sanctifier en-Vec
 1 Thalia, Guardian of Thraben
 1 Torpor Orb
-1 Deafening Silence
 1 Burrenton Forge-Tender
+1 Deafening Silence
 1 Knight of Autumn
+1 Sanctifier en-Vec
 1 Kor Firewalker
 2 Sanctifier en-Vec
 2 Knight of Autumn

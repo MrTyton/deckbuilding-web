@@ -4,45 +4,46 @@
 1 Snow-Covered Forest
 1 Ancient Tomb
 1 Lightning Bolt
-1 Verdant Catacombs
 1 Retrofitter Foundry
 1 Waterlogged Grove
 1 Pyrite Spellbomb
+1 Verdant Catacombs
 2 Field of the Dead
+1 Savannah
 2 Lightning Bolt
 1 Tranquil Thicket
 1 Sheltered Thicket
-1 Savannah
+2 Windswept Heath
 1 Horizon Canopy
 1 Flagstones of Trokair
 2 Flagstones of Trokair
-2 Windswept Heath
-3 Elvish Reclaimer
 1 Swords to Plowshares
 2 Swords to Plowshares
+3 Elvish Reclaimer
 4 Elvish Reclaimer
 1 Expedition Map
+3 Windswept Heath
 1 Prismatic Ending
 2 Misty Rainforest
 2 Prismatic Ending
-3 Windswept Heath
-2 Ghost Quarter
-2 Savannah
 1 Knight of the Reliquary
 2 Knight of the Reliquary
-3 Flagstones of Trokair
 3 Knight of the Reliquary
-3 Swords to Plowshares
 4 Windswept Heath
-4 Swords to Plowshares
 4 Knight of the Reliquary
+2 Ghost Quarter
+2 Savannah
+3 Flagstones of Trokair
+3 Swords to Plowshares
+4 Swords to Plowshares
+1 Sejiri Steppe
+2 Forest
 3 Misty Rainforest
 1 Tropical Island
 1 Uro, Titan of Nature's Wrath
 1 Tundra
 1 Thalia, Guardian of Thraben
 1 Cursed Scroll
-2 Forest
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
 3 Savannah
@@ -50,14 +51,21 @@
 4 Thalia, Guardian of Thraben
 4 Savannah
 4 Urza's Saga
-1 Sejiri Steppe
 1 Plateau
 1 Sevinne's Reclamation
 4 Dark Depths
 1 Gamble
 2 Gamble
-1 Nurturing Peatland
 1 Barbarian Ring
+1 Knight of Autumn
+1 Sylvan Safekeeper
+1 Plains
+1 Dryad Arbor
+1 Scavenging Ooze
+1 Green Sun's Zenith
+2 Green Sun's Zenith
+3 Green Sun's Zenith
+4 Green Sun's Zenith
 1 Endurance
 2 Endurance
 3 Prismatic Ending
@@ -68,26 +76,15 @@
 4 Brainstorm
 2 Uro, Titan of Nature's Wrath
 2 Tropical Island
-1 Abrupt Decay
-1 Bayou
 1 Ramunap Excavator
 1 Dakkon, Shadow Slayer
-1 Knight of Autumn
 1 Scrubland
-1 Sylvan Safekeeper
 1 Grist, the Hunger Tide
 1 Valakut, the Molten Pinnacle
 1 Dryad of the Ilysian Grove
-1 Plains
-1 Dryad Arbor
 1 Grasping Dunes
-1 Scavenging Ooze
-1 Green Sun's Zenith
-2 Green Sun's Zenith
 2 Yavimaya, Cradle of Growth
-3 Green Sun's Zenith
 3 Yavimaya, Cradle of Growth
-4 Green Sun's Zenith
 1 Phyrexian Furnace
 1 Batterskull
 1 Umezawa's Jitte
@@ -99,13 +96,15 @@
 1 Baleful Strix
 1 Swamp
 1 Underground Sea
-1 Teferi, Time Raveler
 1 Cephalid Coliseum
+1 Abrupt Decay
+1 Teferi, Time Raveler
 1 Jace, the Mind Sculptor
+1 Bayou
 1 Cabal Pit
 1 Creeping Tar Pit
-1 Island
 1 Polluted Delta
+1 Island
 2 Baleful Strix
 2 Leovold, Emissary of Trest
 2 Abrupt Decay
@@ -115,6 +114,7 @@
 3 Baleful Strix
 3 Abrupt Decay
 4 Misty Rainforest
+1 Nurturing Peatland
 1 Mishra's Bauble
 1 Klothys, God of Destiny
 1 Ipnu Rivulet
@@ -126,8 +126,18 @@
 1 Manabond
 1 Karn, Scion of Urza
 2 Karn, Scion of Urza
-2 Bayou
-3 Sylvan Library
+1 Primeval Titan
+1 Birds of Paradise
+1 Titania, Protector of Argoth
+1 Archon of Valor's Reach
+1 Orcish Lumberjack
+1 Natural Order
+1 Scattered Groves
+2 Verdant Catacombs
+2 Birds of Paradise
+2 Titania, Protector of Argoth
+2 Orcish Lumberjack
+2 Natural Order
 3 Gamble
 3 Maze of Ith
 4 Rishadan Port
