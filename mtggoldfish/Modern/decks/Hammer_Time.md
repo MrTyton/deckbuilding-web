@@ -62,8 +62,8 @@
 |                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)     |                     |                                                                                                 |
 |                    1|Sanctifier en-Vec                                                                             |                     |                                                                                                 |
 |                    2|Sanctifier en-Vec                                                                             |                     |                                                                                                 |
-|                    1|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)          |                     |                                                                                                 |
 |                    1|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)        |                     |                                                                                                 |
+|                    1|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)          |                     |                                                                                                 |
 |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|                     |                                                                                                 |
 |                    3|Sanctifier en-Vec                                                                             |                     |                                                                                                 |
 
