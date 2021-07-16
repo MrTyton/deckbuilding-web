@@ -1,18 +1,18 @@
-2 Gray Merchant of Asphodel
-2 Underworld Dreams
-3 Underworld Dreams
-3 Gray Merchant of Asphodel
-1 Kitesail Freebooter
-1 Sign in Blood
+1 Gray Merchant of Asphodel
 1 Nightveil Specter
 1 Vampire of the Dire Moon
+1 Underworld Dreams
 2 Kitesail Freebooter
 2 Sign in Blood
+2 Gray Merchant of Asphodel
+2 Underworld Dreams
 2 Nightveil Specter
 2 Vampire of the Dire Moon
 3 Kitesail Freebooter
 3 Sign in Blood
 3 Vampire of the Dire Moon
+3 Underworld Dreams
+3 Gray Merchant of Asphodel
 3 Nightveil Specter
 4 Sign in Blood
 4 Kitesail Freebooter
@@ -27,15 +27,6 @@
 20 Swamp
 21 Swamp
 1 Urborg, Tomb of Yawgmoth
-1 Agadeem's Awakening
-1 Witch's Cottage
-22 Swamp
-1 Sanctum of Stone Fangs
-3 Heartless Act
-4 Heartless Act
-1 Serrated Scorpion
-2 Serrated Scorpion
-4 Murderous Rider
 1 Faceless Haven
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
@@ -53,171 +44,18 @@
 14 Snow-Covered Swamp
 15 Snow-Covered Swamp
 16 Snow-Covered Swamp
+1 Agadeem's Awakening
+1 Witch's Cottage
+22 Swamp
+1 Sanctum of Stone Fangs
+3 Heartless Act
+4 Heartless Act
+1 Serrated Scorpion
+2 Serrated Scorpion
+4 Murderous Rider
 1 Nykthos, Shrine to Nyx
 2 Urborg, Tomb of Yawgmoth
 1 Crippling Fear
 1 Nighthawk Scavenger
 2 Crippling Fear
 2 Nighthawk Scavenger
-1 Island
-1 Aphemia, the Cacophony
-1 Drag to the Underworld
-1 Sunken Hollow
-1 Fate Unraveler
-1 Dictate of Kruphix
-1 Watery Grave
-1 Grim Guardian
-1 Master of the Feast
-1 Drowned Catacomb
-1 Folio of Fancies
-1 Leyline of Anticipation
-1 Ob Nixilis, the Hate-Twisted
-1 Damnable Pact
-2 Watery Grave
-2 Aphemia, the Cacophony
-2 Drag to the Underworld
-2 Folio of Fancies
-2 Dictate of Kruphix
-2 Ob Nixilis, the Hate-Twisted
-2 Damnable Pact
-2 Island
-2 Drowned Catacomb
-2 Leyline of Anticipation
-2 Grim Guardian
-2 Fate Unraveler
-2 Sunken Hollow
-2 Master of the Feast
-3 Aphemia, the Cacophony
-3 Drowned Catacomb
-3 Dictate of Kruphix
-3 Watery Grave
-3 Damnable Pact
-3 Fate Unraveler
-3 Sunken Hollow
-3 Master of the Feast
-3 Grim Guardian
-3 Drag to the Underworld
-4 Drowned Catacomb
-4 Damnable Pact
-4 Drag to the Underworld
-4 Fate Unraveler
-4 Watery Grave
-4 Sunken Hollow
-1 Mountain
-1 Golos, Tireless Pilgrim
-1 Aetherworks Marvel
-1 Woodweaver's Puzzleknot
-1 Aether Hub
-1 Steam Vents
-1 Ugin, the Spirit Dragon
-1 Shrine of the Forsaken Gods
-1 Harnessed Lightning
-1 Attune with Aether
-1 Whirler Virtuoso
-1 Servant of the Conduit
-1 Breeding Pool
-1 Botanical Sanctum
-1 Stomping Ground
-1 Ulamog, the Ceaseless Hunger
-1 Rogue Refiner
-1 Forest
-1 Cragcrown Pathway
-2 Ulamog, the Ceaseless Hunger
-2 Golos, Tireless Pilgrim
-2 Aether Hub
-2 Aetherworks Marvel
-2 Woodweaver's Puzzleknot
-2 Ugin, the Spirit Dragon
-2 Whirler Virtuoso
-2 Harnessed Lightning
-2 Forest
-2 Stomping Ground
-2 Attune with Aether
-2 Servant of the Conduit
-2 Shrine of the Forsaken Gods
-2 Rogue Refiner
-2 Botanical Sanctum
-3 Golos, Tireless Pilgrim
-3 Ulamog, the Ceaseless Hunger
-3 Aether Hub
-3 Aetherworks Marvel
-3 Woodweaver's Puzzleknot
-3 Ugin, the Spirit Dragon
-3 Rogue Refiner
-3 Botanical Sanctum
-3 Attune with Aether
-3 Shrine of the Forsaken Gods
-3 Stomping Ground
-3 Whirler Virtuoso
-3 Harnessed Lightning
-3 Servant of the Conduit
-4 Aether Hub
-4 Golos, Tireless Pilgrim
-4 Aetherworks Marvel
-4 Woodweaver's Puzzleknot
-4 Botanical Sanctum
-4 Harnessed Lightning
-4 Rogue Refiner
-4 Stomping Ground
-4 Whirler Virtuoso
-4 Attune with Aether
-4 Servant of the Conduit
-1 Cast Out
-1 Hollow One
-1 Go for Blood
-1 Flourishing Fox
-1 Plains
-1 Drannith Healer
-1 Imposing Vantasaur
-1 Zenith Flare
-1 Djeru's Renunciation
-1 Flameblade Adept
-1 Footfall Crater
-1 Inspiring Vantage
-1 Splendor Mare
-1 Drannith Stinger
-2 Cast Out
-2 Hollow One
-2 Go for Blood
-2 Plains
-2 Flourishing Fox
-2 Djeru's Renunciation
-2 Inspiring Vantage
-2 Footfall Crater
-2 Imposing Vantasaur
-2 Drannith Stinger
-2 Mountain
-2 Flameblade Adept
-2 Drannith Healer
-2 Zenith Flare
-3 Hollow One
-3 Imposing Vantasaur
-3 Flameblade Adept
-3 Drannith Stinger
-3 Inspiring Vantage
-3 Go for Blood
-3 Drannith Healer
-3 Zenith Flare
-3 Djeru's Renunciation
-3 Plains
-3 Footfall Crater
-3 Cast Out
-3 Flourishing Fox
-3 Mountain
-4 Imposing Vantasaur
-4 Footfall Crater
-4 Zenith Flare
-4 Drannith Healer
-4 Drannith Stinger
-4 Flourishing Fox
-4 Plains
-4 Go for Blood
-4 Djeru's Renunciation
-4 Inspiring Vantage
-4 Mountain
-5 Plains
-5 Mountain
-6 Plains
-7 Plains
-8 Plains
-6 Mountain

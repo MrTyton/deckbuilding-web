@@ -1,20 +1,20 @@
 1 Goblin Trashmaster
-1 Terminate
 1 Thoughtseize
 2 Thoughtseize
+2 Dreadbore
+1 Terminate
 2 Terminate
 2 Goblin Cratermaker
-2 Dreadbore
-1 Pithing Needle
 1 Fury
 2 Fury
-2 Pithing Needle
+1 Pithing Needle
 1 Tarfire
+1 Warren Weirding
 1 Damping Sphere
 2 Damping Sphere
-2 Tarfire
-1 Warren Weirding
+2 Pithing Needle
 2 Warren Weirding
+2 Tarfire
 3 Tarfire
 4 Relic of Progenitus
 3 Damping Sphere
@@ -24,18 +24,23 @@
 3 Thoughtseize
 1 Duress
 2 Duress
-1 Goblin Chainwhirler
 1 Goblin Ringleader
-1 Alpine Moon
-3 Duress
-1 Boil
-1 Nihil Spellbomb
-2 Nihil Spellbomb
-3 Terminate
 1 Plague Engineer
 1 Munitions Expert
-4 Thoughtseize
 2 Plague Engineer
+1 Alpine Moon
+3 Duress
+1 Masked Vandal
+2 Masked Vandal
+3 Masked Vandal
+1 Leyline of the Void
+2 Leyline of the Void
+3 Leyline of the Void
+4 Leyline of the Void
+1 Nihil Spellbomb
+2 Nihil Spellbomb
+1 Goblin Chainwhirler
+4 Thoughtseize
 1 Collector Ouphe
 1 Magus of the Moon
 1 Spellskite
@@ -43,6 +48,7 @@
 1 Kataki, War's Wage
 1 Yixlid Jailer
 1 Eidolon of Rhetoric
+1 Boil
 1 Surgical Extraction
 2 Surgical Extraction
 1 Soul-Guide Lantern
@@ -50,14 +56,13 @@
 2 Soul-Guide Lantern
 2 Goblin Rabblemaster
 2 Goblin Trashmaster
+1 Rain of Gore
+2 Rain of Gore
 1 Collective Brutality
 1 Angrath's Rampage
 2 Angrath's Rampage
 2 Collective Brutality
 3 Collective Brutality
-1 Masked Vandal
-2 Masked Vandal
-3 Masked Vandal
 1 Dismember
 2 Collector Ouphe
 2 Magus of the Moon
@@ -82,13 +87,8 @@
 3 Aether Gust
 1 Necromentia
 3 Nihil Spellbomb
+3 Terminate
 4 Terminate
 1 Sling-Gang Lieutenant
 4 Tarfire
 4 Blood Moon
-1 Leyline of the Void
-1 Rain of Gore
-2 Leyline of the Void
-2 Rain of Gore
-3 Leyline of the Void
-4 Leyline of the Void

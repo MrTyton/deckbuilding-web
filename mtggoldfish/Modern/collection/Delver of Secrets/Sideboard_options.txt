@@ -1,7 +1,7 @@
+2 Force of Negation
 1 Blood Moon
 2 Blood Moon
 3 Aether Gust
-2 Force of Negation
 3 Soul-Guide Lantern
 4 Soul-Guide Lantern
 1 Flusterstorm
@@ -19,42 +19,41 @@
 2 Prismatic Ending
 2 Alpine Moon
 1 Void Mirror
-2 Hurkyl's Recall
 1 Veil of Summer
 2 Veil of Summer
-1 Tormod's Crypt
-2 Dispel
 1 Cleansing Wildfire
 2 Cleansing Wildfire
+1 Tormod's Crypt
+2 Hurkyl's Recall
+2 Dispel
+3 Cleansing Wildfire
+3 Veil of Summer
 1 Timely Reinforcements
 2 Counterspell
 2 Timely Reinforcements
 1 Ceremonious Rejection
-1 Surgical Extraction
 2 Tormod's Crypt
 2 Ceremonious Rejection
-3 Veil of Summer
-3 Cleansing Wildfire
 1 Kor Firewalker
 2 Kor Firewalker
 3 Kor Firewalker
+1 Surgical Extraction
 1 Blazing Volley
 1 Life Goes On
 2 Life Goes On
-2 Surgical Extraction
-1 Lurrus of the Dream-Den
 1 Collective Brutality
+2 Surgical Extraction
 2 Collective Brutality
-1 Chalice of the Void
 1 Vandalblast
 1 Firespout
 1 Ashiok, Dream Render
 1 Fiery Cannonade
+1 Chalice of the Void
 1 Sanctifier en-Vec
 1 Wear/Tear
 2 Wear/Tear
-1 Skyclave Apparition
 1 Rip Apart
+1 Skyclave Apparition
 1 Disdainful Stroke
 1 Lightning Helix
 2 Skyclave Apparition
@@ -62,6 +61,13 @@
 1 Klothys, God of Destiny
 2 Klothys, God of Destiny
 2 Annul
+1 Endurance
+1 Huntmaster of the Fells
+1 Destructive Revelry
+1 Grafdigger's Cage
+2 Destructive Revelry
+2 Huntmaster of the Fells
+1 Lurrus of the Dream-Den
 1 Countersquall
 1 Fatal Push
 1 Snapcaster Mage
@@ -75,19 +81,11 @@
 2 Tarmogoyf
 2 Wizard's Retort
 3 Tarmogoyf
-1 Geth's Verdict
-1 Vapor Snag
-1 Psychic Barrier
-2 Brazen Borrower
-2 Geth's Verdict
-2 Vapor Snag
-2 Psychic Barrier
-3 Collective Brutality
 2 Fury
 3 Abrade
+1 Nihil Spellbomb
 1 Heartless Act
 1 Drown in the Loch
-1 Nihil Spellbomb
 1 Flaying Tendrils
 2 Void Mirror
 2 Nihil Spellbomb
@@ -102,10 +100,11 @@
 2 Ancestral Vision
 3 Tormod's Crypt
 4 Cleansing Wildfire
-1 Kaya's Guile
-1 Bitterblossom
-1 Dead of Winter
-2 Kaya's Guile
-2 Bitterblossom
-3 Kaya's Guile
-4 Kaya's Guile
+1 Geth's Verdict
+1 Vapor Snag
+1 Psychic Barrier
+2 Brazen Borrower
+2 Geth's Verdict
+2 Vapor Snag
+3 Collective Brutality
+2 Psychic Barrier
