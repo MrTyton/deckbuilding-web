@@ -1,4 +1,4 @@
-2 Solitude
+4 Field of Ruin
 10 Plains
 4 Flickerwisp
 1 Horizon Canopy
@@ -6,23 +6,15 @@
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
-1 Eiganjo Castle
 2 Horizon Canopy
+3 Solitude
 1 Sanctum Prelate
 1 Mishra's Factory
 2 Mishra's Factory
 3 Mishra's Factory
+1 Eiganjo Castle
 4 Archon of Emeria
-1 Snow-Covered Plains
-2 Snow-Covered Plains
-3 Snow-Covered Plains
-4 Snow-Covered Plains
-5 Snow-Covered Plains
-6 Snow-Covered Plains
-7 Snow-Covered Plains
-8 Snow-Covered Plains
-9 Snow-Covered Plains
-3 Solitude
+1 Charming Prince
 1 Forest
 1 Branchloft Pathway
 1 Razorverge Thicket
@@ -36,30 +28,38 @@
 3 Noble Hierarch
 4 Razorverge Thicket
 4 Noble Hierarch
-1 Charming Prince
+1 Sunbaked Canyon
 1 Tectonic Edge
 2 Tectonic Edge
 3 Tectonic Edge
+1 Snow-Covered Plains
+2 Snow-Covered Plains
+3 Snow-Covered Plains
+4 Snow-Covered Plains
+5 Snow-Covered Plains
+6 Snow-Covered Plains
+7 Snow-Covered Plains
+8 Snow-Covered Plains
+9 Snow-Covered Plains
 4 Tectonic Edge
+2 Charming Prince
+3 Charming Prince
 1 Gavony Township
 1 Collected Company
 2 Forest
 2 Collected Company
 3 Collected Company
 2 Sanctum Prelate
-1 Sunbaked Canyon
 1 On Thin Ice
 2 On Thin Ice
 10 Snow-Covered Plains
 11 Snow-Covered Plains
 12 Snow-Covered Plains
 13 Snow-Covered Plains
-2 Charming Prince
-3 Charming Prince
+2 Sunbaked Canyon
 1 Temple Garden
 2 Temple Garden
 4 Mishra's Factory
-1 Flagstones of Trokair
 1 Linvala, Keeper of Silence
 2 Linvala, Keeper of Silence
 14 Snow-Covered Plains
@@ -69,13 +69,16 @@
 18 Snow-Covered Plains
 3 On Thin Ice
 4 On Thin Ice
-2 Sunbaked Canyon
+11 Plains
 1 Restoration Angel
 2 Restoration Angel
 4 Solitude
 3 Branchloft Pathway
 4 Branchloft Pathway
-11 Plains
+1 Flagstones of Trokair
+12 Plains
+13 Plains
+14 Plains
 2 Castle Ardenvale
 19 Snow-Covered Plains
 20 Snow-Covered Plains
@@ -100,18 +103,22 @@
 1 Scavenging Ooze
 2 Elite Spellbinder
 2 Scavenging Ooze
-12 Plains
-13 Plains
-14 Plains
+1 Urza's Saga
+1 Cave of the Frost Dragon
+1 Shadowspear
+2 Urza's Saga
+2 Cave of the Frost Dragon
+3 Urza's Saga
+4 Urza's Saga
 4 Inspiring Vantage
 4 Esper Sentinel
 4 Sacred Foundry
-1 Needleverge Pathway
 1 Ragavan, Nimble Pilferer
+1 Needleverge Pathway
 2 Ragavan, Nimble Pilferer
 2 Needleverge Pathway
-3 Sunbaked Canyon
 3 Ragavan, Nimble Pilferer
+3 Sunbaked Canyon
 4 Ragavan, Nimble Pilferer
 4 Sunbaked Canyon
 4 Lightning Bolt
@@ -128,22 +135,23 @@
 3 Oath of Nissa
 4 Oath of Nissa
 4 Temple Garden
+1 Emeria's Call
 1 Thraben Inspector
 1 Skyclave Cleric
-1 Emeria's Call
 1 Ephemerate
-2 Thraben Inspector
 2 Emeria's Call
+2 Thraben Inspector
 2 Skyclave Cleric
 2 Ephemerate
-3 Restoration Angel
 3 Emeria's Call
+3 Restoration Angel
 3 Thraben Inspector
 4 Restoration Angel
 4 Emeria's Call
 4 Thraben Inspector
 15 Plains
 16 Plains
+1 Pithing Needle
 1 Sanctifier en-Vec
 2 Flagstones of Trokair
 1 Chalice of the Void
@@ -158,24 +166,17 @@
 2 Prismatic Vista
 2 Windswept Heath
 3 Needleverge Pathway
-1 Urza's Saga
-1 Cave of the Frost Dragon
 1 Sword of Feast and Famine
-1 Shadowspear
 1 Tithe Taker
-2 Urza's Saga
-2 Cave of the Frost Dragon
 2 Tithe Taker
-3 Urza's Saga
 3 Sanctum Prelate
 3 Tithe Taker
-4 Urza's Saga
 4 Sanctum Prelate
 4 Tithe Taker
 1 Kataki, War's Wage
 1 Prismatic Ending
-2 Magus of the Moon
 2 Prismatic Ending
+2 Magus of the Moon
 3 Prismatic Ending
 4 Imperial Recruiter
 3 Horizon Canopy
