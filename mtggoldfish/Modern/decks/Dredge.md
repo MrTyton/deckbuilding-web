@@ -85,8 +85,8 @@
 |                    3|[Tome Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191598)             |                    3|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)    |
 |                    3|[Glimpse the Unthinkable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=455918)|                     |                                                                                                |
 |                    4|[Tome Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191598)             |                     |                                                                                                |
-|                    4|[Glimpse the Unthinkable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=455918)|                     |                                                                                                |
 |                    2|[Copperline Gorge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209408)       |                     |                                                                                                |
 |                    1|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)  |                     |                                                                                                |
 |                    2|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)  |                     |                                                                                                |
+|                    4|[Glimpse the Unthinkable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=455918)|                     |                                                                                                |
 

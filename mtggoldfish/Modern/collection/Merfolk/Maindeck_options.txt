@@ -32,12 +32,12 @@
 6 Snow-Covered Island
 3 Merfolk Mistbinder
 4 Merfolk Mistbinder
-1 Seachrome Coast
 1 Unsettled Mariner
 1 Wanderwine Hub
-2 Seachrome Coast
+1 Seachrome Coast
 2 Wanderwine Hub
 2 Unsettled Mariner
+2 Seachrome Coast
 3 Seachrome Coast
 3 Wanderwine Hub
 3 Unsettled Mariner
@@ -85,11 +85,6 @@
 1 Tidebinder Mage
 2 Tidebinder Mage
 3 Tidebinder Mage
-1 Lurrus of the Dream-Den
-2 Lurrus of the Dream-Den
-3 Lurrus of the Dream-Den
-3 Dismember
-4 Seachrome Coast
 1 Mountain
 1 Swamp
 1 Misty Rainforest
@@ -101,15 +96,20 @@
 4 Mountain
 3 Repeal
 4 Repeal
+4 Waterlogged Grove
 1 Underground River
 2 Underground River
 3 Phantasmal Image
 3 Underground River
-4 Darkslick Shores
 4 Underground River
-4 Waterlogged Grove
+4 Darkslick Shores
 1 Rishadan Dockhand
 2 Rishadan Dockhand
 3 Suspend
 3 Rishadan Dockhand
 4 Rishadan Dockhand
+1 Lurrus of the Dream-Den
+2 Lurrus of the Dream-Den
+3 Lurrus of the Dream-Den
+3 Dismember
+4 Seachrome Coast

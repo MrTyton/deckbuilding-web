@@ -73,7 +73,7 @@
 |                    3|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)                |                     |                                                                                            |
 |                    3|[Show of Confidence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513505)        |                     |                                                                                            |
 |                    3|[Crash Through](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430777)             |                     |                                                                                            |
+|                    4|[Leonin Lightscribe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513497)        |                     |                                                                                            |
 |                    4|[Crash Through](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430777)             |                     |                                                                                            |
 |                    4|[Show of Confidence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513505)        |                     |                                                                                            |
-|                    4|[Leonin Lightscribe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513497)        |                     |                                                                                            |
 

@@ -1,27 +1,6 @@
-4 Giver of Runes
-1 Field of Ruin
-1 Aether Vial
-1 Wall of Omens
-2 Field of Ruin
-2 Aether Vial
-2 Wall of Omens
-3 Field of Ruin
-3 Brightclimb Pathway
-3 Flickerwisp
-3 Aether Vial
-4 Aether Vial
+4 Silent Clearing
 3 Solitude
 4 Solitude
-2 Vindicate
-1 Shambling Vent
-2 Swamp
-1 Urborg, Tomb of Yawgmoth
-4 Field of Ruin
-5 Plains
-6 Plains
-4 Brightclimb Pathway
-3 Wall of Omens
-4 Silent Clearing
 7 Plains
 1 Vanishing Verse
 1 Leonin Arbiter
@@ -30,51 +9,52 @@
 2 Ghost Quarter
 3 Leonin Arbiter
 4 Leonin Arbiter
-1 Castle Locthwain
+1 Urborg, Tomb of Yawgmoth
 1 Damn
+1 Castle Locthwain
+2 Damn
 1 Undying Evil
 2 Undying Evil
-2 Damn
 1 Thoughtseize
 2 Thoughtseize
+3 Thoughtseize
+1 Inquisition of Kozilek
+1 Dauthi Voidwalker
+2 Dauthi Voidwalker
+2 Inquisition of Kozilek
+3 Inquisition of Kozilek
+1 Kaya's Guile
 1 Maul of the Skyclaves
 1 Charming Prince
 2 Charming Prince
 3 Charming Prince
 3 Undying Evil
+3 Swamp
+1 Kaya, Orzhov Usurper
 1 Liliana of the Veil
 2 Liliana of the Veil
-3 Thoughtseize
+3 Dauthi Voidwalker
+4 Inquisition of Kozilek
+3 Vindicate
+4 Vindicate
+1 Lingering Souls
+2 Lingering Souls
+2 Kaya's Guile
+4 Dauthi Voidwalker
 1 Persist
 2 Persist
 3 Persist
-1 Kaya, Orzhov Usurper
-1 Inquisition of Kozilek
-1 Kaya's Guile
-1 Dauthi Voidwalker
-2 Dauthi Voidwalker
-3 Vindicate
-4 Vindicate
-2 Inquisition of Kozilek
-3 Inquisition of Kozilek
-1 Lingering Souls
-2 Lingering Souls
-3 Swamp
-4 Inquisition of Kozilek
-3 Dauthi Voidwalker
 3 Liliana of the Veil
-2 Kaya's Guile
-4 Dauthi Voidwalker
 1 Shriekmaw
 2 Shriekmaw
+1 Path to Exile
 1 Elite Spellbinder
 1 Wasteland Strangler
-1 Path to Exile
+2 Path to Exile
 2 Elite Spellbinder
 2 Wasteland Strangler
-2 Path to Exile
-3 Elite Spellbinder
 3 Wasteland Strangler
+3 Elite Spellbinder
 4 Elite Spellbinder
 1 Agadeem's Awakening
 1 Emeria's Call
@@ -84,55 +64,87 @@
 3 Emeria's Call
 4 Undying Evil
 3 Kaya's Guile
-1 Archon of Cruelty
-4 Persist
-1 Fetid Heath
 2 Shambling Vent
 3 Path to Exile
 4 Path to Exile
 4 Flickerwisp
+4 Wasteland Strangler
 4 Godless Shrine
 1 Priest of Fell Rites
 1 Unmarked Grave
+1 Archon of Cruelty
 2 Unmarked Grave
 2 Priest of Fell Rites
-1 Collective Brutality
-1 Serra's Emissary
-2 Collective Brutality
-4 Wasteland Strangler
+4 Persist
 4 Charming Prince
 4 Thoughtseize
-1 Windswept Heath
 1 Snow-Covered Plains
 1 Snow-Covered Swamp
+1 Fetid Heath
 2 Snow-Covered Swamp
 2 Snow-Covered Plains
-1 Flagstones of Trokair
-1 Smallpox
-2 Urborg, Tomb of Yawgmoth
-2 Flagstones of Trokair
-2 Smallpox
-3 Flagstones of Trokair
-3 Smallpox
-4 Flagstones of Trokair
-4 Smallpox
 1 Skyclave Cleric
 3 Lingering Souls
+1 Collective Brutality
 1 Ashen Rider
+1 Serra's Emissary
+2 Collective Brutality
 3 Unmarked Grave
 4 Unmarked Grave
 2 Kaya, Orzhov Usurper
+1 Windswept Heath
+2 Vanishing Verse
 2 Windswept Heath
+3 Shambling Vent
+4 Wall of Omens
+1 Thalia, Guardian of Thraben
+2 Thalia, Guardian of Thraben
+3 Thalia, Guardian of Thraben
+4 Thalia, Guardian of Thraben
+8 Plains
+9 Plains
+10 Plains
 1 Inkmoth Nexus
 1 Shadowspear
-1 Urza's Saga
 1 Esper Sentinel
-2 Urza's Saga
+1 Urza's Saga
+1 Expedition Map
 2 Esper Sentinel
-3 Urza's Saga
+2 Urza's Saga
 3 Esper Sentinel
-4 Urza's Saga
+3 Urza's Saga
 4 Esper Sentinel
+4 Urza's Saga
+1 Flooded Strand
+1 Bitterblossom
+1 Kitchen Finks
+1 Sorin, Solemn Visitor
+2 Skyclave Cleric
+1 Tourach, Dread Cantor
+1 Dark Confidant
+1 Gideon, Ally of Zendikar
+2 Dark Confidant
+3 Dark Confidant
+1 Savai Triome
+1 Prismatic Ending
+1 Bone Shards
+2 Prismatic Ending
+3 Prismatic Ending
+4 Prismatic Ending
+1 Smallpox
+1 Flagstones of Trokair
+2 Urborg, Tomb of Yawgmoth
+2 Smallpox
+2 Flagstones of Trokair
+2 Archon of Cruelty
+3 Smallpox
+3 Flagstones of Trokair
+3 Archon of Cruelty
+4 Flagstones of Trokair
+4 Smallpox
+4 Lingering Souls
+3 Priest of Fell Rites
+4 Priest of Fell Rites
 1 Colossus Hammer
 1 Springleaf Drum
 1 Puresteel Paladin
@@ -143,9 +155,9 @@
 2 Springleaf Drum
 2 Ornithopter
 2 Memnite
-2 Colossus Hammer
 2 Sigarda's Aid
 2 Puresteel Paladin
+2 Colossus Hammer
 3 Inkmoth Nexus
 3 Sigarda's Aid
 3 Ornithopter
@@ -155,55 +167,15 @@
 3 Memnite
 4 Inkmoth Nexus
 4 Sigarda's Aid
+4 Springleaf Drum
 4 Ornithopter
+4 Memnite
 4 Puresteel Paladin
 4 Colossus Hammer
-1 Expedition Map
-1 Pithing Needle
-1 Welding Jar
-3 Shambling Vent
-4 Wall of Omens
-1 Thalia, Guardian of Thraben
-2 Thalia, Guardian of Thraben
-3 Thalia, Guardian of Thraben
-4 Thalia, Guardian of Thraben
-8 Plains
-9 Plains
-10 Plains
-1 Flooded Strand
-1 Bitterblossom
-1 Kitchen Finks
-1 Sorin, Solemn Visitor
-2 Skyclave Cleric
-1 Sword of Hearth and Home
-1 Mavinda, Students' Advocate
-2 Fetid Heath
-1 Tourach, Dread Cantor
-1 Dark Confidant
-1 Gideon, Ally of Zendikar
-2 Dark Confidant
-3 Dark Confidant
-2 Archon of Cruelty
-3 Archon of Cruelty
-1 Hallowed Fountain
-1 Paradise Mantle
-1 Steelshaper's Gift
-1 Mishra's Bauble
-2 Steelshaper's Gift
-3 Windswept Heath
-1 Savai Triome
-1 Prismatic Ending
-1 Bone Shards
-2 Prismatic Ending
-3 Prismatic Ending
-4 Prismatic Ending
-3 Priest of Fell Rites
-4 Priest of Fell Rites
-4 Lingering Souls
-4 Springleaf Drum
-4 Memnite
 1 Dispatch
+1 Pithing Needle
 1 Ethersworn Canonist
+1 Welding Jar
 1 Goldmire Bridge
 1 Etched Champion
 1 Darksteel Citadel

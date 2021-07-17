@@ -33,8 +33,8 @@
 4 Academy Manufactor
 1 Polluted Delta
 1 Mishra's Factory
-1 Marsh Flats
 1 Watery Grave
+1 Marsh Flats
 1 Silent Clearing
 1 Karn, the Great Creator
 1 Prismatic Vista
@@ -69,8 +69,8 @@
 2 Blackcleave Cliffs
 3 Blackcleave Cliffs
 3 Bloodstained Mire
-4 Blackcleave Cliffs
 4 Bloodstained Mire
+4 Blackcleave Cliffs
 1 Inquisition of Kozilek
 1 Thoughtseize
 2 Inquisition of Kozilek
@@ -85,6 +85,10 @@
 2 Wooded Foothills
 1 Nihil Spellbomb
 1 Twilight Mire
+1 Ignoble Hierarch
+1 Grist, the Hunger Tide
+2 Ignoble Hierarch
+3 Nurturing Peatland
 2 Fatal Push
 3 Fatal Push
 1 Unmarked Grave
@@ -92,10 +96,6 @@
 2 Unmarked Grave
 2 Lotleth Troll
 3 Lotleth Troll
-1 Ignoble Hierarch
-1 Grist, the Hunger Tide
-2 Ignoble Hierarch
-3 Nurturing Peatland
 1 Breeding Pool
 1 Urza, Lord High Artificer
 1 Stomping Ground
@@ -103,17 +103,17 @@
 2 Breeding Pool
 3 Misty Rainforest
 4 Misty Rainforest
-1 Blightstep Pathway
 1 Kolaghan's Command
+1 Blightstep Pathway
 1 Feed the Swarm
 1 Ragavan, Nimble Pilferer
 1 Seasoned Pyromancer
 2 Blightstep Pathway
-2 Feed the Swarm
 2 Nihil Spellbomb
+2 Kolaghan's Command
+2 Feed the Swarm
 2 Ragavan, Nimble Pilferer
 2 Seasoned Pyromancer
-2 Kolaghan's Command
 3 Blightstep Pathway
 3 Seasoned Pyromancer
 3 Ragavan, Nimble Pilferer
