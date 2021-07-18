@@ -5,47 +5,32 @@
 1 Shardless Agent
 2 Shardless Agent
 3 Shardless Agent
-4 Shardless Agent
 1 Breeding Pool
+4 Shardless Agent
 1 Lightning Helix
 2 Lightning Helix
 1 Forest
 1 Temple Garden
 1 Territorial Kavu
-1 Tribal Flames
 1 Mantis Rider
 2 Territorial Kavu
-2 Tribal Flames
 2 Mantis Rider
 3 Territorial Kavu
-3 Tribal Flames
 3 Mantis Rider
 4 Territorial Kavu
-4 Tribal Flames
 4 Mantis Rider
 1 Bloodbraid Elf
 2 Bloodbraid Elf
 3 Bloodbraid Elf
+1 Tribal Flames
+2 Tribal Flames
+3 Tribal Flames
+4 Tribal Flames
 1 Scion of Draco
 2 Scion of Draco
 3 Scion of Draco
 4 Scion of Draco
 3 Arid Mesa
-1 Misty Rainforest
-2 Misty Rainforest
-1 Glimpse of Tomorrow
-1 Khalni Garden
-1 Violent Outburst
-2 Khalni Garden
-2 Glimpse of Tomorrow
-2 Violent Outburst
-3 Khalni Garden
-3 Glimpse of Tomorrow
-3 Violent Outburst
-4 Violent Outburst
-3 Misty Rainforest
-4 Misty Rainforest
-4 Khalni Garden
 1 General Ferrous Rokiric
 2 General Ferrous Rokiric
 3 General Ferrous Rokiric
@@ -59,11 +44,31 @@
 1 Savai Triome
 1 Ignoble Hierarch
 2 Ignoble Hierarch
+3 Ignoble Hierarch
+4 Ignoble Hierarch
+2 Verdant Catacombs
+1 Misty Rainforest
+2 Misty Rainforest
+3 Misty Rainforest
+4 Misty Rainforest
+1 Glimpse of Tomorrow
+1 Khalni Garden
+1 Violent Outburst
+2 Khalni Garden
+2 Glimpse of Tomorrow
+2 Violent Outburst
+3 Khalni Garden
+3 Glimpse of Tomorrow
+3 Violent Outburst
+4 Violent Outburst
+4 Khalni Garden
 1 Wavesifter
 2 Wavesifter
 3 Wavesifter
-1 Gemstone Caverns
 4 Wavesifter
+4 Teferi, Time Raveler
+4 Arid Mesa
+1 Gemstone Caverns
 1 Omniscience
 1 Emrakul, the Aeons Torn
 2 Omniscience
@@ -76,24 +81,16 @@
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 4 Leyline of Sanctity
-3 Ignoble Hierarch
-4 Ignoble Hierarch
-2 Verdant Catacombs
-4 Teferi, Time Raveler
-4 Arid Mesa
 1 Growth Spiral
 2 Growth Spiral
 1 As Foretold
-1 Iona, Shield of Emeria
 2 As Foretold
 3 As Foretold
-1 Archon of Cruelty
+1 Iona, Shield of Emeria
 2 Mountain
-1 Ulamog, the Infinite Gyre
 1 Hallowed Fountain
-2 Iona, Shield of Emeria
-2 Archon of Cruelty
-3 Archon of Cruelty
+3 Lightning Helix
+4 Lightning Helix
 1 Omnath, Locus of Creation
 1 Goblin Dark-Dwellers
 1 Seasoned Pyromancer
@@ -108,27 +105,30 @@
 3 Omnath, Locus of Creation
 4 Goblin Dark-Dwellers
 4 Omnath, Locus of Creation
-3 Lightning Helix
-4 Lightning Helix
+1 Archon of Cruelty
+2 Iona, Shield of Emeria
+3 Bloodstained Mire
 1 Kozilek, Butcher of Truth
 2 Gemstone Caverns
-3 Bloodstained Mire
+1 Ulamog, the Infinite Gyre
+1 Klothys, God of Destiny
 1 Indatha Triome
 1 Zagoth Triome
-1 Leyline of the Void
-2 Leyline of the Void
-4 Archon of Cruelty
 1 Chancellor of the Forge
 2 Chancellor of the Forge
 3 Seasoned Pyromancer
 4 Tireless Provisioner
+2 Archon of Cruelty
+3 Archon of Cruelty
+1 Leyline of the Void
+2 Leyline of the Void
 1 Flooded Strand
 3 Growth Spiral
+4 Archon of Cruelty
 1 Snow-Covered Forest
 2 Snow-Covered Mountain
 3 Iona, Shield of Emeria
 4 Iona, Shield of Emeria
-1 Klothys, God of Destiny
 1 Jace, the Mind Sculptor
 4 Prismatic Ending
 3 Chancellor of the Forge
@@ -149,14 +149,14 @@
 4 General Ferrous Rokiric
 4 Chancellor of the Forge
 1 Fire-Lit Thicket
-1 Griselbrand
 1 Gemstone Mine
 2 Gemstone Mine
 1 Chandra, Torch of Defiance
 4 Glimpse of Tomorrow
+3 Windswept Heath
+1 Griselbrand
 1 Fires of Invention
 2 Raugrin Triome
-2 Griselbrand
 1 Plains
 3 Verdant Catacombs
 4 Verdant Catacombs
@@ -174,7 +174,6 @@
 1 Tarmogoyf
 2 Tarmogoyf
 3 Tarmogoyf
-3 Windswept Heath
 4 Windswept Heath
 1 Snow-Covered Plains
 4 Growth Spiral
@@ -184,6 +183,7 @@
 2 Nicol Bolas, Planeswalker
 3 Ugin, the Spirit Dragon
 4 Ugin, the Spirit Dragon
+2 Griselbrand
 1 Search for Tomorrow
 2 Search for Tomorrow
 1 Cascade Bluffs
@@ -195,13 +195,15 @@
 2 Wild Nacatl
 3 Wild Nacatl
 1 Overgrown Tomb
-2 Island
-3 Griselbrand
-4 Griselbrand
 1 Cindervines
 1 Celestial Colonnade
 1 Beast Within
 1 Rift Sower
+2 Island
+1 Scorching Dragonfire
+1 Temur Battle Rage
+2 Scorching Dragonfire
+2 Temur Battle Rage
 2 Jace, the Mind Sculptor
 1 Botanical Sanctum
 2 Botanical Sanctum
@@ -235,19 +237,22 @@
 4 Fury
 4 Wild Nacatl
 4 Ragavan, Nimble Pilferer
+3 Griselbrand
+4 Griselbrand
 3 Kozilek, Butcher of Truth
 4 Kozilek, Butcher of Truth
+1 Swamp
+1 Opt
+2 Swamp
+2 Opt
+3 Swamp
+3 Opt
+4 Swamp
+4 Opt
 1 Snapcaster Mage
 2 Snapcaster Mage
 3 Snapcaster Mage
 4 Snapcaster Mage
-1 Ashen Rider
-1 Grief
-1 Serra's Emissary
-2 Grief
-2 Ashen Rider
-3 Ashen Rider
-4 Ashen Rider
 1 Explore
 1 Tamiyo, Collector of Tales
 2 Chandra, Torch of Defiance
@@ -259,11 +264,3 @@
 3 Fires of Invention
 4 Fires of Invention
 4 Explore
-1 Swamp
-1 Opt
-2 Swamp
-2 Opt
-3 Swamp
-3 Opt
-4 Swamp
-4 Opt

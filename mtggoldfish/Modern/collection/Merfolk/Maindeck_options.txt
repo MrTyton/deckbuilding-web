@@ -32,12 +32,12 @@
 6 Snow-Covered Island
 3 Merfolk Mistbinder
 4 Merfolk Mistbinder
+1 Seachrome Coast
 1 Unsettled Mariner
 1 Wanderwine Hub
-1 Seachrome Coast
+2 Seachrome Coast
 2 Wanderwine Hub
 2 Unsettled Mariner
-2 Seachrome Coast
 3 Seachrome Coast
 3 Wanderwine Hub
 3 Unsettled Mariner
@@ -76,10 +76,10 @@
 2 Phantasmal Image
 1 Brazen Borrower
 2 Fiery Islet
-1 Spell Pierce
-2 Spell Pierce
 1 Hallowed Fountain
 2 Hallowed Fountain
+1 Spell Pierce
+2 Spell Pierce
 1 Disrupting Shoal
 2 Disrupting Shoal
 1 Tidebinder Mage
@@ -88,21 +88,21 @@
 1 Mountain
 1 Swamp
 1 Misty Rainforest
-2 Swamp
 2 Mountain
+2 Swamp
 3 Swamp
 3 Mountain
 4 Swamp
 4 Mountain
 3 Repeal
 4 Repeal
-4 Waterlogged Grove
 1 Underground River
 2 Underground River
 3 Phantasmal Image
 3 Underground River
-4 Underground River
 4 Darkslick Shores
+4 Underground River
+4 Waterlogged Grove
 1 Rishadan Dockhand
 2 Rishadan Dockhand
 3 Suspend

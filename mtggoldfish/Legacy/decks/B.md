@@ -1,7 +1,7 @@
 # B
 
 #### [Export MTGO List](../collection/B/B.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Asylum%20Visitor%0A2%09Bloodchief's%20Thirst%0A4%09Cry%20of%20Contrition%0A4%09Duress%0A3%09Fatal%20Push%0A4%09Hymn%20to%20Tourach%0A4%09Innocent%20Blood%0A4%09Shrieking%20Affliction%0A4%09Sign%20in%20Blood%0A4%09Smallpox%0A20%09Swamp%0A3%09Waste%20Not&deckside=2%09Bloodchief's%20Thirst%0A2%09Eliminate%0A1%09Faerie%20Macabre%0A4%09Ravenous%20Trap%0A2%09Relic%20of%20Progenitus%0A2%09Weathered%20Runestone%0A2%09Wrench%20Mind)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Asylum%20Visitor%0A2%09Bloodchief's%20Thirst%0A4%09Cry%20of%20Contrition%0A4%09Duress%0A3%09Fatal%20Push%0A4%09Hymn%20to%20Tourach%0A4%09Innocent%20Blood%0A4%09Shrieking%20Affliction%0A4%09Sign%20in%20Blood%0A4%09Smallpox%0A20%09Swamp%0A3%09Waste%20Not&deckside=2%09Bloodchief's%20Thirst%0A2%09Eliminate%0A1%09Extirpate%0A4%09Ravenous%20Trap%0A2%09Relic%20of%20Progenitus%0A2%09Weathered%20Runestone%0A2%09Wrench%20Mind)
 # Maindeck
 
 |                                       Creature (4)                                        |                                         Enchantment (7)                                         |                                      Instant (3)                                      |                                     Land (20)                                     |                                          Sorcery (26)                                          |
@@ -17,17 +17,18 @@
 
 # Sideboard
 
-|                                          Artifact (4)                                          |                                       Creature (1)                                        |                                       Instant (6)                                        |                                          Sorcery (4)                                           |
-|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|2 [Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|1 [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)|2 [Eliminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485420)    |2 [Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)|
-|2 [Weathered Runestone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503863)|                                                                                           |4 [Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)|2 [Wrench Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438681)        |
+|                                          Artifact (4)                                          |                                       Instant (7)                                        |                                          Sorcery (4)                                           |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|2 [Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|2 [Eliminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485420)    |2 [Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)|
+|2 [Weathered Runestone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503863)|1 [Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)    |2 [Wrench Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438681)        |
+|                                                                                                |4 [Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)|                                                                                                |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Baleful Mastery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513541)          |                    1|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)          |
+|                    1|[Baleful Mastery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513541)          |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
 |                    2|[Baleful Mastery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513541)          |                    1|[Flaying Tendrils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407580)   |
 |                    3|[Baleful Mastery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513541)          |                    2|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)          |
 |                    1|[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)            |                    2|[Flaying Tendrils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407580)   |
@@ -36,8 +37,8 @@
 |                    2|[Blackmail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83471)                 |                    1|[Infernal Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447238) |
 |                    3|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)      |                    1|[Innocent Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417477)     |
 |                    4|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)      |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |
-|                    1|[Reanimate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220576)                |                    1|[Moment of Craving](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439736)  |
-|                    1|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)         |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
+|                    1|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)         |                    1|[Moment of Craving](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439736)  |
+|                    1|[Reanimate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220576)                |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
 |                    1|[Lupine Prototype](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414504)         |                    2|[Innocent Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417477)     |
 |                    2|[Reanimate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220576)                |                    2|[Moment of Craving](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439736)  |
 |                    2|[Lupine Prototype](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414504)         |                    3|[Innocent Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417477)     |

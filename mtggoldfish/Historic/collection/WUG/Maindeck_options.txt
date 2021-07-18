@@ -4,8 +4,8 @@
 2 Righteous Valkyrie
 2 Bishop of Wings
 3 Righteous Valkyrie
-3 Bishop of Wings
 3 Resplendent Angel
+3 Bishop of Wings
 4 Bishop of Wings
 1 Collected Company
 1 Branchloft Pathway
@@ -13,12 +13,12 @@
 3 Collected Company
 4 Resplendent Angel
 4 Righteous Valkyrie
-4 Collected Company
-2 Branchloft Pathway
-1 Sunpetal Grove
 1 Soul Warden
 2 Soul Warden
 3 Soul Warden
+4 Collected Company
+2 Branchloft Pathway
+1 Sunpetal Grove
 1 Plains
 1 Youthful Valkyrie
 2 Youthful Valkyrie
@@ -26,39 +26,39 @@
 4 Youthful Valkyrie
 3 Branchloft Pathway
 4 Branchloft Pathway
+4 Soul Warden
 2 Sunpetal Grove
 2 Plains
-4 Soul Warden
 1 Speaker of the Heavens
 1 Skyclave Apparition
 2 Speaker of the Heavens
-3 Sunpetal Grove
 2 Skyclave Apparition
-3 Speaker of the Heavens
-4 Sunpetal Grove
+3 Sunpetal Grove
 3 Skyclave Apparition
+3 Speaker of the Heavens
 4 Skyclave Apparition
+4 Sunpetal Grove
 2 Commit/Memory
 3 Plains
+1 Ajani, Strength of the Pride
 4 Plains
 3 Seal Away
-1 Ajani, Strength of the Pride
 4 Speaker of the Heavens
 5 Plains
 6 Plains
 7 Plains
 8 Plains
 9 Plains
-10 Plains
 1 Glasspool Mimic
 1 Hallowed Fountain
-1 Hengegate Pathway
 1 Linvala, Shield of Sea Gate
+1 Hengegate Pathway
 2 Hallowed Fountain
-2 Linvala, Shield of Sea Gate
 2 Hengegate Pathway
+2 Linvala, Shield of Sea Gate
 3 Hallowed Fountain
 4 Hallowed Fountain
+10 Plains
 3 Linvala, Shield of Sea Gate
 2 Glasspool Mimic
 1 Castle Ardenvale
@@ -79,28 +79,25 @@
 1 Reidane, God of the Worthy
 2 Reidane, God of the Worthy
 2 Ajani, Strength of the Pride
-1 Selfless Savior
-2 Selfless Savior
-3 Selfless Savior
 1 Aether Gust
 1 Scattered Groves
-1 Relic of Progenitus
 1 Irrigated Farmland
+1 Relic of Progenitus
 2 Relic of Progenitus
 3 Snow-Covered Forest
 1 Forest
 1 Daxos, Blessed by the Sun
 2 Daxos, Blessed by the Sun
 2 Declaration in Stone
-3 Hengegate Pathway
-4 Hengegate Pathway
 1 Abundant Harvest
 2 Abundant Harvest
 3 Abundant Harvest
 4 Abundant Harvest
-4 Selfless Savior
-1 Elite Spellbinder
-2 Elite Spellbinder
+3 Hengegate Pathway
+4 Hengegate Pathway
+1 Selfless Savior
+2 Selfless Savior
+3 Selfless Savior
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
@@ -112,18 +109,17 @@
 11 Snow-Covered Plains
 1 Mystical Dispute
 3 Wrath of God
+4 Selfless Savior
 3 Relic of Progenitus
-1 Resplendent Marshal
-1 Blast Zone
 1 The Book of Exalted Deeds
 1 Emeria's Call
 2 Emeria's Call
-1 Brightclimb Pathway
 2 Forest
 3 Angel of Vitality
 4 Angel of Vitality
 12 Snow-Covered Plains
-3 Elite Spellbinder
+1 Elite Spellbinder
+2 Elite Spellbinder
 1 Ephemerate
 1 Adventurous Impulse
 2 Adventurous Impulse
@@ -131,11 +127,12 @@
 4 Adventurous Impulse
 1 Legion Angel
 1 Island
+1 Resplendent Marshal
+1 Blast Zone
 1 Dromoka's Command
 2 Dromoka's Command
 1 Teferi, Hero of Dominaria
 2 Aether Gust
-2 Blast Zone
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
@@ -155,33 +152,34 @@
 3 Adanto Vanguard
 3 Faceless Haven
 3 Cleric Class
+1 Zagoth Triome
+1 Overgrown Tomb
 1 Woodland Chasm
 1 Drowned Catacomb
 1 Snow-Covered Swamp
 1 Doom Blade
+1 Thoughtseize
 1 Languish
 1 Extinction Event
-1 Thoughtseize
-1 Overgrown Tomb
-1 Zagoth Triome
+2 Zagoth Triome
 2 Overgrown Tomb
-2 Extinction Event
 2 Snow-Covered Swamp
+2 Extinction Event
 2 Doom Blade
 2 Thoughtseize
-2 Zagoth Triome
 2 Drowned Catacomb
 3 Overgrown Tomb
 3 Drowned Catacomb
 4 Overgrown Tomb
-1 Godless Shrine
 1 Vito, Thorn of the Dusk Rose
+1 Godless Shrine
 1 Isolated Chapel
+1 Brightclimb Pathway
 2 Vito, Thorn of the Dusk Rose
 2 Brightclimb Pathway
 2 Isolated Chapel
-3 Vito, Thorn of the Dusk Rose
 3 Brightclimb Pathway
+3 Vito, Thorn of the Dusk Rose
 4 Brightclimb Pathway
 1 Trelasarra, Moon Dancer
 1 Mana Tithe
@@ -191,10 +189,6 @@
 2 Rest in Peace
 3 Mana Tithe
 4 Mana Tithe
-1 Remorseful Cleric
-2 Remorseful Cleric
-3 Remorseful Cleric
-4 Remorseful Cleric
 1 Sacred Foundry
 1 Cragcrown Pathway
 1 Needleverge Pathway
@@ -202,24 +196,29 @@
 1 Skyclave Cleric
 1 Lightning Helix
 1 Clifftop Retreat
-2 Cragcrown Pathway
-2 Sacred Foundry
-2 Needleverge Pathway
-2 Showdown of the Skalds
 2 Clifftop Retreat
+2 Sacred Foundry
+2 Cragcrown Pathway
+2 Showdown of the Skalds
+2 Needleverge Pathway
 2 Lightning Helix
 2 Skyclave Cleric
-3 Cragcrown Pathway
 3 Sacred Foundry
+3 Cragcrown Pathway
 3 Needleverge Pathway
-3 Skyclave Cleric
+3 Elite Spellbinder
 3 Lightning Helix
-4 Sacred Foundry
+3 Skyclave Cleric
 4 Lightning Helix
+4 Sacred Foundry
 4 Needleverge Pathway
-4 Skyclave Cleric
-4 Elite Spellbinder
 4 Cragcrown Pathway
+4 Elite Spellbinder
+4 Skyclave Cleric
+1 Remorseful Cleric
+2 Remorseful Cleric
+3 Remorseful Cleric
+4 Remorseful Cleric
 1 Swan Song
 2 Swan Song
 4 Linvala, Shield of Sea Gate

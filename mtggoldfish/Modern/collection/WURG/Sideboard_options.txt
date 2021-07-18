@@ -15,12 +15,6 @@
 3 Foundation Breaker
 1 Nahiri, the Harbinger
 3 Cleansing Wildfire
-1 Fury
-2 Fury
-3 Leyline of the Void
-4 Leyline of the Void
-3 Fury
-1 Force of Vigor
 1 Rest in Peace
 2 Rest in Peace
 1 Path to Exile
@@ -28,18 +22,24 @@
 3 Path to Exile
 1 Gaddock Teeg
 2 Gaddock Teeg
-1 Jegantha, the Wellspring
-2 Force of Vigor
 1 Cindervines
+1 Jegantha, the Wellspring
+1 Fury
+2 Fury
+3 Leyline of the Void
+4 Leyline of the Void
+3 Fury
+1 Force of Vigor
 4 Path to Exile
 1 Shatterstorm
+2 Force of Vigor
+2 Cindervines
+1 Lightning Helix
+1 Vindicate
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 3 Leyline of Sanctity
-1 Lightning Helix
-1 Vindicate
 2 Lightning Helix
-2 Cindervines
 4 Foundation Breaker
 1 Void Winnower
 1 Agent of Treachery
@@ -50,8 +50,8 @@
 2 Teferi, Time Raveler
 1 Flusterstorm
 2 Flusterstorm
-1 Assassin's Trophy
 1 Meddling Mage
+1 Assassin's Trophy
 2 Meddling Mage
 3 Meddling Mage
 4 Fury
@@ -72,27 +72,26 @@
 2 Celestial Purge
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-1 Brazen Borrower
-2 Brazen Borrower
-3 Endurance
 2 Ingot Chewer
-1 Ricochet Trap
+3 Endurance
+1 Lavinia, Azorius Renegade
+1 Chalice of the Void
+2 Chalice of the Void
 2 Prismatic Ending
 3 Prismatic Ending
 3 Gaddock Teeg
 3 Rest in Peace
 1 Cursed Totem
-1 Chalice of the Void
 2 Cursed Totem
-2 Chalice of the Void
 3 Cursed Totem
 3 Chalice of the Void
 4 Chalice of the Void
 1 Shattering Spree
 1 Shark Typhoon
 2 Shark Typhoon
-1 Lavinia, Azorius Renegade
 2 Lavinia, Azorius Renegade
+1 Brazen Borrower
+2 Brazen Borrower
 3 Flusterstorm
 4 Leyline of Sanctity
 1 Platinum Emperion
@@ -104,13 +103,16 @@
 1 Kataki, War's Wage
 2 Collector Ouphe
 2 Kataki, War's Wage
+4 Meddling Mage
 1 Reclamation Sage
 2 Reclamation Sage
-4 Meddling Mage
 2 Nahiri, the Harbinger
-3 Brazen Borrower
+1 Ricochet Trap
 1 Relic of Progenitus
 2 Relic of Progenitus
+1 Soul-Guide Lantern
+3 Cindervines
+1 Tormod's Crypt
 1 Chandra, Torch of Defiance
 1 Snow-Covered Plains
 1 Grafdigger's Cage
@@ -147,11 +149,12 @@
 1 Torpor Orb
 1 Deafening Silence
 1 Sanctifier en-Vec
-1 Kor Firewalker
 1 Knight of Autumn
+1 Kor Firewalker
 2 Kor Firewalker
 2 Sanctifier en-Vec
 2 Knight of Autumn
+3 Brazen Borrower
 1 Weather the Storm
 2 Weather the Storm
 3 Weather the Storm
@@ -168,16 +171,10 @@
 2 Stubborn Denial
 3 Stubborn Denial
 4 Stubborn Denial
-1 As Foretold
-1 Grief
-2 Grief
-4 Brazen Borrower
-1 Soul-Guide Lantern
 1 Tidehollow Sculler
 2 Tidehollow Sculler
 2 Soul-Guide Lantern
 3 Tidehollow Sculler
-3 Cindervines
 4 Tidehollow Sculler
 4 Force of Vigor
 3 Reclamation Sage
