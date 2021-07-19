@@ -6,9 +6,8 @@
 2 Gemstone Mine
 2 Mana Confluence
 2 Stifle
-3 Mana Confluence
 3 Gemstone Mine
-4 Mana Confluence
+3 Mana Confluence
 4 Gemstone Mine
 1 Nurturing Peatland
 2 Elvish Reclaimer
@@ -20,8 +19,9 @@
 2 Dark Confidant
 3 Dark Confidant
 4 Not of This World
-1 Swamp
+4 Mana Confluence
 1 Forest
+1 Swamp
 3 Abrupt Decay
 1 Mox Diamond
 2 Mox Diamond
@@ -56,26 +56,27 @@
 1 Dryad Arbor
 1 Satyr Wayfinder
 1 Hogaak, Arisen Necropolis
-2 Cabal Therapy
 2 Stitcher's Supplier
 2 Hogaak, Arisen Necropolis
 2 Satyr Wayfinder
-3 Cabal Therapy
+2 Cabal Therapy
 3 Stitcher's Supplier
 3 Hogaak, Arisen Necropolis
 3 Satyr Wayfinder
-4 Cabal Therapy
+3 Cabal Therapy
 4 Stitcher's Supplier
+4 Cabal Therapy
 4 Hogaak, Arisen Necropolis
 4 Duress
 1 Eliminate
 1 Ancient Tomb
 1 Plague Engineer
-1 Toxic Deluge
 1 Marsh Flats
+1 Toxic Deluge
 1 Liliana, the Last Hope
 1 Chrome Mox
 1 Vindicate
+1 Polluted Delta
 1 Chalice of the Void
 1 Liliana's Triumph
 1 Wishclaw Talisman
@@ -83,25 +84,24 @@
 1 Scrubland
 1 Cabal Ritual
 1 Dark Ritual
-1 Polluted Delta
 1 Karn, the Great Creator
 1 Liliana of the Veil
 1 Castle Locthwain
-2 Chrome Mox
 2 Eliminate
+2 Polluted Delta
 2 Trinisphere
 2 Plague Engineer
 2 Snow-Covered Swamp
+2 Chrome Mox
 2 Vindicate
 2 Chalice of the Void
 2 Karn, the Great Creator
 2 Dark Ritual
 2 Wishclaw Talisman
-2 Polluted Delta
 3 Chalice of the Void
-3 Chrome Mox
 3 Polluted Delta
 3 Snow-Covered Swamp
+3 Chrome Mox
 3 Karn, the Great Creator
 3 Dark Ritual
 4 Chalice of the Void
@@ -117,8 +117,6 @@
 2 Abundant Harvest
 3 Abundant Harvest
 4 Abundant Harvest
-3 Stifle
-4 Stifle
 1 Thought-Knot Seer
 2 Ancient Tomb
 2 Thought-Knot Seer
@@ -127,9 +125,12 @@
 3 Thought-Knot Seer
 3 Trinisphere
 4 Thought-Knot Seer
+3 Stifle
+4 Stifle
 1 Court of Ambition
 1 Gurmag Angler
 1 Lake of the Dead
 2 Gurmag Angler
-5 Snow-Covered Swamp
 2 Court of Ambition
+5 Snow-Covered Swamp
+2 City of Brass

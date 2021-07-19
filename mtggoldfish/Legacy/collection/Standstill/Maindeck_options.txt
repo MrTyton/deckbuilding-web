@@ -1,38 +1,33 @@
 1 Snow-Covered Plains
-1 Snow-Covered Island
+1 Island
 1 Arid Mesa
 2 Arid Mesa
-1 Island
-3 Standstill
+1 Snow-Covered Island
 3 Flooded Strand
+3 Standstill
 4 Standstill
-1 Prismatic Vista
 4 Flooded Strand
-1 Shark Typhoon
-2 Prismatic Ending
 2 Force of Negation
+2 Prismatic Ending
 1 Plains
 1 Jace, the Mind Sculptor
-2 Jace, the Mind Sculptor
-2 Shark Typhoon
+1 Prismatic Vista
 2 Island
+1 Shark Typhoon
+2 Jace, the Mind Sculptor
+2 Misty Rainforest
+2 Shark Typhoon
 3 Island
 4 Island
 1 Hall of Heliod's Generosity
-2 Misty Rainforest
-1 Narset, Parter of Veils
-1 Teferi, Time Raveler
-2 Plains
-3 Shark Typhoon
 1 Cursed Scroll
-2 Prismatic Vista
-1 Supreme Verdict
-2 Supreme Verdict
-1 Timeless Dragon
-2 Timeless Dragon
-3 Timeless Dragon
-4 Stifle
 3 Polluted Delta
+4 Stifle
+3 Prismatic Ending
+3 Force of Negation
+1 Terminus
+2 Terminus
+1 Hullbreacher
 2 Snow-Covered Plains
 1 Fblthp, the Lost
 1 Marsh Flats
@@ -50,8 +45,8 @@
 1 Recruiter of the Guard
 1 Peacekeeper
 2 Marsh Flats
-2 Windswept Heath
 2 Brought Back
+2 Windswept Heath
 2 Solitude
 2 Karakas
 2 Meddling Mage
@@ -67,77 +62,65 @@
 3 Weathered Wayfarer
 3 Aether Vial
 4 Solitude
+4 Recruiter of the Guard
 4 Aether Vial
 4 Weathered Wayfarer
 4 Meddling Mage
 4 Tundra
-4 Recruiter of the Guard
-2 Teferi, Time Raveler
-5 Island
-1 Terminus
-2 Terminus
-1 Spell Pierce
-3 Prismatic Ending
-2 Snow-Covered Island
-1 Hullbreacher
-1 Savannah
+1 Narset, Parter of Veils
+1 Teferi, Time Raveler
+2 Plains
+3 Shark Typhoon
+1 Timeless Dragon
+2 Timeless Dragon
+3 Timeless Dragon
+1 Supreme Verdict
+2 Supreme Verdict
 1 Uro, Titan of Nature's Wrath
 1 Tropical Island
-1 Snow-Covered Forest
 2 Uro, Titan of Nature's Wrath
 3 Misty Rainforest
 3 Scalding Tarn
-1 Sylvan Library
-1 Endurance
-1 Batterskull
-1 Ice-Fang Coatl
-1 Stoneforge Mystic
-2 Tropical Island
-2 Endurance
-2 Stoneforge Mystic
-2 Ice-Fang Coatl
-2 Snow-Covered Forest
-3 Stoneforge Mystic
-3 Ice-Fang Coatl
-4 Misty Rainforest
-3 Force of Negation
+2 Prismatic Vista
 3 Prismatic Vista
 4 Prismatic Vista
 1 Mystic Sanctuary
-1 Counterspell
-1 Snapcaster Mage
-4 Shark Typhoon
-1 Aether Spellbomb
-4 Prismatic Ending
+2 Teferi, Time Raveler
+5 Island
+1 Spell Pierce
+2 Tropical Island
+4 Misty Rainforest
+2 Snow-Covered Island
+1 Life from the Loam
+1 Forest
 3 Uro, Titan of Nature's Wrath
+4 Prismatic Ending
+1 Aether Spellbomb
+1 Savannah
+1 Snow-Covered Forest
 1 Knight of the White Orchid
 2 Knight of the White Orchid
 1 Charming Prince
 1 Niambi, Esteemed Speaker
 4 Brought Back
-1 Kaldra Compleat
 1 Phyrexian Dreadnought
 1 Expressive Iteration
 2 Expressive Iteration
-1 Dovin's Veto
 1 Crucible of Worlds
+1 Dovin's Veto
 1 Moat
 2 Narset, Parter of Veils
-1 Umezawa's Jitte
-1 Engineered Explosives
-2 Engineered Explosives
 2 Retrofitter Foundry
 3 Murktide Regent
+1 Counterspell
 3 Snow-Covered Island
 3 Terminus
 1 Relic of Progenitus
 4 Scalding Tarn
 1 Tranquil Thicket
-1 Life from the Loam
 1 Karn, the Great Creator
 1 Academy Ruins
 1 Expedition Map
-1 Forest
 1 Mox Diamond
 1 Field of the Dead
 1 Ancient Tomb
@@ -150,21 +133,26 @@
 3 Life from the Loam
 3 Karn, the Great Creator
 4 Wasteland
-4 Uro, Titan of Nature's Wrath
 4 Mox Diamond
+4 Uro, Titan of Nature's Wrath
 1 Back to Basics
 1 Council's Judgment
 1 Luminarch Ascension
+1 Snapcaster Mage
 2 Back to Basics
 3 Plains
 3 Supreme Verdict
 4 Plains
-1 Mishra's Factory
-1 Prairie Stream
-1 Ominous Seas
-1 Hallowed Fountain
-2 Snapcaster Mage
-2 Counterspell
-2 Mishra's Factory
-2 Ominous Seas
-3 Ominous Seas
+4 Shark Typhoon
+1 Sylvan Library
+1 Kaldra Compleat
+1 Endurance
+1 Batterskull
+1 Ice-Fang Coatl
+1 Stoneforge Mystic
+2 Endurance
+2 Stoneforge Mystic
+2 Ice-Fang Coatl
+2 Snow-Covered Forest
+3 Stoneforge Mystic
+3 Ice-Fang Coatl

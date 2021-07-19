@@ -1,52 +1,48 @@
 2 Setessan Champion
-1 Elephant Grass
-2 Elephant Grass
 1 Abundant Growth
 2 Abundant Growth
-3 Elephant Grass
+1 Elephant Grass
+2 Elephant Grass
 1 Bayou
 3 Abundant Growth
+3 Elephant Grass
+3 Sterling Grove
+4 Abundant Growth
 1 Forest
 2 Forest
 3 Forest
 4 Forest
-5 Forest
-4 Abundant Growth
-3 Sterling Grove
-6 Forest
 3 Setessan Champion
+5 Forest
+4 On Thin Ice
+6 Snow-Covered Forest
 1 Doomwake Giant
+6 Forest
 4 Setessan Champion
 3 Cavern of Souls
-1 Wooded Foothills
 2 Carpet of Flowers
 1 Tropical Island
 7 Forest
-6 Snow-Covered Forest
+7 Snow-Covered Forest
 1 Estrid's Invocation
 2 Estrid's Invocation
 1 Ground Seal
 2 Ground Seal
-1 Verdant Catacombs
+1 Wooded Foothills
 2 Wooded Foothills
-1 Misty Rainforest
-4 On Thin Ice
 3 Green Sun's Zenith
 1 Abrupt Decay
 2 Abrupt Decay
 2 Mirri's Guile
 4 Elephant Grass
-7 Snow-Covered Forest
+1 Verdant Catacombs
+1 Misty Rainforest
 2 Verdant Catacombs
-1 Exploration
 8 Forest
 3 Abrupt Decay
-2 Misty Rainforest
-1 Plains
-1 Binding the Old Gods
 1 Cast Out
-2 Savannah
-1 Emrakul, the Aeons Torn
+2 Misty Rainforest
+1 Exploration
 2 Cast Out
 1 Sythis, Harvest's Hand
 2 Sythis, Harvest's Hand
@@ -55,9 +51,13 @@
 2 Living Wish
 3 Living Wish
 4 Living Wish
+1 Binding the Old Gods
+1 Emrakul, the Aeons Torn
+1 Plains
 1 Hall of Heliod's Generosity
 1 Swamp
 3 Verdant Catacombs
+2 Savannah
 3 Misty Rainforest
 1 Snow-Covered Island
 1 Shark Typhoon
@@ -113,19 +113,18 @@
 1 Arcum's Astrolabe
 1 The Royal Scions
 1 Snow-Covered Mountain
+1 Omen of the Sun
 1 Bitterblossom
 1 Trail of Crumbs
 1 Detention Sphere
 1 Brazen Borrower
 1 Arcane Laboratory
 1 Omen of the Forge
-1 Omen of the Sun
 1 Happily Ever After
 2 Arcum's Astrolabe
 2 Trail of Crumbs
 3 Arcum's Astrolabe
 1 Oath of Nissa
-1 Enlightened Tutor
 1 Abundance
 1 Candelabra of Tawnos
 1 Elvish Spirit Guide
@@ -153,42 +152,47 @@
 3 Leyline of the Void
 4 Karn, the Great Creator
 4 Leyline of the Void
-1 Ancient Tomb
-9 Forest
-1 Life from the Loam
-1 Field of the Dead
-1 Bojuka Bog
 1 The Tabernacle at Pendrell Vale
+1 Bojuka Bog
 1 Wasteland
+1 Field of the Dead
 1 Rishadan Port
 1 Dark Depths
 1 Valakut Exploration
 1 Thespian's Stage
+1 Life from the Loam
 1 Mox Diamond
 1 Crop Rotation
 1 Maze of Ith
 2 Taiga
 2 Wasteland
-2 Life from the Loam
-2 Exploration
 2 Maze of Ith
 2 Thespian's Stage
 2 Crop Rotation
 2 Dark Depths
+2 Exploration
+2 Life from the Loam
 2 Valakut Exploration
 2 Mox Diamond
 2 Rishadan Port
 3 Wasteland
-3 Life from the Loam
 3 Thespian's Stage
 3 Mirri's Guile
 3 Crop Rotation
 3 Rishadan Port
 3 Valakut Exploration
+3 Life from the Loam
 3 Mox Diamond
 3 Exploration
 4 Valakut Exploration
 4 Wasteland
+4 Exploration
 4 Mox Diamond
 4 Thespian's Stage
-4 Exploration
+1 Ancient Tomb
+9 Forest
+1 Paladin Class
+2 Paladin Class
+3 Paladin Class
+4 Paladin Class
+4 Sythis, Harvest's Hand

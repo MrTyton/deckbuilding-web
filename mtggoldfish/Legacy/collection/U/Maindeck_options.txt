@@ -1,9 +1,17 @@
+1 Cavern of Souls
+2 Cavern of Souls
+3 Cavern of Souls
+4 Cavern of Souls
+4 Ethersworn Canonist
 3 Nettlecyst
 4 Nettlecyst
 3 Ancient Den
 4 Ancient Den
-1 Cavern of Souls
+1 Karn, the Great Creator
+2 Karn, the Great Creator
+3 Karn, the Great Creator
 3 Thoughtcast
+4 Emry, Lurker of the Loch
 4 Walking Ballista
 1 Stonecoil Serpent
 2 Stonecoil Serpent
@@ -11,36 +19,29 @@
 2 Arcbound Ravager
 3 Arcbound Ravager
 4 Arcbound Ravager
-4 Ethersworn Canonist
-2 Cavern of Souls
-3 Cavern of Souls
-4 Cavern of Souls
-4 Emry, Lurker of the Loch
-3 Stonecoil Serpent
-1 Karn, the Great Creator
-2 Karn, the Great Creator
-3 Karn, the Great Creator
-4 Mishra's Bauble
 1 City of Traitors
 1 Shadowspear
 4 Karn, the Great Creator
-1 Ornithopter
 1 Tundra
+3 Stonecoil Serpent
 1 Crucible of Worlds
-1 Urza's Bauble
 1 Force of Will
 2 Force of Will
 3 Force of Will
 4 Force of Will
 2 Tundra
+4 Mishra's Bauble
+1 Pithing Needle
+1 Expedition Map
+1 Ornithopter
+1 Wasteland
+1 Urza's Bauble
 2 Ornithopter
 3 Ornithopter
 4 Ornithopter
 1 Springleaf Drum
 2 Springleaf Drum
 3 Springleaf Drum
-1 Pithing Needle
-1 Expedition Map
 4 Thoughtcast
 1 Vault Skirge
 2 Vault Skirge
@@ -48,7 +49,6 @@
 4 Stonecoil Serpent
 3 Island
 4 Island
-1 Wasteland
 2 Wasteland
 4 Springleaf Drum
 1 Cranial Plating
@@ -57,12 +57,15 @@
 2 Darksteel Citadel
 2 Urza's Bauble
 1 Hullbreacher
+1 Trinket Mage
 1 Welding Jar
 3 Darksteel Citadel
 4 Darksteel Citadel
 1 Plains
 2 Hullbreacher
-1 Trinket Mage
+2 Crucible of Worlds
+2 Retrofitter Foundry
+3 Tundra
 2 Plains
 3 Plains
 1 Master of Etherium
@@ -71,18 +74,16 @@
 2 Force of Negation
 5 Island
 6 Island
-2 Crucible of Worlds
 2 Welding Jar
-1 Brazen Borrower
+4 Tundra
 1 Relic of Progenitus
 1 Flusterstorm
+1 Brazen Borrower
 2 Brazen Borrower
 7 Island
 3 Urza's Bauble
-2 Retrofitter Foundry
-1 Zabaz, the Glimmerwasp
 1 Aether Spellbomb
-3 Tundra
+1 Zabaz, the Glimmerwasp
 3 Master of Etherium
 1 Phyrexian Walker
 4 Urza's Bauble
@@ -92,8 +93,13 @@
 2 Cranial Plating
 3 Cranial Plating
 4 Cranial Plating
-4 Tundra
 2 Phyrexian Walker
+1 Snow-Covered Plains
+1 Portable Hole
+2 Trinket Mage
+2 Portable Hole
+2 Pithing Needle
+3 Trinket Mage
 1 Flooded Strand
 2 Flooded Strand
 3 Flooded Strand
@@ -111,19 +117,19 @@
 2 Zabaz, the Glimmerwasp
 1 Lightning Greaves
 2 Lightning Greaves
-3 Retrofitter Foundry
 2 City of Traitors
 3 Sai, Master Thopterist
+3 Retrofitter Foundry
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
 3 Wasteland
 4 Wasteland
-1 Great Furnace
 1 Galvanic Blast
-2 Great Furnace
+1 Great Furnace
 2 Galvanic Blast
+2 Great Furnace
 3 Great Furnace
 3 Galvanic Blast
 4 Great Furnace
@@ -135,14 +141,14 @@
 3 Mishra's Factory
 3 Mox Diamond
 4 Mishra's Factory
+1 Sword of the Meek
 1 Stoneforge Mystic
 1 Batterskull
-1 Sword of the Meek
-1 Umezawa's Jitte
 1 Meekstone
 1 Thopter Foundry
-2 Stoneforge Mystic
+1 Umezawa's Jitte
 2 Thopter Foundry
+2 Stoneforge Mystic
 3 Stoneforge Mystic
 3 Thopter Foundry
 4 Stoneforge Mystic
@@ -173,10 +179,10 @@
 3 Frogmite
 3 Tree of Tales
 3 Shield Sphere
-4 Tree of Tales
 4 Phyrexian Walker
 4 Shield Sphere
 4 Memnite
 4 Frogmite
+4 Tree of Tales
 4 Glimpse of Nature
 4 Sojourner's Companion

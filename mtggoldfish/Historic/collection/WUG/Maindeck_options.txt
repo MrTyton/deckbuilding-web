@@ -1,7 +1,7 @@
-1 Righteous Valkyrie
+1 Resplendent Angel
 1 Bishop of Wings
-2 Resplendent Angel
 2 Righteous Valkyrie
+2 Resplendent Angel
 2 Bishop of Wings
 3 Righteous Valkyrie
 3 Resplendent Angel
@@ -50,11 +50,11 @@
 8 Plains
 9 Plains
 1 Glasspool Mimic
+1 Hengegate Pathway
 1 Hallowed Fountain
 1 Linvala, Shield of Sea Gate
-1 Hengegate Pathway
-2 Hallowed Fountain
 2 Hengegate Pathway
+2 Hallowed Fountain
 2 Linvala, Shield of Sea Gate
 3 Hallowed Fountain
 4 Hallowed Fountain
@@ -80,9 +80,9 @@
 2 Reidane, God of the Worthy
 2 Ajani, Strength of the Pride
 1 Aether Gust
+1 Relic of Progenitus
 1 Scattered Groves
 1 Irrigated Farmland
-1 Relic of Progenitus
 2 Relic of Progenitus
 3 Snow-Covered Forest
 1 Forest
@@ -126,9 +126,9 @@
 3 Adventurous Impulse
 4 Adventurous Impulse
 1 Legion Angel
+1 Blast Zone
 1 Island
 1 Resplendent Marshal
-1 Blast Zone
 1 Dromoka's Command
 2 Dromoka's Command
 1 Teferi, Hero of Dominaria
@@ -137,9 +137,9 @@
 2 Arboreal Grazer
 3 Arboreal Grazer
 3 Declaration in Stone
+1 Radiant Fountain
 1 Blossoming Sands
 1 Ajani's Pridemate
-1 Radiant Fountain
 2 Radiant Fountain
 2 Blossoming Sands
 2 Ajani's Pridemate
@@ -152,35 +152,35 @@
 3 Adanto Vanguard
 3 Faceless Haven
 3 Cleric Class
-1 Zagoth Triome
-1 Overgrown Tomb
-1 Woodland Chasm
-1 Drowned Catacomb
-1 Snow-Covered Swamp
-1 Doom Blade
-1 Thoughtseize
-1 Languish
-1 Extinction Event
-2 Zagoth Triome
-2 Overgrown Tomb
-2 Snow-Covered Swamp
-2 Extinction Event
-2 Doom Blade
-2 Thoughtseize
-2 Drowned Catacomb
-3 Overgrown Tomb
-3 Drowned Catacomb
-4 Overgrown Tomb
 1 Vito, Thorn of the Dusk Rose
-1 Godless Shrine
 1 Isolated Chapel
 1 Brightclimb Pathway
+1 Godless Shrine
 2 Vito, Thorn of the Dusk Rose
-2 Brightclimb Pathway
 2 Isolated Chapel
+2 Brightclimb Pathway
 3 Brightclimb Pathway
 3 Vito, Thorn of the Dusk Rose
 4 Brightclimb Pathway
+1 Woodland Chasm
+1 Snow-Covered Swamp
+1 Drowned Catacomb
+1 Languish
+1 Extinction Event
+1 Thoughtseize
+1 Doom Blade
+1 Overgrown Tomb
+1 Zagoth Triome
+2 Snow-Covered Swamp
+2 Drowned Catacomb
+2 Doom Blade
+2 Thoughtseize
+2 Extinction Event
+2 Zagoth Triome
+2 Overgrown Tomb
+3 Drowned Catacomb
+3 Overgrown Tomb
+4 Overgrown Tomb
 1 Trelasarra, Moon Dancer
 1 Mana Tithe
 1 Rest in Peace
@@ -189,30 +189,30 @@
 2 Rest in Peace
 3 Mana Tithe
 4 Mana Tithe
-1 Sacred Foundry
 1 Cragcrown Pathway
-1 Needleverge Pathway
 1 Showdown of the Skalds
+1 Needleverge Pathway
 1 Skyclave Cleric
 1 Lightning Helix
+1 Sacred Foundry
 1 Clifftop Retreat
-2 Clifftop Retreat
-2 Sacred Foundry
 2 Cragcrown Pathway
 2 Showdown of the Skalds
 2 Needleverge Pathway
+2 Clifftop Retreat
+2 Sacred Foundry
 2 Lightning Helix
 2 Skyclave Cleric
-3 Sacred Foundry
 3 Cragcrown Pathway
 3 Needleverge Pathway
+3 Sacred Foundry
 3 Elite Spellbinder
 3 Lightning Helix
 3 Skyclave Cleric
-4 Lightning Helix
-4 Sacred Foundry
-4 Needleverge Pathway
 4 Cragcrown Pathway
+4 Lightning Helix
+4 Needleverge Pathway
+4 Sacred Foundry
 4 Elite Spellbinder
 4 Skyclave Cleric
 1 Remorseful Cleric
@@ -230,11 +230,11 @@
 6 Forest
 7 Forest
 11 Plains
-1 Banishing Light
 1 Crawling Barrens
+1 Banishing Light
 2 Banishing Light
-3 Banishing Light
 3 Baffling End
+3 Banishing Light
 4 Baffling End
 4 Banishing Light
 13 Snow-Covered Plains
