@@ -36,7 +36,7 @@
 
 |*n*<sup>th</sup> copy|                                    Maindeck Card                                    |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|-------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Memory Lapse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3924)|                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
-|                    2|[Memory Lapse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3924)|                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
-|                    3|[Memory Lapse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3924)|                     |                                                                                           |
+|                    2|[Memory Lapse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3924)|                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
+|                    3|[Memory Lapse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3924)|                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
+|                    1|[Memory Lapse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3924)|                     |                                                                                           |
 

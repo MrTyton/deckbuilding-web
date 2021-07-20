@@ -1,12 +1,14 @@
+3 Chandra, Torch of Defiance
 1 Monastery Swiftspear
 2 Monastery Swiftspear
 3 Monastery Swiftspear
-3 Chandra, Torch of Defiance
 4 Monastery Swiftspear
 1 Hazoret the Fervent
+1 Den of the Bugbear
+2 Den of the Bugbear
+3 Den of the Bugbear
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
-3 Goblin Rabblemaster
 1 Wizard's Lightning
 1 Ghitu Lavarunner
 1 Light Up the Stage
@@ -21,7 +23,8 @@
 4 Wizard's Lightning
 1 Zurgo Bellstriker
 2 Zurgo Bellstriker
-1 Shatterskull Smashing
+4 Den of the Bugbear
+3 Goblin Rabblemaster
 1 Spikefield Hazard
 1 Battlefield Forge
 1 Boros Charm
@@ -39,13 +42,16 @@
 4 Inspiring Vantage
 1 Viashino Pyromancer
 2 Viashino Pyromancer
-1 Den of the Bugbear
-2 Den of the Bugbear
-3 Den of the Bugbear
 1 Glorybringer
 2 Glorybringer
 3 Glorybringer
+4 Torbran, Thane of Red Fell
+1 Shock
+2 Shock
+3 Shock
+4 Shock
 1 Bomat Courier
+1 Shatterskull Smashing
 1 Risk Factor
 2 Spikefield Hazard
 2 Bomat Courier
@@ -57,15 +63,9 @@
 4 Bomat Courier
 3 Battlefield Forge
 4 Battlefield Forge
-1 Burning-Tree Emissary
-2 Burning-Tree Emissary
-3 Burning-Tree Emissary
-4 Burning-Tree Emissary
-1 Mutavault
-4 Goblin Rabblemaster
+1 Needleverge Pathway
 1 Snow-Covered Mountain
 1 Chained to the Rocks
-1 Needleverge Pathway
 1 Showdown of the Skalds
 2 Snow-Covered Mountain
 2 Chained to the Rocks
@@ -80,7 +80,5 @@
 7 Snow-Covered Mountain
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
-1 Shock
-2 Shock
-3 Shock
-4 Shock
+1 Mutavault
+4 Goblin Rabblemaster

@@ -1,24 +1,43 @@
-3 Bonecrusher Giant
-1 Chandra, Acolyte of Flame
+3 Rampaging Ferocidon
 4 Rampaging Ferocidon
-1 Chandra, Torch of Defiance
-1 Kari Zev, Skyship Raider
+3 Bonecrusher Giant
 1 Pillar of Flame
-2 Pillar of Flame
+1 Chandra, Torch of Defiance
 1 Mountain
+2 Pillar of Flame
 2 Mountain
-2 Faceless Haven
-3 Mountain
-3 Ghitu Lavarunner
-2 Kari Zev, Skyship Raider
-4 Mountain
-1 Grim Lavamancer
-5 Mountain
-6 Mountain
 1 Skewer the Critics
 2 Skewer the Critics
 3 Skewer the Critics
+3 Ghitu Lavarunner
+1 Kari Zev, Skyship Raider
+3 Mountain
+2 Faceless Haven
+1 Grim Lavamancer
+1 Sacred Foundry
+1 Lightning Helix
+2 Sacred Foundry
+2 Lightning Helix
+3 Sacred Foundry
+4 Sacred Foundry
+2 Kari Zev, Skyship Raider
+1 Needleverge Pathway
+2 Needleverge Pathway
+3 Needleverge Pathway
+4 Needleverge Pathway
+4 Ghitu Lavarunner
+4 Skewer the Critics
+1 Inspiring Vantage
+2 Inspiring Vantage
+3 Inspiring Vantage
+4 Inspiring Vantage
+4 Mountain
+3 Lightning Helix
+4 Lightning Helix
+5 Mountain
+6 Mountain
 7 Mountain
+1 Spikefield Hazard
 1 Goblin Chainwhirler
 8 Mountain
 9 Mountain
@@ -26,70 +45,40 @@
 11 Mountain
 12 Mountain
 13 Mountain
-4 Ghitu Lavarunner
-1 Ahn-Crop Crasher
 2 Grim Lavamancer
-2 Goblin Chainwhirler
-3 Goblin Chainwhirler
-1 Spikefield Hazard
-1 Needleverge Pathway
-1 Sacred Foundry
-1 Lightning Helix
-1 Inspiring Vantage
-2 Sacred Foundry
-2 Needleverge Pathway
-2 Lightning Helix
-2 Inspiring Vantage
-3 Sacred Foundry
-3 Needleverge Pathway
-3 Inspiring Vantage
-4 Sacred Foundry
-4 Inspiring Vantage
-4 Needleverge Pathway
-4 Skewer the Critics
-4 Bonecrusher Giant
-2 Ahn-Crop Crasher
-15 Snow-Covered Mountain
-1 Atarka's Command
-1 Cragcrown Pathway
-1 Burning-Tree Emissary
-1 Stomping Ground
-1 Rootbound Crag
-2 Atarka's Command
-2 Rootbound Crag
-2 Cragcrown Pathway
-2 Stomping Ground
-2 Burning-Tree Emissary
-3 Stomping Ground
-3 Cragcrown Pathway
-3 Burning-Tree Emissary
-4 Burning-Tree Emissary
-4 Stomping Ground
+1 Ahn-Crop Crasher
 2 Spikefield Hazard
-1 Plains
-3 Lightning Helix
-4 Lightning Helix
-1 Torbran, Thane of Red Fell
-14 Mountain
-15 Mountain
-3 Pillar of Flame
-4 Pillar of Flame
-1 Thermo-Alchemist
-2 Thermo-Alchemist
-3 Thermo-Alchemist
-1 Den of the Bugbear
-2 Den of the Bugbear
-3 Den of the Bugbear
-4 Den of the Bugbear
-1 Defiant Strike
 1 Clever Lumimancer
 2 Clever Lumimancer
 3 Clever Lumimancer
 4 Clever Lumimancer
-1 Roil Eruption
-1 Wayward Guide-Beast
-4 Cragcrown Pathway
+1 Plains
+2 Goblin Chainwhirler
+3 Goblin Chainwhirler
+3 Pillar of Flame
+4 Pillar of Flame
+2 Ahn-Crop Crasher
+15 Snow-Covered Mountain
+1 Torbran, Thane of Red Fell
+14 Mountain
+15 Mountain
+1 Thermo-Alchemist
+2 Thermo-Alchemist
+3 Thermo-Alchemist
+4 Bonecrusher Giant
+1 Atarka's Command
+1 Stomping Ground
+2 Atarka's Command
+2 Stomping Ground
 3 Atarka's Command
+3 Stomping Ground
+4 Atarka's Command
+4 Stomping Ground
+1 Defiant Strike
+1 Den of the Bugbear
+2 Den of the Bugbear
+3 Den of the Bugbear
+4 Den of the Bugbear
 16 Snow-Covered Mountain
 1 Chandra's Incinerator
 2 Chandra's Incinerator
@@ -102,7 +91,13 @@
 2 Runaway Steam-Kin
 16 Mountain
 2 Chandra, Torch of Defiance
-2 Roil Eruption
+1 Cragcrown Pathway
+2 Cragcrown Pathway
+3 Cragcrown Pathway
+1 Rootbound Crag
+2 Rootbound Crag
+3 Rootbound Crag
+1 Clifftop Retreat
 1 The Flame of Keld
 2 The Flame of Keld
 1 Experimental Frenzy
@@ -113,12 +108,17 @@
 2 Underworld Rage-Hound
 1 Robber of the Rich
 2 Robber of the Rich
+1 Blood Crypt
+1 Magmatic Channeler
+1 Increasing Vengeance
+2 Blood Crypt
+2 Magmatic Channeler
+2 Increasing Vengeance
+3 Blood Crypt
 3 Earthshaker Khenra
 3 Faceless Haven
-2 Chandra, Acolyte of Flame
-3 Rootbound Crag
-4 Atarka's Command
-4 Rootbound Crag
+2 Plains
+3 Plains
 1 The Biblioplex
 4 Showdown of the Skalds
 1 Castle Embereth
@@ -136,4 +136,17 @@
 4 Guttersnipe
 3 Runaway Steam-Kin
 4 Runaway Steam-Kin
+1 Burning-Tree Emissary
+2 Chandra, Acolyte of Flame
+2 Burning-Tree Emissary
+3 Burning-Tree Emissary
+4 Burning-Tree Emissary
+4 Rootbound Crag
+4 Cragcrown Pathway
+1 Risk Factor
+2 Risk Factor
+3 Risk Factor
+3 Grim Lavamancer
+4 Grim Lavamancer
+4 Risk Factor
 17 Snow-Covered Mountain

@@ -65,8 +65,8 @@
 3 Fatal Push
 1 Bloodchief's Thirst
 1 Cling to Dust
-2 Mastermind's Acquisition
 2 Legion's End
+2 Mastermind's Acquisition
 3 Sea Gate Restoration
 1 Behold the Multiverse
 2 Behold the Multiverse
@@ -75,17 +75,17 @@
 1 Jwari Disruption
 1 Cultivate
 2 Cultivate
-1 Pelakka Predation
 1 Temple of Malady
 1 Elspeth's Nightmare
+1 Pelakka Predation
 3 Heartless Act
 4 Heartless Act
 1 Memory Lapse
 2 Memory Lapse
 1 Languish
 1 Indatha Triome
-3 Mastermind's Acquisition
 3 Alrund's Epiphany
+3 Mastermind's Acquisition
 3 Wall of Blossoms
 1 Necroblossom Snarl
 1 Botanical Sanctum
@@ -94,10 +94,10 @@
 2 Golos, Tireless Pilgrim
 1 Brainstorm
 2 Brainstorm
-1 Vineglimmer Snarl
-1 Final Parting
-1 Scholar of the Lost Trove
 1 Blooming Marsh
+1 Vineglimmer Snarl
+1 Scholar of the Lost Trove
+1 Final Parting
 2 Vorinclex, Monstrous Raider
 2 Temple of Malady
 2 Polukranos, Unchained
@@ -111,10 +111,10 @@
 1 Necromentia
 1 Rest in Peace
 1 Jin-Gitaxias, Core Augur
-2 Necroblossom Snarl
 1 Brazen Borrower
 1 Bala Ged Recovery
 2 Brazen Borrower
+2 Necroblossom Snarl
 1 Quandrix Cultivator
 1 Pestilent Haze
 1 Negate
@@ -123,8 +123,8 @@
 1 Castle Locthwain
 2 Castle Vantress
 3 Castle Vantress
-1 Bojuka Bog
 1 Fetid Pools
+1 Bojuka Bog
 1 Inquisition of Kozilek
 2 Jwari Disruption
 2 Fetid Pools
@@ -134,25 +134,18 @@
 2 Mystical Dispute
 3 Temple of Malady
 1 Tamiyo, Collector of Tales
+2 Blooming Marsh
 2 Tamiyo, Collector of Tales
 2 Scholar of the Lost Trove
-2 Blooming Marsh
 3 Time Warp
-1 Xanathar, Guild Kingpin
 1 Acererak the Archlich
+1 Xanathar, Guild Kingpin
 3 Brainstorm
 4 Extinction Event
-1 Ulamog, the Ceaseless Hunger
-1 Volatile Fjord
-1 Noxious Gearhulk
-2 Disdainful Stroke
-3 Narset, Parter of Veils
-3 Memory Lapse
-4 Snow-Covered Forest
 1 Ritual of Soot
 4 Thoughtseize
-1 Plains
 1 Sunpetal Grove
+1 Plains
 1 Yasharn, Implacable Earth
 1 Glacial Fortress
 1 Aether Gust
@@ -164,12 +157,19 @@
 2 Indatha Triome
 2 Glacial Fortress
 3 Indatha Triome
-3 Languish
 3 Yasharn, Implacable Earth
+3 Languish
 3 Glacial Fortress
 3 Shark Typhoon
-4 Indatha Triome
-4 Yasharn, Implacable Earth
-4 Eliminate
-4 Shark Typhoon
 4 Glacial Fortress
+4 Indatha Triome
+4 Eliminate
+4 Yasharn, Implacable Earth
+4 Shark Typhoon
+1 Ulamog, the Ceaseless Hunger
+1 Volatile Fjord
+1 Noxious Gearhulk
+2 Disdainful Stroke
+3 Memory Lapse
+3 Narset, Parter of Veils
+4 Snow-Covered Forest

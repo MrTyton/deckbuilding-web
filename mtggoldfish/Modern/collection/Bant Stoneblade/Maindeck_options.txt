@@ -1,4 +1,4 @@
-1 Toski, Bearer of Secrets
+1 Skyclave Apparition
 1 Brazen Borrower
 1 On Thin Ice
 2 On Thin Ice
@@ -8,16 +8,16 @@
 4 On Thin Ice
 3 Snow-Covered Island
 1 Solitude
-1 Castle Ardenvale
 1 Waterlogged Grove
 3 Mana Leak
-4 Spell Queller
+1 Castle Ardenvale
 2 Solitude
 2 Temple Garden
-2 Skyclave Apparition
-3 Skyclave Apparition
+4 Spell Queller
 3 Solitude
 1 Geist of Saint Traft
+2 Skyclave Apparition
+3 Skyclave Apparition
 1 Ephemerate
 1 Eternal Witness
 2 Ephemerate
@@ -32,15 +32,15 @@
 4 Skyclave Apparition
 1 Maul of the Skyclaves
 2 Geist of Saint Traft
-1 Glasspool Mimic
 1 Soulherder
 2 Breeding Pool
 2 Jace, the Mind Sculptor
-2 Eladamri's Call
-3 Eladamri's Call
 1 Counterspell
 2 Counterspell
+2 Eladamri's Call
+3 Eladamri's Call
 4 Solitude
+1 Glasspool Mimic
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
@@ -67,9 +67,6 @@
 3 Wall of Omens
 4 Wall of Omens
 4 Prismatic Vista
-1 Collected Company
-2 Collected Company
-3 Collected Company
 1 Glacial Fortress
 3 Counterspell
 4 Counterspell
@@ -97,30 +94,26 @@
 4 Sanctum Prelate
 1 Reflecting Pool
 1 Endurance
-1 Voice of Resurgence
-1 Reflector Mage
-2 Voice of Resurgence
-2 Reflector Mage
-3 Voice of Resurgence
-3 Reflector Mage
-4 Collected Company
 4 Force of Negation
+1 Collected Company
+2 Collected Company
+3 Collected Company
 1 Giver of Runes
 2 Horizon Canopy
 2 Giver of Runes
 3 Giver of Runes
 1 Razorverge Thicket
 2 Razorverge Thicket
+1 Vendilion Clique
 1 Polluted Delta
 1 Botanical Sanctum
-1 Vendilion Clique
 1 Charming Prince
 1 Sword of Hearth and Home
 2 Forest
 1 Snapcaster Mage
 2 Snapcaster Mage
-1 Emeria's Call
 1 Yavimaya, Cradle of Growth
+1 Emeria's Call
 2 Emeria's Call
 1 Coiling Oracle
 1 Rimewood Falls
@@ -133,6 +126,7 @@
 4 Teferi, Time Raveler
 4 Coiling Oracle
 1 Shardless Agent
+1 Chord of Calling
 1 Devoted Druid
 1 Vizier of Remedies
 1 Shalai, Voice of Plenty
@@ -140,20 +134,17 @@
 1 Walking Ballista
 1 Viridian Longbow
 1 Kitchen Finks
-1 Chord of Calling
 2 Shardless Agent
-2 Devoted Druid
 2 Chord of Calling
+2 Devoted Druid
 2 Vizier of Remedies
 3 Shardless Agent
-3 Devoted Druid
 3 Chord of Calling
+3 Devoted Druid
 3 Vizier of Remedies
+4 Chord of Calling
 4 Devoted Druid
 4 Vizier of Remedies
-4 Chord of Calling
-1 Hexdrinker
-1 Seachrome Coast
 1 Disdainful Stroke
 1 Questing Beast
 1 Scavenging Ooze
@@ -170,6 +161,15 @@
 2 Archon of Emeria
 2 Glacial Fortress
 3 Archon of Emeria
+1 Hexdrinker
+1 Seachrome Coast
+1 Voice of Resurgence
+1 Reflector Mage
+2 Voice of Resurgence
+2 Reflector Mage
+3 Voice of Resurgence
+3 Reflector Mage
+4 Collected Company
 1 Unsettled Mariner
 1 Spellstutter Sprite
 2 Unsettled Mariner
@@ -178,34 +178,15 @@
 3 Spellstutter Sprite
 4 Unsettled Mariner
 4 Spellstutter Sprite
-4 Voice of Resurgence
-1 Tangled Florahedron
-1 Golos, Tireless Pilgrim
-1 Hinterland Harbor
-1 Kozilek, Butcher of Truth
-1 Koma, Cosmos Serpent
-1 Ulamog, the Infinite Gyre
-1 Emrakul, the Aeons Torn
-1 The World Tree
-1 Kinnan, Bonder Prodigy
-1 Barkchannel Pathway
-1 Wooded Foothills
-2 Tangled Florahedron
-2 Botanical Sanctum
-2 Golos, Tireless Pilgrim
-2 Kinnan, Bonder Prodigy
-3 Birds of Paradise
-3 Tangled Florahedron
-3 Kinnan, Bonder Prodigy
-4 Birds of Paradise
-4 Tangled Florahedron
-4 Kinnan, Bonder Prodigy
-1 Teferi, Hero of Dominaria
-1 Celestial Colonnade
-1 Cryptic Command
+2 Endurance
+3 Endurance
+4 Endurance
 1 Archmage's Charm
+1 Cryptic Command
 1 Subtlety
+1 Celestial Colonnade
 1 Field of Ruin
+1 Teferi, Hero of Dominaria
 2 Celestial Colonnade
 2 Archmage's Charm
 2 Cryptic Command
@@ -220,6 +201,24 @@
 4 Polluted Delta
 4 Island
 5 Island
-2 Endurance
-3 Endurance
-4 Endurance
+1 Tangled Florahedron
+1 Wooded Foothills
+1 Barkchannel Pathway
+1 The World Tree
+1 Golos, Tireless Pilgrim
+1 Kinnan, Bonder Prodigy
+1 Hinterland Harbor
+1 Kozilek, Butcher of Truth
+1 Koma, Cosmos Serpent
+1 Ulamog, the Infinite Gyre
+1 Emrakul, the Aeons Torn
+2 Tangled Florahedron
+2 Botanical Sanctum
+2 Golos, Tireless Pilgrim
+2 Kinnan, Bonder Prodigy
+3 Tangled Florahedron
+3 Birds of Paradise
+3 Kinnan, Bonder Prodigy
+4 Tangled Florahedron
+4 Birds of Paradise
+4 Kinnan, Bonder Prodigy
