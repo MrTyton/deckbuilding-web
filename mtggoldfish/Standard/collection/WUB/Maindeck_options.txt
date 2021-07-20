@@ -1,29 +1,28 @@
+1 Crawling Barrens
+2 Disdainful Stroke
 1 Castle Ardenvale
 4 Vanishing Verse
+4 Island
+4 Behold the Multiverse
 1 Lithoform Blight
 2 Lithoform Blight
 1 Lochmere Serpent
-4 Behold the Multiverse
-2 Disdainful Stroke
-1 Crawling Barrens
-2 Mystical Dispute
-4 Raugrin Triome
-4 Island
-1 Bloodchief's Thirst
 1 Midnight Clock
+1 Bloodchief's Thirst
 2 Crawling Barrens
+2 Mystical Dispute
+5 Island
 1 Ugin, the Spirit Dragon
 2 Midnight Clock
 1 Suffocating Fumes
-5 Island
+1 Castle Locthwain
+4 Raugrin Triome
 3 Temple of Deceit
 4 Temple of Deceit
-2 Soul Shatter
-1 Castle Locthwain
-2 Ashiok, Nightmare Muse
-1 Eliminate
 2 Cling to Dust
-1 Hall of Storm Giants
+1 Eliminate
+2 Soul Shatter
+2 Ashiok, Nightmare Muse
 1 Mountain
 1 Valki, God of Lies
 1 Riverglide Pathway
@@ -32,45 +31,52 @@
 2 Bonecrusher Giant
 2 Blightstep Pathway
 2 Riverglide Pathway
-3 Blightstep Pathway
 3 Bonecrusher Giant
+3 Blightstep Pathway
 3 Riverglide Pathway
 4 Riverglide Pathway
 4 Bonecrusher Giant
 4 Blightstep Pathway
-1 Temple of Enlightenment
-2 Temple of Enlightenment
+1 Professor Onyx
 2 Eliminate
-1 Den of the Bugbear
+1 Hall of Storm Giants
 1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
-1 Professor Onyx
+1 Erebos's Intervention
+6 Island
+1 Temple of Enlightenment
+2 Temple of Enlightenment
+1 Expressive Iteration
+1 Den of the Bugbear
 1 Power Word Kill
+1 Brazen Borrower
+2 Brazen Borrower
+1 Feed the Swarm
+1 Baleful Mastery
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
+1 Jwari Disruption
+5 Snow-Covered Island
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
-1 Feed the Swarm
-1 Expressive Iteration
-1 Brazen Borrower
-2 Brazen Borrower
-1 Erebos's Intervention
 2 Doomskar
 3 Doomskar
-5 Snow-Covered Island
-6 Island
-1 Jwari Disruption
+5 Swamp
+6 Swamp
+7 Swamp
+7 Island
 2 Jwari Disruption
-1 Test of Talents
 3 Field of Ruin
+1 Test of Talents
 3 Temple of Enlightenment
 4 Temple of Enlightenment
 4 Plains
+8 Island
 1 Elspeth Conquers Death
 1 The Birth of Meletis
 1 Archon of Sun's Grace
@@ -82,7 +88,7 @@
 1 Skyclave Apparition
 2 Skyclave Apparition
 1 Dream Trawler
-6 Snow-Covered Swamp
+2 Power Word Kill
 2 Elspeth Conquers Death
 3 Archon of Sun's Grace
 1 Glass Casket
@@ -94,15 +100,22 @@
 3 Skyclave Apparition
 5 Plains
 6 Plains
-7 Island
 7 Plains
 8 Plains
 2 Ugin, the Spirit Dragon
-2 Bloodchief's Thirst
+1 Pelakka Predation
 1 Graven Lore
+1 Ebondeath, Dracolich
+2 Erebos's Intervention
+6 Snow-Covered Swamp
 4 Doomskar
 3 Elspeth Conquers Death
 3 Jwari Disruption
+3 Soul Shatter
+1 Alrund's Epiphany
+2 Alrund's Epiphany
+1 Faceless Haven
+2 Faceless Haven
 1 Yorion, Sky Nomad
 2 Yorion, Sky Nomad
 3 Glass Casket
@@ -110,44 +123,33 @@
 3 Omen of the Sun
 4 Glass Casket
 4 Archon of Sun's Grace
-8 Island
-3 Soul Shatter
-1 Darkbore Pathway
-1 Faceless Haven
-2 Faceless Haven
-2 Power Word Kill
-2 Shadows' Verdict
-2 Darkbore Pathway
-3 Darkbore Pathway
-1 Barkchannel Pathway
-1 Easy Prey
-2 Barkchannel Pathway
-2 Erebos's Intervention
-2 Easy Prey
-3 Erebos's Intervention
-3 Crawling Barrens
-4 Darkbore Pathway
-4 Soul Shatter
-4 Erebos's Intervention
+2 Bloodchief's Thirst
+1 Check for Traps
+1 Hagra Mauling
 2 Hall of Storm Giants
 1 Ice Tunnel
 2 Ice Tunnel
 3 Ice Tunnel
 4 Ice Tunnel
-5 Swamp
-6 Swamp
-7 Swamp
-1 Ebondeath, Dracolich
-1 Pelakka Predation
-1 Baleful Mastery
+1 Darkbore Pathway
+1 Barkchannel Pathway
+1 Easy Prey
+2 Darkbore Pathway
+2 Barkchannel Pathway
+2 Easy Prey
+3 Darkbore Pathway
+3 Erebos's Intervention
+3 Crawling Barrens
+4 Darkbore Pathway
+4 Soul Shatter
+4 Erebos's Intervention
+1 Hive of the Eye Tyrant
 2 Test of Talents
 1 Elite Spellbinder
 2 Elite Spellbinder
-1 Binding the Old Gods
-2 Binding the Old Gods
-3 Binding the Old Gods
 1 Banishing Light
 2 Banishing Light
+2 Shadows' Verdict
 4 Skyclave Apparition
 1 Go Blank
 1 Temple of Silence
@@ -155,25 +157,25 @@
 2 Temple of Silence
 2 Dream Trawler
 3 Ashiok, Nightmare Muse
-1 Hagra Mauling
 2 Graven Lore
 3 Eliminate
 2 Professor Onyx
 1 Tranquil Cove
 2 Tranquil Cove
-1 Alrund's Epiphany
-2 Alrund's Epiphany
+1 Goldspan Dragon
+2 Mountain
+2 Goldspan Dragon
 1 Divide by Zero
 2 Divide by Zero
 3 Divide by Zero
-1 Check for Traps
 2 Check for Traps
 1 Iymrith, Desert Doom
 2 Iymrith, Desert Doom
-1 Hive of the Eye Tyrant
-1 Forest
-1 Indatha Triome
-4 Binding the Old Gods
+1 Bar the Gate
+2 Bar the Gate
+3 Power Word Kill
+2 Elspeth's Nightmare
+2 Ebondeath, Dracolich
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
@@ -188,14 +190,6 @@
 3 All That Glitters
 3 Alseid of Life's Bounty
 4 Alseid of Life's Bounty
-3 Bloodchief's Thirst
-1 Snow-Covered Forest
-2 Snow-Covered Forest
-3 Snow-Covered Forest
-1 Blood on the Snow
-2 Elspeth's Nightmare
-1 Woodland Chasm
-1 Garruk, Cursed Huntsman
 1 Sea Gate Restoration
 3 Test of Talents
 3 Negate
@@ -203,21 +197,27 @@
 2 Solemn Simulacrum
 3 Solemn Simulacrum
 4 Jwari Disruption
+1 Forest
+1 Binding the Old Gods
 1 Ketria Triome
+1 Indatha Triome
 2 Essence Scatter
+2 Binding the Old Gods
 3 Barkchannel Pathway
+3 Binding the Old Gods
 3 Easy Prey
 4 Barkchannel Pathway
-4 Crawling Barrens
+4 Binding the Old Gods
 4 Easy Prey
+4 Crawling Barrens
 1 Wizard Class
 2 Wizard Class
 3 Elite Spellbinder
 3 Wizard Class
 4 Wizard Class
 1 Shambling Suit
-1 Rune of Flight
 1 Arcanist's Owl
+1 Rune of Flight
 1 Shinechaser
 2 Shambling Suit
 2 Shinechaser
@@ -227,8 +227,8 @@
 3 Tranquil Cove
 3 Shambling Suit
 3 Shinechaser
-4 Arcanist's Owl
 4 Banishing Light
+4 Arcanist's Owl
 4 Shambling Suit
 4 Shinechaser
 4 Tranquil Cove
@@ -244,61 +244,28 @@
 9 Snow-Covered Island
 10 Snow-Covered Island
 10 Snow-Covered Plains
-1 Crippling Fear
-2 Crippling Fear
-1 Elder Gargaroth
-1 Necroblossom Snarl
-1 Village Rites
-2 Elder Gargaroth
-2 Woodland Chasm
-2 Village Rites
-4 Snow-Covered Forest
-5 Snow-Covered Forest
-6 Snow-Covered Forest
-7 Snow-Covered Swamp
-7 Snow-Covered Forest
-1 Branchloft Pathway
-2 Branchloft Pathway
-3 Branchloft Pathway
-4 Branchloft Pathway
-1 Cultivate
-2 Cultivate
-1 Mordenkainen
-2 Baleful Mastery
-2 Mordenkainen
-1 Bar the Gate
+1 Contact Other Plane
+1 Sublime Epiphany
+1 Dragon Turtle
+1 Rewind
+2 Contact Other Plane
+3 Bar the Gate
+3 Brazen Borrower
+4 Brazen Borrower
+8 Swamp
+9 Swamp
 1 Orcus, Prince of Undeath
 2 Den of the Bugbear
-2 Bar the Gate
-3 Power Word Kill
+1 Mordenkainen
+1 Blood on the Snow
+2 Baleful Mastery
+2 Mordenkainen
+2 Expressive Iteration
 1 Shatterskull Smashing
 1 Temple of Epiphany
-1 Goldspan Dragon
-2 Mountain
 2 Valki, God of Lies
-2 Goldspan Dragon
 2 Temple of Epiphany
 3 Goldspan Dragon
-1 Toski, Bearer of Secrets
-1 Bala Ged Recovery
-1 Lovestruck Beast
-1 Garruk's Harbinger
-1 The Great Henge
-1 Temple of Malady
-1 Witherbloom Command
-1 Witherbloom Campus
-2 Pelakka Predation
-2 Toski, Bearer of Secrets
-2 Witherbloom Campus
-2 Witherbloom Command
-2 Temple of Malady
-2 Lovestruck Beast
-2 Blood on the Snow
-2 Garruk's Harbinger
-2 The Great Henge
-3 Witherbloom Command
-3 Lovestruck Beast
-3 Elspeth's Nightmare
 1 Pharika's Libation
 1 Demogorgon's Clutches
 1 Ray of Frost
@@ -312,82 +279,42 @@
 3 Dismal Backwater
 4 Dismal Backwater
 1 Lolth, Spider Queen
+1 Crippling Fear
 1 Flunk
-2 Ebondeath, Dracolich
 2 Lolth, Spider Queen
+2 Crippling Fear
 2 Flunk
 3 Crippling Fear
 3 Faceless Haven
+3 Bloodchief's Thirst
 3 Flunk
 3 Lolth, Spider Queen
 4 Faceless Haven
 4 Crippling Fear
 4 Bloodchief's Thirst
+9 Island
 1 Paladin Class
 1 The Book of Exalted Deeds
+1 Branchloft Pathway
 1 Temple of Plenty
+1 Snow-Covered Forest
 1 Ranger Class
 1 Setessan Champion
 1 Calix, Destiny's Hand
 2 Paladin Class
+2 Branchloft Pathway
 2 Castle Ardenvale
 2 Ranger Class
 2 Setessan Champion
 2 Calix, Destiny's Hand
+2 Snow-Covered Forest
 2 Temple of Plenty
 3 Paladin Class
+3 Branchloft Pathway
+3 Snow-Covered Forest
 3 Temple of Plenty
 3 Setessan Champion
-4 Paladin Class
+4 Branchloft Pathway
 4 Temple of Plenty
 4 Setessan Champion
-1 Vorinclex, Monstrous Raider
-1 Liliana, Waker of the Dead
-1 Flicker of Fate
-1 Kaya the Inexorable
-1 Wolfwillow Haven
-1 Eerie Ultimatum
-1 Acolyte of Affliction
-1 Arctic Treeline
-2 Vorinclex, Monstrous Raider
-2 Liliana, Waker of the Dead
-2 Wolfwillow Haven
-2 Indatha Triome
-2 Flicker of Fate
-2 Acolyte of Affliction
-2 Kaya the Inexorable
-2 Eerie Ultimatum
-2 Garruk, Cursed Huntsman
-3 Shadows' Verdict
-3 Acolyte of Affliction
-3 Vorinclex, Monstrous Raider
-3 Cultivate
-3 Wolfwillow Haven
-3 Indatha Triome
-3 Flicker of Fate
-4 Cultivate
-4 Acolyte of Affliction
-4 Indatha Triome
-4 Flicker of Fate
-1 Serrated Scorpion
-1 Polukranos, Unchained
-1 Massacre Wurm
-1 Back for More
-1 Beanstalk Giant
-1 Migratory Greathorn
-1 Questing Beast
-1 Scute Swarm
-2 Serrated Scorpion
-2 Necroblossom Snarl
-2 Questing Beast
-2 Back for More
-2 Scute Swarm
-2 Migratory Greathorn
-2 Beanstalk Giant
-3 Serrated Scorpion
-3 Village Rites
-3 Scute Swarm
-3 Migratory Greathorn
-8 Snow-Covered Forest
-8 Snow-Covered Swamp
-9 Snow-Covered Swamp
+4 Paladin Class
