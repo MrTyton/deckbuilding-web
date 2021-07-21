@@ -1,8 +1,8 @@
 1 Island
-4 Remand
 1 Snow-Covered Island
-3 Arid Mesa
 4 Teferi, Time Raveler
+4 Remand
+3 Arid Mesa
 1 Snow-Covered Mountain
 1 Breeding Pool
 1 Forest
@@ -18,8 +18,8 @@
 1 Windswept Heath
 2 Windswept Heath
 1 Lightning Helix
-2 Lightning Helix
 1 Mantis Rider
+2 Lightning Helix
 2 Mantis Rider
 3 Mantis Rider
 4 Mantis Rider
@@ -35,23 +35,12 @@
 3 Scion of Draco
 4 Scion of Draco
 1 Misty Rainforest
+4 Prismatic Ending
 2 Misty Rainforest
-4 Arid Mesa
-1 Noble Hierarch
-1 General Ferrous Rokiric
-2 General Ferrous Rokiric
-3 General Ferrous Rokiric
-4 Bloodbraid Elf
-2 Noble Hierarch
-1 Verdant Catacombs
-1 Blood Crypt
-1 Savai Triome
-1 Ignoble Hierarch
-2 Ignoble Hierarch
 3 Misty Rainforest
 4 Misty Rainforest
-1 Glimpse of Tomorrow
 1 Khalni Garden
+1 Glimpse of Tomorrow
 1 Violent Outburst
 2 Khalni Garden
 2 Glimpse of Tomorrow
@@ -61,74 +50,85 @@
 3 Violent Outburst
 4 Khalni Garden
 4 Violent Outburst
-4 Prismatic Ending
-3 Ignoble Hierarch
-4 Ignoble Hierarch
-2 Verdant Catacombs
+4 Arid Mesa
+1 Noble Hierarch
+1 General Ferrous Rokiric
+2 General Ferrous Rokiric
+3 General Ferrous Rokiric
+4 Bloodbraid Elf
 1 Wavesifter
 2 Wavesifter
 3 Wavesifter
+2 Noble Hierarch
+1 Verdant Catacombs
+1 Blood Crypt
+1 Savai Triome
+1 Ignoble Hierarch
+2 Ignoble Hierarch
 4 Wavesifter
 1 Gemstone Caverns
-1 Omniscience
 1 Emrakul, the Aeons Torn
-2 Omniscience
+1 Omniscience
 2 Emrakul, the Aeons Torn
-3 Omniscience
+2 Omniscience
 3 Emrakul, the Aeons Torn
+3 Omniscience
 4 Omniscience
 4 Emrakul, the Aeons Torn
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 4 Leyline of Sanctity
+3 Ignoble Hierarch
+4 Ignoble Hierarch
+2 Verdant Catacombs
 1 Omnath, Locus of Creation
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 1 Hallowed Fountain
+1 Jace, the Mind Sculptor
+3 Bloodstained Mire
 2 Omnath, Locus of Creation
 1 Indatha Triome
-3 Bloodstained Mire
 3 Windswept Heath
 3 Omnath, Locus of Creation
-1 Jace, the Mind Sculptor
-1 As Foretold
-4 Windswept Heath
-1 Plains
 1 Iona, Shield of Emeria
+1 As Foretold
+1 Archon of Cruelty
+1 Ulamog, the Infinite Gyre
 2 As Foretold
 3 As Foretold
+4 Windswept Heath
+1 Plains
+2 Iona, Shield of Emeria
+2 Archon of Cruelty
+3 Archon of Cruelty
 1 Seasoned Pyromancer
+1 Kozilek, Butcher of Truth
 2 Mountain
 1 Goblin Dark-Dwellers
 2 Seasoned Pyromancer
-1 Archon of Cruelty
 1 Ardent Plea
 1 Tireless Provisioner
 2 Goblin Dark-Dwellers
 2 Tireless Provisioner
 3 Goblin Dark-Dwellers
 3 Tireless Provisioner
-1 Ulamog, the Infinite Gyre
+1 Leyline of the Void
+2 Leyline of the Void
 1 Zagoth Triome
 4 Goblin Dark-Dwellers
 4 Omnath, Locus of Creation
 1 Chancellor of the Forge
 2 Chancellor of the Forge
 4 Tireless Provisioner
-2 Archon of Cruelty
-3 Archon of Cruelty
-2 Iona, Shield of Emeria
-1 Kozilek, Butcher of Truth
 2 Gemstone Caverns
 1 Growth Spiral
 2 Growth Spiral
 1 Klothys, God of Destiny
 3 Seasoned Pyromancer
 3 Chancellor of the Forge
-1 Leyline of the Void
-2 Leyline of the Void
 4 Archon of Cruelty
 1 Snow-Covered Forest
 2 Sacred Foundry
@@ -155,18 +155,19 @@
 4 Seasoned Pyromancer
 4 Chancellor of the Forge
 2 Ardent Plea
+1 Griselbrand
 4 Saheeli Rai
 1 Flooded Strand
-3 Lightning Helix
-4 Lightning Helix
 3 Arboreal Grazer
 1 Manamorphose
 2 Flooded Strand
 2 Manamorphose
 3 Flooded Strand
 3 Manamorphose
-4 Flooded Strand
+3 Lightning Helix
+4 Lightning Helix
 4 Bloodstained Mire
+4 Flooded Strand
 4 Manamorphose
 4 General Ferrous Rokiric
 1 Hard Evidence
@@ -175,7 +176,7 @@
 2 Tarmogoyf
 3 Tarmogoyf
 1 Fire-Lit Thicket
-1 Griselbrand
+2 Griselbrand
 1 Gemstone Mine
 2 Gemstone Mine
 4 Glimpse of Tomorrow
@@ -184,15 +185,15 @@
 1 Chandra, Torch of Defiance
 4 Ragavan, Nimble Pilferer
 2 Temple Garden
+1 Sword of Fire and Ice
 1 Stoneforge Mystic
 1 Batterskull
-1 Sword of Fire and Ice
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+2 Island
 3 Verdant Catacombs
 4 Verdant Catacombs
-2 Griselbrand
 3 Noble Hierarch
 4 Noble Hierarch
 1 Snow-Covered Plains
@@ -216,17 +217,17 @@
 3 Ugin, the Spirit Dragon
 4 Ugin, the Spirit Dragon
 1 Sunbaked Canyon
-1 Inspiring Vantage
+1 Lurrus of the Dream-Den
+1 Unholy Heat
 1 Seal of Fire
 1 Horizon Canopy
 1 Path to Exile
-1 Lurrus of the Dream-Den
-1 Unholy Heat
+1 Inspiring Vantage
 1 Mishra's Bauble
-2 Inspiring Vantage
 2 Path to Exile
 2 Lurrus of the Dream-Den
 2 Mishra's Bauble
+2 Inspiring Vantage
 3 Lurrus of the Dream-Den
 3 Mishra's Bauble
 4 Mishra's Bauble
@@ -240,15 +241,14 @@
 1 Fire/Ice
 2 Fire/Ice
 1 Rift Sower
-2 Island
 3 Griselbrand
 4 Griselbrand
 1 Hexdrinker
 1 Botanical Sanctum
 2 Botanical Sanctum
 1 Cindervines
-1 Waterlogged Grove
 1 Beast Within
+1 Waterlogged Grove
 1 Irrigated Farmland
 1 Shambleshark
 1 Niv-Mizzet Reborn
@@ -261,36 +261,36 @@
 1 Anafenza, the Foremost
 2 Anafenza, the Foremost
 2 Jace, the Mind Sculptor
-3 Inspiring Vantage
 2 Valakut Awakening
 3 Valakut Awakening
 1 Might of Alara
 2 Might of Alara
 3 Might of Alara
-1 Brazen Borrower
 1 Fiery Islet
+1 Brazen Borrower
 3 Gemstone Mine
 3 Hard Evidence
 3 Gemstone Caverns
+3 Inspiring Vantage
 1 Academy Manufactor
 2 Academy Manufactor
 3 Academy Manufactor
 4 Academy Manufactor
-1 Grove of the Burnwillows
-1 Maul of the Skyclaves
 1 Birds of Paradise
+1 Maul of the Skyclaves
+1 Grove of the Burnwillows
 1 Razorverge Thicket
-1 Voice of Resurgence
 1 Eldritch Evolution
+1 Eternal Witness
 1 Skyclave Apparition
 1 Sun Titan
-1 Eternal Witness
-2 Grove of the Burnwillows
+1 Voice of Resurgence
 2 Birds of Paradise
+2 Grove of the Burnwillows
 2 Razorverge Thicket
 2 Eldritch Evolution
-2 Voice of Resurgence
 2 Skyclave Apparition
+2 Voice of Resurgence
 3 Birds of Paradise
 3 Razorverge Thicket
 3 Voice of Resurgence
@@ -300,19 +300,11 @@
 2 Fury
 3 Fury
 4 Fury
+4 Wild Nacatl
 1 Snapcaster Mage
 2 Snapcaster Mage
 3 Snapcaster Mage
 4 Snapcaster Mage
-1 Opt
-1 Swamp
-2 Swamp
-2 Opt
-3 Swamp
-3 Opt
-4 Swamp
-4 Opt
-4 Wild Nacatl
 3 Kozilek, Butcher of Truth
 4 Kozilek, Butcher of Truth
 1 Tranquil Thicket
@@ -326,17 +318,25 @@
 3 Ranger-Captain of Eos
 4 Endurance
 4 Ranger-Captain of Eos
-1 Imperial Recruiter
 1 Foundation Breaker
 1 Detention Sphere
+1 Imperial Recruiter
 2 Imperial Recruiter
 2 Rift Sower
 3 Rift Sower
 4 Rift Sower
-1 Serra's Emissary
 1 Ashen Rider
 1 Grief
+1 Serra's Emissary
 2 Grief
 2 Ashen Rider
 3 Ashen Rider
 4 Ashen Rider
+1 Opt
+1 Swamp
+2 Swamp
+2 Opt
+3 Swamp
+3 Opt
+4 Swamp
+4 Opt

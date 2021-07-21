@@ -3,7 +3,6 @@
 4 Ketria Triome
 1 Sulfur Falls
 1 Breeding Pool
-2 Stomping Ground
 2 Breeding Pool
 3 Breeding Pool
 4 Breeding Pool
@@ -20,54 +19,56 @@
 3 Growth Spiral
 4 Growth Spiral
 4 Nightpack Ambusher
+1 Castle Vantress
 1 Brazen Borrower
 2 Brazen Borrower
+2 Stomping Ground
 1 Forest
-1 Castle Vantress
 1 Rewind
 2 Rewind
 3 Rewind
 1 Riverglide Pathway
+2 Anger of the Gods
 2 Riverglide Pathway
 4 Rewind
 1 Barkchannel Pathway
+3 Riverglide Pathway
 2 Barkchannel Pathway
 1 Cragcrown Pathway
 4 Torrential Gearhulk
-3 Riverglide Pathway
-2 Castle Vantress
-2 Anger of the Gods
 3 Brazen Borrower
-1 Miscast
+2 Castle Vantress
 4 Riverglide Pathway
+1 Miscast
 2 Cragcrown Pathway
-1 Sublime Epiphany
 1 Into the Roil
 7 Mountain
+1 Sublime Epiphany
 1 Spell Pierce
 4 Brazen Borrower
+1 Mystical Dispute
 3 Cragcrown Pathway
 3 Barkchannel Pathway
 4 Barkchannel Pathway
 4 Cragcrown Pathway
 3 Hinterland Harbor
-2 Sublime Epiphany
 2 Miscast
-1 Mystical Dispute
-2 Sulfur Falls
+2 Sublime Epiphany
 1 Quandrix Command
+2 Sulfur Falls
 3 Expressive Iteration
+1 Bonecrusher Giant
 1 Neoform
-1 Paradise Druid
 1 Sea Gate Stormcaller
+1 Paradise Druid
 1 Dualcaster Mage
 1 Glasspool Mimic
 1 Tuktuk Rubblefort
 1 Combat Celebrant
 2 Neoform
 2 Glasspool Mimic
-2 Paradise Druid
 2 Sea Gate Stormcaller
+2 Paradise Druid
 2 Dualcaster Mage
 3 Glasspool Mimic
 3 Neoform
@@ -77,7 +78,6 @@
 4 Glasspool Mimic
 4 Neoform
 4 Sea Gate Stormcaller
-1 Bonecrusher Giant
 2 Bonecrusher Giant
 2 Tuktuk Rubblefort
 4 Dualcaster Mage
@@ -88,22 +88,24 @@
 1 Koma, Cosmos Serpent
 2 Koma, Cosmos Serpent
 2 Forest
+4 Expressive Iteration
 4 Bonecrusher Giant
+1 Abundant Harvest
 1 Botanical Sanctum
-1 Ulamog, the Ceaseless Hunger
-1 Aether Hub
 1 Aetherworks Marvel
 1 Woodweaver's Puzzleknot
+1 Aether Hub
 1 Attune with Aether
+1 Ulamog, the Ceaseless Hunger
 1 Rogue Refiner
 1 Harnessed Lightning
 2 Ulamog, the Ceaseless Hunger
 2 Aether Hub
 2 Aetherworks Marvel
 2 Woodweaver's Puzzleknot
+2 Harnessed Lightning
 2 Rogue Refiner
 2 Attune with Aether
-2 Harnessed Lightning
 3 Aether Hub
 3 Aetherworks Marvel
 3 Rogue Refiner
@@ -113,69 +115,69 @@
 4 Aetherworks Marvel
 4 Harnessed Lightning
 4 Rogue Refiner
-1 Abundant Harvest
-4 Expressive Iteration
-4 Attune with Aether
 1 Spirebluff Canal
+4 Attune with Aether
 2 Abundant Harvest
 4 Stomping Ground
 3 Ulamog, the Ceaseless Hunger
+2 Spirebluff Canal
 3 Abundant Harvest
 2 Botanical Sanctum
 1 Ugin, the Spirit Dragon
 2 Ugin, the Spirit Dragon
-2 Spirebluff Canal
 2 Quandrix Command
 4 Abundant Harvest
 3 Botanical Sanctum
 1 Glimmer of Genius
 2 Glimmer of Genius
 3 Woodweaver's Puzzleknot
-3 Forest
 3 Glimmer of Genius
-1 Overgrown Tomb
-1 Watery Grave
+3 Forest
 4 Botanical Sanctum
 1 Hieroglyphic Illumination
 2 Hieroglyphic Illumination
 3 Hieroglyphic Illumination
 4 Hieroglyphic Illumination
-1 Swamp
-1 Frilled Mystic
-2 Frilled Mystic
+1 Overgrown Tomb
+1 Watery Grave
 1 Valakut Awakening
 4 Forest
 3 Ugin, the Spirit Dragon
-2 Watery Grave
-2 Overgrown Tomb
-3 Castle Vantress
+1 Swamp
+1 Frilled Mystic
+2 Frilled Mystic
+3 Sulfur Falls
 3 Island
+3 Castle Vantress
+3 Anger of the Gods
 2 Valakut Awakening
 1 Aether Meltdown
 2 Aether Meltdown
-1 Zagoth Triome
-2 Zagoth Triome
-3 Watery Grave
+2 Overgrown Tomb
+2 Watery Grave
 1 Abrade
-3 Sulfur Falls
-1 Fatal Push
-1 Drowned Catacomb
-2 Fatal Push
-4 Watery Grave
+4 Sulfur Falls
+1 Zagoth Triome
+2 Mystical Dispute
+2 Zagoth Triome
 3 Overgrown Tomb
-3 Zagoth Triome
+3 Watery Grave
+1 Drowned Catacomb
+1 Fatal Push
+2 Fatal Push
 3 Fatal Push
-1 Quench
-2 Drowned Catacomb
-2 Quench
-3 Anger of the Gods
+4 Watery Grave
+3 Zagoth Triome
 1 Jwari Disruption
 1 Port of Karfell
 1 Eliminate
+1 Quench
 1 Deathsprout
+2 Drowned Catacomb
 2 Jwari Disruption
 2 Eliminate
 2 Port of Karfell
+2 Quench
 2 Deathsprout
 3 Eliminate
 3 Sublime Epiphany
@@ -183,18 +185,17 @@
 2 Abrade
 1 Censor
 1 Castle Garenbrig
-4 Mizzix's Mastery
+1 Search for Azcanta
 3 Spirebluff Canal
 1 Wall of Blossoms
 2 Wall of Blossoms
-4 Sulfur Falls
 1 Solve the Equation
+1 Nissa, Who Shakes the World
 4 Sublime Epiphany
-1 Search for Azcanta
 2 Rootbound Crag
 2 Spell Pierce
 3 Aether Meltdown
-2 Mystical Dispute
+4 Mizzix's Mastery
 2 Pact of Negation
 1 Genesis Ultimatum
 2 Genesis Ultimatum
@@ -202,10 +203,10 @@
 2 Gilded Goose
 3 Gilded Goose
 4 Gilded Goose
-1 Nissa, Who Shakes the World
 2 Solve the Equation
-1 Heartless Act
-2 Heartless Act
+2 Nissa, Who Shakes the World
+3 Nissa, Who Shakes the World
+1 Negate
 3 Pact of Negation
 1 Opt
 1 Anticipate
@@ -218,34 +219,32 @@
 4 Wishclaw Talisman
 4 Ulamog, the Ceaseless Hunger
 1 Shielded Aether Thief
-4 Spirebluff Canal
 4 Aether Meltdown
+4 Spirebluff Canal
 2 Censor
 3 Genesis Ultimatum
 1 Whirler Virtuoso
 2 Whirler Virtuoso
 3 Whirler Virtuoso
-2 Nissa, Who Shakes the World
-3 Nissa, Who Shakes the World
-4 Nissa, Who Shakes the World
 1 Expansion/Explosion
 1 Perilous Voyage
 3 Solve the Equation
 4 Solve the Equation
-1 Negate
-1 Brineborn Cutthroat
-2 Brineborn Cutthroat
+4 Nissa, Who Shakes the World
+1 Heartless Act
+2 Heartless Act
 1 Unexpected Windfall
 2 Unexpected Windfall
 3 Unexpected Windfall
-4 Zagoth Triome
-3 Heartless Act
-1 Slitherwisp
-2 Slitherwisp
-1 Shatterskull Smashing
+1 Hydroid Krasis
+1 Hallowed Fountain
+1 Glacial Fortress
+1 Plains
+2 Hallowed Fountain
+2 Glacial Fortress
 1 Relic of Progenitus
 1 Arasta of the Endless Web
-1 Hydroid Krasis
+1 Shatterskull Smashing
 1 Temple of Abandon
 1 Shifting Ceratops
 1 Chandra, Awakened Inferno
@@ -255,9 +254,8 @@
 1 Electrolyze
 1 Sweltering Suns
 2 Sweltering Suns
-1 Cling to Dust
-1 Baleful Mastery
-2 Baleful Mastery
+1 Brineborn Cutthroat
+2 Brineborn Cutthroat
 1 Cascading Cataracts
 1 Golos, Tireless Pilgrim
 1 Servant of the Conduit
@@ -267,12 +265,6 @@
 2 Shimmer of Possibility
 1 Lightning Strike
 2 Lightning Strike
-1 Magma Spray
-1 Karn, the Great Creator
-2 Karn, the Great Creator
-2 Magma Spray
-3 Karn, the Great Creator
-3 Fire Prophecy
 1 Fauna Shaman
 3 Wall of Blossoms
 1 Behold the Multiverse
@@ -281,74 +273,94 @@
 1 Flame Sweep
 2 Flame Sweep
 3 Flame Sweep
+3 Fire Prophecy
 3 Abrade
 3 Censor
-1 Raise the Alarm
-1 Hallowed Fountain
-1 Plains
-1 Glacial Fortress
+1 Magma Spray
+1 Karn, the Great Creator
+2 Magma Spray
+2 Karn, the Great Creator
+3 Karn, the Great Creator
 1 Lightning Helix
-2 Raise the Alarm
+1 Raise the Alarm
 2 Lightning Helix
-2 Hallowed Fountain
-2 Glacial Fortress
-3 Raise the Alarm
+2 Raise the Alarm
 3 Lightning Helix
+3 Raise the Alarm
 4 Lightning Helix
-1 Supreme Will
-1 Chemister's Insight
-2 Supreme Will
-2 Chemister's Insight
-3 Brineborn Cutthroat
-3 Drowned Catacomb
-3 Frilled Mystic
-4 Brineborn Cutthroat
-1 Alrund's Epiphany
-1 Velomachus Lorehold
-1 Furor of the Bitten
-2 Alrund's Epiphany
-2 Velomachus Lorehold
-2 Furor of the Bitten
-3 Alrund's Epiphany
-3 Furor of the Bitten
-4 Alrund's Epiphany
-1 Woodland Cemetery
-1 Sinister Sabotage
-2 Sinister Sabotage
-2 Swamp
-3 Sinister Sabotage
-4 Overgrown Tomb
 4 Unexpected Windfall
+1 Cling to Dust
+1 Baleful Mastery
+2 Baleful Mastery
+4 Zagoth Triome
+1 Narset, Parter of Veils
+1 Niv-Mizzet, Parun
+1 Curiosity
+2 Search for Azcanta
+2 Narset, Parter of Veils
+2 Niv-Mizzet, Parun
+2 Curiosity
+3 Niv-Mizzet, Parun
+4 Niv-Mizzet, Parun
+1 Vineglimmer Snarl
+1 Scattered Groves
+1 Rest in Peace
+1 Seal Away
+1 Cast Out
+1 Teferi, Hero of Dominaria
+1 Sunpetal Grove
+1 Temple Garden
+1 Irrigated Farmland
+2 Temple Garden
+2 Hydroid Krasis
+2 Negate
+2 Seal Away
+2 Sunpetal Grove
+3 Mystical Dispute
+3 Hallowed Fountain
+3 Glacial Fortress
+3 Temple Garden
+4 Temple Garden
+4 Hinterland Harbor
+4 Woodweaver's Puzzleknot
+4 Glimmer of Genius
 1 Goldspan Dragon
 2 Goldspan Dragon
 3 Goldspan Dragon
 4 Goldspan Dragon
-4 Woodweaver's Puzzleknot
-4 Glimmer of Genius
 1 Lochmere Serpent
-1 Cunning Nightbonder
-1 Darkbore Pathway
-1 Thieves' Guild Enforcer
-1 Decisive Denial
 1 Clearwater Pathway
+1 Cunning Nightbonder
+1 Thieves' Guild Enforcer
+1 Darkbore Pathway
+1 Decisive Denial
+1 Slitherwisp
 2 Clearwater Pathway
 2 Cunning Nightbonder
-2 Darkbore Pathway
-2 Decisive Denial
 2 Thieves' Guild Enforcer
+2 Darkbore Pathway
+2 Slitherwisp
+2 Decisive Denial
 3 Clearwater Pathway
-3 Cunning Nightbonder
-3 Darkbore Pathway
 3 Decisive Denial
-3 Slitherwisp
+3 Cunning Nightbonder
 3 Thieves' Guild Enforcer
+3 Slitherwisp
+3 Darkbore Pathway
 4 Clearwater Pathway
+4 Thieves' Guild Enforcer
 4 Darkbore Pathway
 4 Slitherwisp
-4 Thieves' Guild Enforcer
+1 Woodland Cemetery
+1 Sinister Sabotage
+2 Sinister Sabotage
+2 Swamp
+3 Heartless Act
+3 Sinister Sabotage
+4 Overgrown Tomb
 4 Whirler Virtuoso
-1 Dual Strike
 1 Llanowar Elves
+1 Dual Strike
 2 Llanowar Elves
 3 Llanowar Elves
 4 Llanowar Elves

@@ -29,10 +29,10 @@
 1 Stronghold Gambit
 2 Stronghold Gambit
 1 Inquisition of Kozilek
-1 Platinum Emperion
 1 Dream Trawler
 1 Island
 1 Profane Tutor
+1 Platinum Emperion
 2 Profane Tutor
 3 Profane Tutor
 4 Profane Tutor
@@ -63,6 +63,8 @@
 1 Archon of Valor's Reach
 1 Crime/Punishment
 2 Crime/Punishment
+1 Lake of the Dead
+2 Grave Titan
 1 Hushbringer
 1 Red Elemental Blast
 2 Hushbringer
@@ -72,15 +74,13 @@
 2 Ragavan, Nimble Pilferer
 1 Abrupt Decay
 2 Abrupt Decay
-1 Lake of the Dead
-2 Grave Titan
+2 Inquisition of Kozilek
+3 Inquisition of Kozilek
 1 Kroxa, Titan of Death's Hunger
 1 Scroll of Fate
 2 Kroxa, Titan of Death's Hunger
 2 Scroll of Fate
 3 Scroll of Fate
-2 Inquisition of Kozilek
-3 Inquisition of Kozilek
 1 Liliana, the Last Hope
 1 Bitterblossom
 1 Cryptbreaker
@@ -95,8 +95,6 @@
 1 Nature's Claim
 2 Hymn to Tourach
 3 Hymn to Tourach
-2 Collective Brutality
-4 Faerie Macabre
 1 Force of Negation
 1 Echoing Truth
 1 Flusterstorm
@@ -105,5 +103,7 @@
 2 Echoing Truth
 3 Surgical Extraction
 4 Surgical Extraction
+2 Collective Brutality
+4 Faerie Macabre
 3 Leyline of the Void
 4 Leyline of the Void

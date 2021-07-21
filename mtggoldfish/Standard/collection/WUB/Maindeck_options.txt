@@ -64,11 +64,11 @@
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
-2 Doomskar
-3 Doomskar
 5 Swamp
 6 Swamp
 7 Swamp
+2 Doomskar
+3 Doomskar
 7 Island
 2 Jwari Disruption
 3 Field of Ruin
@@ -77,27 +77,27 @@
 4 Temple of Enlightenment
 4 Plains
 8 Island
+6 Snow-Covered Island
 1 Elspeth Conquers Death
+1 Skyclave Apparition
 1 The Birth of Meletis
 1 Archon of Sun's Grace
 2 Archon of Sun's Grace
+2 Skyclave Apparition
 2 The Birth of Meletis
 3 The Birth of Meletis
 4 The Birth of Meletis
-6 Snow-Covered Island
-1 Skyclave Apparition
-2 Skyclave Apparition
 1 Dream Trawler
 2 Power Word Kill
-2 Elspeth Conquers Death
-3 Archon of Sun's Grace
 1 Glass Casket
 1 Omen of the Sun
 2 Glass Casket
 2 Omen of the Sun
+2 Elspeth Conquers Death
 1 Niko Aris
 2 Niko Aris
 3 Skyclave Apparition
+3 Archon of Sun's Grace
 5 Plains
 6 Plains
 7 Plains
@@ -109,16 +109,14 @@
 2 Erebos's Intervention
 6 Snow-Covered Swamp
 4 Doomskar
-3 Elspeth Conquers Death
 3 Jwari Disruption
 3 Soul Shatter
 1 Alrund's Epiphany
 2 Alrund's Epiphany
-1 Faceless Haven
-2 Faceless Haven
 1 Yorion, Sky Nomad
 2 Yorion, Sky Nomad
 3 Glass Casket
+3 Elspeth Conquers Death
 3 Yorion, Sky Nomad
 3 Omen of the Sun
 4 Glass Casket
@@ -131,6 +129,8 @@
 2 Ice Tunnel
 3 Ice Tunnel
 4 Ice Tunnel
+1 Faceless Haven
+2 Faceless Haven
 1 Darkbore Pathway
 1 Barkchannel Pathway
 1 Easy Prey
@@ -147,8 +147,6 @@
 2 Test of Talents
 1 Elite Spellbinder
 2 Elite Spellbinder
-1 Banishing Light
-2 Banishing Light
 2 Shadows' Verdict
 4 Skyclave Apparition
 1 Go Blank
@@ -160,7 +158,9 @@
 2 Graven Lore
 3 Eliminate
 2 Professor Onyx
+1 Banishing Light
 1 Tranquil Cove
+2 Banishing Light
 2 Tranquil Cove
 1 Goldspan Dragon
 2 Mountain
@@ -176,20 +176,6 @@
 3 Power Word Kill
 2 Elspeth's Nightmare
 2 Ebondeath, Dracolich
-1 Snow-Covered Plains
-2 Snow-Covered Plains
-3 Snow-Covered Plains
-4 Snow-Covered Plains
-5 Snow-Covered Plains
-6 Snow-Covered Plains
-1 Alseid of Life's Bounty
-1 All That Glitters
-2 All That Glitters
-2 Alseid of Life's Bounty
-3 Banishing Light
-3 All That Glitters
-3 Alseid of Life's Bounty
-4 Alseid of Life's Bounty
 1 Sea Gate Restoration
 3 Test of Talents
 3 Negate
@@ -218,24 +204,38 @@
 1 Shambling Suit
 1 Arcanist's Owl
 1 Rune of Flight
+1 Alseid of Life's Bounty
+1 All That Glitters
 1 Shinechaser
+2 All That Glitters
+2 Alseid of Life's Bounty
 2 Shambling Suit
 2 Shinechaser
 2 Arcanist's Owl
 2 Rune of Flight
+3 Banishing Light
 3 Arcanist's Owl
+3 All That Glitters
 3 Tranquil Cove
+3 Alseid of Life's Bounty
 3 Shambling Suit
 3 Shinechaser
 4 Banishing Light
 4 Arcanist's Owl
 4 Shambling Suit
 4 Shinechaser
+4 Alseid of Life's Bounty
 4 Tranquil Cove
 4 All That Glitters
 9 Plains
 1 Bubble Snare
 1 Banish into Fable
+1 Snow-Covered Plains
+2 Snow-Covered Plains
+3 Snow-Covered Plains
+4 Snow-Covered Plains
+5 Snow-Covered Plains
+6 Snow-Covered Plains
 7 Snow-Covered Island
 7 Snow-Covered Plains
 8 Snow-Covered Island
@@ -278,6 +278,7 @@
 2 Dismal Backwater
 3 Dismal Backwater
 4 Dismal Backwater
+9 Island
 1 Lolth, Spider Queen
 1 Crippling Fear
 1 Flunk
@@ -292,29 +293,3 @@
 4 Faceless Haven
 4 Crippling Fear
 4 Bloodchief's Thirst
-9 Island
-1 Paladin Class
-1 The Book of Exalted Deeds
-1 Branchloft Pathway
-1 Temple of Plenty
-1 Snow-Covered Forest
-1 Ranger Class
-1 Setessan Champion
-1 Calix, Destiny's Hand
-2 Paladin Class
-2 Branchloft Pathway
-2 Castle Ardenvale
-2 Ranger Class
-2 Setessan Champion
-2 Calix, Destiny's Hand
-2 Snow-Covered Forest
-2 Temple of Plenty
-3 Paladin Class
-3 Branchloft Pathway
-3 Snow-Covered Forest
-3 Temple of Plenty
-3 Setessan Champion
-4 Branchloft Pathway
-4 Temple of Plenty
-4 Setessan Champion
-4 Paladin Class

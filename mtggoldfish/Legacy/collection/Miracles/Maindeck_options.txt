@@ -11,8 +11,8 @@
 2 Spell Pierce
 5 Island
 1 Tropical Island
-1 Uro, Titan of Nature's Wrath
 1 Sylvan Library
+1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 2 Misty Rainforest
 3 Misty Rainforest
@@ -76,9 +76,9 @@
 2 Engineered Explosives
 3 Portent
 3 Abundant Harvest
-1 Lightning Bolt
 1 Expressive Iteration
 1 Brazen Borrower
+1 Lightning Bolt
 1 Rip Apart
 2 Expressive Iteration
 2 Rip Apart
@@ -93,36 +93,27 @@
 1 Arid Mesa
 3 Tundra
 4 Terminus
-1 Spell Snare
-1 Frantic Inventory
-2 Frantic Inventory
-3 Frantic Inventory
-4 Frantic Inventory
-2 Counterspell
-2 Windswept Heath
-3 Plains
-7 Island
-1 Underground Sea
-1 Orim's Chant
 1 Street Wraith
+1 Doomsday
 1 Duress
+1 Ideas Unbound
+1 Edge of Autumn
 1 Thassa's Oracle
+1 Orim's Chant
 1 Personal Tutor
 1 Thoughtseize
 1 Lion's Eye Diamond
 1 Swamp
+1 Underground Sea
 1 Scrubland
-1 Ideas Unbound
-1 Doomsday
 1 Dark Ritual
-1 Edge of Autumn
 1 Lotus Petal
 2 Street Wraith
 2 Underground Sea
+2 Doomsday
 2 Duress
 2 Personal Tutor
 2 Dark Ritual
-2 Doomsday
 2 Lotus Petal
 3 Polluted Delta
 3 Street Wraith
@@ -134,6 +125,15 @@
 4 Polluted Delta
 4 Underground Sea
 4 Daze
+4 Doomsday
 4 Dark Ritual
 4 Lotus Petal
-4 Doomsday
+2 Counterspell
+2 Windswept Heath
+3 Plains
+7 Island
+1 Spell Snare
+1 Frantic Inventory
+2 Frantic Inventory
+3 Frantic Inventory
+4 Frantic Inventory

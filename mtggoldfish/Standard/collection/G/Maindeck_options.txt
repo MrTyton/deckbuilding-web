@@ -1,13 +1,15 @@
-1 Primal Might
-1 Lair of the Hydra
-2 Lair of the Hydra
-3 The Great Henge
-1 Stonecoil Serpent
-2 Stonecoil Serpent
-1 Snakeskin Veil
+2 Castle Garenbrig
+4 Jaspera Sentinel
+1 Swarm Shambler
+2 Swarm Shambler
+3 Swarm Shambler
 2 Primal Might
+2 Lair of the Hydra
+4 Old-Growth Troll
+3 Questing Beast
 1 Vorinclex, Monstrous Raider
-1 Yorvo, Lord of Garenbrig
+4 Kazandu Mammoth
+1 Snakeskin Veil
 1 Forest
 2 Forest
 3 Forest
@@ -17,11 +19,17 @@
 7 Forest
 8 Forest
 9 Forest
+1 Tangled Florahedron
+2 Tangled Florahedron
+1 Yorvo, Lord of Garenbrig
+10 Forest
+1 Esika's Chariot
+1 Ochre Jelly
+4 Faceless Haven
 1 Ram Through
 2 Ram Through
 1 Elder Gargaroth
 2 Snakeskin Veil
-10 Forest
 11 Forest
 3 Gemrazer
 1 Garruk's Uprising
@@ -33,73 +41,103 @@
 15 Forest
 16 Forest
 17 Forest
-4 Kazandu Mammoth
+3 Blizzard Brawl
 3 Ram Through
 4 Questing Beast
-4 Old-Growth Troll
-2 Vorinclex, Monstrous Raider
-3 Castle Garenbrig
-3 Stonecoil Serpent
-2 Elder Gargaroth
 1 Gilded Goose
 2 Gilded Goose
-4 Faceless Haven
-1 Esika's Chariot
-3 Blizzard Brawl
+2 Vorinclex, Monstrous Raider
+3 Castle Garenbrig
+4 Stonecoil Serpent
+2 Elder Gargaroth
+3 Gilded Goose
+1 Ellywick Tumblestrum
+1 Loathsome Troll
+2 Loathsome Troll
+3 Tangled Florahedron
+4 Tangled Florahedron
+2 Esika's Chariot
+3 Esika's Chariot
+1 Intrepid Outlander
+2 Intrepid Outlander
+3 Intrepid Outlander
+4 Intrepid Outlander
+1 Temple of Mystery
+1 Island
+2 Island
+3 Island
+4 Island
+5 Island
+20 Snow-Covered Forest
 1 Wild Shape
 2 Wild Shape
 3 Wild Shape
 1 Froghemoth
 2 Froghemoth
+1 Vivien, Monsters' Advocate
 4 Ram Through
-3 Gilded Goose
+1 Garruk, Unleashed
 1 Field of Ruin
-3 Primal Might
-4 Castle Garenbrig
-1 Tangled Florahedron
-2 Tangled Florahedron
 3 Scavenging Ooze
+3 Lair of the Hydra
+4 Gilded Goose
+1 Brazen Borrower
+1 Barkchannel Pathway
+2 Brazen Borrower
+2 Barkchannel Pathway
+2 Temple of Mystery
+3 Barkchannel Pathway
+3 Brazen Borrower
+4 Barkchannel Pathway
+6 Island
+7 Island
+1 Koma, Cosmos Serpent
+1 Decisive Denial
+1 Vineglimmer Snarl
+2 Decisive Denial
+3 Decisive Denial
+3 Garruk's Uprising
+1 Ashaya, Soul of the Wild
+1 Heroic Intervention
+1 Chainweb Aracnir
+2 Chainweb Aracnir
 1 Ilysian Caryatid
 2 Ilysian Caryatid
 3 Ilysian Caryatid
 4 Ilysian Caryatid
+3 Primal Might
+4 Castle Garenbrig
 18 Forest
-1 Heroic Intervention
-1 Chainweb Aracnir
-2 Chainweb Aracnir
-1 Ashaya, Soul of the Wild
-4 Stonecoil Serpent
 1 Bayou Groff
 2 Bayou Groff
 3 Bayou Groff
-1 Decisive Denial
-1 Vineglimmer Snarl
-1 Koma, Cosmos Serpent
-1 Island
-2 Island
-2 Decisive Denial
-3 Decisive Denial
-3 Island
-4 Island
-5 Island
-1 Temple of Mystery
-3 Garruk's Uprising
+1 Edgewall Innkeeper
+2 Edgewall Innkeeper
+3 Edgewall Innkeeper
 1 Skemfar Elderhall
+1 Hall of Oracles
+1 Toski, Bearer of Secrets
+2 Toski, Bearer of Secrets
+3 Toski, Bearer of Secrets
 1 Kogla, the Titan Ape
+1 Fynn, the Fangbearer
 1 Bala Ged Recovery
 1 Nylea, Keen-Eyed
 1 Shadowspear
-1 Fynn, the Fangbearer
 2 Kogla, the Titan Ape
 2 Bala Ged Recovery
 2 Field of Ruin
 3 Field of Ruin
-2 Esika's Chariot
-3 Esika's Chariot
-1 Ochre Jelly
 2 Ochre Jelly
-3 Lair of the Hydra
 3 Ochre Jelly
+4 Blizzard Brawl
+1 Underdark Basilisk
+1 Old Gnawbone
+1 Compelled Duel
+2 Old Gnawbone
+2 Underdark Basilisk
+3 Underdark Basilisk
+4 Underdark Basilisk
 1 Fabled Passage
 1 Augmenter Pugilist
 1 Gnarled Professor
@@ -111,7 +149,6 @@
 4 Bayou Groff
 4 Decisive Denial
 4 Fabled Passage
-1 Garruk, Unleashed
 1 Tanazir Quandrix
 1 Exponential Growth
 1 Cultivate
@@ -119,8 +156,8 @@
 2 Garruk, Unleashed
 2 Tanazir Quandrix
 2 Cultivate
-2 Thornwood Falls
 2 Exponential Growth
+2 Thornwood Falls
 3 Snakeskin Veil
 3 Exponential Growth
 3 Tanazir Quandrix
@@ -135,67 +172,47 @@
 3 Hand of Vecna
 3 Froghemoth
 4 Froghemoth
-1 Vivien, Monsters' Advocate
-1 Gingerbread Cabin
+4 Swarm Shambler
 1 Wicked Wolf
+1 Gingerbread Cabin
 1 Trail of Crumbs
 2 Trail of Crumbs
-2 Wicked Wolf
 2 Gingerbread Cabin
-3 Wicked Wolf
+2 Wicked Wolf
 3 Gingerbread Cabin
 3 Trail of Crumbs
+3 Wicked Wolf
 4 Gemrazer
 4 Wicked Wolf
 4 Trail of Crumbs
-1 Hall of Oracles
-1 Toski, Bearer of Secrets
-2 Toski, Bearer of Secrets
-3 Toski, Bearer of Secrets
-4 Gilded Goose
-1 Intrepid Outlander
-2 Intrepid Outlander
-3 Intrepid Outlander
-4 Swarm Shambler
-4 Intrepid Outlander
+1 Wolfwillow Haven
+1 The Tarrasque
+1 Iymrith, Desert Doom
+1 Hall of Storm Giants
+2 Iymrith, Desert Doom
+2 Wolfwillow Haven
+3 Wolfwillow Haven
+3 Iymrith, Desert Doom
+4 Edgewall Innkeeper
+4 Brazen Borrower
+4 Wolfwillow Haven
 1 Heraldic Banner
 1 Jwari Disruption
-1 Brazen Borrower
-1 Barkchannel Pathway
 2 Koma, Cosmos Serpent
-2 Brazen Borrower
 2 Heraldic Banner
-2 Barkchannel Pathway
-2 Temple of Mystery
-3 Brazen Borrower
-3 Barkchannel Pathway
 3 Heraldic Banner
-4 Barkchannel Pathway
-6 Island
-7 Island
 8 Island
-1 Underdark Basilisk
-1 Compelled Duel
-1 Old Gnawbone
-2 Old Gnawbone
-2 Underdark Basilisk
-3 Underdark Basilisk
-4 Underdark Basilisk
-20 Snow-Covered Forest
 1 Masked Vandal
 1 Battle Mammoth
 1 Almighty Brushwagg
-1 Edgewall Innkeeper
 1 Guardian Gladewalker
-2 Battle Mammoth
 2 Masked Vandal
+2 Battle Mammoth
 2 Guardian Gladewalker
 2 Almighty Brushwagg
-2 Edgewall Innkeeper
 3 Masked Vandal
 3 Guardian Gladewalker
 3 Almighty Brushwagg
-3 Edgewall Innkeeper
 4 Primal Might
 19 Forest
 20 Forest

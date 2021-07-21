@@ -27,19 +27,19 @@
 1 Power Word Kill
 1 Ray of Enfeeblement
 2 Negate
-1 Shark Typhoon
-2 Shark Typhoon
 2 Soul Shatter
 1 Necromentia
 2 Necromentia
-1 Doomskar
-1 Elspeth Conquers Death
+1 Shark Typhoon
+2 Shark Typhoon
 1 Pestilent Haze
 2 Pestilent Haze
 1 Heliod's Intervention
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 2 Erebos's Intervention
+1 Elspeth Conquers Death
+1 Doomskar
 2 Prismari Command
 1 Extinction Event
 1 Suffocating Fumes
@@ -50,9 +50,6 @@
 1 Saw It Coming
 1 Glimpse of Freedom
 1 Vanishing Verse
-1 Glass Casket
-2 Glass Casket
-2 Baneslayer Angel
 1 Essence Scatter
 2 Essence Scatter
 2 Crippling Fear
@@ -62,6 +59,8 @@
 1 Ox of Agonas
 2 Phoenix of Ash
 2 Ox of Agonas
+1 Glass Casket
+2 Glass Casket
 1 Environmental Sciences
 1 Teachings of the Archaics
 1 Banishing Light
@@ -74,16 +73,6 @@
 2 Environmental Sciences
 1 Heartless Act
 2 Heartless Act
-1 Field of Ruin
-1 You Find a Cursed Idol
-1 Shatter the Sky
-2 You Find a Cursed Idol
-2 Field of Ruin
-2 Heliod's Intervention
-2 Shatter the Sky
-2 Yorion, Sky Nomad
-3 You Find a Cursed Idol
-3 Shatter the Sky
 1 Iymrith, Desert Doom
 1 Dragon Turtle
 2 Iymrith, Desert Doom
@@ -97,6 +86,7 @@
 3 Test of Talents
 1 Elspeth, Sun's Nemesis
 1 Hushbringer
+2 Baneslayer Angel
 2 Elspeth, Sun's Nemesis
 2 Hushbringer
 3 Baneslayer Angel
