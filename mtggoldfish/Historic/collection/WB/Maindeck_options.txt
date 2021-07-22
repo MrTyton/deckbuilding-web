@@ -1,90 +1,97 @@
 2 Castle Locthwain
-5 Swamp
 1 Vanishing Verse
 2 Vanishing Verse
+5 Swamp
 3 Ifnir Deadlands
+1 Dire Tactics
 4 Ifnir Deadlands
 3 Sign in Blood
 4 Sign in Blood
+1 Silverquill Silencer
+2 Silverquill Silencer
+3 Silverquill Silencer
+2 Dire Tactics
 1 Blood Crypt
 2 Blood Crypt
 3 Blood Crypt
 4 Blood Crypt
 1 Shock
-1 Fabled Passage
-1 Footfall Crater
-1 Mountain
-1 Kroxa, Titan of Death's Hunger
 1 Blightstep Pathway
+1 Fabled Passage
+1 Kroxa, Titan of Death's Hunger
+1 Mountain
+1 Footfall Crater
 1 Ramunap Ruins
-2 Fabled Passage
 2 Blightstep Pathway
+2 Fabled Passage
 2 Footfall Crater
-3 Fabled Passage
 3 Blightstep Pathway
+3 Fabled Passage
 3 Footfall Crater
 4 Blightstep Pathway
 1 Lurrus of the Dream-Den
-1 Dire Tactics
 1 Shefet Dunes
+1 Plains
 2 Shock
 2 Kroxa, Titan of Death's Hunger
 4 Footfall Crater
-1 Silverquill Silencer
-2 Silverquill Silencer
-3 Silverquill Silencer
-2 Dire Tactics
-1 Plains
-3 Shock
 1 Elite Spellbinder
 2 Elite Spellbinder
 3 Elite Spellbinder
+1 Skyclave Apparition
+2 Skyclave Apparition
+3 Shock
+3 Skyclave Apparition
+4 Silverquill Silencer
 4 Shock
 3 Kroxa, Titan of Death's Hunger
 4 Kroxa, Titan of Death's Hunger
-1 Skyclave Apparition
-2 Skyclave Apparition
-3 Skyclave Apparition
-4 Silverquill Silencer
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
+4 Elite Spellbinder
 2 Emeria's Call
 1 Bloodchief's Thirst
+1 Castle Ardenvale
+2 Plains
 4 Skyclave Apparition
-4 Elite Spellbinder
+1 Thalia, Guardian of Thraben
+2 Thalia, Guardian of Thraben
 2 Ramunap Ruins
 2 Mountain
 2 Shefet Dunes
-1 Thalia, Guardian of Thraben
-2 Thalia, Guardian of Thraben
-1 Castle Ardenvale
-2 Plains
-1 Blinkmoth Nexus
 1 Reidane, God of the Worthy
-2 Blinkmoth Nexus
 2 Reidane, God of the Worthy
-3 Blinkmoth Nexus
 3 Thalia, Guardian of Thraben
+1 Selfless Savior
+1 Blinkmoth Nexus
+2 Blinkmoth Nexus
+3 Blinkmoth Nexus
 4 Blinkmoth Nexus
+2 Castle Ardenvale
+1 Archon of Emeria
+2 Archon of Emeria
 1 Savai Triome
 1 Ajani, Adversary of Tyrants
 1 Glint-Sleeve Siphoner
 2 Savai Triome
 2 Glint-Sleeve Siphoner
-2 Castle Ardenvale
 2 Ajani, Adversary of Tyrants
 3 Glint-Sleeve Siphoner
 4 Glint-Sleeve Siphoner
-1 Archon of Emeria
-2 Archon of Emeria
 1 Cling to Dust
-1 Selfless Savior
 2 Bloodchief's Thirst
 3 Emeria's Call
 4 Emeria's Call
 1 Silverquill Command
+1 Luminarch Aspirant
+2 Luminarch Aspirant
+3 Dire Tactics
+1 Thraben Inspector
+2 Thraben Inspector
+3 Plains
+4 Plains
 1 Kolaghan's Command
 4 Thalia, Guardian of Thraben
 1 Mana Tithe
@@ -93,20 +100,27 @@
 2 Shineshadow Snarl
 3 Shineshadow Snarl
 4 Shineshadow Snarl
-1 Luminarch Aspirant
-2 Luminarch Aspirant
 3 Luminarch Aspirant
 4 Luminarch Aspirant
 2 Silverquill Command
+2 Selfless Savior
+3 Selfless Savior
+3 Thraben Inspector
 1 Sejiri Shelter
 1 Alseid of Life's Bounty
-2 Mana Tithe
 1 Maul of the Skyclaves
 2 Maul of the Skyclaves
-2 Selfless Savior
 2 Faerie Guidemother
-3 Selfless Savior
-3 Dire Tactics
+2 Mana Tithe
+1 General Kudro of Drannith
+1 Seasoned Hallowblade
+2 General Kudro of Drannith
+2 Seasoned Hallowblade
+2 Giant Killer
+3 Vanishing Verse
+3 Seasoned Hallowblade
+3 General Kudro of Drannith
+4 Seasoned Hallowblade
 1 Crawling Barrens
 1 Baleful Mastery
 1 Killian, Ink Duelist
@@ -115,11 +129,9 @@
 2 Killian, Ink Duelist
 3 Crawling Barrens
 3 Silverquill Command
-3 Plains
-4 Plains
 4 Silverquill Command
-1 Fling
 1 Sacred Foundry
+1 Fling
 2 Fling
 2 Sacred Foundry
 3 Sacred Foundry
@@ -130,12 +142,29 @@
 4 Shefet Dunes
 1 Cast Down
 1 Heartless Act
-1 Thraben Inspector
 2 Cast Down
 2 Heartless Act
-2 Thraben Inspector
-3 Thraben Inspector
 4 Thraben Inspector
+1 Tithe Taker
+1 Bojuka Bog
+1 Drannith Magistrate
+1 Isolated Chapel
+1 Kambal, Consul of Allocation
+1 Temple of Silence
+2 Tithe Taker
+2 Drannith Magistrate
+2 Isolated Chapel
+2 Kambal, Consul of Allocation
+3 Tithe Taker
+3 Reidane, God of the Worthy
+3 Drannith Magistrate
+3 Archon of Emeria
+3 Isolated Chapel
+3 Kambal, Consul of Allocation
+4 Isolated Chapel
+5 Plains
+6 Plains
+7 Plains
 1 Feed the Swarm
 1 Demonic Embrace
 1 Duress

@@ -1,18 +1,18 @@
 2 Mystical Dispute
 1 Fry
-3 Mystical Dispute
-2 Anger of the Gods
-3 Anger of the Gods
 1 Narset, Parter of Veils
+2 Anger of the Gods
+3 Mystical Dispute
 2 Fry
+3 Anger of the Gods
+2 Narset, Parter of Veils
 4 Mystical Dispute
 3 Fry
-2 Narset, Parter of Veils
 1 Rowan, Scholar of Sparks
 2 Rowan, Scholar of Sparks
 3 Rowan, Scholar of Sparks
-3 Relic of Progenitus
 3 Flunk
+3 Relic of Progenitus
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 1 Abrade
@@ -21,27 +21,23 @@
 3 Soul-Guide Lantern
 1 Chaos Warp
 2 Chandra, Awakened Inferno
-1 Noxious Grasp
 1 Ashiok, Dream Render
+1 Noxious Grasp
 1 Crippling Fear
 2 Crippling Fear
-1 Duress
 1 Chandra, Torch of Defiance
 1 Miscast
 2 Chandra, Torch of Defiance
 2 Miscast
-1 Cling to Dust
-1 Disdainful Stroke
-1 Test of Talents
-2 Test of Talents
-2 Duress
-1 Baleful Mastery
-2 Baleful Mastery
-2 Cling to Dust
+1 Feed the Swarm
+2 Feed the Swarm
+1 Pact of Negation
+1 Sweltering Suns
 1 Go Blank
 2 Noxious Grasp
-1 Extinction Event
 1 Aether Gust
+1 Duress
+1 Extinction Event
 1 The Scarab God
 1 Enter the God-Eternals
 2 Aether Gust
@@ -58,44 +54,42 @@
 2 Rip Apart
 2 Lightning Helix
 3 Lightning Helix
-1 Sweltering Suns
-1 Feed the Swarm
-2 Feed the Swarm
-1 Pact of Negation
 3 Thoughtseize
 1 Leyline of the Void
 2 Sweltering Suns
 2 Leyline of the Void
-3 Abrade
 3 Leyline of the Void
+3 Abrade
+1 Scorching Dragonfire
+2 Scorching Dragonfire
+1 Eliminate
 1 Grafdigger's Cage
 2 Grafdigger's Cage
-1 Thought Distortion
+1 Cling to Dust
 1 Niv-Mizzet, Parun
 1 Ugin, the Spirit Dragon
 1 Storm's Wrath
 1 Baral, Chief of Compliance
 1 Baral's Expertise
-1 Scorching Dragonfire
-2 Scorching Dragonfire
 1 Unmoored Ego
 2 Unmoored Ego
+1 Disdainful Stroke
+1 Test of Talents
 2 Disdainful Stroke
-1 Eliminate
-1 Witch's Vengeance
-1 Shifting Ceratops
-1 Casualties of War
-1 Cinderclasm
-1 Glorybringer
-1 Cindervines
-1 Klothys, God of Destiny
-2 Extinction Event
-2 Klothys, God of Destiny
-2 Cindervines
-2 Shifting Ceratops
+2 Test of Talents
+2 Duress
+1 Shark Typhoon
+1 God-Eternal Kefnet
+2 Shark Typhoon
+3 Shark Typhoon
+2 Ashiok, Dream Render
+2 Pact of Negation
+3 Pact of Negation
+3 Ashiok, Dream Render
 1 Brazen Borrower
 2 Brazen Borrower
 3 Brazen Borrower
+1 Thought Distortion
 3 Negate
 3 Feed the Swarm
 3 Sweltering Suns
@@ -104,17 +98,19 @@
 3 Ral, Storm Conduit
 1 Wilt
 1 Magma Spray
-2 Eliminate
 2 Wilt
 2 Magma Spray
+2 Eliminate
 3 Wilt
 3 Grafdigger's Cage
 3 Eliminate
 4 Grafdigger's Cage
+1 Baleful Mastery
 1 Crux of Fate
 1 Silumgar's Command
 1 Memory Lapse
 1 Murderous Rider
+2 Baleful Mastery
 2 Murderous Rider
 2 Memory Lapse
 3 Baleful Mastery

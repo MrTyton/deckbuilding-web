@@ -37,7 +37,7 @@
 |                     |                                                                                                |                    4|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)|
 |                     |                                                                                                |                    4|Lolth, Spider Queen                                                                           |
 |                     |                                                                                                |                    1|[Necromentia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485439)        |
-|                     |                                                                                                |                    1|[Elspeth's Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476342)|
 |                     |                                                                                                |                    2|[Elspeth's Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476342)|
 |                     |                                                                                                |                    3|[Elspeth's Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476342)|
+|                     |                                                                                                |                    1|[Elspeth's Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476342)|
 

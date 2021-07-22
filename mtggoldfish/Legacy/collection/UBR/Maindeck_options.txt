@@ -1,22 +1,22 @@
-2 Brazen Borrower
 1 Gurmag Angler
-1 Mystic Sanctuary
+2 Brazen Borrower
 1 Ethereal Forager
 2 Ethereal Forager
+1 Mystic Sanctuary
 1 Liliana, the Last Hope
 1 Liliana's Triumph
 1 Plague Engineer
 2 Narset, Parter of Veils
 2 Gurmag Angler
-1 Prismatic Vista
 2 Snow-Covered Swamp
 3 Fatal Push
-2 Prismatic Vista
+1 Prismatic Vista
 2 Drown in the Loch
 2 Plague Engineer
 1 Misty Rainforest
 3 Lightning Bolt
 3 Kolaghan's Command
+2 Prismatic Vista
 1 Mountain
 3 Bloodstained Mire
 1 Murderous Cut
@@ -28,25 +28,23 @@
 2 Spell Pierce
 4 Snow-Covered Island
 1 Hullbreacher
-1 Sudden Edict
-2 Cling to Dust
 2 Liliana's Triumph
 3 Ethereal Forager
-1 Darkblast
-1 Murktide Regent
+1 Sudden Edict
 1 Flooded Strand
-3 Island
+2 Cling to Dust
 1 Watery Grave
 1 Steam Vents
+1 Darkblast
+1 Murktide Regent
 2 Sudden Edict
 1 Profane Tutor
 1 Angrath's Rampage
-2 Inquisition of Kozilek
 4 Scalding Tarn
+2 Inquisition of Kozilek
 1 Eliminate
+3 Island
 4 Fatal Push
-3 Prismatic Vista
-4 Island
 1 Snow-Covered Mountain
 3 Narset, Parter of Veils
 3 Inquisition of Kozilek
@@ -54,29 +52,25 @@
 1 Blood Moon
 2 Liliana, the Last Hope
 3 Volcanic Island
-1 Snuff Out
-3 Thoughtseize
-4 Thoughtseize
 1 Go for the Throat
 2 Eliminate
 3 Swamp
 1 Preordain
-1 Sedgemoor Witch
-1 Flusterstorm
-2 Sedgemoor Witch
-2 Flusterstorm
-3 Sedgemoor Witch
-4 Prismatic Vista
+3 Prismatic Vista
+4 Island
 4 Lightning Bolt
 1 Death's Shadow
 1 Street Wraith
-2 Watery Grave
+1 Snuff Out
 2 Death's Shadow
+2 Watery Grave
 2 Street Wraith
 2 Steam Vents
+3 Thoughtseize
 3 Death's Shadow
 3 Street Wraith
 4 Street Wraith
+4 Thoughtseize
 4 Death's Shadow
 1 Daze
 2 Daze
@@ -88,18 +82,6 @@
 1 Ashiok, Nightmare Muse
 2 Vendilion Clique
 2 Blood Moon
-1 Thought Scour
-1 Ash Barrens
-2 Thought Scour
-2 Murktide Regent
-3 Thought Scour
-3 Murktide Regent
-4 Thought Scour
-4 Murktide Regent
-1 Expressive Iteration
-2 Expressive Iteration
-3 Expressive Iteration
-4 Expressive Iteration
 1 Deceiver Exarch
 1 Blood Crypt
 1 Splinter Twin
@@ -108,36 +90,46 @@
 3 Deceiver Exarch
 3 Splinter Twin
 4 Deceiver Exarch
-2 Flooded Strand
-3 Flooded Strand
-4 Ethereal Forager
-4 Underground Sea
+1 Breeding Pool
 1 Unearth
-1 Temur Battle Rage
 1 Chain of Smog
 1 Dismember
+1 Witherbloom Apprentice
 1 Delver of Secrets
 1 Overgrown Tomb
 1 Reanimate
-1 Witherbloom Apprentice
-1 Breeding Pool
+1 Temur Battle Rage
 2 Chain of Smog
-2 Delver of Secrets
 2 Witherbloom Apprentice
+2 Delver of Secrets
 2 Overgrown Tomb
 3 Misty Rainforest
 3 Daze
 3 Watery Grave
-3 Delver of Secrets
 3 Witherbloom Apprentice
+3 Delver of Secrets
 4 Misty Rainforest
 4 Daze
 4 Delver of Secrets
+2 Flooded Strand
+3 Flooded Strand
+4 Underground Sea
+4 Ethereal Forager
+1 Sedgemoor Witch
+1 Flusterstorm
 1 Mystic Reflection
+2 Sedgemoor Witch
 2 Preordain
+2 Flusterstorm
 3 Flusterstorm
+3 Sedgemoor Witch
 4 Sedgemoor Witch
 4 Swamp
+1 Expressive Iteration
+2 Expressive Iteration
+3 Expressive Iteration
+4 Expressive Iteration
+4 Prismatic Vista
 1 Spellstutter Sprite
 1 Umezawa's Jitte
 1 Mutavault
@@ -157,5 +149,5 @@
 3 Brazen Borrower
 3 Cunning Nightbonder
 4 Spellstutter Sprite
-4 Cunning Nightbonder
 4 Mutavault
+4 Cunning Nightbonder

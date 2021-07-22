@@ -3,6 +3,7 @@
 1 Dauntless Bodyguard
 2 Dauntless Bodyguard
 3 Dauntless Bodyguard
+4 Dauntless Bodyguard
 1 Mana Tithe
 2 Mana Tithe
 1 Plains
@@ -33,10 +34,6 @@
 4 Tempered Steel
 4 Stonecoil Serpent
 4 Steel Overseer
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
-4 Dauntless Bodyguard
 1 Skymarcher Aspirant
 2 Skymarcher Aspirant
 1 Court Homunculus
@@ -45,6 +42,9 @@
 5 Plains
 1 Servo Exhibition
 2 Servo Exhibition
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
 1 Scrapheap Scrounger
 2 Scrapheap Scrounger
 1 Godless Shrine
@@ -61,7 +61,6 @@
 4 Needleverge Pathway
 1 Loyal Warhound
 2 Loyal Warhound
-4 Legion's Landing
 4 Court Homunculus
 6 Plains
 7 Plains
@@ -74,7 +73,6 @@
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
-3 Reidane, God of the Worthy
 1 Maul of the Skyclaves
 2 Maul of the Skyclaves
 1 Containment Priest
@@ -103,6 +101,7 @@
 2 Godless Shrine
 3 Godless Shrine
 4 Godless Shrine
+4 Legion's Landing
 1 Mountain
 1 Light Up the Stage
 2 Mountain
@@ -119,26 +118,19 @@
 1 Ramunap Ruins
 2 Inspiring Vantage
 2 Ramunap Ruins
-3 Sacred Foundry
 3 Inspiring Vantage
+3 Sacred Foundry
 3 Showdown of the Skalds
 3 Ramunap Ruins
-4 Sacred Foundry
 4 Inspiring Vantage
+4 Sacred Foundry
 4 Ramunap Ruins
-1 Drannith Magistrate
-2 Drannith Magistrate
-1 Alseid of Life's Bounty
-2 Alseid of Life's Bounty
+3 Reidane, God of the Worthy
 1 Hope of Ghirapur
 2 Hope of Ghirapur
 3 Mana Tithe
 3 Scrapheap Scrounger
 4 Scrapheap Scrounger
-1 Unbreakable Formation
-2 Unbreakable Formation
-3 Unbreakable Formation
-4 Unbreakable Formation
 2 Isolated Chapel
 1 Hallowed Fountain
 1 Island
@@ -151,38 +143,40 @@
 2 Concealed Courtyard
 1 Temple Garden
 1 Branchloft Pathway
-2 Temple Garden
 2 Branchloft Pathway
-3 Temple Garden
+2 Temple Garden
 3 Branchloft Pathway
+3 Temple Garden
 4 Temple Garden
 1 Teferi's Protection
-1 Castle Ardenvale
-1 Rest in Peace
-2 Rest in Peace
+1 Alseid of Life's Bounty
 1 Cave of the Frost Dragon
 1 Paladin Class
+2 Alseid of Life's Bounty
 2 Cave of the Frost Dragon
 2 Paladin Class
-1 You Hear Something on Watch
-2 You Hear Something on Watch
+1 Rest in Peace
+1 Castle Ardenvale
+1 Drannith Magistrate
+2 Rest in Peace
+2 Drannith Magistrate
 1 Sword of Body and Mind
 2 Sword of Body and Mind
 1 Collected Company
 1 Silverquill Silencer
+1 Kitesail Freebooter
 1 Thoughtseize
 1 Vanishing Verse
 1 Overgrown Tomb
-1 Kitesail Freebooter
 1 Inquisition of Kozilek
 1 Blooming Marsh
 2 Overgrown Tomb
 2 Collected Company
 2 Silverquill Silencer
+2 Kitesail Freebooter
 2 Thoughtseize
 2 Vanishing Verse
 2 Blooming Marsh
-2 Kitesail Freebooter
 2 Inquisition of Kozilek
 3 Overgrown Tomb
 3 Collected Company
@@ -200,12 +194,6 @@
 3 Hengegate Pathway
 4 Hengegate Pathway
 4 Spire of Industry
-1 Militia Bugler
-2 Militia Bugler
-3 Alseid of Life's Bounty
-3 Militia Bugler
-3 Drannith Magistrate
-4 Alseid of Life's Bounty
 4 Loyal Warhound
 1 Glass Casket
 1 Venerated Loxodon
@@ -214,20 +202,6 @@
 3 Isolated Chapel
 3 Venerated Loxodon
 4 Venerated Loxodon
-1 Shineshadow Snarl
-1 Whirler Rogue
-1 Glacial Fortress
-1 Skilled Animator
-2 Shineshadow Snarl
-2 Skilled Animator
-2 Glacial Fortress
-2 Whirler Rogue
-3 Island
-3 Skilled Animator
-3 Glacial Fortress
-4 Island
-4 Skilled Animator
-4 Glacial Fortress
 1 Heart of Kiran
 1 Chief of the Foundry
 2 Heart of Kiran
@@ -240,6 +214,42 @@
 4 Toolcraft Exemplar
 4 Concealed Courtyard
 4 Chief of the Foundry
+1 Dromoka's Command
+1 Indatha Triome
+1 Sunpetal Grove
+1 Scattered Groves
+1 Forest
+1 Vorinclex, Monstrous Raider
+2 Indatha Triome
+2 Sunpetal Grove
+2 Dromoka's Command
+2 Vorinclex, Monstrous Raider
+2 Scattered Groves
+3 Sunpetal Grove
+3 Scavenger Grounds
+3 Dromoka's Command
+4 Dromoka's Command
+1 Shineshadow Snarl
+1 Unbreakable Formation
+1 Whirler Rogue
+1 Glacial Fortress
+1 Skilled Animator
+2 Shineshadow Snarl
+2 Unbreakable Formation
+2 Skilled Animator
+2 Glacial Fortress
+2 Whirler Rogue
+3 Island
+3 Unbreakable Formation
+3 Skilled Animator
+3 Glacial Fortress
+4 Island
+4 Skilled Animator
+4 Glacial Fortress
+4 Unbreakable Formation
+1 Halvar, God of Battle
+2 Halvar, God of Battle
+20 Snow-Covered Plains
 1 Karametra's Blessing
 1 Built to Last
 2 Karametra's Blessing
@@ -252,21 +262,3 @@
 14 Plains
 15 Plains
 16 Plains
-1 Halvar, God of Battle
-2 Halvar, God of Battle
-20 Snow-Covered Plains
-1 Dromoka's Command
-1 Vorinclex, Monstrous Raider
-1 Sunpetal Grove
-1 Scattered Groves
-1 Indatha Triome
-1 Forest
-2 Dromoka's Command
-2 Vorinclex, Monstrous Raider
-2 Sunpetal Grove
-2 Indatha Triome
-2 Scattered Groves
-3 Scavenger Grounds
-3 Sunpetal Grove
-3 Dromoka's Command
-4 Dromoka's Command
