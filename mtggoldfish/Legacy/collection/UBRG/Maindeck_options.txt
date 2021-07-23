@@ -1,4 +1,5 @@
 1 Snow-Covered Mountain
+3 Taiga
 1 Scalding Tarn
 2 Scalding Tarn
 1 Street Wraith
@@ -13,11 +14,10 @@
 1 Assassin's Trophy
 1 Punishing Fire
 1 Grove of the Burnwillows
-1 Drown in the Loch
 1 Karakas
-1 Toxic Deluge
 1 Dack Fayden
 1 Cling to Dust
+1 Toxic Deluge
 1 Snapcaster Mage
 1 Carpet of Flowers
 1 Pyroblast
@@ -30,6 +30,7 @@
 1 Ponder
 1 Snow-Covered Forest
 1 Underground Sea
+1 Drown in the Loch
 1 Uro, Titan of Nature's Wrath
 1 Lightning Bolt
 1 Verdant Catacombs
@@ -41,12 +42,11 @@
 2 Fatal Push
 2 Punishing Fire
 2 Grove of the Burnwillows
-2 Drown in the Loch
 2 Assassin's Trophy
 2 Force of Negation
 2 Leovold, Emissary of Trest
-2 Dack Fayden
 2 Volcanic Island
+2 Dack Fayden
 2 Cling to Dust
 2 Snapcaster Mage
 2 Ponder
@@ -56,6 +56,7 @@
 2 Lightning Bolt
 2 Brainstorm
 2 Polluted Delta
+2 Drown in the Loch
 2 Baleful Strix
 2 Uro, Titan of Nature's Wrath
 2 Snow-Covered Forest
@@ -82,7 +83,6 @@
 4 Ponder
 4 Force of Will
 4 Brainstorm
-3 Taiga
 4 Street Wraith
 1 Asylum Visitor
 2 Asylum Visitor
@@ -98,10 +98,10 @@
 4 Fiery Temper
 4 Careful Study
 1 Gamble
-2 Fiery Islet
-3 Arid Mesa
 2 Gamble
 3 Gamble
+2 Fiery Islet
+3 Arid Mesa
 1 Firestorm
 1 Kitchen Imp
 2 Firestorm

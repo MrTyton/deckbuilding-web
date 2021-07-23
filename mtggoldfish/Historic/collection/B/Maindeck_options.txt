@@ -1,8 +1,8 @@
 1 Mind Stone
 1 Guardian Idol
 1 Ugin, the Spirit Dragon
-2 Ugin, the Spirit Dragon
 2 Mind Stone
+2 Ugin, the Spirit Dragon
 2 Guardian Idol
 3 Mind Stone
 3 Guardian Idol
@@ -10,8 +10,8 @@
 1 Forsaken Monument
 1 Radiant Fountain
 1 Hedron Archive
-2 Forsaken Monument
 2 Radiant Fountain
+2 Forsaken Monument
 2 Hedron Archive
 3 Radiant Fountain
 3 Hedron Archive
@@ -27,8 +27,8 @@
 1 Crawling Barrens
 1 Ulamog, the Ceaseless Hunger
 1 Golos, Tireless Pilgrim
-1 Aether Hub
 1 Cascading Cataracts
+1 Aether Hub
 1 Ifnir Deadlands
 2 Ifnir Deadlands
 3 Ifnir Deadlands
@@ -64,13 +64,13 @@
 2 Fatal Push
 3 Gifted Aetherborn
 4 Gifted Aetherborn
-1 Vito, Thorn of the Dusk Rose
 1 Dusk Legion Zealot
+1 Vito, Thorn of the Dusk Rose
 1 Sorin, Imperious Bloodlord
 1 Champion of Dusk
-2 Vito, Thorn of the Dusk Rose
 2 Dusk Legion Zealot
 2 Champion of Dusk
+2 Vito, Thorn of the Dusk Rose
 2 Sorin, Imperious Bloodlord
 3 Sorin, Imperious Bloodlord
 3 Dusk Legion Zealot
@@ -125,25 +125,25 @@
 2 Arch of Orazca
 1 The World Tree
 1 Field of Ruin
-1 Forgotten Cave
-1 Shatterskull Smashing
-1 Chandra, Torch of Defiance
-1 Anger of the Gods
-1 Chandra, Awakened Inferno
-1 Redcap Melee
-1 Mountain
 1 Ramunap Ruins
+1 Mountain
+1 Forgotten Cave
+1 Chandra, Torch of Defiance
+1 Redcap Melee
+1 Chandra, Awakened Inferno
+1 Anger of the Gods
+1 Shatterskull Smashing
 2 Shatterskull Smashing
-2 Chandra, Torch of Defiance
+2 Ramunap Ruins
+2 Mountain
+2 Redcap Melee
+2 Chandra, Awakened Inferno
 2 Forgotten Cave
+2 Chandra, Torch of Defiance
 2 Grafdigger's Cage
 2 Anger of the Gods
-2 Chandra, Awakened Inferno
-2 Redcap Melee
-2 Mountain
-2 Ramunap Ruins
-3 Chandra, Torch of Defiance
 3 Anger of the Gods
+3 Chandra, Torch of Defiance
 3 Ramunap Ruins
 3 Mountain
 4 Chandra, Torch of Defiance
@@ -174,8 +174,8 @@
 1 Bonders' Enclave
 1 Crypt of the Eternals
 2 Ghost Quarter
-2 Crypt of the Eternals
 2 The World Tree
+2 Crypt of the Eternals
 2 Myriad Construct
 3 Ugin, the Ineffable
 3 Coldsteel Heart
@@ -194,8 +194,8 @@
 4 Castle Locthwain
 1 Mystic Forge
 1 Aetherflux Reservoir
-1 Witch's Oven
 1 Paradox Engine
+1 Witch's Oven
 1 Tyrite Sanctum
 1 Metalwork Colossus
 2 Field of Ruin

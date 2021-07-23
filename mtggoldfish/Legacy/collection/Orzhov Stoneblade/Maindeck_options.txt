@@ -8,6 +8,7 @@
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 3 Snow-Covered Swamp
+1 Damn
 1 Opposition Agent
 2 Opposition Agent
 1 Fatal Push
@@ -22,7 +23,6 @@
 1 Kaya's Guile
 3 Polluted Delta
 4 Polluted Delta
-1 Damn
 6 Snow-Covered Swamp
 1 Sedgemoor Witch
 2 Sedgemoor Witch
@@ -45,13 +45,13 @@
 1 Prismatic Vista
 1 Dauthi Voidwalker
 1 Sudden Edict
-2 Prismatic Vista
 2 Damn
+2 Prismatic Vista
 2 Dauthi Voidwalker
 1 Bloodstained Mire
 2 Bloodstained Mire
-1 Castle Ardenvale
 1 Shambling Vent
+1 Castle Ardenvale
 2 Cling to Dust
 3 Cling to Dust
 3 Castle Locthwain
@@ -121,5 +121,5 @@
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
-11 Snow-Covered Swamp
 10 Snow-Covered Swamp
+11 Snow-Covered Swamp
