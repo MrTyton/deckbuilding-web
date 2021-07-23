@@ -8,11 +8,11 @@
 2 Seal of Primordium
 3 Break the Ice
 1 Collector Ouphe
-2 Assassin's Trophy
 1 Natural State
 1 Doom Blade
 2 Natural State
 2 Doom Blade
+2 Assassin's Trophy
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
 1 Ashiok, Dream Render
@@ -29,22 +29,13 @@
 2 Witch's Vengeance
 1 Grafdigger's Cage
 1 Torpor Orb
-1 Endurance
 1 Unravel the Aether
 2 Surgical Extraction
 1 Duress
 1 Blightbeetle
+1 Endurance
 1 Soul-Guide Lantern
-1 Thoughtseize
-1 Abrupt Decay
-2 Endurance
-1 Fatal Push
-2 Fatal Push
-1 Force of Vigor
-2 Force of Vigor
 1 Chalice of the Void
-1 Vraska, Golgari Queen
-2 Thoughtseize
 1 Eliminate
 1 Feed the Swarm
 1 Go for the Throat
@@ -57,21 +48,25 @@
 2 Cursed Totem
 1 Tarmogoyf
 1 Pithing Needle
+1 Fatal Push
 1 Weather the Storm
 1 Relic of Progenitus
 1 Damping Sphere
 2 Damping Sphere
+2 Fatal Push
 2 Weather the Storm
 2 Pithing Needle
 3 Damping Sphere
 3 Collective Brutality
+1 Thoughtseize
 1 Deglamer
 3 Rain of Tears
 1 Cling to Dust
+1 Abrupt Decay
 2 Cling to Dust
 3 Engineered Explosives
-1 Infernal Reckoning
 1 Choke
+1 Infernal Reckoning
 1 Fulminator Mage
 2 Infernal Reckoning
 2 Fulminator Mage
@@ -87,11 +82,14 @@
 2 Dark Confidant
 3 Dark Confidant
 1 Plague Engineer
+2 Endurance
 2 Plague Engineer
 3 Endurance
 1 Inquisition of Kozilek
 1 Necropede
+1 Force of Vigor
 2 Soul-Guide Lantern
+2 Force of Vigor
 2 Necropede
 2 Inquisition of Kozilek
 2 Tarmogoyf
