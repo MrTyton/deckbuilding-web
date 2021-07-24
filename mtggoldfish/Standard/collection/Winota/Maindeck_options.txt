@@ -30,8 +30,8 @@
 2 Embercleave
 3 Branchloft Pathway
 3 Cragcrown Pathway
-4 Cragcrown Pathway
 4 Branchloft Pathway
+4 Cragcrown Pathway
 2 Seasoned Hallowblade
 3 Alseid of Life's Bounty
 4 Shatterskull Smashing
@@ -62,8 +62,8 @@
 12 Plains
 1 Basri's Lieutenant
 1 Brightclimb Pathway
-2 Basri's Lieutenant
 2 Brightclimb Pathway
+2 Basri's Lieutenant
 1 Blightstep Pathway
 1 Barkchannel Pathway
 1 Darkbore Pathway
@@ -74,14 +74,14 @@
 2 Reidane, God of the Worthy
 3 Blightstep Pathway
 3 Darkbore Pathway
+3 Reidane, God of the Worthy
 3 Gilded Goose
 3 Kenrith, the Returned King
-3 Reidane, God of the Worthy
-4 Darkbore Pathway
 4 Reidane, God of the Worthy
-4 Kenrith, the Returned King
-4 Gilded Goose
+4 Darkbore Pathway
 4 Jaspera Sentinel
+4 Gilded Goose
+4 Kenrith, the Returned King
 4 Alseid of Life's Bounty
 4 Magda, Brazen Outlaw
 1 Skyclave Cleric
@@ -105,18 +105,18 @@
 3 Fabled Passage
 1 Forest
 1 Kabira Takedown
-1 Maja, Bretagard Protector
 1 Lair of the Hydra
-1 Temple of Plenty
 1 Prosperous Innkeeper
+1 Maja, Bretagard Protector
+1 Temple of Plenty
 1 Minsc, Beloved Ranger
 1 Ochre Jelly
-2 Minsc, Beloved Ranger
 2 Forest
 2 Kabira Takedown
-2 Temple of Plenty
 2 Prosperous Innkeeper
 2 Ochre Jelly
+2 Temple of Plenty
+2 Minsc, Beloved Ranger
 2 Maja, Bretagard Protector
 3 Prosperous Innkeeper
 3 Ochre Jelly
@@ -125,14 +125,14 @@
 4 Fabled Passage
 4 Ochre Jelly
 7 Mountain
-2 Snow-Covered Plains
 2 Snow-Covered Mountain
-3 Snow-Covered Plains
+2 Snow-Covered Plains
 3 Snow-Covered Mountain
-4 Snow-Covered Plains
+3 Snow-Covered Plains
 4 Snow-Covered Mountain
-5 Snow-Covered Plains
+4 Snow-Covered Plains
 5 Snow-Covered Mountain
+5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
@@ -156,13 +156,6 @@
 3 Shaile, Dean of Radiance
 3 Brightclimb Pathway
 4 Blightstep Pathway
-1 Clarion Spirit
-2 Clarion Spirit
-3 Clarion Spirit
-3 Showdown of the Skalds
-3 Skyclave Cleric
-4 Clarion Spirit
-4 Skyclave Cleric
 1 Proud Wildbonder
 2 Proud Wildbonder
 3 Temple of Triumph
@@ -172,7 +165,6 @@
 3 Basri's Lieutenant
 4 Basri's Lieutenant
 1 Riverglide Pathway
-1 Emeria's Call
 1 Terror of the Peaks
 1 Mila, Crafty Companion
 1 Mythos of Vadrok
@@ -180,12 +172,13 @@
 1 Hofri Ghostforge
 1 Drannith Magistrate
 1 Harmonious Archon
+1 Emeria's Call
 1 Island
 1 Raugrin Triome
 2 Riverglide Pathway
-2 Emeria's Call
 2 Hofri Ghostforge
 2 Mila, Crafty Companion
+2 Emeria's Call
 2 Drannith Magistrate
 2 Terror of the Peaks
 2 Mythos of Vadrok
@@ -197,6 +190,13 @@
 3 Hengegate Pathway
 4 Riverglide Pathway
 4 Hengegate Pathway
+1 Clarion Spirit
+2 Clarion Spirit
+3 Clarion Spirit
+3 Showdown of the Skalds
+3 Skyclave Cleric
+4 Skyclave Cleric
+4 Clarion Spirit
 1 Igneous Cur
 1 Bolt Hound
 1 Pack Leader

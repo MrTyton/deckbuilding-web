@@ -8,8 +8,8 @@
 3 Guardian Idol
 4 Mind Stone
 1 Forsaken Monument
-1 Radiant Fountain
 1 Hedron Archive
+1 Radiant Fountain
 2 Radiant Fountain
 2 Forsaken Monument
 2 Hedron Archive
@@ -125,30 +125,30 @@
 2 Arch of Orazca
 1 The World Tree
 1 Field of Ruin
-1 Ramunap Ruins
-1 Mountain
 1 Forgotten Cave
-1 Chandra, Torch of Defiance
 1 Redcap Melee
 1 Chandra, Awakened Inferno
+1 Mountain
+1 Chandra, Torch of Defiance
 1 Anger of the Gods
 1 Shatterskull Smashing
+1 Ramunap Ruins
 2 Shatterskull Smashing
-2 Ramunap Ruins
-2 Mountain
 2 Redcap Melee
 2 Chandra, Awakened Inferno
 2 Forgotten Cave
-2 Chandra, Torch of Defiance
 2 Grafdigger's Cage
 2 Anger of the Gods
+2 Chandra, Torch of Defiance
+2 Mountain
+2 Ramunap Ruins
 3 Anger of the Gods
 3 Chandra, Torch of Defiance
 3 Ramunap Ruins
 3 Mountain
 4 Chandra, Torch of Defiance
-4 Anger of the Gods
 4 Mountain
+4 Anger of the Gods
 5 Mountain
 6 Mountain
 7 Mountain
@@ -226,9 +226,9 @@
 2 Phyrexian Arena
 3 Phyrexian Obliterator
 3 Phyrexian Arena
-4 Swamp
 4 Phyrexian Obliterator
 4 Fatal Push
+4 Swamp
 5 Swamp
 6 Swamp
 7 Swamp

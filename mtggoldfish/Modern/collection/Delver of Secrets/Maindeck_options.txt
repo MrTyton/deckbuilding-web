@@ -18,9 +18,9 @@
 4 Sleight of Hand
 1 Hallowed Fountain
 4 Force of Negation
-1 Maul of the Skyclaves
 1 Seachrome Coast
 1 Sacred Foundry
+1 Maul of the Skyclaves
 1 Geist of Saint Traft
 1 Path to Exile
 1 Snow-Covered Plains
@@ -126,8 +126,8 @@
 1 Lightning Helix
 2 Lightning Helix
 3 Lightning Helix
-1 Grim Lavamancer
 1 Waterlogged Grove
+1 Grim Lavamancer
 1 Monastery Swiftspear
 3 Fiery Islet
 1 Traverse the Ulvenwald
@@ -151,35 +151,30 @@
 2 Magmatic Channeler
 3 Magmatic Channeler
 4 Magmatic Channeler
-1 Kolaghan's Command
-1 Blood Crypt
-2 Kolaghan's Command
-3 Snapcaster Mage
-4 Snapcaster Mage
 1 Disrupting Shoal
-1 Stubborn Denial
 1 Hexdrinker
+1 Stubborn Denial
 2 Disrupting Shoal
-2 Brazen Borrower
 2 Hexdrinker
+2 Brazen Borrower
 2 Stubborn Denial
 3 Hexdrinker
 3 Disrupting Shoal
 3 Stubborn Denial
 4 Stubborn Denial
+4 Hexdrinker
 4 Disrupting Shoal
 4 Mana Leak
-4 Hexdrinker
 1 Verdant Catacombs
 1 Agadeem's Awakening
 1 Dauthi Voidwalker
 1 Dismember
 1 Death's Shadow
+2 Dismember
 2 Verdant Catacombs
 2 Suspend
 2 Dauthi Voidwalker
 2 Death's Shadow
-2 Dismember
 3 Dauthi Voidwalker
 3 Verdant Catacombs
 3 Death's Shadow
@@ -218,3 +213,8 @@
 3 Darkslick Shores
 3 Ancestral Vision
 4 Ancestral Vision
+1 Kolaghan's Command
+1 Blood Crypt
+2 Kolaghan's Command
+3 Snapcaster Mage
+4 Snapcaster Mage

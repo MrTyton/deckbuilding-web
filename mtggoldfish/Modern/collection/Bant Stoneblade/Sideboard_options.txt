@@ -102,17 +102,6 @@
 1 Memnarch
 2 Snapcaster Mage
 2 Summoning Trap
-1 Charming Prince
-1 Thragtusk
-1 Stonehorn Dignitary
-1 Back to Nature
-1 Nature's Claim
-1 Grafdigger's Cage
-1 Creeping Corrosion
-2 Nature's Claim
-2 Grafdigger's Cage
-2 Stony Silence
-3 Stony Silence
 1 Ceremonious Rejection
 1 Mark of Asylum
 2 Deicide
@@ -125,9 +114,20 @@
 3 Dovin's Veto
 1 Fracturing Gust
 3 Aether Gust
-2 Timely Reinforcements
 2 Void Mirror
+2 Timely Reinforcements
 3 Void Mirror
+1 Charming Prince
+1 Thragtusk
+1 Creeping Corrosion
+1 Back to Nature
+1 Nature's Claim
+1 Grafdigger's Cage
+1 Stonehorn Dignitary
+2 Stony Silence
+2 Nature's Claim
+2 Grafdigger's Cage
+3 Stony Silence
 1 Pithing Needle
 2 Pithing Needle
 3 Damping Sphere
@@ -144,8 +144,8 @@
 3 Rest in Peace
 4 Rest in Peace
 2 Disdainful Stroke
-1 Ethersworn Canonist
 1 Dress Down
+1 Ethersworn Canonist
 2 Ethersworn Canonist
 2 Containment Priest
 2 Spell Pierce
