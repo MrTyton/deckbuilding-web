@@ -1,7 +1,9 @@
 1 Swamp
 1 Witch's Oven
 1 Cauldron Familiar
+1 Fiend Artisan
 2 Cauldron Familiar
+2 Fiend Artisan
 2 Witch's Oven
 3 Cauldron Familiar
 3 Witch's Oven
@@ -10,8 +12,6 @@
 2 Bolas's Citadel
 2 Zulaport Cutthroat
 3 Bolas's Citadel
-1 Fiend Artisan
-2 Fiend Artisan
 3 Zulaport Cutthroat
 4 Bolas's Citadel
 3 Llanowar Elves
@@ -21,7 +21,6 @@
 4 Witch's Oven
 1 Agadeem's Awakening
 4 Zulaport Cutthroat
-1 Breeding Pool
 1 Paradise Druid
 1 Realmwalker
 1 Shaman of the Pack
@@ -29,6 +28,7 @@
 1 Elvish Warmaster
 1 Harald, King of Skemfar
 1 Mana Confluence
+1 Breeding Pool
 1 Driven/Despair
 1 Botanical Sanctum
 1 Llanowar Visionary
@@ -47,9 +47,9 @@
 2 Barkchannel Pathway
 2 Elvish Clancaller
 2 Botanical Sanctum
-3 Breeding Pool
 3 Mana Confluence
 3 Elvish Clancaller
+3 Breeding Pool
 3 Botanical Sanctum
 3 Realmwalker
 3 Shaman of the Pack

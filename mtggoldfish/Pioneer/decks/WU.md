@@ -43,8 +43,8 @@
 |                    1|Portable Hole                                                                                       |                     |                                                                                                  |
 |                    2|Portable Hole                                                                                       |                     |                                                                                                  |
 |                    3|Portable Hole                                                                                       |                     |                                                                                                  |
-|                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                   |                     |                                                                                                  |
 |                    4|Portable Hole                                                                                       |                     |                                                                                                  |
+|                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                   |                     |                                                                                                  |
 |                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |                                                                                                  |
 |                    1|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)                |                     |                                                                                                  |
 
