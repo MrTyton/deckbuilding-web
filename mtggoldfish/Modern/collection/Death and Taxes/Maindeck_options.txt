@@ -1,18 +1,18 @@
 4 Field of Ruin
 10 Plains
-4 Flickerwisp
 1 Horizon Canopy
-1 Castle Ardenvale
 1 Eiganjo Castle
-1 Esper Sentinel
-2 Esper Sentinel
-3 Esper Sentinel
-2 Horizon Canopy
-3 Solitude
-1 Sanctum Prelate
+4 Flickerwisp
+1 Castle Ardenvale
 1 Mishra's Factory
 2 Mishra's Factory
 3 Mishra's Factory
+1 Sanctum Prelate
+3 Solitude
+2 Horizon Canopy
+1 Esper Sentinel
+2 Esper Sentinel
+3 Esper Sentinel
 4 Archon of Emeria
 1 Charming Prince
 1 Snow-Covered Plains
@@ -24,6 +24,8 @@
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
+2 Sanctum Prelate
+1 Sunbaked Canyon
 1 Razorverge Thicket
 1 Branchloft Pathway
 1 Noble Hierarch
@@ -37,19 +39,19 @@
 3 Noble Hierarch
 4 Razorverge Thicket
 4 Noble Hierarch
+4 Mishra's Factory
 1 Tectonic Edge
 2 Tectonic Edge
 3 Tectonic Edge
 4 Tectonic Edge
 2 Charming Prince
 3 Charming Prince
+2 Sunbaked Canyon
 1 Gavony Township
 1 Collected Company
 2 Collected Company
 2 Forest
 3 Collected Company
-1 Sunbaked Canyon
-2 Sanctum Prelate
 1 On Thin Ice
 2 On Thin Ice
 10 Snow-Covered Plains
@@ -58,9 +60,7 @@
 13 Snow-Covered Plains
 1 Temple Garden
 2 Temple Garden
-4 Mishra's Factory
 1 Flagstones of Trokair
-2 Sunbaked Canyon
 1 Linvala, Keeper of Silence
 2 Linvala, Keeper of Silence
 14 Snow-Covered Plains
@@ -83,11 +83,6 @@
 19 Snow-Covered Plains
 20 Snow-Covered Plains
 1 Auriok Champion
-1 Sacred Foundry
-1 Imperial Recruiter
-2 Sacred Foundry
-2 Imperial Recruiter
-3 Imperial Recruiter
 1 Elite Spellbinder
 1 Scavenging Ooze
 2 Elite Spellbinder
@@ -99,20 +94,11 @@
 2 Urza's Saga
 3 Urza's Saga
 4 Urza's Saga
-1 Inspiring Vantage
-2 Inspiring Vantage
-3 Inspiring Vantage
-1 Arid Mesa
-1 Magus of the Moon
-1 Mountain
-1 Lightning Bolt
-2 Mountain
-2 Arid Mesa
-2 Lightning Bolt
-3 Sacred Foundry
-3 Arid Mesa
-3 Lightning Bolt
-4 Arid Mesa
+1 Sacred Foundry
+1 Imperial Recruiter
+2 Sacred Foundry
+2 Imperial Recruiter
+3 Imperial Recruiter
 2 Auriok Champion
 3 Auriok Champion
 1 Oath of Nissa
@@ -124,9 +110,9 @@
 4 Oath of Nissa
 4 Temple Garden
 1 Ephemerate
-1 Thraben Inspector
 1 Emeria's Call
 1 Skyclave Cleric
+1 Thraben Inspector
 2 Ephemerate
 2 Thraben Inspector
 2 Emeria's Call
@@ -149,31 +135,38 @@
 3 Tithe Taker
 4 Sanctum Prelate
 4 Tithe Taker
-1 Kataki, War's Wage
-1 Prismatic Ending
-2 Prismatic Ending
-2 Magus of the Moon
-3 Prismatic Ending
-4 Sacred Foundry
-4 Imperial Recruiter
+3 Horizon Canopy
+4 Horizon Canopy
 1 Ragavan, Nimble Pilferer
+1 Felidar Guardian
 1 Kiki-Jiki, Mirror Breaker
 1 Rugged Prairie
 1 Prismatic Vista
-1 Felidar Guardian
 1 Needleverge Pathway
+1 Arid Mesa
+1 Magus of the Moon
+1 Mountain
+1 Lightning Bolt
 1 Windswept Heath
+2 Mountain
 2 Ragavan, Nimble Pilferer
 2 Prismatic Vista
 2 Needleverge Pathway
+2 Arid Mesa
 2 Windswept Heath
+2 Lightning Bolt
 3 Ragavan, Nimble Pilferer
+3 Sacred Foundry
+3 Arid Mesa
 3 Sunbaked Canyon
 3 Needleverge Pathway
+3 Lightning Bolt
 4 Ragavan, Nimble Pilferer
 4 Sunbaked Canyon
 4 Lightning Bolt
-3 Horizon Canopy
-4 Horizon Canopy
+4 Arid Mesa
 1 Sanctifier en-Vec
+1 Inspiring Vantage
+2 Inspiring Vantage
+3 Inspiring Vantage
 4 Inspiring Vantage

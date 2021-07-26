@@ -120,10 +120,6 @@
 2 City of Traitors
 3 Sai, Master Thopterist
 3 Retrofitter Foundry
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
 3 Wasteland
 4 Wasteland
 1 Great Furnace
@@ -134,6 +130,10 @@
 3 Galvanic Blast
 4 Great Furnace
 4 Galvanic Blast
+1 Snow-Covered Island
+2 Snow-Covered Island
+3 Snow-Covered Island
+4 Snow-Covered Island
 1 Mishra's Factory
 1 Mox Diamond
 2 Mishra's Factory
@@ -153,9 +153,9 @@
 3 Thopter Foundry
 4 Stoneforge Mystic
 1 Myr Enforcer
-1 Thassa's Oracle
 1 Tree of Tales
 1 Barricade Breaker
+1 Thassa's Oracle
 1 Shield Sphere
 1 Glimpse of Nature
 1 Foundry Assembler

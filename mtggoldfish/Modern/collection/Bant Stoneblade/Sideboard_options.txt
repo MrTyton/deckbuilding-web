@@ -69,13 +69,14 @@
 1 Kozilek, Butcher of Truth
 1 Aven Mindcensor
 1 Choke
-1 Burrenton Forge-Tender
-1 Run Afoul
 1 Thrun, the Last Troll
 1 Circle of Protection: Red
+1 Run Afoul
 1 Heroic Intervention
+1 Burrenton Forge-Tender
 1 Selfless Spirit
 2 Sanctum Prelate
+2 Collector Ouphe
 1 Sword of Fire and Ice
 1 Toski, Bearer of Secrets
 1 Flusterstorm
@@ -83,9 +84,6 @@
 2 Flusterstorm
 1 Detention Sphere
 2 Knight of Autumn
-1 Subtlety
-2 Subtlety
-2 Collector Ouphe
 1 Dream Trawler
 1 Nexus of Fate
 1 Sword of Sinew and Steel
@@ -102,8 +100,19 @@
 1 Surgical Extraction
 1 Supreme Verdict
 2 Supreme Verdict
-1 Fracturing Gust
-3 Aether Gust
+1 Subtlety
+2 Subtlety
+1 Creeping Corrosion
+1 Grafdigger's Cage
+1 Thragtusk
+1 Back to Nature
+1 Nature's Claim
+1 Charming Prince
+1 Stonehorn Dignitary
+2 Grafdigger's Cage
+2 Nature's Claim
+2 Stony Silence
+3 Stony Silence
 2 Void Mirror
 2 Timely Reinforcements
 3 Void Mirror
@@ -112,20 +121,9 @@
 3 Damping Sphere
 1 Spell Queller
 1 Dovin's Veto
-2 Dovin's Veto
 2 Spell Queller
+2 Dovin's Veto
 3 Dovin's Veto
-1 Creeping Corrosion
-1 Grafdigger's Cage
-1 Thragtusk
-1 Back to Nature
-1 Nature's Claim
-1 Charming Prince
-1 Stonehorn Dignitary
-2 Stony Silence
-2 Grafdigger's Cage
-2 Nature's Claim
-3 Stony Silence
 1 Ceremonious Rejection
 1 Mark of Asylum
 2 Deicide
@@ -135,6 +133,8 @@
 2 Wheel of Sun and Moon
 3 Gaddock Teeg
 3 Wheel of Sun and Moon
+1 Fracturing Gust
+3 Aether Gust
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 2 Weather the Storm

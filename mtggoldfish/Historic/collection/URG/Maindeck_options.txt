@@ -12,41 +12,41 @@
 2 Hieroglyphic Illumination
 3 Hieroglyphic Illumination
 4 Hieroglyphic Illumination
+3 Castle Vantress
+1 Prismari Command
 1 Frilled Mystic
 2 Frilled Mystic
-1 Prismari Command
-3 Castle Vantress
+4 Stomping Ground
+2 Forest
 1 Fabled Passage
 2 Fabled Passage
 1 Overgrown Tomb
 1 Watery Grave
 2 Overgrown Tomb
 2 Watery Grave
-2 Forest
-4 Stomping Ground
+4 Steam Vents
 1 Zagoth Triome
 2 Zagoth Triome
 1 Swamp
+3 Overgrown Tomb
 3 Watery Grave
 1 Fatal Push
 1 Drowned Catacomb
 2 Fatal Push
-4 Watery Grave
-3 Overgrown Tomb
-3 Zagoth Triome
-4 Steam Vents
-1 Quench
-2 Quench
-2 Drowned Catacomb
 3 Fatal Push
+4 Watery Grave
+3 Zagoth Triome
+1 Quench
+1 Port of Karfell
 1 Jwari Disruption
 1 Eliminate
-1 Port of Karfell
 1 Deathsprout
+2 Quench
 2 Jwari Disruption
 2 Eliminate
-2 Deathsprout
 2 Port of Karfell
+2 Drowned Catacomb
+2 Deathsprout
 3 Eliminate
 3 Sublime Epiphany
 1 Sulfur Falls
@@ -65,66 +65,62 @@
 3 Abundant Harvest
 4 Abundant Harvest
 1 Rootbound Crag
-1 Soul-Scar Mage
-1 Dreadhorde Arcanist
 1 Expressive Iteration
-1 Shock
-1 Atarka's Command
+1 Dreadhorde Arcanist
 1 Spirebluff Canal
+1 Atarka's Command
+1 Shock
+1 Soul-Scar Mage
 1 Sprite Dragon
-2 Soul-Scar Mage
-2 Dreadhorde Arcanist
 2 Expressive Iteration
-2 Atarka's Command
-2 Shock
+2 Dreadhorde Arcanist
 2 Sprite Dragon
 2 Spirebluff Canal
-3 Dreadhorde Arcanist
-3 Soul-Scar Mage
+2 Atarka's Command
+2 Soul-Scar Mage
+2 Shock
 3 Expressive Iteration
-3 Shock
+3 Dreadhorde Arcanist
 3 Sprite Dragon
 3 Spirebluff Canal
 3 Atarka's Command
-4 Dreadhorde Arcanist
-4 Soul-Scar Mage
-4 Shock
+3 Shock
+3 Soul-Scar Mage
 4 Sprite Dragon
 4 Expressive Iteration
+4 Dreadhorde Arcanist
 4 Spirebluff Canal
+4 Soul-Scar Mage
 4 Atarka's Command
-1 Heartless Act
-2 Heartless Act
+4 Shock
+1 Shark Typhoon
+1 Nissa, Who Shakes the World
+1 Mystical Dispute
+2 Nissa, Who Shakes the World
+3 Nissa, Who Shakes the World
 2 Censor
 4 Sulfur Falls
-1 Snakeskin Veil
 1 Dragonsguard Elite
-2 Snakeskin Veil
+1 Snakeskin Veil
 2 Dragonsguard Elite
+2 Snakeskin Veil
 2 Rootbound Crag
 3 Dragonsguard Elite
 4 Dragonsguard Elite
 1 Opt
 2 Opt
 3 Opt
-1 Brineborn Cutthroat
-2 Brineborn Cutthroat
-1 Shark Typhoon
-1 Nissa, Who Shakes the World
-1 Mystical Dispute
-2 Nissa, Who Shakes the World
-3 Nissa, Who Shakes the World
+2 Botanical Sanctum
 4 Nissa, Who Shakes the World
 1 Brainstorm
 2 Brainstorm
 3 Brainstorm
-2 Botanical Sanctum
-3 Island
-4 Zagoth Triome
-3 Heartless Act
-1 Slitherwisp
-2 Slitherwisp
+1 Heartless Act
+2 Heartless Act
 1 Hydroid Krasis
+2 Shark Typhoon
+2 Mystical Dispute
+1 Negate
 1 Arasta of the Endless Web
 1 Relic of Progenitus
 1 Mizzix's Mastery
@@ -133,15 +129,12 @@
 2 Mizzix's Mastery
 1 Spikefield Hazard
 1 Chandra, Awakened Inferno
+1 Brineborn Cutthroat
+2 Brineborn Cutthroat
 2 Prismari Command
 1 Sweltering Suns
 1 Electrolyze
 2 Sweltering Suns
-1 Cling to Dust
-1 Baleful Mastery
-2 Shark Typhoon
-2 Baleful Mastery
-2 Mystical Dispute
 1 Karn, the Great Creator
 1 Magma Spray
 2 Karn, the Great Creator
@@ -155,14 +148,11 @@
 3 Flame Sweep
 3 Abrade
 3 Censor
-1 Supreme Will
-1 Chemister's Insight
-2 Supreme Will
-2 Chemister's Insight
-3 Brineborn Cutthroat
-3 Frilled Mystic
-3 Drowned Catacomb
-4 Brineborn Cutthroat
+1 Cling to Dust
+1 Baleful Mastery
+2 Baleful Mastery
+3 Island
+4 Zagoth Triome
 1 Spell Pierce
 2 Spell Pierce
 3 Snakeskin Veil
@@ -178,24 +168,53 @@
 4 Opt
 4 Wizard's Lightning
 4 Symmetry Sage
+1 Temple Garden
+1 Plains
+1 Sunpetal Grove
+1 Scattered Groves
+1 Hallowed Fountain
+1 Seal Away
+1 Rest in Peace
+1 Cast Out
+1 Teferi, Hero of Dominaria
+1 Glacial Fortress
+1 Vineglimmer Snarl
+1 Irrigated Farmland
+2 Temple Garden
+2 Sunpetal Grove
+2 Hallowed Fountain
+2 Seal Away
+2 Negate
+2 Hydroid Krasis
+2 Glacial Fortress
+3 Temple Garden
+3 Mystical Dispute
+3 Hallowed Fountain
+3 Glacial Fortress
+3 Shark Typhoon
+4 Temple Garden
+4 Hinterland Harbor
+4 Shark Typhoon
 1 Woodland Cemetery
 1 Sinister Sabotage
-1 Negate
 2 Sinister Sabotage
 2 Swamp
+3 Heartless Act
 3 Sinister Sabotage
-4 Brainstorm
 4 Overgrown Tomb
+4 Brainstorm
 1 Darkbore Pathway
 1 Clearwater Pathway
 1 Thieves' Guild Enforcer
 1 Lochmere Serpent
 1 Cunning Nightbonder
+1 Slitherwisp
 1 Decisive Denial
 2 Darkbore Pathway
 2 Clearwater Pathway
 2 Thieves' Guild Enforcer
 2 Cunning Nightbonder
+2 Slitherwisp
 2 Decisive Denial
 3 Darkbore Pathway
 3 Clearwater Pathway

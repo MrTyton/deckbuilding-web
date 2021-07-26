@@ -85,16 +85,6 @@
 1 Fury
 2 Fury
 3 Seal of Fire
-1 Spirebluff Canal
-1 Steam Vents
-1 Expressive Iteration
-2 Spirebluff Canal
-2 Expressive Iteration
-3 Spirebluff Canal
-3 Expressive Iteration
-4 Wooded Foothills
-4 Spirebluff Canal
-4 Expressive Iteration
 1 Bomat Courier
 1 Urza's Saga
 1 Pyrite Spellbomb
@@ -104,13 +94,11 @@
 3 Urza's Saga
 4 Urza's Saga
 4 Tarfire
-3 Maximize Velocity
-19 Mountain
-20 Mountain
 1 Seasoned Pyromancer
 1 Bloodbraid Marauder
 2 Seasoned Pyromancer
 2 Bloodbraid Marauder
+4 Bonecrusher Giant
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
@@ -119,4 +107,16 @@
 10 Snow-Covered Mountain
 11 Snow-Covered Mountain
 12 Snow-Covered Mountain
-4 Bonecrusher Giant
+3 Maximize Velocity
+19 Mountain
+20 Mountain
+1 Spirebluff Canal
+1 Steam Vents
+1 Expressive Iteration
+2 Spirebluff Canal
+2 Expressive Iteration
+3 Spirebluff Canal
+3 Expressive Iteration
+4 Spirebluff Canal
+4 Expressive Iteration
+4 Wooded Foothills

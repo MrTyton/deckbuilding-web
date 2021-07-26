@@ -1,38 +1,44 @@
 1 Glasspool Mimic
-3 Wall of Omens
 2 Plains
 1 Giver of Runes
 2 Giver of Runes
 3 Giver of Runes
 4 Giver of Runes
+3 Wall of Omens
 1 Snow-Covered Island
-4 Wall of Omens
 1 Raugrin Triome
 1 Arid Mesa
 2 Arid Mesa
 3 Arid Mesa
 4 Arid Mesa
+1 Snow-Covered Forest
 1 Drannith Magistrate
 3 Soulherder
+4 Wall of Omens
 3 Plains
 1 Felidar Guardian
 1 Magus of the Moon
-1 Snow-Covered Forest
-1 Wooded Foothills
-1 Kiki-Jiki, Mirror Breaker
 1 Watcher for Tomorrow
 2 Watcher for Tomorrow
 3 Watcher for Tomorrow
+4 Misty Rainforest
+1 Kiki-Jiki, Mirror Breaker
+1 Wooded Foothills
+1 Prismatic Vista
+2 Prismatic Vista
+1 Ice-Fang Coatl
+2 Ice-Fang Coatl
+3 Ice-Fang Coatl
+2 Snow-Covered Forest
 1 Flickerwisp
 2 Flickerwisp
 3 Flickerwisp
-1 Prismatic Vista
-2 Prismatic Vista
+2 Prismatic Ending
+3 Prismatic Ending
 1 Mountain
 1 Stomping Ground
 2 Wooded Foothills
 2 Forest
-4 Misty Rainforest
 1 Sword of Fire and Ice
 1 Stoneforge Mystic
 1 Batterskull
@@ -40,57 +46,41 @@
 3 Stoneforge Mystic
 4 Stoneforge Mystic
 1 Sanctum Prelate
-3 Snow-Covered Plains
 1 Ketria Triome
-2 Snow-Covered Island
 1 Marsh Flats
 2 Marsh Flats
-2 Prismatic Ending
-3 Prismatic Ending
 4 Plains
 5 Plains
 1 Thalia, Guardian of Thraben
 1 Seasoned Pyromancer
 3 Charming Prince
-2 Snow-Covered Forest
-1 Ice-Fang Coatl
-2 Ice-Fang Coatl
-3 Ice-Fang Coatl
+4 Ice-Fang Coatl
+3 Snow-Covered Plains
 2 Felidar Guardian
 1 Auriok Champion
 1 Archon of Emeria
+2 Glasspool Mimic
 2 Hallowed Fountain
+2 Snow-Covered Island
 1 Birds of Paradise
 2 Birds of Paradise
 3 Birds of Paradise
 3 Wooded Foothills
-2 Glasspool Mimic
-2 Venser, Shaper Savant
-4 Watcher for Tomorrow
-3 Meddling Mage
-4 Meddling Mage
 1 Kaldra Compleat
 1 Maul of the Skyclaves
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
 4 Thalia, Guardian of Thraben
 1 Horizon Canopy
+3 Meddling Mage
+4 Meddling Mage
 1 Reflector Mage
 3 Marsh Flats
 4 Marsh Flats
-3 Prismatic Vista
-4 Prismatic Vista
 2 Sacred Foundry
 3 Sacred Foundry
 1 Field of Ruin
 2 Field of Ruin
-1 Seachrome Coast
-1 Elite Spellbinder
-2 Seachrome Coast
-2 Elite Spellbinder
-3 Elite Spellbinder
-1 Mystic Gate
-2 Mystic Gate
 4 Charming Prince
 1 Snow-Covered Mountain
 1 Avalanche Riders
@@ -98,16 +88,25 @@
 1 Scalding Tarn
 1 Militia Bugler
 2 Militia Bugler
+1 Mystic Gate
+2 Mystic Gate
+2 Venser, Shaper Savant
+4 Watcher for Tomorrow
+1 Force of Negation
+2 Force of Negation
 1 Wall of Blossoms
 2 Wall of Blossoms
-4 Snow-Covered Plains
-4 Birds of Paradise
+1 Seachrome Coast
+1 Elite Spellbinder
 1 Hengegate Pathway
+2 Seachrome Coast
+2 Elite Spellbinder
 2 Island
 2 Hengegate Pathway
 3 Field of Ruin
 3 Seachrome Coast
 3 Glasspool Mimic
+3 Elite Spellbinder
 3 Hallowed Fountain
 3 Hengegate Pathway
 4 Field of Ruin
@@ -118,11 +117,13 @@
 4 Hallowed Fountain
 4 Hengegate Pathway
 6 Plains
+4 Birds of Paradise
 1 Saheeli Rai
 2 Saheeli Rai
 3 Saheeli Rai
 4 Saheeli Rai
-4 Ice-Fang Coatl
+3 Prismatic Vista
+4 Prismatic Vista
 1 Waterlogged Grove
 1 Toski, Bearer of Secrets
 2 Horizon Canopy
@@ -149,26 +150,18 @@
 3 Seasoned Pyromancer
 3 Snow-Covered Forest
 2 Auriok Champion
+4 Snow-Covered Plains
 4 Prismatic Ending
 1 Oath of Nissa
 2 Oath of Nissa
 3 Oath of Nissa
 4 Oath of Nissa
-1 Spellstutter Sprite
-1 Vendilion Clique
-1 Mutavault
-2 Spellstutter Sprite
-2 Vendilion Clique
-2 Mutavault
-3 Spellstutter Sprite
-3 Mutavault
-4 Spellstutter Sprite
+3 Path to Exile
 1 Omnath, Locus of Creation
 4 Wooded Foothills
-3 Path to Exile
+3 Force of Negation
+4 Force of Negation
 4 Soulherder
-1 Force of Negation
-2 Force of Negation
 1 Time Warp
 1 Glacial Floodplain
 1 Ancient Ziggurat
@@ -242,6 +235,8 @@
 1 Kataki, War's Wage
 1 Wooded Bastion
 1 Lonis, Cryptozoologist
+1 Indatha Triome
+2 Deputy of Detention
 1 Restoration Angel
 1 Endurance
 1 Arctic Treeline
@@ -258,9 +253,16 @@
 1 Timeless Witness
 1 Coiling Oracle
 2 Coiling Oracle
-3 Force of Negation
 3 Coiling Oracle
-4 Force of Negation
+1 Spellstutter Sprite
+1 Vendilion Clique
+1 Mutavault
+2 Spellstutter Sprite
+2 Vendilion Clique
+2 Mutavault
+3 Spellstutter Sprite
+3 Mutavault
+4 Spellstutter Sprite
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Forest
@@ -306,5 +308,3 @@
 4 Eldritch Evolution
 4 Renegade Rallier
 4 Voice of Resurgence
-1 Brazen Borrower
-4 Mutavault
