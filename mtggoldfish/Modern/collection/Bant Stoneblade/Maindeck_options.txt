@@ -1,45 +1,42 @@
-2 Mana Leak
-1 Skyclave Apparition
-2 Temple Garden
-1 Waterlogged Grove
 1 On Thin Ice
 2 On Thin Ice
 1 Toski, Bearer of Secrets
-1 Counterspell
-2 Counterspell
+1 Skyclave Apparition
+2 Solitude
 3 Snow-Covered Island
 1 Brazen Borrower
 3 On Thin Ice
 4 On Thin Ice
-3 Solitude
+2 Toski, Bearer of Secrets
+3 Toski, Bearer of Secrets
+2 Temple Garden
+1 Waterlogged Grove
+1 Counterspell
+2 Counterspell
 1 Ephemerate
 2 Ephemerate
 3 Ephemerate
 4 Ephemerate
-2 Toski, Bearer of Secrets
-3 Toski, Bearer of Secrets
+3 Solitude
 1 Geist of Saint Traft
 1 Knight of Autumn
-2 Hallowed Fountain
+3 Mana Leak
 1 Eternal Witness
 2 Eternal Witness
 4 Prismatic Ending
 4 Spell Queller
 2 Prismatic Vista
+2 Hallowed Fountain
+1 Castle Ardenvale
 2 Geist of Saint Traft
 1 Soulherder
-3 Mana Leak
 1 Eladamri's Call
 2 Skyclave Apparition
 3 Skyclave Apparition
 4 Skyclave Apparition
-1 Castle Ardenvale
 1 Maul of the Skyclaves
 3 Geist of Saint Traft
-2 Jace, the Mind Sculptor
 2 Breeding Pool
-3 Counterspell
-4 Counterspell
 3 Eternal Witness
 2 Eladamri's Call
 3 Eladamri's Call
@@ -50,26 +47,28 @@
 4 Aether Vial
 3 Snow-Covered Forest
 1 Sanctum Prelate
+2 Jace, the Mind Sculptor
+3 Counterspell
+4 Counterspell
 4 Eladamri's Call
 1 Glasspool Mimic
-3 Path to Exile
-1 Wall of Omens
 1 Thassa, Deep-Dwelling
+1 Wall of Omens
 1 Sanctifier en-Vec
 1 Venser, Shaper Savant
+3 Path to Exile
 2 Sanctum Prelate
 3 Sanctum Prelate
+1 Remand
 1 Endurance
 1 Cephalid Constable
 1 Gavony Township
 1 Renegade Rallier
 2 Wall of Omens
-3 Prismatic Vista
 3 Wall of Omens
-4 Prismatic Vista
+3 Prismatic Vista
 4 Wall of Omens
-1 Glacial Fortress
-1 Plains
+4 Prismatic Vista
 1 Arctic Treeline
 3 Snow-Covered Plains
 1 Titania, Protector of Argoth
@@ -80,8 +79,8 @@
 4 Utopia Sprawl
 1 Charming Prince
 1 Coiling Oracle
-2 Soulherder
 2 Coiling Oracle
+2 Soulherder
 3 Soulherder
 3 Coiling Oracle
 4 Snow-Covered Forest
@@ -90,9 +89,8 @@
 4 Eternal Witness
 1 Meddling Mage
 2 Meddling Mage
-1 Island
 1 Forest
-1 Ajani, Adversary of Tyrants
+1 Plains
 1 Thalia, Guardian of Thraben
 1 Dromoka's Command
 2 Dromoka's Command
@@ -100,43 +98,41 @@
 2 Thalia, Guardian of Thraben
 3 Cephalid Constable
 4 Sanctum Prelate
+1 Ajani, Adversary of Tyrants
+1 Glacial Fortress
 1 Archon of Emeria
 2 Archon of Emeria
 3 Archon of Emeria
+4 Mana Leak
 1 Reflecting Pool
-1 Remand
 2 Endurance
 3 Endurance
 4 Force of Negation
-1 Cryptic Command
 1 Giver of Runes
 2 Horizon Canopy
 2 Giver of Runes
 3 Giver of Runes
 1 Razorverge Thicket
 2 Razorverge Thicket
-1 Vendilion Clique
+1 Island
 1 Sword of Hearth and Home
 1 Yavimaya, Cradle of Growth
 1 Emeria's Call
 2 Emeria's Call
 4 Teferi, Time Raveler
 2 Forest
-1 Snapcaster Mage
-2 Snapcaster Mage
-4 Path to Exile
 1 Shardless Agent
 1 Shalai, Voice of Plenty
 1 Vizier of Remedies
 1 Duskwatch Recruiter
-1 Walking Ballista
+1 Devoted Druid
 1 Viridian Longbow
 1 Kitchen Finks
+1 Walking Ballista
 1 Chord of Calling
-1 Devoted Druid
 2 Shardless Agent
-2 Devoted Druid
 2 Chord of Calling
+2 Devoted Druid
 2 Vizier of Remedies
 3 Shardless Agent
 3 Chord of Calling
@@ -148,8 +144,10 @@
 1 Disdainful Stroke
 1 Questing Beast
 1 Scavenging Ooze
+1 Cryptic Command
 1 Mystic Snake
 2 Glacial Fortress
+2 Remand
 2 Brazen Borrower
 2 Titania, Protector of Argoth
 2 Waterlogged Grove
@@ -163,6 +161,7 @@
 3 Razorverge Thicket
 3 Abundant Harvest
 1 Unsettled Mariner
+1 Vendilion Clique
 1 Spellstutter Sprite
 2 Unsettled Mariner
 2 Spellstutter Sprite
@@ -170,28 +169,7 @@
 3 Spellstutter Sprite
 4 Unsettled Mariner
 4 Spellstutter Sprite
-4 Mana Leak
 4 Endurance
-1 Celestial Colonnade
-1 Archmage's Charm
-1 Subtlety
-1 Field of Ruin
-1 Teferi, Hero of Dominaria
-1 Polluted Delta
-2 Celestial Colonnade
-2 Archmage's Charm
-2 Cryptic Command
-2 Plains
-2 Island
-2 Field of Ruin
-2 Polluted Delta
-3 Snapcaster Mage
-3 Polluted Delta
-3 Field of Ruin
-3 Island
-4 Polluted Delta
-4 Island
-5 Island
 1 Watcher for Tomorrow
 1 Prairie Stream
 1 Deputy of Detention
@@ -200,20 +178,22 @@
 2 Knight of Autumn
 2 Canopy Vista
 5 Snow-Covered Forest
-1 Emrakul, the Aeons Torn
 1 Tangled Florahedron
+1 Emrakul, the Aeons Torn
 1 Wooded Foothills
-1 Hinterland Harbor
 1 Botanical Sanctum
 1 Barkchannel Pathway
-1 The World Tree
+1 Hinterland Harbor
 1 Kozilek, Butcher of Truth
 1 Koma, Cosmos Serpent
 1 Ulamog, the Infinite Gyre
+1 Snapcaster Mage
+1 The World Tree
 1 Kinnan, Bonder Prodigy
 1 Golos, Tireless Pilgrim
 2 Tangled Florahedron
 2 Botanical Sanctum
+2 Snapcaster Mage
 2 Golos, Tireless Pilgrim
 2 Kinnan, Bonder Prodigy
 3 Tangled Florahedron
@@ -221,4 +201,5 @@
 3 Kinnan, Bonder Prodigy
 4 Tangled Florahedron
 4 Birds of Paradise
+4 Path to Exile
 4 Kinnan, Bonder Prodigy

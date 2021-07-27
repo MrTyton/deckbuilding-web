@@ -6,7 +6,6 @@
 2 Misty Rainforest
 1 Ignoble Hierarch
 2 Ignoble Hierarch
-4 Blossoming Defense
 1 Dismember
 3 Ignoble Hierarch
 1 Overgrown Tomb
@@ -16,8 +15,9 @@
 2 Overgrown Tomb
 2 Phyrexian Crusader
 2 Snakeskin Veil
-1 Urborg, Tomb of Yawgmoth
+4 Blossoming Defense
 1 Verdant Catacombs
+1 Urborg, Tomb of Yawgmoth
 2 Verdant Catacombs
 3 Verdant Catacombs
 4 Verdant Catacombs
@@ -27,28 +27,28 @@
 2 Nurturing Peatland
 3 Phyrexian Crusader
 4 Phyrexian Crusader
+1 Yavimaya, Cradle of Growth
 3 Plague Stinger
 4 Plague Stinger
 1 Rancor
 2 Rancor
 2 Thoughtseize
 1 Viridian Corrupter
-1 Yavimaya, Cradle of Growth
-3 Groundswell
-3 Misty Rainforest
-4 Misty Rainforest
 3 Thoughtseize
 4 Thoughtseize
-2 Become Immense
-4 Groundswell
 1 Fatal Push
 1 Swamp
 3 Nurturing Peatland
-1 Snow-Covered Forest
-2 Snow-Covered Forest
+3 Groundswell
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
+1 Snow-Covered Forest
+2 Snow-Covered Forest
+3 Misty Rainforest
+4 Misty Rainforest
+1 Temple Garden
+2 Temple Garden
 3 Snakeskin Veil
 1 Blooming Marsh
 1 Postmortem Lunge
@@ -58,13 +58,18 @@
 2 Remand
 2 Peek
 2 Dismember
+1 Giver of Runes
+1 Flooded Strand
+2 Giver of Runes
+3 Giver of Runes
+4 Giver of Runes
 4 Waterlogged Grove
 2 Fatal Push
 4 Nurturing Peatland
+2 Become Immense
+4 Groundswell
 1 Prismatic Ending
-1 Temple Garden
 1 Mishra's Bauble
-2 Temple Garden
 2 Mishra's Bauble
 2 Prismatic Ending
 3 Mishra's Bauble
@@ -80,8 +85,8 @@
 2 Botanical Sanctum
 2 Yavimaya Coast
 3 Botanical Sanctum
-3 Spellskite
 3 Breeding Pool
+3 Spellskite
 3 Yavimaya Coast
 3 Distortion Strike
 3 Forest

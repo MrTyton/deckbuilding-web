@@ -1,3 +1,10 @@
+2 Primal Command
+2 Sawtusk Demolisher
+3 Primal Command
+3 Sawtusk Demolisher
+4 Primal Command
+4 Sawtusk Demolisher
+1 Turntimber Symbiosis
 4 Glorybringer
 1 Teferi, Master of Time
 1 Breeding Pool
@@ -21,9 +28,9 @@
 2 Steam Vents
 2 Relic of Progenitus
 2 Sulfur Falls
+3 Sulfur Falls
 3 Botanical Sanctum
 3 The Royal Scions
-3 Sulfur Falls
 3 Steam Vents
 3 Sarkhan the Masterless
 4 Botanical Sanctum
@@ -35,14 +42,7 @@
 3 Scavenging Ooze
 4 Scavenging Ooze
 3 Klothys, God of Destiny
-1 Primal Command
-1 Sawtusk Demolisher
-2 Primal Command
-2 Sawtusk Demolisher
-3 Primal Command
-3 Sawtusk Demolisher
-4 Primal Command
-4 Sawtusk Demolisher
+3 Elder Gargaroth
 1 Temple Garden
 2 Temple Garden
 3 Temple Garden
@@ -68,15 +68,14 @@
 4 Sacred Foundry
 4 Snapdax, Apex of the Hunt
 4 Marauding Raptor
-1 Goldspan Dragon
 1 Snow-Covered Mountain
-1 Snow-Covered Forest
 1 Faceless Haven
-1 Carnage Tyrant
-1 Highland Forest
+1 Snow-Covered Forest
 1 Into the North
+1 Highland Forest
 2 Snow-Covered Mountain
 2 Snow-Covered Forest
+2 Faceless Haven
 2 Into the North
 3 Snow-Covered Mountain
 3 Snow-Covered Forest
@@ -86,14 +85,15 @@
 4 Into the North
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
-1 Lovestruck Beast
-2 Lovestruck Beast
-3 Lovestruck Beast
-4 Lovestruck Beast
+1 Goldspan Dragon
 1 Abundant Harvest
 2 Abundant Harvest
 3 Abundant Harvest
 4 Abundant Harvest
+1 Lovestruck Beast
+2 Lovestruck Beast
+3 Lovestruck Beast
+4 Lovestruck Beast
 1 Swamp
 2 Ramunap Ruins
 1 Gnottvold Slumbermound
@@ -110,6 +110,13 @@
 4 Questing Beast
 4 Goldspan Dragon
 4 Kiora, Behemoth Beckoner
+1 Waking the Trolls
+2 Waking the Trolls
+3 Waking the Trolls
+4 Waking the Trolls
+5 Snow-Covered Forest
+1 Carnage Tyrant
+7 Snow-Covered Mountain
 1 Vivien, Arkbow Ranger
 1 Dromoka's Command
 1 Hallowed Fountain
@@ -124,28 +131,13 @@
 2 Barkchannel Pathway
 3 Dromoka's Command
 3 Branchloft Pathway
-3 Hallowed Fountain
 3 Barkchannel Pathway
 3 Vivien, Arkbow Ranger
+3 Hallowed Fountain
 3 Elite Spellbinder
 4 Dromoka's Command
 4 Branchloft Pathway
+4 Elite Spellbinder
 4 Hallowed Fountain
 4 Kasmina, Enigma Sage
-4 Elite Spellbinder
 4 Barkchannel Pathway
-2 Faceless Haven
-7 Snow-Covered Mountain
-1 Mind Stone
-1 Stonecoil Serpent
-1 The Great Henge
-1 Vivien Reid
-1 Kogla, the Titan Ape
-2 Mind Stone
-2 Stonecoil Serpent
-2 Vivien Reid
-3 Mind Stone
-3 Stonecoil Serpent
-4 Mind Stone
-5 Snow-Covered Forest
-4 Chandra, Torch of Defiance

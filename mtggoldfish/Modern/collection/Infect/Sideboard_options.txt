@@ -2,7 +2,6 @@
 2 Grafdigger's Cage
 1 Spellskite
 1 Spell Pierce
-2 Spellskite
 3 Veil of Summer
 3 Force of Vigor
 1 Weather the Storm
@@ -11,12 +10,13 @@
 2 Kitchen Finks
 2 Flusterstorm
 3 Kitchen Finks
+2 Spellskite
 1 Surgical Extraction
 1 Fatal Push
 2 Fatal Push
 1 Damping Sphere
-2 Spell Pierce
 1 Tainted Strike
+2 Spell Pierce
 2 Wilt
 1 Suspend
 2 Suspend
@@ -32,13 +32,19 @@
 2 Invisible Stalker
 1 Pulse of Murasa
 1 Pithing Needle
-4 Force of Vigor
+1 Prismatic Ending
 1 Dispel
 1 Lurrus of the Dream-Den
 1 Soul-Guide Lantern
 1 Stony Silence
-1 Prismatic Ending
 2 Soul-Guide Lantern
+1 Path to Exile
+1 Ceremonious Rejection
+1 Nature's Claim
+1 Teferi, Time Raveler
+2 Path to Exile
+2 Ceremonious Rejection
+2 Teferi, Time Raveler
 1 Brazen Borrower
 1 Force of Negation
 2 Brazen Borrower
@@ -49,9 +55,6 @@
 2 Shadow of Doubt
 2 Groundswell
 3 Damping Sphere
-1 Dissenter's Deliverance
-2 Dissenter's Deliverance
-3 Spellskite
 1 Inquisition of Kozilek
 3 Fatal Push
 2 Pulse of Murasa
@@ -68,6 +71,7 @@
 2 Chalice of the Void
 2 Leyline of the Void
 3 Leyline of the Void
+4 Force of Vigor
 4 Leyline of the Void
 1 Test of Talents
 1 Life Goes On

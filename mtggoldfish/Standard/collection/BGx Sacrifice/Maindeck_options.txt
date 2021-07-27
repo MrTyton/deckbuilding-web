@@ -1,8 +1,8 @@
 1 Kazuul's Fury
 1 Shambling Ghast
 2 Shambling Ghast
-2 Den of the Bugbear
 6 Swamp
+2 Den of the Bugbear
 3 Kroxa, Titan of Death's Hunger
 3 Shambling Ghast
 2 Castle Locthwain
@@ -12,14 +12,14 @@
 4 Kroxa, Titan of Death's Hunger
 4 Shambling Ghast
 1 Bastion of Remembrance
-1 Shatterskull Smashing
 1 Power Word Kill
 2 Power Word Kill
+1 Shatterskull Smashing
 2 Kazuul's Fury
 2 Bastion of Remembrance
 3 Bastion of Remembrance
-1 Brightclimb Pathway
 1 Needleverge Pathway
+1 Brightclimb Pathway
 2 Needleverge Pathway
 2 Brightclimb Pathway
 3 Needleverge Pathway
@@ -29,52 +29,46 @@
 4 Savai Triome
 1 Deadly Dispute
 1 Lolth, Spider Queen
+1 Skyclave Shade
+2 Skyclave Shade
 3 Kazuul's Fury
 1 Zariel, Archduke of Avernus
 1 Extus, Oriq Overlord
 2 Extus, Oriq Overlord
 3 Extus, Oriq Overlord
 1 Field of Ruin
-1 Tymaret Calls the Dead
-2 Tymaret Calls the Dead
+2 Deadly Dispute
+3 Deadly Dispute
+1 Forbidden Friendship
+1 Serrated Scorpion
+2 Forbidden Friendship
+2 Serrated Scorpion
+3 Forbidden Friendship
+3 Serrated Scorpion
+4 Forbidden Friendship
 4 Bastion of Remembrance
+4 Serrated Scorpion
 1 Plumb the Forbidden
 2 Plumb the Forbidden
 3 Plumb the Forbidden
-1 Forbidden Friendship
-1 Serrated Scorpion
-2 Serrated Scorpion
-2 Forbidden Friendship
-3 Serrated Scorpion
-3 Forbidden Friendship
-4 Serrated Scorpion
-4 Forbidden Friendship
-2 Deadly Dispute
-3 Deadly Dispute
 1 Forest
-1 Skyclave Shade
-2 Skyclave Shade
 3 Skyclave Shade
-1 Eyetwitch
-2 Eyetwitch
-3 Eyetwitch
-4 Eyetwitch
+3 Valki, God of Lies
+1 Elite Spellbinder
+1 Goldspan Dragon
+1 Sejiri Shelter
 1 Showdown of the Skalds
 1 Drannith Magistrate
-1 Goldspan Dragon
 1 Unleash Fury
-1 Elite Spellbinder
-1 Sejiri Shelter
-2 Sejiri Shelter
+2 Elite Spellbinder
 2 Goldspan Dragon
 2 Showdown of the Skalds
+2 Sejiri Shelter
 2 Drannith Magistrate
-2 Elite Spellbinder
 2 Unleash Fury
 3 Goldspan Dragon
 3 Showdown of the Skalds
 3 Unleash Fury
-3 Valki, God of Lies
 3 Power Word Kill
 4 Power Word Kill
 2 Lolth, Spider Queen
@@ -86,81 +80,48 @@
 2 Korvold, Fae-Cursed King
 3 Den of the Bugbear
 3 Korvold, Fae-Cursed King
+1 Eyetwitch
+2 Eyetwitch
 2 Zariel, Archduke of Avernus
+3 Eyetwitch
 3 Zariel, Archduke of Avernus
+4 Eyetwitch
+1 Tymaret Calls the Dead
+2 Tymaret Calls the Dead
 1 Liliana, Waker of the Dead
-3 Tymaret Calls the Dead
 1 Poet's Quill
 1 Vorpal Sword
-1 Rankle, Master of Pranks
-1 Ox of Agonas
-2 Shatterskull Smashing
+1 Kalain, Reclusive Painter
+1 Chandra, Heart of Fire
+2 Kalain, Reclusive Painter
 1 You See a Pair of Goblins
 2 You See a Pair of Goblins
-1 Chandra, Heart of Fire
-1 Kalain, Reclusive Painter
-2 Kalain, Reclusive Painter
 1 Inscription of Ruin
 2 Inscription of Ruin
-4 Deadly Dispute
-1 Hagra Mauling
-2 Hagra Mauling
-4 Skyclave Shade
-4 Tymaret Calls the Dead
-1 Darkbore Pathway
+1 Cragcrown Pathway
+1 Agadeem's Awakening
 1 Ebondeath, Dracolich
 1 Daemogoth Titan
-1 Cragcrown Pathway
+1 Darkbore Pathway
 1 Tend the Pests
 1 Polukranos, Unchained
-1 Agadeem's Awakening
-2 Darkbore Pathway
 2 Cragcrown Pathway
 2 Tend the Pests
+2 Darkbore Pathway
 3 Cragcrown Pathway
 3 Tend the Pests
 4 Cragcrown Pathway
-1 Agonizing Remorse
-1 Hunt for Specimens
-1 Eliminate
-1 Vanishing Verse
-1 Snow-Covered Plains
-1 Temple of Silence
-1 Cling to Dust
-1 Silverquill Campus
-1 Sedgemoor Witch
-1 Shineshadow Snarl
-1 Fiend Artisan
-1 Snow-Covered Swamp
-1 Snowfield Sinkhole
-2 Vanishing Verse
-2 Agonizing Remorse
-2 Eliminate
-2 Shineshadow Snarl
-2 Fiend Artisan
-2 Cling to Dust
-2 Silverquill Campus
-2 Hunt for Specimens
-2 Temple of Silence
-2 Snowfield Sinkhole
-2 Snow-Covered Plains
-2 Sedgemoor Witch
-2 Snow-Covered Swamp
-3 Vanishing Verse
-3 Agonizing Remorse
-3 Sedgemoor Witch
-3 Snowfield Sinkhole
-3 Snow-Covered Plains
-3 Fiend Artisan
-3 Snow-Covered Swamp
-3 Hunt for Specimens
-4 Hunt for Specimens
-4 Snow-Covered Swamp
-4 Snowfield Sinkhole
-4 Plumb the Forbidden
-4 Fiend Artisan
-4 Snow-Covered Plains
-4 Sedgemoor Witch
-5 Snow-Covered Swamp
-6 Snow-Covered Swamp
-7 Snow-Covered Swamp
+4 Deadly Dispute
+1 Warlock Class
+1 Rankle, Master of Pranks
+2 Shatterskull Smashing
+2 Warlock Class
+2 Rankle, Master of Pranks
+3 Warlock Class
+4 Warlock Class
+7 Swamp
+1 Hagra Mauling
+2 Hagra Mauling
+3 Tymaret Calls the Dead
+4 Skyclave Shade
+4 Tymaret Calls the Dead

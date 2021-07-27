@@ -28,16 +28,19 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
-|---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                     |             |                    3|[Archon of Emeria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495594)       |
-|                     |             |                    3|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)     |
-|                     |             |                    1|[Masked Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503800)          |
-|                     |             |                    2|[Masked Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503800)          |
-|                     |             |                    2|[Shalai, Voice of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442923)|
-|                     |             |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)          |
-|                     |             |                    1|[Barrier Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479665)         |
-|                     |             |                    2|[Barrier Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479665)         |
-|                     |             |                    3|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)        |
-|                     |             |                    4|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)     |
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
+|                    1|[Elvish Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389499)     |                    3|[Archon of Emeria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495594)       |
+|                    1|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)    |                    3|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)     |
+|                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)     |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)          |
+|                    2|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)    |                    1|[Masked Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503800)          |
+|                    2|[Elvish Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389499)     |                    2|[Masked Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503800)          |
+|                    4|[Branchloft Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491909)|                    2|[Shalai, Voice of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442923)|
+|                     |                                                                                             |                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)          |
+|                     |                                                                                             |                    1|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)           |
+|                     |                                                                                             |                    2|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)           |
+|                     |                                                                                             |                    1|[Barrier Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479665)         |
+|                     |                                                                                             |                    2|[Barrier Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479665)         |
+|                     |                                                                                             |                    3|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)        |
+|                     |                                                                                             |                    4|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)     |
 

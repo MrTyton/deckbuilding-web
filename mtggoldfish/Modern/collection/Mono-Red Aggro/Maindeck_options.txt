@@ -1,12 +1,12 @@
+3 Flame Slash
 1 Sunbaked Canyon
-2 Fury
-3 Blast Zone
 2 Ragavan, Nimble Pilferer
+3 Blast Zone
 3 Fury
-4 Flame Slash
 3 Ragavan, Nimble Pilferer
 1 Fiery Islet
 2 Sunbaked Canyon
+4 Flame Slash
 2 Fiery Islet
 4 Fury
 4 Ragavan, Nimble Pilferer
@@ -20,6 +20,8 @@
 3 Dragon's Rage Channeler
 4 Dragon's Rage Channeler
 1 Relic of Progenitus
+1 Castle Embereth
+2 Castle Embereth
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -33,8 +35,6 @@
 11 Snow-Covered Mountain
 12 Snow-Covered Mountain
 1 Blistercoil Weird
-1 Castle Embereth
-2 Castle Embereth
 3 Spikefield Hazard
 4 Spikefield Hazard
 13 Snow-Covered Mountain
@@ -55,8 +55,8 @@
 2 Unholy Heat
 2 Arid Mesa
 3 Arid Mesa
-1 Mutavault
 1 Burst Lightning
+1 Mutavault
 2 Mutavault
 3 Mutavault
 1 Seal of Fire
