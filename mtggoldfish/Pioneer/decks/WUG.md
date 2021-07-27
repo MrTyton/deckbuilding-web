@@ -31,9 +31,13 @@
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------------|
 |                     |             |                    3|[Archon of Emeria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495594)       |
+|                     |             |                    3|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)     |
 |                     |             |                    1|[Masked Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503800)          |
 |                     |             |                    2|[Masked Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503800)          |
 |                     |             |                    2|[Shalai, Voice of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442923)|
 |                     |             |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)          |
-|                     |             |                    3|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)     |
+|                     |             |                    1|[Barrier Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479665)         |
+|                     |             |                    2|[Barrier Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479665)         |
+|                     |             |                    3|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)        |
+|                     |             |                    4|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)     |
 

@@ -2,8 +2,8 @@
 1 Guardian Idol
 1 Ugin, the Spirit Dragon
 2 Mind Stone
-2 Ugin, the Spirit Dragon
 2 Guardian Idol
+2 Ugin, the Spirit Dragon
 3 Mind Stone
 3 Guardian Idol
 4 Mind Stone
@@ -48,25 +48,25 @@
 3 Extinction Event
 4 Aether Hub
 2 Karn, Scion of Urza
+1 Swamp
 1 Arch of Orazca
 1 Spire of Industry
-1 Inventors' Fair
-1 Swamp
 2 Swamp
+1 Inventors' Fair
 1 Shadows' Verdict
 2 Shadows' Verdict
 2 Spire of Industry
 1 Blast Zone
-1 Gifted Aetherborn
 1 Fatal Push
-2 Gifted Aetherborn
 2 Fatal Push
+1 Gifted Aetherborn
+2 Gifted Aetherborn
 3 Gifted Aetherborn
 4 Gifted Aetherborn
-1 Dusk Legion Zealot
 1 Vito, Thorn of the Dusk Rose
-1 Sorin, Imperious Bloodlord
+1 Dusk Legion Zealot
 1 Champion of Dusk
+1 Sorin, Imperious Bloodlord
 2 Dusk Legion Zealot
 2 Champion of Dusk
 2 Vito, Thorn of the Dusk Rose
@@ -74,8 +74,8 @@
 3 Sorin, Imperious Bloodlord
 3 Dusk Legion Zealot
 3 Champion of Dusk
-4 Champion of Dusk
 4 Sorin, Imperious Bloodlord
+4 Champion of Dusk
 3 Spire of Industry
 4 Dusk Legion Zealot
 1 Callous Bloodmage
@@ -94,6 +94,7 @@
 1 Nullpriest of Oblivion
 3 Callous Bloodmage
 3 Murderous Rider
+3 Swamp
 1 Interplanar Beacon
 2 Interplanar Beacon
 3 Interplanar Beacon
@@ -101,54 +102,104 @@
 3 Mazemind Tome
 2 Nullpriest of Oblivion
 4 Extinction Event
-3 Blast Zone
-1 Ghost Quarter
-1 Blinkmoth Nexus
-3 Swamp
 3 Fatal Push
+1 Ghost Quarter
+3 Blast Zone
+1 Blinkmoth Nexus
 1 Bojuka Bog
+4 Murderous Rider
+3 Castle Locthwain
+4 Swamp
+5 Swamp
+6 Swamp
+7 Swamp
+8 Swamp
+1 Field of Ruin
+4 Castle Locthwain
+9 Swamp
+10 Swamp
+11 Swamp
+12 Swamp
+13 Swamp
+2 Field of Ruin
+1 Liliana, Waker of the Dead
+1 Inscription of Ruin
+1 Waste Not
+1 Tinybones, Trinket Thief
+2 Liliana, Waker of the Dead
+2 Inscription of Ruin
+2 Waste Not
+2 Tinybones, Trinket Thief
+3 Waste Not
 1 Scavenger Grounds
 1 Coldsteel Heart
 2 Coldsteel Heart
 3 Karn, Scion of Urza
 1 Grafdigger's Cage
+1 Mobilized District
+1 Bloodchief's Thirst
+2 Bloodchief's Thirst
+1 Davriel, Rogue Shadowmage
+2 Davriel, Rogue Shadowmage
+3 Liliana, Waker of the Dead
+3 Davriel, Rogue Shadowmage
+4 Waste Not
+1 Unburden
+2 Unburden
+3 Inscription of Ruin
+3 Tinybones, Trinket Thief
 1 Ebondeath, Dracolich
 1 Glint-Sleeve Siphoner
 2 Glint-Sleeve Siphoner
 3 Glint-Sleeve Siphoner
 4 Glint-Sleeve Siphoner
+1 Bontu's Last Reckoning
+1 Lost Legacy
+1 Ritual of Soot
+1 Eliminate
+1 Doom Blade
+2 Lost Legacy
+2 Eliminate
+2 Ritual of Soot
+2 Mobilized District
+2 Doom Blade
+3 Bloodchief's Thirst
+3 Unburden
+4 Inquisition of Kozilek
 1 Karn's Bastion
-4 Murderous Rider
+4 Mazemind Tome
 3 Crawling Barrens
 4 Crawling Barrens
-4 Mazemind Tome
+1 Phyrexian Arena
+2 Phyrexian Arena
+14 Swamp
+15 Swamp
 2 Arch of Orazca
 1 The World Tree
-1 Field of Ruin
+1 Mountain
+2 Mountain
+3 Mountain
+1 Ramunap Ruins
 1 Forgotten Cave
 1 Redcap Melee
-1 Chandra, Awakened Inferno
-1 Mountain
 1 Chandra, Torch of Defiance
-1 Anger of the Gods
+1 Chandra, Awakened Inferno
 1 Shatterskull Smashing
-1 Ramunap Ruins
+1 Anger of the Gods
+2 Ramunap Ruins
 2 Redcap Melee
 2 Grafdigger's Cage
 2 Chandra, Awakened Inferno
+2 Chandra, Torch of Defiance
 2 Forgotten Cave
 2 Anger of the Gods
 2 Shatterskull Smashing
-2 Chandra, Torch of Defiance
-2 Mountain
-2 Ramunap Ruins
 3 Anger of the Gods
 3 Chandra, Torch of Defiance
 3 Ramunap Ruins
-3 Mountain
 4 Chandra, Torch of Defiance
-4 Mountain
 4 Anger of the Gods
+4 Mountain
 5 Mountain
 6 Mountain
 7 Mountain
@@ -160,10 +211,9 @@
 13 Mountain
 14 Mountain
 1 Solemn Simulacrum
-1 Legion's End
 1 Thought Distortion
 1 Labyrinth of Skophos
-1 Mobilized District
+1 Legion's End
 1 Exquisite Blood
 1 Hive of the Eye Tyrant
 2 Hive of the Eye Tyrant
@@ -174,12 +224,53 @@
 1 Bonders' Enclave
 1 Crypt of the Eternals
 2 Ghost Quarter
-2 Crypt of the Eternals
 2 The World Tree
+2 Crypt of the Eternals
 2 Myriad Construct
 3 Ugin, the Ineffable
 3 Coldsteel Heart
 4 Coldsteel Heart
+1 Blightstep Pathway
+1 Kroxa, Titan of Death's Hunger
+1 Blood Crypt
+1 Kolaghan's Command
+1 Tergrid, God of Fright
+1 Faithless Looting
+1 Temple of Malice
+2 Kroxa, Titan of Death's Hunger
+2 Blightstep Pathway
+2 Blood Crypt
+2 Temple of Malice
+2 Kolaghan's Command
+2 Faithless Looting
+3 Kolaghan's Command
+3 Blightstep Pathway
+3 Blood Crypt
+3 Kroxa, Titan of Death's Hunger
+3 Faithless Looting
+4 Blightstep Pathway
+4 Kroxa, Titan of Death's Hunger
+4 Inscription of Ruin
+4 Tinybones, Trinket Thief
+4 Faithless Looting
+1 Languish
+2 Languish
+3 Languish
+4 Languish
+1 Liliana's Triumph
+1 Burglar Rat
+1 Heartless Pillage
+2 Liliana's Triumph
+2 Heartless Pillage
+2 Burglar Rat
+3 Heartless Pillage
+3 Liliana's Triumph
+3 Burglar Rat
+4 Liliana, Waker of the Dead
+1 Scrapheap Scrounger
+2 Scrapheap Scrounger
+3 Scrapheap Scrounger
+4 Scrapheap Scrounger
 1 Wandering Archaic
 1 Fountain of Renewal
 1 Heart of Kiran
@@ -190,58 +281,31 @@
 4 Blinkmoth Nexus
 4 Blast Zone
 4 Karn, Scion of Urza
-3 Castle Locthwain
-4 Castle Locthwain
-1 Mystic Forge
-1 Aetherflux Reservoir
-1 Paradox Engine
-1 Witch's Oven
-1 Tyrite Sanctum
-1 Metalwork Colossus
-2 Field of Ruin
-2 Paradox Engine
-2 Mystic Forge
-2 Metalwork Colossus
-2 Buried Ruin
-3 Mystic Forge
-3 Arch of Orazca
-3 Paradox Engine
-3 Buried Ruin
-3 Metalwork Colossus
-4 Metalwork Colossus
-4 Buried Ruin
-1 Languish
-2 Languish
-3 Languish
-4 Languish
-1 Bloodchief's Thirst
-1 Scrapheap Scrounger
-2 Bloodchief's Thirst
-2 Scrapheap Scrounger
-3 Scrapheap Scrounger
-4 Scrapheap Scrounger
-1 Phyrexian Arena
-2 Agadeem's Awakening
 2 Bojuka Bog
-2 Phyrexian Arena
-3 Phyrexian Obliterator
+2 Agadeem's Awakening
 3 Phyrexian Arena
-4 Phyrexian Obliterator
+3 Phyrexian Obliterator
 4 Fatal Push
-4 Swamp
-5 Swamp
-6 Swamp
-7 Swamp
-8 Swamp
-9 Swamp
-10 Swamp
-11 Swamp
-12 Swamp
-13 Swamp
-14 Swamp
+4 Phyrexian Obliterator
 16 Swamp
 17 Swamp
 18 Swamp
 19 Swamp
 20 Swamp
-15 Swamp
+1 Mystic Forge
+1 Aetherflux Reservoir
+1 Witch's Oven
+1 Paradox Engine
+1 Metalwork Colossus
+1 Tyrite Sanctum
+2 Paradox Engine
+2 Mystic Forge
+2 Metalwork Colossus
+2 Buried Ruin
+3 Mystic Forge
+3 Metalwork Colossus
+3 Arch of Orazca
+3 Paradox Engine
+3 Buried Ruin
+4 Metalwork Colossus
+4 Buried Ruin

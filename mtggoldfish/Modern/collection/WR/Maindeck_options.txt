@@ -1,25 +1,25 @@
-1 Emeria's Call
-1 Shadowspear
-1 Felidar Guardian
-1 Kiki-Jiki, Mirror Breaker
-1 Rugged Prairie
 2 Rugged Prairie
+1 Hallowed Fountain
 1 Archon of Emeria
+4 Charming Prince
+1 Shadowspear
 1 Glasspool Mimic
+3 Sacred Foundry
+1 Emeria's Call
 1 Sword of Feast and Famine
 2 Emeria's Call
 1 Maul of the Skyclaves
+1 Cave of the Frost Dragon
+2 Cave of the Frost Dragon
 1 Marsh Flats
 2 Marsh Flats
+2 Archon of Emeria
 7 Plains
 1 Skyclave Cleric
-2 Archon of Emeria
 3 Marsh Flats
 4 Marsh Flats
 1 Field of Ruin
 2 Field of Ruin
-1 Cave of the Frost Dragon
-2 Cave of the Frost Dragon
 1 Horizon Canopy
 1 Prismatic Ending
 2 Prismatic Ending
@@ -29,6 +29,8 @@
 3 Archon of Emeria
 4 Archon of Emeria
 3 Cave of the Frost Dragon
+1 Temple Garden
+2 Sanctifier en-Vec
 1 Phyrexian Revoker
 2 Horizon Canopy
 1 Eiganjo Castle
@@ -37,6 +39,19 @@
 3 Esper Sentinel
 4 Esper Sentinel
 2 Magus of the Moon
+1 Wooded Foothills
+1 Prismatic Vista
+1 Knight of Autumn
+1 Eternal Witness
+1 Forest
+2 Wooded Foothills
+2 Prismatic Vista
+3 Prismatic Vista
+4 Prismatic Vista
+1 Noble Hierarch
+2 Noble Hierarch
+3 Noble Hierarch
+4 Noble Hierarch
 1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
@@ -44,7 +59,6 @@
 4 Sunbaked Canyon
 3 Field of Ruin
 8 Plains
-1 Temple Garden
 1 Archangel Avacyn
 3 Horizon Canopy
 1 Lightning Bolt
@@ -60,35 +74,26 @@
 2 Silent Clearing
 3 Silent Clearing
 3 Sanctum Prelate
-4 Silent Clearing
 4 Field of Ruin
-2 Sanctifier en-Vec
+4 Silent Clearing
 1 Godless Shrine
 3 Prismatic Ending
 4 Prismatic Ending
+1 Sword of Hearth and Home
 1 Spellskite
 1 Lightning Helix
 2 Lightning Helix
 3 Lightning Helix
-1 Sword of Hearth and Home
-1 Wooded Foothills
-1 Knight of Autumn
-1 Eternal Witness
-1 Prismatic Vista
-1 Forest
-2 Wooded Foothills
 2 Temple Garden
-2 Prismatic Vista
-3 Prismatic Vista
-4 Prismatic Vista
-1 Noble Hierarch
-2 Noble Hierarch
-3 Noble Hierarch
-4 Noble Hierarch
+1 Toski, Bearer of Secrets
+1 Eladamri's Call
+2 Eladamri's Call
+3 Eladamri's Call
+1 Stomping Ground
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
-1 Snow-Covered Mountain
 1 Snow-Covered Plains
+1 Snow-Covered Mountain
 2 Snow-Covered Plains
 3 Snow-Covered Plains
 4 Snow-Covered Plains
@@ -112,11 +117,12 @@
 2 Sunhome, Fortress of the Legion
 3 Scavenger Grounds
 3 Sunhome, Fortress of the Legion
-1 Fury
-2 Fury
-3 Ragavan, Nimble Pilferer
-4 Ragavan, Nimble Pilferer
-1 Stomping Ground
+1 Seasoned Pyromancer
+1 Avalanche Riders
+1 Endurance
+3 Wooded Foothills
+4 Wooded Foothills
+4 Eladamri's Call
 1 Razorverge Thicket
 1 Birds of Paradise
 1 Aven Mindcensor
@@ -125,6 +131,10 @@
 2 Forest
 3 Birds of Paradise
 4 Birds of Paradise
+1 Fury
+2 Fury
+3 Ragavan, Nimble Pilferer
+4 Ragavan, Nimble Pilferer
 1 Flametongue Yearling
 3 Rugged Prairie
 4 Rugged Prairie
@@ -133,16 +143,6 @@
 2 Tectonic Edge
 3 Tectonic Edge
 4 Tectonic Edge
-1 Seasoned Pyromancer
-1 Toski, Bearer of Secrets
-1 Endurance
-1 Avalanche Riders
-1 Eladamri's Call
-2 Eladamri's Call
-3 Wooded Foothills
-3 Eladamri's Call
-4 Wooded Foothills
-4 Eladamri's Call
 1 Branchloft Pathway
 1 Path to Exile
 1 Dryad Arbor
@@ -153,6 +153,15 @@
 4 Branchloft Pathway
 4 Lightning Helix
 4 Mishra's Factory
+1 Breeding Pool
+1 Island
+1 Flooded Strand
+1 Venser, Shaper Savant
+1 Reflector Mage
+1 Soulherder
+2 Flooded Strand
+3 Flooded Strand
+4 Flooded Strand
 1 Castle Ardenvale
 1 Ghost Quarter
 1 Leonin Arbiter

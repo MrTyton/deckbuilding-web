@@ -1,15 +1,17 @@
+2 Mana Leak
 1 Skyclave Apparition
-2 Solitude
+2 Temple Garden
+1 Waterlogged Grove
 1 On Thin Ice
 2 On Thin Ice
-1 Waterlogged Grove
 1 Toski, Bearer of Secrets
+1 Counterspell
+2 Counterspell
 3 Snow-Covered Island
 1 Brazen Borrower
 3 On Thin Ice
 4 On Thin Ice
 3 Solitude
-2 Temple Garden
 1 Ephemerate
 2 Ephemerate
 3 Ephemerate
@@ -18,15 +20,13 @@
 3 Toski, Bearer of Secrets
 1 Geist of Saint Traft
 1 Knight of Autumn
-1 Counterspell
-2 Counterspell
+2 Hallowed Fountain
 1 Eternal Witness
 2 Eternal Witness
 4 Prismatic Ending
 4 Spell Queller
 2 Prismatic Vista
 2 Geist of Saint Traft
-2 Hallowed Fountain
 1 Soulherder
 3 Mana Leak
 1 Eladamri's Call
@@ -38,6 +38,8 @@
 3 Geist of Saint Traft
 2 Jace, the Mind Sculptor
 2 Breeding Pool
+3 Counterspell
+4 Counterspell
 3 Eternal Witness
 2 Eladamri's Call
 3 Eladamri's Call
@@ -51,8 +53,6 @@
 4 Eladamri's Call
 1 Glasspool Mimic
 3 Path to Exile
-3 Counterspell
-4 Counterspell
 1 Wall of Omens
 1 Thassa, Deep-Dwelling
 1 Sanctifier en-Vec
@@ -66,8 +66,8 @@
 2 Wall of Omens
 3 Prismatic Vista
 3 Wall of Omens
-4 Wall of Omens
 4 Prismatic Vista
+4 Wall of Omens
 1 Glacial Fortress
 1 Plains
 1 Arctic Treeline
@@ -80,12 +80,12 @@
 4 Utopia Sprawl
 1 Charming Prince
 1 Coiling Oracle
-2 Coiling Oracle
 2 Soulherder
+2 Coiling Oracle
 3 Soulherder
 3 Coiling Oracle
-4 Soulherder
 4 Snow-Covered Forest
+4 Soulherder
 4 Coiling Oracle
 4 Eternal Witness
 1 Meddling Mage
@@ -95,11 +95,14 @@
 1 Ajani, Adversary of Tyrants
 1 Thalia, Guardian of Thraben
 1 Dromoka's Command
-2 Thalia, Guardian of Thraben
 2 Dromoka's Command
 2 Cephalid Constable
+2 Thalia, Guardian of Thraben
 3 Cephalid Constable
 4 Sanctum Prelate
+1 Archon of Emeria
+2 Archon of Emeria
+3 Archon of Emeria
 1 Reflecting Pool
 1 Remand
 2 Endurance
@@ -107,8 +110,8 @@
 4 Force of Negation
 1 Cryptic Command
 1 Giver of Runes
-2 Giver of Runes
 2 Horizon Canopy
+2 Giver of Runes
 3 Giver of Runes
 1 Razorverge Thicket
 2 Razorverge Thicket
@@ -123,12 +126,12 @@
 2 Snapcaster Mage
 4 Path to Exile
 1 Shardless Agent
-1 Kitchen Finks
 1 Shalai, Voice of Plenty
-1 Walking Ballista
 1 Vizier of Remedies
 1 Duskwatch Recruiter
+1 Walking Ballista
 1 Viridian Longbow
+1 Kitchen Finks
 1 Chord of Calling
 1 Devoted Druid
 2 Shardless Agent
@@ -143,25 +146,22 @@
 4 Chord of Calling
 4 Devoted Druid
 1 Disdainful Stroke
-1 Scavenging Ooze
 1 Questing Beast
+1 Scavenging Ooze
 1 Mystic Snake
+2 Glacial Fortress
 2 Brazen Borrower
 2 Titania, Protector of Argoth
 2 Waterlogged Grove
-1 Archon of Emeria
-2 Glacial Fortress
-2 Archon of Emeria
-3 Archon of Emeria
 1 Collected Company
-2 Gavony Township
 2 Collected Company
+2 Gavony Township
 3 Collected Company
 1 Abundant Harvest
 1 Stonehorn Dignitary
 2 Abundant Harvest
-3 Abundant Harvest
 3 Razorverge Thicket
+3 Abundant Harvest
 1 Unsettled Mariner
 1 Spellstutter Sprite
 2 Unsettled Mariner
@@ -170,46 +170,24 @@
 3 Spellstutter Sprite
 4 Unsettled Mariner
 4 Spellstutter Sprite
-4 Endurance
 4 Mana Leak
-1 Tangled Florahedron
-1 Ulamog, the Infinite Gyre
-1 Botanical Sanctum
-1 Hinterland Harbor
-1 Emrakul, the Aeons Torn
-1 Kozilek, Butcher of Truth
-1 Koma, Cosmos Serpent
-1 The World Tree
-1 Kinnan, Bonder Prodigy
-1 Golos, Tireless Pilgrim
-1 Wooded Foothills
-1 Barkchannel Pathway
-2 Tangled Florahedron
-2 Botanical Sanctum
-2 Golos, Tireless Pilgrim
-2 Kinnan, Bonder Prodigy
-3 Birds of Paradise
-3 Tangled Florahedron
-3 Kinnan, Bonder Prodigy
-4 Tangled Florahedron
-4 Birds of Paradise
-4 Kinnan, Bonder Prodigy
+4 Endurance
 1 Celestial Colonnade
-1 Field of Ruin
-1 Subtlety
 1 Archmage's Charm
+1 Subtlety
+1 Field of Ruin
 1 Teferi, Hero of Dominaria
 1 Polluted Delta
 2 Celestial Colonnade
 2 Archmage's Charm
-2 Field of Ruin
 2 Cryptic Command
 2 Plains
 2 Island
+2 Field of Ruin
 2 Polluted Delta
-3 Field of Ruin
 3 Snapcaster Mage
 3 Polluted Delta
+3 Field of Ruin
 3 Island
 4 Polluted Delta
 4 Island
@@ -222,3 +200,25 @@
 2 Knight of Autumn
 2 Canopy Vista
 5 Snow-Covered Forest
+1 Emrakul, the Aeons Torn
+1 Tangled Florahedron
+1 Wooded Foothills
+1 Hinterland Harbor
+1 Botanical Sanctum
+1 Barkchannel Pathway
+1 The World Tree
+1 Kozilek, Butcher of Truth
+1 Koma, Cosmos Serpent
+1 Ulamog, the Infinite Gyre
+1 Kinnan, Bonder Prodigy
+1 Golos, Tireless Pilgrim
+2 Tangled Florahedron
+2 Botanical Sanctum
+2 Golos, Tireless Pilgrim
+2 Kinnan, Bonder Prodigy
+3 Tangled Florahedron
+3 Birds of Paradise
+3 Kinnan, Bonder Prodigy
+4 Tangled Florahedron
+4 Birds of Paradise
+4 Kinnan, Bonder Prodigy

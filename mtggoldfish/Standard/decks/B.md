@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Rankle, Master of Pranks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473063)|                    1|Power Word Kill                                                                               |
-|                    1|Warlock Class                                                                                      |                    1|Lolth, Spider Queen                                                                           |
+|                    1|Warlock Class                                                                                      |                    1|Power Word Kill                                                                               |
+|                    1|[Rankle, Master of Pranks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473063)|                    1|Lolth, Spider Queen                                                                           |
 |                    1|[Elderfang Disciple](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503702)      |                    2|Lolth, Spider Queen                                                                           |
 |                    2|Warlock Class                                                                                      |                    2|Power Word Kill                                                                               |
 |                    2|[Elderfang Disciple](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503702)      |                    3|Power Word Kill                                                                               |
@@ -38,6 +38,6 @@
 |                    2|[Erebos, Bleak-Hearted](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476344)   |                    4|Lolth, Spider Queen                                                                           |
 |                   21|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                    1|[Necromentia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485439)        |
 |                   22|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                    1|[Elspeth's Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476342)|
-|                     |                                                                                                   |                    2|[Elspeth's Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476342)|
 |                     |                                                                                                   |                    3|[Elspeth's Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476342)|
+|                     |                                                                                                   |                    2|[Elspeth's Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476342)|
 
