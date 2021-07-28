@@ -1,20 +1,20 @@
-2 Ragavan, Nimble Pilferer
 1 Sunbaked Canyon
+2 Ragavan, Nimble Pilferer
 3 Flame Slash
 3 Fury
 3 Blast Zone
 3 Ragavan, Nimble Pilferer
+1 Fiery Islet
 2 Sunbaked Canyon
 4 Fury
-1 Fiery Islet
+4 Flame Slash
 2 Fiery Islet
+4 Ragavan, Nimble Pilferer
 1 Dragon's Rage Channeler
 2 Dragon's Rage Channeler
 3 Dragon's Rage Channeler
-4 Ragavan, Nimble Pilferer
 4 Dragon's Rage Channeler
 3 Fiery Islet
-4 Flame Slash
 3 Sunbaked Canyon
 4 Sunbaked Canyon
 1 Spikefield Hazard
@@ -34,7 +34,6 @@
 11 Snow-Covered Mountain
 12 Snow-Covered Mountain
 1 Pyrite Spellbomb
-1 Arid Mesa
 1 Relic of Progenitus
 1 Blistercoil Weird
 3 Spikefield Hazard
@@ -43,6 +42,7 @@
 14 Snow-Covered Mountain
 15 Snow-Covered Mountain
 16 Snow-Covered Mountain
+1 Arid Mesa
 1 Unholy Heat
 2 Unholy Heat
 2 Arid Mesa
@@ -54,14 +54,14 @@
 1 Wooded Foothills
 2 Wooded Foothills
 3 Wooded Foothills
-1 Seal of Fire
-2 Seal of Fire
 1 Obosh, the Preypiercer
-3 Unholy Heat
-1 Burst Lightning
 1 Mutavault
+1 Burst Lightning
 2 Mutavault
 3 Mutavault
+3 Unholy Heat
+1 Seal of Fire
+2 Seal of Fire
 4 Fiery Islet
 1 Scalding Tarn
 2 Scalding Tarn
@@ -71,17 +71,6 @@
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
-1 Crash Through
-1 Lava Spike
-1 Manamorphose
-2 Crash Through
-2 Manamorphose
-2 Lava Spike
-3 Crash Through
-3 Manamorphose
-3 Lava Spike
-4 Crash Through
-4 Manamorphose
-4 Lava Spike
+18 Mountain
 1 Magus of the Moon
 17 Snow-Covered Mountain

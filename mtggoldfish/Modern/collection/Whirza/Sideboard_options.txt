@@ -1,9 +1,9 @@
 1 Tezzeret, Agent of Bolas
 1 Thoughtseize
 2 Thoughtseize
-3 Thoughtseize
 1 Fatal Push
 2 Fatal Push
+3 Thoughtseize
 3 Fatal Push
 1 Surgical Extraction
 1 Grafdigger's Cage
@@ -12,6 +12,8 @@
 1 Fracture
 2 Fracture
 1 Ashiok, Nightmare Muse
+1 Aether Gust
+2 Aether Gust
 1 Ensnaring Bridge
 1 Void Mirror
 1 Dauthi Voidwalker
@@ -19,28 +21,26 @@
 2 Ashiok, Nightmare Muse
 2 Dauthi Voidwalker
 3 Dauthi Voidwalker
-1 Aether Gust
-2 Aether Gust
 1 Ghirapur Aether Grid
 1 Galvanic Blast
 2 Galvanic Blast
-1 Torpor Orb
 1 Pithing Needle
+1 Torpor Orb
 1 Cling to Dust
 1 Cleansing Wildfire
 1 Damnation
 1 Witchbane Orb
-1 Engineered Explosives
 1 Wear/Tear
 2 Wear/Tear
-1 Mystical Dispute
-2 Mystical Dispute
+1 Engineered Explosives
 3 Wear/Tear
+1 Teferi, Time Raveler
 1 Supreme Verdict
+1 Mystical Dispute
 1 Chalice of the Void
 1 Counterspell
 1 Prismatic Ending
-1 Teferi, Time Raveler
+2 Mystical Dispute
 2 Chalice of the Void
 2 Counterspell
 3 Counterspell
@@ -51,14 +51,14 @@
 1 Soul-Guide Lantern
 1 Sai, Master Thopterist
 2 Sai, Master Thopterist
-1 Ceremonious Rejection
-2 Ceremonious Rejection
+3 Aether Gust
+1 Yorion, Sky Nomad
 1 Urza, Lord High Artificer
+1 Tormod's Crypt
 2 Tezzeret, Agent of Bolas
 2 Unmoored Ego
 1 Assassin's Trophy
 2 Assassin's Trophy
-1 Tormod's Crypt
 1 Bloodchief's Thirst
 1 Rip Apart
 1 Cursed Totem
@@ -67,13 +67,11 @@
 1 Tale's End
 1 Dreadbore
 2 Tale's End
-1 Karn, Scion of Urza
-1 Dead of Winter
-2 Soul-Guide Lantern
-2 Karn, Scion of Urza
-2 Sorcerous Spyglass
 2 Spellskite
+2 Sorcerous Spyglass
 3 Spellskite
+1 Ceremonious Rejection
+2 Ceremonious Rejection
 2 Urza, Lord High Artificer
 3 Ceremonious Rejection
 3 Urza, Lord High Artificer
@@ -85,11 +83,14 @@
 3 Unmoored Ego
 4 Veil of Summer
 1 Hurkyl's Recall
-1 Yorion, Sky Nomad
 2 Pithing Needle
 2 Hurkyl's Recall
 4 Wear/Tear
-3 Aether Gust
+2 Damping Sphere
+2 Teferi, Time Raveler
+2 Soul-Guide Lantern
+3 Teferi, Time Raveler
+4 Teferi, Time Raveler
 3 Sai, Master Thopterist
 4 Aether Gust
 1 Spell Snare

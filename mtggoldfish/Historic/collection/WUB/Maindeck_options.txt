@@ -100,30 +100,30 @@
 3 Kaya, Orzhov Usurper
 4 Trial of Ambition
 1 Callous Bloodmage
+1 Elderfang Disciple
 1 Ephemerate
 1 Gonti, Lord of Luxury
 1 The Scarab God
 1 Skyclave Apparition
-1 Elderfang Disciple
 1 Agadeem's Awakening
 1 Ravenous Chupacabra
 1 Charming Prince
 2 Callous Bloodmage
+2 Elderfang Disciple
 2 Ephemerate
 2 Gonti, Lord of Luxury
-2 Elderfang Disciple
 2 Skyclave Apparition
 2 The Scarab God
 2 Charming Prince
 3 Callous Bloodmage
-3 Ephemerate
 3 Elderfang Disciple
+3 Ephemerate
 3 Skyclave Apparition
 3 Charming Prince
+4 Elderfang Disciple
 4 Ephemerate
 4 Callous Bloodmage
 4 Charming Prince
-4 Elderfang Disciple
 4 Skyclave Apparition
 1 Crawling Barrens
 1 Eliminate
@@ -176,21 +176,21 @@
 3 Cast Out
 4 Plains
 4 Irrigated Farmland
-1 Tranquil Cove
-1 Dismal Backwater
 1 Scoured Barrens
+1 Dismal Backwater
+1 Snowfield Sinkhole
+1 Tranquil Cove
 1 Ice Tunnel
 1 Glacial Floodplain
-1 Snowfield Sinkhole
 2 Dismal Backwater
 2 Scoured Barrens
+2 Snowfield Sinkhole
 2 Glacial Floodplain
 2 Ice Tunnel
-2 Snowfield Sinkhole
-3 Dismal Backwater
 3 Behold the Multiverse
-3 Baleful Mastery
 3 Snowfield Sinkhole
+3 Baleful Mastery
+3 Dismal Backwater
 3 Scoured Barrens
 3 Ice Tunnel
 4 Snowfield Sinkhole
@@ -208,7 +208,6 @@
 4 Bloodchief's Thirst
 4 Dragon Turtle
 7 Island
-1 Temple of Plenty
 1 Growth Spiral
 1 Temple of Enlightenment
 1 Cultivate
@@ -220,11 +219,11 @@
 1 Temple Garden
 1 Koma, Cosmos Serpent
 1 Archway Commons
+1 Temple of Plenty
 1 Wolfwillow Haven
 1 Breeding Pool
 1 Hydroid Krasis
 1 Temple of Mystery
-2 Temple of Plenty
 2 Growth Spiral
 2 Temple of Enlightenment
 2 Cultivate
@@ -233,6 +232,7 @@
 2 Elspeth Conquers Death
 2 Archway Commons
 2 Forest
+2 Temple of Plenty
 2 Temple of Mystery
 2 Hydroid Krasis
 2 Wolfwillow Haven

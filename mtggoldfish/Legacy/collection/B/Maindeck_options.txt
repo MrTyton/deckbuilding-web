@@ -21,8 +21,8 @@
 1 Snow-Covered Swamp
 1 Bayou
 1 Verdant Catacombs
-1 Wasteland
 1 Grief
+1 Wasteland
 1 Grist, the Hunger Tide
 1 Snow-Covered Forest
 1 Abrupt Decay
@@ -33,8 +33,8 @@
 1 Polluted Delta
 1 Misty Rainforest
 2 Undying Evil
-2 Thoughtseize
 2 Grief
+2 Thoughtseize
 2 Grist, the Hunger Tide
 2 Tourach, Dread Cantor
 2 Sylvan Library
@@ -53,9 +53,9 @@
 3 Verdant Catacombs
 3 Undying Evil
 3 Grist, the Hunger Tide
+3 Grief
 3 Abrupt Decay
 3 Wasteland
-3 Grief
 3 Bayou
 3 Dauthi Voidwalker
 4 Dark Confidant
@@ -71,6 +71,12 @@
 3 Lupine Prototype
 4 Fatal Push
 4 Lupine Prototype
+1 Wrench Mind
+2 Wrench Mind
+3 Wrench Mind
+4 Wrench Mind
+4 Waste Not
+21 Swamp
 1 Bojuka Bog
 1 Gonti, Lord of Luxury
 1 Choking Sands
@@ -93,9 +99,3 @@
 3 Hypnotic Specter
 4 Ammit Eternal
 4 Hypnotic Specter
-1 Wrench Mind
-2 Wrench Mind
-3 Wrench Mind
-4 Wrench Mind
-4 Waste Not
-21 Swamp

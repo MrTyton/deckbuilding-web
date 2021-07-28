@@ -49,26 +49,26 @@
 3 Binding the Old Gods
 1 Setessan Champion
 1 Woodland Cemetery
-1 Calix, Destiny's Hand
 1 Hostage Taker
 1 Deputy of Detention
 1 In Search of Greatness
 1 Elspeth's Nightmare
 1 Renegade Rallier
+1 Calix, Destiny's Hand
 1 Hinterland Harbor
 1 Tolsimir, Friend to Wolves
 2 Setessan Champion
+2 Elspeth's Nightmare
 2 Sunpetal Grove
 2 Woodland Cemetery
-2 Calix, Destiny's Hand
 2 Hinterland Harbor
 2 In Search of Greatness
+2 Calix, Destiny's Hand
 2 Glacial Fortress
-2 Elspeth's Nightmare
 3 Trial of Ambition
 3 Skyclave Apparition
-3 Oath of Kaya
 3 Elspeth's Nightmare
+3 Oath of Kaya
 3 Glacial Fortress
 3 In Search of Greatness
 3 Calix, Destiny's Hand
@@ -185,7 +185,6 @@
 1 Sanctum of Fruitful Harvest
 1 Sanctum of Tranquil Light
 1 Trial of Knowledge
-2 The Birth of Meletis
 2 Omen of the Forge
 2 Yorion, Sky Nomad
 2 Solemn Simulacrum
@@ -196,6 +195,7 @@
 2 Cragcrown Pathway
 2 Medomai's Prophecy
 2 Finale of Devastation
+2 The Birth of Meletis
 2 Escape to the Wilds
 2 Klothys, God of Destiny
 2 Fae of Wishes
@@ -239,8 +239,8 @@
 3 Omen of the Forge
 3 Savai Triome
 3 Cragcrown Pathway
-3 Fae of Wishes
 3 Thirst for Meaning
+3 Fae of Wishes
 3 Evolving Wilds
 3 Stomping Ground
 3 Wrath of God
@@ -264,6 +264,7 @@
 4 Island
 4 Cultivate
 4 Steam Vents
+4 Treacherous Blessing
 4 Fae of Wishes
 4 Overgrown Tomb
 4 Temple Garden
@@ -272,7 +273,6 @@
 4 Thirst for Meaning
 4 Deafening Clarion
 4 Prophetic Prism
-4 Treacherous Blessing
 4 Renegade Map
 4 Migration Path
 4 Gilded Goose

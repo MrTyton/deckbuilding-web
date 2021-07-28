@@ -114,8 +114,8 @@
 1 Cave of the Frost Dragon
 1 Temple of Plenty
 1 Lyra Dawnbringer
-2 Cave of the Frost Dragon
 2 Temple of Plenty
+2 Cave of the Frost Dragon
 1 Dromoka's Command
 2 Dromoka's Command
 1 Arboreal Grazer
@@ -157,16 +157,6 @@
 3 Brightclimb Pathway
 3 Vito, Thorn of the Dusk Rose
 4 Brightclimb Pathway
-1 Mana Tithe
-1 Rest in Peace
-2 Mana Tithe
-2 Rest in Peace
-3 Mana Tithe
-4 Mana Tithe
-1 Selfless Savior
-2 Selfless Savior
-3 Selfless Savior
-4 Selfless Savior
 1 Showdown of the Skalds
 1 Sacred Foundry
 1 Needleverge Pathway
@@ -185,16 +175,26 @@
 2 Lightning Helix
 3 Cragcrown Pathway
 3 Sacred Foundry
+3 Skyclave Cleric
 3 Elite Spellbinder
 3 Needleverge Pathway
 3 Lightning Helix
-3 Skyclave Cleric
 4 Lightning Helix
 4 Cragcrown Pathway
 4 Sacred Foundry
 4 Needleverge Pathway
-4 Elite Spellbinder
 4 Skyclave Cleric
+4 Elite Spellbinder
+1 Mana Tithe
+1 Rest in Peace
+2 Mana Tithe
+2 Rest in Peace
+3 Mana Tithe
+4 Mana Tithe
+1 Selfless Savior
+2 Selfless Savior
+3 Selfless Savior
+4 Selfless Savior
 1 Remorseful Cleric
 2 Remorseful Cleric
 3 Remorseful Cleric
@@ -212,8 +212,8 @@
 3 Baffling End
 3 Banishing Light
 3 Snow-Covered Plains
-4 Banishing Light
 4 Baffling End
+4 Banishing Light
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 6 Snow-Covered Plains
