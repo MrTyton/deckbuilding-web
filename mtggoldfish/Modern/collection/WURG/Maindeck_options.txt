@@ -42,11 +42,11 @@
 1 Khalni Garden
 1 Glimpse of Tomorrow
 1 Violent Outburst
-2 Violent Outburst
-2 Glimpse of Tomorrow
 2 Khalni Garden
-3 Glimpse of Tomorrow
+2 Glimpse of Tomorrow
+2 Violent Outburst
 3 Khalni Garden
+3 Glimpse of Tomorrow
 3 Violent Outburst
 4 Khalni Garden
 4 Violent Outburst
@@ -57,9 +57,9 @@
 1 Windswept Heath
 2 Noble Hierarch
 2 Windswept Heath
-1 Blood Crypt
 1 Savai Triome
 1 Ignoble Hierarch
+1 Blood Crypt
 2 Ignoble Hierarch
 1 Emrakul, the Aeons Torn
 1 Wavesifter
@@ -125,15 +125,15 @@
 2 Gemstone Caverns
 1 Manamorphose
 2 Flooded Strand
-2 Sacred Foundry
 2 Manamorphose
+2 Sacred Foundry
 3 Lightning Helix
-3 Manamorphose
 3 Flooded Strand
+3 Manamorphose
 4 Lightning Helix
-4 Bloodstained Mire
 4 Flooded Strand
 4 Manamorphose
+4 Bloodstained Mire
 4 General Ferrous Rokiric
 1 Plains
 3 Iona, Shield of Emeria
@@ -181,9 +181,9 @@
 3 Tarmogoyf
 4 Windswept Heath
 1 Serra's Emissary
-1 Celestial Colonnade
 1 Spell Pierce
 1 Snow-Covered Plains
+1 Celestial Colonnade
 1 Ashen Rider
 1 Grief
 2 Grief
@@ -214,19 +214,19 @@
 1 Flusterstorm
 1 Cindervines
 1 Beast Within
-1 Transmogrify
-2 Transmogrify
-1 Polluted Delta
-1 Endurance
-1 Solitude
-1 Acererak the Archlich
-1 Kaervek the Merciless
-2 Forest
 1 Anafenza, the Foremost
 2 Anafenza, the Foremost
+1 Polluted Delta
+1 Endurance
+1 Acererak the Archlich
+1 Solitude
+1 Kaervek the Merciless
+2 Forest
 2 Jace, the Mind Sculptor
 1 Botanical Sanctum
 2 Botanical Sanctum
+1 Transmogrify
+2 Transmogrify
 1 Waterlogged Grove
 1 Hexdrinker
 2 Temple Garden
@@ -253,8 +253,8 @@
 2 Academy Manufactor
 3 Academy Manufactor
 4 Academy Manufactor
-1 Terror of the Peaks
 1 Fury
+1 Terror of the Peaks
 2 Fury
 3 Fury
 4 Fury

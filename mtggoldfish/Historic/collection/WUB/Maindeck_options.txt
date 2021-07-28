@@ -99,32 +99,32 @@
 2 Zagoth Triome
 3 Kaya, Orzhov Usurper
 4 Trial of Ambition
-1 Skyclave Apparition
-1 Ephemerate
-1 Elderfang Disciple
-1 The Scarab God
 1 Callous Bloodmage
+1 Ephemerate
 1 Gonti, Lord of Luxury
+1 The Scarab God
+1 Skyclave Apparition
+1 Elderfang Disciple
 1 Agadeem's Awakening
 1 Ravenous Chupacabra
 1 Charming Prince
-2 Skyclave Apparition
-2 Ephemerate
-2 Elderfang Disciple
 2 Callous Bloodmage
+2 Ephemerate
 2 Gonti, Lord of Luxury
+2 Elderfang Disciple
+2 Skyclave Apparition
 2 The Scarab God
 2 Charming Prince
-3 Skyclave Apparition
+3 Callous Bloodmage
 3 Ephemerate
 3 Elderfang Disciple
-3 Callous Bloodmage
+3 Skyclave Apparition
 3 Charming Prince
 4 Ephemerate
-4 Elderfang Disciple
-4 Charming Prince
-4 Skyclave Apparition
 4 Callous Bloodmage
+4 Charming Prince
+4 Elderfang Disciple
+4 Skyclave Apparition
 1 Crawling Barrens
 1 Eliminate
 1 Crux of Fate
@@ -146,13 +146,13 @@
 2 Chainer's Edict
 1 Dovin's Veto
 2 Vraska's Contempt
+1 Blast Zone
 1 Hieroglyphic Illumination
 1 Negate
 1 Languish
-1 Blast Zone
-2 Sublime Epiphany
-2 Languish
 2 Blast Zone
+2 Languish
+2 Sublime Epiphany
 3 Shadows' Verdict
 1 Opt
 1 Thassa's Intervention
@@ -169,17 +169,17 @@
 2 Cast Out
 2 Grafdigger's Cage
 2 Tale's End
+3 Baffling End
+3 Castle Ardenvale
 3 Wrath of God
 3 Irrigated Farmland
-3 Castle Ardenvale
-3 Baffling End
 3 Cast Out
 4 Plains
 4 Irrigated Farmland
 1 Tranquil Cove
-1 Ice Tunnel
 1 Dismal Backwater
 1 Scoured Barrens
+1 Ice Tunnel
 1 Glacial Floodplain
 1 Snowfield Sinkhole
 2 Dismal Backwater
@@ -208,37 +208,37 @@
 4 Bloodchief's Thirst
 4 Dragon Turtle
 7 Island
+1 Temple of Plenty
 1 Growth Spiral
 1 Temple of Enlightenment
-1 Temple of Plenty
-1 Shatter the Sky
 1 Cultivate
+1 Shatter the Sky
+1 Banishing Light
 1 Forest
-1 Temple Garden
 1 Sinister Sabotage
 1 Ugin, the Spirit Dragon
-1 Banishing Light
+1 Temple Garden
 1 Koma, Cosmos Serpent
 1 Archway Commons
 1 Wolfwillow Haven
 1 Breeding Pool
 1 Hydroid Krasis
 1 Temple of Mystery
-2 Growth Spiral
-2 Forest
-2 Temple of Enlightenment
 2 Temple of Plenty
+2 Growth Spiral
+2 Temple of Enlightenment
 2 Cultivate
+2 Banishing Light
 2 Sinister Sabotage
 2 Elspeth Conquers Death
-2 Banishing Light
 2 Archway Commons
+2 Forest
 2 Temple of Mystery
 2 Hydroid Krasis
 2 Wolfwillow Haven
 3 Growth Spiral
-3 Forest
 3 Sinister Sabotage
-4 Forest
+3 Forest
 4 Growth Spiral
 5 Forest
+4 Forest

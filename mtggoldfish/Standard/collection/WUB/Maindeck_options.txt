@@ -101,41 +101,41 @@
 2 Brightclimb Pathway
 3 Brightclimb Pathway
 4 Brightclimb Pathway
-1 Vanishing Verse
 1 Hengegate Pathway
 1 Doomskar
+1 Vanishing Verse
+2 Hengegate Pathway
 2 Vanishing Verse
 2 Doomskar
-2 Hengegate Pathway
-3 Vanishing Verse
 3 Hengegate Pathway
+3 Vanishing Verse
 4 Hengegate Pathway
 1 Suffocating Fumes
 1 Elspeth's Nightmare
 2 Bloodchief's Thirst
 2 Magma Opus
+1 Barkchannel Pathway
 1 Darkbore Pathway
 1 Polukranos, Unchained
 1 Elder Gargaroth
-1 Barkchannel Pathway
-2 Polukranos, Unchained
-2 Darkbore Pathway
 2 Barkchannel Pathway
+2 Darkbore Pathway
+2 Polukranos, Unchained
 3 Barkchannel Pathway
 4 Barkchannel Pathway
 2 Plains
 2 Iymrith, Desert Doom
 8 Swamp
 4 Eliminate
-1 Koma, Cosmos Serpent
 1 Forest
 1 Binding the Old Gods
-2 Koma, Cosmos Serpent
-2 Binding the Old Gods
+1 Koma, Cosmos Serpent
 2 Forest
 2 Elder Gargaroth
-3 Elder Gargaroth
+2 Binding the Old Gods
+2 Koma, Cosmos Serpent
 3 Darkbore Pathway
+3 Elder Gargaroth
 3 Binding the Old Gods
 4 Darkbore Pathway
 4 Elder Gargaroth
@@ -173,6 +173,9 @@
 8 Mountain
 3 Power Word Kill
 3 Plains
+1 Baleful Mastery
+3 Negate
+4 Field of Ruin
 1 Temple of Silence
 2 Temple of Silence
 3 Temple of Silence
@@ -186,9 +189,6 @@
 2 Dream Trawler
 3 Raugrin Triome
 4 Raugrin Triome
-1 Baleful Mastery
-3 Negate
-4 Field of Ruin
 1 Chevill, Bane of Monsters
 2 Chevill, Bane of Monsters
 3 Chevill, Bane of Monsters
@@ -198,37 +198,37 @@
 7 Island
 3 Flunk
 9 Swamp
-1 Skyclave Apparition
 1 Savai Triome
 1 Elite Spellbinder
+1 Skyclave Apparition
 1 Magda, Brazen Outlaw
 1 Showdown of the Skalds
 1 Needleverge Pathway
 2 Savai Triome
-2 Skyclave Apparition
 2 Elite Spellbinder
+2 Skyclave Apparition
 2 Magda, Brazen Outlaw
 2 Showdown of the Skalds
 2 Needleverge Pathway
-3 Elite Spellbinder
 3 Savai Triome
 3 Skyclave Apparition
 3 Magda, Brazen Outlaw
 3 Showdown of the Skalds
 3 Needleverge Pathway
-4 Elite Spellbinder
-4 Needleverge Pathway
+3 Elite Spellbinder
 4 Showdown of the Skalds
+4 Needleverge Pathway
 4 Kalain, Reclusive Painter
-2 Temple of Malady
-2 Hive of the Eye Tyrant
+4 Elite Spellbinder
 1 Den of the Bugbear
 1 Dragon's Fire
 2 Crippling Fear
 2 Dragon's Fire
 2 Valki, God of Lies
+2 Hive of the Eye Tyrant
 2 Murderous Rider
 2 Immersturm Predator
+2 Temple of Malady
 1 Agonizing Remorse
 1 Feed the Swarm
 2 Agonizing Remorse
@@ -236,31 +236,31 @@
 1 Village Rites
 2 Village Rites
 3 Village Rites
-1 Niko Aris
-2 Niko Aris
-3 Jwari Disruption
-3 Temple of Enlightenment
-3 Niko Aris
-4 Jwari Disruption
-4 Niko Aris
-4 Doomskar
 1 Dismal Backwater
 2 Dismal Backwater
 3 Iymrith, Desert Doom
 3 Dismal Backwater
 4 Dismal Backwater
+1 Niko Aris
+2 Niko Aris
+3 Jwari Disruption
+3 Temple of Enlightenment
+3 Niko Aris
+4 Doomskar
+4 Jwari Disruption
+4 Niko Aris
 1 Temple of Epiphany
-1 Poison the Cup
 1 Surtland Frostpyre
+1 Poison the Cup
 1 Double Vision
 1 Immersturm Skullcairn
 1 Feed the Serpent
 2 Castle Locthwain
-2 Poison the Cup
 2 Double Vision
 2 Temple of Epiphany
-3 Bloodchief's Thirst
+2 Poison the Cup
 3 Temple of Epiphany
 3 Double Vision
+3 Bloodchief's Thirst
 4 Temple of Epiphany
 4 Double Vision

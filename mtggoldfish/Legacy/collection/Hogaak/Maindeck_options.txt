@@ -10,14 +10,14 @@
 2 Swamp
 3 Bloodstained Mire
 2 Carrion Feeder
-1 Anger
-3 Badlands
 1 Satyr Wayfinder
 2 Satyr Wayfinder
 3 Satyr Wayfinder
-3 Polluted Delta
+1 Anger
+3 Badlands
 2 Marsh Flats
 3 Marsh Flats
+3 Polluted Delta
 1 Wooded Foothills
 1 Basking Rootwalla
 2 Basking Rootwalla
@@ -28,7 +28,6 @@
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
-3 Carrion Feeder
 1 Blazing Rootwalla
 2 Blazing Rootwalla
 3 Blazing Rootwalla
@@ -69,13 +68,10 @@
 2 Arid Mesa
 2 Scalding Tarn
 2 Anger
-3 Scalding Tarn
 3 Arid Mesa
+3 Scalding Tarn
 4 Arid Mesa
 4 Scalding Tarn
-1 Darkblast
-2 Darkblast
-4 Polluted Delta
 1 Snow-Covered Swamp
 4 Cabal Therapy
 1 Ephemerate
@@ -85,6 +81,7 @@
 3 Scrubland
 4 Ephemerate
 4 Satyr Wayfinder
+3 Carrion Feeder
 4 Bloodstained Mire
 1 Windswept Heath
 2 Windswept Heath
@@ -111,12 +108,15 @@
 3 Snow-Covered Swamp
 4 Marsh Flats
 1 Asylum Visitor
-2 Ox of Agonas
 2 Asylum Visitor
+2 Ox of Agonas
 3 Taiga
 3 Asylum Visitor
 4 Badlands
 4 Asylum Visitor
+1 Darkblast
+2 Darkblast
+4 Polluted Delta
 2 Sylvan Safekeeper
 3 Sylvan Safekeeper
 3 Lotleth Troll

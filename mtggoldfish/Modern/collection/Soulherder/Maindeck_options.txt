@@ -100,22 +100,22 @@
 1 Elite Spellbinder
 1 Hengegate Pathway
 2 Seachrome Coast
-2 Hengegate Pathway
 2 Elite Spellbinder
 2 Island
+2 Hengegate Pathway
 3 Field of Ruin
 3 Seachrome Coast
-3 Hengegate Pathway
 3 Glasspool Mimic
 3 Elite Spellbinder
 3 Hallowed Fountain
+3 Hengegate Pathway
 4 Field of Ruin
-4 Hengegate Pathway
 4 Elite Spellbinder
 4 Glasspool Mimic
 4 Flickerwisp
 4 Seachrome Coast
 4 Hallowed Fountain
+4 Hengegate Pathway
 6 Plains
 4 Birds of Paradise
 1 Saheeli Rai
@@ -254,15 +254,6 @@
 1 Coiling Oracle
 2 Coiling Oracle
 3 Coiling Oracle
-1 Spellstutter Sprite
-1 Vendilion Clique
-1 Mutavault
-2 Spellstutter Sprite
-2 Vendilion Clique
-2 Mutavault
-3 Spellstutter Sprite
-3 Mutavault
-4 Spellstutter Sprite
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Forest
@@ -308,3 +299,12 @@
 4 Eldritch Evolution
 4 Renegade Rallier
 4 Voice of Resurgence
+1 Spellstutter Sprite
+1 Vendilion Clique
+1 Mutavault
+2 Spellstutter Sprite
+2 Vendilion Clique
+2 Mutavault
+3 Spellstutter Sprite
+3 Mutavault
+4 Spellstutter Sprite

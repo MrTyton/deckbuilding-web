@@ -21,8 +21,8 @@
 3 Cling to Dust
 1 Hive of the Eye Tyrant
 2 Castle Locthwain
-1 Dragon's Fire
 1 Ebondeath, Dracolich
+1 Dragon's Fire
 2 Dragon's Fire
 2 Ebondeath, Dracolich
 3 Dragon's Fire
@@ -78,10 +78,10 @@
 3 Sacred Foundry
 1 Liliana, Waker of the Dead
 1 Blooming Marsh
-1 Overgrown Tomb
 1 Rootbound Crag
 1 Stomping Ground
 1 Cragcrown Pathway
+1 Overgrown Tomb
 1 Scavenging Ooze
 2 Overgrown Tomb
 2 Cragcrown Pathway
@@ -134,45 +134,29 @@
 3 Scavenging Ooze
 3 Cragcrown Pathway
 4 Scavenging Ooze
-1 Brightclimb Pathway
-1 Needleverge Pathway
-1 Nadaar, Selfless Paladin
-1 Vanishing Verse
-1 Mazemind Tome
-1 Dragon's Disciple
-2 Brightclimb Pathway
-2 Needleverge Pathway
-2 Mazemind Tome
-2 Nadaar, Selfless Paladin
-2 Dragon's Disciple
-3 Needleverge Pathway
-3 Nadaar, Selfless Paladin
-3 Dragon's Disciple
-4 Glorybringer
-4 Savai Triome
 1 Snow-Covered Forest
 1 Snow-Covered Mountain
 1 Snow-Covered Swamp
-1 Questing Beast
-1 Elder Gargaroth
 1 Klothys, God of Destiny
-2 Klothys, God of Destiny
+1 Elder Gargaroth
+1 Questing Beast
 2 Blooming Marsh
-2 Questing Beast
 2 Rootbound Crag
+2 Klothys, God of Destiny
 2 Elder Gargaroth
-3 Klothys, God of Destiny
-3 Kolaghan's Command
-3 Questing Beast
-3 Rootbound Crag
+2 Questing Beast
 3 Stomping Ground
+3 Questing Beast
+3 Klothys, God of Destiny
+3 Rootbound Crag
+3 Kolaghan's Command
 4 Rootbound Crag
 1 Hazoret the Fervent
 2 Hazoret the Fervent
 2 Heartless Act
+3 Castle Locthwain
 3 Heartless Act
 3 Kroxa, Titan of Death's Hunger
-3 Castle Locthwain
 3 Rix Maadi Reveler
 4 Dragonskull Summit
 4 Chandra, Torch of Defiance
@@ -191,8 +175,8 @@
 1 Deafening Clarion
 1 Elite Spellbinder
 1 Plains
-2 Cave of the Frost Dragon
 2 Isolated Chapel
+2 Cave of the Frost Dragon
 2 Shadrix Silverquill
 2 Deafening Clarion
 2 Elite Spellbinder
@@ -203,3 +187,19 @@
 4 Elite Spellbinder
 4 Sacred Foundry
 4 Lightning Helix
+1 Mazemind Tome
+1 Brightclimb Pathway
+1 Needleverge Pathway
+1 Nadaar, Selfless Paladin
+1 Vanishing Verse
+1 Dragon's Disciple
+2 Mazemind Tome
+2 Brightclimb Pathway
+2 Needleverge Pathway
+2 Nadaar, Selfless Paladin
+2 Dragon's Disciple
+3 Needleverge Pathway
+3 Nadaar, Selfless Paladin
+3 Dragon's Disciple
+4 Glorybringer
+4 Savai Triome

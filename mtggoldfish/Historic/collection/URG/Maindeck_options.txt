@@ -60,39 +60,39 @@
 2 Abrade
 3 Fabled Passage
 4 Fabled Passage
-1 Beanstalk Giant
 1 Lovestruck Beast
+1 Beanstalk Giant
 1 Edgewall Innkeeper
 1 Lucky Clover
-2 Beanstalk Giant
 2 Lovestruck Beast
+2 Beanstalk Giant
 2 Edgewall Innkeeper
 2 Mountain
 2 Lucky Clover
-3 Beanstalk Giant
 3 Lovestruck Beast
 3 Forest
 3 Lucky Clover
 3 Edgewall Innkeeper
-4 Beanstalk Giant
+3 Beanstalk Giant
 4 Edgewall Innkeeper
 4 Lucky Clover
+4 Beanstalk Giant
 4 Forest
 1 Heartless Act
 2 Heartless Act
-1 The Great Henge
-1 Genesis Ultimatum
-1 Cultivate
 1 Terror of the Peaks
+1 Genesis Ultimatum
+1 The Great Henge
+1 Cultivate
 2 The Great Henge
-2 Genesis Ultimatum
 2 Terror of the Peaks
+2 Genesis Ultimatum
 2 Cultivate
+3 Cultivate
 3 Terror of the Peaks
 3 Genesis Ultimatum
-3 Cultivate
-4 Genesis Ultimatum
 4 Lovestruck Beast
+4 Genesis Ultimatum
 4 Cultivate
 2 Censor
 1 Botanical Sanctum
@@ -114,17 +114,17 @@
 1 Slitherwisp
 2 Slitherwisp
 1 Hydroid Krasis
+1 Mizzix's Mastery
 1 Arasta of the Endless Web
 1 Relic of Progenitus
 1 Expansion/Explosion
-1 Mizzix's Mastery
 1 Shatterskull Smashing
 2 Mizzix's Mastery
 1 Chandra, Awakened Inferno
-1 Electrolyze
-1 Sweltering Suns
-2 Sweltering Suns
 2 Prismari Command
+1 Sweltering Suns
+1 Electrolyze
+2 Sweltering Suns
 1 Cling to Dust
 1 Baleful Mastery
 2 Shark Typhoon
@@ -152,27 +152,6 @@
 3 Frilled Mystic
 3 Drowned Catacomb
 4 Brineborn Cutthroat
-1 Darkbore Pathway
-1 Lochmere Serpent
-1 Clearwater Pathway
-1 Thieves' Guild Enforcer
-1 Cunning Nightbonder
-1 Decisive Denial
-2 Darkbore Pathway
-2 Clearwater Pathway
-2 Thieves' Guild Enforcer
-2 Cunning Nightbonder
-2 Decisive Denial
-3 Darkbore Pathway
-3 Clearwater Pathway
-3 Thieves' Guild Enforcer
-3 Cunning Nightbonder
-3 Slitherwisp
-3 Decisive Denial
-4 Darkbore Pathway
-4 Clearwater Pathway
-4 Thieves' Guild Enforcer
-4 Slitherwisp
 1 Explore
 1 Ugin, the Spirit Dragon
 1 Alrund's Epiphany
@@ -194,6 +173,27 @@
 2 Sinister Sabotage
 3 Abundant Harvest
 3 Sinister Sabotage
-4 Overgrown Tomb
 4 Abundant Harvest
 4 Brainstorm
+4 Overgrown Tomb
+1 Lochmere Serpent
+1 Clearwater Pathway
+1 Thieves' Guild Enforcer
+1 Decisive Denial
+1 Darkbore Pathway
+1 Cunning Nightbonder
+2 Clearwater Pathway
+2 Thieves' Guild Enforcer
+2 Decisive Denial
+2 Cunning Nightbonder
+2 Darkbore Pathway
+3 Clearwater Pathway
+3 Thieves' Guild Enforcer
+3 Cunning Nightbonder
+3 Decisive Denial
+3 Darkbore Pathway
+3 Slitherwisp
+4 Clearwater Pathway
+4 Thieves' Guild Enforcer
+4 Darkbore Pathway
+4 Slitherwisp

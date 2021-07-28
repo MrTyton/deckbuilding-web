@@ -59,10 +59,12 @@
 1 Into the Roil
 1 Carnage Tyrant
 1 Negate
-1 Commit/Memory
 1 Dawn of Hope
+1 Commit/Memory
 1 Guardian of Faith
 2 Guardian of Faith
+1 Brazen Borrower
+2 Brazen Borrower
 1 Cling to Dust
 1 Eliminate
 1 Thoughtseize
@@ -73,8 +75,6 @@
 2 Eliminate
 2 Thoughtseize
 2 Legion's End
-1 Brazen Borrower
-2 Brazen Borrower
 2 Kaheera, the Orphanguard
 1 Giant Killer
 2 Giant Killer
@@ -83,9 +83,9 @@
 2 Containment Priest
 3 Containment Priest
 1 Deafening Clarion
-1 Selfless Glyphweaver
-1 Heliod's Intervention
 1 Cindervines
+1 Heliod's Intervention
+1 Selfless Glyphweaver
 2 Deafening Clarion
 2 Selfless Glyphweaver
 2 Cindervines
@@ -123,8 +123,8 @@
 1 Miscast
 4 Declaration in Stone
 4 Dovin's Veto
-1 Legion Angel
 1 Meddling Mage
+1 Legion Angel
 2 Legion Angel
 2 Meddling Mage
 4 Selfless Savior
