@@ -1,40 +1,39 @@
 2 Prismatic Ending
+3 Prismatic Ending
 1 Snow-Covered Plains
 3 Polluted Delta
-3 Prismatic Ending
 1 Force of Negation
-1 Plains
 1 Snow-Covered Island
+1 Plains
 3 Flooded Strand
+4 Flooded Strand
 2 Misty Rainforest
 3 Standstill
-4 Flooded Strand
 2 Force of Negation
 1 Jace, the Mind Sculptor
-4 Standstill
-3 Misty Rainforest
-2 Island
+3 Scalding Tarn
 1 Terminus
 2 Terminus
+2 Island
+4 Standstill
+3 Misty Rainforest
 4 Misty Rainforest
-3 Scalding Tarn
-1 Life from the Loam
-1 Forest
-1 Tropical Island
-1 Uro, Titan of Nature's Wrath
-2 Uro, Titan of Nature's Wrath
-3 Uro, Titan of Nature's Wrath
 1 Shark Typhoon
 1 Hall of Heliod's Generosity
 2 Jace, the Mind Sculptor
-1 Prismatic Vista
+1 Forest
+1 Uro, Titan of Nature's Wrath
+1 Tropical Island
 1 Hullbreacher
+1 Life from the Loam
 2 Tropical Island
+2 Uro, Titan of Nature's Wrath
+3 Uro, Titan of Nature's Wrath
 1 Arid Mesa
-4 Wasteland
 3 Force of Negation
 1 Narset, Parter of Veils
 1 Teferi, Time Raveler
+1 Prismatic Vista
 2 Plains
 2 Shark Typhoon
 2 Prismatic Vista
@@ -45,7 +44,7 @@
 1 Mystic Sanctuary
 4 Volcanic Island
 1 Pyroblast
-1 Ancient Tomb
+4 Wasteland
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
@@ -56,13 +55,12 @@
 1 Seat of the Synod
 1 Wishclaw Talisman
 1 Trinket Mage
-1 Chromatic Star
 1 Glasspool Mimic
+1 Chromatic Star
+1 Bloodstained Mire
 1 Pyrite Spellbomb
 1 Trinisphere
 1 Badlands
-1 Bloodstained Mire
-1 Grindstone
 1 Painter's Servant
 1 Nihil Spellbomb
 1 Crucible of Worlds
@@ -71,27 +69,29 @@
 1 Lion's Eye Diamond
 1 Goblin Welder
 1 Mox Opal
+1 Ancient Tomb
 1 Goblin Engineer
+1 Grindstone
 1 Great Furnace
 2 Imperial Recruiter
 2 Seat of the Synod
-2 Grindstone
 2 Bloodstained Mire
-2 Painter's Servant
 2 Pyroblast
 2 Goblin Welder
 2 Ancient Tomb
+2 Painter's Servant
 2 Goblin Engineer
 2 Baleful Strix
+2 Grindstone
 3 Imperial Recruiter
 3 Baleful Strix
 3 Painter's Servant
 3 Goblin Engineer
-4 Goblin Engineer
 4 Scalding Tarn
-4 Painter's Servant
+4 Goblin Engineer
 4 Baleful Strix
 4 Imperial Recruiter
+4 Painter's Servant
 2 Snow-Covered Island
 3 Snow-Covered Island
 1 Sylvan Library
@@ -106,35 +106,15 @@
 2 Moat
 3 Plains
 3 Murktide Regent
+1 Portent
 1 Counterspell
 1 Timeless Dragon
-1 Portent
 2 Spell Pierce
 2 Snow-Covered Plains
 2 Timeless Dragon
 3 Jace, the Mind Sculptor
 3 Timeless Dragon
 3 Terminus
-1 Tranquil Thicket
-1 Savannah
-1 Karn, the Great Creator
-1 Aether Spellbomb
-1 Mox Diamond
-1 Field of the Dead
-1 Expedition Map
-1 Snow-Covered Forest
-1 Academy Ruins
-1 Thespian's Stage
-1 Lonely Sandbar
-2 Mox Diamond
-2 Life from the Loam
-2 Karn, the Great Creator
-3 Mox Diamond
-3 Life from the Loam
-3 Karn, the Great Creator
-4 Mox Diamond
-4 Uro, Titan of Nature's Wrath
-4 Prismatic Ending
 2 Teferi, Time Raveler
 2 Retrofitter Foundry
 4 Island
@@ -165,11 +145,11 @@
 3 Svyelun of Sea and Sky
 4 Snow-Covered Island
 4 Rishadan Dockhand
-4 Mutavault
 4 Lord of Atlantis
 4 Master of the Pearl Trident
 4 Tide Shaper
 4 Silvergill Adept
+4 Mutavault
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island

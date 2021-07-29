@@ -28,19 +28,19 @@
 12 Plains
 1 Restoration Angel
 2 Restoration Angel
-1 Noble Hierarch
 1 Branchloft Pathway
 1 Razorverge Thicket
+1 Noble Hierarch
 1 Temple Garden
 1 Stirring Wildwood
 1 Forest
-2 Noble Hierarch
 2 Branchloft Pathway
+2 Razorverge Thicket
+2 Noble Hierarch
 2 Temple Garden
 2 Stirring Wildwood
-2 Razorverge Thicket
-3 Razorverge Thicket
 3 Noble Hierarch
+3 Razorverge Thicket
 4 Razorverge Thicket
 4 Noble Hierarch
 1 Snow-Covered Plains
@@ -62,10 +62,10 @@
 13 Snow-Covered Plains
 2 Charming Prince
 3 Charming Prince
-1 Collected Company
 1 Gavony Township
-2 Collected Company
+1 Collected Company
 2 Forest
+2 Collected Company
 3 Collected Company
 1 Flagstones of Trokair
 1 Imperial Recruiter
@@ -132,6 +132,7 @@
 2 Shefet Dunes
 3 Elite Spellbinder
 4 Elite Spellbinder
+4 Prismatic Ending
 1 Oath of Nissa
 1 Aven Mindcensor
 2 Oath of Nissa
@@ -142,7 +143,6 @@
 4 Oath of Nissa
 4 Temple Garden
 4 Branchloft Pathway
-4 Prismatic Ending
 1 Thraben Inspector
 1 Skyclave Cleric
 1 Ephemerate
@@ -163,9 +163,6 @@
 2 Reidane, God of the Worthy
 1 Phyrexian Revoker
 2 Phyrexian Revoker
-1 Kataki, War's Wage
-4 Imperial Recruiter
-4 Sacred Foundry
 1 Sword of Feast and Famine
 1 Tithe Taker
 2 Tithe Taker
@@ -173,6 +170,9 @@
 3 Tithe Taker
 4 Sanctum Prelate
 4 Tithe Taker
+1 Kataki, War's Wage
+4 Sacred Foundry
+4 Imperial Recruiter
 1 Felidar Guardian
 1 Kiki-Jiki, Mirror Breaker
 1 Rugged Prairie

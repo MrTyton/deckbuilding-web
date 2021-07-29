@@ -3,22 +3,22 @@
 1 Containment Priest
 2 Containment Priest
 1 Giant Killer
-4 Baffling End
 3 Containment Priest
 4 Containment Priest
-3 Reidane, God of the Worthy
 2 Giant Killer
+4 Baffling End
+3 Reidane, God of the Worthy
 1 Declaration in Stone
-1 Adanto Vanguard
-1 Shalai, Voice of Plenty
 1 Rest in Peace
-2 Declaration in Stone
 2 Rest in Peace
+1 Adanto Vanguard
+2 Declaration in Stone
+1 Shalai, Voice of Plenty
 1 Lurrus of the Dream-Den
 3 Declaration in Stone
+1 Linvala, Keeper of Silence
 2 Apostle of Purifying Light
 2 Deafening Silence
-1 Linvala, Keeper of Silence
 1 Archon of Emeria
 2 Archon of Emeria
 1 Fry
@@ -26,6 +26,12 @@
 1 Rip Apart
 2 Rip Apart
 1 Banishing Light
+2 Adanto Vanguard
+1 Authority of the Consuls
+1 Skyclave Apparition
+2 Skyclave Apparition
+2 Authority of the Consuls
+3 Adanto Vanguard
 1 Luminarch Aspirant
 1 Take Heart
 1 Beloved Princess
@@ -33,10 +39,10 @@
 1 Arrester's Zeal
 1 Dawn of Hope
 2 Luminarch Aspirant
-2 Dawn of Hope
 2 Moment of Heroism
 2 Beloved Princess
 2 Take Heart
+2 Dawn of Hope
 3 Beloved Princess
 3 Take Heart
 3 Moment of Heroism
@@ -46,21 +52,16 @@
 1 Negate
 2 Aether Gust
 2 Negate
-1 Skyclave Apparition
-2 Skyclave Apparition
+1 Unbreakable Formation
 1 Miscast
 2 Miscast
 3 Miscast
-2 Adanto Vanguard
-3 Adanto Vanguard
-1 Soul-Guide Lantern
-1 Authority of the Consuls
 1 Settle the Wreckage
+1 Soul-Guide Lantern
+1 Teferi's Protection
 1 Hushbringer
 2 Hushbringer
 3 Archon of Emeria
-1 Unbreakable Formation
-2 Authority of the Consuls
 1 Glass Casket
 2 Glass Casket
 1 Gideon Blackblade
@@ -77,7 +78,11 @@
 1 Relic of Progenitus
 1 Devout Decree
 2 Settle the Wreckage
-1 Teferi's Protection
+3 Skyclave Apparition
+1 Heroic Intervention
+2 Heroic Intervention
+2 Unbreakable Formation
+3 Unbreakable Formation
 1 Heliod's Intervention
 1 Baneslayer Angel
 1 Leyline of Sanctity
@@ -105,56 +110,66 @@
 2 Sorcerous Spyglass
 2 Slaughter the Strong
 3 Hushbringer
-2 Banishing Light
-3 Banishing Light
-3 Rest in Peace
-1 Kunoros, Hound of Athreos
-1 Selfless Glyphweaver
-1 Damping Sphere
-1 Humiliate
-1 Weathered Runestone
-1 Strict Proctor
-1 Remorseful Cleric
-2 Humiliate
-2 Damping Sphere
-2 Strict Proctor
-2 Kunoros, Hound of Athreos
-3 Humiliate
+2 Teferi's Protection
+1 Thalia, Guardian of Thraben
+1 Wrath of God
+2 Thalia, Guardian of Thraben
+2 Wrath of God
+3 Thalia, Guardian of Thraben
 3 Rip Apart
 3 Fry
+3 Rest in Peace
+1 Daxos, Blessed by the Sun
+1 Selfless Savior
+2 Selfless Savior
+3 Selfless Savior
 1 Brainstorm
 1 Mystical Dispute
-2 Brainstorm
 2 Relic of Progenitus
+2 Brainstorm
 2 Mystical Dispute
-3 Brainstorm
 3 Relic of Progenitus
+3 Brainstorm
 3 Aether Gust
+2 Banishing Light
+3 Banishing Light
 1 Seasoned Hallowblade
 2 Seasoned Hallowblade
 3 Seasoned Hallowblade
 3 Deafening Silence
 4 Seasoned Hallowblade
+2 Mana Tithe
+3 Mana Tithe
+3 Giant Killer
+4 Mana Tithe
 1 Aethersphere Harvester
 2 Aethersphere Harvester
 3 Aethersphere Harvester
 4 Grafdigger's Cage
 1 Knight of Autumn
 2 Knight of Autumn
-3 Skyclave Apparition
 3 Knight of Autumn
 4 Skyclave Apparition
+1 Bronzehide Lion
+2 Bronzehide Lion
+3 Heroic Intervention
+4 Heroic Intervention
+4 Adanto Vanguard
 1 Drannith Magistrate
 3 Glass Casket
 4 Glass Casket
 2 Devout Decree
-2 Unbreakable Formation
-3 Settle the Wreckage
-3 Unbreakable Formation
-1 Gods Willing
-1 Platinum Angel
-1 Light of Hope
-2 Gods Willing
-2 Teferi's Protection
-3 Gods Willing
 3 Devout Decree
+3 Settle the Wreckage
+1 Gods Willing
+1 Light of Hope
+1 Platinum Angel
+2 Gods Willing
+3 Gods Willing
+1 Tormod's Crypt
+1 Cleansing Nova
+1 Gaea's Blessing
+1 Maskwood Nexus
+2 Cleansing Nova
+2 Tormod's Crypt
+2 Gaea's Blessing
