@@ -18,6 +18,7 @@
 3 Mantis Rider
 4 Territorial Kavu
 4 Mantis Rider
+2 Lightning Helix
 1 Bloodbraid Elf
 2 Bloodbraid Elf
 3 Bloodbraid Elf
@@ -25,7 +26,6 @@
 2 Tribal Flames
 3 Tribal Flames
 4 Tribal Flames
-2 Lightning Helix
 1 Scion of Draco
 2 Scion of Draco
 3 Scion of Draco
@@ -60,22 +60,23 @@
 1 Wavesifter
 2 Wavesifter
 3 Wavesifter
+1 Flooded Strand
 2 Noble Hierarch
 1 Savai Triome
 1 Ignoble Hierarch
 1 Blood Crypt
 2 Ignoble Hierarch
-4 Wavesifter
-1 Gemstone Caverns
 2 Verdant Catacombs
 3 Ignoble Hierarch
 4 Ignoble Hierarch
+4 Wavesifter
+1 Gemstone Caverns
+1 Hallowed Fountain
 2 Emrakul, the Aeons Torn
 1 Omniscience
 2 Omniscience
 3 Omniscience
 3 Bloodstained Mire
-1 Flooded Strand
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
 4 Omniscience
@@ -83,26 +84,25 @@
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 4 Leyline of Sanctity
-1 Snow-Covered Mountain
-1 Hallowed Fountain
 2 Flooded Strand
+1 Snow-Covered Mountain
+3 Flooded Strand
+1 Plains
+1 Omnath, Locus of Creation
 1 Hard Evidence
 2 Hard Evidence
-1 Omnath, Locus of Creation
 2 Mountain
-3 Flooded Strand
 1 Iona, Shield of Emeria
 1 Archon of Cruelty
 2 Omnath, Locus of Creation
+1 Zagoth Triome
+4 Flooded Strand
 2 Archon of Cruelty
 3 Archon of Cruelty
-1 Zagoth Triome
-1 Plains
 3 Omnath, Locus of Creation
 1 Indatha Triome
 1 As Foretold
 4 Remand
-4 Flooded Strand
 2 Iona, Shield of Emeria
 1 Kozilek, Butcher of Truth
 2 As Foretold
@@ -117,6 +117,16 @@
 2 Tireless Provisioner
 3 Tireless Provisioner
 4 Archon of Cruelty
+1 Path to Exile
+1 Supreme Verdict
+2 Supreme Verdict
+2 Island
+1 Teferi, Hero of Dominaria
+1 Solitude
+1 Expressive Iteration
+2 Expressive Iteration
+3 Expressive Iteration
+4 Expressive Iteration
 1 Klothys, God of Destiny
 1 Manamorphose
 2 Sacred Foundry
@@ -130,37 +140,28 @@
 4 Tireless Provisioner
 2 Goblin Dark-Dwellers
 3 Goblin Dark-Dwellers
+1 Snapcaster Mage
+1 Glacial Fortress
 4 Goblin Dark-Dwellers
 1 Chancellor of the Forge
 2 Chancellor of the Forge
-1 Path to Exile
 1 Snow-Covered Forest
-1 Teferi, Hero of Dominaria
-1 Supreme Verdict
-2 Supreme Verdict
-1 Solitude
 1 Fire/Ice
-1 Expressive Iteration
 1 Shark Typhoon
-2 Expressive Iteration
-3 Expressive Iteration
-4 Expressive Iteration
-1 Glacial Fortress
 2 Gemstone Caverns
 3 Lightning Helix
 4 Lightning Helix
-2 Island
-1 Snapcaster Mage
 3 Iona, Shield of Emeria
+1 Counterspell
 1 Griselbrand
 3 Seasoned Pyromancer
 3 Chancellor of the Forge
+3 Supreme Verdict
 3 Windswept Heath
 1 Wall of Omens
 2 Wall of Omens
 2 Fire/Ice
 2 Shark Typhoon
-3 Supreme Verdict
 2 Snow-Covered Mountain
 4 Iona, Shield of Emeria
 4 Seasoned Pyromancer
@@ -174,42 +175,45 @@
 4 Windswept Heath
 1 Gemstone Mine
 2 Gemstone Mine
-1 Counterspell
+2 Plains
 1 Sulfur Falls
-3 Hard Evidence
+2 Snapcaster Mage
+3 Snapcaster Mage
+1 Valakut Awakening
 1 Fire-Lit Thicket
+3 Hard Evidence
 1 Growth Spiral
 2 Growth Spiral
 1 Ugin, the Spirit Dragon
 2 Ugin, the Spirit Dragon
 3 Verdant Catacombs
-4 Glimpse of Tomorrow
 1 Castle Ardenvale
 3 Shark Typhoon
+4 Glimpse of Tomorrow
+1 Cryptic Command
+2 Path to Exile
 1 Chandra, Torch of Defiance
+1 Celestial Colonnade
+2 Jace, the Mind Sculptor
+2 Counterspell
+3 Counterspell
 1 Nahiri, the Harbinger
 4 Hard Evidence
-1 Celestial Colonnade
 4 Verdant Catacombs
-1 Valakut Awakening
+1 Field of Ruin
+2 Field of Ruin
+4 Shark Typhoon
 1 Xenagos, God of Revels
 2 Xenagos, God of Revels
 2 Ulamog, the Infinite Gyre
 2 Kozilek, Butcher of Truth
 3 Ulamog, the Infinite Gyre
 4 As Foretold
-2 Snapcaster Mage
-3 Snapcaster Mage
-2 Plains
-1 Field of Ruin
-2 Field of Ruin
-4 Shark Typhoon
+2 Snow-Covered Island
 3 Griselbrand
 4 Griselbrand
 3 Noble Hierarch
 4 Noble Hierarch
-1 Cryptic Command
-2 Snow-Covered Island
 1 Endurance
 1 Serra's Emissary
 1 Tarmogoyf
@@ -219,23 +223,40 @@
 2 Nicol Bolas, Planeswalker
 1 Grief
 2 Grief
-2 Path to Exile
+2 Raugrin Triome
 1 Lonely Sandbar
+1 Archmage's Charm
+2 Teferi, Hero of Dominaria
+2 Hallowed Fountain
+3 Island
+4 Island
 1 Spell Pierce
 1 Sunpetal Grove
 1 Scattered Groves
+1 Fires of Invention
 1 Flooded Grove
-1 Archmage's Charm
 1 Hinterland Harbor
 3 Snow-Covered Island
 1 Ashen Rider
 2 Ashen Rider
 3 Ashen Rider
 4 Ashen Rider
-1 Fires of Invention
-2 Raugrin Triome
 3 Ugin, the Spirit Dragon
 4 Ugin, the Spirit Dragon
+4 Counterspell
+1 Chalice of the Void
+1 Prismatic Vista
+1 Emeria's Call
+1 Blood Moon
+2 Prismatic Vista
+2 Chalice of the Void
+2 Blood Moon
+2 Solitude
+3 Chalice of the Void
+3 Plains
+3 Jace, the Mind Sculptor
+3 Solitude
+4 Chalice of the Void
 1 Search for Tomorrow
 2 Search for Tomorrow
 1 Cascade Bluffs
@@ -260,15 +281,20 @@
 1 Beast Within
 1 Flusterstorm
 1 Polluted Delta
-1 Kaervek the Merciless
 1 Acererak the Archlich
+1 Kaervek the Merciless
+1 Magmatic Sinkhole
+1 Justice Strike
 1 Engineered Explosives
 2 Rest in Peace
 1 Irrigated Farmland
 2 Sulfur Falls
+1 Transmogrify
+2 Transmogrify
 1 Shambleshark
 1 Niv-Mizzet Reborn
 2 Shambleshark
+2 Snow-Covered Plains
 1 Scorching Dragonfire
 1 Temur Battle Rage
 2 Scorching Dragonfire
@@ -277,9 +303,6 @@
 2 Botanical Sanctum
 1 Anafenza, the Foremost
 2 Anafenza, the Foremost
-1 Transmogrify
-2 Transmogrify
-2 Jace, the Mind Sculptor
 1 Waterlogged Grove
 1 Hexdrinker
 2 Temple Garden
@@ -307,7 +330,6 @@
 2 Valki, God of Lies
 2 Force of Negation
 2 Bring to Light
-2 Teferi, Hero of Dominaria
 3 Path to Exile
 3 Growth Spiral
 3 Bring to Light
@@ -331,6 +353,22 @@
 4 Ragavan, Nimble Pilferer
 3 Kozilek, Butcher of Truth
 4 Kozilek, Butcher of Truth
+1 Search for Azcanta
+1 Elspeth, Sun's Nemesis
+1 Gideon of the Trials
+1 Izzet Charm
+2 Search for Azcanta
+2 Cryptic Command
+2 Elspeth, Sun's Nemesis
+2 Glacial Fortress
+2 Archmage's Charm
+2 Gideon of the Trials
+2 Izzet Charm
+3 Raugrin Triome
+3 Hallowed Fountain
+3 Gideon of the Trials
+3 Search for Azcanta
+5 Island
 1 Foundation Breaker
 1 Detention Sphere
 1 Imperial Recruiter
@@ -338,7 +376,3 @@
 2 Rift Sower
 3 Rift Sower
 4 Rift Sower
-2 Counterspell
-2 Snow-Covered Plains
-3 Counterspell
-4 Counterspell

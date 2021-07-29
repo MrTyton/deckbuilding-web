@@ -1,26 +1,26 @@
-3 Esper Sentinel
-3 Archon of Emeria
-3 Field of Ruin
 4 Field of Ruin
+1 Esper Sentinel
+2 Esper Sentinel
+3 Esper Sentinel
 4 Flickerwisp
 3 Solitude
 1 Sanctum Prelate
-1 Mishra's Factory
+1 Eiganjo Castle
 1 Tectonic Edge
 2 Tectonic Edge
-1 Eiganjo Castle
-2 Mishra's Factory
-3 Mishra's Factory
 1 Horizon Canopy
-1 Sunbaked Canyon
+1 Mishra's Factory
+4 Silent Clearing
 11 Plains
 1 Castle Ardenvale
 3 Tectonic Edge
-4 Silent Clearing
-2 Sunbaked Canyon
+2 Mishra's Factory
+3 Mishra's Factory
+1 Sunbaked Canyon
 2 Sanctum Prelate
 4 Solitude
 2 Horizon Canopy
+2 Sunbaked Canyon
 4 Tectonic Edge
 4 Archon of Emeria
 1 Charming Prince
@@ -28,6 +28,17 @@
 12 Plains
 1 Restoration Angel
 2 Restoration Angel
+2 Charming Prince
+3 Charming Prince
+1 Snow-Covered Plains
+2 Snow-Covered Plains
+3 Snow-Covered Plains
+4 Snow-Covered Plains
+5 Snow-Covered Plains
+6 Snow-Covered Plains
+7 Snow-Covered Plains
+8 Snow-Covered Plains
+9 Snow-Covered Plains
 1 Branchloft Pathway
 1 Razorverge Thicket
 1 Noble Hierarch
@@ -43,15 +54,6 @@
 3 Razorverge Thicket
 4 Razorverge Thicket
 4 Noble Hierarch
-1 Snow-Covered Plains
-2 Snow-Covered Plains
-3 Snow-Covered Plains
-4 Snow-Covered Plains
-5 Snow-Covered Plains
-6 Snow-Covered Plains
-7 Snow-Covered Plains
-8 Snow-Covered Plains
-9 Snow-Covered Plains
 13 Plains
 14 Plains
 1 On Thin Ice
@@ -60,28 +62,12 @@
 11 Snow-Covered Plains
 12 Snow-Covered Plains
 13 Snow-Covered Plains
-2 Charming Prince
-3 Charming Prince
 1 Gavony Township
 1 Collected Company
 2 Forest
 2 Collected Company
 3 Collected Company
 1 Flagstones of Trokair
-1 Imperial Recruiter
-2 Imperial Recruiter
-3 Imperial Recruiter
-3 Sunbaked Canyon
-1 Shadowspear
-1 Inspiring Vantage
-2 Inspiring Vantage
-3 Inspiring Vantage
-1 Arid Mesa
-1 Magus of the Moon
-1 Mountain
-2 Arid Mesa
-3 Arid Mesa
-4 Arid Mesa
 1 Linvala, Keeper of Silence
 2 Linvala, Keeper of Silence
 14 Snow-Covered Plains
@@ -94,45 +80,47 @@
 3 Emeria's Call
 3 Restoration Angel
 4 Emeria's Call
-1 Sacred Foundry
-2 Sacred Foundry
 3 On Thin Ice
 4 On Thin Ice
-1 Auriok Champion
 1 Elite Spellbinder
 2 Elite Spellbinder
-1 Sanctifier en-Vec
-4 Inspiring Vantage
-4 Esper Sentinel
-1 Prismatic Ending
-2 Prismatic Ending
-2 Magus of the Moon
-3 Prismatic Ending
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
-4 Ragavan, Nimble Pilferer
-4 Sunbaked Canyon
+1 Auriok Champion
+1 Sacred Foundry
+1 Imperial Recruiter
+2 Sacred Foundry
+2 Imperial Recruiter
+3 Imperial Recruiter
 3 Horizon Canopy
 4 Horizon Canopy
+1 Shadowspear
 1 Cave of the Frost Dragon
 1 Urza's Saga
 2 Cave of the Frost Dragon
 2 Urza's Saga
 3 Urza's Saga
 4 Urza's Saga
+3 Sunbaked Canyon
+4 Sunbaked Canyon
+1 Inspiring Vantage
+2 Inspiring Vantage
+3 Inspiring Vantage
+1 Arid Mesa
+1 Magus of the Moon
+1 Mountain
 1 Lightning Bolt
 2 Mountain
+2 Arid Mesa
 2 Lightning Bolt
 3 Sacred Foundry
+3 Arid Mesa
 3 Lightning Bolt
+4 Arid Mesa
 2 Auriok Champion
 3 Auriok Champion
 1 Shefet Dunes
 2 Shefet Dunes
 3 Elite Spellbinder
 4 Elite Spellbinder
-4 Prismatic Ending
 1 Oath of Nissa
 1 Aven Mindcensor
 2 Oath of Nissa
@@ -158,11 +146,12 @@
 19 Snow-Covered Plains
 20 Snow-Covered Plains
 1 Pithing Needle
-2 Flagstones of Trokair
 1 Reidane, God of the Worthy
 2 Reidane, God of the Worthy
 1 Phyrexian Revoker
 2 Phyrexian Revoker
+2 Flagstones of Trokair
+4 Esper Sentinel
 1 Sword of Feast and Famine
 1 Tithe Taker
 2 Tithe Taker
@@ -171,16 +160,26 @@
 4 Sanctum Prelate
 4 Tithe Taker
 1 Kataki, War's Wage
+1 Prismatic Ending
+2 Prismatic Ending
+2 Magus of the Moon
+3 Prismatic Ending
 4 Sacred Foundry
 4 Imperial Recruiter
+1 Ragavan, Nimble Pilferer
 1 Felidar Guardian
 1 Kiki-Jiki, Mirror Breaker
 1 Rugged Prairie
 1 Prismatic Vista
 1 Needleverge Pathway
 1 Windswept Heath
+2 Ragavan, Nimble Pilferer
 2 Prismatic Vista
 2 Needleverge Pathway
 2 Windswept Heath
+3 Ragavan, Nimble Pilferer
 3 Needleverge Pathway
+4 Ragavan, Nimble Pilferer
 4 Lightning Bolt
+1 Sanctifier en-Vec
+4 Inspiring Vantage

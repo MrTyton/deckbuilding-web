@@ -1,25 +1,25 @@
-3 Sunbaked Canyon
+2 Rugged Prairie
 1 Shadowspear
+4 Charming Prince
 1 Hallowed Fountain
 3 Sacred Foundry
 1 Emeria's Call
-4 Charming Prince
+1 Archon of Emeria
 1 Glasspool Mimic
 1 Cave of the Frost Dragon
 2 Cave of the Frost Dragon
 1 Sword of Feast and Famine
 2 Emeria's Call
-1 Archon of Emeria
+1 Maul of the Skyclaves
 1 Marsh Flats
 2 Marsh Flats
-1 Maul of the Skyclaves
+2 Archon of Emeria
 7 Plains
+1 Skyclave Cleric
 3 Marsh Flats
 4 Marsh Flats
 1 Field of Ruin
 2 Field of Ruin
-2 Archon of Emeria
-1 Skyclave Cleric
 2 Sanctifier en-Vec
 1 Horizon Canopy
 1 Prismatic Ending
@@ -27,6 +27,8 @@
 2 Sanctum Prelate
 1 Mishra's Factory
 2 Mishra's Factory
+3 Archon of Emeria
+4 Archon of Emeria
 3 Cave of the Frost Dragon
 1 Phyrexian Revoker
 1 Temple Garden
@@ -37,10 +39,13 @@
 3 Esper Sentinel
 4 Esper Sentinel
 2 Magus of the Moon
-8 Plains
-3 Archon of Emeria
+1 Urza's Saga
+2 Urza's Saga
+3 Urza's Saga
+4 Urza's Saga
+4 Sunbaked Canyon
 3 Field of Ruin
-4 Archon of Emeria
+8 Plains
 1 Wooded Foothills
 1 Prismatic Vista
 1 Knight of Autumn
@@ -65,12 +70,7 @@
 3 Silent Clearing
 3 Sanctum Prelate
 4 Silent Clearing
-4 Sunbaked Canyon
 4 Field of Ruin
-1 Urza's Saga
-2 Urza's Saga
-3 Urza's Saga
-4 Urza's Saga
 1 Godless Shrine
 3 Prismatic Ending
 4 Prismatic Ending
@@ -79,6 +79,16 @@
 1 Lightning Helix
 2 Lightning Helix
 3 Lightning Helix
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+1 Snow-Covered Plains
+1 Snow-Covered Mountain
+2 Snow-Covered Plains
+3 Snow-Covered Plains
+4 Snow-Covered Plains
+5 Snow-Covered Plains
+6 Snow-Covered Plains
+7 Snow-Covered Plains
 2 Prismatic Vista
 3 Prismatic Vista
 4 Prismatic Vista
@@ -87,6 +97,8 @@
 3 Noble Hierarch
 4 Noble Hierarch
 1 Cavern of Souls
+1 Fury
+2 Fury
 1 Seasoned Pyromancer
 1 Eladamri's Call
 1 Avalanche Riders
@@ -95,16 +107,14 @@
 3 Wooded Foothills
 4 Wooded Foothills
 4 Eladamri's Call
-1 Fury
-2 Fury
-1 Stomping Ground
-2 Forest
-3 Mishra's Factory
 1 Thraben Inspector
 2 Thraben Inspector
 2 Restoration Angel
 3 Restoration Angel
 4 Restoration Angel
+1 Stomping Ground
+2 Forest
+3 Mishra's Factory
 1 Toski, Bearer of Secrets
 1 Endurance
 1 Basilisk Collar
@@ -141,13 +151,14 @@
 3 Eternal Witness
 4 Utopia Sprawl
 4 Seasoned Pyromancer
+1 Flametongue Yearling
+3 Rugged Prairie
+4 Rugged Prairie
 1 Tectonic Edge
 1 Eldrazi Displacer
 2 Tectonic Edge
 3 Tectonic Edge
 4 Tectonic Edge
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
 1 Branchloft Pathway
@@ -160,17 +171,18 @@
 4 Branchloft Pathway
 4 Lightning Helix
 4 Mishra's Factory
-1 Snow-Covered Plains
-1 Snow-Covered Mountain
-1 Flametongue Yearling
-2 Snow-Covered Plains
-3 Snow-Covered Plains
-3 Rugged Prairie
-4 Snow-Covered Plains
-4 Rugged Prairie
-5 Snow-Covered Plains
-6 Snow-Covered Plains
-7 Snow-Covered Plains
+1 On Thin Ice
+2 On Thin Ice
+3 On Thin Ice
+4 On Thin Ice
+8 Snow-Covered Plains
+9 Snow-Covered Plains
+10 Snow-Covered Plains
+11 Snow-Covered Plains
+12 Snow-Covered Plains
+13 Snow-Covered Plains
+14 Snow-Covered Plains
+15 Snow-Covered Plains
 1 Castle Ardenvale
 1 Ghost Quarter
 1 Leonin Arbiter
@@ -182,7 +194,6 @@
 4 Emeria's Call
 4 Ghost Quarter
 4 Leonin Arbiter
-9 Plains
 10 Plains
 11 Plains
 12 Plains
@@ -190,3 +201,4 @@
 14 Plains
 15 Plains
 16 Plains
+9 Plains

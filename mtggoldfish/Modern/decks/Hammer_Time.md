@@ -76,8 +76,8 @@
 |                    1|[Flayer Husk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=221560)        |                     |                                                                                                  |
 |                    2|Sanctifier en-Vec                                                                             |                     |                                                                                                  |
 |                    2|Prismatic Ending                                                                              |                     |                                                                                                  |
-|                    3|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)    |                     |                                                                                                  |
-|                    4|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)    |                     |                                                                                                  |
 |                    2|[Paradise Mantle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=73558)     |                     |                                                                                                  |
 |                   11|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)|                     |                                                                                                  |
+|                    3|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)    |                     |                                                                                                  |
+|                    4|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)    |                     |                                                                                                  |
 

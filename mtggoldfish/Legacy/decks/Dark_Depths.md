@@ -146,7 +146,6 @@
 |                    4|[Dark Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=651)                 |                     |                                                                                                 |
 |                    4|[Karn, the Great Creator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460928)  |                     |                                                                                                 |
 |                    1|[Blooming Marsh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417816)           |                     |                                                                                                 |
-|                    2|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)              |                     |                                                                                                 |
 |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)               |                     |                                                                                                 |
 |                    2|[Khalni Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220535)            |                     |                                                                                                 |
 |                    3|[Khalni Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220535)            |                     |                                                                                                 |
@@ -166,4 +165,5 @@
 |                    2|[Gurmag Angler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391850)            |                     |                                                                                                 |
 |                    2|[Court of Ambition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=497634)        |                     |                                                                                                 |
 |                    5|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)       |                     |                                                                                                 |
+|                    2|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)              |                     |                                                                                                 |
 
