@@ -1,9 +1,8 @@
-1 Field of Ruin
-2 Field of Ruin
 3 Field of Ruin
 4 Field of Ruin
 5 Plains
 6 Plains
+4 Brightclimb Pathway
 1 Aether Vial
 1 Giver of Runes
 1 Wall of Omens
@@ -14,7 +13,8 @@
 3 Aether Vial
 4 Aether Vial
 4 Giver of Runes
-4 Brightclimb Pathway
+4 Fatal Push
+2 Vindicate
 7 Plains
 3 Solitude
 4 Solitude
@@ -29,34 +29,30 @@
 3 Leonin Arbiter
 4 Leonin Arbiter
 1 Urborg, Tomb of Yawgmoth
-1 Damn
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
+1 Damn
 1 Shambling Vent
-1 Castle Locthwain
+1 Persist
+2 Persist
 1 Undying Evil
 2 Undying Evil
 3 Swamp
-1 Persist
-2 Persist
-1 Kaya's Guile
+3 Persist
+1 Castle Locthwain
 1 Charming Prince
 2 Charming Prince
 3 Charming Prince
 3 Undying Evil
+1 Kaya's Guile
+1 Maul of the Skyclaves
 2 Damn
-3 Persist
+1 Shriekmaw
+1 Kaya, Orzhov Usurper
 1 Dauthi Voidwalker
 2 Dauthi Voidwalker
 1 Inquisition of Kozilek
-3 Dauthi Voidwalker
-2 Kaya's Guile
-2 Inquisition of Kozilek
-3 Inquisition of Kozilek
-1 Kaya, Orzhov Usurper
-1 Maul of the Skyclaves
-1 Shriekmaw
 2 Shriekmaw
 1 Emeria's Call
 1 Agadeem's Awakening
@@ -65,17 +61,12 @@
 3 Emeria's Call
 3 Agadeem's Awakening
 4 Undying Evil
-4 Dauthi Voidwalker
-4 Inquisition of Kozilek
+3 Dauthi Voidwalker
+2 Kaya's Guile
+2 Inquisition of Kozilek
+3 Inquisition of Kozilek
 1 Liliana of the Veil
-2 Liliana of the Veil
-1 Lingering Souls
-2 Lingering Souls
-3 Liliana of the Veil
-1 Prismatic Ending
-2 Prismatic Ending
 1 Collective Brutality
-1 Ashen Rider
 1 Serra's Emissary
 1 Priest of Fell Rites
 1 Unmarked Grave
@@ -85,10 +76,20 @@
 3 Unmarked Grave
 4 Persist
 4 Unmarked Grave
-3 Vindicate
-4 Vindicate
+4 Dauthi Voidwalker
+4 Inquisition of Kozilek
+1 Prismatic Ending
+2 Prismatic Ending
+1 Ashen Rider
+2 Liliana of the Veil
 3 Priest of Fell Rites
 2 Collective Brutality
+4 Thoughtseize
+1 Lingering Souls
+2 Lingering Souls
+3 Liliana of the Veil
+1 Unburial Rites
+1 Bone Shards
 1 Path to Exile
 2 Path to Exile
 1 Elite Spellbinder
@@ -98,14 +99,13 @@
 3 Wasteland Strangler
 3 Elite Spellbinder
 4 Elite Spellbinder
-4 Thoughtseize
 1 Overgrown Tomb
-1 Unburial Rites
-3 Kaya's Guile
 1 Savai Triome
-1 Bone Shards
 4 Godless Shrine
 2 Kaya, Orzhov Usurper
+3 Vindicate
+4 Vindicate
+4 Priest of Fell Rites
 3 Path to Exile
 8 Plains
 1 Esper Sentinel
@@ -128,8 +128,8 @@
 1 Cave of the Frost Dragon
 1 Skyclave Cleric
 1 Flooded Strand
-1 Bitterblossom
 1 Kitchen Finks
+1 Bitterblossom
 1 Snow-Covered Plains
 1 Snow-Covered Swamp
 1 Fetid Heath
@@ -138,11 +138,21 @@
 4 Charming Prince
 3 Prismatic Ending
 4 Prismatic Ending
-4 Priest of Fell Rites
+3 Kaya's Guile
 3 Lingering Souls
 4 Lingering Souls
-1 Thraben Inspector
+1 Blood Crypt
+1 Night's Whisper
+1 Bloodstained Mire
+2 Bone Shards
+2 Bloodstained Mire
+2 Archon of Cruelty
+2 Night's Whisper
+3 Archon of Cruelty
+3 Night's Whisper
+4 Archon of Cruelty
 1 Speaker of the Heavens
+1 Thraben Inspector
 1 Castle Ardenvale
 1 Serra Ascendant
 1 Sorin, Vengeful Bloodlord
@@ -154,9 +164,9 @@
 1 Mistveil Plains
 1 Ranger-Captain of Eos
 2 Speaker of the Heavens
-2 Abiding Grace
 2 Ranger-Captain of Eos
 2 Serra Ascendant
+2 Abiding Grace
 2 Martyr of Sands
 2 Cavern of Souls
 2 Squadron Hawk
@@ -191,11 +201,11 @@
 3 Welding Jar
 3 Urza's Saga
 3 Nettlecyst
+3 Ethersworn Canonist
 3 Dispatch
 3 Etched Champion
-3 Ethersworn Canonist
-3 Darksteel Citadel
 3 Goldmire Bridge
+3 Darksteel Citadel
 4 Urza's Saga
 4 Nettlecyst
 4 Dispatch

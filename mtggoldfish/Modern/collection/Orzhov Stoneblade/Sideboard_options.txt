@@ -12,49 +12,51 @@
 2 Pithing Needle
 3 Solitude
 4 Thoughtseize
-3 Sanctifier en-Vec
-1 Void Mirror
-1 Kaya, Orzhov Usurper
 1 Relic of Progenitus
 2 Relic of Progenitus
 3 Relic of Progenitus
+3 Sanctifier en-Vec
+1 Kaya, Orzhov Usurper
 1 Engineered Explosives
+1 Void Mirror
 1 Prismatic Ending
-1 Kor Firewalker
 1 Fatal Push
+1 Kor Firewalker
+2 Fatal Push
+1 Ashiok, Dream Render
+2 Ashiok, Dream Render
 2 Void Mirror
 3 Kataki, War's Wage
 2 Kor Firewalker
-1 Ashiok, Dream Render
-2 Ashiok, Dream Render
-2 Fatal Push
 2 Kaya, Orzhov Usurper
-1 Bitterblossom
-2 Bitterblossom
-1 Plague Engineer
-4 Kataki, War's Wage
-3 Kor Firewalker
-3 Chalice of the Void
+1 Kaya's Guile
 1 Damping Sphere
 2 Damping Sphere
-1 Kaya's Guile
+3 Chalice of the Void
 1 Break the Ice
+2 Kaya's Guile
 2 Tempest of Light
 1 Leonin Relic-Warder
 1 Auriok Champion
-2 Kaya's Guile
+2 Prismatic Ending
+1 Bitterblossom
+2 Bitterblossom
 4 Sanctifier en-Vec
 1 Seal of Cleansing
-2 Prismatic Ending
+1 Plague Engineer
+4 Kataki, War's Wage
 2 Auriok Champion
 3 Auriok Champion
 2 Engineered Explosives
+3 Kor Firewalker
 1 Rest in Peace
 2 Rest in Peace
 1 Kozilek, Butcher of Truth
 1 Duress
 2 Duress
+3 Kaya's Guile
 3 Damping Sphere
+1 Batterskull
 1 Drannith Magistrate
 1 Skyclave Apparition
 1 Gifted Aetherborn
@@ -77,10 +79,11 @@
 1 Lingering Souls
 2 Nihil Spellbomb
 2 Lingering Souls
+1 Vindicate
+2 Vindicate
 1 Vanishing Verse
-1 Collective Brutality
-1 Batterskull
 1 Disenchant
+1 Collective Brutality
 2 Vanishing Verse
 2 Disenchant
 3 Duress
@@ -90,9 +93,6 @@
 3 Fulminator Mage
 1 Shriekmaw
 3 Void Mirror
-1 Vindicate
-2 Vindicate
-3 Kaya's Guile
 1 Isolate
 4 Auriok Champion
 4 Relic of Progenitus
@@ -107,3 +107,10 @@
 3 Fatal Push
 3 Leonin Relic-Warder
 4 Fatal Push
+1 Kaldra Compleat
+1 Stoneforge Mystic
+1 Ashen Rider
+2 Stoneforge Mystic
+3 Prismatic Ending
+4 Stoneforge Mystic
+3 Stoneforge Mystic

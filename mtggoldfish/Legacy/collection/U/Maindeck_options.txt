@@ -52,12 +52,12 @@
 4 Darksteel Citadel
 1 City of Traitors
 2 Crucible of Worlds
+2 Retrofitter Foundry
 2 Wasteland
 1 Force of Will
 2 Force of Will
 3 Force of Will
 4 Force of Will
-2 Retrofitter Foundry
 1 Plains
 1 Master of Etherium
 2 Master of Etherium
@@ -87,8 +87,6 @@
 2 Flooded Strand
 3 Flooded Strand
 4 Flooded Strand
-3 Island
-4 Island
 1 Bomat Courier
 1 Spire of Industry
 2 Urza's Bauble
@@ -104,13 +102,10 @@
 1 Lightning Greaves
 2 Lightning Greaves
 3 Retrofitter Foundry
-1 Mishra's Factory
-1 Mox Diamond
-2 Mishra's Factory
-2 Mox Diamond
-3 Mishra's Factory
-3 Mox Diamond
-4 Mishra's Factory
+1 Snow-Covered Island
+2 Snow-Covered Island
+3 Snow-Covered Island
+4 Snow-Covered Island
 1 Great Furnace
 1 Galvanic Blast
 2 Great Furnace
@@ -119,10 +114,15 @@
 3 Great Furnace
 4 Great Furnace
 4 Galvanic Blast
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
+1 Mishra's Factory
+1 Mox Diamond
+2 Mishra's Factory
+2 Mox Diamond
+3 Island
+3 Mishra's Factory
+3 Mox Diamond
+4 Mishra's Factory
+4 Island
 1 Myr Enforcer
 1 Tree of Tales
 1 Thassa's Oracle
@@ -144,66 +144,16 @@
 2 Sojourner's Companion
 3 Myr Enforcer
 3 Sojourner's Companion
+3 Glimpse of Nature
 3 Memnite
 3 Phyrexian Walker
 3 Frogmite
 3 Tree of Tales
 3 Shield Sphere
-3 Glimpse of Nature
-4 Tree of Tales
+4 Phyrexian Walker
 4 Shield Sphere
 4 Memnite
 4 Frogmite
+4 Tree of Tales
 4 Glimpse of Nature
-4 Phyrexian Walker
 4 Sojourner's Companion
-1 Umezawa's Jitte
-1 Brazen Borrower
-1 Ninja of the Deep Hours
-1 Aether Vial
-1 Force of Negation
-1 Spellstutter Sprite
-1 Daze
-1 Erayo, Soratami Ascendant
-1 Flusterstorm
-1 Sky Hussar
-1 Martyr of Frost
-1 Nivmagus Elemental
-1 Mausoleum Wanderer
-1 Judge's Familiar
-2 Spellstutter Sprite
-2 Brazen Borrower
-2 Umezawa's Jitte
-2 Aether Vial
-2 Ninja of the Deep Hours
-2 Force of Negation
-2 Flusterstorm
-2 Sky Hussar
-2 Martyr of Frost
-2 Nivmagus Elemental
-2 Mausoleum Wanderer
-2 Judge's Familiar
-2 Daze
-3 Flusterstorm
-3 Spellstutter Sprite
-3 Force of Negation
-3 Judge's Familiar
-3 Mausoleum Wanderer
-3 Martyr of Frost
-3 Daze
-3 Sky Hussar
-3 Nivmagus Elemental
-4 Force of Negation
-4 Flusterstorm
-4 Sky Hussar
-4 Nivmagus Elemental
-4 Mausoleum Wanderer
-4 Daze
-4 Judge's Familiar
-5 Island
-6 Island
-7 Island
-8 Island
-9 Island
-11 Island
-10 Island

@@ -31,7 +31,6 @@
 4 Archon of Emeria
 3 Cave of the Frost Dragon
 1 Phyrexian Revoker
-1 Temple Garden
 2 Horizon Canopy
 1 Eiganjo Castle
 1 Esper Sentinel
@@ -46,14 +45,7 @@
 4 Sunbaked Canyon
 3 Field of Ruin
 8 Plains
-1 Wooded Foothills
-1 Prismatic Vista
-1 Knight of Autumn
-1 Eternal Witness
-1 Forest
-2 Wooded Foothills
-2 Temple Garden
-1 Restoration Angel
+1 Temple Garden
 1 Archangel Avacyn
 3 Horizon Canopy
 1 Lightning Bolt
@@ -69,16 +61,30 @@
 2 Silent Clearing
 3 Silent Clearing
 3 Sanctum Prelate
-4 Silent Clearing
 4 Field of Ruin
+4 Silent Clearing
 1 Godless Shrine
 3 Prismatic Ending
 4 Prismatic Ending
-1 Sword of Hearth and Home
 1 Spellskite
 1 Lightning Helix
 2 Lightning Helix
 3 Lightning Helix
+1 Sword of Hearth and Home
+1 Wooded Foothills
+1 Prismatic Vista
+1 Knight of Autumn
+1 Eternal Witness
+1 Forest
+2 Wooded Foothills
+2 Prismatic Vista
+2 Temple Garden
+3 Prismatic Vista
+4 Prismatic Vista
+1 Noble Hierarch
+2 Noble Hierarch
+3 Noble Hierarch
+4 Noble Hierarch
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 1 Snow-Covered Plains
@@ -89,36 +95,16 @@
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains
-2 Prismatic Vista
-3 Prismatic Vista
-4 Prismatic Vista
-1 Noble Hierarch
-2 Noble Hierarch
-3 Noble Hierarch
-4 Noble Hierarch
-1 Cavern of Souls
-1 Fury
-2 Fury
-1 Seasoned Pyromancer
-1 Eladamri's Call
-1 Avalanche Riders
-2 Eladamri's Call
-3 Eladamri's Call
-3 Wooded Foothills
-4 Wooded Foothills
-4 Eladamri's Call
 1 Thraben Inspector
+1 Restoration Angel
 2 Thraben Inspector
 2 Restoration Angel
 3 Restoration Angel
 4 Restoration Angel
-1 Stomping Ground
-2 Forest
 3 Mishra's Factory
-1 Toski, Bearer of Secrets
-1 Endurance
 1 Basilisk Collar
 1 Blinkmoth Nexus
+1 Cavern of Souls
 2 Blinkmoth Nexus
 1 Scavenger Grounds
 1 Sunhome, Fortress of the Legion
@@ -126,31 +112,29 @@
 2 Sunhome, Fortress of the Legion
 3 Scavenger Grounds
 3 Sunhome, Fortress of the Legion
+1 Stomping Ground
 1 Razorverge Thicket
 1 Birds of Paradise
 1 Aven Mindcensor
 1 Stonehorn Dignitary
 2 Birds of Paradise
+2 Forest
 3 Birds of Paradise
 4 Birds of Paradise
-1 Reflecting Pool
-1 Utopia Sprawl
-1 Misty Rainforest
-1 Obsidian Charmaw
-1 Thrun, the Last Troll
-1 Wall of Blossoms
-2 Utopia Sprawl
-2 Seasoned Pyromancer
-2 Stomping Ground
-2 Wall of Blossoms
-2 Eternal Witness
-2 Cavern of Souls
-3 Utopia Sprawl
-3 Seasoned Pyromancer
-3 Wall of Blossoms
-3 Eternal Witness
-4 Utopia Sprawl
-4 Seasoned Pyromancer
+1 Seasoned Pyromancer
+1 Toski, Bearer of Secrets
+1 Eladamri's Call
+1 Avalanche Riders
+1 Endurance
+2 Eladamri's Call
+3 Eladamri's Call
+3 Wooded Foothills
+4 Wooded Foothills
+4 Eladamri's Call
+1 Fury
+2 Fury
+3 Ragavan, Nimble Pilferer
+4 Ragavan, Nimble Pilferer
 1 Flametongue Yearling
 3 Rugged Prairie
 4 Rugged Prairie
@@ -159,8 +143,6 @@
 2 Tectonic Edge
 3 Tectonic Edge
 4 Tectonic Edge
-3 Ragavan, Nimble Pilferer
-4 Ragavan, Nimble Pilferer
 1 Branchloft Pathway
 1 Path to Exile
 1 Dryad Arbor
@@ -171,6 +153,25 @@
 4 Branchloft Pathway
 4 Lightning Helix
 4 Mishra's Factory
+1 Castle Ardenvale
+1 Ghost Quarter
+1 Leonin Arbiter
+2 Ghost Quarter
+2 Leonin Arbiter
+3 Ghost Quarter
+3 Emeria's Call
+3 Leonin Arbiter
+4 Emeria's Call
+4 Ghost Quarter
+4 Leonin Arbiter
+9 Plains
+10 Plains
+11 Plains
+12 Plains
+13 Plains
+14 Plains
+15 Plains
+16 Plains
 1 On Thin Ice
 2 On Thin Ice
 3 On Thin Ice
@@ -183,22 +184,3 @@
 13 Snow-Covered Plains
 14 Snow-Covered Plains
 15 Snow-Covered Plains
-1 Castle Ardenvale
-1 Ghost Quarter
-1 Leonin Arbiter
-2 Ghost Quarter
-2 Leonin Arbiter
-3 Ghost Quarter
-3 Emeria's Call
-3 Leonin Arbiter
-4 Emeria's Call
-4 Ghost Quarter
-4 Leonin Arbiter
-10 Plains
-11 Plains
-12 Plains
-13 Plains
-14 Plains
-15 Plains
-16 Plains
-9 Plains

@@ -13,21 +13,17 @@
 3 Heroic Intervention
 4 Heroic Intervention
 1 Crippling Fear
-1 Leyline of the Void
-2 Leyline of the Void
 1 Fatal Push
 1 Skyclave Shade
+1 Leyline of the Void
 2 Fatal Push
 2 Skyclave Shade
+2 Leyline of the Void
 3 Leyline of the Void
 3 Skyclave Shade
 4 Leyline of the Void
 4 Skyclave Shade
 3 Reclamation Sage
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-4 Thoughtseize
 1 Fierce Empath
 1 Craterhoof Behemoth
 2 Fierce Empath
@@ -44,13 +40,6 @@
 1 Rampage of the Clans
 1 End-Raze Forerunners
 1 God-Eternal Rhonas
-1 Bloodchief's Thirst
-1 Icon of Ancestry
-2 Crippling Fear
-1 Maelstrom Pulse
-1 Noxious Grasp
-2 Noxious Grasp
-2 Maelstrom Pulse
 1 Vivien Reid
 1 Vivien, Monsters' Advocate
 1 Soul-Guide Lantern
@@ -75,10 +64,10 @@
 2 Chainweb Aracnir
 2 Kraul Harpooner
 2 Garruk's Harbinger
-1 Wildwood Scourge
 1 Titanoth Rex
 1 Blossoming Defense
 1 Treeshaker Chimera
+1 Wildwood Scourge
 2 Blossoming Defense
 2 Titanoth Rex
 2 Carnage Tyrant
@@ -109,18 +98,25 @@
 3 Aether Gust
 3 Swan Song
 4 Swan Song
-1 Imperious Perfect
 1 Allosaurus Shepherd
+1 Imperious Perfect
 1 Arbor Armament
 1 Pause for Reflection
 1 Elven Bow
 2 Pause for Reflection
 2 Elven Bow
 2 Arbor Armament
-3 Broken Wings
 3 Pause for Reflection
+3 Broken Wings
 4 Pause for Reflection
 4 Broken Wings
+1 Thoughtseize
+1 Icon of Ancestry
+1 Bloodchief's Thirst
+2 Crippling Fear
+2 Thoughtseize
+3 Thoughtseize
+4 Thoughtseize
 1 Wildborn Preserver
 1 Questing Beast
 1 Run Afoul
@@ -136,7 +132,7 @@
 1 Nissa, Who Shakes the World
 1 Primal Command
 1 Kogla, the Titan Ape
+1 Harmonize
 1 Plummet
 1 Oakhame Adversary
 2 Oakhame Adversary
-1 Harmonize

@@ -1,7 +1,7 @@
-2 Castle Locthwain
-5 Swamp
 1 Vanishing Verse
 2 Vanishing Verse
+2 Castle Locthwain
+5 Swamp
 3 Ifnir Deadlands
 4 Ifnir Deadlands
 3 Sign in Blood
@@ -12,8 +12,8 @@
 4 Blood Crypt
 1 Shock
 1 Fabled Passage
-1 Footfall Crater
 1 Mountain
+1 Footfall Crater
 1 Kroxa, Titan of Death's Hunger
 1 Blightstep Pathway
 1 Ramunap Ruins
@@ -30,44 +30,45 @@
 2 Shock
 2 Kroxa, Titan of Death's Hunger
 4 Footfall Crater
-2 Dire Tactics
 1 Silverquill Silencer
 2 Silverquill Silencer
 3 Silverquill Silencer
-3 Shock
+2 Dire Tactics
 1 Plains
 1 Elite Spellbinder
 2 Elite Spellbinder
+3 Shock
 3 Elite Spellbinder
+1 Skyclave Apparition
+2 Skyclave Apparition
 4 Shock
 3 Kroxa, Titan of Death's Hunger
 4 Kroxa, Titan of Death's Hunger
+3 Skyclave Apparition
+4 Silverquill Silencer
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
-1 Bloodchief's Thirst
 2 Emeria's Call
-1 Skyclave Apparition
-2 Skyclave Apparition
-3 Skyclave Apparition
-4 Silverquill Silencer
+1 Bloodchief's Thirst
+4 Skyclave Apparition
+4 Elite Spellbinder
 2 Ramunap Ruins
 2 Mountain
 2 Shefet Dunes
-4 Skyclave Apparition
-4 Elite Spellbinder
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
-1 Blinkmoth Nexus
 1 Castle Ardenvale
+2 Plains
+1 Blinkmoth Nexus
 1 Reidane, God of the Worthy
 2 Blinkmoth Nexus
-2 Plains
 2 Reidane, God of the Worthy
 3 Thalia, Guardian of Thraben
 3 Blinkmoth Nexus
 4 Blinkmoth Nexus
+1 Kolaghan's Command
 1 Ajani, Adversary of Tyrants
 1 Glint-Sleeve Siphoner
 1 Savai Triome
@@ -84,47 +85,87 @@
 2 Bloodchief's Thirst
 3 Emeria's Call
 4 Emeria's Call
-1 Kolaghan's Command
+1 Luminarch Aspirant
+2 Luminarch Aspirant
+3 Luminarch Aspirant
+4 Luminarch Aspirant
+1 Silverquill Command
+1 Sacred Foundry
+2 Sacred Foundry
+3 Sacred Foundry
+4 Sacred Foundry
 4 Thalia, Guardian of Thraben
 1 Mana Tithe
 1 Baneslayer Angel
-1 Silverquill Command
-1 Sejiri Shelter
-1 Alseid of Life's Bounty
-2 Mana Tithe
-2 Selfless Savior
-2 Faerie Guidemother
-3 Selfless Savior
-3 Dire Tactics
+1 Bonecrusher Giant
+1 Lightning Helix
+1 Chandra, Torch of Defiance
+1 Dragonskull Summit
+1 Sorin, Vengeful Bloodlord
+1 Dreadhorde Butcher
+1 Clifftop Retreat
+2 Bonecrusher Giant
+2 Lightning Helix
+2 Chandra, Torch of Defiance
+2 Dragonskull Summit
+2 Sorin, Vengeful Bloodlord
+2 Dreadhorde Butcher
+2 Kolaghan's Command
+3 Lightning Helix
+3 Dragonskull Summit
+3 Dreadhorde Butcher
+3 Bonecrusher Giant
+4 Dragonskull Summit
+4 Dreadhorde Butcher
+4 Bonecrusher Giant
 1 Shineshadow Snarl
 2 Shineshadow Snarl
 3 Shineshadow Snarl
 4 Shineshadow Snarl
-1 Fling
-1 Sacred Foundry
-2 Fling
-2 Sacred Foundry
 2 Silverquill Command
-3 Sacred Foundry
-4 Sacred Foundry
+1 Sejiri Shelter
+1 Alseid of Life's Bounty
+1 Maul of the Skyclaves
+2 Maul of the Skyclaves
+2 Mana Tithe
+1 Fling
+2 Fling
+1 Isolated Chapel
+1 Furycalm Snarl
+1 Lightning Strike
+2 Furycalm Snarl
+2 Isolated Chapel
+2 Lightning Strike
+2 Selfless Savior
+2 Faerie Guidemother
+3 Selfless Savior
+3 Dire Tactics
+1 Inspiring Vantage
+2 Inspiring Vantage
+4 Lightning Helix
+1 Crawling Barrens
+1 Baleful Mastery
+1 Killian, Ink Duelist
+2 Crawling Barrens
+2 Baleful Mastery
+2 Killian, Ink Duelist
+3 Crawling Barrens
+3 Plains
+3 Silverquill Command
+4 Silverquill Command
+4 Plains
 1 Dead Weight
 2 Dead Weight
 3 Shefet Dunes
 4 Shefet Dunes
-1 Cast Down
 1 Heartless Act
+1 Cast Down
 1 Thraben Inspector
-2 Cast Down
 2 Heartless Act
+2 Cast Down
 2 Thraben Inspector
 3 Thraben Inspector
 4 Thraben Inspector
-1 Maul of the Skyclaves
-1 Luminarch Aspirant
-2 Maul of the Skyclaves
-2 Luminarch Aspirant
-3 Luminarch Aspirant
-4 Luminarch Aspirant
 1 Demonic Embrace
 1 Feed the Swarm
 1 Duress

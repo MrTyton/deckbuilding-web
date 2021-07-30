@@ -57,9 +57,9 @@
 1 Forest
 1 Mountain
 1 Ancient Grudge
-1 Birds of Paradise
 1 Liquimetal Coating
 1 Dack Fayden
+1 Birds of Paradise
 1 Karn, the Great Creator
 2 Liquimetal Coating
 2 Ancient Grudge
@@ -86,37 +86,17 @@
 3 Prismatic Vista
 1 Kroxa, Titan of Death's Hunger
 1 Bloodstained Mire
-1 Cling to Dust
 1 Badlands
 1 Dark Confidant
 1 Fatal Push
+1 Cling to Dust
 2 Kroxa, Titan of Death's Hunger
+2 Dark Confidant
 2 Bloodstained Mire
 2 Fatal Push
 2 Underground Sea
-2 Dark Confidant
 3 Kroxa, Titan of Death's Hunger
 3 Underground Sea
-1 Watery Grave
-1 Snuff Out
-1 Death's Shadow
-1 Verdant Catacombs
-1 Overgrown Tomb
-1 Berserk
-1 Murktide Regent
-1 Thoughtseize
-2 Watery Grave
-2 Death's Shadow
-2 Snuff Out
-2 Thoughtseize
-2 Berserk
-2 Murktide Regent
-2 Verdant Catacombs
-3 Death's Shadow
-3 Watery Grave
-3 Thoughtseize
-4 Thoughtseize
-4 Death's Shadow
 1 Pyroclasm
 1 Urza's Saga
 1 Retrofitter Foundry
@@ -133,18 +113,38 @@
 3 Painter's Servant
 4 Urza's Saga
 4 Painter's Servant
-1 Tundra
-1 Prismatic Ending
-1 Snow-Covered Plains
-1 Flooded Strand
+1 Watery Grave
+1 Verdant Catacombs
+1 Overgrown Tomb
+1 Murktide Regent
+1 Berserk
+1 Thoughtseize
+1 Snuff Out
+1 Death's Shadow
+2 Thoughtseize
+2 Verdant Catacombs
+2 Murktide Regent
+2 Death's Shadow
+2 Snuff Out
+2 Berserk
+2 Watery Grave
+3 Death's Shadow
+3 Thoughtseize
+3 Watery Grave
+4 Death's Shadow
+4 Thoughtseize
 1 Swords to Plowshares
+1 Tundra
+1 Snow-Covered Plains
+1 Prismatic Ending
+1 Flooded Strand
+2 Swords to Plowshares
 2 Tundra
 2 Prismatic Ending
 2 Flooded Strand
-2 Swords to Plowshares
+3 Swords to Plowshares
 3 Prismatic Ending
 3 Flooded Strand
-3 Swords to Plowshares
-4 Prismatic Ending
 4 Swords to Plowshares
+4 Prismatic Ending
 4 Flooded Strand

@@ -12,12 +12,12 @@
 3 Mountain
 3 Plains
 4 Blade Historian
-1 Furycalm Snarl
 1 Skyclave Apparition
+1 Furycalm Snarl
 2 Furycalm Snarl
 2 Skyclave Apparition
-4 Mountain
 4 Plains
+4 Mountain
 5 Plains
 6 Plains
 7 Plains
@@ -41,13 +41,13 @@
 2 Seasoned Hallowblade
 3 Furycalm Snarl
 4 Furycalm Snarl
-1 Ochre Jelly
 1 Maja, Bretagard Protector
-2 Kabira Takedown
+1 Ochre Jelly
 2 Ochre Jelly
 2 Maja, Bretagard Protector
-3 Minsc, Beloved Ranger
+2 Kabira Takedown
 3 Ochre Jelly
+3 Minsc, Beloved Ranger
 4 Ochre Jelly
 1 Robber of the Rich
 1 Stonebinder's Familiar
@@ -56,8 +56,8 @@
 3 Robber of the Rich
 3 Stonebinder's Familiar
 4 Robber of the Rich
-4 Skyclave Apparition
 4 Stonebinder's Familiar
+4 Skyclave Apparition
 10 Plains
 11 Plains
 12 Plains
@@ -76,36 +76,36 @@
 2 Temple of Triumph
 3 Seasoned Hallowblade
 4 Seasoned Hallowblade
-2 Lair of the Hydra
 2 Drannith Magistrate
 1 Temple of Abandon
-1 Emeria's Call
-1 Flameskull
 1 Arni Brokenbrow
+1 Emeria's Call
 1 Circle of the Moon Druid
 1 Goldspan Dragon
+1 Flameskull
 2 Goldspan Dragon
 1 Hengegate Pathway
 1 Barkchannel Pathway
 2 Hengegate Pathway
+2 Lair of the Hydra
 1 Plargg, Dean of Chaos
 1 Shaile, Dean of Radiance
 2 Shaile, Dean of Radiance
 3 Shaile, Dean of Radiance
-3 Ranger Class
-4 Ranger Class
 1 Magda, Brazen Outlaw
 1 You See a Pair of Goblins
 3 Shatterskull Smashing
 4 Shatterskull Smashing
-1 Embercleave
-2 Reidane, God of the Worthy
-7 Mountain
 1 Showdown of the Skalds
 1 Skyclave Cleric
 2 Showdown of the Skalds
 2 Skyclave Cleric
 3 Showdown of the Skalds
 3 Skyclave Cleric
-4 Clarion Spirit
 4 Skyclave Cleric
+4 Clarion Spirit
+1 Embercleave
+2 Reidane, God of the Worthy
+7 Mountain
+3 Ranger Class
+4 Ranger Class
