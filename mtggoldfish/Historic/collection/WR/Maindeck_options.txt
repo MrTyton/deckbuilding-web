@@ -1,6 +1,6 @@
 3 Reidane, God of the Worthy
-3 Mountain
 4 Plains
+3 Mountain
 1 Dreadhorde Arcanist
 1 Reckless Rage
 1 Defiant Strike
@@ -55,24 +55,24 @@
 1 Gods Willing
 3 Soul-Scar Mage
 4 Soul-Scar Mage
-1 Furycalm Snarl
 5 Mountain
 1 Gideon Blackblade
 1 Feather, the Redeemed
 2 Feather, the Redeemed
 3 Feather, the Redeemed
-6 Plains
-1 Showdown of the Skalds
-2 Showdown of the Skalds
-3 Showdown of the Skalds
 1 Cast Out
+6 Plains
+1 Furycalm Snarl
 2 Furycalm Snarl
+1 Hazoret the Fervent
 4 Feather, the Redeemed
 2 Gods Willing
 3 Gods Willing
 4 Gods Willing
 1 Mila, Crafty Companion
-1 Hazoret the Fervent
+1 Showdown of the Skalds
+2 Showdown of the Skalds
+3 Showdown of the Skalds
 3 Fight as One
 4 Fight as One
 1 Gird for Battle
@@ -80,14 +80,6 @@
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 2 Emeria's Call
-1 Coldsteel Heart
-1 Mind Stone
-1 Chandra, Awakened Inferno
-2 Coldsteel Heart
-2 Mind Stone
-2 Chandra, Awakened Inferno
-3 Mind Stone
-4 Mind Stone
 1 Seasoned Hallowblade
 2 Seasoned Hallowblade
 1 Sejiri Shelter
@@ -102,22 +94,24 @@
 3 Luminarch Aspirant
 4 Luminarch Aspirant
 1 Gideon of the Trials
-3 Coldsteel Heart
-4 Showdown of the Skalds
 1 Infuriate
+1 Mind Stone
+1 Chandra, Awakened Inferno
+1 Coldsteel Heart
+2 Mind Stone
+2 Coldsteel Heart
+2 Chandra, Awakened Inferno
+3 Mind Stone
+4 Mind Stone
 2 Gideon Blackblade
 3 Seasoned Hallowblade
 1 Temple of Triumph
 3 Furycalm Snarl
-3 Chandra, Awakened Inferno
-4 Coldsteel Heart
 2 Infuriate
 3 Infuriate
 4 Infuriate
 3 Gird for Battle
 4 Gird for Battle
-1 Lightning Strike
-2 Lightning Strike
 1 Fabled Passage
 2 Fabled Passage
 3 Fabled Passage
@@ -126,6 +120,10 @@
 2 Mila, Crafty Companion
 4 Seasoned Hallowblade
 2 Cast Out
+1 Lightning Strike
+2 Lightning Strike
+3 Coldsteel Heart
+4 Showdown of the Skalds
 6 Mountain
 2 Savai Triome
 1 Blood Crypt
@@ -150,10 +148,10 @@
 4 Godless Shrine
 4 Knight of the Ebon Legion
 4 Thoughtseize
-1 Karn, Scion of Urza
 1 Grapeshot
 1 Justice Strike
 1 Hushbringer
+1 Karn, Scion of Urza
 1 Archon of Emeria
 2 Archon of Emeria
 1 Relic of Progenitus
@@ -179,6 +177,8 @@
 3 Lightning Strike
 3 Samut's Sprint
 4 Samut's Sprint
+3 Chandra, Awakened Inferno
+4 Coldsteel Heart
 1 Cave of the Frost Dragon
 1 Wish
 1 You Find Some Prisoners
