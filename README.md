@@ -6,11 +6,11 @@
 
 |                                    A                                     |                                    B                                     |                                  C                                   |                               D                                |                    E                     |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------|
-|[BGx Sacrifice](./mtggoldfish/Standard/decks/BGx_Sacrifice.md)            |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)  |[R](./mtggoldfish/Standard/decks/R.md)                          |[WB](./mtggoldfish/Standard/decks/WB.md)  |
-|[BR](./mtggoldfish/Standard/decks/BR.md)                                  |[Jeskai Tempo](./mtggoldfish/Standard/decks/Jeskai_Tempo.md)              |[Naya Adventures](./mtggoldfish/Standard/decks/Naya_Adventures.md)    |[Sultai Control](./mtggoldfish/Standard/decks/Sultai_Control.md)|[WRG](./mtggoldfish/Standard/decks/WRG.md)|
-|[B](./mtggoldfish/Standard/decks/B.md)                                    |[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)      |[Naya Midrange](./mtggoldfish/Standard/decks/Naya_Midrange.md)        |[UG](./mtggoldfish/Standard/decks/UG.md)                        |[WUB](./mtggoldfish/Standard/decks/WUB.md)|
-|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)              |[Mono-Green Midrange](./mtggoldfish/Standard/decks/Mono-Green_Midrange.md)|[Prismari Midrange](./mtggoldfish/Standard/decks/Prismari_Midrange.md)|[UR](./mtggoldfish/Standard/decks/UR.md)                        |[WU](./mtggoldfish/Standard/decks/WU.md)  |
-|[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)          |[RG](./mtggoldfish/Standard/decks/RG.md)                              |[WBG](./mtggoldfish/Standard/decks/WBG.md)                      |[W](./mtggoldfish/Standard/decks/W.md)    |
+|[BGx Sacrifice](./mtggoldfish/Standard/decks/BGx_Sacrifice.md)            |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)  |[Sultai Control](./mtggoldfish/Standard/decks/Sultai_Control.md)|[WRG](./mtggoldfish/Standard/decks/WRG.md)|
+|[BR](./mtggoldfish/Standard/decks/BR.md)                                  |[Jeskai Tempo](./mtggoldfish/Standard/decks/Jeskai_Tempo.md)              |[Naya Adventures](./mtggoldfish/Standard/decks/Naya_Adventures.md)    |[UG](./mtggoldfish/Standard/decks/UG.md)                        |[WUB](./mtggoldfish/Standard/decks/WUB.md)|
+|[B](./mtggoldfish/Standard/decks/B.md)                                    |[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)      |[Naya Midrange](./mtggoldfish/Standard/decks/Naya_Midrange.md)        |[UR](./mtggoldfish/Standard/decks/UR.md)                        |[WU](./mtggoldfish/Standard/decks/WU.md)  |
+|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)              |[Mono-Green Midrange](./mtggoldfish/Standard/decks/Mono-Green_Midrange.md)|[Prismari Midrange](./mtggoldfish/Standard/decks/Prismari_Midrange.md)|[WBG](./mtggoldfish/Standard/decks/WBG.md)                      |[W](./mtggoldfish/Standard/decks/W.md)    |
+|[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)          |[R](./mtggoldfish/Standard/decks/R.md)                                |[WB](./mtggoldfish/Standard/decks/WB.md)                        |                                          |
 
 
 # Historic
@@ -74,4 +74,4 @@
 
 
 
-#### Last Updated at 12:53AM on July 31, 2021
+#### Last Updated at 12:57PM on July 31, 2021
