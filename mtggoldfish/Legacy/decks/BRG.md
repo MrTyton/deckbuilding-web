@@ -73,8 +73,8 @@
 |                    3|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)      |                     |                                                                                                  |
 |                    4|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)      |                     |                                                                                                  |
 |                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)       |                     |                                                                                                  |
-|                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)         |                     |                                                                                                  |
 |                    1|[Hexdrinker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464117)              |                     |                                                                                                  |
+|                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)         |                     |                                                                                                  |
 |                    3|[Bayou](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=879)                      |                     |                                                                                                  |
 |                    4|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)               |                     |                                                                                                  |
 

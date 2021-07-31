@@ -81,8 +81,8 @@
 1 Mystical Dispute
 2 Day of Judgment
 2 Neutralize
-3 Neutralize
 3 Day of Judgment
+3 Neutralize
 4 Neutralize
 2 Castle Ardenvale
 2 Behold the Multiverse
@@ -109,14 +109,14 @@
 5 Island
 1 Temple of Enlightenment
 1 Shatter the Sky
-1 Supreme Will
 1 Kaya's Wrath
 1 Relic of Progenitus
 1 Chainer's Edict
 1 Commence the Endgame
-2 Supreme Will
+1 Supreme Will
 2 Kaya's Wrath
 2 Chainer's Edict
+2 Supreme Will
 1 Chemister's Insight
 1 Hall of Storm Giants
 1 Cleansing Nova
@@ -124,12 +124,12 @@
 1 God-Eternal Kefnet
 2 Cleansing Nova
 2 Chemister's Insight
+1 Blast Zone
 1 Languish
 1 Negate
-1 Blast Zone
+2 Blast Zone
 2 Languish
 2 Sublime Epiphany
-2 Blast Zone
 3 Shadows' Verdict
 1 Clearwater Pathway
 1 Brightclimb Pathway
@@ -149,8 +149,8 @@
 2 Hieroglyphic Illumination
 3 Disallow
 1 Thassa's Intervention
-1 Opt
 1 Professor Onyx
+1 Opt
 2 Castle Vantress
 2 Opt
 2 Thassa's Intervention
@@ -164,9 +164,9 @@
 2 Eliminate
 3 Memory Lapse
 4 Memory Lapse
+1 Tranquil Cove
 1 Dismal Backwater
 1 Scoured Barrens
-1 Tranquil Cove
 1 Ice Tunnel
 1 Glacial Floodplain
 1 Snowfield Sinkhole
@@ -193,14 +193,15 @@
 3 Castle Ardenvale
 3 Irrigated Farmland
 3 Cast Out
-4 Irrigated Farmland
 4 Plains
+4 Irrigated Farmland
 6 Island
-1 Koma, Cosmos Serpent
 1 Forest
-1 Temple Garden
 1 Ugin, the Spirit Dragon
+1 Temple Garden
+1 Temple of Mystery
 1 Banishing Light
+1 Koma, Cosmos Serpent
 1 Sinister Sabotage
 1 Archway Commons
 1 Temple of Plenty
@@ -208,11 +209,11 @@
 1 Breeding Pool
 1 Cultivate
 1 Hydroid Krasis
-1 Temple of Mystery
 1 Growth Spiral
 2 Growth Spiral
 2 Temple of Enlightenment
 2 Banishing Light
+2 Temple of Mystery
 2 Elspeth Conquers Death
 2 Archway Commons
 2 Forest
@@ -221,10 +222,9 @@
 2 Wolfwillow Haven
 2 Cultivate
 2 Sinister Sabotage
-2 Temple of Mystery
 3 Growth Spiral
 3 Forest
 3 Sinister Sabotage
 4 Growth Spiral
-4 Forest
 5 Forest
+4 Forest

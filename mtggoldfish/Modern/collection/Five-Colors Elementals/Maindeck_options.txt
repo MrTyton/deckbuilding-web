@@ -1,26 +1,17 @@
-4 Flamekin Harbinger
+3 Primal Beyond
+4 Primal Beyond
 1 Reflecting Pool
 2 Reflecting Pool
 1 Horde of Notions
-1 Subtlety
+2 Endurance
+3 Flooded Strand
+1 Teferi, Time Raveler
 3 Reflecting Pool
 4 Reflecting Pool
-3 Flooded Strand
-1 Lightning Skelemental
-1 Thunderkin Awakener
-2 Thunderkin Awakener
-3 Thunderkin Awakener
-2 Endurance
-2 Subtlety
-2 Lightning Skelemental
-3 Lightning Skelemental
-4 Lightning Skelemental
-1 Omnath, Locus of the Roil
-1 Teferi, Time Raveler
 1 Raugrin Triome
-2 Arid Mesa
-1 Wrenn and Six
+2 Subtlety
 1 Prismatic Ending
+1 Wrenn and Six
 2 Wrenn and Six
 2 Prismatic Ending
 2 Temple Garden
@@ -28,28 +19,35 @@
 2 Utopia Sprawl
 3 Utopia Sprawl
 4 Utopia Sprawl
-4 Thunderkin Awakener
-2 Horde of Notions
+1 Omnath, Locus of the Roil
+1 Lightning Skelemental
+1 Thunderkin Awakener
+2 Thunderkin Awakener
+3 Thunderkin Awakener
+2 Lightning Skelemental
+3 Lightning Skelemental
+4 Lightning Skelemental
 1 Wooded Foothills
 2 Forest
+3 Misty Rainforest
+2 Arid Mesa
+2 Teferi, Time Raveler
+4 Thunderkin Awakener
 1 Smokebraider
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
 4 Aether Vial
-3 Misty Rainforest
-2 Teferi, Time Raveler
+2 Horde of Notions
 1 Mountain
 1 Spitebellows
 1 Vesperlark
+3 Wrenn and Six
+3 Teferi, Time Raveler
 1 Reveillark
-1 Grief
-2 Grief
-3 Grief
-4 Grief
-1 Waterlogged Grove
 1 Ancient Ziggurat
 1 Shriekmaw
+1 Waterlogged Grove
 2 Ancient Ziggurat
 3 Unclaimed Territory
 3 Ancient Ziggurat
@@ -59,14 +57,16 @@
 2 Shriekmaw
 2 Spitebellows
 1 Lightning Bolt
-3 Wrenn and Six
-3 Teferi, Time Raveler
 3 Wooded Foothills
 1 Abundant Growth
 2 Abundant Growth
 3 Abundant Growth
-4 Flooded Strand
 4 Abundant Growth
+4 Flooded Strand
+1 Grief
+2 Grief
+3 Grief
+4 Grief
 1 Mulldrifter
 1 Eladamri's Call
 2 Eladamri's Call
@@ -92,15 +92,15 @@
 1 Fiery Islet
 1 Island
 1 Scalding Tarn
-1 Birds of Paradise
 1 Glasspool Mimic
+1 Birds of Paradise
 1 Prismatic Vista
-2 Plains
-2 Birds of Paradise
 2 Prismatic Vista
+2 Birds of Paradise
+2 Plains
+3 Plains
 3 Arid Mesa
 3 Birds of Paradise
-3 Plains
 3 Prismatic Vista
 3 Eladamri's Call
 3 Endurance
@@ -115,8 +115,8 @@
 1 Godless Shrine
 1 Malakir Rebirth
 2 Malakir Rebirth
-1 Phantasmal Image
 1 Flickerwisp
+1 Phantasmal Image
 2 Phantasmal Image
 2 Mountain
 1 Overgrown Tomb
@@ -125,6 +125,7 @@
 2 Realmwalker
 3 Realmwalker
 4 Subtlety
+4 Teferi, Time Raveler
 1 Glimpse of Tomorrow
 1 Shardless Agent
 1 Goblin Dark-Dwellers

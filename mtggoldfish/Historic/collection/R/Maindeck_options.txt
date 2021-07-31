@@ -7,71 +7,70 @@
 7 Mountain
 8 Mountain
 9 Mountain
+3 Rampaging Ferocidon
+4 Rampaging Ferocidon
 10 Mountain
 11 Mountain
 12 Mountain
 13 Mountain
 3 Bonecrusher Giant
 1 Grim Lavamancer
-14 Mountain
-3 Rampaging Ferocidon
-4 Rampaging Ferocidon
-1 Pillar of Flame
-2 Pillar of Flame
-15 Mountain
 4 Bonecrusher Giant
-3 Ghitu Lavarunner
-1 Skewer the Critics
-2 Skewer the Critics
-3 Skewer the Critics
+14 Mountain
+15 Mountain
 1 Chandra, Torch of Defiance
 1 Goblin Chainwhirler
 2 Goblin Chainwhirler
-2 Grim Lavamancer
-4 Ghitu Lavarunner
+1 Pillar of Flame
+2 Pillar of Flame
+3 Ghitu Lavarunner
+1 Atarka's Command
+1 Burning-Tree Emissary
+1 Stomping Ground
+2 Atarka's Command
+2 Stomping Ground
+2 Burning-Tree Emissary
+3 Stomping Ground
+3 Burning-Tree Emissary
+4 Stomping Ground
+4 Burning-Tree Emissary
 3 Goblin Chainwhirler
+1 Kari Zev, Skyship Raider
+1 Rootbound Crag
+2 Rootbound Crag
+1 Cragcrown Pathway
+2 Cragcrown Pathway
+3 Atarka's Command
+4 Ghitu Lavarunner
+2 Grim Lavamancer
+3 Cragcrown Pathway
+4 Atarka's Command
+1 Torbran, Thane of Red Fell
 16 Mountain
-3 Pillar of Flame
-4 Skewer the Critics
-4 Pillar of Flame
+4 Cragcrown Pathway
+2 Kari Zev, Skyship Raider
+2 Chandra, Torch of Defiance
+1 Skewer the Critics
+2 Skewer the Critics
+3 Skewer the Critics
 1 Thermo-Alchemist
 1 Chandra's Incinerator
 2 Chandra's Incinerator
 2 Thermo-Alchemist
+3 Pillar of Flame
 3 Thermo-Alchemist
 3 Chandra's Incinerator
+4 Skewer the Critics
 4 Chandra's Incinerator
 4 Thermo-Alchemist
-1 Torbran, Thane of Red Fell
-1 Kari Zev, Skyship Raider
-1 Atarka's Command
-1 Burning-Tree Emissary
-1 Stomping Ground
-1 Rootbound Crag
-2 Atarka's Command
-2 Stomping Ground
-2 Rootbound Crag
-2 Burning-Tree Emissary
-3 Burning-Tree Emissary
-3 Stomping Ground
-4 Burning-Tree Emissary
-4 Stomping Ground
-1 Cragcrown Pathway
-2 Cragcrown Pathway
-3 Atarka's Command
-2 Chandra, Torch of Defiance
-1 Roiling Vortex
-2 Roiling Vortex
-3 Roiling Vortex
-4 Roiling Vortex
+3 Rootbound Crag
+4 Rootbound Crag
 1 Castle Embereth
 1 Forgotten Cave
 1 Shatterskull Smashing
-2 Kari Zev, Skyship Raider
 3 Chandra, Torch of Defiance
 4 Goblin Chainwhirler
-3 Cragcrown Pathway
-4 Cragcrown Pathway
+4 Pillar of Flame
 1 Fanatical Firebrand
 1 Chandra's Spitfire
 2 Fanatical Firebrand
@@ -79,16 +78,16 @@
 3 Fanatical Firebrand
 3 Chandra's Spitfire
 4 Fanatical Firebrand
-4 Atarka's Command
+1 Roiling Vortex
 2 Torbran, Thane of Red Fell
 2 Castle Embereth
+2 Roiling Vortex
 3 Torbran, Thane of Red Fell
+3 Roiling Vortex
+4 Roiling Vortex
 1 Wayward Guide-Beast
 1 Risk Factor
 2 Risk Factor
-3 Rootbound Crag
-4 Rootbound Crag
-1 Spikefield Hazard
 1 Dreadhorde Arcanist
 1 Crash Through
 2 Dreadhorde Arcanist
@@ -108,15 +107,12 @@
 3 Risk Factor
 15 Snow-Covered Mountain
 4 Chandra's Spitfire
-2 Spikefield Hazard
-1 Magmatic Channeler
-2 Magmatic Channeler
-3 Magmatic Channeler
+1 Spikefield Hazard
 2 Roil Eruption
 1 Experimental Frenzy
+2 Spikefield Hazard
 2 Experimental Frenzy
-1 Magma Jet
-2 Magma Jet
+2 Chandra, Acolyte of Flame
 2 Faceless Haven
 3 Earthshaker Khenra
 1 Tibalt, Rakish Instigator
@@ -124,19 +120,37 @@
 2 Tibalt, Rakish Instigator
 2 Underworld Rage-Hound
 3 Sunscorched Desert
+1 Magma Jet
+1 Magmatic Channeler
+2 Magma Jet
+2 Magmatic Channeler
+3 Magmatic Channeler
 1 Glorybringer
 1 Robber of the Rich
-2 Glorybringer
 2 Robber of the Rich
+2 Glorybringer
 3 Robber of the Rich
 4 Robber of the Rich
-1 Runaway Steam-Kin
-2 Runaway Steam-Kin
-3 Hazoret the Fervent
-3 Spikefield Hazard
-3 Runaway Steam-Kin
-4 Spikefield Hazard
-4 Runaway Steam-Kin
-4 Magmatic Channeler
+1 Showdown of the Skalds
+1 Branchloft Pathway
+1 Forest
+1 Needleverge Pathway
+1 Sacred Foundry
+1 Lovestruck Beast
+1 Inspiring Vantage
+2 Showdown of the Skalds
+2 Sacred Foundry
+2 Branchloft Pathway
+2 Lovestruck Beast
+2 Inspiring Vantage
+2 Needleverge Pathway
+3 Showdown of the Skalds
+3 Sacred Foundry
+3 Lovestruck Beast
+3 Inspiring Vantage
+4 Lovestruck Beast
+4 Showdown of the Skalds
+4 Sacred Foundry
+4 Inspiring Vantage
 16 Snow-Covered Mountain
 17 Snow-Covered Mountain

@@ -56,8 +56,8 @@
 2 Dromoka's Command
 3 Glacial Fortress
 1 Cave of the Frost Dragon
-1 Shalai, Voice of Plenty
 1 Fabled Passage
+1 Shalai, Voice of Plenty
 1 Temple of Plenty
 1 Lyra Dawnbringer
 2 Fabled Passage
@@ -66,13 +66,37 @@
 3 Fabled Passage
 1 Adanto Vanguard
 1 Cleric Class
-2 Faceless Haven
+2 The Book of Exalted Deeds
 2 Adanto Vanguard
 2 Cleric Class
-2 The Book of Exalted Deeds
+2 Faceless Haven
 3 Adanto Vanguard
 3 Faceless Haven
 3 Cleric Class
+1 Vito, Thorn of the Dusk Rose
+1 Godless Shrine
+1 Isolated Chapel
+1 Brightclimb Pathway
+2 Vito, Thorn of the Dusk Rose
+2 Emeria's Call
+2 Brightclimb Pathway
+2 Isolated Chapel
+3 Brightclimb Pathway
+3 Vito, Thorn of the Dusk Rose
+4 Brightclimb Pathway
+1 Selfless Savior
+2 Selfless Savior
+3 Selfless Savior
+4 Selfless Savior
+1 Mana Tithe
+1 Rest in Peace
+2 Mana Tithe
+2 Rest in Peace
+3 Mana Tithe
+4 Mana Tithe
+1 Swan Song
+2 Swan Song
+4 Linvala, Shield of Sea Gate
 1 Showdown of the Skalds
 1 Sacred Foundry
 1 Needleverge Pathway
@@ -81,8 +105,8 @@
 1 Skyclave Cleric
 1 Lightning Helix
 1 Clifftop Retreat
-2 Showdown of the Skalds
 2 Needleverge Pathway
+2 Showdown of the Skalds
 2 Sacred Foundry
 2 Cragcrown Pathway
 2 Elite Spellbinder
@@ -92,36 +116,15 @@
 3 Sacred Foundry
 3 Cragcrown Pathway
 3 Needleverge Pathway
-3 Skyclave Cleric
 3 Elite Spellbinder
 3 Lightning Helix
+3 Skyclave Cleric
 4 Lightning Helix
 4 Cragcrown Pathway
 4 Sacred Foundry
 4 Needleverge Pathway
-4 Skyclave Cleric
 4 Elite Spellbinder
-1 Mana Tithe
-1 Rest in Peace
-2 Mana Tithe
-2 Rest in Peace
-3 Mana Tithe
-4 Mana Tithe
-1 Selfless Savior
-2 Selfless Savior
-3 Selfless Savior
-4 Selfless Savior
-1 Godless Shrine
-1 Isolated Chapel
-1 Brightclimb Pathway
-1 Vito, Thorn of the Dusk Rose
-2 Emeria's Call
-2 Brightclimb Pathway
-2 Vito, Thorn of the Dusk Rose
-2 Isolated Chapel
-3 Brightclimb Pathway
-3 Vito, Thorn of the Dusk Rose
-4 Brightclimb Pathway
+4 Skyclave Cleric
 1 Remorseful Cleric
 2 Remorseful Cleric
 3 Remorseful Cleric
@@ -130,9 +133,6 @@
 3 Trelasarra, Moon Dancer
 4 Forest
 4 Trelasarra, Moon Dancer
-1 Swan Song
-2 Swan Song
-4 Linvala, Shield of Sea Gate
 1 Banishing Light
 1 Crawling Barrens
 2 Banishing Light
