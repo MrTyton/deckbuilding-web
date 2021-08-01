@@ -57,13 +57,13 @@
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 1 Submerge
-1 Progenitus
 1 Null Rod
 1 Relic of Progenitus
 1 Snow-Covered Mountain
 1 Torpor Orb
-1 Mindbreak Trap
 1 Orim's Chant
+1 Mindbreak Trap
+1 Progenitus
 1 Ancient Grudge
 1 Praetor's Counsel
 1 Hydroblast
@@ -76,10 +76,6 @@
 2 Abrade
 1 Jolrael, Mwonvuli Recluse
 2 Jolrael, Mwonvuli Recluse
-1 Chain of Vapor
-2 Engineered Explosives
-2 Chain of Vapor
-3 Force of Negation
 1 Firemind's Foresight
 1 Release the Ants
 2 Disenchant
@@ -87,9 +83,13 @@
 1 Noxious Revival
 1 Suspend
 1 Xantid Swarm
-2 Suspend
 2 Xantid Swarm
+2 Suspend
 3 Suspend
+1 Chain of Vapor
+2 Chain of Vapor
+2 Engineered Explosives
+3 Force of Negation
 1 Brazen Borrower
 1 Seeds of Innocence
 1 Leyline of the Void

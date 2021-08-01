@@ -35,13 +35,13 @@
 3 Veil of Summer
 4 Veil of Summer
 4 Forest
+1 Taiga
 1 Snow-Covered Mountain
 1 Punishing Fire
-1 Taiga
 1 Grove of the Burnwillows
+1 Badlands
 1 Chandra, Awakened Inferno
 1 Nissa, Vital Force
-1 Badlands
 1 Possibility Storm
 2 Punishing Fire
 2 Grove of the Burnwillows
@@ -63,17 +63,17 @@
 1 Plague Engineer
 2 Vanishing Verse
 3 Vanishing Verse
-1 Worship
-1 Argothian Enchantress
 1 On Thin Ice
 1 Utopia Sprawl
+1 Argothian Enchantress
+1 Worship
 1 Serra the Benevolent
 2 On Thin Ice
 2 Utopia Sprawl
 2 Argothian Enchantress
-3 Argothian Enchantress
 3 On Thin Ice
 3 Utopia Sprawl
+3 Argothian Enchantress
 1 The Tabernacle at Pendrell Vale
 3 Bayou
 4 Thoughtseize
@@ -83,13 +83,13 @@
 1 Night of Souls' Betrayal
 1 Chandra, Flamecaller
 1 Elspeth, Sun's Champion
-1 Evolutionary Leap
 1 Karn Liberated
+1 Evolutionary Leap
 2 Collective Brutality
+1 Eternal Witness
 1 Island
 1 Baleful Strix
 1 Tundra
-1 Eternal Witness
 1 Parasitic Strix
 1 Arctic Merfolk
 1 Brainstorm
@@ -124,10 +124,10 @@
 4 Brainstorm
 4 Misty Rainforest
 4 Force of Will
-1 Toxic Deluge
 1 Marsh Flats
-1 Zuran Orb
+1 Toxic Deluge
 1 Autochthon Wurm
+1 Zuran Orb
 1 Lich's Mastery
 1 Overgrown Estate
 1 Nourishing Shoal
@@ -152,9 +152,9 @@
 3 Nourishing Shoal
 3 Lotus Petal
 3 Zuran Orb
-4 Lotus Petal
 4 Dark Ritual
 4 Nourishing Shoal
+4 Lotus Petal
 4 Swamp
 1 Hope of Ghirapur
 1 City of Solitude

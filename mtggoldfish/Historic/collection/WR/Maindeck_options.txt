@@ -1,28 +1,28 @@
-3 Reidane, God of the Worthy
-4 Plains
 3 Mountain
-1 Reckless Rage
+4 Plains
 1 Dreadhorde Arcanist
+1 Reckless Rage
 1 Defiant Strike
 1 Tenth District Legionnaire
-2 Reckless Rage
 2 Defiant Strike
+2 Reckless Rage
 2 Tenth District Legionnaire
 2 Dreadhorde Arcanist
+3 Reckless Rage
 3 Tenth District Legionnaire
 3 Dreadhorde Arcanist
 3 Defiant Strike
 4 Defiant Strike
-4 Dreadhorde Arcanist
-3 Reckless Rage
 4 Reckless Rage
+4 Dreadhorde Arcanist
 4 Tenth District Legionnaire
 1 Soul-Scar Mage
-2 Soul-Scar Mage
 1 Clever Lumimancer
+2 Soul-Scar Mage
 2 Clever Lumimancer
 3 Clever Lumimancer
 4 Clever Lumimancer
+3 Reidane, God of the Worthy
 1 Fight as One
 2 Fight as One
 1 Invigorated Rampage
@@ -32,54 +32,65 @@
 2 Leonin Lightscribe
 3 Leonin Lightscribe
 4 Invigorated Rampage
+1 Selfless Savior
+2 Selfless Savior
+4 Leonin Lightscribe
 1 Guiding Voice
 2 Guiding Voice
 3 Guiding Voice
 4 Guiding Voice
-1 Selfless Savior
-2 Selfless Savior
 3 Selfless Savior
 4 Selfless Savior
-4 Leonin Lightscribe
 1 Emeria's Call
 3 Clifftop Retreat
-4 Clifftop Retreat
 4 Mountain
+4 Clifftop Retreat
+5 Plains
 1 Thraben Inspector
 2 Thraben Inspector
 3 Thraben Inspector
-5 Plains
 4 Thraben Inspector
 1 Blinkmoth Nexus
 2 Blinkmoth Nexus
 1 Gods Willing
+1 Furycalm Snarl
 3 Soul-Scar Mage
 4 Soul-Scar Mage
+5 Mountain
+2 Furycalm Snarl
+1 Gideon Blackblade
 1 Feather, the Redeemed
 2 Feather, the Redeemed
 3 Feather, the Redeemed
-1 Gideon Blackblade
-1 Cast Out
-1 Hazoret the Fervent
-4 Feather, the Redeemed
-1 Furycalm Snarl
-2 Furycalm Snarl
-5 Mountain
-2 Gods Willing
-3 Gods Willing
-4 Gods Willing
-1 Mila, Crafty Companion
 6 Plains
 1 Showdown of the Skalds
 2 Showdown of the Skalds
 3 Showdown of the Skalds
-1 Thalia, Guardian of Thraben
-2 Thalia, Guardian of Thraben
-1 Gird for Battle
-2 Gird for Battle
-2 Emeria's Call
+1 Cast Out
+4 Feather, the Redeemed
+2 Gods Willing
+3 Gods Willing
+4 Gods Willing
+1 Mila, Crafty Companion
 3 Fight as One
 4 Fight as One
+1 Gird for Battle
+2 Gird for Battle
+1 Luminarch Aspirant
+2 Luminarch Aspirant
+3 Luminarch Aspirant
+4 Luminarch Aspirant
+1 Thalia, Guardian of Thraben
+2 Thalia, Guardian of Thraben
+2 Emeria's Call
+1 Mind Stone
+1 Coldsteel Heart
+1 Chandra, Awakened Inferno
+2 Mind Stone
+2 Coldsteel Heart
+2 Chandra, Awakened Inferno
+3 Mind Stone
+4 Mind Stone
 1 Seasoned Hallowblade
 2 Seasoned Hallowblade
 1 Sejiri Shelter
@@ -89,23 +100,39 @@
 2 Ephemerate
 1 Samut's Sprint
 2 Samut's Sprint
-1 Luminarch Aspirant
-2 Luminarch Aspirant
-3 Luminarch Aspirant
-4 Luminarch Aspirant
+1 Hazoret the Fervent
 1 Gideon of the Trials
-1 Coldsteel Heart
-1 Mind Stone
-1 Chandra, Awakened Inferno
-2 Coldsteel Heart
-2 Mind Stone
-2 Chandra, Awakened Inferno
-3 Mind Stone
-4 Mind Stone
+3 Coldsteel Heart
+4 Showdown of the Skalds
+1 Infuriate
 2 Gideon Blackblade
 3 Seasoned Hallowblade
 1 Temple of Triumph
+1 Lightning Strike
+2 Lightning Strike
+1 Blood Crypt
+1 Thoughtseize
+1 Godless Shrine
+1 Castle Locthwain
+1 Knight of the Ebon Legion
+2 Blood Crypt
+2 Thoughtseize
+2 Knight of the Ebon Legion
+2 Godless Shrine
+3 Knight of the Ebon Legion
+3 Thoughtseize
+3 Godless Shrine
+4 Godless Shrine
+4 Thoughtseize
+4 Knight of the Ebon Legion
 3 Furycalm Snarl
+3 Chandra, Awakened Inferno
+4 Coldsteel Heart
+2 Infuriate
+3 Infuriate
+4 Infuriate
+3 Gird for Battle
+4 Gird for Battle
 1 Fabled Passage
 2 Fabled Passage
 3 Fabled Passage
@@ -114,45 +141,42 @@
 2 Mila, Crafty Companion
 4 Seasoned Hallowblade
 2 Cast Out
-1 Infuriate
-3 Gird for Battle
-4 Gird for Battle
-1 Lightning Strike
-2 Lightning Strike
-3 Coldsteel Heart
-4 Showdown of the Skalds
-6 Mountain
 2 Savai Triome
-1 Blood Crypt
-1 Thoughtseize
-1 Godless Shrine
 1 Concealed Courtyard
-1 Angelheart Protector
-1 Knight of the Ebon Legion
-1 Castle Locthwain
-2 Blood Crypt
-2 Thoughtseize
 2 Concealed Courtyard
-2 Knight of the Ebon Legion
-2 Godless Shrine
-3 Savai Triome
 3 Concealed Courtyard
-3 Knight of the Ebon Legion
-3 Thoughtseize
-3 Godless Shrine
+1 Kolaghan's Command
+1 Dragonskull Summit
+1 Sorin, Vengeful Bloodlord
+1 Vanishing Verse
+1 Dreadhorde Butcher
+2 Dragonskull Summit
+2 Dreadhorde Butcher
+2 Sorin, Vengeful Bloodlord
+2 Kolaghan's Command
+3 Blood Crypt
+3 Dragonskull Summit
+3 Dreadhorde Butcher
+4 Blood Crypt
+4 Dragonskull Summit
+4 Dreadhorde Butcher
+6 Mountain
+1 Angelheart Protector
+3 Savai Triome
 4 Glorybringer
 4 Savai Triome
-4 Godless Shrine
-4 Knight of the Ebon Legion
-4 Thoughtseize
-1 Karn, Scion of Urza
-1 Grapeshot
 1 Justice Strike
+1 Grapeshot
 1 Hushbringer
-1 Relic of Progenitus
-2 Gideon of the Trials
+1 Karn, Scion of Urza
 1 Archon of Emeria
 2 Archon of Emeria
+1 Relic of Progenitus
+2 Gideon of the Trials
+1 Isolated Chapel
+1 Brightclimb Pathway
+2 Isolated Chapel
+2 Brightclimb Pathway
 1 Elesh Norn, Grand Cenobite
 1 Anger of the Gods
 1 Lukka, Coppercoat Outcast
@@ -160,8 +184,6 @@
 1 Kari Zev, Skyship Raider
 2 Hazoret the Fervent
 2 Kari Zev, Skyship Raider
-1 Alpine Meadow
-2 Alpine Meadow
 1 Show of Confidence
 1 Shock
 1 Wind-Scarred Crag
@@ -172,13 +194,8 @@
 3 Show of Confidence
 3 Wind-Scarred Crag
 3 Lightning Strike
-3 Chandra, Awakened Inferno
-4 Coldsteel Heart
 3 Samut's Sprint
 4 Samut's Sprint
-2 Infuriate
-3 Infuriate
-4 Infuriate
 1 Cave of the Frost Dragon
 1 Wish
 1 You Find Some Prisoners
@@ -186,6 +203,8 @@
 2 You Find Some Prisoners
 3 You Find Some Prisoners
 4 You Find Some Prisoners
+2 Vanishing Verse
+4 Concealed Courtyard
 1 Den of the Bugbear
 1 Kick in the Door
 2 Kick in the Door
@@ -193,31 +212,5 @@
 4 Kick in the Door
 3 Emeria's Call
 4 Emeria's Call
-1 Rootbound Crag
-1 Dromoka's Command
-1 Abundant Harvest
-1 Blossoming Defense
-1 Temple Garden
-1 Sunpetal Grove
-1 Stomping Ground
-2 Dromoka's Command
-2 Stomping Ground
-2 Blossoming Defense
-2 Abundant Harvest
-2 Rootbound Crag
-2 Sunpetal Grove
-2 Temple Garden
-3 Blossoming Defense
-3 Stomping Ground
-3 Abundant Harvest
-3 Dromoka's Command
-3 Sunpetal Grove
-3 Temple Garden
-4 Abundant Harvest
-4 Blossoming Defense
-4 Temple Garden
-4 Stomping Ground
-4 Sunpetal Grove
-4 Dromoka's Command
 2 Temple of Triumph
 7 Plains

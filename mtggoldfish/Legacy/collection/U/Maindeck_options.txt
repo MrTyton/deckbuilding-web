@@ -1,7 +1,7 @@
+2 Cavern of Souls
+3 Mishra's Bauble
 3 Cavern of Souls
-4 Urza, Lord High Artificer
 4 Cavern of Souls
-2 Sai, Master Thopterist
 4 Ethersworn Canonist
 3 Nettlecyst
 4 Nettlecyst
@@ -16,11 +16,12 @@
 3 Arcbound Ravager
 4 Arcbound Ravager
 3 Stonecoil Serpent
-1 Crucible of Worlds
 1 Shadowspear
+1 Crucible of Worlds
 1 Ornithopter
 1 Tundra
 4 Emry, Lurker of the Loch
+1 Pithing Needle
 2 Ornithopter
 3 Ornithopter
 4 Ornithopter
@@ -28,54 +29,56 @@
 2 Springleaf Drum
 3 Springleaf Drum
 2 Tundra
-1 Pithing Needle
 4 Thoughtcast
 1 Vault Skirge
 2 Vault Skirge
 3 Vault Skirge
 4 Stonecoil Serpent
+1 Wasteland
+1 Karn, the Great Creator
+2 Karn, the Great Creator
+3 Karn, the Great Creator
 4 Springleaf Drum
 1 Cranial Plating
 4 Vault Skirge
 1 Darksteel Citadel
 2 Darksteel Citadel
-4 Mishra's Bauble
-1 Trinket Mage
-1 Wasteland
-1 Expedition Map
-1 Karn, the Great Creator
-2 Karn, the Great Creator
-3 Karn, the Great Creator
-4 Karn, the Great Creator
-1 Welding Jar
-3 Darksteel Citadel
-4 Darksteel Citadel
 1 City of Traitors
-2 Crucible of Worlds
-2 Retrofitter Foundry
+4 Mishra's Bauble
+1 Expedition Map
+1 Trinket Mage
+4 Karn, the Great Creator
 2 Wasteland
 1 Force of Will
 2 Force of Will
 3 Force of Will
 4 Force of Will
+1 Welding Jar
+3 Darksteel Citadel
+4 Darksteel Citadel
 1 Plains
+2 Crucible of Worlds
+2 Retrofitter Foundry
+2 Plains
+3 Plains
 1 Master of Etherium
 2 Master of Etherium
 3 Tundra
 2 Welding Jar
+1 Urza's Bauble
 1 Zabaz, the Glimmerwasp
-2 Plains
-3 Plains
 3 Master of Etherium
 1 Phyrexian Walker
 4 Tundra
-1 Urza's Bauble
+3 Island
+4 Island
+2 Urza's Bauble
 4 Plains
+1 Aether Spellbomb
 4 Master of Etherium
 2 Cranial Plating
 3 Cranial Plating
 4 Cranial Plating
-1 Aether Spellbomb
 2 Phyrexian Walker
 1 Portable Hole
 1 Snow-Covered Plains
@@ -87,13 +90,14 @@
 2 Flooded Strand
 3 Flooded Strand
 4 Flooded Strand
-1 Bomat Courier
 1 Spire of Industry
-2 Urza's Bauble
+1 Bomat Courier
 1 Steel Overseer
 1 Hex Parasite
 1 The Ozolith
 2 Steel Overseer
+1 Hullbreacher
+2 Hullbreacher
 1 Arcbound Mouser
 1 Etched Champion
 2 Arcbound Mouser
@@ -106,23 +110,21 @@
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
-1 Great Furnace
-1 Galvanic Blast
-2 Great Furnace
-2 Galvanic Blast
-3 Galvanic Blast
-3 Great Furnace
-4 Great Furnace
-4 Galvanic Blast
 1 Mishra's Factory
 1 Mox Diamond
 2 Mishra's Factory
 2 Mox Diamond
-3 Island
 3 Mishra's Factory
 3 Mox Diamond
 4 Mishra's Factory
-4 Island
+1 Great Furnace
+1 Galvanic Blast
+2 Great Furnace
+2 Galvanic Blast
+3 Great Furnace
+3 Galvanic Blast
+4 Great Furnace
+4 Galvanic Blast
 1 Myr Enforcer
 1 Tree of Tales
 1 Thassa's Oracle
@@ -144,16 +146,66 @@
 2 Sojourner's Companion
 3 Myr Enforcer
 3 Sojourner's Companion
-3 Glimpse of Nature
 3 Memnite
 3 Phyrexian Walker
 3 Frogmite
 3 Tree of Tales
 3 Shield Sphere
-4 Phyrexian Walker
+3 Glimpse of Nature
+4 Tree of Tales
 4 Shield Sphere
 4 Memnite
 4 Frogmite
-4 Tree of Tales
 4 Glimpse of Nature
+4 Phyrexian Walker
 4 Sojourner's Companion
+1 Umezawa's Jitte
+1 Brazen Borrower
+1 Ninja of the Deep Hours
+1 Aether Vial
+1 Force of Negation
+1 Spellstutter Sprite
+1 Daze
+1 Erayo, Soratami Ascendant
+1 Flusterstorm
+1 Sky Hussar
+1 Martyr of Frost
+1 Nivmagus Elemental
+1 Mausoleum Wanderer
+1 Judge's Familiar
+2 Spellstutter Sprite
+2 Brazen Borrower
+2 Umezawa's Jitte
+2 Aether Vial
+2 Ninja of the Deep Hours
+2 Force of Negation
+2 Flusterstorm
+2 Sky Hussar
+2 Martyr of Frost
+2 Nivmagus Elemental
+2 Mausoleum Wanderer
+2 Judge's Familiar
+2 Daze
+3 Force of Negation
+3 Flusterstorm
+3 Spellstutter Sprite
+3 Judge's Familiar
+3 Mausoleum Wanderer
+3 Martyr of Frost
+3 Daze
+3 Sky Hussar
+3 Nivmagus Elemental
+4 Force of Negation
+4 Flusterstorm
+4 Sky Hussar
+4 Nivmagus Elemental
+4 Mausoleum Wanderer
+4 Daze
+4 Judge's Familiar
+5 Island
+6 Island
+7 Island
+8 Island
+9 Island
+11 Island
+10 Island
