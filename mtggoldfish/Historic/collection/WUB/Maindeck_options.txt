@@ -140,8 +140,8 @@
 1 Settle the Wreckage
 1 Snow-Covered Island
 1 Disallow
-2 Shatter the Sky
 2 Clearwater Pathway
+2 Shatter the Sky
 2 Settle the Wreckage
 2 Hengegate Pathway
 2 Disallow
@@ -177,11 +177,11 @@
 2 Snowfield Sinkhole
 3 Ice Tunnel
 3 Behold the Multiverse
+3 Scoured Barrens
 3 Dismal Backwater
 3 Snowfield Sinkhole
-3 Scoured Barrens
-4 Snowfield Sinkhole
 4 Scoured Barrens
+4 Snowfield Sinkhole
 1 Cast Out
 1 Tale's End
 1 Grafdigger's Cage
@@ -196,6 +196,7 @@
 4 Irrigated Farmland
 4 Plains
 6 Island
+1 Temple of Plenty
 1 Wolfwillow Haven
 1 Forest
 1 Temple Garden
@@ -204,7 +205,6 @@
 1 Koma, Cosmos Serpent
 1 Sinister Sabotage
 1 Archway Commons
-1 Temple of Plenty
 1 Breeding Pool
 1 Cultivate
 1 Hydroid Krasis
@@ -212,12 +212,12 @@
 1 Growth Spiral
 2 Growth Spiral
 2 Temple of Enlightenment
+2 Temple of Plenty
 2 Wolfwillow Haven
 2 Banishing Light
 2 Elspeth Conquers Death
 2 Archway Commons
 2 Forest
-2 Temple of Plenty
 2 Hydroid Krasis
 2 Cultivate
 2 Sinister Sabotage

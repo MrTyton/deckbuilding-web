@@ -81,7 +81,6 @@
 3 Abundant Harvest
 4 Abundant Harvest
 1 Gilded Goose
-1 Trail of Crumbs
 1 Yavimaya, Cradle of Growth
 1 The Underworld Cookbook
 1 Finale of Devastation
@@ -89,14 +88,15 @@
 1 Scrapheap Scrounger
 1 Street Wraith
 1 Asmoranomardicadaistinaculdacar
+1 Trail of Crumbs
 1 Bone Shards
 2 Gilded Goose
-2 Trail of Crumbs
 2 Finale of Devastation
 2 Asmoranomardicadaistinaculdacar
 2 The Underworld Cookbook
 2 Scrapheap Scrounger
 2 Street Wraith
+2 Trail of Crumbs
 2 Bone Shards
 2 Ovalchase Daredevil
 3 Gilded Goose
@@ -163,8 +163,8 @@
 1 Animation Module
 1 Hangarback Walker
 1 Phyrexia's Core
-2 Animation Module
 2 The Ozolith
+2 Animation Module
 2 Arcbound Worker
 2 Llanowar Reborn
 2 Hardened Scales

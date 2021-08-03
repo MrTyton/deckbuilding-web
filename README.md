@@ -10,7 +10,7 @@
 |[BR](./mtggoldfish/Standard/decks/BR.md)                                  |[Jeskai Tempo](./mtggoldfish/Standard/decks/Jeskai_Tempo.md)              |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)  |[Sultai Control](./mtggoldfish/Standard/decks/Sultai_Control.md)|[WB](./mtggoldfish/Standard/decks/WB.md)  |
 |[B](./mtggoldfish/Standard/decks/B.md)                                    |[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)      |[Naya Adventures](./mtggoldfish/Standard/decks/Naya_Adventures.md)    |[UBR](./mtggoldfish/Standard/decks/UBR.md)                      |[WRG](./mtggoldfish/Standard/decks/WRG.md)|
 |[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)              |[Mono-Green Food](./mtggoldfish/Standard/decks/Mono-Green_Food.md)        |[Naya Midrange](./mtggoldfish/Standard/decks/Naya_Midrange.md)        |[UG](./mtggoldfish/Standard/decks/UG.md)                        |[WUB](./mtggoldfish/Standard/decks/WUB.md)|
-|[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Green Midrange](./mtggoldfish/Standard/decks/Mono-Green_Midrange.md)|[Prismari Midrange](./mtggoldfish/Standard/decks/Prismari_Midrange.md)|[UR](./mtggoldfish/Standard/decks/UR.md)                        |[WU](./mtggoldfish/Standard/decks/WU.md)  |
+|[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Green Midrange](./mtggoldfish/Standard/decks/Mono-Green_Midrange.md)|[Prismari Midrange](./mtggoldfish/Standard/decks/Prismari_Midrange.md)|[UR](./mtggoldfish/Standard/decks/UR.md)                        |                                          |
 
 
 # Historic
@@ -28,15 +28,14 @@
 
 # Pioneer
 
-|                                  A                                  |                                B                                |                                  C                                  |                       D                       |                    E                    |
-|---------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------|-----------------------------------------|
-|[BG](./mtggoldfish/Pioneer/decks/BG.md)                              |[Enigmatic Fires](./mtggoldfish/Pioneer/decks/Enigmatic_Fires.md)|[Mono-Black Aggro](./mtggoldfish/Pioneer/decks/Mono-Black_Aggro.md)  |[Stompy](./mtggoldfish/Pioneer/decks/Stompy.md)|[WUR](./mtggoldfish/Pioneer/decks/WUR.md)|
-|[BRG](./mtggoldfish/Pioneer/decks/BRG.md)                            |[G](./mtggoldfish/Pioneer/decks/G.md)                            |[Mono-Red Aggro](./mtggoldfish/Pioneer/decks/Mono-Red_Aggro.md)      |[UR](./mtggoldfish/Pioneer/decks/UR.md)        |[WU](./mtggoldfish/Pioneer/decks/WU.md)  |
-|[BR](./mtggoldfish/Pioneer/decks/BR.md)                              |[Gruul Aggro](./mtggoldfish/Pioneer/decks/Gruul_Aggro.md)        |[Naya Winota](./mtggoldfish/Pioneer/decks/Naya_Winota.md)            |[U](./mtggoldfish/Pioneer/decks/U.md)          |[W](./mtggoldfish/Pioneer/decks/W.md)    |
-|[B](./mtggoldfish/Pioneer/decks/B.md)                                |[Hidden Strings](./mtggoldfish/Pioneer/decks/Hidden_Strings.md)  |[Niv to Light](./mtggoldfish/Pioneer/decks/Niv_to_Light.md)          |[WR](./mtggoldfish/Pioneer/decks/WR.md)        |                                         |
-|[Burn](./mtggoldfish/Pioneer/decks/Burn.md)                          |[Izzet Phoenix](./mtggoldfish/Pioneer/decks/Izzet_Phoenix.md)    |[RG](./mtggoldfish/Pioneer/decks/RG.md)                              |[WUB](./mtggoldfish/Pioneer/decks/WUB.md)      |                                         |
-|[Collected Company](./mtggoldfish/Pioneer/decks/Collected_Company.md)|[Jeskai Control](./mtggoldfish/Pioneer/decks/Jeskai_Control.md)  |[Rakdos Pyromancer](./mtggoldfish/Pioneer/decks/Rakdos_Pyromancer.md)|[WUG](./mtggoldfish/Pioneer/decks/WUG.md)      |                                         |
-|[Dimir Control](./mtggoldfish/Pioneer/decks/Dimir_Control.md)        |[Jund Sacrifice](./mtggoldfish/Pioneer/decks/Jund_Sacrifice.md)  |[Spirits](./mtggoldfish/Pioneer/decks/Spirits.md)                    |[WURG](./mtggoldfish/Pioneer/decks/WURG.md)    |                                         |
+|                                  A                                  |                                B                                |                                 C                                 |                                  D                                  |                     E                     |
+|---------------------------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------|
+|[BG](./mtggoldfish/Pioneer/decks/BG.md)                              |[Dimir Control](./mtggoldfish/Pioneer/decks/Dimir_Control.md)    |[Jeskai Control](./mtggoldfish/Pioneer/decks/Jeskai_Control.md)    |[Rakdos Pyromancer](./mtggoldfish/Pioneer/decks/Rakdos_Pyromancer.md)|[WUB](./mtggoldfish/Pioneer/decks/WUB.md)  |
+|[BRG](./mtggoldfish/Pioneer/decks/BRG.md)                            |[Enigmatic Fires](./mtggoldfish/Pioneer/decks/Enigmatic_Fires.md)|[Mono-Black Aggro](./mtggoldfish/Pioneer/decks/Mono-Black_Aggro.md)|[Spirits](./mtggoldfish/Pioneer/decks/Spirits.md)                    |[WUG](./mtggoldfish/Pioneer/decks/WUG.md)  |
+|[BR](./mtggoldfish/Pioneer/decks/BR.md)                              |[G](./mtggoldfish/Pioneer/decks/G.md)                            |[Mono-Red Aggro](./mtggoldfish/Pioneer/decks/Mono-Red_Aggro.md)    |[Stompy](./mtggoldfish/Pioneer/decks/Stompy.md)                      |[WURG](./mtggoldfish/Pioneer/decks/WURG.md)|
+|[B](./mtggoldfish/Pioneer/decks/B.md)                                |[Gruul Aggro](./mtggoldfish/Pioneer/decks/Gruul_Aggro.md)        |[Naya Winota](./mtggoldfish/Pioneer/decks/Naya_Winota.md)          |[UR](./mtggoldfish/Pioneer/decks/UR.md)                              |[WUR](./mtggoldfish/Pioneer/decks/WUR.md)  |
+|[Burn](./mtggoldfish/Pioneer/decks/Burn.md)                          |[Hidden Strings](./mtggoldfish/Pioneer/decks/Hidden_Strings.md)  |[Niv to Light](./mtggoldfish/Pioneer/decks/Niv_to_Light.md)        |[U](./mtggoldfish/Pioneer/decks/U.md)                                |[WU](./mtggoldfish/Pioneer/decks/WU.md)    |
+|[Collected Company](./mtggoldfish/Pioneer/decks/Collected_Company.md)|[Izzet Phoenix](./mtggoldfish/Pioneer/decks/Izzet_Phoenix.md)    |[RG](./mtggoldfish/Pioneer/decks/RG.md)                            |[WR](./mtggoldfish/Pioneer/decks/WR.md)                              |[W](./mtggoldfish/Pioneer/decks/W.md)      |
 
 
 # Modern
@@ -75,4 +74,4 @@
 
 
 
-#### Last Updated at 12:56AM on August 03, 2021
+#### Last Updated at 01:09PM on August 03, 2021

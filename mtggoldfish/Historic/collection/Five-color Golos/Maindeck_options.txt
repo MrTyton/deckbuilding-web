@@ -135,6 +135,7 @@
 1 Assassin's Trophy
 2 Assassin's Trophy
 3 Assassin's Trophy
+1 The Birth of Meletis
 1 Treacherous Blessing
 1 Sanctum of Stone Fangs
 1 Cragcrown Pathway
@@ -144,14 +145,14 @@
 1 Mastermind's Acquisition
 1 Savai Triome
 1 Dryad of the Ilysian Grove
-1 Medomai's Prophecy
 1 Shalai, Voice of Plenty
 1 Solemn Simulacrum
-1 The Birth of Meletis
 1 Thirst for Meaning
+1 Luminous Broodmoth
 1 Blood Crypt
 1 Fae of Wishes
 1 Escape to the Wilds
+1 Medomai's Prophecy
 1 Elder Gargaroth
 1 Cultivate
 1 Massacre Wurm
@@ -161,7 +162,6 @@
 1 Wrath of God
 1 Genesis Ultimatum
 1 Terror of the Peaks
-1 Luminous Broodmoth
 1 Ulvenwald Hydra
 1 Sanctum of Shattered Heights
 1 Honden of Infinite Rage
@@ -185,6 +185,7 @@
 1 Sanctum of Fruitful Harvest
 1 Sanctum of Tranquil Light
 1 Trial of Knowledge
+2 The Birth of Meletis
 2 Omen of the Forge
 2 Cragcrown Pathway
 2 Stomping Ground
@@ -192,16 +193,15 @@
 2 Mastermind's Acquisition
 2 Yorion, Sky Nomad
 2 Solemn Simulacrum
-2 Medomai's Prophecy
 2 Archon of Sun's Grace
 2 Finale of Devastation
-2 The Birth of Meletis
 2 Klothys, God of Destiny
 2 Fae of Wishes
 2 Thirst for Meaning
 2 Evolving Wilds
 2 Escape to the Wilds
 2 Cultivate
+2 Medomai's Prophecy
 2 Elspeth Conquers Death
 2 Wrath of God
 2 Mirari's Wake
@@ -265,19 +265,19 @@
 4 Breeding Pool
 4 Steam Vents
 4 Fae of Wishes
+4 Evolving Wilds
 4 Overgrown Tomb
 4 Sacred Foundry
 4 Plains
 4 Thirst for Meaning
+4 Migration Path
 4 Deafening Clarion
 4 Prophetic Prism
 4 Treacherous Blessing
 4 Cultivate
 4 Renegade Map
 4 Temple Garden
-4 Migration Path
 4 Gilded Goose
-4 Evolving Wilds
 4 Mastermind's Acquisition
 4 Wrath of God
 4 Hallowed Fountain
@@ -442,8 +442,8 @@
 1 Root Snare
 1 Open the Gates
 2 Valki, God of Lies
-2 Felidar Retreat
 2 Alrund's Epiphany
+2 Felidar Retreat
 2 Root Snare
 2 Open the Gates
 3 Abundant Harvest
@@ -483,15 +483,15 @@
 2 Labyrinth of Skophos
 3 Stonecoil Serpent
 1 Cavalier of Dawn
+1 Lukka, Coppercoat Outcast
 1 Thassa, Deep-Dwelling
 1 Heliod, Sun-Crowned
-1 Jace, Unraveler of Secrets
-1 Lukka, Coppercoat Outcast
-1 Glaive of the Guildpact
 1 The First Iroan Games
+1 Jace, Unraveler of Secrets
+1 Glaive of the Guildpact
 2 Cavalier of Dawn
-2 Glaive of the Guildpact
 2 The First Iroan Games
+2 Glaive of the Guildpact
 2 Gateway Plaza
 2 Dimir Guildgate
 3 Gateway Plaza

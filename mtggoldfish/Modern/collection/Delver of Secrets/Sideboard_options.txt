@@ -53,8 +53,8 @@
 1 The Royal Scions
 1 Pithing Needle
 1 Relic of Progenitus
-1 Wear/Tear
 1 Sanctifier en-Vec
+1 Wear/Tear
 2 Wear/Tear
 1 Annul
 1 Klothys, God of Destiny
@@ -79,12 +79,6 @@
 2 Geth's Verdict
 2 Psychic Barrier
 3 Collective Brutality
-1 Kozilek's Return
-1 Tarmogoyf
-1 Wizard's Retort
-2 Tarmogoyf
-2 Wizard's Retort
-3 Tarmogoyf
 1 Lurrus of the Dream-Den
 1 Fatal Push
 1 Countersquall
@@ -92,6 +86,12 @@
 2 Snapcaster Mage
 2 Countersquall
 3 Snapcaster Mage
+1 Kozilek's Return
+1 Tarmogoyf
+1 Wizard's Retort
+2 Tarmogoyf
+2 Wizard's Retort
+3 Tarmogoyf
 2 Chalice of the Void
 2 Shattering Spree
 2 Fury
@@ -103,8 +103,8 @@
 1 Shadowspear
 4 Rest in Peace
 1 Heartless Act
-1 Nihil Spellbomb
 1 Drown in the Loch
+1 Nihil Spellbomb
 1 Flaying Tendrils
 2 Heartless Act
 2 Void Mirror

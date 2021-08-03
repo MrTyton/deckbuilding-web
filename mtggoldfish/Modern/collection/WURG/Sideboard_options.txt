@@ -1,23 +1,24 @@
-1 Stony Silence
 1 Celestial Purge
+1 Stony Silence
 2 Celestial Purge
+1 Kozilek, Butcher of Truth
 1 Jace, the Mind Sculptor
 2 Alpine Moon
-1 Kozilek, Butcher of Truth
 2 Stony Silence
-1 Nahiri, the Harbinger
 3 Mystical Dispute
 1 Rest in Peace
 1 Chalice of the Void
-1 Plains
+1 Nahiri, the Harbinger
 2 Rest in Peace
+1 Plains
 3 Veil of Summer
 1 Anger of the Gods
 4 Mystical Dispute
-2 Anger of the Gods
+1 Foundation Breaker
 1 Leyline of the Void
 2 Leyline of the Void
-1 Foundation Breaker
+2 Anger of the Gods
+2 Foundation Breaker
 1 Path to Exile
 1 Jegantha, the Wellspring
 2 Path to Exile
@@ -27,7 +28,6 @@
 2 Gaddock Teeg
 1 Teferi, Hero of Dominaria
 3 Flusterstorm
-2 Foundation Breaker
 4 Path to Exile
 1 Force of Negation
 1 Force of Vigor
@@ -53,33 +53,36 @@
 1 Meddling Mage
 2 Meddling Mage
 3 Meddling Mage
+1 Dovin's Veto
+1 Rule of Law
 4 Foundation Breaker
-1 Void Winnower
 1 Agent of Treachery
+1 Void Winnower
 2 Void Winnower
 2 Agent of Treachery
 3 Agent of Treachery
-1 Rule of Law
 1 Assassin's Trophy
-1 Dovin's Veto
-3 Chalice of the Void
 1 Crumble to Dust
 1 Sanctifier en-Vec
+1 Counterspell
+3 Chalice of the Void
 1 Run Afoul
+1 Spell Pierce
 1 Lavinia, Azorius Renegade
 1 Shattering Spree
-1 Spell Pierce
+1 Engineered Explosives
 2 Endurance
 1 Fury
 2 Fury
+1 Void Mirror
+2 Counterspell
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 1 Brazen Borrower
 2 Brazen Borrower
 3 Brazen Borrower
+3 Celestial Purge
 1 Ashiok, Dream Render
-1 Counterspell
-1 Void Mirror
 1 Ricochet Trap
 2 Force of Negation
 2 Lavinia, Azorius Renegade
@@ -89,13 +92,12 @@
 1 Ingot Chewer
 2 Ingot Chewer
 1 Spreading Seas
-2 Counterspell
 3 Counterspell
 1 Fracturing Gust
-1 Engineered Explosives
-3 Celestial Purge
 2 Spell Pierce
 3 Fury
+1 Leyline of Sanctity
+2 Leyline of Sanctity
 1 Kataki, War's Wage
 1 Collector Ouphe
 2 Collector Ouphe
@@ -104,9 +106,8 @@
 1 Platinum Emperion
 2 Platinum Emperion
 1 Soul-Guide Lantern
+3 Leyline of Sanctity
 1 Gemstone Caverns
-1 Leyline of Sanctity
-2 Leyline of Sanctity
 1 Snow-Covered Plains
 3 Anger of the Gods
 3 Stony Silence
@@ -116,15 +117,15 @@
 2 Grief
 4 Brazen Borrower
 1 Iona, Shield of Emeria
-3 Leyline of Sanctity
 4 Leyline of Sanctity
 1 Teferi, Time Raveler
 2 Shark Typhoon
 3 Endurance
 1 Shatterstorm
 3 Timely Reinforcements
-1 Subtlety
 1 Back to Nature
+1 Subtlety
+1 Geist of Saint Traft
 2 Shattering Spree
 3 Force of Negation
 1 Reclamation Sage
@@ -137,14 +138,15 @@
 1 Beast Within
 1 Torpor Orb
 2 Sanctifier en-Vec
+3 Wear/Tear
 1 Serra's Emissary
-1 Geist of Saint Traft
 1 Tormod's Crypt
 1 Grafdigger's Cage
 1 Chandra, Torch of Defiance
 1 By Force
 1 Anafenza, the Foremost
 1 Remand
+2 Geist of Saint Traft
 1 Dead/Gone
 2 Dead/Gone
 2 Klothys, God of Destiny
@@ -193,9 +195,19 @@
 4 Tidehollow Sculler
 4 Force of Negation
 4 Aether Gust
+1 Chandra, Awakened Inferno
+1 Cleansing Nova
+2 Dovin's Veto
+2 Cleansing Nova
+2 Chandra, Awakened Inferno
+3 Dovin's Veto
+4 Dovin's Veto
 1 Madcap Experiment
 2 Madcap Experiment
 3 Madcap Experiment
 4 Madcap Experiment
 3 Reclamation Sage
 4 Reclamation Sage
+1 Koma, Cosmos Serpent
+1 Inkwell Leviathan
+1 Oath of Teferi

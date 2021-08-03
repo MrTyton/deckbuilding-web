@@ -96,19 +96,19 @@
 3 Inquisition of Kozilek
 1 Remand
 2 Remand
-1 Soaring Thought-Thief
 1 Thieves' Guild Enforcer
+1 Soaring Thought-Thief
 1 Drown in the Loch
 1 Bloodstained Mire
 2 Bloodstained Mire
 2 Thieves' Guild Enforcer
 2 Soaring Thought-Thief
 2 Drown in the Loch
-3 Soaring Thought-Thief
 3 Thieves' Guild Enforcer
+3 Soaring Thought-Thief
 3 Drown in the Loch
-4 Thieves' Guild Enforcer
 4 Soaring Thought-Thief
+4 Thieves' Guild Enforcer
 4 Drown in the Loch
 4 Watery Grave
 1 Fatal Push
@@ -144,6 +144,11 @@
 2 Magmatic Channeler
 3 Magmatic Channeler
 4 Magmatic Channeler
+1 Kolaghan's Command
+1 Blood Crypt
+2 Kolaghan's Command
+3 Snapcaster Mage
+4 Snapcaster Mage
 1 Scavenging Ooze
 1 Opt
 1 Burst Lightning
@@ -168,8 +173,8 @@
 4 Mana Leak
 4 Stubborn Denial
 4 Disrupting Shoal
-1 Agadeem's Awakening
 1 Unearth
+1 Agadeem's Awakening
 1 Dismember
 1 Verdant Catacombs
 1 Death's Shadow
@@ -190,8 +195,8 @@
 4 Death's Shadow
 1 Darkslick Shores
 1 Bloodchief's Thirst
-1 Ancestral Vision
 1 Bitterblossom
+1 Ancestral Vision
 2 Spell Snare
 2 Darkslick Shores
 2 Bitterblossom
@@ -202,8 +207,3 @@
 3 Spell Pierce
 3 Ancestral Vision
 4 Ancestral Vision
-1 Kolaghan's Command
-1 Blood Crypt
-2 Kolaghan's Command
-3 Snapcaster Mage
-4 Snapcaster Mage
