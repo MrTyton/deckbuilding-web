@@ -23,15 +23,15 @@
 1 Extus, Oriq Overlord
 2 Mountain
 2 Extus, Oriq Overlord
-1 Brightclimb Pathway
 1 Forbidden Friendship
 1 Needleverge Pathway
+1 Brightclimb Pathway
 2 Brightclimb Pathway
 2 Forbidden Friendship
 2 Needleverge Pathway
-3 Brightclimb Pathway
 3 Claim the Firstborn
 3 Needleverge Pathway
+3 Brightclimb Pathway
 3 Extus, Oriq Overlord
 4 Brightclimb Pathway
 4 Claim the Firstborn
@@ -46,10 +46,10 @@
 3 Fabled Passage
 3 Korvold, Fae-Cursed King
 4 Fabled Passage
-1 Kazuul's Fury
 1 Duress
 1 Mortality Spear
 1 Heartless Act
+1 Kazuul's Fury
 2 Power Word Kill
 2 The Akroan War
 2 Duress
@@ -97,8 +97,8 @@
 1 Goblin Javelineer
 2 Goblin Javelineer
 2 Shatterskull Smashing
-3 Bonecrusher Giant
 3 Goblin Javelineer
+3 Bonecrusher Giant
 1 Goldspan Dragon
 2 Goldspan Dragon
 3 Temple of Malice
@@ -108,34 +108,17 @@
 3 Warlock Class
 3 Grim Wanderer
 4 Warlock Class
-1 Darkbore Pathway
-1 Dina, Soul Steeper
-1 Sedgemoor Witch
-2 Darkbore Pathway
-2 Sedgemoor Witch
-2 Dina, Soul Steeper
-3 Forest
-3 Darkbore Pathway
-3 Sedgemoor Witch
-3 Plumb the Forbidden
-3 Dina, Soul Steeper
-4 Forest
-4 Darkbore Pathway
-4 Plumb the Forbidden
-4 Sedgemoor Witch
-5 Forest
-6 Forest
+1 Ranger Class
 1 Pelakka Predation
 1 Weaponize the Monsters
 1 Witch's Oven
 1 Cragcrown Pathway
-1 Ranger Class
 1 Kalain, Reclusive Painter
 1 Indatha Triome
+2 Ranger Class
 2 Weaponize the Monsters
 2 Kalain, Reclusive Painter
 2 Cragcrown Pathway
-2 Ranger Class
 2 Indatha Triome
 3 Kalain, Reclusive Painter
 3 Indatha Triome
@@ -143,3 +126,20 @@
 4 Eyetwitch
 4 Indatha Triome
 4 Cragcrown Pathway
+1 Darkbore Pathway
+1 Dina, Soul Steeper
+1 Sedgemoor Witch
+2 Sedgemoor Witch
+2 Dina, Soul Steeper
+2 Darkbore Pathway
+3 Sedgemoor Witch
+3 Darkbore Pathway
+3 Plumb the Forbidden
+3 Forest
+3 Dina, Soul Steeper
+4 Forest
+4 Darkbore Pathway
+4 Plumb the Forbidden
+4 Sedgemoor Witch
+5 Forest
+6 Forest
