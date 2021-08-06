@@ -18,12 +18,12 @@
 4 Field of Ruin
 5 Plains
 6 Plains
-1 Wall of Omens
 1 Aether Vial
 1 Giver of Runes
-2 Wall of Omens
+1 Wall of Omens
 2 Aether Vial
 2 Giver of Runes
+2 Wall of Omens
 3 Giver of Runes
 3 Aether Vial
 4 Aether Vial
@@ -99,10 +99,10 @@
 4 Elite Spellbinder
 1 Cave of the Frost Dragon
 1 Blood Crypt
-1 Bloodstained Mire
 1 Night's Whisper
-2 Bloodstained Mire
+1 Bloodstained Mire
 2 Bone Shards
+2 Bloodstained Mire
 2 Archon of Cruelty
 2 Night's Whisper
 3 Archon of Cruelty
@@ -156,8 +156,8 @@
 1 Hallowed Fountain
 1 Sanctifier en-Vec
 2 Sanctifier en-Vec
-1 Snow-Covered Plains
 1 Snow-Covered Swamp
+1 Snow-Covered Plains
 1 Fetid Heath
 2 Snow-Covered Swamp
 2 Snow-Covered Plains
@@ -195,8 +195,8 @@
 4 Vindicate
 4 Lingering Souls
 1 Thraben Inspector
-1 Speaker of the Heavens
 1 Castle Ardenvale
+1 Speaker of the Heavens
 1 Serra Ascendant
 1 Sorin, Vengeful Bloodlord
 1 Abiding Grace

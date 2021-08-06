@@ -47,8 +47,8 @@
 4 Mountain
 5 Mountain
 5 Island
-6 Island
 6 Mountain
+6 Island
 2 Den of the Bugbear
 1 The Akroan War
 2 The Akroan War
@@ -116,15 +116,15 @@
 1 Glass Casket
 1 Cave of the Frost Dragon
 1 Soul Sear
-1 Showdown of the Skalds
 1 Needleverge Pathway
+1 Showdown of the Skalds
 1 Scorching Dragonfire
 1 Hengegate Pathway
 2 Glass Casket
 2 Soul Sear
 2 Cave of the Frost Dragon
-2 Showdown of the Skalds
 2 Needleverge Pathway
+2 Showdown of the Skalds
 2 Scorching Dragonfire
 2 Hengegate Pathway
 3 Showdown of the Skalds
@@ -132,17 +132,17 @@
 3 Scorching Dragonfire
 4 Showdown of the Skalds
 4 Raugrin Triome
-1 Opt
 1 Glimpse of Freedom
+1 Opt
 1 Crash Through
 1 Rimrock Knight
 1 Stormwing Entity
-2 Opt
 2 Stormwing Entity
 2 Rimrock Knight
 2 Crash Through
-3 Opt
+2 Opt
 3 Stormwing Entity
+3 Opt
 3 Crash Through
 4 Opt
 4 Crash Through
@@ -152,12 +152,12 @@
 2 Power Word Kill
 2 Skullport Merchant
 2 Temple of Deceit
-3 Power Word Kill
-3 Temple of Epiphany
 3 Skullport Merchant
+3 Temple of Epiphany
+3 Power Word Kill
 3 Temple of Deceit
-4 Clearwater Pathway
 4 Temple of Deceit
+4 Clearwater Pathway
 4 Power Word Kill
 4 Temple of Epiphany
 4 Skullport Merchant

@@ -22,8 +22,8 @@
 2 Swords to Plowshares
 3 Swords to Plowshares
 4 Swords to Plowshares
-1 Disenchant
 1 Surgical Extraction
+1 Disenchant
 2 Disenchant
 3 Disenchant
 1 Spatial Contortion
@@ -43,12 +43,12 @@
 1 Karn, Scion of Urza
 2 Karn, Scion of Urza
 3 Karn, Scion of Urza
-1 Dismember
 3 Grafdigger's Cage
 4 Grafdigger's Cage
 1 Hurkyl's Recall
 2 Hurkyl's Recall
 3 Metallic Rebuke
+1 Dismember
 1 Ethersworn Canonist
 1 Retrofitter Foundry
 1 Padeem, Consul of Innovation
@@ -70,7 +70,6 @@
 3 Dismember
 1 Shadowspear
 4 Metallic Rebuke
-3 Tormod's Crypt
 1 Nettlecyst
 1 Carpet of Flowers
 1 Salvage Titan
@@ -79,6 +78,7 @@
 2 Salvage Titan
 3 Nettlecyst
 3 Carpet of Flowers
+3 Tormod's Crypt
 3 Salvage Titan
 4 Nettlecyst
 4 Tormod's Crypt
@@ -89,13 +89,3 @@
 3 Ethersworn Canonist
 3 Mystic Forge
 4 Ethersworn Canonist
-1 Thoughtseize
-1 Opposition Agent
-1 Plague Engineer
-1 Lavinia, Azorius Renegade
-1 Toxic Deluge
-2 Thoughtseize
-2 Opposition Agent
-2 Plague Engineer
-3 Thoughtseize
-4 Thoughtseize

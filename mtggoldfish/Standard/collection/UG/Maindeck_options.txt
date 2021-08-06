@@ -6,8 +6,8 @@
 3 Island
 4 Island
 4 Forest
-5 Forest
 5 Island
+5 Forest
 6 Forest
 7 Forest
 8 Forest
@@ -21,32 +21,32 @@
 3 Trumpeting Gnarr
 1 Disdainful Stroke
 2 Disdainful Stroke
-1 Gilded Goose
 1 Castle Vantress
 1 Castle Garenbrig
+1 Gilded Goose
 1 Fabled Passage
 1 Humble Naturalist
 2 Gilded Goose
 2 Illuna, Apex of Wishes
 2 Humble Naturalist
 2 Fabled Passage
-3 Gemrazer
-3 Gilded Goose
 3 Temple of Mystery
+3 Gilded Goose
 3 Humble Naturalist
-4 Gemrazer
+3 Gemrazer
 4 Temple of Mystery
-1 Khalni Ambush
+4 Gemrazer
 1 Bala Ged Recovery
-1 Emergent Sequence
 1 Dreamtail Heron
 1 Mysterious Egg
 1 Jaspera Sentinel
+1 Emergent Sequence
+1 Khalni Ambush
 1 Thornwood Falls
-2 Khalni Ambush
-2 Emergent Sequence
 2 Mysterious Egg
 2 Dreamtail Heron
+2 Emergent Sequence
+2 Khalni Ambush
 2 Thornwood Falls
 2 Jaspera Sentinel
 3 Mysterious Egg
@@ -56,8 +56,8 @@
 4 Parcelbeast
 4 Mysterious Egg
 4 Dreamtail Heron
-9 Forest
 9 Island
+9 Forest
 1 Ketria Triome
 3 Barkchannel Pathway
 4 Barkchannel Pathway

@@ -24,11 +24,11 @@
 1 Gaddock Teeg
 1 Cindervines
 2 Gaddock Teeg
-1 Endurance
 2 Foundation Breaker
+1 Endurance
 1 Force of Negation
-1 Force of Vigor
 4 Path to Exile
+1 Force of Vigor
 2 Force of Vigor
 1 Anger of the Gods
 2 Nahiri, the Harbinger
@@ -37,35 +37,32 @@
 2 Cindervines
 2 Lightning Helix
 2 Anger of the Gods
-1 Dovin's Veto
 1 Vindicate
 3 Leyline of the Void
 4 Leyline of the Void
 1 Cleansing Wildfire
 3 Foundation Breaker
 1 Spell Pierce
-1 Fracturing Gust
 1 Rule of Law
+1 Dovin's Veto
 1 Crumble to Dust
 1 Counterspell
+1 Fracturing Gust
 2 Cleansing Wildfire
 3 Cleansing Wildfire
 2 Chalice of the Void
+1 Lavinia, Azorius Renegade
+1 Sanctifier en-Vec
 4 Cleansing Wildfire
 3 Rest in Peace
 1 Cursed Totem
 2 Cursed Totem
 3 Cursed Totem
-1 Lavinia, Azorius Renegade
 1 Meddling Mage
 2 Endurance
 2 Meddling Mage
 3 Meddling Mage
-1 Engineered Explosives
 2 Counterspell
-1 Assassin's Trophy
-1 Ashiok, Dream Render
-1 Sanctifier en-Vec
 2 Lavinia, Azorius Renegade
 4 Foundation Breaker
 1 Void Winnower
@@ -73,9 +70,12 @@
 2 Void Winnower
 2 Agent of Treachery
 3 Agent of Treachery
+1 Assassin's Trophy
 1 Run Afoul
 3 Chalice of the Void
+1 Engineered Explosives
 2 Spell Pierce
+1 Fury
 1 Shattering Spree
 1 Bonecrusher Giant
 2 Bonecrusher Giant
@@ -84,9 +84,8 @@
 3 Brazen Borrower
 1 Ricochet Trap
 1 Void Mirror
-3 Celestial Purge
-1 Fury
 2 Fury
+1 Ashiok, Dream Render
 1 Ingot Chewer
 2 Ingot Chewer
 2 Force of Negation
@@ -96,14 +95,15 @@
 1 Spreading Seas
 3 Counterspell
 3 Anger of the Gods
+3 Celestial Purge
 1 Gemstone Caverns
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 3 Fury
 1 Teferi, Time Raveler
 1 Shatterstorm
-1 Kataki, War's Wage
 1 Collector Ouphe
+1 Kataki, War's Wage
 2 Collector Ouphe
 2 Kataki, War's Wage
 1 Torpor Orb
@@ -139,31 +139,31 @@
 1 Reclamation Sage
 2 Reclamation Sage
 4 Meddling Mage
+1 Unmoored Ego
 1 Relic of Progenitus
 2 Relic of Progenitus
 1 Abrupt Decay
 1 Thoughtseize
 1 Omnath, Locus of Creation
 1 Deafening Clarion
-1 Unmoored Ego
 2 Thoughtseize
 3 Thoughtseize
 3 Cindervines
 2 Sanctifier en-Vec
-3 Wear/Tear
+1 Fatal Push
+2 Fatal Push
 1 Serra's Emissary
 1 Tormod's Crypt
-1 Remand
 1 Grafdigger's Cage
 1 Chandra, Torch of Defiance
 1 By Force
 1 Fry
+1 Remand
 1 Anafenza, the Foremost
 1 Kaya's Guile
 1 Crime/Punishment
 1 Niv-Mizzet Reborn
 2 Teferi, Time Raveler
-2 Geist of Saint Traft
 1 Dead/Gone
 2 Dead/Gone
 2 Klothys, God of Destiny
@@ -173,13 +173,7 @@
 1 Fulminator Mage
 2 Through the Breach
 2 Fulminator Mage
-1 Damping Sphere
-1 Supreme Verdict
-1 Kaheera, the Orphanguard
-2 Supreme Verdict
-2 Damping Sphere
 2 Assassin's Trophy
-2 Jegantha, the Wellspring
 1 Kolaghan's Command
 2 Abrupt Decay
 2 Ashiok, Dream Render
@@ -190,15 +184,16 @@
 1 Knight of Autumn
 2 Knight of Autumn
 2 Kor Firewalker
+2 Jegantha, the Wellspring
 1 Monastery Mentor
 2 Monastery Mentor
 3 Shattering Spree
+2 Geist of Saint Traft
+3 Wear/Tear
 3 Platinum Emperion
-1 Fatal Push
 1 Dromoka's Command
 1 Stubborn Denial
 1 Ancient Grudge
-2 Fatal Push
 2 Dromoka's Command
 2 Stubborn Denial
 2 Ancient Grudge
@@ -209,18 +204,14 @@
 2 Soul-Guide Lantern
 3 Tidehollow Sculler
 4 Tidehollow Sculler
-1 Chandra, Awakened Inferno
-1 Cleansing Nova
-2 Dovin's Veto
-2 Cleansing Nova
-2 Chandra, Awakened Inferno
-3 Dovin's Veto
-4 Dovin's Veto
 4 Force of Negation
 4 Aether Gust
 1 Madcap Experiment
 2 Madcap Experiment
 3 Madcap Experiment
 4 Madcap Experiment
+1 Kaya, Orzhov Usurper
+2 Unmoored Ego
+3 Fatal Push
 3 Reclamation Sage
 4 Reclamation Sage

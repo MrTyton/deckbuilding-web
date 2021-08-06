@@ -34,8 +34,8 @@
 2 Castle Locthwain
 3 Goldspan Dragon
 4 Shambling Ghast
-1 Erebos's Intervention
 1 Baleful Mastery
+1 Erebos's Intervention
 1 Shadowspear
 1 Soul Shatter
 1 Ebondeath, Dracolich
@@ -59,24 +59,24 @@
 3 Kazuul's Fury
 1 Bastion of Remembrance
 2 Bastion of Remembrance
-1 Eyetwitch
-1 Hunt for Specimens
 1 Witherbloom Apprentice
+1 Eyetwitch
 1 Dina, Soul Steeper
+1 Hunt for Specimens
+2 Forest
 2 Eyetwitch
 2 Hunt for Specimens
-2 Forest
 2 Witherbloom Apprentice
 2 Dina, Soul Steeper
 3 Forest
 3 Hunt for Specimens
-3 Eyetwitch
-3 Bastion of Remembrance
 3 Witherbloom Apprentice
-4 Forest
-4 Bastion of Remembrance
+3 Bastion of Remembrance
+3 Eyetwitch
 4 Eyetwitch
 4 Witherbloom Apprentice
+4 Bastion of Remembrance
+4 Forest
 5 Forest
 6 Forest
 7 Forest
@@ -87,8 +87,8 @@
 1 Pelakka Predation
 1 Zariel, Archduke of Avernus
 1 Weaponize the Monsters
-1 Hagra Mauling
 1 Liliana, Waker of the Dead
+1 Hagra Mauling
 2 Hagra Mauling
 2 Murderous Rider
 2 Ebondeath, Dracolich
@@ -96,83 +96,62 @@
 1 Flunk
 2 Flunk
 3 Flunk
-4 Riverglide Pathway
-1 Needleverge Pathway
-1 Showdown of the Skalds
 1 Sejiri Shelter
+1 Showdown of the Skalds
+1 Needleverge Pathway
 1 Drannith Magistrate
 1 Unleash Fury
 1 Elite Spellbinder
 1 Brightclimb Pathway
-2 Needleverge Pathway
-2 Showdown of the Skalds
 2 Sejiri Shelter
+2 Showdown of the Skalds
+2 Needleverge Pathway
 2 Drannith Magistrate
 2 Unleash Fury
 2 Brightclimb Pathway
 2 Elite Spellbinder
-3 Needleverge Pathway
 3 Showdown of the Skalds
-3 Savai Triome
+3 Needleverge Pathway
 3 Brightclimb Pathway
 3 Unleash Fury
+3 Savai Triome
 4 Needleverge Pathway
 4 Brightclimb Pathway
 4 Savai Triome
+4 Riverglide Pathway
 1 Warlock Class
-1 Jungle Hollow
 1 Mortality Spear
 1 Deadly Brew
+1 Jungle Hollow
 1 Malakir Rebirth
 2 Warlock Class
-2 Jungle Hollow
 2 Mortality Spear
+2 Jungle Hollow
 2 Deadly Brew
-3 Jungle Hollow
 3 Mortality Spear
+3 Jungle Hollow
 3 Warlock Class
 3 Deadly Brew
-4 Jungle Hollow
 4 Warlock Class
+4 Jungle Hollow
 4 Mortality Spear
 4 Deadly Brew
-1 Lolth, Spider Queen
-1 Valentin, Dean of the Vein
 1 Power Word Kill
 1 Cragcrown Pathway
 1 Prosperous Innkeeper
-2 Agadeem's Awakening
-2 Lolth, Spider Queen
+1 Lolth, Spider Queen
+1 Valentin, Dean of the Vein
 2 Valentin, Dean of the Vein
 2 Cragcrown Pathway
+2 Agadeem's Awakening
+2 Lolth, Spider Queen
 2 Prosperous Innkeeper
-3 Darkbore Pathway
 3 Prosperous Innkeeper
+3 Darkbore Pathway
 3 Cragcrown Pathway
 4 Darkbore Pathway
 4 Prosperous Innkeeper
 4 Cragcrown Pathway
-2 Egon, God of Death
-6 Mountain
-1 Plumb the Forbidden
-1 Eliminate
-1 Moldering Karok
-1 Elspeth's Nightmare
-1 Professor of Zoomancy
-2 Plumb the Forbidden
-2 Eliminate
-2 Professor of Zoomancy
-2 Moldering Karok
-3 Plumb the Forbidden
-3 Dina, Soul Steeper
-4 Plumb the Forbidden
-4 Hunt for Specimens
-4 Dina, Soul Steeper
-9 Forest
-10 Forest
-11 Swamp
-12 Swamp
-13 Swamp
 1 Pestilent Haze
 1 Shredded Sails
 1 Duress
@@ -184,3 +163,24 @@
 3 Esika's Chariot
 3 Korvold, Fae-Cursed King
 4 Deadly Dispute
+2 Egon, God of Death
+6 Mountain
+1 Eliminate
+1 Moldering Karok
+1 Elspeth's Nightmare
+1 Plumb the Forbidden
+1 Professor of Zoomancy
+2 Eliminate
+2 Plumb the Forbidden
+2 Professor of Zoomancy
+2 Moldering Karok
+3 Plumb the Forbidden
+3 Dina, Soul Steeper
+4 Dina, Soul Steeper
+4 Hunt for Specimens
+4 Plumb the Forbidden
+9 Forest
+10 Forest
+11 Swamp
+12 Swamp
+13 Swamp
