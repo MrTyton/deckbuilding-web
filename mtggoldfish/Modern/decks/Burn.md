@@ -111,7 +111,6 @@
 |                    3|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)   |                     |                                                                                               |
 |                    4|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                               |
 |                    4|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)        |                     |                                                                                               |
-|                    4|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)   |                     |                                                                                               |
 |                    5|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                               |
 |                    6|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                               |
 |                    7|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                               |
@@ -122,4 +121,5 @@
 |                   12|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                               |
 |                   13|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                               |
 |                   14|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                               |
+|                    4|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)   |                     |                                                                                               |
 
