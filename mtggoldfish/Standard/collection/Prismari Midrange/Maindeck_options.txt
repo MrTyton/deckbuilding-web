@@ -59,15 +59,15 @@
 2 Spikefield Hazard
 1 Fire Prophecy
 1 Midnight Clock
-2 Midnight Clock
 2 Jwari Disruption
 2 Fire Prophecy
+2 Midnight Clock
 3 Cinderclasm
 3 Disdainful Stroke
 1 Shark Typhoon
 7 Snow-Covered Mountain
-1 Valakut Awakening
 1 Kiora Bests the Sea God
+1 Valakut Awakening
 2 Kiora Bests the Sea God
 3 Spikefield Hazard
 3 Kiora Bests the Sea God
@@ -128,35 +128,35 @@
 1 Lofty Denial
 2 Lofty Denial
 3 Lofty Denial
+1 Castle Vantress
+1 Into the Roil
+3 Jwari Disruption
+3 Fire Prophecy
+4 Cinderclasm
 1 Glass Casket
 1 Cave of the Frost Dragon
-1 Needleverge Pathway
 1 Showdown of the Skalds
+1 Needleverge Pathway
 1 Scorching Dragonfire
 1 Hengegate Pathway
 2 Glass Casket
 2 Cave of the Frost Dragon
-2 Needleverge Pathway
 2 Showdown of the Skalds
+2 Needleverge Pathway
 2 Scorching Dragonfire
 2 Hengegate Pathway
-3 Raugrin Triome
 3 Showdown of the Skalds
+3 Raugrin Triome
 3 Scorching Dragonfire
-4 Raugrin Triome
 4 Showdown of the Skalds
-1 Castle Vantress
-1 Into the Roil
-3 Fire Prophecy
-3 Jwari Disruption
-4 Cinderclasm
-1 Rimrock Knight
+4 Raugrin Triome
 1 Opt
+1 Rimrock Knight
 1 Glimpse of Freedom
 1 Crash Through
 1 Stormwing Entity
-2 Rimrock Knight
 2 Opt
+2 Rimrock Knight
 2 Stormwing Entity
 2 Crash Through
 3 Opt
@@ -170,25 +170,34 @@
 2 Power Word Kill
 2 Skullport Merchant
 2 Temple of Deceit
-3 Power Word Kill
 3 Skullport Merchant
+3 Power Word Kill
 3 Temple of Deceit
-4 Power Word Kill
 4 Clearwater Pathway
 4 Temple of Deceit
+4 Power Word Kill
 4 Skullport Merchant
 4 Blightstep Pathway
 7 Mountain
 8 Mountain
+1 Shimmerdrift Vale
+1 Rowan, Scholar of Sparks
+2 Shark Typhoon
+2 Shimmerdrift Vale
+2 Rowan, Scholar of Sparks
+3 Shark Typhoon
+3 Rowan, Scholar of Sparks
+4 Shark Typhoon
+9 Snow-Covered Island
+1 Contact Other Plane
 1 Storm's Wrath
 1 Pixie Guide
 1 Barbarian Class
 1 Delina, Wild Mage
-1 Contact Other Plane
+2 Contact Other Plane
 2 Storm's Wrath
 2 Barbarian Class
 2 Delina, Wild Mage
-2 Contact Other Plane
 2 Pixie Guide
 3 Contact Other Plane
 3 Pixie Guide
@@ -199,12 +208,3 @@
 4 Pixie Guide
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
-1 Shimmerdrift Vale
-1 Rowan, Scholar of Sparks
-2 Shark Typhoon
-2 Shimmerdrift Vale
-2 Rowan, Scholar of Sparks
-3 Shark Typhoon
-3 Rowan, Scholar of Sparks
-4 Shark Typhoon
-9 Snow-Covered Island

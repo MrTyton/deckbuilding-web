@@ -1,15 +1,14 @@
-2 Ulamog, the Ceaseless Hunger
 1 The Tabernacle at Pendrell Vale
+2 Ulamog, the Ceaseless Hunger
 1 Golos, Tireless Pilgrim
-2 Golos, Tireless Pilgrim
 1 Ancient Tomb
+2 Golos, Tireless Pilgrim
 3 Golos, Tireless Pilgrim
 1 Walking Ballista
-3 Vesuva
 2 Ancient Tomb
 3 Ancient Tomb
 4 Ancient Tomb
-1 Ugin, the Spirit Dragon
+3 Vesuva
 1 Thought-Knot Seer
 2 Thought-Knot Seer
 3 Thought-Knot Seer
@@ -19,15 +18,12 @@
 2 Grim Monolith
 3 Karn, the Great Creator
 3 Grim Monolith
-1 Blast Zone
 4 Thought-Knot Seer
-1 Urza's Saga
-1 Candelabra of Tawnos
+1 Ugin, the Spirit Dragon
 4 Grim Monolith
 1 Eldrazi Temple
 2 Eldrazi Temple
 3 Eldrazi Temple
-1 Cascading Cataracts
 1 City of Traitors
 1 Chalice of the Void
 2 Chalice of the Void
@@ -38,16 +34,20 @@
 3 Reality Smasher
 4 Reality Smasher
 4 Eldrazi Temple
+2 City of Traitors
+1 All Is Dust
+1 Warping Wail
+2 Warping Wail
+1 Cascading Cataracts
+1 Urza's Saga
+1 Candelabra of Tawnos
+2 All Is Dust
+1 Blast Zone
 1 Ugin, the Ineffable
 1 Trinisphere
 1 Manifold Key
 2 Trinisphere
 4 Karn, the Great Creator
-2 City of Traitors
-1 All Is Dust
-1 Warping Wail
-2 Warping Wail
-2 All Is Dust
 1 Urborg, Tomb of Yawgmoth
 1 Matter Reshaper
 2 Matter Reshaper
@@ -55,6 +55,10 @@
 3 All Is Dust
 3 Matter Reshaper
 4 Matter Reshaper
+1 Endbringer
+2 Endbringer
+3 Endbringer
+3 Eye of Ugin
 1 Windswept Heath
 1 Thran Dynamo
 2 Thran Dynamo
@@ -71,10 +75,6 @@
 2 Candelabra of Tawnos
 2 Walking Ballista
 4 Golos, Tireless Pilgrim
-1 Endbringer
-2 Endbringer
-3 Endbringer
-3 Eye of Ugin
 2 Mazemind Tome
 2 Manifold Key
 2 Cavern of Souls
@@ -98,7 +98,6 @@
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 1 Allosaurus Shepherd
-1 Tireless Tracker
 1 Sphere of Resistance
 1 Inventors' Fair
 1 Sejiri Steppe
@@ -106,9 +105,9 @@
 1 Swamp
 1 Boompile
 1 Retrofitter Foundry
-2 Karakas
 1 Abundant Harvest
 2 Abundant Harvest
+2 Karakas
 3 City of Traitors
 2 Maze of Ith
 4 Yavimaya, Cradle of Growth

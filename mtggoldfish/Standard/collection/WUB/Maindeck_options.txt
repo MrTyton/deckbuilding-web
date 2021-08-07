@@ -45,8 +45,8 @@
 2 Jwari Disruption
 2 Brazen Borrower
 1 Temple of Malady
-1 Barkchannel Pathway
 1 Elder Gargaroth
+1 Barkchannel Pathway
 1 Polukranos, Unchained
 2 Barkchannel Pathway
 2 Polukranos, Unchained
@@ -128,14 +128,14 @@
 4 Cragcrown Pathway
 1 The Akroan War
 2 The Akroan War
-1 Lovestruck Beast
 1 Jaspera Sentinel
-2 Lovestruck Beast
+1 Lovestruck Beast
 2 Jaspera Sentinel
+2 Lovestruck Beast
 3 Lovestruck Beast
 3 Jaspera Sentinel
-4 Lovestruck Beast
 4 Jaspera Sentinel
+4 Lovestruck Beast
 7 Swamp
 3 Mountain
 3 Essence Scatter
@@ -155,8 +155,8 @@
 2 Binding the Old Gods
 2 Village Rites
 3 Village Rites
-4 Forest
 4 Village Rites
+4 Forest
 1 Faceless Haven
 2 Faceless Haven
 1 Rankle, Master of Pranks
@@ -259,9 +259,9 @@
 1 Bastion of Remembrance
 1 Duress
 2 Kazuul's Fury
-2 Bastion of Remembrance
 2 Den of the Bugbear
 2 Kroxa, Titan of Death's Hunger
+2 Bastion of Remembrance
 2 Duress
 3 Den of the Bugbear
 3 Kazuul's Fury
@@ -275,17 +275,6 @@
 1 You Find the Villains' Lair
 3 Soul Shatter
 4 Temple of Deceit
-1 Foulmire Knight
-1 Inferno of the Star Mounts
-2 Inferno of the Star Mounts
-2 Foulmire Knight
-2 Valki, God of Lies
-3 Shatterskull Smashing
-3 Foulmire Knight
-3 Orcus, Prince of Undeath
-4 Foulmire Knight
-4 Power Word Kill
-4 Orcus, Prince of Undeath
 1 Seize the Spoils
 1 Radha, Heart of Keld
 1 Instrument of the Bards
@@ -305,30 +294,69 @@
 4 Prismari Command
 4 Skullport Merchant
 4 Baleful Mastery
-1 Snow-Covered Forest
-1 Toski, Bearer of Secrets
+1 Inferno of the Star Mounts
+1 Foulmire Knight
+2 Inferno of the Star Mounts
+2 Foulmire Knight
+2 Valki, God of Lies
+3 Shatterskull Smashing
+3 Foulmire Knight
+3 Orcus, Prince of Undeath
+4 Power Word Kill
+4 Orcus, Prince of Undeath
+4 Foulmire Knight
+1 Temple of Enlightenment
+1 Dream Trawler
+1 Loyal Warhound
+1 Gates of Istfell
+1 Baneslayer Angel
+1 Hengegate Pathway
+1 Giant Killer
+1 Portable Hole
+1 Doomskar
+1 Elspeth Conquers Death
+1 Thassa's Intervention
+1 Plains
+1 Emeria's Call
+2 Temple of Enlightenment
+2 Doomskar
+2 Portable Hole
+2 Giant Killer
+2 Loyal Warhound
+2 Hengegate Pathway
+2 Plains
+3 Disdainful Stroke
+3 Plains
+3 Brazen Borrower
+3 Hengegate Pathway
+4 Plains
+4 Brazen Borrower
+4 Hengegate Pathway
+5 Plains
 1 Skeletal Swarming
+1 Snow-Covered Forest
 1 Lair of the Hydra
-2 Temple of Malady
-2 Snow-Covered Forest
+1 Toski, Bearer of Secrets
 2 Toski, Bearer of Secrets
 2 Skeletal Swarming
+2 Snow-Covered Forest
 2 Lair of the Hydra
-3 Snow-Covered Forest
-3 Temple of Malady
+2 Temple of Malady
 3 Lair of the Hydra
 3 Skeletal Swarming
-4 Snow-Covered Forest
-4 Esika's Chariot
+3 Snow-Covered Forest
+3 Temple of Malady
 4 Skeletal Swarming
+4 Esika's Chariot
+4 Snow-Covered Forest
 5 Snow-Covered Forest
 9 Island
 1 Solemn Simulacrum
-1 Clackbridge Troll
 1 Lithoform Engine
 1 Radiant Fountain
-1 Massacre Wurm
 1 Agonizing Remorse
+1 Massacre Wurm
+1 Clackbridge Troll
 1 Grim Tutor
 1 Labyrinth of Skophos
 1 Forsaken Monument
@@ -349,31 +377,3 @@
 9 Swamp
 10 Swamp
 11 Swamp
-1 Temple of Enlightenment
-1 Dream Trawler
-1 Gates of Istfell
-1 Loyal Warhound
-1 Baneslayer Angel
-1 Hengegate Pathway
-1 Giant Killer
-1 Portable Hole
-1 Doomskar
-1 Elspeth Conquers Death
-1 Thassa's Intervention
-1 Plains
-1 Emeria's Call
-2 Temple of Enlightenment
-2 Doomskar
-2 Giant Killer
-2 Portable Hole
-2 Loyal Warhound
-2 Hengegate Pathway
-2 Plains
-3 Disdainful Stroke
-3 Plains
-3 Brazen Borrower
-3 Hengegate Pathway
-4 Plains
-4 Brazen Borrower
-5 Plains
-4 Hengegate Pathway

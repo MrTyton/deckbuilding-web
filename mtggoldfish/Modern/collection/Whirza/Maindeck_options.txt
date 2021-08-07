@@ -93,39 +93,39 @@
 3 Metallic Rebuke
 4 Spire of Industry
 1 Breeding Pool
-1 River of Tears
-1 Karn, the Great Creator
-1 Underground River
 1 Relic of Progenitus
+1 River of Tears
+1 Underground River
+1 Karn, the Great Creator
 1 Welding Jar
-2 Karn, the Great Creator
 2 Underground River
 2 River of Tears
 2 Talisman of Dominance
+2 Karn, the Great Creator
 3 Talisman of Dominance
 3 Sword of the Meek
 1 Elixir of Immortality
 1 Swamp
 1 Misty Rainforest
 1 Springleaf Drum
-1 Asmoranomardicadaistinaculdacar
-1 Ovalchase Daredevil
-1 The Underworld Cookbook
 1 Gilded Goose
 1 Aether Vial
-2 The Underworld Cookbook
-2 Asmoranomardicadaistinaculdacar
+1 The Underworld Cookbook
+1 Ovalchase Daredevil
+1 Asmoranomardicadaistinaculdacar
 2 Gilded Goose
 2 Aether Vial
+2 The Underworld Cookbook
+2 Asmoranomardicadaistinaculdacar
 2 Misty Rainforest
-3 The Underworld Cookbook
-3 Asmoranomardicadaistinaculdacar
 3 Gilded Goose
 3 Aether Vial
 3 Misty Rainforest
-4 Gilded Goose
+3 Asmoranomardicadaistinaculdacar
+3 The Underworld Cookbook
 4 The Underworld Cookbook
 4 Misty Rainforest
+4 Gilded Goose
 4 Aether Vial
 3 Collective Brutality
 4 Scalding Tarn
@@ -136,20 +136,6 @@
 1 Snow-Covered Plains
 2 Nihil Spellbomb
 1 Lurrus of the Dream-Den
-1 Cryptic Command
-1 Thought Monitor
-1 Academy Manufactor
-1 Time Sieve
-2 Ovalchase Daredevil
-2 Cryptic Command
-2 Thought Monitor
-2 Academy Manufactor
-3 Cryptic Command
-3 Ovalchase Daredevil
-3 Thought Monitor
-3 Academy Manufactor
-4 Asmoranomardicadaistinaculdacar
-4 Academy Manufactor
 1 Thraben Inspector
 1 Hex Parasite
 1 Eladamri's Call
@@ -158,22 +144,36 @@
 3 Thraben Inspector
 4 Metallic Rebuke
 4 Thraben Inspector
+1 Cryptic Command
+1 Thought Monitor
+1 Academy Manufactor
+1 Time Sieve
+2 Cryptic Command
+2 Thought Monitor
+2 Academy Manufactor
+2 Ovalchase Daredevil
+3 Cryptic Command
+3 Thought Monitor
+3 Ovalchase Daredevil
+3 Academy Manufactor
+4 Academy Manufactor
+4 Asmoranomardicadaistinaculdacar
 1 Prismatic Ending
 2 Plains
-1 Silverbluff Bridge
 1 Sacred Foundry
+1 Silverbluff Bridge
 3 Talisman of Progress
 4 Inquisition of Kozilek
-1 Isolated Chapel
 1 Fatal Push
 1 Serum Visions
-1 Bloodchief's Thirst
+1 Stoneforge Mystic
 1 Batterskull
+1 Bloodchief's Thirst
+1 Isolated Chapel
 1 Glacial Fortress
 1 Temple Garden
 1 Drowned Catacomb
 1 Tribute Mage
-1 Stoneforge Mystic
 2 Fatal Push
 2 Serum Visions
 2 Stoneforge Mystic
@@ -181,9 +181,9 @@
 3 Serum Visions
 3 Stoneforge Mystic
 4 Serum Visions
+4 Galvanic Blast
 1 Plargg, Dean of Chaos
 2 Plargg, Dean of Chaos
 2 Mox Amber
 3 Mox Amber
 4 Mox Amber
-4 Galvanic Blast

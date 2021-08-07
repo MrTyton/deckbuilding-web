@@ -79,7 +79,7 @@
 |                     |                                                                                                  |                    3|[Miscast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485380)                   |
 |                     |                                                                                                  |                    4|[Miscast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485380)                   |
 |                     |                                                                                                  |                    1|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)         |
-|                     |                                                                                                  |                    2|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)         |
 |                     |                                                                                                  |                    2|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)         |
+|                     |                                                                                                  |                    2|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)         |
 |                     |                                                                                                  |                    3|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)         |
 
