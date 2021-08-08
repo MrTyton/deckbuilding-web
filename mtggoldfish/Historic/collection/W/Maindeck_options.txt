@@ -8,12 +8,6 @@
 2 Skymarcher Aspirant
 1 Plains
 2 Plains
-3 Plains
-4 Plains
-1 Blinkmoth Nexus
-2 Blinkmoth Nexus
-3 Blinkmoth Nexus
-4 Blinkmoth Nexus
 1 Vault Skirge
 1 Steel Overseer
 1 Stonecoil Serpent
@@ -28,52 +22,34 @@
 3 Stonecoil Serpent
 3 Steel Overseer
 4 Vault Skirge
+1 Blinkmoth Nexus
+2 Blinkmoth Nexus
 3 Gingerbrute
+3 Blinkmoth Nexus
 3 Tempered Steel
 4 Tempered Steel
 4 Gingerbrute
+3 Plains
 4 Stonecoil Serpent
 4 Steel Overseer
-5 Plains
+4 Blinkmoth Nexus
 1 Court Homunculus
+4 Plains
 2 Court Homunculus
-6 Plains
-7 Plains
-1 Shefet Dunes
-1 Mana Tithe
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
-8 Plains
-2 Shefet Dunes
 3 Court Homunculus
-9 Plains
-10 Plains
-11 Plains
-12 Plains
 1 Servo Exhibition
 2 Servo Exhibition
-4 Thraben Inspector
-3 Shefet Dunes
+5 Plains
 1 Scrapheap Scrounger
 2 Scrapheap Scrounger
+1 Mana Tithe
 4 Court Homunculus
-4 Legion's Landing
-2 Mana Tithe
-1 Godless Shrine
-1 Brightclimb Pathway
-2 Brightclimb Pathway
-3 Brightclimb Pathway
-1 Unbreakable Formation
-2 Unbreakable Formation
-3 Unbreakable Formation
-4 Unbreakable Formation
+3 Servo Exhibition
+4 Servo Exhibition
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
-3 Servo Exhibition
-4 Servo Exhibition
 1 Sacred Foundry
 1 Needleverge Pathway
 1 Showdown of the Skalds
@@ -82,46 +58,57 @@
 2 Showdown of the Skalds
 3 Needleverge Pathway
 4 Needleverge Pathway
+1 Shefet Dunes
+6 Plains
+7 Plains
+1 Godless Shrine
+1 Brightclimb Pathway
+2 Brightclimb Pathway
+3 Brightclimb Pathway
 1 Loyal Warhound
 2 Loyal Warhound
+4 Legion's Landing
 1 Ornithopter
 2 Ornithopter
 3 Ornithopter
 4 Ornithopter
-1 Containment Priest
-2 Containment Priest
-1 All That Glitters
-2 All That Glitters
-3 All That Glitters
-4 All That Glitters
-1 Cave of the Frost Dragon
-2 Cave of the Frost Dragon
+8 Plains
+2 Shefet Dunes
+2 Mana Tithe
 1 Inspiring Vantage
 2 Inspiring Vantage
 3 Inspiring Vantage
 4 Inspiring Vantage
-1 Scavenger Grounds
-2 Scavenger Grounds
+1 All That Glitters
+2 All That Glitters
+3 All That Glitters
+4 All That Glitters
+1 Alseid of Life's Bounty
+2 Alseid of Life's Bounty
+1 Cave of the Frost Dragon
+2 Cave of the Frost Dragon
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
 1 Karn, Scion of Urza
 2 Karn, Scion of Urza
 3 Karn, Scion of Urza
 3 Scrapheap Scrounger
 4 Scrapheap Scrounger
 1 Isolated Chapel
+9 Plains
+10 Plains
+11 Plains
+12 Plains
+13 Plains
+14 Plains
 1 Island
 1 Hallowed Fountain
 2 Island
 2 Hallowed Fountain
 3 Hallowed Fountain
 4 Hallowed Fountain
-1 Concealed Courtyard
-2 Concealed Courtyard
-4 Brightclimb Pathway
-2 Godless Shrine
-3 Godless Shrine
-4 Godless Shrine
-13 Plains
-14 Plains
+3 Loyal Warhound
 1 Mountain
 1 Light Up the Stage
 2 Mountain
@@ -130,7 +117,6 @@
 3 Light Up the Stage
 4 Mountain
 4 Light Up the Stage
-3 Loyal Warhound
 1 Ramunap Ruins
 2 Ramunap Ruins
 3 Sacred Foundry
@@ -138,25 +124,13 @@
 3 Ramunap Ruins
 4 Sacred Foundry
 4 Ramunap Ruins
-1 Emeria's Call
-1 Sejiri Shelter
-2 Emeria's Call
-1 Clarion Spirit
-1 Kabira Takedown
-2 Kabira Takedown
-2 Clarion Spirit
-3 Kabira Takedown
-3 Clarion Spirit
-4 Clarion Spirit
-4 Kabira Takedown
 1 Hope of Ghirapur
 2 Hope of Ghirapur
-1 Alseid of Life's Bounty
 1 Paladin Class
-2 Alseid of Life's Bounty
 2 Paladin Class
-1 Tithe Taker
-2 Tithe Taker
+1 Drannith Magistrate
+2 Drannith Magistrate
+3 Reidane, God of the Worthy
 1 Hengegate Pathway
 1 Spire of Industry
 2 Hengegate Pathway
@@ -165,95 +139,91 @@
 3 Spire of Industry
 4 Hengegate Pathway
 4 Spire of Industry
+1 Unbreakable Formation
+2 Unbreakable Formation
+3 Unbreakable Formation
+4 Unbreakable Formation
 1 Whirler Rogue
 1 Skilled Animator
 2 Skilled Animator
 2 Whirler Rogue
 3 Island
 3 Skilled Animator
+3 Alseid of Life's Bounty
+4 Alseid of Life's Bounty
+4 Thraben Inspector
 2 Isolated Chapel
+4 Brightclimb Pathway
+1 Concealed Courtyard
+2 Concealed Courtyard
 3 Concealed Courtyard
 4 Concealed Courtyard
+2 Godless Shrine
+3 Godless Shrine
+4 Godless Shrine
 1 Toolcraft Exemplar
+3 Shefet Dunes
 4 Shefet Dunes
 1 Venerated Loxodon
 2 Venerated Loxodon
 3 Venerated Loxodon
+1 Castle Ardenvale
 15 Plains
 16 Plains
-1 Branchloft Pathway
-1 Temple Garden
-2 Branchloft Pathway
-2 Temple Garden
-3 Temple Garden
-3 Branchloft Pathway
-4 Temple Garden
 1 Teferi's Protection
 1 Maul of the Skyclaves
+1 Containment Priest
+1 Rest in Peace
 2 Maul of the Skyclaves
-1 Sword of Body and Mind
-2 Sword of Body and Mind
+2 Containment Priest
+2 Rest in Peace
 1 You Hear Something on Watch
 2 You Hear Something on Watch
+1 Militia Bugler
+2 Militia Bugler
+3 Militia Bugler
+3 Drannith Magistrate
 1 Emry, Lurker of the Loch
 1 Inventors' Fair
 2 Emry, Lurker of the Loch
 3 Mana Tithe
-1 Baffling End
-3 Tithe Taker
-4 Tithe Taker
-1 Silverquill Silencer
-1 Blooming Marsh
-1 Thoughtseize
-1 Overgrown Tomb
-1 Inquisition of Kozilek
-1 Kitesail Freebooter
-1 Vanishing Verse
-1 Collected Company
-2 Silverquill Silencer
-2 Blooming Marsh
-2 Overgrown Tomb
-2 Thoughtseize
-2 Kitesail Freebooter
-2 Collected Company
-2 Inquisition of Kozilek
-2 Vanishing Verse
-3 Overgrown Tomb
-3 Thoughtseize
-3 Collected Company
-4 Collected Company
-4 Overgrown Tomb
 1 Monk of the Open Hand
+1 Tithe Taker
 2 Monk of the Open Hand
-3 Alseid of Life's Bounty
-3 Monk of the Open Hand
+2 Tithe Taker
 3 Paladin Class
-4 Alseid of Life's Bounty
-4 Monk of the Open Hand
+3 Monk of the Open Hand
 4 Paladin Class
+4 Monk of the Open Hand
 1 Portable Hole
 1 Ingenious Smith
 2 Portable Hole
 2 Ingenious Smith
 3 Ingenious Smith
 4 Ingenious Smith
+1 Glass Casket
+2 Glass Casket
+3 Isolated Chapel
+4 Venerated Loxodon
+3 Skymarcher Aspirant
+4 Skymarcher Aspirant
 4 Loyal Warhound
+1 Karametra's Blessing
+1 Built to Last
+2 Karametra's Blessing
+2 Built to Last
+3 Hope of Ghirapur
+3 Built to Last
+3 Karametra's Blessing
+4 Built to Last
 1 Shineshadow Snarl
 1 Glacial Fortress
 2 Shineshadow Snarl
 2 Glacial Fortress
 3 Glacial Fortress
 4 Island
-4 Glacial Fortress
 4 Skilled Animator
-1 The Blackstaff of Waterdeep
-2 The Blackstaff of Waterdeep
-3 Whirler Rogue
-4 Whirler Rogue
-1 Glass Casket
-2 Glass Casket
-3 Isolated Chapel
-4 Venerated Loxodon
+4 Glacial Fortress
 1 Heart of Kiran
 1 Chief of the Foundry
 2 Heart of Kiran
@@ -264,43 +234,44 @@
 4 Toolcraft Exemplar
 4 Chief of the Foundry
 1 Dromoka's Command
+1 Scattered Groves
+1 Scavenger Grounds
 1 Forest
+1 Branchloft Pathway
 1 Vorinclex, Monstrous Raider
 1 Sunpetal Grove
-1 Scattered Groves
+1 Temple Garden
 1 Indatha Triome
 2 Dromoka's Command
-2 Vorinclex, Monstrous Raider
+2 Scavenger Grounds
 2 Sunpetal Grove
-2 Scattered Groves
+2 Branchloft Pathway
+2 Vorinclex, Monstrous Raider
+2 Temple Garden
 2 Indatha Triome
+2 Scattered Groves
 3 Scavenger Grounds
 3 Sunpetal Grove
+3 Branchloft Pathway
+3 Temple Garden
 3 Dromoka's Command
+4 Temple Garden
 4 Dromoka's Command
-4 Giant Killer
-3 Skymarcher Aspirant
-4 Skymarcher Aspirant
-1 Karametra's Blessing
-1 Built to Last
-2 Karametra's Blessing
-2 Built to Last
-3 Hope of Ghirapur
-3 Built to Last
-3 Karametra's Blessing
-4 Built to Last
+1 The Blackstaff of Waterdeep
+2 The Blackstaff of Waterdeep
+3 Whirler Rogue
+4 Whirler Rogue
 1 Usher of the Fallen
 1 Benalish Marshal
-1 Castle Ardenvale
 1 Venerable Knight
 2 Usher of the Fallen
-2 Castle Ardenvale
 2 Venerable Knight
 2 Benalish Marshal
-3 Castle Ardenvale
+2 Castle Ardenvale
 3 Usher of the Fallen
-3 Venerable Knight
 3 Benalish Marshal
+3 Venerable Knight
+3 Castle Ardenvale
 4 Usher of the Fallen
 4 Venerable Knight
 4 Benalish Marshal
