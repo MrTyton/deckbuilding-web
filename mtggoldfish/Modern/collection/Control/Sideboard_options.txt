@@ -75,19 +75,17 @@
 1 Teferi, Mage of Zhalfir
 1 Portable Hole
 2 Portable Hole
+1 Damn
+1 On Thin Ice
+1 Cursed Totem
+1 Deicide
+2 On Thin Ice
 1 Geist of Saint Traft
 1 Kataki, War's Wage
 2 Geist of Saint Traft
 2 Kataki, War's Wage
-1 Damn
-1 Cursed Totem
-1 On Thin Ice
-1 Deicide
-2 On Thin Ice
-1 Dispel
-2 Dragon's Claw
-2 Surgical Extraction
-2 Grafdigger's Cage
+1 Ceremonious Rejection
+2 Ceremonious Rejection
 1 Disenchant
 1 Sanctifier en-Vec
 1 Elspeth, Sun's Nemesis
@@ -97,11 +95,13 @@
 2 Supreme Verdict
 2 Brazen Borrower
 2 Nimble Obstructionist
-1 Ceremonious Rejection
-2 Ceremonious Rejection
+1 Dispel
+2 Dragon's Claw
+2 Grafdigger's Cage
+2 Surgical Extraction
 1 Teferi, Time Raveler
-2 Force of Negation
 2 Chalice of the Void
+2 Force of Negation
 2 Teferi, Time Raveler
 1 Fury
 3 Flusterstorm
@@ -110,6 +110,15 @@
 1 Prismatic Ending
 3 Veil of Summer
 3 Blossoming Calm
+1 Condemn
+4 Mystical Dispute
+1 Cleansing Nova
+1 Chandra, Awakened Inferno
+2 Cleansing Nova
+2 Chandra, Awakened Inferno
+3 Dovin's Veto
+3 Celestial Purge
+4 Dovin's Veto
 1 Lavinia, Azorius Renegade
 1 Tormod's Crypt
 1 Forsake the Worldly
@@ -117,12 +126,3 @@
 2 Narset, Parter of Veils
 2 Forsake the Worldly
 3 Narset, Parter of Veils
-1 Condemn
-4 Mystical Dispute
-1 Chandra, Awakened Inferno
-1 Cleansing Nova
-2 Cleansing Nova
-2 Chandra, Awakened Inferno
-3 Dovin's Veto
-3 Celestial Purge
-4 Dovin's Veto

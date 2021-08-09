@@ -1,22 +1,23 @@
-2 Brazen Borrower
-1 Force of Will
 2 Force of Will
 3 Force of Will
 4 Force of Will
-3 Thorn of Amethyst
-1 Pithing Needle
-3 Flusterstorm
-1 Walking Ballista
 1 Ensnaring Bridge
 1 Mycosynth Lattice
 1 Liquimetal Coating
+1 Walking Ballista
 2 Echoing Truth
 1 Skysovereign, Consul Flagship
 1 Yorion, Sky Nomad
+2 Flusterstorm
+1 Relic of Progenitus
+3 Thorn of Amethyst
+1 Pithing Needle
+3 Flusterstorm
 2 Sorcerous Spyglass
 1 Expedition Map
 4 Thorn of Amethyst
 1 Wasteland
+1 Engineered Explosives
 1 The Antiquities War
 1 Swords to Plowshares
 2 Swords to Plowshares
@@ -26,6 +27,7 @@
 1 Disenchant
 2 Disenchant
 3 Disenchant
+1 Crucible of Worlds
 1 Spatial Contortion
 2 Spatial Contortion
 2 Grafdigger's Cage
@@ -33,10 +35,8 @@
 2 Metallic Rebuke
 2 Surgical Extraction
 3 Surgical Extraction
-1 Engineered Explosives
 1 Lion's Eye Diamond
 1 Soul-Guide Lantern
-1 Crucible of Worlds
 1 Prismatic Ending
 2 Prismatic Ending
 1 Sai, Master Thopterist
@@ -51,10 +51,10 @@
 1 Dismember
 1 Ethersworn Canonist
 1 Retrofitter Foundry
-1 Padeem, Consul of Innovation
 1 Aether Spellbomb
 1 Winter Orb
 1 Meekstone
+1 Padeem, Consul of Innovation
 1 Portable Hole
 1 Karakas
 2 Sai, Master Thopterist
@@ -66,10 +66,16 @@
 1 Force of Negation
 2 Force of Negation
 2 Dismember
-3 Hurkyl's Recall
 3 Dismember
+3 Hurkyl's Recall
 1 Shadowspear
 4 Metallic Rebuke
+1 Mystic Forge
+2 Ethersworn Canonist
+2 Mystic Forge
+3 Ethersworn Canonist
+3 Mystic Forge
+4 Ethersworn Canonist
 1 Nettlecyst
 1 Carpet of Flowers
 1 Salvage Titan
@@ -83,9 +89,3 @@
 4 Nettlecyst
 4 Tormod's Crypt
 4 Salvage Titan
-1 Mystic Forge
-2 Ethersworn Canonist
-2 Mystic Forge
-3 Ethersworn Canonist
-3 Mystic Forge
-4 Ethersworn Canonist

@@ -1,37 +1,40 @@
 1 Baleful Mastery
 1 Clearwater Pathway
-3 Thoughtseize
 1 Mountain
-2 Baleful Mastery
+3 Thoughtseize
 1 Dragonskull Summit
+2 Baleful Mastery
 3 Crux of Fate
 1 Hive of the Eye Tyrant
-1 Savai Triome
 4 Thoughtseize
-1 Goldspan Dragon
-1 Fatal Push
-2 Fatal Push
-2 Goldspan Dragon
+1 Savai Triome
 1 Ebondeath, Dracolich
 1 Dragon's Fire
 2 Ebondeath, Dracolich
 2 Dragon's Fire
 3 Dragon's Fire
 4 Dragon's Fire
-2 Savai Triome
 1 Den of the Bugbear
+2 Mountain
+1 Goldspan Dragon
+1 Fatal Push
 1 Dragon's Hoard
+2 Fatal Push
+2 Goldspan Dragon
 2 Dragon's Hoard
+2 Savai Triome
+3 Chandra, Torch of Defiance
 2 Dragonskull Summit
+2 Hive of the Eye Tyrant
 3 Savai Triome
-1 Sacred Foundry
 1 Godless Shrine
 1 Lightning Helix
-2 Lightning Helix
-2 Godless Shrine
+1 Sacred Foundry
 2 Sacred Foundry
-2 Mountain
-2 Hive of the Eye Tyrant
+2 Godless Shrine
+2 Lightning Helix
+1 Fabled Passage
+2 Fabled Passage
 1 Brightclimb Pathway
 1 Needleverge Pathway
 1 Vanishing Verse
@@ -42,41 +45,40 @@
 3 Nadaar, Selfless Paladin
 4 Savai Triome
 3 Sacred Foundry
-1 Fabled Passage
-2 Fabled Passage
+3 Swamp
+3 Mountain
 3 Nicol Bolas, Dragon-God
-1 Anger of the Gods
 1 Dragon's Disciple
 2 Dragon's Disciple
 3 Dragon's Disciple
 3 Needleverge Pathway
-3 Chandra, Torch of Defiance
-1 Hall of Storm Giants
-1 Iymrith, Desert Doom
+1 Valki, God of Lies
+2 Valki, God of Lies
+4 Mountain
+1 Rix Maadi Reveler
+2 Castle Locthwain
+2 Rix Maadi Reveler
 3 Cling to Dust
 1 Cave of the Frost Dragon
-3 Swamp
-3 Mountain
-4 Mountain
-1 Island
-1 Shatterskull Smashing
-2 Clearwater Pathway
-3 Steam Vents
-4 Steam Vents
-1 Expressive Iteration
-2 Expressive Iteration
-2 Iymrith, Desert Doom
-1 Murderous Rider
-1 Rix Maadi Reveler
-1 Sarkhan, Fireblood
-2 Castle Locthwain
-2 Shatterskull Smashing
-2 Rix Maadi Reveler
-3 Fabled Passage
-1 Drown in the Loch
-1 Spirebluff Canal
 1 Extinction Event
 1 Heartless Act
+2 Clearwater Pathway
+1 Island
+1 Anger of the Gods
+1 Kroxa, Titan of Death's Hunger
+2 Kroxa, Titan of Death's Hunger
+1 Hall of Storm Giants
+1 Iymrith, Desert Doom
+2 Iymrith, Desert Doom
+1 Shatterskull Smashing
+1 Murderous Rider
+1 Sarkhan, Fireblood
+2 Shatterskull Smashing
+3 Fabled Passage
+1 Expressive Iteration
+1 Drown in the Loch
+1 Spirebluff Canal
+2 Expressive Iteration
 2 Spirebluff Canal
 3 Expressive Iteration
 3 Clearwater Pathway
@@ -88,22 +90,20 @@
 1 Mazemind Tome
 2 Mazemind Tome
 4 Glorybringer
-1 Valki, God of Lies
-2 Valki, God of Lies
+3 Steam Vents
+4 Steam Vents
 1 Narset, Parter of Veils
 2 Island
 2 Narset, Parter of Veils
 3 Island
 3 Narset, Parter of Veils
-1 Fetid Pools
-1 Behold the Multiverse
-1 Kroxa, Titan of Death's Hunger
-2 Kroxa, Titan of Death's Hunger
+4 Swamp
 3 Dragonskull Summit
 1 Temple of Deceit
 1 Flunk
 1 Thought Erasure
 1 Rankle, Master of Pranks
+1 Fetid Pools
 1 Ketria Triome
 2 Thought Erasure
 2 Rankle, Master of Pranks
@@ -111,6 +111,7 @@
 2 Shadows' Verdict
 3 Fatal Push
 1 Field of Ruin
+1 Behold the Multiverse
 1 Saw It Coming
 1 Whirlwind Denial
 2 Behold the Multiverse
@@ -124,19 +125,54 @@
 3 Luminarch Aspirant
 2 Icingdeath, Frost Tyrant
 4 Needleverge Pathway
-1 Jwari Disruption
-1 Mystical Dispute
-1 The Scarab God
-1 Miscast
-1 Eliminate
-1 Magmatic Channeler
-1 Negate
-2 Eliminate
-2 Magmatic Channeler
-2 The Scarab God
-3 Drowned Catacomb
-3 Magmatic Channeler
-4 Magmatic Channeler
+1 Rootbound Crag
+1 Cragcrown Pathway
+1 Stomping Ground
+1 Overgrown Tomb
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
+1 Elder Gargaroth
+1 Blooming Marsh
+1 Klothys, God of Destiny
+1 Scavenging Ooze
+1 Snow-Covered Forest
+1 Questing Beast
+2 Rootbound Crag
+2 Cragcrown Pathway
+2 Stomping Ground
+2 Questing Beast
+2 Elder Gargaroth
+2 Overgrown Tomb
+2 Blooming Marsh
+2 Klothys, God of Destiny
+2 Scavenging Ooze
+3 Klothys, God of Destiny
+3 Stomping Ground
+3 Questing Beast
+3 Rootbound Crag
+3 Kolaghan's Command
+3 Overgrown Tomb
+4 Rootbound Crag
+4 Bloodchief's Thirst
+1 Liliana, Waker of the Dead
+1 Hazoret the Fervent
+2 Hazoret the Fervent
+2 Heartless Act
+3 Castle Locthwain
+3 Heartless Act
+3 Kroxa, Titan of Death's Hunger
+3 Rix Maadi Reveler
+4 Dragonskull Summit
+4 Heartless Act
+4 Chandra, Torch of Defiance
+1 Grafdigger's Cage
+1 Bedevil
+1 Commit/Memory
+2 Grafdigger's Cage
+2 Commit/Memory
+3 Grafdigger's Cage
+4 Island
+4 Grafdigger's Cage
 1 Deafening Clarion
 1 Isolated Chapel
 1 Shadrix Silverquill
@@ -154,12 +190,3 @@
 4 Elite Spellbinder
 4 Sacred Foundry
 4 Lightning Helix
-1 Bedevil
-1 Grafdigger's Cage
-1 Commit/Memory
-2 Grafdigger's Cage
-2 Commit/Memory
-3 Grafdigger's Cage
-4 Island
-4 Grafdigger's Cage
-4 Swamp

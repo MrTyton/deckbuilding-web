@@ -3,43 +3,51 @@
 1 Cave of the Frost Dragon
 2 Cave of the Frost Dragon
 1 Shadowspear
+4 Charming Prince
 1 Hallowed Fountain
 1 Emeria's Call
-4 Charming Prince
+1 Archon of Emeria
 1 Glasspool Mimic
 1 Sword of Feast and Famine
 2 Emeria's Call
-1 Archon of Emeria
+1 Maul of the Skyclaves
 1 Marsh Flats
 2 Marsh Flats
 2 Sanctifier en-Vec
-1 Maul of the Skyclaves
+2 Archon of Emeria
 7 Plains
+1 Skyclave Cleric
 3 Marsh Flats
 4 Marsh Flats
 1 Field of Ruin
 2 Field of Ruin
-2 Archon of Emeria
-1 Skyclave Cleric
 1 Horizon Canopy
 1 Prismatic Ending
 2 Prismatic Ending
 2 Sanctum Prelate
 1 Mishra's Factory
 2 Mishra's Factory
+3 Archon of Emeria
+4 Archon of Emeria
 3 Cave of the Frost Dragon
 1 Phyrexian Revoker
 2 Horizon Canopy
 1 Eiganjo Castle
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
 4 Esper Sentinel
+1 Snow-Covered Mountain
+1 Urza's Saga
+2 Urza's Saga
+3 Urza's Saga
+4 Urza's Saga
+4 Sunbaked Canyon
 2 Magus of the Moon
-8 Plains
 3 Field of Ruin
-3 Archon of Emeria
-4 Archon of Emeria
+8 Plains
 1 Temple Garden
 1 Archangel Avacyn
 3 Horizon Canopy
@@ -52,34 +60,26 @@
 3 Lightning Bolt
 4 Sacred Foundry
 4 Lightning Bolt
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
-4 Ragavan, Nimble Pilferer
 1 Silent Clearing
 2 Silent Clearing
 3 Silent Clearing
 3 Sanctum Prelate
 4 Silent Clearing
 4 Field of Ruin
-4 Sunbaked Canyon
-1 Urza's Saga
-2 Urza's Saga
-3 Urza's Saga
-4 Urza's Saga
+3 Ragavan, Nimble Pilferer
+4 Ragavan, Nimble Pilferer
 1 Godless Shrine
 3 Prismatic Ending
 4 Prismatic Ending
-1 Snow-Covered Mountain
 1 Spellskite
 1 Lightning Helix
 2 Lightning Helix
 3 Lightning Helix
 1 Sword of Hearth and Home
 1 Wooded Foothills
-1 Knight of Autumn
 1 Eternal Witness
 1 Prismatic Vista
+1 Knight of Autumn
 1 Forest
 2 Temple Garden
 2 Wooded Foothills
@@ -90,13 +90,20 @@
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
-3 Mishra's Factory
+1 Snow-Covered Plains
+2 Snow-Covered Plains
+3 Snow-Covered Plains
+4 Snow-Covered Plains
+5 Snow-Covered Plains
+6 Snow-Covered Plains
+7 Snow-Covered Plains
 1 Thraben Inspector
 1 Restoration Angel
 2 Thraben Inspector
 2 Restoration Angel
 3 Restoration Angel
 4 Restoration Angel
+3 Mishra's Factory
 1 Basilisk Collar
 1 Eight-and-a-Half-Tails
 1 Blade Splicer
@@ -114,21 +121,24 @@
 3 Scavenger Grounds
 1 Stomping Ground
 1 Razorverge Thicket
-1 Birds of Paradise
 1 Aven Mindcensor
 1 Stonehorn Dignitary
-2 Birds of Paradise
+1 Birds of Paradise
 2 Forest
+2 Birds of Paradise
 3 Birds of Paradise
 4 Birds of Paradise
+1 Flametongue Yearling
+3 Rugged Prairie
+4 Rugged Prairie
 1 Eldrazi Displacer
 1 Tectonic Edge
 2 Tectonic Edge
 3 Tectonic Edge
 4 Tectonic Edge
 1 Seasoned Pyromancer
-1 Toski, Bearer of Secrets
 1 Avalanche Riders
+1 Toski, Bearer of Secrets
 1 Endurance
 1 Eladamri's Call
 2 Eladamri's Call
@@ -137,8 +147,8 @@
 4 Wooded Foothills
 4 Eladamri's Call
 1 Auriok Champion
-2 Auriok Champion
 2 Felidar Guardian
+2 Auriok Champion
 3 Felidar Guardian
 4 Felidar Guardian
 1 Branchloft Pathway
@@ -151,16 +161,6 @@
 4 Branchloft Pathway
 4 Lightning Helix
 4 Mishra's Factory
-1 Flametongue Yearling
-1 Snow-Covered Plains
-2 Snow-Covered Plains
-3 Snow-Covered Plains
-3 Rugged Prairie
-4 Rugged Prairie
-4 Snow-Covered Plains
-5 Snow-Covered Plains
-6 Snow-Covered Plains
-7 Snow-Covered Plains
 1 Castle Ardenvale
 1 Ghost Quarter
 1 Leonin Arbiter
@@ -180,3 +180,15 @@
 14 Plains
 15 Plains
 16 Plains
+1 On Thin Ice
+2 On Thin Ice
+3 On Thin Ice
+4 On Thin Ice
+8 Snow-Covered Plains
+9 Snow-Covered Plains
+10 Snow-Covered Plains
+11 Snow-Covered Plains
+12 Snow-Covered Plains
+13 Snow-Covered Plains
+14 Snow-Covered Plains
+15 Snow-Covered Plains
