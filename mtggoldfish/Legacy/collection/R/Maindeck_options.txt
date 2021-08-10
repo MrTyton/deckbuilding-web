@@ -8,21 +8,21 @@
 2 Hanweir Garrison
 3 Hanweir Garrison
 1 Pyroblast
-1 Great Furnace
-1 Goblin Engineer
-1 Goblin Welder
 1 Grindstone
 1 Painter's Servant
+1 Goblin Welder
 1 Urza's Saga
+1 Goblin Engineer
+1 Great Furnace
 2 Urza's Saga
-2 Grindstone
-2 Goblin Engineer
-2 Painter's Servant
 2 Goblin Welder
-3 Goblin Engineer
-3 Painter's Servant
+2 Painter's Servant
+2 Goblin Engineer
+2 Grindstone
 3 Urza's Saga
 3 Goblin Welder
+3 Painter's Servant
+3 Goblin Engineer
 1 Karn, the Great Creator
 1 Lotus Petal
 2 Karn, the Great Creator
@@ -32,8 +32,8 @@
 2 Pyroblast
 1 Ensnaring Bridge
 3 Pyroblast
-4 Painter's Servant
 4 Pyroblast
+4 Painter's Servant
 1 Lion's Eye Diamond
 2 Great Furnace
 4 Goblin Welder
@@ -77,9 +77,6 @@
 1 Arid Mesa
 1 Angel of the Ruins
 1 Mox Opal
-2 Dead/Gone
-1 Blade Historian
-2 Blade Historian
 1 Retrofitter Foundry
 1 Abrade
 1 Spellskite
@@ -87,9 +84,12 @@
 1 Nettlecyst
 1 Ruin Grinder
 1 Smuggler's Copter
+2 Smuggler's Copter
 2 Retrofitter Foundry
 2 Spellskite
-2 Smuggler's Copter
+2 Dead/Gone
+1 Blade Historian
+2 Blade Historian
 3 Wooded Foothills
 3 Pia and Kiran Nalaar
 1 Blood Sun
@@ -97,11 +97,11 @@
 3 Blood Sun
 1 Portable Hole
 4 Lotus Petal
+1 Wishclaw Talisman
+1 Chromatic Star
 1 Mishra's Bauble
 1 Cavern of Souls
 1 Crucible of Worlds
-1 Chromatic Star
-1 Wishclaw Talisman
 1 Nihil Spellbomb
 1 Coveted Jewel
 1 Auriok Salvagers
@@ -122,14 +122,23 @@
 4 Chromatic Star
 4 Lion's Eye Diamond
 4 Mox Opal
+1 Pashalik Mons
+1 Hazoret the Fervent
+6 Snow-Covered Mountain
+7 Snow-Covered Mountain
+8 Snow-Covered Mountain
+1 Anje's Ravager
+1 Inferno Titan
+2 Anje's Ravager
+10 Mountain
 1 Spine of Ish Sah
 1 Wurmcoil Engine
-1 Rustvale Bridge
 1 Ichor Wellspring
 1 Phyrexian Metamorph
 1 Ancient Den
 1 Phyrexian Revoker
 1 Karakas
+1 Rustvale Bridge
 1 Thrill of Possibility
 1 Oswald Fiddlebender
 1 Daretti, Scrap Savant
@@ -142,12 +151,3 @@
 3 Oswald Fiddlebender
 4 Arid Mesa
 4 Oswald Fiddlebender
-1 Pashalik Mons
-1 Hazoret the Fervent
-6 Snow-Covered Mountain
-7 Snow-Covered Mountain
-8 Snow-Covered Mountain
-1 Anje's Ravager
-1 Inferno Titan
-2 Anje's Ravager
-10 Mountain

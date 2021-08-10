@@ -99,26 +99,26 @@
 1 Wall of Blossoms
 2 Wall of Blossoms
 1 Seachrome Coast
-1 Elite Spellbinder
-1 Hengegate Pathway
 1 Mystic Gate
-2 Hengegate Pathway
+1 Hengegate Pathway
+1 Elite Spellbinder
 2 Seachrome Coast
-2 Elite Spellbinder
+2 Hengegate Pathway
 2 Mystic Gate
 2 Island
 2 Hallowed Fountain
+2 Elite Spellbinder
 2 Venser, Shaper Savant
-3 Hengegate Pathway
-3 Field of Ruin
 3 Glasspool Mimic
+3 Field of Ruin
 3 Seachrome Coast
+3 Hengegate Pathway
 3 Hallowed Fountain
 3 Elite Spellbinder
 4 Seachrome Coast
-4 Hengegate Pathway
-4 Field of Ruin
 4 Elite Spellbinder
+4 Field of Ruin
+4 Hengegate Pathway
 4 Glasspool Mimic
 4 Watcher for Tomorrow
 4 Hallowed Fountain
@@ -193,13 +193,13 @@
 4 Esper Sentinel
 4 Tectonic Edge
 1 Tidehollow Sculler
-1 Wasteland Strangler
 1 Overgrown Tomb
+1 Wasteland Strangler
 1 Abundant Growth
 1 Zagoth Triome
 2 Tidehollow Sculler
-2 Wasteland Strangler
 2 Abundant Growth
+2 Wasteland Strangler
 3 Tidehollow Sculler
 3 Abundant Growth
 4 Tidehollow Sculler
@@ -216,8 +216,8 @@
 4 Militia Bugler
 4 Brought Back
 1 Mulldrifter
-1 Clifftop Retreat
 1 Sulfur Falls
+1 Clifftop Retreat
 1 Prairie Stream
 2 Sulfur Falls
 2 Raugrin Triome
@@ -271,8 +271,8 @@
 2 Lotus Cobra
 2 Renegade Rallier
 2 Eldritch Evolution
-3 Voice of Resurgence
 3 Lotus Cobra
+3 Voice of Resurgence
 3 Renegade Rallier
 3 Eldritch Evolution
 4 Lotus Cobra

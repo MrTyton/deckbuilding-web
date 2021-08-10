@@ -31,14 +31,11 @@
 2 Kroxa, Titan of Death's Hunger
 4 Footfall Crater
 2 Dire Tactics
+3 Shock
 1 Silverquill Silencer
 2 Silverquill Silencer
 3 Silverquill Silencer
 1 Plains
-3 Shock
-1 Elite Spellbinder
-2 Elite Spellbinder
-3 Elite Spellbinder
 4 Shock
 3 Kroxa, Titan of Death's Hunger
 4 Kroxa, Titan of Death's Hunger
@@ -46,26 +43,28 @@
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
-1 Skyclave Apparition
-2 Skyclave Apparition
+1 Elite Spellbinder
+2 Elite Spellbinder
+3 Elite Spellbinder
 1 Bloodchief's Thirst
 2 Emeria's Call
+2 Ramunap Ruins
+1 Skyclave Apparition
+2 Skyclave Apparition
+2 Mountain
 3 Skyclave Apparition
 4 Silverquill Silencer
-2 Ramunap Ruins
-2 Mountain
-4 Elite Spellbinder
 2 Shefet Dunes
-4 Skyclave Apparition
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
+4 Elite Spellbinder
 1 Selfless Savior
-2 Plains
-1 Castle Ardenvale
+4 Skyclave Apparition
 1 Blinkmoth Nexus
 1 Archon of Emeria
 1 Reidane, God of the Worthy
 2 Blinkmoth Nexus
+2 Plains
 2 Archon of Emeria
 3 Thalia, Guardian of Thraben
 3 Blinkmoth Nexus
@@ -74,13 +73,13 @@
 2 Bloodchief's Thirst
 3 Emeria's Call
 4 Emeria's Call
+1 Castle Ardenvale
 2 Reidane, God of the Worthy
 1 Glint-Sleeve Siphoner
 2 Glint-Sleeve Siphoner
 3 Glint-Sleeve Siphoner
 4 Thalia, Guardian of Thraben
 4 Glint-Sleeve Siphoner
-1 Silverquill Command
 1 Kolaghan's Command
 1 Ajani, Adversary of Tyrants
 1 Savai Triome
@@ -88,54 +87,35 @@
 2 Savai Triome
 2 Ajani, Adversary of Tyrants
 1 Mana Tithe
-1 Luminarch Aspirant
-2 Luminarch Aspirant
-3 Luminarch Aspirant
-4 Luminarch Aspirant
+1 Silverquill Command
 2 Selfless Savior
 3 Selfless Savior
-2 Silverquill Command
-3 Plains
-4 Plains
 1 Sejiri Shelter
 1 Alseid of Life's Bounty
-1 Maul of the Skyclaves
-1 Baneslayer Angel
-2 Maul of the Skyclaves
 2 Mana Tithe
 2 Faerie Guidemother
 3 Dire Tactics
-1 Crawling Barrens
-1 Baleful Mastery
-1 Shineshadow Snarl
-1 Killian, Ink Duelist
-2 Crawling Barrens
-2 Baleful Mastery
-2 Shineshadow Snarl
-2 Killian, Ink Duelist
-3 Crawling Barrens
-3 Shineshadow Snarl
-3 Silverquill Command
-4 Shineshadow Snarl
-4 Silverquill Command
-1 Isolated Chapel
 1 Paladin Class
 1 Cave of the Frost Dragon
 1 Aether Hub
 1 Hive of the Eye Tyrant
 1 Loyal Warhound
+1 Isolated Chapel
 1 Ghost Quarter
 2 Paladin Class
 2 Hive of the Eye Tyrant
 2 Loyal Warhound
 3 Paladin Class
+3 Plains
 3 Loyal Warhound
 3 Archon of Emeria
 4 Selfless Savior
 4 Paladin Class
+4 Plains
 4 Archon of Emeria
 1 Fling
 1 Sacred Foundry
+2 Silverquill Command
 2 Fling
 2 Sacred Foundry
 3 Sacred Foundry
@@ -144,14 +124,21 @@
 2 Dead Weight
 3 Shefet Dunes
 4 Shefet Dunes
-1 Heartless Act
 1 Cast Down
+1 Heartless Act
 1 Thraben Inspector
-2 Heartless Act
 2 Cast Down
 2 Thraben Inspector
+2 Heartless Act
 3 Thraben Inspector
 4 Thraben Inspector
+1 Maul of the Skyclaves
+1 Baneslayer Angel
+1 Luminarch Aspirant
+2 Maul of the Skyclaves
+2 Luminarch Aspirant
+3 Luminarch Aspirant
+4 Luminarch Aspirant
 1 Demonic Embrace
 1 Feed the Swarm
 1 Duress

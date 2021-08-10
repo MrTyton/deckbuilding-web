@@ -1,20 +1,21 @@
+2 Duress
 2 Fatal Push
 1 Flusterstorm
-2 Duress
 2 Mystical Dispute
 1 Defense Grid
 2 Defense Grid
 3 Defense Grid
-1 Spell Pierce
-1 Echo of Eons
 1 Leyline of the Void
 2 Leyline of the Void
 2 Pyroblast
 2 Flusterstorm
 4 Defense Grid
-1 Chain of Vapor
-1 Nausea
+1 Echo of Eons
+1 Spell Pierce
 2 Red Elemental Blast
+2 Pact of Negation
+1 Nausea
+1 Chain of Vapor
 1 Stoneforge Mystic
 1 Batterskull
 1 Swords to Plowshares
@@ -31,7 +32,6 @@
 1 Plague Engineer
 1 Surgical Extraction
 2 Spell Pierce
-2 Pact of Negation
 1 Kaya, Orzhov Usurper
 3 Fatal Push
 1 Edge of Autumn
@@ -78,6 +78,7 @@
 1 Tormod's Crypt
 2 Tormod's Crypt
 3 Tormod's Crypt
+3 Pact of Negation
 1 Demilich
 3 Sudden Edict
 3 Monastery Mentor

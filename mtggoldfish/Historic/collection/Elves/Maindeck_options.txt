@@ -35,23 +35,23 @@
 4 Elvish Visionary
 2 Faceless Haven
 1 Breeding Pool
-1 Barkchannel Pathway
 1 Botanical Sanctum
+1 Barkchannel Pathway
 2 Barkchannel Pathway
 2 Breeding Pool
 2 Botanical Sanctum
-3 Barkchannel Pathway
 3 Breeding Pool
 3 Botanical Sanctum
-4 Barkchannel Pathway
-4 Breeding Pool
+3 Barkchannel Pathway
 4 Botanical Sanctum
+4 Breeding Pool
+4 Barkchannel Pathway
 1 Branchloft Pathway
 1 Temple Garden
 2 Branchloft Pathway
 2 Temple Garden
-3 Branchloft Pathway
 3 Temple Garden
+3 Branchloft Pathway
 4 Temple Garden
 4 Branchloft Pathway
 2 Marwyn, the Nurturer
@@ -61,8 +61,8 @@
 1 Swan Song
 1 Aether Gust
 2 Swan Song
-1 Woodland Cemetery
 1 Fiend Artisan
+1 Woodland Cemetery
 2 Fiend Artisan
 2 Woodland Cemetery
 3 Woodland Cemetery
@@ -80,13 +80,13 @@
 1 Vivien, Arkbow Ranger
 1 Circle of Dreams Druid
 2 Finale of Devastation
+1 Necroblossom Snarl
+1 Skemfar Elderhall
+2 Necroblossom Snarl
 1 Wildborn Preserver
 2 Wildborn Preserver
 1 Lead the Stampede
 2 Lead the Stampede
-1 Necroblossom Snarl
-1 Skemfar Elderhall
-2 Necroblossom Snarl
 1 Heroic Intervention
 1 Pelt Collector
 2 Pelt Collector
@@ -106,8 +106,8 @@
 2 Turntimber Symbiosis
 3 Turntimber Symbiosis
 3 Growing Rites of Itlimoc
-1 Tyvar Kell
 1 Containment Breach
+1 Tyvar Kell
 1 Elven Bow
 1 Rishkar, Peema Renegade
 1 Elderleaf Mentor
@@ -131,8 +131,8 @@
 3 Lys Alana Huntmaster
 4 Llanowar Visionary
 4 Lys Alana Huntmaster
-1 Paradise Druid
 1 Ghalta, Primal Hunger
+1 Paradise Druid
 1 Carnage Tyrant
 1 Return of the Wildspeaker
 2 Paradise Druid
