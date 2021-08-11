@@ -1,13 +1,58 @@
-1 Baleful Mastery
 1 Clearwater Pathway
-1 Mountain
+1 Baleful Mastery
 3 Thoughtseize
-2 Baleful Mastery
-3 Crux of Fate
-1 Dragonskull Summit
-1 Hive of the Eye Tyrant
-1 Savai Triome
+1 Mountain
 4 Thoughtseize
+1 Expressive Iteration
+1 Spirebluff Canal
+2 Expressive Iteration
+2 Spirebluff Canal
+3 Expressive Iteration
+3 Steam Vents
+4 Steam Vents
+1 Narset, Parter of Veils
+1 Dragonstorm
+1 Bladewing the Risen
+1 Terror of the Peaks
+1 Mizzix's Mastery
+1 Faithless Looting
+2 Bladewing the Risen
+2 Dragonstorm
+2 Faithless Looting
+2 Mizzix's Mastery
+3 Faithless Looting
+3 Bladewing the Risen
+3 Dragonstorm
+3 Mizzix's Mastery
+3 Prismari Command
+4 Faithless Looting
+4 Dragonstorm
+4 Mizzix's Mastery
+4 Prismari Command
+2 Clearwater Pathway
+2 Narset, Parter of Veils
+3 Spirebluff Canal
+1 Brazen Borrower
+2 Mountain
+3 Narset, Parter of Veils
+4 Expressive Iteration
+4 Spirebluff Canal
+1 Silundi Vision
+2 Silundi Vision
+3 Silundi Vision
+1 Search for Azcanta
+1 Mystical Dispute
+1 Dragonskull Summit
+1 Island
+2 Baleful Mastery
+2 Mystical Dispute
+3 Crux of Fate
+1 Anger of the Gods
+2 Island
+3 Island
+1 Hive of the Eye Tyrant
+1 Commit/Memory
+1 Savai Triome
 1 Ebondeath, Dracolich
 1 Dragon's Fire
 2 Ebondeath, Dracolich
@@ -22,6 +67,28 @@
 2 Fatal Push
 2 Goldspan Dragon
 2 Dragon's Hoard
+2 Dragonskull Summit
+3 Mystical Dispute
+1 Duress
+2 Brazen Borrower
+3 Mountain
+1 Riverglide Pathway
+1 Sea Gate Restoration
+1 Memory Lapse
+2 Terror of the Peaks
+2 Riverglide Pathway
+2 Memory Lapse
+3 Riverglide Pathway
+3 Memory Lapse
+4 Riverglide Pathway
+4 Memory Lapse
+1 Fabled Passage
+2 Fabled Passage
+3 Chandra, Torch of Defiance
+4 Island
+2 Hive of the Eye Tyrant
+4 Mountain
+3 Nicol Bolas, Dragon-God
 3 Savai Triome
 1 Godless Shrine
 1 Lightning Helix
@@ -29,56 +96,47 @@
 2 Sacred Foundry
 2 Godless Shrine
 2 Lightning Helix
-2 Mountain
-2 Hive of the Eye Tyrant
-1 Fabled Passage
-2 Fabled Passage
 1 Brightclimb Pathway
 1 Needleverge Pathway
-1 Vanishing Verse
 1 Nadaar, Selfless Paladin
+1 Vanishing Verse
 2 Brightclimb Pathway
 2 Needleverge Pathway
 2 Nadaar, Selfless Paladin
 3 Nadaar, Selfless Paladin
 4 Savai Triome
 3 Sacred Foundry
-3 Chandra, Torch of Defiance
-2 Dragonskull Summit
-3 Nicol Bolas, Dragon-God
+3 Swamp
+1 Niv-Mizzet, Parun
+1 Fire Prophecy
+5 Island
+2 Duress
+4 Narset, Parter of Veils
+3 Cling to Dust
 1 Dragon's Disciple
 2 Dragon's Disciple
 3 Dragon's Disciple
 3 Needleverge Pathway
-3 Cling to Dust
+1 Extinction Event
+1 Heartless Act
+1 Valki, God of Lies
+2 Valki, God of Lies
+1 Rix Maadi Reveler
+2 Castle Locthwain
+2 Rix Maadi Reveler
 1 Cave of the Frost Dragon
-3 Swamp
-3 Mountain
-4 Mountain
-1 Island
-2 Clearwater Pathway
-1 Anger of the Gods
+1 Kroxa, Titan of Death's Hunger
+2 Kroxa, Titan of Death's Hunger
 1 Hall of Storm Giants
 1 Iymrith, Desert Doom
 2 Iymrith, Desert Doom
 1 Shatterskull Smashing
 1 Murderous Rider
 1 Sarkhan, Fireblood
-1 Rix Maadi Reveler
-2 Castle Locthwain
 2 Shatterskull Smashing
-2 Rix Maadi Reveler
 3 Fabled Passage
-1 Expressive Iteration
 1 Drown in the Loch
-1 Spirebluff Canal
-1 Extinction Event
-1 Heartless Act
-2 Expressive Iteration
-2 Spirebluff Canal
-3 Expressive Iteration
 3 Clearwater Pathway
-3 Spirebluff Canal
 4 Clearwater Pathway
 1 Icingdeath, Frost Tyrant
 2 Vanishing Verse
@@ -86,22 +144,14 @@
 1 Mazemind Tome
 2 Mazemind Tome
 4 Glorybringer
-1 Valki, God of Lies
-2 Valki, God of Lies
-3 Steam Vents
-4 Steam Vents
-1 Narset, Parter of Veils
-2 Island
-2 Narset, Parter of Veils
-3 Island
-3 Narset, Parter of Veils
-1 Kroxa, Titan of Death's Hunger
-2 Kroxa, Titan of Death's Hunger
+4 Swamp
+3 Dragonskull Summit
 1 Temple of Deceit
+1 Pact of Negation
 1 Flunk
 1 Thought Erasure
-1 Rankle, Master of Pranks
 1 Fetid Pools
+1 Rankle, Master of Pranks
 1 Ketria Triome
 2 Thought Erasure
 2 Rankle, Master of Pranks
@@ -110,48 +160,66 @@
 3 Fatal Push
 1 Field of Ruin
 1 Behold the Multiverse
-1 Saw It Coming
 1 Whirlwind Denial
+1 Saw It Coming
 2 Behold the Multiverse
 2 Anger of the Gods
 2 Saw It Coming
 2 Whirlwind Denial
 3 Behold the Multiverse
 3 Anger of the Gods
+3 Brazen Borrower
 1 Luminarch Aspirant
 2 Luminarch Aspirant
 3 Luminarch Aspirant
 2 Icingdeath, Frost Tyrant
 4 Needleverge Pathway
-1 Cragcrown Pathway
+1 Questing Beast
 1 Rootbound Crag
 1 Stomping Ground
+1 Cragcrown Pathway
 1 Snow-Covered Mountain
 1 Snow-Covered Swamp
-1 Elder Gargaroth
 1 Blooming Marsh
+1 Elder Gargaroth
 1 Klothys, God of Destiny
 1 Scavenging Ooze
 1 Overgrown Tomb
 1 Snow-Covered Forest
-1 Questing Beast
-2 Cragcrown Pathway
 2 Rootbound Crag
 2 Stomping Ground
+2 Cragcrown Pathway
 2 Questing Beast
-2 Elder Gargaroth
 2 Overgrown Tomb
 2 Blooming Marsh
 2 Klothys, God of Destiny
+2 Elder Gargaroth
 2 Scavenging Ooze
 3 Klothys, God of Destiny
+3 Questing Beast
 3 Stomping Ground
 3 Rootbound Crag
 3 Kolaghan's Command
-3 Questing Beast
 3 Overgrown Tomb
 4 Rootbound Crag
 4 Bloodchief's Thirst
+1 Liliana, Waker of the Dead
+1 Hazoret the Fervent
+2 Hazoret the Fervent
+2 Heartless Act
+3 Castle Locthwain
+3 Heartless Act
+3 Kroxa, Titan of Death's Hunger
+3 Rix Maadi Reveler
+4 Dragonskull Summit
+4 Chandra, Torch of Defiance
+4 Heartless Act
+1 Bedevil
+1 Grafdigger's Cage
+2 Grafdigger's Cage
+2 Commit/Memory
+3 Grafdigger's Cage
+4 Grafdigger's Cage
 1 Isolated Chapel
 1 Shadrix Silverquill
 1 Elite Spellbinder
@@ -162,7 +230,6 @@
 2 Isolated Chapel
 2 Shadrix Silverquill
 2 Elite Spellbinder
-3 Dragonskull Summit
 3 Godless Shrine
 3 Isolated Chapel
 3 Lightning Helix
@@ -170,12 +237,3 @@
 4 Elite Spellbinder
 4 Sacred Foundry
 4 Lightning Helix
-1 Grafdigger's Cage
-1 Bedevil
-1 Commit/Memory
-2 Grafdigger's Cage
-2 Commit/Memory
-3 Grafdigger's Cage
-4 Island
-4 Grafdigger's Cage
-4 Swamp

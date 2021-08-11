@@ -7,7 +7,6 @@
 3 Shardless Agent
 1 Forest
 4 Shardless Agent
-1 Misty Rainforest
 4 Wooded Foothills
 1 Lightning Helix
 1 Territorial Kavu
@@ -30,9 +29,9 @@
 2 Scion of Draco
 3 Scion of Draco
 4 Scion of Draco
+1 Misty Rainforest
 1 Windswept Heath
 1 Emrakul, the Aeons Torn
-1 Flooded Strand
 2 Misty Rainforest
 1 Khalni Garden
 1 Glimpse of Tomorrow
@@ -45,25 +44,26 @@
 4 Khalni Garden
 3 Glimpse of Tomorrow
 4 Violent Outburst
+1 Flooded Strand
 3 Misty Rainforest
+2 Windswept Heath
 1 Plains
-4 Misty Rainforest
 1 Wavesifter
 2 Wavesifter
 3 Wavesifter
+4 Misty Rainforest
 1 Hallowed Fountain
 1 Omnath, Locus of Creation
-2 Windswept Heath
-2 Omnath, Locus of Creation
 4 Wavesifter
 1 Verdant Catacombs
 4 Bloodbraid Elf
 1 General Ferrous Rokiric
 2 General Ferrous Rokiric
 3 General Ferrous Rokiric
+2 Omnath, Locus of Creation
+1 Gemstone Caverns
 3 Omnath, Locus of Creation
 2 Flooded Strand
-1 Gemstone Caverns
 3 Bloodstained Mire
 1 Noble Hierarch
 1 Savai Triome
@@ -90,35 +90,34 @@
 4 Leyline of Sanctity
 1 Iona, Shield of Emeria
 1 Archon of Cruelty
-3 Flooded Strand
 1 Shark Typhoon
 2 Archon of Cruelty
 3 Archon of Cruelty
+3 Flooded Strand
 1 Path to Exile
+1 Supreme Verdict
+2 Supreme Verdict
+1 Fire/Ice
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
 4 Expressive Iteration
-1 Supreme Verdict
-2 Supreme Verdict
-1 Teferi, Hero of Dominaria
 1 Glacial Fortress
-1 Fire/Ice
+1 Teferi, Hero of Dominaria
 1 Tireless Provisioner
 2 Tireless Provisioner
 3 Tireless Provisioner
 2 Mountain
 3 Hard Evidence
-1 Nahiri, the Harbinger
 1 Solitude
 4 Tireless Provisioner
 3 Supreme Verdict
 1 Snow-Covered Mountain
 1 Zagoth Triome
+1 Nahiri, the Harbinger
 4 Hard Evidence
 4 Omnath, Locus of Creation
 1 Goblin Dark-Dwellers
-2 Island
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 2 Goblin Dark-Dwellers
@@ -128,7 +127,7 @@
 2 Iona, Shield of Emeria
 1 Wall of Omens
 2 Shark Typhoon
-4 Flooded Strand
+2 Island
 4 Goblin Dark-Dwellers
 1 Chancellor of the Forge
 2 Chancellor of the Forge
@@ -138,6 +137,7 @@
 2 Fire/Ice
 2 Nahiri, the Harbinger
 1 Indatha Triome
+4 Flooded Strand
 1 As Foretold
 3 Chancellor of the Forge
 1 Ardent Plea
@@ -162,23 +162,22 @@
 4 Chancellor of the Forge
 3 Iona, Shield of Emeria
 1 Griselbrand
-1 Sulfur Falls
 1 Gemstone Mine
 2 Gemstone Caverns
 3 Lightning Helix
 4 Lightning Helix
-1 Counterspell
 4 Seasoned Pyromancer
 4 Iona, Shield of Emeria
+1 Sulfur Falls
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 2 Gemstone Mine
 2 Griselbrand
-1 Endurance
+4 Glimpse of Tomorrow
 1 Field of Ruin
 1 Castle Ardenvale
 3 Shark Typhoon
-4 Glimpse of Tomorrow
+1 Counterspell
 1 Ugin, the Spirit Dragon
 1 Sunpetal Grove
 1 Scattered Groves
@@ -188,27 +187,27 @@
 2 Ardent Plea
 1 Fire-Lit Thicket
 3 Ragavan, Nimble Pilferer
-1 Snow-Covered Plains
+2 Plains
 2 Field of Ruin
 4 Shark Typhoon
-2 Plains
+1 Snow-Covered Plains
+1 Endurance
 1 Godless Shrine
 1 Serra's Emissary
 2 Forest
-2 Path to Exile
 2 Ugin, the Spirit Dragon
 1 Celestial Colonnade
 3 Wall of Omens
-1 Fury
 2 Snapcaster Mage
+2 Path to Exile
 1 Overgrown Tomb
 3 Verdant Catacombs
 1 Nicol Bolas, Planeswalker
 2 Nicol Bolas, Planeswalker
-1 Lonely Sandbar
 1 Spell Pierce
 2 Jace, the Mind Sculptor
 3 Remand
+1 Fury
 1 Rest in Peace
 4 Verdant Catacombs
 3 Griselbrand
@@ -221,8 +220,6 @@
 2 Grief
 1 Polluted Delta
 3 Snapcaster Mage
-1 Cryptic Command
-2 Snow-Covered Island
 1 Valakut Awakening
 1 Xenagos, God of Revels
 2 Xenagos, God of Revels
@@ -232,12 +229,13 @@
 4 As Foretold
 3 Noble Hierarch
 4 Noble Hierarch
+1 Cryptic Command
+2 Snow-Covered Island
 1 Wild Nacatl
 1 Tarmogoyf
 2 Tarmogoyf
 3 Tarmogoyf
-2 Fury
-1 Force of Negation
+1 Lonely Sandbar
 1 Flusterstorm
 1 Flooded Grove
 1 Archmage's Charm
@@ -246,10 +244,11 @@
 1 Relic of Progenitus
 4 Wall of Omens
 4 Supreme Verdict
-3 Fury
-4 Fury
 3 Ugin, the Spirit Dragon
 4 Ugin, the Spirit Dragon
+2 Fury
+3 Fury
+4 Fury
 1 Academy Manufactor
 2 Academy Manufactor
 1 Engineered Explosives
@@ -269,21 +268,20 @@
 4 Tarmogoyf
 1 Rift Sower
 3 Gemstone Mine
-1 Watery Grave
 1 Demonic Dread
 1 Mystical Dispute
+1 Watery Grave
 2 Demonic Dread
 2 Mystical Dispute
 3 Demonic Dread
 1 Fiery Islet
-2 Force of Negation
-3 Path to Exile
+1 Force of Negation
 3 Island
 1 Cindervines
 1 Brazen Borrower
 1 Clifftop Retreat
-1 Terror of the Peaks
 1 Beast Within
+1 Terror of the Peaks
 1 Chandra, Torch of Defiance
 1 Valakut, the Molten Pinnacle
 1 Ashiok, Dream Render
@@ -294,8 +292,8 @@
 2 Rest in Peace
 1 Irrigated Farmland
 2 Sulfur Falls
-2 Raugrin Triome
 2 Spell Pierce
+2 Raugrin Triome
 1 Geist of Saint Traft
 2 Geist of Saint Traft
 1 Shambleshark
@@ -328,28 +326,10 @@
 2 Acererak the Archlich
 3 Acererak the Archlich
 3 Mountain
+2 Snow-Covered Plains
+4 Counterspell
 3 Academy Manufactor
 4 Academy Manufactor
-1 Growth Spiral
-1 Anger of the Gods
-1 Timely Reinforcements
-1 Valki, God of Lies
-1 Bring to Light
-2 Valki, God of Lies
-2 Growth Spiral
-2 Teferi, Hero of Dominaria
-2 Bring to Light
-3 Growth Spiral
-3 Bring to Light
-4 Growth Spiral
-4 Path to Exile
-1 Reflecting Pool
-1 Abundant Growth
-1 Deafening Clarion
-2 Abundant Growth
-3 Abundant Growth
-3 Force of Negation
-4 Abundant Growth
 3 Explore
 4 Explore
 1 Swamp
@@ -368,5 +348,18 @@
 2 Rift Sower
 3 Rift Sower
 4 Rift Sower
-2 Snow-Covered Plains
-4 Counterspell
+1 Anger of the Gods
+1 Timely Reinforcements
+1 Growth Spiral
+1 Valki, God of Lies
+1 Bring to Light
+2 Valki, God of Lies
+2 Teferi, Hero of Dominaria
+2 Force of Negation
+2 Bring to Light
+2 Growth Spiral
+3 Path to Exile
+3 Growth Spiral
+3 Bring to Light
+4 Path to Exile
+4 Growth Spiral

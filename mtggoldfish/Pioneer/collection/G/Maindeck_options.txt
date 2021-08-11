@@ -1,12 +1,12 @@
 1 Collected Company
 2 Steel Leaf Champion
 2 Collected Company
-3 Steel Leaf Champion
 3 Collected Company
-4 Steel Leaf Champion
+3 Steel Leaf Champion
 4 Collected Company
-1 Yorvo, Lord of Garenbrig
+4 Steel Leaf Champion
 1 Old-Growth Troll
+1 Yorvo, Lord of Garenbrig
 1 Garruk's Harbinger
 2 Old-Growth Troll
 2 Garruk's Harbinger
@@ -23,10 +23,10 @@
 3 Llanowar Visionary
 4 Castle Garenbrig
 1 Lair of the Hydra
-2 Yorvo, Lord of Garenbrig
 2 Hashep Oasis
-3 Primal Might
+2 Yorvo, Lord of Garenbrig
 3 Hashep Oasis
+3 Primal Might
 4 Primal Might
 2 Lair of the Hydra
 1 Werewolf Pack Leader
@@ -36,14 +36,14 @@
 1 Barkchannel Pathway
 1 Breeding Pool
 1 Botanical Sanctum
-2 Breeding Pool
 2 Barkchannel Pathway
+2 Breeding Pool
 2 Botanical Sanctum
 3 Barkchannel Pathway
 3 Breeding Pool
 3 Botanical Sanctum
-4 Botanical Sanctum
 4 Barkchannel Pathway
+4 Botanical Sanctum
 4 Breeding Pool
 1 Brazen Borrower
 1 Glasspool Mimic
@@ -56,11 +56,11 @@
 1 Mutavault
 1 Omen of the Sea
 2 Brazen Borrower
-2 Island
 2 Entrancing Melody
 2 Dragon Turtle
 2 Omen of the Sea
 2 Mutavault
+2 Island
 2 Gadwick, the Wizened
 2 Unsummon
 2 Silumgar's Scorn
@@ -131,8 +131,8 @@
 4 Sidisi's Faithful
 1 Harbinger of the Tides
 1 Leyline of Anticipation
-1 Castle Vantress
 1 Iymrith, Desert Doom
+1 Castle Vantress
 1 Ashiok's Erasure
 1 Shark Typhoon
 2 Harbinger of the Tides
@@ -174,32 +174,32 @@
 2 Barkhide Troll
 3 Stubborn Denial
 4 Stubborn Denial
-1 Rotting Regisaur
-1 Wildgrowth Walker
-1 Darkbore Pathway
+1 Blooming Marsh
 1 Llanowar Wastes
 1 Overgrown Tomb
-1 Blooming Marsh
+1 Darkbore Pathway
+1 Rotting Regisaur
+1 Wildgrowth Walker
 1 Merfolk Branchwalker
-2 Overgrown Tomb
+2 Llanowar Wastes
+2 Rotting Regisaur
+2 Darkbore Pathway
 2 Blooming Marsh
+2 Overgrown Tomb
 2 Merfolk Branchwalker
 2 Wildgrowth Walker
-2 Rotting Regisaur
-2 Llanowar Wastes
-2 Darkbore Pathway
-3 Llanowar Wastes
-3 Rotting Regisaur
-3 Wildgrowth Walker
+3 Blooming Marsh
 3 Overgrown Tomb
 3 Darkbore Pathway
-3 Blooming Marsh
+3 Rotting Regisaur
+3 Llanowar Wastes
+3 Wildgrowth Walker
 3 Merfolk Branchwalker
-4 Llanowar Wastes
+4 Blooming Marsh
 4 Overgrown Tomb
-4 Wildgrowth Walker
+4 Rotting Regisaur
 4 Darkbore Pathway
+4 Llanowar Wastes
+4 Wildgrowth Walker
 4 Jadelight Ranger
 4 Merfolk Branchwalker
-4 Rotting Regisaur
-4 Blooming Marsh

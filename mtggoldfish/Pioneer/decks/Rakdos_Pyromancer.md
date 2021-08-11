@@ -55,9 +55,9 @@
 |                     |                                                                                              |                    2|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)         |
 |                     |                                                                                              |                    1|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)           |
 |                     |                                                                                              |                    2|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)           |
+|                     |                                                                                              |                    4|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)  |
+|                     |                                                                                              |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |
 |                     |                                                                                              |                    1|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729) |
 |                     |                                                                                              |                    1|[Pharika's Libation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476362)  |
 |                     |                                                                                              |                    2|[Pharika's Libation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476362)  |
-|                     |                                                                                              |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |
-|                     |                                                                                              |                    4|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)  |
 

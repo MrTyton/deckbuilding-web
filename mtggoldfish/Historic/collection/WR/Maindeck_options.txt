@@ -1,4 +1,3 @@
-3 Reidane, God of the Worthy
 4 Plains
 3 Mountain
 1 Reckless Rage
@@ -7,8 +6,8 @@
 1 Dreadhorde Arcanist
 2 Reckless Rage
 2 Tenth District Legionnaire
-2 Dreadhorde Arcanist
 2 Defiant Strike
+2 Dreadhorde Arcanist
 3 Tenth District Legionnaire
 3 Defiant Strike
 3 Dreadhorde Arcanist
@@ -17,6 +16,7 @@
 3 Reckless Rage
 4 Reckless Rage
 4 Tenth District Legionnaire
+3 Reidane, God of the Worthy
 1 Clever Lumimancer
 2 Clever Lumimancer
 1 Soul-Scar Mage
@@ -56,46 +56,65 @@
 3 Soul-Scar Mage
 4 Soul-Scar Mage
 5 Mountain
+1 Gideon Blackblade
 6 Plains
 1 Feather, the Redeemed
 2 Feather, the Redeemed
 3 Feather, the Redeemed
-1 Gideon Blackblade
-1 Cast Out
-4 Feather, the Redeemed
 1 Furycalm Snarl
 2 Furycalm Snarl
-1 Hazoret the Fervent
+1 Cast Out
+1 Mila, Crafty Companion
+4 Feather, the Redeemed
+1 Luminarch Aspirant
+2 Luminarch Aspirant
+3 Luminarch Aspirant
+4 Luminarch Aspirant
+1 Thalia, Guardian of Thraben
+2 Thalia, Guardian of Thraben
 2 Gods Willing
 3 Gods Willing
 4 Gods Willing
-1 Mila, Crafty Companion
 3 Fight as One
 4 Fight as One
+1 Hazoret the Fervent
 1 Gird for Battle
 2 Gird for Battle
-1 Thalia, Guardian of Thraben
-2 Thalia, Guardian of Thraben
 1 Showdown of the Skalds
 2 Showdown of the Skalds
 3 Showdown of the Skalds
+2 Gideon Blackblade
 1 Seasoned Hallowblade
 2 Seasoned Hallowblade
-1 Transmogrify
+1 Fabled Passage
+2 Fabled Passage
+1 Elesh Norn, Grand Cenobite
 1 Forbidden Friendship
+1 Transmogrify
 1 Raise the Alarm
 1 Legion's Landing
-2 Transmogrify
 2 Forbidden Friendship
+2 Transmogrify
 2 Raise the Alarm
 2 Legion's Landing
-3 Transmogrify
 3 Forbidden Friendship
+3 Transmogrify
 3 Legion's Landing
 3 Raise the Alarm
 4 Forbidden Friendship
 4 Raise the Alarm
 4 Legion's Landing
+1 Intangible Virtue
+2 Elesh Norn, Grand Cenobite
+2 Intangible Virtue
+3 Intangible Virtue
+4 Intangible Virtue
+1 Heroic Reinforcements
+1 Satyr's Cunning
+2 Heroic Reinforcements
+3 Heroic Reinforcements
+4 Transmogrify
+4 Heroic Reinforcements
 1 Mavinda, Students' Advocate
 1 Sejiri Shelter
 1 Ephemerate
@@ -103,50 +122,66 @@
 2 Ephemerate
 1 Samut's Sprint
 2 Samut's Sprint
-1 Luminarch Aspirant
-2 Luminarch Aspirant
-3 Luminarch Aspirant
-4 Luminarch Aspirant
-2 Emeria's Call
 1 Gideon of the Trials
+2 Emeria's Call
 1 Infuriate
-1 Elesh Norn, Grand Cenobite
-1 Heroic Reinforcements
-1 Satyr's Cunning
-2 Heroic Reinforcements
-3 Heroic Reinforcements
-4 Transmogrify
-2 Gideon Blackblade
+3 Fabled Passage
 3 Seasoned Hallowblade
-1 Temple of Triumph
+2 Satyr's Cunning
 1 Fire Prophecy
 1 History of Benalia
 2 Fire Prophecy
 2 History of Benalia
 3 History of Benalia
-4 Heroic Reinforcements
 4 History of Benalia
-1 Intangible Virtue
-2 Elesh Norn, Grand Cenobite
-2 Intangible Virtue
-3 Intangible Virtue
-4 Intangible Virtue
-1 Fabled Passage
-2 Fabled Passage
-1 Castle Embereth
-2 Satyr's Cunning
-6 Mountain
+1 Temple of Triumph
+1 Blood Crypt
+1 Thoughtseize
+1 Castle Locthwain
+1 Knight of the Ebon Legion
+1 Godless Shrine
+2 Blood Crypt
+2 Knight of the Ebon Legion
+2 Godless Shrine
+2 Thoughtseize
+3 Knight of the Ebon Legion
+3 Godless Shrine
+3 Thoughtseize
+4 Godless Shrine
+4 Thoughtseize
+4 Knight of the Ebon Legion
 3 Furycalm Snarl
 2 Infuriate
 3 Infuriate
 4 Infuriate
 3 Gird for Battle
 4 Gird for Battle
-3 Fabled Passage
+1 Castle Embereth
 1 Heart of Kiran
 2 Heart of Kiran
 2 Mila, Crafty Companion
 4 Seasoned Hallowblade
+2 Savai Triome
+1 Lightning Strike
+2 Lightning Strike
+1 Concealed Courtyard
+2 Concealed Courtyard
+3 Concealed Courtyard
+1 Kolaghan's Command
+1 Dragonskull Summit
+1 Sorin, Vengeful Bloodlord
+1 Vanishing Verse
+1 Dreadhorde Butcher
+2 Dragonskull Summit
+2 Kolaghan's Command
+2 Dreadhorde Butcher
+2 Sorin, Vengeful Bloodlord
+3 Blood Crypt
+3 Dreadhorde Butcher
+3 Dragonskull Summit
+4 Blood Crypt
+4 Dreadhorde Butcher
+4 Dragonskull Summit
 2 Cast Out
 1 Mind Stone
 1 Chandra, Awakened Inferno
@@ -158,39 +193,18 @@
 4 Mind Stone
 1 Lukka, Coppercoat Outcast
 2 Lukka, Coppercoat Outcast
+6 Mountain
 1 Justice Strike
+1 Servo Exhibition
+2 Servo Exhibition
 1 Valakut Awakening
 1 Dragon Fodder
 2 Dragon Fodder
 3 Dragon Fodder
-1 Craterhoof Behemoth
-2 Craterhoof Behemoth
-1 Indomitable Creativity
-2 Indomitable Creativity
-3 Indomitable Creativity
-2 Savai Triome
-1 Blood Crypt
-1 Thoughtseize
-1 Concealed Courtyard
 1 Angelheart Protector
-1 Castle Locthwain
-1 Knight of the Ebon Legion
-1 Godless Shrine
-2 Blood Crypt
-2 Knight of the Ebon Legion
-2 Godless Shrine
-2 Thoughtseize
-2 Concealed Courtyard
 3 Savai Triome
-3 Concealed Courtyard
-3 Knight of the Ebon Legion
-3 Godless Shrine
-3 Thoughtseize
 4 Glorybringer
 4 Savai Triome
-4 Godless Shrine
-4 Thoughtseize
-4 Knight of the Ebon Legion
 1 Grapeshot
 1 Anger of the Gods
 1 Hushbringer
@@ -204,16 +218,16 @@
 1 Kari Zev, Skyship Raider
 2 Hazoret the Fervent
 2 Kari Zev, Skyship Raider
-1 Alpine Meadow
-2 Alpine Meadow
-1 Servo Exhibition
+1 Brightclimb Pathway
+1 Isolated Chapel
+2 Isolated Chapel
+2 Brightclimb Pathway
+1 Indomitable Creativity
 1 Conclave Tribunal
 2 Justice Strike
-2 Servo Exhibition
 2 Valakut Awakening
-1 Lightning Strike
-2 Lightning Strike
-3 Lightning Strike
+2 Indomitable Creativity
+3 Indomitable Creativity
 1 Show of Confidence
 1 Shock
 1 Wind-Scarred Crag
@@ -223,6 +237,7 @@
 3 Shock
 3 Show of Confidence
 3 Wind-Scarred Crag
+3 Lightning Strike
 3 Samut's Sprint
 4 Samut's Sprint
 3 Chandra, Awakened Inferno
@@ -236,6 +251,14 @@
 2 You Find Some Prisoners
 3 You Find Some Prisoners
 4 You Find Some Prisoners
+1 Zariel, Archduke of Avernus
+1 You See a Pair of Goblins
+2 Zariel, Archduke of Avernus
+2 You See a Pair of Goblins
+3 Servo Exhibition
+4 Servo Exhibition
+2 Vanishing Verse
+4 Concealed Courtyard
 1 Rootbound Crag
 1 Dromoka's Command
 1 Abundant Harvest
@@ -247,9 +270,9 @@
 2 Abundant Harvest
 2 Stomping Ground
 2 Blossoming Defense
+2 Temple Garden
 2 Rootbound Crag
 2 Sunpetal Grove
-2 Temple Garden
 3 Dromoka's Command
 3 Abundant Harvest
 3 Stomping Ground
@@ -262,24 +285,14 @@
 4 Temple Garden
 4 Sunpetal Grove
 4 Dromoka's Command
-1 Settle the Wreckage
-1 Elspeth, Sun's Nemesis
-1 Abrade
-1 Cragcrown Pathway
-1 Branchloft Pathway
-1 Omen of the Sun
-1 Rally for the Throne
-2 Omen of the Sun
-2 Branchloft Pathway
-2 Rally for the Throne
-2 Cragcrown Pathway
-2 Castle Embereth
-3 Rally for the Throne
-3 Omen of the Sun
-4 Omen of the Sun
-4 Indomitable Creativity
+1 Ramunap Ruins
+2 Ramunap Ruins
+3 Ramunap Ruins
+4 Fabled Passage
 1 Shefet Dunes
+1 Craterhoof Behemoth
 2 Shefet Dunes
+2 Craterhoof Behemoth
 3 Shefet Dunes
 4 Dragon Fodder
 1 Den of the Bugbear

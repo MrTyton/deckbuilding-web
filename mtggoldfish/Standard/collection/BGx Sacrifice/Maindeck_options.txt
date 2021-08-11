@@ -1,49 +1,38 @@
 4 Temple of Malice
 1 Power Word Kill
-6 Swamp
 1 Kazuul's Fury
-1 Shatterskull Smashing
-2 Shatterskull Smashing
+6 Swamp
 1 Shambling Ghast
 2 Shambling Ghast
+1 Shatterskull Smashing
+2 Shatterskull Smashing
 2 Power Word Kill
 2 Den of the Bugbear
-5 Mountain
 1 Deadly Dispute
-4 Kroxa, Titan of Death's Hunger
-1 Agadeem's Awakening
+5 Mountain
 4 The Akroan War
 1 Kalain, Reclusive Painter
 2 Kalain, Reclusive Painter
 3 Kalain, Reclusive Painter
 4 Kalain, Reclusive Painter
-1 Tymaret Calls the Dead
-2 Tymaret Calls the Dead
+4 Kroxa, Titan of Death's Hunger
+1 Agadeem's Awakening
 3 Shambling Ghast
 1 Rankle, Master of Pranks
+1 Tymaret Calls the Dead
+2 Tymaret Calls the Dead
 3 Tymaret Calls the Dead
 3 Shatterskull Smashing
 4 Tymaret Calls the Dead
-1 Baleful Mastery
 6 Mountain
 4 Shambling Ghast
+1 Baleful Mastery
 4 Shatterskull Smashing
-1 Egon, God of Death
-2 Kazuul's Fury
-2 Deadly Dispute
-2 Agadeem's Awakening
 1 Bastion of Remembrance
 2 Bastion of Remembrance
-1 Darkbore Pathway
-1 Korvold, Fae-Cursed King
-1 Forest
-2 Darkbore Pathway
-2 Castle Locthwain
 1 Extus, Oriq Overlord
 2 Extus, Oriq Overlord
 3 Extus, Oriq Overlord
-1 Skyclave Shade
-2 Skyclave Shade
 1 Eyetwitch
 1 Serrated Scorpion
 2 Eyetwitch
@@ -54,10 +43,18 @@
 4 Eyetwitch
 4 Serrated Scorpion
 4 Bastion of Remembrance
+1 Egon, God of Death
+2 Deadly Dispute
+2 Kazuul's Fury
+1 Darkbore Pathway
+1 Korvold, Fae-Cursed King
+1 Forest
+2 Darkbore Pathway
 3 Deadly Dispute
 1 Mogis's Favor
 2 Rankle, Master of Pranks
 1 Murderous Rider
+2 Agadeem's Awakening
 2 Korvold, Fae-Cursed King
 3 Kazuul's Fury
 3 Korvold, Fae-Cursed King
@@ -68,23 +65,30 @@
 3 Cragcrown Pathway
 4 Darkbore Pathway
 4 Cragcrown Pathway
-1 Ebondeath, Dracolich
-2 Ebondeath, Dracolich
+2 Castle Locthwain
 1 Lolth, Spider Queen
 2 Lolth, Spider Queen
+1 Forbidden Friendship
+2 Forbidden Friendship
+3 Forbidden Friendship
+4 Forbidden Friendship
 7 Swamp
+1 Skyclave Shade
+2 Skyclave Shade
 1 Ox of Agonas
 1 Soul Shatter
 1 Feed the Swarm
 1 Kaervek, the Spiteful
-2 Murderous Rider
-1 Crippling Fear
-2 Crippling Fear
 1 Inscription of Ruin
 2 Inscription of Ruin
+2 Murderous Rider
+1 Ebondeath, Dracolich
+2 Ebondeath, Dracolich
+1 Crippling Fear
+2 Crippling Fear
 2 Egon, God of Death
-1 Pestilent Haze
 1 Shredded Sails
+1 Pestilent Haze
 1 Esika's Chariot
 1 Duress
 2 Pestilent Haze
@@ -92,6 +96,12 @@
 2 Esika's Chariot
 3 Den of the Bugbear
 3 Power Word Kill
+1 Needleverge Pathway
+1 Brightclimb Pathway
+1 Plumb the Forbidden
+2 Plumb the Forbidden
+2 Brightclimb Pathway
+3 Plumb the Forbidden
 1 Riverglide Pathway
 1 Clearwater Pathway
 2 Riverglide Pathway
@@ -111,29 +121,14 @@
 2 Prosperous Innkeeper
 3 Prosperous Innkeeper
 4 Prosperous Innkeeper
-1 Brightclimb Pathway
-1 Forbidden Friendship
-1 Plumb the Forbidden
-1 Needleverge Pathway
-2 Brightclimb Pathway
-2 Plumb the Forbidden
-2 Forbidden Friendship
-3 Plumb the Forbidden
-3 Forbidden Friendship
-4 Forbidden Friendship
-1 Spikefield Hazard
-1 Hagra Mauling
-1 Terror of the Peaks
-2 Hagra Mauling
-2 Baleful Mastery
-2 Spikefield Hazard
-2 Terror of the Peaks
-3 Terror of the Peaks
+1 Evolving Wilds
+1 Bloodfell Caves
+2 Bloodfell Caves
+2 Evolving Wilds
 7 Mountain
-8 Mountain
 8 Swamp
-9 Mountain
-10 Mountain
+9 Swamp
+10 Swamp
 1 Snow-Covered Swamp
 1 Hunt for Specimens
 1 Vito, Thorn of the Dusk Rose
@@ -142,12 +137,12 @@
 2 Hunt for Specimens
 2 Vito, Thorn of the Dusk Rose
 2 Faceless Haven
-3 Snow-Covered Swamp
 3 Faceless Haven
+3 Snow-Covered Swamp
 3 Skyclave Shade
 3 Vito, Thorn of the Dusk Rose
-4 Snow-Covered Swamp
 4 Faceless Haven
+4 Snow-Covered Swamp
 4 Vito, Thorn of the Dusk Rose
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
