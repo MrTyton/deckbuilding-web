@@ -31,6 +31,6 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|-------------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    2|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)|                     |              |
 |                   26|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)   |                     |              |
+|                    2|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)|                     |              |
 

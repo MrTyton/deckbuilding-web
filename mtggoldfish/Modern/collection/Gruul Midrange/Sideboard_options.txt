@@ -1,12 +1,11 @@
 2 Pillage
-1 Ancient Grudge
-1 Plummet
-2 Ancient Grudge
-2 Plummet
 2 Endurance
 1 Obstinate Baloth
 2 Obstinate Baloth
-2 Fracturing Gust
+1 Plummet
+2 Plummet
+1 Ancient Grudge
+2 Ancient Grudge
 1 Torpor Orb
 1 Kitchen Finks
 1 Pithing Needle
@@ -15,13 +14,14 @@
 1 Elixir of Immortality
 1 Trinisphere
 1 Flame Slash
+2 Fracturing Gust
 1 Magus of the Moon
 3 Pillage
 1 Grafdigger's Cage
-1 Batterskull
-1 Collector Ouphe
-2 Magus of the Moon
 3 Endurance
+1 Collector Ouphe
+1 Batterskull
+2 Magus of the Moon
 2 Collector Ouphe
 3 Relic of Progenitus
 1 Abrade
@@ -51,8 +51,6 @@
 1 Force of Vigor
 1 Skysovereign, Consul Flagship
 2 Flame Slash
-1 Weather the Storm
-2 Weather the Storm
 1 Cindervines
 2 Cindervines
 1 Shattering Spree
@@ -60,13 +58,14 @@
 2 Fury
 1 Run Afoul
 2 Run Afoul
-1 Thragtusk
-1 Chandra, Torch of Defiance
-1 Tireless Tracker
-2 Tireless Tracker
 1 Boil
+1 Weather the Storm
+2 Weather the Storm
 2 Boil
 2 Force of Vigor
+1 Huntmaster of the Fells
+1 Deglamer
+2 Deglamer
 1 Elder Gargaroth
 2 Elder Gargaroth
 1 Choke

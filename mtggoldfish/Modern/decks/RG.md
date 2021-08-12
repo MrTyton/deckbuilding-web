@@ -1,0 +1,48 @@
+# RG
+
+#### [Export MTGO List](../collection/RG/RG.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bala%20Ged%20Recovery%0A3%09Blood%20Moon%0A4%09Desperate%20Ritual%0A4%09Goblin%20Charbelcher%0A4%09Indomitable%20Creativity%0A4%09Irencrag%20Feat%0A4%09Manamorphose%0A1%09Pact%20of%20Negation%0A4%09Pyretic%20Ritual%0A4%09Sea%20Gate%20Restoration%0A4%09Shatterskull%20Smashing%0A4%09Spikefield%20Hazard%0A4%09Strike%20It%20Rich%0A4%09Turntimber%20Symbiosis%0A4%09Valakut%20Awakening%0A4%09You%20Find%20a%20Cursed%20Idol&deckside=3%09Force%20of%20Vigor%0A4%09Leyline%20of%20Sanctity%0A3%09Lightning%20Bolt%0A3%09Pact%20of%20Negation%0A2%09Veil%20of%20Summer)
+# Maindeck
+
+|                                         Artifact (4)                                          |                                   Enchantment (3)                                    |                                         Instant (21)                                         |                                           Sorcery (32)                                            |
+|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+|4 [Goblin Charbelcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438497)|3 [Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)|4 [Desperate Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=80275)  |4 [Bala Ged Recovery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491825)     |
+|                                                                                               |                                                                                      |4 [Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)     |4 [Indomitable Creativity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423752)|
+|                                                                                               |                                                                                      |1 [Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057) |4 [Irencrag Feat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473089)         |
+|                                                                                               |                                                                                      |4 [Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)   |4 [Sea Gate Restoration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491706)  |
+|                                                                                               |                                                                                      |4 [Spikefield Hazard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491809)|4 [Shatterskull Smashing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491802) |
+|                                                                                               |                                                                                      |4 [Valakut Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491818)|4 [Strike It Rich](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522219)        |
+|                                                                                               |                                                                                      |                                                                                              |4 [Turntimber Symbiosis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491864)  |
+|                                                                                               |                                                                                      |                                                                                              |4 [You Find a Cursed Idol](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527500)|
+
+
+# Sideboard
+
+|                                        Enchantment (4)                                         |                                        Instant (11)                                         |
+|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+|4 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|3 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)  |
+|                                                                                                |3 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)     |
+|                                                                                                |3 [Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)|
+|                                                                                                |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)  |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    2|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057) |                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)           |
+|                    1|[Akoum Warrior](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491773)    |                    1|[Blightsteel Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=221563)|
+|                    1|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)    |                    1|[Flame Blitz](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522200)         |
+|                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)      |                    2|[Flame Blitz](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522200)         |
+|                    2|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)    |                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)   |
+|                    3|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)    |                    1|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)      |
+|                    4|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)    |                    4|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)    |
+|                    4|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)        |                     |                                                                                               |
+|                    1|[Ornithopter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129665)      |                     |                                                                                               |
+|                    1|[Recross the Paths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152874)|                     |                                                                                               |
+|                    1|[Infernal Plunge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235603)  |                     |                                                                                               |
+|                    1|[Reforge the Soul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278256) |                     |                                                                                               |
+|                    2|[Recross the Paths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152874)|                     |                                                                                               |
+|                    3|[Recross the Paths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152874)|                     |                                                                                               |
+|                    4|[Recross the Paths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152874)|                     |                                                                                               |
+

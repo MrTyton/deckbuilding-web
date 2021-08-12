@@ -4,13 +4,12 @@
 2 Wear/Tear
 1 Massacre
 1 Assassin's Trophy
+1 Archetype of Endurance
 3 Serenity
 2 Assassin's Trophy
-1 Archetype of Endurance
 2 Massacre
 3 Wear/Tear
 1 Hymn to Tourach
-4 Wear/Tear
 1 Show and Tell
 2 Show and Tell
 3 Show and Tell
@@ -18,14 +17,19 @@
 2 Pithing Needle
 3 Pithing Needle
 2 Faerie Macabre
+4 Wear/Tear
 1 Archon of Cruelty
 1 Magus of the Moon
 1 Dawnglade Regent
 1 Silence
 2 Silence
 3 Silence
+1 Fatal Push
+2 Fatal Push
 3 Faerie Macabre
 1 Unmask
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
 1 Platinum Emperion
 1 Dream Trawler
 1 Island
@@ -33,26 +37,22 @@
 2 Profane Tutor
 3 Profane Tutor
 4 Profane Tutor
-1 Duress
-2 Duress
 1 Grave Titan
 1 Thoughtseize
-1 Fatal Push
-2 Fatal Push
+1 Abrade
 1 Surgical Extraction
 2 Surgical Extraction
-1 Abrade
 1 Reanimate
-1 Sedgemoor Witch
 1 Cling to Dust
 1 Akroma, Angel of Fury
 1 Collective Brutality
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-1 Lake of the Dead
-2 Grave Titan
 1 Crime/Punishment
 2 Crime/Punishment
+1 Sedgemoor Witch
+1 Duress
+2 Duress
+1 Lake of the Dead
+2 Grave Titan
 1 Rip Apart
 1 Engineered Explosives
 2 Coffin Purge
@@ -65,9 +65,9 @@
 1 Inkwell Leviathan
 3 Surgical Extraction
 1 Soul-Guide Lantern
-1 Flusterstorm
-1 Plague Engineer
 1 Pyroblast
+1 Plague Engineer
+1 Flusterstorm
 1 Brazen Borrower
 1 Null Rod
 2 Plague Engineer
@@ -91,7 +91,5 @@
 3 Scroll of Fate
 4 Phyrexian Dreadnought
 4 Torpor Orb
-1 Leyline of the Void
-2 Leyline of the Void
-3 Leyline of the Void
-4 Leyline of the Void
+3 Ragavan, Nimble Pilferer
+4 Ragavan, Nimble Pilferer
