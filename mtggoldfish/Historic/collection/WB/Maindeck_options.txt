@@ -1,6 +1,6 @@
-1 Vanishing Verse
-2 Castle Locthwain
+4 Swamp
 5 Swamp
+1 Vanishing Verse
 2 Vanishing Verse
 3 Ifnir Deadlands
 4 Ifnir Deadlands
@@ -11,10 +11,10 @@
 3 Blood Crypt
 4 Blood Crypt
 1 Fabled Passage
-1 Shock
-1 Mountain
 1 Footfall Crater
+1 Mountain
 1 Kroxa, Titan of Death's Hunger
+1 Shock
 1 Blightstep Pathway
 1 Ramunap Ruins
 2 Fabled Passage
@@ -25,14 +25,16 @@
 3 Footfall Crater
 4 Blightstep Pathway
 1 Lurrus of the Dream-Den
-1 Shefet Dunes
+1 Dire Tactics
 2 Shock
 2 Kroxa, Titan of Death's Hunger
 4 Footfall Crater
-1 Dire Tactics
-3 Shock
+1 Shefet Dunes
 2 Dire Tactics
-1 Plains
+3 Shock
+1 Silverquill Silencer
+2 Silverquill Silencer
+3 Silverquill Silencer
 4 Shock
 3 Kroxa, Titan of Death's Hunger
 4 Kroxa, Titan of Death's Hunger
@@ -40,88 +42,56 @@
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
+1 Bloodchief's Thirst
+2 Emeria's Call
+2 Ramunap Ruins
+2 Mountain
+4 Silverquill Silencer
+1 Plains
+1 Cling to Dust
+2 Shefet Dunes
 1 Elite Spellbinder
 2 Elite Spellbinder
 3 Elite Spellbinder
-1 Silverquill Silencer
-2 Silverquill Silencer
-3 Silverquill Silencer
-1 Bloodchief's Thirst
-2 Ramunap Ruins
-2 Mountain
+1 Selfless Savior
+3 Emeria's Call
+4 Emeria's Call
+2 Bloodchief's Thirst
+1 Kolaghan's Command
+1 Mana Tithe
 1 Skyclave Apparition
 2 Skyclave Apparition
 3 Skyclave Apparition
-2 Emeria's Call
-2 Shefet Dunes
-4 Elite Spellbinder
-1 Thalia, Guardian of Thraben
-2 Thalia, Guardian of Thraben
-4 Skyclave Apparition
-1 Blinkmoth Nexus
-1 Archon of Emeria
-1 Reidane, God of the Worthy
-2 Blinkmoth Nexus
-2 Archon of Emeria
-2 Plains
-3 Thalia, Guardian of Thraben
-3 Blinkmoth Nexus
-4 Blinkmoth Nexus
-4 Silverquill Silencer
-2 Bloodchief's Thirst
-1 Castle Ardenvale
-2 Reidane, God of the Worthy
-1 Selfless Savior
-1 Glint-Sleeve Siphoner
-2 Glint-Sleeve Siphoner
-3 Glint-Sleeve Siphoner
-4 Thalia, Guardian of Thraben
-4 Glint-Sleeve Siphoner
-1 Kolaghan's Command
-1 Ajani, Adversary of Tyrants
-1 Savai Triome
-2 Castle Ardenvale
-2 Savai Triome
-2 Ajani, Adversary of Tyrants
-1 Mana Tithe
-1 Cling to Dust
-3 Emeria's Call
-4 Emeria's Call
-1 Sejiri Shelter
-1 Alseid of Life's Bounty
-2 Mana Tithe
-1 Fling
 1 Silverquill Command
+1 Sejiri Shelter
+2 Mana Tithe
+2 Selfless Savior
+2 Faerie Guidemother
+3 Selfless Savior
+3 Dire Tactics
+1 Fling
 1 Sacred Foundry
 2 Sacred Foundry
 2 Fling
 2 Silverquill Command
 3 Sacred Foundry
 4 Sacred Foundry
-1 Isolated Chapel
-1 Paladin Class
-1 Aether Hub
-1 Cave of the Frost Dragon
-1 Hive of the Eye Tyrant
-1 Loyal Warhound
-1 Ghost Quarter
-2 Paladin Class
-2 Selfless Savior
-2 Hive of the Eye Tyrant
-2 Loyal Warhound
-3 Loyal Warhound
-3 Paladin Class
-3 Selfless Savior
-3 Archon of Emeria
-3 Plains
-4 Paladin Class
-4 Plains
-4 Selfless Savior
-4 Archon of Emeria
+1 Thalia, Guardian of Thraben
 1 Dead Weight
+2 Thalia, Guardian of Thraben
 2 Dead Weight
 3 Shefet Dunes
 4 Shefet Dunes
+1 Alseid of Life's Bounty
+4 Skyclave Apparition
+4 Elite Spellbinder
+1 Demonic Embrace
+1 Feed the Swarm
+1 Duress
+2 Feed the Swarm
+2 Demonic Embrace
+2 Duress
+6 Swamp
 1 Cast Down
 1 Heartless Act
 1 Thraben Inspector
@@ -130,17 +100,3 @@
 2 Thraben Inspector
 3 Thraben Inspector
 4 Thraben Inspector
-1 Demonic Embrace
-1 Feed the Swarm
-1 Duress
-2 Feed the Swarm
-2 Demonic Embrace
-2 Duress
-6 Swamp
-1 Maul of the Skyclaves
-1 Baneslayer Angel
-1 Luminarch Aspirant
-2 Maul of the Skyclaves
-2 Luminarch Aspirant
-3 Luminarch Aspirant
-4 Luminarch Aspirant

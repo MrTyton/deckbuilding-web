@@ -61,8 +61,9 @@
 3 Plains
 3 Shark Typhoon
 3 Force of Negation
-1 Mox Diamond
+4 Volcanic Island
 1 Tranquil Thicket
+1 Mox Diamond
 1 Blast Zone
 1 Aether Spellbomb
 1 Lonely Sandbar
@@ -71,13 +72,12 @@
 2 Life from the Loam
 3 Mox Diamond
 3 Life from the Loam
-4 Uro, Titan of Nature's Wrath
 4 Mox Diamond
+4 Uro, Titan of Nature's Wrath
 1 Timeless Dragon
 1 Brainstone
 1 Thespian's Stage
 4 Prismatic Ending
-4 Volcanic Island
 2 Retrofitter Foundry
 4 Tundra
 1 Dragon's Rage Channeler
@@ -101,30 +101,30 @@
 4 Prismatic Vista
 1 Waterlogged Grove
 1 Mutavault
-1 Rishadan Dockhand
+1 Tide Shaper
 1 Misdirection
 1 Silvergill Adept
 1 Aether Vial
 1 Svyelun of Sea and Sky
+1 Rishadan Dockhand
 1 Master of the Pearl Trident
 1 Lord of Atlantis
-1 Tide Shaper
-2 Rishadan Dockhand
+2 Mutavault
 2 Silvergill Adept
 2 Svyelun of Sea and Sky
+2 Rishadan Dockhand
 2 Master of the Pearl Trident
 2 Lord of Atlantis
 2 Tide Shaper
-2 Mutavault
 2 Aether Vial
 3 Snow-Covered Island
-3 Rishadan Dockhand
+3 Mutavault
 3 Silvergill Adept
 3 Lord of Atlantis
 3 Master of the Pearl Trident
 3 Tide Shaper
-3 Mutavault
 3 Aether Vial
+3 Rishadan Dockhand
 3 Svyelun of Sea and Sky
 4 Snow-Covered Island
 4 Rishadan Dockhand
@@ -133,7 +133,6 @@
 4 Master of the Pearl Trident
 4 Tide Shaper
 4 Silvergill Adept
-4 Mutavault
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island
@@ -142,3 +141,4 @@
 10 Snow-Covered Island
 11 Snow-Covered Island
 12 Snow-Covered Island
+4 Mutavault

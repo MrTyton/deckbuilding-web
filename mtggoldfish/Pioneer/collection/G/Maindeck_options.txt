@@ -1,5 +1,7 @@
+1 Rhonas the Indomitable
+1 Collected Company
+2 Collected Company
 3 Collected Company
-1 Lair of the Hydra
 1 Yorvo, Lord of Garenbrig
 2 Hashep Oasis
 4 Collected Company
@@ -15,32 +17,31 @@
 2 Werewolf Pack Leader
 3 Werewolf Pack Leader
 4 Werewolf Pack Leader
+1 Vorinclex, Monstrous Raider
+2 Vorinclex, Monstrous Raider
+3 Vorinclex, Monstrous Raider
+3 Castle Garenbrig
 3 The Great Henge
 1 Primal Might
 2 Primal Might
 2 Rhonas the Indomitable
 15 Forest
 2 Yorvo, Lord of Garenbrig
-4 Nykthos, Shrine to Nyx
-1 Llanowar Visionary
-1 Vorinclex, Monstrous Raider
-2 Vorinclex, Monstrous Raider
-3 Vorinclex, Monstrous Raider
-3 Castle Garenbrig
+2 Llanowar Visionary
+3 Llanowar Visionary
+4 Castle Garenbrig
 4 Nissa, Who Shakes the World
 3 Old-Growth Troll
 4 Old-Growth Troll
 3 Primal Might
 4 Primal Might
-2 Llanowar Visionary
-3 Llanowar Visionary
-4 Castle Garenbrig
 1 Aspect of Hydra
 2 Aspect of Hydra
-3 Aspect of Hydra
-4 Aspect of Hydra
 1 Ranger Class
 2 Ranger Class
+3 Aspect of Hydra
+4 Aspect of Hydra
+3 Ranger Class
 1 Ghalta, Primal Hunger
 1 Barkhide Troll
 2 Barkhide Troll
@@ -56,14 +57,14 @@
 4 Botanical Sanctum
 4 Barkchannel Pathway
 4 Breeding Pool
+1 Brazen Borrower
 1 Glasspool Mimic
 1 Entrancing Melody
 1 Dragon Turtle
+1 Gadwick, the Wizened
 1 Unsummon
-1 Brazen Borrower
 1 Island
 1 Silumgar's Scorn
-1 Gadwick, the Wizened
 1 Mutavault
 1 Omen of the Sea
 2 Brazen Borrower
@@ -75,17 +76,17 @@
 2 Silumgar's Scorn
 2 Unsummon
 2 Gadwick, the Wizened
+3 Island
 3 Entrancing Melody
 3 Gadwick, the Wizened
 3 Brazen Borrower
 3 Dragon Turtle
 3 Unsummon
-3 Island
 3 Silumgar's Scorn
 3 Mutavault
+4 Island
 4 Brazen Borrower
 4 Entrancing Melody
-4 Island
 4 Dragon Turtle
 4 Gadwick, the Wizened
 4 Mutavault
@@ -100,16 +101,15 @@
 3 Wolfwillow Haven
 4 Karn, the Great Creator
 4 Wolfwillow Haven
-3 Ranger Class
 1 Yavimaya Coast
 2 Yavimaya Coast
 3 Yavimaya Coast
-1 Master of Waves
 1 Risen Reef
-2 Master of Waves
+1 Master of Waves
 2 Risen Reef
-3 Master of Waves
+2 Master of Waves
 3 Risen Reef
+3 Master of Waves
 4 Risen Reef
 1 Stubborn Denial
 2 Stubborn Denial
@@ -157,24 +157,24 @@
 4 Overwhelmed Apprentice
 4 Wizard's Retort
 4 Sidisi's Faithful
-1 Harbinger of the Tides
-1 Castle Vantress
 1 Leyline of Anticipation
 1 Iymrith, Desert Doom
 1 Shark Typhoon
 1 Ashiok's Erasure
-2 Harbinger of the Tides
+1 Castle Vantress
+1 Harbinger of the Tides
 2 Leyline of Anticipation
 2 Iymrith, Desert Doom
 2 Ashiok's Erasure
-3 Harbinger of the Tides
+2 Harbinger of the Tides
 3 Leyline of Anticipation
 3 Glasspool Mimic
+3 Harbinger of the Tides
 3 Ashiok's Erasure
-4 Harbinger of the Tides
 4 Leyline of Anticipation
 4 Glasspool Mimic
 4 Ashiok's Erasure
+4 Harbinger of the Tides
 11 Island
 12 Island
 13 Island
@@ -189,10 +189,10 @@
 22 Island
 23 Island
 24 Island
-1 Opt
-2 Opt
 1 Decisive Denial
 2 Decisive Denial
+1 Opt
+2 Opt
 1 Surrak, the Hunt Caller
 2 Surrak, the Hunt Caller
 3 Ghalta, Primal Hunger
@@ -202,6 +202,8 @@
 3 Vivien Reid
 4 The Great Henge
 4 Lair of the Hydra
+3 Stubborn Denial
+4 Stubborn Denial
 1 Urborg, Tomb of Yawgmoth
 1 Assassin's Trophy
 1 Tangled Florahedron
@@ -213,8 +215,6 @@
 3 Assassin's Trophy
 3 Lovestruck Beast
 4 Lovestruck Beast
-3 Stubborn Denial
-4 Stubborn Denial
 1 Turntimber Symbiosis
 1 Avatar of the Resolute
 1 Experiment One

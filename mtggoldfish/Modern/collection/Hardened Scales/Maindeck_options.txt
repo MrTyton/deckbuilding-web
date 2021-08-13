@@ -1,14 +1,12 @@
 4 Forest
 4 Grove of the Burnwillows
 1 Phyrexia's Core
-1 Blinkmoth Nexus
 3 Llanowar Reborn
 1 Pithing Needle
+1 Blinkmoth Nexus
 1 Power Conduit
-1 Stomping Ground
 1 Goblin Bombardment
-1 Horizon Canopy
-5 Forest
+1 Stomping Ground
 1 Branchloft Pathway
 1 Razorverge Thicket
 2 Razorverge Thicket
@@ -20,26 +18,31 @@
 2 Brushland
 3 Brushland
 4 Brushland
-1 Copperline Gorge
-1 Snow-Covered Forest
-2 Copperline Gorge
-2 Snow-Covered Forest
-3 Copperline Gorge
+5 Forest
 1 Esper Sentinel
 2 Esper Sentinel
 2 Branchloft Pathway
 3 Esper Sentinel
 3 Branchloft Pathway
 4 Branchloft Pathway
-2 Welding Jar
+1 Horizon Canopy
 1 Plains
+2 Welding Jar
+1 Copperline Gorge
+1 Snow-Covered Forest
+2 Copperline Gorge
+2 Snow-Covered Forest
+3 Copperline Gorge
 3 Welding Jar
+1 Sacred Foundry
+2 Plains
 1 Spire of Industry
+1 Portable Hole
+1 Blooming Marsh
 1 Fatal Push
 1 Overgrown Tomb
 1 Blood Crypt
 1 Swamp
-1 Blooming Marsh
 1 Verdant Catacombs
 1 Thoughtseize
 2 Fatal Push
@@ -48,10 +51,10 @@
 2 Verdant Catacombs
 2 Overgrown Tomb
 3 Verdant Catacombs
+3 Blooming Marsh
 3 Fatal Push
 3 Thoughtseize
 3 Overgrown Tomb
-3 Blooming Marsh
 4 Thoughtseize
 4 Verdant Catacombs
 4 Fatal Push
@@ -62,11 +65,8 @@
 1 Urborg, Tomb of Yawgmoth
 4 Welding Jar
 1 Yavimaya, Cradle of Growth
-1 Sacred Foundry
-2 Plains
 1 Temple Garden
 3 Razorverge Thicket
-1 Portable Hole
 1 Vines of Vastwood
 1 Expedition Map
 2 Ranger Class
@@ -80,8 +80,8 @@
 1 Windswept Heath
 2 Wooded Foothills
 2 Windswept Heath
-3 Windswept Heath
 3 Wooded Foothills
+3 Windswept Heath
 4 Windswept Heath
 1 Mishra's Bauble
 2 Mishra's Bauble

@@ -34,13 +34,13 @@
 1 Noble Hierarch
 1 Stirring Wildwood
 1 Forest
-2 Razorverge Thicket
-2 Branchloft Pathway
 2 Temple Garden
-2 Stirring Wildwood
+2 Branchloft Pathway
 2 Noble Hierarch
-3 Razorverge Thicket
+2 Stirring Wildwood
+2 Razorverge Thicket
 3 Noble Hierarch
+3 Razorverge Thicket
 4 Razorverge Thicket
 4 Noble Hierarch
 1 Snow-Covered Plains
@@ -56,8 +56,8 @@
 14 Plains
 1 Emeria's Call
 2 Emeria's Call
-3 Restoration Angel
 3 Emeria's Call
+3 Restoration Angel
 4 Emeria's Call
 1 On Thin Ice
 2 On Thin Ice
@@ -69,10 +69,10 @@
 3 Charming Prince
 1 Elite Spellbinder
 2 Elite Spellbinder
-1 Gavony Township
 1 Collected Company
-2 Forest
+1 Gavony Township
 2 Collected Company
+2 Forest
 3 Collected Company
 1 Flagstones of Trokair
 1 Cave of the Frost Dragon
@@ -107,21 +107,21 @@
 2 Shefet Dunes
 3 Elite Spellbinder
 4 Elite Spellbinder
-1 Aven Mindcensor
 1 Oath of Nissa
-2 Aven Mindcensor
+1 Aven Mindcensor
 2 Oath of Nissa
+2 Aven Mindcensor
+3 Oath of Nissa
 3 Branchloft Pathway
 3 Temple Garden
-3 Oath of Nissa
+4 Oath of Nissa
 4 Branchloft Pathway
 4 Temple Garden
-4 Oath of Nissa
 1 Skyclave Cleric
-1 Thraben Inspector
 1 Ephemerate
-2 Thraben Inspector
+1 Thraben Inspector
 2 Ephemerate
+2 Thraben Inspector
 2 Skyclave Cleric
 3 Thraben Inspector
 4 Restoration Angel
@@ -145,28 +145,28 @@
 3 Tithe Taker
 4 Sanctum Prelate
 4 Tithe Taker
-1 Ragavan, Nimble Pilferer
-1 Prismatic Vista
-1 Magus of the Moon
 1 Kiki-Jiki, Mirror Breaker
-1 Arid Mesa
-1 Mountain
-1 Rugged Prairie
-1 Lightning Bolt
-1 Needleverge Pathway
-1 Windswept Heath
 1 Felidar Guardian
-2 Ragavan, Nimble Pilferer
+1 Rugged Prairie
+1 Prismatic Vista
+1 Needleverge Pathway
+1 Mountain
+1 Lightning Bolt
+1 Ragavan, Nimble Pilferer
+1 Magus of the Moon
+1 Arid Mesa
+1 Windswept Heath
 2 Prismatic Vista
-2 Windswept Heath
+2 Needleverge Pathway
 2 Lightning Bolt
+2 Ragavan, Nimble Pilferer
+2 Windswept Heath
 2 Arid Mesa
 2 Mountain
-2 Needleverge Pathway
 3 Sacred Foundry
+3 Lightning Bolt
 3 Ragavan, Nimble Pilferer
 3 Needleverge Pathway
-3 Lightning Bolt
 3 Arid Mesa
 4 Ragavan, Nimble Pilferer
 4 Lightning Bolt

@@ -1,101 +1,56 @@
-1 Doom Foretold
-1 Trial of Ambition
-1 Omen of the Sea
-2 Omen of the Sea
-2 Thoughtseize
-2 Doom Foretold
-2 Irrigated Farmland
-2 Trial of Ambition
-2 Fetid Pools
-3 Omen of the Sea
-3 Thoughtseize
-3 Trial of Ambition
-3 Doom Foretold
-4 Omen of the Sea
-4 Doom Foretold
-4 Thoughtseize
-1 Fatal Push
-2 Fatal Push
-1 Elspeth Conquers Death
-2 Kaya, Orzhov Usurper
-3 Vanishing Verse
-4 Narset, Parter of Veils
-1 Bojuka Bog
-1 Ashiok, Nightmare Muse
-3 Saw It Coming
-1 Fabled Passage
-2 Heartless Act
-1 Day of Judgment
-1 Extinction Event
-1 Yorion, Sky Nomad
-1 Demonic Pact
-2 Yorion, Sky Nomad
-2 Demonic Pact
-3 Yorion, Sky Nomad
-3 Demonic Pact
-4 Demonic Pact
-4 Vanishing Verse
-4 Saw It Coming
-2 Plains
-2 Island
 3 Island
-1 Dream Trawler
-1 Savai Triome
-1 Bloodchief's Thirst
-2 Bloodchief's Thirst
+3 Doomskar
+4 Glacial Fortress
 1 Behold the Multiverse
-1 Field of Ruin
-1 Baffling End
+1 Fabled Passage
 3 Teferi, Hero of Dominaria
+1 Liliana, Dreadhorde General
+2 Bojuka Bog
+1 Plains
 3 Shark Typhoon
-2 Behold the Multiverse
-4 Island
+1 Swamp
 2 Fabled Passage
 3 Fabled Passage
 4 Fabled Passage
-4 Trial of Ambition
-3 Doomskar
-2 Baffling End
-2 Field of Ruin
+4 Island
+2 Behold the Multiverse
 1 Absorb
-2 Wrath of God
-1 Liliana, Dreadhorde General
-2 Bojuka Bog
+1 Kaya, Orzhov Usurper
 1 Memory Lapse
-3 Plains
+1 Commit/Memory
+1 Vanishing Verse
+2 Vanishing Verse
 2 Absorb
 3 Absorb
 1 Torrential Gearhulk
 2 Swamp
 2 Torrential Gearhulk
-2 Memory Lapse
 2 Search for Azcanta
-1 Castle Locthwain
-1 Zagoth Triome
-1 Indatha Triome
-2 Extinction Event
-2 Indatha Triome
-2 Zagoth Triome
-2 Castle Ardenvale
-3 Kaya, Orzhov Usurper
-1 Flicker of Fate
-3 Fetid Pools
+2 Memory Lapse
+2 Plains
+3 Plains
 1 Censor
+1 Field of Ruin
 1 Sublime Epiphany
 2 Censor
 4 Shark Typhoon
+1 Baffling End
+1 Wrath of God
+2 Wrath of God
 4 Teferi, Hero of Dominaria
 5 Island
 1 Temple of Enlightenment
 1 Temple Garden
-1 Ugin, the Spirit Dragon
 1 Banishing Light
+1 Ugin, the Spirit Dragon
 1 Breeding Pool
+1 Savai Triome
+1 Relic of Progenitus
 1 Commence the Endgame
 1 Chainer's Edict
-1 Relic of Progenitus
 1 Kaya's Wrath
 1 Supreme Will
+2 Kaya, Orzhov Usurper
 2 Kaya's Wrath
 2 Chainer's Edict
 2 Supreme Will
@@ -106,65 +61,59 @@
 1 Rest in Peace
 2 Cleansing Nova
 2 Chemister's Insight
+1 Fetid Pools
+1 Cling to Dust
+1 Negate
 1 Languish
 1 Hieroglyphic Illumination
 1 Blast Zone
-1 Cling to Dust
-1 Negate
+1 Castle Locthwain
 1 Vraska's Contempt
 2 Languish
-2 Sublime Epiphany
-2 Blast Zone
 2 Shadows' Verdict
+2 Sublime Epiphany
+2 Field of Ruin
+2 Blast Zone
 3 Swamp
+3 Censor
 3 Shadows' Verdict
 3 Fatal Push
 3 Torrential Gearhulk
-3 Censor
-1 Scoured Barrens
 1 Dismal Backwater
 1 Ice Tunnel
+1 Scoured Barrens
 1 Tranquil Cove
 1 Glacial Floodplain
 1 Snowfield Sinkhole
-2 Scoured Barrens
 2 Ice Tunnel
+2 Scoured Barrens
 2 Dismal Backwater
 2 Snowfield Sinkhole
 2 Glacial Floodplain
-3 Behold the Multiverse
-3 Dismal Backwater
 3 Ice Tunnel
+3 Behold the Multiverse
 3 Baleful Mastery
+3 Vanishing Verse
+3 Dismal Backwater
 3 Snowfield Sinkhole
 3 Scoured Barrens
 4 Absorb
+4 Narset, Parter of Veils
 4 Snowfield Sinkhole
 4 Scoured Barrens
-1 Legion's End
-1 Dance of the Manse
-1 Idyllic Tutor
-1 Authority of the Consuls
-2 Dance of the Manse
-2 Authority of the Consuls
-2 Idyllic Tutor
-3 Dance of the Manse
-3 Wrath of God
-3 Authority of the Consuls
-4 Authority of the Consuls
-4 Wrath of God
 1 Growth Spiral
-1 Shatter the Sky
-1 Forest
-1 Temple of Mystery
 1 Koma, Cosmos Serpent
+1 Shatter the Sky
 1 Sinister Sabotage
+1 Forest
 1 Archway Commons
 1 Temple of Plenty
 1 Wolfwillow Haven
 1 Cultivate
 1 Hydroid Krasis
+1 Temple of Mystery
 2 Growth Spiral
+2 Sinister Sabotage
 2 Temple of Enlightenment
 2 Banishing Light
 2 Elspeth Conquers Death
@@ -174,31 +123,30 @@
 2 Hydroid Krasis
 2 Wolfwillow Haven
 2 Cultivate
-2 Sinister Sabotage
 2 Temple of Mystery
 3 Growth Spiral
-3 Forest
 3 Sinister Sabotage
+3 Forest
 4 Growth Spiral
 4 Forest
 5 Forest
 1 Cast Out
+1 Mana Tithe
 1 Sea Gate Restoration
 1 Alrund's Epiphany
 1 Gates of Istfell
+1 Neutralize
 1 Hengegate Pathway
 1 Teferi, Master of Time
-1 Lonely Sandbar
-1 Mana Tithe
 1 Kiora Bests the Sea God
-1 Neutralize
+1 Lonely Sandbar
 1 Dovin's Veto
 1 Barkchannel Pathway
+2 Mana Tithe
 2 Alrund's Epiphany
 2 Cast Out
-2 Mana Tithe
-2 Castle Vantress
 2 Neutralize
+2 Castle Vantress
 2 Dovin's Veto
 2 Lonely Sandbar
 3 Castle Vantress
@@ -209,17 +157,20 @@
 1 Brightclimb Pathway
 1 Dragon Turtle
 1 Seal Away
+1 Day of Judgment
 2 Clearwater Pathway
 2 Brightclimb Pathway
 2 Dragon Turtle
+2 Baffling End
 3 Memory Lapse
+3 Brightclimb Pathway
 3 Dragon Turtle
 3 Heartless Act
-3 Brightclimb Pathway
 3 Bloodchief's Thirst
 4 Memory Lapse
 4 Dragon Turtle
-4 Bloodchief's Thirst
 4 Heartless Act
+4 Bloodchief's Thirst
 6 Island
 7 Island
+4 Isolated Chapel

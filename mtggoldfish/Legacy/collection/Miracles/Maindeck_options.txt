@@ -1,29 +1,29 @@
 3 Snow-Covered Island
 1 Misty Rainforest
+1 Mountain
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
-1 Tropical Island
-1 Sylvan Library
 2 Misty Rainforest
 3 Uro, Titan of Nature's Wrath
 3 Misty Rainforest
-1 Mountain
+1 Tropical Island
+1 Sylvan Library
 1 Endurance
 1 Karakas
+4 Misty Rainforest
 2 Tropical Island
 3 Terminus
-4 Misty Rainforest
-2 Endurance
+5 Island
 2 Scalding Tarn
 1 Shark Typhoon
+2 Endurance
 1 Snow-Covered Forest
-5 Island
 1 Savannah
 2 Snow-Covered Forest
-1 Dress Down
 1 Abundant Harvest
-2 Dress Down
 2 Abundant Harvest
+1 Dress Down
+2 Dress Down
 3 Endurance
 2 Shark Typhoon
 3 Force of Negation
@@ -44,12 +44,12 @@
 1 Portent
 2 Portent
 1 Forest
+2 Forest
 6 Island
 3 Scalding Tarn
 4 Scalding Tarn
 2 Preordain
 2 Narset, Parter of Veils
-2 Forest
 1 Abundant Growth
 2 Abundant Growth
 3 Abundant Growth
@@ -60,25 +60,30 @@
 1 Polluted Delta
 2 Polluted Delta
 3 Tundra
+3 Abundant Harvest
+1 Windswept Heath
+1 Serpentine Curve
+1 Stifle
+2 Windswept Heath
+2 Stifle
+2 Serpentine Curve
+3 Forest
+3 Windswept Heath
+3 Serpentine Curve
+3 Stifle
+4 Stifle
+4 Serpentine Curve
 2 Volcanic Island
 3 Monastery Mentor
-1 Growth Spiral
-1 Windswept Heath
-2 Growth Spiral
-3 Growth Spiral
-1 Field of the Dead
 1 Chandra, Awakened Inferno
 1 Gideon, Ally of Zendikar
 1 Unexpectedly Absent
 2 Entreat the Angels
-3 Abundant Harvest
 1 Teferi, Hero of Dominaria
 2 Counterspell
 3 Counterspell
 3 Mystic Sanctuary
-1 Arid Mesa
-3 Counterbalance
-4 Terminus
+4 Abundant Harvest
 1 Mishra's Bauble
 1 Engineered Explosives
 1 Sevinne's Reclamation
@@ -90,20 +95,15 @@
 3 Preordain
 4 Preordain
 4 Monastery Mentor
+1 Growth Spiral
 1 Daze
-1 Serpentine Curve
-1 Stifle
-2 Windswept Heath
+2 Growth Spiral
 2 Daze
-2 Stifle
-2 Serpentine Curve
-3 Forest
 3 Back to Basics
-3 Windswept Heath
+3 Growth Spiral
 3 Daze
-3 Serpentine Curve
-3 Stifle
 4 Growth Spiral
-4 Stifle
 4 Daze
-4 Serpentine Curve
+1 Arid Mesa
+4 Terminus
+3 Counterbalance

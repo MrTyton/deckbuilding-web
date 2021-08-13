@@ -44,6 +44,6 @@
 |                     |                                                                                             |                    2|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)           |
 |                     |                                                                                             |                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)          |
 |                     |                                                                                             |                    1|[Declaration in Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409750)   |
-|                     |                                                                                             |                    2|[Declaration in Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409750)   |
 |                     |                                                                                             |                    3|[Declaration in Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409750)   |
+|                     |                                                                                             |                    2|[Declaration in Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409750)   |
 

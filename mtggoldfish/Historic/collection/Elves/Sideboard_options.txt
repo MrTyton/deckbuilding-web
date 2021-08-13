@@ -1,13 +1,13 @@
 3 Shapers' Sanctuary
-1 Aether Gust
 1 Swan Song
+1 Aether Gust
 2 Aether Gust
 1 Rest in Peace
 2 Rest in Peace
 1 Declaration in Stone
 1 Negate
-2 Negate
 2 Declaration in Stone
+2 Negate
 3 Declaration in Stone
 4 Shapers' Sanctuary
 3 Heroic Intervention
@@ -30,8 +30,8 @@
 2 Vivien Reid
 2 Soul-Guide Lantern
 3 Reclamation Sage
-1 Craterhoof Behemoth
 1 Fierce Empath
+1 Craterhoof Behemoth
 2 Fierce Empath
 4 Reclamation Sage
 1 Elvish Visionary
@@ -61,10 +61,10 @@
 2 Carnage Tyrant
 2 Titanoth Rex
 3 Blossoming Defense
-1 Llanowar Visionary
 1 Beast Whisperer
-2 Llanowar Visionary
+1 Llanowar Visionary
 2 Craterhoof Behemoth
+2 Llanowar Visionary
 2 Beast Whisperer
 2 Elvish Visionary
 3 Beast Whisperer
@@ -73,6 +73,13 @@
 3 Scavenging Ooze
 3 Toski, Bearer of Secrets
 4 Scavenging Ooze
+1 Thoughtseize
+1 Icon of Ancestry
+1 Bloodchief's Thirst
+2 Thoughtseize
+2 Crippling Fear
+3 Thoughtseize
+4 Thoughtseize
 1 Baffling End
 1 Reidane, God of the Worthy
 2 Baffling End
@@ -87,13 +94,6 @@
 3 Aether Gust
 3 Swan Song
 4 Swan Song
-1 Thoughtseize
-1 Icon of Ancestry
-1 Bloodchief's Thirst
-2 Thoughtseize
-2 Crippling Fear
-3 Thoughtseize
-4 Thoughtseize
 1 Questing Beast
 1 Wildborn Preserver
 1 Run Afoul
@@ -105,11 +105,11 @@
 3 Questing Beast
 3 Shifting Ceratops
 4 Shifting Ceratops
+1 Kogla, the Titan Ape
 1 In Search of Greatness
 1 Nissa, Who Shakes the World
 1 Incubation Druid
 1 Primal Command
-1 Kogla, the Titan Ape
 1 Plummet
 1 Oakhame Adversary
 2 Oakhame Adversary
