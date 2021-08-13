@@ -1,17 +1,22 @@
-2 Island
+1 Silver Raven
+2 Silver Raven
+3 Silver Raven
+4 Mutavault
+1 Riverglide Pathway
 2 Riverglide Pathway
+3 Island
 1 Hall of Storm Giants
 1 Sulfur Falls
 1 Glorybringer
 1 Silumgar's Scorn
-1 Brazen Borrower
 1 Anger of the Gods
+1 Brazen Borrower
 1 Expressive Iteration
 1 Fabled Passage
-1 Opt
+1 Mystical Dispute
 1 Goldspan Dragon
 1 Mountain
-1 Mystical Dispute
+1 Opt
 1 Draconic Roar
 2 Sulfur Falls
 2 Hall of Storm Giants
@@ -20,14 +25,13 @@
 2 Goldspan Dragon
 2 Expressive Iteration
 2 Draconic Roar
-2 Opt
 2 Mountain
 2 Fabled Passage
+2 Opt
 3 Mountain
 3 Sulfur Falls
 3 Riverglide Pathway
 3 Silumgar's Scorn
-3 Island
 3 Draconic Roar
 3 Expressive Iteration
 3 Opt
@@ -38,13 +42,10 @@
 4 Opt
 4 Goldspan Dragon
 4 Expressive Iteration
+4 Island
 1 The Royal Scions
 2 The Royal Scions
 3 Stubborn Denial
-1 Silver Raven
-2 Silver Raven
-3 Silver Raven
-4 Mutavault
 1 Inferno of the Star Mounts
 1 Dig Through Time
 1 Bonecrusher Giant
@@ -54,8 +55,8 @@
 3 Hall of Storm Giants
 4 Draconic Roar
 2 Glorybringer
-4 Island
 4 Mountain
+4 Silver Raven
 1 Den of the Bugbear
 2 Spire of Industry
 1 Behold the Multiverse
@@ -67,6 +68,27 @@
 1 Shark Typhoon
 2 Shark Typhoon
 4 Hall of Storm Giants
+1 Metallic Rebuke
+1 Steel Overseer
+1 Skilled Animator
+2 Steel Overseer
+2 Metallic Rebuke
+2 Skilled Animator
+3 Metallic Rebuke
+3 Steel Overseer
+3 Skilled Animator
+4 Metallic Rebuke
+4 Skilled Animator
+4 Steel Overseer
+5 Island
+6 Island
+7 Island
+8 Island
+9 Island
+10 Island
+11 Island
+12 Island
+13 Island
 1 Niv-Mizzet, Parun
 1 Dragon's Fire
 1 Treasure Cruise
@@ -78,4 +100,3 @@
 3 Treasure Cruise
 4 Anger of the Gods
 4 Treasure Cruise
-4 Silver Raven
