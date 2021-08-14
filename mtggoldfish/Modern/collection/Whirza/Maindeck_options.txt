@@ -14,7 +14,6 @@
 1 Polluted Delta
 1 Scalding Tarn
 2 Scalding Tarn
-4 Thopter Foundry
 1 Flooded Strand
 2 Flooded Strand
 3 Flooded Strand
@@ -25,40 +24,17 @@
 4 Mishra's Bauble
 1 Island
 2 Island
-2 Spire of Industry
+4 Thopter Foundry
 1 Portable Hole
 2 Portable Hole
 3 Island
-1 Nihil Spellbomb
 1 Talisman of Progress
 2 Talisman of Progress
 3 Portable Hole
-1 Steam Vents
-1 Goblin Engineer
-2 Goblin Engineer
-2 Polluted Delta
-1 Witching Well
-1 Galvanic Blast
-2 Galvanic Blast
-2 Witching Well
 1 Shadowspear
+2 Spire of Industry
 1 Plains
-1 Watery Grave
-3 Polluted Delta
-4 Polluted Delta
-3 Goblin Engineer
-4 Goblin Engineer
-1 Collective Brutality
-2 Collective Brutality
-1 Blood Crypt
 1 Engineered Explosives
-3 Snow-Covered Island
-4 Snow-Covered Island
-3 Chromatic Star
-3 Galvanic Blast
-1 Pentad Prism
-2 Pentad Prism
-3 Scalding Tarn
 1 Soul-Guide Lantern
 2 Hallowed Fountain
 1 Teferi, Time Raveler
@@ -72,6 +48,30 @@
 3 Seachrome Coast
 4 Seachrome Coast
 4 Portable Hole
+1 Nihil Spellbomb
+1 Steam Vents
+1 Goblin Engineer
+2 Goblin Engineer
+2 Polluted Delta
+1 Witching Well
+1 Galvanic Blast
+2 Witching Well
+2 Galvanic Blast
+1 Watery Grave
+3 Polluted Delta
+4 Polluted Delta
+3 Goblin Engineer
+4 Goblin Engineer
+1 Collective Brutality
+2 Collective Brutality
+1 Blood Crypt
+3 Snow-Covered Island
+4 Snow-Covered Island
+3 Chromatic Star
+3 Galvanic Blast
+1 Pentad Prism
+2 Pentad Prism
+3 Scalding Tarn
 1 Snow-Covered Swamp
 1 Spine of Ish Sah
 1 Ichor Wellspring
@@ -81,6 +81,7 @@
 1 Damping Sphere
 5 Snow-Covered Island
 3 Spire of Industry
+1 Prismatic Ending
 1 Elixir of Immortality
 4 Spire of Industry
 1 Metallic Rebuke
@@ -100,14 +101,13 @@
 2 Underground River
 3 Talisman of Dominance
 1 Pyrite Spellbomb
-1 Prismatic Ending
 3 Talisman of Progress
 1 Breeding Pool
 1 Snow-Covered Plains
+1 The Underworld Cookbook
 1 Misty Rainforest
 1 Springleaf Drum
 1 Aether Vial
-1 The Underworld Cookbook
 1 Ovalchase Daredevil
 1 Gilded Goose
 1 Asmoranomardicadaistinaculdacar
@@ -139,12 +139,12 @@
 2 Prismatic Ending
 2 Nihil Spellbomb
 1 Lurrus of the Dream-Den
-1 Stoneforge Mystic
 1 Batterskull
+1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
-1 Hex Parasite
 1 Thraben Inspector
+1 Hex Parasite
 1 Eladamri's Call
 2 Thraben Inspector
 2 Eladamri's Call
@@ -166,10 +166,10 @@
 4 Academy Manufactor
 4 Asmoranomardicadaistinaculdacar
 2 Plains
-1 Isolated Chapel
 1 Serum Visions
 1 Fatal Push
 1 Bloodchief's Thirst
+1 Isolated Chapel
 1 Temple Garden
 1 Drowned Catacomb
 1 Tribute Mage
@@ -185,13 +185,13 @@
 2 Mox Amber
 3 Mox Amber
 4 Mox Amber
-1 Nettlecyst
 1 Path to Exile
+1 Nettlecyst
 2 Path to Exile
 2 Soul-Guide Lantern
 2 Snow-Covered Plains
 3 Hallowed Fountain
 3 Prismatic Ending
 4 Scalding Tarn
-4 Stoneforge Mystic
 4 Talisman of Progress
+4 Stoneforge Mystic

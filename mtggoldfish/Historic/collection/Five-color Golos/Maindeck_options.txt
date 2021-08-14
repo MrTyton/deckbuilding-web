@@ -1,8 +1,8 @@
 1 Forest
 2 Forest
 1 Breeding Pool
-1 Swamp
 1 Overgrown Tomb
+1 Swamp
 1 Island
 1 Zagoth Triome
 2 Zagoth Triome
@@ -29,9 +29,9 @@
 2 Overgrown Tomb
 2 Skyclave Apparition
 2 Enigmatic Incarnation
-3 Overgrown Tomb
 3 Temple Garden
 3 Enigmatic Incarnation
+3 Overgrown Tomb
 3 Breeding Pool
 4 Omen of the Sea
 4 Enigmatic Incarnation
@@ -43,9 +43,9 @@
 1 Yasharn, Implacable Earth
 1 Hostage Taker
 1 Sunpetal Grove
+1 Oath of Kaya
 1 In Search of Greatness
 1 Glacial Fortress
-1 Oath of Kaya
 1 Renegade Rallier
 1 Woodland Cemetery
 1 Deputy of Detention
@@ -68,11 +68,11 @@
 3 Glacial Fortress
 3 Trial of Ambition
 3 Calix, Destiny's Hand
-4 Binding the Old Gods
 4 Glacial Fortress
+4 Zagoth Triome
+4 Binding the Old Gods
 4 Trial of Ambition
 4 In Search of Greatness
-4 Zagoth Triome
 1 Mystic Forge
 2 Mystic Forge
 3 Buried Ruin
@@ -108,14 +108,14 @@
 3 Guild Summit
 3 Gates Ablaze
 4 Gates Ablaze
-1 Explore
 1 Growth Spiral
+1 Explore
 1 Circuitous Route
-2 Explore
 2 Growth Spiral
+2 Explore
 2 Circuitous Route
-3 Explore
 3 Growth Spiral
+3 Explore
 3 Circuitous Route
 3 Plaza of Harmony
 4 Explore
@@ -138,8 +138,8 @@
 3 Blinkmoth Nexus
 3 Crawling Barrens
 3 Mobilized District
-4 Blinkmoth Nexus
 4 Blast Zone
+4 Blinkmoth Nexus
 4 Forsaken Monument
 1 Archway Angel
 3 Forest
@@ -158,17 +158,20 @@
 1 Lotus Cobra
 1 Watery Grave
 2 Fabled Passage
-2 Swamp
 2 Gilded Goose
 2 Lotus Cobra
 2 Island
+2 Swamp
+3 Swamp
 3 Fabled Passage
 3 Gilded Goose
-3 Swamp
 3 Lotus Cobra
 5 Forest
 1 Treacherous Blessing
+1 Cragcrown Pathway
 1 Terror of the Peaks
+1 Stomping Ground
+1 Godless Shrine
 1 Needleverge Pathway
 1 The Birth of Meletis
 1 Finale of Devastation
@@ -176,38 +179,36 @@
 1 Escape to the Wilds
 1 Solemn Simulacrum
 1 Medomai's Prophecy
-1 Savai Triome
 1 Shalai, Voice of Plenty
+1 Luminous Broodmoth
 1 Steam Vents
-1 Massacre Wurm
 1 Blood Crypt
+1 Massacre Wurm
 1 Evolving Wilds
 1 Migration Path
-1 Branchloft Pathway
 1 Uro, Titan of Nature's Wrath
+1 Branchloft Pathway
 1 Elder Gargaroth
-1 Cultivate
-1 Stomping Ground
-1 Cragcrown Pathway
+1 Elspeth Conquers Death
 1 God-Eternal Rhonas
 1 Mirari's Wake
 1 Wrath of God
 1 Sanctum of All
 1 Genesis Ultimatum
-1 Luminous Broodmoth
 1 Hallowed Fountain
 1 Ulvenwald Hydra
 1 Sanctum of Shattered Heights
 1 Fae of Wishes
 1 Honden of Infinite Rage
 1 Sanctum of Calm Waters
-1 Elspeth Conquers Death
 1 Sanctum of Stone Fangs
 1 Idyllic Tutor
 1 Keruga, the Macrosage
 1 Riverglide Pathway
 1 Honden of Night's Reach
 1 Omen of the Hunt
+1 Savai Triome
+1 Cultivate
 1 Honden of Seeing Winds
 1 Omen of the Forge
 1 Renegade Map
@@ -218,12 +219,14 @@
 1 Sacred Foundry
 1 Honden of Cleansing Fire
 1 Honden of Life's Web
-1 Godless Shrine
 1 Deafening Clarion
 1 Sanctum of Fruitful Harvest
 1 Sanctum of Tranquil Light
 1 Trial of Knowledge
 2 Omen of the Forge
+2 Cragcrown Pathway
+2 Stomping Ground
+2 Godless Shrine
 2 Terror of the Peaks
 2 Dryad of the Ilysian Grove
 2 Solemn Simulacrum
@@ -235,22 +238,19 @@
 2 Ketria Triome
 2 Klothys, God of Destiny
 2 Migration Path
-2 Cultivate
 2 Evolving Wilds
 2 Branchloft Pathway
-2 Stomping Ground
-2 Elspeth Conquers Death
-2 Cragcrown Pathway
 2 Uro, Titan of Nature's Wrath
 2 Wrath of God
+2 Elspeth Conquers Death
 2 Mirari's Wake
 2 Blood Crypt
 2 Smothering Tithe
+2 Cultivate
 2 Mastermind's Acquisition
 2 Thirst for Meaning
 2 Mountain
 2 Sanctum of Fruitful Harvest
-2 Godless Shrine
 2 Sacred Foundry
 2 Steam Vents
 2 Watery Grave
@@ -270,17 +270,17 @@
 2 Riverglide Pathway
 2 Deafening Clarion
 2 Prophetic Prism
+3 Stomping Ground
 3 Cragcrown Pathway
 3 Sacred Foundry
-3 Dryad of the Ilysian Grove
 3 Island
-3 Plains
+3 Dryad of the Ilysian Grove
 3 Omen of the Forge
+3 Plains
 3 Savai Triome
 3 Branchloft Pathway
 3 Evolving Wilds
 3 Migration Path
-3 Stomping Ground
 3 Wrath of God
 3 Escape to the Wilds
 3 Sanctum of Stone Fangs
@@ -303,13 +303,12 @@
 3 Watery Grave
 3 Sanctum of All
 4 Stomping Ground
-4 Dryad of the Ilysian Grove
-4 Fabled Passage
-4 Island
-4 Gilded Goose
-4 Temple Garden
-4 Sacred Foundry
 4 Plains
+4 Dryad of the Ilysian Grove
+4 Temple Garden
+4 Gilded Goose
+4 Sacred Foundry
+4 Island
 4 Lotus Cobra
 4 Deafening Clarion
 4 Prophetic Prism
@@ -324,6 +323,7 @@
 4 Wrath of God
 4 Steam Vents
 4 Hallowed Fountain
+4 Fabled Passage
 4 Breeding Pool
 4 Thirst for Meaning
 4 Watery Grave
@@ -334,9 +334,9 @@
 7 Forest
 2 Ulamog, the Ceaseless Hunger
 2 Boros Guildgate
+1 Bojuka Bog
 1 Field of Ruin
 1 Stonecoil Serpent
-1 Bojuka Bog
 2 Stonecoil Serpent
 2 Field of Ruin
 1 Maelstrom Pulse
@@ -384,47 +384,47 @@
 2 Abundant Harvest
 1 Nicol Bolas, Dragon-God
 1 The Great Henge
+1 Koma, Cosmos Serpent
 1 Gemrazer
 1 Temple of Deceit
 1 Necroblossom Snarl
-1 Pollywog Symbiote
 1 Temple of Malady
 1 Paradise Druid
-1 Castle Locthwain
-1 Barkchannel Pathway
 1 Season of Growth
-1 Koma, Cosmos Serpent
+1 Insatiable Hemophage
+1 Dirge Bat
+1 Vineglimmer Snarl
 1 Vivien Reid
-1 Auspicious Starrix
 1 Scute Swarm
 1 Nissa, Who Shakes the World
 1 Darkbore Pathway
 1 Vivien, Champion of the Wilds
 1 Castle Vantress
 1 Tamiyo, Collector of Tales
-1 Dirge Bat
+1 Castle Locthwain
 1 Nethroi, Apex of Death
-1 Vineglimmer Snarl
 1 Migratory Greathorn
+1 Auspicious Starrix
+1 Barkchannel Pathway
 1 Boneyard Lurker
+1 Pollywog Symbiote
 1 Pouncing Shoreshark
-1 Insatiable Hemophage
 2 Nissa, Who Shakes the World
+2 Gemrazer
 2 Paradise Druid
 2 Season of Growth
-2 Gemrazer
 2 Insatiable Hemophage
+2 Dirge Bat
 2 Boneyard Lurker
 2 Auspicious Starrix
-2 Dirge Bat
 2 Migratory Greathorn
 2 Pollywog Symbiote
 2 Darkbore Pathway
 2 Pouncing Shoreshark
 3 Gemrazer
 3 Paradise Druid
-3 Migratory Greathorn
 3 Insatiable Hemophage
+3 Migratory Greathorn
 3 Boneyard Lurker
 3 Auspicious Starrix
 3 Pollywog Symbiote
@@ -434,8 +434,8 @@
 1 Root Snare
 1 Open the Gates
 2 Valki, God of Lies
-2 Felidar Retreat
 2 Alrund's Epiphany
+2 Felidar Retreat
 2 Root Snare
 2 Open the Gates
 3 Abundant Harvest
@@ -443,20 +443,20 @@
 3 Root Snare
 3 Gate Colossus
 4 Abundant Harvest
-4 Growth Spiral
 4 Gatebreaker Ram
 4 Gate Colossus
 4 Open the Gates
+4 Growth Spiral
 1 Crucible of Worlds
 1 Ratchet Bomb
 3 Stonecoil Serpent
 1 Snow-Covered Plains
-2 Labyrinth of Skophos
 2 Cascading Cataracts
+2 Labyrinth of Skophos
 3 Labyrinth of Skophos
 1 Cavalier of Dawn
-1 Thassa, Deep-Dwelling
 1 Lukka, Coppercoat Outcast
+1 Thassa, Deep-Dwelling
 1 Heliod, Sun-Crowned
 1 Jace, Unraveler of Secrets
 1 Glaive of the Guildpact

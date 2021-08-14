@@ -17,8 +17,8 @@
 1 Sword of Feast and Famine
 1 Teferi, Time Raveler
 1 Aether Gust
-1 Vedalken Plotter
 1 Kozilek, Butcher of Truth
+1 Vedalken Plotter
 1 Sanctum Prelate
 1 Toski, Bearer of Secrets
 2 Teferi, Time Raveler
@@ -51,10 +51,10 @@
 1 Scavenging Ooze
 1 Koma, Cosmos Serpent
 1 Stony Silence
-1 Spell Snare
-1 Mulldrifter
 1 Aven Mindcensor
+1 Mulldrifter
 1 Phyrexian Revoker
+1 Spell Snare
 1 Dromoka's Command
 1 Batterskull
 1 Detention Sphere
@@ -62,14 +62,11 @@
 1 Subtlety
 1 Timely Reinforcements
 2 Subtlety
-1 Venser, Shaper Savant
-1 Spreading Seas
-2 Spreading Seas
-1 Flusterstorm
-2 Flusterstorm
 1 Supreme Verdict
 1 Surgical Extraction
 2 Supreme Verdict
+1 Flusterstorm
+2 Flusterstorm
 1 Snapcaster Mage
 1 Dream Trawler
 1 Sword of Light and Shadow
@@ -83,12 +80,18 @@
 1 Memnarch
 2 Snapcaster Mage
 2 Summoning Trap
+1 Venser, Shaper Savant
+1 Spreading Seas
+2 Spreading Seas
+1 Natural State
+1 Void Mirror
+3 Aether Gust
 1 Foundation Breaker
 3 Veil of Summer
 1 Charming Prince
 1 Back to Nature
-1 Nature's Claim
 1 Grafdigger's Cage
+1 Nature's Claim
 1 Thragtusk
 1 Creeping Corrosion
 1 Stonehorn Dignitary
@@ -96,9 +99,6 @@
 2 Nature's Claim
 2 Stony Silence
 3 Stony Silence
-1 Natural State
-1 Void Mirror
-3 Aether Gust
 1 Spell Queller
 1 Dovin's Veto
 2 Spell Queller
@@ -114,22 +114,22 @@
 3 Endurance
 1 Leyline of Sanctity
 1 Ashiok, Dream Render
-2 On Thin Ice
 2 Ashiok, Dream Render
-2 Leyline of Sanctity
+2 On Thin Ice
 2 Weather the Storm
+2 Leyline of Sanctity
 3 Leyline of Sanctity
 3 Ashiok, Dream Render
 4 Leyline of Sanctity
-1 Ethersworn Canonist
-1 Dress Down
-2 Containment Priest
-2 Ethersworn Canonist
-2 Dress Down
-2 Spell Pierce
 1 Shadowspear
 1 Remorseful Cleric
 2 Remorseful Cleric
 3 Remorseful Cleric
 3 Meddling Mage
 4 Meddling Mage
+1 Ethersworn Canonist
+1 Dress Down
+2 Dress Down
+2 Containment Priest
+2 Spell Pierce
+2 Ethersworn Canonist

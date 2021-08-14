@@ -21,8 +21,8 @@
 3 Kalain, Reclusive Painter
 4 Kalain, Reclusive Painter
 1 Rankle, Master of Pranks
-3 Tymaret Calls the Dead
 3 Shatterskull Smashing
+3 Tymaret Calls the Dead
 4 Tymaret Calls the Dead
 1 Baleful Mastery
 4 Shatterskull Smashing
@@ -30,14 +30,14 @@
 1 Extus, Oriq Overlord
 2 Extus, Oriq Overlord
 3 Extus, Oriq Overlord
-1 Eyetwitch
 1 Bastion of Remembrance
+1 Eyetwitch
 1 Serrated Scorpion
-2 Eyetwitch
 2 Bastion of Remembrance
+2 Eyetwitch
 2 Serrated Scorpion
-3 Eyetwitch
 3 Serrated Scorpion
+3 Eyetwitch
 3 Bastion of Remembrance
 4 Eyetwitch
 4 Serrated Scorpion
@@ -66,19 +66,19 @@
 1 Soul Shatter
 1 Feed the Swarm
 1 Kaervek, the Spiteful
-2 Murderous Rider
 1 Inscription of Ruin
 2 Inscription of Ruin
+2 Murderous Rider
 2 Kazuul's Fury
 1 Crippling Fear
 2 Crippling Fear
 2 Egon, God of Death
 3 Power Word Kill
-1 Needleverge Pathway
-1 Plumb the Forbidden
 1 Brightclimb Pathway
-2 Brightclimb Pathway
+1 Plumb the Forbidden
+1 Needleverge Pathway
 2 Plumb the Forbidden
+2 Brightclimb Pathway
 3 Plumb the Forbidden
 1 Riverglide Pathway
 1 Clearwater Pathway
@@ -93,18 +93,18 @@
 4 Extus, Oriq Overlord
 4 Savai Triome
 1 Darkbore Pathway
-1 Valentin, Dean of the Vein
 1 Korvold, Fae-Cursed King
 1 Prosperous Innkeeper
 1 Cragcrown Pathway
 1 Ranger Class
+1 Valentin, Dean of the Vein
 1 Forest
-2 Darkbore Pathway
 2 Valentin, Dean of the Vein
 2 Cragcrown Pathway
 2 Prosperous Innkeeper
-3 Darkbore Pathway
+2 Darkbore Pathway
 3 Prosperous Innkeeper
+3 Darkbore Pathway
 3 Cragcrown Pathway
 4 Darkbore Pathway
 4 Prosperous Innkeeper
@@ -120,21 +120,27 @@
 8 Mountain
 9 Mountain
 10 Mountain
+1 Evolving Wilds
+1 Bloodfell Caves
+2 Bloodfell Caves
+2 Evolving Wilds
+9 Swamp
+10 Swamp
 1 Snow-Covered Swamp
-1 Hunt for Specimens
 1 Vito, Thorn of the Dusk Rose
+1 Hunt for Specimens
 1 Faceless Haven
 2 Snow-Covered Swamp
-2 Hunt for Specimens
 2 Vito, Thorn of the Dusk Rose
+2 Hunt for Specimens
 2 Faceless Haven
-3 Faceless Haven
 3 Snow-Covered Swamp
-3 Deadly Dispute
-3 Skyclave Shade
 3 Vito, Thorn of the Dusk Rose
-4 Faceless Haven
+3 Deadly Dispute
+3 Faceless Haven
+3 Skyclave Shade
 4 Snow-Covered Swamp
+4 Faceless Haven
 4 Vito, Thorn of the Dusk Rose
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
@@ -150,9 +156,3 @@
 16 Snow-Covered Swamp
 17 Snow-Covered Swamp
 18 Snow-Covered Swamp
-1 Evolving Wilds
-1 Bloodfell Caves
-2 Bloodfell Caves
-2 Evolving Wilds
-9 Swamp
-10 Swamp

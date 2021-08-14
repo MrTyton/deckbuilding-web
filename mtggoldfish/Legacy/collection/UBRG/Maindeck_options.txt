@@ -2,8 +2,8 @@
 1 Snow-Covered Mountain
 1 Scalding Tarn
 2 Scalding Tarn
-1 Snow-Covered Swamp
 1 Volcanic Island
+1 Snow-Covered Swamp
 1 Snow-Covered Island
 1 Bayou
 1 Verdant Catacombs
@@ -12,86 +12,86 @@
 2 Tropical Island
 1 Leovold, Emissary of Trest
 1 Assassin's Trophy
-1 Fatal Push
-1 Jace, the Mind Sculptor
 1 Drown in the Loch
-1 Grove of the Burnwillows
-1 Punishing Fire
-1 Karakas
-1 Cling to Dust
-1 Snapcaster Mage
-1 Endurance
-1 Toxic Deluge
+1 Lightning Bolt
+1 Jace, the Mind Sculptor
 1 Force of Negation
 1 Brainstorm
 1 Baleful Strix
 1 Ponder
-1 Dack Fayden
 1 Underground Sea
-1 Snow-Covered Forest
 1 Uro, Titan of Nature's Wrath
-1 Lightning Bolt
 1 Misty Rainforest
 1 Polluted Delta
 1 Force of Will
-2 Grove of the Burnwillows
-2 Fatal Push
-2 Punishing Fire
 2 Underground Sea
 2 Drown in the Loch
-2 Cling to Dust
 2 Assassin's Trophy
-2 Snapcaster Mage
 2 Leovold, Emissary of Trest
 2 Ponder
-2 Snow-Covered Island
 2 Force of Will
-2 Dack Fayden
 2 Brainstorm
 2 Polluted Delta
 2 Baleful Strix
 2 Uro, Titan of Nature's Wrath
-2 Snow-Covered Forest
 2 Misty Rainforest
 2 Force of Negation
 3 Polluted Delta
-3 Grove of the Burnwillows
-3 Punishing Fire
 3 Assassin's Trophy
-3 Cling to Dust
 3 Uro, Titan of Nature's Wrath
 3 Misty Rainforest
 3 Force of Will
 3 Baleful Strix
-3 Dack Fayden
 3 Brainstorm
 3 Ponder
-4 Grove of the Burnwillows
-4 Uro, Titan of Nature's Wrath
 4 Polluted Delta
 4 Assassin's Trophy
 4 Misty Rainforest
-4 Dack Fayden
-4 Ponder
 4 Force of Will
+4 Ponder
 4 Brainstorm
+2 Volcanic Island
+1 Grove of the Burnwillows
+1 Punishing Fire
+1 Cling to Dust
+1 Snapcaster Mage
+1 Endurance
+1 Toxic Deluge
+1 Fatal Push
+1 Dack Fayden
+1 Snow-Covered Forest
+1 Karakas
+2 Grove of the Burnwillows
+2 Punishing Fire
+2 Cling to Dust
+2 Snapcaster Mage
+2 Fatal Push
+2 Snow-Covered Island
+2 Dack Fayden
+2 Snow-Covered Forest
+3 Grove of the Burnwillows
+3 Punishing Fire
+3 Cling to Dust
+3 Dack Fayden
+4 Grove of the Burnwillows
+4 Uro, Titan of Nature's Wrath
+4 Dack Fayden
 2 Gamble
 3 Taiga
-2 Volcanic Island
+2 Lightning Bolt
 1 Street Wraith
 2 Street Wraith
 3 Street Wraith
+3 Scalding Tarn
+4 Scalding Tarn
 1 Carpet of Flowers
 1 Pyroblast
-2 Lightning Bolt
 3 Fatal Push
 3 Arid Mesa
 4 Street Wraith
 1 Careful Study
 2 Careful Study
-3 Scalding Tarn
 3 Careful Study
-4 Scalding Tarn
 4 Careful Study
 1 Asylum Visitor
 2 Asylum Visitor
@@ -102,6 +102,7 @@
 4 Fiery Temper
 3 Verdant Catacombs
 3 Gamble
+3 Volcanic Island
 1 Bloodchief's Thirst
 1 Brazen Borrower
 1 Unholy Heat
@@ -112,7 +113,6 @@
 1 Bazaar Trademage
 2 Breakthrough
 2 Cephalid Coliseum
-3 Volcanic Island
 3 Tropical Island
 3 Cephalid Coliseum
 4 Wooded Foothills
@@ -126,3 +126,12 @@
 3 Kitchen Imp
 4 Badlands
 4 Kitchen Imp
+1 Sylvan Library
+1 Ragavan, Nimble Pilferer
+2 Sylvan Library
+2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
+3 Lightning Bolt
+4 Baleful Strix
+4 Ragavan, Nimble Pilferer
+4 Lightning Bolt

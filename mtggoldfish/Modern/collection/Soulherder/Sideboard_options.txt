@@ -50,8 +50,8 @@
 2 Damping Sphere
 1 Kozilek, Butcher of Truth
 2 Auriok Champion
-1 Ethersworn Canonist
 1 Duergar Hedge-Mage
+1 Ethersworn Canonist
 1 Wickerbough Elder
 1 Obstinate Baloth
 1 Lone Missionary
@@ -61,20 +61,16 @@
 1 Faerie Macabre
 1 Devout Lightcaster
 1 Magus of the Moat
-1 Dismember
-1 Emrakul, the Aeons Torn
-2 Dismember
-2 Chalice of the Void
 1 Grist, the Hunger Tide
 2 Plague Engineer
-1 Cursed Totem
-2 Cursed Totem
 1 Ashiok, Dream Render
 1 Ceremonious Rejection
 1 Glen Elendra Archmage
 2 Archon of Emeria
 2 Ashiok, Dream Render
 2 Ceremonious Rejection
+1 Cursed Totem
+2 Cursed Totem
 1 Aven Mindcensor
 1 Fiery Justice
 2 Fiery Justice
@@ -82,6 +78,10 @@
 1 Deafening Silence
 1 Force of Vigor
 2 Gaddock Teeg
+1 Emrakul, the Aeons Torn
+1 Dismember
+2 Chalice of the Void
+2 Dismember
 1 Dawnbringer Cleric
 1 Fulminator Mage
 1 Reflector Mage
@@ -89,11 +89,10 @@
 3 Drannith Magistrate
 3 Endurance
 3 Damping Sphere
-3 Burrenton Forge-Tender
 1 Engineered Explosives
-1 Stony Silence
 1 Force of Negation
 1 Wrath of God
+1 Stony Silence
 1 Supreme Verdict
 2 Knight of Autumn
 2 Force of Negation
@@ -108,7 +107,7 @@
 3 Auriok Champion
 3 Thalia, Guardian of Thraben
 3 Teferi, Time Raveler
-4 Veil of Summer
+3 Burrenton Forge-Tender
 1 Containment Priest
 3 Phyrexian Revoker
 4 Phyrexian Revoker
@@ -116,6 +115,7 @@
 3 Prismatic Ending
 3 Kataki, War's Wage
 4 Prismatic Ending
+4 Veil of Summer
 1 Izzet Staticaster
 1 Dusk/Dawn
 2 Dusk/Dawn
@@ -125,9 +125,9 @@
 1 Obsidian Charmaw
 1 Mystical Dispute
 1 Oust
-2 Mystical Dispute
 2 Obsidian Charmaw
 2 Oust
+2 Mystical Dispute
 3 Obsidian Charmaw
 3 Oust
 4 Oust

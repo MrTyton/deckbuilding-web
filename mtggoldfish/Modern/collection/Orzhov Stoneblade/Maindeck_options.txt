@@ -1,3 +1,7 @@
+3 Dauthi Voidwalker
+4 Dauthi Voidwalker
+1 Undying Evil
+1 Charming Prince
 2 Charming Prince
 2 Undying Evil
 3 Charming Prince
@@ -26,28 +30,26 @@
 4 Brightclimb Pathway
 1 Prismatic Ending
 2 Prismatic Ending
-1 Dauthi Voidwalker
-2 Dauthi Voidwalker
-3 Dauthi Voidwalker
-4 Dauthi Voidwalker
 1 Unburial Rites
 3 Priest of Fell Rites
 3 Fatal Push
+2 Vindicate
 4 Plains
 1 Flickerwisp
 2 Flickerwisp
-2 Vindicate
 1 Castle Locthwain
+1 Inquisition of Kozilek
 4 Thoughtseize
 1 Bone Shards
 2 Collective Brutality
 2 Shriekmaw
 1 Ashen Rider
 1 Liliana of the Veil
-1 Kaya, Orzhov Usurper
 1 Kaya's Guile
+1 Kaya, Orzhov Usurper
 1 Shambling Vent
-1 Inquisition of Kozilek
+2 Inquisition of Kozilek
+3 Inquisition of Kozilek
 1 Blood Crypt
 1 Night's Whisper
 1 Bloodstained Mire
@@ -60,25 +62,23 @@
 4 Priest of Fell Rites
 4 Archon of Cruelty
 1 Overgrown Tomb
-2 Inquisition of Kozilek
-3 Inquisition of Kozilek
+4 Fatal Push
 1 Field of Ruin
 2 Field of Ruin
 3 Field of Ruin
-1 Tidehollow Sculler
-2 Tidehollow Sculler
-3 Tidehollow Sculler
-4 Tidehollow Sculler
 1 Cave of the Frost Dragon
 2 Kaya's Guile
 2 Damn
 4 Inquisition of Kozilek
+4 Skyclave Apparition
+1 Vanishing Verse
+1 Tidehollow Sculler
+2 Tidehollow Sculler
+3 Tidehollow Sculler
+4 Tidehollow Sculler
+4 Silent Clearing
 1 Savai Triome
 2 Liliana of the Veil
-1 Vanishing Verse
-4 Skyclave Apparition
-4 Silent Clearing
-4 Fatal Push
 4 Field of Ruin
 5 Plains
 6 Plains
@@ -104,6 +104,13 @@
 2 Esper Sentinel
 3 Esper Sentinel
 4 Esper Sentinel
+1 Snow-Covered Plains
+1 Snow-Covered Swamp
+1 Fetid Heath
+2 Snow-Covered Swamp
+2 Snow-Covered Plains
+3 Vindicate
+4 Vindicate
 1 Callous Bloodmage
 2 Callous Bloodmage
 1 Thraben Inspector
@@ -127,13 +134,6 @@
 3 Liliana of the Veil
 3 Prismatic Ending
 4 Prismatic Ending
-1 Snow-Covered Swamp
-1 Snow-Covered Plains
-1 Fetid Heath
-2 Snow-Covered Swamp
-2 Snow-Covered Plains
-3 Vindicate
-4 Vindicate
 1 Speaker of the Heavens
 1 Path to Exile
 1 Castle Ardenvale
@@ -161,38 +161,5 @@
 3 Abiding Grace
 4 Squadron Hawk
 4 Ranger-Captain of Eos
-4 Martyr of Sands
 8 Plains
-1 Inkmoth Nexus
-1 Shadowspear
-1 Urza's Saga
-1 Ingenious Smith
-1 Pithing Needle
-1 Relic of Progenitus
-1 Portable Hole
-1 Welding Jar
-1 Springleaf Drum
-1 Cranial Plating
-1 Ethersworn Canonist
-1 Goldmire Bridge
-1 Nettlecyst
-2 Inkmoth Nexus
-2 Urza's Saga
-2 Ingenious Smith
-2 Portable Hole
-2 Welding Jar
-2 Nettlecyst
-2 Goldmire Bridge
-2 Ethersworn Canonist
-3 Inkmoth Nexus
-3 Urza's Saga
-3 Ethersworn Canonist
-3 Ingenious Smith
-3 Nettlecyst
-3 Portable Hole
-3 Goldmire Bridge
-4 Inkmoth Nexus
-4 Urza's Saga
-4 Nettlecyst
-4 Portable Hole
-4 Goldmire Bridge
+4 Martyr of Sands
