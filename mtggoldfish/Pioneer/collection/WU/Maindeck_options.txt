@@ -1,27 +1,27 @@
-1 Skyclave Apparition
 1 Thraben Inspector
-2 Skyclave Apparition
+1 Skyclave Apparition
 2 Thraben Inspector
-3 Skyclave Apparition
+2 Skyclave Apparition
 3 Thraben Inspector
-4 Skyclave Apparition
+3 Skyclave Apparition
 4 Thraben Inspector
-2 Field of Ruin
-3 Yorion, Sky Nomad
-5 Plains
-6 Plains
-7 Plains
+4 Skyclave Apparition
 1 Agent of Treachery
 1 Elite Guardmage
 2 Elite Guardmage
 3 Elite Guardmage
+3 Yorion, Sky Nomad
 4 Hengegate Pathway
+5 Plains
+6 Plains
+7 Plains
+2 Field of Ruin
 1 The Book of Exalted Deeds
-2 The Book of Exalted Deeds
 2 Mutavault
-3 Elspeth Conquers Death
-3 Mutavault
+2 The Book of Exalted Deeds
 3 The Book of Exalted Deeds
+3 Mutavault
+3 Elspeth Conquers Death
 8 Plains
 1 Temple of Enlightenment
 2 Temple of Enlightenment
@@ -49,10 +49,10 @@
 2 Mystical Dispute
 3 Mystical Dispute
 3 Field of Ruin
-1 Reflector Mage
 1 Faith's Fetters
-2 Reflector Mage
+1 Reflector Mage
 2 Faith's Fetters
+2 Reflector Mage
 3 Reflector Mage
 4 Mutavault
 1 Ondu Inversion
@@ -76,11 +76,11 @@
 2 Elite Spellbinder
 3 Elite Spellbinder
 1 Nykthos, Shrine to Nyx
-1 Knight of the White Orchid
 1 Arcanist's Owl
+1 Knight of the White Orchid
 2 Nykthos, Shrine to Nyx
-2 Arcanist's Owl
 2 Knight of the White Orchid
+2 Arcanist's Owl
 3 Nykthos, Shrine to Nyx
 3 Knight of the White Orchid
 4 Knight of the White Orchid
@@ -89,10 +89,10 @@
 3 Dig Through Time
 1 Censor
 2 Censor
-4 Elite Spellbinder
 3 Censor
 4 Censor
 1 Horribly Awry
+4 Elite Spellbinder
 4 Elspeth Conquers Death
 4 The Book of Exalted Deeds
 1 Search for Azcanta
@@ -104,8 +104,8 @@
 1 Raugrin Triome
 1 Sulfur Falls
 1 Prismari Command
-2 Raugrin Triome
 2 Steam Vents
+2 Raugrin Triome
 2 Prismari Command
 3 Steam Vents
 3 Raugrin Triome
@@ -128,77 +128,30 @@
 2 Iymrith, Desert Doom
 1 Gideon, Ally of Zendikar
 2 Gideon, Ally of Zendikar
-1 Isolated Chapel
-2 Isolated Chapel
-3 Isolated Chapel
-4 Isolated Chapel
-1 Golden Egg
-1 Urborg, Tomb of Yawgmoth
-1 Wasteland Strangler
-1 Temple of Silence
-1 Sin Collector
-1 Glass Casket
-1 Brightclimb Pathway
-1 Swamp
-1 Concealed Courtyard
-1 Basilica Bell-Haunt
-1 Godless Shrine
-1 Teleportation Circle
-2 Golden Egg
-2 Glass Casket
-2 Wasteland Strangler
-2 Temple of Silence
-2 Concealed Courtyard
-2 Godless Shrine
-2 Basilica Bell-Haunt
-2 Teleportation Circle
-2 Sin Collector
-2 Brightclimb Pathway
-2 Swamp
-3 Golden Egg
-3 Temple of Silence
-3 Glass Casket
-3 Wasteland Strangler
-3 Brightclimb Pathway
-3 Sin Collector
-3 Concealed Courtyard
-3 Godless Shrine
-3 Teleportation Circle
-3 Basilica Bell-Haunt
-4 Golden Egg
-4 Temple of Silence
-4 Glass Casket
-4 Brightclimb Pathway
-4 Godless Shrine
-4 Teleportation Circle
-4 Wasteland Strangler
-4 Sin Collector
-4 Concealed Courtyard
-4 Basilica Bell-Haunt
 1 Cavalier of Dawn
 2 Detention Sphere
 2 Cavalier of Dawn
 10 Plains
 1 Karn, the Great Creator
-1 Loyal Warhound
 1 Snow-Covered Plains
+1 Loyal Warhound
 1 Mazemind Tome
 1 Heliod, Sun-Crowned
 2 Karn, the Great Creator
 2 Mazemind Tome
-2 Loyal Warhound
-2 Snow-Covered Plains
 2 Cave of the Frost Dragon
+2 Snow-Covered Plains
+2 Loyal Warhound
 2 Heliod, Sun-Crowned
 3 Karn, the Great Creator
 3 Snow-Covered Plains
-3 Arcanist's Owl
 3 Heliod, Sun-Crowned
+3 Arcanist's Owl
 4 Karn, the Great Creator
 4 Snow-Covered Plains
 4 Arcanist's Owl
-4 Nykthos, Shrine to Nyx
 4 Heliod, Sun-Crowned
+4 Nykthos, Shrine to Nyx
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains
@@ -222,10 +175,10 @@
 2 Jace, Vryn's Prodigy
 2 Sinister Sabotage
 3 Sinister Sabotage
+1 Cast Out
 1 Justice Strike
 1 Mountain
 1 Scorching Dragonfire
-1 Cast Out
 2 Justice Strike
 3 Expressive Iteration
 4 Expressive Iteration
@@ -238,26 +191,30 @@
 3 Torrential Gearhulk
 3 Magma Opus
 4 Steam Vents
+4 Sulfur Falls
 4 Magma Opus
 4 Torrential Gearhulk
-4 Sulfur Falls
-1 Kaya, Orzhov Usurper
 1 Vanishing Verse
-1 Fetid Pools
+1 Isolated Chapel
+1 Kaya, Orzhov Usurper
 1 Heartless Act
-1 Drowned Catacomb
+1 Fetid Pools
 1 Watery Grave
+1 Drowned Catacomb
 2 Kaya, Orzhov Usurper
 2 Vanishing Verse
-2 Drowned Catacomb
-2 Heartless Act
+2 Isolated Chapel
 2 Watery Grave
+2 Drowned Catacomb
 2 Fetid Pools
+2 Heartless Act
 3 Heartless Act
 3 Vanishing Verse
 3 Fetid Pools
+3 Isolated Chapel
 3 Watery Grave
 4 Fetid Pools
 4 Vanishing Verse
-4 Teferi, Hero of Dominaria
 4 Watery Grave
+4 Isolated Chapel
+4 Teferi, Hero of Dominaria

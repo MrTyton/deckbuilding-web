@@ -59,7 +59,7 @@
 |                     |                                                                                                  |                    4|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)        |
 |                     |                                                                                                  |                    1|[Vraska, Golgari Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452963)   |
 |                     |                                                                                                  |                    1|[Distended Mindbender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414292)    |
+|                     |                                                                                                  |                    2|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)         |
 |                     |                                                                                                  |                    2|[Distended Mindbender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414292)    |
 |                     |                                                                                                  |                    2|[Vraska, Golgari Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452963)   |
-|                     |                                                                                                  |                    2|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)         |
 

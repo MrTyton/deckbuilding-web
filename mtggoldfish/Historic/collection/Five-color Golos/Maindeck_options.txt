@@ -38,10 +38,10 @@
 1 Binding the Old Gods
 2 Binding the Old Gods
 3 Binding the Old Gods
-1 Setessan Champion
 1 Elspeth's Nightmare
 1 Yasharn, Implacable Earth
 1 Hostage Taker
+1 Setessan Champion
 1 Sunpetal Grove
 1 Oath of Kaya
 1 In Search of Greatness
@@ -52,19 +52,19 @@
 1 Calix, Destiny's Hand
 1 Hinterland Harbor
 1 Tolsimir, Friend to Wolves
-2 Setessan Champion
 2 Woodland Cemetery
-2 In Search of Greatness
 2 Hinterland Harbor
-2 Sunpetal Grove
 2 Elspeth's Nightmare
+2 Setessan Champion
+2 In Search of Greatness
+2 Sunpetal Grove
 2 Calix, Destiny's Hand
 2 Oath of Kaya
 2 Glacial Fortress
 3 In Search of Greatness
+3 Elspeth's Nightmare
 3 Skyclave Apparition
 3 Oath of Kaya
-3 Elspeth's Nightmare
 3 Glacial Fortress
 3 Trial of Ambition
 3 Calix, Destiny's Hand
@@ -153,21 +153,22 @@
 2 Assassin's Trophy
 3 Assassin's Trophy
 1 Scavenger Grounds
+1 Lotus Cobra
 1 Fabled Passage
 1 Gilded Goose
-1 Lotus Cobra
 1 Watery Grave
+2 Lotus Cobra
 2 Fabled Passage
 2 Gilded Goose
-2 Lotus Cobra
 2 Island
 2 Swamp
+3 Lotus Cobra
 3 Swamp
 3 Fabled Passage
 3 Gilded Goose
-3 Lotus Cobra
 5 Forest
 1 Treacherous Blessing
+1 Cultivate
 1 Cragcrown Pathway
 1 Terror of the Peaks
 1 Stomping Ground
@@ -175,21 +176,21 @@
 1 Needleverge Pathway
 1 The Birth of Meletis
 1 Finale of Devastation
-1 Dryad of the Ilysian Grove
 1 Escape to the Wilds
-1 Solemn Simulacrum
+1 Evolving Wilds
 1 Medomai's Prophecy
 1 Shalai, Voice of Plenty
 1 Luminous Broodmoth
 1 Steam Vents
 1 Blood Crypt
-1 Massacre Wurm
-1 Evolving Wilds
-1 Migration Path
 1 Uro, Titan of Nature's Wrath
 1 Branchloft Pathway
 1 Elder Gargaroth
+1 Dryad of the Ilysian Grove
+1 Solemn Simulacrum
+1 Migration Path
 1 Elspeth Conquers Death
+1 Massacre Wurm
 1 God-Eternal Rhonas
 1 Mirari's Wake
 1 Wrath of God
@@ -208,7 +209,6 @@
 1 Honden of Night's Reach
 1 Omen of the Hunt
 1 Savai Triome
-1 Cultivate
 1 Honden of Seeing Winds
 1 Omen of the Forge
 1 Renegade Map
@@ -224,12 +224,12 @@
 1 Sanctum of Tranquil Light
 1 Trial of Knowledge
 2 Omen of the Forge
+2 Cultivate
 2 Cragcrown Pathway
 2 Stomping Ground
 2 Godless Shrine
 2 Terror of the Peaks
-2 Dryad of the Ilysian Grove
-2 Solemn Simulacrum
+2 Evolving Wilds
 2 Medomai's Prophecy
 2 The Birth of Meletis
 2 Archon of Sun's Grace
@@ -237,16 +237,16 @@
 2 Escape to the Wilds
 2 Ketria Triome
 2 Klothys, God of Destiny
-2 Migration Path
-2 Evolving Wilds
 2 Branchloft Pathway
+2 Dryad of the Ilysian Grove
+2 Solemn Simulacrum
+2 Migration Path
 2 Uro, Titan of Nature's Wrath
 2 Wrath of God
 2 Elspeth Conquers Death
 2 Mirari's Wake
 2 Blood Crypt
 2 Smothering Tithe
-2 Cultivate
 2 Mastermind's Acquisition
 2 Thirst for Meaning
 2 Mountain
@@ -270,15 +270,16 @@
 2 Riverglide Pathway
 2 Deafening Clarion
 2 Prophetic Prism
+3 Cultivate
 3 Stomping Ground
 3 Cragcrown Pathway
 3 Sacred Foundry
 3 Island
-3 Dryad of the Ilysian Grove
 3 Omen of the Forge
 3 Plains
 3 Savai Triome
 3 Branchloft Pathway
+3 Dryad of the Ilysian Grove
 3 Evolving Wilds
 3 Migration Path
 3 Wrath of God
@@ -290,7 +291,6 @@
 3 Renegade Map
 3 Idyllic Tutor
 3 Uro, Titan of Nature's Wrath
-3 Cultivate
 3 Ketria Triome
 3 Mirari's Wake
 3 Mastermind's Acquisition
@@ -302,22 +302,22 @@
 3 Treacherous Blessing
 3 Watery Grave
 3 Sanctum of All
+4 Cultivate
 4 Stomping Ground
 4 Plains
-4 Dryad of the Ilysian Grove
+4 Lotus Cobra
 4 Temple Garden
 4 Gilded Goose
+4 Dryad of the Ilysian Grove
 4 Sacred Foundry
 4 Island
-4 Lotus Cobra
+4 Migration Path
+4 Evolving Wilds
 4 Deafening Clarion
 4 Prophetic Prism
 4 Treacherous Blessing
 4 Fae of Wishes
-4 Cultivate
 4 Renegade Map
-4 Migration Path
-4 Evolving Wilds
 4 Mastermind's Acquisition
 4 Overgrown Tomb
 4 Wrath of God
@@ -392,6 +392,7 @@
 1 Paradise Druid
 1 Season of Growth
 1 Insatiable Hemophage
+1 Nethroi, Apex of Death
 1 Dirge Bat
 1 Vineglimmer Snarl
 1 Vivien Reid
@@ -402,17 +403,16 @@
 1 Castle Vantress
 1 Tamiyo, Collector of Tales
 1 Castle Locthwain
-1 Nethroi, Apex of Death
 1 Migratory Greathorn
 1 Auspicious Starrix
 1 Barkchannel Pathway
 1 Boneyard Lurker
 1 Pollywog Symbiote
 1 Pouncing Shoreshark
-2 Nissa, Who Shakes the World
 2 Gemrazer
 2 Paradise Druid
 2 Season of Growth
+2 Nissa, Who Shakes the World
 2 Insatiable Hemophage
 2 Dirge Bat
 2 Boneyard Lurker
@@ -428,13 +428,13 @@
 3 Boneyard Lurker
 3 Auspicious Starrix
 3 Pollywog Symbiote
+1 Alrund's Epiphany
 1 Felidar Retreat
 1 Valki, God of Lies
-1 Alrund's Epiphany
 1 Root Snare
 1 Open the Gates
-2 Valki, God of Lies
 2 Alrund's Epiphany
+2 Valki, God of Lies
 2 Felidar Retreat
 2 Root Snare
 2 Open the Gates
@@ -451,19 +451,19 @@
 1 Ratchet Bomb
 3 Stonecoil Serpent
 1 Snow-Covered Plains
-2 Cascading Cataracts
 2 Labyrinth of Skophos
+2 Cascading Cataracts
 3 Labyrinth of Skophos
 1 Cavalier of Dawn
 1 Lukka, Coppercoat Outcast
 1 Thassa, Deep-Dwelling
 1 Heliod, Sun-Crowned
+1 The First Iroan Games
 1 Jace, Unraveler of Secrets
 1 Glaive of the Guildpact
-1 The First Iroan Games
 2 Cavalier of Dawn
-2 Glaive of the Guildpact
 2 The First Iroan Games
+2 Glaive of the Guildpact
 2 Gateway Plaza
 2 Dimir Guildgate
 3 Gateway Plaza
