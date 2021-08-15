@@ -1,12 +1,12 @@
 4 Plains
 3 Mountain
-1 Defiant Strike
 1 Reckless Rage
 1 Tenth District Legionnaire
+1 Defiant Strike
 1 Dreadhorde Arcanist
-2 Defiant Strike
 2 Reckless Rage
 2 Tenth District Legionnaire
+2 Defiant Strike
 2 Dreadhorde Arcanist
 3 Tenth District Legionnaire
 3 Defiant Strike
@@ -177,8 +177,8 @@
 2 Dreadhorde Butcher
 2 Sorin, Vengeful Bloodlord
 3 Blood Crypt
-3 Dreadhorde Butcher
 3 Dragonskull Summit
+3 Dreadhorde Butcher
 4 Blood Crypt
 4 Dreadhorde Butcher
 4 Dragonskull Summit
@@ -209,10 +209,10 @@
 1 Anger of the Gods
 1 Hushbringer
 1 Karn, Scion of Urza
-1 Archon of Emeria
-2 Archon of Emeria
 1 Relic of Progenitus
 2 Gideon of the Trials
+1 Archon of Emeria
+2 Archon of Emeria
 1 Mana Tithe
 2 Mana Tithe
 1 Kari Zev, Skyship Raider
@@ -265,8 +265,8 @@
 4 Servo Exhibition
 2 Vanishing Verse
 4 Concealed Courtyard
-1 Rootbound Crag
 1 Dromoka's Command
+1 Rootbound Crag
 1 Abundant Harvest
 1 Blossoming Defense
 1 Sunpetal Grove

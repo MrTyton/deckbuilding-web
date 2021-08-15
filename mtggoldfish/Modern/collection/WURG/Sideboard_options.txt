@@ -12,10 +12,10 @@
 2 Force of Vigor
 2 Leyline of the Void
 2 Celestial Purge
-1 Plains
-2 Timely Reinforcements
 1 Leyline of Sanctity
 2 Leyline of Sanctity
+1 Plains
+2 Timely Reinforcements
 1 Endurance
 1 Teferi, Time Raveler
 1 Fury
@@ -23,11 +23,11 @@
 3 Fury
 1 Force of Negation
 1 Kozilek, Butcher of Truth
+3 Leyline of Sanctity
+2 Teferi, Time Raveler
 3 Leyline of the Void
 4 Leyline of the Void
 1 Nahiri, the Harbinger
-2 Teferi, Time Raveler
-3 Leyline of Sanctity
 2 Nahiri, the Harbinger
 1 Anger of the Gods
 3 Foundation Breaker
@@ -109,6 +109,7 @@
 4 Chalice of the Void
 1 Eternal Witness
 1 Collector Ouphe
+4 Leyline of Sanctity
 3 Prismatic Ending
 2 Blood Moon
 1 Void Mirror
@@ -131,7 +132,6 @@
 1 Klothys, God of Destiny
 3 Endurance
 3 Force of Vigor
-4 Leyline of Sanctity
 2 Detention Sphere
 1 Obsidian Charmaw
 2 Obsidian Charmaw
@@ -154,6 +154,10 @@
 1 Avalanche Riders
 1 Remand
 1 Shatterstorm
+1 Dead/Gone
+2 Dead/Gone
+1 Akroma, Angel of Fury
+2 Akroma, Angel of Fury
 1 Subtlety
 1 Platinum Emperion
 2 Platinum Emperion
@@ -166,8 +170,6 @@
 4 Prismatic Ending
 1 Fae of Wishes
 1 Drannith Magistrate
-1 Dead/Gone
-2 Dead/Gone
 1 Reclamation Sage
 2 Reclamation Sage
 4 Meddling Mage
@@ -176,40 +178,45 @@
 1 Wheel of Sun and Moon
 2 Sanctifier en-Vec
 1 Ancient Grudge
-1 Omnath, Locus of Creation
 1 Phyrexian Revoker
-1 Hurkyl's Recall
-1 Birds of Paradise
-1 Seasoned Pyromancer
-1 By Force
-1 Dusk/Dawn
-1 Declaration in Stone
 1 Tormod's Crypt
-1 Elder Gargaroth
-1 Fry
+1 Hurkyl's Recall
 1 Grafdigger's Cage
+1 By Force
+1 Elder Gargaroth
+1 Seasoned Pyromancer
+1 Birds of Paradise
+1 Omnath, Locus of Creation
+1 Fry
 1 Anafenza, the Foremost
+1 Declaration in Stone
+1 Dusk/Dawn
+1 Chancellor of the Forge
 2 Geist of Saint Traft
 2 Engineered Explosives
-2 Assassin's Trophy
 1 Sword of Fire and Ice
 2 Drannith Magistrate
 1 Test of Talents
 2 Wheel of Sun and Moon
+1 Fulminator Mage
+1 Through the Breach
+2 Through the Breach
+2 Fulminator Mage
+1 Knight of Autumn
+1 Deafening Silence
+1 Kor Firewalker
+1 Thalia, Guardian of Thraben
+2 Knight of Autumn
+2 Kor Firewalker
 2 Klothys, God of Destiny
 1 Supreme Verdict
 1 Damping Sphere
 1 Kaheera, the Orphanguard
 2 Supreme Verdict
 2 Damping Sphere
-1 Through the Breach
-1 Fulminator Mage
-2 Through the Breach
-2 Fulminator Mage
+2 Assassin's Trophy
 1 Gut Shot
 2 Gut Shot
-1 Akroma, Angel of Fury
-2 Akroma, Angel of Fury
 1 Kolaghan's Command
 1 Abrupt Decay
 2 Abrupt Decay
@@ -217,12 +224,6 @@
 2 Jegantha, the Wellspring
 1 Monastery Mentor
 2 Monastery Mentor
-1 Thalia, Guardian of Thraben
-1 Deafening Silence
-1 Knight of Autumn
-1 Kor Firewalker
-2 Knight of Autumn
-2 Kor Firewalker
 1 Sanctum Prelate
 1 Qasali Pridemage
 2 Sanctum Prelate
@@ -230,6 +231,11 @@
 3 Shattering Spree
 3 Ingot Chewer
 3 Platinum Emperion
+1 Tidehollow Sculler
+2 Tidehollow Sculler
+2 Soul-Guide Lantern
+3 Tidehollow Sculler
+4 Tidehollow Sculler
 1 Fatal Push
 1 Dromoka's Command
 1 Stubborn Denial
@@ -239,18 +245,13 @@
 2 Ancient Grudge
 3 Stubborn Denial
 4 Stubborn Denial
-1 Tidehollow Sculler
-2 Tidehollow Sculler
-2 Soul-Guide Lantern
-3 Tidehollow Sculler
-4 Tidehollow Sculler
 4 Lightning Bolt
 4 Flusterstorm
 4 Force of Vigor
 1 Chandra, Awakened Inferno
 1 Cleansing Nova
-2 Cleansing Nova
 2 Dovin's Veto
+2 Cleansing Nova
 2 Chandra, Awakened Inferno
 3 Dovin's Veto
 4 Dovin's Veto

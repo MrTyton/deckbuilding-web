@@ -1,20 +1,19 @@
-3 Dauthi Voidwalker
 4 Dauthi Voidwalker
+3 Plains
 1 Undying Evil
-1 Charming Prince
-2 Charming Prince
-2 Undying Evil
-3 Charming Prince
 1 Emeria's Call
 1 Maul of the Skyclaves
 1 Agadeem's Awakening
+1 Charming Prince
 2 Emeria's Call
 2 Agadeem's Awakening
+2 Charming Prince
+2 Undying Evil
 3 Emeria's Call
 3 Agadeem's Awakening
+3 Charming Prince
 3 Undying Evil
 4 Undying Evil
-1 Shriekmaw
 1 Collective Brutality
 1 Serra's Emissary
 1 Priest of Fell Rites
@@ -25,7 +24,6 @@
 3 Unmarked Grave
 4 Persist
 4 Unmarked Grave
-3 Skyclave Apparition
 3 Brightclimb Pathway
 4 Brightclimb Pathway
 1 Prismatic Ending
@@ -33,23 +31,22 @@
 1 Unburial Rites
 3 Priest of Fell Rites
 3 Fatal Push
+1 Shriekmaw
 2 Vindicate
+3 Skyclave Apparition
 4 Plains
+4 Thoughtseize
+1 Inquisition of Kozilek
+1 Bone Shards
+2 Collective Brutality
 1 Flickerwisp
 2 Flickerwisp
 1 Castle Locthwain
-1 Inquisition of Kozilek
-4 Thoughtseize
-1 Bone Shards
-2 Collective Brutality
-2 Shriekmaw
 1 Ashen Rider
 1 Liliana of the Veil
-1 Kaya's Guile
-1 Kaya, Orzhov Usurper
-1 Shambling Vent
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
+2 Shriekmaw
 1 Blood Crypt
 1 Night's Whisper
 1 Bloodstained Mire
@@ -62,23 +59,25 @@
 4 Priest of Fell Rites
 4 Archon of Cruelty
 1 Overgrown Tomb
+1 Kaya's Guile
+1 Shambling Vent
+1 Kaya, Orzhov Usurper
 4 Fatal Push
 1 Field of Ruin
 2 Field of Ruin
 3 Field of Ruin
-1 Cave of the Frost Dragon
-2 Kaya's Guile
-2 Damn
-4 Inquisition of Kozilek
-4 Skyclave Apparition
-1 Vanishing Verse
 1 Tidehollow Sculler
 2 Tidehollow Sculler
 3 Tidehollow Sculler
 4 Tidehollow Sculler
-4 Silent Clearing
+1 Cave of the Frost Dragon
+2 Kaya's Guile
+2 Damn
+4 Inquisition of Kozilek
+1 Vanishing Verse
 1 Savai Triome
 2 Liliana of the Veil
+4 Silent Clearing
 4 Field of Ruin
 5 Plains
 6 Plains
@@ -100,6 +99,7 @@
 4 Leonin Arbiter
 4 Giver of Runes
 4 Aether Vial
+4 Skyclave Apparition
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
@@ -127,7 +127,6 @@
 2 Sanctifier en-Vec
 1 Hive of the Eye Tyrant
 3 Callous Bloodmage
-4 Charming Prince
 1 Lingering Souls
 2 Kaya, Orzhov Usurper
 2 Lingering Souls
@@ -161,5 +160,38 @@
 3 Abiding Grace
 4 Squadron Hawk
 4 Ranger-Captain of Eos
-8 Plains
 4 Martyr of Sands
+8 Plains
+1 Inkmoth Nexus
+1 Shadowspear
+1 Urza's Saga
+1 Ingenious Smith
+1 Pithing Needle
+1 Relic of Progenitus
+1 Portable Hole
+1 Welding Jar
+1 Springleaf Drum
+1 Cranial Plating
+1 Ethersworn Canonist
+1 Goldmire Bridge
+1 Nettlecyst
+2 Inkmoth Nexus
+2 Urza's Saga
+2 Ingenious Smith
+2 Portable Hole
+2 Welding Jar
+2 Nettlecyst
+2 Goldmire Bridge
+2 Ethersworn Canonist
+3 Inkmoth Nexus
+3 Urza's Saga
+3 Ethersworn Canonist
+3 Ingenious Smith
+3 Portable Hole
+3 Nettlecyst
+3 Goldmire Bridge
+4 Urza's Saga
+4 Inkmoth Nexus
+4 Portable Hole
+4 Nettlecyst
+4 Goldmire Bridge

@@ -1,298 +1,66 @@
-4 Plains
 4 Forest
-1 Power Word Kill
+4 Plains
 1 Hagra Mauling
+1 Power Word Kill
 2 Power Word Kill
-1 Emeria's Call
 3 Charming Prince
 3 Yorion, Sky Nomad
-2 Emeria's Call
 1 Elspeth, Sun's Nemesis
+1 Emeria's Call
+2 Emeria's Call
 3 Emeria's Call
 4 Emeria's Call
 1 Garruk, Cursed Huntsman
 1 Temple of Malady
 4 Charming Prince
-3 Swamp
 1 Toski, Bearer of Secrets
 1 Field of Ruin
-2 Field of Ruin
 2 Temple of Malady
+2 Field of Ruin
 3 Temple of Malady
-1 Esika's Chariot
 1 Professor Onyx
+3 Swamp
 1 Elspeth's Nightmare
-1 Ranger Class
-2 Ranger Class
-1 Lair of the Hydra
-1 Giant Killer
-2 Giant Killer
-3 Giant Killer
-5 Plains
-6 Plains
-7 Plains
-3 Ranger Class
-4 Ranger Class
-4 Giant Killer
-1 Cave of the Frost Dragon
-1 Legion Angel
-1 Lurrus of the Dream-Den
-1 Gemrazer
-1 Selfless Savior
-1 Edgewall Innkeeper
-2 Cave of the Frost Dragon
-2 Edgewall Innkeeper
-2 Selfless Savior
-2 Gemrazer
-3 Selfless Savior
-3 Edgewall Innkeeper
-4 Edgewall Innkeeper
-4 Selfless Savior
-5 Forest
-6 Forest
-7 Forest
-8 Forest
 1 Portable Hole
 2 Portable Hole
 3 Portable Hole
 1 Vanishing Verse
-1 Drannith Magistrate
-1 Tangled Florahedron
-1 Guardian of Faith
 1 Castle Ardenvale
+1 Tangled Florahedron
 4 Temple of Malady
+1 Lair of the Hydra
 1 Soul Shatter
 1 Temple of Plenty
+1 Esika's Chariot
 1 Mythos of Nethroi
 1 Bala Ged Recovery
-2 Elspeth, Sun's Nemesis
-2 Bala Ged Recovery
 2 Hagra Mauling
+2 Bala Ged Recovery
+2 Elspeth, Sun's Nemesis
 3 Elspeth, Sun's Nemesis
-4 Portable Hole
 2 Vanishing Verse
 3 Vanishing Verse
+4 Portable Hole
 2 Esika's Chariot
-1 Containment Priest
-9 Forest
-1 Shepherd of the Flock
-1 Paladin Class
-2 Drannith Magistrate
+2 Professor Onyx
 1 Ugin, the Spirit Dragon
 1 Nissa of Shadowed Boughs
 2 Nissa of Shadowed Boughs
-1 Mazemind Tome
 1 Glass Casket
+1 Mazemind Tome
 2 Mazemind Tome
-2 Professor Onyx
 1 Pelakka Predation
+1 Ranger Class
 2 Temple of Plenty
 2 Elspeth's Nightmare
+2 Ranger Class
+2 Mythos of Nethroi
+3 Mythos of Nethroi
+4 Elspeth, Sun's Nemesis
 3 Yasharn, Implacable Earth
 4 Yasharn, Implacable Earth
 1 Llanowar Visionary
 2 Llanowar Visionary
 3 Llanowar Visionary
-4 Vanishing Verse
 4 Llanowar Visionary
-2 Mythos of Nethroi
-3 Mythos of Nethroi
-4 Elspeth, Sun's Nemesis
-8 Plains
-1 Triumphant Adventurer
-2 Triumphant Adventurer
-3 Triumphant Adventurer
-4 Triumphant Adventurer
-1 Sigrid, God-Favored
-1 Dire Tactics
-2 Dire Tactics
-3 Dire Tactics
-4 Dire Tactics
-1 Kabira Takedown
-1 Needleverge Pathway
-1 Mountain
-2 Needleverge Pathway
-3 Needleverge Pathway
-4 Needleverge Pathway
-1 Clarion Spirit
-1 Minsc, Beloved Ranger
-1 Showdown of the Skalds
-1 Cragcrown Pathway
-1 Jaspera Sentinel
-2 Clarion Spirit
-2 Paladin Class
-2 Jaspera Sentinel
-2 Kabira Takedown
-2 Showdown of the Skalds
-2 Cragcrown Pathway
-3 Paladin Class
-3 Clarion Spirit
-3 Kabira Takedown
-3 Cragcrown Pathway
-3 Showdown of the Skalds
-3 Jaspera Sentinel
-4 Paladin Class
-4 Jaspera Sentinel
-4 Cragcrown Pathway
-1 Hengegate Pathway
-1 Disdainful Stroke
-1 Hall of Storm Giants
-1 Reidane, God of the Worthy
-2 Hengegate Pathway
-3 Hengegate Pathway
-4 Hengegate Pathway
-1 Doomskar
-1 Snow-Covered Plains
-1 Niko Aris
-1 Koma, Cosmos Serpent
-1 Alrund's Epiphany
-1 Felidar Retreat
-1 Glacial Floodplain
-1 You Hear Something on Watch
-1 Snow-Covered Forest
-1 Snow-Covered Island
-1 Barkchannel Pathway
-1 Vineglimmer Snarl
-1 The Raven's Warning
-1 Arctic Treeline
-2 Doomskar
-2 Snow-Covered Plains
-2 Tangled Florahedron
-2 Vineglimmer Snarl
-2 Glacial Floodplain
-2 Barkchannel Pathway
-2 Alrund's Epiphany
-2 The Raven's Warning
-2 You Hear Something on Watch
-2 Snow-Covered Forest
-2 Snow-Covered Island
-3 Doomskar
-3 Alrund's Epiphany
-3 Tangled Florahedron
-3 Barkchannel Pathway
-3 The Raven's Warning
-4 Tangled Florahedron
-4 The Raven's Warning
-4 Barkchannel Pathway
-1 Maul of the Skyclaves
-1 Basri's Lieutenant
-1 Nadaar, Selfless Paladin
-1 Steelclaw Lance
-1 Blacklance Paragon
-1 Blightstep Pathway
-1 Embercleave
-1 Inspiring Veteran
-1 Den of the Bugbear
-1 Steadfast Paladin
-1 Acclaimed Contender
-1 Embereth Shieldbreaker
-1 Fervent Champion
-1 Tournament Grounds
-1 Venerable Knight
-2 Maul of the Skyclaves
-2 Embercleave
-2 Blightstep Pathway
-2 Embereth Shieldbreaker
-2 Tournament Grounds
-2 Mountain
-2 Steadfast Paladin
-2 Basri's Lieutenant
-2 Fervent Champion
-2 Acclaimed Contender
-2 Inspiring Veteran
-2 Nadaar, Selfless Paladin
-2 Blacklance Paragon
-3 Maul of the Skyclaves
-3 Inspiring Veteran
-3 Nadaar, Selfless Paladin
-3 Blacklance Paragon
-3 Embercleave
-3 Blightstep Pathway
-3 Tournament Grounds
-3 Mountain
-3 Acclaimed Contender
-3 Fervent Champion
-4 Tournament Grounds
-4 Inspiring Veteran
-4 Fervent Champion
-4 Acclaimed Contender
-4 Blightstep Pathway
-1 Orah, Skyclave Hierophant
-1 Cleric Class
-1 Vito, Thorn of the Dusk Rose
-1 Angel of Destiny
-1 Cleric of Life's Bond
-1 Mangara, the Diplomat
-1 Speaker of the Heavens
-1 Righteous Valkyrie
-1 Temple of Silence
-1 Radiant Fountain
-1 Nullpriest of Oblivion
-2 Containment Priest
-2 Righteous Valkyrie
-2 Mangara, the Diplomat
-2 Radiant Fountain
-2 Nullpriest of Oblivion
-2 Orah, Skyclave Hierophant
-2 Speaker of the Heavens
-2 Vito, Thorn of the Dusk Rose
-2 Cleric Class
-2 Angel of Destiny
-2 Temple of Silence
-2 Cleric of Life's Bond
-3 Temple of Silence
-3 Cleric of Life's Bond
-3 Containment Priest
-3 Righteous Valkyrie
-3 Mangara, the Diplomat
-3 Nullpriest of Oblivion
-3 Orah, Skyclave Hierophant
-3 Speaker of the Heavens
-3 Cleric Class
-3 Vito, Thorn of the Dusk Rose
-3 Angel of Destiny
-4 Temple of Silence
-4 Cleric of Life's Bond
-4 Swamp
-4 Speaker of the Heavens
-4 Righteous Valkyrie
-5 Swamp
-6 Swamp
-1 Archon of Emeria
-1 Baneslayer Angel
-1 Icingdeath, Frost Tyrant
-1 Basri Ket
-1 Castle Vantress
-1 Skycat Sovereign
-1 Dancing Sword
-1 Dream Trawler
-1 Island
-1 Jubilant Skybonder
-1 Brazen Borrower
-1 Watcher of the Spheres
-1 Lofty Denial
-2 Archon of Emeria
-2 Disdainful Stroke
-2 Dancing Sword
-2 Island
-2 Lofty Denial
-2 Jubilant Skybonder
-2 Brazen Borrower
-2 Basri Ket
-2 Reidane, God of the Worthy
-2 Watcher of the Spheres
-2 Skycat Sovereign
-3 Skycat Sovereign
-3 Jubilant Skybonder
-3 Island
-3 Lofty Denial
-3 Archon of Emeria
-3 Brazen Borrower
-3 Watcher of the Spheres
-4 Jubilant Skybonder
-4 Island
-4 Watcher of the Spheres
-4 Lofty Denial
-5 Island
-6 Island
-7 Island
+4 Vanishing Verse
