@@ -139,10 +139,8 @@
 1 Dryad of the Ilysian Grove
 1 Savai Triome
 1 Escape to the Wilds
-1 Solemn Simulacrum
 1 Cragcrown Pathway
 1 Shalai, Voice of Plenty
-1 Luminous Broodmoth
 1 Blood Crypt
 1 Branchloft Pathway
 1 Elder Gargaroth
@@ -154,6 +152,7 @@
 1 Sanctum of All
 1 Genesis Ultimatum
 1 Assassin's Trophy
+1 Luminous Broodmoth
 1 Ulvenwald Hydra
 1 Sanctum of Shattered Heights
 1 Fae of Wishes
@@ -182,11 +181,11 @@
 1 Godless Shrine
 1 Sanctum of Fruitful Harvest
 1 Sanctum of Tranquil Light
+1 Solemn Simulacrum
 1 Trial of Knowledge
 2 Omen of the Forge
 2 Terror of the Peaks
 2 Dryad of the Ilysian Grove
-2 Solemn Simulacrum
 2 Yorion, Sky Nomad
 2 Stomping Ground
 2 Cragcrown Pathway
@@ -199,7 +198,6 @@
 2 Evolving Wilds
 2 Assassin's Trophy
 2 Branchloft Pathway
-2 Genesis Ultimatum
 2 Wrath of God
 2 Elspeth Conquers Death
 2 Mirari's Wake
@@ -215,8 +213,10 @@
 2 Steam Vents
 2 Watery Grave
 2 Sanctum of All
+2 Solemn Simulacrum
 2 Honden of Infinite Rage
 2 Trial of Knowledge
+2 Genesis Ultimatum
 2 Hallowed Fountain
 2 Sanctum of Stone Fangs
 2 Omen of the Hunt
@@ -264,7 +264,6 @@
 4 Temple Garden
 4 Overgrown Tomb
 4 Gilded Goose
-4 Evolving Wilds
 4 Sacred Foundry
 4 Plains
 4 Stomping Ground
@@ -275,6 +274,7 @@
 4 Cultivate
 4 Renegade Map
 4 Migration Path
+4 Evolving Wilds
 4 Mastermind's Acquisition
 4 Wrath of God
 4 Steam Vents
@@ -397,32 +397,32 @@
 1 Castle Locthwain
 1 Temple of Deceit
 1 Necroblossom Snarl
+1 Pollywog Symbiote
 1 Temple of Malady
 1 Paradise Druid
 1 Barkchannel Pathway
 1 Season of Growth
 1 Darkbore Pathway
-1 Insatiable Hemophage
-1 Dirge Bat
 1 Vivien Reid
 1 Scute Swarm
 1 Nissa, Who Shakes the World
 1 Vivien, Champion of the Wilds
 1 Castle Vantress
+1 Dirge Bat
 1 Nethroi, Apex of Death
 1 Vineglimmer Snarl
 1 Migratory Greathorn
 1 Auspicious Starrix
 1 Boneyard Lurker
-1 Pollywog Symbiote
 1 Pouncing Shoreshark
+1 Insatiable Hemophage
 2 Paradise Druid
 2 Season of Growth
 2 Gemrazer
 2 Insatiable Hemophage
-2 Dirge Bat
 2 Boneyard Lurker
 2 Auspicious Starrix
+2 Dirge Bat
 2 Migratory Greathorn
 2 Pollywog Symbiote
 2 Darkbore Pathway
@@ -430,8 +430,8 @@
 2 Nissa, Who Shakes the World
 3 Gemrazer
 3 Paradise Druid
-3 Insatiable Hemophage
 3 Migratory Greathorn
+3 Insatiable Hemophage
 3 Boneyard Lurker
 3 Auspicious Starrix
 3 Pollywog Symbiote
