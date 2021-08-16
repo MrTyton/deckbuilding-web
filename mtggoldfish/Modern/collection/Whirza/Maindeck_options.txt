@@ -1,11 +1,11 @@
-4 Urza, Lord High Artificer
 1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
 4 Urza's Saga
+4 Urza, Lord High Artificer
+1 Hallowed Fountain
 2 Thopter Foundry
 1 Raugrin Triome
-1 Hallowed Fountain
 2 Sword of the Meek
 3 Thopter Foundry
 1 Aether Spellbomb
@@ -18,13 +18,12 @@
 2 Flooded Strand
 3 Flooded Strand
 4 Flooded Strand
+1 Island
+2 Island
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
-1 Island
-2 Island
-4 Thopter Foundry
 1 Portable Hole
 2 Portable Hole
 3 Island
@@ -32,9 +31,8 @@
 2 Talisman of Progress
 3 Portable Hole
 1 Shadowspear
-2 Spire of Industry
 1 Plains
-1 Engineered Explosives
+4 Thopter Foundry
 1 Soul-Guide Lantern
 2 Hallowed Fountain
 1 Teferi, Time Raveler
@@ -46,8 +44,12 @@
 1 Razortide Bridge
 2 Seachrome Coast
 3 Seachrome Coast
-4 Portable Hole
 4 Seachrome Coast
+4 Portable Hole
+1 Engineered Explosives
+2 Spire of Industry
+1 Collective Brutality
+2 Collective Brutality
 1 Nihil Spellbomb
 1 Steam Vents
 1 Goblin Engineer
@@ -57,39 +59,31 @@
 1 Galvanic Blast
 2 Witching Well
 2 Galvanic Blast
+3 Goblin Engineer
+4 Goblin Engineer
 1 Watery Grave
 3 Polluted Delta
 4 Polluted Delta
-3 Goblin Engineer
-4 Goblin Engineer
-1 Collective Brutality
-2 Collective Brutality
-1 Blood Crypt
-3 Snow-Covered Island
-4 Snow-Covered Island
 3 Chromatic Star
 3 Galvanic Blast
-1 Pentad Prism
-2 Pentad Prism
+1 Blood Crypt
 3 Scalding Tarn
-1 Snow-Covered Swamp
+3 Snow-Covered Island
+4 Snow-Covered Island
 1 Spine of Ish Sah
 1 Ichor Wellspring
+1 Pentad Prism
+2 Pentad Prism
 3 Witching Well
 3 Pentad Prism
 4 Witching Well
-1 Damping Sphere
-5 Snow-Covered Island
-3 Spire of Industry
 1 Prismatic Ending
+1 Damping Sphere
+1 Snow-Covered Swamp
+5 Snow-Covered Island
 1 Elixir of Immortality
+3 Spire of Industry
 4 Spire of Industry
-1 Metallic Rebuke
-1 Emry, Lurker of the Loch
-2 Metallic Rebuke
-2 Emry, Lurker of the Loch
-3 Emry, Lurker of the Loch
-4 Emry, Lurker of the Loch
 1 Karn, the Great Creator
 1 River of Tears
 1 Relic of Progenitus
@@ -102,40 +96,43 @@
 3 Talisman of Dominance
 1 Pyrite Spellbomb
 3 Talisman of Progress
+1 Metallic Rebuke
+1 Emry, Lurker of the Loch
+2 Metallic Rebuke
+2 Emry, Lurker of the Loch
+3 Emry, Lurker of the Loch
+4 Emry, Lurker of the Loch
 1 Breeding Pool
 1 Snow-Covered Plains
-1 Aether Vial
 1 The Underworld Cookbook
 1 Misty Rainforest
 1 Springleaf Drum
+1 Aether Vial
 1 Ovalchase Daredevil
 1 Gilded Goose
 1 Asmoranomardicadaistinaculdacar
-2 Aether Vial
 2 Gilded Goose
+2 Aether Vial
 2 The Underworld Cookbook
 2 Asmoranomardicadaistinaculdacar
 2 Misty Rainforest
-3 Aether Vial
 3 Metallic Rebuke
+3 Aether Vial
 3 Misty Rainforest
 3 Asmoranomardicadaistinaculdacar
 3 Gilded Goose
 3 The Underworld Cookbook
-4 Aether Vial
 4 The Underworld Cookbook
 4 Misty Rainforest
 4 Gilded Goose
+4 Aether Vial
 1 Sacred Foundry
 1 Silverbluff Bridge
 3 Collective Brutality
 1 Swamp
 4 Island
 5 Island
-1 Mox Amber
-1 Minamo, School at Water's Edge
-2 Engineered Explosives
-3 Engineered Explosives
+1 Path to Exile
 2 Prismatic Ending
 2 Nihil Spellbomb
 1 Lurrus of the Dream-Den
@@ -146,8 +143,8 @@
 1 Hex Parasite
 1 Thraben Inspector
 1 Eladamri's Call
-2 Eladamri's Call
 2 Thraben Inspector
+2 Eladamri's Call
 3 Thraben Inspector
 4 Thraben Inspector
 4 Metallic Rebuke
@@ -168,28 +165,31 @@
 2 Plains
 1 Isolated Chapel
 1 Serum Visions
+1 Drowned Catacomb
 1 Fatal Push
 1 Bloodchief's Thirst
 1 Temple Garden
-1 Drowned Catacomb
 1 Tribute Mage
 1 Glacial Fortress
-2 Fatal Push
 2 Serum Visions
-3 Fatal Push
+2 Fatal Push
 3 Serum Visions
+3 Fatal Push
 4 Serum Visions
 4 Galvanic Blast
 1 Plargg, Dean of Chaos
+1 Mox Amber
+1 Minamo, School at Water's Edge
 2 Plargg, Dean of Chaos
 2 Mox Amber
+2 Engineered Explosives
+3 Engineered Explosives
 3 Mox Amber
 4 Mox Amber
 1 Nettlecyst
-1 Path to Exile
-2 Snow-Covered Plains
 2 Path to Exile
 2 Soul-Guide Lantern
+2 Snow-Covered Plains
 3 Hallowed Fountain
 3 Prismatic Ending
 4 Scalding Tarn

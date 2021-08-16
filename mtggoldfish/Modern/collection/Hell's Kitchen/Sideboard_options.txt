@@ -32,11 +32,10 @@
 1 Caustic Caterpillar
 1 Kaya, Orzhov Usurper
 2 Nihil Spellbomb
-1 Void Mirror
-1 Break the Ice
-1 Executioner's Capsule
-2 Void Mirror
-2 Break the Ice
+1 Feed the Swarm
+1 By Force
+2 By Force
+2 Feed the Swarm
 1 Time Sieve
 1 Walking Ballista
 1 Liquimetal Coating
@@ -46,10 +45,11 @@
 1 Witch's Oven
 1 Skysovereign, Consul Flagship
 2 Bone Shards
-1 Feed the Swarm
-1 By Force
-2 Feed the Swarm
-2 By Force
+1 Void Mirror
+1 Break the Ice
+1 Executioner's Capsule
+2 Void Mirror
+2 Break the Ice
 1 Academy Manufactor
 1 Deglamer
 2 Plague Engineer
@@ -57,12 +57,8 @@
 1 Dauthi Voidwalker
 2 Dauthi Voidwalker
 3 Trail of Crumbs
+3 Inquisition of Kozilek
 4 Fatal Push
-1 Duress
-1 Chatterfang, Squirrel General
-2 Duress
-3 Duress
-4 Duress
 1 Aether Spellbomb
 1 Metallic Rebuke
 1 Tireless Tracker
@@ -70,4 +66,8 @@
 2 Metallic Rebuke
 3 Metallic Rebuke
 4 Metallic Rebuke
-3 Inquisition of Kozilek
+1 Duress
+1 Chatterfang, Squirrel General
+2 Duress
+3 Duress
+4 Duress

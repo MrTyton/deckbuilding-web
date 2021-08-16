@@ -35,13 +35,13 @@
 1 Branchloft Pathway
 1 Stirring Wildwood
 1 Forest
-2 Razorverge Thicket
 2 Temple Garden
 2 Branchloft Pathway
 2 Noble Hierarch
 2 Stirring Wildwood
-3 Razorverge Thicket
+2 Razorverge Thicket
 3 Noble Hierarch
+3 Razorverge Thicket
 4 Razorverge Thicket
 4 Noble Hierarch
 13 Plains
@@ -106,48 +106,48 @@
 1 Sacred Foundry
 2 Sacred Foundry
 2 Magus of the Moon
-1 Raugrin Triome
-1 Glacial Fortress
+1 Shefet Dunes
+2 Shefet Dunes
+3 Elite Spellbinder
+4 Elite Spellbinder
 1 Unsettled Mariner
 1 Glasspool Mimic
+1 Raugrin Triome
+1 Island
 1 Hengegate Pathway
-1 Godless Shrine
 1 Marsh Flats
 1 Meddling Mage
-1 Island
 1 Teferi, Time Raveler
+1 Godless Shrine
 1 Hallowed Fountain
+1 Glacial Fortress
 1 Flooded Strand
-2 Hengegate Pathway
 2 Glacial Fortress
 2 Unsettled Mariner
 2 Glasspool Mimic
+2 Hengegate Pathway
 2 Marsh Flats
 2 Meddling Mage
 2 Teferi, Time Raveler
 2 Hallowed Fountain
 2 Flooded Strand
-3 Hengegate Pathway
-3 Glacial Fortress
 3 Unsettled Mariner
+3 Hengegate Pathway
 3 Hallowed Fountain
+3 Glacial Fortress
 3 Teferi, Time Raveler
 4 Unsettled Mariner
 4 Hallowed Fountain
-1 Shefet Dunes
-2 Shefet Dunes
-3 Elite Spellbinder
-4 Elite Spellbinder
-1 Aven Mindcensor
 1 Oath of Nissa
-2 Aven Mindcensor
+1 Aven Mindcensor
 2 Oath of Nissa
+2 Aven Mindcensor
+3 Oath of Nissa
 3 Branchloft Pathway
 3 Temple Garden
-3 Oath of Nissa
+4 Oath of Nissa
 4 Branchloft Pathway
 4 Temple Garden
-4 Oath of Nissa
 1 Skyclave Cleric
 1 Thraben Inspector
 1 Ephemerate
@@ -161,27 +161,18 @@
 16 Plains
 1 Pithing Needle
 1 Auriok Champion
+2 Flagstones of Trokair
 1 Reidane, God of the Worthy
 2 Reidane, God of the Worthy
-2 Flagstones of Trokair
 1 Phyrexian Revoker
 2 Phyrexian Revoker
-1 Kiki-Jiki, Mirror Breaker
-1 Lightning Bolt
-1 Prismatic Vista
-1 Windswept Heath
-1 Rugged Prairie
-1 Needleverge Pathway
-1 Felidar Guardian
-2 Lightning Bolt
-2 Windswept Heath
-2 Prismatic Vista
-2 Mountain
-2 Needleverge Pathway
-3 Sacred Foundry
-3 Lightning Bolt
-3 Needleverge Pathway
-4 Lightning Bolt
+1 Sword of Feast and Famine
+1 Tithe Taker
+2 Tithe Taker
+3 Sanctum Prelate
+3 Tithe Taker
+4 Sanctum Prelate
+4 Tithe Taker
 1 On Thin Ice
 2 On Thin Ice
 3 On Thin Ice
@@ -190,10 +181,19 @@
 11 Snow-Covered Plains
 12 Snow-Covered Plains
 13 Snow-Covered Plains
-1 Sword of Feast and Famine
-1 Tithe Taker
-2 Tithe Taker
-3 Sanctum Prelate
-3 Tithe Taker
-4 Sanctum Prelate
-4 Tithe Taker
+1 Kiki-Jiki, Mirror Breaker
+1 Felidar Guardian
+1 Windswept Heath
+1 Rugged Prairie
+1 Prismatic Vista
+1 Needleverge Pathway
+1 Lightning Bolt
+2 Windswept Heath
+2 Prismatic Vista
+2 Needleverge Pathway
+2 Lightning Bolt
+2 Mountain
+3 Sacred Foundry
+3 Needleverge Pathway
+3 Lightning Bolt
+4 Lightning Bolt

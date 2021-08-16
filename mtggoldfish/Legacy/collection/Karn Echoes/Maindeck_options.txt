@@ -1,4 +1,3 @@
-2 Manifold Key
 2 Basalt Monolith
 3 Mesmeric Orb
 3 Basalt Monolith
@@ -6,8 +5,10 @@
 2 Defense Grid
 3 Defense Grid
 4 Defense Grid
-1 Narset, Parter of Veils
+3 Hullbreacher
 1 Walking Ballista
+1 Narset, Parter of Veils
+4 Voltaic Key
 4 Hullbreacher
 2 Narset, Parter of Veils
 1 Day's Undoing
@@ -15,16 +16,16 @@
 1 Chrome Mox
 1 Intuition
 2 Chrome Mox
+2 Day's Undoing
 2 Intuition
 2 Sea Gate Restoration
-2 Day's Undoing
 3 Chrome Mox
 3 Narset, Parter of Veils
 3 Sea Gate Restoration
 3 Day's Undoing
 4 Chrome Mox
-4 Day's Undoing
 4 Narset, Parter of Veils
+4 Day's Undoing
 4 Sea Gate Restoration
 5 Island
 6 Island
@@ -35,30 +36,28 @@
 3 Emry, Lurker of the Loch
 4 Emry, Lurker of the Loch
 4 Urza, Lord High Artificer
+1 Inventors' Fair
+1 Crystal Vein
 1 Seat of the Synod
 2 Seat of the Synod
 3 Seat of the Synod
 4 Seat of the Synod
 1 Mishra's Bauble
-4 Voltaic Key
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 1 Sai, Master Thopterist
-1 Urza's Bauble
-2 Mishra's Bauble
 3 Manifold Key
-1 Crystal Vein
-1 Inventors' Fair
-2 Urza's Bauble
-3 Urza's Bauble
 1 Expedition Map
 2 Inventors' Fair
+1 Urza's Bauble
+2 Mishra's Bauble
+2 Urza's Bauble
+3 Urza's Bauble
 4 Snow-Covered Island
-2 Sai, Master Thopterist
-4 Urza's Bauble
 1 Cavern of Souls
 2 Cavern of Souls
+2 Sai, Master Thopterist
 3 Mishra's Bauble
 1 Retrofitter Foundry
 1 Shadowspear
@@ -69,6 +68,7 @@
 1 Dismember
 1 Thought Monitor
 2 Thought Monitor
+4 Urza's Bauble
 4 Mishra's Bauble
 5 Snow-Covered Island
 1 Teferi, Time Raveler
@@ -81,8 +81,8 @@
 3 Flooded Strand
 1 Blast Zone
 1 Aether Spellbomb
-1 Ghirapur Aether Grid
 1 Mox Amber
+1 Ghirapur Aether Grid
 1 Engineered Explosives
 1 Glimmervoid
 2 Engineered Explosives
@@ -92,17 +92,16 @@
 4 Manifold Key
 3 Inventors' Fair
 4 Basalt Monolith
-6 Snow-Covered Island
 1 Birgi, God of Storytelling
-1 Chromatic Star
 1 Doubling Cube
 1 Jeweled Lotus
 1 Chromatic Sphere
+1 Chromatic Star
 1 Helm of Awakening
+2 Birgi, God of Storytelling
 2 Jeweled Lotus
 2 Chromatic Sphere
 2 Helm of Awakening
-2 Birgi, God of Storytelling
 2 Chromatic Star
 2 Doubling Cube
 3 Chromatic Star
@@ -114,3 +113,4 @@
 4 Chromatic Sphere
 4 Lion's Eye Diamond
 4 Helm of Awakening
+6 Snow-Covered Island
