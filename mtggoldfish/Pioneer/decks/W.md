@@ -29,8 +29,22 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|-------------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    2|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)|                     |              |
-|                   26|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)   |                     |              |
+|*n*<sup>th</sup> copy|                                             Maindeck Card                                              |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|--------------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    2|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)       |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
+|                    1|[Golos, Tireless Pilgrim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466980)      |                    1|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)|
+|                    1|[Cascading Cataracts](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426942)          |                    1|[Light of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479540)    |
+|                    1|[Gideon of the Trials](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426716)         |                    1|[Doomskar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503613)         |
+|                    1|[Skysovereign, Consul Flagship](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417807)|                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |
+|                    1|[Aethersphere Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423809)       |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
+|                    1|[Castle Ardenvale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473200)             |                    2|[Doomskar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503613)         |
+|                    1|[Eye of Vecna](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527530)                 |                    2|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)|
+|                    1|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)            |                    3|[Doomskar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503613)         |
+|                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)                |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |
+|                    1|[Elspeth Conquers Death](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476264)       |                     |                                                                                            |
+|                    2|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)            |                     |                                                                                            |
+|                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)                |                     |                                                                                            |
+|                    2|[Tomik, Distinguished Advokist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460961)|                     |                                                                                            |
+|                    4|[Portable Hole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527320)                |                     |                                                                                            |
+|                   26|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)          |                     |                                                                                            |
 

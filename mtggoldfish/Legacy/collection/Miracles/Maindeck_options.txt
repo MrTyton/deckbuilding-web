@@ -1,24 +1,24 @@
 3 Snow-Covered Island
-1 Misty Rainforest
-1 Mountain
+2 Scalding Tarn
 5 Island
+1 Misty Rainforest
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
+1 Karakas
 2 Misty Rainforest
 3 Uro, Titan of Nature's Wrath
 3 Misty Rainforest
 1 Tropical Island
 1 Sylvan Library
 1 Endurance
-1 Karakas
-2 Scalding Tarn
+1 Mountain
 4 Misty Rainforest
 2 Tropical Island
 1 Shark Typhoon
 2 Endurance
 3 Terminus
-1 Snow-Covered Forest
 1 Savannah
+1 Snow-Covered Forest
 2 Snow-Covered Forest
 1 Abundant Harvest
 2 Abundant Harvest
@@ -29,35 +29,33 @@
 2 Shark Typhoon
 1 Spell Pierce
 2 Spell Pierce
+1 Snow-Covered Mountain
 2 Snow-Covered Plains
 1 Supreme Verdict
-1 Snow-Covered Mountain
 4 Snow-Covered Island
+5 Snow-Covered Island
 1 Mystic Sanctuary
 2 Tundra
-5 Snow-Covered Island
 6 Snow-Covered Island
 2 Sylvan Library
-2 Predict
-2 Monastery Mentor
-1 Entreat the Angels
 1 Forest
 2 Forest
 6 Island
-2 Preordain
+2 Predict
+2 Monastery Mentor
 2 Narset, Parter of Veils
-1 Portent
-2 Portent
+3 Narset, Parter of Veils
+1 Entreat the Angels
 1 Abundant Growth
 2 Abundant Growth
 3 Abundant Growth
 4 Abundant Growth
-3 Narset, Parter of Veils
+2 Preordain
 4 Prismatic Ending
+1 Gideon, Ally of Zendikar
+1 Portent
 2 Mystic Sanctuary
-1 Polluted Delta
-2 Polluted Delta
-3 Tundra
+2 Portent
 3 Abundant Harvest
 1 Windswept Heath
 1 Serpentine Curve
@@ -65,36 +63,39 @@
 2 Windswept Heath
 2 Stifle
 2 Serpentine Curve
-3 Forest
 3 Windswept Heath
+3 Forest
 3 Serpentine Curve
 3 Stifle
 4 Stifle
 4 Serpentine Curve
 3 Scalding Tarn
 4 Scalding Tarn
-2 Volcanic Island
-3 Monastery Mentor
+1 Murktide Regent
+2 Murktide Regent
+3 Murktide Regent
 1 Chandra, Awakened Inferno
-1 Gideon, Ally of Zendikar
 1 Unexpectedly Absent
-3 Teferi, Time Raveler
-1 Teferi, Hero of Dominaria
-2 Counterspell
-3 Counterspell
-3 Mystic Sanctuary
-4 Abundant Harvest
-1 Mishra's Bauble
 1 Engineered Explosives
-1 Sevinne's Reclamation
-2 Mishra's Bauble
-2 Engineered Explosives
-3 Predict
-3 Mishra's Bauble
-4 Mishra's Bauble
+2 Gideon, Ally of Zendikar
+3 Teferi, Time Raveler
 3 Preordain
+3 Monastery Mentor
 4 Preordain
 4 Monastery Mentor
+1 Intuition
+1 Ancient Tomb
+1 Frantic Inventory
+1 Hullbreacher
+1 Sevinne's Reclamation
+2 Frantic Inventory
+2 Hullbreacher
+2 Intuition
+2 Volcanic Island
+3 Frantic Inventory
+4 Frantic Inventory
+4 Murktide Regent
+4 Abundant Harvest
 1 Growth Spiral
 1 Daze
 2 Growth Spiral
@@ -104,6 +105,10 @@
 3 Daze
 4 Growth Spiral
 4 Daze
-1 Arid Mesa
-4 Terminus
-3 Counterbalance
+1 Polluted Delta
+1 Teferi, Hero of Dominaria
+2 Polluted Delta
+2 Counterspell
+3 Counterspell
+3 Tundra
+3 Mystic Sanctuary

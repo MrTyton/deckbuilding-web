@@ -1,5 +1,22 @@
+2 Unmarked Grave
+2 Priest of Fell Rites
+3 Unmarked Grave
+4 Persist
+1 Prismatic Ending
+2 Prismatic Ending
+1 Dauthi Voidwalker
+2 Dauthi Voidwalker
+3 Dauthi Voidwalker
 4 Dauthi Voidwalker
+1 Unburial Rites
+3 Priest of Fell Rites
+4 Unmarked Grave
+4 Solitude
+3 Brightclimb Pathway
+4 Brightclimb Pathway
+4 Malakir Rebirth
 3 Plains
+3 Fatal Push
 1 Undying Evil
 1 Emeria's Call
 1 Maul of the Skyclaves
@@ -14,39 +31,20 @@
 3 Charming Prince
 3 Undying Evil
 4 Undying Evil
-1 Collective Brutality
-1 Serra's Emissary
-1 Priest of Fell Rites
-1 Unmarked Grave
-1 Archon of Cruelty
-2 Unmarked Grave
-2 Priest of Fell Rites
-3 Unmarked Grave
-4 Persist
-4 Unmarked Grave
-3 Brightclimb Pathway
-4 Brightclimb Pathway
-1 Prismatic Ending
-2 Prismatic Ending
-1 Unburial Rites
-3 Priest of Fell Rites
-3 Fatal Push
-1 Shriekmaw
 2 Vindicate
-3 Skyclave Apparition
-4 Plains
-4 Thoughtseize
-1 Inquisition of Kozilek
 1 Bone Shards
-2 Collective Brutality
-1 Flickerwisp
-2 Flickerwisp
 1 Ashen Rider
 1 Castle Locthwain
+1 Shriekmaw
+4 Thoughtseize
+3 Skyclave Apparition
+1 Inquisition of Kozilek
+2 Collective Brutality
+1 Overgrown Tomb
+4 Plains
 1 Liliana of the Veil
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
-2 Shriekmaw
 1 Blood Crypt
 1 Night's Whisper
 1 Bloodstained Mire
@@ -58,8 +56,10 @@
 3 Night's Whisper
 4 Priest of Fell Rites
 4 Archon of Cruelty
-1 Overgrown Tomb
+1 Cave of the Frost Dragon
 1 Kaya's Guile
+1 Flickerwisp
+2 Flickerwisp
 1 Shambling Vent
 1 Kaya, Orzhov Usurper
 4 Fatal Push
@@ -70,7 +70,7 @@
 2 Tidehollow Sculler
 3 Tidehollow Sculler
 4 Tidehollow Sculler
-1 Cave of the Frost Dragon
+2 Shriekmaw
 2 Kaya's Guile
 2 Damn
 4 Inquisition of Kozilek
@@ -133,35 +133,6 @@
 3 Liliana of the Veil
 3 Prismatic Ending
 4 Prismatic Ending
-1 Speaker of the Heavens
-1 Path to Exile
-1 Castle Ardenvale
-1 Serra Ascendant
-1 Sorin, Vengeful Bloodlord
-1 Abiding Grace
-1 Kami of False Hope
-1 Cavern of Souls
-1 Squadron Hawk
-1 Martyr of Sands
-1 Mistveil Plains
-1 Ranger-Captain of Eos
-2 Speaker of the Heavens
-2 Path to Exile
-2 Ranger-Captain of Eos
-2 Serra Ascendant
-2 Abiding Grace
-2 Martyr of Sands
-2 Cavern of Souls
-2 Squadron Hawk
-3 Path to Exile
-3 Squadron Hawk
-3 Martyr of Sands
-3 Ranger-Captain of Eos
-3 Abiding Grace
-4 Squadron Hawk
-4 Ranger-Captain of Eos
-4 Martyr of Sands
-8 Plains
 1 Inkmoth Nexus
 1 Shadowspear
 1 Urza's Saga
@@ -195,3 +166,33 @@
 4 Portable Hole
 4 Nettlecyst
 4 Goldmire Bridge
+1 Speaker of the Heavens
+1 Path to Exile
+1 Castle Ardenvale
+1 Serra Ascendant
+1 Sorin, Vengeful Bloodlord
+1 Abiding Grace
+1 Kami of False Hope
+1 Cavern of Souls
+1 Squadron Hawk
+1 Martyr of Sands
+1 Mistveil Plains
+1 Ranger-Captain of Eos
+2 Speaker of the Heavens
+2 Path to Exile
+2 Ranger-Captain of Eos
+2 Serra Ascendant
+2 Abiding Grace
+2 Martyr of Sands
+2 Cavern of Souls
+2 Squadron Hawk
+3 Path to Exile
+3 Squadron Hawk
+3 Martyr of Sands
+3 Ranger-Captain of Eos
+3 Abiding Grace
+4 Squadron Hawk
+4 Ranger-Captain of Eos
+4 Martyr of Sands
+8 Plains
+4 Godless Shrine

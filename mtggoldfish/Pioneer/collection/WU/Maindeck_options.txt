@@ -9,8 +9,8 @@
 1 Agent of Treachery
 1 Elite Guardmage
 2 Elite Guardmage
-3 Elite Guardmage
 3 Yorion, Sky Nomad
+3 Elite Guardmage
 4 Hengegate Pathway
 5 Plains
 6 Plains
@@ -40,38 +40,43 @@
 8 Island
 2 Agent of Treachery
 4 Azorius Charm
-9 Plains
 3 Teferi, Hero of Dominaria
-1 Glasspool Mimic
-1 Geier Reach Sanitarium
-1 Prairie Stream
+9 Plains
 1 Mystical Dispute
+1 Glasspool Mimic
 2 Mystical Dispute
 3 Mystical Dispute
+1 Geier Reach Sanitarium
+4 Mutavault
+1 Prairie Stream
+4 Mystical Dispute
 3 Field of Ruin
 1 Reflector Mage
 1 Faith's Fetters
 2 Reflector Mage
 2 Faith's Fetters
 3 Reflector Mage
-4 Mutavault
+1 Nezahal, Primal Tide
+2 Elspeth, Sun's Nemesis
+3 Elspeth, Sun's Nemesis
 1 Ondu Inversion
-4 Mystical Dispute
 1 Silkwrap
 2 Silkwrap
 3 Silkwrap
 4 Silkwrap
 1 Sphinx's Revelation
 2 Emeria's Call
-1 Nezahal, Primal Tide
-2 Elspeth, Sun's Nemesis
-3 Elspeth, Sun's Nemesis
 3 Faith's Fetters
 4 Reflector Mage
 1 Priest of Ancient Lore
 2 Priest of Ancient Lore
 3 Priest of Ancient Lore
 4 Priest of Ancient Lore
+1 Dig Through Time
+1 Censor
+2 Censor
+2 Dig Through Time
+3 Dig Through Time
 1 Elite Spellbinder
 2 Elite Spellbinder
 3 Elite Spellbinder
@@ -79,51 +84,59 @@
 1 Arcanist's Owl
 1 Knight of the White Orchid
 2 Nykthos, Shrine to Nyx
-2 Knight of the White Orchid
 2 Arcanist's Owl
+2 Knight of the White Orchid
 3 Nykthos, Shrine to Nyx
 3 Knight of the White Orchid
 4 Knight of the White Orchid
-1 Dig Through Time
-2 Dig Through Time
-3 Dig Through Time
-1 Censor
-2 Censor
 3 Censor
 4 Censor
 1 Horribly Awry
-4 Elite Spellbinder
-4 Elspeth Conquers Death
-4 The Book of Exalted Deeds
+1 Sulfur Falls
+1 Prismari Command
+1 Steam Vents
+1 Raugrin Triome
+2 Raugrin Triome
+2 Steam Vents
+3 Steam Vents
+3 Raugrin Triome
 1 Search for Azcanta
 1 Opt
 2 Opt
 3 Opt
 4 Opt
-1 Prismari Command
-1 Steam Vents
-1 Raugrin Triome
-1 Sulfur Falls
-2 Steam Vents
-2 Raugrin Triome
+4 Elite Spellbinder
+4 Elspeth Conquers Death
+4 The Book of Exalted Deeds
 2 Prismari Command
-3 Steam Vents
-3 Raugrin Triome
-3 Void Shatter
-1 Cave of the Frost Dragon
 1 Expressive Iteration
 1 Sacred Foundry
 2 Expressive Iteration
 2 Sacred Foundry
-3 Sacred Foundry
-1 Clifftop Retreat
-1 Sinister Sabotage
-2 Sulfur Falls
-2 Clifftop Retreat
 1 Commit/Memory
 4 Raugrin Triome
+1 Clifftop Retreat
+2 Sulfur Falls
+2 Clifftop Retreat
 1 Torrential Gearhulk
 2 Torrential Gearhulk
+3 Void Shatter
+1 Magma Opus
+1 Anger of the Gods
+2 Magma Opus
+2 Anger of the Gods
+3 Sulfur Falls
+3 Magma Opus
+4 Magma Opus
+4 Steam Vents
+4 Sulfur Falls
+1 Mountain
+1 Scorching Dragonfire
+3 Expressive Iteration
+4 Expressive Iteration
+1 Sinister Sabotage
+3 Sacred Foundry
+1 Cave of the Frost Dragon
 1 Iymrith, Desert Doom
 2 Iymrith, Desert Doom
 1 Gideon, Ally of Zendikar
@@ -149,9 +162,9 @@
 3 Arcanist's Owl
 4 Snow-Covered Plains
 4 Karn, the Great Creator
-4 Arcanist's Owl
 4 Heliod, Sun-Crowned
 4 Nykthos, Shrine to Nyx
+4 Arcanist's Owl
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains
@@ -168,6 +181,9 @@
 18 Snow-Covered Plains
 19 Snow-Covered Plains
 1 Hall of Storm Giants
+1 Justice Strike
+1 Cast Out
+2 Justice Strike
 1 Bonecrusher Giant
 1 Jace, Vryn's Prodigy
 1 Spirebluff Canal
@@ -175,32 +191,20 @@
 2 Jace, Vryn's Prodigy
 2 Sinister Sabotage
 3 Sinister Sabotage
-1 Cast Out
-1 Mountain
-1 Justice Strike
-1 Scorching Dragonfire
-2 Justice Strike
-3 Expressive Iteration
-4 Expressive Iteration
-1 Magma Opus
-1 Anger of the Gods
-2 Magma Opus
-2 Anger of the Gods
-3 Sulfur Falls
+1 Magma Spray
+2 Scorching Dragonfire
+3 Scorching Dragonfire
+4 Scorching Dragonfire
 3 Prismari Command
-3 Magma Opus
 3 Torrential Gearhulk
-4 Magma Opus
-4 Steam Vents
-4 Sulfur Falls
 4 Torrential Gearhulk
 1 Heartless Act
 1 Isolated Chapel
 1 Watery Grave
-1 Vanishing Verse
 1 Drowned Catacomb
-1 Fetid Pools
 1 Kaya, Orzhov Usurper
+1 Vanishing Verse
+1 Fetid Pools
 2 Isolated Chapel
 2 Heartless Act
 2 Vanishing Verse

@@ -1,21 +1,21 @@
-3 Aether Gust
-1 Emrakul, the Aeons Torn
-1 Celestial Purge
 1 Timely Reinforcements
+1 Celestial Purge
+1 Emrakul, the Aeons Torn
+3 Aether Gust
 4 Mystical Dispute
-1 Chalice of the Void
-1 Stony Silence
 1 Foundation Breaker
 2 Foundation Breaker
-1 Force of Vigor
 1 Leyline of the Void
-2 Force of Vigor
+1 Force of Vigor
 2 Leyline of the Void
+2 Force of Vigor
+1 Chalice of the Void
 2 Celestial Purge
+2 Timely Reinforcements
+1 Plains
+1 Stony Silence
 1 Leyline of Sanctity
 2 Leyline of Sanctity
-1 Plains
-2 Timely Reinforcements
 1 Force of Negation
 1 Endurance
 1 Teferi, Time Raveler
@@ -27,26 +27,26 @@
 2 Teferi, Time Raveler
 3 Leyline of the Void
 4 Leyline of the Void
-1 Nahiri, the Harbinger
-2 Nahiri, the Harbinger
 1 Anger of the Gods
 3 Foundation Breaker
 1 Brazen Borrower
-1 Engineered Explosives
-2 Stony Silence
+1 Shattering Spree
 1 Path to Exile
 2 Endurance
+1 Engineered Explosives
 2 Chalice of the Void
 1 Jegantha, the Wellspring
-2 Path to Exile
 1 Gaddock Teeg
-1 Cindervines
+2 Path to Exile
 2 Gaddock Teeg
+1 Cindervines
 3 Path to Exile
-1 Shattering Spree
 2 Shattering Spree
+1 Nahiri, the Harbinger
 1 Cleansing Wildfire
 1 Jace, the Mind Sculptor
+2 Nahiri, the Harbinger
+2 Stony Silence
 4 Path to Exile
 2 Cindervines
 1 Lightning Helix
@@ -58,8 +58,8 @@
 3 Meddling Mage
 2 Kataki, War's Wage
 3 Teferi, Time Raveler
-2 Force of Negation
 2 Anger of the Gods
+2 Force of Negation
 3 Flusterstorm
 1 Yorion, Sky Nomad
 1 Serra's Emissary
@@ -121,7 +121,6 @@
 1 Torpor Orb
 3 Lightning Bolt
 1 Gemstone Caverns
-1 Snow-Covered Plains
 1 Spreading Seas
 3 Counterspell
 3 Nahiri, the Harbinger
@@ -140,6 +139,7 @@
 1 Ashiok, Dream Render
 2 Sanctifier en-Vec
 1 Beast Within
+1 Snow-Covered Plains
 1 Remand
 1 Iona, Shield of Emeria
 1 Ugin, the Spirit Dragon
@@ -180,47 +180,48 @@
 1 Wheel of Sun and Moon
 1 Ancient Grudge
 1 Omnath, Locus of Creation
-1 Tormod's Crypt
 1 Phyrexian Revoker
 1 Kaya's Guile
 1 Fracture
 1 Hurkyl's Recall
 1 Birds of Paradise
 1 Seasoned Pyromancer
-1 Grafdigger's Cage
+1 By Force
 1 Dusk/Dawn
 1 Declaration in Stone
-1 By Force
 1 Elder Gargaroth
+1 Tormod's Crypt
 1 Fry
+1 Grafdigger's Cage
 1 Anafenza, the Foremost
+1 Archetype of Endurance
 1 Chancellor of the Forge
 2 Geist of Saint Traft
 1 Test of Talents
 2 Wheel of Sun and Moon
+1 Gut Shot
+2 Gut Shot
+2 Assassin's Trophy
+2 Klothys, God of Destiny
 1 Sword of Fire and Ice
 2 Drannith Magistrate
 1 Through the Breach
 1 Fulminator Mage
 2 Through the Breach
 2 Fulminator Mage
-2 Klothys, God of Destiny
+1 Kolaghan's Command
+1 Abrupt Decay
+2 Abrupt Decay
+2 Ashiok, Dream Render
+2 Jegantha, the Wellspring
+1 Monastery Mentor
+2 Monastery Mentor
 1 Thalia, Guardian of Thraben
 1 Deafening Silence
 1 Kor Firewalker
 1 Knight of Autumn
 2 Knight of Autumn
 2 Kor Firewalker
-2 Assassin's Trophy
-1 Kolaghan's Command
-1 Abrupt Decay
-2 Abrupt Decay
-2 Ashiok, Dream Render
-2 Jegantha, the Wellspring
-1 Gut Shot
-2 Gut Shot
-1 Monastery Mentor
-2 Monastery Mentor
 1 Sanctum Prelate
 1 Qasali Pridemage
 2 Sanctum Prelate
@@ -243,11 +244,11 @@
 3 Tidehollow Sculler
 4 Tidehollow Sculler
 4 Lightning Bolt
-4 Flusterstorm
 4 Force of Vigor
+4 Flusterstorm
 3 Reclamation Sage
 4 Reclamation Sage
 4 Force of Negation
+1 Koma, Cosmos Serpent
 1 Inkwell Leviathan
 1 Oath of Teferi
-1 Koma, Cosmos Serpent

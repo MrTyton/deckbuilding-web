@@ -13,14 +13,14 @@
 3 Heroic Intervention
 4 Heroic Intervention
 1 Crippling Fear
-1 Skyclave Shade
-1 Leyline of the Void
 1 Fatal Push
-2 Skyclave Shade
-2 Leyline of the Void
+1 Leyline of the Void
+1 Skyclave Shade
 2 Fatal Push
-3 Skyclave Shade
+2 Leyline of the Void
+2 Skyclave Shade
 3 Leyline of the Void
+3 Skyclave Shade
 4 Skyclave Shade
 4 Leyline of the Void
 1 Carnage Tyrant
@@ -49,8 +49,8 @@
 1 Garruk's Harbinger
 1 Chainweb Aracnir
 2 Chainweb Aracnir
-2 Garruk's Harbinger
 2 Kraul Harpooner
+2 Garruk's Harbinger
 1 Gigantosaurus
 2 Gigantosaurus
 1 Blossoming Defense
@@ -63,8 +63,8 @@
 3 Blossoming Defense
 1 Beast Whisperer
 1 Llanowar Visionary
-2 Llanowar Visionary
 2 Craterhoof Behemoth
+2 Llanowar Visionary
 2 Beast Whisperer
 2 Elvish Visionary
 3 Beast Whisperer
@@ -73,6 +73,13 @@
 3 Scavenging Ooze
 3 Toski, Bearer of Secrets
 4 Scavenging Ooze
+1 Thoughtseize
+1 Icon of Ancestry
+1 Bloodchief's Thirst
+2 Thoughtseize
+2 Crippling Fear
+3 Thoughtseize
+4 Thoughtseize
 1 Baffling End
 1 Reidane, God of the Worthy
 2 Baffling End
@@ -87,13 +94,6 @@
 3 Aether Gust
 3 Swan Song
 4 Swan Song
-1 Thoughtseize
-1 Icon of Ancestry
-1 Bloodchief's Thirst
-2 Thoughtseize
-2 Crippling Fear
-3 Thoughtseize
-4 Thoughtseize
 1 Questing Beast
 1 Wildborn Preserver
 1 Run Afoul

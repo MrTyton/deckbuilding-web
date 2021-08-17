@@ -29,16 +29,10 @@
 1 General Ferrous Rokiric
 2 General Ferrous Rokiric
 3 General Ferrous Rokiric
-1 Time Warp
-1 Velomachus Lorehold
-2 Time Warp
-3 Time Warp
-4 Time Warp
-1 Jace, the Mind Sculptor
 3 Omnath, Locus of Creation
 2 Misty Rainforest
-1 Hallowed Fountain
 3 Misty Rainforest
+1 Hallowed Fountain
 4 Misty Rainforest
 1 Khalni Garden
 1 Glimpse of Tomorrow
@@ -51,6 +45,12 @@
 4 Khalni Garden
 3 Glimpse of Tomorrow
 4 Violent Outburst
+1 Jace, the Mind Sculptor
+1 Velomachus Lorehold
+1 Time Warp
+2 Time Warp
+3 Time Warp
+4 Time Warp
 1 Hard Evidence
 2 Hard Evidence
 4 Bloodbraid Elf
@@ -58,17 +58,11 @@
 2 Wavesifter
 3 Wavesifter
 4 Wavesifter
-1 Savor the Moment
-2 Velomachus Lorehold
-2 Savor the Moment
-3 Savor the Moment
-4 Savor the Moment
-1 Noble Hierarch
-3 Bloodstained Mire
-1 Solitude
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
+1 Noble Hierarch
+1 Solitude
 4 Expressive Iteration
 3 Windswept Heath
 1 Wall of Omens
@@ -79,11 +73,19 @@
 1 Shark Typhoon
 2 Noble Hierarch
 1 Gemstone Caverns
+3 Bloodstained Mire
+1 Savor the Moment
+2 Velomachus Lorehold
+2 Savor the Moment
+3 Savor the Moment
+4 Savor the Moment
+1 Nahiri, the Harbinger
 1 Savai Triome
 1 Ignoble Hierarch
 2 Ignoble Hierarch
-3 Flooded Strand
 2 Emrakul, the Aeons Torn
+3 Flooded Strand
+2 Nahiri, the Harbinger
 1 Omniscience
 2 Omniscience
 1 Blood Crypt
@@ -91,20 +93,20 @@
 3 Seasoned Pyromancer
 3 Ignoble Hierarch
 4 Ignoble Hierarch
+3 Hard Evidence
 1 Tireless Provisioner
 2 Tireless Provisioner
 3 Tireless Provisioner
-3 Hard Evidence
-1 Nahiri, the Harbinger
 3 Omniscience
-2 Stomping Ground
 1 Path to Exile
 4 Seasoned Pyromancer
 4 Tireless Provisioner
-1 Snow-Covered Island
+2 Verdant Catacombs
 1 Supreme Verdict
 2 Supreme Verdict
-2 Verdant Catacombs
+4 Hard Evidence
+2 Stomping Ground
+1 Snow-Covered Island
 2 Forest
 2 Solitude
 3 Solitude
@@ -134,7 +136,6 @@
 1 Fire/Ice
 2 Goblin Dark-Dwellers
 3 Goblin Dark-Dwellers
-2 Nahiri, the Harbinger
 1 Endurance
 1 Wall of Blossoms
 2 Wall of Blossoms
@@ -149,7 +150,6 @@
 3 Leyline of Sanctity
 4 Leyline of Sanctity
 1 Archon of Cruelty
-4 Hard Evidence
 1 Remand
 1 Utopia Sprawl
 2 Utopia Sprawl
@@ -176,14 +176,14 @@
 3 Supreme Verdict
 3 Chancellor of the Forge
 4 Birds of Paradise
-1 Snow-Covered Mountain
 2 Shark Typhoon
 1 Prismatic Vista
 2 Island
-4 Ephemerate
 3 Wall of Blossoms
+4 Ephemerate
 1 Kozilek, Butcher of Truth
 1 Ulamog, the Infinite Gyre
+1 Snow-Covered Mountain
 2 Fury
 1 Snapcaster Mage
 4 Wall of Omens
@@ -196,19 +196,18 @@
 1 Snow-Covered Plains
 1 Gemstone Mine
 1 Eidolon of Rhetoric
+1 Delay
+2 Delay
+2 Remand
 1 Leyline of the Void
 2 As Foretold
 3 As Foretold
 4 Lightning Helix
-2 Remand
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 2 Leyline of the Void
 2 Gilded Goose
 4 Archon of Cruelty
-3 Steam Vents
-1 Delay
-2 Delay
 1 Klothys, God of Destiny
 4 Skyclave Apparition
 3 Fury
@@ -241,11 +240,12 @@
 2 Griselbrand
 1 Horizon Canopy
 2 Snow-Covered Forest
-1 Batterskull
 1 Stoneforge Mystic
+1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 1 Ugin, the Spirit Dragon
+3 Steam Vents
 2 Snow-Covered Mountain
 3 Noble Hierarch
 4 Noble Hierarch
@@ -319,6 +319,7 @@
 4 Restoration Angel
 1 Lonely Sandbar
 1 Watery Grave
+1 Valakut, the Molten Pinnacle
 1 Flusterstorm
 1 Geist of Saint Traft
 2 Geist of Saint Traft
@@ -374,16 +375,15 @@
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
-1 Waterlogged Grove
-1 Hexdrinker
+1 Mana Leak
 1 Brazen Borrower
 1 Cindervines
 1 Clifftop Retreat
 1 Terror of the Peaks
 1 Beast Within
-1 Chandra, Torch of Defiance
 1 Showdown of the Skalds
-1 Valakut, the Molten Pinnacle
+1 Waterlogged Grove
+1 Hexdrinker
 1 Ashiok, Dream Render
 1 Nicol Bolas, Dragon-God
 1 Nicol Bolas, God-Pharaoh
@@ -396,20 +396,20 @@
 1 Shambleshark
 1 Niv-Mizzet Reborn
 2 Shambleshark
-1 Scorching Dragonfire
-1 Temur Battle Rage
-2 Scorching Dragonfire
-2 Temur Battle Rage
 1 Botanical Sanctum
 2 Botanical Sanctum
 1 Anafenza, the Foremost
 2 Anafenza, the Foremost
+1 Scorching Dragonfire
+1 Temur Battle Rage
+2 Scorching Dragonfire
+2 Temur Battle Rage
 2 Rest in Peace
+2 Valakut Awakening
+3 Valakut Awakening
 1 Marsh Flats
 2 Marsh Flats
 3 Marsh Flats
-2 Valakut Awakening
-3 Valakut Awakening
 1 Might of Alara
 2 Might of Alara
 3 Might of Alara
@@ -418,19 +418,19 @@
 2 Acererak the Archlich
 3 Acererak the Archlich
 4 Remand
-3 Academy Manufactor
-4 Academy Manufactor
 1 Timely Reinforcements
 1 Anger of the Gods
 1 Valki, God of Lies
 1 Bring to Light
-2 Valki, God of Lies
 2 Force of Negation
 2 Teferi, Hero of Dominaria
+2 Valki, God of Lies
 2 Bring to Light
 3 Path to Exile
 3 Bring to Light
 4 Path to Exile
+3 Academy Manufactor
+4 Academy Manufactor
 4 Wild Nacatl
 1 Mystic Gate
 1 Vindicate

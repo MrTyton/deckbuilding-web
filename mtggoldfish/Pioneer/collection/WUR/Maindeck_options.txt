@@ -1,10 +1,8 @@
 2 Bomat Courier
-3 Bomat Courier
-2 Stubborn Denial
 3 Portable Hole
 1 Treasure Vault
-2 Mana Confluence
-4 Bomat Courier
+3 Bomat Courier
+2 Stubborn Denial
 1 Island
 1 Steam Vents
 1 Shark Typhoon
@@ -31,39 +29,41 @@
 2 Absorb
 3 Absorb
 4 Absorb
-1 Behold the Multiverse
 1 Castle Ardenvale
+1 Scorching Dragonfire
 1 Dovin's Veto
 1 Sphinx's Revelation
 1 Supreme Verdict
-1 Scorching Dragonfire
 2 Scorching Dragonfire
-2 Supreme Verdict
 2 Dovin's Veto
+2 Supreme Verdict
 2 Teferi, Hero of Dominaria
 3 Scorching Dragonfire
 3 Supreme Verdict
 4 Supreme Verdict
+1 Behold the Multiverse
+1 Rest in Peace
 1 Castle Vantress
 1 Magma Spray
-1 Rest in Peace
 1 Needle Spires
 2 Rest in Peace
 2 Magma Spray
 3 Teferi, Hero of Dominaria
-4 Sulfur Falls
 4 Scorching Dragonfire
+4 Sulfur Falls
 1 Expressive Iteration
 2 Expressive Iteration
-2 Hope of Ghirapur
-4 All That Glitters
-3 Dovin's Veto
-2 Behold the Multiverse
-3 Expressive Iteration
 1 Glass Casket
+3 Dovin's Veto
+3 Expressive Iteration
+2 Mana Confluence
+2 Behold the Multiverse
 4 Dovin's Veto
-1 Toolcraft Exemplar
 1 Rewind
+1 Toolcraft Exemplar
+4 All That Glitters
+4 Bomat Courier
+4 Expressive Iteration
 1 Fabled Passage
 1 Chained to the Rocks
 1 Mountain
@@ -77,11 +77,11 @@
 1 Narset, Parter of Veils
 1 Valakut Awakening
 1 Elspeth, Sun's Nemesis
-1 Omen of the Sun
 1 Fire Prophecy
 1 Indomitable Creativity
 1 The Locust God
 1 Sage of the Falls
+1 Omen of the Sun
 2 Elspeth, Sun's Nemesis
 2 Omen of the Sea
 2 Opt
@@ -104,9 +104,9 @@
 4 Fabled Passage
 4 Sacred Foundry
 2 Island
+2 Hope of Ghirapur
 2 Rewind
 2 Castle Ardenvale
-4 Expressive Iteration
 1 Censor
 1 Secure the Wastes
 2 Valakut Awakening
@@ -131,9 +131,9 @@
 2 Selfless Savior
 3 The Blackstaff of Waterdeep
 4 Mutavault
-1 Oath of Chandra
 1 Anger of the Gods
 1 Fires of Invention
+1 Oath of Chandra
 1 The Birth of Meletis
 2 Narset, Parter of Veils
 2 Plains
@@ -147,8 +147,6 @@
 4 The Birth of Meletis
 1 Metallic Rebuke
 1 Alseid of Life's Bounty
-1 Needleverge Pathway
-2 Needleverge Pathway
 3 Selfless Savior
 4 Portable Hole
 3 Toolcraft Exemplar

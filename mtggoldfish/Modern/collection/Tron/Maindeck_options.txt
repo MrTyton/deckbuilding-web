@@ -1,14 +1,14 @@
 2 Oblivion Stone
-4 Forest
 1 Dismember
 2 Dismember
-1 Kozilek, Butcher of Truth
+4 Forest
 3 Dismember
+1 Kozilek, Butcher of Truth
 3 Warping Wail
-2 All Is Dust
 4 Wurmcoil Engine
 3 Oblivion Stone
 2 Walking Ballista
+2 All Is Dust
 1 Emrakul, the Promised End
 1 Ugin, the Ineffable
 1 Gemstone Caverns
@@ -44,9 +44,6 @@
 2 Surgical Extraction
 2 Ugin, the Ineffable
 3 Surgical Extraction
-1 Wandering Archaic
-2 Wandering Archaic
-3 Wandering Archaic
 3 Ugin, the Ineffable
 1 Thragtusk
 3 Relic of Progenitus
@@ -56,6 +53,9 @@
 1 World Breaker
 1 Mountain
 3 Walking Ballista
+1 Wandering Archaic
+2 Wandering Archaic
+3 Wandering Archaic
 2 Thragtusk
 3 Thragtusk
 4 Oblivion Stone

@@ -82,8 +82,8 @@
 1 Mountain
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
 3 Arid Mesa
+3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
 4 Arid Mesa
 3 Horizon Canopy
@@ -111,22 +111,22 @@
 3 Elite Spellbinder
 4 Elite Spellbinder
 1 Glacial Fortress
+1 Marsh Flats
+1 Godless Shrine
 1 Unsettled Mariner
 1 Glasspool Mimic
 1 Raugrin Triome
 1 Island
 1 Hengegate Pathway
-1 Marsh Flats
 1 Meddling Mage
 1 Teferi, Time Raveler
-1 Godless Shrine
 1 Hallowed Fountain
 1 Flooded Strand
 2 Glacial Fortress
-2 Glasspool Mimic
-2 Unsettled Mariner
-2 Hengegate Pathway
 2 Marsh Flats
+2 Unsettled Mariner
+2 Glasspool Mimic
+2 Hengegate Pathway
 2 Meddling Mage
 2 Teferi, Time Raveler
 2 Hallowed Fountain
@@ -166,13 +166,22 @@
 1 Phyrexian Revoker
 2 Phyrexian Revoker
 2 Flagstones of Trokair
-1 Sword of Feast and Famine
-1 Tithe Taker
-2 Tithe Taker
-3 Sanctum Prelate
-3 Tithe Taker
-4 Sanctum Prelate
-4 Tithe Taker
+1 Kiki-Jiki, Mirror Breaker
+1 Felidar Guardian
+1 Windswept Heath
+1 Rugged Prairie
+1 Lightning Bolt
+1 Needleverge Pathway
+1 Prismatic Vista
+2 Windswept Heath
+2 Lightning Bolt
+2 Prismatic Vista
+2 Needleverge Pathway
+2 Mountain
+3 Lightning Bolt
+3 Needleverge Pathway
+3 Sacred Foundry
+4 Lightning Bolt
 1 On Thin Ice
 2 On Thin Ice
 3 On Thin Ice
@@ -181,19 +190,10 @@
 11 Snow-Covered Plains
 12 Snow-Covered Plains
 13 Snow-Covered Plains
-1 Kiki-Jiki, Mirror Breaker
-1 Felidar Guardian
-1 Windswept Heath
-1 Rugged Prairie
-1 Prismatic Vista
-1 Needleverge Pathway
-1 Lightning Bolt
-2 Windswept Heath
-2 Prismatic Vista
-2 Needleverge Pathway
-2 Lightning Bolt
-2 Mountain
-3 Sacred Foundry
-3 Needleverge Pathway
-3 Lightning Bolt
-4 Lightning Bolt
+1 Sword of Feast and Famine
+1 Tithe Taker
+2 Tithe Taker
+3 Sanctum Prelate
+3 Tithe Taker
+4 Sanctum Prelate
+4 Tithe Taker

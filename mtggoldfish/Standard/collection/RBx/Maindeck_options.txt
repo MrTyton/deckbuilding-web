@@ -47,16 +47,16 @@
 1 Rankle, Master of Pranks
 2 Rankle, Master of Pranks
 1 Woe Strider
-1 Korvold, Fae-Cursed King
 1 Cragcrown Pathway
-2 Korvold, Fae-Cursed King
+1 Korvold, Fae-Cursed King
 2 Cragcrown Pathway
+2 Korvold, Fae-Cursed King
 3 Cragcrown Pathway
 4 Cragcrown Pathway
 3 Heartless Act
 2 Den of the Bugbear
-1 Spikefield Hazard
 1 Warlock Class
+1 Spikefield Hazard
 1 Crawling Barrens
 2 Spikefield Hazard
 2 Field of Ruin
@@ -65,10 +65,10 @@
 1 Forsworn Paladin
 2 Forsworn Paladin
 2 Soul Shatter
-1 Faceless Haven
 1 Snow-Covered Swamp
-2 Faceless Haven
+1 Faceless Haven
 2 Snow-Covered Swamp
+2 Faceless Haven
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
@@ -106,8 +106,8 @@
 6 Snow-Covered Mountain
 2 Crawling Barrens
 1 Savai Triome
-1 Temple of Malady
 1 Lair of the Hydra
+1 Temple of Malady
 2 Lair of the Hydra
 2 Temple of Malady
 3 Temple of Malady
@@ -126,9 +126,9 @@
 3 Shadows' Verdict
 3 Elder Gargaroth
 3 Questing Beast
+4 Temple of Malady
 4 Shadows' Verdict
 4 Elder Gargaroth
-4 Temple of Malady
 4 Lair of the Hydra
 1 Foulmire Knight
 2 Foulmire Knight
@@ -161,10 +161,10 @@
 1 Hunt for Specimens
 1 Lolth, Spider Queen
 1 Blood on the Snow
-2 Blood on the Snow
 2 Lolth, Spider Queen
-3 Blood on the Snow
+2 Blood on the Snow
 3 Lolth, Spider Queen
+3 Blood on the Snow
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
@@ -190,20 +190,6 @@
 1 Uvilda, Dean of Perfection
 2 Uvilda, Dean of Perfection
 2 Rogue Class
-1 The Akroan War
-1 Llanowar Visionary
-1 Igneous Inspiration
-1 Orb of Dragonkind
-1 Village Rites
-1 Cultivate
-2 The Akroan War
-2 Cultivate
-2 Igneous Inspiration
-2 Llanowar Visionary
-2 Orb of Dragonkind
-2 Village Rites
-3 Village Rites
-4 Korvold, Fae-Cursed King
 2 Inferno of the Star Mounts
 3 Orcus, Prince of Undeath
 4 Power Word Kill
@@ -223,11 +209,11 @@
 2 Radha, Heart of Keld
 3 Bard Class
 4 Bard Class
-1 Valentin, Dean of the Vein
 1 Pelakka Predation
+1 Valentin, Dean of the Vein
 1 Deadly Brew
-2 Valentin, Dean of the Vein
 2 Deadly Brew
+2 Valentin, Dean of the Vein
 2 Tergrid, God of Fright
 3 Tergrid, God of Fright
 3 Deadly Brew
@@ -236,6 +222,20 @@
 2 Murderous Rider
 3 Murderous Rider
 4 Unexpected Windfall
+1 Llanowar Visionary
+1 The Akroan War
+1 Igneous Inspiration
+1 Orb of Dragonkind
+1 Village Rites
+1 Cultivate
+2 Llanowar Visionary
+2 The Akroan War
+2 Cultivate
+2 Igneous Inspiration
+2 Orb of Dragonkind
+2 Village Rites
+3 Village Rites
+4 Korvold, Fae-Cursed King
 1 Essence Scatter
 1 Temple of Epiphany
 2 Essence Scatter
@@ -246,23 +246,23 @@
 4 Baleful Mastery
 4 Essence Scatter
 4 Prismari Command
-1 Needleverge Pathway
 1 Extus, Oriq Overlord
+1 Needleverge Pathway
 1 Showdown of the Skalds
 1 Malakir Rebirth
-2 Extus, Oriq Overlord
-2 Brightclimb Pathway
-2 Hunt for Specimens
 2 Malakir Rebirth
+2 Hunt for Specimens
+2 Extus, Oriq Overlord
 2 Needleverge Pathway
 2 Showdown of the Skalds
+2 Brightclimb Pathway
 3 Extus, Oriq Overlord
 3 Needleverge Pathway
 3 Brightclimb Pathway
 3 Showdown of the Skalds
-4 Extus, Oriq Overlord
 4 Brightclimb Pathway
 4 Needleverge Pathway
+4 Extus, Oriq Overlord
 4 Showdown of the Skalds
 4 Fireblade Charger
 1 Crippling Fear
@@ -284,56 +284,56 @@
 4 Crippling Fear
 4 Binding the Old Gods
 4 Barkchannel Pathway
-1 Esika's Chariot
-1 Lovestruck Beast
-1 Snow-Covered Forest
 1 Toski, Bearer of Secrets
+1 Lovestruck Beast
+1 Esika's Chariot
+1 Snow-Covered Forest
+2 Lovestruck Beast
 2 Esika's Chariot
 2 Snow-Covered Forest
-2 Lovestruck Beast
 2 Toski, Bearer of Secrets
-3 Snow-Covered Forest
 3 Lovestruck Beast
+3 Snow-Covered Forest
 3 Esika's Chariot
-4 Esika's Chariot
 4 Lovestruck Beast
+4 Esika's Chariot
 4 Snow-Covered Forest
 5 Snow-Covered Forest
-1 Professor of Symbology
 1 Cave of the Frost Dragon
+1 Emeria's Call
 1 Vanishing Verse
 1 Shineshadow Snarl
 1 Snow-Covered Plains
-1 Emeria's Call
+1 Professor of Symbology
+2 Vanishing Verse
 2 Professor of Symbology
 2 Snow-Covered Plains
 2 Shineshadow Snarl
-2 Vanishing Verse
-3 Professor of Symbology
 3 Vanishing Verse
 3 Snow-Covered Plains
+3 Professor of Symbology
 3 Shineshadow Snarl
-4 Professor of Symbology
-4 Blood on the Snow
 4 Vanishing Verse
+4 Blood on the Snow
+4 Professor of Symbology
 4 Shineshadow Snarl
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains
-1 Inscription of Ruin
 1 Flunk
 1 Elspeth's Nightmare
 1 Immersturm Predator
 1 Kaya the Inexorable
+1 Inscription of Ruin
 1 Acquisitions Expert
 1 Fracture
 2 Flunk
-2 Inscription of Ruin
 2 Elspeth's Nightmare
 2 Immersturm Predator
 2 Acquisitions Expert
 2 Fracture
+2 Inscription of Ruin
 3 Immersturm Predator
 3 Acquisitions Expert
 4 Acquisitions Expert

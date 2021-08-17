@@ -1,16 +1,15 @@
-2 Birds of Paradise
+3 Endurance
 3 Birds of Paradise
-3 Snow-Covered Forest
 4 Snow-Covered Forest
 1 Knight of Autumn
 1 Titania, Protector of Argoth
 1 Preordain
 2 Preordain
 3 Force of Negation
-4 Abundant Growth
+3 Wasteland
 4 Wasteland
+4 Abundant Growth
 4 Uro, Titan of Nature's Wrath
-1 Abundant Harvest
 1 Forest
 1 Island
 1 Urza's Saga
@@ -27,26 +26,24 @@
 1 Polluted Delta
 1 Underground Sea
 2 Dress Down
-2 Fatal Push
-2 Thoughtseize
 2 Phyrexian Dreadnought
 2 Stifle
 2 Underground Sea
 2 Bayou
+2 Thoughtseize
 2 Abrupt Decay
 2 Polluted Delta
-3 Stifle
+2 Fatal Push
+3 Urza's Saga
 3 Phyrexian Dreadnought
 3 Dress Down
+3 Stifle
 3 Polluted Delta
-3 Urza's Saga
+4 Urza's Saga
 4 Phyrexian Dreadnought
 4 Dress Down
 4 Stifle
 4 Polluted Delta
-4 Urza's Saga
-3 Flooded Strand
-4 Flooded Strand
 1 Life from the Loam
 1 Dryad of the Ilysian Grove
 1 Valakut, the Molten Pinnacle
@@ -63,10 +60,9 @@
 2 Shark Typhoon
 4 Birds of Paradise
 1 Questing Beast
+1 Abundant Harvest
 1 Volcanic Island
 2 Abundant Harvest
-3 Noble Hierarch
-1 Teferi, Time Raveler
 1 Expedition Map
 1 Elvish Reclaimer
 1 Mox Diamond
@@ -74,9 +70,13 @@
 2 Life from the Loam
 2 Mox Diamond
 3 Mox Diamond
+1 Teferi, Time Raveler
+3 Noble Hierarch
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Utopia Sprawl
+3 Flooded Strand
+4 Flooded Strand
 1 Blast Zone
 2 Expedition Map
 1 Wooded Foothills
@@ -88,34 +88,5 @@
 3 Natural Order
 1 Shadowspear
 3 Thoughtseize
-1 Day's Undoing
-1 Engineered Explosives
-1 Narset, Parter of Veils
-1 Hullbreacher
-1 Spell Pierce
-1 Jace, the Mind Sculptor
-2 Day's Undoing
-2 Hullbreacher
-2 Teferi, Time Raveler
-2 Engineered Explosives
-2 Narset, Parter of Veils
-2 Spell Pierce
-2 Jace, the Mind Sculptor
-2 Tundra
-3 Narset, Parter of Veils
-3 Day's Undoing
-3 Snow-Covered Island
-1 Stoneforge Mystic
-1 Umezawa's Jitte
-1 Batterskull
-1 Daze
-1 Kaldra Compleat
-2 Stoneforge Mystic
-2 Daze
-3 Stoneforge Mystic
-3 Daze
-4 Daze
-4 Stoneforge Mystic
-4 Noble Hierarch
 1 Drown in the Loch
 3 Abrupt Decay

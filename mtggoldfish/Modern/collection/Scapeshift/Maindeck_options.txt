@@ -1,11 +1,11 @@
 2 Flooded Strand
 3 Flooded Strand
+1 Fire/Ice
+2 Fire/Ice
 3 Omnath, Locus of Creation
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
-1 Fire/Ice
-2 Fire/Ice
 1 Lightning Bolt
 2 Lightning Bolt
 1 Expressive Iteration
@@ -20,13 +20,13 @@
 1 Snow-Covered Island
 3 Fire/Ice
 4 Chalice of the Void
-2 Sacred Foundry
 2 Path to Exile
 1 Overgrown Tomb
 1 Remand
 2 Remand
 2 Mountain
 3 Path to Exile
+2 Sacred Foundry
 4 Wooded Foothills
 1 Time Warp
 1 Cinder Glade
@@ -58,8 +58,8 @@
 3 Eureka Moment
 3 Mishra's Bauble
 3 Abundant Growth
-4 Expressive Iteration
 4 Unholy Heat
+4 Expressive Iteration
 4 Counterspell
 4 Ketria Triome
 4 Abundant Growth
@@ -67,12 +67,8 @@
 4 Mishra's Bauble
 4 Eureka Moment
 1 Snapcaster Mage
+1 Lightning Helix
 1 Prismari Command
 2 Prismari Command
-1 Verdant Catacombs
-1 Lightning Helix
-2 Verdant Catacombs
-2 Lightning Helix
-3 Verdant Catacombs
 4 Omnath, Locus of Creation
 4 Fire/Ice
