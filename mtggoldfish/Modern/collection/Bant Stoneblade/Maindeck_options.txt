@@ -1,43 +1,40 @@
-1 Sanctum Prelate
+1 Wall of Omens
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
 4 Aether Vial
 2 Wall of Omens
-1 Counterspell
-2 Counterspell
+1 Jace, the Mind Sculptor
 4 Eladamri's Call
-2 Soulherder
-1 Endurance
 1 Glasspool Mimic
 3 Wall of Omens
 4 Wall of Omens
 1 Sanctifier en-Vec
-1 Path to Exile
-2 Path to Exile
+1 Endurance
+1 Counterspell
+2 Counterspell
 3 Soulherder
 2 Breeding Pool
-2 Endurance
+1 Path to Exile
+2 Path to Exile
 1 Toski, Bearer of Secrets
-1 Geist of Saint Traft
+2 Endurance
 3 Counterspell
-3 Force of Negation
-4 Spell Queller
-3 Prismatic Vista
-4 Prismatic Vista
+2 Horizon Canopy
+1 Geist of Saint Traft
+1 Restoration Angel
 2 Hallowed Fountain
+3 Path to Exile
 2 Geist of Saint Traft
 1 Maul of the Skyclaves
-3 Path to Exile
-2 Jace, the Mind Sculptor
-1 Venser, Shaper Savant
+1 Rimewood Falls
 1 Coiling Oracle
 2 Coiling Oracle
 3 Coiling Oracle
 4 Coiling Oracle
-1 Rimewood Falls
-1 Charming Prince
-2 Horizon Canopy
+3 Force of Negation
+2 Jace, the Mind Sculptor
+4 Spell Queller
 3 Endurance
 1 Castle Ardenvale
 2 Sanctum Prelate
@@ -46,12 +43,15 @@
 3 Snow-Covered Plains
 1 Cephalid Constable
 3 Geist of Saint Traft
-1 Restoration Angel
 4 Teferi, Time Raveler
 4 Counterspell
-1 Thassa, Deep-Dwelling
-4 Eternal Witness
+3 Prismatic Vista
+4 Prismatic Vista
 4 Snow-Covered Forest
+4 Eternal Witness
+1 Plains
+1 Venser, Shaper Savant
+1 Charming Prince
 1 Dromoka's Command
 2 Dromoka's Command
 2 Cephalid Constable
@@ -59,41 +59,48 @@
 4 Sanctum Prelate
 2 Toski, Bearer of Secrets
 3 Toski, Bearer of Secrets
-1 Plains
 1 Mana Leak
 2 Mana Leak
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Utopia Sprawl
 4 Utopia Sprawl
-1 Renegade Rallier
+1 Island
 1 Forest
 1 Emeria's Call
 2 Emeria's Call
-4 Soulherder
+1 Thassa, Deep-Dwelling
 1 Meddling Mage
 2 Meddling Mage
-1 Island
+4 Soulherder
+1 Cryptic Command
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
-1 Reflecting Pool
 1 Archon of Emeria
 2 Archon of Emeria
 3 Archon of Emeria
 4 Endurance
 3 Snow-Covered Island
+4 Path to Exile
 1 Glacial Fortress
 1 Field of Ruin
 2 Plains
 2 Field of Ruin
-1 Cryptic Command
-1 Sword of Hearth and Home
-1 Gavony Township
-1 Yavimaya, Cradle of Growth
-1 Titania, Protector of Argoth
+1 Polluted Delta
+2 Cryptic Command
+2 Island
+2 Polluted Delta
+3 Polluted Delta
+3 Island
+4 Polluted Delta
+4 Island
+5 Island
 1 Snapcaster Mage
 2 Snapcaster Mage
-4 Path to Exile
+1 Renegade Rallier
+1 Titania, Protector of Argoth
+1 Gavony Township
+1 Yavimaya, Cradle of Growth
 1 Abundant Growth
 1 Oath of Nissa
 1 Time Warp
@@ -105,9 +112,9 @@
 4 Abundant Growth
 1 Brushland
 1 Eldrazi Temple
-1 Thought-Knot Seer
 1 Eldrazi Displacer
 1 Karmic Guide
+1 Thought-Knot Seer
 1 Drowner of Hope
 1 Wastes
 1 Adarkar Wastes
@@ -118,14 +125,15 @@
 3 Brushland
 3 Eldrazi Temple
 3 Thought-Knot Seer
-3 Eldrazi Displacer
 3 Plains
+3 Eldrazi Displacer
 4 Brushland
 4 Eldrazi Temple
 4 Thought-Knot Seer
 4 Plains
 1 Brazen Borrower
 1 Raugrin Triome
+1 Reflecting Pool
 1 Scavenging Ooze
 1 Questing Beast
 1 Remand
@@ -133,6 +141,15 @@
 2 Charming Prince
 2 Glacial Fortress
 2 Waterlogged Grove
+1 Celestial Colonnade
+1 Subtlety
+1 Vendilion Clique
+1 Teferi, Hero of Dominaria
+1 Archmage's Charm
+2 Celestial Colonnade
+2 Archmage's Charm
+3 Field of Ruin
+3 Snapcaster Mage
 3 Dromoka's Command
 1 Razorverge Thicket
 1 Abundant Harvest
@@ -146,52 +163,53 @@
 2 Spellstutter Sprite
 3 Spellstutter Sprite
 4 Spellstutter Sprite
-1 Celestial Colonnade
-1 Vendilion Clique
-1 Subtlety
-1 Teferi, Hero of Dominaria
-1 Archmage's Charm
-1 Polluted Delta
-2 Celestial Colonnade
-2 Cryptic Command
-2 Island
-2 Archmage's Charm
-2 Polluted Delta
-3 Snapcaster Mage
-3 Polluted Delta
-3 Field of Ruin
-3 Island
-4 Polluted Delta
-4 Island
-5 Island
+1 Mystic Gate
+1 Urza's Saga
+1 Opt
+1 Relic of Progenitus
+1 Shadowspear
+1 Pithing Needle
+1 Serum Visions
+1 Murktide Regent
+1 Castle Vantress
+2 Urza's Saga
+2 Opt
+2 Castle Vantress
+2 Mystic Gate
+2 Serum Visions
+2 Murktide Regent
+3 Urza's Saga
+3 Opt
+4 Urza's Saga
+4 Opt
 1 Prairie Stream
 1 Watcher for Tomorrow
-1 Deputy of Detention
 1 Canopy Vista
+1 Deputy of Detention
 2 Watcher for Tomorrow
 2 Knight of Autumn
 2 Canopy Vista
 5 Snow-Covered Forest
 1 Tangled Florahedron
+1 Barkchannel Pathway
 1 Botanical Sanctum
 1 Hinterland Harbor
 1 Kozilek, Butcher of Truth
+1 Golos, Tireless Pilgrim
+1 Koma, Cosmos Serpent
+1 Ulamog, the Infinite Gyre
 1 The World Tree
 1 Kinnan, Bonder Prodigy
-1 Koma, Cosmos Serpent
-1 Golos, Tireless Pilgrim
-1 Ulamog, the Infinite Gyre
 1 Wooded Foothills
 1 Emrakul, the Aeons Torn
-1 Barkchannel Pathway
 2 Botanical Sanctum
 2 Forest
-2 Kinnan, Bonder Prodigy
 2 Golos, Tireless Pilgrim
 2 Tangled Florahedron
+2 Kinnan, Bonder Prodigy
 3 Birds of Paradise
-3 Kinnan, Bonder Prodigy
 3 Tangled Florahedron
+3 Kinnan, Bonder Prodigy
+4 Tangled Florahedron
 4 Birds of Paradise
 4 Kinnan, Bonder Prodigy
-4 Tangled Florahedron

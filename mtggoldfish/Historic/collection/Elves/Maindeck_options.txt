@@ -1,3 +1,4 @@
+2 Forest
 3 Forest
 4 Forest
 5 Forest
@@ -5,15 +6,21 @@
 7 Forest
 8 Forest
 1 Growing Rites of Itlimoc
-3 Imperious Perfect
 9 Forest
 2 Growing Rites of Itlimoc
 1 Realmwalker
 2 Fierce Empath
 4 Imperious Perfect
 2 Realmwalker
-1 Elvish Visionary
 1 The Great Henge
+1 Elvish Visionary
+1 Overgrown Tomb
+1 Darkbore Pathway
+2 Overgrown Tomb
+2 Darkbore Pathway
+3 Darkbore Pathway
+3 Overgrown Tomb
+4 Darkbore Pathway
 10 Forest
 2 Elvish Visionary
 3 Elvish Visionary
@@ -23,17 +30,18 @@
 14 Forest
 15 Forest
 16 Forest
-17 Forest
 1 Marwyn, the Nurturer
-1 Overgrown Tomb
-1 Darkbore Pathway
-2 Overgrown Tomb
-2 Darkbore Pathway
-3 Darkbore Pathway
-3 Overgrown Tomb
-4 Darkbore Pathway
-4 Elvish Visionary
+4 Overgrown Tomb
+17 Forest
+1 Fiend Artisan
+1 Woodland Cemetery
+2 Fiend Artisan
+2 Woodland Cemetery
+3 Realmwalker
+3 Woodland Cemetery
+4 Woodland Cemetery
 2 Faceless Haven
+4 Elvish Visionary
 1 Breeding Pool
 1 Barkchannel Pathway
 1 Botanical Sanctum
@@ -50,22 +58,14 @@
 1 Temple Garden
 2 Branchloft Pathway
 2 Temple Garden
-3 Temple Garden
 3 Branchloft Pathway
+3 Temple Garden
 4 Temple Garden
 4 Branchloft Pathway
-3 Realmwalker
-4 Overgrown Tomb
 18 Forest
 1 Aether Gust
 1 Swan Song
 2 Swan Song
-1 Fiend Artisan
-1 Woodland Cemetery
-2 Fiend Artisan
-2 Woodland Cemetery
-3 Woodland Cemetery
-4 Woodland Cemetery
 18 Snow-Covered Forest
 1 Finale of Devastation
 2 Marwyn, the Nurturer
@@ -80,17 +80,13 @@
 1 Vivien, Arkbow Ranger
 1 Circle of Dreams Druid
 2 Finale of Devastation
-1 Necroblossom Snarl
-1 Skemfar Elderhall
-2 Necroblossom Snarl
 1 Wildborn Preserver
 2 Wildborn Preserver
 1 Lead the Stampede
 2 Lead the Stampede
-1 Heroic Intervention
-1 Pelt Collector
-2 Pelt Collector
-2 Heroic Intervention
+1 Necroblossom Snarl
+1 Skemfar Elderhall
+2 Necroblossom Snarl
 1 Sunpetal Grove
 1 Plains
 2 Sunpetal Grove
@@ -102,15 +98,22 @@
 2 Temple of Malady
 2 Skemfar Avenger
 3 Temple of Malady
-1 Containment Breach
+1 Ghalta, Primal Hunger
+1 Paradise Druid
+1 Carnage Tyrant
+1 Return of the Wildspeaker
+2 Paradise Druid
+3 Paradise Druid
+4 Paradise Druid
 1 Tyvar Kell
+1 Containment Breach
+1 Devouring Tendrils
 1 Rishkar, Peema Renegade
 1 Elderleaf Mentor
 1 Silhana Wayfinder
 1 Wren's Run Vanquisher
 1 Woodland Champion
 1 Lys Alana Huntmaster
-1 Devouring Tendrils
 1 Lovestruck Beast
 1 Charge of the Forever-Beast
 1 Skyway Sniper
@@ -127,13 +130,6 @@
 3 Lys Alana Huntmaster
 4 Llanowar Visionary
 4 Lys Alana Huntmaster
-1 Ghalta, Primal Hunger
-1 Paradise Druid
-1 Carnage Tyrant
-1 Return of the Wildspeaker
-2 Paradise Druid
-3 Paradise Druid
-4 Paradise Druid
 1 Vivien, Monsters' Advocate
 1 Sylvan Ranger
 2 Sylvan Ranger

@@ -66,49 +66,39 @@
 4 Silkwrap
 1 Sphinx's Revelation
 2 Emeria's Call
+1 Dig Through Time
+1 Censor
+2 Censor
 3 Faith's Fetters
 4 Reflector Mage
 1 Priest of Ancient Lore
 2 Priest of Ancient Lore
 3 Priest of Ancient Lore
 4 Priest of Ancient Lore
-1 Dig Through Time
-1 Censor
-2 Censor
+3 Censor
+4 Censor
 2 Dig Through Time
 3 Dig Through Time
 1 Elite Spellbinder
 2 Elite Spellbinder
 3 Elite Spellbinder
 1 Nykthos, Shrine to Nyx
-1 Arcanist's Owl
 1 Knight of the White Orchid
+1 Arcanist's Owl
 2 Nykthos, Shrine to Nyx
 2 Arcanist's Owl
 2 Knight of the White Orchid
 3 Nykthos, Shrine to Nyx
 3 Knight of the White Orchid
 4 Knight of the White Orchid
-3 Censor
-4 Censor
-1 Horribly Awry
 1 Sulfur Falls
-1 Prismari Command
 1 Steam Vents
 1 Raugrin Triome
-2 Raugrin Triome
+1 Prismari Command
 2 Steam Vents
+2 Raugrin Triome
 3 Steam Vents
 3 Raugrin Triome
-1 Search for Azcanta
-1 Opt
-2 Opt
-3 Opt
-4 Opt
-4 Elite Spellbinder
-4 Elspeth Conquers Death
-4 The Book of Exalted Deeds
-2 Prismari Command
 1 Expressive Iteration
 1 Sacred Foundry
 2 Expressive Iteration
@@ -116,24 +106,37 @@
 1 Commit/Memory
 4 Raugrin Triome
 1 Clifftop Retreat
-2 Sulfur Falls
 2 Clifftop Retreat
+2 Sulfur Falls
 1 Torrential Gearhulk
 2 Torrential Gearhulk
-3 Void Shatter
-1 Magma Opus
-1 Anger of the Gods
-2 Magma Opus
-2 Anger of the Gods
-3 Sulfur Falls
-3 Magma Opus
-4 Steam Vents
-4 Magma Opus
-4 Sulfur Falls
+1 Search for Azcanta
+1 Opt
+2 Opt
+3 Opt
+4 Opt
 1 Mountain
 1 Scorching Dragonfire
 3 Expressive Iteration
 4 Expressive Iteration
+1 Magma Opus
+2 Magma Opus
+3 Sulfur Falls
+3 Magma Opus
+4 Magma Opus
+4 Steam Vents
+4 Sulfur Falls
+2 Prismari Command
+1 Horribly Awry
+4 Elite Spellbinder
+4 Elspeth Conquers Death
+4 The Book of Exalted Deeds
+3 Void Shatter
+2 Scorching Dragonfire
+3 Scorching Dragonfire
+4 Scorching Dragonfire
+1 Anger of the Gods
+2 Anger of the Gods
 1 Sinister Sabotage
 3 Sacred Foundry
 1 Cave of the Frost Dragon
@@ -147,21 +150,21 @@
 10 Plains
 1 Karn, the Great Creator
 1 Snow-Covered Plains
+1 Heliod, Sun-Crowned
 1 Loyal Warhound
 1 Mazemind Tome
-1 Heliod, Sun-Crowned
 2 Karn, the Great Creator
 2 Mazemind Tome
 2 Cave of the Frost Dragon
 2 Snow-Covered Plains
 2 Loyal Warhound
 2 Heliod, Sun-Crowned
-3 Snow-Covered Plains
 3 Karn, the Great Creator
+3 Snow-Covered Plains
 3 Heliod, Sun-Crowned
 3 Arcanist's Owl
-4 Snow-Covered Plains
 4 Karn, the Great Creator
+4 Snow-Covered Plains
 4 Heliod, Sun-Crowned
 4 Nykthos, Shrine to Nyx
 4 Arcanist's Owl
@@ -180,6 +183,7 @@
 17 Snow-Covered Plains
 18 Snow-Covered Plains
 19 Snow-Covered Plains
+1 Magma Spray
 1 Hall of Storm Giants
 1 Justice Strike
 1 Cast Out
@@ -191,34 +195,30 @@
 2 Jace, Vryn's Prodigy
 2 Sinister Sabotage
 3 Sinister Sabotage
-1 Magma Spray
-2 Scorching Dragonfire
-3 Scorching Dragonfire
-4 Scorching Dragonfire
 3 Prismari Command
 3 Torrential Gearhulk
 4 Torrential Gearhulk
 1 Heartless Act
 1 Isolated Chapel
 1 Watery Grave
-1 Drowned Catacomb
-1 Kaya, Orzhov Usurper
 1 Vanishing Verse
+1 Drowned Catacomb
 1 Fetid Pools
+1 Kaya, Orzhov Usurper
+2 Kaya, Orzhov Usurper
 2 Isolated Chapel
 2 Heartless Act
 2 Vanishing Verse
 2 Watery Grave
 2 Drowned Catacomb
 2 Fetid Pools
-2 Kaya, Orzhov Usurper
+3 Vanishing Verse
 3 Heartless Act
 3 Watery Grave
-3 Vanishing Verse
 3 Fetid Pools
 3 Isolated Chapel
-4 Watery Grave
 4 Vanishing Verse
+4 Watery Grave
 4 Fetid Pools
 4 Isolated Chapel
 4 Teferi, Hero of Dominaria

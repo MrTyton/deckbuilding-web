@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                             |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|------------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Thought Distortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466871)         |                    1|[Overwhelming Splendor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430708)|
-|                    1|[Vorinclex, Monstrous Raider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503815)|                    1|[Massacre Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214044)        |
-|                    2|[Woodland Cemetery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443136)          |                    1|[Koma, Cosmos Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503837) |
-|                    3|[Drowned Catacomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430633)           |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)     |
+|                    1|[Thought Distortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466871)         |                    1|[Massacre Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214044)        |
+|                    1|[Vorinclex, Monstrous Raider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503815)|                    1|[Koma, Cosmos Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503837) |
+|                    2|[Woodland Cemetery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443136)          |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)     |
+|                    3|[Drowned Catacomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430633)           |                    1|[Overwhelming Splendor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430708)|
 

@@ -1,9 +1,10 @@
-1 Glacial Fortress
+3 Misty Rainforest
 4 Misty Rainforest
 3 Ephemerate
+2 Glacial Fortress
 4 Ephemerate
-1 Snow-Covered Forest
 1 Temple Garden
+1 Snow-Covered Forest
 1 Windswept Heath
 1 Wall of Omens
 4 Solitude
@@ -19,7 +20,6 @@
 3 Aether Vial
 4 Eladamri's Call
 4 Aether Vial
-2 Glacial Fortress
 2 Wall of Omens
 2 Polluted Delta
 1 Mystic Gate
@@ -51,11 +51,11 @@
 1 Island
 1 Raugrin Triome
 1 Plains
-2 Watcher for Tomorrow
 2 Plains
+2 Watcher for Tomorrow
 2 Island
-3 Hallowed Fountain
 3 Watcher for Tomorrow
+3 Hallowed Fountain
 1 Prismatic Vista
 1 Glasspool Mimic
 1 Wooded Foothills
@@ -75,31 +75,31 @@
 1 Time Warp
 3 Restoration Angel
 4 Restoration Angel
-1 Stoneforge Mystic
-1 Kaldra Compleat
+1 Field of Ruin
 1 Sword of Fire and Ice
 1 Emeria's Call
 1 Batterskull
-1 Field of Ruin
 1 Path to Exile
 1 Arid Mesa
-2 Stoneforge Mystic
-2 Castle Ardenvale
+1 Kaldra Compleat
+1 Stoneforge Mystic
 2 Field of Ruin
+2 Castle Ardenvale
 2 Path to Exile
 2 Spell Queller
 2 Arid Mesa
+2 Stoneforge Mystic
 3 Field of Ruin
-3 Stoneforge Mystic
 3 Plains
+3 Stoneforge Mystic
 3 Arid Mesa
 4 Stoneforge Mystic
 4 Plains
 4 Arid Mesa
+1 Doomskar
 1 Celestial Colonnade
 1 Ghost Quarter
 1 Narset, Parter of Veils
-1 Doomskar
 1 Suspend
 1 Day's Undoing
 1 Flumph
@@ -115,8 +115,8 @@
 1 Birds of Paradise
 1 On Thin Ice
 2 Birds of Paradise
-2 On Thin Ice
 2 Noble Hierarch
+2 On Thin Ice
 2 Endurance
 3 Noble Hierarch
 4 Noble Hierarch
