@@ -27,10 +27,10 @@
 2 Snow-Covered Plains
 3 Fabled Passage
 1 Rimewood Falls
-1 Snow-Covered Forest
 1 Arctic Treeline
-1 Memory Lapse
+1 Snow-Covered Forest
 1 Nissa, Who Shakes the World
+1 Memory Lapse
 1 Hydroid Krasis
 1 Yasharn, Implacable Earth
 1 Wrath of God
@@ -41,8 +41,8 @@
 1 Breeding Pool
 1 Commit/Memory
 2 Snow-Covered Forest
-2 Memory Lapse
 2 Nissa, Who Shakes the World
+2 Memory Lapse
 2 Yasharn, Implacable Earth
 2 Hydroid Krasis
 2 Snow-Covered Island
@@ -50,14 +50,14 @@
 2 Shark Typhoon
 2 Into the North
 2 Breeding Pool
-3 Shark Typhoon
-3 Nissa, Who Shakes the World
 3 Memory Lapse
+3 Nissa, Who Shakes the World
+3 Shark Typhoon
 3 Breeding Pool
 3 Into the North
+4 Memory Lapse
 4 Shark Typhoon
 4 Nissa, Who Shakes the World
-4 Memory Lapse
 4 Breeding Pool
 4 Into the North
 4 Glasspool Mimic
@@ -109,10 +109,10 @@
 3 Adventurous Impulse
 4 Adventurous Impulse
 1 Legion Angel
-1 Cave of the Frost Dragon
 1 Temple of Plenty
-2 Cave of the Frost Dragon
+1 Cave of the Frost Dragon
 2 Temple of Plenty
+2 Cave of the Frost Dragon
 1 Reidane, God of the Worthy
 1 Dromoka's Command
 2 Reidane, God of the Worthy
@@ -127,17 +127,17 @@
 2 Arboreal Grazer
 3 Arboreal Grazer
 3 Relic of Progenitus
-1 Seal Away
 1 Day of Judgment
+1 Seal Away
 2 Seal Away
 3 Seal Away
 1 Vito, Thorn of the Dusk Rose
-1 Godless Shrine
 1 Brightclimb Pathway
+1 Godless Shrine
 1 Isolated Chapel
 2 Vito, Thorn of the Dusk Rose
-2 Emeria's Call
 2 Brightclimb Pathway
+2 Emeria's Call
 2 Isolated Chapel
 3 Brightclimb Pathway
 3 Vito, Thorn of the Dusk Rose
@@ -201,10 +201,10 @@
 1 Divine Gambit
 2 Elspeth Conquers Death
 2 Secluded Steppe
-2 Lyra Dawnbringer
 2 Shalai, Voice of Plenty
 2 Divine Gambit
 2 Legion's Landing
+2 Lyra Dawnbringer
 3 Secluded Steppe
 3 Divine Gambit
 4 Divine Gambit

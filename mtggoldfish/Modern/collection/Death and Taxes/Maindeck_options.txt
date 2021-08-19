@@ -32,14 +32,14 @@
 3 Emeria's Call
 3 Restoration Angel
 4 Emeria's Call
+1 Branchloft Pathway
 1 Razorverge Thicket
 1 Temple Garden
 1 Noble Hierarch
-1 Branchloft Pathway
 1 Stirring Wildwood
 1 Forest
-2 Temple Garden
 2 Branchloft Pathway
+2 Temple Garden
 2 Noble Hierarch
 2 Stirring Wildwood
 2 Razorverge Thicket
@@ -110,31 +110,31 @@
 2 Shefet Dunes
 3 Elite Spellbinder
 4 Elite Spellbinder
-1 Marsh Flats
-1 Godless Shrine
 1 Unsettled Mariner
 1 Glasspool Mimic
+1 Hengegate Pathway
 1 Raugrin Triome
 1 Island
-1 Hengegate Pathway
 1 Meddling Mage
 1 Teferi, Time Raveler
+1 Godless Shrine
 1 Hallowed Fountain
 1 Glacial Fortress
+1 Marsh Flats
 1 Flooded Strand
 2 Glacial Fortress
-2 Marsh Flats
 2 Unsettled Mariner
 2 Glasspool Mimic
 2 Hengegate Pathway
 2 Meddling Mage
 2 Teferi, Time Raveler
+2 Marsh Flats
 2 Hallowed Fountain
 2 Flooded Strand
 3 Unsettled Mariner
 3 Hengegate Pathway
-3 Hallowed Fountain
 3 Glacial Fortress
+3 Hallowed Fountain
 3 Teferi, Time Raveler
 4 Unsettled Mariner
 4 Hallowed Fountain
@@ -142,11 +142,11 @@
 1 Aven Mindcensor
 2 Oath of Nissa
 2 Aven Mindcensor
-3 Oath of Nissa
 3 Branchloft Pathway
+3 Oath of Nissa
 3 Temple Garden
-4 Oath of Nissa
 4 Branchloft Pathway
+4 Oath of Nissa
 4 Temple Garden
 1 Pithing Needle
 1 Auriok Champion
@@ -155,20 +155,27 @@
 1 Phyrexian Revoker
 2 Phyrexian Revoker
 2 Flagstones of Trokair
+1 Sword of Feast and Famine
+1 Tithe Taker
+2 Tithe Taker
+3 Sanctum Prelate
+3 Tithe Taker
+4 Sanctum Prelate
+4 Tithe Taker
 1 Kiki-Jiki, Mirror Breaker
 1 Felidar Guardian
 1 Windswept Heath
 1 Rugged Prairie
-1 Lightning Bolt
 1 Needleverge Pathway
 1 Prismatic Vista
+1 Lightning Bolt
 2 Windswept Heath
-2 Lightning Bolt
-2 Prismatic Vista
 2 Needleverge Pathway
+2 Prismatic Vista
+2 Lightning Bolt
 2 Mountain
-3 Lightning Bolt
 3 Needleverge Pathway
+3 Lightning Bolt
 3 Sacred Foundry
 4 Lightning Bolt
 1 On Thin Ice
@@ -179,10 +186,3 @@
 11 Snow-Covered Plains
 12 Snow-Covered Plains
 13 Snow-Covered Plains
-1 Sword of Feast and Famine
-1 Tithe Taker
-2 Tithe Taker
-3 Sanctum Prelate
-3 Tithe Taker
-4 Sanctum Prelate
-4 Tithe Taker

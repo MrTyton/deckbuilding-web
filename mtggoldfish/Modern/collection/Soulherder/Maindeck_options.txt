@@ -86,9 +86,9 @@
 1 Rugged Prairie
 1 Avalanche Riders
 1 Scalding Tarn
-1 Flametongue Yearling
 1 Auriok Champion
 1 Snow-Covered Mountain
+1 Flametongue Yearling
 2 Flametongue Yearling
 3 Flametongue Yearling
 4 Flametongue Yearling
@@ -108,15 +108,15 @@
 2 Mystic Gate
 2 Hengegate Pathway
 3 Seachrome Coast
-3 Hallowed Fountain
 3 Field of Ruin
+3 Hallowed Fountain
 3 Glasspool Mimic
 3 Elite Spellbinder
 3 Hengegate Pathway
 4 Seachrome Coast
 4 Elite Spellbinder
-4 Glasspool Mimic
 4 Field of Ruin
+4 Glasspool Mimic
 4 Watcher for Tomorrow
 4 Hallowed Fountain
 4 Hengegate Pathway
@@ -177,16 +177,6 @@
 3 Ragavan, Nimble Pilferer
 3 Sunbaked Canyon
 4 Razorverge Thicket
-1 Esper Sentinel
-1 Tectonic Edge
-1 Eidolon of Rhetoric
-1 Savai Triome
-2 Esper Sentinel
-2 Tectonic Edge
-3 Esper Sentinel
-3 Tectonic Edge
-4 Esper Sentinel
-4 Tectonic Edge
 1 Overgrown Tomb
 1 Tidehollow Sculler
 1 Zagoth Triome
@@ -200,17 +190,6 @@
 4 Tidehollow Sculler
 4 Abundant Growth
 4 Prismatic Vista
-1 Dusk/Dawn
-1 Bloodstained Mire
-1 Brought Back
-2 Auriok Champion
-2 Brought Back
-3 Auriok Champion
-3 Brought Back
-4 Auriok Champion
-4 Snow-Covered Plains
-4 Militia Bugler
-4 Brought Back
 1 Sulfur Falls
 1 Clifftop Retreat
 1 Mulldrifter
@@ -221,6 +200,27 @@
 3 Raugrin Triome
 3 Clifftop Retreat
 4 Clifftop Retreat
+1 Esper Sentinel
+1 Eidolon of Rhetoric
+1 Savai Triome
+1 Tectonic Edge
+2 Esper Sentinel
+2 Tectonic Edge
+3 Esper Sentinel
+3 Tectonic Edge
+4 Esper Sentinel
+4 Tectonic Edge
+1 Dusk/Dawn
+1 Bloodstained Mire
+1 Brought Back
+2 Auriok Champion
+2 Brought Back
+3 Auriok Champion
+3 Brought Back
+4 Auriok Champion
+4 Militia Bugler
+4 Brought Back
+4 Snow-Covered Plains
 1 Reveillark
 1 Glacial Fortress
 1 Chord of Calling
@@ -248,12 +248,6 @@
 1 Lonis, Cryptozoologist
 1 Indatha Triome
 2 Deputy of Detention
-1 Time Warp
-1 Arctic Treeline
-1 Rimewood Falls
-2 Restoration Angel
-3 Restoration Angel
-3 Snow-Covered Island
 1 Lavinia, Azorius Renegade
 3 Path to Exile
 1 Vesperlark
@@ -261,6 +255,12 @@
 1 Coiling Oracle
 2 Coiling Oracle
 3 Coiling Oracle
+1 Time Warp
+1 Arctic Treeline
+1 Rimewood Falls
+2 Restoration Angel
+3 Snow-Covered Island
+3 Restoration Angel
 1 Sunpetal Grove
 1 Collected Company
 2 Collected Company
@@ -315,6 +315,6 @@
 4 Horizon Canopy
 4 Thalia's Lieutenant
 2 Rugged Prairie
-3 Rugged Prairie
 3 Spellstutter Sprite
+3 Rugged Prairie
 4 Spellstutter Sprite
