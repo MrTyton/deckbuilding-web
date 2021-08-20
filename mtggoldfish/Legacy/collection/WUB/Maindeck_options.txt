@@ -14,43 +14,36 @@
 1 Bloodstained Mire
 4 Flooded Strand
 2 Drown in the Loch
-1 Retrofitter Foundry
-2 Retrofitter Foundry
 1 Snow-Covered Swamp
-1 Spell Pierce
-2 Volcanic Island
 1 Savai Triome
 1 Cling to Dust
 1 Breya, Etherium Shaper
+1 Retrofitter Foundry
+2 Retrofitter Foundry
 2 Breya, Etherium Shaper
 3 Retrofitter Foundry
-1 Misty Rainforest
-3 Scalding Tarn
 2 Prismatic Vista
-2 Badlands
+1 Spell Pierce
+2 Volcanic Island
 3 Prismatic Vista
 2 Swamp
 3 Jace, the Mind Sculptor
+2 Badlands
 1 Liliana, the Last Hope
+1 Misty Rainforest
+3 Scalding Tarn
 1 Mystic Sanctuary
+1 Karakas
+1 Snow-Covered Plains
 3 Lightning Bolt
 4 Scalding Tarn
-1 Mountain
-2 Misty Rainforest
-3 Misty Rainforest
-1 Karakas
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
-1 Snow-Covered Plains
-1 Daze
-2 Daze
 1 Tropical Island
 1 Uro, Titan of Nature's Wrath
+2 Misty Rainforest
 2 Tropical Island
 2 Uro, Titan of Nature's Wrath
+3 Misty Rainforest
 4 Misty Rainforest
-4 Lightning Bolt
 1 Gurmag Angler
 1 Steam Vents
 1 Liliana's Triumph
@@ -58,6 +51,7 @@
 2 Snow-Covered Swamp
 2 Liliana's Triumph
 1 Sudden Edict
+1 Mountain
 1 Plague Engineer
 2 Sudden Edict
 2 Plague Engineer
@@ -80,34 +74,41 @@
 2 Plains
 3 Monastery Mentor
 3 Prismatic Ending
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
 3 Underground Sea
-1 Expressive Iteration
-2 Expressive Iteration
 1 Sylvan Library
-3 Volcanic Island
-3 Daze
-1 Hullbreacher
-2 Hullbreacher
+1 Daze
+2 Daze
 3 Uro, Titan of Nature's Wrath
+4 Lightning Bolt
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Island
 1 Of One Mind
 2 Of One Mind
 1 Unholy Heat
+1 Expressive Iteration
 2 Bloodstained Mire
 2 Unholy Heat
+2 Expressive Iteration
 3 Expressive Iteration
 3 Bloodstained Mire
-1 Leovold, Emissary of Trest
-1 Assassin's Trophy
-1 Bayou
-2 Sylvan Library
-2 Assassin's Trophy
-2 Leovold, Emissary of Trest
-3 Assassin's Trophy
-4 Assassin's Trophy
+1 Endurance
+1 Savannah
+1 Windswept Heath
+1 Day's Undoing
+1 Hullbreacher
+1 Noble Hierarch
+2 Endurance
+2 Hullbreacher
+2 Day's Undoing
+2 Noble Hierarch
+3 Day's Undoing
+3 Noble Hierarch
+4 Noble Hierarch
 1 Tourach, Dread Cantor
 1 Esper Charm
 1 Urborg, Tomb of Yawgmoth
@@ -122,14 +123,24 @@
 3 Esper Charm
 3 Tourach, Dread Cantor
 4 Prismatic Ending
+1 Assassin's Trophy
+1 Leovold, Emissary of Trest
+1 Bayou
+2 Sylvan Library
+2 Assassin's Trophy
+2 Leovold, Emissary of Trest
+3 Assassin's Trophy
+3 Volcanic Island
+4 Assassin's Trophy
 1 Predict
-1 Mishra's Bauble
 1 Sevinne's Reclamation
+1 Mishra's Bauble
 1 Brazen Borrower
 2 Predict
 2 Mystic Sanctuary
 2 Mishra's Bauble
 3 Predict
+3 Daze
 3 Mishra's Bauble
 4 Mishra's Bauble
 4 Monastery Mentor
@@ -145,8 +156,8 @@
 2 Dress Down
 2 Ice-Fang Coatl
 2 Engineered Explosives
-2 Painter's Servant
 2 Pyroblast
+2 Painter's Servant
 2 Grindstone
 3 Grindstone
 3 Ice-Fang Coatl
@@ -162,28 +173,3 @@
 3 True-Name Nemesis
 3 Thoughtseize
 4 Stoneforge Mystic
-1 Endurance
-1 Savannah
-1 Windswept Heath
-1 Day's Undoing
-1 Noble Hierarch
-2 Endurance
-2 Day's Undoing
-2 Noble Hierarch
-3 Day's Undoing
-3 Noble Hierarch
-4 Noble Hierarch
-1 Ethereal Forager
-1 Fiery Islet
-1 Fire/Ice
-1 Stasis
-1 Forsaken City
-1 Ral Zarek
-2 Ethereal Forager
-2 Stasis
-2 Ral Zarek
-3 Ral Zarek
-3 Stasis
-4 Volcanic Island
-5 Island
-4 Island

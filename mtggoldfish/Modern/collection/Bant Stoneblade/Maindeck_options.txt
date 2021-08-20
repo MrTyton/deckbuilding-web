@@ -101,22 +101,22 @@
 1 Titania, Protector of Argoth
 1 Gavony Township
 1 Yavimaya, Cradle of Growth
-1 Abundant Growth
 1 Oath of Nissa
+1 Abundant Growth
 1 Time Warp
-2 Abundant Growth
 2 Oath of Nissa
-3 Abundant Growth
+2 Abundant Growth
 3 Temple Garden
+3 Abundant Growth
 3 Breeding Pool
 4 Abundant Growth
 1 Brushland
 1 Eldrazi Temple
-1 Karmic Guide
+1 Eldrazi Displacer
 1 Thought-Knot Seer
 1 Drowner of Hope
 1 Wastes
-1 Eldrazi Displacer
+1 Karmic Guide
 1 Adarkar Wastes
 2 Brushland
 2 Eldrazi Temple
@@ -138,9 +138,16 @@
 1 Questing Beast
 1 Remand
 1 Mystic Snake
-2 Charming Prince
 2 Glacial Fortress
+2 Charming Prince
 2 Waterlogged Grove
+1 Razorverge Thicket
+1 Abundant Harvest
+1 Stonehorn Dignitary
+2 Razorverge Thicket
+2 Abundant Harvest
+3 Abundant Harvest
+3 Razorverge Thicket
 1 Celestial Colonnade
 1 Subtlety
 1 Vendilion Clique
@@ -148,21 +155,15 @@
 1 Archmage's Charm
 2 Celestial Colonnade
 2 Archmage's Charm
-3 Snapcaster Mage
 3 Field of Ruin
+3 Snapcaster Mage
 3 Dromoka's Command
-1 Razorverge Thicket
-1 Abundant Harvest
-1 Stonehorn Dignitary
-2 Razorverge Thicket
-2 Abundant Harvest
-3 Razorverge Thicket
-3 Abundant Harvest
 1 Lair of the Hydra
 1 Spellstutter Sprite
 2 Spellstutter Sprite
 3 Spellstutter Sprite
 4 Spellstutter Sprite
+1 Murktide Regent
 1 Mystic Gate
 1 Urza's Saga
 1 Opt
@@ -170,7 +171,6 @@
 1 Shadowspear
 1 Pithing Needle
 1 Serum Visions
-1 Murktide Regent
 1 Castle Vantress
 2 Murktide Regent
 2 Urza's Saga
@@ -192,24 +192,24 @@
 5 Snow-Covered Forest
 1 Tangled Florahedron
 1 Barkchannel Pathway
-1 Botanical Sanctum
 1 Hinterland Harbor
 1 Kozilek, Butcher of Truth
+1 Botanical Sanctum
+1 Kinnan, Bonder Prodigy
+1 The World Tree
 1 Golos, Tireless Pilgrim
 1 Koma, Cosmos Serpent
 1 Ulamog, the Infinite Gyre
-1 The World Tree
-1 Kinnan, Bonder Prodigy
 1 Wooded Foothills
 1 Emrakul, the Aeons Torn
 2 Forest
 2 Botanical Sanctum
+2 Kinnan, Bonder Prodigy
 2 Golos, Tireless Pilgrim
 2 Tangled Florahedron
-2 Kinnan, Bonder Prodigy
 3 Birds of Paradise
-3 Tangled Florahedron
 3 Kinnan, Bonder Prodigy
+3 Tangled Florahedron
 4 Birds of Paradise
-4 Tangled Florahedron
 4 Kinnan, Bonder Prodigy
+4 Tangled Florahedron

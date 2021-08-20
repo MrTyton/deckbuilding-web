@@ -27,38 +27,38 @@
 1 Ranger Class
 2 Ranger Class
 19 Snow-Covered Forest
+1 Kazandu Mammoth
 3 Lair of the Hydra
 4 Lair of the Hydra
 4 Scavenging Ooze
 1 Vivien, Arkbow Ranger
-1 Kazandu Mammoth
 1 The Great Henge
 2 Vivien, Arkbow Ranger
 9 Forest
-20 Snow-Covered Forest
 2 Kazandu Mammoth
+20 Snow-Covered Forest
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 Lovestruck Beast
-3 Primal Might
 4 Lovestruck Beast
+3 Primal Might
+1 Snakeskin Veil
+2 Snakeskin Veil
 21 Snow-Covered Forest
 22 Snow-Covered Forest
 3 Ranger Class
 1 Yorvo, Lord of Garenbrig
+2 The Great Henge
 1 Faceless Haven
-1 Snakeskin Veil
-2 Snakeskin Veil
 1 Castle Garenbrig
 2 Castle Garenbrig
 1 Kraul Harpooner
 2 Kraul Harpooner
-2 The Great Henge
+3 Kazandu Mammoth
+4 Kazandu Mammoth
 1 Wildborn Preserver
 2 Faceless Haven
 3 Blizzard Brawl
-3 Kazandu Mammoth
-4 Kazandu Mammoth
 1 Blooming Marsh
 1 Overgrown Tomb
 1 Darkbore Pathway
@@ -84,8 +84,8 @@
 1 Scrapheap Scrounger
 1 Midnight Reaper
 1 Abundant Harvest
-2 Scrapheap Scrounger
 2 Abundant Harvest
+2 Scrapheap Scrounger
 1 Ghalta, Primal Hunger
 2 Yorvo, Lord of Garenbrig
 2 Ghalta, Primal Hunger
@@ -107,6 +107,21 @@
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
+1 Temple Garden
+1 Branchloft Pathway
+1 Vivien, Monsters' Advocate
+1 Blossoming Defense
+1 Gilded Goose
+2 Temple Garden
+2 Branchloft Pathway
+2 Blossoming Defense
+2 Gilded Goose
+3 Temple Garden
+3 Branchloft Pathway
+3 Gilded Goose
+4 Branchloft Pathway
+4 Temple Garden
+4 Gilded Goose
 3 Kraul Harpooner
 4 Kraul Harpooner
 10 Forest
@@ -115,18 +130,25 @@
 13 Forest
 14 Forest
 15 Forest
-1 Branchloft Pathway
-1 Temple Garden
-1 Vivien, Monsters' Advocate
-1 Blossoming Defense
-1 Gilded Goose
-2 Branchloft Pathway
-2 Temple Garden
-2 Blossoming Defense
-2 Gilded Goose
-3 Branchloft Pathway
-3 Temple Garden
-3 Gilded Goose
-4 Branchloft Pathway
-4 Temple Garden
-4 Gilded Goose
+1 Sheltered Thicket
+1 Rootbound Crag
+1 Gruul Spellbreaker
+1 Bonecrusher Giant
+1 Cragcrown Pathway
+1 Stomping Ground
+2 Rootbound Crag
+2 Bonecrusher Giant
+2 Gruul Spellbreaker
+2 Stomping Ground
+2 Cragcrown Pathway
+2 Sheltered Thicket
+3 Stomping Ground
+3 Bonecrusher Giant
+3 Gruul Spellbreaker
+3 Rootbound Crag
+3 Cragcrown Pathway
+4 Stomping Ground
+4 Rootbound Crag
+4 Bonecrusher Giant
+4 Cragcrown Pathway
+4 Gruul Spellbreaker
