@@ -152,11 +152,11 @@
 3 Raugrin Triome
 1 Scavenger Grounds
 2 Island
-1 Cultivate
 1 Mirari's Wake
 1 Genesis Ultimatum
 1 Fae of Wishes
 1 Omen of the Hunt
+1 Cultivate
 2 Genesis Ultimatum
 2 Mirari's Wake
 2 Cultivate
@@ -235,6 +235,7 @@
 2 Terror of the Peaks
 2 Godless Shrine
 2 Dryad of the Ilysian Grove
+2 Solemn Simulacrum
 2 The Birth of Meletis
 2 Finale of Devastation
 2 Deafening Clarion
@@ -246,6 +247,7 @@
 2 Cragcrown Pathway
 2 Stomping Ground
 2 Evolving Wilds
+2 Treacherous Blessing
 2 Wrath of God
 2 Elspeth Conquers Death
 2 Blood Crypt
@@ -260,8 +262,6 @@
 2 Steam Vents
 2 Watery Grave
 2 Sanctum of All
-2 Treacherous Blessing
-2 Solemn Simulacrum
 2 Honden of Infinite Rage
 2 Trial of Knowledge
 2 Hallowed Fountain
@@ -310,13 +310,13 @@
 4 Temple Garden
 4 Sacred Foundry
 4 Island
-4 Evolving Wilds
 4 Deafening Clarion
 4 Prophetic Prism
 4 Treacherous Blessing
 4 Fae of Wishes
 4 Renegade Map
 4 Migration Path
+4 Evolving Wilds
 4 Mastermind's Acquisition
 4 Wrath of God
 4 Steam Vents
@@ -386,16 +386,15 @@
 1 Temple of Malady
 1 Migratory Greathorn
 1 Paradise Druid
-1 Insatiable Hemophage
-1 Dirge Bat
 1 Vivien Reid
-1 Gemrazer
 1 Scute Swarm
+1 Gemrazer
 1 Nissa, Who Shakes the World
 1 Season of Growth
 1 Vivien, Champion of the Wilds
 1 Tamiyo, Collector of Tales
 1 Castle Locthwain
+1 Dirge Bat
 1 Nethroi, Apex of Death
 1 Vineglimmer Snarl
 1 Barkchannel Pathway
@@ -403,15 +402,16 @@
 1 Nicol Bolas, Dragon-God
 1 Pollywog Symbiote
 1 Pouncing Shoreshark
+1 Insatiable Hemophage
 2 Darkbore Pathway
 2 Auspicious Starrix
 2 Migratory Greathorn
 2 Paradise Druid
 2 Nissa, Who Shakes the World
-2 Insatiable Hemophage
-2 Dirge Bat
 2 Gemrazer
+2 Insatiable Hemophage
 2 Boneyard Lurker
+2 Dirge Bat
 2 Season of Growth
 2 Pollywog Symbiote
 2 Pouncing Shoreshark

@@ -1,5 +1,12 @@
 1 Embercleave
 2 Embercleave
+1 Mountain
+2 Mountain
+3 Mountain
+4 Mountain
+5 Mountain
+6 Mountain
+7 Mountain
 1 Rally the Ranks
 1 Furycalm Snarl
 1 Needleverge Pathway
@@ -10,19 +17,34 @@
 2 Needleverge Pathway
 3 Needleverge Pathway
 4 Needleverge Pathway
-1 Mountain
-2 Mountain
-3 Mountain
-4 Mountain
-5 Mountain
-6 Mountain
-7 Mountain
-20 Snow-Covered Mountain
 1 Goblin Arsonist
 2 Goblin Arsonist
+3 You See a Pair of Goblins
+4 You See a Pair of Goblins
+1 Weaselback Redcap
+2 Weaselback Redcap
+8 Mountain
+20 Snow-Covered Mountain
+3 Weaselback Redcap
+4 Weaselback Redcap
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+13 Mountain
+14 Mountain
+15 Mountain
+16 Mountain
+17 Mountain
+18 Mountain
+19 Mountain
+1 Roil Eruption
+2 Roil Eruption
 3 Rally the Ranks
 4 Den of the Bugbear
 4 Rally the Ranks
+3 Goblin Arsonist
+4 Goblin Arsonist
 1 Showdown of the Skalds
 1 Plains
 2 Showdown of the Skalds
@@ -31,17 +53,18 @@
 3 Furycalm Snarl
 4 Showdown of the Skalds
 4 Furycalm Snarl
-1 Weaselback Redcap
-2 Weaselback Redcap
-8 Mountain
-3 You See a Pair of Goblins
-4 You See a Pair of Goblins
 4 Frost Bite
+1 Shock
+2 Shock
+1 Field of Ruin
+1 Scorching Dragonfire
+1 Castle Embereth
+2 Castle Embereth
 3 Faceless Haven
 1 Lorehold Command
 1 Fire Prophecy
-1 Fabled Passage
 1 Paladin Class
+1 Fabled Passage
 1 Wish
 2 Lorehold Command
 2 Fire Prophecy
@@ -51,8 +74,13 @@
 3 Fire Prophecy
 3 Plains
 4 Fire Prophecy
+1 Snow-Covered Plains
+2 Snow-Covered Plains
+3 Snow-Covered Plains
+3 Hulking Bugbear
+4 Snow-Covered Plains
+4 Hulking Bugbear
 1 Igneous Inspiration
-1 Shock
 1 Access Tunnel
 1 Hall Monitor
 1 Heartfire Immolator
@@ -60,7 +88,6 @@
 1 Rimrock Knight
 1 Anax, Hardened in the Forge
 2 Igneous Inspiration
-2 Shock
 2 Heartfire Immolator
 2 Hall Monitor
 2 Access Tunnel
@@ -80,30 +107,10 @@
 2 Goldspan Dragon
 3 Embercleave
 4 Embercleave
-1 Roil Eruption
-1 Snow-Covered Plains
-2 Roil Eruption
-2 Snow-Covered Plains
-3 Snow-Covered Plains
-3 Hulking Bugbear
-4 Hulking Bugbear
-4 Snow-Covered Plains
-1 Field of Ruin
-1 Scorching Dragonfire
-3 Goblin Arsonist
-4 Goblin Arsonist
-1 Castle Embereth
-2 Castle Embereth
-3 Weaselback Redcap
-4 Weaselback Redcap
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-13 Mountain
-14 Mountain
-15 Mountain
-16 Mountain
-17 Mountain
-18 Mountain
-19 Mountain
+1 Slaying Fire
+2 Slaying Fire
+3 Slaying Fire
+3 Shock
+3 Roil Eruption
+4 Slaying Fire
+4 Roil Eruption
