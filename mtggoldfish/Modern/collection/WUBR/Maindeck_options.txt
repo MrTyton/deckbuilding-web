@@ -1,13 +1,12 @@
-4 Ragavan, Nimble Pilferer
+1 Mountain
 3 Snapcaster Mage
-1 Island
 2 Steam Vents
 4 Scalding Tarn
-1 Polluted Delta
-1 Terminate
+1 Island
 1 Archmage's Charm
 2 Archmage's Charm
 3 Kolaghan's Command
+1 Polluted Delta
 2 Polluted Delta
 3 Polluted Delta
 4 Polluted Delta
@@ -21,45 +20,40 @@
 1 Flooded Strand
 2 Flooded Strand
 3 Flooded Strand
-2 Unholy Heat
-3 Unholy Heat
 1 Snow-Covered Mountain
-1 Seal of Removal
 1 Sprite Dragon
 2 Sprite Dragon
+2 Unholy Heat
 2 Hallowed Fountain
 3 Sprite Dragon
 3 Counterspell
+3 Unholy Heat
 3 Spirebluff Canal
 4 Counterspell
 4 Flooded Strand
+1 Seal of Removal
+1 Terminate
 3 Island
-3 Drown in the Loch
 1 Snow-Covered Swamp
 1 Spellstutter Sprite
 2 Spellstutter Sprite
 3 Spellstutter Sprite
 4 Spirebluff Canal
-4 Archmage's Charm
 4 Spellstutter Sprite
+4 Archmage's Charm
 1 Fatal Push
 2 Fatal Push
 3 Fatal Push
 4 Snapcaster Mage
 1 Cling to Dust
 1 Darkslick Shores
+3 Drown in the Loch
 1 Force of Negation
 2 Force of Negation
 2 Watery Grave
-1 Dreadbore
-1 Wrenn and Six
-1 Valki, God of Lies
-1 Ketria Triome
-1 Bring to Light
-1 Stomping Ground
-2 Wrenn and Six
 1 Jace, Vryn's Prodigy
 1 Sulfur Falls
+1 Dreadbore
 1 Drowned Catacomb
 1 Creeping Tar Pit
 2 Dreadbore
@@ -78,12 +72,18 @@
 4 Sprite Dragon
 1 Snow-Covered Plains
 1 Savai Triome
+1 Valki, God of Lies
 1 Breeding Pool
+1 Wrenn and Six
+1 Ketria Triome
 1 Arid Mesa
+1 Bring to Light
+1 Stomping Ground
 1 Supreme Verdict
 1 Vindicate
 2 Bring to Light
 2 Arid Mesa
+2 Wrenn and Six
 3 Wrenn and Six
 3 Bring to Light
 3 Arid Mesa
@@ -105,17 +105,3 @@
 4 Soaring Thought-Thief
 4 Thieves' Guild Enforcer
 4 Drown in the Loch
-1 Forest
-1 Zagoth Triome
-1 Overgrown Tomb
-1 Tarmogoyf
-1 Wooded Foothills
-1 Pulse of Murasa
-2 Wooded Foothills
-2 Tarmogoyf
-3 Thoughtseize
-3 Tarmogoyf
-3 Wooded Foothills
-4 Tarmogoyf
-4 Wooded Foothills
-4 Unholy Heat

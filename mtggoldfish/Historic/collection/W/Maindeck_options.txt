@@ -54,6 +54,7 @@
 4 Ornithopter
 4 Court Homunculus
 6 Plains
+1 Mana Tithe
 3 Servo Exhibition
 4 Servo Exhibition
 1 Inspiring Vantage
@@ -75,13 +76,14 @@
 1 Godless Shrine
 2 Brightclimb Pathway
 3 Brightclimb Pathway
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
+3 Loyal Warhound
 1 All That Glitters
 2 All That Glitters
 3 All That Glitters
 4 All That Glitters
-3 Loyal Warhound
-4 Legion's Landing
-1 Mana Tithe
 1 Hallowed Fountain
 1 Island
 2 Island
@@ -91,15 +93,13 @@
 1 Shefet Dunes
 1 Cave of the Frost Dragon
 2 Cave of the Frost Dragon
+2 Mana Tithe
+8 Plains
 1 Concealed Courtyard
 2 Concealed Courtyard
 3 Concealed Courtyard
 4 Concealed Courtyard
-8 Plains
 1 Isolated Chapel
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
 9 Plains
 10 Plains
 11 Plains
@@ -122,6 +122,11 @@
 3 Skilled Animator
 3 Island
 16 Plains
+4 Thraben Inspector
+1 Karametra's Blessing
+2 Karametra's Blessing
+3 Karametra's Blessing
+4 Legion's Landing
 1 Ramunap Ruins
 2 Ramunap Ruins
 3 Sacred Foundry
@@ -129,9 +134,6 @@
 3 Ramunap Ruins
 4 Sacred Foundry
 4 Ramunap Ruins
-1 Karametra's Blessing
-2 Karametra's Blessing
-3 Karametra's Blessing
 1 Portable Hole
 1 Ingenious Smith
 2 Portable Hole
@@ -150,9 +152,6 @@
 1 Paladin Class
 2 Paladin Class
 1 Inventors' Fair
-2 Mana Tithe
-1 Alseid of Life's Bounty
-2 Alseid of Life's Bounty
 1 Spire of Industry
 2 Spire of Industry
 3 Spire of Industry
@@ -179,8 +178,8 @@
 1 Venerated Loxodon
 2 Venerated Loxodon
 3 Venerated Loxodon
+1 Castle Ardenvale
 17 Plains
-4 Thraben Inspector
 1 Sentinel's Eyes
 1 Battlefield Raptor
 2 Battlefield Raptor
@@ -207,20 +206,22 @@
 1 Secluded Steppe
 2 Secluded Steppe
 1 Teferi's Protection
+1 Alseid of Life's Bounty
+2 Alseid of Life's Bounty
 1 You Hear Something on Watch
 2 You Hear Something on Watch
+1 Maul of the Skyclaves
+1 Containment Priest
+1 Rest in Peace
+1 Drannith Magistrate
+2 Containment Priest
+2 Rest in Peace
+2 Drannith Magistrate
+2 Maul of the Skyclaves
+3 Reidane, God of the Worthy
 1 Emry, Lurker of the Loch
 2 Emry, Lurker of the Loch
 3 Mana Tithe
-1 Militia Bugler
-1 Drannith Magistrate
-2 Militia Bugler
-2 Drannith Magistrate
-3 Alseid of Life's Bounty
-3 Reidane, God of the Worthy
-3 Drannith Magistrate
-3 Militia Bugler
-4 Alseid of Life's Bounty
 1 Shineshadow Snarl
 2 Shineshadow Snarl
 3 Glacial Fortress
@@ -231,7 +232,6 @@
 4 Venerated Loxodon
 1 Benalish Marshal
 1 Usher of the Fallen
-1 Castle Ardenvale
 1 Venerable Knight
 2 Benalish Marshal
 2 Castle Ardenvale

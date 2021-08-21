@@ -12,9 +12,9 @@
 4 Tribal Flames
 1 Scion of Draco
 2 Scion of Draco
+4 Shardless Agent
 3 Scion of Draco
 4 Scion of Draco
-4 Shardless Agent
 1 Mantis Rider
 2 Mantis Rider
 1 Bloodbraid Elf
@@ -37,10 +37,10 @@
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
-1 Hallowed Fountain
 1 Omnath, Locus of Creation
-4 Expressive Iteration
+1 Hallowed Fountain
 2 Omnath, Locus of Creation
+4 Expressive Iteration
 1 Jace, the Mind Sculptor
 3 Flooded Strand
 1 Remand
@@ -64,14 +64,6 @@
 1 Zagoth Triome
 2 Sacred Foundry
 1 Path to Exile
-3 Lightning Helix
-4 Flooded Strand
-2 Remand
-1 Manamorphose
-2 Manamorphose
-3 Manamorphose
-4 General Ferrous Rokiric
-2 Mountain
 2 Misty Rainforest
 3 Misty Rainforest
 1 Khalni Garden
@@ -94,14 +86,23 @@
 3 Violent Outburst
 4 Khalni Garden
 4 Wavesifter
+2 Mountain
+3 Lightning Helix
+4 Flooded Strand
+2 Remand
+4 Violent Outburst
 1 Chancellor of the Forge
 2 Chancellor of the Forge
-4 Violent Outburst
+4 Goblin Dark-Dwellers
 4 Misty Rainforest
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
-4 Goblin Dark-Dwellers
 3 Chancellor of the Forge
+4 Tireless Provisioner
+1 Manamorphose
+2 Manamorphose
+3 Manamorphose
+4 General Ferrous Rokiric
 1 Snapcaster Mage
 1 Supreme Verdict
 2 Supreme Verdict
@@ -109,7 +110,6 @@
 1 Glacial Fortress
 1 Teferi, Hero of Dominaria
 2 Verdant Catacombs
-4 Tireless Provisioner
 4 Manamorphose
 1 Fury
 3 Supreme Verdict
@@ -119,6 +119,7 @@
 1 Solitude
 2 Shark Typhoon
 3 Seasoned Pyromancer
+4 Omnath, Locus of Creation
 1 Savor the Moment
 2 Velomachus Lorehold
 2 Savor the Moment
@@ -127,15 +128,14 @@
 2 Wall of Omens
 4 Seasoned Pyromancer
 4 Chancellor of the Forge
+1 Gemstone Caverns
 2 Fury
-4 Omnath, Locus of Creation
 4 Windswept Heath
 2 Fire/Ice
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 4 Bloodstained Mire
 1 Ardent Plea
-1 Gemstone Caverns
 3 Fury
 1 Delay
 2 Delay
@@ -146,6 +146,7 @@
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
+2 Island
 2 Emrakul, the Aeons Torn
 3 Ragavan, Nimble Pilferer
 2 Stomping Ground
@@ -153,11 +154,11 @@
 1 Scattered Groves
 1 Sunpetal Grove
 3 Remand
-2 Island
 1 Wild Nacatl
 1 Transmogrify
 1 Force of Negation
 1 Sulfur Falls
+1 Fire-Lit Thicket
 1 Field of Ruin
 1 Castle Ardenvale
 3 Shark Typhoon
@@ -166,7 +167,6 @@
 4 Remand
 1 Tarmogoyf
 2 Transmogrify
-1 Fire-Lit Thicket
 3 Steam Vents
 2 Plains
 2 Field of Ruin
@@ -186,6 +186,7 @@
 1 Endurance
 3 Tarmogoyf
 1 Snow-Covered Plains
+2 Forest
 3 Transmogrify
 4 Transmogrify
 1 Explore
@@ -212,7 +213,6 @@
 1 Cryptic Command
 2 Snow-Covered Island
 1 Lonely Sandbar
-2 Forest
 1 Valakut, the Molten Pinnacle
 1 Flusterstorm
 1 Brazen Borrower
@@ -221,15 +221,15 @@
 1 Flooded Grove
 1 Archmage's Charm
 3 Snow-Covered Island
+1 Relic of Progenitus
+4 Supreme Verdict
+4 Wall of Omens
 1 Kozilek, Butcher of Truth
 1 Ulamog, the Infinite Gyre
 1 Omniscience
 2 Omniscience
 3 Mountain
 4 Glimpse of Tomorrow
-1 Relic of Progenitus
-4 Supreme Verdict
-4 Wall of Omens
 1 Spell Pierce
 2 Spell Pierce
 2 Gemstone Caverns
@@ -292,8 +292,8 @@
 4 Snapcaster Mage
 3 Explore
 4 Explore
-1 Imperial Recruiter
 1 Foundation Breaker
+1 Imperial Recruiter
 1 Detention Sphere
 2 Imperial Recruiter
 2 Rift Sower
@@ -301,6 +301,15 @@
 4 Rift Sower
 2 Snow-Covered Plains
 4 Counterspell
+1 Iona, Shield of Emeria
+1 Inkwell Leviathan
+1 Simic Sky Swallower
+2 Inkwell Leviathan
+2 Simic Sky Swallower
+3 Simic Sky Swallower
+3 Inkwell Leviathan
+4 Simic Sky Swallower
+4 Inkwell Leviathan
 1 Sheltered Thicket
 3 Delay
 4 Delay

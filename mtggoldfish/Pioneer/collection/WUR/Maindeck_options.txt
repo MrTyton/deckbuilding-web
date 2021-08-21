@@ -12,37 +12,36 @@
 2 Steam Vents
 2 Glacial Fortress
 3 Raugrin Triome
+3 Glacial Fortress
 3 Shark Typhoon
 3 Steam Vents
 4 Raugrin Triome
-3 Glacial Fortress
 4 Steam Vents
 4 Glacial Fortress
+2 Sulfur Falls
+3 Sulfur Falls
 4 Shark Typhoon
 1 Teferi, Hero of Dominaria
 1 Absorb
 2 Absorb
-2 Sulfur Falls
-3 Sulfur Falls
-1 Castle Ardenvale
 3 Absorb
 4 Absorb
+1 Castle Ardenvale
+1 Dovin's Veto
 1 Scorching Dragonfire
 1 Supreme Verdict
 2 Supreme Verdict
-2 Teferi, Hero of Dominaria
-3 Supreme Verdict
-1 Dovin's Veto
 2 Dovin's Veto
 2 Scorching Dragonfire
+2 Teferi, Hero of Dominaria
 3 Scorching Dragonfire
+3 Supreme Verdict
 4 Supreme Verdict
 1 Sphinx's Revelation
-1 Expressive Iteration
-2 Expressive Iteration
 1 Castle Vantress
 3 Teferi, Hero of Dominaria
-3 Expressive Iteration
+1 Expressive Iteration
+2 Expressive Iteration
 1 Rest in Peace
 1 Magma Spray
 1 Needle Spires
@@ -51,25 +50,24 @@
 4 Scorching Dragonfire
 4 Sulfur Falls
 1 Behold the Multiverse
+3 Expressive Iteration
 1 Bomat Courier
 2 Bomat Courier
 3 Dovin's Veto
 4 Dovin's Veto
 2 Behold the Multiverse
 1 Rewind
-4 Expressive Iteration
 1 Fabled Passage
+1 Chained to the Rocks
 1 Mountain
 2 Fabled Passage
-1 Chained to the Rocks
 2 Chained to the Rocks
 3 Chained to the Rocks
 4 Chained to the Rocks
 2 Stubborn Denial
 2 Mana Confluence
+4 Expressive Iteration
 1 Narset, Parter of Veils
-2 Sacred Foundry
-3 Sacred Foundry
 1 Clifftop Retreat
 1 Opt
 1 Omen of the Sea
@@ -84,6 +82,7 @@
 2 Clifftop Retreat
 2 Omen of the Sea
 2 Opt
+2 Sacred Foundry
 2 Fire Prophecy
 2 Omen of the Sun
 2 Indomitable Creativity
@@ -92,6 +91,7 @@
 3 Omen of the Sea
 3 Indomitable Creativity
 3 Omen of the Sun
+3 Sacred Foundry
 3 Fabled Passage
 4 Opt
 4 Omen of the Sea
@@ -100,20 +100,16 @@
 4 Fabled Passage
 4 Sacred Foundry
 4 All That Glitters
+2 Mountain
 2 Island
+2 Rewind
 2 Castle Ardenvale
 1 Dig Through Time
 2 Dig Through Time
 3 Dig Through Time
-2 Mountain
 1 Censor
-2 Censor
-2 Narset, Parter of Veils
-3 Narset, Parter of Veils
-2 Rewind
-1 Search for Azcanta
-1 Cast Out
 1 Secure the Wastes
+2 Censor
 2 Valakut Awakening
 3 Fire Prophecy
 3 Censor
@@ -124,13 +120,17 @@
 1 Fires of Invention
 1 Oath of Chandra
 2 The Birth of Meletis
+2 Narset, Parter of Veils
 2 Plains
 2 Fires of Invention
 3 The Birth of Meletis
+3 Narset, Parter of Veils
 3 Clifftop Retreat
 3 Fires of Invention
 4 The Birth of Meletis
 4 Fires of Invention
+1 Search for Azcanta
+1 Cast Out
 1 Narset of the Ancient Way
 4 Portable Hole
 3 Behold the Multiverse
@@ -142,14 +142,6 @@
 1 Scrabbling Claws
 1 Steel Overseer
 2 Steel Overseer
-1 Prismari Command
-1 Geier Reach Sanitarium
-1 Commit/Memory
-1 Justice Strike
-1 Azorius Charm
-1 Field of Ruin
-2 Prismari Command
-2 Justice Strike
 1 Magma Opus
 1 Torrential Gearhulk
 2 Magma Opus
