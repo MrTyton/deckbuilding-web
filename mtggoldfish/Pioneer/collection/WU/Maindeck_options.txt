@@ -6,11 +6,11 @@
 3 Skyclave Apparition
 4 Thraben Inspector
 4 Skyclave Apparition
-1 Elite Guardmage
 1 Agent of Treachery
+1 Elite Guardmage
 2 Elite Guardmage
-3 Yorion, Sky Nomad
 3 Elite Guardmage
+3 Yorion, Sky Nomad
 4 Hengegate Pathway
 5 Plains
 6 Plains
@@ -19,25 +19,25 @@
 1 The Book of Exalted Deeds
 2 The Book of Exalted Deeds
 2 Mutavault
-3 Mutavault
 3 Elspeth Conquers Death
+3 Mutavault
 3 The Book of Exalted Deeds
+1 Emeria's Call
 8 Plains
 1 Temple of Enlightenment
 2 Temple of Enlightenment
 3 Temple of Enlightenment
-4 Elite Guardmage
 4 Temple of Enlightenment
-1 Emeria's Call
+4 Elite Guardmage
 1 Baffling End
 2 Baffling End
 1 Azorius Charm
 2 Azorius Charm
-2 Fabled Passage
-3 Azorius Charm
 3 Baffling End
 4 Baffling End
 8 Island
+3 Azorius Charm
+2 Fabled Passage
 2 Agent of Treachery
 4 Azorius Charm
 3 Teferi, Hero of Dominaria
@@ -46,9 +46,9 @@
 1 Glasspool Mimic
 2 Mystical Dispute
 3 Mystical Dispute
-1 Geier Reach Sanitarium
 4 Mutavault
 1 Prairie Stream
+1 Geier Reach Sanitarium
 4 Mystical Dispute
 3 Field of Ruin
 1 Faith's Fetters
@@ -72,84 +72,88 @@
 2 Priest of Ancient Lore
 3 Priest of Ancient Lore
 4 Priest of Ancient Lore
-1 Dig Through Time
 1 Censor
 2 Censor
-2 Dig Through Time
-3 Dig Through Time
+3 Censor
+4 Censor
+1 Dig Through Time
 1 Elite Spellbinder
 2 Elite Spellbinder
 3 Elite Spellbinder
 1 Arcanist's Owl
 1 Nykthos, Shrine to Nyx
 1 Knight of the White Orchid
-2 Arcanist's Owl
 2 Nykthos, Shrine to Nyx
+2 Arcanist's Owl
 2 Knight of the White Orchid
-3 Nykthos, Shrine to Nyx
 3 Knight of the White Orchid
+3 Nykthos, Shrine to Nyx
 4 Knight of the White Orchid
-3 Censor
-4 Censor
-1 Horribly Awry
+2 Dig Through Time
+3 Dig Through Time
 1 Sulfur Falls
-1 Raugrin Triome
 1 Steam Vents
+1 Clifftop Retreat
+1 Raugrin Triome
 1 Prismari Command
 2 Raugrin Triome
+2 Sulfur Falls
 2 Steam Vents
+2 Clifftop Retreat
 3 Steam Vents
 3 Raugrin Triome
-1 Search for Azcanta
 1 Opt
 2 Opt
 3 Opt
 4 Opt
+1 Horribly Awry
 4 Elite Spellbinder
 4 Elspeth Conquers Death
+1 Torrential Gearhulk
+2 Torrential Gearhulk
 4 The Book of Exalted Deeds
-2 Prismari Command
+1 Magma Opus
+1 Commit/Memory
+2 Magma Opus
+3 Sulfur Falls
+3 Magma Opus
+4 Raugrin Triome
+4 Steam Vents
+4 Magma Opus
+4 Sulfur Falls
 1 Expressive Iteration
 1 Sacred Foundry
 2 Expressive Iteration
 2 Sacred Foundry
-1 Commit/Memory
-4 Raugrin Triome
-1 Clifftop Retreat
-2 Sulfur Falls
-2 Clifftop Retreat
-1 Torrential Gearhulk
-2 Torrential Gearhulk
+1 Hall of Storm Giants
+1 Search for Azcanta
 3 Void Shatter
-1 Magma Opus
-1 Anger of the Gods
-2 Magma Opus
-2 Anger of the Gods
-3 Sulfur Falls
-3 Magma Opus
-4 Steam Vents
-4 Magma Opus
-4 Sulfur Falls
 1 Mountain
 1 Scorching Dragonfire
+2 Scorching Dragonfire
 3 Expressive Iteration
+3 Scorching Dragonfire
+4 Scorching Dragonfire
 4 Expressive Iteration
+1 Anger of the Gods
+2 Anger of the Gods
 1 Sinister Sabotage
-3 Sacred Foundry
+2 Prismari Command
 1 Cave of the Frost Dragon
 1 Iymrith, Desert Doom
 2 Iymrith, Desert Doom
 1 Gideon, Ally of Zendikar
 2 Gideon, Ally of Zendikar
+2 Hall of Storm Giants
 1 Cavalier of Dawn
 2 Detention Sphere
 2 Cavalier of Dawn
 10 Plains
 1 Karn, the Great Creator
 1 Snow-Covered Plains
+1 Loyal Warhound
 1 Mazemind Tome
 1 Heliod, Sun-Crowned
-1 Loyal Warhound
 2 Karn, the Great Creator
 2 Mazemind Tome
 2 Cave of the Frost Dragon
@@ -160,8 +164,8 @@
 3 Snow-Covered Plains
 3 Heliod, Sun-Crowned
 3 Arcanist's Owl
-4 Snow-Covered Plains
 4 Karn, the Great Creator
+4 Snow-Covered Plains
 4 Heliod, Sun-Crowned
 4 Nykthos, Shrine to Nyx
 4 Arcanist's Owl
@@ -180,38 +184,32 @@
 17 Snow-Covered Plains
 18 Snow-Covered Plains
 19 Snow-Covered Plains
-1 Hall of Storm Giants
-1 Justice Strike
-1 Cast Out
-2 Justice Strike
+1 Magma Spray
 1 Bonecrusher Giant
 1 Jace, Vryn's Prodigy
 1 Spirebluff Canal
 2 Bonecrusher Giant
 2 Jace, Vryn's Prodigy
 2 Sinister Sabotage
+3 Sacred Foundry
 3 Sinister Sabotage
-1 Magma Spray
-2 Scorching Dragonfire
-3 Scorching Dragonfire
-4 Scorching Dragonfire
 3 Prismari Command
 3 Torrential Gearhulk
 4 Torrential Gearhulk
 1 Watery Grave
 1 Heartless Act
 1 Isolated Chapel
+1 Kaya, Orzhov Usurper
 1 Vanishing Verse
 1 Drowned Catacomb
 1 Fetid Pools
-1 Kaya, Orzhov Usurper
-2 Watery Grave
+2 Kaya, Orzhov Usurper
 2 Isolated Chapel
 2 Heartless Act
 2 Vanishing Verse
+2 Watery Grave
 2 Drowned Catacomb
 2 Fetid Pools
-2 Kaya, Orzhov Usurper
 3 Vanishing Verse
 3 Heartless Act
 3 Watery Grave

@@ -1,29 +1,29 @@
 3 Counterspell
-1 Maddening Cacophony
-3 Flooded Strand
-2 Maddening Cacophony
-4 Fatal Push
 2 Shelldock Isle
+3 Flooded Strand
+1 Maddening Cacophony
+4 Fatal Push
+2 Maddening Cacophony
 4 Surgical Extraction
 1 Misty Rainforest
 1 Clearwater Pathway
-3 Maddening Cacophony
-4 Maddening Cacophony
 1 Into the Story
 1 Snow-Covered Swamp
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
+3 Maddening Cacophony
+4 Maddening Cacophony
 2 Misty Rainforest
 5 Island
 1 Scalding Tarn
 1 Darkness
 2 Darkness
-3 Darkness
 4 Watery Grave
 2 Swamp
 1 Thought Scour
+3 Darkness
 1 Jace's Phantasm
 2 Jace's Phantasm
 3 Jace's Phantasm
@@ -34,23 +34,21 @@
 4 Flooded Strand
 1 Extirpate
 2 Extirpate
-3 Scalding Tarn
-1 Mission Briefing
-2 Mission Briefing
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
+3 Scalding Tarn
 4 Counterspell
 1 Prismatic Vista
 1 Drowned Catacomb
 1 Godless Shrine
 1 Hallowed Fountain
 1 Snapcaster Mage
-1 Ghost Quarter
-1 Baleful Mastery
-1 Suspend
-1 Repeal
 1 Marsh Flats
+1 Ghost Quarter
+1 Suspend
+1 Baleful Mastery
+1 Repeal
 1 Engineered Explosives
 1 Mikokoro, Center of the Sea
 2 Baleful Mastery
@@ -64,6 +62,8 @@
 2 Scheming Symmetry
 1 Doom Blade
 2 Doom Blade
+1 Mission Briefing
+2 Mission Briefing
 3 Darkslick Shores
 1 Winds of Rebuke
 2 Prismatic Vista
@@ -71,7 +71,6 @@
 3 Winds of Rebuke
 2 Mesmeric Orb
 3 Mesmeric Orb
-4 Darkness
 1 Glimpse the Unthinkable
 1 Path to Exile
 2 Path to Exile

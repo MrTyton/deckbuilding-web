@@ -24,12 +24,12 @@
 1 Polluted Delta
 2 Tropical Island
 4 Emrakul, the Aeons Torn
-1 Urza's Saga
+1 Wasteland
 1 Elvish Reclaimer
+1 Urza's Saga
 1 Dress Down
 1 Pithing Needle
 1 Phyrexian Dreadnought
-1 Wasteland
 1 Mosswort Bridge
 2 Urza's Saga
 2 Elvish Reclaimer
@@ -37,9 +37,9 @@
 2 Phyrexian Dreadnought
 2 Mosswort Bridge
 3 Urza's Saga
-3 Dress Down
 3 Elvish Reclaimer
 3 Phyrexian Dreadnought
+3 Dress Down
 3 Mosswort Bridge
 4 Mosswort Bridge
 1 Volcanic Island
@@ -53,9 +53,9 @@
 3 Snow-Covered Forest
 6 Snow-Covered Island
 1 Soul-Guide Lantern
-4 Elvish Reclaimer
 4 Phyrexian Dreadnought
 4 Dress Down
+4 Elvish Reclaimer
 1 Plains
 2 Orim's Chant
 3 Orim's Chant
@@ -87,23 +87,23 @@
 1 Daze
 2 Daze
 2 Volcanic Island
-3 Volcanic Island
 3 Daze
+3 Volcanic Island
 4 Daze
 1 Peek
 1 Relic of Progenitus
 1 Flusterstorm
 1 Portent
-2 Intuition
 2 Snow-Covered Plains
+2 Intuition
+1 Tarmogoyf
+2 Tarmogoyf
 2 Plains
 1 Crystal Vein
 1 Suspend
 2 Crystal Vein
 2 Endurance
 2 Suspend
-1 Tarmogoyf
-2 Tarmogoyf
 1 Abundant Harvest
 1 Carpet of Flowers
 2 Abundant Harvest
@@ -113,7 +113,6 @@
 1 Violent Outburst
 1 Glimpse of Tomorrow
 1 Wavesifter
-1 Archon of Cruelty
 1 Ashen Rider
 1 Wooded Foothills
 1 Valakut Awakening
@@ -121,6 +120,7 @@
 1 Shardless Agent
 1 Forest
 1 Mountain
+1 Archon of Cruelty
 1 Scholar of the Lost Trove
 1 Khalni Garden
 2 Violent Outburst
@@ -141,8 +141,8 @@
 3 Wooded Foothills
 3 Shardless Agent
 3 Scholar of the Lost Trove
-4 Khalni Garden
 4 Violent Outburst
+4 Khalni Garden
 4 Archon of Cruelty
 4 Shardless Agent
 4 Wooded Foothills

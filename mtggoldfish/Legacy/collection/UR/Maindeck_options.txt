@@ -1,37 +1,49 @@
-2 Flooded Strand
-3 Pyroblast
 2 Daze
-1 Aether Spellbomb
-1 Mountain
-1 Island
-2 Island
 3 Daze
 4 Daze
-3 Grindstone
+1 Wasteland
+2 Wasteland
+3 Wasteland
+2 Flooded Strand
+1 Dragon's Rage Channeler
+2 Dragon's Rage Channeler
+3 Dragon's Rage Channeler
+4 Dragon's Rage Channeler
+2 Misty Rainforest
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Mishra's Bauble
+1 Murktide Regent
+1 Unholy Heat
+2 Murktide Regent
+2 Unholy Heat
+3 Murktide Regent
+4 Mishra's Bauble
+1 Mountain
+3 Pyroblast
+1 Aether Spellbomb
+1 Island
 2 Polluted Delta
+4 Wasteland
+2 Island
+1 Steam Vents
 1 Spell Pierce
 1 Sprite Dragon
 1 Dress Down
 1 Scroll of Fate
 1 Phyrexian Dreadnought
-1 Dragon's Rage Channeler
-1 Wasteland
 2 Dress Down
 2 Spell Pierce
 2 Sprite Dragon
 2 Phyrexian Dreadnought
 2 Scroll of Fate
-2 Wasteland
-2 Dragon's Rage Channeler
-3 Wasteland
 3 Dress Down
 3 Sprite Dragon
 3 Phyrexian Dreadnought
 3 Island
-3 Dragon's Rage Channeler
 4 Dress Down
 4 Phyrexian Dreadnought
-4 Dragon's Rage Channeler
+3 Grindstone
 1 Goblin Welder
 1 Great Furnace
 1 Mox Opal
@@ -40,7 +52,10 @@
 3 Goblin Welder
 1 Prismatic Vista
 2 Prismatic Vista
-2 Misty Rainforest
+1 Tropical Island
+2 Tropical Island
+3 Misty Rainforest
+4 Misty Rainforest
 1 Soul-Guide Lantern
 4 Pyroblast
 1 Seat of the Synod
@@ -56,15 +71,15 @@
 3 Mox Opal
 4 Goblin Engineer
 4 Goblin Welder
+1 Brazen Borrower
 1 Preordain
 1 Snapcaster Mage
 2 Snapcaster Mage
 2 Relic of Progenitus
-1 Witching Well
 1 Bolas's Citadel
 1 Plains
-1 Plateau
 1 Brainstone
+1 Plateau
 1 Oswald Fiddlebender
 1 Portable Hole
 1 Thopter Foundry
@@ -72,54 +87,59 @@
 1 Tundra
 1 Ancient Den
 1 Ethersworn Canonist
+1 Witching Well
 2 Mountain
 2 Portable Hole
 2 Oswald Fiddlebender
 2 Thopter Foundry
 3 Portable Hole
 3 Arid Mesa
-4 Wasteland
 1 Uro, Titan of Nature's Wrath
 1 Snow-Covered Forest
 1 Taiga
-1 Tropical Island
 1 Ice-Fang Coatl
 1 Narset, Parter of Veils
 1 Engineered Explosives
 2 Uro, Titan of Nature's Wrath
-2 Tropical Island
 2 Snow-Covered Forest
 2 Narset, Parter of Veils
-2 Engineered Explosives
 2 Ice-Fang Coatl
+2 Engineered Explosives
 3 Snow-Covered Island
 3 Narset, Parter of Veils
-3 Misty Rainforest
 3 Ice-Fang Coatl
 4 Narset, Parter of Veils
 4 Ice-Fang Coatl
-4 Misty Rainforest
+1 Seal of Fire
+1 Thought Scour
+1 Tarmogoyf
+2 Tarmogoyf
+2 Thought Scour
+2 Seal of Fire
+3 Unholy Heat
+3 Tarmogoyf
+3 Seal of Fire
+4 Tarmogoyf
+2 Steam Vents
+4 Murktide Regent
+1 Baleful Strix
 1 Emry, Lurker of the Loch
-1 Mishra's Bauble
 1 Thought Monitor
 1 Bloodstained Mire
 1 Badlands
 1 Chromatic Star
-1 Baleful Strix
 1 Crucible of Worlds
 1 Nihil Spellbomb
 1 Wishclaw Talisman
 1 City of Traitors
 2 Emry, Lurker of the Loch
 2 Bloodstained Mire
-2 Mishra's Bauble
 2 Chromatic Star
+2 Badlands
 2 Lion's Eye Diamond
 2 Wishclaw Talisman
-2 Badlands
 3 Great Furnace
 3 Wishclaw Talisman
-3 Mishra's Bauble
 3 Chromatic Star
 3 Ancient Tomb
 3 Lion's Eye Diamond
@@ -129,7 +149,6 @@
 3 Polluted Delta
 4 Sprite Dragon
 4 Polluted Delta
-1 Steam Vents
 2 Hydroblast
 3 Hydroblast
 4 Hydroblast
