@@ -135,8 +135,6 @@
 1 Seasoned Pyromancer
 1 Word of Seizing
 1 Curse of Fool's Wisdom
-1 Blade Historian
-2 Blade Historian
 1 Dismember
 2 Dismember
 1 Abrade
@@ -149,6 +147,8 @@
 2 Smuggler's Copter
 2 Retrofitter Foundry
 2 Spellskite
+1 Blade Historian
+2 Blade Historian
 1 Brainstorm
 1 Thopter Foundry
 1 Flooded Strand
@@ -220,8 +220,8 @@
 1 Wurmcoil Engine
 1 Rustvale Bridge
 1 Phyrexian Revoker
-1 Thrill of Possibility
 1 Karakas
+1 Thrill of Possibility
 1 Phyrexian Metamorph
 1 Daretti, Scrap Savant
 2 Daretti, Scrap Savant
@@ -229,25 +229,6 @@
 3 Oswald Fiddlebender
 4 Arid Mesa
 4 Oswald Fiddlebender
-1 Snow-Covered Swamp
-1 Plague Reaver
-1 Murderous Rider
-2 Snow-Covered Swamp
-2 Plague Reaver
-3 Snow-Covered Swamp
-3 Plague Reaver
-4 Snow-Covered Swamp
-5 Snow-Covered Swamp
-6 Snow-Covered Swamp
-7 Snow-Covered Swamp
-1 Pashalik Mons
-6 Snow-Covered Mountain
-7 Snow-Covered Mountain
-8 Snow-Covered Mountain
-1 Anje's Ravager
-1 Inferno Titan
-2 Anje's Ravager
-10 Mountain
 1 Thought-Knot Seer
 1 Eldrazi Temple
 1 Purphoros's Intervention
@@ -274,3 +255,22 @@
 4 Grove of the Burnwillows
 4 Reality Smasher
 4 Blood Sun
+1 Pashalik Mons
+6 Snow-Covered Mountain
+7 Snow-Covered Mountain
+8 Snow-Covered Mountain
+1 Anje's Ravager
+1 Inferno Titan
+2 Anje's Ravager
+10 Mountain
+1 Snow-Covered Swamp
+1 Plague Reaver
+1 Murderous Rider
+2 Snow-Covered Swamp
+2 Plague Reaver
+3 Snow-Covered Swamp
+3 Plague Reaver
+4 Snow-Covered Swamp
+5 Snow-Covered Swamp
+7 Snow-Covered Swamp
+6 Snow-Covered Swamp
