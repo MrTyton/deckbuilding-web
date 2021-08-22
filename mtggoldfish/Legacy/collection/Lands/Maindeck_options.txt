@@ -2,10 +2,10 @@
 3 Punishing Fire
 3 Valakut Exploration
 1 Sylvan Library
-2 Sylvan Library
 1 Ancient Tomb
-3 Elvish Reclaimer
+2 Sylvan Library
 1 Retrofitter Foundry
+3 Elvish Reclaimer
 4 Urza's Saga
 1 Pithing Needle
 4 Elvish Reclaimer
@@ -15,19 +15,20 @@
 3 Sphere of Resistance
 4 Sphere of Resistance
 3 Taiga
-1 Savannah
 1 Tranquil Thicket
 1 Pyrite Spellbomb
 1 Lightning Bolt
+1 Savannah
 4 Valakut Exploration
 2 Savannah
 2 Field of the Dead
-1 Flagstones of Trokair
-2 Windswept Heath
 1 Waterlogged Grove
 2 Ancient Tomb
 1 Glacial Chasm
+1 Flagstones of Trokair
+2 Windswept Heath
 1 Prismatic Ending
+1 Diamond Valley
 1 Plateau
 1 Swords to Plowshares
 1 Temple Garden
@@ -35,7 +36,6 @@
 2 Swords to Plowshares
 3 Windswept Heath
 4 Windswept Heath
-1 Diamond Valley
 2 Lightning Bolt
 3 Lightning Bolt
 1 Tropical Island
@@ -44,7 +44,6 @@
 2 Blast Zone
 1 Endurance
 2 Endurance
-1 Plains
 3 Maze of Ith
 4 Dark Depths
 1 Horizon Canopy
@@ -54,18 +53,17 @@
 2 Uro, Titan of Nature's Wrath
 2 Tropical Island
 3 Uro, Titan of Nature's Wrath
-2 Prismatic Ending
 1 Riftstone Portal
 3 Endurance
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
+1 Creeping Tar Pit
 1 Underground Sea
 1 Tundra
 1 Jace, the Mind Sculptor
 1 Teferi, Time Raveler
-1 Creeping Tar Pit
 1 Island
 1 Brainstorm
 1 Leovold, Emissary of Trest
@@ -76,11 +74,12 @@
 1 Bayou
 1 Cabal Pit
 1 Polluted Delta
-2 Jace, the Mind Sculptor
 2 Leovold, Emissary of Trest
+2 Jace, the Mind Sculptor
 2 Teferi, Time Raveler
 2 Brainstorm
 2 Opposition Agent
+2 Prismatic Ending
 2 Abrupt Decay
 2 Baleful Strix
 2 Misty Rainforest
@@ -91,9 +90,9 @@
 3 Misty Rainforest
 4 Brainstorm
 4 Misty Rainforest
-1 Enlightened Tutor
 1 Sylvan Scrying
 1 Manabond
+1 Plains
 1 Engineered Explosives
 1 Ipnu Rivulet
 2 Engineered Explosives

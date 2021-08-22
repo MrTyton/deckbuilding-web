@@ -26,43 +26,42 @@
 2 Windswept Heath
 2 General Ferrous Rokiric
 3 General Ferrous Rokiric
-1 Nahiri, the Harbinger
 2 Flooded Strand
-2 Nahiri, the Harbinger
 4 Bloodbraid Elf
-3 Hard Evidence
 1 Misty Rainforest
-4 Hard Evidence
-1 Shark Typhoon
+1 Nahiri, the Harbinger
+2 Nahiri, the Harbinger
+3 Hard Evidence
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
+1 Shark Typhoon
 1 Omnath, Locus of Creation
-1 Hallowed Fountain
-2 Omnath, Locus of Creation
-4 Expressive Iteration
 1 Jace, the Mind Sculptor
-3 Flooded Strand
-1 Remand
+1 Hallowed Fountain
+4 Expressive Iteration
+2 Omnath, Locus of Creation
+4 Hard Evidence
 1 Time Warp
 1 Velomachus Lorehold
 2 Time Warp
 3 Time Warp
 4 Time Warp
+3 Flooded Strand
 3 Omnath, Locus of Creation
+1 Remand
 1 Savai Triome
+3 Bloodstained Mire
 1 Verdant Catacombs
 1 Noble Hierarch
 2 Noble Hierarch
 1 Blood Crypt
 1 Ignoble Hierarch
 2 Ignoble Hierarch
-3 Bloodstained Mire
 3 Ignoble Hierarch
 4 Ignoble Hierarch
 1 Indatha Triome
 1 Zagoth Triome
-2 Sacred Foundry
 1 Path to Exile
 2 Misty Rainforest
 3 Misty Rainforest
@@ -86,15 +85,15 @@
 3 Violent Outburst
 4 Khalni Garden
 4 Wavesifter
-2 Mountain
 3 Lightning Helix
 4 Flooded Strand
-2 Remand
+2 Sacred Foundry
 4 Violent Outburst
 1 Chancellor of the Forge
 2 Chancellor of the Forge
 4 Goblin Dark-Dwellers
 4 Misty Rainforest
+2 Mountain
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 3 Chancellor of the Forge
@@ -109,9 +108,15 @@
 1 Fire/Ice
 1 Glacial Fortress
 1 Teferi, Hero of Dominaria
+2 Remand
 2 Verdant Catacombs
 4 Manamorphose
 1 Fury
+1 Savor the Moment
+2 Velomachus Lorehold
+2 Savor the Moment
+3 Savor the Moment
+4 Savor the Moment
 3 Supreme Verdict
 3 Windswept Heath
 4 Lightning Helix
@@ -120,11 +125,6 @@
 2 Shark Typhoon
 3 Seasoned Pyromancer
 4 Omnath, Locus of Creation
-1 Savor the Moment
-2 Velomachus Lorehold
-2 Savor the Moment
-3 Savor the Moment
-4 Savor the Moment
 2 Wall of Omens
 4 Seasoned Pyromancer
 4 Chancellor of the Forge
@@ -147,15 +147,13 @@
 3 Chalice of the Void
 4 Chalice of the Void
 2 Island
-2 Emrakul, the Aeons Torn
 3 Ragavan, Nimble Pilferer
 2 Stomping Ground
 1 Snow-Covered Island
 1 Scattered Groves
 1 Sunpetal Grove
-3 Remand
+2 Emrakul, the Aeons Torn
 1 Wild Nacatl
-1 Transmogrify
 1 Force of Negation
 1 Sulfur Falls
 1 Fire-Lit Thicket
@@ -164,14 +162,15 @@
 3 Shark Typhoon
 1 Counterspell
 3 Snapcaster Mage
-4 Remand
+3 Remand
 1 Tarmogoyf
+1 Transmogrify
 2 Transmogrify
-3 Steam Vents
 2 Plains
 2 Field of Ruin
 4 Shark Typhoon
 2 Path to Exile
+4 Remand
 2 Tarmogoyf
 2 Wild Nacatl
 3 Wild Nacatl
@@ -182,6 +181,7 @@
 2 Gemstone Mine
 1 Snow-Covered Mountain
 3 Wall of Omens
+3 Steam Vents
 1 Overgrown Tomb
 1 Endurance
 3 Tarmogoyf
@@ -221,15 +221,15 @@
 1 Flooded Grove
 1 Archmage's Charm
 3 Snow-Covered Island
-1 Relic of Progenitus
-4 Supreme Verdict
-4 Wall of Omens
 1 Kozilek, Butcher of Truth
 1 Ulamog, the Infinite Gyre
 1 Omniscience
 2 Omniscience
 3 Mountain
 4 Glimpse of Tomorrow
+1 Relic of Progenitus
+4 Supreme Verdict
+4 Wall of Omens
 1 Spell Pierce
 2 Spell Pierce
 2 Gemstone Caverns
@@ -273,9 +273,6 @@
 2 Sulfur Falls
 2 Rest in Peace
 3 Gemstone Caverns
-1 Valakut Awakening
-2 Valakut Awakening
-3 Valakut Awakening
 3 Academy Manufactor
 4 Academy Manufactor
 1 Anger of the Gods

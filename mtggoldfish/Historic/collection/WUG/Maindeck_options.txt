@@ -19,23 +19,15 @@
 2 Ajani, Strength of the Pride
 1 The Book of Exalted Deeds
 2 Heliod, Sun-Crowned
-4 Glasspool Mimic
-1 Trelasarra, Moon Dancer
-2 Trelasarra, Moon Dancer
-2 Forest
-3 Angel of Vitality
-4 Angel of Vitality
-1 Settle the Wreckage
-1 Baffling End
+3 Glacial Fortress
 1 Fabled Passage
 2 Fabled Passage
 3 Fabled Passage
-3 Glacial Fortress
 1 Faceless Haven
 1 Snow-Covered Plains
-1 Snow-Covered Forest
 1 Memory Lapse
 1 Rimewood Falls
+1 Snow-Covered Forest
 1 Hydroid Krasis
 1 Into the North
 1 Snow-Covered Island
@@ -54,19 +46,14 @@
 1 Arctic Treeline
 1 Yasharn, Implacable Earth
 2 Yasharn, Implacable Earth
-4 Fabled Passage
 1 Nissa, Who Shakes the World
 1 Narset, Parter of Veils
 2 Nissa, Who Shakes the World
-2 Commit/Memory
 2 Narset, Parter of Veils
 2 Breeding Pool
 3 Breeding Pool
 3 Nissa, Who Shakes the World
 4 Breeding Pool
-1 Emeria's Call
-1 Daxos, Blessed by the Sun
-2 Daxos, Blessed by the Sun
 2 Faceless Haven
 1 Wrath of God
 1 Shark Typhoon
@@ -74,25 +61,44 @@
 3 Shark Typhoon
 4 Nissa, Who Shakes the World
 4 Shark Typhoon
+4 Fabled Passage
+2 Commit/Memory
+1 Settle the Wreckage
+4 Glasspool Mimic
+1 Baffling End
+1 Trelasarra, Moon Dancer
+2 Trelasarra, Moon Dancer
+3 Angel of Vitality
+4 Angel of Vitality
+2 Forest
+3 Snow-Covered Forest
+1 Emeria's Call
+1 Daxos, Blessed by the Sun
+2 Daxos, Blessed by the Sun
+2 Wrath of God
 1 Shalai, Voice of Plenty
 1 Lyra Dawnbringer
 11 Plains
 12 Plains
 13 Plains
-2 Settle the Wreckage
 2 Rimewood Falls
 3 Narset, Parter of Veils
 3 Rimewood Falls
+2 Settle the Wreckage
 3 Declaration in Stone
 3 Forest
 4 Forest
 1 Toski, Bearer of Secrets
 2 Toski, Bearer of Secrets
-3 Snow-Covered Forest
 4 Hengegate Pathway
 1 Into the Roil
 4 Glacial Fortress
-2 Wrath of God
+3 Wrath of God
+1 Abundant Harvest
+1 Relic of Progenitus
+1 Scattered Groves
+1 Irrigated Farmland
+2 Relic of Progenitus
 1 Rest in Peace
 14 Plains
 1 Cleric Class
@@ -120,25 +126,19 @@
 1 Basri Ket
 2 Basri Ket
 2 Baffling End
-3 Wrath of God
 3 Baffling End
-1 Abundant Harvest
 1 Day of Judgment
 1 Seal Away
 2 Seal Away
 3 Seal Away
 1 Arboreal Grazer
-1 Irrigated Farmland
-1 Relic of Progenitus
-1 Scattered Groves
 2 Arboreal Grazer
-2 Relic of Progenitus
 3 Arboreal Grazer
 3 Relic of Progenitus
 1 Vito, Thorn of the Dusk Rose
-1 Brightclimb Pathway
 1 Godless Shrine
 1 Isolated Chapel
+1 Brightclimb Pathway
 2 Vito, Thorn of the Dusk Rose
 2 Brightclimb Pathway
 2 Emeria's Call
@@ -146,6 +146,11 @@
 3 Brightclimb Pathway
 3 Vito, Thorn of the Dusk Rose
 4 Brightclimb Pathway
+1 Mystical Dispute
+1 Aether Gust
+2 Abundant Harvest
+3 Abundant Harvest
+4 Abundant Harvest
 1 Mana Tithe
 2 Mana Tithe
 2 Rest in Peace
@@ -158,8 +163,8 @@
 1 Labyrinth of Skophos
 1 Authority of the Consuls
 1 Aethersphere Harvester
-1 Deafening Silence
 1 Dawn of Hope
+1 Deafening Silence
 1 Ajani's Welcome
 1 Crawling Barrens
 3 Castle Ardenvale
@@ -179,10 +184,10 @@
 2 Llanowar Elves
 2 Vineglimmer Snarl
 2 Tamiyo, Collector of Tales
-3 Alrund's Epiphany
 3 Hydroid Krasis
 3 Tamiyo, Collector of Tales
 3 Vineglimmer Snarl
+3 Alrund's Epiphany
 3 Snow-Covered Island
 3 Llanowar Elves
 4 Narset, Parter of Veils
@@ -191,8 +196,8 @@
 4 Vineglimmer Snarl
 1 Hinterland Harbor
 1 Steam Vents
-1 Jwari Disruption
 1 Highland Forest
+1 Jwari Disruption
 1 Brazen Borrower
 1 Koma, Cosmos Serpent
 1 Torrential Gearhulk
@@ -210,9 +215,9 @@
 3 Koma, Cosmos Serpent
 3 Jwari Disruption
 3 Brazen Borrower
+3 Hinterland Harbor
 3 Cavalier of Thorns
 3 Magma Opus
-3 Hinterland Harbor
 4 Snow-Covered Forest
 4 Cavalier of Thorns
 1 Remorseful Cleric
@@ -225,9 +230,31 @@
 2 Swan Song
 4 Linvala, Shield of Sea Gate
 5 Forest
+1 Elspeth Conquers Death
+1 Angel of Destiny
+1 Light of Hope
+1 Legion's Landing
+1 Divine Gambit
+1 Secluded Steppe
+2 Elspeth Conquers Death
+2 Shalai, Voice of Plenty
+2 Divine Gambit
+2 Secluded Steppe
+2 Legion's Landing
+2 Lyra Dawnbringer
+3 Divine Gambit
+3 Secluded Steppe
+4 Divine Gambit
+15 Plains
+16 Plains
+17 Plains
+18 Plains
+19 Plains
+20 Plains
+21 Plains
 1 Adanto Vanguard
-2 Adanto Vanguard
 2 Cleric Class
+2 Adanto Vanguard
 3 Adanto Vanguard
 3 Faceless Haven
 3 Snow-Covered Plains
@@ -241,25 +268,3 @@
 10 Snow-Covered Plains
 11 Snow-Covered Plains
 12 Snow-Covered Plains
-1 Elspeth Conquers Death
-1 Secluded Steppe
-1 Angel of Destiny
-1 Light of Hope
-1 Legion's Landing
-1 Divine Gambit
-2 Elspeth Conquers Death
-2 Secluded Steppe
-2 Shalai, Voice of Plenty
-2 Divine Gambit
-2 Legion's Landing
-2 Lyra Dawnbringer
-3 Secluded Steppe
-3 Divine Gambit
-4 Divine Gambit
-15 Plains
-16 Plains
-17 Plains
-18 Plains
-19 Plains
-20 Plains
-21 Plains

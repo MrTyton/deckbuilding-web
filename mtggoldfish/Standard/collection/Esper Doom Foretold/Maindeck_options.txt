@@ -46,8 +46,8 @@
 1 Saw It Coming
 2 Professor of Symbology
 2 Saw It Coming
-3 Ashiok, Nightmare Muse
 3 Professor of Symbology
+3 Ashiok, Nightmare Muse
 3 Saw It Coming
 4 Saw It Coming
 4 Professor of Symbology
@@ -66,14 +66,14 @@
 2 Confounding Conundrum
 3 Confounding Conundrum
 4 Golden Egg
-1 Hive of the Eye Tyrant
 1 Midnight Clock
-1 Lolth, Spider Queen
 1 Duress
+1 Hive of the Eye Tyrant
+1 Lolth, Spider Queen
 2 Lolth, Spider Queen
 1 Solemn Simulacrum
-2 Solemn Simulacrum
 2 Field of Ruin
+2 Solemn Simulacrum
 4 Skyclave Apparition
 1 Cling to Dust
 3 Lithoform Blight
@@ -92,8 +92,8 @@
 1 Raugrin Triome
 1 Indatha Triome
 1 Inscription of Ruin
-1 Wizard Class
 1 The World Tree
+1 Wizard Class
 1 Zagoth Triome
 2 Raugrin Triome
 2 Inscription of Ruin
@@ -101,9 +101,6 @@
 2 Indatha Triome
 2 Zagoth Triome
 3 Mystical Dispute
-1 Cave of the Frost Dragon
-1 Gates of Istfell
-2 Gates of Istfell
 1 Shadrix Silverquill
 2 Shadrix Silverquill
 2 Hive of the Eye Tyrant
@@ -114,6 +111,9 @@
 2 Ugin, the Spirit Dragon
 2 Jwari Disruption
 2 Test of Talents
+1 Cave of the Frost Dragon
+1 Gates of Istfell
+2 Gates of Istfell
 1 Iymrith, Desert Doom
 2 Iymrith, Desert Doom
 2 Professor Onyx
@@ -121,11 +121,11 @@
 3 Negate
 3 Temple of Enlightenment
 4 Temple of Enlightenment
-1 Mordenkainen
 1 Rogue Class
+1 Mordenkainen
 1 Mind Flayer
-2 Rogue Class
 2 Mind Flayer
+2 Rogue Class
 3 Rogue Class
 4 Rogue Class
 1 Niko Aris
@@ -154,27 +154,27 @@
 1 Mire's Grasp
 1 Aphemia, the Cacophony
 2 Mire's Grasp
+2 Crawling Barrens
+3 Eliminate
+1 Heliod, Sun-Crowned
 1 Witching Well
-1 Lithoform Engine
-1 Alseid of Life's Bounty
 1 Felidar Retreat
 1 Banishing Light
-1 Cosmos Elixir
-1 Heliod, Sun-Crowned
 1 The Circle of Loyalty
 1 Skyclave Relic
 1 Shadowspear
+1 Cosmos Elixir
+1 Lithoform Engine
 1 Bloodline Pretender
+1 Alseid of Life's Bounty
 1 Biblioplex Assistant
-2 Alseid of Life's Bounty
 2 Banishing Light
+2 Alseid of Life's Bounty
 2 Felidar Retreat
 3 Alseid of Life's Bounty
-2 Crawling Barrens
-3 Eliminate
 1 Fracture
-2 Shatter the Sky
 2 Fracture
+2 Shatter the Sky
 5 Swamp
 2 Castle Vantress
 4 Yorion, Sky Nomad
