@@ -33,14 +33,14 @@
 3 Emeria's Call
 4 Emeria's Call
 1 Razorverge Thicket
+1 Noble Hierarch
 1 Branchloft Pathway
 1 Temple Garden
-1 Noble Hierarch
 1 Stirring Wildwood
 1 Forest
 2 Razorverge Thicket
-2 Branchloft Pathway
 2 Temple Garden
+2 Branchloft Pathway
 2 Stirring Wildwood
 2 Noble Hierarch
 3 Razorverge Thicket
@@ -67,8 +67,8 @@
 2 Charming Prince
 3 Charming Prince
 4 Esper Sentinel
-1 Inspiring Vantage
 1 Sanctifier en-Vec
+1 Inspiring Vantage
 2 Inspiring Vantage
 3 Inspiring Vantage
 4 Inspiring Vantage
@@ -81,13 +81,13 @@
 1 Ragavan, Nimble Pilferer
 2 Arid Mesa
 2 Ragavan, Nimble Pilferer
-3 Arid Mesa
 3 Ragavan, Nimble Pilferer
+3 Arid Mesa
 4 Ragavan, Nimble Pilferer
 4 Arid Mesa
 1 Urza's Saga
-2 Urza's Saga
 2 Cave of the Frost Dragon
+2 Urza's Saga
 3 Urza's Saga
 4 Urza's Saga
 1 Snow-Covered Plains
@@ -127,29 +127,22 @@
 1 Phyrexian Revoker
 2 Phyrexian Revoker
 2 Flagstones of Trokair
-1 Windswept Heath
+1 Kiki-Jiki, Mirror Breaker
+1 Lightning Bolt
 1 Prismatic Vista
+1 Windswept Heath
+1 Rugged Prairie
 1 Needleverge Pathway
 1 Felidar Guardian
-1 Lightning Bolt
-1 Kiki-Jiki, Mirror Breaker
-1 Rugged Prairie
 2 Windswept Heath
-2 Prismatic Vista
 2 Lightning Bolt
-2 Needleverge Pathway
+2 Prismatic Vista
 2 Mountain
-3 Sacred Foundry
+2 Needleverge Pathway
 3 Lightning Bolt
 3 Needleverge Pathway
+3 Sacred Foundry
 4 Lightning Bolt
-1 Sword of Feast and Famine
-1 Tithe Taker
-2 Tithe Taker
-3 Sanctum Prelate
-3 Tithe Taker
-4 Sanctum Prelate
-4 Tithe Taker
 1 On Thin Ice
 2 On Thin Ice
 3 On Thin Ice
@@ -158,3 +151,10 @@
 11 Snow-Covered Plains
 12 Snow-Covered Plains
 13 Snow-Covered Plains
+1 Sword of Feast and Famine
+1 Tithe Taker
+2 Tithe Taker
+3 Sanctum Prelate
+3 Tithe Taker
+4 Sanctum Prelate
+4 Tithe Taker

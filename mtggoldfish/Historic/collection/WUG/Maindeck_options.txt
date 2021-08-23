@@ -17,60 +17,58 @@
 2 Declaration in Stone
 1 Heliod, Sun-Crowned
 2 Ajani, Strength of the Pride
+3 Angel of Vitality
+4 Angel of Vitality
 1 Baffling End
 3 Glacial Fortress
 1 Fabled Passage
 2 Fabled Passage
-3 Fabled Passage
 1 Faceless Haven
 1 Snow-Covered Plains
-1 Memory Lapse
+2 Snow-Covered Plains
 1 Rimewood Falls
-1 Hydroid Krasis
+1 Nissa, Who Shakes the World
 1 Snow-Covered Forest
+1 Memory Lapse
+1 Hydroid Krasis
 1 Snow-Covered Island
 1 Into the North
+1 Narset, Parter of Veils
 1 Breeding Pool
 1 Commit/Memory
 2 Snow-Covered Forest
+2 Nissa, Who Shakes the World
 2 Memory Lapse
 2 Hydroid Krasis
 2 Snow-Covered Island
+2 Narset, Parter of Veils
 2 Into the North
+2 Breeding Pool
 3 Memory Lapse
+3 Nissa, Who Shakes the World
+3 Breeding Pool
 3 Into the North
 4 Memory Lapse
+4 Breeding Pool
 4 Into the North
-2 Snow-Covered Plains
+3 Fabled Passage
 1 Arctic Treeline
 1 Yasharn, Implacable Earth
-2 Yasharn, Implacable Earth
-1 Nissa, Who Shakes the World
-1 Narset, Parter of Veils
-2 Nissa, Who Shakes the World
-2 Narset, Parter of Veils
-2 Breeding Pool
-3 Breeding Pool
-3 Nissa, Who Shakes the World
-4 Breeding Pool
-3 Angel of Vitality
-4 Angel of Vitality
 1 Wrath of God
 1 Shark Typhoon
+2 Yasharn, Implacable Earth
 2 Shark Typhoon
 3 Shark Typhoon
-4 Nissa, Who Shakes the World
 4 Shark Typhoon
-4 Fabled Passage
-2 Commit/Memory
+4 Nissa, Who Shakes the World
 4 Glasspool Mimic
+2 Commit/Memory
 4 Hengegate Pathway
 1 Trelasarra, Moon Dancer
 2 Trelasarra, Moon Dancer
-2 Faceless Haven
-3 Snow-Covered Forest
 2 Forest
 1 Emeria's Call
+4 Fabled Passage
 2 Wrath of God
 1 Shalai, Voice of Plenty
 1 Lyra Dawnbringer
@@ -79,8 +77,10 @@
 13 Plains
 1 Settle the Wreckage
 2 Rimewood Falls
-3 Narset, Parter of Veils
 3 Rimewood Falls
+3 Narset, Parter of Veils
+2 Faceless Haven
+3 Snow-Covered Forest
 1 The Book of Exalted Deeds
 3 Declaration in Stone
 1 Reidane, God of the Worthy
@@ -96,19 +96,15 @@
 4 Glacial Fortress
 3 Wrath of God
 1 Abundant Harvest
-1 Relic of Progenitus
-1 Scattered Groves
 1 Irrigated Farmland
+1 Scattered Groves
+1 Relic of Progenitus
 2 Relic of Progenitus
 2 Settle the Wreckage
 14 Plains
 2 Baffling End
 3 Baffling End
 1 Tamiyo, Collector of Tales
-1 Growth Spiral
-2 Growth Spiral
-3 Growth Spiral
-4 Growth Spiral
 1 Ephemerate
 1 Adventurous Impulse
 2 Adventurous Impulse
@@ -118,24 +114,24 @@
 1 Elite Spellbinder
 1 Basri Ket
 2 Basri Ket
-1 Cave of the Frost Dragon
 1 Temple of Plenty
+1 Cave of the Frost Dragon
 2 Temple of Plenty
 2 Cave of the Frost Dragon
 1 Dromoka's Command
 2 Dromoka's Command
-1 Day of Judgment
-1 Seal Away
-2 Seal Away
-3 Seal Away
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
 3 Relic of Progenitus
+1 Day of Judgment
+1 Seal Away
+2 Seal Away
+3 Seal Away
 1 Vito, Thorn of the Dusk Rose
+1 Brightclimb Pathway
 1 Godless Shrine
 1 Isolated Chapel
-1 Brightclimb Pathway
 2 Vito, Thorn of the Dusk Rose
 2 Brightclimb Pathway
 2 Emeria's Call
@@ -158,55 +154,6 @@
 2 Selfless Savior
 3 Selfless Savior
 4 Selfless Savior
-1 Lair of the Hydra
-1 Hall of Storm Giants
-1 Vineglimmer Snarl
-1 Blast Zone
-1 Llanowar Elves
-1 Alrund's Epiphany
-2 Lair of the Hydra
-2 Hall of Storm Giants
-2 Alrund's Epiphany
-2 Vineglimmer Snarl
-2 Blast Zone
-2 Tamiyo, Collector of Tales
-2 Llanowar Elves
-3 Alrund's Epiphany
-3 Hydroid Krasis
-3 Tamiyo, Collector of Tales
-3 Vineglimmer Snarl
-3 Snow-Covered Island
-3 Llanowar Elves
-4 Narset, Parter of Veils
-4 Llanowar Elves
-4 Rimewood Falls
-4 Vineglimmer Snarl
-1 Hinterland Harbor
-1 Steam Vents
-1 Highland Forest
-1 Jwari Disruption
-1 Brazen Borrower
-1 Koma, Cosmos Serpent
-1 Torrential Gearhulk
-1 Glacial Floodplain
-1 Magma Opus
-1 Cavalier of Thorns
-2 Koma, Cosmos Serpent
-2 Hinterland Harbor
-2 Jwari Disruption
-2 Brazen Borrower
-2 Torrential Gearhulk
-2 Cavalier of Thorns
-2 Magma Opus
-3 Torrential Gearhulk
-3 Koma, Cosmos Serpent
-3 Jwari Disruption
-3 Brazen Borrower
-3 Hinterland Harbor
-3 Cavalier of Thorns
-3 Magma Opus
-4 Snow-Covered Forest
-4 Cavalier of Thorns
 1 Remorseful Cleric
 2 Remorseful Cleric
 3 Remorseful Cleric
@@ -216,18 +163,45 @@
 1 Swan Song
 2 Swan Song
 4 Linvala, Shield of Sea Gate
+1 Lair of the Hydra
+1 Llanowar Elves
+1 Hall of Storm Giants
+1 Vineglimmer Snarl
+1 Blast Zone
+1 Growth Spiral
+1 Alrund's Epiphany
+2 Lair of the Hydra
+2 Llanowar Elves
+2 Hall of Storm Giants
+2 Growth Spiral
+2 Alrund's Epiphany
+2 Vineglimmer Snarl
+2 Blast Zone
+2 Tamiyo, Collector of Tales
+3 Alrund's Epiphany
+3 Llanowar Elves
+3 Hydroid Krasis
+3 Tamiyo, Collector of Tales
+3 Vineglimmer Snarl
+3 Growth Spiral
+3 Snow-Covered Island
+4 Narset, Parter of Veils
+4 Llanowar Elves
+4 Rimewood Falls
+4 Vineglimmer Snarl
+4 Growth Spiral
 5 Forest
 1 Elspeth Conquers Death
+1 Secluded Steppe
 1 Angel of Destiny
 1 Light of Hope
 1 Legion's Landing
 1 Divine Gambit
-1 Secluded Steppe
 2 Elspeth Conquers Death
+2 Secluded Steppe
 2 Lyra Dawnbringer
 2 Shalai, Voice of Plenty
 2 Divine Gambit
-2 Secluded Steppe
 2 Legion's Landing
 3 Secluded Steppe
 3 Divine Gambit
