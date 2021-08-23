@@ -1,37 +1,37 @@
-2 Power Depot
-2 Welding Jar
-1 Branchloft Pathway
 1 Ingenious Smith
 2 Ingenious Smith
 3 Ingenious Smith
+2 Welding Jar
+2 Power Depot
+1 Branchloft Pathway
 4 Ingenious Smith
 1 Brushland
 2 Branchloft Pathway
 3 Branchloft Pathway
 4 Branchloft Pathway
-1 Razorverge Thicket
 1 Esper Sentinel
-2 Brushland
-2 Razorverge Thicket
 2 Esper Sentinel
 3 Esper Sentinel
+1 Razorverge Thicket
+2 Brushland
+2 Razorverge Thicket
 3 Brushland
 4 Brushland
-1 Goblin Bombardment
 1 Blinkmoth Nexus
-1 Spire of Industry
-1 Horizon Canopy
-1 Pithing Needle
-2 Throne of Geth
-3 Welding Jar
+1 Goblin Bombardment
 1 Sacred Foundry
 1 Plains
+1 Spire of Industry
+1 Horizon Canopy
+3 Welding Jar
+1 Stomping Ground
 1 Power Conduit
 4 Llanowar Reborn
 4 Forest
 1 Phyrexia's Core
-1 Stomping Ground
+1 Pithing Needle
 2 Plains
+2 Throne of Geth
 1 Portable Hole
 1 Relic of Progenitus
 1 Copperline Gorge
@@ -40,10 +40,19 @@
 2 Snow-Covered Forest
 3 Copperline Gorge
 5 Forest
+1 Ranger Class
+1 Temple Garden
+1 Windswept Heath
+2 Windswept Heath
+3 Windswept Heath
+4 Windswept Heath
 1 Expedition Map
+1 Wooded Foothills
+2 Wooded Foothills
+3 Wooded Foothills
 1 Fatal Push
-1 Swamp
 1 Overgrown Tomb
+1 Swamp
 1 Blood Crypt
 1 Thoughtseize
 1 Blooming Marsh
@@ -62,22 +71,14 @@
 4 Verdant Catacombs
 4 Overgrown Tomb
 4 Fatal Push
-1 Ranger Class
 2 Spire of Industry
 1 Urborg, Tomb of Yawgmoth
 4 Welding Jar
-1 Yavimaya, Cradle of Growth
-1 Temple Garden
-1 Windswept Heath
-2 Windswept Heath
-3 Windswept Heath
-4 Windswept Heath
 1 Vines of Vastwood
 2 Horizon Canopy
 2 Ranger Class
 1 Karplusan Forest
 2 Karplusan Forest
-3 Power Depot
 1 Arcbound Javelineer
 1 Witch's Oven
 1 Arid Mesa
@@ -90,11 +91,9 @@
 3 Arid Mesa
 3 Arcbound Javelineer
 3 Temple Garden
-1 Wooded Foothills
-2 Wooded Foothills
-3 Wooded Foothills
 6 Forest
 1 Spellskite
+1 Yavimaya, Cradle of Growth
 1 Darksteel Citadel
 2 Spellskite
 2 Darksteel Citadel

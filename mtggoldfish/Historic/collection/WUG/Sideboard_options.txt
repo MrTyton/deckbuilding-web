@@ -5,8 +5,8 @@
 1 Reidane, God of the Worthy
 2 Reidane, God of the Worthy
 1 Ajani, Strength of the Pride
-3 Baffling End
 1 Settle the Wreckage
+3 Baffling End
 1 Elite Spellbinder
 2 Elite Spellbinder
 3 Reidane, God of the Worthy
@@ -27,15 +27,15 @@
 1 Yasharn, Implacable Earth
 2 Settle the Wreckage
 1 Into the Roil
+1 Devout Decree
+2 Devout Decree
 1 Nezahal, Primal Tide
 1 Elder Gargaroth
 4 Baffling End
 1 Wrath of God
-1 Gideon Blackblade
 1 Lyra Dawnbringer
+1 Gideon Blackblade
 2 Gideon Blackblade
-1 Devout Decree
-2 Devout Decree
 1 Remorseful Cleric
 2 Remorseful Cleric
 3 Adanto Vanguard
@@ -48,21 +48,29 @@
 3 Skyclave Apparition
 3 Selfless Savior
 1 Dawn of Hope
-1 Mana Tithe
-2 Mana Tithe
+3 Devout Decree
+1 Unbreakable Formation
+2 Unbreakable Formation
+3 Unbreakable Formation
 1 Teferi's Protection
 2 Teferi's Protection
 1 Swan Song
 1 Day of Judgment
 2 Yasharn, Implacable Earth
 2 Elder Gargaroth
+1 Paladin Class
+1 Dromoka's Command
+2 Paladin Class
+2 Dromoka's Command
+1 Mana Tithe
+2 Mana Tithe
 1 Guardian of Faith
 2 Guardian of Faith
 1 Commence the Endgame
 1 Brazen Borrower
 2 Brazen Borrower
-1 Heliod, Sun-Crowned
 1 Doomskar
+1 Heliod, Sun-Crowned
 1 Angel of Destiny
 1 Ephemerate
 1 Planar Cleansing
@@ -79,11 +87,6 @@
 1 Tamiyo, Collector of Tales
 2 Disdainful Stroke
 3 Disdainful Stroke
-1 Paladin Class
-1 Dromoka's Command
-2 Paladin Class
-2 Dromoka's Command
-3 Devout Decree
 2 Wrath of God
 3 Thalia, Guardian of Thraben
 3 Knight of Autumn
@@ -91,11 +94,8 @@
 1 Miscast
 4 Declaration in Stone
 4 Dovin's Veto
-1 Unbreakable Formation
 1 Bronzehide Lion
-2 Unbreakable Formation
 2 Bronzehide Lion
-3 Unbreakable Formation
 3 Heroic Intervention
 4 Adanto Vanguard
 4 Heroic Intervention
@@ -117,15 +117,7 @@
 4 Shapers' Sanctuary
 4 Mystical Dispute
 4 Aether Gust
-1 Basri Ket
-1 Glass Casket
-1 Cloudshift
-1 Brought Back
-1 Ajani's Welcome
-2 Glass Casket
-2 Cloudshift
-3 Cloudshift
-4 Cloudshift
+3 Settle the Wreckage
 1 Gods Willing
 1 Light of Hope
 2 Gods Willing
