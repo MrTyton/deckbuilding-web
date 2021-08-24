@@ -27,8 +27,8 @@
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
 |                    1|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)     |                    1|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)|
 |                    2|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)     |                    2|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)|
-|                    4|[Sentinel's Eyes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476287)     |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)     |
-|                    4|[Karametra's Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476277)|                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)          |
+|                    4|[Sentinel's Eyes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476287)     |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)          |
+|                    4|[Karametra's Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476277)|                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)     |
 |                     |                                                                                               |                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)          |
 |                     |                                                                                               |                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)     |
 

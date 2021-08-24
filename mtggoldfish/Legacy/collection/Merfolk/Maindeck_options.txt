@@ -21,14 +21,14 @@
 3 Hullbreacher
 13 Island
 4 Daze
-1 Suspend
 1 Rishadan Dockhand
+1 Suspend
 2 Suspend
 2 Rishadan Dockhand
-3 Suspend
 3 Rishadan Dockhand
-4 Suspend
+3 Suspend
 4 Rishadan Dockhand
+4 Suspend
 1 Svyelun of Sea and Sky
 14 Island
 1 Oboro, Palace in the Clouds
@@ -60,6 +60,24 @@
 1 Maze of Ith
 2 Maze of Ith
 2 Svyelun of Sea and Sky
+1 Kumena's Speaker
+1 Merfolk Mistbinder
+1 Tropical Island
+1 Once Upon a Time
+1 Brazen Borrower
+2 Kumena's Speaker
+2 Merfolk Mistbinder
+2 Once Upon a Time
+2 Brazen Borrower
+2 Tropical Island
+3 Waterlogged Grove
+3 Kumena's Speaker
+3 Merfolk Mistbinder
+3 Once Upon a Time
+4 Kumena's Speaker
+4 Merfolk Mistbinder
+4 Once Upon a Time
+4 Waterlogged Grove
 1 Benthic Biomancer
 1 Cursecatcher
 2 Force of Negation
@@ -88,21 +106,3 @@
 4 Tundra
 11 Snow-Covered Island
 12 Snow-Covered Island
-1 Tropical Island
-1 Once Upon a Time
-1 Merfolk Mistbinder
-1 Brazen Borrower
-1 Kumena's Speaker
-2 Once Upon a Time
-2 Merfolk Mistbinder
-2 Brazen Borrower
-2 Tropical Island
-2 Kumena's Speaker
-3 Waterlogged Grove
-3 Merfolk Mistbinder
-3 Kumena's Speaker
-3 Once Upon a Time
-4 Once Upon a Time
-4 Waterlogged Grove
-4 Kumena's Speaker
-4 Merfolk Mistbinder

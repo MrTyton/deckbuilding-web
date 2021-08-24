@@ -1,21 +1,24 @@
-1 Remand
+3 Expressive Iteration
+4 Expressive Iteration
+3 Wooded Foothills
+1 Flooded Strand
+1 Hallowed Fountain
+1 Misty Rainforest
+1 Forest
+1 Omnath, Locus of Creation
+2 Omnath, Locus of Creation
+1 Breeding Pool
+1 Temple Garden
+3 Omnath, Locus of Creation
+2 Remand
+1 Jace, the Mind Sculptor
+1 Path to Exile
 1 Time Warp
 1 Velomachus Lorehold
 2 Time Warp
 3 Time Warp
 4 Time Warp
-4 Expressive Iteration
-1 Jace, the Mind Sculptor
-1 Flooded Strand
-1 Hallowed Fountain
-1 Misty Rainforest
-1 Omnath, Locus of Creation
-2 Omnath, Locus of Creation
-1 Breeding Pool
-1 Forest
-1 Temple Garden
-3 Wooded Foothills
-3 Omnath, Locus of Creation
+2 Misty Rainforest
 1 Khalni Garden
 1 Shardless Agent
 1 Tireless Provisioner
@@ -40,30 +43,27 @@
 4 Shardless Agent
 4 Khalni Garden
 4 Wavesifter
-2 Misty Rainforest
-2 Remand
-1 Path to Exile
 3 Misty Rainforest
 2 Flooded Strand
 4 Violent Outburst
+4 Wooded Foothills
 1 Chancellor of the Forge
 2 Chancellor of the Forge
 4 Goblin Dark-Dwellers
-4 Wooded Foothills
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 3 Chancellor of the Forge
 4 Tireless Provisioner
-1 Windswept Heath
 1 Lightning Helix
+1 Windswept Heath
 1 Supreme Verdict
 2 Supreme Verdict
 4 Misty Rainforest
 1 Glacial Fortress
 1 Teferi, Hero of Dominaria
 1 Fire/Ice
-3 Supreme Verdict
 1 Snapcaster Mage
+3 Supreme Verdict
 3 Seasoned Pyromancer
 4 Omnath, Locus of Creation
 1 Wall of Omens
@@ -82,20 +82,21 @@
 2 Fire/Ice
 3 Fury
 2 Delay
+3 Windswept Heath
+2 Lightning Helix
+3 Lightning Helix
+3 Bloodstained Mire
+1 Gemstone Mine
 1 Savor the Moment
 2 Savor the Moment
 2 Velomachus Lorehold
 3 Savor the Moment
 4 Savor the Moment
-3 Windswept Heath
-1 Gemstone Mine
-2 Lightning Helix
-3 Lightning Helix
 4 Windswept Heath
 2 Mountain
 2 Island
-3 Bloodstained Mire
 2 Emrakul, the Aeons Torn
+2 Sacred Foundry
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
@@ -103,42 +104,27 @@
 1 Scattered Groves
 1 Sunpetal Grove
 1 Transmogrify
-2 Sacred Foundry
 1 Fire-Lit Thicket
 1 Sulfur Falls
+2 Snapcaster Mage
 1 Snow-Covered Island
 1 Field of Ruin
 1 Castle Ardenvale
 3 Shark Typhoon
 1 Counterspell
 3 Remand
-2 Snapcaster Mage
+2 Path to Exile
 2 Transmogrify
 1 Force of Negation
 1 General Ferrous Rokiric
+4 Lightning Helix
 2 Plains
 2 Field of Ruin
 4 Shark Typhoon
-2 Path to Exile
 4 Flooded Strand
-3 Steam Vents
 4 Remand
-4 Lightning Helix
-1 Reflecting Pool
-1 Manamorphose
-2 General Ferrous Rokiric
-2 Manamorphose
-3 General Ferrous Rokiric
-3 Manamorphose
-4 Manamorphose
-4 General Ferrous Rokiric
-4 Fury
-2 Stomping Ground
-2 Ardent Plea
 3 Snapcaster Mage
 1 Territorial Kavu
-1 Zagoth Triome
-1 Indatha Triome
 1 Tribal Flames
 1 Scion of Draco
 2 Territorial Kavu
@@ -149,18 +135,35 @@
 3 Scion of Draco
 4 Territorial Kavu
 4 Tribal Flames
-4 Scion of Draco
-1 Savai Triome
+1 Reflecting Pool
+1 Manamorphose
+2 General Ferrous Rokiric
+2 Manamorphose
+3 General Ferrous Rokiric
+3 Manamorphose
+4 Manamorphose
+4 General Ferrous Rokiric
+4 Fury
+2 Ardent Plea
+1 Spell Pierce
+2 Spell Pierce
 2 Force of Negation
+1 Savai Triome
+1 Zagoth Triome
+1 Indatha Triome
+4 Scion of Draco
 2 Gemstone Mine
 3 Wall of Omens
 1 Endurance
+3 Steam Vents
 1 Snow-Covered Plains
 2 Forest
+1 Wild Nacatl
+2 Wild Nacatl
+3 Wild Nacatl
 3 Transmogrify
 4 Transmogrify
-1 Spell Pierce
-2 Spell Pierce
+2 Stomping Ground
 2 Jace, the Mind Sculptor
 1 Serra's Emissary
 1 Explore
@@ -168,30 +171,30 @@
 1 Rest in Peace
 1 Snow-Covered Mountain
 1 Tarmogoyf
-1 Wild Nacatl
 1 Stubborn Denial
 1 Polluted Delta
 2 Breeding Pool
-2 Wild Nacatl
 2 Stubborn Denial
 3 Fire/Ice
-3 Wild Nacatl
 3 Stubborn Denial
 4 Fire/Ice
 1 Snow-Covered Forest
 1 Cryptic Command
 2 Snow-Covered Island
+4 Wild Nacatl
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
 1 Verdant Catacombs
 1 Lonely Sandbar
 1 Valakut, the Molten Pinnacle
 1 Flusterstorm
-1 Hinterland Harbor
 1 Flooded Grove
+1 Hinterland Harbor
 1 Archmage's Charm
 3 Snow-Covered Island
 1 Relic of Progenitus
-4 Wall of Omens
 4 Supreme Verdict
+4 Wall of Omens
 1 Kozilek, Butcher of Truth
 1 Ulamog, the Infinite Gyre
 1 Omniscience
@@ -209,22 +212,31 @@
 1 Brazen Borrower
 2 Tarmogoyf
 2 Polluted Delta
-4 Wild Nacatl
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
 1 Rift Sower
+1 Iona, Shield of Emeria
+1 Blood Crypt
+3 Ragavan, Nimble Pilferer
 1 Growth Spiral
 2 Growth Spiral
 3 Growth Spiral
 4 Growth Spiral
+1 Might of Alara
+2 Might of Alara
+3 Might of Alara
+4 Might of Alara
+3 Path to Exile
+4 Path to Exile
 3 Island
-1 Showdown of the Skalds
 1 Terror of the Peaks
 1 Clifftop Retreat
+1 Negate
+1 Showdown of the Skalds
 1 Archon of Cruelty
 2 Mana Leak
 1 Geist of Saint Traft
 2 Geist of Saint Traft
+1 Ghor-Clan Rampager
+2 Ghor-Clan Rampager
 1 Irrigated Farmland
 2 Sulfur Falls
 2 Rest in Peace
@@ -241,28 +253,31 @@
 2 Valki, God of Lies
 2 Bring to Light
 2 Teferi, Hero of Dominaria
-3 Path to Exile
 3 Bring to Light
-4 Path to Exile
 1 Kolaghan's Command
-1 Blood Crypt
 2 Kolaghan's Command
-3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
 3 Academy Manufactor
 4 Academy Manufactor
 3 Explore
 4 Explore
-1 Imperial Recruiter
 1 Foundation Breaker
 1 Detention Sphere
+1 Imperial Recruiter
 2 Imperial Recruiter
 2 Rift Sower
 3 Rift Sower
 4 Rift Sower
+1 Brushfire Elemental
+1 Boros Charm
+2 Boros Charm
+2 Brushfire Elemental
+3 Brushfire Elemental
+3 Boros Charm
+4 Brushfire Elemental
+4 Boros Charm
 2 Snow-Covered Plains
 4 Counterspell
-1 Iona, Shield of Emeria
 1 Inkwell Leviathan
 1 Simic Sky Swallower
 2 Inkwell Leviathan
@@ -274,15 +289,3 @@
 1 Sheltered Thicket
 3 Delay
 4 Delay
-1 Brushfire Elemental
-1 Boros Charm
-1 Might of Alara
-2 Boros Charm
-2 Might of Alara
-2 Brushfire Elemental
-3 Might of Alara
-3 Brushfire Elemental
-3 Boros Charm
-4 Brushfire Elemental
-4 Boros Charm
-4 Might of Alara

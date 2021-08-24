@@ -1,6 +1,6 @@
 1 Magus of the Moon
-2 Magus of the Moon
 4 Trinisphere
+2 Magus of the Moon
 1 Pyroblast
 1 Karn, the Great Creator
 2 Karn, the Great Creator
@@ -64,8 +64,8 @@
 1 Bolas's Citadel
 1 Arid Mesa
 1 Soul-Guide Lantern
-1 Hagra Mauling
 1 Urborg, Tomb of Yawgmoth
+1 Hagra Mauling
 1 Leyline of the Void
 1 Curse of Misfortunes
 1 Dark Ritual
@@ -113,6 +113,13 @@
 1 Oswald Fiddlebender
 2 Oswald Fiddlebender
 4 Magus of the Moon
+1 Shinka, the Bloodsoaked Keep
+1 Den of the Bugbear
+1 Torbran, Thane of Red Fell
+2 Den of the Bugbear
+2 Torbran, Thane of Red Fell
+3 Den of the Bugbear
+4 Den of the Bugbear
 1 Curse of Fool's Wisdom
 2 Mox Opal
 3 Mox Opal
@@ -141,8 +148,6 @@
 1 Plains
 1 Seasoned Pyromancer
 1 Word of Seizing
-1 Blade Historian
-2 Blade Historian
 1 Dismember
 2 Dismember
 1 Abrade
@@ -171,16 +176,19 @@
 3 Portable Hole
 3 Brainstorm
 3 Pia and Kiran Nalaar
-1 Shinka, the Bloodsoaked Keep
-1 Torbran, Thane of Red Fell
-1 Den of the Bugbear
-2 Den of the Bugbear
-2 Torbran, Thane of Red Fell
-3 Den of the Bugbear
-4 Den of the Bugbear
+3 Torbran, Thane of Red Fell
+1 Inventors' Fair
+1 Buried Ruin
+1 Engineered Explosives
+1 Krark-Clan Ironworks
+1 Scrap Trawler
+1 Myr Retriever
+2 Ensnaring Bridge
+2 Scrap Trawler
+4 Wooded Foothills
 1 Crucible of Worlds
-1 Cavern of Souls
 1 Mishra's Bauble
+1 Cavern of Souls
 1 Coveted Jewel
 1 Tangle Wire
 2 Chromatic Star
@@ -194,15 +202,6 @@
 4 Chromatic Star
 4 Lion's Eye Diamond
 4 Mox Opal
-1 Inventors' Fair
-1 Buried Ruin
-1 Engineered Explosives
-1 Krark-Clan Ironworks
-1 Scrap Trawler
-1 Myr Retriever
-2 Ensnaring Bridge
-2 Scrap Trawler
-4 Wooded Foothills
 4 Lotus Petal
 1 Spine of Ish Sah
 1 Wurmcoil Engine
@@ -212,8 +211,8 @@
 1 Phyrexian Revoker
 1 Phyrexian Metamorph
 1 Daretti, Scrap Savant
-2 Daretti, Scrap Savant
 2 Rustvale Bridge
+2 Daretti, Scrap Savant
 4 Arid Mesa
 4 Oswald Fiddlebender
 5 Snow-Covered Mountain

@@ -1,6 +1,6 @@
+3 Baleful Strix
+4 Baleful Strix
 1 Ethereal Forager
-4 Daze
-4 Wasteland
 1 Thought Scour
 2 Thought Scour
 3 Thoughtseize
@@ -10,6 +10,10 @@
 2 Dauthi Voidwalker
 1 Sudden Edict
 4 Thoughtseize
+1 Flooded Strand
+2 Flooded Strand
+2 Force of Negation
+3 True-Name Nemesis
 1 Street Wraith
 1 Watery Grave
 1 Death's Shadow
@@ -19,13 +23,31 @@
 3 Street Wraith
 3 Death's Shadow
 4 Death's Shadow
+1 Volcanic Island
+1 Tundra
+1 Plains
+1 Council's Judgment
+1 Swords to Plowshares
+1 Prismatic Ending
+2 Tundra
+2 Swords to Plowshares
+2 Prismatic Ending
+3 Tundra
+3 Flooded Strand
+3 Prismatic Ending
+3 Swords to Plowshares
+3 Preordain
+4 Flooded Strand
+4 Swords to Plowshares
+4 Prismatic Ending
+4 Preordain
 1 Murderous Cut
 4 Underground Sea
+1 Verdant Catacombs
 1 Stifle
 2 Stifle
 3 Stifle
 4 Stifle
-1 Verdant Catacombs
 1 Reanimate
 3 Watery Grave
 1 Drown in the Loch
@@ -34,24 +56,20 @@
 1 Liliana, the Last Hope
 4 Street Wraith
 1 Ghastly Demise
-1 Flooded Strand
-2 Flooded Strand
 1 Hymn to Tourach
 2 Hymn to Tourach
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Bloodstained Mire
+2 Snow-Covered Island
+4 Misty Rainforest
 1 Stubborn Denial
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
 4 Watery Grave
-3 True-Name Nemesis
 3 Dauthi Voidwalker
 4 Dauthi Voidwalker
-1 Snow-Covered Island
-1 Snow-Covered Swamp
-1 Bloodstained Mire
-2 Snow-Covered Island
-2 Force of Negation
-4 Misty Rainforest
 1 Gurmag Angler
 1 Marsh Flats
 2 Verdant Catacombs
@@ -81,15 +99,14 @@
 4 Island
 4 Thought Scour
 4 Prismatic Vista
-1 Dragon's Rage Channeler
-1 Volcanic Island
 1 Lightning Bolt
 1 Steam Vents
+1 Dragon's Rage Channeler
 1 Expressive Iteration
 1 Ragavan, Nimble Pilferer
 2 Steam Vents
-2 Dragon's Rage Channeler
 2 Lightning Bolt
+2 Dragon's Rage Channeler
 2 Expressive Iteration
 2 Ragavan, Nimble Pilferer
 3 Dragon's Rage Channeler

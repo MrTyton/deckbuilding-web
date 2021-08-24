@@ -1,94 +1,70 @@
 2 Daze
 2 Misty Rainforest
-2 Flooded Strand
-2 Polluted Delta
-3 Daze
-1 Aether Spellbomb
 1 Island
 2 Island
+2 Flooded Strand
+1 Mountain
+2 Polluted Delta
+1 Aether Spellbomb
 3 Pyroblast
 3 Misty Rainforest
-4 Daze
-1 Dragon's Rage Channeler
-2 Dragon's Rage Channeler
-3 Dragon's Rage Channeler
-4 Dragon's Rage Channeler
-1 Mountain
+1 Snapcaster Mage
+2 Snapcaster Mage
+1 Preordain
+1 Jace, the Mind Sculptor
+3 Daze
 1 Wasteland
 2 Wasteland
-3 Wasteland
-4 Wasteland
 1 Murktide Regent
 2 Murktide Regent
+3 Murktide Regent
 1 Tropical Island
 2 Tropical Island
+1 Underground Sea
+2 Underground Sea
+3 Island
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 4 Misty Rainforest
-1 Predict
-1 Counterbalance
-1 Tundra
-2 Predict
-2 Counterbalance
-3 Predict
-1 Prismatic Vista
-2 Prismatic Vista
-1 Jace, the Mind Sculptor
-1 Snapcaster Mage
-2 Snapcaster Mage
-3 Island
-1 Underground Sea
-2 Underground Sea
-3 Murktide Regent
-3 Grindstone
-1 Taiga
 1 Baleful Strix
 2 Baleful Strix
 3 Polluted Delta
 3 Baleful Strix
 4 Polluted Delta
-1 Dress Down
-2 Dress Down
-1 Snow-Covered Forest
-1 Spell Pierce
-1 Teferi, Time Raveler
-1 Prismatic Ending
-1 Mishra's Bauble
-2 Mishra's Bauble
-2 Prismatic Ending
-2 Tundra
-4 Predict
-1 Ice-Fang Coatl
-1 Narset, Parter of Veils
-1 Engineered Explosives
-2 Snow-Covered Forest
-2 Ice-Fang Coatl
-2 Narset, Parter of Veils
-2 Engineered Explosives
-3 Snow-Covered Island
-3 Ice-Fang Coatl
-3 Narset, Parter of Veils
-4 Narset, Parter of Veils
-3 Uro, Titan of Nature's Wrath
+1 Counterbalance
+1 Chain Lightning
+2 Chain Lightning
+2 Counterbalance
 1 Drown in the Loch
 1 Assassin's Trophy
 1 Sylvan Library
 1 Bayou
 1 Leovold, Emissary of Trest
 2 Sylvan Library
-2 Drown in the Loch
 2 Leovold, Emissary of Trest
+2 Drown in the Loch
 2 Assassin's Trophy
 4 Baleful Strix
-1 Unholy Heat
-2 Unholy Heat
+1 Prismatic Vista
+2 Prismatic Vista
+1 Spell Pierce
+1 Taiga
+3 Grindstone
+4 Daze
 1 Ethereal Forager
 1 Hullbreacher
 2 Ethereal Forager
 4 Island
 5 Island
+1 Dress Down
+1 Dragon's Rage Channeler
+2 Dress Down
+2 Dragon's Rage Channeler
+3 Dragon's Rage Channeler
+4 Dragon's Rage Channeler
 1 Ancient Tomb
 2 Ancient Tomb
+1 Snow-Covered Forest
 2 Spell Pierce
 1 Swamp
 1 Liliana, the Last Hope
@@ -97,7 +73,6 @@
 1 Great Furnace
 1 Mox Opal
 1 Seat of the Synod
-1 Preordain
 2 Goblin Welder
 2 Mox Opal
 3 Goblin Welder
@@ -115,28 +90,26 @@
 1 Badlands
 1 Kolaghan's Command
 1 Bloodstained Mire
+1 Unholy Heat
 1 Hymn to Tourach
-2 Kolaghan's Command
 2 Bloodstained Mire
 2 Badlands
 2 Jace, the Mind Sculptor
+2 Unholy Heat
 2 Hymn to Tourach
 2 Swamp
+2 Kolaghan's Command
+3 Jace, the Mind Sculptor
 3 Kolaghan's Command
 3 Underground Sea
-3 Jace, the Mind Sculptor
 3 Snapcaster Mage
 3 Bloodstained Mire
 3 Hymn to Tourach
-4 Ice-Fang Coatl
-1 Delver of Secrets
-2 Delver of Secrets
-3 Delver of Secrets
-4 Delver of Secrets
 1 Steam Vents
 2 Hydroblast
 3 Hydroblast
 4 Hydroblast
+3 Uro, Titan of Nature's Wrath
 3 Assassin's Trophy
 4 Assassin's Trophy
 1 Soul-Guide Lantern
@@ -150,22 +123,10 @@
 3 Sprite Dragon
 3 Dress Down
 3 Phyrexian Dreadnought
+3 Wasteland
 4 Dress Down
 4 Phyrexian Dreadnought
-1 Dack Fayden
-1 Dead/Gone
-1 Brazen Borrower
-1 Counterspell
-1 Blood Moon
-2 Dack Fayden
-2 Dead/Gone
-2 Counterspell
-2 Brazen Borrower
-2 Blood Moon
-3 Flooded Strand
-3 Dack Fayden
-6 Island
-7 Island
+4 Wasteland
 1 Waterlogged Grove
 1 Jace, Wielder of Mysteries
 1 Veil of Summer
@@ -193,3 +154,29 @@
 4 Thought Lash
 4 Paradigm Shift
 4 Thassa's Oracle
+1 Dack Fayden
+1 Dead/Gone
+1 Brazen Borrower
+1 Counterspell
+1 Blood Moon
+2 Dack Fayden
+2 Counterspell
+2 Dead/Gone
+2 Brazen Borrower
+2 Blood Moon
+3 Flooded Strand
+3 Dack Fayden
+6 Island
+7 Island
+1 Ice-Fang Coatl
+1 Narset, Parter of Veils
+1 Engineered Explosives
+2 Snow-Covered Forest
+2 Ice-Fang Coatl
+2 Narset, Parter of Veils
+2 Engineered Explosives
+3 Snow-Covered Island
+3 Ice-Fang Coatl
+3 Narset, Parter of Veils
+4 Ice-Fang Coatl
+4 Narset, Parter of Veils

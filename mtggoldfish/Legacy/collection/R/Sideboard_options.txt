@@ -1,18 +1,18 @@
 1 Sorcerous Spyglass
 1 Pyroblast
 2 Pyroblast
-1 Abrade
-1 Red Elemental Blast
 1 Sulfur Elemental
 2 Sulfur Elemental
+1 Abrade
 4 Dead/Gone
-1 Torpor Orb
+1 Red Elemental Blast
 1 Ensnaring Bridge
 1 Tormod's Crypt
-1 Pithing Needle
 1 Grindstone
+1 Pithing Needle
 1 Blood Moon
 2 Abrade
+1 Torpor Orb
 2 Red Elemental Blast
 2 Torpor Orb
 1 Shatterstorm
@@ -20,12 +20,11 @@
 1 Thorn of Amethyst
 2 Thorn of Amethyst
 3 Sulfur Elemental
+3 Thorn of Amethyst
 1 Mycosynth Lattice
 1 Liquimetal Coating
 1 Surgical Extraction
 2 Surgical Extraction
-3 Thorn of Amethyst
-2 Sorcerous Spyglass
 1 Ethersworn Canonist
 1 Plague Engineer
 1 Opposition Agent
@@ -33,6 +32,9 @@
 2 Opposition Agent
 2 Plague Engineer
 3 Plague Engineer
+2 Chandra, Awakened Inferno
+4 Thorn of Amethyst
+4 Sulfur Elemental
 3 Shatterstorm
 1 Vault of Whispers
 4 Plague Engineer
@@ -40,13 +42,11 @@
 1 Portable Hole
 1 Karakas
 1 Phyrexian Revoker
-2 Chandra, Awakened Inferno
+2 Sorcerous Spyglass
 1 Captivating Crew
 2 Captivating Crew
-4 Shatterstorm
-4 Thorn of Amethyst
 4 Magus of the Moon
-4 Sulfur Elemental
+4 Shatterstorm
 1 Faerie Macabre
 2 Faerie Macabre
 3 Faerie Macabre
@@ -77,10 +77,10 @@
 2 Rip Apart
 1 Soul-Guide Lantern
 2 Lightning Bolt
-1 Meltdown
-2 Meltdown
 1 Roiling Vortex
 2 Roiling Vortex
+1 Meltdown
+2 Meltdown
 1 Engineered Explosives
 2 Trinisphere
 2 Ensnaring Bridge
@@ -104,6 +104,7 @@
 2 Unholy Heat
 2 Hydroblast
 3 Hydroblast
+3 Chandra, Awakened Inferno
 1 Witchbane Orb
 1 Glass Casket
 1 Swords to Plowshares

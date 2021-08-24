@@ -1,20 +1,15 @@
-2 Prismatic Vista
-2 Temple Garden
+2 Force of Negation
 1 Skyclave Apparition
 1 Horizon Canopy
-1 Jace, the Mind Sculptor
+1 Waterlogged Grove
+1 Sword of Feast and Famine
 1 Eternal Witness
 2 Eternal Witness
 1 Knight of Autumn
-1 Waterlogged Grove
-1 Counterspell
-2 Counterspell
+1 Jace, the Mind Sculptor
 1 Soulherder
 4 Solitude
-1 Endurance
 3 Snow-Covered Forest
-1 Path to Exile
-2 Path to Exile
 1 Eladamri's Call
 2 Skyclave Apparition
 3 Skyclave Apparition
@@ -22,41 +17,45 @@
 3 Eternal Witness
 2 Eladamri's Call
 3 Eladamri's Call
-2 Breeding Pool
-3 Force of Negation
-1 Geist of Saint Traft
-1 Wall of Omens
-2 Endurance
-4 Spell Queller
-3 Counterspell
 1 Sanctum Prelate
-1 Toski, Bearer of Secrets
+2 Soulherder
+1 Endurance
+1 Counterspell
+2 Counterspell
+1 Wall of Omens
+2 Wall of Omens
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
 4 Aether Vial
-2 Wall of Omens
-2 Soulherder
+2 Breeding Pool
+1 Path to Exile
+2 Path to Exile
 4 Eladamri's Call
-2 Hallowed Fountain
-3 Path to Exile
-2 Jace, the Mind Sculptor
+1 Geist of Saint Traft
 1 Glasspool Mimic
 3 Wall of Omens
 4 Wall of Omens
 1 Sanctifier en-Vec
-3 Prismatic Vista
-4 Prismatic Vista
+1 Toski, Bearer of Secrets
+2 Endurance
+3 Counterspell
+3 Soulherder
+3 Force of Negation
+2 Hallowed Fountain
+3 Path to Exile
+1 Restoration Angel
+4 Spell Queller
 2 Geist of Saint Traft
 1 Maul of the Skyclaves
 1 Cephalid Constable
+1 Rimewood Falls
 1 Coiling Oracle
 2 Coiling Oracle
-3 Soulherder
 3 Coiling Oracle
 4 Coiling Oracle
-1 Rimewood Falls
-1 Charming Prince
+2 Horizon Canopy
+2 Jace, the Mind Sculptor
 1 Castle Ardenvale
 2 Sanctum Prelate
 3 Sanctum Prelate
@@ -66,11 +65,12 @@
 3 Geist of Saint Traft
 4 Teferi, Time Raveler
 4 Counterspell
-1 Thassa, Deep-Dwelling
+3 Prismatic Vista
+4 Prismatic Vista
 4 Snow-Covered Forest
 4 Eternal Witness
 1 Plains
-1 Venser, Shaper Savant
+1 Charming Prince
 1 Dromoka's Command
 2 Dromoka's Command
 2 Cephalid Constable
@@ -84,25 +84,24 @@
 2 Utopia Sprawl
 3 Utopia Sprawl
 4 Utopia Sprawl
-1 Renegade Rallier
 1 Island
 1 Forest
-1 Restoration Angel
 1 Emeria's Call
 2 Emeria's Call
+4 Soulherder
+1 Thassa, Deep-Dwelling
 1 Meddling Mage
 2 Meddling Mage
-4 Soulherder
 1 Cryptic Command
-1 Questing Beast
 1 Scavenging Ooze
+1 Questing Beast
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
-1 Reflecting Pool
 1 Archon of Emeria
 2 Archon of Emeria
 3 Archon of Emeria
 4 Endurance
+1 Venser, Shaper Savant
 3 Snow-Covered Island
 4 Path to Exile
 1 Glacial Fortress
@@ -120,14 +119,13 @@
 5 Island
 1 Snapcaster Mage
 2 Snapcaster Mage
+1 Renegade Rallier
 1 Titania, Protector of Argoth
-1 Sword of Hearth and Home
 1 Gavony Township
 1 Yavimaya, Cradle of Growth
-2 Horizon Canopy
+1 Time Warp
 1 Abundant Growth
 1 Oath of Nissa
-1 Time Warp
 2 Abundant Growth
 2 Oath of Nissa
 3 Breeding Pool
@@ -136,8 +134,8 @@
 4 Abundant Growth
 1 Brushland
 1 Eldrazi Temple
-1 Thought-Knot Seer
 1 Karmic Guide
+1 Thought-Knot Seer
 1 Drowner of Hope
 1 Wastes
 1 Eldrazi Displacer
@@ -156,16 +154,17 @@
 4 Thought-Knot Seer
 4 Plains
 1 Brazen Borrower
+1 Reflecting Pool
 1 Raugrin Triome
 1 Remand
 1 Mystic Snake
 2 Charming Prince
 2 Glacial Fortress
 2 Waterlogged Grove
-1 Vendilion Clique
-1 Celestial Colonnade
 1 Teferi, Hero of Dominaria
 1 Subtlety
+1 Celestial Colonnade
+1 Vendilion Clique
 1 Archmage's Charm
 2 Celestial Colonnade
 2 Archmage's Charm
@@ -203,9 +202,9 @@
 3 Opt
 4 Urza's Saga
 4 Opt
+1 Watcher for Tomorrow
 1 Prairie Stream
 1 Deputy of Detention
-1 Watcher for Tomorrow
 1 Canopy Vista
 2 Watcher for Tomorrow
 2 Knight of Autumn
@@ -216,8 +215,8 @@
 1 Hinterland Harbor
 1 Barkchannel Pathway
 1 The World Tree
-1 Koma, Cosmos Serpent
 1 Kozilek, Butcher of Truth
+1 Koma, Cosmos Serpent
 1 Ulamog, the Infinite Gyre
 1 Emrakul, the Aeons Torn
 1 Kinnan, Bonder Prodigy
@@ -225,12 +224,12 @@
 1 Wooded Foothills
 2 Botanical Sanctum
 2 Forest
-2 Tangled Florahedron
 2 Golos, Tireless Pilgrim
+2 Tangled Florahedron
 2 Kinnan, Bonder Prodigy
-3 Birds of Paradise
 3 Tangled Florahedron
+3 Birds of Paradise
 3 Kinnan, Bonder Prodigy
-4 Birds of Paradise
 4 Tangled Florahedron
+4 Birds of Paradise
 4 Kinnan, Bonder Prodigy

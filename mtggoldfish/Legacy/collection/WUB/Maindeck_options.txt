@@ -10,8 +10,8 @@
 2 Snow-Covered Island
 2 Force of Negation
 1 Bloodstained Mire
-1 Plains
 1 Drown in the Loch
+1 Plains
 1 Sudden Edict
 2 Prismatic Vista
 2 Swamp
@@ -62,6 +62,32 @@
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 2 Unearth
+1 Noble Hierarch
+1 Endurance
+1 Tropical Island
+1 Uro, Titan of Nature's Wrath
+1 Sylvan Library
+1 Savannah
+1 Hullbreacher
+1 Snow-Covered Forest
+1 Day's Undoing
+1 Daze
+1 Windswept Heath
+2 Noble Hierarch
+2 Daze
+2 Misty Rainforest
+2 Endurance
+2 Tropical Island
+2 Uro, Titan of Nature's Wrath
+2 Hullbreacher
+2 Snow-Covered Forest
+2 Day's Undoing
+3 Noble Hierarch
+3 Misty Rainforest
+3 Snow-Covered Island
+3 Day's Undoing
+4 Noble Hierarch
+4 Misty Rainforest
 1 Tourach, Dread Cantor
 1 Urborg, Tomb of Yawgmoth
 1 Kaya, Ghost Assassin
@@ -77,32 +103,6 @@
 3 Prismatic Ending
 3 Tourach, Dread Cantor
 4 Prismatic Ending
-1 Endurance
-1 Tropical Island
-1 Uro, Titan of Nature's Wrath
-1 Savannah
-1 Snow-Covered Forest
-1 Sylvan Library
-1 Hullbreacher
-1 Day's Undoing
-1 Daze
-1 Noble Hierarch
-1 Windswept Heath
-2 Daze
-2 Misty Rainforest
-2 Endurance
-2 Tropical Island
-2 Uro, Titan of Nature's Wrath
-2 Snow-Covered Forest
-2 Hullbreacher
-2 Day's Undoing
-2 Noble Hierarch
-3 Noble Hierarch
-3 Misty Rainforest
-3 Snow-Covered Island
-3 Day's Undoing
-4 Noble Hierarch
-4 Misty Rainforest
 1 Wasteland
 1 Council's Judgment
 1 Sword of Fire and Ice
@@ -124,36 +124,36 @@
 3 Swamp
 4 Island
 5 Island
+1 Mishra's Bauble
 1 Sai, Master Thopterist
 1 Shadowspear
-1 Mishra's Bauble
 1 Thought Monitor
 1 Seat of the Synod
 1 Mox Opal
 1 Tormod's Crypt
-1 Portable Hole
 1 Pithing Needle
+1 Portable Hole
 1 Urza's Saga
 1 Emry, Lurker of the Loch
-2 Seat of the Synod
 2 Sai, Master Thopterist
-2 Mishra's Bauble
 2 Thought Monitor
+2 Mishra's Bauble
 2 Mox Opal
 2 Portable Hole
 2 Emry, Lurker of the Loch
+2 Seat of the Synod
 2 Urza's Saga
-3 Seat of the Synod
 3 Emry, Lurker of the Loch
 3 Mishra's Bauble
 3 Portable Hole
 3 Mox Opal
 3 Thought Monitor
+3 Seat of the Synod
 3 Urza's Saga
-4 Seat of the Synod
 4 Emry, Lurker of the Loch
 4 Mishra's Bauble
-4 Portable Hole
 4 Mox Opal
+4 Portable Hole
 4 Thought Monitor
 4 Urza's Saga
+4 Seat of the Synod
