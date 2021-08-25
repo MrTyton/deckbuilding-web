@@ -12,13 +12,13 @@
 4 Skyclave Shade
 4 Leyline of the Void
 3 Shapers' Sanctuary
-1 Swan Song
 1 Aether Gust
+1 Swan Song
 2 Aether Gust
 1 Rest in Peace
 2 Rest in Peace
-1 Declaration in Stone
 1 Negate
+1 Declaration in Stone
 2 Declaration in Stone
 2 Negate
 3 Declaration in Stone
@@ -39,20 +39,20 @@
 1 The Great Henge
 1 Meteor Golem
 1 End-Raze Forerunners
-1 Shadowspear
 1 Weathered Runestone
+1 Shadowspear
 1 Gemrazer
 1 Rampage of the Clans
 1 Sentinel Totem
 1 God-Eternal Rhonas
+1 Gigantosaurus
+2 Gigantosaurus
 1 Kraul Harpooner
 1 Garruk's Harbinger
 1 Chainweb Aracnir
 2 Kraul Harpooner
-2 Chainweb Aracnir
 2 Garruk's Harbinger
-1 Gigantosaurus
-2 Gigantosaurus
+2 Chainweb Aracnir
 1 Llanowar Visionary
 1 Beast Whisperer
 2 Craterhoof Behemoth
@@ -73,19 +73,12 @@
 3 Scavenging Ooze
 3 Toski, Bearer of Secrets
 4 Scavenging Ooze
-1 Thoughtseize
-1 Icon of Ancestry
-1 Bloodchief's Thirst
-2 Thoughtseize
-2 Crippling Fear
-3 Thoughtseize
-4 Thoughtseize
-1 Baffling End
 1 Reidane, God of the Worthy
-2 Baffling End
+1 Baffling End
 2 Reidane, God of the Worthy
-3 Reidane, God of the Worthy
+2 Baffling End
 3 Rest in Peace
+3 Reidane, God of the Worthy
 3 Baffling End
 4 Reidane, God of the Worthy
 1 Sleep
@@ -94,6 +87,13 @@
 3 Swan Song
 3 Aether Gust
 4 Swan Song
+1 Thoughtseize
+1 Icon of Ancestry
+1 Bloodchief's Thirst
+2 Crippling Fear
+2 Thoughtseize
+3 Thoughtseize
+4 Thoughtseize
 1 Questing Beast
 1 Wildborn Preserver
 1 Run Afoul

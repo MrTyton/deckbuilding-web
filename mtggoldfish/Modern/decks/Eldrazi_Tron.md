@@ -69,6 +69,6 @@
 |                    2|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)               |                     |                                                                                                       |
 |                    2|[Karn Liberated](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397828)              |                     |                                                                                                       |
 |                    3|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)                  |                     |                                                                                                       |
-|                    3|[All Is Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397750)                 |                     |                                                                                                       |
 |                    4|[Urza's Saga](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522335)                 |                     |                                                                                                       |
+|                    3|[All Is Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397750)                 |                     |                                                                                                       |
 

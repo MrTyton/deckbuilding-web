@@ -63,9 +63,9 @@
 1 Eyetwitch
 2 Eyetwitch
 3 Eyetwitch
+1 Snow-Covered Swamp
 1 Blood on the Snow
 1 Faceless Haven
-1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 2 Blood on the Snow
 3 Snow-Covered Swamp
@@ -126,20 +126,20 @@
 16 Snow-Covered Swamp
 1 Extinction Event
 1 Temple of Malice
-1 Inferno of the Star Mounts
-1 Alrund's Epiphany
-1 Riverglide Pathway
-1 Galazeth Prismari
 1 Clearwater Pathway
+1 Riverglide Pathway
+1 Inferno of the Star Mounts
 1 Island
+1 Alrund's Epiphany
+1 Galazeth Prismari
 1 Prismari Command
+2 Clearwater Pathway
+2 Riverglide Pathway
 2 Alrund's Epiphany
 2 Galazeth Prismari
-2 Riverglide Pathway
-2 Clearwater Pathway
-3 Galazeth Prismari
-3 Clearwater Pathway
 3 Riverglide Pathway
+3 Clearwater Pathway
+3 Galazeth Prismari
 4 Riverglide Pathway
 2 Extus, Oriq Overlord
 1 Kaya the Inexorable
@@ -207,10 +207,10 @@
 1 Spikefield Hazard
 1 Needleverge Pathway
 1 Showdown of the Skalds
+2 Shatterskull Smashing
 2 Needleverge Pathway
 2 Showdown of the Skalds
 2 Brightclimb Pathway
-2 Shatterskull Smashing
 3 Needleverge Pathway
 3 Brightclimb Pathway
 3 Showdown of the Skalds
@@ -252,14 +252,14 @@
 4 Snow-Covered Forest
 5 Snow-Covered Forest
 6 Snow-Covered Forest
-1 Mazemind Tome
 1 Rankle, Master of Pranks
+1 Mazemind Tome
 1 Cinderclasm
 1 Hall of Storm Giants
+2 Rankle, Master of Pranks
 2 Magma Opus
 2 Cinderclasm
 2 Mazemind Tome
-2 Rankle, Master of Pranks
 1 Ranger Class
 1 Scavenging Ooze
 2 Scavenging Ooze
@@ -270,28 +270,33 @@
 2 Kroxa, Titan of Death's Hunger
 2 Forsworn Paladin
 2 Doomskar
-1 Sedgemoor Witch
+2 Savai Triome
+3 Shatterskull Smashing
 1 Bastion of Remembrance
+1 Sedgemoor Witch
 2 Bastion of Remembrance
 2 Sedgemoor Witch
 3 Bastion of Remembrance
-1 Ox of Agonas
-2 Kazuul's Fury
-3 Kazuul's Fury
-2 Savai Triome
-3 Shatterskull Smashing
 1 Ugin, the Spirit Dragon
 1 Unexpected Windfall
 1 Crawling Barrens
 2 Spikefield Hazard
 2 Field of Ruin
 2 Ugin, the Spirit Dragon
-3 Ugin, the Spirit Dragon
 3 Spikefield Hazard
+3 Ugin, the Spirit Dragon
+1 Ox of Agonas
+2 Kazuul's Fury
+3 Kazuul's Fury
+1 Varragoth, Bloodsky Sire
+1 Bala Ged Recovery
+2 Varragoth, Bloodsky Sire
+3 Varragoth, Bloodsky Sire
+4 Esika's Chariot
 1 Expressive Iteration
 1 Iymrith, Desert Doom
-2 Temple of the Dragon Queen
 2 Disdainful Stroke
+2 Temple of the Dragon Queen
 3 Temple of the Dragon Queen
 4 Temple of the Dragon Queen
 1 Plumb the Forbidden
@@ -311,15 +316,10 @@
 2 Foulmire Knight
 3 Foulmire Knight
 4 Foulmire Knight
-1 Varragoth, Bloodsky Sire
-1 Bala Ged Recovery
-2 Varragoth, Bloodsky Sire
-3 Varragoth, Bloodsky Sire
-4 Esika's Chariot
 1 Malakir Rebirth
 2 Malakir Rebirth
-4 Extus, Oriq Overlord
 4 Showdown of the Skalds
+4 Extus, Oriq Overlord
 4 Fireblade Charger
 1 Negate
 1 Eliminate
@@ -347,15 +347,15 @@
 7 Snow-Covered Forest
 1 Emeria's Call
 7 Snow-Covered Plains
-1 Elspeth's Nightmare
 1 Inscription of Ruin
+1 Elspeth's Nightmare
 1 Acquisitions Expert
 1 Fracture
+2 Inscription of Ruin
 2 Elspeth's Nightmare
 2 Acquisitions Expert
 2 Fracture
 2 Valki, God of Lies
-2 Inscription of Ruin
 3 Acquisitions Expert
 4 Acquisitions Expert
 5 Mountain

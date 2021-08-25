@@ -1,5 +1,10 @@
+1 Silver Raven
+2 Silver Raven
+3 Silver Raven
+4 Mutavault
+1 Riverglide Pathway
 2 Riverglide Pathway
-2 Island
+3 Island
 1 Sulfur Falls
 1 Goldspan Dragon
 1 Silumgar's Scorn
@@ -21,8 +26,8 @@
 4 Silumgar's Scorn
 4 Expressive Iteration
 1 Hall of Storm Giants
-1 Brazen Borrower
 1 Anger of the Gods
+1 Brazen Borrower
 1 Fabled Passage
 1 Glorybringer
 1 Mystical Dispute
@@ -33,20 +38,16 @@
 2 Fabled Passage
 2 Opt
 3 Riverglide Pathway
-3 Island
 3 Opt
 3 Mountain
 4 Riverglide Pathway
 4 Opt
+4 Island
 1 Dig Through Time
 4 Draconic Roar
 1 The Royal Scions
 2 The Royal Scions
 3 Stubborn Denial
-1 Silver Raven
-2 Silver Raven
-3 Silver Raven
-4 Mutavault
 1 Inferno of the Star Mounts
 1 Bonecrusher Giant
 2 Bonecrusher Giant
@@ -54,12 +55,11 @@
 2 Mystical Dispute
 3 Hall of Storm Giants
 2 Glorybringer
-4 Island
 4 Mountain
+4 Silver Raven
 1 Niv-Mizzet, Parun
 1 Den of the Bugbear
 2 Spire of Industry
-4 Silver Raven
 1 Shark Typhoon
 2 Shark Typhoon
 4 Hall of Storm Giants
@@ -69,9 +69,9 @@
 2 Behold the Multiverse
 3 Fabled Passage
 4 Fabled Passage
+1 Volatile Fjord
 1 Dragon's Fire
 1 Treasure Cruise
-1 Volatile Fjord
 1 Abrade
 2 Niv-Mizzet, Parun
 2 Treasure Cruise
@@ -79,6 +79,27 @@
 3 Treasure Cruise
 4 Anger of the Gods
 4 Treasure Cruise
+1 Steel Overseer
+1 Metallic Rebuke
+1 Skilled Animator
+2 Steel Overseer
+2 Metallic Rebuke
+2 Skilled Animator
+3 Metallic Rebuke
+3 Steel Overseer
+3 Skilled Animator
+4 Metallic Rebuke
+4 Skilled Animator
+4 Steel Overseer
+5 Island
+6 Island
+7 Island
+8 Island
+9 Island
+10 Island
+11 Island
+12 Island
+13 Island
 1 Glacial Fortress
 1 Prismari Command
 1 Magma Opus
@@ -93,21 +114,21 @@
 1 Raugrin Triome
 2 Glacial Fortress
 2 Magma Opus
+2 Galazeth Prismari
 2 Prismari Command
 2 Dovin's Veto
 2 Deafening Clarion
 2 Mana Confluence
 2 Hallowed Fountain
-2 Raugrin Triome
 2 Chained to the Rocks
-2 Galazeth Prismari
+2 Raugrin Triome
 3 Glacial Fortress
 3 Magma Opus
 3 Hallowed Fountain
 3 Prismari Command
 3 Raugrin Triome
 3 Chained to the Rocks
-4 Raugrin Triome
 4 Glacial Fortress
+4 Raugrin Triome
 4 Magma Opus
 4 Chained to the Rocks

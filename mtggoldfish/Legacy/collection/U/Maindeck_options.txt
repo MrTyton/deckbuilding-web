@@ -1,39 +1,41 @@
+4 Cavern of Souls
 1 Thoughtcast
 2 Thoughtcast
-4 Mox Opal
+1 Shadowspear
 3 Ancient Den
 4 Ancient Den
 4 Ethersworn Canonist
 3 Walking Ballista
-1 Shadowspear
 1 Crucible of Worlds
 3 Thoughtcast
 3 Nettlecyst
 4 Nettlecyst
 1 Tundra
-1 Stonecoil Serpent
+1 Karn, the Great Creator
+2 Karn, the Great Creator
+3 Karn, the Great Creator
 1 Pithing Needle
+1 Stonecoil Serpent
+2 Tundra
+4 Emry, Lurker of the Loch
+4 Karn, the Great Creator
 1 Arcbound Ravager
 4 Walking Ballista
-2 Tundra
 2 Stonecoil Serpent
 2 Arcbound Ravager
 3 Arcbound Ravager
 4 Arcbound Ravager
-3 Stonecoil Serpent
 1 Wasteland
-1 Karn, the Great Creator
-2 Karn, the Great Creator
-3 Karn, the Great Creator
+3 Stonecoil Serpent
 1 Expedition Map
 1 Trinket Mage
-4 Karn, the Great Creator
-4 Emry, Lurker of the Loch
 1 Force of Will
 2 Force of Will
 3 Force of Will
 4 Force of Will
+1 City of Traitors
 1 Ornithopter
+4 Mishra's Bauble
 2 Ornithopter
 3 Ornithopter
 4 Ornithopter
@@ -47,13 +49,11 @@
 4 Stonecoil Serpent
 3 Tundra
 2 Crucible of Worlds
-1 City of Traitors
 4 Springleaf Drum
 1 Cranial Plating
 4 Vault Skirge
 1 Darksteel Citadel
 2 Darksteel Citadel
-4 Mishra's Bauble
 2 Wasteland
 1 Welding Jar
 3 Darksteel Citadel
@@ -67,6 +67,7 @@
 3 Plains
 1 Master of Etherium
 2 Master of Etherium
+3 Island
 2 Welding Jar
 1 Urza's Bauble
 1 Zabaz, the Glimmerwasp
@@ -74,6 +75,17 @@
 2 Portable Hole
 3 Trinket Mage
 1 Phyrexian Walker
+1 Tangle Wire
+1 Karn, Scion of Urza
+1 Winter Orb
+2 Karn, Scion of Urza
+2 City of Traitors
+2 Tangle Wire
+3 Karn, Scion of Urza
+3 City of Traitors
+3 Tangle Wire
+4 Karn, Scion of Urza
+4 Tangle Wire
 2 Urza's Bauble
 4 Plains
 4 Master of Etherium
@@ -81,7 +93,6 @@
 3 Cranial Plating
 4 Cranial Plating
 1 Aether Spellbomb
-3 Island
 4 Island
 2 Phyrexian Walker
 1 Snow-Covered Plains
@@ -91,8 +102,8 @@
 2 Flooded Strand
 3 Flooded Strand
 4 Flooded Strand
-1 Spire of Industry
 1 Bomat Courier
+1 Spire of Industry
 1 Hullbreacher
 2 Hullbreacher
 1 Arcbound Mouser
@@ -107,6 +118,7 @@
 1 Lightning Greaves
 2 Lightning Greaves
 3 Retrofitter Foundry
+3 Sai, Master Thopterist
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
@@ -130,11 +142,11 @@
 1 Thassa's Oracle
 1 Barricade Breaker
 1 Myr Enforcer
-1 Glimpse of Nature
 1 Foundry Assembler
 1 Memnite
 1 Sojourner's Companion
 1 Frogmite
+1 Glimpse of Nature
 1 Tree of Tales
 2 Shield Sphere
 2 Frogmite
@@ -142,16 +154,16 @@
 2 Glimpse of Nature
 2 Foundry Assembler
 2 Tree of Tales
-2 Memnite
 2 Myr Enforcer
+2 Memnite
 2 Sojourner's Companion
 3 Myr Enforcer
 3 Sojourner's Companion
 3 Glimpse of Nature
 3 Memnite
-3 Phyrexian Walker
 3 Frogmite
 3 Tree of Tales
+3 Phyrexian Walker
 3 Shield Sphere
 4 Shield Sphere
 4 Memnite

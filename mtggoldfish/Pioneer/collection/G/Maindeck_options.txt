@@ -2,26 +2,26 @@
 3 Steel Leaf Champion
 4 Steel Leaf Champion
 1 Old-Growth Troll
-2 Old-Growth Troll
 2 Scavenging Ooze
+2 Old-Growth Troll
 1 Rhonas the Indomitable
 1 Werewolf Pack Leader
 2 Werewolf Pack Leader
 3 Werewolf Pack Leader
 4 Werewolf Pack Leader
 2 Lair of the Hydra
-1 Ranger Class
-2 Ranger Class
-1 Hashep Oasis
 1 Collected Company
 2 Collected Company
 3 Collected Company
+1 Hashep Oasis
+1 Ranger Class
+2 Ranger Class
 3 Old-Growth Troll
 4 Old-Growth Troll
+4 Collected Company
 1 Yorvo, Lord of Garenbrig
 2 Hashep Oasis
 3 Ranger Class
-4 Collected Company
 1 The Great Henge
 2 Rhonas the Indomitable
 1 Garruk's Harbinger
@@ -82,8 +82,8 @@
 4 Barkchannel Pathway
 1 Breeding Pool
 1 Botanical Sanctum
-2 Botanical Sanctum
 2 Breeding Pool
+2 Botanical Sanctum
 3 Breeding Pool
 3 Botanical Sanctum
 4 Botanical Sanctum
@@ -95,8 +95,8 @@
 1 Silumgar's Scorn
 1 Omen of the Sea
 1 Island
-1 Unsummon
 1 Brazen Borrower
+1 Unsummon
 1 Gadwick, the Wizened
 2 Brazen Borrower
 2 Dragon Turtle
@@ -107,18 +107,18 @@
 2 Silumgar's Scorn
 2 Omen of the Sea
 2 Mutavault
-3 Island
 3 Entrancing Melody
 3 Dragon Turtle
+3 Island
+3 Brazen Borrower
 3 Unsummon
 3 Gadwick, the Wizened
-3 Brazen Borrower
 3 Silumgar's Scorn
 3 Mutavault
-4 Island
 4 Dragon Turtle
 4 Entrancing Melody
 4 Brazen Borrower
+4 Island
 4 Gadwick, the Wizened
 4 Mutavault
 5 Island
@@ -182,6 +182,7 @@
 2 Llanowar Wastes
 1 Questing Beast
 2 Questing Beast
+3 Scavenging Ooze
 1 Sidisi's Faithful
 1 Overwhelmed Apprentice
 1 Wizard's Retort
@@ -227,6 +228,17 @@
 22 Island
 23 Island
 24 Island
+1 Klothys, God of Destiny
+1 Cragcrown Pathway
+1 Stomping Ground
+1 Atarka's Command
+2 Klothys, God of Destiny
+2 Atarka's Command
+2 Cragcrown Pathway
+2 Stomping Ground
+3 Cragcrown Pathway
+3 Stomping Ground
+4 Stomping Ground
 1 Blossoming Defense
 1 Esika's Chariot
 1 Opt
@@ -259,10 +271,31 @@
 1 Kazandu Mammoth
 2 Kazandu Mammoth
 3 Questing Beast
-3 Scavenging Ooze
 4 Questing Beast
 4 Scavenging Ooze
 4 The Great Henge
+1 The Royal Scions
+1 Hazoret the Fervent
+1 Gallia of the Endless Dance
+1 Radha, Heart of Keld
+1 Riverglide Pathway
+1 Bard Class
+1 Domri, Anarch of Bolas
+1 Targ Nar, Demon-Fang Gnoll
+2 Hazoret the Fervent
+2 The Royal Scions
+2 Riverglide Pathway
+2 Bard Class
+2 Gallia of the Endless Dance
+2 Domri, Anarch of Bolas
+2 Targ Nar, Demon-Fang Gnoll
+3 Bard Class
+3 Domri, Anarch of Bolas
+3 Riverglide Pathway
+4 Domri, Anarch of Bolas
+4 Riverglide Pathway
+4 Bard Class
+4 Cragcrown Pathway
 1 Wildgrowth Walker
 1 Merfolk Branchwalker
 2 Merfolk Branchwalker
@@ -274,42 +307,34 @@
 4 Wildgrowth Walker
 4 Jadelight Ranger
 4 Llanowar Wastes
-1 The Royal Scions
-1 Hazoret the Fervent
-1 Radha, Heart of Keld
-1 Riverglide Pathway
-1 Bard Class
-1 Klothys, God of Destiny
-1 Domri, Anarch of Bolas
-1 Cragcrown Pathway
-1 Targ Nar, Demon-Fang Gnoll
-1 Stomping Ground
-1 Atarka's Command
-1 Gallia of the Endless Dance
-2 Hazoret the Fervent
-2 The Royal Scions
-2 Atarka's Command
-2 Riverglide Pathway
-2 Cragcrown Pathway
-2 Stomping Ground
-2 Bard Class
-2 Klothys, God of Destiny
-2 Gallia of the Endless Dance
-2 Domri, Anarch of Bolas
-2 Targ Nar, Demon-Fang Gnoll
-3 Bard Class
-3 Domri, Anarch of Bolas
-3 Cragcrown Pathway
-3 Riverglide Pathway
-3 Stomping Ground
-4 Domri, Anarch of Bolas
-4 Riverglide Pathway
-4 Bard Class
-4 Cragcrown Pathway
-4 Stomping Ground
+1 Embercleave
+1 Ghor-Clan Rampager
+1 Cinder Glade
+1 Gruul Spellbreaker
+1 Mountain
+1 Bonecrusher Giant
+1 Game Trail
+1 Reckless Bushwhacker
+1 Robber of the Rich
+1 Rootbound Crag
+2 Bonecrusher Giant
+2 Gruul Spellbreaker
+2 Mountain
+2 Reckless Bushwhacker
+2 Rootbound Crag
+2 Cinder Glade
+2 Game Trail
+3 Game Trail
+3 Bonecrusher Giant
+3 Gruul Spellbreaker
+3 Atarka's Command
+3 Mountain
+3 Reckless Bushwhacker
+4 Bonecrusher Giant
+4 Reckless Bushwhacker
 1 Garruk's Uprising
-2 Field of Ruin
 2 Garruk's Uprising
+2 Field of Ruin
 17 Forest
 18 Forest
 19 Forest
