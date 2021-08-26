@@ -123,21 +123,21 @@
 1 Titania, Protector of Argoth
 1 Gavony Township
 1 Yavimaya, Cradle of Growth
-1 Time Warp
-1 Abundant Growth
 1 Oath of Nissa
-2 Abundant Growth
+1 Abundant Growth
+1 Time Warp
 2 Oath of Nissa
-3 Breeding Pool
-3 Abundant Growth
+2 Abundant Growth
 3 Temple Garden
+3 Abundant Growth
+3 Breeding Pool
 4 Abundant Growth
 1 Brushland
 1 Eldrazi Temple
-1 Karmic Guide
 1 Thought-Knot Seer
 1 Drowner of Hope
 1 Wastes
+1 Karmic Guide
 1 Eldrazi Displacer
 1 Adarkar Wastes
 2 Brushland
@@ -154,16 +154,23 @@
 4 Thought-Knot Seer
 4 Plains
 1 Brazen Borrower
-1 Reflecting Pool
 1 Raugrin Triome
+1 Reflecting Pool
 1 Remand
 1 Mystic Snake
+2 Waterlogged Grove
 2 Charming Prince
 2 Glacial Fortress
-2 Waterlogged Grove
+1 Razorverge Thicket
+1 Abundant Harvest
+1 Stonehorn Dignitary
+2 Razorverge Thicket
+2 Abundant Harvest
+3 Abundant Harvest
+3 Razorverge Thicket
+1 Teferi, Hero of Dominaria
 1 Celestial Colonnade
 1 Vendilion Clique
-1 Teferi, Hero of Dominaria
 1 Subtlety
 1 Archmage's Charm
 2 Celestial Colonnade
@@ -171,13 +178,6 @@
 3 Field of Ruin
 3 Snapcaster Mage
 3 Dromoka's Command
-1 Razorverge Thicket
-1 Abundant Harvest
-1 Stonehorn Dignitary
-2 Razorverge Thicket
-2 Abundant Harvest
-3 Razorverge Thicket
-3 Abundant Harvest
 1 Lair of the Hydra
 1 Spellstutter Sprite
 2 Spellstutter Sprite
@@ -202,12 +202,12 @@
 3 Opt
 4 Urza's Saga
 4 Opt
-1 Watcher for Tomorrow
-1 Prairie Stream
 1 Deputy of Detention
 1 Canopy Vista
-2 Watcher for Tomorrow
+1 Watcher for Tomorrow
+1 Prairie Stream
 2 Knight of Autumn
+2 Watcher for Tomorrow
 2 Canopy Vista
 5 Snow-Covered Forest
 1 Tangled Florahedron
@@ -224,8 +224,8 @@
 1 Wooded Foothills
 2 Botanical Sanctum
 2 Forest
-2 Tangled Florahedron
 2 Golos, Tireless Pilgrim
+2 Tangled Florahedron
 2 Kinnan, Bonder Prodigy
 3 Tangled Florahedron
 3 Birds of Paradise

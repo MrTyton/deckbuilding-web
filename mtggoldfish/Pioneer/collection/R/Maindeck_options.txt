@@ -1,4 +1,5 @@
 7 Mountain
+1 Battle Cry Goblin
 1 Goblin Rabblemaster
 1 Conspicuous Snoop
 1 Reckless Bushwhacker
@@ -6,8 +7,8 @@
 1 Foundry Street Denizen
 1 Skirk Prospector
 1 Legion Loyalist
-1 Battle Cry Goblin
 1 Goblin Piledriver
+2 Battle Cry Goblin
 2 Goblin Rabblemaster
 2 Conspicuous Snoop
 2 Reckless Bushwhacker
@@ -15,7 +16,6 @@
 2 Legion Loyalist
 2 Hobgoblin Bandit Lord
 2 Goblin Piledriver
-2 Battle Cry Goblin
 3 Goblin Rabblemaster
 3 Conspicuous Snoop
 3 Hobgoblin Bandit Lord
@@ -49,14 +49,14 @@
 4 Legion Loyalist
 4 Skirk Prospector
 4 Goblin Warchief
-1 Steam Vents
 1 Goldspan Dragon
 1 Expressive Iteration
-1 Riverglide Pathway
 1 Spirebluff Canal
+1 Riverglide Pathway
 1 Alrund's Epiphany
 1 Negate
 1 Shivan Reef
+1 Steam Vents
 1 Ionize
 2 Shivan Reef
 2 Goldspan Dragon
@@ -66,14 +66,14 @@
 2 Alrund's Epiphany
 2 Steam Vents
 2 Ionize
-3 Alrund's Epiphany
 3 Goldspan Dragon
 3 Expressive Iteration
+3 Alrund's Epiphany
 3 Spirebluff Canal
 3 Steam Vents
 3 Anger of the Gods
-4 Spirebluff Canal
 4 Alrund's Epiphany
+4 Spirebluff Canal
 4 Expressive Iteration
 4 Steam Vents
 4 Goldspan Dragon
@@ -84,8 +84,8 @@
 3 Den of the Bugbear
 4 Goblin Instigator
 4 Hobgoblin Bandit Lord
-1 Temple of Epiphany
 1 Island
+1 Temple of Epiphany
 4 Den of the Bugbear
 1 Castle Embereth
 1 Mutavault

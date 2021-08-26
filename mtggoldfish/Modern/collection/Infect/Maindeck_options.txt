@@ -1,7 +1,7 @@
-2 Ignoble Hierarch
+2 Waterlogged Grove
 1 Groundswell
-2 Groundswell
 1 Verdant Catacombs
+2 Groundswell
 2 Misty Rainforest
 3 Waterlogged Grove
 2 Snakeskin Veil
@@ -15,15 +15,15 @@
 2 Verdant Catacombs
 3 Wooded Foothills
 1 Yavimaya, Cradle of Growth
-3 Spell Pierce
 4 Ignoble Hierarch
 3 Phyrexian Crusader
 4 Phyrexian Crusader
 3 Plague Stinger
 4 Plague Stinger
-1 Thoughtseize
 1 Nurturing Peatland
+1 Thoughtseize
 2 Nurturing Peatland
+3 Spell Pierce
 2 Thoughtseize
 3 Verdant Catacombs
 4 Verdant Catacombs
@@ -36,6 +36,9 @@
 2 Inquisition of Kozilek
 1 Swamp
 3 Misty Rainforest
+1 Wild Shape
+2 Wild Shape
+3 Wild Shape
 4 Blossoming Defense
 3 Thoughtseize
 3 Nurturing Peatland
@@ -43,9 +46,6 @@
 1 Suspend
 2 Suspend
 1 Dismember
-1 Wild Shape
-2 Wild Shape
-3 Wild Shape
 3 Snakeskin Veil
 2 Fatal Push
 1 Blooming Marsh
@@ -59,9 +59,9 @@
 2 Temple Garden
 1 Viridian Corrupter
 2 Dismember
+3 Blooming Marsh
 1 Gemrazer
 3 Overgrown Tomb
-3 Blooming Marsh
 3 Fatal Push
 1 Remand
 1 Peek
