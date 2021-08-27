@@ -22,45 +22,44 @@
 3 Glacial Fortress
 1 Fabled Passage
 2 Fabled Passage
-3 Fabled Passage
 1 Faceless Haven
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 1 Memory Lapse
-1 Hydroid Krasis
 1 Nissa, Who Shakes the World
 1 Breeding Pool
+1 Commit/Memory
+1 Narset, Parter of Veils
 2 Memory Lapse
 2 Nissa, Who Shakes the World
-2 Hydroid Krasis
+2 Narset, Parter of Veils
 2 Breeding Pool
-3 Nissa, Who Shakes the World
 3 Memory Lapse
 3 Breeding Pool
 4 Memory Lapse
 4 Breeding Pool
 1 Rimewood Falls
 1 Snow-Covered Forest
-1 Narset, Parter of Veils
 1 Snow-Covered Island
+1 Hydroid Krasis
 1 Into the North
-1 Commit/Memory
 2 Snow-Covered Forest
-2 Narset, Parter of Veils
+2 Hydroid Krasis
 2 Snow-Covered Island
 2 Into the North
+3 Nissa, Who Shakes the World
 3 Into the North
 4 Into the North
-1 Shark Typhoon
-2 Shark Typhoon
-3 Shark Typhoon
-4 Nissa, Who Shakes the World
+3 Fabled Passage
 1 Arctic Treeline
 1 Yasharn, Implacable Earth
 1 Wrath of God
+1 Shark Typhoon
 2 Yasharn, Implacable Earth
+2 Shark Typhoon
+3 Shark Typhoon
+4 Nissa, Who Shakes the World
 4 Shark Typhoon
-2 Forest
 4 Glasspool Mimic
 1 Settle the Wreckage
 2 Commit/Memory
@@ -70,6 +69,7 @@
 2 Faceless Haven
 3 Angel of Vitality
 4 Angel of Vitality
+2 Forest
 1 Emeria's Call
 1 Daxos, Blessed by the Sun
 2 Daxos, Blessed by the Sun
@@ -84,10 +84,10 @@
 3 Narset, Parter of Veils
 3 Rimewood Falls
 2 Settle the Wreckage
-3 Forest
-4 Forest
 3 Snow-Covered Forest
 3 Declaration in Stone
+3 Forest
+4 Forest
 1 Toski, Bearer of Secrets
 2 Toski, Bearer of Secrets
 4 Hengegate Pathway
@@ -104,21 +104,12 @@
 1 Cleric Class
 2 The Book of Exalted Deeds
 1 Tamiyo, Collector of Tales
-5 Forest
-1 Growth Spiral
-2 Growth Spiral
-3 Growth Spiral
-4 Growth Spiral
 1 Ephemerate
 1 Adventurous Impulse
 2 Adventurous Impulse
 3 Adventurous Impulse
 4 Adventurous Impulse
 1 Legion Angel
-1 Temple of Plenty
-1 Cave of the Frost Dragon
-2 Temple of Plenty
-2 Cave of the Frost Dragon
 1 Reidane, God of the Worthy
 1 Dromoka's Command
 2 Reidane, God of the Worthy
@@ -126,6 +117,10 @@
 1 Elite Spellbinder
 1 Basri Ket
 2 Basri Ket
+1 Cave of the Frost Dragon
+1 Temple of Plenty
+2 Cave of the Frost Dragon
+2 Temple of Plenty
 2 Baffling End
 3 Baffling End
 1 Seal Away
@@ -136,19 +131,25 @@
 2 Arboreal Grazer
 3 Arboreal Grazer
 3 Relic of Progenitus
+1 Growth Spiral
+1 Blast Zone
+2 Blast Zone
+2 Growth Spiral
+3 Growth Spiral
+4 Growth Spiral
 1 Godless Shrine
+1 Vito, Thorn of the Dusk Rose
 1 Brightclimb Pathway
 1 Isolated Chapel
-1 Vito, Thorn of the Dusk Rose
-2 Brightclimb Pathway
-2 Emeria's Call
-2 Isolated Chapel
 2 Vito, Thorn of the Dusk Rose
+2 Brightclimb Pathway
+2 Isolated Chapel
+2 Emeria's Call
 3 Brightclimb Pathway
 3 Vito, Thorn of the Dusk Rose
 4 Brightclimb Pathway
-1 Mystical Dispute
 1 Aether Gust
+1 Mystical Dispute
 2 Abundant Harvest
 3 Abundant Harvest
 4 Abundant Harvest
@@ -172,69 +173,77 @@
 3 Settle the Wreckage
 3 Heliod, Sun-Crowned
 4 Castle Ardenvale
+1 Swan Song
+2 Swan Song
+4 Linvala, Shield of Sea Gate
+1 Shatterskull Smashing
+1 Ketria Triome
+1 Pact of Negation
+1 Stomping Ground
+1 Steam Vents
+1 Teferi, Master of Time
+1 Eureka Moment
+1 Sinister Sabotage
+1 Sulfur Falls
+1 Negate
+1 Hinterland Harbor
+1 Koma, Cosmos Serpent
+1 Ugin, the Spirit Dragon
+1 Sea Gate Restoration
+1 Fire Prophecy
+1 Search for Azcanta
+1 Castle Vantress
+1 Mountain
+1 Anger of the Gods
+2 Koma, Cosmos Serpent
+2 Steam Vents
+2 Ketria Triome
+2 Stomping Ground
+2 Eureka Moment
+2 Sinister Sabotage
+2 Search for Azcanta
+2 Castle Vantress
+2 Hinterland Harbor
+2 Negate
+2 Teferi, Master of Time
+2 Fire Prophecy
+2 Ugin, the Spirit Dragon
+2 Anger of the Gods
+2 Sulfur Falls
+3 Steam Vents
+3 Ketria Triome
+3 Anger of the Gods
+4 Steam Vents
+4 Anger of the Gods
+4 Ketria Triome
 1 Remorseful Cleric
 2 Remorseful Cleric
 3 Remorseful Cleric
 4 Remorseful Cleric
-3 Trelasarra, Moon Dancer
-4 Trelasarra, Moon Dancer
-1 You See a Guard Approach
-1 Unsummon
-1 Temple of Mystery
-1 Barkchannel Pathway
-1 Brazen Borrower
-1 Stern Dismissal
-1 Neutralize
-1 Island
-1 Frilled Mystic
-1 Nightpack Ambusher
-1 Castle Vantress
-2 You See a Guard Approach
-2 Castle Vantress
-2 Temple of Mystery
-2 Barkchannel Pathway
-2 Unsummon
-2 Brazen Borrower
-2 Stern Dismissal
-2 Neutralize
-2 Island
-2 Nightpack Ambusher
-2 Frilled Mystic
-3 Brazen Borrower
-3 Nightpack Ambusher
-3 Island
-3 Barkchannel Pathway
-3 Frilled Mystic
-4 Island
-4 Nightpack Ambusher
-4 Frilled Mystic
-4 Barkchannel Pathway
 1 Lair of the Hydra
-1 Hall of Storm Giants
 1 Vineglimmer Snarl
-1 Alrund's Epiphany
-1 Blast Zone
+1 Hall of Storm Giants
 1 Llanowar Elves
+1 Alrund's Epiphany
 2 Lair of the Hydra
-2 Hall of Storm Giants
-2 Blast Zone
-2 Alrund's Epiphany
-2 Llanowar Elves
-2 Vineglimmer Snarl
 2 Tamiyo, Collector of Tales
+2 Hall of Storm Giants
+2 Llanowar Elves
+2 Alrund's Epiphany
+2 Vineglimmer Snarl
 3 Alrund's Epiphany
 3 Hydroid Krasis
-3 Vineglimmer Snarl
-3 Tamiyo, Collector of Tales
 3 Snow-Covered Island
 3 Llanowar Elves
+3 Vineglimmer Snarl
+3 Tamiyo, Collector of Tales
 4 Narset, Parter of Veils
+4 Vineglimmer Snarl
 4 Llanowar Elves
 4 Rimewood Falls
-4 Vineglimmer Snarl
-1 Swan Song
-2 Swan Song
-4 Linvala, Shield of Sea Gate
+3 Trelasarra, Moon Dancer
+4 Trelasarra, Moon Dancer
+5 Forest
 1 Adanto Vanguard
 2 Adanto Vanguard
 2 Cleric Class

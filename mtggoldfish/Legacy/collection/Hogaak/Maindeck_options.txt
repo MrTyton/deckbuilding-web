@@ -7,15 +7,15 @@
 4 Faithless Looting
 1 Carrion Feeder
 2 Carrion Feeder
-2 Badlands
 1 Anger
-2 Bloodstained Mire
+2 Badlands
 2 Swamp
+2 Bloodstained Mire
 3 Satyr Wayfinder
-3 Badlands
 2 Polluted Delta
-3 Bloodstained Mire
 2 Marsh Flats
+3 Badlands
+3 Bloodstained Mire
 3 Marsh Flats
 3 Polluted Delta
 4 Cabal Therapy
@@ -25,58 +25,58 @@
 3 Wooded Foothills
 1 Once Upon a Time
 2 Once Upon a Time
+1 Gamble
 1 Taiga
 1 Kitchen Imp
 1 Mountain
 1 Lion's Eye Diamond
 1 Blazing Rootwalla
-1 Anje's Ravager
 1 Basking Rootwalla
+1 Anje's Ravager
 1 Ox of Agonas
+2 Gamble
+2 Mountain
 2 Taiga
 2 Kitchen Imp
 2 Anje's Ravager
-2 Blazing Rootwalla
 2 Lion's Eye Diamond
 2 Basking Rootwalla
+2 Blazing Rootwalla
 3 Kitchen Imp
 3 Putrid Imp
-3 Lion's Eye Diamond
 3 Blazing Rootwalla
+3 Lion's Eye Diamond
 3 Anje's Ravager
 3 Basking Rootwalla
+3 Once Upon a Time
 4 Kitchen Imp
 4 Putrid Imp
 4 Anje's Ravager
 4 Basking Rootwalla
 4 Blazing Rootwalla
 4 Lion's Eye Diamond
-1 Gamble
-2 Gamble
-2 Mountain
-3 Once Upon a Time
-1 Burning Inquiry
-2 Burning Inquiry
-3 Burning Inquiry
-4 Burning Inquiry
 1 Arid Mesa
 1 Scalding Tarn
+1 Burning Inquiry
 2 Arid Mesa
+2 Burning Inquiry
 2 Scalding Tarn
 2 Anger
 3 Arid Mesa
 3 Scalding Tarn
+3 Burning Inquiry
 4 Arid Mesa
 4 Scalding Tarn
+4 Burning Inquiry
 4 Wooded Foothills
 4 Satyr Wayfinder
 1 Darkblast
 3 Carrion Feeder
+4 Marsh Flats
 4 Polluted Delta
 1 Overgrown Tomb
 1 Blood Crypt
 3 Gamble
-4 Bloodstained Mire
 1 Nurturing Peatland
 1 Grist, the Hunger Tide
 2 Blood Crypt
@@ -85,10 +85,10 @@
 2 Daze
 2 Snow-Covered Swamp
 3 Snow-Covered Swamp
-4 Marsh Flats
 1 Cabal Initiate
 2 Cabal Initiate
 4 Once Upon a Time
+4 Bloodstained Mire
 1 Scrubland
 1 Ephemerate
 1 Grief
@@ -104,10 +104,3 @@
 4 Ephemerate
 4 Grief
 4 Windswept Heath
-1 Asylum Visitor
-2 Asylum Visitor
-2 Ox of Agonas
-3 Taiga
-3 Asylum Visitor
-4 Badlands
-4 Asylum Visitor

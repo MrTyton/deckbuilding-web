@@ -102,8 +102,8 @@
 2 Flooded Strand
 3 Flooded Strand
 4 Flooded Strand
-1 Spire of Industry
 1 Bomat Courier
+1 Spire of Industry
 1 Hullbreacher
 2 Hullbreacher
 1 Arcbound Mouser
@@ -123,14 +123,6 @@
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
-1 Great Furnace
-1 Galvanic Blast
-2 Great Furnace
-2 Galvanic Blast
-3 Great Furnace
-3 Galvanic Blast
-4 Great Furnace
-4 Galvanic Blast
 1 Mishra's Factory
 1 Mox Diamond
 2 Mox Diamond
@@ -138,6 +130,14 @@
 3 Mox Diamond
 3 Mishra's Factory
 4 Mishra's Factory
+1 Galvanic Blast
+1 Great Furnace
+2 Galvanic Blast
+2 Great Furnace
+3 Galvanic Blast
+3 Great Furnace
+4 Galvanic Blast
+4 Great Furnace
 1 Shield Sphere
 1 Thassa's Oracle
 1 Barricade Breaker

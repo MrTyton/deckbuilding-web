@@ -113,6 +113,6 @@
 |                    2|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)              |                     |                                                                                                       |
 |                    2|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)            |                     |                                                                                                       |
 |                    2|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)            |                     |                                                                                                       |
-|                    3|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)            |                     |                                                                                                       |
 |                    4|[Sunpetal Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420946)            |                     |                                                                                                       |
+|                    3|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)            |                     |                                                                                                       |
 

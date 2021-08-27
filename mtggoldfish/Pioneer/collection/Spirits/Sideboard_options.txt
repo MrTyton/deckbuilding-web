@@ -1,10 +1,10 @@
-1 Reidane, God of the Worthy
 3 Mystical Dispute
-2 Reidane, God of the Worthy
-1 Bygone Bishop
+1 Reidane, God of the Worthy
 1 Portable Hole
 2 Portable Hole
 3 Portable Hole
+2 Reidane, God of the Worthy
+1 Bygone Bishop
 1 Selfless Spirit
 4 Mystical Dispute
 3 Rest in Peace
@@ -16,10 +16,11 @@
 1 Tormod's Crypt
 2 Tormod's Crypt
 1 Lofty Denial
+2 Settle the Wreckage
 1 Dispel
 1 Mystic Subdual
-2 Dispel
 2 Mystic Subdual
+2 Dispel
 3 Mystic Subdual
 4 Mystic Subdual
 1 Gideon, Ally of Zendikar
@@ -27,11 +28,15 @@
 2 Containment Priest
 1 Shapers' Sanctuary
 2 Shapers' Sanctuary
+1 Deafening Silence
+1 Devout Decree
+2 Disdainful Stroke
+2 Deafening Silence
+2 Devout Decree
 1 Reality Shift
 1 Rally of Wings
 1 Remorseful Cleric
 2 Remorseful Cleric
-2 Settle the Wreckage
 2 Reality Shift
 2 Rally of Wings
 1 Soul-Guide Lantern
@@ -41,15 +46,10 @@
 2 Soul-Guide Lantern
 2 Dovin's Veto
 2 Fiendslayer Paladin
-1 Deafening Silence
-1 Devout Decree
-2 Disdainful Stroke
-2 Deafening Silence
-2 Devout Decree
-3 Aether Gust
 1 Isolate
 2 Deputy of Detention
 3 Skyclave Apparition
+3 Aether Gust
 1 Invasive Surgery
 2 Invasive Surgery
 3 Invasive Surgery
@@ -65,6 +65,6 @@
 4 Arashin Cleric
 1 Entrancing Melody
 2 Entrancing Melody
-3 Entrancing Melody
 3 Dispel
+3 Entrancing Melody
 4 Dispel
