@@ -87,7 +87,7 @@
 |                    2|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)     |                     |                                                                                                     |
 |                    3|[Den of the Bugbear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527541)        |                     |                                                                                                     |
 |                    3|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)       |                     |                                                                                                     |
+|                    3|[Prismari Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513706)          |                     |                                                                                                     |
 |                    3|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)           |                     |                                                                                                     |
 |                    3|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)     |                     |                                                                                                     |
-|                    3|[Prismari Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513706)          |                     |                                                                                                     |
 
