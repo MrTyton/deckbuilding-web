@@ -1,8 +1,6 @@
 1 Deadly Dispute
 2 Deadly Dispute
-1 Lolth, Spider Queen
 3 Deadly Dispute
-2 Lolth, Spider Queen
 1 Mountain
 1 Blightstep Pathway
 2 Blightstep Pathway
@@ -11,57 +9,82 @@
 4 Deadly Dispute
 4 Blightstep Pathway
 2 Fabled Passage
-2 Mountain
-1 Heartless Act
 1 Kalain, Reclusive Painter
 2 Kalain, Reclusive Painter
+2 Mountain
+1 Lolth, Spider Queen
+2 Lolth, Spider Queen
+3 Kalain, Reclusive Painter
+1 Goldspan Dragon
+2 Goldspan Dragon
+1 Hive of the Eye Tyrant
+1 Heartless Act
+1 Den of the Bugbear
+3 Fabled Passage
+1 Darkbore Pathway
+2 Darkbore Pathway
+1 Forest
+3 Goldspan Dragon
+3 Darkbore Pathway
+4 Darkbore Pathway
+4 Kalain, Reclusive Painter
 1 Prosperous Innkeeper
 2 Prosperous Innkeeper
 3 Prosperous Innkeeper
-1 Darkbore Pathway
-2 Darkbore Pathway
-3 Darkbore Pathway
-4 Darkbore Pathway
-1 Forest
-3 Fabled Passage
+1 Power Word Kill
 1 Shatterskull Smashing
-1 Goldspan Dragon
-2 Goldspan Dragon
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+4 Goldspan Dragon
+1 Korvold, Fae-Cursed King
+4 Fabled Passage
+1 Claim the Firstborn
+1 Cragcrown Pathway
+2 Cragcrown Pathway
+3 Cragcrown Pathway
+4 Cragcrown Pathway
+3 Mountain
+4 Prosperous Innkeeper
+2 Heartless Act
+2 Claim the Firstborn
+3 Claim the Firstborn
+1 The Akroan War
+2 The Akroan War
+2 Power Word Kill
+3 Bonecrusher Giant
+2 Korvold, Fae-Cursed King
+1 Orcus, Prince of Undeath
+2 Orcus, Prince of Undeath
+4 Bonecrusher Giant
+2 Den of the Bugbear
+4 Claim the Firstborn
+3 Korvold, Fae-Cursed King
+1 Agadeem's Awakening
+1 Baleful Mastery
+2 Baleful Mastery
+1 Ugin, the Spirit Dragon
+1 Unexpected Windfall
+2 Ugin, the Spirit Dragon
+3 Ugin, the Spirit Dragon
+1 Temple of Malice
+1 Field of Ruin
+1 Warlock Class
+1 Crawling Barrens
+1 Spikefield Hazard
+2 Temple of Malice
+2 Spikefield Hazard
+2 Field of Ruin
+3 Spikefield Hazard
+1 Soul Shatter
+2 Soul Shatter
+1 Bloodchief's Thirst
+1 Skullport Merchant
+2 Skullport Merchant
 1 Eyetwitch
 2 Eyetwitch
 3 Eyetwitch
 4 Eyetwitch
-4 Prosperous Innkeeper
-1 Claim the Firstborn
-2 Claim the Firstborn
-3 Claim the Firstborn
-3 Mountain
-1 Village Rites
-2 Village Rites
-3 Village Rites
-3 Kalain, Reclusive Painter
-1 Cragcrown Pathway
-1 Korvold, Fae-Cursed King
-2 Cragcrown Pathway
-3 Cragcrown Pathway
-4 Cragcrown Pathway
-3 Goldspan Dragon
-4 Claim the Firstborn
-4 Village Rites
-1 Extus, Oriq Overlord
-2 Extus, Oriq Overlord
-1 The Akroan War
-2 The Akroan War
-4 Fabled Passage
-1 Agadeem's Awakening
-1 Power Word Kill
-2 Heartless Act
-1 Hive of the Eye Tyrant
-1 Soul Shatter
-2 Soul Shatter
 3 Lolth, Spider Queen
-1 Skullport Merchant
-2 Skullport Merchant
 1 Blood on the Snow
 1 Faceless Haven
 1 Snow-Covered Swamp
@@ -70,7 +93,8 @@
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
-1 Hunt for Specimens
+1 Ebondeath, Dracolich
+2 Bloodchief's Thirst
 3 Skullport Merchant
 2 Faceless Haven
 6 Snow-Covered Swamp
@@ -80,48 +104,25 @@
 3 Soul Shatter
 3 Blood on the Snow
 4 Skullport Merchant
-3 Faceless Haven
-4 Faceless Haven
+1 Hunt for Specimens
 10 Snow-Covered Swamp
 11 Snow-Covered Swamp
 12 Snow-Covered Swamp
 13 Snow-Covered Swamp
-4 Kalain, Reclusive Painter
-4 Goldspan Dragon
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-1 Baleful Mastery
-2 Baleful Mastery
-1 Bloodchief's Thirst
-1 Hagra Mauling
+1 Village Rites
+2 Village Rites
+3 Village Rites
+4 Village Rites
+2 Hive of the Eye Tyrant
+2 Ebondeath, Dracolich
 14 Snow-Covered Swamp
 15 Snow-Covered Swamp
 16 Snow-Covered Swamp
-1 Den of the Bugbear
-1 Ebondeath, Dracolich
-3 Extus, Oriq Overlord
-1 Bastion of Remembrance
-2 Bastion of Remembrance
-3 Bastion of Remembrance
-2 Hunt for Specimens
-2 Bloodchief's Thirst
-1 Professor Onyx
-2 Professor Onyx
-1 Orcus, Prince of Undeath
-2 Orcus, Prince of Undeath
-2 Hive of the Eye Tyrant
-1 Temple of Malice
-3 Bonecrusher Giant
-4 Bonecrusher Giant
-4 Mountain
-2 Hagra Mauling
-2 Power Word Kill
-4 Blood on the Snow
-1 Plumb the Forbidden
-3 Hunt for Specimens
-4 Hunt for Specimens
-4 Lolth, Spider Queen
-1 Crippling Fear
+17 Snow-Covered Swamp
+18 Snow-Covered Swamp
+19 Snow-Covered Swamp
+3 The Akroan War
+1 Kazuul's Fury
 1 Extinction Event
 1 Inferno of the Star Mounts
 1 Alrund's Epiphany
@@ -138,33 +139,24 @@
 3 Clearwater Pathway
 3 Riverglide Pathway
 4 Riverglide Pathway
-2 Korvold, Fae-Cursed King
-1 Warlock Class
+1 Extus, Oriq Overlord
+2 Extus, Oriq Overlord
+1 Esika's Chariot
+2 Esika's Chariot
+3 Faceless Haven
+4 Faceless Haven
+3 Heartless Act
+1 Valki, God of Lies
+1 Professor Onyx
+2 Professor Onyx
+2 Crawling Barrens
 1 Savai Triome
-1 Kroxa, Titan of Death's Hunger
-4 Bastion of Remembrance
-1 Field of Ruin
-2 Den of the Bugbear
-2 Crippling Fear
-2 Ebondeath, Dracolich
+4 Mountain
+1 Hagra Mauling
 3 Baleful Mastery
 3 Bloodchief's Thirst
-17 Snow-Covered Swamp
-18 Snow-Covered Swamp
-19 Snow-Covered Swamp
 20 Snow-Covered Swamp
-1 Ugin, the Spirit Dragon
-1 Unexpected Windfall
-1 Crawling Barrens
-1 Spikefield Hazard
-2 Temple of Malice
-2 Spikefield Hazard
-2 Field of Ruin
-2 Ugin, the Spirit Dragon
-3 Ugin, the Spirit Dragon
-3 Spikefield Hazard
 2 Forest
-2 Agadeem's Awakening
 1 Temple of Malady
 1 Lair of the Hydra
 2 Lair of the Hydra
@@ -189,11 +181,14 @@
 4 Elder Gargaroth
 4 Temple of Malady
 4 Lair of the Hydra
+2 Agadeem's Awakening
 1 Tergrid, God of Fright
 1 Valentin, Dean of the Vein
 2 Valentin, Dean of the Vein
-3 The Akroan War
-1 Kazuul's Fury
+1 Bastion of Remembrance
+2 Bastion of Remembrance
+2 Kazuul's Fury
+3 Kazuul's Fury
 2 Prismari Command
 3 Alrund's Epiphany
 4 Clearwater Pathway
@@ -201,105 +196,81 @@
 2 Island
 1 Disdainful Stroke
 1 Temple of the Dragon Queen
-3 Korvold, Fae-Cursed King
+4 Soul Shatter
 1 Skeletal Swarming
-1 Esika's Chariot
-2 Esika's Chariot
-3 Esika's Chariot
+1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
+3 Esika's Chariot
+1 Forsworn Paladin
+2 Forsworn Paladin
 1 Binding the Old Gods
 1 Jaspera Sentinel
 2 Binding the Old Gods
 2 Jaspera Sentinel
 3 Jaspera Sentinel
 4 Jaspera Sentinel
-3 Heartless Act
-1 Sedgemoor Witch
-2 Sedgemoor Witch
-1 Eliminate
-2 Shatterskull Smashing
-4 Extus, Oriq Overlord
+3 Extus, Oriq Overlord
+2 Hunt for Specimens
+4 Blood on the Snow
+1 Immersturm Predator
+2 Immersturm Predator
 2 Extinction Event
+2 Shatterskull Smashing
+2 Valki, God of Lies
+5 Mountain
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 4 Snow-Covered Forest
 5 Snow-Covered Forest
 6 Snow-Covered Forest
-1 Valki, God of Lies
-5 Mountain
-6 Mountain
-7 Mountain
 1 Brightclimb Pathway
 1 Fireblade Charger
 2 Fireblade Charger
 3 Fireblade Charger
-1 Feign Death
-2 Feign Death
 1 Flunk
 2 Flunk
-1 Mazemind Tome
 1 Rankle, Master of Pranks
 1 Cinderclasm
 1 Hall of Storm Giants
+1 Mazemind Tome
 2 Magma Opus
 2 Cinderclasm
 2 Mazemind Tome
 2 Rankle, Master of Pranks
+1 Ox of Agonas
+1 Gadrak, the Crown-Scourge
+1 Havoc Jester
 1 Ranger Class
 1 Scavenging Ooze
 2 Scavenging Ooze
 2 Warlock Class
-1 Gadrak, the Crown-Scourge
-1 Havoc Jester
-1 Forsworn Paladin
-2 Forsworn Paladin
-2 Crawling Barrens
+2 Hagra Mauling
+1 Sedgemoor Witch
+2 Sedgemoor Witch
+3 Bastion of Remembrance
+1 Duress
+1 Shredded Sails
+1 Pestilent Haze
+2 Duress
+2 Pestilent Haze
+3 Den of the Bugbear
+4 Heartless Act
 4 Korvold, Fae-Cursed King
-1 Bloodfell Caves
-1 Forbidden Friendship
-1 Evolving Wilds
-2 Evolving Wilds
-2 Forbidden Friendship
-2 Bloodfell Caves
-3 Kroxa, Titan of Death's Hunger
-3 Forbidden Friendship
-4 Forbidden Friendship
 1 Expressive Iteration
 1 Iymrith, Desert Doom
 2 Temple of the Dragon Queen
 2 Disdainful Stroke
 3 Temple of the Dragon Queen
 4 Temple of the Dragon Queen
-2 Savai Triome
-3 Savai Triome
-4 Heartless Act
-4 Savai Triome
-1 Feed the Serpent
-1 Vito, Thorn of the Dusk Rose
-1 Necroblossom Snarl
-1 Beledros Witherbloom
-1 Jungle Hollow
-1 Witherbloom Campus
-2 Jungle Hollow
-2 Vito, Thorn of the Dusk Rose
-2 Plumb the Forbidden
-2 Eliminate
-3 Plumb the Forbidden
-3 Sedgemoor Witch
-3 Jungle Hollow
-4 Sedgemoor Witch
-4 Plumb the Forbidden
-4 Jungle Hollow
 1 Pelakka Predation
 1 Deadly Brew
 2 Tergrid, God of Fright
 2 Deadly Brew
 3 Tergrid, God of Fright
-3 Forest
 3 Deadly Brew
+3 Forest
 4 Deadly Brew
-4 Soul Shatter
 1 Foulmire Knight
 2 Foulmire Knight
 3 Foulmire Knight
@@ -308,7 +279,20 @@
 1 Bala Ged Recovery
 2 Varragoth, Bloodsky Sire
 3 Varragoth, Bloodsky Sire
+4 Lolth, Spider Queen
 4 Esika's Chariot
+1 Murderous Rider
+2 Unexpected Windfall
+2 Murderous Rider
+3 Shatterskull Smashing
+3 Unexpected Windfall
+3 Forsworn Paladin
+3 Murderous Rider
+4 Forsworn Paladin
+4 Unexpected Windfall
+1 Plumb the Forbidden
+3 Hunt for Specimens
+4 Hunt for Specimens
 1 Needleverge Pathway
 1 Showdown of the Skalds
 1 Malakir Rebirth
@@ -321,20 +305,25 @@
 3 Showdown of the Skalds
 4 Brightclimb Pathway
 4 Needleverge Pathway
+4 Extus, Oriq Overlord
 4 Showdown of the Skalds
 4 Fireblade Charger
 1 Negate
+1 Eliminate
 4 Alrund's Epiphany
+1 Crippling Fear
 1 Woodland Chasm
+1 Feign Death
 1 Tajuru Blightblade
 1 Draugr Necromancer
 1 Priest of the Haunted Edge
 1 Blizzard Brawl
 2 Skeletal Swarming
-2 Priest of the Haunted Edge
 2 Draugr Necromancer
+2 Feign Death
 2 Tajuru Blightblade
 2 Blizzard Brawl
+2 Priest of the Haunted Edge
 2 Woodland Chasm
 3 Skeletal Swarming
 3 Blizzard Brawl
@@ -367,18 +356,17 @@
 7 Snow-Covered Plains
 1 Elspeth's Nightmare
 1 Kaya the Inexorable
-1 Immersturm Predator
 1 Inscription of Ruin
 1 Acquisitions Expert
 1 Fracture
 2 Elspeth's Nightmare
-2 Immersturm Predator
 2 Acquisitions Expert
 2 Fracture
-2 Valki, God of Lies
 2 Inscription of Ruin
 3 Immersturm Predator
 3 Acquisitions Expert
 4 Acquisitions Expert
+6 Mountain
+7 Mountain
 8 Mountain
 23 Swamp

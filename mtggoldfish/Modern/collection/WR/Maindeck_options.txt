@@ -1,43 +1,48 @@
-1 Sacred Foundry
-1 Flagstones of Trokair
-1 Boom/Bust
-1 Rustvale Bridge
-2 Sacred Foundry
-2 Flagstones of Trokair
-2 Boom/Bust
-3 Flagstones of Trokair
-3 Boom/Bust
-4 Flagstones of Trokair
-4 Boom/Bust
-1 Sunbaked Canyon
-1 Nahiri, the Harbinger
-2 Sunbaked Canyon
-2 Nahiri, the Harbinger
-2 Rustvale Bridge
-2 Cascading Cataracts
-3 Sacred Foundry
-3 Nahiri, the Harbinger
-3 Rustvale Bridge
-4 Nahiri, the Harbinger
-4 Sacred Foundry
-1 Plains
-1 Prismatic Ending
-2 Prismatic Ending
-3 Prismatic Ending
+1 Abrade
+2 Abrade
+1 Urza's Saga
+1 Shadowspear
+2 Urza's Saga
+3 Urza's Saga
+4 Urza's Saga
+3 Abrade
+1 Expedition Map
+1 Ragavan, Nimble Pilferer
+1 Pyrite Spellbomb
+1 Soul-Guide Lantern
+1 Unholy Heat
+2 Ragavan, Nimble Pilferer
+2 Unholy Heat
+3 Unholy Heat
+3 Ragavan, Nimble Pilferer
+4 Unholy Heat
+1 Mind Stone
+1 Relic of Progenitus
+1 Koth of the Hammer
+1 Shatterskull Smashing
+1 Darksteel Citadel
+1 Pia and Kiran Nalaar
+2 Mind Stone
+2 Pia and Kiran Nalaar
+2 Darksteel Citadel
+2 Koth of the Hammer
+3 Darksteel Citadel
+3 Koth of the Hammer
+4 Ragavan, Nimble Pilferer
+4 Darksteel Citadel
+6 Mountain
+7 Mountain
+8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+13 Mountain
+14 Mountain
 1 Lightning Bolt
 2 Lightning Bolt
 3 Lightning Bolt
 4 Lightning Bolt
-1 Emrakul, the Aeons Torn
-1 Chalice of the Void
-2 Chalice of the Void
-3 Chalice of the Void
-4 Rustvale Bridge
-1 Rip Apart
-1 Wrath of God
-2 Rip Apart
-2 Wrath of God
-4 Prismatic Ending
 1 Pillage
 2 Pillage
 3 Sunbaked Canyon
@@ -58,8 +63,8 @@
 3 Snow-Covered Mountain
 3 Ghostly Prison
 4 Inspiring Vantage
-1 Godless Shrine
 1 Lingering Souls
+1 Godless Shrine
 1 Cling to Dust
 1 Arid Mesa
 1 Vindicate
@@ -72,9 +77,9 @@
 1 Swamp
 1 Goldmire Bridge
 1 Damn
-2 Vindicate
 2 Kaya, Orzhov Usurper
 2 Cling to Dust
+2 Vindicate
 2 Marsh Flats
 2 Drossforge Bridge
 2 Damn
@@ -86,39 +91,34 @@
 4 Damn
 1 Windswept Heath
 1 Stomping Ground
+1 Tarmogoyf
 1 Endurance
 1 Wooded Foothills
-1 Klothys, God of Destiny
-1 Tarmogoyf
 1 Wrenn and Six
+1 Klothys, God of Destiny
 1 Pithing Needle
 1 Slagwoods Bridge
 1 Forest
 1 Sheltered Thicket
 1 Brainstone
-2 Wooded Foothills
-2 Soul-Guide Lantern
 2 Tarmogoyf
+2 Wooded Foothills
 2 Wrenn and Six
-2 Klothys, God of Destiny
 2 Pyrite Spellbomb
+2 Klothys, God of Destiny
+2 Soul-Guide Lantern
 2 Stomping Ground
 2 Slagwoods Bridge
+3 Tarmogoyf
 3 Wooded Foothills
 3 Wrenn and Six
 3 Stomping Ground
 3 Slagwoods Bridge
-3 Tarmogoyf
+4 Tarmogoyf
 4 Wooded Foothills
 4 Wrenn and Six
-4 Tarmogoyf
 4 Slagwoods Bridge
 4 Stomping Ground
-1 Talisman of Conviction
-3 Cascading Cataracts
-4 Seasoned Pyromancer
-4 Chalice of the Void
-4 Cascading Cataracts
 1 Valakut Awakening
 1 Liquimetal Coating
 1 Karn, the Great Creator
@@ -127,5 +127,5 @@
 2 Liquimetal Coating
 3 Karn, the Great Creator
 3 Liquimetal Coating
-4 Karn, the Great Creator
 4 Abrade
+4 Karn, the Great Creator

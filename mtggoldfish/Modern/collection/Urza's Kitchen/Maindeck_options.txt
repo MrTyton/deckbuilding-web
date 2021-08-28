@@ -1,24 +1,24 @@
+3 Island
+1 Prismatic Ending
+2 Prismatic Ending
 3 Scalding Tarn
 1 Hallowed Fountain
 2 Flooded Strand
 3 Flooded Strand
-3 Darkslick Shores
-4 Darkslick Shores
-1 Pithing Needle
 4 Flooded Strand
 1 Plains
 1 Spirebluff Canal
 2 Spirebluff Canal
 4 Scalding Tarn
-1 Sacred Foundry
-1 Nihil Spellbomb
-2 Misty Rainforest
 4 Emry, Lurker of the Loch
+1 Nihil Spellbomb
+1 Sacred Foundry
+2 Misty Rainforest
 3 Prismatic Ending
 3 Misty Rainforest
-1 Mountain
 2 Bone Shards
 2 Fatal Push
+1 Mountain
 4 Misty Rainforest
 1 Breeding Pool
 1 Forest
@@ -35,12 +35,13 @@
 2 Gilded Goose
 3 Gilded Goose
 4 Gilded Goose
+1 Soul-Guide Lantern
 1 Botanical Sanctum
 1 Overgrown Tomb
 1 Blooming Marsh
-1 Soul-Guide Lantern
 2 Breeding Pool
 2 Botanical Sanctum
+3 Watery Grave
 4 Expressive Iteration
 1 Mox Amber
 4 Prismatic Ending
@@ -48,7 +49,6 @@
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 1 Esper Sentinel
-3 Watery Grave
 4 Ragavan, Nimble Pilferer
 1 Galvanic Blast
 1 Marsh Flats
@@ -63,19 +63,19 @@
 3 Ranger-Captain of Eos
 4 Ranger-Captain of Eos
 1 Arid Mesa
+1 Giver of Runes
+1 Concealed Courtyard
+1 Thraben Inspector
 2 Arid Mesa
 2 Plains
 2 Marsh Flats
+2 Concealed Courtyard
+2 Thraben Inspector
+2 Godless Shrine
 3 Marsh Flats
+3 Concealed Courtyard
 4 Esper Sentinel
 4 Marsh Flats
-1 Thraben Inspector
-1 Giver of Runes
-1 Concealed Courtyard
-2 Thraben Inspector
-2 Concealed Courtyard
-2 Godless Shrine
-3 Concealed Courtyard
 4 Concealed Courtyard
 1 Teferi, Time Raveler
 1 Seachrome Coast
@@ -92,16 +92,17 @@
 1 Stomping Ground
 1 Wrenn and Six
 2 Wrenn and Six
+1 Darksteel Citadel
 1 Minamo, School at Water's Edge
 1 Spire of Industry
-1 Darksteel Citadel
+1 Clearwater Pathway
 3 Galvanic Blast
-1 Riverglide Pathway
-2 Riverglide Pathway
-2 Mox Amber
-2 Engineered Explosives
-3 Riverglide Pathway
 3 Fatal Push
+1 Riverglide Pathway
+2 Engineered Explosives
+2 Mox Amber
+2 Riverglide Pathway
+3 Riverglide Pathway
 1 Portable Hole
 2 Portable Hole
 3 Portable Hole
@@ -119,14 +120,14 @@
 1 Gut Shot
 1 Cavern of Souls
 1 Talisman of Progress
-2 Gut Shot
 2 Cavern of Souls
+2 Gut Shot
 2 Hallowed Fountain
 2 Talisman of Progress
-3 Talisman of Progress
 3 Cavern of Souls
-4 Talisman of Progress
+3 Talisman of Progress
 4 Cavern of Souls
+4 Talisman of Progress
 1 Copperline Gorge
 1 Shardless Agent
 2 Copperline Gorge
@@ -138,33 +139,7 @@
 1 Wooded Foothills
 1 Yavimaya, Cradle of Growth
 2 Wooded Foothills
-3 Wooded Foothills
 3 Wrenn and Six
+3 Wooded Foothills
 4 Wooded Foothills
 4 Wrenn and Six
-1 Charming Prince
-1 Aether Vial
-1 Imperial Recruiter
-1 Kaldra Compleat
-1 Stoneforge Mystic
-1 Batterskull
-1 Skyclave Apparition
-1 Castle Ardenvale
-1 Flametongue Yearling
-1 Seasoned Pyromancer
-2 Sacred Foundry
-2 Aether Vial
-2 Imperial Recruiter
-2 Stoneforge Mystic
-2 Seasoned Pyromancer
-2 Flametongue Yearling
-3 Sacred Foundry
-3 Aether Vial
-3 Arid Mesa
-3 Stoneforge Mystic
-3 Imperial Recruiter
-4 Aether Vial
-4 Sacred Foundry
-4 Stoneforge Mystic
-4 Arid Mesa
-4 Imperial Recruiter

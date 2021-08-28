@@ -1,34 +1,150 @@
+1 Ancient Tomb
+1 Chalice of the Void
+2 Ancient Tomb
+2 Chalice of the Void
+3 Ancient Tomb
+3 Chalice of the Void
+4 Ancient Tomb
+1 Sundering Titan
+1 Crucible of Worlds
+1 Mox Diamond
+1 Sphere of Resistance
+1 Spire of Industry
+1 Tangle Wire
+1 Glimmervoid
+1 Goblin Welder
+1 Lotus Petal
+1 Mox Opal
+1 Pithing Needle
+1 Manifold Key
+1 Trinisphere
+1 Smokestack
+1 Thirst for Knowledge
+1 Candelabra of Tawnos
+1 Wasteland
+1 City of Traitors
+1 Metalworker
+1 Grim Monolith
+2 Mox Diamond
+2 Sphere of Resistance
+2 Crucible of Worlds
+2 Goblin Welder
+2 Glimmervoid
+2 Mox Opal
+2 Pithing Needle
+2 Trinisphere
+2 Wasteland
+2 City of Traitors
+2 Tangle Wire
+2 Smokestack
+2 Thirst for Knowledge
+2 Spire of Industry
+2 Grim Monolith
+2 Metalworker
+3 Sphere of Resistance
+3 Goblin Welder
+3 Glimmervoid
+3 Mox Opal
+3 Pithing Needle
+3 Wasteland
+3 Crucible of Worlds
+3 Spire of Industry
+3 City of Traitors
+3 Tangle Wire
+3 Trinisphere
+3 Grim Monolith
+3 Smokestack
+3 Thirst for Knowledge
+4 Goblin Welder
+4 Thirst for Knowledge
+4 Tangle Wire
+4 Wasteland
+4 Smokestack
+2 Anger
+3 Arid Mesa
+1 Cavern of Souls
+2 Cavern of Souls
+1 Veteran Explorer
+1 Verdant Catacombs
+1 Forest
+1 Cabal Therapy
+1 Swamp
+1 Dryad Arbor
+1 Sylvan Library
+1 Green Sun's Zenith
+2 Veteran Explorer
+2 Bayou
+2 Green Sun's Zenith
+2 Verdant Catacombs
+2 Cabal Therapy
+3 Cabal Therapy
+3 Veteran Explorer
+3 Green Sun's Zenith
+3 Verdant Catacombs
+4 Cabal Therapy
+4 Verdant Catacombs
+4 Veteran Explorer
+1 Opposition Agent
+1 Vivien, Monsters' Advocate
+1 Terror of the Peaks
+1 Greater Gargadon
+1 Klothys, God of Destiny
+1 Karakas
+1 Kalitas, Traitor of Ghet
+1 Assassin's Trophy
+1 Field of the Dead
+1 Grist, the Hunger Tide
+1 Ruination Rioter
+1 Snow-Covered Forest
+1 Endurance
+1 Titania, Protector of Argoth
+1 Dauthi Voidwalker
+1 Sarkhan Vol
+1 Scavenging Ooze
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
+2 Opposition Agent
+2 Greater Gargadon
+2 Dauthi Voidwalker
+2 Assassin's Trophy
+2 Endurance
+3 Endurance
+3 Opposition Agent
+3 Assassin's Trophy
+3 Greater Gargadon
+4 Green Sun's Zenith
+4 Greater Gargadon
 3 Cavern of Souls
 4 Cavern of Souls
 1 Diabolic Intent
 1 Professor Onyx
 1 Plains
 1 Thoughtseize
+1 Village Rites
 1 Phyrexian Tower
 1 Grand Abolisher
-1 Veil of Summer
 1 Vraska, Golgari Queen
 1 Witherbloom Apprentice
 1 Chain of Smog
+1 Veil of Summer
 1 Ugin, the Spirit Dragon
-1 Windswept Heath
 1 Savannah
 1 Scrubland
-1 Village Rites
+1 Windswept Heath
 1 Arena Rector
-2 Thoughtseize
-2 Sylvan Library
-2 Swamp
 2 Professor Onyx
+2 Thoughtseize
 2 Forest
+2 Swamp
+2 Sylvan Library
 2 Chain of Smog
+2 Veil of Summer
 2 Witherbloom Apprentice
 2 Grand Abolisher
 2 Windswept Heath
-2 Plains
 2 Arena Rector
-2 Veil of Summer
 2 Phyrexian Tower
+2 Plains
 3 Forest
 3 Arena Rector
 3 Chain of Smog
@@ -36,57 +152,49 @@
 4 Arena Rector
 4 Chain of Smog
 1 Urza's Saga
-1 Ancient Tomb
 1 Shadowspear
 1 Great Furnace
 1 Moraug, Fury of Akoum
 1 Sethron, Hurloon General
+1 Neheb, the Eternal
 1 Neheb, Dreadhorde Champion
-1 Simian Spirit Guide
 1 Cursed Scroll
 1 Goblin Rabblemaster
 1 Chrome Mox
 1 Akoum Warrior
 1 Didgeridoo
-1 Neheb, the Eternal
-1 Chalice of the Void
+1 Simian Spirit Guide
 2 Urza's Saga
 2 Great Furnace
-2 Ancient Tomb
-2 Neheb, the Eternal
+2 Moraug, Fury of Akoum
 2 Goblin Rabblemaster
-2 Chrome Mox
 2 Didgeridoo
 2 Neheb, Dreadhorde Champion
 2 Simian Spirit Guide
-2 Chalice of the Void
-2 Mountain
-2 Moraug, Fury of Akoum
+2 Neheb, the Eternal
 2 Akoum Warrior
+2 Chrome Mox
 2 Sethron, Hurloon General
 3 Urza's Saga
 3 Great Furnace
-3 Didgeridoo
-3 Ancient Tomb
 3 Moraug, Fury of Akoum
-3 Chalice of the Void
-3 Goblin Rabblemaster
-3 Neheb, the Eternal
+3 Didgeridoo
 3 Sethron, Hurloon General
+3 Neheb, the Eternal
 3 Neheb, Dreadhorde Champion
 3 Simian Spirit Guide
-3 Mountain
+3 Goblin Rabblemaster
 3 Chrome Mox
+3 Mountain
 4 Urza's Saga
 4 Great Furnace
 4 Chalice of the Void
 4 Neheb, the Eternal
+4 Didgeridoo
 4 Sethron, Hurloon General
 4 Goblin Rabblemaster
 4 Neheb, Dreadhorde Champion
-4 Ancient Tomb
 4 Chrome Mox
-4 Didgeridoo
 4 Simian Spirit Guide
 4 Mountain
 4 Moraug, Fury of Akoum

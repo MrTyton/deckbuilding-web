@@ -9,10 +9,10 @@
 1 Tinder Wall
 1 Seething Song
 1 Rite of Flame
-2 Desperate Ritual
 2 Rite of Flame
 2 Seething Song
 2 Tinder Wall
+2 Desperate Ritual
 3 Goblin Charbelcher
 3 Rite of Flame
 3 Seething Song
@@ -115,9 +115,9 @@
 1 Skyshroud Cutter
 1 Odious Trow
 3 Tendrils of Agony
-1 Past in Flames
 1 Shield Sphere
 1 Entomb
+1 Past in Flames
 1 Grief
 2 Entomb
 2 Shield Sphere
@@ -127,20 +127,6 @@
 4 Grief
 4 Entomb
 4 Echo of Eons
-1 Grim Monolith
-1 Serum Powder
-1 Pyretic Ritual
-2 Pyretic Ritual
-2 Grim Monolith
-2 Serum Powder
-3 Pyretic Ritual
-3 Irencrag Feat
-3 Grim Monolith
-3 Serum Powder
-4 Pyretic Ritual
-4 Irencrag Feat
-4 Grim Monolith
-4 Serum Powder
 1 Street Wraith
 1 Pyroblast
 2 Taiga
@@ -149,12 +135,25 @@
 3 Pyroblast
 3 Street Wraith
 4 Street Wraith
+1 Grim Monolith
+1 Serum Powder
+1 Pyretic Ritual
+2 Grim Monolith
+2 Serum Powder
+2 Pyretic Ritual
+3 Grim Monolith
+3 Serum Powder
+3 Irencrag Feat
+3 Pyretic Ritual
+4 Grim Monolith
+4 Irencrag Feat
+4 Serum Powder
+4 Pyretic Ritual
 1 Trinisphere
 1 Mountain
-1 Zuran Orb
 1 Pithing Needle
-1 Runed Halo
 1 Aura of Silence
+1 Runed Halo
 1 Wrath of God
 1 Ghostly Prison
 1 Orim's Chant
@@ -166,13 +165,13 @@
 1 Land Tax
 1 Helm of Obedience
 1 Banishing Light
+1 Zuran Orb
 1 Mox Diamond
 1 Enlightened Tutor
 1 Plains
 1 Solitary Confinement
 1 Undiscovered Paradise
 1 Swords to Plowshares
-2 Wrath of God
 2 Banishing Light
 2 Enlightened Tutor
 2 Rest in Peace
@@ -182,9 +181,10 @@
 2 Helm of Obedience
 2 Scroll Rack
 2 Land Tax
+2 Wrath of God
 2 Orim's Chant
-3 Rest in Peace
 3 Banishing Light
+3 Rest in Peace
 3 Enlightened Tutor
 3 Orim's Chant
 3 Plains

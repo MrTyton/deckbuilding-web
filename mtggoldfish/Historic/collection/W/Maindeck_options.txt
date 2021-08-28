@@ -80,8 +80,8 @@
 2 Inspiring Vantage
 3 Inspiring Vantage
 4 Inspiring Vantage
-1 Godless Shrine
 1 Brightclimb Pathway
+1 Godless Shrine
 2 Brightclimb Pathway
 3 Brightclimb Pathway
 8 Plains
@@ -154,8 +154,8 @@
 3 Light Up the Stage
 4 Mountain
 4 Light Up the Stage
-1 Treasure Vault
 1 Silver Raven
+1 Treasure Vault
 1 Shadowspear
 2 Shadowspear
 2 Silver Raven
@@ -262,16 +262,16 @@
 3 Glacial Fortress
 4 Glacial Fortress
 1 Sejiri Shelter
-1 Lurrus of the Dream-Den
 1 Crawling Barrens
+1 Lurrus of the Dream-Den
 1 Tyrite Sanctum
-2 Sejiri Shelter
 2 Crawling Barrens
+2 Sejiri Shelter
 2 Lurrus of the Dream-Den
 2 Tyrite Sanctum
 3 Containment Priest
-3 Sejiri Shelter
 3 Lurrus of the Dream-Den
+3 Sejiri Shelter
 3 Tyrite Sanctum
 4 Containment Priest
 4 Declaration in Stone
@@ -342,17 +342,6 @@
 4 Stalwart Valkyrie
 4 Daybreak Chimera
 4 Healer's Hawk
-1 Heart of Kiran
-1 Chief of the Foundry
-2 Heart of Kiran
-2 Chief of the Foundry
-2 Toolcraft Exemplar
-3 Shefet Dunes
-3 Toolcraft Exemplar
-3 Chief of the Foundry
-4 Shefet Dunes
-4 Chief of the Foundry
-4 Toolcraft Exemplar
 1 Bound in Gold
 1 Solid Footing
 1 Griffin Sentinel
@@ -376,3 +365,14 @@
 4 Solid Footing
 19 Plains
 20 Snow-Covered Plains
+1 Heart of Kiran
+1 Chief of the Foundry
+2 Heart of Kiran
+2 Chief of the Foundry
+2 Toolcraft Exemplar
+3 Shefet Dunes
+3 Toolcraft Exemplar
+3 Chief of the Foundry
+4 Shefet Dunes
+4 Chief of the Foundry
+4 Toolcraft Exemplar

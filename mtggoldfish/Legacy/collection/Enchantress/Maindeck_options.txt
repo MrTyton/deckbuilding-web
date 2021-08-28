@@ -8,8 +8,8 @@
 1 Carpet of Flowers
 1 Karakas
 2 Sterling Grove
-1 Helm of Obedience
 1 Rest in Peace
+1 Helm of Obedience
 2 Helm of Obedience
 2 Rest in Peace
 2 Solitary Confinement
@@ -79,10 +79,12 @@
 1 Brazen Borrower
 1 Bitterblossom
 1 Moat
-1 Detention Sphere
+1 Snow-Covered Swamp
+1 Snow-Covered Mountain
 1 Trail of Crumbs
-1 Trial of Ambition
+1 Detention Sphere
 1 The Abyss
+1 Trial of Ambition
 1 Engineered Plague
 1 Supreme Verdict
 1 Omen of the Forge
@@ -91,8 +93,6 @@
 1 Happily Ever After
 1 Emrakul, the Aeons Torn
 1 Arcum's Astrolabe
-1 Snow-Covered Mountain
-1 Snow-Covered Swamp
 2 Force of Will
 2 Shark Typhoon
 2 Trail of Crumbs
@@ -118,15 +118,15 @@
 1 The Tabernacle at Pendrell Vale
 1 Rishadan Port
 1 Mox Diamond
-1 Wasteland
 1 Field of the Dead
+1 Wasteland
 1 Dark Depths
 1 Valakut Exploration
 1 Thespian's Stage
 1 Crop Rotation
 1 Bojuka Bog
-2 Savannah
 2 Wasteland
+2 Savannah
 2 Life from the Loam
 2 Mox Diamond
 2 Thespian's Stage
