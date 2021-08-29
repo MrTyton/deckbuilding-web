@@ -82,8 +82,8 @@
 3 Dark Ritual
 3 Leyline of the Void
 3 Curse of Misfortunes
-4 Hagra Mauling
 4 Karn, the Great Creator
+4 Hagra Mauling
 4 Dark Ritual
 4 Curse of Misfortunes
 4 Leyline of the Void
@@ -170,13 +170,13 @@
 2 Smuggler's Copter
 2 Retrofitter Foundry
 2 Spellskite
-1 Thought Monitor
-1 Baleful Strix
 1 Emry, Lurker of the Loch
 1 Seat of the Synod
+1 Thought Monitor
+1 Baleful Strix
+2 Emry, Lurker of the Loch
 2 Mishra's Bauble
 2 Volcanic Island
-2 Emry, Lurker of the Loch
 3 Mishra's Bauble
 1 Tundra
 1 Island
@@ -201,10 +201,10 @@
 3 Badlands
 4 Great Furnace
 4 Chromatic Star
-1 Inventors' Fair
 1 Buried Ruin
 1 Engineered Explosives
 1 Krark-Clan Ironworks
+1 Inventors' Fair
 1 Scrap Trawler
 1 Myr Retriever
 2 Ensnaring Bridge
@@ -214,10 +214,10 @@
 1 Spine of Ish Sah
 1 Wurmcoil Engine
 1 Phyrexian Metamorph
-1 Karakas
-1 Phyrexian Revoker
 1 Rustvale Bridge
 1 Thrill of Possibility
+1 Karakas
+1 Phyrexian Revoker
 1 Daretti, Scrap Savant
 2 Daretti, Scrap Savant
 2 Rustvale Bridge
@@ -242,9 +242,9 @@
 1 Punishing Fire
 1 Grove of the Burnwillows
 1 Eldrazi Temple
-1 Hazoret the Fervent
 1 Purphoros's Intervention
 1 Thought-Knot Seer
+1 Hazoret the Fervent
 1 Fiery Confluence
 1 Reality Smasher
 2 Punishing Fire

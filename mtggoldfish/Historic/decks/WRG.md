@@ -30,10 +30,10 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    3|[Castle Ardenvale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473200)      |                    1|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)    |
-|                    4|[Showdown of the Skalds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503845)|                    1|[Shepherd of the Flock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472990)|
-|                    1|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)        |                    1|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)  |
-|                     |                                                                                                 |                    1|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)       |
+|                    3|[Castle Ardenvale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473200)      |                    1|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)  |
+|                    4|[Showdown of the Skalds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503845)|                    1|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)       |
+|                    1|[Militia Bugler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447165)        |                    1|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                  |
 |                     |                                                                                                 |                    2|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)    |
-|                     |                                                                                                 |                    1|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                  |
+|                     |                                                                                                 |                    1|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)    |
+|                     |                                                                                                 |                    1|[Shepherd of the Flock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472990)|
 

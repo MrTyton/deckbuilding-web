@@ -1,4 +1,4 @@
-1 Leyline of the Void
+3 Fury
 1 Rest in Peace
 2 Rest in Peace
 1 Chalice of the Void
@@ -17,56 +17,56 @@
 1 Force of Negation
 2 Veil of Summer
 2 Alpine Moon
-2 Chalice of the Void
 1 Yorion, Sky Nomad
 4 Teferi, Time Raveler
 1 Path to Exile
+2 Chalice of the Void
 1 Jegantha, the Wellspring
 2 Path to Exile
 1 Cindervines
 1 Gaddock Teeg
 3 Path to Exile
 2 Gaddock Teeg
-1 Cleansing Wildfire
-2 Endurance
-1 Prismatic Ending
 1 Emrakul, the Aeons Torn
+1 Prismatic Ending
+2 Endurance
 4 Path to Exile
 2 Cindervines
 1 Lightning Helix
 1 Kataki, War's Wage
 2 Lightning Helix
 1 Engineered Explosives
-2 Stony Silence
 1 Meddling Mage
 2 Meddling Mage
 3 Meddling Mage
-1 Vindicate
 2 Kataki, War's Wage
+1 Vindicate
 1 Rule of Law
+2 Stony Silence
+1 Cleansing Wildfire
 1 Lightning Bolt
 2 Lightning Bolt
 1 Detention Sphere
 1 Dovin's Veto
 1 Crumble to Dust
 1 Counterspell
-2 Cleansing Wildfire
-3 Cleansing Wildfire
+1 Blood Moon
 3 Leyline of the Void
 4 Leyline of the Void
+2 Cleansing Wildfire
+3 Cleansing Wildfire
+1 Lavinia, Azorius Renegade
+3 Force of Vigor
+2 Blood Moon
+4 Fury
+2 Prismatic Ending
 3 Rest in Peace
 1 Cursed Totem
 2 Cursed Totem
 3 Cursed Totem
 4 Cleansing Wildfire
-3 Chalice of the Void
-1 Blood Moon
-3 Force of Vigor
-1 Lavinia, Azorius Renegade
-2 Blood Moon
-4 Fury
-2 Prismatic Ending
 2 Brazen Borrower
+3 Chalice of the Void
 3 Veil of Summer
 2 Force of Negation
 2 Counterspell
@@ -77,7 +77,6 @@
 1 Sanctifier en-Vec
 1 Run Afoul
 1 Fracturing Gust
-4 Chalice of the Void
 1 Collector Ouphe
 4 Force of Vigor
 1 Celestial Purge
@@ -88,6 +87,7 @@
 2 Timely Reinforcements
 2 Flusterstorm
 1 Assassin's Trophy
+1 Ingot Chewer
 1 Spreading Seas
 3 Counterspell
 1 Back to Nature
@@ -96,32 +96,34 @@
 1 Nahiri, the Harbinger
 2 Nahiri, the Harbinger
 3 Nahiri, the Harbinger
+4 Chalice of the Void
 3 Endurance
 1 Anger of the Gods
 2 Celestial Purge
 3 Alpine Moon
-4 Leyline of Sanctity
 2 Detention Sphere
-1 Ingot Chewer
+4 Leyline of Sanctity
 1 Obsidian Charmaw
 2 Obsidian Charmaw
 3 Cindervines
 1 Soul-Guide Lantern
-1 Ashiok, Dream Render
 1 Torpor Orb
+1 Ashiok, Dream Render
+2 Ingot Chewer
 1 Ancient Grudge
 1 Klothys, God of Destiny
 1 Bonecrusher Giant
+1 Avalanche Riders
+1 Burrenton Forge-Tender
+1 Kor Firewalker
+2 Kor Firewalker
 3 Force of Negation
 3 Stony Silence
 3 Gaddock Teeg
 3 Celestial Purge
-1 Avalanche Riders
 1 Remand
 3 Obsidian Charmaw
-2 Ingot Chewer
 3 Ingot Chewer
-1 Burrenton Forge-Tender
 1 Archangel Avacyn
 1 Scavenging Ooze
 1 Linvala, Keeper of Silence
@@ -132,33 +134,31 @@
 1 Akroma, Angel of Fury
 2 Akroma, Angel of Fury
 4 Meddling Mage
-1 Natural State
 2 Sanctifier en-Vec
-1 Kor Firewalker
-2 Kor Firewalker
+1 Natural State
 1 Relic of Progenitus
 2 Relic of Progenitus
 1 Omnath, Locus of Creation
-1 Tormod's Crypt
 1 Iona, Shield of Emeria
-1 By Force
 1 Hurkyl's Recall
+1 By Force
 1 Chancellor of the Forge
+1 Tormod's Crypt
 1 Grafdigger's Cage
 1 Ulamog, the Infinite Gyre
 1 Elder Gargaroth
 1 Phyrexian Revoker
+1 Seasoned Pyromancer
+1 Birds of Paradise
 1 Mantis Rider
 1 Anafenza, the Foremost
-1 Birds of Paradise
-1 Seasoned Pyromancer
 1 Declaration in Stone
 1 Dusk/Dawn
 1 Unholy Heat
 2 Unholy Heat
 2 Geist of Saint Traft
-1 Thalia, Guardian of Thraben
 1 Knight of Autumn
+1 Thalia, Guardian of Thraben
 1 Deafening Silence
 2 Knight of Autumn
 2 Assassin's Trophy
@@ -170,8 +170,8 @@
 2 Weather the Storm
 2 Nihil Spellbomb
 1 Kolaghan's Command
-1 Abrupt Decay
 1 Wheel of Sun and Moon
+1 Abrupt Decay
 2 Ashiok, Dream Render
 2 Abrupt Decay
 1 Monastery Mentor
@@ -181,6 +181,14 @@
 1 Sword of Fire and Ice
 2 Drannith Magistrate
 2 Jegantha, the Wellspring
+1 Gemstone Caverns
+1 Beast Within
+1 Ugin, the Spirit Dragon
+1 Ricochet Trap
+1 Shifting Ceratops
+2 Beast Within
+2 Shifting Ceratops
+2 Ricochet Trap
 1 Sanctum Prelate
 1 Qasali Pridemage
 2 Sanctum Prelate
@@ -190,21 +198,30 @@
 2 Deafening Clarion
 2 Anathemancer
 3 Anathemancer
+2 Ancient Grudge
+1 Surgical Extraction
+1 Destructive Revelry
+1 Pillar of Flame
+1 Ranger of Eos
+2 Destructive Revelry
+2 Surgical Extraction
+2 Pillar of Flame
+3 Kor Firewalker
+3 Pillar of Flame
 1 Tidehollow Sculler
 2 Tidehollow Sculler
 2 Soul-Guide Lantern
 3 Tidehollow Sculler
 4 Tidehollow Sculler
-4 Lightning Bolt
 1 Dromoka's Command
-1 Fatal Push
 1 Stubborn Denial
+1 Fatal Push
 2 Fatal Push
 2 Dromoka's Command
-2 Ancient Grudge
 2 Stubborn Denial
 3 Stubborn Denial
 4 Stubborn Denial
+4 Lightning Bolt
 3 Flusterstorm
 4 Flusterstorm
 4 Ingot Chewer

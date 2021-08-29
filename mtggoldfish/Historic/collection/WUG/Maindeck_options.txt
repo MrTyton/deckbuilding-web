@@ -42,109 +42,56 @@
 1 Toski, Bearer of Secrets
 2 Toski, Bearer of Secrets
 4 Hengegate Pathway
-1 Fabled Passage
-2 Fabled Passage
-3 Glacial Fortress
-3 Fabled Passage
-1 Snow-Covered Plains
-1 Faceless Haven
-2 Faceless Haven
-2 Snow-Covered Plains
-1 Memory Lapse
-1 Nissa, Who Shakes the World
-1 Breeding Pool
-1 Shark Typhoon
-2 Memory Lapse
-2 Nissa, Who Shakes the World
-2 Shark Typhoon
-2 Breeding Pool
-3 Shark Typhoon
-3 Memory Lapse
-3 Nissa, Who Shakes the World
-3 Breeding Pool
-4 Memory Lapse
-4 Nissa, Who Shakes the World
-4 Breeding Pool
-1 Hydroid Krasis
-2 Hydroid Krasis
-4 Shark Typhoon
-1 Irrigated Farmland
-1 Yasharn, Implacable Earth
-1 Scattered Groves
-1 Into the North
-1 Snow-Covered Island
-1 Snow-Covered Forest
-1 Arctic Treeline
-1 Rimewood Falls
-1 Wrath of God
-1 Narset, Parter of Veils
-1 Relic of Progenitus
-1 Commit/Memory
-2 Into the North
-2 Yasharn, Implacable Earth
-2 Snow-Covered Island
-2 Snow-Covered Forest
-2 Wrath of God
-2 Narset, Parter of Veils
-2 Relic of Progenitus
-3 Snow-Covered Forest
-3 Into the North
-4 Into the North
 1 Rest in Peace
 14 Plains
 1 Cleric Class
 2 The Book of Exalted Deeds
+1 Fabled Passage
+2 Fabled Passage
 5 Forest
-1 Mystical Dispute
-1 Brazen Borrower
+3 Fabled Passage
+1 Breeding Pool
+1 Memory Lapse
 1 Island
-1 Growth Spiral
 1 Castle Vantress
-2 Brazen Borrower
+1 Growth Spiral
+1 Nissa, Who Shakes the World
+1 Brazen Borrower
+1 Shark Typhoon
 2 Growth Spiral
-3 Brazen Borrower
+2 Breeding Pool
+2 Memory Lapse
+2 Nissa, Who Shakes the World
+2 Brazen Borrower
+2 Shark Typhoon
 3 Growth Spiral
+3 Breeding Pool
+3 Shark Typhoon
+3 Memory Lapse
+3 Brazen Borrower
+3 Nissa, Who Shakes the World
+4 Breeding Pool
 4 Growth Spiral
+4 Memory Lapse
+4 Nissa, Who Shakes the World
 1 Ephemerate
 1 Adventurous Impulse
 2 Adventurous Impulse
 3 Adventurous Impulse
 4 Adventurous Impulse
 1 Legion Angel
-1 Reidane, God of the Worthy
-1 Dromoka's Command
-2 Reidane, God of the Worthy
-2 Dromoka's Command
 1 Cave of the Frost Dragon
 1 Temple of Plenty
 2 Cave of the Frost Dragon
 2 Temple of Plenty
+1 Reidane, God of the Worthy
+1 Dromoka's Command
+2 Reidane, God of the Worthy
+2 Dromoka's Command
 1 Elite Spellbinder
 1 Basri Ket
 2 Basri Ket
-1 Arboreal Grazer
-2 Arboreal Grazer
-2 Commit/Memory
-3 Arboreal Grazer
-3 Relic of Progenitus
-4 Fabled Passage
-1 Abundant Harvest
-1 Aether Gust
-2 Abundant Harvest
-3 Wrath of God
-3 Abundant Harvest
-4 Abundant Harvest
-1 Godless Shrine
-1 Brightclimb Pathway
-1 Isolated Chapel
-1 Vito, Thorn of the Dusk Rose
-2 Emeria's Call
-2 Brightclimb Pathway
-2 Isolated Chapel
-2 Vito, Thorn of the Dusk Rose
-3 Brightclimb Pathway
-3 Vito, Thorn of the Dusk Rose
-4 Brightclimb Pathway
+3 Glacial Fortress
 1 Mana Tithe
 2 Mana Tithe
 2 Rest in Peace
@@ -154,8 +101,17 @@
 2 Selfless Savior
 3 Selfless Savior
 4 Selfless Savior
-3 Trelasarra, Moon Dancer
-4 Trelasarra, Moon Dancer
+1 Vito, Thorn of the Dusk Rose
+1 Godless Shrine
+1 Brightclimb Pathway
+1 Isolated Chapel
+2 Vito, Thorn of the Dusk Rose
+2 Emeria's Call
+2 Brightclimb Pathway
+2 Isolated Chapel
+3 Brightclimb Pathway
+3 Vito, Thorn of the Dusk Rose
+4 Brightclimb Pathway
 1 Labyrinth of Skophos
 1 Authority of the Consuls
 1 Aethersphere Harvester
@@ -170,72 +126,82 @@
 1 Swan Song
 2 Swan Song
 4 Linvala, Shield of Sea Gate
+1 Hinterland Harbor
 1 Ketria Triome
-1 Stomping Ground
 1 Steam Vents
-1 Scorching Dragonfire
+1 Stomping Ground
 1 Expansion/Explosion
 1 Sulfur Falls
-1 Hinterland Harbor
+1 Scorching Dragonfire
 1 Negate
+1 Mystical Dispute
 1 Mountain
+2 Hinterland Harbor
 2 Steam Vents
 2 Ketria Triome
 2 Stomping Ground
 2 Scorching Dragonfire
-2 Hinterland Harbor
-2 Sulfur Falls
 2 Expansion/Explosion
+2 Sulfur Falls
 2 Mystical Dispute
 3 Steam Vents
-3 Stomping Ground
 3 Ketria Triome
+3 Stomping Ground
 3 Hinterland Harbor
 3 Scorching Dragonfire
 3 Mystical Dispute
 3 Expansion/Explosion
 4 Stomping Ground
+4 Hinterland Harbor
+4 Shark Typhoon
+4 Scorching Dragonfire
 4 Brazen Borrower
 4 Ketria Triome
-4 Hinterland Harbor
-4 Scorching Dragonfire
 4 Expansion/Explosion
 1 Remorseful Cleric
 2 Remorseful Cleric
 3 Remorseful Cleric
 4 Remorseful Cleric
+3 Trelasarra, Moon Dancer
+4 Trelasarra, Moon Dancer
 1 You See a Guard Approach
-1 Unsummon
 1 Barkchannel Pathway
+1 Unsummon
+1 Hydroid Krasis
 1 Temple of Mystery
+1 Stern Dismissal
 1 Nightpack Ambusher
 1 Neutralize
-1 Stern Dismissal
 1 Frilled Mystic
+2 Island
 2 You See a Guard Approach
 2 Castle Vantress
 2 Barkchannel Pathway
-2 Unsummon
-2 Nightpack Ambusher
-2 Stern Dismissal
-2 Neutralize
-2 Island
 2 Temple of Mystery
+2 Hydroid Krasis
+2 Unsummon
+2 Stern Dismissal
+2 Nightpack Ambusher
+2 Neutralize
 2 Frilled Mystic
+3 Island
 3 Nightpack Ambusher
 3 Barkchannel Pathway
-3 Island
 3 Frilled Mystic
 4 Island
 4 Nightpack Ambusher
 4 Frilled Mystic
 4 Barkchannel Pathway
+1 Snow-Covered Plains
+1 Faceless Haven
 1 Adanto Vanguard
+2 Snow-Covered Plains
 2 Adanto Vanguard
 2 Cleric Class
+2 Faceless Haven
+3 Adanto Vanguard
 3 Faceless Haven
 3 Snow-Covered Plains
-3 Adanto Vanguard
 3 Cleric Class
 4 Snow-Covered Plains
 5 Snow-Covered Plains
