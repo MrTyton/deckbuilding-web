@@ -1,62 +1,69 @@
-1 Silver Raven
-2 Silver Raven
-3 Silver Raven
-4 Mutavault
 1 Riverglide Pathway
 2 Riverglide Pathway
 3 Island
-1 Hall of Storm Giants
 1 Sulfur Falls
 1 Goldspan Dragon
 1 Silumgar's Scorn
-1 Brazen Borrower
-1 Anger of the Gods
 1 Expressive Iteration
-1 Fabled Passage
 1 Glorybringer
-1 Mystical Dispute
 1 Mountain
-1 Opt
-1 Draconic Roar
 2 Sulfur Falls
 2 Silumgar's Scorn
 2 Goldspan Dragon
-2 Hall of Storm Giants
-2 Anger of the Gods
 2 Expressive Iteration
-2 Draconic Roar
-2 Mountain
-2 Fabled Passage
-2 Opt
 3 Sulfur Falls
 3 Silumgar's Scorn
 3 Goldspan Dragon
 3 Riverglide Pathway
-3 Draconic Roar
 3 Expressive Iteration
-3 Opt
-3 Mountain
 4 Sulfur Falls
 4 Goldspan Dragon
+4 Riverglide Pathway
+1 Fabled Passage
+1 Opt
+1 Anger of the Gods
+2 Anger of the Gods
+2 Fabled Passage
+2 Opt
+3 Opt
 4 Silumgar's Scorn
 4 Opt
+2 Glorybringer
+1 Hall of Storm Giants
+1 Brazen Borrower
+2 Mountain
+3 Mountain
 4 Expressive Iteration
-4 Riverglide Pathway
-4 Island
-1 The Royal Scions
-2 The Royal Scions
-3 Stubborn Denial
+1 Silver Raven
+2 Silver Raven
+3 Silver Raven
+4 Mutavault
+1 Mystical Dispute
+1 Draconic Roar
+2 Hall of Storm Giants
+2 Draconic Roar
+3 Draconic Roar
 1 Dig Through Time
-1 Inferno of the Star Mounts
+4 Island
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 2 Brazen Borrower
+4 Mountain
+1 Dragon's Fire
+1 The Royal Scions
+2 The Royal Scions
+3 Stubborn Denial
+1 Inferno of the Star Mounts
 2 Mystical Dispute
 3 Hall of Storm Giants
 4 Draconic Roar
-2 Glorybringer
-4 Mountain
 4 Silver Raven
+3 Anger of the Gods
+1 Niv-Mizzet, Parun
+1 Castle Vantress
+1 Chandra, Torch of Defiance
+2 Dragon's Fire
+3 Dragon's Fire
 1 Den of the Bugbear
 2 Spire of Industry
 1 Shark Typhoon
@@ -68,6 +75,25 @@
 2 Behold the Multiverse
 3 Fabled Passage
 4 Fabled Passage
+1 Volatile Fjord
+1 Treasure Cruise
+1 Abrade
+2 Niv-Mizzet, Parun
+2 Treasure Cruise
+3 Treasure Cruise
+4 Anger of the Gods
+4 Treasure Cruise
+1 Prismari Command
+1 Torrential Gearhulk
+1 Magma Opus
+1 Sprite Dragon
+2 Torrential Gearhulk
+2 Magma Opus
+2 Prismari Command
+2 Sprite Dragon
+3 Magma Opus
+3 Sprite Dragon
+4 Dragon's Fire
 1 Steel Overseer
 1 Metallic Rebuke
 1 Skilled Animator
@@ -89,14 +115,21 @@
 11 Island
 12 Island
 13 Island
-1 Dragon's Fire
-1 Niv-Mizzet, Parun
-1 Treasure Cruise
-1 Volatile Fjord
-1 Abrade
-2 Niv-Mizzet, Parun
-2 Treasure Cruise
-3 Anger of the Gods
-3 Treasure Cruise
-4 Anger of the Gods
-4 Treasure Cruise
+1 Wandering Fumarole
+1 Temple of Epiphany
+1 Rekindling Phoenix
+1 Glasspool Mimic
+2 Chandra, Torch of Defiance
+2 Rekindling Phoenix
+2 Temple of Epiphany
+3 Brazen Borrower
+3 Glorybringer
+3 Bonecrusher Giant
+3 Rekindling Phoenix
+3 Chandra, Torch of Defiance
+4 Brazen Borrower
+4 Rekindling Phoenix
+4 Glorybringer
+4 Bonecrusher Giant
+4 Chandra, Torch of Defiance
+5 Mountain

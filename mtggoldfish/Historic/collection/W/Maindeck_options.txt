@@ -10,17 +10,18 @@
 2 Loyal Warhound
 3 Loyal Warhound
 1 Mana Tithe
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
+1 Paladin Class
+2 Paladin Class
+1 Cave of the Frost Dragon
 1 Plains
 2 Plains
 3 Plains
 4 Plains
-5 Plains
-6 Plains
-1 Vault Skirge
 1 Blinkmoth Nexus
+2 Blinkmoth Nexus
+3 Blinkmoth Nexus
+4 Blinkmoth Nexus
+1 Vault Skirge
 1 Steel Overseer
 1 Stonecoil Serpent
 1 Tempered Steel
@@ -30,35 +31,25 @@
 2 Steel Overseer
 2 Stonecoil Serpent
 2 Tempered Steel
-2 Blinkmoth Nexus
 2 Gingerbrute
 3 Vault Skirge
 3 Steel Overseer
 3 Stonecoil Serpent
 3 Gingerbrute
 3 Tempered Steel
-3 Blinkmoth Nexus
 4 Vault Skirge
 4 Tempered Steel
-4 Blinkmoth Nexus
 4 Gingerbrute
-7 Plains
-8 Plains
-9 Plains
-10 Plains
-11 Plains
-12 Plains
-13 Plains
-14 Plains
-15 Plains
+5 Plains
+6 Plains
+2 Cave of the Frost Dragon
 4 Steel Overseer
 4 Stonecoil Serpent
-1 Cave of the Frost Dragon
-2 Cave of the Frost Dragon
-1 Ornithopter
-2 Ornithopter
-3 Ornithopter
-4 Ornithopter
+7 Plains
+1 Concealed Courtyard
+2 Concealed Courtyard
+3 Concealed Courtyard
+4 Concealed Courtyard
 1 Inspiring Vantage
 1 Bomat Courier
 2 Inspiring Vantage
@@ -67,26 +58,35 @@
 3 Bomat Courier
 4 Inspiring Vantage
 4 Bomat Courier
+1 Ornithopter
+2 Ornithopter
+3 Ornithopter
+4 Ornithopter
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
+8 Plains
+9 Plains
+10 Plains
+11 Plains
+12 Plains
+13 Plains
+14 Plains
+15 Plains
 4 Thraben Inspector
 4 Legion's Landing
-1 Concealed Courtyard
 1 Scrapheap Scrounger
 1 Portable Hole
 1 Ingenious Smith
-2 Concealed Courtyard
 2 Scrapheap Scrounger
 2 Portable Hole
 2 Ingenious Smith
 3 Scrapheap Scrounger
-3 Concealed Courtyard
 3 Ingenious Smith
 4 Scrapheap Scrounger
-4 Concealed Courtyard
 4 Ingenious Smith
 16 Plains
 4 Loyal Warhound
-1 Paladin Class
-2 Paladin Class
 2 Court Homunculus
 1 Karametra's Blessing
 2 Karametra's Blessing
@@ -116,8 +116,8 @@
 2 Sentinel's Eyes
 3 Codespell Cleric
 3 Sentinel's Eyes
-4 Sentinel's Eyes
 4 Codespell Cleric
+4 Sentinel's Eyes
 18 Plains
 1 Secluded Steppe
 2 Secluded Steppe
@@ -139,15 +139,37 @@
 2 Drannith Magistrate
 2 Maul of the Skyclaves
 3 Reidane, God of the Worthy
+1 Hive of the Eye Tyrant
+1 Godless Shrine
+1 Fatal Push
+1 Glint-Sleeve Siphoner
+1 Vanishing Verse
+1 Isolated Chapel
+1 Thoughtseize
+1 Aether Hub
+1 Castle Locthwain
+1 Ghost Quarter
+2 Godless Shrine
+2 Hive of the Eye Tyrant
+2 Glint-Sleeve Siphoner
+2 Thoughtseize
+3 Paladin Class
+3 Godless Shrine
+3 Glint-Sleeve Siphoner
+3 Thoughtseize
+4 Paladin Class
+4 Godless Shrine
+4 Glint-Sleeve Siphoner
+4 Thoughtseize
 1 Benalish Marshal
+1 Venerable Knight
 1 Venerated Loxodon
 1 Usher of the Fallen
-1 Venerable Knight
+2 Venerable Knight
 2 Venerated Loxodon
 2 Benalish Marshal
 2 Castle Ardenvale
 2 Usher of the Fallen
-2 Venerable Knight
 3 Castle Ardenvale
 3 Venerable Knight
 3 Venerated Loxodon
@@ -156,18 +178,12 @@
 4 Venerable Knight
 4 Benalish Marshal
 4 Usher of the Fallen
-1 Unbreakable Formation
-1 You Hear Something on Watch
-2 Unbreakable Formation
-2 You Hear Something on Watch
-3 Unbreakable Formation
-4 Unbreakable Formation
 1 Wings of the Cosmos
 1 Defiant Strike
 1 Sacred Cat
 1 Hero of the Pride
-1 Guiding Voice
 1 Study Break
+1 Guiding Voice
 2 Sacred Cat
 2 Hero of the Pride
 2 Defiant Strike
@@ -203,13 +219,13 @@
 4 Stalwart Valkyrie
 4 Daybreak Chimera
 4 Healer's Hawk
-1 Island
 1 Skilled Animator
 1 Hallowed Fountain
 1 Hengegate Pathway
 1 Spire of Industry
 1 Whirler Rogue
 1 The Blackstaff of Waterdeep
+1 Island
 2 Spire of Industry
 2 Skilled Animator
 2 The Blackstaff of Waterdeep
@@ -247,10 +263,10 @@
 1 Parhelion Patrol
 2 Bound in Gold
 2 Maned Serval
-2 Glaring Aegis
 2 Parhelion Patrol
 2 Griffin Sentinel
 2 Solid Footing
+2 Glaring Aegis
 3 Griffin Sentinel
 3 Maned Serval
 3 Secluded Steppe
@@ -276,8 +292,8 @@
 3 Karn, Scion of Urza
 3 Sacred Foundry
 3 Showdown of the Skalds
-3 Needleverge Pathway
 3 Ramunap Ruins
+3 Needleverge Pathway
 4 Sacred Foundry
 4 Needleverge Pathway
 4 Ramunap Ruins
