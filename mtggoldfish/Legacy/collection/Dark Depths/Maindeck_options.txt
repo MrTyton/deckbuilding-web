@@ -18,8 +18,8 @@
 2 Stifle
 3 Mana Confluence
 3 Gemstone Mine
-1 Swamp
 1 Forest
+1 Swamp
 4 Dark Confidant
 3 Abrupt Decay
 1 Sylvan Safekeeper
@@ -64,26 +64,25 @@
 1 Drowned Catacomb
 1 Underground Sea
 1 Sinkhole
-1 Force of Will
 1 Watery Grave
+1 Counterspell
 1 Winter Orb
 1 Force Spike
 1 Expedition Map
-1 Counterspell
+1 Force of Will
 2 Mana Leak
 2 Daze
 2 Winter Orb
 2 Underground Sea
-2 Force of Will
 2 Sinkhole
 2 Drowned Catacomb
 2 Counterspell
+2 Force of Will
 2 Expedition Map
 2 Surgical Extraction
 2 Watery Grave
 2 Force Spike
 3 Counterspell
-3 Force of Will
 3 Winter Orb
 3 Sinkhole
 3 Drowned Catacomb
@@ -92,6 +91,7 @@
 3 Surgical Extraction
 3 Force Spike
 3 Underground Sea
+3 Force of Will
 3 Expedition Map
 3 Watery Grave
 4 Counterspell
@@ -107,63 +107,54 @@
 2 Simian Spirit Guide
 3 Simian Spirit Guide
 4 Simian Spirit Guide
-1 Trinisphere
+1 Thought-Knot Seer
 1 Toxic Deluge
 1 Polluted Delta
+1 Ancient Tomb
 1 Eliminate
 1 Plague Engineer
 1 Wishclaw Talisman
 1 Marsh Flats
-1 Liliana's Triumph
 1 Chrome Mox
 1 Liliana, the Last Hope
 1 Vindicate
-1 Thought-Knot Seer
+1 Liliana's Triumph
+1 Chalice of the Void
 1 Liliana of the Veil
-1 Ancient Tomb
+1 Trinisphere
 1 Scrubland
 1 Cabal Ritual
 1 Dark Ritual
 1 Karn, the Great Creator
 1 Castle Locthwain
-1 Chalice of the Void
-2 Trinisphere
+2 Thought-Knot Seer
+2 Ancient Tomb
 2 Polluted Delta
 2 Snow-Covered Swamp
 2 Plague Engineer
 2 Wishclaw Talisman
-2 Chrome Mox
 2 Eliminate
+2 Chrome Mox
 2 Vindicate
+2 Trinisphere
+2 Chalice of the Void
 2 Liliana, the Last Hope
 2 Karn, the Great Creator
-2 Chalice of the Void
 2 Dark Ritual
-2 Thought-Knot Seer
-2 Ancient Tomb
 3 Thought-Knot Seer
-3 Snow-Covered Swamp
-3 Polluted Delta
-3 Trinisphere
-3 Chrome Mox
-3 Karn, the Great Creator
 3 Ancient Tomb
 3 Chalice of the Void
+3 Snow-Covered Swamp
+3 Polluted Delta
+3 Chrome Mox
+3 Trinisphere
+3 Karn, the Great Creator
 3 Dark Ritual
 4 Thought-Knot Seer
-4 Snow-Covered Swamp
 4 Chalice of the Void
+4 Snow-Covered Swamp
 4 Dark Ritual
 4 Karn, the Great Creator
-1 Field of the Dead
-1 Glacial Chasm
-2 Swamp
-2 Life from the Loam
-2 Forest
-3 Sylvan Safekeeper
-3 Forest
-4 Forest
-5 Forest
 1 Cabal Therapy
 1 Dryad Arbor
 1 Stitcher's Supplier
@@ -183,3 +174,12 @@
 4 Cabal Therapy
 4 Stitcher's Supplier
 4 Hogaak, Arisen Necropolis
+1 Field of the Dead
+1 Glacial Chasm
+2 Forest
+2 Swamp
+2 Life from the Loam
+3 Sylvan Safekeeper
+3 Forest
+4 Forest
+5 Forest

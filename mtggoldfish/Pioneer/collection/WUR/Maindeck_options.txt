@@ -1,4 +1,3 @@
-1 Island
 1 Glacial Fortress
 1 Shark Typhoon
 2 Glacial Fortress
@@ -38,19 +37,20 @@
 1 Scorching Dragonfire
 2 Scorching Dragonfire
 3 Scorching Dragonfire
-3 Mutavault
 3 Expressive Iteration
+3 Mutavault
 1 Castle Vantress
+1 Treasure Vault
 4 Scorching Dragonfire
 1 Sphinx's Revelation
 4 Sulfur Falls
 1 Magma Spray
 1 Needle Spires
-3 Dovin's Veto
+4 Expressive Iteration
 1 Rest in Peace
 2 Rest in Peace
 2 Magma Spray
-4 Expressive Iteration
+3 Dovin's Veto
 4 Dovin's Veto
 1 Dig Through Time
 1 Behold the Multiverse
@@ -66,6 +66,7 @@
 3 Censor
 1 Fabled Passage
 2 Fabled Passage
+1 Torrential Gearhulk
 1 Chained to the Rocks
 2 Chained to the Rocks
 3 Chained to the Rocks
@@ -73,11 +74,11 @@
 2 Behold the Multiverse
 1 Prismari Command
 3 Dig Through Time
-1 Torrential Gearhulk
 4 Chained to the Rocks
 1 Cast Out
 2 Narset, Parter of Veils
 3 Narset, Parter of Veils
+3 The Blackstaff of Waterdeep
 1 Azorius Charm
 2 Island
 4 Censor
@@ -112,30 +113,27 @@
 4 Sacred Foundry
 4 Teferi, Hero of Dominaria
 2 Azorius Charm
-3 The Blackstaff of Waterdeep
+2 Needle Spires
 1 Magma Opus
 2 Magma Opus
 3 Magma Opus
-4 All That Glitters
 3 Azorius Charm
 2 Mountain
 1 Anger of the Gods
 2 Plains
-2 Needle Spires
 1 Fires of Invention
 2 Fires of Invention
 3 Fires of Invention
 4 Fires of Invention
 1 Seal Away
 2 Seal Away
+4 All That Glitters
 2 Rewind
 4 Magma Opus
 1 Search for Azcanta
 1 Commit/Memory
-2 Stubborn Denial
-4 Ghostfire Blade
-1 The Birth of Meletis
 1 Oath of Chandra
+1 The Birth of Meletis
 2 The Birth of Meletis
 3 The Birth of Meletis
 3 Clifftop Retreat
@@ -144,30 +142,29 @@
 2 Valakut Awakening
 3 Fire Prophecy
 4 Fire Prophecy
+2 Sphinx's Revelation
 1 Narset of the Ancient Way
+1 Whirlwind of Thought
 3 Behold the Multiverse
 3 Magma Spray
 4 Magma Spray
-2 Mana Confluence
-2 Hope of Ghirapur
-1 Bomat Courier
-2 Bomat Courier
 2 Prismari Command
 1 Mystical Dispute
+1 Cave of the Frost Dragon
 1 Field of Ruin
 1 Geier Reach Sanitarium
 1 Irrigated Farmland
 2 Irrigated Farmland
-2 Sphinx's Revelation
 1 Snow-Covered Plains
 1 Snow-Covered Island
 1 Scrabbling Claws
-1 Whirlwind of Thought
-1 Steel Overseer
-2 Steel Overseer
 1 Justice Strike
 2 Justice Strike
+2 Hope of Ghirapur
+1 Toolcraft Exemplar
+2 Toolcraft Exemplar
 2 Anger of the Gods
+2 Stubborn Denial
 1 Jace, Vryn's Prodigy
 1 Spirebluff Canal
 1 Sinister Sabotage
@@ -176,8 +173,7 @@
 2 Bonecrusher Giant
 2 Sinister Sabotage
 3 Sinister Sabotage
-3 Bomat Courier
-4 Bomat Courier
+4 Portable Hole
 1 Heart of Kiran
 1 Temple of Epiphany
 1 Deafening Clarion
@@ -187,11 +183,11 @@
 1 Kaya the Inexorable
 1 Jace, Architect of Thought
 1 Elspeth, Sun's Champion
-1 Savai Triome
 1 Interplanar Beacon
 1 Fae of Wishes
 1 Wandering Fumarole
 1 Detention Sphere
+1 Savai Triome
 2 Detention Sphere
 2 Heart of Kiran
 2 Deafening Clarion
@@ -204,8 +200,11 @@
 3 Deafening Clarion
 4 Narset, Parter of Veils
 4 Interplanar Beacon
-4 Portable Hole
-1 Cave of the Frost Dragon
+1 Bomat Courier
+1 Steel Overseer
+2 Steel Overseer
+2 Bomat Courier
+4 Ghostfire Blade
 1 Settle the Wreckage
 1 Chemister's Insight
 1 Sublime Epiphany
@@ -226,8 +225,8 @@
 1 Watery Grave
 1 Vanishing Verse
 2 Watery Grave
-2 Isolated Chapel
 2 Kaya, Orzhov Usurper
+2 Isolated Chapel
 2 Heartless Act
 2 Vanishing Verse
 2 Drowned Catacomb

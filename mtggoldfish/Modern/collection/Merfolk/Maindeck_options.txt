@@ -37,14 +37,14 @@
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island
-1 Seachrome Coast
 1 Unsettled Mariner
 1 Wanderwine Hub
-2 Seachrome Coast
+1 Seachrome Coast
 2 Unsettled Mariner
 2 Wanderwine Hub
-3 Seachrome Coast
+2 Seachrome Coast
 3 Unsettled Mariner
+3 Seachrome Coast
 3 Wanderwine Hub
 4 Unsettled Mariner
 4 Wanderwine Hub
@@ -65,17 +65,17 @@
 4 Counterspell
 2 Repeal
 1 Brazen Borrower
-1 Polluted Delta
-1 Hallowed Fountain
-2 Hallowed Fountain
-2 Polluted Delta
 2 Fiery Islet
-1 Disrupting Shoal
-2 Disrupting Shoal
 1 Breeding Pool
 1 Flooded Strand
-2 Flooded Strand
 2 Breeding Pool
+2 Flooded Strand
+1 Disrupting Shoal
+2 Disrupting Shoal
+1 Hallowed Fountain
+1 Polluted Delta
+2 Hallowed Fountain
+2 Polluted Delta
 1 Tidebinder Mage
 2 Tidebinder Mage
 3 Tidebinder Mage
@@ -86,8 +86,8 @@
 1 Phantasmal Image
 1 Darkslick Shores
 1 Underground River
-2 Darkslick Shores
 2 Phantasmal Image
+2 Darkslick Shores
 2 Underground River
 3 Phantasmal Image
 3 Darkslick Shores

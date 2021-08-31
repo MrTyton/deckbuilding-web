@@ -36,8 +36,8 @@
 2 Godless Shrine
 1 Marsh Flats
 1 Batterskull
-1 Drown in the Loch
 1 Kaldra Compleat
+1 Drown in the Loch
 1 Stoneforge Mystic
 2 Marsh Flats
 2 Drown in the Loch
@@ -54,12 +54,12 @@
 1 Isolated Chapel
 1 Ephemerate
 1 Dakkon, Shadow Slayer
+2 Castle Ardenvale
 2 Castle Vantress
 2 Supreme Verdict
 2 Plains
 2 Isolated Chapel
 2 Solitude
-2 Castle Ardenvale
 2 Dakkon, Shadow Slayer
 3 Field of Ruin
 3 Force of Negation
@@ -71,9 +71,9 @@
 4 Watery Grave
 1 Go for the Throat
 1 Subtlety
+1 Kaya, Orzhov Usurper
 1 Zagoth Triome
 1 Spell Snare
-1 Kaya, Orzhov Usurper
 2 Timeless Dragon
 1 Hallowed Moonlight
 2 Hallowed Moonlight
@@ -89,22 +89,22 @@
 2 Commence the Endgame
 3 Vindicate
 4 Cryptic Command
-1 Mutavault
 1 Bitterblossom
 1 Brazen Borrower
 1 Liliana of the Veil
 1 River of Tears
 1 Spellstutter Sprite
-2 Mutavault
+1 Mutavault
+2 Inquisition of Kozilek
 2 River of Tears
 2 Bitterblossom
+2 Mutavault
 2 Brazen Borrower
 2 Spellstutter Sprite
-2 Inquisition of Kozilek
 2 Liliana of the Veil
+3 Inquisition of Kozilek
 3 Spellstutter Sprite
 3 Bitterblossom
-3 Inquisition of Kozilek
 3 Liliana of the Veil
 3 Mutavault
 4 Bitterblossom
@@ -140,7 +140,6 @@
 2 Slither Blade
 2 Choked Estuary
 2 Heartless Act
-3 Swamp
 3 Creeping Tar Pit
 3 Mana Leak
 3 Ingenious Infiltrator
@@ -149,6 +148,7 @@
 3 Slither Blade
 3 Fallen Shinobi
 3 Faerie Seer
+3 Swamp
 4 Changeling Outcast
 4 Ninja of the Deep Hours
 4 Ingenious Infiltrator

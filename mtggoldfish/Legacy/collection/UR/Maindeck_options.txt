@@ -1,18 +1,15 @@
 1 Aether Spellbomb
 3 Pyroblast
 2 Flooded Strand
-1 Island
-2 Island
-2 Daze
-2 Misty Rainforest
 1 Snapcaster Mage
 2 Snapcaster Mage
+2 Daze
+1 Island
+2 Island
 1 Prismatic Vista
 2 Prismatic Vista
+2 Misty Rainforest
 3 Grindstone
-1 Mountain
-1 Dress Down
-2 Dress Down
 1 Snow-Covered Forest
 1 Tropical Island
 2 Tropical Island
@@ -33,17 +30,16 @@
 4 Misty Rainforest
 4 Narset, Parter of Veils
 3 Daze
-3 Island
+1 Dress Down
+2 Dress Down
+1 Mountain
 2 Polluted Delta
 4 Daze
-1 Dragon's Rage Channeler
-2 Dragon's Rage Channeler
-3 Dragon's Rage Channeler
-4 Dragon's Rage Channeler
 1 Ancient Tomb
 2 Ancient Tomb
 1 Spell Pierce
 2 Spell Pierce
+3 Island
 1 Swamp
 1 Underground Sea
 2 Underground Sea
@@ -67,31 +63,35 @@
 1 Sprite Dragon
 1 Scroll of Fate
 1 Phyrexian Dreadnought
+1 Dragon's Rage Channeler
 1 Wasteland
 2 Sprite Dragon
 2 Phyrexian Dreadnought
 2 Scroll of Fate
 2 Wasteland
+2 Dragon's Rage Channeler
 3 Sprite Dragon
 3 Dress Down
 3 Phyrexian Dreadnought
 3 Wasteland
+3 Dragon's Rage Channeler
 4 Dress Down
 4 Phyrexian Dreadnought
+4 Dragon's Rage Channeler
 4 Wasteland
 1 Baleful Strix
 1 Badlands
-1 Bloodstained Mire
-1 Jace, the Mind Sculptor
 1 Kolaghan's Command
+1 Jace, the Mind Sculptor
 1 Unholy Heat
 1 Hymn to Tourach
+1 Bloodstained Mire
 2 Baleful Strix
+2 Kolaghan's Command
 2 Badlands
-2 Bloodstained Mire
 2 Jace, the Mind Sculptor
 2 Unholy Heat
-2 Kolaghan's Command
+2 Bloodstained Mire
 2 Hymn to Tourach
 2 Swamp
 3 Jace, the Mind Sculptor
@@ -130,25 +130,3 @@
 4 Thought Lash
 4 Paradigm Shift
 4 Thassa's Oracle
-1 Ethereal Forager
-1 Dack Fayden
-1 Dead/Gone
-1 Murktide Regent
-1 Brazen Borrower
-1 Counterspell
-1 Blood Moon
-1 Hullbreacher
-2 Counterspell
-2 Dead/Gone
-2 Ethereal Forager
-2 Brazen Borrower
-2 Murktide Regent
-2 Dack Fayden
-2 Blood Moon
-3 Flooded Strand
-3 Murktide Regent
-3 Dack Fayden
-4 Island
-6 Island
-7 Island
-5 Island

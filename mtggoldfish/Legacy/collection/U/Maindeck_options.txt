@@ -78,14 +78,14 @@
 1 Karn, Scion of Urza
 1 Winter Orb
 1 Tangle Wire
-2 Karn, Scion of Urza
-2 City of Traitors
 2 Tangle Wire
-3 Karn, Scion of Urza
-3 City of Traitors
+2 City of Traitors
+2 Karn, Scion of Urza
 3 Tangle Wire
-4 Karn, Scion of Urza
+3 City of Traitors
+3 Karn, Scion of Urza
 4 Tangle Wire
+4 Karn, Scion of Urza
 2 Urza's Bauble
 4 Plains
 4 Master of Etherium
@@ -102,8 +102,8 @@
 2 Flooded Strand
 3 Flooded Strand
 4 Flooded Strand
-1 Bomat Courier
 1 Spire of Industry
+1 Bomat Courier
 1 Hullbreacher
 2 Hullbreacher
 1 Arcbound Mouser
@@ -117,8 +117,8 @@
 2 Steel Overseer
 1 Lightning Greaves
 2 Lightning Greaves
-3 Retrofitter Foundry
 3 Sai, Master Thopterist
+3 Retrofitter Foundry
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
@@ -135,8 +135,8 @@
 1 Mox Diamond
 2 Mishra's Factory
 2 Mox Diamond
-3 Mox Diamond
 3 Mishra's Factory
+3 Mox Diamond
 4 Mishra's Factory
 1 Shield Sphere
 1 Thassa's Oracle

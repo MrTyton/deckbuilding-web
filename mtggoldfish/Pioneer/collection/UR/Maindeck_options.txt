@@ -1,27 +1,28 @@
-1 Riverglide Pathway
-2 Riverglide Pathway
-3 Island
-1 Sulfur Falls
+4 Shivan Reef
+4 The Blackstaff of Waterdeep
 1 Goldspan Dragon
 1 Silumgar's Scorn
 1 Expressive Iteration
-1 Glorybringer
 1 Mountain
-2 Sulfur Falls
 2 Silumgar's Scorn
 2 Goldspan Dragon
 2 Expressive Iteration
-3 Sulfur Falls
 3 Silumgar's Scorn
 3 Goldspan Dragon
 3 Riverglide Pathway
 3 Expressive Iteration
-4 Sulfur Falls
 4 Goldspan Dragon
 4 Riverglide Pathway
+3 Island
+1 Sulfur Falls
+1 Glorybringer
+2 Sulfur Falls
+3 Sulfur Falls
+4 Sulfur Falls
+1 Anger of the Gods
+4 Expressive Iteration
 1 Fabled Passage
 1 Opt
-1 Anger of the Gods
 2 Anger of the Gods
 2 Fabled Passage
 2 Opt
@@ -33,7 +34,7 @@
 1 Brazen Borrower
 2 Mountain
 3 Mountain
-4 Expressive Iteration
+1 Dig Through Time
 1 Silver Raven
 2 Silver Raven
 3 Silver Raven
@@ -43,7 +44,6 @@
 2 Hall of Storm Giants
 2 Draconic Roar
 3 Draconic Roar
-1 Dig Through Time
 4 Island
 1 Bonecrusher Giant
 2 Bonecrusher Giant
@@ -64,11 +64,44 @@
 1 Chandra, Torch of Defiance
 2 Dragon's Fire
 3 Dragon's Fire
+1 Prismari Command
+2 Prismari Command
 1 Den of the Bugbear
 2 Spire of Industry
 1 Shark Typhoon
 2 Shark Typhoon
 4 Hall of Storm Giants
+1 Unsubstantiate
+1 Unexpected Windfall
+1 Spikefield Hazard
+1 Seize the Spoils
+1 Fiery Impulse
+1 Galazeth Prismari
+1 Vadrok, Apex of Thunder
+1 Curate
+1 Needleverge Pathway
+1 Hengegate Pathway
+1 Lore Drakkis
+1 Raugrin Triome
+2 Dig Through Time
+2 Fiery Impulse
+2 Spikefield Hazard
+2 Seize the Spoils
+2 Unsubstantiate
+2 Curate
+2 Lore Drakkis
+2 Hengegate Pathway
+2 Vadrok, Apex of Thunder
+2 Needleverge Pathway
+2 Raugrin Triome
+3 Seize the Spoils
+3 Unsubstantiate
+3 Vadrok, Apex of Thunder
+3 Raugrin Triome
+3 Lore Drakkis
+3 Spikefield Hazard
+3 Hengegate Pathway
+4 Lore Drakkis
 1 Behold the Multiverse
 1 Treasure Map
 1 Stormbreath Dragon
@@ -83,13 +116,11 @@
 3 Treasure Cruise
 4 Anger of the Gods
 4 Treasure Cruise
-1 Prismari Command
 1 Torrential Gearhulk
 1 Magma Opus
 1 Sprite Dragon
 2 Torrential Gearhulk
 2 Magma Opus
-2 Prismari Command
 2 Sprite Dragon
 3 Magma Opus
 3 Sprite Dragon
@@ -119,9 +150,9 @@
 1 Temple of Epiphany
 1 Rekindling Phoenix
 1 Glasspool Mimic
+2 Temple of Epiphany
 2 Chandra, Torch of Defiance
 2 Rekindling Phoenix
-2 Temple of Epiphany
 3 Brazen Borrower
 3 Glorybringer
 3 Bonecrusher Giant
