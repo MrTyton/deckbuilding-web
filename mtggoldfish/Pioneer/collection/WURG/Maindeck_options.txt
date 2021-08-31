@@ -1,16 +1,16 @@
-1 Glacial Fortress
 3 Raugrin Triome
-1 Fiery Impulse
+1 Glacial Fortress
 2 Escape to the Wilds
+1 Fiery Impulse
 1 Portable Hole
+1 Tamiyo, Collector of Tales
 1 Steam Vents
 1 Breeding Pool
 1 Radiant Flames
-1 Tamiyo, Collector of Tales
 4 Raugrin Triome
-2 Glacial Fortress
 2 Sunpetal Grove
 2 Steam Vents
+2 Glacial Fortress
 2 Sacred Foundry
 2 Plains
 1 Castle Vantress
@@ -23,9 +23,9 @@
 2 Supreme Verdict
 2 The Raven's Warning
 2 Omen of the Sea
-2 Deafening Clarion
 2 Narset, Parter of Veils
 2 Shark Typhoon
+2 Deafening Clarion
 3 Shark Typhoon
 3 Supreme Verdict
 3 Glacial Fortress
@@ -34,20 +34,20 @@
 3 Sacred Foundry
 3 Omen of the Sea
 3 The Raven's Warning
-4 Shark Typhoon
 4 Glacial Fortress
+4 Shark Typhoon
 4 Steam Vents
 4 Sacred Foundry
 4 Omen of the Sea
 4 Narset, Parter of Veils
 4 The Raven's Warning
-1 Mystical Dispute
 2 Portable Hole
 1 Hall of Storm Giants
 1 Fires of Invention
 2 Fires of Invention
 3 Fires of Invention
 4 Fires of Invention
+1 Mystical Dispute
 1 Nahiri, the Harbinger
 1 Wish
 1 Koma, Cosmos Serpent
@@ -55,11 +55,11 @@
 2 Koma, Cosmos Serpent
 3 Wish
 3 Portable Hole
-4 Growth Spiral
-1 Snow-Covered Forest
 4 Wish
+1 Snow-Covered Forest
 1 Snow-Covered Mountain
 2 Island
+4 Growth Spiral
 2 Tamiyo, Collector of Tales
 3 Stomping Ground
 3 Hallowed Fountain
@@ -74,9 +74,8 @@
 4 Strategic Planning
 1 Agent of Treachery
 2 Agent of Treachery
-1 Yasharn, Implacable Earth
 1 Sea Gate Restoration
-2 Breeding Pool
+1 Yasharn, Implacable Earth
 1 Klothys, God of Destiny
 1 Rootbound Crag
 1 Chandra, Awakened Inferno
@@ -84,18 +83,19 @@
 1 Genesis Ultimatum
 1 Courser of Kruphix
 2 Nahiri, the Harbinger
+2 Breeding Pool
 2 Klothys, God of Destiny
 2 Rootbound Crag
 2 Chandra, Awakened Inferno
 2 Forest
+2 Genesis Ultimatum
 2 Courser of Kruphix
 2 Elspeth Conquers Death
-2 Genesis Ultimatum
 3 Escape to the Wilds
 3 Agent of Treachery
 3 Genesis Ultimatum
-1 The Birth of Meletis
 1 Transmogrify
+1 The Birth of Meletis
 1 Esika's Chariot
 2 Transmogrify
 2 The Birth of Meletis
@@ -103,9 +103,9 @@
 2 Esika's Chariot
 3 Transmogrify
 3 The Birth of Meletis
-3 Deafening Clarion
 3 Plains
 3 Esika's Chariot
+3 Deafening Clarion
 4 Esika's Chariot
 4 Transmogrify
 4 The Birth of Meletis
@@ -132,47 +132,4 @@
 4 Escape to the Wilds
 1 Emrakul, the Promised End
 1 Tireless Tracker
-1 Snow-Covered Island
-1 Snow-Covered Plains
-1 Idyllic Tutor
-1 Heroic Intervention
-1 Wall of Runes
-1 Saruli Caretaker
-1 Axebane Guardian
-1 Tetsuko Umezawa, Fugitive
-1 Arcades, the Strategist
-1 High Alert
-1 Tower Defense
-1 Orator of Ojutai
-1 Dive Down
-1 Slaughter the Strong
-1 Botanical Sanctum
-1 Resolute Watchdog
-2 Snow-Covered Forest
-2 Snow-Covered Plains
-2 Snow-Covered Island
-2 Heroic Intervention
-2 Saruli Caretaker
-2 Wall of Runes
-2 Axebane Guardian
-2 Resolute Watchdog
-2 Dive Down
-2 Slaughter the Strong
-2 Arcades, the Strategist
-2 High Alert
-2 Botanical Sanctum
-2 Tower Defense
-2 Orator of Ojutai
-2 Tetsuko Umezawa, Fugitive
-3 Resolute Watchdog
-3 Wall of Runes
-3 High Alert
-3 Arcades, the Strategist
-3 Slaughter the Strong
-3 Saruli Caretaker
-4 Saruli Caretaker
-4 Arcades, the Strategist
-4 Resolute Watchdog
-4 Wall of Runes
-4 High Alert
 4 Hinterland Harbor

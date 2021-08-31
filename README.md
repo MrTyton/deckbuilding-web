@@ -31,7 +31,7 @@
 |[BR](./mtggoldfish/Pioneer/decks/BR.md)                          |[Hidden Strings](./mtggoldfish/Pioneer/decks/Hidden_Strings.md)    |[RG](./mtggoldfish/Pioneer/decks/RG.md)                              |[U](./mtggoldfish/Pioneer/decks/U.md)    |[WURG](./mtggoldfish/Pioneer/decks/WURG.md)|
 |[B](./mtggoldfish/Pioneer/decks/B.md)                            |[Izzet Phoenix](./mtggoldfish/Pioneer/decks/Izzet_Phoenix.md)      |[R](./mtggoldfish/Pioneer/decks/R.md)                                |[WB](./mtggoldfish/Pioneer/decks/WB.md)  |[WUR](./mtggoldfish/Pioneer/decks/WUR.md)  |
 |[Burn](./mtggoldfish/Pioneer/decks/Burn.md)                      |[Mono-Black Aggro](./mtggoldfish/Pioneer/decks/Mono-Black_Aggro.md)|[Rakdos Pyromancer](./mtggoldfish/Pioneer/decks/Rakdos_Pyromancer.md)|[WG](./mtggoldfish/Pioneer/decks/WG.md)  |[WU](./mtggoldfish/Pioneer/decks/WU.md)    |
-|[Dimir Control](./mtggoldfish/Pioneer/decks/Dimir_Control.md)    |[Mono-Red Aggro](./mtggoldfish/Pioneer/decks/Mono-Red_Aggro.md)    |[Spirits](./mtggoldfish/Pioneer/decks/Spirits.md)                    |[WR](./mtggoldfish/Pioneer/decks/WR.md)  |                                           |
+|[Dimir Control](./mtggoldfish/Pioneer/decks/Dimir_Control.md)    |[Mono-Red Aggro](./mtggoldfish/Pioneer/decks/Mono-Red_Aggro.md)    |[Spirits](./mtggoldfish/Pioneer/decks/Spirits.md)                    |[WR](./mtggoldfish/Pioneer/decks/WR.md)  |[W](./mtggoldfish/Pioneer/decks/W.md)      |
 |[Enigmatic Fires](./mtggoldfish/Pioneer/decks/Enigmatic_Fires.md)|[Naya Winota](./mtggoldfish/Pioneer/decks/Naya_Winota.md)          |[URG](./mtggoldfish/Pioneer/decks/URG.md)                            |[WUB](./mtggoldfish/Pioneer/decks/WUB.md)|                                           |
 
 
@@ -70,4 +70,4 @@
 
 
 
-#### Last Updated at 12:43AM on August 31, 2021
+#### Last Updated at 12:43PM on August 31, 2021
