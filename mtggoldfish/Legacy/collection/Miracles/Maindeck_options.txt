@@ -50,12 +50,12 @@
 2 Forest
 3 Monastery Mentor
 3 Preordain
-4 Preordain
 4 Monastery Mentor
+4 Preordain
 6 Island
 6 Snow-Covered Island
-1 Taiga
 1 Plateau
+1 Taiga
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
@@ -87,13 +87,14 @@
 1 Engineered Explosives
 2 Gideon, Ally of Zendikar
 1 Polluted Delta
-1 Portent
 1 Teferi, Hero of Dominaria
+1 Portent
 2 Polluted Delta
-2 Mystic Sanctuary
 2 Portent
+2 Mystic Sanctuary
 3 Tundra
 3 Mystic Sanctuary
+4 Expressive Iteration
 1 Sevinne's Reclamation
 1 Frantic Inventory
 1 Intuition
@@ -105,7 +106,6 @@
 3 Frantic Inventory
 4 Murktide Regent
 4 Frantic Inventory
-4 Expressive Iteration
 3 Abundant Harvest
 4 Abundant Harvest
 1 Growth Spiral

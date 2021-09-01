@@ -1,44 +1,45 @@
+1 Plateau
 1 Snapcaster Mage
 2 Snapcaster Mage
+1 Arid Mesa
 2 Teferi, Time Raveler
 1 Mountain
 2 Island
 3 Island
-1 Plateau
-1 Arid Mesa
-2 Plains
-1 Lightning Bolt
-1 Prismatic Vista
-2 Prismatic Vista
-2 True-Name Nemesis
 1 Expressive Iteration
 2 Expressive Iteration
+1 Lightning Bolt
+2 True-Name Nemesis
+2 Plains
 3 Tundra
-4 Island
-1 Supreme Verdict
+1 Prismatic Vista
+2 Prismatic Vista
 2 Lightning Bolt
 1 Snow-Covered Island
-1 Spell Pierce
-3 Prismatic Vista
+4 Island
 1 Delver of Secrets
 2 Delver of Secrets
 3 Delver of Secrets
 4 Delver of Secrets
-3 Snapcaster Mage
-3 True-Name Nemesis
-2 Spell Pierce
+1 Supreme Verdict
 1 Hullbreacher
 1 Narset, Parter of Veils
+1 Spell Pierce
+3 Prismatic Vista
 1 Snow-Covered Plains
 2 Snow-Covered Island
 1 Mother of Runes
 2 Mother of Runes
+3 Expressive Iteration
+3 Snapcaster Mage
+3 True-Name Nemesis
 2 Force of Negation
+2 Spell Pierce
 3 Snow-Covered Island
 4 Snow-Covered Island
 1 Misty Rainforest
 2 Misty Rainforest
-3 Expressive Iteration
+4 Wasteland
 1 Sword of Fire and Ice
 1 Squadron Hawk
 2 Squadron Hawk
@@ -51,23 +52,21 @@
 1 Snow-Covered Mountain
 2 Snow-Covered Plains
 3 Murktide Regent
-4 Wasteland
 1 Polluted Delta
 4 Prismatic Ending
-1 Spell Snare
-2 Spell Snare
-1 Rip Apart
 1 Dress Down
 2 Supreme Verdict
 5 Snow-Covered Island
 1 Meddling Mage
-1 Counterspell
 2 Polluted Delta
-2 Rip Apart
 3 Mother of Runes
 4 Mother of Runes
 2 Dress Down
+1 Counterspell
+1 Spell Snare
+2 Spell Snare
 1 Preordain
+1 Rip Apart
 3 Jace, the Mind Sculptor
 1 Vendilion Clique
 2 Meddling Mage
@@ -76,6 +75,7 @@
 1 Flusterstorm
 1 Stifle
 2 Stifle
+2 Rip Apart
 1 Brazen Borrower
 1 Sevinne's Reclamation
 2 Preordain
@@ -95,15 +95,15 @@
 3 Force of Negation
 4 Snapcaster Mage
 6 Snow-Covered Island
+1 Predict
 1 Retrofitter Foundry
 1 Urza's Saga
 1 Soul-Guide Lantern
-1 Predict
 1 Mishra's Bauble
 1 Basilisk Collar
 1 Dragon's Rage Channeler
-2 Urza's Saga
 2 Predict
+2 Urza's Saga
 2 Dragon's Rage Channeler
 3 Urza's Saga
 3 Dragon's Rage Channeler

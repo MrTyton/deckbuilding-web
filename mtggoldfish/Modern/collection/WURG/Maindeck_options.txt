@@ -1,4 +1,3 @@
-1 Glimpse of Tomorrow
 1 Violent Outburst
 2 Tireless Provisioner
 2 Khalni Garden
@@ -18,15 +17,16 @@
 2 Goblin Dark-Dwellers
 3 Goblin Dark-Dwellers
 4 Violent Outburst
-1 Hallowed Fountain
-2 Flooded Strand
+1 Verdant Catacombs
 1 Chancellor of the Forge
 2 Chancellor of the Forge
+1 Hallowed Fountain
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 3 Chancellor of the Forge
 4 Goblin Dark-Dwellers
 4 Tireless Provisioner
+2 Flooded Strand
 1 Savai Triome
 1 Raugrin Triome
 1 Noble Hierarch
@@ -35,8 +35,8 @@
 1 Wrenn and Six
 3 Flooded Strand
 1 Ketria Triome
-1 Prismatic Ending
 1 Teferi, Time Raveler
+1 Prismatic Ending
 2 Teferi, Time Raveler
 2 Prismatic Ending
 1 Expressive Iteration
@@ -48,13 +48,17 @@
 4 Prismatic Ending
 2 Noble Hierarch
 1 Blood Crypt
+3 Seasoned Pyromancer
 1 Ignoble Hierarch
 2 Ignoble Hierarch
+1 Fury
 2 Arid Mesa
 3 Ignoble Hierarch
 4 Ignoble Hierarch
-3 Seasoned Pyromancer
-1 Fury
+4 Seasoned Pyromancer
+4 Chancellor of the Forge
+1 Gemstone Caverns
+2 Fury
 1 Bloodstained Mire
 1 Indatha Triome
 1 Zagoth Triome
@@ -70,18 +74,14 @@
 1 Glacial Fortress
 1 Teferi, Hero of Dominaria
 1 Snapcaster Mage
-4 Seasoned Pyromancer
-4 Chancellor of the Forge
-1 Gemstone Caverns
+3 Fury
 2 Mountain
 4 Omnath, Locus of Creation
-2 Fury
 4 General Ferrous Rokiric
 3 Arid Mesa
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
-3 Fury
 3 Lightning Helix
 2 Sacred Foundry
 2 Bloodstained Mire
@@ -115,6 +115,7 @@
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
+4 Fury
 1 Scattered Groves
 1 Sunpetal Grove
 1 Sulfur Falls
@@ -124,7 +125,6 @@
 1 Castle Ardenvale
 3 Shark Typhoon
 1 Counterspell
-4 Fury
 1 Tarmogoyf
 2 Wild Nacatl
 3 Wild Nacatl
@@ -143,8 +143,8 @@
 3 Wall of Omens
 1 Overgrown Tomb
 1 Godless Shrine
-1 Snow-Covered Island
 1 Snow-Covered Plains
+1 Snow-Covered Island
 3 Tarmogoyf
 2 Path to Exile
 4 Wild Nacatl
@@ -219,8 +219,8 @@
 4 Path to Exile
 1 Iona, Shield of Emeria
 3 Island
-1 Cindervines
 1 Terror of the Peaks
+1 Cindervines
 1 Showdown of the Skalds
 1 Clifftop Retreat
 2 Rest in Peace
@@ -230,15 +230,15 @@
 1 Shambleshark
 1 Niv-Mizzet Reborn
 2 Shambleshark
+1 Scorching Dragonfire
+1 Temur Battle Rage
+2 Scorching Dragonfire
+2 Temur Battle Rage
 1 Anafenza, the Foremost
 2 Anafenza, the Foremost
 1 Irrigated Farmland
 1 Celestial Colonnade
 2 Sulfur Falls
-1 Scorching Dragonfire
-1 Temur Battle Rage
-2 Temur Battle Rage
-2 Scorching Dragonfire
 3 Gemstone Caverns
 1 Archon of Cruelty
 1 Acererak the Archlich
@@ -258,16 +258,16 @@
 1 Anger of the Gods
 1 Valki, God of Lies
 1 Bring to Light
+2 Valki, God of Lies
 2 Growth Spiral
 2 Bring to Light
 2 Teferi, Hero of Dominaria
-2 Valki, God of Lies
 3 Growth Spiral
 3 Bring to Light
 4 Growth Spiral
-1 Imperial Recruiter
 1 Detention Sphere
 1 Foundation Breaker
+1 Imperial Recruiter
 2 Imperial Recruiter
 2 Rift Sower
 3 Rift Sower

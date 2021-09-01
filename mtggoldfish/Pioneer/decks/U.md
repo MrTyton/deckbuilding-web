@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673) |                    1|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)  |
-|                    1|[Gingerbrute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473181)     |                    1|[The Antiquities War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442930)|
+|                    1|[Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673) |                    1|[The Antiquities War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442930)|
+|                    1|[Gingerbrute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473181)     |                    1|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)  |
 |                    1|[Ghostfire Blade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386545) |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
 |                    1|[Skilled Animator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447209)|                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)        |
 |                    1|[Silver Raven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527361)    |                    2|[The Antiquities War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442930)|

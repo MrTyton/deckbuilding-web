@@ -12,20 +12,6 @@
 1 Volcanic Island
 3 Scalding Tarn
 4 Scalding Tarn
-1 Asylum Visitor
-1 Snow-Covered Swamp
-2 Asylum Visitor
-1 Careful Study
-2 Careful Study
-3 Careful Study
-4 Careful Study
-3 Gamble
-1 Fiery Islet
-1 Snow-Covered Island
-1 Fiery Temper
-2 Fiery Temper
-3 Fiery Temper
-4 Fiery Temper
 2 Volcanic Island
 3 Volcanic Island
 1 Ragavan, Nimble Pilferer
@@ -39,54 +25,77 @@
 2 Ponder
 2 Force of Will
 2 Brainstorm
-2 Misty Rainforest
 3 Lightning Bolt
 3 Ragavan, Nimble Pilferer
 3 Force of Will
 3 Ponder
 3 Brainstorm
 4 Lightning Bolt
-4 Force of Will
 4 Brainstorm
 4 Ponder
-1 Daze
-2 Daze
+4 Force of Will
 1 Polluted Delta
-2 Polluted Delta
 4 Ragavan, Nimble Pilferer
-1 Bayou
-1 Tropical Island
-2 Tropical Island
-4 Wooded Foothills
+1 Snow-Covered Island
+1 Asylum Visitor
+1 Snow-Covered Swamp
+2 Asylum Visitor
+1 Careful Study
+2 Careful Study
+3 Careful Study
+4 Careful Study
 1 Flooded Strand
-1 Island
-1 Retrofitter Foundry
 1 Expressive Iteration
-2 Island
 2 Expressive Iteration
-1 Murktide Regent
-1 Relic of Progenitus
-1 Wasteland
-1 Counterbalance
-1 Chain Lightning
+1 Force of Negation
 1 Pyroblast
 1 Urza's Saga
-1 Preordain
-2 Flooded Strand
-2 Murktide Regent
-2 Chain Lightning
-2 Counterbalance
-2 Pyroblast
 2 Urza's Saga
-2 Wasteland
-3 Murktide Regent
 3 Expressive Iteration
 3 Urza's Saga
 4 Expressive Iteration
 4 Urza's Saga
-1 Force of Negation
+1 Fiery Islet
+1 Daze
+2 Misty Rainforest
+3 Gamble
+1 Relic of Progenitus
+2 Pyroblast
+1 Retrofitter Foundry
+1 Island
+2 Island
+4 Volcanic Island
+1 Fiery Temper
+2 Fiery Temper
+3 Fiery Temper
+4 Fiery Temper
+2 Daze
+2 Polluted Delta
+2 Force of Negation
+1 Aether Spellbomb
+1 Painter's Servant
+1 Grindstone
+2 Painter's Servant
+2 Grindstone
+3 Painter's Servant
+4 Painter's Servant
+1 Bayou
+1 Tropical Island
+2 Tropical Island
 1 Jace, the Mind Sculptor
 3 Misty Rainforest
+1 Counterbalance
+1 Wasteland
+1 Chain Lightning
+1 Murktide Regent
+1 Preordain
+2 Flooded Strand
+2 Chain Lightning
+2 Murktide Regent
+2 Counterbalance
+2 Wasteland
+3 Murktide Regent
+4 Wooded Foothills
 1 Leovold, Emissary of Trest
 1 Sylvan Library
 1 Assassin's Trophy
@@ -100,15 +109,22 @@
 2 Sylvan Library
 2 Assassin's Trophy
 2 Leovold, Emissary of Trest
-2 Force of Negation
 2 Uro, Titan of Nature's Wrath
 3 Polluted Delta
 3 Baleful Strix
 4 Polluted Delta
 4 Baleful Strix
 4 Misty Rainforest
+1 Hydroblast
+1 Red Elemental Blast
+1 Pyrite Spellbomb
+3 Pyroblast
 1 Liliana, the Last Hope
 2 Fiery Islet
+1 Snapcaster Mage
+2 Red Elemental Blast
+2 Snow-Covered Island
+2 Snapcaster Mage
 1 Cephalid Coliseum
 1 Breakthrough
 1 Bazaar Trademage
@@ -132,13 +148,19 @@
 3 Uro, Titan of Nature's Wrath
 4 Assassin's Trophy
 4 Arid Mesa
+1 Soul-Guide Lantern
+4 Pyroblast
 1 Verdant Catacombs
 2 Verdant Catacombs
 3 Verdant Catacombs
 4 Verdant Catacombs
+1 Steam Vents
+2 Hydroblast
+3 Hydroblast
+4 Hydroblast
 1 Ethereal Forager
-1 Fire/Ice
 1 Spell Pierce
+1 Fire/Ice
 1 Hullbreacher
 1 Stasis
 1 Forsaken City
@@ -153,7 +175,6 @@
 3 Ral Zarek
 3 Stasis
 4 Island
-4 Volcanic Island
 5 Island
 1 Firestorm
 1 Kitchen Imp

@@ -1,53 +1,36 @@
 1 Snapcaster Mage
 2 Scalding Tarn
-1 Snow-Covered Island
-2 Snow-Covered Island
-1 Breeding Pool
-1 Ice-Fang Coatl
-1 Eternal Witness
-1 Rimewood Falls
-2 Breeding Pool
-2 Ice-Fang Coatl
-2 Eternal Witness
-3 Ice-Fang Coatl
-3 Snow-Covered Island
-4 Ice-Fang Coatl
-3 Solitude
-1 Glacial Floodplain
-1 Flooded Grove
-2 Flooded Grove
-3 Eternal Witness
 1 Steam Vents
 2 Steam Vents
 1 Sacred Foundry
 1 Unholy Heat
 1 Esper Sentinel
+1 Ragavan, Nimble Pilferer
 1 Arid Mesa
 1 Mishra's Bauble
 1 Pithing Needle
 1 Urza's Saga
 1 Inspiring Vantage
 1 Dragon's Rage Channeler
-1 Ragavan, Nimble Pilferer
 1 Shadowspear
 1 Portable Hole
 1 Lightning Bolt
 2 Sacred Foundry
 2 Unholy Heat
 2 Esper Sentinel
+2 Ragavan, Nimble Pilferer
 2 Mishra's Bauble
 2 Urza's Saga
-2 Ragavan, Nimble Pilferer
 2 Inspiring Vantage
 2 Dragon's Rage Channeler
 2 Portable Hole
 2 Lightning Bolt
 3 Unholy Heat
 3 Esper Sentinel
+3 Ragavan, Nimble Pilferer
 3 Mishra's Bauble
 3 Lightning Bolt
 3 Urza's Saga
-3 Ragavan, Nimble Pilferer
 3 Dragon's Rage Channeler
 4 Esper Sentinel
 4 Mishra's Bauble
@@ -69,22 +52,38 @@
 2 Arid Mesa
 1 Aether Spellbomb
 3 Sacred Foundry
-1 Ephemerate
+2 Plains
+1 Snow-Covered Island
+2 Snow-Covered Island
+1 Breeding Pool
+1 Ice-Fang Coatl
+1 Eternal Witness
+1 Rimewood Falls
+2 Breeding Pool
+2 Ice-Fang Coatl
+2 Eternal Witness
+3 Ice-Fang Coatl
+3 Snow-Covered Island
+4 Ice-Fang Coatl
+3 Solitude
+1 Glacial Floodplain
+1 Flooded Grove
+2 Flooded Grove
+3 Eternal Witness
 1 Bloodbraid Marauder
 2 Bloodbraid Marauder
 3 Bloodbraid Marauder
 1 Snow-Covered Plains
-1 Reflecting Pool
-2 Plains
 3 Mystic Gate
 4 Bloodbraid Marauder
 1 Wall of Omens
-1 Engineered Explosives
+1 Ephemerate
 1 Jace, the Mind Sculptor
+1 Reflecting Pool
+1 Engineered Explosives
 4 Scalding Tarn
 3 Portable Hole
 1 Bomat Courier
-2 Ephemerate
 2 Polluted Delta
 1 Bloodstained Mire
 1 Fire/Ice
@@ -101,6 +100,7 @@
 3 Fire/Ice
 4 Fire/Ice
 2 Bloodstained Mire
+2 Ephemerate
 3 Chalice of the Void
 2 Force of Negation
 1 Seal of Fire
@@ -119,13 +119,13 @@
 2 Snow-Covered Mountain
 4 Misty Rainforest
 1 Wrenn and Six
-1 Stomping Ground
 1 Tarmogoyf
+1 Stomping Ground
 1 Copperline Gorge
 2 Copperline Gorge
 2 Wrenn and Six
-2 Tarmogoyf
 2 Stomping Ground
+2 Tarmogoyf
 3 Wrenn and Six
 3 Tarmogoyf
 4 Tarmogoyf
@@ -146,8 +146,8 @@
 1 Path to Exile
 1 Prismatic Vista
 1 Restoration Angel
-2 Snow-Covered Plains
 2 Prismatic Vista
+2 Snow-Covered Plains
 2 Restoration Angel
 2 Wall of Omens
 3 Ephemerate
