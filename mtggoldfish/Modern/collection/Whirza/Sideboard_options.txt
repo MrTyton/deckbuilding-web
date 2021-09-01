@@ -1,9 +1,9 @@
 1 Prismatic Ending
 1 Torpor Orb
-1 Emrakul, the Aeons Torn
 1 Pithing Needle
-1 Spellskite
 1 Soul-Guide Lantern
+1 Emrakul, the Aeons Torn
+1 Spellskite
 1 Ethersworn Canonist
 2 Teferi, Time Raveler
 1 Condemn
@@ -15,20 +15,8 @@
 3 Flusterstorm
 3 Wear/Tear
 1 Kozilek, Butcher of Truth
-1 Sorcerous Spyglass
-1 Fatal Push
-1 Thoughtseize
-1 Grafdigger's Cage
-1 Tezzeret, Agent of Bolas
-2 Fatal Push
-2 Thoughtseize
-3 Fatal Push
-3 Thoughtseize
-4 Thoughtseize
-1 Vanishing Verse
-1 Fracture
-2 Fracture
 1 Ensnaring Bridge
+1 Sorcerous Spyglass
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 3 Leyline of Sanctity
@@ -40,7 +28,15 @@
 2 Dauthi Voidwalker
 3 Dauthi Voidwalker
 2 Prismatic Ending
-1 Damnation
+1 Grafdigger's Cage
+1 Fatal Push
+1 Thoughtseize
+1 Tezzeret, Agent of Bolas
+2 Fatal Push
+2 Thoughtseize
+3 Fatal Push
+3 Thoughtseize
+4 Thoughtseize
 1 Witchbane Orb
 1 Spell Pierce
 1 Metallic Rebuke
@@ -48,6 +44,9 @@
 2 Metallic Rebuke
 3 Metallic Rebuke
 1 Elixir of Immortality
+1 Vanishing Verse
+1 Fracture
+2 Fracture
 3 Prismatic Ending
 1 Vindicate
 2 Vindicate
@@ -67,6 +66,7 @@
 1 Ghirapur Aether Grid
 1 Shadowspear
 1 Rip Apart
+1 Damnation
 1 Dovin's Veto
 1 Cursed Totem
 1 Surgical Extraction
@@ -75,9 +75,16 @@
 1 Sanctifier en-Vec
 1 Dispel
 2 Sanctifier en-Vec
-2 Spellskite
 2 Dispel
+2 Spellskite
 3 Mystical Dispute
+1 Blood Moon
+1 Ulamog, the Infinite Gyre
+1 Archmage's Charm
+2 Blood Moon
+2 Welding Jar
+2 Archmage's Charm
+3 Blood Moon
 1 Hurkyl's Recall
 1 Tormod's Crypt
 2 Hurkyl's Recall

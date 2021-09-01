@@ -1,7 +1,8 @@
-1 Snapcaster Mage
+2 Solitude
 2 Scalding Tarn
+2 Plains
 1 Steam Vents
-2 Steam Vents
+3 Scalding Tarn
 1 Sacred Foundry
 1 Unholy Heat
 1 Esper Sentinel
@@ -9,12 +10,12 @@
 1 Arid Mesa
 1 Mishra's Bauble
 1 Pithing Needle
-1 Urza's Saga
-1 Inspiring Vantage
-1 Dragon's Rage Channeler
 1 Shadowspear
+1 Urza's Saga
+1 Dragon's Rage Channeler
 1 Portable Hole
 1 Lightning Bolt
+1 Inspiring Vantage
 2 Sacred Foundry
 2 Unholy Heat
 2 Esper Sentinel
@@ -37,11 +38,11 @@
 4 Dragon's Rage Channeler
 4 Lightning Bolt
 4 Urza's Saga
-3 Scalding Tarn
 1 Springleaf Drum
 1 Expressive Iteration
 1 Tarfire
 2 Expressive Iteration
+2 Steam Vents
 3 Inspiring Vantage
 3 Expressive Iteration
 4 Expressive Iteration
@@ -52,9 +53,20 @@
 2 Arid Mesa
 1 Aether Spellbomb
 3 Sacred Foundry
-2 Plains
+3 Mystic Gate
+1 Bloodbraid Marauder
+2 Bloodbraid Marauder
+3 Bloodbraid Marauder
+4 Bloodbraid Marauder
+3 Glacial Fortress
 1 Snow-Covered Island
 2 Snow-Covered Island
+3 Solitude
+1 Jace, the Mind Sculptor
+4 Scalding Tarn
+1 Engineered Explosives
+1 Wall of Omens
+3 Snow-Covered Island
 1 Breeding Pool
 1 Ice-Fang Coatl
 1 Eternal Witness
@@ -63,61 +75,64 @@
 2 Ice-Fang Coatl
 2 Eternal Witness
 3 Ice-Fang Coatl
-3 Snow-Covered Island
 4 Ice-Fang Coatl
-3 Solitude
+1 Snow-Covered Plains
 1 Glacial Floodplain
 1 Flooded Grove
 2 Flooded Grove
 3 Eternal Witness
-1 Bloodbraid Marauder
-2 Bloodbraid Marauder
-3 Bloodbraid Marauder
-1 Snow-Covered Plains
-3 Mystic Gate
-4 Bloodbraid Marauder
-1 Wall of Omens
-1 Ephemerate
-1 Jace, the Mind Sculptor
-1 Reflecting Pool
-1 Engineered Explosives
-4 Scalding Tarn
 3 Portable Hole
 1 Bomat Courier
-2 Polluted Delta
 1 Bloodstained Mire
-1 Fire/Ice
-2 Fire/Ice
-3 Glacial Fortress
+1 Ephemerate
 1 Pyrite Spellbomb
+1 Hall of Storm Giants
+3 Chalice of the Void
 1 Force of Negation
-1 Dress Down
+3 Spreading Seas
+4 Spreading Seas
+1 Reflecting Pool
 3 Arid Mesa
 2 Bomat Courier
 3 Bomat Courier
-1 Hall of Storm Giants
+1 Fire/Ice
+2 Fire/Ice
 1 Soul-Guide Lantern
-3 Fire/Ice
-4 Fire/Ice
 2 Bloodstained Mire
 2 Ephemerate
-3 Chalice of the Void
+2 Snapcaster Mage
 2 Force of Negation
 1 Seal of Fire
-3 Spreading Seas
-4 Spreading Seas
-1 Ketria Triome
-2 Jace, the Mind Sculptor
-3 Polluted Delta
+4 Mystic Gate
+2 Polluted Delta
+1 Field of Ruin
+1 Gemstone Caverns
+1 Hieroglyphic Illumination
+2 Field of Ruin
+2 Hieroglyphic Illumination
+3 Field of Ruin
+3 Snapcaster Mage
+4 Field of Ruin
+4 Chalice of the Void
+4 Solitude
+5 Island
+1 Rest in Peace
+3 Fire/Ice
+4 Fire/Ice
 1 Wooded Foothills
 2 Wooded Foothills
-4 Chalice of the Void
-3 Misty Rainforest
+1 Path to Exile
+2 Snow-Covered Plains
+1 Shadow of Doubt
+1 Dress Down
 1 Sulfur Falls
-1 Rest in Peace
+1 Ketria Triome
+2 Jace, the Mind Sculptor
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
-4 Misty Rainforest
+3 Polluted Delta
+2 Rest in Peace
+3 Fact or Fiction
 1 Wrenn and Six
 1 Tarmogoyf
 1 Stomping Ground
@@ -129,34 +144,22 @@
 3 Wrenn and Six
 3 Tarmogoyf
 4 Tarmogoyf
-1 Field of Ruin
-1 Gemstone Caverns
-1 Hieroglyphic Illumination
-2 Field of Ruin
-2 Snapcaster Mage
-2 Hieroglyphic Illumination
-3 Field of Ruin
-3 Snapcaster Mage
-4 Field of Ruin
-4 Solitude
 4 Bomat Courier
+1 Opt
+2 Opt
+3 Opt
+4 Snow-Covered Island
+5 Snow-Covered Island
 1 Temple Garden
 1 Snow-Covered Forest
 1 Windswept Heath
-1 Path to Exile
 1 Prismatic Vista
 1 Restoration Angel
 2 Prismatic Vista
-2 Snow-Covered Plains
 2 Restoration Angel
 2 Wall of Omens
+3 Misty Rainforest
 3 Ephemerate
 3 Wall of Omens
 4 Wall of Omens
 4 Ephemerate
-3 Teferi, Hero of Dominaria
-4 Polluted Delta
-4 Supreme Verdict
-1 Shadow of Doubt
-5 Island
-4 Mystic Gate
