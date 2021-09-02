@@ -3,8 +3,8 @@
 1 Shark Typhoon
 1 Teferi, Hero of Dominaria
 1 Absorb
-1 Steam Vents
 1 Sulfur Falls
+1 Steam Vents
 1 Sacred Foundry
 1 Raugrin Triome
 2 Raugrin Triome
@@ -38,19 +38,19 @@
 2 Scorching Dragonfire
 3 Scorching Dragonfire
 3 Expressive Iteration
-3 Mutavault
 1 Castle Vantress
-1 Treasure Vault
+3 Mutavault
 4 Scorching Dragonfire
-1 Sphinx's Revelation
 4 Sulfur Falls
-1 Magma Spray
+1 Sphinx's Revelation
 4 Expressive Iteration
 1 Rest in Peace
 1 Needle Spires
 2 Rest in Peace
-2 Magma Spray
 3 Dovin's Veto
+1 Magma Spray
+2 Magma Spray
+1 Treasure Vault
 4 Dovin's Veto
 1 Dig Through Time
 1 Behold the Multiverse
@@ -71,21 +71,23 @@
 1 Chained to the Rocks
 2 Chained to the Rocks
 3 Chained to the Rocks
+1 Azorius Charm
 2 Behold the Multiverse
 1 Prismari Command
+4 Teferi, Hero of Dominaria
 3 Dig Through Time
+2 Azorius Charm
 4 Chained to the Rocks
-2 Island
-1 Azorius Charm
 2 Narset, Parter of Veils
 3 Narset, Parter of Veils
 1 Cast Out
+2 Island
 1 Opt
 2 Opt
 3 Opt
 4 Opt
-4 Teferi, Hero of Dominaria
-2 Azorius Charm
+3 Azorius Charm
+2 Needle Spires
 3 The Blackstaff of Waterdeep
 3 Sacred Foundry
 4 Censor
@@ -113,8 +115,6 @@
 4 Omen of the Sun
 4 Fabled Passage
 4 Sacred Foundry
-3 Azorius Charm
-2 Needle Spires
 2 Plains
 1 Magma Opus
 2 Magma Opus
@@ -123,7 +123,6 @@
 2 Mountain
 1 Anger of the Gods
 2 Seal Away
-4 All That Glitters
 2 Rewind
 4 Magma Opus
 1 Search for Azcanta
@@ -142,21 +141,22 @@
 2 Valakut Awakening
 3 Fire Prophecy
 4 Fire Prophecy
+4 Azorius Charm
 1 Field of Ruin
 1 Irrigated Farmland
 2 Irrigated Farmland
 2 Sphinx's Revelation
-1 Whirlwind of Thought
 1 Narset of the Ancient Way
+1 Whirlwind of Thought
 3 Behold the Multiverse
 3 Magma Spray
 4 Magma Spray
+4 All That Glitters
 1 Mystical Dispute
 1 Cave of the Frost Dragon
 2 Field of Ruin
 2 Castle Vantress
 3 Island
-4 Azorius Charm
 4 Island
 5 Island
 2 Prismari Command
@@ -176,8 +176,8 @@
 2 Anger of the Gods
 2 Stubborn Denial
 1 Jace, Vryn's Prodigy
-1 Spirebluff Canal
 1 Sinister Sabotage
+1 Spirebluff Canal
 1 Bonecrusher Giant
 2 Jace, Vryn's Prodigy
 2 Bonecrusher Giant

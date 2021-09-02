@@ -3,19 +3,19 @@
 3 Field of Ruin
 1 Soul Shatter
 1 Behold the Multiverse
-1 Bloodchief's Thirst
-1 Saw It Coming
-2 Saw It Coming
 2 Soul Shatter
-4 Mazemind Tome
-1 Castle Vantress
-2 Behold the Multiverse
 4 Zagoth Triome
+1 Bloodchief's Thirst
+4 Mazemind Tome
+1 Saw It Coming
+1 Castle Vantress
+2 Saw It Coming
+2 Behold the Multiverse
 1 Essence Scatter
+2 Mystical Dispute
 2 Negate
 1 Lochmere Serpent
 2 Bloodchief's Thirst
-2 Mystical Dispute
 2 Essence Scatter
 1 Kaervek, the Spiteful
 2 Kaervek, the Spiteful
@@ -29,15 +29,14 @@
 2 Crawling Barrens
 6 Swamp
 7 Swamp
+1 Professor Onyx
 4 Field of Ruin
 1 Crippling Fear
 1 Hagra Mauling
-1 Professor Onyx
 1 Frantic Inventory
 2 Frantic Inventory
 3 Frantic Inventory
 4 Frantic Inventory
-3 Saw It Coming
 1 Snow-Covered Swamp
 1 Blood on the Snow
 1 Graven Lore
@@ -48,6 +47,7 @@
 2 Snow-Covered Island
 2 Ice Tunnel
 3 Snow-Covered Swamp
+3 Saw It Coming
 3 Snow-Covered Island
 4 Snow-Covered Swamp
 4 Snow-Covered Island
@@ -59,8 +59,8 @@
 1 Hive of the Eye Tyrant
 2 Elspeth's Nightmare
 1 Erebos's Intervention
-1 Solemn Simulacrum
 1 Castle Locthwain
+1 Solemn Simulacrum
 2 Ugin, the Spirit Dragon
 2 Hagra Mauling
 2 Solemn Simulacrum
@@ -73,7 +73,15 @@
 10 Swamp
 11 Swamp
 12 Swamp
-4 Saw It Coming
+1 Eliminate
+1 Fabled Passage
+1 Darkbore Pathway
+1 Barkchannel Pathway
+1 Forest
+2 Fabled Passage
+2 Barkchannel Pathway
+3 Barkchannel Pathway
+4 Barkchannel Pathway
 1 Suffocating Fumes
 2 Cling to Dust
 1 Jwari Ruins
@@ -84,77 +92,47 @@
 2 Hive of the Eye Tyrant
 2 Radiant Fountain
 2 Murderous Rider
-2 Pestilent Haze
 2 Pelakka Predation
+2 Pestilent Haze
 3 Murderous Rider
 3 Pestilent Haze
-1 Fabled Passage
-1 Kiora Bests the Sea God
-1 Darkbore Pathway
-1 Polukranos, Unchained
+1 Ray of Enfeeblement
+1 Witherbloom Command
+1 Alrund's Epiphany
+1 Rain of Revelation
+1 Blex, Vexing Pest
+1 Curate
+1 Thirst for Meaning
+1 Temple of Mystery
+1 Titans' Nest
+2 Alrund's Epiphany
+2 Blex, Vexing Pest
+2 Thirst for Meaning
+2 Witherbloom Command
+2 Curate
+2 Titans' Nest
+3 Fabled Passage
+3 Alrund's Epiphany
+3 Thirst for Meaning
+3 Titans' Nest
+3 Curate
+4 Fabled Passage
+4 Alrund's Epiphany
+4 Titans' Nest
 1 Elder Gargaroth
+1 Kiora Bests the Sea God
+1 Polukranos, Unchained
 1 Koma, Cosmos Serpent
-1 Barkchannel Pathway
-1 Forest
 1 Mortality Spear
-2 Fabled Passage
 2 Mortality Spear
 2 Forest
 2 Polukranos, Unchained
-2 Barkchannel Pathway
 2 Darkbore Pathway
 2 Elder Gargaroth
 3 Elder Gargaroth
-3 Barkchannel Pathway
 3 Darkbore Pathway
 4 Darkbore Pathway
-4 Barkchannel Pathway
 4 Elder Gargaroth
-1 Doomskar
-1 Blightstep Pathway
-1 Riverglide Pathway
-1 Banishing Light
-1 Brightclimb Pathway
-1 Glass Casket
-1 Needleverge Pathway
-1 Portable Hole
-1 Dance of the Manse
-1 Swiftwater Cliffs
-1 Temple of Epiphany
-1 Doom Foretold
-1 Wind-Scarred Crag
-1 Temple of Triumph
-1 Tranquil Cove
-1 Hengegate Pathway
-1 Outlaws' Merriment
-1 Temple of Silence
-1 Whirlwind of Thought
-1 Witching Well
-2 Doomskar
-2 Banishing Light
-2 Portable Hole
-2 Brightclimb Pathway
-2 Outlaws' Merriment
-2 Swiftwater Cliffs
-2 Doom Foretold
-2 Tranquil Cove
-2 Glass Casket
-2 Wind-Scarred Crag
-2 Hengegate Pathway
-2 Witching Well
-2 Dance of the Manse
-2 Whirlwind of Thought
-3 Portable Hole
-3 Banishing Light
-3 Glass Casket
-3 Negate
-3 Tranquil Cove
-3 Doomskar
-3 Witching Well
-4 Banishing Light
-4 Glass Casket
-4 Negate
-4 Witching Well
 1 Brazen Borrower
 1 Confront the Past
 1 Test of Talents
@@ -163,13 +141,13 @@
 3 Ice Tunnel
 4 Behold the Multiverse
 4 Ice Tunnel
+4 Saw It Coming
 2 Professor Onyx
 2 Blood on the Snow
 2 Crippling Fear
 3 Blood on the Snow
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
-1 Eliminate
 1 Eat to Extinction
 2 Baleful Mastery
 2 Eliminate
