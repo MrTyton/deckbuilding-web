@@ -1,6 +1,5 @@
-3 Werewolf Pack Leader
-4 Werewolf Pack Leader
-4 Barkhide Troll
+3 Barkhide Troll
+8 Forest
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
@@ -18,57 +17,53 @@
 15 Snow-Covered Forest
 16 Snow-Covered Forest
 17 Snow-Covered Forest
-18 Snow-Covered Forest
 1 Blizzard Brawl
 2 Blizzard Brawl
+18 Snow-Covered Forest
 1 Ranger Class
 2 Ranger Class
-19 Snow-Covered Forest
 1 Lair of the Hydra
 2 Lair of the Hydra
-2 Hashep Oasis
+19 Snow-Covered Forest
+4 Barkhide Troll
 1 Vivien, Arkbow Ranger
+2 Hashep Oasis
 20 Snow-Covered Forest
+2 Vivien, Arkbow Ranger
 3 Lair of the Hydra
 4 Lair of the Hydra
 1 The Great Henge
-2 Vivien, Arkbow Ranger
 1 Kazandu Mammoth
-9 Forest
 4 Scavenging Ooze
+9 Forest
+3 Ranger Class
+1 Faceless Haven
+2 Kazandu Mammoth
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 Lovestruck Beast
-1 Faceless Haven
 1 Snakeskin Veil
-3 Ranger Class
-4 Lovestruck Beast
-2 Faceless Haven
-2 Kazandu Mammoth
-3 Primal Might
 3 Blizzard Brawl
-1 Questing Beast
-2 Snakeskin Veil
-1 Castle Garenbrig
-2 Castle Garenbrig
-2 The Great Henge
-21 Snow-Covered Forest
-22 Snow-Covered Forest
-1 Yorvo, Lord of Garenbrig
+2 Faceless Haven
 3 Faceless Haven
 4 Ranger Class
 4 Blizzard Brawl
-2 Questing Beast
-1 Kraul Harpooner
-2 Kraul Harpooner
+4 Lovestruck Beast
+21 Snow-Covered Forest
+22 Snow-Covered Forest
+2 The Great Henge
+1 Yorvo, Lord of Garenbrig
+1 Questing Beast
 1 Gemrazer
 1 Stonecoil Serpent
 2 Stonecoil Serpent
-3 Stonecoil Serpent
 4 Faceless Haven
-1 Wildborn Preserver
-4 Primal Might
-10 Forest
+3 Primal Might
+1 Castle Garenbrig
+2 Castle Garenbrig
+2 Snakeskin Veil
+1 Kraul Harpooner
+2 Kraul Harpooner
 1 Blooming Marsh
 1 Overgrown Tomb
 1 Darkbore Pathway
@@ -79,30 +74,33 @@
 2 Rotting Regisaur
 3 Blooming Marsh
 3 Darkbore Pathway
-3 Rotting Regisaur
 3 Overgrown Tomb
+3 Rotting Regisaur
 4 Darkbore Pathway
 4 Rotting Regisaur
 4 Overgrown Tomb
+2 Questing Beast
+3 Stonecoil Serpent
+1 Wildborn Preserver
+3 Kazandu Mammoth
+4 Kazandu Mammoth
+1 Woodland Cemetery
+4 Blooming Marsh
+10 Forest
+4 Primal Might
 3 Hashep Oasis
 4 Hashep Oasis
 2 Wildborn Preserver
+1 Shadowspear
+1 Scrapheap Scrounger
+1 Midnight Reaper
+1 Abundant Harvest
+2 Abundant Harvest
+2 Scrapheap Scrounger
 1 Asylum Visitor
-1 Woodland Cemetery
 2 Woodland Cemetery
 2 Asylum Visitor
 3 Woodland Cemetery
-1 Carnage Tyrant
-1 Verdurous Gearhulk
-1 Elder Gargaroth
-1 Vorinclex, Monstrous Raider
-1 Harmonize
-2 Vorinclex, Monstrous Raider
-2 Carnage Tyrant
-2 Verdurous Gearhulk
-2 Harmonize
-2 Elder Gargaroth
-3 The Great Henge
 1 Inscription of Abundance
 1 Nessian Hornbeetle
 2 Nessian Hornbeetle
@@ -112,24 +110,14 @@
 2 Ghalta, Primal Hunger
 3 Yorvo, Lord of Garenbrig
 3 Rhonas the Indomitable
-1 Shadowspear
-1 Scrapheap Scrounger
-1 Midnight Reaper
-1 Abundant Harvest
-2 Abundant Harvest
-2 Scrapheap Scrounger
-4 Blooming Marsh
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+4 Thoughtseize
 3 Kraul Harpooner
-3 Kazandu Mammoth
-4 Kazandu Mammoth
 4 Kraul Harpooner
-11 Forest
-12 Forest
-13 Forest
-14 Forest
-15 Forest
-1 Temple Garden
 1 Branchloft Pathway
+1 Temple Garden
 1 Vivien, Monsters' Advocate
 1 Blossoming Defense
 1 Gilded Goose
@@ -144,3 +132,18 @@
 4 Branchloft Pathway
 4 Temple Garden
 4 Gilded Goose
+11 Forest
+12 Forest
+13 Forest
+14 Forest
+15 Forest
+1 Swarm Shambler
+1 Growth-Chamber Guardian
+2 Gemrazer
+2 Swarm Shambler
+2 Growth-Chamber Guardian
+3 Swarm Shambler
+3 Growth-Chamber Guardian
+3 Gemrazer
+4 Swarm Shambler
+4 Growth-Chamber Guardian

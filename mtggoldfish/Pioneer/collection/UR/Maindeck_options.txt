@@ -1,107 +1,42 @@
-2 Riverglide Pathway
-2 Island
-1 Goldspan Dragon
-1 Silumgar's Scorn
-1 Expressive Iteration
-1 Mountain
-2 Silumgar's Scorn
-2 Goldspan Dragon
-2 Expressive Iteration
-3 Silumgar's Scorn
-3 Goldspan Dragon
-3 Riverglide Pathway
-3 Expressive Iteration
-4 Goldspan Dragon
-4 Riverglide Pathway
-1 Sulfur Falls
-1 Glorybringer
-2 Sulfur Falls
-3 Sulfur Falls
-4 Sulfur Falls
-1 Anger of the Gods
-4 Expressive Iteration
-1 Fabled Passage
-1 Opt
-2 Anger of the Gods
-2 Fabled Passage
-2 Opt
-3 Island
-3 Opt
-4 Silumgar's Scorn
-4 Opt
-2 Glorybringer
-1 Hall of Storm Giants
-1 Brazen Borrower
-2 Mountain
-3 Mountain
-1 Dig Through Time
-1 Mystical Dispute
-1 Draconic Roar
-2 Hall of Storm Giants
-2 Draconic Roar
-3 Draconic Roar
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-2 Brazen Borrower
-4 Mountain
-1 Dragon's Fire
-1 The Royal Scions
-2 The Royal Scions
-3 Stubborn Denial
-1 Silver Raven
-2 Silver Raven
-3 Silver Raven
-4 Mutavault
-1 Inferno of the Star Mounts
-2 Mystical Dispute
-3 Hall of Storm Giants
-4 Draconic Roar
-4 Island
-3 Anger of the Gods
-1 Niv-Mizzet, Parun
-1 Castle Vantress
-1 Chandra, Torch of Defiance
-2 Dragon's Fire
-3 Dragon's Fire
-1 Prismari Command
+1 Galazeth Prismari
+1 Raugrin Triome
 2 Prismari Command
-1 Den of the Bugbear
-2 Spire of Industry
-1 Shark Typhoon
-2 Shark Typhoon
-4 Hall of Storm Giants
-4 Silver Raven
+2 Raugrin Triome
+3 Raugrin Triome
 1 Unsubstantiate
+1 Spikefield Hazard
+1 Spirebluff Canal
 1 Unexpected Windfall
 1 Seize the Spoils
-1 Spikefield Hazard
+1 Shivan Reef
 1 Fiery Impulse
-1 Galazeth Prismari
-1 Vadrok, Apex of Thunder
 1 Curate
-1 Needleverge Pathway
 1 Hengegate Pathway
+1 Vadrok, Apex of Thunder
 1 Lore Drakkis
-1 Raugrin Triome
+1 Needleverge Pathway
 2 Dig Through Time
 2 Fiery Impulse
 2 Spikefield Hazard
 2 Seize the Spoils
-2 Curate
+2 Spirebluff Canal
+2 Shivan Reef
 2 Lore Drakkis
+2 Curate
 2 Unsubstantiate
 2 Hengegate Pathway
-2 Raugrin Triome
 2 Vadrok, Apex of Thunder
 2 Needleverge Pathway
 3 Seize the Spoils
-3 Vadrok, Apex of Thunder
-3 Raugrin Triome
-3 Lore Drakkis
-3 Unsubstantiate
 3 Spikefield Hazard
+3 Vadrok, Apex of Thunder
+3 Lore Drakkis
 3 Hengegate Pathway
+3 Unsubstantiate
 4 Lore Drakkis
+1 Shark Typhoon
+2 Shark Typhoon
+4 Hall of Storm Giants
 1 Behold the Multiverse
 1 Treasure Map
 1 Stormbreath Dragon
@@ -113,30 +48,52 @@
 1 Abrade
 2 Niv-Mizzet, Parun
 2 Treasure Cruise
+3 Anger of the Gods
 3 Treasure Cruise
 4 Anger of the Gods
 4 Treasure Cruise
-1 Torrential Gearhulk
+1 Glacial Fortress
 1 Magma Opus
-1 Sprite Dragon
-2 Torrential Gearhulk
+1 Deafening Clarion
+1 Dovin's Veto
+1 Chained to the Rocks
+1 Hallowed Fountain
+1 Mana Confluence
+1 Sacred Foundry
+1 Plains
+2 Glacial Fortress
 2 Magma Opus
-2 Sprite Dragon
+2 Dovin's Veto
+2 Deafening Clarion
+2 Mana Confluence
+2 Hallowed Fountain
+2 Chained to the Rocks
+2 Galazeth Prismari
+3 Glacial Fortress
+3 Hallowed Fountain
 3 Magma Opus
-3 Sprite Dragon
-4 Dragon's Fire
+3 Prismari Command
+3 Chained to the Rocks
+4 Glacial Fortress
+4 Raugrin Triome
+4 Magma Opus
+4 Chained to the Rocks
+1 Castle Vantress
 1 Temple of Epiphany
+1 Chandra, Torch of Defiance
 1 Rekindling Phoenix
 1 Wandering Fumarole
 1 Glasspool Mimic
 2 Chandra, Torch of Defiance
 2 Rekindling Phoenix
+2 Dragon's Fire
 2 Temple of Epiphany
 3 Brazen Borrower
+3 Chandra, Torch of Defiance
+3 Dragon's Fire
 3 Glorybringer
 3 Bonecrusher Giant
 3 Rekindling Phoenix
-3 Chandra, Torch of Defiance
 4 Brazen Borrower
 4 Rekindling Phoenix
 4 Glorybringer

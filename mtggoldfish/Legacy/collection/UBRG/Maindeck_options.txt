@@ -14,29 +14,29 @@
 4 Scalding Tarn
 2 Volcanic Island
 3 Volcanic Island
-1 Ragavan, Nimble Pilferer
 1 Lightning Bolt
 1 Ponder
 1 Brainstorm
 1 Force of Will
 1 Misty Rainforest
-2 Ragavan, Nimble Pilferer
 2 Lightning Bolt
 2 Ponder
 2 Force of Will
 2 Brainstorm
 3 Lightning Bolt
-3 Ragavan, Nimble Pilferer
 3 Force of Will
 3 Ponder
 3 Brainstorm
 4 Lightning Bolt
-4 Brainstorm
 4 Ponder
 4 Force of Will
+4 Brainstorm
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
+1 Snow-Covered Island
 1 Polluted Delta
 4 Ragavan, Nimble Pilferer
-1 Snow-Covered Island
 1 Asylum Visitor
 1 Snow-Covered Swamp
 2 Asylum Visitor
@@ -47,43 +47,47 @@
 1 Flooded Strand
 1 Expressive Iteration
 2 Expressive Iteration
-1 Force of Negation
 1 Pyroblast
+1 Force of Negation
 1 Urza's Saga
 2 Urza's Saga
 3 Expressive Iteration
 3 Urza's Saga
 4 Expressive Iteration
 4 Urza's Saga
-1 Fiery Islet
-1 Daze
 2 Misty Rainforest
-3 Gamble
-1 Relic of Progenitus
+1 Fiery Islet
 2 Pyroblast
-1 Retrofitter Foundry
-1 Island
-2 Island
+1 Daze
+1 Relic of Progenitus
 4 Volcanic Island
-1 Fiery Temper
-2 Fiery Temper
-3 Fiery Temper
-4 Fiery Temper
-2 Daze
-2 Polluted Delta
-2 Force of Negation
-1 Aether Spellbomb
 1 Painter's Servant
 1 Grindstone
 2 Painter's Servant
 2 Grindstone
 3 Painter's Servant
 4 Painter's Servant
-1 Bayou
+1 Retrofitter Foundry
+1 Island
+2 Island
+3 Gamble
+1 Fiery Temper
+2 Fiery Temper
+3 Fiery Temper
+4 Fiery Temper
+2 Force of Negation
+2 Daze
+2 Polluted Delta
+1 Aether Spellbomb
 1 Tropical Island
 2 Tropical Island
-1 Jace, the Mind Sculptor
 3 Misty Rainforest
+1 Red Elemental Blast
+1 Bayou
+1 Jace, the Mind Sculptor
+1 Uro, Titan of Nature's Wrath
+2 Uro, Titan of Nature's Wrath
+4 Misty Rainforest
 1 Counterbalance
 1 Wasteland
 1 Chain Lightning
@@ -91,40 +95,37 @@
 1 Preordain
 2 Flooded Strand
 2 Chain Lightning
-2 Murktide Regent
 2 Counterbalance
+2 Murktide Regent
 2 Wasteland
 3 Murktide Regent
 4 Wooded Foothills
 1 Leovold, Emissary of Trest
 1 Sylvan Library
 1 Assassin's Trophy
-1 Drown in the Loch
 1 Baleful Strix
-1 Uro, Titan of Nature's Wrath
+1 Drown in the Loch
 1 Underground Sea
 2 Baleful Strix
-2 Drown in the Loch
-2 Underground Sea
 2 Sylvan Library
 2 Assassin's Trophy
+2 Drown in the Loch
+2 Underground Sea
 2 Leovold, Emissary of Trest
-2 Uro, Titan of Nature's Wrath
 3 Polluted Delta
 3 Baleful Strix
 4 Polluted Delta
 4 Baleful Strix
-4 Misty Rainforest
 1 Hydroblast
-1 Red Elemental Blast
 1 Pyrite Spellbomb
 3 Pyroblast
+3 Uro, Titan of Nature's Wrath
+2 Snow-Covered Island
 1 Liliana, the Last Hope
 2 Fiery Islet
 1 Snapcaster Mage
-2 Red Elemental Blast
-2 Snow-Covered Island
 2 Snapcaster Mage
+2 Red Elemental Blast
 1 Cephalid Coliseum
 1 Breakthrough
 1 Bazaar Trademage
@@ -132,6 +133,23 @@
 2 Cephalid Coliseum
 3 Tropical Island
 3 Cephalid Coliseum
+1 Dress Down
+1 Engineered Explosives
+1 Narset, Parter of Veils
+1 Snow-Covered Forest
+1 Ice-Fang Coatl
+1 Prismatic Vista
+2 Narset, Parter of Veils
+2 Dress Down
+2 Engineered Explosives
+2 Prismatic Vista
+2 Ice-Fang Coatl
+2 Snow-Covered Forest
+3 Narset, Parter of Veils
+3 Grindstone
+3 Ice-Fang Coatl
+3 Snow-Covered Island
+4 Narset, Parter of Veils
 1 Land Grant
 1 Lotus Petal
 1 Chrome Mox
@@ -145,7 +163,6 @@
 4 Land Grant
 4 Lotus Petal
 3 Assassin's Trophy
-3 Uro, Titan of Nature's Wrath
 4 Assassin's Trophy
 4 Arid Mesa
 1 Soul-Guide Lantern
@@ -159,19 +176,19 @@
 3 Hydroblast
 4 Hydroblast
 1 Ethereal Forager
-1 Spell Pierce
 1 Fire/Ice
+1 Spell Pierce
 1 Hullbreacher
 1 Stasis
 1 Forsaken City
 1 Ral Zarek
 2 Ethereal Forager
-2 Retrofitter Foundry
 2 Ral Zarek
-2 Stasis
+2 Retrofitter Foundry
 2 Hullbreacher
-3 Island
+2 Stasis
 3 Daze
+3 Island
 3 Ral Zarek
 3 Stasis
 4 Island

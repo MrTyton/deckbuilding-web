@@ -1,29 +1,28 @@
 2 Weather the Storm
-2 Flusterstorm
-3 Veil of Summer
-1 Wilt
 1 Spellskite
-2 Spellskite
-1 Mystical Dispute
+3 Veil of Summer
 1 Spell Pierce
-1 Surgical Extraction
+2 Spellskite
+2 Flusterstorm
+1 Wilt
 1 Inquisition of Kozilek
+1 Mystical Dispute
+1 Surgical Extraction
+2 Spell Pierce
 1 Shapers' Sanctuary
 1 Dryad Arbor
-2 Spell Pierce
 1 Tainted Strike
-2 Dismember
-1 Distortion Strike
-2 Shapers' Sanctuary
-1 Damping Sphere
-3 Fatal Push
 1 Suspend
+1 Damping Sphere
+2 Shapers' Sanctuary
+3 Fatal Push
 2 Suspend
 1 Relic of Progenitus
 2 Relic of Progenitus
 2 Mystical Dispute
-1 Vapor Snag
-2 Vapor Snag
+2 Dismember
+1 Distortion Strike
+2 Inquisition of Kozilek
 4 Force of Vigor
 1 Endurance
 2 Endurance
@@ -31,10 +30,8 @@
 1 Postmortem Lunge
 1 Assassin's Trophy
 2 Tainted Strike
-1 Tarmogoyf
-2 Tarmogoyf
-3 Tarmogoyf
-2 Inquisition of Kozilek
+1 Vapor Snag
+2 Vapor Snag
 4 Endurance
 2 Surgical Extraction
 2 Damping Sphere
@@ -43,14 +40,13 @@
 2 Groundswell
 1 Pithing Needle
 4 Veil of Summer
+1 Soul-Guide Lantern
 1 Thoughtseize
 1 Prismatic Ending
 1 Collective Brutality
 1 Nihil Spellbomb
 1 Gemrazer
 2 Collective Brutality
-1 Shadow of Doubt
-2 Shadow of Doubt
 1 Choke
 2 Choke
 1 Path to Exile
@@ -66,15 +62,21 @@
 2 Brazen Borrower
 2 Force of Negation
 2 Invisible Stalker
-1 Soul-Guide Lantern
 1 Lurrus of the Dream-Den
 1 Stony Silence
 1 Seal of Primordium
 2 Soul-Guide Lantern
+1 Shadow of Doubt
+2 Shadow of Doubt
 1 Pulse of Murasa
 2 Wilt
 2 Pulse of Murasa
+1 Annihilating Fire
+3 Inquisition of Kozilek
 3 Damping Sphere
+1 Dark Confidant
+2 Dark Confidant
+3 Groundswell
 1 Chalice of the Void
 1 Leyline of the Void
 2 Chalice of the Void
@@ -82,6 +84,6 @@
 2 Thoughtseize
 3 Leyline of the Void
 4 Leyline of the Void
-1 Dark Confidant
-2 Dark Confidant
-3 Groundswell
+1 Tarmogoyf
+2 Tarmogoyf
+3 Tarmogoyf

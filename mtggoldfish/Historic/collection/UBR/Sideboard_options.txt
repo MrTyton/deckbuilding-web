@@ -1,21 +1,21 @@
 1 Cling to Dust
 1 Inferno of the Star Mounts
+3 Relic of Progenitus
 1 Anger of the Gods
 1 Fry
 1 Legion's End
 2 Legion's End
 2 Anger of the Gods
 2 Fry
-3 Relic of Progenitus
-1 Extinction Event
 1 Noxious Grasp
+1 Extinction Event
 1 Mystical Dispute
 1 Duress
 1 Brazen Borrower
 3 Anger of the Gods
-1 Aether Gust
-2 Mystical Dispute
 1 Narset, Parter of Veils
+2 Mystical Dispute
+1 Aether Gust
 1 Shark Typhoon
 2 Shark Typhoon
 2 Brazen Borrower
@@ -24,22 +24,18 @@
 3 Shark Typhoon
 4 Shark Typhoon
 3 Brazen Borrower
-2 Noxious Grasp
-2 Aether Gust
 2 Cling to Dust
+2 Noxious Grasp
 3 Narset, Parter of Veils
-1 Soul-Guide Lantern
-1 Magma Spray
 2 Chandra, Awakened Inferno
+1 The Scarab God
+1 Enter the God-Eternals
+2 Aether Gust
+3 Mystical Dispute
 1 Go Blank
 1 Angrath, the Flame-Chained
 1 Kolaghan's Command
 2 Duress
-1 The Scarab God
-1 Enter the God-Eternals
-3 Mystical Dispute
-2 Magma Spray
-1 Doom Blade
 1 Vanishing Verse
 1 Kambal, Consul of Allocation
 2 Kambal, Consul of Allocation
@@ -49,10 +45,14 @@
 2 Vanishing Verse
 2 Containment Priest
 2 Go Blank
-3 Legion's End
 1 Kaya, Orzhov Usurper
+1 Soul-Guide Lantern
+1 Magma Spray
+2 Magma Spray
 2 Extinction Event
+3 Legion's End
 1 Crippling Fear
+1 Doom Blade
 1 Crux of Fate
 1 Shifting Ceratops
 1 Fatal Push
@@ -65,9 +65,9 @@
 1 Grafdigger's Cage
 2 Grafdigger's Cage
 1 Abrade
+1 Nicol Bolas, the Ravager
 2 Abrade
 1 Ashiok, Dream Render
-1 Nicol Bolas, the Ravager
 2 Crippling Fear
 2 Soul-Guide Lantern
 2 Fire Prophecy
@@ -83,9 +83,7 @@
 4 Grafdigger's Cage
 1 Davriel, Rogue Shadowmage
 2 Davriel, Rogue Shadowmage
-1 Necromentia
 1 Drown in the Loch
-1 Lochmere Serpent
 1 Test of Talents
 1 Chandra's Defeat
 1 Tormod's Crypt
@@ -95,26 +93,15 @@
 2 Entrancing Melody
 1 Unmoored Ego
 2 Unmoored Ego
-1 Kraul Harpooner
-1 Teachings of the Archaics
-1 Containment Breach
-1 Mascot Exhibition
-1 Sporeweb Weaver
-1 Necrotic Fumes
-1 Pest Summoning
-1 Bontu's Last Reckoning
-1 Environmental Sciences
-2 Kraul Harpooner
-2 Ashiok, Dream Render
 2 Inquisition of Kozilek
-1 Thought Distortion
-3 Negate
 1 Chaos Warp
 3 Soul-Guide Lantern
 1 Wilt
 2 Wilt
 3 Eliminate
 3 Wilt
+1 Thought Distortion
+3 Negate
 1 Rest in Peace
 1 Baneslayer Angel
 2 Rest in Peace
@@ -127,27 +114,17 @@
 3 Kroxa, Titan of Death's Hunger
 1 Domri, Anarch of Bolas
 2 Domri, Anarch of Bolas
-3 Davriel, Rogue Shadowmage
 3 Shivan Fire
+3 Davriel, Rogue Shadowmage
 1 Baleful Mastery
 1 God-Eternal Kefnet
 2 Baleful Mastery
 2 God-Eternal Kefnet
 3 God-Eternal Kefnet
+3 Fire Prophecy
+4 Brazen Borrower
 1 Legion Warboss
+1 Necromentia
 2 Legion Warboss
 3 Legion Warboss
 4 Noxious Grasp
-1 Arguel's Blood Fast
-1 Witch's Vengeance
-1 Leyline of the Void
-1 Reidane, God of the Worthy
-1 Bloodchief's Thirst
-2 Bloodchief's Thirst
-2 Witch's Vengeance
-2 Leyline of the Void
-3 Bloodchief's Thirst
-3 Leyline of the Void
-4 Leyline of the Void
-3 Fire Prophecy
-4 Brazen Borrower

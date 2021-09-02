@@ -66,6 +66,6 @@
 |                    1|[Buried Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389453)                 |                     |                                                                                                    |
 |                    2|[Ulamog, the Ceaseless Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402079)|                     |                                                                                                    |
 |                    3|[Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407694)                      |                     |                                                                                                    |
-|                    3|[All Is Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397750)                 |                     |                                                                                                    |
 |                    4|[Urza's Saga](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522335)                 |                     |                                                                                                    |
+|                    3|[All Is Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397750)                 |                     |                                                                                                    |
 
