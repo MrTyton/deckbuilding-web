@@ -23,19 +23,19 @@
 3 Wooded Foothills
 1 Once Upon a Time
 2 Once Upon a Time
-1 Gamble
-1 Mountain
 1 Kitchen Imp
+1 Mountain
 1 Lion's Eye Diamond
 1 Blazing Rootwalla
 1 Basking Rootwalla
 1 Anje's Ravager
+1 Gamble
 1 Ox of Agonas
 1 Taiga
 2 Gamble
+2 Kitchen Imp
 2 Mountain
 2 Taiga
-2 Kitchen Imp
 2 Anje's Ravager
 2 Lion's Eye Diamond
 2 Basking Rootwalla
@@ -47,8 +47,8 @@
 3 Anje's Ravager
 3 Basking Rootwalla
 3 Once Upon a Time
-4 Putrid Imp
 4 Kitchen Imp
+4 Putrid Imp
 4 Anje's Ravager
 4 Basking Rootwalla
 4 Blazing Rootwalla
@@ -89,14 +89,14 @@
 2 Blood Crypt
 2 Snow-Covered Swamp
 3 Snow-Covered Swamp
-1 Windswept Heath
-1 Ephemerate
 1 Scrubland
+1 Ephemerate
 1 Grief
-2 Ephemerate
+1 Windswept Heath
 2 Scrubland
-2 Windswept Heath
+2 Ephemerate
 2 Grief
+2 Windswept Heath
 3 Ephemerate
 3 Grief
 3 Scrubland
