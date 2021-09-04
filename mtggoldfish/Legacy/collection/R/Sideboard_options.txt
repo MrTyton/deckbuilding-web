@@ -6,8 +6,8 @@
 1 Red Elemental Blast
 1 Ensnaring Bridge
 1 Tormod's Crypt
-1 Pithing Needle
 1 Grindstone
+1 Pithing Needle
 1 Sulfur Elemental
 2 Sulfur Elemental
 2 Abrade
@@ -23,11 +23,11 @@
 3 Thorn of Amethyst
 3 Sulfur Elemental
 1 Plague Engineer
-2 Plague Engineer
-3 Plague Engineer
 1 Opposition Agent
 1 Helm of Obedience
 2 Opposition Agent
+2 Plague Engineer
+3 Plague Engineer
 1 Vault of Whispers
 4 Plague Engineer
 3 Opposition Agent
@@ -36,10 +36,10 @@
 2 Shatterstorm
 2 Torpor Orb
 1 Portable Hole
-1 Lightning Bolt
 2 Chandra, Awakened Inferno
 4 Thorn of Amethyst
 4 Sulfur Elemental
+1 Lightning Bolt
 3 Surgical Extraction
 1 Karakas
 1 Grafdigger's Cage
@@ -55,13 +55,13 @@
 1 Pyrokinesis
 1 Rip Apart
 1 Karn, the Great Creator
-1 Nihil Spellbomb
 2 Ensnaring Bridge
 2 Lightning Bolt
 3 Shatterstorm
 1 Dark Confidant
-1 Jegantha, the Wellspring
 1 Meekstone
+1 Nihil Spellbomb
+1 Jegantha, the Wellspring
 1 Painter's Servant
 1 Goblin Cratermaker
 1 Blazing Volley
@@ -83,14 +83,6 @@
 2 Pithing Needle
 1 Meltdown
 2 Meltdown
-1 Kolaghan's Command
-1 Mindbreak Trap
-1 Damping Sphere
-1 Thoughtseize
-2 Kolaghan's Command
-2 Mindbreak Trap
-2 Nihil Spellbomb
-2 Thoughtseize
 1 Murderous Rider
 1 Dystopia
 1 Defense Grid

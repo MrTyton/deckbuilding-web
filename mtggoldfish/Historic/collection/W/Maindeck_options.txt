@@ -28,11 +28,11 @@
 2 Blinkmoth Nexus
 3 Blinkmoth Nexus
 4 Blinkmoth Nexus
-1 Tempered Steel
-1 Court Homunculus
 1 Steel Overseer
+1 Court Homunculus
 1 Stonecoil Serpent
 1 Vault Skirge
+1 Tempered Steel
 1 Gingerbrute
 2 Steel Overseer
 2 Tempered Steel
@@ -44,8 +44,8 @@
 3 Stonecoil Serpent
 3 Gingerbrute
 3 Vault Skirge
-4 Steel Overseer
 4 Tempered Steel
+4 Steel Overseer
 4 Vault Skirge
 4 Stonecoil Serpent
 4 Gingerbrute
@@ -59,10 +59,10 @@
 3 Bomat Courier
 4 Inspiring Vantage
 4 Bomat Courier
+1 Concealed Courtyard
 1 Scrapheap Scrounger
 1 Ingenious Smith
 1 Ornithopter
-1 Concealed Courtyard
 2 Scrapheap Scrounger
 2 Ingenious Smith
 2 Ornithopter
@@ -95,8 +95,8 @@
 13 Plains
 2 Shefet Dunes
 1 Servo Exhibition
-2 Servo Exhibition
 2 Court Homunculus
+2 Servo Exhibition
 3 Servo Exhibition
 4 Servo Exhibition
 1 Teferi's Protection
@@ -111,27 +111,9 @@
 2 Rest in Peace
 2 Drannith Magistrate
 3 Reidane, God of the Worthy
-1 Needleverge Pathway
-1 Karn, Scion of Urza
-1 Showdown of the Skalds
-1 Sacred Foundry
-1 Ramunap Ruins
-2 Needleverge Pathway
-2 Sacred Foundry
-2 Karn, Scion of Urza
-2 Showdown of the Skalds
-2 Ramunap Ruins
-3 Karn, Scion of Urza
-3 Sacred Foundry
-3 Needleverge Pathway
-3 Showdown of the Skalds
-3 Ramunap Ruins
-4 Ramunap Ruins
-4 Needleverge Pathway
-4 Sacred Foundry
 1 Emeria's Call
-1 Esper Sentinel
 1 Soul-Guide Lantern
+1 Esper Sentinel
 2 Emeria's Call
 2 Esper Sentinel
 3 Esper Sentinel
@@ -148,32 +130,50 @@
 4 Giant Killer
 3 Skymarcher Aspirant
 4 Skymarcher Aspirant
+1 Hengegate Pathway
+1 Hallowed Fountain
 1 Spire of Industry
 1 Island
-1 Hallowed Fountain
-1 Hengegate Pathway
 1 The Blackstaff of Waterdeep
 1 Whirler Rogue
 1 Skilled Animator
+2 Hengegate Pathway
 2 Spire of Industry
 2 Skilled Animator
 2 The Blackstaff of Waterdeep
 2 Island
-2 Hengegate Pathway
 2 Hallowed Fountain
 2 Whirler Rogue
-3 Island
-3 Spire of Industry
-3 Court Homunculus
-3 Skilled Animator
 3 Hengegate Pathway
+3 Court Homunculus
+3 Spire of Industry
+3 Skilled Animator
+3 Island
 3 Hallowed Fountain
 3 Whirler Rogue
-4 Spire of Industry
-4 Court Homunculus
-4 Hallowed Fountain
 4 Hengegate Pathway
+4 Court Homunculus
+4 Spire of Industry
+4 Hallowed Fountain
 4 Whirler Rogue
+1 Needleverge Pathway
+1 Sacred Foundry
+1 Karn, Scion of Urza
+1 Showdown of the Skalds
+1 Ramunap Ruins
+2 Showdown of the Skalds
+2 Sacred Foundry
+2 Needleverge Pathway
+2 Karn, Scion of Urza
+2 Ramunap Ruins
+3 Karn, Scion of Urza
+3 Showdown of the Skalds
+3 Needleverge Pathway
+3 Sacred Foundry
+3 Ramunap Ruins
+4 Needleverge Pathway
+4 Sacred Foundry
+4 Ramunap Ruins
 1 Legion Angel
 20 Snow-Covered Plains
 1 Monk of the Open Hand

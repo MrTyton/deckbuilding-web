@@ -10,28 +10,28 @@
 1 Brazen Borrower
 2 Brazen Borrower
 1 Midnight Clock
-1 Erebos's Intervention
 2 Lash of Malice
 2 Mazemind Tome
-3 Mystical Dispute
-2 Disdainful Stroke
 2 Shadows' Verdict
+1 Erebos's Intervention
+2 Disdainful Stroke
 2 Shark Typhoon
 1 Go Blank
+3 Mystical Dispute
 1 Soul Shatter
 1 Skyclave Shade
 2 Skyclave Shade
 1 Eliminate
 1 Lochmere Serpent
-2 Kaervek, the Spiteful
-3 Skyclave Shade
 1 Power Word Kill
 1 Crippling Fear
+1 Pest Summoning
 1 Mascot Exhibition
 1 Environmental Sciences
-1 Pest Summoning
 1 Confront the Past
 1 Extinction Event
+2 Eliminate
+3 Skyclave Shade
 3 Lash of Malice
 4 Duress
 4 Lash of Malice
@@ -40,15 +40,15 @@
 1 Lolth, Spider Queen
 1 Pharika's Libation
 2 Pharika's Libation
+2 Kaervek, the Spiteful
 2 Iymrith, Desert Doom
 1 Poison the Cup
 2 Soul Shatter
+1 Annul
+1 Essence Scatter
 1 Teachings of the Archaics
 1 Elder Gargaroth
 1 Bloodchief's Thirst
-1 Annul
-1 Essence Scatter
-2 Eliminate
 3 Test of Talents
 2 Extinction Event
 1 Check for Traps
@@ -56,18 +56,11 @@
 1 Xanathar, Guild Kingpin
 1 Introduction to Annihilation
 1 Ugin, the Spirit Dragon
-1 Witherbloom Command
-1 Kiora Bests the Sea God
-1 Doomskar
 1 Kaya the Inexorable
+1 Doomskar
 1 Vanishing Verse
-2 Pestilent Haze
-1 Ebondeath, Dracolich
-1 Sedgemoor Witch
-1 Tergrid, God of Fright
-1 Alrund's Epiphany
-1 Ashiok's Erasure
-2 Sedgemoor Witch
+1 Kiora Bests the Sea God
+1 Witherbloom Command
 1 Flunk
 2 Bloodchief's Thirst
 2 Pest Summoning
@@ -76,11 +69,18 @@
 2 Magma Opus
 2 Cosima, God of the Voyage
 1 Heartless Act
-2 Midnight Clock
 2 Heartless Act
-1 Skull Raid
+2 Midnight Clock
+2 Pestilent Haze
+1 Ebondeath, Dracolich
+1 Alrund's Epiphany
+1 Tergrid, God of Fright
+1 Ashiok's Erasure
+1 Sedgemoor Witch
+2 Sedgemoor Witch
 1 Tormod's Crypt
 1 Reject
+1 Skull Raid
 2 Reject
 1 Polukranos, Unchained
 1 Koma, Cosmos Serpent
@@ -88,32 +88,46 @@
 2 Polukranos, Unchained
 2 Elder Gargaroth
 1 The Trickster-God's Heist
-2 Lolth, Spider Queen
 2 Professor Onyx
+2 Lolth, Spider Queen
 2 The Trickster-God's Heist
 3 Lolth, Spider Queen
+3 Kaervek, the Spiteful
 1 Miscast
 3 Shark Typhoon
-1 Baleful Mastery
-2 Baleful Mastery
-3 Check for Traps
-1 Inscription of Ruin
-2 Inscription of Ruin
-2 Agonizing Remorse
-3 Ray of Enfeeblement
-3 Kaervek, the Spiteful
+1 Cinderclasm
+1 Mirrormade
+1 Animating Faerie
+1 Dance of the Manse
+1 Nine Lives
+1 The Birth of Meletis
+2 Cinderclasm
+2 Essence Scatter
+2 The Birth of Meletis
+2 Nine Lives
+2 Animating Faerie
+3 The Birth of Meletis
+3 Essence Scatter
+3 Cinderclasm
 1 Field of Ruin
-1 Glimpse of Freedom
 1 Weathered Runestone
 1 Concerted Defense
-1 Cyclone Summoner
+1 Glimpse of Freedom
 1 You See a Guard Approach
+1 Cyclone Summoner
 1 Mystic Subdual
 2 Weathered Runestone
 2 Mystic Subdual
 2 You See a Guard Approach
 2 Concerted Defense
 3 Mystic Subdual
+1 Inscription of Ruin
+2 Agonizing Remorse
+2 Inscription of Ruin
+3 Ray of Enfeeblement
+1 Baleful Mastery
+2 Baleful Mastery
+3 Check for Traps
 1 Blood on the Snow
 2 Blood on the Snow
 3 Power Word Kill
@@ -125,15 +139,17 @@
 3 Blacklance Paragon
 4 Mystical Dispute
 4 Blacklance Paragon
-1 Mind Flayer
-1 Massacre Wurm
-4 Skyclave Shade
-1 Dismal Backwater
+1 Roiling Vortex
+2 Roiling Vortex
+3 Shadows' Verdict
+3 Roiling Vortex
+4 Roiling Vortex
 1 Jwari Disruption
+1 Dismal Backwater
 2 Annul
+1 Soul-Guide Lantern
 1 Elspeth, Sun's Nemesis
 1 Shatter the Sky
-1 Soul-Guide Lantern
 1 Legion Angel
 2 Shatter the Sky
 2 Legion Angel

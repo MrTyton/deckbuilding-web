@@ -49,8 +49,8 @@
 2 Professor of Symbology
 2 Saw It Coming
 3 Professor of Symbology
-3 Ashiok, Nightmare Muse
 3 Saw It Coming
+3 Ashiok, Nightmare Muse
 4 Professor of Symbology
 4 Saw It Coming
 3 Doomskar
@@ -103,6 +103,8 @@
 2 Indatha Triome
 2 Zagoth Triome
 3 Mystical Dispute
+1 Gates of Istfell
+2 Gates of Istfell
 1 Hagra Mauling
 1 Pestilent Haze
 1 Soul Shatter
@@ -117,8 +119,6 @@
 2 Ugin, the Spirit Dragon
 2 Jwari Disruption
 2 Test of Talents
-1 Gates of Istfell
-2 Gates of Istfell
 1 Iymrith, Desert Doom
 2 Iymrith, Desert Doom
 2 Professor Onyx
@@ -161,15 +161,15 @@
 2 Crawling Barrens
 3 Eliminate
 1 Heliod, Sun-Crowned
-1 Skyclave Relic
-1 Felidar Retreat
-1 Banishing Light
+1 Witching Well
 1 Shadowspear
+1 Banishing Light
+1 Felidar Retreat
 1 The Circle of Loyalty
+1 Skyclave Relic
 1 Cosmos Elixir
 1 Lithoform Engine
 1 Bloodline Pretender
-1 Witching Well
 1 Alseid of Life's Bounty
 1 Biblioplex Assistant
 2 Banishing Light
@@ -177,8 +177,8 @@
 2 Felidar Retreat
 3 Alseid of Life's Bounty
 1 Fracture
-2 Fracture
 2 Shatter the Sky
+2 Fracture
 5 Swamp
 2 Castle Vantress
 4 Yorion, Sky Nomad

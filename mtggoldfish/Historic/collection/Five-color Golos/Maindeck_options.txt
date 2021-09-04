@@ -1,7 +1,7 @@
 1 Forest
 2 Forest
-1 Growth Spiral
 1 Explore
+1 Growth Spiral
 1 Gateway Plaza
 1 Plaza of Harmony
 1 Azorius Guildgate
@@ -18,8 +18,8 @@
 1 Boros Guildgate
 1 Maze's End
 1 Izzet Guildgate
-2 Growth Spiral
 2 Explore
+2 Growth Spiral
 2 Selesnya Guildgate
 2 Simic Guildgate
 2 Guild Summit
@@ -30,15 +30,15 @@
 2 Golgari Guildgate
 2 Circuitous Route
 2 Izzet Guildgate
-3 Growth Spiral
 3 Explore
+3 Growth Spiral
 3 Gates Ablaze
 3 Circuitous Route
 3 Guild Summit
 3 Plaza of Harmony
-4 Explore
 4 Gates Ablaze
 4 Circuitous Route
+4 Explore
 1 Breeding Pool
 1 Temple Garden
 1 Omen of the Sea
@@ -79,27 +79,27 @@
 3 Binding the Old Gods
 1 Sunpetal Grove
 2 Sunpetal Grove
-1 Elspeth's Nightmare
 1 Setessan Champion
+1 Hinterland Harbor
+1 Oath of Kaya
 1 Yasharn, Implacable Earth
 1 Woodland Cemetery
-1 Oath of Kaya
+1 Deputy of Detention
 1 In Search of Greatness
 1 Glacial Fortress
+1 Elspeth's Nightmare
 1 Renegade Rallier
 1 Hostage Taker
-1 Deputy of Detention
 1 Calix, Destiny's Hand
-1 Hinterland Harbor
 1 Tolsimir, Friend to Wolves
 2 Setessan Champion
-2 Elspeth's Nightmare
 2 Woodland Cemetery
 2 Oath of Kaya
 2 Hinterland Harbor
 2 In Search of Greatness
 2 Calix, Destiny's Hand
 2 Glacial Fortress
+2 Elspeth's Nightmare
 3 Oath of Kaya
 3 Skyclave Apparition
 3 Elspeth's Nightmare
@@ -136,8 +136,8 @@
 1 Blinkmoth Nexus
 2 Blinkmoth Nexus
 3 Blinkmoth Nexus
-3 Crawling Barrens
 3 Blast Zone
+3 Crawling Barrens
 3 Mobilized District
 4 Blast Zone
 4 Blinkmoth Nexus
@@ -152,14 +152,14 @@
 3 Raugrin Triome
 1 Scavenger Grounds
 2 Island
+1 Cultivate
 1 Mirari's Wake
 1 Genesis Ultimatum
 1 Fae of Wishes
 1 Omen of the Hunt
-1 Cultivate
 2 Genesis Ultimatum
-2 Mirari's Wake
 2 Cultivate
+2 Mirari's Wake
 2 Omen of the Hunt
 2 Fae of Wishes
 3 Island
@@ -171,49 +171,48 @@
 1 Fabled Passage
 1 Watery Grave
 2 Lotus Cobra
-2 Swamp
 2 Gilded Goose
 2 Fabled Passage
+2 Swamp
 3 Swamp
-3 Fabled Passage
 3 Lotus Cobra
 3 Gilded Goose
+3 Fabled Passage
 5 Forest
 1 Treacherous Blessing
-1 Solemn Simulacrum
-1 Terror of the Peaks
-1 Finale of Devastation
 1 Needleverge Pathway
+1 Finale of Devastation
 1 Deafening Clarion
-1 Branchloft Pathway
+1 Solemn Simulacrum
 1 Dryad of the Ilysian Grove
 1 Blood Crypt
 1 Cragcrown Pathway
-1 Hallowed Fountain
 1 Luminous Broodmoth
 1 Steam Vents
 1 Stomping Ground
-1 Godless Shrine
 1 Thirst for Meaning
+1 Elspeth Conquers Death
 1 Medomai's Prophecy
 1 Shalai, Voice of Plenty
 1 Uro, Titan of Nature's Wrath
+1 Branchloft Pathway
 1 Elder Gargaroth
-1 Elspeth Conquers Death
 1 Evolving Wilds
+1 Keruga, the Macrosage
 1 God-Eternal Rhonas
-1 Massacre Wurm
 1 Wrath of God
 1 Sanctum of All
+1 Hallowed Fountain
 1 Ulvenwald Hydra
+1 Massacre Wurm
 1 Sanctum of Shattered Heights
 1 Honden of Infinite Rage
 1 Sanctum of Calm Waters
 1 Sanctum of Stone Fangs
 1 Idyllic Tutor
-1 Keruga, the Macrosage
 1 Riverglide Pathway
 1 Honden of Night's Reach
+1 Terror of the Peaks
 1 Savai Triome
 1 Honden of Seeing Winds
 1 The Birth of Meletis
@@ -226,17 +225,16 @@
 1 Honden of Life's Web
 1 Prophetic Prism
 1 Migration Path
+1 Godless Shrine
 1 Escape to the Wilds
 1 Sanctum of Fruitful Harvest
 1 Sanctum of Tranquil Light
 1 Trial of Knowledge
 2 Escape to the Wilds
 2 Omen of the Forge
-2 Solemn Simulacrum
-2 Godless Shrine
-2 Branchloft Pathway
 2 Dryad of the Ilysian Grove
 2 Stomping Ground
+2 Solemn Simulacrum
 2 Cragcrown Pathway
 2 Ketria Triome
 2 Thirst for Meaning
@@ -246,8 +244,9 @@
 2 Deafening Clarion
 2 The Birth of Meletis
 2 Klothys, God of Destiny
-2 Evolving Wilds
 2 Elspeth Conquers Death
+2 Branchloft Pathway
+2 Evolving Wilds
 2 Wrath of God
 2 Archon of Sun's Grace
 2 Blood Crypt
@@ -257,6 +256,7 @@
 2 Mastermind's Acquisition
 2 Mountain
 2 Sanctum of Fruitful Harvest
+2 Godless Shrine
 2 Sacred Foundry
 2 Steam Vents
 2 Watery Grave
@@ -272,18 +272,18 @@
 2 Idyllic Tutor
 2 Riverglide Pathway
 2 Prophetic Prism
-3 Sacred Foundry
-3 Ketria Triome
 3 Branchloft Pathway
 3 Dryad of the Ilysian Grove
+3 Ketria Triome
 3 Escape to the Wilds
+3 Thirst for Meaning
 3 Stomping Ground
 3 Plains
-3 Thirst for Meaning
 3 Omen of the Forge
 3 Cragcrown Pathway
 3 Savai Triome
 3 Evolving Wilds
+3 Sacred Foundry
 3 Wrath of God
 3 Sanctum of Stone Fangs
 3 Deafening Clarion
@@ -305,13 +305,14 @@
 4 Temple Garden
 4 Dryad of the Ilysian Grove
 4 Overgrown Tomb
-4 Stomping Ground
-4 Plains
+4 Island
 4 Lotus Cobra
+4 Plains
 4 Gilded Goose
 4 Thirst for Meaning
 4 Sacred Foundry
-4 Island
+4 Stomping Ground
+4 Breeding Pool
 4 Deafening Clarion
 4 Prophetic Prism
 4 Treacherous Blessing
@@ -323,11 +324,10 @@
 4 Steam Vents
 4 Hallowed Fountain
 4 Fabled Passage
-4 Breeding Pool
 4 Watery Grave
 4 Idyllic Tutor
-5 Plains
 5 Island
+5 Plains
 6 Forest
 7 Forest
 1 Labyrinth of Skophos
@@ -337,8 +337,8 @@
 1 Field of Ruin
 1 Bojuka Bog
 1 Stonecoil Serpent
-2 Field of Ruin
 2 Stonecoil Serpent
+2 Field of Ruin
 1 Elvish Rejuvenator
 2 Elvish Rejuvenator
 3 Elvish Rejuvenator
@@ -378,14 +378,15 @@
 2 Abundant Harvest
 1 Tamiyo, Collector of Tales
 1 The Great Henge
-1 Koma, Cosmos Serpent
-1 Castle Vantress
 1 Gemrazer
 1 Temple of Deceit
 1 Darkbore Pathway
+1 Castle Vantress
 1 Necroblossom Snarl
 1 Temple of Malady
+1 Barkchannel Pathway
 1 Paradise Druid
+1 Koma, Cosmos Serpent
 1 Vivien Reid
 1 Scute Swarm
 1 Nissa, Who Shakes the World
@@ -397,7 +398,6 @@
 1 Vineglimmer Snarl
 1 Migratory Greathorn
 1 Auspicious Starrix
-1 Barkchannel Pathway
 1 Boneyard Lurker
 1 Nicol Bolas, Dragon-God
 1 Pollywog Symbiote
@@ -415,8 +415,8 @@
 2 Season of Growth
 2 Pollywog Symbiote
 2 Pouncing Shoreshark
-3 Gemrazer
 3 Paradise Druid
+3 Gemrazer
 3 Insatiable Hemophage
 3 Boneyard Lurker
 3 Auspicious Starrix
@@ -443,8 +443,8 @@
 3 Root Snare
 3 Gate Colossus
 3 Gatebreaker Ram
-4 Growth Spiral
 4 Abundant Harvest
+4 Growth Spiral
 4 Gatebreaker Ram
 4 Gate Colossus
 4 Open the Gates
@@ -456,18 +456,18 @@
 2 Labyrinth of Skophos
 3 Labyrinth of Skophos
 1 Shefet Dunes
-1 Omniscience
 1 Hydroid Krasis
 1 Wolfwillow Haven
+1 Omniscience
 1 Hour of Promise
 1 Hashep Oasis
 1 Relic of Progenitus
 2 Shefet Dunes
 2 The World Tree
+2 Wolfwillow Haven
 2 Hydroid Krasis
 2 Hour of Promise
 2 Hashep Oasis
-2 Wolfwillow Haven
 2 Relic of Progenitus
 2 Omniscience
 3 Wolfwillow Haven

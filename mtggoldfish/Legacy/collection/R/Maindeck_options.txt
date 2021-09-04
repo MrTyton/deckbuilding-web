@@ -6,36 +6,36 @@
 3 Urza's Saga
 1 Grindstone
 1 Painter's Servant
-1 Goblin Engineer
 1 Goblin Welder
+1 Goblin Engineer
 1 Great Furnace
-2 Grindstone
 2 Goblin Welder
-2 Goblin Engineer
 2 Painter's Servant
-3 Goblin Engineer
-3 Painter's Servant
+2 Goblin Engineer
+2 Grindstone
 3 Goblin Welder
+3 Painter's Servant
+3 Goblin Engineer
 1 Ensnaring Bridge
 3 Grindstone
 2 Pyroblast
 1 Lotus Petal
 2 Lotus Petal
+3 Lotus Petal
 3 Pyroblast
 4 Pyroblast
 4 Painter's Servant
-3 Lotus Petal
 1 Lion's Eye Diamond
 1 Dead/Gone
 4 Trinisphere
+1 Magus of the Moon
 4 Goblin Welder
 4 Goblin Engineer
-1 Magus of the Moon
+4 Urza's Saga
+1 Plateau
 1 Lightning Bolt
 2 Lightning Bolt
 2 Great Furnace
-4 Urza's Saga
-1 Plateau
 3 Lightning Bolt
 3 Karn, the Great Creator
 1 Imperial Recruiter
@@ -44,32 +44,32 @@
 4 Lightning Bolt
 1 Ethersworn Canonist
 3 Imperial Recruiter
-1 Red Elemental Blast
-1 Bloodstained Mire
-2 Bloodstained Mire
 2 Plateau
 1 Wooded Foothills
 2 Wooded Foothills
 3 Great Furnace
+1 Bloodstained Mire
+2 Bloodstained Mire
 2 Magus of the Moon
 1 Enlightened Tutor
 4 Imperial Recruiter
+1 Red Elemental Blast
 1 Arid Mesa
 1 Pyrite Spellbomb
 1 Bolas's Citadel
 1 Portable Hole
-1 Mox Opal
 1 Soul-Guide Lantern
 2 Dead/Gone
-1 Swamp
+1 Mox Opal
 1 Hagra Mauling
 1 Urborg, Tomb of Yawgmoth
 1 Leyline of the Void
 1 Curse of Misfortunes
-1 Curse of Death's Hold
-1 Cruel Reality
-1 Overwhelming Splendor
 1 Dark Ritual
+1 Overwhelming Splendor
+1 Cruel Reality
+1 Curse of Death's Hold
+1 Swamp
 2 Hagra Mauling
 2 Curse of Misfortunes
 2 Leyline of the Void
@@ -80,11 +80,9 @@
 3 Curse of Misfortunes
 4 Karn, the Great Creator
 4 Hagra Mauling
-4 Leyline of the Void
-4 Curse of Misfortunes
 4 Dark Ritual
-1 Pithing Needle
-1 Sundering Titan
+4 Curse of Misfortunes
+4 Leyline of the Void
 1 Sudden Edict
 2 Sudden Edict
 2 Swamp
@@ -94,9 +92,8 @@
 4 Sudden Edict
 1 Brainstone
 2 Urborg, Tomb of Yawgmoth
-1 Retrofitter Foundry
-2 Mox Opal
-3 Mox Opal
+1 Pithing Needle
+1 Sundering Titan
 2 Enlightened Tutor
 1 Hanweir Garrison
 2 Hanweir Garrison
@@ -109,26 +106,26 @@
 6 Swamp
 7 Swamp
 8 Swamp
-1 Chromatic Star
-1 Nihil Spellbomb
-1 Badlands
+1 Retrofitter Foundry
 1 Helm of Obedience
 2 Helm of Obedience
-3 Bloodstained Mire
+2 Mox Opal
+3 Mox Opal
 3 Arid Mesa
-2 Chromatic Star
-2 Badlands
-1 Wishclaw Talisman
-2 Lion's Eye Diamond
 1 Oswald Fiddlebender
 2 Oswald Fiddlebender
+1 Chromatic Star
+1 Nihil Spellbomb
+1 Wishclaw Talisman
+1 Badlands
+2 Lion's Eye Diamond
 1 Curse of Fool's Wisdom
 3 Hanweir Garrison
 1 Shinka, the Bloodsoaked Keep
 1 Den of the Bugbear
 1 Torbran, Thane of Red Fell
-2 Torbran, Thane of Red Fell
 2 Den of the Bugbear
+2 Torbran, Thane of Red Fell
 3 Den of the Bugbear
 4 Den of the Bugbear
 1 Seasoned Pyromancer
@@ -140,23 +137,24 @@
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
+3 Bloodstained Mire
 1 Mishra's Bauble
 1 Crucible of Worlds
+2 Chromatic Star
 2 Wishclaw Talisman
+2 Badlands
 3 Chromatic Star
 3 Lion's Eye Diamond
 3 Wishclaw Talisman
 4 Lion's Eye Diamond
 4 Mox Opal
 1 Auriok Salvagers
-1 Ruin Grinder
 1 Angel of the Ruins
 1 Ichor Wellspring
 3 Oswald Fiddlebender
-1 Scalding Tarn
 1 Volcanic Island
-1 Plains
 1 Ancient Den
+1 Plains
 1 Blood Sun
 2 Blood Sun
 3 Blood Sun
@@ -167,6 +165,7 @@
 1 Smuggler's Copter
 1 Abrade
 1 Spellskite
+1 Ruin Grinder
 1 Hope of Ghirapur
 1 Nettlecyst
 2 Smuggler's Copter
@@ -174,18 +173,10 @@
 2 Spellskite
 1 Dismember
 2 Dismember
-1 Breya's Apprentice
-1 Magmatic Channeler
-1 Prismatic Vista
-1 Daretti, Ingenious Iconoclast
-2 Magmatic Channeler
-2 Prismatic Vista
-2 Breya's Apprentice
-2 Daretti, Ingenious Iconoclast
 1 Thought Monitor
 1 Baleful Strix
-1 Seat of the Synod
 1 Emry, Lurker of the Loch
+1 Seat of the Synod
 2 Mishra's Bauble
 2 Volcanic Island
 2 Emry, Lurker of the Loch
@@ -194,8 +185,9 @@
 1 Island
 1 Brainstorm
 1 Tundra
-1 Sword of the Meek
+1 Scalding Tarn
 1 Thopter Foundry
+1 Sword of the Meek
 1 Witching Well
 2 Brainstorm
 2 Flooded Strand
@@ -209,8 +201,8 @@
 1 Vault of Whispers
 2 Vault of Whispers
 3 Vault of Whispers
-1 Tangle Wire
 1 Coveted Jewel
+1 Tangle Wire
 1 Cavern of Souls
 3 Badlands
 4 Great Furnace
@@ -227,33 +219,18 @@
 3 Dead/Gone
 4 Dead/Gone
 4 Magus of the Moon
-1 Punishing Fire
-1 Grove of the Burnwillows
-1 Hazoret the Fervent
-1 Purphoros's Intervention
-1 Reality Smasher
-1 Thought-Knot Seer
-1 Fiery Confluence
-1 Eldrazi Temple
-2 Punishing Fire
-2 Grove of the Burnwillows
-2 Thought-Knot Seer
-2 Eldrazi Temple
-2 Reality Smasher
-2 Fiery Confluence
-2 Hazoret the Fervent
-3 Grove of the Burnwillows
-3 Punishing Fire
-3 Eldrazi Temple
-3 Reality Smasher
-3 Thought-Knot Seer
-3 Fiery Confluence
-4 Eldrazi Temple
-4 Blood Sun
-4 Reality Smasher
-4 Punishing Fire
-4 Grove of the Burnwillows
-4 Thought-Knot Seer
+1 Wurmcoil Engine
+1 Spine of Ish Sah
+1 Phyrexian Metamorph
+1 Rustvale Bridge
+1 Thrill of Possibility
+1 Karakas
+1 Phyrexian Revoker
+1 Daretti, Scrap Savant
+2 Daretti, Scrap Savant
+2 Rustvale Bridge
+4 Arid Mesa
+4 Oswald Fiddlebender
 5 Snow-Covered Mountain
 1 Plague Reaver
 1 Murderous Rider
@@ -270,15 +247,30 @@
 1 Inferno Titan
 2 Anje's Ravager
 10 Mountain
-1 Wurmcoil Engine
-1 Spine of Ish Sah
-1 Phyrexian Metamorph
-1 Rustvale Bridge
-1 Thrill of Possibility
-1 Karakas
-1 Phyrexian Revoker
-1 Daretti, Scrap Savant
-2 Daretti, Scrap Savant
-2 Rustvale Bridge
-4 Arid Mesa
-4 Oswald Fiddlebender
+1 Punishing Fire
+1 Grove of the Burnwillows
+1 Purphoros's Intervention
+1 Hazoret the Fervent
+1 Reality Smasher
+1 Thought-Knot Seer
+1 Fiery Confluence
+1 Eldrazi Temple
+2 Punishing Fire
+2 Grove of the Burnwillows
+2 Reality Smasher
+2 Fiery Confluence
+2 Thought-Knot Seer
+2 Hazoret the Fervent
+2 Eldrazi Temple
+3 Grove of the Burnwillows
+3 Punishing Fire
+3 Reality Smasher
+3 Thought-Knot Seer
+3 Fiery Confluence
+3 Eldrazi Temple
+4 Grove of the Burnwillows
+4 Reality Smasher
+4 Thought-Knot Seer
+4 Punishing Fire
+4 Eldrazi Temple
+4 Blood Sun

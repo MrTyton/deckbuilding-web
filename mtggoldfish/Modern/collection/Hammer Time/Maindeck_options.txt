@@ -1,6 +1,7 @@
-6 Plains
-7 Plains
-8 Plains
+9 Plains
+3 Silent Clearing
+1 Cranial Plating
+4 Silent Clearing
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
@@ -9,27 +10,32 @@
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
-9 Plains
 2 Steelshaper's Gift
-9 Snow-Covered Plains
 1 Soul-Guide Lantern
-1 Welding Jar
+9 Snow-Covered Plains
 1 Paradise Mantle
 1 Mishra's Bauble
 10 Plains
+1 Welding Jar
+4 Giver of Runes
 3 Ingenious Smith
+1 Sword of Fire and Ice
+1 Nettlecyst
+2 Paradise Mantle
+3 Steelshaper's Gift
+4 Steelshaper's Gift
+10 Snow-Covered Plains
+1 Swiftfoot Boots
 2 Horizon Canopy
 1 Pithing Needle
-1 Concealed Courtyard
-2 Concealed Courtyard
-3 Concealed Courtyard
-4 Concealed Courtyard
-4 Giver of Runes
-1 Swiftfoot Boots
 1 Path to Exile
 2 Sunbaked Canyon
 1 Marsh Flats
 1 Arid Mesa
+1 Concealed Courtyard
+2 Concealed Courtyard
+3 Concealed Courtyard
+4 Concealed Courtyard
 1 Seachrome Coast
 1 Lavinia, Azorius Renegade
 1 Hallowed Fountain
@@ -40,12 +46,6 @@
 3 Lavinia, Azorius Renegade
 4 Lavinia, Azorius Renegade
 4 Seachrome Coast
-1 Sword of Fire and Ice
-1 Nettlecyst
-2 Paradise Mantle
-3 Steelshaper's Gift
-4 Steelshaper's Gift
-10 Snow-Covered Plains
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Ingenious Smith
@@ -56,7 +56,6 @@
 2 Sanctifier en-Vec
 3 Inspiring Vantage
 4 Inspiring Vantage
-1 Relic of Progenitus
 1 Kor Outfitter
 1 Gingerbrute
 1 Drannith Magistrate
