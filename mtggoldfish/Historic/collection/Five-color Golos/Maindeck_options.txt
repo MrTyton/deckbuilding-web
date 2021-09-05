@@ -282,8 +282,8 @@
 3 Watery Grave
 3 Cragcrown Pathway
 3 Savai Triome
-3 Thirst for Meaning
 3 Evolving Wilds
+3 Thirst for Meaning
 3 Wrath of God
 3 Sanctum of Stone Fangs
 3 Deafening Clarion
@@ -312,6 +312,7 @@
 4 Watery Grave
 4 Gilded Goose
 4 Wrath of God
+4 Thirst for Meaning
 4 Sacred Foundry
 4 Deafening Clarion
 4 Prophetic Prism
@@ -324,7 +325,6 @@
 4 Mastermind's Acquisition
 4 Steam Vents
 4 Hallowed Fountain
-4 Thirst for Meaning
 4 Idyllic Tutor
 5 Plains
 5 Island
@@ -382,6 +382,8 @@
 1 Temple of Deceit
 1 Darkbore Pathway
 1 Necroblossom Snarl
+1 Auspicious Starrix
+1 Migratory Greathorn
 1 Barkchannel Pathway
 1 Pollywog Symbiote
 1 Temple of Malady
@@ -397,31 +399,29 @@
 1 Dirge Bat
 1 Nethroi, Apex of Death
 1 Vineglimmer Snarl
-1 Migratory Greathorn
-1 Auspicious Starrix
 1 Boneyard Lurker
 1 Nicol Bolas, Dragon-God
 1 Pouncing Shoreshark
 1 Insatiable Hemophage
 2 Darkbore Pathway
+2 Auspicious Starrix
+2 Migratory Greathorn
 2 Paradise Druid
 2 Gemrazer
 2 Nissa, Who Shakes the World
 2 Insatiable Hemophage
 2 Boneyard Lurker
-2 Auspicious Starrix
 2 Dirge Bat
-2 Migratory Greathorn
 2 Season of Growth
 2 Pollywog Symbiote
 2 Pouncing Shoreshark
+3 Migratory Greathorn
+3 Auspicious Starrix
 3 Paradise Druid
 3 Gemrazer
 3 Insatiable Hemophage
 3 Boneyard Lurker
-3 Auspicious Starrix
 3 Pollywog Symbiote
-3 Migratory Greathorn
 1 Valki, God of Lies
 1 Felidar Retreat
 1 Alrund's Epiphany
