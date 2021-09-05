@@ -5,25 +5,25 @@
 1 Verdant Catacombs
 1 Mountain
 1 Yavimaya, Cradle of Growth
-1 Overgrown Tomb
 1 Blood Crypt
 1 Nurturing Peatland
+1 Overgrown Tomb
 2 Bloodstained Mire
 3 Bloodstained Mire
 1 Grist, the Hunger Tide
 1 Liliana of the Veil
 1 Kolaghan's Command
+1 Inquisition of Kozilek
 1 Blackcleave Cliffs
 1 Fatal Push
-1 Inquisition of Kozilek
 1 Swamp
 2 Liliana of the Veil
 2 Overgrown Tomb
+2 Inquisition of Kozilek
 2 Verdant Catacombs
 2 Swamp
 2 Blackcleave Cliffs
 2 Fatal Push
-2 Inquisition of Kozilek
 3 Liliana of the Veil
 3 Inquisition of Kozilek
 1 Abrupt Decay
@@ -39,8 +39,8 @@
 1 Scalding Tarn
 1 Kroxa, Titan of Death's Hunger
 1 Tourach, Dread Cantor
-2 Fury
 2 Kolaghan's Command
+2 Fury
 1 Springleaf Drum
 4 Unholy Heat
 2 Misty Rainforest
@@ -49,15 +49,15 @@
 4 Prismatic Ending
 1 Fiery Islet
 1 Fire/Ice
-1 Expressive Iteration
 1 Steam Vents
+1 Expressive Iteration
 1 Aether Spellbomb
+2 Fire/Ice
 2 Steam Vents
 2 Expressive Iteration
-2 Fire/Ice
 3 Expressive Iteration
-3 Misty Rainforest
 3 Fire/Ice
+3 Misty Rainforest
 4 Expressive Iteration
 4 Misty Rainforest
 1 Ignoble Hierarch
@@ -101,8 +101,6 @@
 1 Fire-Lit Thicket
 1 Lurrus of the Dream-Den
 1 Magus of the Moon
-1 Tireless Tracker
-2 Scalding Tarn
 3 Steam Vents
 1 Foundation Breaker
 2 Snow-Covered Forest
@@ -110,9 +108,11 @@
 1 Assassin's Trophy
 1 Den of the Bugbear
 2 Blood Crypt
+2 Thoughtseize
 2 Assassin's Trophy
 2 Bonecrusher Giant
 3 Thoughtseize
 4 Bloodstained Mire
 4 Liliana of the Veil
-2 Thoughtseize
+1 Tireless Tracker
+2 Scalding Tarn

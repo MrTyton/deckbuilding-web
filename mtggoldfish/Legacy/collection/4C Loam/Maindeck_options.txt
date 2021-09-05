@@ -41,6 +41,7 @@
 1 Knight of Autumn
 2 Urza's Saga
 2 Prismatic Ending
+1 Soul-Guide Lantern
 1 Snow-Covered Island
 1 Prismatic Vista
 1 Snow-Covered Plains
@@ -49,8 +50,6 @@
 1 Ice-Fang Coatl
 1 Gaea's Cradle
 1 Tireless Provisioner
-1 Soul-Guide Lantern
-2 Tireless Provisioner
 2 Birds of Paradise
 2 Renegade Rallier
 2 Snow-Covered Island
@@ -58,6 +57,7 @@
 2 Snow-Covered Forest
 2 Snow-Covered Plains
 2 Ice-Fang Coatl
+2 Tireless Provisioner
 3 Urza's Saga
 3 Birds of Paradise
 3 Renegade Rallier
@@ -97,8 +97,8 @@
 3 Tireless Provisioner
 3 Snow-Covered Forest
 1 Felidar Retreat
-1 Ketria Triome
 1 Collector Ouphe
+1 Ketria Triome
 1 Vindicate
 1 Savai Triome
 1 Bitterblossom
@@ -115,8 +115,8 @@
 1 Wooded Foothills
 1 Teferi, Time Raveler
 1 Tarmogoyf
-1 Raugrin Triome
 1 Omnath, Locus of Creation
+1 Raugrin Triome
 1 Dack Fayden
 1 Council's Judgment
 1 Volcanic Island
