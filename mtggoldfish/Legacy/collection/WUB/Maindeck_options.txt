@@ -1,12 +1,12 @@
+1 Scalding Tarn
 2 Kolaghan's Command
+2 Scalding Tarn
 3 Kolaghan's Command
 3 Snapcaster Mage
 2 Marsh Flats
-3 Island
 1 Snow-Covered Swamp
+3 Island
 1 Liliana, the Last Hope
-1 Thoughtseize
-2 Thoughtseize
 2 Snow-Covered Island
 2 Force of Negation
 1 Bloodstained Mire
@@ -18,6 +18,7 @@
 2 Swamp
 1 Mystic Sanctuary
 1 Cling to Dust
+1 Retrofitter Foundry
 1 Snow-Covered Plains
 1 Mountain
 1 Plague Engineer
@@ -27,7 +28,6 @@
 3 Plague Engineer
 3 Prismatic Vista
 4 Fatal Push
-1 Retrofitter Foundry
 1 Savai Triome
 1 Spell Pierce
 1 Breya, Etherium Shaper
@@ -46,6 +46,7 @@
 2 Snow-Covered Swamp
 2 Badlands
 2 Liliana's Triumph
+3 Thoughtseize
 1 True-Name Nemesis
 1 Umezawa's Jitte
 1 Karakas
@@ -55,9 +56,9 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 1 Unearth
-3 Thoughtseize
 1 Misty Rainforest
 1 Murktide Regent
+4 Thoughtseize
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 2 Unearth
@@ -65,11 +66,11 @@
 1 Urborg, Tomb of Yawgmoth
 1 Kaya, Ghost Assassin
 1 Esper Charm
+2 Esper Charm
 2 Murktide Regent
 2 Tourach, Dread Cantor
 2 Kaya, Ghost Assassin
 2 Scrubland
-2 Esper Charm
 3 Teferi, Time Raveler
 3 Esper Charm
 3 Prismatic Ending
@@ -84,6 +85,39 @@
 2 Wasteland
 3 True-Name Nemesis
 4 Stoneforge Mystic
+1 Sai, Master Thopterist
+1 Portable Hole
+1 Mox Opal
+1 Shadowspear
+1 Emry, Lurker of the Loch
+1 Thought Monitor
+1 Pithing Needle
+1 Urza's Saga
+1 Tormod's Crypt
+1 Seat of the Synod
+1 Mishra's Bauble
+2 Mishra's Bauble
+2 Sai, Master Thopterist
+2 Thought Monitor
+2 Emry, Lurker of the Loch
+2 Portable Hole
+2 Seat of the Synod
+2 Urza's Saga
+2 Mox Opal
+3 Mishra's Bauble
+3 Portable Hole
+3 Mox Opal
+3 Thought Monitor
+3 Seat of the Synod
+3 Urza's Saga
+3 Emry, Lurker of the Loch
+4 Portable Hole
+4 Seat of the Synod
+4 Urza's Saga
+4 Mox Opal
+4 Mishra's Bauble
+4 Thought Monitor
+4 Emry, Lurker of the Loch
 1 Uro, Titan of Nature's Wrath
 1 Snow-Covered Forest
 1 Endurance
@@ -111,8 +145,8 @@
 4 Misty Rainforest
 4 Noble Hierarch
 1 Darkblast
-1 Sedgemoor Witch
 1 Ethereal Forager
+1 Sedgemoor Witch
 1 Brazen Borrower
 1 Flusterstorm
 2 Sedgemoor Witch
@@ -122,5 +156,4 @@
 3 Sedgemoor Witch
 3 Swamp
 4 Island
-4 Thoughtseize
 5 Island

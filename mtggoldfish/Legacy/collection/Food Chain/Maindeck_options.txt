@@ -1,8 +1,8 @@
 1 Scavenging Ooze
+1 Taiga
 1 Birds of Paradise
 2 Birds of Paradise
 3 Birds of Paradise
-1 Taiga
 1 Scalding Tarn
 1 Squee, the Immortal
 2 Scalding Tarn
@@ -16,9 +16,6 @@
 3 Lightning Bolt
 3 Imperial Recruiter
 4 Scalding Tarn
-1 Waterlogged Grove
-3 Prismatic Vista
-1 Windswept Heath
 1 Ignoble Hierarch
 1 Cavern of Souls
 1 Goblin Ringleader
@@ -36,8 +33,8 @@
 2 Ancient Tomb
 2 Goblin Ringleader
 3 Ignoble Hierarch
-3 Cavern of Souls
 3 Muxus, Goblin Grandee
+3 Cavern of Souls
 3 Goblin Ringleader
 3 Goblin Matron
 4 Ignoble Hierarch
@@ -50,7 +47,6 @@
 3 Ancient Tomb
 3 Wooded Foothills
 4 Wooded Foothills
-4 Muxus, Goblin Grandee
 1 Goblin Cratermaker
 1 Goblin Lackey
 2 Bloodstained Mire
@@ -60,34 +56,42 @@
 4 Goblin Ringleader
 1 Mountain
 2 Mountain
-1 Teferi, Time Raveler
+1 Waterlogged Grove
+3 Prismatic Vista
+1 Windswept Heath
+4 Muxus, Goblin Grandee
 1 Fury
 1 Arid Mesa
+1 Gempalm Incinerator
 3 Taiga
 1 Skirk Prospector
 1 Pashalik Mons
-1 Gempalm Incinerator
 1 Goblin Warchief
-1 Sylvan Library
-4 Birds of Paradise
-1 Goblin Anarchomancer
-2 Goblin Anarchomancer
 1 Conspicuous Snoop
 2 Conspicuous Snoop
 3 Conspicuous Snoop
-1 Goblin Trashmaster
-2 Goblin Cratermaker
 2 Fury
-1 Hydroid Krasis
-2 Teferi, Time Raveler
-4 Swords to Plowshares
-2 Windswept Heath
+1 Sylvan Library
+4 Birds of Paradise
+1 Teferi, Time Raveler
+1 Goblin Anarchomancer
+2 Goblin Anarchomancer
 3 Bloodstained Mire
 1 Goblin Chieftain
-3 Goblin Cratermaker
+2 Goblin Cratermaker
+1 Goblin Trashmaster
 4 Conspicuous Snoop
+1 Hydroid Krasis
+4 Swords to Plowshares
+2 Windswept Heath
+3 Goblin Cratermaker
+2 Badlands
 2 Goblin Warchief
+1 Kiki-Jiki, Mirror Breaker
+1 Boggart Harbinger
+2 Boggart Harbinger
 1 Mogg Fanatic
+2 Teferi, Time Raveler
 1 Skyclave Apparition
 1 Endurance
 1 Prismatic Ending
@@ -95,7 +99,6 @@
 3 Goblin Anarchomancer
 1 Mogg War Marshal
 4 Ancient Tomb
-2 Badlands
 2 Skirk Prospector
 1 Verdant Catacombs
 1 Munitions Expert
@@ -103,16 +106,14 @@
 2 Munitions Expert
 2 Mogg War Marshal
 3 Mogg War Marshal
+1 Goblin Chirurgeon
 1 Subtlety
 1 Murktide Regent
 1 Force of Negation
-2 Tropical Island
 1 Goblin Sharpshooter
 2 Goblin Chieftain
+2 Tropical Island
 2 Endurance
-1 Kiki-Jiki, Mirror Breaker
-1 Boggart Harbinger
-2 Boggart Harbinger
 2 Snow-Covered Plains
 2 Skyclave Apparition
 3 Skyclave Apparition

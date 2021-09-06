@@ -2,63 +2,67 @@
 4 Adanto Vanguard
 1 Dauntless Bodyguard
 2 Dauntless Bodyguard
-1 Skymarcher Aspirant
-2 Skymarcher Aspirant
 3 Dauntless Bodyguard
 4 Dauntless Bodyguard
+1 Skymarcher Aspirant
+2 Skymarcher Aspirant
 1 Loyal Warhound
 2 Loyal Warhound
-3 Loyal Warhound
 1 Mana Tithe
-1 Paladin Class
-2 Paladin Class
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
+3 Loyal Warhound
 1 Cave of the Frost Dragon
+2 Cave of the Frost Dragon
 1 Plains
-1 Blinkmoth Nexus
 2 Plains
-2 Blinkmoth Nexus
 3 Plains
 4 Plains
+5 Plains
+6 Plains
+1 Blinkmoth Nexus
+2 Blinkmoth Nexus
 3 Blinkmoth Nexus
 4 Blinkmoth Nexus
-2 Cave of the Frost Dragon
 1 Stonecoil Serpent
 1 Vault Skirge
-1 Tempered Steel
-1 Court Homunculus
 1 Gingerbrute
 2 Stonecoil Serpent
 2 Vault Skirge
-2 Tempered Steel
 2 Gingerbrute
 3 Stonecoil Serpent
 3 Gingerbrute
-3 Tempered Steel
 3 Vault Skirge
-4 Tempered Steel
 4 Vault Skirge
-5 Plains
-6 Plains
+1 Tempered Steel
+1 Court Homunculus
+2 Tempered Steel
+3 Tempered Steel
+4 Tempered Steel
+7 Plains
+4 Stonecoil Serpent
+1 Portable Hole
 1 Steel Overseer
 2 Steel Overseer
 3 Steel Overseer
 4 Gingerbrute
-4 Stonecoil Serpent
-1 Portable Hole
-7 Plains
 1 Ornithopter
 2 Ornithopter
 3 Ornithopter
 4 Ornithopter
+8 Plains
+9 Plains
+10 Plains
+11 Plains
+12 Plains
+13 Plains
+1 Paladin Class
+2 Paladin Class
+1 Ingenious Smith
+2 Portable Hole
+2 Ingenious Smith
 2 Mana Tithe
+2 Court Homunculus
 4 Steel Overseer
-1 Concealed Courtyard
-2 Concealed Courtyard
-3 Concealed Courtyard
-4 Concealed Courtyard
+1 Maul of the Skyclaves
 1 Inspiring Vantage
 1 Bomat Courier
 2 Inspiring Vantage
@@ -67,40 +71,55 @@
 3 Bomat Courier
 4 Inspiring Vantage
 4 Bomat Courier
-1 Ingenious Smith
-2 Portable Hole
-2 Ingenious Smith
-2 Court Homunculus
-1 Maul of the Skyclaves
-8 Plains
-9 Plains
-10 Plains
-11 Plains
-12 Plains
-13 Plains
+1 Castle Ardenvale
+3 Ingenious Smith
+4 Ingenious Smith
+14 Plains
+15 Plains
+16 Plains
+1 All That Glitters
+2 All That Glitters
+3 All That Glitters
+4 All That Glitters
 3 Court Homunculus
 4 Court Homunculus
 1 Servo Exhibition
 2 Servo Exhibition
 3 Servo Exhibition
+1 Shefet Dunes
+4 Legion's Landing
 1 Scrapheap Scrounger
+1 Concealed Courtyard
 2 Scrapheap Scrounger
+2 Concealed Courtyard
 3 Scrapheap Scrounger
-3 Ingenious Smith
+3 Concealed Courtyard
 4 Scrapheap Scrounger
-4 Ingenious Smith
+4 Concealed Courtyard
 4 Loyal Warhound
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
 4 Thraben Inspector
 1 Containment Priest
-1 Castle Ardenvale
-1 All That Glitters
-2 All That Glitters
-3 All That Glitters
-4 All That Glitters
-14 Plains
-15 Plains
-16 Plains
-1 Shefet Dunes
+17 Plains
+18 Plains
+1 Shadowspear
+1 Treasure Vault
+2 Treasure Vault
+1 Hallowed Fountain
+1 Island
+1 Hengegate Pathway
+1 The Blackstaff of Waterdeep
+2 The Blackstaff of Waterdeep
+2 Island
+2 Hengegate Pathway
+2 Hallowed Fountain
+3 Island
+3 Hengegate Pathway
+3 Hallowed Fountain
+4 Hallowed Fountain
+4 Hengegate Pathway
 4 Servo Exhibition
 1 Teferi's Protection
 1 Inventors' Fair
@@ -113,7 +132,6 @@
 2 Rest in Peace
 2 Drannith Magistrate
 3 Reidane, God of the Worthy
-4 Legion's Landing
 1 Emeria's Call
 1 Esper Sentinel
 1 Soul-Guide Lantern
@@ -121,36 +139,38 @@
 2 Esper Sentinel
 3 Esper Sentinel
 4 Esper Sentinel
-1 Unbreakable Formation
-1 You Hear Something on Watch
-2 Unbreakable Formation
-2 You Hear Something on Watch
-3 Unbreakable Formation
-4 Unbreakable Formation
+1 Glass Casket
+1 Spell Pierce
+1 Glacial Fortress
+2 Shadowspear
+2 Glass Casket
+2 Spell Pierce
+2 Glacial Fortress
+3 Treasure Vault
+3 Portable Hole
+3 Glacial Fortress
+3 The Blackstaff of Waterdeep
+4 The Blackstaff of Waterdeep
+4 Portable Hole
 3 Skymarcher Aspirant
 4 Skymarcher Aspirant
-1 Hive of the Eye Tyrant
-1 Vanishing Verse
-1 Isolated Chapel
-1 Glint-Sleeve Siphoner
-1 Godless Shrine
-1 Thoughtseize
-1 Fatal Push
-1 Castle Locthwain
-1 Aether Hub
-1 Ghost Quarter
-2 Godless Shrine
-2 Hive of the Eye Tyrant
-2 Glint-Sleeve Siphoner
-2 Thoughtseize
-3 Paladin Class
-3 Godless Shrine
-3 Glint-Sleeve Siphoner
-3 Thoughtseize
-4 Paladin Class
-4 Godless Shrine
-4 Glint-Sleeve Siphoner
-4 Thoughtseize
+1 Benalish Marshal
+1 Usher of the Fallen
+1 Venerable Knight
+1 Venerated Loxodon
+2 Benalish Marshal
+2 Venerable Knight
+2 Venerated Loxodon
+2 Castle Ardenvale
+2 Usher of the Fallen
+3 Benalish Marshal
+3 Venerated Loxodon
+3 Venerable Knight
+3 Usher of the Fallen
+3 Castle Ardenvale
+4 Venerable Knight
+4 Benalish Marshal
+4 Usher of the Fallen
 1 Karametra's Blessing
 1 Hope of Ghirapur
 1 Built to Last
@@ -167,8 +187,8 @@
 1 Showdown of the Skalds
 1 Ramunap Ruins
 2 Showdown of the Skalds
-2 Sacred Foundry
 2 Needleverge Pathway
+2 Sacred Foundry
 2 Karn, Scion of Urza
 2 Ramunap Ruins
 3 Karn, Scion of Urza
@@ -176,38 +196,20 @@
 3 Needleverge Pathway
 3 Sacred Foundry
 3 Ramunap Ruins
-4 Needleverge Pathway
 4 Sacred Foundry
+4 Needleverge Pathway
 4 Ramunap Ruins
-1 Island
-1 Hallowed Fountain
-1 Hengegate Pathway
 1 Spire of Industry
 1 Skilled Animator
-1 The Blackstaff of Waterdeep
 1 Whirler Rogue
 2 Skilled Animator
-2 The Blackstaff of Waterdeep
-2 Hallowed Fountain
-2 Island
-2 Hengegate Pathway
 2 Shefet Dunes
 2 Spire of Industry
 2 Whirler Rogue
-3 Island
 3 Spire of Industry
 3 Skilled Animator
-3 Hengegate Pathway
-3 Hallowed Fountain
 3 Whirler Rogue
-4 Hallowed Fountain
 4 Spire of Industry
-4 Hengegate Pathway
 4 Whirler Rogue
-1 Shadowspear
-1 Treasure Vault
-2 Treasure Vault
-17 Plains
-18 Plains
 1 Legion Angel
 20 Snow-Covered Plains

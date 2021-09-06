@@ -10,13 +10,13 @@
 1 Ashiok, Dream Render
 2 Sudden Edict
 1 Marsh Flats
-1 Verdant Catacombs
 1 Inquisition of Kozilek
 1 Polluted Delta
 1 Nurturing Peatland
 1 Barren Moor
 1 Abrupt Decay
 1 Bloodstained Mire
+1 Verdant Catacombs
 1 Bayou
 1 Mox Diamond
 1 Life from the Loam
@@ -43,8 +43,8 @@
 3 Sinkhole
 4 Hymn to Tourach
 1 Karakas
-1 Plague Engineer
 1 Blast Zone
+1 Plague Engineer
 1 Dauthi Voidwalker
 2 Dauthi Voidwalker
 1 Ghost Quarter
@@ -53,26 +53,26 @@
 1 Nether Spirit
 2 Ensnaring Bridge
 2 Crucible of Worlds
+1 Bloodghast
+1 Vindicate
 1 Mana Tithe
 1 Snow-Covered Plains
-1 Bloodghast
 1 Scrubland
-1 Vindicate
+2 Bloodghast
 2 Marsh Flats
 2 Mana Tithe
-2 Scrubland
-2 Bloodghast
 2 Vindicate
+2 Scrubland
 3 Bloodghast
-3 Mana Tithe
 3 Marsh Flats
+3 Mana Tithe
 3 Vindicate
 3 Scrubland
+4 Marsh Flats
 4 Bloodghast
 4 Mana Tithe
 4 Sinkhole
 4 Innocent Blood
-4 Marsh Flats
 1 Bitterblossom
 1 Feed the Swarm
 1 Sedgemoor Witch
@@ -84,5 +84,5 @@
 3 Fatal Push
 4 Fatal Push
 4 Castle Locthwain
-11 Swamp
 4 Cling to Dust
+11 Swamp

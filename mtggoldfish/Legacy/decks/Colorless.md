@@ -78,6 +78,6 @@
 |                    1|[Retrofitter Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450658) |                     |                                                                                                        |
 |                    1|[Crystal Vein](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15413)         |                     |                                                                                                        |
 |                    1|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)       |                     |                                                                                                        |
-|                    2|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)          |                     |                                                                                                        |
 |                    4|[Basalt Monolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=599)        |                     |                                                                                                        |
+|                    2|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)          |                     |                                                                                                        |
 

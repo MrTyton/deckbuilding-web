@@ -11,18 +11,6 @@
 3 Leyline of the Void
 4 Skyclave Shade
 4 Leyline of the Void
-1 Swan Song
-1 Aether Gust
-2 Aether Gust
-3 Shapers' Sanctuary
-1 Declaration in Stone
-1 Rest in Peace
-1 Negate
-2 Declaration in Stone
-2 Rest in Peace
-2 Negate
-3 Declaration in Stone
-4 Shapers' Sanctuary
 3 Reclamation Sage
 1 Carnage Tyrant
 1 Vivien Reid
@@ -30,9 +18,24 @@
 1 Soul-Guide Lantern
 2 Vivien Reid
 2 Soul-Guide Lantern
+3 Scavenging Ooze
+1 Swan Song
+1 Aether Gust
+2 Aether Gust
+3 Shapers' Sanctuary
+1 Declaration in Stone
+1 Negate
+1 Rest in Peace
+2 Declaration in Stone
+2 Rest in Peace
+2 Negate
+3 Declaration in Stone
+4 Shapers' Sanctuary
+1 Tyvar Kell
 1 Realmwalker
 2 Realmwalker
-3 Scavenging Ooze
+1 Primal Might
+2 Primal Might
 1 Heaven/Earth
 2 Heaven/Earth
 1 Craterhoof Behemoth
@@ -40,7 +43,6 @@
 2 Fierce Empath
 4 Reclamation Sage
 1 Elvish Visionary
-1 Tyvar Kell
 1 The Great Henge
 1 End-Raze Forerunners
 1 Meteor Golem
@@ -50,6 +52,8 @@
 1 Sentinel Totem
 1 Rampage of the Clans
 1 God-Eternal Rhonas
+1 Marwyn, the Nurturer
+2 Tyvar Kell
 1 Gigantosaurus
 2 Gigantosaurus
 1 Kraul Harpooner
@@ -58,6 +62,14 @@
 2 Kraul Harpooner
 2 Garruk's Harbinger
 2 Chainweb Aracnir
+1 Blossoming Defense
+1 Titanoth Rex
+1 Treeshaker Chimera
+1 Wildwood Scourge
+2 Carnage Tyrant
+2 Blossoming Defense
+2 Titanoth Rex
+3 Blossoming Defense
 3 Heaven/Earth
 1 Ranger Class
 1 Run Afoul
@@ -73,31 +85,24 @@
 2 Beast Whisperer
 2 Elvish Visionary
 3 Beast Whisperer
-1 Blossoming Defense
-1 Titanoth Rex
-1 Treeshaker Chimera
-1 Wildwood Scourge
-2 Carnage Tyrant
-2 Blossoming Defense
-2 Titanoth Rex
-3 Blossoming Defense
-1 Primal Might
-2 Primal Might
 3 Primal Might
 4 Primal Might
-1 Thoughtseize
-1 Bloodchief's Thirst
-1 Icon of Ancestry
-2 Thoughtseize
-2 Crippling Fear
-3 Thoughtseize
-4 Thoughtseize
+1 Plummet
+2 Plummet
+4 Scavenging Ooze
 1 Sleep
 2 Swan Song
 2 Sleep
 3 Swan Song
 3 Aether Gust
 4 Swan Song
+1 Thoughtseize
+1 Icon of Ancestry
+1 Bloodchief's Thirst
+2 Thoughtseize
+2 Crippling Fear
+3 Thoughtseize
+4 Thoughtseize
 1 In Search of Greatness
 1 Kogla, the Titan Ape
 1 Nissa, Who Shakes the World

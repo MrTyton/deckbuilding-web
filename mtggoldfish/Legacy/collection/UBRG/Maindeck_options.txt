@@ -1,8 +1,8 @@
 4 Bloodstained Mire
 2 Gamble
+3 Arid Mesa
 1 Scalding Tarn
 2 Scalding Tarn
-3 Arid Mesa
 1 Snow-Covered Mountain
 3 Taiga
 1 Volcanic Island
@@ -10,14 +10,14 @@
 4 Scalding Tarn
 2 Volcanic Island
 3 Volcanic Island
-1 Lightning Bolt
 1 Brainstorm
 1 Ponder
+1 Lightning Bolt
 1 Force of Will
 1 Misty Rainforest
-2 Lightning Bolt
 2 Ponder
 2 Force of Will
+2 Lightning Bolt
 2 Brainstorm
 3 Lightning Bolt
 3 Force of Will
@@ -27,17 +27,20 @@
 4 Ponder
 4 Force of Will
 4 Brainstorm
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
 1 Street Wraith
 2 Street Wraith
 3 Street Wraith
+3 Ragavan, Nimble Pilferer
+1 Polluted Delta
 1 Flooded Strand
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
+2 Misty Rainforest
 1 Snow-Covered Island
 1 Expressive Iteration
 2 Expressive Iteration
-3 Ragavan, Nimble Pilferer
-1 Polluted Delta
+4 Ragavan, Nimble Pilferer
+1 Force of Negation
 4 Street Wraith
 1 Asylum Visitor
 1 Snow-Covered Swamp
@@ -46,11 +49,9 @@
 2 Careful Study
 3 Careful Study
 4 Careful Study
-2 Misty Rainforest
 3 Expressive Iteration
-4 Ragavan, Nimble Pilferer
 1 Pyroblast
-1 Force of Negation
+1 Daze
 1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
@@ -58,9 +59,12 @@
 4 Urza's Saga
 1 Fiery Islet
 2 Pyroblast
-1 Daze
 1 Island
 2 Island
+2 Daze
+2 Polluted Delta
+1 Tropical Island
+2 Tropical Island
 1 Relic of Progenitus
 4 Volcanic Island
 1 Painter's Servant
@@ -70,22 +74,15 @@
 3 Painter's Servant
 4 Painter's Servant
 1 Retrofitter Foundry
+2 Force of Negation
 3 Gamble
 1 Fiery Temper
 2 Fiery Temper
 3 Fiery Temper
 4 Fiery Temper
-2 Daze
-2 Polluted Delta
 2 Flooded Strand
-1 Kitchen Imp
-2 Kitchen Imp
-3 Kitchen Imp
-4 Kitchen Imp
 1 Aether Spellbomb
-1 Tropical Island
-2 Tropical Island
-1 Bayou
+3 Misty Rainforest
 1 Wasteland
 1 Chain Lightning
 2 Chain Lightning
@@ -94,19 +91,39 @@
 2 Murktide Regent
 3 Murktide Regent
 1 Red Elemental Blast
-2 Force of Negation
+1 Bayou
+1 Jace, the Mind Sculptor
+1 Uro, Titan of Nature's Wrath
+2 Uro, Titan of Nature's Wrath
+4 Misty Rainforest
 1 Counterbalance
 1 Preordain
 2 Counterbalance
-1 Bomat Courier
-2 Bomat Courier
-3 Bomat Courier
-4 Bomat Courier
 4 Wooded Foothills
-3 Misty Rainforest
+1 Leovold, Emissary of Trest
+1 Sylvan Library
+1 Assassin's Trophy
+1 Baleful Strix
+1 Underground Sea
+1 Drown in the Loch
+2 Assassin's Trophy
+2 Sylvan Library
+2 Leovold, Emissary of Trest
+2 Baleful Strix
+2 Drown in the Loch
+2 Underground Sea
+3 Polluted Delta
+3 Baleful Strix
+4 Polluted Delta
+4 Baleful Strix
 1 Hydroblast
 1 Pyrite Spellbomb
 3 Pyroblast
+1 Kitchen Imp
+2 Kitchen Imp
+3 Kitchen Imp
+4 Kitchen Imp
+3 Uro, Titan of Nature's Wrath
 2 Snow-Covered Island
 3 Tropical Island
 3 Daze
@@ -120,42 +137,42 @@
 2 Dragon's Rage Channeler
 3 Dragon's Rage Channeler
 4 Dragon's Rage Channeler
-1 Jace, the Mind Sculptor
 1 Dress Down
 2 Dress Down
-1 Uro, Titan of Nature's Wrath
-2 Uro, Titan of Nature's Wrath
-3 Uro, Titan of Nature's Wrath
-4 Misty Rainforest
+1 Liliana, the Last Hope
 2 Fiery Islet
 1 Snapcaster Mage
-2 Red Elemental Blast
 2 Snapcaster Mage
-1 Spell Pierce
-1 Fire/Ice
-1 Stasis
-1 Forsaken City
-1 Ral Zarek
-2 Ral Zarek
-2 Hullbreacher
-2 Retrofitter Foundry
-2 Stasis
-3 Stasis
-3 Ral Zarek
+2 Red Elemental Blast
 1 Cephalid Coliseum
 1 Breakthrough
 1 Bazaar Trademage
 2 Breakthrough
 2 Cephalid Coliseum
 3 Cephalid Coliseum
+1 Spell Pierce
+1 Fire/Ice
+1 Ral Zarek
+1 Stasis
+1 Forsaken City
+2 Ral Zarek
+2 Hullbreacher
+2 Retrofitter Foundry
+2 Stasis
+3 Ral Zarek
+3 Stasis
+1 Verdant Catacombs
+2 Verdant Catacombs
+3 Verdant Catacombs
+4 Verdant Catacombs
+1 Prismatic Vista
 1 Engineered Explosives
 1 Narset, Parter of Veils
 1 Snow-Covered Forest
 1 Ice-Fang Coatl
-1 Prismatic Vista
 2 Narset, Parter of Veils
-2 Engineered Explosives
 2 Prismatic Vista
+2 Engineered Explosives
 2 Ice-Fang Coatl
 2 Snow-Covered Forest
 3 Narset, Parter of Veils
@@ -164,42 +181,26 @@
 3 Snow-Covered Island
 4 Narset, Parter of Veils
 4 Arid Mesa
-1 Leovold, Emissary of Trest
-1 Sylvan Library
-1 Assassin's Trophy
-1 Baleful Strix
-1 Drown in the Loch
-1 Underground Sea
-2 Baleful Strix
-2 Assassin's Trophy
-2 Sylvan Library
-2 Leovold, Emissary of Trest
-2 Underground Sea
-2 Drown in the Loch
-3 Polluted Delta
-3 Baleful Strix
-3 Assassin's Trophy
-4 Polluted Delta
-4 Baleful Strix
-4 Assassin's Trophy
-1 Soul-Guide Lantern
-4 Pyroblast
-1 Verdant Catacombs
-2 Verdant Catacombs
-3 Verdant Catacombs
-4 Verdant Catacombs
 1 Firestorm
 2 Firestorm
 3 Badlands
 3 Firestorm
 4 Badlands
-1 Hooting Mandrills
+1 Bomat Courier
+2 Bomat Courier
+3 Bomat Courier
+4 Bomat Courier
+1 Soul-Guide Lantern
+4 Pyroblast
+3 Assassin's Trophy
+4 Assassin's Trophy
 1 Nimble Mongoose
+1 Hooting Mandrills
 1 Stifle
 1 Hexdrinker
-2 Hooting Mandrills
 2 Nimble Mongoose
 2 Hexdrinker
+2 Hooting Mandrills
 2 Stifle
 3 Nimble Mongoose
 3 Wasteland
@@ -208,15 +209,15 @@
 4 Daze
 4 Wasteland
 1 Counterspell
-1 Blood Moon
 1 Dead/Gone
 1 Brazen Borrower
+1 Blood Moon
 1 Dack Fayden
 2 Counterspell
 2 Dead/Gone
+2 Blood Moon
 2 Brazen Borrower
 2 Dack Fayden
-2 Blood Moon
 3 Flooded Strand
 3 Dack Fayden
 6 Island
