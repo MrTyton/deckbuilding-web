@@ -9,30 +9,30 @@
 1 Werewolf Pack Leader
 2 Werewolf Pack Leader
 3 Werewolf Pack Leader
-2 Scavenging Ooze
 4 Werewolf Pack Leader
-3 Ranger Class
 3 Old-Growth Troll
 4 Old-Growth Troll
+2 Scavenging Ooze
+3 Ranger Class
 1 Collected Company
 2 Collected Company
 3 Collected Company
-1 Yorvo, Lord of Garenbrig
 4 Collected Company
 1 The Great Henge
-14 Forest
+1 Yorvo, Lord of Garenbrig
 1 Hashep Oasis
+14 Forest
 2 Hashep Oasis
 2 Yorvo, Lord of Garenbrig
 4 Nissa, Who Shakes the World
+2 The Great Henge
+1 Primal Might
+2 Primal Might
 1 Garruk's Harbinger
 2 Garruk's Harbinger
 3 Garruk's Harbinger
 4 Garruk's Harbinger
-1 Primal Might
-2 Primal Might
 2 Rhonas the Indomitable
-2 The Great Henge
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
@@ -48,9 +48,12 @@
 13 Snow-Covered Forest
 14 Snow-Covered Forest
 15 Snow-Covered Forest
+3 Lair of the Hydra
 3 Hashep Oasis
+3 The Great Henge
 1 Ghalta, Primal Hunger
 15 Forest
+4 Lair of the Hydra
 16 Snow-Covered Forest
 2 Ghalta, Primal Hunger
 1 Blizzard Brawl
@@ -59,16 +62,13 @@
 17 Snow-Covered Forest
 1 Surrak, the Hunt Caller
 2 Surrak, the Hunt Caller
-3 The Great Henge
 2 Aspect of Hydra
 3 Blizzard Brawl
 1 Heart of Kiran
-3 Lair of the Hydra
 3 Aspect of Hydra
 4 Aspect of Hydra
 3 Primal Might
 4 Primal Might
-4 Lair of the Hydra
 4 Blizzard Brawl
 1 Wolfwillow Haven
 4 Ranger Class
@@ -95,6 +95,9 @@
 4 Karn, the Great Creator
 1 Stubborn Denial
 2 Stubborn Denial
+1 Jadelight Ranger
+2 Jadelight Ranger
+3 Jadelight Ranger
 1 Dragon Turtle
 1 Glasspool Mimic
 1 Brazen Borrower
@@ -116,10 +119,10 @@
 2 Mutavault
 3 Entrancing Melody
 3 Dragon Turtle
+3 Brazen Borrower
 3 Unsummon
 3 Island
 3 Gadwick, the Wizened
-3 Brazen Borrower
 3 Silumgar's Scorn
 3 Mutavault
 4 Island
@@ -131,6 +134,7 @@
 5 Island
 6 Island
 7 Island
+3 Scavenging Ooze
 3 Stubborn Denial
 4 Stubborn Denial
 4 Wolfwillow Haven
@@ -145,14 +149,6 @@
 3 Master of Waves
 3 Risen Reef
 4 Risen Reef
-2 Glasspool Mimic
-3 Omen of the Sea
-4 Omen of the Sea
-8 Island
-9 Island
-10 Island
-1 Questing Beast
-4 Hashep Oasis
 1 Llanowar Wastes
 1 Blooming Marsh
 1 Overgrown Tomb
@@ -163,21 +159,28 @@
 3 Overgrown Tomb
 4 Blooming Marsh
 4 Overgrown Tomb
+1 Questing Beast
+4 Hashep Oasis
+1 Kazandu Mammoth
+2 Kazandu Mammoth
+2 Glasspool Mimic
+3 Omen of the Sea
+4 Omen of the Sea
+8 Island
+9 Island
+10 Island
 3 Barkhide Troll
 3 Ghalta, Primal Hunger
 1 Field of Ruin
 4 Unsummon
 4 Silumgar's Scorn
+16 Forest
 1 Avatar of the Resolute
 1 Experiment One
 2 Avatar of the Resolute
 2 Experiment One
 3 Avatar of the Resolute
 4 Avatar of the Resolute
-16 Forest
-1 Jadelight Ranger
-2 Jadelight Ranger
-3 Jadelight Ranger
 3 Llanowar Wastes
 4 Llanowar Wastes
 1 Darkbore Pathway
@@ -229,9 +232,10 @@
 22 Island
 23 Island
 24 Island
-3 Scavenging Ooze
 1 Blossoming Defense
 1 Esika's Chariot
+1 Tangled Florahedron
+2 Tangled Florahedron
 1 Decisive Denial
 2 Decisive Denial
 1 Opt
@@ -254,12 +258,13 @@
 3 Experiment One
 4 Pelt Collector
 4 Experiment One
-1 Kazandu Mammoth
-2 Kazandu Mammoth
 2 Questing Beast
 3 Questing Beast
 4 Questing Beast
 4 Scavenging Ooze
+4 The Great Henge
+3 Kazandu Mammoth
+4 Kazandu Mammoth
 1 Rotting Regisaur
 1 Wildgrowth Walker
 1 Merfolk Branchwalker
@@ -273,13 +278,11 @@
 4 Merfolk Branchwalker
 4 Wildgrowth Walker
 4 Jadelight Ranger
-4 The Great Henge
 1 Embercleave
 1 Ghor-Clan Rampager
 1 Cinder Glade
 1 Atarka's Command
 1 Gruul Spellbreaker
-1 Robber of the Rich
 1 Bonecrusher Giant
 1 Klothys, God of Destiny
 1 Game Trail
@@ -287,6 +290,7 @@
 1 Mountain
 1 Reckless Bushwhacker
 1 Stomping Ground
+1 Robber of the Rich
 1 Rootbound Crag
 2 Atarka's Command
 2 Bonecrusher Giant
@@ -301,9 +305,9 @@
 2 Game Trail
 3 Atarka's Command
 3 Game Trail
+3 Bonecrusher Giant
 3 Cragcrown Pathway
 3 Gruul Spellbreaker
-3 Bonecrusher Giant
 3 Mountain
 3 Reckless Bushwhacker
 3 Stomping Ground
@@ -321,8 +325,8 @@
 2 Realmwalker
 2 Elvish Clancaller
 2 Circle of Dreams Druid
-2 Wildborn Preserver
 2 Elvish Warmaster
+2 Wildborn Preserver
 2 Shaman of the Pack
 3 Elvish Clancaller
 3 Wildborn Preserver

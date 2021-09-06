@@ -3,6 +3,14 @@
 1 Shark Typhoon
 1 Teferi, Hero of Dominaria
 1 Absorb
+2 Absorb
+3 Glacial Fortress
+1 Supreme Verdict
+2 Teferi, Hero of Dominaria
+3 Absorb
+2 Supreme Verdict
+3 Supreme Verdict
+1 Castle Ardenvale
 1 Sulfur Falls
 1 Steam Vents
 1 Sacred Foundry
@@ -12,86 +20,84 @@
 3 Raugrin Triome
 3 Steam Vents
 2 Shark Typhoon
-2 Absorb
 4 Raugrin Triome
-3 Glacial Fortress
-1 Castle Ardenvale
-1 Supreme Verdict
-2 Teferi, Hero of Dominaria
-3 Absorb
+1 Dovin's Veto
 4 Steam Vents
 2 Sulfur Falls
-2 Supreme Verdict
-3 Supreme Verdict
-1 Dovin's Veto
-3 Shark Typhoon
 3 Teferi, Hero of Dominaria
 4 Supreme Verdict
 4 Glacial Fortress
+3 Shark Typhoon
+2 Dovin's Veto
 4 Shark Typhoon
 3 Sulfur Falls
-2 Dovin's Veto
 1 Expressive Iteration
 2 Expressive Iteration
 4 Absorb
 1 Scorching Dragonfire
+1 Castle Vantress
 2 Scorching Dragonfire
 3 Scorching Dragonfire
 3 Expressive Iteration
-1 Castle Vantress
-3 Mutavault
+1 Treasure Vault
 4 Scorching Dragonfire
+3 Dovin's Veto
 4 Sulfur Falls
 1 Sphinx's Revelation
 4 Expressive Iteration
 1 Rest in Peace
 1 Needle Spires
 2 Rest in Peace
-3 Dovin's Veto
 1 Magma Spray
 2 Magma Spray
-1 Treasure Vault
+3 Mutavault
 4 Dovin's Veto
 1 Dig Through Time
-1 Behold the Multiverse
-2 Sacred Foundry
 1 Narset, Parter of Veils
 1 Censor
 2 Censor
 2 Castle Ardenvale
-1 Rewind
+3 Censor
+1 Behold the Multiverse
+2 Sacred Foundry
 1 Clifftop Retreat
 2 Clifftop Retreat
-3 Censor
-1 Mountain
-1 Fabled Passage
-2 Fabled Passage
 2 Dig Through Time
-1 Torrential Gearhulk
-1 Chained to the Rocks
-2 Chained to the Rocks
-3 Chained to the Rocks
 1 Azorius Charm
-2 Behold the Multiverse
-1 Prismari Command
+1 Rewind
 4 Teferi, Hero of Dominaria
-3 Dig Through Time
 2 Azorius Charm
-4 Chained to the Rocks
+1 Mountain
 2 Narset, Parter of Veils
 3 Narset, Parter of Veils
-1 Cast Out
 2 Island
+3 Azorius Charm
 1 Opt
 2 Opt
 3 Opt
 4 Opt
-3 Azorius Charm
-2 Needle Spires
+1 Fabled Passage
+2 Fabled Passage
+1 Chained to the Rocks
+2 Chained to the Rocks
+3 Chained to the Rocks
+1 Torrential Gearhulk
+1 Prismari Command
+1 Seal Away
 3 The Blackstaff of Waterdeep
+4 Chained to the Rocks
+3 Dig Through Time
+2 Behold the Multiverse
+1 Cast Out
+2 Plains
+2 Needle Spires
 3 Sacred Foundry
 4 Censor
+4 Azorius Charm
 2 Torrential Gearhulk
+1 Field of Ruin
+1 Irrigated Farmland
+2 Irrigated Farmland
 1 Fire Prophecy
 1 Omen of the Sea
 1 Elspeth, Sun's Nemesis
@@ -115,18 +121,25 @@
 4 Omen of the Sun
 4 Fabled Passage
 4 Sacred Foundry
-2 Plains
+2 Castle Vantress
+2 Field of Ruin
+3 Island
+4 Island
+5 Island
+3 Irrigated Farmland
+4 Irrigated Farmland
+1 Blast Zone
+1 Detention Sphere
 1 Magma Opus
 2 Magma Opus
 3 Magma Opus
-1 Seal Away
 2 Mountain
 1 Anger of the Gods
 2 Seal Away
-2 Rewind
 4 Magma Opus
 1 Search for Azcanta
 1 Commit/Memory
+2 Rewind
 1 Fires of Invention
 1 Oath of Chandra
 1 The Birth of Meletis
@@ -141,40 +154,24 @@
 2 Valakut Awakening
 3 Fire Prophecy
 4 Fire Prophecy
-4 Azorius Charm
-1 Field of Ruin
-1 Irrigated Farmland
-2 Irrigated Farmland
 2 Sphinx's Revelation
 1 Narset of the Ancient Way
 1 Whirlwind of Thought
 3 Behold the Multiverse
 3 Magma Spray
 4 Magma Spray
-4 All That Glitters
-1 Mystical Dispute
-1 Cave of the Frost Dragon
-2 Castle Vantress
-2 Field of Ruin
-3 Island
-4 Island
-5 Island
-2 Prismari Command
-3 Irrigated Farmland
-4 Irrigated Farmland
-1 Snow-Covered Island
 1 Snow-Covered Plains
-1 Scrabbling Claws
-1 Blast Zone
-1 Detention Sphere
+1 Toolcraft Exemplar
+2 Toolcraft Exemplar
+1 Cave of the Frost Dragon
+1 Mystical Dispute
+2 Prismari Command
+1 Snow-Covered Island
 1 Geier Reach Sanitarium
 1 Justice Strike
 2 Justice Strike
 2 Hope of Ghirapur
-1 Toolcraft Exemplar
-2 Toolcraft Exemplar
 2 Anger of the Gods
-2 Stubborn Denial
 1 Jace, Vryn's Prodigy
 1 Sinister Sabotage
 1 Spirebluff Canal
@@ -183,35 +180,30 @@
 2 Bonecrusher Giant
 2 Sinister Sabotage
 3 Sinister Sabotage
-1 Bomat Courier
-1 Steel Overseer
-2 Bomat Courier
-2 Steel Overseer
-4 Ghostfire Blade
 4 Portable Hole
-1 Kaya, Orzhov Usurper
 1 Drowned Catacomb
+1 Kaya, Orzhov Usurper
 1 Isolated Chapel
 1 Heartless Act
 1 Fetid Pools
 1 Watery Grave
 1 Vanishing Verse
 2 Watery Grave
-2 Kaya, Orzhov Usurper
+2 Drowned Catacomb
 2 Isolated Chapel
 2 Heartless Act
+2 Kaya, Orzhov Usurper
 2 Vanishing Verse
-2 Drowned Catacomb
 2 Fetid Pools
 3 Vanishing Verse
+3 Isolated Chapel
 3 Fetid Pools
 3 Heartless Act
-3 Isolated Chapel
 3 Watery Grave
 4 Vanishing Verse
 4 Fetid Pools
-4 Watery Grave
 4 Isolated Chapel
+4 Watery Grave
 1 Settle the Wreckage
 1 Chemister's Insight
 1 Sublime Epiphany

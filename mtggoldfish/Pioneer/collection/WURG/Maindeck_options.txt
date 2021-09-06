@@ -1,35 +1,37 @@
-3 Raugrin Triome
-1 Glacial Fortress
-2 Escape to the Wilds
 1 Portable Hole
-1 Tamiyo, Collector of Tales
-1 Fiery Impulse
+1 Glacial Fortress
+3 Stomping Ground
+3 Hallowed Fountain
 1 Breeding Pool
 1 Radiant Flames
+3 Growth Spiral
 1 Steam Vents
-4 Raugrin Triome
+2 Escape to the Wilds
+2 Temple Garden
+2 Tamiyo, Collector of Tales
 2 Sunpetal Grove
+4 Raugrin Triome
 2 Plains
-2 Glacial Fortress
 2 Sacred Foundry
 1 Castle Vantress
 1 Omen of the Sea
-1 Supreme Verdict
 1 The Raven's Warning
+1 Supreme Verdict
 1 Deafening Clarion
 1 Shark Typhoon
 1 Narset, Parter of Veils
-2 Supreme Verdict
 2 Steam Vents
+2 Supreme Verdict
+2 Glacial Fortress
 2 Omen of the Sea
 2 The Raven's Warning
 2 Narset, Parter of Veils
 2 Shark Typhoon
 2 Deafening Clarion
 3 Shark Typhoon
+3 Steam Vents
 3 Supreme Verdict
 3 Glacial Fortress
-3 Steam Vents
 3 Narset, Parter of Veils
 3 Sacred Foundry
 3 Omen of the Sea
@@ -47,6 +49,10 @@
 2 Fires of Invention
 3 Fires of Invention
 4 Fires of Invention
+1 Fiery Impulse
+1 Strategic Planning
+2 Strategic Planning
+3 Strategic Planning
 1 Nahiri, the Harbinger
 1 Wish
 1 Koma, Cosmos Serpent
@@ -54,31 +60,25 @@
 2 Koma, Cosmos Serpent
 3 Wish
 3 Portable Hole
-3 Stomping Ground
+2 Radiant Flames
+2 Fiery Impulse
+4 Strategic Planning
 2 Island
-2 Tamiyo, Collector of Tales
 4 Wish
 1 Snow-Covered Forest
 1 Snow-Covered Mountain
-3 Hallowed Fountain
-1 Strategic Planning
-2 Strategic Planning
-3 Strategic Planning
-4 Growth Spiral
-2 Fiery Impulse
-2 Radiant Flames
-4 Strategic Planning
-4 Sylvan Awakening
 3 Koma, Cosmos Serpent
 1 Mystical Dispute
 1 Agent of Treachery
 2 Agent of Treachery
-1 Yasharn, Implacable Earth
+4 Sylvan Awakening
 1 Rootbound Crag
+1 Yasharn, Implacable Earth
 2 Breeding Pool
 2 Rootbound Crag
 2 Forest
 3 Agent of Treachery
+4 Growth Spiral
 1 Sea Gate Restoration
 1 Chandra, Awakened Inferno
 1 Elspeth Conquers Death
@@ -98,9 +98,9 @@
 1 Transmogrify
 1 The Birth of Meletis
 1 Esika's Chariot
+2 Castle Vantress
 2 Transmogrify
 2 The Birth of Meletis
-2 Castle Vantress
 2 Esika's Chariot
 3 Transmogrify
 3 The Birth of Meletis
@@ -133,30 +133,31 @@
 1 Auspicious Starrix
 1 Voice of Resurgence
 1 Parcelbeast
-2 Voice of Resurgence
 2 Risen Reef
 2 Paradise Druid
 2 Migratory Greathorn
 2 Auspicious Starrix
 2 Illuna, Apex of Wishes
+2 Voice of Resurgence
 2 Parcelbeast
-3 Risen Reef
 3 Voice of Resurgence
+3 Risen Reef
 3 Auspicious Starrix
 3 Parcelbeast
 3 Migratory Greathorn
 3 Illuna, Apex of Wishes
 3 Paradise Druid
 4 Risen Reef
+4 Migratory Greathorn
 4 Parcelbeast
 4 Voice of Resurgence
-4 Migratory Greathorn
 4 Auspicious Starrix
 4 Paradise Druid
 1 Sulfur Falls
 1 Tolsimir, Friend to Wolves
 3 Rootbound Crag
 4 Escape to the Wilds
-1 Emrakul, the Promised End
-1 Tireless Tracker
-4 Hinterland Harbor
+1 Monastery Mentor
+1 Lumbering Falls
+1 Quicken
+2 Quicken
