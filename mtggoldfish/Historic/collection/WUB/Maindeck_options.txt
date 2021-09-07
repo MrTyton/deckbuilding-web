@@ -1,76 +1,93 @@
-1 Censor
+2 Fatal Push
+2 Day of Judgment
+2 Swamp
+2 Thoughtseize
+3 Baleful Mastery
+3 Fatal Push
+3 Thoughtseize
+3 Day of Judgment
+4 Fatal Push
+4 Neutralize
+4 Thoughtseize
+5 Island
+4 Plains
+1 Saw It Coming
+1 Behold the Multiverse
+2 Behold the Multiverse
+2 Dovin's Veto
+1 Baffling End
+1 Temple of Enlightenment
+1 Hengegate Pathway
+2 Saw It Coming
+5 Plains
+6 Plains
+6 Island
+7 Island
+1 Doomskar
+2 Doomskar
+1 Shatter the Sky
+1 Approach of the Second Sun
+1 Omen of the Sea
+2 Search for Azcanta
+2 Hengegate Pathway
+2 Temple of Enlightenment
+2 Shatter the Sky
+2 Omen of the Sea
+2 Approach of the Second Sun
+3 Temple of Enlightenment
+3 Behold the Multiverse
+3 Hengegate Pathway
+3 Saw It Coming
+3 Shatter the Sky
+3 Omen of the Sea
+4 Omen of the Sea
+7 Plains
+8 Island
+9 Island
+10 Island
 1 Cast Out
 1 Wrath of God
 2 Wrath of God
 2 Cast Out
-2 Censor
-2 Absorb
-2 Glacial Fortress
-3 Absorb
-3 Hallowed Fountain
-1 Banishing Light
-1 Neutralize
-2 Neutralize
 2 Castle Ardenvale
-3 Glacial Fortress
-4 Hallowed Fountain
-3 Teferi, Hero of Dominaria
-4 Teferi, Hero of Dominaria
+1 Banishing Light
 2 Castle Vantress
-3 Dovin's Veto
-1 Fabled Passage
-2 Fabled Passage
-1 Godless Shrine
-1 Watery Grave
-1 Drowned Catacomb
-1 Alrund's Epiphany
 1 Teferi, Master of Time
+1 Alrund's Epiphany
 2 Alrund's Epiphany
 1 Grafdigger's Cage
-1 Isolated Chapel
 1 Thought Erasure
 1 Oath of Kaya
-2 Godless Shrine
-2 Drowned Catacomb
 2 Thought Erasure
-2 Watery Grave
 3 Thought Erasure
 3 Godless Shrine
-3 Watery Grave
 4 Godless Shrine
-4 Watery Grave
 4 Thought Erasure
-1 Day of Judgment
-1 Swamp
-3 Fabled Passage
-4 Fabled Passage
 2 Baffling End
 1 Heartless Act
 1 Bloodchief's Thirst
-2 Heartless Act
 2 Bloodchief's Thirst
+2 Heartless Act
+3 Dovin's Veto
 3 Cast Out
 3 Wrath of God
 4 Absorb
 4 Cast Out
 1 Field of Ruin
-1 Baleful Mastery
 1 Hall of Storm Giants
 1 Ashiok, Nightmare Muse
 1 Chemister's Insight
 1 Bojuka Bog
+1 Rest in Peace
 1 God-Eternal Kefnet
-1 Liliana, Dreadhorde General
 1 Cleansing Nova
 1 Elspeth Conquers Death
-1 Rest in Peace
+1 Liliana, Dreadhorde General
 1 Shadows' Verdict
-2 Baleful Mastery
-2 Chemister's Insight
 2 Isolated Chapel
+2 Chemister's Insight
 2 Bojuka Bog
 2 Cleansing Nova
-3 Drowned Catacomb
 3 Isolated Chapel
 1 Sea Gate Restoration
 1 Mana Tithe
@@ -78,8 +95,8 @@
 1 Gates of Istfell
 1 Sublime Epiphany
 1 Lonely Sandbar
-1 Dream Trawler
 1 Ugin, the Spirit Dragon
+1 Dream Trawler
 1 Breeding Pool
 1 Kiora Bests the Sea God
 1 Barkchannel Pathway
@@ -89,8 +106,8 @@
 1 Atris, Oracle of Half-Truths
 1 Felidar Retreat
 1 Mortify
-1 Kaya, Orzhov Usurper
 1 Basilica Bell-Haunt
+1 Kaya, Orzhov Usurper
 1 Bishop's Soldier
 1 Hero of Precinct One
 2 Felidar Retreat
@@ -101,7 +118,6 @@
 2 Bishop's Soldier
 2 Hero of Precinct One
 3 Basilica Bell-Haunt
-3 Neutralize
 4 Saw It Coming
 4 Behold the Multiverse
 1 Clearwater Pathway
@@ -123,24 +139,6 @@
 4 Bloodchief's Thirst
 4 Dragon Turtle
 4 Heartless Act
-1 Irrigated Farmland
-1 Aether Gust
-1 Disdainful Stroke
-2 Grafdigger's Cage
-2 Irrigated Farmland
-3 Irrigated Farmland
-3 Censor
-3 Castle Ardenvale
-3 Baffling End
-4 Glacial Fortress
-4 Irrigated Farmland
-4 Censor
-4 Wrath of God
-2 Banishing Light
-3 Banishing Light
-3 Approach of the Second Sun
-8 Plains
-9 Plains
 1 Sphinx's Revelation
 1 Snow-Covered Island
 1 Emeria's Call
@@ -160,11 +158,27 @@
 2 Faceless Haven
 2 Snow-Covered Plains
 2 Hieroglyphic Illumination
+3 Snow-Covered Island
 3 Hieroglyphic Illumination
 3 Lay Claim
 3 Snow-Covered Plains
-3 Snow-Covered Island
-4 Lay Claim
 4 Snow-Covered Island
+4 Lay Claim
 4 Hieroglyphic Illumination
 5 Snow-Covered Island
+2 Banishing Light
+3 Banishing Light
+3 Approach of the Second Sun
+8 Plains
+9 Plains
+1 Irrigated Farmland
+1 Disdainful Stroke
+1 Aether Gust
+2 Irrigated Farmland
+2 Grafdigger's Cage
+3 Irrigated Farmland
+3 Baffling End
+3 Castle Ardenvale
+4 Glacial Fortress
+4 Irrigated Farmland
+4 Wrath of God

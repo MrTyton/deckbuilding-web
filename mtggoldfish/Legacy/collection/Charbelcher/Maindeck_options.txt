@@ -42,6 +42,8 @@
 2 Echo of Eons
 3 Echo of Eons
 3 Empty the Warrens
+1 Once Upon a Time
+2 Once Upon a Time
 3 Thoughtseize
 4 Thoughtseize
 1 Sea Gate Restoration
@@ -63,24 +65,22 @@
 4 Sea Gate Restoration
 4 Ponder
 4 Brainstorm
-1 Once Upon a Time
-2 Once Upon a Time
-3 Cabal Therapy
 1 Dark Petition
 2 Pelakka Predation
 3 Preordain
-4 Cabal Therapy
 1 Leyline of Anticipation
 2 Leyline of Anticipation
 3 Leyline of Anticipation
 4 Leyline of Anticipation
 4 Force of Will
+3 Cabal Therapy
 1 Irencrag Feat
 2 Irencrag Feat
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
 4 Manamorphose
+1 Grief
 1 Infernal Tutor
 1 Infernal Contract
 1 Cruel Bargain
@@ -115,13 +115,20 @@
 1 Skyshroud Cutter
 1 Odious Trow
 3 Tendrils of Agony
+4 Cabal Therapy
+1 Tangled Florahedron
+1 Blackbloom Rogue
+2 Blackbloom Rogue
+3 Blackbloom Rogue
+3 Once Upon a Time
+4 Once Upon a Time
+4 Blackbloom Rogue
 1 Shield Sphere
 1 Entomb
 1 Past in Flames
-1 Grief
+2 Grief
 2 Entomb
 2 Shield Sphere
-2 Grief
 3 Entomb
 3 Grief
 4 Grief
@@ -141,8 +148,8 @@
 2 Grim Monolith
 2 Serum Powder
 2 Pyretic Ritual
-3 Grim Monolith
 3 Serum Powder
+3 Grim Monolith
 3 Irencrag Feat
 3 Pyretic Ritual
 4 Grim Monolith
@@ -156,8 +163,8 @@
 1 Orim's Chant
 1 Ghostly Prison
 1 Aura of Silence
-1 Wrath of God
 1 Runed Halo
+1 Wrath of God
 1 Blood Moon
 1 Scroll Rack
 1 Humility

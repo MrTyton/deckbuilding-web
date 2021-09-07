@@ -1,40 +1,47 @@
-1 Snow-Covered Island
-2 Snow-Covered Island
-1 Uro, Titan of Nature's Wrath
-2 Uro, Titan of Nature's Wrath
-3 Jace, the Mind Sculptor
-1 Misty Rainforest
-2 Misty Rainforest
-3 Misty Rainforest
-3 Uro, Titan of Nature's Wrath
-3 Snow-Covered Island
 1 Tropical Island
-1 Endurance
-3 Terminus
-1 Sylvan Library
 4 Misty Rainforest
+1 Sylvan Library
 2 Tropical Island
-2 Endurance
+2 Snow-Covered Island
 1 Snow-Covered Forest
 1 Shark Typhoon
 1 Savannah
-1 Predict
-3 Force of Negation
+3 Jace, the Mind Sculptor
+3 Snow-Covered Island
+2 Scalding Tarn
+2 Back to Basics
+1 Counterspell
+1 Mountain
+1 Counterbalance
+2 Counterbalance
+2 Plains
+3 Terminus
+5 Island
+2 Endurance
+2 Tundra
 2 Snow-Covered Forest
 1 Abundant Harvest
 2 Abundant Harvest
+4 Prismatic Ending
 1 Dress Down
 2 Dress Down
-3 Endurance
 2 Shark Typhoon
-2 Tundra
+3 Endurance
+1 Predict
 2 Monastery Mentor
 1 Mystic Sanctuary
-4 Prismatic Ending
+1 Windswept Heath
+3 Force of Negation
+1 Expressive Iteration
+2 Expressive Iteration
+3 Expressive Iteration
+2 Sylvan Library
+2 Volcanic Island
 1 Snow-Covered Mountain
 2 Snow-Covered Plains
+1 Plateau
+1 Taiga
 1 Entreat the Angels
-1 Windswept Heath
 3 Teferi, Time Raveler
 1 Supreme Verdict
 1 Spell Pierce
@@ -42,19 +49,12 @@
 4 Snow-Covered Island
 5 Snow-Covered Island
 2 Preordain
-1 Expressive Iteration
-2 Expressive Iteration
-3 Expressive Iteration
 2 Narset, Parter of Veils
 3 Scalding Tarn
 4 Scalding Tarn
-2 Sylvan Library
-2 Volcanic Island
 1 Forest
 2 Forest
 6 Snow-Covered Island
-1 Plateau
-1 Taiga
 3 Monastery Mentor
 3 Preordain
 4 Preordain
@@ -104,11 +104,10 @@
 3 Frantic Inventory
 4 Murktide Regent
 4 Frantic Inventory
-4 Expressive Iteration
 3 Abundant Harvest
 4 Abundant Harvest
+4 Expressive Iteration
 4 Snapcaster Mage
-6 Island
 1 Growth Spiral
 1 Daze
 2 Growth Spiral

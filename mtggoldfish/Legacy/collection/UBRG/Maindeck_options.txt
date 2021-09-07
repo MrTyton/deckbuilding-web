@@ -142,8 +142,8 @@
 1 Liliana, the Last Hope
 2 Fiery Islet
 1 Snapcaster Mage
-2 Snapcaster Mage
 2 Red Elemental Blast
+2 Snapcaster Mage
 1 Cephalid Coliseum
 1 Breakthrough
 1 Bazaar Trademage
@@ -161,18 +161,14 @@
 2 Stasis
 3 Ral Zarek
 3 Stasis
-1 Verdant Catacombs
-2 Verdant Catacombs
-3 Verdant Catacombs
-4 Verdant Catacombs
 1 Prismatic Vista
 1 Engineered Explosives
 1 Narset, Parter of Veils
 1 Snow-Covered Forest
 1 Ice-Fang Coatl
-2 Narset, Parter of Veils
 2 Prismatic Vista
 2 Engineered Explosives
+2 Narset, Parter of Veils
 2 Ice-Fang Coatl
 2 Snow-Covered Forest
 3 Narset, Parter of Veils
@@ -181,6 +177,8 @@
 3 Snow-Covered Island
 4 Narset, Parter of Veils
 4 Arid Mesa
+3 Assassin's Trophy
+4 Assassin's Trophy
 1 Firestorm
 2 Firestorm
 3 Badlands
@@ -192,15 +190,17 @@
 4 Bomat Courier
 1 Soul-Guide Lantern
 4 Pyroblast
-3 Assassin's Trophy
-4 Assassin's Trophy
+1 Verdant Catacombs
+2 Verdant Catacombs
+3 Verdant Catacombs
+4 Verdant Catacombs
 1 Nimble Mongoose
 1 Hooting Mandrills
 1 Stifle
 1 Hexdrinker
 2 Nimble Mongoose
-2 Hexdrinker
 2 Hooting Mandrills
+2 Hexdrinker
 2 Stifle
 3 Nimble Mongoose
 3 Wasteland

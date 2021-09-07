@@ -1,21 +1,23 @@
 1 Sorcerous Spyglass
-1 Pyroblast
-2 Pyroblast
-1 Red Elemental Blast
-1 Abrade
 4 Dead/Gone
+1 Abrade
+1 Red Elemental Blast
 1 Ensnaring Bridge
 1 Tormod's Crypt
-1 Grindstone
 1 Pithing Needle
-2 Red Elemental Blast
-2 Abrade
-1 Mycosynth Lattice
-1 Thorn of Amethyst
-2 Thorn of Amethyst
+1 Grindstone
+1 Pyroblast
+2 Pyroblast
 1 Sulfur Elemental
 2 Sulfur Elemental
+2 Red Elemental Blast
+1 Thorn of Amethyst
+2 Thorn of Amethyst
+2 Abrade
 1 Blood Moon
+3 Thorn of Amethyst
+3 Sulfur Elemental
+1 Mycosynth Lattice
 1 Liquimetal Coating
 1 Surgical Extraction
 2 Surgical Extraction
@@ -26,48 +28,46 @@
 2 Plague Engineer
 3 Plague Engineer
 1 Vault of Whispers
-3 Thorn of Amethyst
+4 Thorn of Amethyst
+4 Sulfur Elemental
 1 Ethersworn Canonist
 4 Plague Engineer
 3 Opposition Agent
-3 Sulfur Elemental
 1 Torpor Orb
 1 Portable Hole
 1 Karakas
+1 Grafdigger's Cage
 2 Chandra, Awakened Inferno
-4 Thorn of Amethyst
-4 Sulfur Elemental
-1 Lightning Bolt
 1 Faerie Macabre
 2 Faerie Macabre
 3 Faerie Macabre
+1 Lightning Bolt
+2 Torpor Orb
 3 Surgical Extraction
-1 Grafdigger's Cage
 1 Sphere of Annihilation
-1 Phyrexian Revoker
 4 Magus of the Moon
-1 Galvanic Blast
-2 Galvanic Blast
-1 Lotus Petal
 1 Pyrokinesis
+2 Ensnaring Bridge
+2 Trinisphere
+1 Lotus Petal
 1 Rip Apart
 1 Karn, the Great Creator
 1 Walking Ballista
-2 Ensnaring Bridge
 2 Lightning Bolt
-1 Dark Confidant
-1 Meekstone
-1 Nihil Spellbomb
-1 Jegantha, the Wellspring
 1 Defense Grid
 1 Shatterstorm
 2 Shatterstorm
-2 Torpor Orb
-2 Sorcerous Spyglass
-1 Painter's Servant
+1 Dark Confidant
+1 Galvanic Blast
+1 Meekstone
+1 Nihil Spellbomb
+1 Jegantha, the Wellspring
+2 Galvanic Blast
 1 Goblin Cratermaker
 1 Blazing Volley
 1 Skysovereign, Consul Flagship
+1 Engineered Explosives
+1 Phyrexian Revoker
 1 Soul-Guide Lantern
 1 Word of Seizing
 1 Pyroclasm
@@ -75,8 +75,6 @@
 1 Nettlecyst
 1 Wear/Tear
 2 Dark Confidant
-1 Engineered Explosives
-2 Trinisphere
 2 Rip Apart
 1 Alpine Moon
 2 Pithing Needle
@@ -87,27 +85,25 @@
 2 Dystopia
 1 Dire Fleet Daredevil
 2 Blood Moon
-1 Shadowspear
-1 Lion's Eye Diamond
-1 Daretti, Ingenious Iconoclast
-2 Tormod's Crypt
 1 Plague Reaver
 2 Plague Reaver
 2 Defense Grid
 2 Walking Ballista
 1 Enlightened Tutor
 1 Unholy Heat
-1 Fury
 1 Void Mirror
 1 Cursed Scroll
+1 Fury
 1 Hydroblast
-2 Fury
 2 Hydroblast
 2 Unholy Heat
+2 Fury
 3 Hydroblast
+3 Trinisphere
 3 Chandra, Awakened Inferno
 1 Witchbane Orb
 1 Glass Casket
+1 Painter's Servant
 1 Swords to Plowshares
 2 Swords to Plowshares
 3 Swords to Plowshares
@@ -122,6 +118,7 @@
 4 Lightning Bolt
 1 Boil
 1 Scab-Clan Berserker
+2 Sorcerous Spyglass
 2 Scab-Clan Berserker
 3 Red Elemental Blast
 3 Scab-Clan Berserker

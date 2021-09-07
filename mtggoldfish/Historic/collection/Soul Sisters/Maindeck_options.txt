@@ -100,17 +100,17 @@
 16 Snow-Covered Plains
 1 Baneslayer Angel
 1 Vito, Thorn of the Dusk Rose
-1 Temple of Silence
-1 Isolated Chapel
 1 Godless Shrine
-2 Isolated Chapel
+1 Isolated Chapel
+1 Temple of Silence
 2 Vito, Thorn of the Dusk Rose
 2 Godless Shrine
+2 Isolated Chapel
 3 Isolated Chapel
 3 Godless Shrine
 3 Vito, Thorn of the Dusk Rose
-4 Isolated Chapel
 4 Godless Shrine
+4 Isolated Chapel
 1 Luminous Broodmoth
 3 Ranger of Eos
 4 Ranger of Eos
@@ -125,9 +125,6 @@
 1 Angel of Destiny
 1 Glory-Bound Initiate
 1 Oketra the True
-1 Luminarch Aspirant
-2 Luminarch Aspirant
-3 Luminarch Aspirant
 1 Emeria's Call
 1 Search for Glory
 2 Emeria's Call
@@ -140,6 +137,9 @@
 2 Gods Willing
 2 Benalish Marshal
 3 Benalish Marshal
+1 Luminarch Aspirant
+2 Luminarch Aspirant
+3 Luminarch Aspirant
 1 Fight as One
 1 Mazemind Tome
 2 Selfless Savior
