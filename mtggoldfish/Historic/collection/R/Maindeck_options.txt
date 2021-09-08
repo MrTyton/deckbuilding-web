@@ -5,17 +5,21 @@
 5 Mountain
 6 Mountain
 3 Ghitu Lavarunner
-3 Bonecrusher Giant
 7 Mountain
 8 Mountain
 9 Mountain
-4 Ghitu Lavarunner
-4 Bonecrusher Giant
+3 Bonecrusher Giant
 10 Mountain
+11 Mountain
+4 Ghitu Lavarunner
 3 Rampaging Ferocidon
 4 Rampaging Ferocidon
-11 Mountain
+4 Bonecrusher Giant
 1 Pillar of Flame
+12 Mountain
+13 Mountain
+2 Pillar of Flame
+1 Grim Lavamancer
 1 Atarka's Command
 1 Stomping Ground
 1 Burning-Tree Emissary
@@ -26,46 +30,41 @@
 3 Stomping Ground
 4 Burning-Tree Emissary
 4 Stomping Ground
-1 Grim Lavamancer
-2 Pillar of Flame
+1 Skewer the Critics
+2 Skewer the Critics
+3 Skewer the Critics
+1 Den of the Bugbear
 1 Rootbound Crag
 2 Rootbound Crag
 1 Cragcrown Pathway
 2 Cragcrown Pathway
 3 Atarka's Command
-1 Skewer the Critics
-2 Skewer the Critics
-3 Skewer the Critics
+15 Snow-Covered Mountain
+1 Roiling Vortex
 1 Chandra, Torch of Defiance
-12 Mountain
-13 Mountain
 1 Goblin Chainwhirler
 2 Goblin Chainwhirler
+3 Goblin Chainwhirler
+2 Den of the Bugbear
+1 Kari Zev, Skyship Raider
 3 Cragcrown Pathway
 4 Cragcrown Pathway
 4 Atarka's Command
-15 Snow-Covered Mountain
-1 Den of the Bugbear
-1 Roiling Vortex
-3 Goblin Chainwhirler
-1 Kari Zev, Skyship Raider
 1 Wayward Guide-Beast
 2 Grim Lavamancer
 4 Skewer the Critics
-2 Den of the Bugbear
-2 Roiling Vortex
 1 Torbran, Thane of Red Fell
-1 Spikefield Hazard
-14 Mountain
-3 Rootbound Crag
-4 Rootbound Crag
 3 Den of the Bugbear
 4 Den of the Bugbear
+2 Roiling Vortex
+14 Mountain
 1 Crash Through
 1 Dreadhorde Arcanist
 2 Crash Through
 2 Dreadhorde Arcanist
+3 Rootbound Crag
 3 Dreadhorde Arcanist
+4 Rootbound Crag
 4 Dreadhorde Arcanist
 1 Roil Eruption
 3 Pillar of Flame
@@ -73,8 +72,8 @@
 3 Roiling Vortex
 4 Roiling Vortex
 16 Snow-Covered Mountain
+1 Spikefield Hazard
 15 Mountain
-2 Chandra, Torch of Defiance
 2 Roil Eruption
 2 Faceless Haven
 1 Experimental Frenzy
@@ -107,16 +106,21 @@
 4 Showdown of the Skalds
 4 Sacred Foundry
 4 Inspiring Vantage
-1 Glorybringer
-1 Robber of the Rich
-2 Robber of the Rich
-2 Glorybringer
-3 Robber of the Rich
-4 Robber of the Rich
+1 Electrostatic Field
+1 Reckless Ringleader
+1 Static Discharge
+2 Reckless Ringleader
+2 Electrostatic Field
+2 Static Discharge
+3 Static Discharge
+3 Reckless Ringleader
+4 Static Discharge
+4 Reckless Ringleader
 1 Castle Embereth
 1 Forgotten Cave
 1 Shatterskull Smashing
 2 Kari Zev, Skyship Raider
+2 Chandra, Torch of Defiance
 3 Chandra, Torch of Defiance
 4 Goblin Chainwhirler
 16 Mountain

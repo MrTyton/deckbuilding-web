@@ -1,4 +1,4 @@
-4 Elite Spellbinder
+3 Declaration in Stone
 4 Adanto Vanguard
 1 Dauntless Bodyguard
 2 Dauntless Bodyguard
@@ -12,38 +12,37 @@
 2 Thraben Inspector
 3 Thraben Inspector
 3 Loyal Warhound
+1 Mana Tithe
 1 Paladin Class
 2 Paladin Class
-1 Mana Tithe
 1 Cave of the Frost Dragon
-1 Plains
-2 Plains
+2 Cave of the Frost Dragon
 1 Blinkmoth Nexus
 2 Blinkmoth Nexus
+1 Plains
+2 Plains
 3 Plains
 4 Plains
 3 Blinkmoth Nexus
 4 Blinkmoth Nexus
-2 Cave of the Frost Dragon
-5 Plains
-6 Plains
 1 Stonecoil Serpent
-1 Vault Skirge
 1 Gingerbrute
 2 Stonecoil Serpent
-2 Vault Skirge
 2 Gingerbrute
 3 Stonecoil Serpent
 3 Gingerbrute
+5 Plains
+6 Plains
+1 Vault Skirge
+2 Vault Skirge
 3 Vault Skirge
 4 Vault Skirge
+4 Stonecoil Serpent
 1 Tempered Steel
 1 Court Homunculus
 2 Tempered Steel
 3 Tempered Steel
 4 Tempered Steel
-4 Stonecoil Serpent
-1 Portable Hole
 1 Steel Overseer
 2 Steel Overseer
 3 Steel Overseer
@@ -52,16 +51,19 @@
 2 Ornithopter
 3 Ornithopter
 4 Ornithopter
-4 Thraben Inspector
-7 Plains
+1 Portable Hole
 1 Ingenious Smith
-2 Portable Hole
 2 Ingenious Smith
 4 Steel Overseer
 1 Concealed Courtyard
 2 Concealed Courtyard
 3 Concealed Courtyard
 4 Concealed Courtyard
+7 Plains
+2 Portable Hole
+3 Ingenious Smith
+4 Ingenious Smith
+4 Thraben Inspector
 1 Inspiring Vantage
 1 Bomat Courier
 2 Inspiring Vantage
@@ -70,8 +72,11 @@
 3 Bomat Courier
 4 Inspiring Vantage
 4 Bomat Courier
-3 Ingenious Smith
-4 Ingenious Smith
+2 Mana Tithe
+1 All That Glitters
+2 All That Glitters
+3 All That Glitters
+4 All That Glitters
 2 Court Homunculus
 1 Maul of the Skyclaves
 8 Plains
@@ -80,47 +85,63 @@
 11 Plains
 12 Plains
 13 Plains
-1 All That Glitters
-2 All That Glitters
-3 All That Glitters
-4 All That Glitters
 3 Court Homunculus
 4 Court Homunculus
 1 Servo Exhibition
 2 Servo Exhibition
 3 Servo Exhibition
+1 Shadowspear
+1 Treasure Vault
+1 Hallowed Fountain
+1 The Blackstaff of Waterdeep
+2 The Blackstaff of Waterdeep
+2 Hallowed Fountain
+3 Hallowed Fountain
+4 Hallowed Fountain
 1 Scrapheap Scrounger
 2 Scrapheap Scrounger
 3 Scrapheap Scrounger
 4 Scrapheap Scrounger
 4 Loyal Warhound
+4 Legion's Landing
 1 Unbreakable Formation
 2 Unbreakable Formation
 3 Unbreakable Formation
 4 Unbreakable Formation
-1 Containment Priest
-1 Castle Ardenvale
-2 Mana Tithe
 14 Plains
 15 Plains
 16 Plains
-1 Shadowspear
-1 Treasure Vault
+1 Containment Priest
+1 Castle Ardenvale
+1 Hope of Ghirapur
+2 Hope of Ghirapur
 2 Treasure Vault
 1 Shefet Dunes
-1 Hallowed Fountain
+1 Spire of Industry
+2 Spire of Industry
+3 Spire of Industry
+4 Spire of Industry
 1 Island
 1 Hengegate Pathway
-1 The Blackstaff of Waterdeep
-2 The Blackstaff of Waterdeep
 2 Island
 2 Hengegate Pathway
-2 Hallowed Fountain
 3 Island
 3 Hengegate Pathway
-3 Hallowed Fountain
-4 Hallowed Fountain
 4 Hengegate Pathway
+1 Hive of the Eye Tyrant
+1 Glint-Sleeve Siphoner
+1 Godless Shrine
+1 Thoughtseize
+2 Thoughtseize
+2 Hive of the Eye Tyrant
+2 Godless Shrine
+2 Glint-Sleeve Siphoner
+3 Thoughtseize
+3 Godless Shrine
+3 Glint-Sleeve Siphoner
+4 Godless Shrine
+4 Glint-Sleeve Siphoner
+4 Thoughtseize
 4 Servo Exhibition
 1 Teferi's Protection
 1 Inventors' Fair
@@ -132,38 +153,33 @@
 1 Drannith Magistrate
 2 Containment Priest
 2 Maul of the Skyclaves
-2 Drannith Magistrate
 2 Rest in Peace
+2 Drannith Magistrate
 3 Reidane, God of the Worthy
-1 Hive of the Eye Tyrant
 1 Isolated Chapel
-1 Glint-Sleeve Siphoner
-1 Godless Shrine
-1 Thoughtseize
-1 Fatal Push
 1 Castle Locthwain
 1 Vanishing Verse
+1 Fatal Push
 1 Aether Hub
 1 Ghost Quarter
-2 Hive of the Eye Tyrant
-2 Thoughtseize
-2 Godless Shrine
-2 Glint-Sleeve Siphoner
-3 Thoughtseize
-3 Godless Shrine
-3 Glint-Sleeve Siphoner
 3 Paladin Class
 4 Paladin Class
-4 Godless Shrine
-4 Glint-Sleeve Siphoner
-4 Thoughtseize
 1 Emeria's Call
-1 Esper Sentinel
 1 Soul-Guide Lantern
+1 Esper Sentinel
 2 Emeria's Call
 2 Esper Sentinel
 3 Esper Sentinel
 4 Esper Sentinel
+1 Clarion Spirit
+1 Kabira Takedown
+2 Clarion Spirit
+2 Kabira Takedown
+3 Clarion Spirit
+3 Kabira Takedown
+4 Clarion Spirit
+4 Kabira Takedown
+4 Giant Killer
 1 Glacial Fortress
 1 Glass Casket
 1 Spell Pierce
@@ -179,26 +195,6 @@
 4 Portable Hole
 3 Skymarcher Aspirant
 4 Skymarcher Aspirant
-1 Clarion Spirit
-1 Kabira Takedown
-2 Clarion Spirit
-2 Kabira Takedown
-3 Clarion Spirit
-3 Kabira Takedown
-4 Legion's Landing
-4 Clarion Spirit
-4 Giant Killer
-4 Kabira Takedown
-1 Karametra's Blessing
-1 Hope of Ghirapur
-1 Built to Last
-2 Karametra's Blessing
-2 Hope of Ghirapur
-2 Built to Last
-3 Hope of Ghirapur
-3 Built to Last
-3 Karametra's Blessing
-4 Built to Last
 1 Needleverge Pathway
 1 Sacred Foundry
 1 Karn, Scion of Urza
@@ -217,18 +213,49 @@
 4 Needleverge Pathway
 4 Sacred Foundry
 4 Ramunap Ruins
-1 Spire of Industry
+1 Karametra's Blessing
+1 Built to Last
+2 Karametra's Blessing
+2 Built to Last
+3 Hope of Ghirapur
+3 Built to Last
+3 Karametra's Blessing
+4 Built to Last
 1 Skilled Animator
 1 Whirler Rogue
 2 Skilled Animator
 2 Shefet Dunes
-2 Spire of Industry
 2 Whirler Rogue
-3 Spire of Industry
 3 Skilled Animator
 3 Whirler Rogue
-4 Spire of Industry
 4 Whirler Rogue
+1 Swamp
+1 Inquisition of Kozilek
+1 Baneslayer Angel
+1 Brightclimb Pathway
+1 Knight of the Ebon Legion
+2 Inquisition of Kozilek
+2 Baneslayer Angel
+2 Brightclimb Pathway
+2 Swamp
+2 Knight of the Ebon Legion
+3 Hive of the Eye Tyrant
+3 Swamp
+3 Cave of the Frost Dragon
+3 Brightclimb Pathway
+3 Knight of the Ebon Legion
+4 Knight of the Ebon Legion
+4 Brightclimb Pathway
+1 You See a Guard Approach
+1 Snow-Covered Island
+1 Sparring Construct
+1 The Ozolith
+2 Snow-Covered Island
+2 Sparring Construct
+3 Sparring Construct
+3 Snow-Covered Island
+4 Snow-Covered Island
+5 Snow-Covered Island
 1 Legion Angel
 20 Snow-Covered Plains
 17 Plains

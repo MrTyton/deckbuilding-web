@@ -19,23 +19,23 @@
 2 Steam Vents
 3 Raugrin Triome
 3 Steam Vents
-2 Shark Typhoon
-4 Raugrin Triome
 1 Dovin's Veto
-4 Steam Vents
-2 Sulfur Falls
+2 Shark Typhoon
 3 Teferi, Hero of Dominaria
+4 Raugrin Triome
 4 Supreme Verdict
 4 Glacial Fortress
-3 Shark Typhoon
+4 Steam Vents
+2 Sulfur Falls
 2 Dovin's Veto
+3 Shark Typhoon
 4 Shark Typhoon
 3 Sulfur Falls
 1 Expressive Iteration
 2 Expressive Iteration
 4 Absorb
-1 Scorching Dragonfire
 1 Castle Vantress
+1 Scorching Dragonfire
 2 Scorching Dragonfire
 3 Scorching Dragonfire
 3 Expressive Iteration
@@ -50,8 +50,8 @@
 2 Rest in Peace
 1 Magma Spray
 2 Magma Spray
-3 Mutavault
 4 Dovin's Veto
+3 Mutavault
 1 Dig Through Time
 1 Narset, Parter of Veils
 1 Censor
@@ -59,15 +59,13 @@
 2 Castle Ardenvale
 3 Censor
 1 Behold the Multiverse
+2 Dig Through Time
 2 Sacred Foundry
+1 Azorius Charm
+4 Teferi, Hero of Dominaria
 1 Clifftop Retreat
 2 Clifftop Retreat
-2 Dig Through Time
-1 Azorius Charm
-1 Rewind
-4 Teferi, Hero of Dominaria
 2 Azorius Charm
-1 Mountain
 2 Narset, Parter of Veils
 3 Narset, Parter of Veils
 2 Island
@@ -76,28 +74,39 @@
 2 Opt
 3 Opt
 4 Opt
+1 Rewind
+1 Mountain
 1 Fabled Passage
 2 Fabled Passage
+1 Seal Away
 1 Chained to the Rocks
 2 Chained to the Rocks
 3 Chained to the Rocks
 1 Torrential Gearhulk
 1 Prismari Command
-1 Seal Away
+2 Plains
 3 The Blackstaff of Waterdeep
 4 Chained to the Rocks
 3 Dig Through Time
 2 Behold the Multiverse
 1 Cast Out
-2 Plains
-2 Needle Spires
-3 Sacred Foundry
-4 Censor
 4 Azorius Charm
-2 Torrential Gearhulk
 1 Field of Ruin
 1 Irrigated Farmland
 2 Irrigated Farmland
+2 Castle Vantress
+2 Field of Ruin
+3 Island
+4 Island
+5 Island
+3 Irrigated Farmland
+4 Irrigated Farmland
+2 Torrential Gearhulk
+4 Censor
+2 Needle Spires
+3 Sacred Foundry
+1 Blast Zone
+1 Detention Sphere
 1 Fire Prophecy
 1 Omen of the Sea
 1 Elspeth, Sun's Nemesis
@@ -106,8 +115,8 @@
 1 Valakut Awakening
 1 Sage of the Falls
 1 Omen of the Sun
-2 Fire Prophecy
 2 Elspeth, Sun's Nemesis
+2 Fire Prophecy
 2 Omen of the Sea
 2 Omen of the Sun
 2 Indomitable Creativity
@@ -121,15 +130,6 @@
 4 Omen of the Sun
 4 Fabled Passage
 4 Sacred Foundry
-2 Castle Vantress
-2 Field of Ruin
-3 Island
-4 Island
-5 Island
-3 Irrigated Farmland
-4 Irrigated Farmland
-1 Blast Zone
-1 Detention Sphere
 1 Magma Opus
 2 Magma Opus
 3 Magma Opus
@@ -163,6 +163,7 @@
 1 Snow-Covered Plains
 1 Toolcraft Exemplar
 2 Toolcraft Exemplar
+4 Portable Hole
 1 Cave of the Frost Dragon
 1 Mystical Dispute
 2 Prismari Command
@@ -180,7 +181,7 @@
 2 Bonecrusher Giant
 2 Sinister Sabotage
 3 Sinister Sabotage
-4 Portable Hole
+4 Ghostfire Blade
 1 Drowned Catacomb
 1 Kaya, Orzhov Usurper
 1 Isolated Chapel
@@ -188,12 +189,12 @@
 1 Fetid Pools
 1 Watery Grave
 1 Vanishing Verse
-2 Watery Grave
 2 Drowned Catacomb
 2 Isolated Chapel
 2 Heartless Act
 2 Kaya, Orzhov Usurper
 2 Vanishing Verse
+2 Watery Grave
 2 Fetid Pools
 3 Vanishing Verse
 3 Isolated Chapel
@@ -201,8 +202,8 @@
 3 Heartless Act
 3 Watery Grave
 4 Vanishing Verse
-4 Fetid Pools
 4 Isolated Chapel
+4 Fetid Pools
 4 Watery Grave
 1 Settle the Wreckage
 1 Chemister's Insight

@@ -19,19 +19,6 @@
 2 Ajani, Strength of the Pride
 1 The Book of Exalted Deeds
 4 Glasspool Mimic
-1 Trelasarra, Moon Dancer
-2 Trelasarra, Moon Dancer
-1 Emeria's Call
-1 Daxos, Blessed by the Sun
-2 Daxos, Blessed by the Sun
-2 Heliod, Sun-Crowned
-1 Settle the Wreckage
-11 Plains
-12 Plains
-13 Plains
-1 Shalai, Voice of Plenty
-1 Lyra Dawnbringer
-2 Settle the Wreckage
 1 Baffling End
 3 Glacial Fortress
 1 Fabled Passage
@@ -43,32 +30,62 @@
 1 Breeding Pool
 1 Snow-Covered Forest
 1 Nissa, Who Shakes the World
-1 Memory Lapse
-1 Into the North
-1 Hydroid Krasis
-1 Snow-Covered Island
 1 Yasharn, Implacable Earth
+1 Memory Lapse
+1 Rimewood Falls
+1 Into the North
+1 Snow-Covered Island
+1 Arctic Treeline
 1 Narset, Parter of Veils
 1 Shark Typhoon
-1 Arctic Treeline
-1 Rimewood Falls
+1 Hydroid Krasis
 2 Breeding Pool
+2 Rimewood Falls
 2 Nissa, Who Shakes the World
+2 Hydroid Krasis
 2 Snow-Covered Forest
 2 Memory Lapse
 2 Into the North
-2 Hydroid Krasis
 2 Shark Typhoon
-2 Rimewood Falls
 3 Breeding Pool
-3 Nissa, Who Shakes the World
 3 Into the North
 3 Rimewood Falls
 3 Shark Typhoon
+3 Nissa, Who Shakes the World
 4 Breeding Pool
+4 Shark Typhoon
 4 Into the North
 4 Nissa, Who Shakes the World
-4 Shark Typhoon
+1 Settle the Wreckage
+1 Trelasarra, Moon Dancer
+2 Trelasarra, Moon Dancer
+1 Into the Roil
+1 Commit/Memory
+1 Wrath of God
+2 Commit/Memory
+2 Yasharn, Implacable Earth
+2 Snow-Covered Island
+2 Narset, Parter of Veils
+3 Memory Lapse
+3 Narset, Parter of Veils
+4 Glacial Fortress
+4 Fabled Passage
+4 Memory Lapse
+1 Emeria's Call
+1 Daxos, Blessed by the Sun
+2 Daxos, Blessed by the Sun
+2 Heliod, Sun-Crowned
+1 Shalai, Voice of Plenty
+1 Lyra Dawnbringer
+11 Plains
+12 Plains
+13 Plains
+2 Settle the Wreckage
+1 Tamiyo, Collector of Tales
+2 Wrath of God
+2 Baffling End
+3 Wrath of God
+3 Baffling End
 3 Declaration in Stone
 2 Forest
 3 Forest
@@ -78,18 +95,6 @@
 3 Angel of Vitality
 4 Angel of Vitality
 4 Hengegate Pathway
-1 Commit/Memory
-1 Into the Roil
-1 Wrath of God
-2 Yasharn, Implacable Earth
-2 Commit/Memory
-2 Snow-Covered Island
-2 Narset, Parter of Veils
-3 Memory Lapse
-3 Narset, Parter of Veils
-4 Glacial Fortress
-4 Fabled Passage
-4 Memory Lapse
 1 Rest in Peace
 14 Plains
 1 Day of Judgment
@@ -108,11 +113,6 @@
 1 Dromoka's Command
 2 Reidane, God of the Worthy
 2 Dromoka's Command
-1 Tamiyo, Collector of Tales
-2 Wrath of God
-2 Baffling End
-3 Wrath of God
-3 Baffling End
 1 Abundant Harvest
 1 Seal Away
 2 Seal Away
@@ -128,17 +128,6 @@
 3 Settle the Wreckage
 3 Heliod, Sun-Crowned
 4 Castle Ardenvale
-1 Mana Tithe
-2 Mana Tithe
-2 Rest in Peace
-3 Mana Tithe
-4 Mana Tithe
-3 Trelasarra, Moon Dancer
-4 Trelasarra, Moon Dancer
-1 Selfless Savior
-2 Selfless Savior
-3 Selfless Savior
-4 Selfless Savior
 1 Godless Shrine
 1 Vito, Thorn of the Dusk Rose
 1 Brightclimb Pathway
@@ -150,33 +139,44 @@
 3 Vito, Thorn of the Dusk Rose
 3 Brightclimb Pathway
 4 Brightclimb Pathway
+1 Mana Tithe
+2 Mana Tithe
+2 Rest in Peace
+3 Mana Tithe
+4 Mana Tithe
+3 Trelasarra, Moon Dancer
+4 Trelasarra, Moon Dancer
+1 Selfless Savior
+2 Selfless Savior
+3 Selfless Savior
+4 Selfless Savior
 1 Remorseful Cleric
 2 Remorseful Cleric
 3 Remorseful Cleric
 4 Remorseful Cleric
-1 Swan Song
-2 Swan Song
-4 Linvala, Shield of Sea Gate
 1 Hinterland Harbor
-1 Explore
 1 Cultivate
+1 Explore
 1 Ugin, the Spirit Dragon
 2 Hinterland Harbor
 2 Explore
-2 Day of Judgment
 2 Cultivate
+2 Day of Judgment
 2 Ugin, the Spirit Dragon
 2 Arctic Treeline
 3 Explore
-3 Day of Judgment
-3 Hinterland Harbor
 3 Hydroid Krasis
 3 Arctic Treeline
+3 Hinterland Harbor
 3 Ugin, the Spirit Dragon
+3 Day of Judgment
 4 Explore
+4 Hinterland Harbor
 4 Hydroid Krasis
 4 Day of Judgment
-4 Hinterland Harbor
+1 Swan Song
+2 Swan Song
+4 Linvala, Shield of Sea Gate
 5 Forest
 1 Adanto Vanguard
 2 Adanto Vanguard

@@ -65,10 +65,6 @@
 1 Wheel of Misfortune
 2 Wheel of Misfortune
 3 Wheel of Misfortune
-1 Light Up the Stage
-2 Light Up the Stage
-3 Light Up the Stage
-4 Light Up the Stage
 1 Seal of Fire
 1 Flame Javelin
 2 Seal of Fire
@@ -100,16 +96,16 @@
 4 Badlands
 1 Bump in the Night
 1 Blood Crypt
-1 Street Wraith
 1 Fruit of Tizerus
 1 Scourge of the Skyclaves
+1 Street Wraith
 2 Bump in the Night
-2 Street Wraith
 2 Blood Crypt
 2 Scourge of the Skyclaves
+2 Street Wraith
 3 Bump in the Night
-3 Street Wraith
 3 Blood Crypt
+3 Street Wraith
 3 Scourge of the Skyclaves
 4 Bump in the Night
 4 Street Wraith
@@ -117,6 +113,10 @@
 2 Flame Rift
 3 Flame Rift
 4 Flame Rift
+1 Light Up the Stage
+2 Light Up the Stage
+3 Light Up the Stage
+4 Light Up the Stage
 11 Snow-Covered Mountain
 12 Snow-Covered Mountain
 13 Snow-Covered Mountain

@@ -46,8 +46,8 @@
 1 Bishop of Wings
 2 Bishop of Wings
 3 Bishop of Wings
-4 Bishop of Wings
 4 Resplendent Angel
+4 Bishop of Wings
 1 Righteous Valkyrie
 2 Righteous Valkyrie
 3 Righteous Valkyrie
@@ -116,9 +116,9 @@
 4 Ranger of Eos
 1 Selfless Savior
 1 Idyllic Grange
-1 Cubwarden
 1 Ixalan's Binding
 1 Twinblade Paladin
+1 Cubwarden
 2 Ixalan's Binding
 3 Shadowspear
 1 Dire Tactics
@@ -146,17 +146,17 @@
 2 Fight as One
 3 Selfless Savior
 4 Selfless Savior
-1 Erebos's Intervention
 1 Castle Locthwain
 1 Elspeth, Sun's Nemesis
 1 Linvala, Keeper of Silence
+1 Erebos's Intervention
 1 Oath of Kaya
 1 Angelic Ascension
 1 Scoured Barrens
 2 Elspeth, Sun's Nemesis
-2 Erebos's Intervention
 2 Castle Locthwain
 2 Temple of Silence
+2 Erebos's Intervention
 2 Scoured Barrens
 2 Oath of Kaya
 2 Linvala, Keeper of Silence
@@ -177,32 +177,6 @@
 1 Sacred Cat
 2 Sacred Cat
 4 Authority of the Consuls
-1 Containment Priest
-1 Elspeth Conquers Death
-1 Revitalize
-1 Wrath of God
-1 Secluded Steppe
-1 Mikaeus, the Lunarch
-1 Realm-Cloaked Giant
-1 God-Eternal Oketra
-2 Containment Priest
-2 Revitalize
-2 Wrath of God
-2 Luminous Broodmoth
-2 Realm-Cloaked Giant
-2 Secluded Steppe
-2 Basri Ket
-3 Containment Priest
-3 Luminous Broodmoth
-3 Secluded Steppe
-3 Revitalize
-3 Basri Ket
-4 Basri Ket
-4 Secluded Steppe
-1 Radiant Fountain
-2 Radiant Fountain
-17 Snow-Covered Plains
-18 Snow-Covered Plains
 1 Scurry Oak
 1 Trelasarra, Moon Dancer
 1 Prosperous Innkeeper
@@ -229,3 +203,29 @@
 4 Trelasarra, Moon Dancer
 4 Scurry Oak
 5 Forest
+1 Radiant Fountain
+2 Radiant Fountain
+17 Snow-Covered Plains
+18 Snow-Covered Plains
+1 Containment Priest
+1 Elspeth Conquers Death
+1 Wrath of God
+1 Revitalize
+1 Secluded Steppe
+1 Mikaeus, the Lunarch
+1 Realm-Cloaked Giant
+1 God-Eternal Oketra
+2 Containment Priest
+2 Revitalize
+2 Wrath of God
+2 Luminous Broodmoth
+2 Realm-Cloaked Giant
+2 Secluded Steppe
+2 Basri Ket
+3 Containment Priest
+3 Luminous Broodmoth
+3 Secluded Steppe
+3 Revitalize
+3 Basri Ket
+4 Basri Ket
+4 Secluded Steppe

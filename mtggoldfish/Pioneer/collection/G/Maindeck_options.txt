@@ -5,11 +5,11 @@
 1 Old-Growth Troll
 4 Steel Leaf Champion
 2 Old-Growth Troll
-1 Rhonas the Indomitable
 1 Werewolf Pack Leader
 2 Werewolf Pack Leader
 3 Werewolf Pack Leader
 4 Werewolf Pack Leader
+1 Rhonas the Indomitable
 3 Old-Growth Troll
 4 Old-Growth Troll
 2 Scavenging Ooze
@@ -18,20 +18,21 @@
 2 Collected Company
 3 Collected Company
 4 Collected Company
-1 The Great Henge
 1 Yorvo, Lord of Garenbrig
+1 The Great Henge
+2 Yorvo, Lord of Garenbrig
 1 Hashep Oasis
 14 Forest
 2 Hashep Oasis
-2 Yorvo, Lord of Garenbrig
 4 Nissa, Who Shakes the World
-2 The Great Henge
-1 Primal Might
-2 Primal Might
 1 Garruk's Harbinger
 2 Garruk's Harbinger
 3 Garruk's Harbinger
 4 Garruk's Harbinger
+1 Primal Might
+2 Primal Might
+2 The Great Henge
+3 Lair of the Hydra
 2 Rhonas the Indomitable
 1 Snow-Covered Forest
 2 Snow-Covered Forest
@@ -45,36 +46,29 @@
 10 Snow-Covered Forest
 11 Snow-Covered Forest
 12 Snow-Covered Forest
+4 Lair of the Hydra
 13 Snow-Covered Forest
 14 Snow-Covered Forest
 15 Snow-Covered Forest
-3 Lair of the Hydra
-3 Hashep Oasis
-3 The Great Henge
 1 Ghalta, Primal Hunger
-15 Forest
-4 Lair of the Hydra
+1 Aspect of Hydra
 16 Snow-Covered Forest
 2 Ghalta, Primal Hunger
+2 Aspect of Hydra
+3 Hashep Oasis
 1 Blizzard Brawl
 2 Blizzard Brawl
-1 Aspect of Hydra
 17 Snow-Covered Forest
 1 Surrak, the Hunt Caller
 2 Surrak, the Hunt Caller
-2 Aspect of Hydra
+3 The Great Henge
+15 Forest
 3 Blizzard Brawl
 1 Heart of Kiran
 3 Aspect of Hydra
 4 Aspect of Hydra
-3 Primal Might
-4 Primal Might
 4 Blizzard Brawl
 1 Wolfwillow Haven
-4 Ranger Class
-2 Wolfwillow Haven
-1 Barkhide Troll
-2 Barkhide Troll
 1 Breeding Pool
 1 Botanical Sanctum
 1 Barkchannel Pathway
@@ -87,19 +81,26 @@
 4 Botanical Sanctum
 4 Barkchannel Pathway
 4 Breeding Pool
+3 Primal Might
+4 Primal Might
+4 Ranger Class
+1 Stubborn Denial
+2 Stubborn Denial
+1 Barkhide Troll
+2 Barkhide Troll
+2 Wolfwillow Haven
+3 Stubborn Denial
 4 Llanowar Visionary
 3 Wolfwillow Haven
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 4 Karn, the Great Creator
-1 Stubborn Denial
-2 Stubborn Denial
 1 Jadelight Ranger
 2 Jadelight Ranger
 3 Jadelight Ranger
-1 Dragon Turtle
 1 Glasspool Mimic
+1 Dragon Turtle
 1 Brazen Borrower
 1 Entrancing Melody
 1 Silumgar's Scorn
@@ -135,7 +136,6 @@
 6 Island
 7 Island
 3 Scavenging Ooze
-3 Stubborn Denial
 4 Stubborn Denial
 4 Wolfwillow Haven
 18 Snow-Covered Forest
@@ -149,11 +149,11 @@
 3 Master of Waves
 3 Risen Reef
 4 Risen Reef
-1 Llanowar Wastes
 1 Blooming Marsh
+1 Llanowar Wastes
 1 Overgrown Tomb
-2 Llanowar Wastes
 2 Blooming Marsh
+2 Llanowar Wastes
 2 Overgrown Tomb
 3 Blooming Marsh
 3 Overgrown Tomb
@@ -200,23 +200,23 @@
 4 Overwhelmed Apprentice
 4 Wizard's Retort
 4 Sidisi's Faithful
-1 Harbinger of the Tides
 1 Leyline of Anticipation
 1 Iymrith, Desert Doom
 1 Ashiok's Erasure
 1 Castle Vantress
 1 Shark Typhoon
+1 Harbinger of the Tides
 2 Harbinger of the Tides
 2 Leyline of Anticipation
 2 Iymrith, Desert Doom
 2 Ashiok's Erasure
 3 Harbinger of the Tides
-3 Leyline of Anticipation
 3 Glasspool Mimic
+3 Leyline of Anticipation
 3 Ashiok's Erasure
 4 Harbinger of the Tides
-4 Leyline of Anticipation
 4 Glasspool Mimic
+4 Leyline of Anticipation
 4 Ashiok's Erasure
 11 Island
 12 Island
@@ -258,10 +258,6 @@
 3 Experiment One
 4 Pelt Collector
 4 Experiment One
-2 Questing Beast
-3 Questing Beast
-4 Questing Beast
-4 Scavenging Ooze
 4 The Great Henge
 3 Kazandu Mammoth
 4 Kazandu Mammoth
@@ -283,6 +279,7 @@
 1 Ghor-Clan Rampager
 1 Atarka's Command
 1 Gruul Spellbreaker
+1 Robber of the Rich
 1 Bonecrusher Giant
 1 Klothys, God of Destiny
 1 Game Trail
@@ -290,7 +287,6 @@
 1 Mountain
 1 Reckless Bushwhacker
 1 Stomping Ground
-1 Robber of the Rich
 1 Rootbound Crag
 2 Atarka's Command
 2 Bonecrusher Giant
@@ -314,6 +310,20 @@
 4 Bonecrusher Giant
 4 Reckless Bushwhacker
 4 Stomping Ground
+2 Questing Beast
+3 Questing Beast
+4 Scavenging Ooze
+4 Questing Beast
+1 Lovestruck Beast
+1 Garruk's Uprising
+2 Field of Ruin
+2 Lovestruck Beast
+2 Garruk's Uprising
+3 Lovestruck Beast
+4 Lovestruck Beast
+17 Forest
+18 Forest
+19 Forest
 1 Wildborn Preserver
 1 Unclaimed Territory
 1 Shaman of the Pack
@@ -340,13 +350,3 @@
 4 Wildborn Preserver
 4 Elvish Clancaller
 4 Shaman of the Pack
-1 Lovestruck Beast
-1 Garruk's Uprising
-2 Field of Ruin
-2 Lovestruck Beast
-2 Garruk's Uprising
-3 Lovestruck Beast
-4 Lovestruck Beast
-17 Forest
-18 Forest
-19 Forest
