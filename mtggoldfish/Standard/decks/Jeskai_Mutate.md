@@ -1,7 +1,7 @@
-# WUR
+# Jeskai Mutate
 
-#### [Export MTGO List](../collection/WUR/WUR.txt)
-#### [Export Arena List](../collection/WUR/WUR_arena.txt)
+#### [Export MTGO List](../collection/Jeskai%20Mutate/Jeskai%20Mutate.txt)
+#### [Export Arena List](../collection/Jeskai%20Mutate/Jeskai%20Mutate_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=2%09Cinderclasm%0A1%09Disdainful%20Stroke%0A1%09Essence%20Scatter%0A4%09Expressive%20Iteration%0A2%09Fire%20Prophecy%0A4%09Goldspan%20Dragon%0A4%09Hengegate%20Pathway%0A1%09Into%20the%20Roil%0A3%09Island%0A4%09Lore%20Drakkis%0A2%09Mountain%0A1%09Mystical%20Dispute%0A4%09Needleverge%20Pathway%0A1%09Negate%0A3%09Prismari%20Command%0A4%09Raugrin%20Triome%0A4%09Riverglide%20Pathway%0A3%09Seize%20the%20Spoils%0A1%09Sejiri%20Shelter%0A4%09Spikefield%20Hazard%0A3%09Unsubstantiate%0A4%09Vadrok,%20Apex%20of%20Thunder&deckside=1%09Burning%20Hands%0A1%09Cinderclasm%0A3%09Cubwarden%0A4%09Mazemind%20Tome%0A2%09Phoenix%20of%20Ash%0A1%09Redcap%20Melee%0A2%09Saw%20It%20Coming%0A1%09Test%20of%20Talents)
 # Maindeck
 
