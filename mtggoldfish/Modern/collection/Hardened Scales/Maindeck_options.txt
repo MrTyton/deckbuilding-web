@@ -1,6 +1,5 @@
-3 Ingenious Smith
 1 Goblin Bombardment
-4 Arcbound Worker
+3 Llanowar Reborn
 1 Plains
 1 Branchloft Pathway
 4 Ingenious Smith
@@ -11,17 +10,18 @@
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
-3 Forest
 1 Razorverge Thicket
 2 Brushland
 2 Razorverge Thicket
 3 Brushland
 4 Brushland
 4 Branchloft Pathway
+3 Forest
+4 Arcbound Worker
 2 Plains
 4 Llanowar Reborn
-4 Ancient Stirrings
 1 Spire of Industry
+4 Ancient Stirrings
 1 Temple Garden
 1 Windswept Heath
 2 Windswept Heath
@@ -49,8 +49,8 @@
 1 Swamp
 1 Blood Crypt
 1 Verdant Catacombs
-1 Overgrown Tomb
 1 Blooming Marsh
+1 Overgrown Tomb
 1 Fatal Push
 1 Thoughtseize
 2 Verdant Catacombs
@@ -58,13 +58,13 @@
 2 Fatal Push
 2 Blooming Marsh
 2 Thoughtseize
-3 Verdant Catacombs
 3 Fatal Push
+3 Verdant Catacombs
 3 Thoughtseize
 3 Overgrown Tomb
 3 Blooming Marsh
-4 Verdant Catacombs
 4 Fatal Push
+4 Verdant Catacombs
 4 Overgrown Tomb
 4 Thoughtseize
 1 Horizon Canopy
@@ -75,22 +75,26 @@
 1 Stomping Ground
 2 Wooded Foothills
 3 Wooded Foothills
-1 Power Conduit
-1 Power Depot
 1 Pithing Needle
+1 Power Depot
+2 Power Depot
 1 Vines of Vastwood
 2 Horizon Canopy
 3 Arcbound Mouser
+1 Karplusan Forest
+2 Karplusan Forest
+3 Karplusan Forest
+4 Forest
+1 Power Conduit
 3 Razorverge Thicket
 4 Esper Sentinel
 4 Razorverge Thicket
-1 Spellskite
 1 Yavimaya, Cradle of Growth
+1 Spellskite
 1 Phyrexia's Core
 1 Darksteel Citadel
 2 Spellskite
 2 Darksteel Citadel
 2 Throne of Geth
-2 Power Depot
 3 Darksteel Citadel
 4 Darksteel Citadel

@@ -1,19 +1,19 @@
-2 Cauldron Familiar
+3 Emry, Lurker of the Loch
+1 Watery Grave
 1 Misty Rainforest
-1 Steam Vents
-2 Scalding Tarn
-3 Scalding Tarn
 1 Flooded Strand
-2 Overgrown Tomb
-1 Hallowed Fountain
-2 Flooded Strand
-3 Flooded Strand
+1 Scalding Tarn
 1 Polluted Delta
 2 Polluted Delta
 3 Polluted Delta
+1 Hallowed Fountain
+2 Flooded Strand
+3 Flooded Strand
 4 Thought Monitor
+1 Steam Vents
+2 Scalding Tarn
+3 Scalding Tarn
 3 Cauldron Familiar
-2 Blooming Marsh
 1 Pithing Needle
 4 Finale of Devastation
 1 Fatal Push
@@ -25,73 +25,81 @@
 2 Forest
 4 Flooded Strand
 1 Bloodstained Mire
-1 Mountain
+4 Verdant Catacombs
+1 Urborg, Tomb of Yawgmoth
 2 Fatal Push
 1 Marsh Flats
-1 Sacred Foundry
-3 Prismatic Ending
-1 Spirebluff Canal
-2 Spirebluff Canal
-4 Scalding Tarn
-1 Nihil Spellbomb
+3 Overgrown Tomb
 3 Trail of Crumbs
 3 Blooming Marsh
 4 Blooming Marsh
-4 Verdant Catacombs
+1 Sacred Foundry
+3 Prismatic Ending
+1 Nihil Spellbomb
 1 Breeding Pool
 4 Misty Rainforest
-1 Blood Crypt
+1 Mountain
 1 Bone Shards
-1 Urborg, Tomb of Yawgmoth
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
+2 Swamp
 1 Wooded Foothills
 2 Wooded Foothills
 3 Wooded Foothills
-3 Overgrown Tomb
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
+2 Bloodstained Mire
 2 Marsh Flats
+1 Blood Crypt
+1 Spirebluff Canal
+2 Spirebluff Canal
+4 Scalding Tarn
 1 Godless Shrine
 1 Stomping Ground
 1 Nettlecyst
 1 Darkslick Shores
+1 Stitcher's Supplier
+2 Stitcher's Supplier
+3 Stitcher's Supplier
+4 Stitcher's Supplier
 1 Nurturing Peatland
-2 Swamp
 4 Ragavan, Nimble Pilferer
-2 Bloodstained Mire
 1 Wrenn and Six
 2 Wrenn and Six
-1 Lightning Bolt
-2 Lightning Bolt
-3 Lightning Bolt
-4 Lightning Bolt
-1 Botanical Sanctum
 1 Soul-Guide Lantern
+1 Botanical Sanctum
 2 Breeding Pool
 2 Botanical Sanctum
+1 Barren Moor
+1 Lotleth Troll
+1 Gravecrawler
+1 Vengevine
+1 Carrion Feeder
+2 Urborg, Tomb of Yawgmoth
+2 Carrion Feeder
+2 Vengevine
+2 Gravecrawler
+2 Lotleth Troll
+3 Vengevine
+3 Lotleth Troll
+3 Gravecrawler
+4 Lotleth Troll
+4 Vengevine
 1 Feasting Troll King
 2 Feasting Troll King
 3 Feasting Troll King
 1 Temple Garden
 1 Windswept Heath
 2 Nettlecyst
-1 Tranquil Thicket
-1 Expressive Iteration
-2 Expressive Iteration
-3 Expressive Iteration
-3 Spirebluff Canal
-4 Spirebluff Canal
 4 Prismatic Ending
 4 Polluted Delta
-1 Stitcher's Supplier
-2 Stitcher's Supplier
-3 Stitcher's Supplier
-4 Stitcher's Supplier
+1 Tranquil Thicket
 3 Island
-1 Metallic Rebuke
-2 Metallic Rebuke
 2 Darkslick Shores
 3 Wrenn and Six
+1 Lightning Bolt
+2 Lightning Bolt
+3 Lightning Bolt
+4 Lightning Bolt
 1 Copperline Gorge
 2 Copperline Gorge
 3 Copperline Gorge
@@ -110,20 +118,26 @@
 3 Bloodstained Mire
 4 Emry, Lurker of the Loch
 1 Arid Mesa
-1 Thraben Inspector
 1 Giver of Runes
 1 Concealed Courtyard
+1 Thraben Inspector
 2 Arid Mesa
-2 Thraben Inspector
 2 Plains
 2 Concealed Courtyard
+2 Thraben Inspector
 2 Godless Shrine
 3 Concealed Courtyard
 3 Marsh Flats
 4 Concealed Courtyard
 4 Esper Sentinel
 4 Marsh Flats
+1 Power Conduit
+1 Expressive Iteration
+2 Expressive Iteration
+3 Expressive Iteration
+3 Spirebluff Canal
 4 Expressive Iteration
+4 Spirebluff Canal
 1 Teferi, Time Raveler
 1 Kaya, Orzhov Usurper
 2 Kaya, Orzhov Usurper
@@ -148,25 +162,12 @@
 4 Bloodstained Mire
 4 Bloodghast
 4 Mayhem Devil
+1 Metallic Rebuke
 2 Watery Grave
+2 Metallic Rebuke
 3 Darkslick Shores
 4 Darkslick Shores
-1 Barren Moor
-1 Lotleth Troll
-1 Gravecrawler
-1 Vengevine
-1 Carrion Feeder
-2 Urborg, Tomb of Yawgmoth
-2 Carrion Feeder
-2 Vengevine
-2 Gravecrawler
-2 Lotleth Troll
-3 Vengevine
-3 Lotleth Troll
-3 Gravecrawler
 3 Swamp
-4 Lotleth Troll
-4 Vengevine
 1 Ketria Triome
 1 Galvanic Blast
 2 Galvanic Blast
@@ -181,28 +182,25 @@
 3 Tarmogoyf
 4 Copperline Gorge
 4 Tarmogoyf
-1 Dragon's Rage Channeler
-2 Dragon's Rage Channeler
-3 Dragon's Rage Channeler
-4 Dragon's Rage Channeler
-1 Power Conduit
 1 Engineered Explosives
 1 Mox Amber
 1 Seachrome Coast
 2 Seachrome Coast
-1 Unholy Heat
-1 Traverse the Ulvenwald
-1 Pyrite Spellbomb
-2 Traverse the Ulvenwald
 2 Nurturing Peatland
-2 Steam Vents
-2 Mountain
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
 3 Nettlecyst
-3 Fatal Push
 3 Watery Grave
+3 Fatal Push
+1 Dragon's Rage Channeler
+1 Unholy Heat
+1 Traverse the Ulvenwald
+1 Pyrite Spellbomb
+2 Dragon's Rage Channeler
+2 Traverse the Ulvenwald
+3 Dragon's Rage Channeler
+4 Dragon's Rage Channeler
 1 Cavern of Souls
 1 Gut Shot
 1 Talisman of Progress

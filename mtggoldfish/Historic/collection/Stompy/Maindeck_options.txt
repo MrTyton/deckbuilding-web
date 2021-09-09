@@ -1,8 +1,10 @@
+3 Forest
+4 Forest
 5 Forest
-3 Barkhide Troll
 1 Primal Might
 6 Forest
 2 Primal Might
+1 The Great Henge
 1 Garruk's Harbinger
 2 Garruk's Harbinger
 1 Botanical Sanctum
@@ -25,33 +27,31 @@
 3 Decisive Denial
 4 Botanical Sanctum
 4 Decisive Denial
-20 Snow-Covered Forest
 3 Lair of the Hydra
 4 Lair of the Hydra
-1 The Great Henge
 1 Vivien, Arkbow Ranger
 2 Vivien, Arkbow Ranger
 4 Barkhide Troll
 4 Scavenging Ooze
-2 Hashep Oasis
 1 Kazandu Mammoth
-9 Forest
-3 Ranger Class
-3 Blizzard Brawl
+1 Faceless Haven
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 Lovestruck Beast
 1 Snakeskin Veil
-1 Faceless Haven
-4 Blizzard Brawl
+3 Ranger Class
+3 Blizzard Brawl
+9 Forest
+2 Faceless Haven
 2 The Great Henge
 4 Lovestruck Beast
-2 Faceless Haven
+2 Hashep Oasis
+4 Blizzard Brawl
 2 Kazandu Mammoth
+2 Snakeskin Veil
 3 Faceless Haven
 4 Ranger Class
 1 Questing Beast
-2 Snakeskin Veil
 1 Blooming Marsh
 1 Overgrown Tomb
 1 Darkbore Pathway
@@ -67,8 +67,11 @@
 4 Darkbore Pathway
 4 Rotting Regisaur
 4 Overgrown Tomb
+1 Castle Garenbrig
+2 Castle Garenbrig
 21 Snow-Covered Forest
 22 Snow-Covered Forest
+1 Yorvo, Lord of Garenbrig
 1 Gemrazer
 1 Stonecoil Serpent
 2 Stonecoil Serpent
@@ -76,9 +79,6 @@
 2 Questing Beast
 1 Woodland Cemetery
 10 Forest
-1 Castle Garenbrig
-2 Castle Garenbrig
-1 Yorvo, Lord of Garenbrig
 1 Asylum Visitor
 2 Woodland Cemetery
 2 Asylum Visitor
@@ -86,17 +86,20 @@
 3 Stonecoil Serpent
 1 Wildborn Preserver
 3 Primal Might
-4 Blooming Marsh
+4 Primal Might
+1 Kraul Harpooner
+2 Kraul Harpooner
 3 Hashep Oasis
 4 Hashep Oasis
+4 Blooming Marsh
+3 Kazandu Mammoth
+4 Kazandu Mammoth
 2 Wildborn Preserver
-1 Kraul Harpooner
 1 Scrapheap Scrounger
 1 Midnight Reaper
 1 Abundant Harvest
 1 Shadowspear
 2 Abundant Harvest
-2 Kraul Harpooner
 2 Scrapheap Scrounger
 1 Carnage Tyrant
 1 Verdurous Gearhulk
@@ -113,12 +116,15 @@
 1 Nessian Hornbeetle
 2 Nessian Hornbeetle
 3 Nessian Hornbeetle
+1 Ghalta, Primal Hunger
+2 Yorvo, Lord of Garenbrig
+2 Ghalta, Primal Hunger
+3 Yorvo, Lord of Garenbrig
+3 Rhonas the Indomitable
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
-3 Kazandu Mammoth
 4 Thoughtseize
-4 Kazandu Mammoth
 1 Temple Garden
 1 Branchloft Pathway
 1 Vivien, Monsters' Advocate
@@ -135,7 +141,28 @@
 4 Branchloft Pathway
 4 Temple Garden
 4 Gilded Goose
-4 Primal Might
+1 Sheltered Thicket
+1 Rootbound Crag
+1 Gruul Spellbreaker
+1 Bonecrusher Giant
+1 Cragcrown Pathway
+1 Stomping Ground
+2 Sheltered Thicket
+2 Rootbound Crag
+2 Gruul Spellbreaker
+2 Bonecrusher Giant
+2 Stomping Ground
+2 Cragcrown Pathway
+3 Stomping Ground
+3 Rootbound Crag
+3 Gruul Spellbreaker
+3 Bonecrusher Giant
+3 Cragcrown Pathway
+4 Stomping Ground
+4 Rootbound Crag
+4 Bonecrusher Giant
+4 Cragcrown Pathway
+4 Gruul Spellbreaker
 11 Forest
 12 Forest
 13 Forest

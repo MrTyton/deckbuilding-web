@@ -7,8 +7,8 @@
 2 Cling to Dust
 1 Deafening Clarion
 2 Binding the Old Gods
-1 The World Tree
 1 Blood Crypt
+1 The World Tree
 1 Kolaghan's Command
 2 Drowned Catacomb
 1 Clifftop Retreat
@@ -19,26 +19,19 @@
 1 Hallowed Fountain
 1 Forest
 1 Plains
-1 Temple Garden
 1 Steam Vents
+1 Temple Garden
 1 Godless Shrine
 1 Kunoros, Hound of Athreos
-1 Drizzt Do'Urden
 1 Yasharn, Implacable Earth
+1 Drizzt Do'Urden
 2 Yasharn, Implacable Earth
 2 Deafening Clarion
-1 Culling Ritual
 1 Kaya the Inexorable
 1 Kaya, Orzhov Usurper
+1 Culling Ritual
 1 Faceless Agent
 2 The World Tree
-1 Isolated Chapel
-1 Sulfur Falls
-1 Kaalia, Zenith Seeker
-2 Klothys, God of Destiny
-2 Kaalia, Zenith Seeker
-3 Savai Triome
-3 Binding the Old Gods
 1 Woodland Cemetery
 1 Prismari Command
 1 Tyrant's Scorn
@@ -47,6 +40,13 @@
 2 Prismari Command
 2 Magma Opus
 3 Magma Opus
+1 Isolated Chapel
+1 Sulfur Falls
+1 Kaalia, Zenith Seeker
+2 Klothys, God of Destiny
+2 Kaalia, Zenith Seeker
+3 Savai Triome
+3 Binding the Old Gods
 1 Mortify
 1 Fabled Passage
 1 Maelstrom Pulse
@@ -56,10 +56,10 @@
 1 Mountain
 2 Fabled Passage
 2 Maelstrom Pulse
-2 Hydroid Krasis
 2 Mortify
 2 Knight of Autumn
 2 Forest
+2 Hydroid Krasis
 2 Island
 2 Swamp
 3 Knight of Autumn

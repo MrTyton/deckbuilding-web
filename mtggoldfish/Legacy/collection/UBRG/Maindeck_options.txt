@@ -11,6 +11,15 @@
 1 Volcanic Island
 3 Scalding Tarn
 4 Scalding Tarn
+4 Street Wraith
+1 Asylum Visitor
+1 Snow-Covered Swamp
+2 Asylum Visitor
+1 Careful Study
+2 Careful Study
+3 Careful Study
+4 Careful Study
+1 Snow-Covered Island
 2 Volcanic Island
 3 Volcanic Island
 1 Brainstorm
@@ -20,41 +29,29 @@
 1 Misty Rainforest
 2 Ponder
 2 Force of Will
-2 Lightning Bolt
 2 Brainstorm
+2 Lightning Bolt
 3 Lightning Bolt
 3 Force of Will
 3 Brainstorm
 3 Ponder
+4 Force of Will
 4 Lightning Bolt
 4 Ponder
-4 Force of Will
 4 Brainstorm
-1 Snow-Covered Island
-4 Street Wraith
-1 Asylum Visitor
-1 Snow-Covered Swamp
-2 Asylum Visitor
-1 Careful Study
-2 Careful Study
-3 Careful Study
-4 Careful Study
+1 Fiery Islet
 1 Force of Negation
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
-1 Fiery Islet
 3 Ragavan, Nimble Pilferer
-1 Polluted Delta
-1 Flooded Strand
 3 Gamble
 1 Fiery Temper
 2 Fiery Temper
 3 Fiery Temper
 4 Fiery Temper
-2 Misty Rainforest
-1 Tropical Island
-2 Tropical Island
+1 Polluted Delta
 4 Ragavan, Nimble Pilferer
+1 Flooded Strand
 1 Expressive Iteration
 2 Expressive Iteration
 4 Volcanic Island
@@ -65,12 +62,14 @@
 2 Grindstone
 3 Painter's Servant
 4 Painter's Servant
-3 Expressive Iteration
+2 Misty Rainforest
 2 Force of Negation
-1 Daze
+1 Tropical Island
+2 Tropical Island
 1 Aether Spellbomb
 1 Urza's Saga
 2 Urza's Saga
+3 Expressive Iteration
 3 Urza's Saga
 4 Expressive Iteration
 4 Urza's Saga
@@ -78,27 +77,27 @@
 1 Red Elemental Blast
 2 Pyroblast
 1 Bayou
+1 Daze
 1 Island
 2 Island
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 4 Misty Rainforest
 1 Jace, the Mind Sculptor
-2 Polluted Delta
-2 Daze
 4 Wooded Foothills
 1 Leovold, Emissary of Trest
 1 Sylvan Library
 1 Assassin's Trophy
+1 Drown in the Loch
 1 Baleful Strix
 1 Underground Sea
-1 Drown in the Loch
-2 Sylvan Library
 2 Assassin's Trophy
-2 Leovold, Emissary of Trest
+2 Sylvan Library
 2 Baleful Strix
-2 Drown in the Loch
 2 Underground Sea
+2 Drown in the Loch
+2 Polluted Delta
+2 Leovold, Emissary of Trest
 3 Polluted Delta
 3 Baleful Strix
 4 Polluted Delta
@@ -111,11 +110,10 @@
 2 Kitchen Imp
 3 Kitchen Imp
 4 Kitchen Imp
+2 Daze
 3 Uro, Titan of Nature's Wrath
 2 Snow-Covered Island
 1 Retrofitter Foundry
-3 Tropical Island
-3 Daze
 1 Ethereal Forager
 1 Hullbreacher
 2 Ethereal Forager
@@ -124,47 +122,44 @@
 5 Island
 1 Dress Down
 2 Dress Down
-1 Dragon's Rage Channeler
-2 Flooded Strand
-2 Dragon's Rage Channeler
-3 Dragon's Rage Channeler
-4 Dragon's Rage Channeler
 1 Liliana, the Last Hope
 2 Fiery Islet
 1 Snapcaster Mage
-2 Snapcaster Mage
 2 Red Elemental Blast
+2 Snapcaster Mage
+1 Fire/Ice
+1 Spell Pierce
+1 Forsaken City
+1 Ral Zarek
+1 Stasis
+2 Ral Zarek
+2 Retrofitter Foundry
+2 Hullbreacher
+2 Stasis
+3 Daze
+3 Stasis
+3 Ral Zarek
 1 Cephalid Coliseum
 1 Breakthrough
 1 Bazaar Trademage
 2 Breakthrough
 2 Cephalid Coliseum
+3 Tropical Island
 3 Cephalid Coliseum
-1 Spell Pierce
-1 Fire/Ice
-1 Ral Zarek
-1 Stasis
-1 Forsaken City
-2 Ral Zarek
-2 Retrofitter Foundry
-2 Hullbreacher
-2 Stasis
-3 Ral Zarek
-3 Stasis
 1 Prismatic Vista
 1 Engineered Explosives
 1 Narset, Parter of Veils
 1 Snow-Covered Forest
 1 Ice-Fang Coatl
-2 Narset, Parter of Veils
 2 Prismatic Vista
 2 Engineered Explosives
+2 Narset, Parter of Veils
 2 Ice-Fang Coatl
 2 Snow-Covered Forest
-3 Narset, Parter of Veils
 3 Grindstone
 3 Ice-Fang Coatl
 3 Snow-Covered Island
+3 Narset, Parter of Veils
 4 Narset, Parter of Veils
 4 Arid Mesa
 3 Assassin's Trophy
@@ -184,39 +179,26 @@
 2 Verdant Catacombs
 3 Verdant Catacombs
 4 Verdant Catacombs
-1 Nimble Mongoose
-1 Hooting Mandrills
-1 Wasteland
-1 Stifle
-1 Hexdrinker
-1 Chain Lightning
-2 Nimble Mongoose
-2 Hexdrinker
-2 Hooting Mandrills
-2 Stifle
-2 Chain Lightning
-2 Wasteland
-3 Nimble Mongoose
-3 Wasteland
-3 Stifle
-4 Nimble Mongoose
-4 Daze
-4 Wasteland
-1 Counterspell
+1 Dragon's Rage Channeler
 1 Dead/Gone
 1 Brazen Borrower
 1 Murktide Regent
 1 Blood Moon
+1 Counterspell
 1 Dack Fayden
-2 Counterspell
+2 Flooded Strand
+2 Dragon's Rage Channeler
 2 Dead/Gone
 2 Murktide Regent
 2 Blood Moon
 2 Brazen Borrower
+2 Counterspell
 2 Dack Fayden
 3 Flooded Strand
 3 Murktide Regent
+3 Dragon's Rage Channeler
 3 Dack Fayden
+4 Dragon's Rage Channeler
 6 Island
 7 Island
 1 Steam Vents

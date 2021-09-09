@@ -4,13 +4,13 @@
 3 Teferi, Time Raveler
 3 Leyline of the Void
 4 Leyline of the Void
+3 Force of Vigor
 3 Leyline of Sanctity
 1 Endurance
 1 Yorion, Sky Nomad
 4 Teferi, Time Raveler
 1 Veil of Summer
 2 Veil of Summer
-3 Force of Vigor
 1 Rest in Peace
 2 Rest in Peace
 1 Path to Exile
@@ -21,6 +21,8 @@
 2 Chalice of the Void
 2 Lightning Bolt
 1 Detention Sphere
+4 Force of Vigor
+2 Endurance
 2 Path to Exile
 1 Jegantha, the Wellspring
 3 Rest in Peace
@@ -47,18 +49,16 @@
 3 Rough/Tumble
 4 Consign/Oblivion
 4 Rough/Tumble
-1 Lavinia, Azorius Renegade
 4 Fury
+1 Lavinia, Azorius Renegade
 2 Blood Moon
-4 Force of Vigor
 1 Eternal Witness
 2 Prismatic Ending
-2 Endurance
+1 Alpine Moon
 3 Lightning Bolt
+3 Veil of Summer
 1 Obsidian Charmaw
 2 Obsidian Charmaw
-3 Veil of Summer
-1 Alpine Moon
 3 Foundation Breaker
 1 Vindicate
 1 Stony Silence
@@ -68,29 +68,35 @@
 2 Cursed Totem
 3 Cursed Totem
 3 Chalice of the Void
+2 Alpine Moon
 1 Cleansing Wildfire
 2 Cleansing Wildfire
 3 Cleansing Wildfire
 4 Cleansing Wildfire
-2 Alpine Moon
 2 Stony Silence
 2 Lavinia, Azorius Renegade
+3 Endurance
+1 Meddling Mage
 1 Ingot Chewer
 3 Prismatic Ending
-1 Meddling Mage
+1 Back to Nature
 1 Collector Ouphe
 2 Meddling Mage
 3 Meddling Mage
 2 Collector Ouphe
+1 Engineered Explosives
 2 Detention Sphere
 2 Ingot Chewer
 3 Ingot Chewer
-1 Back to Nature
 2 Kataki, War's Wage
 4 Leyline of Sanctity
+1 Damping Sphere
+1 Auriok Champion
+2 Auriok Champion
 1 Blast Zone
 1 Unholy Heat
 3 Cindervines
+3 Alpine Moon
 1 Assassin's Trophy
 1 Force of Negation
 2 Force of Negation
@@ -99,15 +105,15 @@
 1 Klothys, God of Destiny
 1 Bonecrusher Giant
 1 Keruga, the Macrosage
-3 Alpine Moon
+2 Damping Sphere
 4 Chalice of the Void
 4 Ingot Chewer
 1 Avalanche Riders
 3 Obsidian Charmaw
 1 Burrenton Forge-Tender
 1 Selfless Spirit
-1 Scavenging Ooze
 1 Archangel Avacyn
+1 Scavenging Ooze
 1 Linvala, Keeper of Silence
 4 Prismatic Ending
 1 Celestial Purge
@@ -116,16 +122,20 @@
 2 Unholy Heat
 1 Kor Firewalker
 2 Kor Firewalker
-3 Endurance
+1 Skyclave Apparition
 1 Akroma, Angel of Fury
 2 Akroma, Angel of Fury
 1 Flusterstorm
-1 Skyclave Apparition
 1 Natural State
 1 Weather the Storm
 2 Weather the Storm
 1 Soul-Guide Lantern
+1 Kozilek, Butcher of Truth
+1 Wear/Tear
+2 Wear/Tear
 1 Ashiok, Dream Render
+1 Sanctifier en-Vec
+2 Sanctifier en-Vec
 1 Stubborn Denial
 2 Stubborn Denial
 3 Stubborn Denial
@@ -138,53 +148,54 @@
 1 Iona, Shield of Emeria
 1 Tormod's Crypt
 1 Mistcaller
-1 Kozilek, Butcher of Truth
 1 Ulamog, the Infinite Gyre
 1 Phyrexian Revoker
 1 Mantis Rider
 1 Anafenza, the Foremost
-1 Chancellor of the Forge
 1 Declaration in Stone
 1 Dusk/Dawn
+1 Chancellor of the Forge
 1 Crumble to Dust
 1 Birds of Paradise
 1 Seasoned Pyromancer
-1 Engineered Explosives
 1 Abrade
 2 Engineered Explosives
 1 Thalia, Guardian of Thraben
-1 Sanctifier en-Vec
 1 Knight of Autumn
 1 Torpor Orb
 1 Deafening Silence
-2 Sanctifier en-Vec
 2 Knight of Autumn
+1 Sword of Fire and Ice
+2 Drannith Magistrate
 1 Fatal Push
 1 Dromoka's Command
 2 Fatal Push
 2 Dromoka's Command
-1 Sword of Fire and Ice
-2 Drannith Magistrate
-1 Kolaghan's Command
-1 Relic of Progenitus
-1 Abrupt Decay
-1 Wheel of Sun and Moon
-2 Abrupt Decay
-2 Relic of Progenitus
-2 Ashiok, Dream Render
 1 Dead/Gone
 2 Dead/Gone
 1 Nihil Spellbomb
 2 Nihil Spellbomb
+1 Kolaghan's Command
+1 Abrupt Decay
+1 Relic of Progenitus
+1 Wheel of Sun and Moon
+2 Abrupt Decay
+2 Relic of Progenitus
+2 Ashiok, Dream Render
 2 Assassin's Trophy
+1 Void Mirror
+1 Consulate Crackdown
+2 Consulate Crackdown
 2 Jegantha, the Wellspring
 1 Sanctum Prelate
 1 Qasali Pridemage
 2 Sanctum Prelate
 3 Sanctum Prelate
-1 Wear/Tear
-2 Wear/Tear
 3 Wear/Tear
+1 Showdown of the Skalds
+1 Dovin's Veto
+2 Dovin's Veto
+3 Sanctifier en-Vec
 3 Stony Silence
 1 Bedeck/Bedazzle
 1 Rags/Riches
@@ -193,6 +204,11 @@
 2 Bedeck/Bedazzle
 3 Bedeck/Bedazzle
 3 Gaddock Teeg
+1 Deafening Clarion
+1 Anathemancer
+2 Deafening Clarion
+2 Anathemancer
+3 Anathemancer
 1 Surgical Extraction
 1 Pillar of Flame
 1 Ranger of Eos
@@ -200,11 +216,6 @@
 2 Pillar of Flame
 3 Kor Firewalker
 3 Pillar of Flame
-1 Deafening Clarion
-1 Anathemancer
-2 Deafening Clarion
-2 Anathemancer
-3 Anathemancer
 4 Lightning Bolt
 1 Tidehollow Sculler
 2 Tidehollow Sculler

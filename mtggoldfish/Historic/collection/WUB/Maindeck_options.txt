@@ -1,74 +1,41 @@
-3 Watery Grave
-4 Fatal Push
-4 Neutralize
-4 Thoughtseize
-4 Watery Grave
-4 Shark Typhoon
-5 Island
-1 Behold the Multiverse
-2 Behold the Multiverse
-4 Plains
-2 Dovin's Veto
-1 Hengegate Pathway
-1 Temple of Enlightenment
-1 Saw It Coming
-2 Saw It Coming
-5 Plains
-6 Plains
-6 Island
-7 Island
-1 Castle Ardenvale
-1 Omen of the Sea
-1 Shatter the Sky
-1 Approach of the Second Sun
-2 Search for Azcanta
-2 Omen of the Sea
-2 Hengegate Pathway
-2 Temple of Enlightenment
-2 Shatter the Sky
-2 Approach of the Second Sun
-3 Temple of Enlightenment
-3 Behold the Multiverse
-3 Omen of the Sea
-3 Hengegate Pathway
-3 Saw It Coming
-3 Shatter the Sky
-4 Omen of the Sea
-7 Plains
-8 Island
-9 Island
-10 Island
-1 Baffling End
-1 Cast Out
-1 Absorb
+1 Glacial Fortress
 1 Wrath of God
 2 Wrath of God
 2 Cast Out
+2 Censor
+2 Hallowed Fountain
 2 Castle Ardenvale
-1 Banishing Light
 1 Doomskar
 2 Doomskar
 3 Dovin's Veto
 1 Castle Vantress
 2 Castle Vantress
-2 Baffling End
+1 Field of Ruin
 2 Absorb
+2 Glacial Fortress
+3 Glacial Fortress
 3 Cast Out
 3 Absorb
 3 Wrath of God
+3 Hallowed Fountain
 4 Absorb
+4 Hallowed Fountain
 4 Cast Out
-1 Field of Ruin
+2 Baffling End
+3 Teferi, Hero of Dominaria
+4 Teferi, Hero of Dominaria
+1 Fabled Passage
+2 Fabled Passage
 1 Sea Gate Restoration
 1 Mana Tithe
-1 Kiora Bests the Sea God
+1 Lonely Sandbar
 1 Temple Garden
 1 Gates of Istfell
 1 Sublime Epiphany
-1 Lonely Sandbar
+1 Kiora Bests the Sea God
 1 Teferi, Master of Time
-1 Ugin, the Spirit Dragon
 1 Dream Trawler
+1 Ugin, the Spirit Dragon
 1 Alrund's Epiphany
 1 Breeding Pool
 1 Barkchannel Pathway
@@ -76,31 +43,39 @@
 2 Alrund's Epiphany
 2 Lonely Sandbar
 3 Castle Vantress
+3 Neutralize
 4 Saw It Coming
 4 Behold the Multiverse
 1 Clearwater Pathway
 1 Memory Lapse
 1 Commit/Memory
-1 Brightclimb Pathway
-1 Dragon Turtle
-1 Seal Away
 1 Heartless Act
+1 Brightclimb Pathway
+1 Godless Shrine
+1 Dragon Turtle
+1 Day of Judgment
+1 Swamp
+1 Seal Away
+1 Watery Grave
+1 Drowned Catacomb
 1 Bloodchief's Thirst
 2 Clearwater Pathway
 2 Memory Lapse
 2 Brightclimb Pathway
+2 Heartless Act
 2 Dragon Turtle
 2 Bloodchief's Thirst
-2 Heartless Act
 3 Memory Lapse
+3 Fabled Passage
 3 Dragon Turtle
-3 Brightclimb Pathway
 3 Heartless Act
+3 Brightclimb Pathway
 3 Bloodchief's Thirst
 4 Memory Lapse
 4 Bloodchief's Thirst
 4 Dragon Turtle
 4 Heartless Act
+4 Fabled Passage
 1 Sphinx's Revelation
 1 Emeria's Call
 1 Snow-Covered Island
@@ -140,8 +115,10 @@
 2 Irrigated Farmland
 2 Grafdigger's Cage
 3 Irrigated Farmland
+3 Censor
 3 Baffling End
 3 Castle Ardenvale
 4 Glacial Fortress
 4 Irrigated Farmland
+4 Censor
 4 Wrath of God

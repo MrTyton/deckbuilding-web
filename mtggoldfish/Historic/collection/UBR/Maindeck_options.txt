@@ -19,12 +19,12 @@
 2 Mizzix's Mastery
 2 Faithless Looting
 3 Prismari Command
+3 Mizzix's Mastery
 3 Faithless Looting
 3 Dragonstorm
-3 Mizzix's Mastery
 3 Bladewing the Risen
-4 Faithless Looting
 4 Prismari Command
+4 Faithless Looting
 4 Mizzix's Mastery
 4 Dragonstorm
 1 Hive of the Eye Tyrant
@@ -68,15 +68,15 @@
 4 Dragon's Fire
 1 Goldspan Dragon
 2 Goldspan Dragon
-1 Iymrith, Desert Doom
 1 Hall of Storm Giants
+1 Iymrith, Desert Doom
 2 Iymrith, Desert Doom
 1 Ebondeath, Dracolich
 2 Ebondeath, Dracolich
 3 Mountain
 1 Commit/Memory
-1 Niv-Mizzet, Parun
 1 Fire Prophecy
+1 Niv-Mizzet, Parun
 4 Island
 5 Island
 3 Mystical Dispute
@@ -96,17 +96,17 @@
 1 Godless Shrine
 1 Lightning Helix
 1 Sacred Foundry
-2 Godless Shrine
-2 Savai Triome
 2 Sacred Foundry
+2 Savai Triome
+2 Godless Shrine
 2 Lightning Helix
 1 Needleverge Pathway
-1 Brightclimb Pathway
 1 Vanishing Verse
+1 Brightclimb Pathway
 1 Nadaar, Selfless Paladin
-2 Brightclimb Pathway
 2 Needleverge Pathway
 2 Nadaar, Selfless Paladin
+2 Brightclimb Pathway
 3 Savai Triome
 3 Nadaar, Selfless Paladin
 4 Savai Triome
@@ -175,23 +175,23 @@
 2 Baleful Mastery
 3 Crux of Fate
 1 Shatterskull Smashing
-1 Sarkhan, Fireblood
 1 Murderous Rider
+1 Sarkhan, Fireblood
 2 Shatterskull Smashing
 3 Fabled Passage
 1 Pact of Negation
 1 Abundant Harvest
-1 Sheltered Thicket
 1 Angrath, the Flame-Chained
+1 Sheltered Thicket
 1 Shifting Ceratops
 1 Gonti, Lord of Luxury
 2 Den of the Bugbear
 2 Abundant Harvest
 2 Inscription of Ruin
 2 Shifting Ceratops
-2 Gonti, Lord of Luxury
 2 Flunk
 2 Angrath, the Flame-Chained
+2 Gonti, Lord of Luxury
 3 Abundant Harvest
 4 Abundant Harvest
 1 Icingdeath, Frost Tyrant
@@ -217,8 +217,8 @@
 2 Heartless Act
 1 Assassin's Trophy
 2 Extinction Event
-1 Darkbore Pathway
 1 Sarulf, Realm Eater
+1 Darkbore Pathway
 1 Chevill, Bane of Monsters
 1 Gnottvold Slumbermound
 2 Chevill, Bane of Monsters
@@ -230,15 +230,12 @@
 3 Kalain, Reclusive Painter
 4 Swamp
 2 Assassin's Trophy
-1 Fetid Pools
 1 Ketria Triome
 1 Thought Erasure
+1 Fetid Pools
 1 Rankle, Master of Pranks
 2 Thought Erasure
 2 Rankle, Master of Pranks
-1 Temple of Malice
-2 Temple of Malice
-3 Temple of Malice
 1 Esika's Chariot
 1 Ritual of Soot
 1 Eliminate
@@ -246,6 +243,9 @@
 2 Vraska, Golgari Queen
 2 Eliminate
 3 Cragcrown Pathway
+1 Temple of Malice
+2 Temple of Malice
+3 Temple of Malice
 1 Snow-Covered Mountain
 1 Snow-Covered Swamp
 1 Snow-Covered Forest
@@ -264,23 +264,23 @@
 1 Luminarch Aspirant
 2 Luminarch Aspirant
 3 Luminarch Aspirant
-1 Hazoret the Fervent
-2 Hazoret the Fervent
-3 Castle Locthwain
-3 Heartless Act
-3 Kroxa, Titan of Death's Hunger
-3 Rix Maadi Reveler
-4 Heartless Act
-4 Chandra, Torch of Defiance
 1 Radha, Heart of Keld
 1 Domri, Chaos Bringer
 3 Chevill, Bane of Monsters
 4 Canyon Slough
 2 Icingdeath, Frost Tyrant
 4 Needleverge Pathway
+1 Hazoret the Fervent
+2 Hazoret the Fervent
+3 Castle Locthwain
+3 Kroxa, Titan of Death's Hunger
+3 Heartless Act
+3 Rix Maadi Reveler
+4 Chandra, Torch of Defiance
+4 Heartless Act
 1 Plains
-1 Shadrix Silverquill
 1 Isolated Chapel
+1 Shadrix Silverquill
 1 Deafening Clarion
 1 Elite Spellbinder
 2 Cave of the Frost Dragon
@@ -288,34 +288,34 @@
 2 Shadrix Silverquill
 2 Deafening Clarion
 2 Elite Spellbinder
-3 Isolated Chapel
 3 Godless Shrine
+3 Isolated Chapel
 3 Lightning Helix
 3 Elite Spellbinder
+4 Elite Spellbinder
 4 Sacred Foundry
 4 Lightning Helix
-4 Elite Spellbinder
 5 Mountain
 6 Mountain
 1 Phyrexian Tower
 1 Shambling Ghast
 1 Deadly Dispute
-1 Knight of the Ebon Legion
 1 Embercleave
 1 Captain Lannery Storm
+1 Knight of the Ebon Legion
 2 Deadly Dispute
 2 Shambling Ghast
-2 Knight of the Ebon Legion
 2 Embercleave
+2 Knight of the Ebon Legion
 2 Captain Lannery Storm
 3 Shambling Ghast
-3 Knight of the Ebon Legion
 3 Deadly Dispute
 3 Captain Lannery Storm
 3 Embercleave
+3 Knight of the Ebon Legion
 4 Kalain, Reclusive Painter
 4 Shambling Ghast
-4 Knight of the Ebon Legion
 4 Deadly Dispute
+4 Knight of the Ebon Legion
 4 Captain Lannery Storm
 4 Magda, Brazen Outlaw
