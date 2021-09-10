@@ -4,21 +4,21 @@
 1 Scavenging Ooze
 1 Old-Growth Troll
 4 Steel Leaf Champion
-2 Old-Growth Troll
 1 Werewolf Pack Leader
 2 Werewolf Pack Leader
+2 Old-Growth Troll
 3 Werewolf Pack Leader
+4 Werewolf Pack Leader
 3 Old-Growth Troll
 4 Old-Growth Troll
-4 Werewolf Pack Leader
-1 Rhonas the Indomitable
 3 Ranger Class
+1 Rhonas the Indomitable
 2 Scavenging Ooze
+1 The Great Henge
 1 Collected Company
 2 Collected Company
 3 Collected Company
 1 Yorvo, Lord of Garenbrig
-1 The Great Henge
 4 Collected Company
 3 Lair of the Hydra
 4 Lair of the Hydra
@@ -39,34 +39,34 @@
 10 Snow-Covered Forest
 11 Snow-Covered Forest
 12 Snow-Covered Forest
+2 The Great Henge
 13 Snow-Covered Forest
 14 Snow-Covered Forest
 15 Snow-Covered Forest
-2 The Great Henge
-1 Primal Might
-2 Primal Might
-16 Snow-Covered Forest
 1 Ghalta, Primal Hunger
 1 Blizzard Brawl
 2 Blizzard Brawl
+2 Ghalta, Primal Hunger
+16 Snow-Covered Forest
+1 Primal Might
+2 Primal Might
+1 Surrak, the Hunt Caller
+2 Surrak, the Hunt Caller
 1 Aspect of Hydra
 1 Garruk's Harbinger
-2 Ghalta, Primal Hunger
+2 Rhonas the Indomitable
+2 Aspect of Hydra
 2 Garruk's Harbinger
 3 Garruk's Harbinger
 4 Garruk's Harbinger
-2 Aspect of Hydra
-2 Rhonas the Indomitable
-1 Surrak, the Hunt Caller
-2 Surrak, the Hunt Caller
-17 Snow-Covered Forest
-3 Aspect of Hydra
-4 Aspect of Hydra
 3 Blizzard Brawl
-1 Heart of Kiran
+17 Snow-Covered Forest
 4 Ranger Class
 4 Blizzard Brawl
+1 Heart of Kiran
 15 Forest
+3 Aspect of Hydra
+4 Aspect of Hydra
 1 Wolfwillow Haven
 3 Hashep Oasis
 1 Breeding Pool
@@ -83,17 +83,17 @@
 4 Breeding Pool
 1 Stubborn Denial
 2 Stubborn Denial
-1 Barkhide Troll
-2 Barkhide Troll
 2 Wolfwillow Haven
 4 Llanowar Visionary
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 3 The Great Henge
-3 Stubborn Denial
 3 Wolfwillow Haven
 4 Karn, the Great Creator
+3 Stubborn Denial
+1 Barkhide Troll
+2 Barkhide Troll
 4 Hashep Oasis
 3 Ghalta, Primal Hunger
 1 Turntimber Symbiosis
@@ -167,7 +167,6 @@
 3 Jadelight Ranger
 4 Stubborn Denial
 4 Wolfwillow Haven
-18 Snow-Covered Forest
 1 Mazemind Tome
 1 Scavenger Grounds
 1 Emrakul, the Promised End
@@ -195,7 +194,6 @@
 8 Island
 9 Island
 10 Island
-3 Barkhide Troll
 1 Field of Ruin
 4 Unsummon
 4 Silumgar's Scorn
@@ -284,6 +282,7 @@
 3 Vivien Reid
 3 Primal Might
 4 Primal Might
+3 Barkhide Troll
 4 Barkhide Troll
 4 The Great Henge
 3 Kazandu Mammoth
@@ -385,6 +384,7 @@
 4 Wildborn Preserver
 4 Elvish Clancaller
 4 Shaman of the Pack
+18 Snow-Covered Forest
 1 Gilded Goose
 1 Shifting Ceratops
 1 Syr Faren, the Hengehammer

@@ -1,8 +1,8 @@
 1 Glacial Fortress
 2 Glacial Fortress
-1 Shark Typhoon
 1 Teferi, Hero of Dominaria
 1 Absorb
+1 Shark Typhoon
 2 Absorb
 1 Supreme Verdict
 2 Teferi, Hero of Dominaria
@@ -11,30 +11,30 @@
 3 Supreme Verdict
 1 Castle Ardenvale
 3 Glacial Fortress
+3 Teferi, Hero of Dominaria
+1 Dovin's Veto
 1 Sulfur Falls
 1 Steam Vents
 1 Sacred Foundry
 1 Raugrin Triome
-2 Raugrin Triome
 2 Steam Vents
+2 Raugrin Triome
 3 Raugrin Triome
 3 Steam Vents
-1 Dovin's Veto
 2 Shark Typhoon
-3 Teferi, Hero of Dominaria
-4 Raugrin Triome
 4 Supreme Verdict
+4 Raugrin Triome
 4 Steam Vents
 2 Sulfur Falls
-4 Glacial Fortress
 2 Dovin's Veto
+4 Glacial Fortress
 3 Shark Typhoon
-3 Sulfur Falls
 1 Expressive Iteration
 2 Expressive Iteration
-4 Shark Typhoon
+3 Sulfur Falls
 4 Absorb
 1 Scorching Dragonfire
+4 Shark Typhoon
 2 Scorching Dragonfire
 3 Scorching Dragonfire
 1 Castle Vantress
@@ -53,46 +53,45 @@
 4 Dovin's Veto
 3 Mutavault
 1 Dig Through Time
-1 Narset, Parter of Veils
 1 Censor
 2 Censor
 2 Castle Ardenvale
+1 Narset, Parter of Veils
 3 Censor
 2 Dig Through Time
-2 Sacred Foundry
 1 Azorius Charm
-1 Clifftop Retreat
+2 Sacred Foundry
 2 Azorius Charm
 1 Behold the Multiverse
 2 Island
+1 Clifftop Retreat
 4 Teferi, Hero of Dominaria
+1 Rewind
 2 Clifftop Retreat
+3 Azorius Charm
 2 Narset, Parter of Veils
 3 Narset, Parter of Veils
-3 Azorius Charm
 1 Opt
 2 Opt
 3 Opt
 4 Opt
-1 Rewind
 1 Mountain
+1 Seal Away
+1 Torrential Gearhulk
 1 Fabled Passage
 2 Fabled Passage
-1 Seal Away
+1 Prismari Command
+3 The Blackstaff of Waterdeep
 1 Chained to the Rocks
 2 Chained to the Rocks
 3 Chained to the Rocks
-1 Torrential Gearhulk
-1 Prismari Command
-2 Plains
-3 The Blackstaff of Waterdeep
-4 Chained to the Rocks
+2 Behold the Multiverse
 3 Dig Through Time
 4 Censor
-2 Behold the Multiverse
 1 Cast Out
 4 Azorius Charm
 1 Field of Ruin
+2 Plains
 1 Irrigated Farmland
 2 Irrigated Farmland
 2 Castle Vantress
@@ -102,27 +101,32 @@
 5 Island
 3 Irrigated Farmland
 4 Irrigated Farmland
+4 Chained to the Rocks
 2 Torrential Gearhulk
 2 Needle Spires
-3 Sacred Foundry
 1 Detention Sphere
 1 Blast Zone
+3 Sacred Foundry
+1 Search for Azcanta
+1 Magma Opus
+2 Magma Opus
+3 Magma Opus
 1 Fire Prophecy
-1 Omen of the Sea
 1 Elspeth, Sun's Nemesis
 1 Indomitable Creativity
 1 The Locust God
 1 Valakut Awakening
 1 Sage of the Falls
 1 Omen of the Sun
+1 Omen of the Sea
 2 Fire Prophecy
 2 Omen of the Sea
 2 Elspeth, Sun's Nemesis
 2 Omen of the Sun
 2 Indomitable Creativity
 3 Elspeth, Sun's Nemesis
-3 Omen of the Sea
 3 Indomitable Creativity
+3 Omen of the Sea
 3 Omen of the Sun
 3 Fabled Passage
 4 Omen of the Sea
@@ -130,30 +134,16 @@
 4 Omen of the Sun
 4 Fabled Passage
 4 Sacred Foundry
-1 Search for Azcanta
-1 Magma Opus
-2 Magma Opus
-3 Magma Opus
-2 Mountain
-1 Anger of the Gods
 2 Seal Away
+2 Rewind
 4 Magma Opus
 1 Commit/Memory
-2 Rewind
-1 Fires of Invention
-1 Oath of Chandra
-1 The Birth of Meletis
-2 Fires of Invention
-2 The Birth of Meletis
-3 The Birth of Meletis
-3 Clifftop Retreat
-3 Fires of Invention
-4 The Birth of Meletis
-4 Fires of Invention
 1 Secure the Wastes
 2 Valakut Awakening
 3 Fire Prophecy
 4 Fire Prophecy
+2 Mountain
+1 Anger of the Gods
 2 Sphinx's Revelation
 1 Narset of the Ancient Way
 1 Whirlwind of Thought
@@ -168,6 +158,16 @@
 1 Cave of the Frost Dragon
 1 Mystical Dispute
 2 Prismari Command
+1 Oath of Chandra
+1 Fires of Invention
+1 The Birth of Meletis
+2 Fires of Invention
+2 The Birth of Meletis
+3 The Birth of Meletis
+3 Clifftop Retreat
+3 Fires of Invention
+4 The Birth of Meletis
+4 Fires of Invention
 1 Snow-Covered Island
 2 Glass Casket
 1 Geier Reach Sanitarium
@@ -183,18 +183,18 @@
 2 Sinister Sabotage
 3 Sinister Sabotage
 4 Ghostfire Blade
-1 Drowned Catacomb
 1 Kaya, Orzhov Usurper
-1 Isolated Chapel
+1 Drowned Catacomb
 1 Heartless Act
 1 Fetid Pools
 1 Watery Grave
+1 Isolated Chapel
 1 Vanishing Verse
+2 Watery Grave
 2 Kaya, Orzhov Usurper
 2 Drowned Catacomb
 2 Isolated Chapel
 2 Vanishing Verse
-2 Watery Grave
 2 Fetid Pools
 2 Heartless Act
 3 Vanishing Verse

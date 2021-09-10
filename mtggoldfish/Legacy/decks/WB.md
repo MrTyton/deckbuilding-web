@@ -119,6 +119,6 @@
 |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)                   |                     |                                                                                                        |
 |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)                   |                     |                                                                                                        |
 |                    4|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)             |                     |                                                                                                        |
-|                    4|[Cling to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476338)                |                     |                                                                                                        |
 |                   11|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                        |                     |                                                                                                        |
+|                    4|[Cling to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476338)                |                     |                                                                                                        |
 
