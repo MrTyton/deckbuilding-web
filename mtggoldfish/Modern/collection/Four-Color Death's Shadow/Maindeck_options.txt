@@ -28,8 +28,8 @@
 3 Territorial Kavu
 1 Seal of Fire
 1 Expressive Iteration
-1 Kolaghan's Command
 1 Traverse the Ulvenwald
+1 Kolaghan's Command
 2 Traverse the Ulvenwald
 2 Dismember
 1 Bloodchief's Thirst
@@ -43,8 +43,8 @@
 1 Lurrus of the Dream-Den
 1 Street Wraith
 2 Street Wraith
-3 Street Wraith
 3 Traverse the Ulvenwald
+3 Street Wraith
 4 Street Wraith
 4 Territorial Kavu
 1 Shark Typhoon
@@ -52,15 +52,34 @@
 1 Arid Mesa
 1 Indatha Triome
 1 Mountain
-1 Cling to Dust
 1 Kroxa, Titan of Death's Hunger
+1 Cling to Dust
 1 Nurturing Peatland
 1 Prismari Command
 1 Misty Rainforest
 3 Ragavan, Nimble Pilferer
 1 Savai Triome
 3 Wooded Foothills
-4 Drown in the Loch
+1 Ghor-Clan Rampager
+2 Tarfire
+4 Traverse the Ulvenwald
+1 Sacred Foundry
+1 Monastery Swiftspear
+1 Wild Nacatl
+1 Godless Shrine
+1 Tribal Flames
+1 Mutagenic Growth
+2 Monastery Swiftspear
+2 Wild Nacatl
+2 Mutagenic Growth
+2 Tribal Flames
+3 Monastery Swiftspear
+3 Wild Nacatl
+3 Tribal Flames
+3 Mutagenic Growth
+4 Monastery Swiftspear
+4 Wild Nacatl
+4 Tribal Flames
 1 Agadeem's Awakening
 1 Jace, Vryn's Prodigy
 1 Serum Visions
@@ -68,23 +87,4 @@
 2 Serum Visions
 3 Serum Visions
 4 Serum Visions
-1 Sacred Foundry
-1 Wild Nacatl
-1 Godless Shrine
-1 Tribal Flames
-1 Mutagenic Growth
-1 Monastery Swiftspear
-2 Wild Nacatl
-2 Mutagenic Growth
-2 Monastery Swiftspear
-2 Tribal Flames
-3 Wild Nacatl
-3 Tribal Flames
-3 Mutagenic Growth
-3 Monastery Swiftspear
-4 Wild Nacatl
-4 Tribal Flames
-4 Monastery Swiftspear
-1 Ghor-Clan Rampager
-2 Tarfire
-4 Traverse the Ulvenwald
+4 Drown in the Loch
