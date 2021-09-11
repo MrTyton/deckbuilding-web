@@ -4,11 +4,12 @@
 
 # Standard
 
-|                              A                               |                                    B                                     |                                    C                                     |                                  D                                   |                               E                                |
-|--------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------|
-|[BG](./mtggoldfish/Standard/decks/BG.md)                      |[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)              |[Jeskai Mutate](./mtggoldfish/Standard/decks/Jeskai_Mutate.md)            |[Naya Adventures](./mtggoldfish/Standard/decks/Naya_Adventures.md)    |[Sultai Control](./mtggoldfish/Standard/decks/Sultai_Control.md)|
-|[BGx Sacrifice](./mtggoldfish/Standard/decks/BGx_Sacrifice.md)|[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Green Midrange](./mtggoldfish/Standard/decks/Mono-Green_Midrange.md)|[Naya Midrange](./mtggoldfish/Standard/decks/Naya_Midrange.md)        |[UB](./mtggoldfish/Standard/decks/UB.md)                        |
-|[BRG](./mtggoldfish/Standard/decks/BRG.md)                    |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)            |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)          |[Prismari Midrange](./mtggoldfish/Standard/decks/Prismari_Midrange.md)|[W](./mtggoldfish/Standard/decks/W.md)                          |
+|                              A                               |                                    B                                     |                                  C                                   |                               D                                |                  E                   |
+|--------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------|
+|[BG](./mtggoldfish/Standard/decks/BG.md)                      |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)            |[Naya Adventures](./mtggoldfish/Standard/decks/Naya_Adventures.md)    |[Sultai Control](./mtggoldfish/Standard/decks/Sultai_Control.md)|[W](./mtggoldfish/Standard/decks/W.md)|
+|[BGx Sacrifice](./mtggoldfish/Standard/decks/BGx_Sacrifice.md)|[Jeskai Mutate](./mtggoldfish/Standard/decks/Jeskai_Mutate.md)            |[Naya Midrange](./mtggoldfish/Standard/decks/Naya_Midrange.md)        |[Sultai Gyruda](./mtggoldfish/Standard/decks/Sultai_Gyruda.md)  |                                      |
+|[BRG](./mtggoldfish/Standard/decks/BRG.md)                    |[Mono-Green Midrange](./mtggoldfish/Standard/decks/Mono-Green_Midrange.md)|[Prismari Midrange](./mtggoldfish/Standard/decks/Prismari_Midrange.md)|[UB](./mtggoldfish/Standard/decks/UB.md)                        |                                      |
+|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)  |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)          |[RBx](./mtggoldfish/Standard/decks/RBx.md)                            |[WU](./mtggoldfish/Standard/decks/WU.md)                        |                                      |
 
 
 # Historic
@@ -69,4 +70,4 @@
 
 
 
-#### Last Updated at 12:43AM on September 11, 2021
+#### Last Updated at 12:45PM on September 11, 2021

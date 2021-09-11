@@ -136,8 +136,8 @@
 1 Blinkmoth Nexus
 2 Blinkmoth Nexus
 3 Blinkmoth Nexus
-3 Blast Zone
 3 Crawling Barrens
+3 Blast Zone
 3 Mobilized District
 4 Blast Zone
 4 Blinkmoth Nexus
@@ -187,10 +187,9 @@
 1 Needleverge Pathway
 1 Stomping Ground
 1 Cragcrown Pathway
-1 Luminous Broodmoth
 1 Solemn Simulacrum
+1 Luminous Broodmoth
 1 Migration Path
-1 Medomai's Prophecy
 1 Shalai, Voice of Plenty
 1 Keruga, the Macrosage
 1 Mastermind's Acquisition
@@ -214,6 +213,7 @@
 1 Honden of Infinite Rage
 1 Sanctum of Calm Waters
 1 Sanctum of Stone Fangs
+1 Medomai's Prophecy
 1 Idyllic Tutor
 1 Riverglide Pathway
 1 Honden of Night's Reach
@@ -236,10 +236,9 @@
 2 Godless Shrine
 2 Ketria Triome
 2 Cragcrown Pathway
-2 Deafening Clarion
 2 Solemn Simulacrum
+2 Deafening Clarion
 2 Stomping Ground
-2 Medomai's Prophecy
 2 Uro, Titan of Nature's Wrath
 2 Finale of Devastation
 2 Klothys, God of Destiny
@@ -272,6 +271,7 @@
 2 Idyllic Tutor
 2 Riverglide Pathway
 2 Prophetic Prism
+2 Medomai's Prophecy
 3 Branchloft Pathway
 3 Escape to the Wilds
 3 Savai Triome
@@ -430,11 +430,11 @@
 1 Gate Colossus
 1 Open the Gates
 2 Valki, God of Lies
-2 Felidar Retreat
 2 Alrund's Epiphany
 2 Rakdos Guildgate
 2 Gatebreaker Ram
 2 Root Snare
+2 Felidar Retreat
 2 Gate Colossus
 2 Open the Gates
 2 Azorius Guildgate
@@ -452,8 +452,8 @@
 1 Ratchet Bomb
 3 Stonecoil Serpent
 1 Snow-Covered Plains
-2 Cascading Cataracts
 2 Labyrinth of Skophos
+2 Cascading Cataracts
 3 Labyrinth of Skophos
 1 Hour of Promise
 1 Shefet Dunes

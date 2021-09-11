@@ -1,27 +1,38 @@
-3 Celestial Unicorn
-3 Rally the Ranks
-3 The Book of Exalted Deeds
-4 The Book of Exalted Deeds
-21 Snow-Covered Plains
-22 Snow-Covered Plains
-1 Legion Angel
-1 Reidane, God of the Worthy
-1 Elite Spellbinder
-2 Elite Spellbinder
-3 Elite Spellbinder
-4 Elite Spellbinder
-1 Skyclave Apparition
-2 Skyclave Apparition
-3 Skyclave Apparition
-4 Skyclave Apparition
-1 Usher of the Fallen
-2 Usher of the Fallen
 3 Usher of the Fallen
 4 Usher of the Fallen
 1 Monk of the Open Hand
 2 Monk of the Open Hand
 3 Monk of the Open Hand
 4 Monk of the Open Hand
+1 Selfless Savior
+1 Giant Killer
+2 Selfless Savior
+2 Giant Killer
+3 Giant Killer
+4 Giant Killer
+1 Doomskar
+1 Rally the Ranks
+1 Celestial Unicorn
+1 Resplendent Marshal
+1 Valkyrie Harbinger
+2 Doomskar
+2 Valkyrie Harbinger
+2 Celestial Unicorn
+2 Resplendent Marshal
+2 Rally the Ranks
+3 Doomskar
+3 Resplendent Marshal
+3 Rally the Ranks
+3 Celestial Unicorn
+3 The Book of Exalted Deeds
+4 The Book of Exalted Deeds
+21 Snow-Covered Plains
+22 Snow-Covered Plains
+1 Maul of the Skyclaves
+1 Starnheim Aspirant
+2 Starnheim Aspirant
+3 Starnheim Aspirant
+4 Starnheim Aspirant
 1 Plains
 2 Plains
 3 Plains
@@ -29,10 +40,6 @@
 5 Plains
 6 Plains
 7 Plains
-1 Starnheim Aspirant
-2 Starnheim Aspirant
-3 Starnheim Aspirant
-4 Starnheim Aspirant
 8 Plains
 9 Plains
 10 Plains
@@ -60,32 +67,28 @@
 24 Plains
 25 Plains
 26 Plains
-2 Reidane, God of the Worthy
 1 Clarion Spirit
 2 Clarion Spirit
-1 Giant Killer
-2 Giant Killer
+1 Alseid of Life's Bounty
+2 Alseid of Life's Bounty
+3 Selfless Savior
+3 Alseid of Life's Bounty
+4 Selfless Savior
+4 Alseid of Life's Bounty
+1 Loyal Warhound
+2 Loyal Warhound
+2 Reidane, God of the Worthy
+3 Loyal Warhound
+1 Seasoned Hallowblade
+2 Seasoned Hallowblade
+3 Seasoned Hallowblade
+4 Seasoned Hallowblade
 1 Grand Master of Flowers
 1 Codespell Cleric
 2 Codespell Cleric
 3 Codespell Cleric
 4 Codespell Cleric
-1 Loyal Warhound
-2 Loyal Warhound
-3 Loyal Warhound
-1 Selfless Savior
-2 Selfless Savior
-3 Giant Killer
-4 Giant Killer
-1 Maul of the Skyclaves
 2 Maul of the Skyclaves
-1 Sparring Regimen
-2 Sparring Regimen
-3 Reidane, God of the Worthy
-1 Seasoned Hallowblade
-2 Seasoned Hallowblade
-3 Seasoned Hallowblade
-4 Seasoned Hallowblade
 3 Clarion Spirit
 4 Clarion Spirit
 1 Kor Blademaster
@@ -95,16 +98,16 @@
 1 Fighter Class
 1 +2 Mace
 2 Mountain
+2 Fighter Class
 2 Sea Gate Banneret
 2 +2 Mace
-2 Furycalm Snarl
-2 Fighter Class
 2 Kor Blademaster
+2 Furycalm Snarl
 3 Mountain
-3 Fighter Class
-3 +2 Mace
 3 Sea Gate Banneret
 3 Kor Blademaster
+3 +2 Mace
+3 Fighter Class
 3 Furycalm Snarl
 3 Maul of the Skyclaves
 4 Mountain
@@ -136,8 +139,8 @@
 3 Charix, the Raging Isle
 3 Glacial Floodplain
 4 Snow-Covered Island
-4 Ruin Crab
 4 Charix, the Raging Isle
+4 Ruin Crab
 4 Glacial Floodplain
 5 Snow-Covered Island
 6 Snow-Covered Island
@@ -145,38 +148,32 @@
 8 Snow-Covered Island
 9 Snow-Covered Island
 10 Snow-Covered Island
-1 Swamp
-1 Brightclimb Pathway
-2 Swamp
-3 Swamp
-4 Swamp
-5 Swamp
-6 Swamp
-7 Swamp
 27 Plains
+1 Drannith Magistrate
+1 Search for Glory
+1 Lurrus of the Dream-Den
+1 Shadowspear
+2 Search for Glory
 1 Portable Hole
 2 Portable Hole
 2 Grand Master of Flowers
 3 Paladin Class
 3 Portable Hole
 1 Professor of Symbology
+1 Sparring Regimen
 1 Kitesail Cleric
-2 Kitesail Cleric
 2 Professor of Symbology
+2 Sparring Regimen
+2 Kitesail Cleric
 3 Professor of Symbology
+3 Reidane, God of the Worthy
 3 Kitesail Cleric
-4 Kitesail Cleric
 4 Professor of Symbology
-1 Alseid of Life's Bounty
+4 Kitesail Cleric
 2 Legion Angel
-2 Alseid of Life's Bounty
-3 Alseid of Life's Bounty
-3 Selfless Savior
-4 Selfless Savior
 4 Loyal Warhound
-4 Alseid of Life's Bounty
-1 Cave of the Frost Dragon
 1 Heraldic Banner
+1 Cave of the Frost Dragon
 1 Beloved Princess
 1 Sanctuary Lockdown
 2 Beloved Princess
@@ -185,10 +182,11 @@
 3 Heraldic Banner
 4 Heraldic Banner
 1 Soul Shatter
-1 Serrated Scorpion
 1 Bastion of Remembrance
 1 Demon's Disciple
+1 Swamp
 1 Umbral Juke
+1 Brightclimb Pathway
 1 Garrison Cat
 1 Tergrid's Shadow
 1 Village Rites
@@ -196,51 +194,32 @@
 1 Temple of Silence
 1 Grim Bounty
 1 Scoured Barrens
-2 Serrated Scorpion
+1 Serrated Scorpion
 2 Bastion of Remembrance
 2 Demon's Disciple
 2 Umbral Juke
 2 Village Rites
 2 Grim Bounty
 2 Scoured Barrens
+2 Swamp
 2 Nightmare Shepherd
 2 Garrison Cat
+2 Serrated Scorpion
+3 Village Rites
 3 Bastion of Remembrance
-3 Garrison Cat
 3 Demon's Disciple
+3 Garrison Cat
 3 Nightmare Shepherd
 3 Scoured Barrens
 3 Serrated Scorpion
-3 Village Rites
+3 Swamp
+4 Swamp
 4 Bastion of Remembrance
-4 Serrated Scorpion
 4 Village Rites
+4 Serrated Scorpion
 4 Garrison Cat
 4 Scoured Barrens
+5 Swamp
+6 Swamp
+7 Swamp
 8 Swamp
-1 Hall of Oracles
-1 Shineshadow Snarl
-1 Drannith Magistrate
-1 Crippling Fear
-1 Eyetwitch
-1 Stonecoil Serpent
-1 Dire Tactics
-1 Vanishing Verse
-1 Poet's Quill
-2 Crippling Fear
-2 Drannith Magistrate
-2 Vanishing Verse
-2 Dire Tactics
-2 Eyetwitch
-2 Poet's Quill
-2 Brightclimb Pathway
-2 Shineshadow Snarl
-2 Stonecoil Serpent
-3 Shineshadow Snarl
-3 Sparring Regimen
-3 Eyetwitch
-3 Brightclimb Pathway
-3 Dire Tactics
-4 Dire Tactics
-4 Sparring Regimen
-4 Brightclimb Pathway

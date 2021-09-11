@@ -1,17 +1,4 @@
-1 Sacred Foundry
-2 Prismatic Ending
-1 Mountain
-1 Yavimaya, Cradle of Growth
-1 Titania, Protector of Argoth
-1 Zuran Orb
-1 Snow-Covered Plains
-1 Scalding Tarn
-1 Fiery Islet
-1 Overgrown Tomb
-1 Blood Crypt
 1 Nurturing Peatland
-2 Bloodstained Mire
-3 Bloodstained Mire
 1 Grist, the Hunger Tide
 1 Kolaghan's Command
 1 Liliana of the Veil
@@ -23,40 +10,58 @@
 2 Fatal Push
 2 Blackcleave Cliffs
 2 Swamp
-2 Verdant Catacombs
-2 Overgrown Tomb
 2 Inquisition of Kozilek
 3 Liliana of the Veil
 3 Inquisition of Kozilek
+2 Verdant Catacombs
+2 Overgrown Tomb
 1 Abrupt Decay
 2 Grist, the Hunger Tide
-2 Seasoned Pyromancer
 3 Verdant Catacombs
-4 Inquisition of Kozilek
 4 Verdant Catacombs
+2 Seasoned Pyromancer
+1 Kroxa, Titan of Death's Hunger
+2 Kolaghan's Command
+2 Kroxa, Titan of Death's Hunger
+3 Blackcleave Cliffs
+1 Windswept Heath
+1 Arid Mesa
+2 Windswept Heath
+1 Prismatic Ending
+1 Temple Garden
+1 Sacred Foundry
+2 Prismatic Ending
+2 Abrupt Decay
+1 Yavimaya, Cradle of Growth
+1 Titania, Protector of Argoth
+1 Zuran Orb
+1 Snow-Covered Plains
+1 Raging Ravine
+1 Ignoble Hierarch
+2 Ignoble Hierarch
+3 Ignoble Hierarch
+4 Inquisition of Kozilek
+1 Thoughtseize
+1 Chandra, Torch of Defiance
+1 Tourach, Dread Cantor
+2 Nurturing Peatland
+1 Scalding Tarn
+1 Fiery Islet
 1 Ghost Quarter
 2 Arid Mesa
 3 Prismatic Ending
-2 Abrupt Decay
-1 Kroxa, Titan of Death's Hunger
-1 Tourach, Dread Cantor
-2 Kolaghan's Command
+2 Fury
+2 Thoughtseize
+1 Sunbaked Canyon
+1 Forgotten Cave
+4 Ignoble Hierarch
 4 Unholy Heat
 1 Misty Rainforest
 1 Pithing Needle
-2 Kroxa, Titan of Death's Hunger
-3 Blackcleave Cliffs
-1 Raging Ravine
-1 Forgotten Cave
-2 Fury
-1 Sunbaked Canyon
 2 Snow-Covered Mountain
 1 Springleaf Drum
 2 Misty Rainforest
 4 Prismatic Ending
-1 Ignoble Hierarch
-2 Ignoble Hierarch
-3 Ignoble Hierarch
 1 Expressive Iteration
 1 Steam Vents
 1 Aether Spellbomb
@@ -69,28 +74,26 @@
 3 Fire/Ice
 4 Misty Rainforest
 4 Expressive Iteration
+4 Liliana of the Veil
 3 Windswept Heath
 4 Windswept Heath
+3 Seasoned Pyromancer
 1 Bloodbraid Marauder
 1 Breeding Pool
 1 Spirebluff Canal
 4 Fire/Ice
-1 Chandra, Torch of Defiance
 4 Wrenn and Six
 1 Renegade Rallier
 2 Renegade Rallier
-1 Bonecrusher Giant
-2 Tourach, Dread Cantor
-1 Thoughtseize
-2 Nurturing Peatland
 1 Terminate
+2 Tourach, Dread Cantor
+1 Bonecrusher Giant
+1 Blooming Marsh
 2 Terminate
 2 Endurance
 3 Abrupt Decay
 1 Tarfire
 3 Renegade Rallier
-1 Blooming Marsh
-4 Ignoble Hierarch
 1 Grim Flayer
 2 Forest
 2 Grim Flayer
@@ -99,9 +102,19 @@
 2 Mountain
 1 Inspiring Vantage
 1 Assassin's Trophy
+4 Blackcleave Cliffs
+2 Blood Crypt
+3 Thoughtseize
+4 Bloodstained Mire
 1 Lurrus of the Dream-Den
 1 Fire-Lit Thicket
 1 Magus of the Moon
+1 Den of the Bugbear
+2 Assassin's Trophy
+2 Bonecrusher Giant
+1 Maelstrom Pulse
+1 Bloodbraid Elf
+2 Bloodbraid Elf
 1 Tireless Tracker
 2 Scalding Tarn
 1 Foundation Breaker
@@ -117,12 +130,19 @@
 3 Arid Mesa
 3 Esper Sentinel
 4 Arid Mesa
-4 Blackcleave Cliffs
-1 Den of the Bugbear
-2 Assassin's Trophy
-2 Bonecrusher Giant
-2 Blood Crypt
-2 Thoughtseize
-3 Thoughtseize
-4 Liliana of the Veil
-4 Bloodstained Mire
+1 Magmatic Channeler
+1 Blood Moon
+1 Dreadbore
+1 Polluted Delta
+2 Magmatic Channeler
+2 Blood Moon
+2 Polluted Delta
+3 Kroxa, Titan of Death's Hunger
+3 Swamp
+3 Blood Crypt
+3 Fatal Push
+3 Blood Moon
+3 Polluted Delta
+4 Swamp
+4 Polluted Delta
+4 Seasoned Pyromancer
