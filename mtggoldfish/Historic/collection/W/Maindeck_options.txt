@@ -11,7 +11,6 @@
 1 Thraben Inspector
 2 Thraben Inspector
 3 Thraben Inspector
-1 Mana Tithe
 1 Blinkmoth Nexus
 2 Blinkmoth Nexus
 1 Plains
@@ -52,6 +51,7 @@
 2 All That Glitters
 3 All That Glitters
 4 All That Glitters
+1 Mana Tithe
 1 Portable Hole
 1 Ingenious Smith
 2 Ingenious Smith
@@ -82,7 +82,6 @@
 7 Plains
 2 Court Homunculus
 4 Thraben Inspector
-2 Mana Tithe
 1 Glacial Fortress
 2 Shadowspear
 2 Glacial Fortress
@@ -100,9 +99,6 @@
 13 Plains
 3 Court Homunculus
 4 Court Homunculus
-1 Servo Exhibition
-2 Servo Exhibition
-3 Servo Exhibition
 1 Inspiring Vantage
 1 Bomat Courier
 2 Inspiring Vantage
@@ -111,6 +107,9 @@
 3 Bomat Courier
 4 Inspiring Vantage
 4 Bomat Courier
+1 Servo Exhibition
+2 Servo Exhibition
+3 Servo Exhibition
 1 Scrapheap Scrounger
 1 Concealed Courtyard
 2 Scrapheap Scrounger
@@ -133,7 +132,7 @@
 15 Plains
 16 Plains
 2 Treasure Vault
-4 Legion's Landing
+2 Mana Tithe
 1 Unbreakable Formation
 2 Unbreakable Formation
 3 Unbreakable Formation
@@ -156,8 +155,8 @@
 1 Drannith Magistrate
 2 Containment Priest
 2 Maul of the Skyclaves
-2 Rest in Peace
 2 Drannith Magistrate
+2 Rest in Peace
 3 Reidane, God of the Worthy
 1 Emeria's Call
 1 Soul-Guide Lantern
@@ -180,10 +179,11 @@
 1 Kabira Takedown
 2 Clarion Spirit
 2 Kabira Takedown
-3 Kabira Takedown
 3 Clarion Spirit
-4 Giant Killer
+3 Kabira Takedown
+4 Legion's Landing
 4 Clarion Spirit
+4 Giant Killer
 4 Kabira Takedown
 1 Karametra's Blessing
 1 Built to Last
@@ -197,11 +197,11 @@
 1 Karn, Scion of Urza
 1 Showdown of the Skalds
 1 Ramunap Ruins
-2 Sacred Foundry
 2 Needleverge Pathway
+2 Showdown of the Skalds
+2 Sacred Foundry
 2 Karn, Scion of Urza
 2 Ramunap Ruins
-2 Showdown of the Skalds
 3 Karn, Scion of Urza
 3 Sacred Foundry
 3 Needleverge Pathway
@@ -215,10 +215,10 @@
 2 Whirler Rogue
 3 Whirler Rogue
 4 Whirler Rogue
-1 Snow-Covered Island
 1 You See a Guard Approach
-1 Sparring Construct
 1 The Ozolith
+1 Snow-Covered Island
+1 Sparring Construct
 2 Snow-Covered Island
 2 Sparring Construct
 3 Snow-Covered Island

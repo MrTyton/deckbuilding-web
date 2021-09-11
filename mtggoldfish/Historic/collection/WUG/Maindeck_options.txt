@@ -11,83 +11,117 @@
 10 Plains
 1 Angel of Vitality
 2 Angel of Vitality
+1 Forest
 2 Castle Ardenvale
 1 Declaration in Stone
-1 Forest
 2 Declaration in Stone
 1 Heliod, Sun-Crowned
 2 Ajani, Strength of the Pride
 1 The Book of Exalted Deeds
-4 Glasspool Mimic
 1 Baffling End
+1 Breeding Pool
+2 Breeding Pool
+3 Breeding Pool
+4 Breeding Pool
 3 Glacial Fortress
+1 Faceless Haven
+1 Snow-Covered Plains
+1 Yasharn, Implacable Earth
+1 Snow-Covered Forest
+1 Nissa, Who Shakes the World
+1 Hydroid Krasis
+1 Rimewood Falls
+1 Into the North
+1 Snow-Covered Island
+1 Narset, Parter of Veils
+1 Memory Lapse
+2 Rimewood Falls
+2 Nissa, Who Shakes the World
+2 Snow-Covered Forest
+2 Hydroid Krasis
+2 Into the North
+2 Memory Lapse
+3 Into the North
+3 Rimewood Falls
+3 Nissa, Who Shakes the World
+4 Into the North
 1 Fabled Passage
 2 Fabled Passage
 3 Fabled Passage
-1 Snow-Covered Plains
-1 Faceless Haven
 2 Snow-Covered Plains
 1 Arctic Treeline
-1 Breeding Pool
-1 Hydroid Krasis
-1 Into the North
-1 Rimewood Falls
-1 Snow-Covered Forest
-1 Nissa, Who Shakes the World
-1 Yasharn, Implacable Earth
-1 Snow-Covered Island
-1 Memory Lapse
-1 Narset, Parter of Veils
 1 Shark Typhoon
-2 Breeding Pool
-2 Hydroid Krasis
-2 Into the North
-2 Rimewood Falls
-2 Nissa, Who Shakes the World
-2 Memory Lapse
 2 Shark Typhoon
-2 Snow-Covered Forest
-3 Breeding Pool
-3 Into the North
-3 Rimewood Falls
 3 Shark Typhoon
-3 Nissa, Who Shakes the World
-4 Breeding Pool
-4 Into the North
 4 Nissa, Who Shakes the World
 4 Shark Typhoon
+1 Commit/Memory
+2 Commit/Memory
+2 Snow-Covered Island
+2 Narset, Parter of Veils
+3 Narset, Parter of Veils
+3 Memory Lapse
+4 Memory Lapse
+1 Emeria's Call
 1 Settle the Wreckage
+4 Glasspool Mimic
 1 Trelasarra, Moon Dancer
 2 Trelasarra, Moon Dancer
 1 Into the Roil
-1 Commit/Memory
 1 Wrath of God
-2 Commit/Memory
 2 Yasharn, Implacable Earth
-2 Snow-Covered Island
-2 Narset, Parter of Veils
-3 Memory Lapse
-3 Narset, Parter of Veils
 4 Glacial Fortress
 4 Fabled Passage
-4 Memory Lapse
-1 Emeria's Call
 1 Daxos, Blessed by the Sun
 2 Daxos, Blessed by the Sun
+1 Elite Spellbinder
+1 Lair of the Hydra
+1 Ephemerate
+1 Wall of Blossoms
+1 Soulherder
+2 Ephemerate
+2 Wall of Blossoms
+2 Soulherder
+3 Wall of Blossoms
+3 Ephemerate
+3 Soulherder
+4 Wall of Blossoms
+4 Soulherder
 2 Heliod, Sun-Crowned
+1 Tamiyo, Collector of Tales
+2 Forest
 1 Shalai, Voice of Plenty
 1 Lyra Dawnbringer
 11 Plains
 12 Plains
 13 Plains
 2 Settle the Wreckage
-1 Tamiyo, Collector of Tales
+1 Prosperous Innkeeper
+2 Elite Spellbinder
+2 Prosperous Innkeeper
+4 Ephemerate
+2 Lair of the Hydra
+1 Restoration Angel
+2 Restoration Angel
+1 Llanowar Elves
+2 Llanowar Elves
+3 Llanowar Elves
+4 Llanowar Elves
+2 Faceless Haven
 2 Wrath of God
 2 Baffling End
 3 Wrath of God
 3 Baffling End
 3 Declaration in Stone
-2 Forest
+1 Irrigated Farmland
+1 Militia Bugler
+1 Knight of Autumn
+1 Charming Prince
+2 Knight of Autumn
+2 Irrigated Farmland
+2 Charming Prince
+3 Prosperous Innkeeper
+4 Prosperous Innkeeper
 3 Forest
 4 Forest
 1 Toski, Bearer of Secrets
@@ -100,10 +134,14 @@
 1 Day of Judgment
 1 Cleric Class
 2 The Book of Exalted Deeds
-2 Faceless Haven
+2 Emeria's Call
+1 Hinterland Harbor
+2 Hinterland Harbor
+1 Barkchannel Pathway
+1 Thragtusk
+3 Hydroid Krasis
 1 Legion Angel
 1 Basri Ket
-1 Elite Spellbinder
 2 Basri Ket
 1 Reidane, God of the Worthy
 1 Dromoka's Command
@@ -117,6 +155,10 @@
 1 Seal Away
 2 Seal Away
 3 Seal Away
+1 Skyclave Cleric
+2 Militia Bugler
+2 Skyclave Cleric
+3 Skyclave Cleric
 1 Labyrinth of Skophos
 1 Ajani's Welcome
 1 Authority of the Consuls
@@ -128,6 +170,21 @@
 3 Settle the Wreckage
 3 Heliod, Sun-Crowned
 4 Castle Ardenvale
+1 Elvish Visionary
+1 Island
+1 Faceless Agent
+1 Timeless Witness
+1 Vivien, Monsters' Advocate
+1 Koma, Cosmos Serpent
+1 Glorious Protector
+1 Primal Command
+1 Angel of Invention
+2 Elvish Visionary
+2 Island
+2 Glorious Protector
+2 Timeless Witness
+3 Elvish Visionary
+4 Elvish Visionary
 1 Mana Tithe
 2 Mana Tithe
 2 Rest in Peace
@@ -139,51 +196,88 @@
 2 Selfless Savior
 3 Selfless Savior
 4 Selfless Savior
+1 Isolated Chapel
 1 Godless Shrine
 1 Vito, Thorn of the Dusk Rose
-1 Isolated Chapel
 1 Brightclimb Pathway
 2 Vito, Thorn of the Dusk Rose
 2 Isolated Chapel
-2 Emeria's Call
 2 Brightclimb Pathway
 3 Vito, Thorn of the Dusk Rose
 3 Brightclimb Pathway
 4 Brightclimb Pathway
-1 Explore
-1 Hinterland Harbor
+1 Swan Song
+2 Swan Song
+4 Linvala, Shield of Sea Gate
 1 Cultivate
+1 Explore
 1 Ugin, the Spirit Dragon
 2 Explore
-2 Hinterland Harbor
 2 Cultivate
 2 Day of Judgment
-2 Ugin, the Spirit Dragon
 2 Arctic Treeline
+2 Ugin, the Spirit Dragon
 3 Explore
 3 Day of Judgment
-3 Hydroid Krasis
-3 Hinterland Harbor
 3 Arctic Treeline
 3 Ugin, the Spirit Dragon
+3 Hinterland Harbor
 4 Explore
-4 Hydroid Krasis
 4 Hinterland Harbor
+4 Hydroid Krasis
 4 Day of Judgment
 1 Remorseful Cleric
 2 Remorseful Cleric
 3 Remorseful Cleric
 4 Remorseful Cleric
-1 Swan Song
-2 Swan Song
-4 Linvala, Shield of Sea Gate
+1 Hall of Storm Giants
+1 Alrund's Epiphany
+1 Vineglimmer Snarl
+1 Growth Spiral
+1 Blast Zone
+2 Tamiyo, Collector of Tales
+2 Growth Spiral
+2 Alrund's Epiphany
+2 Hall of Storm Giants
+2 Blast Zone
+2 Vineglimmer Snarl
+3 Growth Spiral
+3 Alrund's Epiphany
+3 Snow-Covered Forest
+3 Snow-Covered Island
+3 Vineglimmer Snarl
+3 Tamiyo, Collector of Tales
+4 Narset, Parter of Veils
+4 Growth Spiral
+4 Vineglimmer Snarl
+4 Rimewood Falls
+1 Yorion, Sky Nomad
+1 Turntimber Symbiosis
+1 Blade Splicer
+1 Lumbering Lightshield
+2 Thragtusk
+2 Yorion, Sky Nomad
+2 Turntimber Symbiosis
+2 Blade Splicer
+2 Barkchannel Pathway
+2 Lumbering Lightshield
+3 Restoration Angel
+3 Thragtusk
+3 Blade Splicer
+3 Barkchannel Pathway
+3 Lumbering Lightshield
+4 Restoration Angel
+4 Lumbering Lightshield
+4 Thragtusk
+4 Barkchannel Pathway
+4 Blade Splicer
 5 Forest
 1 Adanto Vanguard
 2 Adanto Vanguard
 2 Cleric Class
 3 Snow-Covered Plains
-3 Adanto Vanguard
 3 Faceless Haven
+3 Adanto Vanguard
 3 Cleric Class
 4 Snow-Covered Plains
 5 Snow-Covered Plains
@@ -202,8 +296,8 @@
 1 Divine Gambit
 2 Elspeth Conquers Death
 2 Secluded Steppe
-2 Divine Gambit
 2 Shalai, Voice of Plenty
+2 Divine Gambit
 2 Legion's Landing
 2 Lyra Dawnbringer
 3 Secluded Steppe

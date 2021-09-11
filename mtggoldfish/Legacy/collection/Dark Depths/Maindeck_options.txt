@@ -2,8 +2,8 @@
 4 Not of This World
 1 Gemstone Mine
 1 Mana Confluence
-1 City of Brass
 1 Stifle
+1 City of Brass
 2 Gemstone Mine
 2 Mana Confluence
 2 Stifle
@@ -64,8 +64,8 @@
 1 Watery Grave
 1 Underground Sea
 1 Sinkhole
-1 Counterspell
 1 Drowned Catacomb
+1 Counterspell
 1 Winter Orb
 1 Force Spike
 1 Expedition Map
@@ -75,19 +75,19 @@
 2 Winter Orb
 2 Underground Sea
 2 Sinkhole
-2 Counterspell
 2 Watery Grave
 2 Drowned Catacomb
+2 Counterspell
 2 Force of Will
 2 Expedition Map
 2 Surgical Extraction
 2 Force Spike
 3 Winter Orb
 3 Sinkhole
+3 Counterspell
 3 Mana Leak
 3 Daze
 3 Drowned Catacomb
-3 Counterspell
 3 Surgical Extraction
 3 Force Spike
 3 Underground Sea
@@ -97,12 +97,12 @@
 4 Watery Grave
 4 Daze
 4 Counterspell
-4 Mana Leak
 4 Surgical Extraction
 4 Expedition Map
 4 Force Spike
 4 Drowned Catacomb
 4 Underground Sea
+4 Mana Leak
 1 Simian Spirit Guide
 2 Simian Spirit Guide
 3 Simian Spirit Guide
@@ -110,9 +110,9 @@
 1 Polluted Delta
 1 Toxic Deluge
 1 Ancient Tomb
+1 Thought-Knot Seer
 1 Plague Engineer
 1 Marsh Flats
-1 Thought-Knot Seer
 1 Vindicate
 1 Liliana, the Last Hope
 1 Liliana's Triumph
@@ -129,9 +129,9 @@
 1 Castle Locthwain
 2 Ancient Tomb
 2 Polluted Delta
+2 Thought-Knot Seer
 2 Plague Engineer
 2 Snow-Covered Swamp
-2 Thought-Knot Seer
 2 Eliminate
 2 Trinisphere
 2 Vindicate

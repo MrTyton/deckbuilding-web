@@ -9,25 +9,25 @@
 2 Spirebluff Canal
 3 Steam Vents
 4 Steam Vents
-1 Narset, Parter of Veils
 1 Mizzix's Mastery
+1 Narset, Parter of Veils
 1 Terror of the Peaks
 1 Faithless Looting
 1 Bladewing the Risen
 1 Dragonstorm
+2 Mizzix's Mastery
 2 Dragonstorm
 2 Bladewing the Risen
-2 Mizzix's Mastery
 2 Faithless Looting
-3 Prismari Command
-3 Faithless Looting
-3 Dragonstorm
 3 Mizzix's Mastery
+3 Faithless Looting
+3 Prismari Command
+3 Dragonstorm
 3 Bladewing the Risen
 4 Faithless Looting
-4 Prismari Command
 4 Mizzix's Mastery
 4 Dragonstorm
+4 Prismari Command
 1 Dragonskull Summit
 2 Clearwater Pathway
 1 Hive of the Eye Tyrant
@@ -61,8 +61,8 @@
 3 Island
 3 Memory Lapse
 4 Memory Lapse
-1 Iymrith, Desert Doom
 1 Hall of Storm Giants
+1 Iymrith, Desert Doom
 2 Iymrith, Desert Doom
 1 Commit/Memory
 1 Fire Prophecy
@@ -95,8 +95,8 @@
 1 Godless Shrine
 1 Lightning Helix
 1 Sacred Foundry
-2 Savai Triome
 2 Godless Shrine
+2 Savai Triome
 2 Sacred Foundry
 2 Lightning Helix
 1 Needleverge Pathway
@@ -115,8 +115,8 @@
 2 Valki, God of Lies
 2 Duress
 4 Narset, Parter of Veils
-1 Stomping Ground
 1 Rootbound Crag
+1 Stomping Ground
 1 Overgrown Tomb
 2 Overgrown Tomb
 3 Overgrown Tomb
@@ -192,8 +192,8 @@
 1 Assassin's Trophy
 2 Extinction Event
 1 Darkbore Pathway
-1 Chevill, Bane of Monsters
 1 Sarulf, Realm Eater
+1 Chevill, Bane of Monsters
 1 Gnottvold Slumbermound
 2 Chevill, Bane of Monsters
 2 Liliana, Waker of the Dead
@@ -207,13 +207,16 @@
 2 Heartless Act
 3 Rootbound Crag
 4 Rootbound Crag
+1 Ketria Triome
 1 Fetid Pools
 1 Thought Erasure
 1 Rankle, Master of Pranks
-1 Ketria Triome
 2 Thought Erasure
 2 Rankle, Master of Pranks
 2 Assassin's Trophy
+1 Temple of Malice
+2 Temple of Malice
+3 Temple of Malice
 1 Esika's Chariot
 1 Ritual of Soot
 1 Eliminate
@@ -221,13 +224,10 @@
 2 Vraska, Golgari Queen
 2 Eliminate
 3 Cragcrown Pathway
-1 Temple of Malice
-2 Temple of Malice
-3 Temple of Malice
 1 Snow-Covered Mountain
 1 Snow-Covered Swamp
-1 Elder Gargaroth
 1 Snow-Covered Forest
+1 Elder Gargaroth
 1 Questing Beast
 2 Elder Gargaroth
 2 Questing Beast
@@ -265,11 +265,22 @@
 4 Woodland Cemetery
 4 Prosperous Innkeeper
 4 Goldspan Dragon
-1 Plains
+1 Hazoret the Fervent
+2 Hazoret the Fervent
+3 Castle Locthwain
+3 Heartless Act
+3 Kroxa, Titan of Death's Hunger
+3 Rix Maadi Reveler
+4 Heartless Act
+4 Chandra, Torch of Defiance
+4 Swamp
+5 Mountain
+6 Mountain
 1 Isolated Chapel
 1 Shadrix Silverquill
 1 Deafening Clarion
 1 Elite Spellbinder
+1 Plains
 2 Cave of the Frost Dragon
 2 Isolated Chapel
 2 Shadrix Silverquill
@@ -280,16 +291,5 @@
 3 Lightning Helix
 3 Elite Spellbinder
 4 Elite Spellbinder
-4 Sacred Foundry
 4 Lightning Helix
-5 Mountain
-6 Mountain
-1 Hazoret the Fervent
-2 Hazoret the Fervent
-3 Castle Locthwain
-3 Heartless Act
-3 Kroxa, Titan of Death's Hunger
-3 Rix Maadi Reveler
-4 Heartless Act
-4 Chandra, Torch of Defiance
-4 Swamp
+4 Sacred Foundry

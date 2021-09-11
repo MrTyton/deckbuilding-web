@@ -2,31 +2,31 @@
 4 Dead/Gone
 1 Pyroblast
 2 Pyroblast
-1 Red Elemental Blast
 1 Abrade
+1 Red Elemental Blast
 1 Ensnaring Bridge
 1 Tormod's Crypt
 1 Pithing Needle
 1 Grindstone
 1 Sulfur Elemental
 2 Sulfur Elemental
-1 Thorn of Amethyst
-2 Thorn of Amethyst
 2 Red Elemental Blast
 2 Abrade
+1 Thorn of Amethyst
+2 Thorn of Amethyst
+1 Mycosynth Lattice
 1 Blood Moon
 3 Thorn of Amethyst
 3 Sulfur Elemental
-1 Mycosynth Lattice
 1 Liquimetal Coating
-1 Surgical Extraction
-2 Surgical Extraction
 1 Plague Engineer
+2 Plague Engineer
+3 Plague Engineer
 1 Opposition Agent
 1 Helm of Obedience
 2 Opposition Agent
-2 Plague Engineer
-3 Plague Engineer
+1 Surgical Extraction
+2 Surgical Extraction
 1 Vault of Whispers
 4 Thorn of Amethyst
 4 Sulfur Elemental
@@ -47,27 +47,28 @@
 1 Faerie Macabre
 2 Faerie Macabre
 3 Faerie Macabre
+1 Galvanic Blast
+2 Galvanic Blast
 1 Pyrokinesis
 2 Ensnaring Bridge
 2 Trinisphere
 1 Lotus Petal
 1 Rip Apart
 1 Karn, the Great Creator
+1 Nihil Spellbomb
 1 Walking Ballista
 2 Lightning Bolt
+1 Dark Confidant
+1 Meekstone
+1 Jegantha, the Wellspring
 1 Defense Grid
 1 Shatterstorm
 2 Shatterstorm
-1 Dark Confidant
-1 Galvanic Blast
-1 Jegantha, the Wellspring
-1 Meekstone
-1 Nihil Spellbomb
-2 Galvanic Blast
+1 Painter's Servant
 1 Goblin Cratermaker
 1 Blazing Volley
-1 Skysovereign, Consul Flagship
 1 Engineered Explosives
+1 Skysovereign, Consul Flagship
 1 Soul-Guide Lantern
 1 Word of Seizing
 1 Pyroclasm
@@ -85,6 +86,18 @@
 2 Dystopia
 1 Dire Fleet Daredevil
 2 Blood Moon
+1 Kolaghan's Command
+1 Mindbreak Trap
+1 Damping Sphere
+1 Thoughtseize
+2 Kolaghan's Command
+2 Mindbreak Trap
+2 Nihil Spellbomb
+2 Thoughtseize
+1 Shadowspear
+1 Lion's Eye Diamond
+1 Daretti, Ingenious Iconoclast
+2 Tormod's Crypt
 1 Plague Reaver
 2 Plague Reaver
 2 Defense Grid
@@ -103,7 +116,6 @@
 3 Chandra, Awakened Inferno
 1 Witchbane Orb
 1 Glass Casket
-1 Painter's Servant
 1 Swords to Plowshares
 2 Swords to Plowshares
 3 Swords to Plowshares

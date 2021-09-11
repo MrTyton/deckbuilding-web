@@ -1,6 +1,8 @@
 1 Goblin Bombardment
 3 Llanowar Reborn
+4 Arcbound Worker
 1 Plains
+3 Forest
 1 Branchloft Pathway
 4 Ingenious Smith
 1 Sacred Foundry
@@ -16,8 +18,6 @@
 3 Brushland
 4 Brushland
 4 Branchloft Pathway
-3 Forest
-4 Arcbound Worker
 2 Plains
 4 Llanowar Reborn
 1 Spire of Industry
@@ -28,12 +28,12 @@
 3 Windswept Heath
 4 Windswept Heath
 1 Basilisk Collar
+1 Witch's Oven
 1 Portable Hole
 1 Relic of Progenitus
 1 Urborg, Tomb of Yawgmoth
 2 Spire of Industry
 1 Arid Mesa
-1 Witch's Oven
 1 Idyllic Grange
 2 Arid Mesa
 2 Idyllic Grange
@@ -42,49 +42,28 @@
 3 Temple Garden
 1 Blinkmoth Nexus
 4 Welding Jar
-1 Expedition Map
-1 Arcbound Javelineer
-2 Arcbound Javelineer
-3 Arcbound Javelineer
-1 Fatal Push
-1 Verdant Catacombs
-1 Swamp
-1 Overgrown Tomb
-1 Blooming Marsh
-1 Blood Crypt
-1 Thoughtseize
-2 Verdant Catacombs
-2 Fatal Push
-2 Overgrown Tomb
-2 Blooming Marsh
-2 Thoughtseize
-3 Fatal Push
-3 Verdant Catacombs
-3 Thoughtseize
-3 Overgrown Tomb
-3 Blooming Marsh
-4 Thoughtseize
-4 Verdant Catacombs
-4 Fatal Push
-4 Overgrown Tomb
 1 Horizon Canopy
-1 Arcbound Mouser
-2 Arcbound Mouser
+1 Pithing Needle
+1 Power Depot
+2 Power Depot
+1 Expedition Map
 1 Ranger Class
 1 Wooded Foothills
 1 Stomping Ground
 2 Wooded Foothills
 3 Wooded Foothills
-1 Pithing Needle
-1 Power Depot
-2 Power Depot
-1 Vines of Vastwood
+1 Arcbound Javelineer
+2 Arcbound Javelineer
+3 Arcbound Javelineer
 2 Horizon Canopy
+1 Arcbound Mouser
+2 Arcbound Mouser
+4 Forest
+1 Vines of Vastwood
 3 Arcbound Mouser
 1 Karplusan Forest
 2 Karplusan Forest
 3 Karplusan Forest
-4 Forest
 1 Power Conduit
 3 Razorverge Thicket
 4 Razorverge Thicket
@@ -98,3 +77,24 @@
 2 Throne of Geth
 3 Darksteel Citadel
 4 Darksteel Citadel
+1 Fatal Push
+1 Blooming Marsh
+1 Overgrown Tomb
+1 Blood Crypt
+1 Thoughtseize
+1 Swamp
+1 Verdant Catacombs
+2 Fatal Push
+2 Overgrown Tomb
+2 Blooming Marsh
+2 Verdant Catacombs
+2 Thoughtseize
+3 Fatal Push
+3 Thoughtseize
+3 Overgrown Tomb
+3 Blooming Marsh
+3 Verdant Catacombs
+4 Verdant Catacombs
+4 Fatal Push
+4 Thoughtseize
+4 Overgrown Tomb

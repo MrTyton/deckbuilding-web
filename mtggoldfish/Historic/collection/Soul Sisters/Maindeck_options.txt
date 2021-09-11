@@ -100,8 +100,8 @@
 16 Snow-Covered Plains
 1 Baneslayer Angel
 1 Vito, Thorn of the Dusk Rose
-1 Godless Shrine
 1 Isolated Chapel
+1 Godless Shrine
 1 Temple of Silence
 2 Isolated Chapel
 2 Vito, Thorn of the Dusk Rose
@@ -148,16 +148,16 @@
 4 Selfless Savior
 1 Castle Locthwain
 1 Elspeth, Sun's Nemesis
+1 Scoured Barrens
 1 Linvala, Keeper of Silence
 1 Erebos's Intervention
 1 Oath of Kaya
 1 Angelic Ascension
-1 Scoured Barrens
 2 Elspeth, Sun's Nemesis
 2 Castle Locthwain
 2 Temple of Silence
-2 Erebos's Intervention
 2 Scoured Barrens
+2 Erebos's Intervention
 2 Oath of Kaya
 2 Linvala, Keeper of Silence
 2 Angelic Ascension
@@ -177,19 +177,19 @@
 1 Sacred Cat
 2 Sacred Cat
 4 Authority of the Consuls
-1 Scurry Oak
 1 Prosperous Innkeeper
-1 Trelasarra, Moon Dancer
 1 Cave of the Frost Dragon
 1 Forest
 1 Ranger-Captain of Eos
 1 Cathars' Crusade
-2 Cave of the Frost Dragon
+1 Scurry Oak
+1 Trelasarra, Moon Dancer
 2 Prosperous Innkeeper
-2 Trelasarra, Moon Dancer
-2 Scurry Oak
 2 Forest
+2 Scurry Oak
+2 Trelasarra, Moon Dancer
 2 Cathars' Crusade
+2 Cave of the Frost Dragon
 2 Ranger-Captain of Eos
 3 Prosperous Innkeeper
 3 Forest
@@ -197,8 +197,8 @@
 3 Trelasarra, Moon Dancer
 3 Cathars' Crusade
 3 Ranger-Captain of Eos
-4 Forest
 4 Prosperous Innkeeper
+4 Forest
 4 Ranger-Captain of Eos
 4 Trelasarra, Moon Dancer
 4 Scurry Oak
