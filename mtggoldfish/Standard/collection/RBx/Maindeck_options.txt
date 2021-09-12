@@ -8,16 +8,16 @@
 2 Soul Shatter
 1 Skullport Merchant
 2 Skullport Merchant
+1 Snow-Covered Swamp
 1 Eyetwitch
 1 Blood on the Snow
 1 Faceless Haven
-1 Snow-Covered Swamp
+2 Snow-Covered Swamp
 2 Blood on the Snow
 2 Eyetwitch
 2 Faceless Haven
-2 Snow-Covered Swamp
-3 Eyetwitch
 3 Snow-Covered Swamp
+3 Eyetwitch
 3 Skullport Merchant
 3 Blood on the Snow
 4 Snow-Covered Swamp
@@ -45,14 +45,14 @@
 4 Faceless Haven
 16 Snow-Covered Swamp
 2 Professor Onyx
-1 Shineshadow Snarl
 1 Vanishing Verse
+1 Shineshadow Snarl
 1 Snow-Covered Plains
 1 Professor of Symbology
+2 Vanishing Verse
 2 Professor of Symbology
 2 Snow-Covered Plains
 2 Shineshadow Snarl
-2 Vanishing Verse
 3 Vanishing Verse
 3 Snow-Covered Plains
 3 Professor of Symbology
@@ -88,15 +88,15 @@
 4 Blightstep Pathway
 2 Fabled Passage
 1 Goldspan Dragon
-2 Mountain
 2 Goldspan Dragon
+2 Mountain
 3 Goldspan Dragon
 3 Kalain, Reclusive Painter
 1 Den of the Bugbear
 1 Baleful Mastery
 2 Baleful Mastery
-1 Shatterskull Smashing
 1 Bonecrusher Giant
+1 Shatterskull Smashing
 2 Bonecrusher Giant
 4 Goldspan Dragon
 1 Valki, God of Lies
@@ -143,32 +143,32 @@
 3 Bloodchief's Thirst
 20 Snow-Covered Swamp
 2 Heartless Act
-1 Disdainful Stroke
-1 Mazemind Tome
 1 Riverglide Pathway
+1 Disdainful Stroke
 1 Island
+1 Mazemind Tome
 1 Prismari Command
 1 Hall of Storm Giants
-2 Mazemind Tome
 2 Riverglide Pathway
+2 Mazemind Tome
 3 Riverglide Pathway
 4 Riverglide Pathway
+1 Rankle, Master of Pranks
+1 Clearwater Pathway
 1 Inferno of the Star Mounts
 1 Extinction Event
 1 Alrund's Epiphany
 1 Galazeth Prismari
-1 Rankle, Master of Pranks
 1 Magma Opus
-1 Clearwater Pathway
 1 Temple of the Dragon Queen
+2 Clearwater Pathway
+2 Rankle, Master of Pranks
 2 Island
 2 Magma Opus
 2 Alrund's Epiphany
 2 Galazeth Prismari
-2 Rankle, Master of Pranks
-2 Clearwater Pathway
-3 Galazeth Prismari
 3 Clearwater Pathway
+3 Galazeth Prismari
 6 Snow-Covered Plains
 3 Fabled Passage
 1 Forest
@@ -208,16 +208,16 @@
 1 Gadrak, the Crown-Scourge
 1 Havoc Jester
 2 Jaspera Sentinel
-2 Claim the Firstborn
-2 Kroxa, Titan of Death's Hunger
 2 Binding the Old Gods
+2 Kroxa, Titan of Death's Hunger
+2 Claim the Firstborn
 3 Jaspera Sentinel
 3 Korvold, Fae-Cursed King
 3 Claim the Firstborn
 4 Jaspera Sentinel
+1 Pelakka Predation
 1 Valentin, Dean of the Vein
 1 Deadly Brew
-1 Pelakka Predation
 2 Valentin, Dean of the Vein
 2 Tergrid, God of Fright
 2 Deadly Brew
@@ -227,24 +227,24 @@
 4 Deadly Brew
 1 Lair of the Hydra
 1 Turntimber Symbiosis
+1 Foulmire Knight
 1 Shadows' Verdict
-1 Polukranos, Unchained
 1 Temple of Malady
+1 Polukranos, Unchained
 1 Questing Beast
 1 Elder Gargaroth
-1 Foulmire Knight
 2 Lair of the Hydra
+2 Foulmire Knight
 2 Shadows' Verdict
-2 Polukranos, Unchained
 2 Elder Gargaroth
 2 Turntimber Symbiosis
 2 Questing Beast
-2 Foulmire Knight
 2 Temple of Malady
+2 Polukranos, Unchained
 3 Questing Beast
 3 Lair of the Hydra
-3 Shadows' Verdict
 3 Foulmire Knight
+3 Shadows' Verdict
 3 Temple of Malady
 3 Elder Gargaroth
 3 Power Word Kill
@@ -253,11 +253,11 @@
 4 Elder Gargaroth
 4 Temple of Malady
 4 Foulmire Knight
+1 Valakut Awakening
+1 Storm's Wrath
 1 Fire Prophecy
 1 Jwari Disruption
-1 Valakut Awakening
 1 Temple of Epiphany
-1 Storm's Wrath
 1 Irencrag Feat
 2 Disdainful Stroke
 2 Fire Prophecy
