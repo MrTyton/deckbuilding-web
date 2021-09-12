@@ -1,35 +1,37 @@
 1 Wooded Foothills
 1 Firebolt
 2 Firebolt
+1 Bloodstained Mire
 2 Pyrite Spellbomb
 3 Pyrite Spellbomb
 4 Pyrite Spellbomb
 4 Blast Zone
-1 Bloodstained Mire
 12 Mountain
+3 Firebolt
+2 Wooded Foothills
 1 Unholy Heat
 2 Unholy Heat
 3 Unholy Heat
-3 Firebolt
-2 Wooded Foothills
 1 Arid Mesa
 13 Mountain
-1 Scalding Tarn
 1 Prismatic Vista
-4 Unholy Heat
+1 Scalding Tarn
 3 Wooded Foothills
+4 Unholy Heat
 1 Light Up the Stage
 2 Light Up the Stage
-14 Mountain
-15 Mountain
-3 Light Up the Stage
-2 Arid Mesa
-4 Firebolt
 2 Bloodstained Mire
 1 Radiant Fountain
 2 Radiant Fountain
 3 Radiant Fountain
 4 Radiant Fountain
+14 Mountain
+15 Mountain
+4 Firebolt
+3 Bloodstained Mire
+4 Bloodstained Mire
+3 Light Up the Stage
+2 Arid Mesa
 2 Prismatic Vista
 3 Prismatic Vista
 4 Prismatic Vista
@@ -85,8 +87,6 @@
 3 Dismember
 4 Eldrazi Obligator
 1 Abrade
-3 Bloodstained Mire
-4 Bloodstained Mire
 4 Wooded Foothills
 1 Relic of Progenitus
 2 Relic of Progenitus
@@ -99,12 +99,12 @@
 1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
-2 Scalding Tarn
 3 Cavern of Souls
 1 Magus of the Moon
 2 Magus of the Moon
 3 Magus of the Moon
 4 Magus of the Moon
+2 Scalding Tarn
 1 Gemstone Caverns
 1 Fiery Islet
 2 Fiery Islet
@@ -121,10 +121,6 @@
 3 Abrade
 3 Fiery Islet
 4 Fiery Islet
-1 Hazoret the Fervent
-2 Hazoret the Fervent
-3 Scalding Tarn
-4 Scalding Tarn
 4 Dismember
 1 Snow-Covered Forest
 1 Klothys, God of Destiny

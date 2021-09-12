@@ -15,41 +15,41 @@
 2 Sacred Foundry
 2 Plains
 1 Castle Vantress
-1 Omen of the Sea
 1 Supreme Verdict
-1 The Raven's Warning
 1 Deafening Clarion
 1 Shark Typhoon
 1 Narset, Parter of Veils
 2 Steam Vents
 2 Supreme Verdict
-2 Glacial Fortress
-2 Omen of the Sea
-2 The Raven's Warning
 2 Narset, Parter of Veils
 2 Shark Typhoon
 2 Deafening Clarion
 3 Shark Typhoon
-3 Steam Vents
-3 Glacial Fortress
 3 Supreme Verdict
 3 Narset, Parter of Veils
+4 Narset, Parter of Veils
+1 The Raven's Warning
+1 Omen of the Sea
+2 Glacial Fortress
+2 The Raven's Warning
+2 Omen of the Sea
+3 Steam Vents
+3 Glacial Fortress
 3 Sacred Foundry
 3 Omen of the Sea
 3 The Raven's Warning
 4 Shark Typhoon
 4 Glacial Fortress
 4 Steam Vents
-4 Sacred Foundry
 4 Omen of the Sea
-4 Narset, Parter of Veils
 4 The Raven's Warning
+4 Sacred Foundry
 2 Portable Hole
-1 Hall of Storm Giants
 1 Fires of Invention
 2 Fires of Invention
 3 Fires of Invention
 4 Fires of Invention
+1 Hall of Storm Giants
 2 Radiant Flames
 1 Fiery Impulse
 2 Escape to the Wilds
@@ -95,10 +95,12 @@
 3 Genesis Ultimatum
 2 Yasharn, Implacable Earth
 3 Forest
+1 Sulfur Falls
 1 Detention Sphere
 1 Teferi, Hero of Dominaria
-1 Dovin's Veto
 2 Teferi, Hero of Dominaria
+3 Deafening Clarion
+1 Dovin's Veto
 2 Dovin's Veto
 2 Mystical Dispute
 3 Teferi, Hero of Dominaria
@@ -112,20 +114,19 @@
 4 Lotus Cobra
 4 Genesis Ultimatum
 1 Transmogrify
-1 The Birth of Meletis
 1 Esika's Chariot
+1 The Birth of Meletis
 2 Castle Vantress
-2 The Birth of Meletis
 2 Transmogrify
+2 The Birth of Meletis
 2 Esika's Chariot
 3 The Birth of Meletis
 3 Plains
 3 Esika's Chariot
-3 Deafening Clarion
 3 Transmogrify
 4 Esika's Chariot
-4 The Birth of Meletis
 4 Transmogrify
+4 The Birth of Meletis
 1 Risen Reef
 1 Paradise Druid
 1 Parcelbeast
@@ -153,7 +154,6 @@
 4 Voice of Resurgence
 4 Auspicious Starrix
 4 Paradise Druid
-1 Sulfur Falls
 1 Tolsimir, Friend to Wolves
 3 Rootbound Crag
 4 Escape to the Wilds
@@ -161,3 +161,28 @@
 1 Lumbering Falls
 1 Quicken
 2 Quicken
+1 Needle Spires
+1 Clifftop Retreat
+1 Heart of Kiran
+1 Savai Triome
+1 Geier Reach Sanitarium
+1 Teferi, Master of Time
+1 Chandra, Torch of Defiance
+1 Kaya the Inexorable
+1 Gideon of the Trials
+1 Temple of Epiphany
+1 Jace, Architect of Thought
+1 Elspeth, Sun's Champion
+1 Interplanar Beacon
+1 Fae of Wishes
+1 Wandering Fumarole
+2 Detention Sphere
+2 Heart of Kiran
+2 Chandra, Torch of Defiance
+2 Jace, Architect of Thought
+2 Interplanar Beacon
+2 Fae of Wishes
+3 Interplanar Beacon
+3 Fae of Wishes
+4 Hallowed Fountain
+4 Interplanar Beacon

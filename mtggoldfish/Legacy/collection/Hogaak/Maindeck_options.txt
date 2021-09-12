@@ -24,7 +24,6 @@
 1 Once Upon a Time
 2 Once Upon a Time
 1 Kitchen Imp
-1 Taiga
 1 Lion's Eye Diamond
 1 Blazing Rootwalla
 1 Mountain
@@ -32,6 +31,7 @@
 1 Basking Rootwalla
 1 Gamble
 1 Ox of Agonas
+1 Taiga
 2 Gamble
 2 Kitchen Imp
 2 Mountain
@@ -47,8 +47,8 @@
 3 Anje's Ravager
 3 Basking Rootwalla
 3 Once Upon a Time
-4 Putrid Imp
 4 Kitchen Imp
+4 Putrid Imp
 4 Anje's Ravager
 4 Basking Rootwalla
 4 Blazing Rootwalla
@@ -63,10 +63,10 @@
 2 Scalding Tarn
 2 Anger
 3 Arid Mesa
-3 Scalding Tarn
 3 Burning Inquiry
-4 Arid Mesa
+3 Scalding Tarn
 4 Scalding Tarn
+4 Arid Mesa
 4 Burning Inquiry
 4 Cabal Therapy
 1 Darkblast

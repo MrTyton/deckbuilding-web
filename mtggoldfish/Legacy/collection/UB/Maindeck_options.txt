@@ -1,17 +1,17 @@
-1 Darkblast
-1 Baleful Strix
-2 Baleful Strix
-1 Preordain
-1 Brazen Borrower
 2 Preordain
+3 Baleful Strix
+4 Baleful Strix
+2 Murktide Regent
+3 Murktide Regent
+2 True-Name Nemesis
+1 Darkblast
+1 Brazen Borrower
+1 Flooded Strand
+1 Swamp
 3 Watery Grave
 2 Snuff Out
 4 Street Wraith
-1 Swamp
-3 Baleful Strix
-4 Baleful Strix
 2 Island
-1 Flooded Strand
 2 Brazen Borrower
 1 Bloodstained Mire
 1 Reanimate
@@ -20,6 +20,7 @@
 2 Stifle
 3 Stifle
 4 Stifle
+2 Flooded Strand
 1 Marsh Flats
 2 Verdant Catacombs
 2 Marsh Flats
@@ -33,28 +34,76 @@
 3 Misty Rainforest
 4 Misty Rainforest
 4 Underground Sea
-2 Flooded Strand
 1 Gurmag Angler
 2 Gurmag Angler
 3 Gurmag Angler
+1 Urza's Saga
+1 Mox Opal
+1 Thought Monitor
+1 Seat of the Synod
+2 Urza's Saga
+2 Seat of the Synod
+2 Mox Opal
+2 Thought Monitor
+3 Urza's Saga
+3 Mox Opal
+3 Thought Monitor
+3 Seat of the Synod
+4 Urza's Saga
+4 Thought Monitor
+4 Seat of the Synod
+1 Painter's Servant
+1 Grindstone
+1 Ancient Tomb
+1 Hydroblast
+1 Lotus Petal
+2 Grindstone
+2 Painter's Servant
+2 Ancient Tomb
+2 Hydroblast
+2 Lotus Petal
+3 Grindstone
+3 Painter's Servant
+3 Ancient Tomb
+3 Preordain
+3 Hydroblast
+3 Lotus Petal
+4 Painter's Servant
+4 Ancient Tomb
+4 Grindstone
+4 Preordain
+1 Emry, Lurker of the Loch
+1 Mishra's Bauble
+2 Emry, Lurker of the Loch
+2 Mishra's Bauble
+3 Mishra's Bauble
+3 Emry, Lurker of the Loch
+1 Pithing Needle
+1 Retrofitter Foundry
 1 Volcanic Island
 1 Lightning Bolt
 2 Lightning Bolt
+1 Welding Jar
+1 Snow-Covered Island
+1 Ethereal Forager
+1 Snow-Covered Swamp
+1 Liliana, the Last Hope
+2 Force of Negation
+2 Snow-Covered Island
 1 Spell Snare
 1 Snapcaster Mage
 2 Spell Snare
 2 Snapcaster Mage
 2 Reanimate
-1 Snow-Covered Island
-1 Ethereal Forager
-1 Snow-Covered Swamp
-1 Liliana, the Last Hope
-2 Snow-Covered Island
-2 Force of Negation
 1 Spell Pierce
 2 Bloodstained Mire
 2 Spell Pierce
 3 Bloodstained Mire
+1 Relic of Progenitus
+1 Tezzeret, Agent of Bolas
+2 Tezzeret, Agent of Bolas
+3 Tezzeret, Agent of Bolas
+4 Hydroblast
 1 Stubborn Denial
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
@@ -92,3 +141,16 @@
 3 Volcanic Island
 3 Lightning Bolt
 4 Lightning Bolt
+1 Scrubland
+1 Portable Hole
+1 Tormod's Crypt
+1 Shadowspear
+1 Tundra
+1 Sai, Master Thopterist
+2 Portable Hole
+2 Sai, Master Thopterist
+3 Portable Hole
+4 Portable Hole
+4 Emry, Lurker of the Loch
+4 Mishra's Bauble
+4 Mox Opal

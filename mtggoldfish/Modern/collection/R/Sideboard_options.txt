@@ -4,11 +4,11 @@
 3 Void Mirror
 2 Kozilek's Return
 4 Void Mirror
-1 Ensnaring Bridge
-2 Ensnaring Bridge
 1 Pyrite Spellbomb
 2 Pyrite Spellbomb
 3 Pyrite Spellbomb
+1 Ensnaring Bridge
+2 Ensnaring Bridge
 4 Pyrite Spellbomb
 3 Ensnaring Bridge
 4 Ensnaring Bridge
@@ -25,23 +25,17 @@
 2 Abrade
 1 Chalice of the Void
 2 Chalice of the Void
-3 Soul-Guide Lantern
 1 Boil
 2 Boil
 3 Engineered Explosives
-3 Kozilek's Return
 1 Obsidian Charmaw
 1 Alpine Moon
 2 Alpine Moon
 1 Gut Shot
 2 Gut Shot
-1 Dragon's Claw
-2 Dragon's Claw
-3 Dragon's Claw
-4 Soul-Guide Lantern
+3 Kozilek's Return
 4 Blood Moon
-1 Ancient Grudge
-2 Ancient Grudge
+3 Soul-Guide Lantern
 1 Meteor Swarm
 2 Meteor Swarm
 1 Oblivion Stone
@@ -50,6 +44,9 @@
 1 Destructive Revelry
 2 Veil of Summer
 3 Alpine Moon
+1 Dragon's Claw
+2 Dragon's Claw
+3 Dragon's Claw
 2 Obsidian Charmaw
 3 Obsidian Charmaw
 4 Obsidian Charmaw
@@ -59,6 +56,6 @@
 2 Eldrazi Obligator
 3 Eldrazi Obligator
 4 Eldrazi Obligator
-1 Stormbreath Dragon
-1 Emrakul, the Aeons Torn
-4 Dragon's Claw
+1 Ancient Grudge
+2 Ancient Grudge
+4 Soul-Guide Lantern
