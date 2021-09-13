@@ -1,24 +1,24 @@
 4 Llanowar Elves
-4 Elvish Mystic
 4 Gilded Goose
+4 Elvish Mystic
 2 Blood Crypt
 4 Overgrown Tomb
 2 Korvold, Fae-Cursed King
 1 Forest
 1 Klothys, God of Destiny
-2 Stomping Ground
-1 Trail of Crumbs
-1 Witch's Oven
 1 Cauldron Familiar
-2 Trail of Crumbs
+1 Witch's Oven
+1 Trail of Crumbs
 2 Cauldron Familiar
 2 Witch's Oven
+2 Trail of Crumbs
 3 Cauldron Familiar
 3 Witch's Oven
 3 Trail of Crumbs
 4 Witch's Oven
-4 Cauldron Familiar
 4 Trail of Crumbs
+4 Cauldron Familiar
+2 Stomping Ground
 1 Fabled Passage
 1 Mountain
 2 Fabled Passage
@@ -26,7 +26,6 @@
 1 Lovestruck Beast
 2 Lovestruck Beast
 4 Korvold, Fae-Cursed King
-3 Stomping Ground
 1 Lair of the Hydra
 3 Lovestruck Beast
 4 Lovestruck Beast
@@ -35,28 +34,28 @@
 1 The Akroan War
 2 The Akroan War
 3 Bonecrusher Giant
+3 Stomping Ground
 2 Lair of the Hydra
 1 Binding the Old Gods
 2 Forest
-2 Klothys, God of Destiny
 4 Bonecrusher Giant
 1 Fatal Push
 2 Fatal Push
 2 Swamp
 1 Snow-Covered Swamp
-1 Llanowar Wastes
 1 Urborg, Tomb of Yawgmoth
 1 Castle Locthwain
 2 Castle Locthwain
 2 Binding the Old Gods
 3 Fabled Passage
+2 Klothys, God of Destiny
 1 Satyr Wayfinder
 1 Kroxa, Titan of Death's Hunger
 1 Dragonskull Summit
 2 Satyr Wayfinder
 2 Kroxa, Titan of Death's Hunger
 3 Satyr Wayfinder
-2 Llanowar Wastes
+1 Llanowar Wastes
 1 Tireless Tracker
 2 Tireless Tracker
 1 Zulaport Cutthroat
@@ -65,6 +64,7 @@
 1 Courser of Kruphix
 2 Courser of Kruphix
 1 Liliana, Heretical Healer
+2 Llanowar Wastes
 2 Snow-Covered Swamp
 1 Dreadbore
 2 Dreadbore
@@ -89,6 +89,3 @@
 3 Shambling Ghast
 4 Deadly Dispute
 4 Shambling Ghast
-3 Blood Crypt
-4 Stomping Ground
-4 Blood Crypt

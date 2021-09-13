@@ -1,14 +1,26 @@
-3 Mystic Forge
-3 Basalt Monolith
-3 Grim Monolith
-3 Voltaic Key
-3 Defense Grid
-4 Defense Grid
-4 Mystic Forge
-4 Grim Monolith
-4 Hullbreacher
+1 Hullbreacher
+2 Chalice of the Void
+2 Urza, Lord High Artificer
+2 Hullbreacher
+3 Chalice of the Void
+3 Urza, Lord High Artificer
+4 Chalice of the Void
 1 Walking Ballista
+3 Hullbreacher
+4 Hullbreacher
+4 Voltaic Key
+1 Emry, Lurker of the Loch
+2 Emry, Lurker of the Loch
+3 Emry, Lurker of the Loch
 1 Narset, Parter of Veils
+4 Emry, Lurker of the Loch
+4 Urza, Lord High Artificer
+1 Sai, Master Thopterist
+2 Narset, Parter of Veils
+1 Seat of the Synod
+2 Seat of the Synod
+3 Seat of the Synod
+4 Seat of the Synod
 1 Chrome Mox
 1 Sea Gate Restoration
 2 Chrome Mox
@@ -16,7 +28,6 @@
 3 Chrome Mox
 3 Sea Gate Restoration
 4 Sea Gate Restoration
-2 Narset, Parter of Veils
 1 Intuition
 1 Day's Undoing
 2 Intuition
@@ -30,35 +41,24 @@
 6 Island
 7 Island
 8 Island
-1 Emry, Lurker of the Loch
-2 Emry, Lurker of the Loch
-3 Emry, Lurker of the Loch
-4 Emry, Lurker of the Loch
-4 Urza, Lord High Artificer
-4 Voltaic Key
-1 Sai, Master Thopterist
-1 Seat of the Synod
-2 Seat of the Synod
-3 Seat of the Synod
-4 Seat of the Synod
-1 Mishra's Bauble
 1 Urza's Bauble
-2 Mishra's Bauble
 2 Urza's Bauble
 3 Urza's Bauble
+1 Mishra's Bauble
+1 Shadowspear
+2 Mishra's Bauble
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
-3 Manifold Key
-1 Shadowspear
-3 Mishra's Bauble
 1 Retrofitter Foundry
+1 Cavern of Souls
+2 Cavern of Souls
+3 Mishra's Bauble
 1 Expedition Map
 1 Crystal Vein
 1 Inventors' Fair
 2 Inventors' Fair
-1 Cavern of Souls
-2 Cavern of Souls
+3 Manifold Key
 2 Sai, Master Thopterist
 4 Snow-Covered Island
 4 Urza's Bauble
@@ -67,8 +67,8 @@
 4 Mishra's Bauble
 5 Snow-Covered Island
 1 Ghirapur Aether Grid
-1 Teferi, Time Raveler
 1 Karakas
+1 Teferi, Time Raveler
 1 Tundra
 1 Flooded Strand
 2 Flooded Strand
@@ -85,8 +85,8 @@
 2 Scalding Tarn
 2 Volcanic Island
 3 Scalding Tarn
-1 Mox Amber
 1 Engineered Explosives
+1 Mox Amber
 1 Glimmervoid
 2 Engineered Explosives
 2 Glimmervoid

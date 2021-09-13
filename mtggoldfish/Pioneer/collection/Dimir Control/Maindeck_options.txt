@@ -1,15 +1,16 @@
-2 Narset, Parter of Veils
-2 Hieroglyphic Illumination
+2 Blast Zone
 1 Geier Reach Sanitarium
 4 Fabled Passage
+2 Hieroglyphic Illumination
 1 Commit/Memory
+3 Narset, Parter of Veils
 1 Thoughtseize
 2 Thoughtseize
 3 Clearwater Pathway
-3 Narset, Parter of Veils
 1 Baleful Mastery
 1 Castle Vantress
 1 Thassa's Intervention
+2 Baleful Mastery
 1 Search for Azcanta
 1 Thing in the Ice
 1 Opt
@@ -18,7 +19,7 @@
 3 Thing in the Ice
 3 Opt
 4 Opt
-2 Baleful Mastery
+2 Extinction Event
 1 Silundi Vision
 2 Silundi Vision
 3 Swamp
@@ -29,7 +30,6 @@
 1 Castle Locthwain
 1 Erebos's Intervention
 2 Bloodchief's Thirst
-2 Extinction Event
 3 Thoughtseize
 1 Hive of the Eye Tyrant
 4 Thoughtseize
@@ -37,6 +37,7 @@
 2 Negate
 3 Field of Ruin
 1 Behold the Multiverse
+4 Fetid Pools
 1 Power Word Kill
 1 Syncopate
 2 Syncopate
@@ -56,32 +57,28 @@
 1 Collective Brutality
 1 Ashiok, Nightmare Weaver
 2 Ashiok, Nightmare Weaver
+1 Duress
 1 Tasigur, the Golden Fang
 1 Sea Gate Stormcaller
 1 Treasure Cruise
-1 Duress
 1 Strategic Planning
 2 Ashiok, Nightmare Muse
 2 Sea Gate Stormcaller
 1 Kalitas, Traitor of Ghet
 2 Kalitas, Traitor of Ghet
 3 Heartless Act
-1 Mystical Dispute
-1 Void Shatter
-2 Void Shatter
-3 Void Shatter
 1 Zagoth Triome
-1 Abrupt Decay
-1 Hinterland Harbor
 1 Breeding Pool
+1 Hinterland Harbor
+1 Abrupt Decay
 1 Woodland Cemetery
 1 Growth Spiral
 1 Eureka Moment
 1 Overgrown Tomb
 1 Lumbering Falls
 1 Forest
-2 Abrupt Decay
 2 Breeding Pool
+2 Abrupt Decay
 2 Zagoth Triome
 2 Growth Spiral
 2 Overgrown Tomb
@@ -89,4 +86,7 @@
 3 Growth Spiral
 4 Zagoth Triome
 4 Growth Spiral
-4 Fetid Pools
+1 Mystical Dispute
+1 Void Shatter
+2 Void Shatter
+3 Void Shatter

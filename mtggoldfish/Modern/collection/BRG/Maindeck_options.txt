@@ -1,79 +1,99 @@
-1 Sacred Foundry
-2 Prismatic Ending
+1 Windswept Heath
+2 Arid Mesa
+2 Windswept Heath
 1 Mountain
+1 Blood Crypt
+1 Overgrown Tomb
+3 Prismatic Ending
+2 Bloodstained Mire
+3 Bloodstained Mire
 1 Yavimaya, Cradle of Growth
 1 Titania, Protector of Argoth
 1 Zuran Orb
 1 Snow-Covered Plains
 1 Scalding Tarn
+1 Steam Vents
 1 Fiery Islet
-1 Blood Crypt
-2 Bloodstained Mire
-3 Bloodstained Mire
-1 Overgrown Tomb
 1 Nurturing Peatland
 1 Grist, the Hunger Tide
-1 Kolaghan's Command
+2 Verdant Catacombs
 1 Liliana of the Veil
-1 Fatal Push
-1 Blackcleave Cliffs
+1 Kolaghan's Command
 1 Inquisition of Kozilek
+1 Blackcleave Cliffs
+1 Fatal Push
 1 Swamp
 2 Liliana of the Veil
-2 Fatal Push
-2 Blackcleave Cliffs
 2 Swamp
 2 Inquisition of Kozilek
+2 Blackcleave Cliffs
+2 Fatal Push
 3 Liliana of the Veil
 3 Inquisition of Kozilek
-2 Verdant Catacombs
 2 Overgrown Tomb
 2 Seasoned Pyromancer
 4 Inquisition of Kozilek
+4 Prismatic Ending
 1 Abrupt Decay
 2 Grist, the Hunger Tide
 3 Verdant Catacombs
 4 Verdant Catacombs
 1 Ghost Quarter
-2 Arid Mesa
-3 Prismatic Ending
 1 Kroxa, Titan of Death's Hunger
 2 Kolaghan's Command
+4 Unholy Heat
+1 Misty Rainforest
 2 Abrupt Decay
 1 Tourach, Dread Cantor
 2 Kroxa, Titan of Death's Hunger
 3 Blackcleave Cliffs
 1 Sunbaked Canyon
 2 Fury
-4 Unholy Heat
-1 Misty Rainforest
 1 Pithing Needle
 1 Raging Ravine
 1 Forgotten Cave
-2 Snow-Covered Mountain
-1 Springleaf Drum
 2 Misty Rainforest
-4 Prismatic Ending
+1 Expressive Iteration
+2 Expressive Iteration
+1 Springleaf Drum
+1 Fire/Ice
+2 Fire/Ice
+2 Steam Vents
+3 Misty Rainforest
+3 Expressive Iteration
+4 Expressive Iteration
+4 Misty Rainforest
+3 Arid Mesa
+4 Arid Mesa
+1 Tribal Flames
+1 Territorial Kavu
+1 Scourge of the Skyclaves
+2 Tribal Flames
+2 Territorial Kavu
+2 Scourge of the Skyclaves
+3 Tribal Flames
+3 Territorial Kavu
+3 Scourge of the Skyclaves
+4 Tribal Flames
+4 Territorial Kavu
+4 Bloodstained Mire
+2 Snow-Covered Mountain
+1 Wild Nacatl
+1 Rancor
+2 Rancor
+2 Wild Nacatl
+3 Wild Nacatl
+4 Wild Nacatl
 1 Ignoble Hierarch
 2 Ignoble Hierarch
 3 Ignoble Hierarch
-1 Expressive Iteration
-1 Steam Vents
 1 Aether Spellbomb
-1 Fire/Ice
-2 Expressive Iteration
-2 Steam Vents
-2 Fire/Ice
-3 Misty Rainforest
-3 Expressive Iteration
 3 Fire/Ice
-4 Misty Rainforest
-4 Expressive Iteration
 3 Windswept Heath
 4 Windswept Heath
+1 Breeding Pool
 1 Thoughtseize
 1 Bloodbraid Marauder
-1 Breeding Pool
 1 Spirebluff Canal
 4 Fire/Ice
 1 Chandra, Torch of Defiance
@@ -96,36 +116,43 @@
 2 Grim Flayer
 3 Grim Flayer
 4 Grim Flayer
+1 Stubborn Denial
 2 Mountain
 1 Inspiring Vantage
+1 Marsh Flats
+2 Marsh Flats
 1 Assassin's Trophy
+1 Esper Sentinel
+2 Esper Sentinel
+3 Steam Vents
+2 Scalding Tarn
 4 Blackcleave Cliffs
 2 Blood Crypt
 2 Thoughtseize
 3 Thoughtseize
-4 Bloodstained Mire
 1 Lurrus of the Dream-Den
 1 Fire-Lit Thicket
-1 Magus of the Moon
 1 Tireless Tracker
-2 Scalding Tarn
+1 Magus of the Moon
+1 Lightning Helix
+2 Lightning Helix
 1 Foundation Breaker
 2 Snow-Covered Forest
 3 Copperline Gorge
-3 Steam Vents
-1 Seal of Fire
-1 Esper Sentinel
-1 Expedition Map
 1 Horizon Canopy
+1 Seal of Fire
+1 Expedition Map
 1 Plains
-2 Esper Sentinel
-3 Arid Mesa
 3 Esper Sentinel
-4 Arid Mesa
 1 Den of the Bugbear
 2 Assassin's Trophy
 2 Bonecrusher Giant
 4 Liliana of the Veil
+1 Abundant Harvest
+1 Boros Charm
+2 Boros Charm
+3 Boros Charm
+4 Boros Charm
 1 Magmatic Channeler
 1 Blood Moon
 1 Dreadbore
@@ -136,10 +163,29 @@
 3 Kroxa, Titan of Death's Hunger
 3 Swamp
 3 Blood Crypt
-3 Fatal Push
 3 Blood Moon
 3 Polluted Delta
 3 Seasoned Pyromancer
+3 Fatal Push
 4 Swamp
 4 Polluted Delta
 4 Seasoned Pyromancer
+4 Scourge of the Skyclaves
+1 Manamorphose
+1 Ketria Triome
+1 Demilich
+1 Island
+1 Thought Scour
+2 Manamorphose
+2 Breeding Pool
+2 Demilich
+2 Thought Scour
+3 Manamorphose
+3 Demilich
+3 Scalding Tarn
+3 Thought Scour
+4 Manamorphose
+4 Scalding Tarn
+4 Steam Vents
+4 Demilich
+4 Thought Scour

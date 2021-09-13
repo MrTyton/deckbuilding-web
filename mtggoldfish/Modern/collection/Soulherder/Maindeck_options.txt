@@ -114,8 +114,8 @@
 1 Seal of Fire
 1 Fury
 1 Lurrus of the Dream-Den
-2 Fury
 2 Seal of Fire
+2 Fury
 3 Seal of Fire
 4 Seal of Fire
 1 Militia Bugler
@@ -124,8 +124,8 @@
 2 Scalding Tarn
 3 Scalding Tarn
 3 Militia Bugler
-4 Charming Prince
 4 Scalding Tarn
+4 Charming Prince
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
@@ -153,8 +153,8 @@
 2 Oath of Nissa
 3 Oath of Nissa
 4 Oath of Nissa
-1 Rugged Prairie
 1 Reflecting Pool
+1 Rugged Prairie
 1 Force of Negation
 2 Force of Negation
 3 Force of Negation
@@ -192,17 +192,17 @@
 1 Bloodstained Mire
 2 Auriok Champion
 3 Auriok Champion
-4 Auriok Champion
 4 Snow-Covered Plains
+4 Auriok Champion
 4 Militia Bugler
 4 Prismatic Vista
 1 Needleverge Pathway
 1 Inspiring Vantage
 1 Sunbaked Canyon
 1 Emeria's Call
-2 Needleverge Pathway
 2 Sunbaked Canyon
 2 Inspiring Vantage
+2 Needleverge Pathway
 3 Inspiring Vantage
 3 Sunbaked Canyon
 4 Inspiring Vantage
@@ -232,14 +232,14 @@
 3 Field of Ruin
 3 Hallowed Fountain
 3 Elite Spellbinder
-4 Seachrome Coast
 4 Elite Spellbinder
 4 Glasspool Mimic
+4 Field of Ruin
 4 Hengegate Pathway
 4 Watcher for Tomorrow
-4 Field of Ruin
 4 Hallowed Fountain
 4 Flickerwisp
+4 Seachrome Coast
 6 Plains
 1 Verdant Catacombs
 1 Botanical Sanctum
@@ -250,12 +250,6 @@
 1 Lonis, Cryptozoologist
 1 Indatha Triome
 2 Deputy of Detention
-1 Time Warp
-1 Arctic Treeline
-1 Rimewood Falls
-2 Restoration Angel
-3 Restoration Angel
-3 Snow-Covered Island
 1 Lavinia, Azorius Renegade
 3 Path to Exile
 1 Vesperlark
@@ -263,6 +257,12 @@
 1 Coiling Oracle
 2 Coiling Oracle
 3 Coiling Oracle
+1 Time Warp
+1 Arctic Treeline
+1 Rimewood Falls
+2 Restoration Angel
+3 Snow-Covered Island
+3 Restoration Angel
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Felidar Guardian

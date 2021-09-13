@@ -47,15 +47,15 @@
 2 Aether Vial
 2 The Underworld Cookbook
 2 Asmoranomardicadaistinaculdacar
+3 The Underworld Cookbook
 3 Gilded Goose
 3 Emry, Lurker of the Loch
 3 Misty Rainforest
 3 Asmoranomardicadaistinaculdacar
 3 Aether Vial
-3 The Underworld Cookbook
+4 The Underworld Cookbook
 4 Gilded Goose
 4 Emry, Lurker of the Loch
-4 The Underworld Cookbook
 4 Misty Rainforest
 4 Aether Vial
 3 Scalding Tarn
@@ -66,17 +66,18 @@
 1 Talisman of Dominance
 1 Torpor Orb
 1 Underground River
+1 Darkslick Shores
 1 Grafdigger's Cage
 1 Collective Brutality
 1 Thoughtseize
 1 Inquisition of Kozilek
 1 Codex Shredder
 1 River of Tears
-1 Darkslick Shores
 1 Lantern of Insight
 1 Pyxis of Pandemonium
 1 Karn, the Great Creator
 2 Underground River
+2 Darkslick Shores
 2 Collective Brutality
 2 Pithing Needle
 2 Thoughtseize
@@ -85,7 +86,6 @@
 2 Codex Shredder
 2 Talisman of Dominance
 2 Ensnaring Bridge
-2 Darkslick Shores
 2 Lantern of Insight
 2 Inquisition of Kozilek
 3 Darkslick Shores
@@ -129,8 +129,8 @@
 3 Academy Manufactor
 3 Ovalchase Daredevil
 3 Cryptic Command
-4 Academy Manufactor
 4 Asmoranomardicadaistinaculdacar
+4 Academy Manufactor
 1 Lurrus of the Dream-Den
 1 Talisman of Creativity
 2 Plains
@@ -171,5 +171,5 @@
 3 Ingenious Smith
 4 Ingenious Smith
 4 Chalice of the Void
-6 Island
 5 Island
+6 Island

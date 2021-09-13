@@ -4,40 +4,39 @@
 2 Snow-Covered Swamp
 1 Underground Sea
 3 Polluted Delta
-4 Thoughtseize
 3 Bloodstained Mire
 1 Cabal Therapy
-4 Polluted Delta
+4 Thoughtseize
 1 Chrome Mox
 4 Bloodstained Mire
+4 Polluted Delta
+3 Marsh Flats
 1 Sire of Insanity
 3 Snow-Covered Swamp
-3 Marsh Flats
+1 Vilis, Broker of Blood
 3 Grief
 3 Swamp
-1 Vilis, Broker of Blood
-3 Verdant Catacombs
-1 Unmarked Grave
-2 Unmarked Grave
-3 Unmarked Grave
-4 Unmarked Grave
-4 Grief
+1 Tendrils of Agony
+1 Children of Korlis
 1 Lake of the Dead
-4 Swamp
 4 Marsh Flats
 1 Grave Titan
 1 Collective Brutality
 2 Collective Brutality
 2 Grave Titan
-1 Tendrils of Agony
-1 Children of Korlis
-4 Verdant Catacombs
+3 Verdant Catacombs
+4 Grief
+1 Unmarked Grave
+2 Unmarked Grave
+3 Unmarked Grave
+4 Unmarked Grave
 2 Chrome Mox
 2 Underground Sea
 2 Archon of Cruelty
 3 Collective Brutality
 3 Grave Titan
 4 Grave Titan
+4 Swamp
 5 Swamp
 6 Swamp
 7 Swamp
@@ -77,35 +76,7 @@
 4 Intuition
 1 Inkwell Leviathan
 3 Badlands
-1 Snapcaster Mage
-1 Delver of Secrets
-1 Scalding Tarn
-1 Ox of Agonas
-1 Daze
-1 Lightning Bolt
-1 Dragon's Rage Channeler
-1 Wasteland
-1 Volcanic Island
-1 Force of Negation
-2 Snapcaster Mage
-2 Delver of Secrets
-2 Scalding Tarn
-2 Daze
-2 Dragon's Rage Channeler
-2 Lightning Bolt
-2 Wasteland
-2 Volcanic Island
-3 Delver of Secrets
-3 Scalding Tarn
-3 Lightning Bolt
-3 Volcanic Island
-3 Dragon's Rage Channeler
-3 Daze
-4 Delver of Secrets
-4 Scalding Tarn
-4 Lightning Bolt
-4 Dragon's Rage Channeler
-4 Daze
+4 Verdant Catacombs
 1 Careful Study
 2 Careful Study
 3 Archon of Cruelty
@@ -113,6 +84,35 @@
 4 Underground Sea
 4 Archon of Cruelty
 4 Careful Study
+1 Force of Negation
+1 Snapcaster Mage
+1 Delver of Secrets
+1 Daze
+1 Ox of Agonas
+1 Scalding Tarn
+1 Dragon's Rage Channeler
+1 Lightning Bolt
+1 Wasteland
+1 Volcanic Island
+2 Snapcaster Mage
+2 Delver of Secrets
+2 Daze
+2 Scalding Tarn
+2 Dragon's Rage Channeler
+2 Lightning Bolt
+2 Wasteland
+2 Volcanic Island
+3 Delver of Secrets
+3 Scalding Tarn
+3 Dragon's Rage Channeler
+3 Lightning Bolt
+3 Daze
+3 Volcanic Island
+4 Delver of Secrets
+4 Scalding Tarn
+4 Dragon's Rage Channeler
+4 Daze
+4 Lightning Bolt
 1 Burning Wish
 1 Arid Mesa
 1 Goryo's Vengeance

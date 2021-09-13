@@ -42,6 +42,6 @@
 |                    1|[Voltaic Key](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207889) |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)      |
 |                    2|[Voltaic Key](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207889) |                    1|[Basalt Monolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=599)        |
 |                    3|[Basalt Monolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=599)|                    1|[Mesmeric Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30008)         |
-|                    3|[Voltaic Key](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207889) |                    1|[Aetherflux Reservoir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417765)|
-|                    4|[Basalt Monolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=599)|                    2|[Voltaic Key](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207889)         |
+|                    4|[Basalt Monolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=599)|                    1|[Aetherflux Reservoir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417765)|
+|                    3|[Voltaic Key](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207889) |                    2|[Voltaic Key](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207889)         |
 
