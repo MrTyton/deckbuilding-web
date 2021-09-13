@@ -83,7 +83,6 @@
 1 Elspeth's Nightmare
 1 Calix, Destiny's Hand
 1 Setessan Champion
-1 Tolsimir, Friend to Wolves
 1 In Search of Greatness
 1 Glacial Fortress
 1 Oath of Kaya
@@ -92,6 +91,7 @@
 1 Deputy of Detention
 1 Hinterland Harbor
 1 Yasharn, Implacable Earth
+1 Tolsimir, Friend to Wolves
 2 Woodland Cemetery
 2 Elspeth's Nightmare
 2 Setessan Champion
@@ -108,10 +108,10 @@
 3 In Search of Greatness
 3 Trial of Ambition
 4 Trial of Ambition
-4 Binding the Old Gods
 4 Zagoth Triome
 4 Glacial Fortress
 4 In Search of Greatness
+4 Binding the Old Gods
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
@@ -164,16 +164,16 @@
 3 Cultivate
 3 Mirari's Wake
 4 Cultivate
-1 Lotus Cobra
 1 Watery Grave
+1 Lotus Cobra
 1 Gilded Goose
 1 Fabled Passage
 2 Lotus Cobra
 2 Gilded Goose
 2 Fabled Passage
 2 Swamp
-3 Lotus Cobra
 3 Swamp
+3 Lotus Cobra
 3 Fabled Passage
 3 Gilded Goose
 5 Forest
@@ -189,9 +189,10 @@
 3 Cragcrown Pathway
 3 Steam Vents
 4 Steam Vents
-1 Solemn Simulacrum
+1 Escape to the Wilds
 1 Finale of Devastation
 1 Terror of the Peaks
+1 Solemn Simulacrum
 1 Savai Triome
 1 Omen of the Forge
 1 Branchloft Pathway
@@ -232,19 +233,17 @@
 1 Honden of Life's Web
 1 Migration Path
 1 Godless Shrine
-1 Escape to the Wilds
 1 Sanctum of Fruitful Harvest
 1 Sanctum of Tranquil Light
 1 Trial of Knowledge
-2 Escape to the Wilds
 2 Stomping Ground
 2 Solemn Simulacrum
+2 Escape to the Wilds
 2 Finale of Devastation
 2 The Birth of Meletis
 2 Branchloft Pathway
 2 Evolving Wilds
 2 Watery Grave
-2 Treacherous Blessing
 2 Dryad of the Ilysian Grove
 2 Uro, Titan of Nature's Wrath
 2 Archon of Sun's Grace
@@ -261,6 +260,7 @@
 2 Sacred Foundry
 2 Thirst for Meaning
 2 Sanctum of All
+2 Treacherous Blessing
 2 Honden of Infinite Rage
 2 Trial of Knowledge
 2 Terror of the Peaks
@@ -273,18 +273,17 @@
 2 Prophetic Prism
 2 Medomai's Prophecy
 2 Ketria Triome
-3 Escape to the Wilds
 3 Mountain
-3 Savai Triome
 3 Fae of Wishes
 3 Watery Grave
 3 Branchloft Pathway
 3 Evolving Wilds
 3 Stomping Ground
+3 Savai Triome
 3 Dryad of the Ilysian Grove
-3 Treacherous Blessing
 3 Wrath of God
 3 Deafening Clarion
+3 Escape to the Wilds
 3 Sanctum of Stone Fangs
 3 Renegade Map
 3 Idyllic Tutor
@@ -299,17 +298,18 @@
 3 Sacred Foundry
 3 Hallowed Fountain
 3 Prophetic Prism
+3 Treacherous Blessing
 3 Sanctum of All
 4 Fae of Wishes
 4 Island
 4 Wrath of God
 4 Fabled Passage
 4 Breeding Pool
-4 Lotus Cobra
 4 Watery Grave
 4 Temple Garden
 4 Dryad of the Ilysian Grove
 4 Stomping Ground
+4 Lotus Cobra
 4 Prophetic Prism
 4 Treacherous Blessing
 4 Renegade Map
@@ -370,8 +370,6 @@
 1 The Great Henge
 1 Castle Vantress
 1 Necroblossom Snarl
-1 Auspicious Starrix
-1 Migratory Greathorn
 1 Temple of Malady
 1 Castle Locthwain
 1 Temple of Deceit
@@ -388,30 +386,32 @@
 1 Dirge Bat
 1 Nethroi, Apex of Death
 1 Vineglimmer Snarl
+1 Migratory Greathorn
+1 Auspicious Starrix
 1 Barkchannel Pathway
 1 Boneyard Lurker
 1 Pollywog Symbiote
 1 Pouncing Shoreshark
 1 Insatiable Hemophage
-2 Auspicious Starrix
-2 Migratory Greathorn
 2 Paradise Druid
 2 Nissa, Who Shakes the World
 2 Gemrazer
 2 Insatiable Hemophage
 2 Boneyard Lurker
+2 Auspicious Starrix
 2 Dirge Bat
+2 Migratory Greathorn
 2 Season of Growth
 2 Pollywog Symbiote
 2 Darkbore Pathway
 2 Pouncing Shoreshark
-3 Migratory Greathorn
-3 Auspicious Starrix
 3 Paradise Druid
 3 Gemrazer
 3 Insatiable Hemophage
 3 Boneyard Lurker
+3 Auspicious Starrix
 3 Pollywog Symbiote
+3 Migratory Greathorn
 1 Alrund's Epiphany
 2 Alrund's Epiphany
 1 Felidar Retreat

@@ -27,13 +27,14 @@
 
 # Pioneer
 
-|                              A                              |                                 B                                 |                                  C                                  |                        D                        |                      E                      |
-|-------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------|---------------------------------------------|
-|[BRG](./mtggoldfish/Pioneer/decks/BRG.md)                    |[G](./mtggoldfish/Pioneer/decks/G.md)                              |[Naya Winota](./mtggoldfish/Pioneer/decks/Naya_Winota.md)            |[Spirits](./mtggoldfish/Pioneer/decks/Spirits.md)|[WR](./mtggoldfish/Pioneer/decks/WR.md)      |
-|[BR](./mtggoldfish/Pioneer/decks/BR.md)                      |[Hidden Strings](./mtggoldfish/Pioneer/decks/Hidden_Strings.md)    |[Niv to Light](./mtggoldfish/Pioneer/decks/Niv_to_Light.md)          |[URG](./mtggoldfish/Pioneer/decks/URG.md)        |[WUBRG](./mtggoldfish/Pioneer/decks/WUBRG.md)|
-|[B](./mtggoldfish/Pioneer/decks/B.md)                        |[Izzet Phoenix](./mtggoldfish/Pioneer/decks/Izzet_Phoenix.md)      |[RG](./mtggoldfish/Pioneer/decks/RG.md)                              |[UR](./mtggoldfish/Pioneer/decks/UR.md)          |[WUB](./mtggoldfish/Pioneer/decks/WUB.md)    |
-|[Burn](./mtggoldfish/Pioneer/decks/Burn.md)                  |[Mono-Black Aggro](./mtggoldfish/Pioneer/decks/Mono-Black_Aggro.md)|[R](./mtggoldfish/Pioneer/decks/R.md)                                |[WB](./mtggoldfish/Pioneer/decks/WB.md)          |[WURG](./mtggoldfish/Pioneer/decks/WURG.md)  |
-|[Dimir Control](./mtggoldfish/Pioneer/decks/Dimir_Control.md)|[Mono-Red Aggro](./mtggoldfish/Pioneer/decks/Mono-Red_Aggro.md)    |[Rakdos Pyromancer](./mtggoldfish/Pioneer/decks/Rakdos_Pyromancer.md)|[WG](./mtggoldfish/Pioneer/decks/WG.md)          |[WUR](./mtggoldfish/Pioneer/decks/WUR.md)    |
+|                              A                              |                                 B                                 |                                  C                                  |                      D                      |                     E                     |
+|-------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------|-------------------------------------------|
+|[BRG](./mtggoldfish/Pioneer/decks/BRG.md)                    |[Hidden Strings](./mtggoldfish/Pioneer/decks/Hidden_Strings.md)    |[RG](./mtggoldfish/Pioneer/decks/RG.md)                              |[UR](./mtggoldfish/Pioneer/decks/UR.md)      |[WURG](./mtggoldfish/Pioneer/decks/WURG.md)|
+|[BR](./mtggoldfish/Pioneer/decks/BR.md)                      |[Izzet Phoenix](./mtggoldfish/Pioneer/decks/Izzet_Phoenix.md)      |[R](./mtggoldfish/Pioneer/decks/R.md)                                |[WB](./mtggoldfish/Pioneer/decks/WB.md)      |[WUR](./mtggoldfish/Pioneer/decks/WUR.md)  |
+|[B](./mtggoldfish/Pioneer/decks/B.md)                        |[Mono-Black Aggro](./mtggoldfish/Pioneer/decks/Mono-Black_Aggro.md)|[Rakdos Pyromancer](./mtggoldfish/Pioneer/decks/Rakdos_Pyromancer.md)|[WG](./mtggoldfish/Pioneer/decks/WG.md)      |                                           |
+|[Burn](./mtggoldfish/Pioneer/decks/Burn.md)                  |[Mono-Red Aggro](./mtggoldfish/Pioneer/decks/Mono-Red_Aggro.md)    |[Spirits](./mtggoldfish/Pioneer/decks/Spirits.md)                    |[WR](./mtggoldfish/Pioneer/decks/WR.md)      |                                           |
+|[Dimir Control](./mtggoldfish/Pioneer/decks/Dimir_Control.md)|[Naya Winota](./mtggoldfish/Pioneer/decks/Naya_Winota.md)          |[UB](./mtggoldfish/Pioneer/decks/UB.md)                              |[WUBRG](./mtggoldfish/Pioneer/decks/WUBRG.md)|                                           |
+|[G](./mtggoldfish/Pioneer/decks/G.md)                        |[Niv to Light](./mtggoldfish/Pioneer/decks/Niv_to_Light.md)        |[URG](./mtggoldfish/Pioneer/decks/URG.md)                            |[WUB](./mtggoldfish/Pioneer/decks/WUB.md)    |                                           |
 
 
 # Modern
@@ -70,4 +71,4 @@
 
 
 
-#### Last Updated at 12:45AM on September 13, 2021
+#### Last Updated at 12:47PM on September 13, 2021

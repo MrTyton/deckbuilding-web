@@ -1,9 +1,9 @@
 1 Thraben Inspector
-1 Mutavault
 1 Elspeth Conquers Death
 1 Skyclave Apparition
 1 Charming Prince
 1 Portable Hole
+1 Mutavault
 2 The Book of Exalted Deeds
 2 Thraben Inspector
 2 Mutavault
@@ -11,10 +11,10 @@
 2 Skyclave Apparition
 2 Portable Hole
 3 Thraben Inspector
-3 Mutavault
 3 Skyclave Apparition
 3 Portable Hole
 3 Charming Prince
+3 Mutavault
 3 The Book of Exalted Deeds
 4 Thraben Inspector
 4 Portable Hole
@@ -57,7 +57,6 @@
 4 Charming Prince
 4 Hallowed Fountain
 1 Cave of the Frost Dragon
-1 Scrabbling Claws
 1 Mazemind Tome
 1 The World Tree
 1 Doomskar
@@ -65,6 +64,7 @@
 1 Selfless Spirit
 1 Cast Out
 1 Potion of Healing
+1 Scrabbling Claws
 1 Glacial Floodplain
 2 Glacial Floodplain
 2 Scrabbling Claws
@@ -81,36 +81,38 @@
 4 Karametra's Blessing
 1 Hengegate Pathway
 2 Hengegate Pathway
+1 Selfless Savior
+2 Selfless Savior
 1 Field of Ruin
 1 Ugin, the Ineffable
 1 Teferi, Hero of Dominaria
 1 Omen of the Sea
-1 Emeria's Call
-1 Mystical Dispute
 1 Temple of Enlightenment
 1 Irrigated Farmland
+1 Mystical Dispute
 1 Yorion, Sky Nomad
-1 Elspeth, Sun's Nemesis
 1 Baffling End
+1 Elspeth, Sun's Nemesis
 1 Nezahal, Primal Tide
 1 Island
 1 Agent of Treachery
+1 Emeria's Call
 1 Elite Guardmage
 2 Omen of the Sea
 2 Temple of Enlightenment
+2 Elspeth Conquers Death
 2 Baffling End
 2 Elspeth, Sun's Nemesis
 2 Field of Ruin
 2 Yorion, Sky Nomad
 2 Irrigated Farmland
 2 Elite Guardmage
-2 Elspeth Conquers Death
 2 Mystical Dispute
 3 Omen of the Sea
 3 Temple of Enlightenment
-3 Yorion, Sky Nomad
-3 Baffling End
 3 Elspeth Conquers Death
+3 Baffling End
+3 Yorion, Sky Nomad
 3 Elite Guardmage
 3 Elspeth, Sun's Nemesis
 3 Mystical Dispute
@@ -134,9 +136,9 @@
 1 Elite Spellbinder
 1 Aethersphere Harvester
 1 Rest in Peace
+2 Rest in Peace
 2 Faceless Haven
 2 Tomik, Distinguished Advokist
-2 Rest in Peace
 2 Elite Spellbinder
 2 Knight of the White Orchid
 3 Thalia's Lancers
@@ -152,7 +154,8 @@
 21 Snow-Covered Plains
 22 Snow-Covered Plains
 23 Snow-Covered Plains
-1 Selfless Savior
-2 Selfless Savior
-2 Adanto Vanguard
 1 Adanto Vanguard
+2 Adanto Vanguard
+1 Apostle of Purifying Light
+2 Apostle of Purifying Light
+3 Apostle of Purifying Light
