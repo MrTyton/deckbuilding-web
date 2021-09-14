@@ -19,6 +19,8 @@
 2 Necrotic Fumes
 1 Heartless Act
 2 Heartless Act
+1 Introduction to Annihilation
+1 Introduction to Prophecy
 3 Duress
 1 Flunk
 1 Agonizing Remorse
@@ -27,8 +29,6 @@
 1 Shredded Sails
 2 Inferno of the Star Mounts
 2 Shredded Sails
-1 Introduction to Annihilation
-1 Introduction to Prophecy
 1 Phoenix of Ash
 2 Phoenix of Ash
 1 Lithoform Blight
@@ -64,9 +64,9 @@
 1 Disdainful Stroke
 1 Kiora Bests the Sea God
 1 Shadows' Verdict
-2 Redcap Melee
 2 Mythos of Nethroi
 2 Roiling Vortex
+2 Redcap Melee
 1 Kaervek, the Spiteful
 2 Kaervek, the Spiteful
 3 Environmental Sciences
@@ -108,9 +108,9 @@
 3 Return to Nature
 4 Return to Nature
 1 Binding the Old Gods
+1 Skeletal Swarming
 1 Orcus, Prince of Undeath
 1 Shadowspear
-1 Skeletal Swarming
 2 Binding the Old Gods
 2 Skeletal Swarming
 2 Orcus, Prince of Undeath
@@ -118,4 +118,5 @@
 3 Skeletal Swarming
 4 Skeletal Swarming
 4 Culling Ritual
+1 Containment Breach
 2 Confront the Past
