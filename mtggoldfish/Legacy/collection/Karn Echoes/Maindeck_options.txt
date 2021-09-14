@@ -3,24 +3,25 @@
 2 Urza, Lord High Artificer
 2 Hullbreacher
 3 Chalice of the Void
+3 Hullbreacher
 3 Urza, Lord High Artificer
 4 Chalice of the Void
 1 Walking Ballista
-3 Hullbreacher
 4 Hullbreacher
 4 Voltaic Key
 1 Emry, Lurker of the Loch
 2 Emry, Lurker of the Loch
 3 Emry, Lurker of the Loch
-1 Narset, Parter of Veils
 4 Emry, Lurker of the Loch
+1 Narset, Parter of Veils
 4 Urza, Lord High Artificer
 1 Sai, Master Thopterist
-2 Narset, Parter of Veils
 1 Seat of the Synod
 2 Seat of the Synod
 3 Seat of the Synod
 4 Seat of the Synod
+2 Narset, Parter of Veils
+1 Urza's Bauble
 1 Chrome Mox
 1 Sea Gate Restoration
 2 Chrome Mox
@@ -28,8 +29,10 @@
 3 Chrome Mox
 3 Sea Gate Restoration
 4 Sea Gate Restoration
-1 Intuition
+2 Urza's Bauble
+3 Urza's Bauble
 1 Day's Undoing
+1 Intuition
 2 Intuition
 2 Day's Undoing
 3 Day's Undoing
@@ -41,45 +44,42 @@
 6 Island
 7 Island
 8 Island
-1 Urza's Bauble
-2 Urza's Bauble
-3 Urza's Bauble
-1 Mishra's Bauble
 1 Shadowspear
+1 Cavern of Souls
+1 Mishra's Bauble
+1 Retrofitter Foundry
+1 Inventors' Fair
+2 Cavern of Souls
 2 Mishra's Bauble
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
-1 Retrofitter Foundry
-1 Cavern of Souls
-2 Cavern of Souls
-3 Mishra's Bauble
+4 Urza's Bauble
 1 Expedition Map
 1 Crystal Vein
-1 Inventors' Fair
 2 Inventors' Fair
 3 Manifold Key
-2 Sai, Master Thopterist
-4 Snow-Covered Island
-4 Urza's Bauble
-1 Thought Monitor
-2 Thought Monitor
-4 Mishra's Bauble
-5 Snow-Covered Island
-1 Ghirapur Aether Grid
-1 Karakas
+3 Mishra's Bauble
 1 Teferi, Time Raveler
+1 Karakas
 1 Tundra
+2 Teferi, Time Raveler
+4 Snow-Covered Island
+2 Sai, Master Thopterist
+1 Ghirapur Aether Grid
 1 Flooded Strand
 2 Flooded Strand
-2 Teferi, Time Raveler
 2 Tundra
 3 Flooded Strand
+4 Mishra's Bauble
+5 Snow-Covered Island
 1 Aether Spellbomb
-1 Dismember
-1 Minamo, School at Water's Edge
 1 Force of Will
 2 Force of Will
+1 Dismember
+1 Minamo, School at Water's Edge
+1 Thought Monitor
+2 Thought Monitor
 1 Scalding Tarn
 1 Volcanic Island
 2 Scalding Tarn
@@ -93,12 +93,11 @@
 3 Glimmervoid
 4 Glimmervoid
 4 Basalt Monolith
-6 Snow-Covered Island
 1 Arid Mesa
 1 Brainstone
 1 Painter's Servant
-1 Pyroblast
 1 Soul-Guide Lantern
+1 Pyroblast
 1 Goblin Welder
 1 Mountain
 1 Bolas's Citadel

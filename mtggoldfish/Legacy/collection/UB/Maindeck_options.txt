@@ -1,35 +1,39 @@
-1 Death's Shadow
-2 Street Wraith
-2 Watery Grave
 2 Death's Shadow
 3 Street Wraith
 3 Death's Shadow
 4 Death's Shadow
+4 Thoughtseize
+1 Stifle
+2 Stifle
+3 Stifle
 2 Island
+3 Baleful Strix
+4 Baleful Strix
 3 Murktide Regent
 1 Darkblast
 1 Bloodstained Mire
 1 Flooded Strand
 3 Watery Grave
 2 Snuff Out
-4 Street Wraith
-1 Stifle
-2 Stifle
-3 Stifle
-2 Brazen Borrower
-1 Verdant Catacombs
-1 Reanimate
-4 Stifle
 3 Scalding Tarn
-2 Flooded Strand
+4 Street Wraith
 1 Volcanic Island
 1 Lightning Bolt
 2 Lightning Bolt
-1 Inquisition of Kozilek
-1 Ethereal Forager
+2 Brazen Borrower
+2 Flooded Strand
 1 Gurmag Angler
 2 Gurmag Angler
 3 Gurmag Angler
+1 Verdant Catacombs
+1 Reanimate
+4 Stifle
+2 Volcanic Island
+3 Lightning Bolt
+4 Scalding Tarn
+1 Inquisition of Kozilek
+4 Lightning Bolt
+1 Ethereal Forager
 1 Marsh Flats
 2 Verdant Catacombs
 2 Marsh Flats
@@ -43,63 +47,17 @@
 3 Misty Rainforest
 4 Misty Rainforest
 4 Underground Sea
-1 Urza's Saga
-1 Mox Opal
-1 Thought Monitor
-1 Seat of the Synod
-2 Urza's Saga
-2 Seat of the Synod
-2 Mox Opal
-2 Thought Monitor
-3 Urza's Saga
-3 Mox Opal
-3 Thought Monitor
-3 Seat of the Synod
-4 Urza's Saga
-4 Thought Monitor
-4 Seat of the Synod
-1 Ancient Tomb
-1 Grindstone
-1 Painter's Servant
-1 Hydroblast
-1 Lotus Petal
-2 Ancient Tomb
-2 Painter's Servant
-2 Grindstone
-2 Hydroblast
-2 Lotus Petal
-3 Grindstone
-3 Ancient Tomb
-3 Preordain
-3 Painter's Servant
-3 Hydroblast
-3 Lotus Petal
-4 Ancient Tomb
-4 Preordain
-4 Painter's Servant
-4 Grindstone
-1 Emry, Lurker of the Loch
-1 Mishra's Bauble
-2 Emry, Lurker of the Loch
-2 Mishra's Bauble
-3 Mishra's Bauble
-3 Emry, Lurker of the Loch
-1 Pithing Needle
-1 Retrofitter Foundry
-1 Spell Pierce
 1 Young Pyromancer
 2 Young Pyromancer
-2 Volcanic Island
-3 Lightning Bolt
 3 Volcanic Island
-4 Scalding Tarn
+1 Spell Pierce
 1 Demilich
 1 Arclight Phoenix
 1 Badlands
+1 Cabal Therapy
 1 Opposition Agent
 1 Dark Ritual
 1 Buried Alive
-1 Cabal Therapy
 2 Arclight Phoenix
 2 Buried Alive
 2 Opposition Agent
@@ -110,7 +68,8 @@
 4 Dark Ritual
 4 Buried Alive
 4 Arclight Phoenix
-1 Welding Jar
+1 Terminate
+1 Fiery Islet
 1 Snow-Covered Island
 1 Liliana, the Last Hope
 1 Snow-Covered Swamp
@@ -121,14 +80,11 @@
 2 Spell Snare
 2 Snapcaster Mage
 2 Reanimate
+1 Jace, the Mind Sculptor
+3 Young Pyromancer
 2 Bloodstained Mire
 2 Spell Pierce
 3 Bloodstained Mire
-1 Relic of Progenitus
-1 Tezzeret, Agent of Bolas
-2 Tezzeret, Agent of Bolas
-3 Tezzeret, Agent of Bolas
-4 Hydroblast
 1 Stubborn Denial
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
@@ -142,33 +98,17 @@
 4 Dauthi Voidwalker
 4 Fatal Push
 1 Steam Vents
-1 Expressive Iteration
 1 Dragon's Rage Channeler
+1 Expressive Iteration
 1 Ragavan, Nimble Pilferer
 2 Steam Vents
+2 Dragon's Rage Channeler
 2 Expressive Iteration
 2 Ragavan, Nimble Pilferer
-2 Dragon's Rage Channeler
-3 Ragavan, Nimble Pilferer
 3 Dragon's Rage Channeler
-4 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
 4 Dragon's Rage Channeler
+4 Ragavan, Nimble Pilferer
 3 Verdant Catacombs
 4 Verdant Catacombs
 4 Gurmag Angler
-1 Jace, the Mind Sculptor
-3 Young Pyromancer
-4 Lightning Bolt
-1 Portable Hole
-1 Tormod's Crypt
-1 Shadowspear
-1 Scrubland
-1 Tundra
-1 Sai, Master Thopterist
-2 Portable Hole
-2 Sai, Master Thopterist
-3 Portable Hole
-4 Portable Hole
-4 Emry, Lurker of the Loch
-4 Mishra's Bauble
-4 Mox Opal

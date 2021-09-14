@@ -20,10 +20,10 @@
 16 Forest
 1 Marwyn, the Nurturer
 1 The Great Henge
-1 Overgrown Tomb
 1 Darkbore Pathway
-2 Overgrown Tomb
+1 Overgrown Tomb
 2 Darkbore Pathway
+2 Overgrown Tomb
 3 Darkbore Pathway
 3 Overgrown Tomb
 1 Elvish Visionary
@@ -32,16 +32,16 @@
 17 Forest
 18 Forest
 2 Elvish Visionary
-1 Lair of the Hydra
 1 Skyshroud Lookout
+1 Lair of the Hydra
 2 Skyshroud Lookout
 1 Freyalise, Skyshroud Partisan
 2 Freyalise, Skyshroud Partisan
 4 Imperious Perfect
 3 Elvish Visionary
 4 Elvish Visionary
-1 Fiend Artisan
 1 Woodland Cemetery
+1 Fiend Artisan
 2 Woodland Cemetery
 2 Fiend Artisan
 3 Realmwalker
@@ -64,28 +64,28 @@
 1 Necroblossom Snarl
 2 Necroblossom Snarl
 3 Marwyn, the Nurturer
-1 Barkchannel Pathway
 1 Breeding Pool
+1 Barkchannel Pathway
 1 Botanical Sanctum
 2 Barkchannel Pathway
 2 Breeding Pool
 2 Botanical Sanctum
-3 Breeding Pool
 3 Barkchannel Pathway
+3 Breeding Pool
 3 Botanical Sanctum
 4 Breeding Pool
 4 Barkchannel Pathway
 4 Botanical Sanctum
-2 Faceless Haven
+1 Hashep Oasis
+2 Hashep Oasis
 1 Skemfar Elderhall
 2 Craterhoof Behemoth
+2 Faceless Haven
 1 Sylvan Anthem
 2 Sylvan Anthem
 1 Lead the Stampede
 2 Lead the Stampede
 2 Finale of Devastation
-1 Hashep Oasis
-2 Hashep Oasis
 1 Abomination of Llanowar
 1 Skemfar Avenger
 1 Blooming Marsh
@@ -131,12 +131,12 @@
 3 Paradise Druid
 4 Paradise Druid
 1 Temple Garden
+1 Branchloft Pathway
 1 Swan Song
 1 Aether Gust
-1 Branchloft Pathway
+2 Branchloft Pathway
 2 Swan Song
 2 Temple Garden
-2 Branchloft Pathway
 3 Branchloft Pathway
 3 Temple Garden
 4 Temple Garden

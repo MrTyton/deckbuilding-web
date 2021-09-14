@@ -23,8 +23,8 @@
 3 Aether Vial
 1 Trinisphere
 4 Ragavan, Nimble Pilferer
-1 Mox Opal
 1 Ichor Wellspring
+1 Mox Opal
 1 Breya's Apprentice
 4 Blood Moon
 1 Chromatic Star
@@ -48,20 +48,20 @@
 2 Dire Fleet Daredevil
 3 Snow-Covered Mountain
 1 Magmatic Channeler
-4 Karn, the Great Creator
 1 Bloodstained Mire
 2 Bloodstained Mire
 2 Magmatic Channeler
-3 Magmatic Channeler
 3 Bloodstained Mire
+3 Magmatic Channeler
 4 Bloodstained Mire
+4 Karn, the Great Creator
 1 Karn, Scion of Urza
 3 Dire Fleet Daredevil
 1 Wurmcoil Engine
 11 Mountain
-1 Crystal Vein
-1 Nettlecyst
 1 Shadowspear
+1 Nettlecyst
+1 Crystal Vein
 2 Seasoned Pyromancer
 4 Aether Vial
 4 Snow-Covered Mountain
@@ -90,20 +90,18 @@
 1 Welding Jar
 1 Darksteel Citadel
 2 Darksteel Citadel
-1 Wooded Foothills
 1 Arid Mesa
+1 Wooded Foothills
 2 Arid Mesa
 2 Wooded Foothills
 3 Arid Mesa
 4 Dire Fleet Daredevil
-1 Anje's Ravager
-8 Snow-Covered Mountain
-1 Thespian's Stage
-1 Dark Depths
 1 Kazuul's Fury
 1 Scroll of Fate
+1 Dark Depths
 1 Ruin Grinder
 1 Phyrexian Dreadnought
+1 Thespian's Stage
 2 Kazuul's Fury
 2 Thespian's Stage
 2 Dark Depths
@@ -114,5 +112,7 @@
 3 Scroll of Fate
 3 Dark Depths
 4 Magus of the Moon
-12 Mountain
 4 Scroll of Fate
+12 Mountain
+1 Anje's Ravager
+8 Snow-Covered Mountain

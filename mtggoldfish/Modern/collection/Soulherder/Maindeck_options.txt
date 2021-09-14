@@ -89,12 +89,12 @@
 1 Waterlogged Grove
 1 Omnath, Locus of Creation
 2 Venser, Shaper Savant
+1 Reveillark
 1 Glacial Fortress
 1 Chord of Calling
 1 Acidic Slime
 1 Fiend Hunter
 1 Elvish Visionary
-1 Reveillark
 2 Breeding Pool
 2 Knight of Autumn
 2 Chord of Calling
@@ -171,7 +171,6 @@
 3 Saheeli Rai
 4 Saheeli Rai
 4 Razorverge Thicket
-4 Ragavan, Nimble Pilferer
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
@@ -188,13 +187,7 @@
 3 Abundant Growth
 4 Tidehollow Sculler
 4 Abundant Growth
-1 Dusk/Dawn
-1 Bloodstained Mire
-2 Auriok Champion
-3 Auriok Champion
-4 Snow-Covered Plains
-4 Auriok Champion
-4 Militia Bugler
+4 Ragavan, Nimble Pilferer
 4 Prismatic Vista
 1 Needleverge Pathway
 1 Inspiring Vantage
@@ -216,6 +209,13 @@
 3 Raugrin Triome
 3 Clifftop Retreat
 4 Clifftop Retreat
+1 Dusk/Dawn
+1 Bloodstained Mire
+2 Auriok Champion
+3 Auriok Champion
+4 Auriok Champion
+4 Militia Bugler
+4 Snow-Covered Plains
 1 Seachrome Coast
 1 Mystic Gate
 1 Hengegate Pathway
@@ -257,8 +257,8 @@
 1 Coiling Oracle
 2 Coiling Oracle
 3 Coiling Oracle
-1 Time Warp
 1 Arctic Treeline
+1 Time Warp
 1 Rimewood Falls
 2 Restoration Angel
 3 Snow-Covered Island
