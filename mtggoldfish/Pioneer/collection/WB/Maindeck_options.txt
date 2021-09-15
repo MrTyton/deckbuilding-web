@@ -1,12 +1,12 @@
+1 The Book of Exalted Deeds
 1 Elspeth Conquers Death
 1 Skyclave Apparition
 1 Charming Prince
 1 Portable Hole
 1 Mutavault
-1 The Book of Exalted Deeds
 2 Thraben Inspector
-2 Mutavault
 2 The Book of Exalted Deeds
+2 Mutavault
 2 Charming Prince
 2 Skyclave Apparition
 2 Portable Hole
@@ -23,9 +23,9 @@
 1 Emrakul, the Promised End
 1 Golos, Tireless Pilgrim
 1 Eye of Vecna
-1 Search for Glory
 1 Faceless Haven
 1 Skysovereign, Consul Flagship
+1 Search for Glory
 1 Tomik, Distinguished Advokist
 1 Snow-Covered Plains
 1 Nykthos, Shrine to Nyx
@@ -92,33 +92,33 @@
 1 Mystical Dispute
 1 Agent of Treachery
 1 Yorion, Sky Nomad
-1 Elspeth, Sun's Nemesis
 1 Baffling End
 1 Nezahal, Primal Tide
 1 Island
+1 Elspeth, Sun's Nemesis
 1 Emeria's Call
 1 Elite Guardmage
 2 Omen of the Sea
-2 Temple of Enlightenment
+2 Yorion, Sky Nomad
 2 Baffling End
+2 Elspeth Conquers Death
 2 Elspeth, Sun's Nemesis
 2 Field of Ruin
-2 Yorion, Sky Nomad
 2 Irrigated Farmland
 2 Elite Guardmage
-2 Elspeth Conquers Death
+2 Temple of Enlightenment
 2 Mystical Dispute
-3 Temple of Enlightenment
+3 Yorion, Sky Nomad
 3 Omen of the Sea
 3 Baffling End
 3 Elspeth Conquers Death
-3 Yorion, Sky Nomad
 3 Elite Guardmage
 3 Elspeth, Sun's Nemesis
+3 Temple of Enlightenment
 3 Mystical Dispute
 3 Hengegate Pathway
-4 Temple of Enlightenment
 4 Mystical Dispute
+4 Temple of Enlightenment
 4 Elite Guardmage
 4 Omen of the Sea
 4 Hengegate Pathway
@@ -130,8 +130,8 @@
 1 Castle Ardenvale
 1 Cascading Cataracts
 1 Shadowspear
-1 Ugin, the Spirit Dragon
 1 Gideon of the Trials
+1 Ugin, the Spirit Dragon
 1 Knight of the White Orchid
 1 Elite Spellbinder
 1 Aethersphere Harvester

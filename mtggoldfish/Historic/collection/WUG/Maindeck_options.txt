@@ -16,25 +16,33 @@
 1 Declaration in Stone
 2 Declaration in Stone
 1 Heliod, Sun-Crowned
+2 Ajani, Strength of the Pride
+1 The Book of Exalted Deeds
 1 Elite Spellbinder
 1 Breeding Pool
 2 Breeding Pool
 3 Breeding Pool
-1 Soulherder
-1 Prosperous Innkeeper
 1 Wall of Blossoms
-2 Elite Spellbinder
-2 Prosperous Innkeeper
+1 Soulherder
 2 Wall of Blossoms
 2 Soulherder
 3 Soulherder
 4 Soulherder
-2 Ajani, Strength of the Pride
-1 The Book of Exalted Deeds
+1 Prosperous Innkeeper
+2 Elite Spellbinder
+2 Prosperous Innkeeper
+1 Llanowar Elves
+2 Llanowar Elves
+3 Llanowar Elves
+4 Llanowar Elves
+1 Emeria's Call
 4 Glasspool Mimic
-2 Forest
-1 Trelasarra, Moon Dancer
-2 Trelasarra, Moon Dancer
+1 Militia Bugler
+3 Prosperous Innkeeper
+1 Blade Splicer
+1 Barkchannel Pathway
+2 Barkchannel Pathway
+2 Blade Splicer
 4 Breeding Pool
 1 Baffling End
 1 Settle the Wreckage
@@ -44,17 +52,17 @@
 3 Fabled Passage
 1 Snow-Covered Plains
 1 Faceless Haven
-1 Yasharn, Implacable Earth
 2 Snow-Covered Plains
 1 Rimewood Falls
 1 Memory Lapse
 1 Arctic Treeline
-1 Hydroid Krasis
-1 Snow-Covered Island
-1 Narset, Parter of Veils
+1 Yasharn, Implacable Earth
 1 Nissa, Who Shakes the World
-1 Snow-Covered Forest
+1 Hydroid Krasis
+1 Narset, Parter of Veils
 1 Shark Typhoon
+1 Snow-Covered Forest
+1 Snow-Covered Island
 1 Into the North
 2 Memory Lapse
 2 Nissa, Who Shakes the World
@@ -67,38 +75,30 @@
 3 Rimewood Falls
 3 Nissa, Who Shakes the World
 3 Into the North
-4 Nissa, Who Shakes the World
 4 Shark Typhoon
+4 Nissa, Who Shakes the World
 4 Into the North
-1 Llanowar Elves
-2 Llanowar Elves
-3 Llanowar Elves
-4 Llanowar Elves
-1 Militia Bugler
-3 Prosperous Innkeeper
-1 Barkchannel Pathway
+1 Trelasarra, Moon Dancer
+2 Trelasarra, Moon Dancer
 1 Into the Roil
 1 Commit/Memory
 1 Wrath of God
 2 Commit/Memory
-2 Snow-Covered Island
 2 Yasharn, Implacable Earth
 2 Narset, Parter of Veils
+2 Snow-Covered Island
 3 Memory Lapse
 3 Narset, Parter of Veils
 4 Glacial Fortress
 4 Fabled Passage
 4 Memory Lapse
-1 Emeria's Call
 1 Daxos, Blessed by the Sun
 2 Daxos, Blessed by the Sun
+2 Forest
 1 Gilded Goose
-1 Blade Splicer
-1 Lonis, Cryptozoologist
 1 Rise and Shine
-2 Barkchannel Pathway
+1 Lonis, Cryptozoologist
 2 Rise and Shine
-2 Blade Splicer
 3 Elite Spellbinder
 2 Heliod, Sun-Crowned
 2 Militia Bugler
@@ -107,13 +107,13 @@
 11 Plains
 12 Plains
 13 Plains
-1 Lair of the Hydra
+1 Restoration Angel
 1 Ephemerate
+2 Restoration Angel
 2 Ephemerate
 3 Wall of Blossoms
 3 Ephemerate
 4 Wall of Blossoms
-4 Ephemerate
 2 Settle the Wreckage
 1 Tamiyo, Collector of Tales
 2 Wrath of God
@@ -121,15 +121,15 @@
 3 Wrath of God
 3 Baffling End
 3 Declaration in Stone
-1 Restoration Angel
+1 Lair of the Hydra
 1 Knight of Autumn
 1 Charming Prince
 1 Irrigated Farmland
 2 Irrigated Farmland
 2 Lair of the Hydra
-2 Restoration Angel
 2 Knight of Autumn
 2 Charming Prince
+4 Ephemerate
 4 Prosperous Innkeeper
 1 Vesperlark
 1 Thraben Inspector
@@ -147,11 +147,11 @@
 4 Hengegate Pathway
 1 Rest in Peace
 14 Plains
+3 Blade Splicer
 1 Day of Judgment
+2 Emeria's Call
 1 Cleric Class
 2 The Book of Exalted Deeds
-1 Hinterland Harbor
-2 Hinterland Harbor
 2 Faceless Haven
 1 Legion Angel
 1 Indatha Triome
@@ -177,8 +177,8 @@
 1 Labyrinth of Skophos
 1 Ajani's Welcome
 1 Authority of the Consuls
-1 Deafening Silence
 1 Aethersphere Harvester
+1 Deafening Silence
 1 Dawn of Hope
 1 Crawling Barrens
 3 Settle the Wreckage
@@ -191,18 +191,10 @@
 1 Isolated Chapel
 2 Brightclimb Pathway
 2 Vito, Thorn of the Dusk Rose
-2 Emeria's Call
 2 Isolated Chapel
 3 Vito, Thorn of the Dusk Rose
 3 Brightclimb Pathway
 4 Brightclimb Pathway
-1 Scavenging Ooze
-1 Man-o'-War
-2 Gilded Goose
-2 Scavenging Ooze
-3 Blade Splicer
-3 Lonis, Cryptozoologist
-4 Elite Spellbinder
 1 Mana Tithe
 2 Mana Tithe
 2 Rest in Peace
@@ -210,6 +202,12 @@
 4 Mana Tithe
 3 Trelasarra, Moon Dancer
 4 Trelasarra, Moon Dancer
+1 Scavenging Ooze
+1 Man-o'-War
+2 Gilded Goose
+2 Scavenging Ooze
+3 Lonis, Cryptozoologist
+4 Elite Spellbinder
 1 Selfless Savior
 2 Selfless Savior
 3 Selfless Savior
@@ -217,44 +215,47 @@
 1 Swan Song
 2 Swan Song
 4 Linvala, Shield of Sea Gate
-1 Glorious Protector
-1 Faceless Agent
-1 Timeless Witness
-1 Koma, Cosmos Serpent
-1 Vivien, Monsters' Advocate
-1 Thragtusk
-1 Primal Command
-1 Angel of Invention
-1 Island
-1 Elvish Visionary
-2 Glorious Protector
-2 Island
-2 Elvish Visionary
-2 Timeless Witness
-3 Elvish Visionary
-4 Elvish Visionary
-1 Ugin, the Spirit Dragon
-1 Cultivate
+1 Hinterland Harbor
 1 Explore
+1 Cultivate
+1 Ugin, the Spirit Dragon
+2 Hinterland Harbor
+2 Explore
 2 Day of Judgment
 2 Cultivate
-2 Explore
 2 Arctic Treeline
 2 Ugin, the Spirit Dragon
+3 Explore
 3 Day of Judgment
 3 Hydroid Krasis
+3 Hinterland Harbor
 3 Arctic Treeline
 3 Ugin, the Spirit Dragon
-3 Explore
-3 Hinterland Harbor
+4 Explore
 4 Hinterland Harbor
 4 Hydroid Krasis
-4 Explore
 4 Day of Judgment
 1 Remorseful Cleric
 2 Remorseful Cleric
 3 Remorseful Cleric
 4 Remorseful Cleric
+1 Turntimber Symbiosis
+1 Yorion, Sky Nomad
+1 Thragtusk
+1 Lumbering Lightshield
+2 Thragtusk
+2 Yorion, Sky Nomad
+2 Turntimber Symbiosis
+2 Lumbering Lightshield
+3 Thragtusk
+3 Barkchannel Pathway
+3 Restoration Angel
+3 Lumbering Lightshield
+4 Barkchannel Pathway
+4 Restoration Angel
+4 Lumbering Lightshield
+4 Thragtusk
+4 Blade Splicer
 5 Forest
 1 Adanto Vanguard
 2 Adanto Vanguard

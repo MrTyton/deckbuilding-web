@@ -1,7 +1,7 @@
-1 Mystical Dispute
 4 Sulfur Falls
-2 Shock
+1 Crash Through
 3 Island
+2 Shock
 3 Stormwing Entity
 2 Crash Through
 1 Warlord's Fury
@@ -13,8 +13,8 @@
 5 Mountain
 2 Mystical Dispute
 3 Warlord's Fury
-1 Fabled Passage
 1 Ox of Agonas
+1 Fabled Passage
 1 Aether Spellbomb
 1 Chart a Course
 2 Fabled Passage
@@ -30,9 +30,8 @@
 2 Faithless Salvaging
 3 Chart a Course
 2 Demilich
-4 Shock
-3 Fabled Passage
 2 Soul-Guide Lantern
+3 Fabled Passage
 2 Ox of Agonas
 1 Dreadhorde Arcanist
 1 Blood Crypt
@@ -43,6 +42,7 @@
 2 Dreadhorde Arcanist
 3 Blood Crypt
 3 Dreadhorde Arcanist
+4 Shock
 4 Fabled Passage
 1 Kolaghan's Command
 2 Kolaghan's Command
@@ -115,29 +115,3 @@
 3 Blightstep Pathway
 4 Watery Grave
 4 Blood Crypt
-1 Temple of Epiphany
-1 Electrolyze
-1 Snow-Covered Island
-1 Lightning Strike
-1 Prismari Command
-1 Snow-Covered Mountain
-2 Temple of Epiphany
-2 Snow-Covered Island
-2 Prismari Command
-2 Snow-Covered Mountain
-2 Lightning Strike
-2 Young Pyromancer
-3 Prismari Command
-3 Young Pyromancer
-3 Snow-Covered Island
-3 Snow-Covered Mountain
-3 Lightning Strike
-4 Young Pyromancer
-4 Snow-Covered Island
-4 Snow-Covered Mountain
-4 Lightning Strike
-5 Snow-Covered Island
-5 Snow-Covered Mountain
-6 Snow-Covered Mountain
-7 Snow-Covered Mountain
-8 Snow-Covered Mountain

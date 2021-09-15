@@ -1,3 +1,4 @@
+1 Flooded Strand
 2 Misty Rainforest
 1 Street Wraith
 1 Watery Grave
@@ -12,13 +13,12 @@
 3 Baleful Strix
 4 Baleful Strix
 1 Darkblast
-1 Flooded Strand
+3 Scalding Tarn
+1 Volcanic Island
 4 Stifle
 3 Watery Grave
 2 Snuff Out
 4 Street Wraith
-3 Scalding Tarn
-1 Volcanic Island
 1 Lightning Bolt
 2 Lightning Bolt
 1 Inquisition of Kozilek
@@ -51,32 +51,56 @@
 4 Tombstalker
 3 Misty Rainforest
 4 Misty Rainforest
+1 Dark Ritual
+2 Dark Ritual
+3 Dark Ritual
+4 Dark Ritual
+1 Prismatic Vista
+2 Swamp
+1 Night's Whisper
+1 Tendrils of Agony
+1 Duress
+1 Peer into the Abyss
+1 Pact of Negation
+1 Cabal Ritual
+1 Rain of Filth
+1 Lotus Petal
+2 Night's Whisper
+2 Duress
+2 Cabal Ritual
+2 Rain of Filth
+2 Peer into the Abyss
+2 Pact of Negation
+2 Lotus Petal
+3 Preordain
+3 Duress
+3 Pact of Negation
+3 Lotus Petal
+3 Cabal Ritual
+3 Peer into the Abyss
+4 Cabal Ritual
+4 Lotus Petal
+4 Pact of Negation
 1 Young Pyromancer
 2 Young Pyromancer
 3 Volcanic Island
 1 Spell Pierce
+1 Badlands
 1 Demilich
 1 Arclight Phoenix
-1 Badlands
 1 Cabal Therapy
 1 Opposition Agent
-1 Dark Ritual
 1 Buried Alive
 2 Arclight Phoenix
 2 Buried Alive
 2 Opposition Agent
-2 Dark Ritual
-3 Dark Ritual
 3 Buried Alive
 3 Arclight Phoenix
-4 Dark Ritual
 4 Buried Alive
 4 Arclight Phoenix
+1 Dismember
 1 Terminate
 1 Fiery Islet
-1 Dismember
-1 Prismatic Vista
-2 Swamp
 1 Snow-Covered Island
 1 Liliana, the Last Hope
 1 Snow-Covered Swamp
@@ -84,34 +108,44 @@
 2 Snow-Covered Island
 1 Spell Snare
 1 Snapcaster Mage
-2 Spell Snare
 2 Snapcaster Mage
+2 Spell Snare
 2 Reanimate
 1 Jace, the Mind Sculptor
 3 Young Pyromancer
 1 Flusterstorm
 1 Murderous Cut
 3 True-Name Nemesis
+1 Solve the Equation
+2 Solve the Equation
+2 Tendrils of Agony
+3 Night's Whisper
+3 Island
 2 Bloodstained Mire
 2 Spell Pierce
 3 Bloodstained Mire
+1 Chrome Mox
+1 Burning Wish
+2 Burning Wish
+3 Burning Wish
+4 Preordain
 1 Stubborn Denial
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
 4 Watery Grave
 4 Fatal Push
+1 Expressive Iteration
 1 Steam Vents
 1 Dragon's Rage Channeler
-1 Expressive Iteration
 1 Ragavan, Nimble Pilferer
-2 Steam Vents
-2 Dragon's Rage Channeler
 2 Expressive Iteration
+2 Steam Vents
 2 Ragavan, Nimble Pilferer
-3 Dragon's Rage Channeler
+2 Dragon's Rage Channeler
 3 Ragavan, Nimble Pilferer
-4 Dragon's Rage Channeler
+3 Dragon's Rage Channeler
 4 Ragavan, Nimble Pilferer
+4 Dragon's Rage Channeler
 3 Verdant Catacombs
 4 Verdant Catacombs
 4 Gurmag Angler
