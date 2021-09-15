@@ -99,14 +99,14 @@
 15 Snow-Covered Plains
 16 Snow-Covered Plains
 1 Cave of the Frost Dragon
-1 Beloved Princess
 1 Thalia's Lieutenant
+1 Beloved Princess
 1 Esper Sentinel
 1 Shefet Dunes
 1 Venerated Loxodon
-2 Beloved Princess
 2 Venerated Loxodon
 2 Thalia's Lieutenant
+2 Beloved Princess
 2 Esper Sentinel
 3 Esper Sentinel
 3 Venerated Loxodon
@@ -161,13 +161,6 @@
 2 Luminarch Aspirant
 3 Luminarch Aspirant
 4 Banishing Light
-1 Light of Hope
-1 Hunted Witness
-2 Hunted Witness
-2 Light of Hope
-3 Hunted Witness
-3 Light of Hope
-4 Hunted Witness
 1 Fight as One
 1 Mazemind Tome
 2 Selfless Savior
@@ -176,11 +169,11 @@
 4 Selfless Savior
 1 Erebos's Intervention
 1 Elspeth, Sun's Nemesis
-1 Scoured Barrens
 1 Linvala, Keeper of Silence
 1 Angelic Ascension
 1 Castle Locthwain
 1 Oath of Kaya
+1 Scoured Barrens
 2 Erebos's Intervention
 2 Castle Locthwain
 2 Elspeth, Sun's Nemesis
@@ -190,9 +183,16 @@
 2 Linvala, Keeper of Silence
 2 Angelic Ascension
 3 Temple of Silence
-3 Scoured Barrens
 3 Oath of Kaya
+3 Scoured Barrens
 4 Temple of Silence
+1 Light of Hope
+1 Hunted Witness
+2 Hunted Witness
+2 Light of Hope
+3 Hunted Witness
+3 Light of Hope
+4 Hunted Witness
 1 Reidane, God of the Worthy
 1 Youthful Valkyrie
 2 Youthful Valkyrie

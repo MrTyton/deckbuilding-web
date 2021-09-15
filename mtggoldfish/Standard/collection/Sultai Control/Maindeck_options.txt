@@ -29,8 +29,8 @@
 1 Solve the Equation
 2 Tangled Florahedron
 2 Quandrix Cultivator
-3 Quandrix Cultivator
 3 Eliminate
+3 Quandrix Cultivator
 3 Tangled Florahedron
 4 Tangled Florahedron
 4 Quandrix Cultivator
@@ -43,28 +43,28 @@
 1 Saw It Coming
 2 Saw It Coming
 3 Saw It Coming
-1 Field of Ruin
 1 Bloodchief's Thirst
+1 Field of Ruin
 1 Shark Typhoon
 1 Essence Scatter
-2 Field of Ruin
 2 Negate
-2 Shark Typhoon
 2 Bloodchief's Thirst
+2 Shark Typhoon
+2 Field of Ruin
 3 Field of Ruin
 3 Mazemind Tome
-4 Island
 4 Swamp
-4 Field of Ruin
 4 Mazemind Tome
+4 Island
+4 Field of Ruin
 4 Extinction Event
-1 Ugin, the Spirit Dragon
 1 Crawling Barrens
+1 Ugin, the Spirit Dragon
 1 Soul Shatter
 1 Drown in the Loch
 1 The Biblioplex
-2 Crawling Barrens
 2 Elspeth's Nightmare
+2 Crawling Barrens
 2 Erebos's Intervention
 2 Drown in the Loch
 3 Shark Typhoon
@@ -73,10 +73,10 @@
 4 Saw It Coming
 4 Shark Typhoon
 4 Jwari Disruption
-5 Swamp
 5 Island
-6 Swamp
+5 Swamp
 6 Island
+6 Swamp
 7 Swamp
 2 Pestilent Haze
 3 Jwari Ruins
@@ -97,16 +97,16 @@
 1 Temple of Mystery
 2 Eureka Moment
 3 Check for Traps
+1 Castle Locthwain
 1 Murderous Rider
 1 Lochmere Serpent
 1 Castle Vantress
-1 Castle Locthwain
-2 Castle Locthwain
 2 Kaervek, the Spiteful
 2 Murderous Rider
 2 Essence Scatter
 2 Lochmere Serpent
 2 Castle Vantress
+2 Castle Locthwain
 3 Bloodchief's Thirst
 3 Disdainful Stroke
 3 Pelakka Predation
@@ -118,7 +118,6 @@
 1 Garruk, Unleashed
 1 Vivien, Monsters' Advocate
 1 Ellywick Tumblestrum
-1 Llanowar Visionary
 1 Elderfang Disciple
 1 Garruk, Cursed Huntsman
 1 Tyvar Kell
@@ -126,18 +125,19 @@
 1 Oko, the Trickster
 1 Easy Prey
 1 Jace, Mirror Mage
+1 Llanowar Visionary
 1 Teferi, Master of Time
 1 Kasmina, Enigma Sage
 1 Liliana, Waker of the Dead
+2 Professor Onyx
 2 Lolth, Spider Queen
 2 Vivien, Monsters' Advocate
-2 Llanowar Visionary
 2 Elderfang Disciple
-2 Professor Onyx
 2 Kasmina, Enigma Sage
 2 Yorion, Sky Nomad
 2 Easy Prey
 2 Teferi, Master of Time
+2 Llanowar Visionary
 2 Oko, the Trickster
 2 Liliana, Waker of the Dead
 2 Garruk, Cursed Huntsman
@@ -148,13 +148,13 @@
 3 Yorion, Sky Nomad
 4 Elderfang Disciple
 4 Llanowar Visionary
-1 Lovestruck Beast
 1 The World Tree
 1 Xanathar, Guild Kingpin
 1 The Trickster-God's Heist
 1 King Narfi's Betrayal
 1 Woe Strider
 1 Grim Tutor
+1 Lovestruck Beast
 2 Lovestruck Beast
 2 Woe Strider
 2 King Narfi's Betrayal

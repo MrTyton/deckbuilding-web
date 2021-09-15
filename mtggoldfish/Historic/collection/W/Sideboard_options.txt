@@ -1,9 +1,5 @@
 3 Portable Hole
 1 Apostle of Purifying Light
-4 Baffling End
-1 Deafening Silence
-4 Containment Priest
-3 Reidane, God of the Worthy
 1 Grafdigger's Cage
 1 Dusk/Dawn
 2 Grafdigger's Cage
@@ -11,6 +7,10 @@
 2 Dusk/Dawn
 1 Mana Tithe
 1 Fight as One
+4 Baffling End
+3 Reidane, God of the Worthy
+4 Containment Priest
+1 Deafening Silence
 1 Skyclave Apparition
 2 Skyclave Apparition
 1 Declaration in Stone
@@ -29,11 +29,11 @@
 2 Drannith Magistrate
 2 Linvala, Keeper of Silence
 1 Adanto Vanguard
-1 Soul-Guide Lantern
 1 Shalai, Voice of Plenty
 1 Lurrus of the Dream-Den
-2 Deafening Silence
+1 Soul-Guide Lantern
 1 Guardian of Faith
+2 Deafening Silence
 1 Authority of the Consuls
 3 Declaration in Stone
 1 Sorcerous Spyglass
@@ -41,7 +41,6 @@
 4 Portable Hole
 1 Citywide Bust
 1 Settle the Wreckage
-1 Seasoned Hallowblade
 2 Guardian of Faith
 1 Archon of Emeria
 2 Archon of Emeria
@@ -50,12 +49,11 @@
 1 Dawnbringer Cleric
 1 Ajani, Adversary of Tyrants
 2 Citywide Bust
+1 Seasoned Hallowblade
 1 Unbreakable Formation
 3 Glass Casket
-3 Deafening Silence
 1 Hushbringer
 2 Hushbringer
-2 Soul-Guide Lantern
 1 Teferi's Protection
 1 Karn, Scion of Urza
 4 Declaration in Stone
@@ -81,6 +79,7 @@
 2 Ashes of the Abhorrent
 1 Banishing Light
 2 Banishing Light
+2 Soul-Guide Lantern
 3 Banishing Light
 1 Aether Gust
 1 Miscast
@@ -94,11 +93,12 @@
 1 Fragmentize
 1 Weathered Runestone
 2 Sorcerous Spyglass
-2 Weathered Runestone
 2 Damping Sphere
+2 Weathered Runestone
 2 Leyline of Sanctity
 2 Fragmentize
 3 Weathered Runestone
+3 Deafening Silence
 3 Apostle of Purifying Light
 1 Legion Angel
 2 Legion Angel
@@ -112,9 +112,6 @@
 3 Grafdigger's Cage
 3 Teferi's Protection
 4 Glass Casket
-2 Seasoned Hallowblade
-3 Seasoned Hallowblade
-4 Seasoned Hallowblade
 3 Hushbringer
 3 Guardian of Faith
 4 Hushbringer

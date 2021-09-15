@@ -1,47 +1,50 @@
-1 Snapcaster Mage
 1 Jace, the Mind Sculptor
-3 Castle Vantress
+3 Scalding Tarn
 2 Snapcaster Mage
+3 Castle Vantress
 4 Scalding Tarn
-2 Misty Rainforest
 1 Path to Exile
+2 Misty Rainforest
 1 Force of Negation
 1 Castle Ardenvale
+3 Snapcaster Mage
 3 Spreading Seas
 4 Mystic Gate
 2 Glacial Fortress
-3 Snapcaster Mage
+2 Polluted Delta
+2 Path to Exile
+1 Field of Ruin
+2 Celestial Colonnade
+2 Fact or Fiction
 1 Batterskull
 1 Kaldra Compleat
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+3 Solitude
 2 Force of Negation
-2 Fact or Fiction
-2 Path to Exile
-1 Field of Ruin
 2 Jace, the Mind Sculptor
-2 Polluted Delta
 1 Sulfur Falls
-2 Celestial Colonnade
+1 Fire/Ice
+2 Fire/Ice
+3 Fire/Ice
 1 Lightning Bolt
 2 Lightning Bolt
 2 Steam Vents
 3 Lightning Bolt
 4 Lightning Bolt
-3 Solitude
-1 Fire/Ice
-2 Fire/Ice
-3 Fire/Ice
+1 Wall of Omens
+1 Breeding Pool
+2 Field of Ruin
 1 Snow-Covered Island
 3 Misty Rainforest
-1 Breeding Pool
-1 Wall of Omens
+3 Path to Exile
 4 Spreading Seas
 3 Chalice of the Void
-2 Field of Ruin
 3 Polluted Delta
+3 Glacial Fortress
+3 Field of Ruin
 1 Spirebluff Canal
 2 Spirebluff Canal
 2 Snow-Covered Island
@@ -52,6 +55,7 @@
 1 Lightning Helix
 2 Lightning Helix
 1 Rest in Peace
+1 Watery Grave
 1 Omnath, Locus of Creation
 1 Wrenn and Six
 2 Omnath, Locus of Creation
@@ -64,21 +68,19 @@
 4 Ragavan, Nimble Pilferer
 1 Snow-Covered Plains
 1 Arid Mesa
-3 Path to Exile
-3 Glacial Fortress
-3 Field of Ruin
-1 Watery Grave
-4 Castle Vantress
-4 Supreme Verdict
-5 Island
-1 Mountain
-1 Snow-Covered Forest
-1 Sword of Fire and Ice
-4 Field of Ruin
 4 Snapcaster Mage
 1 Irrigated Farmland
+4 Castle Vantress
+4 Supreme Verdict
+3 Hallowed Fountain
+4 Hallowed Fountain
+4 Field of Ruin
+5 Island
+1 Sword of Fire and Ice
 3 Cryptic Command
-1 Sword of Feast and Famine
+1 Mountain
+1 Snow-Covered Forest
+1 Spell Snare
 4 Polluted Delta
 1 Fatal Push
 1 Swamp
@@ -86,56 +88,8 @@
 2 Watery Grave
 3 Fatal Push
 1 Seachrome Coast
-4 Solitude
-3 Hallowed Fountain
-4 Hallowed Fountain
-1 Windswept Heath
-1 Forest
 1 Lonely Sandbar
 3 Omnath, Locus of Creation
-1 Hall of Storm Giants
-3 Force of Negation
-1 Vendilion Clique
-1 Spellstutter Sprite
-2 Spellstutter Sprite
-3 Spellstutter Sprite
-4 Spellstutter Sprite
-1 Ice-Fang Coatl
-1 Glacial Floodplain
-1 Flooded Grove
-1 Eternal Witness
-1 Ephemerate
-2 Ice-Fang Coatl
-2 Breeding Pool
-2 Eternal Witness
-3 Ice-Fang Coatl
-4 Ice-Fang Coatl
-1 Spell Snare
-4 Spirebluff Canal
-2 Arid Mesa
-1 Kaya's Guile
-1 Drowned Catacomb
-2 Drowned Catacomb
-1 Drown in the Loch
-1 Marsh Flats
-2 Drown in the Loch
-3 Drown in the Loch
-4 Drown in the Loch
-1 Spell Pierce
-1 Electrolyze
-1 Journey to Nowhere
-1 Engineered Explosives
-1 Faerie Seer
-1 Glen Elendra Archmage
-2 Faerie Seer
-1 Shadow of Doubt
-2 Shadow of Doubt
-1 Brazen Borrower
-2 Brazen Borrower
-2 Vendilion Clique
-1 Expressive Iteration
-2 Expressive Iteration
-3 Expressive Iteration
 1 Hengegate Pathway
 1 Timeless Dragon
 1 Winds of Abandon
@@ -158,6 +112,44 @@
 2 Valki, God of Lies
 2 Bring to Light
 3 Bring to Light
+4 Solitude
+1 Windswept Heath
+1 Forest
+1 Hall of Storm Giants
+1 Ice-Fang Coatl
+1 Glacial Floodplain
+1 Flooded Grove
+1 Eternal Witness
+1 Ephemerate
+2 Ice-Fang Coatl
+2 Breeding Pool
+2 Eternal Witness
+3 Ice-Fang Coatl
+4 Ice-Fang Coatl
+1 Opt
+2 Opt
+3 Opt
+1 Sword of Feast and Famine
+4 Spirebluff Canal
+2 Arid Mesa
+1 Kaya's Guile
+1 Drowned Catacomb
+2 Drowned Catacomb
+1 Drown in the Loch
+1 Marsh Flats
+2 Drown in the Loch
+3 Drown in the Loch
+4 Drown in the Loch
+1 Spell Pierce
+1 Electrolyze
+1 Journey to Nowhere
+1 Engineered Explosives
+1 Shadow of Doubt
+2 Shadow of Doubt
+1 Expressive Iteration
+2 Expressive Iteration
+3 Expressive Iteration
+3 Force of Negation
 1 Sunken Ruins
 2 Kaya's Guile
 3 Kaya's Guile
@@ -168,6 +160,8 @@
 3 Ephemerate
 3 Eternal Witness
 3 Celestial Colonnade
+2 Rest in Peace
+3 Fact or Fiction
 1 Bloodchief's Thirst
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
@@ -189,11 +183,18 @@
 3 Arid Mesa
 4 Lightning Helix
 4 Arid Mesa
-1 Opt
+1 Vendilion Clique
+1 Faerie Seer
+1 Glen Elendra Archmage
+1 Spellstutter Sprite
+2 Faerie Seer
+2 Spellstutter Sprite
+3 Spellstutter Sprite
+4 Spellstutter Sprite
 2 Snow-Covered Plains
-2 Opt
-3 Opt
 4 Snow-Covered Island
 5 Snow-Covered Island
-2 Rest in Peace
-3 Fact or Fiction
+1 Savai Triome
+3 Plains
+4 Path to Exile
+4 Opt

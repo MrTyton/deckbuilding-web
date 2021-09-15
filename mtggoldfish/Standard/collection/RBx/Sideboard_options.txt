@@ -14,11 +14,11 @@
 1 Valki, God of Lies
 1 Starnheim Unleashed
 2 Crippling Fear
-1 Duress
-2 Duress
 2 Necrotic Fumes
+1 Duress
 1 Heartless Act
 2 Heartless Act
+2 Duress
 1 Introduction to Annihilation
 1 Introduction to Prophecy
 3 Duress
@@ -27,9 +27,9 @@
 4 Duress
 1 Inferno of the Star Mounts
 1 Shredded Sails
+1 Phoenix of Ash
 2 Shredded Sails
 2 Inferno of the Star Mounts
-1 Phoenix of Ash
 2 Phoenix of Ash
 1 Lithoform Blight
 2 Lithoform Blight
@@ -39,63 +39,68 @@
 2 Westgate Regent
 1 Necromentia
 2 Necromentia
-2 Agonizing Remorse
-3 Agonizing Remorse
 1 Go Blank
 3 Mascot Exhibition
 1 Roiling Vortex
+2 Go Blank
+1 Soul Shatter
 1 Callous Bloodmage
 1 Reidane, God of the Worthy
 1 Kaervek, the Spiteful
 2 Kaervek, the Spiteful
-1 Soul Shatter
+1 Extus, Oriq Overlord
 1 Firja's Retribution
 1 Kaya the Inexorable
-1 Extus, Oriq Overlord
 2 Firja's Retribution
 1 Feed the Swarm
-2 Go Blank
 2 Feed the Swarm
 2 Introduction to Prophecy
 1 The Akroan War
 1 Negate
 1 Mythos of Nethroi
 1 Test of Talents
-1 Shadows' Verdict
 1 Disdainful Stroke
+1 Shadows' Verdict
 1 Burning Hands
 1 Redcap Melee
 1 Kiora Bests the Sea God
 2 Roiling Vortex
 2 Redcap Melee
 2 Mythos of Nethroi
-3 Environmental Sciences
-1 Kroxa, Titan of Death's Hunger
 1 Extinction Event
+2 Extinction Event
+1 Kroxa, Titan of Death's Hunger
 1 Skyclave Shade
 1 Embereth Shieldbreaker
-1 Ugin, the Spirit Dragon
 1 Eliminate
-2 Extinction Event
+1 Ugin, the Spirit Dragon
 2 Skyclave Shade
-2 The Akroan War
 2 Eliminate
+2 The Akroan War
 3 Skyclave Shade
+3 Environmental Sciences
+1 Scavenging Ooze
+1 Weathered Runestone
+1 Gemrazer
+2 Scavenging Ooze
+2 Soul Shatter
+2 Weathered Runestone
+2 Gemrazer
+3 Gemrazer
 1 Nighthawk Scavenger
 1 Tergrid, God of Fright
-2 Nighthawk Scavenger
 2 Flunk
+2 Nighthawk Scavenger
 2 Tergrid, God of Fright
 3 Nighthawk Scavenger
 3 Westgate Regent
-3 Inferno of the Star Mounts
 1 Culling Ritual
 2 Culling Ritual
 2 Kroxa, Titan of Death's Hunger
 1 Goldspan Dragon
+1 Klothys, God of Destiny
 1 Immersturm Predator
 1 Professor Onyx
-1 Klothys, God of Destiny
 2 Goldspan Dragon
 2 Klothys, God of Destiny
 2 Immersturm Predator
@@ -104,8 +109,8 @@
 4 Goldspan Dragon
 1 Orcus, Prince of Undeath
 1 Binding the Old Gods
-1 Skeletal Swarming
 1 Shadowspear
+1 Skeletal Swarming
 2 Orcus, Prince of Undeath
 2 Binding the Old Gods
 2 Skeletal Swarming
@@ -115,7 +120,9 @@
 4 Skeletal Swarming
 1 Pestilent Haze
 1 Return to Nature
+2 Agonizing Remorse
 2 Return to Nature
+3 Agonizing Remorse
 3 Return to Nature
 4 Return to Nature
 1 Containment Breach

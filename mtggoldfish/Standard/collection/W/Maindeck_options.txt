@@ -49,8 +49,8 @@
 2 Glacial Floodplain
 2 Glasspool Mimic
 3 Snow-Covered Island
-3 Glacial Floodplain
 3 Glasspool Mimic
+3 Glacial Floodplain
 4 Snow-Covered Island
 4 Glacial Floodplain
 5 Snow-Covered Island
@@ -59,15 +59,43 @@
 8 Snow-Covered Island
 9 Snow-Covered Island
 10 Snow-Covered Island
-1 Ruin Crab
-1 Charix, the Raging Isle
 1 Lithoform Engine
-2 Ruin Crab
-2 Charix, the Raging Isle
-3 Ruin Crab
-3 Charix, the Raging Isle
-4 Ruin Crab
-4 Charix, the Raging Isle
+1 Furycalm Snarl
+2 Furycalm Snarl
+1 Ingenious Smith
+2 Ingenious Smith
+3 Ingenious Smith
+1 Ugin, the Spirit Dragon
+1 Myriad Construct
+1 Dungeon Map
+1 Forsaken Monument
+1 First Day of Class
+1 Labyrinth of Skophos
+1 Radiant Fountain
+1 Unknown Shores
+1 Solemn Simulacrum
+2 Ugin, the Spirit Dragon
+2 Lithoform Engine
+2 Labyrinth of Skophos
+2 Solemn Simulacrum
+2 Forsaken Monument
+2 Unknown Shores
+2 Radiant Fountain
+3 Ugin, the Spirit Dragon
+3 Forsaken Monument
+3 Labyrinth of Skophos
+3 Solemn Simulacrum
+1 Mountain
+1 Fighter Class
+2 Mountain
+3 Mountain
+3 Furycalm Snarl
+4 Mountain
+4 Furycalm Snarl
+5 Mountain
+6 Mountain
+7 Mountain
+8 Mountain
 1 Trickster's Talisman
 1 Tasha's Hideous Laughter
 2 Tasha's Hideous Laughter
@@ -75,39 +103,115 @@
 3 Tasha's Hideous Laughter
 3 Trickster's Talisman
 4 Glasspool Mimic
-4 Tasha's Hideous Laughter
 4 Trickster's Talisman
+4 Tasha's Hideous Laughter
+1 Ruin Crab
+1 Charix, the Raging Isle
+2 Ruin Crab
+2 Charix, the Raging Isle
+3 Ruin Crab
+3 Charix, the Raging Isle
+4 Charix, the Raging Isle
+4 Ruin Crab
 1 Kor Blademaster
 1 Maul of the Skyclaves
-1 Furycalm Snarl
-1 Mountain
-1 Fighter Class
-1 Sea Gate Banneret
 1 +2 Mace
-2 Mountain
-2 Sea Gate Banneret
+1 Sea Gate Banneret
 2 Maul of the Skyclaves
 2 +2 Mace
 2 Fighter Class
 2 Kor Blademaster
-2 Furycalm Snarl
-3 Mountain
-3 Maul of the Skyclaves
+2 Sea Gate Banneret
 3 Sea Gate Banneret
 3 +2 Mace
-3 Fighter Class
 3 Kor Blademaster
-3 Furycalm Snarl
-4 Mountain
-4 Maul of the Skyclaves
+3 Fighter Class
+3 Maul of the Skyclaves
 4 Fighter Class
 4 +2 Mace
-4 Furycalm Snarl
-4 Sea Gate Banneret
+4 Maul of the Skyclaves
 4 Kor Blademaster
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
+4 Sea Gate Banneret
 9 Mountain
+1 Shadowspear
+2 Shadowspear
 27 Plains
+1 Crawling Barrens
+1 Tyrite Sanctum
+1 The World Tree
+1 Starnheim Unleashed
+1 Field of Ruin
+1 Chromatic Orrery
+1 Oswald Fiddlebender
+1 Prophet of the Peak
+1 Maskwood Nexus
+2 Crawling Barrens
+2 The World Tree
+2 Maskwood Nexus
+2 Prophet of the Peak
+2 Oswald Fiddlebender
+2 Dungeon Map
+2 Chromatic Orrery
+3 The World Tree
+3 Dungeon Map
+4 Doomskar
+1 Den of the Bugbear
+1 Leather Armor
+1 Plate Armor
+1 Akiri, Fearless Voyager
+1 Seasoned Hallowblade
+1 Boots of Speed
+1 Dueling Rapier
+1 Team Pennant
+1 Reckless Crew
+1 Zephyr Boots
+1 Bearded Axe
+1 Fervent Champion
+1 Needleverge Pathway
+2 Den of the Bugbear
+2 Plate Armor
+2 Fervent Champion
+2 Team Pennant
+2 Zephyr Boots
+2 Boots of Speed
+2 Dueling Rapier
+2 Needleverge Pathway
+2 Reckless Crew
+3 Den of the Bugbear
+3 Plate Armor
+3 Zephyr Boots
+3 Team Pennant
+3 Needleverge Pathway
+3 Reckless Crew
+3 Fervent Champion
+4 Den of the Bugbear
+4 Plate Armor
+4 Team Pennant
+4 Zephyr Boots
+4 Ingenious Smith
+4 Reckless Crew
+4 Fervent Champion
+4 Needleverge Pathway
+1 Elspeth Conquers Death
+1 Throne of Makindi
+1 Skyclave Relic
+1 Stonecoil Serpent
+1 Snow-Covered Mountain
+1 Frost Bite
+2 Myriad Construct
+2 Stonecoil Serpent
+2 Skyclave Relic
+2 Snow-Covered Mountain
+2 Frost Bite
+2 Throne of Makindi
+2 First Day of Class
+3 Myriad Construct
+3 Throne of Makindi
+3 Snow-Covered Mountain
+3 First Day of Class
+3 Frost Bite
+3 Skyclave Relic
+3 Unknown Shores
+4 Skyclave Relic
+4 Unknown Shores
+4 Myriad Construct
