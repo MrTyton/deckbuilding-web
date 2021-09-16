@@ -1,20 +1,22 @@
-1 Wooded Foothills
-1 Firebolt
-2 Firebolt
 2 Pyrite Spellbomb
 3 Pyrite Spellbomb
 4 Pyrite Spellbomb
 4 Blast Zone
+1 Wooded Foothills
+1 Firebolt
+2 Firebolt
 1 Bloodstained Mire
 12 Mountain
-3 Firebolt
-2 Wooded Foothills
 1 Unholy Heat
 2 Unholy Heat
 3 Unholy Heat
-13 Mountain
+2 Wooded Foothills
 1 Arid Mesa
+3 Firebolt
+13 Mountain
+1 Scalding Tarn
 1 Prismatic Vista
+4 Unholy Heat
 1 Shatterskull Smashing
 2 Shatterskull Smashing
 1 Chalice of the Void
@@ -23,61 +25,57 @@
 4 Chalice of the Void
 2 Prismatic Vista
 3 Prismatic Vista
+1 Ramunap Ruins
+2 Ramunap Ruins
+3 Ramunap Ruins
+4 Ramunap Ruins
+1 Dismember
 1 Cavern of Souls
 1 Wastes
 1 Eldrazi Temple
 1 Thought-Knot Seer
 1 Matter Reshaper
 1 Reality Smasher
+2 Cavern of Souls
+2 Dismember
 2 Thought-Knot Seer
 2 Reality Smasher
 2 Eldrazi Temple
 3 Eldrazi Temple
 3 Thought-Knot Seer
 3 Reality Smasher
+3 Shatterskull Smashing
 4 Eldrazi Temple
 4 Thought-Knot Seer
 4 Reality Smasher
-1 Ramunap Ruins
-2 Ramunap Ruins
-3 Ramunap Ruins
-4 Ramunap Ruins
-1 Dismember
-2 Dismember
-2 Cavern of Souls
-3 Shatterskull Smashing
 4 Shatterskull Smashing
+4 Prismatic Vista
+1 Abrade
 1 Eldrazi Obligator
 2 Eldrazi Obligator
+3 Dismember
 3 Eldrazi Obligator
+4 Eldrazi Obligator
 2 Matter Reshaper
 3 Matter Reshaper
 4 Matter Reshaper
-4 Prismatic Vista
-1 Abrade
-3 Dismember
-4 Eldrazi Obligator
-1 Scalding Tarn
 3 Wooded Foothills
-1 Light Up the Stage
-2 Light Up the Stage
-4 Unholy Heat
-14 Mountain
-15 Mountain
 1 Relic of Progenitus
 2 Relic of Progenitus
 3 Cavern of Souls
+1 Light Up the Stage
+2 Light Up the Stage
 3 Light Up the Stage
-2 Arid Mesa
 4 Firebolt
-2 Bloodstained Mire
+2 Arid Mesa
+3 Relic of Progenitus
+4 Relic of Progenitus
 1 Radiant Fountain
 2 Radiant Fountain
 3 Radiant Fountain
 4 Radiant Fountain
-3 Relic of Progenitus
-4 Relic of Progenitus
-1 Lava Dart
+14 Mountain
+15 Mountain
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Soul-Scar Mage
@@ -85,14 +83,16 @@
 1 Gemstone Caverns
 1 Magus of the Moon
 2 Magus of the Moon
+1 Lava Dart
 1 Monastery Swiftspear
 2 Lava Dart
 2 Monastery Swiftspear
-3 Lava Dart
 3 Monastery Swiftspear
+3 Lava Dart
 4 Light Up the Stage
 4 Monastery Swiftspear
 4 Lava Dart
+2 Bloodstained Mire
 3 Bloodstained Mire
 4 Bloodstained Mire
 4 Wooded Foothills
@@ -104,18 +104,18 @@
 1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
+2 Scalding Tarn
 4 Magus of the Moon
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
 2 Abrade
-1 Ensnaring Bridge
 1 Chandra, Torch of Defiance
+1 Ensnaring Bridge
 2 Ensnaring Bridge
 2 Chandra, Torch of Defiance
 3 Chandra, Torch of Defiance
-2 Scalding Tarn
 2 Wastes
 4 Dismember
 1 Koth of the Hammer
@@ -160,19 +160,32 @@
 2 Scavenger Grounds
 3 Gemstone Caverns
 3 Ensnaring Bridge
-3 Desperate Ritual
 3 Karn, the Great Creator
-4 Desperate Ritual
+3 Desperate Ritual
 4 Karn, the Great Creator
-1 Stomping Ground
-2 Stomping Ground
-2 Sulfurous Springs
+4 Desperate Ritual
+1 Hazoret the Fervent
 1 Stone Rain
 2 Stone Rain
+2 Sulfurous Springs
 3 Fiery Islet
 4 Fiery Islet
+2 Hazoret the Fervent
+3 Scalding Tarn
+4 Scalding Tarn
+1 Stomping Ground
+1 Snow-Covered Forest
+1 Utopia Sprawl
+1 Klothys, God of Destiny
+2 Utopia Sprawl
+2 Snow-Covered Forest
+2 Klothys, God of Destiny
+2 Stomping Ground
+3 Snow-Covered Forest
+3 Stomping Ground
+3 Utopia Sprawl
+4 Utopia Sprawl
 1 Pyretic Ritual
-1 Hazoret the Fervent
 2 Pyretic Ritual
 3 Pyretic Ritual
 4 Gemstone Caverns
@@ -180,32 +193,6 @@
 2 Valakut Awakening
 3 Valakut Awakening
 4 Valakut Awakening
-1 Snow-Covered Forest
-1 Klothys, God of Destiny
-1 Utopia Sprawl
-2 Snow-Covered Forest
-2 Klothys, God of Destiny
-2 Utopia Sprawl
-3 Stomping Ground
-3 Snow-Covered Forest
-3 Utopia Sprawl
-4 Utopia Sprawl
-1 Forest
-1 Ignoble Hierarch
-1 Karplusan Forest
-1 Birds of Paradise
-1 Grove of the Burnwillows
-1 Kessig Wolf Run
-2 Ignoble Hierarch
-2 Karplusan Forest
-2 Birds of Paradise
-2 Grove of the Burnwillows
-3 Ignoble Hierarch
-3 Karplusan Forest
-3 Grove of the Burnwillows
-4 Ignoble Hierarch
-4 Grove of the Burnwillows
-4 Karplusan Forest
 1 Sunbaked Canyon
 2 Sunbaked Canyon
 3 Sunbaked Canyon

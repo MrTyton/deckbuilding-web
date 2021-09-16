@@ -1,10 +1,10 @@
 2 Counterspell
 4 Fatal Push
-3 Counterspell
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
+3 Counterspell
 1 Snow-Covered Swamp
 4 Surgical Extraction
 2 Snow-Covered Swamp
@@ -12,26 +12,26 @@
 1 Snapcaster Mage
 2 Prismatic Vista
 2 Swamp
+1 Hallowed Fountain
 3 Flooded Strand
 3 Prismatic Vista
 1 Clearwater Pathway
-1 Scheming Symmetry
-2 Scheming Symmetry
-4 Watery Grave
 1 Misty Rainforest
-1 Hallowed Fountain
+2 Hallowed Fountain
 4 Flooded Strand
+5 Island
 2 Misty Rainforest
 1 Prismatic Ending
-2 Hallowed Fountain
 2 Prismatic Ending
 1 Murderous Cut
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 3 Soul-Guide Lantern
+1 Scheming Symmetry
+2 Scheming Symmetry
+4 Watery Grave
 1 Into the Story
 1 Maddening Cacophony
-5 Island
 1 Path to Exile
 2 Path to Exile
 3 Hallowed Fountain
@@ -83,10 +83,10 @@
 1 Seachrome Coast
 1 Raugrin Triome
 2 Seachrome Coast
-2 Ensnaring Bridge
 2 Oust
-3 Path to Exile
+2 Ensnaring Bridge
 3 Ensnaring Bridge
+3 Path to Exile
 3 Mesmeric Orb
 4 Path to Exile
 1 Echoing Truth
@@ -103,6 +103,23 @@
 3 Scheming Symmetry
 4 Glimpse the Unthinkable
 4 Fraying Sanity
+1 Sea Gate Restoration
+1 Archmage's Charm
+1 Cryptic Command
+1 Sanity Grinding
+1 Devastation Tide
+2 Cryptic Command
+2 Sea Gate Restoration
+2 Archmage's Charm
+2 Devastation Tide
+2 Sanity Grinding
+3 Sea Gate Restoration
+3 Sanity Grinding
+3 Devastation Tide
+3 Archmage's Charm
+4 Sanity Grinding
+4 Devastation Tide
+4 Sea Gate Restoration
 4 Misty Rainforest
 5 Snow-Covered Island
 1 Jace's Phantasm

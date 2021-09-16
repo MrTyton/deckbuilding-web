@@ -104,29 +104,29 @@
 2 Wrenn and Six
 1 Esper Sentinel
 1 Thalia, Guardian of Thraben
-2 Esper Sentinel
 2 Thalia, Guardian of Thraben
-3 Esper Sentinel
+2 Esper Sentinel
 3 Thalia, Guardian of Thraben
+3 Esper Sentinel
 1 Ranger-Captain of Eos
 2 Ranger-Captain of Eos
 3 Ranger-Captain of Eos
 4 Ranger-Captain of Eos
 4 Emry, Lurker of the Loch
+1 Giver of Runes
 1 Arid Mesa
 1 Thraben Inspector
-1 Giver of Runes
 1 Concealed Courtyard
 2 Arid Mesa
 2 Thraben Inspector
-2 Godless Shrine
 2 Plains
 2 Concealed Courtyard
+2 Godless Shrine
 3 Marsh Flats
 3 Concealed Courtyard
 4 Concealed Courtyard
-4 Esper Sentinel
 4 Marsh Flats
+4 Esper Sentinel
 1 Power Conduit
 1 Expressive Iteration
 2 Expressive Iteration
@@ -142,16 +142,16 @@
 1 Blackcleave Cliffs
 1 Mayhem Devil
 1 Bloodghast
+2 Blackcleave Cliffs
 2 Blood Crypt
 2 Bloodghast
 2 Goblin Bombardment
-2 Blackcleave Cliffs
 2 Mayhem Devil
 3 Bloodghast
+3 Blackcleave Cliffs
 3 Bloodstained Mire
 3 Blood Crypt
 3 Goblin Bombardment
-3 Blackcleave Cliffs
 3 Mayhem Devil
 4 Blackcleave Cliffs
 4 Bloodstained Mire
@@ -186,6 +186,14 @@
 1 Llanowar Wastes
 2 Llanowar Wastes
 4 Trail of Crumbs
+1 Tarmogoyf
+1 Grist, the Hunger Tide
+2 Grist, the Hunger Tide
+2 Stomping Ground
+2 Tarmogoyf
+3 Tarmogoyf
+4 Copperline Gorge
+4 Tarmogoyf
 1 Cavern of Souls
 1 Gut Shot
 1 Talisman of Progress
@@ -195,8 +203,8 @@
 2 Talisman of Progress
 3 Cavern of Souls
 3 Talisman of Progress
-4 Cavern of Souls
 4 Talisman of Progress
+4 Cavern of Souls
 1 Yavimaya, Cradle of Growth
 4 Wooded Foothills
 4 Wrenn and Six
@@ -204,12 +212,4 @@
 2 Shardless Agent
 3 Shardless Agent
 4 Shardless Agent
-1 Grist, the Hunger Tide
-1 Tarmogoyf
-2 Grist, the Hunger Tide
-2 Stomping Ground
-2 Tarmogoyf
-3 Tarmogoyf
-4 Copperline Gorge
-4 Tarmogoyf
 4 Cauldron Familiar
