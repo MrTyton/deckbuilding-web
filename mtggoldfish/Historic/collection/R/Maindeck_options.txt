@@ -1,26 +1,26 @@
-1 Den of the Bugbear
+1 Sunscorched Desert
+2 Hazoret the Fervent
+2 Rampaging Ferocidon
+6 Mountain
+2 Sunscorched Desert
+1 Chandra, Acolyte of Flame
 7 Mountain
-2 Den of the Bugbear
+1 Den of the Bugbear
 8 Mountain
 9 Mountain
+2 Den of the Bugbear
+10 Mountain
+11 Mountain
 1 Seasoned Pyromancer
-2 Seasoned Pyromancer
-3 Seasoned Pyromancer
-4 Seasoned Pyromancer
 1 Dragon's Rage Channeler
 2 Dragon's Rage Channeler
+2 Seasoned Pyromancer
 3 Dragon's Rage Channeler
 4 Dragon's Rage Channeler
-10 Mountain
-2 Hazoret the Fervent
-2 Earthshaker Khenra
-1 Sunscorched Desert
+3 Seasoned Pyromancer
+4 Seasoned Pyromancer
 3 Den of the Bugbear
-2 Rampaging Ferocidon
-1 Chandra, Acolyte of Flame
-2 Sunscorched Desert
 1 Unholy Heat
-11 Mountain
 2 Unholy Heat
 1 Faithless Looting
 1 Blazing Rootwalla
@@ -37,13 +37,13 @@
 4 Fiery Temper
 13 Mountain
 3 Unholy Heat
-4 Den of the Bugbear
 1 Hollow One
 2 Hollow One
 3 Hollow One
 4 Hollow One
 1 Ox of Agonas
 4 Unholy Heat
+4 Den of the Bugbear
 2 Ox of Agonas
 1 Pillar of Flame
 2 Pillar of Flame
@@ -64,50 +64,43 @@
 4 Cragcrown Pathway
 4 Atarka's Command
 4 Bonecrusher Giant
+3 Pillar of Flame
+3 Ghitu Lavarunner
+1 Managorger Phoenix
+1 Roiling Vortex
 1 Static Discharge
 2 Static Discharge
 3 Static Discharge
 4 Static Discharge
-1 Managorger Phoenix
-3 Pillar of Flame
-3 Ghitu Lavarunner
+15 Mountain
 2 Managorger Phoenix
 3 Managorger Phoenix
 4 Managorger Phoenix
-1 Roiling Vortex
-15 Mountain
 2 Roiling Vortex
-1 Shatterskull Smashing
+4 Ghitu Lavarunner
 1 Flameblade Adept
 2 Flameblade Adept
 3 Flameblade Adept
 4 Flameblade Adept
-4 Ghitu Lavarunner
 1 Burning-Tree Emissary
 2 Burning-Tree Emissary
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
-1 Castle Embereth
-1 Chandra, Torch of Defiance
 3 Rampaging Ferocidon
 4 Rampaging Ferocidon
-1 Goblin Chainwhirler
-1 Lightning Axe
 1 Skewer the Critics
 2 Skewer the Critics
 3 Skewer the Critics
+1 Lightning Axe
+1 Chandra, Torch of Defiance
 1 Grim Lavamancer
+1 Castle Embereth
+1 Shatterskull Smashing
 15 Snow-Covered Mountain
+1 Goblin Chainwhirler
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
-1 Spirebluff Canal
-1 Steam Vents
-2 Spirebluff Canal
-2 Steam Vents
-3 Steam Vents
-4 Steam Vents
 2 Lightning Axe
-2 Shatterskull Smashing
 3 Roiling Vortex
 4 Roiling Vortex
 1 Treasure Vault
@@ -115,57 +108,39 @@
 3 Treasure Vault
 1 Kari Zev, Skyship Raider
 1 Spikefield Hazard
+4 Skewer the Critics
+1 Torbran, Thane of Red Fell
+2 Shatterskull Smashing
+16 Snow-Covered Mountain
+1 Fervent Champion
 1 Robber of the Rich
+1 Embercleave
 1 Anax, Hardened in the Forge
+2 Fervent Champion
 2 Robber of the Rich
+2 Embercleave
 2 Anax, Hardened in the Forge
+3 Fervent Champion
 3 Robber of the Rich
 3 Anax, Hardened in the Forge
+4 Fervent Champion
 4 Robber of the Rich
-1 Torbran, Thane of Red Fell
-4 Skewer the Critics
+1 Spirebluff Canal
+1 Steam Vents
+2 Spirebluff Canal
+2 Steam Vents
+3 Steam Vents
+4 Steam Vents
+4 Treasure Vault
+2 Spikefield Hazard
 1 Reckless Ringleader
 2 Reckless Ringleader
 3 Reckless Ringleader
 4 Reckless Ringleader
-16 Snow-Covered Mountain
 2 Faceless Haven
-1 Fervent Champion
-1 Embercleave
-2 Fervent Champion
-2 Embercleave
-3 Fervent Champion
-4 Fervent Champion
-1 Opt
-1 Sprite Dragon
-1 Expressive Iteration
-1 Riverglide Pathway
-1 Stormwing Entity
-2 Opt
-2 Sprite Dragon
-2 Expressive Iteration
-2 Stormwing Entity
-2 Riverglide Pathway
-3 Opt
-3 Spirebluff Canal
-3 Expressive Iteration
-3 Stormwing Entity
-3 Riverglide Pathway
-4 Opt
-4 Spirebluff Canal
-4 Expressive Iteration
-4 Stormwing Entity
-4 Riverglide Pathway
-4 Treasure Vault
-2 Spikefield Hazard
-2 Chandra, Torch of Defiance
-2 Castle Embereth
 3 Earthshaker Khenra
-3 Faceless Haven
-4 Faceless Haven
 3 Embercleave
 16 Mountain
-3 Sprite Dragon
 1 Crash Through
 1 Dreadhorde Arcanist
 2 Crash Through
@@ -178,15 +153,18 @@
 1 Wayward Guide-Beast
 1 Roil Eruption
 2 Grim Lavamancer
-3 Castle Embereth
 1 Shadowspear
 1 Ahn-Crop Crasher
 2 Ahn-Crop Crasher
+3 Faceless Haven
+4 Faceless Haven
 4 Earthshaker Khenra
 4 Embercleave
 3 Spikefield Hazard
 4 Spikefield Hazard
+2 Castle Embereth
 4 Goblin Chainwhirler
+2 Chandra, Torch of Defiance
 3 Chandra, Torch of Defiance
 1 Forgotten Cave
 1 Faithless Salvaging
@@ -196,8 +174,8 @@
 1 Magmatic Channeler
 2 Magmatic Channeler
 1 Needleverge Pathway
-1 Inspiring Vantage
 1 Sacred Foundry
+1 Inspiring Vantage
 2 Needleverge Pathway
 2 Sacred Foundry
 2 Inspiring Vantage
@@ -208,7 +186,6 @@
 1 Blood Crypt
 2 Blood Crypt
 3 Blood Crypt
-1 Rimrock Knight
 1 Soul-Guide Lantern
 1 Footfall Crater
 2 Roil Eruption
@@ -225,7 +202,8 @@
 2 Tibalt, Rakish Instigator
 2 Underworld Rage-Hound
 3 Sunscorched Desert
-4 Castle Embereth
+1 Rimrock Knight
+3 Castle Embereth
 3 Magmatic Channeler
 3 Shatterskull Smashing
 4 Magmatic Channeler

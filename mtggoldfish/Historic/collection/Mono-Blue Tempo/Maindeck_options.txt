@@ -1,7 +1,5 @@
 2 Siren Stormtamer
 1 Dive Down
-1 Unsummon
-2 Unsummon
 1 Pteramander
 2 Pteramander
 3 Siren Stormtamer
@@ -26,60 +24,60 @@
 16 Island
 17 Island
 4 Spell Pierce
-3 Faceless Haven
-1 Sea-Dasher Octopus
 1 Brineborn Cutthroat
 1 Opt
 2 Opt
+3 Faceless Haven
+1 Unsummon
+2 Unsummon
 1 Lookout's Dispersal
 2 Lookout's Dispersal
+3 Opt
 18 Island
+4 Pteramander
+1 Sea-Dasher Octopus
 1 Memory Lapse
 1 Shacklegeist
 2 Shacklegeist
-2 Sea-Dasher Octopus
-3 Opt
-4 Pteramander
-19 Island
-2 Memory Lapse
-3 Shacklegeist
 2 Brineborn Cutthroat
 3 Lookout's Dispersal
 4 Opt
+19 Island
+2 Sea-Dasher Octopus
+2 Memory Lapse
+3 Shacklegeist
 2 Dive Down
-3 Curiosity
+3 Brineborn Cutthroat
+4 Brineborn Cutthroat
 3 Memory Lapse
+4 Lookout's Dispersal
+3 Curiosity
 3 Nebelgast Herald
 4 Nebelgast Herald
 1 Miscast
 3 Essence Capture
-3 Brineborn Cutthroat
-4 Brineborn Cutthroat
 19 Snow-Covered Island
 1 Perilous Voyage
-4 Lookout's Dispersal
 1 Quench
 2 Quench
 1 Tempest Djinn
 4 Curiosity
-3 Unsummon
 1 Archmage's Charm
 2 Perilous Voyage
+3 Unsummon
+20 Island
 1 Negate
 3 Dive Down
 4 Memory Lapse
-1 Wizard's Retort
-2 Wizard's Retort
-20 Island
 1 Into the Roil
-1 Reject
 1 Essence Scatter
+1 Reject
 1 Nimble Obstructionist
-1 Threnody Singer
 1 Slither Blade
+1 Threnody Singer
+2 Castle Vantress
 2 Nimble Obstructionist
 2 Threnody Singer
-2 Castle Vantress
 2 Archmage's Charm
 1 You See a Guard Approach
 2 You See a Guard Approach
@@ -90,12 +88,10 @@
 1 Kira, Great Glass-Spinner
 2 Kira, Great Glass-Spinner
 4 Shacklegeist
+1 Wizard's Retort
+2 Wizard's Retort
 2 Tempest Djinn
 3 Wizard's Retort
 4 Wizard's Retort
-1 Faerie Vandal
-2 Faerie Vandal
-3 Faerie Vandal
-4 Faerie Vandal
 3 Sea-Dasher Octopus
 4 Sea-Dasher Octopus
