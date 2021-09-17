@@ -10,10 +10,10 @@
 2 Reidane, God of the Worthy
 1 Elite Spellbinder
 2 Elite Spellbinder
-1 Ajani, Strength of the Pride
-3 Reidane, God of the Worthy
-1 Giant Killer
 3 Rest in Peace
+3 Reidane, God of the Worthy
+1 Ajani, Strength of the Pride
+1 Giant Killer
 2 Knight of Autumn
 1 Kaheera, the Orphanguard
 1 Authority of the Consuls
@@ -35,6 +35,7 @@
 1 Day of Judgment
 1 Into the Roil
 3 Baffling End
+3 Thalia, Guardian of Thraben
 1 Guardian of Faith
 2 Settle the Wreckage
 3 Dovin's Veto
@@ -47,12 +48,12 @@
 3 Selfless Savior
 2 Disdainful Stroke
 3 Adanto Vanguard
+1 Teferi's Protection
 1 Lyra Dawnbringer
 1 Gideon Blackblade
 2 Gideon Blackblade
 1 Remorseful Cleric
 2 Remorseful Cleric
-1 Teferi's Protection
 1 Devout Decree
 2 Devout Decree
 3 Devout Decree
@@ -60,10 +61,13 @@
 2 Unbreakable Formation
 3 Unbreakable Formation
 1 Doomskar
-1 Swan Song
-1 Commit/Memory
-1 Nezahal, Primal Tide
 2 Teferi's Protection
+1 Commit/Memory
+1 Yorion, Sky Nomad
+1 Swan Song
+1 Nezahal, Primal Tide
+1 Wrath of God
+2 Wrath of God
 1 Mana Tithe
 2 Mana Tithe
 2 Guardian of Faith
@@ -86,6 +90,10 @@
 1 Frilled Mystic
 1 Cataclysmic Gearhulk
 2 Frilled Mystic
+1 Containment Priest
+1 Daxos, Blessed by the Sun
+2 Containment Priest
+3 Containment Priest
 1 Angelic Ascension
 1 Heliod's Intervention
 1 Deafening Silence
@@ -95,13 +103,6 @@
 3 Deafening Silence
 1 Tamiyo, Collector of Tales
 3 Disdainful Stroke
-1 Containment Priest
-1 Daxos, Blessed by the Sun
-2 Containment Priest
-3 Containment Priest
-1 Wrath of God
-2 Wrath of God
-3 Thalia, Guardian of Thraben
 1 Legion Angel
 2 Legion Angel
 4 Selfless Savior
@@ -117,10 +118,6 @@
 2 Carnage Tyrant
 3 Elite Spellbinder
 4 Elite Spellbinder
-1 Angel of Vitality
-2 Angel of Vitality
-3 Angel of Vitality
-4 Rest in Peace
 1 Portable Hole
 1 Elder Gargaroth
 1 Narset, Parter of Veils
@@ -134,8 +131,12 @@
 1 Bronzehide Lion
 2 Bronzehide Lion
 3 Heroic Intervention
-4 Heroic Intervention
 4 Adanto Vanguard
+4 Heroic Intervention
+1 Angel of Vitality
+2 Angel of Vitality
+3 Angel of Vitality
+4 Rest in Peace
 3 Settle the Wreckage
 1 Gods Willing
 1 Light of Hope

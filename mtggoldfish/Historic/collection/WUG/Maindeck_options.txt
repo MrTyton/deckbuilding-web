@@ -7,8 +7,8 @@
 3 Glasspool Mimic
 8 Plains
 9 Plains
-1 Castle Ardenvale
 1 Forest
+1 Castle Ardenvale
 10 Plains
 1 Angel of Vitality
 2 Angel of Vitality
@@ -17,39 +17,44 @@
 2 Declaration in Stone
 1 Heliod, Sun-Crowned
 1 Elite Spellbinder
+1 Wall of Blossoms
+2 Wall of Blossoms
 1 Breeding Pool
 2 Breeding Pool
-1 Wall of Blossoms
+2 Elite Spellbinder
 1 Soulherder
-2 Wall of Blossoms
 2 Soulherder
 3 Soulherder
 4 Soulherder
 3 Breeding Pool
 1 Prosperous Innkeeper
-2 Elite Spellbinder
 2 Prosperous Innkeeper
-2 Ajani, Strength of the Pride
-1 The Book of Exalted Deeds
 1 Llanowar Elves
 2 Llanowar Elves
 3 Llanowar Elves
 4 Llanowar Elves
-1 Barkchannel Pathway
-1 Emeria's Call
 2 Forest
-4 Glasspool Mimic
-1 Blade Splicer
-2 Barkchannel Pathway
-2 Blade Splicer
-1 Militia Bugler
-3 Prosperous Innkeeper
-4 Breeding Pool
+2 Ajani, Strength of the Pride
+1 Barkchannel Pathway
 1 Ephemerate
 2 Ephemerate
 3 Wall of Blossoms
 3 Ephemerate
 4 Wall of Blossoms
+1 The Book of Exalted Deeds
+1 Emeria's Call
+4 Breeding Pool
+1 Militia Bugler
+3 Prosperous Innkeeper
+1 Blade Splicer
+2 Barkchannel Pathway
+2 Blade Splicer
+3 Elite Spellbinder
+1 Restoration Angel
+2 Restoration Angel
+1 Lair of the Hydra
+4 Ephemerate
+4 Glasspool Mimic
 1 Trelasarra, Moon Dancer
 2 Trelasarra, Moon Dancer
 1 Baffling End
@@ -62,29 +67,29 @@
 2 Fabled Passage
 3 Fabled Passage
 2 Snow-Covered Plains
-1 Rimewood Falls
 1 Memory Lapse
-1 Arctic Treeline
+1 Rimewood Falls
 1 Nissa, Who Shakes the World
 1 Hydroid Krasis
+1 Snow-Covered Forest
 1 Snow-Covered Island
 1 Narset, Parter of Veils
 1 Shark Typhoon
-1 Snow-Covered Forest
 1 Into the North
+1 Arctic Treeline
 2 Memory Lapse
 2 Nissa, Who Shakes the World
 2 Hydroid Krasis
+2 Snow-Covered Forest
 2 Shark Typhoon
 2 Rimewood Falls
-2 Snow-Covered Forest
 2 Into the North
 3 Shark Typhoon
 3 Rimewood Falls
 3 Nissa, Who Shakes the World
 3 Into the North
-4 Shark Typhoon
 4 Nissa, Who Shakes the World
+4 Shark Typhoon
 4 Into the North
 1 Into the Roil
 1 Commit/Memory
@@ -93,90 +98,114 @@
 2 Snow-Covered Island
 2 Yasharn, Implacable Earth
 2 Narset, Parter of Veils
-3 Memory Lapse
 3 Narset, Parter of Veils
+3 Memory Lapse
 4 Glacial Fortress
 4 Fabled Passage
 4 Memory Lapse
+1 Knight of Autumn
+1 Charming Prince
+2 Knight of Autumn
+2 Lair of the Hydra
+2 Charming Prince
+2 Militia Bugler
+1 Gilded Goose
+1 Rise and Shine
+1 Lonis, Cryptozoologist
+2 Rise and Shine
+1 Thraben Inspector
+2 Thraben Inspector
+3 Forest
 1 Daxos, Blessed by the Sun
 2 Daxos, Blessed by the Sun
-1 Gilded Goose
-1 Lonis, Cryptozoologist
-1 Rise and Shine
-2 Rise and Shine
-3 Elite Spellbinder
-2 Militia Bugler
 2 Heliod, Sun-Crowned
 1 Shalai, Voice of Plenty
 1 Lyra Dawnbringer
 11 Plains
 12 Plains
 13 Plains
-1 Lair of the Hydra
-4 Ephemerate
-1 Restoration Angel
-2 Restoration Angel
 2 Settle the Wreckage
+1 Thragtusk
 1 Tamiyo, Collector of Tales
 2 Wrath of God
 2 Baffling End
 3 Wrath of God
 3 Baffling End
 3 Declaration in Stone
-1 Knight of Autumn
-1 Charming Prince
 1 Irrigated Farmland
 2 Irrigated Farmland
-2 Lair of the Hydra
-2 Knight of Autumn
-2 Charming Prince
 4 Prosperous Innkeeper
 1 Vesperlark
-1 Thraben Inspector
 1 Brazen Borrower
 1 Ranger-Captain of Eos
 2 Vesperlark
-2 Thraben Inspector
-3 Forest
 4 Forest
 1 Toski, Bearer of Secrets
 2 Toski, Bearer of Secrets
 3 Angel of Vitality
 4 Angel of Vitality
+1 Indatha Triome
+2 Indatha Triome
+1 Temple of Plenty
+1 Cave of the Frost Dragon
+2 Temple of Plenty
+1 Abundant Harvest
+4 Elite Spellbinder
+1 Turntimber Symbiosis
+1 Yorion, Sky Nomad
+2 Thragtusk
+2 Yorion, Sky Nomad
+2 Turntimber Symbiosis
+3 Thragtusk
+3 Restoration Angel
+4 Restoration Angel
 2 Lonis, Cryptozoologist
 4 Hengegate Pathway
-1 Rest in Peace
-14 Plains
+1 Timeless Witness
+1 Elspeth Conquers Death
+2 Elspeth Conquers Death
 3 Blade Splicer
-1 Day of Judgment
+1 Rest in Peace
 2 Emeria's Call
+14 Plains
+1 Day of Judgment
 1 Cleric Class
 2 The Book of Exalted Deeds
-1 Thragtusk
 1 Hinterland Harbor
 2 Hinterland Harbor
 2 Faceless Haven
+1 Tolsimir, Friend to Wolves
+1 Llanowar Visionary
+1 Scattered Groves
+2 Scattered Groves
+2 Llanowar Visionary
+2 Abundant Harvest
+2 Tolsimir, Friend to Wolves
+3 Llanowar Visionary
+3 Lair of the Hydra
+3 Charming Prince
+4 Llanowar Visionary
+4 Lair of the Hydra
 1 Legion Angel
-1 Indatha Triome
 1 Chatterfang, Squirrel General
-2 Indatha Triome
 1 Basri Ket
 2 Basri Ket
+2 Cave of the Frost Dragon
 1 Reidane, God of the Worthy
 1 Dromoka's Command
 2 Reidane, God of the Worthy
 2 Dromoka's Command
-1 Temple of Plenty
-1 Cave of the Frost Dragon
-2 Cave of the Frost Dragon
-2 Temple of Plenty
-1 Abundant Harvest
 1 Seal Away
 2 Seal Away
 3 Seal Away
 1 Skyclave Cleric
 2 Skyclave Cleric
 3 Skyclave Cleric
+1 Scavenging Ooze
+1 Man-o'-War
+2 Gilded Goose
+2 Scavenging Ooze
+3 Lonis, Cryptozoologist
 1 Labyrinth of Skophos
 1 Ajani's Welcome
 1 Authority of the Consuls
@@ -195,33 +224,9 @@
 4 Mana Tithe
 3 Trelasarra, Moon Dancer
 4 Trelasarra, Moon Dancer
-1 Scavenging Ooze
-1 Man-o'-War
-2 Gilded Goose
-2 Scavenging Ooze
-3 Lonis, Cryptozoologist
-4 Elite Spellbinder
-1 Selfless Savior
-2 Selfless Savior
-3 Selfless Savior
-4 Selfless Savior
-1 Godless Shrine
-1 Brightclimb Pathway
-1 Isolated Chapel
-1 Vito, Thorn of the Dusk Rose
-2 Brightclimb Pathway
-2 Vito, Thorn of the Dusk Rose
-2 Isolated Chapel
-3 Vito, Thorn of the Dusk Rose
-3 Brightclimb Pathway
-4 Brightclimb Pathway
-1 Swan Song
-2 Swan Song
-4 Linvala, Shield of Sea Gate
 1 Island
 1 Glorious Protector
 1 Faceless Agent
-1 Timeless Witness
 1 Koma, Cosmos Serpent
 1 Vivien, Monsters' Advocate
 1 Primal Command
@@ -233,6 +238,23 @@
 2 Timeless Witness
 3 Elvish Visionary
 4 Elvish Visionary
+1 Selfless Savior
+2 Selfless Savior
+3 Selfless Savior
+4 Selfless Savior
+1 Godless Shrine
+1 Brightclimb Pathway
+1 Vito, Thorn of the Dusk Rose
+1 Isolated Chapel
+2 Brightclimb Pathway
+2 Vito, Thorn of the Dusk Rose
+2 Isolated Chapel
+3 Vito, Thorn of the Dusk Rose
+3 Brightclimb Pathway
+4 Brightclimb Pathway
+1 Swan Song
+2 Swan Song
+4 Linvala, Shield of Sea Gate
 1 Explore
 1 Cultivate
 1 Ugin, the Spirit Dragon
@@ -255,19 +277,11 @@
 2 Remorseful Cleric
 3 Remorseful Cleric
 4 Remorseful Cleric
-1 Turntimber Symbiosis
-1 Yorion, Sky Nomad
 1 Lumbering Lightshield
-2 Thragtusk
-2 Yorion, Sky Nomad
-2 Turntimber Symbiosis
 2 Lumbering Lightshield
-3 Thragtusk
 3 Barkchannel Pathway
-3 Restoration Angel
 3 Lumbering Lightshield
 4 Barkchannel Pathway
-4 Restoration Angel
 4 Lumbering Lightshield
 4 Thragtusk
 4 Blade Splicer
@@ -289,13 +303,11 @@
 11 Snow-Covered Plains
 12 Snow-Covered Plains
 1 Legion's Landing
-1 Elspeth Conquers Death
 1 Secluded Steppe
 1 Angel of Destiny
 1 Light of Hope
 1 Divine Gambit
 2 Legion's Landing
-2 Elspeth Conquers Death
 2 Secluded Steppe
 2 Shalai, Voice of Plenty
 2 Divine Gambit

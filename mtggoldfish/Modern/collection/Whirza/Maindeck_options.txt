@@ -31,11 +31,11 @@
 2 Misty Rainforest
 3 Metallic Rebuke
 4 Glimmervoid
+1 Breeding Pool
 1 Emry, Lurker of the Loch
 1 Springleaf Drum
 1 The Underworld Cookbook
 1 Aether Vial
-1 Breeding Pool
 1 Ovalchase Daredevil
 1 Gilded Goose
 1 Asmoranomardicadaistinaculdacar
@@ -85,9 +85,9 @@
 1 Thraben Inspector
 1 Hex Parasite
 1 Eladamri's Call
-2 Polluted Delta
-2 Thraben Inspector
 2 Eladamri's Call
+2 Thraben Inspector
+2 Polluted Delta
 3 Thraben Inspector
 4 Thraben Inspector
 1 Cryptic Command
@@ -107,8 +107,8 @@
 1 Talisman of Creativity
 2 Plains
 3 Galvanic Blast
-1 Watery Grave
 1 Cavern of Souls
+1 Watery Grave
 3 Counterspell
 4 Counterspell
 1 Expedition Map
@@ -116,26 +116,13 @@
 1 Sorcerous Spyglass
 2 Engineered Explosives
 4 Chalice of the Void
-1 Batterskull
-1 Stoneforge Mystic
-1 Nettlecyst
-2 Stoneforge Mystic
-2 Soul-Guide Lantern
-2 Path to Exile
-2 Snow-Covered Plains
-3 Snow-Covered Island
-3 Stoneforge Mystic
-3 Hallowed Fountain
-4 Stoneforge Mystic
-4 Snow-Covered Island
-5 Snow-Covered Island
 1 Torpor Orb
-1 Thoughtseize
 1 Karn, the Great Creator
 1 Underground River
-1 Inquisition of Kozilek
 1 Grafdigger's Cage
 1 Collective Brutality
+1 Thoughtseize
+1 Inquisition of Kozilek
 1 Codex Shredder
 1 River of Tears
 1 Talisman of Dominance
@@ -143,23 +130,36 @@
 1 Lantern of Insight
 1 Pyxis of Pandemonium
 2 Darkslick Shores
-2 Thoughtseize
 2 Karn, the Great Creator
 2 Underground River
-2 Inquisition of Kozilek
-2 Pithing Needle
 2 Collective Brutality
+2 Pithing Needle
 2 River of Tears
 2 Codex Shredder
 2 Talisman of Dominance
 2 Ensnaring Bridge
 2 Lantern of Insight
+2 Thoughtseize
+2 Inquisition of Kozilek
 3 Darkslick Shores
-3 Inquisition of Kozilek
 3 Collective Brutality
 3 Talisman of Dominance
 3 Codex Shredder
+3 Inquisition of Kozilek
 3 Lantern of Insight
 4 Darkslick Shores
 4 Codex Shredder
 4 Lantern of Insight
+1 Nettlecyst
+1 Batterskull
+1 Stoneforge Mystic
+2 Snow-Covered Plains
+2 Soul-Guide Lantern
+2 Path to Exile
+2 Stoneforge Mystic
+3 Snow-Covered Island
+3 Stoneforge Mystic
+3 Hallowed Fountain
+4 Snow-Covered Island
+5 Snow-Covered Island
+4 Stoneforge Mystic

@@ -1,4 +1,3 @@
-2 Lair of the Hydra
 1 Steel Leaf Champion
 2 Steel Leaf Champion
 3 Steel Leaf Champion
@@ -10,20 +9,22 @@
 3 Werewolf Pack Leader
 4 Old-Growth Troll
 4 Werewolf Pack Leader
-1 Scavenging Ooze
+3 Ranger Class
 4 Steel Leaf Champion
+1 Scavenging Ooze
 1 Rhonas the Indomitable
-2 Scavenging Ooze
 1 Collected Company
 2 Collected Company
 3 Collected Company
+2 Scavenging Ooze
+4 Collected Company
 1 Yorvo, Lord of Garenbrig
 1 The Great Henge
-4 Collected Company
 3 Lair of the Hydra
 4 Lair of the Hydra
 4 Nissa, Who Shakes the World
 14 Forest
+2 Yorvo, Lord of Garenbrig
 1 Hashep Oasis
 2 Hashep Oasis
 1 Snow-Covered Forest
@@ -38,26 +39,25 @@
 10 Snow-Covered Forest
 11 Snow-Covered Forest
 12 Snow-Covered Forest
-2 Yorvo, Lord of Garenbrig
 13 Snow-Covered Forest
 14 Snow-Covered Forest
 15 Snow-Covered Forest
-1 Ghalta, Primal Hunger
 1 Blizzard Brawl
 2 Blizzard Brawl
-2 Ghalta, Primal Hunger
+1 Ghalta, Primal Hunger
 16 Snow-Covered Forest
-1 Aspect of Hydra
 1 Garruk's Harbinger
-2 The Great Henge
-2 Aspect of Hydra
 2 Garruk's Harbinger
 3 Garruk's Harbinger
 4 Garruk's Harbinger
-1 Surrak, the Hunt Caller
-2 Surrak, the Hunt Caller
+1 Aspect of Hydra
+2 Ghalta, Primal Hunger
+2 The Great Henge
+2 Aspect of Hydra
 1 Primal Might
 2 Primal Might
+1 Surrak, the Hunt Caller
+2 Surrak, the Hunt Caller
 4 Ranger Class
 3 Blizzard Brawl
 2 Rhonas the Indomitable
@@ -65,12 +65,11 @@
 1 Wolfwillow Haven
 4 Blizzard Brawl
 1 Heart of Kiran
-15 Forest
-3 Aspect of Hydra
-4 Aspect of Hydra
+1 Stubborn Denial
 1 Breeding Pool
 1 Botanical Sanctum
 1 Barkchannel Pathway
+2 Stubborn Denial
 2 Botanical Sanctum
 2 Barkchannel Pathway
 2 Breeding Pool
@@ -80,24 +79,23 @@
 4 Botanical Sanctum
 4 Barkchannel Pathway
 4 Breeding Pool
-1 Stubborn Denial
-2 Stubborn Denial
 4 Llanowar Visionary
+15 Forest
+3 Aspect of Hydra
+4 Aspect of Hydra
+1 Tangled Florahedron
 3 Stubborn Denial
 2 Wolfwillow Haven
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 3 Hashep Oasis
-1 Tangled Florahedron
 2 Tangled Florahedron
 3 Wolfwillow Haven
 4 Karn, the Great Creator
 1 Barkhide Troll
 2 Barkhide Troll
 4 Hashep Oasis
-3 The Great Henge
-3 Ghalta, Primal Hunger
 1 Turntimber Symbiosis
 2 Turntimber Symbiosis
 3 Turntimber Symbiosis
@@ -107,10 +105,10 @@
 1 Cascading Cataracts
 1 Golos, Tireless Pilgrim
 1 Arboreal Grazer
+1 Nissa's Pilgrimage
 1 Ulamog, the Ceaseless Hunger
 1 Sanctum of Ugin
 1 Shrine of the Forsaken Gods
-1 Nissa's Pilgrimage
 2 Ugin, the Spirit Dragon
 2 World Breaker
 2 Nissa's Pilgrimage
@@ -124,7 +122,6 @@
 4 Ugin, the Spirit Dragon
 4 Nissa's Pilgrimage
 4 Shrine of the Forsaken Gods
-16 Forest
 3 Scavenging Ooze
 1 Jadelight Ranger
 2 Jadelight Ranger
@@ -139,123 +136,19 @@
 1 Arch of Orazca
 2 Mazemind Tome
 2 Hour of Promise
+3 The Great Henge
 1 Questing Beast
 1 Kazandu Mammoth
 2 Kazandu Mammoth
+3 Ghalta, Primal Hunger
 1 Field of Ruin
-1 Yavimaya Coast
-2 Yavimaya Coast
-3 Yavimaya Coast
-1 Unsummon
-1 Dragon Turtle
-1 Omen of the Sea
-1 Brazen Borrower
-1 Entrancing Melody
-1 Silumgar's Scorn
-1 Mutavault
-1 Glasspool Mimic
-1 Island
-1 Gadwick, the Wizened
-2 Glasspool Mimic
-2 Dragon Turtle
-2 Omen of the Sea
-2 Brazen Borrower
-2 Entrancing Melody
-2 Island
-2 Gadwick, the Wizened
-2 Unsummon
-2 Silumgar's Scorn
-2 Mutavault
-3 Omen of the Sea
-3 Entrancing Melody
-3 Dragon Turtle
-3 Gadwick, the Wizened
-3 Brazen Borrower
-3 Unsummon
-3 Island
-3 Silumgar's Scorn
-3 Mutavault
-4 Island
-4 Omen of the Sea
-4 Dragon Turtle
-4 Entrancing Melody
-4 Brazen Borrower
-4 Gadwick, the Wizened
-4 Mutavault
-5 Island
-6 Island
-7 Island
-8 Island
-9 Island
-10 Island
-1 Lovestruck Beast
-2 Lovestruck Beast
-3 Lovestruck Beast
-4 Lovestruck Beast
-17 Forest
-18 Forest
-19 Forest
-3 Yorvo, Lord of Garenbrig
+16 Forest
 1 Avatar of the Resolute
 1 Experiment One
 2 Avatar of the Resolute
 2 Experiment One
 3 Avatar of the Resolute
 4 Avatar of the Resolute
-1 Master of Waves
-1 Sidisi's Faithful
-1 Risen Reef
-1 Overwhelmed Apprentice
-1 Wizard's Retort
-2 Master of Waves
-2 Sidisi's Faithful
-2 Overwhelmed Apprentice
-2 Wizard's Retort
-2 Risen Reef
-3 Master of Waves
-3 Sidisi's Faithful
-3 Risen Reef
-3 Wizard's Retort
-3 Overwhelmed Apprentice
-4 Risen Reef
-4 Yavimaya Coast
-4 Overwhelmed Apprentice
-4 Wizard's Retort
-4 Sidisi's Faithful
-1 Leyline of Anticipation
-1 Ashiok's Erasure
-1 Castle Vantress
-1 Shark Typhoon
-1 Harbinger of the Tides
-1 Iymrith, Desert Doom
-2 Harbinger of the Tides
-2 Leyline of Anticipation
-2 Ashiok's Erasure
-2 Iymrith, Desert Doom
-3 Harbinger of the Tides
-3 Leyline of Anticipation
-3 Glasspool Mimic
-3 Ashiok's Erasure
-4 Harbinger of the Tides
-4 Leyline of Anticipation
-4 Glasspool Mimic
-4 Ashiok's Erasure
-4 Unsummon
-4 Silumgar's Scorn
-11 Island
-12 Island
-13 Island
-14 Island
-15 Island
-16 Island
-17 Island
-18 Island
-19 Island
-20 Island
-21 Island
-22 Island
-23 Island
-24 Island
 1 Blooming Marsh
 1 Llanowar Wastes
 1 Overgrown Tomb
@@ -270,12 +163,12 @@
 1 Blossoming Defense
 1 Esika's Chariot
 1 Varis, Silverymoon Ranger
-1 Decisive Denial
-2 Decisive Denial
-1 Garruk's Uprising
-2 Field of Ruin
-2 Garruk's Uprising
 3 Mazemind Tome
+1 Yavimaya Coast
+1 Decisive Denial
+2 Yavimaya Coast
+2 Decisive Denial
+3 Yavimaya Coast
 1 Vivien Reid
 2 Vivien Reid
 3 Vivien Reid
@@ -284,6 +177,7 @@
 3 Questing Beast
 4 Questing Beast
 4 Scavenging Ooze
+3 Yorvo, Lord of Garenbrig
 3 Barkhide Troll
 4 Barkhide Troll
 3 Kazandu Mammoth
@@ -317,51 +211,51 @@
 4 Llanowar Wastes
 1 Embercleave
 1 Ghor-Clan Rampager
-1 Gruul Spellbreaker
-1 Robber of the Rich
 1 Bonecrusher Giant
+1 Robber of the Rich
 1 Cinder Glade
 1 Klothys, God of Destiny
 1 Game Trail
+1 Gruul Spellbreaker
 1 Cragcrown Pathway
 1 Mountain
 1 Reckless Bushwhacker
 1 Stomping Ground
 1 Atarka's Command
 1 Rootbound Crag
-2 Bonecrusher Giant
 2 Gruul Spellbreaker
 2 Atarka's Command
 2 Mountain
 2 Reckless Bushwhacker
 2 Stomping Ground
+2 Bonecrusher Giant
+2 Game Trail
 2 Rootbound Crag
 2 Cinder Glade
 2 Klothys, God of Destiny
 2 Cragcrown Pathway
-2 Game Trail
-3 Reckless Bushwhacker
 3 Game Trail
 3 Cragcrown Pathway
 3 Bonecrusher Giant
 3 Gruul Spellbreaker
 3 Atarka's Command
 3 Mountain
+3 Reckless Bushwhacker
 3 Stomping Ground
 4 Bonecrusher Giant
 4 Reckless Bushwhacker
 4 Stomping Ground
 18 Snow-Covered Forest
-1 Gilded Goose
-1 Syr Faren, the Hengehammer
-1 Shifting Ceratops
-2 Gilded Goose
-2 Syr Faren, the Hengehammer
-2 Shifting Ceratops
-3 Shifting Ceratops
-4 Ghalta, Primal Hunger
-20 Forest
-21 Forest
+1 Garruk's Uprising
+1 Lovestruck Beast
+2 Field of Ruin
+2 Lovestruck Beast
+2 Garruk's Uprising
+3 Lovestruck Beast
+4 Lovestruck Beast
+17 Forest
+18 Forest
+19 Forest
 1 Wildborn Preserver
 1 Darkbore Pathway
 1 Unclaimed Territory
@@ -381,9 +275,9 @@
 3 Darkbore Pathway
 3 Elvish Warmaster
 3 Elvish Clancaller
-3 Wildborn Preserver
 3 Realmwalker
 3 Circle of Dreams Druid
+3 Wildborn Preserver
 3 Shaman of the Pack
 4 Elvish Warmaster
 4 Darkbore Pathway

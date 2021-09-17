@@ -1,4 +1,8 @@
+3 Stifle
+1 Bloodstained Mire
+1 Flooded Strand
 2 Misty Rainforest
+4 Thoughtseize
 1 Street Wraith
 1 Watery Grave
 1 Death's Shadow
@@ -8,11 +12,7 @@
 3 Street Wraith
 3 Death's Shadow
 4 Death's Shadow
-4 Thoughtseize
-3 Baleful Strix
-4 Baleful Strix
 1 Darkblast
-1 Flooded Strand
 4 Stifle
 3 Watery Grave
 2 Snuff Out
@@ -21,9 +21,9 @@
 1 Volcanic Island
 1 Lightning Bolt
 2 Lightning Bolt
-1 Inquisition of Kozilek
-2 Brazen Borrower
 2 Flooded Strand
+2 Brazen Borrower
+1 Inquisition of Kozilek
 1 Verdant Catacombs
 1 Gurmag Angler
 2 Gurmag Angler
@@ -51,14 +51,57 @@
 4 Tombstalker
 3 Misty Rainforest
 4 Misty Rainforest
+1 Urza's Saga
+1 Mox Opal
+1 Thought Monitor
+1 Seat of the Synod
+2 Urza's Saga
+2 Mox Opal
+2 Seat of the Synod
+2 Thought Monitor
+3 Mox Opal
+3 Urza's Saga
+3 Thought Monitor
+3 Seat of the Synod
+4 Urza's Saga
+4 Thought Monitor
+4 Seat of the Synod
+1 Ancient Tomb
+1 Grindstone
+1 Painter's Servant
+1 Hydroblast
+1 Lotus Petal
+2 Ancient Tomb
+2 Grindstone
+2 Painter's Servant
+2 Hydroblast
+2 Lotus Petal
+3 Grindstone
+3 Ancient Tomb
+3 Preordain
+3 Painter's Servant
+3 Hydroblast
+3 Lotus Petal
+4 Preordain
+4 Ancient Tomb
+4 Painter's Servant
+4 Grindstone
+1 Mishra's Bauble
+1 Emry, Lurker of the Loch
+2 Mishra's Bauble
+2 Emry, Lurker of the Loch
+3 Mishra's Bauble
+3 Emry, Lurker of the Loch
+1 Retrofitter Foundry
+1 Pithing Needle
 1 Young Pyromancer
 2 Young Pyromancer
 3 Volcanic Island
 1 Spell Pierce
 1 Demilich
 1 Arclight Phoenix
-1 Badlands
 1 Cabal Therapy
+1 Badlands
 1 Opposition Agent
 1 Dark Ritual
 1 Buried Alive
@@ -74,14 +117,15 @@
 4 Arclight Phoenix
 1 Terminate
 1 Fiery Islet
+1 Welding Jar
 1 Dismember
 1 Prismatic Vista
 2 Swamp
 1 Snow-Covered Island
 1 Liliana, the Last Hope
 1 Snow-Covered Swamp
-2 Force of Negation
 2 Snow-Covered Island
+2 Force of Negation
 1 Spell Snare
 1 Snapcaster Mage
 2 Spell Snare
@@ -95,23 +139,41 @@
 2 Bloodstained Mire
 2 Spell Pierce
 3 Bloodstained Mire
+1 Relic of Progenitus
+1 Tezzeret, Agent of Bolas
+2 Tezzeret, Agent of Bolas
+3 Tezzeret, Agent of Bolas
+4 Hydroblast
 4 Fatal Push
 1 Stubborn Denial
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
 4 Watery Grave
 1 Steam Vents
-1 Expressive Iteration
 1 Dragon's Rage Channeler
+1 Expressive Iteration
 1 Ragavan, Nimble Pilferer
 2 Steam Vents
+2 Dragon's Rage Channeler
 2 Expressive Iteration
 2 Ragavan, Nimble Pilferer
-2 Dragon's Rage Channeler
-3 Ragavan, Nimble Pilferer
 3 Dragon's Rage Channeler
-4 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
 4 Dragon's Rage Channeler
+4 Ragavan, Nimble Pilferer
 3 Verdant Catacombs
 4 Verdant Catacombs
 4 Gurmag Angler
+1 Portable Hole
+1 Tormod's Crypt
+1 Shadowspear
+1 Scrubland
+1 Tundra
+1 Sai, Master Thopterist
+2 Portable Hole
+2 Sai, Master Thopterist
+3 Portable Hole
+4 Portable Hole
+4 Mox Opal
+4 Mishra's Bauble
+4 Emry, Lurker of the Loch

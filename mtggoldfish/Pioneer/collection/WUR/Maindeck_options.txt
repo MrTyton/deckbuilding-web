@@ -29,10 +29,10 @@
 4 Raugrin Triome
 4 Steam Vents
 2 Sulfur Falls
+3 Dovin's Veto
 1 Expressive Iteration
 2 Expressive Iteration
 3 Shark Typhoon
-3 Dovin's Veto
 1 Scorching Dragonfire
 2 Scorching Dragonfire
 3 Scorching Dragonfire
@@ -43,12 +43,12 @@
 4 Scorching Dragonfire
 4 Sulfur Falls
 4 Shark Typhoon
-4 Expressive Iteration
 4 Dovin's Veto
+4 Expressive Iteration
+1 Dig Through Time
 1 Rest in Peace
 1 Needle Spires
 2 Rest in Peace
-1 Dig Through Time
 1 Sphinx's Revelation
 1 Magma Spray
 2 Magma Spray
@@ -65,14 +65,13 @@
 2 Island
 2 Narset, Parter of Veils
 3 Narset, Parter of Veils
-3 Mutavault
 4 Azorius Charm
 1 Seal Away
 1 Field of Ruin
 1 Irrigated Farmland
 2 Irrigated Farmland
-2 Field of Ruin
 2 Castle Vantress
+2 Field of Ruin
 3 Island
 4 Island
 5 Island
@@ -82,6 +81,7 @@
 1 Detention Sphere
 1 Opt
 2 Opt
+3 Mutavault
 1 Blast Zone
 3 Opt
 4 Opt
@@ -172,9 +172,9 @@
 2 Thassa's Intervention
 3 Field of Ruin
 4 Field of Ruin
-1 Kaya, Orzhov Usurper
 1 Drowned Catacomb
 1 Isolated Chapel
+1 Kaya, Orzhov Usurper
 1 Watery Grave
 1 Vanishing Verse
 1 Heartless Act
@@ -186,9 +186,9 @@
 2 Vanishing Verse
 2 Fetid Pools
 2 Heartless Act
+3 Fetid Pools
 3 Vanishing Verse
 3 Watery Grave
-3 Fetid Pools
 3 Heartless Act
 3 Isolated Chapel
 4 Vanishing Verse

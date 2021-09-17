@@ -107,11 +107,11 @@
 3 Skyclave Apparition
 3 Glacial Fortress
 3 Trial of Ambition
-4 Glacial Fortress
 4 Zagoth Triome
 4 Binding the Old Gods
 4 Trial of Ambition
 4 In Search of Greatness
+4 Glacial Fortress
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
@@ -138,8 +138,8 @@
 3 Crawling Barrens
 3 Mobilized District
 4 Blast Zone
-4 Forsaken Monument
 4 Blinkmoth Nexus
+4 Forsaken Monument
 1 Assassin's Trophy
 2 Assassin's Trophy
 3 Assassin's Trophy
@@ -164,13 +164,13 @@
 3 Cultivate
 3 Mirari's Wake
 4 Cultivate
-1 Fabled Passage
 1 Lotus Cobra
+1 Fabled Passage
 1 Gilded Goose
 1 Watery Grave
+2 Lotus Cobra
 2 Swamp
 2 Fabled Passage
-2 Lotus Cobra
 2 Gilded Goose
 3 Fabled Passage
 3 Swamp
@@ -192,20 +192,21 @@
 1 Hallowed Fountain
 1 Deafening Clarion
 1 Stomping Ground
-1 Solemn Simulacrum
-1 Branchloft Pathway
-1 Finale of Devastation
 1 Terror of the Peaks
+1 Solemn Simulacrum
+1 Finale of Devastation
+1 Needleverge Pathway
 1 Godless Shrine
 1 Luminous Broodmoth
-1 Needleverge Pathway
 1 Omen of the Forge
 1 Keruga, the Macrosage
 1 Elspeth Conquers Death
 1 Shalai, Voice of Plenty
 1 The Birth of Meletis
+1 Branchloft Pathway
 1 Evolving Wilds
 1 Migration Path
+1 Prophetic Prism
 1 Dryad of the Ilysian Grove
 1 Elder Gargaroth
 1 Uro, Titan of Nature's Wrath
@@ -225,7 +226,6 @@
 1 Honden of Seeing Winds
 1 Renegade Map
 1 Mastermind's Acquisition
-1 Prophetic Prism
 1 Thirst for Meaning
 1 God-Eternal Rhonas
 1 Smothering Tithe
@@ -238,7 +238,7 @@
 1 Trial of Knowledge
 2 Ketria Triome
 2 Deafening Clarion
-2 Branchloft Pathway
+2 Terror of the Peaks
 2 Solemn Simulacrum
 2 Godless Shrine
 2 Escape to the Wilds
@@ -246,11 +246,11 @@
 2 Finale of Devastation
 2 The Birth of Meletis
 2 Uro, Titan of Nature's Wrath
+2 Branchloft Pathway
 2 Evolving Wilds
 2 Migration Path
 2 Dryad of the Ilysian Grove
 2 Klothys, God of Destiny
-2 Terror of the Peaks
 2 Elspeth Conquers Death
 2 Wrath of God
 2 Archon of Sun's Grace
@@ -278,8 +278,8 @@
 3 Deafening Clarion
 3 Watery Grave
 3 Branchloft Pathway
-3 Sacred Foundry
 3 Plains
+3 Sacred Foundry
 3 Evolving Wilds
 3 Migration Path
 3 Dryad of the Ilysian Grove
@@ -306,12 +306,12 @@
 4 Fabled Passage
 4 Temple Garden
 4 Plains
+4 Sacred Foundry
 4 Deafening Clarion
 4 Island
 4 Dryad of the Ilysian Grove
-4 Watery Grave
-4 Sacred Foundry
 4 Lotus Cobra
+4 Watery Grave
 4 Overgrown Tomb
 4 Stomping Ground
 4 Prophetic Prism
@@ -336,8 +336,8 @@
 1 Field of Ruin
 1 Bojuka Bog
 1 Stonecoil Serpent
-2 Stonecoil Serpent
 2 Field of Ruin
+2 Stonecoil Serpent
 1 Elvish Rejuvenator
 2 Elvish Rejuvenator
 3 Elvish Rejuvenator
@@ -370,12 +370,11 @@
 1 The Great Henge
 1 Barkchannel Pathway
 1 Gemrazer
-1 Necroblossom Snarl
 1 Temple of Deceit
+1 Necroblossom Snarl
 1 Temple of Malady
 1 Paradise Druid
 1 Darkbore Pathway
-1 Vivien Reid
 1 Vivien, Champion of the Wilds
 1 Auspicious Starrix
 1 Scute Swarm
@@ -383,6 +382,7 @@
 1 Season of Growth
 1 Castle Vantress
 1 Tamiyo, Collector of Tales
+1 Vivien Reid
 1 Castle Locthwain
 1 Dirge Bat
 1 Nethroi, Apex of Death
@@ -428,13 +428,13 @@
 2 Gate Colossus
 2 Open the Gates
 2 Azorius Guildgate
-3 Abundant Harvest
 3 Open the Gates
+3 Abundant Harvest
 3 Root Snare
 3 Gate Colossus
 3 Gatebreaker Ram
-4 Abundant Harvest
 4 Growth Spiral
+4 Abundant Harvest
 4 Gatebreaker Ram
 4 Gate Colossus
 4 Open the Gates
@@ -446,24 +446,24 @@
 3 Labyrinth of Skophos
 3 Stonecoil Serpent
 1 Omniscience
+1 Shefet Dunes
 1 Hour of Promise
 1 Wolfwillow Haven
-1 Shefet Dunes
 1 Hydroid Krasis
 1 Hashep Oasis
 1 Relic of Progenitus
 2 Hour of Promise
 2 Wolfwillow Haven
+2 Shefet Dunes
 2 The World Tree
 2 Hydroid Krasis
-2 Shefet Dunes
 2 Hashep Oasis
 2 Relic of Progenitus
 2 Omniscience
-3 Hashep Oasis
 3 Wolfwillow Haven
 3 Shefet Dunes
 3 The World Tree
+3 Hashep Oasis
 3 Genesis Ultimatum
 3 Hydroid Krasis
 3 Hour of Promise
@@ -475,37 +475,37 @@
 1 The Tarrasque
 1 Magma Opus
 1 Phyrexian Tower
-1 Emergent Ultimatum
 1 Scholar of the Lost Trove
+1 Emergent Ultimatum
 1 Treasure Vault
+1 Tibalt's Trickery
 1 Chandra, Awakened Inferno
 1 Khalni Garden
 1 Emergence Zone
 1 Throes of Chaos
 1 Mirrodin's Core
-1 Tibalt's Trickery
 2 Phyrexian Tower
 2 Treasure Vault
 2 Magma Opus
-2 Emergent Ultimatum
 2 Scholar of the Lost Trove
+2 Emergent Ultimatum
 2 Chandra, Awakened Inferno
 2 Tibalt's Trickery
 2 Throes of Chaos
 2 Khalni Garden
 2 Mirrodin's Core
-3 Emergent Ultimatum
 3 Blood Crypt
 3 Magma Opus
 3 Alrund's Epiphany
+3 Emergent Ultimatum
 3 Throes of Chaos
 3 Khalni Garden
 3 Riverglide Pathway
 4 Cragcrown Pathway
 4 Blood Crypt
 4 Alrund's Epiphany
-4 Throes of Chaos
 4 Emergent Ultimatum
+4 Throes of Chaos
 4 Riverglide Pathway
 4 Magma Opus
 4 Khalni Garden
