@@ -6,27 +6,27 @@
 1 Pithing Needle
 1 Grindstone
 2 Red Elemental Blast
-1 Abrade
 1 Sulfur Elemental
 2 Sulfur Elemental
 1 Thorn of Amethyst
 2 Thorn of Amethyst
 1 Pyroblast
 2 Pyroblast
+1 Abrade
 2 Abrade
 3 Thorn of Amethyst
 3 Sulfur Elemental
-1 Mycosynth Lattice
 1 Blood Moon
+1 Mycosynth Lattice
 1 Surgical Extraction
 2 Surgical Extraction
 1 Liquimetal Coating
 1 Plague Engineer
-2 Plague Engineer
-3 Plague Engineer
 1 Opposition Agent
 1 Helm of Obedience
 2 Opposition Agent
+2 Plague Engineer
+3 Plague Engineer
 1 Vault of Whispers
 1 Ethersworn Canonist
 4 Thorn of Amethyst
@@ -36,9 +36,9 @@
 2 Chandra, Awakened Inferno
 1 Portable Hole
 3 Opposition Agent
-1 Lightning Bolt
 3 Surgical Extraction
 1 Karn, the Great Creator
+1 Lightning Bolt
 1 Karakas
 1 Sphere of Annihilation
 1 Grafdigger's Cage
@@ -54,21 +54,20 @@
 1 Rip Apart
 1 Engineered Explosives
 2 Ensnaring Bridge
-1 Galvanic Blast
-2 Galvanic Blast
 2 Trinisphere
-1 Nihil Spellbomb
 2 Torpor Orb
-1 Dark Confidant
-1 Meekstone
-1 Jegantha, the Wellspring
 1 Defense Grid
-1 Painter's Servant
+1 Dark Confidant
+1 Galvanic Blast
+1 Meekstone
+1 Nihil Spellbomb
+1 Jegantha, the Wellspring
+2 Galvanic Blast
 1 Enlightened Tutor
+1 Goblin Cratermaker
 1 Blazing Volley
 1 Skysovereign, Consul Flagship
 1 Soul-Guide Lantern
-1 Goblin Cratermaker
 1 Word of Seizing
 1 Nettlecyst
 1 Wear/Tear
@@ -82,23 +81,11 @@
 1 Shatterstorm
 1 Purphoros's Intervention
 2 Shatterstorm
-1 Mindbreak Trap
-1 Damping Sphere
-1 Kolaghan's Command
-1 Thoughtseize
-2 Kolaghan's Command
-2 Mindbreak Trap
-2 Nihil Spellbomb
-2 Thoughtseize
-1 Dire Fleet Daredevil
-2 Blood Moon
 1 Murderous Rider
 1 Dystopia
 2 Dystopia
-1 Shadowspear
-1 Lion's Eye Diamond
-1 Daretti, Ingenious Iconoclast
-2 Tormod's Crypt
+1 Dire Fleet Daredevil
+2 Blood Moon
 1 Plague Reaver
 2 Plague Reaver
 2 Defense Grid
@@ -116,12 +103,13 @@
 3 Chandra, Awakened Inferno
 1 Witchbane Orb
 1 Glass Casket
+1 Painter's Servant
 1 Swords to Plowshares
 2 Swords to Plowshares
 3 Swords to Plowshares
+4 Lightning Bolt
 1 Shatterskull Smashing
 2 Shatterskull Smashing
 3 Shatterskull Smashing
 4 Shatterskull Smashing
-4 Lightning Bolt
 4 Fiery Confluence

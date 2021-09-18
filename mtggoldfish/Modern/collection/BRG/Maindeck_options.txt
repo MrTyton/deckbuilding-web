@@ -1,23 +1,21 @@
-1 Fury
 1 Klothys, God of Destiny
-2 Windswept Heath
-1 Verdant Catacombs
-1 Blood Crypt
-1 Overgrown Tomb
-1 Mountain
-1 Yavimaya, Cradle of Growth
+1 Seasoned Pyromancer
+1 Forest
+1 Snow-Covered Plains
 1 Titania, Protector of Argoth
 1 Zuran Orb
-2 Bloodstained Mire
-3 Bloodstained Mire
-1 Snow-Covered Plains
+1 Yavimaya, Cradle of Growth
 1 Steam Vents
 4 Prismatic Ending
+1 Verdant Catacombs
 1 Ghost Quarter
+1 Scalding Tarn
+1 Overgrown Tomb
+1 Blood Crypt
 3 Arid Mesa
 4 Arid Mesa
-1 Scalding Tarn
-1 Fiery Islet
+2 Bloodstained Mire
+3 Bloodstained Mire
 1 Tribal Flames
 1 Territorial Kavu
 1 Scourge of the Skyclaves
@@ -29,15 +27,17 @@
 3 Scourge of the Skyclaves
 4 Tribal Flames
 4 Territorial Kavu
+1 Fiery Islet
 1 Pithing Needle
-1 Sunbaked Canyon
-4 Bloodstained Mire
 1 Wild Nacatl
 2 Wild Nacatl
 3 Wild Nacatl
 4 Wild Nacatl
+1 Mountain
+1 Sunbaked Canyon
 4 Unholy Heat
 1 Misty Rainforest
+4 Bloodstained Mire
 1 Springleaf Drum
 2 Misty Rainforest
 1 Expressive Iteration
@@ -45,21 +45,6 @@
 2 Snow-Covered Mountain
 1 Rancor
 2 Rancor
-1 Nurturing Peatland
-2 Verdant Catacombs
-1 Grist, the Hunger Tide
-1 Kolaghan's Command
-1 Liliana of the Veil
-1 Blackcleave Cliffs
-1 Fatal Push
-1 Inquisition of Kozilek
-1 Swamp
-2 Liliana of the Veil
-2 Fatal Push
-2 Blackcleave Cliffs
-2 Swamp
-2 Inquisition of Kozilek
-3 Inquisition of Kozilek
 1 Fire/Ice
 1 Aether Spellbomb
 2 Fire/Ice
@@ -72,39 +57,15 @@
 1 Seal of Fire
 3 Windswept Heath
 4 Windswept Heath
-3 Liliana of the Veil
-2 Seasoned Pyromancer
-4 Inquisition of Kozilek
 1 Bloodbraid Marauder
 1 Spirebluff Canal
 1 Breeding Pool
 4 Fire/Ice
-2 Overgrown Tomb
 4 Wrenn and Six
-2 Kolaghan's Command
-2 Fury
 1 Renegade Rallier
 2 Renegade Rallier
-1 Thoughtseize
-1 Kroxa, Titan of Death's Hunger
-1 Bonecrusher Giant
 1 Esper Sentinel
 2 Esper Sentinel
-1 Abrupt Decay
-2 Grist, the Hunger Tide
-2 Abrupt Decay
-3 Verdant Catacombs
-4 Verdant Catacombs
-1 Tourach, Dread Cantor
-2 Tourach, Dread Cantor
-1 Marsh Flats
-2 Marsh Flats
-2 Kroxa, Titan of Death's Hunger
-3 Blackcleave Cliffs
-2 Thoughtseize
-2 Blood Crypt
-3 Thoughtseize
-1 Stubborn Denial
 2 Seal of Fire
 3 Seal of Fire
 1 Expedition Map
@@ -113,31 +74,20 @@
 3 Esper Sentinel
 1 Tarfire
 3 Renegade Rallier
-1 Ignoble Hierarch
-1 Raging Ravine
-1 Forgotten Cave
-1 Blooming Marsh
-2 Ignoble Hierarch
-3 Ignoble Hierarch
-4 Ignoble Hierarch
+1 Grist, the Hunger Tide
+1 Nurturing Peatland
 1 Grim Flayer
 2 Forest
 2 Grim Flayer
 3 Grim Flayer
 4 Grim Flayer
 2 Mountain
+1 Bonecrusher Giant
+1 Stubborn Denial
 1 Inspiring Vantage
-2 Nurturing Peatland
-1 Blood Moon
-2 Blood Moon
-3 Kroxa, Titan of Death's Hunger
-3 Swamp
-3 Blood Crypt
-3 Blood Moon
-3 Seasoned Pyromancer
-4 Blackcleave Cliffs
-4 Swamp
-4 Seasoned Pyromancer
+1 Marsh Flats
+2 Marsh Flats
+2 Verdant Catacombs
 1 Fire-Lit Thicket
 1 Lurrus of the Dream-Den
 1 Magus of the Moon
@@ -145,34 +95,13 @@
 2 Lightning Helix
 1 Tireless Tracker
 2 Scalding Tarn
-1 Terminate
-2 Endurance
-2 Terminate
-3 Abrupt Decay
 1 Foundation Breaker
 2 Snow-Covered Forest
 3 Copperline Gorge
-3 Steam Vents
 4 Scourge of the Skyclaves
-1 Assassin's Trophy
-1 Den of the Bugbear
-2 Assassin's Trophy
-2 Bonecrusher Giant
-4 Liliana of the Veil
 1 Abundant Harvest
 1 Boros Charm
 2 Boros Charm
 3 Boros Charm
 4 Boros Charm
-1 Magmatic Channeler
-1 Dreadbore
-1 Polluted Delta
-2 Magmatic Channeler
-2 Polluted Delta
-3 Fatal Push
-3 Polluted Delta
-4 Polluted Delta
-1 Castle Locthwain
-3 Marsh Flats
-4 Marsh Flats
-4 Blood Moon
+3 Steam Vents

@@ -1,103 +1,38 @@
-1 Clearwater Pathway
-3 Thoughtseize
-1 Mountain
-4 Thoughtseize
-1 Expressive Iteration
-2 Expressive Iteration
-3 Expressive Iteration
-2 Clearwater Pathway
-3 Steam Vents
-4 Steam Vents
-1 Spirebluff Canal
-2 Spirebluff Canal
-1 Narset, Parter of Veils
-1 Terror of the Peaks
-1 Mizzix's Mastery
-1 Bladewing the Risen
-1 Dragonstorm
-1 Faithless Looting
-2 Dragonstorm
-2 Bladewing the Risen
-2 Faithless Looting
-2 Mizzix's Mastery
-3 Prismari Command
-3 Faithless Looting
-3 Mizzix's Mastery
-3 Dragonstorm
-3 Bladewing the Risen
-4 Prismari Command
-4 Faithless Looting
-4 Mizzix's Mastery
-4 Dragonstorm
-1 Dragonskull Summit
 1 Baleful Mastery
-2 Narset, Parter of Veils
-3 Spirebluff Canal
-2 Mountain
-1 Brazen Borrower
-1 Search for Azcanta
-4 Expressive Iteration
-1 Anger of the Gods
-1 Island
-3 Narset, Parter of Veils
-1 Mystical Dispute
-4 Spirebluff Canal
-1 Silundi Vision
-2 Silundi Vision
-3 Silundi Vision
+1 Clearwater Pathway
+1 Dragonskull Summit
+3 Thoughtseize
 1 Hive of the Eye Tyrant
-2 Island
-3 Island
-2 Dragonskull Summit
+1 Mountain
 2 Hive of the Eye Tyrant
-1 Riverglide Pathway
-2 Riverglide Pathway
-3 Riverglide Pathway
-4 Riverglide Pathway
-2 Mystical Dispute
+2 Dragonskull Summit
 3 Crux of Fate
-1 Sea Gate Restoration
-1 Memory Lapse
-2 Terror of the Peaks
-2 Memory Lapse
-3 Memory Lapse
-4 Memory Lapse
-1 Commit/Memory
-4 Island
-3 Mountain
-3 Nicol Bolas, Dragon-God
 2 Baleful Mastery
 1 Hall of Storm Giants
 1 Iymrith, Desert Doom
 2 Iymrith, Desert Doom
-1 Niv-Mizzet, Parun
-1 Fire Prophecy
-5 Island
-4 Mountain
-3 Mystical Dispute
-1 Duress
-2 Brazen Borrower
+4 Thoughtseize
+3 Nicol Bolas, Dragon-God
+2 Mountain
 1 Extinction Event
 3 Cling to Dust
 1 Heartless Act
+1 Anger of the Gods
+2 Clearwater Pathway
 1 Savai Triome
-1 Fabled Passage
-2 Fabled Passage
+1 Valki, God of Lies
+2 Valki, God of Lies
 3 Chandra, Torch of Defiance
 1 Dragon's Fire
 2 Dragon's Fire
 3 Dragon's Fire
 4 Dragon's Fire
+1 Fabled Passage
+2 Fabled Passage
+3 Mountain
 3 Swamp
-1 Valki, God of Lies
-2 Valki, God of Lies
-2 Duress
-4 Narset, Parter of Veils
 1 Ebondeath, Dracolich
 2 Ebondeath, Dracolich
-1 Drown in the Loch
-3 Clearwater Pathway
-4 Clearwater Pathway
 1 Goldspan Dragon
 2 Goldspan Dragon
 2 Castle Locthwain
@@ -106,9 +41,17 @@
 1 Dragon's Hoard
 2 Fatal Push
 2 Dragon's Hoard
+1 Drown in the Loch
+1 Expressive Iteration
+2 Expressive Iteration
+3 Clearwater Pathway
+3 Expressive Iteration
+4 Clearwater Pathway
 2 Savai Triome
 1 Rix Maadi Reveler
 2 Rix Maadi Reveler
+4 Mountain
+1 Island
 3 Dragonskull Summit
 3 Savai Triome
 1 Sacred Foundry
@@ -118,13 +61,14 @@
 2 Godless Shrine
 2 Sacred Foundry
 2 Lightning Helix
+1 Spirebluff Canal
+2 Spirebluff Canal
+3 Spirebluff Canal
 1 Shatterskull Smashing
 1 Murderous Rider
 1 Sarkhan, Fireblood
 2 Shatterskull Smashing
 3 Fabled Passage
-1 Pact of Negation
-1 Temple of Deceit
 1 Needleverge Pathway
 1 Brightclimb Pathway
 1 Icingdeath, Frost Tyrant
@@ -140,9 +84,17 @@
 3 Dragon's Disciple
 4 Savai Triome
 4 Dragon's Disciple
+1 Temple of Deceit
 4 Dragonskull Summit
-4 Swamp
+3 Steam Vents
+4 Steam Vents
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
+2 Island
+3 Narset, Parter of Veils
+3 Island
 3 Sacred Foundry
+4 Swamp
 1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
 2 Extinction Event
@@ -174,19 +126,17 @@
 2 Anger of the Gods
 3 Behold the Multiverse
 3 Anger of the Gods
-1 Temple of Malice
-2 Temple of Malice
-3 Temple of Malice
-3 Brazen Borrower
 3 Fatal Push
 2 Icingdeath, Frost Tyrant
 3 Needleverge Pathway
 4 Needleverge Pathway
 1 Grafdigger's Cage
 1 Bedevil
+1 Commit/Memory
 2 Commit/Memory
 2 Grafdigger's Cage
 3 Grafdigger's Cage
+4 Island
 4 Grafdigger's Cage
 1 Hazoret the Fervent
 2 Hazoret the Fervent
@@ -211,8 +161,8 @@
 3 Lightning Helix
 3 Elite Spellbinder
 4 Sacred Foundry
-4 Elite Spellbinder
 4 Lightning Helix
+4 Elite Spellbinder
 1 Magda, Brazen Outlaw
 1 Immersturm Predator
 1 Kalain, Reclusive Painter
@@ -242,20 +192,25 @@
 4 Rootbound Crag
 4 Prosperous Innkeeper
 4 Goldspan Dragon
-5 Mountain
-6 Mountain
+1 Riverglide Pathway
+1 Temple of Malice
+2 Riverglide Pathway
+2 Temple of Malice
+3 Temple of Malice
+3 Riverglide Pathway
+4 Riverglide Pathway
 1 Cragcrown Pathway
 1 Darkbore Pathway
 1 Blooming Marsh
 1 Scavenging Ooze
 1 Sarulf, Realm Eater
-1 Vraska, Golgari Queen
 1 Inscription of Ruin
 1 Chevill, Bane of Monsters
 1 Esika's Chariot
+1 Vraska, Golgari Queen
 1 Eliminate
-1 Ritual of Soot
 1 Gnottvold Slumbermound
+1 Ritual of Soot
 2 Cragcrown Pathway
 2 Scavenging Ooze
 2 Sarulf, Realm Eater

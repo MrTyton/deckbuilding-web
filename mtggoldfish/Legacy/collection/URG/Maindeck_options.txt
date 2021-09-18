@@ -15,51 +15,76 @@
 2 Snow-Covered Island
 3 Misdirection
 4 Misdirection
-1 Flooded Strand
 1 Lightning Bolt
-1 Wasteland
 1 Stifle
 1 Daze
 1 Brainstorm
 1 Ponder
 2 Lightning Bolt
-2 Wasteland
 2 Stifle
 2 Ponder
 2 Polluted Delta
 2 Brainstorm
 2 Daze
-3 Wasteland
 3 Stifle
 3 Lightning Bolt
 3 Daze
 3 Brainstorm
 3 Ponder
-4 Wasteland
 4 Daze
-4 Lightning Bolt
 4 Ponder
 4 Brainstorm
+1 Flooded Strand
+1 Wasteland
+2 Wasteland
+3 Wasteland
+4 Wasteland
+4 Lightning Bolt
+1 Badlands
+1 Underground Sea
+2 Underground Sea
+3 Polluted Delta
+1 Spell Pierce
+1 Thoughtseize
+1 Young Pyromancer
+1 Preordain
+1 Demilich
+1 Cabal Therapy
+1 Dark Ritual
+1 Opposition Agent
+1 Arclight Phoenix
+1 Buried Alive
+2 Thoughtseize
+2 Young Pyromancer
+2 Preordain
+2 Dark Ritual
+2 Opposition Agent
+2 Arclight Phoenix
+2 Buried Alive
+3 Underground Sea
+3 Dark Ritual
+3 Buried Alive
+3 Arclight Phoenix
+4 Dark Ritual
+4 Polluted Delta
+4 Buried Alive
+4 Arclight Phoenix
 1 Prismatic Vista
 2 Snow-Covered Forest
 1 Delver of Secrets
 1 Phyrexian Dreadnought
-1 Kroxa, Titan of Death's Hunger
 1 Dress Down
-1 Badlands
 1 Fatal Push
-1 Underground Sea
+1 Kroxa, Titan of Death's Hunger
 2 Delver of Secrets
 2 Phyrexian Dreadnought
-2 Kroxa, Titan of Death's Hunger
 2 Dress Down
-2 Underground Sea
+2 Kroxa, Titan of Death's Hunger
 2 Fatal Push
+3 Kroxa, Titan of Death's Hunger
 3 Phyrexian Dreadnought
 3 Delver of Secrets
-3 Kroxa, Titan of Death's Hunger
 3 Dress Down
-3 Polluted Delta
 4 Delver of Secrets
 4 Dress Down
 4 Phyrexian Dreadnought
@@ -69,8 +94,8 @@
 1 Nimble Mongoose
 1 Hooting Mandrills
 1 Dragon's Rage Channeler
-1 Chain Lightning
 1 Hexdrinker
+1 Chain Lightning
 2 Expressive Iteration
 2 Ragavan, Nimble Pilferer
 2 Flooded Strand

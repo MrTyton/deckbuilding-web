@@ -1,18 +1,18 @@
 2 Prismatic Vista
-1 Savannah
 1 Tundra
+1 Savannah
 1 Recruiter of the Guard
 2 Recruiter of the Guard
 3 Recruiter of the Guard
 4 Recruiter of the Guard
 1 Ukkima, Stalking Shadow
 1 Snow-Covered Plains
-1 Windswept Heath
-1 Flooded Strand
 1 Prismatic Ending
 1 Swords to Plowshares
-2 Swords to Plowshares
+1 Flooded Strand
+1 Windswept Heath
 2 Prismatic Ending
+2 Swords to Plowshares
 3 Prismatic Ending
 3 Swords to Plowshares
 3 Prismatic Vista
@@ -20,8 +20,8 @@
 1 Abundant Growth
 1 Noble Hierarch
 2 Noble Hierarch
-2 Windswept Heath
 2 Flooded Strand
+2 Windswept Heath
 3 Flooded Strand
 3 Windswept Heath
 4 Swords to Plowshares
@@ -70,33 +70,33 @@
 4 Uro, Titan of Nature's Wrath
 1 Intuition
 1 Karakas
-1 Hullbreacher
 1 Daze
+1 Hullbreacher
 2 Daze
 3 Daze
-1 Lightning Bolt
+1 Expressive Iteration
 1 Snow-Covered Mountain
 1 Wooded Foothills
 1 Unholy Heat
-1 Taiga
-1 Expressive Iteration
 1 Scalding Tarn
+1 Lightning Bolt
+1 Taiga
 1 Volcanic Island
 1 Carpet of Flowers
-2 Wooded Foothills
-2 Lightning Bolt
 2 Expressive Iteration
+2 Wooded Foothills
 2 Scalding Tarn
-3 Wooded Foothills
-3 Lightning Bolt
+2 Lightning Bolt
 3 Expressive Iteration
+3 Wooded Foothills
 3 Scalding Tarn
-4 Lightning Bolt
+3 Lightning Bolt
 4 Expressive Iteration
+4 Lightning Bolt
 1 Swamp
-1 Island
 1 Forest
 1 Barrin, Tolarian Archmage
+1 Island
 1 Parasitic Strix
 1 Academy Rector
 1 Mirri's Guile
@@ -134,9 +134,9 @@
 3 Shardless Agent
 4 Baleful Strix
 4 Shardless Agent
-1 Snapcaster Mage
-1 Jace, the Mind Sculptor
 1 Dress Down
+1 Jace, the Mind Sculptor
+1 Snapcaster Mage
 1 Supreme Verdict
 2 Dress Down
 4 Endurance

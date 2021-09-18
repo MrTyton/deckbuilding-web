@@ -124,14 +124,14 @@
 2 Concealed Courtyard
 3 Marsh Flats
 3 Concealed Courtyard
-4 Concealed Courtyard
 4 Esper Sentinel
+4 Concealed Courtyard
 4 Marsh Flats
 1 Power Conduit
 1 Expressive Iteration
 2 Expressive Iteration
-3 Spirebluff Canal
 3 Expressive Iteration
+3 Spirebluff Canal
 4 Expressive Iteration
 4 Spirebluff Canal
 1 Teferi, Time Raveler
@@ -142,20 +142,20 @@
 1 Blackcleave Cliffs
 1 Mayhem Devil
 1 Bloodghast
+2 Blackcleave Cliffs
 2 Blood Crypt
 2 Bloodghast
 2 Goblin Bombardment
-2 Blackcleave Cliffs
 2 Mayhem Devil
 3 Bloodghast
 3 Bloodstained Mire
+3 Blackcleave Cliffs
 3 Blood Crypt
 3 Goblin Bombardment
-3 Blackcleave Cliffs
 3 Mayhem Devil
-4 Blackcleave Cliffs
-4 Bloodstained Mire
 4 Bloodghast
+4 Bloodstained Mire
+4 Blackcleave Cliffs
 4 Mayhem Devil
 3 Swamp
 1 Ketria Triome
@@ -168,8 +168,8 @@
 1 Copperline Gorge
 2 Copperline Gorge
 3 Copperline Gorge
-1 Engineered Explosives
 1 Mox Amber
+1 Engineered Explosives
 2 Nurturing Peatland
 2 Windswept Heath
 1 Seachrome Coast
@@ -197,6 +197,14 @@
 3 Talisman of Progress
 4 Cavern of Souls
 4 Talisman of Progress
+1 Grist, the Hunger Tide
+1 Tarmogoyf
+2 Grist, the Hunger Tide
+2 Tarmogoyf
+2 Stomping Ground
+3 Tarmogoyf
+4 Copperline Gorge
+4 Tarmogoyf
 1 Yavimaya, Cradle of Growth
 4 Wooded Foothills
 4 Wrenn and Six
@@ -204,12 +212,4 @@
 2 Shardless Agent
 3 Shardless Agent
 4 Shardless Agent
-1 Grist, the Hunger Tide
-1 Tarmogoyf
-2 Grist, the Hunger Tide
-2 Stomping Ground
-2 Tarmogoyf
-3 Tarmogoyf
-4 Copperline Gorge
-4 Tarmogoyf
 4 Cauldron Familiar
