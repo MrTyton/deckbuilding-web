@@ -14,15 +14,14 @@
 
 # Historic
 
-|                                 A                                  |                                   B                                    |                                 C                                  |                    D                     |                    E                     |
-|--------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------|------------------------------------------|
-|[Auras](./mtggoldfish/Historic/decks/Auras.md)                      |[Gruul Aggro](./mtggoldfish/Historic/decks/Gruul_Aggro.md)              |[Sacrifice](./mtggoldfish/Historic/decks/Sacrifice.md)              |[UB](./mtggoldfish/Historic/decks/UB.md)  |[WUG](./mtggoldfish/Historic/decks/WUG.md)|
-|[BRG](./mtggoldfish/Historic/decks/BRG.md)                          |[Mono-Blue Tempo](./mtggoldfish/Historic/decks/Mono-Blue_Tempo.md)      |[Selesnya Company](./mtggoldfish/Historic/decks/Selesnya_Company.md)|[UG](./mtggoldfish/Historic/decks/UG.md)  |[WUR](./mtggoldfish/Historic/decks/WUR.md)|
-|[BR](./mtggoldfish/Historic/decks/BR.md)                            |[Niv-Mizzet Control](./mtggoldfish/Historic/decks/Niv-Mizzet_Control.md)|[Soul Sisters](./mtggoldfish/Historic/decks/Soul_Sisters.md)        |[UR](./mtggoldfish/Historic/decks/UR.md)  |[W](./mtggoldfish/Historic/decks/W.md)    |
-|[B](./mtggoldfish/Historic/decks/B.md)                              |[Orzhov Aggro](./mtggoldfish/Historic/decks/Orzhov_Aggro.md)            |[Stompy](./mtggoldfish/Historic/decks/Stompy.md)                    |[WBG](./mtggoldfish/Historic/decks/WBG.md)|                                          |
-|[Elves](./mtggoldfish/Historic/decks/Elves.md)                      |[RG](./mtggoldfish/Historic/decks/RG.md)                                |[UBG](./mtggoldfish/Historic/decks/UBG.md)                          |[WBR](./mtggoldfish/Historic/decks/WBR.md)|                                          |
-|[Five-color Golos](./mtggoldfish/Historic/decks/Five-color_Golos.md)|[R](./mtggoldfish/Historic/decks/R.md)                                  |[UBRG](./mtggoldfish/Historic/decks/UBRG.md)                        |[WG](./mtggoldfish/Historic/decks/WG.md)  |                                          |
-|[Goblins](./mtggoldfish/Historic/decks/Goblins.md)                  |[Rakdos Arcanis](./mtggoldfish/Historic/decks/Rakdos_Arcanis.md)        |[UBR](./mtggoldfish/Historic/decks/UBR.md)                          |[WR](./mtggoldfish/Historic/decks/WR.md)  |                                          |
+|                                 A                                  |                                   B                                    |                                 C                                  |                     D                      |                    E                     |
+|--------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------|------------------------------------------|
+|[Auras](./mtggoldfish/Historic/decks/Auras.md)                      |[Goblins](./mtggoldfish/Historic/decks/Goblins.md)                      |[Rakdos Arcanis](./mtggoldfish/Historic/decks/Rakdos_Arcanis.md)    |[UBRG](./mtggoldfish/Historic/decks/UBRG.md)|[WBR](./mtggoldfish/Historic/decks/WBR.md)|
+|[BRG](./mtggoldfish/Historic/decks/BRG.md)                          |[Gruul Aggro](./mtggoldfish/Historic/decks/Gruul_Aggro.md)              |[Sacrifice](./mtggoldfish/Historic/decks/Sacrifice.md)              |[UBR](./mtggoldfish/Historic/decks/UBR.md)  |[WG](./mtggoldfish/Historic/decks/WG.md)  |
+|[BR](./mtggoldfish/Historic/decks/BR.md)                            |[Mono-Blue Tempo](./mtggoldfish/Historic/decks/Mono-Blue_Tempo.md)      |[Selesnya Company](./mtggoldfish/Historic/decks/Selesnya_Company.md)|[UB](./mtggoldfish/Historic/decks/UB.md)    |[WR](./mtggoldfish/Historic/decks/WR.md)  |
+|[B](./mtggoldfish/Historic/decks/B.md)                              |[Niv-Mizzet Control](./mtggoldfish/Historic/decks/Niv-Mizzet_Control.md)|[Soul Sisters](./mtggoldfish/Historic/decks/Soul_Sisters.md)        |[UG](./mtggoldfish/Historic/decks/UG.md)    |[WUG](./mtggoldfish/Historic/decks/WUG.md)|
+|[Elves](./mtggoldfish/Historic/decks/Elves.md)                      |[Orzhov Aggro](./mtggoldfish/Historic/decks/Orzhov_Aggro.md)            |[Stompy](./mtggoldfish/Historic/decks/Stompy.md)                    |[UR](./mtggoldfish/Historic/decks/UR.md)    |[WUR](./mtggoldfish/Historic/decks/WUR.md)|
+|[Five-color Golos](./mtggoldfish/Historic/decks/Five-color_Golos.md)|[RG](./mtggoldfish/Historic/decks/RG.md)                                |[UBG](./mtggoldfish/Historic/decks/UBG.md)                          |[WBG](./mtggoldfish/Historic/decks/WBG.md)  |                                          |
 
 
 # Pioneer
@@ -70,4 +69,4 @@
 
 
 
-#### Last Updated at 12:43AM on September 19, 2021
+#### Last Updated at 01:01PM on September 19, 2021
