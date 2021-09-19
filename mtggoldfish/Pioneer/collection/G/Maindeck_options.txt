@@ -65,9 +65,11 @@
 1 Wolfwillow Haven
 4 Blizzard Brawl
 1 Heart of Kiran
+1 Stubborn Denial
 1 Breeding Pool
 1 Botanical Sanctum
 1 Barkchannel Pathway
+2 Stubborn Denial
 2 Botanical Sanctum
 2 Barkchannel Pathway
 2 Breeding Pool
@@ -77,8 +79,6 @@
 4 Botanical Sanctum
 4 Barkchannel Pathway
 4 Breeding Pool
-1 Stubborn Denial
-2 Stubborn Denial
 4 Llanowar Visionary
 15 Forest
 3 Aspect of Hydra
@@ -107,8 +107,8 @@
 1 Golos, Tireless Pilgrim
 1 Arboreal Grazer
 1 Nissa's Pilgrimage
-1 Sanctum of Ugin
 1 Ulamog, the Ceaseless Hunger
+1 Sanctum of Ugin
 2 World Breaker
 2 Ugin, the Spirit Dragon
 2 Nissa's Pilgrimage
@@ -149,71 +149,6 @@
 2 Experiment One
 3 Avatar of the Resolute
 4 Avatar of the Resolute
-1 Yavimaya Coast
-2 Yavimaya Coast
-3 Yavimaya Coast
-1 Master of Waves
-1 Glasspool Mimic
-1 Unsummon
-1 Dragon Turtle
-1 Omen of the Sea
-1 Brazen Borrower
-1 Entrancing Melody
-1 Risen Reef
-1 Silumgar's Scorn
-1 Mutavault
-1 Overwhelmed Apprentice
-1 Island
-1 Wizard's Retort
-1 Sidisi's Faithful
-1 Gadwick, the Wizened
-2 Master of Waves
-2 Glasspool Mimic
-2 Dragon Turtle
-2 Omen of the Sea
-2 Brazen Borrower
-2 Entrancing Melody
-2 Overwhelmed Apprentice
-2 Island
-2 Gadwick, the Wizened
-2 Wizard's Retort
-2 Unsummon
-2 Silumgar's Scorn
-2 Sidisi's Faithful
-2 Mutavault
-2 Risen Reef
-3 Master of Waves
-3 Omen of the Sea
-3 Entrancing Melody
-3 Dragon Turtle
-3 Risen Reef
-3 Wizard's Retort
-3 Unsummon
-3 Overwhelmed Apprentice
-3 Island
-3 Gadwick, the Wizened
-3 Brazen Borrower
-3 Silumgar's Scorn
-3 Sidisi's Faithful
-3 Mutavault
-4 Island
-4 Omen of the Sea
-4 Dragon Turtle
-4 Risen Reef
-4 Entrancing Melody
-4 Yavimaya Coast
-4 Overwhelmed Apprentice
-4 Wizard's Retort
-4 Brazen Borrower
-4 Sidisi's Faithful
-4 Gadwick, the Wizened
-4 Mutavault
-5 Island
-6 Island
-7 Island
-8 Island
-9 Island
-10 Island
 1 Blooming Marsh
 1 Llanowar Wastes
 1 Overgrown Tomb
@@ -228,9 +163,12 @@
 1 Blossoming Defense
 1 Esika's Chariot
 1 Varis, Silverymoon Ranger
-1 Decisive Denial
-2 Decisive Denial
 3 Mazemind Tome
+1 Yavimaya Coast
+1 Decisive Denial
+2 Yavimaya Coast
+2 Decisive Denial
+3 Yavimaya Coast
 1 Vivien Reid
 2 Vivien Reid
 3 Vivien Reid
@@ -246,8 +184,8 @@
 4 Kazandu Mammoth
 1 Cultivate
 1 Cavalier of Thorns
-2 Ulamog, the Ceaseless Hunger
 2 Radiant Fountain
+2 Ulamog, the Ceaseless Hunger
 2 Cultivate
 2 Golos, Tireless Pilgrim
 2 Cavalier of Thorns
@@ -259,10 +197,10 @@
 4 Golos, Tireless Pilgrim
 4 Cultivate
 4 Arboreal Grazer
+1 Kiora, Behemoth Beckoner
 1 Assassin's Trophy
 1 Vivien, Monsters' Advocate
 1 Pelt Collector
-1 Kiora, Behemoth Beckoner
 2 Assassin's Trophy
 2 Pelt Collector
 3 Llanowar Wastes
@@ -271,27 +209,27 @@
 4 Pelt Collector
 4 Experiment One
 4 Llanowar Wastes
-1 Embercleave
 1 Ghor-Clan Rampager
-1 Robber of the Rich
-1 Bonecrusher Giant
-1 Cinder Glade
-1 Klothys, God of Destiny
 1 Game Trail
+1 Robber of the Rich
+1 Cinder Glade
+1 Embercleave
+1 Klothys, God of Destiny
 1 Gruul Spellbreaker
 1 Cragcrown Pathway
 1 Mountain
+1 Bonecrusher Giant
 1 Reckless Bushwhacker
 1 Stomping Ground
 1 Atarka's Command
 1 Rootbound Crag
+2 Game Trail
 2 Gruul Spellbreaker
 2 Atarka's Command
 2 Mountain
 2 Reckless Bushwhacker
 2 Stomping Ground
 2 Bonecrusher Giant
-2 Game Trail
 2 Rootbound Crag
 2 Cinder Glade
 2 Klothys, God of Destiny
@@ -304,47 +242,47 @@
 3 Mountain
 3 Reckless Bushwhacker
 3 Stomping Ground
+4 Bonecrusher Giant
 4 Reckless Bushwhacker
 4 Stomping Ground
-4 Bonecrusher Giant
 18 Snow-Covered Forest
 1 Garruk's Uprising
 1 Lovestruck Beast
 2 Field of Ruin
-2 Lovestruck Beast
 2 Garruk's Uprising
+2 Lovestruck Beast
 3 Lovestruck Beast
 4 Lovestruck Beast
 17 Forest
 18 Forest
 19 Forest
+1 Realmwalker
 1 Wildborn Preserver
 1 Darkbore Pathway
-1 Unclaimed Territory
 1 Circle of Dreams Druid
-1 Elvish Warmaster
-1 Realmwalker
 1 Shaman of the Pack
+1 Elvish Warmaster
 1 Elvish Clancaller
+1 Unclaimed Territory
 2 Darkbore Pathway
-2 Unclaimed Territory
 2 Realmwalker
-2 Elvish Warmaster
+2 Unclaimed Territory
 2 Elvish Clancaller
 2 Circle of Dreams Druid
 2 Wildborn Preserver
+2 Elvish Warmaster
 2 Shaman of the Pack
 3 Darkbore Pathway
-3 Elvish Warmaster
 3 Elvish Clancaller
-3 Wildborn Preserver
 3 Realmwalker
 3 Circle of Dreams Druid
+3 Elvish Warmaster
+3 Wildborn Preserver
 3 Shaman of the Pack
 4 Darkbore Pathway
 4 Elvish Warmaster
-4 Realmwalker
 4 Circle of Dreams Druid
+4 Realmwalker
 4 Wildborn Preserver
 4 Elvish Clancaller
 4 Shaman of the Pack

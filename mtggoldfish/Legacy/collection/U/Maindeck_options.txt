@@ -1,18 +1,18 @@
 1 Island
 2 Island
 1 Cunning Wish
+1 Preordain
 1 Ponder
 1 Brainstorm
-1 Preordain
 1 Turnabout
 1 Intuition
-1 High Tide
 1 Time Spiral
 1 Merchant Scroll
+1 High Tide
 2 Cunning Wish
 2 Ponder
-2 Brainstorm
 2 Preordain
+2 Brainstorm
 2 High Tide
 2 Time Spiral
 2 Turnabout
@@ -20,17 +20,17 @@
 3 Cunning Wish
 3 Ponder
 3 Preordain
-3 Brainstorm
 3 Island
+3 Brainstorm
+3 High Tide
 3 Merchant Scroll
 3 Time Spiral
-3 High Tide
 3 Turnabout
 4 Preordain
 4 Brainstorm
 4 Ponder
-4 Merchant Scroll
 4 Island
+4 Merchant Scroll
 4 Time Spiral
 4 High Tide
 5 Island
@@ -57,10 +57,29 @@
 1 Misty Rainforest
 1 Prismatic Vista
 2 Prismatic Vista
-1 Springleaf Drum
 1 Soul-Guide Lantern
+1 Walking Ballista
+1 Urza, Lord High Artificer
+1 Chalice of the Void
+2 Chalice of the Void
+2 Urza, Lord High Artificer
+3 Urza, Lord High Artificer
+3 Chalice of the Void
+4 Chalice of the Void
+1 Springleaf Drum
 3 Polluted Delta
 3 Flooded Strand
+1 Darksteel Citadel
+1 Mox Amber
+1 Karn, Scion of Urza
+1 Pithing Needle
+1 Mistvault Bridge
+1 Silverbluff Bridge
+2 Karn, Scion of Urza
+2 Mox Amber
+2 Silverbluff Bridge
+2 Mistvault Bridge
+3 Karn, Scion of Urza
 1 Counterspell
 1 Mystic Sanctuary
 1 Brain Freeze
@@ -75,3 +94,20 @@
 3 Meditate
 4 Scalding Tarn
 4 Meditate
+1 Ethersworn Canonist
+1 Ancient Den
+1 Cavern of Souls
+1 Karakas
+1 Tundra
+1 Esper Sentinel
+1 Hullbreacher
+2 Esper Sentinel
+2 Ethersworn Canonist
+2 Walking Ballista
+2 Ancient Den
+2 Cavern of Souls
+3 Esper Sentinel
+3 Cavern of Souls
+4 Urza, Lord High Artificer
+4 Esper Sentinel
+4 Cavern of Souls

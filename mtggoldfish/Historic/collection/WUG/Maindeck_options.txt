@@ -17,20 +17,20 @@
 2 Declaration in Stone
 1 Heliod, Sun-Crowned
 1 Elite Spellbinder
-1 Breeding Pool
-2 Breeding Pool
 1 Wall of Blossoms
 1 Soulherder
 2 Wall of Blossoms
 2 Soulherder
 3 Soulherder
 4 Soulherder
-3 Breeding Pool
 1 Prosperous Innkeeper
+1 Breeding Pool
 2 Elite Spellbinder
 2 Prosperous Innkeeper
+2 Breeding Pool
 2 Ajani, Strength of the Pride
 1 The Book of Exalted Deeds
+3 Breeding Pool
 1 Llanowar Elves
 2 Llanowar Elves
 3 Llanowar Elves
@@ -44,7 +44,6 @@
 2 Blade Splicer
 1 Militia Bugler
 3 Prosperous Innkeeper
-4 Breeding Pool
 1 Ephemerate
 2 Ephemerate
 3 Wall of Blossoms
@@ -52,88 +51,40 @@
 4 Wall of Blossoms
 1 Trelasarra, Moon Dancer
 2 Trelasarra, Moon Dancer
-1 Baffling End
-1 Settle the Wreckage
-3 Glacial Fortress
-1 Yasharn, Implacable Earth
-1 Snow-Covered Plains
-1 Faceless Haven
-1 Fabled Passage
-2 Fabled Passage
-3 Fabled Passage
-2 Snow-Covered Plains
-1 Memory Lapse
-1 Rimewood Falls
-1 Nissa, Who Shakes the World
-1 Snow-Covered Forest
-1 Snow-Covered Island
-1 Narset, Parter of Veils
-1 Shark Typhoon
-1 Into the North
-1 Hydroid Krasis
-1 Arctic Treeline
-2 Memory Lapse
-2 Nissa, Who Shakes the World
-2 Hydroid Krasis
-2 Snow-Covered Forest
-2 Shark Typhoon
-2 Rimewood Falls
-2 Into the North
-3 Shark Typhoon
-3 Rimewood Falls
-3 Nissa, Who Shakes the World
-3 Into the North
-4 Shark Typhoon
-4 Nissa, Who Shakes the World
-4 Into the North
-1 Into the Roil
-1 Commit/Memory
-1 Wrath of God
-2 Commit/Memory
-2 Snow-Covered Island
-2 Yasharn, Implacable Earth
-2 Narset, Parter of Veils
-3 Memory Lapse
-3 Narset, Parter of Veils
-4 Glacial Fortress
-4 Fabled Passage
-4 Memory Lapse
-1 Daxos, Blessed by the Sun
-2 Daxos, Blessed by the Sun
 1 Gilded Goose
 1 Rise and Shine
 1 Lonis, Cryptozoologist
 2 Rise and Shine
 3 Elite Spellbinder
+1 Daxos, Blessed by the Sun
+2 Daxos, Blessed by the Sun
 2 Militia Bugler
+4 Breeding Pool
 2 Heliod, Sun-Crowned
-1 Shalai, Voice of Plenty
-1 Lyra Dawnbringer
+1 Restoration Angel
+2 Restoration Angel
+1 Lair of the Hydra
+4 Ephemerate
 11 Plains
 12 Plains
 13 Plains
-1 Lair of the Hydra
-4 Ephemerate
-1 Restoration Angel
-2 Restoration Angel
+1 Shalai, Voice of Plenty
+1 Lyra Dawnbringer
+1 Settle the Wreckage
 2 Settle the Wreckage
-1 Tamiyo, Collector of Tales
-2 Wrath of God
-2 Baffling End
-3 Wrath of God
-3 Baffling End
+1 Baffling End
 3 Declaration in Stone
-1 Knight of Autumn
 1 Charming Prince
 1 Irrigated Farmland
+1 Knight of Autumn
 2 Irrigated Farmland
-2 Knight of Autumn
 2 Lair of the Hydra
+2 Knight of Autumn
 2 Charming Prince
 4 Prosperous Innkeeper
 1 Vesperlark
-1 Thraben Inspector
 1 Brazen Borrower
+1 Thraben Inspector
 1 Ranger-Captain of Eos
 2 Vesperlark
 2 Thraben Inspector
@@ -141,21 +92,17 @@
 4 Forest
 1 Toski, Bearer of Secrets
 2 Toski, Bearer of Secrets
-3 Angel of Vitality
-4 Angel of Vitality
 2 Lonis, Cryptozoologist
 4 Hengegate Pathway
+3 Angel of Vitality
+4 Angel of Vitality
 1 Rest in Peace
 14 Plains
 3 Blade Splicer
-1 Day of Judgment
 2 Emeria's Call
 1 Cleric Class
 2 The Book of Exalted Deeds
 1 Thragtusk
-1 Hinterland Harbor
-2 Hinterland Harbor
-2 Faceless Haven
 1 Legion Angel
 1 Indatha Triome
 1 Chatterfang, Squirrel General
@@ -166,14 +113,14 @@
 1 Dromoka's Command
 2 Reidane, God of the Worthy
 2 Dromoka's Command
+3 Glacial Fortress
 1 Temple of Plenty
 1 Cave of the Frost Dragon
+1 Fabled Passage
 2 Cave of the Frost Dragon
 2 Temple of Plenty
-1 Seal Away
-1 Abundant Harvest
-2 Seal Away
-3 Seal Away
+2 Fabled Passage
+3 Fabled Passage
 1 Skyclave Cleric
 2 Skyclave Cleric
 3 Skyclave Cleric
@@ -181,15 +128,15 @@
 1 Ajani's Welcome
 1 Authority of the Consuls
 1 Deafening Silence
-1 Dawn of Hope
 1 Aethersphere Harvester
+1 Dawn of Hope
 1 Crawling Barrens
 3 Settle the Wreckage
 3 Heliod, Sun-Crowned
 3 Castle Ardenvale
 4 Castle Ardenvale
-1 Brightclimb Pathway
 1 Godless Shrine
+1 Brightclimb Pathway
 1 Vito, Thorn of the Dusk Rose
 1 Isolated Chapel
 2 Brightclimb Pathway
@@ -198,66 +145,51 @@
 3 Vito, Thorn of the Dusk Rose
 3 Brightclimb Pathway
 4 Brightclimb Pathway
+3 Trelasarra, Moon Dancer
+4 Trelasarra, Moon Dancer
 1 Mana Tithe
 2 Mana Tithe
 2 Rest in Peace
 3 Mana Tithe
 4 Mana Tithe
-3 Trelasarra, Moon Dancer
-4 Trelasarra, Moon Dancer
-1 Glorious Protector
-1 Faceless Agent
-1 Koma, Cosmos Serpent
-1 Island
-1 Vivien, Monsters' Advocate
-1 Primal Command
-1 Timeless Witness
-1 Angel of Invention
-1 Elvish Visionary
-2 Island
-2 Glorious Protector
-2 Elvish Visionary
-2 Timeless Witness
-3 Elvish Visionary
-4 Elvish Visionary
+1 Selfless Savior
+2 Selfless Savior
+3 Selfless Savior
+4 Selfless Savior
 1 Scavenging Ooze
 1 Man-o'-War
 2 Gilded Goose
 2 Scavenging Ooze
 3 Lonis, Cryptozoologist
 4 Elite Spellbinder
-1 Selfless Savior
-2 Selfless Savior
-3 Selfless Savior
-4 Selfless Savior
-1 Swan Song
-2 Swan Song
-4 Linvala, Shield of Sea Gate
-1 Explore
-1 Cultivate
-1 Ugin, the Spirit Dragon
-2 Day of Judgment
-2 Explore
-2 Cultivate
-2 Arctic Treeline
-2 Ugin, the Spirit Dragon
-3 Explore
-3 Arctic Treeline
-3 Ugin, the Spirit Dragon
-3 Day of Judgment
-3 Hinterland Harbor
-3 Hydroid Krasis
-4 Explore
-4 Hinterland Harbor
-4 Hydroid Krasis
-4 Day of Judgment
+1 Glorious Protector
+1 Faceless Agent
+1 Koma, Cosmos Serpent
+1 Yasharn, Implacable Earth
+1 Vivien, Monsters' Advocate
+1 Primal Command
+1 Island
+1 Hinterland Harbor
+1 Elvish Visionary
+1 Timeless Witness
+1 Angel of Invention
+2 Glorious Protector
+2 Elvish Visionary
+2 Hinterland Harbor
+2 Timeless Witness
+2 Island
+3 Elvish Visionary
+4 Elvish Visionary
 1 Remorseful Cleric
 2 Remorseful Cleric
 3 Remorseful Cleric
 4 Remorseful Cleric
+1 Swan Song
+2 Swan Song
+4 Linvala, Shield of Sea Gate
 1 Turntimber Symbiosis
-1 Yorion, Sky Nomad
 1 Lumbering Lightshield
+1 Yorion, Sky Nomad
 2 Thragtusk
 2 Yorion, Sky Nomad
 2 Turntimber Symbiosis
@@ -268,13 +200,17 @@
 3 Lumbering Lightshield
 4 Barkchannel Pathway
 4 Restoration Angel
+4 Blade Splicer
 4 Lumbering Lightshield
 4 Thragtusk
-4 Blade Splicer
 5 Forest
+1 Snow-Covered Plains
 1 Adanto Vanguard
+1 Faceless Haven
 2 Adanto Vanguard
 2 Cleric Class
+2 Faceless Haven
+2 Snow-Covered Plains
 3 Adanto Vanguard
 3 Faceless Haven
 3 Snow-Covered Plains
@@ -307,6 +243,6 @@
 16 Plains
 17 Plains
 18 Plains
-20 Plains
-21 Plains
 19 Plains
+21 Plains
+20 Plains
