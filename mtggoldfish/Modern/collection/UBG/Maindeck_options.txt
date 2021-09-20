@@ -1,58 +1,33 @@
-2 Sunken Ruins
-3 Misty Rainforest
 1 Zagoth Triome
 2 Snow-Covered Island
 1 Drowned Catacomb
-2 Darkslick Shores
-3 Dress Down
-3 Watery Grave
-1 Swamp
 3 Snow-Covered Island
-4 Misty Rainforest
+4 Snapcaster Mage
+2 Darkslick Shores
+3 Watery Grave
+3 Dress Down
+1 Swamp
+3 Misty Rainforest
+2 Damnation
+4 Snow-Covered Island
 1 Abrupt Decay
 2 Abrupt Decay
+4 Misty Rainforest
 1 Snow-Covered Swamp
 1 Snow-Covered Forest
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
-2 Damnation
-1 Thoughtseize
-2 Thoughtseize
-1 Tarmogoyf
-2 Snow-Covered Forest
-2 Tarmogoyf
-3 Tarmogoyf
-4 Tarmogoyf
-4 Snow-Covered Island
 1 Pulse of Murasa
 1 Thing in the Ice
 2 Thing in the Ice
 3 Darkslick Shores
 3 Thing in the Ice
-1 Assassin's Trophy
-1 Overgrown Tomb
-1 Verdant Catacombs
-2 Snow-Covered Swamp
-2 Verdant Catacombs
-3 Verdant Catacombs
-1 Blooming Marsh
-1 Unearth
-1 Nurturing Peatland
-1 Inquisition of Kozilek
-1 Nissa, Steward of Elements
-1 Noble Hierarch
-1 Village Rites
-2 Cling to Dust
-2 Noble Hierarch
-2 Village Rites
-2 Unearth
-2 Inquisition of Kozilek
-3 Inquisition of Kozilek
-3 Noble Hierarch
-1 Cryptic Command
 1 Tourach, Dread Cantor
+1 Thoughtseize
+2 Thoughtseize
+1 Cryptic Command
 1 Reflecting Pool
 2 Reflecting Pool
 1 Spell Pierce
@@ -60,64 +35,89 @@
 1 Steam Vents
 1 Valki, God of Lies
 2 Valki, God of Lies
+3 Thoughtseize
 1 Creeping Tar Pit
 2 Cryptic Command
+1 Tarmogoyf
+2 Snow-Covered Forest
+2 Tarmogoyf
+3 Tarmogoyf
+4 Tarmogoyf
 1 Force of Negation
 2 Force of Negation
-3 Thoughtseize
 2 Steam Vents
 1 Sulfur Falls
-1 Kolaghan's Command
 1 Jace, Vryn's Prodigy
-1 Dreadbore
-1 Mountain
 1 Marsh Flats
-1 Lightning Bolt
+1 Dreadbore
+1 Kolaghan's Command
 1 Blood Crypt
-2 Swamp
-2 Kolaghan's Command
-2 Mountain
+1 Mountain
+1 Lightning Bolt
 2 Creeping Tar Pit
+2 Kolaghan's Command
+2 Swamp
 2 Dreadbore
 2 Jace, Vryn's Prodigy
+2 Mountain
 2 Lightning Bolt
 3 Swamp
-3 Lightning Bolt
 3 Kolaghan's Command
-4 Lightning Bolt
+3 Lightning Bolt
 4 Thoughtseize
+4 Lightning Bolt
 6 Island
 3 Hall of Storm Giants
 3 Sunken Ruins
 3 Into the Story
 4 Sunken Ruins
+1 Assassin's Trophy
 1 Spreading Seas
 1 Soul-Guide Lantern
 2 Spreading Seas
 2 Zagoth Triome
 2 Tourach, Dread Cantor
-1 Culling Ritual
 1 Brainstone
+1 Culling Ritual
 2 Drowned Catacomb
 3 Drowned Catacomb
-1 Rimewood Falls
+1 Ice Tunnel
 1 Ketria Triome
 1 Bring to Light
 2 Bring to Light
 3 Bring to Light
-1 Castle Vantress
+1 Rimewood Falls
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
+1 Overgrown Tomb
+1 Verdant Catacombs
+2 Snow-Covered Swamp
+2 Verdant Catacombs
+3 Verdant Catacombs
+1 Waterlogged Grove
 1 Spell Snare
+1 Castle Vantress
 1 Behold the Multiverse
-1 Ice Tunnel
 2 Behold the Multiverse
 2 Pulse of Murasa
 1 Shark Typhoon
 2 Shark Typhoon
 3 Cryptic Command
-1 Scavenging Ooze
+1 Nurturing Peatland
+1 Unearth
+1 Nissa, Steward of Elements
+1 Noble Hierarch
+1 Blooming Marsh
+1 Village Rites
+2 Cling to Dust
+2 Noble Hierarch
+2 Village Rites
+2 Unearth
+3 Inquisition of Kozilek
+3 Noble Hierarch
 1 Jace, the Mind Sculptor
+1 Scavenging Ooze
 1 Grist, the Hunger Tide
-1 Waterlogged Grove
 1 Sudden Edict
 1 Endurance
 1 Of One Mind
@@ -132,26 +132,41 @@
 3 Shardless Agent
 3 Force of Negation
 4 Shardless Agent
-1 Expressive Iteration
-1 Hallowed Fountain
-1 Search for Azcanta
-1 Prismatic Ending
-1 Mystic Gate
-1 Flooded Strand
-1 Seal of Removal
-1 Plains
+1 Serum Visions
+1 Abundant Harvest
+1 Hinterland Harbor
+1 Surgical Extraction
+1 Murktide Regent
+1 Fact or Fiction
+2 Breeding Pool
+2 Serum Visions
+2 Abundant Harvest
+2 Assassin's Trophy
+2 Murktide Regent
+3 Abundant Harvest
+3 Assassin's Trophy
+3 Murktide Regent
+4 Murktide Regent
 1 Unholy Heat
+1 Search for Azcanta
+1 Seal of Removal
+1 Flooded Strand
+1 Expressive Iteration
+1 Mystic Gate
+1 Prismatic Ending
+1 Hallowed Fountain
+1 Plains
 1 Supreme Verdict
 1 Raugrin Triome
-2 Expressive Iteration
 2 Seal of Removal
-2 Prismatic Ending
-2 Supreme Verdict
 2 Unholy Heat
 2 Flooded Strand
+2 Supreme Verdict
+2 Prismatic Ending
+2 Expressive Iteration
+3 Unholy Heat
 3 Flooded Strand
 3 Prismatic Ending
-3 Unholy Heat
-4 Flooded Strand
-4 Prismatic Ending
 4 Unholy Heat
+4 Prismatic Ending
+4 Flooded Strand

@@ -1,23 +1,10 @@
-1 Wizard's Lightning
-1 Ghitu Lavarunner
-1 Viashino Pyromancer
-2 Viashino Pyromancer
-2 Wizard's Lightning
-2 Ghitu Lavarunner
-3 Ghitu Lavarunner
-3 Viashino Pyromancer
-3 Wizard's Lightning
-4 Wizard's Lightning
-4 Ghitu Lavarunner
-4 Viashino Pyromancer
-1 Clifftop Retreat
-1 Tenth District Legionnaire
+1 Plains
 1 Dreadhorde Arcanist
+1 Tenth District Legionnaire
 1 Reckless Rage
 1 Defiant Strike
-1 Plains
-2 Tenth District Legionnaire
 2 Dreadhorde Arcanist
+2 Tenth District Legionnaire
 2 Defiant Strike
 2 Reckless Rage
 3 Tenth District Legionnaire
@@ -25,6 +12,7 @@
 3 Defiant Strike
 4 Defiant Strike
 4 Tenth District Legionnaire
+1 Clifftop Retreat
 2 Plains
 3 Plains
 4 Dreadhorde Arcanist
@@ -34,13 +22,13 @@
 3 Feather, the Redeemed
 3 Reckless Rage
 4 Reckless Rage
-1 Fight as One
 1 Clever Lumimancer
+1 Fight as One
 1 Invigorated Rampage
 2 Clever Lumimancer
-2 Invigorated Rampage
 2 Mountain
 2 Fight as One
+2 Invigorated Rampage
 3 Clever Lumimancer
 3 Invigorated Rampage
 4 Clever Lumimancer
@@ -57,47 +45,36 @@
 1 Adanto Vanguard
 2 Adanto Vanguard
 1 Shatterskull Smashing
-1 The Flame of Keld
-1 Furycalm Snarl
+1 Shefet Dunes
 1 Justice Strike
 1 Aurelia, Exemplar of Justice
-1 Shefet Dunes
+1 Furycalm Snarl
 2 Justice Strike
 2 Shefet Dunes
 2 Aurelia, Exemplar of Justice
-1 Magmatic Channeler
-1 Grim Lavamancer
-1 Blood Crypt
-1 Lightning Strike
-1 Increasing Vengeance
-2 Blood Crypt
-2 Magmatic Channeler
-2 Lightning Strike
-2 Increasing Vengeance
-3 Blood Crypt
 1 Selfless Savior
 1 Leonin Lightscribe
 1 Guiding Voice
-2 Selfless Savior
 2 Leonin Lightscribe
+2 Selfless Savior
 2 Guiding Voice
-3 Selfless Savior
 3 Leonin Lightscribe
-3 Guiding Voice
+3 Selfless Savior
 3 Mountain
+3 Guiding Voice
 4 Leonin Lightscribe
 4 Selfless Savior
 4 Guiding Voice
 1 Sejiri Shelter
-1 Ephemerate
-1 The Birth of Meletis
 1 Militia Bugler
 1 Skyclave Apparition
+1 Ephemerate
 1 Castle Ardenvale
 1 Thraben Inspector
-2 Ephemerate
+1 The Birth of Meletis
 2 Castle Ardenvale
 2 Skyclave Apparition
+2 Ephemerate
 2 Thraben Inspector
 3 Castle Ardenvale
 3 Thraben Inspector
@@ -108,24 +85,24 @@
 6 Plains
 1 Luminarch Aspirant
 1 Venerable Warsinger
-1 Temple of Triumph
+1 Shepherd of the Flock
+1 Skyclave Cleric
 1 Gideon Blackblade
 1 Light of Hope
+1 Temple of Triumph
 1 Samut's Sprint
 1 Mana Tithe
-1 Skyclave Cleric
 1 You're Ambushed on the Road
 1 Sudden Breakthrough
 1 Thrilling Discovery
-1 Shepherd of the Flock
-2 Mana Tithe
+2 Shepherd of the Flock
+2 Skyclave Cleric
 2 Light of Hope
 2 Thrilling Discovery
-2 Skyclave Cleric
 2 Sudden Breakthrough
 2 Samut's Sprint
+2 Mana Tithe
 2 You're Ambushed on the Road
-2 Shepherd of the Flock
 2 Temple of Triumph
 3 Adanto Vanguard
 3 Gods Willing

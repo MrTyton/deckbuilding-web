@@ -73,10 +73,10 @@
 1 Verdant Catacombs
 1 Barren Moor
 1 Mountain
-1 Inspiring Vantage
 1 Seasoned Pyromancer
 1 Blackcleave Cliffs
 1 Dragon's Rage Channeler
+1 Inspiring Vantage
 2 Seasoned Pyromancer
 2 Blackcleave Cliffs
 2 Dragon's Rage Channeler
@@ -95,12 +95,12 @@
 1 Overgrown Tomb
 2 Temple Garden
 1 Arid Mesa
-2 Inspiring Vantage
-2 Sacred Foundry
-2 Blood Crypt
 1 Grief
 2 Grief
 2 Kaya, Orzhov Usurper
+2 Blood Crypt
+2 Sacred Foundry
+2 Inspiring Vantage
 1 Siege Rhino
 1 Sire of Insanity
 1 Llanowar Wastes
@@ -134,20 +134,20 @@
 1 Night's Whisper
 2 Night's Whisper
 3 Night's Whisper
-1 Tymaret Calls the Dead
-1 Hex Parasite
-1 Binding the Old Gods
-2 Tymaret Calls the Dead
-2 Binding the Old Gods
-2 Grave Titan
-2 Hex Parasite
-3 Tymaret Calls the Dead
-3 Temple Garden
-3 Hex Parasite
-4 Tymaret Calls the Dead
 2 Profane Tutor
 3 Silent Clearing
 4 Bone Shards
+1 Hex Parasite
+1 Binding the Old Gods
+1 Tymaret Calls the Dead
+2 Binding the Old Gods
+2 Grave Titan
+2 Tymaret Calls the Dead
+2 Hex Parasite
+3 Temple Garden
+3 Tymaret Calls the Dead
+3 Hex Parasite
+4 Tymaret Calls the Dead
 1 Funeral Charm
 1 Wurmcoil Engine
 1 Ransack the Lab

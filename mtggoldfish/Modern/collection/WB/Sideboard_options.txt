@@ -30,8 +30,8 @@
 2 Alpine Moon
 1 Thoughtseize
 1 Sphinx of the Steel Wind
-1 Batterskull
 1 Kaldra Compleat
+1 Batterskull
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
@@ -53,10 +53,10 @@
 1 Ashen Rider
 2 Kaya, Orzhov Usurper
 4 Chalice of the Void
-1 Massacre Wurm
-1 Emrakul, the Aeons Torn
 1 Stony Silence
+1 Emrakul, the Aeons Torn
 1 Sire of Insanity
+1 Massacre Wurm
 1 Fracture
 1 Inquisition of Kozilek
 1 Blossoming Calm
@@ -70,10 +70,10 @@
 1 Nahiri, the Harbinger
 1 Void Winnower
 2 Nahiri, the Harbinger
+1 Ghost Quarter
 1 Tormod's Crypt
 1 Drana's Emissary
 1 Dream Fracture
-1 Ghost Quarter
 1 Thragtusk
 2 Tormod's Crypt
 2 Dream Fracture
@@ -91,9 +91,11 @@
 2 Binding the Old Gods
 2 Pithing Needle
 2 Nine Lives
+3 Kataki, War's Wage
 1 Terastodon
 1 Ulamog, the Infinite Gyre
 3 Damping Sphere
+4 Portable Hole
 1 Fatal Push
 1 Duress
 1 Leyline of the Void
@@ -102,5 +104,3 @@
 2 Duress
 2 Silence
 3 Silence
-4 Portable Hole
-3 Kataki, War's Wage
