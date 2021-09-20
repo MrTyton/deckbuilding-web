@@ -149,9 +149,6 @@
 2 Justice Strike
 1 Anger of the Gods
 2 Anger of the Gods
-1 Quicken
-2 Quicken
-3 Quicken
 1 Jace, Vryn's Prodigy
 1 Spirebluff Canal
 1 Sinister Sabotage
@@ -160,6 +157,9 @@
 2 Bonecrusher Giant
 2 Sinister Sabotage
 3 Sinister Sabotage
+1 Quicken
+2 Quicken
+3 Quicken
 1 Bomat Courier
 2 Bomat Courier
 4 Mutavault
@@ -175,9 +175,9 @@
 1 Drowned Catacomb
 1 Isolated Chapel
 1 Kaya, Orzhov Usurper
+1 Heartless Act
 1 Watery Grave
 1 Vanishing Verse
-1 Heartless Act
 1 Fetid Pools
 2 Drowned Catacomb
 2 Kaya, Orzhov Usurper
@@ -186,9 +186,9 @@
 2 Vanishing Verse
 2 Fetid Pools
 2 Heartless Act
-3 Fetid Pools
 3 Vanishing Verse
 3 Watery Grave
+3 Fetid Pools
 3 Heartless Act
 3 Isolated Chapel
 4 Vanishing Verse

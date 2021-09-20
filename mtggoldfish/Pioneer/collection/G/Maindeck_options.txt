@@ -152,9 +152,9 @@
 1 Blooming Marsh
 1 Llanowar Wastes
 1 Overgrown Tomb
-2 Overgrown Tomb
 2 Blooming Marsh
 2 Llanowar Wastes
+2 Overgrown Tomb
 3 Blooming Marsh
 3 Overgrown Tomb
 4 Blooming Marsh
@@ -197,10 +197,10 @@
 4 Golos, Tireless Pilgrim
 4 Cultivate
 4 Arboreal Grazer
-1 Kiora, Behemoth Beckoner
 1 Assassin's Trophy
 1 Vivien, Monsters' Advocate
 1 Pelt Collector
+1 Kiora, Behemoth Beckoner
 2 Assassin's Trophy
 2 Pelt Collector
 3 Llanowar Wastes
@@ -210,12 +210,12 @@
 4 Experiment One
 4 Llanowar Wastes
 1 Ghor-Clan Rampager
-1 Game Trail
+1 Gruul Spellbreaker
 1 Robber of the Rich
 1 Cinder Glade
 1 Embercleave
 1 Klothys, God of Destiny
-1 Gruul Spellbreaker
+1 Game Trail
 1 Cragcrown Pathway
 1 Mountain
 1 Bonecrusher Giant
@@ -223,21 +223,21 @@
 1 Stomping Ground
 1 Atarka's Command
 1 Rootbound Crag
-2 Game Trail
 2 Gruul Spellbreaker
 2 Atarka's Command
 2 Mountain
 2 Reckless Bushwhacker
 2 Stomping Ground
 2 Bonecrusher Giant
+2 Game Trail
 2 Rootbound Crag
 2 Cinder Glade
 2 Klothys, God of Destiny
 2 Cragcrown Pathway
+3 Gruul Spellbreaker
 3 Game Trail
 3 Cragcrown Pathway
 3 Bonecrusher Giant
-3 Gruul Spellbreaker
 3 Atarka's Command
 3 Mountain
 3 Reckless Bushwhacker
@@ -256,31 +256,31 @@
 17 Forest
 18 Forest
 19 Forest
-1 Realmwalker
 1 Wildborn Preserver
 1 Darkbore Pathway
-1 Circle of Dreams Druid
-1 Shaman of the Pack
-1 Elvish Warmaster
-1 Elvish Clancaller
 1 Unclaimed Territory
+1 Circle of Dreams Druid
+1 Elvish Warmaster
+1 Realmwalker
+1 Shaman of the Pack
+1 Elvish Clancaller
 2 Darkbore Pathway
-2 Realmwalker
 2 Unclaimed Territory
+2 Realmwalker
+2 Elvish Warmaster
 2 Elvish Clancaller
 2 Circle of Dreams Druid
 2 Wildborn Preserver
-2 Elvish Warmaster
 2 Shaman of the Pack
 3 Darkbore Pathway
+3 Elvish Warmaster
 3 Elvish Clancaller
 3 Realmwalker
 3 Circle of Dreams Druid
-3 Elvish Warmaster
 3 Wildborn Preserver
 3 Shaman of the Pack
-4 Darkbore Pathway
 4 Elvish Warmaster
+4 Darkbore Pathway
 4 Circle of Dreams Druid
 4 Realmwalker
 4 Wildborn Preserver

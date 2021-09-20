@@ -33,11 +33,11 @@
 2 Ebondeath, Dracolich
 1 Goldspan Dragon
 2 Goldspan Dragon
+1 Torrential Gearhulk
 1 Hagra Mauling
 1 Saw It Coming
 1 Languish
 1 Narset, Parter of Veils
-1 Torrential Gearhulk
 1 Search for Azcanta
 1 Silumgar's Command
 1 Memory Lapse
@@ -68,17 +68,17 @@
 3 Dragonskull Summit
 1 Flunk
 1 Rootbound Crag
-1 Overgrown Tomb
 1 Stomping Ground
-2 Overgrown Tomb
+1 Overgrown Tomb
 2 Stomping Ground
+2 Overgrown Tomb
 3 Overgrown Tomb
 1 Sacred Foundry
-1 Godless Shrine
 1 Cave of the Frost Dragon
+1 Godless Shrine
 1 Lightning Helix
-2 Godless Shrine
 2 Savai Triome
+2 Godless Shrine
 2 Sacred Foundry
 2 Lightning Helix
 1 Spirebluff Canal
@@ -93,13 +93,13 @@
 3 Fabled Passage
 4 Mountain
 1 Blooming Marsh
-1 Inscription of Ruin
 1 Scavenging Ooze
+1 Inscription of Ruin
 2 Scavenging Ooze
 3 Scavenging Ooze
 3 Stomping Ground
-4 Overgrown Tomb
 4 Stomping Ground
+4 Overgrown Tomb
 1 Sheltered Thicket
 1 Abundant Harvest
 1 Angrath, the Flame-Chained
@@ -120,15 +120,15 @@
 4 Abundant Harvest
 4 Blooming Marsh
 1 Needleverge Pathway
+1 Brightclimb Pathway
 1 Icingdeath, Frost Tyrant
 1 Nadaar, Selfless Paladin
 1 Vanishing Verse
 1 Dragon's Disciple
-1 Brightclimb Pathway
 2 Needleverge Pathway
+2 Brightclimb Pathway
 2 Nadaar, Selfless Paladin
 2 Vanishing Verse
-2 Brightclimb Pathway
 2 Dragon's Disciple
 3 Savai Triome
 3 Nadaar, Selfless Paladin
@@ -156,27 +156,28 @@
 2 Thought Erasure
 2 Rankle, Master of Pranks
 3 Fatal Push
+2 Icingdeath, Frost Tyrant
+3 Needleverge Pathway
+4 Needleverge Pathway
+1 Cragcrown Pathway
 1 Darkbore Pathway
 1 Sarulf, Realm Eater
-1 Vraska, Golgari Queen
 1 Chevill, Bane of Monsters
 1 Esika's Chariot
+1 Vraska, Golgari Queen
 1 Eliminate
-1 Cragcrown Pathway
 1 Gnottvold Slumbermound
 1 Ritual of Soot
+2 Cragcrown Pathway
 2 Sarulf, Realm Eater
 2 Vraska, Golgari Queen
 2 Chevill, Bane of Monsters
 2 Liliana, Waker of the Dead
 2 Eliminate
-2 Cragcrown Pathway
 2 Gnottvold Slumbermound
 3 Cragcrown Pathway
 4 Scavenging Ooze
 4 Bloodchief's Thirst
-3 Steam Vents
-4 Steam Vents
 1 Magda, Brazen Outlaw
 1 Immersturm Predator
 1 Kalain, Reclusive Painter
@@ -184,8 +185,8 @@
 1 Maelstrom Pulse
 1 Sarkhan the Masterless
 1 Korvold, Fae-Cursed King
-2 Magda, Brazen Outlaw
 2 Rootbound Crag
+2 Magda, Brazen Outlaw
 2 Kalain, Reclusive Painter
 2 Immersturm Predator
 2 Prosperous Innkeeper
@@ -195,14 +196,16 @@
 3 Magda, Brazen Outlaw
 3 Woodland Cemetery
 3 Kalain, Reclusive Painter
-3 Prosperous Innkeeper
 3 Rootbound Crag
+3 Prosperous Innkeeper
 3 Goldspan Dragon
 3 Korvold, Fae-Cursed King
 4 Woodland Cemetery
+4 Rootbound Crag
 4 Prosperous Innkeeper
 4 Goldspan Dragon
-4 Rootbound Crag
+3 Steam Vents
+4 Steam Vents
 1 Riverglide Pathway
 1 Temple of Malice
 2 Riverglide Pathway
@@ -215,21 +218,18 @@
 1 Isolated Chapel
 1 Elite Spellbinder
 1 Shadrix Silverquill
-2 Isolated Chapel
 2 Cave of the Frost Dragon
 2 Deafening Clarion
+2 Isolated Chapel
 2 Shadrix Silverquill
 2 Elite Spellbinder
-3 Godless Shrine
 3 Isolated Chapel
+3 Godless Shrine
 3 Lightning Helix
 3 Elite Spellbinder
 4 Sacred Foundry
 4 Lightning Helix
 4 Elite Spellbinder
-2 Icingdeath, Frost Tyrant
-3 Needleverge Pathway
-4 Needleverge Pathway
 1 Hazoret the Fervent
 2 Hazoret the Fervent
 3 Castle Locthwain

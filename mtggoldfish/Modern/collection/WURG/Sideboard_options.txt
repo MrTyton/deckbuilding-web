@@ -4,14 +4,22 @@
 4 Leyline of the Void
 2 Fury
 3 Fury
-4 Teferi, Time Raveler
 1 Yorion, Sky Nomad
+4 Teferi, Time Raveler
 1 Veil of Summer
 2 Veil of Summer
+1 Endurance
 3 Leyline of Sanctity
+1 Lightning Bolt
+1 Rest in Peace
+2 Rest in Peace
+1 Path to Exile
+1 Prismatic Ending
+2 Brazen Borrower
+3 Force of Vigor
 1 Consign/Oblivion
-1 Nephalia Academy
 1 Boseiju, Who Shelters All
+1 Nephalia Academy
 2 Nephalia Academy
 2 Boseiju, Who Shelters All
 2 Consign/Oblivion
@@ -23,42 +31,37 @@
 3 Rough/Tumble
 4 Consign/Oblivion
 4 Rough/Tumble
-2 Brazen Borrower
-1 Rest in Peace
-2 Rest in Peace
-3 Force of Vigor
-1 Lightning Bolt
-1 Endurance
-1 Prismatic Ending
 1 Chalice of the Void
-1 Path to Exile
 2 Chalice of the Void
 2 Lightning Bolt
 1 Detention Sphere
 1 Blood Moon
+1 Alpine Moon
 3 Rest in Peace
 1 Jegantha, the Wellspring
 2 Path to Exile
+2 Alpine Moon
 1 Cindervines
 3 Path to Exile
 1 Gaddock Teeg
 1 Lightning Helix
 2 Gaddock Teeg
 2 Cindervines
-2 Lightning Helix
 1 Lavinia, Azorius Renegade
+2 Lightning Helix
 4 Force of Vigor
+2 Endurance
 4 Path to Exile
-1 Alpine Moon
-1 Unholy Heat
 1 Obsidian Charmaw
+1 Unholy Heat
 2 Obsidian Charmaw
-4 Fury
 2 Blood Moon
+4 Fury
 1 Eternal Witness
-3 Lightning Bolt
+1 Knight of Autumn
 2 Prismatic Ending
-2 Alpine Moon
+3 Lightning Bolt
+2 Lavinia, Azorius Renegade
 3 Chalice of the Void
 1 Cursed Totem
 2 Cursed Totem
@@ -66,10 +69,8 @@
 1 Cleansing Wildfire
 2 Cleansing Wildfire
 3 Cleansing Wildfire
-1 Ingot Chewer
 3 Veil of Summer
-2 Endurance
-2 Lavinia, Azorius Renegade
+1 Ingot Chewer
 1 Keruga, the Macrosage
 3 Foundation Breaker
 1 Emrakul, the Aeons Torn
@@ -77,6 +78,8 @@
 3 Ingot Chewer
 4 Cleansing Wildfire
 1 Stony Silence
+1 Force of Negation
+2 Force of Negation
 3 Prismatic Ending
 1 Kataki, War's Wage
 4 Ingot Chewer
@@ -84,19 +87,18 @@
 1 Vindicate
 2 Detention Sphere
 2 Stony Silence
-1 Knight of Autumn
+1 Engineered Explosives
+2 Engineered Explosives
 4 Leyline of Sanctity
 2 Unholy Heat
-1 Goblin Cratermaker
 1 Skyclave Apparition
+1 Goblin Cratermaker
 1 Blast Zone
 3 Cindervines
 1 Collector Ouphe
 1 Meddling Mage
 1 Geist of Saint Traft
 2 Collector Ouphe
-1 Force of Negation
-2 Force of Negation
 1 Ancient Grudge
 1 Klothys, God of Destiny
 1 Bonecrusher Giant
@@ -113,8 +115,8 @@
 3 Obsidian Charmaw
 1 Scavenging Ooze
 1 Archangel Avacyn
-1 Selfless Spirit
 1 Linvala, Keeper of Silence
+1 Selfless Spirit
 4 Prismatic Ending
 1 Celestial Purge
 1 Fae of Wishes
@@ -127,13 +129,16 @@
 1 Weather the Storm
 2 Weather the Storm
 1 Soul-Guide Lantern
+1 Dovin's Veto
 2 Knight of Autumn
 1 Assassin's Trophy
+1 Negate
 1 Scavenger Grounds
 1 Omnath, Locus of Creation
 1 Phyrexian Revoker
 1 Iona, Shield of Emeria
 1 Mistcaller
+1 Abrade
 1 Thrun, the Last Troll
 1 Kozilek, Butcher of Truth
 1 Ulamog, the Infinite Gyre
@@ -155,19 +160,16 @@
 2 Sanctifier en-Vec
 1 Dead/Gone
 2 Dead/Gone
-1 Engineered Explosives
-1 Abrade
-2 Engineered Explosives
 1 Sword of Fire and Ice
 2 Drannith Magistrate
 1 Kolaghan's Command
 1 Abrupt Decay
-1 Relic of Progenitus
 1 Wheel of Sun and Moon
+1 Relic of Progenitus
 1 Ashiok, Dream Render
 2 Abrupt Decay
-2 Relic of Progenitus
 2 Ashiok, Dream Render
+2 Relic of Progenitus
 1 Nihil Spellbomb
 2 Nihil Spellbomb
 2 Assassin's Trophy
@@ -204,6 +206,12 @@
 2 Destructive Revelry
 3 Kor Firewalker
 3 Pillar of Flame
+1 Spreading Seas
+2 Dovin's Veto
+2 Spreading Seas
+3 Spreading Seas
+3 Dovin's Veto
+4 Spreading Seas
 1 Tidehollow Sculler
 2 Tidehollow Sculler
 2 Soul-Guide Lantern
@@ -213,15 +221,15 @@
 2 Flusterstorm
 3 Flusterstorm
 4 Flusterstorm
-1 Fatal Push
-1 Dromoka's Command
-1 Stubborn Denial
-2 Fatal Push
-2 Dromoka's Command
-2 Stubborn Denial
-3 Stubborn Denial
-4 Stubborn Denial
 1 Boros Charm
 2 Boros Charm
 3 Boros Charm
 4 Boros Charm
+1 Fatal Push
+1 Stubborn Denial
+1 Dromoka's Command
+2 Fatal Push
+2 Stubborn Denial
+2 Dromoka's Command
+3 Stubborn Denial
+4 Stubborn Denial

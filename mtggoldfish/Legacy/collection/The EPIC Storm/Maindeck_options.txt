@@ -1,8 +1,3 @@
-1 Volcanic Island
-1 Swamp
-1 Bloodstained Mire
-2 Bloodstained Mire
-3 Bloodstained Mire
 1 Birgi, God of Storytelling
 1 Ancient Tomb
 1 City of Traitors
@@ -31,17 +26,22 @@
 2 Shatterskull Smashing
 3 Shatterskull Smashing
 4 Shatterskull Smashing
-3 Polluted Delta
-1 Scalding Tarn
-2 Scalding Tarn
-4 Verdant Catacombs
+1 Volcanic Island
+1 Swamp
+1 Bloodstained Mire
+2 Bloodstained Mire
+3 Bloodstained Mire
 1 Faithless Looting
 2 Faithless Looting
 2 City of Traitors
 3 Faithless Looting
 4 Faithless Looting
 4 Chrome Mox
+3 Polluted Delta
+1 Scalding Tarn
+2 Scalding Tarn
 2 Fiery Islet
+4 Verdant Catacombs
 1 Mountain
 4 Ancient Tomb
 1 Desperate Ritual
@@ -59,14 +59,14 @@
 1 Infernal Tutor
 1 Cabal Ritual
 1 Duress
-1 Island
 1 Thoughtseize
+1 Island
 2 Preordain
 2 Infernal Tutor
 2 Underground Sea
 2 Duress
-2 Cabal Ritual
 2 Thoughtseize
+2 Cabal Ritual
 2 Island
 3 Preordain
 3 Infernal Tutor
@@ -79,12 +79,12 @@
 4 Infernal Tutor
 4 Duress
 4 Cabal Ritual
+1 Seething Song
 1 Reforge the Soul
 1 Manamorphose
-1 Seething Song
 1 Ruby Medallion
-2 Manamorphose
 2 Seething Song
+2 Manamorphose
 2 Ruby Medallion
 2 Reforge the Soul
 2 Mountain

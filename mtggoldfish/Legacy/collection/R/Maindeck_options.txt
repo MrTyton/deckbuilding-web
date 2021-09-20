@@ -20,53 +20,44 @@
 3 Pyroblast
 1 Ensnaring Bridge
 3 Grindstone
+4 Pyroblast
+4 Painter's Servant
 1 Lotus Petal
 2 Lotus Petal
 3 Lotus Petal
-4 Pyroblast
-4 Painter's Servant
 1 Dead/Gone
 1 Lion's Eye Diamond
 4 Urza's Saga
-1 Plateau
 1 Lightning Bolt
 2 Lightning Bolt
 1 Imperial Recruiter
 1 Goblin Cratermaker
 2 Imperial Recruiter
 3 Lightning Bolt
-1 Ethersworn Canonist
-3 Karn, the Great Creator
-3 Imperial Recruiter
-2 Plateau
-2 Great Furnace
+1 Plateau
 4 Goblin Welder
 4 Goblin Engineer
+3 Karn, the Great Creator
+2 Great Furnace
 4 Lightning Bolt
+1 Ethersworn Canonist
+3 Imperial Recruiter
 1 Bloodstained Mire
 2 Bloodstained Mire
+1 Red Elemental Blast
+2 Plateau
 1 Wooded Foothills
 4 Imperial Recruiter
-2 Dead/Gone
 4 Trinisphere
-1 Den of the Bugbear
-2 Den of the Bugbear
-3 Den of the Bugbear
-4 Den of the Bugbear
-2 Wooded Foothills
-1 Enlightened Tutor
-1 Red Elemental Blast
-1 Arid Mesa
-1 Portable Hole
+1 Swamp
 1 Hagra Mauling
 1 Urborg, Tomb of Yawgmoth
 1 Leyline of the Void
 1 Curse of Misfortunes
 1 Dark Ritual
-1 Overwhelming Splendor
 1 Cruel Reality
+1 Overwhelming Splendor
 1 Curse of Death's Hold
-1 Swamp
 2 Hagra Mauling
 2 Curse of Misfortunes
 2 Leyline of the Void
@@ -79,7 +70,6 @@
 4 Dark Ritual
 4 Curse of Misfortunes
 4 Leyline of the Void
-1 Brainstone
 1 Sudden Edict
 2 Sudden Edict
 2 Swamp
@@ -88,23 +78,36 @@
 4 Swamp
 4 Sudden Edict
 2 Urborg, Tomb of Yawgmoth
-4 Hagra Mauling
-3 Great Furnace
+1 Retrofitter Foundry
+1 Brainstone
+2 Dead/Gone
+1 Den of the Bugbear
+2 Den of the Bugbear
+3 Den of the Bugbear
+4 Den of the Bugbear
+2 Wooded Foothills
+1 Enlightened Tutor
 5 Swamp
 6 Swamp
-1 Retrofitter Foundry
+1 Arid Mesa
+4 Hagra Mauling
+1 Portable Hole
 1 Bolas's Citadel
+3 Great Furnace
+1 Curse of Fool's Wisdom
+4 Lotus Petal
+1 Sundering Titan
+1 Mox Opal
 1 Soul-Guide Lantern
+1 Pyrite Spellbomb
 1 Torbran, Thane of Red Fell
 2 Torbran, Thane of Red Fell
-1 Pyrite Spellbomb
-4 Lotus Petal
-1 Curse of Fool's Wisdom
 7 Swamp
-1 Mox Opal
-1 Pithing Needle
 1 Seasoned Pyromancer
-1 Sundering Titan
+1 Pithing Needle
+3 Bloodstained Mire
+1 Vault of Whispers
+2 Vault of Whispers
 2 Enlightened Tutor
 1 Chandra, Torch of Defiance
 8 Swamp
@@ -113,31 +116,31 @@
 2 Smuggler's Copter
 1 Helm of Obedience
 2 Helm of Obedience
-3 Bloodstained Mire
-3 Arid Mesa
-1 Shinka, the Bloodsoaked Keep
-1 Vault of Whispers
-2 Vault of Whispers
-2 Chandra, Torch of Defiance
 2 Mox Opal
 3 Mox Opal
-1 Defense Grid
+3 Arid Mesa
 1 Chromatic Star
-1 Mishra's Bauble
-1 Wishclaw Talisman
 1 Nihil Spellbomb
 1 Badlands
-1 Crucible of Worlds
 2 Chromatic Star
+2 Badlands
+1 Shinka, the Bloodsoaked Keep
+2 Chandra, Torch of Defiance
+1 Defense Grid
+1 Magus of the Moon
+1 Ruin Grinder
+1 Mishra's Bauble
+1 Wishclaw Talisman
+1 Crucible of Worlds
 2 Lion's Eye Diamond
 2 Wishclaw Talisman
-2 Badlands
 3 Chromatic Star
 3 Lion's Eye Diamond
 3 Wishclaw Talisman
 4 Lion's Eye Diamond
 4 Mox Opal
 1 Angel of the Ruins
+1 Scalding Tarn
 1 Volcanic Island
 1 Oswald Fiddlebender
 1 Ancient Den
@@ -153,13 +156,19 @@
 1 Abrade
 1 Hope of Ghirapur
 1 Spellskite
-1 Ruin Grinder
 1 Nettlecyst
-2 Retrofitter Foundry
 2 Spellskite
+2 Retrofitter Foundry
+1 Breya's Apprentice
+1 Magmatic Channeler
+1 Daretti, Ingenious Iconoclast
+1 Prismatic Vista
+2 Magmatic Channeler
+2 Breya's Apprentice
+2 Prismatic Vista
+2 Daretti, Ingenious Iconoclast
 1 Dismember
 2 Dismember
-1 Magus of the Moon
 2 Magus of the Moon
 3 Wooded Foothills
 1 Thought Monitor
@@ -178,7 +187,6 @@
 1 Brainstorm
 1 Island
 1 Tundra
-1 Scalding Tarn
 1 Thopter Foundry
 1 Sword of the Meek
 1 Witching Well
@@ -190,8 +198,8 @@
 3 Brainstorm
 3 Portable Hole
 3 Vault of Whispers
-1 Coveted Jewel
 1 Auriok Salvagers
+1 Coveted Jewel
 1 Tangle Wire
 1 Cavern of Souls
 3 Badlands
@@ -200,6 +208,14 @@
 4 Bloodstained Mire
 3 Dead/Gone
 4 Dead/Gone
+1 Wasteland
+1 Aether Vial
+2 Wasteland
+2 Aether Vial
+3 Wasteland
+3 Aether Vial
+4 Wasteland
+4 Aether Vial
 1 Ichor Wellspring
 1 Wurmcoil Engine
 1 Phyrexian Metamorph
@@ -226,14 +242,14 @@
 2 Punishing Fire
 2 Hazoret the Fervent
 2 Reality Smasher
-2 Thought-Knot Seer
 2 Fiery Confluence
+2 Thought-Knot Seer
 2 Eldrazi Temple
 3 Punishing Fire
 3 Grove of the Burnwillows
+3 Fiery Confluence
 3 Reality Smasher
 3 Thought-Knot Seer
-3 Fiery Confluence
 3 Eldrazi Temple
 4 Grove of the Burnwillows
 4 Reality Smasher

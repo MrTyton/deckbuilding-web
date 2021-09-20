@@ -4,7 +4,6 @@
 1 Scalding Tarn
 3 Taiga
 2 Scalding Tarn
-1 Snow-Covered Mountain
 1 Bayou
 1 Verdant Catacombs
 2 Verdant Catacombs
@@ -13,7 +12,6 @@
 1 Cephalid Coliseum
 2 Tropical Island
 2 Volcanic Island
-1 Snow-Covered Swamp
 1 Leovold, Emissary of Trest
 1 Force of Negation
 1 Toxic Deluge
@@ -42,7 +40,9 @@
 1 Polluted Delta
 1 Force of Will
 1 Misty Rainforest
+1 Snow-Covered Swamp
 2 Assassin's Trophy
+2 Snapcaster Mage
 2 Force of Negation
 2 Cling to Dust
 2 Thoughtseize
@@ -53,13 +53,12 @@
 2 Snow-Covered Island
 2 Drown in the Loch
 2 Underground Sea
-2 Snapcaster Mage
+2 Force of Will
 2 Leovold, Emissary of Trest
 2 Lightning Bolt
 2 Dack Fayden
 2 Brainstorm
 2 Polluted Delta
-2 Force of Will
 2 Uro, Titan of Nature's Wrath
 2 Snow-Covered Forest
 2 Misty Rainforest
@@ -83,36 +82,30 @@
 4 Ponder
 4 Force of Will
 4 Brainstorm
+1 Snow-Covered Mountain
 3 Gamble
 4 Wooded Foothills
-1 Kitchen Imp
-2 Kitchen Imp
-3 Kitchen Imp
-4 Kitchen Imp
 1 Bomat Courier
+1 Kitchen Imp
 2 Bomat Courier
+2 Kitchen Imp
 3 Bomat Courier
+3 Kitchen Imp
 4 Bomat Courier
-1 Street Wraith
-2 Street Wraith
-3 Street Wraith
+4 Kitchen Imp
 3 Verdant Catacombs
 4 Verdant Catacombs
 4 Arid Mesa
-1 Asylum Visitor
-1 Firestorm
-2 Firestorm
-2 Asylum Visitor
-3 Badlands
-3 Firestorm
-4 Badlands
+1 Street Wraith
+2 Street Wraith
+3 Street Wraith
 4 Street Wraith
 1 Breakthrough
 1 Bazaar Trademage
 1 Careful Study
-2 Careful Study
 2 Breakthrough
 2 Cephalid Coliseum
+2 Careful Study
 3 Tropical Island
 3 Scalding Tarn
 3 Volcanic Island
