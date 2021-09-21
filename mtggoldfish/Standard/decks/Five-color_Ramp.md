@@ -55,11 +55,11 @@
 |                    2|Memory Deluge                                                                                         |                     |              |
 |                    2|[The Raven's Warning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503843)        |                     |              |
 |                    2|[Emergent Sequence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513606)          |                     |              |
-|                    2|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)              |                     |              |
 |                    2|[Vorinclex, Monstrous Raider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503815)|                     |              |
+|                    2|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)              |                     |              |
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                     |                     |              |
-|                    2|Rootcoil Creeper                                                                                      |                     |              |
 |                    2|Barkchannel Pathway                                                                                   |                     |              |
+|                    2|Rootcoil Creeper                                                                                      |                     |              |
 |                    2|Hengegate Pathway                                                                                     |                     |              |
 |                    2|Deserted Beach                                                                                        |                     |              |
 |                    2|[Hall of Storm Giants](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527544)       |                     |              |
@@ -68,8 +68,8 @@
 |                    2|[Ashaya, Soul of the Wild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491824)   |                     |              |
 |                    2|Fateful Absence                                                                                       |                     |              |
 |                    2|[Koma, Cosmos Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503837)       |                     |              |
-|                    2|[Alrund's Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503648)          |                     |              |
 |                    2|[Shadows' Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491762)           |                     |              |
+|                    2|[Alrund's Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503648)          |                     |              |
 |                    2|[Goldspan Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503751)            |                     |              |
 |                    2|[Path to the World Tree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503802)     |                     |              |
 |                    2|[Bala Ged Recovery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491825)          |                     |              |
@@ -124,8 +124,8 @@
 |                    3|[Goldspan Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503751)            |                     |              |
 |                    3|[Emergent Sequence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513606)          |                     |              |
 |                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                     |                     |              |
-|                    3|Rootcoil Creeper                                                                                      |                     |              |
 |                    3|Barkchannel Pathway                                                                                   |                     |              |
+|                    3|Rootcoil Creeper                                                                                      |                     |              |
 |                    3|[Hall of Storm Giants](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527544)       |                     |              |
 |                    3|Hengegate Pathway                                                                                     |                     |              |
 |                    3|[Shimmerdrift Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503887)          |                     |              |
@@ -172,10 +172,10 @@
 |                    4|[Evolving Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426944)             |                     |              |
 |                    4|Memory Deluge                                                                                         |                     |              |
 |                    4|[Emergent Sequence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513606)          |                     |              |
-|                    4|[Goldspan Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503751)            |                     |              |
-|                    4|Rootcoil Creeper                                                                                      |                     |              |
 |                    4|Barkchannel Pathway                                                                                   |                     |              |
+|                    4|[Goldspan Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503751)            |                     |              |
 |                    4|[Hall of Storm Giants](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527544)       |                     |              |
+|                    4|Rootcoil Creeper                                                                                      |                     |              |
 |                    4|Hengegate Pathway                                                                                     |                     |              |
 |                    4|[Shimmerdrift Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503887)          |                     |              |
 |                    4|[Valakut Exploration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491820)        |                     |              |

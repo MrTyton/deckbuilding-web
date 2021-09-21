@@ -1,4 +1,6 @@
 2 Defense Grid
+2 Scalding Tarn
+3 Polluted Delta
 1 Ancient Tomb
 1 City of Traitors
 1 Jeska's Will
@@ -12,8 +14,8 @@
 4 Defense Grid
 4 Jeska's Will
 1 Gamble
-1 Wish
 1 Galvanic Relay
+1 Wish
 2 Gamble
 2 Galvanic Relay
 3 Gamble
@@ -33,11 +35,9 @@
 2 Birgi, God of Storytelling
 3 Birgi, God of Storytelling
 4 Birgi, God of Storytelling
-2 Scalding Tarn
-2 Fiery Islet
-3 Polluted Delta
-4 Verdant Catacombs
 1 Volcanic Island
+4 Verdant Catacombs
+2 Fiery Islet
 1 Swamp
 1 Bloodstained Mire
 2 Bloodstained Mire
@@ -50,15 +50,15 @@
 4 Ancient Tomb
 3 Scalding Tarn
 4 Scalding Tarn
-1 Desperate Ritual
 1 Plateau
+1 Desperate Ritual
 2 Plateau
 2 Desperate Ritual
 3 Desperate Ritual
 1 Preordain
 1 Past in Flames
-1 Cabal Ritual
 1 Infernal Tutor
+1 Cabal Ritual
 1 Duress
 1 Island
 1 Thoughtseize
@@ -80,12 +80,12 @@
 4 Duress
 4 Cabal Ritual
 4 Polluted Delta
+1 Manamorphose
 1 Seething Song
 1 Reforge the Soul
-1 Manamorphose
 1 Ruby Medallion
-2 Seething Song
 2 Manamorphose
+2 Seething Song
 2 Ruby Medallion
 2 Reforge the Soul
 2 Mountain

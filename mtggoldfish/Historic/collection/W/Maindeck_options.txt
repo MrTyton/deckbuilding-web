@@ -1,8 +1,7 @@
-3 Thalia's Lieutenant
 4 Thalia's Lieutenant
+4 Skyclave Apparition
 3 Ranger-Captain of Eos
 4 Selfless Savior
-3 Giant Killer
 1 Legion's Landing
 2 Legion's Landing
 1 Archon of Emeria
@@ -10,13 +9,14 @@
 1 Adanto Vanguard
 2 Adanto Vanguard
 3 Archon of Emeria
+3 Giant Killer
 3 Adanto Vanguard
 3 Declaration in Stone
 4 Archon of Emeria
 19 Snow-Covered Plains
 4 Ranger-Captain of Eos
-4 Thraben Inspector
 1 Reidane, God of the Worthy
+4 Thraben Inspector
 3 Legion's Landing
 2 Reidane, God of the Worthy
 1 Mikaeus, the Lunarch
@@ -35,15 +35,15 @@
 2 Cave of the Frost Dragon
 1 Plains
 2 Plains
-1 Blinkmoth Nexus
-2 Blinkmoth Nexus
-3 Blinkmoth Nexus
 3 Plains
 4 Plains
 5 Plains
 6 Plains
-4 Blinkmoth Nexus
+1 Blinkmoth Nexus
+2 Blinkmoth Nexus
+3 Blinkmoth Nexus
 7 Plains
+4 Blinkmoth Nexus
 1 Vault Skirge
 1 Gingerbrute
 2 Vault Skirge
@@ -54,10 +54,10 @@
 4 Gingerbrute
 1 Tempered Steel
 1 Steel Overseer
-2 Steel Overseer
 2 Tempered Steel
-3 Steel Overseer
+2 Steel Overseer
 3 Tempered Steel
+3 Steel Overseer
 4 Tempered Steel
 1 Stonecoil Serpent
 2 Stonecoil Serpent
@@ -80,23 +80,23 @@
 3 Loyal Warhound
 1 Maul of the Skyclaves
 1 Mana Tithe
-12 Plains
-13 Plains
-1 Hengegate Pathway
-1 Hallowed Fountain
-2 Hengegate Pathway
-2 Hallowed Fountain
-3 Hengegate Pathway
-3 Hallowed Fountain
-4 Hengegate Pathway
-4 Hallowed Fountain
-2 Court Homunculus
-2 Shefet Dunes
-1 Portable Hole
 1 Concealed Courtyard
 2 Concealed Courtyard
 3 Concealed Courtyard
 4 Concealed Courtyard
+1 Hallowed Fountain
+1 Hengegate Pathway
+2 Hengegate Pathway
+2 Hallowed Fountain
+3 Hallowed Fountain
+3 Hengegate Pathway
+4 Hengegate Pathway
+4 Hallowed Fountain
+12 Plains
+13 Plains
+2 Court Homunculus
+1 Portable Hole
+2 Shefet Dunes
 1 Inspiring Vantage
 1 Bomat Courier
 2 Inspiring Vantage
@@ -146,10 +146,10 @@
 2 Glacial Fortress
 1 Shadowspear
 1 Treasure Vault
-1 The Blackstaff of Waterdeep
 1 Skilled Animator
-2 Skilled Animator
+1 The Blackstaff of Waterdeep
 2 The Blackstaff of Waterdeep
+2 Skilled Animator
 3 Island
 3 Skilled Animator
 1 Hope of Ghirapur
@@ -159,8 +159,8 @@
 2 Servo Exhibition
 3 Servo Exhibition
 4 Servo Exhibition
-1 Inventors' Fair
 1 Lurrus of the Dream-Den
+1 Inventors' Fair
 1 Teferi's Protection
 1 Myr Enforcer
 2 Myr Enforcer
@@ -200,8 +200,26 @@
 3 Paladin Class
 4 Paladin Class
 4 Declaration in Stone
-3 Skymarcher Aspirant
-4 Skymarcher Aspirant
+1 Godless Shrine
+1 Isolated Chapel
+1 Swamp
+1 Dire Tactics
+1 Brightclimb Pathway
+1 Kitesail Freebooter
+1 General Kudro of Drannith
+2 Godless Shrine
+2 Isolated Chapel
+2 Dire Tactics
+2 Kitesail Freebooter
+2 General Kudro of Drannith
+2 Brightclimb Pathway
+3 Godless Shrine
+3 Kitesail Freebooter
+3 Brightclimb Pathway
+3 General Kudro of Drannith
+4 Godless Shrine
+4 Brightclimb Pathway
+4 Kitesail Freebooter
 1 Arcbound Mouser
 1 Nettlecyst
 2 Treasure Vault
@@ -218,10 +236,17 @@
 3 Kabira Takedown
 3 Clarion Spirit
 4 Legion's Landing
-4 Clarion Spirit
 4 Kabira Takedown
-1 Sacred Foundry
+4 Clarion Spirit
+3 Skymarcher Aspirant
+4 Skymarcher Aspirant
+1 Whirler Rogue
+2 Whirler Rogue
+3 Whirler Rogue
+4 Whirler Rogue
+4 Spire of Industry
 1 Needleverge Pathway
+1 Sacred Foundry
 1 Karn, Scion of Urza
 1 Showdown of the Skalds
 1 Ramunap Ruins
@@ -230,29 +255,24 @@
 2 Showdown of the Skalds
 2 Karn, Scion of Urza
 2 Ramunap Ruins
-3 Sacred Foundry
 3 Karn, Scion of Urza
+3 Sacred Foundry
 3 Needleverge Pathway
 3 Showdown of the Skalds
 3 Ramunap Ruins
-4 Sacred Foundry
 4 Needleverge Pathway
+4 Sacred Foundry
 4 Ramunap Ruins
-1 Whirler Rogue
-2 Whirler Rogue
-3 Whirler Rogue
-4 Spire of Industry
-4 Whirler Rogue
 1 Silver Raven
 2 Shadowspear
 2 Silver Raven
 3 The Blackstaff of Waterdeep
 3 Silver Raven
 4 Island
+4 The Blackstaff of Waterdeep
+4 Skilled Animator
 4 Hope of Ghirapur
 4 Silver Raven
-4 Skilled Animator
-4 The Blackstaff of Waterdeep
 5 Island
 1 Legion Angel
 20 Snow-Covered Plains
@@ -260,8 +280,8 @@
 1 Built to Last
 2 Karametra's Blessing
 2 Built to Last
-3 Karametra's Blessing
 3 Built to Last
+3 Karametra's Blessing
 4 Built to Last
 14 Plains
 15 Plains

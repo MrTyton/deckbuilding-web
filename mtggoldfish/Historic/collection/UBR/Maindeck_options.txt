@@ -98,12 +98,12 @@
 2 Goldspan Dragon
 2 Duress
 4 Narset, Parter of Veils
-1 Torrential Gearhulk
 1 Hagra Mauling
+1 Saw It Coming
 1 Languish
 1 Silumgar's Command
-1 Saw It Coming
 1 Magma Opus
+1 Torrential Gearhulk
 2 Torrential Gearhulk
 2 Magma Opus
 3 Kolaghan's Command
@@ -124,8 +124,8 @@
 1 Sacred Foundry
 2 Sacred Foundry
 3 Savai Triome
-1 Godless Shrine
 1 Cave of the Frost Dragon
+1 Godless Shrine
 1 Lightning Helix
 2 Godless Shrine
 2 Lightning Helix
@@ -141,13 +141,13 @@
 3 Sacred Foundry
 1 Temple of Deceit
 1 Icingdeath, Frost Tyrant
-1 Vanishing Verse
 1 Brightclimb Pathway
+1 Vanishing Verse
 1 Dragon's Disciple
 1 Nadaar, Selfless Paladin
+2 Brightclimb Pathway
 2 Vanishing Verse
 2 Nadaar, Selfless Paladin
-2 Brightclimb Pathway
 2 Dragon's Disciple
 3 Nadaar, Selfless Paladin
 3 Dragon's Disciple
@@ -186,35 +186,6 @@
 3 Temple of Malice
 3 Brazen Borrower
 3 Fatal Push
-1 Immersturm Predator
-1 Kalain, Reclusive Painter
-1 Prosperous Innkeeper
-1 Maelstrom Pulse
-1 Korvold, Fae-Cursed King
-1 Magda, Brazen Outlaw
-1 Sarkhan the Masterless
-2 Rootbound Crag
-2 Kalain, Reclusive Painter
-2 Prosperous Innkeeper
-2 Maelstrom Pulse
-2 Magda, Brazen Outlaw
-2 Korvold, Fae-Cursed King
-2 Immersturm Predator
-2 Sarkhan the Masterless
-3 Stomping Ground
-3 Woodland Cemetery
-3 Rootbound Crag
-3 Goldspan Dragon
-3 Prosperous Innkeeper
-3 Kalain, Reclusive Painter
-3 Magda, Brazen Outlaw
-3 Korvold, Fae-Cursed King
-4 Stomping Ground
-4 Overgrown Tomb
-4 Woodland Cemetery
-4 Rootbound Crag
-4 Goldspan Dragon
-4 Prosperous Innkeeper
 1 Hazoret the Fervent
 2 Hazoret the Fervent
 3 Castle Locthwain
@@ -228,11 +199,11 @@
 1 Blooming Marsh
 1 Scavenging Ooze
 1 Sarulf, Realm Eater
+1 Inscription of Ruin
+1 Vraska, Golgari Queen
 1 Gnottvold Slumbermound
 1 Esika's Chariot
-1 Vraska, Golgari Queen
 1 Eliminate
-1 Inscription of Ruin
 1 Ritual of Soot
 1 Chevill, Bane of Monsters
 2 Cragcrown Pathway
@@ -258,21 +229,50 @@
 1 Shadrix Silverquill
 1 Elite Spellbinder
 2 Cave of the Frost Dragon
-2 Isolated Chapel
 2 Deafening Clarion
+2 Isolated Chapel
 2 Elite Spellbinder
 2 Shadrix Silverquill
-3 Godless Shrine
 3 Isolated Chapel
+3 Godless Shrine
 3 Lightning Helix
 3 Elite Spellbinder
 4 Lightning Helix
 4 Elite Spellbinder
+1 Immersturm Predator
+1 Kalain, Reclusive Painter
+1 Prosperous Innkeeper
+1 Maelstrom Pulse
+1 Korvold, Fae-Cursed King
+1 Magda, Brazen Outlaw
+1 Sarkhan the Masterless
+2 Rootbound Crag
+2 Kalain, Reclusive Painter
+2 Prosperous Innkeeper
+2 Maelstrom Pulse
+2 Magda, Brazen Outlaw
+2 Korvold, Fae-Cursed King
+2 Immersturm Predator
+2 Sarkhan the Masterless
+3 Stomping Ground
+3 Woodland Cemetery
+3 Rootbound Crag
+3 Prosperous Innkeeper
+3 Kalain, Reclusive Painter
+3 Goldspan Dragon
+3 Magda, Brazen Outlaw
+3 Korvold, Fae-Cursed King
+4 Stomping Ground
+4 Overgrown Tomb
+4 Woodland Cemetery
+4 Rootbound Crag
+4 Prosperous Innkeeper
+4 Goldspan Dragon
 5 Mountain
 6 Mountain
 1 Hengegate Pathway
-1 Emergent Ultimatum
 1 Inspiring Vantage
+1 Emergent Ultimatum
 1 Thrilling Discovery
 1 Scholar of the Lost Trove
 1 Unburial Rites
@@ -281,19 +281,19 @@
 2 Hengegate Pathway
 2 Inspiring Vantage
 2 Emergent Ultimatum
-2 Scholar of the Lost Trove
 2 Thrilling Discovery
+2 Scholar of the Lost Trove
 2 Cathartic Reunion
 2 Unburial Rites
-3 Hengegate Pathway
 3 Emergent Ultimatum
+3 Hengegate Pathway
 3 Scholar of the Lost Trove
 3 Cathartic Reunion
 3 Unburial Rites
 3 Thrilling Discovery
 4 Hengegate Pathway
-4 Emergent Ultimatum
 4 Scholar of the Lost Trove
+4 Emergent Ultimatum
 4 Bladewing the Risen
 4 Thrilling Discovery
 4 Cathartic Reunion

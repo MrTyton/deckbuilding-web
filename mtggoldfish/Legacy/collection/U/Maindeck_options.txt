@@ -18,10 +18,10 @@
 2 Turnabout
 2 Merchant Scroll
 3 Cunning Wish
-3 Island
 3 Preordain
 3 Brainstorm
 3 Ponder
+3 Island
 3 High Tide
 3 Time Spiral
 3 Merchant Scroll
@@ -56,14 +56,23 @@
 2 Prismatic Vista
 2 Flooded Strand
 2 Polluted Delta
+1 Chalice of the Void
+2 Chalice of the Void
 2 Scalding Tarn
 1 Soul-Guide Lantern
 1 Springleaf Drum
-1 Chalice of the Void
-2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
+1 Urza, Lord High Artificer
+1 Walking Ballista
+2 Urza, Lord High Artificer
+3 Urza, Lord High Artificer
 1 Pithing Needle
+1 Karakas
+1 Ethersworn Canonist
+1 Ancient Den
+2 Ethersworn Canonist
+2 Ancient Den
 1 Cranial Plating
 1 Aether Spellbomb
 1 Ornithopter
@@ -77,23 +86,38 @@
 3 Polluted Delta
 1 Darksteel Citadel
 1 Mox Amber
-1 Walking Ballista
 1 Karn, Scion of Urza
 1 Mistvault Bridge
-1 Urza, Lord High Artificer
 1 Silverbluff Bridge
 2 Karn, Scion of Urza
 2 Mox Amber
-2 Urza, Lord High Artificer
 2 Silverbluff Bridge
 2 Mistvault Bridge
-3 Urza, Lord High Artificer
 3 Karn, Scion of Urza
+1 Bomat Courier
+1 Memnite
+1 Dispatch
+1 Spire of Industry
+2 Memnite
+2 Springleaf Drum
+2 Dispatch
+2 Spire of Industry
+3 Springleaf Drum
+3 Memnite
+3 Dispatch
+3 Ethersworn Canonist
+3 Spire of Industry
+3 Ancient Den
+4 Memnite
+4 Springleaf Drum
+4 Ethersworn Canonist
+4 Ancient Den
+4 Dispatch
+4 Spire of Industry
 1 Vault Skirge
 1 Wasteland
 1 Blast Zone
 1 Nettlecyst
-1 Karakas
 1 Stonecoil Serpent
 1 Crucible of Worlds
 1 Expedition Map
@@ -109,30 +133,6 @@
 4 Vault Skirge
 4 Wasteland
 4 Stonecoil Serpent
-1 Ethersworn Canonist
-1 Bomat Courier
-1 Ancient Den
-1 Memnite
-1 Dispatch
-1 Spire of Industry
-2 Memnite
-2 Springleaf Drum
-2 Ethersworn Canonist
-2 Dispatch
-2 Ancient Den
-2 Spire of Industry
-3 Springleaf Drum
-3 Memnite
-3 Dispatch
-3 Ethersworn Canonist
-3 Spire of Industry
-3 Ancient Den
-4 Memnite
-4 Springleaf Drum
-4 Ethersworn Canonist
-4 Ancient Den
-4 Dispatch
-4 Spire of Industry
 1 Counterspell
 1 Mystic Sanctuary
 1 Meditate
@@ -147,3 +147,15 @@
 3 Meditate
 4 Scalding Tarn
 4 Meditate
+1 Cavern of Souls
+1 Tundra
+1 Esper Sentinel
+1 Hullbreacher
+2 Esper Sentinel
+2 Walking Ballista
+2 Cavern of Souls
+3 Esper Sentinel
+3 Cavern of Souls
+4 Urza, Lord High Artificer
+4 Esper Sentinel
+4 Cavern of Souls
