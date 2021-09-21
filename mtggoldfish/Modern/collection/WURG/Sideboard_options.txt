@@ -8,7 +8,6 @@
 1 Yorion, Sky Nomad
 1 Veil of Summer
 2 Veil of Summer
-3 Leyline of Sanctity
 1 Consign/Oblivion
 1 Boseiju, Who Shelters All
 1 Nephalia Academy
@@ -23,43 +22,44 @@
 3 Rough/Tumble
 4 Consign/Oblivion
 4 Rough/Tumble
-2 Brazen Borrower
+1 Lightning Bolt
 1 Rest in Peace
 2 Rest in Peace
 3 Force of Vigor
-1 Lightning Bolt
-1 Endurance
-1 Prismatic Ending
-1 Path to Exile
 1 Chalice of the Void
 2 Chalice of the Void
+3 Leyline of Sanctity
+2 Brazen Borrower
+1 Endurance
+1 Prismatic Ending
 2 Lightning Bolt
+1 Path to Exile
+4 Force of Vigor
+3 Rest in Peace
 1 Detention Sphere
 1 Blood Moon
-3 Rest in Peace
+1 Obsidian Charmaw
+2 Obsidian Charmaw
+1 Unholy Heat
+1 Alpine Moon
 2 Path to Exile
 1 Jegantha, the Wellspring
 1 Cindervines
 3 Path to Exile
-1 Gaddock Teeg
 1 Lightning Helix
+1 Gaddock Teeg
 2 Gaddock Teeg
 2 Cindervines
 2 Lightning Helix
 1 Lavinia, Azorius Renegade
-4 Force of Vigor
+2 Alpine Moon
+3 Chalice of the Void
 4 Path to Exile
-1 Alpine Moon
-1 Unholy Heat
-1 Obsidian Charmaw
-2 Obsidian Charmaw
 4 Fury
 2 Blood Moon
 1 Eternal Witness
 3 Lightning Bolt
 2 Prismatic Ending
-2 Alpine Moon
-3 Chalice of the Void
 1 Cursed Totem
 2 Cursed Totem
 3 Cursed Totem
@@ -72,24 +72,25 @@
 2 Lavinia, Azorius Renegade
 1 Keruga, the Macrosage
 3 Foundation Breaker
+3 Alpine Moon
 1 Emrakul, the Aeons Torn
 2 Ingot Chewer
 3 Ingot Chewer
 4 Cleansing Wildfire
+1 Knight of Autumn
 1 Stony Silence
+1 Blast Zone
+1 Goblin Cratermaker
 3 Prismatic Ending
 1 Kataki, War's Wage
 4 Ingot Chewer
-3 Alpine Moon
+1 Wrenn and Six
 1 Vindicate
 2 Detention Sphere
 2 Stony Silence
-1 Knight of Autumn
-4 Leyline of Sanctity
 2 Unholy Heat
-1 Goblin Cratermaker
+4 Leyline of Sanctity
 1 Skyclave Apparition
-1 Blast Zone
 3 Cindervines
 1 Collector Ouphe
 1 Meddling Mage
@@ -98,6 +99,7 @@
 1 Force of Negation
 2 Force of Negation
 1 Klothys, God of Destiny
+1 Thrun, the Last Troll
 1 Bonecrusher Giant
 1 Back to Nature
 2 Kataki, War's Wage
@@ -105,7 +107,6 @@
 3 Meddling Mage
 4 Chalice of the Void
 1 Avalanche Riders
-1 Wrenn and Six
 3 Obsidian Charmaw
 1 Burrenton Forge-Tender
 1 Archangel Avacyn
@@ -135,7 +136,6 @@
 1 Kozilek, Butcher of Truth
 1 Ulamog, the Infinite Gyre
 1 Crumble to Dust
-1 Thrun, the Last Troll
 1 Tormod's Crypt
 1 Phyrexian Revoker
 1 Mantis Rider
@@ -195,13 +195,13 @@
 2 Anathemancer
 3 Anathemancer
 1 Destructive Revelry
-2 Destructive Revelry
 1 Surgical Extraction
 1 Pillar of Flame
 1 Ranger of Eos
 2 Ancient Grudge
 2 Surgical Extraction
 2 Pillar of Flame
+2 Destructive Revelry
 3 Kor Firewalker
 3 Pillar of Flame
 1 Tidehollow Sculler
@@ -217,11 +217,3 @@
 2 Boros Charm
 3 Boros Charm
 4 Boros Charm
-1 Stubborn Denial
-1 Deflecting Palm
-2 Stubborn Denial
-2 Deflecting Palm
-3 Stubborn Denial
-3 Destructive Revelry
-4 Stubborn Denial
-4 Destructive Revelry
