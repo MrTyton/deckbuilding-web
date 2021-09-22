@@ -1,7 +1,7 @@
-1 Ranger of Eos
-2 Ranger of Eos
 1 Ancient Den
 1 Tundra
+1 Ranger of Eos
+2 Ranger of Eos
 2 Ancient Den
 3 Ancient Den
 3 Urza, Lord High Artificer
@@ -19,46 +19,47 @@
 1 Mishra's Bauble
 2 Mishra's Bauble
 4 Ingenious Smith
-1 Urborg, Tomb of Yawgmoth
 4 Mox Opal
 4 Azorius Signet
 1 Defense Grid
 2 Defense Grid
 3 Defense Grid
+1 Kaervek, the Spiteful
+2 Kaervek, the Spiteful
+1 Urborg, Tomb of Yawgmoth
 1 Plains
 3 Mishra's Bauble
 1 Ethersworn Canonist
 2 Ethersworn Canonist
-1 Kaervek, the Spiteful
-2 Kaervek, the Spiteful
+3 Kaervek, the Spiteful
 2 Urborg, Tomb of Yawgmoth
 2 Plains
 3 Plains
-1 Portable Hole
-1 Arcbound Ravager
-1 Sword of Fire and Ice
 1 Esper Sentinel
+1 Sword of Fire and Ice
+1 Arcbound Ravager
 1 Pithing Needle
 1 Swords to Plowshares
 1 Soul-Guide Lantern
 1 Umezawa's Jitte
+1 Portable Hole
 1 Shadowspear
 1 Kaldra Compleat
 1 Stoneforge Mystic
-2 Arcbound Ravager
-2 Portable Hole
 2 Esper Sentinel
+2 Arcbound Ravager
 2 Swords to Plowshares
 2 Stoneforge Mystic
-3 Arcbound Ravager
-3 Ethersworn Canonist
-3 Portable Hole
+2 Portable Hole
 3 Esper Sentinel
-3 Swords to Plowshares
+3 Ethersworn Canonist
+3 Arcbound Ravager
 3 Stoneforge Mystic
-4 Plains
+3 Swords to Plowshares
+3 Portable Hole
 4 Portable Hole
 4 Esper Sentinel
+4 Plains
 4 Arcbound Ravager
 4 Ethersworn Canonist
 4 Stoneforge Mystic
@@ -67,9 +68,6 @@
 6 Plains
 1 Razortide Bridge
 1 Lodestone Bauble
-1 Go for the Throat
-2 Go for the Throat
-3 Spatial Contortion
 1 Gingerbrute
 1 Etched Champion
 1 Bag of Holding
@@ -79,24 +77,34 @@
 1 Tormod's Crypt
 1 Feed the Swarm
 2 Feed the Swarm
-3 Kaervek, the Spiteful
+3 Spatial Contortion
 1 Engineered Explosives
 1 Karn, Scion of Urza
 2 Karn, Scion of Urza
 3 Karn, Scion of Urza
 4 Mishra's Bauble
+1 Scrubland
+2 Scrubland
 1 Flooded Strand
 2 Flooded Strand
 1 Unclaimed Territory
 2 Unclaimed Territory
+1 Go for the Throat
+2 Go for the Throat
 1 Imperial Recruiter
-1 Great Furnace
 1 Grand Abolisher
 1 Goblin Cratermaker
 1 Retrofitter Foundry
+1 Great Furnace
 2 Imperial Recruiter
 2 Great Furnace
 3 Imperial Recruiter
+1 Arcbound Javelineer
+1 Lodestone Golem
+1 Zabaz, the Glimmerwasp
+2 Arcbound Javelineer
+2 Lodestone Golem
+3 Arcbound Javelineer
 1 Thought-Knot Seer
 2 Thought-Knot Seer
 3 Thought-Knot Seer
@@ -111,9 +119,3 @@
 2 Abeyance
 3 Monastery Mentor
 4 Monastery Mentor
-1 Arcbound Javelineer
-1 Lodestone Golem
-1 Zabaz, the Glimmerwasp
-2 Arcbound Javelineer
-3 Arcbound Javelineer
-2 Lodestone Golem

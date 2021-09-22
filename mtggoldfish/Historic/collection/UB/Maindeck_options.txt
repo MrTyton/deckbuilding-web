@@ -1,79 +1,87 @@
-1 Thieves' Guild Enforcer
-1 Soaring Thought-Thief
-2 Soaring Thought-Thief
-2 Thieves' Guild Enforcer
-3 Thieves' Guild Enforcer
-3 Soaring Thought-Thief
-4 Soaring Thought-Thief
-4 Drown in the Loch
-4 Thieves' Guild Enforcer
-1 Merfolk Windrobber
-2 Merfolk Windrobber
-3 Merfolk Windrobber
-1 Into the Story
-3 Swamp
-1 Agadeem's Awakening
-1 Castle Locthwain
-2 Yahenni's Expertise
+1 Shark Typhoon
+1 Archmage's Charm
+2 Cling to Dust
+2 Archmage's Charm
+1 Search for Azcanta
+2 Shark Typhoon
+2 Search for Azcanta
+3 Shark Typhoon
+1 Field of Ruin
+1 Baleful Mastery
+2 Field of Ruin
+3 Archmage's Charm
+3 Fetid Pools
 4 Merfolk Windrobber
+4 Narset, Parter of Veils
+1 Yahenni's Expertise
+4 Fetid Pools
+2 Yahenni's Expertise
 1 Mystical Dispute
+2 Into the Story
+3 Into the Story
 2 Castle Vantress
 4 Shark Typhoon
 4 Archmage's Charm
-2 Into the Story
-3 Into the Story
 3 Yahenni's Expertise
 4 Into the Story
-2 Inquisition of Kozilek
+5 Island
 3 Fabled Passage
+2 Inquisition of Kozilek
+4 Swamp
 1 Hive of the Eye Tyrant
 1 Curious Obsession
 2 Curious Obsession
-4 Swamp
-5 Island
 4 Thoughtseize
 1 Heartless Act
 2 Heartless Act
-2 Hive of the Eye Tyrant
-3 Curious Obsession
 4 Fabled Passage
 1 Brazen Borrower
-1 Extinction Event
 2 Mystical Dispute
+2 Hive of the Eye Tyrant
+3 Curious Obsession
+1 Extinction Event
 4 Curious Obsession
 2 Extinction Event
+5 Swamp
 1 Spell Pierce
+6 Island
+1 Temple of Deceit
 1 Oona's Blackguard
 2 Oona's Blackguard
 3 Oona's Blackguard
-5 Swamp
+2 Brazen Borrower
+1 Zagoth Triome
+2 Zagoth Triome
+1 Ruin Crab
+2 Ruin Crab
+3 Ruin Crab
+4 Ruin Crab
+2 Agadeem's Awakening
+2 Temple of Deceit
+3 Temple of Deceit
 1 The Eldest Reborn
 1 Yuan-Ti Malison
 1 Go Blank
 1 Grafdigger's Cage
 1 Ashiok, Nightmare Muse
 1 Iymrith, Desert Doom
+1 Jwari Disruption
 2 Baleful Mastery
 1 Jace, Wielder of Mysteries
 1 Glint-Sleeve Siphoner
 2 Glint-Sleeve Siphoner
-1 Zareth San, the Trickster
-2 Brazen Borrower
 6 Swamp
+1 Zareth San, the Trickster
+1 Bloodchief's Thirst
 4 Oona's Blackguard
-6 Island
 2 Hall of Storm Giants
 1 Jwari Ruins
-1 Bloodchief's Thirst
-1 Zagoth Triome
-2 Zagoth Triome
-1 Temple of Deceit
-2 Agadeem's Awakening
-1 Jwari Disruption
+1 Of One Mind
+2 Of One Mind
 1 Woe Strider
 1 Exclude
-1 Steam Vents
 1 Sulfur Falls
+1 Steam Vents
 1 Expressive Iteration
 1 Blood Crypt
 1 Dragonskull Summit
@@ -98,9 +106,9 @@
 1 Aether Gust
 1 Spirebluff Canal
 1 Nicol Bolas, the Ravager
+1 Canyon Slough
 1 Anger of the Gods
 1 Chandra, Torch of Defiance
-1 Canyon Slough
 2 Nicol Bolas, the Ravager
 3 Sulfur Falls
 4 Sulfur Falls
@@ -109,16 +117,13 @@
 2 Lofty Denial
 3 Lofty Denial
 4 Lofty Denial
-7 Island
 1 Tome of the Infinite
 1 Davriel's Withering
+7 Island
 1 Censor
-1 Ruin Crab
-2 Ruin Crab
-3 Ruin Crab
-4 Ruin Crab
-2 Temple of Deceit
-3 Temple of Deceit
+4 Temple of Deceit
+1 Power Word Kill
+2 Power Word Kill
 1 Crippling Fear
 1 Tyrant's Scorn
 1 Shadows' Verdict
@@ -129,11 +134,15 @@
 2 Jwari Ruins
 1 Aether Hub
 2 Aether Hub
+1 Krydle of Baldur's Gate
+1 Rogue Class
+2 Krydle of Baldur's Gate
+2 Rogue Class
 1 Vantress Gargoyle
 2 Vantress Gargoyle
-1 Murderous Rider
 1 Davriel, Soul Broker
 1 Eliminate
+1 Murderous Rider
 2 Davriel, Soul Broker
 2 Eliminate
 2 Murderous Rider
@@ -154,12 +163,29 @@
 1 Call of the Death-Dweller
 2 Slither Blade
 3 Slither Blade
+1 Slitherwisp
+1 Zulaport Duelist
+2 Jwari Disruption
+2 Slitherwisp
+2 Zulaport Duelist
+3 Brazen Borrower
+3 Power Word Kill
+3 Zulaport Duelist
+3 Slitherwisp
 1 Rankle, Master of Pranks
 1 Quench
 2 Rankle, Master of Pranks
 2 Zareth San, the Trickster
 2 Quench
 3 Quench
+1 Essence Scatter
+1 Didn't Say Please
+1 Lullmage's Domination
+2 Bloodchief's Thirst
+2 Lullmage's Domination
+3 Agadeem's Awakening
+3 Of One Mind
+3 Lullmage's Domination
 1 Teferi, Master of Time
 1 Dismiss
 2 Teferi, Master of Time
@@ -177,17 +203,6 @@
 1 Prismari Command
 1 Yawgmoth's Vile Offering
 4 Expressive Iteration
-1 Essence Scatter
-1 Didn't Say Please
-1 Lullmage's Domination
-1 Of One Mind
-2 Bloodchief's Thirst
-2 Of One Mind
-2 Lullmage's Domination
-3 Agadeem's Awakening
-3 Of One Mind
-3 Lullmage's Domination
-4 Temple of Deceit
 7 Swamp
 1 Discovery/Dispersal
 2 Discovery/Dispersal

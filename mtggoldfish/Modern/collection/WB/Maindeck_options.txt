@@ -11,8 +11,8 @@
 2 Fetid Heath
 3 Flagstones of Trokair
 3 Smallpox
-4 Smallpox
 4 Flagstones of Trokair
+4 Smallpox
 1 Liliana of the Veil
 2 Liliana of the Veil
 1 Ashen Rider
@@ -72,11 +72,11 @@
 1 Darkblast
 1 Verdant Catacombs
 1 Barren Moor
-1 Mountain
+1 Inspiring Vantage
 1 Seasoned Pyromancer
+1 Mountain
 1 Blackcleave Cliffs
 1 Dragon's Rage Channeler
-1 Inspiring Vantage
 2 Seasoned Pyromancer
 2 Blackcleave Cliffs
 2 Dragon's Rage Channeler
@@ -95,31 +95,31 @@
 1 Overgrown Tomb
 2 Temple Garden
 1 Arid Mesa
+2 Inspiring Vantage
+2 Sacred Foundry
+2 Blood Crypt
 1 Grief
 2 Grief
 2 Kaya, Orzhov Usurper
-2 Blood Crypt
-2 Sacred Foundry
-2 Inspiring Vantage
+1 Wooded Foothills
 1 Siege Rhino
 1 Sire of Insanity
 1 Llanowar Wastes
 1 Windswept Heath
-1 Wooded Foothills
 1 Feasting Troll King
 1 Path to Exile
 1 Forest
 2 Wooded Foothills
-2 Siege Rhino
 2 Overgrown Tomb
+2 Siege Rhino
 2 Windswept Heath
 2 Unburial Rites
 2 Feasting Troll King
 2 Path to Exile
 3 Wooded Foothills
 3 Siege Rhino
-1 Vraska, Golgari Queen
 1 Timeless Dragon
+1 Vraska, Golgari Queen
 1 Grist, the Hunger Tide
 1 Kaya's Guile
 1 Braids, Cabal Minion
@@ -137,8 +137,8 @@
 2 Profane Tutor
 3 Silent Clearing
 4 Bone Shards
-1 Hex Parasite
 1 Binding the Old Gods
+1 Hex Parasite
 1 Tymaret Calls the Dead
 2 Binding the Old Gods
 2 Grave Titan

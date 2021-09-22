@@ -1,23 +1,25 @@
+1 Llanowar Elves
+2 Llanowar Elves
+3 Llanowar Elves
+4 Llanowar Elves
 4 Soul Warden
 3 Trelasarra, Moon Dancer
+5 Plains
 1 Snakeskin Veil
 4 Esper Sentinel
 1 Hengegate Pathway
 2 Hengegate Pathway
 3 Hengegate Pathway
-1 Llanowar Elves
-2 Llanowar Elves
-3 Llanowar Elves
-4 Llanowar Elves
 1 Barkchannel Pathway
 2 Barkchannel Pathway
 3 Barkchannel Pathway
-5 Plains
 4 Ranger-Captain of Eos
+4 Skyclave Apparition
 6 Plains
 1 Ajani, Strength of the Pride
+2 Lair of the Hydra
 4 Trelasarra, Moon Dancer
-4 Skyclave Apparition
+5 Forest
 1 Sterling Grove
 1 Destiny Spinner
 1 Sanctum Weaver
@@ -43,19 +45,19 @@
 4 Sanctum Weaver
 4 Sythis, Harvest's Hand
 4 Enchantress's Presence
-2 Lair of the Hydra
 1 Banishing Light
 2 Banishing Light
 1 Calix, Destiny's Hand
 2 Castle Ardenvale
+3 Elite Spellbinder
 1 Resplendent Angel
 1 Righteous Valkyrie
 1 Bishop of Wings
-2 Resplendent Angel
 2 Righteous Valkyrie
+2 Resplendent Angel
 2 Bishop of Wings
-3 Resplendent Angel
 3 Righteous Valkyrie
+3 Resplendent Angel
 3 Bishop of Wings
 4 Bishop of Wings
 4 Resplendent Angel
@@ -66,7 +68,6 @@
 4 Destiny Spinner
 1 Setessan Champion
 2 Scattered Groves
-5 Forest
 4 Ajani's Pridemate
 2 Ajani, Strength of the Pride
 2 Calix, Destiny's Hand
@@ -76,8 +77,8 @@
 4 Righteous Valkyrie
 3 Scattered Groves
 4 Baffling End
-4 Scattered Groves
 4 Calix, Destiny's Hand
+4 Scattered Groves
 2 Giant Killer
 1 Overgrown Tomb
 1 Brightclimb Pathway
@@ -91,8 +92,13 @@
 3 Darkbore Pathway
 4 Godless Shrine
 4 Darkbore Pathway
+1 Luminarch Aspirant
+2 Luminarch Aspirant
+3 Luminarch Aspirant
+4 Luminarch Aspirant
+4 Elite Spellbinder
 2 Daxos, Blessed by the Sun
-3 Elite Spellbinder
+6 Forest
 1 Cave of the Frost Dragon
 1 Cathars' Crusade
 2 Cave of the Frost Dragon
@@ -152,16 +158,24 @@
 2 Cathars' Crusade
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
+1 Conclave Mentor
+2 Conclave Mentor
+3 Conclave Mentor
+1 Fiend Artisan
+2 Fiend Artisan
+3 Fiend Artisan
 1 Jaspera Sentinel
 2 Jaspera Sentinel
 2 Island
 3 Jaspera Sentinel
 4 Jaspera Sentinel
-1 Luminarch Aspirant
-2 Luminarch Aspirant
-3 Luminarch Aspirant
-4 Luminarch Aspirant
-4 Elite Spellbinder
+1 Linvala, Shield of Sea Gate
+1 Glasspool Mimic
+2 Linvala, Shield of Sea Gate
+2 Glasspool Mimic
+3 Linvala, Shield of Sea Gate
+3 Hallowed Fountain
+4 Hallowed Fountain
 1 Cast Out
 1 Sky Tether
 1 Bala Ged Recovery
@@ -169,14 +183,6 @@
 2 Sky Tether
 3 Sky Tether
 4 Sky Tether
-1 Paladin Class
-2 Paladin Class
-2 Sigil of the Empty Throne
-3 Sigil of the Empty Throne
-3 Paladin Class
-4 Paladin Class
-4 Banishing Light
-1 Crawling Barrens
 1 The Book of Exalted Deeds
 1 Aethersphere Harvester
 1 Authority of the Consuls
@@ -186,17 +192,20 @@
 1 Declaration in Stone
 1 Ajani's Welcome
 1 Labyrinth of Skophos
+1 Crawling Barrens
 2 The Book of Exalted Deeds
 3 Castle Ardenvale
 3 Settle the Wreckage
 4 Castle Ardenvale
-1 Linvala, Shield of Sea Gate
-1 Glasspool Mimic
-2 Linvala, Shield of Sea Gate
-2 Glasspool Mimic
-3 Linvala, Shield of Sea Gate
-3 Hallowed Fountain
-4 Hallowed Fountain
+1 Paladin Class
+2 Paladin Class
+2 Sigil of the Empty Throne
+3 Sigil of the Empty Throne
+3 Paladin Class
+4 Paladin Class
+4 Banishing Light
+1 Emeria's Call
+14 Plains
 1 Shalai, Voice of Plenty
 1 Lyra Dawnbringer
 1 Basri Ket
@@ -204,9 +213,3 @@
 3 Angel of Vitality
 4 Angel of Vitality
 4 Speaker of the Heavens
-1 Fiend Artisan
-2 Fiend Artisan
-3 Fiend Artisan
-6 Forest
-1 Emeria's Call
-14 Plains

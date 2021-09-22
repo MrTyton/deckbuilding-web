@@ -29,7 +29,7 @@
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
 |                    1|Reidane, God of the Worthy                                                                  |                    1|Curse of Silence                                                                        |
 |                    1|[Lair of the Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527546)|                    2|Curse of Silence                                                                        |
-|                    3|[Lair of the Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527546)|                    3|Curse of Silence                                                                        |
-|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    2|[Portable Hole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527320)|
-|                    2|[Lair of the Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527546)|                    1|[Portable Hole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527320)|
+|                    2|[Lair of the Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527546)|                    3|Curse of Silence                                                                        |
+|                    3|[Lair of the Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527546)|                    2|[Portable Hole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527320)|
+|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    1|[Portable Hole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527320)|
 
