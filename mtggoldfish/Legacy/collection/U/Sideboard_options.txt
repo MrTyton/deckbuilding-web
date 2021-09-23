@@ -4,8 +4,8 @@
 1 Brain Freeze
 1 Snap
 1 Dress Down
-2 Dress Down
 2 Pact of Negation
+2 Dress Down
 3 Pact of Negation
 1 Hurkyl's Recall
 3 Dress Down
@@ -17,22 +17,21 @@
 1 Hullbreacher
 2 Flusterstorm
 1 Brazen Borrower
-2 Brazen Borrower
 1 Nettlecyst
 1 Blue Elemental Blast
 2 Nettlecyst
 2 Blue Elemental Blast
-1 Grafdigger's Cage
-1 Echoing Truth
+2 Brazen Borrower
 1 Archmage's Charm
 1 Mindbreak Trap
 2 Mindbreak Trap
 3 Nettlecyst
 4 Nettlecyst
-1 Tormod's Crypt
+1 Grafdigger's Cage
 1 Teferi's Realm
+1 Echoing Truth
+1 Tormod's Crypt
 1 Spell Pierce
-2 Echoing Truth
 1 Force of Will
 2 Force of Will
 3 Force of Will
@@ -41,12 +40,6 @@
 1 Metallic Rebuke
 2 Metallic Rebuke
 1 Torpor Orb
-1 Walking Ballista
-1 Ensnaring Bridge
-1 Liquimetal Coating
-1 Mycosynth Lattice
-1 Yorion, Sky Nomad
-1 Skysovereign, Consul Flagship
 1 Ravenous Trap
 1 Intuition
 1 Capsize
@@ -64,9 +57,10 @@
 2 Soul-Guide Lantern
 2 Grafdigger's Cage
 2 Teferi's Realm
+1 Ethersworn Canonist
+1 Walking Ballista
 1 Whipflare
 1 Thoughtseize
-1 Ethersworn Canonist
 1 Etched Champion
 2 Etched Champion
 2 Walking Ballista
@@ -87,11 +81,12 @@
 1 Swords to Plowshares
 2 Swords to Plowshares
 2 Prismatic Ending
-3 Metallic Rebuke
 3 Prismatic Ending
+3 Metallic Rebuke
 4 Metallic Rebuke
-1 Disenchant
 1 Test of Talents
+1 Disenchant
 1 Teferi's Protection
 2 Disenchant
+2 Echoing Truth
 4 Force of Will

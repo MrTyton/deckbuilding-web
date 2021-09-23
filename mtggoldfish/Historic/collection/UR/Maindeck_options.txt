@@ -61,14 +61,14 @@
 3 Spell Pierce
 1 Spikefield Hazard
 4 Crash Through
+1 Blightstep Pathway
 1 Inquisition of Kozilek
 1 Kroxa, Titan of Death's Hunger
-1 Blightstep Pathway
-2 Inquisition of Kozilek
 2 Blightstep Pathway
 2 Kroxa, Titan of Death's Hunger
-3 Inquisition of Kozilek
+2 Inquisition of Kozilek
 3 Kroxa, Titan of Death's Hunger
+3 Inquisition of Kozilek
 4 Inquisition of Kozilek
 4 Dreadhorde Arcanist
 4 Kroxa, Titan of Death's Hunger
@@ -81,13 +81,13 @@
 2 Aether Spellbomb
 2 Magma Spray
 2 Brazen Borrower
+1 Clearwater Pathway
 1 Baleful Mastery
 1 Claim/Fame
-1 Clearwater Pathway
+2 Clearwater Pathway
 2 Baleful Mastery
 2 Claim/Fame
 2 Swamp
-2 Clearwater Pathway
 1 Shatterskull Smashing
 1 Curious Obsession
 1 Blitz of the Thunder-Raptor
@@ -101,6 +101,11 @@
 4 Spell Pierce
 1 Fry
 4 Island
+1 Thoughtseize
+2 Thoughtseize
+3 Blightstep Pathway
+4 Watery Grave
+4 Blood Crypt
 1 Strategic Planning
 1 Ominous Seas
 2 Strategic Planning
@@ -110,25 +115,20 @@
 4 Strategic Planning
 4 Chart a Course
 4 Ominous Seas
-1 Thoughtseize
-2 Thoughtseize
-3 Blightstep Pathway
-4 Watery Grave
-4 Blood Crypt
+1 Prismari Command
 1 Electrolyze
 1 Temple of Epiphany
 1 Snow-Covered Island
 1 Lightning Strike
-1 Prismari Command
 1 Snow-Covered Mountain
+2 Prismari Command
 2 Temple of Epiphany
 2 Snow-Covered Island
-2 Prismari Command
 2 Snow-Covered Mountain
 2 Lightning Strike
 2 Young Pyromancer
-3 Young Pyromancer
 3 Prismari Command
+3 Young Pyromancer
 3 Snow-Covered Mountain
 3 Snow-Covered Island
 3 Lightning Strike

@@ -18,8 +18,8 @@
 1 Collected Company
 2 Collected Company
 3 Collected Company
-4 Collected Company
 1 Yorvo, Lord of Garenbrig
+4 Collected Company
 3 Lair of the Hydra
 4 Lair of the Hydra
 4 Nissa, Who Shakes the World
@@ -71,14 +71,14 @@
 3 Aspect of Hydra
 4 Aspect of Hydra
 1 Tangled Florahedron
-1 Stubborn Denial
 1 Breeding Pool
+1 Stubborn Denial
 1 Botanical Sanctum
 1 Barkchannel Pathway
-2 Stubborn Denial
-2 Botanical Sanctum
-2 Barkchannel Pathway
 2 Breeding Pool
+2 Stubborn Denial
+2 Barkchannel Pathway
+2 Botanical Sanctum
 3 Barkchannel Pathway
 3 Breeding Pool
 3 Botanical Sanctum
@@ -116,12 +116,11 @@
 3 World Breaker
 3 Arboreal Grazer
 3 Ugin, the Spirit Dragon
-3 Shrine of the Forsaken Gods
 3 Nissa's Pilgrimage
+3 Shrine of the Forsaken Gods
 4 Ugin, the Spirit Dragon
-4 Nissa's Pilgrimage
 4 Shrine of the Forsaken Gods
-3 Scavenging Ooze
+4 Nissa's Pilgrimage
 1 Jadelight Ranger
 2 Jadelight Ranger
 3 Jadelight Ranger
@@ -129,14 +128,15 @@
 1 Scavenger Grounds
 1 Emrakul, the Promised End
 1 Blast Zone
-1 Hour of Promise
 1 Arch of Orazca
+1 Hour of Promise
 2 Mazemind Tome
 2 Hour of Promise
 3 The Great Henge
 1 Questing Beast
 1 Kazandu Mammoth
 2 Kazandu Mammoth
+3 Scavenging Ooze
 1 Barkhide Troll
 2 Barkhide Troll
 3 Ghalta, Primal Hunger
@@ -147,8 +147,8 @@
 3 Cavalier of Thorns
 1 Avatar of the Resolute
 1 Experiment One
-2 Avatar of the Resolute
 2 Experiment One
+2 Avatar of the Resolute
 3 Avatar of the Resolute
 4 Avatar of the Resolute
 1 Kiora, Behemoth Beckoner
@@ -167,20 +167,47 @@
 1 Blossoming Defense
 1 Esika's Chariot
 3 Mazemind Tome
+1 Vivien Reid
+2 Vivien Reid
+3 Vivien Reid
 1 Yavimaya Coast
 1 Decisive Denial
 2 Yavimaya Coast
 2 Decisive Denial
 3 Yavimaya Coast
-1 Vivien Reid
-2 Vivien Reid
-3 Vivien Reid
 3 Kazandu Mammoth
 4 Kazandu Mammoth
 4 Stubborn Denial
+4 The Great Henge
 3 Yorvo, Lord of Garenbrig
 3 Barkhide Troll
 4 Barkhide Troll
+2 Questing Beast
+3 Questing Beast
+4 Scavenging Ooze
+4 Questing Beast
+1 Assassin's Trophy
+1 Vivien, Monsters' Advocate
+1 Pelt Collector
+2 Assassin's Trophy
+2 Pelt Collector
+3 Llanowar Wastes
+3 Experiment One
+3 Pelt Collector
+4 Experiment One
+4 Pelt Collector
+4 Llanowar Wastes
+1 Fiend Artisan
+1 Garruk, Caller of Beasts
+1 Bonders' Enclave
+1 Temur Sabertooth
+2 Kiora, Behemoth Beckoner
+2 Fiend Artisan
+2 Bonders' Enclave
+3 Kiora, Behemoth Beckoner
+3 Surrak, the Hunt Caller
+4 Cavalier of Thorns
+4 Kiora, Behemoth Beckoner
 1 Cultivate
 2 Radiant Fountain
 2 Ulamog, the Ceaseless Hunger
@@ -193,105 +220,42 @@
 4 Golos, Tireless Pilgrim
 4 Arboreal Grazer
 4 Cultivate
-4 The Great Henge
-1 Assassin's Trophy
-1 Vivien, Monsters' Advocate
-1 Pelt Collector
-2 Assassin's Trophy
-2 Pelt Collector
-3 Llanowar Wastes
-3 Pelt Collector
-3 Experiment One
-4 Pelt Collector
-4 Experiment One
-4 Llanowar Wastes
-1 Ghor-Clan Rampager
-1 Game Trail
-1 Cinder Glade
-1 Embercleave
-1 Klothys, God of Destiny
-1 Gruul Spellbreaker
-1 Cragcrown Pathway
-1 Mountain
-1 Bonecrusher Giant
-1 Reckless Bushwhacker
-1 Stomping Ground
-1 Robber of the Rich
-1 Atarka's Command
-1 Rootbound Crag
-2 Game Trail
-2 Gruul Spellbreaker
-2 Atarka's Command
-2 Mountain
-2 Reckless Bushwhacker
-2 Stomping Ground
-2 Bonecrusher Giant
-2 Rootbound Crag
-2 Cinder Glade
-2 Klothys, God of Destiny
-2 Cragcrown Pathway
-3 Game Trail
-3 Cragcrown Pathway
-3 Bonecrusher Giant
-3 Gruul Spellbreaker
-3 Atarka's Command
-3 Mountain
-3 Reckless Bushwhacker
-3 Stomping Ground
-4 Bonecrusher Giant
-4 Reckless Bushwhacker
-4 Stomping Ground
-1 Fiend Artisan
-1 Bonders' Enclave
-1 Temur Sabertooth
-1 Garruk, Caller of Beasts
-2 Kiora, Behemoth Beckoner
-2 Fiend Artisan
-2 Bonders' Enclave
-3 Surrak, the Hunt Caller
-3 Kiora, Behemoth Beckoner
-4 Cavalier of Thorns
-4 Kiora, Behemoth Beckoner
-2 Questing Beast
-3 Questing Beast
-4 Scavenging Ooze
-4 Questing Beast
 1 Darkbore Pathway
 1 Wildborn Preserver
 1 Shaman of the Pack
-1 Realmwalker
 1 Elvish Warmaster
+1 Realmwalker
+1 Unclaimed Territory
 1 Elvish Clancaller
 1 Circle of Dreams Druid
-1 Unclaimed Territory
 2 Realmwalker
 2 Darkbore Pathway
+2 Wildborn Preserver
+2 Shaman of the Pack
+2 Circle of Dreams Druid
+2 Elvish Warmaster
 2 Unclaimed Territory
 2 Elvish Clancaller
-2 Circle of Dreams Druid
-2 Wildborn Preserver
-2 Elvish Warmaster
-2 Shaman of the Pack
 3 Darkbore Pathway
 3 Elvish Clancaller
+3 Wildborn Preserver
 3 Realmwalker
+3 Shaman of the Pack
 3 Circle of Dreams Druid
 3 Elvish Warmaster
-3 Wildborn Preserver
-3 Shaman of the Pack
 4 Darkbore Pathway
+4 Realmwalker
 4 Elvish Warmaster
 4 Circle of Dreams Druid
-4 Realmwalker
 4 Wildborn Preserver
-4 Elvish Clancaller
 4 Shaman of the Pack
+4 Elvish Clancaller
 18 Snow-Covered Forest
-1 Lovestruck Beast
 1 Garruk's Uprising
+1 Lovestruck Beast
 2 Field of Ruin
-2 Garruk's Uprising
 2 Lovestruck Beast
+2 Garruk's Uprising
 3 Lovestruck Beast
 4 Lovestruck Beast
 17 Forest

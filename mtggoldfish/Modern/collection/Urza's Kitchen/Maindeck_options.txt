@@ -81,21 +81,21 @@
 1 Wooded Foothills
 2 Wooded Foothills
 3 Wooded Foothills
+1 Vengevine
 1 Barren Moor
 1 Lotleth Troll
 1 Gravecrawler
-1 Vengevine
 1 Carrion Feeder
+2 Vengevine
 2 Urborg, Tomb of Yawgmoth
 2 Carrion Feeder
-2 Vengevine
 2 Gravecrawler
 2 Lotleth Troll
 3 Vengevine
 3 Lotleth Troll
 3 Gravecrawler
-4 Lotleth Troll
 4 Vengevine
+4 Lotleth Troll
 4 Prismatic Ending
 1 Tranquil Thicket
 4 Ragavan, Nimble Pilferer
@@ -114,19 +114,19 @@
 4 Ranger-Captain of Eos
 4 Emry, Lurker of the Loch
 1 Arid Mesa
+1 Thraben Inspector
 1 Giver of Runes
 1 Concealed Courtyard
-1 Thraben Inspector
 2 Plains
 2 Arid Mesa
+2 Thraben Inspector
 2 Godless Shrine
 2 Concealed Courtyard
-2 Thraben Inspector
 3 Marsh Flats
 3 Concealed Courtyard
+4 Marsh Flats
 4 Concealed Courtyard
 4 Esper Sentinel
-4 Marsh Flats
 1 Power Conduit
 1 Expressive Iteration
 2 Expressive Iteration
@@ -162,46 +162,27 @@
 2 Bone Shards
 1 Lightning Bolt
 2 Lightning Bolt
-3 Wrenn and Six
 3 Lightning Bolt
+3 Wrenn and Six
 4 Lightning Bolt
 1 Copperline Gorge
 2 Copperline Gorge
 3 Copperline Gorge
-1 Mox Amber
 1 Engineered Explosives
+1 Mox Amber
 2 Windswept Heath
 2 Nurturing Peatland
 1 Seachrome Coast
 2 Seachrome Coast
-3 Watery Grave
-3 Nettlecyst
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
-3 Fatal Push
+3 Watery Grave
 1 Galvanic Blast
 2 Galvanic Blast
 3 Galvanic Blast
-1 Tarmogoyf
-1 Grist, the Hunger Tide
-2 Tarmogoyf
-2 Grist, the Hunger Tide
-2 Stomping Ground
-3 Tarmogoyf
-4 Tarmogoyf
-4 Copperline Gorge
-1 Yavimaya, Cradle of Growth
-4 Wooded Foothills
-4 Wrenn and Six
-1 Shardless Agent
-2 Shardless Agent
-3 Shardless Agent
-4 Shardless Agent
-1 Llanowar Wastes
-2 Llanowar Wastes
-4 Trail of Crumbs
-4 Cauldron Familiar
+3 Nettlecyst
+3 Fatal Push
 1 Cavern of Souls
 1 Gut Shot
 1 Talisman of Progress
@@ -213,3 +194,22 @@
 3 Talisman of Progress
 4 Cavern of Souls
 4 Talisman of Progress
+1 Grist, the Hunger Tide
+1 Tarmogoyf
+2 Grist, the Hunger Tide
+2 Tarmogoyf
+2 Stomping Ground
+3 Tarmogoyf
+4 Copperline Gorge
+4 Tarmogoyf
+1 Yavimaya, Cradle of Growth
+4 Wooded Foothills
+4 Wrenn and Six
+1 Shardless Agent
+2 Shardless Agent
+3 Shardless Agent
+4 Shardless Agent
+1 Llanowar Wastes
+2 Llanowar Wastes
+4 Trail of Crumbs
+4 Cauldron Familiar

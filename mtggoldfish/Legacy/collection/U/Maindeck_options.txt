@@ -18,8 +18,8 @@
 2 Turnabout
 2 Merchant Scroll
 3 Cunning Wish
-3 Preordain
 3 Island
+3 Preordain
 3 High Tide
 3 Time Spiral
 3 Merchant Scroll
@@ -39,10 +39,10 @@
 8 Island
 9 Island
 10 Island
-1 Flooded Strand
-1 Flusterstorm
 1 Predict
+1 Flusterstorm
 1 Pact of Negation
+1 Flooded Strand
 1 Polluted Delta
 2 Predict
 2 Flusterstorm
@@ -54,12 +54,12 @@
 1 Misty Rainforest
 1 Prismatic Vista
 2 Prismatic Vista
+1 Soul-Guide Lantern
+2 Polluted Delta
+2 Flooded Strand
+1 Springleaf Drum
 1 Chalice of the Void
 2 Chalice of the Void
-1 Soul-Guide Lantern
-2 Flooded Strand
-2 Polluted Delta
-1 Springleaf Drum
 2 Scalding Tarn
 3 Chalice of the Void
 4 Chalice of the Void
@@ -69,69 +69,43 @@
 1 Ethersworn Canonist
 1 Ancient Den
 2 Ethersworn Canonist
-1 Urza, Lord High Artificer
-2 Urza, Lord High Artificer
-3 Urza, Lord High Artificer
-2 Ancient Den
-1 Esper Sentinel
-1 Cavern of Souls
-1 Tundra
-2 Esper Sentinel
-2 Walking Ballista
-2 Cavern of Souls
-3 Esper Sentinel
-3 Cavern of Souls
-4 Urza, Lord High Artificer
-4 Esper Sentinel
-4 Cavern of Souls
 1 Cranial Plating
 1 Ornithopter
 2 Ornithopter
 2 Cranial Plating
 3 Ornithopter
-1 Wasteland
-1 Crucible of Worlds
-1 Expedition Map
-3 Ethersworn Canonist
-3 Ancient Den
-4 Ethersworn Canonist
-4 Ancient Den
-1 Aether Spellbomb
-3 Cranial Plating
-4 Ornithopter
-4 Cranial Plating
+1 Urza, Lord High Artificer
+2 Urza, Lord High Artificer
+3 Urza, Lord High Artificer
+2 Ancient Den
 1 Spire of Industry
 2 Springleaf Drum
 2 Spire of Industry
 3 Spire of Industry
 4 Spire of Industry
-1 Karn, the Great Creator
-1 Trinket Mage
-2 Karn, the Great Creator
-2 Trinket Mage
-2 Tundra
-3 Karn, the Great Creator
-3 Tundra
-3 Trinket Mage
-4 Karn, the Great Creator
-4 Tundra
-1 Hullbreacher
+1 Aether Spellbomb
+3 Cranial Plating
+4 Ornithopter
+4 Cranial Plating
 3 Flooded Strand
 3 Polluted Delta
 1 Darksteel Citadel
 1 Mox Amber
-1 Karn, Scion of Urza
 1 Mistvault Bridge
+1 Karn, Scion of Urza
 1 Silverbluff Bridge
-2 Mox Amber
-2 Karn, Scion of Urza
-2 Silverbluff Bridge
 2 Mistvault Bridge
+2 Karn, Scion of Urza
+2 Mox Amber
+2 Silverbluff Bridge
 3 Karn, Scion of Urza
 1 Vault Skirge
+1 Wasteland
 1 Blast Zone
 1 Nettlecyst
 1 Stonecoil Serpent
+1 Crucible of Worlds
+1 Expedition Map
 1 City of Traitors
 2 Vault Skirge
 2 Wasteland
@@ -151,10 +125,14 @@
 2 Dispatch
 3 Springleaf Drum
 3 Memnite
+3 Ethersworn Canonist
 3 Dispatch
+3 Ancient Den
 4 Memnite
 4 Dispatch
 4 Springleaf Drum
+4 Ethersworn Canonist
+4 Ancient Den
 1 Arcbound Ravager
 1 Steel Overseer
 1 Welding Jar
@@ -173,9 +151,9 @@
 3 Inkmoth Nexus
 4 Arcbound Ravager
 4 Steel Overseer
-1 Mystic Sanctuary
 1 Counterspell
 1 Brain Freeze
+1 Mystic Sanctuary
 1 Meditate
 1 Candelabra of Tawnos
 2 Misty Rainforest
@@ -187,3 +165,15 @@
 3 Meditate
 4 Scalding Tarn
 4 Meditate
+1 Esper Sentinel
+1 Hullbreacher
+1 Cavern of Souls
+1 Tundra
+2 Esper Sentinel
+2 Walking Ballista
+2 Cavern of Souls
+3 Esper Sentinel
+3 Cavern of Souls
+4 Esper Sentinel
+4 Urza, Lord High Artificer
+4 Cavern of Souls

@@ -1,10 +1,15 @@
+6 Plains
+7 Plains
+8 Plains
+1 Firja's Retribution
+1 Fateful Absence
+1 Righteous Valkyrie
 1 Enduring Angel
 1 Skyclave Apparition
 1 Youthful Valkyrie
-1 Fateful Absence
 2 Firja's Retribution
-2 Righteous Valkyrie
 2 Fateful Absence
+2 Righteous Valkyrie
 2 Skyclave Apparition
 2 Youthful Valkyrie
 3 Firja's Retribution
@@ -15,11 +20,6 @@
 4 Righteous Valkyrie
 4 Youthful Valkyrie
 9 Plains
-4 Skullport Merchant
-1 Deadly Dispute
-2 Deadly Dispute
-3 Deadly Dispute
-3 Lolth, Spider Queen
 4 Blood on the Snow
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
@@ -28,45 +28,61 @@
 2 Elite Spellbinder
 3 Elite Spellbinder
 3 Shineshadow Snarl
-1 Ebondeath, Dracolich
-2 The Meathook Massacre
-3 Faceless Haven
+4 Deadly Dispute
 1 Hagra Mauling
 1 Infernal Grasp
 2 Infernal Grasp
+1 Mountain
+1 Haunted Ridge
+1 Extus, Oriq Overlord
+1 Jadar, Ghoulcaller of Nephalia
+1 Blightstep Pathway
+2 Jadar, Ghoulcaller of Nephalia
+2 Blightstep Pathway
+2 Extus, Oriq Overlord
+2 Haunted Ridge
+3 Blightstep Pathway
+3 Haunted Ridge
+3 Jadar, Ghoulcaller of Nephalia
+4 Blightstep Pathway
+4 Haunted Ridge
+3 Hive of the Eye Tyrant
+1 Ebondeath, Dracolich
+2 The Meathook Massacre
+3 Faceless Haven
 1 Starnheim Unleashed
 2 Starnheim Unleashed
-3 Emeria's Call
 3 Fateful Absence
+3 Emeria's Call
 3 Starnheim Unleashed
-4 Skyclave Apparition
 4 Fateful Absence
+4 Skyclave Apparition
 4 Starnheim Unleashed
 1 Tangled Florahedron
-1 Field of Ruin
+1 Esika's Chariot
 1 Bloodchief's Thirst
 1 Wrenn and Seven
 1 Darkbore Pathway
 1 Woodland Chasm
 1 Binding the Old Gods
 1 Snow-Covered Forest
+1 Field of Ruin
 1 Ranger Class
 1 Skyclave Shade
-1 Esika's Chariot
-2 Wrenn and Seven
 2 Tangled Florahedron
-2 Field of Ruin
+2 Esika's Chariot
+2 Wrenn and Seven
 2 Bloodchief's Thirst
 2 Skyclave Shade
 2 Binding the Old Gods
 2 Woodland Chasm
+2 Field of Ruin
 2 Ranger Class
 2 Darkbore Pathway
-2 Esika's Chariot
 2 Snow-Covered Forest
+3 Esika's Chariot
 3 Skyclave Shade
 3 Darkbore Pathway
-3 Esika's Chariot
 3 Woodland Chasm
 3 Snow-Covered Forest
 3 Binding the Old Gods
@@ -74,68 +90,74 @@
 4 Woodland Chasm
 1 Agadeem's Awakening
 1 Graveyard Trespasser
-1 Haunted Ridge
 1 Warlock Class
-1 Extus, Oriq Overlord
-1 Jadar, Ghoulcaller of Nephalia
-1 Mountain
+1 Immersturm Predator
 1 Shatterskull Smashing
 1 Village Rites
-1 Blightstep Pathway
-1 Immersturm Predator
 2 Agadeem's Awakening
+2 Mountain
 2 Graveyard Trespasser
 2 Warlock Class
-2 Jadar, Ghoulcaller of Nephalia
-2 Blightstep Pathway
-2 Mountain
 2 Village Rites
-2 Extus, Oriq Overlord
-2 Haunted Ridge
 2 Immersturm Predator
-3 Blightstep Pathway
+3 Mountain
 3 Infernal Grasp
 3 Graveyard Trespasser
-3 Haunted Ridge
 3 Immersturm Predator
-3 Jadar, Ghoulcaller of Nephalia
-3 Mountain
 3 Village Rites
-4 Blightstep Pathway
+4 Mountain
 4 Village Rites
 4 Immersturm Predator
 4 Jadar, Ghoulcaller of Nephalia
-4 Haunted Ridge
-4 Mountain
+1 Brutal Cathar
 1 Nighthawk Scavenger
 1 Can't Stay Away
 1 Forsworn Paladin
 1 Luminarch Aspirant
 1 Check for Traps
-1 Brutal Cathar
+2 Brutal Cathar
 2 Reidane, God of the Worthy
 2 Nighthawk Scavenger
 2 Can't Stay Away
 2 Check for Traps
 2 Luminarch Aspirant
-2 Brutal Cathar
 2 Forsworn Paladin
-3 Hive of the Eye Tyrant
 3 Reidane, God of the Worthy
 3 Brutal Cathar
 3 Nighthawk Scavenger
-3 Forsworn Paladin
 3 Luminarch Aspirant
+3 Forsworn Paladin
 4 Shineshadow Snarl
 4 Brutal Cathar
 4 Elite Spellbinder
 4 Nighthawk Scavenger
 4 Luminarch Aspirant
+1 Den of the Bugbear
+1 Needleverge Pathway
+1 Fireblade Charger
+1 Showdown of the Skalds
+1 Orcus, Prince of Undeath
+1 Kalain, Reclusive Painter
+2 Den of the Bugbear
+2 Needleverge Pathway
+2 Kalain, Reclusive Painter
+2 Orcus, Prince of Undeath
+2 Fireblade Charger
+2 Showdown of the Skalds
+3 Needleverge Pathway
+3 Kalain, Reclusive Painter
+3 Fireblade Charger
+3 Extus, Oriq Overlord
+3 Showdown of the Skalds
+4 Needleverge Pathway
+4 Showdown of the Skalds
+4 Fireblade Charger
+4 Extus, Oriq Overlord
+4 Hive of the Eye Tyrant
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
 4 Snow-Covered Plains
-4 Deadly Dispute
 5 Snow-Covered Plains
 1 Ambitious Farmhand
 1 Legion Angel

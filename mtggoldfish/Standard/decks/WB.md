@@ -1,0 +1,25 @@
+# WB
+
+#### [Export MTGO List](../collection/WB/WB.txt)
+#### [Export Arena List](../collection/WB/WB_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Acererak%20the%20Archlich%0A4%09Agadeem's%20Awakening%0A4%09Brightclimb%20Pathway%0A4%09Champion%20of%20the%20Perished%0A4%09Dungeon%20Crawler%0A4%09Hive%20of%20the%20Eye%20Tyrant%0A4%09Infernal%20Grasp%0A1%09Malakir%20Rebirth%0A4%09Nadaar,%20Selfless%20Paladin%0A5%09Plains%0A4%09Scourge%20of%20the%20Skyclaves%0A6%09Swamp%0A4%09Tainted%20Adversary%0A4%09Triumphant%20Adventurer%0A4%09Wight&deckside=2%09Check%20for%20Traps%0A4%09Crippling%20Fear%0A4%09Duress%0A1%09Ray%20of%20Enfeeblement%0A4%09Vanishing%20Verse)
+# Maindeck
+
+|                                            Creature (24)                                            |                                        Instant (1)                                         |                                             Land (19)                                             |                                          Sorcery (4)                                           |       Unknown (12)       |
+|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------|
+|4 [Acererak the Archlich](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527374)   |1 [Malakir Rebirth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491747)|4 [Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)   |4 [Agadeem's Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491723)|4 Champion of the Perished|
+|4 [Dungeon Crawler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527386)         |                                                                                            |4 [Hive of the Eye Tyrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527545)|                                                                                                |4 Infernal Grasp          |
+|4 [Nadaar, Selfless Paladin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527314)|                                                                                            |5 [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                |                                                                                                |4 Tainted Adversary       |
+|4 [Scourge of the Skyclaves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491760)|                                                                                            |6 [Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                 |                                                                                                |                          |
+|4 [Triumphant Adventurer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527524)   |                                                                                            |                                                                                                   |                                                                                                |                          |
+|4 [Wight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527414)                   |                                                                                            |                                                                                                   |                                                                                                |                          |
+
+
+# Sideboard
+
+|                                          Instant (5)                                           |                                        Sorcery (10)                                        |
+|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|1 [Ray of Enfeeblement](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527403)|2 [Check for Traps](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527379)|
+|4 [Vanishing Verse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513736)    |4 [Crippling Fear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503690) |
+|                                                                                                |4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)          |
+
