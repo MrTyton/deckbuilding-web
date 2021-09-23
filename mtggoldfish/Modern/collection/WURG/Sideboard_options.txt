@@ -29,13 +29,13 @@
 1 Chalice of the Void
 2 Chalice of the Void
 3 Leyline of Sanctity
-2 Brazen Borrower
 1 Endurance
 1 Prismatic Ending
-2 Lightning Bolt
 1 Path to Exile
-4 Force of Vigor
+2 Brazen Borrower
+2 Lightning Bolt
 3 Rest in Peace
+4 Force of Vigor
 1 Detention Sphere
 1 Blood Moon
 1 Obsidian Charmaw
@@ -47,9 +47,9 @@
 1 Cindervines
 3 Path to Exile
 1 Lightning Helix
+2 Cindervines
 1 Gaddock Teeg
 2 Gaddock Teeg
-2 Cindervines
 2 Lightning Helix
 1 Lavinia, Azorius Renegade
 2 Alpine Moon
@@ -60,12 +60,6 @@
 1 Eternal Witness
 3 Lightning Bolt
 2 Prismatic Ending
-1 Cursed Totem
-2 Cursed Totem
-3 Cursed Totem
-1 Cleansing Wildfire
-2 Cleansing Wildfire
-3 Cleansing Wildfire
 1 Ingot Chewer
 3 Veil of Summer
 2 Endurance
@@ -73,14 +67,19 @@
 1 Keruga, the Macrosage
 3 Foundation Breaker
 3 Alpine Moon
+1 Cursed Totem
+2 Cursed Totem
+3 Cursed Totem
 1 Emrakul, the Aeons Torn
 2 Ingot Chewer
 3 Ingot Chewer
-4 Cleansing Wildfire
 1 Knight of Autumn
 1 Stony Silence
 1 Blast Zone
 1 Goblin Cratermaker
+1 Cleansing Wildfire
+2 Cleansing Wildfire
+3 Cleansing Wildfire
 3 Prismatic Ending
 1 Kataki, War's Wage
 4 Ingot Chewer
@@ -89,6 +88,7 @@
 2 Detention Sphere
 2 Stony Silence
 2 Unholy Heat
+4 Cleansing Wildfire
 4 Leyline of Sanctity
 1 Skyclave Apparition
 3 Cindervines
@@ -131,6 +131,7 @@
 2 Knight of Autumn
 1 Omnath, Locus of Creation
 1 Iona, Shield of Emeria
+1 Yasharn, Implacable Earth
 1 Phyrexian Revoker
 1 Mistcaller
 1 Scavenger Grounds
@@ -141,7 +142,6 @@
 1 Mantis Rider
 1 Declaration in Stone
 1 Dusk/Dawn
-1 Yasharn, Implacable Earth
 1 Chancellor of the Forge
 1 Birds of Paradise
 1 Seasoned Pyromancer
@@ -188,20 +188,19 @@
 2 Rags/Riches
 2 Bedeck/Bedazzle
 3 Bedeck/Bedazzle
-3 Gaddock Teeg
 1 Deafening Clarion
 1 Anathemancer
 2 Deafening Clarion
 2 Anathemancer
 3 Anathemancer
+1 Destructive Revelry
+2 Destructive Revelry
 1 Surgical Extraction
 1 Pillar of Flame
-1 Destructive Revelry
 1 Ranger of Eos
 2 Ancient Grudge
 2 Surgical Extraction
 2 Pillar of Flame
-2 Destructive Revelry
 3 Kor Firewalker
 3 Pillar of Flame
 4 Lightning Bolt
@@ -217,3 +216,11 @@
 2 Boros Charm
 3 Boros Charm
 4 Boros Charm
+1 Deflecting Palm
+1 Stubborn Denial
+2 Stubborn Denial
+2 Deflecting Palm
+3 Stubborn Denial
+3 Destructive Revelry
+4 Destructive Revelry
+4 Stubborn Denial

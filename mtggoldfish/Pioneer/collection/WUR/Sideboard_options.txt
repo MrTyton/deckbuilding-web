@@ -1,9 +1,9 @@
-1 Aether Gust
 1 Rest in Peace
 2 Aether Gust
 1 Portable Hole
-1 Wear/Tear
 3 Mystical Dispute
+2 Apostle of Purifying Light
+1 Wear/Tear
 2 Rest in Peace
 1 Shark Typhoon
 1 Narset's Reversal
@@ -33,10 +33,10 @@
 3 Dawnbringer Cleric
 2 Narset's Reversal
 3 Stubborn Denial
-1 Commence the Endgame
-1 Magma Spray
 1 Shadowspear
 3 Scrabbling Claws
+1 Commence the Endgame
+1 Magma Spray
 1 Sunset Revelry
 2 Sunset Revelry
 1 Test of Talents
@@ -57,6 +57,8 @@
 1 Settle the Wreckage
 2 Damping Sphere
 3 Devout Decree
+2 Shadowspear
+4 Scrabbling Claws
 1 Brazen Borrower
 1 Fragmentize
 1 Ugin, the Spirit Dragon
@@ -69,8 +71,6 @@
 3 Hushbringer
 1 Soul-Guide Lantern
 3 Portable Hole
-2 Shadowspear
-4 Scrabbling Claws
 1 Spectral Sailor
 1 Dragonmaster Outcast
 4 Aether Gust
@@ -99,7 +99,6 @@
 1 Abrade
 3 Shark Typhoon
 3 Narset's Reversal
-4 Sunset Revelry
 1 Shrapnel Blast
 2 Shrapnel Blast
 4 Portable Hole
@@ -112,6 +111,7 @@
 2 Baneslayer Angel
 3 Dovin's Veto
 4 Dovin's Veto
+4 Sunset Revelry
 3 Invasive Surgery
 4 Invasive Surgery
 1 Seal Away

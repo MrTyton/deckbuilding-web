@@ -1,9 +1,9 @@
 4 Spirebluff Canal
+1 Sprite Dragon
+2 Sprite Dragon
 3 Light Up the Stage
 1 Inspiring Vantage
 1 Sacred Foundry
-1 Sprite Dragon
-2 Sprite Dragon
 4 Light Up the Stage
 1 Sunbaked Canyon
 2 Sacred Foundry
@@ -14,10 +14,10 @@
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
-3 Inspiring Vantage
 4 Mountain
-3 Steam Vents
 1 Serum Visions
+3 Inspiring Vantage
+3 Steam Vents
 1 Prismatic Ending
 2 Prismatic Ending
 3 Scalding Tarn
@@ -26,10 +26,13 @@
 3 Sprite Dragon
 1 Gut Shot
 4 Sprite Dragon
+2 Island
 3 Bloodstained Mire
 1 Vapor Snag
-2 Island
-3 Mutagenic Growth
+3 Island
+5 Mountain
+6 Mountain
+3 Serum Visions
 1 Rip Apart
 2 Rip Apart
 2 Path to Exile
@@ -38,34 +41,46 @@
 4 Scalding Tarn
 1 Tarfire
 4 Inspiring Vantage
-3 Island
-5 Mountain
-6 Mountain
-3 Serum Visions
-2 Sunbaked Canyon
+3 Mutagenic Growth
 1 Bonecrusher Giant
+4 Serum Visions
 1 Spell Pierce
 7 Mountain
 4 Fiery Islet
-4 Steam Vents
 1 Brazen Borrower
+4 Steam Vents
 3 Unholy Heat
 3 Prismatic Ending
-3 Sunbaked Canyon
-3 Wooded Foothills
-4 Serum Visions
-1 Boros Charm
+2 Sunbaked Canyon
+1 Shadowspear
+1 Sulfur Falls
 1 Finale of Promise
+1 Goldspan Dragon
 2 Bonecrusher Giant
+2 Goldspan Dragon
+2 Finale of Promise
+2 Sulfur Falls
+3 Sulfur Falls
+4 Island
+4 Sulfur Falls
+5 Island
+6 Island
+3 Sunbaked Canyon
 4 Bloodstained Mire
 1 Unsummon
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 2 Bedlam Reveler
+1 Desperate Ritual
+1 Seal of Removal
+1 Castle Vantress
+2 Seal of Removal
+2 Desperate Ritual
 1 Noxious Revival
 1 Murktide Regent
 2 Tarfire
 2 Murktide Regent
+3 Wooded Foothills
 1 Demilich
 2 Demilich
 3 Arid Mesa
@@ -75,8 +90,18 @@
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
+1 Prismari Command
+1 Opt
+1 Soul-Guide Lantern
+2 Prismari Command
+2 Opt
+3 Bonecrusher Giant
+3 Opt
+4 Opt
+7 Island
 1 Temur Battle Rage
 1 Blood Crypt
+1 Boros Charm
 1 Kiln Fiend
 2 Boros Charm
 2 Kiln Fiend
@@ -84,35 +109,3 @@
 3 Kiln Fiend
 4 Boros Charm
 4 Kiln Fiend
-1 Shadowspear
-1 Sulfur Falls
-1 Desperate Ritual
-1 Seal of Removal
-1 Castle Vantress
-1 Goldspan Dragon
-2 Goldspan Dragon
-2 Finale of Promise
-2 Sulfur Falls
-2 Seal of Removal
-2 Desperate Ritual
-3 Sulfur Falls
-4 Island
-4 Sulfur Falls
-5 Island
-6 Island
-1 Clever Lumimancer
-1 Leonin Lightscribe
-1 Crash Through
-1 Lightning Helix
-1 Risk Factor
-2 Clever Lumimancer
-2 Leonin Lightscribe
-2 Crash Through
-3 Clever Lumimancer
-3 Leonin Lightscribe
-3 Sacred Foundry
-3 Crash Through
-4 Clever Lumimancer
-4 Crash Through
-4 Mutagenic Growth
-4 Sunbaked Canyon

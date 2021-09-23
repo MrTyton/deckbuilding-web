@@ -21,8 +21,8 @@
 1 Mystic Gate
 2 Polluted Delta
 1 Fatal Push
-2 Fatal Push
 2 Watery Grave
+2 Fatal Push
 3 Fatal Push
 1 Opt
 2 Opt
@@ -146,11 +146,11 @@
 1 Hinterland Harbor
 1 Wrath of God
 2 Valki, God of Lies
+2 Godless Shrine
+2 Marsh Flats
 1 Secure the Wastes
 2 Electrolyze
 2 Vendilion Clique
-2 Marsh Flats
-2 Godless Shrine
 3 Kaya's Guile
 1 Mana Leak
 2 Mana Leak
@@ -164,18 +164,18 @@
 2 Geyadrone Dihada
 3 Thoughtseize
 3 Geyadrone Dihada
+1 Ephemerate
 1 Rimewood Falls
 1 Eternal Witness
 1 Flooded Grove
 1 Glacial Floodplain
 1 Dress Down
-1 Ephemerate
 2 Eternal Witness
 2 Breeding Pool
 2 Flooded Grove
 3 Eternal Witness
-1 Geist of Saint Traft
 1 Maul of the Skyclaves
+1 Geist of Saint Traft
 2 Geist of Saint Traft
 4 Lightning Helix
 1 Chalice of the Void
@@ -183,6 +183,8 @@
 2 Spreading Seas
 3 Fire/Ice
 4 Fire/Ice
+4 Solitude
+4 Plains
 1 Squadron Hawk
 2 Squadron Hawk
 2 Seachrome Coast
@@ -193,8 +195,8 @@
 1 Tarmogoyf
 1 Snow-Covered Swamp
 1 Damnation
-2 Tarmogoyf
 2 Snow-Covered Forest
+2 Tarmogoyf
 3 Tarmogoyf
 4 Snow-Covered Island
 4 Tarmogoyf
@@ -234,8 +236,6 @@
 4 Cleansing Wildfire
 3 Inquisition of Kozilek
 4 Inquisition of Kozilek
-4 Plains
-4 Solitude
 1 Faerie Seer
 1 Glen Elendra Archmage
 2 Faerie Seer
