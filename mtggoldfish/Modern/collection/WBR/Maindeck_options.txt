@@ -1,33 +1,32 @@
-1 Arid Mesa
 2 Terminate
-4 Lightning Bolt
 1 Sunbaked Canyon
-1 Kaya's Guile
-1 Silent Clearing
+4 Lightning Bolt
+1 Arid Mesa
 2 Graven Cairns
 1 Shinka, the Bloodsoaked Keep
+1 Kaya's Guile
+1 Silent Clearing
 3 Marsh Flats
-2 Kaya's Guile
 1 Den of the Bugbear
 2 Den of the Bugbear
-1 Concealed Courtyard
 3 Den of the Bugbear
-2 Tourach, Dread Cantor
 4 Blood Crypt
 4 Thoughtseize
+2 Kaya's Guile
 1 Fatal Push
+1 Verdant Catacombs
+2 Tourach, Dread Cantor
 1 Scourge of the Skyclaves
 2 Scourge of the Skyclaves
+1 Concealed Courtyard
 1 Plains
 2 Arid Mesa
+2 Verdant Catacombs
+4 Marsh Flats
+1 Urborg, Tomb of Yawgmoth
 1 Snow-Covered Swamp
 1 Snow-Covered Mountain
-1 Urborg, Tomb of Yawgmoth
-4 Marsh Flats
-1 Verdant Catacombs
-2 Verdant Catacombs
 2 Mountain
-1 Inspiring Vantage
 1 Seal of Fire
 2 Fatal Push
 1 Kaldra Compleat
@@ -80,13 +79,14 @@
 1 Scalding Tarn
 1 Sword of Fire and Ice
 4 Priest of Fell Rites
+1 Wooded Foothills
 2 Polluted Delta
 1 Island
+1 Dakkon, Shadow Slayer
 1 Teferi, Time Raveler
 1 Hallowed Fountain
 1 Watery Grave
 1 Flooded Strand
-1 Dakkon, Shadow Slayer
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
 1 Damn
@@ -95,6 +95,7 @@
 1 Kaya, Orzhov Usurper
 1 Indatha Triome
 2 Plains
+3 Graven Cairns
 1 Malakir Rebirth
 2 Malakir Rebirth
 2 Collective Brutality
@@ -103,7 +104,10 @@
 1 Snapcaster Mage
 2 Snapcaster Mage
 2 Damn
+1 Inspiring Vantage
 3 Kaya's Guile
+2 Wooded Foothills
+1 Profane Tutor
 1 Windswept Heath
 2 Flooded Strand
 3 Flooded Strand
@@ -115,24 +119,23 @@
 1 Vindicate
 1 Creeping Tar Pit
 4 Concealed Courtyard
-2 Kaya, Orzhov Usurper
 1 Dreadbore
+2 Kaya, Orzhov Usurper
 3 Polluted Delta
-3 Graven Cairns
 1 Fiery Islet
-1 Magmatic Channeler
-1 Bonecrusher Giant
 1 Blood Moon
-2 Bonecrusher Giant
+1 Bonecrusher Giant
+1 Magmatic Channeler
 2 Blood Moon
+2 Bonecrusher Giant
 2 Magmatic Channeler
+3 Blood Moon
 3 Magmatic Channeler
 3 Bonecrusher Giant
-3 Blood Moon
 4 Swamp
-4 Magmatic Channeler
 4 Polluted Delta
 4 Fatal Push
+4 Magmatic Channeler
 1 Mana Leak
 1 Geist of Saint Traft
 1 Sunken Ruins
@@ -140,12 +143,9 @@
 2 Mana Leak
 3 Geist of Saint Traft
 3 Snapcaster Mage
-1 Profane Tutor
 2 Silent Clearing
 3 Godless Shrine
 4 Godless Shrine
-1 Wooded Foothills
-2 Wooded Foothills
 1 Dark Confidant
 2 Dark Confidant
 3 Dark Confidant
@@ -168,7 +168,6 @@
 1 Overgrown Tomb
 1 Unearth
 1 Chandra, Torch of Defiance
-2 Snow-Covered Swamp
 1 Agadeem's Awakening
 1 Temur Battle Rage
 1 Dismember
@@ -180,19 +179,19 @@
 2 Imperial Recruiter
 3 Imperial Recruiter
 1 Hive of the Eye Tyrant
-1 Cling to Dust
 1 Castle Ardenvale
+1 Cling to Dust
 1 Glacial Fortress
 2 Cling to Dust
 2 Hallowed Fountain
 3 Drown in the Loch
-3 Silent Clearing
 1 Celestial Colonnade
 1 Supreme Verdict
 2 Timeless Dragon
 2 Supreme Verdict
 3 Vindicate
 3 Dakkon, Shadow Slayer
+3 Silent Clearing
 1 Search for Azcanta
 2 Search for Azcanta
 2 Creeping Tar Pit
@@ -217,3 +216,16 @@
 4 Tarmogoyf
 4 Kaya's Guile
 4 Dark Confidant
+1 Mox Amber
+1 Underworld Breach
+1 Grinding Station
+1 Grapeshot
+1 Engineered Explosives
+2 Underworld Breach
+2 Grinding Station
+2 Profane Tutor
+2 Mox Amber
+2 Engineered Explosives
+3 Grinding Station
+3 Underworld Breach
+4 Underworld Breach

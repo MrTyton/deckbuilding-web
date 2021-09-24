@@ -48,42 +48,41 @@
 |                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                     |              |
 |                    1|[Valakut Exploration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491820)        |                     |              |
 |                    1|[Varragoth, Bloodsky Sire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503726)   |                     |              |
-|                    2|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)              |                     |              |
 |                    2|Deserted Beach                                                                                        |                     |              |
 |                    2|[Alrund's Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503648)          |                     |              |
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                     |                     |              |
 |                    2|Hengegate Pathway                                                                                     |                     |              |
-|                    2|[Ashaya, Soul of the Wild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491824)   |                     |              |
-|                    2|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)        |                     |              |
-|                    2|Path to the Festival                                                                                  |                     |              |
+|                    2|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)              |                     |              |
 |                    2|[Evolving Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426944)             |                     |              |
+|                    2|[Ashaya, Soul of the Wild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491824)   |                     |              |
+|                    2|Path to the Festival                                                                                  |                     |              |
 |                    2|Rootcoil Creeper                                                                                      |                     |              |
-|                    2|Shipwreck Marsh                                                                                       |                     |              |
-|                    2|[Clearwater Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491913)         |                     |              |
-|                    2|Rockfall Vale                                                                                         |                     |              |
+|                    2|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)        |                     |              |
 |                    2|[Professor Onyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513560)             |                     |              |
+|                    2|Rockfall Vale                                                                                         |                     |              |
+|                    2|[Clearwater Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491913)         |                     |              |
 |                    2|[Koma, Cosmos Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503837)       |                     |              |
-|                    2|[Vorinclex, Monstrous Raider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503815)|                     |              |
 |                    2|[Hall of Storm Giants](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527544)       |                     |              |
-|                    2|[Shimmerdrift Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503887)          |                     |              |
-|                    2|[Nissa of Shadowed Boughs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491882)   |                     |              |
+|                    2|[Vorinclex, Monstrous Raider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503815)|                     |              |
 |                    2|[Emergent Sequence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513606)          |                     |              |
 |                    2|Memory Deluge                                                                                         |                     |              |
-|                    2|[Binding the Old Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503822)       |                     |              |
+|                    2|[Shimmerdrift Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503887)          |                     |              |
 |                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                      |                     |              |
-|                    2|[The Raven's Warning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503843)        |                     |              |
+|                    2|[Binding the Old Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503822)       |                     |              |
+|                    2|Shipwreck Marsh                                                                                       |                     |              |
 |                    2|[The World Tree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503895)             |                     |              |
+|                    2|[The Raven's Warning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503843)        |                     |              |
 |                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                   |                     |              |
 |                    2|[Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527453)                       |                     |              |
-|                    2|[Quandrix Cultivator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513710)        |                     |              |
 |                    2|[Path to the World Tree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503802)     |                     |              |
+|                    2|[Quandrix Cultivator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513710)        |                     |              |
 |                    2|[Riverglide Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491920)         |                     |              |
 |                    2|[Doomskar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503613)                   |                     |              |
-|                    2|Infernal Grasp                                                                                        |                     |              |
 |                    2|Fateful Absence                                                                                       |                     |              |
+|                    2|Infernal Grasp                                                                                        |                     |              |
 |                    2|[Cosmos Elixir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503853)              |                     |              |
-|                    2|[Shadows' Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491762)           |                     |              |
 |                    2|[Culling Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513664)             |                     |              |
+|                    2|[Shadows' Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491762)           |                     |              |
 |                    2|[Goldspan Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503751)            |                     |              |
 |                    2|[Bala Ged Recovery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491825)          |                     |              |
 |                    2|[Waking the Trolls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503850)          |                     |              |
@@ -92,6 +91,7 @@
 |                    2|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |              |
 |                    2|[Showdown of the Skalds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503845)     |                     |              |
 |                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                     |              |
+|                    2|[Nissa of Shadowed Boughs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491882)   |                     |              |
 |                    2|Wrenn and Seven                                                                                       |                     |              |
 |                    2|[Glittering Frost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503785)           |                     |              |
 |                    2|[Cragcrown Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491915)          |                     |              |
@@ -116,37 +116,35 @@
 |                    2|Reidane, God of the Worthy                                                                            |                     |              |
 |                    2|Valki, God of Lies                                                                                    |                     |              |
 |                    3|[Alrund's Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503648)          |                     |              |
-|                    3|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                      |                     |              |
 |                    3|Hengegate Pathway                                                                                     |                     |              |
-|                    3|Infernal Grasp                                                                                        |                     |              |
-|                    3|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)        |                     |              |
-|                    3|Path to the Festival                                                                                  |                     |              |
 |                    3|[Evolving Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426944)             |                     |              |
+|                    3|Path to the Festival                                                                                  |                     |              |
 |                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                     |                     |              |
 |                    3|[Hall of Storm Giants](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527544)       |                     |              |
 |                    3|Rootcoil Creeper                                                                                      |                     |              |
 |                    3|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                   |                     |              |
-|                    3|[Clearwater Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491913)         |                     |              |
+|                    3|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)        |                     |              |
+|                    3|Infernal Grasp                                                                                        |                     |              |
 |                    3|[Goldspan Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503751)            |                     |              |
-|                    3|[Binding the Old Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503822)       |                     |              |
-|                    3|[Shimmerdrift Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503887)          |                     |              |
+|                    3|[Clearwater Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491913)         |                     |              |
 |                    3|[Emergent Sequence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513606)          |                     |              |
-|                    3|[Nissa of Shadowed Boughs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491882)   |                     |              |
-|                    3|Fateful Absence                                                                                       |                     |              |
 |                    3|Memory Deluge                                                                                         |                     |              |
+|                    3|[Binding the Old Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503822)       |                     |              |
+|                    3|Fateful Absence                                                                                       |                     |              |
+|                    3|[Shimmerdrift Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503887)          |                     |              |
 |                    3|[The Raven's Warning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503843)        |                     |              |
 |                    3|[The World Tree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503895)             |                     |              |
-|                    3|[Quandrix Cultivator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513710)        |                     |              |
 |                    3|[Path to the World Tree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503802)     |                     |              |
-|                    3|[Ashaya, Soul of the Wild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491824)   |                     |              |
-|                    3|[Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527453)                       |                     |              |
 |                    3|[Riverglide Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491920)         |                     |              |
+|                    3|[Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527453)                       |                     |              |
+|                    3|[Quandrix Cultivator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513710)        |                     |              |
 |                    3|[Doomskar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503613)                   |                     |              |
 |                    3|[Shadows' Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491762)           |                     |              |
 |                    3|[Culling Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513664)             |                     |              |
 |                    3|[Branchloft Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491909)         |                     |              |
 |                    3|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)        |                     |              |
 |                    3|[Solve the Equation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513531)         |                     |              |
+|                    3|[Nissa of Shadowed Boughs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491882)   |                     |              |
 |                    3|[Treasure Vault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527548)             |                     |              |
 |                    3|Blightstep Pathway                                                                                    |                     |              |
 |                    3|[Showdown of the Skalds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503845)     |                     |              |
@@ -163,29 +161,29 @@
 |                    3|[Archway Commons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513755)            |                     |              |
 |                    3|[Skyclave Relic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491903)             |                     |              |
 |                    3|[Cragcrown Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491915)          |                     |              |
+|                    3|[Ashaya, Soul of the Wild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491824)   |                     |              |
 |                    3|[Jaspera Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503792)           |                     |              |
+|                    3|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                      |                     |              |
 |                    3|[Glittering Frost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503785)           |                     |              |
 |                    3|[Lotus Cobra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438740)                |                     |              |
 |                    3|[Cosmos Elixir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503853)              |                     |              |
-|                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                      |                     |              |
 |                    4|Hengegate Pathway                                                                                     |                     |              |
-|                    4|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)        |                     |              |
 |                    4|[Alrund's Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503648)          |                     |              |
 |                    4|Path to the Festival                                                                                  |                     |              |
 |                    4|[Evolving Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426944)             |                     |              |
-|                    4|[Doomskar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503613)                   |                     |              |
 |                    4|[Hall of Storm Giants](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527544)       |                     |              |
 |                    4|Rootcoil Creeper                                                                                      |                     |              |
-|                    4|[Clearwater Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491913)         |                     |              |
+|                    4|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)        |                     |              |
 |                    4|[Goldspan Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503751)            |                     |              |
+|                    4|[Clearwater Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491913)         |                     |              |
 |                    4|Infernal Grasp                                                                                        |                     |              |
-|                    4|[Shimmerdrift Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503887)          |                     |              |
 |                    4|[Emergent Sequence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513606)          |                     |              |
 |                    4|Memory Deluge                                                                                         |                     |              |
 |                    4|Fateful Absence                                                                                       |                     |              |
+|                    4|[Shimmerdrift Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503887)          |                     |              |
+|                    4|[Riverglide Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491920)         |                     |              |
 |                    4|[Quandrix Cultivator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513710)        |                     |              |
 |                    4|[The World Tree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503895)             |                     |              |
-|                    4|[Riverglide Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491920)         |                     |              |
 |                    4|[Culling Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513664)             |                     |              |
 |                    4|[Valakut Exploration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491820)        |                     |              |
 |                    4|[Treasure Vault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527548)             |                     |              |
@@ -199,11 +197,13 @@
 |                    4|[Archway Commons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513755)            |                     |              |
 |                    4|Diregraf Rebirth                                                                                      |                     |              |
 |                    4|[Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527453)                       |                     |              |
+|                    4|[Doomskar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503613)                   |                     |              |
 |                    4|[Jaspera Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503792)           |                     |              |
 |                    4|[Varragoth, Bloodsky Sire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503726)   |                     |              |
 |                    4|[Showdown of the Skalds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503845)     |                     |              |
 |                    4|[Path to the World Tree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503802)     |                     |              |
 |                    4|[Binding the Old Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503822)       |                     |              |
+|                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                      |                     |              |
 |                    4|[Glittering Frost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503785)           |                     |              |
 |                    4|[Cragcrown Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491915)          |                     |              |
 |                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                     |              |
@@ -211,8 +211,8 @@
 |                    4|[Branchloft Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491909)         |                     |              |
 |                    4|Blightstep Pathway                                                                                    |                     |              |
 |                    4|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)        |                     |              |
-|                    5|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                      |                     |              |
 |                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                     |              |
+|                    5|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                      |                     |              |
 |                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                     |              |
 |                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                     |              |
 

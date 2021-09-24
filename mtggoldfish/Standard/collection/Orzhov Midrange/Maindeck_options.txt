@@ -1,20 +1,20 @@
-1 Village Rites
 1 Shatterskull Smashing
-2 Immersturm Predator
-2 Graveyard Trespasser
+1 Village Rites
 2 Agadeem's Awakening
-2 Warlock Class
-2 Village Rites
 2 Mountain
+2 Warlock Class
+2 Graveyard Trespasser
+2 Village Rites
+2 Immersturm Predator
 3 Infernal Grasp
-3 Graveyard Trespasser
-3 Immersturm Predator
-3 Village Rites
 3 Mountain
+3 Immersturm Predator
+3 Graveyard Trespasser
+3 Village Rites
+4 Mountain
 4 Village Rites
 4 Immersturm Predator
 4 Jadar, Ghoulcaller of Nephalia
-4 Mountain
 2 Hive of the Eye Tyrant
 1 The Meathook Massacre
 3 Faceless Haven
@@ -29,9 +29,9 @@
 2 Soul Shatter
 2 Hunt for Specimens
 3 Hunt for Specimens
+4 Hunt for Specimens
 4 Faceless Haven
 4 Lolth, Spider Queen
-4 Hunt for Specimens
 10 Snow-Covered Swamp
 11 Snow-Covered Swamp
 12 Snow-Covered Swamp
@@ -39,34 +39,34 @@
 14 Snow-Covered Swamp
 15 Snow-Covered Swamp
 16 Snow-Covered Swamp
+1 Liesa, Forgotten Archangel
 1 Emeria's Call
 1 Vanishing Verse
-1 Liesa, Forgotten Archangel
 2 Emeria's Call
 2 Vanishing Verse
 3 Vanishing Verse
 1 Cave of the Frost Dragon
 1 Shineshadow Snarl
-1 Righteous Valkyrie
 1 Firja's Retribution
+1 Righteous Valkyrie
 1 Youthful Valkyrie
 1 Fateful Absence
-2 Righteous Valkyrie
 2 Firja's Retribution
 2 Liesa, Forgotten Archangel
-2 Youthful Valkyrie
+2 Righteous Valkyrie
 2 Fateful Absence
-3 Righteous Valkyrie
+2 Youthful Valkyrie
 3 Firja's Retribution
+3 Righteous Valkyrie
 3 Youthful Valkyrie
 3 Liesa, Forgotten Archangel
-4 Righteous Valkyrie
 4 Firja's Retribution
+4 Righteous Valkyrie
 4 Youthful Valkyrie
-1 Snow-Covered Plains
 1 Elite Spellbinder
-2 Snow-Covered Plains
+1 Snow-Covered Plains
 2 Elite Spellbinder
+2 Snow-Covered Plains
 3 Elite Spellbinder
 3 Snow-Covered Plains
 4 Snow-Covered Plains
@@ -76,27 +76,27 @@
 1 Starnheim Unleashed
 2 Starnheim Unleashed
 3 Emeria's Call
-3 Starnheim Unleashed
 3 Fateful Absence
+3 Starnheim Unleashed
 4 Starnheim Unleashed
-1 Skyclave Apparition
 1 Enduring Angel
+1 Skyclave Apparition
 1 Plains
-2 Plains
 2 Skyclave Apparition
-3 Plains
+2 Plains
 3 Skyclave Apparition
+3 Plains
 4 Swamp
 4 Plains
-5 Plains
 5 Swamp
+5 Plains
 6 Plains
 7 Plains
 8 Plains
 9 Plains
+1 Legion Angel
 1 Kaya the Inexorable
 1 Rampage of the Valkyries
-1 Legion Angel
 2 Kaya the Inexorable
 2 Rampage of the Valkyries
 1 Ebondeath, Dracolich
@@ -109,59 +109,68 @@
 3 Shineshadow Snarl
 4 Skyclave Apparition
 4 Fateful Absence
-1 Kalain, Reclusive Painter
-1 Showdown of the Skalds
-1 Fireblade Charger
-1 Orcus, Prince of Undeath
-1 Needleverge Pathway
-1 Den of the Bugbear
-2 Den of the Bugbear
-2 Kalain, Reclusive Painter
-2 Showdown of the Skalds
-2 Fireblade Charger
-2 Orcus, Prince of Undeath
-2 Needleverge Pathway
-3 Kalain, Reclusive Painter
-3 Hive of the Eye Tyrant
-3 Showdown of the Skalds
-3 Fireblade Charger
-3 Extus, Oriq Overlord
-3 Needleverge Pathway
-4 Showdown of the Skalds
-4 Hive of the Eye Tyrant
-4 Fireblade Charger
-4 Extus, Oriq Overlord
-4 Needleverge Pathway
 1 Tangled Florahedron
-1 Darkbore Pathway
-1 Binding the Old Gods
-1 Woodland Chasm
-1 Esika's Chariot
+1 Field of Ruin
 1 Skyclave Shade
 1 Wrenn and Seven
+1 Darkbore Pathway
+1 Woodland Chasm
+1 Binding the Old Gods
 1 Snow-Covered Forest
 1 Bloodchief's Thirst
-1 Field of Ruin
 1 Ranger Class
+1 Esika's Chariot
+2 Wrenn and Seven
 2 Tangled Florahedron
 2 Field of Ruin
-2 Darkbore Pathway
-2 Binding the Old Gods
-2 Esika's Chariot
-2 Wrenn and Seven
 2 Skyclave Shade
+2 Binding the Old Gods
 2 Bloodchief's Thirst
 2 Woodland Chasm
 2 Ranger Class
+2 Darkbore Pathway
+2 Esika's Chariot
 2 Snow-Covered Forest
-3 Darkbore Pathway
-3 Binding the Old Gods
-3 Esika's Chariot
 3 Skyclave Shade
+3 Darkbore Pathway
+3 Esika's Chariot
 3 Woodland Chasm
 3 Snow-Covered Forest
+3 Binding the Old Gods
 4 Darkbore Pathway
 4 Woodland Chasm
+1 Den of the Bugbear
+1 Fireblade Charger
+1 Showdown of the Skalds
+1 Orcus, Prince of Undeath
+1 Needleverge Pathway
+1 Kalain, Reclusive Painter
+2 Den of the Bugbear
+2 Kalain, Reclusive Painter
+2 Orcus, Prince of Undeath
+2 Fireblade Charger
+2 Showdown of the Skalds
+2 Needleverge Pathway
+3 Hive of the Eye Tyrant
+3 Kalain, Reclusive Painter
+3 Needleverge Pathway
+3 Fireblade Charger
+3 Extus, Oriq Overlord
+3 Showdown of the Skalds
+4 Needleverge Pathway
+4 Fireblade Charger
+4 Showdown of the Skalds
+4 Hive of the Eye Tyrant
+4 Extus, Oriq Overlord
+1 Ambitious Farmhand
+2 Ambitious Farmhand
+2 Legion Angel
+2 Enduring Angel
+3 Ambitious Farmhand
+4 Ambitious Farmhand
+6 Swamp
+7 Swamp
+10 Plains
 1 Snowfield Sinkhole
 2 Snowfield Sinkhole
 3 Snowfield Sinkhole
@@ -169,12 +178,3 @@
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
-1 Ambitious Farmhand
-2 Ambitious Farmhand
-2 Legion Angel
-2 Enduring Angel
-3 Ambitious Farmhand
-6 Swamp
-7 Swamp
-10 Plains
-4 Ambitious Farmhand

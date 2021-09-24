@@ -4,22 +4,22 @@
 2 Forest
 3 Windswept Heath
 4 Windswept Heath
-1 Solitude
 1 Kiki-Jiki, Mirror Breaker
-1 Wall of Omens
+1 Solitude
 1 Eternal Witness
+1 Wall of Omens
 1 Ephemerate
 1 Skyclave Apparition
 1 Magus of the Moon
 1 Chord of Calling
 1 Restoration Angel
-2 Ephemerate
-2 Solitude
 2 Wall of Omens
+2 Solitude
 2 Chord of Calling
+2 Ephemerate
 2 Restoration Angel
-3 Ephemerate
 3 Solitude
+3 Ephemerate
 3 Chord of Calling
 4 Solitude
 4 Chord of Calling
@@ -297,10 +297,6 @@
 1 Progenitus
 1 Waterlogged Grove
 1 Hexdrinker
-1 Temur Battle Rage
-1 Scorching Dragonfire
-2 Temur Battle Rage
-2 Scorching Dragonfire
 1 Shambleshark
 1 Niv-Mizzet Reborn
 2 Shambleshark
@@ -311,14 +307,18 @@
 1 Temple of Epiphany
 2 Scavenger Grounds
 2 Temple of Epiphany
+1 Temur Battle Rage
+1 Scorching Dragonfire
+2 Temur Battle Rage
+2 Scorching Dragonfire
 1 Archon of Cruelty
 1 Acererak the Archlich
+2 Archon of Cruelty
 2 Endurance
 2 Acererak the Archlich
-2 Archon of Cruelty
-3 Acererak the Archlich
 3 Archon of Cruelty
 3 Omniscience
+3 Acererak the Archlich
 3 Academy Manufactor
 4 Academy Manufactor
 1 Ghor-Clan Rampager

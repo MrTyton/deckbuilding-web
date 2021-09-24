@@ -1,0 +1,22 @@
+# B
+
+#### [Export MTGO List](../collection/B/B.txt)
+#### [Export Arena List](../collection/B/B_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Champion%20of%20the%20Perished%0A1%09Draugr's%20Helm%0A4%09Dungeon%20Crawler%0A4%09Ebondeath,%20Dracolich%0A4%09Faceless%20Haven%0A4%09Flunk%0A3%09Lolth,%20Spider%20Queen%0A4%09Poison%20the%20Cup%0A4%09Power%20Word%20Kill%0A4%09Skyclave%20Shade%0A20%09Snow-Covered%20Swamp%0A4%09Wight&deckside=2%09Bloodline%20Culling%0A3%09Duress%0A4%09Go%20Blank%0A2%09Mortality%20Spear%0A4%09Ray%20of%20Enfeeblement)
+# Maindeck
+
+|                                       Artifact (1)                                       |                                          Creature (16)                                          |                                        Instant (12)                                        |                                           Land (24)                                            |                                        Planeswalker (3)                                        |       Unknown (4)        |
+|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------|
+|1 [Draugr's Helm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503696)|4 [Dungeon Crawler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527386)     |4 [Flunk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513548)          |4 [Faceless Haven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503874)     |3 [Lolth, Spider Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527399)|4 Champion of the Perished|
+|                                                                                          |4 [Ebondeath, Dracolich](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527387)|4 [Poison the Cup](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503712) |20 [Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                                                                                                |                          |
+|                                                                                          |4 [Skyclave Shade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491763)      |4 [Power Word Kill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527401)|                                                                                                |                                                                                                |                          |
+|                                                                                          |4 [Wight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527414)               |                                                                                            |                                                                                                |                                                                                                |                          |
+
+
+# Sideboard
+
+|                                          Instant (6)                                           |                                     Sorcery (7)                                     |    Unknown (2)    |
+|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------|
+|2 [Mortality Spear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513699)    |3 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)   |2 Bloodline Culling|
+|4 [Ray of Enfeeblement](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527403)|4 [Go Blank](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513549)|                   |
+

@@ -26,32 +26,32 @@
 1 Sungold Sentinel
 2 Sungold Sentinel
 3 Sungold Sentinel
+1 Brightclimb Pathway
+1 Silverquill Command
+1 Tainted Adversary
+1 Firja's Retribution
 1 Swamp
 1 Hive of the Eye Tyrant
 1 Shineshadow Snarl
-1 Brightclimb Pathway
 1 Snowfield Sinkhole
-1 Firja's Retribution
-1 Tainted Adversary
-1 Silverquill Command
-2 Hive of the Eye Tyrant
-2 Swamp
 2 Brightclimb Pathway
-2 Shineshadow Snarl
-2 Firja's Retribution
-2 Snowfield Sinkhole
 2 Tainted Adversary
+2 Firja's Retribution
+2 Swamp
 2 Silverquill Command
-3 Swamp
+2 Hive of the Eye Tyrant
+2 Shineshadow Snarl
+2 Snowfield Sinkhole
 3 Brightclimb Pathway
-3 Firja's Retribution
 3 Shineshadow Snarl
 3 Tainted Adversary
-4 Swamp
+3 Firja's Retribution
+3 Swamp
 4 Brightclimb Pathway
+4 Shineshadow Snarl
+4 Swamp
 4 Firja's Retribution
 4 Tainted Adversary
-4 Shineshadow Snarl
 1 Loyal Warhound
 2 Loyal Warhound
 1 Codespell Cleric
@@ -83,63 +83,66 @@
 4 Guiding Voice
 1 Ambitious Farmhand
 2 Ambitious Farmhand
-1 Icingdeath, Frost Tyrant
 1 Emeria's Call
-2 Emeria's Call
+1 Icingdeath, Frost Tyrant
 2 Icingdeath, Frost Tyrant
+2 Emeria's Call
 3 Kabira Takedown
 3 Loyal Warhound
 4 Loyal Warhound
-3 Silverquill Command
-4 Silverquill Command
-1 Battlefield Raptor
 1 Beaming Defiance
+1 Battlefield Raptor
 1 Kitesail Cleric
 2 Kitesail Cleric
 2 Battlefield Raptor
 3 Battlefield Raptor
 4 Battlefield Raptor
-1 Branchloft Pathway
-1 Overgrown Farmland
+3 Silverquill Command
+4 Silverquill Command
+1 Forest
 1 Inscription of Abundance
 1 Sejiri Shelter
 1 Dragonsguard Elite
 1 Lair of the Hydra
 1 Snakeskin Veil
+1 Branchloft Pathway
 1 Leonin Lightscribe
 1 Mage Duel
 1 Charge Through
 1 Clever Lumimancer
 1 Mavinda, Students' Advocate
-1 Forest
-2 Branchloft Pathway
-2 Overgrown Farmland
+1 Overgrown Farmland
+2 Forest
 2 Inscription of Abundance
 2 Sejiri Shelter
 2 Charge Through
 2 Leonin Lightscribe
 2 Mavinda, Students' Advocate
 2 Dragonsguard Elite
-2 Forest
 2 Snakeskin Veil
+2 Overgrown Farmland
+2 Branchloft Pathway
 2 Mage Duel
 2 Clever Lumimancer
+3 Forest
 3 Branchloft Pathway
 3 Overgrown Farmland
-3 Snakeskin Veil
 3 Leonin Lightscribe
 3 Charge Through
 3 Mavinda, Students' Advocate
-3 Forest
+3 Snakeskin Veil
 3 Dragonsguard Elite
 3 Clever Lumimancer
-4 Branchloft Pathway
-4 Overgrown Farmland
-4 Snakeskin Veil
 4 Charge Through
 4 Dragonsguard Elite
+4 Snakeskin Veil
+4 Overgrown Farmland
 4 Clever Lumimancer
 4 Leonin Lightscribe
+4 Branchloft Pathway
+1 Liesa, Forgotten Archangel
+2 Liesa, Forgotten Archangel
+4 Sungold Sentinel
 1 Reidane, God of the Worthy
 2 Reidane, God of the Worthy
 3 Reidane, God of the Worthy
@@ -147,12 +150,9 @@
 18 Plains
 1 Fateful Absence
 2 Fateful Absence
-3 Maul of the Skyclaves
 3 Adeline, Resplendent Cathar
+3 Maul of the Skyclaves
 3 Fateful Absence
 4 Maul of the Skyclaves
 18 Snow-Covered Plains
 19 Snow-Covered Plains
-1 Liesa, Forgotten Archangel
-2 Liesa, Forgotten Archangel
-4 Sungold Sentinel

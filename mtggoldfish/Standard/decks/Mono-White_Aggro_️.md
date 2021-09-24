@@ -27,10 +27,10 @@
 |*n*<sup>th</sup> copy|  Maindeck Card   |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|------------------|--------------------:|---------------------------------------------------------------------------------------------|
 |                    4|Sigarda's Splendor|                    1|[Dawnbringer Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527296)|
+|                     |                  |                    1|Sunset Revelry                                                                               |
 |                     |                  |                    2|[Dawnbringer Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527296)|
 |                     |                  |                    2|Sunset Revelry                                                                               |
 |                     |                  |                    3|Sunset Revelry                                                                               |
 |                     |                  |                    4|[Felidar Retreat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491638)   |
 |                     |                  |                    4|Sunset Revelry                                                                               |
-|                     |                  |                    1|Sunset Revelry                                                                               |
 

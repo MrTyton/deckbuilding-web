@@ -53,15 +53,15 @@
 3 Hallowed Fountain
 1 Hengegate Pathway
 2 Hengegate Pathway
-1 Torrential Gearhulk
-2 Torrential Gearhulk
-4 Dragon's Fire
 1 Shark Typhoon
 2 Shark Typhoon
 4 Hall of Storm Giants
+1 Torrential Gearhulk
+2 Torrential Gearhulk
+4 Dragon's Fire
 1 Unexpected Windfall
-1 Curate
 1 Fiery Impulse
+1 Curate
 1 Needleverge Pathway
 1 Seize the Spoils
 1 Lore Drakkis
@@ -101,11 +101,11 @@
 1 Chained to the Rocks
 1 Mana Confluence
 1 Plains
-2 Galazeth Prismari
 2 Mana Confluence
 2 Deafening Clarion
 2 Dovin's Veto
 2 Chained to the Rocks
+2 Galazeth Prismari
 3 Glacial Fortress
 3 Prismari Command
 3 Chained to the Rocks
@@ -122,8 +122,8 @@
 1 Jeskai Ascendancy
 1 Retraction Helix
 1 Inspiring Vantage
-2 Mox Amber
 2 Jace, Vryn's Prodigy
+2 Mox Amber
 2 Saheeli, Sublime Artificer
 2 Portable Hole
 2 Jeskai Ascendancy
@@ -131,13 +131,13 @@
 2 Retraction Helix
 2 Emry, Lurker of the Loch
 2 Terrarion
-3 Emry, Lurker of the Loch
 3 Retraction Helix
 3 Jace, Vryn's Prodigy
 3 Mox Amber
 3 Saheeli, Sublime Artificer
 3 Terrarion
 3 Portable Hole
+3 Emry, Lurker of the Loch
 3 Jeskai Ascendancy
 4 Dig Through Time
 4 Hallowed Fountain

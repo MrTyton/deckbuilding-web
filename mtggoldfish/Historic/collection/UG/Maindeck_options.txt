@@ -50,59 +50,48 @@
 5 Forest
 1 Archmage's Charm
 2 Archmage's Charm
+1 Torrential Gearhulk
 1 Steam Vents
 1 Magma Opus
-1 Torrential Gearhulk
 2 Torrential Gearhulk
 2 Magma Opus
 3 Torrential Gearhulk
+2 Steam Vents
+3 Steam Vents
 1 Ketria Triome
 1 Stomping Ground
 2 Ketria Triome
 3 Ketria Triome
 3 Magma Opus
-4 Ketria Triome
 4 Magma Opus
-2 Steam Vents
-3 Steam Vents
+4 Ketria Triome
 4 Torrential Gearhulk
-1 Unholy Heat
 1 Expressive Iteration
-2 Unholy Heat
 4 Steam Vents
+1 Unholy Heat
+2 Unholy Heat
 1 Riverglide Pathway
 2 Riverglide Pathway
-1 Sulfur Falls
-2 Sulfur Falls
-3 Archmage's Charm
-4 Archmage's Charm
 1 Spirebluff Canal
 2 Spirebluff Canal
-3 Unholy Heat
 1 Sweltering Suns
-1 Portable Hole
 1 Valakut Awakening
 1 Raugrin Triome
 1 Stifle
 1 Irrigated Farmland
 1 Needleverge Pathway
 1 Blood Sun
-1 Inspiring Vantage
-1 Jwari Ruins
 1 Lightning Helix
 1 Teferi, Hero of Dominaria
-1 Tale's End
 1 Lotus Field
+1 Tale's End
 1 Hengegate Pathway
 1 Commit/Memory
-2 Portable Hole
 2 Raugrin Triome
 2 Irrigated Farmland
 2 Blood Sun
-2 Jwari Ruins
 2 Valakut Awakening
 2 Teferi, Hero of Dominaria
-2 Hengegate Pathway
 2 Stifle
 2 Lotus Field
 3 Raugrin Triome
@@ -114,10 +103,22 @@
 4 Blood Sun
 4 Lotus Field
 2 Sweltering Suns
+3 Unholy Heat
+1 Portable Hole
+1 Inspiring Vantage
+1 Jwari Ruins
+2 Portable Hole
+2 Jwari Ruins
+2 Hengegate Pathway
+1 Sulfur Falls
+2 Sulfur Falls
+3 Archmage's Charm
+4 Archmage's Charm
 6 Island
 2 Expressive Iteration
 3 Expressive Iteration
 4 Expressive Iteration
+2 Commit/Memory
 2 Mistcaller
 3 Sulfur Falls
 4 Sulfur Falls
@@ -129,13 +130,14 @@
 2 Shifting Ceratops
 3 Shifting Ceratops
 4 Shifting Ceratops
-2 Commit/Memory
 7 Island
 8 Island
 3 Mistcaller
 4 Mistcaller
 2 Stomping Ground
 3 Stomping Ground
+3 Spirebluff Canal
+4 Spirebluff Canal
 3 Riverglide Pathway
 4 Riverglide Pathway
 1 Realmwalker
@@ -151,8 +153,8 @@
 4 Rewind
 1 Prismari Command
 2 Prismari Command
-3 Spirebluff Canal
-4 Spirebluff Canal
+1 Pact of Negation
+3 Stifle
 4 Nissa, Who Shakes the World
 1 Masked Vandal
 2 Masked Vandal
@@ -175,9 +177,15 @@
 2 Stern Dismissal
 2 Temple of Mystery
 3 Fabled Passage
+1 Jwari Disruption
+1 Anger of the Gods
+1 Narset, Parter of Veils
+2 Jwari Disruption
+2 Lightning Helix
+2 Narset, Parter of Veils
+3 Lightning Helix
+3 Commit/Memory
 3 Castle Vantress
-1 Pact of Negation
-3 Stifle
 1 Merfolk Windrobber
 2 Merfolk Windrobber
 3 Glasspool Mimic
