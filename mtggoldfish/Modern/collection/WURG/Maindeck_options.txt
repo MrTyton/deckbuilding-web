@@ -1,7 +1,10 @@
-1 Verdant Catacombs
+4 Omnath, Locus of Creation
+1 Arid Mesa
 1 Raugrin Triome
+1 Verdant Catacombs
 2 Windswept Heath
 2 Forest
+2 Flooded Strand
 3 Windswept Heath
 4 Windswept Heath
 1 Kiki-Jiki, Mirror Breaker
@@ -23,7 +26,6 @@
 3 Chord of Calling
 4 Solitude
 4 Chord of Calling
-2 Flooded Strand
 1 Wall of Blossoms
 2 Wall of Blossoms
 1 Utopia Sprawl
@@ -32,14 +34,12 @@
 1 Sunbaked Canyon
 3 Utopia Sprawl
 4 Utopia Sprawl
-1 Fury
+2 Fury
+3 Scalding Tarn
 1 Prismatic Vista
 3 Wall of Blossoms
 3 Wall of Omens
 4 Ephemerate
-4 Chancellor of the Forge
-3 Scalding Tarn
-2 Fury
 1 Ketria Triome
 1 Scion of Draco
 2 Scion of Draco
@@ -82,11 +82,11 @@
 1 Prismatic Ending
 1 Deputy of Detention
 1 Indatha Triome
+3 Fury
 1 Drannith Magistrate
 2 Prismatic Ending
 2 Eternal Witness
 2 Mountain
-3 Fury
 1 Gemstone Mine
 1 Noble Hierarch
 2 Wrenn and Six
@@ -126,9 +126,9 @@
 1 Eidolon of Rhetoric
 3 Ragavan, Nimble Pilferer
 1 Horizon Canopy
+2 Gemstone Caverns
 3 Lightning Helix
 4 Ragavan, Nimble Pilferer
-2 Gemstone Caverns
 1 Emrakul, the Aeons Torn
 3 Gemstone Caverns
 3 Mountain
@@ -317,8 +317,8 @@
 2 Endurance
 2 Acererak the Archlich
 3 Archon of Cruelty
-3 Omniscience
 3 Acererak the Archlich
+3 Omniscience
 3 Academy Manufactor
 4 Academy Manufactor
 1 Ghor-Clan Rampager
