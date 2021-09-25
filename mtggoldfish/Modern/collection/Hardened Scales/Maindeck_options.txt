@@ -1,15 +1,16 @@
 3 Ingenious Smith
 1 Plains
 4 Arcbound Worker
-3 Forest
 1 Sacred Foundry
 3 Llanowar Reborn
 1 Spire of Industry
 4 Ingenious Smith
+3 Forest
 4 Llanowar Reborn
 2 Plains
 4 Ancient Stirrings
 1 Basilisk Collar
+2 Spire of Industry
 1 Windswept Heath
 1 Temple Garden
 2 Windswept Heath
@@ -30,15 +31,14 @@
 2 Brushland
 3 Brushland
 4 Brushland
-2 Spire of Industry
 1 Arid Mesa
 1 Idyllic Grange
 2 Arid Mesa
 2 Idyllic Grange
-1 Urborg, Tomb of Yawgmoth
 1 Horizon Canopy
 1 Arcbound Mouser
 2 Arcbound Mouser
+1 Urborg, Tomb of Yawgmoth
 4 Welding Jar
 3 Arid Mesa
 3 Temple Garden
@@ -48,6 +48,9 @@
 1 Blinkmoth Nexus
 2 Horizon Canopy
 1 Expedition Map
+1 Steel Overseer
+1 Wooded Bastion
+2 Steel Overseer
 1 Arcbound Javelineer
 2 Arcbound Javelineer
 3 Arcbound Javelineer
@@ -60,10 +63,6 @@
 1 Power Depot
 2 Power Depot
 4 Forest
-1 Vines of Vastwood
-1 Steel Overseer
-1 Wooded Bastion
-2 Steel Overseer
 1 Karplusan Forest
 2 Karplusan Forest
 3 Karplusan Forest

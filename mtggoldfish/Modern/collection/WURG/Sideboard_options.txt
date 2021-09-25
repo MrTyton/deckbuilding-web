@@ -2,12 +2,6 @@
 3 Teferi, Time Raveler
 3 Leyline of the Void
 4 Leyline of the Void
-2 Fury
-3 Fury
-4 Teferi, Time Raveler
-1 Yorion, Sky Nomad
-1 Veil of Summer
-2 Veil of Summer
 1 Consign/Oblivion
 1 Boseiju, Who Shelters All
 1 Nephalia Academy
@@ -22,27 +16,35 @@
 3 Rough/Tumble
 4 Consign/Oblivion
 4 Rough/Tumble
-2 Brazen Borrower
+1 Yorion, Sky Nomad
+4 Teferi, Time Raveler
+1 Veil of Summer
+2 Veil of Summer
+2 Fury
+3 Fury
 3 Force of Vigor
 1 Rest in Peace
 2 Rest in Peace
-1 Lightning Bolt
 1 Chalice of the Void
 2 Chalice of the Void
-3 Leyline of Sanctity
+2 Brazen Borrower
+1 Lightning Bolt
 1 Endurance
 1 Prismatic Ending
+3 Leyline of Sanctity
 1 Path to Exile
 2 Lightning Bolt
 3 Rest in Peace
 4 Force of Vigor
+1 Alpine Moon
 1 Detention Sphere
 1 Blood Moon
+1 Unholy Heat
+3 Chalice of the Void
 1 Obsidian Charmaw
 2 Obsidian Charmaw
-1 Unholy Heat
-1 Alpine Moon
 2 Path to Exile
+2 Alpine Moon
 1 Jegantha, the Wellspring
 1 Cindervines
 3 Path to Exile
@@ -51,32 +53,30 @@
 1 Gaddock Teeg
 2 Gaddock Teeg
 2 Lightning Helix
-1 Lavinia, Azorius Renegade
-2 Alpine Moon
-3 Chalice of the Void
+1 Keruga, the Macrosage
 4 Path to Exile
+1 Lavinia, Azorius Renegade
 1 Emrakul, the Aeons Torn
 4 Fury
 2 Blood Moon
-1 Eternal Witness
-3 Lightning Bolt
-2 Prismatic Ending
-1 Ingot Chewer
-3 Veil of Summer
 2 Endurance
-2 Lavinia, Azorius Renegade
-1 Keruga, the Macrosage
+1 Eternal Witness
+2 Prismatic Ending
+3 Lightning Bolt
+3 Veil of Summer
+1 Ingot Chewer
 3 Foundation Breaker
 3 Alpine Moon
 1 Cursed Totem
 2 Cursed Totem
 3 Cursed Totem
+2 Lavinia, Azorius Renegade
 2 Ingot Chewer
 3 Ingot Chewer
-1 Knight of Autumn
 1 Stony Silence
 1 Blast Zone
 1 Goblin Cratermaker
+1 Knight of Autumn
 1 Cleansing Wildfire
 2 Cleansing Wildfire
 3 Cleansing Wildfire
@@ -108,29 +108,27 @@
 4 Chalice of the Void
 1 Avalanche Riders
 3 Obsidian Charmaw
-1 Burrenton Forge-Tender
-1 Archangel Avacyn
 1 Scavenging Ooze
+1 Burrenton Forge-Tender
 1 Linvala, Keeper of Silence
+1 Archangel Avacyn
 1 Selfless Spirit
 4 Prismatic Ending
 1 Celestial Purge
 1 Fae of Wishes
 1 Drannith Magistrate
-1 Kor Firewalker
-2 Kor Firewalker
-1 Ancient Grudge
-3 Endurance
 1 Akroma, Angel of Fury
 2 Akroma, Angel of Fury
+3 Endurance
+1 Ancient Grudge
 1 Flusterstorm
 1 Natural State
 1 Weather the Storm
 2 Weather the Storm
 1 Soul-Guide Lantern
-2 Knight of Autumn
+1 Kor Firewalker
+2 Kor Firewalker
 1 Omnath, Locus of Creation
-1 Phyrexian Revoker
 1 Mistcaller
 1 Iona, Shield of Emeria
 1 Scavenger Grounds
@@ -138,9 +136,10 @@
 1 Kozilek, Butcher of Truth
 1 Ulamog, the Infinite Gyre
 1 Tormod's Crypt
+1 Phyrexian Revoker
 1 Mantis Rider
-1 Declaration in Stone
 1 Dusk/Dawn
+1 Declaration in Stone
 1 Yasharn, Implacable Earth
 1 Chancellor of the Forge
 1 Birds of Paradise
@@ -152,27 +151,27 @@
 1 Engineered Explosives
 1 Abrade
 2 Engineered Explosives
-1 Nihil Spellbomb
-2 Nihil Spellbomb
 1 Sword of Fire and Ice
 2 Drannith Magistrate
+1 Wall of Omens
+1 Cavern of Souls
+1 Broken Wings
+2 Broken Wings
 1 Kolaghan's Command
 1 Abrupt Decay
 1 Relic of Progenitus
 1 Wheel of Sun and Moon
 1 Ashiok, Dream Render
 2 Abrupt Decay
-2 Relic of Progenitus
 2 Ashiok, Dream Render
+2 Relic of Progenitus
+1 Nihil Spellbomb
+2 Nihil Spellbomb
 1 Assassin's Trophy
 2 Assassin's Trophy
-1 Thalia, Guardian of Thraben
-1 Deafening Silence
-1 Torpor Orb
-1 Sanctifier en-Vec
-2 Sanctifier en-Vec
 1 Anafenza, the Foremost
 2 Geist of Saint Traft
+2 Knight of Autumn
 2 Anafenza, the Foremost
 2 Jegantha, the Wellspring
 1 Sanctum Prelate
@@ -222,5 +221,5 @@
 2 Deflecting Palm
 3 Stubborn Denial
 3 Destructive Revelry
-4 Destructive Revelry
 4 Stubborn Denial
+4 Destructive Revelry

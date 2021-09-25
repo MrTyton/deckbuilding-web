@@ -5,8 +5,8 @@
 4 Dragon's Rage Channeler
 1 Prismatic Vista
 1 Dismember
-1 Cavern of Souls
 1 Chalice of the Void
+1 Cavern of Souls
 1 Reality Smasher
 1 Wastes
 1 Eldrazi Temple
@@ -36,38 +36,39 @@
 4 Ramunap Ruins
 2 Prismatic Vista
 3 Prismatic Vista
+3 Dismember
+1 Abrade
 1 Eldrazi Obligator
 2 Eldrazi Obligator
-3 Dismember
 3 Eldrazi Obligator
 4 Eldrazi Obligator
 2 Matter Reshaper
 3 Matter Reshaper
 4 Matter Reshaper
+3 Cavern of Souls
+4 Prismatic Vista
 1 Unholy Heat
 2 Unholy Heat
 3 Unholy Heat
-1 Firebolt
-2 Firebolt
-1 Bloodstained Mire
 2 Wooded Foothills
-3 Cavern of Souls
-1 Abrade
-4 Prismatic Vista
-3 Firebolt
-1 Scalding Tarn
-1 Arid Mesa
-12 Mountain
-4 Unholy Heat
 1 Relic of Progenitus
 2 Relic of Progenitus
 3 Relic of Progenitus
 4 Relic of Progenitus
+1 Firebolt
+2 Firebolt
+1 Bloodstained Mire
+1 Scalding Tarn
+1 Arid Mesa
+12 Mountain
+4 Unholy Heat
+3 Firebolt
 3 Wooded Foothills
 2 Wastes
-4 Firebolt
 13 Mountain
+1 Magus of the Moon
 4 Wooded Foothills
+4 Firebolt
 2 Arid Mesa
 1 Radiant Fountain
 2 Radiant Fountain
@@ -75,7 +76,6 @@
 4 Radiant Fountain
 14 Mountain
 15 Mountain
-1 Magus of the Moon
 2 Magus of the Moon
 3 Magus of the Moon
 1 Soul-Scar Mage
@@ -97,26 +97,28 @@
 1 Pillage
 2 Pillage
 4 Magus of the Moon
+1 Sulfurous Springs
 2 Scalding Tarn
 1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
-2 Bloodstained Mire
-3 Bloodstained Mire
-4 Bloodstained Mire
 1 Lava Dart
 1 Monastery Swiftspear
 2 Lava Dart
 2 Monastery Swiftspear
-3 Lava Dart
 3 Monastery Swiftspear
-4 Lava Dart
-4 Monastery Swiftspear
+3 Lava Dart
 4 Light Up the Stage
-4 Dismember
+4 Monastery Swiftspear
+4 Lava Dart
 1 Fiery Islet
 2 Fiery Islet
-1 Sulfurous Springs
+3 Fiery Islet
+4 Fiery Islet
+4 Dismember
+2 Bloodstained Mire
+3 Bloodstained Mire
+4 Bloodstained Mire
 1 Stomping Ground
 1 Klothys, God of Destiny
 2 Klothys, God of Destiny
@@ -130,8 +132,6 @@
 2 Hazoret the Fervent
 3 Scalding Tarn
 4 Scalding Tarn
-3 Fiery Islet
-4 Fiery Islet
 1 Snow-Covered Forest
 1 Snow-Covered Mountain
 1 Utopia Sprawl
@@ -147,22 +147,22 @@
 4 Arid Mesa
 1 Windswept Heath
 1 Ignoble Hierarch
-1 Verdant Catacombs
-1 Noble Hierarch
 1 Elder Gargaroth
+1 Noble Hierarch
 1 Forest
+1 Verdant Catacombs
 1 Hammer of Purphoros
 2 Windswept Heath
 2 Ignoble Hierarch
 2 Forest
-2 Noble Hierarch
 2 Verdant Catacombs
+2 Noble Hierarch
 2 Hammer of Purphoros
 2 Elder Gargaroth
-3 Ignoble Hierarch
 3 Noble Hierarch
-3 Verdant Catacombs
+3 Ignoble Hierarch
 3 Forest
+3 Verdant Catacombs
 4 Noble Hierarch
 4 Verdant Catacombs
 4 Ignoble Hierarch

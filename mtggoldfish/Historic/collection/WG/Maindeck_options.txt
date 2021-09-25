@@ -1,7 +1,3 @@
-1 Llanowar Elves
-2 Llanowar Elves
-3 Llanowar Elves
-4 Llanowar Elves
 4 Soul Warden
 3 Trelasarra, Moon Dancer
 1 Snakeskin Veil
@@ -9,19 +5,21 @@
 1 Hengegate Pathway
 2 Hengegate Pathway
 3 Hengegate Pathway
+1 Llanowar Elves
+2 Llanowar Elves
+3 Llanowar Elves
+4 Llanowar Elves
 1 Barkchannel Pathway
 2 Barkchannel Pathway
 3 Barkchannel Pathway
-5 Plains
 4 Ranger-Captain of Eos
-4 Skyclave Apparition
+5 Plains
 6 Plains
 1 Ajani, Strength of the Pride
-2 Lair of the Hydra
 4 Trelasarra, Moon Dancer
-5 Forest
+4 Skyclave Apparition
+2 Lair of the Hydra
 2 Castle Ardenvale
-3 Elite Spellbinder
 1 Righteous Valkyrie
 1 Resplendent Angel
 1 Bishop of Wings
@@ -33,6 +31,7 @@
 3 Bishop of Wings
 4 Bishop of Wings
 4 Resplendent Angel
+5 Forest
 4 Ajani's Pridemate
 2 Ajani, Strength of the Pride
 7 Plains
@@ -51,13 +50,8 @@
 3 Godless Shrine
 4 Darkbore Pathway
 4 Godless Shrine
-1 Luminarch Aspirant
-2 Luminarch Aspirant
-3 Luminarch Aspirant
-4 Luminarch Aspirant
-4 Elite Spellbinder
 2 Daxos, Blessed by the Sun
-6 Forest
+3 Elite Spellbinder
 1 Cave of the Frost Dragon
 1 Cathars' Crusade
 2 Cave of the Frost Dragon
@@ -83,15 +77,9 @@
 1 Vivien, Monsters' Advocate
 1 Fabled Passage
 2 Fabled Passage
-2 Cathars' Crusade
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
-1 Conclave Mentor
-2 Conclave Mentor
-3 Conclave Mentor
-1 Fiend Artisan
-2 Fiend Artisan
-3 Fiend Artisan
+2 Cathars' Crusade
 1 Linvala, Shield of Sea Gate
 1 Glacial Fortress
 1 Hallowed Fountain
@@ -109,6 +97,11 @@
 2 Island
 3 Jaspera Sentinel
 4 Jaspera Sentinel
+1 Luminarch Aspirant
+2 Luminarch Aspirant
+3 Luminarch Aspirant
+4 Luminarch Aspirant
+4 Elite Spellbinder
 1 Aethersphere Harvester
 1 Crawling Barrens
 1 The Book of Exalted Deeds
@@ -132,3 +125,7 @@
 4 Speaker of the Heavens
 1 Emeria's Call
 14 Plains
+1 Fiend Artisan
+2 Fiend Artisan
+3 Fiend Artisan
+6 Forest
