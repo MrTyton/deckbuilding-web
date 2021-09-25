@@ -1,20 +1,19 @@
 2 Murderous Rider
+2 Heartless Act
 1 Power Word Kill
 2 Power Word Kill
-2 Heartless Act
 3 Hive of the Eye Tyrant
 2 Go Blank
 3 Go Blank
-3 Power Word Kill
 3 Heartless Act
+3 Power Word Kill
 3 Murderous Rider
 1 Callous Bloodmage
 1 Infernal Grasp
 2 Infernal Grasp
 3 Infernal Grasp
-4 Power Word Kill
 4 Heartless Act
-14 Swamp
+4 Power Word Kill
 2 Callous Bloodmage
 1 Mortify
 1 Isolated Chapel
@@ -34,6 +33,7 @@
 4 Godless Shrine
 4 Brightclimb Pathway
 4 Caves of Koilos
+14 Swamp
 1 Cave of the Frost Dragon
 1 Thraben Inspector
 1 Thalia's Lieutenant
@@ -42,11 +42,11 @@
 1 Giant Killer
 1 Plargg, Dean of Chaos
 1 Seasoned Hallowblade
-1 Brave the Elements
 1 Luminarch Aspirant
 1 Declaration in Stone
 1 Paladin Class
 1 Shefet Dunes
+1 Brave the Elements
 1 Dauntless Bodyguard
 1 Soldier of the Pantheon
 1 Plains
@@ -82,7 +82,6 @@
 4 Rally the Ranks
 4 Dauntless Bodyguard
 4 Shefet Dunes
-4 Luminarch Aspirant
 5 Plains
 6 Plains
 7 Plains
@@ -90,37 +89,4 @@
 9 Plains
 10 Plains
 11 Plains
-1 Witch's Cottage
-1 Kitesail Freebooter
-1 Nightveil Specter
-1 Sign in Blood
-1 Gray Merchant of Asphodel
-1 Vampire of the Dire Moon
-1 Underworld Dreams
-1 Sanctum of Stone Fangs
-2 Kitesail Freebooter
-2 Underworld Dreams
-2 Nightveil Specter
-2 Gray Merchant of Asphodel
-2 Sign in Blood
-2 Vampire of the Dire Moon
-3 Kitesail Freebooter
-3 Vampire of the Dire Moon
-3 Underworld Dreams
-3 Sign in Blood
-3 Gray Merchant of Asphodel
-3 Nightveil Specter
-4 Kitesail Freebooter
-4 Sign in Blood
-4 Vampire of the Dire Moon
-4 Underworld Dreams
-4 Gray Merchant of Asphodel
-4 Nightveil Specter
-15 Swamp
-16 Swamp
-17 Swamp
-18 Swamp
-19 Swamp
-20 Swamp
-21 Swamp
-22 Swamp
+4 Luminarch Aspirant
