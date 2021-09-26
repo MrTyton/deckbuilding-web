@@ -121,6 +121,6 @@
 |                    2|[Deadly Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527381)                |                     |                                                                                                      |
 |                    3|[Deadly Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527381)                |                     |                                                                                                      |
 |                    3|[Shambling Ghast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527406)               |                     |                                                                                                      |
-|                    4|[Shambling Ghast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527406)               |                     |                                                                                                      |
 |                    4|[Deadly Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527381)                |                     |                                                                                                      |
+|                    4|[Shambling Ghast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527406)               |                     |                                                                                                      |
 

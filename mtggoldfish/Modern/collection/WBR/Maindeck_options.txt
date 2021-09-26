@@ -29,9 +29,9 @@
 3 Stoneforge Mystic
 1 Urborg, Tomb of Yawgmoth
 1 Batterskull
+3 Fatal Push
 2 Tourach, Dread Cantor
 1 Savai Triome
-3 Fatal Push
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 2 Verdant Catacombs
@@ -40,44 +40,45 @@
 1 Castle Locthwain
 1 Liliana of the Veil
 2 Liliana of the Veil
-3 Seasoned Pyromancer
 3 Concealed Courtyard
-4 Prismatic Ending
 1 Priest of Fell Rites
 1 Unmarked Grave
 1 Archon of Cruelty
 1 Persist
-2 Archon of Cruelty
 2 Unmarked Grave
 2 Persist
 2 Priest of Fell Rites
 3 Unmarked Grave
 3 Priest of Fell Rites
-3 Archon of Cruelty
 3 Persist
 4 Persist
 4 Unmarked Grave
+4 Prismatic Ending
+3 Seasoned Pyromancer
 1 Collective Brutality
-1 Bone Shards
-2 Bone Shards
+2 Archon of Cruelty
+3 Archon of Cruelty
 1 Serra's Emissary
-1 Unburial Rites
-1 Ephemerate
 1 Grief
+1 Ephemerate
 2 Ephemerate
 2 Grief
 3 Ephemerate
 3 Grief
 4 Grief
 4 Ephemerate
+1 Polluted Delta
+1 Unburial Rites
+1 Bone Shards
+2 Bone Shards
 1 Snow-Covered Swamp
 1 Snow-Covered Mountain
 4 Priest of Fell Rites
 1 Seal of Fire
-1 Polluted Delta
-1 Kaya, Orzhov Usurper
-1 Sword of Fire and Ice
 2 Polluted Delta
+1 Kaya, Orzhov Usurper
+1 Damn
+1 Sword of Fire and Ice
 1 Island
 1 Teferi, Time Raveler
 1 Watery Grave
@@ -85,27 +86,28 @@
 1 Flooded Strand
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
+2 Plains
 1 Indatha Triome
 4 Archon of Cruelty
 4 Seasoned Pyromancer
 2 Collective Brutality
 3 Liliana of the Veil
-1 Damn
+3 Swamp
+3 Godless Shrine
+1 Vindicate
+3 Polluted Delta
 2 Mountain
 3 Kaya's Guile
-2 Plains
+1 Malakir Rebirth
+2 Malakir Rebirth
 1 Dakkon, Shadow Slayer
 1 Wooded Foothills
 2 Damn
 1 Profane Tutor
-3 Swamp
-3 Godless Shrine
 4 Godless Shrine
-1 Vindicate
 2 Watery Grave
 2 Flooded Strand
 1 Windswept Heath
-3 Polluted Delta
 1 Snapcaster Mage
 2 Snapcaster Mage
 1 Lingering Souls
@@ -113,38 +115,36 @@
 2 Kaya, Orzhov Usurper
 4 Concealed Courtyard
 1 Scalding Tarn
-1 Malakir Rebirth
-2 Malakir Rebirth
 2 Sacred Foundry
 3 Graven Cairns
 1 Inspiring Vantage
 3 Scourge of the Skyclaves
 2 Wooded Foothills
 2 Vindicate
+1 Dreadbore
+4 Polluted Delta
+4 Swamp
+4 Fatal Push
 3 Flooded Strand
 1 Jace, the Mind Sculptor
 1 Drowned Catacomb
 1 Creeping Tar Pit
-1 Dreadbore
-4 Polluted Delta
 3 Verdant Catacombs
 1 Shambling Vent
 3 Lingering Souls
 1 Overgrown Tomb
 1 Temple Garden
 1 Fiery Islet
+1 Magmatic Channeler
 1 Blood Moon
 1 Bonecrusher Giant
-1 Magmatic Channeler
 2 Blood Moon
-2 Bonecrusher Giant
 2 Magmatic Channeler
+2 Bonecrusher Giant
 3 Blood Moon
 3 Magmatic Channeler
 3 Bonecrusher Giant
-4 Fatal Push
 4 Magmatic Channeler
-4 Swamp
 2 Silent Clearing
 1 Mana Leak
 1 Geist of Saint Traft
@@ -165,9 +165,9 @@
 1 Siege Rhino
 1 Tarmogoyf
 1 Blooming Marsh
+2 Siege Rhino
 2 Overgrown Tomb
 2 Tarmogoyf
-2 Siege Rhino
 2 Windswept Heath
 3 Siege Rhino
 3 Tarmogoyf
@@ -184,6 +184,11 @@
 1 Unearth
 1 Chandra, Torch of Defiance
 1 Prismatic Vista
+1 Phyrexian Obliterator
+1 Ashen Rider
+1 Charming Prince
+2 Phyrexian Obliterator
+2 Charming Prince
 1 Agadeem's Awakening
 1 Temur Battle Rage
 1 Dismember
@@ -203,9 +208,9 @@
 1 Tidehollow Sculler
 2 Imperial Recruiter
 3 Imperial Recruiter
+1 Hive of the Eye Tyrant
 1 Castle Ardenvale
 1 Cling to Dust
-1 Hive of the Eye Tyrant
 1 Glacial Fortress
 2 Cling to Dust
 3 Drown in the Loch
@@ -224,23 +229,6 @@
 4 Faithful Mending
 4 Kaya's Guile
 4 Dark Confidant
-1 Nihil Spellbomb
-1 Hex Parasite
-1 Binding the Old Gods
-1 Urza's Saga
-1 Tymaret Calls the Dead
-2 Binding the Old Gods
-2 Grave Titan
-2 Tymaret Calls the Dead
-2 Temple Garden
-2 Urza's Saga
-2 Hex Parasite
-3 Urza's Saga
-3 Hex Parasite
-3 Temple Garden
-3 Tymaret Calls the Dead
-4 Tymaret Calls the Dead
-4 Urza's Saga
 1 Smallpox
 1 Fetid Heath
 1 Flagstones of Trokair
@@ -265,3 +253,20 @@
 3 Grinding Station
 3 Underworld Breach
 4 Underworld Breach
+1 Nihil Spellbomb
+1 Hex Parasite
+1 Binding the Old Gods
+1 Urza's Saga
+1 Tymaret Calls the Dead
+2 Binding the Old Gods
+2 Grave Titan
+2 Tymaret Calls the Dead
+2 Temple Garden
+2 Urza's Saga
+2 Hex Parasite
+3 Urza's Saga
+3 Hex Parasite
+3 Temple Garden
+3 Tymaret Calls the Dead
+4 Tymaret Calls the Dead
+4 Urza's Saga

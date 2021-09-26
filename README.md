@@ -4,14 +4,13 @@
 
 # Standard
 
-|                                 A                                  |                                 B                                  |                                   C                                    |                                  D                                   |                       E                        |
-|--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------|
-|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)  |[Grixis Combo](./mtggoldfish/Standard/decks/Grixis_Combo.md)        |[Izzet Tempo](./mtggoldfish/Standard/decks/Izzet_Tempo.md)              |[Orzhov Midrange](./mtggoldfish/Standard/decks/Orzhov_Midrange.md)    |[Tokens](./mtggoldfish/Standard/decks/Tokens.md)|
-|[Blue Tempo](./mtggoldfish/Standard/decks/Blue_Tempo.md)            |[Grixis Dragons](./mtggoldfish/Standard/decks/Grixis_Dragons.md)    |[Jund Midrange](./mtggoldfish/Standard/decks/Jund_Midrange.md)          |[Rakdos Vampires](./mtggoldfish/Standard/decks/Rakdos_Vampires.md)    |[UB](./mtggoldfish/Standard/decks/UB.md)        |
-|[Boros Aggro](./mtggoldfish/Standard/decks/Boros_Aggro.md)          |[Gruul Aggro](./mtggoldfish/Standard/decks/Gruul_Aggro.md)          |[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)    |[Selesnya Aggro](./mtggoldfish/Standard/decks/Selesnya_Aggro.md)      |[UR](./mtggoldfish/Standard/decks/UR.md)        |
-|[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)      |[Gruul Werewolves](./mtggoldfish/Standard/decks/Gruul_Werewolves.md)|[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)        |[Selesnya Humans](./mtggoldfish/Standard/decks/Selesnya_Humans.md)    |                                                |
-|[Five-color Ramp](./mtggoldfish/Standard/decks/Five-color_Ramp.md)  |[Izzet Aggro](./mtggoldfish/Standard/decks/Izzet_Aggro.md)          |[Mono-White Aggro ️](./mtggoldfish/Standard/decks/Mono-White_Aggro_️.md)|[Selesnya Midrange](./mtggoldfish/Standard/decks/Selesnya_Midrange.md)|                                                |
-|[Four-color Combo](./mtggoldfish/Standard/decks/Four-color_Combo.md)|[Izzet Dragons ️](./mtggoldfish/Standard/decks/Izzet_Dragons_️.md)  |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)    |[Selesnya Ramp](./mtggoldfish/Standard/decks/Selesnya_Ramp.md)        |                                                |
+|                                A                                 |                                 B                                  |                                   C                                    |                                  D                                   |                              E                               |
+|------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------|
+|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Five-color Ramp](./mtggoldfish/Standard/decks/Five-color_Ramp.md)  |[Izzet Midrange](./mtggoldfish/Standard/decks/Izzet_Midrange.md)        |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)  |[Selesnya Ramp](./mtggoldfish/Standard/decks/Selesnya_Ramp.md)|
+|[Blue Tempo](./mtggoldfish/Standard/decks/Blue_Tempo.md)          |[Gruul Aggro](./mtggoldfish/Standard/decks/Gruul_Aggro.md)          |[Izzet Tempo](./mtggoldfish/Standard/decks/Izzet_Tempo.md)              |[Orzhov Midrange](./mtggoldfish/Standard/decks/Orzhov_Midrange.md)    |                                                              |
+|[Boros Aggro ❄](./mtggoldfish/Standard/decks/Boros_Aggro_❄.md)    |[Gruul Werewolves](./mtggoldfish/Standard/decks/Gruul_Werewolves.md)|[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)    |[Rakdos Vampires](./mtggoldfish/Standard/decks/Rakdos_Vampires.md)    |                                                              |
+|[Boros Aggro](./mtggoldfish/Standard/decks/Boros_Aggro.md)        |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)      |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)        |[Selesnya Humans](./mtggoldfish/Standard/decks/Selesnya_Humans.md)    |                                                              |
+|[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)    |[Izzet Dragons ️](./mtggoldfish/Standard/decks/Izzet_Dragons_️.md)  |[Mono-White Aggro ️](./mtggoldfish/Standard/decks/Mono-White_Aggro_️.md)|[Selesnya Midrange](./mtggoldfish/Standard/decks/Selesnya_Midrange.md)|                                                              |
 
 
 # Historic
@@ -72,4 +71,4 @@
 
 
 
-#### Last Updated at 12:49AM on September 26, 2021
+#### Last Updated at 12:48PM on September 26, 2021

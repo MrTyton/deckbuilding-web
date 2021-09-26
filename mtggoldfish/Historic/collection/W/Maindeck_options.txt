@@ -4,25 +4,25 @@
 4 Selfless Savior
 1 Legion's Landing
 2 Legion's Landing
-1 Adanto Vanguard
-2 Adanto Vanguard
 1 Archon of Emeria
 2 Archon of Emeria
+1 Adanto Vanguard
+2 Adanto Vanguard
+3 Archon of Emeria
 3 Giant Killer
 3 Adanto Vanguard
-3 Archon of Emeria
 3 Declaration in Stone
-19 Snow-Covered Plains
 4 Archon of Emeria
+19 Snow-Covered Plains
 4 Ranger-Captain of Eos
-4 Thraben Inspector
 1 Reidane, God of the Worthy
+4 Thraben Inspector
 3 Legion's Landing
 2 Reidane, God of the Worthy
 1 Mikaeus, the Lunarch
+1 Containment Priest
 1 Castle Ardenvale
 4 Adanto Vanguard
-1 Containment Priest
 1 Skymarcher Aspirant
 2 Skymarcher Aspirant
 2 Containment Priest
@@ -44,6 +44,8 @@
 5 Plains
 6 Plains
 7 Plains
+1 Maul of the Skyclaves
+1 Mana Tithe
 1 Blinkmoth Nexus
 1 Shefet Dunes
 2 Blinkmoth Nexus
@@ -57,8 +59,7 @@
 2 Benalish Marshal
 4 Rally the Ranks
 4 Loyal Warhound
-1 Mana Tithe
-1 Maul of the Skyclaves
+2 Maul of the Skyclaves
 1 Unbreakable Formation
 2 Unbreakable Formation
 3 Unbreakable Formation
@@ -70,13 +71,12 @@
 1 Restoration Angel
 4 Blinkmoth Nexus
 2 Shefet Dunes
-1 Emeria's Call
 1 Lurrus of the Dream-Den
 1 Teferi's Protection
+1 Emeria's Call
 1 Soul-Guide Lantern
 1 Portable Hole
 2 Emeria's Call
-2 Maul of the Skyclaves
 1 Deafening Silence
 2 Deafening Silence
 1 You Hear Something on Watch
@@ -84,6 +84,12 @@
 1 Tithe Taker
 2 Tithe Taker
 2 Castle Ardenvale
+1 Drannith Magistrate
+1 Rest in Peace
+2 Drannith Magistrate
+2 Mana Tithe
+2 Rest in Peace
+3 Reidane, God of the Worthy
 2 Mikaeus, the Lunarch
 3 Mikaeus, the Lunarch
 2 Restoration Angel
@@ -102,40 +108,6 @@
 3 Venerated Loxodon
 3 Shefet Dunes
 4 Venerated Loxodon
-1 Shatterskull Smashing
-1 Chandra, Torch of Defiance
-1 Glorybringer
-1 Fabled Passage
-1 Lightning Helix
-1 Sacred Foundry
-1 Needleverge Pathway
-1 Clifftop Retreat
-1 Mila, Crafty Companion
-1 Mountain
-1 Bonecrusher Giant
-1 Ramunap Ruins
-1 Hazoret the Fervent
-1 Gideon Blackblade
-2 Chandra, Torch of Defiance
-2 Glorybringer
-2 Fabled Passage
-2 Needleverge Pathway
-2 Lightning Helix
-2 Sacred Foundry
-2 Bonecrusher Giant
-2 Mountain
-2 Ramunap Ruins
-2 Gideon Blackblade
-3 Bonecrusher Giant
-3 Chandra, Torch of Defiance
-3 Fabled Passage
-3 Sacred Foundry
-3 Needleverge Pathway
-3 Ramunap Ruins
-4 Bonecrusher Giant
-4 Fabled Passage
-4 Sacred Foundry
-4 Needleverge Pathway
 3 Paladin Class
 4 Paladin Class
 4 Declaration in Stone
@@ -151,9 +123,9 @@
 2 Isolated Chapel
 2 Dire Tactics
 2 Concealed Courtyard
+2 Kitesail Freebooter
 2 Brightclimb Pathway
 2 General Kudro of Drannith
-2 Kitesail Freebooter
 3 Godless Shrine
 3 Concealed Courtyard
 3 Brightclimb Pathway
@@ -163,16 +135,16 @@
 4 Brightclimb Pathway
 4 Concealed Courtyard
 4 Kitesail Freebooter
-3 Skymarcher Aspirant
-4 Skymarcher Aspirant
+1 Kabira Takedown
+1 Clarion Spirit
+2 Kabira Takedown
+2 Clarion Spirit
+3 Kabira Takedown
+3 Clarion Spirit
+4 Legion's Landing
+4 Kabira Takedown
+4 Clarion Spirit
 1 Legion Angel
 20 Snow-Covered Plains
-1 Clarion Spirit
-1 Kabira Takedown
-2 Clarion Spirit
-2 Kabira Takedown
-3 Clarion Spirit
-3 Kabira Takedown
-4 Legion's Landing
-4 Clarion Spirit
-4 Kabira Takedown
+3 Skymarcher Aspirant
+4 Skymarcher Aspirant

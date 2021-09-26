@@ -24,13 +24,34 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|  Maindeck Card   |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
-|--------------------:|------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    4|Sigarda's Splendor|                    1|Sunset Revelry                                                                               |
-|                     |                  |                    1|[Dawnbringer Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527296)|
-|                     |                  |                    2|Sunset Revelry                                                                               |
-|                     |                  |                    2|[Dawnbringer Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527296)|
-|                     |                  |                    3|Sunset Revelry                                                                               |
-|                     |                  |                    4|[Felidar Retreat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491638)   |
-|                     |                  |                    4|Sunset Revelry                                                                               |
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    4|Sigarda's Splendor                                                                       |                    1|Reidane, God of the Worthy                                                                    |
+|                    1|[Loyal Warhound](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527310)|                    1|[Portable Hole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527320)      |
+|                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415) |                    1|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)|
+|                    1|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633) |                    1|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)  |
+|                    1|Curse of Silence                                                                         |                    1|[Legion Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491646)       |
+|                    1|[Paladin Class](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527316) |                    1|[Paladin Class](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527316)      |
+|                    1|[Legion Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491646)  |                    2|[Legion Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491646)       |
+|                    1|Reidane, God of the Worthy                                                               |                    2|[Paladin Class](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527316)      |
+|                    1|[Cosmos Elixir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503853) |                    2|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)  |
+|                    1|Borrowed Time                                                                            |                    2|[Portable Hole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527320)      |
+|                    1|Candletrap                                                                               |                    2|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)|
+|                    2|[Loyal Warhound](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527310)|                    3|[Paladin Class](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527316)      |
+|                    2|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415) |                    3|[Legion Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491646)       |
+|                    2|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633) |                    3|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)|
+|                    2|Curse of Silence                                                                         |                    4|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)|
+|                    2|[Cosmos Elixir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503853) |                    1|Sunset Revelry                                                                                |
+|                    2|Candletrap                                                                               |                    1|[Dawnbringer Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527296) |
+|                    2|Borrowed Time                                                                            |                    2|Sunset Revelry                                                                                |
+|                    3|[Loyal Warhound](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527310)|                    2|[Dawnbringer Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527296) |
+|                    3|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633) |                    3|Sunset Revelry                                                                                |
+|                    3|Candletrap                                                                               |                    4|[Felidar Retreat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491638)    |
+|                    3|Borrowed Time                                                                            |                    4|Sunset Revelry                                                                                |
+|                    3|[Cosmos Elixir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503853) |                     |                                                                                              |
+|                    4|[Loyal Warhound](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527310)|                     |                                                                                              |
+|                    4|Candletrap                                                                               |                     |                                                                                              |
+|                    4|[Cosmos Elixir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503853) |                     |                                                                                              |
+|                    4|Borrowed Time                                                                            |                     |                                                                                              |
+|                    4|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633) |                     |                                                                                              |
 
