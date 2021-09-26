@@ -32,10 +32,10 @@
 1 Endurance
 1 Prismatic Ending
 3 Leyline of Sanctity
-1 Path to Exile
 2 Lightning Bolt
-3 Rest in Peace
+1 Path to Exile
 4 Force of Vigor
+3 Rest in Peace
 1 Alpine Moon
 1 Detention Sphere
 1 Blood Moon
@@ -53,9 +53,9 @@
 1 Gaddock Teeg
 2 Gaddock Teeg
 2 Lightning Helix
+1 Lavinia, Azorius Renegade
 1 Keruga, the Macrosage
 4 Path to Exile
-1 Lavinia, Azorius Renegade
 1 Emrakul, the Aeons Torn
 4 Fury
 2 Blood Moon
@@ -65,18 +65,18 @@
 3 Lightning Bolt
 3 Veil of Summer
 1 Ingot Chewer
+2 Lavinia, Azorius Renegade
 3 Foundation Breaker
 3 Alpine Moon
 1 Cursed Totem
 2 Cursed Totem
 3 Cursed Totem
-2 Lavinia, Azorius Renegade
 2 Ingot Chewer
 3 Ingot Chewer
+1 Knight of Autumn
 1 Stony Silence
 1 Blast Zone
 1 Goblin Cratermaker
-1 Knight of Autumn
 1 Cleansing Wildfire
 2 Cleansing Wildfire
 3 Cleansing Wildfire
@@ -108,70 +108,75 @@
 4 Chalice of the Void
 1 Avalanche Riders
 3 Obsidian Charmaw
-1 Scavenging Ooze
 1 Burrenton Forge-Tender
-1 Linvala, Keeper of Silence
 1 Archangel Avacyn
+1 Scavenging Ooze
+1 Linvala, Keeper of Silence
 1 Selfless Spirit
 4 Prismatic Ending
 1 Celestial Purge
 1 Fae of Wishes
 1 Drannith Magistrate
+1 Kor Firewalker
+2 Kor Firewalker
+1 Ancient Grudge
+3 Endurance
 1 Akroma, Angel of Fury
 2 Akroma, Angel of Fury
-3 Endurance
-1 Ancient Grudge
 1 Flusterstorm
 1 Natural State
 1 Weather the Storm
 2 Weather the Storm
 1 Soul-Guide Lantern
-1 Kor Firewalker
-2 Kor Firewalker
+2 Knight of Autumn
 1 Omnath, Locus of Creation
+1 Yasharn, Implacable Earth
+1 Phyrexian Revoker
 1 Mistcaller
 1 Iona, Shield of Emeria
 1 Scavenger Grounds
-1 Crumble to Dust
 1 Kozilek, Butcher of Truth
 1 Ulamog, the Infinite Gyre
+1 Crumble to Dust
 1 Tormod's Crypt
-1 Phyrexian Revoker
 1 Mantis Rider
-1 Dusk/Dawn
 1 Declaration in Stone
-1 Yasharn, Implacable Earth
+1 Dusk/Dawn
 1 Chancellor of the Forge
 1 Birds of Paradise
 1 Seasoned Pyromancer
 1 Magus of the Moon
 1 Teferi, Hero of Dominaria
-1 Dead/Gone
-2 Dead/Gone
 1 Engineered Explosives
 1 Abrade
 2 Engineered Explosives
 1 Sword of Fire and Ice
 2 Drannith Magistrate
-1 Wall of Omens
-1 Cavern of Souls
-1 Broken Wings
-2 Broken Wings
 1 Kolaghan's Command
 1 Abrupt Decay
 1 Relic of Progenitus
 1 Wheel of Sun and Moon
 1 Ashiok, Dream Render
 2 Abrupt Decay
-2 Ashiok, Dream Render
 2 Relic of Progenitus
+2 Ashiok, Dream Render
+1 Dead/Gone
+2 Dead/Gone
+1 Wall of Omens
+1 Cavern of Souls
+1 Broken Wings
+2 Broken Wings
 1 Nihil Spellbomb
 2 Nihil Spellbomb
 1 Assassin's Trophy
 2 Assassin's Trophy
+1 Thalia, Guardian of Thraben
+1 Deafening Silence
+1 Torpor Orb
+1 Sanctifier en-Vec
+2 Sanctifier en-Vec
 1 Anafenza, the Foremost
 2 Geist of Saint Traft
-2 Knight of Autumn
 2 Anafenza, the Foremost
 2 Jegantha, the Wellspring
 1 Sanctum Prelate
@@ -192,14 +197,14 @@
 2 Deafening Clarion
 2 Anathemancer
 3 Anathemancer
-1 Destructive Revelry
-2 Destructive Revelry
+1 Ranger of Eos
 1 Surgical Extraction
 1 Pillar of Flame
-1 Ranger of Eos
+1 Destructive Revelry
 2 Ancient Grudge
 2 Surgical Extraction
 2 Pillar of Flame
+2 Destructive Revelry
 3 Kor Firewalker
 3 Pillar of Flame
 4 Lightning Bolt
@@ -215,11 +220,3 @@
 2 Boros Charm
 3 Boros Charm
 4 Boros Charm
-1 Deflecting Palm
-1 Stubborn Denial
-2 Stubborn Denial
-2 Deflecting Palm
-3 Stubborn Denial
-3 Destructive Revelry
-4 Stubborn Denial
-4 Destructive Revelry

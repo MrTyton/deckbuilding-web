@@ -1,17 +1,17 @@
+3 Street Wraith
 3 Death's Shadow
 4 Death's Shadow
 1 Stifle
 2 Stifle
 3 Stifle
-1 Misty Rainforest
+4 Thoughtseize
+3 Baleful Strix
+2 Misty Rainforest
 1 Flooded Strand
 2 Island
 2 Preordain
-3 Baleful Strix
 4 Baleful Strix
-4 Thoughtseize
 4 Street Wraith
-2 Misty Rainforest
 2 Flooded Strand
 3 Watery Grave
 1 Gurmag Angler
@@ -23,16 +23,16 @@
 1 Darkblast
 3 Murktide Regent
 2 Gurmag Angler
+1 Verdant Catacombs
 2 Volcanic Island
 4 Scalding Tarn
+1 Snapcaster Mage
 3 Gurmag Angler
 2 Brazen Borrower
-1 Verdant Catacombs
-3 Lightning Bolt
 1 Reanimate
+3 Lightning Bolt
 4 Stifle
 2 Drown in the Loch
-1 Snapcaster Mage
 3 Flooded Strand
 1 Dauthi Voidwalker
 2 Dauthi Voidwalker
@@ -41,38 +41,43 @@
 1 Inquisition of Kozilek
 4 Watery Grave
 4 Lightning Bolt
+2 Snapcaster Mage
 2 Force of Negation
+3 Misty Rainforest
+4 Misty Rainforest
 3 Volcanic Island
 1 Jace, the Mind Sculptor
-2 Snapcaster Mage
+2 Verdant Catacombs
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+2 Snow-Covered Island
 1 Spell Pierce
 1 Fiery Islet
 1 Terminate
 1 Ethereal Forager
-1 Marsh Flats
-2 Verdant Catacombs
-2 Marsh Flats
-3 Marsh Flats
-4 Marsh Flats
+4 Underground Sea
+2 Reanimate
 1 Tombstalker
 2 Tombstalker
 3 Tombstalker
 4 Tombstalker
-2 Reanimate
-3 Misty Rainforest
-4 Misty Rainforest
-4 Underground Sea
+1 Marsh Flats
+2 Marsh Flats
+3 Marsh Flats
+4 Marsh Flats
 1 Dismember
 2 Swamp
 1 Prismatic Vista
 4 Fatal Push
-1 Snow-Covered Island
-1 Snow-Covered Swamp
-2 Snow-Covered Island
 1 Murderous Cut
 2 Spell Pierce
 1 Young Pyromancer
 2 Young Pyromancer
+1 Witherbloom Apprentice
+1 Chain of Smog
+2 Chain of Smog
+2 Witherbloom Apprentice
+3 Witherbloom Apprentice
 1 Narset, Parter of Veils
 2 Jace, the Mind Sculptor
 2 Narset, Parter of Veils
@@ -96,16 +101,19 @@
 1 Liliana, the Last Hope
 1 Spell Snare
 2 Spell Snare
+1 Overgrown Tomb
+1 Breeding Pool
+2 Dismember
 3 Young Pyromancer
 1 Stubborn Denial
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
 1 Kolaghan's Command
 1 Hymn to Tourach
-1 Eliminate
 1 Angrath's Rampage
-1 Pyroblast
+1 Eliminate
 1 Plague Engineer
+1 Pyroblast
 2 Kolaghan's Command
 2 Hymn to Tourach
 2 Badlands
@@ -115,20 +123,12 @@
 3 Bloodstained Mire
 1 Flusterstorm
 3 True-Name Nemesis
-1 Overgrown Tomb
-1 Chain of Smog
-1 Witherbloom Apprentice
-1 Breeding Pool
-2 Chain of Smog
-2 Witherbloom Apprentice
-2 Dismember
-3 Witherbloom Apprentice
 1 Grief
 2 Grief
 3 Grief
 3 Reanimate
-1 Sudden Edict
 1 Mystic Sanctuary
+1 Sudden Edict
 1 Archmage's Charm
 1 Cling to Dust
 2 Prismatic Vista
@@ -137,18 +137,33 @@
 3 Jace, the Mind Sculptor
 3 Snow-Covered Island
 4 Snow-Covered Island
-1 Expressive Iteration
-1 Dragon's Rage Channeler
+1 Snow-Covered Forest
+1 Nurturing Peatland
+1 Tarmogoyf
+1 Abrupt Decay
+1 Endurance
+1 Tropical Island
+1 Bayou
+1 Green Sun's Zenith
+1 Uro, Titan of Nature's Wrath
+1 Sylvan Library
+2 Uro, Titan of Nature's Wrath
+2 Abrupt Decay
+2 Tropical Island
+3 Uro, Titan of Nature's Wrath
+4 Witherbloom Apprentice
 1 Ragavan, Nimble Pilferer
 1 Steam Vents
-2 Expressive Iteration
+1 Expressive Iteration
+1 Dragon's Rage Channeler
 2 Steam Vents
-2 Dragon's Rage Channeler
 2 Ragavan, Nimble Pilferer
-3 Dragon's Rage Channeler
+2 Expressive Iteration
+2 Dragon's Rage Channeler
 3 Ragavan, Nimble Pilferer
-4 Dragon's Rage Channeler
+3 Dragon's Rage Channeler
 4 Ragavan, Nimble Pilferer
+4 Dragon's Rage Channeler
 3 Verdant Catacombs
 4 Verdant Catacombs
 4 Gurmag Angler

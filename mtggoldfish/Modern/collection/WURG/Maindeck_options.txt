@@ -5,6 +5,7 @@
 2 Flooded Strand
 3 Windswept Heath
 4 Windswept Heath
+1 Kiki-Jiki, Mirror Breaker
 1 Solitude
 1 Eternal Witness
 1 Ephemerate
@@ -13,7 +14,6 @@
 1 Wall of Omens
 1 Chord of Calling
 1 Restoration Angel
-1 Kiki-Jiki, Mirror Breaker
 2 Solitude
 2 Wall of Omens
 2 Ephemerate
@@ -55,36 +55,36 @@
 2 Tribal Flames
 3 Tribal Flames
 4 Tribal Flames
-2 Lightning Bolt
-3 Lightning Bolt
-4 Lightning Bolt
 1 Bloodbraid Elf
 1 Mantis Rider
 2 Bloodbraid Elf
 2 Mantis Rider
 3 Bloodbraid Elf
-4 Bloodbraid Elf
+2 Lightning Bolt
+3 Lightning Bolt
+4 Lightning Bolt
 3 Mantis Rider
+4 Bloodbraid Elf
 4 Mantis Rider
 1 General Ferrous Rokiric
 2 General Ferrous Rokiric
 3 General Ferrous Rokiric
 1 Bloodstained Mire
-2 Skyclave Apparition
-1 Wrenn and Six
 1 Lightning Helix
 2 Lightning Helix
+1 Wrenn and Six
+2 Skyclave Apparition
 1 Prismatic Ending
 1 Deputy of Detention
 1 Birds of Paradise
 2 Birds of Paradise
 3 Birds of Paradise
 1 Gilded Goose
-2 Arid Mesa
-1 Indatha Triome
 1 Drannith Magistrate
 2 Prismatic Ending
 2 Eternal Witness
+2 Arid Mesa
+1 Indatha Triome
 2 Mountain
 2 Wrenn and Six
 3 Fury
@@ -92,18 +92,18 @@
 3 Bloodstained Mire
 4 Bloodstained Mire
 3 Flooded Strand
+1 Zagoth Triome
+1 Noble Hierarch
 1 Gemstone Mine
 3 Prismatic Ending
-1 Zagoth Triome
 2 Steam Vents
 4 Flooded Strand
-1 Noble Hierarch
 2 Sacred Foundry
-1 Savai Triome
-1 Blood Crypt
 2 Noble Hierarch
+1 Blood Crypt
 1 Ignoble Hierarch
 2 Ignoble Hierarch
+1 Savai Triome
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Skyclave Apparition
@@ -114,34 +114,33 @@
 3 Ignoble Hierarch
 4 Ignoble Hierarch
 3 Wrenn and Six
-3 Arid Mesa
+1 Hallowed Fountain
 1 Ardent Plea
 2 Gilded Goose
-1 Hallowed Fountain
+3 Arid Mesa
 3 Ragavan, Nimble Pilferer
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
 4 Ragavan, Nimble Pilferer
-3 Lightning Helix
 2 Gemstone Caverns
 1 Emrakul, the Aeons Torn
 3 Gemstone Caverns
 2 Emrakul, the Aeons Torn
 3 Emrakul, the Aeons Torn
+1 Mishra's Factory
 1 Blast Zone
 1 Boseiju, Who Shelters All
 1 Autochthon Wurm
 1 Calibrated Blast
 1 Throes of Chaos
-1 Mishra's Factory
 2 Mishra's Factory
 2 Calibrated Blast
 2 Throes of Chaos
 2 Autochthon Wurm
+3 Mishra's Factory
 3 Calibrated Blast
 3 Autochthon Wurm
-3 Mishra's Factory
 4 Gemstone Caverns
 4 Autochthon Wurm
 4 Emrakul, the Aeons Torn
@@ -156,25 +155,28 @@
 3 Sunscorched Desert
 4 Mishra's Factory
 4 Sunscorched Desert
-4 Manamorphose
 2 Verdant Catacombs
 4 Wall of Omens
+4 Manamorphose
 1 Tranquil Thicket
 1 Eidolon of Rhetoric
 1 Horizon Canopy
-4 Lightning Helix
+3 Lightning Helix
 1 Klothys, God of Destiny
 1 Ramunap Ruins
 2 Ramunap Ruins
 3 Ramunap Ruins
 4 Ramunap Ruins
+4 Lightning Helix
 4 Skyclave Apparition
 4 Prismatic Ending
 1 Fire-Lit Thicket
-4 Arid Mesa
 1 Inspiring Vantage
 1 Scavenging Ooze
 1 Razorverge Thicket
+1 Overgrown Tomb
+4 Arid Mesa
+2 Temple Garden
 1 Wild Nacatl
 1 Snow-Covered Plains
 1 Snow-Covered Forest
@@ -183,13 +185,11 @@
 1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
-1 Overgrown Tomb
-1 Blinkmoth Infusion
-2 Blinkmoth Infusion
-2 Temple Garden
-3 Restoration Angel
 3 Noble Hierarch
 4 Noble Hierarch
+3 Restoration Angel
+1 Blinkmoth Infusion
+2 Blinkmoth Infusion
 2 Ardent Plea
 2 Gemstone Mine
 2 Blood Crypt
@@ -197,19 +197,18 @@
 2 Sunbaked Canyon
 1 Snow-Covered Island
 1 Yasharn, Implacable Earth
-1 Geist of Saint Traft
-1 Snapcaster Mage
-2 Snapcaster Mage
 2 Wild Nacatl
 3 Wild Nacatl
+1 Geist of Saint Traft
 2 Stomping Ground
 2 Island
-4 Wild Nacatl
+1 Tarmogoyf
+1 Snapcaster Mage
+2 Snapcaster Mage
 1 Polluted Delta
 2 Geist of Saint Traft
-1 Remand
-1 Tarmogoyf
 1 Fire/Ice
+1 Remand
 1 Force of Negation
 1 Stubborn Denial
 2 Breeding Pool
@@ -220,8 +219,9 @@
 3 Fire/Ice
 3 Remand
 3 Stubborn Denial
-4 Remand
 4 Fire/Ice
+4 Remand
+2 Tarmogoyf
 1 Godless Shrine
 1 Ulamog, the Infinite Gyre
 1 Kozilek, Butcher of Truth
@@ -230,17 +230,17 @@
 1 Forgotten Cave
 1 Scavenger Grounds
 2 Forgotten Cave
+4 Wild Nacatl
 2 Prismatic Vista
-3 Snapcaster Mage
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 1 Sword of Fire and Ice
-1 Eladamri's Call
 1 Prime Speaker Vannifar
 1 Renegade Rallier
 1 Corridor Monitor
-2 Plains
+1 Eladamri's Call
 2 Eladamri's Call
+2 Plains
 2 Prime Speaker Vannifar
 3 Eladamri's Call
 3 Prime Speaker Vannifar
@@ -255,12 +255,12 @@
 4 Glimpse of Tomorrow
 1 Brazen Borrower
 2 Polluted Delta
-2 Tarmogoyf
 1 Temple of Epiphany
 2 Scavenger Grounds
 2 Temple of Epiphany
 1 Academy Manufactor
 2 Academy Manufactor
+3 Tarmogoyf
 1 Inkwell Leviathan
 1 Simic Sky Swallower
 2 Inkwell Leviathan
@@ -275,13 +275,7 @@
 4 Forgotten Cave
 1 Rift Sower
 1 Iona, Shield of Emeria
-1 Path to Exile
-1 Might of Alara
-2 Path to Exile
-2 Might of Alara
-3 Path to Exile
-3 Might of Alara
-4 Might of Alara
+3 Snapcaster Mage
 1 Knight of Autumn
 1 Kataki, War's Wage
 1 Archon of Emeria
@@ -296,34 +290,27 @@
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
 1 Cindervines
+1 Waterlogged Grove
+1 Hexdrinker
 1 Terror of the Peaks
 1 Progenitus
 1 Shambleshark
 1 Niv-Mizzet Reborn
 2 Shambleshark
-1 Expressive Iteration
-1 Loam Lion
-2 Expressive Iteration
-2 Loam Lion
 1 Temur Battle Rage
 1 Scorching Dragonfire
 2 Temur Battle Rage
 2 Scorching Dragonfire
-3 Tarmogoyf
 1 Archon of Cruelty
 1 Acererak the Archlich
-2 Endurance
 2 Archon of Cruelty
+2 Endurance
 2 Acererak the Archlich
 3 Archon of Cruelty
 3 Acererak the Archlich
 3 Omniscience
 3 Academy Manufactor
 4 Academy Manufactor
-1 Ghor-Clan Rampager
-2 Ghor-Clan Rampager
-4 Scalding Tarn
-4 Path to Exile
 1 Sulfurous Springs
 1 Chancellor of the Dross
 2 Blast Zone
@@ -333,8 +320,8 @@
 3 Blinkmoth Infusion
 4 Blinkmoth Infusion
 4 Chancellor of the Dross
-1 Detention Sphere
 1 Imperial Recruiter
+1 Detention Sphere
 1 Foundation Breaker
 2 Imperial Recruiter
 2 Rift Sower
@@ -344,3 +331,14 @@
 2 Piranha Marsh
 3 Piranha Marsh
 4 Piranha Marsh
+1 Path to Exile
+1 Ghor-Clan Rampager
+1 Might of Alara
+2 Path to Exile
+2 Ghor-Clan Rampager
+2 Might of Alara
+3 Path to Exile
+3 Might of Alara
+4 Scalding Tarn
+4 Path to Exile
+4 Might of Alara

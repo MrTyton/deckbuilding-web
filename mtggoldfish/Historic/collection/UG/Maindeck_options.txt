@@ -7,8 +7,6 @@
 3 Hinterland Harbor
 3 Memory Lapse
 4 Memory Lapse
-1 Archmage's Charm
-2 Archmage's Charm
 1 Growth Spiral
 2 Growth Spiral
 3 Growth Spiral
@@ -17,54 +15,30 @@
 1 Nightpack Ambusher
 2 Nightpack Ambusher
 3 Nightpack Ambusher
-4 Nightpack Ambusher
 1 Shark Typhoon
 4 Hinterland Harbor
+4 Nightpack Ambusher
 2 Shark Typhoon
-1 Steam Vents
-1 Magma Opus
-1 Torrential Gearhulk
-2 Magma Opus
-2 Torrential Gearhulk
-3 Torrential Gearhulk
-2 Steam Vents
-3 Steam Vents
-3 Magma Opus
-4 Magma Opus
-1 Unholy Heat
-1 Expressive Iteration
-2 Unholy Heat
-4 Steam Vents
-1 Sulfur Falls
-2 Sulfur Falls
-3 Archmage's Charm
-4 Archmage's Charm
-1 Stomping Ground
-1 Ketria Triome
-2 Ketria Triome
-3 Ketria Triome
-4 Ketria Triome
-1 Hall of Storm Giants
 1 Brazen Borrower
 2 Brazen Borrower
 3 Brazen Borrower
-1 Nissa, Who Shakes the World
-1 Frilled Mystic
-1 Forest
-2 Forest
-2 Nissa, Who Shakes the World
-2 Frilled Mystic
-3 Forest
-3 Frilled Mystic
-4 Forest
 1 Mystical Dispute
+1 Hall of Storm Giants
+1 Forest
 2 Mystical Dispute
+1 Frilled Mystic
+1 Nissa, Who Shakes the World
+2 Frilled Mystic
+2 Nissa, Who Shakes the World
+2 Forest
+3 Forest
 3 Nissa, Who Shakes the World
 3 Shark Typhoon
+3 Frilled Mystic
+4 Forest
 4 Frilled Mystic
 4 Brazen Borrower
 1 Lair of the Hydra
-5 Forest
 1 Decisive Denial
 2 Lair of the Hydra
 2 Decisive Denial
@@ -72,86 +46,101 @@
 3 Mystical Dispute
 4 Shark Typhoon
 4 Mystical Dispute
+2 Glasspool Mimic
+5 Forest
+1 Archmage's Charm
+2 Archmage's Charm
+1 Torrential Gearhulk
+2 Torrential Gearhulk
+1 Steam Vents
+1 Magma Opus
+2 Magma Opus
+3 Torrential Gearhulk
+2 Steam Vents
+3 Steam Vents
+1 Ketria Triome
+1 Stomping Ground
+2 Ketria Triome
+3 Ketria Triome
+3 Magma Opus
+4 Ketria Triome
+4 Magma Opus
+4 Torrential Gearhulk
+1 Expressive Iteration
+4 Steam Vents
+1 Unholy Heat
+2 Unholy Heat
 1 Riverglide Pathway
 2 Riverglide Pathway
-4 Torrential Gearhulk
-2 Expressive Iteration
-3 Expressive Iteration
-4 Expressive Iteration
-3 Unholy Heat
-3 Sulfur Falls
-4 Sulfur Falls
-1 Mizzix's Mastery
 1 Spirebluff Canal
-6 Island
-2 Castle Vantress
 2 Spirebluff Canal
-1 Search for Azcanta
-1 Raugrin Triome
-1 Lightning Helix
-1 Teferi, Hero of Dominaria
-2 Raugrin Triome
-2 Teferi, Hero of Dominaria
-3 Raugrin Triome
-4 Raugrin Triome
 1 Sweltering Suns
-1 Irrigated Farmland
-2 Irrigated Farmland
-1 Portable Hole
-2 Portable Hole
+1 Commit/Memory
 1 Valakut Awakening
+1 Raugrin Triome
 1 Stifle
+1 Irrigated Farmland
 1 Needleverge Pathway
 1 Blood Sun
-1 Commit/Memory
-1 Inspiring Vantage
-1 Jwari Ruins
+1 Lightning Helix
+1 Teferi, Hero of Dominaria
 1 Lotus Field
 1 Tale's End
 1 Hengegate Pathway
 2 Stifle
+2 Raugrin Triome
+2 Irrigated Farmland
 2 Blood Sun
-2 Jwari Ruins
 2 Valakut Awakening
-2 Hengegate Pathway
+2 Teferi, Hero of Dominaria
 2 Lotus Field
+3 Raugrin Triome
 3 Blood Sun
 3 Valakut Awakening
 3 Teferi, Hero of Dominaria
 3 Lotus Field
+4 Raugrin Triome
 4 Blood Sun
 4 Lotus Field
-2 Glasspool Mimic
+3 Archmage's Charm
 2 Sweltering Suns
+3 Unholy Heat
+1 Inspiring Vantage
+1 Jwari Ruins
+1 Portable Hole
+2 Hengegate Pathway
+2 Jwari Ruins
+2 Portable Hole
+1 Sulfur Falls
+2 Sulfur Falls
+4 Archmage's Charm
+6 Island
+2 Expressive Iteration
+3 Expressive Iteration
+4 Expressive Iteration
+2 Commit/Memory
 2 Mistcaller
-7 Island
-8 Island
-3 Mistcaller
-4 Mistcaller
-3 Riverglide Pathway
-4 Riverglide Pathway
-1 Prismari Command
-2 Mizzix's Mastery
-1 Realmwalker
+2 Castle Vantress
+3 Sulfur Falls
+4 Sulfur Falls
+1 Mizzix's Mastery
+1 Search for Azcanta
 1 Sheltered Thicket
 1 Shifting Ceratops
 2 Shifting Ceratops
 3 Shifting Ceratops
 4 Shifting Ceratops
-2 Commit/Memory
+7 Island
+8 Island
+3 Mistcaller
+4 Mistcaller
 2 Stomping Ground
 3 Stomping Ground
-1 Sacred Foundry
-1 Hallowed Fountain
-1 Glacial Fortress
-2 Sacred Foundry
-2 Glacial Fortress
-2 Hallowed Fountain
-3 Hallowed Fountain
-4 Hallowed Fountain
-1 Anger of the Gods
-2 Anger of the Gods
-2 Lightning Helix
+3 Spirebluff Canal
+4 Spirebluff Canal
+3 Riverglide Pathway
+4 Riverglide Pathway
+1 Realmwalker
 1 Rewind
 1 Cragcrown Pathway
 1 Sublime Epiphany
@@ -162,39 +151,28 @@
 3 Rewind
 4 Cragcrown Pathway
 4 Rewind
-3 Spirebluff Canal
-4 Spirebluff Canal
+1 Prismari Command
 2 Prismari Command
-3 Glacial Fortress
-1 Abrade
+1 Pact of Negation
+3 Stifle
 4 Nissa, Who Shakes the World
-1 Hydroid Krasis
-2 Hydroid Krasis
-1 Mountain
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
 1 Masked Vandal
 2 Masked Vandal
-2 Search for Azcanta
 1 Quandrix Command
 2 Quandrix Command
 1 Miscast
 2 Miscast
-1 Ipnu Rivulet
-1 Ancient Ziggurat
-2 Ancient Ziggurat
-2 Ipnu Rivulet
 3 Castle Vantress
-1 Pact of Negation
-3 Stifle
-1 Narset, Parter of Veils
-1 Deafening Clarion
-2 Deafening Clarion
-3 Deafening Clarion
 1 Unsummon
+1 Hydroid Krasis
 1 Fabled Passage
 1 You See a Guard Approach
 1 Neutralize
 1 Stern Dismissal
 1 Temple of Mystery
+2 Hydroid Krasis
 2 Fabled Passage
 2 You See a Guard Approach
 2 Unsummon
@@ -202,6 +180,12 @@
 2 Stern Dismissal
 2 Temple of Mystery
 3 Fabled Passage
+1 Jwari Disruption
+1 Anger of the Gods
+2 Jwari Disruption
+2 Lightning Helix
+3 Lightning Helix
+3 Commit/Memory
 1 Merfolk Windrobber
 2 Merfolk Windrobber
 3 Glasspool Mimic
@@ -211,31 +195,35 @@
 3 Fire Prophecy
 4 Fire Prophecy
 4 Decisive Denial
+1 Bojuka Bog
+1 Field of Ruin
+1 Watery Grave
+1 Zagoth Triome
+1 Test of Talents
+1 Baleful Mastery
+1 Explore
+1 Shadows' Verdict
+1 Overgrown Tomb
+1 Swamp
+1 Drowned Catacomb
+2 Watery Grave
+2 Drowned Catacomb
+2 Zagoth Triome
+2 Search for Azcanta
+2 Explore
+2 Shadows' Verdict
+3 Watery Grave
+3 Drowned Catacomb
+3 Shadows' Verdict
+3 Zagoth Triome
+3 Narset, Parter of Veils
+4 Zagoth Triome
+4 Watery Grave
+1 Abrade
 2 Abrade
+2 Mizzix's Mastery
 3 Abrade
 4 Stomping Ground
-1 Fae of Wishes
-1 Thassa's Intervention
-1 Toski, Bearer of Secrets
-1 Ranger Class
-1 Wildborn Preserver
-1 Dream Eater
-1 Brineborn Cutthroat
-1 Spectral Sailor
-2 Fae of Wishes
-2 Wildborn Preserver
-2 Thassa's Intervention
-2 Brineborn Cutthroat
-2 Spectral Sailor
-3 Hydroid Krasis
-3 Brineborn Cutthroat
-3 Wildborn Preserver
-3 Spectral Sailor
-4 Spectral Sailor
-4 Brineborn Cutthroat
-6 Forest
-7 Forest
-8 Forest
 1 Benthic Biomancer
 2 Benthic Biomancer
 9 Island

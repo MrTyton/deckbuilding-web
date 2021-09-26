@@ -1,14 +1,14 @@
 1 Kaya's Guile
 1 Collective Brutality
+2 Kaya's Guile
 1 Prismatic Ending
-1 Wear/Tear
 1 Path to Exile
 2 Path to Exile
-2 Kaya's Guile
+1 Wear/Tear
 2 Collective Brutality
+1 Kolaghan's Command
 1 Nihil Spellbomb
 2 Nihil Spellbomb
-1 Kolaghan's Command
 1 Soul-Guide Lantern
 3 Path to Exile
 1 Pillage
@@ -18,13 +18,18 @@
 3 Pillage
 2 Wear/Tear
 3 Nihil Spellbomb
+1 Kaya, Orzhov Usurper
+1 Damn
 1 Scourge of the Skyclaves
 2 Scourge of the Skyclaves
 1 Vindicate
 1 Shattering Spree
-1 Damn
-1 Kaya, Orzhov Usurper
+1 Kataki, War's Wage
+2 Vindicate
+2 Kataki, War's Wage
 2 Kaya, Orzhov Usurper
+1 Lingering Souls
+2 Lingering Souls
 1 Terastodon
 1 Void Winnower
 2 Prismatic Ending
@@ -35,70 +40,60 @@
 2 Nahiri, the Harbinger
 3 Prismatic Ending
 4 Prismatic Ending
+3 Lingering Souls
+4 Lingering Souls
 1 Torpor Orb
-2 Vindicate
+1 Dauthi Voidwalker
+2 Dauthi Voidwalker
+3 Dauthi Voidwalker
 1 Angler Turtle
-3 Void Mirror
-1 Leyline of the Void
-2 Kolaghan's Command
 1 Tourach, Dread Cantor
+2 Kolaghan's Command
 1 Plague Engineer
-1 Kataki, War's Wage
-1 Lingering Souls
-2 Lingering Souls
+1 Dovin's Veto
+2 Dovin's Veto
+1 Rest in Peace
+1 Kor Firewalker
+2 Kor Firewalker
+1 Ashiok, Dream Render
 1 Unholy Heat
 2 Shattering Spree
 2 Ox of Agonas
-2 Kataki, War's Wage
-1 Dovin's Veto
-2 Dovin's Veto
-1 Kor Firewalker
-2 Kor Firewalker
 1 Unmoored Ego
 2 Unmoored Ego
 3 Unmoored Ego
-3 Lingering Souls
-4 Lingering Souls
+1 Leyline of the Void
 1 Kroxa, Titan of Death's Hunger
-1 Dauthi Voidwalker
-2 Dauthi Voidwalker
-2 Soul-Guide Lantern
 1 Dreadbore
 1 Force of Despair
 2 Force of Despair
 1 Damping Sphere
-1 Rest in Peace
 1 Teferi, Hero of Dominaria
 2 Damping Sphere
+2 Soul-Guide Lantern
 2 Plague Engineer
+3 Void Mirror
 1 Seal of Cleansing
-1 Terminate
-2 Leyline of the Void
-1 Surgical Extraction
-2 Surgical Extraction
+3 Kaya's Guile
+2 Damn
 1 Sanctifier en-Vec
 2 Sanctifier en-Vec
-1 Kambal, Consul of Allocation
 2 Tourach, Dread Cantor
-1 Stony Silence
-1 Fracture
-2 Fracture
-2 Damn
-3 Dauthi Voidwalker
-1 Ashiok, Dream Render
+2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
+3 Chalice of the Void
+2 Ashiok, Dream Render
+1 Terminate
 1 Painful Truths
 1 Drannith Magistrate
+1 Serra's Emissary
 1 Blood Moon
 1 Shadowspear
-1 Anguished Unmaking
+1 Emrakul, the Aeons Torn
 1 Ulamog, the Infinite Gyre
-1 Fatal Push
-1 Chandra, Torch of Defiance
-1 Angrath, the Flame-Chained
-2 Terminate
 1 Boil
+1 Kambal, Consul of Allocation
 2 Boil
 1 Toski, Bearer of Secrets
 1 Collector Ouphe
@@ -106,20 +101,28 @@
 1 Obzedat, Ghost Council
 1 Crime/Punishment
 2 Collector Ouphe
-2 Ashiok, Dream Render
 1 Young Pyromancer
 2 Young Pyromancer
+1 Surgical Extraction
+2 Surgical Extraction
 1 Kozilek's Return
 2 Kozilek's Return
 1 Necromentia
 2 Necromentia
-1 Emrakul, the Aeons Torn
-3 Kaya's Guile
+1 Thrun, the Last Troll
+1 Solitude
+1 Vraska, Golgari Queen
+2 Solitude
+2 Thrun, the Last Troll
+1 Temur Battle Rage
+2 Rest in Peace
 1 Pyroclasm
 2 Pyroclasm
 3 Wear/Tear
+1 Fracture
 1 Hour of Revelation
 1 Bitterblossom
+2 Fracture
 2 Bitterblossom
 3 Kataki, War's Wage
 1 Flusterstorm
@@ -128,7 +131,17 @@
 2 Monastery Mentor
 3 Flusterstorm
 3 Monastery Mentor
-3 Chalice of the Void
+1 Pithing Needle
+1 Binding the Old Gods
+1 Hex Parasite
+1 Esper Sentinel
+1 Nine Lives
+2 Binding the Old Gods
+2 Pithing Needle
+2 Esper Sentinel
+2 Nine Lives
+4 Chalice of the Void
+1 Stony Silence
 2 Thoughtseize
 2 Stony Silence
 4 Dauthi Voidwalker

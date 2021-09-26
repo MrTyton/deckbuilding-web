@@ -15,19 +15,19 @@
 13 Plains
 14 Plains
 15 Plains
-1 Inspiring Vantage
 1 Arid Mesa
-1 Sacred Foundry
 1 Imperial Recruiter
-2 Sacred Foundry
+1 Inspiring Vantage
+1 Sacred Foundry
 2 Arid Mesa
-2 Inspiring Vantage
 2 Imperial Recruiter
+2 Sacred Foundry
+2 Inspiring Vantage
 3 Arid Mesa
-3 Inspiring Vantage
 3 Imperial Recruiter
-4 Arid Mesa
+3 Inspiring Vantage
 4 Imperial Recruiter
+4 Arid Mesa
 2 Sunbaked Canyon
 1 Needleverge Pathway
 2 Needleverge Pathway
@@ -39,8 +39,8 @@
 2 Ephemerate
 1 Wall of Omens
 2 Wall of Omens
-1 Kiki-Jiki, Mirror Breaker
 1 Felidar Guardian
+1 Kiki-Jiki, Mirror Breaker
 3 Sacred Foundry
 4 Charming Prince
 1 Snow-Covered Plains
@@ -99,16 +99,14 @@
 1 Snow-Covered Mountain
 1 Phyrexian Revoker
 2 Sanctifier en-Vec
-1 Prismatic Vista
-1 Giant Killer
-1 Slayers' Stronghold
-2 Prismatic Vista
-3 Prismatic Vista
-4 Prismatic Vista
-4 Lightning Bolt
-1 Archangel Avacyn
-3 Flooded Strand
-4 Flooded Strand
+1 Rip Apart
+1 Prismatic Ending
+1 Glasspool Mimic
+1 Raugrin Triome
+2 Rip Apart
+2 Prismatic Ending
+2 Magus of the Moon
+4 Sunbaked Canyon
 1 Squadron Hawk
 1 Force of Virtue
 2 Squadron Hawk
@@ -117,14 +115,6 @@
 3 Shining Shoal
 3 Force of Virtue
 4 Squadron Hawk
-1 Glasspool Mimic
-1 Rip Apart
-1 Raugrin Triome
-1 Prismatic Ending
-2 Magus of the Moon
-2 Rip Apart
-2 Prismatic Ending
-4 Sunbaked Canyon
 1 Ambitious Farmhand
 1 Cathar Commando
 2 Ambitious Farmhand
@@ -136,24 +126,34 @@
 2 Felidar Guardian
 3 Felidar Guardian
 4 Felidar Guardian
+1 Archangel Avacyn
+3 Flooded Strand
+4 Flooded Strand
+1 Prismatic Vista
+1 Giant Killer
+1 Slayers' Stronghold
+2 Prismatic Vista
+3 Prismatic Vista
+4 Lightning Bolt
+4 Prismatic Vista
 2 Marsh Flats
 1 Halvar, God of Battle
 2 Halvar, God of Battle
 1 Flagstones of Trokair
-1 Ranger-Captain of Eos
 1 Thraben Inspector
+1 Ranger-Captain of Eos
 2 Ranger-Captain of Eos
 3 Ranger-Captain of Eos
 4 Horizon Canopy
-1 Hex Parasite
-1 Goldmire Bridge
 1 Expedition Map
+1 Hex Parasite
+1 Portable Hole
 1 Urza's Saga
 1 Hall of Heliod's Generosity
-1 Portable Hole
-2 Urza's Saga
+1 Goldmire Bridge
 2 Portable Hole
-3 Urza's Saga
+2 Urza's Saga
 3 Portable Hole
+3 Urza's Saga
 4 Portable Hole
 4 Urza's Saga
