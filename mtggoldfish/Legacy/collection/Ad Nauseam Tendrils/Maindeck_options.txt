@@ -1,5 +1,3 @@
-1 Aeve, Progenitor Ooze
-1 Burning Wish
 2 Burning Wish
 3 Burning Wish
 1 Jeska's Will
@@ -12,26 +10,25 @@
 3 Jeska's Will
 3 Rite of Flame
 1 Mountain
-1 Manamorphose
 1 Ruby Medallion
+1 Manamorphose
 1 Seething Song
 2 Mountain
-2 Manamorphose
 2 Ruby Medallion
+2 Manamorphose
 3 Mountain
 3 Ruby Medallion
 3 Manamorphose
 4 Ruby Medallion
 1 Defense Grid
 2 Defense Grid
-4 Jeska's Will
 2 Seething Song
 4 Mountain
 5 Mountain
-6 Mountain
+4 Ancient Tomb
+4 Jeska's Will
 1 Birgi, God of Storytelling
 2 Birgi, God of Storytelling
-4 Burning Wish
 1 Desperate Ritual
 1 Bonus Round
 1 Sandstone Needle
@@ -40,37 +37,41 @@
 2 Sandstone Needle
 3 Seething Song
 4 Manamorphose
+6 Mountain
 1 Empty the Warrens
-4 Ancient Tomb
+3 Defense Grid
+2 Veil of Summer
+1 Wish
+1 Aeve, Progenitor Ooze
+4 Burning Wish
 3 Duress
 1 Echo of Eons
-3 Defense Grid
 7 Mountain
-1 Wish
+2 Wish
 1 Fiery Confluence
 1 Ignite the Future
 2 Ignite the Future
 3 Ignite the Future
 4 Ignite the Future
 8 Mountain
-4 Seething Song
 1 Badlands
-4 Duress
-2 Wish
+4 Seething Song
 2 Past in Flames
-1 Verdant Catacombs
 1 Galvanic Relay
 2 Galvanic Relay
-3 Birgi, God of Storytelling
-1 Chrome Mox
-2 Chrome Mox
-3 Chrome Mox
 1 Simian Spirit Guide
 1 Taiga
 1 Wooded Foothills
 2 Wooded Foothills
 2 Simian Spirit Guide
 3 Bonus Round
+4 Duress
+1 Verdant Catacombs
+3 Birgi, God of Storytelling
+1 Chrome Mox
+2 Chrome Mox
+3 Chrome Mox
+3 Wooded Foothills
 1 Snow-Covered Swamp
 1 Scalding Tarn
 2 Scalding Tarn
@@ -86,8 +87,6 @@
 4 Rite of Flame
 1 Harnfel, Horn of Bounty
 2 Harnfel, Horn of Bounty
-3 Wooded Foothills
-3 Sandstone Needle
 2 Island
 2 Volcanic Island
 4 Scalding Tarn
@@ -103,6 +102,7 @@
 1 Grim Tutor
 2 Tendrils of Agony
 2 Abrupt Decay
+1 Plateau
 1 Rain of Filth
 2 Snow-Covered Island
 1 Act on Impulse
@@ -113,6 +113,7 @@
 2 Flooded Strand
 3 Desperate Ritual
 3 Reforge the Soul
+3 Sandstone Needle
 1 Daze
 2 Daze
 3 Daze

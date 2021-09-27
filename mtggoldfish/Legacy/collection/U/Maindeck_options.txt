@@ -5,14 +5,14 @@
 1 Turnabout
 1 Intuition
 1 Brainstorm
+1 High Tide
 1 Time Spiral
 1 Ponder
 1 Merchant Scroll
-1 High Tide
 2 Cunning Wish
 2 Preordain
-2 High Tide
 2 Ponder
+2 High Tide
 2 Brainstorm
 2 Time Spiral
 2 Turnabout
@@ -20,17 +20,17 @@
 3 Cunning Wish
 3 Island
 3 Preordain
-3 High Tide
-3 Time Spiral
 3 Merchant Scroll
 3 Brainstorm
+3 Time Spiral
+3 High Tide
 3 Ponder
 3 Turnabout
 4 Preordain
 4 Island
-4 Time Spiral
-4 Ponder
 4 Merchant Scroll
+4 Ponder
+4 Time Spiral
 4 High Tide
 4 Brainstorm
 5 Island
@@ -39,10 +39,10 @@
 8 Island
 9 Island
 10 Island
+1 Flooded Strand
 1 Predict
 1 Flusterstorm
 1 Pact of Negation
-1 Flooded Strand
 1 Polluted Delta
 2 Predict
 2 Flusterstorm
@@ -54,63 +54,18 @@
 1 Misty Rainforest
 1 Prismatic Vista
 2 Prismatic Vista
-2 Polluted Delta
 2 Flooded Strand
+2 Polluted Delta
+2 Scalding Tarn
+1 Springleaf Drum
+1 Soul-Guide Lantern
 1 Chalice of the Void
 2 Chalice of the Void
-2 Scalding Tarn
-1 Soul-Guide Lantern
-1 Springleaf Drum
-3 Chalice of the Void
-4 Chalice of the Void
-1 Walking Ballista
-1 Urza, Lord High Artificer
-2 Urza, Lord High Artificer
-3 Urza, Lord High Artificer
-1 Karakas
+1 Pithing Needle
 3 Flooded Strand
 3 Polluted Delta
-1 Darksteel Citadel
-1 Mox Amber
-1 Mistvault Bridge
-1 Karn, Scion of Urza
-1 Pithing Needle
-1 Silverbluff Bridge
-2 Mistvault Bridge
-2 Mox Amber
-2 Karn, Scion of Urza
-2 Silverbluff Bridge
-3 Karn, Scion of Urza
-1 Vault Skirge
-1 Wasteland
-1 Cranial Plating
-1 Blast Zone
-1 Nettlecyst
-1 Aether Spellbomb
-1 Stonecoil Serpent
-1 Crucible of Worlds
-1 Expedition Map
-1 Ornithopter
-1 City of Traitors
-2 Vault Skirge
-2 Wasteland
-2 Nettlecyst
-2 Stonecoil Serpent
-2 Ornithopter
-2 Cranial Plating
-2 City of Traitors
-3 Vault Skirge
-3 Wasteland
-3 Stonecoil Serpent
-3 Ornithopter
-3 Cranial Plating
-4 Vault Skirge
-4 Wasteland
-4 Stonecoil Serpent
-4 Ornithopter
-4 Cranial Plating
-1 Counterspell
 1 Mystic Sanctuary
+1 Counterspell
 1 Brain Freeze
 1 Meditate
 1 Candelabra of Tawnos
@@ -123,19 +78,3 @@
 3 Meditate
 4 Scalding Tarn
 4 Meditate
-1 Ethersworn Canonist
-1 Esper Sentinel
-1 Hullbreacher
-1 Cavern of Souls
-1 Tundra
-1 Ancient Den
-2 Esper Sentinel
-2 Walking Ballista
-2 Ethersworn Canonist
-2 Ancient Den
-2 Cavern of Souls
-3 Esper Sentinel
-3 Cavern of Souls
-4 Urza, Lord High Artificer
-4 Esper Sentinel
-4 Cavern of Souls

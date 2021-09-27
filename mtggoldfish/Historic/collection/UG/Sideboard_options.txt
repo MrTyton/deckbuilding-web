@@ -2,19 +2,19 @@
 1 Shadowspear
 1 Disdainful Stroke
 1 Test of Talents
-1 Reclamation Sage
-2 Reclamation Sage
 1 Grafdigger's Cage
+1 Scavenging Ooze
+2 Grafdigger's Cage
 1 Shifting Ceratops
 2 Shifting Ceratops
-2 Grafdigger's Cage
 1 So Tiny
 2 So Tiny
 3 So Tiny
 4 So Tiny
-1 Scavenging Ooze
-3 Grafdigger's Cage
+1 Reclamation Sage
+2 Reclamation Sage
 2 Scavenging Ooze
+3 Grafdigger's Cage
 1 Leyline of the Void
 1 Anger of the Gods
 2 Anger of the Gods
@@ -22,25 +22,25 @@
 2 Leyline of the Void
 3 Mystical Dispute
 4 Savage Swipe
+1 Masked Vandal
 2 Lightning Helix
+1 Narset, Parter of Veils
+2 Spell Pierce
 1 Aether Spellbomb
 2 Aether Spellbomb
 3 Aether Spellbomb
-1 Narset, Parter of Veils
-1 Masked Vandal
 1 Ratchet Bomb
-2 Spell Pierce
 1 Ray of Frost
 3 Reclamation Sage
 4 Mystical Dispute
 1 Nezahal, Primal Tide
 1 Miscast
 1 Shark Typhoon
+1 Cerulean Drake
+2 Cerulean Drake
 1 Toski, Bearer of Secrets
 1 Hunter's Mark
 2 Shark Typhoon
-1 Cerulean Drake
-2 Cerulean Drake
 4 Grafdigger's Cage
 1 Magma Spray
 1 Return to Nature
@@ -54,10 +54,14 @@
 1 Realmwalker
 2 Mistcaller
 1 Tome of the Infinite
+2 Masked Vandal
+1 Soul-Guide Lantern
+1 Heroic Intervention
+2 Heroic Intervention
 3 Shifting Ceratops
 1 Ranger Class
-1 Elder Gargaroth
 1 Selective Snare
+1 Elder Gargaroth
 1 Forge Devil
 1 Lovestruck Beast
 2 Lovestruck Beast
@@ -67,15 +71,29 @@
 1 Entrancing Melody
 2 Entrancing Melody
 1 Nissa, Who Shakes the World
-1 Thought Distortion
 1 Davriel's Withering
 1 Shadows' Verdict
+1 Thought Distortion
 2 Nissa, Who Shakes the World
 2 Thought Distortion
 1 Decisive Denial
 1 Inscription of Abundance
 2 Decisive Denial
 2 Inscription of Abundance
+1 Quandrix Command
+1 Chainweb Aracnir
+2 Soul-Guide Lantern
+2 Chainweb Aracnir
+2 Disdainful Stroke
+2 Narset, Parter of Veils
+1 Portable Hole
+1 Settle the Wreckage
+1 Timely Reinforcements
+1 Rest in Peace
+1 Hydroid Krasis
+1 Dovin's Veto
+2 Rest in Peace
+2 Dovin's Veto
 1 Cinderclasm
 1 Klothys, God of Destiny
 1 Hour of Devastation
@@ -86,22 +104,35 @@
 2 Hour of Devastation
 1 Burning Hands
 2 Ratchet Bomb
-1 Memory Lapse
 1 Fry
-1 Deafening Silence
 1 Declaration in Stone
+1 Memory Lapse
+1 Deafening Silence
 2 Deafening Silence
 2 Declaration in Stone
 2 Fry
 3 Anger of the Gods
+1 Wilt
+2 Wilt
+3 Scavenging Ooze
+1 Vivien Reid
+1 Wildborn Preserver
+1 Planewide Celebration
+1 Jace, Wielder of Mysteries
+1 Thryx, the Sudden Storm
+1 Kiora Bests the Sea God
+1 Crafty Cutpurse
+1 Mass Manipulation
+1 Cunning Nightbonder
+2 Crafty Cutpurse
+2 Cunning Nightbonder
+3 Cunning Nightbonder
 3 Lightning Helix
-2 Masked Vandal
 4 Aether Gust
-1 Blink of an Eye
 1 Stern Dismissal
 1 Ashiok, Dream Render
+1 Blink of an Eye
 1 Neutralize
-2 Narset, Parter of Veils
 2 Stern Dismissal
 2 Ashiok, Dream Render
 2 Blink of an Eye
@@ -109,7 +140,6 @@
 3 Narset, Parter of Veils
 3 Ashiok, Dream Render
 4 Ashiok, Dream Render
-1 Vivien Reid
 1 Mystic Subdual
 1 Kumena, Tyrant of Orazca
 2 Test of Talents
@@ -117,6 +147,15 @@
 2 Kumena, Tyrant of Orazca
 3 Mystic Subdual
 4 Mystic Subdual
+1 Merfolk Trickster
+1 Brineborn Cutthroat
+2 Merfolk Trickster
+2 Brineborn Cutthroat
+3 Spell Pierce
+3 Brineborn Cutthroat
+3 Merfolk Trickster
+4 Brineborn Cutthroat
+4 Merfolk Trickster
 4 Aether Spellbomb
 1 Primal Might
 1 Kopala, Warden of Waves

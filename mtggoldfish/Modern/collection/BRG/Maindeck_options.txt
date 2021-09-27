@@ -1,13 +1,12 @@
-1 Windswept Heath
-1 Forest
 1 Fury
 1 Klothys, God of Destiny
-3 Prismatic Ending
 1 Steam Vents
+2 Arid Mesa
 1 Yavimaya, Cradle of Growth
 1 Titania, Protector of Argoth
 1 Zuran Orb
-2 Windswept Heath
+1 Windswept Heath
+3 Prismatic Ending
 2 Bloodstained Mire
 3 Bloodstained Mire
 4 Prismatic Ending
@@ -29,8 +28,8 @@
 2 Wild Nacatl
 3 Wild Nacatl
 4 Wild Nacatl
-1 Snow-Covered Plains
 1 Scalding Tarn
+2 Windswept Heath
 1 Mountain
 1 Fiery Islet
 2 Verdant Catacombs
@@ -67,6 +66,7 @@
 4 Grist, the Hunger Tide
 4 Seasoned Pyromancer
 4 Goblin Bombardment
+1 Snow-Covered Plains
 4 Unholy Heat
 1 Misty Rainforest
 2 Blood Crypt
@@ -80,7 +80,6 @@
 1 Expressive Iteration
 2 Expressive Iteration
 2 Snow-Covered Mountain
-1 Ghost Quarter
 1 Fire/Ice
 1 Aether Spellbomb
 2 Fire/Ice
@@ -96,7 +95,7 @@
 1 Breeding Pool
 1 Spirebluff Canal
 4 Fire/Ice
-1 Pithing Needle
+1 Ghost Quarter
 1 Stubborn Denial
 4 Wrenn and Six
 1 Renegade Rallier
@@ -104,7 +103,6 @@
 1 Marsh Flats
 2 Marsh Flats
 2 Forest
-1 Bloodbraid Marauder
 1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
@@ -114,8 +112,10 @@
 2 Grim Flayer
 3 Grim Flayer
 4 Grim Flayer
+1 Pithing Needle
 1 Bonecrusher Giant
 1 Inspiring Vantage
+1 Bloodbraid Marauder
 1 Lurrus of the Dream-Den
 1 Fire-Lit Thicket
 1 Noble Hierarch

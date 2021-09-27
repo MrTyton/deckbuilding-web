@@ -15,17 +15,17 @@
 13 Plains
 14 Plains
 15 Plains
+1 Inspiring Vantage
 1 Arid Mesa
 1 Imperial Recruiter
-1 Inspiring Vantage
 1 Sacred Foundry
+2 Inspiring Vantage
+2 Sacred Foundry
 2 Arid Mesa
 2 Imperial Recruiter
-2 Sacred Foundry
-2 Inspiring Vantage
+3 Inspiring Vantage
 3 Arid Mesa
 3 Imperial Recruiter
-3 Inspiring Vantage
 4 Imperial Recruiter
 4 Arid Mesa
 2 Sunbaked Canyon
@@ -99,13 +99,6 @@
 1 Snow-Covered Mountain
 1 Phyrexian Revoker
 2 Sanctifier en-Vec
-1 Cathar Commando
-1 Ambitious Farmhand
-2 Ambitious Farmhand
-2 Cathar Commando
-3 Ambitious Farmhand
-3 Cathar Commando
-4 Ambitious Farmhand
 1 Rip Apart
 1 Prismatic Ending
 1 Glasspool Mimic
@@ -114,6 +107,13 @@
 2 Prismatic Ending
 2 Magus of the Moon
 4 Sunbaked Canyon
+1 Cathar Commando
+1 Ambitious Farmhand
+2 Ambitious Farmhand
+2 Cathar Commando
+3 Ambitious Farmhand
+3 Cathar Commando
+4 Ambitious Farmhand
 2 Auriok Champion
 2 Felidar Guardian
 3 Felidar Guardian
@@ -146,8 +146,8 @@
 3 Ranger-Captain of Eos
 4 Horizon Canopy
 1 Expedition Map
-1 Hex Parasite
 1 Portable Hole
+1 Hex Parasite
 1 Urza's Saga
 1 Hall of Heliod's Generosity
 1 Goldmire Bridge

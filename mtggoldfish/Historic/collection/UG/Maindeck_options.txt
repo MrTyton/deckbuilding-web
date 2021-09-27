@@ -4,50 +4,51 @@
 2 Memory Lapse
 1 Hinterland Harbor
 2 Hinterland Harbor
+2 Glasspool Mimic
+6 Island
+1 Forest
 3 Hinterland Harbor
 3 Memory Lapse
 4 Memory Lapse
 1 Castle Vantress
-1 Growth Spiral
 1 Nightpack Ambusher
+1 Growth Spiral
 2 Growth Spiral
 2 Nightpack Ambusher
-3 Growth Spiral
 3 Nightpack Ambusher
+3 Growth Spiral
 4 Growth Spiral
-4 Nightpack Ambusher
 1 Brazen Borrower
 2 Brazen Borrower
-3 Brazen Borrower
+4 Nightpack Ambusher
+2 Forest
 1 Shark Typhoon
 2 Shark Typhoon
-1 Mystical Dispute
-1 Forest
-2 Mystical Dispute
-4 Hinterland Harbor
-1 Nissa, Who Shakes the World
-1 Frilled Mystic
-2 Nissa, Who Shakes the World
-2 Forest
-2 Frilled Mystic
-3 Nissa, Who Shakes the World
-3 Shark Typhoon
 3 Forest
-3 Frilled Mystic
-4 Frilled Mystic
 4 Forest
-4 Brazen Borrower
+3 Brazen Borrower
+1 Nissa, Who Shakes the World
+2 Nissa, Who Shakes the World
+1 Mystical Dispute
+4 Hinterland Harbor
 1 Lair of the Hydra
+1 Frilled Mystic
+2 Frilled Mystic
+3 Frilled Mystic
+5 Forest
+2 Mystical Dispute
+2 Lair of the Hydra
+3 Shark Typhoon
+3 Nissa, Who Shakes the World
+4 Frilled Mystic
+4 Brazen Borrower
 1 Decisive Denial
 1 Hall of Storm Giants
-2 Lair of the Hydra
 2 Decisive Denial
 3 Decisive Denial
 3 Mystical Dispute
 4 Shark Typhoon
 4 Mystical Dispute
-2 Glasspool Mimic
-5 Forest
 1 Archmage's Charm
 2 Archmage's Charm
 1 Riverglide Pathway
@@ -59,57 +60,61 @@
 2 Magma Opus
 3 Torrential Gearhulk
 4 Torrential Gearhulk
+1 Commit/Memory
 1 Spirebluff Canal
 2 Spirebluff Canal
 2 Steam Vents
 3 Steam Vents
-1 Commit/Memory
+1 Hengegate Pathway
+1 Irrigated Farmland
+1 Teferi, Hero of Dominaria
+2 Teferi, Hero of Dominaria
+3 Teferi, Hero of Dominaria
 1 Valakut Awakening
 1 Raugrin Triome
-1 Hengegate Pathway
 1 Stifle
 1 Needleverge Pathway
 1 Sweltering Suns
-1 Irrigated Farmland
 1 Blood Sun
+1 Tale's End
 1 Lightning Helix
-1 Teferi, Hero of Dominaria
 1 Lotus Field
 1 Expressive Iteration
-1 Tale's End
-2 Stifle
 2 Raugrin Triome
 2 Irrigated Farmland
 2 Blood Sun
+2 Stifle
 2 Valakut Awakening
-2 Teferi, Hero of Dominaria
 2 Lotus Field
 3 Raugrin Triome
 3 Blood Sun
 3 Valakut Awakening
-3 Teferi, Hero of Dominaria
 3 Lotus Field
 4 Raugrin Triome
 4 Steam Vents
 4 Blood Sun
 4 Lotus Field
+1 Portable Hole
+2 Portable Hole
 1 Inspiring Vantage
 1 Jwari Ruins
-1 Portable Hole
 1 Unholy Heat
 2 Hengegate Pathway
 2 Jwari Ruins
-2 Portable Hole
 2 Unholy Heat
 2 Sweltering Suns
-6 Island
-2 Commit/Memory
-2 Mistcaller
-2 Castle Vantress
 7 Island
 8 Island
+2 Mistcaller
+2 Commit/Memory
+2 Castle Vantress
 3 Mistcaller
 4 Mistcaller
+1 Realmwalker
+1 Merfolk Branchwalker
+2 Merfolk Branchwalker
+3 Merfolk Branchwalker
+4 Merfolk Branchwalker
 3 Riverglide Pathway
 4 Riverglide Pathway
 1 Ketria Triome
@@ -119,8 +124,13 @@
 3 Magma Opus
 4 Ketria Triome
 4 Magma Opus
-1 Realmwalker
+1 Hydroid Krasis
+2 Hydroid Krasis
+3 Archmage's Charm
 3 Unholy Heat
+1 Benthic Biomancer
+2 Benthic Biomancer
+3 Glasspool Mimic
 1 Rewind
 1 Cragcrown Pathway
 1 Sublime Epiphany
@@ -137,10 +147,19 @@
 4 Spirebluff Canal
 1 Prismari Command
 2 Prismari Command
+9 Island
+1 Merfolk Windrobber
+2 Merfolk Windrobber
+1 Kumena, Tyrant of Orazca
+1 Deeproot Elite
+2 Kumena, Tyrant of Orazca
+2 Deeproot Elite
 4 Nissa, Who Shakes the World
+1 Test of Talents
+1 Ranger Class
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
-3 Archmage's Charm
+1 Search for Azcanta
 1 Quandrix Command
 2 Quandrix Command
 1 Masked Vandal
@@ -151,13 +170,11 @@
 1 Unsummon
 1 You See a Guard Approach
 1 Fabled Passage
-1 Hydroid Krasis
 1 Neutralize
 1 Stern Dismissal
 1 Temple of Mystery
-2 Hydroid Krasis
-2 You See a Guard Approach
 2 Fabled Passage
+2 You See a Guard Approach
 2 Unsummon
 2 Neutralize
 2 Stern Dismissal
@@ -169,39 +186,33 @@
 2 Jwari Disruption
 3 Lightning Helix
 3 Commit/Memory
-1 Merfolk Windrobber
-2 Merfolk Windrobber
-3 Glasspool Mimic
+1 Kira, Great Glass-Spinner
+2 Ranger Class
+3 Ranger Class
+3 Deeproot Elite
+3 Kumena, Tyrant of Orazca
 4 Glasspool Mimic
 4 Decisive Denial
-1 Bojuka Bog
-1 Field of Ruin
-1 Watery Grave
-1 Zagoth Triome
-1 Test of Talents
-1 Search for Azcanta
-1 Baleful Mastery
-1 Explore
-1 Shadows' Verdict
-1 Overgrown Tomb
-1 Swamp
-1 Drowned Catacomb
-2 Watery Grave
-2 Drowned Catacomb
-2 Zagoth Triome
-2 Search for Azcanta
-2 Explore
-2 Shadows' Verdict
-3 Watery Grave
-3 Shadows' Verdict
-3 Zagoth Triome
-3 Narset, Parter of Veils
-3 Drowned Catacomb
-4 Zagoth Triome
-4 Watery Grave
-1 Benthic Biomancer
-2 Benthic Biomancer
-9 Island
+1 Glacial Fortress
+1 Castle Ardenvale
+1 Wrath of God
+1 Dovin's Veto
+1 Settle the Wreckage
+1 Hallowed Fountain
+1 Temple Garden
+1 Branchloft Pathway
+2 Glacial Fortress
+2 Wrath of God
+2 Dovin's Veto
+2 Temple Garden
+2 Hallowed Fountain
+3 Glacial Fortress
+3 Portable Hole
+3 Temple Garden
+3 Hallowed Fountain
+4 Glacial Fortress
+4 Hallowed Fountain
+4 Temple Garden
 1 Fire Prophecy
 1 Sulfur Falls
 2 Fire Prophecy
@@ -211,3 +222,55 @@
 3 Stomping Ground
 4 Fire Prophecy
 4 Archmage's Charm
+1 Bojuka Bog
+1 Field of Ruin
+1 Watery Grave
+1 Baleful Mastery
+1 Shadows' Verdict
+1 Overgrown Tomb
+1 Explore
+1 Swamp
+1 Zagoth Triome
+1 Drowned Catacomb
+2 Watery Grave
+2 Shadows' Verdict
+2 Search for Azcanta
+2 Zagoth Triome
+2 Drowned Catacomb
+2 Explore
+3 Shadows' Verdict
+3 Watery Grave
+3 Drowned Catacomb
+3 Narset, Parter of Veils
+3 Zagoth Triome
+4 Watery Grave
+4 Zagoth Triome
+1 Fae of Wishes
+1 Thassa's Intervention
+1 Toski, Bearer of Secrets
+1 Brineborn Cutthroat
+1 Wildborn Preserver
+1 Dream Eater
+1 Spectral Sailor
+2 Fae of Wishes
+2 Wildborn Preserver
+2 Thassa's Intervention
+2 Brineborn Cutthroat
+2 Spectral Sailor
+3 Hydroid Krasis
+3 Brineborn Cutthroat
+3 Spectral Sailor
+3 Wildborn Preserver
+4 Brineborn Cutthroat
+4 Spectral Sailor
+6 Forest
+7 Forest
+8 Forest
+1 River Sneak
+1 Reconnaissance Mission
+2 Realmwalker
+2 River Sneak
+3 River Sneak
+3 Merfolk Windrobber
+4 Merfolk Windrobber
+4 River Sneak
