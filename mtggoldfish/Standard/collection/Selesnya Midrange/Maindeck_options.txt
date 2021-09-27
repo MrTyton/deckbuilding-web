@@ -27,16 +27,16 @@
 1 Story Seeker
 2 Story Seeker
 1 Snow-Covered Plains
-1 Blizzard Brawl
 1 Snow-Covered Forest
 1 Arctic Treeline
+1 Blizzard Brawl
 2 Snow-Covered Plains
 2 Snow-Covered Forest
 2 Blizzard Brawl
 2 Arctic Treeline
 3 Snow-Covered Plains
-3 Snow-Covered Forest
 3 Cleric Class
+3 Snow-Covered Forest
 3 Arctic Treeline
 3 Story Seeker
 3 Blizzard Brawl
@@ -64,16 +64,16 @@
 1 Kor Celebrant
 1 Fateful Absence
 2 Fateful Absence
-1 Barkchannel Pathway
+1 Island
 1 Deserted Beach
 1 Alrund's Epiphany
-1 Island
-2 Barkchannel Pathway
+1 Barkchannel Pathway
 2 Deserted Beach
+2 Barkchannel Pathway
 2 Island
 2 Alrund's Epiphany
-3 Barkchannel Pathway
 3 Deserted Beach
+3 Barkchannel Pathway
 3 Alrund's Epiphany
 4 Barkchannel Pathway
 1 Skyclave Apparition
@@ -94,8 +94,8 @@
 4 Cleric Class
 9 Snow-Covered Forest
 1 Icingdeath, Frost Tyrant
-1 Inscription of Abundance
 1 You Meet in a Tavern
+1 Inscription of Abundance
 2 You Meet in a Tavern
 1 Maja, Bretagard Protector
 2 Celestial Unicorn
@@ -112,17 +112,17 @@
 6 Plains
 7 Plains
 7 Forest
-8 Forest
 8 Plains
+8 Forest
 9 Plains
 9 Forest
 10 Plains
 1 Druid Class
-1 Iymrith, Desert Doom
 1 Hengegate Pathway
+1 Iymrith, Desert Doom
 1 Vineglimmer Snarl
-2 Iymrith, Desert Doom
 2 Hengegate Pathway
+2 Iymrith, Desert Doom
 2 Vineglimmer Snarl
 3 Iymrith, Desert Doom
 1 Pillardrop Rescuer
@@ -136,6 +136,20 @@
 4 Emeria's Call
 3 Skyclave Apparition
 4 Skyclave Apparition
+1 Rockfall Vale
+1 Cragcrown Pathway
+1 Mountain
+1 Zariel, Archduke of Avernus
+1 Showdown of the Skalds
+2 Cragcrown Pathway
+2 Rockfall Vale
+2 Zariel, Archduke of Avernus
+2 Showdown of the Skalds
+3 Rockfall Vale
+3 Cragcrown Pathway
+3 Showdown of the Skalds
+4 Rockfall Vale
+4 Cragcrown Pathway
 3 Fateful Absence
 4 Fateful Absence
 1 Tovolar's Huntmaster
@@ -147,27 +161,8 @@
 3 Celestial Unicorn
 4 Celestial Unicorn
 4 Blizzard Brawl
-1 Cragcrown Pathway
-1 Mountain
-1 Zariel, Archduke of Avernus
-1 Showdown of the Skalds
-1 Rockfall Vale
-2 Cragcrown Pathway
-2 Zariel, Archduke of Avernus
-2 Rockfall Vale
-2 Showdown of the Skalds
-3 Rockfall Vale
-3 Showdown of the Skalds
-3 Cragcrown Pathway
-4 Rockfall Vale
-4 Cragcrown Pathway
-1 Revitalize
-2 Vorinclex, Monstrous Raider
-2 Revitalize
-3 Revitalize
-10 Snow-Covered Forest
-1 Cosmos Elixir
 1 Doomskar
+1 Cosmos Elixir
 1 The Deck of Many Things
 2 Cosmos Elixir
 2 Druid Class
@@ -175,9 +170,14 @@
 4 Cosmos Elixir
 4 Luminarch Aspirant
 10 Snow-Covered Plains
+1 Revitalize
+2 Revitalize
+2 Vorinclex, Monstrous Raider
+3 Revitalize
+10 Snow-Covered Forest
+1 The Book of Exalted Deeds
 1 Angel of Destiny
 1 Scale the Heights
-1 The Book of Exalted Deeds
 1 Accomplished Alchemist
 2 Scale the Heights
 2 Angel of Destiny

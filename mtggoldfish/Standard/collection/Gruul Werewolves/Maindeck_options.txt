@@ -26,16 +26,16 @@
 1 Briarbridge Tracker
 2 Briarbridge Tracker
 3 Briarbridge Tracker
-1 Snow-Covered Forest
 1 Snow-Covered Mountain
+1 Snow-Covered Forest
 1 Blizzard Brawl
-2 Snow-Covered Forest
 2 Snow-Covered Mountain
+2 Snow-Covered Forest
 2 Blizzard Brawl
-3 Snow-Covered Forest
 3 Snow-Covered Mountain
-4 Snow-Covered Forest
+3 Snow-Covered Forest
 4 Snow-Covered Mountain
+4 Snow-Covered Forest
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 5 Mountain
@@ -56,23 +56,23 @@
 4 Play with Fire
 5 Snow-Covered Mountain
 4 Primal Adversary
-1 Haunted Ridge
+4 Briarbridge Tracker
 1 Swamp
+1 Blightstep Pathway
 1 Darkbore Pathway
 1 Bloodchief's Thirst
-1 Blightstep Pathway
 1 Infernal Grasp
+1 Haunted Ridge
 1 Sarulf, Realm Eater
-2 Haunted Ridge
-2 Bloodchief's Thirst
 2 Blightstep Pathway
 2 Darkbore Pathway
+2 Bloodchief's Thirst
 2 Infernal Grasp
 2 Sarulf, Realm Eater
+2 Haunted Ridge
 3 Infernal Grasp
 3 Darkbore Pathway
 4 Darkbore Pathway
-4 Briarbridge Tracker
 10 Snow-Covered Forest
 1 Field of Ruin
 2 Field of Ruin
@@ -112,36 +112,35 @@
 2 Burning Hands
 1 Kazuul's Fury
 3 Tovolar's Huntmaster
+1 Evolving Wilds
+1 Storm the Festival
+1 Duel for Dominance
+1 Lotus Cobra
+2 Storm the Festival
+2 Evolving Wilds
+2 Duel for Dominance
+2 Lotus Cobra
+3 Lotus Cobra
+3 Evolving Wilds
+3 Duel for Dominance
+4 Evolving Wilds
+1 Bloodthirsty Adversary
+1 Roil Eruption
+2 Bloodthirsty Adversary
+2 Roil Eruption
+3 Roil Eruption
+3 Bloodthirsty Adversary
+4 Roil Eruption
 1 Shimmerdrift Vale
 2 Shimmerdrift Vale
 3 Shimmerdrift Vale
 4 Faceless Haven
 4 Shimmerdrift Vale
-1 Evolving Wilds
-1 Lotus Cobra
-1 Storm the Festival
-1 Duel for Dominance
-2 Lotus Cobra
-2 Evolving Wilds
-2 Storm the Festival
-2 Duel for Dominance
-3 Lotus Cobra
-3 Evolving Wilds
-3 Duel for Dominance
-4 Evolving Wilds
-1 Roil Eruption
-1 Bloodthirsty Adversary
-2 Roil Eruption
-2 Bloodthirsty Adversary
-3 Bloodthirsty Adversary
-3 Roil Eruption
-4 Roil Eruption
-1 Light Up the Night
-1 Falkenrath Pit Fighter
-2 Light Up the Night
-2 Falkenrath Pit Fighter
-3 Falkenrath Pit Fighter
-4 Falkenrath Pit Fighter
+1 Hound Tamer
+2 Hound Tamer
+3 Hound Tamer
+4 Hound Tamer
+8 Mountain
 1 Augur of Autumn
 1 Village Watch
 2 Village Watch
@@ -150,8 +149,9 @@
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
 10 Forest
-1 Hound Tamer
-2 Hound Tamer
-3 Hound Tamer
-4 Hound Tamer
-8 Mountain
+1 Light Up the Night
+1 Falkenrath Pit Fighter
+2 Light Up the Night
+2 Falkenrath Pit Fighter
+3 Falkenrath Pit Fighter
+4 Falkenrath Pit Fighter

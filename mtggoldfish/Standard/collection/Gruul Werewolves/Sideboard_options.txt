@@ -18,14 +18,14 @@
 1 Froghemoth
 2 Froghemoth
 2 Return to Nature
-1 Soul Shatter
 1 Binding the Old Gods
 1 Valki, God of Lies
+1 Soul Shatter
 1 Culling Ritual
 1 Infernal Grasp
-2 Soul Shatter
 2 Binding the Old Gods
 2 Culling Ritual
+2 Soul Shatter
 2 Valki, God of Lies
 3 Soul Shatter
 1 Den of the Bugbear
@@ -49,21 +49,13 @@
 1 Goldspan Dragon
 3 Snakeskin Veil
 1 You Find a Cursed Idol
-1 Tovolar's Huntmaster
-2 Tovolar's Huntmaster
+1 Storm the Festival
 1 Saryth, the Viper's Fang
 1 Light Up the Night
 1 Curse of Shaken Faith
-1 Storm the Festival
 2 Saryth, the Viper's Fang
-1 Roiling Vortex
-1 Unnatural Moonrise
-1 Bounding Wolf
-1 Bird Admirer
-2 Roiling Vortex
-2 Bounding Wolf
-2 Bird Admirer
-2 Unnatural Moonrise
+1 Tovolar's Huntmaster
+2 Tovolar's Huntmaster
 1 Battle Mammoth
 1 Duel for Dominance
 1 Wild Shape
@@ -72,24 +64,32 @@
 1 Abandon the Post
 2 Choose Your Weapon
 2 Abandon the Post
+1 Roil Eruption
 1 Blizzard Brawl
 1 Snarling Wolf
-1 Roil Eruption
 1 Ranger Class
+2 Roil Eruption
 2 Blizzard Brawl
 2 Snarling Wolf
-2 Roil Eruption
 2 Ranger Class
+1 Roiling Vortex
+1 Unnatural Moonrise
+1 Bounding Wolf
+1 Bird Admirer
+2 Bounding Wolf
+2 Bird Admirer
+2 Unnatural Moonrise
+2 Roiling Vortex
 3 Inscription of Abundance
 3 Burn Down the House
-1 Heated Debate
-2 Heated Debate
-3 Heated Debate
 1 Field of Ruin
 2 Field of Ruin
 2 Sunstreak Phoenix
 2 Arlinn, the Pack's Hope
 3 Field of Ruin
+1 Heated Debate
+2 Heated Debate
+3 Heated Debate
 1 Briarbridge Tracker
 1 Jaspera Sentinel
 2 Briarbridge Tracker
@@ -105,7 +105,6 @@
 2 Shackles of Treachery
 3 Shackles of Treachery
 3 Arni Slays the Troll
-4 Augur of Autumn
 1 Lair of the Hydra
 1 Flameskull
 1 Masked Vandal
@@ -114,11 +113,12 @@
 2 Masked Vandal
 3 Lair of the Hydra
 4 Lair of the Hydra
-1 Turn the Earth
+4 Augur of Autumn
 1 Weathered Runestone
+1 Turn the Earth
 1 Pack's Betrayal
-2 Weathered Runestone
 2 Turn the Earth
+2 Weathered Runestone
 2 Pack's Betrayal
 3 Weathered Runestone
 3 Outland Liberator
