@@ -1,11 +1,7 @@
+2 Arid Mesa
+1 Forest
 1 Fury
 1 Klothys, God of Destiny
-1 Steam Vents
-2 Arid Mesa
-1 Yavimaya, Cradle of Growth
-1 Titania, Protector of Argoth
-1 Zuran Orb
-1 Windswept Heath
 3 Prismatic Ending
 2 Bloodstained Mire
 3 Bloodstained Mire
@@ -28,6 +24,10 @@
 2 Wild Nacatl
 3 Wild Nacatl
 4 Wild Nacatl
+1 Yavimaya, Cradle of Growth
+1 Titania, Protector of Argoth
+1 Zuran Orb
+1 Windswept Heath
 1 Scalding Tarn
 2 Windswept Heath
 1 Mountain
@@ -40,23 +40,23 @@
 1 Bloodghast
 1 Mayhem Devil
 1 Goblin Bombardment
-1 Swamp
 1 Kroxa, Titan of Death's Hunger
+1 Swamp
 1 Collected Company
 2 Ignoble Hierarch
+2 Kroxa, Titan of Death's Hunger
 2 Mayhem Devil
 2 Goblin Bombardment
 2 Bloodghast
 2 Grist, the Hunger Tide
 2 Seasoned Pyromancer
-2 Kroxa, Titan of Death's Hunger
 2 Collected Company
 3 Ignoble Hierarch
-3 Verdant Catacombs
 3 Grist, the Hunger Tide
 3 Mayhem Devil
 3 Goblin Bombardment
 3 Bloodghast
+3 Verdant Catacombs
 3 Collected Company
 3 Seasoned Pyromancer
 4 Ignoble Hierarch
@@ -82,16 +82,19 @@
 2 Snow-Covered Mountain
 1 Fire/Ice
 1 Aether Spellbomb
-2 Fire/Ice
 2 Steam Vents
+2 Fire/Ice
+3 Expressive Iteration
 3 Misty Rainforest
 3 Fire/Ice
-3 Expressive Iteration
-4 Misty Rainforest
 4 Expressive Iteration
+4 Misty Rainforest
 1 Sunbaked Canyon
 3 Windswept Heath
 4 Windswept Heath
+1 Seal of Fire
+2 Seal of Fire
+3 Seal of Fire
 1 Breeding Pool
 1 Spirebluff Canal
 4 Fire/Ice
@@ -103,9 +106,6 @@
 1 Marsh Flats
 2 Marsh Flats
 2 Forest
-1 Seal of Fire
-2 Seal of Fire
-3 Seal of Fire
 1 Tarfire
 3 Renegade Rallier
 1 Grim Flayer
@@ -133,10 +133,10 @@
 3 Steam Vents
 4 Scourge of the Skyclaves
 1 Abundant Harvest
-1 Esper Sentinel
 1 Boros Charm
-2 Esper Sentinel
+1 Esper Sentinel
 2 Boros Charm
+2 Esper Sentinel
 3 Boros Charm
 4 Boros Charm
 1 Bloodhall Ooze

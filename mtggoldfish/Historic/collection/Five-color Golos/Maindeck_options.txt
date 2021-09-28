@@ -107,10 +107,10 @@
 3 In Search of Greatness
 3 Trial of Ambition
 3 Calix, Destiny's Hand
-4 Glacial Fortress
 4 Zagoth Triome
 4 Binding the Old Gods
 4 Trial of Ambition
+4 Glacial Fortress
 4 In Search of Greatness
 1 Arboreal Grazer
 2 Arboreal Grazer
@@ -172,8 +172,8 @@
 2 Swamp
 2 Fabled Passage
 2 Gilded Goose
-3 Fabled Passage
 3 Lotus Cobra
+3 Fabled Passage
 3 Gilded Goose
 3 Swamp
 5 Forest
@@ -192,8 +192,6 @@
 1 Hallowed Fountain
 1 Deafening Clarion
 1 Stomping Ground
-1 Branchloft Pathway
-1 Finale of Devastation
 1 Terror of the Peaks
 1 Needleverge Pathway
 1 Godless Shrine
@@ -201,10 +199,12 @@
 1 Keruga, the Macrosage
 1 Omen of the Forge
 1 Elspeth Conquers Death
+1 Finale of Devastation
 1 Idyllic Tutor
 1 Shalai, Voice of Plenty
 1 Evolving Wilds
 1 Elder Gargaroth
+1 Branchloft Pathway
 1 Wrath of God
 1 Sanctum of All
 1 Uro, Titan of Nature's Wrath
@@ -236,18 +236,18 @@
 1 Sanctum of Tranquil Light
 1 Solemn Simulacrum
 1 Trial of Knowledge
+2 Stomping Ground
+2 Escape to the Wilds
 2 Ketria Triome
 2 Deafening Clarion
-2 Escape to the Wilds
-2 Branchloft Pathway
 2 Dryad of the Ilysian Grove
 2 Finale of Devastation
-2 Yorion, Sky Nomad
-2 Stomping Ground
 2 Uro, Titan of Nature's Wrath
+2 Yorion, Sky Nomad
 2 Evolving Wilds
-2 Klothys, God of Destiny
 2 Godless Shrine
+2 Klothys, God of Destiny
+2 Branchloft Pathway
 2 Elspeth Conquers Death
 2 Wrath of God
 2 Archon of Sun's Grace
@@ -277,6 +277,7 @@
 3 Stomping Ground
 3 Savai Triome
 3 Ketria Triome
+3 Escape to the Wilds
 3 Deafening Clarion
 3 Watery Grave
 3 Branchloft Pathway
@@ -284,7 +285,6 @@
 3 Dryad of the Ilysian Grove
 3 Evolving Wilds
 3 Wrath of God
-3 Escape to the Wilds
 3 Sanctum of Stone Fangs
 3 Fae of Wishes
 3 Renegade Map
@@ -301,17 +301,17 @@
 3 Treacherous Blessing
 3 Sanctum of All
 4 Sacred Foundry
-4 Stomping Ground
 4 Fae of Wishes
-4 Overgrown Tomb
+4 Stomping Ground
 4 Lotus Cobra
+4 Overgrown Tomb
 4 Breeding Pool
 4 Fabled Passage
 4 Temple Garden
 4 Plains
+4 Island
 4 Dryad of the Ilysian Grove
 4 Deafening Clarion
-4 Island
 4 Evolving Wilds
 4 Wrath of God
 4 Watery Grave
@@ -324,8 +324,8 @@
 4 Hallowed Fountain
 4 Thirst for Meaning
 4 Idyllic Tutor
-5 Island
 5 Plains
+5 Island
 6 Forest
 7 Forest
 3 Simic Guildgate
@@ -368,7 +368,6 @@
 2 Abundant Harvest
 1 Koma, Cosmos Serpent
 1 The Great Henge
-1 Castle Locthwain
 1 Darkbore Pathway
 1 Barkchannel Pathway
 1 Gemrazer
@@ -376,14 +375,15 @@
 1 Temple of Malady
 1 Paradise Druid
 1 Temple of Deceit
-1 Vineglimmer Snarl
 1 Vivien Reid
+1 Vineglimmer Snarl
 1 Vivien, Champion of the Wilds
 1 Scute Swarm
 1 Nissa, Who Shakes the World
 1 Season of Growth
 1 Castle Vantress
 1 Tamiyo, Collector of Tales
+1 Castle Locthwain
 1 Dirge Bat
 1 Nethroi, Apex of Death
 1 Migratory Greathorn
@@ -414,8 +414,8 @@
 3 Migratory Greathorn
 1 Alrund's Epiphany
 2 Alrund's Epiphany
-1 Valki, God of Lies
 1 Felidar Retreat
+1 Valki, God of Lies
 1 Gatebreaker Ram
 1 Root Snare
 1 Gate Colossus
@@ -453,16 +453,16 @@
 1 Hour of Promise
 1 Hashep Oasis
 2 Wolfwillow Haven
+2 Shefet Dunes
 2 The World Tree
 2 Hydroid Krasis
-2 Shefet Dunes
 2 Relic of Progenitus
 2 Hour of Promise
 2 Hashep Oasis
 2 Omniscience
 3 Hashep Oasis
-3 The World Tree
 3 Shefet Dunes
+3 The World Tree
 3 Genesis Ultimatum
 3 Hydroid Krasis
 3 Hour of Promise

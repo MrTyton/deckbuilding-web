@@ -1,17 +1,18 @@
 2 City of Traitors
 3 Emrakul, the Aeons Torn
-4 Preordain
-1 Venser, Shaper Savant
-4 Cunning Wish
 1 Eureka
-1 Island
+4 Cunning Wish
+4 Preordain
 1 Ancient Tomb
 2 Ancient Tomb
+1 Island
 1 Tundra
 1 Lotus Petal
 2 Lotus Petal
 1 Karakas
 3 Flooded Strand
+1 Venser, Shaper Savant
+1 Drawn from Dreams
 2 Scalding Tarn
 2 Island
 3 Island
@@ -39,29 +40,33 @@
 3 Mosswort Bridge
 4 Emrakul, the Aeons Torn
 4 Dress Down
+4 Elvish Reclaimer
 4 Phyrexian Dreadnought
 4 Mosswort Bridge
-4 Elvish Reclaimer
-1 Drawn from Dreams
+2 Impulse
 1 Plains
 4 Flooded Strand
 4 Island
 3 Snow-Covered Forest
 6 Snow-Covered Island
+3 Scalding Tarn
+1 Polluted Delta
+2 Polluted Delta
 4 Lotus Petal
 1 Orim's Chant
 2 Orim's Chant
 3 Orim's Chant
 4 Orim's Chant
 5 Island
-3 Scalding Tarn
-1 Polluted Delta
-2 Polluted Delta
 1 Volcanic Island
-2 Impulse
 3 Ancient Tomb
 2 Volcanic Island
 3 Volcanic Island
+1 Abundant Harvest
+1 Endurance
+1 Carpet of Flowers
+2 Abundant Harvest
+3 Abundant Harvest
 1 Boseiju, Who Shelters All
 1 Soul-Guide Lantern
 4 Solve the Equation
@@ -91,11 +96,6 @@
 2 Prismatic Ending
 3 Intuition
 1 Yavimaya, Cradle of Growth
-1 Abundant Harvest
-1 Endurance
-1 Carpet of Flowers
-2 Abundant Harvest
-3 Abundant Harvest
 2 Sylvan Library
 1 Wooded Foothills
 2 Wooded Foothills
@@ -129,10 +129,10 @@
 1 Forest
 3 Wooded Foothills
 4 Wooded Foothills
-4 Abundant Harvest
 1 Stifle
 2 Stifle
 4 Tropical Island
+4 Abundant Harvest
 1 Sea Gate Restoration
 4 Veil of Summer
 6 Island

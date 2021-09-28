@@ -1,15 +1,15 @@
-1 Underground Sea
+1 Misty Rainforest
 1 Careful Study
 1 Hedron Crab
-1 Misty Rainforest
+1 Underground Sea
 2 Underground Sea
 2 Careful Study
 2 Hedron Crab
 2 Misty Rainforest
 3 Careful Study
+3 Misty Rainforest
 3 Underground Sea
 3 Hedron Crab
-3 Misty Rainforest
 4 Careful Study
 4 Hedron Crab
 2 Polluted Delta
@@ -24,9 +24,9 @@
 4 Satyr Wayfinder
 3 Polluted Delta
 4 Cabal Therapy
+4 Bloodstained Mire
 1 Once Upon a Time
 2 Once Upon a Time
-4 Bloodstained Mire
 3 Putrid Imp
 1 Mountain
 1 Lion's Eye Diamond
@@ -39,31 +39,31 @@
 2 Taiga
 2 Anje's Ravager
 2 Gamble
-2 Blazing Rootwalla
 2 Lion's Eye Diamond
 2 Basking Rootwalla
+2 Blazing Rootwalla
 3 Lion's Eye Diamond
 3 Blazing Rootwalla
 3 Anje's Ravager
 3 Basking Rootwalla
 3 Once Upon a Time
 4 Putrid Imp
+4 Once Upon a Time
 4 Anje's Ravager
 4 Basking Rootwalla
 4 Blazing Rootwalla
 4 Lion's Eye Diamond
 1 Daze
 2 Daze
-1 Snow-Covered Swamp
-4 Once Upon a Time
 1 Kitchen Imp
-2 Mountain
+1 Cabal Initiate
 2 Kitchen Imp
+2 Cabal Initiate
 3 Gamble
 3 Kitchen Imp
 4 Kitchen Imp
-1 Cabal Initiate
-2 Cabal Initiate
+1 Snow-Covered Swamp
+2 Mountain
 1 Darkblast
 3 Carrion Feeder
 1 Overgrown Tomb
@@ -71,29 +71,15 @@
 2 Overgrown Tomb
 2 Blood Crypt
 4 Polluted Delta
-1 Burning Inquiry
-2 Burning Inquiry
-2 Anger
-3 Burning Inquiry
-4 Burning Inquiry
 3 Swamp
 1 Nurturing Peatland
+1 Big Game Hunter
+1 Plateau
 2 Darkblast
 2 Snow-Covered Swamp
 3 Snow-Covered Swamp
 3 Daze
-1 Arid Mesa
-1 Scalding Tarn
-2 Arid Mesa
-2 Scalding Tarn
-3 Arid Mesa
-3 Scalding Tarn
-4 Scalding Tarn
-4 Arid Mesa
-1 Hollow One
-2 Hollow One
-3 Hollow One
-4 Hollow One
+4 Marsh Flats
 1 Smallpox
 1 Dakmor Salvage
 1 Wasteland
@@ -111,4 +97,12 @@
 5 Swamp
 6 Swamp
 7 Swamp
-4 Marsh Flats
+1 Hollow One
+1 Burning Inquiry
+2 Burning Inquiry
+2 Anger
+2 Hollow One
+3 Burning Inquiry
+3 Hollow One
+4 Hollow One
+4 Burning Inquiry
