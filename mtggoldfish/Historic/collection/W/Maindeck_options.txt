@@ -12,8 +12,8 @@
 3 Archon of Emeria
 3 Adanto Vanguard
 3 Declaration in Stone
-4 Archon of Emeria
 19 Snow-Covered Plains
+4 Archon of Emeria
 4 Ranger-Captain of Eos
 4 Thraben Inspector
 1 Reidane, God of the Worthy
@@ -37,16 +37,14 @@
 2 Rally the Ranks
 3 Rally the Ranks
 3 Loyal Warhound
-1 Maul of the Skyclaves
-1 Mana Tithe
-1 Shefet Dunes
 1 Blinkmoth Nexus
 1 Plains
-2 Plains
 2 Blinkmoth Nexus
+2 Plains
 3 Blinkmoth Nexus
 3 Plains
 4 Plains
+1 Shefet Dunes
 5 Plains
 6 Plains
 7 Plains
@@ -54,29 +52,31 @@
 9 Plains
 10 Plains
 11 Plains
+4 Blinkmoth Nexus
 1 Selfless Glyphweaver
 1 Benalish Marshal
 2 Benalish Marshal
 4 Rally the Ranks
 4 Loyal Warhound
-2 Maul of the Skyclaves
-1 Unbreakable Formation
-2 Unbreakable Formation
-3 Unbreakable Formation
-4 Unbreakable Formation
+1 Mana Tithe
+1 Maul of the Skyclaves
 12 Plains
 13 Plains
 1 Alseid of Life's Bounty
 2 Alseid of Life's Bounty
+1 Unbreakable Formation
+2 Unbreakable Formation
+3 Unbreakable Formation
+4 Unbreakable Formation
 1 Restoration Angel
-4 Blinkmoth Nexus
 2 Shefet Dunes
-1 Lurrus of the Dream-Den
-1 Teferi's Protection
 1 Emeria's Call
-1 Soul-Guide Lantern
-1 Portable Hole
 2 Emeria's Call
+1 Lurrus of the Dream-Den
+1 Portable Hole
+1 Soul-Guide Lantern
+1 Teferi's Protection
+2 Maul of the Skyclaves
 1 Deafening Silence
 2 Deafening Silence
 1 You Hear Something on Watch
@@ -86,14 +86,16 @@
 2 Castle Ardenvale
 2 Restoration Angel
 3 Restoration Angel
-1 Drannith Magistrate
-1 Rest in Peace
-2 Drannith Magistrate
-2 Mana Tithe
-2 Rest in Peace
-3 Reidane, God of the Worthy
 2 Mikaeus, the Lunarch
 3 Mikaeus, the Lunarch
+1 Venerated Loxodon
+2 Venerated Loxodon
+3 Venerated Loxodon
+3 Shefet Dunes
+4 Venerated Loxodon
+3 Paladin Class
+4 Paladin Class
+4 Declaration in Stone
 1 Scavenger Grounds
 1 Shadowspear
 1 Dusk/Dawn
@@ -103,14 +105,8 @@
 3 Alseid of Life's Bounty
 3 Containment Priest
 4 Containment Priest
-1 Venerated Loxodon
-2 Venerated Loxodon
-3 Venerated Loxodon
-3 Shefet Dunes
-4 Venerated Loxodon
-3 Paladin Class
-4 Paladin Class
-4 Declaration in Stone
+3 Skymarcher Aspirant
+4 Skymarcher Aspirant
 1 Kabira Takedown
 1 Clarion Spirit
 2 Kabira Takedown
@@ -118,9 +114,33 @@
 3 Kabira Takedown
 3 Clarion Spirit
 4 Legion's Landing
-4 Kabira Takedown
 4 Clarion Spirit
+4 Kabira Takedown
 1 Legion Angel
 20 Snow-Covered Plains
-3 Skymarcher Aspirant
-4 Skymarcher Aspirant
+1 Hive of the Eye Tyrant
+1 Godless Shrine
+1 Isolated Chapel
+1 Swamp
+1 Vanishing Verse
+1 Bojuka Bog
+1 Thoughtseize
+1 Fatal Push
+1 Brightclimb Pathway
+1 Knight of the Ebon Legion
+2 Godless Shrine
+2 Isolated Chapel
+2 Vanishing Verse
+2 Swamp
+2 Fatal Push
+2 Thoughtseize
+2 Brightclimb Pathway
+2 Knight of the Ebon Legion
+3 Godless Shrine
+3 Thoughtseize
+3 Knight of the Ebon Legion
+3 Brightclimb Pathway
+4 Godless Shrine
+4 Brightclimb Pathway
+4 Knight of the Ebon Legion
+4 Thoughtseize

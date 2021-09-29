@@ -17,16 +17,16 @@
 4 Cathartic Pyre
 2 Highland Forest
 2 Snakeskin Veil
-1 Snow-Covered Mountain
-1 Snow-Covered Forest
 1 Blizzard Brawl
+1 Snow-Covered Forest
+1 Snow-Covered Mountain
+2 Blizzard Brawl
 2 Snow-Covered Mountain
 2 Snow-Covered Forest
-2 Blizzard Brawl
 3 Snow-Covered Mountain
 3 Snow-Covered Forest
-4 Snow-Covered Mountain
 4 Snow-Covered Forest
+4 Snow-Covered Mountain
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest
@@ -57,15 +57,15 @@
 4 Play with Fire
 3 Highland Forest
 1 Bloodchief's Thirst
+1 Infernal Grasp
+1 Haunted Ridge
 1 Darkbore Pathway
 1 Blightstep Pathway
-1 Haunted Ridge
-1 Infernal Grasp
-2 Darkbore Pathway
-2 Bloodchief's Thirst
-2 Haunted Ridge
-2 Blightstep Pathway
 2 Infernal Grasp
+2 Bloodchief's Thirst
+2 Blightstep Pathway
+2 Darkbore Pathway
+2 Haunted Ridge
 3 Darkbore Pathway
 4 Darkbore Pathway
 1 Goldspan Dragon
@@ -112,17 +112,6 @@
 1 Burning Hands
 2 Burning Hands
 4 Briarbridge Tracker
-1 Evolving Wilds
-1 Storm the Festival
-1 Duel for Dominance
-2 Lotus Cobra
-2 Evolving Wilds
-2 Storm the Festival
-2 Duel for Dominance
-3 Lotus Cobra
-3 Evolving Wilds
-3 Duel for Dominance
-4 Evolving Wilds
 1 Bird Admirer
 1 Hound Tamer
 1 Tavern Ruffian
@@ -139,23 +128,26 @@
 4 Shimmerdrift Vale
 1 Graveyard Trespasser
 2 Graveyard Trespasser
-3 Haunted Ridge
 3 Graveyard Trespasser
 3 Blightstep Pathway
+3 Haunted Ridge
 4 Haunted Ridge
 4 Graveyard Trespasser
 1 Barkchannel Pathway
-1 Riverglide Pathway
 1 Kazandu Mammoth
-2 Barkchannel Pathway
+1 Riverglide Pathway
 2 Kazandu Mammoth
+2 Barkchannel Pathway
 2 Riverglide Pathway
+3 Kazandu Mammoth
 3 Barkchannel Pathway
 3 Riverglide Pathway
-3 Kazandu Mammoth
-4 Barkchannel Pathway
 4 Kazandu Mammoth
+4 Barkchannel Pathway
 4 Riverglide Pathway
+1 Kazuul's Fury
+3 Tovolar's Huntmaster
+4 Unnatural Moonrise
 1 Wild Shape
 2 Wild Shape
 7 Mountain
@@ -166,6 +158,14 @@
 4 Blizzard Brawl
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
-1 Kazuul's Fury
-3 Tovolar's Huntmaster
-4 Unnatural Moonrise
+1 Duel for Dominance
+1 Evolving Wilds
+1 Storm the Festival
+2 Lotus Cobra
+2 Storm the Festival
+2 Duel for Dominance
+2 Evolving Wilds
+3 Lotus Cobra
+3 Evolving Wilds
+3 Duel for Dominance
+4 Evolving Wilds

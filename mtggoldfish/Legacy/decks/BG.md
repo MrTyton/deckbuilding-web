@@ -51,9 +51,9 @@
 |                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                     |                                                                                              |
 |                    4|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)        |                     |                                                                                              |
 |                    4|[Chain of Smog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=12448)       |                     |                                                                                              |
+|                    4|[Dark Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=651)           |                     |                                                                                              |
 |                    5|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                     |                                                                                              |
 |                    6|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                     |                                                                                              |
-|                    7|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                     |                                                                                              |
 |                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                     |                                                                                              |
-|                    4|[Dark Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=651)           |                     |                                                                                              |
+|                    7|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                     |                                                                                              |
 

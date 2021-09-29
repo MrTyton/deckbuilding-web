@@ -1,14 +1,14 @@
-1 Fury
 3 Teferi, Time Raveler
-3 Leyline of the Void
-4 Leyline of the Void
+4 Mystical Dispute
 1 Yorion, Sky Nomad
 1 Veil of Summer
 2 Veil of Summer
 4 Teferi, Time Raveler
+3 Leyline of the Void
+4 Leyline of the Void
 1 Consign/Oblivion
-1 Nephalia Academy
 1 Boseiju, Who Shelters All
+1 Nephalia Academy
 2 Nephalia Academy
 2 Boseiju, Who Shelters All
 2 Consign/Oblivion
@@ -20,18 +20,18 @@
 3 Rough/Tumble
 4 Consign/Oblivion
 4 Rough/Tumble
-2 Fury
-3 Fury
 1 Endurance
+2 Fury
 3 Force of Vigor
+2 Brazen Borrower
+3 Fury
+1 Prismatic Ending
+1 Lightning Bolt
 1 Rest in Peace
 2 Rest in Peace
 1 Chalice of the Void
 2 Chalice of the Void
-1 Lightning Bolt
 1 Path to Exile
-2 Brazen Borrower
-1 Prismatic Ending
 3 Leyline of Sanctity
 1 Alpine Moon
 3 Rest in Peace
@@ -47,6 +47,7 @@
 1 Blood Moon
 3 Chalice of the Void
 2 Path to Exile
+1 Emrakul, the Aeons Torn
 1 Jegantha, the Wellspring
 1 Cindervines
 1 Lavinia, Azorius Renegade
@@ -59,16 +60,16 @@
 1 Keruga, the Macrosage
 4 Path to Exile
 2 Lavinia, Azorius Renegade
-1 Emrakul, the Aeons Torn
 4 Fury
 2 Blood Moon
+3 Veil of Summer
 1 Eternal Witness
 2 Prismatic Ending
-3 Veil of Summer
 1 Force of Negation
 2 Force of Negation
 3 Lightning Bolt
 1 Ingot Chewer
+1 Bonecrusher Giant
 3 Foundation Breaker
 3 Alpine Moon
 1 Cursed Totem
@@ -84,7 +85,6 @@
 3 Cleansing Wildfire
 3 Prismatic Ending
 1 Kataki, War's Wage
-1 Bonecrusher Giant
 4 Ingot Chewer
 1 Wrenn and Six
 1 Vindicate
@@ -98,24 +98,24 @@
 4 Leyline of Sanctity
 3 Endurance
 3 Cindervines
+1 Burrenton Forge-Tender
 1 Collector Ouphe
 1 Meddling Mage
 1 Geist of Saint Traft
 2 Collector Ouphe
+1 Avalanche Riders
 1 Klothys, God of Destiny
 1 Thrun, the Last Troll
 1 Back to Nature
-2 Kataki, War's Wage
 2 Meddling Mage
+2 Kataki, War's Wage
 3 Meddling Mage
 4 Chalice of the Void
-1 Avalanche Riders
 3 Obsidian Charmaw
-1 Burrenton Forge-Tender
 1 Scavenging Ooze
 1 Archangel Avacyn
-1 Linvala, Keeper of Silence
 1 Selfless Spirit
+1 Linvala, Keeper of Silence
 4 Prismatic Ending
 1 Kor Firewalker
 2 Kor Firewalker
@@ -135,6 +135,7 @@
 1 Weather the Storm
 2 Weather the Storm
 1 Soul-Guide Lantern
+1 Wall of Omens
 2 Knight of Autumn
 1 Negate
 1 Omnath, Locus of Creation
@@ -142,33 +143,32 @@
 1 Iona, Shield of Emeria
 1 Scavenger Grounds
 1 Abrade
+1 Crumble to Dust
 1 Kozilek, Butcher of Truth
 1 Ulamog, the Infinite Gyre
-1 Crumble to Dust
 1 Tormod's Crypt
 1 Phyrexian Revoker
-1 Mantis Rider
-1 Dusk/Dawn
-1 Declaration in Stone
-1 Timely Reinforcements
-1 Firespout
-1 Prismari Command
-1 Birds of Paradise
-1 Seasoned Pyromancer
-1 Yasharn, Implacable Earth
-1 Chancellor of the Forge
 1 Magus of the Moon
 1 Teferi, Hero of Dominaria
+1 Seasoned Pyromancer
+1 Birds of Paradise
+1 Mantis Rider
+1 Declaration in Stone
+1 Dusk/Dawn
+1 Firespout
+1 Timely Reinforcements
+1 Prismari Command
+1 Yasharn, Implacable Earth
+1 Chancellor of the Forge
 1 Dead/Gone
 2 Dead/Gone
-1 Wall of Omens
+1 Nihil Spellbomb
+2 Nihil Spellbomb
+1 Sword of Fire and Ice
+2 Drannith Magistrate
 1 Cavern of Souls
 1 Broken Wings
 2 Broken Wings
-1 Sword of Fire and Ice
-2 Drannith Magistrate
-1 Nihil Spellbomb
-2 Nihil Spellbomb
 1 Kolaghan's Command
 1 Abrupt Decay
 1 Relic of Progenitus
@@ -177,17 +177,20 @@
 2 Abrupt Decay
 2 Ashiok, Dream Render
 2 Relic of Progenitus
-1 Assassin's Trophy
-2 Assassin's Trophy
+1 Generous Gift
+2 Burrenton Forge-Tender
+2 Generous Gift
 1 Thalia, Guardian of Thraben
-1 Deafening Silence
 1 Torpor Orb
+1 Deafening Silence
 1 Sanctifier en-Vec
 2 Sanctifier en-Vec
 1 Anafenza, the Foremost
 2 Geist of Saint Traft
 2 Anafenza, the Foremost
 2 Jegantha, the Wellspring
+1 Assassin's Trophy
+2 Assassin's Trophy
 1 Sanctum Prelate
 1 Qasali Pridemage
 2 Sanctum Prelate
@@ -208,16 +211,6 @@
 2 Deafening Clarion
 2 Anathemancer
 3 Anathemancer
-1 Surgical Extraction
-1 Pillar of Flame
-1 Destructive Revelry
-1 Ranger of Eos
-2 Ancient Grudge
-2 Surgical Extraction
-2 Pillar of Flame
-2 Destructive Revelry
-3 Kor Firewalker
-3 Pillar of Flame
 4 Lightning Bolt
 1 Tidehollow Sculler
 2 Tidehollow Sculler
@@ -231,3 +224,13 @@
 2 Flusterstorm
 3 Flusterstorm
 4 Flusterstorm
+1 Surgical Extraction
+1 Pillar of Flame
+1 Destructive Revelry
+1 Ranger of Eos
+2 Ancient Grudge
+2 Surgical Extraction
+2 Pillar of Flame
+2 Destructive Revelry
+3 Kor Firewalker
+3 Pillar of Flame
