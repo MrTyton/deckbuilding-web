@@ -18,8 +18,8 @@
 1 Forest
 4 Bloodstained Mire
 1 Seasoned Pyromancer
-1 Snow-Covered Forest
 1 Snow-Covered Mountain
+1 Snow-Covered Forest
 1 Endurance
 3 Stomping Ground
 1 Windswept Heath
@@ -29,33 +29,33 @@
 1 Nurturing Peatland
 2 Mountain
 1 Ignoble Hierarch
-1 Swamp
-1 Kroxa, Titan of Death's Hunger
 1 Bloodghast
 1 Mayhem Devil
 1 Goblin Bombardment
+1 Swamp
+1 Kroxa, Titan of Death's Hunger
 1 Collected Company
 2 Ignoble Hierarch
 2 Mayhem Devil
 2 Goblin Bombardment
 2 Bloodghast
+2 Seasoned Pyromancer
 2 Grist, the Hunger Tide
 2 Kroxa, Titan of Death's Hunger
-2 Seasoned Pyromancer
 2 Collected Company
 3 Ignoble Hierarch
+3 Verdant Catacombs
 3 Grist, the Hunger Tide
 3 Mayhem Devil
 3 Goblin Bombardment
 3 Bloodghast
-3 Verdant Catacombs
 3 Collected Company
 3 Seasoned Pyromancer
 4 Ignoble Hierarch
+4 Grist, the Hunger Tide
 4 Mayhem Devil
 4 Bloodghast
 4 Collected Company
-4 Grist, the Hunger Tide
 4 Seasoned Pyromancer
 4 Goblin Bombardment
 1 Fury
@@ -81,13 +81,13 @@
 1 Fiery Islet
 1 Fire/Ice
 1 Aether Spellbomb
-2 Steam Vents
 2 Fire/Ice
-3 Expressive Iteration
+2 Steam Vents
 3 Misty Rainforest
 3 Fire/Ice
-4 Expressive Iteration
+3 Expressive Iteration
 4 Misty Rainforest
+4 Expressive Iteration
 1 Marsh Flats
 2 Marsh Flats
 1 Sunbaked Canyon
@@ -97,8 +97,8 @@
 1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
-1 Breeding Pool
 1 Spirebluff Canal
+1 Breeding Pool
 4 Fire/Ice
 4 Wrenn and Six
 1 Renegade Rallier
@@ -116,11 +116,11 @@
 1 Bonecrusher Giant
 1 Inspiring Vantage
 4 Scourge of the Skyclaves
-1 Bloodbraid Marauder
 1 Noble Hierarch
 1 Fire-Lit Thicket
 1 Lurrus of the Dream-Den
 1 Magus of the Moon
+1 Bloodbraid Marauder
 1 Lightning Helix
 2 Lightning Helix
 1 Tireless Tracker
@@ -132,19 +132,19 @@
 2 Birds of Paradise
 3 Birds of Paradise
 3 Steam Vents
+1 Boros Charm
+1 Abundant Harvest
+1 Esper Sentinel
+2 Boros Charm
+2 Esper Sentinel
+3 Boros Charm
+4 Boros Charm
 1 Temur Battle Rage
 1 Path to Exile
 2 Temur Battle Rage
 2 Path to Exile
 3 Path to Exile
 4 Path to Exile
-1 Abundant Harvest
-1 Boros Charm
-1 Esper Sentinel
-2 Boros Charm
-2 Esper Sentinel
-3 Boros Charm
-4 Boros Charm
 1 Bloodhall Ooze
 1 Twilight Mire
 2 Bloodhall Ooze

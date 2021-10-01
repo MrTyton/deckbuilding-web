@@ -94,10 +94,10 @@
 1 Aether Gust
 1 Blood Crypt
 1 Steam Vents
+1 Sulfur Falls
 1 Nicol Bolas, the Ravager
 1 Spirebluff Canal
 1 Canyon Slough
-1 Sulfur Falls
 1 Anger of the Gods
 1 Expressive Iteration
 1 Chandra, Torch of Defiance
@@ -108,12 +108,12 @@
 2 Nicol Bolas, the Ravager
 2 Dragonskull Summit
 2 Expressive Iteration
-3 Blood Crypt
-3 Sulfur Falls
 3 Steam Vents
+3 Sulfur Falls
+3 Blood Crypt
 3 Expressive Iteration
-4 Blood Crypt
 4 Sulfur Falls
+4 Blood Crypt
 3 Inquisition of Kozilek
 3 Lofty Denial
 4 Lofty Denial
@@ -133,12 +133,6 @@
 2 Jwari Ruins
 1 Aether Hub
 2 Aether Hub
-1 Power Word Kill
-1 Krydle of Baldur's Gate
-1 Rogue Class
-2 Power Word Kill
-2 Krydle of Baldur's Gate
-2 Rogue Class
 1 Vantress Gargoyle
 2 Vantress Gargoyle
 1 Davriel, Soul Broker
@@ -148,18 +142,26 @@
 2 Eliminate
 2 Murderous Rider
 2 Tome of the Infinite
+1 Power Word Kill
+1 Krydle of Baldur's Gate
+1 Rogue Class
+2 Power Word Kill
+2 Rogue Class
+2 Krydle of Baldur's Gate
 1 Commence the Endgame
 1 Crawling Barrens
 1 Doom Blade
 2 Doom Blade
 3 Mystical Dispute
+1 The Scarab God
+3 Zagoth Triome
 1 Fourth Bridge Prowler
 1 Faerie Duelist
 2 Fourth Bridge Prowler
 3 Fourth Bridge Prowler
-1 Call of the Death-Dweller
 1 Slither Blade
 1 Faerie Vandal
+1 Call of the Death-Dweller
 2 Slither Blade
 3 Slither Blade
 1 Rankle, Master of Pranks
@@ -176,8 +178,6 @@
 3 Agadeem's Awakening
 3 Of One Mind
 3 Lullmage's Domination
-1 The Scarab God
-3 Zagoth Triome
 1 Censor
 1 Teferi, Master of Time
 1 Dismiss

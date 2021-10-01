@@ -58,20 +58,20 @@
 1 Klothys, God of Destiny
 1 Ravenous Chupacabra
 1 Yorion, Sky Nomad
-1 Archon of Sun's Grace
 1 Trial of Ambition
 1 Skyclave Apparition
 1 Enigmatic Incarnation
 1 Ketria Triome
+1 Archon of Sun's Grace
 1 Raugrin Triome
 2 Temple Garden
 2 Trial of Ambition
 2 Overgrown Tomb
 2 Skyclave Apparition
 2 Enigmatic Incarnation
-3 Temple Garden
 3 Overgrown Tomb
 3 Enigmatic Incarnation
+3 Temple Garden
 4 Omen of the Sea
 4 Enigmatic Incarnation
 1 Binding the Old Gods
@@ -80,16 +80,16 @@
 1 Sunpetal Grove
 2 Sunpetal Grove
 1 Woodland Cemetery
-1 Hinterland Harbor
 1 Yasharn, Implacable Earth
-1 Setessan Champion
 1 Oath of Kaya
+1 Hinterland Harbor
 1 Deputy of Detention
 1 Hostage Taker
 1 In Search of Greatness
 1 Glacial Fortress
 1 Elspeth's Nightmare
 1 Renegade Rallier
+1 Setessan Champion
 1 Calix, Destiny's Hand
 1 Tolsimir, Friend to Wolves
 2 Woodland Cemetery
@@ -193,7 +193,6 @@
 1 Deafening Clarion
 1 Stomping Ground
 1 Needleverge Pathway
-1 Branchloft Pathway
 1 Terror of the Peaks
 1 Godless Shrine
 1 Luminous Broodmoth
@@ -224,6 +223,7 @@
 1 Renegade Map
 1 Mastermind's Acquisition
 1 Prophetic Prism
+1 Branchloft Pathway
 1 Thirst for Meaning
 1 God-Eternal Rhonas
 1 Smothering Tithe
@@ -236,30 +236,30 @@
 1 Sanctum of Tranquil Light
 1 Solemn Simulacrum
 1 Trial of Knowledge
+2 Stomping Ground
 2 Escape to the Wilds
 2 Ketria Triome
 2 Deafening Clarion
-2 Branchloft Pathway
 2 Yorion, Sky Nomad
 2 Dryad of the Ilysian Grove
 2 Finale of Devastation
 2 Uro, Titan of Nature's Wrath
-2 Evolving Wilds
 2 Godless Shrine
+2 Evolving Wilds
 2 Klothys, God of Destiny
-2 Stomping Ground
-2 Elspeth Conquers Death
 2 Wrath of God
-2 Archon of Sun's Grace
 2 Migration Path
 2 Omen of the Forge
 2 Smothering Tithe
 2 Mastermind's Acquisition
 2 Sanctum of Fruitful Harvest
+2 Branchloft Pathway
+2 Archon of Sun's Grace
 2 Sacred Foundry
 2 Thirst for Meaning
 2 Watery Grave
 2 Sanctum of All
+2 Elspeth Conquers Death
 2 Treacherous Blessing
 2 Solemn Simulacrum
 2 Honden of Infinite Rage
@@ -274,16 +274,15 @@
 2 Prophetic Prism
 2 Medomai's Prophecy
 3 Sacred Foundry
+3 Stomping Ground
 3 Savai Triome
 3 Ketria Triome
 3 Escape to the Wilds
 3 Deafening Clarion
 3 Watery Grave
-3 Branchloft Pathway
 3 Plains
 3 Dryad of the Ilysian Grove
 3 Evolving Wilds
-3 Stomping Ground
 3 Wrath of God
 3 Sanctum of Stone Fangs
 3 Fae of Wishes
@@ -294,6 +293,7 @@
 3 Mastermind's Acquisition
 3 Mountain
 3 Sanctum of Fruitful Harvest
+3 Branchloft Pathway
 3 Thirst for Meaning
 3 Migration Path
 3 Hallowed Fountain
@@ -302,24 +302,24 @@
 3 Sanctum of All
 4 Sacred Foundry
 4 Fae of Wishes
+4 Stomping Ground
 4 Lotus Cobra
+4 Overgrown Tomb
+4 Breeding Pool
 4 Fabled Passage
-4 Temple Garden
 4 Plains
 4 Island
 4 Dryad of the Ilysian Grove
-4 Watery Grave
 4 Deafening Clarion
-4 Evolving Wilds
 4 Wrath of God
-4 Breeding Pool
-4 Overgrown Tomb
-4 Stomping Ground
+4 Watery Grave
 4 Prophetic Prism
 4 Treacherous Blessing
 4 Renegade Map
+4 Temple Garden
 4 Migration Path
 4 Gilded Goose
+4 Evolving Wilds
 4 Mastermind's Acquisition
 4 Hallowed Fountain
 4 Thirst for Meaning
@@ -370,23 +370,23 @@
 1 The Great Henge
 1 Castle Locthwain
 1 Darkbore Pathway
-1 Barkchannel Pathway
 1 Temple of Deceit
 1 Gemrazer
 1 Necroblossom Snarl
 1 Temple of Malady
 1 Paradise Druid
 1 Nicol Bolas, Dragon-God
+1 Tamiyo, Collector of Tales
+1 Vineglimmer Snarl
+1 Barkchannel Pathway
 1 Vivien Reid
 1 Vivien, Champion of the Wilds
 1 Scute Swarm
 1 Nissa, Who Shakes the World
 1 Season of Growth
 1 Castle Vantress
-1 Tamiyo, Collector of Tales
 1 Dirge Bat
 1 Nethroi, Apex of Death
-1 Vineglimmer Snarl
 1 Migratory Greathorn
 1 Auspicious Starrix
 1 Boneyard Lurker
@@ -446,19 +446,19 @@
 2 Labyrinth of Skophos
 3 Labyrinth of Skophos
 1 Omniscience
-1 Wolfwillow Haven
-1 Relic of Progenitus
 1 Shefet Dunes
+1 Relic of Progenitus
 1 Hydroid Krasis
+1 Wolfwillow Haven
 1 Hour of Promise
 1 Hashep Oasis
-2 Wolfwillow Haven
 2 Shefet Dunes
 2 Relic of Progenitus
 2 The World Tree
 2 Hydroid Krasis
 2 Hour of Promise
 2 Hashep Oasis
+2 Wolfwillow Haven
 2 Omniscience
 3 Hashep Oasis
 3 Shefet Dunes
