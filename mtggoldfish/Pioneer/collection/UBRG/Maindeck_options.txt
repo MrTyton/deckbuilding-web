@@ -21,11 +21,11 @@
 1 Plains
 1 Cave of the Frost Dragon
 1 Mutavault
+1 Thraben Inspector
 1 Rally the Ranks
 1 Thalia's Lieutenant
 1 Soldier of the Pantheon
 1 Brave the Elements
-1 Thraben Inspector
 1 Kytheon, Hero of Akros
 1 Declaration in Stone
 1 Shefet Dunes
@@ -36,12 +36,12 @@
 1 Paladin Class
 1 Dauntless Bodyguard
 2 Cave of the Frost Dragon
+2 Mutavault
 2 Brave the Elements
 2 Thraben Inspector
 2 Thalia's Lieutenant
 2 Kytheon, Hero of Akros
 2 Soldier of the Pantheon
-2 Mutavault
 2 Rally the Ranks
 2 Plains
 2 Paladin Class
@@ -51,11 +51,11 @@
 2 Shefet Dunes
 2 Dauntless Bodyguard
 2 Giant Killer
+3 Mutavault
 3 Soldier of the Pantheon
 3 Brave the Elements
 3 Thraben Inspector
 3 Thalia's Lieutenant
-3 Mutavault
 3 Dauntless Bodyguard
 3 Shefet Dunes
 3 Rally the Ranks
@@ -123,8 +123,8 @@
 3 Leonin Lightscribe
 3 Crash Through
 4 Homestead Courage
-4 Guiding Voice
 4 Needleverge Pathway
+4 Guiding Voice
 4 Reckless Rage
 4 Battlefield Forge
 4 Defiant Strike

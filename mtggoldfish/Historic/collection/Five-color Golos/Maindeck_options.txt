@@ -118,26 +118,28 @@
 4 Plaza of Harmony
 4 Arboreal Grazer
 3 Forest
-4 Forest
-3 Buried Ruin
-2 Crawling Barrens
-3 Karn, Scion of Urza
-4 Karn, Scion of Urza
 1 Mystic Forge
 1 Mobilized District
 2 Mobilized District
 2 Mystic Forge
+4 Forest
+1 Mazemind Tome
+2 Mazemind Tome
+3 Buried Ruin
 1 Aether Hub
 2 Aether Hub
 3 Aether Hub
 4 Aether Hub
+2 Crawling Barrens
 1 Blinkmoth Nexus
 2 Blinkmoth Nexus
 3 Blinkmoth Nexus
+3 Karn, Scion of Urza
 3 Blast Zone
 3 Crawling Barrens
 3 Mobilized District
 4 Blinkmoth Nexus
+4 Karn, Scion of Urza
 4 Blast Zone
 4 Forsaken Monument
 1 Assassin's Trophy
@@ -177,9 +179,9 @@
 3 Gilded Goose
 3 Swamp
 5 Forest
-1 Cragcrown Pathway
 1 Blood Crypt
 1 Steam Vents
+1 Cragcrown Pathway
 1 Riverglide Pathway
 2 Cragcrown Pathway
 2 Blood Crypt
@@ -196,6 +198,7 @@
 1 Terror of the Peaks
 1 Godless Shrine
 1 Luminous Broodmoth
+1 Dryad of the Ilysian Grove
 1 Keruga, the Macrosage
 1 Omen of the Forge
 1 Elspeth Conquers Death
@@ -219,7 +222,6 @@
 1 Savai Triome
 1 Honden of Seeing Winds
 1 The Birth of Meletis
-1 Dryad of the Ilysian Grove
 1 Renegade Map
 1 Mastermind's Acquisition
 1 Prophetic Prism
@@ -236,16 +238,16 @@
 1 Sanctum of Tranquil Light
 1 Solemn Simulacrum
 1 Trial of Knowledge
-2 Stomping Ground
 2 Escape to the Wilds
 2 Ketria Triome
 2 Deafening Clarion
 2 Yorion, Sky Nomad
 2 Dryad of the Ilysian Grove
 2 Finale of Devastation
+2 Stomping Ground
 2 Uro, Titan of Nature's Wrath
-2 Godless Shrine
 2 Evolving Wilds
+2 Godless Shrine
 2 Klothys, God of Destiny
 2 Wrath of God
 2 Migration Path
@@ -329,13 +331,11 @@
 6 Forest
 7 Forest
 3 Simic Guildgate
-1 Labyrinth of Skophos
-1 Mazemind Tome
-2 Mazemind Tome
 1 Archway Angel
 1 Field of Ruin
 1 Bojuka Bog
 1 Stonecoil Serpent
+1 Labyrinth of Skophos
 2 Field of Ruin
 2 Stonecoil Serpent
 1 Elvish Rejuvenator
@@ -350,8 +350,8 @@
 4 Maelstrom Pulse
 4 Guild Summit
 2 Boros Guildgate
-2 Ulamog, the Ceaseless Hunger
 4 Raugrin Triome
+2 Ulamog, the Ceaseless Hunger
 3 Maze's End
 2 Archway Angel
 2 Orzhov Guildgate
@@ -363,7 +363,17 @@
 2 Crypt of the Eternals
 3 Crypt of the Eternals
 4 Crypt of the Eternals
+1 Karn's Bastion
+1 Cryptic Caves
+2 Inventors' Fair
+2 Karn's Bastion
+3 Mazemind Tome
+3 Karn's Bastion
+3 Ulamog, the Ceaseless Hunger
+3 Mystic Forge
+4 Ulamog, the Ceaseless Hunger
 4 Buried Ruin
+4 Mazemind Tome
 1 Abundant Harvest
 2 Abundant Harvest
 1 Koma, Cosmos Serpent
@@ -374,10 +384,9 @@
 1 Gemrazer
 1 Necroblossom Snarl
 1 Temple of Malady
-1 Paradise Druid
 1 Nicol Bolas, Dragon-God
+1 Paradise Druid
 1 Tamiyo, Collector of Tales
-1 Vineglimmer Snarl
 1 Barkchannel Pathway
 1 Vivien Reid
 1 Vivien, Champion of the Wilds
@@ -387,6 +396,7 @@
 1 Castle Vantress
 1 Dirge Bat
 1 Nethroi, Apex of Death
+1 Vineglimmer Snarl
 1 Migratory Greathorn
 1 Auspicious Starrix
 1 Boneyard Lurker
@@ -441,10 +451,6 @@
 1 Crucible of Worlds
 1 Ratchet Bomb
 3 Stonecoil Serpent
-1 Snow-Covered Plains
-2 Cascading Cataracts
-2 Labyrinth of Skophos
-3 Labyrinth of Skophos
 1 Omniscience
 1 Shefet Dunes
 1 Relic of Progenitus
@@ -509,13 +515,3 @@
 4 Riverglide Pathway
 4 Magma Opus
 4 Khalni Garden
-1 Karn's Bastion
-1 Cryptic Caves
-2 Inventors' Fair
-2 Karn's Bastion
-3 Mazemind Tome
-3 Karn's Bastion
-3 Ulamog, the Ceaseless Hunger
-3 Mystic Forge
-4 Ulamog, the Ceaseless Hunger
-4 Mazemind Tome

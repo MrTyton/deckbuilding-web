@@ -43,13 +43,11 @@
 1 Pyroblast
 1 Den of the Bugbear
 2 Den of the Bugbear
-4 Trinisphere
 7 Swamp
 2 Dead/Gone
 3 Den of the Bugbear
 4 Den of the Bugbear
-1 Torbran, Thane of Red Fell
-2 Torbran, Thane of Red Fell
+4 Trinisphere
 2 Pyroblast
 3 Pyroblast
 4 Pyroblast
@@ -72,6 +70,8 @@
 3 Goblin Engineer
 4 Painter's Servant
 1 Seasoned Pyromancer
+1 Torbran, Thane of Red Fell
+2 Torbran, Thane of Red Fell
 1 Red Elemental Blast
 4 Lotus Petal
 1 Lion's Eye Diamond
@@ -99,7 +99,6 @@
 1 Portable Hole
 2 Wooded Foothills
 8 Swamp
-10 Mountain
 2 Red Elemental Blast
 1 Helm of Obedience
 2 Helm of Obedience
@@ -109,16 +108,16 @@
 1 Bolas's Citadel
 4 Goblin Engineer
 4 Goblin Welder
-1 Magus of the Moon
 1 Arid Mesa
 1 Shinka, the Bloodsoaked Keep
-2 Magus of the Moon
-1 Sundering Titan
+10 Mountain
 1 Anje's Ravager
 2 Anje's Ravager
+1 Sundering Titan
 1 Defense Grid
 1 Wasteland
 2 Wasteland
+1 Magus of the Moon
 1 Blood Sun
 2 Blood Sun
 3 Blood Sun
@@ -130,10 +129,11 @@
 1 Pyrite Spellbomb
 1 Soul-Guide Lantern
 1 Faithless Looting
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
 1 Dismember
 2 Dismember
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
+2 Magus of the Moon
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
 3 Torbran, Thane of Red Fell
@@ -143,8 +143,6 @@
 2 Scab-Clan Berserker
 3 Scab-Clan Berserker
 4 Bloodstained Mire
-1 Darksteel Citadel
-4 Grindstone
 3 Dead/Gone
 4 Dead/Gone
 1 Aether Vial
@@ -162,16 +160,34 @@
 2 Laelia, the Blade Reforged
 3 Laelia, the Blade Reforged
 4 Laelia, the Blade Reforged
+1 Darksteel Citadel
+4 Grindstone
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
+4 Snow-Covered Mountain
+5 Snow-Covered Mountain
+1 Snow-Covered Swamp
+1 Plague Reaver
+1 Murderous Rider
+2 Snow-Covered Swamp
+2 Plague Reaver
+3 Snow-Covered Swamp
+3 Plague Reaver
+4 Snow-Covered Swamp
+5 Snow-Covered Swamp
+6 Snow-Covered Swamp
+7 Snow-Covered Swamp
 1 Hazoret the Fervent
-1 Grove of the Burnwillows
 1 Punishing Fire
+1 Grove of the Burnwillows
 1 Purphoros's Intervention
 1 Reality Smasher
 1 Thought-Knot Seer
 1 Fiery Confluence
 1 Eldrazi Temple
-2 Grove of the Burnwillows
 2 Punishing Fire
+2 Grove of the Burnwillows
 2 Hazoret the Fervent
 2 Reality Smasher
 2 Thought-Knot Seer
@@ -189,20 +205,3 @@
 4 Thought-Knot Seer
 4 Eldrazi Temple
 4 Blood Sun
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
-4 Snow-Covered Mountain
-5 Snow-Covered Mountain
-1 Snow-Covered Swamp
-1 Plague Reaver
-1 Murderous Rider
-2 Snow-Covered Swamp
-2 Plague Reaver
-3 Snow-Covered Swamp
-3 Plague Reaver
-4 Snow-Covered Swamp
-5 Snow-Covered Swamp
-6 Snow-Covered Swamp
-7 Snow-Covered Swamp
-11 Mountain

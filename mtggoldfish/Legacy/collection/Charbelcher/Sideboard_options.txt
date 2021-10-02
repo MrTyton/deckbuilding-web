@@ -24,25 +24,25 @@
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 3 Leyline of Sanctity
-1 Chain of Vapor
 1 Surgical Extraction
-1 Echoing Truth
+1 Chain of Vapor
 1 Pack Rat
-2 Chain of Vapor
+1 Echoing Truth
 2 Surgical Extraction
+2 Chain of Vapor
 2 Pack Rat
 3 Surgical Extraction
 3 Pack Rat
 4 Surgical Extraction
 4 Pack Rat
 1 Nexus of Fate
+1 Street Wraith
 1 Pact of Negation
 1 Edge of Autumn
 1 Ideas Unbound
-1 Street Wraith
 1 Doomsday
-2 Doomsday
 2 Street Wraith
+2 Doomsday
 3 Doomsday
 4 Doomsday
 3 Thoughtseize
@@ -57,61 +57,42 @@
 3 Carpet of Flowers
 4 Xantid Swarm
 1 Duress
-1 Chain Lightning
-1 Memory's Journey
 1 Lightning Bolt
+1 Memory's Journey
+1 Chain Lightning
 1 Overgrown Tomb
 1 Massacre
 1 Hull Breach
 1 Opposition Agent
 1 Rotting Regisaur
+2 Slaughter Pact
 1 Gamble
 2 Gamble
-2 Slaughter Pact
 1 Leyline of Anticipation
 2 Leyline of Anticipation
 3 Leyline of Anticipation
-1 Deafening Silence
+1 Badlands
+1 Simian Spirit Guide
+1 Cabal Therapy
+2 Simian Spirit Guide
+2 Cabal Therapy
+2 Empty the Warrens
+3 Simian Spirit Guide
+3 Cabal Therapy
+3 Empty the Warrens
+4 Simian Spirit Guide
+4 Cabal Therapy
 1 Ghostly Prison
 1 Cursed Totem
-1 Defense Grid
+1 Deafening Silence
 1 Wrath of God
 1 Porphyry Nodes
 1 Aura of Silence
 1 Isochron Scepter
+1 Defense Grid
 1 Baneslayer Angel
 2 Isochron Scepter
 4 Leyline of Sanctity
-1 Forest
-4 Carpet of Flowers
-1 Dread of Night
-2 Duress
-2 Dread of Night
-3 Dread of Night
-4 Dread of Night
-1 Tangled Florahedron
-1 Wishclaw Talisman
-2 Wishclaw Talisman
-3 Wishclaw Talisman
-4 Wishclaw Talisman
-1 Badlands
-1 Cabal Therapy
-1 Simian Spirit Guide
-2 Cabal Therapy
-2 Empty the Warrens
-2 Simian Spirit Guide
-3 Simian Spirit Guide
-3 Empty the Warrens
-3 Cabal Therapy
-4 Simian Spirit Guide
-4 Cabal Therapy
-1 Serum Powder
-1 Grim Monolith
-2 Serum Powder
-2 Grim Monolith
-3 Serum Powder
-3 Grim Monolith
-4 Grim Monolith
 1 Red Elemental Blast
 1 Regrowth
 1 Shattering Pulse
@@ -123,11 +104,30 @@
 3 Red Elemental Blast
 3 Regrowth
 4 Red Elemental Blast
-1 Pyroblast
-1 Cave-In
-1 Simplify
+1 Forest
+4 Carpet of Flowers
+1 Dread of Night
+2 Dread of Night
+2 Duress
+3 Dread of Night
+4 Dread of Night
+1 Tangled Florahedron
+1 Wishclaw Talisman
+2 Wishclaw Talisman
+3 Wishclaw Talisman
+4 Wishclaw Talisman
+1 Serum Powder
+1 Grim Monolith
+2 Serum Powder
+2 Grim Monolith
+3 Serum Powder
+3 Grim Monolith
+4 Grim Monolith
 1 Dark Ritual
-1 Diminishing Returns
 1 Ill-Gotten Gains
-3 Dark Ritual
+1 Cave-In
+1 Pyroblast
+1 Simplify
 2 Dark Ritual
+3 Dark Ritual
+1 Diminishing Returns
