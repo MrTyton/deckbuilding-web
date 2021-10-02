@@ -49,13 +49,13 @@ def output():
     with open("README.md", "w") as fp:
         fp.write(everything)
 
-    everything = "# Stock Decklists\n#### Based on mtgtop8\n\n"
-    for format in ["Standard", "Historic", "Pioneer", "Modern", "Legacy"]:
-        everything += "\n" + create(format, 'mtgtop8')
-
-    everything += f"\n\n#### Last Updated at {datetime.datetime.now().strftime('%I:%M%p on %B %d, %Y')}"
-    with open("mtgtop8.md", "w") as fp:
-        fp.write(everything)
+#    everything = "# Stock Decklists\n#### Based on mtgtop8\n\n"
+#    for format in ["Standard", "Historic", "Pioneer", "Modern", "Legacy"]:
+#        everything += "\n" + create(format, 'mtgtop8')
+#
+#    everything += f"\n\n#### Last Updated at {datetime.datetime.now().strftime('%I:%M%p on %B %d, %Y')}"
+#    with open("mtgtop8.md", "w") as fp:
+#        fp.write(everything)
         
 
 if __name__ == "__main__":

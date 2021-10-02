@@ -47,7 +47,7 @@ def return_url_line_type(cardName, memoizer):
         last_set = sorted([x for x in card.printings if Set.find(x).type in ['expansion', 'core', 'draft_innovation', 'masters', 'commander', 'archenemy', 'starter', 'planechase']], key = lambda x : Set.find(x).release_date, reverse=True)[0]
     except:
         print(name)
-        print([Set.find(x).type for x in card.printings])
+        #print([Set.find(x).type for x in card.printings])
         last_set = None
     try:
         number = [x for x in Card.where(name=name.split("/")[0], set=last_set).all() if x.name == name.split("/")[0]][0].number

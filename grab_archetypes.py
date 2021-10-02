@@ -14,7 +14,7 @@ def get_archetype_links(base, site):
         a = soup.select("a[href*archetype]")
         results = [[x.text, "http://mtgtop8.com/{}".format(x['href'])] for x in a]
     else:
-        a = soup.find_all("a", href = lambda href: href and "archetype" in href and "paper" in href)
+        a = soup.find_all("a", href = lambda href: href and "archetype" in href and "paper" in href and "other" not in href)
         results = [[x.text, "https://www.mtggoldfish.com{}".format(x['href'])] for x in a]
     
     args = set(x[0] for x in results)
