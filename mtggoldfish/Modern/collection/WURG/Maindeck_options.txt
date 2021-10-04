@@ -19,6 +19,7 @@
 3 Utopia Sprawl
 4 Utopia Sprawl
 1 Prismatic Ending
+1 Plains
 2 Forest
 1 Skyclave Apparition
 1 Magus of the Moon
@@ -30,7 +31,6 @@
 2 Restoration Angel
 3 Chord of Calling
 4 Chord of Calling
-1 Plains
 2 Prismatic Ending
 1 Wall of Blossoms
 2 Wall of Blossoms
@@ -44,10 +44,10 @@
 3 Wall of Blossoms
 4 Tireless Provisioner
 2 Eternal Witness
-1 Sunbaked Canyon
+2 Scalding Tarn
 3 Fury
 4 Chancellor of the Forge
-2 Scalding Tarn
+1 Sunbaked Canyon
 3 Wrenn and Six
 2 Skyclave Apparition
 1 Deputy of Detention
@@ -64,7 +64,6 @@
 2 Scion of Draco
 3 Scion of Draco
 4 Scion of Draco
-3 Flooded Strand
 1 Tribal Flames
 2 Tribal Flames
 3 Tribal Flames
@@ -75,24 +74,25 @@
 2 Mantis Rider
 3 Bloodbraid Elf
 4 Bloodbraid Elf
-3 Mantis Rider
+3 Flooded Strand
 1 General Ferrous Rokiric
 2 General Ferrous Rokiric
 3 General Ferrous Rokiric
+3 Mantis Rider
 4 Mantis Rider
-1 Drannith Magistrate
-1 Indatha Triome
 1 Bloodstained Mire
+1 Indatha Triome
+1 Drannith Magistrate
 1 Birds of Paradise
 2 Birds of Paradise
 3 Birds of Paradise
 1 Gilded Goose
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
 1 Lightning Helix
 2 Lightning Helix
-4 Prismatic Ending
 1 Hallowed Fountain
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+4 Prismatic Ending
 2 Arid Mesa
 2 Mountain
 1 Gemstone Mine
@@ -105,13 +105,13 @@
 2 Sacred Foundry
 3 Ragavan, Nimble Pilferer
 1 Noble Hierarch
+1 Blood Crypt
+1 Savai Triome
 4 Fury
 4 Wall of Blossoms
-1 Blood Crypt
 2 Noble Hierarch
 1 Ignoble Hierarch
 2 Ignoble Hierarch
-1 Savai Triome
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 3 Skyclave Apparition
@@ -128,14 +128,16 @@
 4 Ragavan, Nimble Pilferer
 1 Snow-Covered Mountain
 2 Gilded Goose
+1 Manamorphose
+2 Manamorphose
+3 Manamorphose
 1 Ardent Plea
 3 Arid Mesa
 4 Wall of Omens
 2 Gemstone Caverns
 1 Horizon Canopy
-1 Manamorphose
-2 Manamorphose
-3 Manamorphose
+4 Manamorphose
+3 Lightning Helix
 1 Emrakul, the Aeons Torn
 3 Gemstone Caverns
 2 Emrakul, the Aeons Torn
@@ -173,9 +175,7 @@
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
-4 Manamorphose
 4 Teferi, Time Raveler
-3 Lightning Helix
 1 Reflecting Pool
 1 Expressive Iteration
 2 Expressive Iteration
@@ -289,6 +289,7 @@
 1 Abundant Growth
 2 Abundant Growth
 3 Abundant Growth
+1 Knight of Autumn
 4 Glimpse of Tomorrow
 1 Brazen Borrower
 2 Polluted Delta
@@ -315,7 +316,6 @@
 2 Endurance
 3 Snapcaster Mage
 1 Imperial Recruiter
-1 Knight of Autumn
 1 Kataki, War's Wage
 1 Mana Leak
 1 Archon of Emeria
@@ -338,6 +338,8 @@
 1 Shambleshark
 1 Niv-Mizzet Reborn
 2 Shambleshark
+1 Bounding Krasis
+2 Bounding Krasis
 1 Den of the Bugbear
 2 Den of the Bugbear
 2 Renegade Rallier
@@ -370,8 +372,8 @@
 2 Rift Sower
 3 Rift Sower
 4 Rift Sower
-1 Springleaf Drum
 1 Pithing Needle
+1 Springleaf Drum
 1 Jace, the Mind Sculptor
 1 Liquimetal Torque
 1 Shadowspear

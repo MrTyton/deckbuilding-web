@@ -36,29 +36,29 @@
 1 Lightning Bolt
 4 Force of Vigor
 3 Rest in Peace
-3 Leyline of Sanctity
 2 Alpine Moon
+3 Leyline of Sanctity
 2 Lightning Bolt
 1 Obsidian Charmaw
 2 Obsidian Charmaw
 1 Unholy Heat
 3 Chalice of the Void
 1 Knight of Autumn
-1 Detention Sphere
-1 Blood Moon
 2 Path to Exile
-1 Emrakul, the Aeons Torn
-1 Lavinia, Azorius Renegade
+1 Detention Sphere
 1 Cindervines
 1 Jegantha, the Wellspring
+1 Lavinia, Azorius Renegade
 3 Path to Exile
 1 Lightning Helix
+1 Engineered Explosives
 2 Cindervines
+1 Blood Moon
+1 Emrakul, the Aeons Torn
 1 Gaddock Teeg
 2 Gaddock Teeg
 2 Lightning Helix
 3 Veil of Summer
-1 Engineered Explosives
 1 Force of Negation
 2 Force of Negation
 1 Keruga, the Macrosage
@@ -76,6 +76,7 @@
 3 Foundation Breaker
 2 Engineered Explosives
 1 Kataki, War's Wage
+1 Vindicate
 2 Ingot Chewer
 3 Ingot Chewer
 1 Blast Zone
@@ -95,21 +96,20 @@
 2 Consulate Crackdown
 4 Ingot Chewer
 1 Wrenn and Six
-1 Vindicate
 2 Detention Sphere
 2 Stony Silence
+1 Geist of Saint Traft
 1 Skyclave Apparition
 4 Leyline of Sanctity
 1 Flusterstorm
 1 Cleansing Wildfire
 2 Cleansing Wildfire
 3 Cleansing Wildfire
+1 Collector Ouphe
 3 Cindervines
 1 Spreading Seas
 2 Spreading Seas
-1 Collector Ouphe
 1 Meddling Mage
-1 Geist of Saint Traft
 2 Kataki, War's Wage
 2 Collector Ouphe
 1 Burrenton Forge-Tender
@@ -121,8 +121,8 @@
 3 Meddling Mage
 1 Archangel Avacyn
 1 Scavenging Ooze
-1 Selfless Spirit
 1 Linvala, Keeper of Silence
+1 Selfless Spirit
 4 Prismatic Ending
 1 Celestial Purge
 1 Fae of Wishes
@@ -134,6 +134,7 @@
 1 Ancient Grudge
 1 Akroma, Angel of Fury
 2 Akroma, Angel of Fury
+2 Geist of Saint Traft
 2 Flusterstorm
 1 Natural State
 1 Weather the Storm
@@ -151,9 +152,9 @@
 1 Mistcaller
 1 Scavenger Grounds
 1 Yasharn, Implacable Earth
+1 Tormod's Crypt
 1 Abrade
 1 Crumble to Dust
-1 Tormod's Crypt
 1 Kozilek, Butcher of Truth
 1 Ulamog, the Infinite Gyre
 1 Seasoned Pyromancer
@@ -196,7 +197,6 @@
 1 Sanctifier en-Vec
 2 Sanctifier en-Vec
 1 Anafenza, the Foremost
-2 Geist of Saint Traft
 2 Knight of Autumn
 2 Anafenza, the Foremost
 2 Jegantha, the Wellspring
@@ -226,8 +226,8 @@
 1 Destructive Revelry
 1 Pillar of Flame
 1 Ranger of Eos
-2 Ancient Grudge
 2 Surgical Extraction
+2 Ancient Grudge
 2 Pillar of Flame
 2 Destructive Revelry
 3 Kor Firewalker

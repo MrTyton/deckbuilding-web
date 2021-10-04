@@ -1,7 +1,8 @@
 1 Plains
 2 Ingenious Smith
-1 Sacred Foundry
 1 Spire of Industry
+1 Sacred Foundry
+2 Spire of Industry
 3 Forest
 4 Ancient Stirrings
 3 Ingenious Smith
@@ -15,7 +16,6 @@
 1 Basilisk Collar
 3 Llanowar Reborn
 2 Temple Garden
-2 Spire of Industry
 1 Horizon Canopy
 4 Llanowar Reborn
 4 Ingenious Smith
@@ -25,19 +25,20 @@
 2 Idyllic Grange
 1 Arcbound Mouser
 2 Arcbound Mouser
+1 Pithing Needle
 1 Stomping Ground
-3 Arid Mesa
-3 Temple Garden
+1 Brushland
 4 Welding Jar
 1 Steel Overseer
 2 Steel Overseer
-3 Arcbound Mouser
+3 Arid Mesa
+3 Temple Garden
 1 Power Depot
 2 Power Depot
-1 Pithing Needle
+3 Arcbound Mouser
 2 Horizon Canopy
+2 Brushland
 1 Branchloft Pathway
-1 Brushland
 2 Branchloft Pathway
 3 Branchloft Pathway
 1 Razorverge Thicket
@@ -49,9 +50,8 @@
 1 Wooded Bastion
 4 Forest
 1 Blinkmoth Nexus
-1 Power Conduit
 4 Branchloft Pathway
-2 Brushland
+1 Power Conduit
 3 Brushland
 4 Brushland
 1 Wooded Foothills

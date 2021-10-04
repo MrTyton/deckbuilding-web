@@ -1,7 +1,11 @@
-3 Feasting Troll King
+1 Marsh Flats
+1 Nettlecyst
+1 Pithing Needle
+1 Temple Garden
+1 Windswept Heath
+1 Darkbore Pathway
 1 Bloodstained Mire
 1 Springleaf Drum
-1 Nettlecyst
 1 Blood Crypt
 1 Nihil Spellbomb
 1 Wooded Foothills
@@ -11,6 +15,7 @@
 1 Urza, Lord High Artificer
 2 Urza, Lord High Artificer
 3 Urza, Lord High Artificer
+2 Swamp
 1 Aether Spellbomb
 1 Thought Monitor
 2 Thought Monitor
@@ -19,20 +24,17 @@
 1 Stomping Ground
 2 Wrenn and Six
 1 Mountain
-2 Swamp
-2 Bloodstained Mire
-1 Pithing Needle
+3 Prismatic Ending
 2 Marsh Flats
-1 Temple Garden
-1 Windswept Heath
+1 Kaya, Orzhov Usurper
+2 Kaya, Orzhov Usurper
+2 Bloodstained Mire
 3 Wrenn and Six
 1 Copperline Gorge
 2 Copperline Gorge
 3 Copperline Gorge
-1 Darkbore Pathway
-2 Darkbore Pathway
-1 Misty Rainforest
 2 Island
+1 Misty Rainforest
 1 Scalding Tarn
 1 Steam Vents
 2 Scalding Tarn
@@ -43,6 +45,7 @@
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
+2 Darkbore Pathway
 1 Stitcher's Supplier
 2 Stitcher's Supplier
 3 Stitcher's Supplier
@@ -54,7 +57,6 @@
 2 Lightning Bolt
 3 Lightning Bolt
 4 Lightning Bolt
-3 Prismatic Ending
 2 Misty Rainforest
 3 Misty Rainforest
 4 Thought Monitor
@@ -71,8 +73,6 @@
 3 Grist, the Hunger Tide
 4 Grist, the Hunger Tide
 4 Seasoned Pyromancer
-1 Kaya, Orzhov Usurper
-2 Kaya, Orzhov Usurper
 2 Nettlecyst
 1 Tranquil Thicket
 1 Barren Moor
@@ -113,7 +113,9 @@
 3 Ranger-Captain of Eos
 4 Prismatic Ending
 4 Ranger-Captain of Eos
+2 Nurturing Peatland
 2 Ignoble Hierarch
+2 Windswept Heath
 1 Esper Sentinel
 1 Thraben Inspector
 1 Arid Mesa
@@ -165,8 +167,6 @@
 4 Ragavan, Nimble Pilferer
 1 Mox Amber
 1 Engineered Explosives
-2 Nurturing Peatland
-2 Windswept Heath
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
