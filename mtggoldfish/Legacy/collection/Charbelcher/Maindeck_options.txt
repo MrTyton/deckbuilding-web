@@ -10,76 +10,79 @@
 4 Land Grant
 1 Desperate Ritual
 1 Tinder Wall
-1 Seething Song
 1 Rite of Flame
-2 Desperate Ritual
 2 Rite of Flame
-2 Seething Song
 2 Tinder Wall
+2 Desperate Ritual
 3 Goblin Charbelcher
 3 Rite of Flame
-3 Seething Song
 3 Tinder Wall
 4 Goblin Charbelcher
-4 Tinder Wall
 4 Rite of Flame
-4 Seething Song
 1 Empty the Warrens
 1 Burning Wish
 2 Burning Wish
 2 Empty the Warrens
 3 Burning Wish
 4 Burning Wish
-1 Shatterskull Smashing
-2 Shatterskull Smashing
+1 Seething Song
+2 Seething Song
+3 Seething Song
+4 Tinder Wall
+4 Seething Song
 3 Desperate Ritual
 4 Desperate Ritual
 1 Echo of Eons
 1 Gamble
 1 Taiga
-3 Shatterskull Smashing
-4 Shatterskull Smashing
+1 Shatterskull Smashing
+2 Shatterskull Smashing
 2 Echo of Eons
 3 Echo of Eons
 3 Empty the Warrens
+3 Shatterskull Smashing
+4 Shatterskull Smashing
 3 Thoughtseize
 1 Once Upon a Time
 2 Once Upon a Time
 4 Thoughtseize
-1 Ponder
+1 Pelakka Predation
 1 Force of Will
+1 Ponder
 1 Brainstorm
 1 Preordain
 1 Sea Gate Restoration
-1 Pelakka Predation
 1 Jwari Disruption
+2 Force of Will
 2 Sea Gate Restoration
 2 Ponder
-2 Force of Will
 2 Brainstorm
 2 Preordain
 3 Sea Gate Restoration
+3 Force of Will
 3 Ponder
 3 Brainstorm
-3 Force of Will
 4 Sea Gate Restoration
 4 Ponder
 4 Brainstorm
-1 Dark Petition
-2 Pelakka Predation
-3 Preordain
 4 Force of Will
 1 Leyline of Anticipation
 2 Leyline of Anticipation
 3 Leyline of Anticipation
 4 Leyline of Anticipation
 3 Cabal Therapy
+1 Chancellor of the Annex
+2 Chancellor of the Annex
+2 Gamble
+3 Gamble
 1 Irencrag Feat
 2 Irencrag Feat
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
 4 Manamorphose
+1 Pyretic Ritual
+2 Pyretic Ritual
 1 Grief
 1 Infernal Tutor
 1 Cruel Bargain
@@ -101,13 +104,15 @@
 4 Infernal Contract
 1 Stomping Ground
 1 The Deck of Many Things
-1 Chancellor of the Annex
-2 Chancellor of the Annex
 2 Dread Return
 1 Veil of Summer
 2 Veil of Summer
-2 Gamble
-3 Gamble
+1 Dark Petition
+2 Pelakka Predation
+3 Preordain
+1 Jeska's Will
+2 Jeska's Will
+3 Chancellor of the Annex
 1 Dryad Arbor
 1 Blex, Vexing Pest
 1 Ill-Gotten Gains
@@ -142,16 +147,14 @@
 4 Entomb
 4 Grief
 4 Echo of Eons
-1 Pyretic Ritual
 1 Grim Monolith
 1 Serum Powder
-2 Pyretic Ritual
 2 Grim Monolith
 2 Serum Powder
-3 Pyretic Ritual
 3 Grim Monolith
 3 Serum Powder
 3 Irencrag Feat
+3 Pyretic Ritual
 4 Grim Monolith
 4 Irencrag Feat
 4 Serum Powder
@@ -161,6 +164,7 @@
 1 Mountain
 1 Plains
 1 Orim's Chant
+1 Mox Diamond
 1 Pithing Needle
 1 Rest in Peace
 1 Helm of Obedience
@@ -173,7 +177,6 @@
 1 Elspeth, Knight-Errant
 1 Trinisphere
 1 Land Tax
-1 Mox Diamond
 1 Enlightened Tutor
 1 Runed Halo
 1 Solitary Confinement

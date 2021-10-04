@@ -1,48 +1,55 @@
 1 Island
-1 Force of Negation
 3 Flooded Strand
-3 Polluted Delta
-1 Crucible of Worlds
-1 True-Name Nemesis
-4 Wasteland
+1 Force of Negation
 3 Standstill
+1 True-Name Nemesis
+1 Crucible of Worlds
+3 Polluted Delta
+4 Wasteland
 1 Pyroblast
 4 Standstill
 4 Flooded Strand
-2 Island
 4 Prismatic Ending
+2 Island
+1 Teferi, Time Raveler
 1 Plains
 1 Relic of Progenitus
 1 Expedition Map
-1 Hullbreacher
 1 Dack Fayden
-1 Teferi, Time Raveler
+1 Hullbreacher
 1 Snapcaster Mage
+1 Timeless Dragon
+2 Timeless Dragon
 2 Dack Fayden
 1 Lavinia, Azorius Renegade
 2 True-Name Nemesis
 3 Misty Rainforest
-1 Mishra's Bauble
 1 Shadowspear
-1 Timeless Dragon
-2 Timeless Dragon
+1 Snow-Covered Island
+1 Shark Typhoon
 1 Teferi, Who Slows the Sunset
 2 Hullbreacher
+1 Mishra's Bauble
 1 Dragon's Rage Channeler
 2 Dragon's Rage Channeler
 3 Dragon's Rage Channeler
 3 Murktide Regent
 4 Dragon's Rage Channeler
-1 Narset, Parter of Veils
-1 Snow-Covered Island
 1 Spell Pierce
 1 Mystic Sanctuary
 1 Terminus
 2 Spell Pierce
 2 Terminus
 1 Jace, the Mind Sculptor
-1 Shark Typhoon
 2 Jace, the Mind Sculptor
+4 Scalding Tarn
+2 Teferi, Time Raveler
+2 Force of Negation
+1 Snow-Covered Plains
+2 Snow-Covered Island
+2 Snow-Covered Plains
+3 Snow-Covered Island
+3 Timeless Dragon
 2 Snapcaster Mage
 2 Plains
 1 Aether Vial
@@ -52,29 +59,22 @@
 4 Aether Vial
 4 Island
 1 Pyrite Spellbomb
-1 Meekstone
+1 Monastery Mentor
+1 Sevinne's Reclamation
+1 Narset, Parter of Veils
 1 Brainstone
+1 Meekstone
 2 Narset, Parter of Veils
 2 Pyroblast
 1 Prismatic Vista
 1 Brazen Borrower
-2 Teferi, Time Raveler
 2 Retrofitter Foundry
 2 Prismatic Vista
-2 Force of Negation
-1 Snow-Covered Plains
 1 Counterspell
-1 Portent
 1 Hall of Heliod's Generosity
-2 Snow-Covered Island
-2 Snow-Covered Plains
-3 Snow-Covered Island
-3 Timeless Dragon
-3 Jace, the Mind Sculptor
+1 Portent
 3 Terminus
-1 Monastery Mentor
-1 Sevinne's Reclamation
-4 Scalding Tarn
+3 Jace, the Mind Sculptor
 1 Spellstutter Sprite
 1 Ephemerate
 1 Venser, Shaper Savant
@@ -92,11 +92,23 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+1 Snow-Covered Mountain
+1 Replenish
+1 Plateau
+2 Shark Typhoon
+2 Replenish
+3 Snow-Covered Plains
+3 Teferi, Time Raveler
+3 Shark Typhoon
+3 Replenish
+4 Shark Typhoon
+4 Snow-Covered Island
+5 Snow-Covered Island
 1 Mutavault
-1 Silvergill Adept
 1 Rishadan Dockhand
-1 Lord of Atlantis
 1 Master of the Pearl Trident
+1 Silvergill Adept
+1 Lord of Atlantis
 1 Tide Shaper
 2 Mutavault
 2 Silvergill Adept
@@ -106,10 +118,10 @@
 2 Tide Shaper
 3 True-Name Nemesis
 3 Mutavault
+3 Silvergill Adept
 3 Master of the Pearl Trident
 3 Lord of Atlantis
 3 Tide Shaper
-3 Silvergill Adept
 4 Stifle
 4 True-Name Nemesis
 4 Master of the Pearl Trident

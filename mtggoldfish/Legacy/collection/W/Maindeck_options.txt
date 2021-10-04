@@ -48,20 +48,20 @@
 1 Umezawa's Jitte
 2 Esper Sentinel
 2 Stoneforge Mystic
-2 Portable Hole
 2 Arcbound Ravager
 2 Swords to Plowshares
+2 Portable Hole
 3 Esper Sentinel
 3 Ethersworn Canonist
 3 Stoneforge Mystic
-3 Portable Hole
 3 Arcbound Ravager
 3 Swords to Plowshares
+3 Portable Hole
+4 Portable Hole
 4 Plains
-4 Esper Sentinel
 4 Stoneforge Mystic
 4 Arcbound Ravager
-4 Portable Hole
+4 Esper Sentinel
 4 Ethersworn Canonist
 4 Swords to Plowshares
 5 Plains
@@ -99,6 +99,12 @@
 2 Imperial Recruiter
 2 Great Furnace
 3 Imperial Recruiter
+1 Arcbound Javelineer
+1 Lodestone Golem
+1 Zabaz, the Glimmerwasp
+2 Arcbound Javelineer
+2 Lodestone Golem
+3 Arcbound Javelineer
 1 Thought-Knot Seer
 2 Thought-Knot Seer
 3 Thought-Knot Seer
@@ -113,9 +119,3 @@
 2 Abeyance
 3 Monastery Mentor
 4 Monastery Mentor
-1 Arcbound Javelineer
-1 Lodestone Golem
-1 Zabaz, the Glimmerwasp
-2 Arcbound Javelineer
-3 Arcbound Javelineer
-2 Lodestone Golem
