@@ -1,4 +1,4 @@
-1 Mountain
+1 Loyal Warhound
 2 Mountain
 3 Mountain
 4 Mountain
@@ -18,20 +18,22 @@
 2 Roil Eruption
 2 Flame Channeler
 2 Bloodthirsty Adversary
-3 Play with Fire
 3 Spikefield Hazard
 3 Flame Channeler
 3 Bloodthirsty Adversary
 3 Rem Karolus, Stalwart Slayer
-3 Falkenrath Pit Fighter
 3 Roil Eruption
+3 Play with Fire
+4 Play with Fire
 4 Spikefield Hazard
 4 Bloodthirsty Adversary
 4 Roil Eruption
-4 Play with Fire
+4 Flame Channeler
+3 Falkenrath Pit Fighter
 4 Falkenrath Pit Fighter
 3 Reckless Stormseeker
-4 Flame Channeler
+4 Rem Karolus, Stalwart Slayer
+1 Elite Spellbinder
 1 Reidane, God of the Worthy
 1 Magic Missile
 2 Magic Missile
@@ -39,10 +41,12 @@
 7 Mountain
 8 Mountain
 1 Fateful Absence
-1 Elite Spellbinder
 2 Elite Spellbinder
+1 Clever Lumimancer
+2 Clever Lumimancer
+3 Clever Lumimancer
+4 Clever Lumimancer
 3 Portable Hole
-4 Rem Karolus, Stalwart Slayer
 2 Fateful Absence
 1 Rip Apart
 3 Paladin Class
@@ -51,6 +55,7 @@
 1 Goldspan Dragon
 2 Goldspan Dragon
 3 Goldspan Dragon
+1 Maul of the Skyclaves
 1 Cathar Commando
 2 Cave of the Frost Dragon
 1 Sungold Sentinel
@@ -65,28 +70,20 @@
 1 Thundering Rebuke
 2 Thundering Rebuke
 3 Thundering Rebuke
-1 Felidar Retreat
+3 Fateful Absence
+4 Fateful Absence
 1 Kazuul's Fury
+1 Felidar Retreat
 2 Felidar Retreat
 3 Reidane, God of the Worthy
 4 Goldspan Dragon
 4 Paladin Class
-1 Ambitious Farmhand
 1 Field of Ruin
+1 Ambitious Farmhand
 2 Ambitious Farmhand
 3 Ambitious Farmhand
 3 Elite Spellbinder
 4 Reckless Stormseeker
-3 Fateful Absence
-4 Fateful Absence
-1 Clever Lumimancer
-2 Clever Lumimancer
-3 Clever Lumimancer
-4 Clever Lumimancer
-1 Lorehold Command
-2 Lorehold Command
-9 Mountain
-10 Plains
 1 Battlefield Raptor
 1 Sejiri Shelter
 1 Lunarch Veteran
@@ -98,3 +95,7 @@
 3 Lunarch Veteran
 4 Battlefield Raptor
 4 Lunarch Veteran
+10 Plains
+1 Lorehold Command
+2 Lorehold Command
+9 Mountain

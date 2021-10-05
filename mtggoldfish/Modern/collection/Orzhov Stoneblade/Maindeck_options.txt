@@ -12,9 +12,9 @@
 3 Godless Shrine
 1 Prismatic Ending
 2 Prismatic Ending
+3 Dauthi Voidwalker
 1 Brightclimb Pathway
 2 Brightclimb Pathway
-3 Dauthi Voidwalker
 1 Castle Locthwain
 4 Dauthi Voidwalker
 1 Fatal Push
@@ -23,39 +23,43 @@
 1 Archon of Cruelty
 2 Unmarked Grave
 4 Persist
+3 Fatal Push
+2 Vindicate
+4 Concealed Courtyard
 3 Swamp
 1 Serra's Emissary
 1 Priest of Fell Rites
 2 Priest of Fell Rites
 3 Unmarked Grave
-3 Fatal Push
-2 Vindicate
-4 Concealed Courtyard
 1 Kaya, Orzhov Usurper
 1 Tidehollow Sculler
-4 Unmarked Grave
-3 Priest of Fell Rites
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
+4 Unmarked Grave
 2 Tidehollow Sculler
-4 Thoughtseize
-1 Unburial Rites
-1 Collective Brutality
+3 Priest of Fell Rites
 1 Savai Triome
 1 Cave of the Frost Dragon
 3 Inquisition of Kozilek
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 1 Damn
+4 Thoughtseize
+1 Unburial Rites
 1 Snow-Covered Swamp
-4 Priest of Fell Rites
-1 Bone Shards
+1 Collective Brutality
 1 Indatha Triome
 3 Vindicate
 1 Ashen Rider
 1 Overgrown Tomb
 1 Fetid Heath
 2 Snow-Covered Swamp
+1 Bone Shards
+4 Priest of Fell Rites
+2 Kaya, Orzhov Usurper
+4 Vindicate
+4 Fatal Push
+1 Liliana of the Veil
 1 Blood Crypt
 1 Bloodstained Mire
 1 Night's Whisper
@@ -64,17 +68,8 @@
 2 Night's Whisper
 3 Brightclimb Pathway
 3 Archon of Cruelty
-2 Kaya, Orzhov Usurper
-4 Vindicate
-4 Fatal Push
-1 Liliana of the Veil
-2 Bloodstained Mire
-2 Bone Shards
-3 Night's Whisper
-4 Brightclimb Pathway
-4 Archon of Cruelty
-3 Snow-Covered Swamp
 1 Shambling Vent
+3 Snow-Covered Swamp
 2 Damn
 1 Esper Sentinel
 2 Esper Sentinel
@@ -89,16 +84,15 @@
 2 Inkmoth Nexus
 2 Urza's Saga
 2 Ingenious Smith
-3 Ingenious Smith
 3 Inkmoth Nexus
 3 Urza's Saga
+3 Ingenious Smith
 4 Esper Sentinel
 4 Urza's Saga
 1 Liliana, the Last Hope
 1 Grave Titan
 1 Sword of Body and Mind
 1 Verdant Catacombs
-2 Liliana of the Veil
 1 Lingering Souls
 1 Rankle, Master of Pranks
 2 Lingering Souls
@@ -106,6 +100,10 @@
 2 Castle Locthwain
 2 Isolated Chapel
 4 Godless Shrine
+2 Bloodstained Mire
+2 Bone Shards
+3 Night's Whisper
+4 Brightclimb Pathway
 1 Kaya's Guile
 2 Kaya's Guile
 2 Shambling Vent
@@ -139,6 +137,8 @@
 4 Memnite
 4 Colossus Hammer
 4 Puresteel Paladin
+2 Liliana of the Veil
+4 Archon of Cruelty
 1 Wasteland Strangler
 4 Tidehollow Sculler
 1 Goldmire Bridge

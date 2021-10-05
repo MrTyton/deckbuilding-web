@@ -13,7 +13,6 @@
 4 Chalice of the Void
 2 Golos, Tireless Pilgrim
 1 Walking Ballista
-1 Cascading Cataracts
 1 Eldrazi Temple
 2 Ulamog, the Ceaseless Hunger
 1 City of Traitors
@@ -27,17 +26,19 @@
 2 Eldrazi Temple
 3 Eldrazi Temple
 4 Thought-Knot Seer
-1 Sorcerous Spyglass
-2 Sorcerous Spyglass
+1 Cascading Cataracts
 1 All Is Dust
 2 All Is Dust
+1 Sorcerous Spyglass
+2 Sorcerous Spyglass
+4 Eldrazi Temple
+2 City of Traitors
+1 Endbringer
 1 Ugin, the Spirit Dragon
 1 Manifold Key
-1 Emrakul, the Promised End
-2 City of Traitors
-4 Eldrazi Temple
-1 Endbringer
+1 Urborg, Tomb of Yawgmoth
 1 Ugin, the Ineffable
+1 Warping Wail
 1 Blast Zone
 1 Trinisphere
 1 Thran Dynamo
@@ -45,13 +46,9 @@
 2 Trinisphere
 2 Ugin, the Spirit Dragon
 2 Thran Dynamo
-2 Manifold Key
-1 Urborg, Tomb of Yawgmoth
-1 Warping Wail
 1 Reality Smasher
 2 Endbringer
 2 Reality Smasher
-1 Wastes
 2 Warping Wail
 1 Matter Reshaper
 2 Matter Reshaper
@@ -62,6 +59,10 @@
 3 Eye of Ugin
 4 Reality Smasher
 4 Matter Reshaper
+2 Manifold Key
+1 Emrakul, the Promised End
+3 All Is Dust
+1 Wastes
 1 Maze of Ith
 2 Endurance
 1 Urza's Saga
@@ -72,8 +73,6 @@
 4 Karn, the Great Creator
 2 Cavern of Souls
 4 Vesuva
-3 All Is Dust
-1 Prismatic Vista
 3 Golos, Tireless Pilgrim
 4 Golos, Tireless Pilgrim
 3 Sorcerous Spyglass
@@ -91,6 +90,7 @@
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 1 Wooded Foothills
+1 Prismatic Vista
 1 Summoning Trap
 2 Summoning Trap
 3 Summoning Trap
@@ -110,8 +110,8 @@
 2 Arboreal Grazer
 2 Abundant Harvest
 2 Prismatic Vista
-3 Abundant Harvest
 3 Arboreal Grazer
+3 Abundant Harvest
 4 Arboreal Grazer
 1 Windswept Heath
 1 Ancient Stirrings

@@ -1,81 +1,73 @@
-1 Cryptic Command
-1 Jace, the Mind Sculptor
-2 Field of Ruin
+1 Polluted Delta
 3 Spreading Seas
-3 Shark Typhoon
 3 Scalding Tarn
+2 Misty Rainforest
 2 Hall of Storm Giants
-1 Rest in Peace
-3 Glacial Fortress
+1 Cryptic Command
 2 Plains
-2 Celestial Colonnade
-3 Castle Vantress
-1 Steam Vents
-1 Path to Exile
-2 Cryptic Command
-3 Mystic Gate
-1 Force of Negation
-2 Path to Exile
-2 Rest in Peace
-4 Spreading Seas
-4 Mystic Gate
 1 Sunset Revelry
+2 Celestial Colonnade
+3 Shark Typhoon
+1 Steam Vents
+1 Rest in Peace
+1 Path to Exile
+3 Glacial Fortress
 4 Scalding Tarn
+2 Path to Exile
+3 Mystic Gate
+3 Castle Vantress
 1 Castle Ardenvale
-2 Polluted Delta
-4 Supreme Verdict
-2 Jace, the Mind Sculptor
+1 Fire/Ice
+2 Fire/Ice
+2 Rest in Peace
+2 Cryptic Command
+1 Force of Negation
+2 Steam Vents
 1 Opt
 2 Opt
 1 Snapcaster Mage
 2 Snapcaster Mage
 3 Snapcaster Mage
-3 Path to Exile
-1 Engineered Explosives
-1 Fire/Ice
-2 Fire/Ice
+4 Mystic Gate
+3 Fire/Ice
 5 Island
-3 Opt
-4 Path to Exile
-4 Opt
+4 Spreading Seas
+1 Sulfur Falls
+3 Misty Rainforest
+2 Polluted Delta
+2 Jace, the Mind Sculptor
 2 Force of Negation
 1 Lightning Bolt
-2 Steam Vents
 2 Lightning Bolt
 3 Lightning Bolt
 4 Lightning Bolt
-3 Hallowed Fountain
+3 Opt
+4 Opt
+3 Field of Ruin
+3 Path to Exile
 1 Wall of Omens
 2 Wall of Omens
-3 Wall of Omens
 1 Snow-Covered Plains
 1 Snow-Covered Island
+1 Engineered Explosives
+4 Path to Exile
 1 Arid Mesa
-3 Fire/Ice
-3 Misty Rainforest
-3 Field of Ruin
-1 Sulfur Falls
+1 Restoration Angel
+2 Restoration Angel
+3 Restoration Angel
 2 Snow-Covered Island
 3 Snow-Covered Island
-2 Snow-Covered Plains
-4 Wall of Omens
 1 Prairie Stream
+3 Wall of Omens
 1 Kaldra Compleat
 1 Stoneforge Mystic
 1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+3 Hallowed Fountain
+4 Supreme Verdict
 4 Field of Ruin
-1 Temple Garden
-1 Breeding Pool
-1 Ketria Triome
-1 Expressive Iteration
-1 Sacred Foundry
-2 Expressive Iteration
-3 Expressive Iteration
-4 Expressive Iteration
-1 Mountain
 1 Ghost Quarter
 1 Skyclave Apparition
 1 Emeria, the Sky Ruin
@@ -86,29 +78,37 @@
 3 Skyclave Apparition
 3 Sun Titan
 3 Emeria, the Sky Ruin
-1 Reflecting Pool
-1 Windswept Heath
 1 Snow-Covered Forest
-1 Prismatic Vista
-1 Glacial Floodplain
-1 Flooded Grove
-1 Rimewood Falls
+1 Timely Reinforcements
+1 Growth Spiral
 1 Ice-Fang Coatl
+1 Breeding Pool
+1 Absorb
+1 Ojutai's Command
+2 Growth Spiral
 2 Ice-Fang Coatl
-2 Prismatic Vista
-3 Prismatic Vista
 3 Ice-Fang Coatl
-3 Teferi, Hero of Dominaria
 4 Snow-Covered Island
 4 Misty Rainforest
 4 Ice-Fang Coatl
-4 Prismatic Vista
+4 Snapcaster Mage
 5 Snow-Covered Island
+6 Snow-Covered Island
+1 Ketria Triome
+1 Cascade Bluffs
+1 Kiki-Jiki, Mirror Breaker
+2 Sulfur Falls
+2 Kiki-Jiki, Mirror Breaker
+2 Raugrin Triome
+2 Sunset Revelry
+1 Mountain
 3 Steam Vents
+3 Celestial Colonnade
 3 Force of Negation
 1 Fatal Push
 1 Watery Grave
 1 Drowned Catacomb
+1 Reflecting Pool
 1 Dovin's Veto
 2 Fatal Push
 2 Watery Grave
@@ -117,8 +117,8 @@
 3 Polluted Delta
 4 Fatal Push
 1 Seachrome Coast
-1 Ragavan, Nimble Pilferer
 1 Spirebluff Canal
+1 Ragavan, Nimble Pilferer
 2 Spirebluff Canal
 2 Ragavan, Nimble Pilferer
 3 Spirebluff Canal
@@ -126,44 +126,16 @@
 4 Spirebluff Canal
 4 Ragavan, Nimble Pilferer
 1 Dress Down
-1 Detention Sphere
 1 Ephemerate
-1 Restoration Angel
+1 Detention Sphere
 2 Detention Sphere
-2 Restoration Angel
-3 Restoration Angel
 4 Restoration Angel
+1 Expressive Iteration
+1 Sacred Foundry
+2 Expressive Iteration
+3 Expressive Iteration
+4 Expressive Iteration
 4 Shark Typhoon
-1 Manamorphose
-1 Wooded Foothills
-1 Moonveil Regent
-1 Prismari Command
-1 General Ferrous Rokiric
-1 Fury
-1 Forest
-1 Omnath, Locus of Creation
-1 Wrenn and Six
-1 Lightning Helix
-1 Showdown of the Skalds
-1 Stomping Ground
-2 Manamorphose
-2 Wooded Foothills
-2 Omnath, Locus of Creation
-2 Arid Mesa
-2 Wrenn and Six
-2 General Ferrous Rokiric
-2 Fury
-2 Lightning Helix
-3 Manamorphose
-3 Arid Mesa
-3 Wrenn and Six
-3 Lightning Helix
-3 General Ferrous Rokiric
-3 Omnath, Locus of Creation
-4 Manamorphose
-4 Chalice of the Void
-4 General Ferrous Rokiric
-4 Arid Mesa
 1 Sanctifier en-Vec
 1 Charming Prince
 1 Thraben Inspector
@@ -186,12 +158,15 @@
 5 Plains
 6 Plains
 7 Plains
-1 Court Hussar
 1 Mistveil Plains
+1 Court Hussar
+1 Windswept Heath
 1 Mortarpod
+2 Snow-Covered Plains
 2 Mortarpod
 2 Court Hussar
 3 Snow-Covered Plains
+4 Wall of Omens
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 6 Snow-Covered Plains

@@ -39,10 +39,10 @@
 1 Steam Vents
 2 Scalding Tarn
 3 Scalding Tarn
-1 Emry, Lurker of the Loch
 1 Mishra's Bauble
-2 Emry, Lurker of the Loch
+1 Emry, Lurker of the Loch
 2 Mishra's Bauble
+2 Emry, Lurker of the Loch
 3 Mishra's Bauble
 4 Mishra's Bauble
 2 Darkbore Pathway
@@ -61,8 +61,8 @@
 3 Misty Rainforest
 4 Thought Monitor
 3 Emry, Lurker of the Loch
-1 Flooded Strand
 1 Hallowed Fountain
+1 Flooded Strand
 2 Flooded Strand
 3 Flooded Strand
 1 Watery Grave
@@ -116,18 +116,18 @@
 2 Nurturing Peatland
 2 Ignoble Hierarch
 2 Windswept Heath
+1 Arid Mesa
 1 Esper Sentinel
 1 Thraben Inspector
-1 Arid Mesa
 1 Giver of Runes
 1 Thalia, Guardian of Thraben
 1 Concealed Courtyard
 2 Arid Mesa
 2 Esper Sentinel
 2 Thraben Inspector
-2 Godless Shrine
 2 Plains
 2 Concealed Courtyard
+2 Godless Shrine
 2 Thalia, Guardian of Thraben
 3 Marsh Flats
 3 Esper Sentinel
@@ -151,8 +151,8 @@
 3 Mayhem Devil
 4 Blackcleave Cliffs
 4 Bloodghast
-4 Mayhem Devil
 4 Bloodstained Mire
+4 Mayhem Devil
 3 Swamp
 1 Ketria Triome
 4 Cauldron Familiar
@@ -176,12 +176,12 @@
 2 Breeding Pool
 2 Botanical Sanctum
 3 Fatal Push
-1 Cavern of Souls
 1 Gut Shot
+1 Cavern of Souls
 1 Talisman of Progress
 2 Cavern of Souls
-2 Gut Shot
 2 Hallowed Fountain
+2 Gut Shot
 2 Talisman of Progress
 3 Cavern of Souls
 3 Talisman of Progress
@@ -194,14 +194,6 @@
 3 Tarmogoyf
 4 Copperline Gorge
 4 Tarmogoyf
-1 Expressive Iteration
-2 Expressive Iteration
-3 Expressive Iteration
-3 Spirebluff Canal
-4 Expressive Iteration
-4 Spirebluff Canal
-3 Darkbore Pathway
-4 Darkbore Pathway
 1 Metallic Rebuke
 2 Metallic Rebuke
 2 Watery Grave
@@ -209,12 +201,20 @@
 3 Darkslick Shores
 4 Darkslick Shores
 4 Wrenn and Six
+3 Darkbore Pathway
+4 Darkbore Pathway
 1 Llanowar Wastes
 2 Llanowar Wastes
 4 Trail of Crumbs
+1 Expressive Iteration
+2 Expressive Iteration
+3 Expressive Iteration
+3 Spirebluff Canal
+4 Expressive Iteration
+4 Spirebluff Canal
+1 Willow Geist
 1 Life from the Loam
 1 Ravenous Squirrel
-1 Willow Geist
 2 Willow Geist
 2 Ravenous Squirrel
 3 Willow Geist
