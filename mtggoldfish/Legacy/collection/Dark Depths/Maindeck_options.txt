@@ -5,8 +5,8 @@
 1 Gemstone Mine
 1 Mana Confluence
 1 City of Brass
-2 Mana Confluence
 2 Gemstone Mine
+2 Mana Confluence
 3 Mana Confluence
 3 Gemstone Mine
 2 Elvish Reclaimer
@@ -60,15 +60,15 @@
 1 Exploration
 2 Assassin's Trophy
 2 Exploration
-1 Hymn to Tourach
-2 Hymn to Tourach
-3 Hymn to Tourach
 1 Urza's Saga
 1 Retrofitter Foundry
 1 Shadowspear
 1 Entomb
 2 Urza's Saga
 3 Urza's Saga
+1 Hymn to Tourach
+2 Hymn to Tourach
+3 Hymn to Tourach
 3 Fatal Push
 3 Bayou
 3 Duress
@@ -108,8 +108,8 @@
 3 Force of Will
 3 Sinkhole
 3 Expedition Map
-4 Watery Grave
 4 Daze
+4 Watery Grave
 4 Surgical Extraction
 4 Expedition Map
 4 Force Spike
@@ -129,11 +129,11 @@
 2 Dark Ritual
 3 Dark Ritual
 4 Dark Ritual
+1 Castle Locthwain
 1 Liliana of the Veil
 1 Marsh Flats
 1 Plague Engineer
 1 Eliminate
-1 Castle Locthwain
 1 Thought-Knot Seer
 1 Chalice of the Void
 1 Liliana, the Last Hope
@@ -165,8 +165,8 @@
 3 Karn, the Great Creator
 3 Polluted Delta
 3 Chrome Mox
-4 Thought-Knot Seer
 4 Snow-Covered Swamp
+4 Thought-Knot Seer
 4 Chalice of the Void
 4 Karn, the Great Creator
 1 Cabal Therapy
@@ -188,12 +188,6 @@
 4 Stitcher's Supplier
 4 Cabal Therapy
 4 Hogaak, Arisen Necropolis
-1 Glacial Chasm
-1 Field of the Dead
-3 Forest
-3 Sylvan Safekeeper
-4 Forest
-5 Forest
 1 Opposition Agent
 1 Helm of Obedience
 1 Ill-Gotten Gains
@@ -217,7 +211,13 @@
 4 Infernal Tutor
 4 Lion's Eye Diamond
 5 Swamp
+6 Swamp
 7 Swamp
 8 Swamp
 9 Swamp
-6 Swamp
+1 Glacial Chasm
+1 Field of the Dead
+3 Forest
+3 Sylvan Safekeeper
+4 Forest
+5 Forest

@@ -104,8 +104,8 @@
 3 Ragavan, Nimble Pilferer
 4 Fury
 3 Teferi, Time Raveler
-1 Snow-Covered Plains
 1 Snow-Covered Forest
+1 Snow-Covered Plains
 2 Snow-Covered Forest
 4 Flooded Strand
 2 Steam Vents
@@ -257,16 +257,16 @@
 1 Tarmogoyf
 1 Stubborn Denial
 1 Fire/Ice
+2 Fire/Ice
 2 Force of Negation
 2 Breeding Pool
 2 Remand
 2 Stubborn Denial
-2 Fire/Ice
+3 Fire/Ice
 3 Remand
 3 Stubborn Denial
-3 Fire/Ice
-4 Fire/Ice
 4 Remand
+4 Fire/Ice
 1 Godless Shrine
 1 Ulamog, the Infinite Gyre
 1 Kozilek, Butcher of Truth
@@ -353,8 +353,8 @@
 2 Archon of Cruelty
 2 Acererak the Archlich
 3 Archon of Cruelty
-3 Omniscience
 3 Acererak the Archlich
+3 Omniscience
 3 Academy Manufactor
 4 Academy Manufactor
 1 Sulfurous Springs
