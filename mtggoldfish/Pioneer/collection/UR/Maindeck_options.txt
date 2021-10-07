@@ -40,18 +40,18 @@
 3 Spikefield Hazard
 1 Prismari Command
 2 Prismari Command
-1 Stormwing Entity
 1 Lava Coil
 1 Crash Through
 1 Beacon Bolt
 1 Wild Slash
-2 Stormwing Entity
+1 Stormwing Entity
 2 Wild Slash
 2 Crash Through
+2 Stormwing Entity
 2 Lava Coil
-3 Stormwing Entity
 3 Wild Slash
 3 Crash Through
+3 Stormwing Entity
 4 Stormwing Entity
 4 Crash Through
 4 Sprite Dragon
@@ -118,18 +118,18 @@
 2 Behold the Multiverse
 3 Fabled Passage
 4 Fabled Passage
+1 Mana Confluence
 1 Deafening Clarion
+1 Glacial Fortress
+1 Plains
 1 Dovin's Veto
 1 Chained to the Rocks
 1 Hallowed Fountain
-1 Glacial Fortress
-1 Mana Confluence
 1 Sacred Foundry
-1 Plains
 2 Dovin's Veto
+2 Mana Confluence
 2 Glacial Fortress
 2 Deafening Clarion
-2 Mana Confluence
 2 Hallowed Fountain
 2 Chained to the Rocks
 2 Galazeth Prismari
@@ -141,10 +141,10 @@
 4 Magma Opus
 4 Glacial Fortress
 4 Chained to the Rocks
+1 Glasspool Mimic
 1 Temple of Epiphany
 1 Rekindling Phoenix
 1 Wandering Fumarole
-1 Glasspool Mimic
 2 Temple of Epiphany
 2 Chandra, Torch of Defiance
 2 Rekindling Phoenix

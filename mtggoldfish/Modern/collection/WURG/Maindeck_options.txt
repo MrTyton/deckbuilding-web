@@ -1,25 +1,25 @@
-2 Solitude
 3 Solitude
 4 Windswept Heath
 4 Solitude
-1 Wall of Omens
 1 Ephemerate
-2 Wall of Omens
+1 Eternal Witness
 2 Ephemerate
 3 Ephemerate
-1 Eternal Witness
+1 Wall of Omens
+2 Wall of Omens
+1 Arid Mesa
 1 Ketria Triome
 1 Utopia Sprawl
 2 Utopia Sprawl
 1 Prismatic Ending
 3 Utopia Sprawl
 4 Utopia Sprawl
-2 Prismatic Ending
 1 Wrenn and Six
-1 Verdant Catacombs
+2 Prismatic Ending
 2 Wrenn and Six
 3 Prismatic Ending
 4 Ephemerate
+1 Verdant Catacombs
 1 Plains
 1 Skyclave Apparition
 1 Magus of the Moon
@@ -31,32 +31,32 @@
 3 Chord of Calling
 4 Chord of Calling
 2 Forest
-1 Chancellor of the Forge
-2 Chancellor of the Forge
+2 Eternal Witness
 1 Wall of Blossoms
 2 Wall of Blossoms
+1 Chancellor of the Forge
+2 Chancellor of the Forge
 3 Chancellor of the Forge
 4 Goblin Dark-Dwellers
-1 Gemstone Caverns
-3 Wall of Omens
 3 Fury
-2 Eternal Witness
+1 Gemstone Caverns
+3 Wrenn and Six
+3 Wall of Omens
 1 Prismatic Vista
 1 Endurance
-3 Wrenn and Six
 3 Wall of Blossoms
 4 Tireless Provisioner
-2 Scalding Tarn
 1 Sunbaked Canyon
 4 Chancellor of the Forge
+2 Scalding Tarn
+1 Lightning Bolt
 2 Skyclave Apparition
 1 Deputy of Detention
-3 Scalding Tarn
-1 Lightning Bolt
 4 Prismatic Ending
 1 Hallowed Fountain
 2 Lightning Bolt
 3 Lightning Bolt
+3 Scalding Tarn
 4 Lightning Bolt
 3 Flooded Strand
 1 Territorial Kavu
@@ -81,9 +81,9 @@
 2 General Ferrous Rokiric
 3 General Ferrous Rokiric
 3 Mantis Rider
-4 Mantis Rider
 1 Indatha Triome
 1 Bloodstained Mire
+4 Mantis Rider
 1 Drannith Magistrate
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
@@ -94,62 +94,63 @@
 3 Birds of Paradise
 1 Gilded Goose
 2 Arid Mesa
-2 Mountain
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
-1 Gemstone Mine
-2 Bloodstained Mire
-3 Bloodstained Mire
-4 Bloodstained Mire
-3 Ragavan, Nimble Pilferer
-4 Fury
+2 Mountain
 3 Teferi, Time Raveler
 1 Snow-Covered Forest
 1 Snow-Covered Plains
 2 Snow-Covered Forest
-4 Flooded Strand
-2 Steam Vents
-1 Zagoth Triome
-2 Sacred Foundry
-1 Noble Hierarch
-1 Blood Crypt
-1 Savai Triome
-4 Wall of Blossoms
 1 Snow-Covered Island
-2 Noble Hierarch
-1 Ignoble Hierarch
-2 Ignoble Hierarch
-3 Skyclave Apparition
-4 Birds of Paradise
-4 General Ferrous Rokiric
-1 Tranquil Thicket
+2 Bloodstained Mire
+1 Gemstone Mine
+3 Bloodstained Mire
+4 Bloodstained Mire
+2 Steam Vents
+4 Flooded Strand
+1 Zagoth Triome
+3 Ragavan, Nimble Pilferer
+4 Fury
+2 Sacred Foundry
+4 Wall of Blossoms
 1 Snow-Covered Mountain
-3 Ignoble Hierarch
-4 Ignoble Hierarch
+3 Skyclave Apparition
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
 4 Teferi, Time Raveler
+1 Noble Hierarch
+1 Blood Crypt
+1 Savai Triome
+1 Expressive Iteration
+2 Expressive Iteration
+3 Expressive Iteration
+3 Eternal Witness
+4 Expressive Iteration
+2 Noble Hierarch
+1 Ignoble Hierarch
+2 Ignoble Hierarch
+4 Birds of Paradise
+4 General Ferrous Rokiric
+1 Tranquil Thicket
+4 Wrenn and Six
+3 Arid Mesa
 4 Ragavan, Nimble Pilferer
 2 Gilded Goose
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
 1 Ardent Plea
-1 Expressive Iteration
-2 Expressive Iteration
-3 Expressive Iteration
-3 Eternal Witness
-4 Expressive Iteration
+3 Ignoble Hierarch
+4 Ignoble Hierarch
+3 Lightning Helix
 4 Wall of Omens
-3 Arid Mesa
+4 Manamorphose
 2 Gemstone Caverns
 1 Horizon Canopy
-4 Manamorphose
-3 Lightning Helix
+4 Eternal Witness
 1 Reflecting Pool
-4 Wrenn and Six
 1 Emrakul, the Aeons Torn
 3 Gemstone Caverns
 2 Emrakul, the Aeons Torn
@@ -167,9 +168,9 @@
 3 Mishra's Factory
 3 Calibrated Blast
 3 Autochthon Wurm
+4 Emrakul, the Aeons Torn
 4 Gemstone Caverns
 4 Autochthon Wurm
-4 Emrakul, the Aeons Torn
 4 Calibrated Blast
 3 Mountain
 1 Radiant Fountain
@@ -182,40 +183,41 @@
 4 Mishra's Factory
 4 Sunscorched Desert
 1 Eidolon of Rhetoric
-2 Verdant Catacombs
 1 Counterspell
 2 Counterspell
 3 Counterspell
-4 Skyclave Apparition
-1 Klothys, God of Destiny
+1 Abundant Growth
+2 Abundant Growth
+3 Abundant Growth
 4 Lightning Helix
+2 Verdant Catacombs
+4 Skyclave Apparition
 1 Ramunap Ruins
 2 Ramunap Ruins
 3 Ramunap Ruins
 4 Ramunap Ruins
+4 Arid Mesa
 1 Fire-Lit Thicket
-4 Eternal Witness
 1 Scavenging Ooze
 1 Inspiring Vantage
+1 Razorverge Thicket
+1 Klothys, God of Destiny
 1 Felidar Guardian
 1 Saheeli Rai
 2 Saheeli Rai
 2 Felidar Guardian
 3 Saheeli Rai
-1 Razorverge Thicket
-4 Arid Mesa
-3 Felidar Guardian
 2 Reflecting Pool
-1 Abundant Growth
-2 Abundant Growth
-3 Abundant Growth
-1 Batterskull
+4 Abundant Growth
 1 Stoneforge Mystic
+1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
+2 Snow-Covered Plains
 1 Irrigated Farmland
 1 Oath of Nissa
 2 Oath of Nissa
+3 Felidar Guardian
 3 Oath of Nissa
 4 Saheeli Rai
 1 Overgrown Tomb
@@ -246,7 +248,6 @@
 2 Eladamri's Call
 3 Eladamri's Call
 1 Remand
-2 Plains
 1 Snapcaster Mage
 2 Snapcaster Mage
 2 Wild Nacatl
@@ -259,8 +260,8 @@
 1 Fire/Ice
 2 Fire/Ice
 2 Force of Negation
-2 Breeding Pool
 2 Remand
+2 Breeding Pool
 2 Stubborn Denial
 3 Fire/Ice
 3 Remand
@@ -272,17 +273,17 @@
 1 Kozilek, Butcher of Truth
 1 Omniscience
 2 Omniscience
-1 Forgotten Cave
 1 Scavenger Grounds
+1 Forgotten Cave
 2 Forgotten Cave
 4 Wild Nacatl
 4 Counterspell
 1 Mana Leak
 1 Titania, Protector of Argoth
-4 Abundant Growth
 1 Sword of Fire and Ice
 1 Prime Speaker Vannifar
 1 Corridor Monitor
+2 Plains
 2 Prime Speaker Vannifar
 3 Prime Speaker Vannifar
 3 Forest
@@ -292,7 +293,6 @@
 4 Restoration Angel
 1 Charming Prince
 1 Sanctifier en-Vec
-2 Snow-Covered Plains
 1 Knight of Autumn
 4 Glimpse of Tomorrow
 1 Brazen Borrower
@@ -319,7 +319,6 @@
 1 Iona, Shield of Emeria
 2 Endurance
 3 Snapcaster Mage
-1 Imperial Recruiter
 1 Kataki, War's Wage
 1 Archon of Emeria
 1 Fae of Wishes
@@ -327,6 +326,8 @@
 1 Cavern of Souls
 1 Alpine Meadow
 2 Titania, Protector of Argoth
+1 Time Warp
+2 Time Warp
 1 Sun Titan
 1 Eldritch Evolution
 2 Eldritch Evolution
@@ -353,8 +354,8 @@
 2 Archon of Cruelty
 2 Acererak the Archlich
 3 Archon of Cruelty
-3 Acererak the Archlich
 3 Omniscience
+3 Acererak the Archlich
 3 Academy Manufactor
 4 Academy Manufactor
 1 Sulfurous Springs
@@ -366,32 +367,13 @@
 3 Blinkmoth Infusion
 4 Blinkmoth Infusion
 4 Chancellor of the Dross
+1 Imperial Recruiter
 1 Detention Sphere
 1 Foundation Breaker
 2 Imperial Recruiter
 2 Rift Sower
 3 Rift Sower
 4 Rift Sower
-1 Jace, the Mind Sculptor
-1 Pithing Needle
-1 Springleaf Drum
-1 Liquimetal Torque
-1 Shadowspear
-1 Glasspool Mimic
-1 Altar of the Brood
-1 Urza's Saga
-2 Urza's Saga
-2 Glasspool Mimic
-2 Liquimetal Torque
-2 Altar of the Brood
-3 Sacred Foundry
-3 Glasspool Mimic
-3 Liquimetal Torque
-3 Urza's Saga
-3 Plains
-4 Glasspool Mimic
-4 Liquimetal Torque
-4 Urza's Saga
 1 Piranha Marsh
 2 Piranha Marsh
 3 Piranha Marsh
@@ -404,6 +386,6 @@
 2 Might of Alara
 3 Path to Exile
 3 Might of Alara
-4 Scalding Tarn
 4 Path to Exile
+4 Scalding Tarn
 4 Might of Alara
