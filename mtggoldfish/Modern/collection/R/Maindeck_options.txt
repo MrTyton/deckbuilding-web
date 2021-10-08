@@ -1,3 +1,6 @@
+1 Cavern of Souls
+1 Dismember
+1 Reality Smasher
 1 Wastes
 1 Eldrazi Temple
 1 Thought-Knot Seer
@@ -27,25 +30,22 @@
 2 Prismatic Vista
 3 Prismatic Vista
 3 Dismember
-10 Mountain
-11 Mountain
-3 Hammer of Bogardan
-1 Abrade
-2 Matter Reshaper
-3 Matter Reshaper
-4 Matter Reshaper
-1 Wooded Foothills
-3 Cavern of Souls
-1 Eldrazi Obligator
-2 Eldrazi Obligator
-3 Eldrazi Obligator
-4 Eldrazi Obligator
 4 Flame Slash
+1 Wooded Foothills
 1 Relic of Progenitus
 2 Relic of Progenitus
 3 Relic of Progenitus
 4 Relic of Progenitus
 4 Hammer of Bogardan
+1 Abrade
+2 Matter Reshaper
+3 Matter Reshaper
+4 Matter Reshaper
+3 Cavern of Souls
+1 Eldrazi Obligator
+2 Eldrazi Obligator
+3 Eldrazi Obligator
+4 Eldrazi Obligator
 1 Dragon's Rage Channeler
 2 Dragon's Rage Channeler
 3 Dragon's Rage Channeler
@@ -53,16 +53,15 @@
 4 Prismatic Vista
 2 Wastes
 2 Wooded Foothills
-1 Bloodstained Mire
-1 Firebolt
-2 Firebolt
 1 Scalding Tarn
-1 Arid Mesa
+1 Bloodstained Mire
 1 Unholy Heat
 2 Unholy Heat
 3 Unholy Heat
+1 Firebolt
+2 Firebolt
+1 Arid Mesa
 3 Wooded Foothills
-3 Firebolt
 4 Unholy Heat
 1 Valakut Awakening
 2 Valakut Awakening
@@ -71,42 +70,43 @@
 1 Pillage
 2 Pillage
 12 Mountain
-1 Soul-Scar Mage
-2 Soul-Scar Mage
-3 Soul-Scar Mage
-4 Soul-Scar Mage
 1 Light Up the Stage
 2 Light Up the Stage
 3 Light Up the Stage
+1 Soul-Scar Mage
 1 Lava Dart
 1 Monastery Swiftspear
 2 Lava Dart
+2 Soul-Scar Mage
 2 Monastery Swiftspear
 3 Monastery Swiftspear
+3 Soul-Scar Mage
 3 Lava Dart
-4 Monastery Swiftspear
 4 Lava Dart
+4 Monastery Swiftspear
+4 Soul-Scar Mage
 4 Light Up the Stage
-2 Arid Mesa
+3 Firebolt
 13 Mountain
+2 Arid Mesa
 2 Scalding Tarn
-1 Seal of Fire
-2 Seal of Fire
 1 Magus of the Moon
 4 Wooded Foothills
 1 Gemstone Caverns
+1 Seal of Fire
+2 Seal of Fire
 2 Magus of the Moon
 3 Magus of the Moon
 4 Magus of the Moon
 1 Sulfurous Springs
 3 Seal of Fire
-4 Firebolt
 4 Dismember
-2 Bloodstained Mire
+4 Firebolt
 1 Fiery Islet
 2 Fiery Islet
 3 Fiery Islet
 4 Fiery Islet
+2 Bloodstained Mire
 3 Wastes
 2 Abrade
 2 Sulfurous Springs
@@ -125,8 +125,8 @@
 2 Utopia Sprawl
 2 Klothys, God of Destiny
 2 Stomping Ground
-3 Snow-Covered Mountain
 3 Snow-Covered Forest
+3 Snow-Covered Mountain
 3 Stomping Ground
 3 Utopia Sprawl
 4 Snow-Covered Mountain
@@ -135,10 +135,6 @@
 2 Radiant Fountain
 3 Radiant Fountain
 4 Radiant Fountain
-3 Bloodstained Mire
-3 Arid Mesa
-4 Bloodstained Mire
-4 Arid Mesa
 3 Pillage
 4 Pillage
 1 Sunbaked Canyon

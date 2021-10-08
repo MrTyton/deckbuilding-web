@@ -46,8 +46,8 @@
 |                    1|[Haunted Ridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535061)     |                    2|[Necromentia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485439)         |
 |                    2|[Haunted Ridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535061)     |                    2|[Pharika's Libation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476362)  |
 |                    3|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)    |                    1|[Extinction Event](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479608)    |
-|                    3|[Go Blank](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513549)          |                    3|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)  |
-|                    4|[Go Blank](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513549)          |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |
+|                    4|[Go Blank](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513549)          |                    3|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)  |
+|                    3|[Go Blank](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513549)          |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |
 |                     |                                                                                             |                    1|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)       |
 |                     |                                                                                             |                    2|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)       |
 

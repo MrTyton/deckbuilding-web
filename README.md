@@ -4,12 +4,12 @@
 
 # Standard
 
-|                                A                                 |                                 B                                  |                                   C                                    |                                    D                                     |                                E                                 |
-|------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------|
-|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Bx Midrange](./mtggoldfish/Standard/decks/Bx_Midrange.md)          |[Izzet Delver](./mtggoldfish/Standard/decks/Izzet_Delver.md)            |[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)      |[Rakdos Midrange](./mtggoldfish/Standard/decks/Rakdos_Midrange.md)|
-|[Bant Ramp](./mtggoldfish/Standard/decks/Bant_Ramp.md)            |[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)      |[Jund Midrange](./mtggoldfish/Standard/decks/Jund_Midrange.md)          |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)      |[Rakdos Vampires](./mtggoldfish/Standard/decks/Rakdos_Vampires.md)|
-|[Blue Tempo](./mtggoldfish/Standard/decks/Blue_Tempo.md)          |[Gruul Werewolves](./mtggoldfish/Standard/decks/Gruul_Werewolves.md)|[Mono-Black Zombies](./mtggoldfish/Standard/decks/Mono-Black_Zombies.md)|[Mono-White Control❄](./mtggoldfish/Standard/decks/Mono-White_Control❄.md)|[Selesnya Ramp](./mtggoldfish/Standard/decks/Selesnya_Ramp.md)    |
-|[Boros Aggro](./mtggoldfish/Standard/decks/Boros_Aggro.md)        |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)      |[Mono-Green Aggro ❄](./mtggoldfish/Standard/decks/Mono-Green_Aggro_❄.md)|[Orzhov Clerics](./mtggoldfish/Standard/decks/Orzhov_Clerics.md)          |[Sultai Ramp](./mtggoldfish/Standard/decks/Sultai_Ramp.md)        |
+|                                A                                 |                                 B                                  |                                 C                                  |                                  D                                   |
+|------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------|
+|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Bx Midrange](./mtggoldfish/Standard/decks/Bx_Midrange.md)          |[Izzet Delver](./mtggoldfish/Standard/decks/Izzet_Delver.md)        |[Rakdos Vampires](./mtggoldfish/Standard/decks/Rakdos_Vampires.md)    |
+|[Bant Ramp](./mtggoldfish/Standard/decks/Bant_Ramp.md)            |[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)      |[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)|[Selesnya Midrange](./mtggoldfish/Standard/decks/Selesnya_Midrange.md)|
+|[Blue Tempo](./mtggoldfish/Standard/decks/Blue_Tempo.md)          |[Gruul Werewolves](./mtggoldfish/Standard/decks/Gruul_Werewolves.md)|[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[Selesnya Ramp](./mtggoldfish/Standard/decks/Selesnya_Ramp.md)        |
+|[Boros Aggro](./mtggoldfish/Standard/decks/Boros_Aggro.md)        |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)      |[Rakdos Midrange](./mtggoldfish/Standard/decks/Rakdos_Midrange.md)  |[Sultai Ramp](./mtggoldfish/Standard/decks/Sultai_Ramp.md)            |
 
 
 # Historic
@@ -68,4 +68,4 @@
 
 
 
-#### Last Updated at 12:28AM on October 08, 2021
+#### Last Updated at 12:26PM on October 08, 2021
