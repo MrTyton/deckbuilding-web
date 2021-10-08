@@ -8,26 +8,26 @@
 2 Rem Karolus, Stalwart Slayer
 5 Mountain
 6 Mountain
-1 Play with Fire
-1 Bloodthirsty Adversary
-1 Roil Eruption
 1 Falkenrath Pit Fighter
+1 Play with Fire
 1 Flame Channeler
-2 Play with Fire
-2 Bloodthirsty Adversary
-2 Roil Eruption
+1 Roil Eruption
+1 Bloodthirsty Adversary
 2 Falkenrath Pit Fighter
+2 Play with Fire
+2 Roil Eruption
 2 Flame Channeler
+2 Bloodthirsty Adversary
 3 Spikefield Hazard
-3 Play with Fire
-3 Bloodthirsty Adversary
-3 Roil Eruption
 3 Flame Channeler
+3 Bloodthirsty Adversary
 3 Rem Karolus, Stalwart Slayer
+3 Roil Eruption
+3 Play with Fire
 4 Spikefield Hazard
-4 Play with Fire
 4 Bloodthirsty Adversary
 4 Roil Eruption
+4 Play with Fire
 4 Flame Channeler
 3 Falkenrath Pit Fighter
 4 Falkenrath Pit Fighter
@@ -58,15 +58,15 @@
 1 Maul of the Skyclaves
 1 Cathar Commando
 2 Cave of the Frost Dragon
-1 Thermo-Alchemist
-2 Thermo-Alchemist
-1 Adeline, Resplendent Cathar
 1 Sungold Sentinel
+1 Adeline, Resplendent Cathar
 1 Fireblade Charger
 1 Blade Historian
 2 Rip Apart
 1 Angelfire Ignition
 2 Angelfire Ignition
+1 Thermo-Alchemist
+2 Thermo-Alchemist
 1 Thundering Rebuke
 2 Thundering Rebuke
 3 Thundering Rebuke
@@ -75,19 +75,15 @@
 2 Felidar Retreat
 3 Reidane, God of the Worthy
 4 Goldspan Dragon
-1 Ambitious Farmhand
+3 Fateful Absence
+4 Fateful Absence
 1 Field of Ruin
+1 Ambitious Farmhand
 2 Ambitious Farmhand
 3 Ambitious Farmhand
 3 Elite Spellbinder
 4 Reckless Stormseeker
-3 Fateful Absence
-4 Fateful Absence
 4 Paladin Class
-1 Lorehold Command
-2 Lorehold Command
-9 Mountain
-10 Plains
 1 Battlefield Raptor
 1 Sejiri Shelter
 1 Lunarch Veteran
@@ -99,3 +95,7 @@
 3 Lunarch Veteran
 4 Battlefield Raptor
 4 Lunarch Veteran
+1 Lorehold Command
+2 Lorehold Command
+9 Mountain
+10 Plains

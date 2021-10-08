@@ -125,8 +125,8 @@
 4 Karn, Scion of Urza
 1 Mystic Forge
 1 Mobilized District
-2 Mobilized District
 2 Mystic Forge
+2 Mobilized District
 1 Aether Hub
 2 Aether Hub
 3 Aether Hub
@@ -177,12 +177,12 @@
 3 Gilded Goose
 3 Swamp
 5 Forest
+1 Cragcrown Pathway
 1 Blood Crypt
 1 Steam Vents
-1 Cragcrown Pathway
 1 Riverglide Pathway
-2 Blood Crypt
 2 Cragcrown Pathway
+2 Blood Crypt
 2 Mountain
 2 Steam Vents
 2 Riverglide Pathway
@@ -243,11 +243,11 @@
 2 Dryad of the Ilysian Grove
 2 Prophetic Prism
 2 Finale of Devastation
-2 Godless Shrine
+2 Stomping Ground
 2 Uro, Titan of Nature's Wrath
 2 Evolving Wilds
-2 Stomping Ground
 2 Klothys, God of Destiny
+2 Godless Shrine
 2 Wrath of God
 2 Migration Path
 2 Omen of the Forge
@@ -274,6 +274,7 @@
 2 The Birth of Meletis
 2 Medomai's Prophecy
 3 Sacred Foundry
+3 Stomping Ground
 3 Savai Triome
 3 Ketria Triome
 3 Escape to the Wilds
@@ -283,7 +284,6 @@
 3 Dryad of the Ilysian Grove
 3 Prophetic Prism
 3 Evolving Wilds
-3 Stomping Ground
 3 Wrath of God
 3 Sanctum of Stone Fangs
 3 Fae of Wishes
@@ -302,17 +302,17 @@
 3 Sanctum of All
 4 Sacred Foundry
 4 Fae of Wishes
+4 Stomping Ground
 4 Lotus Cobra
+4 Overgrown Tomb
 4 Breeding Pool
 4 Fabled Passage
 4 Plains
 4 Dryad of the Ilysian Grove
 4 Prophetic Prism
-4 Overgrown Tomb
 4 Deafening Clarion
 4 Wrath of God
 4 Watery Grave
-4 Stomping Ground
 4 Island
 4 Treacherous Blessing
 4 Renegade Map
@@ -368,28 +368,28 @@
 2 Abundant Harvest
 1 Koma, Cosmos Serpent
 1 The Great Henge
+1 Castle Locthwain
+1 Temple of Deceit
+1 Darkbore Pathway
 1 Gemrazer
 1 Necroblossom Snarl
-1 Vineglimmer Snarl
 1 Temple of Malady
 1 Paradise Druid
+1 Nicol Bolas, Dragon-God
 1 Tamiyo, Collector of Tales
-1 Temple of Deceit
 1 Barkchannel Pathway
-1 Darkbore Pathway
 1 Vivien Reid
+1 Vineglimmer Snarl
 1 Vivien, Champion of the Wilds
 1 Scute Swarm
 1 Nissa, Who Shakes the World
 1 Season of Growth
 1 Castle Vantress
-1 Castle Locthwain
 1 Dirge Bat
 1 Nethroi, Apex of Death
 1 Migratory Greathorn
 1 Auspicious Starrix
 1 Boneyard Lurker
-1 Nicol Bolas, Dragon-God
 1 Pollywog Symbiote
 1 Pouncing Shoreshark
 1 Insatiable Hemophage
@@ -452,17 +452,17 @@
 1 Wolfwillow Haven
 1 Hour of Promise
 1 Hashep Oasis
-2 The World Tree
-2 Hydroid Krasis
 2 Shefet Dunes
 2 Relic of Progenitus
+2 The World Tree
+2 Hydroid Krasis
 2 Hour of Promise
 2 Hashep Oasis
 2 Wolfwillow Haven
 2 Omniscience
 3 Hashep Oasis
-3 The World Tree
 3 Shefet Dunes
+3 The World Tree
 3 Genesis Ultimatum
 3 Hydroid Krasis
 3 Hour of Promise
@@ -485,9 +485,9 @@
 1 Scholar of the Lost Trove
 1 Mirrodin's Core
 2 Treasure Vault
+2 Chandra, Awakened Inferno
 2 Magma Opus
 2 Emergent Ultimatum
-2 Chandra, Awakened Inferno
 2 Tibalt's Trickery
 2 Phyrexian Tower
 2 Throes of Chaos
@@ -502,8 +502,8 @@
 3 Khalni Garden
 3 Riverglide Pathway
 4 Cragcrown Pathway
-4 Alrund's Epiphany
 4 Blood Crypt
+4 Alrund's Epiphany
 4 Throes of Chaos
 4 Emergent Ultimatum
 4 Riverglide Pathway
@@ -514,8 +514,8 @@
 2 Inventors' Fair
 2 Karn's Bastion
 3 Mazemind Tome
+3 Mystic Forge
 3 Karn's Bastion
 3 Ulamog, the Ceaseless Hunger
-3 Mystic Forge
 4 Ulamog, the Ceaseless Hunger
 4 Mazemind Tome
