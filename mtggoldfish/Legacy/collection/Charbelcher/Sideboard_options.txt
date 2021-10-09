@@ -11,8 +11,8 @@
 3 Xantid Swarm
 1 Shattering Spree
 1 Trash for Treasure
-1 Infernal Tutor
 1 Telemin Performance
+1 Infernal Tutor
 1 Thoughtseize
 1 Chancellor of the Annex
 2 Chancellor of the Annex
@@ -22,13 +22,13 @@
 4 Lion's Eye Diamond
 1 Chandra, Awakened Inferno
 1 Nexus of Fate
-1 Street Wraith
-1 Doomsday
 1 Pact of Negation
 1 Edge of Autumn
 1 Ideas Unbound
-2 Street Wraith
+1 Street Wraith
+1 Doomsday
 2 Doomsday
+2 Street Wraith
 3 Doomsday
 4 Doomsday
 3 Thoughtseize
@@ -45,16 +45,16 @@
 2 Carpet of Flowers
 3 Carpet of Flowers
 1 Duress
-1 Lightning Bolt
 1 Memory's Journey
+1 Lightning Bolt
 1 Overgrown Tomb
 1 Massacre
 1 Hull Breach
-1 Galvanic Relay
-1 Jeska's Will
-1 Reforge the Soul
 1 Opposition Agent
 1 Rotting Regisaur
+1 Galvanic Relay
+1 Reforge the Soul
+1 Jeska's Will
 2 Slaughter Pact
 2 Gamble
 1 Leyline of Anticipation
@@ -63,28 +63,17 @@
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 3 Leyline of Sanctity
-1 Ghostly Prison
 1 Deafening Silence
+1 Ghostly Prison
 1 Cursed Totem
+1 Defense Grid
 1 Porphyry Nodes
 1 Aura of Silence
 1 Isochron Scepter
 1 Wrath of God
-1 Defense Grid
 1 Baneslayer Angel
 2 Isochron Scepter
 4 Leyline of Sanctity
-1 Badlands
-1 Simian Spirit Guide
-1 Cabal Therapy
-2 Simian Spirit Guide
-2 Cabal Therapy
-2 Empty the Warrens
-3 Simian Spirit Guide
-3 Cabal Therapy
-3 Empty the Warrens
-4 Simian Spirit Guide
-4 Cabal Therapy
 1 Red Elemental Blast
 1 Regrowth
 1 Shattering Pulse
@@ -99,8 +88,8 @@
 1 Forest
 4 Carpet of Flowers
 1 Dread of Night
-2 Dread of Night
 2 Duress
+2 Dread of Night
 3 Dread of Night
 4 Dread of Night
 1 Tangled Florahedron
@@ -109,9 +98,9 @@
 3 Wishclaw Talisman
 4 Wishclaw Talisman
 1 Chain of Vapor
-1 Pack Rat
 1 Surgical Extraction
 1 Echoing Truth
+1 Pack Rat
 2 Chain of Vapor
 2 Surgical Extraction
 2 Pack Rat
@@ -119,6 +108,17 @@
 3 Pack Rat
 4 Surgical Extraction
 4 Pack Rat
+1 Badlands
+1 Cabal Therapy
+1 Simian Spirit Guide
+2 Empty the Warrens
+2 Cabal Therapy
+2 Simian Spirit Guide
+3 Simian Spirit Guide
+3 Cabal Therapy
+3 Empty the Warrens
+4 Simian Spirit Guide
+4 Cabal Therapy
 1 Serum Powder
 1 Grim Monolith
 2 Serum Powder
@@ -126,11 +126,11 @@
 3 Serum Powder
 3 Grim Monolith
 4 Grim Monolith
-1 Dark Ritual
-1 Ill-Gotten Gains
-1 Cave-In
 1 Pyroblast
+1 Cave-In
 1 Simplify
+1 Dark Ritual
+1 Diminishing Returns
+1 Ill-Gotten Gains
 2 Dark Ritual
 3 Dark Ritual
-1 Diminishing Returns

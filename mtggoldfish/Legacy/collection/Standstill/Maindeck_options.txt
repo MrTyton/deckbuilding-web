@@ -97,8 +97,8 @@
 1 Plateau
 2 Shark Typhoon
 2 Replenish
-3 Shark Typhoon
 3 Snow-Covered Plains
+3 Shark Typhoon
 3 Teferi, Time Raveler
 3 Replenish
 4 Shark Typhoon
@@ -116,18 +116,18 @@
 2 Master of the Pearl Trident
 2 Lord of Atlantis
 2 Tide Shaper
-3 True-Name Nemesis
 3 Mutavault
+3 True-Name Nemesis
 3 Silvergill Adept
 3 Master of the Pearl Trident
 3 Lord of Atlantis
 3 Tide Shaper
 4 Stifle
+4 Mutavault
 4 True-Name Nemesis
 4 Master of the Pearl Trident
 4 Tide Shaper
 4 Lord of Atlantis
-4 Silvergill Adept
 5 Island
 6 Island
 7 Island
@@ -136,4 +136,4 @@
 10 Island
 11 Island
 12 Island
-4 Mutavault
+4 Silvergill Adept

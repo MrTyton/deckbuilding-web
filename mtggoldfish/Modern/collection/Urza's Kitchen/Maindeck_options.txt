@@ -1,44 +1,40 @@
+2 Prismatic Ending
 1 Plains
 1 Nettlecyst
 1 Marsh Flats
 1 Bloodstained Mire
-2 Darkbore Pathway
 1 Pithing Needle
-1 Nihil Spellbomb
 1 Temple Garden
 1 Windswept Heath
 2 Bloodstained Mire
+1 Nihil Spellbomb
 1 Wooded Foothills
 2 Wooded Foothills
 3 Wooded Foothills
 1 Blood Crypt
 2 Swamp
+4 Witch's Oven
 1 Kaya, Orzhov Usurper
 2 Kaya, Orzhov Usurper
-1 Springleaf Drum
 1 Wrenn and Six
 1 Stomping Ground
 2 Wrenn and Six
 1 Mountain
-1 Island
-1 Urza, Lord High Artificer
-2 Urza, Lord High Artificer
-3 Urza, Lord High Artificer
 3 Wrenn and Six
 1 Copperline Gorge
 2 Copperline Gorge
 3 Copperline Gorge
-1 Aether Spellbomb
-1 Thought Monitor
-2 Thought Monitor
-3 Thought Monitor
-1 Misty Rainforest
-3 Prismatic Ending
+1 Springleaf Drum
 1 Stitcher's Supplier
 2 Stitcher's Supplier
 3 Stitcher's Supplier
 4 Stitcher's Supplier
 2 Marsh Flats
+3 Prismatic Ending
+1 Island
+1 Urza, Lord High Artificer
+2 Urza, Lord High Artificer
+3 Urza, Lord High Artificer
 1 Grist, the Hunger Tide
 2 Grist, the Hunger Tide
 4 Wooded Foothills
@@ -46,27 +42,15 @@
 2 Lightning Bolt
 3 Lightning Bolt
 4 Lightning Bolt
-4 Witch's Oven
+4 Cauldron Familiar
+1 Aether Spellbomb
+1 Thought Monitor
+2 Thought Monitor
+3 Thought Monitor
 1 Bloodghast
 2 Bloodghast
 3 Bloodghast
-1 Bone Shards
-2 Island
-2 Misty Rainforest
-3 Misty Rainforest
-1 Scalding Tarn
-1 Steam Vents
-2 Scalding Tarn
-3 Scalding Tarn
-4 Thought Monitor
-1 Mishra's Bauble
-1 Emry, Lurker of the Loch
-2 Mishra's Bauble
-2 Emry, Lurker of the Loch
-3 Mishra's Bauble
-3 Emry, Lurker of the Loch
-4 Mishra's Bauble
-1 Watery Grave
+1 Misty Rainforest
 1 Ignoble Hierarch
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
@@ -74,8 +58,9 @@
 3 Grist, the Hunger Tide
 4 Grist, the Hunger Tide
 4 Seasoned Pyromancer
+3 Darkbore Pathway
+4 Darkbore Pathway
 2 Nettlecyst
-1 Tranquil Thicket
 1 Lotleth Troll
 1 Gravecrawler
 1 Vengevine
@@ -91,21 +76,36 @@
 3 Gravecrawler
 4 Lotleth Troll
 4 Vengevine
+1 Tranquil Thicket
 1 Yavimaya, Cradle of Growth
-4 Misty Rainforest
+1 Bone Shards
+2 Island
 1 Breeding Pool
+2 Misty Rainforest
+3 Misty Rainforest
+1 Scalding Tarn
+1 Steam Vents
+2 Scalding Tarn
+3 Scalding Tarn
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
-4 Cauldron Familiar
+4 Thought Monitor
+1 Mishra's Bauble
+1 Emry, Lurker of the Loch
+2 Mishra's Bauble
+2 Emry, Lurker of the Loch
+3 Mishra's Bauble
+3 Emry, Lurker of the Loch
+4 Mishra's Bauble
 1 Hallowed Fountain
 1 Flooded Strand
 2 Flooded Strand
 3 Flooded Strand
+1 Watery Grave
 1 Polluted Delta
 2 Polluted Delta
 3 Polluted Delta
-1 Fatal Push
 1 Godless Shrine
 2 Windswept Heath
 2 Nurturing Peatland
@@ -114,17 +114,17 @@
 1 Goblin Bombardment
 1 Mayhem Devil
 2 Blood Crypt
+2 Mayhem Devil
 2 Goblin Bombardment
 2 Blackcleave Cliffs
-2 Mayhem Devil
 3 Bloodstained Mire
 3 Goblin Bombardment
 3 Blackcleave Cliffs
 3 Blood Crypt
 3 Mayhem Devil
 4 Blackcleave Cliffs
-4 Bloodstained Mire
 4 Bloodghast
+4 Bloodstained Mire
 4 Mayhem Devil
 1 Power Conduit
 1 Life from the Loam
@@ -134,28 +134,24 @@
 2 Ravenous Squirrel
 3 Willow Geist
 3 Swamp
-3 Darkbore Pathway
-4 Darkbore Pathway
 4 Trail of Crumbs
 1 Ketria Triome
-1 Darkslick Shores
-3 Island
+4 Misty Rainforest
 4 Polluted Delta
 4 Ragavan, Nimble Pilferer
 4 Flooded Strand
 1 Sacred Foundry
+1 Fatal Push
 2 Fatal Push
 1 Ranger-Captain of Eos
 2 Ranger-Captain of Eos
 3 Ranger-Captain of Eos
 4 Prismatic Ending
 4 Ranger-Captain of Eos
-1 Engineered Explosives
-1 Teferi, Time Raveler
-1 Llanowar Wastes
-2 Llanowar Wastes
 1 Abrupt Decay
 2 Abrupt Decay
+1 Llanowar Wastes
+2 Llanowar Wastes
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
@@ -166,9 +162,13 @@
 2 Breeding Pool
 2 Botanical Sanctum
 3 Fatal Push
-1 Cavern of Souls
+1 Engineered Explosives
+1 Teferi, Time Raveler
+1 Darkslick Shores
+3 Island
 1 Gut Shot
 1 Talisman of Progress
+1 Cavern of Souls
 2 Cavern of Souls
 2 Gut Shot
 2 Hallowed Fountain
@@ -179,8 +179,8 @@
 4 Talisman of Progress
 1 Arid Mesa
 1 Esper Sentinel
-1 Thraben Inspector
 1 Giver of Runes
+1 Thraben Inspector
 1 Thalia, Guardian of Thraben
 1 Concealed Courtyard
 2 Arid Mesa
@@ -204,12 +204,6 @@
 3 Tarmogoyf
 4 Copperline Gorge
 4 Tarmogoyf
-1 Metallic Rebuke
-2 Watery Grave
-2 Metallic Rebuke
-2 Darkslick Shores
-3 Darkslick Shores
-4 Darkslick Shores
 4 Wrenn and Six
 1 Mox Amber
 1 Spirebluff Canal

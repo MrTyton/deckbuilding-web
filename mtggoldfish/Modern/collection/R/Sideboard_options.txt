@@ -1,20 +1,10 @@
 1 Warping Wail
 2 Warping Wail
 3 Blood Moon
-1 Shattering Spree
-2 Shattering Spree
 1 Engineered Explosives
 2 Engineered Explosives
-1 Abrade
-2 Abrade
-3 Ensnaring Bridge
-4 Blood Moon
-1 Pyrite Spellbomb
-2 Pyrite Spellbomb
-3 Pyrite Spellbomb
-4 Pyrite Spellbomb
-1 Chalice of the Void
-2 Chalice of the Void
+1 Shattering Spree
+2 Shattering Spree
 1 Kozilek's Return
 1 Void Mirror
 2 Void Mirror
@@ -23,9 +13,19 @@
 3 Shattering Spree
 2 Kozilek's Return
 4 Shattering Spree
+4 Blood Moon
+1 Abrade
+2 Abrade
 1 Obsidian Charmaw
 2 Obsidian Charmaw
 3 Obsidian Charmaw
+3 Ensnaring Bridge
+1 Pyrite Spellbomb
+2 Pyrite Spellbomb
+3 Pyrite Spellbomb
+4 Pyrite Spellbomb
+1 Chalice of the Void
+2 Chalice of the Void
 3 Chalice of the Void
 4 Ensnaring Bridge
 4 Chalice of the Void
@@ -54,20 +54,15 @@
 2 Alpine Moon
 1 Ancient Grudge
 2 Ancient Grudge
-1 Oblivion Stone
-2 Oblivion Stone
 1 Meteor Swarm
 2 Meteor Swarm
-1 Fury
-1 Blast Zone
-2 Fury
-2 Blast Zone
-3 Fury
+1 Oblivion Stone
+2 Oblivion Stone
 3 Kozilek's Return
 1 Eldrazi Obligator
 2 Eldrazi Obligator
 3 Eldrazi Obligator
 4 Eldrazi Obligator
-1 Stormbreath Dragon
 1 Emrakul, the Aeons Torn
+1 Stormbreath Dragon
 4 Dragon's Claw

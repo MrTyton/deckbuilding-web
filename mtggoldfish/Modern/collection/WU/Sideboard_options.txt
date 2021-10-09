@@ -1,9 +1,9 @@
-1 Damping Sphere
-2 Damping Sphere
 1 Dispatch
 2 Dispatch
 2 Soul-Guide Lantern
-1 Pithing Needle
+1 Damping Sphere
+2 Damping Sphere
+3 Dovin's Veto
 3 Damping Sphere
 3 Soul-Guide Lantern
 1 Lurrus of the Dream-Den
@@ -23,25 +23,30 @@
 3 Rest in Peace
 1 Elspeth, Sun's Nemesis
 2 Elspeth, Sun's Nemesis
+4 Sanctifier en-Vec
+1 Drannith Magistrate
+2 Drannith Magistrate
+1 Test of Talents
+2 Test of Talents
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 3 Dispatch
 1 Aether Spellbomb
 2 Aether Spellbomb
 3 Aether Spellbomb
-1 Test of Talents
-2 Test of Talents
-4 Sanctifier en-Vec
 1 Lightning Helix
 2 Lightning Helix
 4 Subtlety
+1 Cathar Commando
+1 Burrenton Forge-Tender
+2 Cathar Commando
+2 Burrenton Forge-Tender
+3 Drannith Magistrate
 1 Vendilion Clique
 2 Pithing Needle
 1 Relic of Progenitus
 1 Force of Negation
 2 Force of Negation
-1 Drannith Magistrate
-2 Drannith Magistrate
 1 Elixir of Immortality
 1 Spell Pierce
 1 Kitchen Finks
@@ -61,6 +66,7 @@
 2 Heliod's Intervention
 2 Dawnbringer Cleric
 2 Mystical Dispute
+3 Cathar Commando
 1 Skyclave Apparition
 1 Blessed Alliance
 2 Skyclave Apparition
@@ -69,10 +75,5 @@
 1 Counterspell
 1 Fateful Absence
 4 Damping Sphere
-1 Cathar Commando
-1 Burrenton Forge-Tender
-2 Cathar Commando
-2 Burrenton Forge-Tender
-3 Drannith Magistrate
 3 Burrenton Forge-Tender
 4 Drannith Magistrate
