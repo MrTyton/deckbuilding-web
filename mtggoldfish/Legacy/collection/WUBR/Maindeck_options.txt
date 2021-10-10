@@ -1,10 +1,11 @@
+1 Scalding Tarn
+2 Scalding Tarn
 2 Island
 1 Cling to Dust
 1 Badlands
 1 Fatal Push
 2 Fatal Push
-1 Scalding Tarn
-2 Scalding Tarn
+2 Tundra
 1 Hymn to Tourach
 2 Hymn to Tourach
 1 Jace, the Mind Sculptor
@@ -12,6 +13,10 @@
 1 Brazen Borrower
 1 Misty Rainforest
 2 Misty Rainforest
+1 Monastery Mentor
+2 Volcanic Island
+3 Scalding Tarn
+4 Scalding Tarn
 1 Kolaghan's Command
 3 Snapcaster Mage
 1 Urza's Saga
@@ -20,6 +25,7 @@
 3 Underground Sea
 1 Sudden Edict
 2 Sudden Edict
+1 Dress Down
 1 Abrupt Decay
 1 Tropical Island
 1 Bayou
@@ -30,12 +36,10 @@
 2 Uro, Titan of Nature's Wrath
 2 Tropical Island
 3 Misty Rainforest
+1 Plague Engineer
 1 Snow-Covered Island
 1 Snow-Covered Swamp
 2 Snow-Covered Island
-1 Plague Engineer
-2 Tundra
-1 Monastery Mentor
 1 Dack Fayden
 1 Vendilion Clique
 1 Murktide Regent
@@ -45,14 +49,6 @@
 2 Murktide Regent
 2 Hullbreacher
 3 Murktide Regent
-1 Life from the Loam
-1 Sylvan Library
-1 Toxic Deluge
-1 Wasteland
-2 Wasteland
-3 Wasteland
-3 Thoughtseize
-3 Tropical Island
 1 Angrath's Rampage
 1 Pyroblast
 1 Eliminate
@@ -64,15 +60,26 @@
 2 Badlands
 2 Plague Engineer
 2 Lightning Bolt
-2 Volcanic Island
-3 Scalding Tarn
 3 Volcanic Island
-4 Scalding Tarn
+1 Life from the Loam
+1 Sylvan Library
+1 Toxic Deluge
+1 Wasteland
+2 Wasteland
+3 Wasteland
+3 Thoughtseize
+3 Tropical Island
+1 Expressive Iteration
+1 Plateau
+2 Expressive Iteration
+2 Monastery Mentor
+2 Dress Down
+3 Expressive Iteration
+4 Prismatic Ending
 1 Ice-Fang Coatl
 1 Unearth
 1 Grist, the Hunger Tide
 1 Witherbloom Command
-1 Dress Down
 1 Endurance
 1 Leovold, Emissary of Trest
 1 Snow-Covered Forest
@@ -98,8 +105,8 @@
 4 Fatal Push
 4 Snow-Covered Island
 1 Cavern of Souls
-1 Aether Spellbomb
 1 Brainstone
+1 Aether Spellbomb
 1 Soul-Guide Lantern
 1 Academy Ruins
 1 Esper Sentinel

@@ -4,11 +4,11 @@
 1 Misty Rainforest
 2 Misty Rainforest
 2 Sunken Ruins
-4 Snapcaster Mage
-1 Breeding Pool
 1 Flooded Strand
 2 Flooded Strand
 3 Flooded Strand
+4 Snapcaster Mage
+1 Breeding Pool
 2 Damnation
 3 Misty Rainforest
 1 Snow-Covered Island
@@ -27,17 +27,20 @@
 1 Steam Vents
 1 Abrupt Decay
 2 Abrupt Decay
+1 Spell Pierce
+1 Thoughtseize
+2 Thoughtseize
 4 Misty Rainforest
 1 Cryptic Command
 1 Creeping Tar Pit
-2 Steam Vents
-1 Thoughtseize
-2 Thoughtseize
 1 Marsh Flats
+1 Force of Negation
+3 Thoughtseize
+4 Thoughtseize
+2 Steam Vents
 1 Kolaghan's Command
 1 Dreadbore
 1 Jace, Vryn's Prodigy
-1 Force of Negation
 1 Sulfur Falls
 1 Mountain
 1 Lightning Bolt
@@ -53,13 +56,11 @@
 2 Lightning Bolt
 3 Lightning Bolt
 3 Swamp
-3 Thoughtseize
 3 Kolaghan's Command
 4 Lightning Bolt
-4 Thoughtseize
 6 Island
-3 Hall of Storm Giants
 3 Sunken Ruins
+3 Hall of Storm Giants
 3 Into the Story
 4 Sunken Ruins
 2 Tourach, Dread Cantor
@@ -67,8 +68,8 @@
 1 Soul-Guide Lantern
 2 Spreading Seas
 2 Zagoth Triome
-1 Spell Pierce
 1 Engineered Explosives
+1 Spell Snare
 1 Ketria Triome
 1 Bring to Light
 2 Bring to Light
@@ -79,18 +80,35 @@
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
-1 Spell Snare
+1 Hallowed Fountain
+1 Prismatic Ending
+1 Plains
+2 Prismatic Ending
+1 Behold the Multiverse
+1 Rimewood Falls
+1 Ice Tunnel
+2 Behold the Multiverse
 1 Memory Deluge
 2 Memory Deluge
 2 Pulse of Murasa
-1 Ice Tunnel
-1 Rimewood Falls
-1 Behold the Multiverse
-2 Behold the Multiverse
 1 Culling Ritual
 1 Brainstone
 2 Drowned Catacomb
 3 Drowned Catacomb
+1 Tidehollow Sculler
+1 Death's Shadow
+1 Esper Charm
+1 Night's Whisper
+1 Kaya's Guile
+1 Dismember
+2 Marsh Flats
+2 Tidehollow Sculler
+2 Death's Shadow
+2 Hallowed Fountain
+3 Death's Shadow
+3 Tidehollow Sculler
+4 Death's Shadow
+4 Tidehollow Sculler
 1 Blooming Marsh
 1 Village Rites
 1 Unearth
@@ -104,11 +122,11 @@
 1 Verdant Catacombs
 2 Snow-Covered Swamp
 2 Unearth
-2 Village Rites
 2 Snow-Covered Forest
 2 Cling to Dust
 2 Verdant Catacombs
 2 Noble Hierarch
+2 Village Rites
 2 Tarmogoyf
 2 Inquisition of Kozilek
 3 Verdant Catacombs
@@ -116,19 +134,15 @@
 3 Inquisition of Kozilek
 3 Tarmogoyf
 4 Tarmogoyf
-1 Expressive Iteration
-1 Hallowed Fountain
-1 Search for Azcanta
-1 Prismatic Ending
 1 Seal of Removal
+1 Expressive Iteration
+1 Search for Azcanta
 1 Mystic Gate
-1 Plains
 1 Unholy Heat
 1 Supreme Verdict
 1 Raugrin Triome
 2 Expressive Iteration
 2 Seal of Removal
-2 Prismatic Ending
 2 Unholy Heat
 2 Supreme Verdict
 3 Prismatic Ending
