@@ -36,8 +36,8 @@
 |                    1|[Dive Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435205)       |                    1|[Dive Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435205)       |
 |                    1|[Nebelgast Herald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414366)|                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)    |
 |                    1|[Memory Lapse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3924)      |                    1|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)  |
-|                    2|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136218)        |                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |
-|                    2|[Memory Lapse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3924)      |                    2|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)  |
+|                    2|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136218)        |                    2|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)  |
+|                    2|[Memory Lapse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3924)      |                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |
 |                    3|[Faceless Haven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503874)  |                     |                                                                                           |
 |                    3|[Memory Lapse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3924)      |                     |                                                                                           |
 
