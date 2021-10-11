@@ -1,7 +1,7 @@
-# Selesnya Ramp
+# Ramp
 
-#### [Export MTGO List](../collection/Selesnya%20Ramp/Selesnya%20Ramp.txt)
-#### [Export Arena List](../collection/Selesnya%20Ramp/Selesnya%20Ramp_arena.txt)
+#### [Export MTGO List](../collection/Ramp/Ramp.txt)
+#### [Export Arena List](../collection/Ramp/Ramp_arena.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Branchloft%20Pathway%0A2%09Briarbridge%20Tracker%0A3%09Brutal%20Cathar%0A1%09Cave%20of%20the%20Frost%20Dragon%0A4%09Darkbore%20Pathway%0A3%09Emeria's%20Call%0A4%09Esika's%20Chariot%0A3%09Felidar%20Retreat%0A2%09Field%20of%20Ruin%0A5%09Forest%0A1%09Infernal%20Grasp%0A1%09Lair%20of%20the%20Hydra%0A2%09Lotus%20Cobra%0A4%09Overgrown%20Farmland%0A3%09Plains%0A4%09Prosperous%20Innkeeper%0A3%09Storm%20the%20Festival%0A4%09Tangled%20Florahedron%0A4%09Wrenn%20and%20Seven%0A3%09Yasharn,%20Implacable%20Earth&deckside=2%09Borrowed%20Time%0A2%09Doomskar%0A2%09Fateful%20Absence%0A4%09Ranger%20Class%0A2%09Reidane,%20God%20of%20the%20Worthy%0A3%09Skyclave%20Apparition)
 # Maindeck
 
