@@ -1,9 +1,9 @@
 1 Tundra
 3 Urza, Lord High Artificer
-1 Ranger of Eos
-2 Ranger of Eos
 1 Ancient Den
 2 Tundra
+1 Ranger of Eos
+2 Ranger of Eos
 2 Blast Zone
 2 Ancient Den
 3 Ancient Den
@@ -27,21 +27,21 @@
 1 Kaervek, the Spiteful
 2 Kaervek, the Spiteful
 1 Urborg, Tomb of Yawgmoth
+2 Urborg, Tomb of Yawgmoth
 1 Plains
 3 Mishra's Bauble
 1 Ethersworn Canonist
 2 Ethersworn Canonist
 3 Kaervek, the Spiteful
-2 Urborg, Tomb of Yawgmoth
 2 Plains
 3 Plains
+1 Portable Hole
 1 Esper Sentinel
 1 Kaldra Compleat
 1 Stoneforge Mystic
 1 Arcbound Ravager
 1 Swords to Plowshares
 1 Pithing Needle
-1 Portable Hole
 1 Soul-Guide Lantern
 1 Sword of Fire and Ice
 1 Shadowspear
@@ -54,16 +54,16 @@
 3 Esper Sentinel
 3 Ethersworn Canonist
 3 Stoneforge Mystic
-3 Swords to Plowshares
 3 Arcbound Ravager
 3 Portable Hole
+3 Swords to Plowshares
 4 Plains
 4 Stoneforge Mystic
 4 Arcbound Ravager
-4 Swords to Plowshares
 4 Esper Sentinel
 4 Ethersworn Canonist
 4 Portable Hole
+4 Swords to Plowshares
 5 Plains
 6 Plains
 1 Razortide Bridge
@@ -89,8 +89,6 @@
 2 Flooded Strand
 1 Unclaimed Territory
 2 Unclaimed Territory
-1 Go for the Throat
-2 Go for the Throat
 1 Imperial Recruiter
 1 Great Furnace
 1 Goblin Cratermaker
@@ -105,10 +103,13 @@
 2 Arcbound Javelineer
 2 Lodestone Golem
 3 Arcbound Javelineer
-3 Feed the Swarm
 1 Thought-Knot Seer
 2 Thought-Knot Seer
 3 Thought-Knot Seer
+3 Feed the Swarm
+1 Cathar Commando
+2 Cathar Commando
+3 Cathar Commando
 1 Talisman of Progress
 2 Talisman of Progress
 3 Talisman of Progress

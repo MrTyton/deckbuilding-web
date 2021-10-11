@@ -1,14 +1,14 @@
-1 Sunken Ruins
+2 River of Tears
 1 Swamp
+2 Sunken Ruins
 1 Damnation
 1 Misty Rainforest
 2 Misty Rainforest
-2 Sunken Ruins
+4 Snapcaster Mage
+1 Breeding Pool
 1 Flooded Strand
 2 Flooded Strand
 3 Flooded Strand
-4 Snapcaster Mage
-1 Breeding Pool
 2 Damnation
 3 Misty Rainforest
 1 Snow-Covered Island
@@ -18,45 +18,45 @@
 3 Snow-Covered Island
 1 Castle Vantress
 1 Pulse of Murasa
+1 Steam Vents
 1 Tourach, Dread Cantor
 1 Reflecting Pool
 2 Reflecting Pool
 4 Snow-Covered Island
 1 Valki, God of Lies
 2 Valki, God of Lies
-1 Steam Vents
-1 Abrupt Decay
-2 Abrupt Decay
-1 Spell Pierce
+1 Creeping Tar Pit
+2 Steam Vents
+1 Engineered Explosives
 1 Thoughtseize
 2 Thoughtseize
-4 Misty Rainforest
-1 Cryptic Command
-1 Creeping Tar Pit
-1 Force of Negation
-1 Marsh Flats
-3 Thoughtseize
-4 Thoughtseize
-2 Steam Vents
 1 Kolaghan's Command
 1 Dreadbore
-1 Jace, Vryn's Prodigy
 1 Sulfur Falls
-1 Mountain
-1 Lightning Bolt
 1 Blood Crypt
-2 Kolaghan's Command
-2 Swamp
-2 Cryptic Command
+1 Lightning Bolt
 2 Creeping Tar Pit
+2 Kolaghan's Command
+2 Lightning Bolt
+3 Kolaghan's Command
+3 Lightning Bolt
+1 Cryptic Command
+1 Abrupt Decay
+2 Abrupt Decay
+4 Misty Rainforest
+1 Mountain
+1 Marsh Flats
+1 Jace, Vryn's Prodigy
+1 Force of Negation
+2 Cryptic Command
 2 Force of Negation
 2 Dreadbore
 2 Jace, Vryn's Prodigy
+2 Swamp
 2 Mountain
-2 Lightning Bolt
-3 Lightning Bolt
+3 Thoughtseize
 3 Swamp
-3 Kolaghan's Command
+4 Thoughtseize
 4 Lightning Bolt
 6 Island
 3 Sunken Ruins
@@ -68,85 +68,99 @@
 1 Soul-Guide Lantern
 2 Spreading Seas
 2 Zagoth Triome
-1 Engineered Explosives
-1 Spell Snare
+1 Inquisition of Kozilek
+1 Memory Deluge
+1 Spell Pierce
 1 Ketria Triome
 1 Bring to Light
 2 Bring to Light
 3 Bring to Light
+1 Unholy Heat
+2 Unholy Heat
 1 Snow-Covered Swamp
 1 Snow-Covered Forest
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
-1 Hallowed Fountain
-1 Prismatic Ending
-1 Plains
-2 Prismatic Ending
+1 Unearth
+2 Unearth
+2 Cling to Dust
+2 Inquisition of Kozilek
+3 Inquisition of Kozilek
+1 Spell Snare
 1 Behold the Multiverse
 1 Rimewood Falls
 1 Ice Tunnel
 2 Behold the Multiverse
-1 Memory Deluge
 2 Memory Deluge
 2 Pulse of Murasa
 1 Culling Ritual
 1 Brainstone
 2 Drowned Catacomb
 3 Drowned Catacomb
-1 Blooming Marsh
-1 Unearth
-1 Assassin's Trophy
-1 Overgrown Tomb
+1 Serum Visions
+1 Riptide Laboratory
+1 Terminate
+2 Serum Visions
+3 Serum Visions
+4 Serum Visions
+4 Scalding Tarn
 1 Nurturing Peatland
-1 Inquisition of Kozilek
+1 Blooming Marsh
+1 Overgrown Tomb
+1 Verdant Catacombs
+1 Assassin's Trophy
 1 Nissa, Steward of Elements
 1 Noble Hierarch
 1 Tarmogoyf
-1 Verdant Catacombs
 1 Village Rites
-2 Unearth
 2 Snow-Covered Swamp
-2 Snow-Covered Forest
-2 Cling to Dust
 2 Verdant Catacombs
 2 Noble Hierarch
-2 Village Rites
 2 Tarmogoyf
-2 Inquisition of Kozilek
+2 Village Rites
+2 Snow-Covered Forest
 3 Verdant Catacombs
-3 Noble Hierarch
-3 Inquisition of Kozilek
 3 Tarmogoyf
+3 Noble Hierarch
 4 Tarmogoyf
+1 Urborg, Tomb of Yawgmoth
+1 Hive of the Eye Tyrant
+1 Castle Locthwain
+1 Dauthi Voidwalker
+1 Bitterblossom
+1 Thieves' Guild Enforcer
+1 Soaring Thought-Thief
+1 Swamp Mosquito
+2 Dauthi Voidwalker
+2 Bitterblossom
+2 Soaring Thought-Thief
+2 Swamp Mosquito
+2 Thieves' Guild Enforcer
+3 Dauthi Voidwalker
+3 Swamp Mosquito
+3 Thieves' Guild Enforcer
+3 Soaring Thought-Thief
+4 Darkslick Shores
+4 Soaring Thought-Thief
+4 Thieves' Guild Enforcer
+4 Inquisition of Kozilek
 1 Seal of Removal
 1 Expressive Iteration
-1 Search for Azcanta
-1 Mystic Gate
-1 Unholy Heat
 1 Supreme Verdict
+1 Mystic Gate
+1 Search for Azcanta
+1 Hallowed Fountain
+1 Prismatic Ending
+1 Plains
 1 Raugrin Triome
 2 Expressive Iteration
+2 Prismatic Ending
 2 Seal of Removal
-2 Unholy Heat
 2 Supreme Verdict
 3 Prismatic Ending
 3 Unholy Heat
-4 Flooded Strand
 4 Prismatic Ending
 4 Unholy Heat
-1 Death's Shadow
-1 Tidehollow Sculler
-1 Esper Charm
-1 Kaya's Guile
-1 Night's Whisper
-1 Dismember
-2 Death's Shadow
-2 Tidehollow Sculler
-2 Hallowed Fountain
-2 Marsh Flats
-3 Death's Shadow
-3 Tidehollow Sculler
-4 Death's Shadow
-4 Tidehollow Sculler
+4 Flooded Strand

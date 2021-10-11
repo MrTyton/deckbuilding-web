@@ -2,8 +2,6 @@
 1 Serra's Emissary
 1 Archon of Cruelty
 1 Coffin Purge
-3 Wear/Tear
-4 Show and Tell
 1 Reverent Silence
 2 Reverent Silence
 3 Reverent Silence
@@ -11,10 +9,12 @@
 2 Xantid Swarm
 1 Ashen Rider
 1 Elesh Norn, Grand Cenobite
-3 Xantid Swarm
 1 Faerie Macabre
 2 Faerie Macabre
+3 Xantid Swarm
+3 Wear/Tear
 3 Faerie Macabre
+4 Show and Tell
 1 Thoughtseize
 2 Thoughtseize
 3 Serenity
@@ -27,6 +27,8 @@
 1 Assassin's Trophy
 2 Assassin's Trophy
 4 Reverent Silence
+1 Grief
+2 Grief
 1 Rotting Regisaur
 2 Rotting Regisaur
 3 Rotting Regisaur
@@ -35,8 +37,6 @@
 1 Grapeshot
 1 Abrupt Decay
 1 Tidespout Tyrant
-1 Grief
-2 Grief
 3 Orim's Chant
 3 Assassin's Trophy
 2 Massacre
@@ -54,18 +54,18 @@
 2 Collective Brutality
 2 Stronghold Gambit
 3 Stronghold Gambit
+1 Cryptbreaker
 1 Silent Gravestone
 1 Fatal Push
-1 Cryptbreaker
 1 Kaervek, the Spiteful
+2 Cryptbreaker
 2 Fatal Push
 2 Kaervek, the Spiteful
-2 Cryptbreaker
 3 Cryptbreaker
 1 Burning Wish
 1 Witherbloom Apprentice
-1 Sedgemoor Witch
 1 Chain of Smog
+1 Sedgemoor Witch
 1 Pulverize
 2 Burning Wish
 2 Witherbloom Apprentice
@@ -76,21 +76,28 @@
 3 Witherbloom Apprentice
 4 Sedgemoor Witch
 4 Wear/Tear
-1 Ashiok, Dream Render
+1 Darkblast
+1 Magus of the Moon
+1 Feed the Swarm
+2 Magus of the Moon
+2 Feed the Swarm
+3 Feed the Swarm
+4 Feed the Swarm
 1 Pack Rat
+1 Ashiok, Dream Render
 1 Ratchet Bomb
 2 Pack Rat
 2 Ratchet Bomb
 2 Ashiok, Dream Render
 3 Ratchet Bomb
-3 Pack Rat
 3 Surgical Extraction
 3 Ashiok, Dream Render
+3 Pack Rat
 4 Ratchet Bomb
-4 Pack Rat
 4 Surgical Extraction
-1 Island
+4 Pack Rat
 1 Mindbreak Trap
+1 Island
 1 Duress
 2 Mindbreak Trap
 3 Duress

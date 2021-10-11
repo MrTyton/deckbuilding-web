@@ -1,29 +1,27 @@
-4 Flooded Strand
-2 Fire/Ice
+1 Spell Snare
+1 Spirebluff Canal
 4 Consider
-4 Opt
+4 Flooded Strand
 4 Murktide Regent
-2 Spirebluff Canal
 8 Island
-2 Cryptic Command
 3 Fire/Ice
+2 Cryptic Command
+1 Castle Vantress
+2 Spirebluff Canal
+1 Electrolyze
+2 Prismari Command
+1 Jace, the Mind Sculptor
+2 Polluted Delta
 1 Expressive Iteration
 2 Expressive Iteration
-1 Castle Vantress
-1 Electrolyze
-2 Polluted Delta
-1 Jace, the Mind Sculptor
-3 Expressive Iteration
 1 Force of Negation
-2 Prismari Command
-1 Shark Typhoon
+3 Expressive Iteration
 3 Misty Rainforest
 4 Misty Rainforest
 1 Dress Down
 1 Memory Deluge
 2 Memory Deluge
-2 Shark Typhoon
-2 Jace, the Mind Sculptor
+1 Shark Typhoon
 1 Flusterstorm
 1 Flame Slash
 1 Thing in the Ice
@@ -32,13 +30,14 @@
 3 Thing in the Ice
 3 Dress Down
 3 Polluted Delta
-1 Unholy Heat
-2 Unholy Heat
+2 Jace, the Mind Sculptor
 4 Fire/Ice
-4 Expressive Iteration
+2 Shark Typhoon
 1 Growth Spiral
 1 Breeding Pool
 2 Growth Spiral
+1 Unholy Heat
+2 Unholy Heat
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
@@ -48,32 +47,33 @@
 2 Wilderness Reclamation
 3 Growth Spiral
 3 Wilderness Reclamation
-3 Unholy Heat
-3 Shark Typhoon
 1 Hinterland Harbor
 1 Wrenn and Six
 1 Ketria Triome
 2 Wrenn and Six
 3 Wrenn and Six
+1 Reflecting Pool
+2 Reflecting Pool
+3 Sulfur Falls
 1 Abrade
 2 Brazen Borrower
 1 Dead/Gone
-1 Reflecting Pool
-2 Reflecting Pool
 2 Ketria Triome
+3 Shark Typhoon
 3 Memory Deluge
+3 Unholy Heat
 2 Hinterland Harbor
 4 Snow-Covered Island
-3 Sulfur Falls
 1 Raugrin Triome
+4 Expressive Iteration
 3 Ketria Triome
 3 Hinterland Harbor
 4 Shark Typhoon
 1 Fact or Fiction
 2 Hall of Storm Giants
-1 Fury
-2 Fury
+3 Prismari Command
 2 Force of Negation
+1 Cascade Bluffs
 1 Snow-Covered Forest
 1 Ice-Fang Coatl
 1 Rimewood Falls
@@ -81,24 +81,24 @@
 3 Ice-Fang Coatl
 1 Zagoth Triome
 1 Watery Grave
+1 Field of Ruin
 1 Snow-Covered Swamp
-1 Fatal Push
 1 Endurance
+1 Fatal Push
 1 Sultai Charm
 1 Mystical Teachings
-1 Field of Ruin
 1 Consume the Meek
 1 Prismatic Vista
 2 Prismatic Vista
+2 Field of Ruin
 2 Zagoth Triome
 2 Snow-Covered Forest
 2 Endurance
 2 Fatal Push
 2 Breeding Pool
-2 Field of Ruin
+3 Field of Ruin
 3 Cryptic Command
 3 Fatal Push
-3 Field of Ruin
 4 Ice-Fang Coatl
 4 Growth Spiral
 4 Fatal Push
@@ -109,14 +109,29 @@
 9 Snow-Covered Island
 1 Spreading Seas
 9 Island
-1 Serum Visions
-2 Serum Visions
 1 Snow-Covered Mountain
 1 Fiery Islet
-3 Prismari Command
+1 Emrakul, the Aeons Torn
+1 Riverglide Pathway
+1 Through the Breach
+2 Through the Breach
+2 Emrakul, the Aeons Torn
+3 Through the Breach
+3 Emrakul, the Aeons Torn
+4 Through the Breach
+2 Cascade Bluffs
+1 Fury
+2 Fury
 4 Polluted Delta
-1 Cascade Bluffs
 1 Anger of the Gods
+1 Valakut Awakening
+1 Temple of Epiphany
+1 Remand
+1 Izzet Charm
+2 Remand
+2 Valakut Awakening
+3 Remand
+3 Cascade Bluffs
 1 Hallowed Fountain
 1 Glacial Fortress
 1 Prismatic Ending
@@ -128,11 +143,13 @@
 3 Prismatic Ending
 4 Prismatic Ending
 1 Spell Pierce
-1 Batterskull
-1 Expansion/Explosion
 1 Spikefield Hazard
 2 Dead/Gone
 2 Spreading Seas
+1 Batterskull
+1 Serum Visions
+1 Expansion/Explosion
+2 Serum Visions
 1 Bonecrusher Giant
 3 Spirebluff Canal
 4 Prismari Command
@@ -149,46 +166,31 @@
 1 Relic of Progenitus
 2 Relic of Progenitus
 3 Force of Negation
-3 Relic of Progenitus
 3 Blood Moon
+3 Relic of Progenitus
 3 Jace, the Mind Sculptor
 4 Relic of Progenitus
-1 Dragon's Rage Channeler
-2 Dragon's Rage Channeler
-3 Dragon's Rage Channeler
-3 Serum Visions
-4 Dragon's Rage Channeler
-4 Serum Visions
 1 Blood Crypt
+1 Creeping Tar Pit
+1 Kolaghan's Command
 1 Drowned Catacomb
 1 Cling to Dust
-1 Swamp
-1 Kolaghan's Command
 1 Drown in the Loch
-1 Creeping Tar Pit
+1 Swamp
+2 Kolaghan's Command
 2 Drowned Catacomb
 2 Drown in the Loch
-2 Kolaghan's Command
 3 Kolaghan's Command
 4 Dress Down
 4 Thing in the Ice
 1 Subtlety
 2 Subtlety
-2 Cascade Bluffs
 3 Subtlety
 3 Fury
 4 Fury
 4 Subtlety
 10 Island
-1 Emrakul, the Aeons Torn
-1 Riverglide Pathway
 1 Engineered Explosives
-1 Through the Breach
-2 Through the Breach
-2 Emrakul, the Aeons Torn
 2 Engineered Explosives
-3 Through the Breach
-3 Emrakul, the Aeons Torn
-4 Through the Breach
 4 Emrakul, the Aeons Torn
 4 Steam Vents

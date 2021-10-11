@@ -7,13 +7,13 @@
 1 Woodland Chasm
 2 Woodland Chasm
 1 Hive of the Eye Tyrant
+1 Snow-Covered Forest
 1 Snow-Covered Swamp
 1 Blood on the Snow
-1 Snow-Covered Forest
-2 Snow-Covered Swamp
 2 Snow-Covered Forest
-3 Snow-Covered Swamp
+2 Snow-Covered Swamp
 3 Snow-Covered Forest
+3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
 3 Woodland Chasm
@@ -21,8 +21,8 @@
 5 Snow-Covered Forest
 1 Skullport Merchant
 1 Faceless Haven
-2 Blood on the Snow
 2 Faceless Haven
+2 Blood on the Snow
 4 Woodland Chasm
 6 Snow-Covered Swamp
 1 Deadly Dispute
@@ -30,8 +30,8 @@
 4 Binding the Old Gods
 1 Shambling Ghast
 2 Shambling Ghast
-3 Blood on the Snow
 3 Shambling Ghast
+3 Blood on the Snow
 2 Skullport Merchant
 3 Faceless Haven
 1 Eyetwitch
@@ -76,8 +76,8 @@
 1 Alrund's Epiphany
 2 Alrund's Epiphany
 3 Briarbridge Tracker
-4 Hengegate Pathway
 4 Deserted Beach
+4 Hengegate Pathway
 1 Soul Shatter
 3 Deadly Dispute
 6 Forest
@@ -109,37 +109,37 @@
 2 Swamp
 2 Power Word Kill
 3 Soul Shatter
-1 Shatterskull Smashing
-1 Haunted Ridge
+1 Witherbloom Campus
+1 Burning Hands
 1 Blightstep Pathway
 1 Goldspan Dragon
-1 Reckless Stormseeker
 1 Cragcrown Pathway
-1 Burning Hands
+1 Shatterskull Smashing
+1 Reckless Stormseeker
 1 Arlinn, the Pack's Hope
-1 Witherbloom Campus
 1 Rockfall Vale
-2 Haunted Ridge
-2 Blightstep Pathway
+1 Haunted Ridge
 2 Goldspan Dragon
 2 Reckless Stormseeker
 2 Cragcrown Pathway
+2 Blightstep Pathway
 2 Rockfall Vale
+2 Haunted Ridge
+3 Rockfall Vale
 3 Haunted Ridge
 3 Blightstep Pathway
-3 Cragcrown Pathway
 3 Reckless Stormseeker
-3 Rockfall Vale
-4 Blightstep Pathway
+3 Cragcrown Pathway
+4 Rockfall Vale
+4 Reckless Stormseeker
 4 Haunted Ridge
 4 Cragcrown Pathway
-4 Reckless Stormseeker
-4 Rockfall Vale
+4 Blightstep Pathway
 1 Loyal Warhound
 2 Loyal Warhound
 3 Loyal Warhound
-4 Elite Spellbinder
 4 Kazandu Mammoth
+4 Elite Spellbinder
 4 Felidar Retreat
 1 Murasa Rootgrazer
 2 Murasa Rootgrazer
@@ -174,21 +174,21 @@
 1 Dryad's Revival
 1 Highland Forest
 1 Consuming Blob
-2 Valki, God of Lies
 2 Go Blank
+2 Valki, God of Lies
 1 Doomskar
 1 Glacial Floodplain
 1 The World Tree
 1 Maja, Bretagard Protector
 2 Island
-3 Alrund's Epiphany
-3 Island
 3 Quandrix Cultivator
+3 Island
+3 Alrund's Epiphany
 3 Path to the Festival
 4 Alrund's Epiphany
 4 Island
-1 Lier, Disciple of the Drowned
 1 Malevolent Hermit
+1 Lier, Disciple of the Drowned
 2 Malevolent Hermit
 1 Negate
 1 Fading Hope
@@ -210,55 +210,51 @@
 1 Scaled Herbalist
 2 Scaled Herbalist
 3 Scaled Herbalist
-1 Clearwater Pathway
-1 Shipwreck Marsh
-1 Rimewood Falls
-1 Koma, Cosmos Serpent
-2 Clearwater Pathway
-2 Shipwreck Marsh
-2 Koma, Cosmos Serpent
-3 Clearwater Pathway
-3 Shipwreck Marsh
-4 Shipwreck Marsh
-4 Clearwater Pathway
-1 Professor Onyx
-4 Deadly Dispute
 1 Sculptor of Winter
 2 Sculptor of Winter
 3 Sculptor of Winter
 4 Sculptor of Winter
 4 Murasa Rootgrazer
-1 Tainted Adversary
 1 Brightclimb Pathway
+1 Tainted Adversary
 1 Tovolar's Huntmaster
 1 Arctic Treeline
-2 Tainted Adversary
 2 Brightclimb Pathway
+2 Tainted Adversary
 2 Tovolar's Huntmaster
-3 Tainted Adversary
 3 Brightclimb Pathway
+3 Tainted Adversary
 4 The Meathook Massacre
+1 Koma, Cosmos Serpent
+1 Shipwreck Marsh
+1 Rimewood Falls
+1 Clearwater Pathway
+2 Koma, Cosmos Serpent
+2 Shipwreck Marsh
+2 Clearwater Pathway
+3 Clearwater Pathway
+3 Shipwreck Marsh
+4 Clearwater Pathway
+4 Shipwreck Marsh
 1 Disdainful Stroke
 2 Disdainful Stroke
 3 Disdainful Stroke
 4 Disdainful Stroke
+1 Professor Onyx
+4 Deadly Dispute
 1 Jaspera Sentinel
 1 Ashaya, Soul of the Wild
-2 Jaspera Sentinel
 2 Culling Ritual
+2 Jaspera Sentinel
 2 Ashaya, Soul of the Wild
 3 Jaspera Sentinel
 3 Necroblossom Snarl
-4 Jaspera Sentinel
 4 Necroblossom Snarl
+4 Jaspera Sentinel
 6 Swamp
 7 Swamp
-1 Hagra Mauling
-3 Power Word Kill
-8 Snow-Covered Swamp
-9 Snow-Covered Swamp
-1 Primal Adversary
 1 Toski, Bearer of Secrets
+1 Primal Adversary
 1 Check for Traps
 1 Bala Ged Recovery
 1 Evolving Wilds
@@ -266,3 +262,7 @@
 2 Primal Adversary
 2 Evolving Wilds
 9 Forest
+1 Hagra Mauling
+3 Power Word Kill
+8 Snow-Covered Swamp
+9 Snow-Covered Swamp

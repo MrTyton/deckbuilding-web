@@ -1,5 +1,6 @@
-1 Hullbreacher
 1 Urza, Lord High Artificer
+1 Chalice of the Void
+1 Hullbreacher
 2 Urza, Lord High Artificer
 2 Chalice of the Void
 2 Hullbreacher
@@ -7,36 +8,35 @@
 3 Chalice of the Void
 3 Hullbreacher
 4 Chalice of the Void
-4 Voltaic Key
-4 Hullbreacher
 1 Emry, Lurker of the Loch
 2 Emry, Lurker of the Loch
 3 Emry, Lurker of the Loch
+4 Hullbreacher
 1 Sai, Master Thopterist
 4 Emry, Lurker of the Loch
 1 Seat of the Synod
 2 Seat of the Synod
 3 Seat of the Synod
-4 Seat of the Synod
-4 Urza, Lord High Artificer
 1 Urza's Bauble
 2 Urza's Bauble
 3 Urza's Bauble
+4 Seat of the Synod
+4 Urza, Lord High Artificer
 1 Cavern of Souls
+2 Cavern of Souls
+2 Sai, Master Thopterist
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
-2 Cavern of Souls
 1 Shadowspear
-1 Retrofitter Foundry
 1 Mishra's Bauble
-2 Sai, Master Thopterist
+1 Retrofitter Foundry
 3 Manifold Key
 1 Inventors' Fair
 1 Crystal Vein
 4 Basalt Monolith
-2 Mishra's Bauble
-3 Mishra's Bauble
 1 Tundra
+1 Snow-Covered Island
+2 Snow-Covered Island
 4 Urza's Bauble
 1 Chrome Mox
 1 Sea Gate Restoration
@@ -45,13 +45,17 @@
 3 Chrome Mox
 3 Sea Gate Restoration
 4 Sea Gate Restoration
+2 Mishra's Bauble
+3 Mishra's Bauble
 1 Karakas
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 2 Tundra
-1 Snow-Covered Island
-2 Snow-Covered Island
+1 Minamo, School at Water's Edge
 1 Day's Undoing
+1 Thought Monitor
+1 Dismember
+2 Thought Monitor
 1 Expedition Map
 2 Inventors' Fair
 1 Intuition
@@ -69,16 +73,12 @@
 2 Crystal Vein
 3 Snow-Covered Island
 4 Snow-Covered Island
-1 Minamo, School at Water's Edge
 1 Volcanic Island
 2 Volcanic Island
 1 Misty Rainforest
 1 Flooded Strand
 1 Mox Diamond
 1 Polluted Delta
-1 Thought Monitor
-1 Dismember
-2 Thought Monitor
 1 Force of Will
 2 Force of Will
 1 Snow-Covered Plains
@@ -109,12 +109,12 @@
 2 Arid Mesa
 2 Pyroblast
 2 Goblin Engineer
+2 Brainstone
 2 Goblin Welder
 2 Painter's Servant
 2 Gamble
 2 Great Furnace
 2 Mountain
-2 Brainstone
 2 Grindstone
 3 Grindstone
 3 Gamble
