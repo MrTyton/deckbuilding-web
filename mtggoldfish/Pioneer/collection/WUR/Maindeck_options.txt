@@ -1,10 +1,9 @@
 1 Dovin's Veto
+1 Castle Vantress
 1 Absorb
 1 Supreme Verdict
-1 Castle Vantress
 2 Supreme Verdict
 2 Absorb
-3 Absorb
 1 Teferi, Hero of Dominaria
 2 Teferi, Hero of Dominaria
 3 Supreme Verdict
@@ -15,6 +14,7 @@
 2 Glacial Fortress
 3 Glacial Fortress
 1 Island
+3 Absorb
 2 Island
 3 Island
 4 Island
@@ -22,90 +22,93 @@
 2 Censor
 3 Censor
 1 Shark Typhoon
-4 Supreme Verdict
 3 Teferi, Hero of Dominaria
 4 Glacial Fortress
 2 Dovin's Veto
 3 Dovin's Veto
+4 Supreme Verdict
 1 Irrigated Farmland
 1 Narset, Parter of Veils
-2 Dig Through Time
 2 Narset, Parter of Veils
 2 Irrigated Farmland
 2 Castle Ardenvale
 3 Irrigated Farmland
 4 Irrigated Farmland
-3 Narset, Parter of Veils
-1 Detention Sphere
-4 Teferi, Hero of Dominaria
-2 Castle Vantress
-2 Field of Ruin
-1 Blast Zone
-1 Azorius Charm
-2 Azorius Charm
+2 Dig Through Time
 1 Consider
 2 Consider
 3 Consider
 4 Consider
-3 Azorius Charm
+1 Detention Sphere
+3 Narset, Parter of Veils
+4 Teferi, Hero of Dominaria
+2 Castle Vantress
+1 Blast Zone
+2 Field of Ruin
 1 Treasure Vault
+1 Azorius Charm
+2 Azorius Charm
+1 Fateful Absence
+2 Fateful Absence
+3 Azorius Charm
+2 Shark Typhoon
+1 Deserted Beach
+3 Fateful Absence
+2 Deserted Beach
+1 Settle the Wreckage
 5 Island
 4 Dovin's Veto
 4 Azorius Charm
-1 Seal Away
-1 Fateful Absence
 3 Mutavault
-2 Fateful Absence
-2 Shark Typhoon
-1 Deserted Beach
-2 Deserted Beach
-1 Settle the Wreckage
-3 Fateful Absence
-3 The Blackstaff of Waterdeep
+1 Seal Away
 1 Sunset Revelry
-4 Ghostfire Blade
+3 The Blackstaff of Waterdeep
+4 Fateful Absence
 3 Shark Typhoon
-1 Hall of Storm Giants
+4 Ghostfire Blade
 1 Commit/Memory
+1 Hall of Storm Giants
+1 Memory Deluge
 3 Field of Ruin
 4 Absorb
-4 Fateful Absence
-1 Opt
-2 Opt
-1 Memory Deluge
-3 Deserted Beach
 2 Memory Deluge
-3 Opt
-4 Opt
 3 Memory Deluge
+3 Deserted Beach
 4 Portable Hole
 1 Luminarch Aspirant
 2 Luminarch Aspirant
 4 Censor
+1 Opt
+2 Opt
+3 Opt
+4 Opt
+2 Stubborn Denial
 3 Luminarch Aspirant
 4 Luminarch Aspirant
-1 Hieroglyphic Illumination
-2 Hieroglyphic Illumination
-1 Toolcraft Exemplar
-2 Toolcraft Exemplar
 1 Hangarback Walker
 2 Hangarback Walker
 3 Hangarback Walker
 4 Hangarback Walker
-4 Mutavault
+1 Sea Gate Wreckage
 2 Mana Confluence
+1 Toolcraft Exemplar
+2 Toolcraft Exemplar
+4 Mutavault
 3 Dig Through Time
 1 Mystical Dispute
 3 Plains
 6 Island
-1 Cave of the Frost Dragon
 1 Snow-Covered Plains
+1 Scavenger Grounds
 1 Jace, Architect of Thought
+1 Cave of the Frost Dragon
 1 Bomat Courier
 2 Bomat Courier
 2 Glass Casket
 1 Torrential Gearhulk
 2 Blast Zone
+1 Geier Reach Sanitarium
+2 Settle the Wreckage
 1 Gates of Istfell
 1 Crawling Barrens
 1 Dream Trawler
@@ -119,11 +122,9 @@
 1 Fabled Passage
 2 Runed Halo
 2 Fabled Passage
-1 Scavenger Grounds
-1 Sea Gate Wreckage
-2 Stubborn Denial
 1 Chemister's Insight
 1 Quicken
+1 Hieroglyphic Illumination
 2 Quicken
 3 Quicken
 2 Sunset Revelry
@@ -137,22 +138,22 @@
 3 Snow-Covered Island
 4 Snow-Covered Island
 5 Snow-Covered Island
-1 Rest in Peace
 1 Sulfur Falls
 1 Steam Vents
 1 Scorching Dragonfire
-1 Sacred Foundry
-1 Prismari Command
 1 Raugrin Triome
+1 Prismari Command
 1 Expressive Iteration
+1 Rest in Peace
 1 Needle Spires
+1 Sacred Foundry
 2 Rest in Peace
 2 Raugrin Triome
 2 Scorching Dragonfire
 2 Steam Vents
 2 Expressive Iteration
-2 Sulfur Falls
 2 Needle Spires
+2 Sulfur Falls
 3 Sulfur Falls
 3 Raugrin Triome
 3 Steam Vents

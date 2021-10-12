@@ -63,7 +63,7 @@
 |                    1|[Buried Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389453)                 |                     |                                                                                                    |
 |                    2|[Ulamog, the Ceaseless Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402079)|                     |                                                                                                    |
 |                    2|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)               |                     |                                                                                                    |
-|                    2|[Mind Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135280)                  |                     |                                                                                                    |
 |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)         |                     |                                                                                                    |
 |                    3|[Urza's Saga](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522335)                 |                     |                                                                                                    |
+|                    2|[Mind Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135280)                  |                     |                                                                                                    |
 

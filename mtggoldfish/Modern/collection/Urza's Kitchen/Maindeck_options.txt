@@ -54,18 +54,18 @@
 1 Ignoble Hierarch
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
-3 Grist, the Hunger Tide
 3 Seasoned Pyromancer
+3 Grist, the Hunger Tide
 4 Grist, the Hunger Tide
 4 Seasoned Pyromancer
 3 Darkbore Pathway
 4 Darkbore Pathway
 2 Nettlecyst
-1 Barren Moor
 1 Lotleth Troll
 1 Gravecrawler
 1 Vengevine
 1 Carrion Feeder
+1 Barren Moor
 2 Urborg, Tomb of Yawgmoth
 2 Carrion Feeder
 2 Vengevine
@@ -117,10 +117,10 @@
 2 Blood Crypt
 2 Mayhem Devil
 2 Goblin Bombardment
+3 Blood Crypt
 3 Blackcleave Cliffs
 3 Bloodstained Mire
 3 Goblin Bombardment
-3 Blood Crypt
 3 Mayhem Devil
 4 Bloodghast
 4 Blackcleave Cliffs
@@ -169,30 +169,23 @@
 1 Arid Mesa
 1 Giver of Runes
 1 Thraben Inspector
-1 Esper Sentinel
 1 Thalia, Guardian of Thraben
+1 Esper Sentinel
 1 Concealed Courtyard
 2 Arid Mesa
-2 Thalia, Guardian of Thraben
 2 Thraben Inspector
-2 Esper Sentinel
+2 Thalia, Guardian of Thraben
 2 Plains
 2 Concealed Courtyard
 2 Godless Shrine
+2 Esper Sentinel
 3 Thalia, Guardian of Thraben
 3 Marsh Flats
-3 Esper Sentinel
 3 Concealed Courtyard
+3 Esper Sentinel
 4 Concealed Courtyard
 4 Marsh Flats
 4 Esper Sentinel
-1 Tarmogoyf
-2 Stomping Ground
-2 Tarmogoyf
-2 Bone Shards
-3 Tarmogoyf
-4 Copperline Gorge
-4 Tarmogoyf
 1 Gut Shot
 1 Talisman of Progress
 1 Cavern of Souls
@@ -209,6 +202,13 @@
 1 Mox Amber
 2 Spirebluff Canal
 4 Scalding Tarn
+1 Tarmogoyf
+2 Stomping Ground
+2 Bone Shards
+2 Tarmogoyf
+3 Tarmogoyf
+4 Copperline Gorge
+4 Tarmogoyf
 4 Willow Geist
 1 Shardless Agent
 2 Shardless Agent

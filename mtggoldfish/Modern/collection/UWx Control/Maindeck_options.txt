@@ -1,17 +1,16 @@
 1 Hall of Storm Giants
-2 Scalding Tarn
 3 Spreading Seas
+2 Field of Ruin
+3 Scalding Tarn
+3 Glacial Fortress
 2 Hall of Storm Giants
 1 Sunset Revelry
-3 Glacial Fortress
-2 Plains
-3 Scalding Tarn
-1 Cryptic Command
 1 Steam Vents
+1 Castle Ardenvale
+2 Plains
+1 Cryptic Command
 2 Celestial Colonnade
 1 Rest in Peace
-1 Castle Ardenvale
-1 Path to Exile
 1 Force of Negation
 3 Misty Rainforest
 1 Snapcaster Mage
@@ -21,27 +20,30 @@
 3 Castle Vantress
 3 Shark Typhoon
 4 Spreading Seas
-2 Steam Vents
+1 Path to Exile
 2 Cryptic Command
-2 Path to Exile
-4 Supreme Verdict
+2 Steam Vents
 1 Snow-Covered Plains
 2 Snow-Covered Island
 3 Snow-Covered Island
+2 Path to Exile
 2 Force of Negation
 3 Mystic Gate
-4 Mystic Gate
+4 Supreme Verdict
 1 Lightning Bolt
 2 Lightning Bolt
 4 Scalding Tarn
+1 Fire/Ice
+2 Fire/Ice
 5 Island
 1 Wall of Omens
 2 Wall of Omens
 1 Sulfur Falls
-2 Jace, the Mind Sculptor
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
+1 Sacred Foundry
+2 Jace, the Mind Sculptor
 1 Breeding Pool
 4 Misty Rainforest
 1 Opt
@@ -49,7 +51,7 @@
 3 Lightning Bolt
 4 Lightning Bolt
 3 Snapcaster Mage
-3 Field of Ruin
+4 Mystic Gate
 3 Wall of Omens
 1 Snow-Covered Forest
 1 Ice-Fang Coatl
@@ -58,33 +60,30 @@
 4 Snow-Covered Island
 4 Ice-Fang Coatl
 5 Snow-Covered Island
-1 Engineered Explosives
 1 Temple Garden
-4 Expressive Iteration
-1 Seachrome Coast
-1 Kaldra Compleat
-1 Stoneforge Mystic
-1 Spirebluff Canal
-1 Batterskull
-1 Ragavan, Nimble Pilferer
-2 Stoneforge Mystic
-2 Spirebluff Canal
-2 Ragavan, Nimble Pilferer
-3 Stoneforge Mystic
-3 Spirebluff Canal
-3 Ragavan, Nimble Pilferer
-4 Ragavan, Nimble Pilferer
-1 Sacred Foundry
+3 Fire/Ice
+1 Restoration Angel
+2 Restoration Angel
+3 Restoration Angel
+3 Field of Ruin
 3 Opt
 4 Opt
 2 Rest in Peace
 1 Ketria Triome
-1 Restoration Angel
-2 Restoration Angel
-3 Restoration Angel
 3 Polluted Delta
-4 Field of Ruin
-3 Hallowed Fountain
+4 Expressive Iteration
+1 Arid Mesa
+3 Celestial Colonnade
+1 Lightning Helix
+2 Lightning Helix
+3 Force of Negation
+1 Stoneforge Mystic
+1 Batterskull
+1 Ragavan, Nimble Pilferer
+2 Stoneforge Mystic
+2 Ragavan, Nimble Pilferer
+3 Stoneforge Mystic
+3 Ragavan, Nimble Pilferer
 1 Glacial Floodplain
 1 Prismatic Vista
 1 Rimewood Falls
@@ -95,6 +94,14 @@
 3 Teferi, Hero of Dominaria
 4 Wall of Omens
 4 Prismatic Vista
+1 Sword of Fire and Ice
+1 Faithful Mending
+1 Brazen Borrower
+1 Mountain
+1 Electrolyze
+1 Ajani Vengeant
+2 Faithful Mending
+3 Lightning Helix
 1 Timely Reinforcements
 1 Growth Spiral
 1 Absorb
@@ -102,32 +109,22 @@
 2 Growth Spiral
 4 Snapcaster Mage
 6 Snow-Covered Island
-1 Arid Mesa
-1 Murktide Regent
-1 The Royal Scions
-2 Raugrin Triome
-2 Sunset Revelry
-3 Celestial Colonnade
-1 Wrenn and Six
-1 Windswept Heath
-1 Forest
-1 Omnath, Locus of Creation
-1 Irrigated Farmland
-1 Lightning Helix
-2 Wrenn and Six
-2 Omnath, Locus of Creation
-2 Lightning Helix
-3 Wrenn and Six
-3 Force of Negation
-1 Fire/Ice
+1 Engineered Explosives
 1 Cascade Bluffs
 1 Kiki-Jiki, Mirror Breaker
 2 Sulfur Falls
 2 Kiki-Jiki, Mirror Breaker
-2 Fire/Ice
-3 Fire/Ice
-4 Stoneforge Mystic
-4 Spirebluff Canal
+2 Raugrin Triome
+2 Sunset Revelry
+1 Wrenn and Six
+1 Windswept Heath
+1 Omnath, Locus of Creation
+1 Irrigated Farmland
+1 Forest
+2 Wrenn and Six
+2 Omnath, Locus of Creation
+3 Wrenn and Six
+4 Field of Ruin
 1 Unholy Heat
 2 Unholy Heat
 3 Unholy Heat
@@ -142,42 +139,20 @@
 2 Drowned Catacomb
 3 Fatal Push
 4 Fatal Push
+1 Seachrome Coast
+1 Kaldra Compleat
+1 Spirebluff Canal
+1 Murktide Regent
+1 The Royal Scions
+2 Spirebluff Canal
+3 Spirebluff Canal
+4 Ragavan, Nimble Pilferer
 3 Path to Exile
+3 Hallowed Fountain
 4 Path to Exile
+4 Fire/Ice
 1 Dress Down
 1 Ephemerate
 1 Detention Sphere
 2 Detention Sphere
 4 Restoration Angel
-1 Ghost Quarter
-1 Sanctifier en-Vec
-1 Charming Prince
-1 Skyclave Apparition
-1 Emeria, the Sky Ruin
-1 Thraben Inspector
-1 Sun Titan
-1 Ranger-Captain of Eos
-2 Ghost Quarter
-2 Sun Titan
-2 Ranger-Captain of Eos
-2 Thraben Inspector
-2 Skyclave Apparition
-2 Charming Prince
-2 Emeria, the Sky Ruin
-3 Plains
-3 Skyclave Apparition
-3 Sun Titan
-3 Ranger-Captain of Eos
-3 Emeria, the Sky Ruin
-3 Charming Prince
-3 Thraben Inspector
-4 Sun Titan
-4 Charming Prince
-4 Skyclave Apparition
-4 Hallowed Fountain
-4 Plains
-4 Thraben Inspector
-4 Ranger-Captain of Eos
-5 Plains
-6 Plains
-7 Plains
