@@ -30,7 +30,6 @@
 1 Thoughtseize
 1 Lightning Bolt
 1 Dark Ritual
-2 Bayou
 2 Cabal Therapy
 2 Thoughtseize
 2 Sedgemoor Witch
@@ -40,14 +39,15 @@
 2 Witherbloom Apprentice
 2 Lotus Petal
 2 Lightning Bolt
+2 Bayou
 2 Dark Ritual
-3 Thoughtseize
 3 Arclight Phoenix
 3 Buried Alive
 3 Chain of Smog
 3 Witherbloom Apprentice
 3 Lightning Bolt
 3 Dark Ritual
+3 Thoughtseize
 4 Arclight Phoenix
 4 Dark Ritual
 4 Buried Alive
@@ -55,24 +55,7 @@
 2 Simian Spirit Guide
 3 Verdant Catacombs
 4 Verdant Catacombs
-1 Kroxa, Titan of Death's Hunger
-1 Land Grant
-1 Manamorphose
-1 Night's Whisper
-2 Land Grant
-2 Manamorphose
-2 Night's Whisper
-3 Land Grant
-3 Manamorphose
-3 Bayou
-4 Land Grant
-4 Thoughtseize
-4 Manamorphose
 4 Arid Mesa
-1 Street Wraith
-2 Street Wraith
-3 Street Wraith
-4 Street Wraith
 1 Volcanic Island
 1 Tropical Island
 1 Cephalid Coliseum
@@ -80,16 +63,33 @@
 1 Breakthrough
 1 Bazaar Trademage
 2 Tropical Island
-2 Volcanic Island
 2 Breakthrough
 2 Cephalid Coliseum
 2 Careful Study
-3 Volcanic Island
+2 Volcanic Island
 3 Tropical Island
 3 Careful Study
+3 Volcanic Island
 3 Cephalid Coliseum
 4 Scalding Tarn
 4 Careful Study
+1 Kroxa, Titan of Death's Hunger
+1 Manamorphose
+1 Night's Whisper
+1 Land Grant
+2 Manamorphose
+2 Night's Whisper
+2 Land Grant
+3 Manamorphose
+3 Bayou
+3 Land Grant
+4 Manamorphose
+4 Land Grant
+4 Thoughtseize
+1 Street Wraith
+2 Street Wraith
+3 Street Wraith
+4 Street Wraith
 1 Abundant Harvest
 1 Forest
 1 Dragon's Rage Channeler

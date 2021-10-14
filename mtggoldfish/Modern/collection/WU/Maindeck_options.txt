@@ -64,6 +64,8 @@
 2 Scalding Tarn
 1 Soul-Guide Lantern
 2 Cavern of Souls
+4 Misty Rainforest
+1 Memory Deluge
 1 Aether Spellbomb
 1 Thopter Foundry
 1 Sword of the Meek
@@ -74,8 +76,8 @@
 1 Thalia's Lieutenant
 1 Champion of the Parish
 1 Thalia, Guardian of Thraben
-2 Thalia, Guardian of Thraben
 2 Champion of the Parish
+2 Thalia, Guardian of Thraben
 2 Thalia's Lieutenant
 3 Champion of the Parish
 3 Thalia, Guardian of Thraben
@@ -92,20 +94,20 @@
 3 Silent Clearing
 1 Snow-Covered Plains
 1 Snow-Covered Island
+2 Snow-Covered Plains
+2 Snow-Covered Island
+3 Snow-Covered Island
 1 Unsettled Mariner
 1 Sanctifier en-Vec
 1 On Thin Ice
 1 Meddling Mage
 1 Phantasmal Image
-2 Snow-Covered Plains
 2 Unsettled Mariner
-2 Snow-Covered Island
 2 Sanctifier en-Vec
 2 On Thin Ice
-2 Meddling Mage
 2 Phantasmal Image
+2 Meddling Mage
 3 Snow-Covered Plains
-3 Snow-Covered Island
 3 Unsettled Mariner
 3 Sanctifier en-Vec
 3 Phantasmal Image
@@ -123,8 +125,8 @@
 2 Springleaf Drum
 2 Darksteel Citadel
 3 Hengegate Pathway
-3 Darksteel Citadel
 3 Thopter Foundry
+3 Darksteel Citadel
 4 Darksteel Citadel
 4 Omen of the Sea
 3 Dovin's Veto
@@ -135,8 +137,8 @@
 3 Scalding Tarn
 3 Fire/Ice
 4 Fire/Ice
-1 Memory Deluge
-4 Misty Rainforest
+1 Teferi, Hero of Dominaria
+2 Memory Deluge
 3 Cavern of Souls
 4 Cavern of Souls
 1 Luminarch Aspirant
@@ -169,13 +171,34 @@
 4 Path to Exile
 4 Intrepid Adversary
 9 Plains
-1 Teferi, Hero of Dominaria
-2 Memory Deluge
 1 Blast Zone
 1 Batterskull
 1 Sword of Feast and Famine
 4 Skyclave Apparition
 4 Dovin's Veto
+1 Prismatic Vista
+1 Ice-Fang Coatl
+1 Snow-Covered Forest
+1 Shark Typhoon
+1 Glacial Floodplain
+1 Rimewood Falls
+1 Temple Garden
+1 Flooded Grove
+1 Cryptic Command
+1 Breeding Pool
+2 Ice-Fang Coatl
+2 Cryptic Command
+2 Shark Typhoon
+2 Prismatic Vista
+2 Teferi, Hero of Dominaria
+3 Ice-Fang Coatl
+3 Prismatic Vista
+3 Shark Typhoon
+3 Teferi, Hero of Dominaria
+4 Ice-Fang Coatl
+4 Prismatic Vista
+4 Snow-Covered Island
+5 Snow-Covered Island
 6 Island
 1 Spell Pierce
 1 Karn, Scion of Urza
@@ -196,12 +219,12 @@
 1 Tithe Taker
 1 Brave the Elements
 1 Soldier of the Pantheon
+2 Ghost Quarter
+2 Declaration in Stone
 2 Soldier of the Pantheon
 2 Kytheon, Hero of Akros
-2 Ghost Quarter
 2 Mardu Woe-Reaper
 2 Tithe Taker
-2 Declaration in Stone
 2 Brave the Elements
 2 Giant Killer
 3 Mardu Woe-Reaper
@@ -210,5 +233,5 @@
 3 Soldier of the Pantheon
 3 Kytheon, Hero of Akros
 4 Silent Clearing
-10 Plains
 4 Brave the Elements
+10 Plains

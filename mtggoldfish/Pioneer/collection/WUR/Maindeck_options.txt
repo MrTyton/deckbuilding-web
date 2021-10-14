@@ -1,17 +1,14 @@
-2 Island
-3 Island
-4 Island
-1 Castle Ardenvale
-1 Dovin's Veto
+1 Castle Vantress
 1 Absorb
+1 Castle Ardenvale
 1 Supreme Verdict
+1 Dig Through Time
+1 Dovin's Veto
 1 Censor
 2 Supreme Verdict
+2 Plains
 2 Censor
 2 Absorb
-1 Castle Vantress
-1 Dig Through Time
-2 Plains
 3 Censor
 1 Teferi, Hero of Dominaria
 2 Teferi, Hero of Dominaria
@@ -26,10 +23,6 @@
 3 Glacial Fortress
 4 Supreme Verdict
 4 Glacial Fortress
-1 Consider
-2 Consider
-3 Consider
-4 Consider
 1 Irrigated Farmland
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
@@ -37,40 +30,47 @@
 2 Castle Ardenvale
 3 Irrigated Farmland
 4 Irrigated Farmland
+1 Consider
+2 Consider
+3 Consider
+4 Consider
 2 Dig Through Time
+1 Stubborn Denial
 1 Blast Zone
-1 Fateful Absence
-1 Treasure Vault
+3 All That Glitters
 4 Teferi, Hero of Dominaria
 3 Narset, Parter of Veils
-2 Fateful Absence
+1 Fateful Absence
+1 Hope of Ghirapur
 2 Castle Vantress
-1 Glass Casket
+2 Fateful Absence
 1 Detention Sphere
-1 Deserted Beach
 2 Field of Ruin
+1 Treasure Vault
+1 Deserted Beach
 3 Fateful Absence
 2 Shark Typhoon
 2 Deserted Beach
 1 Settle the Wreckage
+1 Glass Casket
 1 Azorius Charm
 2 Azorius Charm
 1 Sunset Revelry
-4 Fateful Absence
 3 Azorius Charm
 5 Island
-3 Mutavault
+4 Fateful Absence
 3 The Blackstaff of Waterdeep
 4 Dovin's Veto
-3 Shark Typhoon
+3 Mutavault
 4 Ghostfire Blade
-1 Memory Deluge
 4 Azorius Charm
-4 Absorb
+1 Memory Deluge
+3 Shark Typhoon
 1 Seal Away
 4 Portable Hole
 1 Hall of Storm Giants
 2 Memory Deluge
+4 Absorb
 3 Deserted Beach
 3 Field of Ruin
 1 Commit/Memory
@@ -83,6 +83,10 @@
 4 Censor
 1 Hangarback Walker
 2 Hangarback Walker
+1 Opt
+2 Opt
+3 Opt
+4 Opt
 2 Sunset Revelry
 4 Deserted Beach
 3 Hangarback Walker
@@ -106,6 +110,8 @@
 1 Torrential Gearhulk
 1 Mystical Dispute
 2 Blast Zone
+1 Toolcraft Exemplar
+2 Toolcraft Exemplar
 1 Geier Reach Sanitarium
 2 Settle the Wreckage
 1 Glint-Nest Crane
@@ -119,13 +125,7 @@
 2 Elspeth, Sun's Nemesis
 2 Dream Trawler
 2 Cast Out
-1 Toolcraft Exemplar
-2 Toolcraft Exemplar
 2 Fabled Passage
-1 Opt
-2 Opt
-3 Opt
-4 Opt
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
@@ -133,22 +133,21 @@
 5 Snow-Covered Island
 1 Sai, Master Thopterist
 1 The Antiquities War
+1 Steel Overseer
 1 Karn, Scion of Urza
 1 Witching Well
-1 Steel Overseer
 1 Inventors' Fair
 1 Metallic Rebuke
 1 Tomb of the Spirit Dragon
 1 Emry, Lurker of the Loch
-2 The Antiquities War
 2 Sai, Master Thopterist
-2 Karn, Scion of Urza
+2 The Antiquities War
 2 Steel Overseer
+2 Karn, Scion of Urza
 2 Metallic Rebuke
 2 Hope of Ghirapur
 3 The Antiquities War
 3 Steel Overseer
-3 Sai, Master Thopterist
 4 Steel Overseer
 7 Island
 8 Island
@@ -156,30 +155,4 @@
 10 Island
 11 Island
 12 Island
-1 Sulfur Falls
-1 Sacred Foundry
-1 Scorching Dragonfire
-1 Raugrin Triome
-1 Steam Vents
-1 Expressive Iteration
-1 Sphinx's Revelation
-1 Rest in Peace
-1 Needle Spires
-2 Sacred Foundry
-2 Raugrin Triome
-2 Scorching Dragonfire
-2 Steam Vents
-2 Rest in Peace
-2 Expressive Iteration
-2 Needle Spires
-2 Sulfur Falls
-2 Sphinx's Revelation
-3 Sulfur Falls
-3 Raugrin Triome
-3 Steam Vents
-3 Scorching Dragonfire
-3 Expressive Iteration
-4 Sulfur Falls
-4 Raugrin Triome
-4 Expressive Iteration
-4 Scorching Dragonfire
+3 Sai, Master Thopterist

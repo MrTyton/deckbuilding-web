@@ -1,3 +1,20 @@
+1 Chord of Calling
+1 Kiki-Jiki, Mirror Breaker
+2 Chord of Calling
+2 Restoration Angel
+3 Chord of Calling
+4 Chord of Calling
+3 Wall of Omens
+1 Wall of Blossoms
+2 Wall of Blossoms
+1 Prismatic Vista
+2 Forest
+1 Verdant Catacombs
+1 Shardless Agent
+2 Shardless Agent
+3 Shardless Agent
+4 Shardless Agent
+3 Fury
 1 Island
 1 Scalding Tarn
 1 Khalni Garden
@@ -21,59 +38,43 @@
 2 Goblin Dark-Dwellers
 3 Goblin Dark-Dwellers
 4 Violent Outburst
-3 Fury
-1 Restoration Angel
-1 Chord of Calling
-1 Skyclave Apparition
-1 Kiki-Jiki, Mirror Breaker
-1 Magus of the Moon
-2 Chord of Calling
-2 Restoration Angel
-3 Chord of Calling
-4 Chord of Calling
-1 Verdant Catacombs
-1 Wall of Blossoms
-2 Wall of Blossoms
-1 Plains
-2 Forest
 1 Lightning Bolt
-1 Prismatic Vista
-1 Chancellor of the Forge
-2 Chancellor of the Forge
+3 Flooded Strand
 2 Lightning Bolt
 3 Lightning Bolt
-3 Chancellor of the Forge
-1 Hallowed Fountain
-4 Goblin Dark-Dwellers
 4 Prismatic Ending
-1 Gemstone Caverns
-3 Wall of Blossoms
-3 Wall of Omens
+1 Hallowed Fountain
+1 Chancellor of the Forge
+2 Chancellor of the Forge
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
 1 Endurance
-3 Flooded Strand
-4 Lightning Bolt
+3 Teferi, Time Raveler
 1 Snow-Covered Forest
 1 Snow-Covered Plains
 2 Snow-Covered Forest
-4 Tireless Provisioner
+4 Lightning Bolt
+3 Chancellor of the Forge
+4 Goblin Dark-Dwellers
+3 Wall of Blossoms
+1 Gemstone Caverns
+1 Snow-Covered Island
 1 Sunbaked Canyon
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
+2 Skyclave Apparition
+4 Tireless Provisioner
+1 Deputy of Detention
 2 Scalding Tarn
 4 Chancellor of the Forge
-3 Teferi, Time Raveler
-1 Snow-Covered Island
-2 Skyclave Apparition
-1 Deputy of Detention
 1 Snow-Covered Mountain
 1 Ice-Fang Coatl
+4 Teferi, Time Raveler
 2 Ice-Fang Coatl
+4 Wrenn and Six
 1 Expressive Iteration
 2 Expressive Iteration
 3 Eternal Witness
 3 Expressive Iteration
 4 Expressive Iteration
-4 Teferi, Time Raveler
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
 1 Drannith Magistrate
@@ -86,6 +87,7 @@
 2 Scion of Draco
 3 Scion of Draco
 4 Scion of Draco
+4 Flooded Strand
 1 Tribal Flames
 2 Tribal Flames
 3 Tribal Flames
@@ -98,28 +100,27 @@
 2 Mantis Rider
 3 Bloodbraid Elf
 4 Bloodbraid Elf
-4 Flooded Strand
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
 1 General Ferrous Rokiric
 2 General Ferrous Rokiric
 3 General Ferrous Rokiric
 3 Mantis Rider
+4 Fury
 4 Mantis Rider
 1 Lightning Helix
 2 Lightning Helix
-4 Wrenn and Six
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
+2 Arid Mesa
 2 Mountain
 1 Birds of Paradise
 2 Birds of Paradise
 3 Birds of Paradise
 1 Gilded Goose
-2 Arid Mesa
 2 Bloodstained Mire
 3 Bloodstained Mire
 4 Bloodstained Mire
 2 Steam Vents
-4 Fury
+3 Ragavan, Nimble Pilferer
 1 Zagoth Triome
 1 Abundant Growth
 2 Abundant Growth
@@ -127,30 +128,30 @@
 4 Eternal Witness
 1 Gemstone Mine
 2 Sacred Foundry
-3 Ragavan, Nimble Pilferer
 4 Wall of Blossoms
 4 Abundant Growth
 3 Skyclave Apparition
 4 General Ferrous Rokiric
-3 Lightning Helix
+3 Arid Mesa
 1 Noble Hierarch
+3 Lightning Helix
 1 Blood Crypt
 4 Birds of Paradise
 1 Savai Triome
+1 Tranquil Thicket
 4 Ragavan, Nimble Pilferer
 2 Noble Hierarch
 1 Ignoble Hierarch
 2 Ignoble Hierarch
+4 Wall of Omens
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
-3 Arid Mesa
 1 Reflecting Pool
 4 Manamorphose
 2 Gilded Goose
 1 Ardent Plea
 2 Gemstone Caverns
-1 Tranquil Thicket
 1 Emrakul, the Aeons Torn
 3 Gemstone Caverns
 2 Emrakul, the Aeons Torn
@@ -182,12 +183,19 @@
 3 Sunscorched Desert
 4 Mishra's Factory
 4 Sunscorched Desert
+1 Horizon Canopy
 4 Lightning Helix
 3 Ignoble Hierarch
 4 Ignoble Hierarch
-4 Wall of Omens
 1 Eidolon of Rhetoric
-1 Horizon Canopy
+1 Felidar Guardian
+1 Saheeli Rai
+2 Felidar Guardian
+2 Saheeli Rai
+3 Saheeli Rai
+3 Felidar Guardian
+4 Saheeli Rai
+2 Snow-Covered Plains
 1 Counterspell
 2 Counterspell
 3 Counterspell
@@ -195,10 +203,11 @@
 2 Ramunap Ruins
 3 Ramunap Ruins
 4 Ramunap Ruins
-4 Skyclave Apparition
-2 Snow-Covered Plains
-4 Arid Mesa
+2 Temple Garden
 1 Fire-Lit Thicket
+4 Skyclave Apparition
+4 Felidar Guardian
+4 Arid Mesa
 1 Scavenging Ooze
 1 Inspiring Vantage
 2 Verdant Catacombs
@@ -214,37 +223,45 @@
 1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
-1 Klothys, God of Destiny
-2 Temple Garden
-3 Restoration Angel
 1 Irrigated Farmland
+1 Oath of Nissa
+2 Oath of Nissa
+3 Oath of Nissa
+1 Klothys, God of Destiny
+3 Restoration Angel
+2 Island
 1 Wild Nacatl
 3 Noble Hierarch
 4 Noble Hierarch
-1 Felidar Guardian
-1 Oath of Nissa
-1 Saheeli Rai
 1 Arboreal Grazer
-2 Felidar Guardian
-2 Oath of Nissa
-2 Saheeli Rai
 2 Arboreal Grazer
-3 Oath of Nissa
-3 Saheeli Rai
-3 Felidar Guardian
 4 Oath of Nissa
-4 Saheeli Rai
-4 Felidar Guardian
+2 Breeding Pool
 2 Ardent Plea
+1 Raging Ravine
+1 Lair of the Hydra
+1 Fires of Invention
+1 Storm the Festival
+1 Coalition Relic
+1 Explore
+2 Fires of Invention
+2 Coalition Relic
+2 Explore
+2 Storm the Festival
+3 Storm the Festival
+3 Fires of Invention
+3 Explore
+4 Explore
+4 Storm the Festival
 2 Snow-Covered Island
 4 Stoneforge Mystic
 2 Sunbaked Canyon
 1 Yasharn, Implacable Earth
 2 Gemstone Mine
 2 Blood Crypt
-2 Stomping Ground
 1 Geist of Saint Traft
-2 Island
+2 Stomping Ground
+1 Eladamri's Call
 1 Remand
 1 Snapcaster Mage
 2 Snapcaster Mage
@@ -260,7 +277,6 @@
 2 Fire/Ice
 2 Force of Negation
 2 Stubborn Denial
-2 Breeding Pool
 3 Remand
 3 Fire/Ice
 3 Stubborn Denial
@@ -282,7 +298,6 @@
 1 Renegade Rallier
 1 Prime Speaker Vannifar
 1 Corridor Monitor
-1 Eladamri's Call
 2 Plains
 2 Eladamri's Call
 2 Prime Speaker Vannifar
@@ -322,6 +337,7 @@
 3 Snapcaster Mage
 1 Abundant Harvest
 1 Archon of Emeria
+1 Wooded Bastion
 1 Kataki, War's Wage
 1 Fae of Wishes
 1 Phyrexian Revoker
@@ -329,6 +345,10 @@
 1 Scattered Groves
 1 Alpine Meadow
 2 Titania, Protector of Argoth
+1 Sun Titan
+1 Eldritch Evolution
+2 Eldritch Evolution
+3 Snow-Covered Forest
 3 Gilded Goose
 1 Cindervines
 1 Terror of the Peaks
