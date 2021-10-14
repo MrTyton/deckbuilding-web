@@ -134,8 +134,8 @@
 |                    2|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)        |                     |                                                                                                   |
 |                    3|[Ovalchase Daredevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417670)    |                     |                                                                                                   |
 |                    3|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)        |                     |                                                                                                   |
-|                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897) |                     |                                                                                                   |
 |                    4|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094)    |                     |                                                                                                   |
+|                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897) |                     |                                                                                                   |
 |                    4|[Ovalchase Daredevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417670)    |                     |                                                                                                   |
 |                    4|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)        |                     |                                                                                                   |
 
