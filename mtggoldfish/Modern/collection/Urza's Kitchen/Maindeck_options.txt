@@ -60,11 +60,11 @@
 1 Stomping Ground
 2 Wrenn and Six
 2 Nettlecyst
-1 Barren Moor
 1 Lotleth Troll
 1 Gravecrawler
 1 Vengevine
 1 Carrion Feeder
+1 Barren Moor
 2 Urborg, Tomb of Yawgmoth
 2 Carrion Feeder
 2 Vengevine
@@ -86,8 +86,8 @@
 2 Copperline Gorge
 3 Copperline Gorge
 3 Wrenn and Six
-1 Hallowed Fountain
 1 Flooded Strand
+1 Hallowed Fountain
 2 Flooded Strand
 3 Flooded Strand
 1 Polluted Delta
@@ -97,21 +97,21 @@
 1 Godless Shrine
 2 Nurturing Peatland
 2 Windswept Heath
-1 Goblin Bombardment
 1 Blackcleave Cliffs
+1 Goblin Bombardment
 1 Mayhem Devil
 2 Blackcleave Cliffs
 2 Blood Crypt
 2 Goblin Bombardment
 2 Mayhem Devil
 3 Bloodstained Mire
-3 Blood Crypt
 3 Blackcleave Cliffs
 3 Goblin Bombardment
 3 Mayhem Devil
+3 Blood Crypt
 4 Bloodstained Mire
-4 Blackcleave Cliffs
 4 Bloodghast
+4 Blackcleave Cliffs
 4 Mayhem Devil
 1 Power Conduit
 1 Life from the Loam
@@ -178,6 +178,7 @@
 4 Concealed Courtyard
 4 Marsh Flats
 4 Esper Sentinel
+4 Wrenn and Six
 1 Gut Shot
 1 Talisman of Progress
 1 Cavern of Souls
@@ -189,17 +190,6 @@
 3 Talisman of Progress
 4 Talisman of Progress
 4 Cavern of Souls
-1 Metallic Rebuke
-2 Watery Grave
-2 Metallic Rebuke
-2 Darkslick Shores
-3 Darkslick Shores
-4 Darkslick Shores
-4 Wrenn and Six
-1 Spirebluff Canal
-1 Mox Amber
-2 Spirebluff Canal
-4 Scalding Tarn
 1 Tarmogoyf
 2 Stomping Ground
 2 Bone Shards
@@ -207,6 +197,16 @@
 3 Tarmogoyf
 4 Copperline Gorge
 4 Tarmogoyf
+1 Metallic Rebuke
+2 Watery Grave
+2 Metallic Rebuke
+2 Darkslick Shores
+3 Darkslick Shores
+4 Darkslick Shores
+1 Spirebluff Canal
+1 Mox Amber
+2 Spirebluff Canal
+4 Scalding Tarn
 1 Ignoble Hierarch
 1 Seasoned Pyromancer
 2 Ignoble Hierarch

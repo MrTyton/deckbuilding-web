@@ -40,21 +40,21 @@
 3 Spikefield Hazard
 1 Prismari Command
 2 Prismari Command
-1 Stormwing Entity
-1 Lava Coil
 1 Crash Through
+1 Lava Coil
 1 Beacon Bolt
 1 Wild Slash
-2 Stormwing Entity
-2 Wild Slash
+1 Stormwing Entity
 2 Crash Through
+2 Wild Slash
+2 Stormwing Entity
 2 Lava Coil
-3 Stormwing Entity
-3 Wild Slash
 3 Crash Through
+3 Wild Slash
+3 Stormwing Entity
 4 Stormwing Entity
-4 Sprite Dragon
 4 Crash Through
+4 Sprite Dragon
 4 Island
 1 Inferno of the Star Mounts
 3 Hall of Storm Giants
@@ -87,13 +87,13 @@
 2 Niv-Mizzet, Parun
 4 Anger of the Gods
 1 Needleverge Pathway
+1 Unexpected Windfall
 1 Seize the Spoils
 1 Curate
 1 Fiery Impulse
 1 Hengegate Pathway
 1 Lore Drakkis
 1 Vadrok, Apex of Thunder
-1 Unexpected Windfall
 2 Needleverge Pathway
 2 Seize the Spoils
 2 Curate
@@ -145,9 +145,9 @@
 1 Temple of Epiphany
 1 Rekindling Phoenix
 1 Wandering Fumarole
-2 Temple of Epiphany
 2 Chandra, Torch of Defiance
 2 Rekindling Phoenix
+2 Temple of Epiphany
 3 Glorybringer
 3 Brazen Borrower
 3 Chandra, Torch of Defiance
