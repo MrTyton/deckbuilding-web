@@ -4,12 +4,12 @@
 
 # Standard
 
-|                                A                                 |                              B                               |                                   C                                    |                                    D                                     |                                E                                 |
-|------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------|
-|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Boros Aggro](./mtggoldfish/Standard/decks/Boros_Aggro.md)    |[Gruul Werewolves](./mtggoldfish/Standard/decks/Gruul_Werewolves.md)    |[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)      |[Rakdos Midrange](./mtggoldfish/Standard/decks/Rakdos_Midrange.md)|
-|[Azorius Tempo](./mtggoldfish/Standard/decks/Azorius_Tempo.md)    |[Bx Midrange](./mtggoldfish/Standard/decks/Bx_Midrange.md)    |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)          |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)      |[Ramp](./mtggoldfish/Standard/decks/Ramp.md)                      |
-|[Bant Ramp](./mtggoldfish/Standard/decks/Bant_Ramp.md)            |[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)|[Izzet Delver](./mtggoldfish/Standard/decks/Izzet_Delver.md)            |[Mono-White Control❄](./mtggoldfish/Standard/decks/Mono-White_Control❄.md)|[Sultai Ramp](./mtggoldfish/Standard/decks/Sultai_Ramp.md)        |
-|[Blue Tempo](./mtggoldfish/Standard/decks/Blue_Tempo.md)          |[Gruul Aggro](./mtggoldfish/Standard/decks/Gruul_Aggro.md)    |[Mono-Black Zombies](./mtggoldfish/Standard/decks/Mono-Black_Zombies.md)|[Orzhov Clerics](./mtggoldfish/Standard/decks/Orzhov_Clerics.md)          |                                                                  |
+|                                A                                 |                                 B                                  |                                   C                                    |                                 D                                  |                            E                             |
+|------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------|
+|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Blue Tempo](./mtggoldfish/Standard/decks/Blue_Tempo.md)            |[Gruul Werewolves](./mtggoldfish/Standard/decks/Gruul_Werewolves.md)    |[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)|[Sultai Ramp](./mtggoldfish/Standard/decks/Sultai_Ramp.md)|
+|[Azorius Tempo](./mtggoldfish/Standard/decks/Azorius_Tempo.md)    |[Bx Midrange](./mtggoldfish/Standard/decks/Bx_Midrange.md)          |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)          |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|                                                          |
+|[Bant Aggro](./mtggoldfish/Standard/decks/Bant_Aggro.md)          |[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)      |[Izzet Delver](./mtggoldfish/Standard/decks/Izzet_Delver.md)            |[Rakdos Midrange](./mtggoldfish/Standard/decks/Rakdos_Midrange.md)  |                                                          |
+|[Bant Ramp](./mtggoldfish/Standard/decks/Bant_Ramp.md)            |[Four-color Combo](./mtggoldfish/Standard/decks/Four-color_Combo.md)|[Mono-Black Zombies](./mtggoldfish/Standard/decks/Mono-Black_Zombies.md)|[Ramp](./mtggoldfish/Standard/decks/Ramp.md)                        |                                                          |
 
 
 # Historic
@@ -65,4 +65,4 @@
 
 
 
-#### Last Updated at 12:21AM on October 15, 2021
+#### Last Updated at 12:22PM on October 15, 2021
