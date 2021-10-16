@@ -1,17 +1,18 @@
 2 Prismatic Ending
+4 Witch's Oven
 1 Plains
 1 Nettlecyst
 1 Marsh Flats
 1 Bloodstained Mire
-4 Witch's Oven
+3 Darkbore Pathway
+4 Darkbore Pathway
 1 Pithing Needle
 1 Temple Garden
 1 Windswept Heath
 2 Bloodstained Mire
 1 Nihil Spellbomb
+4 Cauldron Familiar
 2 Swamp
-3 Darkbore Pathway
-4 Darkbore Pathway
 1 Kaya, Orzhov Usurper
 2 Kaya, Orzhov Usurper
 1 Springleaf Drum
@@ -25,41 +26,36 @@
 1 Thought Monitor
 2 Thought Monitor
 3 Thought Monitor
-1 Misty Rainforest
 1 Stitcher's Supplier
 2 Stitcher's Supplier
 3 Stitcher's Supplier
 4 Stitcher's Supplier
-1 Wooded Foothills
-2 Wooded Foothills
-3 Wooded Foothills
-4 Cauldron Familiar
-1 Blood Crypt
+1 Misty Rainforest
+1 Yavimaya, Cradle of Growth
 1 Bloodghast
 2 Bloodghast
 3 Bloodghast
 2 Island
 1 Bone Shards
-1 Mishra's Bauble
 1 Emry, Lurker of the Loch
-2 Mishra's Bauble
+1 Mishra's Bauble
 2 Emry, Lurker of the Loch
-3 Mishra's Bauble
+2 Mishra's Bauble
 3 Emry, Lurker of the Loch
+3 Mishra's Bauble
 4 Mishra's Bauble
+4 Thought Monitor
 2 Misty Rainforest
 3 Misty Rainforest
-4 Thought Monitor
 1 Scalding Tarn
 1 Steam Vents
 2 Scalding Tarn
 3 Scalding Tarn
 1 Watery Grave
-1 Mountain
-1 Wrenn and Six
-1 Stomping Ground
-2 Wrenn and Six
 2 Nettlecyst
+1 Wooded Foothills
+2 Wooded Foothills
+3 Wooded Foothills
 1 Lotleth Troll
 1 Gravecrawler
 1 Vengevine
@@ -76,42 +72,42 @@
 4 Lotleth Troll
 4 Vengevine
 1 Tranquil Thicket
-1 Yavimaya, Cradle of Growth
-4 Misty Rainforest
-1 Breeding Pool
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
-1 Copperline Gorge
-2 Copperline Gorge
-3 Copperline Gorge
-3 Wrenn and Six
-1 Flooded Strand
-1 Hallowed Fountain
-2 Flooded Strand
-3 Flooded Strand
+1 Blood Crypt
 1 Polluted Delta
 2 Polluted Delta
 3 Polluted Delta
+1 Hallowed Fountain
+1 Flooded Strand
+2 Flooded Strand
+3 Flooded Strand
+1 Breeding Pool
+4 Misty Rainforest
+1 Mountain
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
+1 Wrenn and Six
+1 Stomping Ground
+2 Wrenn and Six
 1 Fatal Push
 1 Godless Shrine
 2 Nurturing Peatland
 2 Windswept Heath
-1 Blackcleave Cliffs
 1 Goblin Bombardment
+1 Blackcleave Cliffs
 1 Mayhem Devil
-2 Blackcleave Cliffs
 2 Blood Crypt
 2 Goblin Bombardment
+2 Blackcleave Cliffs
 2 Mayhem Devil
-3 Bloodstained Mire
 3 Blackcleave Cliffs
+3 Bloodstained Mire
 3 Goblin Bombardment
 3 Mayhem Devil
 3 Blood Crypt
 4 Bloodstained Mire
-4 Bloodghast
 4 Blackcleave Cliffs
+4 Bloodghast
 4 Mayhem Devil
 1 Power Conduit
 1 Life from the Loam
@@ -128,12 +124,13 @@
 1 Ketria Triome
 1 Lightning Bolt
 2 Lightning Bolt
+3 Wrenn and Six
 3 Lightning Bolt
 4 Lightning Bolt
-4 Wooded Foothills
+1 Copperline Gorge
+2 Copperline Gorge
+3 Copperline Gorge
 4 Ragavan, Nimble Pilferer
-1 Grist, the Hunger Tide
-2 Grist, the Hunger Tide
 4 Flooded Strand
 1 Sacred Foundry
 2 Fatal Push
@@ -148,22 +145,35 @@
 2 Abrupt Decay
 1 Llanowar Wastes
 2 Llanowar Wastes
+3 Nettlecyst
+3 Ravenous Squirrel
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
-3 Nettlecyst
-3 Ravenous Squirrel
 1 Soul-Guide Lantern
 1 Botanical Sanctum
 2 Breeding Pool
 2 Botanical Sanctum
 3 Fatal Push
+4 Wooded Foothills
+4 Wrenn and Six
+1 Gut Shot
+1 Talisman of Progress
+1 Cavern of Souls
+2 Hallowed Fountain
+2 Gut Shot
+2 Talisman of Progress
+2 Cavern of Souls
+3 Cavern of Souls
+3 Talisman of Progress
+4 Talisman of Progress
+4 Cavern of Souls
 1 Arid Mesa
 1 Giver of Runes
 1 Thraben Inspector
 1 Esper Sentinel
-1 Thalia, Guardian of Thraben
 1 Concealed Courtyard
+1 Thalia, Guardian of Thraben
 2 Arid Mesa
 2 Thraben Inspector
 2 Thalia, Guardian of Thraben
@@ -175,22 +185,12 @@
 3 Marsh Flats
 3 Esper Sentinel
 3 Concealed Courtyard
-4 Concealed Courtyard
 4 Marsh Flats
 4 Esper Sentinel
-4 Wrenn and Six
-1 Gut Shot
-1 Talisman of Progress
-1 Cavern of Souls
-2 Gut Shot
-2 Hallowed Fountain
-2 Talisman of Progress
-2 Cavern of Souls
-3 Cavern of Souls
-3 Talisman of Progress
-4 Talisman of Progress
-4 Cavern of Souls
+4 Concealed Courtyard
+1 Grist, the Hunger Tide
 1 Tarmogoyf
+2 Grist, the Hunger Tide
 2 Stomping Ground
 2 Bone Shards
 2 Tarmogoyf
@@ -198,8 +198,8 @@
 4 Copperline Gorge
 4 Tarmogoyf
 1 Metallic Rebuke
-2 Watery Grave
 2 Metallic Rebuke
+2 Watery Grave
 2 Darkslick Shores
 3 Darkslick Shores
 4 Darkslick Shores
@@ -207,16 +207,8 @@
 1 Mox Amber
 2 Spirebluff Canal
 4 Scalding Tarn
-1 Ignoble Hierarch
-1 Seasoned Pyromancer
-2 Ignoble Hierarch
-2 Seasoned Pyromancer
-3 Seasoned Pyromancer
-3 Grist, the Hunger Tide
-4 Grist, the Hunger Tide
-4 Seasoned Pyromancer
-4 Willow Geist
 1 Shardless Agent
 2 Shardless Agent
 3 Shardless Agent
 4 Shardless Agent
+4 Willow Geist

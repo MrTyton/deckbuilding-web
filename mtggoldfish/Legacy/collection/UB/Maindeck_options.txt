@@ -1,24 +1,24 @@
-1 Bloodstained Mire
-1 Stifle
-2 Stifle
-3 Stifle
-1 Verdant Catacombs
 3 Thoughtseize
 1 Street Wraith
-1 Watery Grave
 1 Death's Shadow
+1 Watery Grave
 2 Street Wraith
 2 Death's Shadow
 2 Watery Grave
 3 Street Wraith
 3 Death's Shadow
 4 Death's Shadow
+1 Stifle
+2 Stifle
+3 Stifle
+1 Verdant Catacombs
+1 Bloodstained Mire
 2 Misty Rainforest
-3 Watery Grave
 4 Thoughtseize
 4 Street Wraith
-1 Darkblast
+3 Watery Grave
 1 Gurmag Angler
+1 Darkblast
 2 Gurmag Angler
 3 Scalding Tarn
 1 Volcanic Island
@@ -60,37 +60,37 @@
 2 Marsh Flats
 3 Marsh Flats
 4 Marsh Flats
+1 Dismember
+2 Force of Negation
 1 Young Pyromancer
 2 Young Pyromancer
 3 Volcanic Island
 1 Spell Pierce
-1 Dark Ritual
 1 Badlands
 1 Cabal Therapy
 1 Buried Alive
 1 Arclight Phoenix
 1 Opposition Agent
+1 Dark Ritual
 1 Demilich
-2 Dark Ritual
 2 Arclight Phoenix
 2 Buried Alive
 2 Opposition Agent
-3 Dark Ritual
+2 Dark Ritual
 3 Buried Alive
 3 Arclight Phoenix
-4 Dark Ritual
+3 Dark Ritual
 4 Buried Alive
 4 Arclight Phoenix
+4 Dark Ritual
 1 Piracy Charm
-1 Prismatic Vista
-1 Dismember
-2 Swamp
+1 Liliana, the Last Hope
+1 Snow-Covered Swamp
 1 Spell Snare
 2 Snapcaster Mage
 2 Spell Snare
-1 Snow-Covered Swamp
-1 Liliana, the Last Hope
-2 Force of Negation
+1 Prismatic Vista
+2 Swamp
 2 Spell Pierce
 2 Bloodstained Mire
 3 Bloodstained Mire
@@ -99,20 +99,27 @@
 3 Inquisition of Kozilek
 1 Jace, the Mind Sculptor
 3 Young Pyromancer
-1 Flusterstorm
-3 True-Name Nemesis
 1 Unearth
 3 Snuff Out
+1 Flusterstorm
+3 True-Name Nemesis
+1 Overgrown Tomb
+1 Witherbloom Apprentice
+1 Chain of Smog
+1 Breeding Pool
+2 Chain of Smog
+2 Dismember
+2 Witherbloom Apprentice
+3 Witherbloom Apprentice
 1 Grief
 2 Grief
 3 Grief
 3 Reanimate
 4 Murktide Regent
-4 Fatal Push
 1 Ragavan, Nimble Pilferer
+1 Dragon's Rage Channeler
 1 Expressive Iteration
 1 Steam Vents
-1 Dragon's Rage Channeler
 2 Steam Vents
 2 Ragavan, Nimble Pilferer
 2 Expressive Iteration
@@ -121,6 +128,7 @@
 3 Dragon's Rage Channeler
 4 Ragavan, Nimble Pilferer
 4 Dragon's Rage Channeler
+4 Fatal Push
 3 Verdant Catacombs
 4 Verdant Catacombs
 4 Gurmag Angler

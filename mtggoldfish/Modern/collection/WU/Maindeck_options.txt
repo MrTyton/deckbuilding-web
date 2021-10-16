@@ -1,16 +1,12 @@
+1 Dovin's Veto
 2 Scalding Tarn
 2 Hengegate Pathway
-2 Omen of the Sea
-1 Polluted Delta
-3 Mystic Gate
-1 Memory Deluge
-3 Vendilion Clique
-2 Plains
 1 Stoneforge Mystic
 1 Kaldra Compleat
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+2 Plains
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
@@ -30,9 +26,9 @@
 1 Portable Hole
 1 Seachrome Coast
 2 Thought Monitor
+2 Seachrome Coast
 2 Mishra's Bauble
 2 Ingenious Smith
-2 Seachrome Coast
 2 Metallic Rebuke
 2 Razortide Bridge
 2 Portable Hole
@@ -46,49 +42,62 @@
 4 Mishra's Bauble
 4 Ingenious Smith
 4 Razortide Bridge
-3 Omen of the Sea
-4 Force of Negation
+1 Memory Deluge
 4 Portable Hole
 4 Metallic Rebuke
-1 Teferi, Hero of Dominaria
-2 Memory Deluge
-1 Steam Vents
-3 Scalding Tarn
-1 Path to Exile
-2 Path to Exile
-1 Shark Typhoon
+1 Polluted Delta
+3 Mystic Gate
 1 Urza, Lord High Artificer
 1 Pithing Needle
 2 Urza, Lord High Artificer
+3 Thought Monitor
+2 Memory Deluge
+3 Vendilion Clique
+3 Omen of the Sea
 3 Urza, Lord High Artificer
 4 Urza, Lord High Artificer
-3 Thought Monitor
-4 Omen of the Sea
-1 Cavern of Souls
-2 Dovin's Veto
-1 Skyclave Apparition
-2 Skyclave Apparition
-3 Skyclave Apparition
-1 Soul-Guide Lantern
-2 Cavern of Souls
-1 Fire/Ice
-1 Sulfur Falls
-2 Fire/Ice
-3 Fire/Ice
-4 Misty Rainforest
-2 Teferi, Hero of Dominaria
+1 Darksteel Citadel
+4 Force of Negation
+1 Steam Vents
 1 Aether Spellbomb
 1 Thopter Foundry
 1 Sword of the Meek
 2 Thopter Foundry
-1 Darksteel Citadel
-3 Hallowed Fountain
-1 Snow-Covered Plains
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
+1 Relic of Progenitus
+2 Darksteel Citadel
+3 Darksteel Citadel
+4 Darksteel Citadel
+1 Teferi, Hero of Dominaria
+1 Path to Exile
+2 Path to Exile
 1 Thraben Inspector
 2 Thraben Inspector
+3 Hallowed Fountain
+1 Sword of Fire and Ice
+1 Muddle the Mixture
+2 Springleaf Drum
+3 Thopter Foundry
+1 Cavern of Souls
+1 Fire/Ice
+1 Sulfur Falls
+2 Fire/Ice
+3 Fire/Ice
+4 Fire/Ice
+2 Dovin's Veto
+4 Omen of the Sea
+1 Skyclave Apparition
+2 Skyclave Apparition
+3 Skyclave Apparition
+3 Scalding Tarn
+1 Soul-Guide Lantern
+2 Cavern of Souls
+4 Misty Rainforest
+1 Shark Typhoon
+2 Teferi, Hero of Dominaria
+1 Snow-Covered Island
+1 Snow-Covered Plains
+2 Snow-Covered Island
+3 Snow-Covered Island
 1 Thalia's Lieutenant
 1 Champion of the Parish
 1 Thalia, Guardian of Thraben
@@ -124,23 +133,15 @@
 3 Sanctifier en-Vec
 3 Phantasmal Image
 3 Meddling Mage
+4 Phantasmal Image
 4 Unsettled Mariner
 4 Snow-Covered Plains
-4 Phantasmal Image
 4 Meddling Mage
+4 Thought Monitor
 1 Subtlety
 1 Yorion, Sky Nomad
 2 Yorion, Sky Nomad
-1 Sword of Fire and Ice
-1 Relic of Progenitus
-1 Muddle the Mixture
-2 Springleaf Drum
-2 Darksteel Citadel
 3 Hengegate Pathway
-3 Thopter Foundry
-3 Darksteel Citadel
-4 Darksteel Citadel
-4 Fire/Ice
 3 Dovin's Veto
 6 Island
 1 Hall of Storm Giants
@@ -161,8 +162,7 @@
 1 Unclaimed Territory
 2 Unclaimed Territory
 3 Unclaimed Territory
-2 Shark Typhoon
-4 Thought Monitor
+1 Karn, Scion of Urza
 1 Dispatch
 2 Nettlecyst
 2 Dispatch
@@ -178,6 +178,8 @@
 4 Path to Exile
 4 Intrepid Adversary
 9 Plains
+1 Sacred Foundry
+1 Ketria Triome
 2 Raugrin Triome
 1 Batterskull
 1 Sword of Feast and Famine
@@ -196,8 +198,9 @@
 1 Flooded Grove
 1 Breeding Pool
 2 Ice-Fang Coatl
-2 Prismatic Vista
 2 Cryptic Command
+2 Shark Typhoon
+2 Prismatic Vista
 3 Ice-Fang Coatl
 3 Prismatic Vista
 3 Shark Typhoon
@@ -206,17 +209,12 @@
 4 Prismatic Vista
 4 Snow-Covered Island
 5 Snow-Covered Island
-1 Karn, Scion of Urza
 1 Spell Pierce
 2 Karn, Scion of Urza
+2 Relic of Progenitus
+4 Hallowed Fountain
 1 Witching Well
 4 Nettlecyst
-1 Cascade Bluffs
-1 Kiki-Jiki, Mirror Breaker
-2 Steam Vents
-2 Kiki-Jiki, Mirror Breaker
-2 Sulfur Falls
-4 Scalding Tarn
 1 Horizon Canopy
 2 Horizon Canopy
 3 Horizon Canopy

@@ -1,90 +1,94 @@
-2 Plains
-3 Mystic Gate
 4 Spreading Seas
+1 Hall of Storm Giants
+3 Chalice of the Void
+2 Scalding Tarn
 1 Castle Ardenvale
 1 Field of Ruin
-2 Scalding Tarn
-3 Glacial Fortress
-3 Castle Vantress
 2 Field of Ruin
-4 Mystic Gate
-1 Steam Vents
+3 Castle Vantress
 1 Force of Negation
-3 Scalding Tarn
+1 Steam Vents
+3 Glacial Fortress
 2 Force of Negation
-1 Sunset Revelry
-2 Celestial Colonnade
-3 Misty Rainforest
+4 Mystic Gate
+3 Scalding Tarn
 1 Cryptic Command
-3 Teferi, Hero of Dominaria
+2 Celestial Colonnade
 1 Snapcaster Mage
 2 Snapcaster Mage
-1 Rest in Peace
-3 Memory Deluge
-3 Shark Typhoon
-2 Hall of Storm Giants
+3 Misty Rainforest
+3 Teferi, Hero of Dominaria
+1 Sunset Revelry
+1 Snow-Covered Island
 2 Polluted Delta
+2 Jace, the Mind Sculptor
+2 Cryptic Command
 1 Stoneforge Mystic
 1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Scalding Tarn
-2 Cryptic Command
-1 Seachrome Coast
-1 Kaldra Compleat
-1 Watery Grave
+1 Rest in Peace
 1 Sword of Fire and Ice
-3 Polluted Delta
-2 Jace, the Mind Sculptor
-1 Snow-Covered Island
 1 Lightning Helix
 2 Lightning Helix
 3 Force of Negation
 1 Lightning Bolt
 2 Steam Vents
 2 Lightning Bolt
-1 Ketria Triome
-1 Wrenn and Six
-1 Temple Garden
-1 Windswept Heath
-1 Omnath, Locus of Creation
-1 Breeding Pool
-1 Irrigated Farmland
-1 Forest
-2 Wrenn and Six
-2 Omnath, Locus of Creation
-3 Wrenn and Six
-4 Misty Rainforest
-1 Esper Sentinel
-1 Sanctum Prelate
-2 Seachrome Coast
-2 Esper Sentinel
-3 Hallowed Fountain
-3 Esper Sentinel
-4 Stoneforge Mystic
-4 Esper Sentinel
-1 Fire/Ice
-2 Fire/Ice
-1 Expressive Iteration
-2 Expressive Iteration
-3 Expressive Iteration
+3 Memory Deluge
+3 Shark Typhoon
 1 Sacred Foundry
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Lightning Bolt
 3 Ragavan, Nimble Pilferer
 4 Lightning Bolt
-4 Polluted Delta
+1 Seachrome Coast
+1 Kaldra Compleat
+3 Polluted Delta
+1 Snow-Covered Plains
+2 Snow-Covered Island
+3 Snow-Covered Island
 3 Snapcaster Mage
-1 Arid Mesa
+1 Watery Grave
+1 Breeding Pool
+4 Misty Rainforest
+1 Ketria Triome
+1 Wrenn and Six
+1 Temple Garden
+1 Windswept Heath
+1 Omnath, Locus of Creation
+1 Irrigated Farmland
+1 Forest
+2 Wrenn and Six
+2 Omnath, Locus of Creation
+3 Wrenn and Six
+1 Sanctum Prelate
+1 Esper Sentinel
+2 Seachrome Coast
+2 Esper Sentinel
+3 Hallowed Fountain
+3 Esper Sentinel
+4 Stoneforge Mystic
+4 Esper Sentinel
+2 Hall of Storm Giants
+1 Fire/Ice
+2 Fire/Ice
 1 Faithful Mending
-1 Mountain
+1 Arid Mesa
 1 Brazen Borrower
+1 Mountain
 1 Electrolyze
-1 Ajani Vengeant
-2 Faithful Mending
 3 Lightning Helix
 3 Celestial Colonnade
+1 Expressive Iteration
+2 Expressive Iteration
+3 Expressive Iteration
+4 Polluted Delta
+1 Fact or Fiction
+1 Ajani Vengeant
+2 Faithful Mending
 1 Fatal Push
 1 Damn
 1 Swamp
@@ -94,7 +98,6 @@
 1 Fateful Absence
 1 Kaya's Guile
 1 Zagoth Triome
-1 Fact or Fiction
 2 Kaya's Guile
 2 Fatal Push
 2 Watery Grave
@@ -103,17 +106,14 @@
 3 Kaya's Guile
 3 Opt
 4 Opt
-2 Rest in Peace
+1 Consider
 1 Dovin's Veto
 2 Dovin's Veto
 2 Sanctum Prelate
 1 Unholy Heat
 1 Sulfur Falls
-1 Snow-Covered Plains
 2 Unholy Heat
-2 Snow-Covered Island
 3 Unholy Heat
-3 Snow-Covered Island
 1 Spirebluff Canal
 1 Murktide Regent
 1 Path to Exile
@@ -124,7 +124,29 @@
 4 Expressive Iteration
 3 Fire/Ice
 4 Fire/Ice
+1 Glacial Floodplain
+1 Reflecting Pool
+1 Endurance
+1 Ice-Fang Coatl
+1 Flooded Grove
+1 Ephemerate
+1 Rimewood Falls
+1 Eternal Witness
+1 Wall of Omens
+2 Breeding Pool
+2 Ice-Fang Coatl
+2 Ephemerate
+2 Flooded Grove
+2 Wall of Omens
+2 Eternal Witness
+3 Ice-Fang Coatl
+4 Ice-Fang Coatl
 2 Raugrin Triome
 2 Sunset Revelry
 5 Island
+2 Snow-Covered Plains
+2 Rest in Peace
+3 Field of Ruin
+4 Snow-Covered Island
+5 Snow-Covered Island
 4 Supreme Verdict
