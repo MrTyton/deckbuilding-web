@@ -3,19 +3,21 @@
 1 Shambling Ghast
 2 Shambling Ghast
 3 Shambling Ghast
-1 Orcus, Prince of Undeath
-4 Immersturm Predator
 1 Deadly Dispute
 2 Deadly Dispute
 3 Deadly Dispute
+1 Orcus, Prince of Undeath
+4 Immersturm Predator
 3 Infernal Grasp
 6 Swamp
 5 Mountain
-1 Florian, Voldaren Scion
 4 Shambling Ghast
-4 Goldspan Dragon
-2 Orcus, Prince of Undeath
+1 Florian, Voldaren Scion
+6 Mountain
 4 Deadly Dispute
+2 Orcus, Prince of Undeath
+4 Goldspan Dragon
+4 Sulfurous Mire
 1 Snow-Covered Swamp
 1 Snow-Covered Mountain
 2 Snow-Covered Swamp
@@ -26,30 +28,26 @@
 4 Snow-Covered Mountain
 5 Snow-Covered Swamp
 5 Snow-Covered Mountain
-6 Mountain
-4 Sulfurous Mire
-1 Blood on the Snow
-6 Snow-Covered Swamp
-1 Skullport Merchant
-1 Lolth, Spider Queen
 7 Swamp
 7 Mountain
+1 Skullport Merchant
+1 Lolth, Spider Queen
+1 Blood on the Snow
+6 Snow-Covered Swamp
 1 Inferno of the Star Mounts
-7 Snow-Covered Swamp
 2 Skullport Merchant
 3 Skullport Merchant
 1 Eyetwitch
 2 Eyetwitch
 4 Infernal Grasp
 2 Lolth, Spider Queen
+8 Mountain
 1 Faceless Haven
 2 Faceless Haven
-8 Mountain
-2 Blood on the Snow
+7 Snow-Covered Swamp
 4 Skullport Merchant
-3 Blood on the Snow
-4 Blood on the Snow
 2 Florian, Voldaren Scion
+2 Blood on the Snow
 4 Dragon's Fire
 8 Swamp
 1 The Meathook Massacre
@@ -58,18 +56,20 @@
 3 Eyetwitch
 1 Magda, Brazen Outlaw
 2 Magda, Brazen Outlaw
-6 Snow-Covered Mountain
-7 Snow-Covered Mountain
+3 Blood on the Snow
 3 Faceless Haven
 4 Faceless Haven
+4 Blood on the Snow
+1 Agadeem's Awakening
 9 Swamp
 9 Mountain
 10 Mountain
 1 Duress
-3 The Meathook Massacre
 1 Wake to Slaughter
+3 The Meathook Massacre
+6 Snow-Covered Mountain
+7 Snow-Covered Mountain
 3 Magda, Brazen Outlaw
-1 Agadeem's Awakening
 4 Eyetwitch
 3 Florian, Voldaren Scion
 3 Soul Shatter
@@ -86,24 +86,29 @@
 1 Moonveil Regent
 1 Unexpected Windfall
 2 Unexpected Windfall
-2 Inferno of the Star Mounts
-1 Seize the Spoils
-2 Seize the Spoils
-8 Snow-Covered Swamp
-8 Snow-Covered Mountain
-9 Snow-Covered Swamp
+1 Extus, Oriq Overlord
+1 Needleverge Pathway
+1 Plains
+1 Brightclimb Pathway
+2 Brightclimb Pathway
+2 Needleverge Pathway
+2 Agadeem's Awakening
+2 Extus, Oriq Overlord
+3 Brightclimb Pathway
+3 Needleverge Pathway
 1 Sudden Breakthrough
-1 Dramatic Finale
 1 Xorn
+1 Dramatic Finale
 2 Dramatic Finale
 1 Ecstatic Awakener
 2 Ecstatic Awakener
 10 Swamp
+1 Burning Hands
 1 Hagra Mauling
 1 Baleful Mastery
 1 Power Word Kill
 1 Professor Onyx
-1 Burning Hands
+2 Inferno of the Star Mounts
 1 Burn Down the House
 2 Burn Down the House
 1 Cathartic Pyre
@@ -125,39 +130,20 @@
 2 Hungry for More
 3 Hungry for More
 3 Field of Ruin
-1 Icingdeath, Frost Tyrant
-1 Haunting Voyage
-1 Eaten Alive
-1 Old Gnawbone
-1 Tiamat
-1 Iymrith, Desert Doom
-2 Eaten Alive
-2 Haunting Voyage
-3 Seize the Spoils
 4 The Meathook Massacre
-1 Brightclimb Pathway
 1 Hostile Hostel
-1 Sunset Revelry
 1 Fateful Absence
-1 Extus, Oriq Overlord
-1 Needleverge Pathway
+1 Sunset Revelry
 1 Price of Loyalty
-1 Plains
 1 Can't Stay Away
 1 Crawl from the Cellar
 1 Rite of Oblivion
 1 Fleshtaker
 1 Sigardian Savior
-2 Brightclimb Pathway
-2 Sunset Revelry
 2 Fateful Absence
-2 Needleverge Pathway
-2 Agadeem's Awakening
-2 Extus, Oriq Overlord
+2 Sunset Revelry
 2 Rite of Oblivion
 2 Fleshtaker
-3 Brightclimb Pathway
-3 Needleverge Pathway
 3 Rite of Oblivion
 3 Fleshtaker
 4 Brightclimb Pathway
@@ -180,26 +166,42 @@
 1 Esika's Chariot
 1 Darkbore Pathway
 1 Cragcrown Pathway
-2 Darkbore Pathway
 2 Esika's Chariot
+2 Darkbore Pathway
 2 Cragcrown Pathway
 3 Esika's Chariot
 3 Darkbore Pathway
 3 Cragcrown Pathway
-4 Darkbore Pathway
 4 Esika's Chariot
+4 Darkbore Pathway
 4 Magda, Brazen Outlaw
 4 Cragcrown Pathway
-1 Kardur's Vicious Return
-1 Vorinclex, Monstrous Raider
-1 You See a Pair of Goblins
-2 You See a Pair of Goblins
-2 Kardur's Vicious Return
-2 Vorinclex, Monstrous Raider
-3 Vorinclex, Monstrous Raider
-3 Inferno of the Star Mounts
-9 Snow-Covered Mountain
-10 Snow-Covered Swamp
-10 Snow-Covered Mountain
-11 Snow-Covered Swamp
-11 Snow-Covered Mountain
+1 Elite Spellbinder
+1 Fireblade Charger
+1 Showdown of the Skalds
+2 Fireblade Charger
+2 Elite Spellbinder
+2 Showdown of the Skalds
+3 Bloodchief's Thirst
+3 Extus, Oriq Overlord
+3 Showdown of the Skalds
+3 Elite Spellbinder
+3 Fireblade Charger
+4 Elite Spellbinder
+4 Bloodchief's Thirst
+4 Fireblade Charger
+4 Extus, Oriq Overlord
+1 Icingdeath, Frost Tyrant
+1 Haunting Voyage
+1 Eaten Alive
+1 Tiamat
+1 Seize the Spoils
+1 Old Gnawbone
+1 Iymrith, Desert Doom
+2 Eaten Alive
+2 Haunting Voyage
+2 Seize the Spoils
+3 Seize the Spoils
+8 Snow-Covered Swamp
+8 Snow-Covered Mountain
+9 Snow-Covered Swamp

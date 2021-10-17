@@ -1,4 +1,4 @@
-4 Murktide Regent
+2 Fire/Ice
 2 Spirebluff Canal
 1 Prismari Command
 1 Electrolyze
@@ -6,11 +6,10 @@
 2 Opt
 3 Opt
 2 Cryptic Command
-3 Flooded Strand
 1 Memory Deluge
+2 Memory Deluge
 1 Shark Typhoon
 2 Shark Typhoon
-2 Memory Deluge
 1 Breeding Pool
 1 Ketria Triome
 1 Growth Spiral
@@ -19,16 +18,17 @@
 2 Snow-Covered Island
 3 Snow-Covered Island
 3 Growth Spiral
-1 Wrenn and Six
 1 Unholy Heat
-2 Wrenn and Six
+1 Wrenn and Six
 2 Unholy Heat
+2 Wrenn and Six
 3 Wrenn and Six
 1 Wilderness Reclamation
 2 Wilderness Reclamation
 3 Wilderness Reclamation
 2 Polluted Delta
 1 Hinterland Harbor
+3 Flooded Strand
 1 Jace, the Mind Sculptor
 2 Jace, the Mind Sculptor
 2 Castle Vantress
@@ -36,23 +36,21 @@
 3 Shark Typhoon
 3 Unholy Heat
 2 Hinterland Harbor
-1 Force of Negation
 1 Flusterstorm
 1 Nexus of Fate
-3 Fire/Ice
-4 Flooded Strand
-2 Prismari Command
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
+2 Prismari Command
 3 Polluted Delta
 8 Island
 3 Ketria Triome
 1 Dress Down
 4 Snow-Covered Island
+1 Force of Negation
+1 Raugrin Triome
 1 Reflecting Pool
 2 Reflecting Pool
-1 Raugrin Triome
 1 Flame Slash
 1 Abrade
 4 Opt
@@ -61,9 +59,10 @@
 2 Thing in the Ice
 3 Thing in the Ice
 3 Dress Down
+4 Flooded Strand
+3 Fire/Ice
 3 Memory Deluge
 2 Brazen Borrower
-1 Fact or Fiction
 1 Dead/Gone
 1 Relic of Progenitus
 1 Rimewood Falls
@@ -77,6 +76,7 @@
 7 Snow-Covered Island
 8 Snow-Covered Island
 9 Snow-Covered Island
+1 Fact or Fiction
 1 Fiery Islet
 1 Forest
 1 Urza's Saga
@@ -88,13 +88,12 @@
 4 Urza's Saga
 4 Expressive Iteration
 3 Sulfur Falls
-2 Force of Negation
 1 Snow-Covered Forest
 4 Ice-Fang Coatl
 2 Breeding Pool
 1 Zagoth Triome
-1 Snow-Covered Swamp
 1 Field of Ruin
+1 Snow-Covered Swamp
 1 Watery Grave
 1 Endurance
 1 Sultai Charm
@@ -122,28 +121,19 @@
 2 Expansion/Explosion
 1 Flooded Grove
 1 Snow-Covered Mountain
-1 Anger of the Gods
+2 Force of Negation
 3 Spirebluff Canal
 1 Fury
 1 Cascade Bluffs
-1 Glacial Fortress
-1 Teferi, Time Raveler
-1 Prismatic Ending
-1 Hallowed Fountain
-2 Teferi, Time Raveler
-2 Hallowed Fountain
-2 Glacial Fortress
-2 Prismatic Ending
-3 Prismatic Ending
-4 Prismatic Ending
-1 Bonecrusher Giant
 1 Spreading Seas
+1 Bonecrusher Giant
 1 Wooded Foothills
 2 Wooded Foothills
 3 Prismari Command
 4 Prismari Command
 1 Territorial Kavu
 1 Valki, God of Lies
+1 Anger of the Gods
 1 Lonely Sandbar
 1 Bring to Light
 2 Territorial Kavu
@@ -159,6 +149,17 @@
 3 Relic of Progenitus
 3 Jace, the Mind Sculptor
 4 Relic of Progenitus
+1 Hallowed Fountain
+1 Glacial Fortress
+1 Teferi, Time Raveler
+1 Prismatic Ending
+2 Teferi, Time Raveler
+2 Hallowed Fountain
+2 Glacial Fortress
+2 Prismatic Ending
+3 Teferi, Time Raveler
+3 Prismatic Ending
+4 Prismatic Ending
 1 Stomping Ground
 2 Flooded Grove
 4 Unholy Heat

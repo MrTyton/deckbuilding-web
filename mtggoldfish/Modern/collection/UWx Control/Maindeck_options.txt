@@ -1,43 +1,46 @@
-4 Spreading Seas
+2 Plains
 1 Hall of Storm Giants
-3 Chalice of the Void
 2 Scalding Tarn
-1 Castle Ardenvale
 1 Field of Ruin
 2 Field of Ruin
+3 Chalice of the Void
 3 Castle Vantress
 1 Force of Negation
+1 Castle Ardenvale
 1 Steam Vents
-3 Glacial Fortress
 2 Force of Negation
 4 Mystic Gate
-3 Scalding Tarn
 1 Cryptic Command
-2 Celestial Colonnade
+3 Scalding Tarn
 1 Snapcaster Mage
 2 Snapcaster Mage
+3 Glacial Fortress
+2 Celestial Colonnade
+2 Polluted Delta
+1 Rest in Peace
 3 Misty Rainforest
 3 Teferi, Hero of Dominaria
-1 Sunset Revelry
+3 Shark Typhoon
 1 Snow-Covered Island
-2 Polluted Delta
 2 Jace, the Mind Sculptor
-2 Cryptic Command
 1 Stoneforge Mystic
 1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Scalding Tarn
-1 Rest in Peace
-1 Sword of Fire and Ice
+2 Cryptic Command
+3 Polluted Delta
+1 Breeding Pool
 1 Lightning Helix
 2 Lightning Helix
 3 Force of Negation
+1 Sword of Fire and Ice
 1 Lightning Bolt
 2 Steam Vents
 2 Lightning Bolt
 3 Memory Deluge
-3 Shark Typhoon
+1 Sunset Revelry
+1 Ketria Triome
 1 Sacred Foundry
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
@@ -46,15 +49,12 @@
 4 Lightning Bolt
 1 Seachrome Coast
 1 Kaldra Compleat
-3 Polluted Delta
 1 Snow-Covered Plains
 2 Snow-Covered Island
 3 Snow-Covered Island
 3 Snapcaster Mage
 1 Watery Grave
-1 Breeding Pool
 4 Misty Rainforest
-1 Ketria Triome
 1 Wrenn and Six
 1 Temple Garden
 1 Windswept Heath
@@ -64,8 +64,8 @@
 2 Wrenn and Six
 2 Omnath, Locus of Creation
 3 Wrenn and Six
-1 Sanctum Prelate
 1 Esper Sentinel
+1 Sanctum Prelate
 2 Seachrome Coast
 2 Esper Sentinel
 3 Hallowed Fountain
@@ -120,10 +120,11 @@
 1 The Royal Scions
 2 Spirebluff Canal
 3 Spirebluff Canal
-4 Ragavan, Nimble Pilferer
 4 Expressive Iteration
+4 Ragavan, Nimble Pilferer
 3 Fire/Ice
 4 Fire/Ice
+1 Eternal Witness
 1 Glacial Floodplain
 1 Reflecting Pool
 1 Endurance
@@ -131,7 +132,6 @@
 1 Flooded Grove
 1 Ephemerate
 1 Rimewood Falls
-1 Eternal Witness
 1 Wall of Omens
 2 Breeding Pool
 2 Ice-Fang Coatl
@@ -141,9 +141,6 @@
 2 Eternal Witness
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
-2 Raugrin Triome
-2 Sunset Revelry
-5 Island
 2 Snow-Covered Plains
 2 Rest in Peace
 3 Field of Ruin

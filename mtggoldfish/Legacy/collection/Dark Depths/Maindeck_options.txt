@@ -9,9 +9,9 @@
 4 Elvish Reclaimer
 1 Abrupt Decay
 4 Not of This World
-1 City of Brass
 1 Mana Confluence
 1 Gemstone Mine
+1 City of Brass
 2 Gemstone Mine
 2 Mana Confluence
 3 Mana Confluence
@@ -43,10 +43,10 @@
 3 Inquisition of Kozilek
 4 Inquisition of Kozilek
 4 Abrupt Decay
-1 Shadowspear
-1 Entomb
-1 Retrofitter Foundry
 1 Urza's Saga
+1 Shadowspear
+1 Retrofitter Foundry
+1 Entomb
 2 Urza's Saga
 3 Urza's Saga
 2 City of Brass
@@ -65,9 +65,9 @@
 1 Barren Moor
 2 Assassin's Trophy
 2 Exploration
-3 Wasteland
 3 Bayou
 3 Fatal Push
+3 Wasteland
 1 Hymn to Tourach
 2 Hymn to Tourach
 3 Hymn to Tourach
@@ -108,9 +108,9 @@
 3 Underground Sea
 3 Force of Will
 3 Expedition Map
+4 Daze
 4 Surgical Extraction
 4 Expedition Map
-4 Daze
 4 Force Spike
 4 Counterspell
 4 Drowned Catacomb
@@ -123,24 +123,23 @@
 4 Simian Spirit Guide
 1 Dryad Arbor
 1 Stitcher's Supplier
-1 Cabal Therapy
 1 Satyr Wayfinder
+1 Cabal Therapy
 1 Khalni Garden
 1 Hogaak, Arisen Necropolis
 2 Khalni Garden
 2 Stitcher's Supplier
+2 Satyr Wayfinder
 2 Cabal Therapy
 2 Hogaak, Arisen Necropolis
-2 Satyr Wayfinder
 3 Khalni Garden
 3 Cabal Therapy
 3 Stitcher's Supplier
-3 Hogaak, Arisen Necropolis
 3 Satyr Wayfinder
+3 Hogaak, Arisen Necropolis
 4 Stitcher's Supplier
 4 Cabal Therapy
 4 Hogaak, Arisen Necropolis
-1 Karn, the Great Creator
 1 Ancient Tomb
 1 Infernal Tutor
 1 Opposition Agent
@@ -151,10 +150,11 @@
 1 Leyline of the Void
 1 Lake of the Dead
 1 Tendrils of Agony
-2 Karn, the Great Creator
+1 Karn, the Great Creator
 2 Helm of Obedience
 2 Ancient Tomb
 2 Dark Ritual
+2 Karn, the Great Creator
 2 Ill-Gotten Gains
 2 Leyline of the Void
 2 Lion's Eye Diamond
