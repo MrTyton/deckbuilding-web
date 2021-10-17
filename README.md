@@ -4,11 +4,11 @@
 
 # Standard
 
-|                                A                                 |                              B                               |                                 C                                  |                                 D                                  |                               E                                |
-|------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------|
-|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Blue Tempo](./mtggoldfish/Standard/decks/Blue_Tempo.md)      |[Gruul Werewolves](./mtggoldfish/Standard/decks/Gruul_Werewolves.md)|[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)|[Ramp](./mtggoldfish/Standard/decks/Ramp.md)                    |
-|[Azorius Tempo](./mtggoldfish/Standard/decks/Azorius_Tempo.md)    |[Bx Midrange](./mtggoldfish/Standard/decks/Bx_Midrange.md)    |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)      |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[Sultai Ramp](./mtggoldfish/Standard/decks/Sultai_Ramp.md)      |
-|[Bant Ramp](./mtggoldfish/Standard/decks/Bant_Ramp.md)            |[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)|[Izzet Delver](./mtggoldfish/Standard/decks/Izzet_Delver.md)        |[Rakdos Midrange](./mtggoldfish/Standard/decks/Rakdos_Midrange.md)  |[Temur Epiphany](./mtggoldfish/Standard/decks/Temur_Epiphany.md)|
+|                                A                                 |                              B                               |                                 C                                  |                                 D                                  |                            E                             |
+|------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------|
+|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Blue Tempo](./mtggoldfish/Standard/decks/Blue_Tempo.md)      |[Gruul Werewolves](./mtggoldfish/Standard/decks/Gruul_Werewolves.md)|[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[Sultai Ramp](./mtggoldfish/Standard/decks/Sultai_Ramp.md)|
+|[Azorius Tempo](./mtggoldfish/Standard/decks/Azorius_Tempo.md)    |[Bx Midrange](./mtggoldfish/Standard/decks/Bx_Midrange.md)    |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)      |[Rakdos Midrange](./mtggoldfish/Standard/decks/Rakdos_Midrange.md)  |                                                          |
+|[Bant Ramp](./mtggoldfish/Standard/decks/Bant_Ramp.md)            |[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)|[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)|[Ramp](./mtggoldfish/Standard/decks/Ramp.md)                        |                                                          |
 
 
 # Historic
@@ -62,4 +62,4 @@
 
 
 
-#### Last Updated at 12:23AM on October 17, 2021
+#### Last Updated at 12:20PM on October 17, 2021
