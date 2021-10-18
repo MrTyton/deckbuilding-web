@@ -80,10 +80,7 @@
 1 Abundant Growth
 2 Abundant Growth
 3 Abundant Growth
-1 Drannith Magistrate
 3 Scalding Tarn
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
 4 Flooded Strand
 1 Territorial Kavu
 2 Territorial Kavu
@@ -103,15 +100,18 @@
 2 Mantis Rider
 3 Bloodbraid Elf
 4 Bloodbraid Elf
-1 Indatha Triome
+1 Lightning Helix
+2 Lightning Helix
 1 General Ferrous Rokiric
 2 General Ferrous Rokiric
 3 General Ferrous Rokiric
-1 Lightning Helix
-2 Lightning Helix
 3 Mantis Rider
-1 Bloodstained Mire
+1 Indatha Triome
+1 Drannith Magistrate
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
 4 Mantis Rider
+1 Bloodstained Mire
 1 Birds of Paradise
 2 Birds of Paradise
 3 Birds of Paradise
@@ -119,12 +119,12 @@
 4 Abundant Growth
 4 Eternal Witness
 4 Fury
-3 Ragavan, Nimble Pilferer
 1 Zagoth Triome
 2 Mountain
-1 Gemstone Mine
 2 Sacred Foundry
 2 Steam Vents
+3 Ragavan, Nimble Pilferer
+1 Gemstone Mine
 2 Bloodstained Mire
 4 Wall of Blossoms
 3 Bloodstained Mire
@@ -133,18 +133,18 @@
 4 General Ferrous Rokiric
 2 Arid Mesa
 3 Skyclave Apparition
-1 Reflecting Pool
-4 Birds of Paradise
-4 Ragavan, Nimble Pilferer
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
 4 Lightning Helix
-1 Tranquil Thicket
+1 Reflecting Pool
+4 Birds of Paradise
+4 Ragavan, Nimble Pilferer
 4 Manamorphose
+1 Savai Triome
+1 Tranquil Thicket
 2 Gilded Goose
 1 Ardent Plea
-1 Savai Triome
 1 Counterspell
 2 Counterspell
 3 Counterspell
@@ -158,16 +158,16 @@
 1 Blood Crypt
 1 Time Warp
 2 Snow-Covered Plains
-4 Skyclave Apparition
 3 Arid Mesa
+4 Skyclave Apparition
 3 Ignoble Hierarch
 4 Ignoble Hierarch
 2 Time Warp
+4 Arid Mesa
 1 Fire-Lit Thicket
 1 Scavenging Ooze
 1 Inspiring Vantage
 1 Razorverge Thicket
-4 Arid Mesa
 2 Prismatic Vista
 2 Reflecting Pool
 1 Stoneforge Mystic
@@ -189,10 +189,11 @@
 2 Temple Garden
 3 Restoration Angel
 1 Eladamri's Call
+2 Stomping Ground
 1 Wild Nacatl
-2 Verdant Catacombs
 3 Noble Hierarch
 4 Noble Hierarch
+2 Verdant Catacombs
 1 Arboreal Grazer
 2 Arboreal Grazer
 4 Oath of Nissa
@@ -200,15 +201,15 @@
 2 Ardent Plea
 2 Snow-Covered Island
 4 Stoneforge Mystic
-2 Sunbaked Canyon
 1 Yasharn, Implacable Earth
+2 Sunbaked Canyon
 1 Overgrown Tomb
 2 Gemstone Mine
 1 Klothys, God of Destiny
-2 Stomping Ground
 1 Geist of Saint Traft
 2 Island
 1 Remand
+2 Breeding Pool
 1 Snapcaster Mage
 2 Snapcaster Mage
 2 Wild Nacatl
@@ -216,14 +217,13 @@
 1 Polluted Delta
 2 Geist of Saint Traft
 1 Force of Negation
-1 Stubborn Denial
 1 Tarmogoyf
+1 Stubborn Denial
 1 Fire/Ice
 2 Remand
 2 Fire/Ice
 2 Force of Negation
 2 Stubborn Denial
-2 Breeding Pool
 3 Remand
 3 Fire/Ice
 3 Stubborn Denial
