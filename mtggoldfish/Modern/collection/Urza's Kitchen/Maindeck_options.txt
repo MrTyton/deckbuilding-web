@@ -37,12 +37,12 @@
 3 Bloodghast
 2 Island
 1 Bone Shards
-1 Emry, Lurker of the Loch
 1 Mishra's Bauble
-2 Emry, Lurker of the Loch
+1 Emry, Lurker of the Loch
 2 Mishra's Bauble
-3 Emry, Lurker of the Loch
+2 Emry, Lurker of the Loch
 3 Mishra's Bauble
+3 Emry, Lurker of the Loch
 4 Mishra's Bauble
 4 Thought Monitor
 2 Misty Rainforest
@@ -93,21 +93,21 @@
 1 Godless Shrine
 2 Nurturing Peatland
 2 Windswept Heath
-1 Blackcleave Cliffs
 1 Goblin Bombardment
+1 Blackcleave Cliffs
 1 Mayhem Devil
 2 Blackcleave Cliffs
 2 Blood Crypt
 2 Goblin Bombardment
 2 Mayhem Devil
-3 Bloodstained Mire
+3 Blood Crypt
 3 Blackcleave Cliffs
 3 Goblin Bombardment
 3 Mayhem Devil
-3 Blood Crypt
-4 Bloodstained Mire
-4 Bloodghast
+3 Bloodstained Mire
 4 Blackcleave Cliffs
+4 Bloodghast
+4 Bloodstained Mire
 4 Mayhem Devil
 1 Power Conduit
 1 Life from the Loam
@@ -145,7 +145,6 @@
 2 Abrupt Decay
 1 Llanowar Wastes
 2 Llanowar Wastes
-3 Nettlecyst
 3 Ravenous Squirrel
 1 Aether Vial
 2 Aether Vial
@@ -155,39 +154,38 @@
 2 Breeding Pool
 2 Botanical Sanctum
 3 Fatal Push
-4 Wooded Foothills
-4 Wrenn and Six
-1 Gut Shot
-1 Talisman of Progress
-1 Cavern of Souls
-2 Hallowed Fountain
-2 Gut Shot
-2 Talisman of Progress
-2 Cavern of Souls
-3 Cavern of Souls
-3 Talisman of Progress
-4 Talisman of Progress
-4 Cavern of Souls
-1 Arid Mesa
+3 Nettlecyst
 1 Giver of Runes
 1 Thraben Inspector
 1 Esper Sentinel
-1 Concealed Courtyard
 1 Thalia, Guardian of Thraben
-2 Arid Mesa
+1 Arid Mesa
+1 Concealed Courtyard
 2 Thraben Inspector
 2 Thalia, Guardian of Thraben
 2 Esper Sentinel
 2 Plains
 2 Concealed Courtyard
 2 Godless Shrine
+2 Arid Mesa
 3 Thalia, Guardian of Thraben
 3 Marsh Flats
 3 Esper Sentinel
 3 Concealed Courtyard
+4 Concealed Courtyard
 4 Marsh Flats
 4 Esper Sentinel
-4 Concealed Courtyard
+1 Gut Shot
+1 Talisman of Progress
+1 Cavern of Souls
+2 Gut Shot
+2 Hallowed Fountain
+2 Talisman of Progress
+2 Cavern of Souls
+3 Cavern of Souls
+3 Talisman of Progress
+4 Talisman of Progress
+4 Cavern of Souls
 1 Grist, the Hunger Tide
 1 Tarmogoyf
 2 Grist, the Hunger Tide
@@ -211,4 +209,6 @@
 2 Shardless Agent
 3 Shardless Agent
 4 Shardless Agent
+4 Wrenn and Six
+4 Wooded Foothills
 4 Willow Geist

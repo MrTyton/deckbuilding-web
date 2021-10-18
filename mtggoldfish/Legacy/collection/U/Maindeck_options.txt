@@ -3,36 +3,36 @@
 1 Cunning Wish
 1 Preordain
 1 Turnabout
-1 Intuition
-1 Brainstorm
-1 High Tide
-1 Time Spiral
 1 Ponder
+1 Brainstorm
+1 Intuition
+1 Time Spiral
 1 Merchant Scroll
+1 High Tide
 2 Cunning Wish
 2 Preordain
 2 Ponder
-2 High Tide
 2 Brainstorm
+2 High Tide
 2 Time Spiral
 2 Turnabout
 2 Merchant Scroll
 3 Cunning Wish
 3 Island
 3 Preordain
+3 Ponder
 3 Brainstorm
+3 High Tide
 3 Time Spiral
 3 Merchant Scroll
-3 High Tide
-3 Ponder
 3 Turnabout
 4 Island
 4 Preordain
-4 Merchant Scroll
-4 Time Spiral
-4 Ponder
-4 High Tide
 4 Brainstorm
+4 Ponder
+4 Time Spiral
+4 Merchant Scroll
+4 High Tide
 5 Island
 6 Island
 7 Island
@@ -57,11 +57,16 @@
 1 Chalice of the Void
 2 Chalice of the Void
 1 Soul-Guide Lantern
-2 Flooded Strand
 2 Polluted Delta
+2 Flooded Strand
 2 Scalding Tarn
 1 Springleaf Drum
 1 Pithing Needle
+1 Narset, Parter of Veils
+1 Aether Spellbomb
+1 Hullbreacher
+2 Narset, Parter of Veils
+2 Hullbreacher
 3 Polluted Delta
 3 Flooded Strand
 1 Urza, Lord High Artificer
@@ -70,8 +75,8 @@
 2 Force of Negation
 3 Force of Negation
 1 Mystic Sanctuary
-1 Counterspell
 1 Brain Freeze
+1 Counterspell
 1 Meditate
 1 Candelabra of Tawnos
 2 Misty Rainforest

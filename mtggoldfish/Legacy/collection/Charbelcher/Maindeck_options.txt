@@ -28,56 +28,38 @@
 1 Echo of Eons
 1 Gamble
 1 Taiga
+2 Echo of Eons
+3 Echo of Eons
+3 Empty the Warrens
 1 Seething Song
 2 Seething Song
 3 Seething Song
 4 Tinder Wall
 4 Seething Song
-2 Echo of Eons
-3 Echo of Eons
-3 Empty the Warrens
 1 Shatterskull Smashing
 2 Shatterskull Smashing
-1 Thoughtseize
-2 Thoughtseize
 3 Shatterskull Smashing
 4 Shatterskull Smashing
-3 Thoughtseize
+1 Thoughtseize
+2 Thoughtseize
 1 Once Upon a Time
 2 Once Upon a Time
-4 Thoughtseize
+3 Thoughtseize
 1 Chancellor of the Annex
 2 Chancellor of the Annex
 2 Gamble
 3 Gamble
-1 Jwari Disruption
-1 Brainstorm
-1 Ponder
-1 Preordain
-1 Pelakka Predation
-1 Sea Gate Restoration
-1 Force of Will
-2 Brainstorm
-2 Ponder
-2 Preordain
-2 Sea Gate Restoration
-2 Force of Will
-3 Force of Will
-3 Brainstorm
-3 Ponder
-3 Sea Gate Restoration
-4 Force of Will
-4 Ponder
-4 Brainstorm
-4 Sea Gate Restoration
+4 Thoughtseize
+1 Jeska's Will
+2 Jeska's Will
+3 Chancellor of the Annex
+3 Jeska's Will
+4 Chancellor of the Annex
 1 Leyline of Anticipation
 2 Leyline of Anticipation
 3 Leyline of Anticipation
 4 Leyline of Anticipation
 3 Cabal Therapy
-1 Jeska's Will
-2 Jeska's Will
-3 Chancellor of the Annex
 1 Irencrag Feat
 2 Irencrag Feat
 1 Pyretic Ritual
@@ -117,16 +99,26 @@
 1 Skyshroud Cutter
 1 Odious Trow
 3 Tendrils of Agony
-1 Street Wraith
-1 Pyroblast
-2 Taiga
-2 Street Wraith
-2 Pyroblast
-3 Street Wraith
-3 Pyroblast
-4 Street Wraith
-3 Jeska's Will
-4 Chancellor of the Annex
+1 Jwari Disruption
+1 Brainstorm
+1 Ponder
+1 Preordain
+1 Pelakka Predation
+1 Sea Gate Restoration
+1 Force of Will
+2 Brainstorm
+2 Ponder
+2 Preordain
+2 Sea Gate Restoration
+2 Force of Will
+3 Force of Will
+3 Brainstorm
+3 Ponder
+3 Sea Gate Restoration
+4 Force of Will
+4 Ponder
+4 Brainstorm
+4 Sea Gate Restoration
 4 Cabal Therapy
 1 Tangled Florahedron
 1 Blackbloom Rogue
@@ -138,14 +130,22 @@
 1 Entomb
 1 Shield Sphere
 1 Past in Flames
-2 Entomb
 2 Grief
+2 Entomb
 2 Shield Sphere
-3 Entomb
 3 Grief
-4 Entomb
+3 Entomb
 4 Grief
+4 Entomb
 4 Echo of Eons
+1 Street Wraith
+1 Pyroblast
+2 Taiga
+2 Street Wraith
+2 Pyroblast
+3 Pyroblast
+3 Street Wraith
+4 Street Wraith
 1 Grim Monolith
 1 Serum Powder
 2 Grim Monolith
@@ -159,7 +159,6 @@
 4 Serum Powder
 4 Pyretic Ritual
 1 Banishing Light
-1 Zuran Orb
 1 Mountain
 1 Plains
 1 Orim's Chant
@@ -167,6 +166,7 @@
 1 Pithing Needle
 1 Rest in Peace
 1 Helm of Obedience
+1 Zuran Orb
 1 Blood Moon
 1 Aura of Silence
 1 Wrath of God

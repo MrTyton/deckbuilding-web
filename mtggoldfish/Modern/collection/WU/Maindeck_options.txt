@@ -1,10 +1,3 @@
-1 Dovin's Veto
-2 Scalding Tarn
-2 Hengegate Pathway
-1 Stoneforge Mystic
-1 Kaldra Compleat
-2 Stoneforge Mystic
-3 Stoneforge Mystic
 4 Stoneforge Mystic
 2 Plains
 1 Esper Sentinel
@@ -42,23 +35,25 @@
 4 Mishra's Bauble
 4 Ingenious Smith
 4 Razortide Bridge
+2 Hengegate Pathway
 4 Portable Hole
 4 Metallic Rebuke
-1 Polluted Delta
-3 Mystic Gate
-1 Memory Deluge
+3 Misty Rainforest
+2 Omen of the Sea
+3 Force of Negation
+2 Brazen Borrower
+1 Dovin's Veto
+2 Scalding Tarn
 1 Urza, Lord High Artificer
 1 Pithing Needle
 2 Urza, Lord High Artificer
 3 Thought Monitor
-3 Vendilion Clique
-3 Omen of the Sea
 3 Urza, Lord High Artificer
 4 Urza, Lord High Artificer
 1 Darksteel Citadel
-4 Force of Negation
-1 Steam Vents
-2 Memory Deluge
+1 Polluted Delta
+3 Mystic Gate
+1 Memory Deluge
 1 Aether Spellbomb
 1 Thopter Foundry
 1 Sword of the Meek
@@ -67,15 +62,20 @@
 2 Darksteel Citadel
 3 Darksteel Citadel
 4 Darksteel Citadel
-1 Path to Exile
-2 Path to Exile
 1 Thraben Inspector
 2 Thraben Inspector
-3 Hallowed Fountain
 1 Sword of Fire and Ice
 1 Muddle the Mixture
 2 Springleaf Drum
 3 Thopter Foundry
+3 Vendilion Clique
+3 Omen of the Sea
+4 Force of Negation
+1 Steam Vents
+2 Memory Deluge
+1 Path to Exile
+2 Path to Exile
+3 Hallowed Fountain
 1 Cavern of Souls
 1 Fire/Ice
 1 Sulfur Falls
@@ -135,6 +135,7 @@
 4 Snow-Covered Plains
 4 Meddling Mage
 4 Thought Monitor
+1 Sacred Foundry
 1 Subtlety
 1 Yorion, Sky Nomad
 2 Yorion, Sky Nomad
@@ -166,18 +167,17 @@
 2 Nettlecyst
 2 Dispatch
 3 Nettlecyst
-1 Mutavault
 1 Intrepid Adversary
+1 Mutavault
 2 Mutavault
 2 Intrepid Adversary
 3 Thraben Inspector
-3 Mutavault
 3 Path to Exile
 3 Intrepid Adversary
+3 Mutavault
 4 Path to Exile
 4 Intrepid Adversary
 9 Plains
-1 Sacred Foundry
 1 Ketria Triome
 1 Cryptic Command
 2 Raugrin Triome
@@ -198,8 +198,8 @@
 1 Horizon Canopy
 2 Horizon Canopy
 3 Horizon Canopy
-4 Mutavault
 4 Horizon Canopy
+4 Mutavault
 1 Castle Ardenvale
 1 Ghost Quarter
 1 Declaration in Stone

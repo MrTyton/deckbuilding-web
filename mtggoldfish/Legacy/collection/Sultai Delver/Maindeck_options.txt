@@ -1,32 +1,32 @@
-3 Tarmogoyf
-1 Stifle
-2 Stifle
-3 Fatal Push
-4 Abrupt Decay
-4 Dark Confidant
-3 Verdant Catacombs
-1 Witherbloom Apprentice
 2 Witherbloom Apprentice
 3 Witherbloom Apprentice
 4 Witherbloom Apprentice
+3 Tarmogoyf
+1 Stifle
+2 Stifle
+3 Dark Confidant
 1 Chain of Smog
 2 Chain of Smog
-1 Hymn to Tourach
+3 Verdant Catacombs
+3 Fatal Push
+4 Abrupt Decay
+4 Dark Confidant
+1 Spell Pierce
 1 Preordain
 4 Tarmogoyf
 1 Creeping Tar Pit
 4 Uro, Titan of Nature's Wrath
-1 Spell Pierce
 1 Leovold, Emissary of Trest
-3 Stifle
+1 Hymn to Tourach
 4 Thoughtseize
+3 Stifle
 1 Hexdrinker
 2 Hexdrinker
+1 Snuff Out
+2 Snuff Out
 1 Snow-Covered Island
 1 Jace, the Mind Sculptor
 1 Life from the Loam
-1 Snuff Out
-2 Snuff Out
 1 Flusterstorm
 1 Brazen Borrower
 2 Preordain
@@ -46,8 +46,11 @@
 2 Watery Grave
 3 Death's Shadow
 4 Death's Shadow
+2 Spell Pierce
 1 Flooded Strand
 2 Flooded Strand
+1 Scalding Tarn
+2 Scalding Tarn
 1 Reanimate
 1 Darkblast
 1 Street Wraith
@@ -55,33 +58,26 @@
 2 Street Wraith
 3 Watery Grave
 3 Street Wraith
-2 Hymn to Tourach
-3 Hymn to Tourach
-1 Oko, Thief of Crowns
-2 Oko, Thief of Crowns
-4 Verdant Catacombs
+1 Sedgemoor Witch
+3 Chain of Smog
 2 Gurmag Angler
 4 Stifle
-1 Scalding Tarn
 1 Drown in the Loch
-2 Scalding Tarn
 2 Drown in the Loch
 3 Drown in the Loch
 1 Elvish Reclaimer
 2 Elvish Reclaimer
-2 Spell Pierce
-1 Assassin's Trophy
 1 Endurance
-1 Cling to Dust
+1 Assassin's Trophy
+1 Dismember
 1 Ethereal Forager
 1 Hullbreacher
 2 Hullbreacher
 1 Snapcaster Mage
 2 Flusterstorm
 2 Snapcaster Mage
-1 Sedgemoor Witch
-1 Dismember
-3 Chain of Smog
+2 Hymn to Tourach
+3 Hymn to Tourach
 1 Ignoble Hierarch
 2 Ignoble Hierarch
 3 Grist, the Hunger Tide
@@ -90,6 +86,10 @@
 3 Murktide Regent
 3 Snuff Out
 4 Murktide Regent
+1 Cling to Dust
+1 Oko, Thief of Crowns
+2 Oko, Thief of Crowns
+4 Verdant Catacombs
 2 Sylvan Library
 4 Tropical Island
 1 Spell Snare
@@ -105,6 +105,12 @@
 2 Scourge of the Skyclaves
 3 Elvish Reclaimer
 4 Elvish Reclaimer
+1 Swamp
+1 Island
+2 Sedgemoor Witch
+3 Sedgemoor Witch
+4 Sedgemoor Witch
+4 Chain of Smog
 1 Jolrael, Mwonvuli Recluse
 2 Jolrael, Mwonvuli Recluse
 3 Preordain

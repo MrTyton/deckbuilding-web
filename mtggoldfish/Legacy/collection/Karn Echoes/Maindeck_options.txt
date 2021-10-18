@@ -23,22 +23,24 @@
 4 Seat of the Synod
 4 Urza, Lord High Artificer
 1 Cavern of Souls
-2 Cavern of Souls
-2 Sai, Master Thopterist
 4 Basalt Monolith
 1 Tundra
+2 Cavern of Souls
+2 Sai, Master Thopterist
+2 Tundra
 1 Shadowspear
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 1 Mishra's Bauble
 1 Retrofitter Foundry
 3 Manifold Key
-1 Inventors' Fair
-1 Crystal Vein
-2 Tundra
 1 Snow-Covered Island
 2 Snow-Covered Island
 4 Urza's Bauble
+1 Snow-Covered Plains
+2 Snow-Covered Plains
+1 Inventors' Fair
+1 Crystal Vein
 1 Karakas
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
@@ -55,10 +57,6 @@
 1 Thought Monitor
 1 Dismember
 2 Thought Monitor
-1 Expedition Map
-2 Inventors' Fair
-1 Snow-Covered Plains
-2 Snow-Covered Plains
 2 Crystal Vein
 3 Snow-Covered Island
 4 Snow-Covered Island
@@ -69,6 +67,8 @@
 1 Flooded Strand
 1 Mox Diamond
 1 Polluted Delta
+1 Expedition Map
+2 Inventors' Fair
 1 Force of Will
 2 Force of Will
 1 Ghirapur Aether Grid
@@ -81,18 +81,6 @@
 4 Manifold Key
 3 Tundra
 4 Tundra
-1 Intuition
-2 Intuition
-2 Day's Undoing
-3 Day's Undoing
-3 Narset, Parter of Veils
-4 Chrome Mox
-4 Day's Undoing
-4 Narset, Parter of Veils
-5 Island
-6 Island
-7 Island
-8 Island
 1 Mountain
 1 Arid Mesa
 1 Brainstone
@@ -127,5 +115,17 @@
 4 Grindstone
 4 Gamble
 4 Goblin Welder
-5 Mountain
 4 Great Furnace
+5 Mountain
+1 Intuition
+2 Intuition
+2 Day's Undoing
+3 Day's Undoing
+3 Narset, Parter of Veils
+4 Chrome Mox
+4 Day's Undoing
+4 Narset, Parter of Veils
+5 Island
+6 Island
+8 Island
+7 Island

@@ -1,60 +1,53 @@
 2 Plains
 1 Hall of Storm Giants
 2 Scalding Tarn
+3 Chalice of the Void
+1 Castle Ardenvale
+3 Castle Vantress
 1 Field of Ruin
 2 Field of Ruin
-3 Chalice of the Void
-3 Castle Vantress
 1 Force of Negation
-1 Castle Ardenvale
-1 Steam Vents
-2 Force of Negation
+3 Glacial Fortress
 4 Mystic Gate
 1 Cryptic Command
+1 Steam Vents
+2 Force of Negation
 3 Scalding Tarn
 1 Snapcaster Mage
 2 Snapcaster Mage
-3 Glacial Fortress
-2 Celestial Colonnade
 2 Polluted Delta
+2 Celestial Colonnade
 1 Rest in Peace
 3 Misty Rainforest
 3 Teferi, Hero of Dominaria
 3 Shark Typhoon
 1 Snow-Covered Island
+2 Cryptic Command
+3 Polluted Delta
+1 Breeding Pool
 2 Jace, the Mind Sculptor
+3 Memory Deluge
+1 Sunset Revelry
 1 Stoneforge Mystic
 1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Scalding Tarn
-2 Cryptic Command
-3 Polluted Delta
-1 Breeding Pool
-1 Lightning Helix
-2 Lightning Helix
-3 Force of Negation
-1 Sword of Fire and Ice
-1 Lightning Bolt
-2 Steam Vents
-2 Lightning Bolt
-3 Memory Deluge
-1 Sunset Revelry
 1 Ketria Triome
-1 Sacred Foundry
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Lightning Bolt
-3 Ragavan, Nimble Pilferer
-4 Lightning Bolt
-1 Seachrome Coast
-1 Kaldra Compleat
 1 Snow-Covered Plains
 2 Snow-Covered Island
 3 Snow-Covered Island
-3 Snapcaster Mage
+1 Seachrome Coast
+1 Kaldra Compleat
 1 Watery Grave
+1 Sword of Fire and Ice
 4 Misty Rainforest
+1 Lightning Helix
+2 Lightning Helix
+3 Force of Negation
+1 Lightning Bolt
+2 Steam Vents
+2 Lightning Bolt
 1 Wrenn and Six
 1 Temple Garden
 1 Windswept Heath
@@ -75,20 +68,18 @@
 2 Hall of Storm Giants
 1 Fire/Ice
 2 Fire/Ice
-1 Faithful Mending
-1 Arid Mesa
-1 Brazen Borrower
-1 Mountain
-1 Electrolyze
-3 Lightning Helix
-3 Celestial Colonnade
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
+1 Sacred Foundry
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+3 Lightning Bolt
+3 Ragavan, Nimble Pilferer
+4 Lightning Bolt
 4 Polluted Delta
 1 Fact or Fiction
-1 Ajani Vengeant
-2 Faithful Mending
+3 Snapcaster Mage
 1 Fatal Push
 1 Damn
 1 Swamp
@@ -106,7 +97,6 @@
 3 Kaya's Guile
 3 Opt
 4 Opt
-1 Consider
 1 Dovin's Veto
 2 Dovin's Veto
 2 Sanctum Prelate
@@ -114,6 +104,14 @@
 1 Sulfur Falls
 2 Unholy Heat
 3 Unholy Heat
+1 Faithful Mending
+1 Arid Mesa
+1 Brazen Borrower
+1 Consider
+1 Mountain
+1 Electrolyze
+3 Lightning Helix
+3 Celestial Colonnade
 1 Spirebluff Canal
 1 Murktide Regent
 1 Path to Exile
@@ -124,8 +122,8 @@
 4 Ragavan, Nimble Pilferer
 3 Fire/Ice
 4 Fire/Ice
-1 Eternal Witness
 1 Glacial Floodplain
+1 Eternal Witness
 1 Reflecting Pool
 1 Endurance
 1 Ice-Fang Coatl
