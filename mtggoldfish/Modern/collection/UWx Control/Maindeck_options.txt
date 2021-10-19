@@ -1,34 +1,86 @@
 3 Castle Vantress
 4 Mystic Gate
 2 Misty Rainforest
+3 Teferi, Hero of Dominaria
+3 Chalice of the Void
 2 Glacial Fortress
 3 Memory Deluge
-3 Chalice of the Void
-3 Teferi, Hero of Dominaria
 3 Glacial Fortress
 1 Castle Ardenvale
+1 Cryptic Command
+2 Celestial Colonnade
+2 Scalding Tarn
 1 Breeding Pool
 1 Field of Ruin
 2 Field of Ruin
 1 Force of Negation
-1 Cryptic Command
-2 Polluted Delta
-2 Celestial Colonnade
-2 Scalding Tarn
-3 Polluted Delta
 2 Force of Negation
 2 Cryptic Command
-3 Shark Typhoon
+2 Polluted Delta
+3 Scalding Tarn
+1 Steam Vents
 2 Jace, the Mind Sculptor
-1 Snapcaster Mage
-2 Snapcaster Mage
 1 Rest in Peace
 3 Misty Rainforest
-1 Steam Vents
 1 Snow-Covered Island
-3 Scalding Tarn
-1 Dovin's Veto
-1 Ketria Triome
+3 Field of Ruin
+1 Ghost Quarter
+1 Flagstones of Trokair
+1 Path to Exile
+1 Speaker of the Heavens
+1 Skyclave Apparition
+1 Weathered Wayfarer
+1 Kami of False Hope
+1 Mistveil Plains
+1 Serra Ascendant
+1 Ranger of Eos
+1 Abiding Grace
+1 Wrath of God
+1 Squadron Hawk
+1 Emeria, the Sky Ruin
+1 Thraben Inspector
+1 Martyr of Sands
+1 Winds of Abandon
+1 Ranger-Captain of Eos
+1 Hope of Ghirapur
+2 Ghost Quarter
+2 Flagstones of Trokair
+2 Path to Exile
+2 Mistveil Plains
+2 Ranger of Eos
+2 Ranger-Captain of Eos
+2 Speaker of the Heavens
+2 Serra Ascendant
+2 Abiding Grace
+2 Thraben Inspector
+2 Martyr of Sands
+2 Skyclave Apparition
+2 Castle Ardenvale
+2 Winds of Abandon
+2 Squadron Hawk
+3 Plains
+3 Flagstones of Trokair
+3 Path to Exile
+3 Abiding Grace
+3 Squadron Hawk
+3 Ghost Quarter
+3 Ranger-Captain of Eos
+3 Martyr of Sands
+4 Path to Exile
+4 Squadron Hawk
+4 Plains
+4 Field of Ruin
+4 Ranger-Captain of Eos
+4 Martyr of Sands
+4 Ghost Quarter
+5 Plains
+6 Plains
+7 Plains
+4 Supreme Verdict
+1 Snapcaster Mage
+2 Snapcaster Mage
+3 Shark Typhoon
+3 Polluted Delta
 4 Polluted Delta
 1 Fact or Fiction
 1 Snow-Covered Plains
@@ -46,7 +98,24 @@
 3 Stoneforge Mystic
 4 Scalding Tarn
 3 Snapcaster Mage
-3 Field of Ruin
+1 Hex Parasite
+1 Lurrus of the Dream-Den
+1 Selfless Savior
+2 Lurrus of the Dream-Den
+3 Skyclave Apparition
+3 Speaker of the Heavens
+3 Serra Ascendant
+3 Ranger of Eos
+3 Thraben Inspector
+4 Abiding Grace
+4 Speaker of the Heavens
+8 Plains
+9 Plains
+10 Plains
+11 Plains
+12 Plains
+13 Plains
+14 Plains
 1 Fatal Push
 1 Damn
 1 Swamp
@@ -64,14 +133,17 @@
 3 Kaya's Guile
 3 Opt
 4 Opt
+1 Dovin's Veto
 1 Sunset Revelry
 2 Hall of Storm Giants
-2 Dovin's Veto
+1 Fire/Ice
+2 Fire/Ice
 1 Temple Garden
 1 Windswept Heath
 1 Forest
 1 Omnath, Locus of Creation
 1 Wrenn and Six
+1 Ketria Triome
 1 Irrigated Farmland
 2 Omnath, Locus of Creation
 2 Wrenn and Six
@@ -80,11 +152,11 @@
 1 Glacial Floodplain
 1 Eternal Witness
 1 Endurance
+1 Ice-Fang Coatl
+1 Reflecting Pool
 1 Rimewood Falls
 1 Flooded Grove
 1 Wall of Omens
-1 Reflecting Pool
-1 Ice-Fang Coatl
 2 Ephemerate
 2 Ice-Fang Coatl
 2 Flooded Grove
@@ -103,63 +175,10 @@
 3 Esper Sentinel
 4 Stoneforge Mystic
 4 Esper Sentinel
-4 Supreme Verdict
-2 Rest in Peace
 2 Snow-Covered Plains
+2 Rest in Peace
 4 Snow-Covered Island
 5 Snow-Covered Island
-1 Ghost Quarter
-1 Flagstones of Trokair
-1 Path to Exile
-1 Speaker of the Heavens
-1 Skyclave Apparition
-1 Weathered Wayfarer
-1 Kami of False Hope
-1 Mistveil Plains
-1 Serra Ascendant
-1 Ranger of Eos
-1 Abiding Grace
-1 Wrath of God
-1 Hope of Ghirapur
-1 Squadron Hawk
-1 Emeria, the Sky Ruin
-1 Thraben Inspector
-1 Martyr of Sands
-1 Winds of Abandon
-1 Ranger-Captain of Eos
-2 Ghost Quarter
-2 Flagstones of Trokair
-2 Path to Exile
-2 Mistveil Plains
-2 Ranger of Eos
-2 Abiding Grace
-2 Ranger-Captain of Eos
-2 Speaker of the Heavens
-2 Serra Ascendant
-2 Thraben Inspector
-2 Martyr of Sands
-2 Skyclave Apparition
-2 Castle Ardenvale
-2 Winds of Abandon
-2 Squadron Hawk
-3 Plains
-3 Flagstones of Trokair
-3 Path to Exile
-3 Abiding Grace
-3 Squadron Hawk
-3 Martyr of Sands
-3 Ranger-Captain of Eos
-3 Ghost Quarter
-4 Path to Exile
-4 Squadron Hawk
-4 Plains
-4 Field of Ruin
-4 Ranger-Captain of Eos
-4 Martyr of Sands
-4 Ghost Quarter
-5 Plains
-6 Plains
-7 Plains
 1 Faithful Mending
 1 Consider
 1 Brazen Borrower
@@ -172,8 +191,8 @@
 2 Ragavan, Nimble Pilferer
 2 Steam Vents
 2 Lightning Bolt
-3 Celestial Colonnade
 3 Lightning Bolt
 3 Lightning Helix
+3 Celestial Colonnade
 3 Ragavan, Nimble Pilferer
 4 Lightning Bolt

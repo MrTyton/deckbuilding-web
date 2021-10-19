@@ -25,8 +25,8 @@
 1 Lochmere Serpent
 1 Thing in the Ice
 1 Thoughtseize
-2 Thoughtseize
 2 Thing in the Ice
+2 Thoughtseize
 3 Thing in the Ice
 4 Thing in the Ice
 1 Languish
@@ -53,30 +53,11 @@
 3 Thoughtseize
 1 Temple of Deceit
 1 Collective Brutality
-1 Spell Pierce
 1 Ashiok, Nightmare Weaver
-1 Supreme Verdict
-1 Godless Shrine
-1 Hallowed Fountain
-1 Teferi, Hero of Dominaria
-1 Dovin's Veto
-1 Isolated Chapel
-1 Deserted Beach
-1 Shipwreck Marsh
-1 Glacial Fortress
-1 Absorb
-1 Plains
-2 Teferi, Hero of Dominaria
-2 Plains
-2 Supreme Verdict
-2 Hallowed Fountain
-2 Glacial Fortress
-2 Absorb
-3 Hallowed Fountain
-3 Glacial Fortress
-3 Absorb
-3 Supreme Verdict
-4 Hallowed Fountain
+1 Spell Pierce
+1 Jace, Vryn's Prodigy
+2 Jace, Vryn's Prodigy
+4 Dig Through Time
 3 Opt
 4 Opt
 2 Baleful Mastery
@@ -84,15 +65,34 @@
 2 Commit/Memory
 4 Sinister Sabotage
 4 Fetid Pools
+1 Deserted Beach
+1 Teferi, Hero of Dominaria
+1 Plains
+1 Absorb
+1 Supreme Verdict
+1 Godless Shrine
+1 Dovin's Veto
+1 Isolated Chapel
+1 Shipwreck Marsh
+1 Glacial Fortress
+1 Hallowed Fountain
+2 Teferi, Hero of Dominaria
+2 Absorb
+2 Supreme Verdict
+2 Plains
+2 Hallowed Fountain
+2 Glacial Fortress
+3 Glacial Fortress
+3 Absorb
+3 Supreme Verdict
+3 Hallowed Fountain
+4 Hallowed Fountain
 1 Go Blank
 1 Disallow
 2 Memory Deluge
 2 Disallow
 2 Go Blank
 4 Swamp
-4 Thoughtseize
 4 Heartless Act
 5 Swamp
-1 Jace, Vryn's Prodigy
-2 Jace, Vryn's Prodigy
-4 Dig Through Time
+4 Thoughtseize

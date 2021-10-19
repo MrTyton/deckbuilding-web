@@ -119,22 +119,22 @@
 4 Infernal Tutor
 4 Lion's Eye Diamond
 1 Counterspell
-1 Drowned Catacomb
 1 Mana Leak
 1 Watery Grave
 1 Daze
 1 Expedition Map
 1 Winter Orb
 1 Force Spike
+1 Drowned Catacomb
 1 Sinkhole
 1 Underground Sea
 1 Force of Will
 2 Counterspell
+2 Drowned Catacomb
 2 Daze
 2 Winter Orb
 2 Mana Leak
 2 Underground Sea
-2 Drowned Catacomb
 2 Watery Grave
 2 Sinkhole
 2 Expedition Map
@@ -154,7 +154,6 @@
 3 Sinkhole
 3 Expedition Map
 4 Daze
-4 Watery Grave
 4 Surgical Extraction
 4 Expedition Map
 4 Force Spike
@@ -162,6 +161,7 @@
 4 Drowned Catacomb
 4 Underground Sea
 4 Mana Leak
+4 Watery Grave
 1 Simian Spirit Guide
 2 Simian Spirit Guide
 3 Simian Spirit Guide
@@ -180,8 +180,8 @@
 3 Khalni Garden
 3 Cabal Therapy
 3 Stitcher's Supplier
-3 Hogaak, Arisen Necropolis
 3 Satyr Wayfinder
+3 Hogaak, Arisen Necropolis
 4 Stitcher's Supplier
 4 Cabal Therapy
 4 Hogaak, Arisen Necropolis
@@ -190,16 +190,16 @@
 3 Forest
 4 Forest
 5 Forest
-1 Tourach, Dread Cantor
-1 Castle Locthwain
 1 Liliana of the Veil
+1 Castle Locthwain
 1 Liliana, the Last Hope
 1 Dauthi Voidwalker
+1 Tourach, Dread Cantor
 1 Chrome Mox
 2 Liliana of the Veil
-2 Tourach, Dread Cantor
 2 Dauthi Voidwalker
 2 Liliana, the Last Hope
+2 Tourach, Dread Cantor
 2 Chrome Mox
 3 Liliana of the Veil
 3 Dauthi Voidwalker

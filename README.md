@@ -4,12 +4,12 @@
 
 # Standard
 
-|                                A                                 |                                 B                                  |                                   C                                    |                                 D                                  |
-|------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|
-|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Boros Aggro](./mtggoldfish/Standard/decks/Boros_Aggro.md)          |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)          |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|
-|[Azorius Tempo](./mtggoldfish/Standard/decks/Azorius_Tempo.md)    |[Bx Midrange](./mtggoldfish/Standard/decks/Bx_Midrange.md)          |[Mono-Black Aggro](./mtggoldfish/Standard/decks/Mono-Black_Aggro.md)    |[Rakdos Midrange](./mtggoldfish/Standard/decks/Rakdos_Midrange.md)  |
-|[Bant Ramp](./mtggoldfish/Standard/decks/Bant_Ramp.md)            |[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)      |[Mono-Black Zombies](./mtggoldfish/Standard/decks/Mono-Black_Zombies.md)|[Ramp](./mtggoldfish/Standard/decks/Ramp.md)                        |
-|[Blue Tempo](./mtggoldfish/Standard/decks/Blue_Tempo.md)          |[Gruul Werewolves](./mtggoldfish/Standard/decks/Gruul_Werewolves.md)|[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)    |[Sultai Ramp](./mtggoldfish/Standard/decks/Sultai_Ramp.md)          |
+|                                A                                 |                                 B                                  |                                   C                                    |                                D                                 |
+|------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------|
+|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Bx Midrange](./mtggoldfish/Standard/decks/Bx_Midrange.md)          |[Mono-Black Aggro](./mtggoldfish/Standard/decks/Mono-Black_Aggro.md)    |[Rakdos Midrange](./mtggoldfish/Standard/decks/Rakdos_Midrange.md)|
+|[Azorius Tempo](./mtggoldfish/Standard/decks/Azorius_Tempo.md)    |[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)      |[Mono-Green Aggro ❄](./mtggoldfish/Standard/decks/Mono-Green_Aggro_❄.md)|[Rakdos Vampires](./mtggoldfish/Standard/decks/Rakdos_Vampires.md)|
+|[Bant Ramp](./mtggoldfish/Standard/decks/Bant_Ramp.md)            |[Gruul Werewolves](./mtggoldfish/Standard/decks/Gruul_Werewolves.md)|[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)    |[Ramp](./mtggoldfish/Standard/decks/Ramp.md)                      |
+|[Blue Tempo](./mtggoldfish/Standard/decks/Blue_Tempo.md)          |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)      |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)    |[Sultai Ramp](./mtggoldfish/Standard/decks/Sultai_Ramp.md)        |
 
 
 # Historic
@@ -24,13 +24,13 @@
 
 # Pioneer
 
-|                              A                              |                                 B                                 |                                  C                                  |                      D                      |                    E                    |
-|-------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------|-----------------------------------------|
-|[BRG](./mtggoldfish/Pioneer/decks/BRG.md)                    |[G](./mtggoldfish/Pioneer/decks/G.md)                              |[Naya Winota](./mtggoldfish/Pioneer/decks/Naya_Winota.md)            |[UBRG](./mtggoldfish/Pioneer/decks/UBRG.md)  |[WUR](./mtggoldfish/Pioneer/decks/WUR.md)|
-|[B](./mtggoldfish/Pioneer/decks/B.md)                        |[Hidden Strings](./mtggoldfish/Pioneer/decks/Hidden_Strings.md)    |[Niv to Light](./mtggoldfish/Pioneer/decks/Niv_to_Light.md)          |[UR](./mtggoldfish/Pioneer/decks/UR.md)      |[WU](./mtggoldfish/Pioneer/decks/WU.md)  |
-|[Burn](./mtggoldfish/Pioneer/decks/Burn.md)                  |[Izzet Phoenix](./mtggoldfish/Pioneer/decks/Izzet_Phoenix.md)      |[RG](./mtggoldfish/Pioneer/decks/RG.md)                              |[WB](./mtggoldfish/Pioneer/decks/WB.md)      |                                         |
-|[Dimir Control](./mtggoldfish/Pioneer/decks/Dimir_Control.md)|[Mono-Black Aggro](./mtggoldfish/Pioneer/decks/Mono-Black_Aggro.md)|[Rakdos Pyromancer](./mtggoldfish/Pioneer/decks/Rakdos_Pyromancer.md)|[WUBRG](./mtggoldfish/Pioneer/decks/WUBRG.md)|                                         |
-|[Encantado](./mtggoldfish/Pioneer/decks/Encantado.md)        |[Mono-Red Aggro](./mtggoldfish/Pioneer/decks/Mono-Red_Aggro.md)    |[Spirits](./mtggoldfish/Pioneer/decks/Spirits.md)                    |[WURG](./mtggoldfish/Pioneer/decks/WURG.md)  |                                         |
+|                              A                              |                                 B                                 |                                  C                                  |                      D                      |                   E                   |
+|-------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------|---------------------------------------|
+|[BRG](./mtggoldfish/Pioneer/decks/BRG.md)                    |[G](./mtggoldfish/Pioneer/decks/G.md)                              |[Naya Winota](./mtggoldfish/Pioneer/decks/Naya_Winota.md)            |[UR](./mtggoldfish/Pioneer/decks/UR.md)      |[WU](./mtggoldfish/Pioneer/decks/WU.md)|
+|[B](./mtggoldfish/Pioneer/decks/B.md)                        |[Hidden Strings](./mtggoldfish/Pioneer/decks/Hidden_Strings.md)    |[Niv to Light](./mtggoldfish/Pioneer/decks/Niv_to_Light.md)          |[WB](./mtggoldfish/Pioneer/decks/WB.md)      |                                       |
+|[Burn](./mtggoldfish/Pioneer/decks/Burn.md)                  |[Izzet Phoenix](./mtggoldfish/Pioneer/decks/Izzet_Phoenix.md)      |[RG](./mtggoldfish/Pioneer/decks/RG.md)                              |[WUBRG](./mtggoldfish/Pioneer/decks/WUBRG.md)|                                       |
+|[Dimir Control](./mtggoldfish/Pioneer/decks/Dimir_Control.md)|[Mono-Black Aggro](./mtggoldfish/Pioneer/decks/Mono-Black_Aggro.md)|[Rakdos Pyromancer](./mtggoldfish/Pioneer/decks/Rakdos_Pyromancer.md)|[WURG](./mtggoldfish/Pioneer/decks/WURG.md)  |                                       |
+|[Encantado](./mtggoldfish/Pioneer/decks/Encantado.md)        |[Mono-Red Aggro](./mtggoldfish/Pioneer/decks/Mono-Red_Aggro.md)    |[Spirits](./mtggoldfish/Pioneer/decks/Spirits.md)                    |[WUR](./mtggoldfish/Pioneer/decks/WUR.md)    |                                       |
 
 
 # Modern
@@ -67,4 +67,4 @@
 
 
 
-#### Last Updated at 12:23AM on October 19, 2021
+#### Last Updated at 12:23PM on October 19, 2021

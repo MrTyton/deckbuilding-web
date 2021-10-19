@@ -42,7 +42,7 @@
 |                    2|[Endurance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522233)             |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)    |
 |                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)      |                    2|[Klothys, God of Destiny](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476471)|
 |                    4|[Bloodbraid Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185053)        |                    2|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)        |
-|                     |                                                                                                 |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)    |
 |                     |                                                                                                 |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)    |
 |                     |                                                                                                 |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)    |
+|                     |                                                                                                 |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)    |
 
