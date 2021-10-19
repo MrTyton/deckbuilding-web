@@ -1,5 +1,11 @@
-4 Stoneforge Mystic
+1 Polluted Delta
+3 Mystic Gate
 2 Plains
+1 Stoneforge Mystic
+1 Kaldra Compleat
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+4 Stoneforge Mystic
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
@@ -18,8 +24,8 @@
 1 Metallic Rebuke
 1 Portable Hole
 1 Seachrome Coast
-2 Thought Monitor
 2 Seachrome Coast
+2 Thought Monitor
 2 Mishra's Bauble
 2 Ingenious Smith
 2 Metallic Rebuke
@@ -36,24 +42,22 @@
 4 Ingenious Smith
 4 Razortide Bridge
 2 Hengegate Pathway
-4 Portable Hole
-4 Metallic Rebuke
 3 Misty Rainforest
-2 Omen of the Sea
 3 Force of Negation
 2 Brazen Borrower
-1 Dovin's Veto
-2 Scalding Tarn
+3 Omen of the Sea
+4 Portable Hole
+4 Metallic Rebuke
+2 Memory Deluge
 1 Urza, Lord High Artificer
 1 Pithing Needle
 2 Urza, Lord High Artificer
 3 Thought Monitor
+4 Omen of the Sea
 3 Urza, Lord High Artificer
 4 Urza, Lord High Artificer
 1 Darksteel Citadel
-1 Polluted Delta
-3 Mystic Gate
-1 Memory Deluge
+1 Teferi, Hero of Dominaria
 1 Aether Spellbomb
 1 Thopter Foundry
 1 Sword of the Meek
@@ -69,10 +73,11 @@
 2 Springleaf Drum
 3 Thopter Foundry
 3 Vendilion Clique
-3 Omen of the Sea
+1 Hall of Storm Giants
+2 Teferi, Hero of Dominaria
+3 Memory Deluge
 4 Force of Negation
 1 Steam Vents
-2 Memory Deluge
 1 Path to Exile
 2 Path to Exile
 3 Hallowed Fountain
@@ -83,19 +88,18 @@
 3 Fire/Ice
 4 Fire/Ice
 2 Dovin's Veto
-4 Omen of the Sea
+3 Scalding Tarn
 1 Skyclave Apparition
 2 Skyclave Apparition
 3 Skyclave Apparition
-3 Scalding Tarn
+1 Yorion, Sky Nomad
 1 Soul-Guide Lantern
-1 Teferi, Hero of Dominaria
 2 Cavern of Souls
 1 Thalia's Lieutenant
 1 Champion of the Parish
 1 Thalia, Guardian of Thraben
-2 Champion of the Parish
 2 Thalia, Guardian of Thraben
+2 Champion of the Parish
 2 Thalia's Lieutenant
 3 Champion of the Parish
 3 Thalia, Guardian of Thraben
@@ -123,8 +127,8 @@
 2 Unsettled Mariner
 2 Sanctifier en-Vec
 2 On Thin Ice
-2 Phantasmal Image
 2 Meddling Mage
+2 Phantasmal Image
 3 Snow-Covered Plains
 3 Unsettled Mariner
 3 Sanctifier en-Vec
@@ -137,16 +141,18 @@
 4 Thought Monitor
 1 Sacred Foundry
 1 Subtlety
-1 Yorion, Sky Nomad
 2 Yorion, Sky Nomad
 3 Hengegate Pathway
+1 Breeding Pool
+3 Castle Vantress
+4 Mystic Gate
+4 Memory Deluge
+4 Castle Vantress
 3 Dovin's Veto
 4 Misty Rainforest
+1 Cryptic Command
 6 Island
 1 Shark Typhoon
-1 Hall of Storm Giants
-2 Teferi, Hero of Dominaria
-3 Memory Deluge
 3 Cavern of Souls
 4 Cavern of Souls
 1 Luminarch Aspirant
@@ -167,23 +173,22 @@
 2 Nettlecyst
 2 Dispatch
 3 Nettlecyst
-1 Intrepid Adversary
 1 Mutavault
+1 Intrepid Adversary
 2 Mutavault
 2 Intrepid Adversary
 3 Thraben Inspector
+3 Mutavault
 3 Path to Exile
 3 Intrepid Adversary
-3 Mutavault
 4 Path to Exile
 4 Intrepid Adversary
 9 Plains
 1 Ketria Triome
-1 Cryptic Command
 2 Raugrin Triome
+1 Blast Zone
 1 Batterskull
 1 Sword of Feast and Famine
-1 Blast Zone
 4 Skyclave Apparition
 4 Dovin's Veto
 1 Jace, the Mind Sculptor
@@ -198,8 +203,8 @@
 1 Horizon Canopy
 2 Horizon Canopy
 3 Horizon Canopy
-4 Horizon Canopy
 4 Mutavault
+4 Horizon Canopy
 1 Castle Ardenvale
 1 Ghost Quarter
 1 Declaration in Stone
@@ -210,11 +215,11 @@
 1 Brave the Elements
 1 Soldier of the Pantheon
 2 Ghost Quarter
-2 Declaration in Stone
 2 Soldier of the Pantheon
 2 Kytheon, Hero of Akros
 2 Mardu Woe-Reaper
 2 Tithe Taker
+2 Declaration in Stone
 2 Brave the Elements
 2 Giant Killer
 3 Mardu Woe-Reaper
@@ -223,5 +228,5 @@
 3 Soldier of the Pantheon
 3 Kytheon, Hero of Akros
 4 Silent Clearing
-4 Brave the Elements
 10 Plains
+4 Brave the Elements

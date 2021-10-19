@@ -1,13 +1,20 @@
-2 Snuff Out
-1 Bloodstained Mire
 1 Stifle
 2 Stifle
 3 Stifle
+2 Snuff Out
+1 Bloodstained Mire
 2 Brazen Borrower
 1 Darkblast
-2 Misty Rainforest
 1 Gurmag Angler
 2 Gurmag Angler
+3 Scalding Tarn
+1 Lightning Bolt
+1 Volcanic Island
+2 Lightning Bolt
+2 Misty Rainforest
+2 Volcanic Island
+3 Lightning Bolt
+4 Scalding Tarn
 3 Thoughtseize
 1 Street Wraith
 1 Death's Shadow
@@ -18,19 +25,12 @@
 3 Street Wraith
 3 Death's Shadow
 4 Death's Shadow
-3 Scalding Tarn
-1 Volcanic Island
-1 Lightning Bolt
-2 Lightning Bolt
+4 Lightning Bolt
+3 Gurmag Angler
 3 Flooded Strand
 3 Watery Grave
-3 Gurmag Angler
 4 Thoughtseize
 4 Street Wraith
-2 Volcanic Island
-3 Lightning Bolt
-4 Scalding Tarn
-4 Lightning Bolt
 1 Dauthi Voidwalker
 2 Dauthi Voidwalker
 3 Dauthi Voidwalker
@@ -40,73 +40,74 @@
 4 Watery Grave
 4 Stifle
 1 Reanimate
+1 Snow-Covered Island
+1 Young Pyromancer
+2 Young Pyromancer
+3 Volcanic Island
 1 Fiery Islet
 1 Terminate
 3 Snuff Out
 1 Murderous Cut
-1 Snow-Covered Island
 2 Snow-Covered Island
 4 Underground Sea
 2 Verdant Catacombs
-1 Young Pyromancer
-2 Young Pyromancer
-3 Volcanic Island
-1 Dark Ritual
+2 Force of Negation
+1 Expressive Iteration
+2 Expressive Iteration
 1 Badlands
 1 Spell Pierce
-1 Cabal Therapy
 1 Buried Alive
 1 Arclight Phoenix
+1 Cabal Therapy
 1 Opposition Agent
+1 Dark Ritual
 1 Demilich
-2 Dark Ritual
 2 Arclight Phoenix
 2 Buried Alive
+2 Dark Ritual
 2 Opposition Agent
-3 Dark Ritual
 3 Buried Alive
 3 Arclight Phoenix
-4 Dark Ritual
+3 Dark Ritual
 4 Buried Alive
 4 Arclight Phoenix
+4 Dark Ritual
 1 Unearth
 1 Piracy Charm
-1 Prismatic Vista
 1 Dismember
+1 Prismatic Vista
 2 Swamp
 1 Snapcaster Mage
 2 Drown in the Loch
-1 Stubborn Denial
-2 Inquisition of Kozilek
-3 Inquisition of Kozilek
+1 Hullbreacher
+3 Expressive Iteration
 1 Jace, the Mind Sculptor
 3 Young Pyromancer
 1 Flusterstorm
 3 True-Name Nemesis
+1 Stubborn Denial
+2 Inquisition of Kozilek
+3 Inquisition of Kozilek
 1 Grief
-2 Reanimate
 2 Grief
+2 Reanimate
 3 Grief
 3 Reanimate
-4 Murktide Regent
 1 Snow-Covered Swamp
 1 Liliana, the Last Hope
-2 Force of Negation
 3 Misty Rainforest
 4 Misty Rainforest
 4 Fatal Push
-1 Ragavan, Nimble Pilferer
-1 Expressive Iteration
 1 Steam Vents
 1 Dragon's Rage Channeler
+1 Ragavan, Nimble Pilferer
 2 Steam Vents
-2 Ragavan, Nimble Pilferer
-2 Expressive Iteration
 2 Dragon's Rage Channeler
-3 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
 3 Dragon's Rage Channeler
-4 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
 4 Dragon's Rage Channeler
+4 Ragavan, Nimble Pilferer
 1 Marsh Flats
 2 Marsh Flats
 3 Marsh Flats
@@ -114,3 +115,4 @@
 4 Marsh Flats
 4 Verdant Catacombs
 4 Gurmag Angler
+4 Murktide Regent

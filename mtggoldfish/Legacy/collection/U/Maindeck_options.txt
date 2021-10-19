@@ -2,9 +2,9 @@
 2 Island
 1 Cunning Wish
 1 Preordain
-1 Turnabout
 1 Ponder
 1 Brainstorm
+1 Turnabout
 1 Intuition
 1 Time Spiral
 1 Merchant Scroll
@@ -18,18 +18,18 @@
 2 Turnabout
 2 Merchant Scroll
 3 Cunning Wish
-3 Island
-3 Preordain
 3 Ponder
 3 Brainstorm
+3 Preordain
+3 Island
 3 High Tide
 3 Time Spiral
 3 Merchant Scroll
 3 Turnabout
-4 Island
-4 Preordain
 4 Brainstorm
 4 Ponder
+4 Preordain
+4 Island
 4 Time Spiral
 4 Merchant Scroll
 4 High Tide
@@ -76,8 +76,8 @@
 3 Force of Negation
 1 Mystic Sanctuary
 1 Brain Freeze
-1 Counterspell
 1 Meditate
+1 Counterspell
 1 Candelabra of Tawnos
 2 Misty Rainforest
 2 Meditate

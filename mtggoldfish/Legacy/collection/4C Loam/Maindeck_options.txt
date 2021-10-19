@@ -1,27 +1,27 @@
 2 Misty Rainforest
 1 Swamp
 2 Uro, Titan of Nature's Wrath
-4 Knight of the Reliquary
-1 Underground Sea
-1 Zagoth Triome
 1 Endurance
-3 Green Sun's Zenith
+4 Knight of the Reliquary
 1 Prismatic Ending
 2 Prismatic Ending
-1 Snow-Covered Forest
+1 Zagoth Triome
 3 Prismatic Ending
+3 Green Sun's Zenith
+1 Taiga
+1 Punishing Fire
+1 Grove of the Burnwillows
+2 Punishing Fire
+2 Grove of the Burnwillows
+1 Underground Sea
+1 Urza's Saga
 1 Barren Moor
 1 Gaddock Teeg
-1 Taiga
-1 Grove of the Burnwillows
-1 Punishing Fire
-2 Grove of the Burnwillows
-2 Punishing Fire
-2 Tropical Island
-1 Urza's Saga
+1 Snow-Covered Forest
 3 Misty Rainforest
 3 Windswept Heath
 4 Green Sun's Zenith
+2 Tropical Island
 1 Snow-Covered Plains
 1 Birds of Paradise
 4 Misty Rainforest
@@ -36,8 +36,8 @@
 2 Force of Will
 3 Force of Will
 4 Force of Will
-1 Pithing Needle
 1 Retrofitter Foundry
+1 Pithing Needle
 2 Urza's Saga
 1 Prismatic Vista
 1 Ice-Fang Coatl
@@ -58,36 +58,28 @@
 4 Ice-Fang Coatl
 4 Urza's Saga
 1 Yavimaya, Cradle of Growth
-1 Baleful Strix
-2 Baleful Strix
 1 Renegade Rallier
 2 Renegade Rallier
 1 Elvish Reclaimer
 1 Grist, the Hunger Tide
-3 Uro, Titan of Nature's Wrath
-1 Field of the Dead
-1 Waterlogged Grove
-1 Tireless Provisioner
-1 Masked Vandal
-2 Tireless Provisioner
-3 Renegade Rallier
-4 Birds of Paradise
-1 Liliana, the Last Hope
-1 Plague Engineer
-2 Plague Engineer
-1 Oko, Thief of Crowns
-2 Oko, Thief of Crowns
-2 Elvish Reclaimer
-1 Ramunap Excavator
-1 Flooded Strand
-3 Elvish Reclaimer
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
 1 Dack Fayden
 1 Volcanic Island
+3 Uro, Titan of Nature's Wrath
+1 Waterlogged Grove
+1 Field of the Dead
+1 Tireless Provisioner
+1 Masked Vandal
+2 Tireless Provisioner
+3 Renegade Rallier
+4 Birds of Paradise
 1 Wooded Foothills
+1 Liliana, the Last Hope
+1 Plague Engineer
+2 Plague Engineer
 1 Plateau
 1 Barbarian Ring
 1 Hullbreacher
@@ -97,10 +89,18 @@
 2 Dack Fayden
 2 Hullbreacher
 2 Expressive Iteration
-3 Liliana of the Veil
-1 Badlands
-1 Klothys, God of Destiny
+2 Elvish Reclaimer
+1 Baleful Strix
+2 Baleful Strix
+1 Flooded Strand
 2 Wooded Foothills
+3 Elvish Reclaimer
+3 Liliana of the Veil
+1 Oko, Thief of Crowns
+2 Oko, Thief of Crowns
+1 Badlands
+1 Ramunap Excavator
+1 Klothys, God of Destiny
 2 Flooded Strand
 1 Ghost Quarter
 1 Dark Depths
@@ -120,16 +120,15 @@
 1 Indatha Triome
 1 Marsh Flats
 2 Leovold, Emissary of Trest
-2 Tranquil Thicket
 1 Savai Triome
 1 Exploration
 1 The Tabernacle at Pendrell Vale
 2 Exploration
-3 Life from the Loam
 3 Exploration
+3 Life from the Loam
 1 Island
-3 Grove of the Burnwillows
 3 Punishing Fire
+3 Grove of the Burnwillows
 2 Savannah
 1 Collector Ouphe
 1 Tarmogoyf
@@ -151,10 +150,11 @@
 3 Thalia, Guardian of Thraben
 1 Ketria Triome
 1 Vindicate
+2 Tranquil Thicket
 1 Force of Negation
 1 Spell Pierce
-2 Spell Pierce
 2 Underground Sea
+2 Spell Pierce
 2 Force of Negation
 1 Expedition Map
 1 Flagstones of Trokair
@@ -162,14 +162,13 @@
 2 Flagstones of Trokair
 1 Valakut Exploration
 2 Valakut Exploration
-1 Raugrin Triome
 1 Teferi, Time Raveler
 1 Council's Judgment
 1 Elvish Spirit Guide
+1 Raugrin Triome
 1 Omnath, Locus of Creation
 2 Elvish Spirit Guide
 3 Elvish Spirit Guide
-3 Oko, Thief of Crowns
 1 Horizon Canopy
 1 Vesuva
 1 Brazen Borrower

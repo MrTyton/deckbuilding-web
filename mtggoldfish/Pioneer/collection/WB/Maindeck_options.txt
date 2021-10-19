@@ -1,10 +1,11 @@
-2 Castle Locthwain
+2 Swamp
 3 Isolated Chapel
 4 Isolated Chapel
+3 Swamp
+1 Urborg, Tomb of Yawgmoth
 1 Cryptbreaker
 1 Dark Salvation
 1 Wayward Servant
-1 Urborg, Tomb of Yawgmoth
 1 Rally the Ancestors
 1 Diregraf Colossus
 1 Champion of the Perished
@@ -22,7 +23,6 @@
 2 Champion of the Perished
 2 Rally the Ancestors
 2 Stitcher's Supplier
-3 Swamp
 3 Corpse Knight
 3 Cryptbreaker
 3 Liliana, Untouched by Death
@@ -32,72 +32,71 @@
 3 Champion of the Perished
 3 Stitcher's Supplier
 3 Diregraf Colossus
+4 Swamp
 4 Dark Salvation
+4 Cryptbreaker
 4 Rally the Ancestors
 4 Stitcher's Supplier
 4 Corpse Knight
 4 Wayward Servant
-4 Swamp
-4 Cryptbreaker
 4 Champion of the Perished
 5 Swamp
 3 Castle Locthwain
-3 Stonecoil Serpent
-4 Stonecoil Serpent
-1 Selfless Savior
 1 Thoughtseize
 2 Thoughtseize
 4 Plains
-2 Selfless Savior
-1 Apostle of Purifying Light
-2 Apostle of Purifying Light
-3 Apostle of Purifying Light
-1 Rotten Reunion
-3 Lazotep Reaver
-4 Sentinel's Eyes
-1 Emeria's Call
-1 Oath of Kaya
-1 Rite of Oblivion
-1 Go Blank
-1 Yorion, Sky Nomad
-1 Cave of the Frost Dragon
-1 Thraben Inspector
+3 Stonecoil Serpent
+4 Stonecoil Serpent
+1 Selfless Savior
 1 Castle Ardenvale
+1 Thraben Inspector
+1 Hive of the Eye Tyrant
+1 Emeria's Call
+1 Yorion, Sky Nomad
+1 Go Blank
 1 Elspeth, Sun's Nemesis
 1 Treacherous Blessing
 1 Trial of Ambition
 1 Fatal Push
 1 Fabled Passage
-1 Hive of the Eye Tyrant
+1 Oath of Kaya
+1 Rite of Oblivion
 1 The Birth of Meletis
-2 Emeria's Call
-2 Elspeth, Sun's Nemesis
-2 Rite of Oblivion
-2 Go Blank
 2 Thraben Inspector
 2 Yorion, Sky Nomad
-2 Trial of Ambition
-2 Fatal Push
-2 Oath of Kaya
-2 The Birth of Meletis
+2 Elspeth, Sun's Nemesis
 2 Hive of the Eye Tyrant
+2 Go Blank
+2 Trial of Ambition
+2 Emeria's Call
+2 Fatal Push
+2 The Birth of Meletis
+2 Rite of Oblivion
 2 Fabled Passage
 2 Treacherous Blessing
+3 Thraben Inspector
 3 Thoughtseize
 3 Rite of Oblivion
-3 Thraben Inspector
 3 Treacherous Blessing
 3 The Birth of Meletis
 3 Fabled Passage
 3 Trial of Ambition
 3 Fatal Push
-3 Oath of Kaya
-4 Thoughtseize
+4 Fabled Passage
 4 Thraben Inspector
+4 Thoughtseize
 4 Fatal Push
 4 Trial of Ambition
-4 Fabled Passage
 4 Rite of Oblivion
+2 Selfless Savior
+1 Apostle of Purifying Light
+2 Apostle of Purifying Light
+1 Cave of the Frost Dragon
+2 Oath of Kaya
+3 Oath of Kaya
+3 Apostle of Purifying Light
+1 Rotten Reunion
+3 Lazotep Reaver
 1 Lolth, Spider Queen
 1 Kaya's Wrath
 1 Power Word Kill
@@ -109,13 +108,11 @@
 3 Omen of the Sun
 3 Kaya's Wrath
 4 Treacherous Blessing
-1 Hushbringer
-2 Hushbringer
-4 Karametra's Blessing
+4 Sentinel's Eyes
 1 Heartless Act
+1 Indatha Triome
 1 Basilica Bell-Haunt
 1 Doom Foretold
-1 Indatha Triome
 1 Elspeth Conquers Death
 2 Heartless Act
 2 Basilica Bell-Haunt
@@ -123,12 +120,17 @@
 3 Basilica Bell-Haunt
 4 Basilica Bell-Haunt
 4 The Birth of Meletis
+1 Hushbringer
+2 Hushbringer
+4 Karametra's Blessing
+1 Field of Ruin
+4 Omen of the Sun
 1 Adanto Vanguard
 2 Adanto Vanguard
+6 Swamp
+7 Swamp
+8 Swamp
 1 Favored Hoplite
 2 Favored Hoplite
 3 Favored Hoplite
 4 Favored Hoplite
-6 Swamp
-7 Swamp
-8 Swamp

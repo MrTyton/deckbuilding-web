@@ -1,19 +1,19 @@
+1 Emry, Lurker of the Loch
 1 Chalice of the Void
 1 Hullbreacher
 1 Urza, Lord High Artificer
 2 Urza, Lord High Artificer
+2 Emry, Lurker of the Loch
 2 Chalice of the Void
 2 Hullbreacher
 3 Urza, Lord High Artificer
+3 Emry, Lurker of the Loch
 3 Hullbreacher
 3 Chalice of the Void
 4 Chalice of the Void
-1 Emry, Lurker of the Loch
-2 Emry, Lurker of the Loch
-3 Emry, Lurker of the Loch
-4 Hullbreacher
 1 Sai, Master Thopterist
 4 Emry, Lurker of the Loch
+4 Hullbreacher
 1 Seat of the Synod
 2 Seat of the Synod
 3 Seat of the Synod
@@ -22,23 +22,23 @@
 3 Urza's Bauble
 4 Seat of the Synod
 4 Urza, Lord High Artificer
-1 Cavern of Souls
 4 Basalt Monolith
 1 Tundra
+1 Cavern of Souls
+2 Tundra
 2 Cavern of Souls
 2 Sai, Master Thopterist
-2 Tundra
 1 Shadowspear
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
 1 Mishra's Bauble
 1 Retrofitter Foundry
+1 Snow-Covered Plains
+2 Snow-Covered Plains
 3 Manifold Key
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
 1 Snow-Covered Island
 2 Snow-Covered Island
 4 Urza's Bauble
-1 Snow-Covered Plains
-2 Snow-Covered Plains
 1 Inventors' Fair
 1 Crystal Vein
 1 Karakas
@@ -47,6 +47,12 @@
 1 Minamo, School at Water's Edge
 2 Mishra's Bauble
 3 Mishra's Bauble
+1 Thought Monitor
+1 Dismember
+2 Thought Monitor
+2 Crystal Vein
+3 Snow-Covered Island
+4 Snow-Covered Island
 1 Chrome Mox
 1 Sea Gate Restoration
 2 Chrome Mox
@@ -54,12 +60,6 @@
 3 Chrome Mox
 3 Sea Gate Restoration
 4 Sea Gate Restoration
-1 Thought Monitor
-1 Dismember
-2 Thought Monitor
-2 Crystal Vein
-3 Snow-Covered Island
-4 Snow-Covered Island
 1 Volcanic Island
 2 Volcanic Island
 1 Day's Undoing
@@ -67,10 +67,10 @@
 1 Flooded Strand
 1 Mox Diamond
 1 Polluted Delta
-1 Expedition Map
-2 Inventors' Fair
 1 Force of Will
 2 Force of Will
+1 Expedition Map
+2 Inventors' Fair
 1 Ghirapur Aether Grid
 1 Scalding Tarn
 2 Scalding Tarn
@@ -115,17 +115,5 @@
 4 Grindstone
 4 Gamble
 4 Goblin Welder
-4 Great Furnace
 5 Mountain
-1 Intuition
-2 Intuition
-2 Day's Undoing
-3 Day's Undoing
-3 Narset, Parter of Veils
-4 Chrome Mox
-4 Day's Undoing
-4 Narset, Parter of Veils
-5 Island
-6 Island
-8 Island
-7 Island
+4 Great Furnace

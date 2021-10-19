@@ -2,46 +2,48 @@
 4 Lightning Bolt
 1 Graven Cairns
 1 Shizo, Death's Storehouse
+2 Kaya's Guile
 2 Graven Cairns
 1 Den of the Bugbear
 2 Den of the Bugbear
-2 Kaya's Guile
-3 Den of the Bugbear
-1 Arid Mesa
 2 Godless Shrine
+3 Den of the Bugbear
 4 Marsh Flats
-1 Fatal Push
+1 Arid Mesa
 1 Plains
+1 Fatal Push
 1 Shinka, the Bloodsoaked Keep
 4 Thoughtseize
 1 Sunbaked Canyon
 1 Silent Clearing
-4 Blood Crypt
-1 Urborg, Tomb of Yawgmoth
 1 Concealed Courtyard
+1 Urborg, Tomb of Yawgmoth
+4 Blood Crypt
 2 Fatal Push
 4 Prismatic Ending
 1 Stoneforge Mystic
 1 Kaldra Compleat
 2 Stoneforge Mystic
 3 Stoneforge Mystic
-3 Fatal Push
 1 Batterskull
 2 Concealed Courtyard
-1 Snow-Covered Swamp
+3 Fatal Push
 4 Stoneforge Mystic
-2 Arid Mesa
-1 Verdant Catacombs
-1 Polluted Delta
+1 Snow-Covered Swamp
 1 Castle Locthwain
-1 Snow-Covered Mountain
+1 Verdant Catacombs
 1 Damn
+2 Arid Mesa
+1 Polluted Delta
+1 Sword of Fire and Ice
+1 Snow-Covered Mountain
+3 Concealed Courtyard
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
-3 Concealed Courtyard
-1 Persist
+1 Indatha Triome
 1 Unmarked Grave
 1 Archon of Cruelty
+1 Persist
 2 Archon of Cruelty
 2 Unmarked Grave
 2 Persist
@@ -53,7 +55,6 @@
 1 Priest of Fell Rites
 2 Priest of Fell Rites
 3 Priest of Fell Rites
-1 Indatha Triome
 1 Serra's Emissary
 1 Unburial Rites
 1 Ephemerate
@@ -65,21 +66,20 @@
 4 Grief
 4 Ephemerate
 4 Archon of Cruelty
+1 Liliana of the Veil
+2 Liliana of the Veil
+3 Swamp
 3 Seasoned Pyromancer
-1 Sword of Fire and Ice
 1 Collective Brutality
 2 Verdant Catacombs
 1 Kaya, Orzhov Usurper
 1 Lingering Souls
 2 Lingering Souls
-1 Liliana of the Veil
-2 Liliana of the Veil
 2 Polluted Delta
 1 Watery Grave
 1 Hallowed Fountain
 1 Flooded Strand
 2 Damn
-3 Swamp
 1 Teferi, Time Raveler
 1 Island
 2 Teferi, Time Raveler
@@ -91,12 +91,13 @@
 1 Overgrown Tomb
 1 Temple Garden
 2 Flooded Strand
+3 Liliana of the Veil
 1 Savai Triome
+1 Shambling Vent
 2 Kaya, Orzhov Usurper
 1 Forest
 2 Overgrown Tomb
 3 Verdant Catacombs
-1 Shambling Vent
 3 Lingering Souls
 1 Tarmogoyf
 1 Blooming Marsh
@@ -107,32 +108,31 @@
 2 Grist, the Hunger Tide
 1 Bone Shards
 2 Bone Shards
-1 Windswept Heath
 4 Seasoned Pyromancer
-3 Liliana of the Veil
+1 Windswept Heath
 3 Polluted Delta
 2 Watery Grave
-4 Verdant Catacombs
+1 Vindicate
 1 Dakkon, Shadow Slayer
+4 Verdant Catacombs
+2 Tourach, Dread Cantor
+4 Concealed Courtyard
 4 Polluted Delta
 2 Collective Brutality
-1 Vindicate
+3 Godless Shrine
+4 Godless Shrine
+2 Vindicate
+2 Plains
 1 Snapcaster Mage
 2 Snapcaster Mage
-2 Plains
 1 Tireless Tracker
-4 Concealed Courtyard
-2 Tourach, Dread Cantor
-2 Vindicate
 3 Flooded Strand
 1 Jace, the Mind Sculptor
 1 Drowned Catacomb
-3 Godless Shrine
-4 Godless Shrine
 1 Seal of Fire
 1 Malakir Rebirth
-2 Sacred Foundry
 2 Malakir Rebirth
+2 Sacred Foundry
 3 Graven Cairns
 1 Mana Leak
 1 Geist of Saint Traft
@@ -145,6 +145,7 @@
 2 Death's Shadow
 3 Death's Shadow
 4 Death's Shadow
+2 Silent Clearing
 1 Faithful Mending
 2 Faithful Mending
 3 Faithful Mending
@@ -168,7 +169,6 @@
 4 Swamp
 4 Fatal Push
 4 Magmatic Channeler
-2 Silent Clearing
 1 Siege Rhino
 2 Siege Rhino
 3 Siege Rhino
@@ -185,15 +185,18 @@
 1 Esper Charm
 2 Drown in the Loch
 2 Esper Charm
+1 Cling to Dust
+2 Cling to Dust
 2 Dakkon, Shadow Slayer
+3 Vindicate
 1 Grave Titan
 1 Engineered Explosives
 2 Snow-Covered Swamp
 1 Vraska, Golgari Queen
 1 Unearth
+1 Chandra, Torch of Defiance
 1 Temur Battle Rage
 1 Prismatic Vista
-1 Chandra, Torch of Defiance
 1 Scalding Tarn
 2 Mountain
 1 Search for Azcanta
@@ -207,11 +210,13 @@
 2 Darkslick Shores
 2 Seachrome Coast
 1 Hive of the Eye Tyrant
-1 Cling to Dust
 1 Glacial Fortress
 1 Castle Ardenvale
-2 Cling to Dust
 3 Drown in the Loch
+1 Sedgemoor Witch
+2 Sedgemoor Witch
+2 Castle Locthwain
+3 Sedgemoor Witch
 1 Imperial Recruiter
 1 Tidehollow Sculler
 2 Imperial Recruiter
@@ -221,7 +226,6 @@
 1 Supreme Verdict
 2 Timeless Dragon
 2 Supreme Verdict
-3 Vindicate
 3 Dakkon, Shadow Slayer
 3 Silent Clearing
 1 Abrupt Decay
@@ -243,23 +247,6 @@
 2 Grisly Salvage
 3 Grisly Salvage
 4 Grisly Salvage
-1 Nihil Spellbomb
-1 Hex Parasite
-1 Binding the Old Gods
-1 Urza's Saga
-1 Tymaret Calls the Dead
-2 Binding the Old Gods
-2 Tymaret Calls the Dead
-2 Grave Titan
-2 Temple Garden
-2 Urza's Saga
-2 Hex Parasite
-3 Urza's Saga
-3 Hex Parasite
-3 Temple Garden
-3 Tymaret Calls the Dead
-4 Tymaret Calls the Dead
-4 Urza's Saga
 4 Kaya's Guile
 4 Dark Confidant
 1 Flagstones of Trokair
@@ -273,3 +260,20 @@
 3 Smallpox
 4 Smallpox
 4 Flagstones of Trokair
+1 Nihil Spellbomb
+1 Hex Parasite
+1 Binding the Old Gods
+1 Urza's Saga
+1 Tymaret Calls the Dead
+2 Binding the Old Gods
+2 Tymaret Calls the Dead
+2 Temple Garden
+2 Grave Titan
+2 Urza's Saga
+2 Hex Parasite
+3 Urza's Saga
+3 Hex Parasite
+3 Temple Garden
+3 Tymaret Calls the Dead
+4 Urza's Saga
+4 Tymaret Calls the Dead
