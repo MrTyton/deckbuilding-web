@@ -34,8 +34,8 @@
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|----------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    1|[Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)          |                     |              |
-|                    2|[Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460139)   |                     |              |
 |                    2|[Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)          |                     |              |
+|                    2|[Detention Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460139)   |                     |              |
 |                    1|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)|                     |              |
 |                    2|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)|                     |              |
 

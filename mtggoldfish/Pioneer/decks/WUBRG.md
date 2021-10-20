@@ -29,9 +29,9 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|Darkbore Pathway                                                                              |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
-|                    1|[Adult Gold Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527503)  |                    1|[Nullhide Ferox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452888)  |
-|                    1|Deathbonnet Sprout                                                                            |                    2|[Nullhide Ferox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452888)  |
+|                    1|[Adult Gold Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527503)  |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
+|                    1|Deathbonnet Sprout                                                                            |                    1|[Nullhide Ferox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452888)  |
+|                    1|Darkbore Pathway                                                                              |                    2|[Nullhide Ferox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452888)  |
 |                    1|[Striped Riverwinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430737)|                    3|[Nullhide Ferox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452888)  |
 |                    2|Darkbore Pathway                                                                              |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)      |
 |                    2|[Striped Riverwinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430737)|                    4|[Nullhide Ferox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452888)  |

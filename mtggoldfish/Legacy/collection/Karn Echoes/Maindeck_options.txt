@@ -1,15 +1,15 @@
-1 Emry, Lurker of the Loch
 1 Chalice of the Void
-1 Hullbreacher
+1 Emry, Lurker of the Loch
 1 Urza, Lord High Artificer
-2 Urza, Lord High Artificer
+1 Hullbreacher
 2 Emry, Lurker of the Loch
 2 Chalice of the Void
 2 Hullbreacher
-3 Urza, Lord High Artificer
+2 Urza, Lord High Artificer
 3 Emry, Lurker of the Loch
 3 Hullbreacher
 3 Chalice of the Void
+3 Urza, Lord High Artificer
 4 Chalice of the Void
 1 Sai, Master Thopterist
 4 Emry, Lurker of the Loch
@@ -51,15 +51,15 @@
 1 Dismember
 2 Thought Monitor
 2 Crystal Vein
-3 Snow-Covered Island
-4 Snow-Covered Island
 1 Chrome Mox
 1 Sea Gate Restoration
 2 Chrome Mox
 2 Sea Gate Restoration
-3 Chrome Mox
 3 Sea Gate Restoration
+3 Chrome Mox
 4 Sea Gate Restoration
+3 Snow-Covered Island
+4 Snow-Covered Island
 1 Volcanic Island
 2 Volcanic Island
 1 Day's Undoing
@@ -83,6 +83,7 @@
 4 Tundra
 1 Mountain
 1 Arid Mesa
+1 Goblin Engineer
 1 Brainstone
 1 Painter's Servant
 1 Soul-Guide Lantern
@@ -90,13 +91,12 @@
 1 Goblin Welder
 1 Bolas's Citadel
 1 Gamble
-1 Goblin Engineer
 1 Great Furnace
 1 Grindstone
 1 Faithless Looting
+2 Goblin Engineer
 2 Arid Mesa
 2 Pyroblast
-2 Goblin Engineer
 2 Goblin Welder
 2 Painter's Servant
 2 Gamble
