@@ -1,17 +1,17 @@
+3 Soul-Scar Mage
 4 Soul-Scar Mage
-13 Mountain
+4 Den of the Bugbear
 1 Shock
 2 Shock
-4 Den of the Bugbear
+1 Roiling Vortex
 1 Light Up the Stage
 2 Light Up the Stage
 3 Light Up the Stage
-1 Roiling Vortex
+14 Mountain
 4 Light Up the Stage
+2 Roiling Vortex
 3 Shock
 4 Shock
-14 Mountain
-2 Roiling Vortex
 1 Managorger Phoenix
 2 Managorger Phoenix
 3 Managorger Phoenix
@@ -46,53 +46,52 @@
 4 Lightning Strike
 3 Roiling Vortex
 1 Lightning Axe
-1 Shatterskull Smashing
 4 Roiling Vortex
 1 Skewer the Critics
 2 Skewer the Critics
 3 Skewer the Critics
 4 Skewer the Critics
 1 Needleverge Pathway
-2 Needleverge Pathway
-3 Needleverge Pathway
-4 Needleverge Pathway
 1 Sacred Foundry
 1 Inspiring Vantage
+2 Needleverge Pathway
 2 Sacred Foundry
+3 Needleverge Pathway
 3 Sacred Foundry
 4 Sacred Foundry
+4 Needleverge Pathway
 1 Lightning Helix
 2 Lightning Helix
 3 Lightning Helix
 4 Lightning Helix
 1 Castle Embereth
+1 Shatterskull Smashing
 2 Inspiring Vantage
 3 Inspiring Vantage
 4 Inspiring Vantage
 3 Bonecrusher Giant
 2 Lightning Axe
 4 Bonecrusher Giant
-2 Shatterskull Smashing
 1 Treasure Vault
 2 Treasure Vault
 3 Treasure Vault
-1 Wizard's Lightning
-2 Wizard's Lightning
-3 Wizard's Lightning
-4 Wizard's Lightning
-1 Spikefield Hazard
-2 Spikefield Hazard
-3 Spikefield Hazard
+2 Shatterskull Smashing
 1 Steam Vents
 1 Spirebluff Canal
 2 Steam Vents
 2 Spirebluff Canal
 3 Steam Vents
 4 Steam Vents
+1 Wizard's Lightning
+2 Wizard's Lightning
+3 Wizard's Lightning
+4 Wizard's Lightning
 4 Treasure Vault
+1 Spikefield Hazard
+2 Spikefield Hazard
+3 Spikefield Hazard
 4 Spikefield Hazard
 1 Hazoret the Fervent
-3 Shatterskull Smashing
 1 Ghitu Lavarunner
 1 Viashino Pyromancer
 2 Viashino Pyromancer
@@ -110,6 +109,7 @@
 1 Magmatic Channeler
 2 Magmatic Channeler
 3 Magmatic Channeler
+3 Shatterskull Smashing
 4 Magmatic Channeler
 1 Soul-Guide Lantern
 1 The Flame of Keld
@@ -125,24 +125,15 @@
 1 Reckless Ringleader
 2 Reckless Ringleader
 3 Reckless Ringleader
-1 Lorehold Campus
-1 Thermo-Alchemist
-2 Thermo-Alchemist
-3 Thermo-Alchemist
-4 Thermo-Alchemist
 1 Chandra, Torch of Defiance
 1 Footfall Crater
-1 Risk Factor
-1 Grim Lavamancer
-1 Chance for Glory
-2 Grim Lavamancer
-2 Risk Factor
 1 Bloodbraid Marauder
 2 Bloodbraid Marauder
 1 Plains
 1 Stonecoil Serpent
 1 Weaponize the Monsters
 1 Savai Triome
+1 Lorehold Campus
 1 Gingerbrute
 2 Gingerbrute
 1 Leyline of Combustion
@@ -191,6 +182,7 @@
 1 Snow-Covered Mountain
 1 Crash Through
 1 Clever Lumimancer
+1 Thermo-Alchemist
 1 Infuriate
 1 Harmonic Prodigy
 2 Snow-Covered Mountain
@@ -198,15 +190,18 @@
 2 Clever Lumimancer
 2 Infuriate
 2 Harmonic Prodigy
+2 Thermo-Alchemist
 3 Snow-Covered Mountain
 3 Crash Through
 3 Clever Lumimancer
 3 Harmonic Prodigy
+3 Thermo-Alchemist
 3 Infuriate
 4 Snow-Covered Mountain
 4 Crash Through
 4 Clever Lumimancer
 4 Harmonic Prodigy
+4 Thermo-Alchemist
 4 Infuriate
 5 Snow-Covered Mountain
 1 Arclight Phoenix
