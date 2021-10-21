@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Memory Deluge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534825)   |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
-|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    1|[Void Mirror](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522318)         |
+|                    1|[Memory Deluge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534825)   |                    1|[Void Mirror](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522318)         |
+|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
 |                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)           |                    1|[Doom Blade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247322)          |
 |                    2|[Memory Deluge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534825)   |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |
 |                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    2|[Void Mirror](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522318)         |

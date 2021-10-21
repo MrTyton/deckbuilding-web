@@ -8,23 +8,23 @@
 4 Champion of the Perished
 3 Tainted Adversary
 4 Tainted Adversary
+3 Duress
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
-3 Duress
 1 Wight
 2 Wight
-3 The Meathook Massacre
 1 Agadeem's Awakening
+3 The Meathook Massacre
+1 Ebondeath, Dracolich
 1 Skyclave Shade
 2 Skyclave Shade
-1 Ebondeath, Dracolich
 2 Ebondeath, Dracolich
 1 Graveyard Trespasser
 2 Graveyard Trespasser
 2 Agadeem's Awakening
 3 Agadeem's Awakening
-2 Valki, God of Lies
 3 Wight
+2 Valki, God of Lies
 4 Wight
 4 Duress
 1 Soul Shatter
@@ -34,17 +34,21 @@
 2 Forsworn Paladin
 4 Agadeem's Awakening
 2 Soul Shatter
+1 Jadar, Ghoulcaller of Nephalia
+2 Jadar, Ghoulcaller of Nephalia
 3 Soul Shatter
 1 Plumb the Forbidden
 1 Sedgemoor Witch
-1 Jadar, Ghoulcaller of Nephalia
-2 Jadar, Ghoulcaller of Nephalia
 3 Hive of the Eye Tyrant
 2 Sedgemoor Witch
 3 Sedgemoor Witch
 4 Sedgemoor Witch
+1 Crippling Fear
 17 Snow-Covered Swamp
 18 Snow-Covered Swamp
+1 Dungeon Crawler
+2 Dungeon Crawler
+3 Dungeon Crawler
 1 Tergrid, God of Fright
 1 Eaten Alive
 2 Eaten Alive
@@ -52,14 +56,10 @@
 1 Hostile Hostel
 3 Field of Ruin
 4 Field of Ruin
-1 Hagra Mauling
 3 Ebondeath, Dracolich
 3 Graveyard Trespasser
 4 Graveyard Trespasser
-1 Dungeon Crawler
-2 Dungeon Crawler
-3 Dungeon Crawler
-1 Crippling Fear
+1 Hagra Mauling
 3 Jadar, Ghoulcaller of Nephalia
 2 Plumb the Forbidden
 1 Swamp
@@ -84,6 +84,7 @@
 1 Village Rites
 2 Village Rites
 3 Village Rites
+4 Dungeon Crawler
 19 Snow-Covered Swamp
 3 Hunt for Specimens
 1 Warlock Class
@@ -91,7 +92,7 @@
 3 Warlock Class
 4 Warlock Class
 4 Village Rites
-4 Dungeon Crawler
+2 Crippling Fear
 3 Bloodchief's Thirst
 1 Rotten Reunion
 20 Snow-Covered Swamp
@@ -108,7 +109,6 @@
 2 Poison the Cup
 1 Feign Death
 2 Feign Death
-2 Crippling Fear
 2 Hagra Mauling
 4 Hunt for Specimens
 4 Ebondeath, Dracolich
@@ -119,8 +119,8 @@
 2 Demon's Disciple
 2 Blood Pact
 2 Slaughter Specialist
-3 Westgate Regent
 3 Demon's Disciple
+3 Westgate Regent
 3 Slaughter Specialist
 4 Slaughter Specialist
 4 Westgate Regent
@@ -159,6 +159,23 @@
 2 Baleful Mastery
 2 Flunk
 3 Flunk
+1 Bladestitched Skaab
+1 Disdainful Stroke
+1 Negate
+1 Shipwreck Marsh
+1 Hall of Storm Giants
+1 Clearwater Pathway
+2 Bladestitched Skaab
+2 Shipwreck Marsh
+2 Hall of Storm Giants
+2 Clearwater Pathway
+3 Hall of Storm Giants
+3 Bladestitched Skaab
+3 Shipwreck Marsh
+3 Clearwater Pathway
+4 Bladestitched Skaab
+4 Clearwater Pathway
+4 Shipwreck Marsh
 1 No Way Out
 1 Priest of the Haunted Edge
 1 Diregraf Horde
