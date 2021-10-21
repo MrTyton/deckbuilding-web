@@ -20,15 +20,15 @@
 2 Fatal Push
 1 Tidehollow Sculler
 2 Tidehollow Sculler
-1 Ranger-Captain of Eos
 1 Unearth
+1 Ranger-Captain of Eos
 1 Street Wraith
 2 Silent Clearing
 2 Ranger-Captain of Eos
 2 Unearth
 2 Street Wraith
-3 Ranger-Captain of Eos
 3 Street Wraith
+3 Ranger-Captain of Eos
 4 Street Wraith
 3 Tidehollow Sculler
 4 Expressive Iteration
@@ -48,11 +48,11 @@
 3 Scourge of the Skyclaves
 1 Verdant Catacombs
 4 Scourge of the Skyclaves
-1 Stomping Ground
-1 Overgrown Tomb
 1 Tarmogoyf
-2 Verdant Catacombs
+1 Overgrown Tomb
+1 Stomping Ground
 2 Tarmogoyf
+2 Verdant Catacombs
 3 Verdant Catacombs
 3 Tarmogoyf
 4 Verdant Catacombs
@@ -76,17 +76,17 @@
 2 Dismember
 3 Path to Exile
 4 Scalding Tarn
-1 Stoneforge Mystic
-1 Batterskull
-1 Sword of Feast and Famine
 1 Sword of Fire and Ice
+1 Batterskull
 1 Spirit of the Labyrinth
-2 Stoneforge Mystic
+1 Sword of Feast and Famine
+1 Stoneforge Mystic
 2 Spirit of the Labyrinth
+2 Stoneforge Mystic
 3 Stoneforge Mystic
 3 Godless Shrine
-4 Stoneforge Mystic
 4 Godless Shrine
+4 Stoneforge Mystic
 3 Kaya's Guile
 1 Snow-Covered Plains
 1 Nurturing Peatland
@@ -100,11 +100,11 @@
 1 Territorial Kavu
 1 Snapcaster Mage
 2 Snapcaster Mage
-1 Angrath's Rampage
 1 Fiery Islet
+1 Angrath's Rampage
 1 Snow-Covered Forest
-1 Dreadbore
 1 Collective Brutality
+1 Dreadbore
 1 Lurrus of the Dream-Den
 2 Sunbaked Canyon
 1 Seal of Removal
@@ -113,38 +113,38 @@
 3 Kroxa, Titan of Death's Hunger
 3 Terminate
 4 Kaya's Guile
+4 Prismatic Ending
 2 Snow-Covered Swamp
 4 Blood Crypt
-1 Wrenn and Six
-4 Unholy Heat
+1 Flooded Strand
+1 Hallowed Fountain
+1 Island
 1 Bloodchief's Thirst
 1 Spell Snare
 1 Thought Scour
-1 Hallowed Fountain
-1 Flooded Strand
-1 Spell Pierce
-1 Force of Negation
-1 Counterspell
-1 Island
-1 Night's Whisper
 1 Darkslick Shores
+1 Spell Pierce
+1 Counterspell
+1 Night's Whisper
 1 Esper Charm
 1 Into the Story
-2 Thought Scour
-2 Hallowed Fountain
+1 Force of Negation
 2 Flooded Strand
-2 Counterspell
+2 Thought Scour
 2 Island
+2 Counterspell
+2 Hallowed Fountain
 3 Watery Grave
-3 Thought Scour
 3 Flooded Strand
 3 Snapcaster Mage
+3 Thought Scour
 3 Counterspell
 4 Thought Scour
-4 Prismatic Ending
+1 Wrenn and Six
+4 Unholy Heat
 1 Temple Garden
-1 Wild Nacatl
 1 Esper Sentinel
+1 Wild Nacatl
 1 Tribal Flames
 2 Esper Sentinel
 2 Territorial Kavu
@@ -168,6 +168,6 @@
 3 Mutagenic Growth
 3 Temur Battle Rage
 3 Become Immense
-4 Wooded Foothills
 4 Temur Battle Rage
+4 Wooded Foothills
 4 Mutagenic Growth

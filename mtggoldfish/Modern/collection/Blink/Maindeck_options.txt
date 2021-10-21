@@ -14,9 +14,9 @@
 2 Hallowed Fountain
 3 Spreading Seas
 4 Spreading Seas
-1 Supreme Verdict
 1 Castle Vantress
 1 Archmage's Charm
+1 Supreme Verdict
 2 Supreme Verdict
 2 Castle Vantress
 2 Archmage's Charm
@@ -71,8 +71,8 @@
 3 Restoration Angel
 3 Castle Vantress
 4 Mystic Gate
-4 Memory Deluge
 4 Castle Vantress
+4 Memory Deluge
 1 Cryptic Command
 2 Abundant Harvest
 1 Lightning Helix
@@ -96,8 +96,8 @@
 1 Soulherder
 1 Skyclave Apparition
 1 Charming Prince
-1 Deputy of Detention
 1 Glasspool Mimic
+1 Deputy of Detention
 1 Kiki-Jiki, Mirror Breaker
 1 Imperial Recruiter
 1 Venser, Shaper Savant
@@ -106,9 +106,9 @@
 2 Prismatic Vista
 2 Eladamri's Call
 2 Birds of Paradise
+3 Prismatic Vista
 3 Eladamri's Call
 3 Birds of Paradise
-3 Prismatic Vista
 4 Wooded Foothills
 4 Birds of Paradise
 3 Snow-Covered Island
@@ -123,7 +123,6 @@
 1 Callous Bloodmage
 1 Agadeem's Awakening
 1 Shriekmaw
-1 Silent Clearing
 1 Urborg, Tomb of Yawgmoth
 1 Batterskull
 1 Sword of Fire and Ice
@@ -136,9 +135,10 @@
 1 Malakir Rebirth
 1 Stoneforge Mystic
 1 Grief
+1 Silent Clearing
 2 Emeria's Call
-2 Persist
 2 Agadeem's Awakening
+2 Persist
 2 Malakir Rebirth
 2 Silent Clearing
 2 Stoneforge Mystic
@@ -169,21 +169,11 @@
 3 Lightning Helix
 2 Yorion, Sky Nomad
 3 Lose Focus
-1 Fire/Ice
 1 Sulfur Falls
+1 Fire/Ice
 2 Fire/Ice
 3 Fire/Ice
 4 Fire/Ice
-4 Fury
-1 Auriok Champion
-1 Ragavan, Nimble Pilferer
-1 Chord of Calling
-2 Wall of Blossoms
-2 Chord of Calling
-3 Wall of Blossoms
-3 Chord of Calling
-4 Eladamri's Call
-4 Chord of Calling
 1 Magus of the Moon
 1 Karmic Guide
 2 Stomping Ground
@@ -191,19 +181,29 @@
 3 Snow-Covered Forest
 3 Imperial Recruiter
 4 Prismatic Vista
+4 Fury
+1 Ragavan, Nimble Pilferer
+1 Auriok Champion
+1 Chord of Calling
+2 Wall of Blossoms
+2 Chord of Calling
+3 Wall of Blossoms
+3 Chord of Calling
+4 Eladamri's Call
+4 Chord of Calling
 2 Hall of Storm Giants
 3 Scalding Tarn
 3 Hallowed Fountain
 4 Glacial Fortress
 2 Raugrin Triome
 6 Island
+1 Glacial Floodplain
+1 Flooded Grove
+1 Rimewood Falls
+2 Flooded Grove
 1 Sword of Feast and Famine
 1 Sword of Truth and Justice
 2 Skyclave Apparition
-1 Glacial Floodplain
-1 Rimewood Falls
-1 Flooded Grove
-2 Flooded Grove
 1 Sword of Light and Shadow
 2 Callous Bloodmage
 4 Charming Prince

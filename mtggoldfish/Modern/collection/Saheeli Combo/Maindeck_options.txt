@@ -16,22 +16,22 @@
 1 Raging Ravine
 1 Lair of the Hydra
 1 Explore
-1 Fires of Invention
 1 Storm the Festival
+1 Fires of Invention
 1 Coalition Relic
 2 Explore
+2 Temple Garden
 2 Storm the Festival
 2 Fires of Invention
-2 Temple Garden
 2 Coalition Relic
 3 Explore
 3 Fury
 3 Storm the Festival
 3 Fires of Invention
-4 Storm the Festival
-4 Explore
-4 Omnath, Locus of Creation
 4 Fury
+4 Explore
+4 Storm the Festival
+4 Omnath, Locus of Creation
 1 Tranquil Thicket
 1 Arid Mesa
 2 Arid Mesa
@@ -39,24 +39,24 @@
 3 Arid Mesa
 4 Flooded Strand
 4 Teferi, Time Raveler
-1 Eternal Witness
 1 Eladamri's Call
+1 Eternal Witness
 1 Endurance
 1 Wooded Bastion
 1 Fire-Lit Thicket
-2 Island
 2 Forest
-1 Magus of the Moon
-1 Snow-Covered Mountain
-1 Deputy of Detention
+2 Island
+1 Prismatic Vista
+1 Snow-Covered Forest
 1 Snow-Covered Island
 1 Snow-Covered Plains
-1 Snow-Covered Forest
-1 Prismatic Vista
+1 Snow-Covered Mountain
+1 Utopia Sprawl
 1 Eldritch Evolution
 1 Skyclave Apparition
 1 Hallowed Fountain
-1 Utopia Sprawl
+1 Deputy of Detention
+1 Magus of the Moon
 1 Horizon Canopy
 1 Sun Titan
 2 Snow-Covered Forest
@@ -64,8 +64,8 @@
 2 Utopia Sprawl
 2 Skyclave Apparition
 2 Eldritch Evolution
-3 Snow-Covered Forest
 3 Utopia Sprawl
+3 Snow-Covered Forest
 4 Utopia Sprawl
 1 Renegade Rallier
 1 Kiki-Jiki, Mirror Breaker

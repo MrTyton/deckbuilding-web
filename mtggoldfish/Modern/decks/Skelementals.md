@@ -34,7 +34,7 @@
 |                    1|[Tourach, Dread Cantor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522178)   |                    1|[Rakdos Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420835)     |
 |                    1|[Dauthi Voidwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522157)       |                    1|[Dauthi Voidwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522157)|
 |                    1|[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383425)|                    2|[Dauthi Voidwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522157)|
-|                    2|[Dauthi Voidwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522157)       |                     |                                                                                            |
 |                    2|[Blackcleave Cliffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209401)      |                     |                                                                                            |
+|                    2|[Dauthi Voidwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522157)       |                     |                                                                                            |
 |                    3|[Blackcleave Cliffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209401)      |                     |                                                                                            |
 
