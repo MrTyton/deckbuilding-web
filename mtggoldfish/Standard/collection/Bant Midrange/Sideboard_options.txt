@@ -1,28 +1,9 @@
-1 Snakeskin Veil
-1 The Meathook Massacre
-1 Shadows' Verdict
-1 Duress
-1 Storm the Festival
-1 Burning Hands
-2 Shadows' Verdict
-2 Duress
-2 Burning Hands
-2 The Meathook Massacre
-3 Burning Hands
 1 Memory Deluge
 2 Test of Talents
 1 Malevolent Hermit
 2 Malevolent Hermit
 1 Skyclave Apparition
 2 Portable Hole
-1 Culling Ritual
-1 Check for Traps
-2 Storm the Festival
-2 Check for Traps
-1 Inferno of the Star Mounts
-1 Go Blank
-2 Go Blank
-3 Duress
 1 Fateful Absence
 2 Skyclave Apparition
 1 Ray of Frost
@@ -39,8 +20,9 @@
 1 Brutal Cathar
 1 Lier, Disciple of the Drowned
 1 Dissipate
-1 Suspicious Stowaway
-2 Suspicious Stowaway
+1 Reduce to Memory
+1 Containment Breach
+2 Tangletrap
 1 Mind Flayer
 2 Toski, Bearer of Secrets
 2 Mind Flayer
@@ -48,9 +30,8 @@
 2 Introduction to Annihilation
 2 Environmental Sciences
 2 Academic Probation
-1 Reduce to Memory
-1 Containment Breach
-2 Tangletrap
+1 Suspicious Stowaway
+2 Suspicious Stowaway
 1 Froghemoth
 1 Legion Angel
 1 Curse of Silence

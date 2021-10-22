@@ -50,6 +50,9 @@
 1 Smoldering Egg
 1 Alrund's Epiphany
 2 Alrund's Epiphany
+1 Draconic Intervention
+2 Mordenkainen
+2 Draconic Intervention
 1 Divine Smite
 2 Divine Smite
 2 Cyclone Summoner
@@ -58,9 +61,7 @@
 2 Invoke the Divine
 1 Suspicious Stowaway
 2 Suspicious Stowaway
-1 Draconic Intervention
-2 Mordenkainen
-2 Draconic Intervention
+3 Brutal Cathar
 1 Ruin Crab
 2 Ruin Crab
 2 Devastating Mastery
@@ -69,7 +70,6 @@
 3 Fateful Absence
 1 Start from Scratch
 3 Rip Apart
-3 Brutal Cathar
 1 Mind Flayer
 2 Doomskar
 3 Doomskar
@@ -79,18 +79,18 @@
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
-1 Academic Probation
-1 Elite Spellbinder
-2 Elite Spellbinder
-3 Portable Hole
-3 Elite Spellbinder
 1 Divide by Zero
 1 Luminarch Aspirant
 2 Divide by Zero
 2 Luminarch Aspirant
 3 Divide by Zero
-3 Luminarch Aspirant
 3 Cinderclasm
+3 Luminarch Aspirant
+1 Academic Probation
+1 Elite Spellbinder
+2 Elite Spellbinder
+3 Portable Hole
+3 Elite Spellbinder
 2 Saw It Coming
 4 Burning Hands
 1 Elemental Summoning

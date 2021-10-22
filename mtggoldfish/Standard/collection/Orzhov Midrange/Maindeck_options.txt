@@ -36,10 +36,10 @@
 1 Snow-Covered Swamp
 2 Snow-Covered Plains
 2 Snow-Covered Swamp
-3 Snow-Covered Plains
 3 Snow-Covered Swamp
-4 Snow-Covered Plains
+3 Snow-Covered Plains
 4 Snow-Covered Swamp
+4 Snow-Covered Plains
 5 Snow-Covered Plains
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
@@ -125,9 +125,9 @@
 2 Power Word Kill
 2 Inscription of Ruin
 2 Lunarch Veteran
-3 Nullpriest of Oblivion
 3 Lunarch Veteran
 3 Ascent of the Worthy
+3 Nullpriest of Oblivion
 4 Lunarch Veteran
 10 Snow-Covered Swamp
 2 Valentin, Dean of the Vein
@@ -192,11 +192,11 @@
 1 Priest of Ancient Lore
 1 Pyre of Heroes
 1 Dawnbringer Cleric
-2 Professor of Symbology
-2 Glorious Protector
-2 Dawnbringer Cleric
-2 Priest of Ancient Lore
 2 Pyre of Heroes
+2 Professor of Symbology
+2 Dawnbringer Cleric
+2 Glorious Protector
+2 Priest of Ancient Lore
 3 Orah, Skyclave Hierophant
 4 Orah, Skyclave Hierophant
 3 Bloodchief's Thirst
@@ -210,12 +210,6 @@
 3 Lolth, Spider Queen
 3 The Meathook Massacre
 4 Acquisitions Expert
-1 Professor Onyx
-1 The Book of Exalted Deeds
-1 Search for Glory
-2 Search for Glory
-3 Search for Glory
-4 Search for Glory
 1 Can't Stay Away
 1 Gelatinous Cube
 2 Can't Stay Away
@@ -266,21 +260,21 @@
 3 Ambitious Farmhand
 4 Skyclave Apparition
 4 Ambitious Farmhand
-1 Starnheim Aspirant
 1 Essence Infusion
 1 Raise the Draugr
 1 Professor's Warning
+1 Starnheim Aspirant
 2 Valkyrie Harbinger
 2 Silverquill Campus
-2 Starnheim Aspirant
 2 Raise the Draugr
 2 Essence Infusion
 2 Professor's Warning
-3 Valkyrie Harbinger
-3 Starnheim Aspirant
+2 Starnheim Aspirant
 3 Paladin Class
+3 Valkyrie Harbinger
 3 Essence Infusion
 3 Raise the Draugr
+3 Starnheim Aspirant
 3 Professor's Warning
 4 Valkyrie Harbinger
 4 Starnheim Aspirant
@@ -289,14 +283,20 @@
 2 Show of Confidence
 3 Show of Confidence
 4 Show of Confidence
+1 Search for Glory
+1 The Book of Exalted Deeds
+1 Professor Onyx
+2 Search for Glory
+3 Search for Glory
+4 Search for Glory
 2 Callous Bloodmage
 4 Skullport Merchant
-1 Valkyrie's Sword
-1 Shepherd of Heroes
-2 Valkyrie's Sword
-11 Snow-Covered Plains
 1 Flunk
 2 Flunk
 3 Starnheim Unleashed
 3 Rampage of the Valkyries
 4 Rampage of the Valkyries
+1 Valkyrie's Sword
+1 Shepherd of Heroes
+2 Valkyrie's Sword
+11 Snow-Covered Plains

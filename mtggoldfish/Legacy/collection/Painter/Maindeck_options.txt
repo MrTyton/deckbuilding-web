@@ -36,29 +36,29 @@
 2 Brainstorm
 2 Misty Rainforest
 3 Brainstorm
-1 Expressive Iteration
-1 Unholy Heat
-1 Ponder
 1 Murktide Regent
+1 Unholy Heat
+1 Expressive Iteration
+1 Ponder
 1 Volcanic Island
 1 Force of Negation
 1 Scalding Tarn
-2 Expressive Iteration
+2 Volcanic Island
 2 Relic of Progenitus
 2 Ponder
+2 Expressive Iteration
 2 Scalding Tarn
 2 Force of Negation
 2 Murktide Regent
-2 Volcanic Island
-3 Scalding Tarn
 3 Murktide Regent
-3 Volcanic Island
 3 Expressive Iteration
+3 Volcanic Island
+3 Scalding Tarn
 3 Ponder
 4 Volcanic Island
-4 Scalding Tarn
 4 Expressive Iteration
 4 Ponder
+4 Scalding Tarn
 4 Brainstorm
 1 Trinisphere
 2 Polluted Delta
@@ -77,23 +77,23 @@
 3 Thought Monitor
 4 Thought Monitor
 1 Magus of the Moon
-1 Snow-Covered Mountain
 1 Blue Elemental Blast
 1 Snow-Covered Island
 1 Flooded Strand
+1 Snow-Covered Mountain
 2 Snow-Covered Island
-1 Baleful Strix
 1 Tezzeret, Agent of Bolas
-1 Underground Sea
-1 Hydroblast
 1 Swamp
-2 Baleful Strix
+1 Underground Sea
+1 Baleful Strix
+1 Hydroblast
 2 Tezzeret, Agent of Bolas
+2 Baleful Strix
 2 Underground Sea
 2 Hydroblast
 3 Polluted Delta
-3 Baleful Strix
 3 Tezzeret, Agent of Bolas
+3 Baleful Strix
 3 Hydroblast
 4 Baleful Strix
 4 Preordain
@@ -102,8 +102,8 @@
 3 Bloodstained Mire
 1 Sundering Titan
 1 Brainstone
-1 Phyrexian Furnace
 1 Ragavan, Nimble Pilferer
+1 Phyrexian Furnace
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer

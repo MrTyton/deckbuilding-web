@@ -1,3 +1,6 @@
+1 Windswept Heath
+1 Borrowed Time
+1 Forest
 1 Rite of Harmony
 1 Destiny Spinner
 1 Replenish
@@ -5,9 +8,7 @@
 1 Sanctum Weaver
 1 Tropical Island
 1 Wheel of Sun and Moon
-1 Energy Field
 1 Circular Logic
-1 Hall of Heliod's Generosity
 1 Taiga
 1 Sythis, Harvest's Hand
 1 Utopia Sprawl
@@ -18,7 +19,6 @@
 1 Wooded Foothills
 1 Verdant Catacombs
 1 Bayou
-1 Enlightened Tutor
 1 Nexus of Fate
 1 Prismatic Vista
 1 Shark Typhoon
@@ -31,13 +31,13 @@
 2 Abundant Growth
 2 Grove of the Burnwillows
 2 Punishing Fire
+2 Enlightened Tutor
 2 Omen of the Sea
 2 Misty Rainforest
 2 Forest
 2 Estrid's Invocation
 2 Sythis, Harvest's Hand
 2 Utopia Sprawl
-2 Enlightened Tutor
 2 Sanctum Weaver
 2 Jeskai Ascendancy
 2 Island
@@ -83,9 +83,9 @@
 1 Walking Ballista
 1 Seat of the Synod
 2 Cavern of Souls
-2 Plains
 2 Auriok Salvagers
 2 Esper Sentinel
+2 Plains
 2 Trinket Mage
 3 Urza's Saga
 3 Auriok Salvagers
@@ -97,14 +97,14 @@
 4 Trinket Mage
 1 Scalding Tarn
 1 Plateau
-1 Monastery Mentor
 1 Expressive Iteration
 1 Dress Down
-2 Monastery Mentor
+1 Monastery Mentor
 2 Volcanic Island
 2 Scalding Tarn
 2 Expressive Iteration
 2 Dress Down
+2 Monastery Mentor
 3 Expressive Iteration
 3 Scalding Tarn
 4 Prismatic Ending

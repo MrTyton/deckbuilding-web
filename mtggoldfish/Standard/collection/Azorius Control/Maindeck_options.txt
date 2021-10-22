@@ -52,20 +52,6 @@
 3 Malevolent Hermit
 4 Elite Spellbinder
 4 Behold the Multiverse
-1 Professor of Symbology
-1 Crawling Barrens
-1 Clearwater Pathway
-1 Revitalize
-1 Riverglide Pathway
-1 Portable Hole
-2 Crawling Barrens
-2 Professor of Symbology
-2 Dissipate
-2 Portable Hole
-3 Professor of Symbology
-3 Dissipate
-4 Professor of Symbology
-4 Divide by Zero
 1 Devious Cover-Up
 1 Iron Verdict
 2 Devious Cover-Up
@@ -74,9 +60,23 @@
 3 Sunset Revelry
 3 Devastating Mastery
 4 Sunset Revelry
-1 Snow-Covered Island
+1 Professor of Symbology
+1 Revitalize
+1 Crawling Barrens
+1 Riverglide Pathway
+1 Portable Hole
+1 Clearwater Pathway
+2 Crawling Barrens
+2 Professor of Symbology
+2 Dissipate
+2 Portable Hole
+3 Professor of Symbology
+3 Dissipate
+4 Divide by Zero
+4 Professor of Symbology
 1 Snow-Covered Plains
 1 Spectral Adversary
+1 Snow-Covered Island
 1 Faceless Haven
 2 Iymrith, Desert Doom
 2 Spectral Adversary
@@ -87,8 +87,8 @@
 2 Faceless Haven
 3 Snow-Covered Plains
 3 Skyclave Apparition
-3 Negate
 3 Faceless Haven
+3 Negate
 3 Snow-Covered Island
 4 Snow-Covered Plains
 4 Snow-Covered Island
