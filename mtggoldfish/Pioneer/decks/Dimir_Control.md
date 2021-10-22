@@ -129,6 +129,6 @@
 |                    2|[Go Blank](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513549)                 |                     |                                                                                                   |
 |                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                    |                     |                                                                                                   |
 |                    4|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)            |                     |                                                                                                   |
-|                    5|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                    |                     |                                                                                                   |
 |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)             |                     |                                                                                                   |
+|                    5|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                    |                     |                                                                                                   |
 
