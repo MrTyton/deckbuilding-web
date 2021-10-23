@@ -40,9 +40,9 @@
 4 Consider
 3 Iymrith, Desert Doom
 2 Bloodchief's Thirst
+1 Snow-Covered Swamp
 1 Snow-Covered Island
 1 Snow-Covered Plains
-1 Snow-Covered Swamp
 2 Snow-Covered Island
 2 Shineshadow Snarl
 1 Sunset Revelry
@@ -58,8 +58,8 @@
 2 Glacial Floodplain
 3 Glacial Floodplain
 1 Blood on the Snow
-2 Snow-Covered Plains
 2 Blood on the Snow
+2 Snow-Covered Plains
 3 Snow-Covered Island
 3 Snow-Covered Plains
 2 Lolth, Spider Queen
@@ -73,14 +73,14 @@
 1 Lithoform Blight
 2 Lithoform Blight
 4 Behold the Multiverse
-1 Jadar, Ghoulcaller of Nephalia
-1 The Trickster-God's Heist
 1 Callous Bloodmage
 1 King Narfi's Betrayal
 1 Valki, God of Lies
+1 Jadar, Ghoulcaller of Nephalia
+1 The Trickster-God's Heist
+2 Callous Bloodmage
 2 Jadar, Ghoulcaller of Nephalia
 2 Emeria's Call
-2 Callous Bloodmage
 2 The Trickster-God's Heist
 3 Callous Bloodmage
 4 Callous Bloodmage
@@ -145,14 +145,14 @@
 1 Sea Gate Restoration
 3 Kaya the Inexorable
 1 Cyclone Summoner
-2 Cyclone Summoner
 2 Power Word Kill
-3 Sunset Revelry
+2 Cyclone Summoner
 3 Power Word Kill
+3 Sunset Revelry
 4 Divide by Zero
 4 Sunset Revelry
-1 Hagra Mauling
 1 Poppet Stitcher
+1 Hagra Mauling
 2 Xanathar, Guild Kingpin
 2 Fracture
 2 Poppet Stitcher
@@ -162,17 +162,21 @@
 1 The Raven's Warning
 2 The Raven's Warning
 2 King Narfi's Betrayal
-3 Jadar, Ghoulcaller of Nephalia
-3 Hall of Storm Giants
 3 Test of Talents
 1 The Book of Exalted Deeds
 2 Portable Hole
 3 Negate
+3 Hall of Storm Giants
+3 Jadar, Ghoulcaller of Nephalia
 1 Felidar Retreat
 3 Lier, Disciple of the Drowned
-1 Devastating Mastery
-2 Devastating Mastery
-4 Teferi, Who Slows the Sunset
+3 Duress
+3 Disdainful Stroke
+4 Duress
+4 Disdainful Stroke
+3 Devious Cover-Up
+3 Professor Onyx
+4 Devious Cover-Up
 1 Curse of Silence
 1 Skyclave Apparition
 1 Reidane, God of the Worthy
@@ -185,23 +189,19 @@
 3 Skyclave Apparition
 3 Curse of Silence
 3 Malevolent Hermit
-4 Skyclave Apparition
 4 Malevolent Hermit
-3 Duress
-3 Disdainful Stroke
-4 Duress
-4 Disdainful Stroke
-3 Devious Cover-Up
-3 Professor Onyx
-4 Devious Cover-Up
+4 Skyclave Apparition
 1 Dissipate
 2 Starnheim Unleashed
 4 Silverquill Campus
 1 You Find the Villains' Lair
 4 Jwari Disruption
-1 Treasure Vault
+1 Devastating Mastery
+2 Devastating Mastery
+4 Teferi, Who Slows the Sunset
 1 Professor of Symbology
 1 Replicating Ring
+1 Treasure Vault
 2 Professor of Symbology
 3 Professor of Symbology
 4 Glacial Floodplain
@@ -217,13 +217,13 @@
 6 Snow-Covered Island
 1 Suspicious Stowaway
 1 Reject
-2 Poison the Cup
 2 Reject
+2 Poison the Cup
 3 Fading Hope
 4 Fading Hope
 5 Swamp
-6 Swamp
 6 Island
-7 Swamp
+6 Swamp
 7 Island
+7 Swamp
 8 Island

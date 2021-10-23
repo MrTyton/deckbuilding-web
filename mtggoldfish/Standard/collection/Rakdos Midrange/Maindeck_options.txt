@@ -28,25 +28,25 @@
 1 Scourge of the Skyclaves
 2 Scourge of the Skyclaves
 3 Scourge of the Skyclaves
-4 Scourge of the Skyclaves
 4 Agadeem's Awakening
 4 Kazuul's Fury
 4 Forsworn Paladin
+4 Scourge of the Skyclaves
 1 Shambling Ghast
 2 Shambling Ghast
 1 Deadly Dispute
 2 Deadly Dispute
 3 Shambling Ghast
+1 Brightclimb Pathway
 1 Showdown of the Skalds
 1 Needleverge Pathway
-1 Brightclimb Pathway
 1 Sejiri Shelter
+2 Brightclimb Pathway
 2 Showdown of the Skalds
 2 Sejiri Shelter
-2 Brightclimb Pathway
 2 Needleverge Pathway
-3 Needleverge Pathway
 3 Brightclimb Pathway
+3 Needleverge Pathway
 4 Brightclimb Pathway
 4 Needleverge Pathway
 3 Deadly Dispute
@@ -65,14 +65,14 @@
 1 Grim Wanderer
 2 Grim Wanderer
 1 Magda, Brazen Outlaw
-1 Immersturm Skullcairn
 1 Meteor Swarm
 1 Plargg, Dean of Chaos
 1 Toralf, God of Fury
+1 Immersturm Skullcairn
 2 Magda, Brazen Outlaw
 2 Immersturm Skullcairn
-2 Meteor Swarm
 2 Plargg, Dean of Chaos
+2 Meteor Swarm
 2 Toralf, God of Fury
 3 Magda, Brazen Outlaw
 3 Plargg, Dean of Chaos
@@ -104,37 +104,37 @@
 1 Angelfire Ignition
 1 Poet's Quill
 3 Soul Shatter
-1 Bloodline Culling
 1 Temple of the Dragon Queen
-1 Hall of Oracles
 1 Extus, Oriq Overlord
+1 Bloodline Culling
 1 Ecstatic Awakener
-1 Ghoulish Procession
 1 Burn Down the House
 1 Roil Eruption
+1 Ghoulish Procession
 1 Vorpal Sword
 1 Fireblade Charger
 1 Kargan Intimidator
-2 Hall of Oracles
+1 Hall of Oracles
 2 Roil Eruption
+2 Hall of Oracles
 2 Fireblade Charger
 2 Kargan Intimidator
 2 Extus, Oriq Overlord
 3 Kargan Intimidator
-1 Pelakka Predation
 1 Check for Traps
 1 Westgate Regent
-2 Westgate Regent
+1 Pelakka Predation
 2 Check for Traps
+2 Westgate Regent
 2 Pelakka Predation
-3 Inscription of Ruin
 3 Check for Traps
+3 Inscription of Ruin
 3 Pelakka Predation
 4 Inscription of Ruin
 4 Check for Traps
 4 Pelakka Predation
-1 Inferno of the Star Mounts
 1 Thundering Rebuke
+1 Inferno of the Star Mounts
 1 Nullpriest of Oblivion
 2 Thundering Rebuke
 2 Inferno of the Star Mounts
@@ -167,16 +167,15 @@
 3 Slaughter Specialist
 3 Minion of the Mighty
 3 Arni Brokenbrow
-4 Wight
 4 Slaughter Specialist
 4 Minion of the Mighty
+4 Wight
 4 Arni Brokenbrow
 8 Swamp
 1 Treasure Vault
-1 Unexpected Windfall
+1 Xorn
 1 Evolving Wilds
 1 Grim Bounty
-1 Xorn
 1 Sudden Breakthrough
 1 Thieves' Tools
 1 Jaded Sell-Sword
@@ -184,6 +183,7 @@
 1 Price of Loyalty
 1 Hired Hexblade
 1 Devour Intellect
+1 Unexpected Windfall
 1 Plundering Barbarian
 1 Vault Robber
 1 Improvised Weaponry

@@ -24,10 +24,10 @@
 3 Field Trip
 3 Reidane, God of the Worthy
 4 Felidar Retreat
-1 Loyal Warhound
 1 Elite Spellbinder
-2 Loyal Warhound
+1 Loyal Warhound
 2 Elite Spellbinder
+2 Loyal Warhound
 3 Elite Spellbinder
 4 Elite Spellbinder
 1 Kazandu Mammoth
@@ -39,22 +39,22 @@
 3 Loyal Warhound
 4 Kazandu Mammoth
 1 Augur of Autumn
-1 Snow-Covered Forest
-1 Snow-Covered Plains
-1 Blizzard Brawl
 1 Saryth, the Viper's Fang
-2 Augur of Autumn
-2 Snow-Covered Forest
-2 Snow-Covered Plains
+1 Snow-Covered Plains
+1 Snow-Covered Forest
+1 Blizzard Brawl
 2 Saryth, the Viper's Fang
 2 Blizzard Brawl
+2 Snow-Covered Plains
+2 Augur of Autumn
+2 Snow-Covered Forest
 3 Augur of Autumn
-3 Snow-Covered Forest
 3 Snow-Covered Plains
+3 Snow-Covered Forest
 3 Blizzard Brawl
-4 Snow-Covered Plains
 4 Snow-Covered Forest
 4 Augur of Autumn
+4 Snow-Covered Plains
 5 Snow-Covered Forest
 5 Snow-Covered Plains
 6 Snow-Covered Forest
@@ -85,18 +85,6 @@
 2 Path to the Festival
 3 Path to the Festival
 4 Path to the Festival
-1 Ashaya, Soul of the Wild
-1 Froghemoth
-1 Tovolar's Huntmaster
-1 Intrepid Adversary
-2 Froghemoth
-2 Ashaya, Soul of the Wild
-2 Intrepid Adversary
-3 Briarbridge Tracker
-3 Intrepid Adversary
-4 Briarbridge Tracker
-4 Intrepid Adversary
-7 Forest
 1 Evolving Wilds
 1 Ambitious Farmhand
 1 Doomskar
@@ -106,16 +94,28 @@
 3 Evolving Wilds
 3 Ambitious Farmhand
 3 Doomskar
-4 Ambitious Farmhand
 4 Lair of the Hydra
 4 Borrowed Time
 4 Evolving Wilds
+4 Ambitious Farmhand
 6 Plains
 7 Plains
-3 Lotus Cobra
-12 Snow-Covered Forest
+1 Ashaya, Soul of the Wild
+1 Tovolar's Huntmaster
+1 Froghemoth
+1 Intrepid Adversary
+2 Froghemoth
+2 Ashaya, Soul of the Wild
+2 Intrepid Adversary
+3 Briarbridge Tracker
+3 Intrepid Adversary
+4 Intrepid Adversary
+4 Briarbridge Tracker
+7 Forest
 1 Paladin Class
 1 Fynn, the Fangbearer
 2 Paladin Class
 2 Fynn, the Fangbearer
 9 Snow-Covered Plains
+3 Lotus Cobra
+12 Snow-Covered Forest

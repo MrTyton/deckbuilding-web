@@ -32,10 +32,10 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Agadeem's Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491723)|                    2|[Environmental Sciences](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513477)|
+|                    1|[Agadeem's Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491723)|                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                 |
 |                    1|Graveyard Trespasser                                                                          |                    1|[Bloodline Culling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534857)     |
-|                    2|Graveyard Trespasser                                                                          |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                 |
-|                    1|[Professor Onyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513560)     |                     |                                                                                                 |
+|                    2|Graveyard Trespasser                                                                          |                    2|[Environmental Sciences](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513477)|
 |                    1|Valki, God of Lies                                                                            |                     |                                                                                                 |
 |                    2|Valki, God of Lies                                                                            |                     |                                                                                                 |
+|                    1|[Professor Onyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513560)     |                     |                                                                                                 |
 
