@@ -79,6 +79,6 @@
 |                   15|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)          |                     |                                                                                                 |
 |                   16|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)          |                     |                                                                                                 |
 |                   17|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)          |                     |                                                                                                 |
-|                    1|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)            |                     |                                                                                                 |
 |                    1|[Mishra's Factory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2387)               |                     |                                                                                                 |
+|                    1|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)            |                     |                                                                                                 |
 

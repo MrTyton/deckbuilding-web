@@ -37,10 +37,10 @@
 1 Leyline of the Void
 2 Leyline of the Void
 1 Leyline of Sanctity
-2 Inquisition of Kozilek
 2 Leyline of Sanctity
-3 Inquisition of Kozilek
+2 Inquisition of Kozilek
 3 Leyline of Sanctity
+3 Inquisition of Kozilek
 4 Inquisition of Kozilek
 4 Leyline of Sanctity
 1 Manriki-Gusari
@@ -57,13 +57,16 @@
 1 Solitude
 2 Nihil Spellbomb
 1 Aven Mindcensor
-1 Kor Firewalker
 1 Ashiok, Dream Render
-2 Kor Firewalker
+1 Kor Firewalker
 2 Ashiok, Dream Render
+2 Kor Firewalker
 1 Despark
 2 Kaya's Guile
 2 Despark
+1 Crime/Punishment
+2 Crime/Punishment
+3 Surgical Extraction
 1 Fragmentize
 1 Grafdigger's Cage
 1 Tormod's Crypt
@@ -73,17 +76,14 @@
 2 Dispatch
 2 Damping Sphere
 3 Dispatch
-1 Crime/Punishment
-2 Crime/Punishment
-3 Surgical Extraction
-1 Fracturing Gust
-1 Auriok Champion
-2 Auriok Champion
-4 Leyline of the Void
+1 Soul-Guide Lantern
+4 Sanctifier en-Vec
 1 Duress
 1 Bitterblossom
 2 Duress
 3 Duress
 4 Duress
-1 Soul-Guide Lantern
-4 Sanctifier en-Vec
+1 Fracturing Gust
+1 Auriok Champion
+4 Leyline of the Void
+2 Auriok Champion

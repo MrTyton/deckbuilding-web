@@ -25,11 +25,11 @@
 4 Prismatic Ending
 1 Shark Typhoon
 2 Teferi, Time Raveler
-1 Snow-Covered Mountain
 1 Replenish
 1 Snow-Covered Plains
-2 Snow-Covered Island
+1 Snow-Covered Mountain
 2 Snow-Covered Plains
+2 Snow-Covered Island
 2 Shark Typhoon
 2 Replenish
 3 Snow-Covered Plains
@@ -60,68 +60,68 @@
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
-4 Island
 4 Aether Vial
-1 Sevinne's Reclamation
-1 Monastery Mentor
+4 Island
 1 Pyrite Spellbomb
+1 Monastery Mentor
+1 Sevinne's Reclamation
 1 Dress Down
 2 Dress Down
-1 Narset, Parter of Veils
 1 Brainstone
+1 Narset, Parter of Veils
+1 Meekstone
 1 Terminus
 1 Spell Pierce
-1 Meekstone
 2 Narset, Parter of Veils
 2 Terminus
 2 Spell Pierce
 2 Pyroblast
 1 Prismatic Vista
-2 Prismatic Vista
 2 Retrofitter Foundry
+2 Prismatic Vista
 2 Jace, the Mind Sculptor
 1 Steam Vents
 1 Hallowed Fountain
-2 Steam Vents
 2 Hallowed Fountain
+2 Steam Vents
 3 Steam Vents
-1 Dragon's Rage Channeler
+1 Counterbalance
+1 Counterspell
+1 Expressive Iteration
+1 Unholy Heat
+1 Mountain
+1 Lightning Bolt
+2 Expressive Iteration
+2 Relic of Progenitus
+2 Unholy Heat
+2 Lightning Bolt
+3 Lightning Bolt
+4 Lightning Bolt
 1 Mishra's Bauble
+1 Dragon's Rage Channeler
 2 Dragon's Rage Channeler
 3 Dragon's Rage Channeler
 4 Dragon's Rage Channeler
+1 Stoneforge Mystic
 1 Batterskull
 1 Venser, Shaper Savant
 1 Spellstutter Sprite
-1 Solitude
 1 Kaldra Compleat
-1 Stoneforge Mystic
 1 Ephemerate
 1 Palace Jailer
 1 Vendilion Clique
 1 Flickerwisp
 1 Glen Elendra Archmage
-2 Solitude
+1 Solitude
 2 Stoneforge Mystic
 2 Ephemerate
 2 Flickerwisp
+2 Solitude
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-1 Counterspell
-1 Unholy Heat
-1 Lightning Bolt
-1 Mountain
-1 Counterbalance
-1 Expressive Iteration
-2 Unholy Heat
-2 Lightning Bolt
-2 Relic of Progenitus
-2 Expressive Iteration
-3 Lightning Bolt
-4 Lightning Bolt
+1 Mutavault
 1 Rishadan Dockhand
 1 Master of the Pearl Trident
-1 Mutavault
 1 Silvergill Adept
 1 Lord of Atlantis
 1 Tide Shaper
@@ -137,8 +137,8 @@
 3 Lord of Atlantis
 3 Tide Shaper
 3 True-Name Nemesis
-4 Mutavault
 4 Stifle
+4 Mutavault
 4 True-Name Nemesis
 4 Master of the Pearl Trident
 4 Tide Shaper

@@ -30,15 +30,15 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                    Sideboard Card                                    |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------|
-|                    1|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094)|                    1|[Dack Fayden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382244)|
-|                    1|[Misdirection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382310)       |                    2|[Dack Fayden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382244)|
+|                    1|[Misdirection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382310)       |                    1|[Dack Fayden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382244)|
+|                    1|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094)|                    2|[Dack Fayden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382244)|
 |                    2|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094)|                     |                                                                                      |
 |                    2|[Misdirection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382310)       |                     |                                                                                      |
 |                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                     |                                                                                      |
-|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |                     |                                                                                      |
 |                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                     |                                                                                      |
 |                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)          |                     |                                                                                      |
-|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |                     |                                                                                      |
+|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |                     |                                                                                      |
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                     |                                                                                      |
+|                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |                     |                                                                                      |
 |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)          |                     |                                                                                      |
 

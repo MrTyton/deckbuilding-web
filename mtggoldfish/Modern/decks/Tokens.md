@@ -35,9 +35,9 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194) |                    1|[Vindicate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442208)            |
-|                    1|[Serra the Benevolent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463975)|                    1|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)       |
-|                    3|[Force of Virtue](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463959)     |                    1|[Timely Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220074)|
-|                     |                                                                                               |                    2|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)       |
+|                    1|[Tocatli Honor Guard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435194) |                    1|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)       |
+|                    1|[Serra the Benevolent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463975)|                    1|[Timely Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220074)|
+|                    3|[Force of Virtue](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463959)     |                    1|[Vindicate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442208)            |
 |                     |                                                                                               |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)       |
+|                     |                                                                                               |                    2|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)       |
 
