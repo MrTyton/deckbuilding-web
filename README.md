@@ -4,14 +4,11 @@
 
 # Standard
 
-|                                A                                 |                                  B                                   |                                 C                                  |                                    D                                     |                                 E                                  |
-|------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|
-|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)          |[Gruul Werewolves](./mtggoldfish/Standard/decks/Gruul_Werewolves.md)|[Mono-Blue Tempo](./mtggoldfish/Standard/decks/Mono-Blue_Tempo.md)        |[Selesnya Aggro](./mtggoldfish/Standard/decks/Selesnya_Aggro.md)    |
-|[Azorius Tempo](./mtggoldfish/Standard/decks/Azorius_Tempo.md)    |[Dimir Zombies](./mtggoldfish/Standard/decks/Dimir_Zombies.md)        |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)      |[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)      |[Sultai Sacrifice](./mtggoldfish/Standard/decks/Sultai_Sacrifice.md)|
-|[Bant Control](./mtggoldfish/Standard/decks/Bant_Control.md)      |[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)        |[Izzet Dragons](./mtggoldfish/Standard/decks/Izzet_Dragons.md)      |[Mono-White Aggro ️](./mtggoldfish/Standard/decks/Mono-White_Aggro_️.md)  |[Temur Midrange](./mtggoldfish/Standard/decks/Temur_Midrange.md)    |
-|[Boros Aggro](./mtggoldfish/Standard/decks/Boros_Aggro.md)        |[Golgari Control](./mtggoldfish/Standard/decks/Golgari_Control.md)    |[Jeskai Control](./mtggoldfish/Standard/decks/Jeskai_Control.md)    |[Mono-White Lifegain](./mtggoldfish/Standard/decks/Mono-White_Lifegain.md)|[Temur Tempo](./mtggoldfish/Standard/decks/Temur_Tempo.md)          |
-|[Boros Midrange](./mtggoldfish/Standard/decks/Boros_Midrange.md)  |[Golgari Sacrifice](./mtggoldfish/Standard/decks/Golgari_Sacrifice.md)|[Jund Midrange](./mtggoldfish/Standard/decks/Jund_Midrange.md)      |[Rakdos Midrange](./mtggoldfish/Standard/decks/Rakdos_Midrange.md)        |                                                                    |
-|[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)    |[Grixis Control](./mtggoldfish/Standard/decks/Grixis_Control.md)      |[Mono-Black Aggro](./mtggoldfish/Standard/decks/Mono-Black_Aggro.md)|[Ramp](./mtggoldfish/Standard/decks/Ramp.md)                              |                                                                    |
+|                                A                                 |                               B                                |                                 C                                  |                                   D                                    |                               E                                |
+|------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|
+|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Grixis Control](./mtggoldfish/Standard/decks/Grixis_Control.md)|[Jeskai Control](./mtggoldfish/Standard/decks/Jeskai_Control.md)    |[Mono-White Aggro ️](./mtggoldfish/Standard/decks/Mono-White_Aggro_️.md)|[Temur Midrange](./mtggoldfish/Standard/decks/Temur_Midrange.md)|
+|[Boros Aggro](./mtggoldfish/Standard/decks/Boros_Aggro.md)        |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)  |[Jund Midrange](./mtggoldfish/Standard/decks/Jund_Midrange.md)      |[Selesnya Aggro](./mtggoldfish/Standard/decks/Selesnya_Aggro.md)        |                                                                |
+|[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)    |[Izzet Dragons](./mtggoldfish/Standard/decks/Izzet_Dragons.md)  |[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)|[Sultai Sacrifice](./mtggoldfish/Standard/decks/Sultai_Sacrifice.md)    |                                                                |
 
 
 # Historic
@@ -69,4 +66,4 @@
 
 
 
-#### Last Updated at 12:28AM on October 24, 2021
+#### Last Updated at 12:17PM on October 24, 2021
