@@ -9,14 +9,14 @@
 4 Managorger Phoenix
 1 Roiling Vortex
 14 Mountain
-2 Roiling Vortex
 3 Shock
+2 Roiling Vortex
 1 Light Up the Stage
 2 Light Up the Stage
 3 Light Up the Stage
 4 Light Up the Stage
-15 Mountain
 4 Shock
+15 Mountain
 1 Lightning Strike
 2 Lightning Strike
 1 Bonecrusher Giant
@@ -49,13 +49,14 @@
 1 Lightning Axe
 4 Roiling Vortex
 1 Castle Embereth
-2 Lightning Axe
 1 Steam Vents
 1 Spirebluff Canal
 2 Steam Vents
 2 Spirebluff Canal
 3 Steam Vents
 4 Steam Vents
+2 Lightning Axe
+3 Bonecrusher Giant
 1 Skewer the Critics
 2 Skewer the Critics
 3 Skewer the Critics
@@ -73,21 +74,17 @@
 4 Needleverge Pathway
 4 Sacred Foundry
 4 Lightning Helix
-3 Bonecrusher Giant
+4 Bonecrusher Giant
 2 Inspiring Vantage
 3 Inspiring Vantage
 4 Inspiring Vantage
-4 Bonecrusher Giant
 1 Treasure Vault
 2 Treasure Vault
 3 Treasure Vault
-2 Shatterskull Smashing
-1 Sprite Dragon
 1 Stormwing Entity
 1 Expressive Iteration
 1 Riverglide Pathway
 1 Opt
-2 Sprite Dragon
 2 Stormwing Entity
 2 Expressive Iteration
 2 Riverglide Pathway
@@ -102,6 +99,9 @@
 4 Spirebluff Canal
 4 Expressive Iteration
 4 Riverglide Pathway
+2 Shatterskull Smashing
+1 Sprite Dragon
+2 Sprite Dragon
 4 Treasure Vault
 1 Spikefield Hazard
 2 Spikefield Hazard
@@ -147,6 +147,11 @@
 1 The Flame of Keld
 2 Leyline of Combustion
 2 The Flame of Keld
+1 Brazen Borrower
+1 Island
+2 Brazen Borrower
+2 Island
+3 Island
 1 Maximize Velocity
 2 Castle Embereth
 4 Goblin Chainwhirler
