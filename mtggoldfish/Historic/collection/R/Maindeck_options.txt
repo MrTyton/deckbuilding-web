@@ -1,22 +1,24 @@
-2 Static Discharge
-3 Static Discharge
-4 Static Discharge
-14 Mountain
-1 Roiling Vortex
-1 Soul-Scar Mage
-2 Soul-Scar Mage
 3 Soul-Scar Mage
 4 Soul-Scar Mage
-2 Roiling Vortex
 1 Shock
 2 Shock
+13 Mountain
+1 Managorger Phoenix
+2 Managorger Phoenix
+3 Managorger Phoenix
+4 Managorger Phoenix
+1 Roiling Vortex
+14 Mountain
+2 Roiling Vortex
+3 Shock
 1 Light Up the Stage
 2 Light Up the Stage
 3 Light Up the Stage
 4 Light Up the Stage
 15 Mountain
-3 Shock
 4 Shock
+1 Lightning Strike
+2 Lightning Strike
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 1 Pillar of Flame
@@ -39,25 +41,29 @@
 2 Flameblade Adept
 3 Flameblade Adept
 4 Flameblade Adept
-1 Lightning Strike
-2 Lightning Strike
-3 Pillar of Flame
-1 Lightning Axe
-3 Roiling Vortex
 3 Lightning Strike
 4 Lightning Strike
+3 Pillar of Flame
+1 Shatterskull Smashing
+3 Roiling Vortex
+1 Lightning Axe
 4 Roiling Vortex
 1 Castle Embereth
-1 Shatterskull Smashing
 2 Lightning Axe
+1 Steam Vents
+1 Spirebluff Canal
+2 Steam Vents
+2 Spirebluff Canal
+3 Steam Vents
+4 Steam Vents
 1 Skewer the Critics
 2 Skewer the Critics
 3 Skewer the Critics
 4 Skewer the Critics
 1 Needleverge Pathway
-1 Sacred Foundry
 1 Lightning Helix
 1 Inspiring Vantage
+1 Sacred Foundry
 2 Needleverge Pathway
 2 Sacred Foundry
 2 Lightning Helix
@@ -76,12 +82,26 @@
 2 Treasure Vault
 3 Treasure Vault
 2 Shatterskull Smashing
-1 Steam Vents
-1 Spirebluff Canal
-2 Steam Vents
-2 Spirebluff Canal
-3 Steam Vents
-4 Steam Vents
+1 Sprite Dragon
+1 Stormwing Entity
+1 Expressive Iteration
+1 Riverglide Pathway
+1 Opt
+2 Sprite Dragon
+2 Stormwing Entity
+2 Expressive Iteration
+2 Riverglide Pathway
+2 Opt
+3 Stormwing Entity
+3 Opt
+3 Spirebluff Canal
+3 Riverglide Pathway
+3 Expressive Iteration
+4 Stormwing Entity
+4 Opt
+4 Spirebluff Canal
+4 Expressive Iteration
+4 Riverglide Pathway
 4 Treasure Vault
 1 Spikefield Hazard
 2 Spikefield Hazard
@@ -92,6 +112,7 @@
 2 Torbran, Thane of Red Fell
 1 Hazoret the Fervent
 2 Hazoret the Fervent
+3 Sprite Dragon
 1 Play with Fire
 2 Play with Fire
 3 Play with Fire
@@ -110,6 +131,7 @@
 1 Forgotten Cave
 2 Forgotten Cave
 3 Forgotten Cave
+1 Rampaging Ferocidon
 1 Footfall Crater
 1 Chandra, Torch of Defiance
 1 Bloodbraid Marauder
