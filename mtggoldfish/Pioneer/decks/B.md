@@ -60,7 +60,7 @@
 |                    3|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)   |                     |                                                                                                   |
 |                    3|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)        |                     |                                                                                                   |
 |                    3|[Caves of Koilos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129497)       |                     |                                                                                                   |
-|                    4|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)        |                     |                                                                                                   |
 |                    4|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)   |                     |                                                                                                   |
+|                    4|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)        |                     |                                                                                                   |
 |                    4|[Caves of Koilos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129497)       |                     |                                                                                                   |
 
