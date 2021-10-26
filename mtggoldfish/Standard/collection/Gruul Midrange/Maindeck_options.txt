@@ -1,11 +1,11 @@
 2 Prosperous Innkeeper
 3 Prosperous Innkeeper
-1 Moonveil Regent
 3 Den of the Bugbear
-2 Moonveil Regent
 4 Prosperous Innkeeper
+1 Moonveil Regent
 1 Inferno of the Star Mounts
 1 Arlinn, the Pack's Hope
+2 Moonveil Regent
 3 Lair of the Hydra
 5 Mountain
 3 Briarbridge Tracker
@@ -27,17 +27,19 @@
 2 Snakeskin Veil
 1 Kessig Naturalist
 2 Kessig Naturalist
-1 Primal Adversary
 4 Werewolf Pack Leader
+1 Play with Fire
+2 Play with Fire
+1 Primal Adversary
+2 Primal Adversary
+3 Play with Fire
+4 Play with Fire
+1 Thundering Rebuke
 1 Tangled Florahedron
 2 Tangled Florahedron
-2 Primal Adversary
-1 Thundering Rebuke
 1 Burning Hands
 2 Burning Hands
 3 Burning Hands
-1 Play with Fire
-2 Play with Fire
 3 Kessig Naturalist
 4 Kessig Naturalist
 1 Snow-Covered Mountain
@@ -49,6 +51,8 @@
 4 Snow-Covered Forest
 4 Wrenn and Seven
 7 Mountain
+1 Dragonkin Berserker
+2 Dragonkin Berserker
 1 Turntimber Symbiosis
 1 Lotus Cobra
 2 Lotus Cobra
@@ -65,15 +69,11 @@
 1 Burn Down the House
 1 Highland Forest
 1 Bloodthirsty Adversary
+2 Bloodthirsty Adversary
 2 Burn Down the House
 2 Highland Forest
-2 Bloodthirsty Adversary
 3 Highland Forest
 4 Highland Forest
-3 Play with Fire
-4 Play with Fire
-3 Tangled Florahedron
-4 Tangled Florahedron
 4 Briarbridge Tracker
 1 Roil Eruption
 1 Cathartic Pyre
@@ -102,8 +102,6 @@
 3 Burn Down the House
 3 Field of Ruin
 1 Vorinclex, Monstrous Raider
-1 Dragonkin Berserker
-2 Dragonkin Berserker
 3 Blizzard Brawl
 4 Blizzard Brawl
 8 Snow-Covered Forest
@@ -122,6 +120,8 @@
 3 Devouring Tendrils
 4 Arlinn, the Pack's Hope
 4 Lair of the Hydra
+3 Tangled Florahedron
+4 Tangled Florahedron
 1 Masked Vandal
 2 Turntimber Symbiosis
 2 Vorinclex, Monstrous Raider

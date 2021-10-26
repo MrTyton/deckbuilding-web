@@ -1,7 +1,7 @@
 # High Tide
 
 #### [Export MTGO List](../collection/High%20Tide/High%20Tide.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Brainstorm%0A3%09Cunning%20Wish%0A1%09Flooded%20Strand%0A3%09Flusterstorm%0A4%09Force%20of%20Will%0A4%09High%20Tide%0A1%09Intuition%0A12%09Island%0A4%09Merchant%20Scroll%0A1%09Misty%20Rainforest%0A1%09Pact%20of%20Negation%0A1%09Polluted%20Delta%0A4%09Ponder%0A3%09Predict%0A4%09Preordain%0A2%09Prismatic%20Vista%0A1%09Scalding%20Tarn%0A4%09Time%20Spiral%0A3%09Turnabout&deckside=1%09Blue%20Sun's%20Zenith%0A1%09Brain%20Freeze%0A4%09Dress%20Down%0A1%09Echoing%20Truth%0A1%09Force%20of%20Negation%0A1%09Hurkyl's%20Recall%0A3%09Pact%20of%20Negation%0A1%09Snap%0A1%09Teferi's%20Realm%0A1%09Turnabout)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Brainstorm%0A3%09Cunning%20Wish%0A1%09Flooded%20Strand%0A3%09Flusterstorm%0A4%09Force%20of%20Will%0A4%09High%20Tide%0A1%09Intuition%0A12%09Island%0A4%09Merchant%20Scroll%0A1%09Misty%20Rainforest%0A1%09Pact%20of%20Negation%0A1%09Polluted%20Delta%0A4%09Ponder%0A3%09Predict%0A4%09Preordain%0A2%09Prismatic%20Vista%0A1%09Scalding%20Tarn%0A4%09Time%20Spiral%0A3%09Turnabout&deckside=1%09Blue%20Sun's%20Zenith%0A1%09Brain%20Freeze%0A3%09Dress%20Down%0A1%09Echoing%20Truth%0A1%09Force%20of%20Negation%0A1%09Hurkyl's%20Recall%0A3%09Pact%20of%20Negation%0A1%09Snap%0A2%09Teferi's%20Realm%0A1%09Turnabout)
 # Maindeck
 
 |                                        Instant (26)                                         |                                          Land (18)                                          |                                       Sorcery (16)                                        |
@@ -21,8 +21,8 @@
 
 |                                     Enchantment (5)                                     |                                         Instant (10)                                         |
 |-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|4 [Dress Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522115)  |1 [Blue Sun's Zenith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442033)|
-|1 [Teferi's Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3651)|1 [Brain Freeze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=47599)      |
+|3 [Dress Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522115)  |1 [Blue Sun's Zenith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442033)|
+|2 [Teferi's Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3651)|1 [Brain Freeze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=47599)      |
 |                                                                                         |1 [Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)    |
 |                                                                                         |1 [Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
 |                                                                                         |1 [Hurkyl's Recall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135260)  |
@@ -35,15 +35,15 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)   |                    2|[Teferi's Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3651)       |
-|                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)   |                    1|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)     |
-|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)    |                    1|[Wipe Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118911)          |
-|                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|                    1|[Meditate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4713)             |
-|                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|                    1|[Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989)   |
-|                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |
-|                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)   |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |
-|                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)   |                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |
-|                    1|[Mystic Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473209) |                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |
+|                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)   |                    4|[Dress Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522115)         |
+|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)    |                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |
+|                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)   |                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |
+|                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|                    1|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)     |
+|                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|                    1|[Wipe Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118911)          |
+|                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|                    1|[Meditate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4713)             |
+|                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)   |                    1|[Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989)   |
+|                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)   |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |
+|                    1|[Mystic Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473209) |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |
 |                    1|[Counterspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=699)        |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                    1|[Meditate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4713)           |                    1|[Repeal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405357)             |
 |                    1|[Candelabra of Tawnos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=999)|                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |

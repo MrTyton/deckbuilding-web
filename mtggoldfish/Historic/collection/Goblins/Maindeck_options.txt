@@ -1,15 +1,13 @@
 2 Phyrexian Tower
-1 Irencrag Feat
-1 Goblin Instigator
-2 Goblin Instigator
 2 Battle Cry Goblin
 3 Battle Cry Goblin
 4 Battle Cry Goblin
-4 Castle Embereth
+1 Irencrag Feat
 3 Den of the Bugbear
-3 Goblin Instigator
-18 Mountain
+1 Goblin Instigator
+2 Goblin Instigator
 2 Irencrag Feat
+4 Castle Embereth
 1 Herald's Horn
 2 Herald's Horn
 1 Goblin Trashmaster
@@ -28,6 +26,8 @@
 13 Snow-Covered Mountain
 14 Snow-Covered Mountain
 15 Snow-Covered Mountain
+3 Goblin Instigator
+18 Mountain
 2 Hobgoblin Bandit Lord
 3 Irencrag Feat
 3 Shatterskull Smashing
@@ -36,6 +36,8 @@
 2 Faceless Haven
 2 Gempalm Incinerator
 1 Goblin Ringleader
+1 Pashalik Mons
+2 Pashalik Mons
 1 Kazuul's Fury
 1 Scorching Dragonfire
 2 Kazuul's Fury
@@ -49,17 +51,6 @@
 20 Snow-Covered Mountain
 19 Mountain
 20 Mountain
-1 Pashalik Mons
-2 Pashalik Mons
-3 Hobgoblin Bandit Lord
-1 Goblin Chainwhirler
-1 Mind Stone
-2 Mind Stone
-2 Goblin Ringleader
-3 Goblin Ringleader
-4 Den of the Bugbear
-21 Mountain
-3 Gempalm Incinerator
 1 Blood Crypt
 1 Sling-Gang Lieutenant
 1 Blightstep Pathway
@@ -67,14 +58,7 @@
 2 Sling-Gang Lieutenant
 3 Blightstep Pathway
 4 Blightstep Pathway
-4 Hobgoblin Bandit Lord
-4 Goblin Instigator
-1 Insult/Injury
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
-2 Goblin Trashmaster
-1 Siege-Gang Commander
-4 Goblin Ringleader
+3 Hobgoblin Bandit Lord
 1 Munitions Expert
 1 Dragonskull Summit
 2 Munitions Expert
@@ -83,6 +67,22 @@
 3 Sling-Gang Lieutenant
 3 Munitions Expert
 4 Munitions Expert
+1 Goblin Chainwhirler
+1 Mind Stone
+2 Mind Stone
+2 Goblin Ringleader
+3 Goblin Ringleader
+4 Den of the Bugbear
+21 Mountain
+3 Gempalm Incinerator
+4 Hobgoblin Bandit Lord
+4 Goblin Instigator
+1 Insult/Injury
+2 Goblin Trashmaster
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
+1 Siege-Gang Commander
+4 Goblin Ringleader
 4 Shatterskull Smashing
 1 Goblin Javelineer
 2 Goblin Javelineer
@@ -108,8 +108,8 @@
 3 Goblin Anarchomancer
 3 Collected Company
 3 Cragcrown Pathway
-4 Rootbound Crag
 4 Goblin Anarchomancer
+4 Rootbound Crag
 4 Collected Company
 4 Stomping Ground
 1 Needleverge Pathway
@@ -121,8 +121,8 @@
 2 Sacred Foundry
 3 Needleverge Pathway
 3 Sacred Foundry
-4 Sacred Foundry
 4 Needleverge Pathway
+4 Sacred Foundry
 2 Blood Crypt
 3 Blood Crypt
 3 Pashalik Mons

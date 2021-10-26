@@ -12,10 +12,10 @@
 2 Pillar of the Paruns
 3 Abrupt Decay
 1 Snow-Covered Island
-1 Snow-Covered Swamp
-1 Snow-Covered Plains
 1 Snow-Covered Forest
+1 Snow-Covered Plains
 1 Snow-Covered Mountain
+1 Snow-Covered Swamp
 1 Godless Shrine
 2 Verdant Catacombs
 4 Misty Rainforest
@@ -56,9 +56,9 @@
 1 Vindicate
 2 Vindicate
 1 Vanishing Verse
-1 Zagoth Triome
 1 Raugrin Triome
 1 Flooded Strand
+1 Zagoth Triome
 2 Flooded Strand
 1 Prismari Command
 1 Valki, God of Lies
@@ -72,8 +72,8 @@
 1 Ashiok, Dream Render
 1 Reflecting Pool
 2 Forest
-3 Prismari Command
 3 Assassin's Trophy
+3 Prismari Command
 1 Force of Negation
 1 Manamorphose
 1 Izzet Charm
@@ -81,7 +81,7 @@
 2 Izzet Charm
 3 Force of Negation
 4 Growth Spiral
-1 Rip Apart
-3 Vindicate
 3 Glittering Wish
 3 Territorial Kavu
+1 Rip Apart
+3 Vindicate

@@ -37,7 +37,7 @@
 |                     |             |                    1|[Play with Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534933)               |
 |                     |             |                    2|[Burning Hands](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527422)                |
 |                     |             |                    2|[Play with Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534933)               |
-|                     |             |                    3|[Play with Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534933)               |
-|                     |             |                    4|[Burning Hands](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527422)                |
 |                     |             |                    3|[Burning Hands](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527422)                |
+|                     |             |                    4|[Burning Hands](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527422)                |
+|                     |             |                    3|[Play with Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534933)               |
 
