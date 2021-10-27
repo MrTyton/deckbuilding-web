@@ -29,21 +29,21 @@
 3 Vanishing Verse
 1 Elderfang Disciple
 1 Enduring Angel
-1 Sigarda's Splendor
 1 Snowfield Sinkhole
-1 Search for Glory
-1 The Book of Exalted Deeds
 1 Liesa, Forgotten Archangel
 1 Snow-Covered Plains
+1 Search for Glory
+1 Sigarda's Splendor
+1 The Book of Exalted Deeds
 2 Snowfield Sinkhole
 2 The Book of Exalted Deeds
-2 Search for Glory
 2 Snow-Covered Plains
-3 Search for Glory
+2 Search for Glory
 3 Snowfield Sinkhole
 3 Snow-Covered Plains
-4 Search for Glory
+3 Search for Glory
 4 Snowfield Sinkhole
+4 Search for Glory
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 6 Snow-Covered Plains
@@ -58,9 +58,9 @@
 1 Snow-Covered Swamp
 1 Kaya the Inexorable
 1 Faceless Haven
+2 Elderfang Disciple
 2 Snow-Covered Swamp
 2 Kaya the Inexorable
-2 Elderfang Disciple
 2 Faceless Haven
 3 Snow-Covered Swamp
 3 Kaya the Inexorable
@@ -75,13 +75,13 @@
 1 Ondu Inversion
 1 Maul of the Skyclaves
 2 Malakir Rebirth
-2 Maul of the Skyclaves
 2 Ondu Inversion
-1 Skemfar Shadowsage
+2 Maul of the Skyclaves
 1 Firja's Retribution
 1 Glorious Protector
-1 Drana, the Last Bloodchief
 1 Demon's Disciple
+1 Drana, the Last Bloodchief
+1 Skemfar Shadowsage
 2 Firja's Retribution
 2 Elite Spellbinder
 3 Firja's Retribution
@@ -117,8 +117,8 @@
 1 Luminarch Aspirant
 3 Chaplain of Alms
 3 Pyre of Heroes
-4 Chaplain of Alms
 4 Pyre of Heroes
+4 Chaplain of Alms
 9 Plains
 1 Starnheim Aspirant
 2 Liesa, Forgotten Archangel

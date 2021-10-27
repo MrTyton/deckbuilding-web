@@ -6,19 +6,9 @@
 14 Plains
 1 Castle Ardenvale
 1 Eiganjo Castle
+1 Sanctum Prelate
 2 Silent Clearing
 3 Silent Clearing
-1 Sanctum Prelate
-4 Tectonic Edge
-4 Esper Sentinel
-4 Silent Clearing
-15 Plains
-1 Ambitious Farmhand
-2 Ambitious Farmhand
-3 Ambitious Farmhand
-4 Ambitious Farmhand
-2 Mishra's Factory
-3 Mishra's Factory
 2 Horizon Canopy
 3 Horizon Canopy
 1 Shadowspear
@@ -41,22 +31,32 @@
 4 Imperial Recruiter
 4 Inspiring Vantage
 1 Kiki-Jiki, Mirror Breaker
-1 Windswept Heath
 1 Archangel Avacyn
+1 Windswept Heath
 1 Ephemerate
 1 Rugged Prairie
 1 Wall of Omens
 1 Felidar Guardian
 2 Windswept Heath
-2 Rugged Prairie
 2 Ephemerate
 2 Wall of Omens
+2 Rugged Prairie
 3 Ephemerate
 3 Wall of Omens
 3 Windswept Heath
 4 Wall of Omens
 4 Windswept Heath
 4 Ephemerate
+4 Tectonic Edge
+4 Esper Sentinel
+15 Plains
+1 Ambitious Farmhand
+2 Ambitious Farmhand
+3 Ambitious Farmhand
+4 Ambitious Farmhand
+4 Silent Clearing
+2 Mishra's Factory
+3 Mishra's Factory
 1 Sunbaked Canyon
 16 Plains
 3 Charming Prince
@@ -89,11 +89,11 @@
 1 Aven Mindcensor
 1 Razorverge Thicket
 1 Noble Hierarch
-1 Scavenging Ooze
 1 Temple Garden
+1 Scavenging Ooze
 1 Forest
-2 Temple Garden
 2 Razorverge Thicket
+2 Temple Garden
 2 Forest
 2 Noble Hierarch
 2 Scavenging Ooze
@@ -125,8 +125,8 @@
 4 Brushland
 4 Oath of Nissa
 1 Lightning Bolt
-1 Brutal Cathar
 1 Sanctifier en-Vec
+1 Brutal Cathar
 1 Slayers' Stronghold
 1 Prismatic Vista
 2 Lightning Bolt

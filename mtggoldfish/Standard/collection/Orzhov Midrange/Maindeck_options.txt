@@ -59,7 +59,6 @@
 10 Snow-Covered Swamp
 2 Valkyrie Harbinger
 1 Priest of the Haunted Edge
-1 Potion of Healing
 1 Minimus Containment
 1 Draugr Necromancer
 1 Ondu Inversion
@@ -71,9 +70,9 @@
 1 Priest of Ancient Lore
 1 Mila, Crafty Companion
 1 Archway Commons
+1 Potion of Healing
 1 Mask of Griselbrand
 2 Priest of the Haunted Edge
-2 Potion of Healing
 2 Minimus Containment
 2 Borrowed Time
 2 Kor Celebrant
@@ -83,6 +82,7 @@
 2 Mila, Crafty Companion
 2 Rune of Sustenance
 2 Priest of Ancient Lore
+2 Potion of Healing
 2 Archway Commons
 3 Priest of the Haunted Edge
 3 Angel of Destiny
@@ -251,18 +251,22 @@
 4 Stonebinder's Familiar
 4 Sungold Sentinel
 4 Tainted Adversary
-1 Enduring Angel
-1 Can't Stay Away
-4 Starnheim Unleashed
-3 Graveyard Trespasser
-4 Graveyard Trespasser
-4 Duress
 1 Icingdeath, Frost Tyrant
 1 Ambitious Farmhand
 2 Icingdeath, Frost Tyrant
 2 Ambitious Farmhand
 3 Ambitious Farmhand
 4 Ambitious Farmhand
+1 Enduring Angel
+1 Can't Stay Away
+4 Starnheim Unleashed
+3 Loyal Warhound
+3 Rampage of the Valkyries
+4 Cave of the Frost Dragon
+4 Loyal Warhound
+3 Graveyard Trespasser
+4 Graveyard Trespasser
+4 Duress
 1 Cleric of Life's Bond
 2 Cleric of Life's Bond
 3 Cleric of Life's Bond
@@ -290,10 +294,6 @@
 4 Valkyrie Harbinger
 4 Starnheim Aspirant
 4 Liesa, Forgotten Archangel
-3 Rampage of the Valkyries
-3 Loyal Warhound
-4 Cave of the Frost Dragon
-4 Loyal Warhound
 2 Callous Bloodmage
 4 Skullport Merchant
 1 Silverquill Command

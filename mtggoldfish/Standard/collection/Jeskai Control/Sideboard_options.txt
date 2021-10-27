@@ -51,13 +51,13 @@
 4 Sunset Revelry
 2 Cinderclasm
 1 Reduce to Memory
-1 Smoldering Egg
-1 Heated Debate
 1 Archon of Emeria
+1 Heated Debate
+1 Smoldering Egg
 1 Suspicious Stowaway
 2 Suspicious Stowaway
-2 Saw It Coming
 2 Annul
+2 Saw It Coming
 1 Alrund's Epiphany
 2 Alrund's Epiphany
 1 Invoke the Divine
@@ -71,16 +71,14 @@
 3 Ruin Crab
 2 Mind Flayer
 3 Mind Flayer
-1 Start from Scratch
-3 Rip Apart
-1 Academic Probation
-3 Portable Hole
-3 Fateful Absence
-3 Negate
-3 Doomskar
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
+1 Academic Probation
+3 Portable Hole
+1 Start from Scratch
+3 Rip Apart
+3 Doomskar
 1 Divide by Zero
 1 Luminarch Aspirant
 2 Divide by Zero
@@ -88,8 +86,10 @@
 3 Divide by Zero
 3 Cinderclasm
 3 Luminarch Aspirant
-4 Test of Talents
+3 Negate
+3 Fateful Absence
 4 Elite Spellbinder
+4 Test of Talents
 1 Elemental Summoning
 2 Reduce to Memory
 2 Elemental Summoning

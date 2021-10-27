@@ -51,8 +51,8 @@
 1 Overgrown Tomb
 1 Binding the Old Gods
 2 Binding the Old Gods
-3 Zagoth Triome
 3 Binding the Old Gods
+3 Zagoth Triome
 1 Sunpetal Grove
 1 Plains
 2 Plains
@@ -99,9 +99,9 @@
 3 Trial of Ambition
 3 Oath of Kaya
 3 Calix, Destiny's Hand
-3 Overgrown Tomb
 3 Skyclave Apparition
 3 Enigmatic Incarnation
+3 Overgrown Tomb
 3 Glacial Fortress
 3 Elspeth's Nightmare
 3 In Search of Greatness
@@ -215,22 +215,22 @@
 2 Island
 1 Barkchannel Pathway
 1 Koma, Cosmos Serpent
+1 Darkbore Pathway
 1 Lotus Cobra
 1 Vineglimmer Snarl
 1 Gemrazer
 1 Fabled Passage
-1 Necroblossom Snarl
-1 Paradise Druid
 1 Temple of Deceit
+1 Necroblossom Snarl
 1 Temple of Malady
+1 Paradise Druid
 1 Tamiyo, Collector of Tales
-1 The Great Henge
 1 Season of Growth
 1 Vivien, Champion of the Wilds
 1 Vivien Reid
 1 Scute Swarm
 1 Nissa, Who Shakes the World
-1 Darkbore Pathway
+1 The Great Henge
 1 Gilded Goose
 1 Castle Vantress
 1 Castle Locthwain
@@ -245,6 +245,7 @@
 1 Pollywog Symbiote
 1 Pouncing Shoreshark
 2 Nissa, Who Shakes the World
+2 Darkbore Pathway
 2 Lotus Cobra
 2 Fabled Passage
 2 Paradise Druid
@@ -256,7 +257,6 @@
 2 Pollywog Symbiote
 2 Migratory Greathorn
 2 Pouncing Shoreshark
-2 Darkbore Pathway
 2 Insatiable Hemophage
 2 Gemrazer
 2 Swamp
@@ -321,8 +321,8 @@
 4 Hydroid Krasis
 4 Genesis Ultimatum
 1 Branchloft Pathway
-1 Needleverge Pathway
 1 Hengegate Pathway
+1 Needleverge Pathway
 1 Sterling Grove
 1 Sanctum of Shattered Heights
 1 Sanctum of Calm Waters
@@ -340,8 +340,8 @@
 1 Sanctum of Fruitful Harvest
 1 Sanctum of Tranquil Light
 2 Branchloft Pathway
-2 Needleverge Pathway
 2 Barkchannel Pathway
+2 Needleverge Pathway
 2 Sanctum Weaver
 2 Sythis, Harvest's Hand
 2 Baffling End
@@ -366,8 +366,8 @@
 4 Sterling Grove
 4 Sanctum of All
 4 Sanctum Weaver
-1 Cragcrown Pathway
 1 Khalni Garden
+1 Cragcrown Pathway
 1 The Tarrasque
 1 Phyrexian Tower
 1 Tibalt's Trickery
@@ -398,17 +398,17 @@
 2 Emergent Ultimatum
 2 Riverglide Pathway
 2 Scholar of the Lost Trove
-3 Cragcrown Pathway
-3 Emergent Ultimatum
 3 Alrund's Epiphany
+3 Emergent Ultimatum
+3 Cragcrown Pathway
 3 Throes of Chaos
 3 Khalni Garden
 3 Riverglide Pathway
 3 Blood Crypt
 3 Magma Opus
 3 Steam Vents
-4 Cragcrown Pathway
 4 Alrund's Epiphany
+4 Cragcrown Pathway
 4 Throes of Chaos
 4 Emergent Ultimatum
 4 Riverglide Pathway

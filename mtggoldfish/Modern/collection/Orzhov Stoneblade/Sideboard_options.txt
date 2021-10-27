@@ -1,10 +1,10 @@
 2 Path to Exile
+1 Damn
+2 Damn
 1 Kataki, War's Wage
 2 Kataki, War's Wage
 1 Nihil Spellbomb
 2 Hushbringer
-1 Damn
-2 Damn
 1 Chalice of the Void
 2 Chalice of the Void
 1 Fracture
@@ -20,12 +20,14 @@
 2 Extirpate
 3 Extirpate
 3 Damn
-2 Drannith Magistrate
 1 Knight of Malice
 1 Kaya's Guile
 1 Kaya, Orzhov Usurper
+2 Drannith Magistrate
 1 Stony Silence
 2 Stony Silence
+1 Surgical Extraction
+2 Surgical Extraction
 1 Remorseful Cleric
 1 Sword of Truth and Justice
 2 Remorseful Cleric
@@ -41,10 +43,8 @@
 2 Kaya, Orzhov Usurper
 1 Ashiok, Dream Render
 2 Ashiok, Dream Render
-1 Surgical Extraction
-2 Surgical Extraction
-1 Auriok Champion
 1 Collective Brutality
+1 Auriok Champion
 1 Solitude
 1 Lingering Souls
 1 Dark Confidant
@@ -62,6 +62,8 @@
 1 Vanishing Verse
 2 Vanishing Verse
 2 Pithing Needle
+1 Rest in Peace
+2 Rest in Peace
 1 Despark
 1 Leyline of the Void
 2 Leyline of the Void
@@ -71,17 +73,10 @@
 2 Crime/Punishment
 3 Surgical Extraction
 3 Hushbringer
-1 Leyline of Sanctity
-2 Inquisition of Kozilek
-2 Leyline of Sanctity
-3 Inquisition of Kozilek
-3 Leyline of Sanctity
-4 Leyline of Sanctity
-4 Inquisition of Kozilek
 1 Duress
 1 Bitterblossom
 2 Duress
 3 Duress
 4 Duress
-4 Sanctifier en-Vec
 4 Thoughtseize
+4 Sanctifier en-Vec

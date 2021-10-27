@@ -1,23 +1,23 @@
 1 Force of Vigor
 2 Force of Vigor
-1 Counterspell
-1 Veil of Summer
-1 Force of Negation
+1 Obsidian Charmaw
+2 Obsidian Charmaw
 1 Spreading Seas
+1 Force of Negation
+2 Counterspell
 2 Force of Negation
 1 Drannith Magistrate
-2 Counterspell
-3 Force of Vigor
-1 Rest in Peace
-2 Rest in Peace
 3 Counterspell
-3 Force of Negation
+3 Force of Vigor
 3 Obsidian Charmaw
+3 Force of Negation
 2 Spreading Seas
 1 Fury
 1 Chalice of the Void
-2 Drannith Magistrate
+1 Rest in Peace
+2 Rest in Peace
 2 Chalice of the Void
+2 Drannith Magistrate
 1 Sanctifier en-Vec
 1 Kataki, War's Wage
 1 Tourach, Dread Cantor
@@ -28,32 +28,28 @@
 2 Remorseful Cleric
 2 Sanctifier en-Vec
 3 Sanctifier en-Vec
+1 Engineered Explosives
+2 Engineered Explosives
 1 Sunset Revelry
-1 Emrakul, the Aeons Torn
-1 Subtlety
-2 Subtlety
-1 Elspeth, Sun's Nemesis
-3 Dovin's Veto
-3 Rest in Peace
 1 Knight of Autumn
 1 Path to Exile
 2 Veil of Summer
 3 Fracture
-4 Flusterstorm
 3 Endurance
 1 Mystical Dispute
 2 Sunset Revelry
-1 Engineered Explosives
-2 Engineered Explosives
+1 Subtlety
 1 Shark Typhoon
+2 Subtlety
 2 Shark Typhoon
-2 Elspeth, Sun's Nemesis
-3 Elspeth, Sun's Nemesis
+1 Elspeth, Sun's Nemesis
+3 Dovin's Veto
+1 Emrakul, the Aeons Torn
+3 Rest in Peace
 1 Celestial Purge
 1 Eternal Witness
 1 Stony Silence
 1 Chandra, Awakened Inferno
-1 Kozilek, Butcher of Truth
 1 Oketra's Last Mercy
 1 Burrenton Forge-Tender
 1 Sanctum Prelate
@@ -73,10 +69,10 @@
 1 Wear/Tear
 2 Wear/Tear
 2 Fury
-3 Subtlety
 3 Engineered Explosives
 1 Unholy Heat
 3 Sunset Revelry
+4 Counterspell
 3 Shark Typhoon
 3 Chalice of the Void
 4 Chalice of the Void
@@ -93,7 +89,11 @@
 4 Faerie Macabre
 4 Drannith Magistrate
 2 Celestial Purge
+2 Elspeth, Sun's Nemesis
+3 Elspeth, Sun's Nemesis
 4 Rest in Peace
 4 Dovin's Veto
+1 Kozilek, Butcher of Truth
+4 Flusterstorm
 4 Obsidian Charmaw
 4 Force of Negation

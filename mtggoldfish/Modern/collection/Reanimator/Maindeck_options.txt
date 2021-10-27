@@ -1,49 +1,52 @@
-1 Ephemerate
-2 Grief
 2 Ephemerate
 3 Grief
 3 Ephemerate
 4 Grief
 4 Ephemerate
+1 Mystic Gate
 1 Solitude
 2 Concealed Courtyard
 3 Concealed Courtyard
 2 Solitude
-1 Castle Vantress
+4 Teferi, Time Raveler
 1 Glacial Fortress
 3 Solitude
 4 Solitude
 3 Marsh Flats
+1 Castle Vantress
 2 Unburial Rites
 4 Marsh Flats
-4 Mulldrifter
 1 Zagoth Triome
 3 Watery Grave
+4 Mulldrifter
 1 Fatal Push
-1 Darkslick Shores
-2 Darkslick Shores
-2 Mystic Gate
 1 Priest of Fell Rites
 2 Priest of Fell Rites
 1 Drowned Catacomb
 1 River of Tears
+1 Ashen Rider
+1 Darkslick Shores
+2 Darkslick Shores
+2 Mystic Gate
+3 Hallowed Fountain
 1 Consider
 2 Consider
 3 Consider
-1 Ashen Rider
+2 River of Tears
+1 Windswept Heath
 3 Priest of Fell Rites
-2 Fatal Push
-3 Hallowed Fountain
-1 Raugrin Triome
 1 Bloodstained Mire
+2 Fatal Push
+4 Consider
+1 Raugrin Triome
 1 Savai Triome
 1 Nahiri, the Harbinger
 1 Steam Vents
 1 Fire/Ice
+1 Blood Crypt
 1 Hard Evidence
 1 Arid Mesa
 1 Scalding Tarn
-1 Blood Crypt
 1 Prismari Command
 1 Dwarven Mine
 1 Sacred Foundry
@@ -62,26 +65,23 @@
 3 Arid Mesa
 3 Scalding Tarn
 3 Steam Vents
-3 Indomitable Creativity
 3 Dwarven Mine
 3 Hard Evidence
+3 Indomitable Creativity
 3 Fire/Ice
 4 Arid Mesa
 4 Scalding Tarn
 4 Bloodstained Mire
 4 Indomitable Creativity
-4 Hard Evidence
 4 Fire/Ice
-4 Consider
+4 Hard Evidence
 2 Swamp
-2 River of Tears
 1 Collective Brutality
 1 Wall of Omens
 2 Wall of Omens
 2 Glacial Fortress
 3 Wall of Omens
 4 Wall of Omens
-1 Windswept Heath
 1 Snow-Covered Island
 1 Snow-Covered Swamp
 1 Snow-Covered Plains
@@ -90,16 +90,16 @@
 2 Supreme Verdict
 1 Kaya, Orzhov Usurper
 1 Verdant Catacombs
-1 Indatha Triome
 1 Grist, the Hunger Tide
 1 Temple Garden
+1 Indatha Triome
 1 Satyr Wayfinder
 1 Grisly Salvage
 1 Eternal Witness
 1 Forest
 2 Verdant Catacombs
-2 Overgrown Tomb
 2 Grist, the Hunger Tide
+2 Overgrown Tomb
 2 Windswept Heath
 2 Satyr Wayfinder
 2 Grisly Salvage
@@ -115,8 +115,8 @@
 1 Asmoranomardicadaistinaculdacar
 2 Glasspool Mimic
 2 The Underworld Cookbook
-2 Serra's Emissary
 2 Bone Shards
+2 Serra's Emissary
 2 Asmoranomardicadaistinaculdacar
 2 Chart a Course
 2 Ovalchase Daredevil
@@ -169,6 +169,10 @@
 3 Swamp
 3 Stoneforge Mystic
 3 Godless Shrine
+1 Otherworldly Gaze
+2 Otherworldly Gaze
+3 Otherworldly Gaze
+4 Otherworldly Gaze
 1 Seachrome Coast
 1 Sunken Ruins
 1 Force of Negation

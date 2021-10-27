@@ -7,24 +7,28 @@
 2 Teferi, Time Raveler
 4 Prismatic Ending
 1 Force of Negation
-3 Teferi, Hero of Dominaria
-1 Godless Shrine
 2 Force of Negation
 1 Misty Rainforest
 1 Zagoth Triome
+1 Godless Shrine
+3 Teferi, Hero of Dominaria
+1 Vindicate
 1 Timeless Dragon
+1 Memory Deluge
 2 Supreme Verdict
 3 Teferi, Time Raveler
 3 Watery Grave
+4 Island
 4 Drowned Catacomb
 2 Plains
 1 Scalding Tarn
 2 Scalding Tarn
 3 Esper Charm
 1 Engineered Explosives
+1 Murktide Regent
+2 Memory Deluge
+2 Murktide Regent
 1 Creeping Tar Pit
-1 Vindicate
-1 Memory Deluge
 1 Cling to Dust
 1 Spell Snare
 1 Kaya, Orzhov Usurper
@@ -34,13 +38,14 @@
 3 Thoughtseize
 1 Consider
 2 Consider
-4 Island
 1 Path to Exile
 2 Path to Exile
 1 Castle Ardenvale
+2 Castle Vantress
 3 Hallowed Fountain
 1 Fact or Fiction
-2 Castle Vantress
+2 Misty Rainforest
+3 Misty Rainforest
 4 Esper Charm
 1 Despark
 1 Blast Zone
@@ -49,9 +54,6 @@
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
 4 Inquisition of Kozilek
-1 Murktide Regent
-2 Memory Deluge
-2 Murktide Regent
 1 Solitude
 2 Solitude
 3 Solitude
@@ -64,8 +66,8 @@
 1 Isolated Chapel
 1 Dakkon, Shadow Slayer
 1 Ephemerate
-2 Field of Ruin
 2 Godless Shrine
+2 Field of Ruin
 2 Isolated Chapel
 2 Castle Ardenvale
 2 Dakkon, Shadow Slayer
@@ -84,8 +86,6 @@
 2 Cling to Dust
 1 Subtlety
 2 Timeless Dragon
-2 Misty Rainforest
-3 Misty Rainforest
 4 Kaya's Guile
 1 Breeding Pool
 1 Ketria Triome
@@ -139,6 +139,7 @@
 1 Choked Estuary
 1 Fallen Shinobi
 1 Ninja of the Deep Hours
+2 Creeping Tar Pit
 2 Fallen Shinobi
 2 Remand
 2 Changeling Outcast
@@ -147,7 +148,6 @@
 2 Slither Blade
 2 Ninja of the Deep Hours
 2 Ingenious Infiltrator
-2 Creeping Tar Pit
 2 Choked Estuary
 2 Heartless Act
 3 Swamp
