@@ -2,25 +2,15 @@
 4 Path to Exile
 3 Cave of the Frost Dragon
 1 Mishra's Factory
-3 Tectonic Edge
-14 Plains
-1 Castle Ardenvale
-1 Eiganjo Castle
 1 Sanctum Prelate
-2 Silent Clearing
-3 Silent Clearing
 2 Horizon Canopy
-3 Horizon Canopy
-1 Shadowspear
 1 Sacred Foundry
 1 Arid Mesa
-1 Needleverge Pathway
 1 Mountain
 1 Magus of the Moon
 1 Imperial Recruiter
 1 Inspiring Vantage
 2 Sacred Foundry
-2 Needleverge Pathway
 2 Arid Mesa
 2 Inspiring Vantage
 2 Imperial Recruiter
@@ -30,46 +20,56 @@
 4 Arid Mesa
 4 Imperial Recruiter
 4 Inspiring Vantage
+3 Horizon Canopy
+1 Shadowspear
 1 Kiki-Jiki, Mirror Breaker
-1 Archangel Avacyn
 1 Windswept Heath
 1 Ephemerate
-1 Rugged Prairie
 1 Wall of Omens
 1 Felidar Guardian
 2 Windswept Heath
 2 Ephemerate
 2 Wall of Omens
-2 Rugged Prairie
 3 Ephemerate
 3 Wall of Omens
 3 Windswept Heath
 4 Wall of Omens
 4 Windswept Heath
 4 Ephemerate
+1 Needleverge Pathway
+2 Needleverge Pathway
+3 Tectonic Edge
+14 Plains
+1 Castle Ardenvale
+1 Eiganjo Castle
+2 Silent Clearing
+3 Silent Clearing
+1 Archangel Avacyn
+1 Rugged Prairie
+2 Rugged Prairie
 4 Tectonic Edge
 4 Esper Sentinel
+1 Sunbaked Canyon
 15 Plains
 1 Ambitious Farmhand
 2 Ambitious Farmhand
 3 Ambitious Farmhand
 4 Ambitious Farmhand
 4 Silent Clearing
+3 Charming Prince
 2 Mishra's Factory
 3 Mishra's Factory
-1 Sunbaked Canyon
-16 Plains
-3 Charming Prince
-2 Sanctum Prelate
-4 Mishra's Factory
 1 Snow-Covered Plains
 2 Snow-Covered Plains
+2 Sunbaked Canyon
+16 Plains
+2 Sanctum Prelate
+4 Mishra's Factory
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains
-2 Sunbaked Canyon
 8 Snow-Covered Plains
 9 Snow-Covered Plains
 10 Snow-Covered Plains
@@ -82,6 +82,8 @@
 2 Cathar Commando
 3 Cathar Commando
 3 Restoration Angel
+1 Sanctifier en-Vec
+3 Sacred Foundry
 1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
@@ -110,6 +112,20 @@
 2 Sungold Sentinel
 1 Shining Shoal
 2 Shining Shoal
+1 Auriok Champion
+1 Phyrexian Metamorph
+3 Sunbaked Canyon
+4 Charming Prince
+1 Lightning Bolt
+1 Slayers' Stronghold
+1 Brutal Cathar
+1 Prismatic Vista
+2 Lightning Bolt
+2 Prismatic Vista
+3 Lightning Bolt
+3 Needleverge Pathway
+4 Lightning Bolt
+4 Needleverge Pathway
 1 Branchloft Pathway
 1 Brushland
 1 Augur of Autumn
@@ -124,18 +140,6 @@
 4 Branchloft Pathway
 4 Brushland
 4 Oath of Nissa
-1 Lightning Bolt
-1 Sanctifier en-Vec
-1 Brutal Cathar
-1 Slayers' Stronghold
-1 Prismatic Vista
-2 Lightning Bolt
-2 Prismatic Vista
-3 Lightning Bolt
-3 Sacred Foundry
-3 Needleverge Pathway
-4 Lightning Bolt
-4 Needleverge Pathway
 1 Voice of Resurgence
 1 Knight of Autumn
 1 Mirran Crusader

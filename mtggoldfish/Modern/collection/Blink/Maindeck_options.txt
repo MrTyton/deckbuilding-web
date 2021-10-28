@@ -11,30 +11,30 @@
 1 Counterspell
 2 Counterspell
 3 Counterspell
+1 Plains
 1 Teferi, Hero of Dominaria
 2 Endurance
-1 Plains
 1 Path to Exile
 1 Island
-4 Counterspell
 1 Wall of Omens
 2 Wall of Omens
+4 Counterspell
 1 Restoration Angel
-1 Mystic Gate
 1 Glacial Fortress
 1 Celestial Colonnade
 1 Castle Vantress
+1 Mystic Gate
 1 Archmage's Charm
 2 Hallowed Fountain
 2 Island
 2 Archmage's Charm
 3 Island
 3 Archmage's Charm
+3 Wall of Omens
 1 Omen of the Sea
 1 Scalding Tarn
 2 Scalding Tarn
 2 Omen of the Sea
-3 Wall of Omens
 3 Omen of the Sea
 4 Wall of Omens
 4 Island
@@ -46,24 +46,24 @@
 2 Supreme Verdict
 2 Castle Vantress
 3 Supreme Verdict
+2 Plains
 1 Hall of Storm Giants
 2 Celestial Colonnade
 5 Island
 1 Cryptic Command
 1 Polluted Delta
 2 Teferi, Hero of Dominaria
-2 Plains
 1 Skyclave Apparition
 1 Charming Prince
+1 Emeria's Call
+2 Charming Prince
+3 Plains
 1 Sword of Fire and Ice
 1 Kaldra Compleat
 1 Stoneforge Mystic
 1 Batterskull
-1 Emeria's Call
 2 Stoneforge Mystic
 2 Emeria's Call
-2 Charming Prince
-3 Plains
 3 Charming Prince
 3 Stoneforge Mystic
 3 Emeria's Call
@@ -103,6 +103,7 @@
 4 Malakir Rebirth
 4 Grief
 2 Snow-Covered Island
+1 Mountain
 2 Time Warp
 3 Endurance
 1 Lightning Helix
@@ -119,7 +120,6 @@
 2 Skyclave Apparition
 1 Chalice of the Void
 2 Chalice of the Void
-1 Mountain
 2 Restoration Angel
 1 Ragavan, Nimble Pilferer
 3 Wooded Foothills
@@ -128,12 +128,7 @@
 3 Glacial Fortress
 1 Force of Negation
 2 Force of Negation
-1 Field of Ruin
-2 Field of Ruin
-3 Restoration Angel
-3 Field of Ruin
-4 Field of Ruin
-4 Restoration Angel
+4 Fury
 1 Noble Hierarch
 1 Wall of Blossoms
 1 Soulherder
@@ -142,7 +137,25 @@
 2 Soulherder
 3 Noble Hierarch
 4 Noble Hierarch
+1 Field of Ruin
+2 Field of Ruin
+3 Restoration Angel
+3 Field of Ruin
+4 Field of Ruin
+4 Restoration Angel
+2 Arid Mesa
+3 Arid Mesa
+4 Arid Mesa
+1 Kiki-Jiki, Mirror Breaker
+1 Felidar Guardian
+1 Imperial Recruiter
 1 Castle Ardenvale
+1 Aether Vial
+2 Aether Vial
+3 Aether Vial
+4 Plains
+4 Aether Vial
+5 Plains
 2 Lightning Helix
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
@@ -157,30 +170,63 @@
 2 Forest
 2 Flusterstorm
 3 Flusterstorm
-4 Fury
 1 Sulfur Falls
-2 Arid Mesa
 2 Snapcaster Mage
 2 Steam Vents
 2 Raugrin Triome
 2 Unholy Heat
-3 Arid Mesa
 3 Unholy Heat
 3 Scalding Tarn
 3 Snapcaster Mage
-4 Arid Mesa
 4 Scalding Tarn
 4 Unholy Heat
 4 Snapcaster Mage
-1 Eladamri's Call
+1 Ghost Quarter
+1 Rugged Prairie
+1 Shatterskull Smashing
+1 Esper Sentinel
+1 Showdown of the Skalds
+1 Flagstones of Trokair
+1 Marsh Flats
+1 Sanctifier en-Vec
+1 Cleansing Wildfire
+1 Magus of the Moon
+1 Sanctum Prelate
+1 Rustvale Bridge
+1 Brought Back
+2 Rugged Prairie
+2 Esper Sentinel
+2 Sacred Foundry
+2 Marsh Flats
+2 Flagstones of Trokair
+2 Cleansing Wildfire
+2 Showdown of the Skalds
+2 Brought Back
+2 Imperial Recruiter
+2 Felidar Guardian
+2 Ghost Quarter
+3 Esper Sentinel
+3 Sacred Foundry
+3 Flagstones of Trokair
+3 Cleansing Wildfire
+3 Brought Back
+3 Imperial Recruiter
+3 Ghost Quarter
+3 Showdown of the Skalds
+4 Imperial Recruiter
+4 Esper Sentinel
+4 Flagstones of Trokair
+4 Cleansing Wildfire
+4 Showdown of the Skalds
+4 Ghost Quarter
+4 Sacred Foundry
+4 Brought Back
 1 Birds of Paradise
 1 Glasspool Mimic
-1 Kiki-Jiki, Mirror Breaker
+1 Eladamri's Call
 1 Auriok Champion
 1 Deputy of Detention
 1 Chord of Calling
-1 Felidar Guardian
-1 Imperial Recruiter
 1 Venser, Shaper Savant
 2 Prismatic Vista
 2 Birds of Paradise
@@ -205,11 +251,9 @@
 1 Sword of Hearth and Home
 1 Cave of the Frost Dragon
 1 Flickerwisp
-1 Aether Vial
 1 Giver of Runes
 2 Ambitious Farmhand
 2 Mishra's Factory
-2 Aether Vial
 2 Cave of the Frost Dragon
 2 Brutal Cathar
 2 Giver of Runes
@@ -220,19 +264,15 @@
 3 Skyclave Apparition
 3 Flickerwisp
 3 Giver of Runes
-3 Aether Vial
 3 Brutal Cathar
 4 Brutal Cathar
-4 Plains
 4 Ambitious Farmhand
 4 Mishra's Factory
 4 Charming Prince
 4 Giver of Runes
 4 Emeria's Call
 4 Skyclave Apparition
-4 Aether Vial
 4 Flickerwisp
-5 Plains
 6 Plains
 7 Plains
 8 Plains
@@ -245,8 +285,8 @@
 15 Plains
 16 Plains
 1 Callous Bloodmage
-1 Opt
 1 Fire/Ice
+1 Opt
 1 Shark Typhoon
 2 Polluted Delta
 2 Opt
@@ -257,6 +297,6 @@
 2 Temple Garden
 2 Breeding Pool
 2 Coiling Oracle
-3 Coiling Oracle
 3 Soulherder
+3 Coiling Oracle
 4 Soulherder
