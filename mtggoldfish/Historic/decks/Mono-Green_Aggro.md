@@ -66,6 +66,6 @@
 |                   16|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)     |                     |                                                                                             |
 |                   17|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)     |                     |                                                                                             |
 |                   18|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)     |                     |                                                                                             |
-|                   19|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)     |                     |                                                                                             |
 |                   20|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)     |                     |                                                                                             |
+|                   19|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)     |                     |                                                                                             |
 

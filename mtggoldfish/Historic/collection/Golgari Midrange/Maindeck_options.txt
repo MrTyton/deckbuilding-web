@@ -1,59 +1,16 @@
-2 Order of Midnight
-2 Edgewall Innkeeper
 3 Murderous Rider
 3 Edgewall Innkeeper
 3 Foulmire Knight
 3 Order of Midnight
 4 Edgewall Innkeeper
 4 Foulmire Knight
-1 Nissa, Who Shakes the World
-2 Nissa, Who Shakes the World
-1 Assassin's Trophy
-1 Liliana, Dreadhorde General
-2 Assassin's Trophy
-1 Heartless Act
-2 Heartless Act
-1 Fabled Passage
-1 Snow-Covered Swamp
-1 Snow-Covered Forest
-1 Inquisition of Kozilek
-1 Woodland Chasm
-1 Languish
-1 Bloodchief's Thirst
-1 Into the North
-1 Vraska, Relic Seeker
-1 Faceless Haven
-1 Polukranos, Unchained
-2 Snow-Covered Swamp
-2 Fabled Passage
-2 Inquisition of Kozilek
-2 Snow-Covered Forest
-2 Woodland Chasm
-2 Languish
-2 Bloodchief's Thirst
-2 Into the North
-2 Liliana, Dreadhorde General
-2 Polukranos, Unchained
-2 Faceless Haven
-3 Nissa, Who Shakes the World
-3 Snow-Covered Swamp
-3 Fabled Passage
-3 Inquisition of Kozilek
-3 Woodland Chasm
-3 Snow-Covered Forest
-3 Bloodchief's Thirst
-3 Into the North
-4 Snow-Covered Swamp
-4 Fabled Passage
-4 Snow-Covered Forest
-4 Woodland Chasm
-4 Into the North
-5 Snow-Covered Forest
 1 Grim Tutor
 1 Extinction Event
+1 Nissa, Who Shakes the World
 1 Beanstalk Giant
 1 Smitten Swordmaster
 1 Lucky Clover
+2 Nissa, Who Shakes the World
 2 Grim Tutor
 2 Extinction Event
 2 Smitten Swordmaster
@@ -65,20 +22,27 @@
 4 Maelstrom Pulse
 4 Lucky Clover
 7 Swamp
-1 Thragtusk
-2 Thragtusk
 1 Rankle, Master of Pranks
 2 Rankle, Master of Pranks
 3 Indatha Triome
+4 Llanowar Visionary
 4 Indatha Triome
+4 Thoughtseize
+1 Thragtusk
+2 Thragtusk
 1 Ravenous Chupacabra
 1 Vraska, Golgari Queen
 2 Vraska, Golgari Queen
 3 Vraska, Golgari Queen
+1 Assassin's Trophy
+1 Liliana, Dreadhorde General
+2 Assassin's Trophy
 1 Garruk, Unleashed
 1 Zagoth Triome
+1 Heartless Act
 1 Shadowspear
 1 Vivien Reid
+2 Heartless Act
 2 Zagoth Triome
 3 Thragtusk
 1 Eliminate
@@ -103,24 +67,24 @@
 1 Godless Shrine
 1 Jadelight Ranger
 1 Hinterland Harbor
-1 Drowned Catacomb
 1 Tamiyo, Collector of Tales
+1 Drowned Catacomb
 1 Temple Garden
 1 Island
 1 Breeding Pool
 1 Sorin, Vengeful Bloodlord
-1 Wildgrowth Walker
 1 Teferi, Time Raveler
-1 Paradise Druid
+1 Wildgrowth Walker
 1 Command the Dreadhorde
 1 Merfolk Branchwalker
 1 The Wanderer
 1 Yarok, the Desecrated
+1 Paradise Druid
 2 Tamiyo, Collector of Tales
 2 Watery Grave
 2 Interplanar Beacon
-2 Godless Shrine
 2 Jadelight Ranger
+2 Godless Shrine
 2 Temple Garden
 2 Breeding Pool
 2 Command the Dreadhorde
@@ -131,11 +95,11 @@
 2 Paradise Druid
 2 Wildgrowth Walker
 2 Yarok, the Desecrated
-3 Teferi, Time Raveler
 3 Interplanar Beacon
 3 Jadelight Ranger
-3 Tamiyo, Collector of Tales
 3 Command the Dreadhorde
+3 Tamiyo, Collector of Tales
+3 Teferi, Time Raveler
 3 Wildgrowth Walker
 3 Merfolk Branchwalker
 4 Teferi, Time Raveler

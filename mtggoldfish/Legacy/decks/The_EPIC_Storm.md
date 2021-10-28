@@ -51,7 +51,7 @@
 |                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)   |                    2|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)       |
 |                    2|[Tropical Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=884)       |                    2|[Void Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383429)           |
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)   |                     |                                                                                                |
-|                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)      |                     |                                                                                                |
 |                    4|[Chrome Mox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413761)         |                     |                                                                                                |
 |                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)      |                     |                                                                                                |
+|                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)      |                     |                                                                                                |
 

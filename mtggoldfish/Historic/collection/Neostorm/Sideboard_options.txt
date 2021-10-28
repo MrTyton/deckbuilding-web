@@ -1,9 +1,3 @@
-3 Anger of the Gods
-1 Wilt
-2 Wilt
-1 Soul-Guide Lantern
-3 Abrade
-3 Mystical Dispute
 1 Uro, Titan of Nature's Wrath
 2 Pact of Negation
 3 Pact of Negation
@@ -12,14 +6,20 @@
 1 Fire Prophecy
 2 Return to Nature
 2 Fire Prophecy
-1 Brazen Borrower
+3 Anger of the Gods
+1 Wilt
+2 Wilt
+1 Soul-Guide Lantern
+3 Abrade
+3 Mystical Dispute
 4 Anger of the Gods
-2 Soul-Guide Lantern
 1 Niv-Mizzet, Parun
-1 Scavenging Ooze
 1 Tale's End
 2 Tale's End
+1 Scavenging Ooze
+1 Brazen Borrower
 1 Essence Scatter
+2 Soul-Guide Lantern
 3 Nightpack Ambusher
 2 Niv-Mizzet, Parun
 3 Wilt
@@ -60,6 +60,9 @@
 2 Unsubstantiate
 2 Haze of Pollen
 3 Haze of Pollen
+1 Spell Pierce
+2 Spell Pierce
+3 Spell Pierce
 4 Mystical Dispute
 1 Aether Spellbomb
 1 Questing Beast
