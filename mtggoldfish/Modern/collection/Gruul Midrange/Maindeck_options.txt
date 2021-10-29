@@ -3,11 +3,11 @@
 1 Misty Rainforest
 2 Verdant Catacombs
 2 Misty Rainforest
-1 Elder Gargaroth
 1 Ignoble Hierarch
 1 Scavenging Ooze
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
+1 Elder Gargaroth
 2 Ignoble Hierarch
 1 Karn, the Great Creator
 2 Karn, the Great Creator
@@ -22,7 +22,6 @@
 3 Ragavan, Nimble Pilferer
 1 Magus of the Moon
 3 Misty Rainforest
-4 Ragavan, Nimble Pilferer
 2 Magus of the Moon
 3 Verdant Catacombs
 1 Prismatic Vista
@@ -30,22 +29,30 @@
 1 Tireless Tracker
 2 Tireless Tracker
 4 Misty Rainforest
-1 Tranquil Thicket
+4 Ragavan, Nimble Pilferer
 4 Verdant Catacombs
 1 Snow-Covered Forest
-1 Karplusan Forest
+1 Moonveil Regent
+1 Manamorphose
+2 Moonveil Regent
+2 Manamorphose
+3 Moonveil Regent
+3 Manamorphose
+4 Moonveil Regent
+4 Manamorphose
 1 Tarmogoyf
-2 Karplusan Forest
+1 Karplusan Forest
 2 Tarmogoyf
-3 Scavenging Ooze
+2 Karplusan Forest
 3 Tarmogoyf
+3 Scavenging Ooze
 4 Tarmogoyf
 4 Scavenging Ooze
 7 Forest
-2 Elder Gargaroth
 2 Prismatic Vista
 1 Questing Beast
 3 Mountain
+1 Tranquil Thicket
 2 Tranquil Thicket
 1 Snow-Covered Mountain
 2 Snow-Covered Forest
@@ -55,6 +62,7 @@
 1 Relic of Progenitus
 1 Cathartic Pyre
 2 Cathartic Pyre
+2 Elder Gargaroth
 3 Prismatic Vista
 1 Ensnaring Bridge
 1 Chandra, Heart of Fire
@@ -70,14 +78,6 @@
 2 Copperline Gorge
 2 Snow-Covered Mountain
 4 Wrenn and Six
-1 Moonveil Regent
-1 Manamorphose
-2 Moonveil Regent
-2 Manamorphose
-3 Moonveil Regent
-3 Manamorphose
-4 Moonveil Regent
-4 Manamorphose
 1 Abundant Harvest
 2 Abundant Harvest
 6 Snow-Covered Forest

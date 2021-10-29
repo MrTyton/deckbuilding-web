@@ -1,0 +1,27 @@
+# Grixis Tempo
+
+#### [Export MTGO List](../collection/Grixis%20Tempo/Grixis%20Tempo.txt)
+#### [Export Arena List](../collection/Grixis%20Tempo/Grixis%20Tempo_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blightstep%20Pathway%0A4%09Clearwater%20Pathway%0A4%09Consider%0A4%09Delver%20of%20Secrets%0A2%09Duress%0A4%09Expressive%20Iteration%0A2%09Fading%20Hope%0A2%09Florian,%20Voldaren%20Scion%0A2%09Forsworn%20Paladin%0A3%09Haunted%20Ridge%0A4%09Infernal%20Grasp%0A4%09Magmatic%20Channeler%0A2%09Negate%0A4%09Riverglide%20Pathway%0A4%09Scourge%20of%20the%20Skyclaves%0A4%09Sea%20Gate%20Restoration%0A3%09Shatterskull%20Smashing%0A4%09Shipwreck%20Marsh&deckside=1%09Cinderclasm%0A1%09Disdainful%20Stroke%0A3%09Malevolent%20Hermit%0A2%09Power%20Word%20Kill%0A2%09Reckless%20Stormseeker%0A3%09Skyclave%20Shade%0A1%09Soul%20Shatter%0A1%09Spikefield%20Hazard%0A1%09Test%20of%20Talents)
+# Maindeck
+
+|                                            Creature (16)                                            |                                       Instant (12)                                        |                                           Land (15)                                           |                                           Sorcery (13)                                           |    Unknown (4)     |
+|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------|
+|4 [Delver of Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=226749)       |4 [Consider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534803)      |4 [Clearwater Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491913)|2 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                |4 Blightstep Pathway|
+|2 [Florian, Voldaren Scion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535017) |2 [Fading Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534812)   |3 [Haunted Ridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535061)     |4 [Expressive Iteration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513678) |                    |
+|2 [Forsworn Paladin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527391)        |4 [Infernal Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534880)|4 [Riverglide Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491920)|4 [Sea Gate Restoration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491706) |                    |
+|4 [Magmatic Channeler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491789)      |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)        |4 [Shipwreck Marsh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535066)   |3 [Shatterskull Smashing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491802)|                    |
+|4 [Scourge of the Skyclaves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491760)|                                                                                           |                                                                                               |                                                                                                  |                    |
+
+
+# Sideboard
+
+|                                       Creature (3)                                        |                                         Instant (7)                                          |     Unknown (5)      |
+|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------|
+|3 [Skyclave Shade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491763)|1 [Cinderclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491776)      |3 Malevolent Hermit   |
+|                                                                                           |1 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|2 Reckless Stormseeker|
+|                                                                                           |2 [Power Word Kill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527401)  |                      |
+|                                                                                           |1 [Soul Shatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491765)     |                      |
+|                                                                                           |1 [Spikefield Hazard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491809)|                      |
+|                                                                                           |1 [Test of Talents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513536)  |                      |
+

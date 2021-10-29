@@ -1,68 +1,82 @@
 4 Windswept Heath
+1 Endurance
+4 Flooded Strand
+1 Counterspell
+2 Counterspell
+1 Plains
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Utopia Sprawl
 4 Utopia Sprawl
-1 Endurance
-4 Flooded Strand
-4 Ephemerate
-3 Abundant Harvest
-4 Ice-Fang Coatl
-1 Counterspell
-2 Counterspell
 3 Counterspell
-1 Plains
-1 Teferi, Hero of Dominaria
-2 Endurance
-1 Path to Exile
 1 Island
 1 Wall of Omens
 2 Wall of Omens
+4 Ephemerate
+1 Path to Exile
+3 Wall of Omens
 4 Counterspell
-1 Restoration Angel
-1 Glacial Fortress
+1 Teferi, Hero of Dominaria
+1 Mystic Gate
 1 Celestial Colonnade
 1 Castle Vantress
-1 Mystic Gate
 1 Archmage's Charm
 2 Hallowed Fountain
 2 Island
 2 Archmage's Charm
 3 Island
 3 Archmage's Charm
-3 Wall of Omens
 1 Omen of the Sea
 1 Scalding Tarn
 2 Scalding Tarn
 2 Omen of the Sea
 3 Omen of the Sea
-4 Wall of Omens
 4 Island
-4 Omen of the Sea
+4 Wall of Omens
 4 Archmage's Charm
+3 Abundant Harvest
+4 Ice-Fang Coatl
+1 Glacial Fortress
+1 Restoration Angel
+1 Mountain
+1 Hall of Storm Giants
+4 Omen of the Sea
 1 Supreme Verdict
-2 Mystic Gate
 2 Glacial Fortress
 2 Supreme Verdict
 2 Castle Vantress
 3 Supreme Verdict
-2 Plains
-1 Hall of Storm Giants
-2 Celestial Colonnade
 5 Island
-1 Cryptic Command
-1 Polluted Delta
 2 Teferi, Hero of Dominaria
+2 Mystic Gate
+1 Memory Deluge
+1 Dovin's Veto
+2 Memory Deluge
+3 Castle Vantress
+3 Memory Deluge
+4 Memory Deluge
+2 Plains
+1 Chalice of the Void
+2 Chalice of the Void
+2 Celestial Colonnade
+3 Scalding Tarn
+1 Polluted Delta
+1 Cryptic Command
+2 Endurance
+3 Glacial Fortress
+1 Snapcaster Mage
+1 Unholy Heat
 1 Skyclave Apparition
 1 Charming Prince
 1 Emeria's Call
 2 Charming Prince
 3 Plains
+1 Batterskull
+1 Stoneforge Mystic
 1 Sword of Fire and Ice
 1 Kaldra Compleat
-1 Stoneforge Mystic
-1 Batterskull
 2 Stoneforge Mystic
+2 Skyclave Apparition
 2 Emeria's Call
 3 Charming Prince
 3 Stoneforge Mystic
@@ -72,11 +86,11 @@
 1 Persist
 1 Malakir Rebirth
 1 Undying Evil
+1 Maul of the Skyclaves
 1 Silent Clearing
 1 Agadeem's Awakening
-1 Sword of Truth and Justice
 1 Tourach, Dread Cantor
-1 Maul of the Skyclaves
+1 Sword of Truth and Justice
 1 Shriekmaw
 1 Swamp
 1 Concealed Courtyard
@@ -102,33 +116,41 @@
 4 Silent Clearing
 4 Malakir Rebirth
 4 Grief
+1 Field of Ruin
+2 Field of Ruin
+2 Arid Mesa
+3 Arid Mesa
+4 Arid Mesa
 2 Snow-Covered Island
-1 Mountain
-2 Time Warp
-3 Endurance
-1 Lightning Helix
-1 Memory Deluge
-1 Dovin's Veto
-2 Memory Deluge
-3 Castle Vantress
-3 Memory Deluge
+1 Sulfur Falls
+2 Snapcaster Mage
+2 Steam Vents
+2 Raugrin Triome
+2 Unholy Heat
+3 Snapcaster Mage
+3 Unholy Heat
+4 Scalding Tarn
+4 Unholy Heat
+4 Snapcaster Mage
 3 Mystic Gate
 4 Mystic Gate
-4 Memory Deluge
-4 Castle Vantress
 4 Supreme Verdict
-2 Skyclave Apparition
-1 Chalice of the Void
-2 Chalice of the Void
+4 Castle Vantress
+2 Dovin's Veto
+6 Island
+1 Forest
+1 Lightning Helix
+3 Chalice of the Void
 2 Restoration Angel
 1 Ragavan, Nimble Pilferer
 3 Wooded Foothills
-1 Snapcaster Mage
-1 Unholy Heat
-3 Glacial Fortress
 1 Force of Negation
 2 Force of Negation
 4 Fury
+3 Restoration Angel
+3 Field of Ruin
+4 Field of Ruin
+4 Restoration Angel
 1 Noble Hierarch
 1 Wall of Blossoms
 1 Soulherder
@@ -137,17 +159,8 @@
 2 Soulherder
 3 Noble Hierarch
 4 Noble Hierarch
-1 Field of Ruin
-2 Field of Ruin
-3 Restoration Angel
-3 Field of Ruin
-4 Field of Ruin
-4 Restoration Angel
-2 Arid Mesa
-3 Arid Mesa
-4 Arid Mesa
-1 Kiki-Jiki, Mirror Breaker
 1 Felidar Guardian
+1 Kiki-Jiki, Mirror Breaker
 1 Imperial Recruiter
 1 Castle Ardenvale
 1 Aether Vial
@@ -156,7 +169,10 @@
 4 Plains
 4 Aether Vial
 5 Plains
-2 Lightning Helix
+1 Emrakul, the Promised End
+2 Time Warp
+2 Sulfur Falls
+3 Teferi, Hero of Dominaria
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 1 Vendilion Clique
@@ -164,32 +180,23 @@
 3 Vendilion Clique
 3 Celestial Colonnade
 3 Force of Negation
-3 Chalice of the Void
+2 Lightning Helix
+3 Endurance
 1 Flusterstorm
-1 Forest
 2 Forest
 2 Flusterstorm
 3 Flusterstorm
-1 Sulfur Falls
-2 Snapcaster Mage
-2 Steam Vents
-2 Raugrin Triome
-2 Unholy Heat
-3 Unholy Heat
-3 Scalding Tarn
-3 Snapcaster Mage
-4 Scalding Tarn
-4 Unholy Heat
-4 Snapcaster Mage
+3 Hallowed Fountain
+4 Glacial Fortress
 1 Ghost Quarter
 1 Rugged Prairie
 1 Shatterskull Smashing
 1 Esper Sentinel
 1 Showdown of the Skalds
+1 Cleansing Wildfire
+1 Sanctifier en-Vec
 1 Flagstones of Trokair
 1 Marsh Flats
-1 Sanctifier en-Vec
-1 Cleansing Wildfire
 1 Magus of the Moon
 1 Sanctum Prelate
 1 Rustvale Bridge
@@ -211,8 +218,8 @@
 3 Cleansing Wildfire
 3 Brought Back
 3 Imperial Recruiter
-3 Ghost Quarter
 3 Showdown of the Skalds
+3 Ghost Quarter
 4 Imperial Recruiter
 4 Esper Sentinel
 4 Flagstones of Trokair
@@ -221,30 +228,27 @@
 4 Ghost Quarter
 4 Sacred Foundry
 4 Brought Back
-1 Birds of Paradise
 1 Glasspool Mimic
 1 Eladamri's Call
 1 Auriok Champion
 1 Deputy of Detention
+1 Birds of Paradise
 1 Chord of Calling
 1 Venser, Shaper Savant
-2 Prismatic Vista
-2 Birds of Paradise
 2 Eladamri's Call
+2 Prismatic Vista
 2 Wall of Blossoms
+2 Birds of Paradise
 2 Chord of Calling
+3 Eladamri's Call
 3 Prismatic Vista
 3 Birds of Paradise
-3 Eladamri's Call
 3 Chord of Calling
 3 Wall of Blossoms
-4 Birds of Paradise
 4 Eladamri's Call
+4 Birds of Paradise
 4 Chord of Calling
 4 Wooded Foothills
-2 Dovin's Veto
-3 Teferi, Hero of Dominaria
-6 Island
 1 Mishra's Factory
 1 Ambitious Farmhand
 1 Brutal Cathar
@@ -254,17 +258,17 @@
 1 Giver of Runes
 2 Ambitious Farmhand
 2 Mishra's Factory
-2 Cave of the Frost Dragon
 2 Brutal Cathar
+2 Cave of the Frost Dragon
 2 Giver of Runes
 2 Flickerwisp
 3 Cave of the Frost Dragon
 3 Ambitious Farmhand
 3 Mishra's Factory
+3 Brutal Cathar
 3 Skyclave Apparition
 3 Flickerwisp
 3 Giver of Runes
-3 Brutal Cathar
 4 Brutal Cathar
 4 Ambitious Farmhand
 4 Mishra's Factory
@@ -284,7 +288,6 @@
 14 Plains
 15 Plains
 16 Plains
-1 Callous Bloodmage
 1 Fire/Ice
 1 Opt
 1 Shark Typhoon
@@ -294,8 +297,8 @@
 3 Opt
 1 Flooded Grove
 1 Coiling Oracle
-2 Temple Garden
 2 Breeding Pool
+2 Temple Garden
 2 Coiling Oracle
 3 Soulherder
 3 Coiling Oracle

@@ -1,9 +1,9 @@
-2 Flunk
-1 Hive of the Eye Tyrant
-3 Flunk
 2 Teferi, Who Slows the Sunset
+1 Flunk
+2 Flunk
 1 Cave of the Frost Dragon
 1 Emeria's Call
+3 Flunk
 1 Field of Ruin
 1 Alrund's Epiphany
 2 Alrund's Epiphany
@@ -13,39 +13,41 @@
 1 Fateful Absence
 2 Fateful Absence
 4 Siphon Insight
-1 Niko Aris
-2 Niko Aris
 1 Disdainful Stroke
+2 Infernal Grasp
 1 Professor Onyx
 2 Disdainful Stroke
 3 Teferi, Who Slows the Sunset
-2 Infernal Grasp
 1 Devastating Mastery
+1 Niko Aris
+2 Niko Aris
 1 Fading Hope
 2 Behold the Multiverse
 3 The Celestus
 1 Duress
 2 Emeria's Call
 2 Field of Ruin
+1 Soul Shatter
 2 Test of Talents
+1 Silverquill Campus
 1 Baleful Mastery
 2 Baleful Mastery
 3 Fateful Absence
+2 Soul Shatter
 2 Professor Onyx
 1 Bloodchief's Thirst
-1 Soul Shatter
 2 Shineshadow Snarl
 3 Behold the Multiverse
 1 Power Word Kill
-1 Silverquill Campus
 2 Fading Hope
 3 Fading Hope
 1 Poison the Cup
-2 Soul Shatter
-1 Snowfield Sinkhole
+1 Divide by Zero
+2 Divide by Zero
 1 Lithoform Blight
-2 Snowfield Sinkhole
+1 Snowfield Sinkhole
 2 Lithoform Blight
+2 Snowfield Sinkhole
 3 Iymrith, Desert Doom
 4 Behold the Multiverse
 4 Teferi, Who Slows the Sunset
@@ -54,27 +56,25 @@
 2 Devastating Mastery
 3 Jwari Disruption
 2 Cave of the Frost Dragon
-1 Divide by Zero
-2 Divide by Zero
+3 Divide by Zero
 1 Xanathar, Guild Kingpin
 1 Shadows' Verdict
 1 Lolth, Spider Queen
 2 Lolth, Spider Queen
+1 Sunset Revelry
+2 Sunset Revelry
+3 Infernal Grasp
 2 Swamp
-2 Bloodchief's Thirst
 1 Faithful Mending
+2 Bloodchief's Thirst
 1 Snow-Covered Island
-1 Snow-Covered Plains
 1 Snow-Covered Swamp
+1 Snow-Covered Plains
 2 Snow-Covered Island
-3 Divide by Zero
 1 Zareth San, the Trickster
 2 Dissipate
 3 Dissipate
 3 Plains
-1 Sunset Revelry
-2 Sunset Revelry
-3 Infernal Grasp
 2 Silverquill Campus
 1 Hagra Mauling
 3 Bloodchief's Thirst
@@ -85,21 +85,30 @@
 2 Ice Tunnel
 2 Glacial Floodplain
 3 Glacial Floodplain
+1 King Narfi's Betrayal
+1 Valki, God of Lies
+1 The Trickster-God's Heist
+2 The Trickster-God's Heist
+1 Kaya the Inexorable
+2 Kaya the Inexorable
 1 Fracture
+1 Poppet Stitcher
+2 Poppet Stitcher
+3 Soul Shatter
 1 Blood on the Snow
+2 Snow-Covered Swamp
 2 Snow-Covered Plains
 2 Blood on the Snow
-2 Snow-Covered Swamp
 3 Snow-Covered Island
 3 Snow-Covered Plains
 4 Snow-Covered Plains
-2 Island
-3 Field of Ruin
-4 Fading Hope
 1 Consider
 2 Consider
 3 Consider
 4 Consider
+2 Island
+3 Field of Ruin
+4 Fading Hope
 1 Lier, Disciple of the Drowned
 1 Lullmage's Domination
 2 Zareth San, the Trickster
@@ -109,15 +118,13 @@
 3 Baleful Mastery
 3 Lullmage's Domination
 4 Dissipate
-1 Poppet Stitcher
 1 Vanquish the Horde
 2 Xanathar, Guild Kingpin
 2 Fracture
 2 Vanquish the Horde
-2 Poppet Stitcher
+3 Snow-Covered Swamp
 3 Xanathar, Guild Kingpin
 3 Blood on the Snow
-3 Snow-Covered Swamp
 3 Fracture
 4 Snow-Covered Swamp
 4 Fracture
@@ -142,25 +149,27 @@
 2 Revitalize
 3 Revitalize
 3 Devastating Mastery
-1 Kaya the Inexorable
 1 Elite Spellbinder
 2 Elite Spellbinder
-2 Kaya the Inexorable
 3 Test of Talents
 3 Elite Spellbinder
 4 Elite Spellbinder
 1 Jadar, Ghoulcaller of Nephalia
 1 Callous Bloodmage
-1 Valki, God of Lies
-1 King Narfi's Betrayal
-1 The Trickster-God's Heist
 2 Jadar, Ghoulcaller of Nephalia
 2 Callous Bloodmage
-2 The Trickster-God's Heist
-3 The Trickster-God's Heist
 3 Silverquill Campus
+3 The Trickster-God's Heist
 3 Callous Bloodmage
 4 Callous Bloodmage
+1 Draugr Necromancer
+1 Skyclave Relic
+2 Valki, God of Lies
+2 Draugr Necromancer
+2 King Narfi's Betrayal
+3 Sunset Revelry
+3 Poppet Stitcher
+4 Sunset Revelry
 1 The Book of Exalted Deeds
 1 Portable Hole
 1 Search for Glory
@@ -168,23 +177,22 @@
 2 Portable Hole
 2 Search for Glory
 2 Faceless Haven
-3 Soul Shatter
 3 Search for Glory
 3 Ice Tunnel
 5 Snow-Covered Plains
 1 Suspicious Stowaway
 1 Reject
 1 Sedgemoor Witch
-2 Poison the Cup
 2 Reject
-3 Swamp
+2 Poison the Cup
 3 Island
-4 Swamp
+3 Swamp
 4 Island
+4 Swamp
 5 Island
 5 Swamp
-6 Swamp
 6 Island
-7 Swamp
+6 Swamp
 7 Island
+7 Swamp
 8 Island

@@ -1,4 +1,3 @@
-2 Grief
 2 Ephemerate
 3 Grief
 3 Ephemerate
@@ -7,37 +6,37 @@
 1 Solitude
 2 Concealed Courtyard
 3 Concealed Courtyard
-1 Glacial Fortress
 2 Solitude
-4 Teferi, Time Raveler
-1 Castle Vantress
 3 Solitude
 4 Solitude
 3 Marsh Flats
+4 Thoughtseize
+1 Castle Vantress
 2 Unburial Rites
 4 Marsh Flats
+1 Mystic Gate
+4 Teferi, Time Raveler
+1 Drowned Catacomb
 1 Zagoth Triome
 3 Watery Grave
 4 Mulldrifter
-1 Drowned Catacomb
-1 Fatal Push
 1 Priest of Fell Rites
 2 Priest of Fell Rites
 1 Consider
 2 Consider
 3 Consider
-1 River of Tears
 1 Ashen Rider
 1 Darkslick Shores
 2 Darkslick Shores
-2 Mystic Gate
+1 Fatal Push
 4 Consider
 3 Hallowed Fountain
-2 River of Tears
+1 River of Tears
 1 Windswept Heath
 3 Priest of Fell Rites
 1 Bloodstained Mire
 2 Fatal Push
+2 Mystic Gate
 1 Raugrin Triome
 1 Savai Triome
 1 Nahiri, the Harbinger
@@ -51,10 +50,10 @@
 1 Dwarven Mine
 1 Sacred Foundry
 1 Indomitable Creativity
-2 Nahiri, the Harbinger
 2 Scalding Tarn
-2 Fire/Ice
+2 Nahiri, the Harbinger
 2 Steam Vents
+2 Fire/Ice
 2 Bloodstained Mire
 2 Hard Evidence
 2 Prismari Command
@@ -69,13 +68,14 @@
 3 Hard Evidence
 3 Indomitable Creativity
 3 Fire/Ice
+4 Hard Evidence
 4 Arid Mesa
-4 Scalding Tarn
 4 Bloodstained Mire
+4 Scalding Tarn
 4 Indomitable Creativity
 4 Fire/Ice
-4 Hard Evidence
 2 Swamp
+2 River of Tears
 1 Silent Clearing
 1 Collective Brutality
 1 Wall of Omens
@@ -90,6 +90,7 @@
 1 Supreme Verdict
 2 Supreme Verdict
 1 Kaya, Orzhov Usurper
+3 Darkslick Shores
 1 Verdant Catacombs
 1 Grist, the Hunger Tide
 1 Temple Garden
@@ -143,12 +144,12 @@
 2 Malakir Rebirth
 2 Snow-Covered Island
 4 Concealed Courtyard
-1 Teferi, Hero of Dominaria
 1 Spreading Seas
+1 Teferi, Hero of Dominaria
 1 Celestial Colonnade
+2 Spreading Seas
 2 Celestial Colonnade
 2 Teferi, Hero of Dominaria
-2 Spreading Seas
 3 Spreading Seas
 3 Island
 4 Spreading Seas
@@ -159,6 +160,17 @@
 1 Clearwater Pathway
 1 Inquisition of Kozilek
 1 Grave Titan
+1 Otherworldly Gaze
+2 Otherworldly Gaze
+3 Otherworldly Gaze
+4 Otherworldly Gaze
+1 Seachrome Coast
+1 Sunken Ruins
+1 Force of Negation
+2 Seachrome Coast
+2 Force of Negation
+2 Drowned Catacomb
+4 Chalice of the Void
 1 Castle Locthwain
 1 Damn
 1 Urborg, Tomb of Yawgmoth
@@ -171,15 +183,3 @@
 3 Swamp
 3 Stoneforge Mystic
 3 Godless Shrine
-1 Otherworldly Gaze
-2 Otherworldly Gaze
-3 Otherworldly Gaze
-4 Otherworldly Gaze
-1 Seachrome Coast
-1 Sunken Ruins
-1 Force of Negation
-2 Seachrome Coast
-2 Force of Negation
-2 Drowned Catacomb
-4 Chalice of the Void
-3 Darkslick Shores
