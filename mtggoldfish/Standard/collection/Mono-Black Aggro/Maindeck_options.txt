@@ -114,13 +114,13 @@
 4 The Meathook Massacre
 22 Snow-Covered Swamp
 1 Shadows' Verdict
-1 Power Word Kill
-1 Ecstatic Awakener
-2 Ecstatic Awakener
 1 Check for Traps
 2 Check for Traps
 1 Bloodline Culling
 2 Bloodline Culling
+1 Power Word Kill
+1 Ecstatic Awakener
+2 Ecstatic Awakener
 1 Forsworn Paladin
 2 Forsworn Paladin
 2 Feed the Swarm
@@ -128,6 +128,11 @@
 1 Drana, the Last Bloodchief
 2 Drana, the Last Bloodchief
 3 Drana, the Last Bloodchief
+1 Snow-Covered Mountain
+1 Sulfurous Mire
+2 Sulfurous Mire
+3 Sulfurous Mire
+4 Sulfurous Mire
 1 Nighthawk Scavenger
 1 Westgate Regent
 2 Nighthawk Scavenger
@@ -136,14 +141,14 @@
 4 Nighthawk Scavenger
 4 Soul Shatter
 1 Baleful Mastery
-1 Dungeon Crawler
-1 Acererak the Archlich
-1 Flunk
-1 Draugr Necromancer
 1 Poison the Cup
+1 Draugr Necromancer
+1 Flunk
+1 Acererak the Archlich
+1 Dungeon Crawler
 2 Baleful Mastery
-2 Flunk
 2 Poison the Cup
+2 Flunk
 2 Dungeon Crawler
 3 Flunk
 3 Dungeon Crawler
@@ -156,11 +161,6 @@
 2 Hagra Mauling
 2 Crippling Fear
 4 Hunt for Specimens
-1 Snow-Covered Mountain
-1 Sulfurous Mire
-2 Sulfurous Mire
-3 Sulfurous Mire
-4 Sulfurous Mire
 1 Ghoulish Procession
 1 Dramatic Finale
 2 Agadeem's Awakening

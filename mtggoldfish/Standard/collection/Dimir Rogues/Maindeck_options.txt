@@ -10,12 +10,12 @@
 3 Jwari Disruption
 2 Malevolent Hermit
 1 Ice Tunnel
-1 Snow-Covered Swamp
 1 Snow-Covered Island
-2 Snow-Covered Swamp
+1 Snow-Covered Swamp
 2 Snow-Covered Island
-3 Snow-Covered Swamp
+2 Snow-Covered Swamp
 3 Snow-Covered Island
+3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 4 Snow-Covered Island
 2 Memory Deluge
@@ -94,8 +94,8 @@
 3 Negate
 1 Bloodline Culling
 2 Bloodline Culling
-3 Bloodline Culling
 3 Soul Shatter
+3 Bloodline Culling
 3 Fading Hope
 1 Test of Talents
 9 Swamp
@@ -107,10 +107,10 @@
 1 Haunting Voyage
 1 Faceless Haven
 1 Into the Roil
-1 Malakir Rebirth
 1 Curse of Leeches
-2 Malakir Rebirth
+1 Malakir Rebirth
 2 Curse of Leeches
+2 Malakir Rebirth
 3 Grazilaxx, Illithid Scholar
 1 Iymrith, Desert Doom
 3 Hall of Storm Giants
@@ -121,8 +121,8 @@
 2 Demogorgon's Clutches
 3 Evolving Wilds
 1 Morbid Opportunist
-2 Morbid Opportunist
 2 Hagra Mauling
+2 Morbid Opportunist
 2 Test of Talents
 3 Morbid Opportunist
 3 Test of Talents
@@ -140,10 +140,10 @@
 3 Maddening Cacophony
 3 Tasha's Hideous Laughter
 4 Bloodchief's Thirst
-4 Jwari Disruption
 4 Fading Hope
 4 Maddening Cacophony
 4 Tasha's Hideous Laughter
+4 Jwari Disruption
 1 Consider
 2 Consider
 3 Spectral Adversary
@@ -157,23 +157,23 @@
 4 Agadeem's Awakening
 1 Eaten Alive
 1 Flip the Switch
+1 Feed the Swarm
 1 Devious Cover-Up
 1 Tyrite Sanctum
 1 Blood on the Snow
-1 Lolth, Spider Queen
-1 Deadly Dispute
 1 Reject
+1 Deadly Dispute
 1 Rogue Class
-1 Feed the Swarm
 1 Grim Bounty
+1 Lolth, Spider Queen
 1 Shambling Ghast
 1 Varragoth, Bloodsky Sire
 2 Eaten Alive
 2 Flip the Switch
-2 Deadly Dispute
 2 Rogue Class
 2 Shambling Ghast
 2 Varragoth, Bloodsky Sire
+2 Deadly Dispute
 3 Eaten Alive
 3 Shambling Ghast
 4 Eaten Alive
@@ -200,12 +200,12 @@
 4 Zulaport Duelist
 1 Port of Karfell
 2 Port of Karfell
-3 Acquisitions Expert
 3 Duress
 3 Blackbloom Rogue
+3 Acquisitions Expert
 4 Behold the Multiverse
-4 Acquisitions Expert
 4 Duress
+4 Acquisitions Expert
 4 Blackbloom Rogue
 10 Swamp
 1 Ray of Enfeeblement

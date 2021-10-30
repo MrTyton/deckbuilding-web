@@ -1,9 +1,9 @@
-1 Scourge of the Skyclaves
-2 Dungeon Crawler
+1 Dungeon Crawler
 2 Scourge of the Skyclaves
-3 Hive of the Eye Tyrant
+2 Dungeon Crawler
 3 Dungeon Crawler
 3 Scourge of the Skyclaves
+3 Hive of the Eye Tyrant
 4 Dungeon Crawler
 1 Righteous Valkyrie
 2 Righteous Valkyrie
@@ -58,10 +58,10 @@
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
 2 Valkyrie Harbinger
-1 Priest of the Haunted Edge
 1 Minimus Containment
-1 Draugr Necromancer
+1 Priest of the Haunted Edge
 1 Ondu Inversion
+1 Draugr Necromancer
 1 Kor Celebrant
 1 Doomskar
 1 Borrowed Time
@@ -98,8 +98,8 @@
 4 Priest of Ancient Lore
 4 Potion of Healing
 11 Snow-Covered Swamp
-12 Snow-Covered Swamp
 12 Snow-Covered Plains
+12 Snow-Covered Swamp
 13 Snow-Covered Plains
 14 Snow-Covered Plains
 15 Snow-Covered Plains
@@ -151,16 +151,16 @@
 1 Sungold Sentinel
 2 Sungold Sentinel
 1 Graveyard Trespasser
-1 Deadly Dispute
 1 Eyetwitch
-2 Deadly Dispute
+1 Deadly Dispute
 2 Eyetwitch
-3 Deadly Dispute
+2 Deadly Dispute
 3 Eyetwitch
-1 Elderfang Disciple
+3 Deadly Dispute
 1 Acquisitions Expert
-2 Elderfang Disciple
+1 Elderfang Disciple
 2 Acquisitions Expert
+2 Elderfang Disciple
 3 Elderfang Disciple
 3 Acquisitions Expert
 4 Elderfang Disciple
@@ -226,13 +226,13 @@
 1 Professor of Symbology
 1 Demon's Disciple
 1 Skyclave Cleric
-2 Professor of Symbology
 2 Village Rites
+2 Professor of Symbology
 2 Demon's Disciple
 2 Skyclave Cleric
-3 Professor of Symbology
 3 Village Rites
 3 Field of Ruin
+3 Professor of Symbology
 1 Inscription of Ruin
 1 Power Word Kill
 1 Taborax, Hope's Demise
@@ -243,13 +243,6 @@
 3 Nullpriest of Oblivion
 3 Ascent of the Worthy
 3 Lolth, Spider Queen
-1 Check for Traps
-1 Stonebinder's Familiar
-2 Check for Traps
-2 Stonebinder's Familiar
-3 Stonebinder's Familiar
-4 Stonebinder's Familiar
-4 Sungold Sentinel
 4 Tainted Adversary
 1 Icingdeath, Frost Tyrant
 1 Ambitious Farmhand
@@ -257,16 +250,20 @@
 2 Icingdeath, Frost Tyrant
 3 Ambitious Farmhand
 4 Ambitious Farmhand
-1 Enduring Angel
-1 Can't Stay Away
-4 Starnheim Unleashed
-3 Rampage of the Valkyries
 3 Loyal Warhound
+3 Rampage of the Valkyries
 4 Cave of the Frost Dragon
 4 Loyal Warhound
 3 Graveyard Trespasser
 4 Graveyard Trespasser
 4 Duress
+1 Check for Traps
+1 Stonebinder's Familiar
+2 Check for Traps
+2 Stonebinder's Familiar
+3 Stonebinder's Familiar
+4 Sungold Sentinel
+4 Stonebinder's Familiar
 1 Cleric of Life's Bond
 2 Cleric of Life's Bond
 3 Cleric of Life's Bond
@@ -296,6 +293,9 @@
 4 Liesa, Forgotten Archangel
 2 Callous Bloodmage
 4 Skullport Merchant
+4 Silverquill Silencer
 1 Silverquill Command
 11 Plains
-4 Silverquill Silencer
+1 Enduring Angel
+1 Can't Stay Away
+4 Starnheim Unleashed
