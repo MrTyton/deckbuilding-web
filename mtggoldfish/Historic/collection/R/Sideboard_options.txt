@@ -14,15 +14,15 @@
 2 Klothys, God of Destiny
 3 Cindervines
 4 Cindervines
-1 Containment Priest
-1 Mana Tithe
-1 Drannith Magistrate
 1 Portable Hole
+2 Portable Hole
+1 Mana Tithe
+1 Containment Priest
+1 Drannith Magistrate
 1 Lurrus of the Dream-Den
 1 Baffling End
 2 Containment Priest
 2 Drannith Magistrate
-2 Portable Hole
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 1 Scavenging Ooze
@@ -35,16 +35,18 @@
 2 Spell Pierce
 3 Spell Pierce
 1 Unholy Heat
-1 Lava Coil
-2 Lava Coil
 1 Hazoret the Fervent
-2 Magma Spray
+1 Lava Coil
 1 Grafdigger's Cage
+2 Magma Spray
+2 Lava Coil
 2 Grafdigger's Cage
 4 Goblin Chainwhirler
 1 Leyline of Combustion
 2 Unholy Heat
 1 Chandra, Acolyte of Flame
+2 Hazoret the Fervent
+1 Tormod's Crypt
 2 Leyline of Combustion
 3 Leyline of Combustion
 1 Kari Zev's Expertise
@@ -60,9 +62,7 @@
 3 Storm's Wrath
 4 Storm's Wrath
 4 Weathered Runestone
-1 Tormod's Crypt
 2 Fry
-2 Hazoret the Fervent
 3 Rampaging Ferocidon
 2 Chandra, Acolyte of Flame
 1 Ox of Agonas
@@ -86,17 +86,29 @@
 2 Mana Tithe
 2 Baffling End
 1 Miscast
-1 Aether Gust
 1 Entrancing Melody
+1 Aether Gust
 2 Miscast
 2 Entrancing Melody
 3 Unholy Heat
+1 Hushbringer
+1 Authority of the Consuls
+1 Rip Apart
+1 Rest in Peace
+2 Hushbringer
+3 Hushbringer
 1 Risk Factor
 2 Risk Factor
 3 Burning Hands
 2 Meteor Swarm
 3 Meteor Swarm
 3 The Akroan War
+1 Blazing Volley
+1 Redcap Melee
+2 Blazing Volley
+2 Redcap Melee
+3 Redcap Melee
+3 Blazing Volley
 3 Bonecrusher Giant
 1 Stonecoil Serpent
 3 Magma Spray

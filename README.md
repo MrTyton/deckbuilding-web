@@ -21,14 +21,14 @@
 
 # Historic
 
-|                                 A                                  |                                      B                                       |                                   C                                    |                                     D                                      |                    E                     |
-|--------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------|
-|[Auras](./mtggoldfish/Historic/decks/Auras.md)                      |[Grixis Arcanist](./mtggoldfish/Historic/decks/Grixis_Arcanist.md)            |[Mono-Green Aggro](./mtggoldfish/Historic/decks/Mono-Green_Aggro.md)    |[Sacrifice](./mtggoldfish/Historic/decks/Sacrifice.md)                      |[U](./mtggoldfish/Historic/decks/U.md)    |
-|[BRG](./mtggoldfish/Historic/decks/BRG.md)                          |[Gruul Aggro](./mtggoldfish/Historic/decks/Gruul_Aggro.md)                    |[Niv-Mizzet Control](./mtggoldfish/Historic/decks/Niv-Mizzet_Control.md)|[Selesnya Company](./mtggoldfish/Historic/decks/Selesnya_Company.md)        |[WBG](./mtggoldfish/Historic/decks/WBG.md)|
-|[BR](./mtggoldfish/Historic/decks/BR.md)                            |[Izzet Epiphany](./mtggoldfish/Historic/decks/Izzet_Epiphany.md)              |[Orzhov Aggro](./mtggoldfish/Historic/decks/Orzhov_Aggro.md)            |[Selesnya Enchantress](./mtggoldfish/Historic/decks/Selesnya_Enchantress.md)|[WG](./mtggoldfish/Historic/decks/WG.md)  |
-|[Elves](./mtggoldfish/Historic/decks/Elves.md)                      |[Jeskai Control](./mtggoldfish/Historic/decks/Jeskai_Control.md)              |[RG](./mtggoldfish/Historic/decks/RG.md)                                |[Stompy](./mtggoldfish/Historic/decks/Stompy.md)                            |[WUG](./mtggoldfish/Historic/decks/WUG.md)|
-|[Five-color Golos](./mtggoldfish/Historic/decks/Five-color_Golos.md)|[Jund Food](./mtggoldfish/Historic/decks/Jund_Food.md)                        |[R](./mtggoldfish/Historic/decks/R.md)                                  |[UG](./mtggoldfish/Historic/decks/UG.md)                                    |[W](./mtggoldfish/Historic/decks/W.md)    |
-|[Goblins](./mtggoldfish/Historic/decks/Goblins.md)                  |[Mono-Black Vampires ❄](./mtggoldfish/Historic/decks/Mono-Black_Vampires_❄.md)|[Rakdos Arcanis](./mtggoldfish/Historic/decks/Rakdos_Arcanis.md)        |[UR](./mtggoldfish/Historic/decks/UR.md)                                    |                                          |
+|                                 A                                  |                                B                                 |                                      C                                       |                                     D                                      |                    E                     |
+|--------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------|
+|[Auras](./mtggoldfish/Historic/decks/Auras.md)                      |[Goblins](./mtggoldfish/Historic/decks/Goblins.md)                |[Mono-Black Vampires ❄](./mtggoldfish/Historic/decks/Mono-Black_Vampires_❄.md)|[Rakdos Arcanis](./mtggoldfish/Historic/decks/Rakdos_Arcanis.md)            |[UR](./mtggoldfish/Historic/decks/UR.md)  |
+|[Azorius Control](./mtggoldfish/Historic/decks/Azorius_Control.md)  |[Grixis Arcanist](./mtggoldfish/Historic/decks/Grixis_Arcanist.md)|[Mono-Green Aggro](./mtggoldfish/Historic/decks/Mono-Green_Aggro.md)          |[Sacrifice](./mtggoldfish/Historic/decks/Sacrifice.md)                      |[U](./mtggoldfish/Historic/decks/U.md)    |
+|[BRG](./mtggoldfish/Historic/decks/BRG.md)                          |[Gruul Aggro](./mtggoldfish/Historic/decks/Gruul_Aggro.md)        |[Niv-Mizzet Control](./mtggoldfish/Historic/decks/Niv-Mizzet_Control.md)      |[Selesnya Company](./mtggoldfish/Historic/decks/Selesnya_Company.md)        |[WBG](./mtggoldfish/Historic/decks/WBG.md)|
+|[BR](./mtggoldfish/Historic/decks/BR.md)                            |[Izzet Control](./mtggoldfish/Historic/decks/Izzet_Control.md)    |[Orzhov Aggro](./mtggoldfish/Historic/decks/Orzhov_Aggro.md)                  |[Selesnya Enchantress](./mtggoldfish/Historic/decks/Selesnya_Enchantress.md)|[WG](./mtggoldfish/Historic/decks/WG.md)  |
+|[Elves](./mtggoldfish/Historic/decks/Elves.md)                      |[Izzet Epiphany](./mtggoldfish/Historic/decks/Izzet_Epiphany.md)  |[RG](./mtggoldfish/Historic/decks/RG.md)                                      |[Stompy](./mtggoldfish/Historic/decks/Stompy.md)                            |[WUG](./mtggoldfish/Historic/decks/WUG.md)|
+|[Five-color Golos](./mtggoldfish/Historic/decks/Five-color_Golos.md)|[Jeskai Control](./mtggoldfish/Historic/decks/Jeskai_Control.md)  |[R](./mtggoldfish/Historic/decks/R.md)                                        |[UG](./mtggoldfish/Historic/decks/UG.md)                                    |[W](./mtggoldfish/Historic/decks/W.md)    |
 
 
 # Pioneer
@@ -76,4 +76,4 @@
 
 
 
-#### Last Updated at 12:34PM on October 29, 2021
+#### Last Updated at 12:30AM on October 30, 2021
