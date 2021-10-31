@@ -51,13 +51,13 @@
 1 Overgrown Tomb
 1 Binding the Old Gods
 2 Binding the Old Gods
-3 Binding the Old Gods
 3 Zagoth Triome
+3 Binding the Old Gods
 1 Sunpetal Grove
 1 Plains
 2 Breeding Pool
-2 Plains
 2 Sunpetal Grove
+2 Plains
 3 Breeding Pool
 1 Ketria Triome
 2 Temple Garden
@@ -69,11 +69,11 @@
 1 Ravenous Chupacabra
 1 Hinterland Harbor
 1 Yasharn, Implacable Earth
-1 In Search of Greatness
 1 Deputy of Detention
 1 Hostage Taker
 1 Yorion, Sky Nomad
 1 Oath of Kaya
+1 In Search of Greatness
 1 Glacial Fortress
 1 Enigmatic Incarnation
 1 Elspeth's Nightmare
@@ -86,9 +86,9 @@
 1 Raugrin Triome
 2 Oath of Kaya
 2 Trial of Ambition
+2 Woodland Cemetery
 2 Calix, Destiny's Hand
 2 Skyclave Apparition
-2 Woodland Cemetery
 2 Setessan Champion
 2 Glacial Fortress
 2 Hinterland Harbor
@@ -107,8 +107,8 @@
 3 In Search of Greatness
 4 Trial of Ambition
 4 Zagoth Triome
-4 Binding the Old Gods
 4 Omen of the Sea
+4 Binding the Old Gods
 4 Glacial Fortress
 4 Enigmatic Incarnation
 4 In Search of Greatness
@@ -146,8 +146,8 @@
 3 Simic Guildgate
 1 Archway Angel
 1 Field of Ruin
-1 Stonecoil Serpent
 1 Bojuka Bog
+1 Stonecoil Serpent
 2 Stonecoil Serpent
 2 Field of Ruin
 1 Assassin's Trophy
@@ -188,14 +188,14 @@
 2 Abundant Harvest
 1 Alrund's Epiphany
 2 Alrund's Epiphany
-1 Valki, God of Lies
 1 Felidar Retreat
+1 Valki, God of Lies
 1 Gate Colossus
 1 Open the Gates
 1 Gatebreaker Ram
 1 Root Snare
-2 Valki, God of Lies
 2 Felidar Retreat
+2 Valki, God of Lies
 2 Rakdos Guildgate
 2 Gatebreaker Ram
 2 Root Snare
@@ -215,17 +215,17 @@
 2 Island
 1 Barkchannel Pathway
 1 Koma, Cosmos Serpent
+1 Lotus Cobra
 1 The Great Henge
 1 Castle Locthwain
 1 Darkbore Pathway
-1 Lotus Cobra
-1 Vineglimmer Snarl
 1 Gemrazer
+1 Vineglimmer Snarl
 1 Fabled Passage
-1 Temple of Deceit
-1 Temple of Malady
 1 Necroblossom Snarl
+1 Temple of Malady
 1 Paradise Druid
+1 Temple of Deceit
 1 Tamiyo, Collector of Tales
 1 Season of Growth
 1 Vivien, Champion of the Wilds
@@ -244,9 +244,9 @@
 1 Watery Grave
 1 Pollywog Symbiote
 1 Pouncing Shoreshark
-2 Nissa, Who Shakes the World
-2 Darkbore Pathway
 2 Lotus Cobra
+2 Darkbore Pathway
+2 Nissa, Who Shakes the World
 2 Fabled Passage
 2 Paradise Druid
 2 Season of Growth
@@ -260,9 +260,9 @@
 2 Insatiable Hemophage
 2 Gemrazer
 2 Swamp
+3 Lotus Cobra
 3 Fabled Passage
 3 Paradise Druid
-3 Lotus Cobra
 3 Insatiable Hemophage
 3 Boneyard Lurker
 3 Gilded Goose
@@ -272,8 +272,8 @@
 3 Pollywog Symbiote
 3 Migratory Greathorn
 5 Forest
-1 Scavenger Grounds
 1 Crucible of Worlds
+1 Scavenger Grounds
 1 Ratchet Bomb
 3 Stonecoil Serpent
 1 Snow-Covered Plains
@@ -320,9 +320,8 @@
 4 Cultivate
 4 Hydroid Krasis
 4 Genesis Ultimatum
-1 Hengegate Pathway
-1 Branchloft Pathway
 1 Needleverge Pathway
+1 Hengegate Pathway
 1 Baffling End
 1 Sterling Grove
 1 Sanctum of Shattered Heights
@@ -334,51 +333,40 @@
 1 Nine Lives
 1 Sanctum Weaver
 1 Solemnity
+1 Branchloft Pathway
 1 Sanctum of Stone Fangs
 1 Honden of Night's Reach
 1 Sanctum of All
 1 Sanctum of Fruitful Harvest
 1 Sanctum of Tranquil Light
-2 Barkchannel Pathway
-2 Branchloft Pathway
 2 Needleverge Pathway
+2 Barkchannel Pathway
 2 Baffling End
 2 Sanctum Weaver
 2 Sythis, Harvest's Hand
+2 Branchloft Pathway
 2 Sterling Grove
 2 Sanctum of All
 2 Chromatic Lantern
 2 Enchantress's Presence
 2 Ketria Triome
-3 Branchloft Pathway
 3 Needleverge Pathway
 3 Baffling End
 3 Chromatic Lantern
 3 Sythis, Harvest's Hand
+3 Branchloft Pathway
 3 Sanctum Weaver
 3 Sterling Grove
 3 Sanctum of All
 4 Indatha Triome
-4 Branchloft Pathway
 4 Baffling End
 4 Sythis, Harvest's Hand
 4 Sterling Grove
 4 Temple Garden
+4 Branchloft Pathway
 4 Sanctum of All
 4 Sanctum Weaver
-1 Karn's Bastion
-1 Cryptic Caves
-2 Inventors' Fair
-2 Karn's Bastion
-3 Mazemind Tome
-3 Karn's Bastion
-3 Ulamog, the Ceaseless Hunger
-3 Mystic Forge
-4 Ulamog, the Ceaseless Hunger
-4 Mazemind Tome
 1 Cragcrown Pathway
-1 Khalni Garden
-1 Magma Opus
 1 The Tarrasque
 1 Phyrexian Tower
 1 Tibalt's Trickery
@@ -386,21 +374,23 @@
 1 Elesh Norn, Grand Cenobite
 1 Chandra, Awakened Inferno
 1 Steam Vents
+1 Khalni Garden
 1 Emergent Ultimatum
 1 Emergence Zone
 1 Riverglide Pathway
 1 Throes of Chaos
 1 Scholar of the Lost Trove
+1 Magma Opus
 1 Mirrodin's Core
 1 Blood Crypt
 2 Steam Vents
 2 Cragcrown Pathway
-2 Magma Opus
 2 Treasure Vault
 2 Blood Crypt
 2 Tibalt's Trickery
 2 Chandra, Awakened Inferno
 2 Mountain
+2 Magma Opus
 2 Mirrodin's Core
 2 Phyrexian Tower
 2 Throes of Chaos
@@ -418,6 +408,7 @@
 3 Magma Opus
 3 Steam Vents
 4 Cragcrown Pathway
+4 Alrund's Epiphany
 4 Throes of Chaos
 4 Emergent Ultimatum
 4 Riverglide Pathway
@@ -425,4 +416,13 @@
 4 Magma Opus
 4 Steam Vents
 4 Khalni Garden
-4 Alrund's Epiphany
+1 Karn's Bastion
+1 Cryptic Caves
+2 Inventors' Fair
+2 Karn's Bastion
+3 Mazemind Tome
+3 Ulamog, the Ceaseless Hunger
+3 Karn's Bastion
+3 Mystic Forge
+4 Ulamog, the Ceaseless Hunger
+4 Mazemind Tome

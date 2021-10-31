@@ -84,22 +84,22 @@
 4 Inspiring Vantage
 1 Lightning Axe
 1 Stormwing Entity
+1 Expressive Iteration
 1 Riverglide Pathway
 1 Opt
-1 Expressive Iteration
 2 Stormwing Entity
+2 Expressive Iteration
 2 Riverglide Pathway
 2 Opt
-2 Expressive Iteration
 3 Stormwing Entity
-3 Opt
-3 Riverglide Pathway
-3 Expressive Iteration
 3 Spirebluff Canal
+3 Expressive Iteration
+3 Riverglide Pathway
+3 Opt
 4 Stormwing Entity
-4 Opt
-4 Riverglide Pathway
 4 Spirebluff Canal
+4 Riverglide Pathway
+4 Opt
 4 Expressive Iteration
 1 Flameblade Adept
 2 Flameblade Adept
@@ -183,23 +183,23 @@
 1 Faithless Salvaging
 2 Faithless Salvaging
 1 Rampaging Ferocidon
-1 Blightstep Pathway
 1 Blood Crypt
+1 Blightstep Pathway
 1 Dragonskull Summit
-2 Blightstep Pathway
 2 Blood Crypt
+2 Blightstep Pathway
 3 Blightstep Pathway
 3 Blood Crypt
-4 Blightstep Pathway
 4 Blood Crypt
+4 Blightstep Pathway
 1 Maximize Velocity
 1 Phoenix of Ash
 1 Forgotten Cave
 2 Forgotten Cave
 1 Grim Lavamancer
 2 Grim Lavamancer
-2 Stonecoil Serpent
 2 Spikefield Hazard
+2 Stonecoil Serpent
 1 Bloodbraid Marauder
 2 Bloodbraid Marauder
 1 Lorehold Campus
@@ -221,18 +221,39 @@
 3 Castle Embereth
 4 Castle Embereth
 4 Faceless Haven
-1 Rakdos Headliner
-1 Swamp
+1 Collected Company
+1 Rotting Regisaur
+1 Kazandu Mammoth
+1 Dreadhorde Butcher
+1 Reckless Stormseeker
+1 Overgrown Tomb
+1 Call of the Death-Dweller
+1 Hive of the Eye Tyrant
+2 Collected Company
+2 Overgrown Tomb
+2 Rotting Regisaur
+2 Dreadhorde Butcher
+2 Reckless Stormseeker
+2 Rampaging Ferocidon
+3 Overgrown Tomb
+3 Collected Company
+3 Rotting Regisaur
+3 Dreadhorde Butcher
+3 Reckless Stormseeker
+4 Overgrown Tomb
+4 Collected Company
 1 Kroxa, Titan of Death's Hunger
+1 Swamp
 1 Terminal Agony
-2 Rakdos Headliner
+1 Rakdos Headliner
 2 Swamp
+2 Rakdos Headliner
 2 Kroxa, Titan of Death's Hunger
-2 Terminal Agony
 2 Dragonskull Summit
+2 Terminal Agony
 3 Dragonskull Summit
-3 Rakdos Headliner
 3 Swamp
+3 Rakdos Headliner
 3 Faithless Salvaging
 4 Dragonskull Summit
 4 Faithless Salvaging
@@ -242,27 +263,6 @@
 3 Runaway Steam-Kin
 3 Hazoret the Fervent
 4 Runaway Steam-Kin
-1 Collected Company
-1 Kazandu Mammoth
-1 Dreadhorde Butcher
-1 Reckless Stormseeker
-1 Overgrown Tomb
-1 Call of the Death-Dweller
-1 Hive of the Eye Tyrant
-1 Rotting Regisaur
-2 Collected Company
-2 Dreadhorde Butcher
-2 Reckless Stormseeker
-2 Rotting Regisaur
-2 Overgrown Tomb
-2 Rampaging Ferocidon
-3 Collected Company
-3 Dreadhorde Butcher
-3 Reckless Stormseeker
-3 Rotting Regisaur
-3 Overgrown Tomb
-4 Collected Company
-4 Overgrown Tomb
 3 Chandra, Torch of Defiance
 18 Mountain
 19 Mountain
