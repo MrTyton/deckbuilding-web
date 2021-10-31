@@ -1,7 +1,7 @@
 # 8-Cast
 
 #### [Export MTGO List](../collection/8-Cast/8-Cast.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Tomb%0A4%09Echo%20of%20Eons%0A4%09Emry,%20Lurker%20of%20the%20Loch%0A4%09Force%20of%20Will%0A4%09Lion's%20Eye%20Diamond%0A4%09Lotus%20Petal%0A4%09Mishra's%20Bauble%0A4%09Mox%20Opal%0A1%09Retrofitter%20Foundry%0A4%09Sai,%20Master%20Thopterist%0A4%09Seat%20of%20the%20Synod%0A1%09Shadowspear%0A2%09Snow-Covered%20Island%0A4%09Thought%20Monitor%0A4%09Thoughtcast%0A4%09Urza's%20Bauble%0A4%09Urza's%20Saga&deckside=2%09Dismember%0A2%09Engineered%20Explosives%0A1%09Expedition%20Map%0A4%09Force%20of%20Negation%0A1%09Hydroblast%0A1%09Pithing%20Needle%0A1%09Soul-Guide%20Lantern%0A3%09Surgical%20Extraction)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Tomb%0A4%09Echo%20of%20Eons%0A4%09Emry,%20Lurker%20of%20the%20Loch%0A4%09Force%20of%20Will%0A4%09Lion's%20Eye%20Diamond%0A4%09Lotus%20Petal%0A4%09Mishra's%20Bauble%0A4%09Mox%20Opal%0A1%09Retrofitter%20Foundry%0A4%09Sai,%20Master%20Thopterist%0A4%09Seat%20of%20the%20Synod%0A1%09Shadowspear%0A2%09Snow-Covered%20Island%0A4%09Thought%20Monitor%0A4%09Thoughtcast%0A4%09Urza's%20Bauble%0A4%09Urza's%20Saga&deckside=2%09Dismember%0A2%09Engineered%20Explosives%0A4%09Force%20of%20Negation%0A1%09Grafdigger's%20Cage%0A1%09Pithing%20Needle%0A1%09Soul-Guide%20Lantern%0A2%09Surgical%20Extraction%0A2%09Torpor%20Orb)
 # Maindeck
 
 |                                         Artifact (22)                                          |                                            Creature (12)                                            |                                      Instant (4)                                       |                                           Land (14)                                            |                                       Sorcery (8)                                       |
@@ -17,23 +17,24 @@
 
 # Sideboard
 
-|                                          Artifact (5)                                           |                                          Instant (10)                                          |
+|                                          Artifact (7)                                           |                                          Instant (8)                                           |
 |-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 |2 [Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
-|1 [Expedition Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397742)      |4 [Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |
-|1 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)      |1 [Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)           |
-|1 [Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)  |3 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|1 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)   |4 [Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |
+|1 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)      |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|1 [Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)  |                                                                                                |
+|2 [Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)          |                                                                                                |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                             Sideboard Card                                             |
 |--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------------|
-|                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)      |                    1|[Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)                   |
-|                    2|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)      |                    2|[Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)                   |
-|                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)           |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)            |
-|                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)      |                    1|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)                      |
-|                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)       |                    1|[Aether Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220525)             |
+|                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)      |                    1|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)                      |
+|                    2|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)      |                    1|[Aether Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220525)             |
+|                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)           |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)          |
+|                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)      |                    1|[Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)                     |
+|                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)       |                    1|[Expedition Map](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397742)               |
 |                    1|[Urza, Lord High Artificer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464024)|                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)                 |
 |                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)                 |
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)              |

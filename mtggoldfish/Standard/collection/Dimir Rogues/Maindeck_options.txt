@@ -16,8 +16,8 @@
 2 Snow-Covered Swamp
 3 Snow-Covered Island
 3 Snow-Covered Swamp
-4 Snow-Covered Swamp
 4 Snow-Covered Island
+4 Snow-Covered Swamp
 2 Memory Deluge
 1 Divide by Zero
 2 Divide by Zero
@@ -109,8 +109,8 @@
 1 Into the Roil
 1 Curse of Leeches
 1 Malakir Rebirth
-2 Curse of Leeches
 2 Malakir Rebirth
+2 Curse of Leeches
 3 Grazilaxx, Illithid Scholar
 1 Iymrith, Desert Doom
 3 Hall of Storm Giants
@@ -128,27 +128,21 @@
 3 Test of Talents
 4 Negate
 4 Morbid Opportunist
-1 Delver of Secrets
-1 Reaper's Talisman
-2 Delver of Secrets
-2 Reaper's Talisman
-3 Delver of Secrets
-4 Delver of Secrets
+1 Consider
+2 Consider
+3 Spectral Adversary
+3 Concerted Defense
+4 Spectral Adversary
 1 Tasha's Hideous Laughter
 2 Tasha's Hideous Laughter
 2 Maddening Cacophony
 3 Maddening Cacophony
 3 Tasha's Hideous Laughter
 4 Bloodchief's Thirst
+4 Jwari Disruption
 4 Fading Hope
 4 Maddening Cacophony
 4 Tasha's Hideous Laughter
-4 Jwari Disruption
-1 Consider
-2 Consider
-3 Spectral Adversary
-3 Concerted Defense
-4 Spectral Adversary
 1 Glasspool Mimic
 2 Glasspool Mimic
 3 Glasspool Mimic
@@ -156,8 +150,8 @@
 4 Glasspool Mimic
 4 Agadeem's Awakening
 1 Eaten Alive
-1 Flip the Switch
 1 Feed the Swarm
+1 Flip the Switch
 1 Devious Cover-Up
 1 Tyrite Sanctum
 1 Blood on the Snow
@@ -178,6 +172,12 @@
 3 Shambling Ghast
 4 Eaten Alive
 4 Shambling Ghast
+1 Delver of Secrets
+1 Reaper's Talisman
+2 Reaper's Talisman
+2 Delver of Secrets
+3 Delver of Secrets
+4 Delver of Secrets
 1 You Find the Villains' Lair
 1 Mind Flayer
 1 Wizard Class
@@ -200,12 +200,12 @@
 4 Zulaport Duelist
 1 Port of Karfell
 2 Port of Karfell
+3 Acquisitions Expert
 3 Duress
 3 Blackbloom Rogue
-3 Acquisitions Expert
 4 Behold the Multiverse
-4 Duress
 4 Acquisitions Expert
+4 Duress
 4 Blackbloom Rogue
 10 Swamp
 1 Ray of Enfeeblement

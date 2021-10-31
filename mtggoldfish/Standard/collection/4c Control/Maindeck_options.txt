@@ -15,9 +15,9 @@
 1 Sunset Revelry
 1 The Celestus
 2 Lorehold Command
+2 Deserted Beach
 2 Lorehold Campus
 2 Doomskar
-2 Deserted Beach
 2 Divide by Zero
 2 Hengegate Pathway
 2 Needleverge Pathway
@@ -25,9 +25,9 @@
 2 The Celestus
 3 Divide by Zero
 3 The Celestus
+3 Deserted Beach
 3 Lorehold Campus
 3 Doomskar
-3 Deserted Beach
 3 Needleverge Pathway
 3 Sunset Revelry
 3 Alrund's Epiphany
@@ -87,31 +87,68 @@
 2 Darkbore Pathway
 2 Prosperous Innkeeper
 3 Prosperous Innkeeper
+1 Shambling Ghast
+1 Skullport Merchant
+1 Disdainful Stroke
+1 Barkchannel Pathway
+1 Necroblossom Snarl
+1 Eyetwitch
+1 Cragcrown Pathway
+1 Vineglimmer Snarl
+1 Eaten Alive
+1 Rockfall Vale
+2 Rockfall Vale
+2 Island
+2 Shambling Ghast
+2 Skullport Merchant
+2 Iymrith, Desert Doom
+2 The Meathook Massacre
+2 Eyetwitch
+2 Cragcrown Pathway
+2 Eaten Alive
+3 Shambling Ghast
+3 Island
+3 Saw It Coming
+3 Swamp
+3 Eaten Alive
+4 Deadly Dispute
+4 Shambling Ghast
+4 Island
+4 Saw It Coming
+4 Prosperous Innkeeper
+4 Eaten Alive
+4 Swamp
+5 Swamp
+6 Swamp
+7 Swamp
+8 Swamp
+9 Swamp
+10 Swamp
 1 Hive of the Eye Tyrant
-1 Lair of the Hydra
 1 Dragon's Fire
 1 Immersturm Predator
-1 Liesa, Forgotten Archangel
-1 Fateful Absence
+1 Pelakka Predation
 1 Reckless Stormseeker
-1 Yasharn, Implacable Earth
+1 Liesa, Forgotten Archangel
 1 Sarulf, Realm Eater
+1 Yasharn, Implacable Earth
 1 Heated Debate
 1 Esika's Chariot
 1 Extus, Oriq Overlord
 1 Forest
 1 Blot Out the Sky
 1 Brightclimb Pathway
-1 Pelakka Predation
+1 Lair of the Hydra
+1 Fateful Absence
 2 Shatterskull Smashing
 2 Dragon's Fire
 2 Immersturm Predator
 2 Field of Ruin
-2 Fateful Absence
 2 Reckless Stormseeker
 2 Yasharn, Implacable Earth
 2 Heated Debate
 2 Plains
+2 Fateful Absence
 2 Pelakka Predation
 2 Brightclimb Pathway
 2 Lair of the Hydra
@@ -129,40 +166,3 @@
 5 Mountain
 6 Mountain
 7 Mountain
-1 Shambling Ghast
-1 Skullport Merchant
-1 Disdainful Stroke
-1 Barkchannel Pathway
-1 Vineglimmer Snarl
-1 Eyetwitch
-1 Necroblossom Snarl
-1 Cragcrown Pathway
-1 Eaten Alive
-1 Rockfall Vale
-2 Island
-2 Shambling Ghast
-2 Skullport Merchant
-2 Iymrith, Desert Doom
-2 The Meathook Massacre
-2 Eyetwitch
-2 Cragcrown Pathway
-2 Eaten Alive
-2 Rockfall Vale
-3 Shambling Ghast
-3 Island
-3 Saw It Coming
-3 Swamp
-3 Eaten Alive
-4 Deadly Dispute
-4 Shambling Ghast
-4 Island
-4 Saw It Coming
-4 Prosperous Innkeeper
-4 Eaten Alive
-5 Swamp
-6 Swamp
-7 Swamp
-8 Swamp
-9 Swamp
-10 Swamp
-4 Swamp

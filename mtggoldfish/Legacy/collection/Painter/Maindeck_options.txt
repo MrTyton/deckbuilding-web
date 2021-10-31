@@ -1,91 +1,49 @@
+4 Great Furnace
+7 Mountain
+1 Smuggler's Copter
+1 Ethersworn Canonist
 1 Plateau
 1 Enlightened Tutor
-1 Ethersworn Canonist
 2 Plateau
-1 Pithing Needle
-7 Mountain
-1 Soul-Guide Lantern
-1 Retrofitter Foundry
-1 Wooded Foothills
-2 Smuggler's Copter
 1 Mox Opal
+1 Goblin Cratermaker
 1 Blood Moon
-1 Portable Hole
-1 Arid Mesa
-2 Wooded Foothills
-1 Bloodstained Mire
-2 Bloodstained Mire
-1 Chromatic Star
+4 Goblin Engineer
 2 Mox Opal
-2 Simian Spirit Guide
-2 Enlightened Tutor
+1 Arid Mesa
 1 Force of Will
 2 Force of Will
 3 Force of Will
 4 Force of Will
+1 Chromatic Star
 3 Mox Opal
-4 Goblin Engineer
+1 Wooded Foothills
+2 Wooded Foothills
 4 Grindstone
+2 Simian Spirit Guide
+1 Portable Hole
+2 Enlightened Tutor
+8 Mountain
+1 Island
 3 City of Traitors
 2 Chromatic Star
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
-1 Island
-1 Trinisphere
-1 Ichor Wellspring
-1 Magus of the Moon
-8 Mountain
-4 Ragavan, Nimble Pilferer
-2 Arid Mesa
-3 Arid Mesa
-1 Pyrite Spellbomb
-3 Chromatic Star
-4 Chromatic Star
 1 Polluted Delta
 1 Seat of the Synod
 2 Seat of the Synod
 3 Seat of the Synod
 4 Seat of the Synod
-1 Relic of Progenitus
-1 Scalding Tarn
-2 Island
-1 Brainstorm
-2 Brainstorm
-3 Brainstorm
-1 Murktide Regent
-1 Unholy Heat
-1 Force of Negation
-1 Expressive Iteration
-1 Ponder
-1 Volcanic Island
-2 Murktide Regent
-2 Ponder
-2 Expressive Iteration
-2 Scalding Tarn
-2 Volcanic Island
-3 Expressive Iteration
-3 Murktide Regent
-3 Volcanic Island
-3 Scalding Tarn
-3 Ponder
-4 Expressive Iteration
-4 Volcanic Island
-4 Ponder
-4 Scalding Tarn
-4 Brainstorm
-2 Polluted Delta
-1 Misty Rainforest
-2 Misty Rainforest
 1 Thought Monitor
 2 Thought Monitor
 3 Thought Monitor
 4 Thought Monitor
-3 Island
+2 Polluted Delta
+1 Relic of Progenitus
 1 Preordain
 2 Preordain
 3 Preordain
-1 Swamp
 1 Underground Sea
 1 Baleful Strix
 1 Hydroblast
@@ -102,14 +60,54 @@
 4 Baleful Strix
 4 Preordain
 4 Hydroblast
-3 Bloodstained Mire
-3 Red Elemental Blast
-4 Red Elemental Blast
-1 Brainstone
-4 Mox Opal
-1 Sundering Titan
+1 Bloodstained Mire
+2 Bloodstained Mire
+2 Smuggler's Copter
 9 Mountain
 10 Mountain
+4 Ragavan, Nimble Pilferer
+1 Pyrite Spellbomb
+2 Arid Mesa
+3 Arid Mesa
+2 Island
+1 Brainstorm
+2 Brainstorm
+3 Brainstorm
+1 Murktide Regent
+1 Unholy Heat
+1 Force of Negation
+1 Expressive Iteration
+1 Ponder
+1 Volcanic Island
+1 Scalding Tarn
+2 Murktide Regent
+2 Ponder
+2 Expressive Iteration
+2 Scalding Tarn
+2 Volcanic Island
+3 Expressive Iteration
+3 Murktide Regent
+3 Volcanic Island
+3 Scalding Tarn
+3 Ponder
+4 Expressive Iteration
+4 Volcanic Island
+4 Ponder
+4 Scalding Tarn
+4 Brainstorm
+3 Chromatic Star
+4 Chromatic Star
+1 Misty Rainforest
+2 Misty Rainforest
+3 Island
+1 Swamp
+1 Trinisphere
+1 Ichor Wellspring
+3 Red Elemental Blast
+4 Red Elemental Blast
+1 Magus of the Moon
+4 Mox Opal
+1 Sundering Titan
 4 Karn, the Great Creator
 2 Relic of Progenitus
 2 Force of Negation
@@ -129,11 +127,15 @@
 1 Snow-Covered Mountain
 1 Blue Elemental Blast
 2 Snow-Covered Island
+3 Bloodstained Mire
+1 Brainstone
 1 Phyrexian Furnace
+2 Blood Moon
+1 Bolas's Citadel
+3 Simian Spirit Guide
+4 City of Traitors
 2 Ensnaring Bridge
 4 Arid Mesa
-2 Blood Moon
-4 City of Traitors
 2 Darksteel Citadel
 3 Darksteel Citadel
 4 Darksteel Citadel
@@ -158,6 +160,7 @@
 1 Magmatic Channeler
 2 Magmatic Channeler
 3 Magmatic Channeler
+3 Underground Sea
 1 Karn, Scion of Urza
 1 Thoughtcast
 2 Karn, Scion of Urza
@@ -175,8 +178,6 @@
 3 Oswald Fiddlebender
 4 Oswald Fiddlebender
 1 Seasoned Pyromancer
-1 Bolas's Citadel
-3 Simian Spirit Guide
 3 Blood Moon
 4 Blood Moon
 2 Flooded Strand

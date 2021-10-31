@@ -36,10 +36,10 @@
 2 Island
 2 Stormchaser Mage
 2 Serum Visions
-3 Sprite Dragon
 3 Sulfur Falls
 3 Island
 3 Stormchaser Mage
+3 Sprite Dragon
 4 Sulfur Falls
 4 Inspiring Vantage
 4 Island
@@ -94,8 +94,8 @@
 1 Blood Crypt
 1 Underworld Breach
 2 Underworld Breach
-3 Path to Exile
 3 Sacred Foundry
+3 Path to Exile
 1 Reckless Charge
 2 Reckless Charge
 4 Mutagenic Growth
@@ -104,12 +104,6 @@
 3 Lava Spike
 3 Bedlam Reveler
 4 Lava Spike
-1 Castle Vantress
-1 Prismari Command
-1 Opt
-2 Prismari Command
-2 Opt
-6 Island
 1 Bonecrusher Giant
 1 Den of the Bugbear
 1 Abbot of Keral Keep
@@ -125,3 +119,9 @@
 4 Abbot of Keral Keep
 11 Mountain
 12 Mountain
+1 Castle Vantress
+1 Opt
+1 Prismari Command
+2 Opt
+2 Prismari Command
+6 Island
