@@ -40,40 +40,40 @@
 1 Raugrin Triome
 1 Savai Triome
 1 Nahiri, the Harbinger
-1 Steam Vents
-1 Fire/Ice
-1 Blood Crypt
-1 Hard Evidence
 1 Arid Mesa
 1 Scalding Tarn
+1 Blood Crypt
+1 Fire/Ice
 1 Prismari Command
+1 Hard Evidence
+1 Steam Vents
 1 Dwarven Mine
 1 Sacred Foundry
 1 Indomitable Creativity
-2 Scalding Tarn
 2 Nahiri, the Harbinger
-2 Steam Vents
+2 Arid Mesa
 2 Fire/Ice
+2 Scalding Tarn
 2 Bloodstained Mire
 2 Hard Evidence
 2 Prismari Command
-2 Arid Mesa
+2 Steam Vents
 2 Dwarven Mine
 2 Indomitable Creativity
-3 Bloodstained Mire
-3 Arid Mesa
 3 Scalding Tarn
 3 Steam Vents
+3 Arid Mesa
 3 Dwarven Mine
 3 Hard Evidence
 3 Indomitable Creativity
+3 Bloodstained Mire
 3 Fire/Ice
 4 Hard Evidence
 4 Arid Mesa
-4 Bloodstained Mire
 4 Scalding Tarn
 4 Indomitable Creativity
 4 Fire/Ice
+4 Bloodstained Mire
 2 Swamp
 2 River of Tears
 1 Silent Clearing
@@ -84,20 +84,20 @@
 3 Wall of Omens
 4 Wall of Omens
 1 Snow-Covered Island
-1 Snow-Covered Swamp
 1 Snow-Covered Plains
+1 Snow-Covered Swamp
 1 Overgrown Tomb
 1 Supreme Verdict
 2 Supreme Verdict
 1 Kaya, Orzhov Usurper
 3 Darkslick Shores
-1 Grist, the Hunger Tide
 1 Forest
-1 Temple Garden
+1 Grist, the Hunger Tide
+1 Verdant Catacombs
 1 Indatha Triome
 1 Satyr Wayfinder
+1 Temple Garden
 1 Grisly Salvage
-1 Verdant Catacombs
 1 Eternal Witness
 2 Windswept Heath
 2 Grist, the Hunger Tide
@@ -160,6 +160,10 @@
 1 Grave Titan
 1 Inquisition of Kozilek
 1 Clearwater Pathway
+1 Otherworldly Gaze
+2 Otherworldly Gaze
+3 Otherworldly Gaze
+4 Otherworldly Gaze
 1 Sunken Ruins
 1 Seachrome Coast
 1 Force of Negation
@@ -167,19 +171,15 @@
 2 Force of Negation
 2 Drowned Catacomb
 4 Chalice of the Void
-1 Otherworldly Gaze
-2 Otherworldly Gaze
-3 Otherworldly Gaze
-4 Otherworldly Gaze
-1 Castle Locthwain
 1 Damn
-1 Urborg, Tomb of Yawgmoth
 1 Vindicate
+1 Urborg, Tomb of Yawgmoth
 1 Cave of the Frost Dragon
 1 Batterskull
 1 Stoneforge Mystic
+1 Castle Locthwain
 1 Kaldra Compleat
 2 Stoneforge Mystic
-3 Swamp
 3 Stoneforge Mystic
 3 Godless Shrine
+3 Swamp

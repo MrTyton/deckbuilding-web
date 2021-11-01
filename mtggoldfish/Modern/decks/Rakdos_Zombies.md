@@ -49,7 +49,7 @@
 |                    3|[Champion of the Perished](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534859)|                     |                                                                                               |
 |                    3|[Blackcleave Cliffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209401)      |                     |                                                                                               |
 |                    3|[Geralf's Messenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=243250)      |                     |                                                                                               |
-|                    4|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)              |                     |                                                                                               |
 |                    4|[Champion of the Perished](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534859)|                     |                                                                                               |
+|                    4|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)              |                     |                                                                                               |
 |                    4|[Geralf's Messenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=243250)      |                     |                                                                                               |
 

@@ -75,6 +75,6 @@
 |                    2|[Consider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534803)                  |                     |                                                                                                     |
 |                    2|[Spirebluff Canal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417822)          |                     |                                                                                                     |
 |                    3|[Consider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534803)                  |                     |                                                                                                     |
-|                    4|[Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527453)                      |                     |                                                                                                     |
 |                    4|[Consider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534803)                  |                     |                                                                                                     |
+|                    4|[Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527453)                      |                     |                                                                                                     |
 

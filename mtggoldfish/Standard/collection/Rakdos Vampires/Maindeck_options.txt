@@ -2,15 +2,17 @@
 4 Mountain
 5 Swamp
 5 Mountain
-6 Swamp
 3 Play with Fire
-6 Mountain
-1 Roil Eruption
+6 Swamp
 4 Play with Fire
 1 Bloodchief's Thirst
+6 Mountain
+1 Roil Eruption
 2 Bloodchief's Thirst
 1 Hungry for More
 2 Hungry for More
+1 Zariel, Archduke of Avernus
+1 Lolth, Spider Queen
 2 Roil Eruption
 3 Roil Eruption
 4 Roil Eruption
@@ -24,12 +26,10 @@
 4 Hungry for More
 1 Thermo-Alchemist
 1 Igneous Inspiration
-2 Igneous Inspiration
 2 Thermo-Alchemist
+2 Igneous Inspiration
 3 Thermo-Alchemist
 4 Thermo-Alchemist
-1 Zariel, Archduke of Avernus
-1 Lolth, Spider Queen
 1 Drana, the Last Bloodchief
 1 Immersturm Skullcairn
 2 Immersturm Skullcairn
@@ -42,6 +42,11 @@
 2 Zariel, Archduke of Avernus
 1 The Meathook Massacre
 2 The Meathook Massacre
+1 Thundering Rebuke
+1 Field of Ruin
+1 Crippling Fear
+1 Malakir Blood-Priest
+3 Valentin, Dean of the Vein
 1 Kazuul's Fury
 1 Burn Down the House
 1 Duress
@@ -51,8 +56,8 @@
 1 Shadows' Verdict
 1 Blood Pact
 1 Soul Shatter
-1 Orcus, Prince of Undeath
 1 Poet's Quill
+1 Orcus, Prince of Undeath
 1 Bloodline Culling
 1 Vampire Interloper
 1 Enthusiastic Study
@@ -75,15 +80,15 @@
 2 Crawl from the Cellar
 2 Curse of Leeches
 2 Ghoulish Procession
+2 Slaughter Specialist
 2 Valki, God of Lies
 2 Spikefield Hazard
-2 Slaughter Specialist
 3 Spikefield Hazard
 3 Crawl from the Cellar
 3 Slaughter Specialist
 4 Crawl from the Cellar
-4 Slaughter Specialist
 4 Spikefield Hazard
+4 Slaughter Specialist
 1 Warlock Class
 2 Warlock Class
 3 Igneous Inspiration
