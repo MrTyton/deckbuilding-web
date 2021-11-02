@@ -1,23 +1,22 @@
-1 Jadar, Ghoulcaller of Nephalia
-2 Jadar, Ghoulcaller of Nephalia
-3 Field of Ruin
-4 Skullport Merchant
-1 Tainted Adversary
-1 Hostile Hostel
 1 Sedgemoor Witch
 2 Sedgemoor Witch
 3 Sedgemoor Witch
+4 Infernal Grasp
+2 Jadar, Ghoulcaller of Nephalia
+1 Tainted Adversary
+1 Duress
+2 Duress
+3 Duress
+1 Hostile Hostel
 1 Eaten Alive
 2 Eaten Alive
 3 Eaten Alive
-4 Field of Ruin
+3 Field of Ruin
 2 Tainted Adversary
 1 Champion of the Perished
 2 Champion of the Perished
 3 Jadar, Ghoulcaller of Nephalia
-1 Duress
-2 Duress
-3 Duress
+4 Skullport Merchant
 18 Snow-Covered Swamp
 3 Tainted Adversary
 3 Champion of the Perished
@@ -25,33 +24,34 @@
 1 Warlock Class
 3 Hive of the Eye Tyrant
 1 Soul Shatter
+4 Sedgemoor Witch
 1 Plumb the Forbidden
 1 Village Rites
 2 Village Rites
-2 Warlock Class
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
+2 Warlock Class
 4 Tainted Adversary
-1 Valki, God of Lies
+4 Field of Ruin
 1 Skyclave Shade
 2 Skyclave Shade
 19 Snow-Covered Swamp
 2 Plumb the Forbidden
-4 Sedgemoor Witch
 3 Warlock Class
 4 Warlock Class
 1 Ebondeath, Dracolich
 3 Bloodchief's Thirst
 3 Skyclave Shade
-2 Valki, God of Lies
+1 Valki, God of Lies
 2 Inscription of Ruin
 4 Duress
 1 Rotten Reunion
 4 Eaten Alive
 3 Village Rites
-4 Skyclave Shade
+1 Morbid Opportunist
 1 Wight
 2 Wight
+4 Skyclave Shade
 4 Village Rites
 4 Hive of the Eye Tyrant
 1 Swamp
@@ -72,9 +72,9 @@
 2 Rotten Reunion
 2 Ebondeath, Dracolich
 3 Rotten Reunion
-2 Hostile Hostel
 1 Agadeem's Awakening
-1 Morbid Opportunist
+2 Hostile Hostel
+2 Valki, God of Lies
 2 Morbid Opportunist
 3 Morbid Opportunist
 4 Morbid Opportunist
@@ -84,6 +84,7 @@
 18 Swamp
 19 Swamp
 4 Jadar, Ghoulcaller of Nephalia
+1 Nighthawk Scavenger
 1 Graveyard Trespasser
 2 Agadeem's Awakening
 3 Agadeem's Awakening
@@ -91,12 +92,12 @@
 1 Crawl from the Cellar
 2 Crawl from the Cellar
 1 No Way Out
-1 Feign Death
 1 Priest of the Haunted Edge
 1 Diregraf Horde
 1 Demonic Gifts
-2 Demonic Gifts
+1 Feign Death
 2 Feign Death
+2 Demonic Gifts
 2 Diregraf Horde
 2 Priest of the Haunted Edge
 2 No Way Out
@@ -106,18 +107,21 @@
 4 Priest of the Haunted Edge
 4 Crawl from the Cellar
 1 Feed the Swarm
+1 Forsworn Paladin
+2 Forsworn Paladin
+1 Ghoulish Procession
+2 Ghoulish Procession
 3 Hunt for Specimens
 4 The Meathook Massacre
-2 Soul Shatter
-3 Soul Shatter
-1 Hagra Mauling
-2 Hagra Mauling
 2 Graveyard Trespasser
 3 Graveyard Trespasser
 4 Graveyard Trespasser
 1 Ecstatic Awakener
 2 Ecstatic Awakener
-1 Nighthawk Scavenger
+2 Soul Shatter
+3 Soul Shatter
+1 Hagra Mauling
+2 Hagra Mauling
 2 Nighthawk Scavenger
 3 Nighthawk Scavenger
 21 Snow-Covered Swamp
@@ -131,8 +135,6 @@
 2 Check for Traps
 1 Bloodline Culling
 2 Bloodline Culling
-1 Forsworn Paladin
-2 Forsworn Paladin
 2 Feed the Swarm
 3 Feed the Swarm
 1 Drana, the Last Bloodchief
@@ -162,20 +164,12 @@
 4 Dungeon Crawler
 2 Crippling Fear
 4 Hunt for Specimens
-1 Sulfurous Mire
-1 Snow-Covered Mountain
-2 Sulfurous Mire
-3 Sulfurous Mire
-3 Valki, God of Lies
-4 Sulfurous Mire
 1 Demon's Disciple
 2 Demon's Disciple
 3 Demon's Disciple
 4 Agadeem's Awakening
 4 Demon's Disciple
-1 Ghoulish Procession
 1 Dramatic Finale
-2 Ghoulish Procession
 2 Dramatic Finale
 3 Ghoulish Procession
 3 Dramatic Finale

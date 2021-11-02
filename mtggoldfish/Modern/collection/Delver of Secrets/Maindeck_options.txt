@@ -18,15 +18,15 @@
 1 Seachrome Coast
 1 Stoneforge Mystic
 1 Batterskull
+1 Path to Exile
 1 Maul of the Skyclaves
 1 Geist of Saint Traft
-1 Path to Exile
 1 Hallowed Fountain
 2 Sleight of Hand
 2 Seachrome Coast
 2 Stoneforge Mystic
-2 Path to Exile
 2 Geist of Saint Traft
+2 Path to Exile
 3 Sleight of Hand
 3 Stoneforge Mystic
 3 Seachrome Coast
@@ -61,8 +61,8 @@
 1 Tarmogoyf
 2 Breeding Pool
 2 Tarmogoyf
-3 Misty Rainforest
 3 Tarmogoyf
+3 Misty Rainforest
 4 Misty Rainforest
 4 Tarmogoyf
 1 Stomping Ground
@@ -85,21 +85,21 @@
 2 Fatal Push
 2 Dauthi Voidwalker
 2 Thoughtseize
-2 Inquisition of Kozilek
 2 Watery Grave
+2 Inquisition of Kozilek
 3 Watery Grave
-3 Dauthi Voidwalker
 3 Fatal Push
+3 Dauthi Voidwalker
 3 Inquisition of Kozilek
 3 Dreadhorde Arcanist
 4 Dreadhorde Arcanist
 3 Wooded Foothills
 1 Bloodstained Mire
 2 Snow-Covered Island
-3 Subtlety
 1 Lightning Helix
 2 Lightning Helix
 3 Lightning Helix
+3 Subtlety
 1 Abundant Harvest
 1 Traverse the Ulvenwald
 2 Tarfire
@@ -129,10 +129,26 @@
 3 Hexdrinker
 3 Disrupting Shoal
 3 Stubborn Denial
-4 Mana Leak
 4 Stubborn Denial
 4 Disrupting Shoal
+4 Mana Leak
 4 Hexdrinker
+1 Darkslick Shores
+1 Creeping Tar Pit
+1 Sedgemoor Witch
+1 Urborg, Tomb of Yawgmoth
+1 Castle Locthwain
+1 Bloodchief's Thirst
+1 Drown in the Loch
+1 Heartless Act
+2 Darkslick Shores
+2 Swamp
+2 Sedgemoor Witch
+2 Drown in the Loch
+2 Unearth
+3 Darkslick Shores
+4 Inquisition of Kozilek
+4 Darkslick Shores
 1 Dismember
 1 Verdant Catacombs
 1 Agadeem's Awakening
@@ -145,40 +161,24 @@
 3 Death's Shadow
 3 Thoughtseize
 4 Thoughtseize
-4 Verdant Catacombs
 4 Fatal Push
-4 Watery Grave
+4 Verdant Catacombs
 4 Dauthi Voidwalker
 4 Death's Shadow
-1 Darkslick Shores
-1 Bloodchief's Thirst
-1 Creeping Tar Pit
-1 Sedgemoor Witch
-1 Castle Locthwain
-1 Urborg, Tomb of Yawgmoth
-1 Drown in the Loch
-1 Heartless Act
-2 Darkslick Shores
-2 Swamp
-2 Sedgemoor Witch
-2 Drown in the Loch
-2 Unearth
-3 Darkslick Shores
-4 Darkslick Shores
-4 Inquisition of Kozilek
+4 Watery Grave
 1 Blood Crypt
 1 Light Up the Stage
-1 Young Pyromancer
 1 Gut Shot
+1 Young Pyromancer
 1 Monastery Swiftspear
 1 Rift Bolt
 1 Goblin Guide
+2 Mountain
+2 Blood Crypt
 2 Bloodstained Mire
 2 Gut Shot
-2 Blood Crypt
 2 Goblin Guide
 2 Monastery Swiftspear
-2 Mountain
 2 Young Pyromancer
 2 Light Up the Stage
 2 Rift Bolt

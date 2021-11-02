@@ -21,8 +21,8 @@
 2 Primal Might
 8 Forest
 1 Woodland Cemetery
-1 Blooming Marsh
 1 Overgrown Tomb
+1 Blooming Marsh
 1 Darkbore Pathway
 2 Overgrown Tomb
 2 Blooming Marsh
@@ -43,12 +43,12 @@
 1 Hinterland Harbor
 1 Breeding Pool
 1 Botanical Sanctum
-1 Barkchannel Pathway
 1 Decisive Denial
+1 Barkchannel Pathway
 2 Breeding Pool
 2 Botanical Sanctum
-2 Barkchannel Pathway
 2 Decisive Denial
+2 Barkchannel Pathway
 3 Breeding Pool
 3 Decisive Denial
 3 Botanical Sanctum
@@ -85,11 +85,12 @@
 4 Faceless Haven
 1 Wildborn Preserver
 4 Barkhide Troll
+2 Wildborn Preserver
 1 Castle Garenbrig
 2 Castle Garenbrig
-2 Wildborn Preserver
 1 Unnatural Growth
 3 The Great Henge
+3 Questing Beast
 1 Scrapheap Scrounger
 1 Kraul Harpooner
 1 Bloodchief's Thirst
@@ -111,4 +112,3 @@
 13 Forest
 14 Forest
 15 Forest
-3 Questing Beast

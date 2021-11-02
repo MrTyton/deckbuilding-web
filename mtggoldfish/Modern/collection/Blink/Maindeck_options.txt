@@ -1,80 +1,61 @@
-1 Island
-4 Lightning Bolt
 1 Mountain
+2 Snow-Covered Forest
+1 Forest
+1 Path to Exile
+2 Forest
+4 Lightning Bolt
 4 Windswept Heath
+2 Time Warp
+1 Lightning Helix
+1 Wall of Omens
+2 Wall of Omens
+1 Counterspell
+2 Counterspell
+3 Counterspell
+4 Flooded Strand
+3 Wall of Omens
+1 Endurance
+1 Dovin's Veto
+1 Scalding Tarn
+2 Scalding Tarn
+4 Counterspell
+1 Mystic Gate
+1 Teferi, Hero of Dominaria
+1 Celestial Colonnade
+1 Castle Vantress
+1 Archmage's Charm
+2 Hallowed Fountain
+2 Island
+2 Archmage's Charm
+3 Island
+3 Archmage's Charm
+4 Ephemerate
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Utopia Sprawl
 4 Utopia Sprawl
-1 Forest
-1 Endurance
-1 Counterspell
-2 Counterspell
-1 Path to Exile
-1 Lightning Helix
-2 Forest
-4 Ephemerate
-3 Counterspell
-4 Flooded Strand
-1 Wall of Omens
-2 Wall of Omens
-2 Time Warp
-1 Teferi, Hero of Dominaria
-1 Dovin's Veto
-3 Wall of Omens
-4 Counterspell
-1 Scalding Tarn
-2 Scalding Tarn
-1 Mystic Gate
-1 Celestial Colonnade
-1 Castle Vantress
-1 Archmage's Charm
-2 Island
-2 Archmage's Charm
-2 Hallowed Fountain
-3 Island
-3 Archmage's Charm
-1 Omen of the Sea
 1 Hall of Storm Giants
+1 Omen of the Sea
 2 Omen of the Sea
 3 Omen of the Sea
 4 Island
 4 Wall of Omens
 4 Archmage's Charm
 2 Dovin's Veto
-1 Glacial Fortress
+3 Wooded Foothills
 3 Scalding Tarn
 4 Omen of the Sea
-1 Snapcaster Mage
-1 Unholy Heat
 4 Fury
-3 Abundant Harvest
-2 Arid Mesa
-3 Arid Mesa
-4 Arid Mesa
-1 Sulfur Falls
-2 Unholy Heat
-2 Snapcaster Mage
-2 Steam Vents
-2 Raugrin Triome
-3 Unholy Heat
-3 Snapcaster Mage
-4 Scalding Tarn
-4 Snapcaster Mage
-4 Unholy Heat
-2 Lightning Helix
-4 Ice-Fang Coatl
-3 Wooded Foothills
 2 Plains
 1 Skyclave Apparition
 1 Charming Prince
 1 Emeria's Call
 2 Charming Prince
 3 Plains
-1 Stoneforge Mystic
-1 Kaldra Compleat
 1 Batterskull
+1 Stoneforge Mystic
 1 Sword of Fire and Ice
+1 Kaldra Compleat
 2 Stoneforge Mystic
 2 Skyclave Apparition
 2 Emeria's Call
@@ -82,6 +63,7 @@
 3 Stoneforge Mystic
 3 Emeria's Call
 4 Stoneforge Mystic
+1 Concealed Courtyard
 1 Persist
 1 Malakir Rebirth
 1 Undying Evil
@@ -92,19 +74,18 @@
 1 Shriekmaw
 1 Urborg, Tomb of Yawgmoth
 1 Swamp
-1 Concealed Courtyard
 1 Grief
 1 Godless Shrine
 1 Sword of Truth and Justice
 2 Concealed Courtyard
 2 Malakir Rebirth
 2 Undying Evil
-2 Godless Shrine
-2 Tourach, Dread Cantor
 2 Silent Clearing
 2 Agadeem's Awakening
+2 Tourach, Dread Cantor
 2 Persist
 2 Grief
+2 Godless Shrine
 3 Concealed Courtyard
 3 Silent Clearing
 3 Malakir Rebirth
@@ -116,15 +97,36 @@
 4 Silent Clearing
 4 Malakir Rebirth
 4 Grief
+1 Snapcaster Mage
+1 Unholy Heat
+3 Abundant Harvest
+2 Arid Mesa
+3 Arid Mesa
+4 Arid Mesa
+1 Glacial Fortress
+1 Sulfur Falls
+2 Snapcaster Mage
+2 Steam Vents
+2 Raugrin Triome
+2 Unholy Heat
+3 Snapcaster Mage
+3 Unholy Heat
+4 Scalding Tarn
+4 Snapcaster Mage
+4 Unholy Heat
 1 Supreme Verdict
+2 Lightning Helix
+4 Ice-Fang Coatl
 2 Teferi, Hero of Dominaria
 2 Supreme Verdict
 2 Glacial Fortress
 2 Castle Vantress
 3 Supreme Verdict
+2 Sulfur Falls
 2 Snow-Covered Island
+1 Flusterstorm
+2 Flusterstorm
 1 Restoration Angel
-2 Endurance
 1 Memory Deluge
 1 Chalice of the Void
 2 Chalice of the Void
@@ -141,15 +143,18 @@
 2 Field of Ruin
 1 Castle Ardenvale
 1 Emrakul, the Promised End
-2 Sulfur Falls
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
+2 Endurance
 3 Ragavan, Nimble Pilferer
-1 Flusterstorm
-2 Flusterstorm
 3 Flusterstorm
-3 Endurance
 3 Dovin's Veto
+1 Zagoth Triome
+1 Unmoored Ego
+1 Valki, God of Lies
+1 Bring to Light
+2 Bring to Light
+3 Bring to Light
 2 Celestial Colonnade
 3 Mystic Gate
 4 Mystic Gate
@@ -164,28 +169,28 @@
 1 Felidar Guardian
 1 Kiki-Jiki, Mirror Breaker
 1 Rugged Prairie
-1 Esper Sentinel
 1 Shatterskull Smashing
+1 Esper Sentinel
 1 Sanctum Prelate
-1 Showdown of the Skalds
+1 Rustvale Bridge
 1 Cleansing Wildfire
 1 Flagstones of Trokair
+1 Marsh Flats
 1 Sanctifier en-Vec
+1 Showdown of the Skalds
 1 Magus of the Moon
-1 Rustvale Bridge
 1 Imperial Recruiter
 1 Brought Back
-1 Marsh Flats
 1 Ghost Quarter
 2 Rugged Prairie
 2 Esper Sentinel
 2 Sacred Foundry
-2 Flagstones of Trokair
+2 Marsh Flats
 2 Cleansing Wildfire
+2 Flagstones of Trokair
 2 Showdown of the Skalds
 2 Brought Back
 2 Imperial Recruiter
-2 Marsh Flats
 2 Felidar Guardian
 2 Ghost Quarter
 3 Esper Sentinel
@@ -197,30 +202,30 @@
 3 Ghost Quarter
 3 Imperial Recruiter
 4 Imperial Recruiter
+4 Sacred Foundry
 4 Esper Sentinel
 4 Flagstones of Trokair
 4 Cleansing Wildfire
 4 Showdown of the Skalds
 4 Ghost Quarter
-4 Sacred Foundry
 4 Brought Back
-1 Gut Shot
-1 Mox Amber
-1 Bonecrusher Giant
-1 Conflagrate
+1 Song of Creation
 1 Manamorphose
 1 Birgi, God of Storytelling
-1 Song of Creation
-2 Mox Amber
-2 Song of Creation
-2 Birgi, God of Storytelling
+1 Conflagrate
+1 Mox Amber
+1 Gut Shot
+1 Bonecrusher Giant
 2 Manamorphose
-3 Mox Amber
+2 Birgi, God of Storytelling
+2 Song of Creation
+2 Mox Amber
 3 Birgi, God of Storytelling
 3 Song of Creation
-4 Wooded Foothills
-4 Mox Amber
+3 Mox Amber
 4 Song of Creation
+4 Mox Amber
+4 Wooded Foothills
 3 Hallowed Fountain
 3 Chalice of the Void
 4 Glacial Fortress
@@ -271,8 +276,8 @@
 1 Fire/Ice
 1 Opt
 1 Shark Typhoon
-2 Polluted Delta
 2 Opt
+2 Polluted Delta
 2 Shark Typhoon
 3 Opt
 13 Plains
