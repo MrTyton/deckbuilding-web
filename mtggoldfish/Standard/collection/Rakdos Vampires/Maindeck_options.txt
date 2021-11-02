@@ -26,8 +26,8 @@
 4 Hungry for More
 1 Thermo-Alchemist
 1 Igneous Inspiration
-2 Thermo-Alchemist
 2 Igneous Inspiration
+2 Thermo-Alchemist
 3 Thermo-Alchemist
 4 Thermo-Alchemist
 1 Drana, the Last Bloodchief
@@ -55,9 +55,9 @@
 3 Duress
 1 Shadows' Verdict
 1 Blood Pact
+1 Orcus, Prince of Undeath
 1 Soul Shatter
 1 Poet's Quill
-1 Orcus, Prince of Undeath
 1 Bloodline Culling
 1 Vampire Interloper
 1 Enthusiastic Study
@@ -69,26 +69,40 @@
 3 Shadows' Verdict
 3 Poet's Quill
 3 Vampire Interloper
-1 Crawl from the Cellar
 1 Ghoulish Procession
-1 Curse of Leeches
 1 Valki, God of Lies
 1 Zagras, Thief of Heartbeats
 1 Slaughter Specialist
+1 Curse of Leeches
+1 Crawl from the Cellar
 1 Gisa, Glorious Resurrector
 1 Spikefield Hazard
 2 Crawl from the Cellar
-2 Curse of Leeches
 2 Ghoulish Procession
-2 Slaughter Specialist
+2 Curse of Leeches
 2 Valki, God of Lies
 2 Spikefield Hazard
+2 Slaughter Specialist
 3 Spikefield Hazard
 3 Crawl from the Cellar
 3 Slaughter Specialist
-4 Crawl from the Cellar
 4 Spikefield Hazard
+4 Crawl from the Cellar
 4 Slaughter Specialist
+1 Marauding Blight-Priest
+1 Magic Missile
+1 Flunk
+1 Vampire Spawn
+2 Flunk
+2 Marauding Blight-Priest
+2 Magic Missile
+2 Vampire Spawn
+3 Marauding Blight-Priest
+3 Vampire Spawn
+3 Falkenrath Perforator
+4 Marauding Blight-Priest
+4 Vampire Spawn
+4 Falkenrath Perforator
 1 Warlock Class
 2 Warlock Class
 3 Igneous Inspiration
@@ -99,20 +113,6 @@
 2 Inscription of Ruin
 3 Agadeem's Awakening
 4 Agadeem's Awakening
-1 Flunk
-1 Magic Missile
-1 Vampire Spawn
-1 Marauding Blight-Priest
-2 Flunk
-2 Magic Missile
-2 Vampire Spawn
-2 Marauding Blight-Priest
-3 Vampire Spawn
-3 Falkenrath Perforator
-3 Marauding Blight-Priest
-4 Vampire Spawn
-4 Falkenrath Perforator
-4 Marauding Blight-Priest
 1 Curse of Shaken Faith
 1 Famished Foragers
 1 Voldaren Ambusher

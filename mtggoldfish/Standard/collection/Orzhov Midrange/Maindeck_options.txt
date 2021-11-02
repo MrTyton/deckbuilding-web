@@ -1,6 +1,6 @@
+3 Hive of the Eye Tyrant
 3 Dungeon Crawler
 3 Scourge of the Skyclaves
-3 Hive of the Eye Tyrant
 4 Dungeon Crawler
 4 Emeria's Call
 4 Scourge of the Skyclaves
@@ -23,12 +23,12 @@
 1 Firja's Retribution
 2 Firja's Retribution
 3 Firja's Retribution
-1 Snow-Covered Swamp
 1 Snow-Covered Plains
-2 Snow-Covered Swamp
+1 Snow-Covered Swamp
 2 Snow-Covered Plains
-3 Snow-Covered Swamp
+2 Snow-Covered Swamp
 3 Snow-Covered Plains
+3 Snow-Covered Swamp
 4 Snow-Covered Plains
 1 Starnheim Unleashed
 4 Snow-Covered Swamp
@@ -55,55 +55,55 @@
 10 Snow-Covered Plains
 11 Snow-Covered Plains
 10 Snow-Covered Swamp
-1 Angel of Destiny
 1 Vengeful Reaper
+1 Angel of Destiny
 1 Valkyrie Harbinger
 2 Valkyrie Harbinger
 2 Vengeful Reaper
 2 Angel of Destiny
 3 Vengeful Reaper
-1 Minimus Containment
 1 Priest of the Haunted Edge
+1 Potion of Healing
+1 Minimus Containment
 1 Draugr Necromancer
+1 Ondu Inversion
+1 Kor Celebrant
 1 Borrowed Time
 1 Doomskar
-1 Ondu Inversion
 1 Revitalize
 1 Mila, Crafty Companion
 1 Rune of Sustenance
 1 Priest of Ancient Lore
 1 Archway Commons
-1 Potion of Healing
-1 Kor Celebrant
 1 Mask of Griselbrand
 2 Priest of the Haunted Edge
+2 Potion of Healing
 2 Minimus Containment
 2 Draugr Necromancer
 2 Borrowed Time
+2 Kor Celebrant
 2 Doomskar
 2 Revitalize
-2 Kor Celebrant
 2 Mila, Crafty Companion
 2 Rune of Sustenance
 2 Priest of Ancient Lore
-2 Potion of Healing
 2 Archway Commons
 3 Priest of the Haunted Edge
+3 Angel of Destiny
 3 Minimus Containment
 3 Borrowed Time
 3 Revitalize
 3 Rune of Sustenance
 3 Priest of Ancient Lore
 3 Potion of Healing
-3 Angel of Destiny
 4 Priest of the Haunted Edge
 4 Revitalize
 4 Rune of Sustenance
 4 Priest of Ancient Lore
 4 Potion of Healing
 11 Snow-Covered Swamp
-12 Snow-Covered Plains
 12 Snow-Covered Swamp
+12 Snow-Covered Plains
 13 Snow-Covered Plains
 14 Snow-Covered Plains
 15 Snow-Covered Plains
@@ -114,15 +114,15 @@
 2 Portable Hole
 1 The Meathook Massacre
 1 Lolth, Spider Queen
-1 Eyetwitch
-1 Skullport Merchant
 1 Deadly Dispute
-2 Eyetwitch
-2 Skullport Merchant
+1 Skullport Merchant
+1 Eyetwitch
 2 Deadly Dispute
-3 Eyetwitch
+2 Skullport Merchant
+2 Eyetwitch
 3 Deadly Dispute
 3 Skullport Merchant
+3 Eyetwitch
 1 Adeline, Resplendent Cathar
 1 Brutal Cathar
 3 Reidane, God of the Worthy
@@ -183,9 +183,9 @@
 3 Liesa, Forgotten Archangel
 1 Elderfang Disciple
 2 Elderfang Disciple
-3 Elderfang Disciple
-3 Kaya the Inexorable
 3 The Meathook Massacre
+3 Kaya the Inexorable
+3 Elderfang Disciple
 4 Elderfang Disciple
 4 Skullport Merchant
 3 Graveyard Trespasser
@@ -214,8 +214,8 @@
 1 Professor of Symbology
 1 Demon's Disciple
 1 Skyclave Cleric
-2 Village Rites
 2 Professor of Symbology
+2 Village Rites
 2 Demon's Disciple
 2 Skyclave Cleric
 3 Village Rites
@@ -226,16 +226,10 @@
 3 Brutal Cathar
 4 Tainted Adversary
 4 Silverquill Silencer
-1 Can't Stay Away
 1 Enduring Angel
+1 Can't Stay Away
 4 Skyclave Apparition
 4 Starnheim Unleashed
-1 Loyal Warhound
-2 Loyal Warhound
-3 Loyal Warhound
-3 Rampage of the Valkyries
-4 Cave of the Frost Dragon
-4 Loyal Warhound
 4 Graveyard Trespasser
 4 Duress
 1 Check for Traps
@@ -253,30 +247,36 @@
 3 Cleric of Life's Bond
 4 Chaplain of Alms
 4 Cleric of Life's Bond
+1 Loyal Warhound
+2 Loyal Warhound
+3 Loyal Warhound
+3 Rampage of the Valkyries
+4 Cave of the Frost Dragon
+4 Loyal Warhound
 1 Resplendent Marshal
 2 Resplendent Marshal
 3 Malakir Rebirth
 4 Malakir Rebirth
+1 Starnheim Aspirant
 1 Essence Infusion
 1 Raise the Draugr
-1 Starnheim Aspirant
 1 Professor's Warning
 1 Paladin Class
 2 Silverquill Campus
-2 Professor's Warning
 2 Starnheim Aspirant
+2 Professor's Warning
 2 Essence Infusion
 2 Paladin Class
 2 Raise the Draugr
 3 Valkyrie Harbinger
+3 Starnheim Aspirant
 3 Paladin Class
 3 Essence Infusion
 3 Raise the Draugr
-3 Starnheim Aspirant
 3 Professor's Warning
 4 Valkyrie Harbinger
-4 Liesa, Forgotten Archangel
 4 Starnheim Aspirant
+4 Liesa, Forgotten Archangel
 4 Vengeful Reaper
 10 Plains
 3 Faceless Haven

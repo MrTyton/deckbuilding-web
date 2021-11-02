@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    2|[Arcbound Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50943)         |                    3|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)  |
-|                    1|[Sai, Master Thopterist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447205)  |                    3|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)            |
+|                    2|[Arcbound Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50943)         |                    3|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)            |
+|                    1|[Sai, Master Thopterist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447205)  |                    3|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)  |
 |                    3|[Arcbound Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50943)         |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
 |                    4|[Arcbound Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50943)         |                    4|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)  |
 |                    4|[Nettlecyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522307)              |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |

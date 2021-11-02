@@ -5,9 +5,9 @@
 1 Thoughtseize
 2 Thoughtseize
 1 Castle Ardenvale
-1 Emeria's Call
 1 Oath of Kaya
 1 Treacherous Blessing
+1 Emeria's Call
 1 Yorion, Sky Nomad
 1 Go Blank
 1 Elspeth, Sun's Nemesis
@@ -30,10 +30,10 @@
 2 Rite of Oblivion
 2 Treacherous Blessing
 3 Thoughtseize
-3 Fabled Passage
 3 Rite of Oblivion
 3 Thraben Inspector
 3 The Birth of Meletis
+3 Fabled Passage
 3 Trial of Ambition
 3 Fatal Push
 4 Thoughtseize
@@ -69,12 +69,12 @@
 2 Rally the Ancestors
 2 Stitcher's Supplier
 3 Champion of the Perished
-3 Corpse Knight
+3 Cryptbreaker
 3 Liliana, Untouched by Death
 3 Wayward Servant
 3 Dark Salvation
 3 Rally the Ancestors
-3 Cryptbreaker
+3 Corpse Knight
 3 Stitcher's Supplier
 3 Diregraf Colossus
 4 Champion of the Perished
@@ -107,8 +107,8 @@
 4 Treacherous Blessing
 3 Apostle of Purifying Light
 1 Indatha Triome
-1 Basilica Bell-Haunt
 1 Elspeth Conquers Death
+1 Basilica Bell-Haunt
 2 Heartless Act
 2 Basilica Bell-Haunt
 3 Emeria's Call
@@ -120,28 +120,11 @@
 4 The Birth of Meletis
 4 Sentinel's Eyes
 4 Basilica Bell-Haunt
+1 Adanto Vanguard
+2 Adanto Vanguard
 1 Hushbringer
 2 Hushbringer
 4 Karametra's Blessing
-1 Adanto Vanguard
-2 Adanto Vanguard
-1 Charming Prince
-2 Charming Prince
-3 Charming Prince
-1 Extinction Event
-2 Indatha Triome
-3 Go Blank
-3 Hive of the Eye Tyrant
-3 Yorion, Sky Nomad
-1 Field of Ruin
-4 Omen of the Sun
-1 Favored Hoplite
-2 Favored Hoplite
-3 Favored Hoplite
-4 Favored Hoplite
-6 Swamp
-7 Swamp
-8 Swamp
 1 Forest
 1 Temple Garden
 1 Gladecover Scout
@@ -152,17 +135,40 @@
 2 Forest
 2 Season of Growth
 2 Branchloft Pathway
+3 Selfless Savior
 3 Branchloft Pathway
 3 Gladecover Scout
-3 Forest
 3 Season of Growth
-3 Selfless Savior
 3 Temple Garden
 4 Season of Growth
 4 Temple Garden
 4 Gladecover Scout
 4 Branchloft Pathway
 5 Plains
+1 Charming Prince
+2 Charming Prince
+3 Charming Prince
+1 Extinction Event
+2 Indatha Triome
+3 Go Blank
+3 Yorion, Sky Nomad
+3 Hive of the Eye Tyrant
+1 Field of Ruin
+4 Omen of the Sun
+1 Sunpetal Grove
+2 Sunpetal Grove
+3 Sunpetal Grove
+3 Adanto Vanguard
+4 Sunpetal Grove
+4 Adanto Vanguard
+1 Favored Hoplite
+2 Favored Hoplite
+3 Favored Hoplite
+4 Favored Hoplite
+6 Swamp
+7 Swamp
+8 Swamp
+3 Forest
 6 Plains
 7 Plains
 8 Plains

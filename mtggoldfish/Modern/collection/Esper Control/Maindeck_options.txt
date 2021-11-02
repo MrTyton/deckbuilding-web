@@ -91,20 +91,20 @@
 1 Ketria Triome
 4 Thoughtseize
 1 Mishra's Bauble
-1 Faithful Mending
 1 Unearth
-1 Monastery Mentor
 1 Seachrome Coast
+1 Monastery Mentor
+1 Faithful Mending
 1 Lurrus of the Dream-Den
 1 Thought Scour
 2 Mishra's Bauble
-2 Faithful Mending
 2 Unearth
+2 Faithful Mending
 2 Monastery Mentor
 2 Thought Scour
 2 Seachrome Coast
-3 Mishra's Bauble
 3 Faithful Mending
+3 Mishra's Bauble
 3 Thought Scour
 3 Seachrome Coast
 3 Unearth
@@ -114,21 +114,6 @@
 4 Mishra's Bauble
 4 Thought Scour
 4 Seachrome Coast
-1 Snow-Covered Plains
-1 Snow-Covered Island
-1 Rest in Peace
-1 Spreading Seas
-1 Reflecting Pool
-1 Dovin's Veto
-2 Snow-Covered Island
-2 Rest in Peace
-2 Spreading Seas
-2 Mystic Gate
-3 Snow-Covered Island
-3 Spreading Seas
-3 Supreme Verdict
-4 Spreading Seas
-4 Solitude
 1 Heartless Act
 1 Faerie Seer
 1 Mana Leak
@@ -150,7 +135,6 @@
 2 Ingenious Infiltrator
 2 Choked Estuary
 2 Heartless Act
-3 Swamp
 3 Creeping Tar Pit
 3 Mana Leak
 3 Faerie Seer
@@ -159,6 +143,7 @@
 3 Changeling Outcast
 3 Slither Blade
 3 Fallen Shinobi
+3 Swamp
 4 Changeling Outcast
 4 Ninja of the Deep Hours
 4 Ingenious Infiltrator
@@ -167,3 +152,18 @@
 4 Mana Leak
 4 Watery Grave
 5 Island
+1 Snow-Covered Plains
+1 Snow-Covered Island
+1 Rest in Peace
+1 Spreading Seas
+1 Reflecting Pool
+1 Dovin's Veto
+2 Snow-Covered Island
+2 Rest in Peace
+2 Spreading Seas
+2 Mystic Gate
+3 Snow-Covered Island
+3 Spreading Seas
+3 Supreme Verdict
+4 Spreading Seas
+4 Solitude
