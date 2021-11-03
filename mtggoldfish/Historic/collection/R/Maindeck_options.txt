@@ -42,16 +42,16 @@
 1 Atarka's Command
 1 Stomping Ground
 1 Cragcrown Pathway
+2 Cragcrown Pathway
 2 Rootbound Crag
 2 Atarka's Command
 2 Stomping Ground
-2 Cragcrown Pathway
 3 Atarka's Command
-3 Stomping Ground
 3 Cragcrown Pathway
+3 Stomping Ground
+4 Cragcrown Pathway
 4 Atarka's Command
 4 Stomping Ground
-4 Cragcrown Pathway
 3 Pillar of Flame
 4 Skewer the Critics
 4 Roiling Vortex
@@ -84,22 +84,22 @@
 4 Robber of the Rich
 1 Lightning Axe
 1 Stormwing Entity
-1 Riverglide Pathway
 1 Opt
 1 Expressive Iteration
+1 Riverglide Pathway
 2 Stormwing Entity
-2 Riverglide Pathway
 2 Opt
 2 Expressive Iteration
+2 Riverglide Pathway
 3 Stormwing Entity
-3 Opt
 3 Riverglide Pathway
 3 Spirebluff Canal
+3 Opt
 3 Expressive Iteration
 4 Stormwing Entity
-4 Opt
 4 Riverglide Pathway
 4 Spirebluff Canal
+4 Opt
 4 Expressive Iteration
 1 Play with Fire
 2 Play with Fire
@@ -185,8 +185,8 @@
 1 Rampaging Ferocidon
 1 Grim Lavamancer
 2 Grim Lavamancer
-2 Stonecoil Serpent
 2 Spikefield Hazard
+2 Stonecoil Serpent
 1 Forgotten Cave
 2 Forgotten Cave
 1 Bloodbraid Marauder

@@ -9,7 +9,6 @@
 1 Blanchwood Armor
 1 Thundering Ceratok
 2 Thrashing Brontodon
-2 Gigantosaurus
 2 Sudden Spinnerets
 2 Centaur Courser
 2 Druid of the Cowl
@@ -17,6 +16,7 @@
 2 Forced Landing
 2 Colossal Majesty
 2 Sentinel Spider
+2 Gigantosaurus
 2 Blanchwood Armor
 2 Kogla, the Titan Ape
 3 Sudden Spinnerets
@@ -53,8 +53,8 @@
 46 Forest
 47 Forest
 48 Forest
-1 Lair of the Hydra
 1 Old-Growth Troll
+1 Lair of the Hydra
 2 Old-Growth Troll
 2 Lair of the Hydra
 3 Old-Growth Troll
@@ -67,8 +67,8 @@
 1 Scavenging Ooze
 2 Scavenging Ooze
 1 Rootbound Crag
-1 Hashep Oasis
 1 Snakeskin Veil
+1 Hashep Oasis
 1 Rhonas the Indomitable
 1 Cragcrown Pathway
 1 Gilded Goose
@@ -76,9 +76,9 @@
 1 Gruul Spellbreaker
 1 Stomping Ground
 1 Klothys, God of Destiny
+2 Hashep Oasis
 2 Rootbound Crag
 2 Stomping Ground
-2 Hashep Oasis
 2 Snakeskin Veil
 2 Rhonas the Indomitable
 2 Gruul Spellbreaker
@@ -98,11 +98,11 @@
 4 Stomping Ground
 4 Rootbound Crag
 4 Cragcrown Pathway
-1 The Great Henge
 1 Werewolf Pack Leader
 1 Lovestruck Beast
-2 Werewolf Pack Leader
+1 The Great Henge
 2 Primal Might
+2 Werewolf Pack Leader
 2 Lovestruck Beast
 3 Werewolf Pack Leader
 3 Lovestruck Beast
@@ -130,22 +130,22 @@
 3 Gilded Goose
 4 Gilded Goose
 1 Blizzard Brawl
-1 Garruk's Harbinger
 1 Snow-Covered Forest
+1 Garruk's Harbinger
 2 Blizzard Brawl
+2 Snow-Covered Forest
 2 Garruk's Harbinger
 2 Pelt Collector
-2 Snow-Covered Forest
+3 Primal Might
 3 Blizzard Brawl
+3 Snow-Covered Forest
 3 Scavenging Ooze
 3 Garruk's Harbinger
-3 Primal Might
-3 Snow-Covered Forest
 3 Yorvo, Lord of Garenbrig
 4 Garruk's Harbinger
+4 Snow-Covered Forest
 4 Werewolf Pack Leader
 4 Primal Might
-4 Snow-Covered Forest
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest
