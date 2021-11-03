@@ -4,9 +4,9 @@
 3 Dispatch
 1 Grafdigger's Cage
 1 Tormod's Crypt
-1 Damping Sphere
 1 Metallic Rebuke
 2 Metallic Rebuke
+1 Damping Sphere
 1 Ghirapur Aether Grid
 2 Damping Sphere
 3 Metallic Rebuke
@@ -22,7 +22,6 @@
 1 Ethersworn Canonist
 1 Galvanic Blast
 2 Galvanic Blast
-2 Tormod's Crypt
 1 Void Mirror
 1 Chalice of the Void
 2 Chalice of the Void
@@ -32,16 +31,16 @@
 1 Torpor Orb
 1 Sword of Feast and Famine
 1 Ratchet Bomb
-1 Welding Jar
+1 Hurkyl's Recall
+1 Whipflare
+1 Alpine Moon
+3 Galvanic Blast
 1 Portable Hole
 2 Portable Hole
-3 Galvanic Blast
-1 Alpine Moon
+2 Tormod's Crypt
 3 Etched Champion
-1 Hurkyl's Recall
 2 Pithing Needle
 1 Drannith Magistrate
-1 Whipflare
 1 Shadowspear
 1 Sorcerous Spyglass
 1 Lightning Greaves
@@ -51,7 +50,6 @@
 2 Flusterstorm
 1 Vault Skirge
 2 Vault Skirge
-2 Welding Jar
 1 Mystic Forge
 2 Mystic Forge
 1 Lurrus of the Dream-Den
@@ -76,6 +74,7 @@
 2 Lavinia, Azorius Renegade
 3 Lavinia, Azorius Renegade
 4 Dispatch
+1 Welding Jar
 4 Etched Champion
 1 Test of Talents
 1 Back to Nature
@@ -90,3 +89,5 @@
 3 Swift Justice
 3 Boom/Bust
 4 Boom/Bust
+2 Whipflare
+4 Galvanic Blast

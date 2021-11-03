@@ -55,8 +55,8 @@
 |                    3|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)          |                    2|[Binding the Old Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503822)      |
 |                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)      |                    2|[Go Blank](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513549)                  |
 |                     |                                                                                               |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                    |
-|                     |                                                                                               |                    1|[Barrier Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479665)            |
 |                     |                                                                                               |                    1|[Cling to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476338)             |
+|                     |                                                                                               |                    1|[Barrier Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479665)            |
 |                     |                                                                                               |                    2|[Barrier Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479665)            |
 |                     |                                                                                               |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)                |
 
