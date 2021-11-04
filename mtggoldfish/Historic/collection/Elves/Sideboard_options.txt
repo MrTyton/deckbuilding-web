@@ -5,10 +5,10 @@
 2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
-1 Fatal Push
 1 Skyclave Shade
-2 Fatal Push
+1 Fatal Push
 2 Skyclave Shade
+2 Fatal Push
 3 Skyclave Shade
 4 Skyclave Shade
 3 Scavenging Ooze
@@ -27,8 +27,8 @@
 2 Vivien Reid
 3 Shifting Ceratops
 1 Thoughtseize
-2 Thoughtseize
 2 Crippling Fear
+2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
 1 Heaven/Earth
@@ -66,8 +66,6 @@
 3 Heaven/Earth
 2 Plummet
 4 Scavenging Ooze
-3 Primal Might
-4 Primal Might
 1 Gigantosaurus
 1 Craterhoof Behemoth
 1 Fierce Empath
@@ -75,9 +73,11 @@
 2 Gigantosaurus
 4 Reclamation Sage
 4 Relic of Progenitus
-1 Aether Gust
+3 Primal Might
+4 Primal Might
 1 Swan Song
 1 Sleep
+1 Aether Gust
 2 Aether Gust
 2 Swan Song
 2 Sleep
