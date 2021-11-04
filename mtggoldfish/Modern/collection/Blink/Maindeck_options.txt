@@ -21,13 +21,13 @@
 1 Mystic Gate
 2 Hallowed Fountain
 1 Castle Vantress
-1 Celestial Colonnade
 1 Teferi, Hero of Dominaria
+1 Celestial Colonnade
 1 Archmage's Charm
 2 Island
 2 Archmage's Charm
-3 Island
 3 Archmage's Charm
+3 Island
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Utopia Sprawl
@@ -36,9 +36,9 @@
 1 Hall of Storm Giants
 2 Omen of the Sea
 3 Omen of the Sea
-4 Island
 4 Wall of Omens
 4 Archmage's Charm
+4 Island
 1 Endurance
 2 Dovin's Veto
 4 Ephemerate
@@ -56,9 +56,9 @@
 2 Charming Prince
 3 Plains
 1 Sword of Fire and Ice
-1 Stoneforge Mystic
 1 Batterskull
 1 Kaldra Compleat
+1 Stoneforge Mystic
 2 Stoneforge Mystic
 2 Skyclave Apparition
 3 Stoneforge Mystic
@@ -104,22 +104,22 @@
 3 Abundant Harvest
 1 Glacial Fortress
 1 Sulfur Falls
-2 Raugrin Triome
 2 Snapcaster Mage
 2 Steam Vents
+2 Raugrin Triome
 2 Unholy Heat
 3 Snapcaster Mage
 3 Unholy Heat
-4 Snapcaster Mage
 4 Scalding Tarn
+4 Snapcaster Mage
 4 Unholy Heat
 1 Supreme Verdict
 2 Lightning Helix
 4 Ice-Fang Coatl
 3 Wooded Foothills
-2 Glacial Fortress
-2 Supreme Verdict
 2 Teferi, Hero of Dominaria
+2 Supreme Verdict
+2 Glacial Fortress
 2 Castle Vantress
 3 Supreme Verdict
 2 Sulfur Falls
@@ -135,8 +135,8 @@
 3 Memory Deluge
 4 Memory Deluge
 5 Island
-1 Cryptic Command
 1 Polluted Delta
+1 Cryptic Command
 2 Mystic Gate
 3 Glacial Fortress
 1 Aether Vial
@@ -161,9 +161,9 @@
 1 Emrakul, the Promised End
 3 Flusterstorm
 3 Dovin's Veto
-1 Valki, God of Lies
 1 Zagoth Triome
 1 Unmoored Ego
+1 Valki, God of Lies
 1 Bring to Light
 2 Bring to Light
 3 Bring to Light
@@ -172,57 +172,57 @@
 4 Mystic Gate
 4 Supreme Verdict
 4 Castle Vantress
+1 Bonecrusher Giant
+1 Song of Creation
+1 Manamorphose
+1 Birgi, God of Storytelling
+1 Conflagrate
+1 Mox Amber
+1 Gut Shot
+2 Manamorphose
+2 Birgi, God of Storytelling
+2 Song of Creation
+2 Mox Amber
+3 Birgi, God of Storytelling
+3 Song of Creation
+3 Mox Amber
+4 Song of Creation
+4 Mox Amber
+4 Wooded Foothills
 1 Shatterskull Smashing
 1 Esper Sentinel
 1 Sanctum Prelate
+1 Ghost Quarter
 1 Showdown of the Skalds
 1 Rustvale Bridge
-1 Cleansing Wildfire
 1 Marsh Flats
+1 Cleansing Wildfire
 1 Flagstones of Trokair
 1 Sanctifier en-Vec
 1 Magus of the Moon
 1 Brought Back
-1 Ghost Quarter
 2 Esper Sentinel
 2 Marsh Flats
+2 Cleansing Wildfire
 2 Flagstones of Trokair
 2 Showdown of the Skalds
-2 Cleansing Wildfire
 2 Brought Back
 2 Sacred Foundry
 2 Ghost Quarter
-3 Esper Sentinel
 3 Sacred Foundry
+3 Esper Sentinel
 3 Flagstones of Trokair
 3 Cleansing Wildfire
 3 Showdown of the Skalds
 3 Brought Back
 3 Ghost Quarter
-4 Sacred Foundry
 4 Esper Sentinel
+4 Sacred Foundry
 4 Flagstones of Trokair
 4 Cleansing Wildfire
 4 Showdown of the Skalds
 4 Ghost Quarter
 4 Brought Back
-1 Mox Amber
-1 Conflagrate
-1 Manamorphose
-1 Gut Shot
-1 Birgi, God of Storytelling
-1 Bonecrusher Giant
-1 Song of Creation
-2 Mox Amber
-2 Song of Creation
-2 Birgi, God of Storytelling
-2 Manamorphose
-3 Mox Amber
-3 Birgi, God of Storytelling
-3 Song of Creation
-4 Mox Amber
-4 Wooded Foothills
-4 Song of Creation
 3 Hallowed Fountain
 3 Chalice of the Void
 4 Glacial Fortress
@@ -230,10 +230,10 @@
 1 Mishra's Factory
 1 Ambitious Farmhand
 1 Brutal Cathar
-1 Sword of Hearth and Home
 1 Cave of the Frost Dragon
 1 Flickerwisp
 1 Giver of Runes
+1 Sword of Hearth and Home
 2 Ambitious Farmhand
 2 Mishra's Factory
 2 Cave of the Frost Dragon

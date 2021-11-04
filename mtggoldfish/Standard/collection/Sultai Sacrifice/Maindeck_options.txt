@@ -1,13 +1,17 @@
+3 Infernal Grasp
 1 Nighthawk Scavenger
 2 Nighthawk Scavenger
-4 Skullport Merchant
 1 Sedgemoor Witch
 2 Sedgemoor Witch
 1 Snow-Covered Island
 16 Snow-Covered Swamp
-3 Sedgemoor Witch
-1 Negate
 1 Snow-Covered Mountain
+1 Negate
+3 Sedgemoor Witch
+1 Bloodchief's Thirst
+1 Disdainful Stroke
+2 Bloodchief's Thirst
+2 Disdainful Stroke
 2 Soul Shatter
 1 Duress
 2 Duress
@@ -15,10 +19,6 @@
 2 Skyclave Shade
 3 Skyclave Shade
 3 Hive of the Eye Tyrant
-1 Disdainful Stroke
-1 Bloodchief's Thirst
-2 Bloodchief's Thirst
-2 Disdainful Stroke
 1 Graveyard Trespasser
 2 Graveyard Trespasser
 1 Clearwater Pathway
@@ -29,10 +29,10 @@
 1 Ebondeath, Dracolich
 2 Hagra Mauling
 2 Ebondeath, Dracolich
-3 Nighthawk Scavenger
 1 Ice Tunnel
 2 Ice Tunnel
 3 Ice Tunnel
+3 Nighthawk Scavenger
 1 Forsworn Paladin
 1 Jadar, Ghoulcaller of Nephalia
 1 Eaten Alive
@@ -45,22 +45,6 @@
 4 Sedgemoor Witch
 3 Duress
 4 Duress
-1 Village Rites
-1 Narfi, Betrayer King
-2 Snow-Covered Island
-2 Village Rites
-2 Narfi, Betrayer King
-2 Clearwater Pathway
-3 Narfi, Betrayer King
-3 Snow-Covered Island
-3 Bloodchief's Thirst
-3 Disdainful Stroke
-3 Negate
-3 Clearwater Pathway
-4 Bloodchief's Thirst
-4 Snow-Covered Island
-4 Clearwater Pathway
-5 Snow-Covered Island
 1 Woodland Chasm
 1 Snow-Covered Forest
 1 Binding the Old Gods
@@ -80,8 +64,28 @@
 3 Wrenn and Seven
 3 Prosperous Innkeeper
 3 Esika's Chariot
-4 Woodland Chasm
 4 Snow-Covered Forest
+4 Woodland Chasm
+4 Esika's Chariot
 4 Prosperous Innkeeper
 5 Snow-Covered Forest
-4 Esika's Chariot
+1 Village Rites
+1 Narfi, Betrayer King
+2 Snow-Covered Island
+2 Village Rites
+2 Narfi, Betrayer King
+2 Clearwater Pathway
+3 Snow-Covered Island
+3 Bloodchief's Thirst
+3 Disdainful Stroke
+3 Negate
+3 Clearwater Pathway
+3 Narfi, Betrayer King
+4 Snow-Covered Island
+4 Bloodchief's Thirst
+4 Clearwater Pathway
+5 Snow-Covered Island
+1 Shipwreck Marsh
+2 Shipwreck Marsh
+3 Shipwreck Marsh
+4 Shipwreck Marsh

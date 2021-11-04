@@ -44,8 +44,8 @@
 2 Soul-Guide Lantern
 3 Negate
 4 Negate
-1 Doomskar
 1 Drannith Magistrate
+1 Doomskar
 1 Banishing Light
 2 Doomskar
 3 Doomskar
@@ -57,23 +57,23 @@
 1 Treasure Vault
 1 Necromentia
 1 Storm's Wrath
-1 The Immortal Sun
-1 Inspired Ultimatum
-1 Gaea's Blessing
-1 Ashiok's Erasure
-1 Alrund's Epiphany
-1 Thousand-Year Storm
-1 Fall of the Thran
-1 Sea Gate Restoration
-1 Overwhelming Splendor
-1 Jace, Wielder of Mysteries
-2 Inspired Ultimatum
 1 Bloodchief's Thirst
 1 Inquisition of Kozilek
 1 Return to Nature
 1 Chandra, Awakened Inferno
 2 Bloodchief's Thirst
 2 Return to Nature
+1 The Immortal Sun
+1 Alrund's Epiphany
+1 Inspired Ultimatum
+1 Gaea's Blessing
+1 Sea Gate Restoration
+1 Ashiok's Erasure
+1 Thousand-Year Storm
+1 Fall of the Thran
+1 Overwhelming Splendor
+1 Jace, Wielder of Mysteries
+2 Inspired Ultimatum
 1 God-Pharaoh's Gift
 1 Gleaming Barrier
 2 Gleaming Barrier
@@ -103,9 +103,6 @@
 3 Leyline of Sanctity
 3 Rest in Peace
 3 Wrath of God
-1 Baneslayer Angel
-2 Knight of Autumn
-4 Destiny Spinner
 1 Massacre Girl
 1 Commence the Endgame
 1 Shark Typhoon
@@ -117,5 +114,8 @@
 2 Massacre Girl
 3 Golos, Tireless Pilgrim
 3 Chandra, Torch of Defiance
-4 Chandra, Torch of Defiance
 3 Massacre Girl
+4 Chandra, Torch of Defiance
+1 Baneslayer Angel
+2 Knight of Autumn
+4 Destiny Spinner

@@ -21,19 +21,19 @@
 2 Primal Might
 8 Forest
 1 Woodland Cemetery
-1 Overgrown Tomb
 1 Blooming Marsh
+1 Overgrown Tomb
 1 Darkbore Pathway
-2 Overgrown Tomb
 2 Blooming Marsh
-3 Overgrown Tomb
+2 Overgrown Tomb
 3 Blooming Marsh
+3 Overgrown Tomb
 4 Overgrown Tomb
 1 Rotting Regisaur
-2 Darkbore Pathway
 2 Rotting Regisaur
-3 Darkbore Pathway
+2 Darkbore Pathway
 3 Rotting Regisaur
+3 Darkbore Pathway
 4 Darkbore Pathway
 4 Rotting Regisaur
 2 Woodland Cemetery
@@ -41,21 +41,21 @@
 2 Kazandu Mammoth
 9 Forest
 1 Botanical Sanctum
-1 Hinterland Harbor
+1 Barkchannel Pathway
 1 Breeding Pool
 1 Decisive Denial
-1 Barkchannel Pathway
+1 Hinterland Harbor
 2 Botanical Sanctum
 2 Breeding Pool
-2 Decisive Denial
 2 Barkchannel Pathway
+2 Decisive Denial
+3 Decisive Denial
+3 Botanical Sanctum
 3 Breeding Pool
 3 Barkchannel Pathway
-3 Botanical Sanctum
-3 Decisive Denial
-4 Barkchannel Pathway
 4 Botanical Sanctum
 4 Breeding Pool
+4 Barkchannel Pathway
 4 Decisive Denial
 1 Asylum Visitor
 2 Asylum Visitor
@@ -78,8 +78,8 @@
 4 Kazandu Mammoth
 1 Yorvo, Lord of Garenbrig
 2 Snakeskin Veil
-1 Stonecoil Serpent
 1 Gemrazer
+1 Stonecoil Serpent
 2 Stonecoil Serpent
 3 Stonecoil Serpent
 4 Faceless Haven
@@ -90,7 +90,6 @@
 2 Castle Garenbrig
 1 Unnatural Growth
 3 The Great Henge
-3 Questing Beast
 1 Scrapheap Scrounger
 1 Kraul Harpooner
 1 Bloodchief's Thirst
@@ -112,3 +111,4 @@
 13 Forest
 14 Forest
 15 Forest
+3 Questing Beast
