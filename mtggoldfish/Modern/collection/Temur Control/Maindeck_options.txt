@@ -33,10 +33,10 @@
 1 Unholy Heat
 1 Island
 1 Aether Spellbomb
-1 Forest
-1 Urza's Saga
 1 Pyrite Spellbomb
 1 Relic of Progenitus
+1 Urza's Saga
+1 Forest
 1 Expressive Iteration
 1 Mountain
 1 Fiery Islet
@@ -46,12 +46,12 @@
 2 Expressive Iteration
 3 Counterspell
 3 Island
-3 Unholy Heat
 3 Urza's Saga
+3 Unholy Heat
 3 Expressive Iteration
 4 Counterspell
-4 Unholy Heat
 4 Urza's Saga
+4 Unholy Heat
 4 Expressive Iteration
 2 Steam Vents
 1 Flooded Grove
@@ -92,22 +92,22 @@
 4 Bloodbraid Elf
 4 Tarmogoyf
 1 Valakut, the Molten Pinnacle
-1 Repeal
-1 Fire/Ice
 1 Scapeshift
+1 Fire/Ice
 1 Memory Deluge
+1 Repeal
 1 Cinder Glade
 1 Sakura-Tribe Elder
 2 Ketria Triome
 2 Valakut, the Molten Pinnacle
-2 Fire/Ice
-2 Scapeshift
-2 Memory Deluge
 2 Stomping Ground
+2 Scapeshift
+2 Fire/Ice
+2 Memory Deluge
 2 Sakura-Tribe Elder
 3 Steam Vents
-3 Fire/Ice
 3 Scapeshift
+3 Fire/Ice
 3 Ketria Triome
 3 Sakura-Tribe Elder
 4 Steam Vents
@@ -127,15 +127,15 @@
 2 Utopia Sprawl
 2 Arbor Elf
 2 Tamiyo, Collector of Tales
-3 Wooded Foothills
 3 Prismatic Vista
-3 Snow-Covered Forest
 3 Time Warp
+3 Snow-Covered Forest
 3 Arbor Elf
 3 Tamiyo, Collector of Tales
+3 Wooded Foothills
 3 Utopia Sprawl
 4 Utopia Sprawl
+4 Remand
 4 Prismatic Vista
 4 Time Warp
-4 Remand
 4 Arbor Elf

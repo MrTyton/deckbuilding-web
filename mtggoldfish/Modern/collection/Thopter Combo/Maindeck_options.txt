@@ -1,5 +1,5 @@
-2 Sword of the Meek
 3 Thraben Inspector
+2 Sword of the Meek
 1 Ensnaring Bridge
 1 Chromatic Star
 4 Thopter Foundry
@@ -7,6 +7,7 @@
 2 Whir of Invention
 3 Island
 3 Prismatic Ending
+1 Batterskull
 3 Whir of Invention
 1 Raugrin Triome
 2 Chromatic Star
@@ -20,7 +21,6 @@
 1 Polluted Delta
 1 Silverbluff Bridge
 1 Witching Well
-1 Batterskull
 3 Chromatic Star
 1 Nihil Spellbomb
 2 Talisman of Progress
@@ -79,6 +79,7 @@
 2 Fatal Push
 3 Fatal Push
 1 Gingerbrute
+3 Teferi, Time Raveler
 1 Arid Mesa
 1 Sunset Revelry
 4 Thought Monitor
@@ -111,8 +112,8 @@
 2 Profane Tutor
 3 Profane Tutor
 4 Profane Tutor
-1 Snow-Covered Mountain
 1 Ichor Wellspring
+1 Snow-Covered Mountain
 1 Sai, Master Thopterist
 2 Sai, Master Thopterist
 4 Mox Amber
@@ -120,13 +121,6 @@
 1 Mystic Gate
 2 Prismatic Vista
 4 Talisman of Progress
-1 Pentad Prism
-1 Ghirapur Aether Grid
-1 Mountain
-2 Pentad Prism
-3 Pentad Prism
-3 Witching Well
-4 Witching Well
 1 Misty Rainforest
 1 Snow-Covered Swamp
 1 Karn, Scion of Urza
@@ -147,3 +141,10 @@
 6 Snow-Covered Island
 7 Snow-Covered Island
 8 Snow-Covered Island
+1 Pentad Prism
+1 Ghirapur Aether Grid
+1 Mountain
+2 Pentad Prism
+3 Pentad Prism
+3 Witching Well
+4 Witching Well

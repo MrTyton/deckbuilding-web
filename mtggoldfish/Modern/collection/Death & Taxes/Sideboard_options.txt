@@ -5,20 +5,20 @@
 1 Embereth Shieldbreaker
 1 Leonin Relic-Warder
 1 Mila, Crafty Companion
-1 Vandalblast
 1 Cleansing Nova
+1 Vandalblast
 2 Vandalblast
 2 Relic of Progenitus
 2 Cleansing Nova
 3 Relic of Progenitus
 4 Rest in Peace
-1 Sanctum Prelate
-1 Aven Mindcensor
 1 Kor Firewalker
 2 Kor Firewalker
+1 Sanctum Prelate
+1 Aven Mindcensor
+3 Kor Firewalker
 4 Burrenton Forge-Tender
 2 Aven Mindcensor
-3 Kor Firewalker
 1 Phyrexian Revoker
 4 Kor Firewalker
 2 Phyrexian Revoker
@@ -27,6 +27,10 @@
 3 Faerie Macabre
 4 Faerie Macabre
 4 Sanctifier en-Vec
+1 Surgical Extraction
+2 Surgical Extraction
+1 Stony Silence
+2 Stony Silence
 1 Auriok Champion
 1 Collector Ouphe
 1 Gaddock Teeg
@@ -44,17 +48,15 @@
 1 Scavenging Ooze
 1 Outland Liberator
 2 Outland Liberator
-1 Surgical Extraction
-2 Surgical Extraction
 2 Embereth Shieldbreaker
 1 Sword of Fire and Ice
 1 Grafdigger's Cage
-1 Stony Silence
 1 Mirran Crusader
 1 Solitude
 2 Mirran Crusader
 2 Grafdigger's Cage
-2 Stony Silence
+1 Chalice of the Void
+2 Chalice of the Void
 1 Sword of Feast and Famine
 1 Damping Sphere
 1 Kambal, Consul of Allocation
@@ -66,8 +68,8 @@
 2 Auriok Champion
 2 Declaration in Stone
 3 Kataki, War's Wage
-1 Manriki-Gusari
 1 Archon of Emeria
+1 Manriki-Gusari
 1 Devout Lightcaster
 1 Avalanche Riders
 1 Prismatic Ending

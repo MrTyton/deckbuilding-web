@@ -1,4 +1,4 @@
-1 Thoughtcast
+4 Galvanic Blast
 2 Thoughtcast
 1 Glimmervoid
 3 Thoughtcast
@@ -8,33 +8,35 @@
 1 Mishra's Bauble
 2 Mishra's Bauble
 2 Razortide Bridge
-3 Razortide Bridge
-4 Razortide Bridge
+2 Nettlecyst
+1 Plains
 3 Mishra's Bauble
 4 Mishra's Bauble
-1 Plains
 2 Plains
 1 Kaldra Compleat
 1 Portable Hole
 1 Esper Sentinel
-1 Ingenious Smith
 1 Stoneforge Mystic
 2 Portable Hole
-2 Ingenious Smith
 2 Esper Sentinel
 2 Stoneforge Mystic
-3 Ingenious Smith
 3 Portable Hole
 3 Esper Sentinel
 3 Stoneforge Mystic
-4 Ingenious Smith
 4 Portable Hole
 4 Esper Sentinel
 4 Stoneforge Mystic
+3 Razortide Bridge
+4 Razortide Bridge
+1 Ingenious Smith
+2 Ingenious Smith
+3 Ingenious Smith
+4 Ingenious Smith
 1 Metallic Rebuke
 2 Metallic Rebuke
-2 Nettlecyst
+1 Aether Spellbomb
 2 Glimmervoid
+1 Relic of Progenitus
 1 Seachrome Coast
 1 Hallowed Fountain
 2 Seachrome Coast
@@ -51,50 +53,84 @@
 3 Spire of Industry
 1 Soul-Guide Lantern
 3 Glimmervoid
-4 Thoughtcast
-1 Relic of Progenitus
-1 Urza, Lord High Artificer
-2 Urza, Lord High Artificer
-1 Aether Spellbomb
 1 Inkmoth Nexus
 3 Plains
-3 Urza, Lord High Artificer
-4 Urza, Lord High Artificer
-3 Hallowed Fountain
+4 Thoughtcast
+1 Eiganjo Castle
+1 Crucible of Worlds
+1 Lightning Greaves
+1 Oswald Fiddlebender
+1 Ichor Wellspring
+2 Oswald Fiddlebender
+3 Oswald Fiddlebender
+4 Plains
+4 Oswald Fiddlebender
+3 Welding Jar
+1 Dispatch
+2 Dispatch
+3 Nettlecyst
 1 Mistvault Bridge
 2 Inkmoth Nexus
 2 Mistvault Bridge
 3 Mistvault Bridge
 3 Inkmoth Nexus
-1 Vault Skirge
-2 Vault Skirge
-3 Vault Skirge
-4 Vault Skirge
 1 Karn, Scion of Urza
-1 Dispatch
-2 Dispatch
-3 Nettlecyst
-3 Welding Jar
-1 Eiganjo Castle
-1 Crucible of Worlds
-1 Lightning Greaves
+1 Urza, Lord High Artificer
+2 Urza, Lord High Artificer
 1 Thorn of Amethyst
-1 Ichor Wellspring
 1 Cave of the Frost Dragon
-1 Oswald Fiddlebender
 1 Chromatic Star
-2 Oswald Fiddlebender
-3 Oswald Fiddlebender
-4 Plains
-4 Oswald Fiddlebender
 3 Myr Enforcer
-2 Island
 2 Relic of Progenitus
-4 Glimmervoid
+2 Island
+5 Plains
+1 Giver of Runes
+1 Solitude
+1 Field of Ruin
+1 Phyrexian Revoker
+1 Archon of Emeria
+1 Flickerwisp
+1 Aether Vial
+1 Emeria's Call
+1 Thalia, Guardian of Thraben
+1 Tectonic Edge
+2 Giver of Runes
+2 Emeria's Call
+2 Solitude
+2 Field of Ruin
+2 Archon of Emeria
+2 Tectonic Edge
+2 Flickerwisp
+2 Aether Vial
+2 Thalia, Guardian of Thraben
+3 Giver of Runes
+3 Solitude
+3 Field of Ruin
+3 Emeria's Call
+3 Archon of Emeria
+3 Aether Vial
+3 Tectonic Edge
+3 Thalia, Guardian of Thraben
+3 Flickerwisp
+4 Giver of Runes
+4 Emeria's Call
+4 Solitude
+4 Field of Ruin
+4 Aether Vial
+4 Tectonic Edge
+4 Archon of Emeria
+4 Flickerwisp
+4 Thalia, Guardian of Thraben
+6 Plains
+7 Plains
+8 Plains
+9 Plains
+10 Plains
+11 Plains
+12 Plains
+13 Plains
 1 Glint-Nest Crane
-1 Sunbeam Spellbomb
-1 Steel Overseer
-2 Steel Overseer
+1 Ethersworn Canonist
 1 Spell Pierce
 2 Karn, Scion of Urza
 1 Snow-Covered Island
@@ -118,16 +154,17 @@
 1 Ethersworn Sphinx
 2 Tormod's Crypt
 2 Ethersworn Sphinx
+3 Relic of Progenitus
 3 Island
 3 Tormod's Crypt
-3 Relic of Progenitus
 4 Relic of Progenitus
 4 Tormod's Crypt
 4 Myr Enforcer
+3 Hallowed Fountain
 4 Hallowed Fountain
 1 Blinkmoth Nexus
-1 Emry, Lurker of the Loch
 1 Hope of Ghirapur
+1 Emry, Lurker of the Loch
 1 Arcbound Ravager
 2 Blinkmoth Nexus
 2 Emry, Lurker of the Loch
@@ -135,8 +172,14 @@
 3 Arcbound Ravager
 3 Emry, Lurker of the Loch
 4 Arcbound Ravager
+4 Glimmervoid
 4 Emry, Lurker of the Loch
-1 Ethersworn Canonist
-5 Plains
 1 Witching Well
 4 Nettlecyst
+1 Sunbeam Spellbomb
+3 Urza, Lord High Artificer
+4 Urza, Lord High Artificer
+1 Vault Skirge
+2 Vault Skirge
+3 Vault Skirge
+4 Vault Skirge
