@@ -217,8 +217,8 @@
 1 Koma, Cosmos Serpent
 1 Lotus Cobra
 1 The Great Henge
-1 Darkbore Pathway
 1 Castle Locthwain
+1 Darkbore Pathway
 1 Gemrazer
 1 Vineglimmer Snarl
 1 Season of Growth
@@ -249,6 +249,7 @@
 2 Darkbore Pathway
 2 Season of Growth
 2 Fabled Passage
+2 Gemrazer
 2 Gilded Goose
 2 Paradise Druid
 2 Boneyard Lurker
@@ -258,7 +259,6 @@
 2 Migratory Greathorn
 2 Pouncing Shoreshark
 2 Insatiable Hemophage
-2 Gemrazer
 2 Swamp
 3 Lotus Cobra
 3 Gilded Goose
@@ -420,9 +420,9 @@
 1 Cryptic Caves
 2 Inventors' Fair
 2 Karn's Bastion
-3 Mazemind Tome
 3 Karn's Bastion
 3 Ulamog, the Ceaseless Hunger
+3 Mazemind Tome
 3 Mystic Forge
 4 Ulamog, the Ceaseless Hunger
 4 Mazemind Tome

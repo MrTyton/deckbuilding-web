@@ -1,38 +1,34 @@
+3 Mountain
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
 4 Manamorphose
-3 Scalding Tarn
 4 Mountain
 1 Stormwing Entity
 2 Stormwing Entity
 3 Stormwing Entity
 1 Mutagenic Growth
 2 Mutagenic Growth
+3 Steam Vents
 1 Wooded Foothills
+2 Sunbaked Canyon
 1 Sprite Dragon
 2 Sprite Dragon
-3 Steam Vents
-2 Sunbaked Canyon
+2 Bloodstained Mire
+1 Bedlam Reveler
+2 Wooded Foothills
+3 Bloodstained Mire
+3 Sunbaked Canyon
 1 Unholy Heat
 2 Unholy Heat
-2 Bloodstained Mire
-3 Sunbaked Canyon
-2 Wooded Foothills
-1 Bedlam Reveler
-3 Bloodstained Mire
 5 Mountain
-4 Stormwing Entity
 4 Steam Vents
 4 Bloodstained Mire
-1 Vapor Snag
-3 Mutagenic Growth
-4 Inspiring Vantage
-4 Arid Mesa
-6 Mountain
 1 Firebolt
 2 Firebolt
 3 Firebolt
+6 Mountain
+4 Arid Mesa
 1 Bonecrusher Giant
 1 Den of the Bugbear
 1 Abbot of Keral Keep
@@ -52,49 +48,53 @@
 10 Mountain
 11 Mountain
 12 Mountain
+4 Stormwing Entity
+1 Vapor Snag
+3 Mutagenic Growth
 1 Consider
-2 Consider
-3 Consider
 1 Sulfur Falls
 1 Island
 2 Island
+2 Consider
 2 Sulfur Falls
+2 Bedlam Reveler
+3 Consider
 3 Sulfur Falls
-3 Sprite Dragon
 3 Island
+3 Sprite Dragon
+4 Consider
 4 Sulfur Falls
+1 Reckless Charge
+2 Reckless Charge
+4 Mutagenic Growth
+4 Inspiring Vantage
+1 Pyrite Spellbomb
+2 Pyrite Spellbomb
+3 Pyrite Spellbomb
+4 Pyrite Spellbomb
+1 Shadowspear
+1 Assault Strobe
+3 Reckless Charge
+1 Wild Slash
+2 Wild Slash
+1 Serum Visions
+1 Stormchaser Mage
+2 Stormchaser Mage
+2 Serum Visions
+3 Stormchaser Mage
+1 Seal of Fire
+2 Seal of Fire
+3 Seal of Fire
+4 Seal of Fire
 1 Gut Shot
 1 Spirebluff Canal
 2 Spirebluff Canal
 3 Fiery Islet
 3 Spirebluff Canal
 4 Spirebluff Canal
-2 Bedlam Reveler
-4 Consider
-1 Serum Visions
-1 Stormchaser Mage
-2 Stormchaser Mage
-2 Serum Visions
-3 Stormchaser Mage
-1 Crash Through
-1 Clever Lumimancer
-2 Crash Through
-2 Clever Lumimancer
-3 Clever Lumimancer
-3 Crash Through
-4 Clever Lumimancer
-1 Seal of Fire
-2 Seal of Fire
-3 Seal of Fire
-4 Seal of Fire
-1 Reckless Charge
-2 Reckless Charge
-4 Mutagenic Growth
 4 Sunbaked Canyon
-4 Island
-5 Island
-1 Shadowspear
-1 Boros Charm
+1 Strike It Rich
+2 Strike It Rich
 2 Gut Shot
 1 Blood Crypt
 1 Underworld Breach
@@ -103,13 +103,8 @@
 1 Brazen Borrower
 2 Tarfire
 2 Brazen Borrower
-1 Wild Slash
-2 Wild Slash
 3 Path to Exile
-1 Strike It Rich
-1 Assault Strobe
-2 Strike It Rich
-3 Reckless Charge
+4 Scalding Tarn
 1 Valakut Awakening
 1 Blood Moon
 1 Seasoned Pyromancer
@@ -130,19 +125,14 @@
 2 Relic of Progenitus
 3 Relic of Progenitus
 4 Relic of Progenitus
-1 Pyrite Spellbomb
-2 Pyrite Spellbomb
-3 Pyrite Spellbomb
-4 Pyrite Spellbomb
-1 Seal of Removal
-1 Finale of Promise
-2 Finale of Promise
-2 Seal of Removal
-3 Serum Visions
-3 Unholy Heat
-3 Seal of Removal
-4 Unholy Heat
-4 Serum Visions
-4 Stormchaser Mage
+4 Island
+5 Island
+1 Crash Through
+1 Clever Lumimancer
+2 Crash Through
+2 Clever Lumimancer
 3 Sacred Foundry
+3 Clever Lumimancer
+3 Crash Through
 4 Crash Through
+4 Clever Lumimancer
