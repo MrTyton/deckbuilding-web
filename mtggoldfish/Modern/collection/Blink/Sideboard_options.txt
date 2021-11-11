@@ -9,16 +9,14 @@
 1 Flusterstorm
 2 Engineered Explosives
 2 Flusterstorm
-1 Veil of Summer
 3 Flusterstorm
 1 Obsidian Charmaw
+1 Veil of Summer
 2 Alpine Moon
 3 Chalice of the Void
-1 Force of Vigor
-2 Force of Vigor
+1 Collector Ouphe
 1 Mystical Dispute
 2 Mystical Dispute
-1 Collector Ouphe
 1 Gaddock Teeg
 1 Burrenton Forge-Tender
 1 Wear/Tear
@@ -30,6 +28,8 @@
 2 Path to Exile
 1 Sanctum Prelate
 2 Obsidian Charmaw
+1 Force of Vigor
+2 Force of Vigor
 4 Flusterstorm
 1 Force of Negation
 2 Force of Negation
@@ -45,19 +45,14 @@
 1 Spreading Seas
 2 Spreading Seas
 3 Engineered Explosives
+3 Wear/Tear
 1 Supreme Verdict
 1 Counterspell
 2 Counterspell
 3 Counterspell
-3 Lightning Helix
-1 Kozilek, Butcher of Truth
-3 Wear/Tear
 3 Path to Exile
 1 Celestial Purge
 2 Celestial Purge
-1 Prismatic Ending
-2 Prismatic Ending
-3 Prismatic Ending
 4 Sanctifier en-Vec
 1 Crumble to Dust
 3 Dovin's Veto
@@ -101,27 +96,30 @@
 2 Crumble to Dust
 2 Shark Typhoon
 3 Shark Typhoon
-1 Cleansing Nova
-1 Embereth Shieldbreaker
-1 Relic of Progenitus
-1 Leyline of Sanctity
-2 Leyline of Sanctity
-2 Cleansing Nova
-2 Relic of Progenitus
-3 Leyline of Sanctity
 1 Archon of Emeria
 2 Archon of Emeria
 3 Kataki, War's Wage
 3 Archon of Emeria
+1 Cleansing Nova
+1 Embereth Shieldbreaker
+1 Relic of Progenitus
+1 Prismatic Ending
+1 Leyline of Sanctity
+2 Leyline of Sanctity
+2 Cleansing Nova
+2 Relic of Progenitus
+2 Prismatic Ending
+3 Leyline of Sanctity
+3 Prismatic Ending
 1 Unmoored Ego
 2 Unmoored Ego
 3 Endurance
-4 Lightning Helix
+1 Chandra, Awakened Inferno
+1 Kozilek, Butcher of Truth
+4 Force of Vigor
 4 Mystical Dispute
 3 Spreading Seas
 4 Spreading Seas
-1 Chandra, Awakened Inferno
-4 Force of Vigor
 1 Fracturing Gust
 1 Elspeth, Sun's Nemesis
 1 Heliod's Intervention
@@ -134,6 +132,7 @@
 3 Force of Negation
 4 Force of Negation
 4 Wear/Tear
+3 Lightning Helix
 4 Counterspell
 1 Wrath of God
 1 Leonin Arbiter

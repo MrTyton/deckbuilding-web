@@ -1,19 +1,19 @@
 1 Prismatic Vista
-1 Endurance
-4 Fury
-1 Scalding Tarn
-2 Scalding Tarn
+1 Island
 4 Eternal Witness
-1 Reflecting Pool
+1 Mountain
 1 Time Warp
 2 Abundant Harvest
-1 Forest
-2 Forest
+1 Endurance
+4 Fury
 3 Lightning Bolt
+1 Reflecting Pool
 1 Wall of Omens
 2 Wall of Omens
 2 Snow-Covered Island
+1 Forest
 1 Path to Exile
+2 Forest
 2 Time Warp
 1 Lightning Helix
 1 Supreme Verdict
@@ -23,7 +23,6 @@
 2 Dovin's Veto
 4 Flooded Strand
 2 Arid Mesa
-4 Wooded Foothills
 3 Wall of Omens
 1 Sword of Fire and Ice
 1 Stoneforge Mystic
@@ -85,6 +84,7 @@
 2 Force of Negation
 1 Eladamri's Call
 2 Eladamri's Call
+4 Wooded Foothills
 2 Lightning Helix
 1 Kiki-Jiki, Mirror Breaker
 3 Arid Mesa
@@ -154,10 +154,6 @@
 3 Chord of Calling
 4 Birds of Paradise
 4 Chord of Calling
-1 Utopia Sprawl
-2 Utopia Sprawl
-3 Utopia Sprawl
-4 Utopia Sprawl
 1 Flagstones of Trokair
 1 Cleansing Wildfire
 2 Flagstones of Trokair
@@ -237,25 +233,8 @@
 3 Celestial Colonnade
 3 Chalice of the Void
 3 Force of Negation
-1 Thrun, the Last Troll
-1 Drannith Magistrate
-3 Wall of Blossoms
-1 Bonecrusher Giant
-1 Gut Shot
-1 Song of Creation
-1 Birgi, God of Storytelling
-1 Conflagrate
-1 Mox Amber
-1 Manamorphose
-2 Birgi, God of Storytelling
-2 Song of Creation
-2 Mox Amber
-2 Manamorphose
-3 Birgi, God of Storytelling
-3 Song of Creation
-3 Mox Amber
-4 Song of Creation
-4 Mox Amber
+3 Lightning Helix
+4 Lightning Helix
 1 Sulfur Falls
 1 Snapcaster Mage
 2 Raugrin Triome
@@ -268,12 +247,22 @@
 4 Scalding Tarn
 4 Unholy Heat
 4 Snapcaster Mage
+1 Canopy Vista
+1 Indatha Triome
+1 Rushed Rebirth
+2 Rushed Rebirth
+4 Wish
 1 Growth Spiral
 2 Growth Spiral
 3 Growth Spiral
 4 Growth Spiral
-3 Lightning Helix
-4 Lightning Helix
+1 Utopia Sprawl
+1 Thrun, the Last Troll
+1 Drannith Magistrate
+2 Utopia Sprawl
+3 Utopia Sprawl
+3 Wall of Blossoms
+4 Utopia Sprawl
 1 Esper Sentinel
 1 Shatterskull Smashing
 1 Rustvale Bridge
@@ -284,23 +273,18 @@
 3 Esper Sentinel
 3 Showdown of the Skalds
 4 Showdown of the Skalds
-1 Canopy Vista
-1 Indatha Triome
-1 Rushed Rebirth
-2 Rushed Rebirth
-4 Wish
-1 Savai Triome
 1 Sunbaked Canyon
+1 Savai Triome
 1 Blood Moon
 1 Clifftop Retreat
 2 Sunbaked Canyon
 2 Marsh Flats
 2 Blood Moon
 2 Mountain
+3 Mountain
 3 Blood Moon
 3 Snow-Covered Plains
 3 Marsh Flats
-3 Mountain
 4 Snow-Covered Plains
 4 Seasoned Pyromancer
 4 Blood Moon

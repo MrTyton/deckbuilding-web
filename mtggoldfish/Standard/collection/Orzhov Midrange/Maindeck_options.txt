@@ -1,18 +1,17 @@
-3 Infernal Grasp
+4 Usher of the Fallen
+1 Duress
+2 Duress
 3 Intrepid Adversary
 4 Intrepid Adversary
-1 Righteous Valkyrie
-2 Righteous Valkyrie
-3 Righteous Valkyrie
-4 Righteous Valkyrie
-4 Infernal Grasp
 2 Liesa, Forgotten Archangel
 1 Starnheim Unleashed
 1 Firja's Retribution
 2 Firja's Retribution
 3 Firja's Retribution
-1 Snow-Covered Swamp
+4 Infernal Grasp
+1 The Meathook Massacre
 1 Snow-Covered Plains
+1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 2 Snow-Covered Plains
 3 Snow-Covered Swamp
@@ -53,40 +52,40 @@
 1 Draugr Necromancer
 1 Borrowed Time
 1 Doomskar
-1 Revitalize
 1 Ondu Inversion
-1 Mila, Crafty Companion
-1 Rune of Sustenance
-1 Priest of Ancient Lore
+1 Revitalize
 1 Archway Commons
+1 Priest of Ancient Lore
+1 Rune of Sustenance
+1 Minimus Containment
 1 Potion of Healing
 1 Kor Celebrant
-1 Minimus Containment
+1 Mila, Crafty Companion
 2 Priest of the Haunted Edge
-2 Borrowed Time
 2 Draugr Necromancer
+2 Borrowed Time
 2 Doomskar
 2 Revitalize
-2 Kor Celebrant
-2 Minimus Containment
 2 Mila, Crafty Companion
+2 Kor Celebrant
 2 Rune of Sustenance
 2 Priest of Ancient Lore
 2 Potion of Healing
 2 Archway Commons
+2 Minimus Containment
 3 Priest of the Haunted Edge
 3 Borrowed Time
 3 Revitalize
-3 Minimus Containment
-3 Rune of Sustenance
-3 Priest of Ancient Lore
 3 Potion of Healing
+3 Priest of Ancient Lore
+3 Rune of Sustenance
 3 Angel of Destiny
+3 Minimus Containment
 4 Priest of the Haunted Edge
 4 Revitalize
+4 Potion of Healing
 4 Rune of Sustenance
 4 Priest of Ancient Lore
-4 Potion of Healing
 11 Snow-Covered Swamp
 12 Snow-Covered Plains
 12 Snow-Covered Swamp
@@ -97,7 +96,8 @@
 17 Snow-Covered Plains
 18 Snow-Covered Plains
 2 Reidane, God of the Worthy
-4 Agadeem's Awakening
+3 Agadeem's Awakening
+3 Duress
 1 Scourge of the Skyclaves
 1 Dungeon Crawler
 2 Scourge of the Skyclaves
@@ -107,13 +107,17 @@
 3 Scourge of the Skyclaves
 3 Hive of the Eye Tyrant
 4 Dungeon Crawler
+4 Agadeem's Awakening
 4 Emeria's Call
 4 Scourge of the Skyclaves
-1 The Meathook Massacre
+9 Plains
+1 Youthful Valkyrie
+2 Youthful Valkyrie
+2 Starnheim Unleashed
+3 Youthful Valkyrie
+4 Youthful Valkyrie
+4 Firja's Retribution
 1 Adeline, Resplendent Cathar
-1 Brutal Cathar
-1 Portable Hole
-2 Portable Hole
 6 Swamp
 1 Lolth, Spider Queen
 1 Skullport Merchant
@@ -125,23 +129,26 @@
 3 Skullport Merchant
 3 Deadly Dispute
 3 Eyetwitch
-9 Plains
-1 Youthful Valkyrie
-2 Youthful Valkyrie
+1 Skyclave Apparition
+2 Skyclave Apparition
+3 Skyclave Apparition
+1 Fateful Absence
+2 Fateful Absence
+1 Brutal Cathar
 2 Adeline, Resplendent Cathar
-2 Brutal Cathar
-2 Starnheim Unleashed
-3 Youthful Valkyrie
-4 Youthful Valkyrie
-4 Firja's Retribution
+3 Liesa, Forgotten Archangel
 1 Faceless Haven
 2 Faceless Haven
 2 Lolth, Spider Queen
+1 Portable Hole
+2 Portable Hole
 4 Deadly Dispute
 4 Eyetwitch
 1 Maul of the Skyclaves
 2 Maul of the Skyclaves
 3 Adeline, Resplendent Cathar
+3 Fateful Absence
+3 Starnheim Unleashed
 3 Archway Commons
 4 Borrowed Time
 13 Snow-Covered Swamp
@@ -151,32 +158,29 @@
 3 Blood on the Snow
 3 Shambling Ghast
 4 Shambling Ghast
-1 Sungold Sentinel
-2 Sungold Sentinel
-3 Reidane, God of the Worthy
 1 Graveyard Trespasser
-1 Skyclave Apparition
-2 Skyclave Apparition
-3 Skyclave Apparition
-1 Fateful Absence
-2 Fateful Absence
+2 Brutal Cathar
+3 Reidane, God of the Worthy
 1 Bloodchief's Thirst
 1 Acquisitions Expert
 2 Acquisitions Expert
 1 Kaya the Inexorable
-3 Liesa, Forgotten Archangel
 7 Swamp
+1 Can't Stay Away
+1 Enduring Angel
+4 Skyclave Apparition
+4 Starnheim Unleashed
 1 Tainted Adversary
 2 Tainted Adversary
 3 Tainted Adversary
-2 Graveyard Trespasser
 3 Lolth, Spider Queen
 1 Soul Shatter
 4 Blood on the Snow
+2 Graveyard Trespasser
 1 Rampage of the Valkyries
 2 Rampage of the Valkyries
-3 Fateful Absence
-3 Starnheim Unleashed
+1 Sungold Sentinel
+2 Sungold Sentinel
 2 Bloodchief's Thirst
 2 The Meathook Massacre
 3 Acquisitions Expert
@@ -188,20 +192,12 @@
 1 Elderfang Disciple
 2 Elderfang Disciple
 3 Elderfang Disciple
-3 Kaya the Inexorable
 3 The Meathook Massacre
+3 Kaya the Inexorable
 4 Elderfang Disciple
-1 Can't Stay Away
-1 Enduring Angel
-4 Skyclave Apparition
-4 Starnheim Unleashed
 4 Skullport Merchant
 3 Graveyard Trespasser
-3 Sungold Sentinel
 3 Brutal Cathar
-1 Stonebinder's Familiar
-2 Stonebinder's Familiar
-3 Stonebinder's Familiar
 2 Mask of Griselbrand
 20 Snow-Covered Plains
 2 Field of Ruin
@@ -230,56 +226,56 @@
 3 Village Rites
 3 Field of Ruin
 3 Professor of Symbology
+3 Sungold Sentinel
 1 Silverquill Command
+1 Stonebinder's Familiar
 1 Sigardian Savior
+2 Stonebinder's Familiar
+3 Stonebinder's Familiar
 4 Brutal Cathar
 4 Tainted Adversary
 4 Duress
 4 Graveyard Trespasser
-1 Check for Traps
-2 Check for Traps
-4 Stonebinder's Familiar
-4 Sungold Sentinel
+3 Faceless Haven
+4 Faceless Haven
+1 Loyal Warhound
+2 Loyal Warhound
+3 Rampage of the Valkyries
+3 Cave of the Frost Dragon
+3 Loyal Warhound
+4 Cave of the Frost Dragon
+4 Loyal Warhound
 1 Resplendent Marshal
 2 Resplendent Marshal
 3 Malakir Rebirth
 4 Malakir Rebirth
-1 Chaplain of Alms
-1 Cleric of Life's Bond
-2 Chaplain of Alms
-2 Cleric of Life's Bond
-3 Chaplain of Alms
-3 Cleric of Life's Bond
-4 Chaplain of Alms
-4 Cleric of Life's Bond
-3 Faceless Haven
-4 Faceless Haven
 1 Essence Infusion
 1 Raise the Draugr
 1 Professor's Warning
 1 Paladin Class
 1 Starnheim Aspirant
 2 Silverquill Campus
-2 Professor's Warning
-2 Starnheim Aspirant
-2 Essence Infusion
 2 Paladin Class
+2 Starnheim Aspirant
+2 Professor's Warning
 2 Raise the Draugr
+2 Essence Infusion
 3 Paladin Class
+3 Starnheim Aspirant
+3 Valkyrie Harbinger
 3 Essence Infusion
 3 Raise the Draugr
-3 Valkyrie Harbinger
-3 Starnheim Aspirant
 3 Professor's Warning
-4 Valkyrie Harbinger
-4 Starnheim Aspirant
 4 Liesa, Forgotten Archangel
+4 Valkyrie Harbinger
 4 Vengeful Reaper
+4 Starnheim Aspirant
 10 Plains
-1 Loyal Warhound
-2 Loyal Warhound
-3 Rampage of the Valkyries
-3 Loyal Warhound
-3 Cave of the Frost Dragon
-4 Loyal Warhound
-4 Cave of the Frost Dragon
+1 Chaplain of Alms
+1 Cleric of Life's Bond
+2 Chaplain of Alms
+2 Cleric of Life's Bond
+3 Cleric of Life's Bond
+3 Chaplain of Alms
+4 Cleric of Life's Bond
+4 Chaplain of Alms

@@ -77,16 +77,16 @@
 13 Plains
 14 Plains
 1 Monk of the Open Hand
-1 Homestead Courage
 1 Dragonsguard Elite
+1 Homestead Courage
 1 Guiding Voice
 1 Mavinda, Students' Advocate
 2 Monk of the Open Hand
-2 Homestead Courage
 2 Mavinda, Students' Advocate
 2 Dragonsguard Elite
 2 Wild Shape
 2 Guiding Voice
+2 Homestead Courage
 3 Monk of the Open Hand
 3 Guiding Voice
 3 Mavinda, Students' Advocate
@@ -110,8 +110,8 @@
 2 Werewolf Pack Leader
 4 Sungold Sentinel
 4 Adeline, Resplendent Cathar
-1 Righteous Valkyrie
 1 The Book of Exalted Deeds
+1 Righteous Valkyrie
 2 Righteous Valkyrie
 3 Faceless Haven
 4 Faceless Haven
@@ -124,21 +124,26 @@
 1 Crawling Barrens
 2 Inscription of Abundance
 1 Minimus Containment
-1 Briarbridge Tracker
-1 Maja, Bretagard Protector
 1 Borrowed Time
+1 Maja, Bretagard Protector
+1 Briarbridge Tracker
 2 Minimus Containment
 2 Briarbridge Tracker
 2 Maja, Bretagard Protector
+2 The Book of Exalted Deeds
+3 Emeria's Call
 1 Tovolar's Huntmaster
-1 Join the Dance
 1 Realmwalker
 1 Rally the Ranks
+1 Join the Dance
 2 Join the Dance
 2 Rally the Ranks
 3 Join the Dance
-2 The Book of Exalted Deeds
-3 Emeria's Call
+3 Werewolf Pack Leader
+4 Werewolf Pack Leader
+4 Lair of the Hydra
+1 Kazandu Mammoth
+4 Cave of the Frost Dragon
 1 Sunset Revelry
 1 Loyal Warhound
 2 Sunset Revelry
@@ -147,36 +152,31 @@
 3 Sunset Revelry
 3 Blizzard Brawl
 4 Blizzard Brawl
-1 Selfless Glyphweaver
-2 Selfless Glyphweaver
-3 Righteous Valkyrie
-3 Selfless Glyphweaver
-4 Righteous Valkyrie
-3 Werewolf Pack Leader
-4 Werewolf Pack Leader
-4 Lair of the Hydra
-1 Kazandu Mammoth
-4 Cave of the Frost Dragon
 1 Charge Through
 2 Charge Through
 3 Charge Through
 4 Monk of the Open Hand
 4 Charge Through
-1 Ambitious Farmhand
+1 Selfless Glyphweaver
+2 Selfless Glyphweaver
+3 Selfless Glyphweaver
+3 Righteous Valkyrie
+4 Righteous Valkyrie
 1 Lunarch Veteran
+1 Ambitious Farmhand
 1 Search Party Captain
 1 Gavony Trapper
-2 Ambitious Farmhand
 2 Lunarch Veteran
-2 Search Party Captain
+2 Ambitious Farmhand
 2 Field of Ruin
+2 Search Party Captain
 2 Gavony Trapper
 3 Lunarch Veteran
 3 Field of Ruin
 3 Ambitious Farmhand
 3 Search Party Captain
-4 Lunarch Veteran
 4 Field of Ruin
+4 Lunarch Veteran
 4 Search Party Captain
 4 Ambitious Farmhand
 1 Stonebinder's Familiar

@@ -1,10 +1,10 @@
 2 Snakeskin Veil
-1 Snow-Covered Forest
 1 Snow-Covered Mountain
-2 Snow-Covered Mountain
+1 Snow-Covered Forest
 2 Snow-Covered Forest
-3 Snow-Covered Mountain
+2 Snow-Covered Mountain
 3 Snow-Covered Forest
+3 Snow-Covered Mountain
 4 Snow-Covered Forest
 4 Snow-Covered Mountain
 8 Forest
@@ -96,9 +96,9 @@
 1 Khalni Ambush
 1 Burn Down the House
 1 Dual Strike
-1 The Deck of Many Things
 1 Duel for Dominance
 1 Gnottvold Slumbermound
+1 The Deck of Many Things
 2 Sunstreak Phoenix
 2 Dual Strike
 2 Spikefield Hazard
@@ -122,9 +122,9 @@
 3 Moonveil Regent
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
+2 Unnatural Growth
 1 Tangled Florahedron
 2 Tangled Florahedron
-2 Unnatural Growth
 1 Kazuul's Fury
 2 Kazuul's Fury
 1 Vorinclex, Monstrous Raider
@@ -133,11 +133,11 @@
 1 Choose Your Weapon
 1 Fearless Pup
 2 Cathartic Pyre
-1 The World Tree
 1 Augur of Autumn
 1 Barbarian Class
 1 Delina, Wild Mage
 1 Zariel, Archduke of Avernus
+1 The World Tree
 1 Saryth, the Viper's Fang
 1 Realmwalker
 1 Fynn, the Fangbearer
@@ -167,6 +167,10 @@
 3 Snarling Wolf
 3 Pestilent Wolf
 4 Dragon's Fire
+1 Sculptor of Winter
+2 Sculptor of Winter
+3 Sculptor of Winter
+4 Sculptor of Winter
 4 Magda, Brazen Outlaw
 1 Falkenrath Pit Fighter
 1 Arni Brokenbrow
@@ -178,10 +182,6 @@
 4 Den of the Bugbear
 4 Falkenrath Pit Fighter
 4 Faceless Haven
-1 Sculptor of Winter
-2 Sculptor of Winter
-3 Sculptor of Winter
-4 Sculptor of Winter
 3 Kazandu Mammoth
 4 Kazandu Mammoth
 4 Hound Tamer
@@ -192,6 +192,13 @@
 4 Inscription of Abundance
 4 Moonrager's Slash
 4 Leather Armor
+1 Tireless Hauler
+1 Tavern Ruffian
+2 Tireless Hauler
+2 Tavern Ruffian
+11 Forest
+12 Forest
+12 Mountain
 1 Branchloft Pathway
 1 Needleverge Pathway
 1 Brutal Cathar
@@ -208,10 +215,3 @@
 4 Brutal Cathar
 4 Branchloft Pathway
 4 Needleverge Pathway
-1 Tireless Hauler
-1 Tavern Ruffian
-2 Tireless Hauler
-2 Tavern Ruffian
-11 Forest
-12 Forest
-12 Mountain
