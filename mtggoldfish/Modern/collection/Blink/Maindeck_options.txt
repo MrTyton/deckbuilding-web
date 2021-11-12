@@ -17,8 +17,8 @@
 2 Snow-Covered Island
 1 Forest
 1 Path to Exile
-2 Forest
 2 Time Warp
+2 Forest
 3 Dovin's Veto
 1 Supreme Verdict
 2 Lightning Helix
@@ -31,9 +31,9 @@
 3 Ragavan, Nimble Pilferer
 3 Arid Mesa
 3 Wall of Omens
+1 Kaldra Compleat
 1 Sword of Fire and Ice
 1 Stoneforge Mystic
-1 Kaldra Compleat
 1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
@@ -54,24 +54,24 @@
 1 Undying Evil
 1 Malakir Rebirth
 1 Silent Clearing
+1 Concealed Courtyard
+1 Godless Shrine
 1 Shriekmaw
 1 Urborg, Tomb of Yawgmoth
 1 Swamp
-1 Concealed Courtyard
 1 Grief
 1 Tourach, Dread Cantor
-1 Godless Shrine
 1 Sword of Truth and Justice
 1 Emeria's Call
 1 Agadeem's Awakening
 2 Undying Evil
 2 Malakir Rebirth
+2 Godless Shrine
+2 Concealed Courtyard
 2 Tourach, Dread Cantor
 2 Silent Clearing
-2 Concealed Courtyard
 2 Persist
 2 Grief
-2 Godless Shrine
 2 Emeria's Call
 2 Agadeem's Awakening
 3 Silent Clearing
@@ -102,20 +102,20 @@
 2 Hallowed Fountain
 1 Teferi, Hero of Dominaria
 4 Arid Mesa
-1 Castle Vantress
 1 Omen of the Sea
+1 Castle Vantress
 1 Celestial Colonnade
 1 Archmage's Charm
 2 Omen of the Sea
 2 Island
 2 Archmage's Charm
-3 Archmage's Charm
 3 Omen of the Sea
 3 Island
+3 Archmage's Charm
 4 Omen of the Sea
-4 Archmage's Charm
 4 Island
 4 Counterspell
+4 Archmage's Charm
 3 Eladamri's Call
 4 Eladamri's Call
 1 Imperial Recruiter
@@ -143,18 +143,18 @@
 2 Wish
 3 Wish
 3 Scalding Tarn
-1 Knight of Autumn
-1 Deputy of Detention
 1 Chord of Calling
+1 Knight of Autumn
 1 Birds of Paradise
+1 Deputy of Detention
 1 Wall of Blossoms
-2 Wall of Blossoms
-2 Birds of Paradise
 2 Chord of Calling
-3 Birds of Paradise
+2 Birds of Paradise
+2 Wall of Blossoms
 3 Chord of Calling
-4 Birds of Paradise
+3 Birds of Paradise
 4 Chord of Calling
+4 Birds of Paradise
 1 Flagstones of Trokair
 1 Cleansing Wildfire
 2 Flagstones of Trokair
@@ -193,8 +193,8 @@
 3 Seasoned Pyromancer
 3 Restoration Angel
 1 Marsh Flats
-1 Showdown of the Skalds
 1 Magus of the Moon
+1 Showdown of the Skalds
 2 Showdown of the Skalds
 2 Sacred Foundry
 3 Sacred Foundry
@@ -210,8 +210,8 @@
 8 Plains
 9 Plains
 2 Flickerwisp
-1 Huntmaster of the Fells
 1 Prairie Stream
+1 Huntmaster of the Fells
 1 Tranquil Thicket
 1 Flusterstorm
 2 Flusterstorm
@@ -225,16 +225,21 @@
 1 Vendilion Clique
 1 Thassa, Deep-Dwelling
 1 Chalice of the Void
-2 Glacial Fortress
 2 Vendilion Clique
+2 Glacial Fortress
 2 Chalice of the Void
 3 Glacial Fortress
-3 Vendilion Clique
 3 Celestial Colonnade
+3 Vendilion Clique
 3 Chalice of the Void
 3 Force of Negation
-3 Lightning Helix
-4 Lightning Helix
+1 Thrun, the Last Troll
+1 Drannith Magistrate
+1 Utopia Sprawl
+2 Utopia Sprawl
+3 Wall of Blossoms
+3 Utopia Sprawl
+4 Utopia Sprawl
 1 Sulfur Falls
 1 Snapcaster Mage
 2 Raugrin Triome
@@ -242,27 +247,13 @@
 2 Snapcaster Mage
 2 Steam Vents
 2 Unholy Heat
-3 Snapcaster Mage
 3 Unholy Heat
+3 Snapcaster Mage
 4 Scalding Tarn
 4 Unholy Heat
 4 Snapcaster Mage
-1 Canopy Vista
-1 Indatha Triome
-1 Rushed Rebirth
-2 Rushed Rebirth
-4 Wish
-1 Growth Spiral
-2 Growth Spiral
-3 Growth Spiral
-4 Growth Spiral
-1 Utopia Sprawl
-1 Thrun, the Last Troll
-1 Drannith Magistrate
-2 Utopia Sprawl
-3 Utopia Sprawl
-3 Wall of Blossoms
-4 Utopia Sprawl
+3 Lightning Helix
+4 Lightning Helix
 1 General Ferrous Rokiric
 1 Alpine Meadow
 2 General Ferrous Rokiric
@@ -279,6 +270,15 @@
 3 Esper Sentinel
 3 Showdown of the Skalds
 4 Showdown of the Skalds
+1 Canopy Vista
+1 Indatha Triome
+1 Rushed Rebirth
+2 Rushed Rebirth
+4 Wish
+1 Growth Spiral
+2 Growth Spiral
+3 Growth Spiral
+4 Growth Spiral
 1 Savai Triome
 1 Sunbaked Canyon
 1 Blood Moon
@@ -291,11 +291,11 @@
 3 Blood Moon
 3 Snow-Covered Plains
 3 Marsh Flats
+4 Prismatic Vista
 4 Snow-Covered Plains
 4 Seasoned Pyromancer
 4 Blood Moon
 4 Marsh Flats
-4 Prismatic Vista
 5 Snow-Covered Plains
 1 Memory Deluge
 2 Mystic Gate
@@ -315,8 +315,8 @@
 1 Gavony Dawnguard
 2 Ambitious Farmhand
 2 Castle Ardenvale
-2 Gavony Dawnguard
 2 Blast Zone
+2 Gavony Dawnguard
 3 Ambitious Farmhand
 3 Gavony Dawnguard
 3 Flickerwisp

@@ -12,10 +12,10 @@
 1 The Meathook Massacre
 1 Snow-Covered Plains
 1 Snow-Covered Swamp
-2 Snow-Covered Swamp
 2 Snow-Covered Plains
-3 Snow-Covered Swamp
+2 Snow-Covered Swamp
 3 Snow-Covered Plains
+3 Snow-Covered Swamp
 4 Snow-Covered Plains
 4 Snow-Covered Swamp
 5 Snow-Covered Plains
@@ -40,11 +40,11 @@
 10 Snow-Covered Plains
 11 Snow-Covered Plains
 10 Snow-Covered Swamp
-1 Angel of Destiny
-1 Valkyrie Harbinger
 1 Vengeful Reaper
-2 Vengeful Reaper
+1 Valkyrie Harbinger
+1 Angel of Destiny
 2 Valkyrie Harbinger
+2 Vengeful Reaper
 2 Angel of Destiny
 3 Vengeful Reaper
 1 Priest of the Haunted Edge
@@ -52,8 +52,8 @@
 1 Draugr Necromancer
 1 Borrowed Time
 1 Doomskar
-1 Ondu Inversion
 1 Revitalize
+1 Ondu Inversion
 1 Archway Commons
 1 Priest of Ancient Lore
 1 Rune of Sustenance
@@ -102,10 +102,10 @@
 1 Dungeon Crawler
 2 Scourge of the Skyclaves
 2 Dungeon Crawler
+3 Hive of the Eye Tyrant
 3 Dungeon Crawler
 3 Silverquill Silencer
 3 Scourge of the Skyclaves
-3 Hive of the Eye Tyrant
 4 Dungeon Crawler
 4 Agadeem's Awakening
 4 Emeria's Call
@@ -115,19 +115,19 @@
 2 Youthful Valkyrie
 2 Starnheim Unleashed
 3 Youthful Valkyrie
-4 Youthful Valkyrie
 4 Firja's Retribution
+4 Youthful Valkyrie
 1 Adeline, Resplendent Cathar
 6 Swamp
 1 Lolth, Spider Queen
+1 Eyetwitch
 1 Skullport Merchant
 1 Deadly Dispute
-1 Eyetwitch
+2 Eyetwitch
 2 Skullport Merchant
 2 Deadly Dispute
-2 Eyetwitch
-3 Skullport Merchant
 3 Deadly Dispute
+3 Skullport Merchant
 3 Eyetwitch
 1 Skyclave Apparition
 2 Skyclave Apparition
@@ -209,8 +209,8 @@
 1 Silverquill Campus
 8 Swamp
 1 The Book of Exalted Deeds
-1 Professor Onyx
 1 Shadows' Verdict
+1 Professor Onyx
 1 Eradicator Valkyrie
 2 Professor Onyx
 1 Archpriest of Iona
@@ -220,8 +220,8 @@
 1 Demon's Disciple
 1 Skyclave Cleric
 2 Village Rites
-2 Professor of Symbology
 2 Demon's Disciple
+2 Professor of Symbology
 2 Skyclave Cleric
 3 Village Rites
 3 Field of Ruin
@@ -238,13 +238,21 @@
 4 Graveyard Trespasser
 3 Faceless Haven
 4 Faceless Haven
+1 Chaplain of Alms
+1 Cleric of Life's Bond
+2 Chaplain of Alms
+2 Cleric of Life's Bond
+3 Chaplain of Alms
+3 Cleric of Life's Bond
+4 Chaplain of Alms
+4 Cleric of Life's Bond
 1 Loyal Warhound
 2 Loyal Warhound
-3 Rampage of the Valkyries
 3 Cave of the Frost Dragon
 3 Loyal Warhound
-4 Cave of the Frost Dragon
+3 Rampage of the Valkyries
 4 Loyal Warhound
+4 Cave of the Frost Dragon
 1 Resplendent Marshal
 2 Resplendent Marshal
 3 Malakir Rebirth
@@ -271,11 +279,3 @@
 4 Vengeful Reaper
 4 Starnheim Aspirant
 10 Plains
-1 Chaplain of Alms
-1 Cleric of Life's Bond
-2 Chaplain of Alms
-2 Cleric of Life's Bond
-3 Cleric of Life's Bond
-3 Chaplain of Alms
-4 Cleric of Life's Bond
-4 Chaplain of Alms

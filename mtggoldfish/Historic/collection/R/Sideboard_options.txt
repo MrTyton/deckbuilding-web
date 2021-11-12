@@ -1,10 +1,9 @@
-2 The Akroan War
+2 Goblin Chainwhirler
 1 Fry
 1 Cinderclasm
 2 Cinderclasm
 3 Goblin Chainwhirler
 4 Roiling Vortex
-3 Abrade
 1 Unchained Berserker
 2 Unchained Berserker
 3 Unchained Berserker
@@ -14,6 +13,10 @@
 2 Klothys, God of Destiny
 3 Cindervines
 4 Cindervines
+1 Scavenging Ooze
+3 Abrade
+2 Scavenging Ooze
+4 Unchained Berserker
 1 Lurrus of the Dream-Den
 1 Containment Priest
 1 Mana Tithe
@@ -25,11 +28,8 @@
 2 Portable Hole
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-1 Scavenging Ooze
 1 Magma Spray
 3 Portable Hole
-2 Scavenging Ooze
-4 Unchained Berserker
 1 Burning Hands
 1 Spell Pierce
 2 Spell Pierce
@@ -128,7 +128,6 @@
 2 By Force
 3 Glorybringer
 4 Glorybringer
-4 Soul-Guide Lantern
 1 Fire Prophecy
 1 Curse of Shaken Faith
 1 Tibalt, Rakish Instigator
@@ -136,3 +135,4 @@
 2 Curse of Shaken Faith
 2 Tibalt, Rakish Instigator
 3 Fire Prophecy
+4 Soul-Guide Lantern

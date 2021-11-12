@@ -74,8 +74,8 @@
 3 Sedgemoor Witch
 3 Duress
 4 Behold the Multiverse
-1 Snow-Covered Swamp
 1 Snow-Covered Plains
+1 Snow-Covered Swamp
 1 Snow-Covered Island
 2 Snow-Covered Island
 1 Hagra Mauling
@@ -87,9 +87,9 @@
 2 Poppet Stitcher
 3 Soul Shatter
 1 Blood on the Snow
-2 Snow-Covered Swamp
 2 Snow-Covered Plains
 2 Blood on the Snow
+2 Snow-Covered Swamp
 3 Snow-Covered Plains
 3 Snow-Covered Island
 4 Dissipate
@@ -102,8 +102,8 @@
 1 Silundi Vision
 1 Niko Aris
 2 Niko Aris
-1 Poison the Cup
 1 Lithoform Blight
+1 Poison the Cup
 2 Shineshadow Snarl
 2 Lithoform Blight
 3 Iymrith, Desert Doom
@@ -132,8 +132,8 @@
 4 Snow-Covered Plains
 1 Vanquish the Horde
 2 Vanquish the Horde
-3 Snow-Covered Swamp
 3 Blood on the Snow
+3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 4 Infernal Grasp
 1 Glacial Floodplain
@@ -163,16 +163,13 @@
 1 Port of Karfell
 1 Ondu Inversion
 1 Inscription of Insight
-2 Hagra Mauling
 2 Cave of the Frost Dragon
+2 Hagra Mauling
 1 The Raven's Warning
 2 The Raven's Warning
 1 Skyclave Relic
 1 Draugr Necromancer
 2 Draugr Necromancer
-1 Check for Traps
-3 Emeria's Call
-3 Silverquill Campus
 1 Borrowed Time
 1 Gisa, Glorious Resurrector
 1 Blightstep Pathway
@@ -187,26 +184,29 @@
 1 Spectral Adversary
 2 Spectral Adversary
 3 Spectral Adversary
+1 Check for Traps
+3 Emeria's Call
+3 Silverquill Campus
+3 Power Word Kill
+4 Swamp
+4 Graveyard Trespasser
 1 Elite Spellbinder
 2 Elite Spellbinder
 3 Elite Spellbinder
 4 Elite Spellbinder
-4 Graveyard Trespasser
 4 Duress
-3 Power Word Kill
-4 Swamp
+2 Faithful Mending
+3 Snowfield Sinkhole
+3 Faithful Mending
+3 Faceless Haven
+4 Faceless Haven
+4 Snow-Covered Island
+4 Ice Tunnel
+4 Snowfield Sinkhole
+4 Faithful Mending
 1 Mordenkainen
 1 Search for Glory
 1 The Book of Exalted Deeds
 2 Search for Glory
 3 Search for Glory
 5 Snow-Covered Plains
-2 Faithful Mending
-3 Snowfield Sinkhole
-3 Faithful Mending
-3 Faceless Haven
-4 Faceless Haven
-4 Snowfield Sinkhole
-4 Snow-Covered Island
-4 Ice Tunnel
-4 Faithful Mending

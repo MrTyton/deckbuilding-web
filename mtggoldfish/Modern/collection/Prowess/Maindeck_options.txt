@@ -54,14 +54,14 @@
 1 Consider
 1 Sulfur Falls
 1 Island
-2 Island
 2 Consider
 2 Sulfur Falls
+2 Island
 2 Bedlam Reveler
 3 Consider
+3 Sprite Dragon
 3 Sulfur Falls
 3 Island
-3 Sprite Dragon
 4 Consider
 4 Sulfur Falls
 1 Reckless Charge
@@ -95,16 +95,15 @@
 4 Sunbaked Canyon
 1 Strike It Rich
 2 Strike It Rich
+1 Tarfire
+1 Brazen Borrower
+2 Brazen Borrower
+2 Tarfire
 2 Gut Shot
 1 Blood Crypt
 1 Underworld Breach
 2 Underworld Breach
-1 Tarfire
-1 Brazen Borrower
-2 Tarfire
-2 Brazen Borrower
 3 Path to Exile
-4 Scalding Tarn
 1 Valakut Awakening
 1 Blood Moon
 1 Seasoned Pyromancer
@@ -125,8 +124,6 @@
 2 Relic of Progenitus
 3 Relic of Progenitus
 4 Relic of Progenitus
-4 Island
-5 Island
 1 Crash Through
 1 Clever Lumimancer
 2 Crash Through
@@ -136,3 +133,6 @@
 3 Crash Through
 4 Crash Through
 4 Clever Lumimancer
+4 Island
+5 Island
+4 Scalding Tarn

@@ -39,8 +39,8 @@
 1 Skullport Merchant
 1 Deadly Dispute
 1 Magma Opus
-2 Skullport Merchant
 2 Magma Opus
+2 Skullport Merchant
 2 Deadly Dispute
 3 Kalain, Reclusive Painter
 3 Deadly Dispute
@@ -56,8 +56,8 @@
 4 Shipwreck Marsh
 3 Spikefield Hazard
 3 Duress
-1 Consider
 1 Sedgemoor Witch
+1 Consider
 2 Consider
 2 Sedgemoor Witch
 3 Sedgemoor Witch
@@ -137,14 +137,14 @@
 2 Heated Debate
 1 Malevolent Hermit
 2 Malevolent Hermit
+1 Prismari Campus
+2 Ice Tunnel
+3 Swamp
 1 Cyclone Summoner
 2 Frostboil Snarl
 2 Disdainful Stroke
 3 Frostboil Snarl
 3 Infernal Grasp
-1 Prismari Campus
-2 Ice Tunnel
-3 Swamp
 1 Baleful Mastery
 1 Codie, Vociferous Codex
 2 Baleful Mastery
@@ -154,18 +154,18 @@
 4 Galvanic Iteration
 1 Burning Hands
 4 Shatterskull Smashing
-1 Graveyard Trespasser
 1 Inscription of Ruin
 1 Check for Traps
-2 Graveyard Trespasser
+1 Graveyard Trespasser
 2 Check for Traps
 2 Inscription of Ruin
-3 Graveyard Trespasser
+2 Graveyard Trespasser
 3 Bloodthirsty Adversary
+3 Graveyard Trespasser
 3 Check for Traps
 3 Inscription of Ruin
-4 Graveyard Trespasser
 4 Bloodthirsty Adversary
+4 Graveyard Trespasser
 4 Inscription of Ruin
 4 Check for Traps
 1 Ebondeath, Dracolich
@@ -173,8 +173,8 @@
 3 Galazeth Prismari
 4 Prismari Command
 1 Mind Flayer
-1 Professor Onyx
 1 Snow-Covered Island
+1 Professor Onyx
 1 Snow-Covered Mountain
 1 Volatile Fjord
 1 Orcus, Prince of Undeath

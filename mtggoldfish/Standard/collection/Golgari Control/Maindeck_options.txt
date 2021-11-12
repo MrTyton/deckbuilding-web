@@ -1,14 +1,16 @@
 4 Duress
 3 Infernal Grasp
-2 Valki, God of Lies
 16 Snow-Covered Swamp
 3 The Meathook Massacre
 1 Eaten Alive
 2 Eaten Alive
+2 Valki, God of Lies
 2 Hagra Mauling
 17 Snow-Covered Swamp
 3 Eaten Alive
 4 Eaten Alive
+1 Pelakka Predation
+2 Pelakka Predation
 1 Prosperous Innkeeper
 1 Esika's Chariot
 2 Prosperous Innkeeper
@@ -33,8 +35,6 @@
 4 Esika's Chariot
 2 Woodland Chasm
 3 Woodland Chasm
-1 Pelakka Predation
-2 Pelakka Predation
 1 Check for Traps
 4 Darkbore Pathway
 4 Woodland Chasm
@@ -50,8 +50,6 @@
 2 Sedgemoor Witch
 6 Snow-Covered Forest
 7 Snow-Covered Forest
-1 Graveyard Trespasser
-2 Graveyard Trespasser
 1 Briarbridge Tracker
 2 Briarbridge Tracker
 3 Briarbridge Tracker
@@ -73,46 +71,47 @@
 1 Maskwood Nexus
 2 Skeletal Swarming
 3 Skeletal Swarming
+1 Plumb the Forbidden
+1 The Celestus
 1 Ecstatic Awakener
-1 Replicating Ring
 1 The World Tree
+1 Replicating Ring
 1 Ghoulish Procession
 1 Village Rites
-1 The Celestus
-1 Plumb the Forbidden
 1 Cosmos Elixir
 1 Rotten Reunion
 1 Bloodchief's Thirst
 1 Esika, God of the Tree
 1 Novice Occultist
 1 Cram Session
+2 Plumb the Forbidden
 2 Ecstatic Awakener
 2 Replicating Ring
 2 Cosmos Elixir
 2 Ghoulish Procession
 2 Village Rites
-2 The World Tree
-2 Plumb the Forbidden
 2 Rotten Reunion
 2 Bloodchief's Thirst
 2 Novice Occultist
+2 The World Tree
 2 Esika, God of the Tree
 3 Novice Occultist
 2 Check for Traps
 1 Nighthawk Scavenger
 2 Nighthawk Scavenger
-3 Graveyard Trespasser
-1 Necroblossom Snarl
-1 Culling Ritual
-1 Grakmaw, Skyclave Ravager
-2 Grakmaw, Skyclave Ravager
-2 Culling Ritual
-2 Lair of the Hydra
-4 Wrenn and Seven
 3 Sedgemoor Witch
 3 Hive of the Eye Tyrant
 3 Hunt for Specimens
 4 Sedgemoor Witch
+1 Necroblossom Snarl
+1 Culling Ritual
+1 Graveyard Trespasser
+1 Grakmaw, Skyclave Ravager
+2 Graveyard Trespasser
+2 Grakmaw, Skyclave Ravager
+2 Culling Ritual
+2 Lair of the Hydra
+4 Wrenn and Seven
 8 Snow-Covered Forest
 1 Feed the Swarm
 2 Feed the Swarm
@@ -120,8 +119,8 @@
 1 Scute Swarm
 1 Lotus Cobra
 1 Toski, Bearer of Secrets
-2 Lotus Cobra
 2 Scute Swarm
+2 Lotus Cobra
 3 Scute Swarm
 4 Swamp
 4 Skeletal Swarming

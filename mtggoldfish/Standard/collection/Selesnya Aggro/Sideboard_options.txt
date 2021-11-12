@@ -14,8 +14,8 @@
 1 Maul of the Skyclaves
 4 Skyclave Apparition
 2 Paladin Class
-1 Froghemoth
 1 Ashaya, Soul of the Wild
+1 Froghemoth
 2 Froghemoth
 4 Portable Hole
 2 Curse of Silence
@@ -41,9 +41,9 @@
 3 Chaplain of Alms
 2 Brutal Cathar
 1 Expanded Anatomy
-1 Containment Breach
 1 Reduce to Memory
 1 Spirit Summoning
+1 Containment Breach
 1 Sigardian Savior
 1 Weathered Runestone
 1 Archon of Emeria
@@ -54,13 +54,13 @@
 2 Sigrid, God-Favored
 1 Divine Smite
 2 Divine Smite
-1 Gavony Dawnguard
 1 Adeline, Resplendent Cathar
+1 Gavony Dawnguard
 1 Dawnhart Mentor
 1 Bereaved Survivor
-2 Gavony Dawnguard
 2 Bereaved Survivor
 2 Dawnhart Mentor
+2 Gavony Dawnguard
 2 Inscription of Abundance
 3 Reidane, God of the Worthy
 3 Guardian of Faith
@@ -73,12 +73,10 @@
 2 Expanded Anatomy
 2 Runeforge Champion
 3 Runeforge Champion
-3 Elite Spellbinder
-4 Elite Spellbinder
 1 Blizzard Brawl
 1 Environmental Sciences
-1 Mascot Exhibition
 1 Blessed Defiance
+1 Mascot Exhibition
 2 Blizzard Brawl
 2 Containment Breach
 3 Brutal Cathar
@@ -88,6 +86,8 @@
 2 Usher of the Fallen
 3 Usher of the Fallen
 4 Usher of the Fallen
+3 Elite Spellbinder
+4 Elite Spellbinder
 1 Disenchant
 1 Ritual of Hope
 2 Disenchant

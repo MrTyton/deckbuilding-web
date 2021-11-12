@@ -2,31 +2,31 @@
 3 Esper Sentinel
 4 Esper Sentinel
 2 Plains
+1 Geist of Saint Traft
+1 Inquisition of Kozilek
+1 Swamp
+1 Kaya's Guile
+1 Thoughtseize
 1 Fatal Push
 1 Godless Shrine
 1 Concealed Courtyard
-1 Swamp
 1 Marsh Flats
-1 Kaya's Guile
-1 Geist of Saint Traft
-1 Thoughtseize
-1 Inquisition of Kozilek
+2 Geist of Saint Traft
+2 Watery Grave
+2 Inquisition of Kozilek
 2 Swamp
+2 Kaya's Guile
+2 Thoughtseize
 2 Fatal Push
-2 Godless Shrine
 2 Concealed Courtyard
 2 Marsh Flats
-2 Watery Grave
-2 Kaya's Guile
-2 Geist of Saint Traft
-2 Thoughtseize
-2 Inquisition of Kozilek
-3 Concealed Courtyard
-3 Marsh Flats
+2 Godless Shrine
 3 Geist of Saint Traft
 3 Inquisition of Kozilek
-4 Marsh Flats
+3 Concealed Courtyard
+3 Marsh Flats
 4 Inquisition of Kozilek
+4 Marsh Flats
 1 Teferi, Hero of Dominaria
 1 Solitude
 2 Solitude
@@ -38,14 +38,14 @@
 1 Field of Ruin
 1 Supreme Verdict
 2 Field of Ruin
-1 Mountain
 1 Electrolyze
 1 Brazen Borrower
+1 Mountain
 1 Faithful Mending
 1 Sacred Foundry
 1 Lightning Helix
-2 Lightning Helix
 2 Celestial Colonnade
+2 Lightning Helix
 2 Supreme Verdict
 3 Force of Negation
 3 Lightning Helix
@@ -53,8 +53,8 @@
 1 Spreading Seas
 2 Mystic Gate
 2 Spreading Seas
-3 Mystic Gate
 3 Spreading Seas
+3 Mystic Gate
 4 Spreading Seas
 2 Spirebluff Canal
 3 Spirebluff Canal
@@ -69,14 +69,14 @@
 1 Creeping Tar Pit
 1 Liliana of the Veil
 2 Liliana of the Veil
-1 Castle Locthwain
 1 Drowned Catacomb
+1 Mana Leak
 1 Damn
 1 Dakkon, Shadow Slayer
-1 Mana Leak
+1 Castle Locthwain
 1 Sunken Ruins
-2 Damn
 2 Mana Leak
+2 Damn
 3 Fatal Push
 1 Sanctum Prelate
 1 Rest in Peace
@@ -94,51 +94,51 @@
 2 Spell Queller
 1 Ajani Vengeant
 2 Faithful Mending
-1 Murktide Regent
+1 Snow-Covered Island
 1 The Royal Scions
 1 Shark Typhoon
-1 Snow-Covered Island
+1 Murktide Regent
 2 Sanctum Prelate
 1 Zagoth Triome
 1 Hengegate Pathway
 3 Seachrome Coast
+4 Spirebluff Canal
 2 Glacial Fortress
 3 Polluted Delta
 4 Polluted Delta
-4 Spirebluff Canal
+1 Cryptic Command
 1 Castle Ardenvale
 1 Fact or Fiction
-1 Cryptic Command
-2 Teferi, Hero of Dominaria
 2 Cryptic Command
+2 Teferi, Hero of Dominaria
 3 Plains
 3 Field of Ruin
 3 Path to Exile
-4 Island
-4 Field of Ruin
 4 Plains
 4 Path to Exile
-1 Noble Hierarch
-1 Birds of Paradise
+4 Field of Ruin
+4 Island
 1 Waterlogged Grove
-1 Endurance
-1 Temple Garden
 1 Windswept Heath
 1 Breeding Pool
-1 Botanical Sanctum
 1 Forest
-2 Endurance
+1 Noble Hierarch
+1 Temple Garden
+1 Endurance
+1 Birds of Paradise
+1 Botanical Sanctum
+2 Breeding Pool
 2 Noble Hierarch
+2 Windswept Heath
+2 Endurance
 2 Birds of Paradise
 2 Waterlogged Grove
-2 Windswept Heath
-2 Breeding Pool
 2 Botanical Sanctum
-3 Noble Hierarch
-3 Spell Queller
-3 Endurance
-3 Misty Rainforest
 3 Windswept Heath
-4 Noble Hierarch
-4 Misty Rainforest
+3 Misty Rainforest
+3 Noble Hierarch
+3 Endurance
 4 Windswept Heath
+4 Misty Rainforest
+4 Noble Hierarch
+3 Spell Queller
