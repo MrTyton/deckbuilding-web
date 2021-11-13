@@ -1,49 +1,49 @@
-3 Mountain
+3 Scalding Tarn
+4 Mountain
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
 4 Manamorphose
-4 Mountain
 1 Stormwing Entity
 2 Stormwing Entity
 3 Stormwing Entity
 1 Mutagenic Growth
 2 Mutagenic Growth
 3 Steam Vents
-1 Wooded Foothills
-2 Sunbaked Canyon
 1 Sprite Dragon
 2 Sprite Dragon
-2 Bloodstained Mire
+1 Wooded Foothills
+2 Sunbaked Canyon
 1 Bedlam Reveler
+5 Mountain
 2 Wooded Foothills
+2 Bloodstained Mire
 3 Bloodstained Mire
 3 Sunbaked Canyon
 1 Unholy Heat
 2 Unholy Heat
-5 Mountain
 4 Steam Vents
 4 Bloodstained Mire
+6 Mountain
 1 Firebolt
 2 Firebolt
 3 Firebolt
-6 Mountain
-4 Arid Mesa
 1 Bonecrusher Giant
 1 Den of the Bugbear
-1 Abbot of Keral Keep
 2 Bonecrusher Giant
 2 Den of the Bugbear
-2 Abbot of Keral Keep
 3 Bonecrusher Giant
 3 Den of the Bugbear
-3 Abbot of Keral Keep
 4 Den of the Bugbear
 4 Bonecrusher Giant
-4 Firebolt
-4 Abbot of Keral Keep
 7 Mountain
 8 Mountain
+4 Arid Mesa
+1 Abbot of Keral Keep
+2 Abbot of Keral Keep
+3 Abbot of Keral Keep
+4 Firebolt
+4 Abbot of Keral Keep
 9 Mountain
 10 Mountain
 11 Mountain
@@ -64,14 +64,13 @@
 3 Island
 4 Consider
 4 Sulfur Falls
-1 Reckless Charge
-2 Reckless Charge
-4 Mutagenic Growth
-4 Inspiring Vantage
 1 Pyrite Spellbomb
 2 Pyrite Spellbomb
 3 Pyrite Spellbomb
 4 Pyrite Spellbomb
+1 Reckless Charge
+2 Reckless Charge
+4 Mutagenic Growth
 1 Shadowspear
 1 Assault Strobe
 3 Reckless Charge
@@ -92,6 +91,7 @@
 3 Fiery Islet
 3 Spirebluff Canal
 4 Spirebluff Canal
+4 Inspiring Vantage
 4 Sunbaked Canyon
 1 Strike It Rich
 2 Strike It Rich
@@ -103,7 +103,6 @@
 1 Blood Crypt
 1 Underworld Breach
 2 Underworld Breach
-3 Path to Exile
 1 Valakut Awakening
 1 Blood Moon
 1 Seasoned Pyromancer
@@ -124,6 +123,7 @@
 2 Relic of Progenitus
 3 Relic of Progenitus
 4 Relic of Progenitus
+4 Scalding Tarn
 1 Crash Through
 1 Clever Lumimancer
 2 Crash Through
@@ -131,8 +131,15 @@
 3 Sacred Foundry
 3 Clever Lumimancer
 3 Crash Through
-4 Crash Through
 4 Clever Lumimancer
+4 Crash Through
 4 Island
 5 Island
-4 Scalding Tarn
+1 Prismatic Vista
+1 Ramunap Ruins
+2 Prismatic Vista
+2 Ramunap Ruins
+3 Prismatic Vista
+3 Ramunap Ruins
+4 Prismatic Vista
+4 Ramunap Ruins
