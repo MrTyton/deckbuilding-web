@@ -34,9 +34,9 @@
 1 Counterspell
 3 Arid Mesa
 1 Restoration Angel
-1 Kaldra Compleat
 1 Sword of Fire and Ice
 1 Stoneforge Mystic
+1 Kaldra Compleat
 1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
@@ -53,24 +53,24 @@
 1 Undying Evil
 1 Malakir Rebirth
 1 Silent Clearing
-1 Concealed Courtyard
-1 Godless Shrine
 1 Shriekmaw
 1 Urborg, Tomb of Yawgmoth
 1 Swamp
+1 Concealed Courtyard
 1 Grief
 1 Tourach, Dread Cantor
+1 Godless Shrine
 1 Sword of Truth and Justice
 1 Emeria's Call
 1 Agadeem's Awakening
 2 Undying Evil
 2 Malakir Rebirth
-2 Godless Shrine
-2 Concealed Courtyard
 2 Tourach, Dread Cantor
 2 Silent Clearing
+2 Concealed Courtyard
 2 Persist
 2 Grief
+2 Godless Shrine
 2 Emeria's Call
 2 Agadeem's Awakening
 3 Silent Clearing
@@ -99,17 +99,17 @@
 2 Counterspell
 3 Counterspell
 4 Wall of Omens
+1 Castle Vantress
 1 Mystic Gate
 1 Omen of the Sea
-1 Castle Vantress
 1 Celestial Colonnade
 1 Archmage's Charm
-2 Omen of the Sea
-2 Island
-2 Archmage's Charm
 2 Hallowed Fountain
-3 Omen of the Sea
+2 Island
+2 Omen of the Sea
+2 Archmage's Charm
 3 Island
+3 Omen of the Sea
 3 Archmage's Charm
 4 Omen of the Sea
 4 Island
@@ -138,20 +138,20 @@
 1 Wish
 2 Wish
 3 Wish
-1 Chord of Calling
-1 Birds of Paradise
 1 Knight of Autumn
 1 Deputy of Detention
+1 Birds of Paradise
+1 Chord of Calling
 1 Wall of Blossoms
 1 Venser, Shaper Savant
 1 Soulherder
-2 Chord of Calling
-2 Birds of Paradise
 2 Wall of Blossoms
-3 Chord of Calling
+2 Birds of Paradise
+2 Chord of Calling
 3 Birds of Paradise
-4 Chord of Calling
+3 Chord of Calling
 4 Birds of Paradise
+4 Chord of Calling
 4 Aether Vial
 1 Hall of Storm Giants
 1 Castle Ardenvale
@@ -165,8 +165,8 @@
 3 Supreme Verdict
 5 Island
 1 Horizon Canopy
-1 Flagstones of Trokair
 1 Cleansing Wildfire
+1 Flagstones of Trokair
 2 Flagstones of Trokair
 2 Cleansing Wildfire
 3 Flagstones of Trokair
@@ -224,12 +224,12 @@
 1 Vendilion Clique
 1 Thassa, Deep-Dwelling
 1 Chalice of the Void
-2 Vendilion Clique
 2 Glacial Fortress
+2 Vendilion Clique
 2 Chalice of the Void
 3 Glacial Fortress
-3 Celestial Colonnade
 3 Vendilion Clique
+3 Celestial Colonnade
 3 Chalice of the Void
 3 Force of Negation
 1 Thrun, the Last Troll
@@ -292,8 +292,8 @@
 3 Marsh Flats
 3 Mountain
 4 Snow-Covered Plains
-4 Seasoned Pyromancer
 4 Blood Moon
+4 Seasoned Pyromancer
 4 Marsh Flats
 4 Prismatic Vista
 5 Snow-Covered Plains
@@ -315,8 +315,8 @@
 1 Gavony Dawnguard
 2 Ambitious Farmhand
 2 Castle Ardenvale
-2 Blast Zone
 2 Gavony Dawnguard
+2 Blast Zone
 3 Ambitious Farmhand
 3 Gavony Dawnguard
 3 Flickerwisp

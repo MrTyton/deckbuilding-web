@@ -12,14 +12,14 @@
 3 Infernal Grasp
 2 Woodland Chasm
 3 Felidar Retreat
-1 Snow-Covered Plains
 1 Snow-Covered Forest
+1 Snow-Covered Plains
 1 Snow-Covered Swamp
 2 Snow-Covered Forest
 2 Snow-Covered Swamp
 1 The Meathook Massacre
-3 Overgrown Farmland
 3 Prosperous Innkeeper
+3 Overgrown Farmland
 3 Esika's Chariot
 4 Prosperous Innkeeper
 4 Overgrown Farmland
@@ -36,8 +36,8 @@
 2 The Meathook Massacre
 1 Tovolar's Huntmaster
 1 Path to the Festival
-2 Path to the Festival
 2 Tovolar's Huntmaster
+2 Path to the Festival
 1 Soul Shatter
 3 Woodland Chasm
 4 Esika's Chariot
@@ -57,9 +57,9 @@
 4 Wrenn and Seven
 4 Infernal Grasp
 1 Skeletal Swarming
-2 Power Word Kill
 2 Skeletal Swarming
 2 Toski, Bearer of Secrets
+2 Power Word Kill
 3 Bloodchief's Thirst
 3 Swamp
 4 Swamp
@@ -73,114 +73,114 @@
 2 Arctic Treeline
 2 Blood on the Snow
 4 Woodland Chasm
-1 Tainted Adversary
-2 Tainted Adversary
-3 Tainted Adversary
 1 Eradicator Valkyrie
-1 Westgate Regent
 1 Gisa, Glorious Resurrector
-1 Graveyard Trespasser
 1 Witherbloom Command
 1 Skyclave Shade
+1 Westgate Regent
+1 Graveyard Trespasser
 1 Jadar, Ghoulcaller of Nephalia
 1 Nighthawk Scavenger
-2 Jadar, Ghoulcaller of Nephalia
 2 Westgate Regent
 2 Gisa, Glorious Resurrector
 2 Graveyard Trespasser
 2 Skyclave Shade
 2 Soul Shatter
+2 Jadar, Ghoulcaller of Nephalia
 2 Eradicator Valkyrie
 3 Hive of the Eye Tyrant
-1 Brutal Cathar
-1 Portable Hole
-1 Elite Spellbinder
-1 Tangled Florahedron
-2 Tangled Florahedron
-2 Brutal Cathar
-2 Elite Spellbinder
-3 Brutal Cathar
-3 Tangled Florahedron
-3 Elite Spellbinder
-4 Brutal Cathar
-4 Tangled Florahedron
+1 Tainted Adversary
+2 Tainted Adversary
+3 Tainted Adversary
 3 Path to the Festival
 4 Path to the Festival
 1 Snowfield Sinkhole
-1 Ashaya, Soul of the Wild
-1 Tergrid, God of Fright
 1 Crawling Barrens
+1 Ashaya, Soul of the Wild
 1 Go Blank
+1 Tergrid, God of Fright
 2 Snowfield Sinkhole
-2 Tergrid, God of Fright
+2 Crawling Barrens
 2 Ashaya, Soul of the Wild
 2 Go Blank
-2 Crawling Barrens
+2 Tergrid, God of Fright
 3 Snowfield Sinkhole
 3 Power Word Kill
 3 Ranger Class
 4 Bloodchief's Thirst
+1 Bala Ged Recovery
+1 Professor of Symbology
+1 Skyclave Apparition
+1 Froghemoth
+2 Bala Ged Recovery
+2 Professor of Symbology
+2 Vorinclex, Monstrous Raider
+2 Froghemoth
+2 Skyclave Apparition
+3 Skyclave Apparition
+3 Professor of Symbology
+3 Arctic Treeline
+3 Snow-Covered Plains
+3 Doomskar
+3 Nissa of Shadowed Boughs
+3 Bala Ged Recovery
+4 Skyclave Apparition
+4 Evolving Wilds
+4 Professor of Symbology
+4 Arctic Treeline
+4 Snow-Covered Plains
+4 Doomskar
 1 Kaya the Inexorable
 1 Valki, God of Lies
 1 Liesa, Forgotten Archangel
 1 Highland Forest
 2 Kaya the Inexorable
 2 Valki, God of Lies
-3 Valki, God of Lies
 3 Yasharn, Implacable Earth
 3 Plains
+3 Valki, God of Lies
 3 Fateful Absence
 4 Fateful Absence
-1 Professor of Symbology
-1 Skyclave Apparition
-1 Bala Ged Recovery
-1 Froghemoth
-2 Professor of Symbology
-2 Bala Ged Recovery
-2 Froghemoth
-2 Vorinclex, Monstrous Raider
-2 Skyclave Apparition
-3 Skyclave Apparition
-3 Snow-Covered Plains
-3 Professor of Symbology
-3 Arctic Treeline
-3 Doomskar
-3 Nissa of Shadowed Boughs
-3 Bala Ged Recovery
-4 Skyclave Apparition
-4 Snow-Covered Plains
-4 Professor of Symbology
-4 Arctic Treeline
-4 Doomskar
-4 Evolving Wilds
-1 Baleful Mastery
-1 Hunt for Specimens
-1 Duress
-1 Field of Ruin
-1 Field Trip
-1 Harness Infinity
-1 Roiling Regrowth
-2 Hunt for Specimens
-2 Duress
-2 Roiling Regrowth
-2 Field Trip
-2 Scute Swarm
-3 Duress
-3 Scute Swarm
-3 Roiling Regrowth
-4 Roiling Regrowth
-5 Forest
-6 Forest
-7 Forest
-1 Primal Adversary
+1 Portable Hole
+1 Elite Spellbinder
+1 Tangled Florahedron
+1 Brutal Cathar
+2 Tangled Florahedron
+2 Brutal Cathar
+2 Elite Spellbinder
+3 Brutal Cathar
+3 Elite Spellbinder
+3 Tangled Florahedron
+4 Brutal Cathar
+4 Tangled Florahedron
 1 Emergent Sequence
-2 Primal Adversary
+1 Primal Adversary
 2 Emergent Sequence
-3 Primal Adversary
+2 Primal Adversary
 3 Emergent Sequence
-4 Primal Adversary
+3 Primal Adversary
 4 Storm the Festival
 4 Emergent Sequence
+4 Primal Adversary
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest
+1 Field Trip
+1 Baleful Mastery
+1 Duress
+1 Field of Ruin
+1 Hunt for Specimens
+1 Harness Infinity
+1 Roiling Regrowth
+2 Field Trip
+2 Duress
+2 Hunt for Specimens
+2 Roiling Regrowth
+2 Scute Swarm
+3 Scute Swarm
+3 Duress
+3 Roiling Regrowth
+4 Roiling Regrowth
+5 Forest
+7 Forest
+6 Forest

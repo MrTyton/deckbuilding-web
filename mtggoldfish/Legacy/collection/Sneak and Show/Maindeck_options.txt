@@ -1,12 +1,12 @@
 2 Flooded Strand
-1 Snow-Covered Island
 2 Polluted Delta
+1 Snow-Covered Island
 1 Intuition
 1 Omniscience
-2 Snow-Covered Island
 2 Omniscience
-3 Snow-Covered Island
+2 Snow-Covered Island
 1 Mountain
+3 Snow-Covered Island
 1 Boseiju, Who Shelters All
 1 Snow-Covered Mountain
 3 Omniscience
@@ -30,6 +30,9 @@
 1 Flusterstorm
 1 Prismatic Vista
 2 Prismatic Vista
+1 Misdirection
+2 Misdirection
+4 Flooded Strand
 1 Blood Moon
 1 Pyroblast
 1 Red Elemental Blast
@@ -38,14 +41,11 @@
 2 Red Elemental Blast
 3 Blood Moon
 4 Island
-1 Misdirection
-2 Misdirection
-4 Flooded Strand
 1 Bloodstained Mire
-1 Crystal Vein
 1 Seething Song
 1 Trinisphere
 1 Through the Breach
+1 Crystal Vein
 1 Elvish Spirit Guide
 1 Worldspine Wurm
 2 Seething Song

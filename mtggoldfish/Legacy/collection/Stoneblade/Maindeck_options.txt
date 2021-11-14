@@ -1,38 +1,38 @@
 4 Scalding Tarn
-3 Murktide Regent
 4 Wasteland
+3 Murktide Regent
 2 Lightning Bolt
 1 Arid Mesa
-1 Snapcaster Mage
-1 Polluted Delta
 3 Tundra
-2 Island
-1 Teferi, Time Raveler
+1 Polluted Delta
+1 Snapcaster Mage
 1 Snow-Covered Plains
+1 Teferi, Time Raveler
 1 Snow-Covered Island
-2 Polluted Delta
+2 Island
 1 Prismatic Vista
+2 Polluted Delta
+2 Teferi, Time Raveler
+1 Misty Rainforest
 2 Snapcaster Mage
 1 Delver of Secrets
 2 Delver of Secrets
 3 Lightning Bolt
 3 Delver of Secrets
 4 Delver of Secrets
-2 Teferi, Time Raveler
-1 Misty Rainforest
 1 Narset, Parter of Veils
 1 Underground Sea
+2 Misty Rainforest
 2 Arid Mesa
 1 Expressive Iteration
 1 Mountain
 2 Jace, the Mind Sculptor
 2 Plains
 2 Force of Negation
-2 Misty Rainforest
-1 Flusterstorm
+1 Spell Pierce
+2 Snow-Covered Island
 2 Expressive Iteration
 2 Prismatic Vista
-1 Spell Pierce
 3 Island
 4 Island
 3 Polluted Delta
@@ -40,10 +40,10 @@
 1 Narcomoeba
 1 Thassa's Oracle
 1 Mother of Runes
+1 Shuko
 1 Aether Vial
 1 Nomads en-Kor
 1 Cavern of Souls
-1 Shuko
 1 Dread Return
 1 Cephalid Illusionist
 2 Cabal Therapy
@@ -56,9 +56,16 @@
 3 Narcomoeba
 3 Aether Vial
 4 Cephalid Illusionist
-2 Snow-Covered Island
+1 Sword of Fire and Ice
+1 Tropical Island
+1 Snow-Covered Forest
+1 Uro, Titan of Nature's Wrath
+2 Uro, Titan of Nature's Wrath
+2 Tropical Island
+3 Misty Rainforest
+4 Misty Rainforest
 3 Arid Mesa
-1 Preordain
+1 Flusterstorm
 3 Expressive Iteration
 3 Mother of Runes
 3 Nomads en-Kor
@@ -71,14 +78,9 @@
 2 Urza's Saga
 3 Urza's Saga
 3 Snow-Covered Island
-1 Sword of Fire and Ice
-1 Tropical Island
-1 Snow-Covered Forest
-1 Uro, Titan of Nature's Wrath
-2 Uro, Titan of Nature's Wrath
-2 Tropical Island
-3 Misty Rainforest
-4 Misty Rainforest
+1 Savannah
+1 Sylvan Library
+1 Preordain
 1 Drown in the Loch
 1 Swamp
 1 Baleful Strix
@@ -89,37 +91,35 @@
 4 Urza's Saga
 1 Snow-Covered Mountain
 1 Pyroblast
-3 True-Name Nemesis
 1 Back to Basics
 2 Back to Basics
 1 Noble Hierarch
 1 Windswept Heath
-1 Savannah
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
 1 Engineered Explosives
-1 Sylvan Library
+1 Endurance
+2 Endurance
+2 Snow-Covered Forest
 2 Sylvan Library
 3 Uro, Titan of Nature's Wrath
 3 Snapcaster Mage
-1 Hullbreacher
 1 Relic of Progenitus
 1 Shark Typhoon
-1 Young Pyromancer
-2 Young Pyromancer
 1 Recruiter of the Guard
 2 Recruiter of the Guard
+1 Abundant Harvest
+1 Veil of Summer
+2 Abundant Harvest
+1 Young Pyromancer
+2 Young Pyromancer
 2 Spell Pierce
 2 Flusterstorm
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-1 Abundant Harvest
-1 Endurance
-1 Veil of Summer
-2 Abundant Harvest
-2 Endurance
-2 Snow-Covered Forest
+1 Hullbreacher
+3 True-Name Nemesis
 1 Basilisk Collar
 1 Mishra's Bauble
 1 Dragon's Rage Channeler
@@ -137,6 +137,11 @@
 3 Sylvan Library
 4 Uro, Titan of Nature's Wrath
 4 Prismatic Ending
+1 Ice-Fang Coatl
+2 Ice-Fang Coatl
+3 Endurance
+3 Ice-Fang Coatl
+4 Ice-Fang Coatl
 4 Aether Vial
 1 Raugrin Triome
 1 Vendilion Clique

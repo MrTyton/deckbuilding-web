@@ -34,11 +34,11 @@
 1 Skullport Merchant
 2 Shambling Ghast
 2 Skullport Merchant
-3 Shambling Ghast
 3 Swamp
-4 Deadly Dispute
-4 Shambling Ghast
+3 Shambling Ghast
 4 Swamp
+4 Shambling Ghast
+4 Deadly Dispute
 5 Swamp
 6 Swamp
 7 Swamp
@@ -62,52 +62,51 @@
 1 Fading Hope
 3 Dragon's Fire
 1 Snow-Covered Swamp
-1 Snow-Covered Mountain
-1 Snow-Covered Island
 1 Snow-Covered Plains
+1 Snow-Covered Island
+1 Snow-Covered Mountain
 1 Divide by Zero
-2 Snow-Covered Mountain
 2 Snow-Covered Island
+2 Snow-Covered Mountain
 3 Snow-Covered Island
 4 Snow-Covered Island
-1 Temple of the Dragon Queen
-1 Immersturm Predator
-1 Moonveil Regent
+1 Emeria's Call
+1 Cave of the Frost Dragon
+1 Faceless Haven
 1 Magda, Brazen Outlaw
-1 Adult Gold Dragon
 1 Inferno of the Star Mounts
 1 Hengegate Pathway
 1 Orb of Dragonkind
-1 Cave of the Frost Dragon
 1 Burn Down the House
-1 Emeria's Call
-1 Faceless Haven
+1 Moonveil Regent
+1 Temple of the Dragon Queen
+1 Immersturm Predator
+1 Adult Gold Dragon
+2 Snow-Covered Plains
+2 Magda, Brazen Outlaw
 2 Shatterskull Smashing
+2 Moonveil Regent
+2 Orb of Dragonkind
 2 Temple of the Dragon Queen
 2 Burn Down the House
-2 Moonveil Regent
-2 Magda, Brazen Outlaw
-2 Orb of Dragonkind
 2 Divide by Zero
-2 Snow-Covered Plains
-3 Snow-Covered Mountain
 3 Snow-Covered Plains
+3 Snow-Covered Mountain
 3 Orb of Dragonkind
-4 Smoldering Egg
-4 Dragon's Fire
-4 Snow-Covered Mountain
 4 Snow-Covered Plains
+4 Snow-Covered Mountain
+4 Dragon's Fire
 4 Orb of Dragonkind
-1 Galazeth Prismari
+4 Smoldering Egg
 1 Crippling Fear
-1 Bloodchief's Thirst
 1 Burning Hands
+1 Bloodchief's Thirst
 1 Hunt for Specimens
 1 Expressive Iteration
 1 Negate
 1 Baleful Mastery
+1 Galazeth Prismari
 1 Soul Shatter
-2 Galazeth Prismari
 2 Soul Shatter
 2 Burning Hands
 2 Memory Deluge
@@ -115,36 +114,37 @@
 2 Hunt for Specimens
 2 Negate
 2 Expressive Iteration
-3 Hunt for Specimens
+2 Galazeth Prismari
 3 Expressive Iteration
+3 Hunt for Specimens
 4 Expressive Iteration
-1 Curate
 1 Malevolent Hermit
 1 Electric Revelation
 1 Haunting Voyage
-2 Cathartic Pyre
-2 Prismari Campus
-2 Curate
+1 Curate
 2 Malevolent Hermit
 2 Haunting Voyage
+2 Prismari Campus
 2 Electric Revelation
-3 Prismari Campus
-3 Cathartic Pyre
+2 Curate
+2 Cathartic Pyre
 3 Shadows' Verdict
 3 Malevolent Hermit
-4 Shipwreck Marsh
-4 Prismari Campus
-4 Prismari Command
+3 Prismari Campus
+3 Cathartic Pyre
 4 Malevolent Hermit
+4 Shipwreck Marsh
 4 Shadows' Verdict
+4 Prismari Campus
 4 Cathartic Pyre
-1 Frostboil Snarl
+4 Prismari Command
 1 Draconic Intervention
 1 Magma Opus
 1 Demon Bolt
 1 Creative Outburst
 1 Torrent Sculptor
 1 Surtland Frostpyre
+1 Frostboil Snarl
 1 Plains
 2 Field of Ruin
 2 Draconic Intervention
@@ -158,85 +158,85 @@
 3 Torrent Sculptor
 4 Torrent Sculptor
 4 Magma Opus
-1 Kalain, Reclusive Painter
-1 Sulfurous Mire
 1 Show of Confidence
-2 Kalain, Reclusive Painter
+1 Sulfurous Mire
+1 Kalain, Reclusive Painter
 2 Show of Confidence
 2 Sulfurous Mire
+2 Kalain, Reclusive Painter
 3 Kalain, Reclusive Painter
 3 Sulfurous Mire
 3 Show of Confidence
+4 Alrund's Epiphany
 4 Kalain, Reclusive Painter
 4 Show of Confidence
-4 Alrund's Epiphany
 4 Sulfurous Mire
 6 Mountain
 1 Eyetwitch
 2 Eyetwitch
-1 Eaten Alive
-1 Necroblossom Snarl
-1 Prosperous Innkeeper
-1 Disdainful Stroke
-1 Cragcrown Pathway
-1 Darkbore Pathway
-1 Vineglimmer Snarl
-1 Rockfall Vale
-1 Barkchannel Pathway
-2 Eaten Alive
-2 The Meathook Massacre
-2 Prosperous Innkeeper
-2 Darkbore Pathway
-2 Cragcrown Pathway
-2 Rockfall Vale
-3 Eaten Alive
-3 Prosperous Innkeeper
-3 Saw It Coming
-4 Eaten Alive
-4 Saw It Coming
-4 Prosperous Innkeeper
-10 Swamp
-1 Otherworldly Gaze
-1 Wrenn and Seven
-1 Snow-Covered Forest
+1 Lier, Disciple of the Drowned
 1 Hagra Mauling
 1 Blood on the Snow
+1 Wrenn and Seven
+1 Demonic Bargain
+1 Otherworldly Gaze
+1 Seize the Storm
+1 Snow-Covered Forest
+1 Path to the Festival
 1 Volatile Fjord
 1 Woodland Chasm
-1 Demonic Bargain
-1 Lier, Disciple of the Drowned
-1 Seize the Storm
-1 Path to the Festival
 1 Path of Peril
 1 Arcane Infusion
-2 Otherworldly Gaze
 2 Snow-Covered Swamp
 2 Blood on the Snow
-2 Volatile Fjord
-2 Snow-Covered Forest
+2 Wrenn and Seven
+2 Otherworldly Gaze
 2 Path of Peril
 2 Woodland Chasm
-2 Wrenn and Seven
 2 Path to the Festival
+2 Volatile Fjord
 2 Arcane Infusion
 2 Demonic Bargain
 2 Seize the Storm
-3 Otherworldly Gaze
-3 Volatile Fjord
+2 Snow-Covered Forest
 3 Snow-Covered Swamp
-3 Snow-Covered Forest
 3 Seize the Storm
 3 Path of Peril
 3 Demonic Bargain
+3 Otherworldly Gaze
 3 Arcane Infusion
+3 Snow-Covered Forest
+3 Volatile Fjord
 3 Path to the Festival
-4 Otherworldly Gaze
 4 Snow-Covered Forest
+4 Snow-Covered Swamp
 4 Demonic Bargain
 4 Seize the Storm
-4 Snow-Covered Swamp
 4 Path to the Festival
+4 Otherworldly Gaze
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island
 8 Snow-Covered Island
+1 Barkchannel Pathway
+1 Rockfall Vale
+1 Disdainful Stroke
+1 Necroblossom Snarl
+1 Cragcrown Pathway
+1 Darkbore Pathway
+1 Vineglimmer Snarl
+1 Eaten Alive
+1 Prosperous Innkeeper
+2 The Meathook Massacre
+2 Rockfall Vale
+2 Darkbore Pathway
+2 Cragcrown Pathway
+2 Eaten Alive
+2 Prosperous Innkeeper
+3 Saw It Coming
+3 Prosperous Innkeeper
+3 Eaten Alive
+4 Saw It Coming
+4 Eaten Alive
+4 Prosperous Innkeeper
+10 Swamp
