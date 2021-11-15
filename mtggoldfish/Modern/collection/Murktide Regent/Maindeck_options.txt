@@ -1,21 +1,21 @@
 4 Counterspell
 2 Scalding Tarn
 3 Scalding Tarn
-2 Misty Rainforest
 1 Hallowed Fountain
 1 Prismatic Ending
 2 Prismatic Ending
 3 Prismatic Ending
+2 Misty Rainforest
 4 Scalding Tarn
-1 Snow-Covered Island
-2 Snow-Covered Island
 3 Flooded Strand
 1 Thought Scour
 2 Thought Scour
+1 Snow-Covered Island
+2 Snow-Covered Island
 2 Hallowed Fountain
-3 Snow-Covered Island
-4 Flooded Strand
 2 Archmage's Charm
+4 Flooded Strand
+3 Snow-Covered Island
 4 Prismatic Ending
 1 Spell Snare
 4 Lightning Bolt
@@ -33,9 +33,12 @@
 1 Seachrome Coast
 1 Raugrin Triome
 2 Teferi, Time Raveler
+3 Polluted Delta
 1 Tarfire
 2 Spell Snare
 3 Fiery Islet
+4 Misty Rainforest
+4 Serum Visions
 1 Prismatic Vista
 1 Sulfur Falls
 1 Fury
@@ -46,7 +49,5 @@
 3 Snapcaster Mage
 4 Island
 5 Island
-6 Island
 7 Island
-4 Misty Rainforest
-4 Serum Visions
+6 Island

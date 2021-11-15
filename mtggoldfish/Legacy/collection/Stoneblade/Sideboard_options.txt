@@ -1,16 +1,16 @@
-1 Batterskull
-2 Wear/Tear
+1 Ethersworn Canonist
+1 Hydroblast
 3 Pyroblast
-1 Pithing Needle
-2 Flusterstorm
 1 Meltdown
 1 Blazing Volley
-1 Hydroblast
-1 Deafening Silence
+2 Wear/Tear
+2 Flusterstorm
 2 Engineered Explosives
+1 Deafening Silence
 1 Cataclysm
 2 Cataclysm
 1 Torpor Orb
+1 Pithing Needle
 1 Grafdigger's Cage
 1 Swords to Plowshares
 1 Fury
@@ -24,10 +24,6 @@
 1 Sulfur Elemental
 1 Blood Moon
 2 Rest in Peace
-1 Carpet of Flowers
-2 Carpet of Flowers
-2 Ethersworn Canonist
-1 Veil of Summer
 1 Lightning Bolt
 1 Palace Jailer
 2 Pithing Needle
@@ -36,14 +32,13 @@
 2 Plague Engineer
 2 Swords to Plowshares
 3 Swords to Plowshares
-1 Endurance
 2 Red Elemental Blast
 2 Torpor Orb
 1 Umezawa's Jitte
 1 Forked Bolt
+1 Carpet of Flowers
+2 Carpet of Flowers
 2 Blood Moon
-1 Force of Vigor
-1 Court of Grace
 2 Prismatic Ending
 1 Brazen Borrower
 1 Leyline of the Void
@@ -51,12 +46,14 @@
 2 True-Name Nemesis
 2 Leyline of the Void
 3 Leyline of the Void
-1 Null Rod
 2 Force of Negation
 1 Skyclave Apparition
+1 Court of Grace
 3 Surgical Extraction
 2 Containment Priest
-2 Veil of Summer
+2 Ethersworn Canonist
+1 Veil of Summer
+1 Endurance
 2 Endurance
 1 Council's Judgment
 1 Pyroclasm
@@ -65,14 +62,11 @@
 1 Meekstone
 1 Alpine Moon
 1 Narset, Parter of Veils
-1 Ethereal Forager
-1 Unholy Heat
-1 Karakas
 1 Volcanic Island
-1 Terminus
-2 Terminus
+1 Force of Vigor
 2 Sulfur Elemental
 2 Abrade
+1 Null Rod
 1 Life from the Loam
 2 Court of Grace
 1 Lavinia, Azorius Renegade
@@ -95,6 +89,7 @@
 3 Prismatic Ending
 1 Ceremonious Rejection
 2 Ceremonious Rejection
+2 Veil of Summer
 3 Carpet of Flowers
 3 Endurance
 3 Meddling Mage
