@@ -2,8 +2,8 @@
 1 Hydroblast
 3 Pyroblast
 1 Meltdown
-1 Blazing Volley
 2 Wear/Tear
+1 Blazing Volley
 2 Flusterstorm
 2 Engineered Explosives
 1 Deafening Silence
@@ -11,35 +11,37 @@
 2 Cataclysm
 1 Torpor Orb
 1 Pithing Needle
-1 Grafdigger's Cage
+1 Blood Moon
+2 Rest in Peace
 1 Swords to Plowshares
+1 Grafdigger's Cage
 1 Fury
 1 Court of Cunning
 1 Grim Lavamancer
 1 Blue Elemental Blast
 1 Abrade
+2 Blood Moon
 2 Deafening Silence
 2 Grafdigger's Cage
 1 Izzet Staticaster
 1 Sulfur Elemental
-1 Blood Moon
-2 Rest in Peace
+2 Swords to Plowshares
+3 Swords to Plowshares
 1 Lightning Bolt
+2 Red Elemental Blast
 1 Palace Jailer
 2 Pithing Needle
 1 Hullbreacher
 1 Plague Engineer
 2 Plague Engineer
-2 Swords to Plowshares
-3 Swords to Plowshares
-2 Red Elemental Blast
-2 Torpor Orb
+2 Prismatic Ending
 1 Umezawa's Jitte
+1 Monastery Mentor
+2 Monastery Mentor
+2 Torpor Orb
 1 Forked Bolt
 1 Carpet of Flowers
 2 Carpet of Flowers
-2 Blood Moon
-2 Prismatic Ending
 1 Brazen Borrower
 1 Leyline of the Void
 1 True-Name Nemesis
@@ -52,9 +54,13 @@
 3 Surgical Extraction
 2 Containment Priest
 2 Ethersworn Canonist
+1 Relic of Progenitus
+2 Relic of Progenitus
+1 Thassa's Oracle
 1 Veil of Summer
 1 Endurance
 2 Endurance
+4 Swords to Plowshares
 1 Council's Judgment
 1 Pyroclasm
 1 Snapcaster Mage
@@ -64,6 +70,10 @@
 1 Narset, Parter of Veils
 1 Volcanic Island
 1 Force of Vigor
+1 Soul-Guide Lantern
+1 Thoughtseize
+1 Thran Foundry
+2 Thoughtseize
 2 Sulfur Elemental
 2 Abrade
 1 Null Rod
@@ -78,11 +88,7 @@
 2 Supreme Verdict
 2 Back to Basics
 2 Fury
-1 Relic of Progenitus
-2 Relic of Progenitus
 3 Ethersworn Canonist
-1 Monastery Mentor
-2 Monastery Mentor
 3 Rest in Peace
 1 Teferi, Time Raveler
 2 Skyclave Apparition
@@ -93,10 +99,10 @@
 3 Carpet of Flowers
 3 Endurance
 3 Meddling Mage
-1 Soul-Guide Lantern
-1 Thoughtseize
-1 Thran Foundry
-2 Thoughtseize
-4 Swords to Plowshares
-1 Thassa's Oracle
+1 Paradigm Shift
+2 Thassa's Oracle
+2 Paradigm Shift
+3 Paradigm Shift
+3 Thassa's Oracle
+4 Paradigm Shift
 3 True-Name Nemesis

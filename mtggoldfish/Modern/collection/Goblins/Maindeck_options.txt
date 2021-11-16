@@ -1,21 +1,22 @@
 1 Goblin Chieftain
 4 Boggart Harbinger
+3 Unclaimed Territory
 4 Goblin Ringleader
 3 Wooded Foothills
 4 Wooded Foothills
-3 Unclaimed Territory
 1 Tarfire
 3 Blood Crypt
-1 Krenko, Mob Boss
 4 Unclaimed Territory
+1 Krenko, Mob Boss
 3 Skirk Prospector
 3 Mogg War Marshal
 1 Arid Mesa
 1 Fiery Islet
-2 Arid Mesa
 2 Stomping Ground
-2 Goblin Chieftain
 2 Swamp
+2 Arid Mesa
+1 Battle Cry Goblin
+2 Goblin Chieftain
 1 Dragonskull Summit
 1 Sunbaked Canyon
 2 Dragonskull Summit
@@ -23,12 +24,11 @@
 4 Dragonskull Summit
 4 Mountain
 1 Goblin Trashmaster
-1 Battle Cry Goblin
 2 Goblin Cratermaker
-4 Skirk Prospector
 4 Blood Crypt
-2 Goblin Warchief
+4 Skirk Prospector
 1 Forest
+2 Goblin Warchief
 1 Rootbound Crag
 2 Rootbound Crag
 1 Unearth
@@ -62,8 +62,8 @@
 1 Murderous Redcap
 1 Grumgully, the Generous
 2 Grumgully, the Generous
-1 Ancient Ziggurat
 1 Grist, the Hunger Tide
+1 Ancient Ziggurat
 1 Graven Cairns
 1 Mogg Fanatic
 2 Ancient Ziggurat
@@ -84,6 +84,8 @@
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
+3 Stomping Ground
+4 Stomping Ground
 1 Foundry Street Denizen
 1 Embercleave
 1 Goblin Javelineer
