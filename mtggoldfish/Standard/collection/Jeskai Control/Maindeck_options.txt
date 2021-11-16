@@ -99,8 +99,8 @@
 2 Snow-Covered Island
 2 Snow-Covered Mountain
 2 Inferno of the Star Mounts
-3 Snow-Covered Island
 3 Snow-Covered Mountain
+3 Snow-Covered Island
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 1 Sea Gate Restoration
@@ -130,8 +130,8 @@
 2 Draconic Intervention
 1 Cathartic Pyre
 2 Cathartic Pyre
-3 Starnheim Unleashed
 3 Cathartic Pyre
+3 Starnheim Unleashed
 1 Rip Apart
 2 Demon Bolt
 2 Sacred Fire
@@ -148,9 +148,9 @@
 3 Magma Opus
 3 Creative Outburst
 1 Volatile Fjord
+1 Arcane Infusion
 1 Treasure Vault
 1 Gates of Istfell
-1 Arcane Infusion
 1 Malevolent Hermit
 1 Ondu Inversion
 2 Malevolent Hermit
@@ -161,8 +161,8 @@
 1 Monk Class
 1 Burning Hands
 1 Unexpected Windfall
-2 Unexpected Windfall
 2 Monk Class
+2 Unexpected Windfall
 2 Burning Hands
 3 Unexpected Windfall
 3 Monk Class
@@ -173,6 +173,9 @@
 2 Valakut Awakening
 2 Furycalm Snarl
 3 Crush the Weak
+2 Sea Gate Restoration
+2 Disdainful Stroke
+4 Galvanic Iteration
 1 Glacial Floodplain
 1 Devastating Mastery
 1 Devious Cover-Up
@@ -180,10 +183,15 @@
 2 Devastating Mastery
 2 Devious Cover-Up
 4 Field of Ruin
-1 Seize the Storm
-3 Emeria's Call
-4 Starnheim Unleashed
 4 Codie, Vociferous Codex
+1 Poppet Stitcher
+1 Archon of Emeria
+2 Poppet Stitcher
+2 Archon of Emeria
+3 Archon of Emeria
+4 Smoldering Egg
+4 Jwari Disruption
+4 Archon of Emeria
 1 Reidane, God of the Worthy
 1 Consider
 2 Consider
@@ -191,34 +199,26 @@
 3 Consider
 4 Faithful Mending
 4 Consider
-2 Sea Gate Restoration
-2 Disdainful Stroke
-4 Galvanic Iteration
+1 Seize the Storm
+3 Emeria's Call
+4 Starnheim Unleashed
 1 Sejiri Shelter
 1 Kazuul's Fury
 2 Sejiri Shelter
 3 Adult Gold Dragon
 4 Orb of Dragonkind
-1 Poppet Stitcher
-1 Archon of Emeria
-2 Poppet Stitcher
-2 Archon of Emeria
-3 Archon of Emeria
-4 Jwari Disruption
-4 Archon of Emeria
-4 Smoldering Egg
 1 Brutal Cathar
 1 Blade Historian
 1 Bloodthirsty Adversary
-1 Angelfire Ignition
 1 Reckless Stormseeker
+1 Angelfire Ignition
 1 Intrepid Adversary
 2 Blade Historian
 2 Brutal Cathar
 2 Bloodthirsty Adversary
 2 Reckless Stormseeker
-2 Angelfire Ignition
 2 Intrepid Adversary
+2 Angelfire Ignition
 3 Brutal Cathar
 3 Angelfire Ignition
 3 Reckless Stormseeker

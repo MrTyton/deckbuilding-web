@@ -1,19 +1,19 @@
-4 Lightning Bolt
-4 Drown in the Loch
-3 Scalding Tarn
+1 Kolaghan's Command
+3 Dress Down
 4 Unholy Heat
-2 Kolaghan's Command
+4 Lightning Bolt
 1 Snow-Covered Mountain
 1 Snow-Covered Swamp
+2 Kolaghan's Command
 1 Terminate
 3 Blood Crypt
 3 Kroxa, Titan of Death's Hunger
 1 Temur Battle Rage
 1 Verdant Catacombs
 1 Wooded Foothills
-1 Stomping Ground
 1 Overgrown Tomb
 1 Tarmogoyf
+1 Stomping Ground
 2 Wooded Foothills
 2 Verdant Catacombs
 2 Tarmogoyf
@@ -23,8 +23,8 @@
 4 Verdant Catacombs
 4 Tarmogoyf
 1 Mutagenic Growth
-1 Dismember
 1 Gut Shot
+1 Dismember
 1 Monastery Swiftspear
 1 Become Immense
 2 Mutagenic Growth
@@ -38,23 +38,6 @@
 4 Mutagenic Growth
 4 Monastery Swiftspear
 4 Wooded Foothills
-1 Godless Shrine
-1 Marsh Flats
-1 Arid Mesa
-1 Prismatic Ending
-1 Sacred Foundry
-2 Marsh Flats
-2 Arid Mesa
-2 Prismatic Ending
-3 Marsh Flats
-3 Prismatic Ending
-1 Kaya's Guile
-1 Silent Clearing
-2 Kaya's Guile
-2 Terminate
-3 Kaya's Guile
-4 Kaya's Guile
-4 Marsh Flats
 4 Scalding Tarn
 1 Fiery Islet
 4 Dress Down
@@ -63,36 +46,53 @@
 4 Temur Battle Rage
 1 Snapcaster Mage
 1 Nurturing Peatland
+1 Marsh Flats
+1 Godless Shrine
+1 Arid Mesa
+1 Prismatic Ending
+1 Sacred Foundry
+2 Marsh Flats
+2 Arid Mesa
+2 Prismatic Ending
+3 Marsh Flats
+3 Prismatic Ending
 1 Shadow of Doubt
 1 Spell Pierce
 1 Abrupt Decay
 1 Apostle's Blessing
 1 Claim/Fame
 2 Snapcaster Mage
-1 Consider
-1 Bomat Courier
-2 Consider
-2 Bomat Courier
-3 Consider
-4 Consider
-1 Vindicate
-1 Tourach, Dread Cantor
-1 Snow-Covered Plains
-1 Savai Triome
-2 Godless Shrine
-2 Tourach, Dread Cantor
-2 Sacred Foundry
-4 Inquisition of Kozilek
-4 Blood Crypt
+1 Forest
 1 Wrenn and Six
 1 Scourge of the Skyclaves
 1 Seal of Fire
 1 Tarfire
 1 Unearth
 1 Dauthi Voidwalker
-1 Forest
 2 Wrenn and Six
 2 Scourge of the Skyclaves
 2 Dauthi Voidwalker
-3 Scourge of the Skyclaves
 2 Overgrown Tomb
+3 Scourge of the Skyclaves
+1 Consider
+1 Bomat Courier
+2 Consider
+2 Bomat Courier
+3 Consider
+4 Consider
+1 Savai Triome
+1 Tourach, Dread Cantor
+1 Snow-Covered Plains
+1 Vindicate
+2 Godless Shrine
+2 Tourach, Dread Cantor
+2 Sacred Foundry
+4 Blood Crypt
+4 Inquisition of Kozilek
+1 Kaya's Guile
+1 Silent Clearing
+2 Kaya's Guile
+2 Terminate
+4 Kaya's Guile
+4 Marsh Flats
+3 Kaya's Guile

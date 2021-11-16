@@ -44,11 +44,10 @@
 |                    1|[Light Up the Night](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534925)            |                     |              |
 |                    1|[Bloodline Culling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534857)             |                     |              |
 |                    1|[No Way Out](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534890)                    |                     |              |
-|                    1|Vengeful Strangler                                                                                       |                     |              |
 |                    1|[Reaper's Talisman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527404)             |                     |              |
 |                    1|[Delina, Wild Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527425)             |                     |              |
-|                    1|[Ebondeath, Dracolich](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527387)          |                     |              |
 |                    1|[Check for Traps](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527379)               |                     |              |
+|                    1|[Ebondeath, Dracolich](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527387)          |                     |              |
 |                    1|[Defenestrate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534865)                  |                     |              |
 |                    1|[Grim Wanderer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527394)                 |                     |              |
 |                    1|[Mask of Griselbrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534885)           |                     |              |
@@ -65,6 +64,7 @@
 |                    1|[Zalto, Fire Giant Duke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527458)        |                     |              |
 |                    1|[Mounted Dreadknight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534929)           |                     |              |
 |                    1|[Voldaren Stinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534951)              |                     |              |
+|                    1|Vengeful Strangler                                                                                       |                     |              |
 |                    1|[Florian, Voldaren Scion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535017)       |                     |              |
 |                    1|Village Watch                                                                                            |                     |              |
 |                    1|[Lightfoot Rogue](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527398)               |                     |              |

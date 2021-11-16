@@ -43,10 +43,10 @@
 1 The Meathook Massacre
 2 Ghoulish Procession
 1 Agadeem's Awakening
-1 Overcharged Amalgam
 1 Fell Stinger
-2 Overcharged Amalgam
+1 Overcharged Amalgam
 2 Fell Stinger
+2 Overcharged Amalgam
 3 Fell Stinger
 7 Swamp
 4 Crawl from the Cellar
@@ -134,53 +134,53 @@
 1 Mordenkainen's Polymorph
 1 Revenge of the Drowned
 1 Rogue Class
-2 Fading Hope
 2 Reaper's Talisman
 2 No Way Out
+2 Fading Hope
 2 Duress
 2 Revenge of the Drowned
+3 The Meathook Massacre
+1 Test of Talents
+2 Test of Talents
+3 Test of Talents
 1 Siphon Insight
 1 Disdainful Stroke
 2 Disdainful Stroke
 2 Siphon Insight
 3 Siphon Insight
-3 The Meathook Massacre
-1 Test of Talents
-2 Test of Talents
-3 Test of Talents
 1 Bloodline Pretender
 2 Bloodline Pretender
 4 Wight
-1 You Find the Villains' Lair
 1 Curate
 1 Eaten Alive
 1 Reject
-2 You Find the Villains' Lair
+1 You Find the Villains' Lair
 2 Curate
 2 Eaten Alive
 2 Reject
+2 You Find the Villains' Lair
 3 Poppet Stitcher
-3 You Find the Villains' Lair
 3 Curate
 3 Eaten Alive
+3 You Find the Villains' Lair
 4 Curate
 4 Narfi, Betrayer King
 3 Hobbling Zombie
 3 Corpse Cobble
 4 Hobbling Zombie
 4 Corpse Cobble
-1 Morbid Opportunist
 1 Skullport Merchant
+1 Morbid Opportunist
 1 Professor Onyx
 2 Skullport Merchant
 2 Blood on the Snow
 2 Village Rites
-3 Faceless Haven
 3 Skullport Merchant
 3 Blood on the Snow
+3 Faceless Haven
 4 Blood on the Snow
-3 Agadeem's Awakening
 3 Sepulcher Ghoul
+3 Agadeem's Awakening
 4 Sepulcher Ghoul
 4 Flip the Switch
 1 Malakir Rebirth
@@ -189,30 +189,9 @@
 3 Wretched Throng
 4 Fell Stinger
 4 Wretched Throng
-1 Field of Ruin
-1 Acererak the Archlich
-1 Baleful Mastery
-1 Reflections of Littjara
-1 Ghastly Gloomhunter
-1 Strixhaven Stadium
-2 Hall of Storm Giants
-2 Hagra Mauling
-2 Field of Ruin
-2 Acererak the Archlich
-2 Ghastly Gloomhunter
-2 Strixhaven Stadium
-2 Reflections of Littjara
-3 Hagra Mauling
-3 Field of Ruin
-3 Diregraf Horde
-3 Ghastly Gloomhunter
-3 Strixhaven Stadium
-3 Reflections of Littjara
-4 Diregraf Horde
-4 Ghastly Gloomhunter
-4 Organ Hoarder
-4 Strixhaven Stadium
-4 Reflections of Littjara
+2 Geralf, Visionary Stitcher
+5 Island
+6 Island
 1 Blood Pact
 2 Blood Pact
 3 Power Word Kill
@@ -220,6 +199,27 @@
 4 Blood Pact
 11 Swamp
 12 Swamp
-2 Geralf, Visionary Stitcher
-6 Island
-5 Island
+1 Field of Ruin
+1 Strixhaven Stadium
+1 Baleful Mastery
+1 Reflections of Littjara
+1 Ghastly Gloomhunter
+1 Acererak the Archlich
+2 Field of Ruin
+2 Strixhaven Stadium
+2 Hagra Mauling
+2 Ghastly Gloomhunter
+2 Hall of Storm Giants
+2 Acererak the Archlich
+2 Reflections of Littjara
+3 Strixhaven Stadium
+3 Field of Ruin
+3 Hagra Mauling
+3 Diregraf Horde
+3 Ghastly Gloomhunter
+3 Reflections of Littjara
+4 Diregraf Horde
+4 Ghastly Gloomhunter
+4 Organ Hoarder
+4 Strixhaven Stadium
+4 Reflections of Littjara

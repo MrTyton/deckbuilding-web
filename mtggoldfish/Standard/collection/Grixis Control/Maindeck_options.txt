@@ -17,10 +17,10 @@
 2 Kalain, Reclusive Painter
 3 Shambling Ghast
 4 Shambling Ghast
-1 Skullport Merchant
 1 Deadly Dispute
-2 Skullport Merchant
+1 Skullport Merchant
 2 Deadly Dispute
+2 Skullport Merchant
 3 Kalain, Reclusive Painter
 3 Deadly Dispute
 4 Kalain, Reclusive Painter
@@ -125,8 +125,8 @@
 2 Abrade
 1 Wandering Mind
 2 Wandering Mind
-1 Iymrith, Desert Doom
 1 Valki, God of Lies
+1 Iymrith, Desert Doom
 4 Saw It Coming
 2 Battle of Frost and Fire
 1 Sorin the Mirthless
@@ -136,15 +136,19 @@
 1 Frostboil Snarl
 1 Professor Onyx
 1 Stensia Uprising
-2 Power Word Kill
 1 Baleful Mastery
 2 Baleful Mastery
+2 Power Word Kill
 1 Malevolent Hermit
 2 Malevolent Hermit
 2 Alchemist's Gambit
+1 Prismari Campus
+2 Valki, God of Lies
+2 Ice Tunnel
+3 Swamp
 1 Hero's Downfall
-2 The Meathook Massacre
 2 Sorin the Mirthless
+2 The Meathook Massacre
 2 Hero's Downfall
 3 Sorin the Mirthless
 1 Cyclone Summoner
@@ -152,10 +156,6 @@
 2 Disdainful Stroke
 3 Frostboil Snarl
 3 Infernal Grasp
-1 Prismari Campus
-2 Ice Tunnel
-2 Valki, God of Lies
-3 Swamp
 1 Parasitic Grasp
 1 Negate
 1 Test of Talents
@@ -175,16 +175,16 @@
 3 Prismari Command
 4 Prismari Command
 4 Bloodchief's Thirst
-1 Check for Traps
-1 Inscription of Ruin
 1 Graveyard Trespasser
-2 Check for Traps
+1 Inscription of Ruin
+1 Check for Traps
 2 Inscription of Ruin
 2 Graveyard Trespasser
+2 Check for Traps
 3 Bloodthirsty Adversary
-3 Inscription of Ruin
 3 Graveyard Trespasser
 3 Check for Traps
+3 Inscription of Ruin
 4 Bloodthirsty Adversary
 4 Check for Traps
 4 Graveyard Trespasser

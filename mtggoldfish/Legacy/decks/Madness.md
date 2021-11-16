@@ -83,6 +83,6 @@
 |                     |                                                                                                    |                    1|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)        |
 |                     |                                                                                                    |                    2|[Memory's Journey](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=254134)      |
 |                     |                                                                                                    |                    2|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)        |
-|                     |                                                                                                    |                    2|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)               |
 |                     |                                                                                                    |                    3|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)               |
+|                     |                                                                                                    |                    2|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)               |
 

@@ -12,18 +12,13 @@
 3 Steam Vents
 1 Sprite Dragon
 2 Sprite Dragon
+5 Mountain
 1 Wooded Foothills
 2 Sunbaked Canyon
 1 Bedlam Reveler
-5 Mountain
 2 Wooded Foothills
 2 Bloodstained Mire
 3 Bloodstained Mire
-3 Sunbaked Canyon
-1 Unholy Heat
-2 Unholy Heat
-4 Steam Vents
-4 Bloodstained Mire
 6 Mountain
 1 Firebolt
 2 Firebolt
@@ -48,6 +43,11 @@
 10 Mountain
 11 Mountain
 12 Mountain
+3 Sunbaked Canyon
+1 Unholy Heat
+2 Unholy Heat
+4 Steam Vents
+4 Bloodstained Mire
 4 Stormwing Entity
 1 Vapor Snag
 3 Mutagenic Growth
@@ -58,9 +58,9 @@
 2 Sulfur Falls
 2 Island
 2 Bedlam Reveler
+3 Island
 3 Consider
 3 Sulfur Falls
-3 Island
 3 Sprite Dragon
 4 Consider
 4 Sulfur Falls
@@ -71,6 +71,10 @@
 1 Reckless Charge
 2 Reckless Charge
 4 Mutagenic Growth
+1 Relic of Progenitus
+2 Relic of Progenitus
+3 Relic of Progenitus
+4 Relic of Progenitus
 1 Assault Strobe
 1 Shadowspear
 3 Reckless Charge
@@ -103,10 +107,6 @@
 2 Underworld Breach
 1 Strike It Rich
 2 Strike It Rich
-1 Relic of Progenitus
-2 Relic of Progenitus
-3 Relic of Progenitus
-4 Relic of Progenitus
 1 Blood Moon
 1 Seasoned Pyromancer
 1 Valakut Awakening
@@ -133,6 +133,8 @@
 3 Crash Through
 4 Clever Lumimancer
 4 Crash Through
+4 Island
+5 Island
 1 Prismatic Vista
 1 Ramunap Ruins
 2 Prismatic Vista
@@ -141,5 +143,3 @@
 3 Ramunap Ruins
 4 Prismatic Vista
 4 Ramunap Ruins
-4 Island
-5 Island

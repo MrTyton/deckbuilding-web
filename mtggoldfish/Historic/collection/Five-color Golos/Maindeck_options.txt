@@ -63,7 +63,6 @@
 2 Temple Garden
 3 Temple Garden
 1 Woodland Cemetery
-1 Klothys, God of Destiny
 1 Skyclave Apparition
 1 Ravenous Chupacabra
 1 Hinterland Harbor
@@ -77,6 +76,7 @@
 1 Glacial Fortress
 1 Enigmatic Incarnation
 1 Elspeth's Nightmare
+1 Klothys, God of Destiny
 1 Renegade Rallier
 1 Setessan Champion
 1 Calix, Destiny's Hand
@@ -216,14 +216,14 @@
 1 Barkchannel Pathway
 1 Koma, Cosmos Serpent
 1 The Great Henge
-1 Castle Locthwain
 1 Darkbore Pathway
+1 Castle Locthwain
 1 Lotus Cobra
 1 Gemrazer
+1 Vineglimmer Snarl
 1 Season of Growth
 1 Fabled Passage
 1 Temple of Deceit
-1 Vineglimmer Snarl
 1 Temple of Malady
 1 Necroblossom Snarl
 1 Tamiyo, Collector of Tales
@@ -321,11 +321,15 @@
 4 Hydroid Krasis
 4 Genesis Ultimatum
 1 Needleverge Pathway
+1 Sanctum of Stone Fangs
+1 Honden of Night's Reach
+1 Sanctum of Calm Waters
+1 Sanctum of Fruitful Harvest
+1 Sanctum of All
+1 Sanctum of Shattered Heights
 1 Hengegate Pathway
 1 Baffling End
 1 Sterling Grove
-1 Sanctum of Shattered Heights
-1 Sanctum of Calm Waters
 1 Enchantress's Presence
 1 Sythis, Harvest's Hand
 1 Savai Triome
@@ -334,10 +338,6 @@
 1 Sanctum Weaver
 1 Solemnity
 1 Branchloft Pathway
-1 Sanctum of Stone Fangs
-1 Honden of Night's Reach
-1 Sanctum of All
-1 Sanctum of Fruitful Harvest
 1 Sanctum of Tranquil Light
 2 Needleverge Pathway
 2 Barkchannel Pathway
@@ -383,7 +383,6 @@
 1 Magma Opus
 1 Mirrodin's Core
 1 Blood Crypt
-2 Steam Vents
 2 Cragcrown Pathway
 2 Treasure Vault
 2 Blood Crypt
@@ -392,6 +391,7 @@
 2 Mountain
 2 Magma Opus
 2 Mirrodin's Core
+2 Steam Vents
 2 Phyrexian Tower
 2 Throes of Chaos
 2 Khalni Garden
@@ -400,9 +400,9 @@
 2 Scholar of the Lost Trove
 3 Cragcrown Pathway
 3 Alrund's Epiphany
-3 Emergent Ultimatum
 3 Throes of Chaos
 3 Khalni Garden
+3 Emergent Ultimatum
 3 Riverglide Pathway
 3 Blood Crypt
 3 Magma Opus
