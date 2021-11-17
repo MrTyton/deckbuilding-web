@@ -1,38 +1,42 @@
-2 Scalding Tarn
 1 Jace, the Mind Sculptor
-3 Mystic Gate
 3 Spreading Seas
 2 Glacial Fortress
-3 Chalice of the Void
-3 Scalding Tarn
+2 Scalding Tarn
+3 Mystic Gate
 2 Hall of Storm Giants
-3 Shark Typhoon
-1 Castle Ardenvale
+3 Chalice of the Void
 2 Polluted Delta
+1 Castle Ardenvale
+3 Scalding Tarn
+3 Shark Typhoon
 3 Fire/Ice
-4 Scalding Tarn
-1 Field of Ruin
 2 Misty Rainforest
 2 Steam Vents
-2 Cryptic Command
-4 Fire/Ice
-1 Sulfur Falls
+1 Field of Ruin
+4 Scalding Tarn
 1 Lightning Bolt
 2 Lightning Bolt
 1 Snapcaster Mage
 2 Snapcaster Mage
-3 Castle Vantress
-1 Sacred Foundry
-2 Raugrin Triome
-2 Field of Ruin
+2 Cryptic Command
+4 Fire/Ice
+1 Sulfur Falls
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
+3 Lightning Bolt
+4 Lightning Bolt
+1 Sacred Foundry
+3 Castle Vantress
+2 Raugrin Triome
+3 Snapcaster Mage
+4 Expressive Iteration
+2 Field of Ruin
 2 Jace, the Mind Sculptor
 1 Force of Negation
+2 Sulfur Falls
 1 Spirebluff Canal
 2 Spirebluff Canal
-4 Shark Typhoon
 1 Blood Sun
 1 Valakut Awakening
 1 Cleansing Wildfire
@@ -43,9 +47,9 @@
 2 Cleansing Wildfire
 2 Flagstones of Trokair
 2 Lotus Field
-3 Teferi, Hero of Dominaria
 3 Valakut Awakening
 3 Cleansing Wildfire
+3 Teferi, Hero of Dominaria
 3 Lotus Field
 3 Cryptic Command
 3 Flagstones of Trokair
@@ -55,11 +59,7 @@
 4 Cryptic Command
 4 Flagstones of Trokair
 4 Teferi, Hero of Dominaria
-3 Lightning Bolt
-4 Lightning Bolt
 3 Spirebluff Canal
-3 Snapcaster Mage
-4 Expressive Iteration
 4 Mystic Gate
 2 Celestial Colonnade
 1 Seachrome Coast
@@ -67,11 +67,15 @@
 1 Settle the Wreckage
 2 Settle the Wreckage
 4 Valakut Awakening
+4 Shark Typhoon
 4 Blood Sun
 4 Spreading Seas
 3 Polluted Delta
 2 Force of Negation
-2 Sulfur Falls
+1 Murktide Regent
+2 Murktide Regent
+3 Murktide Regent
+3 Misty Rainforest
 1 Thought Scour
 1 Dovin's Veto
 5 Island
@@ -81,22 +85,22 @@
 4 Omen of the Sea
 1 Engineered Explosives
 1 Path to Exile
-1 Rest in Peace
-1 Murktide Regent
 2 Thought Scour
-2 Murktide Regent
 3 Sulfur Falls
 3 Thought Scour
-3 Murktide Regent
 4 Murktide Regent
 4 Thought Scour
+1 Rest in Peace
 1 Sunset Revelry
-3 Misty Rainforest
 1 Ketria Triome
 1 Snow-Covered Island
 1 Snow-Covered Plains
 2 Snow-Covered Island
 3 Snow-Covered Island
+1 Consider
+2 Consider
+3 Consider
+4 Consider
 1 Unholy Heat
 2 Unholy Heat
 3 Unholy Heat
@@ -136,19 +140,15 @@
 1 Serum Visions
 1 Ragavan, Nimble Pilferer
 1 Dragon's Rage Channeler
-1 Consider
 1 Mishra's Bauble
 2 Ragavan, Nimble Pilferer
 2 Dragon's Rage Channeler
-2 Consider
 2 Mishra's Bauble
 3 Ragavan, Nimble Pilferer
-3 Consider
 3 Mishra's Bauble
 3 Dragon's Rage Channeler
 4 Ragavan, Nimble Pilferer
 4 Dragon's Rage Channeler
-4 Consider
 4 Mishra's Bauble
 4 Snapcaster Mage
 4 Unholy Heat
