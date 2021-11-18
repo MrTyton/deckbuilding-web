@@ -112,8 +112,6 @@
 |                    3|[Disrupt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=23000)                  |                     |                                                                                              |
 |                    4|[Disrupt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=23000)                  |                     |                                                                                              |
 |                    4|[Flame Rift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22290)               |                     |                                                                                              |
-|                    3|[Searing Blaze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270873)           |                     |                                                                                              |
-|                    4|[Searing Blaze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270873)           |                     |                                                                                              |
 |                   11|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)   |                     |                                                                                              |
 |                   12|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)   |                     |                                                                                              |
 |                   13|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)   |                     |                                                                                              |
@@ -123,4 +121,6 @@
 |                   17|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)   |                     |                                                                                              |
 |                   18|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)   |                     |                                                                                              |
 |                   19|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)   |                     |                                                                                              |
+|                    3|[Searing Blaze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270873)           |                     |                                                                                              |
+|                    4|[Searing Blaze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270873)           |                     |                                                                                              |
 

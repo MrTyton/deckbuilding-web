@@ -56,6 +56,6 @@
 |                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)     |                    4|[Subtlety](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522143)           |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)     |                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |
 |                     |                                                                                              |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                     |                                                                                              |                    3|[Ingot Chewer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389558)       |
 |                     |                                                                                              |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                     |                                                                                              |                    3|[Ingot Chewer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389558)       |
 

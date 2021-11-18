@@ -1,15 +1,14 @@
-2 Snow-Covered Island
-2 Lightning Bolt
-4 Ice-Fang Coatl
+1 Scalding Tarn
+1 Unholy Heat
 1 Dovin's Veto
 2 Dovin's Veto
 4 Eternal Witness
 1 Reflecting Pool
 1 Endurance
-1 Unholy Heat
+2 Scalding Tarn
+4 Ice-Fang Coatl
 1 Lightning Helix
 1 Path to Exile
-4 Fury
 2 Arid Mesa
 1 Plains
 3 Dovin's Veto
@@ -17,32 +16,34 @@
 1 Eladamri's Call
 2 Eladamri's Call
 1 Teferi, Hero of Dominaria
-1 Force of Negation
-2 Force of Negation
 1 Mountain
+4 Fury
 1 Island
 1 Forest
 3 Lightning Bolt
 4 Lightning Bolt
+2 Unholy Heat
+1 Counterspell
 3 Eladamri's Call
 1 Knight of Autumn
 1 Prismatic Vista
-1 Counterspell
 2 Lightning Helix
 1 Brought Back
 2 Brought Back
 3 Brought Back
 4 Brought Back
+1 Force of Negation
+2 Force of Negation
+1 Supreme Verdict
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
 1 Showdown of the Skalds
 2 Showdown of the Skalds
-2 Unholy Heat
-3 Unholy Heat
 2 Forest
 2 Time Warp
+3 Unholy Heat
 4 Wooded Foothills
 1 Meddling Mage
 2 Path to Exile
@@ -64,7 +65,6 @@
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
-1 Supreme Verdict
 1 Wall of Omens
 2 Wall of Omens
 1 Kiki-Jiki, Mirror Breaker
@@ -196,6 +196,12 @@
 1 Glasspool Mimic
 1 Huntmaster of the Fells
 2 Soulherder
+1 Valki, God of Lies
+1 Bring to Light
+1 Overgrown Tomb
+1 Unmoored Ego
+2 Bring to Light
+3 Bring to Light
 1 Drannith Magistrate
 1 Thrun, the Last Troll
 1 Utopia Sprawl
@@ -222,10 +228,6 @@
 3 Wish
 4 Flagstones of Trokair
 4 Cleansing Wildfire
-1 Growth Spiral
-2 Growth Spiral
-3 Growth Spiral
-4 Growth Spiral
 1 Cryptic Command
 1 Castle Vantress
 1 Mystic Gate
