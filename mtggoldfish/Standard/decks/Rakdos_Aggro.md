@@ -36,8 +36,8 @@
 |                    1|[Skullport Merchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527407)            |                     |              |
 |                    1|[Forsworn Paladin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527391)              |                     |              |
 |                    1|[Eaten Alive](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534869)                   |                     |              |
-|                    1|[Death-Priest of Myrkul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527382)        |                     |              |
 |                    1|[The Celestus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535049)                  |                     |              |
+|                    1|[Death-Priest of Myrkul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527382)        |                     |              |
 |                    1|[Jadar, Ghoulcaller of Nephalia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534881)|                     |              |
 |                    1|[Inferno of the Star Mounts](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527438)    |                     |              |
 |                    1|[Burn Down the House](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534907)           |                     |              |

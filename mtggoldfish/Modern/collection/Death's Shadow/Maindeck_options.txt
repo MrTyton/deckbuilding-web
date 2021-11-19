@@ -1,18 +1,14 @@
-1 Kolaghan's Command
-3 Lightning Bolt
 4 Unholy Heat
+3 Lightning Bolt
+3 Dress Down
 4 Lightning Bolt
 1 Snow-Covered Mountain
 1 Snow-Covered Swamp
 3 Blood Crypt
 1 Terminate
-2 Kolaghan's Command
 3 Kroxa, Titan of Death's Hunger
 1 Temur Battle Rage
 1 Verdant Catacombs
-1 Marsh Flats
-2 Marsh Flats
-3 Marsh Flats
 1 Wooded Foothills
 1 Overgrown Tomb
 1 Tarmogoyf
@@ -22,30 +18,34 @@
 2 Tarmogoyf
 3 Tarmogoyf
 4 Tarmogoyf
-1 Godless Shrine
-1 Arid Mesa
-1 Prismatic Ending
-1 Sacred Foundry
-2 Arid Mesa
-2 Prismatic Ending
-3 Prismatic Ending
-4 Marsh Flats
+3 Verdant Catacombs
+3 Wooded Foothills
+4 Verdant Catacombs
+4 Wooded Foothills
+2 Kolaghan's Command
+2 Temur Battle Rage
+1 Marsh Flats
+2 Marsh Flats
+3 Marsh Flats
 1 Mutagenic Growth
 1 Dismember
 1 Monastery Swiftspear
 2 Mutagenic Growth
 2 Stomping Ground
 2 Monastery Swiftspear
-2 Temur Battle Rage
 3 Mutagenic Growth
 3 Temur Battle Rage
 3 Monastery Swiftspear
 4 Mutagenic Growth
 4 Monastery Swiftspear
-3 Verdant Catacombs
-3 Wooded Foothills
-4 Verdant Catacombs
-4 Wooded Foothills
+4 Marsh Flats
+1 Prismatic Ending
+1 Godless Shrine
+1 Arid Mesa
+1 Sacred Foundry
+2 Prismatic Ending
+2 Arid Mesa
+3 Prismatic Ending
 1 Fiery Islet
 4 Dress Down
 1 Kaya's Guile
@@ -59,8 +59,17 @@
 1 Become Immense
 2 Become Immense
 4 Temur Battle Rage
+1 Scourge of the Skyclaves
+1 Nurturing Peatland
+1 Seal of Fire
+2 Scourge of the Skyclaves
+3 Scourge of the Skyclaves
+4 Inquisition of Kozilek
 2 Overgrown Tomb
 1 Shadow of Doubt
+1 Night's Whisper
+2 Nurturing Peatland
+4 Scourge of the Skyclaves
 1 Spell Pierce
 1 Abrupt Decay
 1 Apostle's Blessing
@@ -68,18 +77,21 @@
 2 Snapcaster Mage
 1 Forest
 1 Wrenn and Six
-1 Scourge of the Skyclaves
 1 Tarfire
-1 Seal of Fire
 1 Unearth
 1 Dauthi Voidwalker
-1 Nurturing Peatland
 2 Wrenn and Six
-2 Scourge of the Skyclaves
 2 Dauthi Voidwalker
-3 Scourge of the Skyclaves
 1 Fatal Push
 3 Become Immense
+1 Snow-Covered Plains
+1 Savai Triome
+1 Tourach, Dread Cantor
+1 Vindicate
+2 Godless Shrine
+2 Tourach, Dread Cantor
+2 Sacred Foundry
+4 Blood Crypt
 1 Consider
 1 Bomat Courier
 2 Consider
@@ -87,15 +99,6 @@
 3 Consider
 4 Consider
 4 Scalding Tarn
-1 Savai Triome
-1 Snow-Covered Plains
-1 Tourach, Dread Cantor
-1 Vindicate
-2 Godless Shrine
-2 Tourach, Dread Cantor
-2 Sacred Foundry
-4 Blood Crypt
-4 Inquisition of Kozilek
 1 Traverse the Ulvenwald
 2 Dismember
 2 Traverse the Ulvenwald

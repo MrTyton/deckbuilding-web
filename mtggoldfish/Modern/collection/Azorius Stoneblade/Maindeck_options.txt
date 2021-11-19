@@ -4,20 +4,20 @@
 2 Plains
 1 Godless Shrine
 1 Swamp
+1 Fatal Push
 1 Marsh Flats
 1 Concealed Courtyard
-1 Fatal Push
-1 Kaya's Guile
 1 Geist of Saint Traft
+1 Kaya's Guile
 1 Thoughtseize
 1 Inquisition of Kozilek
 2 Swamp
-2 Watery Grave
 2 Godless Shrine
+2 Watery Grave
+2 Fatal Push
 2 Marsh Flats
 2 Concealed Courtyard
 2 Kaya's Guile
-2 Fatal Push
 2 Geist of Saint Traft
 2 Thoughtseize
 2 Inquisition of Kozilek
@@ -38,8 +38,8 @@
 1 Field of Ruin
 1 Supreme Verdict
 2 Field of Ruin
-1 Mountain
 1 Electrolyze
+1 Mountain
 1 Brazen Borrower
 1 Faithful Mending
 1 Sacred Foundry
@@ -47,8 +47,8 @@
 2 Lightning Helix
 2 Celestial Colonnade
 2 Supreme Verdict
-3 Lightning Helix
 3 Force of Negation
+3 Lightning Helix
 3 Celestial Colonnade
 1 Spreading Seas
 2 Mystic Gate
@@ -102,34 +102,34 @@
 1 Zagoth Triome
 1 Hengegate Pathway
 3 Seachrome Coast
-1 Castle Ardenvale
+2 Glacial Fortress
+3 Polluted Delta
+4 Polluted Delta
 1 Fact or Fiction
+1 Castle Ardenvale
 1 Cryptic Command
 2 Teferi, Hero of Dominaria
 2 Cryptic Command
 3 Plains
 3 Field of Ruin
 3 Path to Exile
-4 Path to Exile
 4 Plains
 4 Field of Ruin
 4 Island
-2 Glacial Fortress
-3 Polluted Delta
-4 Polluted Delta
+4 Path to Exile
 4 Spirebluff Canal
+1 Waterlogged Grove
 1 Noble Hierarch
 1 Birds of Paradise
-1 Waterlogged Grove
 1 Endurance
 1 Temple Garden
 1 Windswept Heath
 1 Breeding Pool
 1 Botanical Sanctum
 1 Forest
-2 Endurance
 2 Noble Hierarch
 2 Birds of Paradise
+2 Endurance
 2 Waterlogged Grove
 2 Windswept Heath
 2 Breeding Pool

@@ -95,18 +95,18 @@
 4 Urza's Saga
 1 Aven Mindcensor
 1 Forest
+1 Razorverge Thicket
 1 Noble Hierarch
 1 Temple Garden
 1 Scavenging Ooze
-1 Razorverge Thicket
+2 Razorverge Thicket
 2 Temple Garden
 2 Forest
 2 Noble Hierarch
-2 Razorverge Thicket
 2 Scavenging Ooze
-3 Noble Hierarch
-3 Temple Garden
 3 Razorverge Thicket
+3 Temple Garden
+3 Noble Hierarch
 4 Razorverge Thicket
 4 Temple Garden
 4 Noble Hierarch
@@ -116,10 +116,6 @@
 2 Sungold Sentinel
 1 Shining Shoal
 2 Shining Shoal
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
-4 Thraben Inspector
 1 Auriok Champion
 1 Phyrexian Metamorph
 3 Sunbaked Canyon
@@ -133,14 +129,14 @@
 3 Needleverge Pathway
 4 Lightning Bolt
 4 Needleverge Pathway
-1 Branchloft Pathway
-1 Augur of Autumn
 1 Brushland
+1 Branchloft Pathway
 1 Oath of Nissa
-2 Branchloft Pathway
+1 Augur of Autumn
 2 Brushland
-2 Augur of Autumn
+2 Branchloft Pathway
 2 Oath of Nissa
+2 Augur of Autumn
 3 Branchloft Pathway
 3 Brushland
 3 Oath of Nissa
@@ -148,6 +144,10 @@
 4 Brushland
 4 Oath of Nissa
 4 Cathar Commando
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
+4 Thraben Inspector
 1 Voice of Resurgence
 1 Knight of Autumn
 1 Mirran Crusader

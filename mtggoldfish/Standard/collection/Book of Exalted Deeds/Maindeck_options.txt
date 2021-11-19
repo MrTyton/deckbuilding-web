@@ -1,29 +1,32 @@
-2 Sigrid, God-Favored
-3 Devastating Mastery
-3 Toski, Bearer of Secrets
-3 Tyrite Sanctum
-4 Loyal Warhound
-4 Toski, Bearer of Secrets
-4 Devastating Mastery
-1 Thalia, Guardian of Thraben
-2 Thalia, Guardian of Thraben
-3 Thalia, Guardian of Thraben
-4 Thalia, Guardian of Thraben
+10 Snow-Covered Plains
+2 The Book of Exalted Deeds
+3 Search for Glory
+4 Search for Glory
+1 Doomskar
+2 Doomskar
+3 The Book of Exalted Deeds
+1 Revitalize
+2 Revitalize
+3 Revitalize
+4 Revitalize
+4 The Book of Exalted Deeds
+11 Snow-Covered Plains
+3 Doomskar
+1 Potion of Healing
+2 Potion of Healing
+3 Potion of Healing
+4 Potion of Healing
+12 Snow-Covered Plains
+13 Snow-Covered Plains
+14 Snow-Covered Plains
+15 Snow-Covered Plains
+16 Snow-Covered Plains
+17 Snow-Covered Plains
+1 Fateful Absence
+2 Fateful Absence
+3 Eccentric Farmer
 4 Doomskar
 18 Snow-Covered Plains
-1 Snow-Covered Forest
-1 Yasharn, Implacable Earth
-3 Sigrid, God-Favored
-4 Tyrite Sanctum
-4 Sigrid, God-Favored
-1 Pilgrim of the Ages
-2 Ondu Inversion
-2 Overgrown Farmland
-2 Pilgrim of the Ages
-3 Ondu Inversion
-3 Overgrown Farmland
-4 Ondu Inversion
-4 Overgrown Farmland
 1 Elite Spellbinder
 2 Elite Spellbinder
 3 Elite Spellbinder
@@ -35,9 +38,6 @@
 2 Snow-Covered Forest
 1 Reidane, God of the Worthy
 2 Reidane, God of the Worthy
-1 Eccentric Farmer
-2 Eccentric Farmer
-3 Eccentric Farmer
 1 Cave of the Frost Dragon
 1 Flamescroll Celebrant
 2 Flamescroll Celebrant
@@ -56,12 +56,13 @@
 3 Sunset Revelry
 4 Sunset Revelry
 3 Snow-Covered Forest
-1 Legion Angel
-1 Field of Ruin
-2 Field of Ruin
+1 Katilda, Dawnhart Martyr
 1 Pithing Needle
 2 Pithing Needle
 2 Yasharn, Implacable Earth
+1 Legion Angel
+1 Field of Ruin
+2 Field of Ruin
 1 Skyclave Apparition
 1 Access Tunnel
 2 Skyclave Apparition
@@ -74,11 +75,11 @@
 4 Lunarch Veteran
 1 Shineshadow Snarl
 1 Kaya the Inexorable
-1 Cosmos Elixir
 1 Lolth, Spider Queen
+1 Cosmos Elixir
+1 Hive of the Eye Tyrant
 1 Cleric Class
 1 Graveyard Trespasser
-1 Hive of the Eye Tyrant
 1 Snowfield Sinkhole
 1 Snow-Covered Swamp
 1 Liesa, Forgotten Archangel
@@ -89,9 +90,9 @@
 1 Vanishing Verse
 2 Cosmos Elixir
 2 Graveyard Trespasser
+2 Hive of the Eye Tyrant
 2 Cleric Class
 2 Snowfield Sinkhole
-2 Hive of the Eye Tyrant
 2 Blood on the Snow
 2 Snow-Covered Swamp
 2 Liesa, Forgotten Archangel
@@ -128,36 +129,6 @@
 3 Professor of Symbology
 4 Professor of Symbology
 4 Sigarda's Splendor
-1 Dragon's Fire
-1 Lorehold Command
-1 Needleverge Pathway
-1 Alpine Meadow
-1 Showdown of the Skalds
-1 Snow-Covered Mountain
-1 Frost Bite
-1 Adult Gold Dragon
-2 Lorehold Command
-2 Frost Bite
-2 Dragon's Fire
-2 Adult Gold Dragon
-2 Snow-Covered Mountain
-2 Needleverge Pathway
-2 Alpine Meadow
-2 Showdown of the Skalds
-3 Needleverge Pathway
-3 Alpine Meadow
-3 Showdown of the Skalds
-3 Adult Gold Dragon
-3 Frost Bite
-3 Lorehold Command
-3 Dragon's Fire
-4 Adult Gold Dragon
-4 Alpine Meadow
-4 Lorehold Command
-4 Showdown of the Skalds
-4 Dragon's Fire
-4 Needleverge Pathway
-4 Frost Bite
 1 Chaplain of Alms
 1 Ambitious Farmhand
 1 Arctic Treeline
@@ -188,3 +159,33 @@
 4 Prosperous Innkeeper
 4 Righteous Valkyrie
 4 Ambitious Farmhand
+1 Dragon's Fire
+1 Lorehold Command
+1 Needleverge Pathway
+1 Alpine Meadow
+1 Showdown of the Skalds
+1 Snow-Covered Mountain
+1 Frost Bite
+1 Adult Gold Dragon
+2 Lorehold Command
+2 Frost Bite
+2 Dragon's Fire
+2 Adult Gold Dragon
+2 Snow-Covered Mountain
+2 Needleverge Pathway
+2 Alpine Meadow
+2 Showdown of the Skalds
+3 Needleverge Pathway
+3 Alpine Meadow
+3 Showdown of the Skalds
+3 Adult Gold Dragon
+3 Frost Bite
+3 Lorehold Command
+3 Dragon's Fire
+4 Adult Gold Dragon
+4 Alpine Meadow
+4 Lorehold Command
+4 Showdown of the Skalds
+4 Dragon's Fire
+4 Needleverge Pathway
+4 Frost Bite

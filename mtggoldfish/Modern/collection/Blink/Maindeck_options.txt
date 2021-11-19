@@ -1,55 +1,43 @@
 1 Scalding Tarn
-1 Unholy Heat
-1 Dovin's Veto
-2 Dovin's Veto
-4 Eternal Witness
-1 Reflecting Pool
-1 Endurance
-2 Scalding Tarn
-4 Ice-Fang Coatl
-1 Lightning Helix
-1 Path to Exile
-2 Arid Mesa
-1 Plains
-3 Dovin's Veto
 3 Arid Mesa
-1 Eladamri's Call
-2 Eladamri's Call
-1 Teferi, Hero of Dominaria
-1 Mountain
-4 Fury
-1 Island
-1 Forest
-3 Lightning Bolt
-4 Lightning Bolt
-2 Unholy Heat
-1 Counterspell
+4 Ephemerate
+2 Scalding Tarn
+3 Fury
+3 Wooded Foothills
 3 Eladamri's Call
 1 Knight of Autumn
-1 Prismatic Vista
-2 Lightning Helix
+1 Unholy Heat
+1 Counterspell
 1 Brought Back
 2 Brought Back
 3 Brought Back
 4 Brought Back
-1 Force of Negation
-2 Force of Negation
-1 Supreme Verdict
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
-4 Ragavan, Nimble Pilferer
+1 Reflecting Pool
+1 Teferi, Hero of Dominaria
 1 Showdown of the Skalds
 2 Showdown of the Skalds
-2 Forest
-2 Time Warp
-3 Unholy Heat
-4 Wooded Foothills
-1 Meddling Mage
+1 Path to Exile
 2 Path to Exile
-3 Showdown of the Skalds
+1 Wandering Mind
+1 Meddling Mage
 3 Abundant Harvest
+2 Snow-Covered Island
+1 Dovin's Veto
+2 Dovin's Veto
 4 Arid Mesa
+1 Plains
+1 Force of Negation
+2 Force of Negation
+3 Showdown of the Skalds
+2 Unholy Heat
+4 Ice-Fang Coatl
+1 Lightning Helix
+4 Eternal Witness
+1 Island
+1 Forest
+3 Unholy Heat
+2 Counterspell
+3 Counterspell
 1 Kaldra Compleat
 1 Sword of Fire and Ice
 1 Stoneforge Mystic
@@ -57,83 +45,32 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+3 Lightning Bolt
+4 Wooded Foothills
 1 Restoration Angel
-1 Charming Prince
 1 Skyclave Apparition
-2 Endurance
 2 Plains
+1 Charming Prince
+1 Waterlogged Grove
+1 Wall of Omens
+2 Wall of Omens
+2 Skyclave Apparition
+3 Plains
+4 Fury
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
+4 Ragavan, Nimble Pilferer
+1 Kiki-Jiki, Mirror Breaker
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
-1 Wall of Omens
-2 Wall of Omens
-1 Kiki-Jiki, Mirror Breaker
-2 Skyclave Apparition
-3 Plains
-1 Horizon Canopy
 1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch
 2 Charming Prince
 3 Charming Prince
-1 Ghost Quarter
-2 Ghost Quarter
-3 Ghost Quarter
-4 Ghost Quarter
-4 Aether Vial
-2 Horizon Canopy
-1 Giver of Runes
-1 Flickerwisp
-2 Giver of Runes
-3 Giver of Runes
-4 Giver of Runes
-1 Wandering Mind
-1 Tranquil Thicket
-3 Scalding Tarn
-3 Lightning Helix
-1 Imperial Recruiter
-1 Thalia, Guardian of Thraben
-2 Thalia, Guardian of Thraben
-3 Thalia, Guardian of Thraben
-2 Restoration Angel
-1 Deputy of Detention
-1 Birds of Paradise
-1 Chord of Calling
-1 Wall of Blossoms
-1 Venser, Shaper Savant
-1 Soulherder
-2 Wall of Blossoms
-2 Birds of Paradise
-2 Chord of Calling
-3 Birds of Paradise
-3 Chord of Calling
-4 Birds of Paradise
-4 Chord of Calling
 4 Plains
-4 Eladamri's Call
-2 Flickerwisp
-4 Noble Hierarch
-2 Snow-Covered Plains
-2 Prismatic Vista
-3 Prismatic Vista
-1 Field of Ruin
-2 Field of Ruin
-1 Seasoned Pyromancer
-2 Seasoned Pyromancer
-3 Seasoned Pyromancer
-1 Razorverge Thicket
-1 Voice of Resurgence
-1 Renegade Rallier
-2 Temple Garden
-2 Razorverge Thicket
-2 Voice of Resurgence
-2 Renegade Rallier
-3 Renegade Rallier
-3 Horizon Canopy
-4 Horizon Canopy
-1 Memory Deluge
-2 Memory Deluge
-1 Maul of the Skyclaves
 1 Emeria's Call
 1 Agadeem's Awakening
 1 Shriekmaw
@@ -144,13 +81,14 @@
 1 Sword of Truth and Justice
 1 Tourach, Dread Cantor
 1 Urborg, Tomb of Yawgmoth
+1 Maul of the Skyclaves
 1 Swamp
 1 Grief
 1 Godless Shrine
-2 Emeria's Call
-2 Persist
-2 Agadeem's Awakening
 2 Tourach, Dread Cantor
+2 Agadeem's Awakening
+2 Persist
+2 Emeria's Call
 2 Malakir Rebirth
 2 Undying Evil
 2 Grief
@@ -167,6 +105,72 @@
 4 Undying Evil
 4 Malakir Rebirth
 4 Grief
+1 Horizon Canopy
+1 Mountain
+1 Emrakul, the Promised End
+2 Forest
+4 Lightning Bolt
+3 Dovin's Veto
+2 Lightning Helix
+4 Aether Vial
+1 Ghost Quarter
+2 Ghost Quarter
+3 Ghost Quarter
+4 Ghost Quarter
+1 Flickerwisp
+2 Flickerwisp
+1 Imperial Recruiter
+2 Restoration Angel
+1 Wall of Blossoms
+1 Birds of Paradise
+1 Deputy of Detention
+1 Chord of Calling
+1 Venser, Shaper Savant
+1 Soulherder
+2 Wall of Blossoms
+2 Birds of Paradise
+2 Chord of Calling
+3 Birds of Paradise
+3 Chord of Calling
+4 Birds of Paradise
+4 Chord of Calling
+4 Eladamri's Call
+1 Thalia, Guardian of Thraben
+2 Horizon Canopy
+2 Thalia, Guardian of Thraben
+3 Thalia, Guardian of Thraben
+1 Giver of Runes
+2 Giver of Runes
+3 Giver of Runes
+4 Giver of Runes
+2 Endurance
+4 Noble Hierarch
+1 Prismatic Vista
+2 Snow-Covered Plains
+2 Prismatic Vista
+3 Prismatic Vista
+1 Seasoned Pyromancer
+2 Seasoned Pyromancer
+3 Seasoned Pyromancer
+3 Wall of Omens
+4 Wall of Omens
+1 Memory Deluge
+2 Memory Deluge
+3 Godless Shrine
+4 Godless Shrine
+1 Razorverge Thicket
+1 Voice of Resurgence
+1 Renegade Rallier
+2 Temple Garden
+2 Razorverge Thicket
+2 Voice of Resurgence
+2 Renegade Rallier
+3 Renegade Rallier
+3 Horizon Canopy
+4 Horizon Canopy
+1 Supreme Verdict
+1 Field of Ruin
+2 Field of Ruin
 1 Felidar Guardian
 1 Rugged Prairie
 1 Magus of the Moon
@@ -175,24 +179,19 @@
 3 Imperial Recruiter
 1 Ambitious Farmhand
 2 Ambitious Farmhand
-1 Castle Ardenvale
-1 Tectonic Edge
-2 Tectonic Edge
+1 Blast Zone
+2 Blast Zone
 3 Field of Ruin
 3 Skyclave Apparition
+3 Flickerwisp
+3 Blast Zone
 4 Field of Ruin
 4 Skyclave Apparition
+4 Flickerwisp
 5 Plains
 6 Plains
 7 Plains
 8 Plains
-9 Plains
-3 Wall of Omens
-4 Wall of Omens
-2 Counterspell
-3 Counterspell
-1 Lonely Sandbar
-1 Emrakul, the Promised End
 1 Glasspool Mimic
 1 Huntmaster of the Fells
 2 Soulherder
@@ -202,6 +201,13 @@
 1 Unmoored Ego
 2 Bring to Light
 3 Bring to Light
+1 Tranquil Thicket
+1 Lonely Sandbar
+3 Scalding Tarn
+2 Time Warp
+2 Wandering Mind
+3 Wandering Mind
+3 Lightning Helix
 1 Drannith Magistrate
 1 Thrun, the Last Troll
 1 Utopia Sprawl
@@ -209,7 +215,6 @@
 3 Wall of Blossoms
 3 Utopia Sprawl
 4 Utopia Sprawl
-4 Lightning Helix
 1 General Ferrous Rokiric
 1 Alpine Meadow
 2 General Ferrous Rokiric
@@ -228,43 +233,6 @@
 3 Wish
 4 Flagstones of Trokair
 4 Cleansing Wildfire
-1 Cryptic Command
-1 Castle Vantress
-1 Mystic Gate
-1 Polluted Delta
-1 Omen of the Sea
-1 Celestial Colonnade
-1 Archmage's Charm
-1 Glacial Fortress
-1 Hall of Storm Giants
-2 Hallowed Fountain
-2 Celestial Colonnade
-2 Cryptic Command
-2 Omen of the Sea
-2 Glacial Fortress
-2 Mystic Gate
-2 Archmage's Charm
-2 Island
-2 Supreme Verdict
-2 Castle Vantress
-2 Teferi, Hero of Dominaria
-3 Castle Vantress
-3 Memory Deluge
-3 Teferi, Hero of Dominaria
-3 Omen of the Sea
-3 Archmage's Charm
-3 Mystic Gate
-3 Supreme Verdict
-3 Island
-4 Mystic Gate
-4 Omen of the Sea
-4 Castle Vantress
-4 Memory Deluge
-4 Supreme Verdict
-4 Island
-4 Counterspell
-4 Archmage's Charm
-5 Island
 1 Sunbaked Canyon
 1 Blood Moon
 1 Marsh Flats
@@ -276,8 +244,8 @@
 2 Marsh Flats
 3 Snow-Covered Plains
 3 Restoration Angel
-3 Sacred Foundry
 3 Blood Moon
+3 Sacred Foundry
 3 Marsh Flats
 3 Mountain
 4 Snow-Covered Plains
@@ -287,38 +255,81 @@
 4 Seasoned Pyromancer
 4 Marsh Flats
 5 Snow-Covered Plains
-1 Blast Zone
+1 Cryptic Command
+1 Polluted Delta
+1 Omen of the Sea
+1 Archmage's Charm
+1 Castle Vantress
+1 Celestial Colonnade
+1 Mystic Gate
+1 Hall of Storm Giants
+1 Glacial Fortress
+2 Celestial Colonnade
+2 Cryptic Command
+2 Glacial Fortress
+2 Omen of the Sea
+2 Archmage's Charm
+2 Mystic Gate
+2 Island
+2 Supreme Verdict
+2 Castle Vantress
+2 Hallowed Fountain
+2 Teferi, Hero of Dominaria
+3 Mystic Gate
+3 Castle Vantress
+3 Island
+3 Memory Deluge
+3 Archmage's Charm
+3 Omen of the Sea
+3 Teferi, Hero of Dominaria
+3 Supreme Verdict
+4 Mystic Gate
+4 Omen of the Sea
+4 Island
+4 Castle Vantress
+4 Memory Deluge
+4 Supreme Verdict
+4 Archmage's Charm
+4 Counterspell
+5 Island
+1 Castle Ardenvale
 1 Gavony Dawnguard
+1 Tectonic Edge
 2 Gavony Dawnguard
-2 Blast Zone
 2 Castle Ardenvale
+2 Tectonic Edge
 3 Ambitious Farmhand
 3 Gavony Dawnguard
-3 Flickerwisp
-3 Blast Zone
-4 Flickerwisp
+9 Plains
 10 Plains
 11 Plains
 1 Concealed Courtyard
 2 Concealed Courtyard
 3 Concealed Courtyard
-3 Godless Shrine
-4 Godless Shrine
 1 Inspiring Vantage
 1 Brutal Cathar
 2 Inspiring Vantage
 3 Inspiring Vantage
 4 Inspiring Vantage
 4 Imperial Recruiter
-1 Archon of Emeria
-1 Blade Splicer
-2 Archon of Emeria
-2 Blade Splicer
-3 Archon of Emeria
-4 Archon of Emeria
-1 Waterlogged Grove
 1 Glacial Floodplain
 1 Spell Queller
 2 Spell Queller
 3 Spell Queller
 4 Spell Queller
+1 Cave of the Frost Dragon
+1 Thraben Inspector
+1 Secluded Steppe
+1 Mortarpod
+2 Cave of the Frost Dragon
+2 Secluded Steppe
+2 Thraben Inspector
+3 Cave of the Frost Dragon
+3 Path to Exile
+3 Thraben Inspector
+3 Secluded Steppe
+4 Path to Exile
+4 Thraben Inspector
+4 Cave of the Frost Dragon
+4 Blast Zone
+4 Secluded Steppe

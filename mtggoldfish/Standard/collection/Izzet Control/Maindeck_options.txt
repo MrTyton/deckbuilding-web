@@ -1,12 +1,16 @@
+2 Demon Bolt
 1 Hullbreaker Horror
 2 Hullbreaker Horror
-2 Demon Bolt
 1 Frostboil Snarl
 6 Island
 1 Lier, Disciple of the Drowned
+1 Abrade
 1 Syncopate
 2 Thundering Rebuke
+4 Galvanic Iteration
 1 Battle of Frost and Fire
+1 Behold the Multiverse
+2 Burn Down the House
 2 Lier, Disciple of the Drowned
 3 Hullbreaker Horror
 1 Wandering Mind
@@ -15,23 +19,19 @@
 4 Wandering Mind
 1 Consider
 2 Consider
-1 Abrade
+2 Prismari Command
 2 Syncopate
 3 Consider
 4 Consider
-2 Prismari Command
-4 Galvanic Iteration
-1 Behold the Multiverse
+2 Behold the Multiverse
 3 Lier, Disciple of the Drowned
 3 Field of Ruin
+2 Abrade
 2 Frostboil Snarl
 2 Battle of Frost and Fire
-2 Burn Down the House
 3 Memory Deluge
-2 Behold the Multiverse
 1 Glasspool Mimic
 1 Cathartic Pyre
-2 Abrade
 3 Frostboil Snarl
 1 Dollhouse of Horrors
 2 Shatterskull Smashing
@@ -53,6 +53,8 @@
 3 Dragon's Fire
 2 Negate
 3 Saw It Coming
+1 The Celestus
+1 Burning Hands
 2 Cinderclasm
 1 Snow-Covered Mountain
 1 Frost Bite
@@ -72,12 +74,11 @@
 1 Play with Fire
 2 Play with Fire
 2 Thirst for Discovery
-1 Into the Roil
 7 Snow-Covered Mountain
+1 Into the Roil
 3 Prismari Command
 1 Prismari Campus
 4 Frostboil Snarl
-1 Burning Hands
 4 Memory Deluge
 7 Island
 3 Shatterskull Smashing
@@ -87,7 +88,6 @@
 1 Crush the Weak
 2 Crush the Weak
 3 Crush the Weak
-1 The Celestus
 1 Spectral Adversary
 2 Spectral Adversary
 4 Dragon's Fire
@@ -96,17 +96,17 @@
 4 Heated Debate
 3 Battle of Frost and Fire
 1 Flame-Blessed Bolt
+4 Saw It Coming
 1 Mordenkainen
 1 Volatile Fjord
 2 Volatile Fjord
 2 Mordenkainen
 2 Burning Hands
-3 Volatile Fjord
 3 Disdainful Stroke
 3 Burning Hands
+3 Volatile Fjord
 3 Mordenkainen
 4 Volatile Fjord
-4 Saw It Coming
 4 Jwari Disruption
 4 Frost Bite
 6 Snow-Covered Island
@@ -174,8 +174,8 @@
 3 Magmatic Channeler
 3 Delver of Secrets
 4 Flame Channeler
-4 Play with Fire
 4 Magmatic Channeler
+4 Play with Fire
 4 Delver of Secrets
 1 Cyclone Summoner
 1 Aegar, the Freezing Flame
