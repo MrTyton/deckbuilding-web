@@ -17,14 +17,14 @@
 
 # Sideboard
 
-|                                           Sorcery (12)                                            |      Unknown (3)       |
-|---------------------------------------------------------------------------------------------------|------------------------|
-|1 [Confront the Past](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513544)     |2 Parasitic Grasp       |
-|1 [Devour Intellect](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527384)      |1 Toxrill, the Corrosive|
-|4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                 |                        |
-|1 [Environmental Sciences](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513477)|                        |
-|2 [Mascot Exhibition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513481)     |                        |
-|1 [Necrotic Fumes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513555)        |                        |
-|1 [Pest Summoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513703)        |                        |
-|1 [Start from Scratch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513591)    |                        |
+|                                           Creature (1)                                            |                                        Instant (2)                                         |                                           Sorcery (12)                                            |
+|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+|1 [Toxrill, the Corrosive](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=540984)|2 [Parasitic Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=540973)|1 [Confront the Past](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513544)     |
+|                                                                                                   |                                                                                            |1 [Devour Intellect](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527384)      |
+|                                                                                                   |                                                                                            |4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                 |
+|                                                                                                   |                                                                                            |1 [Environmental Sciences](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513477)|
+|                                                                                                   |                                                                                            |2 [Mascot Exhibition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513481)     |
+|                                                                                                   |                                                                                            |1 [Necrotic Fumes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513555)        |
+|                                                                                                   |                                                                                            |1 [Pest Summoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513703)        |
+|                                                                                                   |                                                                                            |1 [Start from Scratch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513591)    |
 
