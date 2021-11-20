@@ -59,8 +59,8 @@
 2 Snow-Covered Forest
 3 Snow-Covered Mountain
 3 Snow-Covered Forest
-4 Snow-Covered Forest
 4 Snow-Covered Mountain
+4 Snow-Covered Forest
 7 Mountain
 3 Snakeskin Veil
 4 Snakeskin Veil
@@ -71,8 +71,8 @@
 1 Faceless Haven
 2 Faceless Haven
 3 Faceless Haven
-5 Snow-Covered Forest
 5 Snow-Covered Mountain
+5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest
 1 Cinderclasm
@@ -91,18 +91,18 @@
 2 Dragonkin Berserker
 2 Burning Hands
 3 Burning Hands
-1 Manaform Hellkite
 1 Chandra, Dressed to Kill
+1 Manaform Hellkite
 1 Unexpected Windfall
 1 Light Up the Night
 1 Spikefield Hazard
-2 Spikefield Hazard
-2 Manaform Hellkite
 2 Chandra, Dressed to Kill
-2 Unexpected Windfall
+2 Spikefield Hazard
 2 Light Up the Night
-3 Manaform Hellkite
+2 Manaform Hellkite
+2 Unexpected Windfall
 3 Chandra, Dressed to Kill
+3 Manaform Hellkite
 3 Unexpected Windfall
 4 Chandra, Dressed to Kill
 1 Tovolar's Huntmaster
@@ -118,11 +118,11 @@
 2 Bloodthirsty Adversary
 2 Tovolar's Huntmaster
 2 Storm the Festival
-2 Field of Ruin
 2 Bala Ged Recovery
 2 Burn Down the House
 2 Devouring Tendrils
 2 Master Symmetrist
+2 Field of Ruin
 3 Highland Forest
 3 Inscription of Abundance
 3 Field of Ruin
@@ -131,18 +131,11 @@
 4 Highland Forest
 1 Avabruck Caretaker
 4 Ascendant Packleader
+3 Halana and Alena, Partners
+4 Halana and Alena, Partners
 3 Cinderclasm
 4 Wrenn and Seven
 4 Cinderclasm
-1 Swarm Shambler
-1 Frost Bite
-1 Vorinclex, Monstrous Raider
-2 Swarm Shambler
-2 Frost Bite
-3 Frost Bite
-4 Frost Bite
-4 Faceless Haven
-6 Snow-Covered Mountain
 3 Blizzard Brawl
 3 Kessig Naturalist
 3 Old-Growth Troll
@@ -153,5 +146,12 @@
 1 Turntimber Symbiosis
 8 Mountain
 9 Mountain
-3 Halana and Alena, Partners
-4 Halana and Alena, Partners
+1 Swarm Shambler
+1 Frost Bite
+1 Vorinclex, Monstrous Raider
+2 Swarm Shambler
+2 Frost Bite
+3 Frost Bite
+4 Frost Bite
+6 Snow-Covered Mountain
+4 Faceless Haven

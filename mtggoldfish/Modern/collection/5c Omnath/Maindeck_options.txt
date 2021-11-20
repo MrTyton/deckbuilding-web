@@ -24,8 +24,8 @@
 1 Snow-Covered Plains
 1 Snow-Covered Island
 1 Snow-Covered Forest
-1 Fury
 4 Omnath, Locus of Creation
+1 Fury
 3 Scalding Tarn
 4 Scalding Tarn
 1 Lightning Bolt
@@ -35,11 +35,11 @@
 1 Mountain
 1 Polluted Delta
 2 Stomping Ground
+2 Fury
 1 Abundant Growth
 2 Abundant Growth
 3 Abundant Growth
 4 Abundant Growth
-2 Fury
 1 Fatal Push
 1 Watery Grave
 1 Zagoth Triome
@@ -60,6 +60,8 @@
 4 Snapcaster Mage
 4 Fatal Push
 1 Memory Deluge
+1 Sheltered Thicket
+3 Fury
 2 Wooded Foothills
 1 Abundant Harvest
 1 Spreading Seas
@@ -82,8 +84,6 @@
 4 Coiling Oracle
 2 Lightning Bolt
 2 Lonely Sandbar
-1 Sheltered Thicket
-3 Fury
 1 Growth Spiral
 2 Growth Spiral
 3 Growth Spiral

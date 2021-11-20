@@ -34,8 +34,8 @@
 1 Snow-Covered Swamp
 2 Snow-Covered Plains
 2 Snow-Covered Swamp
-3 Snow-Covered Swamp
 3 Snow-Covered Plains
+3 Snow-Covered Swamp
 4 Snow-Covered Plains
 4 Snow-Covered Swamp
 5 Snow-Covered Plains
@@ -44,31 +44,31 @@
 1 Duress
 2 Duress
 1 Liesa, Forgotten Archangel
+1 Silverquill Campus
+1 Poison the Cup
+1 Snowfield Sinkhole
+1 Fracture
 1 Triumphant Adventurer
 1 Humiliate
 1 Elderfang Disciple
-1 Silverquill Campus
-1 Fracture
 1 Curse of Leeches
-1 Poison the Cup
 1 Silverquill Command
 1 Closing Statement
-1 Snowfield Sinkhole
+2 Snowfield Sinkhole
 2 Triumphant Adventurer
 2 Humiliate
-2 Snowfield Sinkhole
 2 Taborax, Hope's Demise
 2 Elderfang Disciple
 2 Poison the Cup
 2 Curse of Leeches
 2 Closing Statement
+3 Snowfield Sinkhole
 3 Humiliate
 3 Taborax, Hope's Demise
 3 Curse of Leeches
 3 Poison the Cup
 3 Closing Statement
 3 Elderfang Disciple
-3 Snowfield Sinkhole
 3 Duress
 4 Snowfield Sinkhole
 4 Poison the Cup
@@ -100,8 +100,8 @@
 1 Haunting Voyage
 1 Crippling Fear
 3 Hive of the Eye Tyrant
-1 Professor of Symbology
 1 Emeria's Call
+1 Professor of Symbology
 2 Professor of Symbology
 3 Professor of Symbology
 3 Faceless Haven
@@ -109,11 +109,12 @@
 2 Nullpriest of Oblivion
 3 Thalia, Guardian of Thraben
 3 Nullpriest of Oblivion
+4 Skyclave Apparition
+1 Field of Ruin
 1 Doomskar
 1 Lolth, Spider Queen
 1 Sunset Revelry
 1 Deadly Dispute
-1 Field of Ruin
 2 Deadly Dispute
 2 The Meathook Massacre
 2 Lolth, Spider Queen
@@ -140,7 +141,6 @@
 4 Welcoming Vampire
 3 Cave of the Frost Dragon
 4 Cave of the Frost Dragon
-4 Skyclave Apparition
 1 Chaplain of Alms
 2 Chaplain of Alms
 3 Chaplain of Alms
