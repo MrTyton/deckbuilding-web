@@ -1,20 +1,17 @@
-2 Swamp
-1 Goldspan Dragon
-2 Goldspan Dragon
-3 Goldspan Dragon
 4 Goldspan Dragon
 1 Shambling Ghast
 2 Shambling Ghast
-2 Prismari Command
 1 Galazeth Prismari
 1 Saw It Coming
 2 Saw It Coming
 3 Saw It Coming
 1 Kalain, Reclusive Painter
 2 Galazeth Prismari
+2 Prismari Command
 2 Kalain, Reclusive Painter
 3 Shambling Ghast
 4 Shambling Ghast
+1 Den of the Bugbear
 1 Skullport Merchant
 1 Deadly Dispute
 2 Skullport Merchant
@@ -23,86 +20,84 @@
 3 Deadly Dispute
 4 Deadly Dispute
 4 Kalain, Reclusive Painter
-1 Den of the Bugbear
+1 Burn Down the House
+1 Duress
+1 Stormcarved Coast
+1 The Celestus
+1 Demon Bolt
+4 Fading Hope
 1 Hive of the Eye Tyrant
 1 Field of Ruin
-1 The Celestus
+1 Unexpected Windfall
+2 Unexpected Windfall
 1 Magma Opus
 2 Magma Opus
 2 Bloodchief's Thirst
-1 Unexpected Windfall
-1 Cathartic Pyre
-2 Field of Ruin
-1 Stormcarved Coast
-1 Behold the Multiverse
-3 Lier, Disciple of the Drowned
 1 Power Word Kill
-2 Unexpected Windfall
-2 Duress
+1 Cathartic Pyre
 1 Cinderclasm
+2 Field of Ruin
 2 Stormcarved Coast
 2 Smoldering Egg
 4 Divide by Zero
-3 Galvanic Iteration
+3 Lier, Disciple of the Drowned
 3 Unexpected Windfall
-4 Unexpected Windfall
 1 Shatterskull Smashing
+2 The Celestus
 3 Smoldering Egg
 4 Shipwreck Marsh
-2 Behold the Multiverse
-1 Seize the Spoils
-2 Seize the Spoils
+2 Duress
+1 Behold the Multiverse
+3 Galvanic Iteration
+4 Unexpected Windfall
+1 Hullbreaker Horror
+1 The Meathook Massacre
+3 Spikefield Hazard
+3 Stormcarved Coast
 1 Consider
 2 Consider
 3 Consider
 4 Smoldering Egg
+1 Seize the Spoils
+2 Seize the Spoils
+1 Abrade
+4 Stormcarved Coast
+2 Behold the Multiverse
 3 Island
 3 Mountain
 1 Siphon Insight
 3 Memory Deluge
-1 The Meathook Massacre
-2 The Celestus
-3 Spikefield Hazard
-3 Stormcarved Coast
-1 Abrade
+2 Shatterskull Smashing
 1 Sedgemoor Witch
 3 Behold the Multiverse
 2 Soul Shatter
 3 Soul Shatter
 3 Bloodchief's Thirst
-4 Stormcarved Coast
 1 Codie, Vociferous Codex
 2 Codie, Vociferous Codex
 3 Codie, Vociferous Codex
 4 Behold the Multiverse
 4 Galvanic Iteration
 1 Alchemist's Gambit
-2 Sedgemoor Witch
-3 Sedgemoor Witch
-1 Hagra Mauling
 3 Jwari Disruption
 3 The Celestus
+1 Hagra Mauling
+2 Sedgemoor Witch
+3 Sedgemoor Witch
 3 Duress
 4 Duress
-1 Hullbreaker Horror
-1 Thundering Rebuke
-2 Thundering Rebuke
 1 Ice Tunnel
-2 Shatterskull Smashing
-1 Battle of Frost and Fire
+2 Hullbreaker Horror
 2 Burn Down the House
 4 Island
 4 Mountain
 1 Bloodthirsty Adversary
 2 Bloodthirsty Adversary
-1 Sea Gate Restoration
-1 Sulfurous Mire
-3 Field of Ruin
 1 Rotten Reunion
-1 Glasspool Mimic
-1 Tainted Adversary
 1 Spectral Adversary
+1 Glasspool Mimic
 1 Zariel, Archduke of Avernus
+1 Tainted Adversary
 1 Hungry for More
 1 Mystic Reflection
 1 Startle
@@ -111,8 +106,8 @@
 2 Glasspool Mimic
 2 Zariel, Archduke of Avernus
 2 Hungry for More
-2 Mystic Reflection
 2 Immersturm Predator
+2 Mystic Reflection
 2 Startle
 3 Hungry for More
 3 Immersturm Predator
@@ -121,15 +116,21 @@
 5 Island
 5 Mountain
 2 Alchemist's Gambit
-2 Demon Bolt
-1 Disdainful Stroke
-3 Infernal Grasp
-2 Abrade
+1 Thundering Rebuke
+2 Thundering Rebuke
 1 Wandering Mind
 2 Wandering Mind
-1 Iymrith, Desert Doom
+1 Dread Fugue
+2 Dread Fugue
+1 Disdainful Stroke
+3 Infernal Grasp
+4 Spikefield Hazard
+2 Abrade
+2 The Meathook Massacre
 1 Valki, God of Lies
+1 Iymrith, Desert Doom
 4 Saw It Coming
+1 Battle of Frost and Fire
 2 Battle of Frost and Fire
 1 Sorin the Mirthless
 1 Wash Away
@@ -147,15 +148,20 @@
 2 Frostboil Snarl
 2 Disdainful Stroke
 3 Frostboil Snarl
+1 Syncopate
+2 Demon Bolt
+3 Abrade
 1 Hero's Downfall
-2 The Meathook Massacre
 2 Sorin the Mirthless
 2 Hero's Downfall
 3 Sorin the Mirthless
 1 Prismari Campus
-2 Valki, God of Lies
 2 Ice Tunnel
+2 Valki, God of Lies
 3 Swamp
+1 Sea Gate Restoration
+1 Sulfurous Mire
+3 Field of Ruin
 1 Parasitic Grasp
 1 Negate
 1 Test of Talents
@@ -166,14 +172,9 @@
 1 Burning Hands
 3 Shatterskull Smashing
 4 Shatterskull Smashing
-1 Syncopate
-3 Abrade
-4 Spikefield Hazard
-1 Ebondeath, Dracolich
-2 Iymrith, Desert Doom
-3 Galazeth Prismari
-3 Prismari Command
-4 Prismari Command
+1 Shadows' Verdict
+3 Wandering Mind
+4 Consider
 4 Bloodchief's Thirst
 1 Graveyard Trespasser
 1 Inscription of Ruin
@@ -181,17 +182,16 @@
 2 Graveyard Trespasser
 2 Inscription of Ruin
 2 Check for Traps
-3 Bloodthirsty Adversary
-3 Graveyard Trespasser
-3 Check for Traps
 3 Inscription of Ruin
-4 Bloodthirsty Adversary
+3 Graveyard Trespasser
+3 Bloodthirsty Adversary
+3 Check for Traps
+4 Inscription of Ruin
 4 Graveyard Trespasser
 4 Check for Traps
-4 Inscription of Ruin
-1 Shadows' Verdict
-1 Dread Fugue
-2 Hullbreaker Horror
-2 Dread Fugue
-3 Wandering Mind
-4 Consider
+4 Bloodthirsty Adversary
+1 Ebondeath, Dracolich
+2 Iymrith, Desert Doom
+3 Prismari Command
+3 Galazeth Prismari
+4 Prismari Command

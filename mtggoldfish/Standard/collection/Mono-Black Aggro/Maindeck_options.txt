@@ -1,69 +1,70 @@
 1 Professor Onyx
-1 Bloodchief's Thirst
-2 Hunt for Specimens
-3 Skullport Merchant
-1 Tainted Adversary
-2 Bloodchief's Thirst
-3 Hive of the Eye Tyrant
-1 Skyclave Shade
-2 Skyclave Shade
-1 Village Rites
-2 Village Rites
 1 Eaten Alive
 2 Eaten Alive
+2 Hunt for Specimens
+3 Skullport Merchant
+1 Bloodchief's Thirst
+1 Tainted Adversary
 3 Jadar, Ghoulcaller of Nephalia
-1 Warlock Class
+2 Bloodchief's Thirst
 2 Tainted Adversary
 1 Champion of the Perished
 2 Champion of the Perished
 3 Champion of the Perished
 4 Champion of the Perished
-4 Infernal Grasp
-2 Warlock Class
 18 Snow-Covered Swamp
-1 Ebondeath, Dracolich
-1 Duress
-2 Duress
-1 Sorin the Mirthless
+3 Hive of the Eye Tyrant
+1 Village Rites
+2 Village Rites
 1 Fell Stinger
 2 Fell Stinger
-3 Tainted Adversary
 3 Eaten Alive
+1 Warlock Class
+1 Skyclave Shade
+2 Skyclave Shade
+4 Infernal Grasp
+1 Ebondeath, Dracolich
+1 Sorin the Mirthless
+2 Warlock Class
+1 Agadeem's Awakening
 3 Skyclave Shade
+2 Agadeem's Awakening
 2 Soul Shatter
 2 Professor Onyx
-1 Agadeem's Awakening
-3 Village Rites
-4 Hive of the Eye Tyrant
-4 Village Rites
-4 Tainted Adversary
+1 Duress
+2 Duress
+3 Tainted Adversary
+3 Fell Stinger
+2 Ebondeath, Dracolich
 3 Warlock Class
-2 Agadeem's Awakening
-3 Duress
+4 Skullport Merchant
 1 Valki, God of Lies
 3 Field of Ruin
-4 Skullport Merchant
 2 Sorin the Mirthless
-3 Fell Stinger
-4 Skyclave Shade
-4 Sedgemoor Witch
-19 Snow-Covered Swamp
-1 Hagra Mauling
-2 Ebondeath, Dracolich
-1 Morbid Opportunist
-4 Warlock Class
-1 Power Word Kill
-1 Graveyard Trespasser
-1 Rotten Reunion
-4 Eaten Alive
-1 Inscription of Ruin
+3 Village Rites
 1 Archghoul of Thraben
 2 Archghoul of Thraben
-1 Nighthawk Scavenger
-3 Agadeem's Awakening
+4 Skyclave Shade
+4 Hive of the Eye Tyrant
+4 Tainted Adversary
 1 Headless Rider
 2 Headless Rider
 3 Headless Rider
+4 Village Rites
+4 Sedgemoor Witch
+19 Snow-Covered Swamp
+1 Hagra Mauling
+4 Warlock Class
+1 Morbid Opportunist
+1 Power Word Kill
+1 Graveyard Trespasser
+1 Rotten Reunion
+3 Duress
+3 Archghoul of Thraben
+4 Eaten Alive
+1 Inscription of Ruin
+1 Nighthawk Scavenger
+3 Agadeem's Awakening
 2 Morbid Opportunist
 3 Morbid Opportunist
 4 Morbid Opportunist
@@ -83,11 +84,9 @@
 11 Swamp
 12 Swamp
 13 Swamp
-3 Bloodchief's Thirst
 2 Rotten Reunion
-4 Duress
 3 Ebondeath, Dracolich
-3 Archghoul of Thraben
+4 Duress
 4 Headless Rider
 2 Valki, God of Lies
 2 Inscription of Ruin
@@ -104,20 +103,22 @@
 1 Hero's Downfall
 1 Forsworn Paladin
 2 Forsworn Paladin
+3 Graveyard Trespasser
+4 Graveyard Trespasser
+1 Concealing Curtains
+2 Concealing Curtains
+4 Fell Stinger
+1 Henrika Domnathi
+4 Agadeem's Awakening
+14 Swamp
 1 No Way Out
 1 Diregraf Horde
 2 No Way Out
 2 Diregraf Horde
 20 Snow-Covered Swamp
-3 Graveyard Trespasser
-4 Graveyard Trespasser
-1 Concealing Curtains
-2 Concealing Curtains
-1 Henrika Domnathi
 3 Rotten Reunion
 4 Rotten Reunion
-4 Agadeem's Awakening
-14 Swamp
+3 Bloodchief's Thirst
 1 Dogged Pursuit
 1 Hobbling Zombie
 1 Sepulcher Ghoul
@@ -137,17 +138,19 @@
 23 Snow-Covered Swamp
 1 Feed the Swarm
 1 Blackbloom Rogue
+1 Draugr Necromancer
+2 Draugr Necromancer
 1 Check for Traps
 2 Check for Traps
 1 Ghoulish Procession
 2 Ghoulish Procession
+1 Callous Bloodmage
+1 Poet's Quill
+2 Callous Bloodmage
 2 Hostile Hostel
 1 Hall of Oracles
 1 Mindleech Ghoul
 2 Mindleech Ghoul
-1 Callous Bloodmage
-1 Poet's Quill
-2 Callous Bloodmage
 3 Sorin the Mirthless
 2 Hero's Downfall
 3 Hero's Downfall
@@ -182,12 +185,12 @@
 2 Baleful Mastery
 3 Plumb the Forbidden
 4 Plumb the Forbidden
-1 Dread Fugue
 1 Bloodvial Purveyor
-2 Dread Fugue
+1 Dread Fugue
 2 Bloodvial Purveyor
-3 Dread Fugue
+2 Dread Fugue
 3 Bloodvial Purveyor
+3 Dread Fugue
 3 Forsworn Paladin
 4 Forsworn Paladin
 4 Bloodvial Purveyor
@@ -198,10 +201,9 @@
 3 Ecstatic Awakener
 4 Ecstatic Awakener
 2 Henrika Domnathi
+3 Henrika Domnathi
 3 Power Word Kill
 3 Concealing Curtains
-3 Henrika Domnathi
-4 Fell Stinger
 4 Henrika Domnathi
 4 Concealing Curtains
 15 Swamp

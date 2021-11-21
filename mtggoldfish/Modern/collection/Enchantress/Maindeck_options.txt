@@ -24,10 +24,10 @@
 1 Detention Sphere
 1 Spreading Seas
 2 Spreading Seas
-3 Misty Rainforest
 3 Spreading Seas
-4 Misty Rainforest
+3 Misty Rainforest
 4 Spreading Seas
+4 Misty Rainforest
 1 Snow-Covered Island
 1 Breeding Pool
 3 Verdant Catacombs
@@ -104,14 +104,14 @@
 1 Nine Lives
 1 Forest
 2 Gemstone Caverns
-2 Arid Mesa
 2 Phyrexian Unlife
 2 Forest
 2 Solemnity
 2 Idyllic Tutor
+2 Arid Mesa
 2 Nine Lives
-3 Razorverge Thicket
 3 Arid Mesa
+3 Razorverge Thicket
 3 Phyrexian Unlife
 3 Solemnity
 4 Phyrexian Unlife
@@ -121,9 +121,9 @@
 3 Arbor Elf
 7 Snow-Covered Forest
 1 Brushland
+1 Thassa's Oracle
 1 Fabled Passage
 1 Curse of Silence
-1 Thassa's Oracle
 1 Stony Silence
 2 Marsh Flats
 2 Brushland

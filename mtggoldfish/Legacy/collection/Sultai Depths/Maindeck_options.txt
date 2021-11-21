@@ -21,8 +21,8 @@
 4 Dark Confidant
 1 Life from the Loam
 4 Once Upon a Time
-1 Snow-Covered Forest
 1 Snow-Covered Swamp
+1 Snow-Covered Forest
 3 Mox Diamond
 2 Wasteland
 4 Abrupt Decay
@@ -66,9 +66,9 @@
 1 Polluted Delta
 1 Exhume
 2 Griselbrand
+2 Entomb
 2 Unmask
 2 Living Wish
-2 Entomb
 2 Exhume
 2 Polluted Delta
 2 Shallow Grave
@@ -95,9 +95,9 @@
 3 Sylvan Safekeeper
 1 Cabal Therapy
 1 Expedition Map
+1 Badlands
 1 Esika's Chariot
 1 Taiga
-1 Badlands
 1 Surgical Extraction
 2 City of Brass
 1 Fatal Push
@@ -124,6 +124,12 @@
 4 Witherbloom Apprentice
 4 Bayou
 4 Chain of Smog
+1 Field of the Dead
+1 Glacial Chasm
+3 Forest
+4 Inquisition of Kozilek
+4 Forest
+5 Forest
 1 Karn, the Great Creator
 1 Infernal Tutor
 1 Opposition Agent
@@ -151,9 +157,3 @@
 7 Swamp
 8 Swamp
 9 Swamp
-1 Field of the Dead
-1 Glacial Chasm
-3 Forest
-4 Inquisition of Kozilek
-4 Forest
-5 Forest

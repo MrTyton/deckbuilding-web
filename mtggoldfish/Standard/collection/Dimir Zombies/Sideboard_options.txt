@@ -5,11 +5,11 @@
 2 Go Blank
 2 Power Word Kill
 1 Bloodchief's Thirst
+1 Blood on the Snow
+2 Blood on the Snow
 1 Ray of Enfeeblement
 1 Eaten Alive
 3 Test of Talents
-1 Blood on the Snow
-2 Blood on the Snow
 4 Negate
 1 Rotten Reunion
 2 Rotten Reunion
@@ -27,10 +27,11 @@
 2 Village Rites
 1 Flip the Switch
 2 Flip the Switch
+1 The Meathook Massacre
 3 Ray of Enfeeblement
 1 Pithing Needle
-1 The Trickster-God's Heist
 1 Demon's Disciple
+1 The Trickster-God's Heist
 2 Demon's Disciple
 1 Lash of Malice
 1 Flunk
@@ -42,19 +43,18 @@
 2 Grafted Identity
 1 Anticognition
 2 Anticognition
-1 The Meathook Massacre
+1 Draugr Necromancer
 2 The Meathook Massacre
 1 No Way Out
-1 Draugr Necromancer
 1 Priest of the Haunted Edge
 1 Falcon Abomination
-2 Ebondeath, Dracolich
 2 No Way Out
 2 Priest of the Haunted Edge
+2 Ebondeath, Dracolich
 2 Falcon Abomination
 1 Warlock Class
-1 Tergrid's Shadow
 1 Reaper's Talisman
+1 Tergrid's Shadow
 2 Warlock Class
 2 Reaper's Talisman
 2 Tergrid's Shadow
@@ -62,6 +62,14 @@
 1 Check for Traps
 2 Check for Traps
 3 Soul Shatter
+1 Acquisitions Expert
+1 Sphere of Annihilation
+1 Westgate Regent
+1 Valki, God of Lies
+2 Acquisitions Expert
+2 Sphere of Annihilation
+3 Acquisitions Expert
+3 Power Word Kill
 1 Xanathar, Guild Kingpin
 1 Siphon Insight
 1 The Deck of Many Things
@@ -73,7 +81,6 @@
 2 Inscription of Ruin
 2 The Deck of Many Things
 3 Inscription of Ruin
-3 Power Word Kill
 1 Syncopate
 1 Infernal Grasp
 1 Wash Away
@@ -89,13 +96,6 @@
 2 Corpse Cobble
 3 Crawl from the Cellar
 3 Corpse Cobble
-1 Sphere of Annihilation
-1 Westgate Regent
-1 Valki, God of Lies
-1 Acquisitions Expert
-2 Sphere of Annihilation
-2 Acquisitions Expert
-3 Acquisitions Expert
 3 Rotten Reunion
 3 Eaten Alive
 4 Rotten Reunion
@@ -107,6 +107,7 @@
 4 Disdainful Stroke
 1 Reject
 2 Reject
+2 Draugr Necromancer
 1 Siege Zombie
 1 Thieves' Tools
 1 Heirloom Mirror

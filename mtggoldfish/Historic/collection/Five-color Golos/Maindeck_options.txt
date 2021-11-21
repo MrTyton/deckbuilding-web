@@ -133,12 +133,12 @@
 4 Aether Hub
 1 Blinkmoth Nexus
 2 Blinkmoth Nexus
-3 Blinkmoth Nexus
-3 Blast Zone
 3 Crawling Barrens
+3 Blast Zone
 3 Mobilized District
-4 Blinkmoth Nexus
+3 Blinkmoth Nexus
 4 Blast Zone
+4 Blinkmoth Nexus
 4 Forsaken Monument
 1 Assassin's Trophy
 2 Assassin's Trophy
@@ -211,7 +211,6 @@
 1 Mastermind's Acquisition
 1 Massacre Wurm
 1 Evolving Wilds
-1 Keruga, the Macrosage
 1 Idyllic Tutor
 1 Elder Gargaroth
 1 Solemn Simulacrum
@@ -222,6 +221,7 @@
 1 Ulvenwald Hydra
 1 Elspeth Conquers Death
 1 Medomai's Prophecy
+1 Keruga, the Macrosage
 1 Terror of the Peaks
 1 Savai Triome
 1 Omen of the Forge
@@ -242,9 +242,10 @@
 2 Sacred Foundry
 2 Escape to the Wilds
 2 Uro, Titan of Nature's Wrath
+2 Evolving Wilds
 2 Watery Grave
-2 Dryad of the Ilysian Grove
 2 Stomping Ground
+2 Dryad of the Ilysian Grove
 2 Sanctum of Fruitful Harvest
 2 Solemn Simulacrum
 2 Mastermind's Acquisition
@@ -253,7 +254,6 @@
 2 Idyllic Tutor
 2 Klothys, God of Destiny
 2 Godless Shrine
-2 Evolving Wilds
 2 Hallowed Fountain
 2 Wrath of God
 2 Migration Path
@@ -278,10 +278,10 @@
 3 Sacred Foundry
 3 Uro, Titan of Nature's Wrath
 3 Watery Grave
+3 Evolving Wilds
 3 Dryad of the Ilysian Grove
 3 Escape to the Wilds
 3 Fae of Wishes
-3 Evolving Wilds
 3 Hallowed Fountain
 3 Wrath of God
 3 Sanctum of Stone Fangs
@@ -310,10 +310,10 @@
 4 Island
 4 Fabled Passage
 4 Dryad of the Ilysian Grove
+4 Evolving Wilds
 4 Lotus Cobra
 4 Breeding Pool
 4 Overgrown Tomb
-4 Evolving Wilds
 4 Hallowed Fountain
 4 Prophetic Prism
 4 Renegade Map
@@ -373,11 +373,11 @@
 1 Gemrazer
 1 Season of Growth
 1 Temple of Deceit
-1 Vineglimmer Snarl
 1 Temple of Malady
 1 Necroblossom Snarl
 1 Tamiyo, Collector of Tales
 1 Nicol Bolas, Dragon-God
+1 Vineglimmer Snarl
 1 Barkchannel Pathway
 1 Vivien, Champion of the Wilds
 1 Vivien Reid
@@ -421,10 +421,10 @@
 1 Gate Colossus
 1 Open the Gates
 2 Valki, God of Lies
+2 Felidar Retreat
 2 Rakdos Guildgate
 2 Gatebreaker Ram
 2 Root Snare
-2 Felidar Retreat
 2 Gate Colossus
 2 Open the Gates
 2 Azorius Guildgate

@@ -1,15 +1,15 @@
-1 Ethersworn Canonist
-1 Magus of the Moon
-1 Liquimetal Coating
 1 Blood Moon
-1 Torpor Orb
-1 Grafdigger's Cage
+2 Blood Moon
+1 Liquimetal Coating
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
-2 Blood Moon
 2 Lightning Bolt
+1 Magus of the Moon
+1 Ethersworn Canonist
+1 Torpor Orb
+1 Grafdigger's Cage
 4 Thorn of Amethyst
 1 Fatal Push
 1 Plague Engineer
@@ -20,38 +20,35 @@
 1 Painter's Servant
 3 Lightning Bolt
 1 Portable Hole
+1 Pyrokinesis
 1 Walking Ballista
+3 Blood Moon
 4 Lightning Bolt
 1 Karn, the Great Creator
 1 Engineered Explosives
+1 Fury
 1 Soul-Guide Lantern
+1 Trinisphere
+1 Unholy Heat
+1 Hydroblast
+1 Blazing Volley
 1 Alpine Moon
 2 Alpine Moon
-1 Hydroblast
 1 Flusterstorm
-3 Blood Moon
-1 Fury
-1 Unholy Heat
-1 Blazing Volley
 2 Flusterstorm
+2 Unholy Heat
 1 Karakas
+1 Meekstone
+1 Wurmcoil Engine
 1 Resculpt
 2 Hydroblast
 2 Resculpt
-3 Resculpt
-1 Pyrokinesis
-2 Unholy Heat
-1 Meekstone
 3 Flusterstorm
-1 Wurmcoil Engine
-1 Shadowspear
-2 Torpor Orb
-1 Trinisphere
+3 Resculpt
 1 Swords to Plowshares
 2 Swords to Plowshares
 1 Retrofitter Foundry
 1 Aether Spellbomb
-1 Force of Negation
 1 Skysovereign, Consul Flagship
 1 Moat
 1 Sulfur Elemental
@@ -62,13 +59,12 @@
 1 By Force
 1 Cursed Scroll
 1 Great Furnace
+1 Shadowspear
 2 Walking Ballista
 2 Red Elemental Blast
 2 Fury
-1 Blue Elemental Blast
-1 Gut Shot
-1 Wasteland
-2 Gut Shot
+1 Force of Negation
+2 Torpor Orb
 1 Dead/Gone
 1 Faerie Macabre
 1 Fiery Confluence
@@ -85,6 +81,11 @@
 2 Mindbreak Trap
 2 Curse of Silence
 3 Curse of Silence
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+4 Thoughtseize
+4 Blood Moon
 1 Winter Orb
 1 Pyroclasm
 1 Ajani Vengeant
@@ -92,11 +93,3 @@
 2 Winter Orb
 2 Pyroclasm
 3 Swords to Plowshares
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-4 Thoughtseize
-4 Blood Moon
-1 Dismember
-2 Dismember
-3 Hydroblast
