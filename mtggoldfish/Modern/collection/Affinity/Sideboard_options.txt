@@ -51,19 +51,9 @@
 2 Vault Skirge
 1 Mystic Forge
 2 Mystic Forge
-1 Prismatic Ending
 1 Hurkyl's Recall
+1 Prismatic Ending
 2 Prismatic Ending
-1 Engineered Explosives
-1 Chalice of the Void
-2 Chalice of the Void
-2 Engineered Explosives
-3 Damping Sphere
-1 Selfless Spirit
-1 Lurrus of the Dream-Den
-2 Selfless Spirit
-2 Lurrus of the Dream-Den
-3 Soul-Guide Lantern
 1 Fragmentize
 1 Negate
 1 Blossoming Calm
@@ -72,6 +62,16 @@
 2 Blossoming Calm
 3 Negate
 3 Portable Hole
+1 Engineered Explosives
+1 Chalice of the Void
+2 Chalice of the Void
+2 Engineered Explosives
+3 Damping Sphere
+1 Lurrus of the Dream-Den
+1 Selfless Spirit
+2 Selfless Spirit
+2 Lurrus of the Dream-Den
+3 Soul-Guide Lantern
 1 Karn, Scion of Urza
 2 Karn, Scion of Urza
 3 Karn, Scion of Urza
@@ -94,8 +94,8 @@
 3 Boom/Bust
 4 Boom/Bust
 1 Rest in Peace
-1 Yorion, Sky Nomad
 1 Burrenton Forge-Tender
+1 Yorion, Sky Nomad
 1 Thorn of Amethyst
 2 Rest in Peace
 2 Drannith Magistrate

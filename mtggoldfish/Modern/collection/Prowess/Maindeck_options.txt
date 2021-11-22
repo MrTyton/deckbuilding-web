@@ -57,13 +57,13 @@
 4 Mutagenic Growth
 4 Stormwing Entity
 1 Sulfur Falls
-1 Island
 1 Consider
+1 Island
 1 Reckless Charge
+2 Consider
 2 Reckless Charge
 2 Sulfur Falls
 2 Island
-2 Consider
 3 Consider
 3 Sulfur Falls
 3 Island
@@ -111,12 +111,6 @@
 2 Stormchaser Mage
 2 Serum Visions
 3 Stormchaser Mage
-1 Ancestral Anger
-1 Reckless Impulse
-2 Ancestral Anger
-2 Reckless Impulse
-3 Ancestral Anger
-4 Ancestral Anger
 1 Claim the Firstborn
 3 Tarfire
 3 Unholy Heat
@@ -139,6 +133,12 @@
 4 Shatterskull Smashing
 4 Valakut Awakening
 4 Crash Through
+1 Reckless Impulse
+1 Ancestral Anger
+2 Reckless Impulse
+2 Ancestral Anger
+3 Ancestral Anger
+4 Ancestral Anger
 1 Prismatic Vista
 1 Ramunap Ruins
 2 Prismatic Vista

@@ -81,10 +81,10 @@
 2 Blackbloom Rogue
 3 Flunk
 4 Crippling Fear
-1 Yuan-Ti Malison
 1 You Find the Villains' Lair
 1 Mind Flayer
 1 Wizard Class
+1 Yuan-Ti Malison
 2 Wizard Class
 2 You Find the Villains' Lair
 2 Yuan-Ti Malison
@@ -101,8 +101,8 @@
 3 Barkchannel Pathway
 4 Divide by Zero
 8 Snow-Covered Swamp
-9 Snow-Covered Island
 9 Snow-Covered Swamp
+9 Snow-Covered Island
 10 Snow-Covered Island
 4 Memory Deluge
 2 Field of Ruin
@@ -130,79 +130,85 @@
 1 Faceless Haven
 1 Sorin the Mirthless
 1 Into the Roil
-1 Inscription of Ruin
 1 Dread Fugue
+1 Inscription of Ruin
 2 Baleful Mastery
 1 Demogorgon's Clutches
 2 Demogorgon's Clutches
 3 Disdainful Stroke
-3 Darkbore Pathway
 1 Iymrith, Desert Doom
-3 Power Word Kill
 3 Hall of Storm Giants
+3 Power Word Kill
+3 Darkbore Pathway
 1 Nimana Skydancer
 2 Nimana Skydancer
 3 The Meathook Massacre
 3 Krydle of Baldur's Gate
-1 Malakir Rebirth
 1 Curse of Leeches
+1 Malakir Rebirth
 2 Malakir Rebirth
 2 Curse of Leeches
 3 Grazilaxx, Illithid Scholar
-1 Consider
-2 Consider
-3 Concerted Defense
-3 Spectral Adversary
-4 Spectral Adversary
-1 Morbid Opportunist
-2 Morbid Opportunist
-2 Test of Talents
-3 Morbid Opportunist
-3 Test of Talents
-4 Morbid Opportunist
-4 Negate
 1 Glasspool Mimic
 2 Glasspool Mimic
 3 Glasspool Mimic
 4 Agadeem's Awakening
 4 Glasspool Mimic
 1 Tasha's Hideous Laughter
-2 Tasha's Hideous Laughter
 2 Maddening Cacophony
-3 Tasha's Hideous Laughter
+2 Tasha's Hideous Laughter
 3 Maddening Cacophony
+3 Tasha's Hideous Laughter
+4 Jwari Disruption
 4 Maddening Cacophony
 4 Tasha's Hideous Laughter
-4 Jwari Disruption
-1 Reject
-1 Eaten Alive
-1 Feed the Swarm
 1 Flip the Switch
 1 Blood on the Snow
+1 Lolth, Spider Queen
+1 Feed the Swarm
 1 Deadly Dispute
+1 Eaten Alive
 1 Rogue Class
 1 Grim Bounty
 1 Tyrite Sanctum
-1 Lolth, Spider Queen
+1 Reject
 1 Shambling Ghast
 1 Devious Cover-Up
 1 Varragoth, Bloodsky Sire
-2 Eaten Alive
 2 Flip the Switch
 2 Rogue Class
 2 Shambling Ghast
+2 Eaten Alive
 2 Varragoth, Bloodsky Sire
 2 Deadly Dispute
-3 Eaten Alive
 3 Shambling Ghast
+3 Eaten Alive
 4 Eaten Alive
 4 Shambling Ghast
+1 Morbid Opportunist
+2 Morbid Opportunist
+2 Test of Talents
+3 Test of Talents
+3 Morbid Opportunist
+4 Negate
+4 Morbid Opportunist
 1 Delver of Secrets
 1 Reaper's Talisman
 2 Reaper's Talisman
 2 Delver of Secrets
 3 Delver of Secrets
 4 Delver of Secrets
+1 Consider
+2 Consider
+3 Concerted Defense
+3 Spectral Adversary
+4 Spectral Adversary
+1 Ebondeath, Dracolich
+1 Ray of Enfeeblement
+1 Lullmage's Domination
+2 Lullmage's Domination
+2 Ray of Enfeeblement
+10 Snow-Covered Swamp
 1 Port of Karfell
 2 Port of Karfell
 3 Duress
@@ -212,9 +218,3 @@
 4 Acquisitions Expert
 4 Blackbloom Rogue
 10 Swamp
-1 Ebondeath, Dracolich
-1 Ray of Enfeeblement
-1 Lullmage's Domination
-2 Lullmage's Domination
-2 Ray of Enfeeblement
-10 Snow-Covered Swamp

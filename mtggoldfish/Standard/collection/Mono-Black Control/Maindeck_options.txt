@@ -1,13 +1,13 @@
 4 Hive of the Eye Tyrant
-1 Acquisitions Expert
 1 Elderfang Disciple
+1 Acquisitions Expert
 2 Acquisitions Expert
 2 Elderfang Disciple
 1 Shambling Ghast
 2 Shambling Ghast
 3 Shambling Ghast
-4 Shambling Ghast
 4 Deadly Dispute
+4 Shambling Ghast
 1 Skullport Merchant
 2 Skullport Merchant
 3 Skullport Merchant
@@ -29,15 +29,15 @@
 3 Flunk
 3 Inscription of Ruin
 3 Eyetwitch
-4 Skullport Merchant
-4 Eyetwitch
 4 Inscription of Ruin
+4 Eyetwitch
+4 Skullport Merchant
 4 Flunk
 1 Sorin the Mirthless
 2 Sorin the Mirthless
 1 Baleful Mastery
-3 Duress
 3 Graveyard Trespasser
+3 Duress
 4 Duress
 4 Field of Ruin
 1 Power Word Kill
@@ -54,38 +54,38 @@
 3 The Meathook Massacre
 2 Baleful Mastery
 2 Go Blank
+1 Sedgemoor Witch
+1 Gelatinous Cube
+1 Gisa, Glorious Resurrector
+2 Power Word Kill
+2 Sedgemoor Witch
+2 Gelatinous Cube
+3 Sedgemoor Witch
 1 Morbid Opportunist
 2 Morbid Opportunist
 3 Morbid Opportunist
-1 Gelatinous Cube
-1 Gisa, Glorious Resurrector
-1 Sedgemoor Witch
-2 Power Word Kill
-2 Gelatinous Cube
-2 Sedgemoor Witch
-3 Sedgemoor Witch
-1 Champion of the Perished
-1 Dungeon Crawler
-1 Wight
 1 Jadar, Ghoulcaller of Nephalia
-2 Champion of the Perished
+1 Dungeon Crawler
+1 Champion of the Perished
+1 Wight
+2 Jadar, Ghoulcaller of Nephalia
 2 Dungeon Crawler
 2 Wight
-2 Jadar, Ghoulcaller of Nephalia
-3 Champion of the Perished
+2 Champion of the Perished
 3 Jadar, Ghoulcaller of Nephalia
-3 Ebondeath, Dracolich
-3 Wight
 3 Dungeon Crawler
-4 Champion of the Perished
+3 Ebondeath, Dracolich
+3 Champion of the Perished
+3 Wight
 4 Jadar, Ghoulcaller of Nephalia
+4 Dungeon Crawler
 4 Ebondeath, Dracolich
 4 Wight
-4 Dungeon Crawler
+4 Champion of the Perished
 1 Forsworn Paladin
 1 Westgate Regent
-1 Devour Intellect
 1 Skull Raid
+1 Devour Intellect
 2 Skull Raid
 2 Westgate Regent
 2 Devour Intellect
@@ -98,14 +98,14 @@
 4 Lolth, Spider Queen
 1 The Celestus
 1 Valki, God of Lies
-1 Concealing Curtains
 1 Snow-Covered Mountain
+1 Concealing Curtains
 1 Dread Fugue
 1 Shadows' Verdict
 1 Vampire's Kiss
 2 The Celestus
-2 Concealing Curtains
 2 Dread Fugue
+2 Concealing Curtains
 2 Vampire's Kiss
 2 Shadows' Verdict
 3 The Celestus
@@ -115,35 +115,35 @@
 4 Dread Fugue
 4 Concealing Curtains
 4 Vampire's Kiss
-1 Darkbore Pathway
-1 Nighthawk Scavenger
-1 Mind Drain
 1 Swamp
+1 Nighthawk Scavenger
+1 Darkbore Pathway
+1 Mind Drain
 1 Pestilent Cauldron
 1 Cosmos Elixir
 1 Witherbloom Campus
 1 Forest
-2 Darkbore Pathway
+2 Swamp
 2 Nighthawk Scavenger
 2 Mind Drain
 2 Pestilent Cauldron
 2 Forest
-2 Swamp
 2 Cosmos Elixir
 2 Witherbloom Campus
-3 Darkbore Pathway
+2 Darkbore Pathway
+3 Swamp
 3 Witherbloom Campus
 3 Pestilent Cauldron
+3 Darkbore Pathway
 3 Mind Drain
-3 Swamp
 3 Cosmos Elixir
+4 Swamp
 4 Elderfang Disciple
 4 Darkbore Pathway
 4 Cosmos Elixir
-4 Swamp
-4 Mind Drain
 5 Swamp
+6 Swamp
 7 Swamp
 8 Swamp
 9 Swamp
-6 Swamp
+4 Mind Drain

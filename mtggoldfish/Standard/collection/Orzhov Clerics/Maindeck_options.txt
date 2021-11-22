@@ -31,12 +31,12 @@
 2 Traveling Minister
 1 Snow-Covered Plains
 1 Snow-Covered Swamp
-2 Snow-Covered Swamp
 2 Snow-Covered Plains
-3 Snow-Covered Swamp
+2 Snow-Covered Swamp
 3 Snow-Covered Plains
-4 Snow-Covered Swamp
+3 Snow-Covered Swamp
 4 Snow-Covered Plains
+4 Snow-Covered Swamp
 5 Snow-Covered Plains
 5 Swamp
 3 Hive of the Eye Tyrant
@@ -62,6 +62,7 @@
 1 Duress
 1 The Meathook Massacre
 2 Duress
+3 Ollenbock Escort
 1 Infernal Grasp
 2 Infernal Grasp
 3 Infernal Grasp
@@ -70,9 +71,8 @@
 2 Nullpriest of Oblivion
 3 Thalia, Guardian of Thraben
 3 Nullpriest of Oblivion
-3 Ollenbock Escort
-1 Professor of Symbology
 1 Emeria's Call
+1 Professor of Symbology
 2 Professor of Symbology
 3 Faceless Haven
 3 Professor of Symbology
@@ -87,43 +87,43 @@
 1 Sorin the Mirthless
 3 Cave of the Frost Dragon
 4 Cave of the Frost Dragon
-1 Chaplain of Alms
-2 Chaplain of Alms
-3 Chaplain of Alms
-4 Chaplain of Alms
+1 Liesa, Forgotten Archangel
+1 Youthful Valkyrie
 1 Vengeful Reaper
 1 Raise the Draugr
-1 Youthful Valkyrie
-1 Liesa, Forgotten Archangel
 1 Starnheim Aspirant
+2 Valkyrie Harbinger
 2 Vengeful Reaper
 2 Starnheim Aspirant
-2 Valkyrie Harbinger
 2 Liesa, Forgotten Archangel
 2 Raise the Draugr
 2 Youthful Valkyrie
+3 Valkyrie Harbinger
 3 Starnheim Aspirant
 3 Raise the Draugr
 3 Youthful Valkyrie
-3 Valkyrie Harbinger
 3 Vengeful Reaper
 3 Liesa, Forgotten Archangel
 3 Angel of Destiny
+4 Valkyrie Harbinger
 4 Starnheim Aspirant
 4 Angel of Destiny
 4 Liesa, Forgotten Archangel
-4 Valkyrie Harbinger
 4 Vengeful Reaper
 4 Raise the Draugr
 4 Youthful Valkyrie
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
-9 Snow-Covered Swamp
 9 Snow-Covered Plains
-10 Snow-Covered Swamp
+9 Snow-Covered Swamp
 10 Snow-Covered Plains
-11 Snow-Covered Swamp
+10 Snow-Covered Swamp
 11 Snow-Covered Plains
-12 Snow-Covered Swamp
+11 Snow-Covered Swamp
 12 Snow-Covered Plains
+12 Snow-Covered Swamp
+1 Chaplain of Alms
+2 Chaplain of Alms
+3 Chaplain of Alms
+4 Chaplain of Alms

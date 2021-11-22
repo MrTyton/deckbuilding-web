@@ -4,9 +4,9 @@
 4 Isolated Chapel
 1 Thoughtseize
 2 Thoughtseize
-1 Emeria's Call
 1 Yorion, Sky Nomad
 1 Castle Ardenvale
+1 Emeria's Call
 1 Thraben Inspector
 1 Fabled Passage
 1 Go Blank
@@ -19,10 +19,10 @@
 1 Hive of the Eye Tyrant
 1 The Birth of Meletis
 2 Emeria's Call
+2 Yorion, Sky Nomad
 2 Thraben Inspector
 2 Fabled Passage
 2 Go Blank
-2 Yorion, Sky Nomad
 2 Trial of Ambition
 2 Fatal Push
 2 The Birth of Meletis
@@ -48,8 +48,8 @@
 4 Thraben Inspector
 1 Urborg, Tomb of Yawgmoth
 3 Swamp
-1 Champion of the Perished
 1 Cryptbreaker
+1 Champion of the Perished
 1 Dark Salvation
 1 Wayward Servant
 1 Rally the Ancestors
@@ -58,8 +58,8 @@
 1 Corpse Knight
 1 Lazotep Reaver
 1 Liliana, Untouched by Death
-2 Champion of the Perished
 2 Cryptbreaker
+2 Champion of the Perished
 2 Liliana, Untouched by Death
 2 Dark Salvation
 2 Lazotep Reaver
@@ -106,9 +106,9 @@
 3 Kaya's Wrath
 4 Treacherous Blessing
 3 Apostle of Purifying Light
+1 Elspeth Conquers Death
 1 Indatha Triome
 1 Basilica Bell-Haunt
-1 Elspeth Conquers Death
 2 Basilica Bell-Haunt
 2 Heartless Act
 3 Emeria's Call
@@ -125,8 +125,8 @@
 1 Hushbringer
 2 Hushbringer
 4 Karametra's Blessing
-1 Temple Garden
 1 Branchloft Pathway
+1 Temple Garden
 1 Forest
 1 Gladecover Scout
 1 Season of Growth
@@ -151,8 +151,8 @@
 1 Extinction Event
 2 Indatha Triome
 3 Go Blank
-3 Hive of the Eye Tyrant
 3 Yorion, Sky Nomad
+3 Hive of the Eye Tyrant
 1 Field of Ruin
 4 Omen of the Sun
 1 Sunpetal Grove
