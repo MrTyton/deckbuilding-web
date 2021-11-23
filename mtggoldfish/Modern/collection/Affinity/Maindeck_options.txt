@@ -24,8 +24,8 @@
 3 Ingenious Smith
 1 Plains
 2 Plains
-1 Kaldra Compleat
 1 Portable Hole
+1 Kaldra Compleat
 1 Esper Sentinel
 1 Stoneforge Mystic
 2 Portable Hole
@@ -74,8 +74,8 @@
 2 Seachrome Coast
 2 Hallowed Fountain
 2 Urza, Lord High Artificer
-3 Seachrome Coast
 3 Metallic Rebuke
+3 Seachrome Coast
 4 Seachrome Coast
 4 Metallic Rebuke
 1 Rustvale Bridge
@@ -84,17 +84,16 @@
 2 Island
 5 Plains
 1 Giver of Runes
+1 Aether Vial
 1 Solitude
 1 Field of Ruin
 1 Thalia, Guardian of Thraben
 1 Phyrexian Revoker
 1 Archon of Emeria
 1 Flickerwisp
-1 Aether Vial
 1 Emeria's Call
 1 Tectonic Edge
 2 Giver of Runes
-2 Solitude
 2 Field of Ruin
 2 Emeria's Call
 2 Thalia, Guardian of Thraben
@@ -102,17 +101,17 @@
 2 Tectonic Edge
 2 Flickerwisp
 2 Aether Vial
-3 Solitude
+2 Solitude
 3 Giver of Runes
-3 Field of Ruin
 3 Thalia, Guardian of Thraben
 3 Archon of Emeria
 3 Emeria's Call
+3 Solitude
+3 Field of Ruin
 3 Aether Vial
 3 Tectonic Edge
 3 Flickerwisp
 4 Thalia, Guardian of Thraben
-4 Solitude
 4 Field of Ruin
 4 Giver of Runes
 4 Archon of Emeria
@@ -120,6 +119,7 @@
 4 Aether Vial
 4 Emeria's Call
 4 Flickerwisp
+4 Solitude
 6 Plains
 7 Plains
 8 Plains
@@ -143,8 +143,8 @@
 4 Welding Jar
 1 Sacred Foundry
 1 Marsh Flats
-2 Marsh Flats
 2 Lightning Greaves
+2 Marsh Flats
 3 Marsh Flats
 4 Marsh Flats
 1 Tormod's Crypt
