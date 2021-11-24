@@ -19,47 +19,47 @@
 3 Deadly Dispute
 4 Kalain, Reclusive Painter
 4 Deadly Dispute
+4 Haunted Ridge
 2 Spikefield Hazard
-1 Stormcarved Coast
 1 Smoldering Egg
-1 Duress
 1 The Celestus
 1 Field of Ruin
-1 Demon Bolt
-2 Bloodchief's Thirst
-1 Burn Down the House
-2 Stormcarved Coast
-4 Fading Hope
+1 Duress
 1 Unexpected Windfall
-2 Field of Ruin
-1 Magma Opus
-2 Magma Opus
+1 Burn Down the House
+4 Fading Hope
+2 Stormcarved Coast
+1 Demon Bolt
 2 Unexpected Windfall
 1 Power Word Kill
 1 Cinderclasm
-1 Cathartic Pyre
+2 Field of Ruin
+2 Bloodchief's Thirst
 1 Hullbreaker Horror
 2 The Celestus
+1 Magma Opus
+2 Magma Opus
+1 Cathartic Pyre
+3 Unexpected Windfall
 4 Divide by Zero
 2 Smoldering Egg
 4 Shipwreck Marsh
-2 Duress
 3 Lier, Disciple of the Drowned
 3 Stormcarved Coast
-3 Unexpected Windfall
 1 The Meathook Massacre
 1 Abrade
+2 Duress
 4 Stormcarved Coast
 1 Shatterskull Smashing
 1 Consider
 2 Consider
 3 Smoldering Egg
+2 Hullbreaker Horror
+3 Spikefield Hazard
 3 Consider
 4 Unexpected Windfall
 1 Seize the Spoils
 2 Seize the Spoils
-2 Hullbreaker Horror
-3 Spikefield Hazard
 1 Sedgemoor Witch
 3 Bloodchief's Thirst
 4 Smoldering Egg
@@ -67,8 +67,7 @@
 3 Galvanic Iteration
 1 Alchemist's Gambit
 3 Jwari Disruption
-3 Memory Deluge
-1 Siphon Insight
+4 Spikefield Hazard
 2 Sedgemoor Witch
 3 Sedgemoor Witch
 3 Duress
@@ -83,33 +82,36 @@
 3 Codie, Vociferous Codex
 4 Behold the Multiverse
 4 Galvanic Iteration
+1 Siphon Insight
+1 Dread Fugue
+2 Dread Fugue
 3 The Celestus
 1 Hagra Mauling
 4 Duress
 2 The Meathook Massacre
 1 Ice Tunnel
+3 Memory Deluge
 2 Shatterskull Smashing
-4 Spikefield Hazard
 2 Burn Down the House
 1 Sorin the Mirthless
 3 Island
 1 Bloodthirsty Adversary
 2 Bloodthirsty Adversary
-1 Spectral Adversary
 1 Tainted Adversary
+1 Rotten Reunion
+1 Spectral Adversary
 1 Glasspool Mimic
 1 Zariel, Archduke of Avernus
-1 Mystic Reflection
-1 Rotten Reunion
 1 Hungry for More
+1 Mystic Reflection
 1 Startle
 1 Immersturm Predator
-2 Glasspool Mimic
-2 Mystic Reflection
 2 Rotten Reunion
+2 Glasspool Mimic
 2 Hungry for More
 2 Zariel, Archduke of Avernus
 2 Immersturm Predator
+2 Mystic Reflection
 2 Startle
 3 Hungry for More
 3 Immersturm Predator
@@ -121,22 +123,20 @@
 5 Mountain
 1 Wandering Mind
 2 Wandering Mind
-1 Dread Fugue
-2 Dread Fugue
 2 Abrade
 2 Demon Bolt
 1 Battle of Frost and Fire
 2 Battle of Frost and Fire
-1 Iymrith, Desert Doom
 1 Valki, God of Lies
+1 Iymrith, Desert Doom
 4 Saw It Coming
 1 Wash Away
 2 Wash Away
 2 Cathartic Pyre
+1 Play with Fire
 1 Thirst for Discovery
 1 Poppet Stitcher
 1 You Find Some Prisoners
-1 Play with Fire
 2 Thirst for Discovery
 2 Poppet Stitcher
 2 You Find Some Prisoners
@@ -148,11 +148,13 @@
 2 Baleful Mastery
 1 Malevolent Hermit
 2 Malevolent Hermit
+3 Infernal Grasp
+1 Syncopate
+3 Abrade
 1 Hero's Downfall
 2 Sorin the Mirthless
 2 Hero's Downfall
 3 Sorin the Mirthless
-3 Infernal Grasp
 1 Sea Gate Restoration
 1 Sulfurous Mire
 3 Field of Ruin
@@ -160,8 +162,9 @@
 2 Ice Tunnel
 2 Valki, God of Lies
 3 Swamp
-1 Syncopate
-3 Abrade
+1 Thundering Rebuke
+3 Shatterskull Smashing
+4 Shatterskull Smashing
 1 Parasitic Grasp
 1 Negate
 1 Test of Talents
@@ -170,9 +173,6 @@
 3 Wash Away
 4 Memory Deluge
 4 Bloodchief's Thirst
-1 Thundering Rebuke
-3 Shatterskull Smashing
-4 Shatterskull Smashing
 1 Shadows' Verdict
 3 Wandering Mind
 4 Consider
@@ -180,15 +180,15 @@
 1 Frostboil Snarl
 1 Graveyard Trespasser
 1 Check for Traps
+2 Inscription of Ruin
 2 Graveyard Trespasser
 2 Check for Traps
-2 Inscription of Ruin
 3 Bloodthirsty Adversary
 3 Graveyard Trespasser
 3 Check for Traps
 3 Inscription of Ruin
-4 Check for Traps
 4 Graveyard Trespasser
+4 Check for Traps
 4 Inscription of Ruin
 4 Bloodthirsty Adversary
 1 Ebondeath, Dracolich

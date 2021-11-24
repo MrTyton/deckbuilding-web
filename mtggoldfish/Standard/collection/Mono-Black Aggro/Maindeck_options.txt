@@ -112,23 +112,23 @@
 1 Henrika Domnathi
 4 Agadeem's Awakening
 14 Swamp
-1 Hobbling Zombie
-1 Diregraf Horde
 1 No Way Out
-1 Sepulcher Ghoul
 1 Dogged Pursuit
-2 Hobbling Zombie
-2 Diregraf Horde
+1 Hobbling Zombie
+1 Sepulcher Ghoul
+1 Diregraf Horde
 2 No Way Out
-2 Sepulcher Ghoul
+2 Hobbling Zombie
 2 Dogged Pursuit
-3 Hobbling Zombie
+2 Diregraf Horde
+2 Sepulcher Ghoul
 3 Sepulcher Ghoul
 3 No Way Out
+3 Hobbling Zombie
 3 Dogged Pursuit
 4 Hobbling Zombie
-4 Sepulcher Ghoul
 4 No Way Out
+4 Sepulcher Ghoul
 4 Dogged Pursuit
 20 Snow-Covered Swamp
 21 Snow-Covered Swamp
@@ -139,12 +139,12 @@
 1 Callous Bloodmage
 1 Poet's Quill
 2 Callous Bloodmage
-1 Draugr Necromancer
-2 Draugr Necromancer
 2 Hostile Hostel
 1 Hall of Oracles
 1 Mindleech Ghoul
 2 Mindleech Ghoul
+1 Draugr Necromancer
+2 Draugr Necromancer
 2 Hero's Downfall
 3 Hero's Downfall
 1 Drana, the Last Bloodchief
@@ -154,10 +154,6 @@
 3 Graf Reaver
 4 Ebondeath, Dracolich
 4 Sorin the Mirthless
-1 Blackbloom Rogue
-2 Inscription of Ruin
-3 Rotten Reunion
-4 Rotten Reunion
 1 Demon's Disciple
 2 Hagra Mauling
 2 Demon's Disciple
@@ -179,14 +175,18 @@
 1 Scourge of the Skyclaves
 1 Vorpal Sword
 2 Scourge of the Skyclaves
+3 Nighthawk Scavenger
 3 Bloodchief's Thirst
 3 Ecstatic Awakener
-3 Nighthawk Scavenger
 4 Ecstatic Awakener
+1 Blackbloom Rogue
+2 Inscription of Ruin
+3 Rotten Reunion
+4 Rotten Reunion
 2 Henrika Domnathi
 3 Henrika Domnathi
-3 Concealing Curtains
 3 Power Word Kill
+3 Concealing Curtains
 4 Henrika Domnathi
 4 Concealing Curtains
 15 Swamp

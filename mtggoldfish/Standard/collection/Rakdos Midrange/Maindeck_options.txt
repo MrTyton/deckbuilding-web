@@ -126,8 +126,8 @@
 2 Jaded Sell-Sword
 2 Sudden Breakthrough
 3 Hired Hexblade
-9 Swamp
 9 Mountain
+9 Swamp
 10 Mountain
 1 Scourge of the Skyclaves
 1 Burn Down the House
@@ -163,11 +163,11 @@
 2 Burn Down the House
 1 Shatterskull Charger
 2 Shatterskull Charger
-1 Roil Eruption
 1 Cemetery Gatekeeper
+1 Roil Eruption
 1 Volatile Arsonist
-2 Roil Eruption
 2 Cemetery Gatekeeper
+2 Roil Eruption
 2 Volatile Arsonist
 1 Sorin the Mirthless
 1 Dominating Vampire
@@ -189,20 +189,14 @@
 2 Unexpected Windfall
 3 Valki, God of Lies
 4 Tainted Adversary
-1 Champion of the Perished
-2 Champion of the Perished
-3 Champion of the Perished
-4 Champion of the Perished
-4 Jadar, Ghoulcaller of Nephalia
-4 Fell Stinger
 2 Scourge of the Skyclaves
 3 Scourge of the Skyclaves
 4 Scourge of the Skyclaves
 4 Duress
-1 Concealing Curtains
 1 Reckless Impulse
-2 Concealing Curtains
+1 Concealing Curtains
 2 Reckless Impulse
+2 Concealing Curtains
 3 Dread Fugue
 3 Reckless Impulse
 4 Dread Fugue
@@ -216,6 +210,12 @@
 4 Pelakka Predation
 4 Blood on the Snow
 4 Faceless Haven
+1 Champion of the Perished
+2 Champion of the Perished
+3 Champion of the Perished
+4 Jadar, Ghoulcaller of Nephalia
+4 Fell Stinger
+4 Champion of the Perished
 1 Nullpriest of Oblivion
 1 Flunk
 1 Bloodline Culling

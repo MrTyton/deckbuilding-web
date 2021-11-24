@@ -30,8 +30,8 @@
 3 Swamp
 3 Jadar, Ghoulcaller of Nephalia
 1 Island
-1 Overcharged Amalgam
 1 Fell Stinger
+1 Overcharged Amalgam
 2 Fell Stinger
 2 Overcharged Amalgam
 3 Fell Stinger
@@ -41,8 +41,8 @@
 1 Crippling Fear
 4 Shipwreck Marsh
 2 Island
-1 Skull Skaab
 1 Headless Rider
+1 Skull Skaab
 2 Headless Rider
 3 Headless Rider
 1 Archghoul of Thraben
@@ -151,6 +151,10 @@
 1 Bloodline Pretender
 2 Bloodline Pretender
 4 Wight
+3 Hobbling Zombie
+3 Corpse Cobble
+4 Hobbling Zombie
+4 Corpse Cobble
 1 Morbid Opportunist
 1 Skullport Merchant
 1 Professor Onyx
@@ -158,17 +162,13 @@
 2 Blood on the Snow
 2 Village Rites
 3 Skullport Merchant
-3 Blood on the Snow
 3 Faceless Haven
+3 Blood on the Snow
 4 Blood on the Snow
-3 Corpse Cobble
-3 Hobbling Zombie
-4 Hobbling Zombie
-4 Corpse Cobble
 3 Agadeem's Awakening
 3 Sepulcher Ghoul
-4 Flip the Switch
 4 Sepulcher Ghoul
+4 Flip the Switch
 1 You Find the Villains' Lair
 1 Eaten Alive
 1 Reject
@@ -213,9 +213,6 @@
 4 Organ Hoarder
 4 Strixhaven Stadium
 4 Reflections of Littjara
-2 Geralf, Visionary Stitcher
-5 Island
-6 Island
 1 Blood Pact
 2 Blood Pact
 3 Power Word Kill
@@ -223,3 +220,6 @@
 4 Blood Pact
 11 Swamp
 12 Swamp
+2 Geralf, Visionary Stitcher
+5 Island
+6 Island

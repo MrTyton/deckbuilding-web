@@ -16,8 +16,8 @@
 2 Shipwreck Marsh
 3 Shipwreck Marsh
 1 Forsworn Paladin
-2 Hostile Hostel
 2 Forsworn Paladin
+2 Hostile Hostel
 4 Hunt for Specimens
 4 The Meathook Massacre
 1 Duress
@@ -50,9 +50,6 @@
 1 Graveyard Trespasser
 2 Graveyard Trespasser
 3 Graveyard Trespasser
-1 Flunk
-1 Hall of Storm Giants
-3 Ice Tunnel
 1 Ecstatic Awakener
 2 Ecstatic Awakener
 3 Ecstatic Awakener
@@ -65,6 +62,9 @@
 2 Skyclave Shade
 2 Soul Shatter
 3 Skyclave Shade
+1 Flunk
+1 Hall of Storm Giants
+3 Ice Tunnel
 1 Champion of the Perished
 1 Overcharged Amalgam
 2 Overcharged Amalgam
@@ -76,16 +76,16 @@
 4 Champion of the Perished
 4 Village Rites
 1 Power Word Kill
-3 Hive of the Eye Tyrant
 3 Morbid Opportunist
+3 Hive of the Eye Tyrant
 4 Duress
-1 Demon's Disciple
 1 Warlock Class
 1 Negate
+1 Demon's Disciple
 2 Tainted Adversary
-2 Demon's Disciple
 2 Warlock Class
 2 Negate
+2 Demon's Disciple
 3 Warlock Class
 3 Clearwater Pathway
 4 Warlock Class

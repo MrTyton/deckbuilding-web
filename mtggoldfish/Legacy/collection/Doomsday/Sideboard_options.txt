@@ -3,9 +3,9 @@
 1 Pyroblast
 2 Duress
 1 Red Elemental Blast
+2 Pyroblast
 1 Wipe Away
 1 Spell Pierce
-2 Pyroblast
 1 Thassa's Oracle
 2 Red Elemental Blast
 1 Defense Grid
@@ -40,6 +40,8 @@
 2 Defense Grid
 1 Bitterblossom
 1 Sudden Edict
+1 Gurmag Angler
+2 Gurmag Angler
 1 Nihil Spellbomb
 1 Kaya, Orzhov Usurper
 1 Hydroblast
@@ -51,6 +53,10 @@
 1 Stoneforge Mystic
 1 Batterskull
 2 Stoneforge Mystic
+1 Pack Rat
+1 Tombstalker
+1 Murktide Regent
+2 Pack Rat
 1 Cabal Ritual
 2 Cabal Ritual
 1 Plague Engineer
@@ -68,11 +74,9 @@
 4 Duress
 1 Brazen Borrower
 1 Darkblast
-1 Gurmag Angler
 1 Snuff Out
 2 Sudden Edict
 2 Brazen Borrower
-2 Gurmag Angler
 2 Darkblast
 3 Darkblast
 3 Gurmag Angler

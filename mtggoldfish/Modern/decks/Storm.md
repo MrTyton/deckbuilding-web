@@ -1,7 +1,7 @@
 # Storm
 
 #### [Export MTGO List](../collection/Storm/Storm.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Baral,%20Chief%20of%20Compliance%0A4%09Consider%0A4%09Desperate%20Ritual%0A1%09Empty%20the%20Warrens%0A1%09Fiery%20Islet%0A4%09Gifts%20Ungiven%0A3%09Goblin%20Electromancer%0A1%09Grapeshot%0A2%09Island%0A4%09Manamorphose%0A1%09Mountain%0A2%09Past%20in%20Flames%0A4%09Pyretic%20Ritual%0A3%09Remand%0A1%09Repeal%0A1%09Riverglide%20Pathway%0A4%09Serum%20Visions%0A3%09Shivan%20Reef%0A1%09Silundi%20Vision%0A2%09Snow-Covered%20Island%0A4%09Spirebluff%20Canal%0A4%09Steam%20Vents%0A2%09Wish&deckside=1%09Abrade%0A1%09Echoing%20Truth%0A1%09Empty%20the%20Warrens%0A2%09Flusterstorm%0A1%09Galvanic%20Relay%0A1%09Grapeshot%0A3%09Lightning%20Bolt%0A1%09Past%20in%20Flames%0A3%09Pieces%20of%20the%20Puzzle%0A1%09Shattering%20Spree)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Baral,%20Chief%20of%20Compliance%0A4%09Consider%0A4%09Desperate%20Ritual%0A1%09Empty%20the%20Warrens%0A1%09Fiery%20Islet%0A4%09Gifts%20Ungiven%0A3%09Goblin%20Electromancer%0A1%09Grapeshot%0A2%09Island%0A4%09Manamorphose%0A1%09Mountain%0A2%09Past%20in%20Flames%0A4%09Pyretic%20Ritual%0A3%09Remand%0A1%09Repeal%0A1%09Riverglide%20Pathway%0A4%09Serum%20Visions%0A3%09Shivan%20Reef%0A1%09Silundi%20Vision%0A2%09Snow-Covered%20Island%0A4%09Spirebluff%20Canal%0A4%09Steam%20Vents%0A2%09Wish&deckside=1%09Abrade%0A1%09Echoing%20Truth%0A2%09Empty%20the%20Warrens%0A1%09Flusterstorm%0A1%09Grapeshot%0A3%09Lightning%20Bolt%0A1%09Mystical%20Dispute%0A1%09Past%20in%20Flames%0A3%09Pieces%20of%20the%20Puzzle%0A1%09Shattering%20Spree)
 # Maindeck
 
 |                                             Creature (7)                                              |                                        Instant (25)                                        |                                           Land (18)                                            |                                         Sorcery (10)                                         |
@@ -18,31 +18,30 @@
 
 # Sideboard
 
-|                                       Instant (7)                                        |                                           Sorcery (8)                                           |
-|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)       |1 [Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)   |
-|1 [Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)|1 [Galvanic Relay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522203)      |
-|2 [Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255) |1 [Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)           |
-|3 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)  |1 [Past in Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420748)      |
-|                                                                                          |3 [Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|
-|                                                                                          |1 [Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)    |
+|                                         Instant (7)                                         |                                           Sorcery (8)                                           |
+|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)          |2 [Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)   |
+|1 [Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)   |1 [Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)           |
+|1 [Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)    |1 [Past in Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420748)      |
+|3 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)     |3 [Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|
+|1 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|1 [Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)    |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    2|[Silundi Vision](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491711)  |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |
-|                    1|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)  |                    2|[Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)   |
-|                    2|[Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)       |                    1|[Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095)         |
-|                    2|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)  |                    1|[Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)       |
-|                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)          |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)              |
-|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    2|[Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)       |
-|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                    3|[Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)       |
-|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)        |
-|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)           |
-|                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |
-|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                    2|[Galvanic Relay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522203)      |
+|                    2|[Silundi Vision](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491711)  |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)        |
+|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    1|[Galvanic Relay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522203)      |
+|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)        |
+|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    1|[Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095)         |
+|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                    1|[Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)       |
+|                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                    2|[Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)       |
+|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)              |
+|                    1|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)  |                    3|[Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)       |
+|                    2|[Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)       |                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)           |
+|                    2|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)  |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |
+|                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)          |                    2|[Galvanic Relay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522203)      |
 |                    3|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)  |                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)        |
 |                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001) |                    4|[Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|
 |                    1|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)             |                     |                                                                                               |

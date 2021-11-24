@@ -12,8 +12,8 @@
 1 Fading Hope
 1 Brutal Cathar
 1 Battle of Frost and Fire
-2 Battle of Frost and Fire
 2 Brutal Cathar
+2 Battle of Frost and Fire
 3 Brutal Cathar
 2 Teachings of the Archaics
 1 Start from Scratch
@@ -46,8 +46,8 @@
 2 Prismari Command
 2 Rip Apart
 1 Dawnbringer Cleric
-2 Saw It Coming
 2 Thundering Rebuke
+2 Saw It Coming
 2 Reidane, God of the Worthy
 1 Fateful Absence
 2 Fateful Absence
@@ -63,6 +63,8 @@
 1 By Invitation Only
 1 Seize the Storm
 1 Magma Opus
+1 Burn Down the House
+2 Heated Debate
 2 Vanquish the Horde
 2 Cyclone Summoner
 1 Circle of Confinement
@@ -72,8 +74,6 @@
 2 Introduction to Annihilation
 1 Invoke the Divine
 2 Invoke the Divine
-1 Burn Down the House
-2 Heated Debate
 1 Draconic Intervention
 2 Draconic Intervention
 1 Divide by Zero
@@ -90,20 +90,20 @@
 3 Rip Apart
 2 Mind Flayer
 3 Mind Flayer
-1 Goldspan Dragon
-1 Iymrith, Desert Doom
-2 Goldspan Dragon
-3 Goldspan Dragon
-4 Goldspan Dragon
 1 Minimus Containment
 1 Dragon's Fire
 2 Minimus Containment
 2 Dragon's Fire
 3 Doomskar
 3 Negate
-3 Dragon's Fire
 3 Minimus Containment
+3 Dragon's Fire
 4 Negate
+1 Goldspan Dragon
+1 Iymrith, Desert Doom
+2 Goldspan Dragon
+3 Goldspan Dragon
+4 Goldspan Dragon
 1 Fractal Summoning
-2 Environmental Sciences
 1 Expanded Anatomy
+2 Environmental Sciences
