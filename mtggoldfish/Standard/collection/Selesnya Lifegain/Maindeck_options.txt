@@ -1,31 +1,30 @@
-1 Snow-Covered Forest
-2 Snow-Covered Plains
-2 Snow-Covered Forest
 3 Snow-Covered Plains
 3 Snow-Covered Forest
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 6 Snow-Covered Plains
-2 Luminarch Aspirant
+1 Luminarch Aspirant
+1 Story Seeker
+2 Story Seeker
 4 Righteous Valkyrie
 4 Kor Celebrant
+8 Forest
+3 Revitalize
 4 Snow-Covered Forest
 7 Snow-Covered Plains
-3 Revitalize
-8 Forest
-1 Inscription of Abundance
-3 Story Seeker
+2 Luminarch Aspirant
 1 Blizzard Brawl
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 8 Snow-Covered Plains
 9 Snow-Covered Plains
 1 Attended Healer
+4 Trelasarra, Moon Dancer
+3 Story Seeker
 7 Snow-Covered Forest
 8 Snow-Covered Forest
-4 Story Seeker
 2 Blizzard Brawl
-4 Trelasarra, Moon Dancer
+1 Inscription of Abundance
 3 Luminarch Aspirant
 2 Valkyrie Harbinger
 2 Attended Healer
@@ -34,9 +33,10 @@
 1 Sigarda's Splendor
 4 Branchloft Pathway
 1 Drizzt Do'Urden
-1 Fateful Absence
 2 Doomskar
+1 Fateful Absence
 1 Saryth, the Viper's Fang
+4 Story Seeker
 1 Cosmos Elixir
 2 Cosmos Elixir
 3 Blizzard Brawl
@@ -101,20 +101,19 @@
 1 Elite Spellbinder
 2 Elite Spellbinder
 11 Plains
-1 Skyclave Cleric
 4 Outland Liberator
 1 Return to Nature
 10 Snow-Covered Forest
-1 Thunderous Orator
-2 Thunderous Orator
-1 Ranger Class
-2 Ranger Class
-3 Ranger Class
-3 Attended Healer
 1 Pillardrop Rescuer
 1 Lurking Roper
 2 Lurking Roper
 1 Maja, Bretagard Protector
+1 Thunderous Orator
+2 Thunderous Orator
+3 Attended Healer
+1 Ranger Class
+2 Ranger Class
+3 Ranger Class
 1 Valorous Stance
 2 Valorous Stance
 1 Ollenbock Escort
@@ -122,6 +121,7 @@
 3 Ollenbock Escort
 1 Accomplished Alchemist
 3 Sigarda's Splendor
+1 Skyclave Cleric
 2 The Book of Exalted Deeds
 1 Cram Session
 2 Cram Session
@@ -139,9 +139,6 @@
 4 Revitalize
 1 The World Tree
 10 Forest
-1 Kazandu Mammoth
-1 Willow Geist
-1 Skyclave Apparition
 1 Exponential Growth
 1 Steadfast Paladin
 1 Unnatural Growth
@@ -179,10 +176,13 @@
 3 Skyclave Cleric
 4 Valkyrie Harbinger
 4 Skyclave Cleric
+1 Kazandu Mammoth
 1 Snakeskin Veil
+1 Willow Geist
 2 Pillardrop Rescuer
 1 Blessed Defiance
 2 Blessed Defiance
+1 Skyclave Apparition
 1 Vastwood Surge
 1 Candletrap
 1 Werewolf Pack Leader
@@ -196,22 +196,6 @@
 1 Smite the Monstrous
 2 Yasharn, Implacable Earth
 2 Smite the Monstrous
-1 Borrowed Time
-1 Maul of the Skyclaves
-1 Kabira Takedown
-1 Divine Gambit
-1 Tangled Florahedron
-1 Lotus Cobra
-1 Bretagard Stronghold
-1 Youthful Valkyrie
-1 Jaspera Sentinel
-1 Ambitious Farmhand
-1 Stalwart Valkyrie
-1 Vastwood Fortification
-2 Borrowed Time
-2 Divine Gambit
-2 Stalwart Valkyrie
-2 Jaspera Sentinel
 1 Priest of Ancient Lore
 2 Priest of Ancient Lore
 3 Thalia, Guardian of Thraben
@@ -232,6 +216,10 @@
 1 Consuming Blob
 3 Choose Your Weapon
 4 Doomskar
+1 Sigardian Paladin
+2 Sigardian Paladin
+3 Valorous Stance
+4 Valorous Stance
 1 Emeria's Call
 2 Emeria's Call
 4 Ollenbock Escort
@@ -241,10 +229,6 @@
 2 Dawnbringer Cleric
 3 Fortifying Draught
 4 Fortifying Draught
-1 Sigardian Paladin
-2 Sigardian Paladin
-3 Valorous Stance
-4 Valorous Stance
 1 Scale the Heights
 2 Scale the Heights
 3 Scale the Heights

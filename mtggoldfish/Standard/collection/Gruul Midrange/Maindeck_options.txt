@@ -94,8 +94,8 @@
 2 Burning Hands
 3 Burning Hands
 1 Highland Forest
-1 Storm the Festival
 1 Tovolar's Huntmaster
+1 Storm the Festival
 1 Field of Ruin
 1 Burn Down the House
 1 Bloodthirsty Adversary
@@ -103,13 +103,13 @@
 1 Devouring Tendrils
 1 Master Symmetrist
 2 Highland Forest
-2 Storm the Festival
 2 Tovolar's Huntmaster
+2 Storm the Festival
+2 Master Symmetrist
 2 Burn Down the House
 2 Bloodthirsty Adversary
 2 Field of Ruin
 2 Bala Ged Recovery
-2 Master Symmetrist
 2 Devouring Tendrils
 3 Highland Forest
 3 Inscription of Abundance
@@ -120,11 +120,11 @@
 4 Briarbridge Tracker
 1 Light Up the Night
 1 Manaform Hellkite
-1 Unexpected Windfall
 1 Chandra, Dressed to Kill
+1 Unexpected Windfall
 1 Spikefield Hazard
-2 Manaform Hellkite
 2 Spikefield Hazard
+2 Manaform Hellkite
 2 Unexpected Windfall
 2 Chandra, Dressed to Kill
 2 Light Up the Night
@@ -135,9 +135,6 @@
 1 Avabruck Caretaker
 4 Ascendant Packleader
 4 Halana and Alena, Partners
-3 Cinderclasm
-4 Wrenn and Seven
-4 Cinderclasm
 1 Swarm Shambler
 1 Vorinclex, Monstrous Raider
 1 Frost Bite
@@ -147,13 +144,16 @@
 4 Frost Bite
 4 Faceless Haven
 6 Snow-Covered Mountain
+3 Blizzard Brawl
+3 Old-Growth Troll
+3 Kessig Naturalist
+4 Blizzard Brawl
+4 Old-Growth Troll
+4 Kessig Naturalist
+8 Snow-Covered Forest
 1 Turntimber Symbiosis
 8 Mountain
 9 Mountain
-3 Kessig Naturalist
-3 Old-Growth Troll
-3 Blizzard Brawl
-4 Kessig Naturalist
-4 Old-Growth Troll
-8 Snow-Covered Forest
-4 Blizzard Brawl
+3 Cinderclasm
+4 Wrenn and Seven
+4 Cinderclasm

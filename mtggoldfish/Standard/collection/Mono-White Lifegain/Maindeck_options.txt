@@ -4,11 +4,11 @@
 1 The Book of Exalted Deeds
 2 The Book of Exalted Deeds
 1 Dawnbringer Cleric
-1 Story Seeker
 1 Revitalize
+1 Story Seeker
+2 Story Seeker
 2 Dawnbringer Cleric
 2 Revitalize
-2 Story Seeker
 1 Luminarch Aspirant
 1 Valkyrie Harbinger
 1 Celestial Unicorn
@@ -22,8 +22,8 @@
 1 Rune of Sustenance
 2 Rune of Sustenance
 2 Plains
-3 Plains
 3 Rune of Sustenance
+3 Plains
 4 Plains
 5 Plains
 6 Plains
@@ -51,8 +51,8 @@
 3 Celestial Unicorn
 4 Celestial Unicorn
 1 Steadfast Paladin
-1 Teleportation Circle
 1 Paladin Class
+1 Teleportation Circle
 2 Steadfast Paladin
 2 Teleportation Circle
 2 Paladin Class
@@ -60,8 +60,8 @@
 22 Plains
 23 Plains
 1 Traveling Minister
-1 Starnheim Unleashed
 1 Candletrap
+1 Starnheim Unleashed
 1 Portable Hole
 1 Sigarda's Summons
 1 Sigardian Savior
@@ -78,30 +78,30 @@
 1 Sejiri Shelter
 2 Skyclave Cleric
 2 Attended Healer
-2 Elite Spellbinder
 2 Valkyrie Harbinger
+2 Elite Spellbinder
 2 Borrowed Time
 2 Sejiri Shelter
 3 Skyclave Cleric
 3 Attended Healer
+3 Valkyrie Harbinger
 3 Elite Spellbinder
 3 Borrowed Time
-3 Valkyrie Harbinger
 3 Sejiri Shelter
 4 Skyclave Cleric
 4 Elite Spellbinder
 4 Valkyrie Harbinger
 4 Borrowed Time
 4 Attended Healer
-1 Divine Gambit
 1 Chaplain of Alms
 1 Felidar Retreat
+1 Divine Gambit
 1 Homestead Courage
 1 Minimus Containment
 1 Ranger's Hawk
-2 Divine Gambit
 2 Felidar Retreat
 2 Homestead Courage
+2 Divine Gambit
 2 Minimus Containment
 2 Ranger's Hawk
 3 Felidar Retreat
@@ -126,20 +126,20 @@
 4 Dawnbringer Cleric
 1 Starnheim Aspirant
 1 Ambitious Farmhand
+1 Fateful Absence
 1 Sigarda's Splendor
 1 Legion Angel
-1 Fateful Absence
-2 Fateful Absence
 2 Sigarda's Splendor
 2 Starnheim Aspirant
 2 Ambitious Farmhand
+2 Fateful Absence
 2 Legion Angel
 3 The Book of Exalted Deeds
+3 Sunset Revelry
 3 Sigarda's Splendor
 3 Starnheim Aspirant
 3 Ambitious Farmhand
 3 Fateful Absence
-3 Sunset Revelry
 3 Enduring Angel
 4 Starnheim Aspirant
 4 Enduring Angel
