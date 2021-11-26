@@ -34,17 +34,9 @@
 1 Curse of Silence
 1 Lunarch Veteran
 1 Orah, Skyclave Hierophant
-1 Mascot Exhibition
 1 Environmental Sciences
+1 Mascot Exhibition
 1 Necrotic Fumes
-1 Fateful Absence
-1 Voice of the Blessed
-1 Doomskar
-1 Pithing Needle
-1 Radiant Grace
-2 Fateful Absence
-2 Doomskar
-2 Pithing Needle
 1 Blade Historian
 1 Silverquill Silencer
 1 Inscription of Ruin
@@ -53,6 +45,14 @@
 1 Maul of the Skyclaves
 2 Bloodchief's Thirst
 2 Maul of the Skyclaves
+1 Doomskar
+1 Voice of the Blessed
+1 Pithing Needle
+1 Radiant Grace
+1 Fateful Absence
+2 Doomskar
+2 Pithing Needle
+2 Fateful Absence
 1 Kaya the Inexorable
 1 Vanquish the Horde
 2 Vanquish the Horde
@@ -95,12 +95,12 @@
 2 Skyclave Apparition
 3 Thalia, Guardian of Thraben
 4 Thalia, Guardian of Thraben
-1 Plains
 1 Swamp
 1 Kor Celebrant
-2 Swamp
+1 Plains
 2 Plains
+2 Swamp
 2 Kor Celebrant
+3 Plains
 3 Swamp
 3 Kor Celebrant
-3 Plains
