@@ -1,8 +1,8 @@
 3 Verdant Catacombs
 4 Verdant Catacombs
+3 Swamp
 3 Grief
 4 Grief
-3 Swamp
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 3 Bloodstained Mire
@@ -20,19 +20,17 @@
 1 Tendrils of Agony
 3 Badlands
 10 Swamp
-3 Marsh Flats
-3 Polluted Delta
 11 Swamp
 12 Swamp
 13 Swamp
-1 Collective Brutality
-2 Collective Brutality
+3 Marsh Flats
 4 Bloodstained Mire
+3 Polluted Delta
 1 Piranha Marsh
+1 Worldgorger Dragon
 1 Dance of the Dead
 1 Cabal Therapy
 1 Oona, Queen of the Fae
-1 Worldgorger Dragon
 2 Worldgorger Dragon
 2 Cabal Therapy
 2 Piranha Marsh
@@ -44,57 +42,27 @@
 4 Cabal Therapy
 4 Dance of the Dead
 1 Iona, Shield of Emeria
+1 Collective Brutality
+2 Collective Brutality
 1 Chrome Mox
 2 Chrome Mox
 14 Swamp
 1 Castle Locthwain
 1 Ashen Rider
-2 Scrubland
-4 Polluted Delta
 1 Unmarked Grave
-1 Lake of the Dead
-2 Lake of the Dead
 1 Sire of Insanity
 2 Bayou
-1 Intuition
-1 Teferi, Time Raveler
-1 Unburial Rites
-1 Tundra
-1 Brainstorm
-1 Elesh Norn, Grand Cenobite
-1 Island
-1 Ponder
-1 Demigod of Revenge
-1 Karakas
-1 Faithful Mending
-1 Force of Will
-2 Teferi, Time Raveler
-2 Brainstorm
-2 Demigod of Revenge
-2 Ponder
-2 Intuition
-2 Underground Sea
-2 Force of Will
-2 Faithful Mending
-3 Brainstorm
-3 Demigod of Revenge
-3 Faithful Mending
-3 Lake of the Dead
-3 Underground Sea
-3 Force of Will
-3 Ponder
-3 Intuition
-4 Marsh Flats
-4 Brainstorm
-4 Demigod of Revenge
-4 Ponder
-4 Intuition
-4 Force of Will
+4 Polluted Delta
 1 Arid Mesa
 2 Arid Mesa
+2 Scrubland
 1 Sunscorched Desert
 2 Sunscorched Desert
 3 Sunscorched Desert
+1 Geier Reach Sanitarium
+2 Geier Reach Sanitarium
+3 Geier Reach Sanitarium
+4 Geier Reach Sanitarium
 1 Cabal Ritual
 1 Rotting Regisaur
 2 Archon of Cruelty
@@ -102,12 +70,8 @@
 2 Rotting Regisaur
 3 Archon of Cruelty
 3 Cabal Ritual
-4 Archon of Cruelty
 4 Cabal Ritual
-1 Geier Reach Sanitarium
-2 Geier Reach Sanitarium
-3 Geier Reach Sanitarium
-4 Geier Reach Sanitarium
+4 Archon of Cruelty
 1 Thespian's Stage
 1 Dark Depths
 1 Urborg, Tomb of Yawgmoth
@@ -124,8 +88,10 @@
 4 Vampire Hexmage
 1 Hymn to Tourach
 1 Grave Titan
+1 Lake of the Dead
 1 Massacre Wurm
 2 Hymn to Tourach
+2 Lake of the Dead
 2 Grave Titan
 3 Hymn to Tourach
 3 Collective Brutality

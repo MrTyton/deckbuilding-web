@@ -1,11 +1,9 @@
-2 Stormcarved Coast
 1 Unexpected Windfall
-2 The Celestus
+2 Memory Deluge
 1 Hullbreaker Horror
-1 Duress
-2 Unexpected Windfall
 2 Infernal Grasp
-3 Lier, Disciple of the Drowned
+2 The Celestus
+2 Unexpected Windfall
 1 Burn Down the House
 1 Den of the Bugbear
 1 Deadly Dispute
@@ -14,6 +12,7 @@
 1 Hive of the Eye Tyrant
 1 Galazeth Prismari
 2 Galazeth Prismari
+2 Swamp
 1 Goldspan Dragon
 1 Shambling Ghast
 2 Shambling Ghast
@@ -22,7 +21,6 @@
 3 Goldspan Dragon
 4 Shambling Ghast
 2 Prismari Command
-2 Swamp
 1 Skullport Merchant
 2 Skullport Merchant
 4 Goldspan Dragon
@@ -32,49 +30,52 @@
 2 Saw It Coming
 3 Saw It Coming
 4 Deadly Dispute
+3 Lier, Disciple of the Drowned
 3 Kalain, Reclusive Painter
-2 Smoldering Egg
 4 Kalain, Reclusive Painter
-2 Bloodchief's Thirst
+1 Duress
+2 Smoldering Egg
 3 Unexpected Windfall
 1 Field of Ruin
+2 Bloodchief's Thirst
+3 Stormcarved Coast
 4 Shipwreck Marsh
-1 Consider
 1 Magma Opus
 2 Magma Opus
 4 Fading Hope
 1 Demon Bolt
-3 Stormcarved Coast
-2 Consider
+1 Consider
 3 Spikefield Hazard
 2 Field of Ruin
+2 Consider
 2 Hullbreaker Horror
 4 Unexpected Windfall
 4 Stormcarved Coast
-3 Consider
-3 Smoldering Egg
 1 Cathartic Pyre
+1 The Meathook Massacre
+2 Power Word Kill
+3 Consider
+1 Shatterskull Smashing
+3 Smoldering Egg
+1 Abrade
 2 Duress
 1 Sedgemoor Witch
-1 Shatterskull Smashing
-1 The Meathook Massacre
-1 Abrade
+3 The Celestus
+4 Spikefield Hazard
 2 Sedgemoor Witch
 3 Sedgemoor Witch
 4 Smoldering Egg
-2 Power Word Kill
-3 The Celestus
-4 Spikefield Hazard
 1 Seize the Spoils
 2 Seize the Spoils
 1 Alchemist's Gambit
 3 Jwari Disruption
-3 Bloodchief's Thirst
+1 Dread Fugue
 1 Behold the Multiverse
 3 Galvanic Iteration
+2 Soul Shatter
 2 Burn Down the House
 2 Alchemist's Gambit
-1 Dread Fugue
+2 Dread Fugue
 1 Baleful Mastery
 1 Snow-Covered Swamp
 1 Blood on the Snow
@@ -93,9 +94,9 @@
 6 Snow-Covered Swamp
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
-3 Duress
-2 Soul Shatter
+3 Bloodchief's Thirst
 3 Soul Shatter
+1 Sorin the Mirthless
 2 Shatterskull Smashing
 3 Infernal Grasp
 2 Baleful Mastery
@@ -110,6 +111,8 @@
 8 Snow-Covered Mountain
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
+1 Valki, God of Lies
+2 Valki, God of Lies
 1 Vampires' Vengeance
 1 Blood Fountain
 1 Anje, Maid of Dishonor
@@ -128,10 +131,8 @@
 4 Behold the Multiverse
 4 Galvanic Iteration
 1 Siphon Insight
-2 Dread Fugue
 3 Hullbreaker Horror
 2 The Meathook Massacre
-4 Duress
 1 Ice Tunnel
 3 Memory Deluge
 3 Baleful Mastery
@@ -144,13 +145,11 @@
 1 Faceless Haven
 1 Tormenting Voice
 2 Tormenting Voice
-1 Sorin the Mirthless
+3 Duress
 2 Cinderclasm
 1 Professor Onyx
 1 Sulfurous Mire
 1 Pelakka Predation
-1 Valki, God of Lies
-2 Valki, God of Lies
 1 Hero's Downfall
 1 Hagra Mauling
 1 Crippling Fear
@@ -177,12 +176,15 @@
 12 Snow-Covered Swamp
 4 Consider
 2 Abrade
+4 Duress
 2 Demon Bolt
 1 Battle of Frost and Fire
 2 Battle of Frost and Fire
-4 Sedgemoor Witch
+1 Shadows' Verdict
 1 Wash Away
 2 Wash Away
+2 Sorin the Mirthless
+4 Sedgemoor Witch
 1 Nullpriest of Oblivion
 2 Nullpriest of Oblivion
 1 Test of Talents
@@ -202,15 +204,19 @@
 1 Check for Traps
 2 Check for Traps
 2 Cathartic Pyre
-2 Sorin the Mirthless
 2 Hero's Downfall
 3 Sorin the Mirthless
 3 Island
 3 Nullpriest of Oblivion
 1 Sea Gate Restoration
 3 Field of Ruin
-1 Shadows' Verdict
 3 Wandering Mind
+1 Xanathar, Guild Kingpin
+1 Port of Karfell
+1 King Narfi's Betrayal
+2 King Narfi's Betrayal
+2 Shadows' Verdict
+3 Valki, God of Lies
 1 Syncopate
 3 Abrade
 3 Vampires' Vengeance
@@ -248,7 +254,7 @@
 3 Play with Fire
 3 Magmatic Channeler
 3 Eruth, Tormented Prophet
-4 Magmatic Channeler
 4 Play with Fire
 4 Eruth, Tormented Prophet
+4 Magmatic Channeler
 4 Prismari Command

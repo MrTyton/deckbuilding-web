@@ -13,34 +13,35 @@
 3 Bloodchief's Thirst
 11 Snow-Covered Swamp
 4 Infernal Grasp
-3 Falcon Abomination
-1 Startle
-2 Startle
 3 Shipwreck Marsh
 1 Hive of the Eye Tyrant
 2 Hive of the Eye Tyrant
+3 Falcon Abomination
 1 Swamp
 2 Swamp
-2 Ebondeath, Dracolich
-3 Crawl from the Cellar
-3 Startle
-1 Ghoulish Procession
-2 Poppet Stitcher
-4 Bloodchief's Thirst
+1 Startle
+2 Startle
 3 Swamp
-3 Jadar, Ghoulcaller of Nephalia
 1 Island
 1 Overcharged Amalgam
-1 Fell Stinger
 2 Overcharged Amalgam
-2 Fell Stinger
-3 Fell Stinger
 4 Swamp
 5 Swamp
-6 Swamp
-1 Crippling Fear
+2 Ebondeath, Dracolich
+1 Ghoulish Procession
+3 Jadar, Ghoulcaller of Nephalia
 4 Shipwreck Marsh
 2 Island
+1 Fell Stinger
+2 Fell Stinger
+3 Fell Stinger
+3 Crawl from the Cellar
+3 Startle
+4 Bloodchief's Thirst
+2 Poppet Stitcher
+6 Swamp
+1 Crippling Fear
+3 Island
 1 Headless Rider
 1 Skull Skaab
 2 Headless Rider
@@ -53,11 +54,12 @@
 1 Agadeem's Awakening
 7 Swamp
 12 Snow-Covered Swamp
+1 Soul Shatter
 2 Ghoulish Procession
-4 Crawl from the Cellar
 4 Startle
-3 Island
+4 Crawl from the Cellar
 3 Hive of the Eye Tyrant
+4 Island
 1 Necroduality
 2 Archghoul of Thraben
 2 Necroduality
@@ -73,24 +75,24 @@
 3 Dungeon Crawler
 8 Swamp
 9 Swamp
+3 Overcharged Amalgam
+4 Overcharged Amalgam
 1 Corpse Cobble
+2 Soul Shatter
 3 Deadly Dispute
-1 Soul Shatter
 13 Snow-Covered Swamp
+1 Fading Hope
 3 Ghoulish Procession
-4 Island
+1 Hall of Storm Giants
 1 Rise of the Dread Marn
 1 Necrosynthesis
 2 Necrosynthesis
-3 Overcharged Amalgam
-4 Overcharged Amalgam
 1 Hobbling Zombie
 2 Hobbling Zombie
-2 Soul Shatter
 3 Flip the Switch
 4 Dungeon Crawler
-3 Ebondeath, Dracolich
 2 Agadeem's Awakening
+3 Ebondeath, Dracolich
 4 Hive of the Eye Tyrant
 1 Poison the Cup
 2 Poison the Cup
@@ -105,21 +107,23 @@
 1 Lolth, Spider Queen
 2 Lolth, Spider Queen
 4 Deadly Dispute
+5 Island
+6 Island
 14 Snow-Covered Swamp
 15 Snow-Covered Swamp
-1 Fading Hope
 2 Corpse Cobble
 1 Sepulcher Ghoul
 2 Sepulcher Ghoul
 1 Village Rites
+2 Fading Hope
 1 Diregraf Horde
 2 Diregraf Horde
-1 Hall of Storm Giants
 1 Organ Hoarder
 2 Organ Hoarder
 3 Organ Hoarder
 1 Hagra Mauling
 4 Falcon Abomination
+2 Hall of Storm Giants
 2 Rise of the Dread Marn
 1 Draugr Necromancer
 1 Avalanche Caller
@@ -136,9 +140,9 @@
 1 Revenge of the Drowned
 2 Reaper's Talisman
 2 No Way Out
-2 Fading Hope
 2 Duress
 2 Revenge of the Drowned
+2 Geralf, Visionary Stitcher
 1 Siphon Insight
 1 Disdainful Stroke
 2 Siphon Insight
@@ -148,9 +152,9 @@
 2 Test of Talents
 3 Test of Talents
 3 The Meathook Massacre
-1 Morbid Opportunist
 1 Skullport Merchant
 1 Professor Onyx
+1 Morbid Opportunist
 2 Skullport Merchant
 2 Blood on the Snow
 2 Village Rites
@@ -183,31 +187,30 @@
 3 Curate
 4 Narfi, Betrayer King
 4 Curate
-1 Wretched Throng
 1 Malakir Rebirth
+1 Wretched Throng
 2 Wretched Throng
 3 Wretched Throng
 4 Fell Stinger
 4 Wretched Throng
-1 Field of Ruin
 1 Baleful Mastery
 1 Reflections of Littjara
 1 Ghastly Gloomhunter
 1 Strixhaven Stadium
 1 Acererak the Archlich
-2 Hagra Mauling
+1 Field of Ruin
 2 Field of Ruin
-2 Hall of Storm Giants
+2 Hagra Mauling
 2 Ghastly Gloomhunter
 2 Acererak the Archlich
 2 Strixhaven Stadium
 2 Reflections of Littjara
 3 Field of Ruin
+3 Reflections of Littjara
 3 Diregraf Horde
 3 Hagra Mauling
 3 Ghastly Gloomhunter
 3 Strixhaven Stadium
-3 Reflections of Littjara
 4 Diregraf Horde
 4 Ghastly Gloomhunter
 4 Organ Hoarder
@@ -220,6 +223,16 @@
 4 Blood Pact
 11 Swamp
 12 Swamp
-2 Geralf, Visionary Stitcher
-5 Island
-6 Island
+1 Hullbreaker Horror
+1 Syncopate
+1 Divide by Zero
+1 Memory Deluge
+2 Memory Deluge
+2 Hullbreaker Horror
+2 Syncopate
+2 Divide by Zero
+3 Memory Deluge
+3 Fading Hope
+3 Divide by Zero
+4 Divide by Zero
+7 Island

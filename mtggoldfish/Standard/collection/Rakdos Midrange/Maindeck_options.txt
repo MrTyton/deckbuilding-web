@@ -115,8 +115,8 @@
 3 Lolth, Spider Queen
 4 Lolth, Spider Queen
 1 Magic Missile
-1 Westgate Regent
 1 Grim Bounty
+1 Westgate Regent
 1 Sudden Breakthrough
 1 Jaded Sell-Sword
 1 Hired Hexblade
@@ -161,14 +161,14 @@
 2 Hagra Mauling
 1 Baleful Mastery
 2 Burn Down the House
-1 Shatterskull Charger
-2 Shatterskull Charger
 1 Roil Eruption
 1 Cemetery Gatekeeper
 1 Volatile Arsonist
+2 Volatile Arsonist
 2 Roil Eruption
 2 Cemetery Gatekeeper
-2 Volatile Arsonist
+1 Shatterskull Charger
+2 Shatterskull Charger
 1 Temple of the Dragon Queen
 2 Temple of the Dragon Queen
 3 Moonveil Regent
@@ -177,32 +177,26 @@
 1 Anje, Maid of Dishonor
 2 Anje, Maid of Dishonor
 3 Anje, Maid of Dishonor
+1 Unexpected Windfall
+2 Unexpected Windfall
+3 Valki, God of Lies
 1 Malakir Rebirth
-1 Olivia, Crimson Bride
 1 Hero's Downfall
+1 Olivia, Crimson Bride
 2 Malakir Rebirth
 2 Hero's Downfall
 2 Olivia, Crimson Bride
 3 Hero's Downfall
 3 Abrade
-1 Unexpected Windfall
-2 Unexpected Windfall
-3 Valki, God of Lies
-4 Tainted Adversary
 2 Scourge of the Skyclaves
 3 Scourge of the Skyclaves
 4 Scourge of the Skyclaves
+4 Tainted Adversary
 4 Duress
-1 Champion of the Perished
-2 Champion of the Perished
-3 Champion of the Perished
-4 Fell Stinger
-4 Champion of the Perished
-4 Jadar, Ghoulcaller of Nephalia
-1 Reckless Impulse
 1 Concealing Curtains
-2 Reckless Impulse
+1 Reckless Impulse
 2 Concealing Curtains
+2 Reckless Impulse
 3 Dread Fugue
 3 Reckless Impulse
 4 Dread Fugue
@@ -216,6 +210,12 @@
 4 Pelakka Predation
 4 Blood on the Snow
 4 Faceless Haven
+1 Champion of the Perished
+2 Champion of the Perished
+3 Champion of the Perished
+4 Jadar, Ghoulcaller of Nephalia
+4 Fell Stinger
+4 Champion of the Perished
 1 Nullpriest of Oblivion
 1 Flunk
 1 Bloodline Culling
@@ -228,8 +228,8 @@
 4 Hoarding Ogre
 1 Poison the Cup
 1 Immersturm Skullcairn
-2 Inscription of Ruin
 2 Poison the Cup
+2 Inscription of Ruin
 3 Field of Ruin
 3 Poison the Cup
 4 Poison the Cup

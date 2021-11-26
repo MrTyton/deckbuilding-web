@@ -35,7 +35,7 @@
 
 |*n*<sup>th</sup> copy|                                   Maindeck Card                                   |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|-----------------------------------------------------------------------------------|---------------------|--------------|
-|                    8|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)|                     |              |
+|                    8|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)  |                     |              |
 |                    9|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)  |                     |              |
-|                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)  |                     |              |
+|                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)|                     |              |
 

@@ -57,6 +57,6 @@
 |                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)     |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)     |                    4|[Subtlety](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522143)           |
 |                     |                                                                                              |                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)   |
-|                     |                                                                                              |                    1|[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438486)|
 |                     |                                                                                              |                    2|[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438486)|
+|                     |                                                                                              |                    1|[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438486)|
 
