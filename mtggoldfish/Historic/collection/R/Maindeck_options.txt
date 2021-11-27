@@ -1,37 +1,38 @@
 4 Soul-Scar Mage
+2 Shatterskull Smashing
 13 Mountain
 1 Shock
 2 Shock
 3 Shock
 1 Light Up the Stage
 2 Light Up the Stage
-1 Roiling Vortex
 3 Light Up the Stage
 14 Mountain
+1 Roiling Vortex
+1 Bonecrusher Giant
 2 Roiling Vortex
 4 Light Up the Stage
-2 Shatterskull Smashing
-1 Bonecrusher Giant
 4 Shock
+2 Bonecrusher Giant
+15 Mountain
 1 Pillar of Flame
 2 Ox of Agonas
 1 Hollow One
 2 Hollow One
 3 Hollow One
 4 Hollow One
-15 Mountain
-2 Bonecrusher Giant
 1 Castle Embereth
 1 Lightning Strike
 2 Lightning Strike
 4 Den of the Bugbear
 2 Pillar of Flame
+3 Shatterskull Smashing
 1 Magmatic Channeler
 2 Magmatic Channeler
 3 Magmatic Channeler
-3 Shatterskull Smashing
 3 Lightning Strike
 4 Lightning Strike
+3 Bonecrusher Giant
 1 Cragcrown Pathway
 1 Stomping Ground
 2 Cragcrown Pathway
@@ -47,19 +48,18 @@
 4 Cragcrown Pathway
 4 Atarka's Command
 3 Pillar of Flame
-3 Bonecrusher Giant
 1 Skewer the Critics
 2 Skewer the Critics
 3 Skewer the Critics
+4 Magmatic Channeler
+4 Bonecrusher Giant
 4 Skewer the Critics
 3 Roiling Vortex
-4 Magmatic Channeler
 4 Roiling Vortex
-4 Bonecrusher Giant
 1 Sacred Foundry
 1 Needleverge Pathway
-1 Lightning Helix
 1 Inspiring Vantage
+1 Lightning Helix
 2 Sacred Foundry
 2 Needleverge Pathway
 2 Lightning Helix
@@ -101,6 +101,10 @@
 4 Riverglide Pathway
 4 Spirebluff Canal
 4 Expressive Iteration
+1 Play with Fire
+2 Play with Fire
+3 Play with Fire
+4 Play with Fire
 1 Torbran, Thane of Red Fell
 2 Torbran, Thane of Red Fell
 1 Hazoret the Fervent
@@ -119,21 +123,17 @@
 3 Anax, Hardened in the Forge
 1 Sprite Dragon
 2 Sprite Dragon
-2 Lightning Axe
-1 Flameblade Adept
-2 Flameblade Adept
-3 Flameblade Adept
-4 Flameblade Adept
 1 Embercleave
 2 Embercleave
 1 Burning-Tree Emissary
 2 Burning-Tree Emissary
 3 Burning-Tree Emissary
+2 Lightning Axe
+1 Flameblade Adept
+2 Flameblade Adept
+3 Flameblade Adept
+4 Flameblade Adept
 2 Hazoret the Fervent
-1 Play with Fire
-2 Play with Fire
-3 Play with Fire
-4 Play with Fire
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
 1 Chandra, Torch of Defiance
@@ -212,23 +212,27 @@
 3 Castle Embereth
 4 Castle Embereth
 4 Faceless Haven
-1 Viashino Pyromancer
-1 Ghitu Lavarunner
-1 Wizard's Lightning
-2 Ghitu Lavarunner
-2 Viashino Pyromancer
-2 Wizard's Lightning
-3 Wizard's Lightning
-3 Viashino Pyromancer
-3 Ghitu Lavarunner
-4 Viashino Pyromancer
-4 Ghitu Lavarunner
-4 Wizard's Lightning
+1 Showdown of the Skalds
+2 Showdown of the Skalds
+3 Showdown of the Skalds
+4 Showdown of the Skalds
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
 3 Hazoret the Fervent
 4 Runaway Steam-Kin
+1 Ghitu Lavarunner
+1 Wizard's Lightning
+1 Viashino Pyromancer
+2 Wizard's Lightning
+2 Ghitu Lavarunner
+2 Viashino Pyromancer
+3 Ghitu Lavarunner
+3 Wizard's Lightning
+3 Viashino Pyromancer
+4 Wizard's Lightning
+4 Ghitu Lavarunner
+4 Viashino Pyromancer
 1 Rimrock Knight
 1 Falkenrath Pit Fighter
 1 Kari Zev, Skyship Raider
@@ -248,11 +252,11 @@
 1 Hive of the Eye Tyrant
 1 Kazandu Mammoth
 1 Reckless Stormseeker
-1 Blightstep Pathway
 1 Overgrown Tomb
 1 Call of the Death-Dweller
 1 Dragonskull Summit
 1 Blood Crypt
+1 Blightstep Pathway
 1 Dreadhorde Butcher
 2 Collected Company
 2 Rotting Regisaur
@@ -265,8 +269,8 @@
 3 Collected Company
 3 Rotting Regisaur
 3 Overgrown Tomb
-3 Blightstep Pathway
 3 Reckless Stormseeker
+3 Blightstep Pathway
 3 Blood Crypt
 3 Dreadhorde Butcher
 4 Overgrown Tomb

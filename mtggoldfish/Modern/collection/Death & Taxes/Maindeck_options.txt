@@ -1,19 +1,24 @@
 1 Mishra's Factory
-3 Cave of the Frost Dragon
-4 Esper Sentinel
-14 Plains
-3 Path to Exile
-1 Castle Ardenvale
-1 Horizon Canopy
-2 Silent Clearing
-3 Tectonic Edge
 2 Mishra's Factory
-1 Sanctum Prelate
+1 Castle Ardenvale
+3 Cave of the Frost Dragon
+14 Plains
+1 Eiganjo Castle
+2 Silent Clearing
+3 Mishra's Factory
 1 Ephemerate
 2 Ephemerate
+3 Tectonic Edge
+3 Silent Clearing
+4 Mishra's Factory
+1 Horizon Canopy
 3 Ephemerate
 4 Ephemerate
 1 Shadowspear
+1 Sanctum Prelate
+3 Path to Exile
+3 Charming Prince
+15 Plains
 1 Sacred Foundry
 1 Arid Mesa
 1 Imperial Recruiter
@@ -29,13 +34,17 @@
 4 Arid Mesa
 4 Imperial Recruiter
 4 Inspiring Vantage
+1 Sunbaked Canyon
 4 Path to Exile
-3 Silent Clearing
-3 Mishra's Factory
+1 Urza's Saga
+2 Urza's Saga
+3 Urza's Saga
+4 Urza's Saga
 1 Needleverge Pathway
 2 Needleverge Pathway
 1 Magus of the Moon
 4 Tectonic Edge
+4 Silent Clearing
 1 Kiki-Jiki, Mirror Breaker
 1 Windswept Heath
 1 Wall of Omens
@@ -46,30 +55,23 @@
 3 Windswept Heath
 4 Wall of Omens
 4 Windswept Heath
-15 Plains
-1 Sunbaked Canyon
 1 Ambitious Farmhand
 2 Ambitious Farmhand
 3 Ambitious Farmhand
 4 Ambitious Farmhand
 2 Horizon Canopy
-3 Charming Prince
 1 Archangel Avacyn
 1 Rugged Prairie
 2 Rugged Prairie
 3 Horizon Canopy
-4 Mishra's Factory
+3 Restoration Angel
 16 Plains
-4 Silent Clearing
 2 Sunbaked Canyon
+4 Charming Prince
+1 Timeless Dragon
 1 Snow-Covered Plains
 2 Snow-Covered Plains
-1 Urza's Saga
-2 Urza's Saga
-3 Urza's Saga
-4 Urza's Saga
 2 Sanctum Prelate
-3 Restoration Angel
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
@@ -83,21 +85,26 @@
 13 Snow-Covered Plains
 14 Snow-Covered Plains
 15 Snow-Covered Plains
-1 Cathar Commando
-2 Cathar Commando
-3 Cathar Commando
 1 Brutal Cathar
 1 Sanctifier en-Vec
 3 Sacred Foundry
+1 Cathar Commando
+2 Cathar Commando
 2 Brutal Cathar
 3 Brutal Cathar
 4 Brutal Cathar
-4 Charming Prince
-1 Timeless Dragon
+3 Cathar Commando
 1 Prismatic Vista
 3 Needleverge Pathway
 4 Needleverge Pathway
+1 Prismatic Ending
+2 Prismatic Ending
+3 Prismatic Ending
+4 Prismatic Ending
 1 Aven Mindcensor
+1 Relic of Progenitus
+1 Leonin Relic-Warder
+1 Weathered Wayfarer
 1 Sword of Light and Shadow
 1 Sungold Sentinel
 2 Sungold Sentinel
@@ -116,26 +123,19 @@
 2 Thraben Inspector
 3 Thraben Inspector
 4 Thraben Inspector
-1 Relic of Progenitus
-1 Leonin Relic-Warder
-1 Weathered Wayfarer
-1 Prismatic Ending
-2 Prismatic Ending
-3 Prismatic Ending
-4 Prismatic Ending
 1 Forest
+1 Oath of Nissa
 1 Noble Hierarch
 1 Temple Garden
-1 Oath of Nissa
 1 Brushland
 1 Razorverge Thicket
 1 Branchloft Pathway
 1 Augur of Autumn
 1 Scavenging Ooze
 2 Forest
+2 Oath of Nissa
 2 Noble Hierarch
 2 Temple Garden
-2 Oath of Nissa
 2 Brushland
 2 Razorverge Thicket
 2 Branchloft Pathway
@@ -158,17 +158,40 @@
 17 Snow-Covered Plains
 18 Snow-Covered Plains
 19 Snow-Covered Plains
+17 Plains
+18 Plains
+19 Plains
 3 Sanctum Prelate
-1 Dark Confidant
-1 Tidehollow Sculler
-1 Swamp
-1 Concealed Courtyard
-2 Dark Confidant
-2 Tidehollow Sculler
-2 Concealed Courtyard
-3 Dark Confidant
-3 Concealed Courtyard
-3 Tidehollow Sculler
-4 Dark Confidant
-4 Concealed Courtyard
-4 Tidehollow Sculler
+1 Seachrome Coast
+1 Portable Hole
+1 Selfless Spirit
+1 Judge's Familiar
+1 Hallowed Fountain
+1 Deputy of Detention
+1 Mutavault
+1 Spell Queller
+1 Adarkar Wastes
+1 Spellstutter Sprite
+2 Seachrome Coast
+2 Selfless Spirit
+2 Adarkar Wastes
+2 Deputy of Detention
+2 Mutavault
+2 Hallowed Fountain
+2 Spellstutter Sprite
+2 Spell Queller
+3 Hallowed Fountain
+3 Seachrome Coast
+3 Mutavault
+3 Spellstutter Sprite
+3 Deputy of Detention
+3 Spell Queller
+3 Adarkar Wastes
+3 Selfless Spirit
+4 Seachrome Coast
+4 Spell Queller
+4 Hallowed Fountain
+4 Adarkar Wastes
+4 Spellstutter Sprite
+4 Deputy of Detention
+4 Selfless Spirit

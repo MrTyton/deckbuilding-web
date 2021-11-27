@@ -44,8 +44,8 @@
 3 Eyetwitch
 4 Eyetwitch
 1 Snow-Covered Mountain
-1 Blood on the Snow
 1 Snow-Covered Swamp
+1 Blood on the Snow
 2 Snow-Covered Mountain
 2 Blood on the Snow
 2 Snow-Covered Swamp
@@ -115,11 +115,11 @@
 3 Lolth, Spider Queen
 4 Lolth, Spider Queen
 1 Magic Missile
-1 Grim Bounty
 1 Westgate Regent
 1 Sudden Breakthrough
 1 Jaded Sell-Sword
 1 Hired Hexblade
+1 Grim Bounty
 2 Grim Bounty
 2 Hired Hexblade
 2 Magic Missile
@@ -157,10 +157,10 @@
 1 Thieves' Tools
 1 Red Dragon
 1 Unwilling Ingredient
-1 Hagra Mauling
-2 Hagra Mauling
 1 Baleful Mastery
 2 Burn Down the House
+1 Hagra Mauling
+2 Hagra Mauling
 1 Roil Eruption
 1 Cemetery Gatekeeper
 1 Volatile Arsonist
@@ -188,10 +188,20 @@
 2 Olivia, Crimson Bride
 3 Hero's Downfall
 3 Abrade
+4 Blood on the Snow
+4 Faceless Haven
 2 Scourge of the Skyclaves
 3 Scourge of the Skyclaves
 4 Scourge of the Skyclaves
 4 Tainted Adversary
+1 Nullpriest of Oblivion
+1 Flunk
+1 Bloodline Culling
+1 Crippling Fear
+2 Nullpriest of Oblivion
+2 Flunk
+3 Agadeem's Awakening
+4 Nighthawk Scavenger
 4 Duress
 1 Concealing Curtains
 1 Reckless Impulse
@@ -202,28 +212,18 @@
 4 Dread Fugue
 1 Pelakka Predation
 1 Power Word Kill
-2 Pelakka Predation
 2 Power Word Kill
+2 Pelakka Predation
 3 Power Word Kill
 3 Pelakka Predation
 4 Power Word Kill
 4 Pelakka Predation
-4 Blood on the Snow
-4 Faceless Haven
 1 Champion of the Perished
 2 Champion of the Perished
 3 Champion of the Perished
 4 Jadar, Ghoulcaller of Nephalia
 4 Fell Stinger
 4 Champion of the Perished
-1 Nullpriest of Oblivion
-1 Flunk
-1 Bloodline Culling
-1 Crippling Fear
-2 Nullpriest of Oblivion
-2 Flunk
-3 Agadeem's Awakening
-4 Nighthawk Scavenger
 3 Hoarding Ogre
 4 Hoarding Ogre
 1 Poison the Cup
@@ -249,7 +249,6 @@
 4 Inferno of the Star Mounts
 4 Xorn
 4 Orcus, Prince of Undeath
-4 Falkenrath Pit Fighter
 1 Village Rites
 1 Go Blank
 2 Village Rites
@@ -261,7 +260,8 @@
 9 Snow-Covered Swamp
 10 Snow-Covered Mountain
 10 Snow-Covered Swamp
-11 Snow-Covered Mountain
 11 Snow-Covered Swamp
+11 Snow-Covered Mountain
 12 Snow-Covered Swamp
 13 Snow-Covered Swamp
+4 Falkenrath Pit Fighter

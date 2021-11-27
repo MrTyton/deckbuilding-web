@@ -111,20 +111,20 @@
 1 Starnheim Unleashed
 2 Starnheim Unleashed
 2 Go Blank
-2 Power Word Kill
 2 Faithful Mending
+2 Power Word Kill
 1 Faithbound Judge
 2 Faithbound Judge
 3 Faithbound Judge
-1 Port of Karfell
 1 Ondu Inversion
+1 Port of Karfell
 3 Dread Fugue
 4 Dread Fugue
 1 Poison the Cup
 1 Emeria's Call
 1 Portable Hole
-2 Disdainful Stroke
 2 Portable Hole
+2 Disdainful Stroke
 3 Iymrith, Desert Doom
 3 Sunset Revelry
 1 Sea Gate Restoration
@@ -134,27 +134,27 @@
 4 Dissipate
 1 Otherworldly Gaze
 2 Otherworldly Gaze
-3 Faithful Mending
 3 Field of Ruin
+3 Faithful Mending
+1 Silundi Vision
 1 Inscription of Insight
 1 Dennick, Pious Apprentice
-1 Devastating Mastery
 1 Cave of the Frost Dragon
-1 Silundi Vision
+1 Devastating Mastery
 1 Hagra Mauling
 2 Hagra Mauling
-1 Archon of Emeria
-2 Archon of Emeria
 1 Malakir Rebirth
 2 Malakir Rebirth
 1 The Raven's Warning
 2 The Raven's Warning
+1 Archon of Emeria
+2 Archon of Emeria
 1 Edgar, Charmed Groom
 2 Edgar, Charmed Groom
-1 Lithoform Blight
 1 Snowfield Sinkhole
-2 Shineshadow Snarl
+1 Lithoform Blight
 2 Snowfield Sinkhole
+2 Shineshadow Snarl
 2 Lithoform Blight
 1 Treasure Vault
 3 Hullbreaker Horror
@@ -166,29 +166,18 @@
 2 Silverquill Campus
 3 Emeria's Call
 3 Silverquill Campus
-3 Fateful Absence
-4 Fateful Absence
-1 Liesa, Forgotten Archangel
-4 Syncopate
-1 Parasitic Grasp
-4 Sorin the Mirthless
-4 Path of Peril
-1 Riverglide Pathway
-2 Riverglide Pathway
-3 Riverglide Pathway
-4 Riverglide Pathway
-1 Poppet Stitcher
-1 Valki, God of Lies
-1 Borrowed Time
-1 Gisa, Glorious Resurrector
 1 King Narfi's Betrayal
-1 Blightstep Pathway
+1 Borrowed Time
+1 Poppet Stitcher
 1 The Trickster-God's Heist
-2 Poppet Stitcher
+1 Valki, God of Lies
+1 Gisa, Glorious Resurrector
+1 Blightstep Pathway
 2 Valki, God of Lies
-2 Borrowed Time
-2 King Narfi's Betrayal
+2 Poppet Stitcher
 2 Kaya the Inexorable
+2 King Narfi's Betrayal
+2 Borrowed Time
 2 Gisa, Glorious Resurrector
 2 The Trickster-God's Heist
 3 Poppet Stitcher
@@ -201,6 +190,17 @@
 3 Reidane, God of the Worthy
 3 Elite Spellbinder
 4 Elite Spellbinder
+1 Liesa, Forgotten Archangel
+4 Syncopate
+3 Fateful Absence
+4 Fateful Absence
+1 Parasitic Grasp
+4 Sorin the Mirthless
+4 Path of Peril
+1 Riverglide Pathway
+2 Riverglide Pathway
+3 Riverglide Pathway
+4 Riverglide Pathway
 3 Professor Onyx
 4 Lier, Disciple of the Drowned
 4 Swamp
