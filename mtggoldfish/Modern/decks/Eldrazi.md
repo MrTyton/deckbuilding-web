@@ -1,7 +1,7 @@
 # Eldrazi
 
 #### [Export MTGO List](../collection/Eldrazi/Eldrazi.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Abrade%0A4%09Bonecrusher%20Giant%0A3%09Cavern%20of%20Souls%0A4%09Chalice%20of%20the%20Void%0A3%09Dismember%0A4%09Eldrazi%20Obligator%0A4%09Eldrazi%20Temple%0A4%09Fury%0A4%09Matter%20Reshaper%0A4%09Mountain%0A3%09Prismatic%20Vista%0A4%09Ragavan,%20Nimble%20Pilferer%0A4%09Ramunap%20Ruins%0A4%09Reality%20Smasher%0A4%09Shatterskull%20Smashing%0A4%09Thought-Knot%20Seer%0A2%09Wastes&deckside=2%09Abrade%0A3%09Blood%20Moon%0A2%09Engineered%20Explosives%0A3%09Obsidian%20Charmaw%0A3%09Relic%20of%20Progenitus%0A2%09Warping%20Wail)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Abrade%0A4%09Bonecrusher%20Giant%0A3%09Cavern%20of%20Souls%0A4%09Chalice%20of%20the%20Void%0A3%09Dismember%0A4%09Eldrazi%20Obligator%0A4%09Eldrazi%20Temple%0A4%09Fury%0A4%09Matter%20Reshaper%0A4%09Mountain%0A3%09Prismatic%20Vista%0A4%09Ragavan,%20Nimble%20Pilferer%0A4%09Ramunap%20Ruins%0A4%09Reality%20Smasher%0A4%09Shatterskull%20Smashing%0A4%09Thought-Knot%20Seer%0A2%09Wastes&deckside=2%09Abrade%0A4%09Blood%20Moon%0A2%09Engineered%20Explosives%0A2%09Obsidian%20Charmaw%0A3%09Relic%20of%20Progenitus%0A2%09Warping%20Wail)
 # Maindeck
 
 |                                          Artifact (4)                                          |                                            Creature (28)                                            |                                     Instant (4)                                      |                                         Land (20)                                          |                                           Sorcery (4)                                            |
@@ -17,9 +17,9 @@
 
 # Sideboard
 
-|                                          Artifact (5)                                           |                                        Creature (3)                                         |                                   Enchantment (3)                                    |                                       Instant (4)                                       |
+|                                          Artifact (5)                                           |                                        Creature (2)                                         |                                   Enchantment (4)                                    |                                       Instant (4)                                       |
 |-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-|2 [Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|3 [Obsidian Charmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522213)|3 [Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)|2 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)      |
+|2 [Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|2 [Obsidian Charmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522213)|4 [Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)|2 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)      |
 |3 [Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824) |                                                                                             |                                                                                      |2 [Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)|
 
 
@@ -27,7 +27,7 @@
 
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                           Sideboard Card                                           |
 |--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------------|
-|                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)           |                    4|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)                |
+|                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)           |                    3|[Obsidian Charmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522213)         |
 |                    1|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094)       |                    4|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)      |
 |                    2|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094)       |                    3|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                   |
 |                    3|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094)       |                    1|[Boil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14630)                      |
