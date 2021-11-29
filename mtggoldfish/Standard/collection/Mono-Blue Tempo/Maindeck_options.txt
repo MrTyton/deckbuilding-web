@@ -1,6 +1,6 @@
 2 Reject
+1 Dragon Turtle
 2 Dragon Turtle
-4 Suspicious Stowaway
 3 Reject
 2 Negate
 3 Concerted Defense
@@ -10,18 +10,18 @@
 2 Iymrith, Desert Doom
 1 Saw It Coming
 20 Snow-Covered Island
+3 Spectral Adversary
 2 Saw It Coming
 1 You See a Guard Approach
-3 Spectral Adversary
 3 Saw It Coming
 4 Saw It Coming
 1 Syncopate
 1 Disdainful Stroke
 2 You See a Guard Approach
-1 Lier, Disciple of the Drowned
-3 Iymrith, Desert Doom
-2 Syncopate
 4 Spectral Adversary
+1 Lier, Disciple of the Drowned
+2 Syncopate
+3 Iymrith, Desert Doom
 1 Thirst for Discovery
 2 Thirst for Discovery
 3 Syncopate
@@ -65,7 +65,11 @@
 22 Snow-Covered Island
 1 Hall of Storm Giants
 2 Memory Deluge
+1 Dreamshackle Geist
+2 Dreamshackle Geist
 1 Hullbreaker Horror
+1 Geistlight Snare
+2 Geistlight Snare
 1 Teachings of the Archaics
 1 Ray of Frost
 1 Mascot Exhibition
@@ -77,8 +81,8 @@
 3 Negate
 3 Icebreaker Kraken
 4 Icebreaker Kraken
-1 Charix, the Raging Isle
 1 Grazilaxx, Illithid Scholar
+1 Charix, the Raging Isle
 1 Yuan-Ti Malison
 1 Cosima, God of the Voyage
 1 The Celestus
@@ -91,31 +95,30 @@
 1 Demilich
 2 Demilich
 3 Demilich
+3 Wash Away
+4 Wash Away
+2 Hullbreaker Horror
+4 Thirst for Discovery
 1 Behold the Multiverse
 2 Behold the Multiverse
 3 Memory Deluge
 4 Memory Deluge
-2 Hullbreaker Horror
-4 Thirst for Discovery
+4 Poppet Stitcher
 1 Brinebarrow Intruder
 1 Cemetery Illuminator
-1 Geistlight Snare
 2 Brinebarrow Intruder
-2 Geistlight Snare
 2 Cemetery Illuminator
 3 Cemetery Illuminator
 4 Cemetery Illuminator
-3 Wash Away
-4 Wash Away
 1 Inspired Idea
 2 Hall of Storm Giants
 4 Dragon Turtle
 1 Jace, Mirror Mage
-1 Dreamshackle Geist
-2 Dreamshackle Geist
 3 Into the Roil
 4 Into the Roil
-4 Poppet Stitcher
+3 Geistlight Snare
+3 Dreamshackle Geist
+4 Dreamshackle Geist
 1 Replicating Ring
 2 Replicating Ring
 2 Graven Lore

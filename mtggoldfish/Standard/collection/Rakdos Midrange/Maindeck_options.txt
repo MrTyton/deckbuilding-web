@@ -166,44 +166,44 @@
 1 Shatterskull Charger
 2 Shatterskull Charger
 1 Cemetery Gatekeeper
-1 Roil Eruption
 1 Volatile Arsonist
+1 Roil Eruption
 2 Cemetery Gatekeeper
 2 Roil Eruption
 2 Volatile Arsonist
 1 Temple of the Dragon Queen
 2 Temple of the Dragon Queen
 3 Moonveil Regent
-1 Unexpected Windfall
-2 Unexpected Windfall
-3 Valki, God of Lies
 1 Sorin the Mirthless
 1 Dominating Vampire
 1 Anje, Maid of Dishonor
 2 Anje, Maid of Dishonor
 3 Anje, Maid of Dishonor
-1 Dragonkin Berserker
-2 Dragonkin Berserker
-3 Dragonkin Berserker
 1 Olivia, Crimson Bride
 1 Malakir Rebirth
 1 Hero's Downfall
-2 Olivia, Crimson Bride
 2 Malakir Rebirth
+2 Olivia, Crimson Bride
 2 Hero's Downfall
 3 Abrade
 3 Hero's Downfall
+1 Dragonkin Berserker
+2 Dragonkin Berserker
+3 Dragonkin Berserker
+1 Unexpected Windfall
+2 Unexpected Windfall
+3 Valki, God of Lies
+4 Tainted Adversary
 2 Scourge of the Skyclaves
 3 Scourge of the Skyclaves
 4 Scourge of the Skyclaves
-4 Tainted Adversary
 4 Duress
 1 Reckless Impulse
 1 Concealing Curtains
-2 Concealing Curtains
 2 Reckless Impulse
-3 Dread Fugue
+2 Concealing Curtains
 3 Reckless Impulse
+3 Dread Fugue
 4 Dread Fugue
 1 Pelakka Predation
 2 Pelakka Predation
@@ -213,12 +213,18 @@
 4 Pelakka Predation
 4 Blood on the Snow
 4 Faceless Haven
+1 Champion of the Perished
+2 Champion of the Perished
+3 Champion of the Perished
+4 Jadar, Ghoulcaller of Nephalia
+4 Fell Stinger
+4 Champion of the Perished
 1 Nullpriest of Oblivion
 1 Flunk
 1 Bloodline Culling
 1 Crippling Fear
-2 Flunk
 2 Nullpriest of Oblivion
+2 Flunk
 3 Agadeem's Awakening
 4 Nighthawk Scavenger
 3 Hoarding Ogre
@@ -239,19 +245,13 @@
 3 Bloodtithe Harvester
 4 Voldaren Bloodcaster
 4 Bloodtithe Harvester
-1 Champion of the Perished
-2 Champion of the Perished
-3 Champion of the Perished
-4 Fell Stinger
-4 Champion of the Perished
-4 Jadar, Ghoulcaller of Nephalia
 2 Xorn
 3 Inferno of the Star Mounts
 3 Xorn
 3 Orcus, Prince of Undeath
+4 Inferno of the Star Mounts
 4 Xorn
 4 Orcus, Prince of Undeath
-4 Inferno of the Star Mounts
 4 Falkenrath Pit Fighter
 1 Village Rites
 1 Go Blank
@@ -264,7 +264,7 @@
 9 Snow-Covered Swamp
 10 Snow-Covered Mountain
 10 Snow-Covered Swamp
-11 Snow-Covered Swamp
 11 Snow-Covered Mountain
+11 Snow-Covered Swamp
 12 Snow-Covered Swamp
 13 Snow-Covered Swamp
