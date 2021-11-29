@@ -47,8 +47,8 @@
 3 Predict
 1 Mishra's Bauble
 2 Mishra's Bauble
-1 Teferi, Hero of Dominaria
 1 Solitude
+1 Teferi, Hero of Dominaria
 1 Portent
 2 Solitude
 2 Portent
@@ -95,10 +95,10 @@
 1 Lightning Bolt
 4 Predict
 4 Ethereal Forager
-1 Raugrin Triome
 1 Underground Sea
 1 Baleful Strix
 1 Scrubland
+1 Raugrin Triome
 2 Underground Sea
 2 Baleful Strix
 3 Baleful Strix
@@ -106,11 +106,6 @@
 3 Preordain
 4 Brazen Borrower
 4 Preordain
-1 Frantic Inventory
-2 Frantic Inventory
-3 Frantic Inventory
-4 Frantic Inventory
-5 Snow-Covered Island
 1 Hullbreacher
 1 Day's Undoing
 2 Hullbreacher
@@ -118,3 +113,8 @@
 3 Hullbreacher
 3 Day's Undoing
 4 Narset, Parter of Veils
+1 Frantic Inventory
+2 Frantic Inventory
+3 Frantic Inventory
+4 Frantic Inventory
+5 Snow-Covered Island

@@ -64,26 +64,26 @@
 1 Arctic Treeline
 2 Arctic Treeline
 2 Tovolar's Huntmaster
-1 Ambitious Farmhand
-2 Ambitious Farmhand
-1 Circle of Confinement
-2 Circle of Confinement
 1 Loyal Warhound
 1 Emergent Sequence
 1 Kazandu Mammoth
 2 Emergent Sequence
 2 Loyal Warhound
 2 Kazandu Mammoth
+1 Ambitious Farmhand
+2 Ambitious Farmhand
+1 Circle of Confinement
+2 Circle of Confinement
 1 Tajuru Blightblade
 2 Tajuru Blightblade
 3 Tajuru Blightblade
-1 Intrepid Adversary
 1 Jaspera Sentinel
+1 Intrepid Adversary
 1 Froghemoth
 1 Ashaya, Soul of the Wild
+2 Jaspera Sentinel
 2 Intrepid Adversary
 2 Froghemoth
-2 Jaspera Sentinel
 2 Ashaya, Soul of the Wild
 3 Jaspera Sentinel
 3 Intrepid Adversary
@@ -101,19 +101,41 @@
 1 Cultivator Colossus
 1 Scaled Herbalist
 2 Augur of Autumn
-2 Scaled Herbalist
 2 Cultivator Colossus
+2 Scaled Herbalist
 3 Cave of the Frost Dragon
 3 Scaled Herbalist
 4 Scaled Herbalist
-1 Werewolf Pack Leader
-2 Werewolf Pack Leader
-3 Werewolf Pack Leader
-4 Werewolf Pack Leader
+1 Snow-Covered Plains
+1 Snow-Covered Forest
+1 The Book of Exalted Deeds
+1 Search for Glory
+1 Faceless Haven
+2 The Book of Exalted Deeds
+2 Snow-Covered Plains
+2 Snow-Covered Forest
+2 Faceless Haven
+3 Snow-Covered Plains
+3 The Book of Exalted Deeds
+3 Snow-Covered Forest
+3 Faceless Haven
+4 Snow-Covered Plains
+4 Snow-Covered Forest
+4 Faceless Haven
+5 Snow-Covered Plains
+5 Snow-Covered Forest
+6 Snow-Covered Forest
+6 Snow-Covered Plains
+7 Snow-Covered Forest
+7 Snow-Covered Plains
+8 Snow-Covered Forest
+8 Snow-Covered Plains
+9 Snow-Covered Forest
 1 Story Seeker
+1 Inscription of Abundance
 1 Drizzt Do'Urden
-1 Snakeskin Veil
 1 Righteous Valkyrie
+1 Snakeskin Veil
 1 Trelasarra, Moon Dancer
 1 Expel
 1 Devouring Tendrils
@@ -122,7 +144,6 @@
 1 Kor Celebrant
 1 Luminarch Aspirant
 1 Celestial Unicorn
-1 Inscription of Abundance
 1 Fearless Fledgling
 2 Story Seeker
 2 Righteous Valkyrie
@@ -141,28 +162,7 @@
 9 Plains
 10 Plains
 11 Plains
-1 Snow-Covered Plains
-1 Faceless Haven
-1 Snow-Covered Forest
-1 Search for Glory
-1 The Book of Exalted Deeds
-2 Snow-Covered Plains
-2 The Book of Exalted Deeds
-2 Faceless Haven
-2 Snow-Covered Forest
-3 Faceless Haven
-3 Snow-Covered Plains
-3 The Book of Exalted Deeds
-3 Snow-Covered Forest
-4 Snow-Covered Plains
-4 Faceless Haven
-4 Snow-Covered Forest
-5 Snow-Covered Plains
-5 Snow-Covered Forest
-6 Snow-Covered Plains
-6 Snow-Covered Forest
-7 Snow-Covered Plains
-7 Snow-Covered Forest
-8 Snow-Covered Plains
-8 Snow-Covered Forest
-9 Snow-Covered Forest
+1 Werewolf Pack Leader
+2 Werewolf Pack Leader
+3 Werewolf Pack Leader
+4 Werewolf Pack Leader

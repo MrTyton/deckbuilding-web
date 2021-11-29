@@ -37,12 +37,12 @@
 3 Thoughtseize
 4 Thoughtseize
 1 Leyline of Sanctity
-2 Inquisition of Kozilek
 2 Leyline of Sanctity
+2 Inquisition of Kozilek
 3 Leyline of Sanctity
 3 Inquisition of Kozilek
-4 Inquisition of Kozilek
 4 Leyline of Sanctity
+4 Inquisition of Kozilek
 1 Leyline of the Void
 2 Leyline of the Void
 3 Void Mirror
@@ -55,8 +55,8 @@
 1 Bitterblossom
 1 Duress
 2 Duress
-1 Lingering Souls
 1 Solitude
+1 Lingering Souls
 1 Aven Mindcensor
 2 Vindicate
 1 Fulminator Mage
@@ -75,6 +75,16 @@
 1 Despark
 2 Kaya's Guile
 2 Despark
+1 Damping Sphere
+1 Wheel of Sun and Moon
+1 Kitchen Finks
+1 Celestial Purge
+1 Rain of Tears
+2 Kitchen Finks
+2 Wheel of Sun and Moon
+2 Damping Sphere
+3 Kitchen Finks
+3 Stony Silence
 1 Crime/Punishment
 2 Crime/Punishment
 3 Surgical Extraction
@@ -83,13 +93,3 @@
 4 Sanctifier en-Vec
 3 Duress
 4 Duress
-1 Wheel of Sun and Moon
-1 Kitchen Finks
-1 Celestial Purge
-1 Damping Sphere
-1 Rain of Tears
-2 Kitchen Finks
-2 Wheel of Sun and Moon
-2 Damping Sphere
-3 Stony Silence
-3 Kitchen Finks

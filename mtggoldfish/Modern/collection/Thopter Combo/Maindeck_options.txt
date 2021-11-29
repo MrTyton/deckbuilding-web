@@ -75,22 +75,14 @@
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
-1 Sundering Titan
+1 Gingerbrute
 1 Ichor Wellspring
 1 Thorn of Amethyst
+1 Sundering Titan
 1 Crucible of Worlds
-1 Gingerbrute
 3 Teferi, Time Raveler
-1 Force of Negation
-1 Solitude
-2 Solitude
-2 Force of Negation
-3 Misty Rainforest
-3 Solitude
-4 Solitude
-4 Misty Rainforest
-1 Sunset Revelry
 1 Arid Mesa
+1 Sunset Revelry
 4 Thought Monitor
 1 Godless Shrine
 2 Marsh Flats
@@ -102,9 +94,17 @@
 3 Glint-Nest Crane
 4 Springleaf Drum
 4 Glint-Nest Crane
+1 Force of Negation
+1 Solitude
+2 Solitude
+2 Force of Negation
+3 Misty Rainforest
+3 Solitude
+4 Misty Rainforest
+4 Solitude
 1 The Underworld Cookbook
-1 Prismatic Vista
 1 Hall of Storm Giants
+1 Prismatic Vista
 2 Prismatic Vista
 2 Engineered Explosives
 1 Chalice of the Void
@@ -124,21 +124,21 @@
 2 Witching Well
 3 Spire of Industry
 4 Spire of Industry
+1 Snow-Covered Swamp
 1 Talisman of Dominance
 1 Fatal Push
 1 Karn, Scion of Urza
-1 Snow-Covered Swamp
+2 Talisman of Dominance
 2 Fatal Push
 2 Watery Grave
-2 Talisman of Dominance
 2 Karn, Scion of Urza
 3 Fatal Push
 3 Talisman of Dominance
 4 Archmage's Charm
-4 Fatal Push
 4 Snow-Covered Island
-4 Talisman of Dominance
+4 Fatal Push
+5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island
 8 Snow-Covered Island
-5 Snow-Covered Island
+4 Talisman of Dominance

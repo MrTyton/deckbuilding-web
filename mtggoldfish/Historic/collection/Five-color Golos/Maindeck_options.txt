@@ -79,16 +79,16 @@
 3 Binding the Old Gods
 1 Sunpetal Grove
 2 Sunpetal Grove
+1 Glacial Fortress
 1 Woodland Cemetery
 1 Hinterland Harbor
+1 In Search of Greatness
 1 Yasharn, Implacable Earth
-1 Hostage Taker
 1 Deputy of Detention
 1 Oath of Kaya
-1 Glacial Fortress
 1 Elspeth's Nightmare
 1 Renegade Rallier
-1 In Search of Greatness
+1 Hostage Taker
 1 Setessan Champion
 1 Calix, Destiny's Hand
 1 Tolsimir, Friend to Wolves
@@ -208,10 +208,10 @@
 1 Shalai, Voice of Plenty
 1 Finale of Devastation
 1 Smothering Tithe
-1 Evolving Wilds
 1 Mastermind's Acquisition
 1 Massacre Wurm
 1 Dryad of the Ilysian Grove
+1 Evolving Wilds
 1 Keruga, the Macrosage
 1 Idyllic Tutor
 1 Elder Gargaroth
@@ -242,18 +242,18 @@
 2 Sacred Foundry
 2 Escape to the Wilds
 2 Uro, Titan of Nature's Wrath
-2 Watery Grave
 2 Stomping Ground
 2 Sanctum of Fruitful Harvest
 2 Solemn Simulacrum
 2 Mastermind's Acquisition
 2 Finale of Devastation
+2 Klothys, God of Destiny
 2 Prophetic Prism
+2 Watery Grave
 2 Dryad of the Ilysian Grove
 2 Idyllic Tutor
-2 Klothys, God of Destiny
-2 Evolving Wilds
 2 Godless Shrine
+2 Evolving Wilds
 2 Hallowed Fountain
 2 Wrath of God
 2 Migration Path
@@ -301,7 +301,6 @@
 3 Prophetic Prism
 3 Sanctum of All
 4 Stomping Ground
-4 Deafening Clarion
 4 Treacherous Blessing
 4 Sacred Foundry
 4 Fae of Wishes
@@ -319,6 +318,7 @@
 4 Temple Garden
 4 Migration Path
 4 Plains
+4 Deafening Clarion
 4 Mastermind's Acquisition
 4 Wrath of God
 4 Dryad of the Ilysian Grove
@@ -372,12 +372,11 @@
 1 Darkbore Pathway
 1 Gemrazer
 1 Season of Growth
+1 Temple of Malady
 1 Necroblossom Snarl
 1 Temple of Deceit
-1 Temple of Malady
 1 Tamiyo, Collector of Tales
 1 Nicol Bolas, Dragon-God
-1 Vineglimmer Snarl
 1 Barkchannel Pathway
 1 Vivien, Champion of the Wilds
 1 Vivien Reid
@@ -387,6 +386,7 @@
 1 Paradise Druid
 1 Dirge Bat
 1 Nethroi, Apex of Death
+1 Vineglimmer Snarl
 1 Migratory Greathorn
 1 Auspicious Starrix
 1 Boneyard Lurker
@@ -396,6 +396,7 @@
 2 Darkbore Pathway
 2 Nissa, Who Shakes the World
 2 Season of Growth
+2 Gemrazer
 2 Paradise Druid
 2 Insatiable Hemophage
 2 Boneyard Lurker
@@ -404,10 +405,9 @@
 2 Migratory Greathorn
 2 Pollywog Symbiote
 2 Pouncing Shoreshark
-2 Gemrazer
+3 Gemrazer
 3 Insatiable Hemophage
 3 Boneyard Lurker
-3 Gemrazer
 3 Auspicious Starrix
 3 Paradise Druid
 3 Pollywog Symbiote
@@ -454,18 +454,18 @@
 1 Shefet Dunes
 2 Omniscience
 2 Hashep Oasis
-2 Hour of Promise
 2 Hydroid Krasis
 2 The World Tree
 2 Relic of Progenitus
+2 Hour of Promise
 2 Wolfwillow Haven
 2 Shefet Dunes
 3 Hashep Oasis
-3 Hour of Promise
 3 The World Tree
 3 Shefet Dunes
 3 Genesis Ultimatum
 3 Hydroid Krasis
+3 Hour of Promise
 3 Wolfwillow Haven
 4 The World Tree
 4 Hour of Promise
