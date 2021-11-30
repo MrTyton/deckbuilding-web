@@ -1,12 +1,12 @@
 1 Chandra, Dressed to Kill
-2 Chandra, Dressed to Kill
 17 Snow-Covered Mountain
 3 Frost Bite
-1 Flame Channeler
-2 Flame Channeler
-3 Flame Channeler
-4 Flame Channeler
+2 Chandra, Dressed to Kill
 18 Snow-Covered Mountain
+1 Thermo-Alchemist
+2 Thermo-Alchemist
+3 Thermo-Alchemist
+4 Thermo-Alchemist
 3 Chandra, Dressed to Kill
 1 Shatterskull Smashing
 4 Frost Bite
@@ -19,14 +19,15 @@
 3 Cemetery Gatekeeper
 1 Sunstreak Phoenix
 2 Sunstreak Phoenix
-3 Light Up the Night
 1 Thundering Rebuke
 2 Thundering Rebuke
+3 Light Up the Night
 1 Hall of Oracles
-1 Flameskull
 1 Crackle with Power
+1 Flameskull
 1 Burning Hands
 2 Burning Hands
+4 Spikefield Hazard
 1 Goldspan Dragon
 1 Voltaic Visionary
 2 Voltaic Visionary
@@ -38,26 +39,15 @@
 2 Igneous Inspiration
 3 Igneous Inspiration
 4 Igneous Inspiration
-4 Spikefield Hazard
 1 Manaform Hellkite
 1 Tundra Fumarole
 2 Tundra Fumarole
 3 Tundra Fumarole
-2 Goldspan Dragon
-4 Cemetery Gatekeeper
-1 Voldaren Epicure
-2 Voldaren Epicure
-3 Voldaren Epicure
-4 Voldaren Epicure
 1 Kessig Wolfrider
 4 Den of the Bugbear
-1 Alchemist's Gambit
-1 Hall Monitor
 1 Mountain
 2 Mountain
-2 Hall Monitor
 3 Mountain
-3 Hall Monitor
 4 Mountain
 5 Mountain
 6 Mountain
@@ -65,11 +55,25 @@
 8 Mountain
 9 Mountain
 10 Mountain
+2 Goldspan Dragon
+1 Reckless Impulse
+2 Reckless Impulse
+3 Reckless Impulse
+4 Reckless Impulse
+4 Cemetery Gatekeeper
+1 Alchemist's Gambit
+1 Voldaren Epicure
+2 Voldaren Epicure
+3 Voldaren Epicure
+4 Voldaren Epicure
+2 Kessig Wolfrider
+1 Hall Monitor
+2 Hall Monitor
+3 Hall Monitor
 1 Dragon's Fire
 1 Riverglide Pathway
 2 Dragon's Fire
 2 Riverglide Pathway
-2 Kessig Wolfrider
 3 Dragon's Fire
 3 Riverglide Pathway
 4 Dragon's Fire
@@ -85,14 +89,17 @@
 2 Kargan Intimidator
 3 Kargan Intimidator
 4 Tundra Fumarole
-1 Reckless Impulse
-2 Reckless Impulse
-3 Reckless Impulse
-4 Reckless Impulse
+3 Thundering Rebuke
+11 Mountain
+12 Mountain
+13 Mountain
 1 Relic Robber
 2 Manaform Hellkite
 3 Manaform Hellkite
-4 Kargan Intimidator
+2 Hall of Oracles
+3 Hall of Oracles
+4 Thundering Rebuke
+4 Hall of Oracles
 4 Light Up the Night
 1 Ancestral Anger
 2 Ancestral Anger
@@ -102,6 +109,15 @@
 2 Magic Missile
 3 Magic Missile
 4 Magic Missile
+1 Creepy Puppeteer
+1 Fireblade Charger
+1 Battle Cry Goblin
+2 Creepy Puppeteer
+2 Fireblade Charger
+2 Battle Cry Goblin
+3 Fireblade Charger
+3 Battle Cry Goblin
+4 Battle Cry Goblin
 1 Dominating Vampire
 1 Voldaren Stinger
 1 Run Amok
@@ -120,19 +136,7 @@
 2 Falkenrath Perforator
 3 Voldaren Stinger
 4 Voldaren Stinger
-11 Mountain
-12 Mountain
-13 Mountain
 14 Mountain
 15 Mountain
 16 Mountain
-1 Creepy Puppeteer
-1 Fireblade Charger
-1 Battle Cry Goblin
-2 Creepy Puppeteer
-2 Fireblade Charger
-2 Battle Cry Goblin
-3 Thundering Rebuke
-3 Fireblade Charger
-3 Battle Cry Goblin
-4 Battle Cry Goblin
+4 Kargan Intimidator

@@ -1,34 +1,37 @@
 1 Snow-Covered Mountain
-2 Arid Mesa
-1 Waterlogged Grove
+2 Wooded Foothills
 2 Abundant Harvest
+2 Forest
 2 Snow-Covered Forest
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
-2 Forest
-2 Wooded Foothills
-1 Endurance
+2 Arid Mesa
 1 Time Warp
+1 Waterlogged Grove
+1 Endurance
 1 Wandering Mind
-1 Eladamri's Call
-2 Eladamri's Call
-1 Scalding Tarn
-2 Scalding Tarn
-3 Ice-Fang Coatl
 1 Dovin's Veto
 2 Dovin's Veto
 2 Island
-4 Ephemerate
 4 Counterspell
+1 Scalding Tarn
+2 Scalding Tarn
+1 Eladamri's Call
+2 Eladamri's Call
+3 Ice-Fang Coatl
+1 Path to Exile
+4 Ephemerate
+1 Prismatic Vista
 2 Snow-Covered Island
 3 Eladamri's Call
 2 Unholy Heat
-1 Path to Exile
 4 Fury
 3 Wooded Foothills
 2 Teferi, Hero of Dominaria
-1 Prismatic Vista
 4 Ice-Fang Coatl
+1 Supreme Verdict
+1 Mountain
+4 Eternal Witness
 3 Lightning Bolt
 1 Mulldrifter
 1 Ragavan, Nimble Pilferer
@@ -41,7 +44,6 @@
 2 Showdown of the Skalds
 2 Brought Back
 3 Brought Back
-1 Supreme Verdict
 1 Memory Deluge
 2 Memory Deluge
 2 Path to Exile
@@ -51,30 +53,27 @@
 3 Abundant Harvest
 4 Arid Mesa
 4 Brought Back
-4 Eternal Witness
 1 Emrakul, the Promised End
 4 Lightning Bolt
 1 Lonely Sandbar
 1 Dragonlord Dromoka
 2 Wandering Mind
 4 Ragavan, Nimble Pilferer
+3 Force of Negation
 1 Wall of Omens
 2 Wall of Omens
 3 Wall of Omens
-1 Skyclave Apparition
-2 Plains
-3 Force of Negation
 1 Mystic Gate
 1 Castle Vantress
 1 Archmage's Charm
 2 Supreme Verdict
-2 Mystic Gate
 2 Archmage's Charm
 2 Castle Vantress
+2 Mystic Gate
 3 Teferi, Hero of Dominaria
-3 Memory Deluge
-3 Mystic Gate
 3 Supreme Verdict
+3 Mystic Gate
+3 Memory Deluge
 3 Archmage's Charm
 4 Archmage's Charm
 4 Eladamri's Call
@@ -82,17 +81,19 @@
 2 Prismatic Vista
 3 Prismatic Vista
 4 Prismatic Vista
-4 Wall of Omens
+2 Plains
+1 Skyclave Apparition
 1 Charming Prince
-3 Plains
 1 Kaldra Compleat
 1 Stoneforge Mystic
 1 Batterskull
 2 Skyclave Apparition
 2 Stoneforge Mystic
+3 Plains
 3 Stoneforge Mystic
 4 Plains
 4 Stoneforge Mystic
+4 Wall of Omens
 1 Sword of Fire and Ice
 2 Charming Prince
 3 Charming Prince
@@ -146,24 +147,17 @@
 4 Godless Shrine
 4 Grief
 1 Restoration Angel
-1 Giver of Runes
 1 Aether Vial
-2 Giver of Runes
+1 Giver of Runes
 2 Aether Vial
+2 Giver of Runes
 3 Giver of Runes
 3 Aether Vial
 4 Giver of Runes
 4 Aether Vial
-1 Wall of Blossoms
-1 Chord of Calling
-2 Wall of Blossoms
-2 Chord of Calling
-3 Chord of Calling
-4 Chord of Calling
 8 Plains
 1 Consecrated Sphinx
 1 Tranquil Thicket
-1 Mountain
 1 Akroma, Angel of Fury
 1 Dryad Arbor
 3 Scalding Tarn
@@ -209,20 +203,26 @@
 1 Kiki-Jiki, Mirror Breaker
 1 Deputy of Detention
 1 Glasspool Mimic
+1 Wall of Blossoms
 1 Auriok Champion
 1 Avalanche Riders
 1 Birds of Paradise
+1 Chord of Calling
 1 Noble Hierarch
 1 Imperial Recruiter
 1 Venser, Shaper Savant
 1 Soulherder
+2 Wall of Blossoms
 2 Noble Hierarch
-2 Birds of Paradise
 2 Soulherder
+2 Birds of Paradise
+2 Chord of Calling
 3 Birds of Paradise
+3 Chord of Calling
 3 Noble Hierarch
 4 Noble Hierarch
 4 Birds of Paradise
+4 Chord of Calling
 4 Wooded Foothills
 1 Omen of the Sea
 1 Celestial Colonnade
@@ -236,37 +236,12 @@
 3 Island
 4 Mystic Gate
 4 Supreme Verdict
-4 Omen of the Sea
-4 Castle Vantress
 4 Memory Deluge
+4 Castle Vantress
+4 Omen of the Sea
 4 Island
 5 Island
 6 Island
-1 Zagoth Triome
-1 Overgrown Battlement
-1 Sylvan Caryatid
-1 Slaughter the Strong
-1 Arcades, the Strategist
-1 Razorverge Thicket
-1 Perimeter Captain
-2 Arcades, the Strategist
-2 Perimeter Captain
-2 Overgrown Battlement
-2 Razorverge Thicket
-2 Slaughter the Strong
-2 Sylvan Caryatid
-3 Wall of Blossoms
-3 Slaughter the Strong
-3 Sylvan Caryatid
-3 Perimeter Captain
-3 Arcades, the Strategist
-3 Overgrown Battlement
-3 Razorverge Thicket
-4 Sylvan Caryatid
-4 Arcades, the Strategist
-4 Perimeter Captain
-4 Overgrown Battlement
-4 Wall of Blossoms
 1 Cave of the Frost Dragon
 1 Blast Zone
 1 Mortarpod

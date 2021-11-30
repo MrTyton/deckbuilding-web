@@ -31,10 +31,10 @@
 2 Stonebinder's Familiar
 3 Stonebinder's Familiar
 4 Stonebinder's Familiar
+1 Bloodthirsty Adversary
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 1 Tainted Adversary
-1 Bloodthirsty Adversary
 2 Tainted Adversary
 2 Goldspan Dragon
 2 Angelfire Ignition
@@ -48,10 +48,10 @@
 3 Goldspan Dragon
 1 Temple of the Dragon Queen
 1 Dragonkin Berserker
+2 Swamp
 1 Reckless Stormseeker
 1 Eyetwitch
 2 Eyetwitch
-2 Swamp
 1 Fateful Absence
 1 Rampage of the Valkyries
 1 Valorous Stance
@@ -60,9 +60,9 @@
 1 Liesa, Forgotten Archangel
 1 Righteous Valkyrie
 1 Youthful Valkyrie
-1 Firja's Retribution
 1 Cleric of Life's Bond
 1 Starnheim Unleashed
+1 Firja's Retribution
 2 Valorous Stance
 2 Lunarch Veteran
 2 Righteous Valkyrie
@@ -71,9 +71,11 @@
 3 Cleric of Life's Bond
 3 Righteous Valkyrie
 4 Righteous Valkyrie
+2 Shattered Sanctum
 6 Plains
 3 Shineshadow Snarl
 4 Immersturm Predator
+2 Infernal Grasp
 1 Hall of Oracles
 1 Kargan Intimidator
 1 Bloodline Culling
@@ -88,19 +90,25 @@
 2 Forsworn Paladin
 3 Forsworn Paladin
 2 Temple of the Dragon Queen
-2 Shattered Sanctum
 3 Thalia, Guardian of Thraben
 3 Hive of the Eye Tyrant
 2 Florian, Voldaren Scion
 3 Florian, Voldaren Scion
 4 Florian, Voldaren Scion
-2 Infernal Grasp
 1 Shambling Ghast
 2 Bloodchief's Thirst
 4 Goldspan Dragon
 1 Shatterskull Smashing
 2 Reckless Stormseeker
 3 Reckless Stormseeker
+3 Infernal Grasp
+3 Shattered Sanctum
+4 Shattered Sanctum
+1 Sundown Pass
+2 Sundown Pass
+3 Bloodthirsty Adversary
+2 Mountain
+3 Swamp
 2 Soul Shatter
 1 Extus, Oriq Overlord
 1 Varragoth, Bloodsky Sire
@@ -109,24 +117,18 @@
 2 Extus, Oriq Overlord
 3 Eyetwitch
 1 Bloodvial Purveyor
-1 Sundown Pass
-2 Sundown Pass
 2 Bloodvial Purveyor
 2 Valki, God of Lies
 3 Bloodvial Purveyor
-3 Infernal Grasp
 4 Shineshadow Snarl
-3 Shattered Sanctum
-4 Shattered Sanctum
 1 Can't Stay Away
 1 Chaplain of Alms
-1 Sigardian Savior
 1 Clarion Spirit
+1 Sigardian Savior
 1 Taborax, Hope's Demise
 1 Blade Historian
 1 Field of Ruin
 1 Humiliate
-2 Mountain
 2 Chaplain of Alms
 2 Clarion Spirit
 2 Taborax, Hope's Demise
@@ -134,13 +136,11 @@
 2 Fateful Absence
 3 Clarion Spirit
 3 Humiliate
-3 Swamp
 4 Clarion Spirit
 4 Reidane, God of the Worthy
 2 Emeria's Call
 3 Tainted Adversary
 3 Angelfire Ignition
-3 Bloodthirsty Adversary
 4 Tainted Adversary
 4 Hive of the Eye Tyrant
 1 Check for Traps
@@ -162,5 +162,44 @@
 3 Shambling Ghast
 3 Kalain, Reclusive Painter
 4 Reckless Stormseeker
+1 Welcoming Vampire
+1 Voldaren Ambusher
+1 Sorin the Mirthless
+1 Markov Waltzer
+1 Vampire Socialite
+1 Falkenrath Pit Fighter
+1 Bloodtithe Harvester
+1 Anje, Maid of Dishonor
+1 Olivia's Attendants
+1 Voldaren Estate
+2 Anje, Maid of Dishonor
+2 Welcoming Vampire
+2 Sorin the Mirthless
+2 Vampire Socialite
+2 Markov Waltzer
+2 Voldaren Ambusher
+2 Bloodtithe Harvester
+2 Falkenrath Pit Fighter
+2 Voldaren Estate
+3 Mountain
+3 Sundown Pass
+3 Welcoming Vampire
+3 Voldaren Estate
+3 Voldaren Ambusher
+3 Vampire Socialite
+3 Falkenrath Pit Fighter
+3 Markov Waltzer
+3 Bloodtithe Harvester
+4 Mountain
+4 Infernal Grasp
+4 Voldaren Estate
+4 Bloodthirsty Adversary
+4 Welcoming Vampire
+4 Sundown Pass
+4 Bloodtithe Harvester
+4 Vampire Socialite
+4 Voldaren Ambusher
+4 Falkenrath Pit Fighter
+5 Mountain
 1 Maul of the Skyclaves
 7 Plains

@@ -23,11 +23,11 @@
 1 Drown in the Loch
 2 Drown in the Loch
 3 Flooded Strand
-1 Swamp
+1 Brazen Borrower
 1 Miscast
+1 Swamp
 1 Spellstutter Sprite
 1 Mutavault
-1 Brazen Borrower
 1 Fetid Pools
 1 Changeling Outcast
 1 Counterspell
@@ -38,7 +38,6 @@
 1 Jwari Disruption
 1 Scion of Oona
 1 Curiosity
-2 Island
 2 Watery Grave
 2 Spellstutter Sprite
 2 Mutavault
@@ -50,9 +49,11 @@
 2 Scion of Oona
 2 Faerie Seer
 2 Jwari Disruption
+2 Island
 2 Darkslick Shores
 2 Curiosity
 3 Brazen Borrower
+3 Watery Grave
 3 Spellstutter Sprite
 3 Darkslick Shores
 3 Faerie Seer
@@ -60,7 +61,6 @@
 3 Changeling Outcast
 3 Scion of Oona
 3 Miscast
-3 Watery Grave
 3 Curious Obsession
 4 Brazen Borrower
 4 Spellstutter Sprite
@@ -83,5 +83,5 @@
 1 Growth Spiral
 1 Tamiyo, Collector of Tales
 1 Jace, Wielder of Mysteries
-3 Remand
 3 Wilderness Reclamation
+3 Remand
