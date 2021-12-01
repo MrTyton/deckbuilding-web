@@ -1,38 +1,38 @@
-2 Isolated Chapel
 2 Swamp
+2 Castle Locthwain
 3 Isolated Chapel
 4 Isolated Chapel
 1 Thoughtseize
 2 Thoughtseize
-1 Emeria's Call
-1 Castle Ardenvale
+1 Hive of the Eye Tyrant
 1 Rite of Oblivion
 1 Oath of Kaya
-1 Hive of the Eye Tyrant
+1 Emeria's Call
+1 Castle Ardenvale
 1 Fabled Passage
 1 Yorion, Sky Nomad
-1 Thraben Inspector
 1 Go Blank
 1 Elspeth, Sun's Nemesis
 1 Treacherous Blessing
 1 Trial of Ambition
 1 Fatal Push
+1 Thraben Inspector
 1 The Birth of Meletis
 2 Hive of the Eye Tyrant
 2 Emeria's Call
 2 Fabled Passage
-2 Thraben Inspector
 2 Go Blank
 2 Rite of Oblivion
 2 Yorion, Sky Nomad
 2 Trial of Ambition
 2 Fatal Push
 2 The Birth of Meletis
+2 Thraben Inspector
 2 Treacherous Blessing
 3 Thoughtseize
 3 Fabled Passage
-3 Thraben Inspector
 3 Rite of Oblivion
+3 Thraben Inspector
 3 The Birth of Meletis
 3 Trial of Ambition
 3 Fatal Push
@@ -48,17 +48,17 @@
 4 Thraben Inspector
 1 Urborg, Tomb of Yawgmoth
 3 Swamp
-1 Cryptbreaker
+1 Stitcher's Supplier
 1 Champion of the Perished
 1 Dark Salvation
 1 Wayward Servant
 1 Rally the Ancestors
+1 Cryptbreaker
 1 Diregraf Colossus
-1 Stitcher's Supplier
 1 Corpse Knight
 1 Lazotep Reaver
 1 Liliana, Untouched by Death
-2 Cryptbreaker
+2 Stitcher's Supplier
 2 Champion of the Perished
 2 Liliana, Untouched by Death
 2 Dark Salvation
@@ -67,21 +67,21 @@
 2 Wayward Servant
 2 Corpse Knight
 2 Rally the Ancestors
-2 Stitcher's Supplier
+2 Cryptbreaker
 3 Champion of the Perished
+3 Stitcher's Supplier
 3 Cryptbreaker
 3 Liliana, Untouched by Death
 3 Wayward Servant
 3 Dark Salvation
 3 Rally the Ancestors
 3 Corpse Knight
-3 Stitcher's Supplier
 3 Diregraf Colossus
 4 Champion of the Perished
+4 Stitcher's Supplier
 4 Dark Salvation
 4 Cryptbreaker
 4 Rally the Ancestors
-4 Stitcher's Supplier
 4 Corpse Knight
 4 Wayward Servant
 4 Swamp
@@ -127,12 +127,12 @@
 4 Karametra's Blessing
 1 Temple Garden
 1 Branchloft Pathway
-1 Forest
 1 Gladecover Scout
 1 Season of Growth
+1 Forest
 2 Branchloft Pathway
-2 Forest
 2 Gladecover Scout
+2 Forest
 2 Temple Garden
 2 Season of Growth
 3 Temple Garden

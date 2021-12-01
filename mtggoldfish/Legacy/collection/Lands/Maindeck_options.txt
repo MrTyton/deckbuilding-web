@@ -1,19 +1,19 @@
-1 Shadowspear
-1 Ancient Tomb
+1 Pithing Needle
 1 Crucible of Worlds
-1 Waterlogged Grove
+1 Ancient Tomb
 1 Snow-Covered Forest
+1 Waterlogged Grove
 1 Verdant Catacombs
 1 Sylvan Library
 2 Rishadan Port
 1 Endurance
 2 Endurance
-1 Horizon Canopy
-1 Retrofitter Foundry
-3 Punishing Fire
-2 Sylvan Library
-3 Rishadan Port
 3 Endurance
+1 Horizon Canopy
+2 Sylvan Library
+3 Punishing Fire
+3 Rishadan Port
+1 Retrofitter Foundry
 1 Elvish Reclaimer
 1 Glacial Chasm
 2 Yavimaya, Cradle of Growth
@@ -27,6 +27,8 @@
 2 Sphere of Resistance
 2 Crucible of Worlds
 3 Sphere of Resistance
+1 Tropical Island
+1 Ipnu Rivulet
 2 Ghost Quarter
 4 Dark Depths
 2 Forest
@@ -34,10 +36,8 @@
 3 Yavimaya, Cradle of Growth
 1 Molten Vortex
 1 Intuition
-1 Tropical Island
-1 Engineered Explosives
-1 Ipnu Rivulet
 1 Academy Ruins
+1 Engineered Explosives
 1 Savannah
 1 Barbarian Ring
 1 Vesuva
@@ -46,11 +46,12 @@
 3 Sylvan Library
 3 Gamble
 4 Gamble
-1 Stomping Ground
 1 Lightning Bolt
+1 Stomping Ground
 2 Lightning Bolt
 1 Nurturing Peatland
 1 Druid Class
+1 Tower of the Magistrate
 2 Windswept Heath
 2 Engineered Explosives
 1 Solemnity
@@ -59,7 +60,6 @@
 1 Riftstone Portal
 2 Horizon Canopy
 2 Prismatic Ending
-3 Ghost Quarter
 1 Sevinne's Reclamation
 1 Swords to Plowshares
 1 Uro, Titan of Nature's Wrath
@@ -68,6 +68,7 @@
 2 Tropical Island
 2 Intuition
 3 Swords to Plowshares
+3 Ghost Quarter
 3 Crucible of Worlds
 2 Expedition Map
 3 Expedition Map

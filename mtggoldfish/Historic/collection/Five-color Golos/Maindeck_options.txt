@@ -137,8 +137,8 @@
 3 Blast Zone
 3 Crawling Barrens
 3 Mobilized District
-4 Blast Zone
 4 Blinkmoth Nexus
+4 Blast Zone
 4 Forsaken Monument
 1 Assassin's Trophy
 2 Assassin's Trophy
@@ -172,8 +172,8 @@
 2 Fabled Passage
 2 Gilded Goose
 2 Swamp
-3 Lotus Cobra
 3 Gilded Goose
+3 Lotus Cobra
 3 Fabled Passage
 3 Swamp
 5 Forest
@@ -194,6 +194,7 @@
 1 The Birth of Meletis
 1 Needleverge Pathway
 1 Godless Shrine
+1 Idyllic Tutor
 1 Sanctum of Stone Fangs
 1 Honden of Night's Reach
 1 Sanctum of Calm Waters
@@ -210,10 +211,8 @@
 1 Smothering Tithe
 1 Dryad of the Ilysian Grove
 1 Mastermind's Acquisition
-1 Evolving Wilds
 1 Massacre Wurm
-1 Keruga, the Macrosage
-1 Idyllic Tutor
+1 Evolving Wilds
 1 Elder Gargaroth
 1 Solemn Simulacrum
 1 Wrath of God
@@ -223,6 +222,7 @@
 1 Ulvenwald Hydra
 1 Elspeth Conquers Death
 1 Medomai's Prophecy
+1 Keruga, the Macrosage
 1 Savai Triome
 1 Omen of the Forge
 1 Renegade Map
@@ -244,7 +244,6 @@
 2 Uro, Titan of Nature's Wrath
 2 Stomping Ground
 2 Sanctum of Fruitful Harvest
-2 Solemn Simulacrum
 2 Mastermind's Acquisition
 2 Finale of Devastation
 2 Klothys, God of Destiny
@@ -252,8 +251,8 @@
 2 Watery Grave
 2 Dryad of the Ilysian Grove
 2 Idyllic Tutor
-2 Godless Shrine
 2 Evolving Wilds
+2 Godless Shrine
 2 Hallowed Fountain
 2 Wrath of God
 2 Migration Path
@@ -265,6 +264,7 @@
 2 Thirst for Meaning
 2 Sanctum of All
 2 Elspeth Conquers Death
+2 Solemn Simulacrum
 2 Honden of Infinite Rage
 2 Trial of Knowledge
 2 Terror of the Peaks
@@ -305,13 +305,13 @@
 4 Treacherous Blessing
 4 Sacred Foundry
 4 Fae of Wishes
-4 Lotus Cobra
 4 Gilded Goose
 4 Watery Grave
 4 Island
 4 Fabled Passage
 4 Breeding Pool
 4 Overgrown Tomb
+4 Lotus Cobra
 4 Evolving Wilds
 4 Hallowed Fountain
 4 Prophetic Prism
@@ -368,13 +368,13 @@
 2 Abundant Harvest
 1 Koma, Cosmos Serpent
 1 The Great Henge
-1 Castle Locthwain
 1 Darkbore Pathway
+1 Castle Locthwain
 1 Gemrazer
 1 Season of Growth
-1 Temple of Malady
 1 Necroblossom Snarl
 1 Temple of Deceit
+1 Temple of Malady
 1 Tamiyo, Collector of Tales
 1 Nicol Bolas, Dragon-God
 1 Barkchannel Pathway
@@ -453,19 +453,19 @@
 1 Hashep Oasis
 1 Shefet Dunes
 2 Omniscience
+2 Hour of Promise
 2 Hydroid Krasis
 2 The World Tree
 2 Relic of Progenitus
-2 Hour of Promise
 2 Hashep Oasis
 2 Wolfwillow Haven
 2 Shefet Dunes
 3 Hashep Oasis
+3 Hour of Promise
 3 The World Tree
 3 Shefet Dunes
 3 Genesis Ultimatum
 3 Hydroid Krasis
-3 Hour of Promise
 3 Wolfwillow Haven
 4 The World Tree
 4 Hour of Promise

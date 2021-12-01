@@ -79,10 +79,10 @@
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
-9 Snow-Covered Plains
 9 Snow-Covered Swamp
-10 Snow-Covered Plains
+9 Snow-Covered Plains
 10 Snow-Covered Swamp
+10 Snow-Covered Plains
 2 Sorin the Mirthless
 1 Drana, the Last Bloodchief
 6 Swamp
@@ -96,8 +96,8 @@
 2 Valkyrie Harbinger
 1 Westgate Regent
 1 The Book of Exalted Deeds
-2 The Book of Exalted Deeds
 2 Westgate Regent
+2 The Book of Exalted Deeds
 3 Westgate Regent
 3 The Book of Exalted Deeds
 4 Faceless Haven
@@ -129,16 +129,16 @@
 2 Dread Fugue
 3 Sejiri Shelter
 4 Sejiri Shelter
-1 Teleportation Circle
-1 Priest of Ancient Lore
-1 Devastating Mastery
 1 Glorious Protector
+1 Priest of Ancient Lore
 1 Rite of Oblivion
+1 Devastating Mastery
+1 Teleportation Circle
 1 Closing Statement
-2 Teleportation Circle
-2 Priest of Ancient Lore
 2 Glorious Protector
 2 The Meathook Massacre
+2 Teleportation Circle
+2 Priest of Ancient Lore
 2 Rite of Oblivion
 2 Devastating Mastery
 2 Closing Statement
@@ -158,7 +158,6 @@
 4 Taborax, Hope's Demise
 1 Power Word Kill
 1 Professor Onyx
-1 Invoke the Divine
 1 Paladin Class
 1 Firja's Retribution
 1 Vanquish the Horde
@@ -166,6 +165,7 @@
 1 Sanctify
 1 Shepherd of Heroes
 1 Bloodchief's Thirst
+1 Invoke the Divine
 1 Nullpriest of Oblivion
 2 Power Word Kill
 2 Bloodchief's Thirst
