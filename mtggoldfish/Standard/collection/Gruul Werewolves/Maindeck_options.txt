@@ -20,16 +20,16 @@
 2 Den of the Bugbear
 1 Snakeskin Veil
 2 Snakeskin Veil
-1 Snow-Covered Mountain
 1 Blizzard Brawl
 1 Snow-Covered Forest
-2 Snow-Covered Mountain
+1 Snow-Covered Mountain
 2 Snow-Covered Forest
 2 Blizzard Brawl
-3 Snow-Covered Mountain
+2 Snow-Covered Mountain
 3 Snow-Covered Forest
-4 Snow-Covered Mountain
+3 Snow-Covered Mountain
 4 Snow-Covered Forest
+4 Snow-Covered Mountain
 1 Wrenn and Seven
 2 Wrenn and Seven
 3 Play with Fire
@@ -39,8 +39,8 @@
 3 Bard Class
 4 Bard Class
 1 Howlpack Piper
-5 Snow-Covered Mountain
 5 Snow-Covered Forest
+5 Snow-Covered Mountain
 6 Snow-Covered Forest
 7 Snow-Covered Forest
 8 Snow-Covered Forest
@@ -58,8 +58,8 @@
 1 Tovolar's Huntmaster
 9 Snow-Covered Forest
 1 Halana and Alena, Partners
-1 Varis, Silverymoon Ranger
 1 Kolvori, God of Kinship
+1 Varis, Silverymoon Ranger
 2 Varis, Silverymoon Ranger
 2 Kolvori, God of Kinship
 3 Abrade
@@ -101,8 +101,8 @@
 1 Cathartic Pyre
 2 Cathartic Pyre
 3 Wrenn and Seven
-4 Briarbridge Tracker
 4 Wrenn and Seven
+4 Briarbridge Tracker
 3 Goldspan Dragon
 4 Goldspan Dragon
 4 Frost Bite
@@ -122,17 +122,17 @@
 1 Ill-Tempered Loner
 1 Unnatural Moonrise
 2 Unnatural Moonrise
+1 Run Amok
 1 Lunar Frenzy
 1 Curse of Shaken Faith
 1 Pack's Betrayal
-1 Run Amok
 1 Hound Tamer
+2 Run Amok
 2 Ill-Tempered Loner
 2 Lunar Frenzy
 2 Curse of Shaken Faith
 2 Hound Tamer
 2 Pack's Betrayal
-2 Run Amok
 3 Unnatural Moonrise
 3 Pack's Betrayal
 3 Run Amok
@@ -145,30 +145,30 @@
 12 Snow-Covered Forest
 1 Vorinclex, Monstrous Raider
 1 Wolfkin Outcast
-1 Field of Ruin
-3 Faceless Haven
 1 Rending Flame
 2 Rending Flame
 3 Prosperous Innkeeper
+1 Field of Ruin
+3 Faceless Haven
 3 Burning Hands
-1 Saryth, the Viper's Fang
-2 Evolving Wilds
-2 Saryth, the Viper's Fang
-4 Inscription of Abundance
-1 Wolf Strike
 1 Kessig Wolfrider
+1 Wolf Strike
 1 Sporeback Wolf
 2 Wolf Strike
 2 Sporeback Wolf
 4 Abrade
-1 Augur of Autumn
+1 Saryth, the Viper's Fang
+2 Saryth, the Viper's Fang
+2 Evolving Wilds
+4 Inscription of Abundance
 1 The Celestus
+1 Augur of Autumn
 1 Contortionist Troupe
 1 Howl of the Hunt
 2 Primal Adversary
-2 Augur of Autumn
 2 Tovolar's Huntmaster
 2 The Celestus
+2 Augur of Autumn
 2 Contortionist Troupe
 2 Howl of the Hunt
 3 Outland Liberator

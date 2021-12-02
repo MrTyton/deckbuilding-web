@@ -58,15 +58,15 @@
 1 Swamp
 2 Forest
 2 Swamp
-3 Forest
 3 Swamp
-4 Forest
+3 Forest
 4 Swamp
+4 Forest
 1 Primal Adversary
 1 Augur of Autumn
+2 Lair of the Hydra
 2 Power Word Kill
 2 Augur of Autumn
-2 Lair of the Hydra
 3 Augur of Autumn
 3 Storm the Festival
 2 Deathcap Glade
@@ -109,23 +109,23 @@
 2 Tainted Adversary
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
+1 Lotus Cobra
+2 Soul Shatter
 1 Necroblossom Snarl
 2 Primal Adversary
 2 Necroblossom Snarl
-1 Lotus Cobra
-2 Soul Shatter
 1 Flunk
+1 Malakir Rebirth
 1 Hero's Downfall
 1 The World Tree
 1 Check for Traps
 1 Pointed Discussion
 1 Voldaren Bloodcaster
-1 Malakir Rebirth
 2 Kazandu Mammoth
 2 Voldaren Bloodcaster
-3 Kazandu Mammoth
 3 Hive of the Eye Tyrant
 3 Briarbridge Tracker
+3 Kazandu Mammoth
 1 Scourge of the Skyclaves
 2 Scourge of the Skyclaves
 3 Scourge of the Skyclaves
@@ -134,45 +134,6 @@
 1 Henrika Domnathi
 1 Bloodvial Purveyor
 4 Sedgemoor Witch
-1 Blizzard Brawl
-1 Nighthawk Scavenger
-1 Tajuru Blightblade
-1 Toski, Bearer of Secrets
-1 Snakeskin Veil
-1 Devouring Tendrils
-1 Inscription of Abundance
-1 Vengeful Reaper
-1 Fynn, the Fangbearer
-1 In Search of Greatness
-1 Ranger Class
-1 Bull's Strength
-1 Oran-Rief Ooze
-2 Blizzard Brawl
-2 Tajuru Blightblade
-2 Vorinclex, Monstrous Raider
-2 Snakeskin Veil
-2 Nighthawk Scavenger
-2 Inscription of Abundance
-2 Devouring Tendrils
-2 Vengeful Reaper
-2 Fynn, the Fangbearer
-2 Oran-Rief Ooze
-2 Ranger Class
-2 Bull's Strength
-3 Nighthawk Scavenger
-3 Blizzard Brawl
-3 Tajuru Blightblade
-3 Devouring Tendrils
-3 Snakeskin Veil
-3 Fynn, the Fangbearer
-4 Snakeskin Veil
-4 Blizzard Brawl
-4 Tajuru Blightblade
-4 Devouring Tendrils
-4 Fynn, the Fangbearer
-9 Snow-Covered Forest
-18 Snow-Covered Swamp
-19 Snow-Covered Swamp
 1 Maskwood Nexus
 1 Vorpal Sword
 2 Vorpal Sword
@@ -182,3 +143,42 @@
 6 Swamp
 7 Forest
 7 Swamp
+18 Snow-Covered Swamp
+19 Snow-Covered Swamp
+1 Blizzard Brawl
+1 Nighthawk Scavenger
+1 Bull's Strength
+1 Ranger Class
+1 Toski, Bearer of Secrets
+1 Devouring Tendrils
+1 Snakeskin Veil
+1 Tajuru Blightblade
+1 Inscription of Abundance
+1 Vengeful Reaper
+1 Oran-Rief Ooze
+1 Fynn, the Fangbearer
+1 In Search of Greatness
+2 Oran-Rief Ooze
+2 Blizzard Brawl
+2 Bull's Strength
+2 Ranger Class
+2 Nighthawk Scavenger
+2 Devouring Tendrils
+2 Snakeskin Veil
+2 Inscription of Abundance
+2 Vorinclex, Monstrous Raider
+2 Tajuru Blightblade
+2 Vengeful Reaper
+2 Fynn, the Fangbearer
+3 Nighthawk Scavenger
+3 Blizzard Brawl
+3 Devouring Tendrils
+3 Tajuru Blightblade
+3 Snakeskin Veil
+3 Fynn, the Fangbearer
+4 Blizzard Brawl
+4 Tajuru Blightblade
+4 Devouring Tendrils
+4 Snakeskin Veil
+9 Snow-Covered Forest
+4 Fynn, the Fangbearer

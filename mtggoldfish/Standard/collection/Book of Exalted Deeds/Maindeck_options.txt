@@ -84,50 +84,68 @@
 1 Cartographer's Survey
 2 Cartographer's Survey
 3 Cartographer's Survey
+1 Professor of Symbology
+1 Sejiri Shelter
+1 Emeria's Call
+2 Emeria's Call
+2 Professor of Symbology
+3 Professor of Symbology
+3 Emeria's Call
+4 Professor of Symbology
 1 Lunarch Veteran
 2 Lunarch Veteran
 3 Lunarch Veteran
 4 Lunarch Veteran
+1 Vanishing Verse
 1 Cleric Class
-1 Hive of the Eye Tyrant
-1 Graveyard Trespasser
+1 Snowfield Sinkhole
+1 The Meathook Massacre
 1 Kaya the Inexorable
 1 Liesa, Forgotten Archangel
+1 Snow-Covered Swamp
 1 Blood on the Snow
 1 Lolth, Spider Queen
+1 Graveyard Trespasser
 1 Brightclimb Pathway
+1 Hive of the Eye Tyrant
 1 Intrepid Adversary
 1 Shineshadow Snarl
-1 The Meathook Massacre
-1 Vanishing Verse
-1 Snowfield Sinkhole
-1 Snow-Covered Swamp
+2 Vanishing Verse
 2 Cleric Class
-2 Graveyard Trespasser
+2 Snowfield Sinkhole
+2 The Meathook Massacre
+2 Snow-Covered Swamp
 2 Hive of the Eye Tyrant
 2 Liesa, Forgotten Archangel
-2 Vanishing Verse
-2 The Meathook Massacre
+2 Blood on the Snow
 2 Intrepid Adversary
 2 Brightclimb Pathway
-2 Snowfield Sinkhole
-2 Blood on the Snow
-2 Snow-Covered Swamp
+2 Graveyard Trespasser
 2 Lolth, Spider Queen
-3 Graveyard Trespasser
-3 Cleric Class
-3 Intrepid Adversary
 3 Vanishing Verse
 3 Snowfield Sinkhole
-3 Blood on the Snow
-3 Snow-Covered Swamp
-3 Brightclimb Pathway
 3 The Meathook Massacre
+3 Snow-Covered Swamp
+3 Cleric Class
+3 Blood on the Snow
+3 Intrepid Adversary
+3 Graveyard Trespasser
+3 Brightclimb Pathway
+4 Vanishing Verse
+4 Snowfield Sinkhole
+4 Snow-Covered Swamp
 4 Cleric Class
 4 Graveyard Trespasser
-4 Snow-Covered Swamp
-4 Snowfield Sinkhole
-4 Vanishing Verse
+1 Invoke the Divine
+2 Invoke the Divine
+3 Cosmos Elixir
+3 Angel of Destiny
+3 Field of Ruin
+3 Invoke the Divine
+4 Cosmos Elixir
+4 Angel of Destiny
+4 Field of Ruin
+4 Invoke the Divine
 1 Fading Hope
 1 Snow-Covered Island
 1 Valorous Stance
@@ -136,43 +154,25 @@
 1 Deserted Beach
 1 Glacial Floodplain
 2 Fading Hope
-2 Snow-Covered Island
 2 Valorous Stance
+2 Snow-Covered Island
 2 Memory Deluge
 2 Deserted Beach
 2 Glacial Floodplain
-3 Memory Deluge
+3 Deserted Beach
 3 Fading Hope
 3 Valorous Stance
 3 Glacial Floodplain
-3 Deserted Beach
-4 Memory Deluge
+3 Memory Deluge
 4 Deserted Beach
+4 Memory Deluge
 4 Glacial Floodplain
 1 Paladin Class
 2 Paladin Class
 3 Paladin Class
 4 Reidane, God of the Worthy
 4 Paladin Class
-1 Sejiri Shelter
-1 Emeria's Call
-1 Professor of Symbology
-2 Emeria's Call
-2 Professor of Symbology
-3 Emeria's Call
-3 Professor of Symbology
-4 Professor of Symbology
 4 Sigarda's Splendor
-1 Invoke the Divine
-2 Invoke the Divine
-3 Field of Ruin
-3 Angel of Destiny
-3 Invoke the Divine
-3 Cosmos Elixir
-4 Field of Ruin
-4 Angel of Destiny
-4 Invoke the Divine
-4 Cosmos Elixir
 1 Dragon's Fire
 1 Snow-Covered Mountain
 1 Frost Bite
@@ -203,25 +203,25 @@
 4 Lorehold Command
 4 Showdown of the Skalds
 4 Needleverge Pathway
+1 Prosperous Innkeeper
+1 Storm the Festival
 1 Chaplain of Alms
 1 Luminarch Aspirant
-1 Storm the Festival
 1 Ambitious Farmhand
-1 Prosperous Innkeeper
 1 Trelasarra, Moon Dancer
+2 Prosperous Innkeeper
 2 Chaplain of Alms
 2 Ambitious Farmhand
-2 Prosperous Innkeeper
 2 Luminarch Aspirant
 2 Trelasarra, Moon Dancer
+3 Prosperous Innkeeper
 3 Chaplain of Alms
 3 Luminarch Aspirant
-3 Prosperous Innkeeper
 3 Trelasarra, Moon Dancer
 3 Ambitious Farmhand
+4 Trelasarra, Moon Dancer
+4 Prosperous Innkeeper
 4 Chaplain of Alms
 4 Snow-Covered Forest
-4 Prosperous Innkeeper
 4 Luminarch Aspirant
-4 Trelasarra, Moon Dancer
 4 Ambitious Farmhand

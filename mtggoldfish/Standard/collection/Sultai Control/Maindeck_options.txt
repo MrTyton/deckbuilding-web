@@ -122,9 +122,9 @@
 2 Iymrith, Desert Doom
 3 Field Trip
 3 Soul Shatter
-4 Field Trip
 4 Soul Shatter
 4 Negate
+4 Field Trip
 1 Dread Fugue
 2 Dread Fugue
 3 Dread Fugue
@@ -173,8 +173,8 @@
 1 Evolving Wilds
 1 Toski, Bearer of Secrets
 1 Roiling Regrowth
-2 Scute Swarm
 2 Toski, Bearer of Secrets
+2 Scute Swarm
 2 Roiling Regrowth
 3 Scute Swarm
 4 Scute Swarm
@@ -201,19 +201,6 @@
 2 Witherbloom Campus
 2 Quandrix Campus
 3 Witherbloom Campus
-1 Crippling Fear
-1 Baleful Mastery
-1 Quandrix Command
-1 Cram Session
-1 Witherbloom Command
-2 Quandrix Command
-2 Baleful Mastery
-2 Cram Session
-3 Sea Gate Restoration
-3 Hunt for Specimens
-4 Bloodchief's Thirst
-4 Hunt for Specimens
-4 Shadows' Verdict
 1 Tangled Florahedron
 2 Cyclone Summoner
 2 Tangled Florahedron
@@ -231,6 +218,19 @@
 4 Siphon Insight
 4 Go Blank
 4 Pelakka Predation
+1 Cram Session
+1 Crippling Fear
+1 Baleful Mastery
+1 Quandrix Command
+1 Witherbloom Command
+2 Quandrix Command
+2 Cram Session
+2 Baleful Mastery
+3 Hunt for Specimens
+3 Sea Gate Restoration
+4 Bloodchief's Thirst
+4 Hunt for Specimens
+4 Shadows' Verdict
 1 Necroblossom Snarl
 2 Necroblossom Snarl
 4 Wrenn and Seven
@@ -262,16 +262,16 @@
 4 Deathcap Glade
 4 Plumb the Forbidden
 4 Witherbloom Apprentice
+1 Vastwood Surge
 1 Acererak the Archlich
 1 Xanathar, Guild Kingpin
-1 Vastwood Surge
 1 Briarbridge Tracker
 1 Ice Tunnel
 1 Narfi, Betrayer King
+2 Vastwood Surge
 2 Briarbridge Tracker
 2 Ice Tunnel
 2 Storm the Festival
-2 Vastwood Surge
 3 Briarbridge Tracker
 4 Woodland Chasm
 3 Tovolar's Huntmaster
@@ -285,20 +285,20 @@
 4 Fading Hope
 5 Island
 1 Wandering Archaic
-1 Diregraf Rebirth
 1 Gelatinous Cube
-1 Battle Mammoth
 1 Mind Flayer
+1 Battle Mammoth
 1 Spirit of the Aldergard
 1 Tend the Pests
 1 Mystic Reflection
+1 Diregraf Rebirth
 2 Poison the Cup
 2 Wandering Archaic
-2 Diregraf Rebirth
 2 Gelatinous Cube
 2 Spirit of the Aldergard
 2 Tend the Pests
 2 Mystic Reflection
+2 Diregraf Rebirth
 3 Tend the Pests
 3 Mystic Reflection
 3 Spirit of the Aldergard

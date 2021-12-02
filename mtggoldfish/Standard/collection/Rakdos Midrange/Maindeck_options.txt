@@ -113,8 +113,8 @@
 4 Manaform Hellkite
 1 Duress
 2 Duress
-9 Mountain
 9 Swamp
+9 Mountain
 10 Mountain
 1 Dragon's Fire
 2 Dragon's Fire
@@ -126,9 +126,9 @@
 2 Field of Ruin
 1 Light Up the Night
 1 Lunar Frenzy
+2 Henrika Domnathi
 1 Cemetery Gatekeeper
 2 Cemetery Gatekeeper
-2 Henrika Domnathi
 1 Dragonkin Berserker
 2 Power Word Kill
 2 Dragonkin Berserker
@@ -157,11 +157,11 @@
 2 Bloodtithe Harvester
 2 Anje, Maid of Dishonor
 3 Anje, Maid of Dishonor
-1 Orb of Dragonkind
 1 Moonveil Regent
+1 Orb of Dragonkind
+2 Moonveil Regent
 2 Orb of Dragonkind
 2 Soul Shatter
-2 Moonveil Regent
 3 Moonveil Regent
 3 Orb of Dragonkind
 4 Dragon's Fire
@@ -170,10 +170,10 @@
 3 Scourge of the Skyclaves
 4 Scourge of the Skyclaves
 1 Voldaren Epicure
-2 Voldaren Epicure
 2 Falkenrath Pit Fighter
-3 Voldaren Epicure
+2 Voldaren Epicure
 3 Falkenrath Pit Fighter
+3 Voldaren Epicure
 4 Florian, Voldaren Scion
 4 Falkenrath Pit Fighter
 4 Bloodthirsty Adversary
@@ -185,6 +185,16 @@
 3 Crippling Fear
 3 Slaughter Specialist
 4 Slaughter Specialist
+1 Poison the Cup
+1 Inscription of Ruin
+1 Immersturm Skullcairn
+2 Inscription of Ruin
+2 Poison the Cup
+3 Field of Ruin
+3 Poison the Cup
+3 Duress
+4 Graveyard Trespasser
+4 Poison the Cup
 1 Jadar, Ghoulcaller of Nephalia
 1 Abrade
 1 Champion of the Perished
@@ -197,19 +207,9 @@
 3 Fell Stinger
 3 Jadar, Ghoulcaller of Nephalia
 3 Champion of the Perished
-4 Jadar, Ghoulcaller of Nephalia
 4 Fell Stinger
 4 Champion of the Perished
-1 Poison the Cup
-1 Inscription of Ruin
-1 Immersturm Skullcairn
-2 Inscription of Ruin
-2 Poison the Cup
-3 Field of Ruin
-3 Poison the Cup
-3 Duress
-4 Graveyard Trespasser
-4 Poison the Cup
+4 Jadar, Ghoulcaller of Nephalia
 3 Orcus, Prince of Undeath
 4 Forsworn Paladin
 4 Magda, Brazen Outlaw

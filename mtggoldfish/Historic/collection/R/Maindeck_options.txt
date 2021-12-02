@@ -13,8 +13,8 @@
 2 Roiling Vortex
 4 Light Up the Stage
 4 Shock
-2 Bonecrusher Giant
 15 Mountain
+2 Bonecrusher Giant
 1 Pillar of Flame
 2 Ox of Agonas
 1 Hollow One
@@ -37,20 +37,20 @@
 2 Skewer the Critics
 3 Skewer the Critics
 4 Magmatic Channeler
+1 Rootbound Crag
+1 Atarka's Command
 1 Cragcrown Pathway
 1 Stomping Ground
 2 Cragcrown Pathway
-2 Stomping Ground
-3 Cragcrown Pathway
-3 Stomping Ground
-4 Stomping Ground
-1 Rootbound Crag
-1 Atarka's Command
 2 Rootbound Crag
 2 Atarka's Command
+2 Stomping Ground
 3 Atarka's Command
+3 Cragcrown Pathway
+3 Stomping Ground
 4 Cragcrown Pathway
 4 Atarka's Command
+4 Stomping Ground
 3 Pillar of Flame
 4 Bonecrusher Giant
 4 Skewer the Critics
@@ -94,8 +94,8 @@
 3 Stormwing Entity
 3 Riverglide Pathway
 3 Spirebluff Canal
-3 Expressive Iteration
 3 Opt
+3 Expressive Iteration
 4 Opt
 4 Riverglide Pathway
 4 Stormwing Entity
@@ -109,25 +109,20 @@
 2 Torbran, Thane of Red Fell
 1 Hazoret the Fervent
 1 Goblin Chainwhirler
-1 Reckless Ringleader
-2 Reckless Ringleader
-3 Reckless Ringleader
-4 Reckless Ringleader
 2 Castle Embereth
 1 Fervent Champion
 2 Fervent Champion
 3 Fervent Champion
 4 Fervent Champion
+1 Reckless Ringleader
 1 Anax, Hardened in the Forge
+2 Reckless Ringleader
 2 Anax, Hardened in the Forge
 3 Anax, Hardened in the Forge
+3 Reckless Ringleader
+4 Reckless Ringleader
 1 Sprite Dragon
 2 Sprite Dragon
-1 Embercleave
-2 Embercleave
-1 Burning-Tree Emissary
-2 Burning-Tree Emissary
-3 Burning-Tree Emissary
 2 Lightning Axe
 1 Flameblade Adept
 2 Flameblade Adept
@@ -137,6 +132,11 @@
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
 1 Chandra, Torch of Defiance
+1 Embercleave
+2 Embercleave
+1 Burning-Tree Emissary
+2 Burning-Tree Emissary
+3 Burning-Tree Emissary
 1 Faceless Haven
 1 Snow-Covered Mountain
 2 Faceless Haven
@@ -151,8 +151,6 @@
 10 Snow-Covered Mountain
 11 Snow-Covered Mountain
 12 Snow-Covered Mountain
-3 Embercleave
-4 Burning-Tree Emissary
 1 Phoenix of Ash
 3 Sprite Dragon
 1 Risk Factor
@@ -169,8 +167,8 @@
 18 Snow-Covered Mountain
 19 Snow-Covered Mountain
 1 Spikefield Hazard
-4 Goblin Chainwhirler
 1 Soul-Guide Lantern
+4 Goblin Chainwhirler
 1 Treasure Vault
 2 Treasure Vault
 3 Treasure Vault
@@ -180,10 +178,12 @@
 2 Chandra, Torch of Defiance
 16 Mountain
 17 Mountain
+3 Embercleave
 4 Anax, Hardened in the Forge
+4 Burning-Tree Emissary
 1 The Flame of Keld
-1 Rampaging Ferocidon
 1 Maximize Velocity
+1 Rampaging Ferocidon
 2 Spikefield Hazard
 1 Forgotten Cave
 2 Forgotten Cave
@@ -216,23 +216,27 @@
 2 Showdown of the Skalds
 3 Showdown of the Skalds
 4 Showdown of the Skalds
+1 Viashino Pyromancer
+1 Ghitu Lavarunner
+1 Wizard's Lightning
+2 Ghitu Lavarunner
+2 Viashino Pyromancer
+2 Wizard's Lightning
+3 Wizard's Lightning
+3 Viashino Pyromancer
+3 Ghitu Lavarunner
+4 Viashino Pyromancer
+4 Ghitu Lavarunner
+4 Wizard's Lightning
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
 3 Hazoret the Fervent
 4 Runaway Steam-Kin
-1 Ghitu Lavarunner
-1 Wizard's Lightning
-1 Viashino Pyromancer
-2 Wizard's Lightning
-2 Ghitu Lavarunner
-2 Viashino Pyromancer
-3 Ghitu Lavarunner
-3 Wizard's Lightning
-3 Viashino Pyromancer
-4 Wizard's Lightning
-4 Ghitu Lavarunner
-4 Viashino Pyromancer
+3 Chandra, Torch of Defiance
+18 Mountain
+19 Mountain
+20 Mountain
 1 Rimrock Knight
 1 Falkenrath Pit Fighter
 1 Kari Zev, Skyship Raider
@@ -243,37 +247,3 @@
 3 Falkenrath Pit Fighter
 4 Falkenrath Pit Fighter
 4 Embercleave
-3 Chandra, Torch of Defiance
-18 Mountain
-19 Mountain
-20 Mountain
-1 Collected Company
-1 Rotting Regisaur
-1 Hive of the Eye Tyrant
-1 Kazandu Mammoth
-1 Reckless Stormseeker
-1 Blightstep Pathway
-1 Overgrown Tomb
-1 Call of the Death-Dweller
-1 Dragonskull Summit
-1 Blood Crypt
-1 Dreadhorde Butcher
-2 Collected Company
-2 Rotting Regisaur
-2 Overgrown Tomb
-2 Reckless Stormseeker
-2 Blightstep Pathway
-2 Blood Crypt
-2 Dreadhorde Butcher
-2 Rampaging Ferocidon
-3 Collected Company
-3 Rotting Regisaur
-3 Overgrown Tomb
-3 Blightstep Pathway
-3 Reckless Stormseeker
-3 Blood Crypt
-3 Dreadhorde Butcher
-4 Overgrown Tomb
-4 Collected Company
-4 Blightstep Pathway
-4 Blood Crypt
