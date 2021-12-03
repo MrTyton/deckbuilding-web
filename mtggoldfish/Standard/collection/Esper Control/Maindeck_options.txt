@@ -11,13 +11,13 @@
 4 Graveyard Trespasser
 2 Soul Shatter
 3 Wash Away
-3 Sorin the Mirthless
 1 Shadows' Verdict
-3 Shattered Sanctum
+3 Sorin the Mirthless
 1 Lier, Disciple of the Drowned
-1 Fading Hope
 1 Divide by Zero
 2 Divide by Zero
+3 Shattered Sanctum
+1 Fading Hope
 2 Fading Hope
 3 Divide by Zero
 1 Test of Talents
@@ -28,20 +28,20 @@
 2 Lier, Disciple of the Drowned
 1 Henrika Domnathi
 2 Henrika Domnathi
-4 Siphon Insight
 3 Deserted Beach
+4 Siphon Insight
 2 Hive of the Eye Tyrant
 1 Edgar, Charmed Groom
 2 Edgar, Charmed Groom
+1 Doomskar
 1 Consider
 2 Consider
-1 Doomskar
 3 The Celestus
+4 Deserted Beach
+2 Doomskar
 1 Duress
 3 Lier, Disciple of the Drowned
 4 Divide by Zero
-4 Deserted Beach
-2 Doomskar
 3 Fading Hope
 3 Island
 3 Behold the Multiverse
@@ -49,35 +49,37 @@
 2 Sedgemoor Witch
 3 Sedgemoor Witch
 3 Consider
-3 Soul Shatter
-1 Nighthawk Scavenger
-2 Nighthawk Scavenger
 4 Sedgemoor Witch
 4 Behold the Multiverse
 1 Power Word Kill
-4 Consider
-2 Duress
-3 Nighthawk Scavenger
-1 Dread Fugue
-2 Dread Fugue
-1 Teferi, Who Slows the Sunset
 1 Saw It Coming
 2 Saw It Coming
+1 Teferi, Who Slows the Sunset
+3 Soul Shatter
+4 Consider
+2 Duress
+1 Nighthawk Scavenger
+2 Nighthawk Scavenger
+1 Dread Fugue
+2 Dread Fugue
 3 Doomskar
-3 Syncopate
 3 Duress
+3 Nighthawk Scavenger
+2 Teferi, Who Slows the Sunset
 1 Negate
+4 Memory Deluge
 3 Henrika Domnathi
 4 Duress
+3 Syncopate
 1 Go Blank
-2 Teferi, Who Slows the Sunset
 1 Faithful Mending
 2 Faithful Mending
 3 Saw It Coming
-4 Memory Deluge
 4 Shattered Sanctum
 1 Xanathar, Guild Kingpin
 3 Swamp
+3 Hullbreaker Horror
+3 Teferi, Who Slows the Sunset
 1 Faithbound Judge
 1 Sunset Revelry
 3 Faithful Mending
@@ -89,15 +91,15 @@
 3 Field of Ruin
 1 Lolth, Spider Queen
 2 Faithbound Judge
+1 Hagra Mauling
 4 Jwari Disruption
 4 Swamp
 3 Dread Fugue
 4 Dread Fugue
 1 Parasitic Grasp
 4 Saw It Coming
-1 Hagra Mauling
-3 Hullbreaker Horror
-3 Teferi, Who Slows the Sunset
+1 Alrund's Epiphany
+2 Alrund's Epiphany
 2 Fateful Absence
 4 Doomskar
 2 Lolth, Spider Queen
@@ -122,9 +124,9 @@
 2 Reidane, God of the Worthy
 3 Reidane, God of the Worthy
 3 Elite Spellbinder
-3 Edgar, Charmed Groom
 1 Baleful Mastery
 2 Baleful Mastery
+3 Edgar, Charmed Groom
 1 Deadly Dispute
 1 Eyetwitch
 1 Shambling Ghast
@@ -161,8 +163,6 @@
 2 Pelakka Predation
 1 Archon of Emeria
 2 Archon of Emeria
-1 Malakir Rebirth
-2 Malakir Rebirth
 1 Starnheim Unleashed
 1 Cave of the Frost Dragon
 2 Cave of the Frost Dragon
@@ -177,21 +177,19 @@
 3 Power Word Kill
 3 Iymrith, Desert Doom
 1 Portable Hole
-1 Rune of Sustenance
 1 Rune of Mortality
 1 Ravenform
-1 Sea Gate Restoration
 1 Rune of Flight
+1 Sea Gate Restoration
 1 Skyclave Relic
 1 The Blackstaff of Waterdeep
+1 Rune of Sustenance
 2 Portable Hole
 2 The Blackstaff of Waterdeep
-2 Ravenform
 2 Skyclave Relic
+2 Ravenform
 3 Skyclave Relic
 3 Ravenform
-1 Alrund's Epiphany
-2 Alrund's Epiphany
 3 Alrund's Epiphany
 4 Alrund's Epiphany
 4 The Meathook Massacre
@@ -201,6 +199,8 @@
 3 Deadly Dispute
 4 Deadly Dispute
 4 Shambling Ghast
+1 Treasure Vault
+4 Hullbreaker Horror
 4 Sorin the Mirthless
 4 Path of Peril
 2 Hagra Mauling

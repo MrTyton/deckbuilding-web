@@ -33,16 +33,16 @@
 2 Frostboil Snarl
 3 Memory Deluge
 2 Shatterskull Smashing
-1 Snow-Covered Island
 1 Frost Bite
 1 Snow-Covered Mountain
-2 Snow-Covered Island
+1 Snow-Covered Island
 2 Snow-Covered Mountain
+2 Snow-Covered Island
 2 Frost Bite
 3 Snow-Covered Island
 3 Snow-Covered Mountain
-4 Snow-Covered Mountain
 4 Snow-Covered Island
+4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 1 Dollhouse of Horrors
@@ -60,8 +60,8 @@
 1 Heated Debate
 1 Disdainful Stroke
 3 Frost Bite
-1 Dragon's Fire
 1 Iymrith, Desert Doom
+1 Dragon's Fire
 2 Dragon's Fire
 1 Cathartic Pyre
 1 Play with Fire
@@ -115,10 +115,10 @@
 1 Eruth, Tormented Prophet
 1 Inspired Idea
 2 Eruth, Tormented Prophet
-2 Inspired Idea
 2 Birgi, God of Storytelling
-3 Eruth, Tormented Prophet
+2 Inspired Idea
 3 Inspired Idea
+3 Eruth, Tormented Prophet
 3 Birgi, God of Storytelling
 4 Prismari Command
 4 Eruth, Tormented Prophet
@@ -154,35 +154,35 @@
 2 Alchemist's Gambit
 1 Rending Flame
 2 Rending Flame
+3 Demon Bolt
 2 Dollhouse of Horrors
 3 Dollhouse of Horrors
 3 Cinderclasm
-1 Manaform Hellkite
 1 Crackle with Power
+1 Manaform Hellkite
 2 Manaform Hellkite
 3 Syncopate
-3 Demon Bolt
 1 Reckless Impulse
 2 Reckless Impulse
 3 Reckless Impulse
 4 Reckless Impulse
 4 Thundering Rebuke
+1 Maddening Cacophony
+1 Tasha's Hideous Laughter
 1 Dual Strike
 1 Evolving Wilds
 1 Ruin Crab
-1 Tasha's Hideous Laughter
-1 Maddening Cacophony
 2 Evolving Wilds
-2 Dual Strike
-2 Ruin Crab
 2 Maddening Cacophony
 2 Tasha's Hideous Laughter
+2 Dual Strike
+2 Ruin Crab
 3 The Celestus
 3 Evolving Wilds
 3 Ruin Crab
 3 Maddening Cacophony
-3 Dual Strike
 3 Tasha's Hideous Laughter
+3 Dual Strike
 4 Ruin Crab
 4 Tasha's Hideous Laughter
 4 Maddening Cacophony
@@ -197,9 +197,9 @@
 1 Moonrager's Slash
 1 Flame Channeler
 2 Thermo-Alchemist
-2 Den of the Bugbear
 2 Moonrager's Slash
 2 Flame Channeler
+2 Den of the Bugbear
 3 Flame Channeler
 4 Flame Channeler
 1 Magma Opus
@@ -209,14 +209,35 @@
 2 Temple of the Dragon Queen
 2 Silundi Vision
 3 Magma Opus
-3 Shatterskull Smashing
 3 Spectral Adversary
 3 Silundi Vision
 3 Temple of the Dragon Queen
-4 Hall of Storm Giants
+3 Shatterskull Smashing
 4 Magma Opus
 4 Temple of the Dragon Queen
 4 Shatterskull Smashing
+4 Hall of Storm Giants
+1 Cyclone Summoner
+1 Aegar, the Freezing Flame
+1 Quakebringer
+1 Glimpse the Cosmos
+1 Calamity Bearer
+1 Invasion of the Giants
+2 Cyclone Summoner
+2 Quakebringer
+2 Invasion of the Giants
+2 Glimpse the Cosmos
+2 Calamity Bearer
+2 Aegar, the Freezing Flame
+3 Glimpse the Cosmos
+3 Quakebringer
+3 Invasion of the Giants
+3 Calamity Bearer
+4 Invasion of the Giants
+4 Quakebringer
+4 Calamity Bearer
+4 Glimpse the Cosmos
+4 Battle of Frost and Fire
 4 Dragon Turtle
 9 Island
 1 Pixie Guide
@@ -232,24 +253,3 @@
 4 Delina, Wild Mage
 4 Pixie Guide
 10 Snow-Covered Mountain
-1 Cyclone Summoner
-1 Glimpse the Cosmos
-1 Aegar, the Freezing Flame
-1 Quakebringer
-1 Calamity Bearer
-1 Invasion of the Giants
-2 Cyclone Summoner
-2 Glimpse the Cosmos
-2 Quakebringer
-2 Invasion of the Giants
-2 Calamity Bearer
-2 Aegar, the Freezing Flame
-3 Glimpse the Cosmos
-3 Quakebringer
-3 Invasion of the Giants
-3 Calamity Bearer
-4 Invasion of the Giants
-4 Quakebringer
-4 Calamity Bearer
-4 Glimpse the Cosmos
-4 Battle of Frost and Fire

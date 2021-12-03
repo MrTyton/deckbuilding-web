@@ -23,8 +23,8 @@
 2 Snow-Covered Swamp
 3 Snow-Covered Island
 3 Snow-Covered Swamp
-4 Snow-Covered Swamp
 4 Snow-Covered Island
+4 Snow-Covered Swamp
 2 Ice Tunnel
 2 Soul Shatter
 3 Ice Tunnel
@@ -150,11 +150,12 @@
 3 Grazilaxx, Illithid Scholar
 2 Test of Talents
 3 Test of Talents
-1 Consider
-2 Consider
-3 Concerted Defense
-3 Spectral Adversary
-4 Spectral Adversary
+1 Delver of Secrets
+1 Reaper's Talisman
+2 Delver of Secrets
+2 Reaper's Talisman
+3 Delver of Secrets
+4 Delver of Secrets
 2 Dread Fugue
 3 Dread Fugue
 3 Hive of the Eye Tyrant
@@ -165,43 +166,42 @@
 4 Agadeem's Awakening
 4 Glasspool Mimic
 1 Tasha's Hideous Laughter
-2 Maddening Cacophony
 2 Tasha's Hideous Laughter
-3 Maddening Cacophony
+2 Maddening Cacophony
 3 Tasha's Hideous Laughter
+3 Maddening Cacophony
+4 Jwari Disruption
 4 Maddening Cacophony
 4 Tasha's Hideous Laughter
-4 Jwari Disruption
-1 Devious Cover-Up
-1 Flip the Switch
+1 Consider
+2 Consider
+3 Spectral Adversary
+3 Concerted Defense
+4 Spectral Adversary
+1 Reject
 1 Haunting Voyage
 1 Eaten Alive
 1 Blood on the Snow
+1 Lolth, Spider Queen
 1 Feed the Swarm
+1 Devious Cover-Up
 1 Shambling Ghast
+1 Flip the Switch
 1 Deadly Dispute
 1 Rogue Class
 1 Grim Bounty
 1 Tyrite Sanctum
-1 Reject
-1 Lolth, Spider Queen
 1 Varragoth, Bloodsky Sire
-2 Flip the Switch
 2 Eaten Alive
 2 Rogue Class
 2 Shambling Ghast
+2 Flip the Switch
 2 Varragoth, Bloodsky Sire
 2 Deadly Dispute
 3 Eaten Alive
 3 Shambling Ghast
 4 Eaten Alive
 4 Shambling Ghast
-1 Delver of Secrets
-1 Reaper's Talisman
-2 Reaper's Talisman
-2 Delver of Secrets
-3 Delver of Secrets
-4 Delver of Secrets
 1 Hero's Downfall
 2 Hero's Downfall
 3 Hero's Downfall

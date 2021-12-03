@@ -122,9 +122,9 @@
 2 Iymrith, Desert Doom
 3 Field Trip
 3 Soul Shatter
+4 Field Trip
 4 Soul Shatter
 4 Negate
-4 Field Trip
 1 Dread Fugue
 2 Dread Fugue
 3 Dread Fugue
@@ -182,9 +182,9 @@
 1 Snow-Covered Mountain
 1 Sorin the Mirthless
 2 Sorin the Mirthless
+2 Lair of the Hydra
 1 Kasmina, Enigma Sage
 2 Kasmina, Enigma Sage
-2 Lair of the Hydra
 1 Overcharged Amalgam
 1 Fell Stinger
 1 Syncopate
@@ -201,6 +201,18 @@
 2 Witherbloom Campus
 2 Quandrix Campus
 3 Witherbloom Campus
+1 Acererak the Archlich
+1 Xanathar, Guild Kingpin
+1 Vastwood Surge
+1 Briarbridge Tracker
+1 Ice Tunnel
+1 Narfi, Betrayer King
+2 Briarbridge Tracker
+2 Ice Tunnel
+2 Storm the Festival
+2 Vastwood Surge
+3 Briarbridge Tracker
+4 Woodland Chasm
 1 Tangled Florahedron
 2 Cyclone Summoner
 2 Tangled Florahedron
@@ -218,14 +230,14 @@
 4 Siphon Insight
 4 Go Blank
 4 Pelakka Predation
-1 Cram Session
 1 Crippling Fear
 1 Baleful Mastery
 1 Quandrix Command
+1 Cram Session
 1 Witherbloom Command
 2 Quandrix Command
-2 Cram Session
 2 Baleful Mastery
+2 Cram Session
 3 Hunt for Specimens
 3 Sea Gate Restoration
 4 Bloodchief's Thirst
@@ -250,8 +262,8 @@
 2 Dream Strix
 2 Silundi Vision
 2 Secrets of the Key
-2 Witherbloom Apprentice
 2 Beledros Witherbloom
+2 Witherbloom Apprentice
 3 Deathcap Glade
 3 Sedgemoor Witch
 3 Plumb the Forbidden
@@ -262,18 +274,6 @@
 4 Deathcap Glade
 4 Plumb the Forbidden
 4 Witherbloom Apprentice
-1 Vastwood Surge
-1 Acererak the Archlich
-1 Xanathar, Guild Kingpin
-1 Briarbridge Tracker
-1 Ice Tunnel
-1 Narfi, Betrayer King
-2 Vastwood Surge
-2 Briarbridge Tracker
-2 Ice Tunnel
-2 Storm the Festival
-3 Briarbridge Tracker
-4 Woodland Chasm
 3 Tovolar's Huntmaster
 4 Behold the Multiverse
 4 Nighthawk Scavenger

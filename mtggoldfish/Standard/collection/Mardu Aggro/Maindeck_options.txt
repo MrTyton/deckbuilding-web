@@ -55,13 +55,13 @@
 1 Fateful Absence
 1 Rampage of the Valkyries
 1 Valorous Stance
-1 Starnheim Unleashed
-1 Liesa, Forgotten Archangel
+1 Angel of Destiny
 1 Lunarch Veteran
+1 Liesa, Forgotten Archangel
 1 Righteous Valkyrie
 1 Youthful Valkyrie
-1 Angel of Destiny
 1 Cleric of Life's Bond
+1 Starnheim Unleashed
 1 Firja's Retribution
 2 Valorous Stance
 2 Lunarch Veteran
@@ -122,21 +122,22 @@
 3 Bloodvial Purveyor
 4 Shineshadow Snarl
 1 Can't Stay Away
-1 Field of Ruin
-1 Clarion Spirit
+1 Chaplain of Alms
 1 Sigardian Savior
+1 Clarion Spirit
 1 Taborax, Hope's Demise
 1 Blade Historian
-1 Chaplain of Alms
+1 Field of Ruin
 1 Humiliate
 2 Chaplain of Alms
 2 Clarion Spirit
 2 Taborax, Hope's Demise
-2 Fateful Absence
 2 Humiliate
+2 Fateful Absence
 3 Clarion Spirit
 3 Humiliate
 4 Clarion Spirit
+4 Reidane, God of the Worthy
 2 Emeria's Call
 3 Tainted Adversary
 3 Angelfire Ignition
@@ -150,20 +151,17 @@
 4 Dragonkin Berserker
 1 Kalain, Reclusive Painter
 1 Deadly Dispute
-1 Kazuul's Fury
 1 Skyclave Shade
+1 Kazuul's Fury
 2 Kalain, Reclusive Painter
 2 Deadly Dispute
 2 Shambling Ghast
-2 Kazuul's Fury
 2 Skyclave Shade
+2 Kazuul's Fury
 3 Kalain, Reclusive Painter
 3 Deadly Dispute
 3 Shambling Ghast
 4 Reckless Stormseeker
-4 Reidane, God of the Worthy
-1 Maul of the Skyclaves
-7 Plains
 1 Welcoming Vampire
 1 Voldaren Ambusher
 1 Sorin the Mirthless
@@ -183,15 +181,16 @@
 2 Bloodtithe Harvester
 2 Falkenrath Pit Fighter
 2 Voldaren Estate
-3 Sundown Pass
+3 Mountain
 3 Welcoming Vampire
 3 Voldaren Estate
 3 Voldaren Ambusher
 3 Vampire Socialite
 3 Falkenrath Pit Fighter
 3 Markov Waltzer
+3 Sundown Pass
 3 Bloodtithe Harvester
-3 Mountain
+4 Mountain
 4 Infernal Grasp
 4 Voldaren Estate
 4 Bloodthirsty Adversary
@@ -199,7 +198,8 @@
 4 Sundown Pass
 4 Bloodtithe Harvester
 4 Vampire Socialite
-4 Mountain
 4 Voldaren Ambusher
-5 Mountain
 4 Falkenrath Pit Fighter
+5 Mountain
+1 Maul of the Skyclaves
+7 Plains

@@ -1,23 +1,19 @@
 2 Sylvan Library
 1 Forest
-3 Preordain
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
-1 Wrenn and Seven
+3 Preordain
 2 Birds of Paradise
 3 Birds of Paradise
-2 Flooded Strand
-1 Carpet of Flowers
-1 Island
 1 Wooded Foothills
-1 Slogurk, the Overslime
-1 Pithing Needle
+1 Wrenn and Seven
+1 Carpet of Flowers
 1 Soul-Guide Lantern
-1 Bojuka Bog
 1 Gaea's Cradle
 1 Retrofitter Foundry
-1 Knight of the Reliquary
 1 Urza's Saga
+1 Bojuka Bog
+1 Knight of the Reliquary
 2 Snow-Covered Plains
 2 Urza's Saga
 2 Knight of the Reliquary
@@ -25,6 +21,10 @@
 3 Urza's Saga
 4 Birds of Paradise
 4 Urza's Saga
+2 Flooded Strand
+1 Island
+1 Slogurk, the Overslime
+1 Pithing Needle
 3 Flooded Strand
 2 Endurance
 1 Spellseeker
@@ -37,60 +37,51 @@
 3 Ephemerate
 3 Spellseeker
 4 Spellseeker
+2 Noble Hierarch
+3 Endurance
+2 Wooded Foothills
+1 Volcanic Island
 1 Verdant Catacombs
+1 Underground Sea
 2 Verdant Catacombs
 1 Aluren
-2 Aluren
-3 Aluren
-4 Aluren
-2 Noble Hierarch
-1 Titania, Protector of Argoth
-3 Endurance
-1 Volcanic Island
-1 Underground Sea
-1 Snow-Covered Swamp
-1 Polluted Delta
 1 Cavern Harpy
 1 Recruiter of the Guard
 1 Ukkima, Stalking Shadow
+2 Aluren
 2 Recruiter of the Guard
 3 Recruiter of the Guard
+3 Aluren
+4 Aluren
 4 Recruiter of the Guard
 1 Piracy Charm
 1 Orim's Chant
 2 Carpet of Flowers
 3 Carpet of Flowers
+1 Snapcaster Mage
+1 Snow-Covered Swamp
+1 Polluted Delta
 1 Abrupt Decay
 2 Abrupt Decay
+2 Underground Sea
+1 Aether Spellbomb
+1 Titania, Protector of Argoth
+1 Path to Exile
+1 Pyroblast
+1 Arctic Merfolk
+1 Taiga
 1 Living Wish
+1 Niambi, Esteemed Speaker
 2 Living Wish
 3 Snow-Covered Island
 3 Living Wish
 3 Snow-Covered Forest
-1 Snapcaster Mage
-3 Verdant Catacombs
-1 Thoughtseize
-2 Polluted Delta
-2 Thoughtseize
-2 Underground Sea
-1 Niambi, Esteemed Speaker
-1 Pyroblast
-1 Arctic Merfolk
-1 Taiga
-2 Wooded Foothills
-1 Plague Engineer
-2 Plague Engineer
-4 Preordain
 2 Tundra
 3 Teferi, Time Raveler
 4 Flooded Strand
-1 Acererak the Archlich
-1 Cabal Therapy
-1 Veteran Explorer
-2 Acererak the Archlich
-2 Cabal Therapy
-3 Acererak the Archlich
-4 Verdant Catacombs
+1 Plague Engineer
+2 Plague Engineer
+4 Preordain
 1 Hexdrinker
 1 Scavenging Ooze
 1 Swamp
@@ -101,6 +92,7 @@
 2 Elvish Reclaimer
 3 Tropical Island
 3 Abrupt Decay
+3 Verdant Catacombs
 4 Abrupt Decay
 4 Uro, Titan of Nature's Wrath
 4 Tropical Island
@@ -108,12 +100,15 @@
 1 Baleful Strix
 1 Nurturing Peatland
 1 Witherbloom Apprentice
-1 Fatal Push
+1 Thoughtseize
 1 Chain of Smog
+1 Fatal Push
+2 Polluted Delta
 2 Baleful Strix
 2 Witherbloom Apprentice
 2 Fatal Push
 2 Chain of Smog
+2 Thoughtseize
 2 Snapcaster Mage
 3 Baleful Strix
 3 Polluted Delta

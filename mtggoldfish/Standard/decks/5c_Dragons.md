@@ -43,12 +43,12 @@
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|-----------------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    1|[Volatile Fjord](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503893)            |                     |              |
+|                    1|[Treasure Vault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527548)            |                     |              |
 |                    1|[Magda, Brazen Outlaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503754)      |                     |              |
-|                    1|[Turntimber Symbiosis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491864)      |                     |              |
 |                    1|[Igneous Inspiration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513584)       |                     |              |
+|                    1|[Turntimber Symbiosis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491864)      |                     |              |
 |                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                  |                     |              |
 |                    1|[Shatterskull Smashing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491802)     |                     |              |
-|                    1|[Treasure Vault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527548)            |                     |              |
 |                    1|[Velomachus Lorehold](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513737)       |                     |              |
 |                    2|[Galazeth Prismari](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513681)         |                     |              |
 |                    2|[Iymrith, Desert Doom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527349)      |                     |              |
@@ -70,9 +70,9 @@
 |                    3|[Cragcrown Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491915)         |                     |              |
 |                    4|[Shatterskull Smashing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491802)     |                     |              |
 |                    4|[Dragon's Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527426)             |                     |              |
-|                    4|[Temple of the Dragon Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527547)|                     |              |
 |                    4|[Magda, Brazen Outlaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503754)      |                     |              |
 |                    4|[Igneous Inspiration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513584)       |                     |              |
+|                    4|[Temple of the Dragon Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527547)|                     |              |
 |                    4|[Goldspan Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503751)           |                     |              |
 |                    4|[Galazeth Prismari](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513681)         |                     |              |
 |                    4|[Cragcrown Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491915)         |                     |              |
