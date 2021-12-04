@@ -61,8 +61,8 @@
 4 Cephalid Illusionist
 1 Snow-Covered Plains
 2 Snow-Covered Island
-1 Urza's Saga
 1 Retrofitter Foundry
+1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
 4 Urza's Saga
@@ -85,8 +85,8 @@
 1 Relic of Progenitus
 1 Pyroblast
 1 Deceiver Exarch
-1 Splinter Twin
 1 Pestermite
+1 Splinter Twin
 2 Deceiver Exarch
 2 Splinter Twin
 3 Splinter Twin
@@ -130,8 +130,6 @@
 3 Deceiver Exarch
 2 Pestermite
 3 Pestermite
-1 Marsh Flats
-4 Tundra
 1 Tropical Island
 1 Snow-Covered Forest
 1 Ice-Fang Coatl
@@ -150,10 +148,12 @@
 4 Misty Rainforest
 4 Ice-Fang Coatl
 4 Aether Vial
+1 Marsh Flats
+4 Tundra
+1 Venser, Shaper Savant
 1 Academy Ruins
 1 Raugrin Triome
 1 Vendilion Clique
-1 Venser, Shaper Savant
 3 Force of Negation
 4 Snapcaster Mage
 6 Snow-Covered Island

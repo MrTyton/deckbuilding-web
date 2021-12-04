@@ -42,10 +42,10 @@
 1 Volatile Arsonist
 2 Volatile Arsonist
 1 Tainted Adversary
-1 Kazuul's Fury
 1 Dread Fugue
-2 Tainted Adversary
+1 Kazuul's Fury
 2 Dread Fugue
+2 Tainted Adversary
 3 Tainted Adversary
 2 Bloodchief's Thirst
 4 Reckless Stormseeker
@@ -85,8 +85,8 @@
 2 Sorin the Mirthless
 1 Magda, Brazen Outlaw
 2 Magda, Brazen Outlaw
-3 Forsworn Paladin
 3 Magda, Brazen Outlaw
+3 Forsworn Paladin
 2 Inferno of the Star Mounts
 3 Inferno of the Star Mounts
 4 Inferno of the Star Mounts
@@ -102,8 +102,8 @@
 2 Bloodthirsty Adversary
 3 Bloodthirsty Adversary
 2 Nighthawk Scavenger
-1 Falkenrath Pit Fighter
 1 Vampire Socialite
+1 Falkenrath Pit Fighter
 2 Vampire Socialite
 3 Vampire Socialite
 4 Vampire Socialite
@@ -137,9 +137,9 @@
 3 Kazuul's Fury
 1 Magic Missile
 1 Westgate Regent
-1 Thieves' Tools
 1 Jaded Sell-Sword
 1 Red Dragon
+1 Thieves' Tools
 1 Hired Hexblade
 1 Unwilling Ingredient
 1 Sudden Breakthrough
@@ -148,35 +148,27 @@
 2 Sudden Breakthrough
 2 Jaded Sell-Sword
 3 Hired Hexblade
+1 Dominating Vampire
+1 Bloodtithe Harvester
 1 Voldaren Bloodcaster
 1 Anje, Maid of Dishonor
-1 Bloodtithe Harvester
-1 Dominating Vampire
 1 Valentin, Dean of the Vein
-2 Voldaren Bloodcaster
-2 Bloodtithe Harvester
 2 Anje, Maid of Dishonor
+2 Bloodtithe Harvester
+2 Voldaren Bloodcaster
 3 Anje, Maid of Dishonor
-1 Orb of Dragonkind
-1 Moonveil Regent
-2 Orb of Dragonkind
-2 Soul Shatter
-2 Moonveil Regent
-3 Moonveil Regent
-3 Orb of Dragonkind
-4 Dragon's Fire
 1 Scourge of the Skyclaves
 2 Scourge of the Skyclaves
 3 Scourge of the Skyclaves
 4 Scourge of the Skyclaves
-1 Voldaren Epicure
-2 Voldaren Epicure
-2 Falkenrath Pit Fighter
-3 Voldaren Epicure
-3 Falkenrath Pit Fighter
-4 Florian, Voldaren Scion
-4 Falkenrath Pit Fighter
-4 Bloodthirsty Adversary
+1 Moonveil Regent
+1 Orb of Dragonkind
+2 Moonveil Regent
+2 Orb of Dragonkind
+2 Soul Shatter
+3 Moonveil Regent
+3 Orb of Dragonkind
+4 Dragon's Fire
 1 Inscription of Ruin
 1 Poison the Cup
 1 Immersturm Skullcairn
@@ -195,36 +187,39 @@
 3 Crippling Fear
 3 Slaughter Specialist
 4 Slaughter Specialist
+1 Champion of the Perished
 1 Jadar, Ghoulcaller of Nephalia
 1 Abrade
-1 Champion of the Perished
 1 Thundering Rebuke
-2 Thundering Rebuke
-2 Fell Stinger
+2 Champion of the Perished
 2 Jadar, Ghoulcaller of Nephalia
 2 Abrade
-2 Champion of the Perished
+2 Fell Stinger
+2 Thundering Rebuke
 3 Fell Stinger
-3 Jadar, Ghoulcaller of Nephalia
 3 Champion of the Perished
-4 Fell Stinger
+3 Jadar, Ghoulcaller of Nephalia
 4 Champion of the Perished
 4 Jadar, Ghoulcaller of Nephalia
+4 Fell Stinger
 3 Orcus, Prince of Undeath
-4 Forsworn Paladin
 4 Magda, Brazen Outlaw
+4 Forsworn Paladin
 4 Orcus, Prince of Undeath
+1 Voldaren Epicure
+2 Voldaren Epicure
+2 Falkenrath Pit Fighter
+3 Voldaren Epicure
+3 Falkenrath Pit Fighter
+4 Florian, Voldaren Scion
+4 Bloodthirsty Adversary
+4 Falkenrath Pit Fighter
 4 Valki, God of Lies
-3 Nighthawk Scavenger
-4 Nighthawk Scavenger
-10 Swamp
-11 Swamp
-12 Swamp
-1 Rise of the Dread Marn
-1 Vorpal Sword
 1 Crush the Weak
 1 Nullpriest of Oblivion
 1 Egon, God of Death
+1 Rise of the Dread Marn
+1 Vorpal Sword
 2 Crush the Weak
 2 Nullpriest of Oblivion
 2 Egon, God of Death
@@ -232,3 +227,8 @@
 4 Crush the Weak
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
+3 Nighthawk Scavenger
+4 Nighthawk Scavenger
+10 Swamp
+11 Swamp
+12 Swamp

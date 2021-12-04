@@ -172,8 +172,8 @@
 2 Fabled Passage
 2 Gilded Goose
 2 Swamp
-3 Gilded Goose
 3 Lotus Cobra
+3 Gilded Goose
 3 Fabled Passage
 3 Swamp
 5 Forest
@@ -194,7 +194,6 @@
 1 The Birth of Meletis
 1 Needleverge Pathway
 1 Godless Shrine
-1 Idyllic Tutor
 1 Sanctum of Stone Fangs
 1 Honden of Night's Reach
 1 Sanctum of Calm Waters
@@ -208,6 +207,7 @@
 1 Prophetic Prism
 1 Shalai, Voice of Plenty
 1 Finale of Devastation
+1 Idyllic Tutor
 1 Smothering Tithe
 1 Dryad of the Ilysian Grove
 1 Mastermind's Acquisition
@@ -251,8 +251,8 @@
 2 Watery Grave
 2 Dryad of the Ilysian Grove
 2 Idyllic Tutor
-2 Godless Shrine
 2 Evolving Wilds
+2 Godless Shrine
 2 Hallowed Fountain
 2 Wrath of God
 2 Migration Path
@@ -302,17 +302,17 @@
 3 Sanctum of All
 4 Dryad of the Ilysian Grove
 4 Stomping Ground
+4 Lotus Cobra
 4 Treacherous Blessing
 4 Sacred Foundry
 4 Fae of Wishes
 4 Gilded Goose
 4 Watery Grave
 4 Overgrown Tomb
-4 Island
 4 Fabled Passage
-4 Breeding Pool
+4 Island
 4 Evolving Wilds
-4 Lotus Cobra
+4 Breeding Pool
 4 Hallowed Fountain
 4 Prophetic Prism
 4 Renegade Map
@@ -371,6 +371,7 @@
 1 Darkbore Pathway
 1 Castle Locthwain
 1 Gemrazer
+1 Vineglimmer Snarl
 1 Season of Growth
 1 Necroblossom Snarl
 1 Temple of Deceit
@@ -386,7 +387,6 @@
 1 Paradise Druid
 1 Dirge Bat
 1 Nethroi, Apex of Death
-1 Vineglimmer Snarl
 1 Migratory Greathorn
 1 Auspicious Starrix
 1 Boneyard Lurker
@@ -395,8 +395,8 @@
 1 Insatiable Hemophage
 2 Darkbore Pathway
 2 Nissa, Who Shakes the World
-2 Season of Growth
 2 Gemrazer
+2 Season of Growth
 2 Paradise Druid
 2 Insatiable Hemophage
 2 Boneyard Lurker

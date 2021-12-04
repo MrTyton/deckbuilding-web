@@ -22,8 +22,8 @@
 1 Tropical Island
 1 Uro, Titan of Nature's Wrath
 1 Slogurk, the Overslime
-1 Tundra
 1 Brainstorm
+1 Tundra
 2 Brainstorm
 2 Life from the Loam
 3 Brainstorm
@@ -33,11 +33,11 @@
 1 Snow-Covered Plains
 1 Dark Confidant
 1 Jace, the Mind Sculptor
-1 Sevinne's Reclamation
 1 Leovold, Emissary of Trest
+1 Sevinne's Reclamation
+1 Cabal Pit
 1 Kaya, Orzhov Usurper
 1 Cephalid Coliseum
-1 Cabal Pit
 1 Underground Sea
 2 Dark Confidant
 3 Verdant Catacombs
@@ -78,10 +78,6 @@
 1 Torpor Orb
 1 Hullbreacher
 2 Urza's Saga
-1 Abrupt Decay
-1 Soul-Guide Lantern
-2 Abrupt Decay
-3 Abrupt Decay
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
@@ -99,3 +95,7 @@
 2 Taiga
 3 Dryad of the Ilysian Grove
 3 Orcish Lumberjack
+1 Soul-Guide Lantern
+1 Abrupt Decay
+2 Abrupt Decay
+3 Abrupt Decay

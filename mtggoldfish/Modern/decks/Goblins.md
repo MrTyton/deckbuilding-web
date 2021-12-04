@@ -153,7 +153,7 @@
 |                   13|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233) |                     |                                                                                                    |
 |                   14|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233) |                     |                                                                                                    |
 |                   15|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233) |                     |                                                                                                    |
-|                   17|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233) |                     |                                                                                                    |
-|                   18|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233) |                     |                                                                                                    |
 |                   16|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233) |                     |                                                                                                    |
+|                   18|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233) |                     |                                                                                                    |
+|                   17|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233) |                     |                                                                                                    |
 

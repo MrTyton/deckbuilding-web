@@ -1,5 +1,5 @@
-4 Treasure Vault
 1 Glimmervoid
+4 Galvanic Blast
 1 Pithing Needle
 3 Thoughtcast
 2 Myr Enforcer
@@ -7,13 +7,14 @@
 2 Razortide Bridge
 2 Glimmervoid
 3 Glimmervoid
-1 Nettlecyst
 4 Thoughtcast
-3 Spire of Industry
-2 Nettlecyst
+1 Nettlecyst
 1 Paradise Mantle
 2 Paradise Mantle
+2 Nettlecyst
+1 Expedition Map
 4 Silverbluff Bridge
+3 Spire of Industry
 1 Relic of Progenitus
 1 Ingenious Smith
 2 Ingenious Smith
@@ -39,16 +40,15 @@
 3 Mishra's Bauble
 4 Ingenious Smith
 4 Mishra's Bauble
-1 Eiganjo Castle
 1 Crucible of Worlds
 1 Lightning Greaves
 1 Oswald Fiddlebender
 1 Ichor Wellspring
+1 Eiganjo Castle
 2 Oswald Fiddlebender
 3 Oswald Fiddlebender
 4 Plains
 4 Oswald Fiddlebender
-1 Expedition Map
 1 Inkmoth Nexus
 2 Inkmoth Nexus
 1 Mistvault Bridge
@@ -78,48 +78,46 @@
 1 Thorn of Amethyst
 2 Gingerbrute
 1 Rustvale Bridge
-1 Metallic Rebuke
-2 Metallic Rebuke
 1 Blinkmoth Nexus
 1 Bomat Courier
 2 Island
 4 Razortide Bridge
 1 Giver of Runes
+1 Emeria's Call
+1 Field of Ruin
+1 Solitude
 1 Thalia, Guardian of Thraben
 1 Phyrexian Revoker
 1 Tectonic Edge
 1 Archon of Emeria
 1 Flickerwisp
 1 Aether Vial
-1 Field of Ruin
-1 Emeria's Call
-1 Solitude
 2 Giver of Runes
+2 Field of Ruin
+2 Emeria's Call
 2 Thalia, Guardian of Thraben
+2 Archon of Emeria
 2 Tectonic Edge
 2 Flickerwisp
 2 Aether Vial
-2 Archon of Emeria
-2 Emeria's Call
-2 Field of Ruin
 2 Solitude
-3 Tectonic Edge
 3 Giver of Runes
-3 Thalia, Guardian of Thraben
 3 Emeria's Call
-3 Solitude
 3 Field of Ruin
+3 Thalia, Guardian of Thraben
+3 Archon of Emeria
+3 Solitude
+3 Tectonic Edge
 3 Flickerwisp
 3 Aether Vial
-3 Archon of Emeria
+4 Emeria's Call
+4 Field of Ruin
+4 Thalia, Guardian of Thraben
+4 Archon of Emeria
 4 Tectonic Edge
 4 Giver of Runes
-4 Archon of Emeria
-4 Field of Ruin
 4 Aether Vial
-4 Emeria's Call
 4 Flickerwisp
-4 Thalia, Guardian of Thraben
 4 Solitude
 6 Plains
 7 Plains
@@ -129,7 +127,6 @@
 11 Plains
 12 Plains
 13 Plains
-1 Glint-Nest Crane
 1 Grafdigger's Cage
 1 Soul-Guide Lantern
 1 Crackdown Construct
@@ -146,17 +143,22 @@
 2 Tormod's Crypt
 2 Ethersworn Sphinx
 2 Relic of Progenitus
-3 Relic of Progenitus
 3 Tormod's Crypt
 3 Island
 3 Myr Enforcer
+3 Relic of Progenitus
 4 Relic of Progenitus
 4 Tormod's Crypt
 4 Myr Enforcer
-1 Seachrome Coast
+3 Gingerbrute
+4 Gingerbrute
+4 Mistvault Bridge
+1 Metallic Rebuke
 1 Hallowed Fountain
+1 Seachrome Coast
 1 Sunbeam Spellbomb
 1 Urza, Lord High Artificer
+2 Metallic Rebuke
 2 Seachrome Coast
 2 Hallowed Fountain
 2 Urza, Lord High Artificer
@@ -187,6 +189,3 @@
 4 Bomat Courier
 4 Steel Overseer
 4 Arcbound Ravager
-3 Gingerbrute
-4 Gingerbrute
-4 Mistvault Bridge
