@@ -27,8 +27,8 @@
 1 Deathcap Glade
 2 Deathcap Glade
 1 Soul Shatter
-1 Snow-Covered Plains
 1 Snow-Covered Swamp
+1 Snow-Covered Plains
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 2 Snow-Covered Swamp
@@ -60,8 +60,8 @@
 2 Old Rutstein
 1 Fateful Absence
 2 Fateful Absence
-1 Valki, God of Lies
 1 Highland Forest
+1 Valki, God of Lies
 2 Valki, God of Lies
 1 Baleful Mastery
 1 Shadows' Verdict
@@ -89,8 +89,8 @@
 1 Ashaya, Soul of the Wild
 2 Ashaya, Soul of the Wild
 1 Skeletal Swarming
-2 Power Word Kill
 2 Skeletal Swarming
+2 Power Word Kill
 2 Toski, Bearer of Secrets
 3 Bloodchief's Thirst
 1 Doomskar
@@ -101,6 +101,22 @@
 4 Woodland Chasm
 3 Snow-Covered Swamp
 4 Snow-Covered Forest
+1 Graveyard Trespasser
+1 Eradicator Valkyrie
+1 Gisa, Glorious Resurrector
+1 Skyclave Shade
+1 Witherbloom Command
+1 Nighthawk Scavenger
+1 Westgate Regent
+1 Jadar, Ghoulcaller of Nephalia
+2 Graveyard Trespasser
+2 Westgate Regent
+2 Soul Shatter
+2 Skyclave Shade
+2 Jadar, Ghoulcaller of Nephalia
+2 Gisa, Glorious Resurrector
+2 Eradicator Valkyrie
+3 Hive of the Eye Tyrant
 1 Tainted Adversary
 2 Tainted Adversary
 3 Tainted Adversary
@@ -113,39 +129,9 @@
 2 Hunt for Specimens
 2 Duress
 3 Duress
-1 Nighthawk Scavenger
-1 Eradicator Valkyrie
-1 Gisa, Glorious Resurrector
-1 Westgate Regent
-1 Jadar, Ghoulcaller of Nephalia
-1 Skyclave Shade
-1 Witherbloom Command
-1 Graveyard Trespasser
-2 Westgate Regent
-2 Jadar, Ghoulcaller of Nephalia
-2 Graveyard Trespasser
-2 Skyclave Shade
-2 Soul Shatter
-2 Gisa, Glorious Resurrector
-2 Eradicator Valkyrie
-3 Hive of the Eye Tyrant
-1 Cemetery Protector
-1 Henrika Domnathi
-1 Toxrill, the Corrosive
-1 Welcoming Vampire
-1 Vanishing Verse
-1 Diregraf Rebirth
-2 Toxrill, the Corrosive
-2 Welcoming Vampire
-2 Vanishing Verse
-3 Shattered Sanctum
-3 Deathcap Glade
-3 Old Rutstein
-4 Shattered Sanctum
-4 Deathcap Glade
 1 Snowfield Sinkhole
-1 Go Blank
 1 Tergrid, God of Fright
+1 Go Blank
 1 Crawling Barrens
 2 Snowfield Sinkhole
 2 Tergrid, God of Fright
@@ -156,11 +142,25 @@
 3 Ranger Class
 4 Bloodchief's Thirst
 1 Reclusive Taxidermist
-2 Baleful Mastery
 2 Reclusive Taxidermist
+2 Baleful Mastery
 3 Briarbridge Tracker
 3 Reclusive Taxidermist
 4 Reclusive Taxidermist
+1 Cemetery Protector
+1 Henrika Domnathi
+1 Toxrill, the Corrosive
+1 Welcoming Vampire
+1 Vanishing Verse
+1 Diregraf Rebirth
+2 Toxrill, the Corrosive
+2 Welcoming Vampire
+2 Vanishing Verse
+3 Deathcap Glade
+3 Shattered Sanctum
+3 Old Rutstein
+4 Shattered Sanctum
+4 Deathcap Glade
 1 Portable Hole
 1 Elite Spellbinder
 1 Brutal Cathar
@@ -172,8 +172,8 @@
 4 Tangled Florahedron
 1 Kaya the Inexorable
 2 Kaya the Inexorable
-3 Yasharn, Implacable Earth
 3 Valki, God of Lies
+3 Yasharn, Implacable Earth
 3 Fateful Absence
 4 Fateful Absence
 1 Skyclave Apparition
@@ -182,13 +182,13 @@
 1 Froghemoth
 2 Skyclave Apparition
 2 Professor of Symbology
-2 Vorinclex, Monstrous Raider
 2 Bala Ged Recovery
+2 Vorinclex, Monstrous Raider
 2 Froghemoth
 3 Professor of Symbology
 3 Snow-Covered Plains
-3 Skyclave Apparition
 3 Arctic Treeline
+3 Skyclave Apparition
 3 Nissa of Shadowed Boughs
 3 Doomskar
 3 Bala Ged Recovery
@@ -202,8 +202,8 @@
 4 Path to the Festival
 1 Primal Adversary
 1 Emergent Sequence
-2 Emergent Sequence
 2 Primal Adversary
+2 Emergent Sequence
 3 Primal Adversary
 3 Emergent Sequence
 4 Storm the Festival
@@ -212,12 +212,12 @@
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest
-1 Can't Stay Away
+1 Cleric Class
 1 Voice of the Blessed
 1 Intrepid Adversary
-1 Dollhouse of Horrors
-1 Cleric Class
+1 Can't Stay Away
 1 Snakeskin Veil
+1 Dollhouse of Horrors
 2 Voice of the Blessed
 2 Cleric Class
 2 Can't Stay Away

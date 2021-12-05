@@ -1,59 +1,59 @@
 1 Shark Typhoon
 2 Shark Typhoon
-1 Fabled Passage
-2 Fabled Passage
 3 Drowned Catacomb
-1 Essence Scatter
 4 Drowned Catacomb
 1 Archmage's Charm
-1 Hall of Storm Giants
 2 Archmage's Charm
+1 Fabled Passage
+2 Fabled Passage
+1 Hall of Storm Giants
 3 Archmage's Charm
 4 Archmage's Charm
 1 Drown in the Loch
-3 Fabled Passage
-1 Bloodchief's Thirst
-2 Bloodchief's Thirst
-2 Search for Azcanta
+1 Essence Scatter
 2 Drown in the Loch
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
+3 Fabled Passage
+2 Search for Azcanta
 4 Narset, Parter of Veils
 1 Baleful Mastery
 1 Inquisition of Kozilek
 3 Shark Typhoon
-2 Essence Scatter
 2 Hall of Storm Giants
 1 Shipwreck Marsh
 2 Shipwreck Marsh
-1 Negate
-1 Extinction Event
 2 Inquisition of Kozilek
+1 Bloodchief's Thirst
+2 Bloodchief's Thirst
+1 Extinction Event
 1 Infernal Grasp
-5 Island
+2 Essence Scatter
+4 Shark Typhoon
 1 Kaervek, the Spiteful
+1 Negate
+1 Jwari Disruption
+3 Inquisition of Kozilek
 1 Zagoth Triome
 2 Zagoth Triome
 3 Zagoth Triome
 4 Zagoth Triome
-1 Aether Gust
 1 Silundi Vision
 1 Tale's End
-1 Jwari Disruption
+1 Aether Gust
 1 Davriel's Withering
 1 Lier, Disciple of the Drowned
-2 Davriel's Withering
 2 Jwari Disruption
 2 Lier, Disciple of the Drowned
+2 Davriel's Withering
 3 Lier, Disciple of the Drowned
-3 Inquisition of Kozilek
 3 Shipwreck Marsh
 3 Drown in the Loch
 4 Shipwreck Marsh
 4 Drown in the Loch
 3 Cling to Dust
-4 Shark Typhoon
+5 Island
 1 Blast Zone
 2 Sublime Epiphany
 2 Extinction Event
@@ -64,30 +64,28 @@
 2 Uro, Titan of Nature's Wrath
 3 Overgrown Tomb
 3 Uro, Titan of Nature's Wrath
-2 Baleful Mastery
 1 Yahenni's Expertise
 2 Yahenni's Expertise
+2 Baleful Mastery
 4 Censor
 4 Fabled Passage
-1 Ashiok, Nightmare Muse
-2 Ashiok, Nightmare Muse
 2 Castle Vantress
-1 Sea Gate Restoration
-2 Vraska's Contempt
-1 Saw It Coming
-1 Mazemind Tome
+1 Mystical Dispute
 1 Witch's Vengeance
+1 Mazemind Tome
 1 Lochmere Serpent
+1 Saw It Coming
+1 Ashiok, Nightmare Muse
 2 Shadows' Verdict
 2 Witch's Vengeance
 2 Mazemind Tome
 2 Negate
+2 Ashiok, Nightmare Muse
 3 Mazemind Tome
 1 Jace, Unraveler of Secrets
 1 Chemister's Insight
 2 Blast Zone
 1 Commence the Endgame
-1 Mystical Dispute
 1 Cast Down
 2 Cast Down
 1 The Meathook Massacre
@@ -95,10 +93,10 @@
 2 The Meathook Massacre
 2 Heartless Act
 3 Heartless Act
-1 Siphon Insight
-1 Memory Deluge
 1 Hive of the Eye Tyrant
 1 Murderous Rider
+1 Siphon Insight
+1 Memory Deluge
 2 Siphon Insight
 2 Memory Deluge
 2 Murderous Rider
@@ -122,9 +120,11 @@
 4 Thoughtseize
 1 Ghost Quarter
 1 Disallow
+1 Sea Gate Restoration
 1 Lost Legacy
 1 Glimmer of Genius
 2 Ghost Quarter
+2 Vraska's Contempt
 2 Disallow
 2 Lost Legacy
 2 Glimmer of Genius
@@ -132,16 +132,24 @@
 3 Disallow
 3 Vraska's Contempt
 4 Glimmer of Genius
-1 Temple of Deceit
-1 Supreme Will
-1 Dismal Backwater
-2 Neutralize
-2 Sea Gate Restoration
-2 Supreme Will
-2 Dismal Backwater
-2 The Scarab God
-3 Neutralize
-3 Dismal Backwater
-6 Island
-7 Island
-4 Dismal Backwater
+1 Hengegate Pathway
+1 Brazen Borrower
+1 Hallowed Fountain
+1 Dovin's Veto
+1 Day of Judgment
+1 Wrath of God
+1 Teferi, Hero of Dominaria
+1 Castle Ardenvale
+1 Godless Shrine
+1 Glacial Fortress
+1 Brightclimb Pathway
+2 Hengegate Pathway
+2 Hallowed Fountain
+2 Teferi, Hero of Dominaria
+2 Glacial Fortress
+3 Hengegate Pathway
+3 Hallowed Fountain
+3 Glacial Fortress
+3 Teferi, Hero of Dominaria
+4 Hallowed Fountain
+4 Glacial Fortress

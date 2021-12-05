@@ -40,15 +40,15 @@
 1 Steam Vents
 1 Sacred Foundry
 1 Raugrin Triome
+2 Sulfur Falls
 2 Scorching Dragonfire
 2 Sacred Foundry
 2 Expressive Iteration
-2 Sulfur Falls
 2 Steam Vents
 2 Raugrin Triome
-3 Steam Vents
 3 Sulfur Falls
 3 Expressive Iteration
+3 Steam Vents
 4 Expressive Iteration
 1 Fabled Passage
 1 Hullbreaker Horror
@@ -56,8 +56,34 @@
 1 Opt
 1 Runed Halo
 2 Runed Halo
-1 Anger of the Gods
+1 Growth Spiral
+1 Hinterland Harbor
+1 Breeding Pool
+1 Scattered Groves
+1 Arboreal Grazer
+1 Sunpetal Grove
+1 Temple Garden
+1 Thespian's Stage
+1 Lotus Field
+1 Neutralize
+2 Breeding Pool
+2 Growth Spiral
+2 Temple Garden
+2 Scattered Groves
+2 Arboreal Grazer
+2 Neutralize
+2 Lotus Field
+3 Breeding Pool
+3 Growth Spiral
+3 Arboreal Grazer
+3 Lotus Field
+3 Temple Garden
+4 Breeding Pool
+4 Growth Spiral
+4 Arboreal Grazer
+4 Lotus Field
 1 Jwari Disruption
+1 Anger of the Gods
 1 Clifftop Retreat
 2 Anger of the Gods
 2 Clifftop Retreat
@@ -66,11 +92,11 @@
 4 Steam Vents
 1 Watery Grave
 1 Siphon Insight
-1 Godless Shrine
-1 Fatal Push
-1 Shipwreck Marsh
-1 Heartless Act
 1 Cling to Dust
+1 Godless Shrine
+1 Shipwreck Marsh
+1 Fatal Push
+1 Heartless Act
 1 Swamp
 1 Baleful Mastery
 1 Power Word Kill
@@ -82,9 +108,14 @@
 2 Fatal Push
 2 Drowned Catacomb
 3 Dig Through Time
-3 Fatal Push
 3 Watery Grave
+3 Fatal Push
 4 Fatal Push
+1 Snow-Covered Island
+2 Snow-Covered Island
+3 Snow-Covered Island
+4 Snow-Covered Island
+5 Snow-Covered Island
 1 Sphinx's Revelation
 1 Rest in Peace
 1 Needle Spires
@@ -95,34 +126,3 @@
 4 Sulfur Falls
 4 Raugrin Triome
 4 Scorching Dragonfire
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
-5 Snow-Covered Island
-1 Breeding Pool
-1 Scattered Groves
-1 Arboreal Grazer
-1 Growth Spiral
-1 Sunpetal Grove
-1 Hinterland Harbor
-1 Temple Garden
-1 Thespian's Stage
-1 Lotus Field
-1 Neutralize
-2 Breeding Pool
-2 Temple Garden
-2 Growth Spiral
-2 Scattered Groves
-2 Arboreal Grazer
-2 Neutralize
-2 Lotus Field
-3 Breeding Pool
-3 Arboreal Grazer
-3 Lotus Field
-3 Growth Spiral
-3 Temple Garden
-4 Breeding Pool
-4 Arboreal Grazer
-4 Lotus Field
-4 Growth Spiral

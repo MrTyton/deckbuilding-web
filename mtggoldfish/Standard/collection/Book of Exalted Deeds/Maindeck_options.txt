@@ -85,17 +85,17 @@
 2 Cartographer's Survey
 3 Cartographer's Survey
 1 Fading Hope
-1 Valorous Stance
 1 Snow-Covered Island
 1 Vanquish the Horde
 1 Memory Deluge
 1 Deserted Beach
 1 Glacial Floodplain
+1 Valorous Stance
+2 Deserted Beach
 2 Fading Hope
 2 Snow-Covered Island
-2 Valorous Stance
 2 Memory Deluge
-2 Deserted Beach
+2 Valorous Stance
 2 Glacial Floodplain
 3 Deserted Beach
 3 Fading Hope
@@ -154,9 +154,9 @@
 3 Paladin Class
 4 Reidane, God of the Worthy
 4 Paladin Class
-1 Sejiri Shelter
 1 Emeria's Call
 1 Professor of Symbology
+1 Sejiri Shelter
 2 Emeria's Call
 2 Professor of Symbology
 3 Emeria's Call
@@ -165,15 +165,14 @@
 4 Sigarda's Splendor
 1 Invoke the Divine
 2 Invoke the Divine
+3 Cosmos Elixir
 3 Field of Ruin
 3 Invoke the Divine
-3 Cosmos Elixir
 3 Angel of Destiny
+4 Cosmos Elixir
 4 Field of Ruin
 4 Invoke the Divine
 4 Angel of Destiny
-4 Cosmos Elixir
-1 Frost Bite
 1 Dragon's Fire
 1 Snow-Covered Mountain
 1 Lorehold Command
@@ -181,19 +180,20 @@
 1 Alpine Meadow
 1 Showdown of the Skalds
 1 Adult Gold Dragon
-2 Frost Bite
+1 Frost Bite
 2 Dragon's Fire
-2 Snow-Covered Mountain
 2 Adult Gold Dragon
+2 Snow-Covered Mountain
+2 Frost Bite
 2 Needleverge Pathway
 2 Lorehold Command
 2 Alpine Meadow
 2 Showdown of the Skalds
-3 Frost Bite
+3 Showdown of the Skalds
 3 Dragon's Fire
+3 Frost Bite
 3 Needleverge Pathway
 3 Alpine Meadow
-3 Showdown of the Skalds
 3 Adult Gold Dragon
 3 Lorehold Command
 4 Showdown of the Skalds
@@ -203,25 +203,25 @@
 4 Alpine Meadow
 4 Lorehold Command
 4 Needleverge Pathway
+1 Prosperous Innkeeper
 1 Chaplain of Alms
 1 Luminarch Aspirant
 1 Storm the Festival
 1 Ambitious Farmhand
-1 Prosperous Innkeeper
 1 Trelasarra, Moon Dancer
+2 Prosperous Innkeeper
 2 Chaplain of Alms
 2 Ambitious Farmhand
-2 Prosperous Innkeeper
 2 Luminarch Aspirant
 2 Trelasarra, Moon Dancer
-3 Luminarch Aspirant
 3 Prosperous Innkeeper
+3 Luminarch Aspirant
 3 Trelasarra, Moon Dancer
 3 Chaplain of Alms
 3 Ambitious Farmhand
-4 Chaplain of Alms
+4 Trelasarra, Moon Dancer
 4 Snow-Covered Forest
 4 Prosperous Innkeeper
+4 Chaplain of Alms
 4 Luminarch Aspirant
-4 Trelasarra, Moon Dancer
 4 Ambitious Farmhand

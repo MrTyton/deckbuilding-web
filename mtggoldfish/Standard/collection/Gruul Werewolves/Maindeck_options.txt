@@ -1,72 +1,64 @@
+8 Forest
+1 Abrade
 2 Abrade
-3 Shatterskull Smashing
-5 Mountain
 1 Primal Adversary
 1 Avabruck Caretaker
 3 Volatile Arsonist
 6 Mountain
-9 Forest
-4 Tovolar, Dire Overlord
 2 Den of the Bugbear
-1 Snow-Covered Mountain
-1 Blizzard Brawl
-1 Snow-Covered Forest
-2 Snow-Covered Forest
-2 Snow-Covered Mountain
-2 Blizzard Brawl
-3 Snow-Covered Mountain
-3 Snow-Covered Forest
-4 Snow-Covered Mountain
-4 Snow-Covered Forest
-1 Howlpack Piper
-3 Arlinn, the Pack's Hope
+9 Forest
 1 Wrenn and Seven
 2 Wrenn and Seven
-5 Snow-Covered Mountain
-5 Snow-Covered Forest
-6 Snow-Covered Forest
-7 Snow-Covered Forest
-8 Snow-Covered Forest
-1 Snakeskin Veil
-2 Snakeskin Veil
-3 Cemetery Prowler
 1 Thundering Rebuke
 2 Thundering Rebuke
+3 Arlinn, the Pack's Hope
+1 Snakeskin Veil
+4 Tovolar, Dire Overlord
+1 Halana and Alena, Partners
+1 Howlpack Piper
 2 Howlpack Piper
-3 Blizzard Brawl
-4 Blizzard Brawl
-4 Shatterskull Smashing
-9 Snow-Covered Forest
 1 Tovolar's Huntmaster
-1 Frost Bite
-2 Frost Bite
-3 Frost Bite
-3 Abrade
-4 Lair of the Hydra
-1 Inscription of Abundance
-1 Highland Forest
-2 Highland Forest
-1 Goldspan Dragon
-2 Goldspan Dragon
-1 Play with Fire
-2 Play with Fire
-1 Outland Liberator
-2 Outland Liberator
-4 Volatile Arsonist
 1 Packsong Pup
 2 Packsong Pup
 3 Packsong Pup
 4 Packsong Pup
-1 Faceless Haven
-2 Faceless Haven
+4 Shatterskull Smashing
+2 Snakeskin Veil
+1 Blizzard Brawl
+1 Snow-Covered Forest
+1 Snow-Covered Mountain
+2 Blizzard Brawl
+2 Snow-Covered Forest
+2 Snow-Covered Mountain
+3 Snow-Covered Forest
+3 Snow-Covered Mountain
+4 Snow-Covered Forest
+4 Snow-Covered Mountain
+3 Cemetery Prowler
+1 Inscription of Abundance
+3 Abrade
+4 Lair of the Hydra
+2 Halana and Alena, Partners
+3 Blizzard Brawl
+4 Blizzard Brawl
+5 Snow-Covered Forest
+5 Snow-Covered Mountain
+6 Snow-Covered Forest
+7 Snow-Covered Forest
+8 Snow-Covered Forest
+1 Play with Fire
+2 Play with Fire
+1 Goldspan Dragon
+2 Goldspan Dragon
+1 Outland Liberator
+2 Outland Liberator
+4 Volatile Arsonist
 4 Arlinn, the Pack's Hope
 2 Avabruck Caretaker
-3 Highland Forest
 3 Thundering Rebuke
 4 Thundering Rebuke
 1 Burning Hands
 2 Burning Hands
-1 Halana and Alena, Partners
 1 Briarbridge Tracker
 2 Briarbridge Tracker
 3 Briarbridge Tracker
@@ -74,6 +66,9 @@
 2 Prosperous Innkeeper
 1 Cathartic Pyre
 2 Cathartic Pyre
+9 Snow-Covered Forest
+1 Highland Forest
+2 Highland Forest
 1 Spikefield Hazard
 2 Spikefield Hazard
 2 Inscription of Abundance
@@ -81,34 +76,35 @@
 3 Wrenn and Seven
 4 Wrenn and Seven
 4 Briarbridge Tracker
-1 Froghemoth
-2 Froghemoth
-4 Frost Bite
+1 Frost Bite
+2 Frost Bite
+3 Frost Bite
 3 Goldspan Dragon
 4 Goldspan Dragon
-2 Halana and Alena, Partners
-3 Play with Fire
-10 Snow-Covered Forest
-1 Jaspera Sentinel
-2 Jaspera Sentinel
-3 Jaspera Sentinel
+1 Froghemoth
+2 Froghemoth
+1 Faceless Haven
+2 Faceless Haven
+3 Highland Forest
 4 Highland Forest
+3 Play with Fire
 1 Unnatural Growth
+2 Primal Adversary
 1 Ill-Tempered Loner
 1 Unnatural Moonrise
 2 Unnatural Moonrise
 7 Mountain
+1 Hound Tamer
+1 Run Amok
 1 Curse of Shaken Faith
 1 Lunar Frenzy
 1 Pack's Betrayal
-1 Run Amok
-1 Hound Tamer
+2 Hound Tamer
+2 Run Amok
 2 Ill-Tempered Loner
 2 Curse of Shaken Faith
 2 Lunar Frenzy
-2 Hound Tamer
 2 Pack's Betrayal
-2 Run Amok
 3 Unnatural Moonrise
 3 Pack's Betrayal
 3 Run Amok
@@ -116,26 +112,26 @@
 4 Unnatural Moonrise
 4 Run Amok
 8 Mountain
-6 Snow-Covered Mountain
-11 Snow-Covered Forest
-12 Snow-Covered Forest
-1 Evolving Wilds
-1 Vorinclex, Monstrous Raider
 1 Wolfkin Outcast
-1 Rending Flame
+1 Vorinclex, Monstrous Raider
+1 Evolving Wilds
+1 Light Up the Night
+1 Demon Bolt
+2 Demon Bolt
+3 Demon Bolt
 1 Magda, Brazen Outlaw
-2 Rending Flame
+1 Jaspera Sentinel
+1 Rending Flame
 2 Magda, Brazen Outlaw
-3 Prosperous Innkeeper
+2 Jaspera Sentinel
+2 Rending Flame
 3 Magda, Brazen Outlaw
+3 Jaspera Sentinel
+3 Prosperous Innkeeper
 3 Burning Hands
-4 Play with Fire
-1 Field of Ruin
-3 Faceless Haven
-3 Snakeskin Veil
-4 Snakeskin Veil
-1 Wolf Strike
+4 Frost Bite
 1 Kessig Wolfrider
+1 Wolf Strike
 1 Sporeback Wolf
 2 Wolf Strike
 2 Sporeback Wolf
@@ -144,18 +140,23 @@
 2 Kazandu Mammoth
 3 Kazandu Mammoth
 4 Kazandu Mammoth
-1 Augur of Autumn
-1 The Celestus
-1 Contortionist Troupe
+4 Play with Fire
+1 Field of Ruin
+3 Faceless Haven
+3 Snakeskin Veil
+4 Snakeskin Veil
+10 Snow-Covered Forest
 1 Howl of the Hunt
+1 Augur of Autumn
+1 Contortionist Troupe
+1 The Celestus
+2 Howl of the Hunt
 2 Augur of Autumn
 2 Tovolar's Huntmaster
 2 The Celestus
 2 Contortionist Troupe
-2 Primal Adversary
-2 Howl of the Hunt
-3 Outland Liberator
 3 Howl of the Hunt
+3 Outland Liberator
 4 Outland Liberator
 10 Forest
 11 Forest

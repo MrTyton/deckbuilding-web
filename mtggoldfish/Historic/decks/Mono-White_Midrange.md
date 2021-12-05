@@ -1,0 +1,69 @@
+# Mono-White Midrange
+
+#### [Export MTGO List](../collection/Mono-White%20Midrange/Mono-White%20Midrange.txt)
+#### [Export Arena List](../collection/Mono-White%20Midrange/Mono-White%20Midrange_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Ajani's%20Last%20Stand%0A4%09Ajani's%20Pridemate%0A2%09Ajani's%20Welcome%0A2%09Beloved%20Princess%0A1%09Cleric%20Class%0A3%09Conclave%20Tribunal%0A1%09Danitha%20Capashen,%20Paragon%0A1%09Dawn%20of%20Hope%0A2%09Fountain%20of%20Renewal%0A1%09Gods%20Willing%0A3%09Healer's%20Hawk%0A1%09Hieromancer's%20Cage%0A3%09Impassioned%20Orator%0A1%09Kinjalli's%20Sunwing%0A1%09Light%20of%20Hope%0A2%09Lunarch%20Veteran%0A1%09On%20Serra's%20Wings%0A1%09Pacifism%0A23%09Plains%0A2%09Resplendent%20Angel%0A1%09Righteous%20Blow%0A2%09Seal%20Away%0A1%09Valkyrie%20Harbinger&deckside=2%09Ajani's%20Welcome%0A3%09Alseid%20of%20Life's%20Bounty%0A3%09Cartouche%20of%20Solidarity%0A2%09Sentinel's%20Eyes%0A1%09Wrath%20of%20God)
+# Maindeck
+
+|                                          Artifact (2)                                          |                                            Creature (17)                                             |                                       Enchantment (13)                                        |                                        Instant (3)                                        |                                     Land (23)                                      |   Unknown (2)   |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------|
+|2 [Fountain of Renewal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447372)|4 [Ajani's Pridemate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376241)        |1 [Ajani's Last Stand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447140)|1 [Gods Willing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442005)  |23 [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|2 Lunarch Veteran|
+|                                                                                                |2 [Beloved Princess](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472969)         |2 [Ajani's Welcome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447142)   |1 [Light of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479540) |                                                                                    |                 |
+|                                                                                                |1 [Danitha Capashen, Paragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442900)|1 [Cleric Class](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527293)      |1 [Righteous Blow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240185)|                                                                                    |                 |
+|                                                                                                |3 [Healer's Hawk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452764)            |3 [Conclave Tribunal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452756) |                                                                                           |                                                                                    |                 |
+|                                                                                                |3 [Impassioned Orator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=469859)       |1 [Dawn of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452758)      |                                                                                           |                                                                                    |                 |
+|                                                                                                |1 [Kinjalli's Sunwing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435170)       |1 [Hieromancer's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447150)|                                                                                           |                                                                                    |                 |
+|                                                                                                |2 [Resplendent Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447170)        |1 [On Serra's Wings](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=500860)  |                                                                                           |                                                                                    |                 |
+|                                                                                                |1 [Valkyrie Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=506916)       |1 [Pacifism](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129667)          |                                                                                           |                                                                                    |                 |
+|                                                                                                |                                                                                                      |2 [Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)         |                                                                                           |                                                                                    |                 |
+
+
+# Sideboard
+
+|                                            Creature (3)                                            |                                          Enchantment (7)                                           |                                       Sorcery (1)                                       |
+|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+|3 [Alseid of Life's Bounty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476252)|2 [Ajani's Welcome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447142)        |1 [Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129808)|
+|                                                                                                    |3 [Cartouche of Solidarity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426709)|                                                                                         |
+|                                                                                                    |2 [Sentinel's Eyes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476287)        |                                                                                         |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|----------------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    1|[Daxos, Blessed by the Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476260)|                     |              |
+|                    1|[Radiant Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438810)         |                     |              |
+|                    1|[Cosmos Elixir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503853)            |                     |              |
+|                    1|[Wedding Invitation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541136)       |                     |              |
+|                    1|[Authority of the Consuls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417578) |                     |              |
+|                    1|[Speaker of the Heavens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488246)   |                     |              |
+|                    1|[Defiant Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386515)           |                     |              |
+|                    1|[Nurturing Presence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=540858)       |                     |              |
+|                    1|[Shadowspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476487)              |                     |              |
+|                    1|[Soul Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129740)              |                     |              |
+|                    1|[Griffin Aerie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485345)            |                     |              |
+|                    2|[Cleric Class](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527293)             |                     |              |
+|                    2|[Cosmos Elixir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503853)            |                     |              |
+|                    2|[Daxos, Blessed by the Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476260)|                     |              |
+|                    2|[Radiant Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438810)         |                     |              |
+|                    2|[Wedding Invitation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541136)       |                     |              |
+|                    2|[Authority of the Consuls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417578) |                     |              |
+|                    2|[Shadowspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476487)              |                     |              |
+|                    2|[Speaker of the Heavens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488246)   |                     |              |
+|                    2|[Defiant Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386515)           |                     |              |
+|                    2|[Soul Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129740)              |                     |              |
+|                    2|[Nurturing Presence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=540858)       |                     |              |
+|                    2|[Griffin Aerie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485345)            |                     |              |
+|                    3|[Cosmos Elixir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503853)            |                     |              |
+|                    3|[Cleric Class](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527293)             |                     |              |
+|                    3|[Defiant Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386515)           |                     |              |
+|                    3|[Soul Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129740)              |                     |              |
+|                    3|[Nurturing Presence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=540858)       |                     |              |
+|                    3|[Wedding Invitation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541136)       |                     |              |
+|                    3|[Griffin Aerie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485345)            |                     |              |
+|                    3|[Speaker of the Heavens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488246)   |                     |              |
+|                    3|[Fountain of Renewal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447372)      |                     |              |
+|                    4|[Defiant Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386515)           |                     |              |
+|                    4|[Soul Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129740)              |                     |              |
+|                    4|[Nurturing Presence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=540858)       |                     |              |
+

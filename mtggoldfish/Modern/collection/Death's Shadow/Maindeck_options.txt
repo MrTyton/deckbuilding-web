@@ -9,8 +9,8 @@
 1 Snow-Covered Swamp
 1 Snow-Covered Mountain
 2 Kolaghan's Command
-1 Overgrown Tomb
 1 Stomping Ground
+1 Overgrown Tomb
 3 Verdant Catacombs
 4 Verdant Catacombs
 1 Scourge of the Skyclaves
@@ -48,8 +48,8 @@
 1 Aether Spellbomb
 1 Spell Pierce
 3 Watery Grave
-1 Night's Whisper
 1 Nurturing Peatland
+1 Night's Whisper
 2 Nurturing Peatland
 3 Scourge of the Skyclaves
 4 Inquisition of Kozilek
@@ -60,22 +60,6 @@
 2 Tribal Flames
 3 Tribal Flames
 4 Tribal Flames
-1 Mutagenic Growth
-1 Dismember
-1 Monastery Swiftspear
-1 Become Immense
-2 Mutagenic Growth
-2 Stomping Ground
-2 Become Immense
-2 Monastery Swiftspear
-2 Temur Battle Rage
-3 Mutagenic Growth
-3 Temur Battle Rage
-3 Monastery Swiftspear
-3 Become Immense
-4 Mutagenic Growth
-4 Monastery Swiftspear
-4 Temur Battle Rage
 1 Forest
 1 Seal of Removal
 1 Stubborn Denial
@@ -85,3 +69,19 @@
 3 Stubborn Denial
 4 Territorial Kavu
 4 Stubborn Denial
+1 Dismember
+1 Mutagenic Growth
+1 Monastery Swiftspear
+1 Become Immense
+2 Become Immense
+2 Stomping Ground
+2 Mutagenic Growth
+2 Monastery Swiftspear
+2 Temur Battle Rage
+3 Become Immense
+3 Temur Battle Rage
+3 Mutagenic Growth
+3 Monastery Swiftspear
+4 Monastery Swiftspear
+4 Temur Battle Rage
+4 Mutagenic Growth

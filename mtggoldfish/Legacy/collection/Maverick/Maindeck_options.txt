@@ -1,15 +1,11 @@
-3 Savannah
 1 Yavimaya, Cradle of Growth
+3 Savannah
 1 Stoneforge Mystic
-1 Outland Liberator
-2 Plains
 1 Bojuka Bog
 1 Elvish Reclaimer
+1 Outland Liberator
+2 Plains
 2 Stoneforge Mystic
-3 Prismatic Ending
-1 Hexdrinker
-1 Sword of Fire and Ice
-4 Verdant Catacombs
 2 Elvish Reclaimer
 1 Sylvan Safekeeper
 1 Cavern of Souls
@@ -27,11 +23,17 @@
 1 Crop Rotation
 2 Crop Rotation
 1 Misty Rainforest
-3 Endurance
 1 Slogurk, the Overslime
 3 Cavern of Souls
 2 Yavimaya, Cradle of Growth
-1 Qasali Pridemage
+4 Verdant Catacombs
+1 Sword of Fire and Ice
+3 Prismatic Ending
+1 Hexdrinker
+1 Once Upon a Time
+2 Once Upon a Time
+3 Endurance
+1 Maze of Ith
 1 Opposition Agent
 1 Geier Reach Sanitarium
 1 Hullbreacher
@@ -40,25 +42,35 @@
 4 Hullbreacher
 1 Chord of Calling
 2 Chord of Calling
-1 Maze of Ith
-2 Misty Rainforest
-1 Batterskull
-1 Once Upon a Time
-2 Once Upon a Time
-2 Bayou
-3 Chord of Calling
 4 Cavern of Souls
+2 Misty Rainforest
 3 Crop Rotation
+1 Batterskull
+2 Bayou
+3 Once Upon a Time
+1 Qasali Pridemage
+3 Chord of Calling
+4 Crop Rotation
+3 Stoneforge Mystic
+4 Savannah
+1 Peacekeeper
+1 Khalni Garden
+1 Flagstones of Trokair
+1 Leovold, Emissary of Trest
+1 Cephalid Coliseum
+1 Tranquil Thicket
+2 Tranquil Thicket
+2 Slogurk, the Overslime
 3 Sylvan Library
 1 Taiga
-1 Wooded Foothills
 1 Plateau
 1 Punishing Fire
 1 Grove of the Burnwillows
 1 Ragavan, Nimble Pilferer
+1 Wooded Foothills
 1 Klothys, God of Destiny
-2 Wooded Foothills
 2 Ragavan, Nimble Pilferer
+2 Wooded Foothills
 2 Taiga
 2 Punishing Fire
 2 Grove of the Burnwillows
@@ -67,25 +79,14 @@
 3 Grove of the Burnwillows
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
-3 Stoneforge Mystic
-4 Savannah
-1 Peacekeeper
-1 Khalni Garden
-3 Once Upon a Time
-1 Flagstones of Trokair
-4 Crop Rotation
 4 Thalia, Guardian of Thraben
 1 Augur of Autumn
 4 Chord of Calling
 1 Tireless Tracker
-2 Birds of Paradise
+2 Dryad of the Ilysian Grove
 2 Opposition Agent
 3 Opposition Agent
-1 Leovold, Emissary of Trest
-1 Cephalid Coliseum
-1 Tranquil Thicket
-2 Tranquil Thicket
-2 Slogurk, the Overslime
+3 Tranquil Thicket
 1 Skyclave Apparition
 1 Retrofitter Foundry
 1 Shadowspear
@@ -96,13 +97,13 @@
 3 Misty Rainforest
 4 Misty Rainforest
 4 Opposition Agent
-2 Dryad of the Ilysian Grove
 1 Dark Depths
 1 Thespian's Stage
-1 Arena
-3 Tranquil Thicket
-4 Tranquil Thicket
+2 Birds of Paradise
+4 Once Upon a Time
 4 Mother of Runes
+1 Arena
+4 Tranquil Thicket
 1 Primeval Titan
 1 Titania, Protector of Argoth
 1 Lantern of the Lost
@@ -119,6 +120,7 @@
 1 Indatha Triome
 1 Ethersworn Canonist
 1 Saryth, the Viper's Fang
+1 Allosaurus Shepherd
 1 Sigarda, Champion of Light
 1 Simic Growth Chamber
 1 Rhonas the Indomitable
@@ -154,7 +156,6 @@
 2 Kunoros, Hound of Athreos
 3 Birds of Paradise
 4 Prismatic Ending
-4 Once Upon a Time
 1 Ulvenwald Tracker
 1 Scattered Groves
 1 Astral Drift

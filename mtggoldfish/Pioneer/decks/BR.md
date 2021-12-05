@@ -39,6 +39,6 @@
 |                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)                   |                    1|[Bedevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457301)                  |
 |                    2|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)                   |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)               |
 |                    2|[Kroxa, Titan of Death's Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476472)|                    2|[Go Blank](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513549)                 |
-|                    3|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)                |                    4|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)             |
-|                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                         |                    1|[Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596) |
+|                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                         |                    4|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)             |
+|                    3|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)                |                    1|[Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596) |
 
