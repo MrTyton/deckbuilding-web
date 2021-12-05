@@ -2,7 +2,7 @@
 1 Abundant Harvest
 1 Arid Mesa
 1 Breeding Pool
-2 Counterspell
+3 Counterspell
 3 Ephemerate
 3 Eternal Witness
 4 Expressive Iteration
@@ -18,7 +18,6 @@
 4 Omnath, Locus of Creation
 1 Plains
 4 Prismatic Ending
-1 Prismatic Vista
 1 Raugrin Triome
 1 Reflecting Pool
 1 Sacred Foundry
@@ -44,8 +43,7 @@ Sideboard
 1 Emrakul, the Promised End
 2 Endurance
 1 Engineered Explosives
-1 Flusterstorm
-1 Force of Negation
+2 Force of Negation
 1 Force of Vigor
 2 Lightning Helix
 2 Veil of Summer

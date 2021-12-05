@@ -1,3 +1,6 @@
+3 Sylvan Scrying
+1 Once Upon a Time
+2 Once Upon a Time
 3 Elvish Reclaimer
 2 Abrupt Decay
 1 Sylvan Safekeeper
@@ -5,25 +8,18 @@
 2 Dark Confidant
 3 Dark Confidant
 4 Elvish Reclaimer
-3 Sylvan Scrying
 4 Sylvan Scrying
-1 Once Upon a Time
-2 Once Upon a Time
 4 Pithing Needle
 1 Nurturing Peatland
 3 Abrupt Decay
 2 Sylvan Safekeeper
+3 Once Upon a Time
 1 Sylvan Library
 1 Mox Diamond
 2 Mox Diamond
 1 Yavimaya, Cradle of Growth
-3 Once Upon a Time
 4 Dark Confidant
 1 Life from the Loam
-4 Once Upon a Time
-1 Snow-Covered Swamp
-1 Snow-Covered Forest
-3 Mox Diamond
 1 Gemstone Mine
 1 Mana Confluence
 1 City of Brass
@@ -32,15 +28,19 @@
 3 Gemstone Mine
 3 Mana Confluence
 4 Mana Confluence
+4 Once Upon a Time
+1 Snow-Covered Swamp
+1 Snow-Covered Forest
+3 Mox Diamond
+4 Gemstone Mine
+1 Stifle
+2 Stifle
 2 Wasteland
 4 Abrupt Decay
 3 Inquisition of Kozilek
 1 Overgrown Tomb
 2 Overgrown Tomb
 4 Not of This World
-4 Gemstone Mine
-1 Stifle
-2 Stifle
 2 Sylvan Library
 1 Urza's Saga
 1 Shadowspear
@@ -106,6 +106,7 @@
 1 Barren Moor
 2 Assassin's Trophy
 2 Exploration
+3 Stifle
 3 Hymn to Tourach
 3 Duress
 4 Duress
