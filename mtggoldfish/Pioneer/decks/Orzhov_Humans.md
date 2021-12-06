@@ -29,10 +29,17 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
-|--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Brave the Elements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389450)    |                    2|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332) |
-|                    2|[Kytheon, Hero of Akros](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398428)|                    2|[Sungold Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534795)|
-|                    1|[Mardu Woe-Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391877)      |                    4|[Portable Hole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527320)   |
-|                    2|[Mardu Woe-Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391877)      |                     |                                                                                           |
+|*n*<sup>th</sup> copy|                                            Maindeck Card                                             |*n*<sup>th</sup> copy|                                            Sideboard Card                                            |
+|--------------------:|------------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------------|
+|                    1|[Brave the Elements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389450)         |                    2|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)            |
+|                    2|[Kytheon, Hero of Akros](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398428)     |                    2|[Sungold Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534795)           |
+|                    1|[Mardu Woe-Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391877)           |                    4|[Portable Hole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527320)              |
+|                    2|[Mardu Woe-Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391877)           |                    1|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)   |
+|                    1|[General Kudro of Drannith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479707)  |                    1|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|
+|                    1|[Adeline, Resplendent Cathar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534751)|                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)              |
+|                    2|[General Kudro of Drannith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479707)  |                    1|[Dire Tactics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479703)               |
+|                    2|[Adeline, Resplendent Cathar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534751)|                    2|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897)   |
+|                    3|[Adeline, Resplendent Cathar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534751)|                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)              |
+|                    4|[Caves of Koilos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129497)            |                     |                                                                                                      |
+|                    3|[General Kudro of Drannith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479707)  |                     |                                                                                                      |
 

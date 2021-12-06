@@ -1,16 +1,15 @@
 1 Serra's Emissary
 4 Prismatic Ending
-2 Polluted Delta
-3 Polluted Delta
 1 Priest of Fell Rites
 2 Priest of Fell Rites
 3 Priest of Fell Rites
-4 Polluted Delta
+2 Polluted Delta
+3 Polluted Delta
 4 Teferi, Time Raveler
 4 Mulldrifter
 2 Hallowed Fountain
+4 Polluted Delta
 4 Priest of Fell Rites
-1 Savai Triome
 1 Counterspell
 2 Counterspell
 3 Counterspell
@@ -25,6 +24,7 @@
 3 Consider
 4 Consider
 3 Thoughtseize
+1 Savai Triome
 1 Arid Mesa
 1 Steam Vents
 1 Bloodstained Mire
@@ -38,9 +38,9 @@
 2 Wandering Mind
 3 Wandering Mind
 3 Glacial Fortress
+4 Wandering Mind
 4 Arid Mesa
 4 Bloodstained Mire
-4 Wandering Mind
 1 Snow-Covered Swamp
 1 Snow-Covered Plains
 1 Snow-Covered Island
@@ -97,8 +97,8 @@
 2 Chalice of the Void
 2 Mystic Gate
 2 Kaya's Guile
-3 Island
 3 Chalice of the Void
+3 Island
 1 Castle Ardenvale
 1 Silent Clearing
 1 Castle Locthwain
@@ -142,8 +142,8 @@
 1 Overgrown Tomb
 1 Temple Garden
 1 Indatha Triome
-1 Grisly Salvage
 1 Forest
+1 Grisly Salvage
 1 Eternal Witness
 2 Verdant Catacombs
 2 Windswept Heath

@@ -89,8 +89,8 @@
 1 Ashaya, Soul of the Wild
 2 Ashaya, Soul of the Wild
 1 Skeletal Swarming
-2 Skeletal Swarming
 2 Power Word Kill
+2 Skeletal Swarming
 2 Toski, Bearer of Secrets
 3 Bloodchief's Thirst
 1 Doomskar
@@ -141,12 +141,6 @@
 3 Power Word Kill
 3 Ranger Class
 4 Bloodchief's Thirst
-1 Reclusive Taxidermist
-2 Reclusive Taxidermist
-2 Baleful Mastery
-3 Briarbridge Tracker
-3 Reclusive Taxidermist
-4 Reclusive Taxidermist
 1 Cemetery Protector
 1 Henrika Domnathi
 1 Toxrill, the Corrosive
@@ -159,8 +153,14 @@
 3 Deathcap Glade
 3 Shattered Sanctum
 3 Old Rutstein
-4 Shattered Sanctum
 4 Deathcap Glade
+4 Shattered Sanctum
+1 Reclusive Taxidermist
+2 Reclusive Taxidermist
+2 Baleful Mastery
+3 Briarbridge Tracker
+3 Reclusive Taxidermist
+4 Reclusive Taxidermist
 1 Portable Hole
 1 Elite Spellbinder
 1 Brutal Cathar
@@ -207,8 +207,8 @@
 3 Primal Adversary
 3 Emergent Sequence
 4 Storm the Festival
-4 Primal Adversary
 4 Emergent Sequence
+4 Primal Adversary
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest
@@ -218,8 +218,8 @@
 1 Can't Stay Away
 1 Snakeskin Veil
 1 Dollhouse of Horrors
-2 Voice of the Blessed
 2 Cleric Class
+2 Voice of the Blessed
 2 Can't Stay Away
 2 Snakeskin Veil
 3 Snakeskin Veil

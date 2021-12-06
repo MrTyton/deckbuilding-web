@@ -1,39 +1,39 @@
-1 Prismatic Vista
-2 Snow-Covered Forest
+2 Counterspell
+1 Forest
 2 Force of Negation
-1 Supreme Verdict
-2 Abundant Harvest
-1 Path to Exile
-3 Fury
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
+1 Path to Exile
+3 Fury
+3 Ice-Fang Coatl
+2 Abundant Harvest
+3 Counterspell
 2 Forest
+1 Dovin's Veto
 2 Lightning Bolt
 2 Island
-3 Ice-Fang Coatl
-1 Dovin's Veto
-1 Endurance
-2 Dovin's Veto
-1 Scalding Tarn
-2 Scalding Tarn
-1 Eladamri's Call
-2 Eladamri's Call
-4 Counterspell
 4 Ephemerate
+2 Dovin's Veto
+2 Snow-Covered Island
+4 Eternal Witness
 1 Wandering Mind
 3 Wooded Foothills
-3 Eladamri's Call
+1 Endurance
 4 Ice-Fang Coatl
+4 Counterspell
 2 Teferi, Hero of Dominaria
 1 Mountain
-4 Eternal Witness
+1 Eladamri's Call
+2 Eladamri's Call
+3 Eladamri's Call
 1 Wall of Omens
-1 Waterlogged Grove
-2 Snow-Covered Island
+1 Scalding Tarn
+2 Scalding Tarn
+4 Fury
 2 Supreme Verdict
+1 Lightning Helix
 4 Eladamri's Call
 2 Wall of Omens
-2 Unholy Heat
 1 Memory Deluge
 1 Archmage's Charm
 1 Mystic Gate
@@ -41,22 +41,23 @@
 2 Archmage's Charm
 3 Teferi, Hero of Dominaria
 3 Mystic Gate
-3 Archmage's Charm
 3 Supreme Verdict
+3 Archmage's Charm
 4 Archmage's Charm
+2 Unholy Heat
 2 Prismatic Vista
-4 Fury
+1 Utopia Sprawl
+2 Utopia Sprawl
+3 Utopia Sprawl
+4 Utopia Sprawl
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
-1 Meddling Mage
+3 Force of Negation
 1 Skyclave Apparition
 2 Memory Deluge
 3 Memory Deluge
-2 Snow-Covered Plains
-3 Prismatic Vista
-4 Prismatic Vista
 1 Deputy of Detention
 1 Chord of Calling
 1 Wall of Blossoms
@@ -65,6 +66,9 @@
 3 Chord of Calling
 4 Chord of Calling
 4 Wooded Foothills
+2 Snow-Covered Plains
+3 Prismatic Vista
+4 Prismatic Vista
 1 Castle Vantress
 2 Castle Vantress
 1 Hall of Storm Giants
@@ -75,23 +79,23 @@
 3 Wall of Omens
 1 Charming Prince
 2 Plains
-1 Agadeem's Awakening
 1 Emeria's Call
+1 Agadeem's Awakening
 1 Malakir Rebirth
 1 Undying Evil
 1 Persist
 1 Silent Clearing
 1 Sword of Truth and Justice
-1 Shriekmaw
 1 Tourach, Dread Cantor
+1 Shriekmaw
 1 Batterskull
 1 Sword of Fire and Ice
+1 Urborg, Tomb of Yawgmoth
 1 Swamp
 1 Godless Shrine
-1 Grief
 1 Maul of the Skyclaves
+1 Grief
 1 Stoneforge Mystic
-1 Urborg, Tomb of Yawgmoth
 1 Kaldra Compleat
 2 Agadeem's Awakening
 2 Emeria's Call
@@ -123,7 +127,7 @@
 4 Godless Shrine
 4 Grief
 4 Stoneforge Mystic
-1 Lightning Helix
+1 Waterlogged Grove
 1 Mulldrifter
 1 Dryad Arbor
 3 Scalding Tarn
@@ -138,31 +142,20 @@
 1 Venser, Shaper Savant
 1 Soulherder
 2 Noble Hierarch
-2 Soulherder
 2 Birds of Paradise
+2 Soulherder
 3 Birds of Paradise
 3 Noble Hierarch
 4 Noble Hierarch
 4 Birds of Paradise
-2 Arid Mesa
-2 Path to Exile
-1 Showdown of the Skalds
-1 Knight of Autumn
-1 Brought Back
-2 Brought Back
-2 Showdown of the Skalds
-3 Brought Back
-1 Emrakul, the Promised End
-1 Traverse the Ulvenwald
-1 Utopia Sprawl
-2 Utopia Sprawl
-3 Utopia Sprawl
-4 Utopia Sprawl
+3 Unholy Heat
 1 Glacial Floodplain
 2 Breeding Pool
-3 Force of Negation
 3 Snow-Covered Island
 4 Snow-Covered Island
+1 Meddling Mage
+1 Traverse the Ulvenwald
+1 Jace, the Mind Sculptor
 1 Omen of the Sea
 1 Celestial Colonnade
 2 Celestial Colonnade
@@ -174,17 +167,23 @@
 4 Island
 5 Island
 6 Island
-1 Akroma, Angel of Fury
-1 Dragonlord Dromoka
 1 Flooded Grove
 1 On Thin Ice
 1 Prairie Stream
 2 On Thin Ice
+2 Path to Exile
 3 Path to Exile
 2 Wandering Mind
 3 Wandering Mind
-3 Unholy Heat
 3 Lightning Bolt
+2 Lightning Helix
+3 Lightning Helix
+1 Showdown of the Skalds
+1 Knight of Autumn
+1 Brought Back
+2 Brought Back
+2 Showdown of the Skalds
+3 Brought Back
 2 Restoration Angel
 4 Wall of Omens
 4 Memory Deluge
@@ -193,7 +192,6 @@
 1 Castle Ardenvale
 1 Field of Ruin
 1 Chalice of the Void
-1 Jace, the Mind Sculptor
 1 Journey to Nowhere
 1 Engineered Explosives
 2 Polluted Delta
@@ -201,19 +199,15 @@
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
-1 Magus of the Moon
-1 Seasoned Pyromancer
-2 Seasoned Pyromancer
-3 Wall of Blossoms
-3 Seasoned Pyromancer
-4 Wall of Blossoms
 1 Condemn
 2 Hall of Storm Giants
 2 Condemn
 5 Snow-Covered Island
 6 Snow-Covered Island
-3 Arid Mesa
-3 Abundant Harvest
-4 Arid Mesa
+1 Magus of the Moon
+1 Seasoned Pyromancer
+2 Seasoned Pyromancer
+3 Wall of Blossoms
+3 Seasoned Pyromancer
 1 Lonely Sandbar
-4 Brought Back
+4 Wall of Blossoms

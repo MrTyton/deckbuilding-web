@@ -34,18 +34,18 @@
 2 Ascendant Spirit
 2 Snow-Covered Island
 2 Snow-Covered Plains
-3 Glacial Floodplain
 3 Snow-Covered Plains
 3 Ascendant Spirit
+3 Glacial Floodplain
 3 Snow-Covered Island
-4 Glacial Floodplain
 4 Snow-Covered Island
 4 Ascendant Spirit
+4 Glacial Floodplain
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 5 Snow-Covered Island
-6 Snow-Covered Island
 6 Snow-Covered Plains
+6 Snow-Covered Island
 7 Snow-Covered Island
 1 Fleeting Spirit
 2 Fleeting Spirit
@@ -153,16 +153,8 @@
 2 Monk Class
 3 Malevolent Hermit
 4 Malevolent Hermit
-1 Voice of the Blessed
-1 Ollenbock Escort
-2 Voice of the Blessed
-2 Ollenbock Escort
-3 Voice of the Blessed
-3 Ollenbock Escort
-4 Voice of the Blessed
-4 Ollenbock Escort
-2 Field of Ruin
 2 Emeria's Call
+2 Field of Ruin
 2 Adeline, Resplendent Cathar
 3 Valorous Stance
 4 Valorous Stance
@@ -171,13 +163,21 @@
 2 Chaplain of Alms
 3 Chaplain of Alms
 4 Chaplain of Alms
+1 Ollenbock Escort
+1 Voice of the Blessed
+2 Ollenbock Escort
+2 Voice of the Blessed
+3 Ollenbock Escort
+3 Voice of the Blessed
+4 Ollenbock Escort
+4 Voice of the Blessed
 1 Symmetry Sage
 2 Symmetry Sage
 3 Symmetry Sage
 4 Symmetry Sage
-1 Katilda, Dawnhart Martyr
 1 Stonebinder's Familiar
 1 Lantern Bearer
+1 Katilda, Dawnhart Martyr
 2 Stonebinder's Familiar
 2 Katilda, Dawnhart Martyr
 3 Stonebinder's Familiar

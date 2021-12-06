@@ -1,7 +1,7 @@
-3 Dress Down
-3 Inquisition of Kozilek
 2 Lightning Bolt
 3 Lightning Bolt
+3 Dress Down
+3 Inquisition of Kozilek
 4 Lightning Bolt
 1 Verdant Catacombs
 2 Verdant Catacombs
@@ -9,8 +9,8 @@
 1 Snow-Covered Swamp
 1 Snow-Covered Mountain
 2 Kolaghan's Command
-1 Stomping Ground
 1 Overgrown Tomb
+1 Stomping Ground
 3 Verdant Catacombs
 4 Verdant Catacombs
 1 Scourge of the Skyclaves
@@ -23,7 +23,6 @@
 3 Tarmogoyf
 4 Tarmogoyf
 1 Snapcaster Mage
-3 Kroxa, Titan of Death's Hunger
 1 Terminate
 1 Seal of Fire
 1 Savai Triome
@@ -41,10 +40,11 @@
 1 Godless Shrine
 1 Sacred Foundry
 2 Prismatic Ending
-1 Marsh Flats
 1 Witch's Cottage
+1 Marsh Flats
 2 Swamp
 2 Terminate
+3 Kroxa, Titan of Death's Hunger
 1 Aether Spellbomb
 1 Spell Pierce
 3 Watery Grave
@@ -69,6 +69,7 @@
 3 Stubborn Denial
 4 Territorial Kavu
 4 Stubborn Denial
+4 Scalding Tarn
 1 Dismember
 1 Mutagenic Growth
 1 Monastery Swiftspear

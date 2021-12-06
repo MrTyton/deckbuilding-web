@@ -1,3 +1,6 @@
+1 Plains
+1 Sacred Foundry
+1 Hallowed Fountain
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
@@ -12,27 +15,24 @@
 2 Ardent Plea
 3 Ardent Plea
 4 Ardent Plea
-2 Seasoned Pyromancer
 1 Reflecting Pool
 2 Windswept Heath
 4 Omnath, Locus of Creation
 3 Flooded Strand
+1 Hinterland Harbor
 1 Solitude
 2 Solitude
 3 Solitude
 3 Windswept Heath
 4 Solitude
-1 Cryptic Command
-2 Prismari Command
-1 Hinterland Harbor
-4 Windswept Heath
-3 Seasoned Pyromancer
 3 Island
-2 Breeding Pool
 2 Gemstone Caverns
+3 Seasoned Pyromancer
+4 Windswept Heath
+2 Breeding Pool
 1 Grove of the Burnwillows
-4 Dead/Gone
 4 Flooded Strand
+4 Dead/Gone
 1 Detention Sphere
 1 Fiery Islet
 2 Fiery Islet
@@ -40,23 +40,24 @@
 1 Flooded Grove
 1 Waterlogged Grove
 3 Steam Vents
-1 Jace, the Mind Sculptor
-1 Murktide Regent
-3 Prismari Command
-3 Detention Sphere
-1 Archmage's Charm
-2 Archmage's Charm
-2 Flooded Grove
-1 Snow-Covered Forest
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
 1 Blood Moon
 2 Forest
 2 Blood Moon
 3 Forest
 3 Blood Moon
 4 Blood Moon
+1 Jace, the Mind Sculptor
+1 Murktide Regent
+3 Prismari Command
+3 Detention Sphere
+1 Klothys, God of Destiny
+1 Archmage's Charm
+2 Archmage's Charm
+2 Flooded Grove
+1 Snow-Covered Island
+1 Snow-Covered Forest
+2 Snow-Covered Island
+3 Snow-Covered Island
 2 Cryptic Command
 1 Subtlety
 2 Subtlety
@@ -73,16 +74,15 @@
 2 Teferi, Hero of Dominaria
 3 Teferi, Hero of Dominaria
 4 Teferi, Hero of Dominaria
-1 Snow-Covered Mountain
-1 Klothys, God of Destiny
 1 Snow-Covered Plains
+1 Snow-Covered Mountain
 1 Spirebluff Canal
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 1 Sea Gate Restoration
 3 Subtlety
-2 Murktide Regent
 2 Stomping Ground
+2 Murktide Regent
 3 Stomping Ground
 4 Prismari Command
 1 Lumbering Falls

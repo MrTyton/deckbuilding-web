@@ -7,10 +7,10 @@
 2 Veil of Summer
 4 Force of Vigor
 1 Rest in Peace
-1 Soul-Guide Lantern
 2 Rest in Peace
 1 Seal of Primordium
 2 Seal of Primordium
+1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 3 Soul-Guide Lantern
 1 Mana Tithe
@@ -35,9 +35,6 @@
 3 Sanctifier en-Vec
 4 Sanctifier en-Vec
 1 Spirit Link
-1 Wilt
-1 Deafening Silence
-2 Wilt
 1 All That Glitters
 1 Ethersworn Canonist
 1 Blessed Alliance
@@ -48,6 +45,7 @@
 2 Void Mirror
 1 Prismatic Ending
 2 Spirit Link
+1 Wilt
 1 Gaea's Blessing
 1 Spirit Mantle
 1 Light of Hope
@@ -59,13 +57,15 @@
 2 Destiny Spinner
 3 Veil of Summer
 3 Rest in Peace
-3 Hushbringer
 1 Cursed Totem
+1 Deafening Silence
 1 Creeping Corrosion
 1 Luminarch Ascension
 2 Cursed Totem
-2 Luminarch Ascension
 2 Deafening Silence
+2 Luminarch Ascension
+2 Wilt
+3 Deafening Silence
 3 Cursed Totem
 3 Wilt
-3 Deafening Silence
+3 Hushbringer

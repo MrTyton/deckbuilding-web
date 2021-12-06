@@ -1,5 +1,7 @@
 2 Shipwreck Marsh
-1 Bloodchief's Thirst
+3 Infernal Grasp
+2 Bloodchief's Thirst
+2 The Celestus
 3 Shipwreck Marsh
 1 Clearwater Pathway
 2 Clearwater Pathway
@@ -15,10 +17,8 @@
 2 Divide by Zero
 1 Memory Deluge
 4 Shipwreck Marsh
-3 Infernal Grasp
 1 Forest
 3 Barkchannel Pathway
-2 Bloodchief's Thirst
 3 Darkbore Pathway
 4 Clearwater Pathway
 1 Binding the Old Gods
@@ -29,6 +29,7 @@
 2 Memory Deluge
 2 Swamp
 4 Darkbore Pathway
+4 Infernal Grasp
 1 Wrenn and Seven
 2 Wrenn and Seven
 2 Forest
@@ -37,7 +38,7 @@
 2 Hall of Storm Giants
 1 Woodland Chasm
 1 Rimewood Falls
-4 Infernal Grasp
+1 Eaten Alive
 1 Shadows' Verdict
 2 Island
 1 Alrund's Epiphany
@@ -53,8 +54,8 @@
 3 Binding the Old Gods
 2 Shadows' Verdict
 1 Fading Hope
-1 Eaten Alive
 3 Swamp
+16 Snow-Covered Swamp
 3 Memory Deluge
 2 Siphon Insight
 1 Hullbreaker Horror
@@ -62,6 +63,8 @@
 2 Fading Hope
 1 Koma, Cosmos Serpent
 1 Saw It Coming
+2 Hunt for Specimens
+1 Nighthawk Scavenger
 2 Negate
 3 Siphon Insight
 3 Island
@@ -71,55 +74,55 @@
 2 Duress
 1 Flunk
 2 Saw It Coming
-1 Culling Ritual
 1 Tovolar's Huntmaster
 2 Tovolar's Huntmaster
+1 Culling Ritual
 1 Behold the Multiverse
+2 Valki, God of Lies
 1 Lier, Disciple of the Drowned
 1 Snow-Covered Island
+2 Eaten Alive
 2 Rimewood Falls
-1 Nighthawk Scavenger
 2 Nighthawk Scavenger
 3 Forest
-2 Hunt for Specimens
+3 Field of Ruin
 2 Soul Shatter
 3 Esika's Chariot
 2 Hullbreaker Horror
 2 Culling Ritual
 2 Behold the Multiverse
-1 The World Tree
-2 Flunk
 1 Power Word Kill
 2 Power Word Kill
 2 Lier, Disciple of the Drowned
-2 Koma, Cosmos Serpent
+2 Flunk
+4 The Meathook Massacre
+1 The World Tree
+3 Fading Hope
 1 Field Trip
+2 Koma, Cosmos Serpent
 4 Forest
 2 Woodland Chasm
-3 Fading Hope
 1 Lair of the Hydra
 3 Nighthawk Scavenger
 1 Disdainful Stroke
-2 Valki, God of Lies
-16 Snow-Covered Swamp
-2 Eaten Alive
+17 Snow-Covered Swamp
+4 Skullport Merchant
 3 The Celestus
-3 Field of Ruin
+4 Memory Deluge
 3 Negate
 1 Iymrith, Desert Doom
 2 Field Trip
-4 Memory Deluge
 3 Duress
+1 Pelakka Predation
 1 Go Blank
+3 Hall of Storm Giants
 1 Dread Fugue
 2 Dread Fugue
-3 Hall of Storm Giants
 3 Behold the Multiverse
 4 Alrund's Epiphany
 4 Binding the Old Gods
 1 Dreamroot Cascade
 2 Dreamroot Cascade
-4 The Meathook Massacre
 3 Woodland Chasm
 3 Shadows' Verdict
 1 Test of Talents
@@ -132,6 +135,7 @@
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
+1 Ebondeath, Dracolich
 2 Disdainful Stroke
 2 Iymrith, Desert Doom
 3 Field Trip
@@ -139,11 +143,12 @@
 4 Field Trip
 4 Soul Shatter
 4 Negate
-1 Ebondeath, Dracolich
-17 Snow-Covered Swamp
+1 Sorin the Mirthless
+2 Sorin the Mirthless
 3 Dread Fugue
-4 Skullport Merchant
 4 Field of Ruin
+1 Fell Stinger
+2 Fell Stinger
 4 Fading Hope
 1 Consider
 2 Consider
@@ -151,21 +156,22 @@
 1 Cyclone Summoner
 2 Malevolent Hermit
 4 Duress
-1 Pelakka Predation
 3 Culling Ritual
 3 Power Word Kill
 4 Power Word Kill
 1 Dig Up
+1 Mordenkainen
+1 Syncopate
+1 Toxrill, the Corrosive
+3 Dreamroot Cascade
 1 Sea Gate Restoration
 3 Saw It Coming
-1 Mordenkainen
 1 Quandrix Cultivator
 2 Quandrix Cultivator
 3 Quandrix Cultivator
 4 Quandrix Cultivator
-3 Dreamroot Cascade
-1 Syncopate
 1 Storm the Festival
+1 Crippling Fear
 1 Quandrix Campus
 1 Xanathar, Guild Kingpin
 3 Bloodchief's Thirst
@@ -198,36 +204,34 @@
 5 Swamp
 1 Snow-Covered Mountain
 1 Cosmos Elixir
-1 Eureka Moment
 1 Decisive Denial
+1 Eureka Moment
 1 Wash Away
-1 Toxrill, the Corrosive
-1 Sorin the Mirthless
-2 Sorin the Mirthless
-2 Lair of the Hydra
+1 Hero's Downfall
+1 Tergrid, God of Fright
+1 Bloodline Culling
 1 Kasmina, Enigma Sage
 2 Kasmina, Enigma Sage
+2 Lair of the Hydra
+1 Overcharged Amalgam
+2 Syncopate
+3 Syncopate
 3 Lier, Disciple of the Drowned
 3 Hive of the Eye Tyrant
-1 Overcharged Amalgam
-1 Fell Stinger
-2 Syncopate
-2 Fell Stinger
-3 Syncopate
 1 Witherbloom Campus
-2 Quandrix Campus
 2 Witherbloom Campus
+2 Quandrix Campus
 3 Witherbloom Campus
+1 Agadeem's Awakening
+3 Sorin the Mirthless
 2 Test of Talents
 3 Test of Talents
 1 Port of Karfell
 1 Snakeskin Veil
 3 Consider
 4 Consider
-1 Rootcoil Creeper
-2 Rootcoil Creeper
-3 Rootcoil Creeper
-4 Rootcoil Creeper
+1 Highland Forest
+4 Esika's Chariot
 1 Briarbridge Tracker
 1 Acererak the Archlich
 1 Vastwood Surge
@@ -242,19 +246,6 @@
 1 Necroblossom Snarl
 2 Necroblossom Snarl
 4 Wrenn and Seven
-1 Cram Session
-1 Crippling Fear
-1 Witherbloom Command
-1 Quandrix Command
-1 Baleful Mastery
-2 Cram Session
-2 Quandrix Command
-2 Baleful Mastery
-3 Hunt for Specimens
-3 Sea Gate Restoration
-4 Bloodchief's Thirst
-4 Hunt for Specimens
-4 Shadows' Verdict
 3 Tovolar's Huntmaster
 4 Behold the Multiverse
 4 Nighthawk Scavenger
@@ -262,8 +253,8 @@
 2 Tangled Florahedron
 2 Cyclone Summoner
 3 Tangled Florahedron
-3 Cyclone Summoner
 3 Malevolent Hermit
+3 Cyclone Summoner
 4 Tangled Florahedron
 4 Malevolent Hermit
 4 Dread Fugue
@@ -275,25 +266,59 @@
 4 Go Blank
 4 Siphon Insight
 4 Pelakka Predation
-1 Highland Forest
-4 Esika's Chariot
-1 Spirit of the Aldergard
+1 Harness Infinity
+1 Plumb the Forbidden
+1 Secrets of the Key
+1 Witherbloom Apprentice
+1 Beledros Witherbloom
+1 Dream Strix
+2 Plumb the Forbidden
+2 Silundi Vision
+2 Dream Strix
+2 Secrets of the Key
+2 Witherbloom Apprentice
+2 Beledros Witherbloom
+3 Deathcap Glade
+3 Plumb the Forbidden
+3 Professor Onyx
+3 Witherbloom Apprentice
+3 Secrets of the Key
+4 Deathcap Glade
+4 Plumb the Forbidden
+4 Witherbloom Apprentice
+1 Rootcoil Creeper
+2 Rootcoil Creeper
+3 Rootcoil Creeper
+4 Rootcoil Creeper
+1 Cram Session
+1 Quandrix Command
+1 Witherbloom Command
+1 Baleful Mastery
+2 Cram Session
+2 Quandrix Command
+2 Baleful Mastery
+3 Hunt for Specimens
+3 Sea Gate Restoration
+4 Bloodchief's Thirst
+4 Shadows' Verdict
+4 Hunt for Specimens
+1 Mystic Reflection
 1 Gelatinous Cube
 1 Battle Mammoth
 1 Mind Flayer
 1 Wandering Archaic
-1 Mystic Reflection
+1 Spirit of the Aldergard
 1 Tend the Pests
-2 Spirit of the Aldergard
 2 Gelatinous Cube
 2 Mystic Reflection
 2 Wandering Archaic
 2 Poison the Cup
+2 Spirit of the Aldergard
 2 Tend the Pests
 2 Diregraf Rebirth
-3 Spirit of the Aldergard
 3 Mystic Reflection
 3 Tend the Pests
+3 Spirit of the Aldergard
 4 Snow-Covered Island
 5 Snow-Covered Island
 1 Neverwinter Dryad
@@ -302,23 +327,3 @@
 4 Emergent Sequence
 5 Forest
 5 Island
-1 Secrets of the Key
-1 Harness Infinity
-1 Plumb the Forbidden
-1 Witherbloom Apprentice
-1 Beledros Witherbloom
-1 Dream Strix
-2 Secrets of the Key
-2 Silundi Vision
-2 Plumb the Forbidden
-2 Dream Strix
-2 Beledros Witherbloom
-2 Witherbloom Apprentice
-3 Deathcap Glade
-3 Professor Onyx
-3 Plumb the Forbidden
-3 Witherbloom Apprentice
-3 Secrets of the Key
-4 Deathcap Glade
-4 Plumb the Forbidden
-4 Witherbloom Apprentice

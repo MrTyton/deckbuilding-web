@@ -11,17 +11,17 @@
 2 Cosmos Elixir
 2 Doomskar
 3 Priest of Ancient Lore
-4 Faceless Haven
 4 Priest of Ancient Lore
+4 Faceless Haven
 2 Cave of the Frost Dragon
 3 Cave of the Frost Dragon
 3 Angel of Destiny
 4 Angel of Destiny
 3 Doomskar
 3 Cosmos Elixir
+4 Cave of the Frost Dragon
 4 Doomskar
 4 Cosmos Elixir
-4 Cave of the Frost Dragon
 2 Luminarch Aspirant
 21 Plains
 22 Plains
@@ -34,8 +34,8 @@
 1 Fateful Absence
 2 Fateful Absence
 2 Ambitious Farmhand
-3 Ambitious Farmhand
 3 Enduring Angel
+3 Ambitious Farmhand
 4 Enduring Angel
 1 Attended Healer
 3 Celestial Unicorn
@@ -72,10 +72,10 @@
 4 Revitalize
 1 Homestead Courage
 1 Glacial Floodplain
+1 Wedding Announcement
 1 Thunderous Orator
 1 Pillardrop Rescuer
 1 Snowfield Sinkhole
-1 Wedding Announcement
 1 Expel
 1 Flare of Faith
 1 Piercing Light
@@ -95,8 +95,8 @@
 1 Duelcraft Trainer
 2 Snowfield Sinkhole
 2 Expel
-2 Piercing Light
 2 Dawnhart Geist
+2 Piercing Light
 2 Duelcraft Trainer
 24 Plains
 25 Plains
@@ -118,26 +118,26 @@
 2 Candletrap
 2 Portable Hole
 3 Potion of Healing
-1 Skyclave Cleric
 1 Elite Spellbinder
 1 Borrowed Time
+1 Skyclave Cleric
 1 Sejiri Shelter
 2 Attended Healer
 2 Valkyrie Harbinger
-2 Skyclave Cleric
 2 Elite Spellbinder
 2 Borrowed Time
 2 Sejiri Shelter
+2 Skyclave Cleric
 3 Attended Healer
-3 Valkyrie Harbinger
-3 Skyclave Cleric
 3 Elite Spellbinder
 3 Borrowed Time
+3 Valkyrie Harbinger
 3 Sejiri Shelter
-4 Valkyrie Harbinger
+3 Skyclave Cleric
 4 Skyclave Cleric
-4 Borrowed Time
 4 Elite Spellbinder
+4 Borrowed Time
+4 Valkyrie Harbinger
 4 Attended Healer
 1 Divine Gambit
 1 Chaplain of Alms
@@ -169,15 +169,15 @@
 4 Skyclave Apparition
 4 Dawnbringer Cleric
 1 Starnheim Aspirant
-1 Sigarda's Splendor
 1 Legion Angel
+1 Sigarda's Splendor
 2 Sigarda's Splendor
 2 Starnheim Aspirant
 2 Legion Angel
 3 Fateful Absence
 3 Sunset Revelry
 3 Sigarda's Splendor
-3 The Book of Exalted Deeds
 3 Starnheim Aspirant
+3 The Book of Exalted Deeds
 4 Starnheim Aspirant
 21 Snow-Covered Plains
