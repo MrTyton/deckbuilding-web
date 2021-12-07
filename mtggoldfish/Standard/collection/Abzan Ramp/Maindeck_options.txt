@@ -30,8 +30,8 @@
 1 Snow-Covered Swamp
 1 Snow-Covered Plains
 1 Snow-Covered Forest
-2 Snow-Covered Forest
 2 Snow-Covered Swamp
+2 Snow-Covered Forest
 3 Esika's Chariot
 2 Swamp
 2 Hive of the Eye Tyrant
@@ -198,14 +198,12 @@
 4 Arctic Treeline
 4 Skyclave Apparition
 4 Doomskar
-3 Path to the Festival
-4 Path to the Festival
 1 Primal Adversary
 1 Emergent Sequence
 2 Primal Adversary
 2 Emergent Sequence
-3 Primal Adversary
 3 Emergent Sequence
+3 Primal Adversary
 4 Storm the Festival
 4 Emergent Sequence
 4 Primal Adversary
@@ -214,15 +212,17 @@
 7 Snow-Covered Forest
 1 Cleric Class
 1 Voice of the Blessed
+1 Dollhouse of Horrors
 1 Intrepid Adversary
 1 Can't Stay Away
 1 Snakeskin Veil
-1 Dollhouse of Horrors
 2 Cleric Class
 2 Voice of the Blessed
 2 Can't Stay Away
 2 Snakeskin Veil
 3 Snakeskin Veil
 4 Plains
-8 Forest
 5 Plains
+8 Forest
+3 Path to the Festival
+4 Path to the Festival

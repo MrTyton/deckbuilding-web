@@ -1,9 +1,9 @@
 3 Thundering Rebuke
+3 Cinderclasm
+3 Abrade
 1 Sunstreak Phoenix
 2 Sunstreak Phoenix
 3 Sunstreak Phoenix
-3 Cinderclasm
-3 Abrade
 1 Mascot Interception
 1 Akoum Hellhound
 2 Akoum Hellhound
@@ -52,17 +52,17 @@
 1 Spirit Summoning
 2 Heated Debate
 2 Environmental Sciences
-1 Flame Channeler
-2 Flame Channeler
 1 Ill-Tempered Loner
 1 Rending Flame
 2 Curse of Hospitality
 2 Ill-Tempered Loner
 2 Bloody Betrayal
-1 Meteor Swarm
 1 Tundra Fumarole
-2 Meteor Swarm
+1 Meteor Swarm
 2 Tundra Fumarole
+2 Meteor Swarm
+1 Flame Channeler
+2 Flame Channeler
 1 Thermo-Alchemist
 2 Thermo-Alchemist
 3 Thermo-Alchemist
@@ -81,5 +81,10 @@
 2 Mascot Interception
 3 Mascot Interception
 3 Raze the Effigy
+1 Cemetery Gatekeeper
+2 Cemetery Gatekeeper
+3 Cemetery Gatekeeper
+4 Abrade
+4 Cemetery Gatekeeper
 2 Start from Scratch
 4 Roiling Vortex

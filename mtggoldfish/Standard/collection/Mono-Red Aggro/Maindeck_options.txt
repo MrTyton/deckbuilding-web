@@ -1,10 +1,12 @@
-1 Flame Channeler
-2 Flame Channeler
-3 Flame Channeler
 4 Flame Channeler
+2 Shatterskull Smashing
+3 Chandra, Dressed to Kill
+4 Moonveil Regent
 1 Cemetery Gatekeeper
 2 Cemetery Gatekeeper
 3 Cemetery Gatekeeper
+4 Frost Bite
+4 Chandra, Dressed to Kill
 1 Moonrager's Slash
 2 Moonrager's Slash
 3 Moonrager's Slash
@@ -13,8 +15,6 @@
 2 Thermo-Alchemist
 3 Thermo-Alchemist
 4 Thermo-Alchemist
-4 Frost Bite
-4 Chandra, Dressed to Kill
 1 Light Up the Night
 2 Light Up the Night
 4 Cemetery Gatekeeper
@@ -37,14 +37,15 @@
 2 Burning Hands
 1 Creepy Puppeteer
 2 Creepy Puppeteer
+1 Manaform Hellkite
 3 Reckless Impulse
 1 Goldspan Dragon
-3 Shatterskull Smashing
-4 Shatterskull Smashing
 1 Voltaic Visionary
 2 Voltaic Visionary
 3 Voltaic Visionary
 4 Voltaic Visionary
+3 Shatterskull Smashing
+4 Shatterskull Smashing
 4 Den of the Bugbear
 1 Mountain
 2 Mountain
@@ -56,14 +57,16 @@
 8 Mountain
 9 Mountain
 10 Mountain
+1 Tundra Fumarole
+2 Tundra Fumarole
+3 Tundra Fumarole
+1 Kargan Intimidator
+2 Kargan Intimidator
+3 Kargan Intimidator
 1 Igneous Inspiration
 2 Igneous Inspiration
 3 Igneous Inspiration
 4 Igneous Inspiration
-1 Tundra Fumarole
-2 Tundra Fumarole
-3 Tundra Fumarole
-1 Manaform Hellkite
 1 Dragonkin Berserker
 3 Creepy Puppeteer
 4 Creepy Puppeteer
@@ -87,10 +90,11 @@
 4 Dragon's Fire
 1 Abrade
 3 Goldspan Dragon
-1 Kargan Intimidator
-2 Kargan Intimidator
-3 Kargan Intimidator
 4 Tundra Fumarole
+4 Kargan Intimidator
+2 Manaform Hellkite
+1 Magic Missile
+2 Magic Missile
 1 Fireblade Charger
 2 Fireblade Charger
 3 Fireblade Charger
@@ -99,7 +103,6 @@
 12 Mountain
 13 Mountain
 1 Relic Robber
-2 Manaform Hellkite
 3 Manaform Hellkite
 2 Hall of Oracles
 3 Hall of Oracles
@@ -115,20 +118,14 @@
 2 Ancestral Anger
 3 Ancestral Anger
 4 Ancestral Anger
-1 Magic Missile
-2 Magic Missile
 3 Magic Missile
 4 Magic Missile
 1 Battle Cry Goblin
 2 Battle Cry Goblin
 3 Battle Cry Goblin
 4 Battle Cry Goblin
-1 Cathartic Pyre
-2 Cathartic Pyre
-3 Sunstreak Phoenix
-4 Sunstreak Phoenix
-1 Dominating Vampire
 1 Field of Ruin
+1 Dominating Vampire
 1 Raze the Effigy
 1 Run Amok
 1 Falkenrath Perforator
@@ -148,4 +145,7 @@
 14 Mountain
 15 Mountain
 16 Mountain
-4 Kargan Intimidator
+1 Cathartic Pyre
+2 Cathartic Pyre
+3 Sunstreak Phoenix
+4 Sunstreak Phoenix

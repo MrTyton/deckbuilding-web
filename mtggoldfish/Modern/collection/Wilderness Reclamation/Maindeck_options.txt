@@ -1,5 +1,7 @@
-3 Island
-4 Island
+2 Snow-Covered Island
+3 Snow-Covered Island
+1 Hall of Storm Giants
+1 Forest
 4 Snapcaster Mage
 1 Ice-Fang Coatl
 1 Snow-Covered Forest
@@ -7,12 +9,11 @@
 4 Growth Spiral
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
-1 Hall of Storm Giants
-1 Forest
+1 Mystical Teachings
 1 Zagoth Triome
 1 Watery Grave
-1 Mystical Teachings
 4 Ice-Fang Coatl
+1 Cryptic Command
 1 Flooded Grove
 1 Fatal Push
 1 Polluted Delta
@@ -23,7 +24,6 @@
 1 Rimewood Falls
 2 Zagoth Triome
 1 Snow-Covered Swamp
-1 Cryptic Command
 2 Cryptic Command
 3 Cryptic Command
 4 Fatal Push
@@ -100,18 +100,19 @@
 2 Abrupt Decay
 2 Consider
 3 Consider
+1 Time Warp
 1 Snow-Covered Mountain
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
+3 Watery Grave
 3 Breeding Pool
 3 Zagoth Triome
-3 Watery Grave
 4 Polluted Delta
 1 Blast Zone
-1 Lumbering Falls
 1 Sea Gate Restoration
 1 Snow-Covered Plains
 1 Teferi, Hero of Dominaria
+1 Lumbering Falls
 1 Search for Azcanta
 1 Remand
 2 Remand

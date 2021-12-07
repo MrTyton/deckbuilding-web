@@ -81,6 +81,9 @@
 2 Sedgemoor Witch
 2 Power Word Kill
 3 Sedgemoor Witch
+1 Fell Stinger
+2 Fell Stinger
+3 Fell Stinger
 1 Evolving Wilds
 1 Crippling Fear
 1 Bloodvial Purveyor
@@ -88,9 +91,6 @@
 2 Bloodvial Purveyor
 3 Sorin the Mirthless
 3 Bloodvial Purveyor
-1 Fell Stinger
-2 Fell Stinger
-3 Fell Stinger
 1 Devour Intellect
 1 Forsworn Paladin
 1 Skull Raid
@@ -114,17 +114,17 @@
 1 Wight
 1 Jadar, Ghoulcaller of Nephalia
 1 Champion of the Perished
-2 Dungeon Crawler
 2 Wight
+2 Dungeon Crawler
 2 Jadar, Ghoulcaller of Nephalia
 2 Champion of the Perished
-3 Ebondeath, Dracolich
-3 Dungeon Crawler
 3 Wight
+3 Dungeon Crawler
+3 Ebondeath, Dracolich
 3 Jadar, Ghoulcaller of Nephalia
 3 Champion of the Perished
-4 Jadar, Ghoulcaller of Nephalia
 4 Wight
+4 Jadar, Ghoulcaller of Nephalia
 4 Dungeon Crawler
 4 Ebondeath, Dracolich
 4 Champion of the Perished

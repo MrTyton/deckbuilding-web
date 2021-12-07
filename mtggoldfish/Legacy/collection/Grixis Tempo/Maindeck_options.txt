@@ -1,15 +1,25 @@
 4 Wasteland
 4 Scalding Tarn
-4 Polluted Delta
 1 Delver of Secrets
 2 Delver of Secrets
 3 Delver of Secrets
+4 Polluted Delta
 4 Delver of Secrets
 1 Flooded Strand
 2 Flooded Strand
+1 Force of Negation
+3 Underground Sea
+1 Brazen Borrower
+1 Misty Rainforest
+2 Misty Rainforest
+1 Stifle
+1 Fatal Push
+2 Fatal Push
 1 Thoughtseize
 2 Thoughtseize
-3 Underground Sea
+4 Murktide Regent
+1 Unholy Heat
+2 Unholy Heat
 1 Watery Grave
 1 Steam Vents
 1 Death's Shadow
@@ -19,39 +29,24 @@
 3 Death's Shadow
 4 Death's Shadow
 4 Thoughtseize
-1 Misty Rainforest
-2 Misty Rainforest
-1 Brazen Borrower
-1 Stifle
-1 Fatal Push
-2 Fatal Push
-4 Murktide Regent
-1 Unholy Heat
-2 Unholy Heat
-1 Force of Negation
 2 Stifle
 3 Stifle
 1 Preordain
-1 True-Name Nemesis
-2 True-Name Nemesis
 1 Gurmag Angler
 2 Gurmag Angler
-2 Steam Vents
-1 Street Wraith
-2 Street Wraith
-3 Street Wraith
-4 Street Wraith
+1 True-Name Nemesis
+2 True-Name Nemesis
 1 Young Pyromancer
 2 Young Pyromancer
 3 Fatal Push
 3 Gurmag Angler
 1 Island
-1 Fiery Islet
 1 Swamp
+1 Fiery Islet
 1 Terminate
 1 Aether Spellbomb
-1 Urza's Saga
 1 Retrofitter Foundry
+1 Urza's Saga
 1 Kolaghan's Command
 1 Soul-Guide Lantern
 2 Urza's Saga
@@ -59,6 +54,11 @@
 3 Urza's Saga
 4 Urza's Saga
 2 Force of Negation
+2 Steam Vents
+1 Street Wraith
+2 Street Wraith
+3 Street Wraith
+4 Street Wraith
 3 Young Pyromancer
 3 Misty Rainforest
 1 Sprite Dragon
@@ -66,16 +66,16 @@
 1 Narset, Parter of Veils
 1 Hullbreacher
 1 Snow-Covered Island
-1 Dress Down
-2 Dress Down
 1 Jace, the Mind Sculptor
 1 Drown in the Loch
 2 Preordain
 2 Brazen Borrower
 1 Urza's Bauble
 2 Urza's Bauble
-1 Dismember
+1 Dress Down
+2 Dress Down
 1 Stubborn Denial
+1 Dismember
 2 Stubborn Denial
 3 Watery Grave
 1 The Royal Scions
@@ -92,7 +92,7 @@
 1 Ox of Agonas
 2 Reanimate
 2 Entomb
-3 Entomb
 3 Reanimate
+3 Entomb
 4 Reanimate
 4 Entomb

@@ -5,25 +5,20 @@
 3 Priest of Fell Rites
 2 Polluted Delta
 3 Polluted Delta
-4 Teferi, Time Raveler
-4 Mulldrifter
-2 Hallowed Fountain
 4 Polluted Delta
-4 Priest of Fell Rites
+4 Teferi, Time Raveler
+2 Hallowed Fountain
 1 Counterspell
 2 Counterspell
 3 Counterspell
 4 Counterspell
-2 Swamp
-1 Thoughtseize
-2 Thoughtseize
+4 Mulldrifter
 1 Darkslick Shores
 2 Darkslick Shores
 1 Consider
 2 Consider
 3 Consider
 4 Consider
-3 Thoughtseize
 1 Savai Triome
 1 Arid Mesa
 1 Steam Vents
@@ -31,44 +26,44 @@
 1 Sacred Foundry
 2 Bloodstained Mire
 2 Arid Mesa
-3 Arid Mesa
 3 Bloodstained Mire
+3 Arid Mesa
+4 Priest of Fell Rites
+1 Thoughtseize
+2 Thoughtseize
+2 Swamp
 1 Wandering Mind
 2 Glacial Fortress
 2 Wandering Mind
 3 Wandering Mind
 3 Glacial Fortress
 4 Wandering Mind
-4 Arid Mesa
 4 Bloodstained Mire
+4 Arid Mesa
 1 Snow-Covered Swamp
 1 Snow-Covered Plains
 1 Snow-Covered Island
+3 Thoughtseize
 1 Inquisition of Kozilek
 1 Jace, Vryn's Prodigy
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
 2 Island
+1 Seachrome Coast
 3 Darkslick Shores
 1 Castle Vantress
-2 Plains
-4 Thoughtseize
-1 Celestial Colonnade
 2 Snow-Covered Swamp
 1 Thought Scour
-1 Seachrome Coast
 2 Thought Scour
 3 Thought Scour
 4 Inquisition of Kozilek
 1 Drowned Catacomb
-1 Bone Shards
-2 Bone Shards
 1 Scalding Tarn
 1 Hard Evidence
+1 Indomitable Creativity
 1 Blood Crypt
 1 Prismari Command
 1 Dwarven Mine
-1 Indomitable Creativity
 1 Raugrin Triome
 2 Scalding Tarn
 2 Hard Evidence
@@ -82,14 +77,17 @@
 4 Hard Evidence
 4 Scalding Tarn
 4 Indomitable Creativity
-1 Creeping Tar Pit
-4 Concealed Courtyard
+2 Plains
 1 Supreme Verdict
 1 Flusterstorm
 1 Spreading Seas
 2 Spreading Seas
+1 Vanishing Verse
+2 Vanishing Verse
+3 Vanishing Verse
 1 Kaya, Orzhov Usurper
 1 Mystic Gate
+1 Celestial Colonnade
 1 Chalice of the Void
 1 Kaya's Guile
 1 Gifts Ungiven
@@ -100,33 +98,25 @@
 3 Chalice of the Void
 3 Island
 1 Castle Ardenvale
-1 Silent Clearing
-1 Castle Locthwain
 1 Cave of the Frost Dragon
+1 Castle Locthwain
 1 Lingering Souls
 1 Urborg, Tomb of Yawgmoth
 1 Malakir Rebirth
+1 Bone Shards
+1 Silent Clearing
 1 Collective Brutality
 1 Cataclysmic Gearhulk
 1 Grave Titan
 2 Lingering Souls
-2 Collective Brutality
 2 Silent Clearing
+2 Collective Brutality
+2 Bone Shards
 3 Swamp
 3 Lingering Souls
 3 Godless Shrine
 4 Godless Shrine
 4 Lingering Souls
-1 Wooded Foothills
-1 Nahiri, the Harbinger
-1 Fire/Ice
-2 Nahiri, the Harbinger
-2 Wooded Foothills
-2 Fire/Ice
-3 Wooded Foothills
-3 Fire/Ice
-4 Fire/Ice
-4 Dwarven Mine
 1 Stitcher's Supplier
 1 Damn
 1 Glasspool Mimic
@@ -137,22 +127,17 @@
 3 Glasspool Mimic
 4 Stitcher's Supplier
 4 Glasspool Mimic
-1 Windswept Heath
-1 Verdant Catacombs
-1 Overgrown Tomb
-1 Temple Garden
-1 Indatha Triome
-1 Forest
-1 Grisly Salvage
-1 Eternal Witness
-2 Verdant Catacombs
-2 Windswept Heath
-2 Grisly Salvage
-2 Eternal Witness
-3 Verdant Catacombs
-3 Grisly Salvage
-4 Verdant Catacombs
-4 Grisly Salvage
+1 Wooded Foothills
+1 Nahiri, the Harbinger
+1 Fire/Ice
+2 Wooded Foothills
+2 Nahiri, the Harbinger
+2 Fire/Ice
+3 Wooded Foothills
+3 Fire/Ice
+4 Fire/Ice
+4 Dwarven Mine
+4 Thoughtseize
 1 Lightning Bolt
 2 Blood Crypt
 2 Steam Vents
