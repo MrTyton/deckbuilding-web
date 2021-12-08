@@ -49,21 +49,21 @@
 1 Bolas's Citadel
 1 Polluted Delta
 2 Polluted Delta
-1 Underground Sea
-1 Baleful Strix
 1 Hydroblast
 1 Tezzeret, Agent of Bolas
+1 Baleful Strix
+1 Underground Sea
 1 Preordain
-2 Baleful Strix
-2 Underground Sea
 2 Hydroblast
 2 Preordain
+2 Underground Sea
 2 Tezzeret, Agent of Bolas
+2 Baleful Strix
 3 Polluted Delta
-3 Baleful Strix
 3 Tezzeret, Agent of Bolas
 3 Hydroblast
 3 Preordain
+3 Baleful Strix
 4 Preordain
 4 Polluted Delta
 4 Baleful Strix
@@ -81,8 +81,8 @@
 4 Mox Opal
 3 Island
 1 Swamp
-3 Wooded Foothills
 3 Simian Spirit Guide
+3 Wooded Foothills
 1 Urza, Lord High Artificer
 1 Aether Spellbomb
 1 Sai, Master Thopterist
@@ -106,11 +106,11 @@
 1 Ponder
 1 Volcanic Island
 1 Scalding Tarn
-2 Murktide Regent
 2 Ponder
 2 Expressive Iteration
 2 Brainstorm
 2 Scalding Tarn
+2 Murktide Regent
 2 Volcanic Island
 3 Murktide Regent
 3 Expressive Iteration
@@ -119,8 +119,8 @@
 3 Ponder
 3 Volcanic Island
 4 Scalding Tarn
-4 Expressive Iteration
 4 Volcanic Island
+4 Expressive Iteration
 4 Ponder
 4 Brainstorm
 1 Flooded Strand
@@ -166,8 +166,8 @@
 2 Ensnaring Bridge
 1 Misty Rainforest
 2 Misty Rainforest
-2 Unholy Heat
 2 Relic of Progenitus
+2 Unholy Heat
 2 Force of Negation
 3 Underground Sea
 1 Windswept Heath
@@ -193,19 +193,19 @@
 4 City of Traitors
 1 Phyrexian Furnace
 4 Ragavan, Nimble Pilferer
-1 Dragon's Rage Channeler
+1 Spellskite
 1 Torpor Orb
 1 Weathered Wayfarer
-1 Spellskite
+1 Dragon's Rage Channeler
 1 Prismatic Vista
 1 Myr Retriever
 1 Prismatic Ending
-2 Dragon's Rage Channeler
 2 Weathered Wayfarer
+2 Dragon's Rage Channeler
 2 Prismatic Ending
-3 Dragon's Rage Channeler
 3 Prismatic Ending
 3 Plateau
+3 Dragon's Rage Channeler
 4 Dragon's Rage Channeler
 4 Plateau
 1 Ornithopter
@@ -219,24 +219,8 @@
 3 Badlands
 3 Bloodstained Mire
 3 Wishclaw Talisman
-4 Bloodstained Mire
 4 Lion's Eye Diamond
-1 Ingenious Smith
-1 Hope of Ghirapur
-1 Phyrexian Revoker
-1 Mother of Runes
-2 Ingenious Smith
-2 Esper Sentinel
-2 Mother of Runes
-3 Ingenious Smith
-3 Esper Sentinel
-3 Ethersworn Canonist
-3 Mother of Runes
-4 Ingenious Smith
-4 Esper Sentinel
-7 Plains
-8 Plains
-9 Plains
+4 Bloodstained Mire
 1 Phyrexian Dreadnought
 1 Dark Depths
 1 Thespian's Stage
@@ -257,3 +241,19 @@
 4 Scroll of Fate
 11 Mountain
 12 Mountain
+1 Ingenious Smith
+1 Hope of Ghirapur
+1 Phyrexian Revoker
+1 Mother of Runes
+2 Ingenious Smith
+2 Esper Sentinel
+2 Mother of Runes
+3 Ingenious Smith
+3 Ethersworn Canonist
+3 Esper Sentinel
+3 Mother of Runes
+4 Ingenious Smith
+4 Esper Sentinel
+7 Plains
+8 Plains
+9 Plains

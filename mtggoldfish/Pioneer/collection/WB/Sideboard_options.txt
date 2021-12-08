@@ -1,19 +1,19 @@
-1 Fracture
-1 Duress
-2 Duress
-2 Go Blank
-1 Kambal, Consul of Allocation
-2 Kambal, Consul of Allocation
-3 Rest in Peace
-1 Kaya, Orzhov Usurper
-3 Duress
-1 Apostle of Purifying Light
 1 Lurrus of the Dream-Den
 2 Apostle of Purifying Light
 1 Fatal Push
 2 Fatal Push
 3 Fatal Push
+1 Heartless Act
+3 Duress
+2 Go Blank
 3 Apostle of Purifying Light
+1 Damping Sphere
+2 Damping Sphere
+1 Fracture
+1 Kambal, Consul of Allocation
+2 Kambal, Consul of Allocation
+3 Rest in Peace
+1 Kaya, Orzhov Usurper
 4 Apostle of Purifying Light
 1 Dead Weight
 1 Lagonna-Band Trailblazer
@@ -23,6 +23,7 @@
 1 Noxious Grasp
 1 Doom Blade
 3 Go Blank
+4 Fatal Push
 1 Kaya's Wrath
 4 Duress
 1 Portable Hole
@@ -31,6 +32,8 @@
 1 Vanishing Verse
 2 Heartless Act
 2 Fracture
+1 Soul-Guide Lantern
+2 Soul-Guide Lantern
 1 Power Word Kill
 2 Kaya's Wrath
 1 Sin Collector
@@ -44,9 +47,12 @@
 1 Elspeth, Sun's Champion
 1 Archon of Emeria
 2 Archon of Emeria
+1 Hushbringer
+2 Hushbringer
+3 Hushbringer
+1 Dromoka's Command
 1 Settle the Wreckage
 1 Heroic Intervention
-1 Dromoka's Command
 1 Return to Nature
 1 Cartouche of Strength
 1 Karametra's Blessing
@@ -56,6 +62,3 @@
 2 Cartouche of Strength
 3 Heroic Intervention
 4 Heroic Intervention
-1 Soul-Guide Lantern
-2 Soul-Guide Lantern
-4 Fatal Push

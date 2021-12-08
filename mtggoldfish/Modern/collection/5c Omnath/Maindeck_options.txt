@@ -27,8 +27,8 @@
 3 Fury
 1 Snow-Covered Island
 1 Wooded Foothills
-1 Snow-Covered Plains
 1 Snow-Covered Forest
+1 Snow-Covered Plains
 1 Sheltered Thicket
 1 Lightning Bolt
 2 Lightning Bolt
@@ -39,8 +39,8 @@
 2 Spreading Seas
 1 Zagoth Triome
 1 Abundant Growth
-2 Island
 2 Abundant Growth
+2 Island
 3 Abundant Growth
 4 Abundant Growth
 1 Fire/Ice
@@ -53,39 +53,39 @@
 1 Expedition Map
 1 Titania, Protector of Argoth
 1 Chalice of the Void
+2 Wooded Foothills
 2 Temple Garden
 2 Urza's Saga
-2 Wooded Foothills
 2 Forest
 2 Chalice of the Void
 2 Titania, Protector of Argoth
-3 Urza's Saga
 3 Wooded Foothills
-3 Chalice of the Void
 3 Forest
+3 Urza's Saga
+3 Chalice of the Void
 3 Titania, Protector of Argoth
 4 Urza's Saga
 4 Chalice of the Void
 4 Titania, Protector of Argoth
 4 Forest
 4 Scalding Tarn
-1 Kolaghan's Command
 1 Fatal Push
-1 Reflecting Pool
-1 Watery Grave
-1 Archmage's Charm
-1 Abundant Harvest
 1 Polluted Delta
+1 Watery Grave
+1 Abundant Harvest
+1 Kolaghan's Command
+1 Reflecting Pool
+1 Archmage's Charm
 1 Snapcaster Mage
+2 Fatal Push
+2 Polluted Delta
 2 Abundant Harvest
 2 Snapcaster Mage
 2 Archmage's Charm
-2 Polluted Delta
-2 Fatal Push
 2 Kolaghan's Command
 3 Snapcaster Mage
-3 Polluted Delta
 3 Fatal Push
+3 Polluted Delta
 3 Kolaghan's Command
 3 Archmage's Charm
 4 Snapcaster Mage
@@ -105,12 +105,12 @@
 2 Explore
 3 Explore
 4 Explore
-3 Fire/Ice
-1 Nexus of Fate
-1 Lightning Helix
-2 Lightning Helix
+1 Field of Ruin
 1 Glacial Fortress
 1 Memory Deluge
 2 Memory Deluge
 3 Supreme Verdict
-1 Field of Ruin
+3 Fire/Ice
+1 Lightning Helix
+2 Lightning Helix
+1 Nexus of Fate

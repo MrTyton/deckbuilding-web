@@ -57,7 +57,6 @@
 1 Cursed Scroll
 1 Painter's Servant
 1 Great Furnace
-2 Ensnaring Bridge
 1 Misdirection
 2 Misdirection
 1 Fury
@@ -67,6 +66,7 @@
 1 Seal of Cleansing
 2 Skyclave Apparition
 2 Seal of Cleansing
+2 Ensnaring Bridge
 1 Retrofitter Foundry
 2 Hydroblast
 1 Pyroclasm
@@ -75,12 +75,6 @@
 1 Containment Priest
 2 Pyroclasm
 2 Winter Orb
-1 Dead/Gone
-1 Faerie Macabre
-1 Fiery Confluence
-2 Dead/Gone
-2 Faerie Macabre
-3 Faerie Macabre
 1 Deafening Silence
 1 Relic of Progenitus
 1 Leyline of Sanctity
@@ -88,12 +82,18 @@
 2 Portable Hole
 2 Leyline of Sanctity
 3 Leyline of Sanctity
+1 Dead/Gone
+1 Faerie Macabre
+1 Fiery Confluence
+2 Dead/Gone
+2 Faerie Macabre
+3 Faerie Macabre
 1 Wear/Tear
 1 Phyrexian Revoker
 1 Mindbreak Trap
 1 Curse of Silence
-2 Mindbreak Trap
 2 Curse of Silence
+2 Mindbreak Trap
 3 Curse of Silence
 1 Tidehollow Sculler
 1 Ragavan, Nimble Pilferer

@@ -1,9 +1,9 @@
 3 Thundering Rebuke
-3 Cinderclasm
 3 Abrade
 1 Sunstreak Phoenix
 2 Sunstreak Phoenix
 3 Sunstreak Phoenix
+3 Cinderclasm
 1 Mascot Interception
 1 Akoum Hellhound
 2 Akoum Hellhound
@@ -12,16 +12,17 @@
 1 Vampires' Vengeance
 2 Vampires' Vengeance
 3 Frost Bite
-4 Frost Bite
-1 Volatile Arsonist
-1 Burn Down the House
-1 Reckless Impulse
-1 Lantern of the Lost
-2 Lantern of the Lost
 1 Moonveil Regent
 2 Moonveil Regent
-2 Volatile Arsonist
 3 Moonveil Regent
+4 Frost Bite
+1 Volatile Arsonist
+1 Reckless Impulse
+1 Curse of Hospitality
+1 Burn Down the House
+1 Lantern of the Lost
+2 Lantern of the Lost
+2 Volatile Arsonist
 1 Alchemist's Gambit
 1 Goldspan Dragon
 1 Chandra, Dressed to Kill
@@ -31,22 +32,18 @@
 1 Bloody Betrayal
 2 Burn Down the House
 3 Vampires' Vengeance
-1 Raze the Effigy
-2 Raze the Effigy
-1 Demon Bolt
-2 Demon Bolt
+2 Curse of Hospitality
+1 Flame-Blessed Bolt
 1 Flameskull
 2 Flameskull
 3 Flameskull
-1 Flame-Blessed Bolt
+1 Demon Bolt
+2 Demon Bolt
 1 Environmental Sciences
-1 Curse of Hospitality
 1 Mascot Exhibition
 1 Start from Scratch
 1 Reckless Stormseeker
 2 Reckless Stormseeker
-1 Pithing Needle
-2 Pithing Needle
 1 Heated Debate
 1 Inferno of the Star Mounts
 1 Spirit Summoning
@@ -54,7 +51,6 @@
 2 Environmental Sciences
 1 Ill-Tempered Loner
 1 Rending Flame
-2 Curse of Hospitality
 2 Ill-Tempered Loner
 2 Bloody Betrayal
 1 Tundra Fumarole
@@ -80,11 +76,13 @@
 3 Magic Missile
 2 Mascot Interception
 3 Mascot Interception
+1 Raze the Effigy
+2 Raze the Effigy
 3 Raze the Effigy
+2 Start from Scratch
+4 Roiling Vortex
 1 Cemetery Gatekeeper
 2 Cemetery Gatekeeper
 3 Cemetery Gatekeeper
 4 Abrade
 4 Cemetery Gatekeeper
-2 Start from Scratch
-4 Roiling Vortex
