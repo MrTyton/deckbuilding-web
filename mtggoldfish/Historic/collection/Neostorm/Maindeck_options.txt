@@ -43,8 +43,8 @@
 2 Island
 3 Riverglide Pathway
 3 Cragcrown Pathway
-1 Watery Grave
 1 Overgrown Tomb
+1 Watery Grave
 2 Overgrown Tomb
 2 Watery Grave
 3 Overgrown Tomb
@@ -54,10 +54,10 @@
 2 Wishclaw Talisman
 3 Wishclaw Talisman
 4 Riverglide Pathway
+4 Overgrown Tomb
 4 Wishclaw Talisman
 4 Watery Grave
 4 Cragcrown Pathway
-4 Overgrown Tomb
 2 Expansion/Explosion
 1 Perilous Voyage
 2 Perilous Voyage
@@ -73,8 +73,8 @@
 3 Anticipate
 4 Anticipate
 1 Narset, Parter of Veils
-1 Temple of Mystery
 1 Aether Gust
+1 Temple of Mystery
 1 Stormcarved Coast
 2 Barkchannel Pathway
 2 Stormcarved Coast
@@ -108,25 +108,28 @@
 2 Augur of Bolas
 2 Mirror Image
 4 Island
+1 Sheltered Thicket
+3 Growth Spiral
+4 Growth Spiral
 1 Mastermind's Acquisition
-1 Blooming Marsh
+1 Assassin's Trophy
+1 Zagoth Triome
 1 Tamiyo, Collector of Tales
-1 Thoughtseize
-1 Blood Crypt
+1 Blooming Marsh
 1 Castle Locthwain
+1 Blood Crypt
 1 Dragonskull Summit
+1 Thoughtseize
 1 Atris, Oracle of Half-Truths
 1 Aether Hub
-1 Zagoth Triome
 1 Grim Tutor
-1 Assassin's Trophy
+2 Zagoth Triome
 2 Blooming Marsh
 2 Thoughtseize
-2 Zagoth Triome
 2 Grim Tutor
 2 Aether Hub
-3 Thoughtseize
 3 Zagoth Triome
+3 Thoughtseize
 3 Grim Tutor
 4 Thoughtseize
 4 Grim Tutor
@@ -135,6 +138,3 @@
 3 Sulfur Falls
 4 Hinterland Harbor
 4 Sulfur Falls
-1 Sheltered Thicket
-3 Growth Spiral
-4 Growth Spiral

@@ -12,8 +12,8 @@
 1 Iymrith, Desert Doom
 2 Iymrith, Desert Doom
 1 Blightstep Pathway
-2 Blightstep Pathway
 2 Haunted Ridge
+2 Blightstep Pathway
 3 Haunted Ridge
 3 Blightstep Pathway
 4 Haunted Ridge
@@ -106,7 +106,6 @@
 1 Shipwreck Marsh
 1 Curate
 1 Electric Revelation
-2 Prismari Campus
 2 Cathartic Pyre
 2 Shadows' Verdict
 2 Malevolent Hermit
@@ -114,11 +113,12 @@
 2 Haunting Voyage
 2 Shipwreck Marsh
 2 Electric Revelation
+2 Prismari Campus
 3 Shipwreck Marsh
-3 Prismari Campus
 3 Cathartic Pyre
 3 Shadows' Verdict
 3 Malevolent Hermit
+3 Prismari Campus
 4 Shipwreck Marsh
 4 Shadows' Verdict
 4 Malevolent Hermit
@@ -128,8 +128,8 @@
 1 Sulfurous Mire
 1 Show of Confidence
 1 Skullport Merchant
-2 Swamp
 2 Skullport Merchant
+2 Swamp
 2 Sulfurous Mire
 2 Show of Confidence
 3 Sulfurous Mire

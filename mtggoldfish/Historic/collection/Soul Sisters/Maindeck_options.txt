@@ -22,8 +22,8 @@
 3 Alseid of Life's Bounty
 1 Impassioned Orator
 2 Impassioned Orator
-1 Sunpetal Grove
 1 Branchloft Pathway
+1 Sunpetal Grove
 1 Collected Company
 2 Branchloft Pathway
 2 Sunpetal Grove
@@ -139,8 +139,8 @@
 1 Oketra the True
 1 Sacred Cat
 2 Sacred Cat
-1 Emeria's Call
 1 Search for Glory
+1 Emeria's Call
 2 Emeria's Call
 3 Emeria's Call
 1 Light of Hope
@@ -172,37 +172,6 @@
 2 Ajani's Welcome
 3 Ajani's Welcome
 4 Ajani's Welcome
-1 Erebos's Intervention
-1 Temple of Silence
-1 Isolated Chapel
-1 Angelic Ascension
-1 Elspeth, Sun's Nemesis
-1 Castle Locthwain
-1 Vito, Thorn of the Dusk Rose
-1 Linvala, Keeper of Silence
-1 Godless Shrine
-1 Scoured Barrens
-1 Oath of Kaya
-2 Castle Locthwain
-2 Erebos's Intervention
-2 Temple of Silence
-2 Scoured Barrens
-2 Elspeth, Sun's Nemesis
-2 Isolated Chapel
-2 Oath of Kaya
-2 Linvala, Keeper of Silence
-2 Angelic Ascension
-2 Godless Shrine
-2 Vito, Thorn of the Dusk Rose
-3 Temple of Silence
-3 Oath of Kaya
-3 Scoured Barrens
-3 Godless Shrine
-3 Isolated Chapel
-3 Vito, Thorn of the Dusk Rose
-4 Temple of Silence
-4 Godless Shrine
-4 Isolated Chapel
 1 Elspeth Conquers Death
 1 Containment Priest
 1 Realm-Cloaked Giant
@@ -237,6 +206,37 @@
 4 Abiding Grace
 4 Cleric Class
 4 Voice of the Blessed
+1 Erebos's Intervention
+1 Isolated Chapel
+1 Godless Shrine
+1 Angelic Ascension
+1 Elspeth, Sun's Nemesis
+1 Temple of Silence
+1 Castle Locthwain
+1 Vito, Thorn of the Dusk Rose
+1 Linvala, Keeper of Silence
+1 Scoured Barrens
+1 Oath of Kaya
+2 Castle Locthwain
+2 Erebos's Intervention
+2 Oath of Kaya
+2 Godless Shrine
+2 Temple of Silence
+2 Scoured Barrens
+2 Elspeth, Sun's Nemesis
+2 Isolated Chapel
+2 Linvala, Keeper of Silence
+2 Angelic Ascension
+2 Vito, Thorn of the Dusk Rose
+3 Isolated Chapel
+3 Godless Shrine
+3 Oath of Kaya
+3 Temple of Silence
+3 Scoured Barrens
+3 Vito, Thorn of the Dusk Rose
+4 Isolated Chapel
+4 Godless Shrine
+4 Temple of Silence
 1 Ranger-Captain of Eos
 1 Prosperous Innkeeper
 1 Forest
