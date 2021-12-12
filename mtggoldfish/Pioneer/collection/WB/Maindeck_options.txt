@@ -1,6 +1,6 @@
 1 Ethereal Armor
-1 All That Glitters
 1 Gryff's Boon
+1 All That Glitters
 2 Cartouche of Solidarity
 2 Ethereal Armor
 2 All That Glitters
@@ -36,10 +36,11 @@
 3 The Birth of Meletis
 1 Lolth, Spider Queen
 1 Cave of the Frost Dragon
-2 Castle Locthwain
 1 Urborg, Tomb of Yawgmoth
-2 Heartless Act
 3 Yorion, Sky Nomad
+2 Castle Locthwain
+4 Omen of the Sun
+2 Heartless Act
 4 Oath of Kaya
 2 Stonecoil Serpent
 1 Karametra's Blessing
@@ -49,13 +50,12 @@
 1 Cling to Dust
 2 Vanishing Verse
 3 Shattered Sanctum
-4 Omen of the Sun
 5 Plains
+1 Charming Prince
+2 Charming Prince
 1 Lagonna-Band Trailblazer
 3 Karametra's Blessing
 4 Cartouche of Solidarity
-1 Charming Prince
-2 Charming Prince
 3 Charming Prince
 1 Castle Ardenvale
 2 Power Word Kill
@@ -88,6 +88,43 @@
 2 Lolth, Spider Queen
 4 Go Blank
 4 The Birth of Meletis
+1 Temple Garden
+2 Temple Garden
+1 Snow-Covered Plains
+1 Binding the Old Gods
+1 Darkbore Pathway
+1 Indatha Triome
+1 Languish
+1 Shambling Vent
+1 Overgrown Tomb
+1 Snow-Covered Swamp
+1 Extinction Event
+1 Siege Rhino
+1 Branchloft Pathway
+1 Ranger Class
+1 Overgrown Farmland
+2 Shambling Vent
+2 Snow-Covered Plains
+2 Binding the Old Gods
+2 Overgrown Tomb
+2 Darkbore Pathway
+2 Siege Rhino
+2 Extinction Event
+2 Branchloft Pathway
+2 Overgrown Farmland
+2 Indatha Triome
+2 Ranger Class
+3 Overgrown Tomb
+3 Darkbore Pathway
+3 Ranger Class
+3 Branchloft Pathway
+3 Indatha Triome
+3 Shambling Vent
+4 Ranger Class
+4 Overgrown Tomb
+4 Darkbore Pathway
+4 Indatha Triome
+4 Branchloft Pathway
 1 Sunpetal Grove
 1 Arctic Treeline
 1 Sixth Sense
@@ -95,39 +132,37 @@
 1 Fortified Village
 1 Unflinching Courage
 1 Dromoka's Command
-1 Gift of Orzhova
 1 Adanto Vanguard
-1 Temple Garden
-1 Bassara Tower Archer
 1 Gladecover Scout
+1 Bassara Tower Archer
 1 Season of Growth
+1 Gift of Orzhova
 1 Forest
 2 Sunpetal Grove
 2 Fortified Village
+2 Season of Growth
 2 Gladecover Scout
 2 Forest
-2 Season of Growth
 2 Unflinching Courage
-2 Temple Garden
-2 Scattered Groves
 2 Adanto Vanguard
-2 Gift of Orzhova
 2 Bassara Tower Archer
+2 Gift of Orzhova
+2 Scattered Groves
 3 Fortified Village
 3 Sunpetal Grove
+3 Gladecover Scout
 3 Unflinching Courage
 3 Season of Growth
+3 Gift of Orzhova
 3 Temple Garden
 3 Scattered Groves
 3 Bassara Tower Archer
-3 Gladecover Scout
-3 Gift of Orzhova
 4 Sunpetal Grove
 4 Season of Growth
+4 Scattered Groves
 4 Temple Garden
 4 Bassara Tower Archer
 4 Gladecover Scout
-4 Scattered Groves
 1 Containment Priest
 2 Containment Priest
 3 Containment Priest

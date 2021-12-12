@@ -81,8 +81,8 @@
 3 Play with Fire
 3 Dragonkin Berserker
 1 Bloodchief's Thirst
-2 Kazuul's Fury
 2 Bloodchief's Thirst
+2 Kazuul's Fury
 2 Sorin the Mirthless
 6 Mountain
 1 Light Up the Night
@@ -117,8 +117,8 @@
 7 Mountain
 8 Mountain
 8 Swamp
-9 Mountain
 9 Swamp
+9 Mountain
 10 Mountain
 1 Grim Bounty
 2 Grim Bounty
@@ -147,14 +147,6 @@
 2 Sudden Breakthrough
 2 Hired Hexblade
 3 Hired Hexblade
-1 Voldaren Estate
-1 Cemetery Gatekeeper
-2 Cemetery Gatekeeper
-3 Roil Eruption
-3 Cemetery Gatekeeper
-3 Falkenrath Pit Fighter
-4 Cemetery Gatekeeper
-4 Falkenrath Pit Fighter
 1 Moonveil Regent
 1 Orb of Dragonkind
 2 Moonveil Regent
@@ -170,21 +162,29 @@
 1 Nullpriest of Oblivion
 1 Egon, God of Death
 1 Rise of the Dread Marn
-2 Forsworn Paladin
 2 Crush the Weak
 2 Nullpriest of Oblivion
+2 Forsworn Paladin
 2 Egon, God of Death
 3 Crush the Weak
 4 Crush the Weak
+1 Voldaren Estate
+1 Cemetery Gatekeeper
+2 Cemetery Gatekeeper
+3 Roil Eruption
+3 Falkenrath Pit Fighter
+3 Cemetery Gatekeeper
+4 Cemetery Gatekeeper
+4 Falkenrath Pit Fighter
 1 Bloodtithe Harvester
-1 Vampires' Vengeance
 1 Voldaren Bloodcaster
+1 Vampires' Vengeance
 2 Bloodtithe Harvester
 2 Vampires' Vengeance
 3 Bloodtithe Harvester
 3 Vampires' Vengeance
-4 Agadeem's Awakening
 4 Bloodtithe Harvester
+4 Agadeem's Awakening
 4 Vampires' Vengeance
 1 Path of Peril
 1 Brightclimb Pathway
@@ -203,12 +203,12 @@
 3 Crippling Fear
 3 Slaughter Specialist
 4 Slaughter Specialist
-1 Extus, Oriq Overlord
 1 Fell Stinger
+1 Extus, Oriq Overlord
 1 Fireblade Charger
-2 Extus, Oriq Overlord
 2 Fell Stinger
 2 Fireblade Charger
+2 Extus, Oriq Overlord
 3 Fell Stinger
 3 Extus, Oriq Overlord
 3 Fireblade Charger

@@ -1,16 +1,7 @@
-1 Yavimaya, Cradle of Growth
-3 Savannah
-1 Stoneforge Mystic
 1 Bojuka Bog
-1 Elvish Reclaimer
-1 Outland Liberator
-2 Plains
-2 Stoneforge Mystic
 2 Elvish Reclaimer
-1 Sylvan Safekeeper
-1 Cavern of Souls
 1 Tropical Island
-3 Elvish Reclaimer
+1 Cavern of Souls
 1 Vesuva
 1 Dryad of the Ilysian Grove
 1 Valakut, the Molten Pinnacle
@@ -18,7 +9,9 @@
 1 Drownyard Temple
 1 Sejiri Steppe
 2 Vesuva
+3 Elvish Reclaimer
 4 Elvish Reclaimer
+1 Sylvan Safekeeper
 2 Cavern of Souls
 1 Crop Rotation
 2 Crop Rotation
@@ -26,14 +19,23 @@
 1 Slogurk, the Overslime
 3 Cavern of Souls
 2 Yavimaya, Cradle of Growth
+2 Prismatic Ending
+1 Stoneforge Mystic
+1 Grist, the Hunger Tide
+1 Outland Liberator
+3 Endurance
+2 Plains
+3 Savannah
+2 Stoneforge Mystic
+3 Crop Rotation
 4 Verdant Catacombs
 1 Sword of Fire and Ice
-3 Prismatic Ending
-1 Hexdrinker
+4 Crop Rotation
+4 Cavern of Souls
 1 Once Upon a Time
 2 Once Upon a Time
-3 Endurance
-1 Maze of Ith
+1 Leovold, Emissary of Trest
+1 Cephalid Coliseum
 1 Opposition Agent
 1 Geier Reach Sanitarium
 1 Hullbreacher
@@ -42,25 +44,25 @@
 4 Hullbreacher
 1 Chord of Calling
 2 Chord of Calling
-4 Cavern of Souls
 2 Misty Rainforest
-3 Crop Rotation
 1 Batterskull
-2 Bayou
+3 Prismatic Ending
+1 Maze of Ith
 3 Once Upon a Time
-1 Qasali Pridemage
+2 Dryad of the Ilysian Grove
+1 Tranquil Thicket
+1 Hexdrinker
 3 Chord of Calling
-4 Crop Rotation
 3 Stoneforge Mystic
 4 Savannah
 1 Peacekeeper
 1 Khalni Garden
-1 Flagstones of Trokair
-1 Leovold, Emissary of Trest
-1 Cephalid Coliseum
-1 Tranquil Thicket
+4 Once Upon a Time
 2 Tranquil Thicket
 2 Slogurk, the Overslime
+2 Bayou
+1 Qasali Pridemage
+1 Flagstones of Trokair
 3 Sylvan Library
 1 Taiga
 1 Plateau
@@ -80,19 +82,20 @@
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
 4 Thalia, Guardian of Thraben
+1 Allosaurus Shepherd
 1 Augur of Autumn
 4 Chord of Calling
-1 Tireless Tracker
-2 Dryad of the Ilysian Grove
+3 Tranquil Thicket
 2 Opposition Agent
 3 Opposition Agent
-3 Tranquil Thicket
-1 Skyclave Apparition
 1 Shadowspear
 1 Urza's Saga
 1 Retrofitter Foundry
 2 Horizon Canopy
+1 Skyclave Apparition
 1 Aven Mindcensor
+1 Tireless Tracker
+4 Endurance
 1 Urborg, Tomb of Yawgmoth
 3 Misty Rainforest
 4 Misty Rainforest
@@ -100,7 +103,6 @@
 1 Thespian's Stage
 1 Dark Depths
 2 Birds of Paradise
-4 Once Upon a Time
 4 Mother of Runes
 1 Arena
 4 Tranquil Thicket
@@ -120,11 +122,13 @@
 1 Giver of Runes
 1 Saryth, the Viper's Fang
 1 Ethersworn Canonist
-1 Allosaurus Shepherd
-1 Sigarda, Champion of Light
 1 Simic Growth Chamber
-1 Rhonas the Indomitable
 1 Uro, Titan of Nature's Wrath
+1 Rhonas the Indomitable
+1 Sigarda, Champion of Light
+1 Snow-Covered Forest
+1 Zagoth Triome
+1 Volrath's Stronghold
 1 Temple Garden
 1 Dust Bowl
 1 Maralen of the Mornsong
@@ -136,12 +140,6 @@
 1 Abrupt Decay
 1 Kaldra Compleat
 2 Abrupt Decay
-1 Assassin's Trophy
-1 Spirit of the Labyrinth
-1 Blast Zone
-1 Fiend Artisan
-2 Assassin's Trophy
-2 Spirit of the Labyrinth
 2 Qasali Pridemage
 2 Umezawa's Jitte
 1 Mox Diamond

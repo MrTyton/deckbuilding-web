@@ -1,9 +1,9 @@
-3 Branchloft Pathway
 4 Branchloft Pathway
-4 Shacklegeist
+2 Temple Garden
 3 Spectral Sailor
-4 Botanical Sanctum
 3 Selfless Spirit
+4 Botanical Sanctum
+4 Shacklegeist
 1 Lofty Denial
 3 Island
 4 Island
@@ -17,6 +17,7 @@
 2 Patrician Geist
 2 Lofty Denial
 3 Lofty Denial
+1 Deserted Beach
 3 Glacial Fortress
 4 Lofty Denial
 2 Breeding Pool
@@ -48,7 +49,6 @@
 14 Snow-Covered Island
 15 Snow-Covered Island
 16 Snow-Covered Island
-1 Deserted Beach
 1 Faceless Haven
 2 Faceless Haven
 3 Faceless Haven
@@ -59,8 +59,8 @@
 7 Island
 1 Brazen Borrower
 1 Miscast
-2 Miscast
 2 Brazen Borrower
+2 Miscast
 18 Snow-Covered Island
 1 Cave of the Frost Dragon
 2 Cave of the Frost Dragon
@@ -75,10 +75,11 @@
 1 Cemetery Illuminator
 2 Cemetery Illuminator
 2 Katilda, Dawnhart Martyr
+3 Barkchannel Pathway
 1 Castle Vantress
 1 Mutavault
-1 Watery Grave
 1 Drowned Catacomb
+1 Watery Grave
 1 Clearwater Pathway
 2 Drowned Catacomb
 2 Watery Grave
@@ -86,8 +87,8 @@
 3 Drowned Catacomb
 3 Watery Grave
 3 Clearwater Pathway
-4 Watery Grave
 4 Clearwater Pathway
+4 Watery Grave
 1 Valorous Stance
 1 Essence Capture
 2 Castle Vantress
@@ -97,13 +98,13 @@
 3 Thalia, Guardian of Thraben
 3 Skyclave Apparition
 1 You See a Guard Approach
-1 Drown in the Loch
-1 Shipwreck Marsh
 1 Swamp
+1 Shipwreck Marsh
+1 Drown in the Loch
 1 Hateful Eidolon
 2 You See a Guard Approach
-2 Hateful Eidolon
 2 Shipwreck Marsh
+2 Hateful Eidolon
 2 Drown in the Loch
 3 Spectral Adversary
 3 Drown in the Loch
@@ -113,15 +114,14 @@
 4 Drown in the Loch
 4 Hateful Eidolon
 3 Breeding Pool
-3 Barkchannel Pathway
 4 Breeding Pool
-1 Urborg, Tomb of Yawgmoth
 1 Hive of the Eye Tyrant
+1 Urborg, Tomb of Yawgmoth
 1 Fatal Push
 1 Lantern Bearer
+2 Fatal Push
 2 Lantern Bearer
 2 Hive of the Eye Tyrant
-2 Fatal Push
 3 Fatal Push
 3 Lantern Bearer
 4 Lantern Bearer

@@ -1,30 +1,27 @@
-2 Professor Onyx
-1 Binding the Old Gods
-2 Binding the Old Gods
-1 Darkbore Pathway
+2 Darkbore Pathway
+1 Woodland Chasm
 1 Esika's Chariot
 2 Esika's Chariot
 3 Esika's Chariot
 1 Wrenn and Seven
 2 Wrenn and Seven
-2 Darkbore Pathway
 3 Darkbore Pathway
-1 Woodland Chasm
 4 Darkbore Pathway
 1 Deathcap Glade
+3 Binding the Old Gods
 2 Deathcap Glade
 3 Deathcap Glade
 3 Wrenn and Seven
-3 Binding the Old Gods
 4 Deathcap Glade
-1 Lair of the Hydra
-4 Esika's Chariot
-1 Storm the Festival
-2 Storm the Festival
 1 Prosperous Innkeeper
 2 Prosperous Innkeeper
 3 Prosperous Innkeeper
 4 Binding the Old Gods
+1 Lair of the Hydra
+1 Storm the Festival
+2 Storm the Festival
+4 Esika's Chariot
+4 Prosperous Innkeeper
 1 Tangled Florahedron
 2 Tangled Florahedron
 3 Tangled Florahedron
@@ -37,36 +34,41 @@
 4 Swamp
 4 Wrenn and Seven
 3 Storm the Festival
-4 Prosperous Innkeeper
 2 Lair of the Hydra
 1 Briarbridge Tracker
-3 Forest
-4 Forest
-1 Power Word Kill
-1 Augur of Autumn
-2 Power Word Kill
-2 Augur of Autumn
-4 The Meathook Massacre
-5 Swamp
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 4 Snow-Covered Forest
 5 Snow-Covered Forest
+1 Power Word Kill
+1 Augur of Autumn
+2 Power Word Kill
+2 Augur of Autumn
+3 Forest
+4 Forest
+5 Swamp
 1 Primal Adversary
 3 Lair of the Hydra
 3 Augur of Autumn
+1 Duress
+2 Duress
+3 Duress
+2 Professor Onyx
 2 Briarbridge Tracker
+2 Woodland Chasm
 3 Skullport Merchant
 4 Lolth, Spider Queen
 1 Eaten Alive
 2 Eaten Alive
 16 Snow-Covered Swamp
-2 Woodland Chasm
-3 Infernal Grasp
-5 Forest
+4 The Meathook Massacre
 1 Bloodchief's Thirst
 1 Skeletal Swarming
+3 Infernal Grasp
+5 Forest
+2 Bloodchief's Thirst
+6 Snow-Covered Forest
 2 Hagra Mauling
 3 Eaten Alive
 4 Eaten Alive
@@ -74,11 +76,10 @@
 1 Valki, God of Lies
 1 Fell Stinger
 2 Fell Stinger
-6 Forest
 6 Swamp
-2 Bloodchief's Thirst
+6 Forest
+2 Skeletal Swarming
 1 Kazandu Mammoth
-6 Snow-Covered Forest
 1 Pelakka Predation
 2 Pelakka Predation
 1 Skyclave Shade
@@ -96,10 +97,12 @@
 7 Swamp
 7 Forest
 1 Culling Ritual
-1 Hero's Downfall
 1 Shadows' Verdict
 2 Shadows' Verdict
-2 Skeletal Swarming
+3 Skeletal Swarming
+3 Bloodchief's Thirst
+4 Bloodchief's Thirst
+1 Hero's Downfall
 2 Kazandu Mammoth
 3 Kazandu Mammoth
 1 Ranger Class
@@ -115,19 +118,19 @@
 1 Baleful Mastery
 1 Glorious Sunrise
 2 Culling Ritual
-2 Inscription of Ruin
 2 Glorious Sunrise
+2 Inscription of Ruin
 1 Lotus Cobra
 1 Bala Ged Recovery
 1 Path of Peril
 2 Path of Peril
 2 Go Blank
+1 The World Tree
 1 Check for Traps
 1 Malakir Rebirth
 1 Voldaren Bloodcaster
 1 Parasitic Grasp
 1 Flunk
-1 The World Tree
 1 Pointed Discussion
 2 Voldaren Bloodcaster
 3 Briarbridge Tracker
@@ -139,6 +142,14 @@
 3 Valki, God of Lies
 3 Sedgemoor Witch
 3 Power Word Kill
+1 The Celestus
+1 Necroblossom Snarl
+1 Cemetery Prowler
+2 Necroblossom Snarl
+2 Cemetery Prowler
+3 Necroblossom Snarl
+4 Infernal Grasp
+4 Kazandu Mammoth
 1 Warlock Class
 1 Vorpal Sword
 1 Maskwood Nexus
@@ -146,19 +157,18 @@
 2 Vorpal Sword
 3 Field of Ruin
 3 Warlock Class
-3 Skeletal Swarming
 4 Warlock Class
 4 Skeletal Swarming
-1 The Celestus
-1 Necroblossom Snarl
-1 Cemetery Prowler
-2 Necroblossom Snarl
-2 Cemetery Prowler
-3 Bloodchief's Thirst
-3 Necroblossom Snarl
-4 Infernal Grasp
-4 Kazandu Mammoth
-4 Bloodchief's Thirst
+1 Agadeem's Awakening
+1 Morbid Opportunist
+1 Village Rites
+2 Agadeem's Awakening
+2 Morbid Opportunist
+2 Village Rites
+3 Hunt for Specimens
+3 Morbid Opportunist
+3 Village Rites
+4 Village Rites
 1 Emergent Sequence
 1 Neverwinter Dryad
 2 Emergent Sequence

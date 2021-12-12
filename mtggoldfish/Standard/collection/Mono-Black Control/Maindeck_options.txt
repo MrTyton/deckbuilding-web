@@ -41,9 +41,9 @@
 1 Inscription of Ruin
 1 Flunk
 1 Eyetwitch
+2 Inscription of Ruin
 2 Flunk
 2 Eyetwitch
-2 Inscription of Ruin
 3 Flunk
 3 Inscription of Ruin
 3 Eyetwitch
@@ -96,8 +96,8 @@
 1 Skull Raid
 2 Skull Raid
 2 Devour Intellect
-3 Bloodchief's Thirst
 3 Westgate Regent
+3 Bloodchief's Thirst
 3 Devour Intellect
 4 Bloodchief's Thirst
 4 Soul Shatter
@@ -128,7 +128,6 @@
 4 Dungeon Crawler
 4 Ebondeath, Dracolich
 4 Champion of the Perished
-4 Valki, God of Lies
 1 Forest
 1 Swamp
 1 Darkbore Pathway
@@ -145,18 +144,19 @@
 2 Pestilent Cauldron
 2 Cosmos Elixir
 2 Witherbloom Campus
-3 Swamp
 3 Darkbore Pathway
 3 Witherbloom Campus
 3 Pestilent Cauldron
 3 Mind Drain
+3 Swamp
 3 Cosmos Elixir
-4 Swamp
 4 Darkbore Pathway
 4 Cosmos Elixir
+4 Swamp
 4 Mind Drain
 5 Swamp
 6 Swamp
 7 Swamp
 8 Swamp
 9 Swamp
+4 Valki, God of Lies

@@ -22,11 +22,11 @@
 1 Agadeem's Awakening
 1 Callous Bloodmage
 1 Emeria's Call
+2 Agadeem's Awakening
 2 Callous Bloodmage
 2 Emeria's Call
-2 Agadeem's Awakening
-3 Emeria's Call
 3 Agadeem's Awakening
+3 Emeria's Call
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
@@ -128,9 +128,9 @@
 1 Snow-Covered Swamp
 4 Vindicate
 4 Fatal Push
-1 Verdant Catacombs
-1 Overgrown Tomb
 1 Monastery Mentor
+1 Overgrown Tomb
+1 Verdant Catacombs
 1 Liliana, the Last Hope
 1 Caves of Koilos
 1 Shattered Sanctum
@@ -139,13 +139,14 @@
 2 Kambal, Consul of Allocation
 2 Sanctifier en-Vec
 1 Sedgemoor Witch
-2 Cling to Dust
 2 Sedgemoor Witch
+2 Cling to Dust
 3 Sedgemoor Witch
 1 Grave Titan
 1 Sword of Body and Mind
 3 Priest of Fell Rites
 4 Priest of Fell Rites
+4 Swamp
 1 Wasteland Strangler
 3 Tidehollow Sculler
 4 Tidehollow Sculler
@@ -159,15 +160,14 @@
 3 Lingering Souls
 3 Smallpox
 3 Flagstones of Trokair
-4 Lingering Souls
 4 Smallpox
+4 Lingering Souls
 4 Flagstones of Trokair
-1 Windswept Heath
-1 Arid Mesa
 1 Steelshaper's Gift
 1 Flooded Strand
+1 Windswept Heath
+1 Arid Mesa
 4 Springleaf Drum
 4 Dark Confidant
 4 Inkmoth Nexus
 5 Plains
-4 Swamp

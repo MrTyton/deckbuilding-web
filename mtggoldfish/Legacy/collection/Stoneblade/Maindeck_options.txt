@@ -1,62 +1,44 @@
-2 Lightning Bolt
-1 Narset, Parter of Veils
+2 Polluted Delta
+4 Scalding Tarn
+2 Daze
+3 Tundra
+2 Snapcaster Mage
 1 Wasteland
 2 Plains
-4 Scalding Tarn
 2 True-Name Nemesis
+1 Spell Pierce
+2 Lightning Bolt
 1 Murktide Regent
 2 Wasteland
-3 Volcanic Island
-2 Snapcaster Mage
-1 Underground Sea
-2 Polluted Delta
-1 Spell Pierce
 2 Murktide Regent
+3 Volcanic Island
+2 Force of Negation
 3 Island
 3 Daze
-4 Daze
-4 Island
-1 Plateau
-3 Murktide Regent
-1 Arid Mesa
-2 Arid Mesa
-3 Wasteland
-2 Force of Negation
-1 Delver of Secrets
-2 Delver of Secrets
-3 Delver of Secrets
-4 Delver of Secrets
-1 Scrubland
-3 Polluted Delta
 1 Snow-Covered Island
-1 Baleful Strix
-2 Baleful Strix
-3 Baleful Strix
-1 Expressive Iteration
+3 Polluted Delta
+4 Island
 1 Back to Basics
 2 Back to Basics
 3 Snapcaster Mage
-1 Snow-Covered Plains
+1 Scrubland
 2 Snow-Covered Island
-3 Lightning Bolt
-4 Wasteland
-4 Prismatic Ending
-1 Swamp
-2 Expressive Iteration
-3 Prismatic Vista
-4 Prismatic Vista
-1 Snow-Covered Mountain
-3 Snow-Covered Island
-2 Underground Sea
+1 Snow-Covered Plains
 4 Polluted Delta
+2 Underground Sea
+1 Urza's Saga
+1 Retrofitter Foundry
+2 Urza's Saga
+3 Urza's Saga
+4 Urza's Saga
 1 Thassa's Oracle
 1 Cabal Therapy
-1 Cavern of Souls
-1 Dread Return
-1 Aether Vial
 1 Nomads en-Kor
+1 Aether Vial
 1 Narcomoeba
+1 Cavern of Souls
 1 Shuko
+1 Dread Return
 1 Cephalid Illusionist
 2 Cabal Therapy
 2 Cephalid Illusionist
@@ -67,32 +49,52 @@
 3 Narcomoeba
 3 Aether Vial
 4 Cephalid Illusionist
-1 Urza's Saga
-1 Retrofitter Foundry
-2 Urza's Saga
-3 Urza's Saga
-4 Urza's Saga
-3 Arid Mesa
-1 Supreme Verdict
+1 Baleful Strix
+2 Baleful Strix
+3 Baleful Strix
+1 Expressive Iteration
+3 Murktide Regent
+4 Daze
+3 Wasteland
+3 Prismatic Vista
+4 Prismatic Vista
+1 Snow-Covered Mountain
+3 Snow-Covered Island
+4 Prismatic Ending
+1 Plateau
+1 Arid Mesa
+2 Arid Mesa
+1 Swamp
+2 Expressive Iteration
 2 Cavern of Souls
+4 Snow-Covered Island
+5 Snow-Covered Island
+1 Supreme Verdict
 1 Mother of Runes
 2 Mother of Runes
 3 Mother of Runes
 3 Nomads en-Kor
+1 Delver of Secrets
+2 Delver of Secrets
+3 Delver of Secrets
+4 Delver of Secrets
 1 Counterspell
-2 Spell Pierce
+2 Snow-Covered Plains
+4 Wasteland
+6 Snow-Covered Island
 5 Island
 1 Dress Down
-4 Snow-Covered Island
-5 Snow-Covered Island
-1 Misty Rainforest
+1 Sword of Fire and Ice
+1 Shadowspear
 3 Expressive Iteration
 1 Drown in the Loch
+2 Spell Pierce
 2 Dress Down
-4 Nomads en-Kor
+1 Counterbalance
+3 Jace, the Mind Sculptor
+3 Lightning Bolt
 1 Relic of Progenitus
 1 Pyroblast
-2 Snow-Covered Plains
 1 Deceiver Exarch
 1 Splinter Twin
 1 Pestermite
@@ -103,11 +105,9 @@
 2 Thoughtseize
 3 Underground Sea
 4 Baleful Strix
-6 Snow-Covered Island
+1 Misty Rainforest
 2 Misty Rainforest
-1 Sword of Fire and Ice
 1 Solitude
-1 Shadowspear
 1 Soul-Guide Lantern
 1 Chrome Mox
 2 Narset, Parter of Veils
@@ -118,27 +118,28 @@
 1 Shark Typhoon
 1 Recruiter of the Guard
 2 Recruiter of the Guard
-1 Flusterstorm
-2 Flusterstorm
 1 Engineered Explosives
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-1 Counterbalance
-3 Jace, the Mind Sculptor
 1 Plague Engineer
 1 Cemetery Illuminator
 2 Cemetery Illuminator
 3 Cemetery Illuminator
+3 Arid Mesa
 3 Thoughtseize
 3 Deceiver Exarch
 2 Pestermite
 3 Pestermite
-1 Venser, Shaper Savant
 1 Academy Ruins
-1 Raugrin Triome
 1 Vendilion Clique
+1 Venser, Shaper Savant
+1 Raugrin Triome
 3 Force of Negation
 4 Snapcaster Mage
+1 Esper Sentinel
+2 Esper Sentinel
+3 Esper Sentinel
+4 Esper Sentinel
 1 Tropical Island
 1 Snow-Covered Forest
 1 Ice-Fang Coatl
@@ -156,7 +157,7 @@
 3 Ice-Fang Coatl
 4 Misty Rainforest
 4 Ice-Fang Coatl
-4 Aether Vial
-6 Island
+4 Nomads en-Kor
 1 Marsh Flats
 4 Tundra
+6 Island

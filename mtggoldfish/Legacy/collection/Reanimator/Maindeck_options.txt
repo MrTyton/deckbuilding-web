@@ -1,8 +1,8 @@
 3 Swamp
 3 Grief
-4 Grief
 3 Verdant Catacombs
 4 Verdant Catacombs
+4 Grief
 4 Swamp
 5 Swamp
 3 Thoughtseize
@@ -12,8 +12,8 @@
 9 Swamp
 4 Thoughtseize
 10 Swamp
-1 Tendrils of Agony
-1 Children of Korlis
+1 Snow-Covered Swamp
+2 Snow-Covered Swamp
 3 Badlands
 1 Bayou
 1 Cabal Therapy
@@ -28,8 +28,6 @@
 3 Dance of the Dead
 3 Piranha Marsh
 4 Dance of the Dead
-1 Snow-Covered Swamp
-2 Snow-Covered Swamp
 1 Collective Brutality
 2 Collective Brutality
 1 Chrome Mox
@@ -37,6 +35,8 @@
 12 Swamp
 13 Swamp
 14 Swamp
+1 Tendrils of Agony
+1 Children of Korlis
 1 Careful Study
 2 Underground Sea
 2 Careful Study
@@ -89,8 +89,8 @@
 3 Urza's Saga
 3 Chrome Mox
 4 Malakir Rebirth
-4 Snow-Covered Swamp
 4 Unmarked Grave
+4 Snow-Covered Swamp
 4 Urza's Saga
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
