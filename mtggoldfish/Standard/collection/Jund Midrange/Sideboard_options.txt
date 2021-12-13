@@ -1,17 +1,13 @@
 2 Snakeskin Veil
-1 The Meathook Massacre
 1 Power Word Kill
-2 The Meathook Massacre
 1 Check for Traps
-1 Shadows' Verdict
+1 The Meathook Massacre
+2 The Meathook Massacre
 2 Power Word Kill
-2 Shadows' Verdict
+1 Shadows' Verdict
 3 Power Word Kill
-1 Bloodchief's Thirst
-2 Bloodchief's Thirst
-2 Graveyard Trespasser
-1 Lolth, Spider Queen
 2 Check for Traps
+2 Graveyard Trespasser
 1 Immersturm Predator
 1 Crush the Weak
 1 Kessig Naturalist
@@ -19,6 +15,13 @@
 2 Kessig Naturalist
 3 Crush the Weak
 3 The Meathook Massacre
+2 Shadows' Verdict
+1 Bloodchief's Thirst
+2 Bloodchief's Thirst
+1 Lolth, Spider Queen
+1 Thundering Rebuke
+1 Baleful Mastery
+2 Baleful Mastery
 4 Burning Hands
 2 Lolth, Spider Queen
 1 Culling Ritual
@@ -28,7 +31,7 @@
 4 Go Blank
 3 Snakeskin Veil
 1 Soul Shatter
-1 Thundering Rebuke
+1 Inscription of Ruin
 1 Tainted Adversary
 1 Reckless Stormseeker
 2 Tainted Adversary
@@ -36,22 +39,19 @@
 2 Culling Ritual
 1 Path of Peril
 2 Path of Peril
-1 Baleful Mastery
-2 Baleful Mastery
-1 Tangletrap
-2 Tangletrap
-1 Wrenn and Seven
-1 Ulvenwald Oddity
-2 Wrenn and Seven
-2 Ulvenwald Oddity
-3 Cinderclasm
+3 Graveyard Trespasser
 1 Valki, God of Lies
 1 Broken Wings
 1 Blood on the Snow
 2 Valki, God of Lies
 3 Shadows' Verdict
-1 Pithing Needle
+1 Wrenn and Seven
+1 Ulvenwald Oddity
+2 Wrenn and Seven
+2 Ulvenwald Oddity
+3 Cinderclasm
 1 Abrade
+1 Pithing Needle
 2 Pithing Needle
 3 Pithing Needle
 1 Bloodthirsty Adversary
@@ -61,4 +61,5 @@
 4 Power Word Kill
 1 Sorin the Mirthless
 4 Check for Traps
-3 Graveyard Trespasser
+1 Tangletrap
+2 Tangletrap

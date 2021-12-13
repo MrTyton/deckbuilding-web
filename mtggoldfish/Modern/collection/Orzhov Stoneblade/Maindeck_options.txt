@@ -19,19 +19,18 @@
 2 Persist
 3 Persist
 4 Concealed Courtyard
+1 Emeria's Call
 1 Agadeem's Awakening
 1 Callous Bloodmage
-1 Emeria's Call
+2 Emeria's Call
 2 Agadeem's Awakening
 2 Callous Bloodmage
-2 Emeria's Call
 3 Agadeem's Awakening
 3 Emeria's Call
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
 1 Shadowspear
-1 Urza's Saga
 1 Colossus Hammer
 1 Springleaf Drum
 1 Inkmoth Nexus
@@ -39,26 +38,27 @@
 1 Sigarda's Aid
 1 Memnite
 1 Ornithopter
-2 Urza's Saga
+1 Urza's Saga
 2 Springleaf Drum
 2 Ornithopter
 2 Inkmoth Nexus
 2 Sigarda's Aid
 2 Memnite
 2 Colossus Hammer
+2 Urza's Saga
 2 Puresteel Paladin
 3 Springleaf Drum
-3 Urza's Saga
 3 Puresteel Paladin
 3 Sigarda's Aid
+3 Urza's Saga
 3 Memnite
 3 Ornithopter
 3 Colossus Hammer
 3 Inkmoth Nexus
-4 Urza's Saga
 4 Sigarda's Aid
 4 Ornithopter
 4 Esper Sentinel
+4 Urza's Saga
 4 Colossus Hammer
 4 Puresteel Paladin
 1 Liliana of the Veil
@@ -107,9 +107,9 @@
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
 1 Fetid Heath
-1 Serra's Emissary
 1 Priest of Fell Rites
 1 Cave of the Frost Dragon
+1 Serra's Emissary
 1 Archon of Cruelty
 1 Unmarked Grave
 2 Priest of Fell Rites
@@ -128,9 +128,9 @@
 1 Snow-Covered Swamp
 4 Vindicate
 4 Fatal Push
-1 Monastery Mentor
-1 Overgrown Tomb
 1 Verdant Catacombs
+1 Overgrown Tomb
+1 Monastery Mentor
 1 Liliana, the Last Hope
 1 Caves of Koilos
 1 Shattered Sanctum
@@ -139,35 +139,35 @@
 2 Kambal, Consul of Allocation
 2 Sanctifier en-Vec
 1 Sedgemoor Witch
-2 Sedgemoor Witch
 2 Cling to Dust
+2 Sedgemoor Witch
 3 Sedgemoor Witch
-1 Grave Titan
-1 Sword of Body and Mind
-3 Priest of Fell Rites
-4 Priest of Fell Rites
 4 Swamp
 1 Wasteland Strangler
 3 Tidehollow Sculler
 4 Tidehollow Sculler
-1 Smallpox
+1 Grave Titan
+1 Sword of Body and Mind
+3 Priest of Fell Rites
+4 Priest of Fell Rites
 1 Flagstones of Trokair
+1 Smallpox
 1 Lingering Souls
-2 Snow-Covered Swamp
 2 Lingering Souls
-2 Smallpox
+2 Snow-Covered Swamp
 2 Flagstones of Trokair
-3 Lingering Souls
-3 Smallpox
+2 Smallpox
 3 Flagstones of Trokair
-4 Smallpox
-4 Lingering Souls
+3 Smallpox
+3 Lingering Souls
 4 Flagstones of Trokair
+4 Lingering Souls
+4 Smallpox
+5 Plains
+1 Arid Mesa
 1 Steelshaper's Gift
 1 Flooded Strand
 1 Windswept Heath
-1 Arid Mesa
 4 Springleaf Drum
 4 Dark Confidant
 4 Inkmoth Nexus
-5 Plains

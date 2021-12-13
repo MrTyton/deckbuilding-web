@@ -1,10 +1,10 @@
-4 Branchloft Pathway
-2 Temple Garden
-3 Spectral Sailor
 3 Selfless Spirit
+1 Plains
 4 Botanical Sanctum
-4 Shacklegeist
+3 Spectral Sailor
+2 Temple Garden
 1 Lofty Denial
+4 Shacklegeist
 3 Island
 4 Island
 5 Island
@@ -49,6 +49,7 @@
 14 Snow-Covered Island
 15 Snow-Covered Island
 16 Snow-Covered Island
+1 Katilda, Dawnhart Martyr
 1 Faceless Haven
 2 Faceless Haven
 3 Faceless Haven
@@ -66,10 +67,10 @@
 2 Cave of the Frost Dragon
 4 Selfless Spirit
 4 Glacial Fortress
-1 Katilda, Dawnhart Martyr
 3 Patrician Geist
 1 Spectral Adversary
 2 Spectral Adversary
+3 Skyclave Apparition
 3 Nebelgast Herald
 8 Island
 1 Cemetery Illuminator
@@ -79,16 +80,16 @@
 1 Castle Vantress
 1 Mutavault
 1 Drowned Catacomb
-1 Watery Grave
 1 Clearwater Pathway
+1 Watery Grave
 2 Drowned Catacomb
 2 Watery Grave
 2 Clearwater Pathway
 3 Drowned Catacomb
-3 Watery Grave
 3 Clearwater Pathway
-4 Clearwater Pathway
+3 Watery Grave
 4 Watery Grave
+4 Clearwater Pathway
 1 Valorous Stance
 1 Essence Capture
 2 Castle Vantress
@@ -96,7 +97,6 @@
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
-3 Skyclave Apparition
 1 You See a Guard Approach
 1 Swamp
 1 Shipwreck Marsh
@@ -104,8 +104,8 @@
 1 Hateful Eidolon
 2 You See a Guard Approach
 2 Shipwreck Marsh
-2 Hateful Eidolon
 2 Drown in the Loch
+2 Hateful Eidolon
 3 Spectral Adversary
 3 Drown in the Loch
 3 Hateful Eidolon
@@ -116,17 +116,17 @@
 3 Breeding Pool
 4 Breeding Pool
 1 Hive of the Eye Tyrant
-1 Urborg, Tomb of Yawgmoth
 1 Fatal Push
 1 Lantern Bearer
+1 Urborg, Tomb of Yawgmoth
+2 Hive of the Eye Tyrant
 2 Fatal Push
 2 Lantern Bearer
-2 Hive of the Eye Tyrant
 3 Fatal Push
 3 Lantern Bearer
 4 Lantern Bearer
-1 Spell Pierce
 1 Unsubstantiate
+1 Spell Pierce
 1 Suspicious Stowaway
 2 Spell Pierce
 2 Unsubstantiate
@@ -138,10 +138,10 @@
 3 Mutavault
 4 Suspicious Stowaway
 4 Mutavault
-1 Gilded Goose
 1 Dreamroot Cascade
-2 Gilded Goose
+1 Gilded Goose
 2 Dreamroot Cascade
+2 Gilded Goose
 3 Dreamroot Cascade
 3 Gilded Goose
 4 Dreamroot Cascade
