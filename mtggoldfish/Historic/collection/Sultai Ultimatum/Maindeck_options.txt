@@ -1,7 +1,7 @@
-1 Liliana, Dreadhorde General
 1 Watery Grave
-1 Barkchannel Pathway
+1 Liliana, Dreadhorde General
 1 Darkbore Pathway
+1 Barkchannel Pathway
 1 Omniscience
 1 Sublime Epiphany
 1 Scholar of the Lost Trove
@@ -17,19 +17,19 @@
 2 Omen of the Sea
 3 Omen of the Sea
 4 Omen of the Sea
-2 Thoughtseize
 2 Watery Grave
+2 Thoughtseize
 3 Watery Grave
 3 Alrund's Epiphany
 1 Professor Onyx
 1 Kiora Bests the Sea God
 1 Clearwater Pathway
-2 Barkchannel Pathway
 2 Darkbore Pathway
+2 Barkchannel Pathway
 2 Clearwater Pathway
 3 Barkchannel Pathway
-3 Clearwater Pathway
 3 Darkbore Pathway
+3 Clearwater Pathway
 4 Barkchannel Pathway
 4 Darkbore Pathway
 1 Temple of Malady
@@ -37,13 +37,31 @@
 1 Wolfwillow Haven
 2 Wolfwillow Haven
 3 Wolfwillow Haven
+1 The Meathook Massacre
+1 Shipwreck Marsh
+1 Hinterland Harbor
+1 Aether Gust
+1 Heartless Act
+1 Cling to Dust
+2 Shipwreck Marsh
+2 The Meathook Massacre
+2 Woodland Cemetery
+2 Heartless Act
+2 Hinterland Harbor
+3 Hinterland Harbor
+3 Shipwreck Marsh
+3 Woodland Cemetery
+3 The Meathook Massacre
+4 Woodland Cemetery
+4 Watery Grave
+4 Fatal Push
+1 Temple of Mystery
 1 Temple of Deceit
 1 Power Word Kill
 1 Hydroid Krasis
 1 Eliminate
 1 Migration Path
 1 Polukranos, Unchained
-1 Temple of Mystery
 2 Power Word Kill
 2 Castle Locthwain
 2 Eliminate
@@ -57,30 +75,13 @@
 3 Eliminate
 4 Clearwater Pathway
 4 Wolfwillow Haven
-1 The Meathook Massacre
-1 Shipwreck Marsh
-1 Hinterland Harbor
-1 Aether Gust
-1 Heartless Act
-1 Cling to Dust
-2 Hinterland Harbor
-2 Shipwreck Marsh
-2 The Meathook Massacre
-2 Woodland Cemetery
-2 Heartless Act
-3 Hinterland Harbor
-3 Shipwreck Marsh
-3 Woodland Cemetery
-3 The Meathook Massacre
-4 Woodland Cemetery
-4 Fatal Push
-4 Watery Grave
 2 Fabled Passage
 1 Temple of Plenty
 1 Indatha Triome
-1 Emeria's Call
 1 Godless Shrine
+1 Emeria's Call
 1 Elspeth Conquers Death
+1 Banishing Light
 1 Omen of the Sun
 1 Bojuka Bog
 1 Brightclimb Pathway
@@ -97,7 +98,6 @@
 1 Branchloft Pathway
 1 Archon of Sun's Grace
 1 Sterling Grove
-1 Banishing Light
 1 Sigil of the Empty Throne
 1 Shark Typhoon
 1 Cast Out
@@ -107,6 +107,7 @@
 1 The Birth of Meletis
 1 Felidar Retreat
 1 Unbridled Growth
+2 The Birth of Meletis
 2 Omen of the Sun
 2 Oath of Kaya
 2 Sythis, Harvest's Hand
@@ -115,15 +116,14 @@
 2 Sanctum Weaver
 2 Bojuka Bog
 2 Elspeth's Nightmare
-2 The Birth of Meletis
 2 Sterling Grove
 2 Cast Out
 2 Castle Ardenvale
 2 Unbridled Growth
 2 Archon of Sun's Grace
 2 Plains
-3 Omen of the Sun
 3 The Birth of Meletis
+3 Omen of the Sun
 3 Plains
 3 Destiny Spinner
 3 Elspeth's Nightmare

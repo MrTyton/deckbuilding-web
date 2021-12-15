@@ -17,8 +17,8 @@
 4 Territorial Kavu
 4 Wall of Omens
 1 Snow-Covered Island
-1 Snow-Covered Forest
 1 Snow-Covered Plains
+1 Snow-Covered Forest
 1 Snow-Covered Mountain
 2 Snow-Covered Forest
 1 Expressive Iteration
@@ -28,10 +28,10 @@
 4 Fury
 1 Arid Mesa
 4 Flooded Strand
+1 Explore
 1 Lair of the Hydra
 1 Raging Ravine
 1 Storm the Festival
-1 Explore
 1 Fires of Invention
 1 Coalition Relic
 2 Explore
@@ -86,16 +86,16 @@
 2 Forest
 1 Eldritch Evolution
 2 Eldritch Evolution
-1 Waterlogged Grove
 1 Emrakul, the Aeons Torn
 1 Prismari Command
 1 Fiery Islet
 1 Lukka, Coppercoat Outcast
 1 Progenitus
+1 Waterlogged Grove
 2 Prismari Command
 2 Lukka, Coppercoat Outcast
-3 Lukka, Coppercoat Outcast
 3 Prismari Command
+3 Lukka, Coppercoat Outcast
 4 Lukka, Coppercoat Outcast
 2 Stomping Ground
 1 Renegade Rallier
@@ -105,20 +105,20 @@
 2 Hallowed Fountain
 1 Sulfur Falls
 1 Glacial Fortress
+1 Serum Visions
 1 Path to Exile
 1 Spell Pierce
-1 Serum Visions
 1 Remand
 1 Snapcaster Mage
 2 Lightning Bolt
-2 Scalding Tarn
 2 Steam Vents
-2 Path to Exile
 2 Snapcaster Mage
-2 Remand
 2 Serum Visions
-3 Scalding Tarn
+2 Path to Exile
+2 Remand
+2 Scalding Tarn
 3 Lightning Bolt
+3 Scalding Tarn
 3 Remand
 4 Scalding Tarn
 1 Volatile Fjord
@@ -139,8 +139,8 @@
 4 Imperial Recruiter
 1 Lightning Helix
 1 General Ferrous Rokiric
-2 Lightning Helix
 2 Snow-Covered Island
+2 Lightning Helix
 2 Snow-Covered Mountain
 2 General Ferrous Rokiric
 3 Lightning Helix
@@ -163,25 +163,25 @@
 1 Izzet Charm
 2 Opt
 2 Counterspell
-3 Counterspell
 3 Opt
-3 Path to Exile
 3 Snapcaster Mage
-4 Counterspell
+3 Path to Exile
+3 Counterspell
 4 Opt
 4 Remand
 4 Path to Exile
-1 Batterskull
-1 Flametongue Yearling
+4 Counterspell
 1 Sword of Fire and Ice
+1 Flametongue Yearling
+1 Batterskull
 1 Inspiring Vantage
 1 Kaldra Compleat
 1 Stoneforge Mystic
-2 Sacred Foundry
 2 Inspiring Vantage
-2 Flametongue Yearling
-2 Stoneforge Mystic
 2 Plains
+2 Flametongue Yearling
+2 Sacred Foundry
+2 Stoneforge Mystic
 3 Plains
 3 Stoneforge Mystic
 4 Ragavan, Nimble Pilferer

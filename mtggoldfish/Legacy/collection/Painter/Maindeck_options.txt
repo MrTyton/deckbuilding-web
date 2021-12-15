@@ -1,22 +1,22 @@
-3 Great Furnace
-2 Plateau
 3 Imperial Recruiter
+1 Retrofitter Foundry
+3 Great Furnace
 4 Lightning Bolt
-2 Mox Opal
 1 Enlightened Tutor
-8 Mountain
-3 Karn, the Great Creator
-4 Great Furnace
-3 Mox Opal
-4 Grindstone
 1 Wooded Foothills
 1 Blood Moon
 1 Goblin Cratermaker
 4 Imperial Recruiter
 1 Bloodstained Mire
 2 Bloodstained Mire
-1 Smuggler's Copter
 2 Wooded Foothills
+1 Smuggler's Copter
+2 Mox Opal
+8 Mountain
+3 Karn, the Great Creator
+4 Great Furnace
+3 Mox Opal
+4 Grindstone
 9 Mountain
 1 Ichor Wellspring
 2 Simian Spirit Guide
@@ -24,11 +24,11 @@
 1 Chromatic Star
 2 Chromatic Star
 2 Enlightened Tutor
+3 Chromatic Star
+4 Chromatic Star
 1 Urza's Bauble
 2 Urza's Bauble
 3 Urza's Bauble
-3 Chromatic Star
-4 Chromatic Star
 1 Breya's Apprentice
 1 Portable Hole
 1 Shadowspear
@@ -49,29 +49,11 @@
 1 Wurmcoil Engine
 2 Smuggler's Copter
 1 Wasteland
-1 Mishra's Bauble
-1 Force of Will
-2 Force of Will
-3 Force of Will
-4 Force of Will
-1 Island
-1 Seat of the Synod
-1 Thought Monitor
-2 Seat of the Synod
-2 Thought Monitor
-3 Thought Monitor
-3 Seat of the Synod
-4 Seat of the Synod
-4 Thought Monitor
 1 Esper Sentinel
 3 Plains
 1 Magus of the Moon
 3 Oswald Fiddlebender
 4 Karn, the Great Creator
-2 Lion's Eye Diamond
-3 Lion's Eye Diamond
-2 Mishra's Bauble
-3 Mishra's Bauble
 2 Esper Sentinel
 2 Ancient Den
 2 Ethersworn Canonist
@@ -85,19 +67,32 @@
 4 Plains
 5 Plains
 6 Plains
-4 Mox Opal
+1 Mishra's Bauble
 3 Simian Spirit Guide
+1 Force of Will
+2 Force of Will
+3 Force of Will
+4 Force of Will
+1 Island
+1 Seat of the Synod
+1 Thought Monitor
+2 Seat of the Synod
+2 Thought Monitor
+3 Thought Monitor
+3 Seat of the Synod
+4 Seat of the Synod
+4 Thought Monitor
 1 Baleful Strix
 1 Underground Sea
-1 Hydroblast
 1 Tezzeret, Agent of Bolas
+1 Hydroblast
 1 Polluted Delta
 1 Preordain
 2 Polluted Delta
 2 Baleful Strix
 2 Underground Sea
-2 Tezzeret, Agent of Bolas
 2 Hydroblast
+2 Tezzeret, Agent of Bolas
 2 Preordain
 3 Underground Sea
 3 Polluted Delta
@@ -110,17 +105,6 @@
 4 Hydroblast
 2 Breya's Apprentice
 2 Ensnaring Bridge
-1 Urza, Lord High Artificer
-1 Aether Spellbomb
-1 Sai, Master Thopterist
-1 Emry, Lurker of the Loch
-2 Island
-2 Emry, Lurker of the Loch
-3 Island
-3 Emry, Lurker of the Loch
-4 Island
-4 Mishra's Bauble
-4 Emry, Lurker of the Loch
 1 Ingenious Smith
 1 Phyrexian Revoker
 1 Mother of Runes
@@ -132,18 +116,31 @@
 4 Ingenious Smith
 4 Esper Sentinel
 10 Mountain
+2 Mishra's Bauble
+3 Mishra's Bauble
+2 Lion's Eye Diamond
+3 Lion's Eye Diamond
 2 Portable Hole
 1 Tangle Wire
+4 Mox Opal
 1 Tormod's Crypt
 3 Breya's Apprentice
 4 Breya's Apprentice
-1 Echo of Eons
-2 Urza, Lord High Artificer
-4 Urza's Bauble
+1 Urza, Lord High Artificer
+1 Aether Spellbomb
 1 Misdirection
+1 Sai, Master Thopterist
+1 Emry, Lurker of the Loch
 1 Thoughtcast
+2 Island
 2 Thoughtcast
+2 Emry, Lurker of the Loch
+3 Island
+3 Emry, Lurker of the Loch
 3 Thoughtcast
+4 Island
+4 Mishra's Bauble
+4 Emry, Lurker of the Loch
 4 Thoughtcast
 1 Snow-Covered Island
 1 Tarmogoyf
@@ -203,6 +200,14 @@
 1 Horizon Canopy
 2 Horizon Canopy
 4 Mother of Runes
+1 Flagstones of Trokair
+1 Expedition Map
+1 Timeless Dragon
+2 Timeless Dragon
+2 Flagstones of Trokair
+3 Portable Hole
+3 Timeless Dragon
+4 Portable Hole
 1 Blood Sun
 2 Blood Sun
 3 Blood Sun
@@ -224,20 +229,12 @@
 3 Plateau
 4 Dragon's Rage Channeler
 4 Plateau
-1 Flagstones of Trokair
-1 Expedition Map
-1 Timeless Dragon
-2 Timeless Dragon
-2 Flagstones of Trokair
-3 Portable Hole
-3 Timeless Dragon
-4 Portable Hole
-1 Ornithopter
 1 Badlands
 1 Wishclaw Talisman
 1 Nihil Spellbomb
-1 Auriok Salvagers
 1 Coveted Jewel
+1 Ornithopter
+1 Auriok Salvagers
 2 Badlands
 2 Wishclaw Talisman
 3 Bloodstained Mire
@@ -264,8 +261,8 @@
 2 Scroll of Fate
 3 Magus of the Moon
 3 Thespian's Stage
-3 Dark Depths
 3 Scroll of Fate
+3 Dark Depths
 4 Magus of the Moon
 4 Scroll of Fate
 11 Mountain

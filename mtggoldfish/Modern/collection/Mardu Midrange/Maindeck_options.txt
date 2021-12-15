@@ -1,15 +1,16 @@
-1 Unholy Heat
-2 Unholy Heat
-1 Tourach, Dread Cantor
-2 Tourach, Dread Cantor
+1 Sunbaked Canyon
+3 Kaya's Guile
+1 Terminate
+2 Terminate
+4 Prismatic Ending
+1 Silent Clearing
+1 Savai Triome
 1 Arid Mesa
 2 Arid Mesa
-1 Sunbaked Canyon
 1 Plains
-1 Silent Clearing
+3 Unholy Heat
 2 Godless Shrine
 3 Blood Crypt
-1 Savai Triome
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
@@ -23,7 +24,6 @@
 1 Kaldra Compleat
 1 Batterskull
 1 Graven Cairns
-3 Unholy Heat
 4 Stoneforge Mystic
 1 Damn
 1 Vindicate
@@ -55,24 +55,31 @@
 2 Mountain
 3 Kroxa, Titan of Death's Hunger
 3 Scourge of the Skyclaves
-1 Priest of Fell Rites
+1 Snow-Covered Swamp
+1 Snow-Covered Mountain
+1 Shizo, Death's Storehouse
+1 Snow-Covered Plains
+1 Inspiring Vantage
+3 Arid Mesa
+4 Unholy Heat
+1 Iona, Shield of Emeria
 1 Ashiok, Dream Render
 1 Unburial Rites
-1 Iona, Shield of Emeria
+1 Priest of Fell Rites
 1 Elesh Norn, Grand Cenobite
 1 Collective Brutality
 1 Archon of Cruelty
-2 Priest of Fell Rites
-2 Sacred Foundry
 2 Ashiok, Dream Render
 2 Archon of Cruelty
 2 Collective Brutality
+2 Priest of Fell Rites
+2 Sacred Foundry
 2 Shambling Vent
-3 Priest of Fell Rites
 3 Collective Brutality
+3 Priest of Fell Rites
 3 Ashiok, Dream Render
-4 Priest of Fell Rites
 4 Fatal Push
+4 Priest of Fell Rites
 1 Blightstep Pathway
 1 Sword of Feast and Famine
 1 Bonecrusher Giant
@@ -85,38 +92,31 @@
 3 Blightstep Pathway
 3 Knight of the Ebon Legion
 4 Knight of the Ebon Legion
-1 Portable Hole
-1 Fetid Heath
-1 Smallpox
 1 Flagstones of Trokair
+1 Expedition Map
 1 Pithing Needle
+1 Smallpox
 1 The Rack
 1 Nihil Spellbomb
+1 Portable Hole
+1 Fetid Heath
 1 Urza's Saga
-1 Expedition Map
-2 Portable Hole
+2 Flagstones of Trokair
 2 Urborg, Tomb of Yawgmoth
 2 Smallpox
-2 Flagstones of Trokair
 2 Urza's Saga
-3 Portable Hole
-3 Lingering Souls
-3 Smallpox
+2 Portable Hole
 3 Flagstones of Trokair
+3 Lingering Souls
 3 Vindicate
 3 Urza's Saga
+3 Portable Hole
+3 Smallpox
 3 Urborg, Tomb of Yawgmoth
-4 Portable Hole
-4 Smallpox
-4 Lingering Souls
 4 Flagstones of Trokair
+4 Lingering Souls
 4 Vindicate
+4 Smallpox
 4 Tourach, Dread Cantor
 4 Urza's Saga
-1 Snow-Covered Mountain
-1 Snow-Covered Plains
-1 Snow-Covered Swamp
-1 Shizo, Death's Storehouse
-1 Inspiring Vantage
-3 Arid Mesa
-4 Unholy Heat
+4 Portable Hole

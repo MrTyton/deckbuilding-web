@@ -1,19 +1,19 @@
+2 Once Upon a Time
+4 Sylvan Scrying
+2 Elvish Reclaimer
 1 Sylvan Safekeeper
 1 Abrupt Decay
+1 Nurturing Peatland
 1 Dark Confidant
 2 Dark Confidant
 3 Dark Confidant
 3 Elvish Reclaimer
 2 Abrupt Decay
-1 Once Upon a Time
-2 Once Upon a Time
-4 Elvish Reclaimer
-1 Nurturing Peatland
-2 Sylvan Safekeeper
-4 Sylvan Scrying
 4 Pithing Needle
-3 Abrupt Decay
+4 Elvish Reclaimer
 1 Yavimaya, Cradle of Growth
+2 Sylvan Safekeeper
+3 Abrupt Decay
 3 Once Upon a Time
 1 Sylvan Library
 4 Dark Confidant
@@ -35,6 +35,7 @@
 4 Gemstone Mine
 1 Stifle
 2 Stifle
+1 Urza's Saga
 3 Bayou
 2 Wasteland
 3 Inquisition of Kozilek
@@ -43,7 +44,6 @@
 2 Overgrown Tomb
 4 Not of This World
 2 Sylvan Library
-1 Urza's Saga
 1 Shadowspear
 2 Urza's Saga
 1 Entomb
@@ -61,14 +61,14 @@
 4 Dark Ritual
 1 Scrubland
 1 Bloodstained Mire
-1 Unburial Rites
 1 Children of Korlis
 1 Griselbrand
 1 Shallow Grave
+1 Unburial Rites
 1 Unmask
-1 Living Wish
 1 Polluted Delta
 1 Exhume
+1 Living Wish
 2 Entomb
 2 Griselbrand
 2 Unmask
@@ -103,8 +103,8 @@
 1 Fatal Push
 2 Fatal Push
 2 City of Brass
-1 Barren Moor
 1 Exploration
+1 Barren Moor
 2 Assassin's Trophy
 2 Exploration
 3 Stifle

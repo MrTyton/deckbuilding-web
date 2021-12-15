@@ -1,19 +1,26 @@
-3 Ephemerate
 13 Plains
-1 Restoration Angel
-2 Restoration Angel
+1 Mishra's Factory
 1 Castle Ardenvale
-1 Eiganjo Castle
-4 Ephemerate
+3 Cave of the Frost Dragon
 1 Shadowspear
 2 Mishra's Factory
 14 Plains
-1 Silent Clearing
 1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
 4 Urza's Saga
+1 Silent Clearing
+1 Restoration Angel
+2 Restoration Angel
+1 Eiganjo Castle
 3 Mishra's Factory
+15 Plains
+3 Tectonic Edge
+1 Ambitious Farmhand
+2 Ambitious Farmhand
+4 Mishra's Factory
+1 Timeless Dragon
+1 Sunbaked Canyon
 1 Sanctum Prelate
 1 Imperial Recruiter
 1 Inspiring Vantage
@@ -25,6 +32,7 @@
 3 Imperial Recruiter
 4 Inspiring Vantage
 3 Charming Prince
+1 Maul of the Skyclaves
 1 Arid Mesa
 1 Mountain
 2 Arid Mesa
@@ -33,32 +41,29 @@
 4 Imperial Recruiter
 1 Needleverge Pathway
 2 Needleverge Pathway
-1 Magus of the Moon
-1 Maul of the Skyclaves
-1 Ambitious Farmhand
-2 Ambitious Farmhand
 2 Horizon Canopy
-3 Tectonic Edge
-1 Sunbaked Canyon
-1 Timeless Dragon
-4 Mishra's Factory
-1 Snow-Covered Plains
-2 Snow-Covered Plains
-1 Kiki-Jiki, Mirror Breaker
-1 Windswept Heath
-1 Wall of Omens
-1 Felidar Guardian
-2 Windswept Heath
-2 Wall of Omens
-3 Windswept Heath
-3 Wall of Omens
-4 Windswept Heath
-4 Wall of Omens
-15 Plains
+1 Magus of the Moon
 3 Ambitious Farmhand
 4 Ambitious Farmhand
 4 Tectonic Edge
+1 Snow-Covered Plains
+2 Snow-Covered Plains
 4 Charming Prince
+1 Windswept Heath
+2 Windswept Heath
+3 Windswept Heath
+4 Windswept Heath
+1 Kiki-Jiki, Mirror Breaker
+1 Wall of Omens
+1 Felidar Guardian
+2 Wall of Omens
+3 Wall of Omens
+4 Wall of Omens
+16 Plains
+1 Brutal Cathar
+2 Silent Clearing
+2 Sunbaked Canyon
+3 Sacred Foundry
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
@@ -67,8 +72,8 @@
 8 Snow-Covered Plains
 3 Path to Exile
 3 Horizon Canopy
-1 Rugged Prairie
 1 Archangel Avacyn
+1 Rugged Prairie
 2 Rugged Prairie
 9 Snow-Covered Plains
 10 Snow-Covered Plains
@@ -77,41 +82,75 @@
 13 Snow-Covered Plains
 14 Snow-Covered Plains
 15 Snow-Covered Plains
-16 Plains
-1 Brutal Cathar
-2 Sunbaked Canyon
-2 Silent Clearing
-3 Restoration Angel
-3 Sacred Foundry
 1 Sanctifier en-Vec
 3 Needleverge Pathway
 4 Needleverge Pathway
 3 Silent Clearing
-4 Path to Exile
-1 Cathar Commando
-2 Cathar Commando
 1 Prismatic Ending
 2 Prismatic Ending
+3 Restoration Angel
+1 Cathar Commando
+2 Cathar Commando
 3 Prismatic Ending
 4 Prismatic Ending
+3 Cathar Commando
+1 Sword of Light and Shadow
 2 Brutal Cathar
 3 Brutal Cathar
 4 Brutal Cathar
-3 Cathar Commando
 1 Prismatic Vista
 1 Relic of Progenitus
 3 Sunbaked Canyon
 2 Sanctum Prelate
+4 Path to Exile
+1 Portable Hole
+1 Hallowed Fountain
+1 Selfless Spirit
+1 Deputy of Detention
+1 Mutavault
+1 Spell Queller
+1 Adarkar Wastes
+1 Spellstutter Sprite
+1 Seachrome Coast
+2 Adarkar Wastes
+2 Spellstutter Sprite
+2 Deputy of Detention
+2 Selfless Spirit
+2 Mutavault
+2 Hallowed Fountain
+2 Seachrome Coast
+2 Spell Queller
+3 Spell Queller
+3 Mutavault
+3 Adarkar Wastes
+3 Deputy of Detention
+3 Seachrome Coast
+3 Selfless Spirit
+3 Spellstutter Sprite
+3 Hallowed Fountain
+4 Spell Queller
+4 Hallowed Fountain
+4 Adarkar Wastes
+4 Spellstutter Sprite
+4 Deputy of Detention
+4 Selfless Spirit
+4 Seachrome Coast
 4 Horizon Canopy
 1 Razorverge Thicket
 2 Razorverge Thicket
-1 Portable Hole
+1 Noble Hierarch
+1 Temple Garden
+1 Forest
+2 Noble Hierarch
+2 Temple Garden
+3 Noble Hierarch
+3 Temple Garden
+4 Noble Hierarch
 1 Aven Mindcensor
-1 Sword of Light and Shadow
-1 Raugrin Triome
-1 Fury
 1 Leonin Relic-Warder
 1 Weathered Wayfarer
+1 Raugrin Triome
+1 Fury
 1 Phyrexian Metamorph
 1 Auriok Champion
 1 Sungold Sentinel
@@ -135,75 +174,53 @@
 3 Thraben Inspector
 4 Thraben Inspector
 1 Augur of Autumn
-1 Noble Hierarch
 1 Scavenging Ooze
-1 Temple Garden
+1 Brushland
 1 Branchloft Pathway
 1 Oath of Nissa
-1 Brushland
-1 Forest
 2 Augur of Autumn
-2 Noble Hierarch
 2 Forest
-2 Brushland
-2 Temple Garden
-2 Branchloft Pathway
 2 Oath of Nissa
 2 Scavenging Ooze
-3 Noble Hierarch
-3 Branchloft Pathway
+2 Brushland
+2 Branchloft Pathway
 3 Oath of Nissa
+3 Branchloft Pathway
 3 Brushland
-3 Temple Garden
 3 Razorverge Thicket
-4 Noble Hierarch
 4 Razorverge Thicket
 4 Temple Garden
 4 Oath of Nissa
 4 Brushland
 4 Branchloft Pathway
+17 Plains
+18 Plains
+19 Plains
 16 Snow-Covered Plains
 17 Snow-Covered Plains
 18 Snow-Covered Plains
 19 Snow-Covered Plains
-17 Plains
-18 Plains
-19 Plains
+1 Judge's Familiar
 2 Castle Ardenvale
 3 Sanctum Prelate
 2 Portable Hole
 3 Portable Hole
 4 Portable Hole
 4 Restoration Angel
-1 Hallowed Fountain
-1 Selfless Spirit
-1 Judge's Familiar
-1 Deputy of Detention
-1 Mutavault
-1 Spell Queller
-1 Spellstutter Sprite
-1 Seachrome Coast
-1 Adarkar Wastes
-2 Adarkar Wastes
-2 Spellstutter Sprite
-2 Deputy of Detention
-2 Selfless Spirit
-2 Mutavault
-2 Hallowed Fountain
-2 Seachrome Coast
-2 Spell Queller
-3 Deputy of Detention
-3 Spell Queller
-3 Mutavault
-3 Adarkar Wastes
-3 Seachrome Coast
-3 Selfless Spirit
-3 Spellstutter Sprite
-3 Hallowed Fountain
-4 Spell Queller
-4 Hallowed Fountain
-4 Adarkar Wastes
-4 Spellstutter Sprite
-4 Deputy of Detention
-4 Selfless Spirit
-4 Seachrome Coast
+1 Teferi, Time Raveler
+1 Tarmogoyf
+1 Soul-Guide Lantern
+1 Endurance
+1 Knight of the Reliquary
+1 Gavony Township
+1 Tireless Tracker
+1 Breeding Pool
+1 Spellskite
+1 Blast Zone
+1 Engineered Explosives
+2 Teferi, Time Raveler
+2 Tarmogoyf
+2 Knight of the Reliquary
+3 Knight of the Reliquary
+3 Tarmogoyf
+4 Knight of the Reliquary

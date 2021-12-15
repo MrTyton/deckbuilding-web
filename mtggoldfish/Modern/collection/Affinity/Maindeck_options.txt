@@ -1,22 +1,15 @@
-4 Thoughtcast
-3 Signal Pest
-2 Razortide Bridge
-2 Glimmervoid
 4 Galvanic Blast
+1 Signal Pest
+2 Signal Pest
+2 Glimmervoid
+3 Signal Pest
 3 Glimmervoid
 4 Signal Pest
 1 Nettlecyst
+2 Nettlecyst
+3 Welding Jar
 4 Treasure Vault
 1 Myr Enforcer
-2 Nettlecyst
-2 Myr Enforcer
-1 Paradise Mantle
-2 Paradise Mantle
-4 Silverbluff Bridge
-3 Welding Jar
-3 Spire of Industry
-1 Expedition Map
-1 Aether Spellbomb
 1 Relic of Progenitus
 1 Ingenious Smith
 2 Ingenious Smith
@@ -24,16 +17,12 @@
 1 Plains
 2 Plains
 3 Plains
-1 Mishra's Bauble
-2 Mishra's Bauble
-1 Eiganjo Castle
 1 Portable Hole
 1 Crucible of Worlds
-1 Lightning Greaves
 1 Esper Sentinel
 1 Ichor Wellspring
 1 Oswald Fiddlebender
-1 Kaldra Compleat
+1 Lightning Greaves
 1 Stoneforge Mystic
 2 Portable Hole
 2 Stoneforge Mystic
@@ -48,57 +37,68 @@
 4 Stoneforge Mystic
 4 Plains
 4 Oswald Fiddlebender
-3 Razortide Bridge
-1 Mistvault Bridge
-2 Mistvault Bridge
+1 Mishra's Bauble
 1 Cave of the Frost Dragon
 1 Chromatic Star
+2 Mishra's Bauble
 3 Mishra's Bauble
 4 Ingenious Smith
 4 Mishra's Bauble
-1 Inkmoth Nexus
-2 Inkmoth Nexus
+1 Eiganjo Castle
+1 Kaldra Compleat
+1 Paradise Mantle
+2 Paradise Mantle
+1 Expedition Map
+4 Silverbluff Bridge
+3 Razortide Bridge
+1 Sacred Foundry
+2 Lightning Greaves
+1 Crackdown Construct
+1 Flooded Strand
+3 Spire of Industry
+2 Myr Enforcer
+1 Aether Spellbomb
+1 Spellskite
+2 Flooded Strand
+1 Windswept Heath
+1 Marsh Flats
 4 Spire of Industry
 1 Blood Fountain
+1 Mistvault Bridge
 2 Blood Fountain
+2 Mistvault Bridge
 3 Blood Fountain
+2 Windswept Heath
+1 Inkmoth Nexus
+2 Inkmoth Nexus
+4 Glimmervoid
+2 Marsh Flats
 3 Mistvault Bridge
-1 Flooded Strand
+4 Blood Fountain
+2 Gingerbrute
+1 Rustvale Bridge
+4 Razortide Bridge
+1 Blinkmoth Nexus
+1 Bomat Courier
 1 Vault Skirge
 2 Vault Skirge
 3 Vault Skirge
 4 Vault Skirge
 5 Plains
-4 Glimmervoid
-1 Ethersworn Canonist
-2 Flooded Strand
-3 Flooded Strand
-4 Flooded Strand
-4 Blood Fountain
-1 Thorn of Amethyst
-2 Gingerbrute
-1 Crackdown Construct
-1 Marsh Flats
-1 Sacred Foundry
-2 Lightning Greaves
-1 Rustvale Bridge
-4 Razortide Bridge
-1 Blinkmoth Nexus
-1 Bomat Courier
 1 Solitude
 1 Giver of Runes
-1 Flickerwisp
 1 Field of Ruin
 1 Phyrexian Revoker
+1 Flickerwisp
+1 Thalia, Guardian of Thraben
 1 Archon of Emeria
 1 Aether Vial
 1 Emeria's Call
-1 Thalia, Guardian of Thraben
 1 Tectonic Edge
 2 Solitude
-2 Flickerwisp
-2 Field of Ruin
 2 Giver of Runes
+2 Field of Ruin
+2 Flickerwisp
 2 Tectonic Edge
 2 Archon of Emeria
 2 Thalia, Guardian of Thraben
@@ -106,8 +106,8 @@
 2 Aether Vial
 3 Tectonic Edge
 3 Solitude
-3 Field of Ruin
 3 Giver of Runes
+3 Field of Ruin
 3 Emeria's Call
 3 Thalia, Guardian of Thraben
 3 Flickerwisp
@@ -130,17 +130,18 @@
 11 Plains
 12 Plains
 13 Plains
+1 Arid Mesa
 1 Grafdigger's Cage
 1 Soul-Guide Lantern
-1 Arid Mesa
-1 Windswept Heath
-1 Spellskite
-1 Karn, the Great Creator
-3 Inkmoth Nexus
+1 Flagstones of Trokair
 4 Welding Jar
-2 Marsh Flats
+1 Thorn of Amethyst
 3 Marsh Flats
 4 Marsh Flats
+1 Ethersworn Canonist
+1 Karn, the Great Creator
+3 Flooded Strand
+4 Flooded Strand
 3 Gingerbrute
 4 Gingerbrute
 4 Mistvault Bridge
@@ -152,25 +153,25 @@
 2 Steel Overseer
 2 Blinkmoth Nexus
 2 Kazuul's Fury
+2 Bomat Courier
 2 Shrapnel Blast
 2 Arcbound Ravager
-2 Bomat Courier
 3 Blinkmoth Nexus
 3 Kazuul's Fury
 3 Steel Overseer
 3 Arcbound Ravager
 3 Bomat Courier
 4 Blinkmoth Nexus
+4 Arcbound Ravager
 4 Kazuul's Fury
 4 Bomat Courier
 4 Steel Overseer
-4 Arcbound Ravager
 1 Tormod's Crypt
 1 Ethersworn Sphinx
 2 Relic of Progenitus
 2 Tormod's Crypt
-2 Ethersworn Sphinx
 2 Island
+2 Ethersworn Sphinx
 3 Relic of Progenitus
 3 Tormod's Crypt
 3 Myr Enforcer
