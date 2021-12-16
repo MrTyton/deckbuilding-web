@@ -57,6 +57,6 @@
 |                    2|[Lair of the Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527546)          |                     |                                                                                                      |
 |                    4|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)        |                     |                                                                                                      |
 |                    1|[Sundown Pass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541142)               |                     |                                                                                                      |
-|                    3|[Sundown Pass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541142)               |                     |                                                                                                      |
 |                    2|[Sundown Pass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541142)               |                     |                                                                                                      |
+|                    3|[Sundown Pass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541142)               |                     |                                                                                                      |
 

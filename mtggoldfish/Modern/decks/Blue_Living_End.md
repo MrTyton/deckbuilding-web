@@ -54,6 +54,6 @@
 |                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)     |                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)   |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)     |                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |
 |                    3|[Windcaller Aven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464026)    |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)      |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                    4|[Windcaller Aven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464026)    |                     |                                                                                              |
+|                    4|[Windcaller Aven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464026)    |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)      |                     |                                                                                              |
 

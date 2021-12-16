@@ -49,7 +49,7 @@
 |                    3|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                  |                     |                                                                                               |
 |                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                  |                     |                                                                                               |
 |                    1|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)       |                     |                                                                                               |
-|                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)       |                     |                                                                                               |
-|                    3|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)  |                     |                                                                                               |
 |                    1|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                               |
+|                    3|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)  |                     |                                                                                               |
+|                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)       |                     |                                                                                               |
 

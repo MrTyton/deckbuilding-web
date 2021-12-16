@@ -22,14 +22,14 @@
 1 Timeless Dragon
 1 Sunbaked Canyon
 1 Sanctum Prelate
-1 Imperial Recruiter
 1 Inspiring Vantage
+1 Imperial Recruiter
 1 Sacred Foundry
-2 Inspiring Vantage
-2 Sacred Foundry
 2 Imperial Recruiter
-3 Inspiring Vantage
+2 Sacred Foundry
+2 Inspiring Vantage
 3 Imperial Recruiter
+3 Inspiring Vantage
 4 Inspiring Vantage
 3 Charming Prince
 1 Maul of the Skyclaves
@@ -37,8 +37,8 @@
 1 Mountain
 2 Arid Mesa
 3 Arid Mesa
-4 Arid Mesa
 4 Imperial Recruiter
+4 Arid Mesa
 1 Needleverge Pathway
 2 Needleverge Pathway
 2 Horizon Canopy
@@ -53,9 +53,9 @@
 2 Windswept Heath
 3 Windswept Heath
 4 Windswept Heath
-1 Kiki-Jiki, Mirror Breaker
 1 Wall of Omens
 1 Felidar Guardian
+1 Kiki-Jiki, Mirror Breaker
 2 Wall of Omens
 3 Wall of Omens
 4 Wall of Omens
@@ -72,8 +72,8 @@
 8 Snow-Covered Plains
 3 Path to Exile
 3 Horizon Canopy
-1 Archangel Avacyn
 1 Rugged Prairie
+1 Archangel Avacyn
 2 Rugged Prairie
 9 Snow-Covered Plains
 10 Snow-Covered Plains
@@ -105,94 +105,94 @@
 4 Path to Exile
 1 Portable Hole
 1 Hallowed Fountain
-1 Selfless Spirit
+1 Seachrome Coast
 1 Deputy of Detention
 1 Mutavault
+1 Selfless Spirit
 1 Spell Queller
 1 Adarkar Wastes
 1 Spellstutter Sprite
-1 Seachrome Coast
+2 Seachrome Coast
+2 Deputy of Detention
+2 Mutavault
 2 Adarkar Wastes
 2 Spellstutter Sprite
-2 Deputy of Detention
 2 Selfless Spirit
-2 Mutavault
 2 Hallowed Fountain
-2 Seachrome Coast
 2 Spell Queller
+3 Selfless Spirit
+3 Hallowed Fountain
 3 Spell Queller
 3 Mutavault
 3 Adarkar Wastes
 3 Deputy of Detention
 3 Seachrome Coast
-3 Selfless Spirit
 3 Spellstutter Sprite
-3 Hallowed Fountain
-4 Spell Queller
+4 Selfless Spirit
 4 Hallowed Fountain
+4 Spell Queller
 4 Adarkar Wastes
 4 Spellstutter Sprite
 4 Deputy of Detention
-4 Selfless Spirit
 4 Seachrome Coast
 4 Horizon Canopy
 1 Razorverge Thicket
 2 Razorverge Thicket
-1 Noble Hierarch
 1 Temple Garden
+1 Noble Hierarch
 1 Forest
-2 Noble Hierarch
 2 Temple Garden
+2 Noble Hierarch
 3 Noble Hierarch
 3 Temple Garden
 4 Noble Hierarch
 1 Aven Mindcensor
-1 Leonin Relic-Warder
-1 Weathered Wayfarer
 1 Raugrin Triome
 1 Fury
-1 Phyrexian Metamorph
+1 Leonin Relic-Warder
+1 Weathered Wayfarer
 1 Auriok Champion
+1 Phyrexian Metamorph
 1 Sungold Sentinel
 2 Sungold Sentinel
 1 Slayers' Stronghold
 1 Lightning Bolt
-2 Lightning Bolt
 2 Prismatic Vista
+2 Lightning Bolt
 3 Lightning Bolt
 4 Lightning Bolt
+4 Silent Clearing
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
+4 Sunbaked Canyon
 4 Sacred Foundry
 4 Ragavan, Nimble Pilferer
-4 Sunbaked Canyon
-4 Cathar Commando
-4 Silent Clearing
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
-4 Thraben Inspector
 1 Augur of Autumn
 1 Scavenging Ooze
 1 Brushland
 1 Branchloft Pathway
 1 Oath of Nissa
 2 Augur of Autumn
+2 Scavenging Ooze
 2 Forest
 2 Oath of Nissa
-2 Scavenging Ooze
 2 Brushland
 2 Branchloft Pathway
-3 Oath of Nissa
-3 Branchloft Pathway
 3 Brushland
 3 Razorverge Thicket
+3 Oath of Nissa
+3 Branchloft Pathway
+4 Brushland
+4 Branchloft Pathway
 4 Razorverge Thicket
 4 Temple Garden
 4 Oath of Nissa
-4 Brushland
-4 Branchloft Pathway
+4 Cathar Commando
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
+4 Thraben Inspector
 17 Plains
 18 Plains
 19 Plains
@@ -207,20 +207,20 @@
 3 Portable Hole
 4 Portable Hole
 4 Restoration Angel
-1 Teferi, Time Raveler
+1 Blast Zone
+1 Tireless Tracker
+1 Engineered Explosives
 1 Tarmogoyf
+1 Gavony Township
+1 Breeding Pool
 1 Soul-Guide Lantern
 1 Endurance
 1 Knight of the Reliquary
-1 Gavony Township
-1 Tireless Tracker
-1 Breeding Pool
+1 Teferi, Time Raveler
 1 Spellskite
-1 Blast Zone
-1 Engineered Explosives
-2 Teferi, Time Raveler
 2 Tarmogoyf
 2 Knight of the Reliquary
-3 Knight of the Reliquary
+2 Teferi, Time Raveler
 3 Tarmogoyf
+3 Knight of the Reliquary
 4 Knight of the Reliquary

@@ -1,56 +1,56 @@
 1 Overgrown Tomb
-2 Overgrown Tomb
 1 Tireless Tracker
 1 Elder Gargaroth
 1 Blooming Marsh
 1 Scavenging Ooze
 1 Forest
+2 Overgrown Tomb
 2 Blooming Marsh
 2 Forest
 3 Blooming Marsh
 4 Blooming Marsh
-1 Abrupt Decay
-2 Kalitas, Traitor of Ghet
-2 Abrupt Decay
-3 Overgrown Tomb
-3 Abrupt Decay
-4 Overgrown Tomb
-1 Heartless Act
-1 Watery Grave
-1 Shipwreck Marsh
-1 Iymrith, Desert Doom
-1 Hall of Storm Giants
 1 Extinction Event
-1 Memory Deluge
-1 Bloodchief's Thirst
-1 Satyr Wayfinder
-1 Cling to Dust
-1 Jace, Vryn's Prodigy
-1 Zagoth Triome
-1 Traverse the Ulvenwald
-1 Emrakul, the Promised End
-1 Island
-1 Ishkanah, Grafwidow
-1 Drowned Catacomb
-1 Breeding Pool
+1 Watery Grave
 1 Shark Typhoon
 1 Scrabbling Claws
+1 Island
+1 Cling to Dust
+2 Shark Typhoon
+2 Scrabbling Claws
+1 Iymrith, Desert Doom
+1 Shipwreck Marsh
+1 Hall of Storm Giants
+1 Memory Deluge
+1 Satyr Wayfinder
+1 Jace, Vryn's Prodigy
+1 Traverse the Ulvenwald
+1 Zagoth Triome
+1 Emrakul, the Promised End
+1 Ishkanah, Grafwidow
+1 Drowned Catacomb
+1 Bloodchief's Thirst
+1 Breeding Pool
 2 Satyr Wayfinder
 2 Breeding Pool
 2 Traverse the Ulvenwald
-2 Shark Typhoon
-2 Scrabbling Claws
 2 Zagoth Triome
 2 Jace, Vryn's Prodigy
 3 Satyr Wayfinder
 3 Traverse the Ulvenwald
 3 Zagoth Triome
-4 Graveyard Trespasser
+1 Heartless Act
+1 Censor
+1 Clearwater Pathway
+2 Censor
+2 Extinction Event
+2 Watery Grave
+2 Clearwater Pathway
+3 Clearwater Pathway
+4 Clearwater Pathway
 1 Hengegate Pathway
 1 Nighthawk Scavenger
 1 Brightclimb Pathway
 1 Godless Shrine
-1 Clearwater Pathway
 1 Soul Shatter
 1 Wash Away
 1 Path of Peril
@@ -58,17 +58,12 @@
 1 Teferi, Hero of Dominaria
 1 Deserted Beach
 1 Dig Through Time
-1 Censor
 1 Shattered Sanctum
 1 Vanishing Verse
 2 Godless Shrine
 2 Brightclimb Pathway
-2 Hengegate Pathway
 2 Nighthawk Scavenger
-2 Clearwater Pathway
-2 Watery Grave
-2 Extinction Event
-2 Heartless Act
+2 Hengegate Pathway
 2 Shipwreck Marsh
 2 Wash Away
 2 Path of Peril
@@ -77,112 +72,67 @@
 2 Teferi, Hero of Dominaria
 2 Shattered Sanctum
 2 Deserted Beach
-2 Censor
+2 Heartless Act
 3 Shipwreck Marsh
 3 Nighthawk Scavenger
-3 Watery Grave
-3 Clearwater Pathway
 3 Censor
+3 Watery Grave
 4 Shipwreck Marsh
-4 Clearwater Pathway
+4 Graveyard Trespasser
+1 Wandering Mind
+1 Fires of Invention
+1 Spirebluff Canal
+1 The Scarab God
+1 Tasigur, the Golden Fang
+1 Stormcarved Coast
+1 Expressive Iteration
+1 Blood Crypt
+1 Riverglide Pathway
+1 Nicol Bolas, the Ravager
+1 Fetid Pools
+1 Bonecrusher Giant
+1 Mountain
+1 Canyon Slough
+1 Blightstep Pathway
+2 Wandering Mind
+2 Fires of Invention
+2 Spirebluff Canal
+2 Stormcarved Coast
+2 Expressive Iteration
+2 Blood Crypt
+2 Blightstep Pathway
+2 Bonecrusher Giant
+2 Riverglide Pathway
+2 The Scarab God
+3 Hive of the Eye Tyrant
+3 Fires of Invention
+3 Wandering Mind
+3 Blightstep Pathway
+3 Riverglide Pathway
+4 Blightstep Pathway
+4 Riverglide Pathway
 1 Woodland Cemetery
 1 Lolth, Spider Queen
+1 Hissing Quagmire
 1 Vorinclex, Monstrous Raider
 1 Courser of Kruphix
 1 Vraska, Golgari Queen
-1 Gifted Aetherborn
-1 Hissing Quagmire
 1 Gonti, Lord of Luxury
+1 Gifted Aetherborn
+1 Abrupt Decay
+2 Woodland Cemetery
 2 Scavenging Ooze
 2 Vorinclex, Monstrous Raider
 2 Tireless Tracker
+2 Kalitas, Traitor of Ghet
 2 Gifted Aetherborn
+2 Abrupt Decay
 2 Hissing Quagmire
-2 Woodland Cemetery
 2 Courser of Kruphix
+3 Overgrown Tomb
+3 Abrupt Decay
 3 Gifted Aetherborn
 3 Woodland Cemetery
+4 Overgrown Tomb
 4 Gifted Aetherborn
 4 Woodland Cemetery
-1 Den of the Bugbear
-1 Haunted Ridge
-1 Darkbore Pathway
-1 Cragcrown Pathway
-1 Kolaghan's Command
-1 Blightstep Pathway
-1 Blood Crypt
-1 Rockfall Vale
-1 Bonecrusher Giant
-1 Dreadbore
-1 Edgewall Innkeeper
-1 Lovestruck Beast
-2 Darkbore Pathway
-2 Lovestruck Beast
-2 Bonecrusher Giant
-2 Blood Crypt
-2 Blightstep Pathway
-2 Edgewall Innkeeper
-2 Rockfall Vale
-2 Haunted Ridge
-2 Kolaghan's Command
-3 Darkbore Pathway
-3 Lovestruck Beast
-3 Rockfall Vale
-3 Blightstep Pathway
-3 Bonecrusher Giant
-3 Blood Crypt
-3 Edgewall Innkeeper
-4 Murderous Rider
-4 Darkbore Pathway
-4 Lovestruck Beast
-4 Edgewall Innkeeper
-4 Bonecrusher Giant
-4 Blightstep Pathway
-4 Blood Crypt
-1 Inventors' Fair
-1 Karn, Scion of Urza
-1 Herald of Anguish
-1 Blood Fountain
-1 Lantern of the Lost
-1 Renegade Map
-1 Grafdigger's Cage
-1 Sly Requisitioner
-1 Deadly Dispute
-1 Spare Supplies
-1 Terrarion
-2 Inventors' Fair
-2 Karn, Scion of Urza
-2 Herald of Anguish
-2 Blood Fountain
-2 Lantern of the Lost
-2 Bloodchief's Thirst
-2 Sly Requisitioner
-2 Spare Supplies
-2 Renegade Map
-2 Grafdigger's Cage
-2 Deadly Dispute
-2 Terrarion
-3 Herald of Anguish
-3 Blood Fountain
-3 Terrarion
-3 Renegade Map
-3 Lantern of the Lost
-3 Deadly Dispute
-3 Spare Supplies
-4 Herald of Anguish
-4 Blood Fountain
-4 Renegade Map
-4 Spare Supplies
-4 Terrarion
-4 Deadly Dispute
-4 Lantern of the Lost
-5 Swamp
-6 Swamp
-7 Swamp
-8 Swamp
-9 Swamp
-10 Swamp
-11 Swamp
-12 Swamp
-13 Swamp
-14 Swamp

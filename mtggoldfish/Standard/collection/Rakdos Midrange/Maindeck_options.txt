@@ -1,50 +1,51 @@
-2 Snow-Covered Mountain
-2 Blood on the Snow
-2 Snow-Covered Swamp
-3 Snow-Covered Swamp
-4 Snow-Covered Swamp
-5 Snow-Covered Swamp
-6 Snow-Covered Swamp
-7 Snow-Covered Swamp
-4 Sulfurous Mire
+3 Sulfurous Mire
+2 Valki, God of Lies
 1 Lolth, Spider Queen
 3 Blood on the Snow
 1 Skullport Merchant
 2 Skullport Merchant
+4 Sulfurous Mire
+1 Sorin the Mirthless
+2 Florian, Voldaren Scion
+5 Swamp
+6 Swamp
+3 Reckless Stormseeker
+3 Mountain
+3 Skullport Merchant
+2 Lolth, Spider Queen
+3 Snow-Covered Mountain
+4 Snow-Covered Mountain
 3 The Meathook Massacre
 1 Graveyard Trespasser
 2 Graveyard Trespasser
-3 Skullport Merchant
 7 Swamp
 1 Bloodvial Purveyor
 2 Bloodvial Purveyor
-3 Florian, Voldaren Scion
-2 Lolth, Spider Queen
 4 Infernal Grasp
+3 Florian, Voldaren Scion
 3 Graveyard Trespasser
-3 Snow-Covered Mountain
-4 Snow-Covered Mountain
+5 Snow-Covered Mountain
+8 Snow-Covered Swamp
 3 Shatterskull Smashing
 4 Mountain
 1 Agadeem's Awakening
 2 Agadeem's Awakening
-4 Reckless Stormseeker
-2 Den of the Bugbear
-1 Power Word Kill
-3 Bloodvial Purveyor
-5 Snow-Covered Mountain
-4 Deadly Dispute
-8 Snow-Covered Swamp
 1 Faceless Haven
 2 Faceless Haven
 3 Faceless Haven
 4 Faceless Haven
+4 Reckless Stormseeker
+2 Den of the Bugbear
+6 Snow-Covered Mountain
+4 Deadly Dispute
+1 Power Word Kill
+3 Bloodvial Purveyor
+4 Blood on the Snow
 3 Lolth, Spider Queen
 4 Skullport Merchant
 3 Valki, God of Lies
 1 Orcus, Prince of Undeath
 9 Snow-Covered Swamp
-6 Snow-Covered Mountain
 7 Snow-Covered Mountain
 1 Dread Fugue
 2 Dread Fugue
@@ -53,7 +54,6 @@
 3 Tainted Adversary
 1 Soul Shatter
 4 Bloodvial Purveyor
-4 Blood on the Snow
 4 Lolth, Spider Queen
 4 Valki, God of Lies
 1 Bloodthirsty Adversary
@@ -119,13 +119,10 @@
 1 Grim Bounty
 2 Grim Bounty
 1 Lunar Frenzy
-1 Hagra Mauling
-2 Hagra Mauling
 1 Henrika Domnathi
 2 Henrika Domnathi
-1 Ebondeath, Dracolich
-2 Ebondeath, Dracolich
-3 Ebondeath, Dracolich
+1 Hagra Mauling
+2 Hagra Mauling
 1 Play with Fire
 1 Dragonkin Berserker
 2 Play with Fire
@@ -134,13 +131,16 @@
 3 Dragonkin Berserker
 3 Dread Fugue
 3 Kazuul's Fury
+1 Ebondeath, Dracolich
+2 Ebondeath, Dracolich
+3 Ebondeath, Dracolich
+1 Hired Hexblade
 1 Westgate Regent
 1 Magic Missile
+1 Thieves' Tools
 1 Jaded Sell-Sword
 1 Red Dragon
-1 Thieves' Tools
 1 Hoarding Ogre
-1 Hired Hexblade
 1 Sudden Breakthrough
 1 Unwilling Ingredient
 2 Magic Missile
@@ -158,6 +158,12 @@
 3 Orb of Dragonkind
 4 Dragon's Fire
 4 Hive of the Eye Tyrant
+1 Concealing Curtains
+1 Frost Bite
+2 Frost Bite
+2 Concealing Curtains
+3 Concealing Curtains
+4 Concealing Curtains
 1 Crush the Weak
 1 Vorpal Sword
 1 Nullpriest of Oblivion
@@ -178,16 +184,6 @@
 3 Cemetery Gatekeeper
 4 Cemetery Gatekeeper
 4 Falkenrath Pit Fighter
-1 Bloodtithe Harvester
-1 Voldaren Bloodcaster
-1 Vampires' Vengeance
-2 Bloodtithe Harvester
-2 Vampires' Vengeance
-3 Bloodtithe Harvester
-3 Vampires' Vengeance
-4 Bloodtithe Harvester
-4 Agadeem's Awakening
-4 Vampires' Vengeance
 1 Path of Peril
 1 Brightclimb Pathway
 1 Needleverge Pathway
@@ -197,17 +193,27 @@
 3 Brightclimb Pathway
 4 Tainted Adversary
 4 Brightclimb Pathway
+1 Voldaren Bloodcaster
+1 Vampires' Vengeance
+1 Bloodtithe Harvester
+2 Vampires' Vengeance
+2 Bloodtithe Harvester
+3 Vampires' Vengeance
+3 Bloodtithe Harvester
+4 Agadeem's Awakening
+4 Vampires' Vengeance
+4 Bloodtithe Harvester
 1 Malakir Rebirth
-1 Crippling Fear
 1 Slaughter Specialist
-2 Crippling Fear
+1 Crippling Fear
 2 Slaughter Specialist
-3 Crippling Fear
+2 Crippling Fear
 3 Slaughter Specialist
+3 Crippling Fear
 4 Slaughter Specialist
 1 Fell Stinger
-1 Extus, Oriq Overlord
 1 Fireblade Charger
+1 Extus, Oriq Overlord
 2 Fell Stinger
 2 Fireblade Charger
 2 Extus, Oriq Overlord
@@ -217,6 +223,16 @@
 4 Fell Stinger
 4 Fireblade Charger
 4 Extus, Oriq Overlord
+1 Nighthawk Scavenger
+2 Nighthawk Scavenger
+3 Nighthawk Scavenger
+3 Inferno of the Star Mounts
+4 Nighthawk Scavenger
+4 Xorn
+4 Inferno of the Star Mounts
+10 Swamp
+11 Swamp
+12 Swamp
 1 Professor Onyx
 1 Seize the Spoils
 2 Professor Onyx
@@ -227,13 +243,3 @@
 4 Seize the Spoils
 4 Professor Onyx
 8 Snow-Covered Mountain
-1 Nighthawk Scavenger
-2 Nighthawk Scavenger
-3 Inferno of the Star Mounts
-3 Nighthawk Scavenger
-4 Nighthawk Scavenger
-4 Inferno of the Star Mounts
-4 Xorn
-10 Swamp
-11 Swamp
-12 Swamp

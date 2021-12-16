@@ -1,14 +1,14 @@
 1 Monastery Mentor
 1 Rest in Peace
-2 Flusterstorm
 2 Ethersworn Canonist
 2 Back to Basics
-1 Blood Moon
+2 Flusterstorm
 1 Hullbreacher
-1 Izzet Staticaster
+1 Meltdown
+1 Blood Moon
 1 Blue Elemental Blast
 1 Deafening Silence
-1 Meltdown
+1 Izzet Staticaster
 1 Narset, Parter of Veils
 1 Null Rod
 1 Stony Silence
@@ -21,21 +21,21 @@
 1 Dress Down
 1 Grafdigger's Cage
 1 Engineered Explosives
-2 Izzet Staticaster
 1 Electrickery
 2 Rest in Peace
 1 Alpine Moon
 1 Court of Grace
+2 Izzet Staticaster
+2 Meltdown
+1 Force of Negation
 3 Flusterstorm
 3 Surgical Extraction
 1 Terminus
-2 Dress Down
 2 Torpor Orb
-4 Pyroblast
-2 Meltdown
+2 Dress Down
 2 Monastery Mentor
+4 Pyroblast
 2 Deafening Silence
-1 Force of Negation
 1 Disenchant
 1 Kaheera, the Orphanguard
 1 Ashiok, Dream Render
@@ -50,8 +50,6 @@
 1 Mountain
 1 Entreat the Angels
 1 Baneslayer Angel
-1 Supreme Verdict
-2 Supreme Verdict
 1 Plague Engineer
 2 Plague Engineer
 2 Alpine Moon
@@ -60,6 +58,8 @@
 1 From the Ashes
 2 Engineered Explosives
 2 Null Rod
+1 Supreme Verdict
+2 Supreme Verdict
 1 Blazing Volley
 1 Gut Shot
 2 Gut Shot
@@ -69,3 +69,5 @@
 2 Blue Elemental Blast
 2 Stony Silence
 2 Electrickery
+3 Hydroblast
+3 Izzet Staticaster

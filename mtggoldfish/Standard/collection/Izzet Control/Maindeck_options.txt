@@ -1,15 +1,21 @@
-1 Abrade
-2 Behold the Multiverse
+1 The Celestus
 1 Prismari Command
+2 Behold the Multiverse
 1 Lier, Disciple of the Drowned
-2 Cinderclasm
 2 Hullbreaker Horror
 2 Burn Down the House
+2 Cinderclasm
+1 Battle of Frost and Fire
 1 Thundering Rebuke
+2 Abrade
 1 Test of Talents
 1 Thirst for Discovery
-1 Battle of Frost and Fire
-2 Abrade
+2 Battle of Frost and Fire
+2 Thundering Rebuke
+1 Frostboil Snarl
+1 Memory Deluge
+2 Memory Deluge
+1 Cathartic Pyre
 1 Snow-Covered Mountain
 1 Snow-Covered Island
 1 Frost Bite
@@ -23,24 +29,18 @@
 5 Snow-Covered Mountain
 5 Snow-Covered Island
 6 Snow-Covered Mountain
-2 Thundering Rebuke
-1 Frostboil Snarl
-1 Memory Deluge
-2 Memory Deluge
-7 Mountain
-2 Battle of Frost and Fire
 3 Demon Bolt
 1 Shatterskull Smashing
 3 Burn Down the House
-1 Cathartic Pyre
 2 Test of Talents
-2 Prismari Command
+7 Mountain
 6 Island
 4 Jwari Disruption
 2 Shatterskull Smashing
 3 Field of Ruin
 4 Burn Down the House
 1 Heated Debate
+2 Prismari Command
 2 Heated Debate
 3 Memory Deluge
 3 Prismari Command
@@ -49,10 +49,15 @@
 4 Field of Ruin
 7 Island
 1 Den of the Bugbear
-3 Frost Bite
 1 Volatile Fjord
 2 Volatile Fjord
 1 Consider
+1 Evolving Wilds
+1 Cyclone Summoner
+2 Evolving Wilds
+1 Sea Gate Restoration
+1 Flame-Blessed Bolt
+2 Flame-Blessed Bolt
 3 Abrade
 1 Wandering Mind
 2 Wandering Mind
@@ -82,6 +87,7 @@
 1 Faceless Haven
 2 Faceless Haven
 2 The Celestus
+3 Frost Bite
 3 Volatile Fjord
 7 Snow-Covered Mountain
 2 Lier, Disciple of the Drowned
