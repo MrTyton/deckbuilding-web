@@ -77,8 +77,8 @@
 1 Xorn
 6 Mountain
 1 Bloodchief's Thirst
-2 Bloodchief's Thirst
 2 Kazuul's Fury
+2 Bloodchief's Thirst
 1 Baleful Mastery
 2 Baleful Mastery
 1 Light Up the Night
@@ -93,16 +93,16 @@
 1 Spikefield Hazard
 2 Manaform Hellkite
 2 Spikefield Hazard
-3 Hive of the Eye Tyrant
 3 Manaform Hellkite
+3 Hive of the Eye Tyrant
 4 Manaform Hellkite
 4 Bloodthirsty Adversary
 1 Valentin, Dean of the Vein
-1 Falkenrath Pit Fighter
 1 Vampire Socialite
+1 Falkenrath Pit Fighter
 2 Valentin, Dean of the Vein
-2 Falkenrath Pit Fighter
 2 Vampire Socialite
+2 Falkenrath Pit Fighter
 3 Vampire Socialite
 4 Vampire Socialite
 3 Agadeem's Awakening
@@ -119,33 +119,33 @@
 1 Grim Bounty
 2 Grim Bounty
 1 Lunar Frenzy
-1 Henrika Domnathi
-2 Henrika Domnathi
 1 Hagra Mauling
 2 Hagra Mauling
+1 Henrika Domnathi
+2 Henrika Domnathi
+1 Ebondeath, Dracolich
+2 Ebondeath, Dracolich
+3 Ebondeath, Dracolich
+3 Dread Fugue
+3 Kazuul's Fury
 1 Play with Fire
 1 Dragonkin Berserker
 2 Play with Fire
 2 Dragonkin Berserker
 3 Play with Fire
 3 Dragonkin Berserker
-3 Dread Fugue
-3 Kazuul's Fury
-1 Ebondeath, Dracolich
-2 Ebondeath, Dracolich
-3 Ebondeath, Dracolich
+1 Magic Missile
 1 Hired Hexblade
 1 Westgate Regent
-1 Magic Missile
 1 Thieves' Tools
 1 Jaded Sell-Sword
 1 Red Dragon
 1 Hoarding Ogre
 1 Sudden Breakthrough
 1 Unwilling Ingredient
-2 Magic Missile
 2 Jaded Sell-Sword
 2 Hoarding Ogre
+2 Magic Missile
 2 Sudden Breakthrough
 2 Hired Hexblade
 3 Hired Hexblade
@@ -160,30 +160,22 @@
 4 Hive of the Eye Tyrant
 1 Concealing Curtains
 1 Frost Bite
-2 Frost Bite
 2 Concealing Curtains
+2 Frost Bite
 3 Concealing Curtains
 4 Concealing Curtains
+1 Rise of the Dread Marn
 1 Crush the Weak
 1 Vorpal Sword
 1 Nullpriest of Oblivion
 1 Egon, God of Death
 1 Forsworn Paladin
-1 Rise of the Dread Marn
 2 Crush the Weak
 2 Nullpriest of Oblivion
 2 Forsworn Paladin
 2 Egon, God of Death
 3 Crush the Weak
 4 Crush the Weak
-1 Voldaren Estate
-1 Cemetery Gatekeeper
-2 Cemetery Gatekeeper
-3 Roil Eruption
-3 Falkenrath Pit Fighter
-3 Cemetery Gatekeeper
-4 Cemetery Gatekeeper
-4 Falkenrath Pit Fighter
 1 Path of Peril
 1 Brightclimb Pathway
 1 Needleverge Pathway
@@ -193,8 +185,8 @@
 3 Brightclimb Pathway
 4 Tainted Adversary
 4 Brightclimb Pathway
-1 Voldaren Bloodcaster
 1 Vampires' Vengeance
+1 Voldaren Bloodcaster
 1 Bloodtithe Harvester
 2 Vampires' Vengeance
 2 Bloodtithe Harvester
@@ -211,6 +203,34 @@
 3 Slaughter Specialist
 3 Crippling Fear
 4 Slaughter Specialist
+1 Cemetery Gatekeeper
+1 Voldaren Estate
+2 Cemetery Gatekeeper
+3 Roil Eruption
+3 Cemetery Gatekeeper
+3 Falkenrath Pit Fighter
+4 Cemetery Gatekeeper
+4 Falkenrath Pit Fighter
+1 Professor Onyx
+1 Seize the Spoils
+2 Professor Onyx
+2 Seize the Spoils
+3 Professor Onyx
+3 Orcus, Prince of Undeath
+3 Seize the Spoils
+4 Seize the Spoils
+4 Professor Onyx
+8 Snow-Covered Mountain
+1 Nighthawk Scavenger
+2 Nighthawk Scavenger
+3 Nighthawk Scavenger
+3 Inferno of the Star Mounts
+4 Nighthawk Scavenger
+4 Xorn
+4 Inferno of the Star Mounts
+10 Swamp
+11 Swamp
+12 Swamp
 1 Fell Stinger
 1 Fireblade Charger
 1 Extus, Oriq Overlord
@@ -223,23 +243,3 @@
 4 Fell Stinger
 4 Fireblade Charger
 4 Extus, Oriq Overlord
-1 Nighthawk Scavenger
-2 Nighthawk Scavenger
-3 Nighthawk Scavenger
-3 Inferno of the Star Mounts
-4 Nighthawk Scavenger
-4 Xorn
-4 Inferno of the Star Mounts
-10 Swamp
-11 Swamp
-12 Swamp
-1 Professor Onyx
-1 Seize the Spoils
-2 Professor Onyx
-2 Seize the Spoils
-3 Professor Onyx
-3 Orcus, Prince of Undeath
-3 Seize the Spoils
-4 Seize the Spoils
-4 Professor Onyx
-8 Snow-Covered Mountain

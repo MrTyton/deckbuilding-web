@@ -87,10 +87,10 @@
 10 Plains
 11 Plains
 2 Sorin the Mirthless
-1 Westgate Regent
 1 Youthful Valkyrie
 1 The Book of Exalted Deeds
 1 Starnheim Aspirant
+1 Westgate Regent
 2 Westgate Regent
 2 Starnheim Aspirant
 2 The Book of Exalted Deeds
@@ -111,10 +111,9 @@
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
-1 Graveyard Trespasser
 1 Legion Angel
+1 Graveyard Trespasser
 1 Reidane, God of the Worthy
-3 Agadeem's Awakening
 1 Duress
 1 Fateful Absence
 1 Humiliate
@@ -126,6 +125,7 @@
 3 Duress
 3 Crippling Fear
 3 Emeria's Call
+3 Agadeem's Awakening
 4 Shineshadow Snarl
 1 Revitalize
 1 Curse of Leeches
@@ -170,14 +170,14 @@
 2 Chaplain of Alms
 3 Chaplain of Alms
 4 Chaplain of Alms
-1 Professor Onyx
-1 Power Word Kill
 1 Paladin Class
 1 Firja's Retribution
 1 Kaya the Inexorable
 1 Valkyrie Harbinger
 1 Sanctify
+1 Power Word Kill
 1 Invoke the Divine
+1 Professor Onyx
 1 Vanquish the Horde
 1 Shepherd of Heroes
 1 Nullpriest of Oblivion
@@ -189,7 +189,7 @@
 9 Swamp
 10 Swamp
 11 Swamp
-1 Blood on the Snow
 1 Liesa, Forgotten Archangel
+1 Blood on the Snow
 2 Blood on the Snow
 11 Snow-Covered Plains
