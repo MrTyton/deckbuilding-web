@@ -1,7 +1,9 @@
 3 Fatal Push
-1 Cryptic Command
 1 Swamp
+1 Cryptic Command
 1 Castle Locthwain
+1 Field of Ruin
+1 Riptide Laboratory
 1 Creeping Tar Pit
 1 Thoughtseize
 1 Vendilion Clique
@@ -9,17 +11,15 @@
 1 Inquisition of Kozilek
 1 Cling to Dust
 1 Drown in the Loch
-1 Riptide Laboratory
 1 Mutavault
-1 Field of Ruin
 1 Sunken Ruins
 2 Cling to Dust
 2 Cryptic Command
+2 Field of Ruin
+2 Creeping Tar Pit
 2 Mutavault
 2 Snapcaster Mage
-2 Field of Ruin
 2 Drown in the Loch
-2 Creeping Tar Pit
 2 Inquisition of Kozilek
 3 Watery Grave
 3 Fallen Shinobi
@@ -27,10 +27,10 @@
 2 Drowned Catacomb
 1 Darkslick Shores
 2 Darkslick Shores
-1 Castle Ardenvale
-1 Glacial Fortress
 1 Castle Vantress
+1 Castle Ardenvale
 1 Kaya's Guile
+1 Glacial Fortress
 3 Teferi, Time Raveler
 1 Consider
 2 Brazen Borrower
@@ -39,11 +39,6 @@
 3 Consider
 3 Snapcaster Mage
 3 Inquisition of Kozilek
-1 Dakkon, Shadow Slayer
-2 Dakkon, Shadow Slayer
-3 Seachrome Coast
-4 Archmage's Charm
-4 Seachrome Coast
 1 Liliana of the Veil
 1 Liliana, the Last Hope
 1 Serum Visions
@@ -54,30 +49,30 @@
 2 Perilous Research
 2 Serum Visions
 4 Watery Grave
+1 Snow-Covered Island
 1 Spectral Sailor
 1 Snow-Covered Swamp
-1 Snow-Covered Island
 1 Mana Leak
 1 Spell Snare
 1 Dismember
-1 Tyrant's Scorn
 1 Force of Negation
+1 Tyrant's Scorn
 1 Ingenious Infiltrator
 1 Changeling Outcast
 1 Faerie Seer
 1 Mist-Syndicate Naga
 1 Ninja of the Deep Hours
-2 Force of Negation
 2 Spectral Sailor
 2 Snow-Covered Island
-2 Snow-Covered Swamp
 2 Dismember
-2 Changeling Outcast
+2 Snow-Covered Swamp
 2 Mana Leak
+2 Changeling Outcast
 2 Faerie Seer
 2 Mist-Syndicate Naga
 2 Ingenious Infiltrator
 2 Ninja of the Deep Hours
+2 Force of Negation
 3 Drowned Catacomb
 3 Snow-Covered Island
 3 Spectral Sailor
@@ -91,6 +86,11 @@
 4 Changeling Outcast
 4 Faerie Seer
 4 Darkslick Shores
+4 Ingenious Infiltrator
 5 Snow-Covered Island
 6 Snow-Covered Island
-4 Ingenious Infiltrator
+1 Dakkon, Shadow Slayer
+2 Dakkon, Shadow Slayer
+3 Seachrome Coast
+4 Archmage's Charm
+4 Seachrome Coast

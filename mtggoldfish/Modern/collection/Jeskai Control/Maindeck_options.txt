@@ -1,34 +1,19 @@
 3 Mystic Gate
-1 Glacial Fortress
-2 Scalding Tarn
 1 Jace, the Mind Sculptor
 1 Cryptic Command
+1 Glacial Fortress
+2 Scalding Tarn
 3 Spreading Seas
+2 Raugrin Triome
 2 Steam Vents
-2 Glacial Fortress
+1 Castle Ardenvale
+4 Fire/Ice
 3 Scalding Tarn
 4 Scalding Tarn
-1 Castle Ardenvale
-2 Raugrin Triome
-4 Fire/Ice
-1 Lightning Bolt
-2 Lightning Bolt
-2 Misty Rainforest
-2 Hall of Storm Giants
-1 Snapcaster Mage
-2 Snapcaster Mage
-1 Sulfur Falls
-3 Lightning Bolt
-4 Spreading Seas
-3 Snapcaster Mage
-1 Expressive Iteration
-2 Expressive Iteration
-3 Expressive Iteration
-4 Expressive Iteration
+2 Glacial Fortress
 2 Cryptic Command
 1 Spirebluff Canal
 2 Spirebluff Canal
-3 Chalice of the Void
 3 Memory Deluge
 4 Memory Deluge
 1 Sacred Foundry
@@ -53,19 +38,31 @@
 4 Lotus Field
 4 Cryptic Command
 4 Flagstones of Trokair
-2 Sulfur Falls
-4 Lightning Bolt
-3 Polluted Delta
 1 Fury
 2 Fury
 3 Fury
 4 Fury
 4 Valakut Awakening
 4 Blood Sun
+2 Hall of Storm Giants
+3 Chalice of the Void
+4 Spreading Seas
+2 Misty Rainforest
+1 Lightning Bolt
+2 Lightning Bolt
+1 Snapcaster Mage
+2 Snapcaster Mage
+1 Sulfur Falls
+3 Lightning Bolt
+3 Polluted Delta
+3 Snapcaster Mage
+1 Expressive Iteration
+2 Expressive Iteration
+3 Expressive Iteration
+4 Expressive Iteration
 5 Island
-1 Murktide Regent
-2 Murktide Regent
-3 Murktide Regent
+2 Sulfur Falls
+4 Lightning Bolt
 3 Castle Vantress
 1 Cleansing Wildfire
 2 Cleansing Wildfire
@@ -73,10 +70,9 @@
 1 Breeding Pool
 3 Shark Typhoon
 2 Jace, the Mind Sculptor
-3 Misty Rainforest
-3 Sulfur Falls
-1 Thought Scour
-4 Murktide Regent
+1 Murktide Regent
+2 Murktide Regent
+3 Murktide Regent
 1 Consider
 2 Consider
 3 Consider
@@ -91,12 +87,9 @@
 4 Omen of the Sea
 3 Hallowed Fountain
 1 Force of Negation
-2 Thought Scour
-3 Thought Scour
-4 Thought Scour
 1 Field of Ruin
 2 Field of Ruin
-1 Spell Pierce
+1 Thought Scour
 1 Serum Visions
 1 Ragavan, Nimble Pilferer
 1 Dragon's Rage Channeler
@@ -114,10 +107,14 @@
 4 Dragon's Rage Channeler
 4 Mishra's Bauble
 4 Unholy Heat
+1 Spell Pierce
+4 Murktide Regent
+3 Misty Rainforest
 1 Prismari Command
 1 Engineered Explosives
 2 Engineered Explosives
 3 Steam Vents
+3 Sulfur Falls
 1 Emrakul, the Aeons Torn
 6 Island
 4 Castle Vantress
@@ -125,17 +122,17 @@
 1 Subtlety
 1 Path to Exile
 1 Rest in Peace
-1 Sunset Revelry
 1 Ral, Izzet Viceroy
+1 Sunset Revelry
 2 Sunset Revelry
+1 Restoration Angel
+1 Elspeth, Sun's Champion
+2 Restoration Angel
 1 Dress Down
 2 Dress Down
 2 Dovin's Veto
-1 Elspeth, Sun's Champion
-1 Restoration Angel
-2 Restoration Angel
-1 Esper Sentinel
 1 Brazen Borrower
+1 Esper Sentinel
 2 Serum Visions
 1 Nahiri, the Harbinger
 1 Blood Moon
@@ -144,7 +141,9 @@
 2 Blood Moon
 3 Plains
 3 Blood Moon
-4 Misty Rainforest
+2 Thought Scour
+3 Thought Scour
+4 Thought Scour
 1 Cascade Bluffs
 1 Discontinuity
 2 Discontinuity

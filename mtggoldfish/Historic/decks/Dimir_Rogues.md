@@ -69,6 +69,7 @@
 |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)       |                     |                                                                                                 |
 |                    3|[Dismal Backwater](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420908)       |                     |                                                                                                 |
 |                    3|[Of One Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479580)            |                     |                                                                                                 |
+|                    4|[Dismal Backwater](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420908)       |                     |                                                                                                 |
 |                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                 |                     |                                                                                                 |
 |                    5|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                  |                     |                                                                                                 |
 |                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                 |                     |                                                                                                 |
@@ -79,5 +80,4 @@
 |                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                  |                     |                                                                                                 |
 |                    9|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                 |                     |                                                                                                 |
 |                    9|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                  |                     |                                                                                                 |
-|                    4|[Dismal Backwater](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420908)       |                     |                                                                                                 |
 
