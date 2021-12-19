@@ -12,8 +12,8 @@
 1 Cragcrown Pathway
 1 Rockfall Vale
 2 Rockfall Vale
-1 Cultivator Colossus
 1 The World Tree
+1 Cultivator Colossus
 1 Stormcarved Coast
 1 Mulch
 1 Diregraf Rebirth
@@ -32,8 +32,8 @@
 2 Iymrith, Desert Doom
 1 Darkbore Pathway
 1 Barkchannel Pathway
-2 Cragcrown Pathway
 2 Darkbore Pathway
+2 Cragcrown Pathway
 1 Infernal Grasp
 1 Saw It Coming
 1 Island
@@ -50,16 +50,16 @@
 2 The Meathook Massacre
 2 Shambling Ghast
 3 Shambling Ghast
-4 Deadly Dispute
 4 Shambling Ghast
+4 Deadly Dispute
 1 Wrenn and Seven
 2 Wrenn and Seven
-1 Sea Gate Restoration
-1 Den of the Bugbear
 1 Edgar's Awakening
+1 Den of the Bugbear
+1 Sea Gate Restoration
+1 Burning-Rune Demon
 1 Old Gnawbone
 1 Duress
-1 Burning-Rune Demon
 1 Olivia, Crimson Bride
 2 The Celestus
 2 Duress
@@ -72,20 +72,20 @@
 3 Edgar's Awakening
 4 Clearwater Pathway
 1 Memory Deluge
-1 Crippling Fear
-1 Burning Hands
 1 Hunt for Specimens
+1 Burning Hands
+1 Crippling Fear
+1 Prismari Campus
 1 Bloodchief's Thirst
 1 Soul Shatter
 1 Expressive Iteration
 1 Negate
 1 Galazeth Prismari
 1 Shadows' Verdict
-1 Prismari Campus
 1 Baleful Mastery
 1 Field of Ruin
-2 Hunt for Specimens
 2 Memory Deluge
+2 Hunt for Specimens
 2 Shadows' Verdict
 2 Burning Hands
 2 Alrund's Epiphany
@@ -98,22 +98,22 @@
 3 Expressive Iteration
 4 Expressive Iteration
 1 Port of Karfell
+1 Bala Ged Recovery
 1 Tovolar's Huntmaster
 1 Avabruck Caretaker
 1 Glasspool Mimic
-1 Bala Ged Recovery
 1 Scale the Heights
 1 Dreamroot Cascade
+2 Port of Karfell
+2 Bala Ged Recovery
 2 Tovolar's Huntmaster
 2 Avabruck Caretaker
-2 Bala Ged Recovery
-2 Port of Karfell
 2 Barkchannel Pathway
 2 Scale the Heights
-3 Diregraf Rebirth
-3 Scale the Heights
 3 Barkchannel Pathway
 3 Darkbore Pathway
+3 Diregraf Rebirth
+3 Scale the Heights
 3 Cragcrown Pathway
 4 Scale the Heights
 4 Mulch
@@ -123,8 +123,9 @@
 2 Snow-Covered Swamp
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
-1 Snow-Covered Island
 1 Otherworldly Gaze
+1 Snow-Covered Island
+1 Path to the Festival
 1 Hagra Mauling
 1 Lier, Disciple of the Drowned
 1 Path of Peril
@@ -134,25 +135,24 @@
 1 Divide by Zero
 1 Snow-Covered Forest
 1 Volatile Fjord
-1 Path to the Festival
 1 Seize the Storm
 1 Arcane Infusion
-2 Snow-Covered Island
 2 Otherworldly Gaze
+2 Snow-Covered Island
+2 Path to the Festival
 2 Path of Peril
 2 Seize the Storm
 2 Woodland Chasm
-2 Path to the Festival
 2 Volatile Fjord
 2 Demonic Bargain
 2 Arcane Infusion
 2 Snow-Covered Forest
+3 Path to the Festival
 3 Snow-Covered Island
 3 Otherworldly Gaze
 3 Path of Peril
 3 Demonic Bargain
 3 Seize the Storm
-3 Path to the Festival
 3 Arcane Infusion
 3 Snow-Covered Forest
 3 Volatile Fjord
@@ -167,22 +167,22 @@
 7 Snow-Covered Island
 8 Snow-Covered Island
 1 Prosperous Innkeeper
+1 Eaten Alive
 1 Disdainful Stroke
 1 Vineglimmer Snarl
 1 Necroblossom Snarl
-1 Eaten Alive
-2 Eaten Alive
 2 Prosperous Innkeeper
+2 Eaten Alive
 2 Island
-3 Island
-3 Prosperous Innkeeper
 3 Eaten Alive
+3 Prosperous Innkeeper
+3 Island
 3 Swamp
 3 Saw It Coming
+4 Eaten Alive
 4 Saw It Coming
 4 Swamp
 4 Island
-4 Eaten Alive
 4 Prosperous Innkeeper
 5 Swamp
 6 Swamp
@@ -190,29 +190,29 @@
 8 Swamp
 9 Swamp
 10 Swamp
-1 Lolth, Spider Queen
+1 Kazuul's Fury
 1 Sulfurous Mire
 1 Kalain, Reclusive Painter
-1 Kazuul's Fury
+1 Lolth, Spider Queen
 1 Immersturm Predator
 2 Hive of the Eye Tyrant
 2 Shatterskull Smashing
+2 Sulfurous Mire
 2 Kalain, Reclusive Painter
 2 Lolth, Spider Queen
 2 Kazuul's Fury
-2 Sulfurous Mire
 2 Immersturm Predator
 3 Skullport Merchant
+3 Immersturm Predator
 3 Snow-Covered Mountain
 3 Kalain, Reclusive Painter
-3 Immersturm Predator
 3 Eyetwitch
 3 Sulfurous Mire
 3 Blood on the Snow
 4 Skullport Merchant
+4 Immersturm Predator
 4 Snow-Covered Mountain
 4 Eyetwitch
-4 Immersturm Predator
 4 Sulfurous Mire
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
