@@ -137,15 +137,15 @@
 2 Akiri, Fearless Voyager
 2 Kargan Warleader
 2 Alpine Meadow
+3 Maul of the Skyclaves
 3 Kabira Takedown
 3 Alpine Meadow
 3 Kargan Warleader
 3 Kor Blademaster
-3 Maul of the Skyclaves
+4 Maul of the Skyclaves
 4 Kargan Warleader
 4 Alpine Meadow
 4 Kabira Takedown
-4 Maul of the Skyclaves
 4 Kor Blademaster
 1 Sunrise Cavalier
 1 Monk of the Open Hand
@@ -165,19 +165,19 @@
 1 Kargan Intimidator
 2 Kargan Intimidator
 3 Kargan Intimidator
-1 Radiant Scrollwielder
-3 Flame Channeler
-4 Den of the Bugbear
-4 Flame Channeler
-4 Clarion Spirit
-4 Welcoming Vampire
 1 Codespell Cleric
 1 Sunstreak Phoenix
 2 Codespell Cleric
 2 Sunstreak Phoenix
 3 Codespell Cleric
-4 Reckless Impulse
 4 Codespell Cleric
+4 Reckless Impulse
+1 Radiant Scrollwielder
+3 Flame Channeler
+4 Flame Channeler
+4 Den of the Bugbear
+4 Clarion Spirit
+4 Welcoming Vampire
 1 Savior of Ollenbock
 1 Stonebinder's Familiar
 1 Sungold Sentinel
@@ -187,13 +187,13 @@
 3 Stonebinder's Familiar
 3 Moonveil Regent
 3 Sungold Sentinel
-4 Sungold Sentinel
 4 Stonebinder's Familiar
+4 Sungold Sentinel
 4 Moonveil Regent
-1 Magda, Brazen Outlaw
 1 Alchemist's Gambit
 1 Dueling Rapier
 1 Goblin Morningstar
+1 Magda, Brazen Outlaw
 2 Magda, Brazen Outlaw
 3 Halvar, God of Battle
 5 Snow-Covered Mountain
@@ -214,8 +214,8 @@
 11 Plains
 12 Plains
 1 Ollenbock Escort
-2 Legion Angel
 2 Ollenbock Escort
+2 Legion Angel
 3 Faceless Haven
 3 Ollenbock Escort
 4 Ollenbock Escort

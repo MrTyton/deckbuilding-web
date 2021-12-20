@@ -168,12 +168,6 @@
 2 Siphon Insight
 2 Disdainful Stroke
 3 Siphon Insight
-1 Blood on the Snow
-1 Test of Talents
-2 Lolth, Spider Queen
-2 Test of Talents
-3 Test of Talents
-4 Deadly Dispute
 1 Bloodline Pretender
 2 Bloodline Pretender
 4 Wight
@@ -181,9 +175,9 @@
 1 Syncopate
 1 Divide by Zero
 1 Hullbreaker Horror
-2 Hullbreaker Horror
 2 Syncopate
 2 Divide by Zero
+2 Hullbreaker Horror
 3 Fading Hope
 3 Divide by Zero
 4 Divide by Zero
@@ -198,20 +192,26 @@
 1 You Find the Villains' Lair
 1 Reject
 1 Curate
-2 Reject
 2 You Find the Villains' Lair
+2 Reject
 2 Curate
 3 Poppet Stitcher
 3 You Find the Villains' Lair
 3 Curate
 4 Narfi, Betrayer King
 4 Curate
+1 Blood on the Snow
+1 Test of Talents
+2 Test of Talents
+2 Lolth, Spider Queen
+3 Test of Talents
+4 Deadly Dispute
+1 Acererak the Archlich
 1 Baleful Mastery
 1 Strixhaven Stadium
-1 Acererak the Archlich
 1 Reflections of Littjara
-2 Field of Ruin
 2 Hagra Mauling
+2 Field of Ruin
 2 Acererak the Archlich
 2 Strixhaven Stadium
 2 Reflections of Littjara
@@ -226,6 +226,13 @@
 4 Ghastly Gloomhunter
 4 Organ Hoarder
 4 Reflections of Littjara
+1 Evolving Wilds
+1 Cobbled Lancer
+1 Rot-Tide Gargantua
+2 Rotten Reunion
+2 Cobbled Lancer
+3 Rotten Reunion
+9 Snow-Covered Island
 1 Eyetwitch
 2 Eyetwitch
 3 Eyetwitch
@@ -245,10 +252,3 @@
 4 Corpse Cobble
 14 Snow-Covered Swamp
 15 Snow-Covered Swamp
-1 Evolving Wilds
-1 Cobbled Lancer
-1 Rot-Tide Gargantua
-2 Rotten Reunion
-2 Cobbled Lancer
-3 Rotten Reunion
-9 Snow-Covered Island

@@ -134,7 +134,7 @@
 |                    4|[Hopeful Initiate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=540850)           |                     |                                                                                                       |
 |                    4|[Benalish Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442894)           |                     |                                                                                                       |
 |                    4|[Brave the Elements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389450)         |                     |                                                                                                       |
-|                   18|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                       |
 |                   19|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                       |
 |                   20|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                       |
+|                   18|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                       |
 

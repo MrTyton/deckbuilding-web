@@ -51,10 +51,10 @@
 1 Blood Sun
 1 Kiki-Jiki, Mirror Breaker
 1 Reflecting Pool
-1 Cascade Bluffs
 1 Crackling Drake
 1 Riverglide Pathway
 1 Valakut Awakening
+1 Cascade Bluffs
 1 Deceiver Exarch
 2 Blood Sun
 2 Kiki-Jiki, Mirror Breaker
@@ -66,8 +66,8 @@
 3 Cascade Bluffs
 3 Riverglide Pathway
 4 Riverglide Pathway
-1 Snow-Covered Island
 1 Raugrin Triome
+1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
@@ -92,8 +92,6 @@
 2 Thing in the Ice
 3 Dress Down
 3 Thing in the Ice
-3 Unholy Heat
-4 Unholy Heat
 4 Prismari Command
 1 Through the Breach
 1 Fiery Islet
@@ -106,8 +104,10 @@
 4 Through the Breach
 4 Sulfur Falls
 4 Emrakul, the Aeons Torn
-9 Island
 2 Spreading Seas
 3 Spreading Seas
 3 Subtlety
 4 Spreading Seas
+9 Island
+4 Unholy Heat
+3 Unholy Heat
