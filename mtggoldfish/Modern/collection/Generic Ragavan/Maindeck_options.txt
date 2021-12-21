@@ -1,4 +1,4 @@
-2 Fury
+3 Prismatic Vista
 1 Mishra's Bauble
 1 Unholy Heat
 2 Mishra's Bauble
@@ -7,18 +7,18 @@
 3 Unholy Heat
 4 Mishra's Bauble
 4 Unholy Heat
-1 Bloodstained Mire
 1 Kroxa, Titan of Death's Hunger
-1 Inquisition of Kozilek
-1 Blood Crypt
 1 Thoughtseize
+1 Blood Crypt
+1 Inquisition of Kozilek
+1 Bloodstained Mire
+2 Thoughtseize
 2 Bloodstained Mire
 2 Inquisition of Kozilek
-2 Thoughtseize
-3 Bloodstained Mire
 3 Inquisition of Kozilek
-2 Kroxa, Titan of Death's Hunger
+3 Bloodstained Mire
 2 Blood Crypt
+2 Kroxa, Titan of Death's Hunger
 4 Bloodstained Mire
 1 Swamp
 1 Kolaghan's Command
@@ -28,18 +28,18 @@
 2 Kolaghan's Command
 1 Tourach, Dread Cantor
 2 Tourach, Dread Cantor
-1 Steam Vents
 1 Spirebluff Canal
 1 Expressive Iteration
-1 Scalding Tarn
+1 Watery Grave
 1 Dress Down
 1 Drown in the Loch
-1 Watery Grave
+1 Steam Vents
+1 Scalding Tarn
 1 Polluted Delta
-2 Polluted Delta
-2 Expressive Iteration
 2 Scalding Tarn
+2 Expressive Iteration
 2 Drown in the Loch
+2 Polluted Delta
 3 Polluted Delta
 3 Expressive Iteration
 4 Expressive Iteration
@@ -58,6 +58,7 @@
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
 4 Seasoned Pyromancer
+1 Pyrite Spellbomb
 1 Darkslick Shores
 3 Fury
 4 Fury
@@ -72,10 +73,10 @@
 4 Blood Crypt
 4 Kroxa, Titan of Death's Hunger
 1 Liliana of the Veil
-2 Liliana of the Veil
 2 Fatal Push
-1 Wooded Foothills
+2 Liliana of the Veil
 1 Tarmogoyf
+1 Wooded Foothills
 1 Forest
 1 Stomping Ground
 2 Forest
@@ -83,13 +84,14 @@
 3 Tarmogoyf
 4 Tarmogoyf
 1 Raugrin Triome
-1 Pyrite Spellbomb
+2 Plains
+3 Sacred Foundry
 1 Snow-Covered Swamp
 1 Spell Pierce
 2 Snow-Covered Swamp
 3 Dress Down
-1 Urborg, Tomb of Yawgmoth
 1 Night's Whisper
+1 Urborg, Tomb of Yawgmoth
 1 Shizo, Death's Storehouse
 2 Terminate
 2 Graven Cairns
@@ -127,9 +129,9 @@
 3 Lightning Skelemental
 4 Unearth
 4 Lightning Skelemental
+1 Godless Shrine
 1 Dark Confidant
 1 Lingering Souls
-1 Godless Shrine
 2 Dark Confidant
 2 Lingering Souls
 3 Dark Confidant
@@ -150,27 +152,27 @@
 2 Cragcrown Pathway
 2 Copperline Gorge
 2 Bonecrusher Giant
-2 Stomping Ground
 2 Scavenging Ooze
+2 Stomping Ground
 2 Ignoble Hierarch
-2 Wooded Foothills
 2 Atarka's Command
+2 Wooded Foothills
 2 Hexdrinker
 2 Eidolon of the Great Revel
+3 Wooded Foothills
 3 Cragcrown Pathway
 3 Bonecrusher Giant
-3 Ignoble Hierarch
-3 Wooded Foothills
-3 Atarka's Command
 3 Stomping Ground
+3 Ignoble Hierarch
+3 Atarka's Command
 3 Eidolon of the Great Revel
 3 Hexdrinker
 3 Copperline Gorge
+4 Wooded Foothills
 4 Bonecrusher Giant
-4 Ignoble Hierarch
 4 Stomping Ground
+4 Ignoble Hierarch
 4 Eidolon of the Great Revel
 4 Copperline Gorge
 4 Hexdrinker
-4 Wooded Foothills
 4 Atarka's Command

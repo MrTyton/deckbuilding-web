@@ -16,9 +16,9 @@
 2 Mana Tithe
 3 Soul-Guide Lantern
 1 Veil of Summer
-2 Veil of Summer
 1 Hushbringer
 2 Hushbringer
+2 Veil of Summer
 1 Nature's Claim
 2 Nature's Claim
 1 Spirit Link
@@ -31,8 +31,8 @@
 1 Dismember
 1 Sanctifier en-Vec
 1 Seal of Cleansing
-2 Seal of Cleansing
 2 Sanctifier en-Vec
+2 Seal of Cleansing
 3 Sanctifier en-Vec
 4 Sanctifier en-Vec
 1 Collector Ouphe
@@ -40,32 +40,34 @@
 1 Stubborn Denial
 2 Stubborn Denial
 1 All That Glitters
-1 Tale's End
-1 Nature's Chant
 1 Ethersworn Canonist
 1 Return to Nature
-1 Shatter the Sky
 1 Blessed Alliance
-2 Dismember
+1 Shatter the Sky
+1 Tale's End
+1 Nature's Chant
 1 Prismatic Ending
 2 Spirit Link
+2 Dismember
 1 Wilt
+1 Foundation Breaker
 1 Gaea's Blessing
 1 Spirit Mantle
 1 Light of Hope
-1 Foundation Breaker
 1 Destiny Spinner
+2 Foundation Breaker
 2 Gaea's Blessing
 2 Light of Hope
-2 Foundation Breaker
 2 Destiny Spinner
-3 Veil of Summer
-3 Stubborn Denial
 3 Rest in Peace
 3 Hushbringer
-1 Deafening Silence
+3 Veil of Summer
+3 Stubborn Denial
+3 Mana Tithe
+4 Path to Exile
 1 Cursed Totem
 1 Creeping Corrosion
+1 Deafening Silence
 1 Luminarch Ascension
 2 Cursed Totem
 2 Luminarch Ascension
@@ -74,5 +76,3 @@
 3 Cursed Totem
 3 Wilt
 3 Deafening Silence
-4 Path to Exile
-3 Mana Tithe

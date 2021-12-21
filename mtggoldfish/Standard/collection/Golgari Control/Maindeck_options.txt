@@ -1,9 +1,3 @@
-1 Duress
-2 Duress
-3 Sorin the Mirthless
-1 Esika's Chariot
-2 Esika's Chariot
-3 Esika's Chariot
 1 Binding the Old Gods
 1 Darkbore Pathway
 2 Binding the Old Gods
@@ -28,62 +22,68 @@
 1 Storm the Festival
 2 Storm the Festival
 4 Prosperous Innkeeper
-1 Forest
-1 Swamp
-2 Forest
-2 Swamp
-3 Swamp
-4 Swamp
 1 Tangled Florahedron
 2 Tangled Florahedron
 3 Tangled Florahedron
 3 Storm the Festival
 4 Tangled Florahedron
 2 Lair of the Hydra
-1 Briarbridge Tracker
+1 Snow-Covered Forest
 1 Power Word Kill
 1 Augur of Autumn
 2 Power Word Kill
 2 Augur of Autumn
 4 Wrenn and Seven
-3 Forest
-4 Lolth, Spider Queen
-1 Snow-Covered Forest
-3 Duress
-4 Forest
-5 Swamp
+1 Briarbridge Tracker
+1 Forest
+1 Swamp
+2 Forest
+2 Swamp
+3 Swamp
+4 Swamp
+1 Primal Adversary
 3 Augur of Autumn
 3 Lair of the Hydra
-1 Primal Adversary
-2 Briarbridge Tracker
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 4 Snow-Covered Forest
 5 Snow-Covered Forest
+3 Forest
+2 Professor Onyx
+3 Sorin the Mirthless
+4 Lolth, Spider Queen
+4 Forest
+5 Swamp
+1 Soul Shatter
+2 Briarbridge Tracker
+1 Duress
+2 Duress
+3 Skullport Merchant
+1 Valki, God of Lies
+3 Duress
+4 The Meathook Massacre
+2 Valki, God of Lies
+2 Woodland Chasm
 1 Eaten Alive
 2 Eaten Alive
+1 Fell Stinger
+2 Fell Stinger
 1 Bloodchief's Thirst
-1 Valki, God of Lies
-4 The Meathook Massacre
+2 Bloodchief's Thirst
 2 Hagra Mauling
 3 Eaten Alive
 4 Eaten Alive
 17 Snow-Covered Swamp
-2 Woodland Chasm
-1 Pelakka Predation
-2 Pelakka Predation
-2 Bloodchief's Thirst
-2 Valki, God of Lies
 1 Concealing Curtains
 2 Concealing Curtains
 3 Concealing Curtains
-1 Fell Stinger
-2 Fell Stinger
 4 Infernal Grasp
 5 Forest
+1 Pelakka Predation
 1 Go Blank
 6 Swamp
 1 Skeletal Swarming
+2 Pelakka Predation
 4 Skullport Merchant
 6 Forest
 1 Hero's Downfall
@@ -112,18 +112,20 @@
 7 Forest
 1 Snow-Covered Mountain
 1 Ranger Class
+1 Elderfang Disciple
+2 Elderfang Disciple
 2 Hero's Downfall
 2 Soul Shatter
 3 Valki, God of Lies
 3 Power Word Kill
 1 Tainted Adversary
+1 Check for Traps
 1 Voldaren Bloodcaster
 1 Malakir Rebirth
 1 Parasitic Grasp
-1 Flunk
 1 The World Tree
+1 Flunk
 1 Vorinclex, Monstrous Raider
-1 Check for Traps
 1 Pointed Discussion
 2 Tainted Adversary
 2 Voldaren Bloodcaster

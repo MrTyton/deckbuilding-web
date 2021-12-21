@@ -21,26 +21,26 @@
 4 Gryff's Boon
 4 All That Glitters
 4 Ethereal Armor
-1 Hateful Eidolon
 1 Selfless Savior
+1 Hateful Eidolon
 1 Alseid of Life's Bounty
 2 Sram, Senior Edificer
+2 Alseid of Life's Bounty
 2 Hateful Eidolon
 2 Selfless Savior
-2 Alseid of Life's Bounty
-3 Hateful Eidolon
 3 Alseid of Life's Bounty
+3 Hateful Eidolon
 3 Sram, Senior Edificer
 3 Cartouche of Solidarity
-4 Hateful Eidolon
 4 Alseid of Life's Bounty
 4 Caves of Koilos
 4 Sram, Senior Edificer
+4 Hateful Eidolon
 1 Isolated Chapel
 1 Power Word Kill
+2 Hive of the Eye Tyrant
 2 Isolated Chapel
 2 Elspeth, Sun's Nemesis
-2 Hive of the Eye Tyrant
 3 Omen of the Sun
 4 Rite of Oblivion
 1 Sentinel's Eyes
@@ -67,8 +67,8 @@
 1 Karametra's Blessing
 2 Karametra's Blessing
 1 Field of Ruin
-1 Vanishing Verse
 1 Cling to Dust
+1 Vanishing Verse
 2 Vanishing Verse
 3 Shattered Sanctum
 5 Plains
@@ -101,10 +101,10 @@
 2 Demonic Pact
 3 Cavalier of Dawn
 3 Demonic Pact
-1 Bloodchief's Thirst
 1 Sorin the Mirthless
-2 Sorin the Mirthless
+1 Bloodchief's Thirst
 2 Field of Ruin
+2 Sorin the Mirthless
 2 Lolth, Spider Queen
 4 Go Blank
 4 The Birth of Meletis
@@ -113,42 +113,42 @@
 1 Snow-Covered Plains
 1 Binding the Old Gods
 1 Snow-Covered Swamp
-1 Indatha Triome
-1 Languish
-1 Shambling Vent
-1 Darkbore Pathway
 1 Overgrown Tomb
-1 Extinction Event
-1 Ranger Class
-1 Siege Rhino
+1 Indatha Triome
 1 Branchloft Pathway
+1 Shambling Vent
+1 Languish
+1 Darkbore Pathway
+1 Extinction Event
+1 Siege Rhino
+1 Ranger Class
 1 Overgrown Farmland
 2 Snow-Covered Plains
 2 Binding the Old Gods
-2 Shambling Vent
-2 Darkbore Pathway
 2 Overgrown Tomb
-2 Ranger Class
+2 Branchloft Pathway
+2 Shambling Vent
 2 Siege Rhino
 2 Extinction Event
-2 Branchloft Pathway
 2 Overgrown Farmland
 2 Indatha Triome
-3 Darkbore Pathway
+2 Ranger Class
+2 Darkbore Pathway
 3 Overgrown Tomb
 3 Ranger Class
 3 Branchloft Pathway
 3 Indatha Triome
+3 Darkbore Pathway
 3 Shambling Vent
-4 Ranger Class
-4 Darkbore Pathway
 4 Overgrown Tomb
-4 Indatha Triome
+4 Ranger Class
 4 Branchloft Pathway
+4 Darkbore Pathway
+4 Indatha Triome
+1 Sunpetal Grove
 1 Sixth Sense
 1 Scattered Groves
 1 Fortified Village
-1 Sunpetal Grove
 1 Arctic Treeline
 1 Unflinching Courage
 1 Dromoka's Command
@@ -158,8 +158,8 @@
 1 Season of Growth
 1 Gift of Orzhova
 1 Forest
-2 Fortified Village
 2 Sunpetal Grove
+2 Fortified Village
 2 Season of Growth
 2 Gladecover Scout
 2 Forest
@@ -177,10 +177,10 @@
 3 Temple Garden
 3 Scattered Groves
 3 Bassara Tower Archer
+4 Temple Garden
 4 Sunpetal Grove
 4 Season of Growth
 4 Scattered Groves
-4 Temple Garden
 4 Bassara Tower Archer
 4 Gladecover Scout
 1 Containment Priest

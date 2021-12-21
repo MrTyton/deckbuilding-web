@@ -16,33 +16,13 @@
 3 Dreamroot Cascade
 4 Dreamroot Cascade
 7 Island
+2 Cyclone Summoner
 2 Koma, Cosmos Serpent
 1 Memory Deluge
 4 Wrenn and Seven
-2 Cyclone Summoner
+1 Hullbreaker Horror
 1 Emergent Sequence
 2 Emergent Sequence
-1 Hullbreaker Horror
-7 Forest
-1 Tangled Florahedron
-1 Into the Roil
-2 Into the Roil
-3 Emergent Sequence
-3 Into the Roil
-4 Emergent Sequence
-4 Into the Roil
-1 Overcharged Amalgam
-1 Spectral Adversary
-2 Overcharged Amalgam
-2 Spectral Adversary
-3 Overcharged Amalgam
-3 Spectral Adversary
-4 Spectral Adversary
-2 Memory Deluge
-2 Tangled Florahedron
-3 Hall of Storm Giants
-3 Tangled Florahedron
-4 Tangled Florahedron
 1 Snow-Covered Forest
 1 Snow-Covered Island
 2 Snow-Covered Forest
@@ -51,10 +31,6 @@
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest
-2 Hullbreaker Horror
-3 Hullbreaker Horror
-1 Lotus Cobra
-1 Glasspool Mimic
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
@@ -65,6 +41,41 @@
 2 Field Trip
 3 Cyclone Summoner
 4 Cyclone Summoner
+1 Glasspool Mimic
+7 Forest
+1 Avalanche Caller
+7 Snow-Covered Island
+8 Snow-Covered Island
+1 Tangled Florahedron
+1 Curate
+1 Lier, Disciple of the Drowned
+1 Test of Talents
+1 Glimpse the Cosmos
+1 Inscription of Insight
+2 Glasspool Mimic
+2 Glimpse the Cosmos
+2 Inscription of Insight
+1 Into the Roil
+2 Into the Roil
+3 Emergent Sequence
+3 Into the Roil
+4 Emergent Sequence
+4 Into the Roil
+2 Memory Deluge
+2 Tangled Florahedron
+3 Hall of Storm Giants
+3 Tangled Florahedron
+4 Tangled Florahedron
+1 Lotus Cobra
+1 Overcharged Amalgam
+1 Spectral Adversary
+2 Overcharged Amalgam
+2 Spectral Adversary
+3 Overcharged Amalgam
+3 Spectral Adversary
+4 Spectral Adversary
+2 Hullbreaker Horror
+3 Hullbreaker Horror
 1 Ashaya, Soul of the Wild
 1 Mind Flayer
 1 Blizzard Brawl
@@ -75,9 +86,6 @@
 1 Briarbridge Tracker
 2 Briarbridge Tracker
 2 Mind Flayer
-1 Avalanche Caller
-7 Snow-Covered Island
-8 Snow-Covered Island
 1 Spirit of the Aldergard
 2 Spirit of the Aldergard
 3 Spirit of the Aldergard
@@ -94,21 +102,13 @@
 1 Eureka Moment
 2 Eureka Moment
 2 Bookwurm
+1 Tovolar's Huntmaster
 1 Disdainful Stroke
+1 Jwari Disruption
+2 Jwari Disruption
 1 Consuming Tide
 1 Solve the Equation
 2 Consuming Tide
-1 Jwari Disruption
-2 Jwari Disruption
-1 Tovolar's Huntmaster
-1 Curate
-1 Lier, Disciple of the Drowned
-1 Test of Talents
-1 Inscription of Insight
-1 Glimpse the Cosmos
-2 Glasspool Mimic
-2 Glimpse the Cosmos
-2 Inscription of Insight
 1 Secrets of the Key
 2 Secrets of the Key
 3 Memory Deluge
@@ -212,15 +212,15 @@
 2 Scale the Heights
 2 Druid Class
 2 Rabid Bite
+2 Negate
 2 Bramble Wurm
 2 Ranger Class
-2 Negate
 8 Forest
 8 Island
 9 Forest
 9 Island
-10 Forest
 10 Island
-11 Forest
+10 Forest
 11 Island
+11 Forest
 12 Island

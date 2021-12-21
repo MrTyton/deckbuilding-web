@@ -84,17 +84,17 @@
 3 Swamp
 1 Concealing Curtains
 1 Syncopate
-1 Jaspera Sentinel
 1 Graveyard Trespasser
+1 Jaspera Sentinel
 1 Bloodvial Purveyor
 2 Concealing Curtains
 2 Syncopate
-2 Jaspera Sentinel
 2 Graveyard Trespasser
+2 Jaspera Sentinel
 2 Bloodvial Purveyor
 3 Concealing Curtains
-3 Jaspera Sentinel
 3 Bloodvial Purveyor
+3 Jaspera Sentinel
 1 Fell Stinger
 1 Agadeem's Awakening
 2 Fell Stinger
@@ -142,8 +142,8 @@
 4 Scute Swarm
 5 Swamp
 1 Snow-Covered Mountain
-1 Pelakka Predation
 1 Bloodline Culling
+1 Pelakka Predation
 1 Tergrid, God of Fright
 1 Crippling Fear
 1 Hero's Downfall
@@ -209,22 +209,6 @@
 2 Hullbreaker Horror
 3 Jwari Disruption
 4 Binding the Old Gods
-1 Vastwood Surge
-1 Ice Tunnel
-1 Briarbridge Tracker
-1 Xanathar, Guild Kingpin
-1 Narfi, Betrayer King
-1 Acererak the Archlich
-2 Ice Tunnel
-2 Briarbridge Tracker
-2 Vastwood Surge
-2 Storm the Festival
-2 Rimewood Falls
-3 Briarbridge Tracker
-3 Woodland Chasm
-4 Snow-Covered Forest
-4 Woodland Chasm
-5 Snow-Covered Forest
 1 Koma, Cosmos Serpent
 1 Emergent Sequence
 1 Neverwinter Dryad
@@ -236,3 +220,19 @@
 3 Emergent Sequence
 4 Emergent Sequence
 5 Forest
+1 Briarbridge Tracker
+1 Vastwood Surge
+1 Ice Tunnel
+1 Xanathar, Guild Kingpin
+1 Narfi, Betrayer King
+1 Acererak the Archlich
+2 Ice Tunnel
+2 Vastwood Surge
+2 Briarbridge Tracker
+2 Storm the Festival
+2 Rimewood Falls
+3 Briarbridge Tracker
+3 Woodland Chasm
+4 Snow-Covered Forest
+4 Woodland Chasm
+5 Snow-Covered Forest

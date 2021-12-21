@@ -26,8 +26,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    4|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)    |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)   |
-|                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)            |                    2|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)   |
+|                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)            |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)   |
+|                    4|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)    |                    2|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)   |
 |                    7|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)            |                    1|[Curse of Shaken Faith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534910)|
 |                    1|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)       |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)    |
 |                    2|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)          |                    2|[Curse of Shaken Faith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534910)|

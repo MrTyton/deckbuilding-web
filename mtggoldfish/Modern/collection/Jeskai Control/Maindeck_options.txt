@@ -1,23 +1,21 @@
-2 Polluted Delta
-2 Scalding Tarn
+1 Misty Rainforest
 2 Steam Vents
+2 Scalding Tarn
+2 Raugrin Triome
+4 Fire/Ice
+1 Jace, the Mind Sculptor
+1 Castle Ardenvale
 1 Cryptic Command
 3 Spreading Seas
-4 Fire/Ice
-2 Raugrin Triome
-1 Jace, the Mind Sculptor
-1 Glacial Fortress
-1 Castle Ardenvale
 3 Scalding Tarn
 4 Scalding Tarn
+1 Glacial Fortress
 2 Hall of Storm Giants
 2 Glacial Fortress
-2 Cryptic Command
 1 Spirebluff Canal
 2 Spirebluff Canal
-3 Memory Deluge
-4 Memory Deluge
 3 Spirebluff Canal
+2 Cryptic Command
 1 Sacred Foundry
 1 Flagstones of Trokair
 1 Blood Sun
@@ -32,6 +30,7 @@
 2 Seachrome Coast
 2 Lotus Field
 3 Cryptic Command
+3 Memory Deluge
 3 Teferi, Hero of Dominaria
 3 Valakut Awakening
 3 Lotus Field
@@ -39,22 +38,22 @@
 3 Fury
 3 Flagstones of Trokair
 4 Fury
-4 Teferi, Hero of Dominaria
+4 Memory Deluge
 4 Lotus Field
 4 Valakut Awakening
 4 Cryptic Command
 4 Flagstones of Trokair
+4 Teferi, Hero of Dominaria
 4 Blood Sun
+3 Polluted Delta
 1 Lightning Bolt
 2 Lightning Bolt
-2 Misty Rainforest
 1 Snapcaster Mage
 2 Snapcaster Mage
-3 Castle Vantress
 1 Sulfur Falls
 3 Lightning Bolt
-3 Polluted Delta
-4 Spreading Seas
+3 Castle Vantress
+3 Shark Typhoon
 3 Chalice of the Void
 1 Breeding Pool
 3 Snapcaster Mage
@@ -62,11 +61,12 @@
 2 Expressive Iteration
 3 Expressive Iteration
 4 Expressive Iteration
-5 Island
+2 Misty Rainforest
 2 Sulfur Falls
 4 Lightning Bolt
 4 Mystic Gate
-3 Shark Typhoon
+4 Spreading Seas
+5 Island
 1 Emrakul, the Aeons Torn
 1 Murktide Regent
 2 Murktide Regent
@@ -76,27 +76,14 @@
 3 Consider
 4 Consider
 4 Spirebluff Canal
-1 Dovin's Veto
-2 Celestial Colonnade
-1 Omen of the Sea
-2 Omen of the Sea
-3 Omen of the Sea
-4 Omen of the Sea
 1 Cleansing Wildfire
 2 Cleansing Wildfire
 3 Cleansing Wildfire
+1 Dovin's Veto
+4 Shark Typhoon
 3 Hallowed Fountain
 1 Field of Ruin
 2 Field of Ruin
-1 Nahiri, the Harbinger
-2 Nahiri, the Harbinger
-3 Misty Rainforest
-1 Snow-Covered Plains
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
-2 Jace, the Mind Sculptor
 1 Thought Scour
 1 Serum Visions
 1 Ragavan, Nimble Pilferer
@@ -117,14 +104,21 @@
 4 Unholy Heat
 1 Spell Pierce
 4 Murktide Regent
+1 Nahiri, the Harbinger
+2 Nahiri, the Harbinger
+3 Misty Rainforest
+1 Snow-Covered Island
+1 Snow-Covered Plains
+2 Snow-Covered Island
+3 Snow-Covered Island
+4 Snow-Covered Island
+2 Jace, the Mind Sculptor
 1 Engineered Explosives
 2 Engineered Explosives
 1 Prismari Command
 3 Steam Vents
 3 Sulfur Falls
 6 Island
-4 Castle Vantress
-4 Supreme Verdict
 1 Subtlety
 1 Path to Exile
 1 Rest in Peace
@@ -132,6 +126,7 @@
 1 Sunset Revelry
 1 Ral, Izzet Viceroy
 2 Sunset Revelry
+2 Celestial Colonnade
 1 Restoration Angel
 1 Elspeth, Sun's Champion
 2 Restoration Angel
@@ -148,10 +143,13 @@
 2 Thought Scour
 3 Thought Scour
 4 Thought Scour
-4 Shark Typhoon
 1 Reflecting Pool
+1 Omen of the Sea
 1 Ketria Triome
 2 Snow-Covered Plains
+2 Omen of the Sea
+3 Omen of the Sea
+4 Omen of the Sea
 5 Snow-Covered Island
 6 Snow-Covered Island
 1 Opt

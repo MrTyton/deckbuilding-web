@@ -33,7 +33,6 @@
 3 Castle Embereth
 4 Shatterskull Smashing
 1 Dragonskull Summit
-1 Kazandu Mammoth
 1 Reckless Stormseeker
 1 Overgrown Tomb
 1 Call of the Death-Dweller
@@ -43,6 +42,7 @@
 1 Rotting Regisaur
 1 Rampaging Ferocidon
 1 Collected Company
+1 Kazandu Mammoth
 1 Cragcrown Pathway
 1 Blood Crypt
 1 Blightstep Pathway
@@ -80,31 +80,31 @@
 4 Lightning Strike
 4 Goblin Chainwhirler
 4 Managorger Phoenix
-1 Showdown of the Skalds
 1 Dragon's Rage Channeler
 1 Sacred Foundry
 1 Inspiring Vantage
 1 Lightning Helix
 1 Needleverge Pathway
+1 Showdown of the Skalds
 1 Bomat Courier
-2 Showdown of the Skalds
 2 Dragon's Rage Channeler
 2 Lightning Helix
 2 Needleverge Pathway
 2 Inspiring Vantage
 2 Sacred Foundry
 2 Bomat Courier
+2 Showdown of the Skalds
 3 Showdown of the Skalds
-3 Lightning Helix
 3 Dragon's Rage Channeler
+3 Lightning Helix
 3 Inspiring Vantage
 3 Sacred Foundry
 3 Needleverge Pathway
 3 Bomat Courier
 4 Showdown of the Skalds
 4 Inspiring Vantage
-4 Lightning Helix
 4 Needleverge Pathway
+4 Lightning Helix
 4 Dragon's Rage Channeler
 4 Sacred Foundry
 4 Bomat Courier
@@ -114,13 +114,13 @@
 1 Snow-Covered Mountain
 1 Fireblade Charger
 1 Frost Bite
-2 Snow-Covered Mountain
 2 Faceless Haven
 2 Fireblade Charger
+2 Snow-Covered Mountain
 2 Frost Bite
 3 Fireblade Charger
-3 Snow-Covered Mountain
 3 Faceless Haven
+3 Snow-Covered Mountain
 3 Frost Bite
 4 Fireblade Charger
 4 Snow-Covered Mountain
@@ -145,23 +145,23 @@
 1 Fanatic of Mogis
 1 Hellrider
 1 Earthshaker Khenra
-2 Glorybringer
 2 Legion Warboss
-2 Scorch Spitter
+2 Glorybringer
 2 Fanatic of Mogis
 2 Viashino Pyromancer
 2 Earthshaker Khenra
 2 Hellrider
+2 Scorch Spitter
 3 Glorybringer
-3 Scorch Spitter
 3 Earthshaker Khenra
 3 Hellrider
 3 Viashino Pyromancer
 3 Legion Warboss
+3 Scorch Spitter
 3 Fanatic of Mogis
-4 Scorch Spitter
 4 Earthshaker Khenra
 4 Hellrider
+4 Scorch Spitter
 18 Mountain
 19 Mountain
 1 Runaway Steam-Kin
