@@ -1,25 +1,25 @@
 3 Fabled Passage
+2 Sorin the Mirthless
 1 Magmatic Channeler
 1 Flame-Blessed Bolt
-3 Go Blank
-2 Sorin the Mirthless
 3 Hive of the Eye Tyrant
+3 Go Blank
 2 Kroxa, Titan of Death's Hunger
-3 Kalitas, Traitor of Ghet
 4 Fabled Passage
+3 Kalitas, Traitor of Ghet
 2 Magmatic Channeler
-2 Flame-Blessed Bolt
-3 Kolaghan's Command
 1 Bloodtithe Harvester
 2 Bloodtithe Harvester
 3 Bloodtithe Harvester
-3 Swamp
-1 Duress
-1 Waste Not
+2 Flame-Blessed Bolt
+3 Kolaghan's Command
+4 Bloodtithe Harvester
+1 Urborg, Tomb of Yawgmoth
 1 Liliana, Waker of the Dead
+1 Waste Not
 2 Waste Not
-3 Waste Not
 3 Kroxa, Titan of Death's Hunger
+3 Waste Not
 4 Kroxa, Titan of Death's Hunger
 4 Waste Not
 1 Murderous Rider
@@ -27,7 +27,7 @@
 1 Dragonskull Summit
 1 Savai Triome
 2 Liliana, Waker of the Dead
-1 Urborg, Tomb of Yawgmoth
+3 Swamp
 3 Murderous Rider
 4 Murderous Rider
 1 Field of Ruin
@@ -38,13 +38,11 @@
 2 Blood Baron of Vizkopa
 2 Lava Coil
 3 Blood Baron of Vizkopa
-1 Magma Spray
-2 Magma Spray
-2 Duress
+1 Duress
+2 Shatterskull Smashing
 3 Sorin the Mirthless
 3 Magmatic Channeler
 4 Magmatic Channeler
-4 Bloodtithe Harvester
 1 Geier Reach Sanitarium
 1 Bloodvial Purveyor
 1 Hazoret the Fervent
@@ -55,9 +53,6 @@
 3 Castle Locthwain
 4 Bloodvial Purveyor
 4 Go Blank
-1 Collective Brutality
-2 Collective Brutality
-4 Kolaghan's Command
 1 Overgrown Tomb
 1 Abrupt Decay
 1 Darkbore Pathway
@@ -79,8 +74,11 @@
 3 Darkbore Pathway
 4 Overgrown Tomb
 4 Darkbore Pathway
-4 Lovestruck Beast
 4 Edgewall Innkeeper
+4 Lovestruck Beast
+1 Collective Brutality
+2 Collective Brutality
+4 Kolaghan's Command
 1 Power Word Kill
 1 Concealing Curtains
 1 Davriel, Rogue Shadowmage
