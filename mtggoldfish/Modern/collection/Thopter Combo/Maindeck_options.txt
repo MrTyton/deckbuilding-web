@@ -1,25 +1,22 @@
 1 Sacred Foundry
 1 Cavern of Souls
+1 Soul-Guide Lantern
 1 Glint-Nest Crane
 2 Glint-Nest Crane
-1 Chromatic Star
 1 Marsh Flats
 1 Talisman of Progress
 1 Watery Grave
 1 Steam Vents
-1 Raugrin Triome
-2 Sword of the Meek
 3 Island
-1 Polluted Delta
+2 Sword of the Meek
 1 Goblin Engineer
 2 Goblin Engineer
 3 Goblin Engineer
 4 Goblin Engineer
+1 Raugrin Triome
 1 Oswald Fiddlebender
 2 Oswald Fiddlebender
-1 Whir of Invention
-2 Whir of Invention
-3 Whir of Invention
+1 Polluted Delta
 1 Silverbluff Bridge
 2 Chromatic Star
 3 Chromatic Star
@@ -27,6 +24,9 @@
 3 Springleaf Drum
 3 Oswald Fiddlebender
 2 Talisman of Progress
+1 Whir of Invention
+2 Whir of Invention
+3 Whir of Invention
 1 Thought Monitor
 3 Prismatic Ending
 2 Scalding Tarn
@@ -39,17 +39,12 @@
 1 Etched Champion
 2 Etched Champion
 4 Springleaf Drum
-1 Misty Rainforest
 2 Thought Monitor
 1 Solitude
+1 Misty Rainforest
 2 Solitude
 3 Solitude
 4 Solitude
-1 Counterspell
-2 Counterspell
-3 Counterspell
-4 Counterspell
-4 Island
 1 Nihil Spellbomb
 3 Talisman of Progress
 4 Glint-Nest Crane
@@ -58,7 +53,12 @@
 2 Marsh Flats
 3 Marsh Flats
 4 Marsh Flats
+1 Counterspell
+2 Counterspell
 2 Misty Rainforest
+3 Counterspell
+4 Counterspell
+4 Island
 3 Teferi, Time Raveler
 3 Thought Monitor
 4 Prismatic Ending
@@ -69,7 +69,6 @@
 2 Spire of Industry
 3 Spire of Industry
 4 Spire of Industry
-1 Engineered Explosives
 1 Muddle the Mixture
 1 Ichor Wellspring
 1 Crucible of Worlds
@@ -98,6 +97,7 @@
 1 Witching Well
 1 Arid Mesa
 1 Grafdigger's Cage
+1 Engineered Explosives
 1 Academy Ruins
 2 Arid Mesa
 3 Arid Mesa
@@ -109,12 +109,3 @@
 4 Polluted Delta
 4 Chromatic Star
 4 Thought Monitor
-1 Prismatic Vista
-1 Castle Vantress
-1 Archmage's Charm
-1 Hall of Storm Giants
-2 Archmage's Charm
-2 Prismatic Vista
-2 Engineered Explosives
-3 Archmage's Charm
-4 Whir of Invention
