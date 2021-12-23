@@ -1,7 +1,7 @@
-1 Blood Moon
-2 Blood Moon
-3 Blood Moon
 1 Fiery Islet
+2 Breeding Pool
+1 Seasoned Pyromancer
+2 Seasoned Pyromancer
 1 Flooded Strand
 2 Flooded Strand
 4 Blood Moon
@@ -22,8 +22,8 @@
 2 Omnath, Locus of Creation
 3 Teferi, Time Raveler
 3 Flooded Strand
-3 Solitude
 3 Windswept Heath
+3 Solitude
 3 Ardent Plea
 3 Omnath, Locus of Creation
 4 Teferi, Time Raveler
@@ -36,26 +36,27 @@
 2 Fiery Islet
 4 Dead/Gone
 1 Cryptic Command
-2 Endurance
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 3 Bonecrusher Giant
-3 Gemstone Caverns
 4 Bonecrusher Giant
-1 Murktide Regent
+2 Endurance
+3 Gemstone Caverns
 1 Subtlety
-3 Steam Vents
+1 Murktide Regent
 3 Seasoned Pyromancer
 1 Reflecting Pool
 3 Endurance
+4 Wooded Foothills
 3 Forest
+3 Steam Vents
 1 Sulfur Falls
 1 Grove of the Burnwillows
 4 Flooded Strand
-4 Wooded Foothills
 1 Hinterland Harbor
 2 Cryptic Command
 4 Endurance
+2 Subtlety
 1 Knight of Autumn
 2 Knight of Autumn
 1 Emrakul, the Aeons Torn
@@ -68,14 +69,11 @@
 3 Spell Queller
 4 Spell Queller
 1 Sea Gate Restoration
-1 Shark Typhoon
-1 Botanical Sanctum
 1 Snow-Covered Island
 2 Snow-Covered Island
 1 Archmage's Charm
 1 Flooded Grove
 2 Flooded Grove
-2 Subtlety
 3 Prismari Command
 2 Murktide Regent
 2 Stomping Ground

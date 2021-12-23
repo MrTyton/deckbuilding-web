@@ -55,13 +55,13 @@
 2 Portable Hole
 1 Wooded Bastion
 1 Darkbore Pathway
-1 Fatal Push
 1 Llanowar Wastes
+1 Fatal Push
 1 Blooming Marsh
 2 Darkbore Pathway
-2 Fatal Push
 2 Blooming Marsh
 2 Llanowar Wastes
+2 Fatal Push
 3 Darkbore Pathway
 3 Llanowar Wastes
 3 Fatal Push
@@ -77,12 +77,17 @@
 1 Mishra's Factory
 1 Mishra's Bauble
 2 Plains
+2 Needleverge Pathway
 1 Metallic Mimic
 2 Metallic Mimic
-2 Needleverge Pathway
 1 Yavimaya, Cradle of Growth
 1 Path to Exile
 2 Prismatic Ending
+1 Ignoble Hierarch
+1 Swamp
+2 Ignoble Hierarch
+3 Ignoble Hierarch
+4 Ignoble Hierarch
 1 Relic of Progenitus
 4 Blinkmoth Nexus
 1 Treasure Vault
@@ -93,11 +98,6 @@
 3 Treasure Vault
 4 Treasure Vault
 4 Windswept Heath
-1 Swamp
-1 Ignoble Hierarch
-2 Ignoble Hierarch
-3 Ignoble Hierarch
-4 Ignoble Hierarch
 3 Forest
 3 Horizon Canopy
 3 Throne of Geth

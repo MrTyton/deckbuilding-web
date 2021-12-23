@@ -85,6 +85,8 @@
 1 Thunderous Orator
 1 Pillardrop Rescuer
 1 Glacial Floodplain
+1 Deserted Beach
+1 Hengegate Pathway
 1 Canyon Jerboa
 1 Radiant Grace
 1 Expel
@@ -92,11 +94,9 @@
 1 Flare of Faith
 1 Squad Commander
 1 Nadaar, Selfless Paladin
-1 Deserted Beach
 1 Cloister Gargoyle
 1 Dawnhart Geist
 1 Odric's Outrider
-1 Hengegate Pathway
 1 Gods' Hall Guardian
 1 Wedding Announcement
 1 White Dragon
@@ -138,13 +138,13 @@
 2 Sejiri Shelter
 3 Attended Healer
 3 Borrowed Time
-3 Valkyrie Harbinger
 3 Elite Spellbinder
+3 Valkyrie Harbinger
 3 Sejiri Shelter
 4 Skyclave Cleric
 4 Borrowed Time
-4 Valkyrie Harbinger
 4 Elite Spellbinder
+4 Valkyrie Harbinger
 4 Attended Healer
 1 Chaplain of Alms
 1 Felidar Retreat
@@ -182,9 +182,9 @@
 2 Icingdeath, Frost Tyrant
 2 Skyclave Apparition
 3 Story Seeker
-3 Maul of the Skyclaves
 3 Dawnbringer Cleric
 3 Skyclave Apparition
+3 Maul of the Skyclaves
 4 Story Seeker
 4 Skyclave Apparition
 4 Dawnbringer Cleric
@@ -192,8 +192,8 @@
 1 Legion Angel
 2 Starnheim Aspirant
 2 Legion Angel
-3 Sunset Revelry
 3 Fateful Absence
+3 Sunset Revelry
 3 Starnheim Aspirant
 3 The Book of Exalted Deeds
 4 Starnheim Aspirant

@@ -125,7 +125,7 @@
 |                    3|[Expressive Iteration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513678)    |                     |                                                                                                  |
 |                    4|[Expressive Iteration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513678)    |                     |                                                                                                  |
 |                    1|[Doom Blade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247322)              |                     |                                                                                                  |
-|                    2|[Languish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420731)                |                     |                                                                                                  |
 |                    2|[Doom Blade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247322)              |                     |                                                                                                  |
+|                    2|[Languish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420731)                |                     |                                                                                                  |
 |                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                     |                                                                                                  |
 
