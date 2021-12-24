@@ -1,13 +1,7 @@
 4 Godless Shrine
 1 Blood Baron of Vizkopa
-4 Fatal Push
 6 Swamp
 7 Swamp
-8 Swamp
-9 Swamp
-10 Swamp
-11 Swamp
-12 Swamp
 1 Cryptbreaker
 1 Liliana, Untouched by Death
 1 Champion of the Perished
@@ -35,7 +29,13 @@
 4 Lazotep Reaver
 4 Priest of Forgotten Gods
 4 Shambling Ghast
+8 Swamp
+9 Swamp
+10 Swamp
+11 Swamp
+12 Swamp
 13 Swamp
+4 Fatal Push
 1 Diregraf Colossus
 1 Stitcher's Supplier
 2 Diregraf Colossus
@@ -58,18 +58,15 @@
 14 Swamp
 1 Concealed Courtyard
 2 Concealed Courtyard
-3 Murderous Rider
-3 Hive of the Eye Tyrant
-3 Kalitas, Traitor of Ghet
 1 Sorin, Solemn Visitor
 1 Hagra Mauling
 2 Blood Baron of Vizkopa
 2 Go Blank
-1 Crippling Fear
-2 Crippling Fear
-4 Castle Locthwain
+3 Murderous Rider
+3 Hive of the Eye Tyrant
 3 Concealed Courtyard
 3 Edgar, Charmed Groom
+3 Kalitas, Traitor of Ghet
 4 Concealed Courtyard
 1 Tainted Adversary
 1 Isolated Chapel

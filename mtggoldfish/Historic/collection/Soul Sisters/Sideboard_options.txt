@@ -45,8 +45,8 @@
 1 Kinjalli's Sunwing
 1 Mangara, the Diplomat
 1 Runed Halo
-2 Kinjalli's Sunwing
 2 Invoke the Divine
+2 Kinjalli's Sunwing
 3 Kinjalli's Sunwing
 2 Settle the Wreckage
 2 Glass Casket
@@ -85,6 +85,9 @@
 1 Archon of Absolution
 1 Brought Back
 2 Archon of Absolution
+1 Shapers' Sanctuary
+1 Reidane, God of the Worthy
+2 Reidane, God of the Worthy
 1 Archon of Emeria
 2 Archon of Emeria
 2 Disenchant
@@ -92,9 +95,6 @@
 1 Selfless Savior
 1 Speaker of the Heavens
 2 Soul-Guide Lantern
-1 Shapers' Sanctuary
-1 Reidane, God of the Worthy
-2 Reidane, God of the Worthy
 1 Scavenging Ooze
 1 Declaration in Stone
 1 Shifting Ceratops
@@ -102,21 +102,21 @@
 2 Scavenging Ooze
 2 Shifting Ceratops
 3 Declaration in Stone
-2 Authority of the Consuls
-1 Cosmos Elixir
-1 Doomskar
-1 Cliffhaven Kitesail
-2 Cosmos Elixir
-2 Tormod's Crypt
-2 Doomskar
-2 Cliffhaven Kitesail
-3 Tormod's Crypt
-3 Authority of the Consuls
 2 Lurrus of the Dream-Den
 3 Grafdigger's Cage
 1 Ajani, Adversary of Tyrants
 2 Ajani, Adversary of Tyrants
 3 Light of Hope
+2 Authority of the Consuls
+1 Cosmos Elixir
+1 Doomskar
+1 Cliffhaven Kitesail
+2 Cosmos Elixir
+2 Doomskar
+2 Tormod's Crypt
+2 Cliffhaven Kitesail
+3 Tormod's Crypt
+3 Authority of the Consuls
 1 Valorous Stance
 1 Fall of the Thran
 2 Valorous Stance
@@ -136,8 +136,8 @@
 1 Archon of Sun's Grace
 1 Mentor of the Meek
 1 Soul Warden
-2 Archon of Sun's Grace
 2 Leonin Warleader
+2 Archon of Sun's Grace
 2 Baneslayer Angel
 3 Gods Willing
 1 Tithe Taker
@@ -158,8 +158,8 @@
 3 Mana Tithe
 4 Portable Hole
 4 Devout Decree
-1 Knight of Autumn
 1 Seal Away
+1 Knight of Autumn
 2 Seal Away
 1 Leyline of the Void
 1 Command the Dreadhorde

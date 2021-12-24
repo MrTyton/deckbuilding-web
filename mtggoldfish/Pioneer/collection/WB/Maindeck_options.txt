@@ -1,14 +1,3 @@
-3 Emeria's Call
-3 Kaya's Wrath
-1 Oath of Kaya
-2 Oath of Kaya
-3 Oath of Kaya
-1 Caves of Koilos
-2 Caves of Koilos
-3 Caves of Koilos
-1 Cartouche of Solidarity
-1 Sram, Senior Edificer
-1 Ethereal Armor
 1 Gryff's Boon
 1 All That Glitters
 2 Cartouche of Solidarity
@@ -36,6 +25,22 @@
 4 Alseid of Life's Bounty
 4 Caves of Koilos
 4 Sram, Senior Edificer
+1 Sentinel's Eyes
+2 Sentinel's Eyes
+3 Sentinel's Eyes
+1 Stonecoil Serpent
+3 Selfless Savior
+1 The Birth of Meletis
+2 The Birth of Meletis
+2 Yorion, Sky Nomad
+1 Go Blank
+2 Go Blank
+1 Elspeth, Sun's Nemesis
+3 Emeria's Call
+3 Kaya's Wrath
+1 Oath of Kaya
+2 Oath of Kaya
+3 Oath of Kaya
 1 Isolated Chapel
 1 Power Word Kill
 2 Isolated Chapel
@@ -43,15 +48,11 @@
 2 Hive of the Eye Tyrant
 3 Omen of the Sun
 4 Rite of Oblivion
-1 Sentinel's Eyes
-2 Sentinel's Eyes
-3 Sentinel's Eyes
-1 Stonecoil Serpent
-3 Selfless Savior
+2 Stonecoil Serpent
 3 Go Blank
 1 Shattered Sanctum
 2 Shattered Sanctum
-2 Stonecoil Serpent
+1 Lagonna-Band Trailblazer
 1 Heartless Act
 3 Swamp
 3 The Birth of Meletis
@@ -60,7 +61,6 @@
 1 Urborg, Tomb of Yawgmoth
 3 Yorion, Sky Nomad
 2 Castle Locthwain
-1 Lagonna-Band Trailblazer
 4 Omen of the Sun
 2 Heartless Act
 4 Oath of Kaya
@@ -111,7 +111,6 @@
 1 Temple Garden
 2 Temple Garden
 1 Snow-Covered Plains
-1 Binding the Old Gods
 1 Snow-Covered Swamp
 1 Indatha Triome
 1 Extinction Event
@@ -120,6 +119,7 @@
 1 Darkbore Pathway
 1 Overgrown Tomb
 1 Ranger Class
+1 Binding the Old Gods
 1 Siege Rhino
 1 Branchloft Pathway
 1 Overgrown Farmland
@@ -145,11 +145,11 @@
 4 Overgrown Tomb
 4 Indatha Triome
 4 Branchloft Pathway
+1 Arctic Treeline
 1 Sixth Sense
 1 Scattered Groves
 1 Fortified Village
 1 Sunpetal Grove
-1 Arctic Treeline
 1 Unflinching Courage
 1 Dromoka's Command
 1 Adanto Vanguard

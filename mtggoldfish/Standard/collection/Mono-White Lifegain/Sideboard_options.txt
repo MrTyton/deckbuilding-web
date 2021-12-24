@@ -16,6 +16,10 @@
 2 Legion Angel
 2 Brutal Cathar
 3 Brutal Cathar
+1 Invoke the Divine
+1 Wings of the Cosmos
+2 Wings of the Cosmos
+4 Reidane, God of the Worthy
 1 Story Seeker
 1 Revitalize
 1 Flare of Faith
@@ -31,10 +35,6 @@
 2 Luminarch Aspirant
 3 Revitalize
 4 Revitalize
-1 Invoke the Divine
-1 Wings of the Cosmos
-2 Wings of the Cosmos
-4 Reidane, God of the Worthy
 1 Minimus Containment
 1 Sparring Regimen
 1 Celestial Unicorn
@@ -45,6 +45,16 @@
 4 Celestial Unicorn
 4 Minimus Containment
 1 Elite Spellbinder
+1 Selfless Glyphweaver
+1 Circle of Confinement
+2 Circle of Confinement
+2 Elite Spellbinder
+3 Portable Hole
+3 Circle of Confinement
+3 Elite Spellbinder
+4 Portable Hole
+4 Circle of Confinement
+4 Elite Spellbinder
 1 Sigrid, God-Favored
 1 Vanquish the Horde
 1 Environmental Sciences
@@ -56,18 +66,8 @@
 2 Sungold Sentinel
 3 Sanctify
 3 Sungold Sentinel
-4 Sungold Sentinel
 4 Sanctify
-1 Selfless Glyphweaver
-1 Circle of Confinement
-2 Circle of Confinement
-2 Elite Spellbinder
-3 Portable Hole
-3 Circle of Confinement
-3 Elite Spellbinder
-4 Portable Hole
-4 Circle of Confinement
-4 Elite Spellbinder
+4 Sungold Sentinel
 1 Dawnbringer Cleric
 1 Keen-Eared Sentry
 2 Dawnbringer Cleric
@@ -86,11 +86,11 @@
 3 Plains
 1 Star Pupil
 2 Star Pupil
-1 Starnheim Unleashed
-1 Borrowed Time
-1 Unruly Mob
 1 Paladin Class
 1 Piercing Light
 2 Paladin Class
 3 Paladin Class
 4 Paladin Class
+1 Starnheim Unleashed
+1 Borrowed Time
+1 Unruly Mob

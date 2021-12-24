@@ -8,10 +8,10 @@
 2 Liesa, Forgotten Archangel
 3 Emeria's Call
 8 Plains
-1 Firja's Retribution
 1 Righteous Valkyrie
-2 Firja's Retribution
+1 Firja's Retribution
 2 Righteous Valkyrie
+2 Firja's Retribution
 3 Righteous Valkyrie
 3 Firja's Retribution
 3 Shineshadow Snarl
@@ -21,8 +21,8 @@
 2 Youthful Valkyrie
 3 Youthful Valkyrie
 4 Youthful Valkyrie
-4 Firja's Retribution
 4 Righteous Valkyrie
+4 Firja's Retribution
 1 Fateful Absence
 2 Fateful Absence
 3 Elite Spellbinder
@@ -33,14 +33,14 @@
 3 Skyclave Apparition
 3 Liesa, Forgotten Archangel
 3 Fateful Absence
-4 Skyclave Apparition
 4 Starnheim Unleashed
+4 Skyclave Apparition
 5 Swamp
 1 Kaya the Inexorable
-1 Snow-Covered Swamp
 1 Snow-Covered Plains
-2 Snow-Covered Swamp
+1 Snow-Covered Swamp
 2 Snow-Covered Plains
+2 Snow-Covered Swamp
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 3 Snow-Covered Plains
@@ -121,8 +121,8 @@
 3 Bloodvial Purveyor
 3 Concealing Curtains
 4 Bloodvial Purveyor
-4 Eyetwitch
 4 Skullport Merchant
+4 Eyetwitch
 1 Chaplain of Alms
 1 Valorous Stance
 2 Chaplain of Alms
@@ -146,9 +146,9 @@
 4 Usher of the Fallen
 1 Scourge of the Skyclaves
 1 Tainted Adversary
+1 Katilda, Dawnhart Martyr
 1 Portable Hole
 1 Power Word Kill
-1 Katilda, Dawnhart Martyr
 2 Portable Hole
 2 Power Word Kill
 1 Elderfang Disciple
@@ -173,6 +173,9 @@
 3 Dream Devourer
 3 Priest of the Haunted Edge
 4 Professor of Symbology
+3 Sungold Sentinel
+4 Chaplain of Alms
+4 Sungold Sentinel
 2 Kaya, Geist Hunter
 4 Lolth, Spider Queen
 1 Clarion Spirit
@@ -208,12 +211,6 @@
 3 Soul Shatter
 3 Rampage of the Valkyries
 4 Rampage of the Valkyries
-1 Malakir Rebirth
-1 Sigardian Savior
-2 Malakir Rebirth
-2 Brutal Cathar
-3 Brutal Cathar
-4 Brutal Cathar
 1 Faithbound Judge
 1 Voldaren Bloodcaster
 2 Faithbound Judge
@@ -221,6 +218,9 @@
 3 Faithbound Judge
 3 Voldaren Bloodcaster
 8 Snow-Covered Swamp
-3 Sungold Sentinel
-4 Sungold Sentinel
-4 Chaplain of Alms
+1 Malakir Rebirth
+1 Sigardian Savior
+2 Malakir Rebirth
+2 Brutal Cathar
+3 Brutal Cathar
+4 Brutal Cathar
