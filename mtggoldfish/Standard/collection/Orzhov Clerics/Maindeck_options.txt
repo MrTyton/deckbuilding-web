@@ -67,8 +67,8 @@
 1 Silverquill Campus
 2 Silverquill Campus
 1 Fateful Absence
-1 The Book of Exalted Deeds
 1 Faceless Haven
+1 The Book of Exalted Deeds
 2 The Book of Exalted Deeds
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
@@ -90,23 +90,23 @@
 4 Marauding Blight-Priest
 10 Plains
 11 Plains
-1 Starnheim Aspirant
 1 Youthful Valkyrie
+1 Starnheim Aspirant
 1 Westgate Regent
-2 Starnheim Aspirant
 2 Youthful Valkyrie
-2 Westgate Regent
 2 Faceless Haven
-3 The Book of Exalted Deeds
+2 Westgate Regent
+2 Starnheim Aspirant
 3 Youthful Valkyrie
-3 Westgate Regent
-3 Starnheim Aspirant
 3 Faceless Haven
+3 Starnheim Aspirant
+3 The Book of Exalted Deeds
+3 Westgate Regent
 3 Angel of Destiny
-4 Faceless Haven
 4 Youthful Valkyrie
-4 Markov Purifier
 4 The Book of Exalted Deeds
+4 Faceless Haven
+4 Markov Purifier
 4 Angel of Destiny
 4 Westgate Regent
 6 Snow-Covered Swamp
@@ -120,91 +120,91 @@
 1 Jerren, Corrupted Bishop
 1 Sigarda's Splendor
 2 Sigarda's Splendor
-3 Agadeem's Awakening
-3 Emeria's Call
-1 Great Hall of Starnheim
 1 Homestead Courage
+1 Great Hall of Starnheim
 2 Homestead Courage
 3 Traveling Minister
+3 Agadeem's Awakening
 1 Humiliate
 1 Crippling Fear
 1 Duress
 2 Fateful Absence
-2 Crippling Fear
 2 Humiliate
+2 Crippling Fear
 2 Duress
 3 Duress
 3 Crippling Fear
-1 Priest of Ancient Lore
-1 Rite of Oblivion
-1 Teleportation Circle
-1 Glorious Protector
-1 Devastating Mastery
-1 Closing Statement
-2 Priest of Ancient Lore
-2 Teleportation Circle
-2 Rite of Oblivion
-2 Glorious Protector
-2 Closing Statement
-2 Devastating Mastery
-3 Teleportation Circle
-3 Priest of Ancient Lore
-3 Glorious Protector
-3 Devastating Mastery
-4 Priest of Ancient Lore
-1 Hengegate Pathway
-1 Deserted Beach
-1 Clearwater Pathway
-1 Glasspool Mimic
-2 Hengegate Pathway
-2 Deserted Beach
-2 Glasspool Mimic
-2 Clearwater Pathway
-3 Hengegate Pathway
-3 Clearwater Pathway
-3 Glasspool Mimic
-4 Hengegate Pathway
-4 Glasspool Mimic
-4 Clearwater Pathway
+3 Emeria's Call
 1 Curse of Leeches
 1 Revitalize
 2 Revitalize
-2 Curse of Leeches
 2 Selfless Glyphweaver
+2 Curse of Leeches
 3 Curse of Leeches
 4 Ollenbock Escort
 4 Doomskar
 4 Curse of Leeches
-1 Edgar, Charmed Groom
 1 Silverquill Command
+1 Edgar, Charmed Groom
 2 Silverquill Command
 3 Professor of Symbology
 3 The Meathook Massacre
 4 Professor of Symbology
 4 Cleric Class
-1 Blood on the Snow
-1 Liesa, Forgotten Archangel
-2 Blood on the Snow
-11 Snow-Covered Plains
-1 Professor Onyx
-1 Invoke the Divine
+1 Glasspool Mimic
+1 Hengegate Pathway
+1 Clearwater Pathway
+1 Deserted Beach
+2 Glasspool Mimic
+2 Hengegate Pathway
+2 Clearwater Pathway
+2 Deserted Beach
+3 Clearwater Pathway
+3 Glasspool Mimic
+3 Hengegate Pathway
+4 Clearwater Pathway
+4 Glasspool Mimic
+4 Hengegate Pathway
+1 Rite of Oblivion
+1 Devastating Mastery
+1 Teleportation Circle
+1 Glorious Protector
+1 Closing Statement
+1 Priest of Ancient Lore
+2 Devastating Mastery
+2 Teleportation Circle
+2 Rite of Oblivion
+2 Glorious Protector
+2 Priest of Ancient Lore
+2 Closing Statement
+3 Teleportation Circle
+3 Priest of Ancient Lore
+3 Glorious Protector
+3 Devastating Mastery
+4 Priest of Ancient Lore
 1 Power Word Kill
+1 Nullpriest of Oblivion
 1 Paladin Class
 1 Firja's Retribution
-1 Vanquish the Horde
 1 Kaya the Inexorable
-1 Valkyrie Harbinger
+1 Invoke the Divine
+1 Vanquish the Horde
 1 Sanctify
+1 Valkyrie Harbinger
+1 Professor Onyx
 1 Shepherd of Heroes
-1 Nullpriest of Oblivion
-2 Valkyrie Harbinger
 2 Power Word Kill
 2 Nullpriest of Oblivion
+2 Valkyrie Harbinger
 3 Nullpriest of Oblivion
 4 Nullpriest of Oblivion
 9 Swamp
 10 Swamp
 11 Swamp
+1 Liesa, Forgotten Archangel
+1 Blood on the Snow
+2 Blood on the Snow
+11 Snow-Covered Plains
 1 Haunting Voyage
 2 Drana, the Last Bloodchief
 3 Taborax, Hope's Demise

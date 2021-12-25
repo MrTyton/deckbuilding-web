@@ -109,9 +109,9 @@
 3 Manaform Hellkite
 4 Manaform Hellkite
 4 Bloodthirsty Adversary
-1 Valentin, Dean of the Vein
 1 Vampire Socialite
 1 Falkenrath Pit Fighter
+1 Valentin, Dean of the Vein
 2 Valentin, Dean of the Vein
 2 Vampire Socialite
 2 Falkenrath Pit Fighter
@@ -123,19 +123,19 @@
 2 Xorn
 3 Xorn
 7 Mountain
-8 Swamp
 8 Mountain
-9 Swamp
+8 Swamp
 9 Mountain
+9 Swamp
 10 Mountain
 1 Grim Bounty
 2 Grim Bounty
 1 Olivia, Crimson Bride
 1 Lunar Frenzy
-1 Henrika Domnathi
-2 Henrika Domnathi
 1 Hagra Mauling
 2 Hagra Mauling
+1 Henrika Domnathi
+2 Henrika Domnathi
 3 Ebondeath, Dracolich
 1 Play with Fire
 1 Dragonkin Berserker
@@ -145,12 +145,12 @@
 3 Dragonkin Berserker
 3 Dread Fugue
 3 Kazuul's Fury
-1 Magic Missile
 1 Westgate Regent
 1 Hired Hexblade
-1 Thieves' Tools
+1 Magic Missile
 1 Jaded Sell-Sword
 1 Red Dragon
+1 Thieves' Tools
 1 Hoarding Ogre
 1 Sudden Breakthrough
 1 Unwilling Ingredient
@@ -160,29 +160,20 @@
 2 Sudden Breakthrough
 2 Hired Hexblade
 3 Hired Hexblade
-1 Orb of Dragonkind
-1 Moonveil Regent
-2 Soul Shatter
-2 Orb of Dragonkind
-2 Moonveil Regent
-3 Moonveil Regent
-3 Orb of Dragonkind
-4 Dragon's Fire
-4 Hive of the Eye Tyrant
-1 Rise of the Dread Marn
 1 Crush the Weak
 1 Vorpal Sword
 1 Nullpriest of Oblivion
 1 Egon, God of Death
 1 Forsworn Paladin
+1 Rise of the Dread Marn
 2 Crush the Weak
 2 Nullpriest of Oblivion
 2 Forsworn Paladin
 2 Egon, God of Death
 3 Crush the Weak
 4 Crush the Weak
-1 Path of Peril
 1 Brightclimb Pathway
+1 Path of Peril
 1 Needleverge Pathway
 2 Path of Peril
 2 Brightclimb Pathway
@@ -200,8 +191,8 @@
 4 Agadeem's Awakening
 4 Vampires' Vengeance
 4 Bloodtithe Harvester
-1 Malakir Rebirth
 1 Crippling Fear
+1 Malakir Rebirth
 1 Slaughter Specialist
 2 Crippling Fear
 2 Slaughter Specialist
@@ -224,6 +215,25 @@
 3 Falkenrath Pit Fighter
 4 Cemetery Gatekeeper
 4 Falkenrath Pit Fighter
+1 Moonveil Regent
+1 Orb of Dragonkind
+2 Moonveil Regent
+2 Soul Shatter
+2 Orb of Dragonkind
+3 Moonveil Regent
+3 Orb of Dragonkind
+4 Dragon's Fire
+4 Hive of the Eye Tyrant
+1 Seize the Spoils
+1 Professor Onyx
+2 Seize the Spoils
+2 Professor Onyx
+3 Seize the Spoils
+3 Professor Onyx
+3 Orcus, Prince of Undeath
+4 Seize the Spoils
+4 Professor Onyx
+8 Snow-Covered Mountain
 1 Nighthawk Scavenger
 2 Nighthawk Scavenger
 3 Nighthawk Scavenger
@@ -234,13 +244,3 @@
 10 Swamp
 11 Swamp
 12 Swamp
-1 Professor Onyx
-1 Seize the Spoils
-2 Professor Onyx
-2 Seize the Spoils
-3 Seize the Spoils
-3 Professor Onyx
-3 Orcus, Prince of Undeath
-4 Seize the Spoils
-4 Professor Onyx
-8 Snow-Covered Mountain

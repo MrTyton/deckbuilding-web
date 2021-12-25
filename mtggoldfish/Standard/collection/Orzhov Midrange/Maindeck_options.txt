@@ -30,9 +30,9 @@
 3 Starnheim Unleashed
 2 Skyclave Apparition
 1 Enduring Angel
+3 Fateful Absence
 3 Skyclave Apparition
 3 Liesa, Forgotten Archangel
-3 Fateful Absence
 4 Starnheim Unleashed
 4 Skyclave Apparition
 5 Swamp
@@ -118,16 +118,16 @@
 1 Adeline, Resplendent Cathar
 2 Adeline, Resplendent Cathar
 3 Usher of the Fallen
-3 Bloodvial Purveyor
 3 Concealing Curtains
+3 Bloodvial Purveyor
 4 Bloodvial Purveyor
 4 Skullport Merchant
 4 Eyetwitch
 1 Chaplain of Alms
 1 Valorous Stance
 2 Chaplain of Alms
-3 Adeline, Resplendent Cathar
 3 Chaplain of Alms
+3 Adeline, Resplendent Cathar
 4 Thalia, Guardian of Thraben
 1 Stonebinder's Familiar
 2 Stonebinder's Familiar
@@ -136,8 +136,8 @@
 1 Fell Stinger
 2 Fell Stinger
 1 Brutal Cathar
-1 Silverquill Command
 1 Acquisitions Expert
+1 Silverquill Command
 2 Acquisitions Expert
 1 Rampage of the Valkyries
 2 Rampage of the Valkyries
@@ -145,61 +145,58 @@
 4 Kaya the Inexorable
 4 Usher of the Fallen
 1 Scourge of the Skyclaves
-1 Tainted Adversary
 1 Katilda, Dawnhart Martyr
 1 Portable Hole
 1 Power Word Kill
+1 Tainted Adversary
 2 Portable Hole
 2 Power Word Kill
-1 Elderfang Disciple
-1 Welcoming Vampire
-1 Go Blank
-2 Elderfang Disciple
-2 Welcoming Vampire
-3 Elderfang Disciple
-3 Acquisitions Expert
-3 Welcoming Vampire
 1 Professor Onyx
 2 Bloodchief's Thirst
 3 Edgar, Charmed Groom
 3 Fell Stinger
 3 The Meathook Massacre
 1 Taborax, Hope's Demise
-1 Drana, the Last Bloodchief
 1 Priest of the Haunted Edge
+1 Drana, the Last Bloodchief
 1 Dream Devourer
 2 Priest of the Haunted Edge
 2 Dream Devourer
 3 Dream Devourer
 3 Priest of the Haunted Edge
+1 Welcoming Vampire
+1 Go Blank
+1 Elderfang Disciple
+2 Welcoming Vampire
+2 Elderfang Disciple
+3 Welcoming Vampire
+3 Elderfang Disciple
+3 Acquisitions Expert
 4 Professor of Symbology
-3 Sungold Sentinel
-4 Chaplain of Alms
-4 Sungold Sentinel
-2 Kaya, Geist Hunter
-4 Lolth, Spider Queen
 1 Clarion Spirit
 2 Clarion Spirit
 3 Clarion Spirit
 4 Clarion Spirit
-1 Dungeon Crawler
+2 Kaya, Geist Hunter
+4 Lolth, Spider Queen
 1 Duress
+1 Dungeon Crawler
 2 Dungeon Crawler
 2 Duress
 2 Scourge of the Skyclaves
-3 Dungeon Crawler
 3 Agadeem's Awakening
 3 Infernal Grasp
+3 Dungeon Crawler
 3 Scourge of the Skyclaves
 3 Duress
 4 Agadeem's Awakening
 4 Infernal Grasp
 4 Dungeon Crawler
 4 Scourge of the Skyclaves
-1 Haunting Voyage
 1 Doomskar
-1 Vengeful Reaper
 1 Valkyrie Harbinger
+1 Vengeful Reaper
+1 Haunting Voyage
 2 Doomskar
 2 Vengeful Reaper
 2 Valkyrie Harbinger
@@ -211,6 +208,9 @@
 3 Soul Shatter
 3 Rampage of the Valkyries
 4 Rampage of the Valkyries
+3 Sungold Sentinel
+4 Chaplain of Alms
+4 Sungold Sentinel
 1 Faithbound Judge
 1 Voldaren Bloodcaster
 2 Faithbound Judge

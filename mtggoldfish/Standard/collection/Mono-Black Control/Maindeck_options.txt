@@ -41,15 +41,15 @@
 3 Undead Butler
 3 Headless Rider
 3 Champion of the Perished
-4 Headless Rider
 4 Fell Stinger
+4 Headless Rider
 4 Champion of the Perished
 4 Tainted Adversary
 4 Graveyard Trespasser
 1 Snow-Covered Mountain
 1 Pelakka Predation
-2 Ebondeath, Dracolich
 2 Soul Shatter
+2 Ebondeath, Dracolich
 1 Tergrid, God of Fright
 2 Tergrid, God of Fright
 1 Dread Fugue
@@ -64,62 +64,52 @@
 1 Baleful Mastery
 3 Acquisitions Expert
 4 Acquisitions Expert
+1 Eyetwitch
 1 Inscription of Ruin
 1 Flunk
-1 Eyetwitch
+2 Eyetwitch
 2 Inscription of Ruin
 2 Flunk
-2 Eyetwitch
-3 Flunk
-3 Tergrid, God of Fright
-3 Inscription of Ruin
 3 Eyetwitch
+3 Flunk
+3 Inscription of Ruin
+3 Tergrid, God of Fright
 4 Eyetwitch
-4 Inscription of Ruin
 4 Flunk
-2 Eaten Alive
+4 Inscription of Ruin
 1 Westgate Regent
 2 Westgate Regent
-1 Evolving Wilds
-1 Crippling Fear
+2 Eaten Alive
 1 Bloodvial Purveyor
-2 Crippling Fear
+1 Crippling Fear
+1 Evolving Wilds
 2 Bloodvial Purveyor
-3 Sorin the Mirthless
+2 Crippling Fear
 3 Bloodvial Purveyor
+3 Sorin the Mirthless
 2 Go Blank
 4 Field of Ruin
 1 Morbid Opportunist
-2 Morbid Opportunist
 2 Pelakka Predation
+2 Morbid Opportunist
 3 Morbid Opportunist
 4 Duress
-1 Shadows' Verdict
 1 The Celestus
+1 Shadows' Verdict
 1 Vampire's Kiss
+2 The Celestus
 2 Shadows' Verdict
 2 Vampire's Kiss
-2 The Celestus
 3 The Celestus
 3 Vampire's Kiss
 4 Vampire's Kiss
-1 Priest of the Haunted Edge
 1 Malakir Rebirth
+1 Priest of the Haunted Edge
 2 Malakir Rebirth
 2 Priest of the Haunted Edge
 3 Agadeem's Awakening
 4 Undead Butler
 4 Valki, God of Lies
-1 Gelatinous Cube
-1 Sedgemoor Witch
-1 Gisa, Glorious Resurrector
-2 Bloodchief's Thirst
-2 Gelatinous Cube
-2 Sedgemoor Witch
-2 Power Word Kill
-3 Sedgemoor Witch
-3 Soul Shatter
-19 Snow-Covered Swamp
 1 Cosmos Elixir
 1 Nighthawk Scavenger
 1 Darkbore Pathway
@@ -148,7 +138,17 @@
 4 Swamp
 4 Mind Drain
 5 Swamp
+6 Swamp
 7 Swamp
 8 Swamp
 9 Swamp
-6 Swamp
+1 Sedgemoor Witch
+1 Gelatinous Cube
+1 Gisa, Glorious Resurrector
+2 Sedgemoor Witch
+2 Bloodchief's Thirst
+2 Gelatinous Cube
+2 Power Word Kill
+3 Sedgemoor Witch
+3 Soul Shatter
+19 Snow-Covered Swamp

@@ -83,18 +83,18 @@
 3 Forest
 3 Swamp
 1 Jaspera Sentinel
-1 Concealing Curtains
 1 Syncopate
 1 Graveyard Trespasser
 1 Bloodvial Purveyor
+1 Concealing Curtains
 2 Jaspera Sentinel
-2 Concealing Curtains
 2 Syncopate
 2 Graveyard Trespasser
 2 Bloodvial Purveyor
+2 Concealing Curtains
 3 Jaspera Sentinel
-3 Concealing Curtains
 3 Bloodvial Purveyor
+3 Concealing Curtains
 1 Fell Stinger
 1 Agadeem's Awakening
 2 Fell Stinger
@@ -132,8 +132,8 @@
 2 Sedgemoor Witch
 4 Swamp
 1 The World Tree
-1 Evolving Wilds
 1 Scute Swarm
+1 Evolving Wilds
 1 Roiling Regrowth
 2 Toski, Bearer of Secrets
 2 Roiling Regrowth
@@ -145,8 +145,8 @@
 1 Bloodline Culling
 1 Pelakka Predation
 1 Tergrid, God of Fright
-1 Crippling Fear
 1 Hero's Downfall
+1 Crippling Fear
 1 Toxrill, the Corrosive
 1 Lier, Disciple of the Drowned
 1 Fading Hope
@@ -165,23 +165,23 @@
 3 Snow-Covered Island
 3 Sorin the Mirthless
 3 Negate
+1 Dread Fugue
+2 Dread Fugue
+3 Dread Fugue
+4 Dread Fugue
 3 Test of Talents
 4 Field of Ruin
 1 Duress
 2 Duress
 3 Duress
 4 Duress
-1 Dread Fugue
-2 Dread Fugue
-3 Dread Fugue
-4 Dread Fugue
 1 Avabruck Caretaker
 1 Power Word Kill
 2 Avabruck Caretaker
 2 Power Word Kill
 4 Esika's Chariot
-1 Silundi Vision
 1 Sea Gate Restoration
+1 Silundi Vision
 1 Secrets of the Key
 1 Harness Infinity
 1 Dream Strix
@@ -225,14 +225,14 @@
 4 Snow-Covered Forest
 4 Woodland Chasm
 5 Snow-Covered Forest
-1 Neverwinter Dryad
 1 Koma, Cosmos Serpent
 1 Emergent Sequence
-2 Neverwinter Dryad
+1 Neverwinter Dryad
 2 Koma, Cosmos Serpent
 2 Emergent Sequence
-3 Neverwinter Dryad
+2 Neverwinter Dryad
 3 Bloodchief's Thirst
+3 Neverwinter Dryad
 3 Emergent Sequence
 4 Emergent Sequence
 5 Forest

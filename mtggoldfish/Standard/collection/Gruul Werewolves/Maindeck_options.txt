@@ -48,12 +48,12 @@
 1 Varis, Silverymoon Ranger
 2 Varis, Silverymoon Ranger
 2 Kolvori, God of Kinship
-1 Snow-Covered Mountain
-1 Blizzard Brawl
 1 Snow-Covered Forest
+1 Blizzard Brawl
+1 Snow-Covered Mountain
 2 Snow-Covered Forest
-2 Snow-Covered Mountain
 2 Blizzard Brawl
+2 Snow-Covered Mountain
 3 Snow-Covered Forest
 3 Snow-Covered Mountain
 4 Snow-Covered Forest
@@ -108,8 +108,8 @@
 1 Burning Hands
 2 Burning Hands
 3 Wrenn and Seven
-4 Briarbridge Tracker
 4 Wrenn and Seven
+4 Briarbridge Tracker
 4 Packsong Pup
 1 Demon Bolt
 2 Demon Bolt
@@ -161,57 +161,40 @@
 2 Bird Admirer
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
-1 Glorious Sunrise
 1 Neverwinter Dryad
-2 Glorious Sunrise
+1 Glorious Sunrise
 2 Neverwinter Dryad
+2 Glorious Sunrise
 3 Neverwinter Dryad
 1 Wolfkin Outcast
+1 Ulvenwald Oddity
+2 Ulvenwald Oddity
 1 Froghemoth
 1 Vorinclex, Monstrous Raider
 2 Froghemoth
-1 Ulvenwald Oddity
-2 Ulvenwald Oddity
 1 Rending Flame
 2 Rending Flame
 3 Frost Bite
 1 Light Up the Night
 3 Demon Bolt
-1 Kazuul's Fury
-2 Kazuul's Fury
-4 Howlpack Piper
 1 Sporeback Wolf
 1 Kessig Wolfrider
 2 Sporeback Wolf
 4 Abrade
+1 Kazuul's Fury
+2 Kazuul's Fury
+4 Howlpack Piper
 1 Spikefield Hazard
 2 Spikefield Hazard
 3 Spikefield Hazard
 4 Jaspera Sentinel
 4 Spikefield Hazard
-1 Heated Debate
-1 Dragon's Fire
-1 Lithoform Engine
-1 Bala Ged Recovery
-1 Cemetery Gatekeeper
-2 Field of Ruin
-2 Heated Debate
-2 Cemetery Gatekeeper
-2 Bala Ged Recovery
-3 Heated Debate
-3 Cemetery Gatekeeper
-3 Evolving Wilds
-3 Bala Ged Recovery
-4 Bala Ged Recovery
-4 Evolving Wilds
-4 Heated Debate
-4 Cemetery Gatekeeper
 1 Faceless Haven
 2 Faceless Haven
 3 Faceless Haven
 10 Snow-Covered Forest
-1 Storm the Festival
 1 Child of the Pack
+1 Storm the Festival
 1 Weaver of Blossoms
 2 Storm the Festival
 2 Child of the Pack
@@ -231,3 +214,20 @@
 2 Howl of the Hunt
 3 Howl of the Hunt
 12 Forest
+1 Bala Ged Recovery
+1 Cemetery Gatekeeper
+1 Dragon's Fire
+1 Heated Debate
+1 Lithoform Engine
+2 Field of Ruin
+2 Bala Ged Recovery
+2 Heated Debate
+2 Cemetery Gatekeeper
+3 Bala Ged Recovery
+3 Heated Debate
+3 Cemetery Gatekeeper
+3 Evolving Wilds
+4 Bala Ged Recovery
+4 Evolving Wilds
+4 Heated Debate
+4 Cemetery Gatekeeper

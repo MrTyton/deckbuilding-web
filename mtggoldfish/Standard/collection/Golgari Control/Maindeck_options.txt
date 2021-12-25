@@ -10,8 +10,8 @@
 1 Wrenn and Seven
 2 Wrenn and Seven
 1 Lair of the Hydra
-4 Deathcap Glade
 4 Darkbore Pathway
+4 Deathcap Glade
 4 Esika's Chariot
 1 Prosperous Innkeeper
 2 Prosperous Innkeeper
@@ -34,8 +34,8 @@
 2 Augur of Autumn
 2 Power Word Kill
 4 Wrenn and Seven
-1 Forest
 1 Swamp
+1 Forest
 2 Forest
 2 Swamp
 3 Swamp
@@ -99,13 +99,13 @@
 3 Hunt for Specimens
 7 Forest
 1 Highland Forest
+1 Inscription of Ruin
 1 Toxrill, the Corrosive
 1 Glorious Sunrise
-1 Inscription of Ruin
 1 Sarulf, Realm Eater
 2 Culling Ritual
-2 Glorious Sunrise
 2 Inscription of Ruin
+2 Glorious Sunrise
 1 Snow-Covered Mountain
 1 Ranger Class
 1 Elderfang Disciple
@@ -118,26 +118,24 @@
 2 Soul Shatter
 3 Valki, God of Lies
 3 Power Word Kill
-1 Kazandu Mammoth
-1 Cemetery Prowler
-1 Necroblossom Snarl
-1 Shadows' Verdict
-1 The Celestus
-2 Kazandu Mammoth
-2 Shadows' Verdict
-2 Cemetery Prowler
-2 Necroblossom Snarl
-3 Kazandu Mammoth
-3 Necroblossom Snarl
-4 Kazandu Mammoth
 1 Skyclave Shade
 2 Skyclave Shade
 3 Fell Stinger
 3 Skyclave Shade
 4 Fell Stinger
 4 Concealing Curtains
-3 Field of Ruin
-4 Field of Ruin
+1 Kazandu Mammoth
+1 Necroblossom Snarl
+1 Cemetery Prowler
+1 Shadows' Verdict
+1 The Celestus
+2 Cemetery Prowler
+2 Kazandu Mammoth
+2 Shadows' Verdict
+2 Necroblossom Snarl
+3 Kazandu Mammoth
+3 Necroblossom Snarl
+4 Kazandu Mammoth
 1 Agadeem's Awakening
 1 Morbid Opportunist
 1 Village Rites
@@ -146,9 +144,25 @@
 2 Skeletal Swarming
 2 Village Rites
 3 Morbid Opportunist
-3 Skeletal Swarming
 3 Village Rites
+3 Skeletal Swarming
 4 Village Rites
+3 Field of Ruin
+4 Field of Ruin
+1 Avabruck Caretaker
+1 Westgate Regent
+1 Graveyard Trespasser
+1 Poet's Quill
+1 Dread Fugue
+1 Dig Up
+2 Avabruck Caretaker
+2 Westgate Regent
+2 Graveyard Trespasser
+2 Dig Up
+3 Graveyard Trespasser
+3 Dig Up
+4 Graveyard Trespasser
+4 Dig Up
 1 Emergent Sequence
 1 Neverwinter Dryad
 2 Emergent Sequence
@@ -158,9 +172,10 @@
 4 Neverwinter Dryad
 7 Snow-Covered Forest
 8 Snow-Covered Forest
+18 Snow-Covered Swamp
 1 Bloodvial Purveyor
-1 Field Trip
 1 Evolving Wilds
+1 Field Trip
 1 Nighthawk Scavenger
 1 Roiling Regrowth
 1 Dollhouse of Horrors
@@ -171,25 +186,10 @@
 2 Nighthawk Scavenger
 2 Dollhouse of Horrors
 2 Scute Swarm
-3 Field Trip
 3 Scute Swarm
+3 Field Trip
 3 Roiling Regrowth
 4 Scute Swarm
 8 Swamp
-8 Forest
 9 Swamp
-18 Snow-Covered Swamp
-1 Dig Up
-1 Avabruck Caretaker
-1 Westgate Regent
-1 Graveyard Trespasser
-1 Poet's Quill
-1 Dread Fugue
-2 Dig Up
-2 Westgate Regent
-2 Avabruck Caretaker
-2 Graveyard Trespasser
-3 Dig Up
-3 Graveyard Trespasser
-4 Graveyard Trespasser
-4 Dig Up
+8 Forest
