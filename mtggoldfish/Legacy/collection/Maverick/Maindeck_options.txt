@@ -1,6 +1,3 @@
-1 Elvish Reclaimer
-1 Cavern of Souls
-1 Sylvan Safekeeper
 1 Valakut, the Molten Pinnacle
 1 Dryad of the Ilysian Grove
 1 Vesuva
@@ -12,41 +9,44 @@
 2 Vesuva
 3 Elvish Reclaimer
 4 Elvish Reclaimer
+1 Grist, the Hunger Tide
 1 Slogurk, the Overslime
 1 Crop Rotation
 2 Crop Rotation
 1 Misty Rainforest
-1 Once Upon a Time
-2 Once Upon a Time
 2 Cavern of Souls
 2 Yavimaya, Cradle of Growth
+2 Prismatic Ending
+1 Scrubland
 3 Cavern of Souls
-1 Knight of Autumn
+1 Once Upon a Time
+2 Once Upon a Time
+2 Sylvan Library
 3 Crop Rotation
 3 Endurance
 3 Once Upon a Time
-2 Sylvan Library
 1 Leovold, Emissary of Trest
 4 Crop Rotation
 1 Cephalid Coliseum
-3 Prismatic Ending
+1 Knight of Autumn
 2 Dryad of the Ilysian Grove
 1 Tranquil Thicket
-4 Cavern of Souls
-3 Savannah
-4 Once Upon a Time
 1 Umezawa's Jitte
 1 Stoneforge Mystic
+4 Cavern of Souls
+3 Prismatic Ending
+3 Savannah
+4 Once Upon a Time
 2 Tranquil Thicket
 2 Slogurk, the Overslime
 1 Maze of Ith
-1 Hexdrinker
+2 Stoneforge Mystic
 2 Plains
 1 Allosaurus Shepherd
 1 Chord of Calling
 2 Chord of Calling
 3 Tranquil Thicket
-2 Stoneforge Mystic
+1 Hexdrinker
 2 Misty Rainforest
 1 Hullbreacher
 1 Opposition Agent
@@ -55,11 +55,6 @@
 3 Hullbreacher
 3 Chord of Calling
 4 Hullbreacher
-4 Verdant Catacombs
-1 Sword of Fire and Ice
-1 Peacekeeper
-1 Khalni Garden
-2 Bayou
 3 Sylvan Library
 1 Taiga
 1 Plateau
@@ -67,7 +62,6 @@
 1 Punishing Fire
 1 Ragavan, Nimble Pilferer
 1 Wooded Foothills
-1 Klothys, God of Destiny
 2 Grove of the Burnwillows
 2 Taiga
 2 Ragavan, Nimble Pilferer
@@ -78,34 +72,40 @@
 3 Punishing Fire
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
-1 Aven Mindcensor
-1 Qasali Pridemage
 1 Batterskull
+1 Sword of Fire and Ice
+1 Khalni Garden
+1 Peacekeeper
+2 Bayou
+1 Shadowspear
+1 Klothys, God of Destiny
+1 Aven Mindcensor
+4 Verdant Catacombs
 1 Augur of Autumn
 4 Chord of Calling
 1 Arena
 1 Flagstones of Trokair
-1 Shadowspear
 1 Urza's Saga
 1 Retrofitter Foundry
 2 Horizon Canopy
 2 Aven Mindcensor
 1 Gretchen Titchwillow
-4 Thalia, Guardian of Thraben
-1 Giver of Runes
+1 Qasali Pridemage
+3 Stoneforge Mystic
 1 Simic Growth Chamber
+1 Giver of Runes
 4 Endurance
 4 Tranquil Thicket
-2 Birds of Paradise
 4 Prismatic Ending
+2 Birds of Paradise
 2 Opposition Agent
 3 Opposition Agent
 3 Misty Rainforest
 1 Titania, Protector of Argoth
+1 Primeval Titan
 1 Lantern of the Lost
 1 Skyclave Apparition
 1 Solitude
-1 Primeval Titan
 2 Urza's Saga
 2 Solitude
 2 Skyclave Apparition
@@ -154,5 +154,5 @@
 4 Misty Rainforest
 4 Opposition Agent
 1 Sigarda, Champion of Light
-3 Stoneforge Mystic
 4 Savannah
+4 Thalia, Guardian of Thraben

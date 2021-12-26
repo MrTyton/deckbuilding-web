@@ -161,10 +161,10 @@
 2 Bird Admirer
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
-1 Neverwinter Dryad
 1 Glorious Sunrise
-2 Neverwinter Dryad
+1 Neverwinter Dryad
 2 Glorious Sunrise
+2 Neverwinter Dryad
 3 Neverwinter Dryad
 1 Wolfkin Outcast
 1 Ulvenwald Oddity
@@ -184,11 +184,23 @@
 1 Kazuul's Fury
 2 Kazuul's Fury
 4 Howlpack Piper
-1 Spikefield Hazard
-2 Spikefield Hazard
-3 Spikefield Hazard
-4 Jaspera Sentinel
-4 Spikefield Hazard
+1 Bala Ged Recovery
+1 Cemetery Gatekeeper
+1 Heated Debate
+1 Lithoform Engine
+1 Dragon's Fire
+2 Field of Ruin
+2 Bala Ged Recovery
+2 Heated Debate
+2 Cemetery Gatekeeper
+3 Bala Ged Recovery
+3 Heated Debate
+3 Cemetery Gatekeeper
+3 Evolving Wilds
+4 Bala Ged Recovery
+4 Evolving Wilds
+4 Heated Debate
+4 Cemetery Gatekeeper
 1 Faceless Haven
 2 Faceless Haven
 3 Faceless Haven
@@ -214,20 +226,8 @@
 2 Howl of the Hunt
 3 Howl of the Hunt
 12 Forest
-1 Bala Ged Recovery
-1 Cemetery Gatekeeper
-1 Dragon's Fire
-1 Heated Debate
-1 Lithoform Engine
-2 Field of Ruin
-2 Bala Ged Recovery
-2 Heated Debate
-2 Cemetery Gatekeeper
-3 Bala Ged Recovery
-3 Heated Debate
-3 Cemetery Gatekeeper
-3 Evolving Wilds
-4 Bala Ged Recovery
-4 Evolving Wilds
-4 Heated Debate
-4 Cemetery Gatekeeper
+1 Spikefield Hazard
+2 Spikefield Hazard
+3 Spikefield Hazard
+4 Spikefield Hazard
+4 Jaspera Sentinel

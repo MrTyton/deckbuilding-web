@@ -38,9 +38,6 @@
 1 Graveyard Trespasser
 2 Check for Traps
 2 Circle of Confinement
-1 Glorious Protector
-2 Glorious Protector
-2 Doomskar
 1 Parasitic Grasp
 1 Cleric Class
 2 Cleric Class
@@ -48,10 +45,13 @@
 1 Angel of Destiny
 2 Vanquish the Horde
 2 Paladin Class
-1 Orah, Skyclave Hierophant
+1 Glorious Protector
+2 Glorious Protector
+2 Doomskar
 1 Guardian of Faith
 1 Rally the Ranks
 1 Curse of Silence
+1 Orah, Skyclave Hierophant
 2 Guardian of Faith
 2 Rally the Ranks
 2 Curse of Silence
@@ -62,9 +62,9 @@
 1 Silverquill Silencer
 2 Silverquill Silencer
 3 Silverquill Silencer
-1 Drana, the Last Bloodchief
 1 Shaile, Dean of Radiance
 1 Disenchant
+1 Drana, the Last Bloodchief
 2 Disenchant
 2 Shaile, Dean of Radiance
 2 Drana, the Last Bloodchief
@@ -83,17 +83,17 @@
 3 Skemfar Shadowsage
 4 Valkyrie Harbinger
 4 Blade Historian
-1 Firja's Retribution
 1 Selfless Glyphweaver
+1 Firja's Retribution
 4 Duress
+1 Kaya the Inexorable
 1 Lolth, Spider Queen
 1 Path of Peril
-1 Kaya the Inexorable
 2 Kaya the Inexorable
 2 Lolth, Spider Queen
 4 Crippling Fear
-1 Environmental Sciences
 1 Introduction to Prophecy
+1 Environmental Sciences
 2 Environmental Sciences
 1 Revitalize
 1 Maul of the Skyclaves
@@ -110,7 +110,7 @@
 3 Swamp
 3 Kor Celebrant
 3 Plains
-1 Reduce to Memory
 1 Introduction to Annihilation
+1 Reduce to Memory
 2 Reduce to Memory
 1 Confront the Past

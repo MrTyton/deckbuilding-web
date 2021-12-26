@@ -1,12 +1,12 @@
-4 Lightning Bolt
-4 Lotus Petal
-2 Plateau
-2 Mox Opal
-3 Imperial Recruiter
-4 Great Furnace
 8 Mountain
-1 Enlightened Tutor
+1 Plateau
+1 Ethersworn Canonist
+3 Imperial Recruiter
 1 Blood Moon
+2 Plateau
+4 Great Furnace
+2 Mox Opal
+1 Enlightened Tutor
 1 Bloodstained Mire
 2 Bloodstained Mire
 1 Wooded Foothills
@@ -24,40 +24,38 @@
 1 Urza's Bauble
 2 Urza's Bauble
 3 Urza's Bauble
+2 Simian Spirit Guide
 9 Mountain
 1 Smuggler's Copter
 1 Pyrite Spellbomb
 1 Wurmcoil Engine
-2 Simian Spirit Guide
 1 Breya's Apprentice
 2 Enlightened Tutor
 1 Trinisphere
 1 Shadowspear
+1 Magus of the Moon
 3 Wooded Foothills
+1 Bolas's Citadel
+3 City of Traitors
+4 City of Traitors
+2 Ensnaring Bridge
+1 Mishra's Bauble
+4 Karn, the Great Creator
 1 Crucible of Worlds
 1 Portable Hole
 1 Oswald Fiddlebender
 1 Plains
 1 Ancient Den
 2 Oswald Fiddlebender
-1 Wasteland
-1 Mishra's Bauble
-1 Esper Sentinel
 2 Plains
 3 Plains
-1 Arid Mesa
-2 Arid Mesa
-3 Arid Mesa
-4 Arid Mesa
+1 Wasteland
 1 Karakas
-3 Oswald Fiddlebender
-4 Karn, the Great Creator
-1 Magus of the Moon
-2 Esper Sentinel
 2 Ethersworn Canonist
 2 Ancient Den
 2 Karakas
 2 Wasteland
+3 Oswald Fiddlebender
 3 Ancient Den
 3 Wasteland
 4 Oswald Fiddlebender
@@ -66,13 +64,14 @@
 4 Ancient Den
 5 Plains
 6 Plains
+1 Esper Sentinel
+2 Esper Sentinel
 1 Force of Will
 2 Force of Will
 3 Force of Will
 4 Force of Will
 2 Mishra's Bauble
 3 Mishra's Bauble
-1 Bolas's Citadel
 2 Breya's Apprentice
 3 Simian Spirit Guide
 4 Mox Opal
@@ -81,6 +80,10 @@
 2 Seat of the Synod
 3 Seat of the Synod
 4 Seat of the Synod
+1 Arid Mesa
+2 Arid Mesa
+3 Arid Mesa
+4 Arid Mesa
 1 Ingenious Smith
 1 Phyrexian Revoker
 1 Mother of Runes
@@ -91,9 +94,9 @@
 3 Mother of Runes
 4 Ingenious Smith
 4 Esper Sentinel
-2 Ensnaring Bridge
-3 City of Traitors
-4 City of Traitors
+2 Blood Moon
+3 Blood Moon
+4 Blood Moon
 2 Lion's Eye Diamond
 3 Lion's Eye Diamond
 2 Magus of the Moon
@@ -101,7 +104,6 @@
 10 Mountain
 11 Mountain
 12 Mountain
-2 Portable Hole
 1 Urza, Lord High Artificer
 1 Emry, Lurker of the Loch
 2 Emry, Lurker of the Loch
@@ -119,7 +121,6 @@
 2 Polluted Delta
 2 Preordain
 3 Preordain
-1 Tangle Wire
 1 Brainstorm
 1 Misty Rainforest
 2 Misty Rainforest
@@ -166,6 +167,7 @@
 3 Thoughtcast
 4 Mishra's Bauble
 4 Thoughtcast
+1 Chandra, Torch of Defiance
 2 Smuggler's Copter
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
@@ -186,6 +188,7 @@
 1 Flagstones of Trokair
 1 Timeless Dragon
 2 Timeless Dragon
+2 Portable Hole
 2 Flagstones of Trokair
 3 Timeless Dragon
 3 Portable Hole
@@ -211,21 +214,6 @@
 2 Aether Vial
 3 Aether Vial
 4 Aether Vial
-1 Dragon's Rage Channeler
-1 Weathered Wayfarer
-1 Spellskite
-1 Prismatic Ending
-1 Torpor Orb
-1 Myr Retriever
-1 Prismatic Vista
-2 Dragon's Rage Channeler
-2 Prismatic Ending
-2 Weathered Wayfarer
-3 Dragon's Rage Channeler
-3 Prismatic Ending
-3 Plateau
-4 Dragon's Rage Channeler
-4 Plateau
 1 Phyrexian Dreadnought
 1 Dark Depths
 1 Thespian's Stage
@@ -248,6 +236,7 @@
 1 Coveted Jewel
 1 Ornithopter
 1 Auriok Salvagers
+1 Tangle Wire
 2 Badlands
 2 Wishclaw Talisman
 3 Bloodstained Mire
@@ -264,8 +253,5 @@
 8 Plains
 9 Plains
 1 Daretti, Scrap Savant
-2 Blood Moon
-3 Blood Moon
-4 Blood Moon
 13 Mountain
 14 Mountain

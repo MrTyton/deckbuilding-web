@@ -50,8 +50,8 @@
 3 Celestial Unicorn
 1 Dawnbringer Cleric
 1 Story Seeker
-2 Story Seeker
 2 Dawnbringer Cleric
+2 Story Seeker
 1 Field of Ruin
 2 Field of Ruin
 20 Snow-Covered Plains
@@ -81,9 +81,7 @@
 4 Celestial Unicorn
 1 Icingdeath, Frost Tyrant
 1 Homestead Courage
-1 Snowfield Sinkhole
-1 Thunderous Orator
-1 Pillardrop Rescuer
+1 Wedding Announcement
 1 Glacial Floodplain
 1 Canyon Jerboa
 1 Radiant Grace
@@ -91,81 +89,83 @@
 1 Piercing Light
 1 Flare of Faith
 1 Squad Commander
+1 Thunderous Orator
 1 Nadaar, Selfless Paladin
 1 Deserted Beach
+1 Pillardrop Rescuer
 1 Cloister Gargoyle
 1 Dawnhart Geist
 1 Odric's Outrider
 1 Hengegate Pathway
 1 Gods' Hall Guardian
-1 Wedding Announcement
 1 White Dragon
 1 Soul-Guide Gryff
 1 Resolute Strike
 1 Duelcraft Trainer
-2 Snowfield Sinkhole
+1 Snowfield Sinkhole
 2 Expel
 2 Piercing Light
 2 Duelcraft Trainer
 2 Dawnhart Geist
+2 Snowfield Sinkhole
 24 Plains
 25 Plains
-1 Steadfast Paladin
 1 Teleportation Circle
 1 Paladin Class
-2 Steadfast Paladin
+1 Steadfast Paladin
 2 Teleportation Circle
 2 Paladin Class
+2 Steadfast Paladin
 1 Emeria's Call
 1 Professor of Symbology
 1 Crawling Barrens
 2 Emeria's Call
 1 Traveling Minister
-1 Sigardian Savior
 1 Candletrap
 1 Portable Hole
 1 Sigarda's Summons
+1 Sigardian Savior
 2 Candletrap
 2 Portable Hole
 3 Potion of Healing
+1 Chaplain of Alms
+1 Felidar Retreat
+1 Ranger's Hawk
+1 Divine Gambit
+2 Homestead Courage
+2 Felidar Retreat
+2 Ranger's Hawk
+2 Divine Gambit
+3 Felidar Retreat
+3 Minimus Containment
+3 Divine Gambit
+4 Minimus Containment
+4 Divine Gambit
+4 Rune of Sustenance
 1 Elite Spellbinder
 1 Borrowed Time
 1 Sejiri Shelter
-2 Attended Healer
-2 Valkyrie Harbinger
 2 Borrowed Time
 2 Elite Spellbinder
 2 Sejiri Shelter
-3 Attended Healer
-3 Valkyrie Harbinger
+2 Valkyrie Harbinger
+2 Attended Healer
 3 Borrowed Time
 3 Elite Spellbinder
+3 Attended Healer
 3 Sejiri Shelter
-4 Valkyrie Harbinger
-4 Skyclave Cleric
-4 Borrowed Time
+3 Valkyrie Harbinger
 4 Elite Spellbinder
+4 Borrowed Time
 4 Attended Healer
-1 Felidar Retreat
-1 Chaplain of Alms
-1 Divine Gambit
-1 Ranger's Hawk
-2 Felidar Retreat
-2 Homestead Courage
-2 Divine Gambit
-2 Ranger's Hawk
-3 Felidar Retreat
-3 Divine Gambit
-3 Minimus Containment
-4 Minimus Containment
-4 Rune of Sustenance
-4 Divine Gambit
+4 Skyclave Cleric
+4 Valkyrie Harbinger
 2 Vanquish the Horde
 3 Vanquish the Horde
 4 Vanquish the Horde
-1 Valorous Stance
 1 Ollenbock Escort
 1 Pyre of Heroes
+1 Valorous Stance
 2 Ollenbock Escort
 2 Valorous Stance
 2 Pyre of Heroes
@@ -181,20 +181,20 @@
 2 Maul of the Skyclaves
 2 Icingdeath, Frost Tyrant
 2 Skyclave Apparition
-3 Story Seeker
 3 Maul of the Skyclaves
-3 Dawnbringer Cleric
 3 Skyclave Apparition
-4 Story Seeker
+3 Story Seeker
+3 Dawnbringer Cleric
 4 Skyclave Apparition
+4 Story Seeker
 4 Dawnbringer Cleric
-1 Starnheim Aspirant
 1 Legion Angel
-2 Starnheim Aspirant
+1 Starnheim Aspirant
 2 Legion Angel
-3 Fateful Absence
+2 Starnheim Aspirant
 3 The Book of Exalted Deeds
 3 Sunset Revelry
+3 Fateful Absence
 3 Starnheim Aspirant
 4 Starnheim Aspirant
 21 Snow-Covered Plains

@@ -67,8 +67,8 @@
 1 Silverquill Campus
 2 Silverquill Campus
 1 Fateful Absence
-1 Faceless Haven
 1 The Book of Exalted Deeds
+1 Faceless Haven
 2 The Book of Exalted Deeds
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
@@ -90,25 +90,25 @@
 4 Marauding Blight-Priest
 10 Plains
 11 Plains
-1 Youthful Valkyrie
 1 Starnheim Aspirant
 1 Westgate Regent
+1 Youthful Valkyrie
+2 Starnheim Aspirant
+2 Westgate Regent
 2 Youthful Valkyrie
 2 Faceless Haven
-2 Westgate Regent
-2 Starnheim Aspirant
-3 Youthful Valkyrie
-3 Faceless Haven
 3 Starnheim Aspirant
 3 The Book of Exalted Deeds
 3 Westgate Regent
+3 Youthful Valkyrie
+3 Faceless Haven
 3 Angel of Destiny
-4 Youthful Valkyrie
 4 The Book of Exalted Deeds
 4 Faceless Haven
 4 Markov Purifier
 4 Angel of Destiny
 4 Westgate Regent
+4 Youthful Valkyrie
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
@@ -120,17 +120,17 @@
 1 Jerren, Corrupted Bishop
 1 Sigarda's Splendor
 2 Sigarda's Splendor
+3 Agadeem's Awakening
 1 Homestead Courage
 1 Great Hall of Starnheim
 2 Homestead Courage
 3 Traveling Minister
-3 Agadeem's Awakening
 1 Humiliate
 1 Crippling Fear
 1 Duress
 2 Fateful Absence
-2 Humiliate
 2 Crippling Fear
+2 Humiliate
 2 Duress
 3 Duress
 3 Crippling Fear
@@ -144,21 +144,21 @@
 4 Ollenbock Escort
 4 Doomskar
 4 Curse of Leeches
-1 Silverquill Command
 1 Edgar, Charmed Groom
+1 Silverquill Command
 2 Silverquill Command
-3 Professor of Symbology
 3 The Meathook Massacre
+3 Professor of Symbology
 4 Professor of Symbology
 4 Cleric Class
 1 Glasspool Mimic
+1 Deserted Beach
 1 Hengegate Pathway
 1 Clearwater Pathway
-1 Deserted Beach
 2 Glasspool Mimic
+2 Deserted Beach
 2 Hengegate Pathway
 2 Clearwater Pathway
-2 Deserted Beach
 3 Clearwater Pathway
 3 Glasspool Mimic
 3 Hengegate Pathway
@@ -177,8 +177,8 @@
 2 Glorious Protector
 2 Priest of Ancient Lore
 2 Closing Statement
-3 Teleportation Circle
 3 Priest of Ancient Lore
+3 Teleportation Circle
 3 Glorious Protector
 3 Devastating Mastery
 4 Priest of Ancient Lore
@@ -186,9 +186,9 @@
 1 Nullpriest of Oblivion
 1 Paladin Class
 1 Firja's Retribution
-1 Kaya the Inexorable
 1 Invoke the Divine
 1 Vanquish the Horde
+1 Kaya the Inexorable
 1 Sanctify
 1 Valkyrie Harbinger
 1 Professor Onyx

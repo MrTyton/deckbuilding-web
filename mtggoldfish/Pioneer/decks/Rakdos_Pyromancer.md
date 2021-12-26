@@ -47,7 +47,7 @@
 |                    1|[Bloodthirsty Adversary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534905)|                    1|[Dreadbore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430622)           |
 |                    2|[Bloodthirsty Adversary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534905)|                    2|[Necromentia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485439)         |
 |                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                 |                    2|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)        |
+|                     |                                                                                                 |                    3|[Go Blank](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513549)            |
 |                     |                                                                                                 |                    2|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)  |
 |                     |                                                                                                 |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |
-|                     |                                                                                                 |                    3|[Go Blank](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513549)            |
 

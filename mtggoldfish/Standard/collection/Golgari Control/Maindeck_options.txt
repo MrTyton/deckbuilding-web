@@ -1,6 +1,6 @@
-1 Darkbore Pathway
-2 Binding the Old Gods
+1 Binding the Old Gods
 2 Darkbore Pathway
+2 Binding the Old Gods
 3 Esika's Chariot
 1 Woodland Chasm
 3 Darkbore Pathway
@@ -136,6 +136,8 @@
 3 Kazandu Mammoth
 3 Necroblossom Snarl
 4 Kazandu Mammoth
+3 Field of Ruin
+4 Field of Ruin
 1 Agadeem's Awakening
 1 Morbid Opportunist
 1 Village Rites
@@ -144,11 +146,9 @@
 2 Skeletal Swarming
 2 Village Rites
 3 Morbid Opportunist
-3 Village Rites
 3 Skeletal Swarming
+3 Village Rites
 4 Village Rites
-3 Field of Ruin
-4 Field of Ruin
 1 Avabruck Caretaker
 1 Westgate Regent
 1 Graveyard Trespasser
@@ -172,7 +172,6 @@
 4 Neverwinter Dryad
 7 Snow-Covered Forest
 8 Snow-Covered Forest
-18 Snow-Covered Swamp
 1 Bloodvial Purveyor
 1 Evolving Wilds
 1 Field Trip
@@ -182,14 +181,15 @@
 1 Scute Swarm
 2 Bloodvial Purveyor
 2 Field Trip
-2 Roiling Regrowth
 2 Nighthawk Scavenger
 2 Dollhouse of Horrors
 2 Scute Swarm
+2 Roiling Regrowth
 3 Scute Swarm
 3 Field Trip
 3 Roiling Regrowth
 4 Scute Swarm
 8 Swamp
-9 Swamp
 8 Forest
+9 Swamp
+18 Snow-Covered Swamp
