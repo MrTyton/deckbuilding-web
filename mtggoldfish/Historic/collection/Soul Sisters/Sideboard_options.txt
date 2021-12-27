@@ -54,8 +54,8 @@
 4 Giant Killer
 1 Gods Willing
 2 Gods Willing
-1 The Immortal Sun
 1 Heliod's Intervention
+1 The Immortal Sun
 1 Cleansing Nova
 2 The Immortal Sun
 1 Idol of Endurance
@@ -79,21 +79,21 @@
 2 Portable Hole
 3 Portable Hole
 3 Containment Priest
-1 Mazemind Tome
-1 Toski, Bearer of Secrets
-2 Mazemind Tome
-1 Reidane, God of the Worthy
-1 Shapers' Sanctuary
-2 Reidane, God of the Worthy
-1 Archon of Absolution
-1 Brought Back
-2 Archon of Absolution
-1 Archon of Emeria
-2 Archon of Emeria
-2 Disenchant
 1 Selfless Savior
 1 Speaker of the Heavens
 2 Soul-Guide Lantern
+1 Mazemind Tome
+1 Toski, Bearer of Secrets
+2 Mazemind Tome
+1 Archon of Absolution
+1 Brought Back
+2 Archon of Absolution
+1 Shapers' Sanctuary
+1 Reidane, God of the Worthy
+2 Reidane, God of the Worthy
+1 Archon of Emeria
+2 Archon of Emeria
+2 Disenchant
 2 Elspeth Conquers Death
 1 Scavenging Ooze
 1 Declaration in Stone
@@ -102,6 +102,11 @@
 2 Scavenging Ooze
 2 Shifting Ceratops
 3 Declaration in Stone
+2 Lurrus of the Dream-Den
+3 Grafdigger's Cage
+1 Ajani, Adversary of Tyrants
+2 Ajani, Adversary of Tyrants
+3 Light of Hope
 2 Authority of the Consuls
 1 Cosmos Elixir
 1 Doomskar
@@ -112,11 +117,6 @@
 2 Cliffhaven Kitesail
 3 Tormod's Crypt
 3 Authority of the Consuls
-2 Lurrus of the Dream-Den
-3 Grafdigger's Cage
-1 Ajani, Adversary of Tyrants
-2 Ajani, Adversary of Tyrants
-3 Light of Hope
 1 Valorous Stance
 1 Fall of the Thran
 2 Valorous Stance
@@ -132,10 +132,10 @@
 1 Search for Glory
 1 Castle Ardenvale
 3 Prison Realm
+1 Baneslayer Angel
 1 Archon of Sun's Grace
 1 Mentor of the Meek
 1 Soul Warden
-1 Baneslayer Angel
 2 Leonin Warleader
 2 Archon of Sun's Grace
 2 Baneslayer Angel
@@ -153,6 +153,14 @@
 3 Yasharn, Implacable Earth
 3 Drannith Magistrate
 4 Thalia, Guardian of Thraben
+1 Mana Tithe
+2 Mana Tithe
+3 Mana Tithe
+4 Portable Hole
+4 Devout Decree
+1 Knight of Autumn
+1 Seal Away
+2 Seal Away
 1 Leyline of the Void
 1 Command the Dreadhorde
 1 Virulent Plague
@@ -161,11 +169,3 @@
 3 Timely Reinforcements
 4 Leyline of the Void
 4 Timely Reinforcements
-1 Knight of Autumn
-1 Seal Away
-2 Seal Away
-1 Mana Tithe
-2 Mana Tithe
-3 Mana Tithe
-4 Devout Decree
-4 Portable Hole

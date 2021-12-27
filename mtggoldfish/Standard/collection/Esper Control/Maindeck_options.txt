@@ -1,84 +1,84 @@
-1 Hengegate Pathway
+3 Vanishing Verse
+1 The Celestus
+1 Bloodchief's Thirst
 1 Behold the Multiverse
 1 Hive of the Eye Tyrant
-2 Hengegate Pathway
 3 Wash Away
+2 Hengegate Pathway
 2 Bloodchief's Thirst
-1 Hullbreaker Horror
 2 The Celestus
+1 Hullbreaker Horror
 2 Behold the Multiverse
-3 Infernal Grasp
 4 Vanishing Verse
 4 Wash Away
-3 Hengegate Pathway
-4 Infernal Grasp
-2 Hullbreaker Horror
-3 The Celestus
 2 Iymrith, Desert Doom
-4 Hengegate Pathway
-1 Syncopate
-2 Test of Talents
 1 Henrika Domnathi
+3 Hengegate Pathway
+2 Hullbreaker Horror
 2 Henrika Domnathi
+3 The Celestus
+4 Hengegate Pathway
+2 Test of Talents
+1 Syncopate
 2 Deserted Beach
-1 Lier, Disciple of the Drowned
-1 Doomskar
 3 Deserted Beach
 4 Deserted Beach
-1 Duress
-1 Divide by Zero
-2 Divide by Zero
+1 Doomskar
+1 Lier, Disciple of the Drowned
 1 Lolth, Spider Queen
 2 Lolth, Spider Queen
-2 Lier, Disciple of the Drowned
 1 Go Blank
-3 Divide by Zero
+1 Divide by Zero
+2 Divide by Zero
 4 Shattered Sanctum
-3 Island
-2 Doomskar
-1 Power Word Kill
+2 Lier, Disciple of the Drowned
+1 Duress
+3 Divide by Zero
 1 Nighthawk Scavenger
 2 Nighthawk Scavenger
+3 Island
+1 Power Word Kill
+2 Doomskar
 1 Saw It Coming
 3 Swamp
 4 Swamp
+1 Disdainful Stroke
 1 Fading Hope
 2 Fading Hope
 3 Fading Hope
+2 Go Blank
 2 Saw It Coming
 1 Consider
 2 Consider
+3 Behold the Multiverse
+2 Syncopate
 2 Duress
 2 Hive of the Eye Tyrant
 3 Edgar, Charmed Groom
-1 Disdainful Stroke
+3 Nighthawk Scavenger
 1 Hagra Mauling
-2 Go Blank
+2 Soul Shatter
+3 Syncopate
 4 Divide by Zero
-3 Duress
 1 Negate
-3 Behold the Multiverse
+3 Duress
 4 Behold the Multiverse
-2 Syncopate
 3 Lier, Disciple of the Drowned
 3 Jwari Disruption
 1 Cave of the Frost Dragon
-4 Siphon Insight
-1 Emeria's Call
 1 Wedding Announcement
 1 Rite of Oblivion
+1 Emeria's Call
 2 Wedding Announcement
 3 Wedding Announcement
 4 Wedding Announcement
-1 Feed the Swarm
 1 Pelakka Predation
+1 Feed the Swarm
 1 Honored Heirloom
-3 Nighthawk Scavenger
+3 Soul Shatter
 1 Shineshadow Snarl
 2 Shineshadow Snarl
 1 Baleful Mastery
-2 Soul Shatter
-3 Syncopate
 1 Professor Onyx
 3 Field of Ruin
 4 Memory Deluge
@@ -97,15 +97,24 @@
 1 Concealing Curtains
 1 You Find the Villains' Lair
 1 Letter of Acceptance
+2 Hagra Mauling
+1 Malakir Rebirth
+2 Malakir Rebirth
+1 Reidane, God of the Worthy
+2 Reidane, God of the Worthy
 1 Ice Tunnel
 1 Flunk
 1 Dissipate
 1 Silverquill Campus
 2 Dissipate
-2 Hagra Mauling
-1 Reidane, God of the Worthy
-2 Reidane, God of the Worthy
-3 Soul Shatter
+1 Snow-Covered Island
+1 Snow-Covered Plains
+1 Snow-Covered Swamp
+2 Snow-Covered Island
+2 Snow-Covered Swamp
+1 Sedgemoor Witch
+2 Sedgemoor Witch
+3 Sedgemoor Witch
 1 Parasitic Grasp
 1 Shadows' Verdict
 1 Toxrill, the Corrosive
@@ -115,21 +124,19 @@
 1 Faithful Mending
 2 Faithful Mending
 3 Faithful Mending
-1 Sedgemoor Witch
-2 Sedgemoor Witch
-3 Sedgemoor Witch
 1 Gates of Istfell
 1 Sea Gate Restoration
 2 Baleful Mastery
 3 Baleful Mastery
 3 Saw It Coming
 3 Consider
-1 Elite Spellbinder
 1 Strict Proctor
-2 Elite Spellbinder
+1 Elite Spellbinder
 2 Strict Proctor
+2 Elite Spellbinder
 3 Strict Proctor
 3 Elite Spellbinder
+4 Siphon Insight
 1 Blood on the Snow
 3 Go Blank
 4 Jwari Disruption
@@ -150,6 +157,29 @@
 3 Teferi, Who Slows the Sunset
 4 Hullbreaker Horror
 4 Sorin the Mirthless
+1 Deadly Dispute
+1 Eyetwitch
+1 Skullport Merchant
+1 Shambling Ghast
+1 Fell Stinger
+2 Deadly Dispute
+2 Eyetwitch
+2 Skullport Merchant
+2 Fell Stinger
+2 Shambling Ghast
+3 Deadly Dispute
+3 Eyetwitch
+3 Skullport Merchant
+3 Lolth, Spider Queen
+3 Shambling Ghast
+3 Plains
+4 Eyetwitch
+4 Skullport Merchant
+4 Deadly Dispute
+4 Plains
+4 Shambling Ghast
+5 Swamp
+6 Swamp
 1 The Raven's Warning
 1 Delver of Secrets
 1 Revitalize
@@ -165,26 +195,3 @@
 4 Kaya the Inexorable
 4 Island
 5 Island
-1 Fell Stinger
-1 Deadly Dispute
-1 Shambling Ghast
-1 Eyetwitch
-1 Skullport Merchant
-2 Shambling Ghast
-2 Deadly Dispute
-2 Fell Stinger
-2 Skullport Merchant
-2 Eyetwitch
-3 Shambling Ghast
-3 Deadly Dispute
-3 Lolth, Spider Queen
-3 Skullport Merchant
-3 Plains
-3 Eyetwitch
-4 Plains
-4 Deadly Dispute
-4 Shambling Ghast
-4 Eyetwitch
-4 Skullport Merchant
-6 Swamp
-5 Swamp

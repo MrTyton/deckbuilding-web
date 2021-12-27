@@ -1,105 +1,109 @@
 3 Deadly Dispute
 1 Hagra Mauling
-4 Deadly Dispute
 1 Professor Onyx
-1 Graveyard Trespasser
-2 Graveyard Trespasser
-1 Soul Shatter
-1 Ebondeath, Dracolich
-1 Agadeem's Awakening
-3 Duress
+4 Deadly Dispute
 1 Go Blank
-3 Field of Ruin
-3 Hive of the Eye Tyrant
-4 Skullport Merchant
+1 Agadeem's Awakening
 1 Elderfang Disciple
 2 Elderfang Disciple
-1 Bloodchief's Thirst
-3 Graveyard Trespasser
-1 Power Word Kill
+1 Graveyard Trespasser
+2 Graveyard Trespasser
+1 Tergrid, God of Fright
+1 Hero's Downfall
+2 Hero's Downfall
+3 Duress
+2 Go Blank
+4 Skullport Merchant
+3 Elderfang Disciple
+2 Professor Onyx
 1 Fell Stinger
 2 Fell Stinger
 3 Fell Stinger
-1 Tainted Adversary
-2 Tainted Adversary
-3 Tainted Adversary
-2 Hagra Mauling
-2 Agadeem's Awakening
-4 The Meathook Massacre
-4 Hive of the Eye Tyrant
+3 Field of Ruin
 1 Acquisitions Expert
 2 Acquisitions Expert
+2 Agadeem's Awakening
+3 Hive of the Eye Tyrant
+4 Hive of the Eye Tyrant
+4 Elderfang Disciple
+4 The Meathook Massacre
 3 Valki, God of Lies
-3 Elderfang Disciple
+1 Ebondeath, Dracolich
+1 Tainted Adversary
+1 Undead Butler
 1 Eaten Alive
 1 Champion of the Perished
-1 Undead Butler
 1 Headless Rider
+2 Tainted Adversary
 2 Undead Butler
 2 Champion of the Perished
 2 Headless Rider
 3 Undead Butler
 3 Headless Rider
+3 Tainted Adversary
 3 Champion of the Perished
 4 Headless Rider
 4 Fell Stinger
-4 Champion of the Perished
 4 Tainted Adversary
+4 Champion of the Perished
+1 Westgate Regent
+1 Bloodchief's Thirst
+3 Graveyard Trespasser
 4 Graveyard Trespasser
+1 Soul Shatter
 1 Snow-Covered Mountain
-1 Pelakka Predation
-2 Soul Shatter
-2 Ebondeath, Dracolich
-1 Tergrid, God of Fright
 2 Tergrid, God of Fright
+3 Go Blank
+4 Go Blank
+3 Sorin the Mirthless
+1 Bloodline Culling
 1 Dread Fugue
 2 Dread Fugue
 3 Dread Fugue
 4 Dread Fugue
-1 Bloodline Culling
-2 Professor Onyx
-1 Hero's Downfall
-2 Hero's Downfall
-4 Elderfang Disciple
+1 Inscription of Ruin
+2 Inscription of Ruin
+2 Hagra Mauling
+1 Cosmos Elixir
+2 Cosmos Elixir
 1 Baleful Mastery
+2 Baleful Mastery
 3 Acquisitions Expert
 4 Acquisitions Expert
-1 Inscription of Ruin
 1 Flunk
 1 Eyetwitch
 2 Flunk
 2 Eyetwitch
-2 Inscription of Ruin
 3 Flunk
 3 Inscription of Ruin
 3 Eyetwitch
 3 Tergrid, God of Fright
-4 Flunk
 4 Eyetwitch
 4 Inscription of Ruin
-1 Westgate Regent
-2 Westgate Regent
+4 Flunk
 2 Eaten Alive
-1 Bloodvial Purveyor
+1 Skyclave Shade
+1 Skull Raid
+2 Skyclave Shade
+2 Skull Raid
+2 Westgate Regent
+1 Sedgemoor Witch
+2 Sedgemoor Witch
+3 Sedgemoor Witch
 1 Crippling Fear
 1 Evolving Wilds
-2 Bloodvial Purveyor
+1 Power Word Kill
+1 Bloodvial Purveyor
 2 Crippling Fear
-3 Sorin the Mirthless
+2 Bloodvial Purveyor
 3 Bloodvial Purveyor
-2 Go Blank
 4 Field of Ruin
-1 Morbid Opportunist
-2 Pelakka Predation
-2 Morbid Opportunist
-3 Morbid Opportunist
-4 Duress
 1 Shadows' Verdict
 1 The Celestus
 1 Vampire's Kiss
-2 The Celestus
 2 Shadows' Verdict
 2 Vampire's Kiss
+2 The Celestus
 3 The Celestus
 3 Vampire's Kiss
 4 Vampire's Kiss
@@ -109,22 +113,18 @@
 2 Priest of the Haunted Edge
 3 Agadeem's Awakening
 4 Undead Butler
-4 Valki, God of Lies
-1 Swamp
-1 Cosmos Elixir
-1 Forest
 1 Nighthawk Scavenger
 1 Darkbore Pathway
 1 Mind Drain
+1 Swamp
 1 Pestilent Cauldron
 1 Witherbloom Campus
-2 Swamp
-2 Cosmos Elixir
-2 Forest
-2 Baleful Mastery
+1 Forest
 2 Nighthawk Scavenger
 2 Mind Drain
 2 Pestilent Cauldron
+2 Forest
+2 Swamp
 2 Witherbloom Campus
 2 Darkbore Pathway
 3 Swamp
@@ -133,8 +133,8 @@
 3 Pestilent Cauldron
 3 Darkbore Pathway
 3 Mind Drain
-4 Cosmos Elixir
 4 Swamp
+4 Cosmos Elixir
 4 Darkbore Pathway
 4 Mind Drain
 5 Swamp
@@ -142,13 +142,4 @@
 7 Swamp
 8 Swamp
 9 Swamp
-1 Sedgemoor Witch
-1 Gelatinous Cube
-1 Gisa, Glorious Resurrector
-2 Sedgemoor Witch
-2 Bloodchief's Thirst
-2 Gelatinous Cube
-2 Power Word Kill
-3 Sedgemoor Witch
-3 Soul Shatter
-19 Snow-Covered Swamp
+4 Valki, God of Lies
