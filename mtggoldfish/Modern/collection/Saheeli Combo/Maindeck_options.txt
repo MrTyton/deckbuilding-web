@@ -16,10 +16,10 @@
 3 Territorial Kavu
 4 Territorial Kavu
 4 Wall of Omens
-1 Snow-Covered Plains
 1 Snow-Covered Island
-1 Snow-Covered Mountain
 1 Snow-Covered Forest
+1 Snow-Covered Plains
+1 Snow-Covered Mountain
 2 Snow-Covered Forest
 1 Expressive Iteration
 4 Flooded Strand
@@ -30,21 +30,21 @@
 2 Temple Garden
 1 Arid Mesa
 2 Breeding Pool
-1 Explore
 1 Lair of the Hydra
-1 Raging Ravine
 1 Storm the Festival
 1 Fires of Invention
+1 Raging Ravine
+1 Explore
 1 Coalition Relic
-2 Explore
 2 Storm the Festival
+2 Explore
 2 Fires of Invention
 2 Coalition Relic
 3 Storm the Festival
 3 Explore
 3 Fires of Invention
-4 Explore
 4 Storm the Festival
+4 Explore
 2 Expressive Iteration
 2 Arid Mesa
 3 Arid Mesa
@@ -71,8 +71,8 @@
 4 Ice-Fang Coatl
 1 Eladamri's Call
 1 Scalding Tarn
-1 Noble Hierarch
 1 Ignoble Hierarch
+1 Noble Hierarch
 2 Ignoble Hierarch
 2 Forest
 2 Island
@@ -94,13 +94,13 @@
 1 Eldritch Evolution
 2 Eldritch Evolution
 2 Hallowed Fountain
+1 Snapcaster Mage
 1 Sulfur Falls
 1 Glacial Fortress
 1 Remand
-1 Snapcaster Mage
-2 Lightning Bolt
 2 Snapcaster Mage
 2 Remand
+2 Lightning Bolt
 3 Lightning Bolt
 3 Remand
 1 Prismari Command
@@ -115,12 +115,12 @@
 1 Den of the Bugbear
 1 Renegade Rallier
 2 Renegade Rallier
-1 Spell Pierce
 1 Path to Exile
 1 Serum Visions
+1 Spell Pierce
 2 Scalding Tarn
-2 Steam Vents
 2 Path to Exile
+2 Steam Vents
 2 Serum Visions
 3 Scalding Tarn
 4 Scalding Tarn
@@ -131,65 +131,65 @@
 2 Counterspell
 3 Counterspell
 3 Snapcaster Mage
-4 Remand
 4 Counterspell
+4 Remand
 2 Plains
-1 Wooded Bastion
-1 Fire-Lit Thicket
 1 Volatile Fjord
+1 Fire-Lit Thicket
+1 Wooded Bastion
 1 Deputy of Detention
 1 Skyclave Apparition
 2 Skyclave Apparition
+1 Abundant Growth
+1 Reflecting Pool
+1 Imperial Recruiter
+2 Abundant Growth
+2 Eternal Witness
+2 Imperial Recruiter
+3 Abundant Growth
+3 Imperial Recruiter
+4 Abundant Growth
+4 Imperial Recruiter
 1 Lightning Helix
 1 General Ferrous Rokiric
 2 Snow-Covered Island
-2 Lightning Helix
 2 Snow-Covered Mountain
+2 Lightning Helix
 2 General Ferrous Rokiric
 3 Lightning Helix
 3 General Ferrous Rokiric
 4 Lightning Helix
-1 Reflecting Pool
-1 Imperial Recruiter
-1 Abundant Growth
-2 Imperial Recruiter
-2 Eternal Witness
-2 Abundant Growth
-3 Imperial Recruiter
-3 Abundant Growth
-4 Imperial Recruiter
-4 Abundant Growth
-1 Nahiri, the Harbinger
 1 Blood Moon
+1 Nahiri, the Harbinger
 1 Jace, the Mind Sculptor
 1 Arbor Elf
-2 Emrakul, the Aeons Torn
 2 Arbor Elf
 2 Blood Moon
 2 Jace, the Mind Sculptor
+2 Emrakul, the Aeons Torn
+3 Blood Moon
 3 Arbor Elf
 3 Forest
-3 Blood Moon
 4 Arbor Elf
 4 Blood Moon
 2 Den of the Bugbear
 2 Endurance
 3 Eladamri's Call
-1 Hall of Storm Giants
-1 Fire/Ice
-1 Supreme Verdict
-1 Polluted Delta
-2 Fire/Ice
-2 Supreme Verdict
-3 Island
-1 Soulherder
-1 Moonveil Regent
-1 Knight of Autumn
-3 Renegade Rallier
 1 Castle Vantress
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 3 Serum Visions
+1 Moonveil Regent
+1 Knight of Autumn
+1 Soulherder
+3 Renegade Rallier
+1 Hall of Storm Giants
+1 Supreme Verdict
+1 Fire/Ice
+1 Polluted Delta
+2 Supreme Verdict
+2 Fire/Ice
+3 Island
 1 Opt
 1 Izzet Charm
 2 Opt
@@ -199,18 +199,18 @@
 4 Opt
 3 Arboreal Grazer
 4 Arboreal Grazer
-1 Flametongue Yearling
 1 Batterskull
-1 Sword of Fire and Ice
 1 Stoneforge Mystic
+1 Flametongue Yearling
+1 Sword of Fire and Ice
 1 Kaldra Compleat
 1 Inspiring Vantage
-2 Sacred Foundry
 2 Inspiring Vantage
+2 Sacred Foundry
 2 Stoneforge Mystic
 2 Flametongue Yearling
 3 Plains
 3 Stoneforge Mystic
-4 Arid Mesa
-4 Ragavan, Nimble Pilferer
 4 Stoneforge Mystic
+4 Ragavan, Nimble Pilferer
+4 Arid Mesa

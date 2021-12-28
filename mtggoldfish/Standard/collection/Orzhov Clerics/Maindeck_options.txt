@@ -1,45 +1,47 @@
-3 Swamp
-1 Traveling Minister
+3 Skyclave Apparition
 3 Elite Spellbinder
 2 Cave of the Frost Dragon
-3 Hive of the Eye Tyrant
-3 Skyclave Cleric
 4 Swamp
 4 Elite Spellbinder
+3 Skyclave Cleric
+1 Traveling Minister
 1 Taborax, Hope's Demise
 3 Vanishing Verse
-2 Traveling Minister
+3 Hive of the Eye Tyrant
 1 Sorin the Mirthless
 1 Emeria's Call
+1 Angel of Destiny
 4 Vanishing Verse
+2 Traveling Minister
 1 Ollenbock Escort
 2 Emeria's Call
-1 Angel of Destiny
+2 Shineshadow Snarl
 4 Skyclave Cleric
 2 Ollenbock Escort
 8 Plains
+5 Swamp
+3 Shineshadow Snarl
 1 Markov Purifier
 2 Markov Purifier
-2 Shineshadow Snarl
 1 Cleric Class
-1 Brutal Cathar
 2 Angel of Destiny
 1 Thalia, Guardian of Thraben
 2 Cleric Class
-5 Swamp
-3 Shineshadow Snarl
 3 Cleric Class
 3 Cave of the Frost Dragon
 4 Cave of the Frost Dragon
+1 Brutal Cathar
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
 4 Skyclave Apparition
 1 Valorous Stance
 2 Valorous Stance
-1 Selfless Glyphweaver
+4 Shineshadow Snarl
 3 Ollenbock Escort
 6 Swamp
 1 Fateful Absence
+1 Professor of Symbology
+2 Professor of Symbology
 1 Snow-Covered Plains
 1 Snow-Covered Swamp
 2 Snow-Covered Plains
@@ -47,6 +49,7 @@
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
+1 Drana, the Last Bloodchief
 1 Lolth, Spider Queen
 1 The Meathook Massacre
 3 Markov Purifier
@@ -62,11 +65,11 @@
 8 Snow-Covered Plains
 9 Snow-Covered Plains
 10 Snow-Covered Plains
-1 Faceless Haven
 1 Snowfield Sinkhole
 2 Snowfield Sinkhole
 3 Snowfield Sinkhole
 4 Snowfield Sinkhole
+1 Faceless Haven
 1 Marauding Blight-Priest
 2 Marauding Blight-Priest
 2 The Meathook Massacre
@@ -78,12 +81,13 @@
 2 Crippling Fear
 2 Duress
 3 Crippling Fear
-4 Shineshadow Snarl
+1 Dawnbringer Cleric
 2 Taborax, Hope's Demise
+1 Selfless Glyphweaver
+3 Professor of Symbology
+4 Professor of Symbology
 1 Field of Ruin
 2 Field of Ruin
-1 Professor of Symbology
-2 Professor of Symbology
 1 Silverquill Campus
 2 Silverquill Campus
 1 Blood on the Snow
@@ -101,11 +105,10 @@
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
-1 Drana, the Last Bloodchief
-7 Swamp
-8 Swamp
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
+7 Swamp
+8 Swamp
 1 Nullpriest of Oblivion
 2 Nullpriest of Oblivion
 3 Nullpriest of Oblivion
@@ -126,17 +129,19 @@
 3 Angel of Destiny
 3 Westgate Regent
 3 Starnheim Aspirant
-4 Youthful Valkyrie
 4 The Book of Exalted Deeds
+4 Youthful Valkyrie
 4 Angel of Destiny
 4 Markov Purifier
 4 Westgate Regent
-1 Dawnbringer Cleric
 1 Graveyard Trespasser
 1 Reidane, God of the Worthy
 1 Jerren, Corrupted Bishop
 1 Sigarda's Splendor
 2 Sigarda's Splendor
+1 Silverquill Command
+1 Edgar, Charmed Groom
+2 Silverquill Command
 3 Agadeem's Awakening
 3 Duress
 3 Emeria's Call
@@ -144,11 +149,6 @@
 1 Homestead Courage
 2 Homestead Courage
 3 Traveling Minister
-1 Silverquill Command
-1 Edgar, Charmed Groom
-2 Silverquill Command
-3 Professor of Symbology
-4 Professor of Symbology
 1 Sigardian Savior
 1 Bereaved Survivor
 2 Sigardian Savior
@@ -181,8 +181,8 @@
 4 Hengegate Pathway
 1 Devastating Mastery
 1 Priest of Ancient Lore
-1 Rite of Oblivion
 1 Glorious Protector
+1 Rite of Oblivion
 1 Closing Statement
 1 Teleportation Circle
 2 Devastating Mastery

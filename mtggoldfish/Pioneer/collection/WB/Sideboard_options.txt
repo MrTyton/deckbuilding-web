@@ -2,15 +2,15 @@
 2 Rest in Peace
 1 Yorion, Sky Nomad
 1 Deafening Silence
-2 Deafening Silence
-1 Duress
-2 Duress
-3 Deafening Silence
-4 Deafening Silence
 1 Thoughtseize
+2 Deafening Silence
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
+3 Deafening Silence
+1 Duress
+2 Duress
+4 Deafening Silence
 1 Heartless Act
 1 Damping Sphere
 2 Damping Sphere
@@ -35,6 +35,8 @@
 1 Containment Priest
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
+1 Light of Hope
+2 Light of Hope
 1 Elspeth, Sun's Champion
 1 Archon of Emeria
 2 Archon of Emeria
@@ -58,10 +60,10 @@
 2 Grafdigger's Cage
 3 Grafdigger's Cage
 3 Kambal, Consul of Allocation
-1 Return to Nature
-1 Heroic Intervention
-1 Settle the Wreckage
 1 Dromoka's Command
+1 Return to Nature
+1 Settle the Wreckage
+1 Heroic Intervention
 1 Karametra's Blessing
 1 Cartouche of Strength
 1 Unflinching Courage
