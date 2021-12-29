@@ -1,10 +1,11 @@
-4 Pyrite Spellbomb
 4 Hammer of Bogardan
 3 Valakut Awakening
-4 Valakut Awakening
 1 Chandra, Dressed to Kill
 2 Chandra, Dressed to Kill
 3 Chandra, Dressed to Kill
+4 Valakut Awakening
+4 Pyrite Spellbomb
+12 Mountain
 1 Shatterskull Smashing
 1 Chandra, Torch of Defiance
 2 Shatterskull Smashing
@@ -13,9 +14,8 @@
 4 Chandra, Torch of Defiance
 1 Abrade
 2 Abrade
-12 Mountain
-1 Castle Embereth
 4 Chandra, Dressed to Kill
+1 Castle Embereth
 1 Radiant Fountain
 2 Radiant Fountain
 3 Abrade
@@ -41,10 +41,10 @@
 1 Chandra's Regulator
 1 Chalice of the Void
 2 Light Up the Night
+2 Snow-Covered Mountain
 2 Mind Stone
 2 Chandra, Fire Artisan
 2 Ensnaring Bridge
-2 Snow-Covered Mountain
 2 Chalice of the Void
 2 Scrying Sheets
 2 Chandra's Regulator
@@ -67,8 +67,6 @@
 16 Snow-Covered Mountain
 17 Snow-Covered Mountain
 18 Snow-Covered Mountain
-1 Pillage
-2 Pillage
 1 Magus of the Moon
 13 Mountain
 14 Mountain
@@ -86,6 +84,8 @@
 15 Mountain
 16 Mountain
 17 Mountain
+1 Pillage
+2 Pillage
 1 Soul-Guide Lantern
 1 Urza's Saga
 1 Shadowspear
@@ -101,8 +101,8 @@
 2 Chandra, Awakened Inferno
 1 Wooded Foothills
 1 Bloodstained Mire
-2 Wooded Foothills
 2 Bloodstained Mire
+2 Wooded Foothills
 1 Fiery Islet
 2 Fiery Islet
 3 Fiery Islet

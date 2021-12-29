@@ -1,19 +1,19 @@
 4 Galvanic Blast
 2 Glimmervoid
+3 Glimmervoid
 1 Signal Pest
 2 Signal Pest
-3 Glimmervoid
-3 Signal Pest
 1 Nettlecyst
-4 Signal Pest
+3 Signal Pest
 3 Welding Jar
 2 Nettlecyst
-4 Treasure Vault
+4 Signal Pest
 4 Silverbluff Bridge
+1 Aether Spellbomb
+4 Treasure Vault
 1 Paradise Mantle
 2 Paradise Mantle
-1 Aether Spellbomb
-1 Myr Enforcer
+3 Razortide Bridge
 3 Spire of Industry
 1 Expedition Map
 1 Relic of Progenitus
@@ -22,10 +22,10 @@
 3 Ingenious Smith
 1 Portable Hole
 1 Crucible of Worlds
-1 Lightning Greaves
 1 Oswald Fiddlebender
 1 Esper Sentinel
 1 Ichor Wellspring
+1 Lightning Greaves
 1 Stoneforge Mystic
 1 Plains
 2 Plains
@@ -54,8 +54,7 @@
 4 Mishra's Bauble
 1 Kaldra Compleat
 1 Eiganjo Castle
-3 Razortide Bridge
-2 Myr Enforcer
+1 Myr Enforcer
 1 Mistvault Bridge
 1 Blood Fountain
 2 Blood Fountain
@@ -66,6 +65,7 @@
 2 Lightning Greaves
 2 Flooded Strand
 1 Windswept Heath
+2 Myr Enforcer
 4 Blood Fountain
 4 Spire of Industry
 2 Windswept Heath
@@ -127,13 +127,16 @@
 11 Plains
 12 Plains
 13 Plains
-1 Soul-Guide Lantern
 1 Grafdigger's Cage
+1 Soul-Guide Lantern
 1 Snow-Covered Island
 1 Rustvale Bridge
 1 Arid Mesa
 1 Flagstones of Trokair
 2 Marsh Flats
+1 Master of Etherium
+2 Master of Etherium
+3 Master of Etherium
 1 Ethersworn Canonist
 1 Karn, the Great Creator
 3 Flooded Strand
@@ -142,24 +145,24 @@
 4 Gingerbrute
 4 Mistvault Bridge
 1 Steel Overseer
-1 Mountain
 1 Kazuul's Fury
+1 Mountain
 1 Shrapnel Blast
 1 Arcbound Ravager
 2 Steel Overseer
-2 Blinkmoth Nexus
 2 Kazuul's Fury
-2 Bomat Courier
+2 Blinkmoth Nexus
 2 Shrapnel Blast
 2 Arcbound Ravager
-3 Blinkmoth Nexus
+2 Bomat Courier
 3 Kazuul's Fury
+3 Blinkmoth Nexus
 3 Steel Overseer
 3 Arcbound Ravager
 3 Bomat Courier
-4 Blinkmoth Nexus
 4 Arcbound Ravager
 4 Kazuul's Fury
+4 Blinkmoth Nexus
 4 Bomat Courier
 4 Steel Overseer
 4 Welding Jar

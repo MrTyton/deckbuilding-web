@@ -8,15 +8,15 @@
 4 Mishra's Bauble
 4 Unholy Heat
 1 Kroxa, Titan of Death's Hunger
+1 Bloodstained Mire
 1 Thoughtseize
 1 Blood Crypt
 1 Inquisition of Kozilek
-1 Bloodstained Mire
-2 Thoughtseize
 2 Bloodstained Mire
+2 Thoughtseize
 2 Inquisition of Kozilek
-3 Inquisition of Kozilek
 3 Bloodstained Mire
+3 Inquisition of Kozilek
 2 Blood Crypt
 2 Kroxa, Titan of Death's Hunger
 4 Bloodstained Mire
@@ -36,8 +36,8 @@
 1 Steam Vents
 1 Scalding Tarn
 1 Polluted Delta
-2 Polluted Delta
 2 Scalding Tarn
+2 Polluted Delta
 2 Expressive Iteration
 2 Drown in the Loch
 3 Polluted Delta
@@ -88,10 +88,6 @@
 3 Tarmogoyf
 4 Tarmogoyf
 1 Raugrin Triome
-1 Snow-Covered Swamp
-1 Spell Pierce
-2 Snow-Covered Swamp
-3 Dress Down
 2 Plains
 3 Sacred Foundry
 1 Night's Whisper
@@ -101,6 +97,10 @@
 2 Graven Cairns
 3 Kolaghan's Command
 3 Tourach, Dread Cantor
+1 Snow-Covered Swamp
+1 Spell Pierce
+2 Snow-Covered Swamp
+3 Dress Down
 1 Savai Triome
 4 Chandra, Dressed to Kill
 1 Godless Shrine
@@ -142,37 +142,37 @@
 4 Sunbaked Canyon
 1 Windswept Heath
 1 Bonecrusher Giant
-1 Cragcrown Pathway
 1 Copperline Gorge
+1 Cragcrown Pathway
 1 Hexdrinker
 1 Ignoble Hierarch
 1 Atarka's Command
 1 Eidolon of the Great Revel
 1 Scavenging Ooze
-2 Cragcrown Pathway
+2 Stomping Ground
 2 Bonecrusher Giant
+2 Cragcrown Pathway
 2 Copperline Gorge
 2 Scavenging Ooze
-2 Stomping Ground
 2 Hexdrinker
 2 Ignoble Hierarch
 2 Atarka's Command
 2 Wooded Foothills
 2 Eidolon of the Great Revel
-3 Wooded Foothills
 3 Cragcrown Pathway
 3 Bonecrusher Giant
-3 Stomping Ground
 3 Ignoble Hierarch
 3 Atarka's Command
+3 Stomping Ground
 3 Eidolon of the Great Revel
 3 Hexdrinker
 3 Copperline Gorge
-4 Wooded Foothills
+3 Wooded Foothills
 4 Bonecrusher Giant
-4 Stomping Ground
 4 Ignoble Hierarch
+4 Stomping Ground
 4 Eidolon of the Great Revel
 4 Copperline Gorge
 4 Hexdrinker
+4 Wooded Foothills
 4 Atarka's Command
