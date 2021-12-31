@@ -76,25 +76,13 @@
 2 Divide by Zero
 3 Divide by Zero
 1 Opt
-1 Miscast
 1 Scorching Dragonfire
+1 Miscast
 1 Ketria Triome
 2 Opt
 2 Ketria Triome
 3 Opt
 4 Opt
-1 Volatile Fjord
-1 Seize the Spoils
-1 Fading Hope
-1 Cinderclasm
-2 Seize the Spoils
-3 Seize the Spoils
-4 Seize the Spoils
-2 Archmage's Charm
-3 Archmage's Charm
-4 Fabled Passage
-4 Archmage's Charm
-4 Aether Gust
 1 Clifftop Retreat
 1 Settle the Wreckage
 1 Negate
@@ -106,14 +94,26 @@
 2 Lightning Helix
 3 Clifftop Retreat
 4 Clifftop Retreat
+1 Volatile Fjord
+1 Fading Hope
+1 Seize the Spoils
+1 Cinderclasm
+2 Seize the Spoils
+3 Seize the Spoils
+4 Seize the Spoils
+2 Archmage's Charm
+3 Archmage's Charm
+4 Fabled Passage
+4 Archmage's Charm
+4 Aether Gust
 1 Play with Fire
 1 Ionize
 1 Lightning Strike
 1 Exclude
 1 Boon of the Wish-Giver
+2 Bonecrusher Giant
 2 Play with Fire
 2 Ionize
-2 Bonecrusher Giant
 2 Mystical Dispute
 3 Bonecrusher Giant
 4 Spikefield Hazard
@@ -126,10 +126,10 @@
 1 Clearwater Pathway
 1 Fatal Push
 2 Fatal Push
-2 Fetid Pools
 2 Nicol Bolas, the Ravager
 2 Blightstep Pathway
 2 Clearwater Pathway
+2 Fetid Pools
 3 Blightstep Pathway
 3 Clearwater Pathway
 4 Clearwater Pathway
@@ -137,8 +137,8 @@
 1 Forbidden Friendship
 2 Silundi Vision
 2 Forbidden Friendship
-3 Forbidden Friendship
 3 Silundi Vision
+3 Forbidden Friendship
 4 Forbidden Friendship
 7 Mountain
 8 Mountain

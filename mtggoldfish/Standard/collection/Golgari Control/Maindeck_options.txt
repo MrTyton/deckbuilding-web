@@ -25,8 +25,8 @@
 1 Snow-Covered Forest
 1 Tangled Florahedron
 2 Tangled Florahedron
-3 Tangled Florahedron
 3 Storm the Festival
+3 Tangled Florahedron
 4 Tangled Florahedron
 1 Power Word Kill
 1 Augur of Autumn
@@ -104,8 +104,8 @@
 7 Forest
 1 Highland Forest
 1 Inscription of Ruin
-1 Glorious Sunrise
 1 Sarulf, Realm Eater
+1 Glorious Sunrise
 2 Culling Ritual
 2 Inscription of Ruin
 2 Glorious Sunrise
@@ -118,8 +118,8 @@
 2 Elderfang Disciple
 2 Pelakka Predation
 1 Hero's Downfall
-2 Hero's Downfall
 2 Soul Shatter
+2 Hero's Downfall
 3 Valki, God of Lies
 3 Power Word Kill
 1 Harness Infinity
@@ -144,10 +144,10 @@
 1 Necroblossom Snarl
 1 Cemetery Prowler
 1 The Celestus
-2 Cemetery Prowler
-2 Kazandu Mammoth
 2 Shadows' Verdict
+2 Kazandu Mammoth
 2 Necroblossom Snarl
+2 Cemetery Prowler
 3 Kazandu Mammoth
 3 Necroblossom Snarl
 4 Kazandu Mammoth
@@ -163,8 +163,8 @@
 3 Village Rites
 4 Village Rites
 1 Avabruck Caretaker
-1 Poet's Quill
 1 Westgate Regent
+1 Poet's Quill
 1 Graveyard Trespasser
 1 Dread Fugue
 2 Avabruck Caretaker
@@ -173,14 +173,15 @@
 3 Graveyard Trespasser
 4 Graveyard Trespasser
 4 Dig Up
-1 Neverwinter Dryad
 1 Emergent Sequence
-2 Neverwinter Dryad
+1 Neverwinter Dryad
 2 Emergent Sequence
+2 Neverwinter Dryad
 3 Neverwinter Dryad
 4 Storm the Festival
 4 Neverwinter Dryad
 8 Snow-Covered Forest
+18 Snow-Covered Swamp
 1 Bloodvial Purveyor
 1 Field Trip
 1 Evolving Wilds
@@ -190,8 +191,8 @@
 1 Roiling Regrowth
 2 Bloodvial Purveyor
 2 Field Trip
-2 Scute Swarm
 2 Nighthawk Scavenger
+2 Scute Swarm
 2 Roiling Regrowth
 2 Dollhouse of Horrors
 3 Field Trip
@@ -199,6 +200,5 @@
 3 Roiling Regrowth
 4 Scute Swarm
 8 Swamp
-8 Forest
 9 Swamp
-18 Snow-Covered Swamp
+8 Forest

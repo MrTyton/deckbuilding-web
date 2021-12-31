@@ -26,8 +26,8 @@
 1 Silverquill Silencer
 1 Fracture
 1 Ondu Inversion
-2 Angel of Destiny
 2 Fracture
+2 Angel of Destiny
 3 Fracture
 4 Reidane, God of the Worthy
 4 Fracture
@@ -51,9 +51,6 @@
 2 Fateful Absence
 1 Edgar, Charmed Groom
 2 Edgar, Charmed Groom
-1 Parasitic Grasp
-1 Cleric Class
-2 Cleric Class
 1 Drana, the Last Bloodchief
 1 Environmental Sciences
 1 Elderfang Disciple
@@ -62,6 +59,9 @@
 1 Necrotic Fumes
 2 Elderfang Disciple
 2 Necrotic Fumes
+1 Parasitic Grasp
+1 Cleric Class
+2 Cleric Class
 1 Graveyard Trespasser
 2 Check for Traps
 2 Circle of Confinement
@@ -77,13 +77,13 @@
 2 Barrowin of Clan Undurr
 2 Runeforge Champion
 2 Closing Statement
-1 Blot Out the Sky
-3 Angel of Destiny
 1 Rally the Ranks
 1 Orah, Skyclave Hierophant
 2 Curse of Silence
 2 Rally the Ranks
 3 Rally the Ranks
+1 Blot Out the Sky
+3 Angel of Destiny
 4 Valorous Stance
 1 Kor Celebrant
 1 Vanquish the Horde
@@ -91,8 +91,8 @@
 2 Paladin Class
 3 Portable Hole
 4 Portable Hole
-1 Disenchant
 1 Shaile, Dean of Radiance
+1 Disenchant
 2 Disenchant
 2 Shaile, Dean of Radiance
 2 Drana, the Last Bloodchief
@@ -109,8 +109,8 @@
 2 Environmental Sciences
 1 Revitalize
 1 Bloodchief's Thirst
-1 Marauding Blight-Priest
 1 Maul of the Skyclaves
+1 Marauding Blight-Priest
 2 Bloodchief's Thirst
 2 Maul of the Skyclaves
 2 Marauding Blight-Priest
