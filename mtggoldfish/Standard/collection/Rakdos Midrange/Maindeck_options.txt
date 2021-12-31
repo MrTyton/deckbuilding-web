@@ -105,8 +105,8 @@
 1 Spikefield Hazard
 2 Manaform Hellkite
 2 Spikefield Hazard
-3 Hive of the Eye Tyrant
 3 Manaform Hellkite
+3 Hive of the Eye Tyrant
 4 Manaform Hellkite
 4 Bloodthirsty Adversary
 1 Valentin, Dean of the Vein
@@ -142,16 +142,16 @@
 2 Dragonkin Berserker
 3 Play with Fire
 3 Dragonkin Berserker
-3 Ebondeath, Dracolich
 3 Dread Fugue
 3 Kazuul's Fury
-1 Hired Hexblade
+3 Ebondeath, Dracolich
 1 Magic Missile
 1 Westgate Regent
 1 Jaded Sell-Sword
 1 Red Dragon
 1 Thieves' Tools
 1 Hoarding Ogre
+1 Hired Hexblade
 1 Sudden Breakthrough
 1 Unwilling Ingredient
 2 Magic Missile
@@ -162,9 +162,9 @@
 3 Hired Hexblade
 1 Orb of Dragonkind
 1 Moonveil Regent
+2 Orb of Dragonkind
 2 Soul Shatter
 2 Moonveil Regent
-2 Orb of Dragonkind
 3 Moonveil Regent
 3 Orb of Dragonkind
 4 Dragon's Fire
@@ -200,6 +200,14 @@
 4 Agadeem's Awakening
 4 Vampires' Vengeance
 4 Bloodtithe Harvester
+1 Fireblade Charger
+1 Extus, Oriq Overlord
+2 Fireblade Charger
+2 Extus, Oriq Overlord
+3 Fireblade Charger
+3 Extus, Oriq Overlord
+4 Fireblade Charger
+4 Extus, Oriq Overlord
 1 Crippling Fear
 1 Malakir Rebirth
 1 Slaughter Specialist
@@ -208,14 +216,6 @@
 3 Crippling Fear
 3 Slaughter Specialist
 4 Slaughter Specialist
-1 Fireblade Charger
-1 Extus, Oriq Overlord
-2 Fireblade Charger
-2 Extus, Oriq Overlord
-3 Extus, Oriq Overlord
-3 Fireblade Charger
-4 Extus, Oriq Overlord
-4 Fireblade Charger
 1 Professor Onyx
 1 Seize the Spoils
 2 Professor Onyx
@@ -239,8 +239,8 @@
 1 Cemetery Gatekeeper
 1 Voldaren Estate
 2 Cemetery Gatekeeper
-3 Roil Eruption
 3 Cemetery Gatekeeper
+3 Roil Eruption
 3 Falkenrath Pit Fighter
 4 Cemetery Gatekeeper
 4 Falkenrath Pit Fighter
