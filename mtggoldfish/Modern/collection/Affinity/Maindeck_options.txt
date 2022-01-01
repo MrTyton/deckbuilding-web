@@ -1,19 +1,19 @@
-4 Galvanic Blast
 2 Glimmervoid
+4 Galvanic Blast
 3 Glimmervoid
 1 Signal Pest
 2 Signal Pest
 1 Nettlecyst
-3 Signal Pest
 3 Welding Jar
-2 Nettlecyst
+3 Signal Pest
 4 Signal Pest
-4 Silverbluff Bridge
+2 Nettlecyst
 1 Aether Spellbomb
+3 Razortide Bridge
+4 Silverbluff Bridge
 4 Treasure Vault
 1 Paradise Mantle
 2 Paradise Mantle
-3 Razortide Bridge
 3 Spire of Industry
 1 Expedition Map
 1 Relic of Progenitus
@@ -54,21 +54,23 @@
 4 Mishra's Bauble
 1 Kaldra Compleat
 1 Eiganjo Castle
-1 Myr Enforcer
+1 Sacred Foundry
+1 Spellskite
+2 Lightning Greaves
+2 Flooded Strand
 1 Mistvault Bridge
 1 Blood Fountain
 2 Blood Fountain
 2 Mistvault Bridge
 3 Blood Fountain
-1 Sacred Foundry
-1 Spellskite
-2 Lightning Greaves
-2 Flooded Strand
 1 Windswept Heath
-2 Myr Enforcer
+1 Myr Enforcer
 4 Blood Fountain
 4 Spire of Industry
 2 Windswept Heath
+4 Welding Jar
+4 Razortide Bridge
+2 Myr Enforcer
 4 Glimmervoid
 1 Inkmoth Nexus
 2 Inkmoth Nexus
@@ -84,39 +86,39 @@
 5 Plains
 1 Solitude
 1 Field of Ruin
+1 Giver of Runes
 1 Phyrexian Revoker
 1 Archon of Emeria
 1 Thalia, Guardian of Thraben
 1 Flickerwisp
 1 Aether Vial
 1 Emeria's Call
-1 Giver of Runes
 1 Tectonic Edge
 2 Solitude
 2 Field of Ruin
+2 Giver of Runes
 2 Emeria's Call
 2 Archon of Emeria
 2 Thalia, Guardian of Thraben
 2 Tectonic Edge
 2 Flickerwisp
 2 Aether Vial
-2 Giver of Runes
 3 Solitude
 3 Field of Ruin
-3 Emeria's Call
 3 Giver of Runes
+3 Emeria's Call
 3 Tectonic Edge
 3 Thalia, Guardian of Thraben
 3 Flickerwisp
 3 Aether Vial
 3 Archon of Emeria
 4 Aether Vial
-4 Solitude
 4 Thalia, Guardian of Thraben
+4 Solitude
 4 Field of Ruin
+4 Giver of Runes
 4 Emeria's Call
 4 Tectonic Edge
-4 Giver of Runes
 4 Archon of Emeria
 4 Flickerwisp
 6 Plains
@@ -127,10 +129,10 @@
 11 Plains
 12 Plains
 13 Plains
-1 Grafdigger's Cage
 1 Soul-Guide Lantern
 1 Snow-Covered Island
 1 Rustvale Bridge
+1 Grafdigger's Cage
 1 Arid Mesa
 1 Flagstones of Trokair
 2 Marsh Flats
@@ -145,16 +147,16 @@
 4 Gingerbrute
 4 Mistvault Bridge
 1 Steel Overseer
+1 Kazuul's Fury
 1 Mountain
 1 Shrapnel Blast
 1 Arcbound Ravager
-1 Kazuul's Fury
 2 Steel Overseer
+2 Kazuul's Fury
 2 Blinkmoth Nexus
+2 Bomat Courier
 2 Shrapnel Blast
 2 Arcbound Ravager
-2 Bomat Courier
-2 Kazuul's Fury
 3 Blinkmoth Nexus
 3 Kazuul's Fury
 3 Steel Overseer
@@ -165,5 +167,3 @@
 4 Blinkmoth Nexus
 4 Bomat Courier
 4 Steel Overseer
-4 Welding Jar
-4 Razortide Bridge

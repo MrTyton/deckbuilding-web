@@ -68,9 +68,9 @@
 3 Lier, Disciple of the Drowned
 3 Jwari Disruption
 4 Siphon Insight
-1 Cave of the Frost Dragon
 1 Wedding Announcement
 1 Rite of Oblivion
+1 Cave of the Frost Dragon
 1 Emeria's Call
 2 Wedding Announcement
 3 Wedding Announcement
@@ -80,10 +80,10 @@
 1 Pelakka Predation
 3 Soul Shatter
 1 Snow-Covered Island
-1 Snow-Covered Swamp
 1 Snow-Covered Plains
-2 Snow-Covered Swamp
+1 Snow-Covered Swamp
 2 Snow-Covered Island
+2 Snow-Covered Swamp
 1 Baleful Mastery
 1 Professor Onyx
 1 Ice Tunnel
@@ -98,18 +98,20 @@
 1 Letter of Acceptance
 1 Concealing Curtains
 1 You Find the Villains' Lair
+2 Hagra Mauling
+1 Malakir Rebirth
+2 Malakir Rebirth
 1 Reidane, God of the Worthy
 2 Reidane, God of the Worthy
 1 Flunk
 1 Dissipate
 1 Silverquill Campus
 2 Dissipate
-2 Hagra Mauling
-1 Malakir Rebirth
-2 Malakir Rebirth
 1 Sedgemoor Witch
 2 Sedgemoor Witch
 3 Sedgemoor Witch
+3 Saw It Coming
+3 Consider
 1 Parasitic Grasp
 1 Fateful Absence
 1 Blot Out the Sky
@@ -119,22 +121,14 @@
 2 Plains
 2 Faithful Mending
 3 Faithful Mending
-3 Saw It Coming
-3 Consider
 1 Strict Proctor
 1 Elite Spellbinder
 2 Strict Proctor
 2 Elite Spellbinder
 3 Strict Proctor
 3 Elite Spellbinder
-1 Gates of Istfell
-1 Sea Gate Restoration
-2 Baleful Mastery
-3 Doomskar
-3 Baleful Mastery
-4 Doomskar
-1 Mountain
 1 Valki, God of Lies
+1 Mountain
 1 The Trickster-God's Heist
 2 Sunset Revelry
 2 Valki, God of Lies
@@ -143,10 +137,16 @@
 3 The Trickster-God's Heist
 4 Sunset Revelry
 4 Sorin the Mirthless
+1 Gates of Istfell
+1 Sea Gate Restoration
+2 Baleful Mastery
+3 Doomskar
+3 Baleful Mastery
+4 Doomskar
 2 Ice Tunnel
 3 Snow-Covered Island
-3 Snow-Covered Swamp
 3 Shineshadow Snarl
+3 Snow-Covered Swamp
 3 Ice Tunnel
 4 Ice Tunnel
 1 Blood on the Snow

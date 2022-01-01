@@ -2,6 +2,8 @@
 4 Hard Evidence
 1 Mountain
 3 Lightning Bolt
+1 Expressive Iteration
+2 Expressive Iteration
 1 Valakut, the Molten Pinnacle
 1 Explore
 1 Strike It Rich
@@ -12,23 +14,23 @@
 2 Primeval Titan
 3 Valakut, the Molten Pinnacle
 3 Primeval Titan
-1 Expressive Iteration
-2 Expressive Iteration
+3 Expressive Iteration
 4 Primeval Titan
 3 Strike It Rich
-3 Expressive Iteration
 3 Explore
 4 Explore
+4 Remand
 2 Ketria Triome
 2 Stomping Ground
 4 Strike It Rich
 1 Flooded Strand
-4 Remand
-2 Mountain
-1 Faithful Mending
 3 Steam Vents
 4 Expressive Iteration
+2 Mountain
+1 Faithful Mending
 1 Bloodstained Mire
+1 Memory Deluge
+2 Memory Deluge
 1 Spell Pierce
 1 Snow-Covered Island
 1 Snow-Covered Plains
@@ -42,12 +44,10 @@
 3 Bloodstained Mire
 4 Bloodstained Mire
 1 Force of Negation
-2 Flooded Strand
-1 Memory Deluge
-2 Memory Deluge
 1 Sunset Revelry
 2 Sunset Revelry
 2 Raugrin Triome
+2 Flooded Strand
 1 Growth Spiral
 2 Growth Spiral
 3 Ketria Triome
@@ -72,10 +72,10 @@
 3 Farseek
 3 Scapeshift
 3 Mountain
+4 Mountain
 4 Stomping Ground
 4 Search for Tomorrow
 4 Sheltered Thicket
 4 Valakut, the Molten Pinnacle
-4 Farseek
 5 Mountain
-4 Mountain
+4 Farseek

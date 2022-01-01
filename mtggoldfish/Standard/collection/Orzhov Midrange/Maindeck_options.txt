@@ -92,9 +92,9 @@
 2 Cave of the Frost Dragon
 4 Emeria's Call
 1 Enduring Angel
-3 Fateful Absence
 3 Skyclave Apparition
 3 Liesa, Forgotten Archangel
+3 Fateful Absence
 4 Skyclave Apparition
 4 Starnheim Unleashed
 2 Agadeem's Awakening
@@ -119,11 +119,11 @@
 4 Bloodvial Purveyor
 4 Skullport Merchant
 4 Eyetwitch
-1 Chaplain of Alms
 1 Valorous Stance
 1 Adeline, Resplendent Cathar
-2 Chaplain of Alms
+1 Chaplain of Alms
 2 Adeline, Resplendent Cathar
+2 Chaplain of Alms
 3 Adeline, Resplendent Cathar
 3 Chaplain of Alms
 4 Thalia, Guardian of Thraben
@@ -144,23 +144,23 @@
 1 Acquisitions Expert
 1 Silverquill Command
 1 Rite of Oblivion
+1 Morbid Opportunist
 1 Eaten Alive
+1 Poison the Cup
+1 Plumb the Forbidden
+1 Demon's Disciple
 1 Malakir Rebirth
 1 Loyal Warhound
 1 Tergrid, God of Fright
 1 Silverquill Campus
-1 Vanquish the Horde
 1 Cathar Commando
 1 Village Rites
 1 Nadaar, Selfless Paladin
-1 Poison the Cup
-1 Morbid Opportunist
-1 Plumb the Forbidden
 1 Priest of Ancient Lore
 1 Great Hall of Starnheim
 1 Fleshtaker
+1 Vanquish the Horde
 1 Ecstatic Awakener
-1 Demon's Disciple
 1 Tainted Adversary
 1 Portable Hole
 1 Can't Stay Away
@@ -168,8 +168,8 @@
 1 Katilda, Dawnhart Martyr
 2 Portable Hole
 2 Power Word Kill
-1 Welcoming Vampire
 1 Go Blank
+1 Welcoming Vampire
 2 Elderfang Disciple
 2 Acquisitions Expert
 2 Welcoming Vampire
@@ -187,14 +187,14 @@
 3 Dream Devourer
 3 Priest of the Haunted Edge
 4 Professor of Symbology
+2 Kaya, Geist Hunter
+4 Lolth, Spider Queen
 1 Clarion Spirit
 2 Clarion Spirit
 3 Clarion Spirit
 4 Clarion Spirit
-2 Kaya, Geist Hunter
-4 Lolth, Spider Queen
-1 Duress
 1 Dungeon Crawler
+1 Duress
 2 Dungeon Crawler
 2 Duress
 2 Scourge of the Skyclaves
@@ -234,5 +234,5 @@
 2 Stonebinder's Familiar
 3 Stonebinder's Familiar
 3 Sungold Sentinel
-4 Chaplain of Alms
 4 Sungold Sentinel
+4 Chaplain of Alms

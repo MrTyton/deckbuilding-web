@@ -1,7 +1,7 @@
 # Belcher
 
 #### [Export MTGO List](../collection/Belcher/Belcher.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Bala%20Ged%20Recovery%0A2%09Blood%20Moon%0A4%09Desperate%20Ritual%0A2%09Emeria's%20Call%0A4%09Goblin%20Charbelcher%0A1%09Infernal%20Plunge%0A3%09Irencrag%20Feat%0A4%09Manamorphose%0A3%09Pact%20of%20Negation%0A1%09Pact%20of%20the%20Titan%0A4%09Pyretic%20Ritual%0A1%09Pyromancer%20Ascension%0A4%09Recross%20the%20Paths%0A2%09Reforge%20the%20Soul%0A2%09Sea%20Gate%20Restoration%0A4%09Shatterskull%20Smashing%0A1%09Song-Mad%20Treachery%0A4%09Spikefield%20Hazard%0A3%09Strike%20It%20Rich%0A4%09Turntimber%20Symbiosis%0A4%09Valakut%20Awakening&deckside=1%09Blood%20Moon%0A3%09Force%20of%20Vigor%0A3%09Fury%0A3%09Leyline%20of%20Sanctity%0A1%09Nature's%20Claim%0A4%09Veil%20of%20Summer)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Bala%20Ged%20Recovery%0A2%09Blood%20Moon%0A4%09Desperate%20Ritual%0A2%09Emeria's%20Call%0A4%09Goblin%20Charbelcher%0A1%09Infernal%20Plunge%0A3%09Irencrag%20Feat%0A4%09Manamorphose%0A3%09Pact%20of%20Negation%0A1%09Pact%20of%20the%20Titan%0A4%09Pyretic%20Ritual%0A1%09Pyromancer%20Ascension%0A4%09Recross%20the%20Paths%0A2%09Reforge%20the%20Soul%0A2%09Sea%20Gate%20Restoration%0A4%09Shatterskull%20Smashing%0A1%09Song-Mad%20Treachery%0A4%09Spikefield%20Hazard%0A3%09Strike%20It%20Rich%0A4%09Turntimber%20Symbiosis%0A4%09Valakut%20Awakening&deckside=3%09Force%20of%20Vigor%0A3%09Fury%0A3%09Leyline%20of%20Sanctity%0A1%09Nature's%20Claim%0A1%09Pact%20of%20Negation%0A4%09Veil%20of%20Summer)
 # Maindeck
 
 |                                         Artifact (4)                                          |                                         Enchantment (3)                                         |                                         Instant (24)                                         |                                           Sorcery (29)                                           |
@@ -21,20 +21,21 @@
 
 # Sideboard
 
-|                                  Creature (3)                                   |                                        Enchantment (4)                                         |                                        Instant (8)                                        |
-|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-|3 [Fury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522202)|1 [Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)          |3 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
-|                                                                                 |3 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|1 [Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)|
-|                                                                                 |                                                                                                |4 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|
+|                                  Creature (3)                                   |                                        Enchantment (3)                                         |                                         Instant (9)                                         |
+|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+|3 [Fury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522202)|3 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|3 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)  |
+|                                                                                 |                                                                                                |1 [Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)  |
+|                                                                                 |                                                                                                |1 [Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)|
+|                                                                                 |                                                                                                |4 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)  |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
-|                    4|[Strike It Rich](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522219)      |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)               |
-|                    3|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)           |                    1|[Kaheera, the Orphanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479744)|
-|                    4|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)    |                    1|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)        |
+|                    4|[Strike It Rich](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522219)      |                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)               |
+|                    3|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)           |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)               |
+|                    4|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)    |                    1|[Kaheera, the Orphanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479744)|
 |                    3|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)       |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)     |
 |                    4|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)       |                    1|[Pyromancer Ascension](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425933)    |
 |                    4|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)           |                    1|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)       |

@@ -49,6 +49,6 @@
 |                    2|[Bloodtithe Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541102)|                    1|[Dreadbore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430622)           |
 |                    2|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)       |                    3|[Gifted Aetherborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423728)   |
 |                    2|[Haunted Ridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535061)       |                    2|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)  |
-|                    2|[Den of the Bugbear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527541)  |                    3|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)         |
-|                     |                                                                                               |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |
+|                    2|[Den of the Bugbear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527541)  |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)               |
+|                     |                                                                                               |                    3|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)         |
 
