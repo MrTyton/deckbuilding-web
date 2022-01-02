@@ -36,11 +36,11 @@
 1 Island
 2 Supreme Verdict
 1 Jace, the Mind Sculptor
-1 Glacial Floodplain
 1 Prairie Stream
 1 On Thin Ice
 1 Mystic Gate
 1 Memory Deluge
+1 Glacial Floodplain
 1 Castle Vantress
 1 Archmage's Charm
 2 Breeding Pool
@@ -50,11 +50,11 @@
 2 Castle Vantress
 2 Mystic Gate
 2 Archmage's Charm
+3 Force of Negation
 3 Teferi, Hero of Dominaria
 3 Jace, the Mind Sculptor
 3 Snow-Covered Island
 3 Prismatic Vista
-3 Force of Negation
 3 Mystic Gate
 3 Supreme Verdict
 3 Archmage's Charm
@@ -67,58 +67,58 @@
 1 Dovin's Veto
 4 Fury
 2 Wandering Mind
-1 Bring to Light
 1 Valki, God of Lies
+1 Bring to Light
 2 Bring to Light
 3 Bring to Light
 4 Bring to Light
 4 Ragavan, Nimble Pilferer
 1 Forest
 1 Skyclave Apparition
-2 Skyclave Apparition
 2 Plains
+2 Skyclave Apparition
 3 Plains
 4 Plains
-1 Charming Prince
-1 Kaldra Compleat
-1 Stoneforge Mystic
-1 Sword of Fire and Ice
-1 Batterskull
 1 Silent Clearing
-2 Charming Prince
+1 Batterskull
+1 Sword of Fire and Ice
+1 Charming Prince
+1 Stoneforge Mystic
+1 Kaldra Compleat
 2 Stoneforge Mystic
+2 Charming Prince
 3 Charming Prince
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-1 Godless Shrine
-1 Malakir Rebirth
+1 Maul of the Skyclaves
 1 Grief
 1 Undying Evil
+1 Malakir Rebirth
 1 Agadeem's Awakening
 1 Shriekmaw
 1 Swamp
+1 Godless Shrine
 1 Persist
-1 Maul of the Skyclaves
 1 Urborg, Tomb of Yawgmoth
 1 Emeria's Call
+2 Silent Clearing
 2 Godless Shrine
 2 Grief
 2 Malakir Rebirth
 2 Undying Evil
-2 Agadeem's Awakening
-2 Silent Clearing
 2 Emeria's Call
 2 Persist
+2 Agadeem's Awakening
+3 Silent Clearing
 3 Grief
 3 Undying Evil
-3 Godless Shrine
 3 Agadeem's Awakening
+3 Godless Shrine
 3 Emeria's Call
 3 Malakir Rebirth
-3 Silent Clearing
 3 Persist
-4 Silent Clearing
 4 Grief
+4 Silent Clearing
 4 Undying Evil
 4 Malakir Rebirth
 4 Godless Shrine
@@ -130,16 +130,16 @@
 1 Overgrown Tomb
 1 Lightning Helix
 2 Dovin's Veto
-1 Waterlogged Grove
 1 Consecrated Sphinx
 1 Dragonlord Dromoka
+1 Waterlogged Grove
 2 Unholy Heat
-1 Arboreal Grazer
 1 Soulherder
+1 Arboreal Grazer
 1 Mountain
+2 Soulherder
 2 Arboreal Grazer
 2 Forest
-2 Soulherder
 2 Mulldrifter
 1 Abundant Harvest
 3 Wandering Mind
@@ -152,8 +152,8 @@
 3 Seasoned Pyromancer
 3 Chord of Calling
 4 Eladamri's Call
-1 Indatha Triome
 1 Renegade Rallier
+1 Indatha Triome
 1 Savai Triome
 2 Renegade Rallier
 3 Renegade Rallier
@@ -171,9 +171,9 @@
 1 Sun Titan
 1 Thraben Inspector
 1 Ranger-Captain of Eos
-1 Cavern of Souls
 1 Field of Ruin
 1 Celestial Colonnade
+1 Cavern of Souls
 1 Ghost Quarter
 2 Restoration Angel
 2 Glacial Fortress
@@ -182,17 +182,17 @@
 2 Thraben Inspector
 2 Ranger-Captain of Eos
 2 Phantasmal Image
-2 Field of Ruin
 2 Celestial Colonnade
+2 Field of Ruin
 2 Sun Titan
 2 Hallowed Fountain
 2 Cavern of Souls
-3 Wall of Omens
 3 Restoration Angel
+3 Wall of Omens
 3 Ranger-Captain of Eos
 3 Thraben Inspector
-3 Celestial Colonnade
 3 Field of Ruin
+3 Celestial Colonnade
 3 Phantasmal Image
 3 Sun Titan
 4 Wall of Omens
@@ -202,21 +202,15 @@
 4 Skyclave Apparition
 4 Sun Titan
 4 Phantasmal Image
-1 Tourach, Dread Cantor
-1 Sword of Truth and Justice
-2 Tourach, Dread Cantor
-1 Kaya's Guile
-1 Callous Bloodmage
-2 Kaya's Guile
 1 Ambitious Farmhand
-1 Horizon Canopy
 1 Welcoming Vampire
 1 Castle Ardenvale
 1 Shadowspear
 1 Urza's Saga
-1 Aether Vial
 1 Blast Zone
+1 Aether Vial
 1 Lurrus of the Dream-Den
+1 Horizon Canopy
 1 Mishra's Factory
 1 Sunbaked Canyon
 1 Giver of Runes
@@ -232,13 +226,19 @@
 3 Mishra's Factory
 3 Ambitious Farmhand
 3 Welcoming Vampire
-3 Aether Vial
 3 Blast Zone
 3 Giver of Runes
+3 Aether Vial
 4 Charming Prince
-4 Aether Vial
 4 Giver of Runes
+4 Aether Vial
+4 Welcoming Vampire
 7 Plains
 8 Plains
 9 Plains
-4 Welcoming Vampire
+1 Tourach, Dread Cantor
+1 Sword of Truth and Justice
+2 Tourach, Dread Cantor
+1 Callous Bloodmage
+1 Kaya's Guile
+2 Kaya's Guile

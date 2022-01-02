@@ -1,38 +1,37 @@
 3 Snow-Covered Forest
 6 Snow-Covered Island
+4 Ice-Fang Coatl
 1 Ancient Tomb
 2 Ancient Tomb
-4 Ice-Fang Coatl
-1 City of Traitors
 3 Flooded Strand
+1 City of Traitors
 2 Impulse
 1 Drawn from Dreams
-4 Cunning Wish
+4 Preordain
 1 Tundra
 1 Karakas
-4 Preordain
-1 Venser, Shaper Savant
+4 Cunning Wish
 1 Plains
 4 Flooded Strand
-2 City of Traitors
 1 Island
+1 Venser, Shaper Savant
 2 Island
 3 Island
 4 Island
-3 Emrakul, the Aeons Torn
 1 Lotus Petal
 2 Lotus Petal
 3 Lotus Petal
-1 Solve the Equation
+2 City of Traitors
+3 Emrakul, the Aeons Torn
 5 Island
 1 Orim's Chant
 2 Orim's Chant
-2 Solve the Equation
-3 Solve the Equation
+1 Solve the Equation
+1 Flusterstorm
 1 Carpet of Flowers
 4 Lotus Petal
-2 Intuition
-1 Flusterstorm
+2 Solve the Equation
+3 Solve the Equation
 2 Tropical Island
 1 Abundant Harvest
 1 Endurance
@@ -40,17 +39,17 @@
 3 Abundant Harvest
 3 Orim's Chant
 4 Orim's Chant
-1 Snow-Covered Plains
 2 Plains
 4 Solve the Equation
 1 Silence
 2 Silence
+1 Snow-Covered Plains
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 1 Boseiju, Who Shelters All
-1 Mystic Sanctuary
 1 Prismatic Ending
 1 Daze
+2 Intuition
 1 Polluted Delta
 2 Polluted Delta
 1 Dress Down
@@ -59,9 +58,25 @@
 3 Intuition
 3 Impulse
 4 Impulse
-1 Spell Pierce
+1 Mystic Sanctuary
 2 Daze
+1 Snow-Covered Swamp
+1 Thoughtseize
+1 Profane Tutor
+1 Underground Sea
+1 Duress
+2 Thoughtseize
+2 Flusterstorm
+2 Profane Tutor
+2 Underground Sea
+3 Thoughtseize
+3 Underground Sea
+3 Polluted Delta
+3 Profane Tutor
+4 Polluted Delta
+4 Profane Tutor
 3 Silence
+2 Scalding Tarn
 1 Urza's Saga
 1 Pithing Needle
 1 Elvish Reclaimer
@@ -81,15 +96,13 @@
 3 Tropical Island
 3 Mosswort Bridge
 3 Elvish Reclaimer
-4 Dress Down
 4 Emrakul, the Aeons Torn
+4 Dress Down
 4 Phyrexian Dreadnought
 4 Mosswort Bridge
 4 Elvish Reclaimer
-3 Polluted Delta
-4 Polluted Delta
+1 Spell Pierce
 1 Suspend
-2 Spell Pierce
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 2 Tundra
@@ -98,10 +111,12 @@
 1 Idyllic Tutor
 3 Teferi, Time Raveler
 3 City of Traitors
+1 Baleful Strix
+2 Baleful Strix
+3 Baleful Strix
 3 Daze
 1 Stifle
 2 Stifle
-2 Scalding Tarn
 4 Tropical Island
 1 Soul-Guide Lantern
 1 Forest
@@ -110,20 +125,4 @@
 4 Abundant Harvest
 3 Ancient Tomb
 4 Ancient Tomb
-1 Thoughtseize
-1 Duress
-1 Profane Tutor
-1 Snow-Covered Swamp
-1 Baleful Strix
-1 Underground Sea
-2 Thoughtseize
-2 Flusterstorm
-2 Profane Tutor
-2 Baleful Strix
-2 Underground Sea
-3 Thoughtseize
-3 Underground Sea
-3 Baleful Strix
-3 Profane Tutor
-4 Profane Tutor
 4 Silence

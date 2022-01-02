@@ -29,18 +29,18 @@
 3 Mountain
 1 Voldaren Epicure
 1 Fiery Temper
-1 Sanguine Statuette
 1 Vampire's Kiss
 1 Shrapnel Blast
+1 Sanguine Statuette
 2 Voldaren Epicure
 2 Fiery Temper
-2 Sanguine Statuette
 2 Vampire's Kiss
 2 Shrapnel Blast
+2 Sanguine Statuette
 3 Voldaren Epicure
 3 Fiery Temper
-3 Sanguine Statuette
 3 Vampire's Kiss
+3 Sanguine Statuette
 3 Shrapnel Blast
 4 Voldaren Epicure
 4 Fiery Temper
@@ -55,13 +55,13 @@
 2 Unlicensed Disintegration
 1 Falkenrath Pit Fighter
 1 Alms of the Vein
-2 Dragonskull Summit
 2 Falkenrath Pit Fighter
 2 Alms of the Vein
-3 Falkenrath Pit Fighter
+2 Dragonskull Summit
 3 Alms of the Vein
-4 Falkenrath Pit Fighter
+3 Falkenrath Pit Fighter
 4 Alms of the Vein
+4 Falkenrath Pit Fighter
 1 Field of Ruin
 1 Savai Triome
 1 Blood Baron of Vizkopa
@@ -72,16 +72,16 @@
 2 Lava Coil
 3 Blood Baron of Vizkopa
 1 Duress
-1 Electric Revelation
 1 Heartless Act
 1 Anger of the Gods
+1 Electric Revelation
 3 Sorin the Mirthless
-1 Mana Confluence
 1 Vampire Socialite
 1 Voldaren Estate
+1 Mana Confluence
 1 Falkenrath Gorger
-2 Mana Confluence
 2 Vampire Socialite
+2 Mana Confluence
 2 Falkenrath Gorger
 3 Falkenrath Gorger
 4 Falkenrath Gorger
@@ -127,10 +127,10 @@
 1 Terrarion
 2 Deadly Dispute
 2 Terrarion
-3 Terrarion
 3 Deadly Dispute
-4 Terrarion
+3 Terrarion
 4 Deadly Dispute
+4 Terrarion
 1 Light Up the Stage
 1 Bomat Courier
 1 Eidolon of the Great Revel

@@ -1,32 +1,32 @@
 2 Once Upon a Time
-4 Pithing Needle
+1 Wasteland
 4 Sylvan Scrying
+1 Yavimaya, Cradle of Growth
 2 Elvish Reclaimer
 1 Nurturing Peatland
-1 Yavimaya, Cradle of Growth
-1 Sylvan Safekeeper
 3 Elvish Reclaimer
+4 Elvish Reclaimer
 1 Abrupt Decay
+1 Sylvan Safekeeper
 1 Dark Confidant
 2 Dark Confidant
 3 Dark Confidant
-4 Elvish Reclaimer
 2 Abrupt Decay
-2 Sylvan Safekeeper
 1 Sylvan Library
 1 Mox Diamond
 2 Mox Diamond
 3 Abrupt Decay
+1 Life from the Loam
 1 Snow-Covered Forest
 1 Snow-Covered Swamp
+2 Sylvan Safekeeper
+1 Urza's Saga
 3 Once Upon a Time
 4 Dark Confidant
-1 Life from the Loam
-1 Urza's Saga
 3 Mox Diamond
+1 City of Brass
 1 Mana Confluence
 1 Gemstone Mine
-1 City of Brass
 2 Mana Confluence
 2 Gemstone Mine
 3 Gemstone Mine
@@ -34,82 +34,84 @@
 4 Mana Confluence
 4 Once Upon a Time
 3 Bayou
+1 Shadowspear
+2 Urza's Saga
 4 Gemstone Mine
 1 Stifle
 2 Stifle
+1 Retrofitter Foundry
+3 Urza's Saga
 2 Sylvan Library
-1 Shadowspear
-2 Urza's Saga
-2 Wasteland
+1 Assassin's Trophy
 3 Inquisition of Kozilek
 4 Abrupt Decay
 1 Overgrown Tomb
 2 Overgrown Tomb
 4 Not of This World
-1 Retrofitter Foundry
-3 Urza's Saga
-1 Entomb
+1 Expedition Map
 4 Mox Diamond
+2 Assassin's Trophy
+1 Entomb
+2 Wasteland
 2 Nurturing Peatland
-1 Assassin's Trophy
 2 Swamp
+4 Urza's Saga
 3 Duress
-1 Hymn to Tourach
-2 Hymn to Tourach
-3 Wasteland
 1 Lion's Eye Diamond
 1 Dark Ritual
 2 Lion's Eye Diamond
 2 Dark Ritual
-3 Dark Ritual
 3 Lion's Eye Diamond
-4 Dark Ritual
+3 Dark Ritual
 4 Lion's Eye Diamond
-1 Scrubland
-1 Living Wish
-1 Shallow Grave
-1 Griselbrand
-1 Unmask
-1 Children of Korlis
-1 Unburial Rites
+4 Dark Ritual
 1 Bloodstained Mire
+1 Scrubland
+1 Children of Korlis
+1 Griselbrand
+1 Shallow Grave
+1 Unburial Rites
+1 Unmask
+1 Living Wish
 1 Polluted Delta
 1 Exhume
 2 Entomb
-2 Living Wish
-2 Shallow Grave
-2 Griselbrand
 2 Unmask
+2 Living Wish
+2 Griselbrand
 2 Exhume
 2 Polluted Delta
+2 Shallow Grave
 3 Entomb
-3 Living Wish
-3 Shallow Grave
 3 Exhume
+3 Living Wish
 3 Griselbrand
-4 Entomb
-4 Shallow Grave
+3 Shallow Grave
 4 Exhume
+4 Shallow Grave
+4 Entomb
 1 Fling
-1 Expedition Map
-2 Assassin's Trophy
-2 Forest
+3 Wasteland
 2 Life from the Loam
+2 Forest
 3 Sylvan Safekeeper
 1 Cabal Therapy
+1 Badlands
 1 Esika's Chariot
 1 Taiga
-1 Badlands
 1 Surgical Extraction
+2 City of Brass
 1 Fatal Push
 2 Fatal Push
-2 City of Brass
+1 Hymn to Tourach
+2 Hymn to Tourach
 1 Barren Moor
 1 Exploration
 2 Exploration
-3 Hymn to Tourach
 3 Stifle
 4 Duress
+1 Marsh Flats
+4 Living Wish
 1 Simian Spirit Guide
 2 Simian Spirit Guide
 3 Simian Spirit Guide
@@ -120,34 +122,27 @@
 2 Chain of Smog
 3 Witherbloom Apprentice
 3 Chain of Smog
+4 Witherbloom Apprentice
 4 Bayou
 4 Chain of Smog
-4 Witherbloom Apprentice
-4 Urza's Saga
-1 Field of the Dead
-1 Glacial Chasm
-3 Forest
-4 Forest
-4 Inquisition of Kozilek
-5 Forest
-1 Ancient Tomb
+1 Karn, the Great Creator
+1 Infernal Tutor
+1 Tendrils of Agony
 1 Opposition Agent
 1 Helm of Obedience
 1 Ill-Gotten Gains
 1 Leyline of the Void
 1 Lake of the Dead
-1 Infernal Tutor
-1 Tendrils of Agony
-1 Karn, the Great Creator
-2 Ancient Tomb
-2 Helm of Obedience
+1 Ancient Tomb
 2 Karn, the Great Creator
+2 Infernal Tutor
 2 Ill-Gotten Gains
 2 Leyline of the Void
-2 Infernal Tutor
-3 Swamp
+2 Helm of Obedience
+2 Ancient Tomb
 3 Leyline of the Void
 3 Helm of Obedience
+3 Swamp
 3 Infernal Tutor
 4 Swamp
 4 Leyline of the Void
@@ -157,5 +152,9 @@
 7 Swamp
 8 Swamp
 9 Swamp
-1 Marsh Flats
-4 Living Wish
+1 Field of the Dead
+1 Glacial Chasm
+3 Forest
+4 Inquisition of Kozilek
+4 Forest
+5 Forest

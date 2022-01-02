@@ -29,23 +29,23 @@
 4 The Meathook Massacre
 3 Valki, God of Lies
 1 Ebondeath, Dracolich
-1 Tainted Adversary
-1 Undead Butler
 1 Eaten Alive
+1 Tainted Adversary
 1 Champion of the Perished
+1 Undead Butler
 1 Headless Rider
 2 Tainted Adversary
-2 Undead Butler
 2 Champion of the Perished
+2 Undead Butler
 2 Headless Rider
 3 Tainted Adversary
+3 Champion of the Perished
 3 Undead Butler
 3 Headless Rider
-3 Champion of the Perished
-4 Tainted Adversary
-4 Headless Rider
 4 Fell Stinger
+4 Tainted Adversary
 4 Champion of the Perished
+4 Headless Rider
 1 Westgate Regent
 1 Bloodchief's Thirst
 3 Graveyard Trespasser
@@ -82,28 +82,29 @@
 4 Inscription of Ruin
 4 Flunk
 2 Eaten Alive
+2 Westgate Regent
 1 Skyclave Shade
 1 Skull Raid
 2 Skyclave Shade
 2 Skull Raid
-2 Westgate Regent
-1 Sedgemoor Witch
-2 Sedgemoor Witch
-3 Sedgemoor Witch
-1 Bloodvial Purveyor
 1 Crippling Fear
 1 Evolving Wilds
+1 Bloodvial Purveyor
 1 Power Word Kill
 2 Bloodvial Purveyor
 2 Crippling Fear
 3 Bloodvial Purveyor
+1 Sedgemoor Witch
+2 Sedgemoor Witch
+3 Sedgemoor Witch
+4 Valki, God of Lies
 4 Field of Ruin
 1 Shadows' Verdict
 1 The Celestus
 1 Vampire's Kiss
+2 The Celestus
 2 Shadows' Verdict
 2 Vampire's Kiss
-2 The Celestus
 3 The Celestus
 3 Vampire's Kiss
 4 Vampire's Kiss
@@ -113,33 +114,32 @@
 2 Priest of the Haunted Edge
 3 Agadeem's Awakening
 4 Undead Butler
-1 Nighthawk Scavenger
-1 Darkbore Pathway
-1 Mind Drain
 1 Swamp
+1 Darkbore Pathway
+1 Nighthawk Scavenger
+1 Mind Drain
 1 Pestilent Cauldron
 1 Witherbloom Campus
 1 Forest
-2 Forest
+2 Swamp
 2 Nighthawk Scavenger
 2 Mind Drain
 2 Pestilent Cauldron
-2 Swamp
+2 Forest
 2 Witherbloom Campus
 2 Darkbore Pathway
+3 Darkbore Pathway
 3 Swamp
 3 Witherbloom Campus
 3 Pestilent Cauldron
-3 Darkbore Pathway
 3 Mind Drain
 3 Cosmos Elixir
-4 Swamp
 4 Darkbore Pathway
+4 Swamp
 4 Mind Drain
-4 Cosmos Elixir
 5 Swamp
 6 Swamp
 7 Swamp
 8 Swamp
 9 Swamp
-4 Valki, God of Lies
+4 Cosmos Elixir

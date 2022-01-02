@@ -41,8 +41,8 @@
 1 Firja's Retribution
 1 Skyclave Apparition
 1 Righteous Valkyrie
-2 Firja's Retribution
 2 Righteous Valkyrie
+2 Firja's Retribution
 3 Righteous Valkyrie
 3 Firja's Retribution
 3 Shineshadow Snarl
@@ -51,11 +51,11 @@
 5 Swamp
 6 Swamp
 7 Swamp
-4 Firja's Retribution
 4 Righteous Valkyrie
+4 Firja's Retribution
 1 Youthful Valkyrie
-2 Youthful Valkyrie
 2 Starnheim Unleashed
+2 Youthful Valkyrie
 3 Youthful Valkyrie
 4 Youthful Valkyrie
 8 Plains
@@ -92,9 +92,9 @@
 2 Cave of the Frost Dragon
 4 Emeria's Call
 1 Enduring Angel
+3 Fateful Absence
 3 Skyclave Apparition
 3 Liesa, Forgotten Archangel
-3 Fateful Absence
 4 Skyclave Apparition
 4 Starnheim Unleashed
 2 Agadeem's Awakening
@@ -114,18 +114,18 @@
 2 Usher of the Fallen
 1 Rampage of the Valkyries
 3 The Meathook Massacre
-3 Bloodvial Purveyor
 3 Concealing Curtains
+3 Bloodvial Purveyor
 4 Bloodvial Purveyor
 4 Skullport Merchant
 4 Eyetwitch
+1 Chaplain of Alms
 1 Valorous Stance
 1 Adeline, Resplendent Cathar
-1 Chaplain of Alms
-2 Adeline, Resplendent Cathar
 2 Chaplain of Alms
-3 Adeline, Resplendent Cathar
+2 Adeline, Resplendent Cathar
 3 Chaplain of Alms
+3 Adeline, Resplendent Cathar
 4 Thalia, Guardian of Thraben
 1 Fell Stinger
 2 Fell Stinger
@@ -143,23 +143,23 @@
 1 Elderfang Disciple
 1 Acquisitions Expert
 1 Silverquill Command
-1 Rite of Oblivion
-1 Morbid Opportunist
 1 Eaten Alive
-1 Poison the Cup
-1 Plumb the Forbidden
-1 Demon's Disciple
-1 Malakir Rebirth
-1 Loyal Warhound
+1 Rite of Oblivion
+1 Great Hall of Starnheim
 1 Tergrid, God of Fright
+1 Malakir Rebirth
+1 Morbid Opportunist
+1 Priest of Ancient Lore
+1 Plumb the Forbidden
 1 Silverquill Campus
-1 Cathar Commando
+1 Vanquish the Horde
+1 Demon's Disciple
 1 Village Rites
 1 Nadaar, Selfless Paladin
-1 Priest of Ancient Lore
-1 Great Hall of Starnheim
+1 Cathar Commando
+1 Poison the Cup
 1 Fleshtaker
-1 Vanquish the Horde
+1 Loyal Warhound
 1 Ecstatic Awakener
 1 Tainted Adversary
 1 Portable Hole
@@ -179,22 +179,40 @@
 2 Bloodchief's Thirst
 3 Fell Stinger
 3 Edgar, Charmed Groom
+1 Taborax, Hope's Demise
 1 Drana, the Last Bloodchief
 1 Dream Devourer
-1 Taborax, Hope's Demise
 2 Priest of the Haunted Edge
 2 Dream Devourer
 3 Dream Devourer
 3 Priest of the Haunted Edge
 4 Professor of Symbology
+1 Stonebinder's Familiar
+2 Sungold Sentinel
+2 Stonebinder's Familiar
+3 Sungold Sentinel
+3 Stonebinder's Familiar
+4 Sungold Sentinel
+4 Chaplain of Alms
+1 Haunting Voyage
+1 Doomskar
+1 Vengeful Reaper
+1 Valkyrie Harbinger
+2 Doomskar
+2 Vengeful Reaper
+2 Valkyrie Harbinger
+2 Haunting Voyage
+3 Vengeful Reaper
+3 Haunting Voyage
+4 Vengeful Reaper
 2 Kaya, Geist Hunter
 4 Lolth, Spider Queen
 1 Clarion Spirit
 2 Clarion Spirit
 3 Clarion Spirit
 4 Clarion Spirit
-1 Dungeon Crawler
 1 Duress
+1 Dungeon Crawler
 2 Dungeon Crawler
 2 Duress
 2 Scourge of the Skyclaves
@@ -204,20 +222,9 @@
 3 Scourge of the Skyclaves
 3 Duress
 4 Infernal Grasp
-4 Dungeon Crawler
 4 Agadeem's Awakening
+4 Dungeon Crawler
 4 Scourge of the Skyclaves
-1 Doomskar
-1 Valkyrie Harbinger
-1 Vengeful Reaper
-1 Haunting Voyage
-2 Doomskar
-2 Valkyrie Harbinger
-2 Vengeful Reaper
-2 Haunting Voyage
-3 Vengeful Reaper
-3 Haunting Voyage
-4 Vengeful Reaper
 1 Flunk
 3 Soul Shatter
 3 Rampage of the Valkyries
@@ -229,10 +236,3 @@
 3 Faithbound Judge
 3 Voldaren Bloodcaster
 8 Snow-Covered Swamp
-1 Stonebinder's Familiar
-2 Sungold Sentinel
-2 Stonebinder's Familiar
-3 Stonebinder's Familiar
-3 Sungold Sentinel
-4 Sungold Sentinel
-4 Chaplain of Alms

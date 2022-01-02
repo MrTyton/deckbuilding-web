@@ -24,8 +24,8 @@
 1 Barkchannel Pathway
 2 Barkchannel Pathway
 3 Barkchannel Pathway
-1 Island
 1 Swamp
+1 Island
 1 Negate
 3 Divide by Zero
 3 Prosperous Innkeeper
@@ -56,8 +56,8 @@
 4 Clearwater Pathway
 1 Dreamroot Cascade
 3 Alrund's Epiphany
-1 Fell Stinger
 1 Agadeem's Awakening
+1 Fell Stinger
 2 Fell Stinger
 2 Hall of Storm Giants
 3 Deathcap Glade
@@ -82,19 +82,19 @@
 1 Ebondeath, Dracolich
 1 Disdainful Stroke
 2 Disdainful Stroke
-3 Forest
 3 Island
 3 Swamp
-1 Concealing Curtains
+3 Forest
 1 Syncopate
 1 Bloodvial Purveyor
 1 Graveyard Trespasser
 1 Jaspera Sentinel
-2 Concealing Curtains
+1 Concealing Curtains
 2 Syncopate
 2 Bloodvial Purveyor
 2 Graveyard Trespasser
 2 Jaspera Sentinel
+2 Concealing Curtains
 3 Bloodvial Purveyor
 3 Concealing Curtains
 3 Jaspera Sentinel
@@ -144,12 +144,12 @@
 4 Scute Swarm
 5 Swamp
 1 Snow-Covered Mountain
-1 Pelakka Predation
-1 Toxrill, the Corrosive
-1 Hero's Downfall
-1 Crippling Fear
-1 Bloodline Culling
 1 Tergrid, God of Fright
+1 Hero's Downfall
+1 Bloodline Culling
+1 Toxrill, the Corrosive
+1 Pelakka Predation
+1 Crippling Fear
 1 Lier, Disciple of the Drowned
 1 Fading Hope
 1 Old Rutstein
@@ -158,32 +158,32 @@
 2 Culling Ritual
 2 Lair of the Hydra
 3 Test of Talents
-3 Negate
-1 Mordenkainen
 1 Flunk
 1 Kasmina, Enigma Sage
+1 Mordenkainen
 2 Snow-Covered Island
 2 Flunk
 2 Kasmina, Enigma Sage
 3 Snow-Covered Island
 3 Saw It Coming
-2 Hullbreaker Horror
-3 Jwari Disruption
-4 Binding the Old Gods
+3 Negate
 1 Dread Fugue
 2 Dread Fugue
 3 Dread Fugue
 4 Dread Fugue
+2 Hullbreaker Horror
+3 Jwari Disruption
+4 Binding the Old Gods
 1 Duress
 2 Duress
 3 Duress
 4 Duress
+1 Sea Gate Restoration
 1 Harness Infinity
-1 Plumb the Forbidden
-1 Vineglimmer Snarl
 1 Secrets of the Key
 1 Dream Strix
-1 Sea Gate Restoration
+1 Plumb the Forbidden
+1 Vineglimmer Snarl
 1 Beledros Witherbloom
 1 Silundi Vision
 1 Witherbloom Apprentice
@@ -201,8 +201,8 @@
 3 Secrets of the Key
 3 Witherbloom Apprentice
 4 Sedgemoor Witch
-4 Plumb the Forbidden
 4 Island
+4 Plumb the Forbidden
 4 Witherbloom Apprentice
 1 Neverwinter Dryad
 1 Emergent Sequence
@@ -210,24 +210,24 @@
 2 Neverwinter Dryad
 2 Emergent Sequence
 2 Koma, Cosmos Serpent
-3 Bloodchief's Thirst
 3 Neverwinter Dryad
 3 Emergent Sequence
+3 Bloodchief's Thirst
 4 Emergent Sequence
 5 Forest
-1 Briarbridge Tracker
 1 Ice Tunnel
+1 Briarbridge Tracker
 1 Vastwood Surge
 1 Xanathar, Guild Kingpin
-1 Acererak the Archlich
 1 Narfi, Betrayer King
+1 Acererak the Archlich
+2 Storm the Festival
 2 Briarbridge Tracker
 2 Ice Tunnel
 2 Vastwood Surge
-2 Storm the Festival
 2 Rimewood Falls
-3 Briarbridge Tracker
 3 Woodland Chasm
+3 Briarbridge Tracker
 4 Snow-Covered Forest
 4 Woodland Chasm
 5 Snow-Covered Forest

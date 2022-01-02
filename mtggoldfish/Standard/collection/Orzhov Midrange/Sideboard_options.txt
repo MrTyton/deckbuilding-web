@@ -13,12 +13,12 @@
 4 Skyclave Shade
 1 Mascot Exhibition
 1 Environmental Sciences
-1 Path of Peril
 1 Curse of Silence
 1 Pithing Needle
+1 Path of Peril
+2 Environmental Sciences
 2 Mascot Exhibition
 2 Path of Peril
-2 Environmental Sciences
 2 Curse of Silence
 2 Pithing Needle
 1 Reidane, God of the Worthy
@@ -32,8 +32,8 @@
 3 Paladin Class
 1 Ray of Enfeeblement
 1 Guardian of Faith
-2 Ray of Enfeeblement
 2 Skyclave Apparition
+2 Ray of Enfeeblement
 3 Skyclave Apparition
 4 Skyclave Apparition
 1 Portable Hole
@@ -50,22 +50,22 @@
 2 Dread Fugue
 1 Power Word Kill
 1 Flunk
-1 Professor Onyx
-1 Pest Summoning
 1 Selfless Glyphweaver
+1 Pest Summoning
+1 Professor Onyx
 2 Sorin the Mirthless
-1 Triumphant Adventurer
-2 Triumphant Adventurer
-1 Callous Bloodmage
 1 Strict Proctor
 1 The Book of Exalted Deeds
 1 By Invitation Only
-2 Strict Proctor
+1 Callous Bloodmage
 2 The Book of Exalted Deeds
+2 Strict Proctor
 2 Callous Bloodmage
+1 Triumphant Adventurer
+2 Triumphant Adventurer
 2 Graveyard Trespasser
-3 Dread Fugue
 3 Graveyard Trespasser
+3 Dread Fugue
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
@@ -80,8 +80,8 @@
 1 Blot Out the Sky
 1 Check for Traps
 1 Doomskar
-2 Check for Traps
 2 Doomskar
+2 Check for Traps
 3 Check for Traps
 1 Bloodchief's Thirst
 1 Village Rites
@@ -91,15 +91,15 @@
 2 Power Word Kill
 2 Blood on the Snow
 3 Blood on the Snow
-1 Vengeful Reaper
 1 Valkyrie Harbinger
+1 Vengeful Reaper
 1 Renegade Reaper
 1 Deadly Dispute
-2 Vengeful Reaper
 2 Valkyrie Harbinger
+2 Vengeful Reaper
 2 Renegade Reaper
 2 Deadly Dispute
+3 Vengeful Reaper
 3 Deadly Dispute
 3 Renegade Reaper
-3 Vengeful Reaper
 4 Renegade Reaper

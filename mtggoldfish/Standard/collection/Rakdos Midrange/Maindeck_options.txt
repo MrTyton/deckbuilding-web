@@ -103,18 +103,18 @@
 4 Shatterskull Smashing
 1 Manaform Hellkite
 1 Spikefield Hazard
-2 Manaform Hellkite
 2 Spikefield Hazard
-3 Manaform Hellkite
+2 Manaform Hellkite
 3 Hive of the Eye Tyrant
+3 Manaform Hellkite
 4 Manaform Hellkite
 4 Bloodthirsty Adversary
 1 Vampire Socialite
 1 Falkenrath Pit Fighter
 1 Valentin, Dean of the Vein
-2 Valentin, Dean of the Vein
 2 Vampire Socialite
 2 Falkenrath Pit Fighter
+2 Valentin, Dean of the Vein
 3 Vampire Socialite
 4 Vampire Socialite
 3 Agadeem's Awakening
@@ -123,30 +123,23 @@
 2 Xorn
 3 Xorn
 7 Mountain
-8 Mountain
 8 Swamp
+8 Mountain
 9 Swamp
 9 Mountain
 10 Mountain
 1 Grim Bounty
 2 Grim Bounty
-1 Olivia, Crimson Bride
 1 Lunar Frenzy
-1 Henrika Domnathi
-2 Henrika Domnathi
+1 Olivia, Crimson Bride
 1 Hagra Mauling
 2 Hagra Mauling
-1 Play with Fire
-1 Dragonkin Berserker
-2 Play with Fire
-2 Dragonkin Berserker
-3 Play with Fire
-3 Dragonkin Berserker
+1 Henrika Domnathi
+2 Henrika Domnathi
 3 Dread Fugue
 3 Kazuul's Fury
 3 Ebondeath, Dracolich
 1 Magic Missile
-1 Westgate Regent
 1 Jaded Sell-Sword
 1 Red Dragon
 1 Thieves' Tools
@@ -154,24 +147,30 @@
 1 Hired Hexblade
 1 Sudden Breakthrough
 1 Unwilling Ingredient
-2 Magic Missile
+1 Westgate Regent
 2 Jaded Sell-Sword
 2 Hoarding Ogre
+2 Magic Missile
 2 Sudden Breakthrough
 2 Hired Hexblade
 3 Hired Hexblade
-1 Orb of Dragonkind
-1 Moonveil Regent
-2 Soul Shatter
-2 Moonveil Regent
-2 Orb of Dragonkind
-3 Moonveil Regent
-3 Orb of Dragonkind
-4 Dragon's Fire
-4 Hive of the Eye Tyrant
+1 Play with Fire
+1 Dragonkin Berserker
+2 Dragonkin Berserker
+2 Play with Fire
+3 Dragonkin Berserker
+3 Play with Fire
+1 Crippling Fear
+1 Slaughter Specialist
+1 Malakir Rebirth
+2 Crippling Fear
+2 Slaughter Specialist
+3 Crippling Fear
+3 Slaughter Specialist
+4 Slaughter Specialist
 1 Crush the Weak
-1 Vorpal Sword
 1 Nullpriest of Oblivion
+1 Vorpal Sword
 1 Egon, God of Death
 1 Forsworn Paladin
 1 Rise of the Dread Marn
@@ -181,45 +180,54 @@
 2 Egon, God of Death
 3 Crush the Weak
 4 Crush the Weak
-1 Brightclimb Pathway
-1 Path of Peril
-1 Needleverge Pathway
-2 Brightclimb Pathway
-2 Path of Peril
-2 Needleverge Pathway
-3 Brightclimb Pathway
-4 Tainted Adversary
-4 Brightclimb Pathway
-1 Vampires' Vengeance
-1 Bloodtithe Harvester
-1 Voldaren Bloodcaster
-2 Vampires' Vengeance
-2 Bloodtithe Harvester
-3 Vampires' Vengeance
-3 Bloodtithe Harvester
-4 Agadeem's Awakening
-4 Vampires' Vengeance
-4 Bloodtithe Harvester
 1 Fireblade Charger
 1 Extus, Oriq Overlord
 2 Fireblade Charger
 2 Extus, Oriq Overlord
-3 Fireblade Charger
 3 Extus, Oriq Overlord
-4 Fireblade Charger
+3 Fireblade Charger
 4 Extus, Oriq Overlord
-1 Crippling Fear
-1 Malakir Rebirth
-1 Slaughter Specialist
-2 Crippling Fear
-2 Slaughter Specialist
-3 Crippling Fear
-3 Slaughter Specialist
-4 Slaughter Specialist
-1 Professor Onyx
+4 Fireblade Charger
+1 Vampires' Vengeance
+1 Bloodtithe Harvester
+1 Voldaren Bloodcaster
+2 Bloodtithe Harvester
+2 Vampires' Vengeance
+3 Vampires' Vengeance
+3 Bloodtithe Harvester
+4 Vampires' Vengeance
+4 Bloodtithe Harvester
+4 Agadeem's Awakening
+1 Path of Peril
+1 Brightclimb Pathway
+1 Needleverge Pathway
+2 Path of Peril
+2 Brightclimb Pathway
+2 Needleverge Pathway
+3 Brightclimb Pathway
+4 Brightclimb Pathway
+4 Tainted Adversary
+1 Cemetery Gatekeeper
+1 Voldaren Estate
+2 Cemetery Gatekeeper
+3 Roil Eruption
+3 Cemetery Gatekeeper
+3 Falkenrath Pit Fighter
+4 Cemetery Gatekeeper
+4 Falkenrath Pit Fighter
+1 Orb of Dragonkind
+1 Moonveil Regent
+2 Soul Shatter
+2 Moonveil Regent
+2 Orb of Dragonkind
+3 Orb of Dragonkind
+3 Moonveil Regent
+4 Dragon's Fire
+4 Hive of the Eye Tyrant
 1 Seize the Spoils
-2 Professor Onyx
+1 Professor Onyx
 2 Seize the Spoils
+2 Professor Onyx
 3 Professor Onyx
 3 Orcus, Prince of Undeath
 3 Seize the Spoils
@@ -236,11 +244,3 @@
 10 Swamp
 11 Swamp
 12 Swamp
-1 Cemetery Gatekeeper
-1 Voldaren Estate
-2 Cemetery Gatekeeper
-3 Cemetery Gatekeeper
-3 Roil Eruption
-3 Falkenrath Pit Fighter
-4 Cemetery Gatekeeper
-4 Falkenrath Pit Fighter
