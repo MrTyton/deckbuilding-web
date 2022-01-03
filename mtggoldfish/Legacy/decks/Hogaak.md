@@ -87,7 +87,7 @@
 |                    2|[Cryptbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414381)      |                     |                                                                                                 |
 |                    2|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                     |                                                                                                 |
 |                    3|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                     |                                                                                                 |
+|                    3|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)              |                     |                                                                                                 |
 |                    4|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)       |                     |                                                                                                 |
 |                    4|[Undead Butler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=540985)     |                     |                                                                                                 |
-|                    3|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)              |                     |                                                                                                 |
 

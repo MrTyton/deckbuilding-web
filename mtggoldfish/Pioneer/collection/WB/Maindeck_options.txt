@@ -1,191 +1,49 @@
-2 Swamp
-1 Rite of Oblivion
-1 Castle Locthwain
-1 Thraben Inspector
-1 Yorion, Sky Nomad
-1 Treacherous Blessing
-1 Trial of Ambition
-1 Fatal Push
-1 Omen of the Sun
-2 Rite of Oblivion
-2 Thraben Inspector
-2 Trial of Ambition
-2 Omen of the Sun
-2 Fatal Push
-2 Treacherous Blessing
-3 Thraben Inspector
-3 Rite of Oblivion
-3 Trial of Ambition
-3 Fatal Push
-3 Treacherous Blessing
-4 Thraben Inspector
-4 Fatal Push
-4 Trial of Ambition
-1 Kaya's Wrath
-1 Fabled Passage
-2 Kaya's Wrath
-2 Fabled Passage
-3 Fabled Passage
-4 Treacherous Blessing
-4 Fabled Passage
-1 The Birth of Meletis
-2 The Birth of Meletis
-1 Emeria's Call
-1 Hive of the Eye Tyrant
-2 Emeria's Call
-2 Yorion, Sky Nomad
-1 Go Blank
-2 Go Blank
-1 Oath of Kaya
-2 Oath of Kaya
-3 Omen of the Sun
-4 Rite of Oblivion
-1 Isolated Chapel
-2 Isolated Chapel
-1 Elspeth, Sun's Nemesis
-3 Emeria's Call
-3 Kaya's Wrath
-3 Oath of Kaya
-1 Lagonna-Band Trailblazer
-1 Power Word Kill
-2 Hive of the Eye Tyrant
-2 Elspeth, Sun's Nemesis
-3 Swamp
-3 The Birth of Meletis
-3 Go Blank
-1 Shattered Sanctum
-2 Shattered Sanctum
-1 Urborg, Tomb of Yawgmoth
-3 Yorion, Sky Nomad
-1 Heartless Act
 1 Karametra's Blessing
 2 Karametra's Blessing
-1 Lolth, Spider Queen
-1 Cave of the Frost Dragon
-2 Castle Locthwain
-1 Cling to Dust
-1 Vanishing Verse
-5 Plains
-4 Omen of the Sun
-2 Heartless Act
-4 Oath of Kaya
-1 Castle Ardenvale
-3 Isolated Chapel
-4 Isolated Chapel
 3 Karametra's Blessing
 4 Cartouche of Solidarity
-1 Field of Ruin
-2 Vanishing Verse
-3 Shattered Sanctum
-1 Charming Prince
-2 Charming Prince
-3 Charming Prince
-2 Power Word Kill
-1 Demonic Pact
-2 Demonic Pact
-3 Demonic Pact
-3 Vanishing Verse
-4 Shattered Sanctum
-4 Vanishing Verse
 4 Sentinel's Eyes
-1 Shambling Vent
-2 Shambling Vent
-3 Shambling Vent
 4 Karametra's Blessing
-1 Doom Foretold
-1 Gonti, Lord of Luxury
-1 Ambitious Farmhand
-1 Gideon, Ally of Zendikar
-1 Ob Nixilis Reignited
-1 Oath of Gideon
-1 Oath of Liliana
-2 Ambitious Farmhand
-2 Gideon, Ally of Zendikar
-2 Ob Nixilis Reignited
-2 Oath of Gideon
-3 Power Word Kill
-1 Cavalier of Dawn
-2 Cavalier of Dawn
-3 Cavalier of Dawn
-1 Sorin the Mirthless
-1 Bloodchief's Thirst
-2 Field of Ruin
-2 Sorin the Mirthless
-2 Lolth, Spider Queen
-4 Go Blank
-4 The Birth of Meletis
-1 Temple Garden
-2 Temple Garden
-1 Snow-Covered Plains
-1 Branchloft Pathway
-1 Binding the Old Gods
-1 Siege Rhino
-1 Overgrown Tomb
-1 Indatha Triome
-1 Darkbore Pathway
-1 Languish
-1 Extinction Event
-1 Snow-Covered Swamp
-1 Ranger Class
-1 Overgrown Farmland
-2 Snow-Covered Plains
-2 Binding the Old Gods
-2 Siege Rhino
-2 Branchloft Pathway
-2 Overgrown Tomb
-2 Darkbore Pathway
-2 Extinction Event
-2 Overgrown Farmland
-2 Indatha Triome
-2 Ranger Class
-3 Overgrown Tomb
-3 Branchloft Pathway
-3 Darkbore Pathway
-3 Indatha Triome
-3 Ranger Class
-4 Ranger Class
-4 Overgrown Tomb
-4 Branchloft Pathway
-4 Darkbore Pathway
-4 Indatha Triome
 1 Sunpetal Grove
-1 Sixth Sense
-1 Scattered Groves
 1 Arctic Treeline
+1 Sixth Sense
+1 Temple Garden
+1 Scattered Groves
 1 Fortified Village
 1 Unflinching Courage
 1 Dromoka's Command
 1 Gift of Orzhova
-1 Adanto Vanguard
 1 Gladecover Scout
+1 Adanto Vanguard
 1 Bassara Tower Archer
 1 Season of Growth
 1 Forest
+2 Temple Garden
 2 Sunpetal Grove
 2 Fortified Village
-2 Season of Growth
 2 Gladecover Scout
 2 Forest
 2 Adanto Vanguard
 2 Unflinching Courage
-2 Bassara Tower Archer
-2 Gift of Orzhova
 2 Scattered Groves
+2 Gift of Orzhova
+2 Bassara Tower Archer
+2 Season of Growth
 3 Fortified Village
-3 Sunpetal Grove
-3 Season of Growth
-3 Unflinching Courage
-3 Gift of Orzhova
-3 Scattered Groves
-3 Bassara Tower Archer
-3 Gladecover Scout
 3 Temple Garden
+3 Sunpetal Grove
+3 Unflinching Courage
+3 Gladecover Scout
+3 Season of Growth
+3 Scattered Groves
+3 Gift of Orzhova
+3 Bassara Tower Archer
 4 Sunpetal Grove
 4 Season of Growth
-4 Scattered Groves
 4 Temple Garden
 4 Bassara Tower Archer
 4 Gladecover Scout
+4 Scattered Groves
 1 Containment Priest
 2 Containment Priest
 3 Containment Priest
@@ -196,6 +54,8 @@
 3 Chaplain of Alms
 3 Radiant Grace
 4 Chaplain of Alms
+1 Swamp
+2 Swamp
 4 Selfless Savior
 3 Stonecoil Serpent
 4 Stonecoil Serpent
