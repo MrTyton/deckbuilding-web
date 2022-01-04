@@ -19,17 +19,17 @@
 2 Bloodstained Mire
 2 Past in Flames
 3 Burning Wish
+1 Manamorphose
 1 Ruby Medallion
 1 Mountain
-1 Manamorphose
 1 Seething Song
 1 Rite of Flame
 1 Defense Grid
 1 Birgi, God of Storytelling
 1 Ancient Tomb
 1 Jeska's Will
-2 Ruby Medallion
 2 Manamorphose
+2 Ruby Medallion
 2 Seething Song
 2 Defense Grid
 2 Rite of Flame
@@ -37,8 +37,8 @@
 2 Ancient Tomb
 2 Jeska's Will
 2 Mountain
-3 Ruby Medallion
 3 Manamorphose
+3 Ruby Medallion
 3 Rite of Flame
 3 Ancient Tomb
 3 Jeska's Will
@@ -96,11 +96,11 @@
 1 Shallow Grave
 1 Griselbrand
 1 Magus of the Mind
-2 Shallow Grave
 2 Verdant Catacombs
 2 Griselbrand
-3 Shallow Grave
+2 Shallow Grave
 3 Wishclaw Talisman
+3 Shallow Grave
 4 Shallow Grave
 1 Peer into the Abyss
 3 Galvanic Relay
@@ -115,13 +115,6 @@
 4 Birgi, God of Storytelling
 4 Defense Grid
 4 Rite of Flame
-1 Ignite the Future
-1 Fiery Confluence
-2 Ignite the Future
-3 Ignite the Future
-3 Sandstone Needle
-4 Ignite the Future
-8 Mountain
 1 Culling the Weak
 1 Goblin Charbelcher
 1 Grief
@@ -148,3 +141,10 @@
 4 Cruel Bargain
 4 Culling the Weak
 4 Infernal Contract
+1 Ignite the Future
+1 Fiery Confluence
+2 Ignite the Future
+3 Ignite the Future
+3 Sandstone Needle
+4 Ignite the Future
+8 Mountain

@@ -1,15 +1,15 @@
-1 Brutal Cathar
-1 Go Blank
 2 Valorous Stance
-1 Skyclave Apparition
-2 Go Blank
+1 The Meathook Massacre
 3 Valorous Stance
-1 Infernal Grasp
-3 Go Blank
-3 Duress
+1 Skyclave Apparition
+1 Go Blank
 2 Elite Spellbinder
 3 Reidane, God of the Worthy
+1 Infernal Grasp
+2 Go Blank
+3 Duress
 1 Ray of Enfeeblement
+3 Go Blank
 2 Skyclave Apparition
 1 Sorin the Mirthless
 1 Circle of Confinement
@@ -42,19 +42,12 @@
 3 Skyclave Apparition
 1 Kaya the Inexorable
 2 Kaya the Inexorable
-1 Sejiri Shelter
 1 Westgate Regent
 1 Dawnbringer Cleric
+1 Sejiri Shelter
 2 Fateful Absence
-1 Parasitic Grasp
-1 Cleric Class
-2 Cleric Class
-1 Graveyard Trespasser
-2 Circle of Confinement
-2 Check for Traps
-2 Infernal Grasp
-1 Baleful Mastery
 1 Pithing Needle
+1 Baleful Mastery
 2 Doomskar
 1 Drana, the Last Bloodchief
 1 Environmental Sciences
@@ -62,15 +55,20 @@
 1 Elderfang Disciple
 1 Taborax, Hope's Demise
 1 Rite of Oblivion
-2 Necrotic Fumes
 2 Elderfang Disciple
-1 Edgar, Charmed Groom
-2 Edgar, Charmed Groom
+2 Necrotic Fumes
+1 Graveyard Trespasser
+2 Check for Traps
+2 Circle of Confinement
+2 Infernal Grasp
+1 Parasitic Grasp
+1 Cleric Class
+2 Cleric Class
 1 Power Word Kill
+1 Kaya, Geist Hunter
 1 Barrowin of Clan Undurr
 1 Runeforge Champion
 1 Firja, Judge of Valor
-1 Kaya, Geist Hunter
 1 Closing Statement
 2 Power Word Kill
 2 Kaya, Geist Hunter
@@ -84,13 +82,6 @@
 3 Rally the Ranks
 1 Blot Out the Sky
 3 Angel of Destiny
-4 Valorous Stance
-1 Kor Celebrant
-1 Vanquish the Horde
-2 Paladin Class
-2 Vanquish the Horde
-3 Portable Hole
-4 Portable Hole
 1 Shaile, Dean of Radiance
 1 Disenchant
 2 Shaile, Dean of Radiance
@@ -101,6 +92,13 @@
 3 Drana, the Last Bloodchief
 3 Disenchant
 4 Skyclave Apparition
+4 Valorous Stance
+1 Kor Celebrant
+1 Vanquish the Horde
+2 Paladin Class
+2 Vanquish the Horde
+3 Portable Hole
+4 Portable Hole
 1 Lolth, Spider Queen
 1 Path of Peril
 2 Lolth, Spider Queen

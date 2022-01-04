@@ -25,14 +25,14 @@
 4 Ignoble Hierarch
 1 Hallowed Fountain
 1 Plains
-1 Raugrin Triome
 1 Prismatic Ending
 1 Expressive Iteration
 1 Island
 1 Chalice of the Void
+1 Raugrin Triome
+2 Prismatic Ending
 2 Expressive Iteration
 2 Chalice of the Void
-2 Prismatic Ending
 3 Teferi, Time Raveler
 3 Prismatic Ending
 3 Expressive Iteration
@@ -52,11 +52,6 @@
 2 Faithful Mending
 3 Faithful Mending
 4 Faithful Mending
-1 Solitude
-2 Solitude
-3 Solitude
-4 Solitude
-4 Wrenn and Six
 1 Eladamri's Call
 1 Fire/Ice
 2 Misty Rainforest
@@ -64,25 +59,30 @@
 3 Misty Rainforest
 3 Fire/Ice
 4 Fire/Ice
+1 Solitude
+2 Solitude
+3 Solitude
+4 Wrenn and Six
+4 Solitude
 1 Prismari Command
 2 Scalding Tarn
 1 Geist of Saint Traft
 2 Geist of Saint Traft
-1 Moonveil Regent
 1 Reflecting Pool
 1 Showdown of the Skalds
+1 Moonveil Regent
 2 Verdant Catacombs
-2 Breeding Pool
-2 Stomping Ground
 1 Knight of Autumn
 1 Bounding Krasis
 2 Bounding Krasis
 1 Noble Hierarch
 1 Tarmogoyf
 1 Reflector Mage
-2 Tarmogoyf
 2 Noble Hierarch
+2 Tarmogoyf
 2 Reflector Mage
+2 Stomping Ground
+2 Breeding Pool
 1 Goblin Guide
 1 Brushfire Elemental
 1 Overgrown Tomb
@@ -107,8 +107,8 @@
 4 Wild Nacatl
 4 Brushfire Elemental
 1 Sunbaked Canyon
-2 Plains
 2 Prismari Command
+2 Plains
 2 Hallowed Fountain
 2 Sunbaked Canyon
 3 Geist of Saint Traft

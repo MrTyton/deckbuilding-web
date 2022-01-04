@@ -26,14 +26,14 @@
 3 Brainstorm
 4 Ice-Fang Coatl
 4 Brainstorm
-1 Living Wish
 1 Aluren
 1 Acererak the Archlich
-2 Living Wish
+1 Living Wish
 2 Aluren
 2 Acererak the Archlich
-3 Living Wish
+2 Living Wish
 3 Aluren
+3 Living Wish
 1 Karakas
 1 Scavenging Ooze
 1 Unearth
@@ -46,6 +46,7 @@
 2 Bone Shards
 2 Tropical Island
 2 Polluted Delta
+1 Thragtusk
 1 Knight of Autumn
 1 Liliana, the Last Hope
 1 Tireless Tracker
@@ -54,7 +55,6 @@
 1 Path to Exile
 1 Elspeth, Sun's Champion
 1 Kaya, Ghost Assassin
-1 Thragtusk
 1 Archon of Valor's Reach
 2 Path to Exile
 3 Path to Exile
@@ -77,9 +77,9 @@
 1 Terror of the Peaks
 1 Badlands
 1 Field of the Dead
+1 Dauthi Voidwalker
 1 Kalitas, Traitor of Ghet
 1 Opposition Agent
-1 Dauthi Voidwalker
 1 Vivien, Monsters' Advocate
 1 Ruination Rioter
 1 Taiga
@@ -100,18 +100,6 @@
 3 Greater Gargadon
 3 Wooded Foothills
 4 Greater Gargadon
-1 Yavimaya, Cradle of Growth
-1 Urborg, Tomb of Yawgmoth
-3 Bayou
-3 Thoughtseize
-3 Acererak the Archlich
-3 Swamp
-4 Forest
-4 Bayou
-4 Swamp
-4 Aluren
-5 Forest
-5 Swamp
 1 Cavern Harpy
 1 Baleful Strix
 1 Ponder
@@ -120,11 +108,23 @@
 2 Ponder
 2 Force of Will
 2 Prismatic Vista
-3 Abrupt Decay
 3 Snow-Covered Forest
 3 Snow-Covered Island
+3 Abrupt Decay
 3 Force of Will
 3 Misty Rainforest
 3 Ponder
 4 Misty Rainforest
 4 Force of Will
+1 Yavimaya, Cradle of Growth
+1 Urborg, Tomb of Yawgmoth
+3 Thoughtseize
+3 Bayou
+3 Acererak the Archlich
+3 Swamp
+4 Swamp
+4 Aluren
+4 Forest
+4 Bayou
+5 Swamp
+5 Forest
