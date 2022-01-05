@@ -1,8 +1,8 @@
 2 Windswept Heath
 3 Flooded Strand
-2 Fury
 2 Arid Mesa
 4 General Ferrous Rokiric
+2 Fury
 4 Flooded Strand
 1 Manamorphose
 2 Manamorphose
@@ -12,17 +12,12 @@
 4 Arid Mesa
 1 Wrenn and Six
 1 Savai Triome
-3 Windswept Heath
 2 Wrenn and Six
 1 Scalding Tarn
+3 Windswept Heath
 1 Misty Rainforest
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
-4 Windswept Heath
-1 Ignoble Hierarch
-2 Ignoble Hierarch
-3 Ignoble Hierarch
-4 Ignoble Hierarch
 1 Hallowed Fountain
 1 Plains
 1 Prismatic Ending
@@ -38,20 +33,30 @@
 3 Expressive Iteration
 4 Prismatic Ending
 4 Expressive Iteration
-1 Blood Crypt
 1 Omnath, Locus of Creation
 1 Ketria Triome
 2 Omnath, Locus of Creation
 3 Omnath, Locus of Creation
-1 Klothys, God of Destiny
+4 Windswept Heath
+1 Ignoble Hierarch
+2 Ignoble Hierarch
+3 Ignoble Hierarch
+4 Ignoble Hierarch
+1 Blood Crypt
 3 Chalice of the Void
 4 Chalice of the Void
-1 Verdant Catacombs
+1 Klothys, God of Destiny
 3 Wrenn and Six
 1 Faithful Mending
 2 Faithful Mending
 3 Faithful Mending
 4 Faithful Mending
+1 Solitude
+2 Solitude
+3 Solitude
+4 Wrenn and Six
+4 Solitude
+1 Verdant Catacombs
 1 Eladamri's Call
 1 Fire/Ice
 2 Misty Rainforest
@@ -59,11 +64,6 @@
 3 Misty Rainforest
 3 Fire/Ice
 4 Fire/Ice
-1 Solitude
-2 Solitude
-3 Solitude
-4 Wrenn and Six
-4 Solitude
 1 Prismari Command
 2 Scalding Tarn
 1 Geist of Saint Traft

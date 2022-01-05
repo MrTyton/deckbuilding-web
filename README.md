@@ -14,14 +14,13 @@
 
 # Historic
 
-|                                 A                                  |                              B                               |                                   C                                    |                                      D                                       |                                     E                                      |
-|--------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-|[Abzan Angels](./mtggoldfish/Historic/decks/Abzan_Angels.md)        |[Dimir Control](./mtggoldfish/Historic/decks/Dimir_Control.md)|[Gruul Aggro](./mtggoldfish/Historic/decks/Gruul_Aggro.md)              |[Mono-Black Vampires ❄](./mtggoldfish/Historic/decks/Mono-Black_Vampires_❄.md)|[Rakdos Arcanis](./mtggoldfish/Historic/decks/Rakdos_Arcanis.md)            |
-|[Auras](./mtggoldfish/Historic/decks/Auras.md)                      |[Dimir Rogues](./mtggoldfish/Historic/decks/Dimir_Rogues.md)  |[Izzet Epiphany](./mtggoldfish/Historic/decks/Izzet_Epiphany.md)        |[Mono-Red Aggro](./mtggoldfish/Historic/decks/Mono-Red_Aggro.md)              |[Sacrifice](./mtggoldfish/Historic/decks/Sacrifice.md)                      |
-|[Azorius Affinity](./mtggoldfish/Historic/decks/Azorius_Affinity.md)|[Dragonstorm](./mtggoldfish/Historic/decks/Dragonstorm.md)    |[Izzet Phoenix](./mtggoldfish/Historic/decks/Izzet_Phoenix.md)          |[Mono-Red Burn](./mtggoldfish/Historic/decks/Mono-Red_Burn.md)                |[Selesnya Enchantress](./mtggoldfish/Historic/decks/Selesnya_Enchantress.md)|
-|[Azorius Control](./mtggoldfish/Historic/decks/Azorius_Control.md)  |[Elves](./mtggoldfish/Historic/decks/Elves.md)                |[Jeskai Control](./mtggoldfish/Historic/decks/Jeskai_Control.md)        |[Mono-Red Madness](./mtggoldfish/Historic/decks/Mono-Red_Madness.md)          |[Selesnya Humans](./mtggoldfish/Historic/decks/Selesnya_Humans.md)          |
-|[Azorius Ramp](./mtggoldfish/Historic/decks/Azorius_Ramp.md)        |[Goblins](./mtggoldfish/Historic/decks/Goblins.md)            |[Jeskai Creativity](./mtggoldfish/Historic/decks/Jeskai_Creativity.md)  |[Neostorm](./mtggoldfish/Historic/decks/Neostorm.md)                          |[Simic Merfolk](./mtggoldfish/Historic/decks/Simic_Merfolk.md)              |
-|[Boros Feather](./mtggoldfish/Historic/decks/Boros_Feather.md)      |[Golgari Aggro](./mtggoldfish/Historic/decks/Golgari_Aggro.md)|[Jeskai Lotus Field](./mtggoldfish/Historic/decks/Jeskai_Lotus_Field.md)|[Niv-Mizzet Control](./mtggoldfish/Historic/decks/Niv-Mizzet_Control.md)      |[WG](./mtggoldfish/Historic/decks/WG.md)                                    |
+|                                 A                                  |                               B                                |                                      C                                       |                                   D                                    |                   E                    |
+|--------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------|
+|[Abzan Angels](./mtggoldfish/Historic/decks/Abzan_Angels.md)        |[Dimir Rogues](./mtggoldfish/Historic/decks/Dimir_Rogues.md)    |[Izzet Phoenix](./mtggoldfish/Historic/decks/Izzet_Phoenix.md)                |[Niv-Mizzet Control](./mtggoldfish/Historic/decks/Niv-Mizzet_Control.md)|[WG](./mtggoldfish/Historic/decks/WG.md)|
+|[Auras](./mtggoldfish/Historic/decks/Auras.md)                      |[Elves](./mtggoldfish/Historic/decks/Elves.md)                  |[Jeskai Control](./mtggoldfish/Historic/decks/Jeskai_Control.md)              |[Rakdos Arcanis](./mtggoldfish/Historic/decks/Rakdos_Arcanis.md)        |                                        |
+|[Azorius Affinity](./mtggoldfish/Historic/decks/Azorius_Affinity.md)|[Golgari Aggro](./mtggoldfish/Historic/decks/Golgari_Aggro.md)  |[Jeskai Creativity](./mtggoldfish/Historic/decks/Jeskai_Creativity.md)        |[Sacrifice](./mtggoldfish/Historic/decks/Sacrifice.md)                  |                                        |
+|[Azorius Control](./mtggoldfish/Historic/decks/Azorius_Control.md)  |[Gruul Aggro](./mtggoldfish/Historic/decks/Gruul_Aggro.md)      |[Mono-Black Vampires ❄](./mtggoldfish/Historic/decks/Mono-Black_Vampires_❄.md)|[Selesnya Humans](./mtggoldfish/Historic/decks/Selesnya_Humans.md)      |                                        |
+|[Dimir Control](./mtggoldfish/Historic/decks/Dimir_Control.md)      |[Gruul Midrange](./mtggoldfish/Historic/decks/Gruul_Midrange.md)|[Mono-Red Madness](./mtggoldfish/Historic/decks/Mono-Red_Madness.md)          |[Simic Merfolk](./mtggoldfish/Historic/decks/Simic_Merfolk.md)          |                                        |
 
 
 # Pioneer
@@ -71,4 +70,4 @@
 
 
 
-#### Last Updated at 12:25AM on January 05, 2022
+#### Last Updated at 12:25PM on January 05, 2022

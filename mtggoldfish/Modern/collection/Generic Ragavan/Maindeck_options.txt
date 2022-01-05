@@ -28,11 +28,11 @@
 2 Kolaghan's Command
 1 Tourach, Dread Cantor
 2 Tourach, Dread Cantor
-1 Watery Grave
 1 Spirebluff Canal
-1 Drown in the Loch
 1 Expressive Iteration
 1 Dress Down
+1 Drown in the Loch
+1 Watery Grave
 1 Steam Vents
 1 Scalding Tarn
 1 Polluted Delta
@@ -59,8 +59,8 @@
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
 4 Seasoned Pyromancer
-1 Pyrite Spellbomb
 1 Darkslick Shores
+1 Pyrite Spellbomb
 1 Snow-Covered Plains
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -88,6 +88,10 @@
 3 Tarmogoyf
 4 Tarmogoyf
 1 Raugrin Triome
+1 Snow-Covered Swamp
+1 Spell Pierce
+2 Snow-Covered Swamp
+3 Dress Down
 2 Plains
 3 Sacred Foundry
 1 Night's Whisper
@@ -95,12 +99,8 @@
 1 Shizo, Death's Storehouse
 2 Terminate
 2 Graven Cairns
-3 Kolaghan's Command
 3 Tourach, Dread Cantor
-1 Snow-Covered Swamp
-1 Spell Pierce
-2 Snow-Covered Swamp
-3 Dress Down
+3 Kolaghan's Command
 1 Savai Triome
 4 Chandra, Dressed to Kill
 1 Dark Confidant
@@ -152,10 +152,10 @@
 2 Copperline Gorge
 2 Cragcrown Pathway
 2 Bonecrusher Giant
-2 Stomping Ground
-2 Hexdrinker
 2 Scavenging Ooze
+2 Hexdrinker
 2 Ignoble Hierarch
+2 Stomping Ground
 2 Atarka's Command
 2 Wooded Foothills
 2 Eidolon of the Great Revel
@@ -170,8 +170,8 @@
 3 Copperline Gorge
 4 Wooded Foothills
 4 Bonecrusher Giant
-4 Stomping Ground
 4 Ignoble Hierarch
+4 Stomping Ground
 4 Eidolon of the Great Revel
 4 Copperline Gorge
 4 Hexdrinker

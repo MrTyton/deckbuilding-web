@@ -56,11 +56,6 @@
 1 Prismari Command
 1 Sprite Dragon
 1 Thud
-1 Snow-Covered Island
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-2 Snow-Covered Island
-3 Snow-Covered Island
 2 Brazen Borrower
 3 Galvanic Iteration
 2 Stormcarved Coast
@@ -74,6 +69,11 @@
 3 Barkchannel Pathway
 3 Young Pyromancer
 3 Cragcrown Pathway
+1 Snow-Covered Mountain
+1 Snow-Covered Island
+2 Snow-Covered Mountain
+2 Snow-Covered Island
+3 Snow-Covered Island
 1 Spell Pierce
 1 Censor
 2 Spell Pierce
@@ -85,8 +85,8 @@
 1 Monastery Mentor
 1 Faithful Mending
 1 Sacred Foundry
-2 Sacred Foundry
 2 Raugrin Triome
+2 Sacred Foundry
 2 Hallowed Fountain
 2 Faithful Mending
 3 Faithful Mending

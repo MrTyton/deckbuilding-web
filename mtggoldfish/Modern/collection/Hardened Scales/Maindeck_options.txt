@@ -1,39 +1,39 @@
-3 Razorverge Thicket
-1 Grove of the Burnwillows
-2 Grove of the Burnwillows
-1 Basilisk Collar
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
+1 Llanowar Reborn
+1 Basilisk Collar
+1 Grove of the Burnwillows
+2 Grove of the Burnwillows
 1 Darksteel Citadel
+4 Spire of Industry
+4 Esper Sentinel
 1 Witch's Oven
 2 Darksteel Citadel
 4 Branchloft Pathway
-4 Spire of Industry
 3 Arcbound Worker
-4 Esper Sentinel
-1 Throne of Geth
 1 Soul-Guide Lantern
+3 Ancient Stirrings
+1 Throne of Geth
+1 Shadowspear
 2 Power Depot
+4 Razorverge Thicket
 4 Ingenious Smith
 1 Arcbound Mouser
 2 Arcbound Mouser
 2 Llanowar Reborn
-1 Shadowspear
-4 Razorverge Thicket
-3 Arcbound Mouser
-3 Ancient Stirrings
 3 Llanowar Reborn
 2 Forest
 1 Blinkmoth Nexus
+1 Steel Overseer
+2 Steel Overseer
 4 Arcbound Worker
 1 Horizon Canopy
 2 Horizon Canopy
+3 Arcbound Mouser
 3 Darksteel Citadel
 4 Darksteel Citadel
 1 Needleverge Pathway
-1 Steel Overseer
-2 Steel Overseer
 1 Cragcrown Pathway
 2 Cragcrown Pathway
 3 Cragcrown Pathway
@@ -44,9 +44,9 @@
 1 Phyrexia's Core
 2 Plains
 2 Springleaf Drum
+4 Welding Jar
 1 Portable Hole
 1 Snakeskin Veil
-1 Pithing Needle
 1 Temple Garden
 2 Temple Garden
 1 Goblin Bombardment
@@ -54,7 +54,6 @@
 1 Luminarch Aspirant
 2 Luminarch Aspirant
 3 Luminarch Aspirant
-4 Welding Jar
 1 Prismatic Ending
 1 Darkbore Pathway
 1 Fatal Push
@@ -70,7 +69,7 @@
 3 Fatal Push
 4 Darkbore Pathway
 4 Llanowar Wastes
-4 Arcbound Mouser
+1 Pithing Needle
 2 Blinkmoth Nexus
 3 Blinkmoth Nexus
 1 Windswept Heath
@@ -87,8 +86,8 @@
 1 Marsh Flats
 1 Idyllic Grange
 1 Sacred Foundry
-2 Arid Mesa
 2 Marsh Flats
+2 Arid Mesa
 1 Wooded Bastion
 1 Metallic Mimic
 2 Metallic Mimic
@@ -100,10 +99,6 @@
 2 Ignoble Hierarch
 3 Ignoble Hierarch
 4 Ignoble Hierarch
-1 Treasure Vault
-2 Treasure Vault
-3 Treasure Vault
-4 Treasure Vault
 1 Karplusan Forest
 1 Stomping Ground
 2 Stomping Ground
@@ -112,3 +107,8 @@
 3 Stomping Ground
 4 Stomping Ground
 4 Llanowar Reborn
+1 Treasure Vault
+2 Treasure Vault
+3 Treasure Vault
+4 Treasure Vault
+4 Arcbound Mouser

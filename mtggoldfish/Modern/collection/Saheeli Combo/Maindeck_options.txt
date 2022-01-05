@@ -1,18 +1,21 @@
-3 Flooded Strand
+3 Ephemerate
+2 Fury
 1 Wall of Omens
 2 Wall of Omens
-1 Hallowed Fountain
 3 Wall of Omens
 1 Arboreal Grazer
 2 Ragavan, Nimble Pilferer
 4 Omnath, Locus of Creation
-4 Ephemerate
-4 Wall of Omens
-3 Ragavan, Nimble Pilferer
 1 Snow-Covered Island
 1 Snow-Covered Plains
-1 Snow-Covered Mountain
+4 Ephemerate
 4 Flooded Strand
+1 Snow-Covered Forest
+2 Snow-Covered Forest
+1 Expressive Iteration
+4 Wall of Omens
+1 Snow-Covered Mountain
+3 Ragavan, Nimble Pilferer
 2 Arboreal Grazer
 1 Indatha Triome
 1 Irrigated Farmland
@@ -20,10 +23,10 @@
 2 Territorial Kavu
 3 Territorial Kavu
 4 Territorial Kavu
-1 Snow-Covered Forest
-2 Snow-Covered Forest
-1 Expressive Iteration
+2 Expressive Iteration
 1 Prismatic Vista
+2 Snow-Covered Plains
+3 Expressive Iteration
 1 Tranquil Thicket
 1 Arid Mesa
 3 Fury
@@ -47,28 +50,25 @@
 3 Fires of Invention
 4 Storm the Festival
 4 Explore
-2 Expressive Iteration
-2 Snow-Covered Plains
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Utopia Sprawl
 4 Utopia Sprawl
-3 Expressive Iteration
 1 Eternal Witness
+1 Ice-Fang Coatl
+2 Ice-Fang Coatl
+3 Ice-Fang Coatl
+4 Ice-Fang Coatl
 1 Endurance
 4 Wooded Foothills
 4 Expressive Iteration
 1 Horizon Canopy
 1 Mountain
+3 Snow-Covered Forest
 1 Birds of Paradise
 2 Birds of Paradise
 3 Birds of Paradise
 4 Birds of Paradise
-3 Snow-Covered Forest
-1 Ice-Fang Coatl
-2 Ice-Fang Coatl
-3 Ice-Fang Coatl
-4 Ice-Fang Coatl
 1 Kiki-Jiki, Mirror Breaker
 1 Eladamri's Call
 1 Scalding Tarn
@@ -93,18 +93,19 @@
 2 Eladamri's Call
 1 Wall of Blossoms
 2 Wall of Blossoms
+2 Snow-Covered Island
 1 Eldritch Evolution
 2 Eldritch Evolution
 2 Hallowed Fountain
-1 Snapcaster Mage
 1 Sulfur Falls
 1 Glacial Fortress
 1 Remand
+1 Snapcaster Mage
 2 Snapcaster Mage
 2 Remand
 3 Remand
-1 Prismari Command
 1 Waterlogged Grove
+1 Prismari Command
 1 Progenitus
 1 Fiery Islet
 2 Prismari Command
@@ -144,7 +145,6 @@
 2 Skyclave Apparition
 1 Lightning Helix
 1 General Ferrous Rokiric
-2 Snow-Covered Island
 2 Snow-Covered Mountain
 2 Lightning Helix
 2 General Ferrous Rokiric
@@ -191,12 +191,16 @@
 2 Fire/Ice
 2 Supreme Verdict
 3 Island
+1 Lotus Cobra
+2 Lotus Cobra
+3 Lotus Cobra
+4 Lotus Cobra
+1 Inspiring Vantage
 1 Batterskull
 1 Stoneforge Mystic
 1 Kaldra Compleat
 1 Sword of Fire and Ice
 1 Flametongue Yearling
-1 Inspiring Vantage
 2 Inspiring Vantage
 2 Stoneforge Mystic
 2 Sacred Foundry

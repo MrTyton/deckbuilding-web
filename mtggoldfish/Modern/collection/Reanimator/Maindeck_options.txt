@@ -1,8 +1,8 @@
-2 Mulldrifter
-4 Prismatic Ending
-3 Priest of Fell Rites
-3 Mulldrifter
 1 Serra's Emissary
+3 Priest of Fell Rites
+1 Mulldrifter
+2 Mulldrifter
+3 Mulldrifter
 2 Hallowed Fountain
 2 Polluted Delta
 3 Polluted Delta
@@ -18,8 +18,8 @@
 3 Arid Mesa
 3 Bloodstained Mire
 1 Wandering Mind
-2 Wandering Mind
 2 Glacial Fortress
+2 Wandering Mind
 3 Wandering Mind
 3 Glacial Fortress
 4 Mulldrifter
@@ -31,14 +31,16 @@
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
-1 Inquisition of Kozilek
-2 Inquisition of Kozilek
-1 Darkslick Shores
-2 Darkslick Shores
 1 Counterspell
 2 Counterspell
 3 Counterspell
 4 Thoughtseize
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
+1 Darkslick Shores
+2 Darkslick Shores
+2 Island
+4 Counterspell
 1 Urborg, Tomb of Yawgmoth
 1 Liliana of the Veil
 1 Fetid Heath
@@ -55,17 +57,17 @@
 4 Flagstones of Trokair
 4 Smallpox
 1 Seachrome Coast
-2 Island
-4 Counterspell
 1 Consider
+2 Consider
+3 Consider
+4 Consider
 1 Jace, Vryn's Prodigy
 1 Thought Scour
-2 Consider
 2 Thought Scour
-3 Consider
 3 Thought Scour
 3 Inquisition of Kozilek
-4 Consider
+1 River of Tears
+1 Mystic Gate
 1 Scalding Tarn
 1 Dwarven Mine
 1 Prismari Command
@@ -87,13 +89,13 @@
 4 Indomitable Creativity
 1 Grave Titan
 2 Plains
+1 Zagoth Triome
 1 Vanishing Verse
 2 Vanishing Verse
 3 Vanishing Verse
 1 Castle Vantress
-1 Mystic Gate
-1 Kaya, Orzhov Usurper
 1 Celestial Colonnade
+1 Kaya, Orzhov Usurper
 1 Drowned Catacomb
 1 Chalice of the Void
 1 Kaya's Guile
@@ -104,7 +106,6 @@
 2 Kaya's Guile
 3 Chalice of the Void
 3 Island
-1 River of Tears
 1 Fact or Fiction
 1 Nephalia Drownyard
 1 Darkblast
@@ -113,19 +114,19 @@
 2 Fact or Fiction
 3 Darkslick Shores
 1 Lightning Bolt
-2 Raugrin Triome
 2 Lightning Bolt
 2 Blood Crypt
 2 Steam Vents
+2 Raugrin Triome
 3 Lightning Bolt
 3 Prismari Command
-4 Lightning Bolt
 4 Prismari Command
-1 Silent Clearing
-1 Castle Locthwain
+4 Lightning Bolt
 1 Malakir Rebirth
+1 Silent Clearing
 1 Bone Shards
 1 Collective Brutality
+1 Castle Locthwain
 1 Castle Ardenvale
 1 Lingering Souls
 1 Cave of the Frost Dragon

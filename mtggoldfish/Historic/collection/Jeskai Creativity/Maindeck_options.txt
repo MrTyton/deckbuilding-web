@@ -1,20 +1,22 @@
 4 Needleverge Pathway
 4 Spirebluff Canal
 2 Mountain
-2 Island
 4 Unexpected Windfall
+2 Island
 3 Mountain
+1 Valakut Awakening
 4 Mountain
+1 Sulfur Falls
+2 Sulfur Falls
 3 Fire Prophecy
 4 Fire Prophecy
-1 Valakut Awakening
+1 The Locust God
+1 Sage of the Falls
 4 Prismari Command
 1 Flame-Blessed Bolt
 2 Flame-Blessed Bolt
-1 Sulfur Falls
-2 Sulfur Falls
-1 The Locust God
-1 Sage of the Falls
+3 Sulfur Falls
+3 Expressive Iteration
 1 Stormcarved Coast
 1 Hall of Storm Giants
 2 Hall of Storm Giants
@@ -22,26 +24,25 @@
 3 Riverglide Pathway
 3 Island
 4 Riverglide Pathway
-3 Sulfur Falls
-3 Expressive Iteration
+4 Sulfur Falls
 1 Silundi Vision
 2 Pact of Negation
-1 Unsubstantiate
 1 Strike It Rich
-2 Stormcarved Coast
+4 Expressive Iteration
+1 Shark Typhoon
+1 Unsubstantiate
 2 Unsubstantiate
+2 Stormcarved Coast
 3 Valakut Awakening
 3 Stormcarved Coast
 4 Valakut Awakening
 4 Stormcarved Coast
-1 Shark Typhoon
-4 Sulfur Falls
-4 Expressive Iteration
-1 Fabled Passage
-2 Fabled Passage
 1 Dwarven Mine
 2 Dwarven Mine
 3 Dwarven Mine
+1 Fabled Passage
+2 Fabled Passage
+4 Dwarven Mine
 1 Censor
 2 Censor
 3 Censor
@@ -49,7 +50,6 @@
 2 Aether Gust
 3 Flame-Blessed Bolt
 2 Shark Typhoon
-4 Dwarven Mine
 4 Mizzix's Mastery
 3 Fabled Passage
 4 Censor
@@ -72,24 +72,44 @@
 4 Torrential Gearhulk
 1 Sweltering Suns
 1 Bonecrusher Giant
+1 Blightstep Pathway
 1 Divide by Zero
 2 Divide by Zero
 3 Divide by Zero
-1 Opt
-1 Scorching Dragonfire
-1 Miscast
-1 Ketria Triome
-2 Opt
-2 Ketria Triome
-3 Opt
-4 Opt
+1 Play with Fire
+1 Boon of the Wish-Giver
+1 Ionize
+1 Lightning Strike
+1 Exclude
+2 Play with Fire
+2 Bonecrusher Giant
+2 Ionize
+2 Mystical Dispute
+3 Bonecrusher Giant
+4 Spikefield Hazard
+4 Island
+1 Nicol Bolas, the Ravager
+1 Haunted Ridge
+1 Fetid Pools
+1 Kroxa, Titan of Death's Hunger
+1 Clearwater Pathway
+1 Fatal Push
+2 Nicol Bolas, the Ravager
+2 Blightstep Pathway
+2 Clearwater Pathway
+2 Fetid Pools
+2 Fatal Push
+3 Blightstep Pathway
+3 Clearwater Pathway
+4 Clearwater Pathway
+4 Blightstep Pathway
 1 Clifftop Retreat
-1 Settle the Wreckage
 1 Negate
+1 Plains
+1 Baffling End
+1 Settle the Wreckage
 1 Hallowed Fountain
 1 Lightning Helix
-1 Baffling End
-1 Plains
 2 Clifftop Retreat
 2 Lightning Helix
 3 Clifftop Retreat
@@ -97,43 +117,36 @@
 2 Archmage's Charm
 3 Archmage's Charm
 4 Fabled Passage
-4 Archmage's Charm
 4 Aether Gust
-1 Play with Fire
-1 Ionize
-1 Lightning Strike
-1 Exclude
-1 Boon of the Wish-Giver
-2 Bonecrusher Giant
-2 Play with Fire
-2 Ionize
-2 Mystical Dispute
-3 Bonecrusher Giant
-4 Spikefield Hazard
-4 Island
+4 Archmage's Charm
 1 Volatile Fjord
-1 Fading Hope
 1 Cinderclasm
+1 Fading Hope
 1 Seize the Spoils
 2 Seize the Spoils
 3 Seize the Spoils
 4 Seize the Spoils
-1 Nicol Bolas, the Ravager
-1 Fetid Pools
-1 Kroxa, Titan of Death's Hunger
-1 Haunted Ridge
-1 Blightstep Pathway
-1 Clearwater Pathway
-1 Fatal Push
-2 Fatal Push
-2 Nicol Bolas, the Ravager
-2 Blightstep Pathway
-2 Clearwater Pathway
-2 Fetid Pools
-3 Blightstep Pathway
-3 Clearwater Pathway
-4 Clearwater Pathway
-4 Blightstep Pathway
+1 Scorching Dragonfire
+1 Miscast
+1 Opt
+1 Ketria Triome
+2 Opt
+2 Ketria Triome
+3 Opt
+4 Opt
+1 Inquisition of Kozilek
+1 Blood Crypt
+1 Watery Grave
+2 Strike It Rich
+2 Inquisition of Kozilek
+2 Watery Grave
+2 Blood Crypt
+3 Strike It Rich
+3 Inquisition of Kozilek
+3 Blood Crypt
+4 Inquisition of Kozilek
+4 Strike It Rich
+4 Blood Crypt
 1 Forbidden Friendship
 2 Silundi Vision
 2 Forbidden Friendship
