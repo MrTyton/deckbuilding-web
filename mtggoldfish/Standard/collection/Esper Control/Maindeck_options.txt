@@ -51,11 +51,11 @@
 3 Behold the Multiverse
 2 Soul Shatter
 2 Duress
-1 Snow-Covered Swamp
 1 Snow-Covered Plains
 1 Snow-Covered Island
-2 Snow-Covered Swamp
+1 Snow-Covered Swamp
 2 Snow-Covered Island
+2 Snow-Covered Swamp
 2 Saw It Coming
 2 Hive of the Eye Tyrant
 3 Nighthawk Scavenger
@@ -80,9 +80,9 @@
 2 Wedding Announcement
 3 Wedding Announcement
 4 Wedding Announcement
-1 Feed the Swarm
 1 Honored Heirloom
 1 Pelakka Predation
+1 Feed the Swarm
 3 Soul Shatter
 1 Baleful Mastery
 1 Professor Onyx
@@ -98,20 +98,20 @@
 1 Letter of Acceptance
 1 Concealing Curtains
 1 You Find the Villains' Lair
-2 Hagra Mauling
-1 Malakir Rebirth
-2 Malakir Rebirth
 1 Reidane, God of the Worthy
 2 Reidane, God of the Worthy
 1 Silverquill Campus
 1 Flunk
 1 Dissipate
 2 Dissipate
+2 Hagra Mauling
+1 Malakir Rebirth
+2 Malakir Rebirth
+3 Saw It Coming
+3 Consider
 1 Sedgemoor Witch
 2 Sedgemoor Witch
 3 Sedgemoor Witch
-3 Saw It Coming
-3 Consider
 1 Parasitic Grasp
 1 Blot Out the Sky
 1 Toxrill, the Corrosive
@@ -127,18 +127,6 @@
 2 Elite Spellbinder
 3 Elite Spellbinder
 3 Strict Proctor
-1 Sea Gate Restoration
-1 Gates of Istfell
-2 Baleful Mastery
-3 Doomskar
-3 Baleful Mastery
-4 Doomskar
-1 Blood on the Snow
-3 Go Blank
-4 Jwari Disruption
-4 Field of Ruin
-4 Fading Hope
-4 Memory Deluge
 1 Valki, God of Lies
 1 Mountain
 1 The Trickster-God's Heist
@@ -149,20 +137,32 @@
 3 The Trickster-God's Heist
 4 Sunset Revelry
 4 Sorin the Mirthless
+1 Sea Gate Restoration
+1 Gates of Istfell
+2 Baleful Mastery
+3 Doomskar
+3 Baleful Mastery
+4 Doomskar
 2 Ice Tunnel
 3 Shineshadow Snarl
-3 Snow-Covered Swamp
 3 Snow-Covered Island
+3 Snow-Covered Swamp
 3 Ice Tunnel
 4 Ice Tunnel
+1 Blood on the Snow
+3 Go Blank
+4 Jwari Disruption
+4 Field of Ruin
+4 Fading Hope
+4 Memory Deluge
 1 Delver of Secrets
-1 Revitalize
 1 Alrund's Epiphany
 1 The Raven's Warning
 1 Teferi, Who Slows the Sunset
-2 Revitalize
+1 Revitalize
 2 Alrund's Epiphany
 2 The Raven's Warning
+2 Revitalize
 2 Delver of Secrets
 3 Kaya the Inexorable
 3 Alrund's Epiphany

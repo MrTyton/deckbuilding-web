@@ -1,13 +1,11 @@
 1 Spikefield Hazard
-2 Lightning Strike
 1 Chandra, Dressed to Kill
 2 Chandra, Dressed to Kill
+2 Lightning Strike
 1 Monastery Swiftspear
 2 Monastery Swiftspear
 3 Monastery Swiftspear
 4 Monastery Swiftspear
-3 Lightning Strike
-4 Lightning Strike
 3 Chandra, Dressed to Kill
 2 Spikefield Hazard
 3 Spikefield Hazard
@@ -17,6 +15,8 @@
 3 Light Up the Stage
 4 Light Up the Stage
 4 Chandra, Dressed to Kill
+3 Lightning Strike
+4 Lightning Strike
 1 Glorybringer
 2 Glorybringer
 3 Glorybringer
@@ -25,10 +25,10 @@
 3 Lava Coil
 4 Lava Coil
 1 Zurgo Bellstriker
+1 Kari Zev, Skyship Raider
 1 Mizzium Mortars
 2 Mizzium Mortars
 1 Castle Embereth
-1 Kari Zev, Skyship Raider
 2 Kari Zev, Skyship Raider
 1 Mutavault
 2 Mutavault
@@ -41,6 +41,7 @@
 1 Wild Slash
 1 Reckless Impulse
 3 Skewer the Critics
+3 Torbran, Thane of Red Fell
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
@@ -53,7 +54,6 @@
 4 Ghitu Lavarunner
 2 Reckless Impulse
 4 Skewer the Critics
-3 Torbran, Thane of Red Fell
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 3 Reckless Impulse

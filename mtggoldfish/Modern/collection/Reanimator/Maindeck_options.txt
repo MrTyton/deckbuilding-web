@@ -20,8 +20,8 @@
 1 Wandering Mind
 2 Glacial Fortress
 2 Wandering Mind
-3 Wandering Mind
 3 Glacial Fortress
+3 Wandering Mind
 4 Mulldrifter
 4 Arid Mesa
 4 Priest of Fell Rites
@@ -70,11 +70,11 @@
 1 Mystic Gate
 1 Scalding Tarn
 1 Dwarven Mine
+1 Raugrin Triome
 1 Prismari Command
 1 Blood Crypt
 1 Hard Evidence
 1 Indomitable Creativity
-1 Raugrin Triome
 2 Prismari Command
 2 Hard Evidence
 2 Dwarven Mine
@@ -93,17 +93,17 @@
 1 Vanishing Verse
 2 Vanishing Verse
 3 Vanishing Verse
-1 Castle Vantress
-1 Celestial Colonnade
-1 Kaya, Orzhov Usurper
 1 Drowned Catacomb
+1 Kaya, Orzhov Usurper
 1 Chalice of the Void
 1 Kaya's Guile
+1 Castle Vantress
 1 Gifts Ungiven
-2 Mystic Gate
+1 Celestial Colonnade
 2 Drowned Catacomb
 2 Chalice of the Void
 2 Kaya's Guile
+2 Mystic Gate
 3 Chalice of the Void
 3 Island
 1 Fact or Fiction
@@ -120,14 +120,24 @@
 2 Raugrin Triome
 3 Lightning Bolt
 3 Prismari Command
-4 Prismari Command
 4 Lightning Bolt
+4 Prismari Command
+1 Fire/Ice
+1 Nahiri, the Harbinger
+1 Wooded Foothills
+2 Fire/Ice
+2 Nahiri, the Harbinger
+2 Wooded Foothills
+3 Fire/Ice
+3 Wooded Foothills
+4 Fire/Ice
+4 Dwarven Mine
 1 Malakir Rebirth
 1 Silent Clearing
+1 Castle Ardenvale
 1 Bone Shards
 1 Collective Brutality
 1 Castle Locthwain
-1 Castle Ardenvale
 1 Lingering Souls
 1 Cave of the Frost Dragon
 1 Cataclysmic Gearhulk
@@ -138,15 +148,5 @@
 3 Swamp
 3 Godless Shrine
 3 Lingering Souls
-4 Godless Shrine
 4 Lingering Souls
-1 Fire/Ice
-1 Wooded Foothills
-1 Nahiri, the Harbinger
-2 Fire/Ice
-2 Nahiri, the Harbinger
-2 Wooded Foothills
-3 Wooded Foothills
-3 Fire/Ice
-4 Fire/Ice
-4 Dwarven Mine
+4 Godless Shrine
