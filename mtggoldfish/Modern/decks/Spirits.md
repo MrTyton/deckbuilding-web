@@ -114,7 +114,7 @@
 |                    2|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)                |                     |                                                                                                      |
 |                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)     |                     |                                                                                                      |
 |                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)            |                     |                                                                                                      |
-|                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)            |                     |                                                                                                      |
 |                    4|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)         |                     |                                                                                                      |
+|                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)            |                     |                                                                                                      |
 |                    4|[Spectral Sailor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466830)          |                     |                                                                                                      |
 
