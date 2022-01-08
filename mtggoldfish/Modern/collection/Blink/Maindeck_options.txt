@@ -1,20 +1,19 @@
-1 Teferi, Hero of Dominaria
-1 Scalding Tarn
-1 Sheltered Thicket
+3 Lightning Bolt
 1 Unholy Heat
+1 Scalding Tarn
+2 Force of Negation
 3 Counterspell
 1 Time Warp
 1 Reflecting Pool
-2 Force of Negation
+1 Sheltered Thicket
 3 Fury
 3 Wooded Foothills
-4 Ephemerate
-1 Tranquil Thicket
-2 Scalding Tarn
 1 Prismatic Vista
+3 Force of Negation
+4 Ephemerate
 4 Counterspell
 1 Supreme Verdict
-3 Force of Negation
+2 Prismatic Vista
 1 On Thin Ice
 1 Glacial Floodplain
 1 Archmage's Charm
@@ -27,8 +26,6 @@
 4 Archmage's Charm
 1 Jace, the Mind Sculptor
 2 Supreme Verdict
-1 Dovin's Veto
-1 Lightning Helix
 1 Prairie Stream
 1 Mystic Gate
 1 Castle Vantress
@@ -36,16 +33,17 @@
 2 Jace, the Mind Sculptor
 2 Mystic Gate
 2 Castle Vantress
-2 Prismatic Vista
 3 Prismatic Vista
 3 Supreme Verdict
 3 Teferi, Hero of Dominaria
 3 Jace, the Mind Sculptor
 3 Mystic Gate
 4 Prismatic Vista
-1 Endurance
-1 Wall of Omens
-2 Wall of Omens
+1 Tranquil Thicket
+2 Scalding Tarn
+1 Memory Deluge
+1 Dovin's Veto
+1 Lightning Helix
 1 Skyclave Apparition
 1 Plains
 2 Plains
@@ -95,14 +93,17 @@
 3 Emeria's Call
 4 Silent Clearing
 4 Godless Shrine
+2 Unholy Heat
 3 Scalding Tarn
 4 Wooded Foothills
-1 Arid Mesa
-2 Arid Mesa
+1 Endurance
+1 Wall of Omens
+2 Wall of Omens
 1 Kaya's Guile
 2 Kaya's Guile
-1 Memory Deluge
 4 Lightning Bolt
+1 Arid Mesa
+2 Arid Mesa
 3 Arid Mesa
 4 Arid Mesa
 2 Hallowed Fountain
@@ -113,19 +114,19 @@
 3 Skyclave Apparition
 5 Plains
 6 Plains
+1 Glacial Fortress
 1 Restoration Angel
 1 Phantasmal Image
 1 Sun Titan
 1 Field of Ruin
 1 Thraben Inspector
-1 Glacial Fortress
 1 Celestial Colonnade
 1 Walking Ballista
 1 Island
 1 Cavern of Souls
 1 Ranger-Captain of Eos
-2 Restoration Angel
 2 Glacial Fortress
+2 Restoration Angel
 2 Field of Ruin
 2 Celestial Colonnade
 2 Thraben Inspector
@@ -149,42 +150,29 @@
 4 Skyclave Apparition
 4 Ranger-Captain of Eos
 4 Fury
-2 Unholy Heat
+1 Utopia Sprawl
+1 Faithful Mending
+2 Faithful Mending
+3 Unholy Heat
+4 Unholy Heat
 4 Eternal Witness
 1 Knight of Autumn
 2 Time Warp
-1 Utopia Sprawl
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
 3 Eladamri's Call
 1 Indatha Triome
 1 Callous Bloodmage
 1 Tourach, Dread Cantor
 1 Lonely Sandbar
+1 Traverse the Ulvenwald
+1 Dress Down
 1 Path to Exile
 1 Emrakul, the Promised End
 1 Wandering Mind
 1 Oath of Nissa
 1 Ghost Quarter
+1 Mishra's Bauble
+2 Mishra's Bauble
 3 Cavern of Souls
-1 Magus of the Moon
-1 Chord of Calling
-1 Seasoned Pyromancer
-1 Deputy of Detention
-2 Utopia Sprawl
-2 Seasoned Pyromancer
-2 Chord of Calling
-3 Utopia Sprawl
-3 Chord of Calling
-3 Seasoned Pyromancer
-4 Utopia Sprawl
-1 Faithful Mending
-1 Dress Down
-1 Traverse the Ulvenwald
-2 Faithful Mending
-3 Unholy Heat
-4 Unholy Heat
 4 Jace, the Mind Sculptor
 1 Verdant Catacombs
 1 Fatal Push
@@ -197,10 +185,10 @@
 1 Forest
 1 Blooming Marsh
 2 Concealed Courtyard
-2 Verdant Catacombs
 2 Grist, the Hunger Tide
-2 Fatal Push
+2 Verdant Catacombs
 2 Razorverge Thicket
+2 Fatal Push
 2 Tarmogoyf
 3 Concealed Courtyard
 3 Marsh Flats
@@ -212,9 +200,12 @@
 1 Savai Triome
 1 Bring to Light
 1 Renegade Rallier
+1 Ragavan, Nimble Pilferer
 2 Renegade Rallier
 2 Bring to Light
+2 Ragavan, Nimble Pilferer
 3 Renegade Rallier
+3 Ragavan, Nimble Pilferer
 3 Bring to Light
 4 Renegade Rallier
 4 Bring to Light
@@ -235,29 +226,29 @@
 4 Cryptic Command
 4 Coiling Oracle
 5 Snow-Covered Island
-1 Ambitious Farmhand
 1 Sunbaked Canyon
 1 Welcoming Vampire
 1 Castle Ardenvale
 1 Shadowspear
 1 Urza's Saga
-1 Aether Vial
+1 Ambitious Farmhand
 1 Lurrus of the Dream-Den
+1 Aether Vial
 1 Giver of Runes
 1 Blast Zone
 1 Horizon Canopy
 1 Mishra's Factory
-2 Ambitious Farmhand
 2 Sunbaked Canyon
 2 Welcoming Vampire
 2 Urza's Saga
+2 Ambitious Farmhand
 2 Lurrus of the Dream-Den
 2 Aether Vial
 2 Blast Zone
 2 Mishra's Factory
 2 Giver of Runes
-3 Ambitious Farmhand
 3 Welcoming Vampire
+3 Ambitious Farmhand
 3 Aether Vial
 3 Giver of Runes
 3 Blast Zone

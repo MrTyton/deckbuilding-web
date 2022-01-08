@@ -52,11 +52,11 @@
 2 Dovin's Veto
 3 Portable Hole
 3 Fateful Absence
+1 Lotus Field
 1 Stifle
 1 Discontinuity
-1 Lotus Field
-2 Discontinuity
 2 Lotus Field
+2 Discontinuity
 3 Lotus Field
 4 Lotus Field
 1 Rest in Peace
@@ -88,10 +88,6 @@
 1 Elspeth Conquers Death
 1 Approach of the Second Sun
 2 Cave of the Frost Dragon
-1 Syncopate
-2 Syncopate
-3 Syncopate
-3 Memory Deluge
 1 Glacial Floodplain
 2 Glacial Floodplain
 3 Glacial Floodplain
@@ -111,10 +107,10 @@
 3 Settle the Wreckage
 3 Augur of Bolas
 3 Alrund, God of the Cosmos
-1 Torrential Gearhulk
-2 Commit/Memory
-2 Pact of Negation
-4 Doomskar
+1 Syncopate
+2 Syncopate
+3 Memory Deluge
+3 Syncopate
 1 Shatter the Sky
 1 Frantic Inventory
 1 Realm-Cloaked Giant
@@ -132,6 +128,10 @@
 3 Hullbreaker Horror
 4 Stifle
 4 Sphinx's Revelation
+1 Torrential Gearhulk
+2 Pact of Negation
+2 Commit/Memory
+4 Doomskar
 1 Declaration in Stone
 2 Declaration in Stone
 4 Divine Purge
@@ -143,8 +143,8 @@
 1 Neutralize
 2 Neutralize
 4 Brazen Borrower
-1 Gates of Istfell
 1 Blast Zone
+1 Gates of Istfell
 5 Plains
 1 Mana Tithe
 2 Seal Away

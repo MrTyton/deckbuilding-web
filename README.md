@@ -4,11 +4,10 @@
 
 # Standard
 
-|                                A                                 |                               B                                |                                   C                                    |                                D                                 |
-|------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------|
-|[Abzan Sacrifice](./mtggoldfish/Standard/decks/Abzan_Sacrifice.md)|[Grixis Control](./mtggoldfish/Standard/decks/Grixis_Control.md)|[Jund Midrange](./mtggoldfish/Standard/decks/Jund_Midrange.md)          |[Naya Aggro](./mtggoldfish/Standard/decks/Naya_Aggro.md)          |
-|[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)    |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)  |[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)    |[Orzhov Control](./mtggoldfish/Standard/decks/Orzhov_Control.md)  |
-|[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)    |[Izzet Dragons](./mtggoldfish/Standard/decks/Izzet_Dragons.md)  |[Mono-White Aggro ️](./mtggoldfish/Standard/decks/Mono-White_Aggro_️.md)|[Orzhov Midrange](./mtggoldfish/Standard/decks/Orzhov_Midrange.md)|
+|                                A                                 |                              B                               |                                 C                                  |                                   D                                    |                                E                                 |
+|------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------|
+|[Abzan Sacrifice](./mtggoldfish/Standard/decks/Abzan_Sacrifice.md)|[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)|[Izzet Dragons](./mtggoldfish/Standard/decks/Izzet_Dragons.md)      |[Mono-White Aggro ️](./mtggoldfish/Standard/decks/Mono-White_Aggro_️.md)|[Orzhov Midrange](./mtggoldfish/Standard/decks/Orzhov_Midrange.md)|
+|[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)    |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)|[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)|[Naya Aggro](./mtggoldfish/Standard/decks/Naya_Aggro.md)                |                                                                  |
 
 
 # Historic
@@ -67,4 +66,4 @@
 
 
 
-#### Last Updated at 12:22AM on January 08, 2022
+#### Last Updated at 12:20PM on January 08, 2022
