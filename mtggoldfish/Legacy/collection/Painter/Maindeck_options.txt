@@ -1,23 +1,24 @@
-1 Plateau
-1 Ethersworn Canonist
-2 Mox Opal
-8 Mountain
+3 Mox Opal
+2 Imperial Recruiter
+3 Imperial Recruiter
 4 Great Furnace
+8 Mountain
+1 Ethersworn Canonist
 1 Blood Moon
 2 Plateau
-2 Red Elemental Blast
-3 Mox Opal
-1 Enlightened Tutor
 1 Bloodstained Mire
 2 Bloodstained Mire
+1 Smuggler's Copter
+1 Enlightened Tutor
 1 Wooded Foothills
 2 Wooded Foothills
+2 Red Elemental Blast
 1 Goblin Cratermaker
 4 Imperial Recruiter
+1 Breya's Apprentice
 3 Karn, the Great Creator
-1 Smuggler's Copter
-1 Shadowspear
 1 Mishra's Bauble
+4 Mox Opal
 1 Island
 1 Seat of the Synod
 1 Force of Will
@@ -26,106 +27,90 @@
 4 Force of Will
 2 Mishra's Bauble
 3 Mishra's Bauble
-4 Mox Opal
 2 Seat of the Synod
 3 Seat of the Synod
 4 Seat of the Synod
 1 Urza, Lord High Artificer
 1 Emry, Lurker of the Loch
-2 Emry, Lurker of the Loch
 2 Island
+2 Emry, Lurker of the Loch
 3 Emry, Lurker of the Loch
 4 Emry, Lurker of the Loch
-1 Breya's Apprentice
+1 Ichor Wellspring
 2 Ensnaring Bridge
+1 Shadowspear
+1 Wurmcoil Engine
 1 Urza's Bauble
 2 Urza's Bauble
 3 Urza's Bauble
+1 Chromatic Star
+2 Chromatic Star
 3 Island
 1 Thought Monitor
 2 Thought Monitor
 3 Thought Monitor
 2 Simian Spirit Guide
-1 Ichor Wellspring
+1 Trinisphere
 1 Magus of the Moon
-1 Wurmcoil Engine
 4 Grindstone
+3 Chromatic Star
+4 Chromatic Star
 4 Island
 4 Thought Monitor
-2 Enlightened Tutor
+1 Arid Mesa
+2 Arid Mesa
 1 Brainstorm
 2 Brainstorm
 3 Brainstorm
 4 Brainstorm
-1 Portable Hole
-1 Oswald Fiddlebender
-1 Plains
-1 Ancient Den
-2 Oswald Fiddlebender
 1 Thoughtcast
 1 Sai, Master Thopterist
 2 Thoughtcast
 3 Thoughtcast
 4 Mishra's Bauble
 4 Thoughtcast
-1 Trinisphere
-1 Chromatic Star
-2 Chromatic Star
-3 Chromatic Star
-4 Chromatic Star
 9 Mountain
+2 Breya's Apprentice
 2 Urza, Lord High Artificer
 3 Urza, Lord High Artificer
 1 Polluted Delta
 1 Preordain
-2 Polluted Delta
 2 Preordain
+2 Polluted Delta
 3 Preordain
-1 Arid Mesa
-2 Arid Mesa
-3 Arid Mesa
-4 Karn, the Great Creator
+3 City of Traitors
+1 Pyrite Spellbomb
+1 Badlands
+1 Wishclaw Talisman
+2 Badlands
+2 Wishclaw Talisman
+3 Wishclaw Talisman
 1 Misty Rainforest
 2 Misty Rainforest
-1 Crucible of Worlds
-2 Plains
-3 Plains
-3 Oswald Fiddlebender
-1 Wasteland
-1 Esper Sentinel
-2 Esper Sentinel
-1 Karakas
-2 Karakas
-2 Ethersworn Canonist
-2 Wasteland
-2 Ancient Den
-3 Ancient Den
-3 Wasteland
-4 Oswald Fiddlebender
-4 Wasteland
-4 Plains
-4 Ancient Den
-5 Plains
-6 Plains
-3 Wooded Foothills
+3 Arid Mesa
+1 Scalding Tarn
+2 Scalding Tarn
+1 Portable Hole
+1 Oswald Fiddlebender
+1 Plains
+1 Ancient Den
+2 Oswald Fiddlebender
 4 Urza, Lord High Artificer
 2 Sai, Master Thopterist
 3 Sai, Master Thopterist
-2 Breya's Apprentice
+4 Karn, the Great Creator
 1 Bolas's Citadel
-4 Arid Mesa
-1 Phyrexian Revoker
-1 Mother of Runes
-1 Ingenious Smith
-2 Ingenious Smith
-2 Mother of Runes
-3 Esper Sentinel
-3 Mother of Runes
-3 Ingenious Smith
-4 Esper Sentinel
-4 Ingenious Smith
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+3 Bloodstained Mire
+4 Bloodstained Mire
+1 Nihil Spellbomb
+1 Auriok Salvagers
+2 Lion's Eye Diamond
+3 Badlands
+3 Lion's Eye Diamond
+4 Lion's Eye Diamond
 2 Blood Moon
-3 City of Traitors
 3 Blood Moon
 4 City of Traitors
 4 Blood Moon
@@ -133,22 +118,27 @@
 1 Tundra
 1 Flooded Strand
 2 Flooded Strand
-2 Portable Hole
-3 Portable Hole
-1 Pyrite Spellbomb
+2 Enlightened Tutor
+4 Arid Mesa
 1 Snow-Covered Island
 1 Tormod's Crypt
-1 Scalding Tarn
+3 Scalding Tarn
 1 Volcanic Island
-2 Scalding Tarn
+1 Crucible of Worlds
+3 Oswald Fiddlebender
+1 Esper Sentinel
+2 Esper Sentinel
+2 Plains
+3 Plains
+1 Wasteland
 1 Misdirection
 3 Breya's Apprentice
 4 Breya's Apprentice
 1 Snow-Covered Forest
-1 Tropical Island
 1 Tarmogoyf
 1 Force of Negation
 1 Endurance
+1 Tropical Island
 1 Expressive Iteration
 1 Ponder
 1 Taiga
@@ -166,42 +156,37 @@
 3 Endurance
 3 Misty Rainforest
 3 Uro, Titan of Nature's Wrath
-3 Scalding Tarn
 3 Ponder
 4 Ponder
+1 Swamp
+1 Entomb
 1 Welding Jar
 1 Chandra, Torch of Defiance
+1 Ornithopter
+1 Tangle Wire
+1 Coveted Jewel
 2 Snow-Covered Island
 1 Transmute Artifact
 2 Tundra
-1 Chrome Courier
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
 2 Smuggler's Copter
-3 Red Elemental Blast
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
+3 Wooded Foothills
+1 Teferi, Time Raveler
+1 Chrome Courier
+2 Portable Hole
+2 Teferi, Time Raveler
+3 Portable Hole
 3 Ragavan, Nimble Pilferer
+3 Red Elemental Blast
 1 Cavern of Souls
 1 Rest in Peace
 1 Chrome Mox
 2 Chrome Mox
 3 Enlightened Tutor
-1 Horizon Canopy
-2 Horizon Canopy
-4 Mother of Runes
-1 Expedition Map
-1 Timeless Dragon
-1 Flagstones of Trokair
-2 Timeless Dragon
-2 Flagstones of Trokair
-3 Timeless Dragon
-4 Portable Hole
 1 Underground Sea
 1 Baleful Strix
+1 Relic of Progenitus
 1 Hydroblast
 1 Tezzeret, Agent of Bolas
-1 Relic of Progenitus
 2 Underground Sea
 2 Baleful Strix
 2 Hydroblast
@@ -214,32 +199,39 @@
 4 Polluted Delta
 4 Baleful Strix
 4 Hydroblast
+1 Meekstone
+4 Scalding Tarn
 1 Aether Vial
 2 Aether Vial
 3 Simian Spirit Guide
 3 Aether Vial
 4 Aether Vial
-1 Badlands
-1 Wishclaw Talisman
-1 Nihil Spellbomb
-1 Ornithopter
-1 Auriok Salvagers
-1 Tangle Wire
-1 Coveted Jewel
-2 Badlands
-2 Wishclaw Talisman
-2 Lion's Eye Diamond
-3 Bloodstained Mire
-3 Badlands
-3 Wishclaw Talisman
-3 Lion's Eye Diamond
-4 Bloodstained Mire
-4 Lion's Eye Diamond
-1 Hope of Ghirapur
-3 Ethersworn Canonist
-7 Plains
-8 Plains
-9 Plains
+1 Horizon Canopy
+1 Phyrexian Revoker
+1 Karakas
+1 Mother of Runes
+1 Ingenious Smith
+2 Horizon Canopy
+2 Karakas
+2 Ethersworn Canonist
+2 Wasteland
+2 Ingenious Smith
+2 Ancient Den
+2 Mother of Runes
+3 Esper Sentinel
+3 Ancient Den
+3 Mother of Runes
+3 Wasteland
+3 Ingenious Smith
+4 Oswald Fiddlebender
+4 Mother of Runes
+4 Wasteland
+4 Esper Sentinel
+4 Plains
+4 Ancient Den
+4 Ingenious Smith
+5 Plains
+6 Plains
 1 Daretti, Scrap Savant
 2 Magus of the Moon
 3 Magus of the Moon

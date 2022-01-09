@@ -35,9 +35,9 @@
 
 |*n*<sup>th</sup> copy|                                             Maindeck Card                                             |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|-------------------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    2|[Time Wipe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461150)                   |                     |              |
 |                    1|[Teferi, Who Slows the Sunset](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535041)|                     |              |
 |                    1|Key to the Archive                                                                                     |                     |              |
-|                    2|Key to the Archive                                                                                     |                     |              |
 |                    2|[Teferi, Who Slows the Sunset](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535041)|                     |              |
+|                    2|Key to the Archive                                                                                     |                     |              |
+|                    2|[Time Wipe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461150)                   |                     |              |
 

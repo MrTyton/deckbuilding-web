@@ -1,21 +1,22 @@
 1 Thoughtseize
 1 Arid Mesa
-4 Concealed Courtyard
 2 Flooded Strand
-2 Windswept Heath
+1 Horizon Canopy
 1 Snow-Covered Plains
 2 Snow-Covered Plains
+2 Windswept Heath
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 1 Mishra's Bauble
 2 Mishra's Bauble
 2 Thoughtseize
+4 Inkmoth Nexus
+1 Ingenious Smith
+2 Ingenious Smith
 2 Marsh Flats
 1 Steelshaper's Gift
 3 Thoughtseize
-1 Ingenious Smith
-2 Ingenious Smith
-4 Inkmoth Nexus
+3 Ingenious Smith
 1 Hallowed Fountain
 1 Seachrome Coast
 1 Kaldra Compleat
@@ -23,6 +24,7 @@
 1 Nettlecyst
 2 Seachrome Coast
 3 Seachrome Coast
+4 Ingenious Smith
 1 Burrenton Forge-Tender
 2 Burrenton Forge-Tender
 3 Windswept Heath
@@ -33,12 +35,17 @@
 2 Dark Confidant
 1 Blacksmith's Skill
 2 Hallowed Fountain
-3 Ingenious Smith
 3 Mishra's Bauble
-2 Horizon Canopy
-3 Horizon Canopy
 1 Sanctifier en-Vec
 2 Sanctifier en-Vec
+2 Blacksmith's Skill
+1 Portable Hole
+5 Plains
+3 Marsh Flats
+4 Marsh Flats
+1 Giver of Runes
+2 Horizon Canopy
+3 Horizon Canopy
 1 Temple Garden
 1 Relic of Progenitus
 1 Razorverge Thicket
@@ -50,13 +57,6 @@
 3 Razorverge Thicket
 4 Razorverge Thicket
 4 Ancient Stirrings
-2 Blacksmith's Skill
-4 Ingenious Smith
-1 Portable Hole
-5 Plains
-3 Marsh Flats
-4 Marsh Flats
-1 Giver of Runes
 1 Pithing Needle
 2 Portable Hole
 6 Plains
@@ -79,8 +79,8 @@
 4 Arid Mesa
 1 Prismatic Ending
 2 Godless Shrine
-3 Dark Confidant
 3 Portable Hole
+3 Dark Confidant
 1 Island
 1 Razortide Bridge
 1 Sword of Feast and Famine
@@ -121,6 +121,6 @@
 3 Inspiring Vantage
 4 Ragavan, Nimble Pilferer
 4 Inspiring Vantage
-11 Snow-Covered Plains
 10 Plains
 11 Plains
+11 Snow-Covered Plains

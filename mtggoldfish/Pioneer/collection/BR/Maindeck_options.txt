@@ -27,17 +27,17 @@
 1 Dragonskull Summit
 3 Mountain
 1 Fiery Temper
-1 Shrapnel Blast
 1 Sanguine Statuette
+1 Shrapnel Blast
 1 Voldaren Epicure
 1 Vampire's Kiss
 2 Fiery Temper
+2 Sanguine Statuette
 2 Shrapnel Blast
 2 Voldaren Epicure
-2 Sanguine Statuette
 2 Vampire's Kiss
-3 Fiery Temper
 3 Sanguine Statuette
+3 Fiery Temper
 3 Vampire's Kiss
 3 Shrapnel Blast
 3 Voldaren Epicure
@@ -72,11 +72,13 @@
 2 Lava Coil
 2 Blood Baron of Vizkopa
 3 Blood Baron of Vizkopa
-1 Duress
 1 Anger of the Gods
-1 Heartless Act
 1 Electric Revelation
+1 Heartless Act
+1 Duress
 3 Sorin the Mirthless
+3 Magmatic Channeler
+4 Magmatic Channeler
 1 Mana Confluence
 1 Voldaren Estate
 1 Vampire Socialite
@@ -86,8 +88,6 @@
 2 Falkenrath Gorger
 3 Falkenrath Gorger
 4 Falkenrath Gorger
-3 Magmatic Channeler
-4 Magmatic Channeler
 1 Deadly Dispute
 1 Terrarion
 2 Deadly Dispute

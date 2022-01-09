@@ -82,8 +82,9 @@
 1 Pithing Needle
 1 Brainstone
 1 Executioner's Capsule
-1 Lair of the Hydra
-2 Lair of the Hydra
+1 Inscription of Ruin
+1 Hissing Quagmire
+2 Inscription of Ruin
 1 Call of the Death-Dweller
 2 Call of the Death-Dweller
 1 Breeding Pool
@@ -91,9 +92,8 @@
 1 Engineered Explosives
 1 Tranquil Thicket
 2 Maelstrom Pulse
-1 Inscription of Ruin
-1 Hissing Quagmire
-2 Inscription of Ruin
+1 Lair of the Hydra
+2 Lair of the Hydra
 1 Endurance
 2 Endurance
 3 Endurance
@@ -147,12 +147,12 @@
 4 Inkmoth Nexus
 4 Plague Stinger
 4 Noble Hierarch
-1 Sorin the Mirthless
 1 Vraska, Golgari Queen
 1 Llanowar Wastes
 1 Grist, the Hunger Tide
 1 Nissa, Vital Force
 1 Carth the Lion
+1 Sorin the Mirthless
 1 Llanowar Elves
 2 Sorin the Mirthless
 2 Grist, the Hunger Tide
@@ -167,6 +167,7 @@
 4 Forest
 4 Carth the Lion
 4 Overgrown Tomb
+5 Swamp
 1 Gilded Goose
 1 The Underworld Cookbook
 1 Finale of Devastation
@@ -197,4 +198,3 @@
 4 Finale of Devastation
 4 Asmoranomardicadaistinaculdacar
 4 Ovalchase Daredevil
-5 Swamp

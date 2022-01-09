@@ -1,74 +1,59 @@
-2 True-Name Nemesis
-1 Murktide Regent
-3 Snapcaster Mage
-4 Prismatic Vista
-1 Snow-Covered Island
-2 Murktide Regent
+1 Wasteland
+2 Wasteland
+3 Tundra
 1 Daze
-1 Mountain
-3 Murktide Regent
-2 Daze
+2 True-Name Nemesis
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
-2 Plains
+1 Murktide Regent
+2 Daze
+1 Snow-Covered Mountain
+5 Snow-Covered Island
+2 Murktide Regent
 3 Island
-1 Lightning Bolt
+3 Murktide Regent
+1 Esper Sentinel
+2 Esper Sentinel
+3 Esper Sentinel
+1 Mountain
+2 Plains
+4 Island
+5 Island
+3 Daze
+3 Polluted Delta
 1 Expressive Iteration
 2 Expressive Iteration
+1 Lightning Bolt
+2 Lightning Bolt
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
-1 Esper Sentinel
-2 Esper Sentinel
-3 Esper Sentinel
-1 Snow-Covered Mountain
-5 Snow-Covered Island
-4 Island
-5 Island
-3 Expressive Iteration
-2 Lightning Bolt
-3 Volcanic Island
-1 Arid Mesa
-3 Daze
 3 Wasteland
-1 Underground Sea
-3 Polluted Delta
-1 Counterspell
-1 Misty Rainforest
-1 Dress Down
-4 Esper Sentinel
-4 Wasteland
-2 Underground Sea
 1 Counterbalance
 3 Jace, the Mind Sculptor
 6 Snow-Covered Island
+1 Underground Sea
+2 Underground Sea
+1 Counterspell
+1 Dress Down
+3 Expressive Iteration
+1 Misty Rainforest
+3 Volcanic Island
+1 Arid Mesa
+4 Esper Sentinel
+4 Wasteland
+4 Polluted Delta
 2 Spell Pierce
 2 Misty Rainforest
-3 Scalding Tarn
 1 Sword of Fire and Ice
-4 Daze
-4 Prismatic Ending
-1 Retrofitter Foundry
 1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
 4 Urza's Saga
-2 Force of Negation
-1 Scrubland
-1 Baleful Strix
-2 Baleful Strix
-3 Baleful Strix
-4 Polluted Delta
-1 Shadowspear
-2 Arid Mesa
-4 Expressive Iteration
-2 Dress Down
-4 Tundra
-1 Brazen Borrower
 1 Aether Vial
 1 Narcomoeba
 1 Thassa's Oracle
@@ -88,9 +73,19 @@
 3 Cephalid Illusionist
 3 Narcomoeba
 4 Cephalid Illusionist
-4 Murktide Regent
-1 Plateau
-4 Scalding Tarn
+4 Daze
+2 Force of Negation
+2 Dress Down
+1 Retrofitter Foundry
+4 Tundra
+1 Brazen Borrower
+3 Scalding Tarn
+1 Scrubland
+1 Baleful Strix
+2 Baleful Strix
+3 Baleful Strix
+1 Shadowspear
+2 Arid Mesa
 1 Stifle
 2 Stifle
 3 Stifle
@@ -98,28 +93,25 @@
 2 Mother of Runes
 3 Mother of Runes
 3 Nomads en-Kor
-1 Swamp
+4 Expressive Iteration
 1 Thoughtseize
 2 Thoughtseize
 3 Underground Sea
 4 Baleful Strix
-1 Solitude
-1 Soul-Guide Lantern
-1 Chrome Mox
-2 Narset, Parter of Veils
-2 Solitude
+4 Prismatic Ending
 1 Opposition Agent
 1 Vendilion Clique
-1 Supreme Verdict
+1 Pithing Needle
 1 Cemetery Illuminator
 1 Plague Engineer
 2 Cemetery Illuminator
 3 Cemetery Illuminator
 3 Lightning Bolt
-1 Hullbreacher
 1 Sevinne's Reclamation
+1 Hullbreacher
 1 Flusterstorm
 3 True-Name Nemesis
+1 Swamp
 3 Thoughtseize
 1 Deceiver Exarch
 1 Pestermite
@@ -129,8 +121,11 @@
 3 Deceiver Exarch
 3 Splinter Twin
 4 Volcanic Island
+4 Murktide Regent
+1 Plateau
 1 Delver of Secrets
 2 Delver of Secrets
 3 Delver of Secrets
+4 Scalding Tarn
 4 Delver of Secrets
 6 Island

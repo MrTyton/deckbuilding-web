@@ -1,21 +1,21 @@
-3 Lightning Bolt
-1 Unholy Heat
+1 Teferi, Hero of Dominaria
 1 Scalding Tarn
+1 Unholy Heat
 2 Force of Negation
 3 Counterspell
+3 Fury
 1 Time Warp
 1 Reflecting Pool
+4 Ephemerate
 1 Sheltered Thicket
-3 Fury
 3 Wooded Foothills
 1 Prismatic Vista
 3 Force of Negation
-4 Ephemerate
 4 Counterspell
 1 Supreme Verdict
 2 Prismatic Vista
-1 On Thin Ice
 1 Glacial Floodplain
+1 On Thin Ice
 1 Archmage's Charm
 2 Breeding Pool
 2 On Thin Ice
@@ -44,6 +44,13 @@
 1 Memory Deluge
 1 Dovin's Veto
 1 Lightning Helix
+4 Fury
+2 Unholy Heat
+3 Scalding Tarn
+4 Wooded Foothills
+1 Endurance
+1 Wall of Omens
+2 Wall of Omens
 1 Skyclave Apparition
 1 Plains
 2 Plains
@@ -93,14 +100,7 @@
 3 Emeria's Call
 4 Silent Clearing
 4 Godless Shrine
-2 Unholy Heat
-3 Scalding Tarn
-4 Wooded Foothills
-1 Endurance
-1 Wall of Omens
-2 Wall of Omens
-1 Kaya's Guile
-2 Kaya's Guile
+1 Lonely Sandbar
 4 Lightning Bolt
 1 Arid Mesa
 2 Arid Mesa
@@ -149,7 +149,6 @@
 4 Sun Titan
 4 Skyclave Apparition
 4 Ranger-Captain of Eos
-4 Fury
 1 Utopia Sprawl
 1 Faithful Mending
 2 Faithful Mending
@@ -160,9 +159,9 @@
 2 Time Warp
 3 Eladamri's Call
 1 Indatha Triome
-1 Callous Bloodmage
+1 Kaya's Guile
+2 Kaya's Guile
 1 Tourach, Dread Cantor
-1 Lonely Sandbar
 1 Traverse the Ulvenwald
 1 Dress Down
 1 Path to Exile
@@ -260,6 +259,7 @@
 7 Plains
 8 Plains
 9 Plains
+1 Callous Bloodmage
 1 Sword of Truth and Justice
 2 Tourach, Dread Cantor
 1 Irrigated Farmland
