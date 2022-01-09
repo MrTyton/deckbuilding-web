@@ -19,15 +19,15 @@
 1 The Locust God
 1 Sage of the Falls
 2 Valakut Awakening
-3 Island
 3 Riverglide Pathway
+3 Island
 4 Riverglide Pathway
 3 Sulfur Falls
 3 Expressive Iteration
 1 Silundi Vision
 2 Pact of Negation
-1 Unsubstantiate
 1 Strike It Rich
+1 Unsubstantiate
 2 Unsubstantiate
 2 Stormcarved Coast
 3 Valakut Awakening
@@ -75,25 +75,9 @@
 3 Divide by Zero
 2 Archmage's Charm
 3 Archmage's Charm
-4 Archmage's Charm
 4 Fabled Passage
+4 Archmage's Charm
 4 Aether Gust
-1 Haunted Ridge
-1 Nicol Bolas, the Ravager
-1 Fetid Pools
-1 Kroxa, Titan of Death's Hunger
-1 Blightstep Pathway
-1 Clearwater Pathway
-1 Fatal Push
-2 Nicol Bolas, the Ravager
-2 Blightstep Pathway
-2 Clearwater Pathway
-2 Fetid Pools
-2 Fatal Push
-3 Blightstep Pathway
-3 Clearwater Pathway
-4 Blightstep Pathway
-4 Clearwater Pathway
 1 Clifftop Retreat
 1 Settle the Wreckage
 1 Negate
@@ -105,10 +89,10 @@
 2 Lightning Helix
 3 Clifftop Retreat
 4 Clifftop Retreat
+1 Ionize
 1 Play with Fire
 1 Exclude
 1 Boon of the Wish-Giver
-1 Ionize
 1 Lightning Strike
 2 Bonecrusher Giant
 2 Play with Fire
@@ -124,6 +108,22 @@
 2 Seize the Spoils
 3 Seize the Spoils
 4 Seize the Spoils
+1 Fetid Pools
+1 Nicol Bolas, the Ravager
+1 Kroxa, Titan of Death's Hunger
+1 Haunted Ridge
+1 Blightstep Pathway
+1 Clearwater Pathway
+1 Fatal Push
+2 Fatal Push
+2 Nicol Bolas, the Ravager
+2 Blightstep Pathway
+2 Clearwater Pathway
+2 Fetid Pools
+3 Blightstep Pathway
+3 Clearwater Pathway
+4 Clearwater Pathway
+4 Blightstep Pathway
 1 Forbidden Friendship
 2 Silundi Vision
 2 Forbidden Friendship
