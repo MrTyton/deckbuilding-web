@@ -1,40 +1,19 @@
-1 The Meathook Massacre
-1 Cave of the Frost Dragon
 5 Swamp
-2 The Meathook Massacre
 2 Field of Ruin
 1 Sorin the Mirthless
+3 The Meathook Massacre
 6 Swamp
 7 Swamp
-3 The Meathook Massacre
+5 Plains
+6 Plains
+1 Cave of the Frost Dragon
 1 Emeria's Call
 2 Emeria's Call
 1 Agadeem's Awakening
 2 Shineshadow Snarl
-7 Plains
 1 Liesa, Forgotten Archangel
 3 Elite Spellbinder
-3 Emeria's Call
-3 Shineshadow Snarl
-2 Liesa, Forgotten Archangel
-1 Firja's Retribution
-1 Righteous Valkyrie
-2 Firja's Retribution
-2 Righteous Valkyrie
-3 Righteous Valkyrie
-3 Firja's Retribution
-1 Starnheim Unleashed
-1 Youthful Valkyrie
-2 Youthful Valkyrie
-2 Starnheim Unleashed
-3 Youthful Valkyrie
-4 Youthful Valkyrie
-8 Plains
-4 Firja's Retribution
-4 Righteous Valkyrie
 1 Kaya the Inexorable
-1 Fateful Absence
-2 Fateful Absence
 1 Snow-Covered Plains
 1 Snow-Covered Swamp
 2 Snow-Covered Plains
@@ -43,17 +22,19 @@
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 2 Kaya the Inexorable
-1 Snowfield Sinkhole
-4 Snow-Covered Plains
-5 Snow-Covered Plains
 1 Blood on the Snow
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
-2 Snowfield Sinkhole
-3 Snowfield Sinkhole
+1 Snowfield Sinkhole
+4 Snow-Covered Plains
+5 Snow-Covered Plains
 1 Shambling Ghast
 2 Blood on the Snow
+1 Fateful Absence
+2 Fateful Absence
+2 Snowfield Sinkhole
+3 Snowfield Sinkhole
 6 Snow-Covered Plains
 2 Shambling Ghast
 3 Shambling Ghast
@@ -68,63 +49,63 @@
 3 Blood on the Snow
 4 Blood on the Snow
 4 Faceless Haven
-1 Reidane, God of the Worthy
-2 Reidane, God of the Worthy
-1 Skyclave Apparition
+7 Plains
 7 Snow-Covered Plains
-4 Emeria's Call
-1 Soul Shatter
 1 Bloodvial Purveyor
+1 Reidane, God of the Worthy
 1 Eyetwitch
 2 Bloodvial Purveyor
+2 Reidane, God of the Worthy
 2 Eyetwitch
 3 Reidane, God of the Worthy
 3 Eyetwitch
+4 Shambling Ghast
+3 Emeria's Call
+1 Firja's Retribution
+1 Deadly Dispute
+1 Skullport Merchant
+3 Shineshadow Snarl
+1 Soul Shatter
+2 Liesa, Forgotten Archangel
+1 Righteous Valkyrie
+2 Firja's Retribution
+2 Righteous Valkyrie
+3 Righteous Valkyrie
+3 Firja's Retribution
+1 Skyclave Apparition
+4 Emeria's Call
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
-3 Starnheim Unleashed
-2 Soul Shatter
-4 Shambling Ghast
-1 Rampage of the Valkyries
-1 Deadly Dispute
-1 Skullport Merchant
-2 Agadeem's Awakening
-1 Infernal Grasp
-1 Enduring Angel
-1 Kaya, Geist Hunter
-2 Skyclave Apparition
-3 Fateful Absence
-3 Skyclave Apparition
-3 Liesa, Forgotten Archangel
-4 Skyclave Apparition
-4 Starnheim Unleashed
 3 Bloodvial Purveyor
 3 Concealing Curtains
 4 Bloodvial Purveyor
-2 Rampage of the Valkyries
-4 Shineshadow Snarl
-9 Plains
-3 Intrepid Adversary
-1 Sungold Sentinel
-2 Sungold Sentinel
-3 Sungold Sentinel
+1 Starnheim Unleashed
 2 Deadly Dispute
 3 Deadly Dispute
 1 Fell Stinger
 2 Fell Stinger
-2 Cave of the Frost Dragon
+2 Skullport Merchant
 3 Kaya the Inexorable
 4 Kaya the Inexorable
-2 Skullport Merchant
-4 Elite Spellbinder
-2 Legion Angel
+2 Soul Shatter
+4 Firja's Retribution
+4 Righteous Valkyrie
+1 Youthful Valkyrie
+2 Youthful Valkyrie
+2 Starnheim Unleashed
+3 Youthful Valkyrie
+4 Youthful Valkyrie
+8 Plains
 1 Professor Onyx
 1 Bloodchief's Thirst
-1 Priest of the Haunted Edge
 1 Silverquill Command
 1 Acquisitions Expert
 1 Elderfang Disciple
+1 Priest of the Haunted Edge
+2 Agadeem's Awakening
+1 Rampage of the Valkyries
+1 Infernal Grasp
 1 Morbid Opportunist
 1 Malakir Rebirth
 1 Silverquill Campus
@@ -144,10 +125,15 @@
 1 Fleshtaker
 1 Ecstatic Awakener
 1 Loyal Warhound
-1 Baleful Mastery
-2 Baleful Mastery
 2 Sorin the Mirthless
+3 Intrepid Adversary
+1 Baleful Mastery
+1 Sungold Sentinel
+2 Baleful Mastery
+2 Sungold Sentinel
+3 Sungold Sentinel
 2 Bloodchief's Thirst
+2 Cave of the Frost Dragon
 3 Fell Stinger
 3 Edgar, Charmed Groom
 1 Go Blank
@@ -160,20 +146,13 @@
 3 Elderfang Disciple
 3 Acquisitions Expert
 4 Professor of Symbology
-1 Taborax, Hope's Demise
-1 Drana, the Last Bloodchief
-1 Dream Devourer
-2 Priest of the Haunted Edge
-2 Dream Devourer
-3 Dream Devourer
-3 Priest of the Haunted Edge
-4 Snowfield Sinkhole
 1 Dungeon Crawler
 1 Usher of the Fallen
 1 Scourge of the Skyclaves
 1 Duress
 2 Infernal Grasp
 2 Dungeon Crawler
+2 Legion Angel
 2 Duress
 2 Scourge of the Skyclaves
 2 Usher of the Fallen
@@ -188,21 +167,15 @@
 4 Agadeem's Awakening
 4 Scourge of the Skyclaves
 4 Usher of the Fallen
-1 Haunting Voyage
-1 Doomskar
-1 Vengeful Reaper
-1 Valkyrie Harbinger
-2 Doomskar
-2 Vengeful Reaper
-2 Valkyrie Harbinger
-2 Haunting Voyage
-3 Vengeful Reaper
-3 Haunting Voyage
-4 Vengeful Reaper
-1 Flunk
-3 Soul Shatter
-3 Rampage of the Valkyries
-4 Rampage of the Valkyries
+1 Enduring Angel
+1 Kaya, Geist Hunter
+2 Skyclave Apparition
+3 Skyclave Apparition
+3 Fateful Absence
+3 Starnheim Unleashed
+3 Liesa, Forgotten Archangel
+4 Skyclave Apparition
+4 Starnheim Unleashed
 1 Faithbound Judge
 1 Voldaren Bloodcaster
 2 Faithbound Judge
@@ -211,16 +184,26 @@
 3 Voldaren Bloodcaster
 4 Deadly Dispute
 8 Snow-Covered Swamp
-1 Stonebinder's Familiar
-1 Chaplain of Alms
-1 Adeline, Resplendent Cathar
-1 Valorous Stance
-2 Stonebinder's Familiar
-2 Adeline, Resplendent Cathar
-2 Chaplain of Alms
-3 Chaplain of Alms
-3 Stonebinder's Familiar
-3 Adeline, Resplendent Cathar
-4 Sungold Sentinel
-4 Thalia, Guardian of Thraben
-4 Chaplain of Alms
+1 Valkyrie Harbinger
+1 Doomskar
+1 Vengeful Reaper
+1 Haunting Voyage
+2 Valkyrie Harbinger
+2 Doomskar
+2 Vengeful Reaper
+2 Rampage of the Valkyries
+2 Haunting Voyage
+3 Vengeful Reaper
+3 Haunting Voyage
+4 Shineshadow Snarl
+4 Vengeful Reaper
+9 Plains
+1 Taborax, Hope's Demise
+1 Drana, the Last Bloodchief
+1 Dream Devourer
+2 Priest of the Haunted Edge
+2 Dream Devourer
+3 Dream Devourer
+3 Priest of the Haunted Edge
+4 Snowfield Sinkhole
+4 Elite Spellbinder

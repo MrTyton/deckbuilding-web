@@ -5,11 +5,11 @@
 2 Haunted Ridge
 2 Lier, Disciple of the Drowned
 1 Swamp
-4 Clearwater Pathway
 2 Goldspan Dragon
 2 Hullbreaker Horror
 3 Shipwreck Marsh
 3 Haunted Ridge
+4 Clearwater Pathway
 1 Prismari Command
 1 Power Word Kill
 4 Shipwreck Marsh
@@ -17,9 +17,9 @@
 4 Haunted Ridge
 1 Consider
 4 Alrund's Epiphany
-3 Fading Hope
 2 Infernal Grasp
 2 Consider
+3 Fading Hope
 3 Hullbreaker Horror
 3 Goldspan Dragon
 2 Prismari Command
@@ -72,7 +72,6 @@
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 1 Negate
-2 Thundering Rebuke
 1 Thirst for Discovery
 1 Snow-Covered Island
 2 Snow-Covered Island
@@ -91,6 +90,7 @@
 3 Prismari Command
 2 Test of Talents
 2 Shadows' Verdict
+2 Thundering Rebuke
 1 Disdainful Stroke
 1 Vampires' Vengeance
 1 Bloodtithe Harvester
@@ -110,8 +110,8 @@
 1 Syncopate
 2 Demon Bolt
 4 Fading Hope
-1 Return Upon the Tide
 1 Olivia, Crimson Bride
+1 Return Upon the Tide
 2 Cathartic Pyre
 2 Toxrill, the Corrosive
 2 Negate
@@ -136,10 +136,10 @@
 1 Malakir Rebirth
 1 Hero's Downfall
 2 Check for Traps
+1 Bloodthirsty Adversary
 1 Iymrith, Desert Doom
 1 Dragon's Fire
 1 You Find the Villains' Lair
-1 Bloodthirsty Adversary
 2 Dragon's Fire
 2 Syncopate
 2 Hero's Downfall
@@ -177,11 +177,6 @@
 3 Dollhouse of Horrors
 4 Skullport Merchant
 4 Magmatic Channeler
-1 Battle of Frost and Fire
-2 Battle of Frost and Fire
-3 Thirst for Discovery
-4 Thirst for Discovery
-4 Toxrill, the Corrosive
 1 Draconic Intervention
 1 Crackle with Power
 1 Sorin the Mirthless
@@ -193,10 +188,15 @@
 3 Creative Outburst
 3 Draconic Intervention
 4 Field of Ruin
+4 Magma Opus
 4 Creative Outburst
 4 Soul Shatter
 4 Draconic Intervention
-4 Magma Opus
+1 Battle of Frost and Fire
+2 Battle of Frost and Fire
+3 Thirst for Discovery
+4 Thirst for Discovery
+4 Toxrill, the Corrosive
 1 Baleful Mastery
 1 Acquisitions Expert
 1 Lolth, Spider Queen
@@ -205,13 +205,13 @@
 1 Gelatinous Cube
 1 Immersturm Predator
 1 Blood on the Snow
-2 Valki, God of Lies
 2 Sulfurous Mire
 2 Snow-Covered Swamp
 2 Eyetwitch
 2 Immersturm Predator
 2 Blood on the Snow
 2 Lolth, Spider Queen
+2 Valki, God of Lies
 3 Sulfurous Mire
 3 Snow-Covered Mountain
 3 Immersturm Predator

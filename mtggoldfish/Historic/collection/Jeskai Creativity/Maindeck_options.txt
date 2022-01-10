@@ -29,8 +29,8 @@
 3 Island
 4 Riverglide Pathway
 2 Stormcarved Coast
-3 Stormcarved Coast
 3 Valakut Awakening
+3 Stormcarved Coast
 4 Stormcarved Coast
 2 Pact of Negation
 1 Strike It Rich
@@ -75,29 +75,29 @@
 4 Torrential Gearhulk
 1 Bonecrusher Giant
 1 Blightstep Pathway
-1 Divide by Zero
-2 Divide by Zero
-3 Divide by Zero
 1 Divine Purge
 2 Divine Purge
 3 Divine Purge
+1 Divide by Zero
+2 Divide by Zero
+3 Divide by Zero
 1 Settle the Wreckage
 1 Negate
+1 Hallowed Fountain
 1 Lightning Helix
 1 Baffling End
 1 Plains
-1 Hallowed Fountain
 2 Lightning Helix
 3 Clifftop Retreat
 4 Clifftop Retreat
-1 Ionize
 1 Play with Fire
 1 Exclude
 1 Boon of the Wish-Giver
+1 Ionize
 1 Lightning Strike
 2 Bonecrusher Giant
-2 Ionize
 2 Play with Fire
+2 Ionize
 3 Bonecrusher Giant
 4 Spikefield Hazard
 4 Island
@@ -114,13 +114,13 @@
 3 Seize the Spoils
 4 Seize the Spoils
 1 Fetid Pools
+1 Clearwater Pathway
 1 Nicol Bolas, the Ravager
 1 Kroxa, Titan of Death's Hunger
 1 Haunted Ridge
-1 Clearwater Pathway
 1 Fatal Push
-2 Nicol Bolas, the Ravager
 2 Fetid Pools
+2 Nicol Bolas, the Ravager
 2 Blightstep Pathway
 2 Clearwater Pathway
 2 Fatal Push
@@ -128,12 +128,12 @@
 3 Clearwater Pathway
 4 Clearwater Pathway
 4 Blightstep Pathway
+1 Watery Grave
 1 Blood Crypt
 1 Inquisition of Kozilek
-1 Watery Grave
 2 Strike It Rich
-2 Blood Crypt
 2 Watery Grave
+2 Blood Crypt
 2 Inquisition of Kozilek
 3 Strike It Rich
 3 Blood Crypt

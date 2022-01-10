@@ -17,15 +17,15 @@
 9 Forest
 3 Snakeskin Veil
 1 Unnatural Moonrise
-1 Snow-Covered Mountain
 1 Snow-Covered Forest
+1 Snow-Covered Mountain
 1 Blizzard Brawl
-2 Snow-Covered Mountain
 2 Snow-Covered Forest
-3 Snow-Covered Mountain
+2 Snow-Covered Mountain
 3 Snow-Covered Forest
-4 Snow-Covered Mountain
+3 Snow-Covered Mountain
 4 Snow-Covered Forest
+4 Snow-Covered Mountain
 2 Unnatural Moonrise
 1 Packsong Pup
 2 Blizzard Brawl
@@ -83,6 +83,11 @@
 1 Wolf Strike
 8 Mountain
 3 Cemetery Prowler
+1 Burning Hands
+2 Burning Hands
+3 Wrenn and Seven
+4 Briarbridge Tracker
+4 Wrenn and Seven
 1 Turntimber Symbiosis
 2 Turntimber Symbiosis
 2 Wild Shape
@@ -94,11 +99,6 @@
 3 Halana and Alena, Partners
 4 Howlpack Piper
 4 Volatile Arsonist
-1 Burning Hands
-2 Burning Hands
-3 Wrenn and Seven
-4 Wrenn and Seven
-4 Briarbridge Tracker
 4 Packsong Pup
 3 Play with Fire
 4 Play with Fire
@@ -166,18 +166,18 @@
 1 Bala Ged Recovery
 1 Dragon's Fire
 2 Field of Ruin
+2 Evolving Wilds
 2 Cemetery Gatekeeper
 2 Heated Debate
 2 Bala Ged Recovery
-2 Evolving Wilds
 3 Cemetery Gatekeeper
 3 Heated Debate
 3 Evolving Wilds
 3 Bala Ged Recovery
 4 Cemetery Gatekeeper
-4 Heated Debate
 4 Bala Ged Recovery
 4 Evolving Wilds
+4 Heated Debate
 1 Fortifying Draught
 1 Faceless Haven
 1 Cinderclasm
