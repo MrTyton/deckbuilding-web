@@ -1,8 +1,7 @@
 1 Teferi, Time Raveler
 2 Snow-Covered Forest
-3 Force of Negation
-1 Path to Exile
 1 Scavenging Ooze
+3 Force of Negation
 1 Snapcaster Mage
 1 Island
 1 Carpet of Flowers
@@ -11,14 +10,15 @@
 2 Flooded Strand
 1 Underground Sea
 1 Knight of the Reliquary
+1 Path to Exile
 1 Narset, Parter of Veils
 2 Teferi, Time Raveler
 3 Endurance
 1 Ephemerate
 1 Spellseeker
-2 Eternal Witness
 2 Ephemerate
 2 Spellseeker
+2 Eternal Witness
 3 Spellseeker
 3 Flooded Strand
 4 Flooded Strand
@@ -41,16 +41,22 @@
 1 Omnath, Locus of Creation
 1 Collector Ouphe
 1 Volcanic Island
+1 Flusterstorm
+2 Narset, Parter of Veils
 1 Drown in the Loch
 1 Intuition
 1 Polluted Delta
 2 Intuition
-1 Flusterstorm
-2 Narset, Parter of Veils
 2 Preordain
 2 Savannah
 3 Teferi, Time Raveler
 3 Ephemerate
+1 Eladamri's Call
+2 Eladamri's Call
+2 Verdant Catacombs
+3 Eladamri's Call
+3 Verdant Catacombs
+4 Eladamri's Call
 1 Chord of Calling
 1 Noble Hierarch
 1 Renegade Rallier
@@ -59,12 +65,6 @@
 3 Chord of Calling
 3 Noble Hierarch
 4 Chord of Calling
-1 Eladamri's Call
-2 Verdant Catacombs
-2 Eladamri's Call
-3 Eladamri's Call
-3 Verdant Catacombs
-4 Eladamri's Call
 1 Aether Spellbomb
 1 Gaea's Cradle
 1 Wooded Foothills
@@ -73,8 +73,8 @@
 3 Knight of the Reliquary
 4 Knight of the Reliquary
 1 Maze of Ith
-1 Mox Diamond
 1 Expedition Map
+1 Mox Diamond
 1 Stifle
 1 Elvish Reclaimer
 2 Mox Diamond

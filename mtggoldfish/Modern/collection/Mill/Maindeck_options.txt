@@ -1,29 +1,22 @@
+1 Mikokoro, Center of the Sea
+1 Snow-Covered Swamp
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
-1 Swamp
-2 Snow-Covered Swamp
-1 Echoing Truth
-1 Scalding Tarn
-1 Misty Rainforest
 2 Scalding Tarn
+2 Snow-Covered Swamp
 5 Island
 2 Flooded Strand
+1 Echoing Truth
+1 Misty Rainforest
 2 Swamp
-2 Misty Rainforest
-3 Watery Grave
-1 Mesmeric Orb
-2 Darkslick Shores
-2 Mesmeric Orb
-1 Counterspell
-2 Counterspell
 1 Remand
 1 Maddening Cacophony
 1 Hallowed Fountain
 1 Prismatic Ending
-2 Hallowed Fountain
 2 Prismatic Ending
+2 Hallowed Fountain
 3 Prismatic Ending
 4 Prismatic Ending
 1 Repeal
@@ -34,8 +27,15 @@
 1 Plains
 3 Flooded Strand
 4 Flooded Strand
-6 Island
-4 Surgical Extraction
+2 Misty Rainforest
+1 Consider
+2 Consider
+1 Mesmeric Orb
+3 Watery Grave
+2 Mesmeric Orb
+2 Darkslick Shores
+1 Counterspell
+2 Counterspell
 1 Thought Scour
 3 Counterspell
 1 Trapmaker's Snare
@@ -43,27 +43,28 @@
 3 Trapmaker's Snare
 4 Trapmaker's Snare
 3 Scalding Tarn
+6 Island
 7 Island
 1 Prismatic Vista
 1 Extirpate
 1 Mission Briefing
-1 Consider
-2 Consider
+2 Plains
 1 Verdant Catacombs
 1 Glimpse the Unthinkable
 2 Verdant Catacombs
 2 Glimpse the Unthinkable
-3 Misty Rainforest
-3 Darkslick Shores
-4 Counterspell
-4 Darkslick Shores
-1 Snapcaster Mage
-1 Path to Exile
 1 Raugrin Triome
+1 Path to Exile
+1 Snapcaster Mage
 2 Path to Exile
 3 Hallowed Fountain
 3 Path to Exile
 4 Path to Exile
+4 Surgical Extraction
+3 Misty Rainforest
+3 Darkslick Shores
+4 Darkslick Shores
+4 Counterspell
 3 Mesmeric Orb
 4 Mesmeric Orb
 1 Gut Shot

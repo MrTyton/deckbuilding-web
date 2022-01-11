@@ -38,33 +38,33 @@
 1 Fury
 2 Fury
 4 Arid Mesa
-1 Ephemerate
+1 Undying Evil
 1 Malakir Rebirth
 1 Grief
-1 Undying Evil
 1 Crackling Doom
 1 Snapdax, Apex of the Hunt
 1 Undying Malice
+1 Ephemerate
 1 Solitude
 1 Spikefield Hazard
-2 Ephemerate
-2 Grief
+2 Undying Evil
 2 Malakir Rebirth
+2 Grief
 2 Spikefield Hazard
+2 Ephemerate
 2 Snapdax, Apex of the Hunt
 2 Solitude
 2 Undying Malice
-2 Undying Evil
-3 Ephemerate
-3 Fury
-3 Grief
-3 Solitude
 3 Godless Shrine
 3 Undying Evil
-4 Ephemerate
+3 Fury
+3 Grief
+3 Ephemerate
+3 Solitude
+4 Undying Evil
 4 Fury
 4 Grief
-4 Undying Evil
+4 Ephemerate
 4 Solitude
 1 Scourge of the Skyclaves
 2 Scourge of the Skyclaves
@@ -106,17 +106,17 @@
 2 Den of the Bugbear
 2 Mountain
 3 Kroxa, Titan of Death's Hunger
-3 Scourge of the Skyclaves
 3 Blightstep Pathway
+3 Scourge of the Skyclaves
 1 Snow-Covered Mountain
 1 Snow-Covered Plains
 1 Shizo, Death's Storehouse
 1 Snow-Covered Swamp
 1 Inspiring Vantage
 4 Unholy Heat
-1 Iona, Shield of Emeria
 1 Ashiok, Dream Render
 1 Unburial Rites
+1 Iona, Shield of Emeria
 1 Elesh Norn, Grand Cenobite
 1 Archon of Cruelty
 2 Ashiok, Dream Render
@@ -126,23 +126,23 @@
 3 Collective Brutality
 3 Ashiok, Dream Render
 3 Priest of Fell Rites
-4 Priest of Fell Rites
 4 Fatal Push
-1 Manamorphose
+4 Priest of Fell Rites
 1 Path to Exile
 1 Pyrite Spellbomb
 1 Cathar Commando
 1 Lurrus of the Dream-Den
 1 Sunbeam Spellbomb
+1 Manamorphose
 1 Gurmag Angler
-2 Manamorphose
 2 Lurrus of the Dream-Den
 2 Path to Exile
 2 Cathar Commando
 2 Gurmag Angler
-3 Lurrus of the Dream-Den
+2 Manamorphose
 3 Manamorphose
 3 Path to Exile
+3 Lurrus of the Dream-Den
 4 Manamorphose
 4 Path to Exile
 4 Lurrus of the Dream-Den
@@ -156,16 +156,16 @@
 2 Flagstones of Trokair
 2 Smallpox
 2 Portable Hole
-3 Flagstones of Trokair
 3 Lingering Souls
 3 Vindicate
 3 Portable Hole
+3 Flagstones of Trokair
 3 Smallpox
 3 Urborg, Tomb of Yawgmoth
-4 Flagstones of Trokair
 4 Lingering Souls
 4 Vindicate
 4 Tourach, Dread Cantor
 4 Urza's Saga
 4 Smallpox
+4 Flagstones of Trokair
 4 Portable Hole

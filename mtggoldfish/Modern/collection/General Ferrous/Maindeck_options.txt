@@ -1,7 +1,8 @@
-2 Windswept Heath
 3 Flooded Strand
-2 Arid Mesa
+2 Windswept Heath
 4 Flooded Strand
+2 Fury
+2 Arid Mesa
 4 General Ferrous Rokiric
 1 Manamorphose
 2 Manamorphose
@@ -9,22 +10,21 @@
 4 Manamorphose
 3 Arid Mesa
 4 Arid Mesa
-2 Fury
 1 Wrenn and Six
+1 Savai Triome
+1 Scalding Tarn
 2 Wrenn and Six
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
-1 Savai Triome
-1 Scalding Tarn
 1 Misty Rainforest
 3 Windswept Heath
 1 Plains
 1 Hallowed Fountain
 3 Teferi, Time Raveler
-1 Raugrin Triome
+1 Island
 1 Prismatic Ending
 1 Expressive Iteration
-1 Island
+1 Raugrin Triome
 1 Chalice of the Void
 2 Expressive Iteration
 2 Chalice of the Void
@@ -54,27 +54,27 @@
 1 Solitude
 2 Solitude
 3 Solitude
-4 Solitude
 4 Wrenn and Six
+4 Solitude
 1 Verdant Catacombs
-1 Eladamri's Call
+2 Scalding Tarn
 1 Fire/Ice
-2 Misty Rainforest
+1 Eladamri's Call
 2 Fire/Ice
+2 Misty Rainforest
 3 Misty Rainforest
 3 Fire/Ice
 4 Fire/Ice
+2 Breeding Pool
 1 Tarmogoyf
 2 Tarmogoyf
 1 Prismari Command
-2 Scalding Tarn
 1 Geist of Saint Traft
 2 Geist of Saint Traft
 1 Reflecting Pool
 1 Showdown of the Skalds
 1 Moonveil Regent
 2 Verdant Catacombs
-2 Breeding Pool
 2 Stomping Ground
 1 Knight of Autumn
 1 Bounding Krasis
@@ -83,6 +83,13 @@
 1 Reflector Mage
 2 Noble Hierarch
 2 Reflector Mage
+1 Batterskull
+1 Stoneforge Mystic
+1 Sword of Fire and Ice
+1 Kaldra Compleat
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+4 Stoneforge Mystic
 1 Horizon Canopy
 1 Qasali Ambusher
 2 Qasali Ambusher
@@ -91,8 +98,8 @@
 3 Qasali Ambusher
 4 Qasali Ambusher
 1 Ragavan, Nimble Pilferer
-1 Brushfire Elemental
 1 Overgrown Tomb
+1 Brushfire Elemental
 1 Wild Nacatl
 1 Atarka's Command
 1 Boros Charm
@@ -114,18 +121,11 @@
 4 Wild Nacatl
 4 Brushfire Elemental
 1 Sunbaked Canyon
-2 Sunbaked Canyon
-2 Plains
-2 Prismari Command
 2 Hallowed Fountain
-3 Geist of Saint Traft
+2 Plains
+2 Sunbaked Canyon
+2 Prismari Command
 3 Scalding Tarn
+3 Geist of Saint Traft
 4 Scalding Tarn
 4 Geist of Saint Traft
-1 Batterskull
-1 Sword of Fire and Ice
-1 Kaldra Compleat
-1 Stoneforge Mystic
-2 Stoneforge Mystic
-3 Stoneforge Mystic
-4 Stoneforge Mystic

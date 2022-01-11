@@ -1,9 +1,7 @@
 4 Fire/Ice
+1 Mountain
 3 Lightning Bolt
 4 Hard Evidence
-1 Mountain
-1 Flooded Strand
-4 Remand
 1 Valakut, the Molten Pinnacle
 1 Explore
 1 Strike It Rich
@@ -15,26 +13,28 @@
 3 Valakut, the Molten Pinnacle
 3 Primeval Titan
 3 Strike It Rich
-1 Expressive Iteration
-2 Expressive Iteration
-3 Expressive Iteration
 4 Primeval Titan
 2 Stomping Ground
 4 Strike It Rich
+1 Expressive Iteration
+2 Expressive Iteration
+3 Expressive Iteration
 3 Explore
 4 Explore
+1 Flooded Strand
+4 Remand
 1 Bloodstained Mire
+2 Mountain
 1 Faithful Mending
 2 Ketria Triome
 3 Steam Vents
 4 Expressive Iteration
 2 Bloodstained Mire
-2 Mountain
 1 Memory Deluge
 2 Memory Deluge
 4 Lightning Bolt
-1 Snow-Covered Island
 1 Snow-Covered Plains
+1 Snow-Covered Island
 2 Nahiri, the Harbinger
 1 Manamorphose
 1 Lightning Helix
@@ -43,35 +43,40 @@
 3 Manamorphose
 3 Bloodstained Mire
 4 Bloodstained Mire
-1 Spell Pierce
+1 Search for Tomorrow
+1 Farseek
+2 Search for Tomorrow
+2 Farseek
+3 Search for Tomorrow
+3 Stomping Ground
+3 Farseek
+3 Mountain
+4 Search for Tomorrow
+4 Farseek
 1 Force of Negation
+1 Spell Pierce
 1 Sunset Revelry
 2 Sunset Revelry
-2 Flooded Strand
 2 Raugrin Triome
-1 Search for Tomorrow
-1 Scapeshift
-1 Farseek
+1 Verdant Command
+1 Transmogrify
+2 Transmogrify
+2 Verdant Command
+3 Verdant Command
+4 Verdant Command
 1 Sheltered Thicket
+1 Scapeshift
 1 Hunting Wilds
 1 Cinder Glade
 1 Hour of Promise
-2 Search for Tomorrow
 2 Scapeshift
-2 Hunting Wilds
 2 Cinder Glade
-2 Farseek
+2 Hunting Wilds
 2 Sheltered Thicket
-3 Stomping Ground
-3 Search for Tomorrow
 3 Sheltered Thicket
-3 Farseek
 3 Scapeshift
-3 Mountain
-4 Mountain
 4 Stomping Ground
-4 Search for Tomorrow
 4 Sheltered Thicket
 4 Valakut, the Molten Pinnacle
 5 Mountain
-4 Farseek
+4 Mountain
