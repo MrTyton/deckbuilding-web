@@ -1,6 +1,6 @@
 3 Lightning Bolt
-3 Counterspell
 1 Scalding Tarn
+3 Counterspell
 1 Unholy Heat
 3 Wooded Foothills
 2 Force of Negation
@@ -12,32 +12,33 @@
 1 Reflecting Pool
 1 Tranquil Thicket
 1 Endurance
-1 Sheltered Thicket
-4 Counterspell
-1 Jace, the Mind Sculptor
 1 Supreme Verdict
+4 Counterspell
+1 Archmage's Charm
+2 Breeding Pool
+2 Archmage's Charm
+3 Archmage's Charm
+4 Archmage's Charm
+1 Sheltered Thicket
+2 Teferi, Hero of Dominaria
+2 Supreme Verdict
+2 Scalding Tarn
+1 Jace, the Mind Sculptor
 2 Prismatic Vista
 1 Glacial Floodplain
 1 On Thin Ice
-1 Archmage's Charm
-2 Breeding Pool
 2 On Thin Ice
-2 Archmage's Charm
 3 Snow-Covered Island
-3 Archmage's Charm
 4 Snow-Covered Island
-4 Archmage's Charm
 1 Mystic Gate
 1 Castle Vantress
 2 Castle Vantress
 2 Mystic Gate
 2 Jace, the Mind Sculptor
-2 Teferi, Hero of Dominaria
 3 Teferi, Hero of Dominaria
 3 Mystic Gate
 3 Jace, the Mind Sculptor
 1 Time Warp
-2 Supreme Verdict
 1 Dovin's Veto
 1 Lightning Helix
 4 Lightning Bolt
@@ -51,11 +52,24 @@
 1 Wall of Omens
 2 Wall of Omens
 1 Utopia Sprawl
-2 Scalding Tarn
+3 Scalding Tarn
 3 Eladamri's Call
+1 Memory Deluge
+1 Faithful Mending
+2 Faithful Mending
+3 Unholy Heat
+4 Unholy Heat
+1 Arid Mesa
 1 Skyclave Apparition
+4 Eternal Witness
+2 Time Warp
+2 Hallowed Fountain
 1 Plains
+1 Irrigated Farmland
+4 Scalding Tarn
 2 Plains
+3 Wall of Omens
+4 Wall of Omens
 1 Kaldra Compleat
 1 Sword of Fire and Ice
 1 Stoneforge Mystic
@@ -83,17 +97,20 @@
 4 Grief
 4 Malakir Rebirth
 4 Undying Evil
+1 Indatha Triome
 1 Silent Clearing
 1 Charming Prince
 2 Charming Prince
 3 Charming Prince
 1 Urborg, Tomb of Yawgmoth
 1 Maul of the Skyclaves
+1 Kaya's Guile
 1 Shriekmaw
 1 Persist
 1 Emeria's Call
 2 Silent Clearing
 2 Persist
+2 Kaya's Guile
 2 Emeria's Call
 3 Emeria's Call
 3 Agadeem's Awakening
@@ -102,22 +119,6 @@
 3 Persist
 4 Godless Shrine
 4 Silent Clearing
-1 Arid Mesa
-1 Memory Deluge
-1 Faithful Mending
-2 Faithful Mending
-3 Unholy Heat
-4 Unholy Heat
-2 Hallowed Fountain
-4 Eternal Witness
-2 Time Warp
-3 Wall of Omens
-4 Wall of Omens
-3 Scalding Tarn
-1 Indatha Triome
-1 Kaya's Guile
-2 Kaya's Guile
-1 Tourach, Dread Cantor
 1 Cryptic Command
 2 Cryptic Command
 1 Hall of Storm Giants
@@ -135,6 +136,10 @@
 1 Traverse the Ulvenwald
 1 Mishra's Bauble
 2 Mishra's Bauble
+1 Rest in Peace
+2 Steam Vents
+2 Rest in Peace
+4 Jace, the Mind Sculptor
 1 Seasoned Pyromancer
 1 Wall of Blossoms
 1 Magus of the Moon
@@ -172,7 +177,6 @@
 4 Marsh Flats
 4 Tarmogoyf
 4 Eladamri's Call
-4 Jace, the Mind Sculptor
 1 Valki, God of Lies
 1 Renegade Rallier
 1 Bring to Light
@@ -248,8 +252,8 @@
 1 Lurrus of the Dream-Den
 1 Aether Vial
 1 Ambitious Farmhand
-1 Urza's Saga
 1 Shadowspear
+1 Urza's Saga
 2 Welcoming Vampire
 2 Sunbaked Canyon
 2 Giver of Runes
@@ -272,15 +276,12 @@
 7 Plains
 8 Plains
 9 Plains
+1 Tourach, Dread Cantor
 1 Callous Bloodmage
-1 Sword of Truth and Justice
-2 Tourach, Dread Cantor
+1 Growth Spiral
 1 Polluted Delta
 2 Polluted Delta
 3 Island
 3 Castle Vantress
-3 Polluted Delta
 4 Mystic Gate
-1 Growth Spiral
-1 Irrigated Farmland
-4 Scalding Tarn
+3 Polluted Delta
