@@ -1,9 +1,9 @@
-3 Mulldrifter
-2 Unburial Rites
-3 Priest of Fell Rites
-1 Serra's Emissary
+1 Mulldrifter
+2 Mulldrifter
 4 Prismatic Ending
 2 Hallowed Fountain
+3 Mulldrifter
+2 Unburial Rites
 2 Polluted Delta
 3 Polluted Delta
 4 Polluted Delta
@@ -23,10 +23,10 @@
 2 Wandering Mind
 3 Glacial Fortress
 3 Wandering Mind
+4 Wandering Mind
 4 Arid Mesa
 4 Priest of Fell Rites
 4 Bloodstained Mire
-4 Wandering Mind
 2 Swamp
 1 Thoughtseize
 2 Thoughtseize
@@ -52,6 +52,7 @@
 3 Fetid Heath
 4 Flagstones of Trokair
 4 Smallpox
+1 Silent Clearing
 1 Darkslick Shores
 2 Darkslick Shores
 2 Island
@@ -63,18 +64,9 @@
 4 Consider
 1 River of Tears
 1 Mystic Gate
-1 Silent Clearing
 1 Grave Titan
 2 Plains
 1 Zagoth Triome
-1 Vanishing Verse
-2 Vanishing Verse
-3 Vanishing Verse
-1 Jace, Vryn's Prodigy
-1 Thought Scour
-2 Thought Scour
-3 Thought Scour
-3 Inquisition of Kozilek
 1 Kaya, Orzhov Usurper
 1 Chalice of the Void
 1 Drowned Catacomb
@@ -86,14 +78,22 @@
 2 Chalice of the Void
 2 Kaya's Guile
 2 Mystic Gate
-3 Chalice of the Void
 3 Island
+3 Chalice of the Void
+1 Vanishing Verse
+2 Vanishing Verse
+3 Vanishing Verse
+1 Jace, Vryn's Prodigy
+1 Thought Scour
+2 Thought Scour
+3 Thought Scour
+3 Inquisition of Kozilek
 1 Fact or Fiction
 1 Nephalia Drownyard
 1 Fatal Push
 1 Darkblast
-2 Fatal Push
 2 Fact or Fiction
+2 Fatal Push
 3 Darkslick Shores
 1 Creeping Tar Pit
 4 Concealed Courtyard
@@ -122,12 +122,12 @@
 1 Indomitable Creativity
 1 Scalding Tarn
 1 Lightning Bolt
-2 Raugrin Triome
 2 Prismari Command
 2 Blood Crypt
 2 Hard Evidence
 2 Steam Vents
 2 Dwarven Mine
+2 Raugrin Triome
 2 Scalding Tarn
 2 Lightning Bolt
 2 Indomitable Creativity

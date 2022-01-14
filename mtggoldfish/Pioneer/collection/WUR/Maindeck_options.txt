@@ -1,25 +1,28 @@
 2 Hall of Storm Giants
-4 Absorb
-2 Memory Deluge
-3 Deserted Beach
 1 Azorius Charm
 2 Azorius Charm
+2 Memory Deluge
+3 Deserted Beach
+4 Absorb
 4 Teferi, Hero of Dominaria
-1 Hengegate Pathway
 3 Azorius Charm
 3 Irrigated Farmland
 4 Dovin's Veto
-1 Seal Away
 4 Azorius Charm
+1 Hengegate Pathway
+1 Seal Away
+1 Portable Hole
 1 Commit/Memory
 1 Geier Reach Sanitarium
-1 Portable Hole
+4 Irrigated Farmland
+1 Fabled Passage
+2 Fabled Passage
+4 Narset, Parter of Veils
 1 Sacred Foundry
 1 Steam Vents
 1 Raugrin Triome
 1 Chained to the Rocks
 1 Anger of the Gods
-1 Fabled Passage
 1 Fires of Invention
 1 The Birth of Meletis
 2 Steam Vents
@@ -28,7 +31,6 @@
 2 Chained to the Rocks
 2 Fires of Invention
 2 The Birth of Meletis
-2 Fabled Passage
 3 Steam Vents
 3 Sacred Foundry
 3 Chained to the Rocks
@@ -46,10 +48,6 @@
 4 Chained to the Rocks
 1 Omen of the Sea
 2 Omen of the Sea
-4 Narset, Parter of Veils
-1 Snow-Covered Island
-1 Snow-Covered Forest
-1 Snow-Covered Mountain
 1 Hinterland Harbor
 1 Ketria Triome
 1 Esika's Chariot
@@ -57,10 +55,8 @@
 1 The Raven's Warning
 1 Sunpetal Grove
 1 Agent of Treachery
-1 Snow-Covered Plains
 1 Deafening Clarion
 1 Cast Out
-2 Snow-Covered Plains
 2 Ketria Triome
 2 Transmogrify
 2 The Raven's Warning
@@ -71,20 +67,26 @@
 2 Esika's Chariot
 2 Agent of Treachery
 3 Ketria Triome
-3 Snow-Covered Plains
 3 Esika's Chariot
 3 Omen of the Sea
+3 Deafening Clarion
 3 Transmogrify
 3 The Raven's Warning
-3 Deafening Clarion
 4 Transmogrify
 4 The Raven's Warning
 4 Esika's Chariot
 4 Omen of the Sea
 4 Ketria Triome
-4 Irrigated Farmland
-1 Blast Zone
+1 Snow-Covered Island
+1 Snow-Covered Forest
+1 Snow-Covered Mountain
+1 Snow-Covered Plains
+2 Snow-Covered Plains
+3 Snow-Covered Plains
 3 Field of Ruin
+1 Blast Zone
+1 Mountain
+3 Plains
 1 Search for Azcanta
 1 Elspeth, Sun's Champion
 1 Expressive Iteration
@@ -95,7 +97,6 @@
 1 Elspeth, Sun's Nemesis
 1 Fire Prophecy
 1 Sundown Pass
-1 Mountain
 1 Omen of the Sun
 1 The Locust God
 2 Sundown Pass
@@ -108,7 +109,6 @@
 2 Omen of the Sun
 2 Mountain
 3 Expressive Iteration
-3 Plains
 3 Indomitable Creativity
 3 Omen of the Sun
 3 Stormcarved Coast
@@ -122,13 +122,18 @@
 1 Swift Response
 2 Swift Response
 1 Hullbreaker Horror
+2 Portable Hole
 1 Solve the Equation
+1 Forest
 1 Cave of the Frost Dragon
 1 Fae of Wishes
-2 Portable Hole
 1 Jace, Architect of Thought
 2 Settle the Wreckage
 2 Hengegate Pathway
 3 Hengegate Pathway
 2 Seal Away
 3 Seal Away
+1 Scavenger Grounds
+3 Castle Vantress
+4 Deserted Beach
+4 Censor

@@ -1,23 +1,23 @@
-3 Manamorphose
-2 Bloodstained Mire
+2 Sunbaked Canyon
+3 Mountain
+2 Wooded Foothills
 1 Path to Exile
 2 Path to Exile
 4 Inspiring Vantage
-2 Wooded Foothills
-3 Mountain
+3 Manamorphose
 3 Sunbaked Canyon
-4 Manamorphose
 1 Reckless Impulse
 2 Reckless Impulse
-4 Sunbaked Canyon
 3 Reckless Impulse
+4 Manamorphose
+4 Sunbaked Canyon
 3 Arid Mesa
 3 Scalding Tarn
-4 Mountain
 1 Unholy Heat
 4 Reckless Impulse
-3 Sacred Foundry
+4 Mountain
 2 Unholy Heat
+3 Sacred Foundry
 1 Crash Through
 5 Mountain
 3 Bloodstained Mire
@@ -40,8 +40,7 @@
 2 Tarfire
 4 Bloodstained Mire
 3 Fiery Islet
-1 Mutagenic Growth
-2 Mutagenic Growth
+3 Unholy Heat
 3 Tarfire
 1 Bonecrusher Giant
 1 Bedlam Reveler
@@ -49,38 +48,38 @@
 2 Stormwing Entity
 3 Stormwing Entity
 3 Steam Vents
+1 Mutagenic Growth
+2 Mutagenic Growth
 1 Spirebluff Canal
 2 Spirebluff Canal
 3 Spirebluff Canal
 4 Seal of Fire
 2 Bonecrusher Giant
-3 Unholy Heat
 1 Sprite Dragon
 2 Sprite Dragon
 1 Vapor Snag
 1 Lava Spike
 2 Lava Spike
 4 Spirebluff Canal
-3 Mutagenic Growth
-1 Den of the Bugbear
-2 Den of the Bugbear
 4 Prismatic Ending
+1 Blast Zone
 1 Seasoned Pyromancer
+1 Den of the Bugbear
 1 Relic of Progenitus
 1 Chandra, Dressed to Kill
-1 Blast Zone
 1 Fury
 2 Fury
 2 Seasoned Pyromancer
+2 Den of the Bugbear
 2 Chandra, Dressed to Kill
 2 Relic of Progenitus
 2 Blast Zone
 3 Den of the Bugbear
 3 Seasoned Pyromancer
 3 Chandra, Dressed to Kill
-3 Blast Zone
 3 Fury
 3 Relic of Progenitus
+3 Blast Zone
 4 Den of the Bugbear
 4 Seasoned Pyromancer
 4 Chandra, Dressed to Kill
@@ -104,6 +103,7 @@
 1 Consider
 2 Consider
 3 Consider
+3 Mutagenic Growth
 4 Scalding Tarn
 9 Mountain
 10 Mountain
@@ -136,7 +136,6 @@
 3 Wooded Foothills
 4 Stormwing Entity
 4 Wooded Foothills
-4 Lava Spike
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 1 Firebolt
@@ -147,8 +146,4 @@
 13 Mountain
 14 Mountain
 15 Mountain
-1 Needleverge Pathway
-1 Boros Charm
-2 Boros Charm
-2 Needleverge Pathway
-4 Mutagenic Growth
+4 Lava Spike

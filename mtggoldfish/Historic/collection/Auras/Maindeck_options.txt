@@ -55,9 +55,9 @@
 1 Rune of Sustenance
 1 Kaya's Ghostform
 2 Godless Shrine
-2 Isolated Chapel
 2 Kaya's Ghostform
 2 Thoughtseize
+2 Isolated Chapel
 2 Concealed Courtyard
 3 Godless Shrine
 3 Concealed Courtyard
@@ -87,15 +87,11 @@
 3 Brightclimb Pathway
 3 Isolated Chapel
 4 Brightclimb Pathway
-1 Fly
-2 Fly
-3 Fly
-4 Fly
 1 Wild Shape
 1 Rune of Might
 1 Sythis, Harvest's Hand
-1 Blooming Marsh
 1 Overgrown Tomb
+1 Blooming Marsh
 1 Warbriar Blessing
 1 Temple Garden
 1 Solid Footing
@@ -105,14 +101,17 @@
 2 Dead Weight
 2 Solid Footing
 2 Temple Garden
-3 Sythis, Harvest's Hand
 3 Temple Garden
+3 Sythis, Harvest's Hand
 4 Temple Garden
+1 Fly
+2 Fly
+3 Fly
+4 Fly
 6 Island
 2 Angelic Gift
 3 Heliod's Punishment
 3 Angelic Gift
-4 Angelic Gift
 10 Plains
 11 Plains
 12 Plains
@@ -125,3 +124,4 @@
 19 Plains
 20 Plains
 21 Plains
+4 Angelic Gift
