@@ -29,13 +29,13 @@
 
 # Pioneer
 
-|                               A                               |                               B                               |                                  C                                  |                          D                          |                    E                    |
-|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------|
-|[Angels Company](./mtggoldfish/Pioneer/decks/Angels_Company.md)|[G](./mtggoldfish/Pioneer/decks/G.md)                          |[Orzhov Humans](./mtggoldfish/Pioneer/decks/Orzhov_Humans.md)        |[UR](./mtggoldfish/Pioneer/decks/UR.md)              |[WUR](./mtggoldfish/Pioneer/decks/WUR.md)|
-|[BRG](./mtggoldfish/Pioneer/decks/BRG.md)                      |[Hidden Strings](./mtggoldfish/Pioneer/decks/Hidden_Strings.md)|[R](./mtggoldfish/Pioneer/decks/R.md)                                |[UW Ensoul](./mtggoldfish/Pioneer/decks/UW_Ensoul.md)|                                         |
-|[BR](./mtggoldfish/Pioneer/decks/BR.md)                        |[Izzet Phoenix](./mtggoldfish/Pioneer/decks/Izzet_Phoenix.md)  |[Rakdos Pyromancer](./mtggoldfish/Pioneer/decks/Rakdos_Pyromancer.md)|[WB](./mtggoldfish/Pioneer/decks/WB.md)              |                                         |
-|[B](./mtggoldfish/Pioneer/decks/B.md)                          |[Naya Winota](./mtggoldfish/Pioneer/decks/Naya_Winota.md)      |[Spirits](./mtggoldfish/Pioneer/decks/Spirits.md)                    |[WR](./mtggoldfish/Pioneer/decks/WR.md)              |                                         |
-|[Burn](./mtggoldfish/Pioneer/decks/Burn.md)                    |[Niv to Light](./mtggoldfish/Pioneer/decks/Niv_to_Light.md)    |[UB](./mtggoldfish/Pioneer/decks/UB.md)                              |[WURG](./mtggoldfish/Pioneer/decks/WURG.md)          |                                         |
+|                               A                               |                               B                               |                                  C                                  |                          D                          |                      E                      |
+|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------|---------------------------------------------|
+|[Angels Company](./mtggoldfish/Pioneer/decks/Angels_Company.md)|[G](./mtggoldfish/Pioneer/decks/G.md)                          |[Orzhov Humans](./mtggoldfish/Pioneer/decks/Orzhov_Humans.md)        |[UB](./mtggoldfish/Pioneer/decks/UB.md)              |[WUBRG](./mtggoldfish/Pioneer/decks/WUBRG.md)|
+|[BRG](./mtggoldfish/Pioneer/decks/BRG.md)                      |[Hidden Strings](./mtggoldfish/Pioneer/decks/Hidden_Strings.md)|[RG](./mtggoldfish/Pioneer/decks/RG.md)                              |[UR](./mtggoldfish/Pioneer/decks/UR.md)              |[WURG](./mtggoldfish/Pioneer/decks/WURG.md)  |
+|[BR](./mtggoldfish/Pioneer/decks/BR.md)                        |[Izzet Phoenix](./mtggoldfish/Pioneer/decks/Izzet_Phoenix.md)  |[R](./mtggoldfish/Pioneer/decks/R.md)                                |[UW Ensoul](./mtggoldfish/Pioneer/decks/UW_Ensoul.md)|[WUR](./mtggoldfish/Pioneer/decks/WUR.md)    |
+|[B](./mtggoldfish/Pioneer/decks/B.md)                          |[Naya Winota](./mtggoldfish/Pioneer/decks/Naya_Winota.md)      |[Rakdos Pyromancer](./mtggoldfish/Pioneer/decks/Rakdos_Pyromancer.md)|[WB](./mtggoldfish/Pioneer/decks/WB.md)              |                                             |
+|[Burn](./mtggoldfish/Pioneer/decks/Burn.md)                    |[Niv to Light](./mtggoldfish/Pioneer/decks/Niv_to_Light.md)    |[Spirits](./mtggoldfish/Pioneer/decks/Spirits.md)                    |[WR](./mtggoldfish/Pioneer/decks/WR.md)              |                                             |
 
 
 # Modern
@@ -72,4 +72,4 @@
 
 
 
-#### Last Updated at 12:29PM on January 14, 2022
+#### Last Updated at 12:27AM on January 15, 2022
