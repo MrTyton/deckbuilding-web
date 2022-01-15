@@ -40,8 +40,8 @@
 2 Shambling Ghast
 3 Shambling Ghast
 4 Shambling Ghast
-1 Concealing Curtains
 1 Professor of Symbology
+1 Concealing Curtains
 2 Concealing Curtains
 2 Professor of Symbology
 3 Professor of Symbology
@@ -67,13 +67,13 @@
 3 Firja's Retribution
 1 Skyclave Apparition
 1 Soul Shatter
-1 Bloodvial Purveyor
 1 Eyetwitch
-2 Bloodvial Purveyor
+1 Bloodvial Purveyor
 2 Eyetwitch
+2 Bloodvial Purveyor
+3 Reidane, God of the Worthy
 3 Bloodvial Purveyor
 3 Concealing Curtains
-3 Reidane, God of the Worthy
 3 Eyetwitch
 4 Bloodvial Purveyor
 1 Starnheim Unleashed
@@ -99,84 +99,84 @@
 4 Righteous Valkyrie
 4 Emeria's Call
 1 Youthful Valkyrie
-2 Youthful Valkyrie
 2 Starnheim Unleashed
+2 Youthful Valkyrie
 3 Youthful Valkyrie
 4 Youthful Valkyrie
 8 Plains
 1 Professor Onyx
 1 Bloodchief's Thirst
 1 Priest of the Haunted Edge
-1 Silverquill Command
-1 Acquisitions Expert
 1 Elderfang Disciple
+1 Acquisitions Expert
+1 Silverquill Command
 1 Rampage of the Valkyries
+1 Power Word Kill
+1 Nadaar, Selfless Paladin
+1 Cathar Commando
+1 Silverquill Campus
+1 Vanquish the Horde
 1 Infernal Grasp
 1 Morbid Opportunist
-1 Silverquill Campus
-1 Malakir Rebirth
-1 Poison the Cup
 1 Plumb the Forbidden
-1 Demon's Disciple
-1 Vanquish the Horde
-1 Great Hall of Starnheim
-1 Tergrid, God of Fright
-1 Eaten Alive
-1 Village Rites
 1 Rite of Oblivion
+1 Poison the Cup
+1 Eaten Alive
 1 Priest of Ancient Lore
-1 Power Word Kill
-1 Cathar Commando
-1 Nadaar, Selfless Paladin
+1 Great Hall of Starnheim
+1 Village Rites
 1 Fleshtaker
+1 Tergrid, God of Fright
 1 Ecstatic Awakener
 1 Loyal Warhound
+1 Demon's Disciple
+1 Malakir Rebirth
+2 Sorin the Mirthless
 1 Baleful Mastery
 2 Baleful Mastery
-2 Sorin the Mirthless
 2 Bloodchief's Thirst
 3 Fell Stinger
 3 Edgar, Charmed Groom
 1 Go Blank
 1 Welcoming Vampire
 2 Welcoming Vampire
-2 Acquisitions Expert
 2 Elderfang Disciple
-3 Skullport Merchant
+2 Acquisitions Expert
 3 Welcoming Vampire
+3 Skullport Merchant
 3 Elderfang Disciple
 3 Acquisitions Expert
 4 Professor of Symbology
-1 Stonebinder's Familiar
-1 Chaplain of Alms
-1 Adeline, Resplendent Cathar
-1 Valorous Stance
-2 Stonebinder's Familiar
-2 Chaplain of Alms
-2 Adeline, Resplendent Cathar
-3 Stonebinder's Familiar
-3 Chaplain of Alms
-3 Adeline, Resplendent Cathar
-4 Thalia, Guardian of Thraben
-4 Sungold Sentinel
-4 Chaplain of Alms
-1 Taborax, Hope's Demise
 1 Drana, the Last Bloodchief
 1 Dream Devourer
+1 Taborax, Hope's Demise
 2 Priest of the Haunted Edge
 2 Dream Devourer
 3 Dream Devourer
 3 Priest of the Haunted Edge
 4 Snowfield Sinkhole
-1 Enduring Angel
 1 Kaya, Geist Hunter
+1 Enduring Angel
 2 Skyclave Apparition
-3 Fateful Absence
 3 Skyclave Apparition
 3 Starnheim Unleashed
 3 Liesa, Forgotten Archangel
+3 Fateful Absence
 4 Skyclave Apparition
 4 Starnheim Unleashed
+1 Stonebinder's Familiar
+1 Chaplain of Alms
+1 Adeline, Resplendent Cathar
+1 Valorous Stance
+2 Adeline, Resplendent Cathar
+2 Stonebinder's Familiar
+2 Chaplain of Alms
+3 Adeline, Resplendent Cathar
+3 Stonebinder's Familiar
+3 Chaplain of Alms
+4 Thalia, Guardian of Thraben
+4 Sungold Sentinel
+4 Chaplain of Alms
 1 Faithbound Judge
 1 Voldaren Bloodcaster
 2 Faithbound Judge
@@ -185,17 +185,17 @@
 3 Voldaren Bloodcaster
 4 Deadly Dispute
 8 Snow-Covered Swamp
-1 Valkyrie Harbinger
 1 Doomskar
 1 Vengeful Reaper
+1 Valkyrie Harbinger
 1 Haunting Voyage
-2 Valkyrie Harbinger
 2 Doomskar
 2 Vengeful Reaper
 2 Rampage of the Valkyries
 2 Haunting Voyage
+2 Valkyrie Harbinger
 3 Vengeful Reaper
 3 Haunting Voyage
+4 Vengeful Reaper
 4 Shineshadow Snarl
 9 Plains
-4 Vengeful Reaper

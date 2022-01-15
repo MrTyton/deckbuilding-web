@@ -4,14 +4,12 @@
 
 # Standard
 
-|                                A                                 |                                 B                                  |                                   C                                    |                                D                                 |                                  E                                   |
-|------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------|
-|[Abzan Sacrifice](./mtggoldfish/Standard/decks/Abzan_Sacrifice.md)|[Grixis Dragons](./mtggoldfish/Standard/decks/Grixis_Dragons.md)    |[Jund Midrange](./mtggoldfish/Standard/decks/Jund_Midrange.md)          |[Naya Aggro](./mtggoldfish/Standard/decks/Naya_Aggro.md)          |[Selesnya Lifegain](./mtggoldfish/Standard/decks/Selesnya_Lifegain.md)|
-|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Gruul Midrange](./mtggoldfish/Standard/decks/Gruul_Midrange.md)    |[Mono-Black Aggro](./mtggoldfish/Standard/decks/Mono-Black_Aggro.md)    |[Naya Midrange](./mtggoldfish/Standard/decks/Naya_Midrange.md)    |[Temur Midrange](./mtggoldfish/Standard/decks/Temur_Midrange.md)      |
-|[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)    |[Gruul Werewolves](./mtggoldfish/Standard/decks/Gruul_Werewolves.md)|[Mono-Blue Tempo](./mtggoldfish/Standard/decks/Mono-Blue_Tempo.md)      |[Orzhov Clerics](./mtggoldfish/Standard/decks/Orzhov_Clerics.md)  |                                                                      |
-|[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)    |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)      |[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)    |[Orzhov Control](./mtggoldfish/Standard/decks/Orzhov_Control.md)  |                                                                      |
-|[Golgari Control](./mtggoldfish/Standard/decks/Golgari_Control.md)|[Izzet Dragons](./mtggoldfish/Standard/decks/Izzet_Dragons.md)      |[Mono-Red Control](./mtggoldfish/Standard/decks/Mono-Red_Control.md)    |[Orzhov Midrange](./mtggoldfish/Standard/decks/Orzhov_Midrange.md)|                                                                      |
-|[Grixis Control](./mtggoldfish/Standard/decks/Grixis_Control.md)  |[Jeskai Control](./mtggoldfish/Standard/decks/Jeskai_Control.md)    |[Mono-White Aggro ️](./mtggoldfish/Standard/decks/Mono-White_Aggro_️.md)|[Rakdos Vampires](./mtggoldfish/Standard/decks/Rakdos_Vampires.md)|                                                                      |
+|                                A                                 |                               B                                |                                   C                                    |                                D                                 |
+|------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------|
+|[Abzan Sacrifice](./mtggoldfish/Standard/decks/Abzan_Sacrifice.md)|[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)  |[Mono-Blue Tempo](./mtggoldfish/Standard/decks/Mono-Blue_Tempo.md)      |[Naya Midrange](./mtggoldfish/Standard/decks/Naya_Midrange.md)    |
+|[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)    |[Izzet Dragons](./mtggoldfish/Standard/decks/Izzet_Dragons.md)  |[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)    |[Orzhov Control](./mtggoldfish/Standard/decks/Orzhov_Control.md)  |
+|[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)    |[Jeskai Control](./mtggoldfish/Standard/decks/Jeskai_Control.md)|[Mono-White Aggro ️](./mtggoldfish/Standard/decks/Mono-White_Aggro_️.md)|[Orzhov Midrange](./mtggoldfish/Standard/decks/Orzhov_Midrange.md)|
+|[Grixis Control](./mtggoldfish/Standard/decks/Grixis_Control.md)  |[Jund Midrange](./mtggoldfish/Standard/decks/Jund_Midrange.md)  |[Naya Aggro](./mtggoldfish/Standard/decks/Naya_Aggro.md)                |[Temur Midrange](./mtggoldfish/Standard/decks/Temur_Midrange.md)  |
 
 
 # Historic
@@ -72,4 +70,4 @@
 
 
 
-#### Last Updated at 12:27AM on January 15, 2022
+#### Last Updated at 12:24PM on January 15, 2022

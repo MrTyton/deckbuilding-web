@@ -1,17 +1,21 @@
-2 Kor Outfitter
-1 Ingenious Smith
-2 Ingenious Smith
 3 Ingenious Smith
+4 Ingenious Smith
+1 Gingerbrute
+1 Kor Outfitter
+2 Kor Outfitter
 1 Snow-Covered Plains
 2 Snow-Covered Plains
-4 Inkmoth Nexus
-4 Ingenious Smith
 3 Snow-Covered Plains
-4 Snow-Covered Plains
+4 Inkmoth Nexus
 2 Marsh Flats
+4 Snow-Covered Plains
 1 Thoughtseize
 2 Thoughtseize
+5 Plains
 2 Flooded Strand
+3 Thoughtseize
+1 Horizon Canopy
+1 Steelshaper's Gift
 1 Sacred Foundry
 1 Inspiring Vantage
 1 Ragavan, Nimble Pilferer
@@ -22,28 +26,24 @@
 4 Ragavan, Nimble Pilferer
 1 Sunbaked Canyon
 1 Magnetic Theft
-5 Plains
-3 Thoughtseize
-1 Mishra's Bauble
-2 Mishra's Bauble
-3 Mishra's Bauble
-1 Steelshaper's Gift
-2 Sunbaked Canyon
 2 Magnetic Theft
 2 Sacred Foundry
-1 Portable Hole
 1 Sword of Fire and Ice
 1 Nettlecyst
 1 Dark Confidant
 2 Dark Confidant
 1 Galvanic Blast
+2 Sunbaked Canyon
 2 Galvanic Blast
 3 Sunbaked Canyon
-1 Horizon Canopy
-3 Flooded Strand
+1 Portable Hole
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Mishra's Bauble
 1 Paradise Mantle
+1 Blacksmith's Skill
 2 Windswept Heath
-2 Arid Mesa
+3 Flooded Strand
 3 Galvanic Blast
 4 Galvanic Blast
 5 Snow-Covered Plains
@@ -55,64 +55,46 @@
 2 Steelshaper's Gift
 3 Steelshaper's Gift
 4 Steelshaper's Gift
-1 Blacksmith's Skill
-4 Inspiring Vantage
-3 Arid Mesa
-1 Hallowed Fountain
-1 Kaldra Compleat
-1 Seachrome Coast
-2 Hallowed Fountain
-2 Seachrome Coast
-3 Seachrome Coast
-1 Necrogen Spellbomb
 2 Blacksmith's Skill
+2 Arid Mesa
+3 Marsh Flats
+1 Kaldra Compleat
+1 Sanctifier en-Vec
+2 Sanctifier en-Vec
+1 Necrogen Spellbomb
 2 Paradise Mantle
 1 Pithing Needle
 3 Dark Confidant
 3 Windswept Heath
+1 Hallowed Fountain
 1 Burrenton Forge-Tender
-1 Sanctifier en-Vec
+1 Seachrome Coast
+2 Hallowed Fountain
 2 Burrenton Forge-Tender
-2 Sanctifier en-Vec
+2 Seachrome Coast
 3 Burrenton Forge-Tender
+3 Seachrome Coast
 4 Seachrome Coast
-3 Marsh Flats
-4 Arid Mesa
+3 Arid Mesa
+1 Temple Garden
+1 Razorverge Thicket
+2 Horizon Canopy
+2 Razorverge Thicket
+3 Razorverge Thicket
+3 Horizon Canopy
+4 Inspiring Vantage
 3 Magnetic Theft
 1 Soul-Guide Lantern
-1 Flayer Husk
-1 Swiftfoot Boots
 4 Windswept Heath
-1 Sword of Feast and Famine
-1 Island
-1 Razortide Bridge
-1 Cavern of Souls
-1 Urza, Lord High Artificer
-1 Glint-Nest Crane
-2 Glint-Nest Crane
-2 Urza, Lord High Artificer
-2 Razortide Bridge
-3 Glint-Nest Crane
-3 Urza, Lord High Artificer
-4 Flooded Strand
-1 Temple Garden
 1 Relic of Progenitus
-1 Razorverge Thicket
 1 Ancient Stirrings
-2 Horizon Canopy
 2 Temple Garden
-2 Razorverge Thicket
 2 Ancient Stirrings
-3 Razorverge Thicket
 3 Ancient Stirrings
-3 Horizon Canopy
 4 Razorverge Thicket
 4 Ancient Stirrings
-1 Dragon's Rage Channeler
-2 Dragon's Rage Channeler
-3 Dragon's Rage Channeler
-4 Marsh Flats
-4 Dragon's Rage Channeler
+3 Blacksmith's Skill
+4 Horizon Canopy
 1 Blinkmoth Nexus
 1 Battlefield Forge
 1 Seal of Fire
@@ -124,10 +106,16 @@
 3 Battlefield Forge
 4 Battlefield Forge
 4 Blinkmoth Nexus
+1 Dragon's Rage Channeler
+2 Dragon's Rage Channeler
+3 Dragon's Rage Channeler
+4 Marsh Flats
+4 Dragon's Rage Channeler
+4 Arid Mesa
 1 Giver of Runes
 1 Prismatic Ending
-2 Giver of Runes
 2 Portable Hole
+2 Giver of Runes
 6 Plains
 7 Plains
 8 Plains

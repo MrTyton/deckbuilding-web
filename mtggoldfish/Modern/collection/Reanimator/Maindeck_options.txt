@@ -1,7 +1,7 @@
+1 Glacial Fortress
 1 Mulldrifter
 2 Mulldrifter
 4 Prismatic Ending
-2 Hallowed Fountain
 3 Mulldrifter
 2 Unburial Rites
 2 Polluted Delta
@@ -13,16 +13,16 @@
 1 Arid Mesa
 1 Steam Vents
 1 Bloodstained Mire
+1 Wandering Mind
 1 Sacred Foundry
 2 Arid Mesa
-2 Bloodstained Mire
-3 Arid Mesa
-3 Bloodstained Mire
-1 Wandering Mind
 2 Glacial Fortress
 2 Wandering Mind
+2 Bloodstained Mire
+3 Arid Mesa
 3 Glacial Fortress
 3 Wandering Mind
+3 Bloodstained Mire
 4 Wandering Mind
 4 Arid Mesa
 4 Priest of Fell Rites
@@ -32,6 +32,7 @@
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
+1 Silent Clearing
 1 Counterspell
 2 Counterspell
 3 Counterspell
@@ -52,7 +53,6 @@
 3 Fetid Heath
 4 Flagstones of Trokair
 4 Smallpox
-1 Silent Clearing
 1 Darkslick Shores
 2 Darkslick Shores
 2 Island
@@ -83,25 +83,18 @@
 1 Vanishing Verse
 2 Vanishing Verse
 3 Vanishing Verse
-1 Jace, Vryn's Prodigy
 1 Thought Scour
+1 Jace, Vryn's Prodigy
 2 Thought Scour
 3 Thought Scour
 3 Inquisition of Kozilek
-1 Fact or Fiction
-1 Nephalia Drownyard
-1 Fatal Push
-1 Darkblast
-2 Fact or Fiction
-2 Fatal Push
-3 Darkslick Shores
 1 Creeping Tar Pit
 4 Concealed Courtyard
 1 Malakir Rebirth
-1 Castle Locthwain
 1 Castle Ardenvale
 1 Bone Shards
 1 Collective Brutality
+1 Castle Locthwain
 1 Lingering Souls
 1 Cave of the Frost Dragon
 1 Cataclysmic Gearhulk
@@ -114,31 +107,10 @@
 3 Lingering Souls
 4 Godless Shrine
 4 Lingering Souls
-1 Dwarven Mine
-1 Raugrin Triome
-1 Prismari Command
-1 Blood Crypt
-1 Hard Evidence
-1 Indomitable Creativity
-1 Scalding Tarn
-1 Lightning Bolt
-2 Prismari Command
-2 Blood Crypt
-2 Hard Evidence
-2 Steam Vents
-2 Dwarven Mine
-2 Raugrin Triome
-2 Scalding Tarn
-2 Lightning Bolt
-2 Indomitable Creativity
-3 Lightning Bolt
-3 Scalding Tarn
-3 Dwarven Mine
-3 Hard Evidence
-3 Indomitable Creativity
-3 Prismari Command
-4 Hard Evidence
-4 Scalding Tarn
-4 Lightning Bolt
-4 Prismari Command
-4 Indomitable Creativity
+1 Fact or Fiction
+1 Nephalia Drownyard
+1 Fatal Push
+1 Darkblast
+2 Fact or Fiction
+2 Fatal Push
+3 Darkslick Shores
