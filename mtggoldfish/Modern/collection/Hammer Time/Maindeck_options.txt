@@ -1,21 +1,24 @@
+3 Snow-Covered Plains
+4 Inkmoth Nexus
+1 Ingenious Smith
+2 Ingenious Smith
 3 Ingenious Smith
 4 Ingenious Smith
 1 Gingerbrute
 1 Kor Outfitter
 2 Kor Outfitter
-1 Snow-Covered Plains
-2 Snow-Covered Plains
-3 Snow-Covered Plains
-4 Inkmoth Nexus
-2 Marsh Flats
 4 Snow-Covered Plains
+2 Marsh Flats
 1 Thoughtseize
 2 Thoughtseize
-5 Plains
+1 Steelshaper's Gift
 2 Flooded Strand
+5 Plains
+1 Sword of Fire and Ice
+1 Nettlecyst
 3 Thoughtseize
 1 Horizon Canopy
-1 Steelshaper's Gift
+1 Paradise Mantle
 1 Sacred Foundry
 1 Inspiring Vantage
 1 Ragavan, Nimble Pilferer
@@ -28,10 +31,6 @@
 1 Magnetic Theft
 2 Magnetic Theft
 2 Sacred Foundry
-1 Sword of Fire and Ice
-1 Nettlecyst
-1 Dark Confidant
-2 Dark Confidant
 1 Galvanic Blast
 2 Sunbaked Canyon
 2 Galvanic Blast
@@ -40,12 +39,6 @@
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
-1 Paradise Mantle
-1 Blacksmith's Skill
-2 Windswept Heath
-3 Flooded Strand
-3 Galvanic Blast
-4 Galvanic Blast
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains
@@ -55,6 +48,14 @@
 2 Steelshaper's Gift
 3 Steelshaper's Gift
 4 Steelshaper's Gift
+2 Windswept Heath
+1 Blacksmith's Skill
+2 Paradise Mantle
+3 Flooded Strand
+3 Galvanic Blast
+4 Galvanic Blast
+1 Dark Confidant
+2 Dark Confidant
 2 Blacksmith's Skill
 2 Arid Mesa
 3 Marsh Flats
@@ -62,9 +63,6 @@
 1 Sanctifier en-Vec
 2 Sanctifier en-Vec
 1 Necrogen Spellbomb
-2 Paradise Mantle
-1 Pithing Needle
-3 Dark Confidant
 3 Windswept Heath
 1 Hallowed Fountain
 1 Burrenton Forge-Tender
@@ -85,6 +83,8 @@
 4 Inspiring Vantage
 3 Magnetic Theft
 1 Soul-Guide Lantern
+1 Pithing Needle
+3 Dark Confidant
 4 Windswept Heath
 1 Relic of Progenitus
 1 Ancient Stirrings

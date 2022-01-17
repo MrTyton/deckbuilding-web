@@ -1,9 +1,9 @@
 1 Once Upon a Time
 2 Once Upon a Time
 2 Elvish Reclaimer
+4 Sylvan Scrying
 4 Pithing Needle
 3 Elvish Reclaimer
-4 Sylvan Scrying
 4 Elvish Reclaimer
 1 Sylvan Safekeeper
 1 Abrupt Decay
@@ -26,13 +26,7 @@
 4 Dark Confidant
 1 Shadowspear
 2 Urza's Saga
-4 Once Upon a Time
-1 Retrofitter Foundry
-3 Urza's Saga
-2 Sylvan Library
-3 Bayou
 1 Gemstone Mine
-1 City of Brass
 1 Mana Confluence
 2 Mana Confluence
 2 Gemstone Mine
@@ -40,6 +34,14 @@
 3 Mana Confluence
 4 Mana Confluence
 4 Gemstone Mine
+4 Once Upon a Time
+1 Retrofitter Foundry
+3 Urza's Saga
+2 Sylvan Library
+3 Bayou
+1 Stifle
+2 Stifle
+1 City of Brass
 1 Expedition Map
 4 Mox Diamond
 1 Assassin's Trophy
@@ -47,16 +49,19 @@
 4 Abrupt Decay
 1 Overgrown Tomb
 2 Overgrown Tomb
-1 Stifle
-2 Stifle
 4 Not of This World
 4 Urza's Saga
 2 Assassin's Trophy
-1 Entomb
 2 Wasteland
 2 Nurturing Peatland
-2 Swamp
+1 Entomb
 3 Duress
+1 Fling
+3 Wasteland
+2 Life from the Loam
+2 Forest
+2 Swamp
+3 Sylvan Safekeeper
 1 Lion's Eye Diamond
 1 Dark Ritual
 2 Lion's Eye Diamond
@@ -65,40 +70,9 @@
 3 Dark Ritual
 4 Lion's Eye Diamond
 4 Dark Ritual
-1 Bloodstained Mire
-1 Scrubland
-1 Children of Korlis
-1 Griselbrand
-1 Shallow Grave
-1 Unburial Rites
-1 Unmask
-1 Living Wish
-1 Polluted Delta
-1 Exhume
-2 Entomb
-2 Griselbrand
-2 Unmask
-2 Exhume
-2 Living Wish
-2 Polluted Delta
-2 Shallow Grave
-3 Entomb
-3 Exhume
-3 Living Wish
-3 Griselbrand
-3 Shallow Grave
-4 Exhume
-4 Shallow Grave
-4 Entomb
-1 Fling
-3 Wasteland
-2 Life from the Loam
-2 Forest
-3 Sylvan Safekeeper
 1 Badlands
 1 Esika's Chariot
 1 Taiga
-1 Cabal Therapy
 1 Surgical Extraction
 1 Fatal Push
 2 Fatal Push
@@ -114,8 +88,32 @@
 3 Witherbloom Command
 3 Stifle
 4 Duress
-1 Marsh Flats
-4 Living Wish
+1 Bloodstained Mire
+1 Scrubland
+1 Children of Korlis
+1 Griselbrand
+1 Shallow Grave
+1 Unburial Rites
+1 Cabal Therapy
+1 Unmask
+1 Polluted Delta
+1 Exhume
+1 Living Wish
+2 Entomb
+2 Griselbrand
+2 Unmask
+2 Living Wish
+2 Exhume
+2 Polluted Delta
+2 Shallow Grave
+3 Entomb
+3 Exhume
+3 Living Wish
+3 Griselbrand
+3 Shallow Grave
+4 Exhume
+4 Shallow Grave
+4 Entomb
 1 Chain of Smog
 1 Witherbloom Apprentice
 2 Chain of Smog
@@ -125,12 +123,6 @@
 4 Witherbloom Apprentice
 4 Bayou
 4 Chain of Smog
-1 Field of the Dead
-1 Glacial Chasm
-3 Forest
-4 Inquisition of Kozilek
-4 Forest
-5 Forest
 1 Karn, the Great Creator
 1 Infernal Tutor
 1 Tendrils of Agony
@@ -158,3 +150,9 @@
 7 Swamp
 8 Swamp
 9 Swamp
+1 Field of the Dead
+1 Glacial Chasm
+3 Forest
+4 Forest
+4 Inquisition of Kozilek
+5 Forest

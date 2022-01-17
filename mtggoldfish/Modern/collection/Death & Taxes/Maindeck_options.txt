@@ -77,8 +77,8 @@
 2 Windswept Heath
 3 Windswept Heath
 4 Windswept Heath
-1 Welcoming Vampire
 1 Ethersworn Canonist
+1 Welcoming Vampire
 2 Welcoming Vampire
 4 Prismatic Ending
 1 Portable Hole
@@ -152,10 +152,10 @@
 3 Sunbaked Canyon
 3 Needleverge Pathway
 3 Ragavan, Nimble Pilferer
+4 Needleverge Pathway
 4 Sacred Foundry
 4 Sunbaked Canyon
 4 Ragavan, Nimble Pilferer
-4 Needleverge Pathway
 16 Plains
 17 Plains
 18 Plains
@@ -171,11 +171,6 @@
 2 Shefet Dunes
 2 Castle Ardenvale
 3 Cathar Commando
-1 Cavern of Souls
-1 Professor of Symbology
-2 Professor of Symbology
-3 Professor of Symbology
-4 Professor of Symbology
 2 Portable Hole
 3 Portable Hole
 4 Restoration Angel
@@ -185,6 +180,11 @@
 2 Squadron Hawk
 3 Squadron Hawk
 4 Squadron Hawk
+1 Cavern of Souls
+1 Professor of Symbology
+2 Professor of Symbology
+3 Professor of Symbology
+4 Professor of Symbology
 1 Misty Rainforest
 1 Titania, Protector of Argoth
 1 Elvish Reclaimer
