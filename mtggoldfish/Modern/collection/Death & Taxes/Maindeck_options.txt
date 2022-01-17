@@ -77,19 +77,19 @@
 2 Windswept Heath
 3 Windswept Heath
 4 Windswept Heath
-1 Ethersworn Canonist
 1 Welcoming Vampire
+1 Ethersworn Canonist
 2 Welcoming Vampire
 4 Prismatic Ending
 1 Portable Hole
 1 Hallowed Fountain
+1 Seachrome Coast
 1 Deputy of Detention
 1 Cathar Commando
 1 Mutavault
 1 Selfless Spirit
 1 Spell Queller
 1 Spellstutter Sprite
-1 Seachrome Coast
 1 Adarkar Wastes
 2 Seachrome Coast
 2 Deputy of Detention
@@ -118,9 +118,9 @@
 3 Flagstones of Trokair
 4 Flagstones of Trokair
 1 Tireless Tracker
+1 Temple Garden
 1 Forest
 1 Knight of the Reliquary
-1 Temple Garden
 1 Blast Zone
 2 Temple Garden
 2 Knight of the Reliquary
@@ -152,10 +152,10 @@
 3 Sunbaked Canyon
 3 Needleverge Pathway
 3 Ragavan, Nimble Pilferer
-4 Needleverge Pathway
 4 Sacred Foundry
 4 Sunbaked Canyon
 4 Ragavan, Nimble Pilferer
+4 Needleverge Pathway
 16 Plains
 17 Plains
 18 Plains
@@ -171,6 +171,11 @@
 2 Shefet Dunes
 2 Castle Ardenvale
 3 Cathar Commando
+1 Cavern of Souls
+1 Professor of Symbology
+2 Professor of Symbology
+3 Professor of Symbology
+4 Professor of Symbology
 2 Portable Hole
 3 Portable Hole
 4 Restoration Angel
@@ -180,17 +185,12 @@
 2 Squadron Hawk
 3 Squadron Hawk
 4 Squadron Hawk
-1 Cavern of Souls
-1 Professor of Symbology
-2 Professor of Symbology
-3 Professor of Symbology
-4 Professor of Symbology
 1 Misty Rainforest
 1 Titania, Protector of Argoth
 1 Elvish Reclaimer
-1 Indatha Triome
 1 Yavimaya, Cradle of Growth
 1 Bojuka Bog
+1 Indatha Triome
 1 Scattered Groves
 1 Zuran Orb
 1 Quirion Ranger
@@ -203,8 +203,8 @@
 2 Yavimaya, Cradle of Growth
 2 Quirion Ranger
 3 Tireless Tracker
-3 Forest
 3 Misty Rainforest
+3 Forest
 3 Titania, Protector of Argoth
 4 Misty Rainforest
 4 Titania, Protector of Argoth
