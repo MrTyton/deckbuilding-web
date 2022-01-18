@@ -1,20 +1,24 @@
-1 Florian, Voldaren Scion
-3 Mountain
-3 Skullport Merchant
+6 Snow-Covered Swamp
+7 Snow-Covered Swamp
+4 Immersturm Predator
 2 Lolth, Spider Queen
-3 Snow-Covered Mountain
-4 Snow-Covered Mountain
-6 Swamp
+3 Blood on the Snow
 1 Valki, God of Lies
-3 Infernal Grasp
 2 Florian, Voldaren Scion
 1 Reckless Stormseeker
 2 Reckless Stormseeker
 1 Graveyard Trespasser
 2 Graveyard Trespasser
-3 The Meathook Massacre
+3 Skullport Merchant
 2 Valki, God of Lies
+3 Snow-Covered Mountain
+4 Snow-Covered Mountain
 5 Snow-Covered Mountain
+3 Infernal Grasp
+3 Reckless Stormseeker
+3 Graveyard Trespasser
+4 Mountain
+6 Snow-Covered Mountain
 8 Snow-Covered Swamp
 1 Faceless Haven
 2 Faceless Haven
@@ -22,38 +26,34 @@
 4 Faceless Haven
 1 Sorin the Mirthless
 3 Sulfurous Mire
-3 Reckless Stormseeker
-3 Graveyard Trespasser
-6 Snow-Covered Mountain
-4 Sulfurous Mire
-4 Blood on the Snow
-4 Mountain
 2 Den of the Bugbear
 3 Shatterskull Smashing
 1 Bloodvial Purveyor
 2 Bloodvial Purveyor
 7 Swamp
+4 Sulfurous Mire
 3 Florian, Voldaren Scion
 1 Agadeem's Awakening
 2 Agadeem's Awakening
+4 Blood on the Snow
 4 Deadly Dispute
 1 Power Word Kill
+1 Concealing Curtains
+2 Concealing Curtains
+3 Concealing Curtains
+4 Concealing Curtains
 4 Infernal Grasp
 4 Reckless Stormseeker
 1 Soul Shatter
-1 Concealing Curtains
 1 Frost Bite
-2 Concealing Curtains
 2 Frost Bite
-3 Concealing Curtains
-4 Concealing Curtains
 1 Dread Fugue
 2 Dread Fugue
 3 Bloodvial Purveyor
-3 Lolth, Spider Queen
-4 Skullport Merchant
-2 Sorin the Mirthless
-3 Valki, God of Lies
+1 Dragon's Fire
+2 Dragon's Fire
+3 Dragon's Fire
+1 Orcus, Prince of Undeath
 1 Volatile Arsonist
 2 Volatile Arsonist
 1 Bloodchief's Thirst
@@ -61,33 +61,32 @@
 1 Eyetwitch
 2 Eyetwitch
 3 Eyetwitch
-1 Orcus, Prince of Undeath
 4 Graveyard Trespasser
+3 Lolth, Spider Queen
 1 Tainted Adversary
 2 Tainted Adversary
 3 Tainted Adversary
-9 Snow-Covered Swamp
 5 Mountain
+1 Field of Ruin
+2 Field of Ruin
 4 Bloodvial Purveyor
 7 Snow-Covered Mountain
-1 Dragon's Fire
-2 Dragon's Fire
-3 Dragon's Fire
+9 Snow-Covered Swamp
 1 Bloodthirsty Adversary
 2 Bloodthirsty Adversary
-4 Lolth, Spider Queen
-4 Valki, God of Lies
 1 Ebondeath, Dracolich
 1 Fell Stinger
 2 Fell Stinger
 3 Fell Stinger
 4 Fell Stinger
 1 Kazuul's Fury
-10 Snow-Covered Swamp
+2 Sorin the Mirthless
 1 Roil Eruption
 2 Roil Eruption
-1 Field of Ruin
-2 Field of Ruin
+4 Skullport Merchant
+3 Valki, God of Lies
+10 Snow-Covered Swamp
+4 The Meathook Massacre
 1 Manaform Hellkite
 2 Manaform Hellkite
 3 Manaform Hellkite
@@ -96,6 +95,8 @@
 1 Inferno of the Star Mounts
 2 Orcus, Prince of Undeath
 1 Xorn
+4 Lolth, Spider Queen
+4 Valki, God of Lies
 6 Mountain
 2 Ebondeath, Dracolich
 2 Kazuul's Fury
@@ -103,13 +104,17 @@
 2 Baleful Mastery
 1 Light Up the Night
 3 Dread Fugue
-2 Power Word Kill
 4 Eyetwitch
+2 Power Word Kill
+1 Professor Onyx
+2 Professor Onyx
 4 Shatterskull Smashing
+4 Dragon's Fire
 1 Spikefield Hazard
 2 Spikefield Hazard
 3 Hive of the Eye Tyrant
 4 Bloodthirsty Adversary
+3 Agadeem's Awakening
 1 Vampire Socialite
 1 Falkenrath Pit Fighter
 1 Valentin, Dean of the Vein
@@ -118,8 +123,6 @@
 2 Vampire Socialite
 3 Vampire Socialite
 4 Vampire Socialite
-3 Agadeem's Awakening
-4 The Meathook Massacre
 2 Inferno of the Star Mounts
 2 Xorn
 3 Xorn
@@ -135,6 +138,8 @@
 1 Olivia, Crimson Bride
 1 Hagra Mauling
 2 Hagra Mauling
+1 Magda, Brazen Outlaw
+2 Magda, Brazen Outlaw
 1 Henrika Domnathi
 2 Henrika Domnathi
 3 Ebondeath, Dracolich
@@ -147,13 +152,13 @@
 2 Shatterskull Charger
 3 Reckless Impulse
 3 Zariel, Archduke of Avernus
-1 Magic Missile
 1 Jaded Sell-Sword
 1 Red Dragon
 1 Thieves' Tools
 1 Westgate Regent
 1 Hoarding Ogre
 1 Unwilling Ingredient
+1 Magic Missile
 1 Hired Hexblade
 1 Sudden Breakthrough
 2 Hoarding Ogre
@@ -168,15 +173,14 @@
 2 Play with Fire
 3 Dragonkin Berserker
 3 Play with Fire
-1 Moonveil Regent
 1 Orb of Dragonkind
-2 Moonveil Regent
+1 Moonveil Regent
 2 Soul Shatter
+2 Moonveil Regent
 2 Orb of Dragonkind
 3 Orb of Dragonkind
 3 Moonveil Regent
 4 Hive of the Eye Tyrant
-4 Dragon's Fire
 1 Crippling Fear
 1 Malakir Rebirth
 1 Slaughter Specialist
@@ -201,8 +205,8 @@
 1 Extus, Oriq Overlord
 2 Fireblade Charger
 2 Extus, Oriq Overlord
-3 Extus, Oriq Overlord
 3 Fireblade Charger
+3 Extus, Oriq Overlord
 4 Extus, Oriq Overlord
 4 Fireblade Charger
 1 Voldaren Bloodcaster
@@ -215,11 +219,11 @@
 4 Vampires' Vengeance
 4 Bloodtithe Harvester
 4 Agadeem's Awakening
-1 Path of Peril
 1 Brightclimb Pathway
+1 Path of Peril
 1 Needleverge Pathway
-2 Path of Peril
 2 Brightclimb Pathway
+2 Path of Peril
 2 Needleverge Pathway
 3 Brightclimb Pathway
 4 Brightclimb Pathway
@@ -232,13 +236,11 @@
 3 Falkenrath Pit Fighter
 4 Cemetery Gatekeeper
 4 Falkenrath Pit Fighter
-1 Professor Onyx
 1 Seize the Spoils
-2 Professor Onyx
 2 Seize the Spoils
-3 Seize the Spoils
 3 Professor Onyx
 3 Orcus, Prince of Undeath
+3 Seize the Spoils
 4 Seize the Spoils
 4 Professor Onyx
 8 Snow-Covered Mountain

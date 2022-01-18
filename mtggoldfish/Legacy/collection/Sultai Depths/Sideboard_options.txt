@@ -1,32 +1,36 @@
-1 Plague Engineer
-2 Plague Engineer
 3 Leyline of the Void
-1 Veil of Summer
 1 Flusterstorm
 2 Flusterstorm
+1 Plague Engineer
+2 Plague Engineer
 1 Endurance
 2 Endurance
-1 Pithing Needle
+1 Veil of Summer
 1 Choke
-3 Force of Vigor
 2 Choke
+3 Force of Vigor
+1 Pithing Needle
 2 Sylvan Library
-3 Abrupt Decay
-3 Endurance
 1 Rite of Consumption
 2 Rite of Consumption
-1 Torpor Orb
-1 Steely Resolve
 3 Surgical Extraction
+3 Abrupt Decay
+2 Collector Ouphe
+3 Endurance
+1 Torpor Orb
 3 Flusterstorm
-1 Opposition Agent
 2 Veil of Summer
+1 Opposition Agent
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
-2 Collector Ouphe
+1 Steely Resolve
 1 Dread of Night
 2 Dread of Night
 1 Cling to Dust
+1 Fatal Push
+2 Fatal Push
+2 Pithing Needle
+3 Pithing Needle
 2 Assassin's Trophy
 1 Manamorphose
 1 Mindbreak Trap
@@ -37,23 +41,20 @@
 2 Doomsday
 3 Doomsday
 2 Torpor Orb
-1 Fatal Push
-2 Pithing Needle
-3 Pithing Needle
 4 Leyline of the Void
 1 Liliana, the Last Hope
 3 Plague Engineer
 3 Choke
+1 Duress
 1 Sphere of Resistance
 2 Sphere of Resistance
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 3 Leyline of Sanctity
-1 Ramunap Excavator
-2 Fatal Push
+1 Toxic Deluge
 1 Bojuka Bog
 1 Fling
-1 Return to Nature
+1 Glacial Chasm
 1 Wasteland
 1 Sejiri Steppe
 1 Pyroblast
@@ -61,7 +62,6 @@
 2 Pyroblast
 1 Life from the Loam
 2 Life from the Loam
-1 Duress
 1 Faerie Macabre
 2 Faerie Macabre
 1 Thespian's Stage
@@ -79,7 +79,6 @@
 1 Ensnaring Bridge
 1 Mycosynth Lattice
 1 Painter's Servant
-1 Toxic Deluge
 1 Hymn to Tourach
 1 Helm of Obedience
 1 Chains of Mephistopheles
@@ -91,6 +90,7 @@
 3 Not of This World
 2 Steely Resolve
 3 Dread of Night
+1 Ramunap Excavator
 1 Foundation Breaker
 2 Foundation Breaker
 2 Ramunap Excavator

@@ -22,13 +22,13 @@
 4 Birds of Paradise
 1 Windswept Heath
 1 Wooded Foothills
-1 Ignoble Hierarch
 1 Bloodstained Mire
-1 Ancient Tomb
+1 Ignoble Hierarch
 1 Cavern of Souls
 1 Goblin Ringleader
 1 Muxus, Goblin Grandee
 1 Goblin Matron
+1 Ancient Tomb
 2 Ignoble Hierarch
 2 Cavern of Souls
 2 Ancient Tomb
@@ -100,9 +100,9 @@
 1 Verdant Catacombs
 1 Munitions Expert
 2 Badlands
+2 Pashalik Mons
 2 Mogg War Marshal
 2 Munitions Expert
-2 Pashalik Mons
 3 Mogg War Marshal
 1 Subtlety
 1 Prismatic Ending
@@ -114,6 +114,11 @@
 3 Skyclave Apparition
 2 Expressive Iteration
 3 Expressive Iteration
+1 Wily Goblin
+2 Wily Goblin
+3 Skirk Prospector
+3 Wily Goblin
+4 Skirk Prospector
 1 Recruiter of the Guard
 2 Recruiter of the Guard
 3 Uro, Titan of Nature's Wrath
@@ -127,8 +132,3 @@
 2 Arid Mesa
 3 Mountain
 4 Taiga
-1 Wily Goblin
-2 Wily Goblin
-3 Wily Goblin
-3 Skirk Prospector
-4 Skirk Prospector

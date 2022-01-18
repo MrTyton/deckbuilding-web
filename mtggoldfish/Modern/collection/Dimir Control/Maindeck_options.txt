@@ -1,5 +1,5 @@
-3 Flooded Strand
 1 Sunken Ruins
+3 Flooded Strand
 1 Memory Deluge
 2 Memory Deluge
 1 Consider
@@ -9,13 +9,15 @@
 2 Sunken Ruins
 3 Sunken Ruins
 1 Thoughtseize
-1 Murderous Cut
-2 River of Tears
 1 Tourach, Dread Cantor
 2 Tourach, Dread Cantor
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 2 Thoughtseize
+1 Murderous Cut
+2 River of Tears
+1 Scalding Tarn
+2 Scalding Tarn
 4 Snapcaster Mage
 1 Clearwater Pathway
 2 Clearwater Pathway
@@ -25,8 +27,9 @@
 1 Creeping Tar Pit
 2 Cryptic Command
 2 Creeping Tar Pit
-1 Scalding Tarn
-2 Scalding Tarn
+1 Engineered Explosives
+2 Engineered Explosives
+3 Memory Deluge
 4 Dress Down
 4 Thing in the Ice
 1 Field of Ruin
@@ -35,9 +38,6 @@
 4 Thoughtseize
 1 Jace, Vryn's Prodigy
 2 Jace, Vryn's Prodigy
-1 Engineered Explosives
-2 Engineered Explosives
-3 Memory Deluge
 1 Misty Rainforest
 2 Misty Rainforest
 3 Misty Rainforest
@@ -57,18 +57,18 @@
 3 Tourach, Dread Cantor
 3 Dauthi Voidwalker
 4 Dauthi Voidwalker
-1 Shark Typhoon
-1 Force of Negation
-2 Shark Typhoon
-3 Shark Typhoon
-4 Shark Typhoon
 1 Narset, Parter of Veils
 1 Jace, the Mind Sculptor
 2 Narset, Parter of Veils
 2 Jace, the Mind Sculptor
 2 Castle Vantress
+3 Inquisition of Kozilek
 3 Jace, the Mind Sculptor
 3 Castle Vantress
-3 Inquisition of Kozilek
-4 Darkslick Shores
 4 Inquisition of Kozilek
+4 Darkslick Shores
+1 Shark Typhoon
+1 Force of Negation
+2 Shark Typhoon
+3 Shark Typhoon
+4 Shark Typhoon

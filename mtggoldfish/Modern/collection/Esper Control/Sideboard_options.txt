@@ -54,9 +54,6 @@
 1 Erebos's Intervention
 1 Noxious Grasp
 2 Noxious Grasp
-1 Surgical Extraction
-2 Surgical Extraction
-2 Dress Down
 2 Fateful Absence
 2 Timely Reinforcements
 1 Dark Confidant
@@ -66,6 +63,9 @@
 1 Force of Negation
 2 Ashiok, Dream Render
 2 Unmoored Ego
+1 Surgical Extraction
+2 Dress Down
+2 Surgical Extraction
 1 Solitude
 2 Nihil Spellbomb
 2 Solitude
@@ -78,16 +78,16 @@
 1 Blossoming Calm
 1 Thing in the Ice
 2 Blossoming Calm
-3 Soul-Guide Lantern
 3 Engineered Explosives
+3 Soul-Guide Lantern
 1 Yorion, Sky Nomad
 1 Aven Mindcensor
 1 Ravenous Trap
 2 Aven Mindcensor
 3 Aven Mindcensor
 1 Ceremonious Rejection
-2 Sanctifier en-Vec
 2 Sunset Revelry
+2 Sanctifier en-Vec
 2 Ceremonious Rejection
 3 Sunset Revelry
 3 Sanctifier en-Vec
@@ -101,7 +101,7 @@
 2 Kataki, War's Wage
 3 Lingering Souls
 4 Lingering Souls
-1 Relic of Progenitus
 1 Pithing Needle
+1 Relic of Progenitus
 2 Void Mirror
 2 Supreme Verdict
