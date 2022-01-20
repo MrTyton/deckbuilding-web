@@ -1,7 +1,7 @@
 1 Forest
 2 Forest
-1 Growth Spiral
 1 Explore
+1 Growth Spiral
 1 Gateway Plaza
 1 Plaza of Harmony
 1 Azorius Guildgate
@@ -18,8 +18,8 @@
 1 Orzhov Guildgate
 1 Boros Guildgate
 1 Izzet Guildgate
-2 Growth Spiral
 2 Explore
+2 Growth Spiral
 2 Selesnya Guildgate
 2 Simic Guildgate
 2 Guild Summit
@@ -30,8 +30,8 @@
 2 Gruul Guildgate
 2 Circuitous Route
 2 Izzet Guildgate
-3 Growth Spiral
 3 Explore
+3 Growth Spiral
 3 Circuitous Route
 3 Guild Summit
 3 Gates Ablaze
@@ -69,11 +69,11 @@
 1 Hostage Taker
 1 Hinterland Harbor
 1 Ravenous Chupacabra
+1 Oath of Kaya
 1 Yasharn, Implacable Earth
 1 Tolsimir, Friend to Wolves
 1 Woodland Cemetery
 1 Yorion, Sky Nomad
-1 Oath of Kaya
 1 Elspeth's Nightmare
 1 Deputy of Detention
 1 Trial of Ambition
@@ -144,9 +144,9 @@
 3 Simic Guildgate
 1 Archway Angel
 1 Field of Ruin
-1 Bojuka Bog
 1 Stonecoil Serpent
 1 Mazemind Tome
+1 Bojuka Bog
 2 Field of Ruin
 2 Stonecoil Serpent
 2 Mazemind Tome
@@ -215,23 +215,23 @@
 1 Barkchannel Pathway
 1 Koma, Cosmos Serpent
 1 Lotus Cobra
+1 Temple of Malady
 1 Castle Locthwain
 1 Season of Growth
 1 Gilded Goose
 1 Tamiyo, Collector of Tales
 1 Necroblossom Snarl
-1 Paradise Druid
 1 Darkbore Pathway
 1 Vineglimmer Snarl
+1 Paradise Druid
 1 Vivien, Champion of the Wilds
 1 Vivien Reid
 1 Nissa, Who Shakes the World
-1 Scute Swarm
 1 Temple of Deceit
+1 Scute Swarm
 1 Gemrazer
 1 The Great Henge
 1 Castle Vantress
-1 Temple of Malady
 1 Dirge Bat
 1 Fabled Passage
 1 Pollywog Symbiote
@@ -313,8 +313,8 @@
 3 Wolfwillow Haven
 4 Cultivate
 4 Hour of Promise
-4 Hydroid Krasis
 4 The World Tree
+4 Hydroid Krasis
 1 Sanctum of Stone Fangs
 1 Honden of Night's Reach
 1 Sanctum of Calm Waters
@@ -371,8 +371,8 @@
 4 Riverglide Pathway
 4 Steam Vents
 1 Throes of Chaos
-1 The Tarrasque
 1 Cragcrown Pathway
+1 The Tarrasque
 1 Phyrexian Tower
 1 Treasure Vault
 1 Tibalt's Trickery
@@ -387,8 +387,8 @@
 1 Blood Crypt
 2 Phyrexian Tower
 2 Blood Crypt
-2 Treasure Vault
 2 Cragcrown Pathway
+2 Treasure Vault
 2 Scholar of the Lost Trove
 2 Chandra, Awakened Inferno
 2 Magma Opus
