@@ -64,14 +64,14 @@
 3 Temple Garden
 1 Setessan Champion
 1 Calix, Destiny's Hand
-1 Skyclave Apparition
 1 Glacial Fortress
+1 Skyclave Apparition
 1 Hostage Taker
 1 Hinterland Harbor
 1 Oath of Kaya
+1 Tolsimir, Friend to Wolves
 1 Yasharn, Implacable Earth
 1 Woodland Cemetery
-1 Tolsimir, Friend to Wolves
 1 Yorion, Sky Nomad
 1 Elspeth's Nightmare
 1 Deputy of Detention
@@ -105,8 +105,8 @@
 3 Elspeth's Nightmare
 3 In Search of Greatness
 3 Trial of Ambition
-4 Glacial Fortress
 4 Omen of the Sea
+4 Glacial Fortress
 4 Zagoth Triome
 4 Binding the Old Gods
 4 Trial of Ambition
@@ -215,13 +215,14 @@
 1 Barkchannel Pathway
 1 Koma, Cosmos Serpent
 1 Lotus Cobra
-1 Gilded Goose
+1 Fabled Passage
 1 Castle Locthwain
 1 Season of Growth
-1 Darkbore Pathway
+1 Gilded Goose
 1 Temple of Malady
 1 Tamiyo, Collector of Tales
 1 Necroblossom Snarl
+1 Darkbore Pathway
 1 Vineglimmer Snarl
 1 Vivien, Champion of the Wilds
 1 Vivien Reid
@@ -233,7 +234,6 @@
 1 Castle Vantress
 1 Paradise Druid
 1 Dirge Bat
-1 Fabled Passage
 1 Pollywog Symbiote
 1 Migratory Greathorn
 1 Auspicious Starrix
@@ -244,9 +244,10 @@
 1 Pouncing Shoreshark
 1 Insatiable Hemophage
 2 Lotus Cobra
-2 Gilded Goose
+2 Fabled Passage
 2 Nissa, Who Shakes the World
 2 Season of Growth
+2 Gilded Goose
 2 Darkbore Pathway
 2 Gemrazer
 2 Paradise Druid
@@ -258,12 +259,11 @@
 2 Pollywog Symbiote
 2 Pouncing Shoreshark
 2 Swamp
-2 Fabled Passage
 3 Swamp
 3 Lotus Cobra
-3 Gilded Goose
 3 Fabled Passage
 3 Gemrazer
+3 Gilded Goose
 3 Boneyard Lurker
 3 Insatiable Hemophage
 3 Auspicious Starrix
@@ -278,19 +278,19 @@
 1 Omniscience
 1 Genesis Ultimatum
 2 Genesis Ultimatum
-3 Genesis Ultimatum
 3 Island
+3 Genesis Ultimatum
 4 Genesis Ultimatum
+1 Hour of Promise
 1 Cultivate
 1 Fae of Wishes
 1 Shefet Dunes
-1 Hour of Promise
-1 Relic of Progenitus
 1 Omen of the Hunt
 1 Mirari's Wake
 1 Hydroid Krasis
 1 Wolfwillow Haven
 1 Hashep Oasis
+1 Relic of Progenitus
 2 Hour of Promise
 2 Hashep Oasis
 2 Cultivate
@@ -315,6 +315,7 @@
 4 Hour of Promise
 4 The World Tree
 4 Hydroid Krasis
+1 Hengegate Pathway
 1 Sanctum of Stone Fangs
 1 Honden of Night's Reach
 1 Sanctum of Calm Waters
@@ -322,7 +323,6 @@
 1 Sanctum of All
 1 Sanctum of Shattered Heights
 1 Baffling End
-1 Hengegate Pathway
 1 Chromatic Lantern
 1 Needleverge Pathway
 1 Sterling Grove
@@ -361,61 +361,20 @@
 4 Branchloft Pathway
 4 Sanctum of All
 4 Sanctum Weaver
-1 Steam Vents
-1 Riverglide Pathway
-2 Mountain
-2 Steam Vents
-2 Riverglide Pathway
-3 Steam Vents
-3 Riverglide Pathway
-4 Riverglide Pathway
-4 Steam Vents
-1 Throes of Chaos
-1 Cragcrown Pathway
-1 The Tarrasque
-1 Phyrexian Tower
-1 Treasure Vault
-1 Tibalt's Trickery
-1 Chandra, Awakened Inferno
-1 Elesh Norn, Grand Cenobite
-1 Scholar of the Lost Trove
-1 Khalni Garden
-1 Emergent Ultimatum
-1 Emergence Zone
-1 Magma Opus
-1 Mirrodin's Core
-1 Blood Crypt
-2 Blood Crypt
-2 Cragcrown Pathway
-2 Treasure Vault
-2 Phyrexian Tower
-2 Scholar of the Lost Trove
-2 Chandra, Awakened Inferno
-2 Magma Opus
-2 Mirrodin's Core
-2 Tibalt's Trickery
-2 Throes of Chaos
-2 Khalni Garden
-2 Emergent Ultimatum
-3 Cragcrown Pathway
-3 Alrund's Epiphany
-3 Blood Crypt
-3 Throes of Chaos
-3 Khalni Garden
-3 Emergent Ultimatum
-3 Magma Opus
-4 Alrund's Epiphany
-4 Cragcrown Pathway
-4 Blood Crypt
-4 Throes of Chaos
-4 Emergent Ultimatum
-4 Magma Opus
-4 Khalni Garden
 1 Snow-Covered Plains
 2 Cascading Cataracts
 2 Labyrinth of Skophos
 3 Labyrinth of Skophos
 4 Buried Ruin
+1 Steam Vents
+1 Riverglide Pathway
+2 Mountain
+2 Steam Vents
+2 Riverglide Pathway
+3 Riverglide Pathway
+3 Steam Vents
+4 Riverglide Pathway
+4 Steam Vents
 1 Faithless Looting
 1 Otherworldly Gaze
 1 Craterhoof Behemoth
@@ -458,3 +417,44 @@
 4 Consider
 4 Rise of the Dark Realms
 4 Craterhoof Behemoth
+1 Throes of Chaos
+1 Cragcrown Pathway
+1 The Tarrasque
+1 Phyrexian Tower
+1 Treasure Vault
+1 Tibalt's Trickery
+1 Chandra, Awakened Inferno
+1 Elesh Norn, Grand Cenobite
+1 Scholar of the Lost Trove
+1 Khalni Garden
+1 Emergent Ultimatum
+1 Emergence Zone
+1 Magma Opus
+1 Mirrodin's Core
+1 Blood Crypt
+2 Blood Crypt
+2 Cragcrown Pathway
+2 Treasure Vault
+2 Phyrexian Tower
+2 Scholar of the Lost Trove
+2 Chandra, Awakened Inferno
+2 Magma Opus
+2 Mirrodin's Core
+2 Tibalt's Trickery
+2 Throes of Chaos
+2 Khalni Garden
+2 Emergent Ultimatum
+3 Cragcrown Pathway
+3 Alrund's Epiphany
+3 Blood Crypt
+3 Throes of Chaos
+3 Khalni Garden
+3 Emergent Ultimatum
+3 Magma Opus
+4 Cragcrown Pathway
+4 Blood Crypt
+4 Throes of Chaos
+4 Emergent Ultimatum
+4 Magma Opus
+4 Khalni Garden
+4 Alrund's Epiphany

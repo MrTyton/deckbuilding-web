@@ -136,7 +136,7 @@
 |                    3|[Dragonskull Summit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420909)       |                     |                                                                                                         |
 |                    3|[Dreadhorde Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461121)       |                     |                                                                                                         |
 |                    4|[Dragonskull Summit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420909)       |                     |                                                                                                         |
-|                    4|Blightstep Pathway                                                                                  |                     |                                                                                                         |
 |                    4|[Dreadhorde Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461121)       |                     |                                                                                                         |
 |                    4|[Shambling Ghast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527406)          |                     |                                                                                                         |
+|                    4|Blightstep Pathway                                                                                  |                     |                                                                                                         |
 

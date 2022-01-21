@@ -2,25 +2,26 @@
 1 Savage Summoning
 1 Thoughtseize
 2 Goblin Charbelcher
-1 Nature's Claim
 2 Thoughtseize
 1 Void Snare
 2 Void Snare
 3 Void Snare
 4 Void Snare
-2 Nature's Claim
 1 Thassa's Oracle
 1 Memory's Journey
-3 Goblin Charbelcher
-1 Dismember
+1 Nature's Claim
+2 Nature's Claim
 1 Echoing Truth
-3 Nature's Claim
 1 Pithing Needle
 2 Savage Summoning
+3 Goblin Charbelcher
 4 Prismatic Ending
+1 Dismember
 2 Echoing Truth
 2 Pithing Needle
-1 Mountain
+1 Silence
+2 Silence
+3 Nature's Claim
 4 Goblin Charbelcher
 1 Abrade
 2 Abrade
@@ -29,9 +30,7 @@
 2 Blood Moon
 3 Blood Moon
 3 Thoughtseize
-4 Nature's Claim
-1 Silence
-2 Silence
+1 Mountain
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
@@ -39,6 +38,7 @@
 1 Baleful Mastery
 1 Defense Grid
 2 Defense Grid
+4 Nature's Claim
 1 Engineered Explosives
 2 Baleful Mastery
 1 Kozilek's Return
@@ -49,12 +49,14 @@
 1 Force of Vigor
 2 Force of Vigor
 3 Force of Vigor
-1 Pelakka Predation
 1 Talisman of Resilience
+1 Pelakka Predation
 1 Slaughter Pact
 2 Slaughter Pact
 2 Pelakka Predation
 3 Slaughter Pact
+3 Silence
+4 Silence
 1 Fury
 2 Fury
 3 Fury

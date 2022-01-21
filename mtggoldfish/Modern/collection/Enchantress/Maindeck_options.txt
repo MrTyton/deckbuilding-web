@@ -1,7 +1,7 @@
-1 Misty Rainforest
-1 Verdant Catacombs
 1 Horizon Canopy
+1 Misty Rainforest
 3 Prismatic Vista
+1 Verdant Catacombs
 2 Horizon Canopy
 7 Snow-Covered Forest
 1 Wooded Foothills
@@ -29,16 +29,15 @@
 4 Misty Rainforest
 1 Prismatic Ending
 2 Prismatic Ending
-2 Wooded Foothills
 1 Setessan Champion
 2 Setessan Champion
 3 Omen of the Sea
 3 Setessan Champion
 1 Shark Typhoon
 1 Eidolon of Blossoms
+2 Wooded Foothills
 8 Snow-Covered Forest
 1 Banishing Light
-1 Cast Out
 4 Solitary Confinement
 1 Helix Pinnacle
 2 Verdant Catacombs
@@ -47,6 +46,7 @@
 1 Nine Lives
 2 Detention Sphere
 1 Ghostly Prison
+1 Cast Out
 2 Eidolon of Blossoms
 1 Curse of Silence
 2 Curse of Silence
@@ -121,14 +121,6 @@
 3 Solemnity
 4 Phyrexian Unlife
 4 Solemnity
-1 Branchloft Pathway
-1 Borrowed Time
-2 Branchloft Pathway
-3 Branchloft Pathway
-4 Branchloft Pathway
-5 Snow-Covered Plains
-9 Snow-Covered Forest
-10 Snow-Covered Forest
 1 Thassa's Oracle
 1 Fabled Passage
 1 Marsh Flats
@@ -145,3 +137,17 @@
 4 Temple Garden
 4 Marsh Flats
 4 Brushland
+1 Borrowed Time
+1 Branchloft Pathway
+2 Branchloft Pathway
+3 Branchloft Pathway
+4 Branchloft Pathway
+5 Snow-Covered Plains
+9 Snow-Covered Forest
+10 Snow-Covered Forest
+1 Arbor Elf
+2 Arbor Elf
+3 Wooded Foothills
+3 Arbor Elf
+4 Wooded Foothills
+4 Arbor Elf

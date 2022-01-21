@@ -48,10 +48,10 @@
 3 Faithful Mending
 1 Devious Cover-Up
 2 Devious Cover-Up
-1 Snow-Covered Plains
 1 Snow-Covered Island
-2 Snow-Covered Plains
+1 Snow-Covered Plains
 2 Snow-Covered Island
+2 Snow-Covered Plains
 3 Snow-Covered Island
 3 Snow-Covered Plains
 4 Snow-Covered Island
@@ -85,19 +85,22 @@
 2 Cosmos Elixir
 1 Elite Spellbinder
 2 Elite Spellbinder
+1 The Celestus
 1 Dissipate
 1 Makindi Stampede
 1 Cosmos Charger
 1 Depart the Realm
-1 The Celestus
-2 Dissipate
 2 The Celestus
+2 Dissipate
 2 Treasure Vault
 3 Reidane, God of the Worthy
 3 Treasure Vault
 2 Wash Away
 2 Mordenkainen
 3 Wash Away
+2 Sea Gate Restoration
+3 Sea Gate Restoration
+4 Sea Gate Restoration
 1 Thirst for Discovery
 2 Thirst for Discovery
 3 Thirst for Discovery
@@ -109,8 +112,8 @@
 4 Portable Hole
 1 Iymrith, Desert Doom
 1 Circle of Confinement
-2 Iymrith, Desert Doom
 2 Circle of Confinement
+2 Iymrith, Desert Doom
 3 Syncopate
 3 Circle of Confinement
 4 Faithbound Judge
@@ -127,6 +130,3 @@
 3 Test of Talents
 4 Emeria's Call
 4 Sunset Revelry
-2 Sea Gate Restoration
-3 Sea Gate Restoration
-4 Sea Gate Restoration

@@ -3,10 +3,10 @@
 2 Blood Moon
 2 Inspiring Vantage
 3 Blood Moon
-1 Rustvale Bridge
-3 Thraben Inspector
 3 Inspiring Vantage
 4 Inspiring Vantage
+1 Rustvale Bridge
+3 Thraben Inspector
 4 Blood Moon
 4 Cleansing Wildfire
 1 Grim Lavamancer
@@ -15,7 +15,6 @@
 5 Plains
 4 Marsh Flats
 2 Prismatic Ending
-1 Flooded Strand
 1 Sword of Fire and Ice
 1 Kaldra Compleat
 1 Stoneforge Mystic
@@ -28,18 +27,21 @@
 3 Prismatic Vista
 1 Sunbaked Canyon
 2 Sunbaked Canyon
-1 Windswept Heath
-1 Skyclave Apparition
+1 Flooded Strand
 4 Ranger-Captain of Eos
-1 Seasoned Pyromancer
-2 Seasoned Pyromancer
-3 Prismatic Ending
 1 Maul of the Skyclaves
 1 Fervent Champion
 2 Fervent Champion
 2 Sword of Fire and Ice
 3 Fervent Champion
 4 Fervent Champion
+1 Windswept Heath
+1 Skyclave Apparition
+1 Seasoned Pyromancer
+2 Seasoned Pyromancer
+3 Prismatic Ending
+1 Needleverge Pathway
+1 Sword of Light and Shadow
 4 Prismatic Ending
 1 Steam Vents
 1 Bonecrusher Giant
@@ -51,8 +53,6 @@
 3 Bonecrusher Giant
 4 Seasoned Pyromancer
 4 Prismatic Vista
-1 Needleverge Pathway
-1 Sword of Light and Shadow
 1 Snow-Covered Mountain
 1 Snow-Covered Plains
 1 Wooded Foothills
@@ -86,16 +86,16 @@
 2 Urza's Saga
 2 Skyclave Apparition
 2 Imperial Recruiter
-3 Thalia, Guardian of Thraben
 3 Giver of Runes
 3 Urza's Saga
 3 Skyclave Apparition
+3 Thalia, Guardian of Thraben
 3 Sunbaked Canyon
 3 Imperial Recruiter
 3 Aether Vial
 4 Skyclave Apparition
-4 Sunbaked Canyon
 4 Urza's Saga
+4 Sunbaked Canyon
 4 Imperial Recruiter
 4 Giver of Runes
 4 Aether Vial
