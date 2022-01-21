@@ -1,7 +1,7 @@
 1 Forest
 2 Forest
-1 Explore
 1 Growth Spiral
+1 Explore
 1 Gateway Plaza
 1 Plaza of Harmony
 1 Azorius Guildgate
@@ -18,8 +18,8 @@
 1 Orzhov Guildgate
 1 Boros Guildgate
 1 Izzet Guildgate
-2 Explore
 2 Growth Spiral
+2 Explore
 2 Selesnya Guildgate
 2 Simic Guildgate
 2 Guild Summit
@@ -30,8 +30,8 @@
 2 Gruul Guildgate
 2 Circuitous Route
 2 Izzet Guildgate
-3 Explore
 3 Growth Spiral
+3 Explore
 3 Circuitous Route
 3 Guild Summit
 3 Gates Ablaze
@@ -68,11 +68,10 @@
 1 Glacial Fortress
 1 Hostage Taker
 1 Hinterland Harbor
-1 Ravenous Chupacabra
 1 Oath of Kaya
 1 Yasharn, Implacable Earth
-1 Tolsimir, Friend to Wolves
 1 Woodland Cemetery
+1 Tolsimir, Friend to Wolves
 1 Yorion, Sky Nomad
 1 Elspeth's Nightmare
 1 Deputy of Detention
@@ -81,6 +80,7 @@
 1 Klothys, God of Destiny
 1 Renegade Rallier
 1 In Search of Greatness
+1 Ravenous Chupacabra
 1 The Scarab God
 1 Archon of Sun's Grace
 1 Raugrin Triome
@@ -144,9 +144,9 @@
 3 Simic Guildgate
 1 Archway Angel
 1 Field of Ruin
+1 Bojuka Bog
 1 Stonecoil Serpent
 1 Mazemind Tome
-1 Bojuka Bog
 2 Field of Ruin
 2 Stonecoil Serpent
 2 Mazemind Tome
@@ -206,8 +206,8 @@
 3 Root Snare
 3 Gate Colossus
 3 Gatebreaker Ram
-4 Abundant Harvest
 4 Growth Spiral
+4 Abundant Harvest
 4 Gatebreaker Ram
 4 Gate Colossus
 4 Open the Gates
@@ -215,15 +215,14 @@
 1 Barkchannel Pathway
 1 Koma, Cosmos Serpent
 1 Lotus Cobra
-1 Temple of Malady
+1 Gilded Goose
 1 Castle Locthwain
 1 Season of Growth
-1 Gilded Goose
+1 Darkbore Pathway
+1 Temple of Malady
 1 Tamiyo, Collector of Tales
 1 Necroblossom Snarl
-1 Darkbore Pathway
 1 Vineglimmer Snarl
-1 Paradise Druid
 1 Vivien, Champion of the Wilds
 1 Vivien Reid
 1 Nissa, Who Shakes the World
@@ -232,6 +231,7 @@
 1 Gemrazer
 1 The Great Henge
 1 Castle Vantress
+1 Paradise Druid
 1 Dirge Bat
 1 Fabled Passage
 1 Pollywog Symbiote
@@ -244,12 +244,12 @@
 1 Pouncing Shoreshark
 1 Insatiable Hemophage
 2 Lotus Cobra
+2 Gilded Goose
 2 Nissa, Who Shakes the World
 2 Season of Growth
-2 Gilded Goose
 2 Darkbore Pathway
-2 Paradise Druid
 2 Gemrazer
+2 Paradise Druid
 2 Insatiable Hemophage
 2 Boneyard Lurker
 2 Auspicious Starrix
@@ -261,13 +261,13 @@
 2 Fabled Passage
 3 Swamp
 3 Lotus Cobra
+3 Gilded Goose
 3 Fabled Passage
 3 Gemrazer
-3 Gilded Goose
-3 Paradise Druid
 3 Boneyard Lurker
 3 Insatiable Hemophage
 3 Auspicious Starrix
+3 Paradise Druid
 3 Pollywog Symbiote
 3 Migratory Greathorn
 5 Forest
@@ -281,10 +281,10 @@
 3 Genesis Ultimatum
 3 Island
 4 Genesis Ultimatum
+1 Cultivate
 1 Fae of Wishes
 1 Shefet Dunes
 1 Hour of Promise
-1 Cultivate
 1 Relic of Progenitus
 1 Omen of the Hunt
 1 Mirari's Wake
@@ -293,23 +293,23 @@
 1 Hashep Oasis
 2 Hour of Promise
 2 Hashep Oasis
+2 Cultivate
 2 Hydroid Krasis
 2 Fae of Wishes
 2 Shefet Dunes
-2 Cultivate
 2 The World Tree
-2 Relic of Progenitus
 2 Mirari's Wake
 2 Wolfwillow Haven
+2 Relic of Progenitus
 2 Omen of the Hunt
 2 Omniscience
+3 Cultivate
 3 Hour of Promise
 3 Hashep Oasis
 3 Shefet Dunes
-3 Hydroid Krasis
-3 Cultivate
 3 The World Tree
 3 Mirari's Wake
+3 Hydroid Krasis
 3 Wolfwillow Haven
 4 Cultivate
 4 Hour of Promise
@@ -376,8 +376,8 @@
 1 Phyrexian Tower
 1 Treasure Vault
 1 Tibalt's Trickery
-1 Elesh Norn, Grand Cenobite
 1 Chandra, Awakened Inferno
+1 Elesh Norn, Grand Cenobite
 1 Scholar of the Lost Trove
 1 Khalni Garden
 1 Emergent Ultimatum
@@ -385,10 +385,10 @@
 1 Magma Opus
 1 Mirrodin's Core
 1 Blood Crypt
-2 Phyrexian Tower
 2 Blood Crypt
 2 Cragcrown Pathway
 2 Treasure Vault
+2 Phyrexian Tower
 2 Scholar of the Lost Trove
 2 Chandra, Awakened Inferno
 2 Magma Opus
@@ -416,21 +416,23 @@
 2 Labyrinth of Skophos
 3 Labyrinth of Skophos
 4 Buried Ruin
+1 Faithless Looting
 1 Otherworldly Gaze
+1 Craterhoof Behemoth
 1 Consider
 1 Faithless Salvaging
 1 Stormcarved Coast
 1 Mizzix's Mastery
-1 Craterhoof Behemoth
 1 Terror of Mount Velus
-1 Faithless Looting
 1 Spirebluff Canal
 1 Arclight Phoenix
 1 Serra's Emissary
 1 Rise of the Dark Realms
 1 Spikefield Hazard
 2 Stormcarved Coast
+2 Faithless Looting
 2 Otherworldly Gaze
+2 Craterhoof Behemoth
 2 Consider
 2 Terror of Mount Velus
 2 Spirebluff Canal
@@ -438,17 +440,15 @@
 2 Arclight Phoenix
 2 Rise of the Dark Realms
 2 Mizzix's Mastery
-2 Craterhoof Behemoth
-2 Faithless Looting
-3 Mizzix's Mastery
 3 Stormcarved Coast
 3 Otherworldly Gaze
+3 Faithless Looting
 3 Consider
 3 Craterhoof Behemoth
-3 Faithless Looting
 3 Terror of Mount Velus
 3 Serra's Emissary
 3 Rise of the Dark Realms
+3 Mizzix's Mastery
 3 Arclight Phoenix
 4 Stormcarved Coast
 4 Otherworldly Gaze

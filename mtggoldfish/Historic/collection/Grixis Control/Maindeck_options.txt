@@ -1,22 +1,22 @@
 2 Search for Azcanta
 2 Heartless Act
 4 Dragonskull Summit
-1 Kroxa, Titan of Death's Hunger
 1 Sinister Sabotage
 1 Innocent Blood
 2 Innocent Blood
 3 Innocent Blood
+1 Kroxa, Titan of Death's Hunger
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
+2 Shark Typhoon
+1 Expressive Iteration
+2 Expressive Iteration
 2 Kroxa, Titan of Death's Hunger
 1 Kolaghan's Command
 2 Kolaghan's Command
-1 Inquisition of Kozilek
-2 Inquisition of Kozilek
-1 Expressive Iteration
-2 Expressive Iteration
-2 Shark Typhoon
 2 Eliminate
-3 Fatal Push
 3 Bedevil
+3 Fatal Push
 1 Chandra, Torch of Defiance
 1 Prismari Command
 2 Prismari Command
@@ -34,12 +34,12 @@
 4 Expressive Iteration
 1 Anger of the Gods
 2 Anger of the Gods
-3 Fabled Passage
-3 Kolaghan's Command
-1 Liliana, Waker of the Dead
-2 Liliana, Waker of the Dead
 1 Murderous Rider
 3 Inquisition of Kozilek
+1 Liliana, Waker of the Dead
+2 Liliana, Waker of the Dead
+3 Kolaghan's Command
+3 Fabled Passage
 4 Sulfur Falls
 4 Nicol Bolas, the Ravager
 1 Ritual of Soot
@@ -49,25 +49,25 @@
 3 Kroxa, Titan of Death's Hunger
 1 Waste Not
 2 Waste Not
-1 Savai Triome
-1 Isolated Chapel
-1 Godless Shrine
-2 Godless Shrine
-1 Den of the Bugbear
 2 The Meathook Massacre
+1 Den of the Bugbear
+1 Phyrexian Arena
+1 Tinybones, Trinket Thief
+2 Phyrexian Arena
+1 Crawling Barrens
 1 Hagra Mauling
 1 Path of Peril
 1 Tergrid, God of Fright
-1 Phyrexian Arena
+1 Savai Triome
 1 Gutmorn, Pactbound Servant
+1 Isolated Chapel
 1 Doom Foretold
-1 Crawling Barrens
-1 Tinybones, Trinket Thief
+1 Godless Shrine
 2 Path of Peril
 2 Tergrid, God of Fright
 2 Gutmorn, Pactbound Servant
+2 Godless Shrine
 2 Tinybones, Trinket Thief
-2 Phyrexian Arena
 2 Sinister Sabotage
 1 Liliana, Dreadhorde General
 1 Shadows' Verdict
@@ -90,12 +90,13 @@
 2 Chandra, Torch of Defiance
 1 Cling to Dust
 2 Haunted Ridge
+1 Davriel, Rogue Shadowmage
+1 Tyrant's Scorn
+2 Tyrant's Scorn
 1 Ugin, the Ineffable
 1 Temple of Deceit
 1 Temple of Malice
 2 Temple of Deceit
-1 Tyrant's Scorn
-2 Tyrant's Scorn
 1 Hall of Storm Giants
 3 See the Truth
 4 See the Truth
@@ -104,9 +105,8 @@
 3 Languish
 3 Eliminate
 4 Bedevil
-1 Chandra, Awakened Inferno
 2 Angrath's Rampage
-1 Davriel, Rogue Shadowmage
+1 Chandra, Awakened Inferno
 2 Ritual of Soot
 2 Mountain
 1 Go Blank
@@ -115,12 +115,23 @@
 2 Shipwreck Marsh
 3 Anger of the Gods
 3 Blightstep Pathway
+2 Hive of the Eye Tyrant
+1 Phyrexian Obliterator
+1 Snow-Covered Swamp
+2 Snow-Covered Swamp
+2 Murderous Rider
+2 Davriel, Rogue Shadowmage
+1 Gifted Aetherborn
+2 Gifted Aetherborn
+3 Gifted Aetherborn
+4 Gifted Aetherborn
+1 Bloodchief's Thirst
 2 Cling to Dust
 1 Omen of the Sea
 1 Temple of Epiphany
 1 Disinformation Campaign
-1 Chainer's Edict
 1 Omen of the Forge
+1 Chainer's Edict
 2 Omen of the Sea
 2 Castle Vantress
 2 Temple of Epiphany
@@ -130,6 +141,21 @@
 2 Disinformation Campaign
 3 Omen of the Sea
 3 The Eldest Reborn
+1 Sorin the Mirthless
+1 Darkbore Pathway
+2 Darkbore Pathway
+3 Swamp
+1 Maelstrom Pulse
+1 Scavenging Ooze
+1 Overgrown Tomb
+2 Sorin the Mirthless
+2 Maelstrom Pulse
+2 Scavenging Ooze
+2 Overgrown Tomb
+1 Deathcap Glade
+2 Deathcap Glade
+3 Darkbore Pathway
+4 Darkbore Pathway
 1 The Royal Scions
 1 Ionize
 1 Lazav, the Multifarious
@@ -142,63 +168,48 @@
 3 Frantic Inventory
 4 Languish
 4 Frantic Inventory
-1 Phyrexian Obliterator
 1 Snow-Covered Island
-1 Snow-Covered Swamp
 1 Snow-Covered Mountain
-2 Snow-Covered Swamp
+1 Spell Pierce
+1 Discovery/Dispersal
+2 Spell Pierce
+2 Discovery/Dispersal
+2 Temple of Malice
+1 Negate
+2 Negate
 1 Ashiok, Dream Render
 1 Aether Gust
 2 Ashiok, Dream Render
 2 Aether Gust
-1 Negate
-2 Negate
-1 Spell Pierce
-1 Discovery/Dispersal
-2 Spell Pierce
-2 Murderous Rider
-2 Discovery/Dispersal
-2 Temple of Malice
 1 Sweltering Suns
 2 Shadows' Verdict
 3 Shadows' Verdict
-1 Sorin the Mirthless
-1 Maelstrom Pulse
-1 Rootbound Crag
-1 Rockfall Vale
 1 Woodland Cemetery
 1 Cragcrown Pathway
-1 Scavenging Ooze
+1 Rockfall Vale
+1 Rootbound Crag
 1 Check for Traps
 1 Vivien, Monsters' Advocate
 1 Elder Gargaroth
 1 Bonecrusher Giant
 1 Chevill, Bane of Monsters
 1 Esika's Chariot
-1 Overgrown Tomb
-1 Darkbore Pathway
 1 Valki, God of Lies
 1 Klothys, God of Destiny
 1 Stomping Ground
 2 Valki, God of Lies
-2 Rockfall Vale
-2 Sorin the Mirthless
 2 Elder Gargaroth
+2 Bonecrusher Giant
 2 Check for Traps
+2 Rockfall Vale
 2 Woodland Cemetery
 2 Vivien, Monsters' Advocate
-2 Maelstrom Pulse
-2 Scavenging Ooze
 2 Chevill, Bane of Monsters
 2 Esika's Chariot
-2 Bonecrusher Giant
-2 Stomping Ground
-2 Darkbore Pathway
-2 Overgrown Tomb
 2 Klothys, God of Destiny
+2 Stomping Ground
 2 Cragcrown Pathway
 3 Bonecrusher Giant
-1 Bloodchief's Thirst
 1 Bojuka Bog
 1 Coldsteel Heart
 2 Island
@@ -227,13 +238,13 @@
 1 God-Eternal Kefnet
 1 Jwari Disruption
 1 Enter the God-Eternals
-1 Interplanar Beacon
 1 Commence the Endgame
 1 Fraying Omnipotence
 1 Torment of Hailfire
 1 Dark Intimations
 1 Tezzeret the Schemer
 1 Shatterskull Smashing
+1 Interplanar Beacon
 2 Jwari Disruption
 4 Narset, Parter of Veils
 4 Fabled Passage
@@ -248,46 +259,40 @@
 4 Shipwreck Marsh
 4 Haunted Ridge
 1 Ugin, the Spirit Dragon
-1 Gifted Aetherborn
 2 Chandra, Awakened Inferno
-2 Gifted Aetherborn
 3 Mountain
-3 Gifted Aetherborn
-3 Swamp
-4 Gifted Aetherborn
 4 Eliminate
-1 Clifftop Retreat
-1 Kaervek, the Spiteful
-1 Crippling Fear
-1 Emeria's Call
-1 Strict Proctor
-1 Vanishing Verse
-1 Hushbringer
-1 Mazemind Tome
-1 Witch's Vengeance
-1 Plains
-1 Clackbridge Troll
-1 Sacred Foundry
-1 Serra the Benevolent
-1 Lightning Helix
-2 Clifftop Retreat
-2 Savai Triome
-2 Strict Proctor
-2 Kaervek, the Spiteful
-2 Vanishing Verse
-2 Hushbringer
-2 Isolated Chapel
-2 Sacred Foundry
-2 Clackbridge Troll
-2 Crippling Fear
-3 Strict Proctor
-3 Hushbringer
-3 Clackbridge Troll
-3 Godless Shrine
-4 Godless Shrine
-4 Clackbridge Troll
-4 Strict Proctor
-4 Hushbringer
+1 Briarbridge Tracker
+1 Glint-Sleeve Siphoner
+1 Graveyard Trespasser
+1 Lolth, Spider Queen
+1 Assassin's Trophy
+1 Infernal Grasp
+1 Forest
+1 Blooming Marsh
+2 Briarbridge Tracker
+2 Forest
+2 Glint-Sleeve Siphoner
+2 Graveyard Trespasser
+2 Lolth, Spider Queen
+2 Infernal Grasp
+2 Blooming Marsh
+3 Briarbridge Tracker
+3 Deathcap Glade
+3 Graveyard Trespasser
+3 Sorin the Mirthless
+3 Glint-Sleeve Siphoner
+3 Overgrown Tomb
+3 Scavenging Ooze
+3 Blooming Marsh
+3 Forest
+4 Briarbridge Tracker
+4 Deathcap Glade
+4 Scavenging Ooze
+4 Forest
+4 Glint-Sleeve Siphoner
+4 Overgrown Tomb
+4 Blooming Marsh
 1 Fetid Pools
 1 Drown in the Loch
 1 Grasp of Darkness
@@ -300,18 +305,18 @@
 4 Sinister Sabotage
 4 Grasp of Darkness
 4 Fetid Pools
+1 Mind Stone
 1 Treasure Vault
 1 Galazeth Prismari
 1 Treasure Map
 1 Captain Lannery Storm
 1 Kalain, Reclusive Painter
-1 Mind Stone
 1 Marionette Master
+2 Mind Stone
 2 Galazeth Prismari
 2 Kalain, Reclusive Painter
-2 Mind Stone
-2 Treasure Map
 2 Marionette Master
+2 Treasure Map
 3 Mind Stone
 3 Chandra, Torch of Defiance
 3 Treasure Map
@@ -320,10 +325,35 @@
 4 Mind Stone
 4 Kalain, Reclusive Painter
 4 Treasure Map
+1 Agadeem's Awakening
+1 Inscription of Ruin
+1 Snow-Covered Forest
+1 Blizzard Brawl
+1 Feed the Swarm
+1 Ayara, First of Locthwain
+1 Brain Maggot
+2 Phyrexian Obliterator
+2 Agadeem's Awakening
+2 Brain Maggot
+2 Blizzard Brawl
+2 Inscription of Ruin
+3 Snow-Covered Swamp
+3 Agadeem's Awakening
+3 Blizzard Brawl
+3 Phyrexian Obliterator
+3 Phyrexian Arena
+4 Snow-Covered Swamp
+4 Phyrexian Obliterator
+4 Phyrexian Arena
+4 Blizzard Brawl
+5 Snow-Covered Swamp
+6 Snow-Covered Swamp
+7 Snow-Covered Swamp
+8 Snow-Covered Swamp
+9 Snow-Covered Swamp
+10 Snow-Covered Swamp
 1 Angrath, the Flame-Chained
-2 Hive of the Eye Tyrant
 2 Go Blank
-2 Davriel, Rogue Shadowmage
 2 Angrath, the Flame-Chained
 3 Waste Not
 4 Blightstep Pathway
