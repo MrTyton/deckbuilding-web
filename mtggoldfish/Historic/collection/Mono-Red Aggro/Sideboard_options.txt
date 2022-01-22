@@ -1,8 +1,4 @@
 1 Soul-Guide Lantern
-4 Roiling Vortex
-1 Abrade
-2 Abrade
-3 Abrade
 1 Goblin Chainwhirler
 1 Cindervines
 1 Leyline of the Void
@@ -16,17 +12,21 @@
 2 Legion's End
 2 Cindervines
 2 Fatal Push
-1 Grafdigger's Cage
+1 Abrade
+2 Abrade
+3 Abrade
 1 Chandra, Torch of Defiance
+1 Grafdigger's Cage
+2 Chandra, Torch of Defiance
 1 Rest in Peace
 1 Rip Apart
 1 Authority of the Consuls
 1 Portable Hole
 1 Hushbringer
 2 Hushbringer
-2 Chandra, Torch of Defiance
 2 Portable Hole
 3 Hushbringer
+4 Roiling Vortex
 1 The Akroan War
 1 Pillar of Flame
 1 Shadowspear
@@ -42,10 +42,10 @@
 1 Demanding Dragon
 2 Sweltering Suns
 2 Terror of the Peaks
+2 Chandra, Pyromaster
 2 Flames of the Firebrand
 2 Fiery Cannonade
 2 Lightning Strike
-2 Chandra, Pyromaster
 3 Lightning Strike
 3 Flames of the Firebrand
 1 Hazoret the Fervent
@@ -58,31 +58,17 @@
 3 Soul-Guide Lantern
 3 Redcap Melee
 3 Blazing Volley
-1 Rampaging Ferocidon
-1 Grim Lavamancer
-2 Rampaging Ferocidon
-2 Grim Lavamancer
+1 Conductive Current
+1 Bonecrusher Giant
+1 Anax, Hardened in the Forge
 2 Grafdigger's Cage
-3 Rampaging Ferocidon
-4 Rampaging Ferocidon
-1 Hall Monitor
-1 Crawling Barrens
-1 Shock
-1 Akoum Hellhound
-1 Roil Eruption
-1 Shatterskull Smashing
-2 Shatterskull Smashing
-2 Crawling Barrens
-2 Shock
-2 Akoum Hellhound
-3 Akoum Hellhound
-3 Shock
-3 Crawling Barrens
-4 Akoum Hellhound
-4 Crawling Barrens
+2 Anax, Hardened in the Forge
+3 Grafdigger's Cage
+3 Anax, Hardened in the Forge
+4 Grafdigger's Cage
 1 Tibalt, Rakish Instigator
-1 Fire Prophecy
 1 Curse of Shaken Faith
+1 Fire Prophecy
 2 Fire Prophecy
 2 Tibalt, Rakish Instigator
 2 Curse of Shaken Faith
