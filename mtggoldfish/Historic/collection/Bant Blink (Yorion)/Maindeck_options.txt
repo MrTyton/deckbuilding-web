@@ -1,4 +1,3 @@
-1 Barkchannel Pathway
 1 Botanical Sanctum
 1 Llanowar Elves
 2 Barkchannel Pathway
@@ -13,14 +12,13 @@
 1 Glacial Fortress
 1 Timeless Witness
 2 Glacial Fortress
+4 Prosperous Innkeeper
 1 Brutal Cathar
 1 Dreamroot Cascade
-1 Hengegate Pathway
-2 Hengegate Pathway
-3 Hengegate Pathway
 1 Thraben Inspector
 2 Plains
 1 Sigardian Evangel
+1 Hengegate Pathway
 1 Esper Sentinel
 1 Thalia's Lieutenant
 1 Giant Killer
@@ -31,10 +29,12 @@
 2 Esper Sentinel
 2 Ranger-Captain of Eos
 2 Thalia's Lieutenant
+2 Hengegate Pathway
 3 Deserted Beach
 3 Esper Sentinel
 3 Ranger-Captain of Eos
 3 Thalia's Lieutenant
+3 Hengegate Pathway
 4 Esper Sentinel
 4 Hengegate Pathway
 4 Thalia's Lieutenant
@@ -44,22 +44,11 @@
 2 Pyre of Heroes
 3 Pyre of Heroes
 4 Pyre of Heroes
-1 Island
 1 Fblthp, the Lost
-1 Knight of Autumn
-1 Yorion, Sky Nomad
+1 Island
 1 Callous Bloodmage
 1 Linvala, Shield of Sea Gate
-1 Gilded Goose
-1 Lair of the Hydra
-2 Knight of Autumn
-2 Elite Spellbinder
-2 Gilded Goose
-2 Lair of the Hydra
-3 Elite Spellbinder
-3 Gilded Goose
-4 Inquisitor Captain
-4 Gilded Goose
+1 Knight of Autumn
 1 Fabled Passage
 1 Fateful Absence
 1 Mulldrifter
@@ -71,12 +60,13 @@
 1 Dovin's Veto
 1 Mind Flayer
 1 Regal Caracal
+1 Yorion, Sky Nomad
 2 Mulldrifter
 2 Thragtusk
 2 Fabled Passage
+2 Thraben Inspector
 2 Timeless Witness
 2 Forest
-2 Thraben Inspector
 2 Portable Hole
 3 Mulldrifter
 3 Fabled Passage

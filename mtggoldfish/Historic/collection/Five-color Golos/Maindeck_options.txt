@@ -107,8 +107,8 @@
 3 Trial of Ambition
 4 Omen of the Sea
 4 Glacial Fortress
-4 Zagoth Triome
 4 Binding the Old Gods
+4 Zagoth Triome
 4 Trial of Ambition
 4 In Search of Greatness
 4 Enigmatic Incarnation
@@ -128,13 +128,13 @@
 1 Blinkmoth Nexus
 1 Mystic Forge
 1 Mobilized District
-2 Blinkmoth Nexus
 2 Mobilized District
 2 Mystic Forge
+2 Blinkmoth Nexus
 3 Blast Zone
-3 Blinkmoth Nexus
 3 Crawling Barrens
 3 Mobilized District
+3 Blinkmoth Nexus
 4 Blast Zone
 4 Blinkmoth Nexus
 4 Forsaken Monument
@@ -218,7 +218,6 @@
 1 Fabled Passage
 1 Castle Locthwain
 1 Season of Growth
-1 Gilded Goose
 1 Temple of Malady
 1 Tamiyo, Collector of Tales
 1 Necroblossom Snarl
@@ -231,6 +230,7 @@
 1 Scute Swarm
 1 Gemrazer
 1 The Great Henge
+1 Gilded Goose
 1 Castle Vantress
 1 Paradise Druid
 1 Dirge Bat
@@ -247,9 +247,9 @@
 2 Fabled Passage
 2 Nissa, Who Shakes the World
 2 Season of Growth
-2 Gilded Goose
 2 Darkbore Pathway
 2 Gemrazer
+2 Gilded Goose
 2 Paradise Druid
 2 Insatiable Hemophage
 2 Boneyard Lurker
@@ -263,9 +263,9 @@
 3 Lotus Cobra
 3 Fabled Passage
 3 Gemrazer
-3 Gilded Goose
 3 Boneyard Lurker
 3 Insatiable Hemophage
+3 Gilded Goose
 3 Auspicious Starrix
 3 Paradise Druid
 3 Pollywog Symbiote
@@ -381,10 +381,10 @@
 1 Consider
 1 Faithless Salvaging
 1 Stormcarved Coast
+1 Arclight Phoenix
 1 Mizzix's Mastery
 1 Terror of Mount Velus
 1 Spirebluff Canal
-1 Arclight Phoenix
 1 Serra's Emissary
 1 Rise of the Dark Realms
 1 Spikefield Hazard
@@ -393,30 +393,31 @@
 2 Otherworldly Gaze
 2 Craterhoof Behemoth
 2 Consider
+2 Arclight Phoenix
 2 Terror of Mount Velus
 2 Spirebluff Canal
 2 Serra's Emissary
-2 Arclight Phoenix
 2 Rise of the Dark Realms
 2 Mizzix's Mastery
 3 Stormcarved Coast
 3 Otherworldly Gaze
 3 Faithless Looting
+3 Arclight Phoenix
 3 Consider
 3 Craterhoof Behemoth
 3 Terror of Mount Velus
 3 Serra's Emissary
 3 Rise of the Dark Realms
 3 Mizzix's Mastery
-3 Arclight Phoenix
 4 Stormcarved Coast
 4 Otherworldly Gaze
+4 Arclight Phoenix
 4 Mizzix's Mastery
 4 Faithless Looting
-4 Arclight Phoenix
 4 Consider
 4 Rise of the Dark Realms
 4 Craterhoof Behemoth
+1 Khalni Garden
 1 Throes of Chaos
 1 Cragcrown Pathway
 1 The Tarrasque
@@ -426,12 +427,12 @@
 1 Chandra, Awakened Inferno
 1 Elesh Norn, Grand Cenobite
 1 Scholar of the Lost Trove
-1 Khalni Garden
 1 Emergent Ultimatum
 1 Emergence Zone
 1 Magma Opus
 1 Mirrodin's Core
 1 Blood Crypt
+2 Khalni Garden
 2 Blood Crypt
 2 Cragcrown Pathway
 2 Treasure Vault
@@ -442,19 +443,18 @@
 2 Mirrodin's Core
 2 Tibalt's Trickery
 2 Throes of Chaos
-2 Khalni Garden
 2 Emergent Ultimatum
+3 Khalni Garden
 3 Cragcrown Pathway
 3 Alrund's Epiphany
 3 Blood Crypt
 3 Throes of Chaos
-3 Khalni Garden
 3 Emergent Ultimatum
 3 Magma Opus
+4 Khalni Garden
 4 Cragcrown Pathway
 4 Blood Crypt
 4 Throes of Chaos
 4 Emergent Ultimatum
 4 Magma Opus
-4 Khalni Garden
 4 Alrund's Epiphany
