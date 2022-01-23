@@ -38,8 +38,8 @@
 2 Drown in the Loch
 2 Temple Garden
 2 Binding the Old Gods
-1 Olivia, Crimson Bride
 1 Thought Erasure
+1 Olivia, Crimson Bride
 2 Thought Erasure
 1 Tyrant's Scorn
 1 Assassin's Trophy
@@ -64,10 +64,6 @@
 2 Hallowed Fountain
 2 Grafdigger's Cage
 2 Klothys, God of Destiny
-1 Kroxa, Titan of Death's Hunger
-1 The Celestus
-2 The Celestus
-2 Kroxa, Titan of Death's Hunger
 1 Escape to the Wilds
 1 Dream Trawler
 1 Rip Apart
@@ -77,6 +73,10 @@
 2 Dovin's Veto
 2 Shipwreck Marsh
 2 Deserted Beach
+1 Kroxa, Titan of Death's Hunger
+1 The Celestus
+2 Kroxa, Titan of Death's Hunger
+2 The Celestus
 1 Portable Hole
 2 Portable Hole
 3 Portable Hole
@@ -105,11 +105,11 @@
 4 Drown in the Loch
 1 Sundown Pass
 1 Galvanic Iteration
-1 Volatile Fjord
 1 Into the North
 1 Time Wipe
 1 Chandra, Awakened Inferno
 1 Town-razer Tyrant
+1 Volatile Fjord
 1 Sulfurous Mire
 1 Alpine Meadow
 1 Ephemerate
@@ -125,8 +125,8 @@
 3 Temple Garden
 3 Town-razer Tyrant
 4 Stomping Ground
-4 Sundown Pass
 4 Forsaken Crossroads
 4 Into the North
+4 Sundown Pass
 4 Town-razer Tyrant
 4 Temple Garden

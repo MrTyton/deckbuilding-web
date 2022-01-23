@@ -154,8 +154,8 @@
 1 Elvish Rejuvenator
 2 Assassin's Trophy
 2 Elvish Rejuvenator
-3 Elvish Rejuvenator
 3 Assassin's Trophy
+3 Elvish Rejuvenator
 4 Elvish Rejuvenator
 1 Indatha Triome
 2 Indatha Triome
@@ -214,7 +214,6 @@
 2 Island
 1 Barkchannel Pathway
 1 Koma, Cosmos Serpent
-1 Lotus Cobra
 1 Nissa, Who Shakes the World
 1 Castle Locthwain
 1 Season of Growth
@@ -224,12 +223,12 @@
 1 Vivien Reid
 1 The Great Henge
 1 Paradise Druid
-1 Vineglimmer Snarl
 1 Darkbore Pathway
 1 Vivien, Champion of the Wilds
 1 Scute Swarm
 1 Temple of Deceit
 1 Gemrazer
+1 Lotus Cobra
 1 Castle Vantress
 1 Temple of Malady
 1 Dirge Bat
@@ -238,12 +237,12 @@
 1 Migratory Greathorn
 1 Auspicious Starrix
 1 Boneyard Lurker
+1 Vineglimmer Snarl
 1 Nicol Bolas, Dragon-God
 1 Watery Grave
 1 Nethroi, Apex of Death
 1 Pouncing Shoreshark
 1 Insatiable Hemophage
-2 Lotus Cobra
 2 Nissa, Who Shakes the World
 2 Season of Growth
 2 Gilded Goose
@@ -257,16 +256,17 @@
 2 Migratory Greathorn
 2 Pollywog Symbiote
 2 Pouncing Shoreshark
+2 Lotus Cobra
 2 Swamp
 2 Fabled Passage
 3 Swamp
-3 Lotus Cobra
 3 Gemrazer
 3 Fabled Passage
 3 Gilded Goose
 3 Paradise Druid
 3 Boneyard Lurker
 3 Insatiable Hemophage
+3 Lotus Cobra
 3 Auspicious Starrix
 3 Pollywog Symbiote
 3 Migratory Greathorn
@@ -283,8 +283,8 @@
 4 Genesis Ultimatum
 1 Fae of Wishes
 1 Shefet Dunes
-1 Cultivate
 1 Hour of Promise
+1 Cultivate
 1 Relic of Progenitus
 1 Omen of the Hunt
 1 Mirari's Wake
@@ -297,17 +297,17 @@
 2 Shefet Dunes
 2 Hour of Promise
 2 Cultivate
-2 The World Tree
 2 Mirari's Wake
 2 Wolfwillow Haven
 2 Relic of Progenitus
+2 The World Tree
 2 Omen of the Hunt
 2 Omniscience
 3 Hour of Promise
 3 Hashep Oasis
 3 Shefet Dunes
-3 The World Tree
 3 Cultivate
+3 The World Tree
 3 Mirari's Wake
 3 Hydroid Krasis
 3 Wolfwillow Haven
@@ -315,56 +315,6 @@
 4 The World Tree
 4 Cultivate
 4 Hydroid Krasis
-1 Riverglide Pathway
-1 Steam Vents
-2 Mountain
-2 Riverglide Pathway
-2 Steam Vents
-3 Steam Vents
-3 Riverglide Pathway
-4 Riverglide Pathway
-4 Steam Vents
-1 Khalni Garden
-1 Throes of Chaos
-1 Cragcrown Pathway
-1 The Tarrasque
-1 Phyrexian Tower
-1 Treasure Vault
-1 Tibalt's Trickery
-1 Elesh Norn, Grand Cenobite
-1 Chandra, Awakened Inferno
-1 Scholar of the Lost Trove
-1 Emergent Ultimatum
-1 Emergence Zone
-1 Magma Opus
-1 Mirrodin's Core
-1 Blood Crypt
-2 Khalni Garden
-2 Cragcrown Pathway
-2 Blood Crypt
-2 Treasure Vault
-2 Chandra, Awakened Inferno
-2 Phyrexian Tower
-2 Scholar of the Lost Trove
-2 Magma Opus
-2 Mirrodin's Core
-2 Tibalt's Trickery
-2 Throes of Chaos
-2 Emergent Ultimatum
-3 Khalni Garden
-3 Cragcrown Pathway
-3 Alrund's Epiphany
-3 Blood Crypt
-3 Throes of Chaos
-3 Emergent Ultimatum
-3 Magma Opus
-4 Alrund's Epiphany
-4 Khalni Garden
-4 Cragcrown Pathway
-4 Blood Crypt
-4 Throes of Chaos
-4 Emergent Ultimatum
-4 Magma Opus
 1 Sanctum of Stone Fangs
 1 Honden of Night's Reach
 1 Sanctum of Calm Waters
@@ -416,6 +366,15 @@
 2 Labyrinth of Skophos
 3 Labyrinth of Skophos
 4 Buried Ruin
+1 Riverglide Pathway
+1 Steam Vents
+2 Mountain
+2 Riverglide Pathway
+2 Steam Vents
+3 Steam Vents
+3 Riverglide Pathway
+4 Riverglide Pathway
+4 Steam Vents
 1 Otherworldly Gaze
 1 Craterhoof Behemoth
 1 Faithless Salvaging
@@ -458,3 +417,44 @@
 4 Arclight Phoenix
 4 Rise of the Dark Realms
 4 Craterhoof Behemoth
+1 Khalni Garden
+1 Throes of Chaos
+1 Cragcrown Pathway
+1 The Tarrasque
+1 Phyrexian Tower
+1 Treasure Vault
+1 Elesh Norn, Grand Cenobite
+1 Chandra, Awakened Inferno
+1 Scholar of the Lost Trove
+1 Emergent Ultimatum
+1 Emergence Zone
+1 Magma Opus
+1 Mirrodin's Core
+1 Tibalt's Trickery
+1 Blood Crypt
+2 Khalni Garden
+2 Cragcrown Pathway
+2 Blood Crypt
+2 Treasure Vault
+2 Chandra, Awakened Inferno
+2 Phyrexian Tower
+2 Scholar of the Lost Trove
+2 Magma Opus
+2 Mirrodin's Core
+2 Tibalt's Trickery
+2 Throes of Chaos
+2 Emergent Ultimatum
+3 Khalni Garden
+3 Cragcrown Pathway
+3 Alrund's Epiphany
+3 Blood Crypt
+3 Throes of Chaos
+3 Emergent Ultimatum
+3 Magma Opus
+4 Khalni Garden
+4 Cragcrown Pathway
+4 Blood Crypt
+4 Throes of Chaos
+4 Emergent Ultimatum
+4 Magma Opus
+4 Alrund's Epiphany

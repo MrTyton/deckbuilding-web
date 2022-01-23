@@ -8,9 +8,9 @@
 3 Lightning Strike
 4 Lightning Strike
 3 Chandra, Dressed to Kill
-1 Spikefield Hazard
 1 Light Up the Stage
 2 Light Up the Stage
+1 Spikefield Hazard
 3 Light Up the Stage
 4 Light Up the Stage
 4 Chandra, Dressed to Kill
@@ -59,35 +59,35 @@
 4 Mutavault
 2 Reckless Impulse
 4 Skewer the Critics
+1 Steam Vents
+1 Spirebluff Canal
+1 Expressive Iteration
+1 Riverglide Pathway
+2 Expressive Iteration
+2 Spirebluff Canal
+2 Steam Vents
+2 Riverglide Pathway
+3 Expressive Iteration
+3 Riverglide Pathway
+3 Spirebluff Canal
+3 Steam Vents
+4 Spirebluff Canal
+4 Expressive Iteration
+4 Steam Vents
+4 Riverglide Pathway
 3 Scab-Clan Berserker
+1 Sprite Dragon
+1 Shivan Reef
+2 Shivan Reef
+2 Sprite Dragon
+3 Sprite Dragon
+4 Sprite Dragon
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 3 Reckless Impulse
 3 Runaway Steam-Kin
 4 Reckless Impulse
 4 Runaway Steam-Kin
-1 Steam Vents
-1 Sprite Dragon
-1 Spirebluff Canal
-1 Expressive Iteration
-1 Shivan Reef
-1 Riverglide Pathway
-2 Shivan Reef
-2 Expressive Iteration
-2 Spirebluff Canal
-2 Steam Vents
-2 Riverglide Pathway
-2 Sprite Dragon
-3 Expressive Iteration
-3 Sprite Dragon
-3 Riverglide Pathway
-3 Spirebluff Canal
-3 Steam Vents
-4 Spirebluff Canal
-4 Sprite Dragon
-4 Expressive Iteration
-4 Steam Vents
-4 Riverglide Pathway
 1 Cave of the Frost Dragon
 1 Inspiring Vantage
 1 Needle Spires
@@ -113,6 +113,23 @@
 4 Battlefield Forge
 4 Spark Trooper
 4 Inspiring Vantage
+1 Stormcarved Coast
+1 Light Up the Night
+1 Shatterskull Smashing
+1 Wandering Mind
+1 Chandra, Fire Artisan
+2 Stormcarved Coast
+2 Wandering Mind
+2 Shatterskull Smashing
+2 Light Up the Night
+2 Chandra, Fire Artisan
+3 Wandering Mind
+3 Chandra, Fire Artisan
+3 Stormcarved Coast
+3 Light Up the Night
+4 Wandering Mind
+4 Light Up the Night
+4 Chandra, Fire Artisan
 1 Castle Embereth
 2 Castle Embereth
 18 Mountain
