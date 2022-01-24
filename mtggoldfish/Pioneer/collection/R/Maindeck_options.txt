@@ -1,11 +1,12 @@
-1 Monastery Swiftspear
-2 Monastery Swiftspear
-3 Monastery Swiftspear
-4 Monastery Swiftspear
+4 Goblin Chainwhirler
+3 Rampaging Ferocidon
+17 Mountain
 2 Lightning Strike
-1 Chandra, Dressed to Kill
+4 Rampaging Ferocidon
 3 Lightning Strike
 4 Lightning Strike
+1 Zurgo Bellstriker
+1 Chandra, Dressed to Kill
 2 Chandra, Dressed to Kill
 3 Chandra, Dressed to Kill
 1 Light Up the Stage
@@ -14,7 +15,6 @@
 3 Light Up the Stage
 4 Light Up the Stage
 4 Chandra, Dressed to Kill
-1 Zurgo Bellstriker
 2 Spikefield Hazard
 3 Spikefield Hazard
 4 Spikefield Hazard
@@ -41,10 +41,6 @@
 4 Wizard's Lightning
 4 Wild Slash
 2 Kari Zev, Skyship Raider
-1 Lava Coil
-2 Lava Coil
-3 Lava Coil
-4 Lava Coil
 1 Reckless Impulse
 1 Blast Zone
 1 Scab-Clan Berserker
@@ -53,6 +49,10 @@
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
+1 Lava Coil
+2 Lava Coil
+3 Lava Coil
+4 Lava Coil
 1 Mutavault
 2 Mutavault
 3 Mutavault
@@ -118,10 +118,10 @@
 1 Shatterskull Smashing
 1 Wandering Mind
 1 Chandra, Fire Artisan
-2 Stormcarved Coast
-2 Wandering Mind
 2 Shatterskull Smashing
+2 Stormcarved Coast
 2 Light Up the Night
+2 Wandering Mind
 2 Chandra, Fire Artisan
 3 Wandering Mind
 3 Chandra, Fire Artisan

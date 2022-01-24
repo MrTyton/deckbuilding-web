@@ -1,6 +1,9 @@
 4 Wasteland
 4 Scalding Tarn
 4 Polluted Delta
+1 Delver of Secrets
+2 Delver of Secrets
+3 Delver of Secrets
 1 Steam Vents
 1 Thoughtseize
 1 Watery Grave
@@ -10,9 +13,6 @@
 2 Watery Grave
 3 Death's Shadow
 4 Death's Shadow
-1 Delver of Secrets
-2 Delver of Secrets
-3 Delver of Secrets
 4 Delver of Secrets
 1 Blood Crypt
 1 Street Wraith
@@ -20,24 +20,24 @@
 3 Street Wraith
 4 Street Wraith
 3 Thoughtseize
+1 Stifle
 4 Murktide Regent
 1 Unholy Heat
 2 Unholy Heat
 4 Thoughtseize
+1 Brazen Borrower
 1 True-Name Nemesis
 2 True-Name Nemesis
-1 Stifle
+2 Stifle
+3 Stifle
 4 Bloodstained Mire
 3 Snuff Out
 1 Force of Negation
 1 Misty Rainforest
 2 Misty Rainforest
 3 Underground Sea
-1 Brazen Borrower
 1 Fatal Push
 2 Fatal Push
-2 Stifle
-3 Stifle
 1 Forked Bolt
 1 Aether Spellbomb
 1 Soul-Guide Lantern
@@ -53,20 +53,22 @@
 3 True-Name Nemesis
 3 Misty Rainforest
 2 Force of Negation
+1 Young Pyromancer
+2 Young Pyromancer
+1 Island
 1 Gurmag Angler
 2 Gurmag Angler
 1 Narset, Parter of Veils
-1 Young Pyromancer
 1 Snow-Covered Island
 1 Hullbreacher
-2 Young Pyromancer
+1 Tarfire
+2 Tarfire
 2 Steam Vents
 1 Stubborn Denial
 1 Dismember
 2 Stubborn Denial
 3 Watery Grave
 1 Preordain
-1 Island
 1 Swamp
 1 Terminate
 1 Fiery Islet
@@ -75,9 +77,9 @@
 4 Misty Rainforest
 1 Sprite Dragon
 1 Entomb
-1 Ox of Agonas
 1 Griselbrand
 1 Reanimate
+1 Ox of Agonas
 2 Sprite Dragon
 2 Entomb
 2 Reanimate

@@ -1,8 +1,8 @@
-1 Void Mirror
 1 Torpor Orb
+1 Void Mirror
+2 Prismatic Ending
 2 Cathar Commando
 2 Seal of Cleansing
-2 Prismatic Ending
 2 Torpor Orb
 1 Portable Hole
 2 Portable Hole
@@ -10,28 +10,13 @@
 1 Hushbringer
 2 Hushbringer
 1 Defense Grid
-1 Soul-Guide Lantern
 1 Wear/Tear
 2 Wear/Tear
-2 Defense Grid
-1 Rest in Peace
-2 Rest in Peace
-1 Relic of Progenitus
-1 Sword of Sinew and Steel
-1 Mana Tithe
-1 On Thin Ice
-1 Sword of War and Peace
-2 On Thin Ice
-2 Mana Tithe
-3 On Thin Ice
-3 Mana Tithe
-3 Defense Grid
 1 Blacksmith's Skill
 2 Blacksmith's Skill
+1 Soul-Guide Lantern
 3 Prismatic Ending
-1 Veil of Summer
-2 Veil of Summer
-3 Veil of Summer
+2 Defense Grid
 1 Mana Leak
 1 Manriki-Gusari
 1 Meddling Mage
@@ -39,10 +24,25 @@
 2 Mana Leak
 3 Mana Leak
 3 Meddling Mage
+1 Sword of Sinew and Steel
+1 Rest in Peace
+1 Relic of Progenitus
+1 Mana Tithe
+1 On Thin Ice
+1 Sword of War and Peace
+2 Rest in Peace
+2 On Thin Ice
+2 Mana Tithe
+3 On Thin Ice
+3 Mana Tithe
+3 Defense Grid
 1 Duress
 1 Drannith Magistrate
 1 Fatal Push
 2 Fatal Push
+1 Veil of Summer
+2 Veil of Summer
+3 Veil of Summer
 1 Alpine Moon
 1 Silence
 2 Silence
@@ -50,4 +50,8 @@
 1 Heroic Intervention
 2 Heroic Intervention
 3 Blacksmith's Skill
+1 Phyrexian Crusader
+2 Phyrexian Crusader
+3 Phyrexian Crusader
+4 Phyrexian Crusader
 2 Lurrus of the Dream-Den

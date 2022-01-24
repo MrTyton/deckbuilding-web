@@ -20,13 +20,13 @@
 1 Riptide Chimera
 1 Omen of the Sea
 2 Spreading Seas
-2 Breeding Pool
 2 Omen of the Sea
+2 Breeding Pool
 2 Riptide Chimera
-3 Spreading Seas
 3 Misty Rainforest
-4 Spreading Seas
+3 Spreading Seas
 4 Misty Rainforest
+4 Spreading Seas
 1 Prismatic Ending
 2 Prismatic Ending
 1 Setessan Champion
@@ -54,18 +54,17 @@
 1 Ixalan's Binding
 4 Horizon Canopy
 1 Journey to Nowhere
-1 Arid Mesa
 1 Idyllic Tutor
+1 Arid Mesa
 1 Plains
 1 Razorverge Thicket
 2 Razorverge Thicket
 2 Greater Auramancy
-1 Copy Enchantment
 1 Waterlogged Grove
+1 Copy Enchantment
 2 Copy Enchantment
-1 Overgrown Tomb
-1 Snow-Covered Swamp
 1 Snow-Covered Mountain
+1 Overgrown Tomb
 1 Assemble the Legion
 1 Honden of Life's Web
 1 Form of the Dragon
@@ -79,6 +78,7 @@
 1 Paradox Haze
 1 Sanctum of Stone Fangs
 1 Enduring Ideal
+1 Snow-Covered Swamp
 2 Paradox Haze
 2 Enduring Ideal
 2 Mana Bloom
@@ -105,25 +105,25 @@
 2 Abundant Harvest
 2 Kruphix's Insight
 3 Kruphix's Insight
-1 Forest
 1 Gemstone Caverns
 1 Phyrexian Unlife
-2 Arid Mesa
-2 Forest
+1 Forest
 2 Phyrexian Unlife
+2 Forest
 2 Solemnity
 2 Idyllic Tutor
+2 Arid Mesa
 2 Gemstone Caverns
 2 Nine Lives
-3 Arid Mesa
 3 Razorverge Thicket
 3 Phyrexian Unlife
 3 Solemnity
+3 Arid Mesa
 4 Phyrexian Unlife
 4 Solemnity
 1 Thassa's Oracle
-1 Fabled Passage
 1 Marsh Flats
+1 Fabled Passage
 1 Brushland
 1 Stony Silence
 2 Marsh Flats
@@ -137,12 +137,6 @@
 4 Temple Garden
 4 Marsh Flats
 4 Brushland
-1 Arbor Elf
-2 Arbor Elf
-3 Wooded Foothills
-3 Arbor Elf
-4 Wooded Foothills
-4 Arbor Elf
 1 Branchloft Pathway
 1 Borrowed Time
 2 Branchloft Pathway
@@ -151,3 +145,9 @@
 5 Snow-Covered Plains
 9 Snow-Covered Forest
 10 Snow-Covered Forest
+1 Arbor Elf
+2 Arbor Elf
+3 Arbor Elf
+3 Wooded Foothills
+4 Wooded Foothills
+4 Arbor Elf
