@@ -1,4 +1,4 @@
-1 Abrupt Decay
+2 Abrupt Decay
 1 Blood Crypt
 4 Bring to Light
 1 Dragonskull Summit
@@ -6,7 +6,7 @@
 2 Drowned Catacomb
 2 Expressive Iteration
 1 Extinction Event
-4 Fabled Passage
+1 Fabled Passage
 1 Forest
 2 Glacial Fortress
 3 Growth Spiral
@@ -15,7 +15,6 @@
 1 Ketria Triome
 1 Kolaghan's Command
 1 Mana Confluence
-1 Mountain
 1 Nahiri, the Harbinger
 3 Niv-Mizzet Reborn
 2 Omnath, Locus of Creation
@@ -25,20 +24,22 @@
 2 Rootbound Crag
 1 Savai Triome
 1 Steam Vents
-1 Sunpetal Grove
+2 Sunpetal Grove
 1 Swamp
 4 Sylvan Caryatid
+1 Temple Garden
 1 The Scarab God
 1 Valki, God of Lies
 2 Vanishing Verse
 1 Watery Grave
+1 Yasharn, Implacable Earth
 2 Zagoth Triome
 Sideboard
 1 Blood Baron of Vizkopa
-2 Fatal Push
+3 Fatal Push
 2 Go Blank
 1 Jegantha, the Wellspring
 3 Mystical Dispute
 2 Notion Thief
-2 Rest in Peace
+1 Rest in Peace
 2 Thoughtseize

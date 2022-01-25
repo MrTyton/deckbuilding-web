@@ -1,66 +1,100 @@
-1 Blast Zone
-4 Narset, Parter of Veils
-3 Swamp
-4 Clearwater Pathway
+1 Mystical Dispute
 2 Fetid Pools
-1 Hullbreaker Horror
-1 Sorin the Mirthless
-1 Hall of Storm Giants
-1 Hive of the Eye Tyrant
-2 Cling to Dust
-1 Castle Vantress
-1 Day's Undoing
+4 Clearwater Pathway
 1 Thoughtseize
 2 Thoughtseize
+4 Drowned Catacomb
 1 Drown in the Loch
-1 Languish
+3 Sinister Sabotage
+1 Sorin the Mirthless
+1 Hall of Storm Giants
+1 Castle Vantress
+1 Day's Undoing
+2 Drown in the Loch
+3 Field of Ruin
 1 Commit/Memory
+1 Languish
+1 Hullbreaker Horror
 1 Erebos's Intervention
 1 Silundi Vision
-3 Field of Ruin
-2 Drown in the Loch
-1 Torrential Gearhulk
+2 Cling to Dust
+1 Hive of the Eye Tyrant
 2 Erebos's Intervention
 1 Thing in the Ice
 2 Thing in the Ice
 1 Eliminate
-1 Castle Locthwain
-2 Mystical Dispute
 3 Dig Through Time
-4 Island
+1 Torrential Gearhulk
+2 Sorin the Mirthless
 1 Syncopate
-2 Syncopate
 2 Castle Vantress
 4 Shark Typhoon
 4 Dig Through Time
-2 Sorin the Mirthless
+1 Castle Locthwain
+2 Syncopate
+4 Island
+1 Power Word Kill
+3 Thoughtseize
 1 Kalitas, Traitor of Ghet
+3 Drown in the Loch
+2 Mystical Dispute
+1 Notion Thief
+2 Notion Thief
+4 Thoughtseize
+3 Shipwreck Marsh
+2 Hive of the Eye Tyrant
+1 Thassa's Intervention
+2 Silundi Vision
+3 Heartless Act
 3 Thing in the Ice
 4 Thing in the Ice
-2 Hive of the Eye Tyrant
-4 Sinister Sabotage
-3 Heartless Act
-1 Grafdigger's Cage
+1 Nighthawk Scavenger
+1 Urborg, Tomb of Yawgmoth
+1 Brazen Borrower
+1 Zareth San, the Trickster
+1 Thieves' Guild Enforcer
+1 Soaring Thought-Thief
+2 Castle Locthwain
+2 Brazen Borrower
+2 Nighthawk Scavenger
+2 Soaring Thought-Thief
+2 Zareth San, the Trickster
+2 Thieves' Guild Enforcer
+3 Hive of the Eye Tyrant
+3 Thieves' Guild Enforcer
+3 Castle Locthwain
+3 Soaring Thought-Thief
+4 Soaring Thought-Thief
+4 Drown in the Loch
+4 Thieves' Guild Enforcer
+1 Stern Dismissal
+1 Dispel
+1 Neutralize
+2 Day's Undoing
+2 Memory Deluge
+2 Geier Reach Sanitarium
+2 Hall of Storm Giants
+3 Day's Undoing
+3 Notion Thief
+4 Day's Undoing
+4 Notion Thief
+2 Power Word Kill
 2 Eliminate
-1 Vraska's Contempt
+1 Grafdigger's Cage
+4 Sinister Sabotage
+5 Island
+2 Negate
+1 Jwari Disruption
 1 The Meathook Massacre
 1 Pull from Tomorrow
 1 Enter the God-Eternals
-1 Silumgar's Command
-3 Drown in the Loch
-1 Behold the Multiverse
-5 Island
-1 Power Word Kill
-1 Jwari Disruption
 1 Feed the Swarm
+1 Vraska's Contempt
 1 Graveyard Trespasser
+1 Silumgar's Command
 2 The Meathook Massacre
-1 Thassa's Intervention
-2 Silundi Vision
-1 Essence Scatter
-2 Essence Scatter
-2 Power Word Kill
-3 Shipwreck Marsh
+1 Shadows' Verdict
+3 Power Word Kill
 1 Fateful Absence
 1 Plains
 1 Deserted Beach
@@ -68,13 +102,12 @@
 1 Dovin's Veto
 1 Teferi, Hero of Dominaria
 1 Castle Ardenvale
-1 Hallowed Fountain
 1 Glacial Fortress
+1 Hallowed Fountain
 1 Supreme Verdict
 2 Fateful Absence
 2 Glacial Fortress
 2 Brightclimb Pathway
-2 Negate
 2 Teferi, Hero of Dominaria
 2 Deserted Beach
 2 Hallowed Fountain
@@ -90,29 +123,45 @@
 2 Snow-Covered Swamp
 2 Snow-Covered Island
 3 Snow-Covered Island
-3 Mystical Dispute
-4 Mystical Dispute
+1 Haunted Ridge
+1 Sulfur Falls
+1 Jace, Vryn's Prodigy
+1 Smoldering Egg
+1 Nicol Bolas, Dragon-God
+1 Stormcarved Coast
+1 Riverglide Pathway
+1 Go Blank
+1 Nicol Bolas, the Ravager
+1 Dragon's Fire
+1 Silumgar's Scorn
+1 Mountain
+1 Expressive Iteration
+1 Blood Crypt
+1 Steam Vents
+1 Kolaghan's Command
+1 Dragonskull Summit
+2 Sulfur Falls
+2 Jace, Vryn's Prodigy
+2 Smoldering Egg
+2 Expressive Iteration
+2 Nicol Bolas, the Ravager
+2 Steam Vents
+2 Silumgar's Scorn
+2 Dragonskull Summit
+3 Smoldering Egg
+3 Expressive Iteration
+3 Nicol Bolas, the Ravager
+3 Silumgar's Scorn
+4 Nicol Bolas, the Ravager
+4 Silumgar's Scorn
+4 Expressive Iteration
 2 Baleful Mastery
 4 Fabled Passage
 4 Field of Ruin
-1 Stern Dismissal
-1 Dispel
-1 Neutralize
-1 Notion Thief
-2 Day's Undoing
-2 Memory Deluge
-2 Notion Thief
-2 Geier Reach Sanitarium
-2 Hall of Storm Giants
-3 Day's Undoing
-3 Thoughtseize
-3 Notion Thief
-4 Thoughtseize
-4 Day's Undoing
-4 Notion Thief
 1 Siphon Insight
 1 Ritual of Soot
 1 Opt
+1 Behold the Multiverse
 2 Siphon Insight
 2 Ritual of Soot
 2 Opt

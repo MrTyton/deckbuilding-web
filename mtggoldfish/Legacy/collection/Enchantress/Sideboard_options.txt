@@ -2,10 +2,10 @@
 1 Faerie Macabre
 1 Stony Silence
 2 Faerie Macabre
+3 Faerie Macabre
 1 Mindbreak Trap
 2 Mindbreak Trap
 3 Mindbreak Trap
-3 Faerie Macabre
 1 Energy Flux
 1 Bayou
 1 Back to Basics
@@ -14,13 +14,13 @@
 1 Knight of Autumn
 1 Plague Engineer
 2 Choke
-1 Orim's Chant
-2 Orim's Chant
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 4 Leyline of Sanctity
 1 Carpet of Flowers
+1 Orim's Chant
+2 Orim's Chant
 2 Carpet of Flowers
 1 Archon of Valor's Reach
 1 Torpor Orb
@@ -29,11 +29,11 @@
 2 Out of Time
 2 Curse of Exhaustion
 2 Endurance
+1 Curse of Silence
 1 Force of Vigor
 2 Force of Vigor
 1 Veil of Summer
 2 Veil of Summer
-1 Curse of Silence
 1 Fateful Absence
 1 Pithing Needle
 2 Fateful Absence
@@ -42,22 +42,17 @@
 1 Wave of Reckoning
 2 Collector Ouphe
 3 Fateful Absence
+4 Faerie Macabre
 1 Angel's Grace
 2 Angel's Grace
-1 Swords to Plowshares
 1 Skyclave Apparition
 1 Elephant Grass
+1 Swords to Plowshares
 2 Skyclave Apparition
 2 Elephant Grass
 3 Orim's Chant
 1 Leyline of the Void
 2 Leyline of the Void
-1 Containment Priest
-2 Containment Priest
-2 Swords to Plowshares
-1 Seal of Primordium
-1 Deafening Silence
-2 Deafening Silence
 1 Wasteland
 1 Ulamog, the Ceaseless Hunger
 1 Hall of Heliod's Generosity
@@ -65,20 +60,24 @@
 1 Heliod, God of the Sun
 2 Karakas
 1 Grafdigger's Cage
+1 Seal of Primordium
 2 Grafdigger's Cage
 1 Authority of the Consuls
+1 Deafening Silence
 2 Authority of the Consuls
+2 Deafening Silence
 2 Torpor Orb
 2 Stony Silence
+1 Rest in Peace
+1 Abundance
+2 Abundance
 3 Angel's Grace
 1 Mystical Dispute
 2 Mystical Dispute
 3 Curse of Silence
+1 Containment Priest
+2 Containment Priest
+2 Swords to Plowshares
 3 Elephant Grass
-1 Winds of Abandon
-2 Seal of Primordium
-3 Deafening Silence
-3 Swords to Plowshares
-4 Faerie Macabre
 3 Leyline of the Void
 4 Leyline of the Void

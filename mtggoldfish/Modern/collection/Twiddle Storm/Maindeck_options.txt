@@ -54,26 +54,26 @@
 2 Marsh Flats
 1 Mana Confluence
 2 Mana Confluence
-1 Seachrome Coast
 1 Plains
 1 Spirebluff Canal
-1 Expressive Iteration
-1 Tale's End
+1 Seachrome Coast
 1 Teferi, Time Raveler
+1 Tale's End
+1 Expressive Iteration
 1 Izzet Charm
 2 Spirebluff Canal
-2 Expressive Iteration
 2 Teferi, Time Raveler
+2 Expressive Iteration
 2 Izzet Charm
 3 Teferi, Time Raveler
 3 Spirebluff Canal
 3 Expressive Iteration
+4 Scalding Tarn
 1 Ad Nauseam
 1 Underground River
 2 Underground River
 3 Underground River
 4 Watery Grave
-4 Scalding Tarn
 4 Prismatic Ending
 1 Shivan Reef
 1 Empty the Warrens
@@ -86,27 +86,17 @@
 3 Shivan Reef
 4 Lonely Sandbar
 4 Shivan Reef
-1 Silundi Vision
-1 Merchant Scroll
-2 Tolaria West
-2 Merchant Scroll
-3 Tolaria West
-3 Opt
-4 Opt
-4 Tolaria West
-8 Island
-9 Island
 1 Remand
+1 Snow-Covered Mountain
 1 Time Warp
 1 Brazen Borrower
-1 Snow-Covered Mountain
-1 Snow-Covered Island
 1 Chandra, Torch of Defiance
 1 Mystic Sanctuary
 1 Dictate of Kruphix
 1 Cryptic Command
 1 Bonecrusher Giant
 1 Jace, the Mind Sculptor
+1 Snow-Covered Island
 1 Snapcaster Mage
 1 Part the Waterveil
 1 The Royal Scions
@@ -116,8 +106,8 @@
 1 Walk the Aeons
 1 Temporal Mastery
 2 Time Warp
-2 Snow-Covered Island
 2 Dictate of Kruphix
+2 Snow-Covered Island
 2 Temporal Mastery
 2 Mystic Sanctuary
 2 Jace, the Mind Sculptor
@@ -132,3 +122,13 @@
 4 Lightning Bolt
 4 Time Warp
 4 Mystic Sanctuary
+1 Silundi Vision
+1 Merchant Scroll
+2 Tolaria West
+2 Merchant Scroll
+3 Tolaria West
+3 Opt
+4 Opt
+4 Tolaria West
+8 Island
+9 Island

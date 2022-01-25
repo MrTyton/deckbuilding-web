@@ -1,44 +1,30 @@
+1 Cave of the Frost Dragon
 2 Vanishing Verse
-3 Swamp
-1 Taborax, Hope's Demise
 4 Swamp
-2 Cave of the Frost Dragon
-3 Elite Spellbinder
-4 Elite Spellbinder
-1 Brutal Cathar
+1 Taborax, Hope's Demise
 1 Dawnbringer Cleric
-3 Vanishing Verse
+2 Cave of the Frost Dragon
+1 Brutal Cathar
 1 Traveling Minister
+3 Elite Spellbinder
+3 Vanishing Verse
 4 Skyclave Cleric
-1 Angel of Destiny
-4 Vanishing Verse
+4 Elite Spellbinder
 1 Markov Purifier
 2 Markov Purifier
-1 Sorin the Mirthless
 2 Traveling Minister
 2 Shineshadow Snarl
-1 Emeria's Call
-5 Swamp
-3 Cave of the Frost Dragon
-4 Cave of the Frost Dragon
 1 Cleric Class
 2 Cleric Class
-8 Plains
+5 Swamp
+1 Angel of Destiny
 3 Shineshadow Snarl
+4 Vanishing Verse
+1 Emeria's Call
+1 Sorin the Mirthless
 2 Emeria's Call
-1 Ollenbock Escort
-2 Ollenbock Escort
-2 Angel of Destiny
-3 Cleric Class
-3 Hive of the Eye Tyrant
-4 Skyclave Apparition
-4 Shineshadow Snarl
-3 Ollenbock Escort
-6 Swamp
+8 Plains
 1 Fateful Absence
-1 Doomskar
-2 Doomskar
-3 Doomskar
 1 Snow-Covered Plains
 1 Snow-Covered Swamp
 2 Snow-Covered Plains
@@ -46,28 +32,47 @@
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
+3 Cleric Class
+3 Cave of the Frost Dragon
+4 Cave of the Frost Dragon
+6 Swamp
+4 Shineshadow Snarl
 9 Plains
 10 Plains
+1 Ollenbock Escort
+2 Ollenbock Escort
+3 Ollenbock Escort
+3 Snow-Covered Swamp
+1 Doomskar
+2 Doomskar
+3 Doomskar
+1 The Meathook Massacre
+2 The Meathook Massacre
+1 Field of Ruin
+1 Silverquill Campus
 1 Nullpriest of Oblivion
 2 Nullpriest of Oblivion
+2 Angel of Destiny
 1 Silverquill Command
 1 Edgar, Charmed Groom
 2 Silverquill Command
-1 Silverquill Campus
+6 Snow-Covered Plains
 4 Doomskar
 1 Blood on the Snow
 2 Blood on the Snow
-3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
 1 Faceless Haven
-1 The Meathook Massacre
-2 The Meathook Massacre
 3 The Meathook Massacre
 4 Cleric Class
-2 Sorin the Mirthless
-1 Eradicator Valkyrie
+2 Silverquill Campus
 1 Valkyrie Harbinger
+7 Swamp
+8 Swamp
+2 Sorin the Mirthless
+3 Hive of the Eye Tyrant
+4 Skyclave Apparition
+1 Eradicator Valkyrie
 1 Paladin Class
 2 Edgar, Charmed Groom
 2 Valkyrie Harbinger
@@ -75,19 +80,13 @@
 2 Eradicator Valkyrie
 3 Edgar, Charmed Groom
 3 Silverquill Command
-7 Swamp
-8 Swamp
 11 Plains
 12 Plains
-1 Thalia, Guardian of Thraben
 1 Professor of Symbology
 2 Professor of Symbology
 3 Professor of Symbology
 4 Professor of Symbology
-1 Field of Ruin
 2 Field of Ruin
-2 Silverquill Campus
-6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
@@ -106,8 +105,8 @@
 6 Snow-Covered Swamp
 1 Savior of Ollenbock
 1 Killian, Ink Duelist
-2 Killian, Ink Duelist
 2 Savior of Ollenbock
+2 Killian, Ink Duelist
 3 Killian, Ink Duelist
 4 Silverquill Command
 1 Fracture
@@ -116,6 +115,7 @@
 1 Plargg, Dean of Chaos
 2 Fracture
 2 Cosmos Elixir
+1 Thalia, Guardian of Thraben
 1 Drana, the Last Bloodchief
 1 Jerren, Corrupted Bishop
 1 Marauding Blight-Priest
@@ -126,10 +126,12 @@
 2 Taborax, Hope's Demise
 2 Sigarda's Splendor
 3 Emeria's Call
-1 Valorous Stance
-2 Thalia, Guardian of Thraben
-2 Valorous Stance
-3 Thalia, Guardian of Thraben
+1 Great Hall of Starnheim
+1 The Book of Exalted Deeds
+1 Homestead Courage
+2 The Book of Exalted Deeds
+2 Homestead Courage
+3 Traveling Minister
 1 Duress
 1 Humiliate
 1 Lolth, Spider Queen
@@ -140,12 +142,9 @@
 2 Crippling Fear
 3 Crippling Fear
 3 Markov Purifier
-1 Great Hall of Starnheim
-1 Homestead Courage
-1 The Book of Exalted Deeds
-2 Homestead Courage
-2 The Book of Exalted Deeds
-3 Traveling Minister
+1 Priest of Ancient Lore
+2 Dawnbringer Cleric
+3 Dawnbringer Cleric
 1 Curse of Leeches
 1 Revitalize
 1 Selfless Glyphweaver
@@ -177,6 +176,38 @@
 3 Vanquish the Horde
 4 The Meathook Massacre
 4 Vanquish the Horde
+1 Youthful Valkyrie
+1 Starnheim Unleashed
+1 Rampage of the Valkyries
+1 Firja's Retribution
+1 Closing Statement
+1 Firja, Judge of Valor
+1 Vengeful Reaper
+1 Renegade Reaper
+1 Bound in Gold
+1 Starnheim Aspirant
+1 Skemfar Shadowsage
+1 Skull Raid
+1 Expedition Healer
+2 Youthful Valkyrie
+2 Rampage of the Valkyries
+2 Closing Statement
+2 Vengeful Reaper
+2 Skull Raid
+2 Expedition Healer
+2 Firja, Judge of Valor
+2 Renegade Reaper
+2 Bound in Gold
+2 Starnheim Aspirant
+2 Skemfar Shadowsage
+3 Youthful Valkyrie
+3 Vengeful Reaper
+3 Expedition Healer
+3 Rampage of the Valkyries
+3 Silverquill Campus
+3 Bound in Gold
+4 Silverquill Campus
+9 Swamp
 3 Faceless Haven
 4 Faceless Haven
 7 Snow-Covered Swamp

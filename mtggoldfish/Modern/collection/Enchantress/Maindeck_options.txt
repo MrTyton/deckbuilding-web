@@ -1,14 +1,13 @@
-1 Horizon Canopy
-1 Misty Rainforest
 3 Prismatic Vista
-1 Verdant Catacombs
-2 Horizon Canopy
 7 Snow-Covered Forest
+1 Sigil of the Empty Throne
+1 Misty Rainforest
+2 Horizon Canopy
+1 Verdant Catacombs
 1 Wooded Foothills
-1 Oblivion Ring
 1 Yavimaya, Cradle of Growth
+1 Oblivion Ring
 1 Rest in Peace
-3 Snow-Covered Plains
 4 Destiny Spinner
 1 Snow-Covered Island
 1 Breeding Pool
@@ -20,15 +19,15 @@
 1 Riptide Chimera
 1 Omen of the Sea
 2 Spreading Seas
-2 Omen of the Sea
 2 Breeding Pool
+2 Omen of the Sea
 2 Riptide Chimera
-3 Misty Rainforest
 3 Spreading Seas
-4 Misty Rainforest
+3 Misty Rainforest
 4 Spreading Seas
-1 Prismatic Ending
-2 Prismatic Ending
+4 Misty Rainforest
+8 Snow-Covered Forest
+3 Snow-Covered Plains
 1 Setessan Champion
 2 Setessan Champion
 3 Omen of the Sea
@@ -36,14 +35,15 @@
 1 Shark Typhoon
 1 Eidolon of Blossoms
 2 Wooded Foothills
-8 Snow-Covered Forest
 1 Banishing Light
+1 Solemnity
+1 Nine Lives
+1 Prismatic Ending
+2 Prismatic Ending
 4 Solitary Confinement
 1 Helix Pinnacle
 2 Verdant Catacombs
 4 Snow-Covered Plains
-1 Solemnity
-1 Nine Lives
 2 Detention Sphere
 1 Ghostly Prison
 1 Cast Out
@@ -55,16 +55,15 @@
 4 Horizon Canopy
 1 Journey to Nowhere
 1 Idyllic Tutor
-1 Arid Mesa
 1 Plains
 1 Razorverge Thicket
 2 Razorverge Thicket
 2 Greater Auramancy
-1 Waterlogged Grove
 1 Copy Enchantment
+1 Waterlogged Grove
 2 Copy Enchantment
-1 Snow-Covered Mountain
 1 Overgrown Tomb
+1 Snow-Covered Swamp
 1 Assemble the Legion
 1 Honden of Life's Web
 1 Form of the Dragon
@@ -73,12 +72,12 @@
 1 Honden of Infinite Rage
 1 Sanctum of Fruitful Harvest
 1 Honden of Seeing Winds
+1 Snow-Covered Mountain
 1 Sanctum of Calm Waters
 1 Honden of Night's Reach
 1 Paradox Haze
 1 Sanctum of Stone Fangs
 1 Enduring Ideal
-1 Snow-Covered Swamp
 2 Paradox Haze
 2 Enduring Ideal
 2 Mana Bloom
@@ -105,25 +104,26 @@
 2 Abundant Harvest
 2 Kruphix's Insight
 3 Kruphix's Insight
+1 Arid Mesa
+1 Forest
 1 Gemstone Caverns
 1 Phyrexian Unlife
-1 Forest
+2 Arid Mesa
 2 Phyrexian Unlife
 2 Forest
 2 Solemnity
 2 Idyllic Tutor
-2 Arid Mesa
 2 Gemstone Caverns
 2 Nine Lives
 3 Razorverge Thicket
+3 Arid Mesa
 3 Phyrexian Unlife
 3 Solemnity
-3 Arid Mesa
 4 Phyrexian Unlife
 4 Solemnity
 1 Thassa's Oracle
-1 Marsh Flats
 1 Fabled Passage
+1 Marsh Flats
 1 Brushland
 1 Stony Silence
 2 Marsh Flats
@@ -147,7 +147,7 @@
 10 Snow-Covered Forest
 1 Arbor Elf
 2 Arbor Elf
-3 Arbor Elf
 3 Wooded Foothills
+3 Arbor Elf
 4 Wooded Foothills
 4 Arbor Elf
