@@ -1,50 +1,50 @@
-1 Flooded Strand
-2 Portable Hole
-2 Esper Sentinel
-3 Portable Hole
-3 Esper Sentinel
-4 Esper Sentinel
-1 Plains
-2 Flooded Strand
-4 Portable Hole
-1 Ingenious Smith
-2 Ingenious Smith
-3 Ingenious Smith
-4 Ingenious Smith
-1 Metallic Rebuke
-2 Metallic Rebuke
-3 Metallic Rebuke
-4 Razortide Bridge
-1 Hallowed Fountain
-3 Flooded Strand
+4 Ornithopter
+4 Memnite
+1 Frogmite
+2 Frogmite
+3 Frogmite
+4 Frogmite
+1 Sojourner's Companion
+2 Sojourner's Companion
+3 Sojourner's Companion
+4 Sojourner's Companion
+1 Treasure Vault
+2 Treasure Vault
 3 Nettlecyst
+2 Hallowed Fountain
+3 Mishra's Bauble
+1 Pithing Needle
+3 Cranial Plating
+1 Seachrome Coast
+2 Seachrome Coast
+1 Glimmervoid
+1 Spire of Industry
+3 Treasure Vault
+2 Relic of Progenitus
+4 Flooded Strand
+1 Welding Jar
+4 Cranial Plating
 1 Galvanic Blast
 2 Galvanic Blast
 3 Galvanic Blast
-3 Mishra's Bauble
-2 Hallowed Fountain
+4 Treasure Vault
 1 Silverbluff Bridge
 2 Silverbluff Bridge
-2 Welding Jar
-1 Seachrome Coast
-2 Seachrome Coast
-4 Treasure Vault
 3 Silverbluff Bridge
-4 Galvanic Blast
+2 Welding Jar
 2 Glimmervoid
-2 Relic of Progenitus
-4 Flooded Strand
-2 Spire of Industry
-3 Welding Jar
-1 Gingerbrute
 4 Metallic Rebuke
 4 Nettlecyst
-4 Mishra's Bauble
-1 Urza, Lord High Artificer
+4 Galvanic Blast
 1 Talisman of Progress
 2 Talisman of Progress
-2 Urza, Lord High Artificer
+2 Spire of Industry
+4 Mishra's Bauble
+1 Urza, Lord High Artificer
 1 Academy Ruins
+3 Welding Jar
+1 Gingerbrute
+2 Urza, Lord High Artificer
 3 Seachrome Coast
 3 Glimmervoid
 4 Silverbluff Bridge
@@ -76,8 +76,6 @@
 4 Signal Pest
 1 Hex Parasite
 1 Teferi, Time Raveler
-3 Spire of Industry
-4 Spire of Industry
 1 Expedition Map
 1 Cave of the Frost Dragon
 1 Crackdown Construct
@@ -142,10 +140,6 @@
 3 Magda, Brazen Outlaw
 3 Holdout Settlement
 3 Steam Vents
-1 Inkmoth Nexus
-2 Inkmoth Nexus
-3 Inkmoth Nexus
-4 Inkmoth Nexus
 1 Chalice of the Void
 1 Tanglepool Bridge
 1 Neoform
@@ -188,6 +182,12 @@
 3 Goblin Engineer
 4 Arid Mesa
 4 Goblin Engineer
+1 Inkmoth Nexus
+2 Inkmoth Nexus
+3 Spire of Industry
+3 Inkmoth Nexus
+4 Inkmoth Nexus
+4 Spire of Industry
 1 Godless Shrine
 1 Thoughtseize
 1 Watery Grave
