@@ -25,24 +25,24 @@
 17 Plains
 18 Plains
 19 Plains
-1 Forest
-1 Sunpetal Grove
+1 Temple Garden
 1 Scattered Groves
 1 Gladecover Scout
+1 Forest
 1 Fortified Village
+1 Sunpetal Grove
 1 Unflinching Courage
 1 Dromoka's Command
 1 Season of Growth
 1 Gift of Orzhova
 1 Sixth Sense
 1 Adanto Vanguard
-1 Temple Garden
 1 Bassara Tower Archer
 1 Arctic Treeline
-2 Sunpetal Grove
 2 Gladecover Scout
-2 Fortified Village
 2 Forest
+2 Sunpetal Grove
+2 Fortified Village
 2 Adanto Vanguard
 2 Unflinching Courage
 2 Temple Garden
@@ -59,9 +59,9 @@
 3 Gift of Orzhova
 3 Bassara Tower Archer
 3 Temple Garden
+4 Temple Garden
 4 Sunpetal Grove
 4 Season of Growth
-4 Temple Garden
 4 Bassara Tower Archer
 4 Gladecover Scout
 4 Scattered Groves
@@ -75,26 +75,26 @@
 2 Swamp
 4 Selfless Savior
 4 Stonecoil Serpent
-1 Mana Confluence
 1 Glacial Fortress
 1 Hengegate Pathway
-1 Staggering Insight
-1 Portable Hole
 1 Hallowed Fountain
+1 Portable Hole
 1 Meletis Astronomer
 1 Heliod's Punishment
+1 Mana Confluence
 1 Aqueous Form
-2 Hallowed Fountain
-2 Mana Confluence
+1 Staggering Insight
 2 Glacial Fortress
 2 Hengegate Pathway
+2 Hallowed Fountain
 2 Meletis Astronomer
+2 Mana Confluence
 2 Heliod's Punishment
 3 Hallowed Fountain
-3 Glacial Fortress
 3 Hengegate Pathway
-3 Mana Confluence
+3 Glacial Fortress
 3 Meletis Astronomer
+3 Mana Confluence
 4 Hallowed Fountain
 4 Hengegate Pathway
 4 Glacial Fortress

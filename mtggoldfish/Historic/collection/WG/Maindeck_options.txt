@@ -1,9 +1,9 @@
-1 Forest
 1 Prosperous Innkeeper
 2 Prosperous Innkeeper
+1 Forest
 3 Prosperous Innkeeper
-3 Skyclave Apparition
 4 Prosperous Innkeeper
+3 Skyclave Apparition
 2 Overgrown Farmland
 2 Forest
 1 Inquisitor Captain
@@ -14,6 +14,8 @@
 3 Ranger-Captain of Eos
 4 Skyclave Apparition
 3 Overgrown Farmland
+3 Forest
+4 Forest
 9 Plains
 2 Scattered Groves
 4 Inquisitor Captain
@@ -23,25 +25,27 @@
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
-3 Forest
-4 Forest
 1 Fabled Passage
 1 Temple of Plenty
-1 Llanowar Elves
-2 Llanowar Elves
-3 Llanowar Elves
+1 Blossoming Sands
+2 Blossoming Sands
+3 Blossoming Sands
+4 Blossoming Sands
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 2 Selfless Savior
 3 Castle Ardenvale
-1 Blossoming Sands
 1 Alseid of Life's Bounty
 2 Alseid of Life's Bounty
-2 Blossoming Sands
-3 Blossoming Sands
-4 Blossoming Sands
 2 Fabled Passage
+5 Forest
+6 Forest
+7 Forest
+8 Forest
+1 Llanowar Elves
+2 Llanowar Elves
+3 Llanowar Elves
 4 Llanowar Elves
 1 Esper Sentinel
 1 Kabira Takedown
@@ -63,11 +67,19 @@
 2 Righteous Valkyrie
 3 Righteous Valkyrie
 3 Selfless Savior
-1 Ajani's Pridemate
-2 Ajani's Pridemate
-2 Forsaken Crossroads
-3 Ajani's Pridemate
-4 Ajani's Pridemate
+1 Cleric Class
+1 Fauna Shaman
+1 Paradise Druid
+2 Paradise Druid
+2 Cleric Class
+2 Fauna Shaman
+3 Paradise Druid
+3 Cleric Class
+3 Fauna Shaman
+4 Cleric Class
+4 Paradise Druid
+4 Fauna Shaman
+10 Plains
 1 Godless Shrine
 1 Indatha Triome
 1 Brightclimb Pathway
@@ -89,8 +101,3 @@
 4 Godless Shrine
 4 Indatha Triome
 4 Overgrown Tomb
-10 Plains
-5 Forest
-6 Forest
-7 Forest
-8 Forest
