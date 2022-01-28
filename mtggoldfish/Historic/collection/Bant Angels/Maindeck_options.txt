@@ -1,14 +1,11 @@
-1 Skyclave Apparition
-2 Skyclave Apparition
 1 Youthful Valkyrie
 2 Youthful Valkyrie
 3 Youthful Valkyrie
 4 Youthful Valkyrie
+1 Skyclave Apparition
+2 Skyclave Apparition
 3 Skyclave Apparition
 4 Skyclave Apparition
-1 Overgrown Farmland
-2 Overgrown Farmland
-1 Glacial Fortress
 3 Sunpetal Grove
 4 Sunpetal Grove
 1 Speaker of the Heavens
@@ -16,8 +13,9 @@
 2 Speaker of the Heavens
 5 Plains
 6 Plains
-1 Elite Spellbinder
-2 Elite Spellbinder
+1 Glacial Fortress
+1 Overgrown Farmland
+2 Overgrown Farmland
 1 Ajani, Strength of the Pride
 2 Castle Ardenvale
 1 Declaration in Stone
@@ -25,10 +23,11 @@
 3 Speaker of the Heavens
 4 Speaker of the Heavens
 7 Plains
-1 Forest
 1 Heliod, Sun-Crowned
 2 Heliod, Sun-Crowned
+1 Elite Spellbinder
 1 Shalai, Voice of Plenty
+2 Elite Spellbinder
 2 Shalai, Voice of Plenty
 1 Cleric Class
 8 Plains
@@ -37,11 +36,11 @@
 2 Voice of the Blessed
 3 Voice of the Blessed
 4 Voice of the Blessed
-1 Deserted Beach
 3 Declaration in Stone
 3 Heliod, Sun-Crowned
 1 Cave of the Frost Dragon
 1 Storm the Festival
+1 Forest
 1 Runed Halo
 2 Runed Halo
 3 Runed Halo
@@ -54,8 +53,8 @@
 2 Gods Willing
 2 Forest
 2 Angelic Ascension
-3 Blossoming Sands
 3 Gods Willing
+3 Blossoming Sands
 3 Forest
 3 Angelic Ascension
 4 Blossoming Sands
@@ -64,6 +63,7 @@
 6 Forest
 7 Forest
 8 Forest
+1 Deserted Beach
 1 Faceless Agent
 3 Overgrown Farmland
 1 Brightclimb Pathway
@@ -82,26 +82,14 @@
 3 Vito, Thorn of the Dusk Rose
 4 Godless Shrine
 4 Brightclimb Pathway
-1 Sigardian Evangel
-1 Forsaken Crossroads
-1 Ephemerate
-1 Dreamroot Cascade
-2 Deserted Beach
-2 Forsaken Crossroads
-2 Ephemerate
-2 Sigardian Evangel
-3 Elite Spellbinder
-3 Forsaken Crossroads
-4 Esper Sentinel
-4 Forsaken Crossroads
 1 Angel of Destiny
 1 Shefet Dunes
 2 Angel of Destiny
 2 Shefet Dunes
 2 Cave of the Frost Dragon
 2 Storm the Festival
-3 Cave of the Frost Dragon
 3 Shefet Dunes
+3 Cave of the Frost Dragon
 4 Cave of the Frost Dragon
 4 Shefet Dunes
 4 Declaration in Stone

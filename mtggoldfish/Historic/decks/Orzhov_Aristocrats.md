@@ -27,9 +27,9 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Shattered Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541140)|                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
-|                    1|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203) |                    2|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
-|                    1|[Hidden Stockpile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423796) |                    1|[Despark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461117)           |
-|                    1|[Serrated Scorpion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479619)|                    1|[Vanishing Verse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513736)   |
+|                    1|[Shattered Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541140)|                    1|[Vanishing Verse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513736)   |
+|                    1|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203) |                    1|[Despark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461117)           |
+|                    1|[Hidden Stockpile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423796) |                    2|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
+|                    1|[Serrated Scorpion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479619)|                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
 |                    2|[Serrated Scorpion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479619)|                     |                                                                                             |
 

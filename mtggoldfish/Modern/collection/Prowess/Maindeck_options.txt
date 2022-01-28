@@ -1,24 +1,24 @@
-2 Reckless Impulse
-1 Wooded Foothills
-3 Reckless Impulse
-3 Scalding Tarn
+1 Path to Exile
+2 Path to Exile
+3 Arid Mesa
 3 Mountain
 1 Manamorphose
 2 Manamorphose
-4 Inspiring Vantage
 2 Bloodstained Mire
 2 Wooded Foothills
+4 Inspiring Vantage
 4 Reckless Impulse
+3 Scalding Tarn
+3 Manamorphose
 1 Unholy Heat
 2 Unholy Heat
 2 Sunbaked Canyon
 3 Sunbaked Canyon
 4 Sunbaked Canyon
-3 Manamorphose
-4 Manamorphose
 1 Mutagenic Growth
 2 Mutagenic Growth
 4 Mountain
+4 Manamorphose
 3 Sacred Foundry
 1 Stormwing Entity
 2 Stormwing Entity
@@ -28,45 +28,46 @@
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 3 Fiery Islet
+1 Abbot of Keral Keep
+2 Abbot of Keral Keep
 5 Mountain
 6 Mountain
 7 Mountain
+3 Bloodstained Mire
 8 Mountain
 1 Den of the Bugbear
-1 Abbot of Keral Keep
 2 Den of the Bugbear
-2 Abbot of Keral Keep
 3 Abbot of Keral Keep
 4 Abbot of Keral Keep
 1 Sprite Dragon
 2 Sprite Dragon
-9 Mountain
-10 Mountain
-11 Mountain
+3 Wooded Foothills
 1 Clever Lumimancer
 2 Clever Lumimancer
 3 Clever Lumimancer
 4 Clever Lumimancer
-3 Mutagenic Growth
+9 Mountain
+10 Mountain
+11 Mountain
 1 Crash Through
 2 Crash Through
-3 Bloodstained Mire
-3 Steam Vents
+3 Mutagenic Growth
 1 Spirebluff Canal
 2 Spirebluff Canal
 3 Spirebluff Canal
 4 Spirebluff Canal
+3 Steam Vents
 3 Sprite Dragon
 1 Gut Shot
 12 Mountain
-3 Wooded Foothills
+1 Assault Strobe
 3 Crash Through
 4 Bloodstained Mire
 4 Fiery Islet
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
-3 Den of the Bugbear
 3 Seasoned Pyromancer
+3 Den of the Bugbear
 4 Seasoned Pyromancer
 4 Den of the Bugbear
 3 Unholy Heat
@@ -104,7 +105,6 @@
 4 Sacred Foundry
 1 Bedlam Reveler
 2 Gut Shot
-1 Assault Strobe
 1 Emerge Unscathed
 2 Assault Strobe
 2 Emerge Unscathed
@@ -122,6 +122,10 @@
 1 Serum Visions
 1 Vapor Snag
 2 Vapor Snag
+1 Blackcleave Cliffs
+1 Blood Crypt
+2 Blackcleave Cliffs
+2 Blood Crypt
 1 Island
 2 Island
 3 Island
