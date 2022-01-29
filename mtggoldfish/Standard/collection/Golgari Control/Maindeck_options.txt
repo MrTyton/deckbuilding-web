@@ -51,14 +51,14 @@
 1 Concealing Curtains
 1 Swamp
 1 Forest
-2 Forest
 2 Swamp
+2 Forest
 3 Swamp
 4 Swamp
 1 Go Blank
+1 Primal Adversary
 1 Power Word Kill
 1 Augur of Autumn
-1 Primal Adversary
 2 Power Word Kill
 2 Augur of Autumn
 4 Wrenn and Seven
@@ -96,8 +96,8 @@
 6 Forest
 1 Toxrill, the Corrosive
 1 Baleful Mastery
-1 Graveyard Trespasser
 1 Avabruck Caretaker
+1 Graveyard Trespasser
 2 Graveyard Trespasser
 2 Avabruck Caretaker
 1 Agadeem's Awakening
@@ -107,11 +107,11 @@
 3 Bloodvial Purveyor
 3 Lair of the Hydra
 3 Elderfang Disciple
-1 Valentin, Dean of the Vein
 1 Hero's Downfall
 1 Dryad's Revival
-2 Valentin, Dean of the Vein
+1 Valentin, Dean of the Vein
 2 Hero's Downfall
+2 Valentin, Dean of the Vein
 2 Dryad's Revival
 3 Fell Stinger
 3 Hero's Downfall
@@ -134,19 +134,19 @@
 7 Forest
 4 Dig Up
 1 Inscription of Ruin
+1 Highland Forest
 1 Sarulf, Realm Eater
 1 Glorious Sunrise
-1 Highland Forest
 2 Culling Ritual
 2 Inscription of Ruin
 2 Glorious Sunrise
-1 Ranger Class
 1 Snow-Covered Mountain
-1 Path of Peril
-1 Bala Ged Recovery
-2 Path of Peril
+1 Ranger Class
 1 Lotus Cobra
 2 Lotus Cobra
+1 Bala Ged Recovery
+1 Path of Peril
+2 Path of Peril
 1 Pestilent Cauldron
 2 Pestilent Cauldron
 1 Ghoulish Procession
@@ -157,62 +157,62 @@
 2 Return Upon the Tide
 3 Toxrill, the Corrosive
 3 Return Upon the Tide
-1 Shadows' Verdict
-1 Cemetery Prowler
-1 Necroblossom Snarl
+3 Field of Ruin
+4 Field of Ruin
 1 Kazandu Mammoth
+1 Cemetery Prowler
+1 Shadows' Verdict
+1 Necroblossom Snarl
 1 The Celestus
-2 Shadows' Verdict
-2 Cemetery Prowler
-2 Necroblossom Snarl
 2 Kazandu Mammoth
+2 Cemetery Prowler
+2 Shadows' Verdict
+2 Necroblossom Snarl
 3 Kazandu Mammoth
 3 Necroblossom Snarl
 4 Kazandu Mammoth
 1 Sedgemoor Witch
-1 Poet's Quill
-1 Westgate Regent
 1 Dread Fugue
+1 Westgate Regent
+1 Poet's Quill
 2 Sedgemoor Witch
 2 Westgate Regent
 3 Graveyard Trespasser
 3 Sedgemoor Witch
 4 Graveyard Trespasser
-3 Field of Ruin
-4 Field of Ruin
-1 Morbid Opportunist
 1 Village Rites
+1 Morbid Opportunist
 2 Agadeem's Awakening
+2 Village Rites
 2 Morbid Opportunist
 2 Skeletal Swarming
-2 Village Rites
 3 Morbid Opportunist
-3 Village Rites
 3 Skeletal Swarming
+3 Village Rites
 4 Village Rites
+4 Elderfang Disciple
 1 Neverwinter Dryad
 2 Neverwinter Dryad
 3 Neverwinter Dryad
-4 Storm the Festival
 4 Neverwinter Dryad
-4 Elderfang Disciple
+4 Storm the Festival
 1 Evolving Wilds
-1 Nighthawk Scavenger
 1 Dollhouse of Horrors
+1 Scute Swarm
 1 Field Trip
 1 Roiling Regrowth
-1 Scute Swarm
+1 Nighthawk Scavenger
 2 Dollhouse of Horrors
-2 Nighthawk Scavenger
-2 Field Trip
-2 Roiling Regrowth
 2 Scute Swarm
+2 Field Trip
+2 Nighthawk Scavenger
+2 Roiling Regrowth
 3 Scute Swarm
 3 Field Trip
 3 Roiling Regrowth
 4 Scute Swarm
-8 Swamp
 8 Forest
+8 Swamp
 9 Swamp
 1 Eaten Alive
 2 Eaten Alive
@@ -221,14 +221,14 @@
 4 Eaten Alive
 17 Snow-Covered Swamp
 1 Dreadfeast Demon
-1 Eccentric Farmer
 1 Vorinclex, Monstrous Raider
+1 Eccentric Farmer
 1 Old Rutstein
 1 Deathbonnet Sprout
-2 Eccentric Farmer
 2 Vorinclex, Monstrous Raider
 2 Dreadfeast Demon
 2 Deathbonnet Sprout
+2 Eccentric Farmer
 3 Eccentric Farmer
 3 Emergent Sequence
 3 Deathbonnet Sprout

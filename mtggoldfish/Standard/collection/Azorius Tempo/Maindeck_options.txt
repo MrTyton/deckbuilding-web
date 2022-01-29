@@ -26,8 +26,8 @@
 2 Syncopate
 4 Geistlight Snare
 4 Dorothea, Vengeful Victim
-1 Snow-Covered Plains
 1 Snow-Covered Island
+1 Snow-Covered Plains
 2 Snow-Covered Island
 2 Snow-Covered Plains
 3 Snow-Covered Island
@@ -101,8 +101,8 @@
 3 Jwari Disruption
 4 Jwari Disruption
 3 Brutal Cathar
-1 Cemetery Illuminator
 1 Shipwreck Sifters
+1 Cemetery Illuminator
 1 Dreamshackle Geist
 2 Cemetery Illuminator
 2 Shipwreck Sifters
@@ -111,10 +111,10 @@
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
-1 Kabira Takedown
 1 Show of Confidence
 1 Kaya's Onslaught
 1 Leonin Lightscribe
+1 Kabira Takedown
 1 Guiding Voice
 1 Clever Lumimancer
 1 Mentor's Guidance
@@ -149,17 +149,13 @@
 2 Sejiri Shelter
 2 Serpentine Ambush
 1 Hopeful Initiate
-1 Suspicious Stowaway
 1 Rally the Ranks
+1 Suspicious Stowaway
 2 Hopeful Initiate
 2 Rally the Ranks
-3 Hopeful Initiate
 3 Alrund's Epiphany
+3 Hopeful Initiate
 3 Rally the Ranks
-2 Emeria's Call
-2 Field of Ruin
-3 Valorous Stance
-4 Valorous Stance
 1 Stonebinder's Familiar
 1 Lantern Bearer
 1 Katilda, Dawnhart Martyr
@@ -168,6 +164,10 @@
 3 Stonebinder's Familiar
 3 Katilda, Dawnhart Martyr
 4 Stonebinder's Familiar
+2 Emeria's Call
+2 Field of Ruin
+3 Valorous Stance
+4 Valorous Stance
 1 Squad Commander
 1 Nimble Trapfinder
 1 Archpriest of Iona
@@ -188,10 +188,10 @@
 3 Symmetry Sage
 4 Symmetry Sage
 4 Dreamshackle Geist
-1 Ollenbock Escort
 1 Voice of the Blessed
-2 Ollenbock Escort
+1 Ollenbock Escort
 2 Voice of the Blessed
+2 Ollenbock Escort
 3 Voice of the Blessed
 3 Ollenbock Escort
 4 Voice of the Blessed
@@ -200,12 +200,12 @@
 2 Chaplain of Alms
 3 Chaplain of Alms
 4 Chaplain of Alms
-1 Consider
 1 Guardian of Faith
 1 Memory Deluge
-2 Iymrith, Desert Doom
-2 Consider
+1 Consider
 2 Disdainful Stroke
 2 Guardian of Faith
+2 Iymrith, Desert Doom
+2 Consider
 3 Consider
 8 Snow-Covered Island

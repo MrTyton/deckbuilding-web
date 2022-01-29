@@ -121,8 +121,8 @@
 |                    1|[Jwari Disruption](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491693)    |                     |                                                                                                    |
 |                    1|[Staggering Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476479)  |                     |                                                                                                    |
 |                    1|[Sejiri Shelter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491662)      |                     |                                                                                                    |
-|                    2|[Nebelgast Herald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414366)    |                     |                                                                                                    |
 |                    2|[Staggering Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476479)  |                     |                                                                                                    |
+|                    2|[Nebelgast Herald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414366)    |                     |                                                                                                    |
 |                    4|[Glacial Fortress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190562)    |                     |                                                                                                    |
 |                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                     |                                                                                                    |
 
