@@ -36,7 +36,7 @@
 |*n*<sup>th</sup> copy|                                  Maindeck Card                                  |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|---------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
 |                    1|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)|                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)|                    2|[Endurance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522233)          |
+|                     |                                                                                 |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                     |                                                                                 |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                     |                                                                                 |                    2|[Endurance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522233)          |
 

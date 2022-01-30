@@ -1,9 +1,9 @@
-4 Sram, Senior Edificer
+2 Hushbringer
 1 Esper Sentinel
 2 Esper Sentinel
+4 Glacial Fortress
 3 Esper Sentinel
 4 Esper Sentinel
-4 Glacial Fortress
 2 All That Glitters
 4 Stormchaser Drake
 2 Heliod's Punishment
@@ -11,35 +11,30 @@
 3 Island
 3 All That Glitters
 1 Adanto Vanguard
-4 Arcane Flight
 3 Spell Pierce
 1 Sejiri Shelter
+4 Arcane Flight
+2 Adanto Vanguard
+3 Curious Obsession
 8 Plains
 2 Deserted Beach
-3 Curious Obsession
-4 Curious Obsession
-2 Adanto Vanguard
 1 Reprobation
 1 Curse of Silence
 2 Curse of Silence
 3 Curse of Silence
+4 Curious Obsession
 4 Spell Pierce
 1 Cartouche of Knowledge
-4 Island
 4 All That Glitters
-9 Plains
 1 Cerulean Drake
-2 Cartouche of Knowledge
 3 Adanto Vanguard
 4 Adanto Vanguard
+2 Cartouche of Knowledge
+4 Island
+9 Plains
 2 Reprobation
 2 Aether Tunnel
 1 Captain Eberhart
-5 Island
-1 Alseid of Life's Bounty
-2 Alseid of Life's Bounty
-3 Alseid of Life's Bounty
-4 Alseid of Life's Bounty
 3 Karametra's Blessing
 1 Angelic Gift
 1 Skyblade's Boon
@@ -53,9 +48,9 @@
 1 Brightclimb Pathway
 1 Claim/Fame
 1 Kaya's Ghostform
+2 Isolated Chapel
 2 Kaya's Ghostform
 2 Thoughtseize
-2 Isolated Chapel
 2 Concealed Courtyard
 2 Godless Shrine
 3 Godless Shrine
@@ -67,6 +62,7 @@
 4 Thoughtseize
 4 Kaya's Ghostform
 1 Spectral Steel
+1 Dovin's Veto
 1 Dorothea, Vengeful Victim
 2 Sejiri Shelter
 1 Tocatli Honor Guard
@@ -75,15 +71,15 @@
 4 Karametra's Blessing
 1 Warbriar Blessing
 1 Sythis, Harvest's Hand
-1 Overgrown Tomb
 1 Rune of Might
 1 Blooming Marsh
 1 Wild Shape
+1 Overgrown Tomb
 1 Temple Garden
 1 Solid Footing
 2 Blooming Marsh
-2 Overgrown Tomb
 2 Sythis, Harvest's Hand
+2 Overgrown Tomb
 2 Dead Weight
 2 Solid Footing
 2 Temple Garden
@@ -99,6 +95,7 @@
 3 Swamp
 3 Brightclimb Pathway
 4 Brightclimb Pathway
+5 Island
 6 Island
 1 Snow-Covered Island
 1 Snow-Covered Plains
@@ -110,10 +107,13 @@
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
+1 Alseid of Life's Bounty
+2 Alseid of Life's Bounty
 2 Angelic Gift
 3 Angelic Gift
 3 Heliod's Punishment
-4 Angelic Gift
+3 Alseid of Life's Bounty
+4 Alseid of Life's Bounty
 10 Plains
 11 Plains
 12 Plains
@@ -126,3 +126,4 @@
 19 Plains
 20 Plains
 21 Plains
+4 Angelic Gift

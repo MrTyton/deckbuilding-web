@@ -7,18 +7,11 @@
 4 Reckless Impulse
 3 Manamorphose
 1 Mountain
-1 Ruby Medallion
-1 Seething Song
-2 Ruby Medallion
-2 Seething Song
-2 Mountain
-3 Ruby Medallion
-3 Mountain
-4 Mountain
-4 Ancient Tomb
 1 Desperate Ritual
 1 Fiery Confluence
+1 Ruby Medallion
 1 Bonus Round
+1 Seething Song
 1 Past in Flames
 1 Sandstone Needle
 1 Ignite the Future
@@ -26,17 +19,24 @@
 2 Desperate Ritual
 2 Bonus Round
 2 Ignite the Future
+2 Ruby Medallion
+2 Seething Song
 2 Sandstone Needle
+2 Mountain
 3 Ignite the Future
+3 Ruby Medallion
 3 Seething Song
+3 Mountain
 4 Manamorphose
-4 Ruby Medallion
+4 Mountain
+4 Ancient Tomb
 4 Ignite the Future
+4 Ruby Medallion
+1 Harnfel, Horn of Bounty
+2 Harnfel, Horn of Bounty
 5 Mountain
 6 Mountain
 7 Mountain
-1 Harnfel, Horn of Bounty
-2 Harnfel, Horn of Bounty
 8 Mountain
 1 Arid Mesa
 3 Harnfel, Horn of Bounty
@@ -57,9 +57,6 @@
 2 Thoughtseize
 1 Infernal Tutor
 2 Infernal Tutor
-1 Reforge the Soul
-2 Reforge the Soul
-3 Reforge the Soul
 1 Scalding Tarn
 1 Plateau
 1 Orim's Chant

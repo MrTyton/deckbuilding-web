@@ -4,15 +4,15 @@
 1 Spirebluff Canal
 2 Spirebluff Canal
 3 Spirebluff Canal
-1 Seachrome Coast
 1 Valakut Awakening
 1 Cryptic Command
 1 Fury
 1 Blood Sun
+1 Seachrome Coast
 1 Lotus Field
-2 Seachrome Coast
 2 Cryptic Command
 2 Blood Sun
+2 Seachrome Coast
 2 Lotus Field
 2 Fury
 2 Valakut Awakening
@@ -80,11 +80,11 @@
 2 Field of Ruin
 4 Lightning Bolt
 1 Arid Mesa
-3 Seachrome Coast
 3 Hallowed Fountain
-4 Seachrome Coast
+3 Seachrome Coast
 4 Chalice of the Void
 4 Supreme Verdict
+4 Seachrome Coast
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
@@ -103,10 +103,10 @@
 1 Spell Pierce
 1 Murktide Regent
 1 Serum Visions
-1 Esper Sentinel
 1 Consider
 1 Brazen Borrower
 1 Dragon's Rage Channeler
+1 Esper Sentinel
 1 Unholy Heat
 1 Mishra's Bauble
 2 Murktide Regent
@@ -126,11 +126,6 @@
 4 Consider
 4 Dragon's Rage Channeler
 4 Mishra's Bauble
-1 Blood Moon
-2 Blood Moon
-3 Blood Moon
-3 Plains
-6 Island
 1 Restoration Angel
 1 Lightning Helix
 1 Vendilion Clique
@@ -150,3 +145,8 @@
 3 Snapcaster Mage
 3 Celestial Colonnade
 4 Blade Splicer
+1 Blood Moon
+2 Blood Moon
+3 Blood Moon
+3 Plains
+6 Island

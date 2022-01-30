@@ -9,8 +9,8 @@
 1 Prosperous Innkeeper
 2 Prosperous Innkeeper
 3 Prosperous Innkeeper
-1 Snow-Covered Forest
 1 Snow-Covered Plains
+1 Snow-Covered Forest
 2 Snow-Covered Forest
 2 Snow-Covered Plains
 3 Snow-Covered Forest
@@ -25,10 +25,10 @@
 1 Giver of Runes
 4 Horizon Canopy
 5 Forest
-1 Scurry Oak
 1 Trelasarra, Moon Dancer
-2 Scurry Oak
+1 Scurry Oak
 2 Trelasarra, Moon Dancer
+2 Scurry Oak
 3 Scurry Oak
 4 Prosperous Innkeeper
 4 Scurry Oak
@@ -40,9 +40,9 @@
 2 Giver of Runes
 3 Verdant Catacombs
 4 Verdant Catacombs
+1 Cleric Class
 1 Voice of the Blessed
 1 Razorverge Thicket
-1 Cleric Class
 1 Birds of Paradise
 2 Voice of the Blessed
 2 Noble Hierarch
@@ -52,9 +52,9 @@
 3 Birds of Paradise
 3 Noble Hierarch
 3 Razorverge Thicket
-4 Voice of the Blessed
 4 Razorverge Thicket
 4 Birds of Paradise
+4 Voice of the Blessed
 4 Noble Hierarch
 1 Ajani's Pridemate
 1 Sunpetal Grove
@@ -68,18 +68,18 @@
 2 Sunpetal Grove
 2 Branchloft Pathway
 2 Ajani's Pridemate
-3 Plains
+3 Trelasarra, Moon Dancer
 3 Soul Warden
 3 Sunpetal Grove
 3 Branchloft Pathway
 3 Ajani's Pridemate
-3 Trelasarra, Moon Dancer
-4 Plains
-4 Soul Warden
-4 Ajani's Pridemate
+3 Plains
 4 Trelasarra, Moon Dancer
+4 Soul Warden
+4 Plains
+4 Ajani's Pridemate
 4 Sunpetal Grove
+4 Branchloft Pathway
 5 Plains
 6 Forest
 6 Plains
-4 Branchloft Pathway
