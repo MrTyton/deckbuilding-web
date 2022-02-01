@@ -1,9 +1,11 @@
-4 Teferi, Hero of Dominaria
-1 Memory Deluge
+1 Shark Typhoon
 2 Shark Typhoon
-1 Fateful Absence
 3 Shark Typhoon
 4 Narset, Parter of Veils
+1 Omen of the Sea
+2 Omen of the Sea
+3 Omen of the Sea
+4 Omen of the Sea
 1 Steam Vents
 1 Sacred Foundry
 1 Chained to the Rocks
@@ -16,14 +18,11 @@
 3 Sacred Foundry
 3 Raugrin Triome
 3 Chained to the Rocks
-4 Raugrin Triome
 4 Steam Vents
 4 Sacred Foundry
+4 Raugrin Triome
 4 Chained to the Rocks
-1 Omen of the Sea
-2 Omen of the Sea
-3 Omen of the Sea
-4 Omen of the Sea
+4 Shark Typhoon
 1 Fabled Passage
 2 Fabled Passage
 1 Ketria Triome
@@ -36,27 +35,26 @@
 3 The Birth of Meletis
 3 Fires of Invention
 4 Fabled Passage
-4 Shark Typhoon
 4 The Birth of Meletis
 4 Fires of Invention
-1 Deafening Clarion
 1 Hinterland Harbor
 1 The Raven's Warning
-1 Agent of Treachery
+1 Deafening Clarion
 1 Esika's Chariot
 1 Transmogrify
-1 Cast Out
 1 Sunpetal Grove
+1 Agent of Treachery
+1 Cast Out
 2 The Raven's Warning
 2 Transmogrify
-2 Deafening Clarion
 2 Hinterland Harbor
 2 Cast Out
 2 Sunpetal Grove
 2 Esika's Chariot
 2 Agent of Treachery
-3 Ketria Triome
+2 Deafening Clarion
 3 Esika's Chariot
+3 Ketria Triome
 3 Deafening Clarion
 3 Transmogrify
 3 The Raven's Warning
@@ -64,12 +62,13 @@
 4 The Raven's Warning
 4 Esika's Chariot
 4 Ketria Triome
-2 Fateful Absence
 3 Irrigated Farmland
-3 Fateful Absence
-3 Deserted Beach
+1 Memory Deluge
 1 Mountain
-1 Portable Hole
+1 Fateful Absence
+1 Settle the Wreckage
+3 Plains
+2 Fateful Absence
 1 Anger of the Gods
 1 Snow-Covered Island
 1 Snow-Covered Forest
@@ -77,11 +76,12 @@
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
-1 Settle the Wreckage
-4 Fateful Absence
-2 Memory Deluge
-1 Valakut Awakening
+4 Irrigated Farmland
 1 Omen of the Sun
+2 Omen of the Sun
+3 Omen of the Sun
+4 Omen of the Sun
+1 Valakut Awakening
 1 Stormcarved Coast
 1 Sage of the Falls
 1 Elspeth, Sun's Nemesis
@@ -90,36 +90,40 @@
 1 Sundown Pass
 1 The Locust God
 2 Stormcarved Coast
-2 Omen of the Sun
 2 Fire Prophecy
 2 Indomitable Creativity
 3 Stormcarved Coast
 3 Indomitable Creativity
-3 Omen of the Sun
 4 Indomitable Creativity
-4 Omen of the Sun
 4 Stormcarved Coast
-4 Censor
-3 Plains
-4 Absorb
+3 Fateful Absence
+4 Fateful Absence
+1 Portable Hole
+2 Memory Deluge
 1 Rip Apart
-1 Sulfur Falls
+4 Censor
+3 Field of Ruin
+4 Absorb
+1 Forest
 1 Clifftop Retreat
+1 Sulfur Falls
 1 Secure the Wastes
 2 Sulfur Falls
 2 Secure the Wastes
 2 Valakut Awakening
 3 Fire Prophecy
+1 Hengegate Pathway
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
-1 Hengegate Pathway
 2 Portable Hole
-4 Irrigated Farmland
-1 Geier Reach Sanitarium
-1 Forest
-3 Field of Ruin
+3 Deserted Beach
 1 Cave of the Frost Dragon
+1 Geier Reach Sanitarium
+5 Island
+2 Hengegate Pathway
+3 Hengegate Pathway
+4 Hengegate Pathway
 4 Deserted Beach
 1 Opt
 2 Opt
@@ -134,35 +138,44 @@
 4 Expressive Iteration
 1 Mystical Dispute
 2 Mystical Dispute
+1 Charming Prince
+1 Yorion, Sky Nomad
+1 Test of Talents
+1 Void Shatter
+2 Yorion, Sky Nomad
+2 Charming Prince
+2 Settle the Wreckage
+2 Void Shatter
+3 Charming Prince
+4 Charming Prince
+6 Island
 1 Search for Azcanta
-1 Jace, Wielder of Mysteries
-1 Elspeth, Sun's Champion
 2 Seal Away
 3 Castle Vantress
 1 Solve the Equation
 1 Alpine Meadow
 1 Volatile Fjord
+1 Grafdigger's Cage
+1 Authority of the Consuls
+1 Lavinia of the Tenth
+1 Bag of Holding
+1 Skyclave Cleric
 1 Scavenger Grounds
-1 Blast Zone
-1 Fae of Wishes
-1 Swift Response
-2 Swift Response
+1 Jace, Wielder of Mysteries
+1 Elspeth, Sun's Champion
+1 Torrential Gearhulk
 1 Hullbreaker Horror
 3 Seal Away
-1 Skyclave Cleric
-2 Hengegate Pathway
-3 Hengegate Pathway
-4 Hengegate Pathway
 1 Negate
+1 Clearwater Pathway
 1 Watery Grave
 1 Swamp
 1 Brightclimb Pathway
 1 Fatal Push
-1 Clearwater Pathway
 1 Sinister Sabotage
+2 Clearwater Pathway
 2 Brightclimb Pathway
 2 Negate
-2 Clearwater Pathway
 2 Fatal Push
 2 Watery Grave
 2 Sinister Sabotage

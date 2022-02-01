@@ -5,8 +5,8 @@
 1 Shattered Sanctum
 1 Intrepid Adversary
 2 Portable Hole
-3 Silverquill Silencer
 3 Cave of the Frost Dragon
+3 Silverquill Silencer
 1 Immersturm Predator
 2 Immersturm Predator
 3 Immersturm Predator
@@ -57,14 +57,14 @@
 3 Furycalm Snarl
 4 Furycalm Snarl
 1 Fateful Absence
-1 Lunarch Veteran
 1 Righteous Valkyrie
+1 Lunarch Veteran
 1 Cleric of Life's Bond
-2 Lunarch Veteran
 2 Righteous Valkyrie
+2 Lunarch Veteran
 2 Cleric of Life's Bond
-3 Cleric of Life's Bond
 3 Righteous Valkyrie
+3 Cleric of Life's Bond
 4 Righteous Valkyrie
 1 Temple of the Dragon Queen
 1 Dragonkin Berserker
@@ -73,13 +73,13 @@
 2 Valki, God of Lies
 1 Shambling Ghast
 3 Eyetwitch
-1 Angel of Destiny
 1 Rampage of the Valkyries
-1 Youthful Valkyrie
 1 Firja's Retribution
 1 Starnheim Unleashed
+1 Youthful Valkyrie
 1 Liesa, Forgotten Archangel
 1 Valorous Stance
+1 Angel of Destiny
 2 Youthful Valkyrie
 2 Valorous Stance
 6 Plains
@@ -93,8 +93,8 @@
 1 Soul Shatter
 1 Forsworn Paladin
 1 Hall of Oracles
-2 Den of the Bugbear
 2 Play with Fire
+2 Den of the Bugbear
 2 Kargan Intimidator
 2 Forsworn Paladin
 3 Forsworn Paladin
@@ -105,8 +105,8 @@
 2 Bloodchief's Thirst
 3 Swamp
 4 Goldspan Dragon
-1 Lolth, Spider Queen
 1 The Meathook Massacre
+1 Lolth, Spider Queen
 1 Edgar, Charmed Groom
 2 The Meathook Massacre
 2 Lolth, Spider Queen
@@ -116,8 +116,8 @@
 1 Deadly Dispute
 2 Deadly Dispute
 2 Shambling Ghast
-3 Shambling Ghast
 3 Deadly Dispute
+3 Shambling Ghast
 1 Shatterskull Smashing
 2 Reckless Stormseeker
 3 Reckless Stormseeker
@@ -141,25 +141,35 @@
 2 Concealing Curtains
 2 Hopeful Initiate
 3 Hopeful Initiate
-4 Reidane, God of the Worthy
-4 Shineshadow Snarl
 2 Emeria's Call
-3 Tainted Adversary
 3 Angelfire Ignition
-4 Tainted Adversary
+3 Tainted Adversary
 4 Hive of the Eye Tyrant
-1 Rite of Oblivion
-1 Wedding Announcement
-2 Rite of Oblivion
-2 Wedding Announcement
-3 Wedding Announcement
-4 Wedding Announcement
-1 Kazuul's Fury
+4 Tainted Adversary
+4 Reidane, God of the Worthy
+1 Field of Ruin
+1 Clarion Spirit
+1 Sigardian Savior
+1 Blade Historian
+1 Chaplain of Alms
+1 Humiliate
+1 Can't Stay Away
+1 Taborax, Hope's Demise
+2 Clarion Spirit
+2 Fateful Absence
+2 Chaplain of Alms
+2 Humiliate
+2 Taborax, Hope's Demise
+3 Clarion Spirit
+3 Humiliate
+4 Clarion Spirit
+4 Shineshadow Snarl
 1 Kalain, Reclusive Painter
+1 Kazuul's Fury
 1 Skyclave Shade
+2 Kalain, Reclusive Painter
 2 Kazuul's Fury
 2 Skyclave Shade
-2 Kalain, Reclusive Painter
 3 Kalain, Reclusive Painter
 4 Reckless Stormseeker
 1 Check for Traps
@@ -168,88 +178,78 @@
 3 Intrepid Adversary
 3 Dragonkin Berserker
 4 Dragonkin Berserker
-1 Taborax, Hope's Demise
-1 Field of Ruin
-1 Humiliate
-1 Blade Historian
-1 Sigardian Savior
-1 Clarion Spirit
-1 Can't Stay Away
-1 Chaplain of Alms
-2 Taborax, Hope's Demise
-2 Humiliate
-2 Fateful Absence
-2 Chaplain of Alms
-2 Clarion Spirit
-3 Clarion Spirit
-3 Humiliate
-4 Clarion Spirit
-1 Dawnbringer Cleric
-1 Skyclave Apparition
+1 Rite of Oblivion
+1 Wedding Announcement
+2 Rite of Oblivion
+2 Wedding Announcement
+3 Wedding Announcement
+4 Wedding Announcement
 1 Voice of the Blessed
+1 Skyclave Cleric
+1 Skyclave Apparition
 1 Orah, Skyclave Hierophant
 1 Pyre of Heroes
-1 Skyclave Cleric
+1 Dawnbringer Cleric
 1 Hofri Ghostforge
 1 Venerable Warsinger
+2 Voice of the Blessed
+2 Skyclave Cleric
 2 Skyclave Apparition
 2 Orah, Skyclave Hierophant
-2 Skyclave Cleric
 2 Pyre of Heroes
-2 Voice of the Blessed
 3 Skyclave Apparition
 3 Lunarch Veteran
 3 Orah, Skyclave Hierophant
 3 Voice of the Blessed
 3 Skyclave Cleric
 3 Pyre of Heroes
+4 Lunarch Veteran
 4 Skyclave Cleric
 4 Pyre of Heroes
 4 Orah, Skyclave Hierophant
 4 Cleric of Life's Bond
-4 Lunarch Veteran
-1 Welcoming Vampire
+1 Bloodtithe Harvester
+1 Anje, Maid of Dishonor
 1 Sorin the Mirthless
 1 Voldaren Ambusher
 1 Markov Waltzer
 1 Vampire Socialite
+1 Welcoming Vampire
 1 Falkenrath Pit Fighter
-1 Bloodtithe Harvester
-1 Anje, Maid of Dishonor
 1 Olivia's Attendants
 1 Voldaren Estate
-2 Welcoming Vampire
+2 Bloodtithe Harvester
 2 Sorin the Mirthless
 2 Vampire Socialite
 2 Voldaren Ambusher
-2 Bloodtithe Harvester
+2 Welcoming Vampire
 2 Falkenrath Pit Fighter
 2 Markov Waltzer
 2 Anje, Maid of Dishonor
 2 Voldaren Estate
+3 Mountain
+3 Bloodtithe Harvester
 3 Welcoming Vampire
 3 Voldaren Estate
 3 Voldaren Ambusher
 3 Vampire Socialite
 3 Falkenrath Pit Fighter
 3 Markov Waltzer
-3 Bloodtithe Harvester
-3 Mountain
 4 Infernal Grasp
 4 Sundown Pass
+4 Bloodtithe Harvester
+4 Mountain
 4 Voldaren Estate
 4 Bloodthirsty Adversary
 4 Welcoming Vampire
 4 Vampire Socialite
-4 Bloodtithe Harvester
 4 Falkenrath Pit Fighter
-4 Mountain
 4 Voldaren Ambusher
 5 Mountain
 1 Maul of the Skyclaves
 7 Plains
-1 Professor Onyx
 1 Fell Stinger
+1 Professor Onyx
 2 Fell Stinger
 3 The Meathook Massacre
 4 Shambling Ghast

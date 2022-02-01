@@ -1,18 +1,18 @@
-1 Knight of the White Orchid
-2 Knight of the White Orchid
 1 Skyclave Apparition
-1 Forest
 2 Skyclave Apparition
 3 Skyclave Apparition
+1 Knight of the White Orchid
+2 Knight of the White Orchid
+1 Forest
 4 Skyclave Apparition
-1 Cave of the Frost Dragon
-1 Hamlet Vanguard
 10 Plains
+1 Hamlet Vanguard
+1 Cave of the Frost Dragon
+1 Brightclimb Pathway
 1 Kitesail Freebooter
 1 General Kudro of Drannith
 1 Godless Shrine
 1 Concealed Courtyard
-1 Brightclimb Pathway
 2 Godless Shrine
 2 Concealed Courtyard
 2 General Kudro of Drannith
@@ -21,9 +21,6 @@
 4 Godless Shrine
 4 Concealed Courtyard
 3 Adeline, Resplendent Cathar
-1 Brave the Elements
-2 Brave the Elements
-2 Hamlet Vanguard
 2 Brightclimb Pathway
 3 Brightclimb Pathway
 1 Unclaimed Territory
@@ -33,7 +30,8 @@
 3 Bloodsoaked Champion
 1 Overgrown Tomb
 3 Giant Killer
-4 Thalia, Guardian of Thraben
+1 Brave the Elements
+2 Brave the Elements
 3 Brave the Elements
 4 Brave the Elements
 11 Plains
@@ -47,11 +45,16 @@
 1 Sungold Sentinel
 2 Mardu Woe-Reaper
 2 Sungold Sentinel
+2 Hamlet Vanguard
 1 Dromoka's Command
 1 Thalia, Heretic Cathar
 1 Rally the Ranks
 2 Dromoka's Command
 2 Rally the Ranks
+1 Indatha Triome
+2 Indatha Triome
+3 Indatha Triome
+4 Indatha Triome
 1 Blooming Marsh
 1 General's Enforcer
 2 Blooming Marsh
@@ -60,15 +63,15 @@
 3 Kitesail Freebooter
 3 Unclaimed Territory
 4 Bloodsoaked Champion
-1 Fatal Push
 1 Darkbore Pathway
+1 Fatal Push
 2 Overgrown Tomb
 3 General Kudro of Drannith
 4 Brightclimb Pathway
 3 Knight of the White Orchid
 4 Knight of the White Orchid
-1 Intrepid Adversary
 1 Castle Ardenvale
+1 Intrepid Adversary
 1 Glory-Bound Initiate
 1 Shefet Dunes
 2 Intrepid Adversary
@@ -78,12 +81,9 @@
 3 Glory-Bound Initiate
 3 Castle Ardenvale
 4 Castle Ardenvale
-1 Indatha Triome
-2 Indatha Triome
-3 Indatha Triome
-4 Indatha Triome
-1 Fateful Absence
+4 Brutal Cathar
 1 Hopeful Initiate
+1 Fateful Absence
 1 Benalish Marshal
 2 Hopeful Initiate
 2 Cave of the Frost Dragon
@@ -99,8 +99,4 @@
 18 Plains
 19 Plains
 20 Plains
-3 Hamlet Vanguard
-4 Mutavault
-4 Sunpetal Grove
-4 Hamlet Vanguard
-4 Brutal Cathar
+4 Thalia, Guardian of Thraben

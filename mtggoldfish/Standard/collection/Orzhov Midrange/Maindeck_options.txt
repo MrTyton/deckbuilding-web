@@ -12,21 +12,21 @@
 2 Sorin the Mirthless
 1 Deadly Dispute
 1 Shambling Ghast
-1 Snow-Covered Swamp
-1 Blood on the Snow
 1 Snow-Covered Plains
-2 Snow-Covered Swamp
+1 Blood on the Snow
+1 Snow-Covered Swamp
 2 Snow-Covered Plains
-3 Snow-Covered Swamp
+2 Snow-Covered Swamp
 3 Snow-Covered Plains
+3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 1 Professor of Symbology
 2 Shambling Ghast
 2 Deadly Dispute
-3 Shambling Ghast
 3 Deadly Dispute
+3 Shambling Ghast
 4 Shambling Ghast
 2 Blood on the Snow
 2 Emeria's Call
@@ -63,32 +63,32 @@
 7 Plains
 2 Cave of the Frost Dragon
 3 Shineshadow Snarl
-1 Valkyrie Harbinger
 1 Righteous Valkyrie
 1 Youthful Valkyrie
+1 Valkyrie Harbinger
 2 Righteous Valkyrie
+2 Starnheim Unleashed
 2 Youthful Valkyrie
 2 Valkyrie Harbinger
-2 Starnheim Unleashed
+2 Firja's Retribution
 2 Rampage of the Valkyries
 2 Liesa, Forgotten Archangel
-2 Firja's Retribution
-3 Righteous Valkyrie
 3 Emeria's Call
+3 Righteous Valkyrie
 3 Youthful Valkyrie
 3 Firja's Retribution
 4 Emeria's Call
 4 Youthful Valkyrie
-1 Bloodchief's Thirst
 1 Professor Onyx
+1 Bloodchief's Thirst
 1 Infernal Grasp
 1 Skullport Merchant
 6 Snow-Covered Plains
 1 Soul Shatter
 1 Fateful Absence
-2 Bloodchief's Thirst
-2 Fell Stinger
 2 Fateful Absence
+2 Fell Stinger
+2 Bloodchief's Thirst
 3 Edgar, Charmed Groom
 3 Fell Stinger
 1 Baleful Mastery
@@ -104,9 +104,9 @@
 1 Resplendent Marshal
 2 Resplendent Marshal
 2 Infernal Grasp
-3 Rampage of the Valkyries
-3 Resplendent Marshal
 3 Starnheim Unleashed
+3 Resplendent Marshal
+3 Rampage of the Valkyries
 4 Righteous Valkyrie
 4 Firja's Retribution
 4 Resplendent Marshal
@@ -115,28 +115,40 @@
 1 Callous Bloodmage
 2 Reidane, God of the Worthy
 2 Rite of Oblivion
-3 Sorin the Mirthless
 3 Rite of Oblivion
+3 Sorin the Mirthless
 4 The Meathook Massacre
 4 Eyetwitch
 4 Rite of Oblivion
-1 Faithbound Judge
-1 Voldaren Bloodcaster
-2 Skullport Merchant
-2 Agadeem's Awakening
-2 Faithbound Judge
-2 Voldaren Bloodcaster
-3 Faithbound Judge
-3 Voldaren Bloodcaster
-3 Kaya the Inexorable
-4 Blood on the Snow
-4 Kaya the Inexorable
-8 Snow-Covered Swamp
+1 Priest of the Haunted Edge
+1 Power Word Kill
+1 Poison the Cup
+1 Eaten Alive
+1 Plumb the Forbidden
+1 Malakir Rebirth
+1 Silverquill Campus
+1 Morbid Opportunist
+1 Loyal Warhound
+1 Vanquish the Horde
+1 Great Hall of Starnheim
+1 Acquisitions Expert
+1 Village Rites
+1 Demon's Disciple
+1 Cathar Commando
+1 Skyclave Apparition
+1 Nadaar, Selfless Paladin
+1 Ecstatic Awakener
+1 Elderfang Disciple
+1 Priest of Ancient Lore
+1 Fleshtaker
+1 Tergrid, God of Fright
+1 Silverquill Command
+7 Snow-Covered Plains
 1 Haunting Voyage
 1 Vengeful Reaper
 1 Doomskar
-2 Vengeful Reaper
 2 Soul Shatter
+2 Vengeful Reaper
 2 Doomskar
 2 Haunting Voyage
 3 Vengeful Reaper
@@ -145,27 +157,15 @@
 4 Vengeful Reaper
 8 Plains
 9 Plains
-1 Power Word Kill
-1 Silverquill Campus
-1 Silverquill Command
-1 Morbid Opportunist
-1 Village Rites
-1 Malakir Rebirth
-1 Plumb the Forbidden
-1 Priest of Ancient Lore
-1 Demon's Disciple
-1 Vanquish the Horde
-1 Loyal Warhound
-1 Poison the Cup
-1 Great Hall of Starnheim
-1 Eaten Alive
-1 Acquisitions Expert
-1 Cathar Commando
-1 Elderfang Disciple
-1 Skyclave Apparition
-1 Nadaar, Selfless Paladin
-1 Ecstatic Awakener
-1 Priest of the Haunted Edge
-1 Fleshtaker
-1 Tergrid, God of Fright
-7 Snow-Covered Plains
+1 Faithbound Judge
+1 Voldaren Bloodcaster
+2 Agadeem's Awakening
+2 Skullport Merchant
+2 Faithbound Judge
+2 Voldaren Bloodcaster
+3 Faithbound Judge
+3 Voldaren Bloodcaster
+3 Kaya the Inexorable
+4 Blood on the Snow
+4 Kaya the Inexorable
+8 Snow-Covered Swamp
