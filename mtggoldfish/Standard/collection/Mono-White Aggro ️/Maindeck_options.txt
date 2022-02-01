@@ -1,7 +1,6 @@
 2 Paladin Class
 1 Cave of the Frost Dragon
 2 Portable Hole
-2 Valorous Stance
 1 Plains
 2 Plains
 3 Plains
@@ -20,32 +19,33 @@
 16 Plains
 17 Plains
 18 Plains
-1 Legion Angel
-2 Cave of the Frost Dragon
 1 Fleeting Spirit
 2 Fleeting Spirit
-4 Thalia, Guardian of Thraben
 4 Brutal Cathar
-4 Sungold Sentinel
+2 Valorous Stance
+1 Legion Angel
+2 Cave of the Frost Dragon
+4 Thalia, Guardian of Thraben
 19 Plains
+4 Sungold Sentinel
+1 Kabira Takedown
+20 Plains
 1 Skyclave Apparition
 2 Skyclave Apparition
-20 Plains
-1 Kabira Takedown
 3 Cave of the Frost Dragon
 3 Reidane, God of the Worthy
-20 Snow-Covered Plains
 2 Kabira Takedown
+20 Snow-Covered Plains
 1 Stonebinder's Familiar
 2 Stonebinder's Familiar
 3 Stonebinder's Familiar
-3 Skyclave Apparition
-4 Stonebinder's Familiar
 21 Plains
 22 Plains
+3 Skyclave Apparition
+4 Stonebinder's Familiar
 3 Valorous Stance
-1 Welcoming Vampire
 1 Curse of Silence
+1 Welcoming Vampire
 2 Welcoming Vampire
 3 Paladin Class
 1 Field of Ruin
@@ -115,3 +115,6 @@
 4 Clarion Spirit
 21 Snow-Covered Plains
 22 Snow-Covered Plains
+1 Ollenbock Escort
+2 Ollenbock Escort
+23 Plains

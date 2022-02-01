@@ -18,8 +18,8 @@
 2 Fiery Temper
 2 Otherworldly Gaze
 3 Crackling Drake
-4 Mountain
 4 Island
+4 Mountain
 1 Den of the Bugbear
 1 Prismari Command
 1 Smoldering Egg
@@ -29,19 +29,19 @@
 2 Ionize
 3 Smoldering Egg
 4 Smoldering Egg
-1 Faithful Mending
 1 Inspiring Vantage
 1 Needleverge Pathway
 1 Rip Apart
 1 Maximize Velocity
 1 Hallowed Fountain
+1 Faithful Mending
 1 Sacred Foundry
 2 Sacred Foundry
-2 Faithful Mending
 2 Needleverge Pathway
 2 Hallowed Fountain
-3 Needleverge Pathway
+2 Faithful Mending
 3 Sacred Foundry
+3 Needleverge Pathway
 3 Hallowed Fountain
 4 Sacred Foundry
 1 Mystical Dispute
@@ -52,6 +52,10 @@
 1 Abrade
 2 Abrade
 2 Mystical Dispute
+1 Ramunap Ruins
+2 Den of the Bugbear
+2 Finale of Promise
+2 Ramunap Ruins
 1 Snow-Covered Mountain
 1 Snow-Covered Island
 2 Snow-Covered Mountain
@@ -65,10 +69,6 @@
 2 Dual Shot
 4 Crackling Drake
 1 Forsaken Crossroads
-5 Mountain
 5 Island
+5 Mountain
 6 Mountain
-1 Ramunap Ruins
-2 Den of the Bugbear
-2 Finale of Promise
-2 Ramunap Ruins

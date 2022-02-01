@@ -29,8 +29,8 @@
 3 Urza's Saga
 2 Sylvan Library
 1 Expedition Map
-1 Gemstone Mine
 1 Mana Confluence
+1 Gemstone Mine
 2 Mana Confluence
 2 Gemstone Mine
 3 Gemstone Mine
@@ -103,8 +103,8 @@
 2 City of Brass
 1 Barren Moor
 1 Exploration
-2 Forest
 2 Life from the Loam
+2 Forest
 2 Exploration
 3 Duress
 3 Wasteland
@@ -114,13 +114,13 @@
 3 Sylvan Library
 3 Stifle
 1 Bloodstained Mire
-1 Unburial Rites
 1 Scrubland
-1 Cabal Therapy
 1 Children of Korlis
+1 Cabal Therapy
 1 Griselbrand
 1 Shallow Grave
 1 Unmask
+1 Unburial Rites
 1 Living Wish
 1 Polluted Delta
 1 Exhume
@@ -139,16 +139,6 @@
 4 Exhume
 4 Shallow Grave
 4 Entomb
-1 Chain of Smog
-1 Witherbloom Apprentice
-2 Chain of Smog
-2 Witherbloom Apprentice
-3 Chain of Smog
-3 Witherbloom Apprentice
-3 Sylvan Safekeeper
-4 Witherbloom Apprentice
-4 Bayou
-4 Chain of Smog
 1 Crucible of Worlds
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
@@ -170,3 +160,13 @@
 4 Infernal Tutor
 8 Swamp
 9 Swamp
+1 Chain of Smog
+1 Witherbloom Apprentice
+2 Chain of Smog
+2 Witherbloom Apprentice
+3 Chain of Smog
+3 Witherbloom Apprentice
+3 Sylvan Safekeeper
+4 Witherbloom Apprentice
+4 Bayou
+4 Chain of Smog

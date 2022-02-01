@@ -10,8 +10,8 @@
 1 Abundant Growth
 2 Abundant Growth
 4 Uro, Titan of Nature's Wrath
-3 Abundant Growth
 3 Cryptic Command
+3 Abundant Growth
 1 Island
 1 Glacial Fortress
 3 Shark Typhoon
@@ -21,11 +21,11 @@
 2 Scalding Tarn
 2 Polluted Delta
 1 Field of the Dead
-1 Hour of Promise
 1 Hinterland Harbor
-1 Remand
-1 Time Warp
 1 Prairie Stream
+1 Hour of Promise
+1 Time Warp
+1 Remand
 2 Field of the Dead
 2 Hour of Promise
 2 Remand
@@ -33,11 +33,11 @@
 3 Mystic Sanctuary
 2 Hallowed Fountain
 4 Teferi, Time Raveler
-1 Prismatic Ending
 1 Counterspell
 1 Mystic Gate
-2 Prismatic Ending
+1 Prismatic Ending
 2 Counterspell
+2 Prismatic Ending
 3 Prismatic Ending
 3 Counterspell
 4 Prismatic Ending
@@ -62,8 +62,8 @@
 1 Jolrael, Mwonvuli Recluse
 2 Jolrael, Mwonvuli Recluse
 1 Timely Reinforcements
-1 Plains
 1 Hall of Storm Giants
+1 Plains
 1 Raugrin Triome
 2 Island
 3 Island
@@ -81,8 +81,8 @@
 3 Prismatic Vista
 4 Prismatic Vista
 1 Sword of Feast and Famine
-1 Batterskull
 1 Stoneforge Mystic
+1 Batterskull
 1 Spell Queller
 2 Stoneforge Mystic
 2 Spell Queller
@@ -94,19 +94,19 @@
 3 Windswept Heath
 4 Windswept Heath
 1 Sword of Fire and Ice
-1 Mutavault
-1 Brazen Borrower
 1 Spellstutter Sprite
+1 Brazen Borrower
+1 Mutavault
 2 Spellstutter Sprite
+1 Restoration Angel
 1 Wall of Omens
 1 Yorion, Sky Nomad
-1 Restoration Angel
 1 On Thin Ice
 1 Barrin, Tolarian Archmage
 1 Venser, Shaper Savant
 1 Niambi, Esteemed Speaker
-2 Wall of Omens
 2 Restoration Angel
+2 Wall of Omens
 2 On Thin Ice
 2 Venser, Shaper Savant
 2 Yorion, Sky Nomad
@@ -117,8 +117,8 @@
 3 Restoration Angel
 3 On Thin Ice
 3 Jolrael, Mwonvuli Recluse
-4 Wall of Omens
 4 Force of Negation
+4 Wall of Omens
 4 On Thin Ice
 4 Abundant Growth
 7 Snow-Covered Island
@@ -128,31 +128,31 @@
 1 Ojutai's Command
 2 Opt
 2 Growth Spiral
-3 Opt
 3 Snapcaster Mage
+3 Opt
 4 Opt
 4 Snapcaster Mage
 1 Search for Azcanta
 3 Jace, the Mind Sculptor
+1 Glacial Floodplain
 1 Reflecting Pool
 1 Rimewood Falls
-1 Glacial Floodplain
 2 Chalice of the Void
 3 Chalice of the Void
-1 Castle Ardenvale
-3 Mystic Gate
 3 Polluted Delta
 4 Polluted Delta
-1 Waterlogged Grove
-1 Birds of Paradise
 1 Noble Hierarch
 1 Deputy of Detention
 1 Geist of Saint Traft
+1 Waterlogged Grove
+1 Birds of Paradise
 2 Geist of Saint Traft
 2 Noble Hierarch
 2 Birds of Paradise
+3 Noble Hierarch
 3 Geist of Saint Traft
 3 Spell Queller
-3 Noble Hierarch
-4 Spell Queller
 4 Noble Hierarch
+4 Spell Queller
+1 Castle Ardenvale
+3 Mystic Gate

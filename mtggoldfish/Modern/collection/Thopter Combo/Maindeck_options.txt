@@ -1,20 +1,19 @@
-1 Soul-Guide Lantern
+1 Talisman of Progress
 1 Springleaf Drum
+3 Island
 4 Metallic Rebuke
 1 Scalding Tarn
-3 Island
 1 Whir of Invention
 2 Whir of Invention
-1 Thoughtcast
 1 Prismatic Ending
 2 Prismatic Ending
+1 Thoughtcast
+3 Prismatic Ending
 1 Polluted Delta
 3 Whir of Invention
 1 Mishra's Bauble
 2 Mishra's Bauble
-3 Prismatic Ending
 1 Raugrin Triome
-1 Marsh Flats
 1 Watery Grave
 3 Mishra's Bauble
 4 Mishra's Bauble
@@ -22,10 +21,11 @@
 2 Solitude
 3 Solitude
 4 Solitude
+4 Prismatic Ending
 1 Misty Rainforest
 3 Teferi, Time Raveler
 4 Island
-4 Thopter Foundry
+1 Marsh Flats
 2 Marsh Flats
 3 Marsh Flats
 4 Marsh Flats
@@ -33,18 +33,17 @@
 2 Counterspell
 3 Counterspell
 2 Sword of the Meek
-4 Prismatic Ending
 1 Engineered Explosives
 2 Misty Rainforest
-4 Counterspell
 4 Teferi, Time Raveler
+4 Counterspell
+4 Thopter Foundry
 1 Steam Vents
 1 Chalice of the Void
 2 Chalice of the Void
 2 Engineered Explosives
-2 Scalding Tarn
 1 Sword of Fire and Ice
-1 Sacred Foundry
+2 Scalding Tarn
 3 Chalice of the Void
 4 Chalice of the Void
 1 Thraben Inspector
@@ -56,6 +55,7 @@
 4 Thraben Inspector
 3 Razortide Bridge
 1 Goblin Engineer
+1 Sacred Foundry
 2 Goblin Engineer
 3 Goblin Engineer
 4 Goblin Engineer
@@ -69,19 +69,13 @@
 1 Ensnaring Bridge
 2 Chromatic Star
 3 Chromatic Star
-1 Glint-Nest Crane
-2 Glint-Nest Crane
-2 Nettlecyst
-3 Darksteel Citadel
-3 Glint-Nest Crane
 4 Razortide Bridge
-4 Darksteel Citadel
 1 Etched Champion
 2 Etched Champion
-4 Springleaf Drum
+3 Plains
 1 Nihil Spellbomb
-1 Arid Mesa
 1 Aether Vial
+1 Arid Mesa
 2 Aether Vial
 3 Aether Vial
 4 Aether Vial
@@ -92,25 +86,32 @@
 1 Silverbluff Bridge
 1 Pyrite Spellbomb
 1 Witching Well
+2 Hengegate Pathway
+3 Hengegate Pathway
 1 Brought Back
 2 Brought Back
 3 Brought Back
-4 Glint-Nest Crane
-1 Godless Shrine
+1 Glint-Nest Crane
+2 Glint-Nest Crane
+2 Nettlecyst
+3 Darksteel Citadel
+3 Glint-Nest Crane
+4 Darksteel Citadel
 1 Tidehollow Sculler
+1 Godless Shrine
 1 Concealed Courtyard
 1 Dakkon, Shadow Slayer
 2 Tidehollow Sculler
-3 Plains
 3 Tidehollow Sculler
+4 Springleaf Drum
 4 Tidehollow Sculler
 1 Grafdigger's Cage
-1 Spellskite
 1 Path to Exile
 1 Field of Ruin
-1 Batterskull
 1 Void Mirror
 1 Torpor Orb
+1 Spellskite
+1 Batterskull
 1 Glacial Fortress
 1 Inventors' Fair
 1 Damping Sphere

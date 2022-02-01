@@ -2,39 +2,39 @@
 1 Censor
 2 Censor
 2 Field of Ruin
-3 Censor
-1 Torrential Gearhulk
-2 Torrential Gearhulk
-4 Island
 4 Yahenni's Expertise
+3 Drowned Catacomb
+1 Torrential Gearhulk
+4 Island
+3 Censor
+2 Torrential Gearhulk
+4 Drowned Catacomb
+2 Cling to Dust
+1 Fabled Passage
+2 Fabled Passage
 2 Swamp
 3 Torrential Gearhulk
 1 Eliminate
 2 Eliminate
-3 Drowned Catacomb
 1 Vraska's Contempt
-2 Cling to Dust
 1 Languish
+2 Commit/Memory
 1 Hieroglyphic Illumination
 1 Sublime Epiphany
-2 Commit/Memory
 1 Neutralize
 1 Mind Stone
-1 Crawling Barrens
 1 The Scarab God
+1 Crawling Barrens
 1 Sinister Sabotage
 2 Mind Stone
 2 Hieroglyphic Illumination
 3 Swamp
-4 Drowned Catacomb
-1 Fabled Passage
-2 Fabled Passage
 3 Hieroglyphic Illumination
+3 Shipwreck Marsh
+4 Shipwreck Marsh
 3 Mind Stone
 4 Mind Stone
 2 Search for Azcanta
-3 Shipwreck Marsh
-4 Shipwreck Marsh
 3 Fabled Passage
 1 Inquisition of Kozilek
 2 Shadows' Verdict
@@ -43,18 +43,23 @@
 1 Memory Deluge
 2 Castle Vantress
 1 Davriel's Withering
-2 Inquisition of Kozilek
 1 Negate
-2 Bloodchief's Thirst
-1 Essence Scatter
 1 Behold the Multiverse
 2 Behold the Multiverse
-1 Infernal Grasp
 5 Island
-4 Censor
 2 Davriel's Withering
+2 Inquisition of Kozilek
+2 Bloodchief's Thirst
+1 Heartless Act
+1 The Meathook Massacre
+1 Consider
+2 Consider
+4 Censor
+1 Essence Scatter
+1 Infernal Grasp
 1 Extinction Event
 1 Kaervek, the Spiteful
+1 Mystical Dispute
 1 Jwari Disruption
 3 Inquisition of Kozilek
 1 Silundi Vision
@@ -65,16 +70,14 @@
 3 Lier, Disciple of the Drowned
 4 Drown in the Loch
 1 Ritual of Soot
-1 Consider
-2 Consider
 3 Behold the Multiverse
 3 Consider
 4 Behold the Multiverse
 4 Consider
-1 Heartless Act
+1 Rewind
 2 Heartless Act
-1 The Meathook Massacre
 3 Cling to Dust
+2 Memory Deluge
 2 Ashiok, Nightmare Muse
 1 Blast Zone
 2 Baleful Mastery
@@ -83,7 +86,10 @@
 2 Zagoth Triome
 3 Zagoth Triome
 4 Zagoth Triome
-1 Mystical Dispute
+1 Path of Peril
+1 Thought Distortion
+3 Shadows' Verdict
+3 Davriel's Withering
 1 Witch's Vengeance
 1 Mazemind Tome
 1 Lochmere Serpent
@@ -95,11 +101,9 @@
 3 Mazemind Tome
 1 Sorin the Mirthless
 1 Unexpected Conversion
-1 Jace, Unraveler of Secrets
 1 Chemister's Insight
 1 Aether Gust
 1 Grafdigger's Cage
-1 Rewind
 1 Dismiss
 2 Blast Zone
 1 Commence the Endgame
@@ -107,14 +111,13 @@
 2 Cast Down
 2 Vraska's Contempt
 2 Sublime Epiphany
+2 The Meathook Massacre
+3 Heartless Act
 1 Murderous Rider
 1 Siphon Insight
-2 Memory Deluge
 2 Siphon Insight
 2 Murderous Rider
 3 Siphon Insight
-2 The Meathook Massacre
-3 Heartless Act
 1 Forest
 1 Woodland Cemetery
 1 Uro, Titan of Nature's Wrath
@@ -145,7 +148,7 @@
 2 Glacial Fortress
 3 Glacial Fortress
 3 Teferi, Hero of Dominaria
-3 Hallowed Fountain
 3 Hengegate Pathway
+3 Hallowed Fountain
 4 Hallowed Fountain
 4 Glacial Fortress
