@@ -50,8 +50,8 @@
 4 Snow-Covered Island
 3 Plains
 5 Island
-1 Replenish
 1 Snow-Covered Mountain
+1 Replenish
 2 Replenish
 3 Snow-Covered Plains
 3 Replenish
@@ -73,40 +73,35 @@
 1 Pyroblast
 1 Ethereal Forager
 1 Sevinne's Reclamation
-1 Nihil Spellbomb
 1 Aether Spellbomb
-1 Arid Mesa
-1 Teferi, Who Slows the Sunset
-2 Dack Fayden
+1 Nihil Spellbomb
 2 Dress Down
 1 Dovin's Veto
 2 Dovin's Veto
-1 Meekstone
+1 Arid Mesa
+1 Teferi, Who Slows the Sunset
+2 Dack Fayden
 1 Brainstone
+1 Meekstone
 2 Spell Pierce
 2 Terminus
 2 Pyroblast
 3 Misty Rainforest
 1 Steam Vents
 1 Hallowed Fountain
-2 Hallowed Fountain
 2 Steam Vents
+2 Hallowed Fountain
 3 Steam Vents
 4 Plains
-1 Snow-Covered Swamp
-3 Back to Basics
-3 Force of Negation
-3 Prismatic Vista
-4 Prismatic Vista
 4 Stifle
-1 Expressive Iteration
 1 Counterspell
-1 Unholy Heat
 1 Counterbalance
+1 Unholy Heat
+1 Expressive Iteration
 1 Lightning Bolt
 2 Expressive Iteration
-2 Relic of Progenitus
 2 Unholy Heat
+2 Relic of Progenitus
 2 Lightning Bolt
 3 Lightning Bolt
 4 Lightning Bolt
@@ -114,3 +109,8 @@
 2 Flusterstorm
 3 Retrofitter Foundry
 4 Retrofitter Foundry
+1 Snow-Covered Swamp
+3 Back to Basics
+3 Force of Negation
+3 Prismatic Vista
+4 Prismatic Vista

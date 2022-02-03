@@ -1,15 +1,19 @@
 15 Plains
+1 Tectonic Edge
+1 Castle Ardenvale
+2 Cave of the Frost Dragon
+1 Shadowspear
 1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
 4 Urza's Saga
-1 Tectonic Edge
-2 Cave of the Frost Dragon
-1 Shadowspear
-1 Castle Ardenvale
+3 Path to Exile
+4 Path to Exile
+4 Archon of Emeria
 3 Charming Prince
 3 Mishra's Factory
 1 Maul of the Skyclaves
+2 Tectonic Edge
 4 Charming Prince
 1 Magus of the Moon
 1 Imperial Recruiter
@@ -17,13 +21,12 @@
 2 Sacred Foundry
 2 Imperial Recruiter
 3 Imperial Recruiter
-3 Path to Exile
-4 Path to Exile
+4 Imperial Recruiter
 1 Snow-Covered Plains
 2 Snow-Covered Plains
-4 Imperial Recruiter
 1 Sunbaked Canyon
 1 Inspiring Vantage
+1 Sanctifier en-Vec
 2 Inspiring Vantage
 2 Sunbaked Canyon
 3 Sunbaked Canyon
@@ -31,37 +34,33 @@
 4 Inspiring Vantage
 3 Snow-Covered Plains
 4 Snow-Covered Plains
-2 Tectonic Edge
-4 Archon of Emeria
+1 Silent Clearing
+2 Silent Clearing
+4 Mishra's Factory
+1 Horizon Canopy
+2 Horizon Canopy
 1 Needleverge Pathway
 2 Needleverge Pathway
-3 Sacred Foundry
-1 Sanctifier en-Vec
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
+9 Snow-Covered Plains
+10 Snow-Covered Plains
+11 Snow-Covered Plains
+3 Sacred Foundry
+1 Timeless Dragon
 1 Ragavan, Nimble Pilferer
+1 Seasoned Pyromancer
+1 Pia and Kiran Nalaar
 2 Ragavan, Nimble Pilferer
 3 Needleverge Pathway
 3 Ragavan, Nimble Pilferer
 4 Needleverge Pathway
 4 Ragavan, Nimble Pilferer
-9 Snow-Covered Plains
-10 Snow-Covered Plains
-11 Snow-Covered Plains
-4 Mishra's Factory
-4 Sunbaked Canyon
-1 Horizon Canopy
-2 Horizon Canopy
-1 Silent Clearing
-2 Silent Clearing
-1 Timeless Dragon
-1 Seasoned Pyromancer
-1 Pia and Kiran Nalaar
 1 Marsh Flats
 12 Snow-Covered Plains
-4 Sacred Foundry
+4 Sunbaked Canyon
 1 Arid Mesa
 2 Arid Mesa
 3 Arid Mesa
@@ -78,13 +77,15 @@
 1 Felidar Guardian
 1 Kiki-Jiki, Mirror Breaker
 2 Rip Apart
+4 Sacred Foundry
 16 Plains
-1 Sanctum Prelate
 1 Flagstones of Trokair
 2 Flagstones of Trokair
 1 Welcoming Vampire
 1 Ethersworn Canonist
 2 Welcoming Vampire
+3 Silent Clearing
+4 Silent Clearing
 3 Horizon Canopy
 3 Flagstones of Trokair
 4 Horizon Canopy
@@ -98,9 +99,9 @@
 2 Shefet Dunes
 1 Hallowed Fountain
 3 Prismatic Ending
+1 Windswept Heath
 1 Blast Zone
 1 Tireless Tracker
-1 Windswept Heath
 1 Knight of the Reliquary
 1 Temple Garden
 1 Forest
@@ -111,7 +112,6 @@
 3 Knight of the Reliquary
 4 Windswept Heath
 4 Knight of the Reliquary
-1 Relic of Progenitus
 1 Sword of Feast and Famine
 1 Raugrin Triome
 1 Snow-Covered Mountain
@@ -136,14 +136,18 @@
 17 Plains
 18 Plains
 19 Plains
+1 Halvar, God of Battle
+2 Halvar, God of Battle
+1 Sanctum Prelate
+2 Sanctum Prelate
 1 Professor of Symbology
 1 Cavern of Souls
 2 Professor of Symbology
 3 Professor of Symbology
 4 Professor of Symbology
 1 Breeding Pool
-1 Spellskite
 1 Tarmogoyf
+1 Spellskite
 1 Gavony Township
 1 Endurance
 1 Engineered Explosives
@@ -156,14 +160,11 @@
 3 Temple Garden
 3 Noble Hierarch
 4 Noble Hierarch
-2 Sanctum Prelate
-3 Silent Clearing
-4 Silent Clearing
 1 Misty Rainforest
 1 Titania, Protector of Argoth
 1 Yavimaya, Cradle of Growth
-1 Elvish Reclaimer
 1 Bojuka Bog
+1 Elvish Reclaimer
 1 Radiant Fountain
 1 Indatha Triome
 1 Scattered Groves
@@ -188,8 +189,8 @@
 1 Mutavault
 1 Portable Hole
 1 Cathar Commando
-1 Deputy of Detention
 1 Spellstutter Sprite
+1 Deputy of Detention
 1 Selfless Spirit
 1 Spell Queller
 1 Adarkar Wastes
@@ -266,9 +267,9 @@
 3 Dark Confidant
 3 Concealed Courtyard
 3 Death's Shadow
-4 Concealed Courtyard
 4 Tidehollow Sculler
 4 Flooded Strand
 4 Dark Confidant
 4 Meddling Mage
+4 Concealed Courtyard
 4 Death's Shadow

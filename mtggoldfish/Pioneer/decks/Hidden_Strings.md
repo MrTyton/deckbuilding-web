@@ -68,6 +68,6 @@
 |                    2|[Strategic Planning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376525)           |                     |                                                                                                     |
 |                    2|[Wolfwillow Haven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476456)             |                     |                                                                                                     |
 |                    3|[Strategic Planning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376525)           |                     |                                                                                                     |
-|                    4|[Strategic Planning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376525)           |                     |                                                                                                     |
 |                    3|[Dig Through Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386518)             |                     |                                                                                                     |
+|                    4|[Strategic Planning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376525)           |                     |                                                                                                     |
 

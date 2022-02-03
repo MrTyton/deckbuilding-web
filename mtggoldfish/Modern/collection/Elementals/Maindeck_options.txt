@@ -64,9 +64,9 @@
 1 Jace, the Mind Sculptor
 1 Expressive Iteration
 1 Engineered Explosives
+2 Expressive Iteration
 2 Scalding Tarn
 2 Jace, the Mind Sculptor
-2 Expressive Iteration
 2 Engineered Explosives
 3 Scalding Tarn
 2 Sacred Foundry
@@ -78,6 +78,7 @@
 1 Teferi, Hero of Dominaria
 3 Expressive Iteration
 1 Prismatic Vista
+1 Polluted Delta
 1 Prophetic Prism
 1 Swamp
 1 Kolaghan's Command
@@ -86,7 +87,6 @@
 1 Savai Triome
 1 Abundant Growth
 1 Horde of Notions
-1 Polluted Delta
 2 Prismatic Vista
 2 Abundant Growth
 2 Horde of Notions
@@ -109,14 +109,18 @@
 1 Realmwalker
 1 Incandescent Soulstoke
 2 Stomping Ground
+1 Unsettled Mariner
+2 Unsettled Mariner
+3 Unsettled Mariner
+4 Unsettled Mariner
+1 Unclaimed Territory
 1 Ancient Ziggurat
 1 Smokebraider
 1 Flickerwisp
-1 Unclaimed Territory
 1 Primal Beyond
+2 Unclaimed Territory
 2 Smokebraider
 2 Reflecting Pool
-2 Unclaimed Territory
 2 Ancient Ziggurat
 2 Primal Beyond
 3 Unclaimed Territory
@@ -130,7 +134,3 @@
 4 Smokebraider
 4 Ancient Ziggurat
 4 Reflecting Pool
-1 Unsettled Mariner
-2 Unsettled Mariner
-3 Unsettled Mariner
-4 Unsettled Mariner

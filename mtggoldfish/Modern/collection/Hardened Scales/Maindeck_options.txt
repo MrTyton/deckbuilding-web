@@ -1,19 +1,18 @@
-3 Razorverge Thicket
 3 Ancient Stirrings
+3 The Ozolith
 1 Ingenious Smith
 2 Ingenious Smith
 3 Ingenious Smith
-1 Steel Overseer
+3 Razorverge Thicket
 2 Steel Overseer
-2 Arcbound Worker
-1 Needleverge Pathway
 1 Throne of Geth
 1 Shadowspear
-1 Power Depot
-4 Branchloft Pathway
+1 Needleverge Pathway
+2 Arcbound Worker
 2 Forest
-4 Ingenious Smith
+4 Branchloft Pathway
 1 Basilisk Collar
+1 Power Depot
 1 Sacred Foundry
 1 Temple Garden
 1 Windswept Heath
@@ -22,29 +21,28 @@
 4 Windswept Heath
 2 Llanowar Reborn
 1 Stomping Ground
+4 Ingenious Smith
 1 Witch's Oven
-2 Power Depot
 1 Wooded Foothills
 2 Wooded Foothills
 1 Grove of the Burnwillows
 1 Snakeskin Veil
-1 Soul-Guide Lantern
-3 Arcbound Worker
-4 Arcbound Worker
+1 Arcbound Mouser
+2 Arcbound Mouser
+3 Arcbound Mouser
+2 Power Depot
 2 Grove of the Burnwillows
 3 Wooded Foothills
 4 Welding Jar
 2 Plains
+1 Soul-Guide Lantern
+3 Arcbound Worker
+4 Arcbound Worker
+1 Portable Hole
 4 Razorverge Thicket
-1 Arcbound Mouser
-2 Arcbound Mouser
-3 Arcbound Mouser
+2 Springleaf Drum
 1 Horizon Canopy
 2 Horizon Canopy
-1 Darksteel Citadel
-2 Darksteel Citadel
-1 Portable Hole
-2 Springleaf Drum
 1 Cragcrown Pathway
 2 Cragcrown Pathway
 3 Cragcrown Pathway
@@ -56,10 +54,12 @@
 1 Pithing Needle
 3 Forest
 4 Forest
-3 Darksteel Citadel
-4 Darksteel Citadel
 2 Portable Hole
+1 Darksteel Citadel
+2 Darksteel Citadel
 4 Ancient Stirrings
+1 Arid Mesa
+2 Temple Garden
 2 Snakeskin Veil
 1 Swamp
 1 Urborg, Tomb of Yawgmoth
@@ -72,15 +72,18 @@
 1 Karn's Bastion
 1 Mishra's Factory
 1 Mishra's Bauble
-1 Arid Mesa
 1 Godless Shrine
 1 Marsh Flats
 1 Idyllic Grange
 2 Arid Mesa
 2 Marsh Flats
-2 Temple Garden
 2 Throne of Geth
 2 Needleverge Pathway
+1 Hallowed Fountain
+1 Life's Legacy
+2 Hallowed Fountain
+2 Life's Legacy
+3 Temple Garden
 1 Verdant Catacombs
 1 Thoughtseize
 1 Overgrown Tomb
@@ -113,3 +116,5 @@
 4 Ignoble Hierarch
 4 Darkbore Pathway
 4 Llanowar Wastes
+3 Darksteel Citadel
+4 Darksteel Citadel

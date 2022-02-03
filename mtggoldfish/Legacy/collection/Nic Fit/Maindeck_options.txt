@@ -1,8 +1,8 @@
 1 Plains
-1 Scrubland
 1 Vraska, Golgari Queen
 1 Ugin, the Spirit Dragon
 1 Savannah
+1 Scrubland
 1 Arena Rector
 2 Arena Rector
 3 Arena Rector
@@ -20,19 +20,19 @@
 2 Aluren
 3 Living Wish
 3 Aluren
-1 Misty Rainforest
 1 Snow-Covered Island
 1 Uro, Titan of Nature's Wrath
 1 Leovold, Emissary of Trest
 1 Tropical Island
 1 Ice-Fang Coatl
+1 Misty Rainforest
 1 Underground Sea
 1 Brainstorm
-2 Misty Rainforest
 2 Snow-Covered Island
 2 Brainstorm
 2 Uro, Titan of Nature's Wrath
 2 Ice-Fang Coatl
+2 Misty Rainforest
 3 Brainstorm
 3 Ice-Fang Coatl
 4 Brainstorm
@@ -41,8 +41,8 @@
 1 Snow-Covered Mountain
 1 Taiga
 1 Opposition Agent
-2 Endurance
 2 Wooded Foothills
+2 Endurance
 2 Opposition Agent
 3 Endurance
 3 Opposition Agent
@@ -51,10 +51,10 @@
 2 Ponder
 2 Force of Will
 3 Misty Rainforest
-3 Snow-Covered Island
 3 Force of Will
 3 Snow-Covered Forest
 3 Ponder
+3 Snow-Covered Island
 4 Misty Rainforest
 4 Force of Will
 3 Acererak the Archlich
@@ -79,8 +79,8 @@
 1 Bojuka Bog
 1 Crop Rotation
 4 Endurance
-1 Badlands
 1 Greater Gargadon
+1 Badlands
 1 Sarkhan Vol
 2 Greater Gargadon
 3 Greater Gargadon
@@ -106,13 +106,13 @@
 3 Tireless Tracker
 3 Hexdrinker
 1 Knight of Autumn
+1 Liliana, the Last Hope
 1 Path to Exile
 1 Thragtusk
 1 Toxic Deluge
 1 Nissa, Vital Force
 1 Elspeth, Sun's Champion
 1 Kaya, Ghost Assassin
-1 Liliana, the Last Hope
 1 Archon of Valor's Reach
 2 Path to Exile
 3 Path to Exile
@@ -134,6 +134,15 @@
 2 Plumb the Forbidden
 3 Sedgemoor Witch
 3 Plumb the Forbidden
+1 Marsh Flats
+1 Nicol Bolas, Planeswalker
+1 Innocent Blood
+1 Once Upon a Time
+1 Carth the Lion
+2 Innocent Blood
+2 Once Upon a Time
+3 Once Upon a Time
+4 Once Upon a Time
 1 Grand Abolisher
 2 Grand Abolisher
 3 Cavern of Souls
@@ -142,15 +151,6 @@
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 4 Karn, the Great Creator
-1 Marsh Flats
-1 Once Upon a Time
-1 Nicol Bolas, Planeswalker
-1 Innocent Blood
-1 Carth the Lion
-2 Once Upon a Time
-2 Innocent Blood
-3 Once Upon a Time
-4 Once Upon a Time
 1 Spellseeker
 2 Spellseeker
 3 Uro, Titan of Nature's Wrath
@@ -159,14 +159,14 @@
 1 Urborg, Tomb of Yawgmoth
 3 Thoughtseize
 5 Swamp
-1 Dauthi Voidwalker
 1 Field of the Dead
+1 Mountain
+1 Dauthi Voidwalker
 1 Klothys, God of Destiny
-1 Terror of the Peaks
 1 Kalitas, Traitor of Ghet
 1 Vivien, Monsters' Advocate
 1 Ruination Rioter
-1 Mountain
+1 Terror of the Peaks
 2 Dauthi Voidwalker
 2 Taiga
 3 Wooded Foothills

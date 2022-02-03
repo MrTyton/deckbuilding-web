@@ -1,9 +1,9 @@
 2 Karametra's Blessing
-4 Cartouche of Solidarity
 4 Thoughtseize
+4 Cartouche of Solidarity
 3 Karametra's Blessing
-4 Karametra's Blessing
 4 Sentinel's Eyes
+4 Karametra's Blessing
 3 Stonecoil Serpent
 1 Chaplain of Alms
 2 Chaplain of Alms
@@ -12,24 +12,12 @@
 5 Plains
 6 Plains
 7 Plains
-1 Valorous Stance
-8 Plains
-9 Plains
-10 Plains
-11 Plains
-12 Plains
-13 Plains
-14 Plains
-15 Plains
-16 Plains
-17 Plains
-18 Plains
-19 Plains
-1 Forest
 1 Arctic Treeline
-1 Sunpetal Grove
+1 Temple Garden
 1 Scattered Groves
+1 Sunpetal Grove
 1 Fortified Village
+1 Forest
 1 Unflinching Courage
 1 Dromoka's Command
 1 Season of Growth
@@ -37,11 +25,10 @@
 1 Sixth Sense
 1 Adanto Vanguard
 1 Gladecover Scout
-1 Temple Garden
 1 Bassara Tower Archer
+2 Fortified Village
 2 Sunpetal Grove
 2 Forest
-2 Fortified Village
 2 Gladecover Scout
 2 Adanto Vanguard
 2 Unflinching Courage
@@ -50,8 +37,8 @@
 2 Season of Growth
 2 Gift of Orzhova
 2 Bassara Tower Archer
-3 Sunpetal Grove
 3 Fortified Village
+3 Sunpetal Grove
 3 Unflinching Courage
 3 Gladecover Scout
 3 Season of Growth
@@ -75,27 +62,40 @@
 2 Swamp
 4 Selfless Savior
 4 Stonecoil Serpent
-1 Mana Confluence
+1 Staggering Insight
 1 Aqueous Form
 1 Glacial Fortress
 1 Hengegate Pathway
-1 Staggering Insight
-1 Portable Hole
 1 Hallowed Fountain
+1 Portable Hole
 1 Meletis Astronomer
 1 Heliod's Punishment
-2 Mana Confluence
+1 Mana Confluence
 2 Glacial Fortress
 2 Hengegate Pathway
-2 Meletis Astronomer
 2 Hallowed Fountain
+2 Meletis Astronomer
+2 Mana Confluence
 2 Heliod's Punishment
-3 Mana Confluence
-3 Glacial Fortress
-3 Hengegate Pathway
-3 Meletis Astronomer
 3 Hallowed Fountain
+3 Hengegate Pathway
+3 Glacial Fortress
+3 Meletis Astronomer
+3 Mana Confluence
+4 Hallowed Fountain
 4 Hengegate Pathway
 4 Glacial Fortress
-4 Hallowed Fountain
 4 Meletis Astronomer
+1 Valorous Stance
+8 Plains
+9 Plains
+10 Plains
+11 Plains
+12 Plains
+13 Plains
+14 Plains
+15 Plains
+16 Plains
+17 Plains
+19 Plains
+18 Plains
