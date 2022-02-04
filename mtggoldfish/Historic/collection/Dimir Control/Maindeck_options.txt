@@ -1,21 +1,21 @@
 1 God-Eternal Kefnet
-2 Field of Ruin
 1 Censor
 2 Censor
+2 Field of Ruin
 4 Yahenni's Expertise
-3 Drowned Catacomb
 3 Censor
 1 Torrential Gearhulk
 2 Torrential Gearhulk
-4 Drowned Catacomb
+3 Drowned Catacomb
 4 Island
+4 Drowned Catacomb
 2 Cling to Dust
 2 Swamp
 3 Torrential Gearhulk
+1 Languish
 1 Eliminate
 2 Eliminate
 1 Vraska's Contempt
-1 Languish
 1 Fabled Passage
 2 Fabled Passage
 2 Commit/Memory
@@ -39,13 +39,13 @@
 3 Fabled Passage
 2 Shadows' Verdict
 1 Baleful Mastery
-2 Castle Vantress
-2 Inquisition of Kozilek
-2 Bloodchief's Thirst
-1 Hullbreaker Horror
 1 Memory Deluge
+2 Inquisition of Kozilek
+1 Hullbreaker Horror
+2 Castle Vantress
 1 Davriel's Withering
 1 Negate
+2 Bloodchief's Thirst
 3 Inquisition of Kozilek
 1 Essence Scatter
 1 Behold the Multiverse
@@ -56,16 +56,14 @@
 2 Davriel's Withering
 1 Extinction Event
 1 Kaervek, the Spiteful
-4 Drown in the Loch
 1 Jwari Disruption
-1 The Meathook Massacre
-2 Ashiok, Nightmare Muse
-1 Silundi Vision
-1 Tale's End
 1 Lier, Disciple of the Drowned
-2 Jwari Disruption
 2 Lier, Disciple of the Drowned
 3 Lier, Disciple of the Drowned
+1 Silundi Vision
+1 Tale's End
+2 Jwari Disruption
+4 Drown in the Loch
 1 Ritual of Soot
 1 Consider
 2 Consider
@@ -75,20 +73,18 @@
 4 Consider
 1 Heartless Act
 2 Heartless Act
+1 The Meathook Massacre
 3 Cling to Dust
+2 Ashiok, Nightmare Muse
 1 Blast Zone
 2 Baleful Mastery
-1 Sorin the Mirthless
-2 The Meathook Massacre
-1 Siphon Insight
-2 Siphon Insight
-3 Siphon Insight
 2 Extinction Event
 1 Zagoth Triome
 2 Zagoth Triome
 3 Zagoth Triome
 4 Zagoth Triome
 1 Mystical Dispute
+2 Memory Deluge
 1 Witch's Vengeance
 1 Mazemind Tome
 1 Lochmere Serpent
@@ -98,6 +94,7 @@
 2 Mazemind Tome
 2 Negate
 3 Mazemind Tome
+1 Sorin the Mirthless
 1 Unexpected Conversion
 1 Chemister's Insight
 1 Aether Gust
@@ -105,58 +102,71 @@
 1 Rewind
 1 Dismiss
 2 Blast Zone
-1 Murderous Rider
-2 Memory Deluge
-2 Murderous Rider
 1 Commence the Endgame
 1 Cast Down
 2 Cast Down
 2 Vraska's Contempt
 2 Sublime Epiphany
+1 Murderous Rider
+1 Siphon Insight
+2 Siphon Insight
+2 Murderous Rider
+3 Siphon Insight
+2 The Meathook Massacre
 3 Heartless Act
 1 Forest
+1 Woodland Cemetery
 1 Uro, Titan of Nature's Wrath
 1 Overgrown Tomb
-1 Woodland Cemetery
 1 Eat to Extinction
 1 Thirst for Meaning
 2 Uro, Titan of Nature's Wrath
-2 Woodland Cemetery
 2 Overgrown Tomb
+2 Woodland Cemetery
 3 Overgrown Tomb
 3 Uro, Titan of Nature's Wrath
-4 Fabled Passage
 4 Overgrown Tomb
-1 Flunk
-2 Sorin the Mirthless
-2 Hive of the Eye Tyrant
-2 Flunk
-2 Castle Locthwain
-3 Sorin the Mirthless
-3 Flunk
-3 Bloodchief's Thirst
-4 Bloodchief's Thirst
-4 Siphon Insight
-4 Flunk
-4 Sorin the Mirthless
-1 Hengegate Pathway
+4 Fabled Passage
+1 Unholy Heat
+1 Kolaghan's Command
+1 Stormcarved Coast
+1 Expressive Iteration
+1 Mountain
+1 Blood Crypt
+1 Steam Vents
+1 Beacon Bolt
+1 Haunted Ridge
+2 Haunted Ridge
+2 Unholy Heat
+2 Languish
+2 Stormcarved Coast
+2 Steam Vents
+2 Expressive Iteration
+3 Stormcarved Coast
+3 Expressive Iteration
+3 Unholy Heat
+3 Steam Vents
+4 Stormcarved Coast
+4 Steam Vents
+4 Expressive Iteration
 1 Glacial Fortress
 1 Teferi, Hero of Dominaria
 1 Hallowed Fountain
-1 Brightclimb Pathway
+1 Hengegate Pathway
 1 Godless Shrine
+1 Brightclimb Pathway
 1 Brazen Borrower
 1 Wrath of God
 1 Day of Judgment
 1 Dovin's Veto
 1 Castle Ardenvale
-2 Hengegate Pathway
 2 Teferi, Hero of Dominaria
 2 Hallowed Fountain
 2 Glacial Fortress
+2 Hengegate Pathway
 3 Glacial Fortress
 3 Teferi, Hero of Dominaria
-3 Hengegate Pathway
 3 Hallowed Fountain
+3 Hengegate Pathway
 4 Hallowed Fountain
 4 Glacial Fortress

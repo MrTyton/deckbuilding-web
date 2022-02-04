@@ -17,11 +17,11 @@
 1 Extinction Event
 2 Drown in the Loch
 1 Thought Erasure
-1 Siphon Insight
-1 Battle of Frost and Fire
 1 Disdainful Stroke
-2 Siphon Insight
+1 Battle of Frost and Fire
+1 Siphon Insight
 2 Disdainful Stroke
+2 Siphon Insight
 3 Siphon Insight
 3 Disdainful Stroke
 2 Vanishing Verse
@@ -47,11 +47,11 @@
 1 Blot Out the Sky
 1 End the Festivities
 1 Soul-Guide Lantern
-1 Expressive Iteration
-2 Expressive Iteration
 1 Miscast
 1 Tormod's Crypt
 2 Tormod's Crypt
+1 Expressive Iteration
+2 Expressive Iteration
 1 Tamiyo, Collector of Tales
 1 Kolaghan's Command
 1 Polukranos, Unchained
@@ -60,10 +60,10 @@
 1 Lightning Helix
 1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
+1 Day of Judgment
 1 Fracture
 1 Chandra, Awakened Inferno
 1 Sorin, Vengeful Bloodlord
-1 Day of Judgment
 1 Inescapable Blaze
 1 Rule of Law
 2 Day of Judgment
@@ -71,10 +71,6 @@
 1 Thought Distortion
 3 Deafening Clarion
 3 Drown in the Loch
-2 Aether Gust
-3 Rest in Peace
-3 Aether Gust
-4 Rest in Peace
 3 Archon of Absolution
 4 Archon of Absolution
 1 Inquisition of Kozilek
@@ -86,3 +82,7 @@
 3 Thoughtseize
 4 Inquisition of Kozilek
 4 Thoughtseize
+2 Aether Gust
+3 Rest in Peace
+4 Rest in Peace
+3 Aether Gust

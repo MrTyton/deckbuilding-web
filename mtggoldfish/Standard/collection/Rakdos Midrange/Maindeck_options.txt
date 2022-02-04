@@ -162,18 +162,6 @@
 2 Abrade
 3 Abrade
 4 Abrade
-1 Rise of the Dread Marn
-1 Forsworn Paladin
-1 Vorpal Sword
-1 Egon, God of Death
-1 Nullpriest of Oblivion
-2 Forsworn Paladin
-2 Xorn
-2 Nullpriest of Oblivion
-2 Egon, God of Death
-3 Crush the Weak
-3 Xorn
-4 Crush the Weak
 1 Voldaren Estate
 1 Cemetery Gatekeeper
 1 Roil Eruption
@@ -193,6 +181,18 @@
 3 Vampires' Vengeance
 4 Bloodtithe Harvester
 4 Vampires' Vengeance
+1 Rise of the Dread Marn
+1 Forsworn Paladin
+1 Vorpal Sword
+1 Egon, God of Death
+1 Nullpriest of Oblivion
+2 Forsworn Paladin
+2 Xorn
+2 Nullpriest of Oblivion
+2 Egon, God of Death
+3 Crush the Weak
+3 Xorn
+4 Crush the Weak
 1 Brightclimb Pathway
 1 Needleverge Pathway
 2 Brightclimb Pathway
@@ -239,8 +239,8 @@
 2 Jaded Sell-Sword
 3 Hired Hexblade
 7 Mountain
-8 Mountain
 8 Swamp
+8 Mountain
 9 Swamp
 9 Mountain
 10 Mountain

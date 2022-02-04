@@ -44,8 +44,8 @@
 1 Pyrite Spellbomb
 2 Pyrite Spellbomb
 1 Seal of Removal
-1 Night's Whisper
 1 Cling to Dust
+1 Night's Whisper
 2 Cling to Dust
 1 Mystical Dispute
 1 Island
@@ -60,16 +60,6 @@
 2 Drannith Magistrate
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
-1 Pithing Needle
-1 Abrade
-1 Feed the Swarm
-1 Kozilek's Return
-1 Fatal Push
-2 Pithing Needle
-2 Abrade
-2 Feed the Swarm
-2 Kozilek's Return
-2 Thoughtseize
 1 Force of Vigor
 1 Assassin's Trophy
 1 Endurance
@@ -85,6 +75,16 @@
 2 Grafdigger's Cage
 2 Damnation
 2 Endurance
+1 Pithing Needle
+1 Abrade
+1 Kozilek's Return
+1 Fatal Push
+1 Feed the Swarm
+2 Abrade
+2 Pithing Needle
+2 Kozilek's Return
+2 Thoughtseize
+2 Feed the Swarm
 3 Spell Pierce
 3 Seasoned Pyromancer
 1 Stony Silence
@@ -106,8 +106,8 @@
 3 Lightning Helix
 3 Wear/Tear
 4 Lightning Helix
-1 Thrun, the Last Troll
 1 Ancient Grudge
+1 Thrun, the Last Troll
 1 Flame Slash
 2 Force of Vigor
 2 Ancient Grudge
