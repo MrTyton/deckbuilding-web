@@ -77,8 +77,8 @@
 2 Paladin Class
 2 Edgar, Charmed Groom
 2 Eradicator Valkyrie
-3 Silverquill Command
 3 Edgar, Charmed Groom
+3 Silverquill Command
 11 Plains
 12 Plains
 2 Field of Ruin
@@ -92,9 +92,9 @@
 2 Sigardian Savior
 2 Bereaved Survivor
 2 Blood on the Snow
-3 Blood on the Snow
 3 Nullpriest of Oblivion
 3 Bereaved Survivor
+3 Blood on the Snow
 4 Blood on the Snow
 4 Snow-Covered Swamp
 4 Bereaved Survivor
@@ -123,13 +123,13 @@
 2 Fracture
 1 Thalia, Guardian of Thraben
 1 Jerren, Corrupted Bishop
-1 Sigarda's Splendor
-2 Taborax, Hope's Demise
-2 Sigarda's Splendor
 1 Marauding Blight-Priest
 1 Bloodchief's Thirst
 2 Marauding Blight-Priest
 2 Bloodchief's Thirst
+1 Sigarda's Splendor
+2 Sigarda's Splendor
+2 Taborax, Hope's Demise
 1 Kor Celebrant
 1 Deadly Dispute
 2 Kor Celebrant
@@ -141,8 +141,8 @@
 2 The Book of Exalted Deeds
 2 Homestead Courage
 3 Traveling Minister
-1 Duress
 1 Lolth, Spider Queen
+1 Duress
 1 Crippling Fear
 2 Duress
 2 Crippling Fear
@@ -151,8 +151,8 @@
 1 Priest of Ancient Lore
 2 Dawnbringer Cleric
 3 Dawnbringer Cleric
-1 Professor Onyx
 1 Hagra Mauling
+1 Professor Onyx
 1 Borrowed Time
 2 Borrowed Time
 3 Closing Statement
@@ -168,12 +168,12 @@
 3 Glasspool Mimic
 3 Clearwater Pathway
 3 Hengegate Pathway
-4 Clearwater Pathway
 4 Glasspool Mimic
+4 Clearwater Pathway
 4 Hengegate Pathway
 1 Curse of Leeches
-1 Selfless Glyphweaver
 1 Revitalize
+1 Selfless Glyphweaver
 2 Curse of Leeches
 2 Selfless Glyphweaver
 2 Revitalize
@@ -182,36 +182,36 @@
 4 Curse of Leeches
 1 Vanquish the Horde
 2 Vanquish the Horde
-3 Vanquish the Horde
 3 Snowfield Sinkhole
+3 Vanquish the Horde
 4 The Meathook Massacre
 4 Vanquish the Horde
-1 Youthful Valkyrie
-1 Firja's Retribution
-1 Rampage of the Valkyries
 1 Vengeful Reaper
+1 Firja's Retribution
+1 Youthful Valkyrie
 1 Renegade Reaper
 1 Bound in Gold
 1 Starnheim Aspirant
+1 Rampage of the Valkyries
 1 Skemfar Shadowsage
 1 Skull Raid
 1 Expedition Healer
-2 Youthful Valkyrie
-2 Rampage of the Valkyries
-2 Vengeful Reaper
 2 Skull Raid
+2 Rampage of the Valkyries
 2 Expedition Healer
+2 Vengeful Reaper
 2 Bound in Gold
 2 Firja, Judge of Valor
 2 Renegade Reaper
 2 Starnheim Aspirant
 2 Skemfar Shadowsage
-3 Youthful Valkyrie
-3 Rampage of the Valkyries
-3 Vengeful Reaper
+2 Youthful Valkyrie
 3 Expedition Healer
+3 Youthful Valkyrie
 3 Silverquill Campus
+3 Vengeful Reaper
 3 Bound in Gold
+3 Rampage of the Valkyries
 4 Silverquill Campus
 9 Swamp
 3 Faceless Haven

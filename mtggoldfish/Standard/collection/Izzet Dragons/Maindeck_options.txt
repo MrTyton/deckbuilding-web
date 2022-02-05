@@ -4,8 +4,8 @@
 2 Cinderclasm
 1 Divide by Zero
 1 Alrund's Epiphany
-2 Alrund's Epiphany
 2 Divide by Zero
+2 Alrund's Epiphany
 3 Divide by Zero
 4 Divide by Zero
 1 Negate
@@ -79,7 +79,6 @@
 4 Volatile Fjord
 4 Magma Opus
 1 Snow-Covered Island
-1 Frost Bite
 1 Snow-Covered Mountain
 1 Otherworldly Gaze
 1 You See a Guard Approach
@@ -87,33 +86,34 @@
 1 Delver of Secrets
 1 Reckless Impulse
 1 Demilich
+1 Frost Bite
 2 Snow-Covered Island
-2 Snow-Covered Mountain
-2 Frost Bite
-2 Play with Fire
 2 You See a Guard Approach
+2 Snow-Covered Mountain
 2 Otherworldly Gaze
+2 Play with Fire
 2 Delver of Secrets
 2 Reckless Impulse
 2 Demilich
+2 Frost Bite
 3 Consider
-3 Snow-Covered Mountain
-3 Frost Bite
-3 Play with Fire
 3 Snow-Covered Island
 3 Reckless Impulse
 3 Demilich
+3 Snow-Covered Mountain
 3 Otherworldly Gaze
+3 Frost Bite
 3 Delver of Secrets
-4 Snow-Covered Island
-4 Snow-Covered Mountain
+3 Play with Fire
 4 Consider
-4 Play with Fire
-4 Frost Bite
+4 Snow-Covered Island
 4 Reckless Impulse
 4 Demilich
+4 Snow-Covered Mountain
+4 Play with Fire
 4 Delver of Secrets
 4 Otherworldly Gaze
+4 Frost Bite
 5 Snow-Covered Island
 5 Snow-Covered Mountain
 6 Snow-Covered Island
