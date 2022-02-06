@@ -1,27 +1,27 @@
-4 Esika's Chariot
+8 Forest
 1 Howlpack Piper
-1 Inscription of Abundance
 2 Howlpack Piper
-1 Cemetery Prowler
-1 Thundering Rebuke
-1 Packsong Pup
-4 Tovolar, Dire Overlord
-1 Avabruck Caretaker
 1 Den of the Bugbear
 2 Thundering Rebuke
-1 Primal Adversary
+4 Esika's Chariot
+1 Packsong Pup
+4 Tovolar, Dire Overlord
+1 Inscription of Abundance
+1 Outland Liberator
+1 Avabruck Caretaker
+1 Cemetery Prowler
+3 Snakeskin Veil
 2 Packsong Pup
 3 Packsong Pup
 6 Mountain
 1 Abrade
-1 Outland Liberator
-1 Snow-Covered Forest
+3 Halana and Alena, Partners
 1 Snow-Covered Mountain
+1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 4 Snow-Covered Forest
 5 Snow-Covered Forest
-4 Ranger Class
 1 Blizzard Brawl
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -29,61 +29,60 @@
 6 Snow-Covered Forest
 7 Snow-Covered Forest
 1 Howling Moon
-2 Cemetery Prowler
-3 Snakeskin Veil
-3 Volatile Arsonist
+1 Ill-Tempered Loner
 2 Blizzard Brawl
-1 Unnatural Moonrise
 2 Howling Moon
-8 Snow-Covered Forest
+1 Unnatural Moonrise
+1 Highland Forest
 1 Frost Bite
+8 Snow-Covered Forest
+3 Volatile Arsonist
 1 Tovolar's Huntmaster
 2 Outland Liberator
 1 Wrenn and Seven
 2 Wrenn and Seven
 4 Shatterskull Smashing
+1 Primal Adversary
+4 Ranger Class
+2 Highland Forest
 2 Unnatural Moonrise
-3 Arlinn, the Pack's Hope
 2 Frost Bite
 2 Abrade
-1 Ill-Tempered Loner
-1 Highland Forest
-5 Snow-Covered Mountain
 2 Inscription of Abundance
+5 Snow-Covered Mountain
+2 Cemetery Prowler
+2 Den of the Bugbear
 3 Howlpack Piper
-2 Highland Forest
+3 Arlinn, the Pack's Hope
 3 Highland Forest
 4 Packsong Pup
-3 Halana and Alena, Partners
 3 Inscription of Abundance
 4 Inscription of Abundance
-9 Forest
+2 Ill-Tempered Loner
+1 Moonrager's Slash
 1 Cathartic Pyre
 7 Mountain
-2 Den of the Bugbear
 4 Highland Forest
+4 Lair of the Hydra
 1 Child of the Pack
 2 Child of the Pack
 3 Blizzard Brawl
 1 Unnatural Growth
-1 Play with Fire
-2 Play with Fire
+2 Moonrager's Slash
 1 Wild Shape
-4 Snakeskin Veil
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
-2 Ill-Tempered Loner
+4 Snakeskin Veil
 9 Snow-Covered Forest
-1 Goldspan Dragon
 1 Hound Tamer
 1 Wolf Strike
-1 Moonrager's Slash
+9 Forest
 8 Mountain
 1 Howl of the Hunt
 2 Howl of the Hunt
 1 Turntimber Symbiosis
-2 Wild Shape
 2 Turntimber Symbiosis
+2 Wild Shape
 3 Wild Shape
 1 Kazuul's Fury
 2 Kazuul's Fury
@@ -92,43 +91,39 @@
 4 Thundering Rebuke
 4 Volatile Arsonist
 3 Frost Bite
-3 Play with Fire
-4 Play with Fire
 1 Brutal Cathar
 1 Branchloft Pathway
 1 Needleverge Pathway
-2 Moonrager's Slash
 2 Brutal Cathar
 2 Branchloft Pathway
 2 Needleverge Pathway
+3 Needleverge Pathway
 3 Brutal Cathar
 3 Branchloft Pathway
-3 Needleverge Pathway
-4 Needleverge Pathway
 4 Branchloft Pathway
-2 Goldspan Dragon
-3 Goldspan Dragon
-4 Goldspan Dragon
-1 Kazandu Mammoth
-2 Kazandu Mammoth
-3 Kazandu Mammoth
-4 Kazandu Mammoth
+4 Needleverge Pathway
 1 Demon Bolt
 2 Demon Bolt
 4 Blizzard Brawl
 3 Abrade
 2 Avabruck Caretaker
+1 Kazandu Mammoth
+2 Kazandu Mammoth
+3 Kazandu Mammoth
+4 Kazandu Mammoth
+1 Prosperous Innkeeper
+2 Prosperous Innkeeper
 1 Briarbridge Tracker
 2 Briarbridge Tracker
 3 Briarbridge Tracker
-4 Lair of the Hydra
-1 Prosperous Innkeeper
-2 Prosperous Innkeeper
 2 Hound Tamer
+1 Play with Fire
+2 Play with Fire
 2 Wolf Strike
 2 Cathartic Pyre
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
+1 Goldspan Dragon
 1 Pack's Betrayal
 1 Bala Ged Recovery
 1 Field of Ruin
@@ -140,8 +135,8 @@
 1 Curse of Shaken Faith
 1 Lunar Frenzy
 1 Run Amok
-2 Lunar Frenzy
 2 Curse of Shaken Faith
+2 Lunar Frenzy
 2 Run Amok
 2 Pack's Betrayal
 3 Unnatural Moonrise
@@ -151,18 +146,20 @@
 4 Unnatural Moonrise
 4 Run Amok
 1 Wolfkin Outcast
-1 Snow-Covered Plains
-2 Snow-Covered Plains
 2 Primal Adversary
+1 Moonveil Regent
+2 Moonveil Regent
 1 Sundown Pass
 1 Plains
 2 Plains
-1 Mulch
-1 Crush the Weak
-3 Howling Moon
+1 Snow-Covered Plains
+2 Snow-Covered Plains
 1 Ulvenwald Oddity
 2 Ulvenwald Oddity
 3 Prosperous Innkeeper
+1 Mulch
+1 Crush the Weak
+3 Howling Moon
 1 Tangled Florahedron
 2 Tangled Florahedron
 3 Den of the Bugbear
@@ -173,41 +170,45 @@
 3 Wrenn and Seven
 4 Wrenn and Seven
 4 Briarbridge Tracker
-2 Tovolar's Huntmaster
-4 Frost Bite
 1 Sporeback Wolf
 1 Kessig Wolfrider
 2 Sporeback Wolf
 4 Abrade
-4 Arlinn, the Pack's Hope
+2 Goldspan Dragon
+3 Goldspan Dragon
+4 Goldspan Dragon
+3 Play with Fire
+4 Play with Fire
 1 Evolving Wilds
+1 Dragon's Fire
 1 Heated Debate
 1 Lithoform Engine
 1 Cemetery Gatekeeper
-1 Dragon's Fire
+2 Bala Ged Recovery
 2 Evolving Wilds
 2 Heated Debate
 2 Field of Ruin
-2 Bala Ged Recovery
 2 Cemetery Gatekeeper
-3 Evolving Wilds
 3 Outland Liberator
 3 Heated Debate
+3 Evolving Wilds
 3 Cemetery Gatekeeper
 3 Bala Ged Recovery
-4 Evolving Wilds
 4 Bala Ged Recovery
+4 Evolving Wilds
 4 Heated Debate
 4 Cemetery Gatekeeper
 4 Outland Liberator
+2 Tovolar's Huntmaster
+4 Frost Bite
 1 Faceless Haven
 1 Cinderclasm
 1 Masked Vandal
 1 Sunstreak Phoenix
-1 Fortifying Draught
 1 The Celestus
 1 Realmwalker
 1 Arni Slays the Troll
+1 Fortifying Draught
 1 Spikefield Hazard
 1 Fangblade Brigand
 10 Snow-Covered Forest
@@ -217,7 +218,7 @@
 2 Weaver of Blossoms
 3 Weaver of Blossoms
 9 Mountain
-10 Mountain
 10 Forest
+10 Mountain
 11 Forest
 11 Mountain

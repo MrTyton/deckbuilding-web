@@ -56,10 +56,10 @@
 1 Ragavan, Nimble Pilferer
 1 Pia and Kiran Nalaar
 2 Ragavan, Nimble Pilferer
-3 Needleverge Pathway
 3 Ragavan, Nimble Pilferer
-4 Needleverge Pathway
+3 Needleverge Pathway
 4 Ragavan, Nimble Pilferer
+4 Needleverge Pathway
 1 Marsh Flats
 12 Snow-Covered Plains
 4 Sunbaked Canyon
@@ -82,8 +82,8 @@
 16 Plains
 1 Flagstones of Trokair
 2 Flagstones of Trokair
-1 Ethersworn Canonist
 1 Welcoming Vampire
+1 Ethersworn Canonist
 2 Welcoming Vampire
 3 Silent Clearing
 4 Silent Clearing
@@ -103,8 +103,8 @@
 1 Restoration Angel
 2 Thraben Inspector
 2 Restoration Angel
-3 Thraben Inspector
 3 Cave of the Frost Dragon
+3 Thraben Inspector
 4 Thraben Inspector
 1 Aven Mindcensor
 1 Wall of Omens
@@ -126,8 +126,8 @@
 2 Sanctum Prelate
 1 Halvar, God of Battle
 2 Halvar, God of Battle
-1 Professor of Symbology
 1 Cavern of Souls
+1 Professor of Symbology
 2 Professor of Symbology
 3 Professor of Symbology
 4 Professor of Symbology
@@ -139,8 +139,9 @@
 1 Titania, Protector of Argoth
 1 Misty Rainforest
 1 Elvish Reclaimer
-1 Yavimaya, Cradle of Growth
+1 Radiant Fountain
 1 Tireless Tracker
+1 Yavimaya, Cradle of Growth
 1 Indatha Triome
 1 Blast Zone
 1 Bojuka Bog
@@ -150,13 +151,12 @@
 1 Temple Garden
 1 Zuran Orb
 1 Quirion Ranger
-1 Radiant Fountain
 1 Forest
 2 Yavimaya, Cradle of Growth
 2 Elvish Reclaimer
+2 Tireless Tracker
 2 Forest
 2 Misty Rainforest
-2 Tireless Tracker
 2 Titania, Protector of Argoth
 2 Windswept Heath
 2 Knight of the Reliquary
@@ -213,8 +213,8 @@
 2 Hallowed Fountain
 2 Spell Queller
 3 Selfless Spirit
-3 Seachrome Coast
 3 Hallowed Fountain
+3 Seachrome Coast
 3 Spellstutter Sprite
 3 Spell Queller
 3 Adarkar Wastes
@@ -229,32 +229,32 @@
 4 Adarkar Wastes
 4 Deputy of Detention
 1 Phantasmal Image
-1 Concealed Courtyard
-1 Tidehollow Sculler
 1 Watery Grave
 1 Dark Confidant
 1 Godless Shrine
 1 Meddling Mage
 1 Dauthi Voidwalker
+1 Tidehollow Sculler
 1 Swamp
 1 Death's Shadow
+1 Concealed Courtyard
 2 Phantasmal Image
-2 Tidehollow Sculler
 2 Dark Confidant
 2 Meddling Mage
 2 Godless Shrine
 2 Dauthi Voidwalker
 2 Death's Shadow
+2 Tidehollow Sculler
 2 Concealed Courtyard
-3 Tidehollow Sculler
 3 Meddling Mage
 3 Dark Confidant
 3 Death's Shadow
 3 Flooded Strand
 3 Concealed Courtyard
-4 Tidehollow Sculler
+3 Tidehollow Sculler
 4 Dark Confidant
 4 Flooded Strand
 4 Concealed Courtyard
 4 Meddling Mage
+4 Tidehollow Sculler
 4 Death's Shadow

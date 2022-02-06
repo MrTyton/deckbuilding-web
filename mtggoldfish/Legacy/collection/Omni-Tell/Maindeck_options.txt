@@ -1,32 +1,32 @@
 2 Ancient Tomb
 1 Eureka
 2 Tropical Island
-1 Scalding Tarn
+1 City of Traitors
 1 Tundra
 1 Karakas
+1 Scalding Tarn
 3 Flooded Strand
-1 City of Traitors
-1 Venser, Shaper Savant
 4 Preordain
+1 Venser, Shaper Savant
+2 Impulse
 1 Flusterstorm
 1 Drawn from Dreams
 4 Cunning Wish
+1 Lotus Petal
 1 Plains
 4 Flooded Strand
-1 Solve the Equation
-2 Impulse
+2 City of Traitors
 1 Island
-3 Snow-Covered Forest
-6 Snow-Covered Island
+1 Solve the Equation
 2 Island
 3 Island
 4 Island
-1 Lotus Petal
 2 Lotus Petal
 3 Lotus Petal
 1 Daze
-2 City of Traitors
 3 Emrakul, the Aeons Torn
+3 Snow-Covered Forest
+6 Snow-Covered Island
 2 Daze
 1 Orim's Chant
 2 Orim's Chant
@@ -34,12 +34,13 @@
 1 Snow-Covered Plains
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
+1 Polluted Delta
 3 Daze
 1 Abundant Harvest
 2 Abundant Harvest
 1 Carpet of Flowers
-1 Prismatic Ending
 2 Intuition
+1 Prismatic Ending
 1 Boseiju, Who Shelters All
 2 Solve the Equation
 3 Solve the Equation
@@ -47,7 +48,6 @@
 1 Silence
 2 Silence
 3 Teferi, Time Raveler
-1 Polluted Delta
 2 Polluted Delta
 1 Dress Down
 1 Sea Gate Restoration
@@ -69,8 +69,8 @@
 2 Plains
 4 Solve the Equation
 3 Silence
-1 Snow-Covered Swamp
 1 Thoughtseize
+1 Snow-Covered Swamp
 1 Profane Tutor
 1 Underground Sea
 1 Duress
@@ -128,6 +128,8 @@
 4 Tropical Island
 3 Ancient Tomb
 4 Ancient Tomb
+2 Sylvan Library
+4 Veil of Summer
 4 Silence
 1 Baleful Strix
 2 Baleful Strix

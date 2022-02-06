@@ -4,21 +4,21 @@
 4 Malevolent Hermit
 1 Ingenious Smith
 2 Ingenious Smith
-3 Spatial Contortion
 1 Ancient Den
+3 Spatial Contortion
 2 Ancient Den
 3 Ancient Den
 1 Cathar Commando
 2 Cathar Commando
-3 Cathar Commando
-1 Ranger of Eos
-2 Ranger of Eos
-4 Ancient Den
 1 Karakas
+3 Cathar Commando
+4 Ancient Den
 3 Ingenious Smith
 1 Orzhov Signet
 2 Orzhov Signet
 3 Orzhov Signet
+1 Ranger of Eos
+2 Ranger of Eos
 1 Island
 1 Mishra's Bauble
 2 Mishra's Bauble
@@ -26,6 +26,7 @@
 3 Island
 4 Island
 2 Blast Zone
+4 Ingenious Smith
 1 Vault of Whispers
 2 Vault of Whispers
 3 Vault of Whispers
@@ -39,20 +40,20 @@
 4 Azorius Signet
 1 Ethersworn Canonist
 2 Ethersworn Canonist
-4 Ingenious Smith
 1 Scrubland
 2 Scrubland
+2 Karakas
+4 Urza's Bauble
 1 Lodestone Bauble
 1 Flooded Strand
 2 Flooded Strand
-4 Urza's Bauble
 1 Monastery Mentor
 2 Monastery Mentor
 3 Monastery Mentor
 4 Mishra's Bauble
 1 Trinket Mage
-1 Sai, Master Thopterist
 1 Inventors' Fair
+1 Sai, Master Thopterist
 1 Karn, Scion of Urza
 1 Engineered Explosives
 1 Teferi, Time Raveler
@@ -64,7 +65,6 @@
 1 Retrofitter Foundry
 1 Esper Sentinel
 1 Defense Grid
-2 Karakas
 2 Esper Sentinel
 3 Esper Sentinel
 4 Esper Sentinel
