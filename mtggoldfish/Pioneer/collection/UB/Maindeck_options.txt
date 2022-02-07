@@ -1,21 +1,20 @@
 1 Mystical Dispute
 3 Swamp
+2 Thoughtseize
 3 Sinister Sabotage
 1 Hall of Storm Giants
-2 Thoughtseize
-1 Drown in the Loch
-2 Fetid Pools
 4 Clearwater Pathway
-1 Castle Vantress
+1 Drown in the Loch
 1 Languish
-4 Drowned Catacomb
+2 Fetid Pools
 1 Day's Undoing
+1 Castle Vantress
 1 Sorin the Mirthless
-2 Drown in the Loch
+4 Drowned Catacomb
 1 Power Word Kill
 1 Silundi Vision
+2 Drown in the Loch
 2 Cling to Dust
-1 Commit/Memory
 1 Erebos's Intervention
 1 Eliminate
 1 Thing in the Ice
@@ -23,42 +22,42 @@
 1 Syncopate
 3 Field of Ruin
 1 Hullbreaker Horror
+1 Commit/Memory
 2 Erebos's Intervention
 2 Sorin the Mirthless
 3 Dig Through Time
-1 Torrential Gearhulk
-4 Island
+1 Hive of the Eye Tyrant
 2 Castle Vantress
 4 Shark Typhoon
 4 Dig Through Time
-1 Hive of the Eye Tyrant
+1 Torrential Gearhulk
 3 Thoughtseize
-1 Castle Locthwain
+4 Island
 1 Kalitas, Traitor of Ghet
 2 Syncopate
+2 Memory Deluge
 3 Shipwreck Marsh
-3 Drown in the Loch
 1 Notion Thief
 2 Day's Undoing
-2 Memory Deluge
 2 Geier Reach Sanitarium
 2 Notion Thief
 3 Notion Thief
+1 Castle Locthwain
 4 Thoughtseize
 1 Thassa's Intervention
 2 Silundi Vision
-1 Stern Dismissal
 1 Dispel
+1 Stern Dismissal
 1 Neutralize
 2 Hall of Storm Giants
 3 Day's Undoing
 4 Day's Undoing
 4 Notion Thief
 2 Power Word Kill
-2 Eliminate
 3 Thing in the Ice
+2 Eliminate
 1 Grafdigger's Cage
-4 Sinister Sabotage
+3 Drown in the Loch
 5 Island
 2 Negate
 1 Shadows' Verdict
@@ -73,14 +72,10 @@
 2 Teferi, Hero of Dominaria
 2 Deserted Beach
 3 Teferi, Hero of Dominaria
-1 The Meathook Massacre
-1 Pull from Tomorrow
-1 Enter the God-Eternals
-1 Feed the Swarm
-1 Vraska's Contempt
-1 Graveyard Trespasser
-1 Silumgar's Command
-2 The Meathook Massacre
+1 Divide by Zero
+2 Divide by Zero
+3 Divide by Zero
+2 Hive of the Eye Tyrant
 2 Mystical Dispute
 1 Fateful Absence
 1 Brightclimb Pathway
@@ -105,9 +100,6 @@
 3 Vanishing Verse
 3 The Celestus
 3 Hallowed Fountain
-1 Divide by Zero
-2 Divide by Zero
-3 Divide by Zero
 3 Power Word Kill
 2 Languish
 2 Search for Azcanta
@@ -118,20 +110,49 @@
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 2 Snow-Covered Island
-2 Hive of the Eye Tyrant
 3 Snow-Covered Island
+1 Yahenni's Expertise
 1 Jwari Disruption
 1 Tasigur, the Golden Fang
-1 Yahenni's Expertise
 2 Tasigur, the Golden Fang
 4 Shipwreck Marsh
 4 Thing in the Ice
 2 Baleful Mastery
 4 Fabled Passage
+4 Sinister Sabotage
 4 Field of Ruin
+1 Forest
+1 Zagoth Triome
+1 Abrupt Decay
+1 Sylvan Caryatid
+1 Lier, Disciple of the Drowned
+1 Nissa, Who Shakes the World
+1 Overgrown Tomb
+1 Breeding Pool
+2 Sylvan Caryatid
+2 Nissa, Who Shakes the World
+2 Abrupt Decay
+2 Zagoth Triome
+2 Forest
+2 Overgrown Tomb
+2 Lier, Disciple of the Drowned
+2 Breeding Pool
+3 Abrupt Decay
+3 Zagoth Triome
+3 Nissa, Who Shakes the World
+3 Breeding Pool
+3 Overgrown Tomb
+3 Sylvan Caryatid
+4 Breeding Pool
+4 Divide by Zero
+4 Sylvan Caryatid
+4 Zagoth Triome
+4 Nissa, Who Shakes the World
+4 Overgrown Tomb
 1 Haunted Ridge
 1 Sulfur Falls
 1 Smoldering Egg
+1 Dragon's Fire
 1 Nicol Bolas, Dragon-God
 1 Dragonskull Summit
 1 Kolaghan's Command
@@ -139,7 +160,6 @@
 1 Riverglide Pathway
 1 Go Blank
 1 Nicol Bolas, the Ravager
-1 Dragon's Fire
 1 Silumgar's Scorn
 1 Mountain
 1 Expressive Iteration
@@ -158,9 +178,9 @@
 3 Expressive Iteration
 3 Nicol Bolas, the Ravager
 3 Silumgar's Scorn
-4 Nicol Bolas, the Ravager
-4 Silumgar's Scorn
 4 Expressive Iteration
+4 Silumgar's Scorn
+4 Nicol Bolas, the Ravager
 1 Behold the Multiverse
 1 Siphon Insight
 1 Ritual of Soot

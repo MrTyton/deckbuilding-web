@@ -44,10 +44,10 @@
 4 Goldspan Dragon
 1 Deadly Dispute
 1 Shambling Ghast
-2 Shambling Ghast
 2 Deadly Dispute
-3 Deadly Dispute
+2 Shambling Ghast
 3 Shambling Ghast
+3 Deadly Dispute
 4 Shambling Ghast
 1 Skullport Merchant
 2 Skullport Merchant
@@ -112,12 +112,12 @@
 2 Negate
 2 Olivia, Crimson Bride
 2 Return Upon the Tide
-3 Toxrill, the Corrosive
 3 Cathartic Pyre
+3 Toxrill, the Corrosive
 3 Olivia, Crimson Bride
 3 Return Upon the Tide
-4 Return Upon the Tide
 4 Cathartic Pyre
+4 Return Upon the Tide
 1 Dragon's Fire
 2 Dragon's Fire
 3 Soul Shatter
@@ -141,12 +141,12 @@
 1 Cyclone Summoner
 1 Flunk
 1 Parasitic Grasp
-1 Check for Traps
-2 Check for Traps
 1 You Find the Villains' Lair
 1 Bloodthirsty Adversary
-2 Hero's Downfall
 2 You Find the Villains' Lair
+2 Hero's Downfall
+1 Check for Traps
+2 Check for Traps
 1 Consuming Tide
 1 Honored Heirloom
 2 Malakir Rebirth
@@ -162,10 +162,6 @@
 2 Sedgemoor Witch
 3 Sedgemoor Witch
 3 Cinderclasm
-2 Disdainful Stroke
-3 Abrade
-4 Jwari Disruption
-4 Abrade
 4 Galvanic Iteration
 1 Path of Peril
 2 Path of Peril
@@ -185,6 +181,10 @@
 3 Dollhouse of Horrors
 4 Skullport Merchant
 4 Magmatic Channeler
+2 Disdainful Stroke
+3 Abrade
+4 Jwari Disruption
+4 Abrade
 1 Sorin the Mirthless
 1 Crackle with Power
 1 Creative Outburst
@@ -199,63 +199,63 @@
 4 Draconic Intervention
 4 Soul Shatter
 4 Magma Opus
-1 Cosmos Elixir
-1 Xanathar, Guild Kingpin
-1 Crawling Barrens
-1 Nighthawk Scavenger
-1 Inferno of the Star Mounts
-1 Poison the Cup
-1 Lithoform Engine
-1 Alrund, God of the Cosmos
-1 Varragoth, Bloodsky Sire
-1 Jace, Mirror Mage
-1 Blood Pact
-1 Umbral Juke
-1 Vengeful Reaper
-2 Poison the Cup
-2 Test of Talents
-2 Baleful Mastery
-2 Nighthawk Scavenger
-2 Vengeful Reaper
-2 Blood Pact
-3 Nighthawk Scavenger
-3 Vengeful Reaper
-3 Poison the Cup
-4 Island
-4 Swamp
-4 Saw It Coming
-4 Nighthawk Scavenger
-5 Swamp
-5 Island
-6 Swamp
-6 Island
-7 Swamp
-7 Island
-8 Swamp
-8 Island
-9 Swamp
 1 Acquisitions Expert
-1 Immersturm Predator
-1 Eyetwitch
-1 Sulfurous Mire
-1 Gelatinous Cube
 1 Lolth, Spider Queen
+1 Eyetwitch
+1 Gelatinous Cube
+1 Immersturm Predator
+1 Sulfurous Mire
 2 Snow-Covered Swamp
-2 Lolth, Spider Queen
 2 Eyetwitch
+2 Lolth, Spider Queen
 2 Sulfurous Mire
 2 Immersturm Predator
+3 Snow-Covered Swamp
 3 Eyetwitch
 3 Sulfurous Mire
 3 Snow-Covered Mountain
 3 Immersturm Predator
-3 Snow-Covered Swamp
 4 Blood on the Snow
 4 Snow-Covered Swamp
 4 Snow-Covered Mountain
 4 Sulfurous Mire
-5 Snow-Covered Mountain
 5 Snow-Covered Swamp
+5 Snow-Covered Mountain
 6 Snow-Covered Swamp
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
+1 Cosmos Elixir
+1 Crawling Barrens
+1 Poison the Cup
+1 Inferno of the Star Mounts
+1 Varragoth, Bloodsky Sire
+1 Xanathar, Guild Kingpin
+1 Alrund, God of the Cosmos
+1 Jace, Mirror Mage
+1 Lithoform Engine
+1 Blood Pact
+1 Umbral Juke
+1 Vengeful Reaper
+1 Nighthawk Scavenger
+2 Test of Talents
+2 Baleful Mastery
+2 Poison the Cup
+2 Vengeful Reaper
+2 Blood Pact
+2 Nighthawk Scavenger
+3 Nighthawk Scavenger
+3 Vengeful Reaper
+3 Poison the Cup
+4 Saw It Coming
+4 Island
+4 Nighthawk Scavenger
+4 Swamp
+5 Island
+5 Swamp
+6 Island
+6 Swamp
+7 Swamp
+8 Swamp
+8 Island
+9 Swamp
+7 Island

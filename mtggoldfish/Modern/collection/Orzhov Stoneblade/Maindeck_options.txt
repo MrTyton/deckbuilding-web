@@ -17,10 +17,10 @@
 3 Plains
 4 Silent Clearing
 1 Shadowspear
+1 Springleaf Drum
 1 Ornithopter
 1 Urza's Saga
 1 Colossus Hammer
-1 Springleaf Drum
 1 Inkmoth Nexus
 1 Puresteel Paladin
 1 Sigarda's Aid
@@ -33,16 +33,16 @@
 2 Memnite
 2 Colossus Hammer
 2 Puresteel Paladin
+3 Urza's Saga
 3 Memnite
 3 Ornithopter
-3 Urza's Saga
+3 Springleaf Drum
 3 Puresteel Paladin
 3 Sigarda's Aid
 3 Colossus Hammer
-3 Springleaf Drum
 3 Inkmoth Nexus
-4 Ornithopter
 4 Urza's Saga
+4 Ornithopter
 4 Puresteel Paladin
 4 Sigarda's Aid
 4 Colossus Hammer
@@ -95,17 +95,17 @@
 3 Agadeem's Awakening
 2 Damn
 4 Swamp
-1 Flagstones of Trokair
 1 Smallpox
+1 Flagstones of Trokair
 1 Lingering Souls
-2 Flagstones of Trokair
 2 Smallpox
+2 Flagstones of Trokair
 2 Lingering Souls
-3 Flagstones of Trokair
 3 Smallpox
+3 Flagstones of Trokair
 3 Lingering Souls
-4 Flagstones of Trokair
 4 Smallpox
+4 Flagstones of Trokair
 4 Lingering Souls
 1 Field of Ruin
 2 Field of Ruin
@@ -127,8 +127,8 @@
 1 Nihil Spellbomb
 5 Snow-Covered Plains
 1 Snow-Covered Swamp
-4 Fatal Push
 4 Vindicate
+4 Fatal Push
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
 1 Blood Crypt
@@ -142,12 +142,12 @@
 4 Godless Shrine
 1 Flooded Strand
 1 Overgrown Tomb
-1 Monastery Mentor
 1 Liliana, the Last Hope
+1 Monastery Mentor
 1 Caves of Koilos
+2 Snow-Covered Swamp
 1 Shattered Sanctum
 2 Shattered Sanctum
-2 Snow-Covered Swamp
 1 Sanctifier en-Vec
 2 Kambal, Consul of Allocation
 2 Sanctifier en-Vec
@@ -162,10 +162,10 @@
 3 Tidehollow Sculler
 4 Tidehollow Sculler
 4 Thoughtseize
-1 Arid Mesa
 1 Steelshaper's Gift
+1 Arid Mesa
 1 Windswept Heath
-4 Dark Confidant
 4 Springleaf Drum
+4 Dark Confidant
 4 Inkmoth Nexus
 5 Plains

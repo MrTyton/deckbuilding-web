@@ -10,15 +10,15 @@
 1 Emeria's Call
 1 Agadeem's Awakening
 2 Sorin the Mirthless
+1 Blood on the Snow
 1 Snow-Covered Swamp
 1 Snow-Covered Plains
-1 Blood on the Snow
 2 Snow-Covered Swamp
 2 Snow-Covered Plains
 3 Snow-Covered Swamp
 3 Snow-Covered Plains
-4 Snow-Covered Plains
 4 Snow-Covered Swamp
+4 Snow-Covered Plains
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 2 Blood on the Snow
@@ -75,8 +75,8 @@
 1 Righteous Valkyrie
 1 Youthful Valkyrie
 2 Starnheim Unleashed
-2 Valkyrie Harbinger
 2 Liesa, Forgotten Archangel
+2 Valkyrie Harbinger
 2 Firja's Retribution
 2 Rampage of the Valkyries
 2 Righteous Valkyrie
@@ -90,15 +90,16 @@
 1 Bloodchief's Thirst
 1 Infernal Grasp
 1 Soul Shatter
+1 Plumb the Forbidden
 1 Village Rites
 1 Malakir Rebirth
-1 Plumb the Forbidden
 1 Professor Onyx
 1 Demon's Disciple
-1 Morbid Opportunist
 1 Loyal Warhound
 1 Tergrid, God of Fright
 1 Vanquish the Horde
+1 Morbid Opportunist
+1 Eaten Alive
 1 Acquisitions Expert
 1 Poison the Cup
 1 Cathar Commando
@@ -108,7 +109,6 @@
 1 Silverquill Campus
 1 Elderfang Disciple
 1 Priest of the Haunted Edge
-1 Eaten Alive
 1 Priest of Ancient Lore
 1 Great Hall of Starnheim
 1 Fleshtaker
@@ -122,13 +122,13 @@
 1 Concealing Curtains
 2 Concealing Curtains
 3 Concealing Curtains
-4 Concealing Curtains
 4 Lolth, Spider Queen
+4 Concealing Curtains
 4 Professor of Symbology
 4 Elite Spellbinder
 1 Resplendent Marshal
-2 Infernal Grasp
 2 Cave of the Frost Dragon
+2 Infernal Grasp
 2 Resplendent Marshal
 3 Resplendent Marshal
 3 Starnheim Unleashed
@@ -159,8 +159,8 @@
 4 Blood on the Snow
 4 Kaya the Inexorable
 8 Snow-Covered Swamp
-1 Vengeful Reaper
 1 Haunting Voyage
+1 Vengeful Reaper
 2 Vengeful Reaper
 2 Soul Shatter
 2 Doomskar

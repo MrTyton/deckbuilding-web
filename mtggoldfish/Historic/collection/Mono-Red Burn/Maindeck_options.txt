@@ -25,10 +25,10 @@
 2 Rampaging Ferocidon
 1 Temple of Abandon
 1 Rootbound Crag
-1 Grim Lavamancer
 1 Experimental Frenzy
-1 Dreadhorde Arcanist
 1 Cragcrown Pathway
+1 Grim Lavamancer
+1 Dreadhorde Arcanist
 1 Risk Factor
 2 Rootbound Crag
 2 Cragcrown Pathway
@@ -41,19 +41,6 @@
 3 Spikefield Hazard
 4 Spikefield Hazard
 4 Dragon's Rage Channeler
-1 Flame Channeler
-1 Roil Eruption
-1 Slaying Fire
-1 The Flame of Keld
-2 Flame Channeler
-2 Roil Eruption
-2 Slaying Fire
-2 The Flame of Keld
-3 Flame Channeler
-3 Roil Eruption
-4 Flame Channeler
-4 Roil Eruption
-4 Pillar of Flame
 1 Forgotten Cave
 1 Thermo-Alchemist
 1 Shock
@@ -66,8 +53,8 @@
 4 Thermo-Alchemist
 1 Bonecrusher Giant
 1 Goblin Chainwhirler
-2 Goblin Chainwhirler
 2 Bonecrusher Giant
+2 Goblin Chainwhirler
 3 Bonecrusher Giant
 3 Goblin Chainwhirler
 3 Lightning Strike
@@ -78,14 +65,14 @@
 1 Needleverge Pathway
 1 Clever Lumimancer
 1 Rockfall Vale
+1 Lightning Helix
+1 Sacred Foundry
 1 Klothys, God of Destiny
 1 Temple Garden
-1 Lightning Helix
 1 Inspiring Vantage
-1 Sacred Foundry
-2 Sacred Foundry
-2 Clever Lumimancer
 2 Rockfall Vale
+2 Clever Lumimancer
+2 Sacred Foundry
 2 Klothys, God of Destiny
 2 Inspiring Vantage
 2 Temple Garden
@@ -103,3 +90,16 @@
 4 Lightning Helix
 4 Temple Garden
 4 Sacred Foundry
+1 Roil Eruption
+1 Slaying Fire
+1 The Flame of Keld
+1 Flame Channeler
+2 Roil Eruption
+2 Slaying Fire
+2 Flame Channeler
+2 The Flame of Keld
+3 Roil Eruption
+3 Flame Channeler
+4 Roil Eruption
+4 Pillar of Flame
+4 Flame Channeler

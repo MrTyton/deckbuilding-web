@@ -86,18 +86,18 @@
 3 Island
 3 Swamp
 1 Concealing Curtains
+1 Jaspera Sentinel
 1 Bloodvial Purveyor
 1 Graveyard Trespasser
 1 Syncopate
-1 Jaspera Sentinel
 2 Concealing Curtains
+2 Jaspera Sentinel
 2 Bloodvial Purveyor
 2 Graveyard Trespasser
-2 Jaspera Sentinel
 2 Syncopate
+3 Jaspera Sentinel
 3 Concealing Curtains
 3 Bloodvial Purveyor
-3 Jaspera Sentinel
 3 Sorin the Mirthless
 4 Field of Ruin
 4 The Meathook Massacre
@@ -145,11 +145,11 @@
 5 Swamp
 1 Snow-Covered Mountain
 1 Hero's Downfall
+1 Bloodline Culling
 1 Toxrill, the Corrosive
 1 Crippling Fear
-1 Tergrid, God of Fright
 1 Pelakka Predation
-1 Bloodline Culling
+1 Tergrid, God of Fright
 1 Old Rutstein
 1 Lier, Disciple of the Drowned
 1 Fading Hope
@@ -170,6 +170,11 @@
 2 Hullbreaker Horror
 3 Jwari Disruption
 4 Binding the Old Gods
+1 Avabruck Caretaker
+1 Power Word Kill
+2 Avabruck Caretaker
+2 Power Word Kill
+4 Esika's Chariot
 1 Dread Fugue
 2 Dread Fugue
 3 Dread Fugue
@@ -178,65 +183,6 @@
 2 Duress
 3 Duress
 4 Duress
-1 Secrets of the Key
-1 Silundi Vision
-1 Sea Gate Restoration
-1 Plumb the Forbidden
-1 Beledros Witherbloom
-1 Harness Infinity
-1 Dream Strix
-1 Vineglimmer Snarl
-1 Witherbloom Apprentice
-2 Secrets of the Key
-2 Silundi Vision
-2 The World Tree
-2 Dream Strix
-2 Witherbloom Apprentice
-2 Beledros Witherbloom
-2 Plumb the Forbidden
-2 Vineglimmer Snarl
-3 Sedgemoor Witch
-3 Professor Onyx
-3 Plumb the Forbidden
-3 Witherbloom Apprentice
-3 Secrets of the Key
-4 Sedgemoor Witch
-4 Plumb the Forbidden
-4 Island
-4 Witherbloom Apprentice
-1 Avabruck Caretaker
-1 Power Word Kill
-2 Avabruck Caretaker
-2 Power Word Kill
-4 Esika's Chariot
-1 Briarbridge Tracker
-1 Ice Tunnel
-1 Xanathar, Guild Kingpin
-1 Acererak the Archlich
-1 Narfi, Betrayer King
-1 Vastwood Surge
-2 Briarbridge Tracker
-2 Rimewood Falls
-2 Ice Tunnel
-2 Storm the Festival
-2 Vastwood Surge
-3 Woodland Chasm
-3 Briarbridge Tracker
-4 Snow-Covered Forest
-4 Woodland Chasm
-5 Snow-Covered Forest
-1 Skyclave Shade
-2 Skyclave Shade
-3 Hive of the Eye Tyrant
-3 Hunt for Specimens
-3 Skyclave Shade
-3 Eaten Alive
-4 Hive of the Eye Tyrant
-4 Hunt for Specimens
-4 Eaten Alive
-18 Snow-Covered Swamp
-19 Snow-Covered Swamp
-20 Snow-Covered Swamp
 1 Emergent Sequence
 1 Koma, Cosmos Serpent
 1 Neverwinter Dryad
@@ -248,3 +194,57 @@
 3 Neverwinter Dryad
 4 Emergent Sequence
 5 Forest
+1 Ice Tunnel
+1 Briarbridge Tracker
+1 Xanathar, Guild Kingpin
+1 Acererak the Archlich
+1 Narfi, Betrayer King
+1 Vastwood Surge
+2 Ice Tunnel
+2 Briarbridge Tracker
+2 Rimewood Falls
+2 Storm the Festival
+2 Vastwood Surge
+3 Woodland Chasm
+3 Briarbridge Tracker
+4 Woodland Chasm
+4 Snow-Covered Forest
+5 Snow-Covered Forest
+1 Skyclave Shade
+2 Skyclave Shade
+3 Hive of the Eye Tyrant
+3 Hunt for Specimens
+3 Skyclave Shade
+3 Eaten Alive
+4 Hive of the Eye Tyrant
+4 Eaten Alive
+4 Hunt for Specimens
+18 Snow-Covered Swamp
+19 Snow-Covered Swamp
+20 Snow-Covered Swamp
+1 Secrets of the Key
+1 Silundi Vision
+1 Sea Gate Restoration
+1 Plumb the Forbidden
+1 Beledros Witherbloom
+1 Harness Infinity
+1 Dream Strix
+1 Vineglimmer Snarl
+1 Witherbloom Apprentice
+2 Secrets of the Key
+2 Plumb the Forbidden
+2 Silundi Vision
+2 The World Tree
+2 Dream Strix
+2 Witherbloom Apprentice
+2 Beledros Witherbloom
+2 Vineglimmer Snarl
+3 Sedgemoor Witch
+3 Professor Onyx
+3 Plumb the Forbidden
+3 Witherbloom Apprentice
+3 Secrets of the Key
+4 Sedgemoor Witch
+4 Plumb the Forbidden
+4 Island
+4 Witherbloom Apprentice

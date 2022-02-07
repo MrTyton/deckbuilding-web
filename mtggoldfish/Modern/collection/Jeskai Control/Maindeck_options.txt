@@ -9,16 +9,16 @@
 1 Lotus Field
 2 Spirebluff Canal
 2 Fury
-2 Cryptic Command
 2 Valakut Awakening
+2 Cryptic Command
 2 Blood Sun
 2 Seachrome Coast
 2 Lotus Field
 3 Teferi, Hero of Dominaria
 3 Cryptic Command
-3 Memory Deluge
 3 Spirebluff Canal
 3 Fury
+3 Memory Deluge
 3 Valakut Awakening
 3 Lotus Field
 3 Blood Sun
@@ -79,12 +79,12 @@
 2 Field of Ruin
 4 Lightning Bolt
 1 Arid Mesa
-3 Seachrome Coast
 3 Hallowed Fountain
 3 Steam Vents
-4 Seachrome Coast
+3 Seachrome Coast
 4 Chalice of the Void
 4 Supreme Verdict
+4 Seachrome Coast
 1 Timeless Dragon
 1 Sulfur Falls
 1 Nexus of Fate
@@ -96,10 +96,15 @@
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
+1 Blood Moon
+2 Blood Moon
+3 Plains
+3 Blood Moon
+6 Island
 1 Mountain
+1 Vendilion Clique
 1 Lightning Helix
 1 Electrolyze
-1 Vendilion Clique
 1 Force of Negation
 1 Blade Splicer
 1 Ragavan, Nimble Pilferer
@@ -118,8 +123,3 @@
 3 Celestial Colonnade
 3 Ragavan, Nimble Pilferer
 4 Blade Splicer
-1 Blood Moon
-2 Blood Moon
-3 Blood Moon
-3 Plains
-6 Island

@@ -1,10 +1,10 @@
 3 Prismatic Vista
 7 Snow-Covered Forest
-1 Misty Rainforest
 2 Horizon Canopy
 1 Sigil of the Empty Throne
-1 Verdant Catacombs
 1 Wooded Foothills
+1 Misty Rainforest
+1 Verdant Catacombs
 1 Yavimaya, Cradle of Growth
 1 Oblivion Ring
 1 Rest in Peace
@@ -42,20 +42,19 @@
 2 Prismatic Ending
 4 Solitary Confinement
 1 Helix Pinnacle
-2 Verdant Catacombs
 4 Snow-Covered Plains
 2 Detention Sphere
 2 Eidolon of Blossoms
 1 Ixalan's Binding
 4 Horizon Canopy
+2 Verdant Catacombs
 1 Ghostly Prison
-1 Cast Out
 1 Journey to Nowhere
 1 Idyllic Tutor
 1 Plains
 1 Snow-Covered Swamp
-1 Overgrown Tomb
 1 Snow-Covered Mountain
+1 Overgrown Tomb
 1 Assemble the Legion
 1 Honden of Life's Web
 1 Form of the Dragon
@@ -89,6 +88,7 @@
 2 Banishing Light
 1 Fertile Ground
 2 Fertile Ground
+1 Cast Out
 1 Flooded Strand
 2 Flooded Strand
 2 Plains
@@ -98,9 +98,6 @@
 2 Abundant Harvest
 2 Kruphix's Insight
 3 Kruphix's Insight
-1 Paladin Class
-2 Paladin Class
-3 Verdant Catacombs
 1 Razorverge Thicket
 1 Gemstone Caverns
 1 Phyrexian Unlife

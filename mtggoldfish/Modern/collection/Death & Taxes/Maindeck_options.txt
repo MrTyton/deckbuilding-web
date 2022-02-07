@@ -16,19 +16,19 @@
 1 Maul of the Skyclaves
 4 Charming Prince
 1 Magus of the Moon
-1 Imperial Recruiter
 1 Sacred Foundry
+1 Imperial Recruiter
 2 Sacred Foundry
 2 Imperial Recruiter
 3 Imperial Recruiter
 4 Imperial Recruiter
 1 Sunbaked Canyon
-1 Sanctifier en-Vec
 1 Inspiring Vantage
+1 Sanctifier en-Vec
 2 Inspiring Vantage
 2 Sunbaked Canyon
-3 Inspiring Vantage
 3 Sunbaked Canyon
+3 Inspiring Vantage
 4 Inspiring Vantage
 1 Snow-Covered Plains
 2 Snow-Covered Plains
@@ -52,12 +52,12 @@
 1 Horizon Canopy
 2 Horizon Canopy
 1 Timeless Dragon
-1 Seasoned Pyromancer
 1 Ragavan, Nimble Pilferer
+1 Seasoned Pyromancer
 1 Pia and Kiran Nalaar
 2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
 3 Needleverge Pathway
+3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
 4 Needleverge Pathway
 1 Marsh Flats
@@ -96,15 +96,15 @@
 4 Marsh Flats
 1 Shefet Dunes
 2 Shefet Dunes
-1 Snow-Covered Mountain
 1 Raugrin Triome
-1 Cemetery Protector
+1 Snow-Covered Mountain
 1 Thraben Inspector
+1 Cemetery Protector
 1 Restoration Angel
 2 Thraben Inspector
 2 Restoration Angel
-3 Cave of the Frost Dragon
 3 Thraben Inspector
+3 Cave of the Frost Dragon
 4 Thraben Inspector
 1 Aven Mindcensor
 1 Wall of Omens
@@ -126,8 +126,8 @@
 2 Sanctum Prelate
 1 Halvar, God of Battle
 2 Halvar, God of Battle
-1 Cavern of Souls
 1 Professor of Symbology
+1 Cavern of Souls
 2 Professor of Symbology
 3 Professor of Symbology
 4 Professor of Symbology
@@ -136,57 +136,57 @@
 2 Squadron Hawk
 3 Squadron Hawk
 4 Squadron Hawk
+1 Windswept Heath
 1 Titania, Protector of Argoth
-1 Misty Rainforest
-1 Elvish Reclaimer
+1 Blast Zone
+1 Bojuka Bog
 1 Radiant Fountain
 1 Tireless Tracker
 1 Yavimaya, Cradle of Growth
+1 Elvish Reclaimer
 1 Indatha Triome
-1 Blast Zone
-1 Bojuka Bog
 1 Knight of the Reliquary
 1 Scattered Groves
-1 Windswept Heath
 1 Temple Garden
 1 Zuran Orb
+1 Misty Rainforest
 1 Quirion Ranger
 1 Forest
+2 Misty Rainforest
 2 Yavimaya, Cradle of Growth
 2 Elvish Reclaimer
-2 Tireless Tracker
-2 Forest
-2 Misty Rainforest
-2 Titania, Protector of Argoth
 2 Windswept Heath
+2 Tireless Tracker
+2 Titania, Protector of Argoth
+2 Forest
 2 Knight of the Reliquary
 2 Temple Garden
 2 Quirion Ranger
+3 Windswept Heath
 3 Forest
-3 Tireless Tracker
 3 Misty Rainforest
 3 Knight of the Reliquary
 3 Titania, Protector of Argoth
-3 Windswept Heath
-4 Misty Rainforest
+3 Tireless Tracker
 4 Windswept Heath
+4 Misty Rainforest
 4 Knight of the Reliquary
 4 Titania, Protector of Argoth
 4 Tireless Tracker
-1 Prismatic Vista
 1 Wastes
 1 Thought-Knot Seer
 1 Eldrazi Temple
 1 Reality Smasher
-2 Prismatic Vista
+1 Prismatic Vista
 2 Thought-Knot Seer
+2 Prismatic Vista
 2 Reality Smasher
 2 Eldrazi Temple
+3 Prismatic Vista
 3 Reality Smasher
 3 Thought-Knot Seer
 3 Shefet Dunes
 3 Eldrazi Temple
-3 Prismatic Vista
 4 Reality Smasher
 4 Thought-Knot Seer
 4 Eldrazi Temple
@@ -198,23 +198,23 @@
 1 Mutavault
 1 Portable Hole
 1 Cathar Commando
-1 Spellstutter Sprite
 1 Deputy of Detention
+1 Spellstutter Sprite
 1 Selfless Spirit
 1 Spell Queller
 1 Adarkar Wastes
 2 Seachrome Coast
-2 Cathar Commando
 2 Mutavault
 2 Deputy of Detention
+2 Cathar Commando
 2 Spellstutter Sprite
 2 Adarkar Wastes
 2 Selfless Spirit
 2 Hallowed Fountain
 2 Spell Queller
 3 Selfless Spirit
-3 Hallowed Fountain
 3 Seachrome Coast
+3 Hallowed Fountain
 3 Spellstutter Sprite
 3 Spell Queller
 3 Adarkar Wastes
@@ -228,33 +228,33 @@
 4 Spell Queller
 4 Adarkar Wastes
 4 Deputy of Detention
+1 Swamp
 1 Phantasmal Image
-1 Watery Grave
+1 Concealed Courtyard
+1 Tidehollow Sculler
 1 Dark Confidant
-1 Godless Shrine
 1 Meddling Mage
 1 Dauthi Voidwalker
-1 Tidehollow Sculler
-1 Swamp
+1 Godless Shrine
+1 Watery Grave
 1 Death's Shadow
-1 Concealed Courtyard
+2 Godless Shrine
 2 Phantasmal Image
+2 Tidehollow Sculler
 2 Dark Confidant
 2 Meddling Mage
-2 Godless Shrine
 2 Dauthi Voidwalker
 2 Death's Shadow
-2 Tidehollow Sculler
 2 Concealed Courtyard
+3 Tidehollow Sculler
 3 Meddling Mage
+3 Flooded Strand
 3 Dark Confidant
 3 Death's Shadow
-3 Flooded Strand
 3 Concealed Courtyard
-3 Tidehollow Sculler
-4 Dark Confidant
+4 Tidehollow Sculler
 4 Flooded Strand
+4 Dark Confidant
 4 Concealed Courtyard
 4 Meddling Mage
-4 Tidehollow Sculler
 4 Death's Shadow
