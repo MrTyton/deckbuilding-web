@@ -53,7 +53,6 @@
 1 Idyllic Tutor
 1 Plains
 1 Snow-Covered Swamp
-1 Snow-Covered Mountain
 1 Overgrown Tomb
 1 Assemble the Legion
 1 Honden of Life's Web
@@ -63,6 +62,7 @@
 1 Honden of Infinite Rage
 1 Sanctum of Fruitful Harvest
 1 Honden of Seeing Winds
+1 Snow-Covered Mountain
 1 Sanctum of Calm Waters
 1 Honden of Night's Reach
 1 Paradox Haze
@@ -74,17 +74,17 @@
 2 Sanctum of Fruitful Harvest
 3 Mana Bloom
 3 Enduring Ideal
+1 Waterlogged Grove
 1 Curse of Silence
 1 Copy Enchantment
-1 Waterlogged Grove
 2 Curse of Silence
 2 Copy Enchantment
 3 Curse of Silence
 4 Omen of the Sea
 4 Setessan Champion
-1 Rite of Harmony
 1 Oppressive Rays
 1 Sphere of Safety
+1 Rite of Harmony
 2 Banishing Light
 1 Fertile Ground
 2 Fertile Ground
@@ -103,8 +103,8 @@
 1 Phyrexian Unlife
 1 Arid Mesa
 1 Forest
-2 Forest
 2 Phyrexian Unlife
+2 Forest
 2 Solemnity
 2 Idyllic Tutor
 2 Arid Mesa
@@ -118,8 +118,8 @@
 3 Solemnity
 4 Phyrexian Unlife
 4 Solemnity
-1 Branchloft Pathway
 1 Borrowed Time
+1 Branchloft Pathway
 2 Branchloft Pathway
 3 Branchloft Pathway
 4 Branchloft Pathway

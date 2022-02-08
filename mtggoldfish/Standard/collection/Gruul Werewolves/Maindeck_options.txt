@@ -23,8 +23,8 @@
 1 Highland Forest
 2 Highland Forest
 1 Howling Moon
-1 Snow-Covered Mountain
 1 Snow-Covered Forest
+1 Snow-Covered Mountain
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 4 Snow-Covered Forest
@@ -93,14 +93,14 @@
 1 Brutal Cathar
 1 Branchloft Pathway
 1 Needleverge Pathway
-2 Needleverge Pathway
 2 Brutal Cathar
 2 Branchloft Pathway
+2 Needleverge Pathway
 3 Needleverge Pathway
 3 Brutal Cathar
 3 Branchloft Pathway
-4 Needleverge Pathway
 4 Branchloft Pathway
+4 Needleverge Pathway
 3 Blizzard Brawl
 3 Frost Bite
 2 Goldspan Dragon
@@ -133,14 +133,14 @@
 2 Bird Admirer
 1 Tangletrap
 3 Cemetery Prowler
-2 Primal Adversary
-1 Snow-Covered Plains
-2 Snow-Covered Plains
+1 Sundown Pass
+1 Plains
+2 Plains
 1 Moonveil Regent
 2 Moonveil Regent
-1 Plains
-1 Sundown Pass
-2 Plains
+1 Snow-Covered Plains
+2 Snow-Covered Plains
+2 Primal Adversary
 1 Light Up the Night
 3 Demon Bolt
 1 Wolfkin Outcast
@@ -154,35 +154,15 @@
 1 Tangled Florahedron
 2 Tangled Florahedron
 3 Den of the Bugbear
+2 Tovolar's Huntmaster
+4 Frost Bite
+4 Arlinn, the Pack's Hope
 4 Blizzard Brawl
 1 Burning Hands
 2 Burning Hands
 3 Wrenn and Seven
 4 Wrenn and Seven
 4 Briarbridge Tracker
-4 Arlinn, the Pack's Hope
-1 Evolving Wilds
-1 Heated Debate
-1 Lithoform Engine
-1 Cemetery Gatekeeper
-1 Dragon's Fire
-2 Bala Ged Recovery
-2 Evolving Wilds
-2 Heated Debate
-2 Field of Ruin
-2 Cemetery Gatekeeper
-3 Evolving Wilds
-3 Heated Debate
-3 Cemetery Gatekeeper
-3 Outland Liberator
-3 Bala Ged Recovery
-4 Outland Liberator
-4 Evolving Wilds
-4 Bala Ged Recovery
-4 Heated Debate
-4 Cemetery Gatekeeper
-2 Tovolar's Huntmaster
-4 Frost Bite
 1 The Celestus
 1 Arni Slays the Troll
 1 Faceless Haven
@@ -202,7 +182,27 @@
 2 Weaver of Blossoms
 3 Weaver of Blossoms
 9 Mountain
-10 Forest
 10 Mountain
-11 Forest
+10 Forest
 11 Mountain
+11 Forest
+1 Evolving Wilds
+1 Dragon's Fire
+1 Heated Debate
+1 Lithoform Engine
+1 Cemetery Gatekeeper
+2 Evolving Wilds
+2 Bala Ged Recovery
+2 Heated Debate
+2 Field of Ruin
+2 Cemetery Gatekeeper
+3 Evolving Wilds
+3 Heated Debate
+3 Cemetery Gatekeeper
+3 Outland Liberator
+3 Bala Ged Recovery
+4 Cemetery Gatekeeper
+4 Outland Liberator
+4 Evolving Wilds
+4 Bala Ged Recovery
+4 Heated Debate

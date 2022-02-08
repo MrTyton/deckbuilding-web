@@ -3,8 +3,8 @@
 1 Soul-Guide Lantern
 1 Terminate
 1 Sunset Revelry
-2 Soul-Guide Lantern
 2 Sunset Revelry
+2 Soul-Guide Lantern
 3 Sunset Revelry
 3 Alpine Moon
 1 Torpor Orb
@@ -21,12 +21,12 @@
 2 Scourge of the Skyclaves
 3 Vindicate
 2 Drannith Magistrate
-1 Leyline of the Void
 1 Leyline of Sanctity
-2 Leyline of the Void
+1 Leyline of the Void
 2 Leyline of Sanctity
-3 Leyline of the Void
+2 Leyline of the Void
 3 Leyline of Sanctity
+3 Leyline of the Void
 4 Leyline of the Void
 4 Leyline of Sanctity
 1 Thoughtseize
@@ -43,11 +43,11 @@
 1 Damping Sphere
 2 Damping Sphere
 3 Nihil Spellbomb
-1 Remorseful Cleric
 1 Obsidian Charmaw
+1 Remorseful Cleric
 1 Shriekmaw
-2 Remorseful Cleric
 2 Obsidian Charmaw
+2 Remorseful Cleric
 3 Obsidian Charmaw
 1 Grim Lavamancer
 1 Unholy Heat
@@ -56,13 +56,17 @@
 1 Bonecrusher Giant
 1 Batterskull
 2 Bonecrusher Giant
-1 Ashiok, Dream Render
+1 Rip Apart
 1 Extirpate
 1 Cling to Dust
-1 Rip Apart
-2 Extirpate
+1 Ashiok, Dream Render
 2 Rip Apart
+2 Extirpate
 2 Ashiok, Dream Render
+1 Kor Firewalker
+1 Kaya, Orzhov Usurper
+2 Kor Firewalker
+3 Path to Exile
 2 Chalice of the Void
 3 Chalice of the Void
 1 Cleansing Wildfire
@@ -72,10 +76,9 @@
 2 Plague Engineer
 2 Kambal, Consul of Allocation
 3 Cleansing Wildfire
-3 Wear/Tear
-1 Pyrite Spellbomb
 1 Despark
 1 Vanishing Verse
+1 Pyrite Spellbomb
 1 Pillage
 2 Pillage
 3 Pillage
@@ -84,13 +87,10 @@
 1 Smiting Helix
 2 Phyrexian Crusader
 3 Phyrexian Crusader
-1 Kor Firewalker
-1 Kaya, Orzhov Usurper
-2 Kor Firewalker
-3 Path to Exile
+3 Wear/Tear
 1 Emrakul, the Aeons Torn
-1 Grafdigger's Cage
 1 Fury
+1 Grafdigger's Cage
 1 Fracture
 1 Deafening Silence
 1 Tempest of Light

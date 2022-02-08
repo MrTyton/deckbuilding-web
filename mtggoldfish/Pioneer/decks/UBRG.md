@@ -32,9 +32,9 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Thing in the Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409836)    |                    1|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)|
-|                    1|[Yahenni's Expertise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423742) |                    1|[Extinction Event](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479608)   |
+|                    1|[Thing in the Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409836)    |                    1|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426592)   |
+|                    1|[Yahenni's Expertise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423742) |                    1|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)|
 |                    2|[Thing in the Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409836)    |                    2|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426592)   |
-|                    3|[Expressive Iteration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513678)|                    1|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426592)   |
+|                    3|[Expressive Iteration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513678)|                    1|[Extinction Event](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479608)   |
 |                    3|[Thing in the Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409836)    |                     |                                                                                              |
 

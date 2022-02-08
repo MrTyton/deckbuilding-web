@@ -1,7 +1,7 @@
 1 Botanical Sanctum
+1 Llanowar Elves
 2 Barkchannel Pathway
 2 Botanical Sanctum
-1 Llanowar Elves
 2 Llanowar Elves
 3 Deputy of Detention
 3 Llanowar Elves
@@ -21,16 +21,16 @@
 1 Brutal Cathar
 1 Thraben Inspector
 2 Plains
+1 Esper Sentinel
 1 Sigardian Evangel
 1 Thalia's Lieutenant
 1 Giant Killer
-1 Esper Sentinel
 1 Ambitious Farmhand
 1 Ranger-Captain of Eos
 1 Dauntless Bodyguard
 2 Esper Sentinel
-2 Thalia's Lieutenant
 2 Ranger-Captain of Eos
+2 Thalia's Lieutenant
 3 Esper Sentinel
 3 Ranger-Captain of Eos
 3 Deserted Beach
@@ -45,55 +45,59 @@
 2 Pyre of Heroes
 3 Pyre of Heroes
 4 Pyre of Heroes
-4 Inquisitor Captain
 1 Knight of Autumn
 1 Fblthp, the Lost
+4 Inquisitor Captain
 1 Yorion, Sky Nomad
 1 Callous Bloodmage
-1 Gilded Goose
-2 Gilded Goose
-3 Gilded Goose
-4 Gilded Goose
 1 Lair of the Hydra
+1 Gilded Goose
 2 Lair of the Hydra
-2 Knight of Autumn
 2 Elite Spellbinder
+2 Gilded Goose
+2 Knight of Autumn
+3 Gilded Goose
 3 Elite Spellbinder
-1 Paradise Druid
-2 Paradise Druid
+4 Gilded Goose
 1 Restoration Angel
-1 Ancient Ziggurat
-2 Ancient Ziggurat
-3 Ancient Ziggurat
-4 Ancient Ziggurat
-1 Steam Vents
-1 Tuktuk Rubblefort
-1 Sea Gate Stormcaller
-1 Combat Celebrant
-1 Dualcaster Mage
-2 Tuktuk Rubblefort
-2 Dualcaster Mage
-2 Sea Gate Stormcaller
-2 Steam Vents
-3 Paradise Druid
-4 Paradise Druid
 1 Linvala, Shield of Sea Gate
+1 Paradise Druid
+1 Blade Historian
+1 Righteous Valkyrie
+1 Man-o'-War
+1 Kabira Takedown
+1 Ancient Ziggurat
+1 Kazandu Mammoth
+1 Forsaken Crossroads
+1 Alrund, God of the Cosmos
+1 Alirios, Enraptured
+1 Klothys, God of Destiny
+1 Emeria's Call
+2 Paradise Druid
+2 Righteous Valkyrie
+2 Ancient Ziggurat
+2 Man-o'-War
+2 Fblthp, the Lost
+3 Righteous Valkyrie
+3 Ancient Ziggurat
+4 Righteous Valkyrie
+4 Ancient Ziggurat
+1 Fateful Absence
 1 Torens, Fist of the Angels
-1 Mind Flayer
 1 Fabled Passage
+1 Mind Flayer
 1 Thragtusk
 1 Portable Hole
 1 Tolsimir, Friend to Wolves
 1 Dovin's Veto
-1 Fateful Absence
 1 Regal Caracal
 1 Mulldrifter
 2 Thragtusk
+2 Fabled Passage
+2 Thraben Inspector
 2 Forest
 2 Timeless Witness
 2 Mulldrifter
-2 Thraben Inspector
-2 Fabled Passage
 2 Portable Hole
 3 Glacial Fortress
 3 Thraben Inspector
@@ -102,58 +106,5 @@
 3 Fabled Passage
 4 Thraben Inspector
 4 Skyclave Apparition
-4 Glacial Fortress
 4 Fabled Passage
-1 Blade Historian
-1 Man-o'-War
-1 Kabira Takedown
-1 Righteous Valkyrie
-1 Kazandu Mammoth
-1 Alrund, God of the Cosmos
-1 Klothys, God of Destiny
-1 Forsaken Crossroads
-1 Alirios, Enraptured
-1 Emeria's Call
-2 Righteous Valkyrie
-2 Fblthp, the Lost
-2 Man-o'-War
-3 Righteous Valkyrie
-4 Righteous Valkyrie
-1 Ketria Triome
-1 Galvanic Iteration
-1 Rockfall Vale
-1 Sundown Pass
-1 Wandering Mind
-1 Raugrin Triome
-1 Opt
-2 Rockfall Vale
-2 Galvanic Iteration
-2 Wandering Mind
-2 Opt
-3 Wandering Mind
-3 Opt
-1 Valakut Awakening
-1 Riverglide Pathway
-1 Perilous Voyage
-1 Pact of Negation
-1 Cragcrown Pathway
-1 Expansion/Explosion
-1 Solve the Equation
-1 Shimmer of Possibility
-1 Stomping Ground
-2 Riverglide Pathway
-2 Shimmer of Possibility
-2 Stomping Ground
-2 Cragcrown Pathway
-2 Solve the Equation
-3 Barkchannel Pathway
-3 Dualcaster Mage
-3 Shimmer of Possibility
-3 Sea Gate Stormcaller
-3 Steam Vents
-3 Solve the Equation
-4 Barkchannel Pathway
-4 Shimmer of Possibility
-4 Dualcaster Mage
-4 Sea Gate Stormcaller
-4 Steam Vents
+4 Glacial Fortress

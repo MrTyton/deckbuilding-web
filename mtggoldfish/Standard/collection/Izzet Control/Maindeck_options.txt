@@ -46,21 +46,12 @@
 4 Prismari Command
 1 Saw It Coming
 1 Battle of Frost and Fire
-1 Reckless Impulse
-1 Delver of Secrets
-2 Reckless Impulse
-2 Delver of Secrets
-3 Thundering Rebuke
-3 Reckless Impulse
-3 Delver of Secrets
-4 Reckless Impulse
-4 Delver of Secrets
-1 Eruth, Tormented Prophet
 1 Inspired Idea
+1 Eruth, Tormented Prophet
 1 Birgi, God of Storytelling
 2 Inspired Idea
-2 Eruth, Tormented Prophet
 2 Birgi, God of Storytelling
+2 Eruth, Tormented Prophet
 3 Inspired Idea
 3 Eruth, Tormented Prophet
 3 Birgi, God of Storytelling
@@ -69,6 +60,15 @@
 3 Behold the Multiverse
 4 Behold the Multiverse
 4 Field of Ruin
+1 Reckless Impulse
+1 Delver of Secrets
+2 Reckless Impulse
+2 Delver of Secrets
+3 Reckless Impulse
+3 Thundering Rebuke
+3 Delver of Secrets
+4 Reckless Impulse
+4 Delver of Secrets
 6 Mountain
 1 Negate
 3 Demon Bolt
@@ -97,17 +97,17 @@
 8 Snow-Covered Island
 8 Snow-Covered Mountain
 1 Crackle with Power
+1 Galazeth Prismari
+1 Hall of Oracles
+1 Magma Opus
 1 Treasure Vault
 1 Sea Gate Restoration
 1 Tyrite Sanctum
-1 Hall of Oracles
-1 Vadrik, Astral Archmage
-1 Magma Opus
 1 Crawling Barrens
 1 Suspicious Stowaway
-1 Galazeth Prismari
 1 Wizard's Spellbook
 1 Forsaken Monument
+1 Vadrik, Astral Archmage
 1 The Biblioplex
 2 Galazeth Prismari
 2 Magma Opus
@@ -149,8 +149,8 @@
 2 Test of Talents
 3 Dissipate
 3 Heated Debate
-4 Dissipate
 4 Heated Debate
+4 Dissipate
 1 Ruin Crab
 1 Evolving Wilds
 1 Tasha's Hideous Laughter
@@ -185,21 +185,21 @@
 3 Valakut Awakening
 4 Hall of Storm Giants
 4 Spectral Adversary
+4 Demon Bolt
 4 Memory Deluge
 4 Burn Down the House
 4 Valakut Awakening
-4 Demon Bolt
 4 Battle of Frost and Fire
 7 Island
-1 Delina, Wild Mage
 1 Barbarian Class
+1 Delina, Wild Mage
 1 Pixie Guide
-2 Pixie Guide
-2 Delina, Wild Mage
 2 Barbarian Class
-3 Pixie Guide
-3 Delina, Wild Mage
+2 Delina, Wild Mage
+2 Pixie Guide
 3 Barbarian Class
+3 Delina, Wild Mage
+3 Pixie Guide
 4 Frost Bite
 4 Barbarian Class
 4 Delina, Wild Mage

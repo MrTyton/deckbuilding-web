@@ -1,19 +1,19 @@
 2 Orcus, Prince of Undeath
-2 Soul Shatter
 1 Burning Hands
+2 Soul Shatter
+4 Duress
 1 Ray of Enfeeblement
 1 Crippling Fear
-4 Duress
 2 Ray of Enfeeblement
 3 Ray of Enfeeblement
-1 Sorin the Mirthless
 2 Burning Hands
 3 Burning Hands
+1 Sorin the Mirthless
 1 Check for Traps
-1 Cinderclasm
+2 Check for Traps
 1 Shadows' Verdict
 2 Shadows' Verdict
-2 Check for Traps
+1 Cinderclasm
 1 Graveyard Trespasser
 1 The Meathook Massacre
 2 The Meathook Massacre
@@ -60,10 +60,10 @@
 1 Valki, God of Lies
 1 Kalain, Reclusive Painter
 1 Goldspan Dragon
-1 Dollhouse of Horrors
-1 Bloodthirsty Adversary
 1 Callous Bloodmage
 1 Tibalt's Trickery
+1 Dollhouse of Horrors
+1 Bloodthirsty Adversary
 1 Introduction to Annihilation
 1 Expanded Anatomy
 1 Introduction to Prophecy
@@ -77,8 +77,8 @@
 1 Dragon's Fire
 1 Magic Missile
 1 Lolth, Spider Queen
-2 Magic Missile
 2 Dragon's Fire
+2 Magic Missile
 2 Lolth, Spider Queen
 1 Florian, Voldaren Scion
 3 Crippling Fear
@@ -91,6 +91,10 @@
 3 Abrade
 3 Skyclave Shade
 3 Nighthawk Scavenger
+1 Demogorgon's Clutches
+2 Demogorgon's Clutches
+3 Path of Peril
+3 Demogorgon's Clutches
 1 Jadar, Ghoulcaller of Nephalia
 1 No Way Out
 1 Champion of the Perished
@@ -106,8 +110,3 @@
 4 Jadar, Ghoulcaller of Nephalia
 4 No Way Out
 4 Champion of the Perished
-1 Village Rites
-1 Varragoth, Bloodsky Sire
-1 Feed the Swarm
-2 Village Rites
-1 Minion of the Mighty

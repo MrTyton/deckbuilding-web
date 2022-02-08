@@ -99,8 +99,8 @@
 15 Snow-Covered Plains
 16 Snow-Covered Plains
 1 Cave of the Frost Dragon
-1 Esper Sentinel
 1 Thalia's Lieutenant
+1 Esper Sentinel
 1 Beloved Princess
 1 Venerated Loxodon
 1 Shefet Dunes
@@ -133,8 +133,8 @@
 2 Scoured Barrens
 2 Vito, Thorn of the Dusk Rose
 3 Vito, Thorn of the Dusk Rose
-1 Idyllic Grange
 1 Ixalan's Binding
+1 Idyllic Grange
 1 Twinblade Paladin
 1 Cubwarden
 2 Ixalan's Binding
@@ -155,34 +155,34 @@
 1 Luminarch Aspirant
 2 Luminarch Aspirant
 3 Luminarch Aspirant
-1 Reidane, God of the Worthy
 1 Youthful Valkyrie
+1 Reidane, God of the Worthy
 2 Youthful Valkyrie
 4 Skyclave Apparition
 4 Banishing Light
 1 Elspeth, Sun's Nemesis
-1 Oath of Kaya
-1 Godless Shrine
-1 Isolated Chapel
 1 Erebos's Intervention
+1 Oath of Kaya
 1 Angelic Ascension
 1 Castle Locthwain
+1 Isolated Chapel
 1 Linvala, Keeper of Silence
+1 Godless Shrine
 1 Temple of Silence
 2 Erebos's Intervention
 2 Elspeth, Sun's Nemesis
-2 Castle Locthwain
 2 Oath of Kaya
-2 Godless Shrine
 2 Isolated Chapel
 2 Angelic Ascension
+2 Godless Shrine
 2 Temple of Silence
+2 Castle Locthwain
 2 Linvala, Keeper of Silence
 3 Isolated Chapel
 3 Oath of Kaya
-3 Godless Shrine
 3 Temple of Silence
 3 Scoured Barrens
+3 Godless Shrine
 4 Isolated Chapel
 4 Godless Shrine
 4 Temple of Silence
@@ -236,28 +236,28 @@
 3 Basri Ket
 4 Secluded Steppe
 4 Basri Ket
+1 Voice of the Blessed
 1 Cleric Class
 1 Shattered Sanctum
+1 Kor Celebrant
 1 Valkyrie Harbinger
 1 Brightclimb Pathway
-1 Voice of the Blessed
 1 Elite Spellbinder
 1 Swamp
 1 Lunarch Veteran
-1 Kor Celebrant
 1 Banehound
 2 Elite Spellbinder
+2 Voice of the Blessed
+2 Kor Celebrant
 2 Cleric Class
 2 Banehound
-2 Kor Celebrant
 2 Lunarch Veteran
 2 Brightclimb Pathway
 2 Swamp
-2 Voice of the Blessed
-3 Swamp
+3 Cleric Class
 3 Voice of the Blessed
 3 Lunarch Veteran
-3 Cleric Class
+3 Swamp
 4 Swamp
 5 Swamp
 6 Swamp
@@ -272,8 +272,8 @@
 1 Trelasarra, Moon Dancer
 1 Scurry Oak
 2 Ranger-Captain of Eos
-2 Forest
 2 Cathars' Crusade
+2 Forest
 2 Trelasarra, Moon Dancer
 2 Prosperous Innkeeper
 2 Scurry Oak

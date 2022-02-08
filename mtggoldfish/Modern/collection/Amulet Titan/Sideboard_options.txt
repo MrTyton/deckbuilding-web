@@ -1,6 +1,6 @@
 1 Walking Ballista
-1 Tormod's Crypt
 1 Pithing Needle
+1 Tormod's Crypt
 1 Liquimetal Coating
 1 Emrakul, the Promised End
 1 Dismember
@@ -17,7 +17,6 @@
 1 Emrakul, the Aeons Torn
 1 Pact of Negation
 2 Dismember
-3 Engineered Explosives
 1 Yorion, Sky Nomad
 1 Wurmcoil Engine
 1 Ensnaring Bridge
@@ -30,15 +29,14 @@
 1 Trinisphere
 3 Endurance
 1 Froghemoth
+1 Obstinate Baloth
+3 Cavern of Souls
 1 Sakura-Tribe Elder
 2 Sakura-Tribe Elder
-3 Cavern of Souls
 1 Gaea's Blessing
 1 Dragonlord Dromoka
 1 Golos, Tireless Pilgrim
-1 Obstinate Baloth
 1 Hornet Queen
-1 World Breaker
 1 Collector Ouphe
 1 Nature's Claim
 1 Reclamation Sage
@@ -54,6 +52,8 @@
 2 Rest in Peace
 2 Celestial Purge
 3 Prismatic Ending
+1 World Breaker
+3 Engineered Explosives
 1 Thoughtseize
 1 Culling Ritual
 1 Abrupt Decay
@@ -61,8 +61,8 @@
 1 Necromentia
 2 Thoughtseize
 2 Outland Liberator
-2 Fatal Push
 2 Necromentia
+2 Fatal Push
 2 Abrupt Decay
 3 Necromentia
 4 Endurance

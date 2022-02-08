@@ -1,13 +1,17 @@
-1 Thoughtseize
-2 Thoughtseize
+3 Lightning Bolt
+4 Lightning Bolt
+1 Urza's Saga
+2 Underground Sea
+3 Uro, Titan of Nature's Wrath
 1 Flooded Strand
 2 Flooded Strand
 1 Snow-Covered Island
-3 Tropical Island
 2 Urza's Saga
 3 Urza's Saga
-2 Underground Sea
-3 Uro, Titan of Nature's Wrath
+1 Fatal Push
+2 Fatal Push
+1 Bayou
+1 Abrupt Decay
 4 Uro, Titan of Nature's Wrath
 4 Polluted Delta
 1 Snow-Covered Forest
@@ -16,6 +20,7 @@
 1 Scroll of Fate
 1 Mountain
 2 Island
+2 Abrupt Decay
 1 Prismatic Ending
 1 Tundra
 1 Swords to Plowshares
@@ -25,11 +30,8 @@
 3 Prismatic Ending
 3 Swords to Plowshares
 4 Swords to Plowshares
-1 Bayou
-1 Abrupt Decay
 1 Assassin's Trophy
-1 Fatal Push
-2 Fatal Push
+3 Murktide Regent
 1 Force of Negation
 3 Thoughtseize
 1 Forest
@@ -37,15 +39,15 @@
 1 Emrakul, the Aeons Torn
 1 Mosswort Bridge
 1 Show and Tell
+1 Omniscience
 1 Pithing Needle
 1 Soul-Guide Lantern
-1 Elvish Reclaimer
 1 Griselbrand
-1 Omniscience
 1 Wooded Foothills
+1 Elvish Reclaimer
 2 Mosswort Bridge
-2 Show and Tell
 2 Omniscience
+2 Show and Tell
 2 Wooded Foothills
 2 Emrakul, the Aeons Torn
 2 Elvish Reclaimer
@@ -59,13 +61,11 @@
 4 Tropical Island
 4 Elvish Reclaimer
 1 Grist, the Hunger Tide
-1 Retrofitter Foundry
 1 Nihil Spellbomb
+1 Retrofitter Foundry
 2 Bayou
-2 Abrupt Decay
 4 Urza's Saga
 1 Stubborn Denial
-3 Murktide Regent
 1 Expressive Iteration
 2 Expressive Iteration
 1 Dragon's Rage Channeler
@@ -75,10 +75,12 @@
 1 Verdant Catacombs
 2 Verdant Catacombs
 1 Snow-Covered Plains
-1 Plains
-1 Narset, Parter of Veils
-1 Karakas
+1 Life from the Loam
+3 Abrupt Decay
 1 Mystic Sanctuary
+1 Plains
+1 Karakas
+1 Narset, Parter of Veils
 3 Expressive Iteration
 4 Expressive Iteration
 2 Stubborn Denial
@@ -92,13 +94,14 @@
 2 Sprite Dragon
 3 Sprite Dragon
 3 Island
-1 Overgrown Tomb
-1 Watery Grave
-1 Snuff Out
+3 Underground Sea
 1 Death's Shadow
-2 Snuff Out
+1 Watery Grave
+1 Overgrown Tomb
+1 Snuff Out
 2 Death's Shadow
 2 Watery Grave
+2 Snuff Out
 3 Watery Grave
 4 Thoughtseize
 1 Delver of Secrets
@@ -106,40 +109,37 @@
 3 Delver of Secrets
 2 Force of Negation
 1 Shadowspear
-1 Life from the Loam
-1 Predict
+1 Drown in the Loch
 1 Unholy Heat
+1 Predict
+1 Steam Vents
+2 Forked Bolt
+2 Steam Vents
 1 Jace, the Mind Sculptor
 1 Snapcaster Mage
 2 Jace, the Mind Sculptor
 2 Snapcaster Mage
-1 Steam Vents
-2 Forked Bolt
-2 Steam Vents
-1 Prismatic Vista
 1 Ragavan, Nimble Pilferer
-2 Prismatic Vista
+1 Prismatic Vista
 2 Ragavan, Nimble Pilferer
+2 Prismatic Vista
 1 Berserk
 1 Hunted Horror
 2 Berserk
 2 Hunted Horror
 2 Snow-Covered Island
 3 Snow-Covered Island
-1 Drown in the Loch
-3 Abrupt Decay
 1 Tarmogoyf
 1 Lazav, the Multifarious
-2 Tarmogoyf
 2 Lazav, the Multifarious
-3 Tarmogoyf
-3 Underground Sea
+2 Tarmogoyf
 3 Lazav, the Multifarious
-3 Spell Pierce
-4 Sprite Dragon
+3 Tarmogoyf
 2 Sylvan Library
 3 Death's Shadow
 4 Death's Shadow
+3 Spell Pierce
+4 Sprite Dragon
 1 Kroxa, Titan of Death's Hunger
 1 Badlands
 2 Kroxa, Titan of Death's Hunger

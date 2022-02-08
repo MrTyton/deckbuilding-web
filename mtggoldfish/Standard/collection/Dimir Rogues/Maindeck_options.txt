@@ -79,15 +79,15 @@
 4 Crippling Fear
 1 Mind Flayer
 1 You Find the Villains' Lair
-1 Wizard Class
 1 Yuan-Ti Malison
-2 You Find the Villains' Lair
+1 Wizard Class
 2 Wizard Class
+2 You Find the Villains' Lair
 2 Blackbloom Rogue
 2 Yuan-Ti Malison
+3 Wizard Class
 3 Yuan-Ti Malison
 3 You Find the Villains' Lair
-3 Wizard Class
 4 Wizard Class
 4 You Find the Villains' Lair
 1 Darkbore Pathway
@@ -120,11 +120,11 @@
 1 Sorin the Mirthless
 1 Sea Gate Restoration
 1 Anticognition
-1 Inscription of Ruin
-2 Hagra Mauling
 1 Syncopate
 1 Mirrorhall Mimic
 2 Syncopate
+1 Inscription of Ruin
+2 Hagra Mauling
 1 The Meathook Massacre
 1 Demogorgon's Clutches
 2 Demogorgon's Clutches
@@ -133,15 +133,22 @@
 1 Malakir Rebirth
 1 Curse of Leeches
 1 Bloodline Culling
-2 Malakir Rebirth
-2 Bloodline Culling
 2 Curse of Leeches
 2 Grazilaxx, Illithid Scholar
+2 Malakir Rebirth
+2 Bloodline Culling
 3 Soul Shatter
-3 Bloodline Culling
 3 Grazilaxx, Illithid Scholar
-1 Graveyard Trespasser
+3 Bloodline Culling
+1 Spectral Adversary
+1 Consider
+2 Spectral Adversary
+2 Consider
+3 Spectral Adversary
+3 Concerted Defense
+4 Spectral Adversary
 1 Inspired Idea
+1 Graveyard Trespasser
 1 Lash of Malice
 2 Graveyard Trespasser
 2 Inspired Idea
@@ -173,7 +180,6 @@
 1 Blood on the Snow
 1 Devious Cover-Up
 1 Rogue Class
-1 Reject
 1 Feed the Swarm
 1 Shambling Ghast
 1 Flip the Switch
@@ -184,6 +190,7 @@
 1 Faceless Haven
 1 Grim Bounty
 1 Tyrite Sanctum
+1 Reject
 1 Lolth, Spider Queen
 2 Eaten Alive
 2 Rogue Class
@@ -201,13 +208,6 @@
 4 Infernal Grasp
 4 Glasspool Mimic
 4 Agadeem's Awakening
-1 Consider
-1 Spectral Adversary
-2 Consider
-2 Spectral Adversary
-3 Concerted Defense
-3 Spectral Adversary
-4 Spectral Adversary
 1 Into the Roil
 2 Disdainful Stroke
 9 Snow-Covered Swamp
@@ -222,16 +222,16 @@
 4 Evolving Wilds
 4 Morbid Opportunist
 10 Swamp
+1 Mischievous Catgeist
 1 Poison the Cup
 1 Screaming Swarm
 1 Eyetwitch
-1 Mischievous Catgeist
 1 Fell Stinger
 1 Blood Fountain
 2 Poison the Cup
+2 Mischievous Catgeist
 2 Fell Stinger
 2 Eyetwitch
-2 Mischievous Catgeist
 2 Screaming Swarm
 3 Fell Stinger
 3 Eyetwitch
