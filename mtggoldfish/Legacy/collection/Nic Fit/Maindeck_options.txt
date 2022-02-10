@@ -1,6 +1,6 @@
 1 Plains
-1 Scrubland
 1 Vraska, Golgari Queen
+1 Scrubland
 1 Ugin, the Spirit Dragon
 1 Savannah
 1 Arena Rector
@@ -94,16 +94,17 @@
 2 Tropical Island
 2 Bone Shards
 2 Polluted Delta
-1 Valki, God of Lies
-1 Mayhem Devil
-1 Juri, Master of the Revue
-1 The Meathook Massacre
-1 Masked Vandal
-2 Snow-Covered Mountain
-2 Mayhem Devil
-2 Titania, Protector of Argoth
-2 The Meathook Massacre
-3 Mayhem Devil
+1 Knight of Autumn
+1 Path to Exile
+1 Thragtusk
+1 Toxic Deluge
+1 Nissa, Vital Force
+1 Elspeth, Sun's Champion
+1 Kaya, Ghost Assassin
+1 Liliana, the Last Hope
+1 Archon of Valor's Reach
+2 Path to Exile
+3 Path to Exile
 1 Plumb the Forbidden
 1 Sedgemoor Witch
 1 Blex, Vexing Pest
@@ -123,17 +124,16 @@
 2 Plague Engineer
 3 Tireless Tracker
 3 Hexdrinker
-1 Knight of Autumn
-1 Path to Exile
-1 Thragtusk
-1 Toxic Deluge
-1 Nissa, Vital Force
-1 Elspeth, Sun's Champion
-1 Kaya, Ghost Assassin
-1 Liliana, the Last Hope
-1 Archon of Valor's Reach
-2 Path to Exile
-3 Path to Exile
+1 Valki, God of Lies
+1 Juri, Master of the Revue
+1 The Meathook Massacre
+1 Mayhem Devil
+1 Masked Vandal
+2 Snow-Covered Mountain
+2 Titania, Protector of Argoth
+2 Mayhem Devil
+2 The Meathook Massacre
+3 Mayhem Devil
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
@@ -151,8 +151,8 @@
 2 Spellseeker
 3 Uro, Titan of Nature's Wrath
 4 Ponder
-1 Field of the Dead
 1 Dauthi Voidwalker
+1 Field of the Dead
 1 Klothys, God of Destiny
 1 Terror of the Peaks
 1 Kalitas, Traitor of Ghet

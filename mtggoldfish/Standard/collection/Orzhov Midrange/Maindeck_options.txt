@@ -13,12 +13,12 @@
 1 Blood on the Snow
 1 Snow-Covered Swamp
 1 Snow-Covered Plains
-2 Snow-Covered Swamp
 2 Snow-Covered Plains
-3 Snow-Covered Swamp
+2 Snow-Covered Swamp
 3 Snow-Covered Plains
-4 Snow-Covered Swamp
+3 Snow-Covered Swamp
 4 Snow-Covered Plains
+4 Snow-Covered Swamp
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 2 Blood on the Snow
@@ -27,8 +27,8 @@
 1 Shambling Ghast
 3 Elite Spellbinder
 1 Professor of Symbology
-2 Shambling Ghast
 2 Deadly Dispute
+2 Shambling Ghast
 3 Shambling Ghast
 1 Rite of Oblivion
 1 Liesa, Forgotten Archangel
@@ -71,14 +71,14 @@
 1 Firja's Retribution
 1 Doomskar
 3 Shineshadow Snarl
-1 Youthful Valkyrie
 1 Valkyrie Harbinger
+1 Youthful Valkyrie
 1 Righteous Valkyrie
+2 Valkyrie Harbinger
 2 Starnheim Unleashed
 2 Youthful Valkyrie
 2 Rampage of the Valkyries
 2 Liesa, Forgotten Archangel
-2 Valkyrie Harbinger
 2 Firja's Retribution
 2 Righteous Valkyrie
 3 Emeria's Call
@@ -90,25 +90,25 @@
 1 Bloodchief's Thirst
 1 Infernal Grasp
 1 Soul Shatter
+1 Power Word Kill
+1 Acquisitions Expert
 1 Silverquill Campus
 1 Silverquill Command
-1 Village Rites
-1 Plumb the Forbidden
-1 Malakir Rebirth
 1 Professor Onyx
+1 Plumb the Forbidden
 1 Demon's Disciple
 1 Priest of Ancient Lore
+1 Malakir Rebirth
 1 Great Hall of Starnheim
-1 Loyal Warhound
 1 Tergrid, God of Fright
 1 Vanquish the Horde
+1 Loyal Warhound
 1 Morbid Opportunist
+1 Village Rites
 1 Eaten Alive
-1 Acquisitions Expert
 1 Poison the Cup
 1 Elderfang Disciple
 1 Cathar Commando
-1 Power Word Kill
 1 Skyclave Apparition
 1 Nadaar, Selfless Paladin
 1 Priest of the Haunted Edge
@@ -124,29 +124,29 @@
 3 Concealing Curtains
 4 Lolth, Spider Queen
 4 Professor of Symbology
-4 Concealing Curtains
 4 Elite Spellbinder
+4 Concealing Curtains
+1 Callous Bloodmage
+3 Sorin the Mirthless
+4 Rite of Oblivion
+4 The Meathook Massacre
 1 Resplendent Marshal
-2 Infernal Grasp
 2 Cave of the Frost Dragon
+2 Infernal Grasp
 2 Resplendent Marshal
+3 Starnheim Unleashed
 3 Rampage of the Valkyries
 3 Resplendent Marshal
-3 Starnheim Unleashed
 4 Firja's Retribution
 4 Resplendent Marshal
 4 Righteous Valkyrie
 4 Rampage of the Valkyries
-1 Callous Bloodmage
-3 Sorin the Mirthless
-4 The Meathook Massacre
-4 Rite of Oblivion
-1 Adeline, Resplendent Cathar
 1 Paladin Class
 1 Tainted Adversary
-2 Adeline, Resplendent Cathar
+1 Adeline, Resplendent Cathar
 2 Tainted Adversary
 2 Paladin Class
+2 Adeline, Resplendent Cathar
 8 Snow-Covered Plains
 1 Faithbound Judge
 1 Voldaren Bloodcaster

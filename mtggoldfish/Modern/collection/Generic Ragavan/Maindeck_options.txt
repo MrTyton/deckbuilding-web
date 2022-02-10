@@ -8,12 +8,12 @@
 4 Mishra's Bauble
 1 Bloodstained Mire
 2 Bloodstained Mire
-1 Kroxa, Titan of Death's Hunger
+1 Blood Crypt
 1 Thoughtseize
 1 Inquisition of Kozilek
-1 Blood Crypt
-2 Blood Crypt
+1 Kroxa, Titan of Death's Hunger
 2 Thoughtseize
+2 Blood Crypt
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
 3 Bloodstained Mire
@@ -33,9 +33,9 @@
 2 Tourach, Dread Cantor
 1 Scalding Tarn
 2 Scalding Tarn
+1 Watery Grave
 1 Dress Down
 1 Spirebluff Canal
-1 Watery Grave
 1 Steam Vents
 1 Drown in the Loch
 1 Expressive Iteration
@@ -68,8 +68,8 @@
 4 Seasoned Pyromancer
 1 Snow-Covered Swamp
 4 Inquisition of Kozilek
-1 Lingering Souls
 1 Godless Shrine
+1 Lingering Souls
 2 Lingering Souls
 3 Lingering Souls
 2 Terminate
@@ -78,8 +78,8 @@
 4 Kroxa, Titan of Death's Hunger
 5 Mountain
 1 Inspiring Vantage
-1 Pyrite Spellbomb
 1 Darkslick Shores
+1 Pyrite Spellbomb
 1 Spell Pierce
 2 Snow-Covered Swamp
 3 Dress Down
@@ -121,115 +121,115 @@
 4 Dark Confidant
 1 Lightning Skelemental
 1 Unearth
-2 Fatal Push
 2 Unearth
 2 Lightning Skelemental
+2 Fatal Push
 3 Swamp
 3 Unearth
 3 Lightning Skelemental
 4 Unearth
 4 Lightning Skelemental
+1 Manamorphose
 1 Mox Amber
 1 Birgi, God of Storytelling
-1 Manamorphose
 1 Experimental Frenzy
 1 Desperate Ritual
 1 Underworld Breach
 1 Grapeshot
-2 Birgi, God of Storytelling
 2 Manamorphose
+2 Birgi, God of Storytelling
 2 Underworld Breach
 2 Desperate Ritual
-3 Birgi, God of Storytelling
 3 Manamorphose
+3 Birgi, God of Storytelling
 3 Desperate Ritual
 3 Underworld Breach
-4 Scalding Tarn
 4 Manamorphose
+4 Scalding Tarn
 4 Desperate Ritual
 4 Underworld Breach
 4 Birgi, God of Storytelling
+1 Flagstones of Trokair
+1 Esper Sentinel
 1 Imperial Recruiter
 1 Sanctifier en-Vec
-1 Flooded Strand
-1 Flagstones of Trokair
-1 Magus of the Moon
 1 Boom/Bust
+1 Magus of the Moon
 1 Mana Tithe
-1 Esper Sentinel
 1 Champion of the Parish
 1 Thalia's Lieutenant
+1 Flooded Strand
 1 Adeline, Resplendent Cathar
-2 Imperial Recruiter
-2 Inspiring Vantage
-2 Flooded Strand
-2 Flagstones of Trokair
-2 Mana Tithe
 2 Esper Sentinel
+2 Inspiring Vantage
+2 Imperial Recruiter
+2 Flagstones of Trokair
 2 Sanctifier en-Vec
+2 Mana Tithe
 2 Adeline, Resplendent Cathar
 2 Thalia's Lieutenant
 2 Champion of the Parish
 2 Boom/Bust
-3 Imperial Recruiter
-3 Inspiring Vantage
-3 Flagstones of Trokair
-3 Mana Tithe
+2 Flooded Strand
 3 Esper Sentinel
-3 Champion of the Parish
+3 Inspiring Vantage
+3 Imperial Recruiter
 3 Plains
+3 Flagstones of Trokair
 3 Sanctifier en-Vec
+3 Mana Tithe
+3 Champion of the Parish
 3 Thalia's Lieutenant
 3 Boom/Bust
-4 Inspiring Vantage
 4 Sanctifier en-Vec
+4 Esper Sentinel
+4 Inspiring Vantage
 4 Flagstones of Trokair
 4 Champion of the Parish
 4 Mana Tithe
-4 Esper Sentinel
 4 Boom/Bust
 4 Thalia's Lieutenant
 3 Young Pyromancer
 4 Young Pyromancer
-1 Copperline Gorge
-1 Cragcrown Pathway
-1 Stomping Ground
-1 Hexdrinker
-1 Forest
-1 Tarmogoyf
-1 Windswept Heath
 1 Wooded Foothills
-1 Scavenging Ooze
-1 Atarka's Command
 1 Ignoble Hierarch
+1 Tarmogoyf
+1 Cragcrown Pathway
+1 Hexdrinker
+1 Copperline Gorge
+1 Atarka's Command
+1 Windswept Heath
+1 Stomping Ground
 1 Eidolon of the Great Revel
-2 Cragcrown Pathway
-2 Copperline Gorge
-2 Stomping Ground
-2 Scavenging Ooze
-2 Hexdrinker
-2 Tarmogoyf
-2 Forest
+1 Scavenging Ooze
+1 Forest
 2 Wooded Foothills
 2 Ignoble Hierarch
+2 Stomping Ground
+2 Tarmogoyf
+2 Cragcrown Pathway
+2 Forest
+2 Copperline Gorge
+2 Scavenging Ooze
+2 Hexdrinker
 2 Atarka's Command
 2 Eidolon of the Great Revel
-3 Stomping Ground
+3 Ignoble Hierarch
 3 Wooded Foothills
 3 Cragcrown Pathway
+3 Stomping Ground
 3 Bonecrusher Giant
+3 Atarka's Command
 3 Eidolon of the Great Revel
 3 Hexdrinker
 3 Copperline Gorge
-3 Atarka's Command
 3 Tarmogoyf
-3 Ignoble Hierarch
-4 Stomping Ground
+4 Ignoble Hierarch
 4 Wooded Foothills
 4 Bonecrusher Giant
+4 Stomping Ground
 4 Eidolon of the Great Revel
 4 Copperline Gorge
 4 Tarmogoyf
 4 Hexdrinker
-4 Ignoble Hierarch
 4 Atarka's Command
