@@ -15,12 +15,12 @@
 1 Expressive Iteration
 1 Island
 2 Expressive Iteration
-1 Prismatic Ending
-1 Hallowed Fountain
-1 Chalice of the Void
 1 Raugrin Triome
-2 Chalice of the Void
+1 Hallowed Fountain
+1 Prismatic Ending
+1 Chalice of the Void
 2 Prismatic Ending
+2 Chalice of the Void
 3 Expressive Iteration
 3 Prismatic Ending
 4 Expressive Iteration
@@ -61,8 +61,8 @@
 2 Tarmogoyf
 2 Misty Rainforest
 3 Misty Rainforest
-1 Fire/Ice
 1 Eladamri's Call
+1 Fire/Ice
 2 Fire/Ice
 3 Fire/Ice
 4 Fire/Ice
@@ -96,15 +96,15 @@
 4 Stoneforge Mystic
 3 Qasali Ambusher
 4 Qasali Ambusher
-1 Ragavan, Nimble Pilferer
 1 Atarka's Command
 1 Wild Nacatl
 1 Brushfire Elemental
+1 Ragavan, Nimble Pilferer
 1 Boros Charm
 1 Goblin Guide
-2 Ragavan, Nimble Pilferer
 2 Atarka's Command
 2 Boros Charm
+2 Ragavan, Nimble Pilferer
 2 Goblin Guide
 2 Wild Nacatl
 2 Brushfire Elemental
@@ -119,9 +119,9 @@
 4 Wild Nacatl
 4 Brushfire Elemental
 1 Sunbaked Canyon
+2 Sunbaked Canyon
 2 Plains
 2 Hallowed Fountain
-2 Sunbaked Canyon
 3 Scalding Tarn
 3 Geist of Saint Traft
 4 Scalding Tarn

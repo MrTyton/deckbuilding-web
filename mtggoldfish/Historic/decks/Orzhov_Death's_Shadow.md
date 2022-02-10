@@ -32,7 +32,7 @@
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
 |                    1|Sigardian Evangel                                                                             |                    2|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470)|
 |                    2|Sigardian Evangel                                                                             |                    3|[Go Blank](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513549)          |
-|                    3|[Concealed Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417818)|                    3|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)       |
-|                    4|[Concealed Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417818)|                    4|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)       |
+|                    3|[Concealed Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417818)|                    4|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)       |
+|                    4|[Concealed Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417818)|                    3|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)       |
 |                    4|[Esper Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522088)     |                     |                                                                                             |
 

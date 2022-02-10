@@ -60,6 +60,6 @@
 |                    1|[Ephemerate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463956)               |                    2|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
 |                    1|[Tower of the Magistrate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19769)   |                     |                                                                                              |
 |                    2|[Ephemerate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463956)               |                     |                                                                                              |
-|                    3|[Ephemerate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463956)               |                     |                                                                                              |
 |                    4|[Ephemerate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463956)               |                     |                                                                                              |
+|                    3|[Ephemerate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463956)               |                     |                                                                                              |
 

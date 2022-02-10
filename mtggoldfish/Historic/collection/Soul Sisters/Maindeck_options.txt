@@ -141,9 +141,6 @@
 3 Shadowspear
 1 Glory-Bound Initiate
 1 Oketra the True
-1 Search for Glory
-2 Emeria's Call
-3 Emeria's Call
 1 Benalish Marshal
 2 Benalish Marshal
 2 Giant Killer
@@ -155,8 +152,11 @@
 1 Luminarch Aspirant
 2 Luminarch Aspirant
 3 Luminarch Aspirant
-1 Youthful Valkyrie
+1 Search for Glory
+2 Emeria's Call
+3 Emeria's Call
 1 Reidane, God of the Worthy
+1 Youthful Valkyrie
 2 Youthful Valkyrie
 4 Skyclave Apparition
 4 Banishing Light
@@ -171,12 +171,12 @@
 1 Temple of Silence
 2 Erebos's Intervention
 2 Elspeth, Sun's Nemesis
+2 Castle Locthwain
 2 Oath of Kaya
 2 Isolated Chapel
 2 Angelic Ascension
 2 Godless Shrine
 2 Temple of Silence
-2 Castle Locthwain
 2 Linvala, Keeper of Silence
 3 Isolated Chapel
 3 Oath of Kaya
@@ -236,24 +236,24 @@
 3 Basri Ket
 4 Secluded Steppe
 4 Basri Ket
-1 Voice of the Blessed
+1 Elite Spellbinder
 1 Cleric Class
 1 Shattered Sanctum
 1 Kor Celebrant
 1 Valkyrie Harbinger
 1 Brightclimb Pathway
-1 Elite Spellbinder
+1 Voice of the Blessed
 1 Swamp
 1 Lunarch Veteran
 1 Banehound
 2 Elite Spellbinder
-2 Voice of the Blessed
 2 Kor Celebrant
 2 Cleric Class
 2 Banehound
 2 Lunarch Veteran
 2 Brightclimb Pathway
 2 Swamp
+2 Voice of the Blessed
 3 Cleric Class
 3 Voice of the Blessed
 3 Lunarch Veteran
@@ -272,8 +272,8 @@
 1 Trelasarra, Moon Dancer
 1 Scurry Oak
 2 Ranger-Captain of Eos
-2 Cathars' Crusade
 2 Forest
+2 Cathars' Crusade
 2 Trelasarra, Moon Dancer
 2 Prosperous Innkeeper
 2 Scurry Oak
