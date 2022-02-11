@@ -7,9 +7,9 @@
 1 Needleverge Pathway
 3 Branchloft Pathway
 2 Forest
-1 Windswept Heath
-1 Temple Garden
 1 Sacred Foundry
+1 Temple Garden
+1 Windswept Heath
 2 Windswept Heath
 3 Windswept Heath
 4 Windswept Heath
@@ -19,8 +19,8 @@
 1 Stomping Ground
 4 Ingenious Smith
 1 Wooded Foothills
-2 Llanowar Reborn
 2 Wooded Foothills
+2 Llanowar Reborn
 1 Witch's Oven
 3 Wooded Foothills
 4 Welding Jar
@@ -64,8 +64,8 @@
 1 Urborg, Tomb of Yawgmoth
 1 Blooming Marsh
 2 Blooming Marsh
-1 Snow-Covered Plains
 1 Snow-Covered Forest
+1 Snow-Covered Plains
 1 Prismatic Ending
 1 Karn's Bastion
 1 Mishra's Factory
@@ -86,13 +86,13 @@
 2 Hallowed Fountain
 2 Life's Legacy
 3 Temple Garden
-1 Verdant Catacombs
-1 Nurturing Peatland
-1 Overgrown Tomb
 1 Thoughtseize
+1 Overgrown Tomb
+1 Nurturing Peatland
+1 Verdant Catacombs
 1 Winding Constrictor
-2 Verdant Catacombs
 2 Thoughtseize
+2 Verdant Catacombs
 2 Overgrown Tomb
 2 Winding Constrictor
 3 Verdant Catacombs

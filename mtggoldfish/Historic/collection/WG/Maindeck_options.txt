@@ -12,7 +12,6 @@
 3 Ranger-Captain of Eos
 3 Inquisitor Captain
 4 Skyclave Apparition
-1 Temple of Plenty
 1 Scattered Groves
 1 Cave of the Frost Dragon
 4 Inquisitor Captain
@@ -23,6 +22,9 @@
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
+1 Temple of Plenty
+3 Forest
+4 Forest
 2 Temple of Plenty
 3 Temple of Plenty
 9 Plains
@@ -31,40 +33,33 @@
 2 Snow-Covered Forest
 6 Snow-Covered Plains
 7 Snow-Covered Plains
-1 Alseid of Life's Bounty
 1 Blossoming Sands
-1 Fabled Passage
-2 Alseid of Life's Bounty
 2 Blossoming Sands
 3 Blossoming Sands
 4 Blossoming Sands
-3 Forest
-4 Forest
 1 Llanowar Elves
 2 Llanowar Elves
 3 Llanowar Elves
 4 Llanowar Elves
 1 Ajani, Strength of the Pride
 1 Cleansing Nova
+1 Ajani's Pridemate
+2 Ajani's Pridemate
+1 Alseid of Life's Bounty
+1 Fabled Passage
+2 Alseid of Life's Bounty
 2 Forsaken Crossroads
 1 Giant Killer
 1 Daxos, Blessed by the Sun
 2 Daxos, Blessed by the Sun
-1 Ajani's Pridemate
-2 Ajani's Pridemate
 1 Esper Sentinel
 3 Castle Ardenvale
-1 Righteous Valkyrie
-2 Righteous Valkyrie
-2 Fabled Passage
-3 Righteous Valkyrie
 3 Snow-Covered Forest
 2 Selfless Savior
 3 Selfless Savior
-8 Snow-Covered Plains
+1 Maelstrom Pulse
 1 Godless Shrine
 1 Indatha Triome
-1 Maelstrom Pulse
 1 Brightclimb Pathway
 1 Overgrown Tomb
 1 Darkbore Pathway
@@ -83,3 +78,20 @@
 4 Godless Shrine
 4 Indatha Triome
 4 Overgrown Tomb
+8 Snow-Covered Plains
+1 Cleric Class
+1 Fauna Shaman
+1 Paradise Druid
+2 Paradise Druid
+2 Cleric Class
+2 Fauna Shaman
+3 Paradise Druid
+3 Cleric Class
+3 Fauna Shaman
+4 Cleric Class
+4 Paradise Druid
+4 Fauna Shaman
+5 Forest
+6 Forest
+7 Forest
+8 Forest

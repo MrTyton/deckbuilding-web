@@ -82,7 +82,7 @@
 |                    3|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)             |                     |                                                                                                    |
 |                    3|[Linvala, Shield of Sea Gate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491877)|                     |                                                                                                    |
 |                    3|[Elvish Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389499)              |                     |                                                                                                    |
-|                    4|[Elvish Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389499)              |                     |                                                                                                    |
 |                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)               |                     |                                                                                                    |
+|                    4|[Elvish Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389499)              |                     |                                                                                                    |
 |                    4|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)             |                     |                                                                                                    |
 
