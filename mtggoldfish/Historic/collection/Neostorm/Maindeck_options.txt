@@ -11,11 +11,11 @@
 2 Cragcrown Pathway
 3 Pact of Negation
 4 Opt
-1 Explore
 1 Niv-Mizzet, Parun
+1 Explore
 2 Explore
-3 Explore
 3 Ketria Triome
+3 Explore
 4 Explore
 1 Island
 1 Expansion/Explosion
@@ -95,21 +95,22 @@
 3 Barkchannel Pathway
 3 Solve the Equation
 4 Barkchannel Pathway
-1 Klothys, God of Destiny
-3 Sulfur Falls
-3 Abrade
-4 Hinterland Harbor
-4 Sulfur Falls
-1 Blast Zone
 1 Bonecrusher Giant
 1 Augur of Bolas
+1 Blast Zone
 1 Negate
 2 Negate
 2 Blast Zone
-2 Bonecrusher Giant
 2 Fabled Passage
+2 Bonecrusher Giant
 2 Augur of Bolas
 4 Island
+1 Klothys, God of Destiny
+3 Sulfur Falls
+3 Abrade
+4 Sulfur Falls
+4 Hinterland Harbor
+1 Assassin's Trophy
 1 Aether Hub
 1 Blooming Marsh
 1 Zagoth Triome
@@ -117,7 +118,6 @@
 1 Grim Tutor
 1 Tamiyo, Collector of Tales
 1 Dragonskull Summit
-1 Assassin's Trophy
 1 Blood Crypt
 1 Thoughtseize
 1 Mastermind's Acquisition
@@ -133,11 +133,11 @@
 4 Thoughtseize
 4 Grim Tutor
 1 Rockfall Vale
-1 Galvanic Iteration
-1 Sundown Pass
 1 Raugrin Triome
 1 Ancient Ziggurat
+1 Galvanic Iteration
 1 Prosperous Innkeeper
+1 Sundown Pass
 1 Skyclave Apparition
 1 Hallowed Fountain
 1 Inquisitor Captain

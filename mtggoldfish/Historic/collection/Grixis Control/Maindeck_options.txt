@@ -111,12 +111,12 @@
 2 Unholy Heat
 3 Unholy Heat
 3 Blightstep Pathway
-1 Omen of the Sea
 1 Temple of Epiphany
 1 Omen of the Forge
 1 Chainer's Edict
-2 Omen of the Sea
+1 Omen of the Sea
 2 Ugin, the Ineffable
+2 Omen of the Sea
 2 Temple of Epiphany
 2 The Eldest Reborn
 2 Omen of the Forge
@@ -153,23 +153,23 @@
 1 Field of Ruin
 1 Siphon Insight
 1 Saw It Coming
-1 Valki, God of Lies
 1 Professor Onyx
 1 Absorb Energy
 1 Crux of Fate
+1 Valki, God of Lies
 2 Field of Ruin
 2 Commit/Memory
-2 Saw It Coming
 2 Siphon Insight
+2 Saw It Coming
 2 Crux of Fate
 2 Valki, God of Lies
 2 Absorb Energy
 1 Bojuka Bog
 1 Bloodchief's Thirst
 1 Coldsteel Heart
+2 Clearwater Pathway
 2 Bloodchief's Thirst
 2 Coldsteel Heart
-2 Clearwater Pathway
 3 Island
 2 Shadows' Verdict
 3 Shadows' Verdict
@@ -190,10 +190,22 @@
 2 Cling to Dust
 2 The Scarab God
 4 Censor
+1 God-Eternal Kefnet
+1 Jwari Disruption
+1 Enter the God-Eternals
+1 Commence the Endgame
+1 Torment of Hailfire
+1 Dark Intimations
+1 Interplanar Beacon
+1 Tezzeret the Schemer
+1 Shatterskull Smashing
+1 Fraying Omnipotence
+2 Jwari Disruption
+4 Narset, Parter of Veils
 1 Angrath, the Flame-Chained
 1 Waste Not
-2 Castle Locthwain
 2 Hive of the Eye Tyrant
+2 Castle Locthwain
 2 Go Blank
 2 Angrath, the Flame-Chained
 2 Davriel, Rogue Shadowmage
@@ -204,13 +216,13 @@
 1 Gifted Aetherborn
 2 Chandra, Awakened Inferno
 2 Gifted Aetherborn
-3 Mountain
 3 Swamp
+3 Mountain
 3 Gifted Aetherborn
 4 Gifted Aetherborn
 4 Eliminate
-1 Bloodthirsty Adversary
 1 The Meathook Massacre
+1 Bloodthirsty Adversary
 2 Bloodthirsty Adversary
 3 Haunted Ridge
 4 Haunted Ridge
@@ -224,18 +236,6 @@
 4 Sinister Sabotage
 4 Fetid Pools
 4 Grasp of Darkness
-1 God-Eternal Kefnet
-1 Jwari Disruption
-1 Enter the God-Eternals
-1 Commence the Endgame
-1 Torment of Hailfire
-1 Dark Intimations
-1 Interplanar Beacon
-1 Tezzeret the Schemer
-1 Shatterskull Smashing
-1 Fraying Omnipotence
-2 Jwari Disruption
-4 Narset, Parter of Veils
 1 Stormcarved Coast
 1 Beacon Bolt
 2 Stormcarved Coast
@@ -266,8 +266,8 @@
 4 Kalain, Reclusive Painter
 4 Treasure Map
 1 Torrential Gearhulk
-1 Erebos's Intervention
 1 Hour of Devastation
+1 Erebos's Intervention
 1 Supreme Will
 1 Rekindling Phoenix
 2 Rekindling Phoenix
