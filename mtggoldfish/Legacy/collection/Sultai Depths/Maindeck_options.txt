@@ -110,8 +110,8 @@
 3 Wasteland
 1 Witherbloom Command
 2 Witherbloom Command
-3 Witherbloom Command
 3 Sylvan Library
+3 Witherbloom Command
 3 Stifle
 4 Duress
 1 Bloodstained Mire
@@ -140,16 +140,12 @@
 4 Exhume
 4 Shallow Grave
 4 Entomb
-1 Witherbloom Apprentice
-1 Chain of Smog
-2 Witherbloom Apprentice
-2 Chain of Smog
-3 Witherbloom Apprentice
-3 Chain of Smog
-3 Sylvan Safekeeper
-4 Witherbloom Apprentice
-4 Bayou
-4 Chain of Smog
+1 Crucible of Worlds
+3 Snow-Covered Swamp
+4 Snow-Covered Swamp
+5 Snow-Covered Swamp
+6 Snow-Covered Swamp
+7 Snow-Covered Swamp
 1 Karn, the Great Creator
 1 Infernal Tutor
 1 Opposition Agent
@@ -165,9 +161,13 @@
 4 Infernal Tutor
 8 Swamp
 9 Swamp
-1 Crucible of Worlds
-3 Snow-Covered Swamp
-4 Snow-Covered Swamp
-5 Snow-Covered Swamp
-6 Snow-Covered Swamp
-7 Snow-Covered Swamp
+1 Chain of Smog
+1 Witherbloom Apprentice
+2 Chain of Smog
+2 Witherbloom Apprentice
+3 Chain of Smog
+3 Witherbloom Apprentice
+3 Sylvan Safekeeper
+4 Witherbloom Apprentice
+4 Bayou
+4 Chain of Smog

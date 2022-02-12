@@ -33,7 +33,7 @@
 |                     |             |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)       |
 |                     |             |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)       |
 |                     |             |                    2|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)     |
-|                     |             |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)       |
 |                     |             |                    3|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)     |
+|                     |             |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)       |
 |                     |             |                    1|[Leyline of Combustion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466902)     |
 

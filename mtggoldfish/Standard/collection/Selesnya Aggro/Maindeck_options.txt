@@ -39,8 +39,8 @@
 1 Sungold Sentinel
 2 Sungold Sentinel
 1 Maul of the Skyclaves
-1 Makindi Stampede
 1 Rally the Ranks
+1 Makindi Stampede
 1 Yasharn, Implacable Earth
 3 Join the Dance
 1 Emeria's Call
@@ -63,19 +63,19 @@
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 1 Savior of Ollenbock
+1 Prosperous Innkeeper
 1 Cleric Class
 1 Righteous Valkyrie
 1 Trelasarra, Moon Dancer
-1 Prosperous Innkeeper
+2 Prosperous Innkeeper
 2 Righteous Valkyrie
 2 Trelasarra, Moon Dancer
-2 Prosperous Innkeeper
-3 Righteous Valkyrie
 3 Prosperous Innkeeper
 3 Trelasarra, Moon Dancer
-4 Righteous Valkyrie
+3 Righteous Valkyrie
 4 Prosperous Innkeeper
 4 Trelasarra, Moon Dancer
+4 Righteous Valkyrie
 3 Sungold Sentinel
 3 Snakeskin Veil
 4 Snakeskin Veil
@@ -90,10 +90,10 @@
 2 Faceless Haven
 2 Torens, Fist of the Angels
 3 Cave of the Frost Dragon
-1 Laid to Rest
 1 Wedding Announcement
-2 Laid to Rest
+1 Laid to Rest
 2 Wedding Announcement
+2 Laid to Rest
 3 Laid to Rest
 1 Snow-Covered Forest
 2 Snow-Covered Forest
@@ -116,11 +116,27 @@
 3 Kabira Takedown
 4 Chaplain of Alms
 4 Sungold Sentinel
+1 Augur of Autumn
+1 By Invitation Only
+1 Sunset Revelry
+1 Doomskar
+1 Varis, Silverymoon Ranger
+2 Doomskar
+2 Augur of Autumn
+2 By Invitation Only
+2 Sunset Revelry
+3 Wedding Announcement
+3 Sunset Revelry
+3 Doomskar
+4 Wedding Announcement
+4 Lair of the Hydra
+4 Cave of the Frost Dragon
+4 Sunset Revelry
 1 Toski, Bearer of Secrets
 2 Cleric Class
 2 Toski, Bearer of Secrets
-3 Valorous Stance
 3 Skyclave Apparition
+3 Valorous Stance
 4 Valorous Stance
 4 Skyclave Apparition
 4 Sigarda, Champion of Light
@@ -136,22 +152,6 @@
 3 Search Party Captain
 4 Field of Ruin
 4 Search Party Captain
-1 Sunset Revelry
-1 Augur of Autumn
-1 By Invitation Only
-1 Doomskar
-1 Varis, Silverymoon Ranger
-2 Sunset Revelry
-2 Augur of Autumn
-2 By Invitation Only
-2 Doomskar
-3 Sunset Revelry
-3 Wedding Announcement
-3 Doomskar
-4 Cave of the Frost Dragon
-4 Sunset Revelry
-4 Lair of the Hydra
-4 Wedding Announcement
 2 Emeria's Call
 3 Emeria's Call
 3 Ambitious Farmhand
@@ -166,16 +166,16 @@
 7 Forest
 8 Forest
 9 Forest
-1 Clarion Spirit
 1 Blizzard Brawl
+1 Clarion Spirit
 1 Snarling Wolf
 1 Kitesail Cleric
 1 Divine Gambit
 1 Arctic Treeline
 1 Timberland Guide
 1 Fateful Absence
-2 Clarion Spirit
 2 Blizzard Brawl
+2 Clarion Spirit
 2 Fateful Absence
 2 Snarling Wolf
 2 Timberland Guide

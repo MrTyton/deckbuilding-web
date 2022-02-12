@@ -33,12 +33,6 @@
 2 Frostboil Snarl
 7 Island
 1 Thirst for Discovery
-1 Dissipate
-1 Thundering Rebuke
-1 Consuming Tide
-2 Alchemist's Gambit
-2 Thundering Rebuke
-3 Alchemist's Gambit
 1 Draconic Intervention
 1 Magma Opus
 2 Magma Opus
@@ -51,15 +45,21 @@
 2 Lier, Disciple of the Drowned
 2 Demon Bolt
 3 Demon Bolt
+1 Thundering Rebuke
+1 Dissipate
+1 Consuming Tide
+2 Thundering Rebuke
+2 Alchemist's Gambit
+3 Alchemist's Gambit
 1 Syncopate
 1 Mystic Reflection
-1 Burn Down the House
 1 Reckless Stormseeker
+1 Burn Down the House
 2 Syncopate
 2 Mystic Reflection
 2 Den of the Bugbear
-2 Burn Down the House
 2 Reckless Stormseeker
+2 Burn Down the House
 2 Galvanic Iteration
 2 Into the Roil
 3 Galvanic Iteration
@@ -73,23 +73,23 @@
 2 Prismari Campus
 3 Prismari Campus
 4 Prismari Campus
-1 Consider
 1 Otherworldly Gaze
-1 Play with Fire
 1 Kessig Flamebreather
 1 Igneous Inspiration
 1 Roil Eruption
+1 Play with Fire
+1 Consider
 1 Reckless Impulse
-2 Consider
-2 Play with Fire
 2 Otherworldly Gaze
+2 Play with Fire
 2 Igneous Inspiration
 2 Roil Eruption
 2 Reckless Impulse
 2 Kessig Flamebreather
+2 Consider
 2 Galazeth Prismari
-3 Consider
 3 Reckless Impulse
+3 Consider
 3 Otherworldly Gaze
 3 Kessig Flamebreather
 3 Roil Eruption
