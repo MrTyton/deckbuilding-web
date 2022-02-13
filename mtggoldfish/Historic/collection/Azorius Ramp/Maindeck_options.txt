@@ -1,7 +1,7 @@
-1 Brazen Borrower
 1 Doomskar
 1 Fabled Passage
 1 The Raven's Warning
+1 Brazen Borrower
 2 Brazen Borrower
 2 Doomskar
 2 The Raven's Warning
@@ -15,9 +15,9 @@
 3 Divine Purge
 3 The Raven's Warning
 4 Stifle
+4 Brazen Borrower
 4 Strict Proctor
 4 Teferi's Protection
-4 Brazen Borrower
 4 Island
 3 Hengegate Pathway
 4 Hallowed Fountain
@@ -39,11 +39,9 @@
 1 Thought Monitor
 1 Interplanar Beacon
 1 Spire of Industry
-2 Field of Ruin
 2 Mox Amber
 2 Karn, the Great Creator
 2 Treasure Vault
-2 Mind Stone
 2 Narset, Parter of Veils
 2 Ugin, the Spirit Dragon
 2 Crawling Barrens
@@ -52,19 +50,21 @@
 2 Ulamog, the Ceaseless Hunger
 2 Esper Sentinel
 2 Interplanar Beacon
+2 Mind Stone
+2 Field of Ruin
 2 Thought Monitor
 2 Tezzeret, Artifice Master
 2 Spire of Industry
 3 Narset, Parter of Veils
-3 Wrath of God
-3 Mind Stone
 3 Esper Sentinel
+3 Wrath of God
 3 Thought Monitor
+3 Mind Stone
 3 Coldsteel Heart
+4 Wrath of God
 4 Hengegate Pathway
 4 Thought Monitor
 4 Esper Sentinel
-4 Wrath of God
 1 Niv-Mizzet, Parun
 1 Jwari Disruption
 1 Commit/Memory
@@ -76,8 +76,8 @@
 2 Bojuka Bog
 3 Fateful Absence
 3 Archmage's Charm
-1 Divide by Zero
 1 Silundi Vision
+1 Divide by Zero
 1 Shark Typhoon
 1 Geistchanneler
 4 Key to the Archive

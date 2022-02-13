@@ -77,9 +77,9 @@
 3 Flunk
 3 Crippling Fear
 4 Crippling Fear
+1 Yuan-Ti Malison
 1 Mind Flayer
 1 You Find the Villains' Lair
-1 Yuan-Ti Malison
 1 Wizard Class
 2 Wizard Class
 2 You Find the Villains' Lair
@@ -120,41 +120,34 @@
 1 Sorin the Mirthless
 1 Sea Gate Restoration
 1 Anticognition
+1 Inscription of Ruin
+2 Hagra Mauling
 1 Syncopate
 1 Mirrorhall Mimic
 2 Syncopate
-1 Inscription of Ruin
-2 Hagra Mauling
 1 The Meathook Massacre
 1 Demogorgon's Clutches
 2 Demogorgon's Clutches
 2 The Meathook Massacre
 3 Darkbore Pathway
 1 Malakir Rebirth
-1 Curse of Leeches
 1 Bloodline Culling
-2 Malakir Rebirth
-2 Curse of Leeches
+1 Curse of Leeches
 2 Grazilaxx, Illithid Scholar
+2 Malakir Rebirth
 2 Bloodline Culling
+2 Curse of Leeches
 3 Soul Shatter
 3 Grazilaxx, Illithid Scholar
 3 Bloodline Culling
-1 Spectral Adversary
-1 Consider
-2 Spectral Adversary
-2 Consider
-3 Spectral Adversary
-3 Concerted Defense
-4 Spectral Adversary
 1 Inspired Idea
 1 Graveyard Trespasser
 1 Lash of Malice
-2 Graveyard Trespasser
 2 Inspired Idea
+2 Graveyard Trespasser
 2 Lash of Malice
-3 Graveyard Trespasser
 3 Inspired Idea
+3 Graveyard Trespasser
 4 Graveyard Trespasser
 2 Dread Fugue
 3 Hive of the Eye Tyrant
@@ -177,6 +170,7 @@
 3 Glacial Grasp
 4 Power Word Kill
 4 Acquisitions Expert
+1 Devious Cover-Up
 1 Blood on the Snow
 1 Rogue Class
 1 Feed the Swarm
@@ -191,7 +185,6 @@
 1 Tyrite Sanctum
 1 Reject
 1 Lolth, Spider Queen
-1 Devious Cover-Up
 2 Eaten Alive
 2 Rogue Class
 2 Varragoth, Bloodsky Sire
@@ -208,6 +201,13 @@
 4 Infernal Grasp
 4 Glasspool Mimic
 4 Agadeem's Awakening
+1 Spectral Adversary
+1 Consider
+2 Spectral Adversary
+2 Consider
+3 Concerted Defense
+3 Spectral Adversary
+4 Spectral Adversary
 1 Into the Roil
 2 Disdainful Stroke
 9 Snow-Covered Swamp
@@ -217,9 +217,9 @@
 2 Morbid Opportunist
 3 Hero's Downfall
 3 Morbid Opportunist
+4 Evolving Wilds
 4 Hero's Downfall
 4 Negate
-4 Evolving Wilds
 4 Morbid Opportunist
 10 Swamp
 1 Mischievous Catgeist

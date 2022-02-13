@@ -89,8 +89,8 @@
 1 Archon of Emeria
 2 Archon of Emeria
 2 Disenchant
-1 Speaker of the Heavens
 1 Selfless Savior
+1 Speaker of the Heavens
 2 Soul-Guide Lantern
 1 Reidane, God of the Worthy
 1 Shapers' Sanctuary
@@ -114,13 +114,10 @@
 2 Lurrus of the Dream-Den
 3 Grafdigger's Cage
 3 Leyline of Sanctity
-1 Ajani, Adversary of Tyrants
-2 Ajani, Adversary of Tyrants
-3 Light of Hope
 1 Fateful Absence
+1 Bloodchief's Thirst
 1 Dawnbringer Cleric
 1 Blessed Defiance
-1 Bloodchief's Thirst
 1 Soulmender
 1 Valentin, Dean of the Vein
 2 Fateful Absence
@@ -130,9 +127,9 @@
 2 Soulmender
 3 Bloodchief's Thirst
 3 Dawnbringer Cleric
-1 Aerial Assault
-2 Mangara, the Diplomat
-3 Banishing Light
+1 Ajani, Adversary of Tyrants
+2 Ajani, Adversary of Tyrants
+3 Light of Hope
 1 Fall of the Thran
 1 Valorous Stance
 2 Valorous Stance
@@ -157,12 +154,15 @@
 1 Doomskar
 1 Cosmos Elixir
 1 Cliffhaven Kitesail
-2 Cosmos Elixir
 2 Doomskar
 2 Tormod's Crypt
+2 Cosmos Elixir
 2 Cliffhaven Kitesail
 3 Tormod's Crypt
 3 Authority of the Consuls
+1 Aerial Assault
+2 Mangara, the Diplomat
+3 Banishing Light
 3 Yasharn, Implacable Earth
 3 Drannith Magistrate
 4 Thalia, Guardian of Thraben
@@ -170,8 +170,8 @@
 1 Command the Dreadhorde
 1 Virulent Plague
 2 Leyline of the Void
-3 Timely Reinforcements
 3 Leyline of the Void
+3 Timely Reinforcements
 4 Leyline of the Void
 4 Timely Reinforcements
 1 Mana Tithe

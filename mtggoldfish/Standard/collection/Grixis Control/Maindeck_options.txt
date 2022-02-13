@@ -35,14 +35,14 @@
 1 Skullport Merchant
 2 Skullport Merchant
 3 Saw It Coming
-1 Alrund's Epiphany
 1 Galazeth Prismari
 1 Kalain, Reclusive Painter
-2 Alrund's Epiphany
+1 Alrund's Epiphany
 2 Galazeth Prismari
+2 Alrund's Epiphany
 2 Kalain, Reclusive Painter
-3 Alrund's Epiphany
 3 Kalain, Reclusive Painter
+3 Alrund's Epiphany
 4 Alrund's Epiphany
 4 Kalain, Reclusive Painter
 1 Alchemist's Gambit
@@ -69,20 +69,20 @@
 2 Thirst for Discovery
 1 Thundering Rebuke
 3 Island
-1 Olivia, Crimson Bride
 1 Negate
 1 Return Upon the Tide
+1 Olivia, Crimson Bride
 2 Toxrill, the Corrosive
+2 Cathartic Pyre
 2 Negate
 2 Olivia, Crimson Bride
 2 Return Upon the Tide
-2 Cathartic Pyre
-3 Toxrill, the Corrosive
 3 Cathartic Pyre
+3 Toxrill, the Corrosive
 3 Olivia, Crimson Bride
 3 Return Upon the Tide
-4 Return Upon the Tide
 4 Cathartic Pyre
+4 Return Upon the Tide
 2 Dread Fugue
 3 Power Word Kill
 1 Demon Bolt
@@ -113,49 +113,49 @@
 1 Disdainful Stroke
 1 Cyclone Summoner
 2 Valki, God of Lies
-1 You Find the Villains' Lair
 1 Syncopate
+1 You Find the Villains' Lair
 1 Hero's Downfall
 1 Bloodthirsty Adversary
 2 You Find the Villains' Lair
-2 Syncopate
 2 Demon Bolt
+2 Syncopate
 2 Hero's Downfall
 1 Consuming Tide
 1 Malakir Rebirth
 1 Honored Heirloom
-2 Behold the Multiverse
 2 Malakir Rebirth
+2 Behold the Multiverse
 2 Consuming Tide
 1 Check for Traps
 1 Pelakka Predation
 2 Check for Traps
 1 Shatterskull Smashing
 1 Otherworldly Gaze
-2 Otherworldly Gaze
 2 Shatterskull Smashing
+2 Otherworldly Gaze
 3 Otherworldly Gaze
 2 Sedgemoor Witch
-3 Sedgemoor Witch
 3 Galvanic Iteration
+3 Sedgemoor Witch
 3 Cinderclasm
-1 Eyetwitch
-1 Morkrut Behemoth
-2 Den of the Bugbear
-2 Eyetwitch
-2 Morkrut Behemoth
-3 The Meathook Massacre
-3 Eyetwitch
-3 Abrade
-3 Path of Peril
-3 Morkrut Behemoth
-4 Infernal Grasp
-4 Eyetwitch
 1 Cemetery Illuminator
 2 Cemetery Illuminator
 3 Lier, Disciple of the Drowned
 3 Hall of Storm Giants
 4 Power Word Kill
+1 Eyetwitch
+1 Morkrut Behemoth
+2 Eyetwitch
+2 Den of the Bugbear
+2 Morkrut Behemoth
+3 Path of Peril
+3 Abrade
+3 Eyetwitch
+3 The Meathook Massacre
+3 Morkrut Behemoth
+4 Eyetwitch
+4 Infernal Grasp
 3 Dread Fugue
 4 Dread Fugue
 1 Battle of Frost and Fire
@@ -178,46 +178,46 @@
 2 Sorin the Mirthless
 2 Soul Shatter
 2 Creative Outburst
-3 Field of Ruin
 3 Magma Opus
+3 Field of Ruin
 3 Draconic Intervention
 3 Soul Shatter
 3 Creative Outburst
+4 Magma Opus
 4 Field of Ruin
 4 Draconic Intervention
 4 Creative Outburst
 4 Soul Shatter
-4 Magma Opus
 1 Baleful Mastery
-1 Cosmos Elixir
 1 Jace, Mirror Mage
-1 Inferno of the Star Mounts
+1 Cosmos Elixir
 1 Crawling Barrens
 1 Poison the Cup
+1 Inferno of the Star Mounts
 1 Alrund, God of the Cosmos
+1 Lithoform Engine
 1 Varragoth, Bloodsky Sire
 1 Blood on the Snow
-1 Vengeful Reaper
 1 Xanathar, Guild Kingpin
 1 Test of Talents
 1 Blood Pact
-1 Lithoform Engine
 1 Umbral Juke
+1 Vengeful Reaper
 1 Nighthawk Scavenger
 2 Baleful Mastery
 2 Poison the Cup
-2 Vengeful Reaper
 2 Blood on the Snow
+2 Vengeful Reaper
 2 Blood Pact
 2 Test of Talents
 2 Nighthawk Scavenger
 3 Blood on the Snow
-3 Vengeful Reaper
 3 Nighthawk Scavenger
 3 Poison the Cup
+3 Vengeful Reaper
 4 Saw It Coming
-4 Nighthawk Scavenger
 4 Island
+4 Nighthawk Scavenger
 5 Island
 6 Island
 8 Island
