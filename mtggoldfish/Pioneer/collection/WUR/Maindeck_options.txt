@@ -1,30 +1,10 @@
-4 Narset, Parter of Veils
-2 Shark Typhoon
-1 Steam Vents
-1 Sacred Foundry
-1 Chained to the Rocks
-1 Raugrin Triome
-2 Steam Vents
-2 Sacred Foundry
-2 Chained to the Rocks
-2 Raugrin Triome
-3 Steam Vents
-3 Sacred Foundry
-3 Raugrin Triome
-3 Chained to the Rocks
-4 Steam Vents
-4 Sacred Foundry
-4 Raugrin Triome
-4 Chained to the Rocks
-1 Omen of the Sea
-2 Omen of the Sea
-3 Omen of the Sea
 4 Omen of the Sea
-3 Shark Typhoon
+2 Shark Typhoon
 1 Ketria Triome
 2 Ketria Triome
 1 Fabled Passage
 2 Fabled Passage
+3 Shark Typhoon
 1 Fires of Invention
 1 The Birth of Meletis
 2 Fires of Invention
@@ -36,38 +16,40 @@
 4 Shark Typhoon
 4 The Birth of Meletis
 4 Fires of Invention
-1 Deafening Clarion
 1 The Raven's Warning
-1 Esika's Chariot
 1 Transmogrify
-1 Cast Out
+1 Esika's Chariot
 1 Sunpetal Grove
 1 Hinterland Harbor
 1 Agent of Treachery
+1 Deafening Clarion
 2 The Raven's Warning
 2 Transmogrify
 2 Deafening Clarion
-2 Hinterland Harbor
-2 Cast Out
 2 Sunpetal Grove
 2 Esika's Chariot
 2 Agent of Treachery
+3 Transmogrify
 3 The Raven's Warning
 3 Esika's Chariot
 3 Ketria Triome
-3 Transmogrify
 4 Transmogrify
 4 The Raven's Warning
 4 Esika's Chariot
 4 Ketria Triome
-2 Hall of Storm Giants
-1 Settle the Wreckage
-2 Deserted Beach
-3 Deafening Clarion
-4 Irrigated Farmland
+1 Cast Out
+2 Hinterland Harbor
+2 Cast Out
 1 Mountain
-3 Field of Ruin
+1 Settle the Wreckage
+3 Deafening Clarion
+2 Hall of Storm Giants
+4 Irrigated Farmland
+2 Deserted Beach
 3 Plains
+1 Forest
+1 Rip Apart
+3 Field of Ruin
 1 Anger of the Gods
 1 Snow-Covered Forest
 1 Snow-Covered Mountain
@@ -95,11 +77,8 @@
 4 Indomitable Creativity
 4 Omen of the Sun
 4 Stormcarved Coast
-1 Rip Apart
-1 Memory Deluge
-1 Portable Hole
-1 Forest
 1 Sulfur Falls
+1 Memory Deluge
 1 Clifftop Retreat
 1 Secure the Wastes
 2 Valakut Awakening
@@ -110,22 +89,24 @@
 2 Expressive Iteration
 3 Expressive Iteration
 5 Island
+1 Portable Hole
 1 Fateful Absence
-2 Portable Hole
-2 Memory Deluge
 1 Opt
 2 Opt
 3 Opt
 4 Opt
 1 Hullbreaker Horror
-1 Cave of the Frost Dragon
 4 Absorb
+1 Cave of the Frost Dragon
 2 Fateful Absence
-1 Geier Reach Sanitarium
+2 Portable Hole
 3 Deserted Beach
 1 Elspeth, Sun's Champion
 1 Torrential Gearhulk
+2 Memory Deluge
 4 Deserted Beach
+1 Geier Reach Sanitarium
+2 Rip Apart
 2 Anger of the Gods
 2 Elspeth, Sun's Nemesis
 2 Sundown Pass
@@ -135,18 +116,18 @@
 4 Expressive Iteration
 1 Mystical Dispute
 2 Mystical Dispute
+1 Aether Gust
+2 Aether Gust
 6 Island
 7 Island
-1 Search for Azcanta
 3 Castle Vantress
 1 Solve the Equation
 1 Volatile Fjord
 1 Alpine Meadow
-2 Rip Apart
+1 March of Otherworldly Light
+2 March of Otherworldly Light
 1 Scavenger Grounds
 2 Seal Away
-1 Aether Gust
-2 Aether Gust
 3 Castle Ardenvale
 1 Watery Grave
 1 Swamp
@@ -163,8 +144,6 @@
 2 Sinister Sabotage
 3 Sinister Sabotage
 3 Watery Grave
-3 Fateful Absence
-4 Fateful Absence
 1 Skyclave Cleric
 1 Hengegate Pathway
 2 Hengegate Pathway

@@ -1,12 +1,13 @@
 2 Fatal Push
-2 Lightning Bolt
 2 Steam Vents
+2 Lightning Bolt
 1 Snow-Covered Swamp
 4 Scalding Tarn
 1 Snow-Covered Mountain
+3 Lightning Bolt
 2 Kolaghan's Command
 1 Terminate
-3 Lightning Bolt
+4 Lightning Bolt
 1 Temur Battle Rage
 1 Scourge of the Skyclaves
 2 Temur Battle Rage
@@ -27,7 +28,6 @@
 4 Lava Dart
 4 Monastery Swiftspear
 4 Soul-Scar Mage
-4 Lightning Bolt
 1 Verdant Catacombs
 1 Stomping Ground
 2 Verdant Catacombs
@@ -38,10 +38,11 @@
 1 Marsh Flats
 2 Marsh Flats
 3 Marsh Flats
+1 Spell Pierce
 1 Snapcaster Mage
 2 Snapcaster Mage
-2 Terminate
 2 Swamp
+2 Terminate
 1 Dismember
 2 Dismember
 4 Blood Crypt
@@ -52,10 +53,23 @@
 3 Temur Battle Rage
 3 Become Immense
 4 Mutagenic Growth
+1 Wooded Foothills
+1 Nurturing Peatland
+1 Overgrown Tomb
+1 Tarmogoyf
+2 Wooded Foothills
+2 Tarmogoyf
+3 Wooded Foothills
+3 Inquisition of Kozilek
+3 Tarmogoyf
+4 Inquisition of Kozilek
+4 Wooded Foothills
+4 Verdant Catacombs
+4 Tarmogoyf
 1 Prismatic Ending
 1 Vindicate
-1 Godless Shrine
 1 Esper Sentinel
+1 Godless Shrine
 1 Sacred Foundry
 2 Prismatic Ending
 2 Vindicate
@@ -68,42 +82,29 @@
 4 Prismatic Ending
 4 Arid Mesa
 4 Esper Sentinel
-1 Wooded Foothills
-1 Nurturing Peatland
-1 Overgrown Tomb
-1 Tarmogoyf
-2 Wooded Foothills
-2 Tarmogoyf
-3 Wooded Foothills
-3 Inquisition of Kozilek
-3 Tarmogoyf
-4 Wooded Foothills
-4 Verdant Catacombs
-4 Tarmogoyf
-4 Inquisition of Kozilek
+1 Thought Scour
 1 Counterspell
 1 Consider
 1 Murktide Regent
 1 Delver of Secrets
-1 Thought Scour
 1 Flooded Strand
 1 Street Wraith
+2 Thought Scour
 2 Counterspell
 2 Consider
 2 Murktide Regent
 2 Delver of Secrets
-2 Thought Scour
 2 Flooded Strand
 2 Street Wraith
+3 Thought Scour
 3 Counterspell
 3 Consider
-3 Watery Grave
 3 Delver of Secrets
-3 Thought Scour
 3 Murktide Regent
 3 Fatal Push
 3 Flooded Strand
 3 Street Wraith
+3 Watery Grave
 4 Thought Scour
 4 Murktide Regent
 4 Consider

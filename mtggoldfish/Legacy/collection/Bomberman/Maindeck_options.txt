@@ -1,10 +1,10 @@
-2 Malevolent Hermit
 3 Malevolent Hermit
+1 Blast Zone
 4 Malevolent Hermit
 4 Stonecoil Serpent
+1 Ancient Den
 1 Ingenious Smith
 2 Ingenious Smith
-1 Ancient Den
 2 Ancient Den
 3 Ancient Den
 3 Spatial Contortion
@@ -26,7 +26,6 @@
 2 Island
 3 Island
 4 Island
-2 Blast Zone
 4 Ingenious Smith
 1 Vault of Whispers
 2 Vault of Whispers
@@ -37,9 +36,13 @@
 1 Urza's Bauble
 2 Urza's Bauble
 3 Urza's Bauble
-4 Azorius Signet
 1 Scrubland
 2 Scrubland
+2 Blast Zone
+1 Patchwork Automaton
+2 Patchwork Automaton
+3 Patchwork Automaton
+4 Patchwork Automaton
 4 Mox Opal
 4 Urza's Bauble
 1 Flooded Strand
@@ -49,6 +52,8 @@
 2 Monastery Mentor
 3 Monastery Mentor
 4 Mishra's Bauble
+1 Otawara, Soaring City
+2 Otawara, Soaring City
 1 Urborg, Tomb of Yawgmoth
 2 Urborg, Tomb of Yawgmoth
 1 Ethersworn Canonist
@@ -67,6 +72,9 @@
 1 Kaervek, the Spiteful
 2 Kaervek, the Spiteful
 3 Kaervek, the Spiteful
+1 Kappa Cannoneer
+2 Kappa Cannoneer
+3 Kappa Cannoneer
 1 Retrofitter Foundry
 1 Esper Sentinel
 1 Defense Grid
@@ -75,10 +83,4 @@
 4 Esper Sentinel
 2 Plains
 4 Monastery Mentor
-1 Patchwork Automaton
-1 Kappa Cannoneer
-2 Kappa Cannoneer
-2 Patchwork Automaton
-3 Patchwork Automaton
-3 Kappa Cannoneer
-4 Patchwork Automaton
+4 Azorius Signet
