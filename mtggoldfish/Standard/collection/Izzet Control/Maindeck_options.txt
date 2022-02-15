@@ -32,10 +32,10 @@
 1 Cathartic Pyre
 3 Hall of Storm Giants
 2 Shatterskull Smashing
-1 Magmatic Channeler
 1 Play with Fire
-2 Magmatic Channeler
+1 Magmatic Channeler
 2 Play with Fire
+2 Magmatic Channeler
 3 Magmatic Channeler
 4 Magmatic Channeler
 3 Galvanic Iteration
@@ -50,9 +50,9 @@
 1 Delver of Secrets
 2 Reckless Impulse
 2 Delver of Secrets
+3 Thundering Rebuke
 3 Reckless Impulse
 3 Delver of Secrets
-3 Thundering Rebuke
 4 Reckless Impulse
 4 Delver of Secrets
 1 Inspired Idea
@@ -67,8 +67,8 @@
 4 Play with Fire
 4 Eruth, Tormented Prophet
 3 Behold the Multiverse
-4 Field of Ruin
 4 Behold the Multiverse
+4 Field of Ruin
 1 Saw It Coming
 3 Frostboil Snarl
 4 Frostboil Snarl
@@ -90,30 +90,30 @@
 3 Burn Down the House
 2 Battle of Frost and Fire
 1 Crackle with Power
+1 Galazeth Prismari
 1 Sea Gate Restoration
 1 Treasure Vault
 1 Hall of Oracles
 1 Tyrite Sanctum
 1 Suspicious Stowaway
-1 Vadrik, Astral Archmage
-1 Magma Opus
 1 Crawling Barrens
-1 Galazeth Prismari
 1 Wizard's Spellbook
+1 Magma Opus
 1 Forsaken Monument
+1 Vadrik, Astral Archmage
 1 The Biblioplex
 2 Galazeth Prismari
-2 Magma Opus
 2 The Biblioplex
 2 Forsaken Monument
+2 Magma Opus
 2 Crackle with Power
 2 Vadrik, Astral Archmage
 3 The Celestus
-3 Galazeth Prismari
-3 Magma Opus
 3 Forsaken Monument
 3 Vadrik, Astral Archmage
+3 Galazeth Prismari
 3 Crackle with Power
+3 Magma Opus
 4 Magma Opus
 1 Flame-Blessed Bolt
 1 Rending Flame
@@ -127,17 +127,17 @@
 1 The Reality Chip
 2 Lantern of the Lost
 4 Galvanic Iteration
-1 Iymrith, Desert Doom
-2 Iymrith, Desert Doom
-4 Jwari Disruption
 1 Evolving Wilds
 2 Cathartic Pyre
 2 Evolving Wilds
 3 Cinderclasm
 3 Evolving Wilds
 4 Evolving Wilds
-1 Dissipate
+1 Iymrith, Desert Doom
+2 Iymrith, Desert Doom
+4 Jwari Disruption
 1 Heated Debate
+1 Dissipate
 2 Dissipate
 2 Disdainful Stroke
 2 Heated Debate
@@ -158,20 +158,20 @@
 1 Snow-Covered Mountain
 1 Manaform Hellkite
 1 Thirst for Discovery
-1 Snow-Covered Island
 1 Faceless Haven
+1 Snow-Covered Island
 2 Snow-Covered Mountain
 2 Frost Bite
 2 Manaform Hellkite
 2 Thirst for Discovery
-2 Snow-Covered Island
 2 Faceless Haven
+2 Snow-Covered Island
 3 Snow-Covered Mountain
 3 Frost Bite
+3 Abrade
 3 Thirst for Discovery
 3 Syncopate
 3 Snow-Covered Island
-3 Abrade
 4 Snow-Covered Mountain
 4 Snow-Covered Island
 5 Snow-Covered Mountain
@@ -189,8 +189,8 @@
 3 Spectral Adversary
 3 Battle of Frost and Fire
 3 Valakut Awakening
-4 Spectral Adversary
 4 Memory Deluge
+4 Spectral Adversary
 4 Burn Down the House
 4 Valakut Awakening
 4 Hall of Storm Giants

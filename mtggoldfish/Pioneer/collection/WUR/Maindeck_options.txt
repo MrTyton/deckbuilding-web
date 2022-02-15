@@ -1,5 +1,3 @@
-4 Omen of the Sea
-2 Shark Typhoon
 1 Ketria Triome
 2 Ketria Triome
 1 Fabled Passage
@@ -37,16 +35,18 @@
 4 The Raven's Warning
 4 Esika's Chariot
 4 Ketria Triome
+1 Seal Away
+4 Teferi, Hero of Dominaria
 1 Cast Out
 2 Hinterland Harbor
 2 Cast Out
 1 Mountain
-1 Settle the Wreckage
 3 Deafening Clarion
-2 Hall of Storm Giants
 4 Irrigated Farmland
-2 Deserted Beach
+1 Settle the Wreckage
+2 Hall of Storm Giants
 3 Plains
+2 Deserted Beach
 1 Forest
 1 Rip Apart
 3 Field of Ruin
@@ -59,12 +59,12 @@
 3 Snow-Covered Plains
 4 Censor
 1 Omen of the Sun
+1 Sundown Pass
 1 Valakut Awakening
 1 Stormcarved Coast
 1 Elspeth, Sun's Nemesis
 1 Fire Prophecy
 1 Indomitable Creativity
-1 Sundown Pass
 1 Sage of the Falls
 1 The Locust God
 2 Stormcarved Coast
@@ -77,8 +77,8 @@
 4 Indomitable Creativity
 4 Omen of the Sun
 4 Stormcarved Coast
-1 Sulfur Falls
 1 Memory Deluge
+1 Sulfur Falls
 1 Clifftop Retreat
 1 Secure the Wastes
 2 Valakut Awakening
@@ -90,20 +90,23 @@
 3 Expressive Iteration
 5 Island
 1 Portable Hole
+4 Absorb
 1 Fateful Absence
 1 Opt
 2 Opt
 3 Opt
 4 Opt
 1 Hullbreaker Horror
-4 Absorb
-1 Cave of the Frost Dragon
-2 Fateful Absence
-2 Portable Hole
-3 Deserted Beach
 1 Elspeth, Sun's Champion
-1 Torrential Gearhulk
+1 Cave of the Frost Dragon
+2 Portable Hole
 2 Memory Deluge
+2 Fateful Absence
+3 Deserted Beach
+1 Mystical Dispute
+1 March of Otherworldly Light
+2 March of Otherworldly Light
+1 Torrential Gearhulk
 4 Deserted Beach
 1 Geier Reach Sanitarium
 2 Rip Apart
@@ -114,19 +117,20 @@
 3 Elspeth, Sun's Nemesis
 3 Mountain
 4 Expressive Iteration
-1 Mystical Dispute
 2 Mystical Dispute
 1 Aether Gust
 2 Aether Gust
 6 Island
 7 Island
+1 Eiganjo, Seat of the Empire
+1 Otawara, Soaring City
 3 Castle Vantress
 1 Solve the Equation
 1 Volatile Fjord
 1 Alpine Meadow
-1 March of Otherworldly Light
-2 March of Otherworldly Light
 1 Scavenger Grounds
+1 The Wandering Emperor
+2 The Wandering Emperor
 2 Seal Away
 3 Castle Ardenvale
 1 Watery Grave
@@ -144,6 +148,8 @@
 2 Sinister Sabotage
 3 Sinister Sabotage
 3 Watery Grave
+3 Fateful Absence
+4 Fateful Absence
 1 Skyclave Cleric
 1 Hengegate Pathway
 2 Hengegate Pathway

@@ -38,8 +38,8 @@
 |                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)        |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                    1|[Rootbound Crag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420934)    |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                    2|[Rootbound Crag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420934)    |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                    1|[Wolf-Skull Shaman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152728) |                    1|[Endurance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522233)          |
-|                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094) |                    2|[Endurance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522233)          |
+|                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094) |                    1|[Endurance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522233)          |
+|                    1|[Wolf-Skull Shaman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152728) |                    2|[Endurance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522233)          |
 |                    2|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094) |                    3|[Endurance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522233)          |
 |                    2|[Den of the Bugbear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527541)|                    4|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)   |
 

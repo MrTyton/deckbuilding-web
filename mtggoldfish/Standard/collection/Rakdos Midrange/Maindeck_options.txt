@@ -1,5 +1,5 @@
-2 Blood on the Snow
 2 Snow-Covered Swamp
+2 Blood on the Snow
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
@@ -124,8 +124,8 @@
 2 Crush the Weak
 1 Moonveil Regent
 1 Spikefield Hazard
-2 Spikefield Hazard
 2 Moonveil Regent
+2 Spikefield Hazard
 3 Moonveil Regent
 4 Shatterskull Smashing
 1 Manaform Hellkite
@@ -136,18 +136,18 @@
 2 Valentin, Dean of the Vein
 4 Bloodthirsty Adversary
 2 Orcus, Prince of Undeath
-1 Shadows' Verdict
 1 Hero's Downfall
+1 Shadows' Verdict
 1 Immersturm Skullcairn
 2 Shadows' Verdict
 2 Hero's Downfall
 3 Hero's Downfall
 1 Olivia, Crimson Bride
 1 Lunar Frenzy
-1 Flunk
-2 Flunk
 1 Hagra Mauling
 2 Hagra Mauling
+1 Flunk
+2 Flunk
 1 Magda, Brazen Outlaw
 2 Magda, Brazen Outlaw
 1 Reckless Impulse
@@ -163,12 +163,6 @@
 3 Play with Fire
 3 Dragonkin Berserker
 3 Ebondeath, Dracolich
-1 Orb of Dragonkind
-2 Soul Shatter
-2 Orb of Dragonkind
-3 Hive of the Eye Tyrant
-3 Orb of Dragonkind
-4 Hive of the Eye Tyrant
 1 Cemetery Gatekeeper
 1 Roil Eruption
 1 Voldaren Estate
@@ -181,6 +175,11 @@
 2 Abrade
 3 Abrade
 4 Abrade
+1 Malakir Rebirth
+2 Malakir Rebirth
+3 Crush the Weak
+4 Moonveil Regent
+4 Crush the Weak
 1 Vampires' Vengeance
 1 Voldaren Bloodcaster
 2 Vampires' Vengeance
@@ -190,8 +189,8 @@
 1 Scourge of the Skyclaves
 2 Kazuul's Fury
 2 Scourge of the Skyclaves
-3 Kazuul's Fury
 3 Henrika Domnathi
+3 Kazuul's Fury
 3 Scourge of the Skyclaves
 4 Kazuul's Fury
 1 Fireblade Charger
@@ -202,11 +201,13 @@
 3 Fireblade Charger
 4 Extus, Oriq Overlord
 4 Fireblade Charger
-1 Malakir Rebirth
-2 Malakir Rebirth
-3 Crush the Weak
-4 Crush the Weak
-4 Moonveil Regent
+1 Needleverge Pathway
+1 Brightclimb Pathway
+2 Needleverge Pathway
+2 Brightclimb Pathway
+3 Brightclimb Pathway
+4 Brightclimb Pathway
+4 Tainted Adversary
 1 Seize the Spoils
 1 Inferno of the Star Mounts
 2 Inferno of the Star Mounts
@@ -241,10 +242,9 @@
 9 Swamp
 9 Mountain
 10 Mountain
-1 Brightclimb Pathway
-1 Needleverge Pathway
-2 Needleverge Pathway
-2 Brightclimb Pathway
-3 Brightclimb Pathway
-4 Brightclimb Pathway
-4 Tainted Adversary
+1 Orb of Dragonkind
+2 Soul Shatter
+2 Orb of Dragonkind
+3 Orb of Dragonkind
+3 Hive of the Eye Tyrant
+4 Hive of the Eye Tyrant

@@ -91,12 +91,12 @@
 3 You Find the Villains' Lair
 4 Wizard Class
 4 You Find the Villains' Lair
-1 Alrund's Epiphany
 1 Darkbore Pathway
+1 Alrund's Epiphany
 1 Barkchannel Pathway
 2 Alrund's Epiphany
-2 Barkchannel Pathway
 2 Darkbore Pathway
+2 Barkchannel Pathway
 3 Alrund's Epiphany
 3 Barkchannel Pathway
 4 Divide by Zero
@@ -160,6 +160,27 @@
 3 Maddening Cacophony
 4 Maddening Cacophony
 4 Tasha's Hideous Laughter
+1 Spell Pierce
+1 Takenuma, Abandoned Mire
+1 Kaito Shizuki
+1 Blade of the Oni
+1 Return to Action
+1 Network Disruptor
+1 Dismal Backwater
+1 Silver-Fur Master
+2 Spell Pierce
+2 Kaito Shizuki
+2 Blade of the Oni
+2 Network Disruptor
+2 Dismal Backwater
+2 Return to Action
+2 Silver-Fur Master
+3 Kaito Shizuki
+3 Blade of the Oni
+3 Silver-Fur Master
+4 Blade of the Oni
+4 Silver-Fur Master
+4 Kaito Shizuki
 1 Devious Cover-Up
 1 Blood on the Snow
 1 Rogue Class
@@ -208,27 +229,6 @@
 3 Glacial Grasp
 4 Acquisitions Expert
 4 Power Word Kill
-1 Spell Pierce
-1 Kaito Shizuki
-1 Takenuma, Abandoned Mire
-1 Return to Action
-1 Network Disruptor
-1 Dismal Backwater
-1 Silver-Fur Master
-1 Blade of the Oni
-2 Spell Pierce
-2 Kaito Shizuki
-2 Network Disruptor
-2 Dismal Backwater
-2 Return to Action
-2 Silver-Fur Master
-2 Blade of the Oni
-3 Kaito Shizuki
-3 Blade of the Oni
-3 Silver-Fur Master
-4 Silver-Fur Master
-4 Kaito Shizuki
-4 Blade of the Oni
 1 Into the Roil
 2 Disdainful Stroke
 9 Snow-Covered Swamp
@@ -238,9 +238,9 @@
 2 Morbid Opportunist
 3 Hero's Downfall
 3 Morbid Opportunist
-4 Evolving Wilds
 4 Hero's Downfall
 4 Negate
+4 Evolving Wilds
 4 Morbid Opportunist
 10 Swamp
 1 Mischievous Catgeist

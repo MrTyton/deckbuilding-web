@@ -46,9 +46,9 @@
 |                    1|[Retrofitter Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=450658)    |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
 |                    1|[Meltdown](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10466)                |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|
 |                    2|[Life from the Loam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338409)     |                    1|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45431)          |
-|                    1|[Dragon's Rage Channeler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522197)|                    1|[Meltdown](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10466)       |
+|                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)         |                    1|[Meltdown](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10466)       |
+|                    1|[Dragon's Rage Channeler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522197)|                     |                                                                                         |
 |                    2|[Dragon's Rage Channeler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522197)|                     |                                                                                         |
 |                    3|[Dragon's Rage Channeler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522197)|                     |                                                                                         |
 |                    4|[Dragon's Rage Channeler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522197)|                     |                                                                                         |
-|                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)         |                     |                                                                                         |
 

@@ -1,25 +1,25 @@
-4 Chancellor of the Annex
-3 Swamp
-3 Archon of Cruelty
-4 Thoughtseize
 3 Badlands
-1 Underground Sea
-4 Archon of Cruelty
-3 Verdant Catacombs
+3 Thoughtseize
+3 Archon of Cruelty
 3 Grief
+4 Thoughtseize
+3 Verdant Catacombs
+3 Swamp
+4 Archon of Cruelty
+1 Underground Sea
+4 Grief
 4 Verdant Catacombs
 3 Polluted Delta
 4 Polluted Delta
-4 Grief
+1 Snow-Covered Swamp
 3 Marsh Flats
+1 Bayou
 4 Swamp
 5 Swamp
-1 Bayou
-3 Bloodstained Mire
-1 Snow-Covered Swamp
 1 Cabal Therapy
 1 Dance of the Dead
 2 Dance of the Dead
+3 Bloodstained Mire
 4 Bloodstained Mire
 1 Vilis, Broker of Blood
 6 Swamp
@@ -37,17 +37,13 @@
 8 Swamp
 9 Swamp
 1 Iona, Shield of Emeria
-1 Collective Brutality
-2 Collective Brutality
 2 Snow-Covered Swamp
 3 Snow-Covered Swamp
-4 Marsh Flats
 1 Chain of Smog
 2 Chain of Smog
 2 Bayou
+4 Marsh Flats
 1 Castle Locthwain
-1 Chrome Mox
-2 Chrome Mox
 1 Oona, Queen of the Fae
 3 Worldgorger Dragon
 4 Piranha Marsh
@@ -67,10 +63,13 @@
 10 Snow-Covered Swamp
 11 Snow-Covered Swamp
 12 Snow-Covered Swamp
+1 Collective Brutality
+2 Collective Brutality
 10 Swamp
-1 Sire of Insanity
-1 Elesh Norn, Grand Cenobite
+1 Tendrils of Agony
+1 Children of Korlis
 1 Witherbloom Apprentice
+1 Elesh Norn, Grand Cenobite
 1 Godless Shrine
 2 Scrubland
 1 Duress
@@ -96,25 +95,17 @@
 1 Woodfall Primus
 1 Mountain
 1 Void Winnower
+1 Chrome Mox
 1 It That Betrays
 2 Woodfall Primus
+2 Chrome Mox
 3 Collective Brutality
 3 Chrome Mox
 4 Collective Brutality
 4 Badlands
-1 Persist
-2 Persist
-3 Unmarked Grave
-3 Persist
-4 Persist
-4 Unmarked Grave
-13 Snow-Covered Swamp
-14 Snow-Covered Swamp
-15 Snow-Covered Swamp
-16 Snow-Covered Swamp
 1 Thespian's Stage
-1 Dark Depths
 1 Ashen Rider
+1 Dark Depths
 1 Rotting Regisaur
 1 Urborg, Tomb of Yawgmoth
 1 Vampire Hexmage
@@ -126,8 +117,18 @@
 3 Vampire Hexmage
 3 Dark Depths
 3 Urborg, Tomb of Yawgmoth
+4 Dark Depths
 4 Vampire Hexmage
 11 Swamp
 12 Swamp
 13 Swamp
-4 Dark Depths
+1 Persist
+2 Persist
+3 Unmarked Grave
+3 Persist
+4 Persist
+13 Snow-Covered Swamp
+14 Snow-Covered Swamp
+15 Snow-Covered Swamp
+16 Snow-Covered Swamp
+4 Unmarked Grave

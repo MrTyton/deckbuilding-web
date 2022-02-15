@@ -1,4 +1,4 @@
-1 Thoughtcast
+4 Urza, Lord High Artificer
 1 Soul-Guide Lantern
 3 Island
 1 Scalding Tarn
@@ -39,8 +39,8 @@
 1 Steam Vents
 2 Engineered Explosives
 3 Razortide Bridge
-1 Goblin Engineer
 1 Sacred Foundry
+1 Goblin Engineer
 2 Goblin Engineer
 3 Goblin Engineer
 4 Goblin Engineer
@@ -50,6 +50,7 @@
 4 Teferi, Time Raveler
 4 Counterspell
 4 Chalice of the Void
+1 Arid Mesa
 1 Oswald Fiddlebender
 2 Oswald Fiddlebender
 2 Sacred Foundry
@@ -63,24 +64,23 @@
 3 Thraben Inspector
 3 Springleaf Drum
 4 Thraben Inspector
-1 Sword of Fire and Ice
 1 Aether Vial
-1 Arid Mesa
 2 Aether Vial
 3 Aether Vial
 4 Aether Vial
-1 Remand
 1 Ephemerate
-1 Snow-Covered Plains
 1 Snow-Covered Island
-2 Remand
+1 Snow-Covered Plains
+1 Remand
 2 Snow-Covered Plains
 2 Ephemerate
+2 Remand
 3 Ephemerate
 3 Darksteel Citadel
 4 Darksteel Citadel
 1 Ensnaring Bridge
 2 Chromatic Star
+1 Sword of Fire and Ice
 4 Metallic Rebuke
 1 Academy Ruins
 2 Polluted Delta
@@ -99,10 +99,10 @@
 4 Razortide Bridge
 1 Field of Ruin
 1 Grafdigger's Cage
+1 Batterskull
 1 Void Mirror
 1 Torpor Orb
 1 Spellskite
-1 Batterskull
 1 Glacial Fortress
 1 Inventors' Fair
 1 Damping Sphere

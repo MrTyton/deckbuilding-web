@@ -4,15 +4,15 @@
 2 Light Up the Stage
 3 Light Up the Stage
 4 Light Up the Stage
-1 Zurgo Bellstriker
 1 Spikefield Hazard
 4 Chandra, Dressed to Kill
 2 Spikefield Hazard
 3 Spikefield Hazard
 4 Spikefield Hazard
+1 Zurgo Bellstriker
+16 Mountain
 1 Torbran, Thane of Red Fell
 2 Torbran, Thane of Red Fell
-16 Mountain
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
 3 Rampaging Ferocidon
@@ -20,10 +20,10 @@
 17 Mountain
 1 Skewer the Critics
 2 Skewer the Critics
+3 Skewer the Critics
 1 Glorybringer
 2 Glorybringer
 3 Glorybringer
-3 Skewer the Critics
 1 Ghitu Lavarunner
 1 Wild Slash
 2 Ghitu Lavarunner
@@ -32,13 +32,12 @@
 2 Wild Slash
 3 Wild Slash
 4 Wild Slash
+4 Skewer the Critics
 3 Torbran, Thane of Red Fell
 1 Wizard's Lightning
 2 Wizard's Lightning
-4 Skewer the Critics
 1 Mizzium Mortars
 2 Mizzium Mortars
-1 Kari Zev, Skyship Raider
 3 Wizard's Lightning
 4 Wizard's Lightning
 1 Reckless Impulse
@@ -48,8 +47,18 @@
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
+1 Kari Zev, Skyship Raider
 1 Mutavault
 2 Reckless Impulse
+1 Lava Coil
+1 Steam Vents
+1 Spirebluff Canal
+2 Spirebluff Canal
+2 Steam Vents
+3 Spirebluff Canal
+3 Steam Vents
+4 Spirebluff Canal
+4 Steam Vents
 1 Blast Zone
 2 Kari Zev, Skyship Raider
 2 Mutavault
@@ -57,28 +66,22 @@
 4 Mutavault
 1 Scab-Clan Berserker
 2 Scab-Clan Berserker
-1 Steam Vents
-1 Riverglide Pathway
-1 Spirebluff Canal
-1 Expressive Iteration
-2 Spirebluff Canal
-2 Riverglide Pathway
-2 Expressive Iteration
-2 Steam Vents
-3 Spirebluff Canal
-3 Riverglide Pathway
-3 Steam Vents
-3 Expressive Iteration
-4 Riverglide Pathway
-4 Steam Vents
-4 Spirebluff Canal
-4 Expressive Iteration
-1 Lava Coil
 2 Lava Coil
-3 Scab-Clan Berserker
-1 Sprite Dragon
 1 Shivan Reef
 2 Shivan Reef
+1 Riverglide Pathway
+1 Expressive Iteration
+2 Riverglide Pathway
+2 Expressive Iteration
+3 Riverglide Pathway
+3 Expressive Iteration
+4 Riverglide Pathway
+4 Expressive Iteration
+1 Sokenzan, Crucible of Defiance
+1 Flame-Blessed Bolt
+2 Flame-Blessed Bolt
+3 Scab-Clan Berserker
+1 Sprite Dragon
 2 Sprite Dragon
 3 Sprite Dragon
 4 Sprite Dragon
@@ -88,6 +91,15 @@
 3 Runaway Steam-Kin
 4 Reckless Impulse
 4 Runaway Steam-Kin
+1 Stormwing Entity
+1 Voldaren Epicure
+1 Treasure Cruise
+2 Voldaren Epicure
+2 Treasure Cruise
+3 Shivan Reef
+3 Voldaren Epicure
+3 Treasure Cruise
+4 Shivan Reef
 1 Shatterskull Smashing
 1 Chandra, Fire Artisan
 1 Light Up the Night
