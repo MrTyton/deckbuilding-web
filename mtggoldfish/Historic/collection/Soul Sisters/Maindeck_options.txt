@@ -82,8 +82,8 @@
 1 Gods Willing
 1 Faceless Haven
 1 Snow-Covered Plains
-2 Faceless Haven
 2 Snow-Covered Plains
+2 Faceless Haven
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
@@ -141,11 +141,6 @@
 3 Shadowspear
 1 Glory-Bound Initiate
 1 Oketra the True
-1 Benalish Marshal
-2 Benalish Marshal
-2 Giant Killer
-2 Gods Willing
-3 Benalish Marshal
 1 Search for Glory
 2 Emeria's Call
 3 Emeria's Call
@@ -155,41 +150,46 @@
 1 Luminarch Aspirant
 2 Luminarch Aspirant
 3 Luminarch Aspirant
+1 Benalish Marshal
+2 Giant Killer
+2 Gods Willing
+2 Benalish Marshal
+3 Benalish Marshal
 1 Reidane, God of the Worthy
 1 Youthful Valkyrie
 2 Youthful Valkyrie
 4 Skyclave Apparition
 4 Banishing Light
-1 Elspeth, Sun's Nemesis
 1 Erebos's Intervention
+1 Elspeth, Sun's Nemesis
 1 Oath of Kaya
+1 Godless Shrine
 1 Angelic Ascension
 1 Castle Locthwain
 1 Isolated Chapel
 1 Linvala, Keeper of Silence
-1 Godless Shrine
 1 Temple of Silence
 2 Erebos's Intervention
 2 Oath of Kaya
 2 Elspeth, Sun's Nemesis
+2 Godless Shrine
 2 Isolated Chapel
 2 Angelic Ascension
-2 Godless Shrine
 2 Temple of Silence
 2 Castle Locthwain
 2 Linvala, Keeper of Silence
 3 Isolated Chapel
 3 Oath of Kaya
+3 Godless Shrine
 3 Temple of Silence
 3 Scoured Barrens
-3 Godless Shrine
-4 Isolated Chapel
 4 Godless Shrine
+4 Isolated Chapel
 4 Temple of Silence
 1 Mazemind Tome
 1 Fight as One
-2 Fight as One
 2 Selfless Savior
+2 Fight as One
 3 Selfless Savior
 4 Selfless Savior
 1 Hunted Witness
@@ -204,8 +204,8 @@
 3 Cave of the Frost Dragon
 3 Rally for the Throne
 3 Anointed Chorister
-4 Cave of the Frost Dragon
 4 Anointed Chorister
+4 Cave of the Frost Dragon
 4 Rally for the Throne
 1 Ajani's Welcome
 2 Ajani's Welcome
@@ -239,19 +239,19 @@
 1 Elite Spellbinder
 1 Shattered Sanctum
 1 Cleric Class
-1 Valkyrie Harbinger
 1 Brightclimb Pathway
+1 Valkyrie Harbinger
 1 Voice of the Blessed
 1 Swamp
 1 Lunarch Veteran
 1 Kor Celebrant
 1 Banehound
 2 Elite Spellbinder
+2 Brightclimb Pathway
 2 Cleric Class
 2 Banehound
 2 Kor Celebrant
 2 Lunarch Veteran
-2 Brightclimb Pathway
 2 Swamp
 2 Voice of the Blessed
 3 Cleric Class
@@ -278,14 +278,14 @@
 2 Prosperous Innkeeper
 2 Scurry Oak
 3 Ranger-Captain of Eos
+3 Forest
 3 Prosperous Innkeeper
 3 Scurry Oak
 3 Cathars' Crusade
 3 Trelasarra, Moon Dancer
-3 Forest
 4 Prosperous Innkeeper
 4 Ranger-Captain of Eos
 4 Forest
 4 Scurry Oak
-4 Trelasarra, Moon Dancer
 5 Forest
+4 Trelasarra, Moon Dancer

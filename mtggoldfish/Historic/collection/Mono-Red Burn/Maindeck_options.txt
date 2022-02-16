@@ -24,10 +24,6 @@
 2 Chandra, Dressed to Kill
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
-2 Spikefield Hazard
-3 Spikefield Hazard
-4 Spikefield Hazard
-4 Dragon's Rage Channeler
 1 Forgotten Cave
 1 Thermo-Alchemist
 1 Shock
@@ -36,8 +32,12 @@
 2 Shock
 3 Thermo-Alchemist
 3 Shock
-4 Shock
 4 Thermo-Alchemist
+4 Shock
+2 Spikefield Hazard
+3 Spikefield Hazard
+4 Dragon's Rage Channeler
+4 Spikefield Hazard
 1 Needleverge Pathway
 1 Clever Lumimancer
 1 Rockfall Vale
@@ -66,19 +66,6 @@
 4 Lightning Helix
 4 Temple Garden
 4 Sacred Foundry
-1 Roil Eruption
-1 Slaying Fire
-1 The Flame of Keld
-1 Flame Channeler
-2 Roil Eruption
-2 Slaying Fire
-2 Flame Channeler
-2 The Flame of Keld
-3 Roil Eruption
-3 Flame Channeler
-4 Roil Eruption
-4 Pillar of Flame
-4 Flame Channeler
 1 Experimental Frenzy
 1 Rootbound Crag
 1 Grim Lavamancer
@@ -97,10 +84,23 @@
 1 Goblin Chainwhirler
 2 Bonecrusher Giant
 2 Goblin Chainwhirler
+3 Lightning Strike
 3 Bonecrusher Giant
 3 Goblin Chainwhirler
-3 Lightning Strike
 4 Bomat Courier
 4 Goblin Chainwhirler
 4 Lightning Strike
 4 Bonecrusher Giant
+1 Flame Channeler
+1 Roil Eruption
+1 Slaying Fire
+1 The Flame of Keld
+2 Flame Channeler
+2 Roil Eruption
+2 Slaying Fire
+2 The Flame of Keld
+3 Flame Channeler
+3 Roil Eruption
+4 Flame Channeler
+4 Pillar of Flame
+4 Roil Eruption

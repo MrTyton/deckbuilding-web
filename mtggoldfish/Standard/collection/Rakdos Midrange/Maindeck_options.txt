@@ -1,54 +1,53 @@
-2 Snow-Covered Swamp
+2 Snow-Covered Mountain
 2 Blood on the Snow
+2 Snow-Covered Swamp
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
+2 Valki, God of Lies
 1 Sulfurous Mire
 2 Sulfurous Mire
-2 Lolth, Spider Queen
-6 Swamp
-2 Den of the Bugbear
 3 Blood on the Snow
 1 Skullport Merchant
 2 Skullport Merchant
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
+6 Snow-Covered Mountain
+4 Mountain
+8 Snow-Covered Swamp
+2 Florian, Voldaren Scion
 3 Infernal Grasp
 3 Skullport Merchant
-1 Sorin the Mirthless
-1 Agadeem's Awakening
-4 Mountain
-6 Snow-Covered Mountain
-8 Snow-Covered Swamp
-1 Faceless Haven
-2 Faceless Haven
-3 Faceless Haven
-4 Faceless Haven
 1 Concealing Curtains
 2 Concealing Curtains
 3 Concealing Curtains
-2 Agadeem's Awakening
+1 Sorin the Mirthless
+1 Agadeem's Awakening
+1 Faceless Haven
+2 Faceless Haven
+3 Faceless Haven
 4 Blood on the Snow
-3 Sulfurous Mire
-4 Sulfurous Mire
+4 Faceless Haven
+4 Concealing Curtains
 4 Deadly Dispute
 1 Field of Ruin
 2 Field of Ruin
-4 Concealing Curtains
+2 Agadeem's Awakening
+3 Sulfurous Mire
+4 Sulfurous Mire
+4 Graveyard Trespasser
 3 Shatterskull Smashing
-1 Bloodvial Purveyor
-2 Bloodvial Purveyor
 4 Infernal Grasp
-3 Florian, Voldaren Scion
-7 Swamp
-1 Soul Shatter
 1 Frost Bite
 2 Frost Bite
+3 Florian, Voldaren Scion
+7 Swamp
 1 Power Word Kill
-4 Graveyard Trespasser
+1 Bloodvial Purveyor
+2 Bloodvial Purveyor
 1 Dragon's Fire
 2 Dragon's Fire
 3 Dragon's Fire
@@ -58,18 +57,20 @@
 9 Snow-Covered Swamp
 1 Bloodthirsty Adversary
 2 Bloodthirsty Adversary
-1 Eyetwitch
-2 Eyetwitch
-3 Eyetwitch
 5 Mountain
 4 The Meathook Massacre
-1 Orcus, Prince of Undeath
+1 Soul Shatter
 3 Agadeem's Awakening
 3 Bloodthirsty Adversary
 1 Ebondeath, Dracolich
+1 Bloodchief's Thirst
+2 Bloodchief's Thirst
+1 Eyetwitch
 1 Fell Stinger
 2 Fell Stinger
+2 Eyetwitch
 3 Fell Stinger
+3 Eyetwitch
 4 Fell Stinger
 4 Skullport Merchant
 1 Professor Onyx
@@ -80,7 +81,6 @@
 3 Valki, God of Lies
 1 Dread Fugue
 2 Dread Fugue
-3 Bloodvial Purveyor
 1 Henrika Domnathi
 1 Vampire Socialite
 1 Falkenrath Pit Fighter
@@ -89,43 +89,73 @@
 3 Vampire Socialite
 4 Vampire Socialite
 4 Agadeem's Awakening
+1 Orcus, Prince of Undeath
 6 Mountain
+1 Abrade
+2 Abrade
+3 Abrade
+4 Abrade
+1 Hagra Mauling
+2 Hagra Mauling
+3 Hive of the Eye Tyrant
+8 Swamp
+1 Takenuma, Abandoned Mire
+1 Junji, the Midnight Sky
+1 Soul Transfer
+1 Sokenzan, Crucible of Defiance
+1 Invoke Despair
+1 Reckoner Bankbuster
+1 Crippling Fear
+1 Biting-Palm Ninja
+1 The Celestus
+1 Bloodfell Caves
+2 The Celestus
+2 Junji, the Midnight Sky
+2 Invoke Despair
+2 Reckoner Bankbuster
+2 Soul Transfer
+2 Crippling Fear
+2 Bloodfell Caves
+2 Biting-Palm Ninja
+3 Reckoner Bankbuster
+3 Invoke Despair
+3 Bloodfell Caves
+4 Reckoner Bankbuster
+4 Invoke Despair
+4 Bloodfell Caves
 4 Lolth, Spider Queen
 4 Valki, God of Lies
 10 Snow-Covered Swamp
-1 Bloodchief's Thirst
-2 Bloodchief's Thirst
 1 Volatile Arsonist
 2 Volatile Arsonist
-2 Ebondeath, Dracolich
 1 Baleful Mastery
 2 Baleful Mastery
-4 Eyetwitch
-1 Light Up the Night
+2 Ebondeath, Dracolich
 1 Nighthawk Scavenger
 2 Nighthawk Scavenger
 2 Power Word Kill
 2 Henrika Domnathi
 3 Dread Fugue
-1 Play with Fire
-2 Play with Fire
 1 Bloodtithe Harvester
 2 Bloodtithe Harvester
 3 Bloodtithe Harvester
+1 Play with Fire
+2 Play with Fire
+3 Falkenrath Pit Fighter
+4 Falkenrath Pit Fighter
 1 Tainted Adversary
 2 Tainted Adversary
 3 Tainted Adversary
+3 Bloodvial Purveyor
 4 Bloodvial Purveyor
-3 Falkenrath Pit Fighter
-4 Falkenrath Pit Fighter
 1 Kazuul's Fury
 4 Dragon's Fire
 1 Crush the Weak
 2 Crush the Weak
 1 Moonveil Regent
 1 Spikefield Hazard
-2 Moonveil Regent
 2 Spikefield Hazard
+2 Moonveil Regent
 3 Moonveil Regent
 4 Shatterskull Smashing
 1 Manaform Hellkite
@@ -136,20 +166,22 @@
 2 Valentin, Dean of the Vein
 4 Bloodthirsty Adversary
 2 Orcus, Prince of Undeath
-1 Hero's Downfall
 1 Shadows' Verdict
+1 Hero's Downfall
 1 Immersturm Skullcairn
 2 Shadows' Verdict
 2 Hero's Downfall
 3 Hero's Downfall
 1 Olivia, Crimson Bride
-1 Lunar Frenzy
-1 Hagra Mauling
-2 Hagra Mauling
 1 Flunk
 2 Flunk
 1 Magda, Brazen Outlaw
 2 Magda, Brazen Outlaw
+1 Dragonkin Berserker
+1 Light Up the Night
+2 Dragonkin Berserker
+3 Play with Fire
+3 Dragonkin Berserker
 1 Reckless Impulse
 1 Zariel, Archduke of Avernus
 1 Shatterskull Charger
@@ -158,23 +190,20 @@
 2 Shatterskull Charger
 3 Reckless Impulse
 3 Zariel, Archduke of Avernus
-1 Dragonkin Berserker
-2 Dragonkin Berserker
-3 Play with Fire
-3 Dragonkin Berserker
 3 Ebondeath, Dracolich
 1 Cemetery Gatekeeper
 1 Roil Eruption
 1 Voldaren Estate
-2 Roil Eruption
 2 Cemetery Gatekeeper
+2 Roil Eruption
 3 Roil Eruption
 3 Cemetery Gatekeeper
 4 Cemetery Gatekeeper
-1 Abrade
-2 Abrade
-3 Abrade
-4 Abrade
+1 Orb of Dragonkind
+2 Soul Shatter
+2 Orb of Dragonkind
+3 Orb of Dragonkind
+4 Hive of the Eye Tyrant
 1 Malakir Rebirth
 2 Malakir Rebirth
 3 Crush the Weak
@@ -193,18 +222,10 @@
 3 Kazuul's Fury
 3 Scourge of the Skyclaves
 4 Kazuul's Fury
-1 Fireblade Charger
-1 Extus, Oriq Overlord
-2 Fireblade Charger
-2 Extus, Oriq Overlord
-3 Extus, Oriq Overlord
-3 Fireblade Charger
-4 Extus, Oriq Overlord
-4 Fireblade Charger
-1 Needleverge Pathway
 1 Brightclimb Pathway
-2 Needleverge Pathway
+1 Needleverge Pathway
 2 Brightclimb Pathway
+2 Needleverge Pathway
 3 Brightclimb Pathway
 4 Brightclimb Pathway
 4 Tainted Adversary
@@ -221,30 +242,32 @@
 1 Westgate Regent
 1 Grim Bounty
 1 Magic Missile
+1 Red Dragon
 1 Xorn
 1 Jaded Sell-Sword
-1 Red Dragon
 1 Thieves' Tools
 1 Hoarding Ogre
 1 Hired Hexblade
 1 Sudden Breakthrough
 1 Unwilling Ingredient
 2 Magic Missile
-2 Grim Bounty
 2 Hoarding Ogre
+2 Grim Bounty
 2 Sudden Breakthrough
 2 Hired Hexblade
 2 Jaded Sell-Sword
 3 Hired Hexblade
 7 Mountain
 8 Mountain
-8 Swamp
-9 Swamp
 9 Mountain
+9 Swamp
 10 Mountain
-1 Orb of Dragonkind
-2 Soul Shatter
-2 Orb of Dragonkind
-3 Orb of Dragonkind
-3 Hive of the Eye Tyrant
-4 Hive of the Eye Tyrant
+1 Fireblade Charger
+1 Extus, Oriq Overlord
+2 Fireblade Charger
+2 Extus, Oriq Overlord
+3 Fireblade Charger
+3 Extus, Oriq Overlord
+4 Fireblade Charger
+4 Eyetwitch
+4 Extus, Oriq Overlord
