@@ -1,32 +1,38 @@
 2 Steam Vents
 2 Fatal Push
-2 Lightning Bolt
 1 Snow-Covered Swamp
+2 Lightning Bolt
 1 Snow-Covered Mountain
 4 Scalding Tarn
 2 Kolaghan's Command
+1 Temur Battle Rage
+2 Temur Battle Rage
 3 Lightning Bolt
 4 Lightning Bolt
 1 Terminate
 1 Scourge of the Skyclaves
-1 Temur Battle Rage
 1 Verdant Catacombs
 1 Stomping Ground
 2 Scourge of the Skyclaves
 2 Verdant Catacombs
-2 Temur Battle Rage
 3 Scourge of the Skyclaves
 3 Verdant Catacombs
 4 Scourge of the Skyclaves
-1 Arid Mesa
-2 Arid Mesa
-1 Marsh Flats
-2 Marsh Flats
-3 Marsh Flats
+1 Consider
+2 Consider
 1 Fiery Islet
 1 Spell Pierce
 2 Swamp
 2 Terminate
+1 Snow-Covered Island
+1 Blast Zone
+1 Surgical Extraction
+1 Engineered Explosives
+1 Snapcaster Mage
+2 Snow-Covered Swamp
+2 Surgical Extraction
+2 Snapcaster Mage
+3 Snapcaster Mage
 1 Wooded Foothills
 1 Overgrown Tomb
 1 Tarmogoyf
@@ -42,24 +48,25 @@
 4 Tarmogoyf
 1 Thought Scour
 1 Street Wraith
+1 Marsh Flats
 1 Delver of Secrets
 1 Flooded Strand
 1 Island
-1 Consider
 1 Counterspell
 1 Murktide Regent
 2 Thought Scour
+2 Marsh Flats
 2 Delver of Secrets
 2 Flooded Strand
 2 Counterspell
-2 Consider
 2 Street Wraith
 2 Murktide Regent
-3 Consider
 3 Thought Scour
 3 Delver of Secrets
+3 Marsh Flats
 3 Fatal Push
 3 Flooded Strand
+3 Consider
 3 Street Wraith
 3 Counterspell
 3 Murktide Regent
@@ -71,22 +78,7 @@
 4 Consider
 4 Street Wraith
 4 Watery Grave
-1 Godless Shrine
-1 Vindicate
-1 Esper Sentinel
-1 Prismatic Ending
-1 Sacred Foundry
-2 Godless Shrine
-2 Vindicate
-2 Esper Sentinel
-2 Prismatic Ending
-3 Esper Sentinel
-3 Prismatic Ending
-3 Arid Mesa
-4 Prismatic Ending
-4 Marsh Flats
-4 Esper Sentinel
-4 Arid Mesa
+1 Arid Mesa
 1 Soul-Scar Mage
 1 Lava Dart
 1 Mutagenic Growth
@@ -96,6 +88,7 @@
 2 Become Immense
 2 Lava Dart
 2 Mutagenic Growth
+2 Arid Mesa
 2 Soul-Scar Mage
 2 Monastery Swiftspear
 3 Mutagenic Growth

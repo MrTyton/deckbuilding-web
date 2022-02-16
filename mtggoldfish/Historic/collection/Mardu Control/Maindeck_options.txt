@@ -8,14 +8,14 @@
 2 Isolated Chapel
 4 Godless Shrine
 1 Heartless Act
-1 Nicol Bolas, the Ravager
 1 Nicol Bolas, Dragon-God
+1 Nicol Bolas, the Ravager
 1 Watery Grave
 1 Steam Vents
 1 Drowned Catacomb
 2 Heartless Act
-2 Nicol Bolas, the Ravager
 2 Nicol Bolas, Dragon-God
+2 Nicol Bolas, the Ravager
 2 Steam Vents
 2 Watery Grave
 3 Watery Grave
@@ -30,60 +30,60 @@
 2 March of Otherworldly Light
 1 Darkbore Pathway
 1 Cragcrown Pathway
-2 Cragcrown Pathway
 2 Darkbore Pathway
-1 Klothys, God of Destiny
-1 Rootbound Crag
+2 Cragcrown Pathway
 1 Overgrown Tomb
 1 Bonecrusher Giant
-1 Rockfall Vale
+1 Stomping Ground
 1 Sorin the Mirthless
 1 Scavenging Ooze
+1 Rootbound Crag
+1 Esika's Chariot
 1 Check for Traps
 1 Haunted Ridge
 1 Elder Gargaroth
-1 Vivien, Monsters' Advocate
 1 Maelstrom Pulse
+1 Vivien, Monsters' Advocate
 1 Woodland Cemetery
+1 Klothys, God of Destiny
 1 Valki, God of Lies
-1 Esika's Chariot
 1 Cling to Dust
-1 Stomping Ground
+1 Rockfall Vale
 1 Chevill, Bane of Monsters
 2 Cling to Dust
-2 Sorin the Mirthless
+2 Valki, God of Lies
 2 Haunted Ridge
+2 Sorin the Mirthless
 2 Overgrown Tomb
 2 Bonecrusher Giant
-2 Klothys, God of Destiny
 2 Maelstrom Pulse
-2 Stomping Ground
 2 Woodland Cemetery
 2 Check for Traps
+2 Stomping Ground
+2 Klothys, God of Destiny
 2 Chevill, Bane of Monsters
 2 Vivien, Monsters' Advocate
 2 Rockfall Vale
 2 Esika's Chariot
 2 Scavenging Ooze
 2 Elder Gargaroth
-2 Valki, God of Lies
 3 Bonecrusher Giant
 1 Languish
-1 Angrath, the Flame-Chained
 1 Anger of the Gods
 1 Go Blank
+1 Angrath, the Flame-Chained
 1 Davriel, Rogue Shadowmage
 1 Angrath's Rampage
 1 Clearwater Pathway
-2 Angrath's Rampage
-2 Hive of the Eye Tyrant
-2 Bedevil
 2 Anger of the Gods
 2 Go Blank
 2 Languish
+2 Angrath's Rampage
 2 Angrath, the Flame-Chained
 2 Chandra, Torch of Defiance
 2 Davriel, Rogue Shadowmage
+2 Hive of the Eye Tyrant
+2 Bedevil
 3 Blightstep Pathway
 3 Waste Not
 4 Blightstep Pathway
@@ -96,8 +96,8 @@
 1 Shadows' Verdict
 2 Shadows' Verdict
 2 Drowned Catacomb
-2 Expressive Iteration
 2 Prismari Command
+2 Expressive Iteration
 2 Goblin Dark-Dwellers
 3 Shadows' Verdict
 3 Goblin Dark-Dwellers
@@ -106,47 +106,6 @@
 4 Steam Vents
 4 Dragonskull Summit
 4 Expressive Iteration
-1 Shambling Ghast
-1 Storm's Wrath
-1 Smashing Success
-1 Agonizing Remorse
-1 Waking the Trolls
-1 Rubble Reading
-1 Stone Rain
-1 Gnottvold Slumbermound
-1 Forest
-1 Thrill of Possibility
-1 Field of Ruin
-1 Goblin Ruinblaster
-2 Field of Ruin
-2 Shambling Ghast
-2 Agonizing Remorse
-2 Waking the Trolls
-2 Goblin Ruinblaster
-2 Forest
-2 Smashing Success
-2 Rubble Reading
-2 Storm's Wrath
-2 Gnottvold Slumbermound
-2 Thrill of Possibility
-2 Stone Rain
-2 Mountain
-3 Swamp
-3 Field of Ruin
-3 Shambling Ghast
-3 Gnottvold Slumbermound
-3 Thrill of Possibility
-3 Goblin Ruinblaster
-3 Waking the Trolls
-3 Smashing Success
-3 Stone Rain
-3 Mountain
-4 Swamp
-4 Waking the Trolls
-4 Mountain
-4 Fatal Push
-5 Swamp
-6 Swamp
 1 Kaervek, the Spiteful
 1 Plains
 1 Mazemind Tome
@@ -162,8 +121,8 @@
 1 Vanishing Verse
 1 Clifftop Retreat
 2 Vanishing Verse
-2 Savai Triome
 2 Crippling Fear
+2 Savai Triome
 2 Kaervek, the Spiteful
 2 Strict Proctor
 2 Hushbringer
@@ -171,8 +130,49 @@
 2 Clackbridge Troll
 2 Clifftop Retreat
 3 Strict Proctor
-3 Clackbridge Troll
 3 Hushbringer
-4 Hushbringer
+3 Clackbridge Troll
 4 Strict Proctor
 4 Clackbridge Troll
+4 Hushbringer
+1 Storm's Wrath
+1 Smashing Success
+1 Waking the Trolls
+1 Rubble Reading
+1 Stone Rain
+1 Shambling Ghast
+1 Gnottvold Slumbermound
+1 Agonizing Remorse
+1 Forest
+1 Thrill of Possibility
+1 Field of Ruin
+1 Goblin Ruinblaster
+2 Field of Ruin
+2 Waking the Trolls
+2 Goblin Ruinblaster
+2 Forest
+2 Smashing Success
+2 Rubble Reading
+2 Storm's Wrath
+2 Gnottvold Slumbermound
+2 Thrill of Possibility
+2 Shambling Ghast
+2 Stone Rain
+2 Agonizing Remorse
+2 Mountain
+3 Swamp
+3 Field of Ruin
+3 Gnottvold Slumbermound
+3 Thrill of Possibility
+3 Goblin Ruinblaster
+3 Waking the Trolls
+3 Smashing Success
+3 Shambling Ghast
+3 Stone Rain
+3 Mountain
+4 Swamp
+4 Waking the Trolls
+4 Mountain
+4 Fatal Push
+5 Swamp
+6 Swamp

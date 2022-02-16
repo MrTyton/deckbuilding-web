@@ -96,10 +96,10 @@
 1 Speaker of the Heavens
 2 Soul-Guide Lantern
 2 Authority of the Consuls
-1 Archon of Sun's Grace
 1 Baneslayer Angel
 1 Mentor of the Meek
 1 Soul Warden
+1 Archon of Sun's Grace
 2 Baneslayer Angel
 2 Leonin Warleader
 2 Archon of Sun's Grace
@@ -130,13 +130,6 @@
 2 Heliod's Intervention
 2 Healer's Hawk
 3 The Immortal Sun
-1 Gideon's Sacrifice
-1 Tithe Taker
-2 Tithe Taker
-2 Gideon's Sacrifice
-3 Apostle of Purifying Light
-3 Gideon's Sacrifice
-3 Tithe Taker
 1 Search for Glory
 1 Castle Ardenvale
 1 Ajani's Welcome
@@ -150,6 +143,13 @@
 2 Cliffhaven Kitesail
 3 Tormod's Crypt
 3 Authority of the Consuls
+1 Gideon's Sacrifice
+1 Tithe Taker
+2 Tithe Taker
+2 Gideon's Sacrifice
+3 Gideon's Sacrifice
+3 Tithe Taker
+3 Apostle of Purifying Light
 1 Bloodchief's Thirst
 1 Fateful Absence
 1 Dawnbringer Cleric
@@ -180,5 +180,5 @@
 4 Devout Decree
 4 Portable Hole
 1 Knight of Autumn
-2 Seal Away
 1 Seal Away
+2 Seal Away
