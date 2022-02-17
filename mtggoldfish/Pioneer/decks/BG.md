@@ -1,0 +1,25 @@
+# BG
+
+#### [Export MTGO List](../collection/BG/BG.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blooming%20Marsh%0A4%09Creeping%20Chill%0A4%09Darkbore%20Pathway%0A4%09Deathbonnet%20Sprout%0A4%09Deathrite%20Shaman%0A3%09Driven/Despair%0A3%09Forest%0A1%09Old%20Stickfingers%0A4%09Overgrown%20Tomb%0A4%09Satyr%20Wayfinder%0A4%09Scrapheap%20Scrounger%0A2%09Skyclave%20Shade%0A4%09Stitcher's%20Supplier%0A3%09Swamp%0A1%09Undead%20Butler%0A4%09Willow%20Geist%0A4%09Witherbloom%20Command%0A3%09Woodland%20Cemetery&deckside=2%09Assassin's%20Trophy%0A3%09Duress%0A3%09Fatal%20Push%0A2%09Go%20Blank%0A1%09Lurrus%20of%20the%20Dream-Den%0A2%09Outland%20Liberator%0A2%09Scavenging%20Ooze)
+# Maindeck
+
+|                                         Creature (24)                                          |                                          Land (17)                                           |                                          Sorcery (11)                                          |    Unknown (8)     |
+|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------|
+|4 [Deathrite Shaman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413757)   |4 [Blooming Marsh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417816)   |4 [Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)     |4 Darkbore Pathway  |
+|1 [Old Stickfingers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535030)   |3 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |3 [Driven/Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430846)     |4 Deathbonnet Sprout|
+|4 [Satyr Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378508)    |4 [Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)   |4 [Witherbloom Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513740)|                    |
+|4 [Scrapheap Scrounger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417804)|3 [Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)            |                                                                                                |                    |
+|2 [Skyclave Shade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491763)     |3 [Woodland Cemetery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443136)|                                                                                                |                    |
+|4 [Stitcher's Supplier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447257)|                                                                                              |                                                                                                |                    |
+|1 [Undead Butler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=540985)      |                                                                                              |                                                                                                |                    |
+|4 [Willow Geist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534998)       |                                                                                              |                                                                                                |                    |
+
+
+# Sideboard
+
+|                                            Creature (3)                                            |                                         Instant (5)                                          |                                     Sorcery (5)                                     |    Unknown (2)    |
+|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------|
+|1 [Lurrus of the Dream-Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479746)|2 [Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|3 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)   |2 Outland Liberator|
+|2 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)        |3 [Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)       |2 [Go Blank](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513549)|                   |
+

@@ -1,7 +1,7 @@
 # Shamans
 
 #### [Export MTGO List](../collection/Shamans/Shamans.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Burning-Tree%20Emissary%0A4%09Collected%20Company%0A4%09Copperline%20Gorge%0A4%09Cragcrown%20Pathway%0A4%09Elvish%20Visionary%0A3%09Eternal%20Witness%0A4%09Flamekin%20Harbinger%0A3%09Forest%0A3%09Goblin%20Anarchomancer%0A4%09Harmonic%20Prodigy%0A4%09Ignoble%20Hierarch%0A4%09Lightning%20Bolt%0A3%09Mountain%0A4%09Rage%20Forger%0A4%09Stomping%20Ground%0A4%09Wooded%20Foothills&deckside=1%09Boil%0A2%09Dismember%0A1%09Foundation%20Breaker%0A1%09Klothys,%20God%20of%20Destiny%0A4%09Magus%20of%20the%20Moon%0A3%09Reclamation%20Sage%0A1%09Relic%20of%20Progenitus%0A2%09Void%20Mirror)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Burning-Tree%20Emissary%0A4%09Collected%20Company%0A4%09Copperline%20Gorge%0A4%09Cragcrown%20Pathway%0A4%09Elvish%20Visionary%0A3%09Eternal%20Witness%0A4%09Flamekin%20Harbinger%0A3%09Forest%0A3%09Goblin%20Anarchomancer%0A4%09Harmonic%20Prodigy%0A4%09Ignoble%20Hierarch%0A4%09Lightning%20Bolt%0A3%09Mountain%0A4%09Rage%20Forger%0A4%09Stomping%20Ground%0A4%09Wooded%20Foothills&deckside=2%09Dismember%0A1%09Foundation%20Breaker%0A1%09Klothys,%20God%20of%20Destiny%0A4%09Magus%20of%20the%20Moon%0A3%09Reclamation%20Sage%0A1%09Relic%20of%20Progenitus%0A1%09Scavenging%20Ooze%0A2%09Void%20Mirror)
 # Maindeck
 
 |                                          Creature (30)                                           |                                         Instant (8)                                          |                                          Land (22)                                           |
@@ -18,19 +18,20 @@
 
 # Sideboard
 
-|                                          Artifact (3)                                          |                                            Creature (9)                                            |                                     Instant (3)                                      |
+|                                          Artifact (3)                                          |                                           Creature (10)                                            |                                     Instant (2)                                      |
 |------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-|1 [Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|1 [Foundation Breaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522236)     |1 [Boil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14630)      |
-|2 [Void Mirror](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522318)        |1 [Klothys, God of Destiny](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476471)|2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)|
+|1 [Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|1 [Foundation Breaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522236)     |2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)|
+|2 [Void Mirror](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522318)        |1 [Klothys, God of Destiny](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476471)|                                                                                      |
 |                                                                                                |4 [Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)      |                                                                                      |
 |                                                                                                |3 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)       |                                                                                      |
+|                                                                                                |1 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)        |                                                                                      |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)   |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |
+|                    1|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)   |                    1|[Boil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14630)                |
 |                    1|[Den of the Bugbear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527541)|                    1|[Troll Ascetic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130498)      |
 |                    1|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152) |                    2|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)    |
 |                    2|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)   |                    2|[Boil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14630)                |
