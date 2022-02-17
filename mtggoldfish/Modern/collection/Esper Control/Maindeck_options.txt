@@ -54,8 +54,8 @@
 1 Faithful Mending
 2 Faithful Mending
 1 Thoughtseize
-2 Inquisition of Kozilek
 2 Thoughtseize
+2 Inquisition of Kozilek
 1 Chalice of the Void
 2 Chalice of the Void
 1 Mishra's Bauble
@@ -66,28 +66,28 @@
 1 Fact or Fiction
 3 Misty Rainforest
 1 Marsh Flats
-1 Creeping Tar Pit
 1 Blast Zone
 1 Despark
+1 Creeping Tar Pit
 2 Kaya, Orzhov Usurper
-3 Inquisition of Kozilek
 3 Thoughtseize
+3 Inquisition of Kozilek
 4 Inquisition of Kozilek
-1 Cling to Dust
 1 Engineered Explosives
-1 Thought Scour
-1 Unearth
+1 Cling to Dust
 1 Monastery Mentor
-2 Thought Scour
+1 Unearth
+1 Thought Scour
 2 Monastery Mentor
 2 Unearth
-3 Thought Scour
+2 Thought Scour
 3 Seachrome Coast
+3 Thought Scour
 3 Unearth
 3 Monastery Mentor
-4 Thought Scour
 4 Seachrome Coast
 4 Monastery Mentor
+4 Thought Scour
 4 Mishra's Bauble
 1 Dress Down
 1 Darkslick Shores
@@ -129,30 +129,30 @@
 1 Lurrus of the Dream-Den
 1 Seal of Removal
 2 Sunken Ruins
-1 Serum Visions
-2 Cling to Dust
-1 Field of Ruin
-2 Field of Ruin
 1 Subtlety
 1 Timeless Dragon
 2 Timeless Dragon
+1 Field of Ruin
+2 Field of Ruin
 1 Dream Trawler
 1 Unmarked Grave
 2 Obzedat's Aid
+1 Serum Visions
+2 Cling to Dust
 1 Snow-Covered Island
 1 Snow-Covered Plains
-1 Rest in Peace
 1 Reflecting Pool
+1 Rest in Peace
 1 Dovin's Veto
 2 Snow-Covered Island
 2 Rest in Peace
 3 Snow-Covered Island
+3 Glacial Fortress
 1 Vanishing Verse
 3 Shark Typhoon
-3 Glacial Fortress
-1 Murderous Cut
 1 Thing in the Ice
 1 Spell Pierce
+1 Murderous Cut
 2 Thing in the Ice
 3 Memory Deluge
 3 Thing in the Ice
@@ -180,6 +180,6 @@
 2 Path to Exile
 3 Path to Exile
 3 Murktide Regent
-4 Path to Exile
 4 Murktide Regent
+4 Path to Exile
 4 Unearth

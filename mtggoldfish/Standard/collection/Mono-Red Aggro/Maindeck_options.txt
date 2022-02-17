@@ -1,9 +1,3 @@
-2 Voldaren Epicure
-3 Voldaren Epicure
-4 Voldaren Epicure
-4 Cemetery Gatekeeper
-1 Reckless Impulse
-4 Den of the Bugbear
 1 Mountain
 2 Mountain
 3 Mountain
@@ -14,23 +8,13 @@
 8 Mountain
 9 Mountain
 10 Mountain
-3 Moonveil Regent
-1 Kessig Wolfrider
-4 Faceless Haven
-2 Reckless Impulse
-18 Snow-Covered Mountain
-4 Frost Bite
-4 Moonveil Regent
-1 Volatile Arsonist
-1 Flame Channeler
+4 Den of the Bugbear
+4 Cemetery Gatekeeper
+1 Moonveil Regent
+2 Moonveil Regent
 11 Mountain
 12 Mountain
 13 Mountain
-3 Spikefield Hazard
-2 Flame Channeler
-3 Flame Channeler
-4 Flame Channeler
-1 Creepy Puppeteer
 14 Mountain
 15 Mountain
 16 Mountain
@@ -42,31 +26,53 @@
 3 Rabbit Battery
 4 Rabbit Battery
 4 Kumano Faces Kakkazan
+1 Volatile Arsonist
+17 Snow-Covered Mountain
+3 Moonveil Regent
+1 Kessig Wolfrider
+1 Ogre-Head Helm
+2 Ogre-Head Helm
 1 Sokenzan, Crucible of Defiance
 1 Thundering Raiju
 2 Thundering Raiju
 3 Thundering Raiju
-1 Goldspan Dragon
-3 Shatterskull Smashing
-3 Reckless Impulse
-1 Thundering Rebuke
-1 Manaform Hellkite
-4 Shatterskull Smashing
-1 Ogre-Head Helm
-2 Ogre-Head Helm
+4 Moonveil Regent
+4 Frost Bite
+1 Flame Channeler
+3 Ogre-Head Helm
+4 Ogre-Head Helm
 4 Thundering Raiju
+2 Flame Channeler
+3 Flame Channeler
+4 Flame Channeler
+4 Faceless Haven
+1 Creepy Puppeteer
+1 Reckless Impulse
+18 Snow-Covered Mountain
+3 Spikefield Hazard
+3 Shatterskull Smashing
+17 Mountain
+18 Mountain
+2 Reckless Impulse
+4 Shatterskull Smashing
+1 Manaform Hellkite
 2 Kessig Wolfrider
+1 Goldspan Dragon
+1 Goro-Goro, Disciple of Ryusei
 2 Creepy Puppeteer
 3 Creepy Puppeteer
 4 Creepy Puppeteer
-4 Reckless Impulse
+1 Igneous Inspiration
+2 Igneous Inspiration
+3 Igneous Inspiration
+4 Igneous Inspiration
+1 Lizard Blades
+2 Lizard Blades
+2 Volatile Arsonist
+1 Light Up the Night
 1 Kargan Intimidator
 2 Kargan Intimidator
-1 Light Up the Night
-3 Ogre-Head Helm
-4 Ogre-Head Helm
-2 Thundering Rebuke
-4 Spikefield Hazard
+1 Thundering Rebuke
 1 Abrade
 1 Voltaic Visionary
 2 Voltaic Visionary
@@ -75,19 +81,13 @@
 1 Tundra Fumarole
 2 Tundra Fumarole
 3 Tundra Fumarole
+1 Atsushi, the Blazing Sky
+2 Atsushi, the Blazing Sky
 3 Kargan Intimidator
 1 Dragonkin Berserker
-1 Goro-Goro, Disciple of Ryusei
-17 Mountain
-18 Mountain
-1 Igneous Inspiration
-2 Igneous Inspiration
-3 Igneous Inspiration
-4 Igneous Inspiration
-2 Goldspan Dragon
-2 Volatile Arsonist
-1 Lizard Blades
-2 Lizard Blades
+2 Thundering Rebuke
+4 Spikefield Hazard
+3 Reckless Impulse
 2 Manaform Hellkite
 1 Alchemist's Gambit
 1 Hall Monitor
@@ -95,6 +95,7 @@
 3 Hall Monitor
 1 Field of Ruin
 2 Field of Ruin
+3 Atsushi, the Blazing Sky
 1 Dragon's Fire
 1 Riverglide Pathway
 2 Dragon's Fire
@@ -104,18 +105,14 @@
 4 Dragon's Fire
 4 Riverglide Pathway
 4 Hall Monitor
+2 Goldspan Dragon
 3 Goldspan Dragon
 4 Tundra Fumarole
 4 Kargan Intimidator
-1 Thermo-Alchemist
-2 Thermo-Alchemist
-3 Thermo-Alchemist
-4 Thermo-Alchemist
-1 Atsushi, the Blazing Sky
-2 Atsushi, the Blazing Sky
 2 Light Up the Night
 3 Light Up the Night
 4 Light Up the Night
+4 Reckless Impulse
 3 Kessig Wolfrider
 1 Inferno of the Star Mounts
 2 Abrade
@@ -141,8 +138,6 @@
 1 Magic Missile
 2 Magic Missile
 2 Goro-Goro, Disciple of Ryusei
-3 Manaform Hellkite
-3 Atsushi, the Blazing Sky
 1 Dueling Rapier
 2 Dragonkin Berserker
 2 Dueling Rapier
@@ -167,10 +162,11 @@
 3 Demon Bolt
 4 Kessig Wolfrider
 4 Demon Bolt
-1 Ancestral Anger
-2 Ancestral Anger
-3 Ancestral Anger
-4 Ancestral Anger
+1 Thermo-Alchemist
+2 Thermo-Alchemist
+3 Manaform Hellkite
+3 Thermo-Alchemist
+4 Thermo-Alchemist
 1 Reinforced Ronin
 2 Sokenzan, Crucible of Defiance
 2 Reinforced Ronin
@@ -186,8 +182,8 @@
 2 Experimental Synthesizer
 3 Voltage Surge
 3 Explosive Singularity
-3 Reckoner Bankbuster
 3 Experimental Synthesizer
+3 Reckoner Bankbuster
 4 Voltage Surge
 4 Reckoner Bankbuster
 4 Explosive Singularity

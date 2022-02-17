@@ -17,15 +17,15 @@
 4 Tectonic Edge
 4 Charming Prince
 1 Sacred Foundry
-1 Imperial Recruiter
 1 Magus of the Moon
-2 Imperial Recruiter
+1 Imperial Recruiter
 2 Sacred Foundry
+2 Imperial Recruiter
 3 Imperial Recruiter
 4 Imperial Recruiter
-1 Sunbaked Canyon
 1 Sanctifier en-Vec
 1 Inspiring Vantage
+1 Sunbaked Canyon
 2 Inspiring Vantage
 2 Sunbaked Canyon
 3 Inspiring Vantage
@@ -86,23 +86,23 @@
 1 Razorverge Thicket
 1 Branchloft Pathway
 1 Brushland
-2 Noble Hierarch
 2 Oath of Nissa
 2 Boseiju, Who Endures
+2 Noble Hierarch
 2 Razorverge Thicket
 2 Brushland
 2 Branchloft Pathway
-3 Noble Hierarch
 3 Razorverge Thicket
 3 Branchloft Pathway
 3 Oath of Nissa
+3 Noble Hierarch
 3 Boseiju, Who Endures
 3 Brushland
-4 Noble Hierarch
 4 Brushland
 4 Oath of Nissa
 4 Branchloft Pathway
 4 Razorverge Thicket
+4 Noble Hierarch
 4 Boseiju, Who Endures
 1 Aven Mindcensor
 16 Plains
@@ -186,31 +186,31 @@
 1 Prismatic Ending
 2 Prismatic Ending
 3 Prismatic Ending
+1 Titania, Protector of Argoth
 1 Misty Rainforest
+1 Tireless Tracker
 1 Indatha Triome
 1 Yavimaya, Cradle of Growth
-1 Tireless Tracker
 1 Elvish Reclaimer
 1 Blast Zone
 1 Bojuka Bog
 1 Knight of the Reliquary
 1 Scattered Groves
-1 Titania, Protector of Argoth
 1 Windswept Heath
 1 Zuran Orb
 1 Quirion Ranger
 1 Radiant Fountain
-2 Forest
 2 Tireless Tracker
 2 Elvish Reclaimer
 2 Misty Rainforest
+2 Forest
 2 Windswept Heath
 2 Knight of the Reliquary
 2 Yavimaya, Cradle of Growth
 2 Quirion Ranger
 2 Titania, Protector of Argoth
-3 Forest
 3 Misty Rainforest
+3 Forest
 3 Knight of the Reliquary
 3 Titania, Protector of Argoth
 3 Windswept Heath
@@ -220,24 +220,24 @@
 4 Titania, Protector of Argoth
 4 Tireless Tracker
 4 Misty Rainforest
-1 Godless Shrine
 1 Dark Confidant
 1 Phantasmal Image
-1 Meddling Mage
+1 Godless Shrine
 1 Dauthi Voidwalker
+1 Meddling Mage
 1 Tidehollow Sculler
 1 Swamp
 1 Watery Grave
 1 Hallowed Fountain
 1 Concealed Courtyard
 1 Death's Shadow
+2 Concealed Courtyard
 2 Phantasmal Image
 2 Dark Confidant
 2 Dauthi Voidwalker
 2 Meddling Mage
 2 Death's Shadow
 2 Tidehollow Sculler
-2 Concealed Courtyard
 2 Godless Shrine
 3 Concealed Courtyard
 3 Dark Confidant
@@ -246,9 +246,9 @@
 3 Meddling Mage
 3 Tidehollow Sculler
 4 Concealed Courtyard
-4 Dark Confidant
 4 Prismatic Ending
 4 Flooded Strand
+4 Dark Confidant
 4 Meddling Mage
 4 Tidehollow Sculler
 4 Death's Shadow
