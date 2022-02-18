@@ -35,8 +35,8 @@
 |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)|                    1|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)          |
 |                    1|[Lofty Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485379)|                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |
 |                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)|                    1|[Test of Talents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513536) |
-|                    2|[Lofty Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485379)|                    2|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)          |
-|                    3|[Lofty Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485379)|                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |
-|                    4|[Lofty Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485379)|                    2|[Unsubstantiate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414374)  |
-|                     |                                                                                       |                    2|[Fading Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534812)     |
+|                    2|[Lofty Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485379)|                    2|[Fading Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534812)     |
+|                    3|[Lofty Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485379)|                    2|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)          |
+|                    4|[Lofty Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485379)|                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |
+|                     |                                                                                       |                    2|[Unsubstantiate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414374)  |
 

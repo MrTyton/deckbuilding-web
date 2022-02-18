@@ -18,10 +18,10 @@
 2 Banishing Light
 1 Gideon's Intervention
 1 Cave of the Frost Dragon
-1 Barkchannel Pathway
 1 Hengegate Pathway
-2 Barkchannel Pathway
+1 Barkchannel Pathway
 2 Hengegate Pathway
+2 Barkchannel Pathway
 3 Barkchannel Pathway
 3 Hengegate Pathway
 4 Solemnity
@@ -57,8 +57,8 @@
 3 Indatha Triome
 2 Borrowed Time
 1 Breeding Pool
-1 Ulamog, the Ceaseless Hunger
 1 Forsaken Crossroads
+1 Ulamog, the Ceaseless Hunger
 1 Approach of the Second Sun
 2 Approach of the Second Sun
 2 Ixalan's Binding
@@ -66,8 +66,21 @@
 2 Curse of Silence
 3 Curse of Silence
 4 Curse of Silence
-1 Overgrown Tomb
+1 Commune with Spirits
+1 Jukai Naturalist
+1 Eiganjo, Seat of the Empire
+1 Boseiju, Who Endures
+2 Commune with Spirits
+2 Jukai Naturalist
+2 Boseiju, Who Endures
+2 Hallowed Haunting
+2 Eiganjo, Seat of the Empire
+3 Commune with Spirits
+3 Hallowed Haunting
+4 Commune with Spirits
+4 Hallowed Haunting
 1 Godless Shrine
+1 Overgrown Tomb
 2 Godless Shrine
 4 Indatha Triome
 1 Glacial Fortress
@@ -79,8 +92,8 @@
 3 Breeding Pool
 3 Hallowed Fountain
 4 Hallowed Fountain
-1 Cast Out
 1 Legion's Landing
+1 Cast Out
 1 Smothering Tithe
 2 Temple of Plenty
 2 Cast Out
@@ -88,7 +101,6 @@
 3 Cast Out
 4 Temple of Plenty
 4 Cast Out
-4 Calix, Destiny's Hand
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 2 Reprobation
@@ -96,16 +108,4 @@
 3 Setessan Champion
 3 Reprobation
 6 Plains
-1 Jukai Naturalist
-1 Eiganjo, Seat of the Empire
-1 Boseiju, Who Endures
-1 Commune with Spirits
-2 Jukai Naturalist
-2 Boseiju, Who Endures
-2 Hallowed Haunting
-2 Eiganjo, Seat of the Empire
-2 Commune with Spirits
-3 Hallowed Haunting
-3 Commune with Spirits
-4 Hallowed Haunting
-4 Commune with Spirits
+4 Calix, Destiny's Hand
