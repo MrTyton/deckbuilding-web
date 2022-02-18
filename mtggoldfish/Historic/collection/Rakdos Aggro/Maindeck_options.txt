@@ -1,11 +1,11 @@
 4 Mountain
-1 Spawn of Mayhem
-1 Dreadhorde Butcher
 1 Hive of the Eye Tyrant
 1 Blightstep Pathway
+1 Spawn of Mayhem
+1 Dreadhorde Butcher
+2 Blightstep Pathway
 2 Dreadhorde Butcher
 2 Spawn of Mayhem
-2 Blightstep Pathway
 2 Hive of the Eye Tyrant
 3 Dreadhorde Butcher
 3 Blightstep Pathway
@@ -43,14 +43,14 @@
 1 Haunted Ridge
 1 Den of the Bugbear
 2 Den of the Bugbear
+1 Fanatical Firebrand
 1 Bloodchief's Thirst
 1 Call of the Death-Dweller
-1 Fanatical Firebrand
 1 Spikefield Hazard
-2 Spikefield Hazard
+2 Fanatical Firebrand
 2 Bloodchief's Thirst
 2 Call of the Death-Dweller
-2 Fanatical Firebrand
+2 Spikefield Hazard
 3 Fanatical Firebrand
 3 Call of the Death-Dweller
 3 Bloodchief's Thirst
@@ -67,19 +67,13 @@
 1 Skyclave Shade
 2 Infernal Grasp
 2 Skyclave Shade
-3 Infernal Grasp
 3 Skyclave Shade
+3 Infernal Grasp
 3 Gutterbones
 4 Infernal Grasp
 4 Embercleave
 4 Skyclave Shade
 4 Gutterbones
-1 Canyon Slough
-1 Cut/Ribbons
-2 Canyon Slough
-2 Cut/Ribbons
-4 Demonic Embrace
-4 Ramunap Ruins
 1 Stitcher's Supplier
 1 Liliana, Waker of the Dead
 2 Stitcher's Supplier
@@ -88,3 +82,9 @@
 3 Liliana, Waker of the Dead
 4 Stitcher's Supplier
 5 Mountain
+1 Canyon Slough
+1 Cut/Ribbons
+2 Canyon Slough
+2 Cut/Ribbons
+4 Demonic Embrace
+4 Ramunap Ruins
