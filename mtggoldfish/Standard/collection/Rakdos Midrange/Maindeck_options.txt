@@ -1,6 +1,6 @@
+2 Blood on the Snow
 2 Snow-Covered Mountain
 2 Snow-Covered Swamp
-2 Blood on the Snow
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
@@ -65,8 +65,8 @@
 1 Ebondeath, Dracolich
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
-1 Fell Stinger
 1 Eyetwitch
+1 Fell Stinger
 2 Fell Stinger
 2 Eyetwitch
 3 Fell Stinger
@@ -99,18 +99,18 @@
 2 Hagra Mauling
 3 Hive of the Eye Tyrant
 8 Swamp
+1 Sokenzan, Crucible of Defiance
+1 Takenuma, Abandoned Mire
+1 The Celestus
 1 Junji, the Midnight Sky
 1 Soul Transfer
 1 Invoke Despair
-1 Sokenzan, Crucible of Defiance
 1 Reckoner Bankbuster
 1 Crippling Fear
-1 Takenuma, Abandoned Mire
 1 Biting-Palm Ninja
-1 The Celestus
 1 Bloodfell Caves
-2 The Celestus
 2 Junji, the Midnight Sky
+2 The Celestus
 2 Invoke Despair
 2 Reckoner Bankbuster
 2 Soul Transfer
@@ -166,8 +166,8 @@
 2 Valentin, Dean of the Vein
 4 Bloodthirsty Adversary
 2 Orcus, Prince of Undeath
-1 Hero's Downfall
 1 Shadows' Verdict
+1 Hero's Downfall
 1 Immersturm Skullcairn
 2 Hero's Downfall
 2 Shadows' Verdict
@@ -177,11 +177,11 @@
 2 Flunk
 1 Magda, Brazen Outlaw
 2 Magda, Brazen Outlaw
-1 Dragonkin Berserker
 1 Light Up the Night
+1 Dragonkin Berserker
 2 Dragonkin Berserker
-3 Play with Fire
 3 Dragonkin Berserker
+3 Play with Fire
 1 Reckless Impulse
 1 Zariel, Archduke of Avernus
 1 Shatterskull Charger
@@ -192,13 +192,18 @@
 3 Zariel, Archduke of Avernus
 3 Ebondeath, Dracolich
 1 Cemetery Gatekeeper
-1 Roil Eruption
 1 Voldaren Estate
+1 Roil Eruption
 2 Cemetery Gatekeeper
 2 Roil Eruption
-3 Cemetery Gatekeeper
 3 Roil Eruption
+3 Cemetery Gatekeeper
 4 Cemetery Gatekeeper
+1 Orb of Dragonkind
+2 Soul Shatter
+2 Orb of Dragonkind
+3 Orb of Dragonkind
+4 Hive of the Eye Tyrant
 1 Vampires' Vengeance
 1 Voldaren Bloodcaster
 2 Vampires' Vengeance
@@ -230,19 +235,9 @@
 2 Extus, Oriq Overlord
 3 Fireblade Charger
 3 Extus, Oriq Overlord
-4 Eyetwitch
 4 Fireblade Charger
+4 Eyetwitch
 4 Extus, Oriq Overlord
-1 Inferno of the Star Mounts
-1 Seize the Spoils
-2 Inferno of the Star Mounts
-2 Seize the Spoils
-3 Seize the Spoils
-3 Professor Onyx
-3 Orcus, Prince of Undeath
-4 Seize the Spoils
-4 Professor Onyx
-8 Snow-Covered Mountain
 1 Westgate Regent
 1 Grim Bounty
 1 Red Dragon
@@ -263,11 +258,16 @@
 3 Hired Hexblade
 7 Mountain
 8 Mountain
-9 Swamp
 9 Mountain
+9 Swamp
 10 Mountain
-1 Orb of Dragonkind
-2 Soul Shatter
-2 Orb of Dragonkind
-3 Orb of Dragonkind
-4 Hive of the Eye Tyrant
+1 Inferno of the Star Mounts
+1 Seize the Spoils
+2 Inferno of the Star Mounts
+2 Seize the Spoils
+3 Seize the Spoils
+3 Professor Onyx
+3 Orcus, Prince of Undeath
+4 Seize the Spoils
+4 Professor Onyx
+8 Snow-Covered Mountain

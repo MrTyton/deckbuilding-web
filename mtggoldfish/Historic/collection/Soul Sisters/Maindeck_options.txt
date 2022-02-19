@@ -144,9 +144,6 @@
 1 Knight of Autumn
 2 Knight of Autumn
 3 Knight of Autumn
-1 Search for Glory
-2 Emeria's Call
-3 Emeria's Call
 1 Luminarch Aspirant
 2 Luminarch Aspirant
 3 Luminarch Aspirant
@@ -155,8 +152,11 @@
 2 Gods Willing
 2 Benalish Marshal
 3 Benalish Marshal
-1 Youthful Valkyrie
+1 Search for Glory
+2 Emeria's Call
+3 Emeria's Call
 1 Reidane, God of the Worthy
+1 Youthful Valkyrie
 2 Youthful Valkyrie
 4 Skyclave Apparition
 4 Banishing Light
@@ -204,8 +204,8 @@
 3 Cave of the Frost Dragon
 3 Rally for the Throne
 3 Anointed Chorister
-4 Cave of the Frost Dragon
 4 Anointed Chorister
+4 Cave of the Frost Dragon
 4 Rally for the Throne
 1 Ajani's Welcome
 2 Ajani's Welcome
@@ -215,10 +215,10 @@
 2 Sacred Cat
 4 Authority of the Consuls
 1 Wrath of God
-1 God-Eternal Oketra
 1 Elspeth Conquers Death
 1 Containment Priest
 1 Mikaeus, the Lunarch
+1 God-Eternal Oketra
 1 Revitalize
 1 Secluded Steppe
 1 Realm-Cloaked Giant

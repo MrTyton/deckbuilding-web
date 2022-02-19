@@ -44,11 +44,11 @@
 1 Moonsnare Prototype
 1 Magda, Brazen Outlaw
 1 Kairi, the Swirling Sky
+2 Sokenzan, Crucible of Defiance
 2 Moonsnare Prototype
 2 Disruption Protocol
 2 Magda, Brazen Outlaw
 2 Voltage Surge
-2 Sokenzan, Crucible of Defiance
 3 Disruption Protocol
 3 Magda, Brazen Outlaw
 3 Moonsnare Prototype
@@ -74,6 +74,10 @@
 2 Malevolent Hermit
 3 Malevolent Hermit
 4 Malevolent Hermit
+1 Demon Bolt
+2 Demon Bolt
+2 Lier, Disciple of the Drowned
+3 Demon Bolt
 1 Dissipate
 1 Thundering Rebuke
 1 Consuming Tide
@@ -83,10 +87,6 @@
 1 Iymrith, Desert Doom
 3 Cinderclasm
 3 Abrade
-1 Demon Bolt
-2 Lier, Disciple of the Drowned
-2 Demon Bolt
-3 Demon Bolt
 1 Magma Opus
 1 Draconic Intervention
 2 Magma Opus
@@ -111,12 +111,12 @@
 2 Prismari Campus
 3 Prismari Campus
 4 Prismari Campus
+1 Lizard Blades
 1 Armguard Familiar
 1 Reckoner Bankbuster
 1 Lunar Frenzy
 1 Mindlink Mech
 1 Calamity Bearer
-1 Lizard Blades
 2 Lizard Blades
 2 Lunar Frenzy
 2 Mindlink Mech
@@ -140,10 +140,10 @@
 4 Suspicious Stowaway
 4 Moon-Circuit Hacker
 1 Consider
+1 Roil Eruption
 1 Otherworldly Gaze
 1 Kessig Flamebreather
 1 Igneous Inspiration
-1 Roil Eruption
 1 Reckless Impulse
 2 Consider
 2 Otherworldly Gaze
@@ -157,8 +157,8 @@
 3 Otherworldly Gaze
 3 Kessig Flamebreather
 3 Roil Eruption
-4 Reckless Impulse
 4 Play with Fire
+4 Reckless Impulse
 4 Kessig Flamebreather
 4 Roil Eruption
 3 Atsushi, the Blazing Sky

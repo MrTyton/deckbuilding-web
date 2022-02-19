@@ -1,5 +1,5 @@
+1 Archetype of Endurance
 1 Chancellor of the Annex
-3 Faerie Macabre
 2 Chancellor of the Annex
 3 Chancellor of the Annex
 2 Prismatic Ending
@@ -8,6 +8,7 @@
 3 Wear/Tear
 1 Ashen Rider
 1 Magus of the Moon
+3 Thoughtseize
 4 Chancellor of the Annex
 1 Silence
 2 Silence
@@ -15,31 +16,27 @@
 4 Silence
 1 Echoing Truth
 2 Echoing Truth
+1 Chain of Smog
+2 Chain of Smog
+3 Chain of Smog
+1 Sedgemoor Witch
+2 Sedgemoor Witch
+3 Sedgemoor Witch
+4 Sedgemoor Witch
 1 Show and Tell
 2 Show and Tell
 3 Show and Tell
-1 Chain of Smog
-2 Chain of Smog
-3 Thoughtseize
-1 Sedgemoor Witch
-2 Sedgemoor Witch
-3 Chain of Smog
-3 Sedgemoor Witch
-4 Sedgemoor Witch
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
-4 Show and Tell
-1 Witherbloom Apprentice
-2 Witherbloom Apprentice
-3 Witherbloom Apprentice
 4 Chain of Smog
 1 Elesh Norn, Grand Cenobite
 1 Spoils of the Vault
 2 Spoils of the Vault
-1 Burning Wish
-2 Burning Wish
-3 Burning Wish
+4 Show and Tell
+1 Witherbloom Apprentice
+2 Witherbloom Apprentice
+3 Witherbloom Apprentice
 4 Leyline of the Void
 1 Duress
 1 Dauthi Voidwalker
@@ -51,8 +48,6 @@
 1 Archon of Cruelty
 1 Serra's Emissary
 1 Swamp
-1 Abrupt Decay
-2 Abrupt Decay
 1 Grief
 2 Grief
 2 Magus of the Moon
@@ -67,6 +62,11 @@
 1 Xantid Swarm
 2 Xantid Swarm
 3 Xantid Swarm
+1 Abrupt Decay
+1 Burning Wish
+2 Abrupt Decay
+2 Burning Wish
+3 Burning Wish
 1 Professor Onyx
 1 Lake of the Dead
 1 Massacre Wurm
@@ -76,7 +76,6 @@
 3 Grim Monolith
 1 Dawnglade Regent
 4 Prismatic Ending
-4 Witherbloom Apprentice
 3 Spoils of the Vault
 4 Thoughtseize
 1 Feed the Swarm

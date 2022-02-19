@@ -1,15 +1,48 @@
 2 Steam Vents
-2 Fatal Push
 1 Snow-Covered Swamp
+2 Fatal Push
 2 Lightning Bolt
 1 Snow-Covered Mountain
 4 Scalding Tarn
 2 Kolaghan's Command
+1 Consider
+2 Consider
+1 Marsh Flats
+1 Counterspell
+1 Murktide Regent
+1 Thought Scour
+1 Island
+1 Delver of Secrets
+1 Flooded Strand
+1 Street Wraith
+2 Marsh Flats
+2 Counterspell
+2 Murktide Regent
+2 Thought Scour
+2 Delver of Secrets
+2 Flooded Strand
+2 Street Wraith
+3 Marsh Flats
+3 Consider
+3 Counterspell
+3 Watery Grave
+3 Thought Scour
+3 Murktide Regent
+3 Delver of Secrets
+3 Flooded Strand
+3 Street Wraith
+3 Fatal Push
+4 Consider
+4 Murktide Regent
+4 Flooded Strand
+4 Fatal Push
+4 Street Wraith
+4 Watery Grave
+1 Spell Pierce
 1 Temur Battle Rage
 2 Temur Battle Rage
 3 Lightning Bolt
 4 Lightning Bolt
-1 Terminate
 1 Scourge of the Skyclaves
 1 Verdant Catacombs
 1 Stomping Ground
@@ -18,12 +51,8 @@
 3 Scourge of the Skyclaves
 3 Verdant Catacombs
 4 Scourge of the Skyclaves
-1 Consider
-2 Consider
 1 Fiery Islet
-1 Spell Pierce
-2 Swamp
-2 Terminate
+2 Spell Pierce
 1 Snow-Covered Island
 1 Surgical Extraction
 1 Engineered Explosives
@@ -33,51 +62,21 @@
 2 Surgical Extraction
 2 Snapcaster Mage
 3 Snapcaster Mage
+4 Thought Scour
 1 Wooded Foothills
 1 Nurturing Peatland
 1 Overgrown Tomb
 1 Tarmogoyf
+1 Terminate
 2 Wooded Foothills
 2 Tarmogoyf
-3 Inquisition of Kozilek
 3 Wooded Foothills
+3 Inquisition of Kozilek
 3 Tarmogoyf
-4 Wooded Foothills
-4 Inquisition of Kozilek
 4 Verdant Catacombs
 4 Tarmogoyf
-1 Thought Scour
-1 Marsh Flats
-1 Counterspell
-1 Murktide Regent
-1 Island
-1 Delver of Secrets
-1 Flooded Strand
-1 Street Wraith
-2 Thought Scour
-2 Marsh Flats
-2 Counterspell
-2 Murktide Regent
-2 Delver of Secrets
-2 Flooded Strand
-2 Street Wraith
-3 Thought Scour
-3 Marsh Flats
-3 Counterspell
-3 Consider
-3 Delver of Secrets
-3 Murktide Regent
-3 Flooded Strand
-3 Street Wraith
-3 Fatal Push
-3 Watery Grave
-4 Thought Scour
-4 Murktide Regent
-4 Flooded Strand
-4 Fatal Push
-4 Consider
-4 Street Wraith
-4 Watery Grave
+4 Inquisition of Kozilek
+4 Wooded Foothills
 1 Arid Mesa
 1 Soul-Scar Mage
 1 Lava Dart

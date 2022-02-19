@@ -1,21 +1,21 @@
 1 Abrade
 2 Abrade
-1 Grafdigger's Cage
-1 Chandra, Torch of Defiance
 3 Abrade
+1 Grafdigger's Cage
 2 Grafdigger's Cage
-2 Chandra, Torch of Defiance
+1 Chandra, Torch of Defiance
 1 Soul-Guide Lantern
-1 Rampaging Ferocidon
+2 Chandra, Torch of Defiance
+3 Grafdigger's Cage
 4 Roiling Vortex
-2 Rampaging Ferocidon
-3 Rampaging Ferocidon
-1 Bonecrusher Giant
 1 Anax, Hardened in the Forge
 2 Anax, Hardened in the Forge
-3 Grafdigger's Cage
 1 The Akroan War
 2 The Akroan War
+1 Lava Coil
+2 Lava Coil
+1 Bonecrusher Giant
+1 Rampaging Ferocidon
 1 Hazoret the Fervent
 2 Soul-Guide Lantern
 3 Soul-Guide Lantern
@@ -33,26 +33,29 @@
 2 Legion's End
 2 Fatal Push
 1 Rest in Peace
-1 Rip Apart
 1 Authority of the Consuls
+1 Rip Apart
 1 Portable Hole
 1 Hushbringer
-2 Portable Hole
 2 Hushbringer
+2 Portable Hole
 3 Hushbringer
+1 Magma Spray
+2 Magma Spray
+3 Lava Coil
 1 Cemetery Gatekeeper
 1 Unchained Berserker
 2 Unchained Berserker
 3 Unchained Berserker
+1 Burning Hands
+1 Pithing Needle
+2 Burning Hands
+2 Pithing Needle
+3 Pithing Needle
 1 Shadowspear
 1 Pillar of Flame
 2 Pillar of Flame
 3 The Akroan War
-1 Magma Spray
-1 Lava Coil
-2 Magma Spray
-2 Lava Coil
-3 Lava Coil
 1 Lightning Strike
 1 Sweltering Suns
 1 Chandra, Pyromaster
@@ -61,25 +64,13 @@
 1 Flames of the Firebrand
 1 Demanding Dragon
 2 Lightning Strike
-2 Chandra, Pyromaster
 2 Sweltering Suns
 2 Terror of the Peaks
+2 Chandra, Pyromaster
 2 Flames of the Firebrand
 2 Fiery Cannonade
 3 Lightning Strike
 3 Flames of the Firebrand
-1 The Wandering Emperor
-1 Fateful Absence
-1 Cleansing Nova
-1 Archon of Emeria
-2 Fateful Absence
-2 Rest in Peace
-2 Archon of Emeria
-2 Cleansing Nova
-2 Rip Apart
-3 Rest in Peace
-3 Fateful Absence
-3 Archon of Emeria
 1 Redcap Melee
 1 Blazing Volley
 2 Redcap Melee
@@ -88,26 +79,22 @@
 3 Blazing Volley
 3 Redcap Melee
 1 Grim Lavamancer
+2 Rampaging Ferocidon
 2 Grim Lavamancer
+3 Rampaging Ferocidon
 4 Rampaging Ferocidon
 1 Conductive Current
 3 Anax, Hardened in the Forge
 4 Grafdigger's Cage
-1 Anger of the Gods
-1 Chandra, Awakened Inferno
-2 Chandra, Awakened Inferno
-2 Anger of the Gods
-3 Anger of the Gods
-4 Anger of the Gods
 1 Hall Monitor
-1 Crawling Barrens
 1 Shock
+1 Crawling Barrens
 1 Roil Eruption
 1 Akoum Hellhound
 1 Shatterskull Smashing
 2 Shatterskull Smashing
-2 Crawling Barrens
 2 Shock
+2 Crawling Barrens
 2 Akoum Hellhound
 3 Crawling Barrens
 3 Shock
@@ -119,5 +106,5 @@
 1 Curse of Shaken Faith
 2 Tibalt, Rakish Instigator
 2 Curse of Shaken Faith
-2 Fire Prophecy
 3 Fire Prophecy
+2 Fire Prophecy
