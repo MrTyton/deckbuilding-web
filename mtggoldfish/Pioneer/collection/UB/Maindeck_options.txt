@@ -43,17 +43,17 @@
 1 Kalitas, Traitor of Ghet
 4 Thoughtseize
 4 Sinister Sabotage
+2 Memory Deluge
 2 Day's Undoing
 2 Geier Reach Sanitarium
-2 Memory Deluge
 3 Notion Thief
 2 Sorin the Mirthless
 2 Hive of the Eye Tyrant
 3 Shipwreck Marsh
 1 Urborg, Tomb of Yawgmoth
 3 Heartless Act
-1 Dispel
 1 Neutralize
+1 Dispel
 1 Stern Dismissal
 2 Hall of Storm Giants
 3 Day's Undoing
@@ -82,22 +82,22 @@
 2 Languish
 3 Search for Azcanta
 1 Fateful Absence
-1 Castle Ardenvale
-1 Dovin's Veto
-1 Teferi, Hero of Dominaria
-1 Deserted Beach
 1 Glacial Fortress
+1 Teferi, Hero of Dominaria
+1 Dovin's Veto
+1 Deserted Beach
+1 Castle Ardenvale
 1 Brightclimb Pathway
 1 Hallowed Fountain
 1 Plains
 1 Supreme Verdict
 2 Fateful Absence
-2 Negate
+2 Glacial Fortress
 2 Teferi, Hero of Dominaria
+2 Negate
 2 Brightclimb Pathway
 2 Deserted Beach
 2 Hallowed Fountain
-2 Glacial Fortress
 3 Brightclimb Pathway
 3 Teferi, Hero of Dominaria
 3 Deserted Beach
@@ -114,8 +114,8 @@
 1 Soul Shatter
 1 Multiple Choice
 1 Strategic Planning
-1 Treasure Cruise
 1 Thought Erasure
+1 Treasure Cruise
 1 Augur of Bolas
 2 Mission Briefing
 2 Soul Shatter
@@ -158,5 +158,5 @@
 2 Opt
 4 Swamp
 5 Swamp
-6 Island
 6 Swamp
+6 Island

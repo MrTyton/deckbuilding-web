@@ -1,7 +1,13 @@
+1 Valki, God of Lies
+1 Shambling Ghast
+1 Deadly Dispute
 2 Shambling Ghast
 2 Deadly Dispute
 3 Shambling Ghast
 4 Shambling Ghast
+2 Woodland Chasm
+3 Deadly Dispute
+4 Deadly Dispute
 1 Blood on the Snow
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
@@ -9,40 +15,34 @@
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
-3 Wrenn and Seven
-3 Deadly Dispute
-4 Deadly Dispute
-3 Briarbridge Tracker
 4 Briarbridge Tracker
-7 Snow-Covered Swamp
 2 Blood on the Snow
+7 Snow-Covered Swamp
+5 Swamp
+2 Valki, God of Lies
+3 The Meathook Massacre
+1 Lotus Cobra
 1 Dig Up
 2 Dig Up
-2 Woodland Chasm
+3 Blood on the Snow
+1 Agadeem's Awakening
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 4 Snow-Covered Forest
 5 Snow-Covered Forest
-1 Agadeem's Awakening
-4 Swamp
-1 Lotus Cobra
-3 Blood on the Snow
-2 Valki, God of Lies
+2 Lotus Cobra
 1 Valentin, Dean of the Vein
 6 Snow-Covered Forest
 7 Snow-Covered Forest
-3 The Meathook Massacre
-5 Swamp
-2 Lotus Cobra
-1 Hagra Mauling
 1 Concealing Curtains
-1 Fell Stinger
 3 Woodland Chasm
+1 Hagra Mauling
 3 Dig Up
 4 Blood on the Snow
 2 Concealing Curtains
 3 Hive of the Eye Tyrant
+1 Fell Stinger
 1 Sculptor of Winter
 2 Sculptor of Winter
 8 Snow-Covered Forest
@@ -53,6 +53,7 @@
 9 Snow-Covered Swamp
 1 Faceless Haven
 2 Faceless Haven
+4 Infernal Grasp
 4 Eyetwitch
 10 Snow-Covered Swamp
 11 Snow-Covered Swamp
@@ -61,7 +62,6 @@
 14 Snow-Covered Swamp
 15 Snow-Covered Swamp
 16 Snow-Covered Swamp
-2 Fell Stinger
 1 Ranger Class
 1 Bloodvial Purveyor
 2 Bloodvial Purveyor
@@ -70,28 +70,13 @@
 4 Concealing Curtains
 3 Sculptor of Winter
 4 Sculptor of Winter
-4 Infernal Grasp
 1 Soul Shatter
 1 Skullport Merchant
 2 Skullport Merchant
 1 Professor Onyx
 4 Lolth, Spider Queen
-3 Fell Stinger
-1 Hero's Downfall
-1 Toski, Bearer of Secrets
-1 Avabruck Caretaker
-1 Dryad's Revival
-1 Graveyard Trespasser
-2 Valentin, Dean of the Vein
-2 Hero's Downfall
-2 Avabruck Caretaker
-2 Toski, Bearer of Secrets
-2 Graveyard Trespasser
-2 Dryad's Revival
-3 Hero's Downfall
-3 Valentin, Dean of the Vein
-4 Hero's Downfall
-4 Valentin, Dean of the Vein
+2 Fell Stinger
+1 Bala Ged Recovery
 4 Hive of the Eye Tyrant
 3 Skullport Merchant
 17 Snow-Covered Swamp
@@ -101,7 +86,8 @@
 2 Cragcrown Pathway
 2 Blightstep Pathway
 2 Professor Onyx
-1 Bala Ged Recovery
+1 Boseiju, Who Endures
+1 Bloodchief's Thirst
 1 Culling Ritual
 1 Sarulf, Realm Eater
 2 Culling Ritual
@@ -110,11 +96,14 @@
 2 Skeletal Swarming
 3 Skeletal Swarming
 4 Skeletal Swarming
+3 Fell Stinger
 2 Hagra Mauling
-1 Ghoulish Procession
-2 Ghoulish Procession
-1 Pestilent Cauldron
-2 Pestilent Cauldron
+1 Graveyard Trespasser
+2 Graveyard Trespasser
+1 Hunt for Specimens
+1 Duress
+2 Hunt for Specimens
+3 Field of Ruin
 1 Eaten Alive
 1 Haunted Ridge
 2 Eaten Alive
@@ -123,15 +112,20 @@
 2 Witherbloom Command
 3 Sorin the Mirthless
 3 Witherbloom Command
-1 Hunt for Specimens
-1 Duress
-2 Hunt for Specimens
-3 Field of Ruin
 1 Mortality Spear
 1 Tamiyo's Safekeeping
-1 Boseiju, Who Endures
 2 Agadeem's Awakening
 4 Fell Stinger
+1 Takenuma, Abandoned Mire
+1 Junji, the Midnight Sky
+1 Outland Liberator
+1 March of Wretched Sorrow
+1 Shigeki, Jukai Visionary
+2 Shigeki, Jukai Visionary
+3 Graveyard Trespasser
+3 Shigeki, Jukai Visionary
+4 The Meathook Massacre
+4 Graveyard Trespasser
 1 Go Blank
 1 Elderfang Disciple
 2 Elderfang Disciple
@@ -140,12 +134,27 @@
 3 Elderfang Disciple
 4 Faceless Haven
 4 Elderfang Disciple
+1 Avabruck Caretaker
+1 Hero's Downfall
+1 Toski, Bearer of Secrets
+1 Dryad's Revival
+1 Ghoulish Procession
+2 Valentin, Dean of the Vein
+2 Hero's Downfall
+2 Avabruck Caretaker
+2 Toski, Bearer of Secrets
+2 Ghoulish Procession
+2 Dryad's Revival
+3 Hero's Downfall
+3 Valentin, Dean of the Vein
+4 Hero's Downfall
+4 Valentin, Dean of the Vein
 1 Inscription of Abundance
 1 Pelakka Predation
-1 Old Rutstein
 1 Grakmaw, Skyclave Ravager
 1 Wedding Invitation
 1 Daemogoth Titan
+1 Old Rutstein
 2 Old Rutstein
 2 Daemogoth Titan
 2 Grakmaw, Skyclave Ravager
@@ -156,7 +165,6 @@
 3 Daemogoth Titan
 4 Wedding Invitation
 1 Power Word Kill
-1 Bloodchief's Thirst
 1 Lithoform Blight
 2 Power Word Kill
 2 Bloodchief's Thirst

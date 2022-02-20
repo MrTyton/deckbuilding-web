@@ -1,19 +1,5 @@
-1 Abrade
-2 Abrade
-3 Abrade
-1 Grafdigger's Cage
-2 Grafdigger's Cage
-1 Chandra, Torch of Defiance
-1 Soul-Guide Lantern
-2 Chandra, Torch of Defiance
-3 Grafdigger's Cage
-4 Roiling Vortex
-1 Anax, Hardened in the Forge
 2 Anax, Hardened in the Forge
-1 The Akroan War
-2 The Akroan War
-1 Lava Coil
-2 Lava Coil
+3 Grafdigger's Cage
 1 Bonecrusher Giant
 1 Rampaging Ferocidon
 1 Hazoret the Fervent
@@ -21,6 +7,7 @@
 3 Soul-Guide Lantern
 1 Goblin Chainwhirler
 1 Fry
+1 Inferno of the Star Mounts
 1 Cindervines
 1 Leyline of the Void
 1 Witch's Vengeance
@@ -28,34 +15,31 @@
 1 Legion's End
 1 Klothys, God of Destiny
 2 Cindervines
-2 Witch's Vengeance
 2 Leyline of the Void
+2 Witch's Vengeance
 2 Legion's End
 2 Fatal Push
 1 Rest in Peace
-1 Authority of the Consuls
 1 Rip Apart
+1 Authority of the Consuls
 1 Portable Hole
 1 Hushbringer
 2 Hushbringer
 2 Portable Hole
 3 Hushbringer
-1 Magma Spray
-2 Magma Spray
-3 Lava Coil
 1 Cemetery Gatekeeper
 1 Unchained Berserker
 2 Unchained Berserker
 3 Unchained Berserker
-1 Burning Hands
-1 Pithing Needle
-2 Burning Hands
-2 Pithing Needle
-3 Pithing Needle
-1 Shadowspear
 1 Pillar of Flame
+1 Shadowspear
 2 Pillar of Flame
 3 The Akroan War
+1 Lava Coil
+1 Magma Spray
+2 Lava Coil
+2 Magma Spray
+3 Lava Coil
 1 Lightning Strike
 1 Sweltering Suns
 1 Chandra, Pyromaster
@@ -64,13 +48,25 @@
 1 Flames of the Firebrand
 1 Demanding Dragon
 2 Lightning Strike
+2 Chandra, Pyromaster
 2 Sweltering Suns
 2 Terror of the Peaks
-2 Chandra, Pyromaster
 2 Flames of the Firebrand
 2 Fiery Cannonade
 3 Lightning Strike
 3 Flames of the Firebrand
+1 The Wandering Emperor
+1 Fateful Absence
+1 Archon of Emeria
+1 Cleansing Nova
+2 Fateful Absence
+2 Rest in Peace
+2 Archon of Emeria
+2 Cleansing Nova
+2 Rip Apart
+3 Fateful Absence
+3 Rest in Peace
+3 Archon of Emeria
 1 Redcap Melee
 1 Blazing Volley
 2 Redcap Melee
@@ -87,14 +83,14 @@
 3 Anax, Hardened in the Forge
 4 Grafdigger's Cage
 1 Hall Monitor
-1 Shock
 1 Crawling Barrens
+1 Shock
 1 Roil Eruption
 1 Akoum Hellhound
 1 Shatterskull Smashing
 2 Shatterskull Smashing
-2 Shock
 2 Crawling Barrens
+2 Shock
 2 Akoum Hellhound
 3 Crawling Barrens
 3 Shock
@@ -106,5 +102,5 @@
 1 Curse of Shaken Faith
 2 Tibalt, Rakish Instigator
 2 Curse of Shaken Faith
-3 Fire Prophecy
 2 Fire Prophecy
+3 Fire Prophecy

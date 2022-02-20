@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy| Maindeck Card |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|---------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|Lunarch Veteran|                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
+|                    1|Lunarch Veteran|                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
 |                    2|Lunarch Veteran|                    2|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|
-|                    3|Lunarch Veteran|                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
+|                    3|Lunarch Veteran|                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
 |                    4|Lunarch Veteran|                     |                                                                                              |
 

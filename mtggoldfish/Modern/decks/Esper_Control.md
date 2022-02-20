@@ -219,7 +219,7 @@
 |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)            |                     |                                                                                                    |
 |                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)            |                     |                                                                                                    |
 |                    3|[Murktide Regent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522128)          |                     |                                                                                                    |
-|                    4|[Murktide Regent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522128)          |                     |                                                                                                    |
 |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)            |                     |                                                                                                    |
+|                    4|[Murktide Regent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522128)          |                     |                                                                                                    |
 |                    4|[Unearth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442102)                  |                     |                                                                                                    |
 
