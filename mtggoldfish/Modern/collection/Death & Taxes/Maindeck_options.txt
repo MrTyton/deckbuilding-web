@@ -20,13 +20,13 @@
 1 Sacred Foundry
 1 Magus of the Moon
 1 Imperial Recruiter
-2 Sacred Foundry
 2 Imperial Recruiter
+2 Sacred Foundry
 3 Imperial Recruiter
 4 Imperial Recruiter
-1 Sunbaked Canyon
 1 Sanctifier en-Vec
 1 Inspiring Vantage
+1 Sunbaked Canyon
 2 Inspiring Vantage
 2 Sunbaked Canyon
 3 Inspiring Vantage
@@ -76,18 +76,18 @@
 1 Noble Hierarch
 1 Razorverge Thicket
 1 Branchloft Pathway
-2 Noble Hierarch
 2 Boseiju, Who Endures
+2 Noble Hierarch
 2 Razorverge Thicket
 2 Branchloft Pathway
-3 Razorverge Thicket
 3 Branchloft Pathway
-3 Noble Hierarch
 3 Boseiju, Who Endures
+3 Noble Hierarch
+3 Razorverge Thicket
 4 Branchloft Pathway
-4 Noble Hierarch
 4 Razorverge Thicket
 4 Boseiju, Who Endures
+4 Noble Hierarch
 2 Horizon Canopy
 1 Flooded Strand
 2 Flooded Strand
@@ -142,8 +142,8 @@
 3 Collected Company
 4 Collected Company
 1 Wall of Omens
-2 Aven Mindcensor
 2 Wall of Omens
+2 Aven Mindcensor
 3 Aven Mindcensor
 3 Wall of Omens
 13 Snow-Covered Plains
@@ -154,8 +154,8 @@
 18 Plains
 19 Plains
 2 Halvar, God of Battle
-1 Cavern of Souls
 1 Professor of Symbology
+1 Cavern of Souls
 2 Professor of Symbology
 3 Professor of Symbology
 4 Professor of Symbology
@@ -166,89 +166,89 @@
 2 Squadron Hawk
 3 Squadron Hawk
 4 Squadron Hawk
-1 Prismatic Vista
-1 Thought-Knot Seer
-1 Wastes
-1 Reality Smasher
-1 Eldrazi Temple
-2 Prismatic Vista
-2 Thought-Knot Seer
-2 Reality Smasher
-2 Eldrazi Temple
-3 Prismatic Vista
-3 Shefet Dunes
-3 Eldrazi Temple
-3 Reality Smasher
-3 Thought-Knot Seer
-4 Prismatic Vista
-4 Reality Smasher
-4 Thought-Knot Seer
-4 Eldrazi Temple
-4 Shefet Dunes
 1 Prismatic Ending
 2 Prismatic Ending
 3 Prismatic Ending
 1 Titania, Protector of Argoth
 1 Misty Rainforest
-1 Indatha Triome
+1 Windswept Heath
 1 Yavimaya, Cradle of Growth
-1 Tireless Tracker
 1 Elvish Reclaimer
-1 Bojuka Bog
+1 Indatha Triome
+1 Tireless Tracker
 1 Blast Zone
+1 Bojuka Bog
+1 Zuran Orb
 1 Knight of the Reliquary
 1 Scattered Groves
-1 Windswept Heath
-1 Zuran Orb
 1 Quirion Ranger
 1 Radiant Fountain
-2 Forest
-2 Misty Rainforest
-2 Tireless Tracker
 2 Elvish Reclaimer
+2 Misty Rainforest
 2 Windswept Heath
+2 Tireless Tracker
+2 Forest
 2 Knight of the Reliquary
 2 Yavimaya, Cradle of Growth
 2 Quirion Ranger
 2 Titania, Protector of Argoth
-3 Forest
+3 Windswept Heath
 3 Misty Rainforest
+3 Forest
 3 Knight of the Reliquary
 3 Titania, Protector of Argoth
-3 Windswept Heath
 3 Tireless Tracker
+4 Misty Rainforest
+4 Windswept Heath
 4 Knight of the Reliquary
 4 Titania, Protector of Argoth
 4 Tireless Tracker
-4 Misty Rainforest
-4 Windswept Heath
+1 Prismatic Vista
+1 Thought-Knot Seer
+1 Wastes
+1 Reality Smasher
+1 Eldrazi Temple
+2 Thought-Knot Seer
+2 Reality Smasher
+2 Prismatic Vista
+2 Eldrazi Temple
+3 Shefet Dunes
+3 Eldrazi Temple
+3 Reality Smasher
+3 Prismatic Vista
+3 Thought-Knot Seer
+4 Reality Smasher
+4 Thought-Knot Seer
+4 Eldrazi Temple
+4 Shefet Dunes
+4 Prismatic Vista
+1 Concealed Courtyard
+1 Godless Shrine
 1 Dark Confidant
 1 Phantasmal Image
 1 Meddling Mage
+1 Watery Grave
 1 Dauthi Voidwalker
 1 Tidehollow Sculler
 1 Swamp
-1 Godless Shrine
-1 Watery Grave
 1 Hallowed Fountain
-1 Concealed Courtyard
 1 Death's Shadow
+2 Concealed Courtyard
 2 Phantasmal Image
 2 Dark Confidant
-2 Meddling Mage
 2 Dauthi Voidwalker
+2 Meddling Mage
 2 Death's Shadow
-2 Concealed Courtyard
 2 Godless Shrine
 2 Tidehollow Sculler
 3 Concealed Courtyard
 3 Dark Confidant
+3 Meddling Mage
 3 Death's Shadow
 3 Flooded Strand
-3 Meddling Mage
 3 Tidehollow Sculler
-4 Concealed Courtyard
 4 Dark Confidant
+4 Concealed Courtyard
 4 Prismatic Ending
 4 Flooded Strand
 4 Meddling Mage

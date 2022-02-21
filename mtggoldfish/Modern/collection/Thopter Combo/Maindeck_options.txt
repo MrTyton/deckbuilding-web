@@ -3,10 +3,10 @@
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Island
-3 Mishra's Bauble
-4 Mishra's Bauble
 1 Whir of Invention
 2 Whir of Invention
+3 Mishra's Bauble
+4 Mishra's Bauble
 1 Scalding Tarn
 1 Prismatic Ending
 2 Prismatic Ending
@@ -23,7 +23,6 @@
 4 Marsh Flats
 1 Polluted Delta
 1 Raugrin Triome
-3 Razortide Bridge
 4 Prismatic Ending
 3 Teferi, Time Raveler
 1 Watery Grave
@@ -31,8 +30,8 @@
 1 Engineered Explosives
 1 Chalice of the Void
 2 Chalice of the Void
-1 Counterspell
 1 Misty Rainforest
+1 Counterspell
 2 Counterspell
 3 Counterspell
 2 Sword of the Meek
@@ -40,17 +39,18 @@
 2 Hengegate Pathway
 2 Springleaf Drum
 3 Springleaf Drum
+3 Razortide Bridge
 2 Engineered Explosives
 2 Scalding Tarn
 2 Misty Rainforest
 3 Chalice of the Void
-4 Teferi, Time Raveler
 4 Counterspell
+4 Teferi, Time Raveler
 4 Chalice of the Void
 1 Steam Vents
 1 Ensnaring Bridge
-1 Snow-Covered Island
 1 Snow-Covered Plains
+1 Snow-Covered Island
 2 Snow-Covered Plains
 3 Darksteel Citadel
 4 Darksteel Citadel
@@ -59,8 +59,8 @@
 3 Thraben Inspector
 4 Thraben Inspector
 1 Arid Mesa
-1 Sacred Foundry
 1 Goblin Engineer
+1 Sacred Foundry
 2 Goblin Engineer
 3 Goblin Engineer
 4 Goblin Engineer
@@ -72,8 +72,8 @@
 2 Aether Vial
 3 Scalding Tarn
 3 Aether Vial
-4 Aether Vial
 4 Scalding Tarn
+4 Aether Vial
 2 Polluted Delta
 1 Academy Ruins
 1 Ephemerate
@@ -83,10 +83,13 @@
 3 Ephemerate
 4 Metallic Rebuke
 3 Hallowed Fountain
+3 Plains
 4 Whir of Invention
 1 Batterskull
 1 Glacial Fortress
 1 Welding Jar
+1 The Reality Chip
+1 Mystic Gate
 1 Pyrite Spellbomb
 2 Chromatic Star
 1 Brought Back
@@ -96,39 +99,36 @@
 1 Sword of Fire and Ice
 2 Etched Champion
 3 Hengegate Pathway
-3 Plains
 4 Razortide Bridge
 1 Emry, Lurker of the Loch
 2 Emry, Lurker of the Loch
 4 Hallowed Fountain
-1 Grafdigger's Cage
 1 Field of Ruin
 1 Void Mirror
-1 Spellskite
+1 Grafdigger's Cage
 1 Torpor Orb
+1 Spellskite
 1 Inventors' Fair
 1 Damping Sphere
 1 Path to Exile
 2 Path to Exile
 2 Ensnaring Bridge
 2 Pithing Needle
-1 The Reality Chip
-1 Tezzeret, Agent of Bolas
 1 Cave of the Frost Dragon
-1 Mystic Gate
+1 Tezzeret, Agent of Bolas
 1 Talisman of Dominance
 1 Witching Well
 2 Talisman of Dominance
-1 Hall of Storm Giants
 1 Expedition Map
+1 Hall of Storm Giants
 3 Chromatic Star
 1 Spire of Industry
 1 Glimmervoid
 1 Silverbluff Bridge
-1 Experimental Synthesizer
 1 Nihil Spellbomb
-2 Spire of Industry
+1 Experimental Synthesizer
 2 Glimmervoid
+2 Spire of Industry
 2 Talisman of Progress
 2 Experimental Synthesizer
 3 Spire of Industry

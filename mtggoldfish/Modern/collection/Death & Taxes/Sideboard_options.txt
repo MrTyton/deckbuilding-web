@@ -22,11 +22,11 @@
 1 Chalice of the Void
 1 Auriok Champion
 2 Auriok Champion
-1 Rip Apart
 1 Archon of Emeria
-2 Rip Apart
-2 Archon of Emeria
+1 Rip Apart
 2 Magus of the Moon
+2 Archon of Emeria
+2 Rip Apart
 3 Drannith Magistrate
 1 Mirran Crusader
 1 Sword of Body and Mind
@@ -45,9 +45,9 @@
 1 Dauthi Voidwalker
 1 Lurrus of the Dream-Den
 2 Dauthi Voidwalker
-1 Spirit Summoning
-1 Inkling Summoning
 1 Reduce to Memory
+1 Inkling Summoning
+1 Spirit Summoning
 1 Academic Probation
 2 Reduce to Memory
 1 Sword of Fire and Ice
@@ -55,6 +55,16 @@
 1 Prismatic Ending
 1 Embereth Shieldbreaker
 2 Prismatic Ending
+1 Celestial Purge
+1 Sword of Light and Shadow
+1 Kor Firewalker
+1 Settle the Wreckage
+1 Remorseful Cleric
+1 Blessed Alliance
+2 Celestial Purge
+2 Remorseful Cleric
+2 Blessed Alliance
+3 Blessed Alliance
 1 Engineered Explosives
 1 Torpor Orb
 1 Endurance
@@ -65,18 +75,8 @@
 2 Force of Vigor
 2 Endurance
 3 Endurance
-3 Force of Vigor
 3 Engineered Explosives
-1 Celestial Purge
-1 Kor Firewalker
-1 Settle the Wreckage
-1 Remorseful Cleric
-1 Sword of Light and Shadow
-1 Blessed Alliance
-2 Celestial Purge
-2 Remorseful Cleric
-2 Blessed Alliance
-3 Blessed Alliance
+3 Force of Vigor
 2 Collector Ouphe
 3 Collector Ouphe
 4 Burrenton Forge-Tender

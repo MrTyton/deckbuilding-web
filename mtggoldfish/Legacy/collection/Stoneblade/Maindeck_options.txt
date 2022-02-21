@@ -1,27 +1,27 @@
-1 Spell Pierce
-1 Narset, Parter of Veils
-1 Karakas
-3 Wasteland
-4 Wasteland
-2 Plains
-4 Island
-3 Snapcaster Mage
-4 Prismatic Vista
-3 Scalding Tarn
-1 Umezawa's Jitte
-2 Volcanic Island
-3 Tundra
-1 Stifle
-2 Stifle
 3 Stifle
 4 Daze
-5 Island
-1 Mountain
-2 Jace, the Mind Sculptor
+3 Scalding Tarn
+1 Snapcaster Mage
+1 Back to Basics
+2 Back to Basics
+3 Island
+1 Jace, the Mind Sculptor
+2 Snapcaster Mage
+3 Prismatic Vista
 1 Delver of Secrets
 2 Delver of Secrets
 3 Delver of Secrets
 4 Delver of Secrets
+1 Umezawa's Jitte
+1 Misty Rainforest
+2 Misty Rainforest
+3 Misty Rainforest
+2 Plains
+1 Spell Pierce
+4 Island
+1 Narset, Parter of Veils
+4 Scalding Tarn
+4 Stifle
 2 Polluted Delta
 1 Underground Sea
 1 Thassa's Oracle
@@ -45,33 +45,30 @@
 3 Aether Vial
 4 Polluted Delta
 4 Cephalid Illusionist
-1 Misty Rainforest
-2 Misty Rainforest
-3 Misty Rainforest
-4 Scalding Tarn
-4 Stifle
-1 Snow-Covered Plains
-1 Snow-Covered Island
+1 Mountain
+5 Island
+3 Snapcaster Mage
+4 Prismatic Vista
+2 Jace, the Mind Sculptor
 2 Cavern of Souls
 1 Hullbreacher
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
+1 Snow-Covered Plains
+1 Snow-Covered Island
 1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
 4 Urza's Saga
 3 Nomads en-Kor
 1 Sword of Fire and Ice
-1 Snow-Covered Mountain
-1 Counterbalance
-3 Jace, the Mind Sculptor
+2 Snow-Covered Island
+3 Snow-Covered Island
+4 Snow-Covered Island
 4 Nomads en-Kor
 1 Brazen Borrower
 1 Arid Mesa
 2 Arid Mesa
 1 Preordain
-2 Snow-Covered Plains
+1 Snow-Covered Mountain
 2 Force of Negation
 1 Pithing Needle
 1 Counterspell
@@ -87,6 +84,8 @@
 2 Sylvan Library
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
+1 Counterbalance
+3 Jace, the Mind Sculptor
 6 Island
 1 Esper Sentinel
 2 Esper Sentinel
@@ -96,6 +95,7 @@
 3 Volcanic Island
 1 Dress Down
 2 Preordain
+2 Snow-Covered Plains
 4 Prismatic Ending
 2 Narset, Parter of Veils
 1 Swamp
@@ -120,8 +120,6 @@
 2 Dragon's Rage Channeler
 3 Dragon's Rage Channeler
 4 Dragon's Rage Channeler
-5 Snow-Covered Island
-6 Snow-Covered Island
 1 Expressive Iteration
 1 Eiganjo, Seat of the Empire
 1 Lion Sash

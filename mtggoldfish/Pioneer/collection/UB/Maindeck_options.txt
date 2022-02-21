@@ -52,9 +52,9 @@
 3 Shipwreck Marsh
 1 Urborg, Tomb of Yawgmoth
 3 Heartless Act
+1 Stern Dismissal
 1 Neutralize
 1 Dispel
-1 Stern Dismissal
 2 Hall of Storm Giants
 3 Day's Undoing
 4 Day's Undoing
@@ -77,30 +77,30 @@
 1 Vraska's Contempt
 2 The Meathook Massacre
 2 Power Word Kill
-2 Torrential Gearhulk
-2 Search for Azcanta
-2 Languish
-3 Search for Azcanta
 1 Fateful Absence
 1 Glacial Fortress
+1 Hallowed Fountain
 1 Teferi, Hero of Dominaria
+1 Supreme Verdict
 1 Dovin's Veto
 1 Deserted Beach
 1 Castle Ardenvale
 1 Brightclimb Pathway
-1 Hallowed Fountain
 1 Plains
-1 Supreme Verdict
+2 Deserted Beach
 2 Fateful Absence
 2 Glacial Fortress
+2 Hallowed Fountain
 2 Teferi, Hero of Dominaria
 2 Negate
 2 Brightclimb Pathway
-2 Deserted Beach
-2 Hallowed Fountain
+3 Deserted Beach
 3 Brightclimb Pathway
 3 Teferi, Hero of Dominaria
-3 Deserted Beach
+2 Torrential Gearhulk
+2 Search for Azcanta
+2 Languish
+3 Search for Azcanta
 1 Snow-Covered Swamp
 1 Snow-Covered Island
 2 Snow-Covered Swamp
@@ -112,22 +112,22 @@
 4 Shipwreck Marsh
 1 Mission Briefing
 1 Soul Shatter
-1 Multiple Choice
 1 Strategic Planning
 1 Thought Erasure
+1 Multiple Choice
 1 Treasure Cruise
 1 Augur of Bolas
 2 Mission Briefing
-2 Soul Shatter
-2 Multiple Choice
 2 Strategic Planning
+2 Soul Shatter
 2 Treasure Cruise
 2 Augur of Bolas
+2 Multiple Choice
 2 Thought Erasure
-3 Augur of Bolas
 3 Treasure Cruise
-4 Augur of Bolas
+3 Augur of Bolas
 4 Treasure Cruise
+4 Augur of Bolas
 1 Brazen Borrower
 1 Zareth San, the Trickster
 1 Nighthawk Scavenger
@@ -138,16 +138,13 @@
 2 Brazen Borrower
 2 Thieves' Guild Enforcer
 2 Nighthawk Scavenger
-3 Thieves' Guild Enforcer
 3 Castle Locthwain
+3 Thieves' Guild Enforcer
 3 Hive of the Eye Tyrant
 3 Soaring Thought-Thief
 4 Soaring Thought-Thief
 4 Drown in the Loch
 4 Thieves' Guild Enforcer
-2 Baleful Mastery
-4 Fabled Passage
-4 Field of Ruin
 1 Siphon Insight
 1 Behold the Multiverse
 1 Ritual of Soot
@@ -160,3 +157,6 @@
 5 Swamp
 6 Swamp
 6 Island
+2 Baleful Mastery
+4 Fabled Passage
+4 Field of Ruin
