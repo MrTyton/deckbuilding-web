@@ -82,8 +82,8 @@
 1 Gods Willing
 1 Faceless Haven
 1 Snow-Covered Plains
-2 Faceless Haven
 2 Snow-Covered Plains
+2 Faceless Haven
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
@@ -104,8 +104,8 @@
 1 Shefet Dunes
 1 Beloved Princess
 1 Venerated Loxodon
-2 Thalia's Lieutenant
 2 Esper Sentinel
+2 Thalia's Lieutenant
 2 Beloved Princess
 2 Venerated Loxodon
 3 Thalia's Lieutenant
@@ -141,14 +141,14 @@
 3 Shadowspear
 1 Glory-Bound Initiate
 1 Oketra the True
-1 Knight of Autumn
-2 Knight of Autumn
-3 Knight of Autumn
 1 Benalish Marshal
 2 Benalish Marshal
 2 Giant Killer
 2 Gods Willing
 3 Benalish Marshal
+1 Knight of Autumn
+2 Knight of Autumn
+3 Knight of Autumn
 1 Luminarch Aspirant
 2 Luminarch Aspirant
 3 Luminarch Aspirant
@@ -160,34 +160,34 @@
 2 Youthful Valkyrie
 4 Skyclave Apparition
 4 Banishing Light
-1 Castle Locthwain
+1 Erebos's Intervention
 1 Oath of Kaya
 1 Linvala, Keeper of Silence
-1 Isolated Chapel
-1 Erebos's Intervention
 1 Angelic Ascension
+1 Castle Locthwain
+1 Isolated Chapel
 1 Elspeth, Sun's Nemesis
 1 Godless Shrine
 1 Temple of Silence
 2 Erebos's Intervention
 2 Oath of Kaya
-2 Isolated Chapel
+2 Castle Locthwain
 2 Elspeth, Sun's Nemesis
+2 Isolated Chapel
 2 Angelic Ascension
 2 Godless Shrine
 2 Temple of Silence
-2 Castle Locthwain
 2 Linvala, Keeper of Silence
 3 Oath of Kaya
-3 Isolated Chapel
 3 Temple of Silence
 3 Scoured Barrens
 3 Godless Shrine
+3 Isolated Chapel
 4 Isolated Chapel
 4 Godless Shrine
 4 Temple of Silence
-1 Mazemind Tome
 1 Fight as One
+1 Mazemind Tome
 2 Selfless Savior
 2 Fight as One
 3 Selfless Savior
@@ -214,10 +214,10 @@
 1 Sacred Cat
 2 Sacred Cat
 4 Authority of the Consuls
-1 God-Eternal Oketra
 1 Elspeth Conquers Death
 1 Containment Priest
 1 Mikaeus, the Lunarch
+1 God-Eternal Oketra
 1 Revitalize
 1 Secluded Steppe
 1 Wrath of God
@@ -254,10 +254,10 @@
 2 Brightclimb Pathway
 2 Swamp
 2 Voice of the Blessed
-3 Swamp
 3 Cleric Class
 3 Voice of the Blessed
 3 Lunarch Veteran
+3 Swamp
 4 Swamp
 5 Swamp
 6 Swamp
