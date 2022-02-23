@@ -21,19 +21,11 @@
 1 Dawnbringer Cleric
 1 Paladin Class
 1 Maul of the Skyclaves
-1 Containment Breach
 1 Reduce to Memory
-1 Pest Summoning
-1 Environmental Sciences
-1 Borrowed Time
+1 Yasharn, Implacable Earth
+1 Containment Breach
 1 Minimus Containment
 2 Minimus Containment
-1 Fractal Summoning
-1 Expanded Anatomy
-1 Wrenn and Seven
-1 Yasharn, Implacable Earth
-2 Borrowed Time
-2 Portable Hole
 1 Pithing Needle
 1 Hopeful Initiate
 2 Pithing Needle
@@ -45,6 +37,7 @@
 1 Enduring Angel
 1 Faithbound Judge
 2 Sigardian Paladin
+1 Wrenn and Seven
 1 Valorous Stance
 2 Wrenn and Seven
 2 Valorous Stance
@@ -55,14 +48,21 @@
 1 Oran-Rief Ooze
 2 Drizzt Do'Urden
 2 Oran-Rief Ooze
+1 Pest Summoning
+1 Environmental Sciences
 1 Mascot Exhibition
 1 Tangletrap
 2 Tangletrap
 2 Archon of Emeria
 2 Sigrid, God-Favored
+2 Portable Hole
+1 Borrowed Time
+2 Borrowed Time
 1 Rabid Bite
 1 Spirit Summoning
 1 Trelasarra, Moon Dancer
+1 Fractal Summoning
+1 Expanded Anatomy
 1 Expel
 2 Expel
 2 Rabid Bite
@@ -87,12 +87,12 @@
 2 Sungold Sentinel
 2 Sejiri Shelter
 3 Sejiri Shelter
-1 Disenchant
 1 Luminarch Aspirant
 1 Plummet
 1 Clarion Spirit
 1 Intrepid Adversary
 1 Chaplain of Alms
+1 Disenchant
 2 Clarion Spirit
 2 Plummet
 2 Intrepid Adversary
@@ -119,9 +119,6 @@
 3 Brutal Cathar
 4 Cathar Commando
 4 Brutal Cathar
-1 Introduction to Annihilation
-2 Disenchant
-2 Environmental Sciences
 1 Rune of Sustenance
 1 Thunderous Orator
 2 Thunderous Orator

@@ -1,5 +1,4 @@
 4 Temple Garden
-2 Spirit Link
 1 Misty Rainforest
 2 Misty Rainforest
 1 Island
@@ -10,15 +9,15 @@
 2 Hallowed Fountain
 3 Staggering Insight
 4 Staggering Insight
+1 Flooded Strand
 1 Curious Obsession
 1 Breeding Pool
-1 Flooded Strand
 1 Force of Negation
 1 Arcane Flight
+2 Flooded Strand
 2 Curious Obsession
 2 Arcane Flight
 2 Force of Negation
-2 Flooded Strand
 2 Aqueous Form
 3 Flooded Strand
 3 Force of Negation
@@ -26,18 +25,19 @@
 4 Flooded Strand
 4 Force of Negation
 4 Curious Obsession
-4 Hyena Umbra
+2 Spirit Link
+3 Path to Exile
 2 Forest
+1 Verdant Catacombs
+2 Verdant Catacombs
 1 Sythis, Harvest's Hand
 1 Leyline of Sanctity
 2 Leyline of Sanctity
-3 Path to Exile
+4 Hyena Umbra
 1 Wooded Foothills
 1 City of Brass
 2 City of Brass
 1 Prismatic Ending
-1 Verdant Catacombs
-2 Verdant Catacombs
 2 Wooded Foothills
 1 Branchloft Pathway
 1 Mana Confluence
@@ -46,6 +46,8 @@
 2 Sythis, Harvest's Hand
 3 Leyline of Sanctity
 4 Leyline of Sanctity
+1 Mana Tithe
+2 Mana Tithe
 1 Silhana Ledgewalker
 2 Silhana Ledgewalker
 3 Plains
@@ -55,8 +57,6 @@
 1 Warbriar Blessing
 2 Warbriar Blessing
 3 Warbriar Blessing
-1 Mana Tithe
-2 Mana Tithe
 3 Mana Tithe
 4 Gryff's Boon
 1 Sentinel's Eyes
@@ -68,9 +68,6 @@
 4 Brushland
 4 Branchloft Pathway
 4 Forest
-2 Prismatic Ending
-3 Prismatic Ending
-4 Prismatic Ending
 3 Spirit Mantle
 3 Spirit Link
 4 Path to Exile
@@ -79,13 +76,11 @@
 2 Field of Ruin
 3 Wooded Foothills
 4 Wooded Foothills
-3 Silhana Ledgewalker
-4 Silhana Ledgewalker
 1 Wild Shape
+1 Marsh Flats
 1 Snow-Covered Forest
 1 Snow-Covered Plains
 1 Rune of Sustenance
-1 Marsh Flats
 1 Sram, Senior Edificer
 1 Rune of Might
 2 Snow-Covered Plains
@@ -97,12 +92,17 @@
 3 Wild Shape
 3 Marsh Flats
 4 Marsh Flats
-1 Arid Mesa
+2 Prismatic Ending
+3 Prismatic Ending
+4 Prismatic Ending
+3 Silhana Ledgewalker
+4 Silhana Ledgewalker
 1 Fortified Village
 1 Sunpetal Grove
-2 Arid Mesa
+1 Arid Mesa
 2 Sunpetal Grove
 2 Fortified Village
+2 Arid Mesa
 3 Sunpetal Grove
 3 Fortified Village
 4 Sunpetal Grove

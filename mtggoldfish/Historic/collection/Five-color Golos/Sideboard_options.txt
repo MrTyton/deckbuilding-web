@@ -29,9 +29,9 @@
 1 Aether Gust
 2 Aether Gust
 1 Mystical Dispute
+2 Mystical Dispute
 1 Dovin's Veto
 1 Teferi, Hero of Dominaria
-2 Mystical Dispute
 2 Dovin's Veto
 3 Thought Distortion
 3 Mystical Dispute
@@ -41,19 +41,15 @@
 1 Negate
 2 Negate
 1 Soul-Guide Lantern
-2 Soul-Guide Lantern
-3 Negate
-4 Negate
 1 Drannith Magistrate
 1 Doomskar
 1 Banishing Light
+2 Soul-Guide Lantern
 2 Doomskar
+3 Negate
 3 Doomskar
+4 Negate
 1 Treasure Vault
-1 Wrath of God
-2 Wrath of God
-1 Ruinous Ultimatum
-2 Ruinous Ultimatum
 3 Destiny Spinner
 1 Necromentia
 1 Storm's Wrath
@@ -66,26 +62,40 @@
 1 Ashiok, Dream Render
 2 Saw It Coming
 2 Test of Talents
-1 Chandra, Awakened Inferno
 1 Return to Nature
 1 Inquisition of Kozilek
 1 Bloodchief's Thirst
+1 Chandra, Awakened Inferno
 2 Bloodchief's Thirst
 2 Return to Nature
 1 God-Pharaoh's Gift
 1 Gleaming Barrier
 2 Gleaming Barrier
+2 Golos, Tireless Pilgrim
+3 Golos, Tireless Pilgrim
+1 Brazen Borrower
+1 Svyelun of Sea and Sky
+1 Dual Shot
+1 Pact of Negation
+1 Anger of the Gods
+2 Brazen Borrower
+2 Dual Shot
+2 Svyelun of Sea and Sky
+2 Anger of the Gods
+2 Pact of Negation
 1 The Immortal Sun
 1 Sea Gate Restoration
 1 Alrund's Epiphany
 1 Ashiok's Erasure
 1 Gaea's Blessing
 1 Inspired Ultimatum
+1 Ruinous Ultimatum
 1 Thousand-Year Storm
 1 Fall of the Thran
 1 Overwhelming Splendor
 1 Jace, Wielder of Mysteries
 2 Inspired Ultimatum
+2 Ruinous Ultimatum
 1 Introduction to Annihilation
 1 Thran Temporal Gateway
 1 Pithing Needle
@@ -94,15 +104,16 @@
 2 Introduction to Annihilation
 3 Introduction to Annihilation
 1 The Meathook Massacre
-1 Leyline of Sanctity
 1 Rest in Peace
+1 Leyline of Sanctity
 1 Rule of Law
+1 Wrath of God
 2 Rest in Peace
+2 Wrath of God
 2 The Immortal Sun
 2 Leyline of Sanctity
 3 Rest in Peace
 3 Leyline of Sanctity
-3 Wrath of God
 1 Baneslayer Angel
 2 Knight of Autumn
 4 Destiny Spinner
@@ -113,10 +124,8 @@
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
 2 Shark Typhoon
-2 Golos, Tireless Pilgrim
 2 Commence the Endgame
 2 Massacre Girl
-3 Golos, Tireless Pilgrim
 3 Chandra, Torch of Defiance
 4 Chandra, Torch of Defiance
 3 Massacre Girl

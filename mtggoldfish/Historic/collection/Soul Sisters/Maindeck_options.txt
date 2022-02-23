@@ -99,23 +99,23 @@
 15 Snow-Covered Plains
 16 Snow-Covered Plains
 1 Cave of the Frost Dragon
-1 Thalia's Lieutenant
 1 Esper Sentinel
 1 Shefet Dunes
 1 Beloved Princess
+1 Thalia's Lieutenant
 1 Venerated Loxodon
 2 Esper Sentinel
-2 Thalia's Lieutenant
 2 Beloved Princess
 2 Venerated Loxodon
-3 Thalia's Lieutenant
+2 Thalia's Lieutenant
 3 Esper Sentinel
 3 Beloved Princess
 3 Venerated Loxodon
-4 Thalia's Lieutenant
+3 Thalia's Lieutenant
 4 Esper Sentinel
 4 Venerated Loxodon
 4 Beloved Princess
+4 Thalia's Lieutenant
 4 Unbreakable Formation
 1 Luminous Broodmoth
 3 Ranger of Eos
@@ -141,6 +141,9 @@
 3 Shadowspear
 1 Glory-Bound Initiate
 1 Oketra the True
+1 Search for Glory
+2 Emeria's Call
+3 Emeria's Call
 1 Benalish Marshal
 2 Benalish Marshal
 2 Giant Killer
@@ -152,9 +155,6 @@
 1 Luminarch Aspirant
 2 Luminarch Aspirant
 3 Luminarch Aspirant
-1 Search for Glory
-2 Emeria's Call
-3 Emeria's Call
 1 Reidane, God of the Worthy
 1 Youthful Valkyrie
 2 Youthful Valkyrie
@@ -186,8 +186,8 @@
 4 Isolated Chapel
 4 Godless Shrine
 4 Temple of Silence
-1 Fight as One
 1 Mazemind Tome
+1 Fight as One
 2 Selfless Savior
 2 Fight as One
 3 Selfless Savior
@@ -222,23 +222,23 @@
 1 Secluded Steppe
 1 Wrath of God
 1 Realm-Cloaked Giant
+2 Luminous Broodmoth
 2 Containment Priest
 2 Secluded Steppe
 2 Revitalize
 2 Wrath of God
-2 Luminous Broodmoth
 2 Realm-Cloaked Giant
 2 Basri Ket
+3 Luminous Broodmoth
 3 Containment Priest
 3 Secluded Steppe
 3 Revitalize
-3 Luminous Broodmoth
 3 Basri Ket
 4 Secluded Steppe
 4 Basri Ket
-1 Elite Spellbinder
 1 Kor Celebrant
 1 Cleric Class
+1 Elite Spellbinder
 1 Valkyrie Harbinger
 1 Brightclimb Pathway
 1 Voice of the Blessed
@@ -246,9 +246,9 @@
 1 Shattered Sanctum
 1 Lunarch Veteran
 1 Banehound
-2 Elite Spellbinder
 2 Kor Celebrant
 2 Cleric Class
+2 Elite Spellbinder
 2 Banehound
 2 Lunarch Veteran
 2 Brightclimb Pathway
@@ -265,27 +265,27 @@
 2 Radiant Fountain
 17 Snow-Covered Plains
 18 Snow-Covered Plains
-1 Ranger-Captain of Eos
 1 Prosperous Innkeeper
 1 Forest
 1 Cathars' Crusade
 1 Trelasarra, Moon Dancer
+1 Ranger-Captain of Eos
 1 Scurry Oak
-2 Ranger-Captain of Eos
+2 Prosperous Innkeeper
 2 Forest
 2 Cathars' Crusade
 2 Trelasarra, Moon Dancer
-2 Prosperous Innkeeper
 2 Scurry Oak
+2 Ranger-Captain of Eos
+3 Prosperous Innkeeper
 3 Ranger-Captain of Eos
 3 Forest
-3 Prosperous Innkeeper
 3 Scurry Oak
 3 Cathars' Crusade
 3 Trelasarra, Moon Dancer
 4 Prosperous Innkeeper
-4 Ranger-Captain of Eos
 4 Forest
 4 Scurry Oak
+4 Ranger-Captain of Eos
 5 Forest
 4 Trelasarra, Moon Dancer
