@@ -14,29 +14,29 @@
 1 Fire/Ice
 3 Flooded Strand
 1 Snow-Covered Island
-1 Sacred Foundry
 1 Prismatic Ending
 1 Hallowed Fountain
-4 Force of Negation
+1 Sacred Foundry
 4 Flooded Strand
-1 Sleight of Hand
-1 Geist of Saint Traft
+4 Force of Negation
 1 Seachrome Coast
+1 Geist of Saint Traft
+1 Stoneforge Mystic
+1 Batterskull
+1 Sleight of Hand
 1 Path to Exile
 1 Snow-Covered Plains
-1 Batterskull
 1 Maul of the Skyclaves
-1 Stoneforge Mystic
-2 Sleight of Hand
 2 Seachrome Coast
 2 Geist of Saint Traft
-2 Path to Exile
 2 Stoneforge Mystic
-3 Sleight of Hand
+2 Sleight of Hand
+2 Path to Exile
 3 Seachrome Coast
+3 Sleight of Hand
+3 Stoneforge Mystic
 3 Geist of Saint Traft
 3 Path to Exile
-3 Stoneforge Mystic
 4 Stoneforge Mystic
 4 Sleight of Hand
 4 Geist of Saint Traft
@@ -60,15 +60,15 @@
 3 Sprite Dragon
 1 Snapcaster Mage
 4 Ragavan, Nimble Pilferer
-1 Inquisition of Kozilek
 1 Watery Grave
+1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
 1 Bloodstained Mire
-1 Breeding Pool
 1 Tarmogoyf
-2 Breeding Pool
+1 Breeding Pool
 2 Tarmogoyf
+2 Breeding Pool
 3 Tarmogoyf
 1 Consider
 2 Consider
@@ -79,15 +79,15 @@
 2 Brazen Borrower
 2 Drown in the Loch
 1 Unearth
-1 Fatal Push
 1 Dauthi Voidwalker
+1 Fatal Push
 1 Thoughtseize
 1 Swamp
 2 Snapcaster Mage
-2 Fatal Push
-2 Thoughtseize
 2 Dauthi Voidwalker
+2 Thoughtseize
 2 Watery Grave
+2 Fatal Push
 3 Watery Grave
 3 Fatal Push
 3 Dauthi Voidwalker
@@ -98,21 +98,11 @@
 2 Snow-Covered Island
 3 Spell Pierce
 3 Subtlety
-1 Archmage's Charm
-1 Esper Sentinel
-2 Archmage's Charm
-2 Esper Sentinel
-2 Prismatic Ending
-2 Hallowed Fountain
-3 Esper Sentinel
-3 Prismatic Ending
-4 Prismatic Ending
-4 Esper Sentinel
-1 Urborg, Tomb of Yawgmoth
 1 Castle Locthwain
 1 Sedgemoor Witch
-1 Creeping Tar Pit
+1 Urborg, Tomb of Yawgmoth
 1 Bloodchief's Thirst
+1 Creeping Tar Pit
 1 Heartless Act
 2 Darkslick Shores
 2 Unearth
@@ -121,35 +111,6 @@
 3 Darkslick Shores
 4 Darkslick Shores
 4 Inquisition of Kozilek
-1 Verdant Catacombs
-1 Dismember
-1 Agadeem's Awakening
-1 Death's Shadow
-2 Verdant Catacombs
-2 Dismember
-2 Death's Shadow
-2 Suspend
-3 Thoughtseize
-3 Verdant Catacombs
-3 Death's Shadow
-4 Thoughtseize
-4 Verdant Catacombs
-4 Watery Grave
-4 Death's Shadow
-4 Dauthi Voidwalker
-4 Fatal Push
-1 Snow-Covered Swamp
-1 Kolaghan's Command
-2 Kolaghan's Command
-3 Bloodstained Mire
-3 Drown in the Loch
-4 Bloodstained Mire
-4 Drown in the Loch
-1 The Biblioplex
-1 Chromatic Star
-2 Chromatic Star
-3 Chromatic Star
-4 Chromatic Star
 1 Abundant Harvest
 1 Traverse the Ulvenwald
 1 Forest
@@ -160,30 +121,69 @@
 3 Abundant Harvest
 3 Traverse the Ulvenwald
 4 Tarmogoyf
+1 Snow-Covered Swamp
+1 Kolaghan's Command
+2 Kolaghan's Command
+3 Bloodstained Mire
+3 Drown in the Loch
+4 Bloodstained Mire
+4 Drown in the Loch
+1 Archmage's Charm
+1 Esper Sentinel
+2 Hallowed Fountain
+2 Archmage's Charm
+2 Esper Sentinel
+2 Prismatic Ending
+3 Esper Sentinel
+3 Prismatic Ending
+4 Esper Sentinel
+4 Prismatic Ending
+1 Verdant Catacombs
+1 Dismember
+1 Agadeem's Awakening
+1 Death's Shadow
+2 Verdant Catacombs
+2 Dismember
+2 Death's Shadow
+2 Suspend
+3 Verdant Catacombs
+3 Death's Shadow
+3 Thoughtseize
+4 Thoughtseize
+4 Verdant Catacombs
+4 Watery Grave
+4 Death's Shadow
+4 Fatal Push
+4 Dauthi Voidwalker
+1 The Biblioplex
+1 Chromatic Star
+2 Chromatic Star
+3 Chromatic Star
+4 Chromatic Star
 1 Monastery Swiftspear
 1 Gut Shot
 1 Vapor Snag
-1 Rift Bolt
-1 Mana Leak
 1 Young Pyromancer
-1 Light Up the Stage
+1 Rift Bolt
 1 Goblin Guide
-2 Monastery Swiftspear
+1 Mana Leak
+1 Light Up the Stage
 2 Wooded Foothills
+2 Monastery Swiftspear
+2 Mountain
 2 Gut Shot
 2 Blood Crypt
-2 Rift Bolt
-2 Mana Leak
-2 Goblin Guide
 2 Young Pyromancer
-2 Mountain
+2 Rift Bolt
+2 Goblin Guide
+2 Mana Leak
 2 Light Up the Stage
 3 Monastery Swiftspear
-3 Rift Bolt
 3 Wooded Foothills
+3 Rift Bolt
+3 Goblin Guide
 3 Mana Leak
 3 Light Up the Stage
-3 Goblin Guide
 4 Monastery Swiftspear
 4 Wooded Foothills
 4 Rift Bolt

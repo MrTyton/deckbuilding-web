@@ -7,12 +7,12 @@
 1 Bone Shards
 1 Soul-Guide Lantern
 1 Marsh Flats
-1 Persist
 1 Unmarked Grave
-2 Unmarked Grave
+1 Persist
 2 Persist
-3 Unmarked Grave
+2 Unmarked Grave
 3 Persist
+3 Unmarked Grave
 4 Persist
 4 Unmarked Grave
 1 Blood Fountain
@@ -20,30 +20,30 @@
 2 Bone Shards
 3 Blood Fountain
 4 Blood Fountain
-1 Silent Clearing
+1 Godless Shrine
+1 Unburial Rites
 1 Castle Locthwain
 1 Archon of Cruelty
-1 Unburial Rites
 1 Herald of Anguish
-1 Godless Shrine
+1 Silent Clearing
+2 Godless Shrine
+2 Marsh Flats
 2 Archon of Cruelty
 2 Herald of Anguish
-2 Marsh Flats
-2 Godless Shrine
 2 Castle Locthwain
 3 Marsh Flats
 3 Archon of Cruelty
 3 Herald of Anguish
-4 Herald of Anguish
 4 Marsh Flats
+4 Herald of Anguish
 1 Grist, the Hunger Tide
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
-1 Cavern of Souls
 1 Liliana of the Veil
+1 Cavern of Souls
 2 Cavern of Souls
 3 Castle Locthwain
 1 Ravenous Squirrel
@@ -62,9 +62,9 @@
 3 Grist, the Hunger Tide
 1 Lightning Bolt
 1 Copperline Gorge
+2 Lightning Bolt
 2 Copperline Gorge
 2 Wooded Foothills
-2 Lightning Bolt
 3 Lightning Bolt
 3 Copperline Gorge
 3 Wooded Foothills
@@ -124,7 +124,6 @@
 4 Spirebluff Canal
 4 Mishra's Bauble
 2 Ignoble Hierarch
-2 Silent Clearing
 1 Prismatic Vista
 2 Prismatic Vista
 1 Abrupt Decay
@@ -132,6 +131,7 @@
 1 Kaya, Orzhov Usurper
 1 Temple Garden
 2 Kaya, Orzhov Usurper
+2 Silent Clearing
 1 Endurance
 1 Breeding Pool
 2 Endurance
@@ -145,17 +145,17 @@
 3 Fatal Push
 3 Primeval Titan
 1 Ragavan, Nimble Pilferer
+1 Arid Mesa
 1 Tarmogoyf
+1 Sacred Foundry
 1 Unholy Heat
 1 Dragon's Rage Channeler
-1 Arid Mesa
-1 Sacred Foundry
 2 Ragavan, Nimble Pilferer
+2 Arid Mesa
 2 Tarmogoyf
 2 Sacred Foundry
-2 Unholy Heat
 2 Mountain
-2 Arid Mesa
+2 Unholy Heat
 2 Dragon's Rage Channeler
 3 Ragavan, Nimble Pilferer
 3 Tarmogoyf
@@ -192,8 +192,8 @@
 1 Pyrite Spellbomb
 1 Scalding Tarn
 1 Steam Vents
-2 Engineered Explosives
 2 Steam Vents
+2 Engineered Explosives
 2 Scalding Tarn
 2 Fiery Islet
 3 Scalding Tarn

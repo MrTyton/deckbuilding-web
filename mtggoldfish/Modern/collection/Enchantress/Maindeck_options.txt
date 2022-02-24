@@ -11,13 +11,13 @@
 1 Snow-Covered Island
 1 Breeding Pool
 1 Rest in Peace
-1 Spreading Seas
-1 Detention Sphere
-1 Riptide Chimera
 1 Omen of the Sea
-2 Spreading Seas
+1 Detention Sphere
+1 Spreading Seas
+1 Riptide Chimera
 2 Breeding Pool
 2 Omen of the Sea
+2 Spreading Seas
 2 Riptide Chimera
 3 Spreading Seas
 3 Misty Rainforest
@@ -102,14 +102,11 @@
 2 March of Otherworldly Light
 2 Jukai Naturalist
 3 Jukai Naturalist
+1 Plains
+2 Plains
+3 Plains
 3 Verdant Catacombs
 4 Verdant Catacombs
-1 Arbor Elf
-2 Arbor Elf
-3 Wooded Foothills
-3 Arbor Elf
-4 Arbor Elf
-4 Wooded Foothills
 1 Branchloft Pathway
 1 Borrowed Time
 2 Branchloft Pathway
@@ -118,6 +115,9 @@
 5 Snow-Covered Plains
 9 Snow-Covered Forest
 10 Snow-Covered Forest
-1 Plains
-2 Plains
-3 Plains
+1 Arbor Elf
+2 Arbor Elf
+3 Arbor Elf
+3 Wooded Foothills
+4 Arbor Elf
+4 Wooded Foothills
