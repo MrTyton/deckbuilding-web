@@ -1,15 +1,15 @@
-1 Misty Rainforest
-2 Misty Rainforest
+1 Polluted Delta
+1 Flooded Strand
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 2 Flooded Strand
 1 Mountain
 2 Polluted Delta
+1 Spell Pierce
 1 Subtlety
 2 Subtlety
 1 Tarfire
 3 Force of Negation
-1 Spell Pierce
 4 Unholy Heat
 1 Fire/Ice
 3 Flooded Strand
@@ -41,9 +41,11 @@
 4 Sleight of Hand
 4 Geist of Saint Traft
 4 Path to Exile
-1 Brazen Borrower
 2 Spell Pierce
+1 Brazen Borrower
 2 Fire/Ice
+3 Misty Rainforest
+4 Misty Rainforest
 3 Polluted Delta
 4 Polluted Delta
 1 Suspend
@@ -58,13 +60,20 @@
 3 Sprite Dragon
 1 Snapcaster Mage
 4 Ragavan, Nimble Pilferer
-3 Misty Rainforest
-4 Misty Rainforest
 1 Inquisition of Kozilek
 1 Watery Grave
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
 1 Bloodstained Mire
+1 Breeding Pool
+1 Tarmogoyf
+2 Breeding Pool
+2 Tarmogoyf
+3 Tarmogoyf
+1 Consider
+2 Consider
+3 Consider
+4 Consider
 1 Darkslick Shores
 1 Drown in the Loch
 2 Brazen Borrower
@@ -82,6 +91,7 @@
 3 Watery Grave
 3 Fatal Push
 3 Dauthi Voidwalker
+4 Steam Vents
 1 Blood Crypt
 2 Bloodstained Mire
 1 Wooded Foothills
@@ -128,31 +138,27 @@
 4 Death's Shadow
 4 Dauthi Voidwalker
 4 Fatal Push
-1 Consider
 1 Snow-Covered Swamp
 1 Kolaghan's Command
-2 Consider
 2 Kolaghan's Command
 3 Bloodstained Mire
-3 Consider
 3 Drown in the Loch
 4 Bloodstained Mire
-4 Consider
 4 Drown in the Loch
-1 Breeding Pool
+1 The Biblioplex
+1 Chromatic Star
+2 Chromatic Star
+3 Chromatic Star
+4 Chromatic Star
 1 Abundant Harvest
-1 Tarmogoyf
 1 Traverse the Ulvenwald
 1 Forest
 1 Stomping Ground
-2 Breeding Pool
 2 Abundant Harvest
-2 Tarmogoyf
 2 Traverse the Ulvenwald
 2 Tarfire
 3 Abundant Harvest
 3 Traverse the Ulvenwald
-3 Tarmogoyf
 4 Tarmogoyf
 1 Monastery Swiftspear
 1 Gut Shot
@@ -178,7 +184,6 @@
 3 Mana Leak
 3 Light Up the Stage
 3 Goblin Guide
-4 Steam Vents
 4 Monastery Swiftspear
 4 Wooded Foothills
 4 Rift Bolt

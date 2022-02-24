@@ -1,17 +1,17 @@
+4 Misty Rainforest
 1 Plague Stinger
 2 Plague Stinger
 3 Plague Stinger
-4 Misty Rainforest
 1 Windswept Heath
 2 Become Immense
-4 Plague Stinger
 2 Groundswell
+4 Plague Stinger
+1 Waterlogged Grove
+2 Breeding Pool
 3 Overgrown Tomb
 1 Fatal Push
 2 Fatal Push
 2 Nurturing Peatland
-1 Waterlogged Grove
-2 Breeding Pool
 1 Thoughtseize
 2 Thoughtseize
 1 Blooming Marsh
@@ -27,8 +27,6 @@
 2 Wooded Foothills
 1 Wild Shape
 2 Wild Shape
-1 Gemrazer
-2 Gemrazer
 3 Blossoming Defense
 4 Blossoming Defense
 2 Pendelhaven
@@ -36,14 +34,16 @@
 2 Distortion Strike
 2 Waterlogged Grove
 3 Waterlogged Grove
-3 Nurturing Peatland
-3 Wild Shape
-3 Fatal Push
+1 Gemrazer
+2 Gemrazer
 1 Snakeskin Veil
 2 Snakeskin Veil
 1 Botanical Sanctum
-3 Forest
 3 Breeding Pool
+3 Nurturing Peatland
+3 Wild Shape
+3 Fatal Push
+3 Forest
 1 Island
 1 Boseiju, Who Endures
 1 Dryad Arbor
@@ -65,6 +65,10 @@
 3 Thoughtseize
 1 Rancor
 3 Groundswell
+1 Force of Vigor
+2 Force of Vigor
+3 Snakeskin Veil
+3 Distortion Strike
 1 Viridian Corrupter
 1 Sleight of Hand
 1 Peek
