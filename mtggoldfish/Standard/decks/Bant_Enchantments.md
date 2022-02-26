@@ -27,3 +27,12 @@
 |                                                                                           |1 [Ranger Class](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527489)         |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                |                                                                                     |
 |                                                                                           |1 [Rune of Sustenance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503631)   |                                                                                                   |                                                                                     |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|---------------------|-------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                     |             |                    1|Katilda, Dawnhart Martyr                                                                   |
+|                     |             |                    1|[Generous Visitor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548493)|
+|                     |             |                    2|[Generous Visitor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548493)|
+

@@ -41,10 +41,10 @@
 1 Portable Hole
 2 Portable Hole
 5 Plains
-1 Lotus Cobra
 1 Briarbridge Tracker
-2 Lotus Cobra
+1 Lotus Cobra
 2 Briarbridge Tracker
+2 Lotus Cobra
 3 Briarbridge Tracker
 3 Neverwinter Dryad
 4 Briarbridge Tracker
@@ -54,9 +54,9 @@
 2 Legion Angel
 2 Boseiju, Who Endures
 1 Tovolar's Huntmaster
+1 Valorous Stance
 1 Spring-Leaf Avenger
 1 Kami of Transience
-1 Valorous Stance
 2 Kura, the Boundless Sky
 1 Outland Liberator
 1 Invoke the Ancients
@@ -64,25 +64,21 @@
 2 Invoke the Ancients
 3 Ao, the Dawn Sky
 3 Glorious Sunrise
-1 The Restoration of Eiganjo
-2 The Restoration of Eiganjo
-4 Neverwinter Dryad
 1 Elite Spellbinder
 1 Emergent Sequence
 2 Elite Spellbinder
 2 Emergent Sequence
 4 Yasharn, Implacable Earth
-1 Adeline, Resplendent Cathar
+1 The Restoration of Eiganjo
+2 The Restoration of Eiganjo
+4 Neverwinter Dryad
 1 Murasa Rootgrazer
-2 Adeline, Resplendent Cathar
+1 Adeline, Resplendent Cathar
 2 Murasa Rootgrazer
+2 Adeline, Resplendent Cathar
 3 Adeline, Resplendent Cathar
 3 Murasa Rootgrazer
 4 Murasa Rootgrazer
-1 Ranger Class
-2 Ranger Class
-6 Plains
-7 Forest
 1 Reckoner Bankbuster
 2 Reckoner Bankbuster
 3 Eiganjo, Seat of the Empire
@@ -90,3 +86,7 @@
 3 Careful Cultivation
 4 Careful Cultivation
 4 Touch the Spirit Realm
+7 Forest
+1 Ranger Class
+2 Ranger Class
+6 Plains

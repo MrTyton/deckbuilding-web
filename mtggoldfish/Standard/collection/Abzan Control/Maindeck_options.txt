@@ -2,9 +2,9 @@
 4 Vanishing Verse
 5 Snow-Covered Plains
 1 Sorin the Mirthless
+1 Swamp
 1 Shattered Sanctum
 1 Plains
-1 Swamp
 2 Shattered Sanctum
 1 Faceless Haven
 2 Faceless Haven
@@ -16,18 +16,18 @@
 6 Snow-Covered Plains
 4 Faceless Haven
 7 Snow-Covered Swamp
-1 The Wandering Emperor
 1 Takenuma, Abandoned Mire
+1 The Wandering Emperor
 1 Hagra Mauling
 1 Darkbore Pathway
 2 Darkbore Pathway
 3 Darkbore Pathway
 4 Darkbore Pathway
 1 Eiganjo, Seat of the Empire
-1 Branchloft Pathway
 1 Esika's Chariot
-2 Branchloft Pathway
+1 Branchloft Pathway
 2 Esika's Chariot
+2 Branchloft Pathway
 3 Esika's Chariot
 4 Esika's Chariot
 3 Rite of Oblivion
@@ -66,27 +66,27 @@
 3 Prosperous Innkeeper
 1 Wrenn and Seven
 1 Tangled Florahedron
-1 Kaya, Geist Hunter
 1 Dread Fugue
+1 Kaya, Geist Hunter
 1 Dig Up
 2 Wrenn and Seven
-2 Forest
 2 Dread Fugue
+2 Forest
 2 Tangled Florahedron
-2 Kaya, Geist Hunter
 2 Dig Up
-3 Wrenn and Seven
+2 Kaya, Geist Hunter
 3 Sorin the Mirthless
-3 Tangled Florahedron
+3 Wrenn and Seven
 3 Dread Fugue
+3 Tangled Florahedron
 3 Dig Up
 4 Tangled Florahedron
-1 Roadside Reliquary
 1 The Restoration of Eiganjo
+1 Roadside Reliquary
 2 The Restoration of Eiganjo
 3 The Restoration of Eiganjo
-4 Swamp
 4 Plains
+4 Swamp
 3 Concealing Curtains
 3 Welcoming Vampire
 8 Snow-Covered Swamp
@@ -101,23 +101,23 @@
 1 Reckoner Bankbuster
 2 Reckoner Bankbuster
 2 The Wandering Emperor
-1 Ambitious Farmhand
-1 Paladin Class
-1 Adeline, Resplendent Cathar
-2 Hagra Mauling
-2 Ambitious Farmhand
+1 Starnheim Unleashed
+2 Starnheim Unleashed
 1 Check for Traps
 1 Crippling Fear
 2 Check for Traps
-1 Starnheim Unleashed
-2 Starnheim Unleashed
+1 Paladin Class
+1 Ambitious Farmhand
+1 Adeline, Resplendent Cathar
+2 Hagra Mauling
+2 Ambitious Farmhand
 1 Duress
 2 Duress
 1 Doomskar
-1 Reidane, God of the Worthy
 1 Eaten Alive
 1 Lunarch Veteran
 1 Esika, God of the Tree
+1 Reidane, God of the Worthy
 1 Old Rutstein
 2 Doomskar
 2 Eaten Alive
@@ -138,21 +138,21 @@
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
 11 Snow-Covered Swamp
-1 Binding the Old Gods
-1 Arctic Treeline
-1 Ranger Class
-1 Woodland Chasm
 1 Spirited Companion
+1 Binding the Old Gods
+1 Ranger Class
+1 Arctic Treeline
+1 Woodland Chasm
 1 Kami of Transience
-2 Kami of Transience
+2 Spirited Companion
 2 Binding the Old Gods
 2 Ranger Class
-2 Spirited Companion
+2 Kami of Transience
 2 Arctic Treeline
-3 Kami of Transience
 3 Spirited Companion
+3 Kami of Transience
 3 Binding the Old Gods
 3 Dockside Chef
-4 Kami of Transience
 4 Spirited Companion
+4 Kami of Transience
 4 Dockside Chef

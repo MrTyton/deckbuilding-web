@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                             |*n*<sup>th</sup> copy|                                 Sideboard Card                                 |
 |--------------------:|------------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------|
-|                    1|[Sundown Pass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541142)               |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
-|                    2|[Haunted Ridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535061)              |                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
-|                    1|[Eiganjo, Seat of the Empire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548581)|                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
-|                     |                                                                                                      |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
+|                    1|[Eiganjo, Seat of the Empire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548581)|                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
+|                    1|[Sundown Pass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541142)               |                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
+|                    2|[Haunted Ridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535061)              |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
+|                     |                                                                                                      |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|
 

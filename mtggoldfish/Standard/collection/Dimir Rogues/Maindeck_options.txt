@@ -103,8 +103,8 @@
 3 Wizard Class
 3 You Find the Villains' Lair
 3 Yuan-Ti Malison
-4 You Find the Villains' Lair
 4 Wizard Class
+4 You Find the Villains' Lair
 2 Malevolent Hermit
 4 Memory Deluge
 1 Glasspool Mimic
@@ -156,12 +156,12 @@
 2 Nashi, Moon Sage's Scion
 3 Moon-Circuit Hacker
 1 Malakir Rebirth
-1 Curse of Leeches
 1 Bloodline Culling
-2 Malakir Rebirth
-2 Curse of Leeches
+1 Curse of Leeches
 2 Bloodline Culling
 2 Grazilaxx, Illithid Scholar
+2 Malakir Rebirth
+2 Curse of Leeches
 3 Soul Shatter
 3 Bloodline Culling
 3 Grazilaxx, Illithid Scholar
@@ -184,9 +184,9 @@
 4 Graveyard Trespasser
 3 Spell Pierce
 4 Spell Pierce
-4 Infernal Grasp
-4 Glasspool Mimic
-4 Agadeem's Awakening
+2 Dread Fugue
+3 Dread Fugue
+4 Dread Fugue
 1 Darkbore Pathway
 1 Alrund's Epiphany
 1 Barkchannel Pathway
@@ -213,19 +213,19 @@
 3 Glacial Grasp
 4 Power Word Kill
 4 Acquisitions Expert
-1 Reject
 1 Faceless Haven
-1 Haunting Voyage
+1 Devious Cover-Up
 1 Blood on the Snow
 1 Feed the Swarm
-1 Devious Cover-Up
 1 Rogue Class
 1 Varragoth, Bloodsky Sire
 1 Deadly Dispute
 1 Flip the Switch
 1 Shambling Ghast
 1 Eaten Alive
+1 Haunting Voyage
 1 Grim Bounty
+1 Reject
 1 Lolth, Spider Queen
 1 Tyrite Sanctum
 2 Eaten Alive
@@ -252,9 +252,9 @@
 3 Concerted Defense
 3 Spectral Adversary
 4 Spectral Adversary
-2 Dread Fugue
-3 Dread Fugue
-4 Dread Fugue
+4 Infernal Grasp
+4 Glasspool Mimic
+4 Agadeem's Awakening
 1 Dokuchi Silencer
 2 Dokuchi Silencer
 3 Network Disruptor
@@ -268,10 +268,10 @@
 2 Morbid Opportunist
 3 Hero's Downfall
 3 Morbid Opportunist
-4 Evolving Wilds
 4 Hero's Downfall
 4 Negate
 4 Morbid Opportunist
+4 Evolving Wilds
 10 Swamp
 1 Mischievous Catgeist
 1 Poison the Cup

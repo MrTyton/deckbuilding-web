@@ -82,7 +82,6 @@
 1 Mazemind Tome
 1 Toski, Bearer of Secrets
 2 Mazemind Tome
-2 Elspeth Conquers Death
 1 Reidane, God of the Worthy
 1 Shapers' Sanctuary
 2 Reidane, God of the Worthy
@@ -95,11 +94,12 @@
 1 Selfless Savior
 1 Speaker of the Heavens
 2 Soul-Guide Lantern
+2 Elspeth Conquers Death
 2 Authority of the Consuls
-1 Archon of Sun's Grace
 1 Baneslayer Angel
 1 Mentor of the Meek
 1 Soul Warden
+1 Archon of Sun's Grace
 2 Leonin Warleader
 2 Archon of Sun's Grace
 2 Baneslayer Angel
@@ -111,8 +111,6 @@
 2 Scavenging Ooze
 2 Declaration in Stone
 3 Declaration in Stone
-2 Lurrus of the Dream-Den
-3 Grafdigger's Cage
 1 Valentin, Dean of the Vein
 1 Fateful Absence
 1 Blessed Defiance
@@ -126,10 +124,15 @@
 2 Soulmender
 3 Dawnbringer Cleric
 3 Bloodchief's Thirst
+2 Lurrus of the Dream-Den
+3 Grafdigger's Cage
 3 Leyline of Sanctity
 1 Ajani, Adversary of Tyrants
 2 Ajani, Adversary of Tyrants
 3 Light of Hope
+1 Aerial Assault
+2 Mangara, the Diplomat
+3 Banishing Light
 1 Fall of the Thran
 1 Valorous Stance
 2 Valorous Stance
@@ -160,9 +163,6 @@
 3 Gideon's Sacrifice
 3 Tithe Taker
 3 Apostle of Purifying Light
-1 Aerial Assault
-2 Mangara, the Diplomat
-3 Banishing Light
 3 Yasharn, Implacable Earth
 3 Drannith Magistrate
 4 Thalia, Guardian of Thraben
