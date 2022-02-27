@@ -119,11 +119,11 @@
 2 Invoke Despair
 2 Bloodfell Caves
 2 The Celestus
-3 Invoke Despair
 3 Reckoner Bankbuster
+3 Invoke Despair
 3 Bloodfell Caves
-4 Invoke Despair
 4 Reckoner Bankbuster
+4 Invoke Despair
 4 Bloodfell Caves
 8 Swamp
 3 Valki, God of Lies
@@ -170,10 +170,9 @@
 2 Hero's Downfall
 2 Shadows' Verdict
 3 Hero's Downfall
-1 Olivia, Crimson Bride
-1 Soul Shatter
 1 Anje, Maid of Dishonor
-2 Ebondeath, Dracolich
+1 Soul Shatter
+1 Olivia, Crimson Bride
 1 Inscription of Ruin
 1 Go Blank
 1 Duress
@@ -183,6 +182,7 @@
 1 Dominating Vampire
 2 Eaten Alive
 2 Dominating Vampire
+2 Ebondeath, Dracolich
 1 Volatile Arsonist
 2 Volatile Arsonist
 3 Bloodvial Purveyor

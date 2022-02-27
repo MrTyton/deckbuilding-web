@@ -1,17 +1,17 @@
 1 Chancellor of the Annex
 1 Prismatic Ending
-1 Magus of the Moon
 2 Chancellor of the Annex
 3 Chancellor of the Annex
-2 Prismatic Ending
 3 Wear/Tear
+1 Magus of the Moon
 2 Thoughtseize
+2 Prismatic Ending
 1 Ashen Rider
 1 Silence
 2 Silence
-3 Prismatic Ending
-3 Silence
 4 Chancellor of the Annex
+3 Silence
+3 Prismatic Ending
 4 Silence
 1 Echoing Truth
 2 Echoing Truth
@@ -29,28 +29,21 @@
 4 Chain of Smog
 2 Show and Tell
 3 Show and Tell
+4 Show and Tell
 1 Surgical Extraction
 3 Spoils of the Vault
 4 Thoughtseize
+1 Serra's Emissary
 1 Grief
 2 Grief
 2 Magus of the Moon
-4 Show and Tell
 1 Witherbloom Apprentice
 2 Witherbloom Apprentice
 3 Witherbloom Apprentice
 1 Duress
-1 Leyline of the Void
-2 Leyline of the Void
-3 Leyline of the Void
-1 Dauthi Voidwalker
-2 Dauthi Voidwalker
-3 Dauthi Voidwalker
-4 Dauthi Voidwalker
-1 Feed the Swarm
-1 Disenchant
 1 Archon of Cruelty
-1 Serra's Emissary
+1 Disenchant
+1 Feed the Swarm
 1 Swamp
 1 Burning Wish
 1 Abrupt Decay
@@ -60,10 +53,14 @@
 1 Xantid Swarm
 2 Xantid Swarm
 3 Xantid Swarm
-1 Turn the Earth
 1 Reverent Silence
+1 Turn the Earth
 2 Reverent Silence
 3 Reverent Silence
+1 Dauthi Voidwalker
+2 Dauthi Voidwalker
+3 Dauthi Voidwalker
+4 Dauthi Voidwalker
 1 Professor Onyx
 1 Massacre Wurm
 1 Grim Monolith
@@ -80,9 +77,12 @@
 4 Red Elemental Blast
 1 Helm of Obedience
 1 Opposition Agent
+1 Leyline of the Void
 1 Rotting Regisaur
 2 Helm of Obedience
 2 Opposition Agent
+2 Leyline of the Void
 3 Helm of Obedience
+3 Leyline of the Void
 4 Leyline of the Void
 4 Helm of Obedience

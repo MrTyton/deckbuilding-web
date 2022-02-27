@@ -24,11 +24,11 @@
 2 Den of the Bugbear
 2 Mountain
 2 Blood Moon
-1 Obsidian Charmaw
 1 Windswept Heath
+1 Obsidian Charmaw
 1 Esper Sentinel
-2 Obsidian Charmaw
 2 Windswept Heath
+2 Obsidian Charmaw
 2 Plains
 2 Esper Sentinel
 3 Sacred Foundry
@@ -57,9 +57,9 @@
 1 Inspiring Vantage
 1 Lingering Souls
 2 Lingering Souls
-1 Lightning Skelemental
 1 Stitcher's Supplier
 1 Cling to Dust
+1 Lightning Skelemental
 1 Cathartic Pyre
 1 Unearth
 1 Goblin Bombardment
@@ -158,36 +158,6 @@
 1 Snow-Covered Mountain
 3 Kaya's Guile
 4 Unholy Heat
-1 Magmatic Channeler
-1 Grave Titan
-1 Prismatic Vista
-1 Feed the Swarm
-1 Temple of Malice
-1 Shred Memory
-1 Persist
-1 Madcap Experiment
-1 Lightning Axe
-1 Thrill of Possibility
-1 Unmarked Grave
-1 Platinum Emperion
-2 Prismatic Vista
-2 Magmatic Channeler
-2 Temple of Malice
-2 Madcap Experiment
-2 Lightning Axe
-2 Platinum Emperion
-2 Persist
-2 Shred Memory
-3 Swamp
-3 Magmatic Channeler
-3 Persist
-3 Madcap Experiment
-3 Archon of Cruelty
-4 Swamp
-4 Persist
-4 Archon of Cruelty
-5 Swamp
-6 Swamp
 1 Urza's Saga
 1 Lurrus of the Dream-Den
 1 Path to Exile
@@ -213,3 +183,33 @@
 4 Manamorphose
 4 Path to Exile
 4 Lurrus of the Dream-Den
+1 Magmatic Channeler
+1 Grave Titan
+1 Prismatic Vista
+1 Feed the Swarm
+1 Temple of Malice
+1 Shred Memory
+1 Persist
+1 Madcap Experiment
+1 Lightning Axe
+1 Thrill of Possibility
+1 Unmarked Grave
+1 Platinum Emperion
+2 Prismatic Vista
+2 Magmatic Channeler
+2 Temple of Malice
+2 Madcap Experiment
+2 Lightning Axe
+2 Platinum Emperion
+2 Persist
+2 Shred Memory
+3 Swamp
+3 Magmatic Channeler
+3 Persist
+3 Madcap Experiment
+3 Archon of Cruelty
+4 Persist
+4 Archon of Cruelty
+4 Swamp
+6 Swamp
+5 Swamp
