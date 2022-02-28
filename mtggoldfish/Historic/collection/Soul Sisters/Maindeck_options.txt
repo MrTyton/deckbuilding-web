@@ -141,9 +141,6 @@
 3 Shadowspear
 1 Glory-Bound Initiate
 1 Oketra the True
-1 Search for Glory
-2 Emeria's Call
-3 Emeria's Call
 1 Benalish Marshal
 2 Benalish Marshal
 2 Giant Killer
@@ -155,31 +152,34 @@
 1 Luminarch Aspirant
 2 Luminarch Aspirant
 3 Luminarch Aspirant
+1 Search for Glory
+2 Emeria's Call
+3 Emeria's Call
 1 Reidane, God of the Worthy
 1 Youthful Valkyrie
 2 Youthful Valkyrie
 4 Skyclave Apparition
 4 Banishing Light
-1 Castle Locthwain
-1 Oath of Kaya
-1 Linvala, Keeper of Silence
 1 Erebos's Intervention
+1 Linvala, Keeper of Silence
 1 Angelic Ascension
+1 Oath of Kaya
+1 Castle Locthwain
 1 Isolated Chapel
 1 Elspeth, Sun's Nemesis
 1 Godless Shrine
 1 Temple of Silence
 2 Erebos's Intervention
-2 Oath of Kaya
 2 Elspeth, Sun's Nemesis
 2 Isolated Chapel
 2 Angelic Ascension
 2 Godless Shrine
+2 Oath of Kaya
 2 Temple of Silence
 2 Castle Locthwain
 2 Linvala, Keeper of Silence
-3 Oath of Kaya
 3 Temple of Silence
+3 Oath of Kaya
 3 Scoured Barrens
 3 Godless Shrine
 3 Isolated Chapel
@@ -214,50 +214,50 @@
 1 Sacred Cat
 2 Sacred Cat
 4 Authority of the Consuls
-1 Revitalize
 1 Elspeth Conquers Death
 1 Containment Priest
 1 Mikaeus, the Lunarch
 1 God-Eternal Oketra
+1 Revitalize
 1 Secluded Steppe
 1 Wrath of God
 1 Realm-Cloaked Giant
-2 Revitalize
-2 Luminous Broodmoth
 2 Containment Priest
 2 Secluded Steppe
+2 Revitalize
 2 Wrath of God
+2 Luminous Broodmoth
 2 Realm-Cloaked Giant
 2 Basri Ket
-3 Luminous Broodmoth
 3 Containment Priest
 3 Secluded Steppe
 3 Revitalize
+3 Luminous Broodmoth
 3 Basri Ket
 4 Secluded Steppe
 4 Basri Ket
-1 Valkyrie Harbinger
-1 Kor Celebrant
+1 Brightclimb Pathway
 1 Cleric Class
 1 Elite Spellbinder
-1 Brightclimb Pathway
 1 Voice of the Blessed
 1 Swamp
+1 Valkyrie Harbinger
 1 Shattered Sanctum
 1 Lunarch Veteran
+1 Kor Celebrant
 1 Banehound
-2 Kor Celebrant
-2 Cleric Class
-2 Elite Spellbinder
-2 Banehound
-2 Lunarch Veteran
 2 Brightclimb Pathway
 2 Swamp
+2 Elite Spellbinder
+2 Banehound
+2 Kor Celebrant
+2 Cleric Class
+2 Lunarch Veteran
 2 Voice of the Blessed
-3 Swamp
-3 Cleric Class
 3 Voice of the Blessed
 3 Lunarch Veteran
+3 Swamp
+3 Cleric Class
 4 Swamp
 5 Swamp
 6 Swamp
@@ -265,8 +265,8 @@
 2 Radiant Fountain
 17 Snow-Covered Plains
 18 Snow-Covered Plains
-1 Forest
 1 Prosperous Innkeeper
+1 Forest
 1 Cathars' Crusade
 1 Trelasarra, Moon Dancer
 1 Ranger-Captain of Eos
@@ -284,8 +284,8 @@
 3 Cathars' Crusade
 3 Trelasarra, Moon Dancer
 4 Prosperous Innkeeper
+4 Ranger-Captain of Eos
 4 Forest
 4 Scurry Oak
-4 Ranger-Captain of Eos
-5 Forest
 4 Trelasarra, Moon Dancer
+5 Forest

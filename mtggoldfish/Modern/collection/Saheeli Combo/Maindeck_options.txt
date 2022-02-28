@@ -69,13 +69,13 @@
 1 Noble Hierarch
 2 Ignoble Hierarch
 1 Castle Vantress
-1 Birds of Paradise
 1 Lukka, Coppercoat Outcast
+1 Birds of Paradise
 1 Emrakul, the Aeons Torn
 2 Birds of Paradise
 2 Lukka, Coppercoat Outcast
-3 Birds of Paradise
 3 Lukka, Coppercoat Outcast
+3 Birds of Paradise
 4 Birds of Paradise
 4 Lukka, Coppercoat Outcast
 2 Arboreal Grazer
@@ -153,8 +153,8 @@
 1 Soulherder
 4 Arid Mesa
 1 The Wandering Emperor
-1 Volatile Fjord
 1 Showdown of the Skalds
+1 Volatile Fjord
 1 Imperial Recruiter
 1 Sun Titan
 1 Reflecting Pool
@@ -171,10 +171,10 @@
 3 Arbor Elf
 3 Forest
 4 Arbor Elf
+2 Boseiju, Who Endures
 1 Polluted Delta
 1 Supreme Verdict
 2 Supreme Verdict
-2 Boseiju, Who Endures
 1 Primal Command
 1 Lightning Helix
 2 Lightning Helix
@@ -183,24 +183,15 @@
 1 March of Otherworldly Light
 2 March of Otherworldly Light
 2 On Thin Ice
+1 Moonveil Regent
 1 Renegade Rallier
 1 Knight of Autumn
 1 Den of the Bugbear
 1 Eldritch Evolution
-1 Moonveil Regent
 2 Renegade Rallier
 2 Eldritch Evolution
 3 Renegade Rallier
 3 Serum Visions
-1 Opt
-1 Izzet Charm
-2 Opt
-3 Opt
-4 Opt
-1 Lotus Cobra
-2 Lotus Cobra
-3 Lotus Cobra
-4 Lotus Cobra
 1 Batterskull
 1 Stoneforge Mystic
 1 Sword of Fire and Ice
@@ -225,6 +216,15 @@
 2 Spirited Companion
 3 Spirited Companion
 4 Spirited Companion
+1 Opt
+1 Izzet Charm
+2 Opt
+3 Opt
+4 Opt
+1 Lotus Cobra
+2 Lotus Cobra
+3 Lotus Cobra
+4 Lotus Cobra
 1 Auriok Champion
 1 Mystic Gate
 1 Spellskite

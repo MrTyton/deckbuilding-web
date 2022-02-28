@@ -40,8 +40,8 @@
 4 Blood Sun
 3 Memory Deluge
 2 Seachrome Coast
-3 Chalice of the Void
 3 Fury
+3 Chalice of the Void
 4 Memory Deluge
 4 Fury
 2 Polluted Delta
@@ -86,8 +86,8 @@
 1 Flusterstorm
 2 Snow-Covered Plains
 2 Flusterstorm
-2 The Wandering Emperor
 2 March of Otherworldly Light
+2 The Wandering Emperor
 3 Dress Down
 4 Ragavan, Nimble Pilferer
 3 Steam Vents
@@ -114,18 +114,18 @@
 2 Goblin Cratermaker
 2 Remand
 2 Charming Prince
+2 Sacred Foundry
 2 Ghost Quarter
 2 Omen of the Sea
-2 Sacred Foundry
 2 Ojutai's Command
 2 Path to Exile
+3 Remand
 3 Plains
 3 Path to Exile
+3 Arid Mesa
 3 Lightning Helix
 3 Goblin Cratermaker
 3 Omen of the Sea
-3 Remand
-3 Arid Mesa
 4 Arid Mesa
 4 Path to Exile
 4 Remand
@@ -138,32 +138,14 @@
 2 Expressive Iteration
 3 Expressive Iteration
 4 Expressive Iteration
-1 Sulfur Falls
-1 Blood Moon
-1 Spell Pierce
-1 Consider
-1 Engineered Explosives
-1 Prismari Command
-1 Chandra, Awakened Inferno
-1 Brazen Borrower
-1 Dead/Gone
-2 Consider
-2 Prismari Command
-2 Blood Moon
-2 Dead/Gone
-2 Brazen Borrower
-3 Misty Rainforest
-3 Consider
-4 Consider
-5 Snow-Covered Island
-1 Field of Ruin
 1 Blade Splicer
+1 Field of Ruin
 1 Vendilion Clique
 1 Electrolyze
 1 Restoration Angel
 2 Jace, the Mind Sculptor
-2 Field of Ruin
 2 Blade Splicer
+2 Field of Ruin
 2 Vendilion Clique
 2 Restoration Angel
 2 Force of Negation
@@ -172,3 +154,21 @@
 3 Restoration Angel
 3 Blade Splicer
 4 Blade Splicer
+1 Sulfur Falls
+1 Blood Moon
+1 Spell Pierce
+1 Chandra, Awakened Inferno
+1 Consider
+1 Engineered Explosives
+1 Prismari Command
+1 Brazen Borrower
+1 Dead/Gone
+2 Consider
+2 Prismari Command
+2 Blood Moon
+2 Dead/Gone
+2 Brazen Borrower
+3 Consider
+3 Misty Rainforest
+4 Consider
+5 Snow-Covered Island

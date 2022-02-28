@@ -5,33 +5,33 @@
 4 Manamorphose
 3 Scalding Tarn
 3 Bloodstained Mire
-1 Wooded Foothills
 1 Sprite Dragon
 1 Stormwing Entity
 2 Stormwing Entity
 2 Sprite Dragon
 3 Stormwing Entity
 3 Sprite Dragon
-3 Steam Vents
-4 Reckless Impulse
 1 Unholy Heat
 2 Unholy Heat
-2 Wooded Foothills
+3 Steam Vents
+1 Wooded Foothills
+4 Reckless Impulse
 3 Fiery Islet
 2 Sunbaked Canyon
 1 Path to Exile
-1 Prismatic Ending
-2 Prismatic Ending
-3 Prismatic Ending
 4 Inspiring Vantage
+2 Wooded Foothills
 1 Gut Shot
 2 Gut Shot
 4 Sprite Dragon
 4 Stormwing Entity
+3 Arid Mesa
+2 Path to Exile
+1 Prismatic Ending
+2 Prismatic Ending
+3 Prismatic Ending
 3 Sunbaked Canyon
 4 Sunbaked Canyon
-2 Path to Exile
-3 Arid Mesa
 4 Steam Vents
 4 Scalding Tarn
 4 Bloodstained Mire
@@ -42,6 +42,7 @@
 1 Consider
 2 Consider
 3 Consider
+3 Unholy Heat
 1 Tarfire
 2 Tarfire
 5 Mountain
@@ -58,7 +59,6 @@
 2 Sulfur Falls
 3 Sulfur Falls
 4 Sulfur Falls
-3 Unholy Heat
 1 Pyrite Spellbomb
 1 Bonecrusher Giant
 2 Bonecrusher Giant
@@ -79,6 +79,7 @@
 4 Mutagenic Growth
 1 Blood Crypt
 2 Blood Crypt
+4 Arid Mesa
 1 Lava Spike
 2 Lava Spike
 1 Abbot of Keral Keep
@@ -94,10 +95,6 @@
 1 Assault Strobe
 2 Blackcleave Cliffs
 3 Wooded Foothills
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
-4 Prismatic Ending
 3 Abbot of Keral Keep
 3 Crash Through
 4 Abbot of Keral Keep
@@ -111,5 +108,4 @@
 3 Gut Shot
 3 Opt
 4 Spirebluff Canal
-4 Arid Mesa
 4 Gut Shot
