@@ -34,8 +34,8 @@
 1 Land Grant
 2 Manamorphose
 2 Land Grant
-3 Manamorphose
 3 Land Grant
+3 Manamorphose
 4 Manamorphose
 4 Land Grant
 1 Mountain
@@ -74,10 +74,10 @@
 2 Sprite Dragon
 2 Taiga
 1 Blood Crypt
-1 Overgrown Tomb
 1 Stomping Ground
 1 Breeding Pool
 1 Thassa's Oracle
+1 Overgrown Tomb
 1 Watery Grave
 1 Steam Vents
 2 Watery Grave
@@ -85,6 +85,14 @@
 1 Night's Whisper
 2 Night's Whisper
 3 Bayou
+1 Abundant Harvest
+1 Wooded Foothills
+1 Forest
+2 Abundant Harvest
+3 Badlands
+3 Abundant Harvest
+3 Sedgemoor Witch
+4 Abundant Harvest
 1 Malevolent Hermit
 1 Careful Study
 2 Brazen Borrower
@@ -92,14 +100,6 @@
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
-1 Abundant Harvest
-1 Wooded Foothills
-1 Forest
-2 Abundant Harvest
-3 Abundant Harvest
-3 Badlands
-3 Sedgemoor Witch
-4 Abundant Harvest
 1 Tourach, Dread Cantor
 1 Tropical Island
 1 Defense Grid

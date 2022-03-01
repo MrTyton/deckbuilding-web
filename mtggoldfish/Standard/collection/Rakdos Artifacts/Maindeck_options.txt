@@ -1,8 +1,8 @@
-2 Burn Down the House
 3 Burn Down the House
 4 Stensia Uprising
 1 Kalain, Reclusive Painter
 2 Kalain, Reclusive Painter
+3 Voltage Surge
 2 Reckoner's Bargain
 4 The Meathook Massacre
 4 Mountain
@@ -72,6 +72,16 @@
 1 Assassin's Ink
 2 Assassin's Ink
 3 Blood Fountain
+1 Voldaren Estate
+1 Eyetwitch
+1 Tribute to Horobi
+2 Eyetwitch
+3 Eyetwitch
+4 Eyetwitch
+1 Lizard Blades
+2 Lizard Blades
+3 Sokenzan, Crucible of Defiance
+4 Rabbit Battery
 1 Patchwork Automaton
 1 Iron Apprentice
 1 Nashi, Moon Sage's Scion
@@ -80,28 +90,16 @@
 1 Wedding Invitation
 1 Virus Beetle
 1 Nezumi Prowler
-2 Iron Apprentice
 2 Patchwork Automaton
+2 Iron Apprentice
 2 Virus Beetle
 2 Eaten Alive
 2 Nezumi Prowler
-3 Iron Apprentice
 3 Patchwork Automaton
+3 Iron Apprentice
 3 Nezumi Prowler
 4 Patchwork Automaton
 4 Iron Apprentice
-1 Lizard Blades
-2 Lizard Blades
-3 Sokenzan, Crucible of Defiance
-4 Rabbit Battery
-1 Spikefield Hazard
-2 Spikefield Hazard
-2 Brightclimb Pathway
-2 Needleverge Pathway
-3 Needleverge Pathway
-3 Spikefield Hazard
-3 Extus, Oriq Overlord
-4 Needleverge Pathway
 1 Dollhouse of Horrors
 3 Reckoner Bankbuster
 4 Reckoner Bankbuster
@@ -110,14 +108,26 @@
 2 Morbid Opportunist
 3 Morbid Opportunist
 4 Morbid Opportunist
-1 Eyetwitch
-1 Voldaren Estate
-1 Tribute to Horobi
-2 Eyetwitch
-3 Eyetwitch
-4 Eyetwitch
 3 Magda, Brazen Outlaw
 4 Magda, Brazen Outlaw
+1 Snow-Covered Swamp
+1 Snow-Covered Mountain
+1 Clawing Torment
+2 Snow-Covered Swamp
+2 Snow-Covered Mountain
+2 Clawing Torment
+3 Snow-Covered Swamp
+3 Snow-Covered Mountain
+3 Clawing Torment
+4 Snow-Covered Swamp
+4 Snow-Covered Mountain
+4 Clawing Torment
+5 Snow-Covered Swamp
+5 Snow-Covered Mountain
+6 Snow-Covered Swamp
+6 Snow-Covered Mountain
+7 Snow-Covered Swamp
+7 Snow-Covered Mountain
 1 Bloodfell Caves
 2 Bloodfell Caves
 3 Bloodfell Caves
@@ -128,21 +138,11 @@
 4 Dragonspark Reactor
 7 Mountain
 8 Mountain
-1 Snow-Covered Mountain
-1 Snow-Covered Swamp
-1 Clawing Torment
-2 Snow-Covered Mountain
-2 Snow-Covered Swamp
-2 Clawing Torment
-3 Snow-Covered Mountain
-3 Snow-Covered Swamp
-3 Clawing Torment
-4 Snow-Covered Mountain
-4 Snow-Covered Swamp
-5 Snow-Covered Mountain
-5 Snow-Covered Swamp
-6 Snow-Covered Swamp
-6 Snow-Covered Mountain
-7 Snow-Covered Swamp
-7 Snow-Covered Mountain
-4 Clawing Torment
+1 Spikefield Hazard
+2 Spikefield Hazard
+2 Brightclimb Pathway
+2 Needleverge Pathway
+3 Spikefield Hazard
+3 Extus, Oriq Overlord
+3 Needleverge Pathway
+4 Needleverge Pathway

@@ -30,9 +30,25 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
-|---------------------|-------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                     |             |                    1|Katilda, Dawnhart Martyr                                                                   |
-|                     |             |                    1|[Generous Visitor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548493)|
-|                     |             |                    2|[Generous Visitor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548493)|
+|*n*<sup>th</sup> copy|                                            Maindeck Card                                             |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|------------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    1|[Tranquil Cove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451243)              |                    1|Katilda, Dawnhart Martyr                                                                       |
+|                    1|[Touch the Spirit Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548335)     |                    1|[Generous Visitor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548493)    |
+|                    1|[Rimewood Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503886)             |                    2|[Generous Visitor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548493)    |
+|                    1|[Eiganjo, Seat of the Empire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548581)|                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)        |
+|                    1|[Blossoming Sands](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433169)           |                    1|[Fang of Shigeki](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548491)     |
+|                    1|[Moon-Blessed Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527313)        |                    1|[Farewell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548306)            |
+|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                    1|[Tamiyo's Safekeeping](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548521)|
+|                    1|[Curse of Surveillance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534806)      |                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)        |
+|                    2|[Touch the Spirit Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548335)     |                    2|[Tamiyo's Safekeeping](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548521)|
+|                    2|[Blossoming Sands](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433169)           |                    2|[Fang of Shigeki](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548491)     |
+|                    2|[Curse of Surveillance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534806)      |                    2|[Farewell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548306)            |
+|                    2|[Tranquil Cove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451243)              |                    3|[Fang of Shigeki](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548491)     |
+|                    2|[Moon-Blessed Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527313)        |                    3|[Farewell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548306)            |
+|                    3|[Curse of Surveillance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534806)      |                    4|[Fang of Shigeki](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548491)     |
+|                    3|Hengegate Pathway                                                                                     |                     |                                                                                               |
+|                    3|[Touch the Spirit Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548335)     |                     |                                                                                               |
+|                    3|[Blossoming Sands](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433169)           |                     |                                                                                               |
+|                    4|Hengegate Pathway                                                                                     |                     |                                                                                               |
+|                    4|[Touch the Spirit Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548335)     |                     |                                                                                               |
 
