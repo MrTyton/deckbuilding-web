@@ -2,14 +2,15 @@
 1 Chandra, Torch of Defiance
 1 Grafdigger's Cage
 2 Grafdigger's Cage
-1 Burning Hands
-2 Burning Hands
-1 Unchained Berserker
-2 Unchained Berserker
 1 Abrade
 2 Abrade
+1 Burning Hands
+2 Burning Hands
 2 Chandra, Dressed to Kill
+1 Unchained Berserker
+2 Unchained Berserker
 3 Grafdigger's Cage
+3 Abrade
 1 Cinderclasm
 2 Cinderclasm
 1 Goblin Chainwhirler
@@ -24,23 +25,22 @@
 3 Thermo-Alchemist
 1 Containment Priest
 1 Skyclave Apparition
-1 Yasharn, Implacable Earth
 1 Rest in Peace
+1 Yasharn, Implacable Earth
 2 Rest in Peace
 2 Yasharn, Implacable Earth
 2 Containment Priest
 2 Skyclave Apparition
 3 Skyclave Apparition
 3 Rest in Peace
-1 Flame-Blessed Bolt
 1 Lava Coil
-1 Jegantha, the Wellspring
-2 Flame-Blessed Bolt
+1 Pithing Needle
+2 Pithing Needle
 2 Lava Coil
-3 Lava Coil
+3 Pithing Needle
 1 Cindervines
-1 Klothys, God of Destiny
 1 Conductive Current
+1 Klothys, God of Destiny
 2 Klothys, God of Destiny
 2 Conductive Current
 3 Conductive Current
@@ -50,6 +50,19 @@
 3 Soul-Guide Lantern
 3 Burning Hands
 4 Soul-Guide Lantern
+1 Chandra, Acolyte of Flame
+1 Bomat Courier
+1 Grim Lavamancer
+1 Lightning Strike
+1 Jegantha, the Wellspring
+2 Bomat Courier
+2 Lightning Strike
+2 Chandra, Acolyte of Flame
+3 Bomat Courier
+3 Lightning Strike
+3 Chandra, Acolyte of Flame
+4 Bomat Courier
+4 Lightning Strike
 4 Rampaging Ferocidon
 4 Roiling Vortex
 3 Unchained Berserker
@@ -58,6 +71,5 @@
 1 Magic Missile
 1 Volcanic Fallout
 2 Tibalt, Rakish Instigator
-3 Abrade
 3 Tibalt, Rakish Instigator
 4 Tibalt, Rakish Instigator
