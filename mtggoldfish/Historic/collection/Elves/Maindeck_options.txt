@@ -1,15 +1,10 @@
+1 Freyalise, Skyshroud Partisan
+1 Realmwalker
 15 Forest
 16 Forest
 1 Lair of the Hydra
-1 Circle of Dreams Druid
-2 Freyalise, Skyshroud Partisan
-1 Marwyn, the Nurturer
-1 Realmwalker
-2 Fierce Empath
-3 Elvish Visionary
-4 Elvish Visionary
-2 Realmwalker
 4 Castle Garenbrig
+2 Fierce Empath
 2 Growing Rites of Itlimoc
 1 Snow-Covered Forest
 2 Snow-Covered Forest
@@ -28,9 +23,18 @@
 15 Snow-Covered Forest
 16 Snow-Covered Forest
 17 Snow-Covered Forest
-2 Lair of the Hydra
+1 Circle of Dreams Druid
+2 Freyalise, Skyshroud Partisan
+1 Faceless Haven
+3 Elvish Visionary
+4 Elvish Visionary
+2 Realmwalker
 3 Skyshroud Lookout
 17 Forest
+2 Lair of the Hydra
+3 Freyalise, Skyshroud Partisan
+4 Skyshroud Lookout
+18 Forest
 4 Imperious Perfect
 1 Temple Garden
 1 Branchloft Pathway
@@ -48,6 +52,12 @@
 3 Breeding Pool
 4 Barkchannel Pathway
 4 Breeding Pool
+1 Overgrown Tomb
+1 Darkbore Pathway
+2 Overgrown Tomb
+2 Darkbore Pathway
+3 Overgrown Tomb
+4 Overgrown Tomb
 1 Swan Song
 1 Botanical Sanctum
 2 Swan Song
@@ -55,29 +65,9 @@
 3 Botanical Sanctum
 3 Swan Song
 4 Botanical Sanctum
-1 Faceless Haven
-3 Freyalise, Skyshroud Partisan
-4 Skyshroud Lookout
-18 Forest
-2 Circle of Dreams Druid
 2 Marwyn, the Nurturer
-3 Circle of Dreams Druid
-1 Overgrown Tomb
-1 Darkbore Pathway
-2 Overgrown Tomb
-2 Darkbore Pathway
-3 Overgrown Tomb
-4 Overgrown Tomb
-18 Snow-Covered Forest
-4 Freyalise, Skyshroud Partisan
-1 Turntimber Symbiosis
+2 Circle of Dreams Druid
 3 Darkbore Pathway
-1 The Great Henge
-3 Lair of the Hydra
-1 Necroblossom Snarl
-2 Necroblossom Snarl
-3 Necroblossom Snarl
-4 Necroblossom Snarl
 1 Fiend Artisan
 1 Woodland Cemetery
 2 Fiend Artisan
@@ -86,6 +76,16 @@
 3 Realmwalker
 4 Darkbore Pathway
 4 Woodland Cemetery
+1 The Great Henge
+18 Snow-Covered Forest
+4 Freyalise, Skyshroud Partisan
+1 Turntimber Symbiosis
+3 Circle of Dreams Druid
+3 Lair of the Hydra
+1 Necroblossom Snarl
+2 Necroblossom Snarl
+3 Necroblossom Snarl
+4 Necroblossom Snarl
 1 Finale of Devastation
 2 Finale of Devastation
 1 Scavenging Ooze
@@ -96,9 +96,9 @@
 2 Llanowar Visionary
 2 Hashep Oasis
 2 Turntimber Symbiosis
+1 Negate
 1 Spell Pierce
 1 Disdainful Stroke
-1 Negate
 1 Reclamation Sage
 1 Overgrown Farmland
 2 Overgrown Farmland
