@@ -5,8 +5,8 @@
 1 Deadly Dispute
 2 Shambling Ghast
 2 Deadly Dispute
-3 Shambling Ghast
 3 Deadly Dispute
+3 Shambling Ghast
 4 Shambling Ghast
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
@@ -80,10 +80,10 @@
 4 Skeletal Swarming
 1 Culling Ritual
 2 Culling Ritual
-1 Cragcrown Pathway
 1 Blightstep Pathway
-2 Cragcrown Pathway
+1 Cragcrown Pathway
 2 Blightstep Pathway
+2 Cragcrown Pathway
 1 The Celestus
 3 Invoke Despair
 4 Invoke Despair
@@ -135,16 +135,16 @@
 4 Mortality Spear
 4 Deadly Brew
 1 Ranger Class
-1 Hunt for Specimens
-1 Soul Shatter
-1 Duress
-2 Hunt for Specimens
 1 Tainted Adversary
 1 Dreadfeast Demon
 2 Tainted Adversary
+1 Soul Shatter
+1 Hunt for Specimens
+1 Duress
+2 Hunt for Specimens
 1 Henrika Domnathi
-2 March of Wretched Sorrow
 2 Henrika Domnathi
+2 March of Wretched Sorrow
 1 Go Blank
 2 The Celestus
 2 Go Blank
@@ -156,56 +156,21 @@
 2 Witherbloom Command
 3 Sorin the Mirthless
 3 Witherbloom Command
-1 Tamiyo's Safekeeping
-2 Fell Stinger
-2 Agadeem's Awakening
-3 Fell Stinger
-4 Fell Stinger
 2 Shigeki, Jukai Visionary
 3 Shigeki, Jukai Visionary
 4 The Meathook Massacre
-1 Kazandu Mammoth
+1 Tamiyo's Safekeeping
+2 Agadeem's Awakening
+2 Fell Stinger
+3 Fell Stinger
+4 Fell Stinger
 1 Jugan Defends the Temple
 1 Ebondeath, Dracolich
-2 Kazandu Mammoth
+1 Kazandu Mammoth
 2 Valentin, Dean of the Vein
+2 Kazandu Mammoth
 3 Valentin, Dean of the Vein
 4 Valentin, Dean of the Vein
-1 Undead Butler
-1 Blood Fountain
-1 Toxrill, the Corrosive
-1 Burning-Rune Demon
-1 Cultivator Colossus
-1 Bookwurm
-1 Diregraf Rebirth
-1 Mulch
-2 Takenuma, Abandoned Mire
-2 Undead Butler
-2 Blood Fountain
-2 Diregraf Rebirth
-2 Toxrill, the Corrosive
-3 Undead Butler
-3 Dockside Chef
-3 Blood Fountain
-3 Diregraf Rebirth
-4 Necroblossom Snarl
-6 Swamp
-7 Swamp
-8 Swamp
-1 Bloodvial Purveyor
-1 Sculptor of Winter
-2 Bloodvial Purveyor
-2 Sculptor of Winter
-3 Bloodvial Purveyor
-3 Concealing Curtains
-4 Concealing Curtains
-8 Snow-Covered Forest
-1 Power Word Kill
-1 Lithoform Blight
-2 Power Word Kill
-4 Skullport Merchant
-20 Snow-Covered Swamp
-21 Snow-Covered Swamp
 1 Inscription of Abundance
 1 Grakmaw, Skyclave Ravager
 1 Wedding Invitation
@@ -220,3 +185,38 @@
 3 Grakmaw, Skyclave Ravager
 3 Daemogoth Titan
 4 Wedding Invitation
+1 Undead Butler
+1 Blood Fountain
+1 Toxrill, the Corrosive
+1 Burning-Rune Demon
+1 Cultivator Colossus
+1 Bookwurm
+1 Diregraf Rebirth
+1 Mulch
+2 Undead Butler
+2 Takenuma, Abandoned Mire
+2 Blood Fountain
+2 Diregraf Rebirth
+2 Toxrill, the Corrosive
+3 Undead Butler
+3 Dockside Chef
+3 Blood Fountain
+3 Diregraf Rebirth
+4 Necroblossom Snarl
+6 Swamp
+7 Swamp
+8 Swamp
+1 Power Word Kill
+1 Lithoform Blight
+2 Power Word Kill
+4 Skullport Merchant
+20 Snow-Covered Swamp
+21 Snow-Covered Swamp
+1 Bloodvial Purveyor
+1 Sculptor of Winter
+2 Bloodvial Purveyor
+2 Sculptor of Winter
+3 Bloodvial Purveyor
+3 Concealing Curtains
+4 Concealing Curtains
+8 Snow-Covered Forest

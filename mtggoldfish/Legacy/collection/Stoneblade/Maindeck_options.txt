@@ -1,5 +1,6 @@
-1 Snow-Covered Island
+2 Wasteland
 3 Wasteland
+4 Daze
 4 Wasteland
 1 Stifle
 2 Stifle
@@ -7,33 +8,51 @@
 2 Delver of Secrets
 3 Delver of Secrets
 4 Delver of Secrets
-2 Volcanic Island
 1 Murktide Regent
 2 Murktide Regent
 3 Scalding Tarn
-2 Polluted Delta
-2 Snow-Covered Island
-3 Murktide Regent
-3 Stifle
-4 Stifle
-4 Scalding Tarn
-3 Island
 1 Narset, Parter of Veils
+2 Polluted Delta
+2 Volcanic Island
+4 Scalding Tarn
 1 Jace, the Mind Sculptor
-3 Prismatic Vista
 1 Back to Basics
-2 Back to Basics
-3 Snapcaster Mage
 3 Snow-Covered Island
 4 Snow-Covered Island
+3 Snapcaster Mage
+3 Island
+3 Prismatic Vista
+4 Prismatic Vista
+2 Back to Basics
+3 Stifle
 1 Underground Sea
 2 Underground Sea
 3 Polluted Delta
 4 Polluted Delta
-4 Prismatic Vista
+1 Spell Pierce
+4 Stifle
+3 Murktide Regent
+1 Esper Sentinel
+2 Esper Sentinel
+3 Esper Sentinel
+4 Esper Sentinel
 2 Force of Negation
-1 Cabal Therapy
+1 Snow-Covered Mountain
+2 Snow-Covered Plains
+4 Prismatic Ending
+1 Tropical Island
+1 Uro, Titan of Nature's Wrath
+2 Uro, Titan of Nature's Wrath
+1 Scrubland
+2 Jace, the Mind Sculptor
+1 Baleful Strix
+1 Thoughtseize
+2 Thoughtseize
+2 Baleful Strix
+3 Baleful Strix
+4 Baleful Strix
 1 Thassa's Oracle
+1 Cabal Therapy
 1 Nomads en-Kor
 1 Shuko
 1 Aether Vial
@@ -51,90 +70,68 @@
 3 Narcomoeba
 3 Aether Vial
 4 Cephalid Illusionist
-1 Spell Pierce
-4 Prismatic Ending
-1 Hullbreacher
-1 Tropical Island
-1 Uro, Titan of Nature's Wrath
-2 Uro, Titan of Nature's Wrath
-1 Esper Sentinel
-2 Esper Sentinel
-3 Esper Sentinel
-4 Esper Sentinel
-2 Cavern of Souls
-1 Snow-Covered Mountain
-2 Snow-Covered Plains
-2 Jace, the Mind Sculptor
-1 Mountain
 4 Island
 1 Savannah
 1 Sylvan Library
-1 Scrubland
+1 Marsh Flats
+1 Snow-Covered Swamp
+1 Inquisition of Kozilek
+1 Kaya, Orzhov Usurper
+3 Thoughtseize
 3 True-Name Nemesis
+1 Hullbreacher
 1 Snow-Covered Forest
 1 Ice-Fang Coatl
 2 Snow-Covered Forest
 2 Sylvan Library
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
-2 Hullbreacher
-1 Baleful Strix
-1 Thoughtseize
-2 Thoughtseize
-2 Baleful Strix
-3 Baleful Strix
-4 Baleful Strix
-2 Plains
-5 Island
-1 Brazen Borrower
-4 Nomads en-Kor
-1 Urza's Saga
-2 Urza's Saga
-3 Urza's Saga
-4 Urza's Saga
-1 Marsh Flats
-1 Snow-Covered Swamp
-1 Inquisition of Kozilek
-1 Kaya, Orzhov Usurper
-3 Thoughtseize
-1 Shark Typhoon
-1 Expressive Iteration
 1 Counterbalance
 3 Jace, the Mind Sculptor
-1 Grand Abolisher
+2 Cavern of Souls
+1 Lion Sash
+1 Mountain
+2 Plains
+2 Marsh Flats
+5 Snow-Covered Island
+6 Snow-Covered Island
+1 Expressive Iteration
+1 Mystic Sanctuary
+1 Shark Typhoon
+1 Eiganjo, Seat of the Empire
+1 Dress Down
+1 Solitude
+1 Timeless Dragon
+2 Hullbreacher
 1 Preordain
 2 Preordain
-1 Lion Sash
+1 Grand Abolisher
+5 Island
 2 Narset, Parter of Veils
 1 Fire/Ice
+4 Nomads en-Kor
 1 Flusterstorm
-3 Volcanic Island
+1 Brazen Borrower
 2 Tropical Island
 3 Tropical Island
 3 Uro, Titan of Nature's Wrath
 1 Plateau
-1 Mystic Sanctuary
 1 Sorin the Mirthless
 1 Kaito Shizuki
+1 The Reality Chip
 1 Badlands
-1 Hidetsugu Consumes All
 1 Swamp
 1 Hymn to Tourach
-1 The Reality Chip
-2 Hidetsugu Consumes All
+1 Hidetsugu Consumes All
 2 Expressive Iteration
 2 Hymn to Tourach
+2 Hidetsugu Consumes All
 2 Swamp
 3 Teferi, Time Raveler
 3 Underground Sea
 3 Hidetsugu Consumes All
 4 Hidetsugu Consumes All
-1 Counterspell
-1 Sword of Fire and Ice
-1 Eiganjo, Seat of the Empire
-1 Dress Down
-1 Solitude
-1 Timeless Dragon
+1 Supreme Verdict
 1 Path to Exile
 2 Shark Typhoon
 1 Recruiter of the Guard
@@ -148,26 +145,23 @@
 2 Forest
 2 Windswept Heath
 2 Endurance
-2 Marsh Flats
+1 Sword of Fire and Ice
+3 Volcanic Island
 1 Boseiju, Who Endures
 2 Boseiju, Who Endures
 3 Hullbreacher
 1 Mother of Runes
 2 Mother of Runes
 3 Mother of Runes
-1 Dragon's Rage Channeler
-1 Arid Mesa
-2 Arid Mesa
-2 Dragon's Rage Channeler
-3 Dragon's Rage Channeler
-4 Dragon's Rage Channeler
-2 Fire/Ice
-2 Flusterstorm
+1 Urza's Saga
+2 Urza's Saga
+3 Urza's Saga
+4 Urza's Saga
 2 Brazen Borrower
+2 Flusterstorm
+2 Fire/Ice
 3 Brazen Borrower
 4 Brazen Borrower
 6 Island
-5 Snow-Covered Island
-6 Snow-Covered Island
 4 Tropical Island
 4 Misty Rainforest

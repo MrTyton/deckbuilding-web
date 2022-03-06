@@ -17,12 +17,12 @@
 2 Expressive Iteration
 1 Hallowed Fountain
 1 Chalice of the Void
-1 Prismatic Ending
 1 Raugrin Triome
+1 Prismatic Ending
 2 Prismatic Ending
 2 Chalice of the Void
-3 Expressive Iteration
 3 Prismatic Ending
+3 Expressive Iteration
 4 Expressive Iteration
 4 Prismatic Ending
 2 Sacred Foundry
@@ -76,10 +76,10 @@
 1 Noble Hierarch
 1 Reflector Mage
 2 Reflector Mage
-1 Rip Apart
 1 Valki, God of Lies
 1 Bring to Light
 1 Utopia Sprawl
+1 Rip Apart
 1 Sylvan Caryatid
 1 Niv-Mizzet Reborn
 1 Fiery Justice
@@ -120,6 +120,9 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+2 Rip Apart
+4 Teferi, Time Raveler
+4 Misty Rainforest
 4 Omnath, Locus of Creation
 3 Qasali Ambusher
 4 Qasali Ambusher
@@ -142,9 +145,6 @@
 4 Boros Charm
 4 Wild Nacatl
 4 Brushfire Elemental
-2 Rip Apart
-4 Misty Rainforest
-4 Teferi, Time Raveler
 1 Sunbaked Canyon
 2 Sunbaked Canyon
 2 Hallowed Fountain

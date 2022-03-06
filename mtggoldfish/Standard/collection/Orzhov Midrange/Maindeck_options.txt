@@ -65,13 +65,13 @@
 6 Plains
 3 Graveyard Trespasser
 4 Graveyard Trespasser
-1 Path of Peril
 1 Crippling Fear
+1 Path of Peril
 2 Path of Peril
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
-3 Snow-Covered Swamp
 3 Edgar, Charmed Groom
+3 Snow-Covered Swamp
 1 Dawnbringer Cleric
 1 Ambitious Farmhand
 2 Ambitious Farmhand
@@ -88,11 +88,11 @@
 1 Soul Transfer
 2 Takenuma, Abandoned Mire
 2 Dawnbringer Cleric
+2 Cave of the Frost Dragon
+2 March of Otherworldly Light
 1 Invoke Despair
 1 Dockside Chef
 2 Invoke Despair
-2 Cave of the Frost Dragon
-2 March of Otherworldly Light
 3 Ambitious Farmhand
 3 Reidane, God of the Worthy
 3 Paladin Class
@@ -102,44 +102,15 @@
 2 Duress
 2 Humiliate
 2 Intrepid Adversary
-3 Intrepid Adversary
 3 The Restoration of Eiganjo
 3 Duress
+3 Intrepid Adversary
 4 The Restoration of Eiganjo
 1 Kaya the Inexorable
 1 Silverquill Silencer
 2 Silverquill Silencer
 3 Silverquill Silencer
 4 Silverquill Silencer
-1 Bloodvial Purveyor
-1 Brutal Cathar
-1 Fateful Absence
-1 Thalia, Guardian of Thraben
-1 Hopeful Initiate
-1 Valorous Stance
-1 Skyclave Shade
-2 Thalia, Guardian of Thraben
-2 Bloodvial Purveyor
-2 Brutal Cathar
-2 Fateful Absence
-2 Hopeful Initiate
-3 Adeline, Resplendent Cathar
-3 Bloodvial Purveyor
-3 Thalia, Guardian of Thraben
-3 Hopeful Initiate
-4 Bloodvial Purveyor
-4 Hopeful Initiate
-4 Thalia, Guardian of Thraben
-7 Plains
-1 Liesa, Forgotten Archangel
-1 Portable Hole
-1 Michiko's Reign of Truth
-1 Silverquill Campus
-2 Michiko's Reign of Truth
-2 Portable Hole
-2 Silverquill Campus
-3 Michiko's Reign of Truth
-10 Swamp
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 4 Reckoner Bankbuster
@@ -147,3 +118,32 @@
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
+1 Silverquill Campus
+1 Liesa, Forgotten Archangel
+1 Portable Hole
+1 Michiko's Reign of Truth
+2 Michiko's Reign of Truth
+2 Portable Hole
+2 Silverquill Campus
+3 Michiko's Reign of Truth
+10 Swamp
+1 Brutal Cathar
+1 Fateful Absence
+1 Thalia, Guardian of Thraben
+1 Hopeful Initiate
+1 Valorous Stance
+1 Skyclave Shade
+1 Bloodvial Purveyor
+2 Brutal Cathar
+2 Fateful Absence
+2 Hopeful Initiate
+2 Bloodvial Purveyor
+2 Thalia, Guardian of Thraben
+3 Hopeful Initiate
+3 Bloodvial Purveyor
+3 Adeline, Resplendent Cathar
+3 Thalia, Guardian of Thraben
+4 Hopeful Initiate
+4 Bloodvial Purveyor
+4 Thalia, Guardian of Thraben
+7 Plains
