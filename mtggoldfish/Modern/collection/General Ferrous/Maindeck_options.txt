@@ -1,10 +1,4 @@
-3 Arid Mesa
-4 Arid Mesa
 4 General Ferrous Rokiric
-1 Plains
-2 Flooded Strand
-3 Teferi, Time Raveler
-1 Scalding Tarn
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
@@ -15,20 +9,26 @@
 3 Omnath, Locus of Creation
 1 Expressive Iteration
 2 Expressive Iteration
-1 Hallowed Fountain
-1 Chalice of the Void
 1 Raugrin Triome
+1 Chalice of the Void
 1 Prismatic Ending
-2 Prismatic Ending
+1 Hallowed Fountain
 2 Chalice of the Void
-3 Prismatic Ending
+2 Prismatic Ending
 3 Expressive Iteration
-4 Expressive Iteration
+3 Prismatic Ending
 4 Prismatic Ending
+4 Expressive Iteration
+3 Mantis Rider
+1 Fury
+1 Zagoth Triome
+1 Bloodstained Mire
+2 Bloodstained Mire
+1 Ketria Triome
+2 Flooded Strand
 2 Sacred Foundry
 2 Steam Vents
 3 Flooded Strand
-1 Ketria Triome
 1 Faithful Mending
 2 Faithful Mending
 3 Faithful Mending
@@ -40,26 +40,32 @@
 4 Wrenn and Six
 3 Chalice of the Void
 4 Chalice of the Void
-3 Bloodstained Mire
-4 Bloodstained Mire
+1 Savai Triome
+1 Ignoble Hierarch
+2 Ignoble Hierarch
+1 Blood Crypt
 3 Solitude
 4 Solitude
 3 Windswept Heath
 4 Windswept Heath
-1 Savai Triome
+3 Bloodstained Mire
+4 Bloodstained Mire
+1 Verdant Catacombs
 4 Mantis Rider
 2 Mountain
-4 Flooded Strand
-1 Ignoble Hierarch
-2 Ignoble Hierarch
-1 Blood Crypt
 3 Ignoble Hierarch
 4 Ignoble Hierarch
-1 Verdant Catacombs
+4 Flooded Strand
 1 Klothys, God of Destiny
 2 Verdant Catacombs
+1 Noble Hierarch
+1 Reflector Mage
+2 Reflector Mage
 1 Tarmogoyf
 2 Tarmogoyf
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
 2 Misty Rainforest
 3 Misty Rainforest
 1 Eladamri's Call
@@ -73,16 +79,13 @@
 2 Indatha Triome
 2 Qasali Ambusher
 3 Steam Vents
-1 Noble Hierarch
-1 Reflector Mage
-2 Reflector Mage
-1 Valki, God of Lies
 1 Bring to Light
+1 Valki, God of Lies
 1 Utopia Sprawl
+1 Fiery Justice
 1 Rip Apart
 1 Sylvan Caryatid
 1 Niv-Mizzet Reborn
-1 Fiery Justice
 2 Bring to Light
 2 Utopia Sprawl
 2 Fiery Justice
@@ -92,17 +95,14 @@
 3 Utopia Sprawl
 3 Fiery Justice
 3 Sylvan Caryatid
-4 Bring to Light
 4 Utopia Sprawl
+4 Bring to Light
 4 Sylvan Caryatid
 2 Scalding Tarn
 1 Prismari Command
 2 Prismari Command
 1 Geist of Saint Traft
 2 Geist of Saint Traft
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
 1 Overgrown Tomb
 1 Bitterblossom
 1 The Royal Scions
@@ -113,43 +113,43 @@
 2 Wandering Mind
 3 Verdant Catacombs
 3 Wandering Mind
-1 Kaldra Compleat
 1 Batterskull
 1 Sword of Fire and Ice
+1 Kaldra Compleat
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-2 Rip Apart
-4 Teferi, Time Raveler
-4 Misty Rainforest
 4 Omnath, Locus of Creation
 3 Qasali Ambusher
 4 Qasali Ambusher
-1 Atarka's Command
 1 Wild Nacatl
+1 Atarka's Command
 1 Brushfire Elemental
 1 Boros Charm
 1 Goblin Guide
-2 Atarka's Command
 2 Boros Charm
 2 Goblin Guide
+2 Atarka's Command
 2 Wild Nacatl
 2 Brushfire Elemental
-3 Atarka's Command
 3 Boros Charm
 3 Brushfire Elemental
 3 Wild Nacatl
 3 Goblin Guide
+3 Atarka's Command
 4 Ragavan, Nimble Pilferer
 4 Boros Charm
 4 Wild Nacatl
 4 Brushfire Elemental
+2 Rip Apart
+4 Misty Rainforest
+4 Teferi, Time Raveler
 1 Sunbaked Canyon
-2 Sunbaked Canyon
-2 Hallowed Fountain
 2 Plains
-3 Scalding Tarn
+2 Hallowed Fountain
+2 Sunbaked Canyon
 3 Geist of Saint Traft
+3 Scalding Tarn
 4 Scalding Tarn
 4 Geist of Saint Traft

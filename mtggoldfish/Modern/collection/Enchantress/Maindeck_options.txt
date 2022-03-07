@@ -11,12 +11,12 @@
 1 Snow-Covered Island
 1 Breeding Pool
 1 Rest in Peace
+1 Spreading Seas
 1 Omen of the Sea
 1 Detention Sphere
-1 Spreading Seas
 1 Riptide Chimera
-2 Omen of the Sea
 2 Spreading Seas
+2 Omen of the Sea
 2 Breeding Pool
 2 Riptide Chimera
 3 Misty Rainforest
@@ -46,8 +46,8 @@
 1 Copy Enchantment
 2 Eidolon of Blossoms
 1 Boseiju, Who Endures
-1 The Restoration of Eiganjo
 1 Eiganjo, Seat of the Empire
+1 The Restoration of Eiganjo
 2 The Restoration of Eiganjo
 3 The Restoration of Eiganjo
 4 The Restoration of Eiganjo
@@ -95,9 +95,6 @@
 1 Journey to Nowhere
 1 Fertile Ground
 2 Fertile Ground
-1 Plains
-2 Plains
-3 Plains
 1 Hallowed Haunting
 1 March of Otherworldly Light
 1 Jukai Naturalist
@@ -105,14 +102,11 @@
 2 March of Otherworldly Light
 2 Jukai Naturalist
 3 Jukai Naturalist
+1 Plains
+2 Plains
+3 Plains
 3 Verdant Catacombs
 4 Verdant Catacombs
-1 Arbor Elf
-2 Arbor Elf
-3 Arbor Elf
-3 Wooded Foothills
-4 Arbor Elf
-4 Wooded Foothills
 1 Branchloft Pathway
 1 Borrowed Time
 2 Branchloft Pathway
@@ -121,3 +115,9 @@
 5 Snow-Covered Plains
 9 Snow-Covered Forest
 10 Snow-Covered Forest
+1 Arbor Elf
+2 Arbor Elf
+3 Arbor Elf
+3 Wooded Foothills
+4 Arbor Elf
+4 Wooded Foothills

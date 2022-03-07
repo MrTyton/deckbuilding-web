@@ -19,8 +19,8 @@
 2 Pernicious Deed
 2 Thoughtseize
 1 Witherbloom Apprentice
-2 Chain of Smog
 2 Witherbloom Apprentice
+2 Chain of Smog
 3 Chain of Smog
 4 Chain of Smog
 1 Endurance
@@ -53,8 +53,8 @@
 2 Village Rites
 3 Windswept Heath
 1 Plains
-1 Scrubland
 1 Vraska, Golgari Queen
+1 Scrubland
 1 Ugin, the Spirit Dragon
 1 Savannah
 1 Arena Rector
@@ -62,8 +62,8 @@
 3 Arena Rector
 1 Professor Onyx
 1 Wasteland
-1 Taiga
 1 Snow-Covered Mountain
+1 Taiga
 1 Opposition Agent
 2 Wooded Foothills
 2 Endurance
@@ -110,11 +110,18 @@
 1 The Meathook Massacre
 1 Masked Vandal
 1 Juri, Master of the Revue
-2 Mayhem Devil
-2 The Meathook Massacre
 2 Snow-Covered Mountain
 2 Titania, Protector of Argoth
+2 Mayhem Devil
+2 The Meathook Massacre
 3 Mayhem Devil
+1 Plumb the Forbidden
+1 Sedgemoor Witch
+1 Blex, Vexing Pest
+2 Plumb the Forbidden
+2 Sedgemoor Witch
+3 Plumb the Forbidden
+3 Sedgemoor Witch
 1 Elder Gargaroth
 1 Shifting Ceratops
 1 Plague Engineer
@@ -137,13 +144,6 @@
 1 Archon of Valor's Reach
 2 Path to Exile
 3 Path to Exile
-1 Sedgemoor Witch
-1 Blex, Vexing Pest
-1 Plumb the Forbidden
-2 Sedgemoor Witch
-2 Plumb the Forbidden
-3 Sedgemoor Witch
-3 Plumb the Forbidden
 1 Grand Abolisher
 2 Grand Abolisher
 3 Cavern of Souls

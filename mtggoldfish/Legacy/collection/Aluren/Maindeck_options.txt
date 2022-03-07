@@ -1,7 +1,7 @@
 4 Cabal Therapy
 1 Swamp
-1 Island
 1 Forest
+1 Island
 2 Forest
 2 Island
 3 Forest
@@ -23,21 +23,21 @@
 2 Tropical Island
 1 Ukkima, Stalking Shadow
 4 Living Wish
-1 Swords to Plowshares
-1 Prismatic Ending
 1 Windswept Heath
 1 Snow-Covered Plains
 1 Teferi, Time Raveler
+1 Prismatic Ending
 1 Abundant Growth
-2 Prismatic Ending
-2 Swords to Plowshares
+1 Swords to Plowshares
 2 Windswept Heath
 2 Teferi, Time Raveler
+2 Swords to Plowshares
 2 Abundant Growth
+2 Prismatic Ending
 3 Prismatic Vista
 3 Teferi, Time Raveler
-3 Windswept Heath
 3 Prismatic Ending
+3 Windswept Heath
 3 Abundant Growth
 4 Teferi, Time Raveler
 4 Prismatic Vista
@@ -65,9 +65,9 @@
 2 Shardless Agent
 3 Shardless Agent
 1 Quickling
+1 Taiga
 1 Imperial Recruiter
 1 Kiki-Jiki, Mirror Breaker
-1 Taiga
 1 Man-o'-War
 1 Pestermite
 2 Force of Negation
