@@ -2,8 +2,8 @@
 1 Slaughter the Strong
 1 Concealed Courtyard
 2 Concealed Courtyard
-3 Concealed Courtyard
 3 Godless Shrine
+3 Concealed Courtyard
 1 Invoke Despair
 1 Haunted Ridge
 1 Woodland Cemetery
@@ -16,12 +16,12 @@
 1 Rootbound Crag
 1 Klothys, God of Destiny
 1 Rockfall Vale
-1 Scavenging Ooze
 1 Overgrown Tomb
 1 Darkbore Pathway
 1 Maelstrom Pulse
 1 Esika's Chariot
 1 Valki, God of Lies
+1 Scavenging Ooze
 1 Sorin the Mirthless
 1 Elder Gargaroth
 1 Chevill, Bane of Monsters
@@ -37,16 +37,23 @@
 2 Bonecrusher Giant
 2 Maelstrom Pulse
 2 Darkbore Pathway
-2 Scavenging Ooze
 2 Klothys, God of Destiny
 2 Overgrown Tomb
 2 Rockfall Vale
 2 Esika's Chariot
 2 Chevill, Bane of Monsters
+2 Scavenging Ooze
 2 Check for Traps
 3 Fatal Push
 3 Kolaghan's Command
 3 Bonecrusher Giant
+1 March of Otherworldly Light
+1 Farewell
+1 Hidetsugu Consumes All
+2 Invoke Despair
+2 March of Otherworldly Light
+2 Isolated Chapel
+4 Godless Shrine
 1 Inscription of Ruin
 1 Snow-Covered Swamp
 1 March of Wretched Sorrow
@@ -65,7 +72,6 @@
 2 Murderous Rider
 2 Hagra Mauling
 2 Phyrexian Obliterator
-2 Ifnir Deadlands
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 4 Inquisition of Kozilek
@@ -75,10 +81,4 @@
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
-1 March of Otherworldly Light
-1 Farewell
-1 Hidetsugu Consumes All
-2 Invoke Despair
-2 March of Otherworldly Light
-2 Isolated Chapel
-4 Godless Shrine
+2 Ifnir Deadlands
