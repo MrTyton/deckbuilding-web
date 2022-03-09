@@ -9,11 +9,17 @@
 1 Magus of the Moon
 2 Thoughtseize
 1 Ashen Rider
-3 Thoughtseize
 1 Silence
 2 Silence
+3 Thoughtseize
 3 Silence
 1 Show and Tell
+2 Show and Tell
+3 Show and Tell
+4 Show and Tell
+1 Echoing Truth
+2 Echoing Truth
+4 Silence
 1 Chain of Smog
 2 Chain of Smog
 3 Chain of Smog
@@ -23,14 +29,8 @@
 4 Sedgemoor Witch
 1 Spoils of the Vault
 2 Spoils of the Vault
-4 Chain of Smog
-1 Echoing Truth
-2 Echoing Truth
-2 Show and Tell
-3 Show and Tell
-4 Show and Tell
-4 Silence
 3 Spoils of the Vault
+4 Chain of Smog
 4 Thoughtseize
 1 Serra's Emissary
 1 Grief
@@ -42,7 +42,6 @@
 1 Duress
 1 Archon of Cruelty
 1 Feed the Swarm
-1 Swamp
 2 Magus of the Moon
 1 Burning Wish
 1 Abrupt Decay

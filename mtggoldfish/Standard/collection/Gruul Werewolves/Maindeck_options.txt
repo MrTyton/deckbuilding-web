@@ -1,80 +1,85 @@
-1 Ill-Tempered Loner
 1 Arlinn, the Pack's Hope
-1 Howlpack Piper
-2 Howlpack Piper
 1 Boseiju, Who Endures
 1 Esika's Chariot
-2 Ill-Tempered Loner
+1 Ill-Tempered Loner
+1 Howlpack Piper
 2 Esika's Chariot
-6 Mountain
+2 Howlpack Piper
 1 Den of the Bugbear
 4 Tovolar, Dire Overlord
+2 Ill-Tempered Loner
+1 Packsong Pup
+2 Inscription of Abundance
+6 Mountain
 4 Ranger Class
 3 Shatterskull Smashing
-2 Inscription of Abundance
 1 Highland Forest
-1 Packsong Pup
-2 Highland Forest
 2 Arlinn, the Pack's Hope
-1 Howling Moon
+2 Highland Forest
+2 Packsong Pup
+1 Tovolar's Huntmaster
 1 Snow-Covered Mountain
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 4 Snow-Covered Forest
 5 Snow-Covered Forest
-1 Tovolar's Huntmaster
+1 Howling Moon
 1 Blizzard Brawl
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
 6 Snow-Covered Forest
 7 Snow-Covered Forest
+8 Snow-Covered Forest
 1 Cemetery Prowler
-3 Volatile Arsonist
-2 Howling Moon
 1 Unnatural Moonrise
 2 Blizzard Brawl
 3 Highland Forest
-1 Frost Bite
+4 Highland Forest
 2 Outland Liberator
-8 Snow-Covered Forest
-2 Packsong Pup
+1 Frost Bite
+3 Volatile Arsonist
+3 Packsong Pup
 2 Unnatural Moonrise
 2 Frost Bite
-4 Highland Forest
-3 Esika's Chariot
+2 Howling Moon
 3 Inscription of Abundance
-1 Avabruck Caretaker
+3 Esika's Chariot
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
-3 Packsong Pup
+1 Abrade
 3 Howlpack Piper
 3 Arlinn, the Pack's Hope
 4 Shatterskull Smashing
 1 Child of the Pack
 2 Child of the Pack
-4 Snakeskin Veil
+1 Primal Adversary
+3 Blizzard Brawl
 4 Inscription of Abundance
+1 Avabruck Caretaker
 4 Esika's Chariot
 7 Snow-Covered Mountain
-1 Abrade
+8 Snow-Covered Mountain
 1 Moonrager's Slash
 9 Forest
 2 Den of the Bugbear
-1 Primal Adversary
 1 Wrenn and Seven
 2 Wrenn and Seven
+4 Snakeskin Veil
+1 Howl of the Hunt
+3 Frost Bite
 1 Kazuul's Fury
 2 Kazuul's Fury
-1 Howl of the Hunt
-3 Blizzard Brawl
 1 Wild Shape
+9 Snow-Covered Mountain
+9 Snow-Covered Forest
 2 Moonrager's Slash
-1 Hound Tamer
-8 Snow-Covered Mountain
 1 Cathartic Pyre
-1 Field of Ruin
+2 Abrade
+1 Hound Tamer
+10 Forest
+11 Forest
 2 Howl of the Hunt
 1 Turntimber Symbiosis
 2 Wild Shape
@@ -86,6 +91,8 @@
 3 Play with Fire
 4 Play with Fire
 4 Lair of the Hydra
+2 Tovolar's Huntmaster
+4 Frost Bite
 1 Brutal Cathar
 1 Branchloft Pathway
 1 Needleverge Pathway
@@ -96,27 +103,18 @@
 3 Branchloft Pathway
 3 Needleverge Pathway
 4 Packsong Pup
-4 Needleverge Pathway
 4 Branchloft Pathway
-3 Frost Bite
+4 Needleverge Pathway
 4 Blizzard Brawl
-1 Bird Admirer
-2 Bird Admirer
 1 Sokenzan, Crucible of Defiance
-1 Unnatural Growth
-2 Abrade
-9 Snow-Covered Forest
-9 Snow-Covered Mountain
-1 Bala Ged Recovery
-1 Wolf Strike
+1 Moonveil Regent
+2 Moonveil Regent
+1 Field of Ruin
+1 Goldspan Dragon
 2 Boseiju, Who Endures
-10 Forest
-11 Forest
-7 Mountain
-8 Mountain
-2 Unnatural Growth
-2 Avabruck Caretaker
-2 Hound Tamer
+1 Rugged Highlands
+2 Rugged Highlands
+1 Wolf Strike
 1 Tangletrap
 2 Cemetery Prowler
 3 Cemetery Prowler
@@ -124,11 +122,23 @@
 1 Sundown Pass
 1 Plains
 2 Plains
-1 Moonveil Regent
-2 Moonveil Regent
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 2 Primal Adversary
+1 Arni Brokenbrow
+2 Goldspan Dragon
+2 Arni Brokenbrow
+1 Dire-Strain Rampage
+1 Devouring Tendrils
+1 Pestilent Wolf
+1 Roil Eruption
+1 Harvesttide Infiltrator
+1 Wolfkin Outcast
+1 Bounding Wolf
+1 Bird Admirer
+2 Devouring Tendrils
+2 Bird Admirer
+3 Devouring Tendrils
 1 Ulvenwald Oddity
 1 Prosperous Innkeeper
 1 Demon Bolt
@@ -136,15 +146,7 @@
 2 Prosperous Innkeeper
 2 Demon Bolt
 3 Prosperous Innkeeper
-1 Devouring Tendrils
-1 Dire-Strain Rampage
-1 Pestilent Wolf
-1 Roil Eruption
-1 Wolfkin Outcast
-1 Harvesttide Infiltrator
-1 Bounding Wolf
-2 Devouring Tendrils
-3 Devouring Tendrils
+1 Bala Ged Recovery
 1 Crush the Weak
 1 Mulch
 3 Howling Moon
@@ -156,71 +158,61 @@
 3 Den of the Bugbear
 4 Kazandu Mammoth
 1 Jaspera Sentinel
-1 Eater of Virtue
 1 Tamiyo's Safekeeping
+1 Eater of Virtue
 1 Thundering Raiju
 1 Lizard Blades
-2 Lizard Blades
 2 Sokenzan, Crucible of Defiance
 2 Jaspera Sentinel
 2 Tamiyo's Safekeeping
 2 Eater of Virtue
+2 Lizard Blades
 3 Jaspera Sentinel
 4 Jaspera Sentinel
 4 Volatile Arsonist
-2 Tovolar's Huntmaster
-4 Frost Bite
-1 Cemetery Gatekeeper
-1 Evolving Wilds
-1 Dragon's Fire
-1 Heated Debate
-1 Lithoform Engine
-2 Cemetery Gatekeeper
-2 Evolving Wilds
-2 Bala Ged Recovery
-2 Heated Debate
-2 Field of Ruin
-3 Cemetery Gatekeeper
-3 Heated Debate
-3 Evolving Wilds
-3 Outland Liberator
-3 Bala Ged Recovery
-4 Cemetery Gatekeeper
-4 Outland Liberator
-4 Heated Debate
-4 Bala Ged Recovery
-4 Evolving Wilds
+1 Reckoner Bankbuster
+1 Atsushi, the Blazing Sky
+1 Burn Down the House
+2 Reckoner Bankbuster
+2 Atsushi, the Blazing Sky
+3 Moonveil Regent
+3 Abrade
+3 Reckoner Bankbuster
+3 Rugged Highlands
+4 Moonveil Regent
+4 Abrade
+4 Rugged Highlands
 1 Spikefield Hazard
 1 The Celestus
 1 Sunstreak Phoenix
 1 Cinderclasm
 1 Faceless Haven
+1 Fortifying Draught
 1 Masked Vandal
 1 Arni Slays the Troll
-1 Goldspan Dragon
 1 Realmwalker
-1 Fortifying Draught
 1 Pack's Betrayal
 1 Fangblade Brigand
 10 Snow-Covered Forest
 1 Storm the Festival
+1 Unnatural Growth
 1 Weaver of Blossoms
 2 Storm the Festival
 2 Cathartic Pyre
 2 Wolf Strike
 2 Weaver of Blossoms
 3 Weaver of Blossoms
+7 Mountain
+8 Mountain
 9 Mountain
 10 Mountain
 11 Mountain
 1 Invoke the Ancients
 1 Old-Growth Troll
 1 Invigorating Hot Spring
-1 Rugged Highlands
 2 Invoke the Ancients
 2 Old-Growth Troll
 2 Invigorating Hot Spring
-2 Rugged Highlands
 3 Old-Growth Troll
 3 Invigorating Hot Spring
 4 Old-Growth Troll

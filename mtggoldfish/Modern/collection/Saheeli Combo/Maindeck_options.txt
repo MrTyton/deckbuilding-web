@@ -1,31 +1,24 @@
-3 Oath of Nissa
-3 Ephemerate
-1 Fury
+3 Omnath, Locus of Creation
 1 Snow-Covered Mountain
+3 Wrenn and Six
 1 Expressive Iteration
 1 Prismatic Vista
+2 Wall of Omens
+1 Arid Mesa
+2 Steam Vents
+2 Hallowed Fountain
+2 Expressive Iteration
 1 Snow-Covered Forest
 2 Snow-Covered Forest
-1 Ketria Triome
-2 Expressive Iteration
 2 Snow-Covered Plains
-1 Ice-Fang Coatl
-2 Ice-Fang Coatl
-3 Ice-Fang Coatl
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Wall of Omens
+1 Ketria Triome
+2 Scalding Tarn
+2 Fury
 3 Expressive Iteration
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Utopia Sprawl
 4 Utopia Sprawl
-1 Arid Mesa
-2 Hallowed Fountain
-2 Steam Vents
-2 Scalding Tarn
-1 Tranquil Thicket
-1 Eternal Witness
 1 Lightning Bolt
 2 Arid Mesa
 1 Spreading Seas
@@ -33,8 +26,13 @@
 3 Spreading Seas
 1 Fire/Ice
 2 Fire/Ice
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+3 Wall of Omens
 4 Oath of Nissa
-2 Fury
+1 Ice-Fang Coatl
+2 Ice-Fang Coatl
+3 Ice-Fang Coatl
 2 Lightning Bolt
 2 Plains
 3 Scalding Tarn
@@ -42,62 +40,62 @@
 4 Omnath, Locus of Creation
 2 Island
 3 Lightning Bolt
-1 Endurance
+1 Tranquil Thicket
+1 Eternal Witness
+1 Blood Moon
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 3 Fire/Ice
 3 Arid Mesa
+2 Prismatic Vista
+4 Expressive Iteration
 1 Boseiju, Who Endures
-4 Lightning Bolt
 1 Hall of Storm Giants
+4 Lightning Bolt
 1 Glacial Fortress
 1 Sulfur Falls
-1 Blood Moon
-1 Otawara, Soaring City
-4 Fire/Ice
-3 Ragavan, Nimble Pilferer
+2 Blood Moon
+3 Blood Moon
 4 Wrenn and Six
-4 Ice-Fang Coatl
+2 Sacred Foundry
+4 Fire/Ice
+1 Otawara, Soaring City
 4 Scalding Tarn
+1 Endurance
 1 On Thin Ice
-2 Prismatic Vista
-1 Eladamri's Call
-1 Magus of the Moon
-2 Eladamri's Call
-4 Expressive Iteration
-1 Fiery Islet
+1 Chalice of the Void
+2 Chalice of the Void
+3 Fury
+3 Chalice of the Void
+4 Fury
 4 Wooded Foothills
 1 Noble Hierarch
 1 Ignoble Hierarch
 2 Ignoble Hierarch
+1 Fiery Islet
+1 Castle Vantress
 1 Lukka, Coppercoat Outcast
 1 Birds of Paradise
 1 Emrakul, the Aeons Torn
-2 Birds of Paradise
 2 Lukka, Coppercoat Outcast
+2 Birds of Paradise
 3 Lukka, Coppercoat Outcast
 3 Birds of Paradise
 4 Birds of Paradise
 4 Lukka, Coppercoat Outcast
 1 Arboreal Grazer
 2 Arboreal Grazer
-1 Castle Vantress
-2 Blood Moon
-3 Blood Moon
 2 Stomping Ground
-4 Spreading Seas
 1 Remand
 2 Remand
 3 Remand
-2 Sacred Foundry
+2 Snow-Covered Island
+4 Spreading Seas
 1 Inspiring Vantage
+3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
 4 Wall of Omens
-1 Chalice of the Void
-2 Chalice of the Void
-3 Fury
-3 Chalice of the Void
-4 Fury
+4 Ice-Fang Coatl
 1 Prismari Command
 2 Prismari Command
 3 Prismari Command
@@ -105,13 +103,14 @@
 2 Forest
 1 Kiki-Jiki, Mirror Breaker
 4 Ephemerate
-2 Snow-Covered Island
-1 Traverse the Ulvenwald
-1 Skyclave Apparition
-1 Search for Glory
 1 Serum Visions
-3 Snow-Covered Forest
-1 Horizon Canopy
+1 Eladamri's Call
+1 Traverse the Ulvenwald
+1 Search for Glory
+1 Magus of the Moon
+1 Skyclave Apparition
+2 Eladamri's Call
+3 Snow-Covered Plains
 1 Abundant Growth
 2 Abundant Growth
 3 Abundant Growth
@@ -138,8 +137,8 @@
 1 Castle Ardenvale
 1 Clifftop Retreat
 1 Kaldra Compleat
-1 Batterskull
 1 Sword of Fire and Ice
+1 Batterskull
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
@@ -151,11 +150,10 @@
 2 Snapcaster Mage
 4 Remand
 4 Arid Mesa
-3 Snow-Covered Plains
 1 Soulherder
 1 The Wandering Emperor
-1 Showdown of the Skalds
-1 Volatile Fjord
+1 Horizon Canopy
+3 Snow-Covered Forest
 1 Reflecting Pool
 1 Imperial Recruiter
 1 Sun Titan
@@ -163,9 +161,9 @@
 2 Imperial Recruiter
 3 Imperial Recruiter
 4 Imperial Recruiter
+1 Nahiri, the Harbinger
 1 Jace, the Mind Sculptor
 1 Arbor Elf
-1 Nahiri, the Harbinger
 2 Temple Garden
 2 Jace, the Mind Sculptor
 2 Arbor Elf
@@ -183,12 +181,12 @@
 2 Flametongue Yearling
 2 Boseiju, Who Endures
 1 Moonveil Regent
-1 Renegade Rallier
 1 Knight of Autumn
-1 Den of the Bugbear
 1 Eldritch Evolution
-2 Renegade Rallier
+1 Den of the Bugbear
+1 Renegade Rallier
 2 Eldritch Evolution
+2 Renegade Rallier
 3 Renegade Rallier
 1 Spell Pierce
 2 Serum Visions
@@ -197,14 +195,16 @@
 2 Lotus Cobra
 3 Lotus Cobra
 4 Lotus Cobra
-1 Bring to Light
+3 Prismatic Vista
+4 Prismatic Vista
 1 Valki, God of Lies
+1 Bring to Light
 1 Overgrown Tomb
 1 Blood Crypt
+1 Rip Apart
 1 Niv-Mizzet Reborn
 1 Sylvan Caryatid
 1 Wandering Mind
-1 Rip Apart
 2 Bring to Light
 2 Rip Apart
 2 Sylvan Caryatid
@@ -217,12 +217,12 @@
 2 Esper Sentinel
 3 Esper Sentinel
 4 Esper Sentinel
-4 Arboreal Grazer
 1 Spirited Companion
 1 Sokenzan, Crucible of Defiance
 2 Spirited Companion
 3 Spirited Companion
 4 Spirited Companion
+4 Arboreal Grazer
 1 Primal Command
 1 Lightning Helix
 2 Lightning Helix

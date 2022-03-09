@@ -38,7 +38,7 @@
 |                    2|[Prosperous Innkeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527487)|                    1|[Masked Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503800)      |
 |                    3|[Skyclave Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491666)     |                    1|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)|
 |                    3|[Prosperous Innkeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527487)|                    1|[Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)   |
-|                    4|[Skyclave Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491666)     |                    3|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)  |
+|                    4|[Skyclave Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491666)     |                    2|[Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)   |
 |                    4|[Prosperous Innkeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527487)|                    4|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)  |
-|                     |                                                                                               |                    2|[Lyra Dawnbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442914)   |
+|                     |                                                                                               |                    3|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)  |
 

@@ -34,15 +34,15 @@
 2 Castle Locthwain
 3 Archon of Cruelty
 3 Herald of Anguish
-4 Herald of Anguish
 4 Marsh Flats
+4 Herald of Anguish
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
-1 Cavern of Souls
 1 Liliana of the Veil
+1 Cavern of Souls
 2 Cavern of Souls
 3 Castle Locthwain
 1 Ravenous Squirrel
@@ -98,9 +98,9 @@
 3 Spirebluff Canal
 3 Emry, Lurker of the Loch
 3 Metallic Rebuke
+4 Mishra's Bauble
 4 Emry, Lurker of the Loch
 4 Spirebluff Canal
-4 Mishra's Bauble
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 2 Stomping Ground
@@ -145,12 +145,12 @@
 3 Nettlecyst
 1 Spire of Industry
 1 Silverbluff Bridge
-1 Darksteel Citadel
 1 Galvanic Blast
+1 Darksteel Citadel
 2 Silverbluff Bridge
 2 Spire of Industry
-2 Darksteel Citadel
 2 Galvanic Blast
+2 Darksteel Citadel
 3 Darksteel Citadel
 3 Silverbluff Bridge
 3 Galvanic Blast
@@ -159,21 +159,21 @@
 4 Galvanic Blast
 4 Silverbluff Bridge
 1 Unholy Heat
-1 Tarmogoyf
 1 Dragon's Rage Channeler
+1 Tarmogoyf
 1 Prismatic Ending
-2 Mountain
 2 Unholy Heat
+2 Mountain
 2 Tarmogoyf
 2 Dragon's Rage Channeler
 2 Prismatic Ending
 3 Ragavan, Nimble Pilferer
 3 Unholy Heat
-3 Tarmogoyf
 3 Prismatic Ending
+3 Tarmogoyf
 3 Dragon's Rage Channeler
-4 Tarmogoyf
 4 Dragon's Rage Channeler
+4 Tarmogoyf
 1 Seasoned Pyromancer
 1 Ignoble Hierarch
 2 Seasoned Pyromancer
@@ -191,13 +191,13 @@
 2 Korvold, Fae-Cursed King
 3 Mayhem Devil
 4 Mayhem Devil
+1 Watery Grave
 1 Fiery Islet
 1 Pyrite Spellbomb
-1 Watery Grave
 1 Engineered Explosives
 2 Scalding Tarn
-2 Fiery Islet
 2 Steam Vents
+2 Fiery Islet
 2 Engineered Explosives
 3 Scalding Tarn
 4 Scalding Tarn
@@ -206,16 +206,16 @@
 1 Inspiring Vantage
 1 Takenuma, Abandoned Mire
 1 Concealed Courtyard
+1 Unearth
 1 Skysovereign, Consul Flagship
 1 Parhelion II
 1 Voldaren Epicure
-1 Unearth
 1 Smuggler's Copter
 1 Greasefang, Okiba Boss
 1 Polluted Delta
 2 Goblin Engineer
-2 Unearth
 2 Blood Crypt
+2 Unearth
 2 Voldaren Epicure
 2 Concealed Courtyard
 2 Smuggler's Copter

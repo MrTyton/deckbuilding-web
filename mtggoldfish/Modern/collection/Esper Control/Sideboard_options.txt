@@ -63,19 +63,19 @@
 1 Legion's End
 1 Gideon, Ally of Zendikar
 1 Erebos's Intervention
+1 Disenchant
+1 Iona, Shield of Emeria
+2 Prismatic Ending
 1 Dark Confidant
 2 Dark Confidant
-1 Iona, Shield of Emeria
-1 Disenchant
-2 Prismatic Ending
 2 Rest in Peace
 1 Detention Sphere
 1 Dream Trawler
 2 Vanishing Verse
 2 Fateful Absence
 2 Timely Reinforcements
-2 Ashiok, Dream Render
 2 Unmoored Ego
+2 Ashiok, Dream Render
 1 Veil of Summer
 1 Bitterblossom
 1 Plague Engineer
@@ -87,12 +87,6 @@
 1 Noxious Grasp
 2 Noxious Grasp
 2 Relic of Progenitus
-1 Ceremonious Rejection
-2 Sunset Revelry
-2 Sanctifier en-Vec
-2 Ceremonious Rejection
-3 Sunset Revelry
-3 Sanctifier en-Vec
 1 Thing in the Ice
 3 Soul-Guide Lantern
 3 Engineered Explosives
@@ -101,6 +95,12 @@
 1 Ravenous Trap
 2 Aven Mindcensor
 3 Aven Mindcensor
+1 Ceremonious Rejection
+2 Sunset Revelry
+2 Ceremonious Rejection
+2 Sanctifier en-Vec
+3 Sunset Revelry
+3 Sanctifier en-Vec
 2 Force of Negation
 2 Leyline of the Void
 3 Leyline of the Void
@@ -110,10 +110,10 @@
 3 Chalice of the Void
 1 Kataki, War's Wage
 1 Lingering Souls
+2 Fatal Push
 2 Lingering Souls
 2 Kataki, War's Wage
 2 Teferi, Time Raveler
-2 Fatal Push
 3 Lingering Souls
 4 Lingering Souls
 1 Pithing Needle

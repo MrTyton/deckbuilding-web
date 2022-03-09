@@ -16,12 +16,12 @@
 2 Blood Moon
 3 Utopia Sprawl
 3 Arbor Elf
-3 Windswept Heath
 3 Blood Moon
+3 Windswept Heath
 4 Utopia Sprawl
 4 Arbor Elf
-4 Windswept Heath
 4 Seasoned Pyromancer
+4 Windswept Heath
 3 Fury
 4 Blood Moon
 4 Fury
@@ -40,32 +40,32 @@
 1 Grim Lavamancer
 1 Seal of Fire
 4 Esper Sentinel
-1 Snow-Covered Plains
 1 Snow-Covered Forest
+1 Snow-Covered Plains
 1 Expedition Map
 1 Pithing Needle
 2 Sacred Foundry
-1 Castle Ardenvale
+1 March of Otherworldly Light
+1 Eiganjo, Seat of the Empire
 1 Voice of Resurgence
+1 Castle Ardenvale
 1 Emrakul, the Aeons Torn
 1 Raging Ravine
 1 Valakut Awakening
 1 Nahiri, the Harbinger
 1 Lightning Helix
-1 Thrun, the Last Troll
-1 March of Otherworldly Light
 1 Solitude
-1 Eiganjo, Seat of the Empire
+1 Thrun, the Last Troll
+2 March of Otherworldly Light
 2 Voice of Resurgence
 2 Nahiri, the Harbinger
 2 Lightning Helix
 2 Solitude
-2 March of Otherworldly Light
 3 Voice of Resurgence
-3 Lightning Helix
 3 March of Otherworldly Light
-3 Nahiri, the Harbinger
 3 Sacred Foundry
+3 Lightning Helix
+3 Nahiri, the Harbinger
 4 Voice of Resurgence
 4 Lightning Helix
 1 Elvish Reclaimer
@@ -97,19 +97,19 @@
 3 Snow-Covered Forest
 4 Snow-Covered Forest
 5 Snow-Covered Forest
+1 Bloodbraid Elf
 1 Pillage
 1 Chandra, Torch of Defiance
-1 Bonecrusher Giant
 1 Relic of Progenitus
-1 Bloodbraid Elf
+1 Bonecrusher Giant
+2 Bloodbraid Elf
 2 Chandra, Torch of Defiance
 2 Bonecrusher Giant
-2 Bloodbraid Elf
 2 Pillage
 3 Stomping Ground
-3 Bonecrusher Giant
-3 Pillage
 3 Bloodbraid Elf
+3 Pillage
+3 Bonecrusher Giant
 4 Bloodbraid Elf
 5 Forest
 6 Forest
@@ -117,6 +117,6 @@
 1 Dromoka's Command
 1 Flagstones of Trokair
 2 Chained to the Rocks
-2 Temple Garden
 2 Dromoka's Command
+2 Temple Garden
 4 Unholy Heat

@@ -70,14 +70,14 @@
 4 Kumano Faces Kakkazan
 1 Dragon's Fire
 2 Dragon's Fire
+1 Snow-Covered Swamp
 1 Snow-Covered Mountain
 1 Blood on the Snow
-1 Snow-Covered Swamp
+2 Snow-Covered Swamp
 2 Snow-Covered Mountain
 2 Blood on the Snow
-2 Snow-Covered Swamp
-3 Snow-Covered Mountain
 3 Snow-Covered Swamp
+3 Snow-Covered Mountain
 4 Snow-Covered Mountain
 4 Snow-Covered Swamp
 5 Snow-Covered Mountain
@@ -108,11 +108,11 @@
 2 Faceless Haven
 3 Faceless Haven
 3 Blood on the Snow
-4 Faceless Haven
 4 Blood on the Snow
+4 Faceless Haven
+1 Crippling Fear
 1 Invoke Despair
 1 Soul Transfer
-1 Crippling Fear
 2 The Celestus
 2 Invoke Despair
 2 Hagra Mauling
@@ -120,8 +120,8 @@
 2 Soul Transfer
 3 Invoke Despair
 3 Reckoner Bankbuster
-4 Invoke Despair
 4 Reckoner Bankbuster
+4 Invoke Despair
 7 Swamp
 8 Swamp
 1 Duress
@@ -162,9 +162,9 @@
 9 Snow-Covered Swamp
 1 Inscription of Ruin
 1 Go Blank
+1 Hostile Hostel
 1 Eaten Alive
 1 Dominating Vampire
-1 Hostile Hostel
 2 Eaten Alive
 2 Dominating Vampire
 1 Hidetsugu, Devouring Chaos
@@ -182,8 +182,8 @@
 3 Eyetwitch
 4 Eyetwitch
 4 Skullport Merchant
-1 Shatterskull Charger
 1 Manaform Hellkite
+1 Shatterskull Charger
 1 Zariel, Archduke of Avernus
 1 Dread Fugue
 1 Reckless Impulse
@@ -203,8 +203,8 @@
 2 Kazuul's Fury
 2 Scourge of the Skyclaves
 2 Orcus, Prince of Undeath
-3 Kazuul's Fury
 3 Henrika Domnathi
+3 Kazuul's Fury
 3 Scourge of the Skyclaves
 4 Shatterskull Smashing
 4 Kazuul's Fury
@@ -214,15 +214,15 @@
 1 Burn Down the House
 1 Reckoner's Bargain
 2 Dockside Chef
+2 Experimental Synthesizer
 2 Reckoner's Bargain
 2 Anje, Maid of Dishonor
-2 Experimental Synthesizer
 3 Experimental Synthesizer
 4 Experimental Synthesizer
-1 Malakir Rebirth
 1 Moonveil Regent
-2 Malakir Rebirth
+1 Malakir Rebirth
 2 Moonveil Regent
+2 Malakir Rebirth
 3 Moonveil Regent
 3 Crush the Weak
 4 Moonveil Regent
@@ -237,12 +237,12 @@
 4 Falkenrath Pit Fighter
 4 Vampire Socialite
 1 Power Word Kill
-1 Nullpriest of Oblivion
 1 Sundown Pass
 1 Volatile Arsonist
 1 Brightclimb Pathway
 1 Shattered Sanctum
 1 Voldaren Bloodcaster
+1 Nullpriest of Oblivion
 1 Needleverge Pathway
 1 Edgar, Charmed Groom
 2 Voldaren Bloodcaster
@@ -261,8 +261,8 @@
 4 Brightclimb Pathway
 4 Voldaren Bloodcaster
 4 Needleverge Pathway
-1 Magmatic Channeler
 1 Arni Brokenbrow
+1 Magmatic Channeler
 2 Arni Brokenbrow
 2 Magmatic Channeler
 3 Rabbit Battery

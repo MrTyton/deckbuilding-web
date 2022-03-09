@@ -21,8 +21,8 @@
 2 Nimble Obstructionist
 1 Emrakul, the Promised End
 2 Negate
-1 Sphinx of the Final Word
 1 Meteor Golem
+1 Sphinx of the Final Word
 1 Sorcerous Spyglass
 3 Engineered Explosives
 4 Engineered Explosives
@@ -34,8 +34,8 @@
 1 Skysovereign, Consul Flagship
 1 Elixir of Immortality
 1 Spellskite
-1 Witchbane Orb
 1 Test of Talents
+1 Witchbane Orb
 2 Test of Talents
 3 Spatial Contortion
 3 Relic of Progenitus
@@ -43,6 +43,8 @@
 3 Chalice of the Void
 1 Damping Sphere
 1 Orbs of Warding
+1 Warping Wail
+1 Aether Spellbomb
 1 Lazotep Plating
 1 Ulamog, the Ceaseless Hunger
 1 Flashfreeze
@@ -51,14 +53,12 @@
 1 Mascot Exhibition
 1 Possessed Portal
 1 Blast Zone
-1 Warping Wail
-1 Aether Spellbomb
 1 Force of Negation
 2 Force of Negation
 2 Tormod's Crypt
 3 Negate
-1 Trickbind
 1 Void Mirror
+1 Trickbind
 1 The Immortal Sun
 1 Thran Temporal Gateway
 2 Void Mirror
@@ -69,6 +69,12 @@
 1 Spell Snare
 2 Spell Snare
 3 Spell Snare
+1 Tale's End
+1 Leyline of the Void
+2 Leyline of the Void
+2 Tale's End
+3 Leyline of the Void
+4 Leyline of the Void
 1 Vedalken Plotter
 1 Commandeer
 2 Vedalken Plotter
@@ -77,11 +83,5 @@
 4 Mystical Dispute
 3 Aether Gust
 4 Aether Gust
-1 Tale's End
-1 Leyline of the Void
-2 Leyline of the Void
-2 Tale's End
-3 Leyline of the Void
-4 Leyline of the Void
 2 Dismember
 4 Spatial Contortion

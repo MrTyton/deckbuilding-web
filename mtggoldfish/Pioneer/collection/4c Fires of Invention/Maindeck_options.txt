@@ -1,7 +1,7 @@
 1 Stomping Ground
-1 Knight of Autumn
-1 Skyclave Apparition
 1 Overgrown Farmland
+1 Skyclave Apparition
+1 Knight of Autumn
 1 Wandering Mind
 1 Kenrith, the Returned King
 1 Omen of the Forge
@@ -17,6 +17,7 @@
 1 Barkchannel Pathway
 1 Cavalier of Dawn
 1 Mana Confluence
+2 Barkchannel Pathway
 2 Overgrown Farmland
 2 Branchloft Pathway
 2 Stomping Ground
@@ -24,7 +25,6 @@
 2 Nylea's Presence
 2 Hengegate Pathway
 2 Portable Hole
-2 Barkchannel Pathway
 2 Enigmatic Incarnation
 3 Barkchannel Pathway
 3 Branchloft Pathway
@@ -57,9 +57,9 @@
 2 Wandering Mind
 1 Deputy of Detention
 1 Oath of Chandra
-1 Snow-Covered Forest
 1 Snow-Covered Mountain
 1 Snow-Covered Plains
+1 Snow-Covered Forest
 1 Snow-Covered Island
 2 Snow-Covered Plains
 3 Snow-Covered Plains

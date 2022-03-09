@@ -1,17 +1,18 @@
 2 Tropical Island
-1 Eureka
 1 Scalding Tarn
 2 Impulse
+1 Eureka
 4 Preordain
 4 Cunning Wish
 1 City of Traitors
 1 Polluted Delta
 1 Lotus Petal
-2 Flooded Strand
 1 Daze
+2 Flooded Strand
 1 Drawn from Dreams
-1 Island
+2 City of Traitors
 1 Venser, Shaper Savant
+1 Island
 2 Island
 3 Island
 4 Island
@@ -22,30 +23,29 @@
 3 Flooded Strand
 4 Flooded Strand
 1 Karakas
-2 City of Traitors
+2 Sylvan Library
 3 Daze
 1 Solve the Equation
 2 Lotus Petal
 3 Lotus Petal
+4 Veil of Summer
 3 Snow-Covered Forest
 6 Snow-Covered Island
-2 Sylvan Library
 5 Island
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 2 Polluted Delta
-4 Veil of Summer
 1 Spell Pierce
 1 Abundant Harvest
 2 Abundant Harvest
 1 Carpet of Flowers
-3 Emrakul, the Aeons Torn
 1 Orim's Chant
 2 Orim's Chant
 4 Lotus Petal
 1 Silence
 2 Silence
 3 Teferi, Time Raveler
+3 Emrakul, the Aeons Torn
 1 Duress
 1 Profane Tutor
 1 Underground Sea
@@ -81,14 +81,14 @@
 3 Silence
 1 Mystic Sanctuary
 1 Boseiju, Who Shelters All
-1 Forest
-1 Dress Down
 1 Narset, Parter of Veils
 1 Prismatic Ending
 2 Tundra
 2 Narset, Parter of Veils
 2 Spell Pierce
+1 Forest
 2 Forest
+1 Dress Down
 2 Eureka
 1 Misdirection
 1 Idyllic Tutor
@@ -96,9 +96,6 @@
 1 Baleful Strix
 2 Baleful Strix
 3 Baleful Strix
-2 Intuition
-3 Ancient Tomb
-4 Ancient Tomb
 1 Swamp
 2 Swamp
 2 Duress
@@ -107,31 +104,7 @@
 4 Daze
 3 Orim's Chant
 4 Orim's Chant
-1 Urza's Saga
-1 Soul-Guide Lantern
-1 Pithing Needle
-1 Elvish Reclaimer
-1 Wooded Foothills
-1 Phyrexian Dreadnought
-1 Wasteland
-1 Mosswort Bridge
-2 Urza's Saga
-2 Dress Down
-2 Wooded Foothills
-2 Elvish Reclaimer
-2 Phyrexian Dreadnought
-2 Mosswort Bridge
-3 Wooded Foothills
-3 Urza's Saga
-3 Dress Down
-3 Phyrexian Dreadnought
-3 Tropical Island
-3 Mosswort Bridge
-3 Elvish Reclaimer
-4 Emrakul, the Aeons Torn
-4 Wooded Foothills
-4 Dress Down
-4 Phyrexian Dreadnought
-4 Mosswort Bridge
-4 Elvish Reclaimer
+2 Intuition
+3 Ancient Tomb
+4 Ancient Tomb
 4 Silence

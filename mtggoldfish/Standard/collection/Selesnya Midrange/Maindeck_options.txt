@@ -1,79 +1,69 @@
-1 Legion Angel
-3 Wedding Announcement
-4 Wedding Announcement
-3 Tangled Florahedron
-1 Intrepid Adversary
-2 Intrepid Adversary
-1 Fateful Absence
-4 Ranger Class
-3 The Wandering Emperor
-4 The Wandering Emperor
-1 Brutal Cathar
-2 Fateful Absence
-1 Valorous Stance
-2 Valorous Stance
-2 Brutal Cathar
-3 Intrepid Adversary
-4 Elite Spellbinder
-1 Paladin Class
-7 Plains
-4 Tangled Florahedron
 1 Starnheim Unleashed
 2 Starnheim Unleashed
-2 Paladin Class
-3 Fateful Absence
-4 Intrepid Adversary
-6 Forest
-4 Fateful Absence
-1 Reidane, God of the Worthy
-2 Reidane, God of the Worthy
+2 Lair of the Hydra
 1 Archon of Emeria
 2 Archon of Emeria
+3 Tangled Florahedron
+1 Elite Spellbinder
+2 Elite Spellbinder
+3 Ranger Class
+1 Fateful Absence
+3 Wrenn and Seven
+3 Elite Spellbinder
+1 Brutal Cathar
+7 Plains
+5 Forest
+2 Fateful Absence
+3 Archon of Emeria
+1 Intrepid Adversary
+2 Intrepid Adversary
+4 Ranger Class
+4 Tangled Florahedron
+2 Brutal Cathar
+6 Forest
+1 Paladin Class
+2 Eiganjo, Seat of the Empire
+3 Intrepid Adversary
+3 Fateful Absence
+1 Reidane, God of the Worthy
+2 Reidane, God of the Worthy
+4 Elite Spellbinder
+2 Paladin Class
+4 Fateful Absence
+1 Ao, the Dawn Sky
+1 Adeline, Resplendent Cathar
+2 Adeline, Resplendent Cathar
+1 Katilda, Dawnhart Prime
+2 Katilda, Dawnhart Prime
 3 Brutal Cathar
+3 Adeline, Resplendent Cathar
+1 Sejiri Shelter
+2 Sejiri Shelter
+4 Intrepid Adversary
+1 Portable Hole
 4 Brutal Cathar
-2 Cave of the Frost Dragon
+2 Ao, the Dawn Sky
+4 Emeria's Call
+1 March of Otherworldly Light
+2 March of Otherworldly Light
+1 Field of Ruin
+2 Field of Ruin
+3 Katilda, Dawnhart Prime
+4 Wrenn and Seven
 1 Jaspera Sentinel
 2 Jaspera Sentinel
 3 Jaspera Sentinel
 4 Jaspera Sentinel
-2 Eiganjo, Seat of the Empire
-4 Wrenn and Seven
-3 Archon of Emeria
-1 Adeline, Resplendent Cathar
-2 Adeline, Resplendent Cathar
-3 Lair of the Hydra
-4 Emeria's Call
-1 Ao, the Dawn Sky
-1 Katilda, Dawnhart Prime
-2 Katilda, Dawnhart Prime
-1 Kazandu Mammoth
-2 Kazandu Mammoth
-3 Kazandu Mammoth
-4 Kazandu Mammoth
-1 Field of Ruin
-2 Field of Ruin
-3 Adeline, Resplendent Cathar
-1 Primal Adversary
-2 Primal Adversary
-1 Portable Hole
-1 Sejiri Shelter
-2 Sejiri Shelter
-1 Snakeskin Veil
-2 Snakeskin Veil
-1 Toski, Bearer of Secrets
-2 Toski, Bearer of Secrets
-2 Ao, the Dawn Sky
-3 Katilda, Dawnhart Prime
-3 Reidane, God of the Worthy
-1 Werewolf Pack Leader
-2 Werewolf Pack Leader
-3 Werewolf Pack Leader
-4 Werewolf Pack Leader
 3 Sejiri Shelter
 1 Briarbridge Tracker
 2 Briarbridge Tracker
 2 Portable Hole
-3 Paladin Class
+1 Primal Adversary
+2 Primal Adversary
+1 Snakeskin Veil
+2 Snakeskin Veil
+1 Toski, Bearer of Secrets
+2 Toski, Bearer of Secrets
 1 Storm the Festival
 2 Storm the Festival
 1 Augur of Autumn
@@ -87,28 +77,38 @@
 3 Snow-Covered Forest
 4 Snow-Covered Forest
 5 Snow-Covered Forest
-1 March of Otherworldly Light
-2 March of Otherworldly Light
 2 Boseiju, Who Endures
+2 Cave of the Frost Dragon
+3 Lair of the Hydra
 1 Borrowed Time
 2 Borrowed Time
 3 Borrowed Time
+1 Kazandu Mammoth
+2 Kazandu Mammoth
+3 Kazandu Mammoth
+4 Kazandu Mammoth
 8 Plains
-3 Snakeskin Veil
+3 March of Otherworldly Light
+3 Reidane, God of the Worthy
+1 Circle of Confinement
+2 Circle of Confinement
 1 Inscription of Abundance
 2 Inscription of Abundance
 1 Reclaim the Wastes
 2 Reclaim the Wastes
 3 Reclaim the Wastes
 4 Reclaim the Wastes
-1 Bala Ged Recovery
-1 Kabira Takedown
-2 Kabira Takedown
+1 Werewolf Pack Leader
+2 Werewolf Pack Leader
+3 Werewolf Pack Leader
+4 Werewolf Pack Leader
 1 Righteous Valkyrie
 2 Righteous Valkyrie
 3 Righteous Valkyrie
 4 Righteous Valkyrie
 3 Primal Adversary
+1 Doomskar
+2 Doomskar
 4 Snow-Covered Plains
 6 Snow-Covered Forest
 7 Snow-Covered Forest
@@ -117,8 +117,8 @@
 10 Snow-Covered Forest
 1 Fynn, the Fangbearer
 1 Saryth, the Viper's Fang
-2 Fynn, the Fangbearer
 2 Saryth, the Viper's Fang
+2 Fynn, the Fangbearer
 4 Augur of Autumn
 1 Jugan Defends the Temple
 2 Jugan Defends the Temple
@@ -128,13 +128,10 @@
 2 Legion Angel
 1 Careful Cultivation
 2 Careful Cultivation
-3 March of Otherworldly Light
 1 Welcoming Vampire
 2 Welcoming Vampire
 3 Welcoming Vampire
-1 Circle of Confinement
 1 Glorious Protector
-2 Circle of Confinement
 2 Glorious Protector
 3 Eiganjo, Seat of the Empire
 3 Valorous Stance
@@ -142,17 +139,13 @@
 2 Murasa Rootgrazer
 3 Murasa Rootgrazer
 3 Cave of the Frost Dragon
-4 Cave of the Frost Dragon
 4 Lair of the Hydra
-1 Sigarda, Champion of Light
-1 Thalia, Guardian of Thraben
-2 Sigarda, Champion of Light
-2 Thalia, Guardian of Thraben
-3 Thalia, Guardian of Thraben
-4 Thalia, Guardian of Thraben
+4 Cave of the Frost Dragon
+1 Kabira Takedown
 1 Lunarch Veteran
 1 Trelasarra, Moon Dancer
 1 Valentin, Dean of the Vein
+2 Kabira Takedown
 2 Lunarch Veteran
 2 Valentin, Dean of the Vein
 2 Trelasarra, Moon Dancer
@@ -162,26 +155,25 @@
 4 Lunarch Veteran
 4 Reidane, God of the Worthy
 1 Curse of Silence
+1 Bala Ged Recovery
 2 Curse of Silence
 2 Bala Ged Recovery
-3 Curse of Silence
 3 Yasharn, Implacable Earth
+3 Curse of Silence
 4 Curse of Silence
 4 Yasharn, Implacable Earth
 1 Arctic Treeline
-1 Doomskar
 1 Bretagard Stronghold
 1 Fall of the Impostor
 1 Old-Growth Troll
 1 Faceless Haven
 1 Battle for Bretagard
 2 Arctic Treeline
-2 Doomskar
 2 Old-Growth Troll
 2 Fall of the Impostor
-2 Battle for Bretagard
 2 Bretagard Stronghold
 2 Faceless Haven
+2 Battle for Bretagard
 3 Arctic Treeline
 3 Battle for Bretagard
 3 Faceless Haven
@@ -191,23 +183,20 @@
 2 Join the Dance
 3 Starnheim Unleashed
 4 Starnheim Unleashed
+1 Farewell
+3 Doomskar
+3 Circle of Confinement
+4 March of Otherworldly Light
 1 Vanquish the Horde
 3 Toski, Bearer of Secrets
 4 Sejiri Shelter
 4 Adeline, Resplendent Cathar
-1 Felidar Retreat
-2 Felidar Retreat
-3 Felidar Retreat
-4 Felidar Retreat
-1 Lotus Cobra
-1 Blizzard Brawl
-2 Lotus Cobra
-2 Blizzard Brawl
-3 Blizzard Brawl
-5 Snow-Covered Plains
-6 Snow-Covered Plains
-7 Snow-Covered Plains
-8 Snow-Covered Plains
+1 Sigarda, Champion of Light
+1 Thalia, Guardian of Thraben
+2 Sigarda, Champion of Light
+2 Thalia, Guardian of Thraben
+3 Thalia, Guardian of Thraben
+4 Thalia, Guardian of Thraben
 1 Vorinclex, Monstrous Raider
 1 Dawnhart Mentor
 2 Vorinclex, Monstrous Raider
@@ -219,14 +208,25 @@
 4 Fynn, the Fangbearer
 7 Forest
 8 Forest
+1 Lotus Cobra
+1 Blizzard Brawl
+2 Lotus Cobra
+2 Blizzard Brawl
+3 Paladin Class
+3 Blizzard Brawl
+5 Snow-Covered Plains
+6 Snow-Covered Plains
+7 Snow-Covered Plains
+8 Snow-Covered Plains
 3 Briarbridge Tracker
+3 Snakeskin Veil
 4 Briarbridge Tracker
 9 Plains
 10 Plains
 1 Sculptor of Winter
 2 Sculptor of Winter
-3 Sculptor of Winter
 3 Portable Hole
+3 Sculptor of Winter
 4 Portable Hole
 4 Sculptor of Winter
 4 Primal Adversary
