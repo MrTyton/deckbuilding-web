@@ -1,10 +1,8 @@
+2 Snow-Covered Forest
 4 Windswept Heath
+1 Island
 1 Plains
 1 Forest
-1 Island
-3 Scalding Tarn
-4 Ice-Fang Coatl
-1 Unholy Heat
 1 Valakut, the Molten Pinnacle
 1 Bring to Light
 1 Valki, God of Lies
@@ -18,12 +16,14 @@
 3 Dryad of the Ilysian Grove
 4 Dryad of the Ilysian Grove
 4 Valakut, the Molten Pinnacle
+1 Unholy Heat
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
 4 Bring to Light
 1 Spreading Seas
 2 Spreading Seas
+4 Ice-Fang Coatl
 4 Lightning Bolt
 1 Supreme Verdict
 3 Spreading Seas
@@ -34,6 +34,8 @@
 3 Fury
 2 Raugrin Triome
 3 March of Otherworldly Light
+1 Eladamri's Call
+1 Endurance
 1 Savai Triome
 2 Ketria Triome
 1 Cinder Glade
@@ -43,23 +45,24 @@
 2 Coiling Oracle
 2 Stomping Ground
 2 Scapeshift
-3 Wooded Foothills
 3 Coiling Oracle
 3 Stomping Ground
 3 Scapeshift
-4 Wooded Foothills
+3 Wooded Foothills
 4 Stomping Ground
+4 Wooded Foothills
 4 Coiling Oracle
 4 Scalding Tarn
 4 March of Otherworldly Light
-1 Eladamri's Call
-1 Endurance
-1 Dress Down
-2 Dress Down
 1 Overgrown Tomb
 1 Mountain
 1 The Wandering Emperor
+2 Eladamri's Call
+1 Dress Down
+2 Dress Down
 2 Jace, the Mind Sculptor
+1 Magus of the Moon
+3 Eladamri's Call
 1 Teferi, Hero of Dominaria
 1 Force of Negation
 2 Supreme Verdict
@@ -67,21 +70,15 @@
 2 Force of Negation
 3 Supreme Verdict
 2 Island
-2 Eladamri's Call
 1 Lightning Helix
-1 Magus of the Moon
-3 Eladamri's Call
-1 Relic of Progenitus
-3 Snow-Covered Island
 1 Tamiyo, Compleated Sage
 3 Boseiju, Who Endures
+1 Relic of Progenitus
+3 Snow-Covered Island
 3 Unholy Heat
 4 Unholy Heat
 1 Prismari Command
 2 Prismari Command
-1 Time Warp
-3 Raugrin Triome
-4 Raugrin Triome
 1 Mulldrifter
 1 Ephemerate
 1 Utopia Sprawl
@@ -94,6 +91,9 @@
 4 Ephemerate
 4 Utopia Sprawl
 4 Fury
+1 Time Warp
+3 Raugrin Triome
+4 Raugrin Triome
 1 Explore
 2 Explore
 4 Arboreal Grazer

@@ -39,8 +39,8 @@
 1 Serra's Emissary
 1 Blessed Alliance
 1 Eternal Witness
-1 Path to Exile
 1 Knight of Autumn
+1 Path to Exile
 1 Spreading Seas
 1 On Thin Ice
 1 Supreme Verdict
@@ -66,8 +66,6 @@
 1 Thragtusk
 1 Unholy Heat
 1 Glen Elendra Archmage
-1 Relic of Progenitus
-2 Relic of Progenitus
 2 Spreading Seas
 1 Lion Sash
 2 On Thin Ice
@@ -78,19 +76,24 @@
 2 Reclamation Sage
 1 Deputy of Detention
 1 Grand Abolisher
-2 Chalice of the Void
 2 Deputy of Detention
+2 Chalice of the Void
 2 Grand Abolisher
 1 Vendilion Clique
 2 Vendilion Clique
 2 Solitude
+1 Relic of Progenitus
+2 Relic of Progenitus
 1 Collector Ouphe
 1 Kor Firewalker
 1 Stonehorn Dignitary
 2 Fury
-3 Obsidian Charmaw
-3 Force of Negation
+1 Fire/Ice
+2 Fire/Ice
+3 Fire/Ice
 3 Endurance
+3 Force of Negation
+3 Obsidian Charmaw
 1 Stony Silence
 1 Alpine Moon
 2 Sunset Revelry
@@ -100,9 +103,6 @@
 2 Silence
 2 March of Otherworldly Light
 3 Silence
-1 Fire/Ice
-2 Fire/Ice
-3 Fire/Ice
 1 Madcap Experiment
 1 Platinum Emperion
 2 Madcap Experiment
@@ -110,8 +110,8 @@
 3 Madcap Experiment
 3 Ashiok, Dream Render
 4 Veil of Summer
-1 Flametongue Yearling
 1 Pithing Needle
+1 Flametongue Yearling
 2 Pithing Needle
 3 Flusterstorm
 4 Wear/Tear

@@ -24,8 +24,8 @@
 2 Gut Shot
 3 Gut Shot
 3 Relic of Progenitus
-4 Gut Shot
 4 Relic of Progenitus
+4 Gut Shot
 1 Treasure Mage
 1 Memory Deluge
 3 Chalice of the Void
@@ -46,8 +46,8 @@
 1 Thirst for Discovery
 2 Talisman of Dominance
 1 Yavimaya Coast
-1 Hydroid Krasis
 1 Botanical Sanctum
+1 Hydroid Krasis
 2 Hydroid Krasis
 2 Botanical Sanctum
 3 Hydroid Krasis
@@ -100,20 +100,20 @@
 1 Trinisphere
 1 Urza, Lord High Artificer
 2 Trinisphere
-1 Forest
 1 Solemn Simulacrum
+1 Forest
 2 Solemn Simulacrum
 2 Oblivion Stone
+1 Eldrazi Temple
 1 Omen of the Sea
 1 Elder Deep-Fiend
 1 Matter Reshaper
-1 Eldrazi Temple
 1 Circuit Mender
+2 Eldrazi Temple
 2 Omen of the Sea
 2 Circuit Mender
 2 Elder Deep-Fiend
 2 Matter Reshaper
-2 Eldrazi Temple
 3 Omen of the Sea
 3 Matter Reshaper
 1 Divide by Zero
@@ -133,13 +133,7 @@
 3 Dismember
 4 Clearwater Pathway
 4 Dismember
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
-5 Snow-Covered Island
-6 Snow-Covered Island
-7 Snow-Covered Island
+4 Thought-Knot Seer
 1 Opt
 1 Ulamog, the Infinite Gyre
 1 Oblivion Sower
@@ -149,4 +143,10 @@
 3 Opt
 3 Cyclonic Rift
 10 Island
-4 Thought-Knot Seer
+1 Snow-Covered Island
+2 Snow-Covered Island
+3 Snow-Covered Island
+4 Snow-Covered Island
+6 Snow-Covered Island
+7 Snow-Covered Island
+5 Snow-Covered Island

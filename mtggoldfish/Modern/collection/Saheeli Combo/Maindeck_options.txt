@@ -69,8 +69,8 @@
 3 Chalice of the Void
 4 Fury
 4 Wooded Foothills
-1 Noble Hierarch
 1 Ignoble Hierarch
+1 Noble Hierarch
 2 Ignoble Hierarch
 1 Fiery Islet
 1 Castle Vantress
@@ -154,16 +154,16 @@
 1 The Wandering Emperor
 1 Horizon Canopy
 3 Snow-Covered Forest
-1 Reflecting Pool
 1 Imperial Recruiter
+1 Reflecting Pool
 1 Sun Titan
 2 Eternal Witness
 2 Imperial Recruiter
 3 Imperial Recruiter
 4 Imperial Recruiter
-1 Nahiri, the Harbinger
 1 Jace, the Mind Sculptor
 1 Arbor Elf
+1 Nahiri, the Harbinger
 2 Temple Garden
 2 Jace, the Mind Sculptor
 2 Arbor Elf
@@ -191,6 +191,11 @@
 1 Spell Pierce
 2 Serum Visions
 3 Serum Visions
+1 Esper Sentinel
+1 Eiganjo, Seat of the Empire
+2 Esper Sentinel
+3 Esper Sentinel
+4 Esper Sentinel
 1 Lotus Cobra
 2 Lotus Cobra
 3 Lotus Cobra
@@ -199,24 +204,19 @@
 4 Prismatic Vista
 1 Valki, God of Lies
 1 Bring to Light
-1 Overgrown Tomb
 1 Blood Crypt
-1 Rip Apart
+1 Overgrown Tomb
 1 Niv-Mizzet Reborn
 1 Sylvan Caryatid
+1 Rip Apart
 1 Wandering Mind
 2 Bring to Light
-2 Rip Apart
 2 Sylvan Caryatid
+2 Rip Apart
 3 Bring to Light
 3 Sylvan Caryatid
 4 Bring to Light
 4 Sylvan Caryatid
-1 Eiganjo, Seat of the Empire
-1 Esper Sentinel
-2 Esper Sentinel
-3 Esper Sentinel
-4 Esper Sentinel
 1 Spirited Companion
 1 Sokenzan, Crucible of Defiance
 2 Spirited Companion
@@ -228,15 +228,15 @@
 2 Lightning Helix
 3 Path to Exile
 4 Path to Exile
-1 Auriok Champion
-1 Mystic Gate
 1 Spellskite
+1 Mystic Gate
+1 Auriok Champion
 1 Lavinia, Azorius Renegade
 1 Glasspool Mimic
 1 Aether Vial
 1 Fblthp, the Lost
-2 Auriok Champion
 2 Spellskite
+2 Auriok Champion
 2 Fblthp, the Lost
 2 Soulherder
 2 Aether Vial
