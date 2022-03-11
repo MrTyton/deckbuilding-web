@@ -1,8 +1,8 @@
 3 Archmage's Charm
 2 Breeding Pool
 1 Shark Typhoon
-2 Snow-Covered Plains
 1 Scalding Tarn
+2 Snow-Covered Plains
 2 Hallowed Fountain
 1 Prismatic Ending
 1 Counterspell
@@ -16,33 +16,37 @@
 1 Solitude
 2 Solitude
 4 Archmage's Charm
-4 Teferi, Time Raveler
-2 Shark Typhoon
-4 Prismatic Ending
+1 Polluted Delta
 1 Memory Deluge
 1 Celestial Colonnade
 1 Castle Vantress
 3 Solitude
-1 Polluted Delta
-1 Spell Snare
+4 Teferi, Time Raveler
+4 Prismatic Ending
+2 Mystic Gate
+1 Raugrin Triome
+2 Shark Typhoon
+1 Hall of Storm Giants
+2 Castle Vantress
 1 Abundant Growth
 2 Abundant Growth
-1 Raugrin Triome
-2 Mystic Gate
+1 Spell Snare
 2 Memory Deluge
-1 Hall of Storm Giants
 1 Chalice of the Void
 4 Solitude
-2 Castle Vantress
-1 Glacial Fortress
-3 Abundant Growth
-4 Uro, Titan of Nature's Wrath
 1 Plains
 2 Island
 3 Island
+1 Glacial Fortress
 1 March of Otherworldly Light
 1 Otawara, Soaring City
 2 March of Otherworldly Light
+3 Abundant Growth
+4 Uro, Titan of Nature's Wrath
+3 March of Otherworldly Light
+3 Snapcaster Mage
+1 Dress Down
+3 Mystic Gate
 2 Celestial Colonnade
 1 Spreading Seas
 2 Spreading Seas
@@ -55,41 +59,38 @@
 2 Scalding Tarn
 2 Polluted Delta
 3 Mana Leak
+1 Opt
+2 Opt
+3 Opt
+4 Opt
 1 Hour of Promise
 1 Field of the Dead
-1 Prairie Stream
 1 Hinterland Harbor
+1 Prairie Stream
 1 Time Warp
 2 Hour of Promise
 2 Field of the Dead
 2 Remand
 3 Field of the Dead
 3 Mystic Sanctuary
-3 March of Otherworldly Light
-1 Dress Down
 1 The Wandering Emperor
-3 Snapcaster Mage
-3 Mystic Gate
 3 Supreme Verdict
 4 Island
 2 Chalice of the Void
-1 Windswept Heath
-2 Windswept Heath
 1 Prismatic Vista
 1 Teferi, Master of Time
 1 Dovin's Veto
+6 Snow-Covered Island
 1 Glacial Floodplain
 1 Rimewood Falls
-1 Opt
-2 Opt
-3 Opt
-4 Opt
-6 Snow-Covered Island
+1 Fact or Fiction
+1 Timely Reinforcements
 1 Jolrael, Mwonvuli Recluse
 2 Jolrael, Mwonvuli Recluse
-1 Timely Reinforcements
 2 Glacial Fortress
 2 Plains
+1 Windswept Heath
+2 Windswept Heath
 4 Abundant Growth
 1 Winds of Abandon
 1 Elspeth Conquers Death
@@ -100,24 +101,8 @@
 2 Dress Down
 1 Castle Ardenvale
 1 Ashiok, Dream Render
-1 Sword of Feast and Famine
-1 Stoneforge Mystic
-1 Batterskull
-1 Spell Queller
-2 Stoneforge Mystic
-2 Spell Queller
-3 Stoneforge Mystic
-4 Stoneforge Mystic
 1 Reflecting Pool
 4 Supreme Verdict
-1 Fact or Fiction
-3 Windswept Heath
-4 Windswept Heath
-1 Sword of Fire and Ice
-1 Brazen Borrower
-1 Mutavault
-1 Spellstutter Sprite
-2 Spellstutter Sprite
 1 Wall of Omens
 1 Yorion, Sky Nomad
 1 Restoration Angel
@@ -132,18 +117,33 @@
 2 Yorion, Sky Nomad
 2 Niambi, Esteemed Speaker
 2 Barrin, Tolarian Archmage
+3 Windswept Heath
 3 Wall of Omens
 3 On Thin Ice
 3 Celestial Colonnade
 3 Restoration Angel
 3 Jolrael, Mwonvuli Recluse
 4 Force of Negation
+4 Windswept Heath
 4 Wall of Omens
 4 On Thin Ice
 1 Eiganjo, Seat of the Empire
 1 Flooded Grove
 1 Boseiju, Who Endures
 4 March of Otherworldly Light
+1 Sword of Feast and Famine
+1 Spell Queller
+1 Stoneforge Mystic
+1 Sword of Fire and Ice
+1 Batterskull
+1 Brazen Borrower
+1 Mutavault
+1 Spellstutter Sprite
+2 Spell Queller
+2 Stoneforge Mystic
+2 Spellstutter Sprite
+3 Stoneforge Mystic
+4 Stoneforge Mystic
 7 Snow-Covered Island
 1 Growth Spiral
 1 Ojutai's Command
@@ -160,16 +160,3 @@
 2 Consider
 3 Consider
 4 Consider
-1 Noble Hierarch
-1 Geist of Saint Traft
-1 Deputy of Detention
-1 Waterlogged Grove
-1 Birds of Paradise
-2 Geist of Saint Traft
-2 Noble Hierarch
-2 Birds of Paradise
-3 Geist of Saint Traft
-3 Noble Hierarch
-3 Spell Queller
-4 Noble Hierarch
-4 Spell Queller

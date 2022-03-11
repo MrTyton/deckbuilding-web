@@ -1,3 +1,11 @@
+1 Emeria's Call
+2 Emeria's Call
+4 Field of Ruin
+1 Horizon Canopy
+1 Temple Garden
+1 Razorverge Thicket
+1 Noble Hierarch
+1 Branchloft Pathway
 1 Boseiju, Who Endures
 2 Branchloft Pathway
 2 Razorverge Thicket
@@ -10,24 +18,21 @@
 4 Razorverge Thicket
 4 Boseiju, Who Endures
 4 Noble Hierarch
-12 Plains
-4 Field of Ruin
-1 Tectonic Edge
-2 Tectonic Edge
-1 Aven Mindcensor
-3 Tectonic Edge
-4 Tectonic Edge
-1 Emeria's Call
-2 Emeria's Call
-13 Plains
 3 Emeria's Call
 4 Emeria's Call
+1 Aven Mindcensor
 2 Eiganjo, Seat of the Empire
+13 Plains
 3 Temple Garden
 4 Temple Garden
 3 Branchloft Pathway
 4 Branchloft Pathway
 2 Cave of the Frost Dragon
+1 Forest
+1 Oath of Nissa
+2 Oath of Nissa
+3 Oath of Nissa
+4 Oath of Nissa
 1 Sacred Foundry
 1 Imperial Recruiter
 1 Magus of the Moon
@@ -39,75 +44,62 @@
 3 Inspiring Vantage
 4 Imperial Recruiter
 4 Inspiring Vantage
-1 Forest
-1 Oath of Nissa
-2 Oath of Nissa
-3 Oath of Nissa
-4 Oath of Nissa
 1 Marsh Flats
+1 Silent Clearing
+2 Silent Clearing
+1 Arid Mesa
+2 Arid Mesa
+3 Arid Mesa
+4 Arid Mesa
+1 Charming Prince
+2 Charming Prince
 1 Sunbaked Canyon
 2 Sunbaked Canyon
 3 Sunbaked Canyon
+1 Sword of Feast and Famine
+1 Brushland
+2 Brushland
+3 Brushland
+4 Brushland
+1 Thraben Inspector
+2 Thraben Inspector
+1 Overgrown Farmland
+2 Overgrown Farmland
+2 Horizon Canopy
 1 Shadowspear
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
-1 Arid Mesa
-2 Arid Mesa
-3 Arid Mesa
-4 Arid Mesa
+1 Flooded Strand
+2 Flooded Strand
 1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
-1 Charming Prince
 1 Sanctifier en-Vec
-2 Charming Prince
+3 Sacred Foundry
 1 Needleverge Pathway
 2 Needleverge Pathway
 3 Needleverge Pathway
 4 Needleverge Pathway
-1 Thraben Inspector
-2 Thraben Inspector
+1 Mishra's Factory
+2 Mishra's Factory
+2 Castle Ardenvale
+3 Thraben Inspector
+4 Thraben Inspector
+3 Silent Clearing
+4 Silent Clearing
+14 Plains
+15 Plains
+4 Urza's Saga
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
 10 Snow-Covered Plains
 11 Snow-Covered Plains
-4 Urza's Saga
-1 Sword of Feast and Famine
-1 Brushland
-2 Brushland
-3 Brushland
-4 Brushland
-2 Horizon Canopy
-1 Overgrown Farmland
-2 Overgrown Farmland
-3 Sacred Foundry
-1 Flooded Strand
-2 Flooded Strand
-3 Thraben Inspector
-4 Thraben Inspector
-1 Mishra's Factory
-2 Mishra's Factory
-2 Castle Ardenvale
-1 Soul-Guide Lantern
-1 Silent Clearing
-2 Silent Clearing
-14 Plains
-15 Plains
-12 Snow-Covered Plains
 1 Ramunap Excavator
-1 Ragavan, Nimble Pilferer
-1 Pia and Kiran Nalaar
-1 Seasoned Pyromancer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
-3 Charming Prince
-4 Charming Prince
-4 Ragavan, Nimble Pilferer
 1 Kiki-Jiki, Mirror Breaker
 1 Rip Apart
 1 Felidar Guardian
@@ -118,9 +110,11 @@
 3 Mishra's Factory
 4 Mishra's Factory
 2 Marsh Flats
+3 Charming Prince
 16 Plains
 17 Plains
 1 Hallowed Fountain
+1 Soul-Guide Lantern
 1 The Reality Chip
 1 Otawara, Soaring City
 1 Hengegate Pathway
@@ -131,14 +125,13 @@
 1 Portable Hole
 2 Portable Hole
 3 Portable Hole
+1 Halvar, God of Battle
 1 March of Otherworldly Light
 2 March of Otherworldly Light
-1 Halvar, God of Battle
-3 Silent Clearing
-4 Silent Clearing
 1 Blast Zone
 1 Spellskite
 2 Spellskite
+12 Snow-Covered Plains
 2 Aven Mindcensor
 1 Godless Shrine
 1 Prismatic Ending
@@ -148,6 +141,13 @@
 4 Marsh Flats
 4 Flooded Strand
 1 Snow-Covered Forest
+1 Ragavan, Nimble Pilferer
+1 Pia and Kiran Nalaar
+1 Seasoned Pyromancer
+2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
+4 Charming Prince
+4 Ragavan, Nimble Pilferer
 1 Collected Company
 2 Collected Company
 3 Collected Company
@@ -177,9 +177,9 @@
 4 Seachrome Coast
 1 Springleaf Drum
 1 Roadside Reliquary
-1 Pithing Needle
 1 Timeless Dragon
 1 Spirited Companion
+1 Pithing Needle
 1 Relic of Progenitus
 1 On Thin Ice
 1 Ambitious Farmhand

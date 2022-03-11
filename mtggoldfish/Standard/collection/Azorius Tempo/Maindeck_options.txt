@@ -152,8 +152,8 @@
 1 Show of Confidence
 2 Jwari Disruption
 1 Kabira Takedown
-2 Kabira Takedown
 2 Sejiri Shelter
+2 Kabira Takedown
 1 Glasspool Mimic
 3 Overcharged Amalgam
 1 Archpriest of Iona
@@ -179,10 +179,34 @@
 3 Jwari Disruption
 2 Show of Confidence
 3 Show of Confidence
+1 Behold the Multiverse
+1 Avalanche Caller
+1 Jace, Mirror Mage
+1 Curate
+1 Doomskar
+1 Pithing Needle
+1 Teferi, Who Slows the Sunset
+2 Teferi, Who Slows the Sunset
+2 Behold the Multiverse
+2 Curate
+2 Avalanche Caller
+2 Doomskar
+2 Pithing Needle
+2 Jace, Mirror Mage
+3 Behold the Multiverse
+3 Avalanche Caller
+3 Doomskar
+3 Curate
+3 Teferi, Who Slows the Sunset
+3 Starnheim Unleashed
+4 Doomskar
+4 Behold the Multiverse
+4 Avalanche Caller
 1 Selfless Samurai
 4 Spell Pierce
 4 Hopeful Initiate
 4 Homestead Courage
+4 Fateful Absence
 1 Field of Ruin
 2 Field of Ruin
 3 Valorous Stance
@@ -200,7 +224,6 @@
 2 Mistwalker
 3 Nimble Trapfinder
 4 Nimble Trapfinder
-4 Fateful Absence
 1 Serpentine Ambush
 1 Stormchaser Drake
 1 Kaya's Onslaught
@@ -229,29 +252,6 @@
 3 Kabira Takedown
 4 Sejiri Shelter
 4 Kabira Takedown
-1 Behold the Multiverse
-1 Avalanche Caller
-1 Jace, Mirror Mage
-1 Curate
-1 Doomskar
-1 Pithing Needle
-1 Teferi, Who Slows the Sunset
-2 Behold the Multiverse
-2 Curate
-2 Avalanche Caller
-2 Doomskar
-2 Pithing Needle
-2 Teferi, Who Slows the Sunset
-2 Jace, Mirror Mage
-3 Behold the Multiverse
-3 Avalanche Caller
-3 Doomskar
-3 Curate
-3 Teferi, Who Slows the Sunset
-3 Starnheim Unleashed
-4 Avalanche Caller
-4 Doomskar
-4 Behold the Multiverse
 1 Cathar Commando
 1 Hallowed Respite
 1 Gavony Dawnguard
@@ -275,9 +275,9 @@
 2 Stonebinder's Familiar
 2 Patrician Geist
 2 Katilda, Dawnhart Martyr
+3 Katilda, Dawnhart Martyr
 3 Stonebinder's Familiar
 3 Patrician Geist
-3 Katilda, Dawnhart Martyr
 4 Patrician Geist
 4 Stonebinder's Familiar
 8 Plains

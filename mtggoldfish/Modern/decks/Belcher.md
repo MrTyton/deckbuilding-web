@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    3|[Sea Gate Restoration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491706) |                    1|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)      |
-|                    1|[March of Reckless Joy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548458)|                    1|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)    |
+|                    1|[March of Reckless Joy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548458)|                    1|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)      |
+|                    3|[Sea Gate Restoration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491706) |                    1|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)    |
 |                    2|[March of Reckless Joy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548458)|                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993) |
 |                    3|[March of Reckless Joy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548458)|                    2|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)    |
 |                    1|[Fury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522202)                 |                    1|[Pyromancer Ascension](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425933)|
