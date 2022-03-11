@@ -57,9 +57,9 @@
 3 Mana Leak
 1 Hour of Promise
 1 Field of the Dead
+1 Prairie Stream
 1 Hinterland Harbor
 1 Time Warp
-1 Prairie Stream
 2 Hour of Promise
 2 Field of the Dead
 2 Remand
@@ -100,9 +100,9 @@
 2 Dress Down
 1 Castle Ardenvale
 1 Ashiok, Dream Render
+1 Sword of Feast and Famine
 1 Stoneforge Mystic
 1 Batterskull
-1 Sword of Feast and Famine
 1 Spell Queller
 2 Stoneforge Mystic
 2 Spell Queller
@@ -114,21 +114,17 @@
 3 Windswept Heath
 4 Windswept Heath
 1 Sword of Fire and Ice
-1 Mutavault
 1 Brazen Borrower
+1 Mutavault
 1 Spellstutter Sprite
 2 Spellstutter Sprite
-1 Eiganjo, Seat of the Empire
-1 Flooded Grove
-1 Boseiju, Who Endures
-4 March of Otherworldly Light
-1 On Thin Ice
+1 Wall of Omens
 1 Yorion, Sky Nomad
 1 Restoration Angel
+1 On Thin Ice
 1 Barrin, Tolarian Archmage
 1 Venser, Shaper Savant
 1 Niambi, Esteemed Speaker
-1 Wall of Omens
 2 Wall of Omens
 2 Restoration Angel
 2 On Thin Ice
@@ -141,17 +137,21 @@
 3 Celestial Colonnade
 3 Restoration Angel
 3 Jolrael, Mwonvuli Recluse
+4 Force of Negation
 4 Wall of Omens
 4 On Thin Ice
-4 Force of Negation
+1 Eiganjo, Seat of the Empire
+1 Flooded Grove
+1 Boseiju, Who Endures
+4 March of Otherworldly Light
 7 Snow-Covered Island
 1 Growth Spiral
 1 Ojutai's Command
 1 Absorb
 2 Growth Spiral
 4 Snapcaster Mage
-1 Search for Azcanta
 1 Engineered Explosives
+1 Search for Azcanta
 2 Otawara, Soaring City
 3 Chalice of the Void
 3 Polluted Delta
@@ -161,15 +161,15 @@
 3 Consider
 4 Consider
 1 Noble Hierarch
-1 Birds of Paradise
-1 Waterlogged Grove
 1 Geist of Saint Traft
 1 Deputy of Detention
-2 Birds of Paradise
-2 Noble Hierarch
+1 Waterlogged Grove
+1 Birds of Paradise
 2 Geist of Saint Traft
-3 Noble Hierarch
+2 Noble Hierarch
+2 Birds of Paradise
 3 Geist of Saint Traft
+3 Noble Hierarch
 3 Spell Queller
 4 Noble Hierarch
 4 Spell Queller

@@ -70,16 +70,16 @@
 4 Kumano Faces Kakkazan
 1 Dragon's Fire
 2 Dragon's Fire
-1 Snow-Covered Swamp
 1 Snow-Covered Mountain
 1 Blood on the Snow
-2 Snow-Covered Swamp
+1 Snow-Covered Swamp
 2 Snow-Covered Mountain
 2 Blood on the Snow
-3 Snow-Covered Swamp
+2 Snow-Covered Swamp
 3 Snow-Covered Mountain
-4 Snow-Covered Swamp
+3 Snow-Covered Swamp
 4 Snow-Covered Mountain
+4 Snow-Covered Swamp
 5 Snow-Covered Mountain
 5 Snow-Covered Swamp
 6 Snow-Covered Mountain
@@ -108,11 +108,11 @@
 2 Faceless Haven
 3 Faceless Haven
 3 Blood on the Snow
-4 Blood on the Snow
 4 Faceless Haven
-1 Crippling Fear
+4 Blood on the Snow
 1 Invoke Despair
 1 Soul Transfer
+1 Crippling Fear
 2 The Celestus
 2 Invoke Despair
 2 Hagra Mauling
@@ -203,8 +203,8 @@
 2 Kazuul's Fury
 2 Scourge of the Skyclaves
 2 Orcus, Prince of Undeath
-3 Henrika Domnathi
 3 Kazuul's Fury
+3 Henrika Domnathi
 3 Scourge of the Skyclaves
 4 Shatterskull Smashing
 4 Kazuul's Fury
@@ -213,8 +213,8 @@
 1 Experimental Synthesizer
 1 Burn Down the House
 1 Reckoner's Bargain
-2 Dockside Chef
 2 Experimental Synthesizer
+2 Dockside Chef
 2 Reckoner's Bargain
 2 Anje, Maid of Dishonor
 3 Experimental Synthesizer
@@ -236,13 +236,13 @@
 3 Falkenrath Pit Fighter
 4 Falkenrath Pit Fighter
 4 Vampire Socialite
+1 Nullpriest of Oblivion
 1 Power Word Kill
 1 Sundown Pass
 1 Volatile Arsonist
 1 Brightclimb Pathway
 1 Shattered Sanctum
 1 Voldaren Bloodcaster
-1 Nullpriest of Oblivion
 1 Needleverge Pathway
 1 Edgar, Charmed Groom
 2 Voldaren Bloodcaster
@@ -251,8 +251,8 @@
 2 Edgar, Charmed Groom
 2 Brightclimb Pathway
 2 Needleverge Pathway
-3 Nighthawk Scavenger
 3 Bloodchief's Thirst
+3 Nighthawk Scavenger
 3 Brightclimb Pathway
 3 Voldaren Bloodcaster
 3 Needleverge Pathway

@@ -44,38 +44,38 @@
 1 Mystic Gate
 2 Stomping Ground
 1 Seasoned Pyromancer
+1 Utopia Sprawl
 1 Meddling Mage
 1 Fiery Islet
-1 Utopia Sprawl
-2 Seasoned Pyromancer
 2 Utopia Sprawl
-3 Seasoned Pyromancer
+2 Seasoned Pyromancer
 3 Utopia Sprawl
+3 Seasoned Pyromancer
 1 Prismari Command
 2 Supreme Verdict
-1 Archmage's Charm
 1 Castle Vantress
+1 Archmage's Charm
 2 Archmage's Charm
-3 Supreme Verdict
 3 Archmage's Charm
 3 Snow-Covered Island
-4 Snow-Covered Island
+3 Supreme Verdict
 4 Archmage's Charm
+4 Snow-Covered Island
 1 Stoneforge Mystic
 1 Kaldra Compleat
-1 Batterskull
 1 Sword of Fire and Ice
+1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
 4 Ephemerate
 1 Charming Prince
 2 Charming Prince
-1 Godless Shrine
+1 Takenuma, Abandoned Mire
 1 Agadeem's Awakening
+1 Godless Shrine
 1 Malakir Rebirth
 1 Undying Evil
-1 Takenuma, Abandoned Mire
 1 Swamp
 1 Touch the Spirit Realm
 1 Grief
@@ -106,12 +106,12 @@
 2 Silent Clearing
 2 Persist
 2 Blade Splicer
-3 Agadeem's Awakening
 3 Silent Clearing
+3 Agadeem's Awakening
 3 Godless Shrine
 3 Persist
-4 Touch the Spirit Realm
 4 Silent Clearing
+4 Touch the Spirit Realm
 4 Godless Shrine
 2 Sokenzan, Crucible of Defiance
 1 Abundant Harvest
@@ -120,13 +120,13 @@
 1 Obsidian Charmaw
 4 Utopia Sprawl
 1 Prairie Stream
-2 Jace, the Mind Sculptor
 2 Breeding Pool
+2 Jace, the Mind Sculptor
 2 Mystic Gate
 2 Prismatic Vista
+3 Prismatic Vista
 3 Jace, the Mind Sculptor
 3 Mystic Gate
-3 Prismatic Vista
 4 Prismatic Vista
 4 Jace, the Mind Sculptor
 1 Rimewood Falls
@@ -139,19 +139,19 @@
 1 Reflecting Pool
 1 Magus of the Moon
 2 Forest
-3 Boseiju, Who Endures
+1 Hall of Storm Giants
 1 Time Warp
 1 Arctic Treeline
-1 Hall of Storm Giants
 1 Sanctifier en-Vec
 1 Scattered Groves
 1 Mulldrifter
 1 Irrigated Farmland
 2 Mulldrifter
-2 Glacial Floodplain
 2 Snow-Covered Plains
+2 Glacial Floodplain
 2 Sanctifier en-Vec
 3 Sanctifier en-Vec
+3 Boseiju, Who Endures
 1 Prismatic Lens
 2 Prismatic Lens
 3 Prismatic Lens
@@ -159,72 +159,72 @@
 2 Coiling Oracle
 3 Coiling Oracle
 1 Grist, the Hunger Tide
+1 Blooming Marsh
 1 Indatha Triome
-1 Abrupt Decay
+1 Concealed Courtyard
+1 Verdant Catacombs
 1 Lithoform Blight
 1 Overgrown Tomb
+1 Abrupt Decay
 1 Fatal Push
 1 Razorverge Thicket
 1 Tarmogoyf
-1 Concealed Courtyard
-1 Blooming Marsh
-1 Verdant Catacombs
 2 Marsh Flats
-2 Lithoform Blight
-2 Verdant Catacombs
 2 Concealed Courtyard
+2 Verdant Catacombs
 2 Tarmogoyf
 2 Razorverge Thicket
+2 Lithoform Blight
 3 Marsh Flats
 3 Concealed Courtyard
 3 Tarmogoyf
-4 Eladamri's Call
 4 Marsh Flats
+4 Eladamri's Call
 4 Malakir Rebirth
 4 Tarmogoyf
-1 Hinterland Harbor
-1 Polluted Delta
 1 Snapcaster Mage
-2 Castle Vantress
-2 Hinterland Harbor
-2 Snapcaster Mage
+1 Polluted Delta
+1 Hinterland Harbor
 2 Polluted Delta
+2 Snapcaster Mage
+2 Hinterland Harbor
+2 Castle Vantress
 5 Snow-Covered Island
 1 Phantasmal Image
+1 Sun Titan
 1 Thraben Inspector
+1 Cavern of Souls
 1 Field of Ruin
 1 Timeless Dragon
-1 Cavern of Souls
-1 Sun Titan
 1 Restoration Angel
-2 Phantasmal Image
-2 Celestial Colonnade
-2 Thraben Inspector
-2 Field of Ruin
-2 Sun Titan
-2 Restoration Angel
-2 Skyclave Apparition
-2 Cavern of Souls
 2 Wall of Omens
+2 Phantasmal Image
+2 Skyclave Apparition
+2 Thraben Inspector
+2 Sun Titan
+2 Celestial Colonnade
+2 Restoration Angel
+2 Cavern of Souls
+2 Field of Ruin
 3 The Wandering Emperor
-3 Field of Ruin
-3 Thraben Inspector
-3 Arid Mesa
-3 Celestial Colonnade
-3 Skyclave Apparition
 3 Wall of Omens
+3 Field of Ruin
+3 Arid Mesa
+3 Skyclave Apparition
+3 Thraben Inspector
+3 Celestial Colonnade
 3 Sun Titan
 3 Restoration Angel
 3 Cavern of Souls
 3 Phantasmal Image
-4 Field of Ruin
 4 The Wandering Emperor
-4 Thraben Inspector
 4 Wall of Omens
+4 Field of Ruin
+4 Thraben Inspector
+4 Arid Mesa
 4 Skyclave Apparition
 4 Restoration Angel
 4 Phantasmal Image
-4 Sun Titan
 5 Plains
 6 Plains
-4 Arid Mesa
+4 Sun Titan

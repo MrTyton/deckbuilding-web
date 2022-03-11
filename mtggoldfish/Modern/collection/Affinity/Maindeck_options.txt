@@ -70,10 +70,10 @@
 1 Portable Hole
 2 Portable Hole
 3 Portable Hole
-1 Mishra's Factory
 1 Mech Hangar
-2 Mishra's Factory
+1 Mishra's Factory
 2 Mech Hangar
+2 Mishra's Factory
 3 Mishra's Factory
 3 Mech Hangar
 3 Myr Enforcer
@@ -116,15 +116,15 @@
 1 Sacred Foundry
 1 Kaldra Compleat
 1 Thraben Inspector
-1 Scalding Tarn
 1 Snow-Covered Plains
-1 Hengegate Pathway
 1 Prismatic Ending
+1 Hengegate Pathway
+1 Scalding Tarn
 1 Glint-Nest Crane
-2 Thraben Inspector
 2 Scalding Tarn
-2 Glint-Nest Crane
+2 Thraben Inspector
 2 Prismatic Ending
+2 Glint-Nest Crane
 3 Thraben Inspector
 3 Prismatic Ending
 4 Thraben Inspector
@@ -139,6 +139,12 @@
 2 Patchwork Automaton
 3 Patchwork Automaton
 4 Signal Pest
+1 Tanglepool Bridge
+1 Inkmoth Nexus
+2 Inkmoth Nexus
+3 Inkmoth Nexus
+4 Inkmoth Nexus
+4 Glimmervoid
 1 Darkslick Shores
 1 Arcbound Ravager
 2 Darkslick Shores
@@ -153,29 +159,23 @@
 2 Hard Evidence
 3 Hard Evidence
 4 Hard Evidence
-1 Tanglepool Bridge
-1 Inkmoth Nexus
-2 Inkmoth Nexus
-3 Inkmoth Nexus
-4 Glimmervoid
-4 Inkmoth Nexus
 4 Welding Jar
 4 Silverbluff Bridge
 1 Cave of the Frost Dragon
-1 Marsh Flats
-1 Spellskite
-1 Arid Mesa
-1 Lightning Greaves
 1 Lion Sash
+1 Spellskite
+1 Lightning Greaves
 1 Crucible of Worlds
 1 Crackdown Construct
+1 Arid Mesa
 1 Oswald Fiddlebender
+1 Marsh Flats
 1 Ichor Wellspring
 1 Windswept Heath
 1 Chromatic Star
 1 Eiganjo Castle
-2 Plains
 2 Spellskite
+2 Plains
 2 Lightning Greaves
 2 Oswald Fiddlebender
 3 Plains

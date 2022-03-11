@@ -63,7 +63,7 @@
 |                    4|[Cathartic Pyre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534909)           |                    1|[Vanquish the Horde](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534799)|
 |                    1|[Moritte of the Frost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503839)     |                    1|[Doomskar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503613)          |
 |                    4|[Prismari Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513706)         |                    2|[Flame-Blessed Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541014)|
-|                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                 |                    2|[Doomskar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503613)          |
-|                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                    3|Malevolent Hermit                                                                            |
+|                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                 |                    3|Malevolent Hermit                                                                            |
+|                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                    2|[Doomskar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503613)          |
 |                    1|[Scholar of the Lost Trove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489181)|                     |                                                                                             |
 

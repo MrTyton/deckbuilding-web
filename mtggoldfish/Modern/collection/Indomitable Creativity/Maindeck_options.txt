@@ -29,8 +29,8 @@
 3 Explore
 4 Explore
 1 Chained to the Rocks
-2 Force of Negation
 2 Chained to the Rocks
+2 Force of Negation
 3 Force of Negation
 1 Careful Cultivation
 4 Strike It Rich
@@ -60,16 +60,18 @@
 1 Snow-Covered Island
 1 Snow-Covered Mountain
 4 Steam Vents
+1 Lightning Helix
+4 Bloodstained Mire
 1 Misty Rainforest
 1 Time Warp
+1 Lukka, Coppercoat Outcast
 1 Fabled Passage
 1 Nissa, Steward of Elements
 1 Savor the Moment
-1 Lukka, Coppercoat Outcast
 1 Velomachus Lorehold
+2 Lukka, Coppercoat Outcast
 2 Savor the Moment
 2 Nissa, Steward of Elements
-2 Lukka, Coppercoat Outcast
 2 Time Warp
 3 Savor the Moment
 3 Time Warp
@@ -77,8 +79,6 @@
 4 Prismari Command
 4 Time Warp
 4 Savor the Moment
-1 Lightning Helix
-4 Bloodstained Mire
 1 Verdant Command
 1 Farseek
 1 Search for Tomorrow
@@ -92,15 +92,14 @@
 4 Verdant Command
 4 Search for Tomorrow
 4 Farseek
-4 Growth Spiral
+1 Blood Crypt
 1 Archon of Cruelty
 1 Spreading Seas
 1 Unholy Heat
-1 Blood Crypt
-2 Archon of Cruelty
-2 Spreading Seas
 2 Blood Crypt
 2 Unholy Heat
+2 Archon of Cruelty
+2 Spreading Seas
 3 Archon of Cruelty
 3 Spreading Seas
 3 Transmogrify
@@ -108,3 +107,4 @@
 4 Transmogrify
 4 Mountain
 5 Mountain
+4 Growth Spiral
