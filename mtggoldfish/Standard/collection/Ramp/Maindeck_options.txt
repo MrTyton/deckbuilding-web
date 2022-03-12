@@ -54,15 +54,15 @@
 4 Murasa Rootgrazer
 2 Legion Angel
 6 Plains
-1 Crawling Barrens
-1 The Celestus
-1 Ondu Inversion
 1 Ashaya, Soul of the Wild
 1 Druid Class
-2 Crawling Barrens
+1 The Celestus
+1 Ondu Inversion
+1 Crawling Barrens
 2 The Celestus
-2 Ondu Inversion
 2 Druid Class
+2 Crawling Barrens
+2 Ondu Inversion
 2 Ashaya, Soul of the Wild
 3 Fateful Absence
 3 Druid Class
@@ -85,54 +85,54 @@
 1 Touch the Spirit Realm
 2 Touch the Spirit Realm
 3 Touch the Spirit Realm
+1 Drizzt Do'Urden
+1 Priest of Ancient Lore
+1 Story Seeker
 1 Blossoming Sands
+1 Fortifying Draught
+1 You Meet in a Tavern
 1 Inscription of Abundance
 1 Righteous Valkyrie
 1 Kor Celebrant
 1 Reidane, God of the Worthy
 1 Grand Master of Flowers
-1 Trelasarra, Moon Dancer
-1 Attended Healer
-1 Minimus Containment
-1 Arctic Treeline
-1 Toski, Bearer of Secrets
-1 Icingdeath, Frost Tyrant
-1 Celestial Unicorn
-1 Valkyrie Harbinger
-1 Pillardrop Rescuer
-1 Cultivator Colossus
 1 Lurking Roper
-1 Story Seeker
+1 Pillardrop Rescuer
+1 Trelasarra, Moon Dancer
+1 Arctic Treeline
+1 Attended Healer
+1 Toski, Bearer of Secrets
+1 Minimus Containment
+1 Celestial Unicorn
+1 Icingdeath, Frost Tyrant
+1 Valkyrie Harbinger
+1 Cultivator Colossus
 1 Maja, Bretagard Protector
-1 You Meet in a Tavern
 1 Cleric Class
-1 Priest of Ancient Lore
-1 Fortifying Draught
 1 The Tarrasque
 1 Devouring Tendrils
-1 Drizzt Do'Urden
-2 Blossoming Sands
-2 Kor Celebrant
-2 Trelasarra, Moon Dancer
-2 Devouring Tendrils
-2 Arctic Treeline
-2 Minimus Containment
-2 Celestial Unicorn
-2 Cleric Class
-2 You Meet in a Tavern
-2 Fortifying Draught
-2 Lurking Roper
 2 Priest of Ancient Lore
 2 Story Seeker
+2 Blossoming Sands
+2 Fortifying Draught
+2 You Meet in a Tavern
+2 Kor Celebrant
+2 Lurking Roper
+2 Trelasarra, Moon Dancer
+2 Arctic Treeline
+2 Devouring Tendrils
+2 Celestial Unicorn
+2 Minimus Containment
+2 Cleric Class
+3 Priest of Ancient Lore
+3 Blossoming Sands
 3 Trelasarra, Moon Dancer
 3 Arctic Treeline
-3 Minimus Containment
 3 Kor Celebrant
+3 Minimus Containment
 3 Devouring Tendrils
-3 Blossoming Sands
-3 Priest of Ancient Lore
-4 Arctic Treeline
 4 Blossoming Sands
+4 Arctic Treeline
 4 Priest of Ancient Lore
 7 Plains
 7 Forest
@@ -152,12 +152,6 @@
 1 Shigeki, Jukai Visionary
 2 Shigeki, Jukai Visionary
 3 Emergent Sequence
-1 Welcoming Vampire
-1 Spring-Leaf Avenger
-1 Kami of Transience
-2 Welcoming Vampire
-3 Welcoming Vampire
-4 Welcoming Vampire
 4 Starnheim Unleashed
 4 Brutal Cathar
 1 Briarbridge Tracker
@@ -175,6 +169,12 @@
 3 Careful Cultivation
 4 Touch the Spirit Realm
 4 Careful Cultivation
+1 Welcoming Vampire
+1 Spring-Leaf Avenger
+1 Kami of Transience
+2 Welcoming Vampire
+3 Welcoming Vampire
+4 Welcoming Vampire
 3 The Restoration of Eiganjo
 3 Azusa's Many Journeys
 4 The Restoration of Eiganjo

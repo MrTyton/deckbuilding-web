@@ -101,8 +101,8 @@
 1 Primal Adversary
 2 Primal Adversary
 3 Primal Adversary
-1 Fynn, the Fangbearer
 1 Saryth, the Viper's Fang
+1 Fynn, the Fangbearer
 2 Saryth, the Viper's Fang
 2 Fynn, the Fangbearer
 4 Augur of Autumn
@@ -128,21 +128,38 @@
 1 Murasa Rootgrazer
 2 Murasa Rootgrazer
 3 Murasa Rootgrazer
+1 Fall of the Impostor
+1 Bretagard Stronghold
+1 Old-Growth Troll
+1 Faceless Haven
+1 Battle for Bretagard
+1 Arctic Treeline
+2 Old-Growth Troll
+2 Fall of the Impostor
+2 Bretagard Stronghold
+2 Faceless Haven
+2 Battle for Bretagard
+2 Arctic Treeline
+3 Arctic Treeline
+3 Battle for Bretagard
+3 Faceless Haven
+3 Old-Growth Troll
+4 Arctic Treeline
+3 Cave of the Frost Dragon
+4 Lair of the Hydra
+4 Cave of the Frost Dragon
 1 Kabira Takedown
 1 Lunarch Veteran
 1 Valentin, Dean of the Vein
 1 Trelasarra, Moon Dancer
-2 Kabira Takedown
-2 Lunarch Veteran
 2 Valentin, Dean of the Vein
+2 Lunarch Veteran
+2 Kabira Takedown
 2 Trelasarra, Moon Dancer
-3 Lunarch Veteran
 3 Valentin, Dean of the Vein
+3 Lunarch Veteran
 3 Trelasarra, Moon Dancer
 4 Lunarch Veteran
-3 Cave of the Frost Dragon
-4 Lair of the Hydra
-4 Cave of the Frost Dragon
 4 Reidane, God of the Worthy
 1 Curse of Silence
 1 Bala Ged Recovery
@@ -158,23 +175,6 @@
 2 Kazandu Mammoth
 3 Kazandu Mammoth
 4 Kazandu Mammoth
-1 Arctic Treeline
-1 Bretagard Stronghold
-1 Fall of the Impostor
-1 Old-Growth Troll
-1 Faceless Haven
-1 Battle for Bretagard
-2 Arctic Treeline
-2 Old-Growth Troll
-2 Fall of the Impostor
-2 Bretagard Stronghold
-2 Faceless Haven
-2 Battle for Bretagard
-3 Arctic Treeline
-3 Battle for Bretagard
-3 Faceless Haven
-3 Old-Growth Troll
-4 Arctic Treeline
 1 Join the Dance
 2 Join the Dance
 3 Starnheim Unleashed
@@ -189,10 +189,21 @@
 4 Adeline, Resplendent Cathar
 1 Sigarda, Champion of Light
 1 Thalia, Guardian of Thraben
-2 Sigarda, Champion of Light
 2 Thalia, Guardian of Thraben
+2 Sigarda, Champion of Light
 3 Thalia, Guardian of Thraben
 4 Thalia, Guardian of Thraben
+1 Vorinclex, Monstrous Raider
+1 Dawnhart Mentor
+2 Vorinclex, Monstrous Raider
+2 Dawnhart Mentor
+3 Fynn, the Fangbearer
+3 Saryth, the Viper's Fang
+3 Dawnhart Mentor
+4 Saryth, the Viper's Fang
+4 Fynn, the Fangbearer
+7 Forest
+8 Forest
 1 Lotus Cobra
 1 Blizzard Brawl
 2 Lotus Cobra
@@ -203,19 +214,8 @@
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
-1 Vorinclex, Monstrous Raider
-1 Dawnhart Mentor
-2 Vorinclex, Monstrous Raider
-2 Dawnhart Mentor
-3 Saryth, the Viper's Fang
-3 Dawnhart Mentor
-3 Fynn, the Fangbearer
-4 Saryth, the Viper's Fang
-4 Fynn, the Fangbearer
-7 Forest
-8 Forest
-3 Briarbridge Tracker
 3 Snakeskin Veil
+3 Briarbridge Tracker
 4 Briarbridge Tracker
 9 Plains
 10 Plains
