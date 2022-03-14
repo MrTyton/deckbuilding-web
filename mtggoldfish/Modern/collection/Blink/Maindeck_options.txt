@@ -1,44 +1,44 @@
-4 Windswept Heath
 1 Eladamri's Call
 2 Eladamri's Call
-1 Ragavan, Nimble Pilferer
-2 Scalding Tarn
-1 Unholy Heat
-2 Unholy Heat
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
-4 Ragavan, Nimble Pilferer
-3 Lightning Bolt
 2 Boseiju, Who Endures
+2 Scalding Tarn
+1 Ragavan, Nimble Pilferer
+2 Snow-Covered Forest
+3 Lightning Bolt
 1 Otawara, Soaring City
-1 Supreme Verdict
-1 Teferi, Hero of Dominaria
 1 Endurance
 3 March of Otherworldly Light
-1 Memory Deluge
+1 Supreme Verdict
+2 Ragavan, Nimble Pilferer
+1 Teferi, Hero of Dominaria
 4 Wooded Foothills
+1 Unholy Heat
+2 Unholy Heat
+3 Ragavan, Nimble Pilferer
+4 Ragavan, Nimble Pilferer
 3 Ephemerate
 2 Teferi, Hero of Dominaria
-3 Teferi, Hero of Dominaria
-4 March of Otherworldly Light
 1 Arid Mesa
 2 Arid Mesa
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Utopia Sprawl
+4 March of Otherworldly Light
 1 Wall of Omens
+1 Memory Deluge
 3 Eternal Witness
 1 Plains
 1 The Wandering Emperor
 3 Eladamri's Call
 1 Mystic Gate
-4 Lightning Bolt
+1 Sokenzan, Crucible of Defiance
 1 Seasoned Pyromancer
 1 Meddling Mage
 1 Fiery Islet
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
-1 Sokenzan, Crucible of Defiance
+4 Lightning Bolt
+3 Teferi, Hero of Dominaria
 2 Supreme Verdict
 1 Glacial Floodplain
 1 Archmage's Charm
@@ -50,18 +50,16 @@
 1 Island
 2 Island
 1 Jace, the Mind Sculptor
-2 Memory Deluge
 1 Prismatic Vista
 1 Force of Negation
 3 Snow-Covered Island
 4 Snow-Covered Island
 1 Forest
-3 Unholy Heat
-3 Scalding Tarn
 4 Utopia Sprawl
 1 Celestial Colonnade
-2 Hallowed Fountain
 2 The Wandering Emperor
+2 Hallowed Fountain
+2 Memory Deluge
 1 Rimewood Falls
 1 Lumbering Falls
 1 Polluted Delta
@@ -69,8 +67,8 @@
 2 Castle Vantress
 2 Mystic Gate
 1 Stoneforge Mystic
-1 Kaldra Compleat
 1 Sword of Fire and Ice
+1 Kaldra Compleat
 1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
@@ -79,17 +77,17 @@
 1 Charming Prince
 2 Charming Prince
 1 Takenuma, Abandoned Mire
-1 Agadeem's Awakening
 1 Godless Shrine
-1 Malakir Rebirth
+1 Agadeem's Awakening
 1 Undying Evil
 1 Swamp
 1 Touch the Spirit Realm
+1 Malakir Rebirth
 1 Grief
 2 Touch the Spirit Realm
+2 Godless Shrine
 2 Agadeem's Awakening
 2 Malakir Rebirth
-2 Godless Shrine
 2 Grief
 2 Undying Evil
 3 Touch the Spirit Realm
@@ -106,8 +104,8 @@
 1 Lion Sash
 1 Blade of the Oni
 1 Urborg, Tomb of Yawgmoth
-1 Emeria's Call
 1 Maul of the Skyclaves
+1 Emeria's Call
 1 Persist
 2 Silent Clearing
 2 Persist
@@ -120,7 +118,9 @@
 4 Godless Shrine
 1 Magus of the Moon
 1 Obsidian Charmaw
+3 Boseiju, Who Endures
 2 Stomping Ground
+3 Unholy Heat
 1 Abundant Harvest
 1 Mountain
 1 Prismari Command
@@ -131,8 +131,8 @@
 2 Jace, the Mind Sculptor
 2 Prismatic Vista
 3 Prismatic Vista
-3 Jace, the Mind Sculptor
 3 Mystic Gate
+3 Jace, the Mind Sculptor
 4 Prismatic Vista
 4 Jace, the Mind Sculptor
 1 Snapcaster Mage
@@ -140,6 +140,7 @@
 2 Snapcaster Mage
 2 Hinterland Harbor
 5 Snow-Covered Island
+3 Scalding Tarn
 1 Time Warp
 1 Marsh Flats
 1 Blade Splicer
@@ -160,13 +161,12 @@
 1 Skyclave Apparition
 1 Reflecting Pool
 2 Forest
-3 Boseiju, Who Endures
 1 Hall of Storm Giants
 1 Sanctifier en-Vec
 1 Arctic Treeline
 1 Scattered Groves
-1 Mulldrifter
 1 Irrigated Farmland
+1 Mulldrifter
 2 Mulldrifter
 2 Snow-Covered Plains
 2 Glacial Floodplain
@@ -197,9 +197,9 @@
 2 Marsh Flats
 2 Concealed Courtyard
 2 Verdant Catacombs
+2 Lithoform Blight
 2 Tarmogoyf
 2 Razorverge Thicket
-2 Lithoform Blight
 3 Marsh Flats
 3 Concealed Courtyard
 3 Tarmogoyf
@@ -243,8 +243,8 @@
 4 Arid Mesa
 4 Skyclave Apparition
 4 Phantasmal Image
-4 Sun Titan
 5 Plains
 6 Plains
-1 Blackbloom Rogue
 1 Skyclave Cleric
+1 Blackbloom Rogue
+4 Sun Titan

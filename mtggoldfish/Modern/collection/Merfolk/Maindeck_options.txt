@@ -1,8 +1,8 @@
+2 Harbinger of the Tides
 9 Island
-4 Subtlety
-3 Spreading Seas
 10 Island
 4 Spreading Seas
+4 Subtlety
 3 Harbinger of the Tides
 1 Kira, Great Glass-Spinner
 4 Force of Negation
@@ -10,12 +10,14 @@
 2 Merrow Reejerey
 2 Kira, Great Glass-Spinner
 1 Master of Waves
+3 Waterlogged Grove
+1 Otawara, Soaring City
 1 Flooded Strand
 2 Flooded Strand
 3 Flooded Strand
 4 Flooded Strand
-1 Otawara, Soaring City
-3 Waterlogged Grove
+1 Gut Shot
+4 Waterlogged Grove
 3 Merrow Reejerey
 1 Castle Vantress
 2 Master of Waves
@@ -24,34 +26,33 @@
 1 Archmage's Charm
 2 Archmage's Charm
 3 Cavern of Souls
+2 Gut Shot
 4 Master of Waves
 4 Merrow Reejerey
-1 Noble Hierarch
 1 Breeding Pool
-1 Utopia Sprawl
-1 Misty Rainforest
 1 Collected Company
+1 Utopia Sprawl
+1 Noble Hierarch
+1 Misty Rainforest
 2 Breeding Pool
 2 Noble Hierarch
+2 Collected Company
 2 Utopia Sprawl
 2 Misty Rainforest
-2 Collected Company
 3 Breeding Pool
-3 Utopia Sprawl
-3 Misty Rainforest
 3 Collected Company
+3 Misty Rainforest
+3 Utopia Sprawl
 4 Utopia Sprawl
 4 Misty Rainforest
 4 Breeding Pool
-1 Gut Shot
-4 Waterlogged Grove
-11 Island
 1 Phantasmal Image
+3 Archmage's Charm
 2 Otawara, Soaring City
 1 Seachrome Coast
 1 Unsettled Mariner
-1 Prismatic Ending
 1 Hallowed Fountain
+1 Prismatic Ending
 1 Wanderwine Hub
 2 Unsettled Mariner
 2 Seachrome Coast
@@ -60,10 +61,9 @@
 3 Unsettled Mariner
 3 Prismatic Ending
 3 Wanderwine Hub
-4 Prismatic Ending
 4 Unsettled Mariner
+4 Prismatic Ending
 4 Wanderwine Hub
-3 Archmage's Charm
 1 Rishadan Dockhand
 2 Rishadan Dockhand
 3 Rishadan Dockhand
@@ -85,19 +85,17 @@
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
-1 Fiery Islet
-2 Fiery Islet
-2 Gut Shot
 1 Counterspell
-12 Island
-1 Benthic Biomancer
-2 Benthic Biomancer
+11 Island
 1 Faerie Conclave
-4 Archmage's Charm
 2 Hallowed Fountain
 3 Seachrome Coast
 4 Seachrome Coast
 4 Cavern of Souls
+1 Fiery Islet
+2 Fiery Islet
+1 Benthic Biomancer
+2 Benthic Biomancer
 1 Riptide Laboratory
 1 Repeal
 1 Lonely Sandbar
@@ -106,7 +104,9 @@
 3 Repeal
 3 Faerie Conclave
 4 Repeal
+4 Archmage's Charm
 1 Dismember
+12 Island
 13 Island
 3 Hallowed Fountain
 4 Hallowed Fountain
@@ -114,10 +114,10 @@
 2 March of Otherworldly Light
 3 March of Otherworldly Light
 4 March of Otherworldly Light
-1 Polluted Delta
 1 Brazen Borrower
 1 Tidebinder Mage
 1 Raugrin Triome
+1 Polluted Delta
 2 Phantasmal Image
 1 Thieving Skydiver
 2 Thieving Skydiver

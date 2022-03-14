@@ -1,32 +1,28 @@
-4 Karn, the Great Creator
 1 Yavimaya, Cradle of Growth
 3 Eye of Ugin
 2 Endbringer
+4 Karn, the Great Creator
 3 Endbringer
-1 Manifold Key
 4 Vesuva
 1 Sorcerous Spyglass
-2 Sorcerous Spyglass
+1 Manifold Key
 1 Blast Zone
+2 Sorcerous Spyglass
+2 Walking Ballista
 1 Trinisphere
 2 Trinisphere
+2 Manifold Key
 1 Thespian's Stage
 1 Ugin, the Spirit Dragon
-1 Ugin, the Ineffable
-2 Manifold Key
-2 Ugin, the Spirit Dragon
-2 Walking Ballista
 3 Golos, Tireless Pilgrim
-1 Emrakul, the Aeons Torn
-1 Thran Dynamo
-2 Ugin, the Ineffable
+1 Ugin, the Ineffable
+2 Ugin, the Spirit Dragon
 1 Cavern of Souls
-3 Trinisphere
+1 Emrakul, the Aeons Torn
 3 Sorcerous Spyglass
 1 Kozilek, Butcher of Truth
 2 Cavern of Souls
 4 Sorcerous Spyglass
-3 Cavern of Souls
 1 Glacial Chasm
 1 Elvish Rejuvenator
 1 Forest
@@ -36,16 +32,20 @@
 2 Primeval Titan
 2 Once Upon a Time
 2 Elvish Rejuvenator
-3 Forest
 3 Primeval Titan
 3 Once Upon a Time
+3 Forest
 3 Elvish Rejuvenator
 4 Primeval Titan
 4 Forest
 4 Once Upon a Time
 4 Elvish Rejuvenator
 4 Golos, Tireless Pilgrim
+3 Trinisphere
+3 Cavern of Souls
 1 Wastes
+1 Thran Dynamo
+2 Ugin, the Ineffable
 1 Bojuka Bog
 1 Forsaken Monument
 1 Urza's Saga
@@ -62,15 +62,16 @@
 2 Candelabra of Tawnos
 3 Leyline of the Void
 4 Leyline of the Void
-2 Thran Dynamo
 1 Staff of Domination
+1 Summoning Trap
+2 Summoning Trap
+2 Thran Dynamo
 1 Sphere of Resistance
 1 Basalt Monolith
 2 Sphere of Resistance
 2 Forsaken Monument
 2 Basalt Monolith
 3 Sphere of Resistance
-1 Crystal Vein
 1 Inventors' Fair
 1 Buried Ruin
 1 Metalworker
@@ -81,9 +82,8 @@
 3 Metalworker
 4 Metalworker
 4 Lodestone Golem
-1 Summoning Trap
+1 Boseiju, Who Endures
 2 Yavimaya, Cradle of Growth
-2 Summoning Trap
 1 Oblivion Sower
 1 Kozilek, the Great Distortion
 2 Wastes
@@ -99,6 +99,7 @@
 3 Wasteland
 3 Walking Ballista
 4 Wasteland
+1 Crystal Vein
 1 The Tabernacle at Pendrell Vale
 1 Stonecoil Serpent
 1 Ensnaring Bridge

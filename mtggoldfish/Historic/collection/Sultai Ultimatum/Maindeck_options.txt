@@ -1,7 +1,7 @@
 1 Woodland Cemetery
 3 Breeding Pool
-4 Breeding Pool
 4 Overgrown Tomb
+4 Breeding Pool
 1 Languish
 1 Golos, Tireless Pilgrim
 1 The World Tree
@@ -42,27 +42,27 @@
 3 Shipwreck Marsh
 4 Fatal Push
 1 Elspeth's Nightmare
-1 Castle Locthwain
 1 Temple of Malady
+1 Castle Locthwain
 1 Baleful Mastery
 1 Pact of Negation
 1 Supreme Will
 1 Mastermind's Acquisition
 2 Languish
-1 Hydroid Krasis
 1 Temple of Deceit
 1 Power Word Kill
+1 Hydroid Krasis
 1 Temple of Mystery
-2 Castle Locthwain
 2 Polukranos, Unchained
 2 Power Word Kill
+2 Castle Locthwain
 3 Extinction Event
-3 Eliminate
 3 Elder Gargaroth
+3 Eliminate
 1 Tamiyo, Compleated Sage
+1 March of Wretched Sorrow
 1 Jin-Gitaxias, Progress Tyrant
 1 Mnemonic Sphere
-1 March of Wretched Sorrow
 1 Sandwurm Convergence
 1 Bala Ged Recovery
 2 March of Wretched Sorrow
@@ -71,11 +71,11 @@
 3 March of Wretched Sorrow
 3 Drowned Catacomb
 4 March of Wretched Sorrow
-1 Cling to Dust
 1 The Meathook Massacre
 1 Aether Gust
-2 The Meathook Massacre
+1 Cling to Dust
 2 Woodland Cemetery
+2 The Meathook Massacre
 3 Hinterland Harbor
 3 Woodland Cemetery
 3 The Meathook Massacre
@@ -84,10 +84,10 @@
 1 Deathcap Glade
 1 Woodland Chasm
 1 Rimewood Falls
-1 Haunted Ridge
 1 Liliana, Death's Majesty
-1 Hullbreaker Horror
+1 Haunted Ridge
 1 Novice Occultist
+1 Hullbreaker Horror
 1 Faerie Seer
 1 Dreamroot Cascade
 1 Path of Peril
@@ -96,26 +96,26 @@
 1 Cloudkin Seer
 2 Deathcap Glade
 2 Woodland Chasm
-2 Haunted Ridge
+2 Novice Occultist
 2 Baleful Mastery
 2 Rimewood Falls
-2 Novice Occultist
 2 Dreamroot Cascade
+2 Haunted Ridge
 2 Path of Peril
 2 Quandrix Apprentice
 2 Cloudkin Seer
 2 Faerie Seer
 2 Zimone, Quandrix Prodigy
-3 Deathcap Glade
 3 Novice Occultist
+3 Deathcap Glade
 3 Dreamroot Cascade
 3 Baleful Mastery
 3 Cloudkin Seer
 3 Quandrix Apprentice
 3 Faerie Seer
 3 Zimone, Quandrix Prodigy
-4 Deathcap Glade
 4 Shipwreck Marsh
+4 Deathcap Glade
 4 Dreamroot Cascade
 4 Novice Occultist
 4 Cloudkin Seer
@@ -123,52 +123,52 @@
 4 Faerie Seer
 4 Zimone, Quandrix Prodigy
 1 Sigil of the Empty Throne
+1 Omen of the Sun
+1 Oath of Kaya
+1 Emeria's Call
 1 Doomskar
 1 Elspeth Conquers Death
 1 Archon of Sun's Grace
 1 Temple of Plenty
+1 The Birth of Meletis
 1 Godless Shrine
 1 Indatha Triome
-1 The Birth of Meletis
-1 Emeria's Call
-1 Banishing Light
 1 Shatter the Sky
 1 Crawling Barrens
 1 Yorion, Sky Nomad
 1 Sanctum Weaver
 1 Castle Ardenvale
-1 Oath of Kaya
 1 Sythis, Harvest's Hand
 1 Temple Garden
 1 Branchloft Pathway
 1 Brightclimb Pathway
 1 Sterling Grove
+1 Banishing Light
 1 Felidar Retreat
 1 Temple of Silence
 1 Shark Typhoon
 1 Cast Out
-1 Omen of the Sun
 1 Bojuka Bog
 1 Plains
 1 Destiny Spinner
 1 Unbridled Growth
 2 Plains
+2 Banishing Light
+2 Omen of the Sun
+2 Oath of Kaya
 2 Archon of Sun's Grace
 2 Castle Ardenvale
 2 The Birth of Meletis
-2 Banishing Light
-2 Omen of the Sun
 2 Sythis, Harvest's Hand
 2 Destiny Spinner
 2 Sanctum Weaver
-2 Oath of Kaya
 2 Bojuka Bog
 2 Elspeth's Nightmare
 2 Sterling Grove
 2 Cast Out
 2 Unbridled Growth
-3 Plains
 3 Omen of the Sun
+3 Plains
 3 The Birth of Meletis
 3 Destiny Spinner
 3 Elspeth's Nightmare
@@ -180,8 +180,8 @@
 6 Forest
 1 Field of Ruin
 1 Koma, Cosmos Serpent
-1 Massacre Wurm
 1 Ritual of Soot
+1 Massacre Wurm
 2 Liliana, Dreadhorde General
 3 Alrund's Epiphany
 3 Thoughtseize

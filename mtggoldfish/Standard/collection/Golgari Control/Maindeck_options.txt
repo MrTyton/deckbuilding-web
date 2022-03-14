@@ -1,81 +1,80 @@
-2 Briarbridge Tracker
-1 Deadly Dispute
-2 Deadly Dispute
 3 Deadly Dispute
 1 Shambling Ghast
 2 Shambling Ghast
 3 Shambling Ghast
 4 Shambling Ghast
+3 Infernal Grasp
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 1 Blood on the Snow
 2 Blood on the Snow
 3 Snow-Covered Swamp
-1 Snow-Covered Forest
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
-2 Snow-Covered Forest
 2 Field of Ruin
+1 Snow-Covered Forest
+1 Briarbridge Tracker
+2 Briarbridge Tracker
 3 Hive of the Eye Tyrant
-3 Blood on the Snow
+2 Snow-Covered Forest
 4 Swamp
+3 The Meathook Massacre
+3 Blood on the Snow
+1 Reckoner Bankbuster
 3 Snow-Covered Forest
 3 Woodland Chasm
+4 Deadly Dispute
 4 Snow-Covered Forest
 5 Snow-Covered Forest
-1 Reckoner Bankbuster
-3 The Meathook Massacre
-3 Briarbridge Tracker
-4 Deadly Dispute
 4 Woodland Chasm
-4 Briarbridge Tracker
+3 Briarbridge Tracker
 1 Gloomshrieker
 2 Gloomshrieker
 6 Snow-Covered Swamp
 6 Forest
+4 Briarbridge Tracker
 2 Reckoner Bankbuster
-7 Snow-Covered Swamp
-1 Dockside Chef
-2 Dockside Chef
-5 Swamp
 1 Eyetwitch
 2 Eyetwitch
 3 Eyetwitch
+7 Snow-Covered Swamp
 8 Snow-Covered Swamp
+1 Dockside Chef
+2 Dockside Chef
+5 Swamp
 1 Lotus Cobra
 2 Lotus Cobra
 3 Dig Up
 1 Agadeem's Awakening
-1 Vorinclex, Monstrous Raider
+4 Eyetwitch
+9 Snow-Covered Swamp
 1 Junji, the Midnight Sky
+1 Vorinclex, Monstrous Raider
 3 Gloomshrieker
 1 Hagra Mauling
 1 Valki, God of Lies
 1 Bloodchief's Thirst
-4 Eyetwitch
-9 Snow-Covered Swamp
-4 Infernal Grasp
-1 Bala Ged Recovery
-1 March of Wretched Sorrow
 1 Invoke Despair
 2 Invoke Despair
+10 Snow-Covered Swamp
+1 Bala Ged Recovery
+1 March of Wretched Sorrow
+1 Valentin, Dean of the Vein
+1 Skullport Merchant
+2 Skullport Merchant
 1 Culling Ritual
 2 Culling Ritual
-10 Snow-Covered Swamp
+4 Infernal Grasp
+11 Snow-Covered Swamp
+12 Snow-Covered Swamp
+13 Snow-Covered Swamp
 2 Valki, God of Lies
-1 Valentin, Dean of the Vein
-6 Snow-Covered Forest
 1 Graveyard Trespasser
 2 Graveyard Trespasser
 3 Graveyard Trespasser
 4 Graveyard Trespasser
 1 Shigeki, Jukai Visionary
-1 Skullport Merchant
-2 Skullport Merchant
 3 Skullport Merchant
-11 Snow-Covered Swamp
-12 Snow-Covered Swamp
-13 Snow-Covered Swamp
 14 Snow-Covered Swamp
 15 Snow-Covered Swamp
 16 Snow-Covered Swamp
@@ -92,14 +91,13 @@
 1 The Celestus
 3 Invoke Despair
 4 Invoke Despair
+6 Snow-Covered Forest
 1 Eaten Alive
 2 Eaten Alive
 4 Lolth, Spider Queen
 17 Snow-Covered Swamp
 18 Snow-Covered Swamp
 19 Snow-Covered Swamp
-4 Blood on the Snow
-7 Snow-Covered Forest
 1 Pelakka Predation
 1 Sarulf, Realm Eater
 2 Sarulf, Realm Eater
@@ -112,6 +110,7 @@
 1 Necroblossom Snarl
 2 Necroblossom Snarl
 3 Necroblossom Snarl
+1 Toxrill, the Corrosive
 1 Shadows' Verdict
 1 Deadly Brew
 1 Varragoth, Bloodsky Sire
@@ -119,8 +118,8 @@
 2 Outland Liberator
 2 Deadly Brew
 2 Soul Transfer
-2 Mortality Spear
 2 Varragoth, Bloodsky Sire
+2 Mortality Spear
 2 Draugr Necromancer
 3 Soul Transfer
 3 Varragoth, Bloodsky Sire
@@ -136,9 +135,6 @@
 1 Go Blank
 2 The Celestus
 2 Go Blank
-1 Baleful Mastery
-3 Field of Ruin
-3 Eaten Alive
 3 March of Wretched Sorrow
 1 Haunted Ridge
 1 Cragcrown Pathway
@@ -146,13 +142,14 @@
 2 Cragcrown Pathway
 2 Blightstep Pathway
 3 Sarulf, Realm Eater
+1 Henrika Domnathi
+2 Henrika Domnathi
+4 Hive of the Eye Tyrant
 4 The Meathook Massacre
-1 Fell Stinger
-1 Tamiyo's Safekeeping
-2 Agadeem's Awakening
-2 Fell Stinger
-3 Fell Stinger
-4 Fell Stinger
+1 Baleful Mastery
+3 Field of Ruin
+3 Eaten Alive
+4 Blood on the Snow
 1 Jugan Defends the Temple
 1 Kazandu Mammoth
 1 Ebondeath, Dracolich
@@ -160,11 +157,11 @@
 2 Valentin, Dean of the Vein
 3 Valentin, Dean of the Vein
 4 Valentin, Dean of the Vein
+1 Inscription of Abundance
 1 Grakmaw, Skyclave Ravager
 1 Wedding Invitation
 1 Daemogoth Titan
 1 Old Rutstein
-1 Inscription of Abundance
 2 Old Rutstein
 2 Grakmaw, Skyclave Ravager
 2 Daemogoth Titan
@@ -174,25 +171,36 @@
 3 Grakmaw, Skyclave Ravager
 3 Daemogoth Titan
 4 Wedding Invitation
-3 Sorin the Mirthless
-3 Culling Ritual
-4 Storm the Festival
-4 Wrenn and Seven
-4 Culling Ritual
-1 Bloodvial Purveyor
-1 Sculptor of Winter
-1 Concealing Curtains
-2 Bloodvial Purveyor
-2 Sculptor of Winter
-2 Concealing Curtains
-3 Concealing Curtains
-3 Bloodvial Purveyor
-4 Concealing Curtains
-8 Snow-Covered Forest
+1 Hunt for Specimens
+1 Village Rites
+1 Crawling Barrens
+1 Hostile Hostel
+1 Reckoner's Bargain
+1 Treasure Vault
+1 Warlock Class
+1 Hobbling Zombie
+1 Grim Bounty
+1 Persistent Specimen
+2 Hunt for Specimens
+2 Crawling Barrens
+2 Warlock Class
+2 Hostile Hostel
+2 Grim Bounty
+2 Treasure Vault
+3 Grim Bounty
+3 Hunt for Specimens
+3 Crawling Barrens
+4 Hunt for Specimens
+1 Fell Stinger
+1 Tamiyo's Safekeeping
+2 Fell Stinger
+2 Agadeem's Awakening
+3 Fell Stinger
+4 Fell Stinger
+7 Snow-Covered Forest
 1 Undead Butler
 1 Mulch
 1 Cultivator Colossus
-1 Toxrill, the Corrosive
 1 Burning-Rune Demon
 1 Bookwurm
 1 Blood Fountain
@@ -204,8 +212,8 @@
 2 Diregraf Rebirth
 3 Undead Butler
 3 Dockside Chef
-3 Blood Fountain
 3 Diregraf Rebirth
+3 Blood Fountain
 4 Necroblossom Snarl
 6 Swamp
 7 Swamp
@@ -217,6 +225,8 @@
 4 Skullport Merchant
 20 Snow-Covered Swamp
 21 Snow-Covered Swamp
-1 Henrika Domnathi
-2 Henrika Domnathi
-4 Hive of the Eye Tyrant
+3 Sorin the Mirthless
+3 Culling Ritual
+4 Storm the Festival
+4 Wrenn and Seven
+4 Culling Ritual

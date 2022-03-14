@@ -1,5 +1,6 @@
-2 Lolth, Spider Queen
 3 Needleverge Pathway
+2 Lolth, Spider Queen
+4 Needleverge Pathway
 1 Sundown Pass
 1 Shattered Sanctum
 1 Plains
@@ -14,20 +15,20 @@
 2 Shambling Ghast
 3 Shambling Ghast
 4 Shambling Ghast
+4 Wedding Announcement
 2 Sundown Pass
 3 Shattered Sanctum
 4 Shattered Sanctum
-4 Wedding Announcement
-4 Needleverge Pathway
+1 Burn Down the House
 2 Vanishing Verse
 1 Goldspan Dragon
 2 Goldspan Dragon
 3 Goldspan Dragon
+1 Edgar, Charmed Groom
+2 Edgar, Charmed Groom
 1 Valki, God of Lies
 2 Valki, God of Lies
 3 Vanishing Verse
-1 Edgar, Charmed Groom
-2 Edgar, Charmed Groom
 1 Cave of the Frost Dragon
 2 Swamp
 4 Goldspan Dragon
@@ -40,7 +41,6 @@
 2 Eyetwitch
 3 Eyetwitch
 4 Eyetwitch
-1 Burn Down the House
 3 Edgar, Charmed Groom
 3 Sundown Pass
 3 Lolth, Spider Queen
@@ -48,12 +48,18 @@
 1 Doomskar
 4 Vanishing Verse
 3 Shatterskull Smashing
-1 The Celestus
+1 Duress
+1 Sanguine Statuette
+2 Duress
+2 Sanguine Statuette
+3 Sanguine Statuette
+3 Hive of the Eye Tyrant
 1 Kaya, Geist Hunter
 1 Fateful Absence
 1 Callous Bloodmage
 1 Reidane, God of the Worthy
 1 Stensia Uprising
+1 The Celestus
 2 Kaya, Geist Hunter
 2 Callous Bloodmage
 2 Burn Down the House
@@ -63,40 +69,35 @@
 1 The Wandering Emperor
 1 March of Otherworldly Light
 1 Spirited Companion
+2 Spirited Companion
 2 Eiganjo, Seat of the Empire
 2 Takenuma, Abandoned Mire
 2 March of Otherworldly Light
-2 Spirited Companion
 3 Spirited Companion
 4 Spirited Companion
 1 Welcoming Vampire
 2 Welcoming Vampire
+2 Mountain
 1 Agadeem's Awakening
 3 Swamp
 4 Swamp
 1 Kalain, Reclusive Painter
 2 Kalain, Reclusive Painter
-1 Spikefield Hazard
 1 Bloodchief's Thirst
+1 Spikefield Hazard
 2 Bloodchief's Thirst
 1 Thalia, Guardian of Thraben
+3 March of Otherworldly Light
 2 The Wandering Emperor
 3 The Wandering Emperor
-3 March of Otherworldly Light
 1 Rite of Oblivion
 2 Rite of Oblivion
 3 Rite of Oblivion
-1 Duress
-1 Sanguine Statuette
-2 Duress
-2 Sanguine Statuette
-3 Sanguine Statuette
-3 Hive of the Eye Tyrant
 1 Henrika Domnathi
+1 Sejiri Shelter
 1 Florian, Voldaren Scion
 1 Fell Stinger
 1 Angelfire Ignition
-1 Sejiri Shelter
 1 Graveyard Trespasser
 2 Henrika Domnathi
 2 Agadeem's Awakening
@@ -105,38 +106,37 @@
 2 Florian, Voldaren Scion
 3 Fell Stinger
 3 Valki, God of Lies
-3 Agadeem's Awakening
 3 Henrika Domnathi
+3 Agadeem's Awakening
 3 Kalain, Reclusive Painter
 4 Kalain, Reclusive Painter
-1 Emeria's Call
 1 Smoldering Egg
-1 Sacred Fire
 1 Dread Fugue
 1 Sunset Revelry
 1 Cemetery Protector
 1 Soul Shatter
+1 Sacred Fire
+1 Emeria's Call
 1 Abrade
-2 Smoldering Egg
 2 Emeria's Call
-2 Sacred Fire
+2 Smoldering Egg
 2 Dread Fugue
 2 Sunset Revelry
 2 Doomskar
 2 Abrade
 2 Plains
+2 Sacred Fire
 3 Smoldering Egg
-3 Doomskar
 3 Sunset Revelry
+3 Doomskar
 4 Shatterskull Smashing
 1 Village Rites
+1 Alchemist's Gambit
+1 Dragon's Fire
 1 Scourge of the Skyclaves
 1 Immersturm Predator
-1 Dragon's Fire
-1 Alchemist's Gambit
-2 Village Rites
-2 Mountain
 2 Dragon's Fire
+2 Village Rites
 2 Immersturm Predator
 2 Alchemist's Gambit
 3 Immersturm Predator
@@ -146,10 +146,10 @@
 6 Swamp
 1 Hero's Downfall
 1 Borrowed Time
-2 Hero's Downfall
 2 Borrowed Time
-3 Borrowed Time
+2 Hero's Downfall
 3 Hero's Downfall
+3 Borrowed Time
 4 Sundown Pass
 4 Hero's Downfall
 4 Sorin the Mirthless

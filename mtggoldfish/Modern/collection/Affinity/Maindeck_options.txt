@@ -1,9 +1,17 @@
-3 Esper Sentinel
-4 Urza, Lord High Artificer
-2 Hallowed Fountain
-4 Esper Sentinel
-3 Seachrome Coast
-4 Seachrome Coast
+1 Welding Jar
+1 Treasure Vault
+2 Treasure Vault
+3 Cranial Plating
+4 Cranial Plating
+4 Frogmite
+1 Plains
+1 Glimmervoid
+1 Pithing Needle
+2 Island
+1 Flooded Strand
+3 Hallowed Fountain
+2 Flooded Strand
+3 Flooded Strand
 1 Sojourner's Companion
 2 Sojourner's Companion
 3 Sojourner's Companion
@@ -12,30 +20,26 @@
 2 Welding Jar
 1 Myr Enforcer
 2 Myr Enforcer
-1 Pithing Needle
-1 Glimmervoid
-1 Silverbluff Bridge
-2 Silverbluff Bridge
-2 Island
-2 Relic of Progenitus
-1 Plains
 1 Mishra's Bauble
 1 Otawara, Soaring City
-1 Flooded Strand
-3 Hallowed Fountain
-2 Flooded Strand
-3 Flooded Strand
+1 Silverbluff Bridge
+2 Silverbluff Bridge
+2 Relic of Progenitus
 2 Glimmervoid
+2 Mishra's Bauble
+1 The Reality Chip
+4 Flooded Strand
+1 Adarkar Wastes
+2 Adarkar Wastes
+1 Ingenious Smith
+2 Ingenious Smith
+3 Ingenious Smith
+3 Island
 1 Mistvault Bridge
 2 Mistvault Bridge
 3 Mistvault Bridge
 4 Mistvault Bridge
-2 Mishra's Bauble
-4 Flooded Strand
-1 Adarkar Wastes
-2 Adarkar Wastes
-3 Island
-1 The Reality Chip
+2 The Reality Chip
 4 Hallowed Fountain
 4 Island
 5 Island
@@ -46,18 +50,16 @@
 3 Michiko's Reign of Truth
 4 Michiko's Reign of Truth
 1 Metallic Rebuke
+1 Razortide Bridge
+2 Razortide Bridge
 1 Spire of Industry
 2 Spire of Industry
 3 Spire of Industry
-1 Razortide Bridge
-2 Razortide Bridge
 1 Emry, Lurker of the Loch
 2 Emry, Lurker of the Loch
 1 Signal Pest
 2 Signal Pest
-1 Ingenious Smith
-2 Ingenious Smith
-3 Ingenious Smith
+4 Ingenious Smith
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
@@ -67,14 +69,12 @@
 3 Mishra's Bauble
 4 Mishra's Bauble
 1 Consulate Dreadnought
-2 The Reality Chip
 3 Glimmervoid
 2 Metallic Rebuke
 3 Metallic Rebuke
 3 Adarkar Wastes
 4 Spire of Industry
 3 Emry, Lurker of the Loch
-4 Ingenious Smith
 4 Stoneforge Mystic
 4 Portable Hole
 1 Reality Heist
@@ -120,9 +120,9 @@
 1 Oboro, Palace in the Clouds
 1 Thraben Inspector
 1 Snow-Covered Plains
-1 Prismatic Ending
 1 Hengegate Pathway
 1 Scalding Tarn
+1 Prismatic Ending
 1 Glint-Nest Crane
 2 Thraben Inspector
 2 Prismatic Ending
@@ -166,6 +166,7 @@
 4 Hard Evidence
 4 Welding Jar
 4 Silverbluff Bridge
+1 Lion Sash
 1 Spellskite
 1 Lightning Greaves
 1 Crucible of Worlds
@@ -176,7 +177,6 @@
 1 Marsh Flats
 1 Ichor Wellspring
 1 Windswept Heath
-1 Lion Sash
 1 Chromatic Star
 1 Eiganjo Castle
 2 Spellskite
