@@ -1,21 +1,22 @@
-2 Wooded Foothills
 1 Simian Spirit Guide
+2 Wooded Foothills
 3 Mox Opal
+4 Lotus Petal
 1 Breya's Apprentice
-1 Enlightened Tutor
 1 Bloodstained Mire
+1 Portable Hole
+1 Magus of the Moon
+2 Red Elemental Blast
+1 Shadowspear
+1 Arid Mesa
+1 Enlightened Tutor
 2 Bloodstained Mire
 3 Imperial Recruiter
-4 Great Furnace
-1 Portable Hole
-1 Shadowspear
-2 Red Elemental Blast
-4 Lightning Bolt
 4 Mox Opal
-1 Goblin Cratermaker
 1 Oswald Fiddlebender
 2 Oswald Fiddlebender
 1 Plains
+2 Arid Mesa
 2 Portable Hole
 1 Ancient Den
 2 Ancient Den
@@ -24,17 +25,17 @@
 3 Ancient Den
 3 Portable Hole
 2 Ethersworn Canonist
-1 Ingenious Smith
 1 Karakas
+1 Ingenious Smith
 2 Ingenious Smith
 3 Plains
 3 Ingenious Smith
 4 Ingenious Smith
-4 Ancient Den
 4 Plains
+4 Ancient Den
 5 Plains
-1 Magus of the Moon
 1 Snow-Covered Mountain
+4 Lightning Bolt
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
@@ -48,21 +49,18 @@
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
-4 Esper Sentinel
 4 Oswald Fiddlebender
+4 Esper Sentinel
 1 Lion Sash
-1 Arid Mesa
-2 Arid Mesa
-1 Blood Moon
+1 Goblin Cratermaker
 1 Swords to Plowshares
 2 Swords to Plowshares
 3 Swords to Plowshares
 4 Swords to Plowshares
-1 Smuggler's Copter
-2 Simian Spirit Guide
 2 Lion Sash
 2 Karakas
 1 Wurmcoil Engine
+2 Simian Spirit Guide
 5 Mountain
 6 Mountain
 7 Mountain
@@ -73,45 +71,50 @@
 1 Experimental Synthesizer
 2 Experimental Synthesizer
 3 Experimental Synthesizer
-4 Imperial Recruiter
+1 Blood Moon
+1 Smuggler's Copter
 2 Enlightened Tutor
 1 Ichor Wellspring
 1 Pyrite Spellbomb
+1 Twinshot Sniper
 2 Breya's Apprentice
 3 Breya's Apprentice
 1 Bolas's Citadel
 4 Experimental Synthesizer
-2 Lion's Eye Diamond
-3 Lion's Eye Diamond
+1 Scalding Tarn
 1 Force of Will
 2 Force of Will
 3 Force of Will
 4 Force of Will
-1 Island
-2 Island
-1 Expressive Iteration
 1 Brainstorm
 1 Ponder
-1 Dragon's Rage Channeler
-1 Murktide Regent
 1 Volcanic Island
 1 Flooded Strand
-1 Scalding Tarn
-2 Flooded Strand
-2 Expressive Iteration
-2 Murktide Regent
-2 Dragon's Rage Channeler
 2 Ponder
 2 Brainstorm
 2 Scalding Tarn
+3 Brainstorm
+3 Ponder
+4 Ponder
+4 Brainstorm
+1 Island
+2 Lion's Eye Diamond
+3 Lion's Eye Diamond
+8 Mountain
+4 Imperial Recruiter
+1 Expressive Iteration
+1 Dragon's Rage Channeler
+1 Murktide Regent
+2 Flooded Strand
+2 Expressive Iteration
+2 Dragon's Rage Channeler
+2 Murktide Regent
 2 Volcanic Island
 3 Flooded Strand
 3 Expressive Iteration
 3 Murktide Regent
 3 Volcanic Island
-3 Brainstorm
 3 Scalding Tarn
-3 Ponder
 3 Dragon's Rage Channeler
 4 Scalding Tarn
 4 Volcanic Island
@@ -119,39 +122,27 @@
 4 Murktide Regent
 4 Dragon's Rage Channeler
 4 Expressive Iteration
-4 Ponder
-4 Brainstorm
-8 Mountain
-3 Wooded Foothills
 1 Chromatic Star
-1 Twinshot Sniper
+3 Wooded Foothills
+1 Taiga
+1 Once Upon a Time
+2 Once Upon a Time
+3 Once Upon a Time
+4 Once Upon a Time
 1 Crucible of Worlds
 1 Wasteland
 1 Tangle Wire
-1 Sai, Master Thopterist
-1 Thoughtcast
-1 Urza's Bauble
-1 Emry, Lurker of the Loch
-1 Thought Monitor
+2 Island
+1 Aether Spellbomb
 1 Seat of the Synod
-1 Mishra's Bauble
-2 Thoughtcast
-2 Urza's Bauble
 2 Seat of the Synod
-2 Emry, Lurker of the Loch
-2 Mishra's Bauble
-3 Thoughtcast
-3 Emry, Lurker of the Loch
-3 Mishra's Bauble
-3 Seat of the Synod
-3 Urza's Bauble
-4 Thoughtcast
-4 Emry, Lurker of the Loch
-4 Seat of the Synod
-4 Urza's Bauble
 1 Trinisphere
 1 Roadside Reliquary
 1 Badlands
+1 Teferi, Time Raveler
+1 Intuition
+1 Tundra
+1 Transmute Artifact
 1 Snow-Covered Island
 2 Snow-Covered Island
 1 Rustvale Bridge
@@ -165,46 +156,25 @@
 3 Simian Spirit Guide
 3 Enlightened Tutor
 4 Wooded Foothills
-1 Otawara, Soaring City
-1 Kappa Cannoneer
-1 Aether Spellbomb
-2 Otawara, Soaring City
-2 Sai, Master Thopterist
-2 Kappa Cannoneer
-3 Kappa Cannoneer
-4 Kappa Cannoneer
-4 Mishra's Bauble
 1 Punishing Fire
 1 Grove of the Burnwillows
-1 Taiga
-1 Once Upon a Time
 2 Punishing Fire
 2 Grove of the Burnwillows
 2 Taiga
-2 Once Upon a Time
 3 Grove of the Burnwillows
-3 Once Upon a Time
 4 Grove of the Burnwillows
-4 Once Upon a Time
 4 Ethersworn Canonist
 1 Eiganjo, Seat of the Empire
 1 Mother of Runes
 1 Aether Vial
 2 Wasteland
 2 Aether Vial
-2 Eiganjo, Seat of the Empire
 2 Mother of Runes
+2 Eiganjo, Seat of the Empire
 3 Wasteland
 3 Aether Vial
 4 Aether Vial
 4 Wasteland
-1 Urza, Lord High Artificer
-2 Urza, Lord High Artificer
-2 Thought Monitor
-3 Island
-3 Thought Monitor
-4 Thought Monitor
-4 Island
 1 Sundering Titan
 1 Lightning Greaves
 1 Cavern of Souls
@@ -219,6 +189,33 @@
 3 Fury
 3 Lightning Greaves
 4 Karn, the Great Creator
+1 Sai, Master Thopterist
+1 Thoughtcast
+1 Otawara, Soaring City
+1 Kappa Cannoneer
+1 Urza's Bauble
+1 Emry, Lurker of the Loch
+1 Thought Monitor
+1 Mishra's Bauble
+2 Otawara, Soaring City
+2 Sai, Master Thopterist
+2 Thoughtcast
+2 Kappa Cannoneer
+2 Mishra's Bauble
+2 Urza's Bauble
+2 Emry, Lurker of the Loch
+3 Kappa Cannoneer
+3 Thoughtcast
+3 Emry, Lurker of the Loch
+3 Mishra's Bauble
+3 Seat of the Synod
+3 Urza's Bauble
+4 Kappa Cannoneer
+4 Thoughtcast
+4 Mishra's Bauble
+4 Emry, Lurker of the Loch
+4 Seat of the Synod
+4 Urza's Bauble
 9 Mountain
 1 The Underworld Cookbook
 1 Cursed Mirror

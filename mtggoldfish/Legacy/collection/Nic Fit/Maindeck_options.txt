@@ -6,8 +6,8 @@
 1 Thoughtseize
 1 Scavenging Ooze
 1 Witherbloom Apprentice
-2 Witherbloom Apprentice
 2 Chain of Smog
+2 Witherbloom Apprentice
 3 Chain of Smog
 1 Windswept Heath
 1 Endurance
@@ -71,8 +71,8 @@
 3 Assassin's Trophy
 4 Endurance
 1 Wasteland
-1 Snow-Covered Mountain
 1 Taiga
+1 Snow-Covered Mountain
 1 Opposition Agent
 2 Wooded Foothills
 2 Opposition Agent
@@ -103,8 +103,8 @@
 1 Bone Shards
 1 Polluted Delta
 1 Paradox Zone
-2 Bone Shards
 2 Tropical Island
+2 Bone Shards
 2 Polluted Delta
 1 Knight of Autumn
 1 Liliana, the Last Hope
@@ -127,13 +127,6 @@
 2 Mayhem Devil
 2 The Meathook Massacre
 3 Mayhem Devil
-1 Plumb the Forbidden
-1 Sedgemoor Witch
-1 Blex, Vexing Pest
-2 Plumb the Forbidden
-2 Sedgemoor Witch
-3 Plumb the Forbidden
-3 Sedgemoor Witch
 1 Elder Gargaroth
 1 Shifting Ceratops
 1 Plague Engineer
@@ -147,14 +140,21 @@
 3 Hexdrinker
 1 Outland Liberator
 3 Pernicious Deed
+1 Plumb the Forbidden
+1 Sedgemoor Witch
+1 Blex, Vexing Pest
+2 Plumb the Forbidden
+2 Sedgemoor Witch
+3 Sedgemoor Witch
+3 Plumb the Forbidden
 1 Grand Abolisher
 2 Grand Abolisher
 3 Cavern of Souls
 4 Cavern of Souls
 1 Nicol Bolas, Planeswalker
 1 Marsh Flats
-1 Carth the Lion
 1 Once Upon a Time
+1 Carth the Lion
 1 Innocent Blood
 2 Once Upon a Time
 2 Innocent Blood
