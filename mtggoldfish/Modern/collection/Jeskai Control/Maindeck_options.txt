@@ -8,9 +8,11 @@
 2 Shark Typhoon
 2 Steam Vents
 1 Cryptic Command
-1 Sacred Foundry
+1 Otawara, Soaring City
+1 March of Otherworldly Light
 2 Cryptic Command
 3 Cryptic Command
+1 Sacred Foundry
 1 Seachrome Coast
 1 Spirebluff Canal
 1 Flagstones of Trokair
@@ -18,11 +20,11 @@
 1 Fury
 1 Blood Sun
 1 Lotus Field
-2 Fury
 2 Flagstones of Trokair
 2 Spirebluff Canal
 2 Blood Sun
 2 Lotus Field
+2 Fury
 2 Valakut Awakening
 3 Teferi, Hero of Dominaria
 3 Flagstones of Trokair
@@ -32,75 +34,84 @@
 3 Spirebluff Canal
 4 Flagstones of Trokair
 4 Lotus Field
-4 Valakut Awakening
 4 Cryptic Command
+4 Valakut Awakening
 4 Teferi, Hero of Dominaria
 4 Blood Sun
+2 March of Otherworldly Light
+3 Mystic Gate
 3 Memory Deluge
+4 Fire/Ice
 2 Seachrome Coast
 3 Fury
-1 March of Otherworldly Light
-3 Mystic Gate
-4 Fire/Ice
-4 Memory Deluge
 4 Fury
-1 Otawara, Soaring City
-2 March of Otherworldly Light
-3 Chalice of the Void
-2 Polluted Delta
+4 Memory Deluge
 1 Snapcaster Mage
 2 Snapcaster Mage
 2 Misty Rainforest
-3 Polluted Delta
+2 Polluted Delta
+3 March of Otherworldly Light
 3 Snapcaster Mage
+3 Polluted Delta
+3 Chalice of the Void
 1 Eiganjo, Seat of the Empire
 1 Glacial Fortress
-3 March of Otherworldly Light
-1 Snow-Covered Island
-1 Force of Negation
 1 Lightning Bolt
 2 Lightning Bolt
 3 Lightning Bolt
-1 Arid Mesa
-4 Spreading Seas
-1 Breeding Pool
-1 Nexus of Fate
+1 Snow-Covered Island
 3 Shark Typhoon
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
+1 Force of Negation
 4 Lightning Bolt
-3 Dress Down
-2 Force of Negation
-3 Force of Negation
-2 Arid Mesa
 5 Island
 6 Island
 1 Engineered Explosives
 1 Consider
 2 Consider
 3 Consider
+1 Arid Mesa
+4 Spreading Seas
+1 Breeding Pool
+4 March of Otherworldly Light
+2 Snow-Covered Island
+3 Snow-Covered Island
+4 Snow-Covered Island
+3 Dress Down
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
+7 Island
+1 Expressive Iteration
+1 Unholy Heat
+2 Expressive Iteration
+2 Unholy Heat
+3 Expressive Iteration
+4 Snapcaster Mage
+1 Blood Moon
+1 Spell Pierce
+2 Blood Moon
+4 Consider
+2 Force of Negation
+3 Force of Negation
+2 Arid Mesa
 1 Snow-Covered Plains
 1 The Wandering Emperor
 1 Flusterstorm
 2 Snow-Covered Plains
 2 Flusterstorm
 2 The Wandering Emperor
-4 Ragavan, Nimble Pilferer
 4 Mystic Gate
+4 Ragavan, Nimble Pilferer
 1 Lightning Helix
 1 Mountain
 2 Lightning Helix
 1 Goblin Cratermaker
-1 Remand
 1 Charming Prince
+1 Remand
 1 Path to Exile
 1 Nahiri, the Harbinger
-1 Ghost Quarter
 1 Detention Sphere
+1 Ghost Quarter
 1 Ajani Vengeant
 1 Keranos, God of Storms
 1 Day of Judgment
@@ -130,62 +141,55 @@
 3 Steam Vents
 3 Hallowed Fountain
 4 Hallowed Fountain
-4 March of Otherworldly Light
-4 Spirebluff Canal
-4 Shark Typhoon
-1 Mishra's Bauble
-1 Expressive Iteration
-1 Cascade Bluffs
+1 Prismatic Vista
+1 Day's Undoing
+1 Narset, Parter of Veils
+2 Day's Undoing
+2 Narset, Parter of Veils
+2 Prismatic Vista
+3 Prismatic Vista
+3 Narset, Parter of Veils
+4 Prismatic Vista
 1 Thing in the Ice
-1 Unholy Heat
-2 Mishra's Bauble
-2 Expressive Iteration
-2 Unholy Heat
-2 Cascade Bluffs
+1 Mishra's Bauble
+1 Cascade Bluffs
 2 Thing in the Ice
-3 Mishra's Bauble
+2 Mishra's Bauble
+2 Cascade Bluffs
 3 Thing in the Ice
-3 Expressive Iteration
+3 Mishra's Bauble
 4 Dress Down
 4 Thing in the Ice
 4 Expressive Iteration
-4 Snapcaster Mage
-1 Blood Moon
+1 Nexus of Fate
+4 Spirebluff Canal
+4 Shark Typhoon
 1 Sulfur Falls
-1 Spell Pierce
 1 Chandra, Awakened Inferno
 1 Prismari Command
 1 Brazen Borrower
 1 Dead/Gone
 2 Hall of Storm Giants
-2 Blood Moon
 2 Prismari Command
 2 Dead/Gone
 2 Brazen Borrower
 3 Misty Rainforest
-4 Consider
 5 Snow-Covered Island
-1 Prismatic Vista
-1 Day's Undoing
-1 Narset, Parter of Veils
-2 Prismatic Vista
-2 Day's Undoing
-2 Narset, Parter of Veils
-3 Prismatic Vista
-3 Narset, Parter of Veils
-4 Prismatic Vista
-7 Island
-1 Blade Splicer
+2 Engineered Explosives
+3 Blood Moon
+3 Unholy Heat
+8 Island
 1 Restoration Angel
 1 Vendilion Clique
+1 Blade Splicer
 1 Field of Ruin
 1 Electrolyze
-2 Blade Splicer
-2 Jace, the Mind Sculptor
 2 Restoration Angel
 2 Vendilion Clique
+2 Blade Splicer
+2 Jace, the Mind Sculptor
 2 Field of Ruin
-3 Restoration Angel
 3 Celestial Colonnade
+3 Restoration Angel
 3 Blade Splicer
 4 Blade Splicer

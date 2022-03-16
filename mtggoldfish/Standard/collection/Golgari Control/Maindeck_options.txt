@@ -1,9 +1,4 @@
-3 Deadly Dispute
-1 Shambling Ghast
-2 Shambling Ghast
-3 Shambling Ghast
-4 Shambling Ghast
-3 Infernal Grasp
+1 Field of Ruin
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 1 Blood on the Snow
@@ -11,70 +6,75 @@
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
-2 Field of Ruin
 1 Snow-Covered Forest
+4 Forest
+5 Forest
 1 Briarbridge Tracker
 2 Briarbridge Tracker
 3 Hive of the Eye Tyrant
 2 Snow-Covered Forest
 4 Swamp
+4 Binding the Old Gods
 3 The Meathook Massacre
+2 Dig Up
+3 Infernal Grasp
+2 Field of Ruin
+4 Deadly Dispute
 3 Blood on the Snow
 1 Reckoner Bankbuster
 3 Snow-Covered Forest
 3 Woodland Chasm
-4 Deadly Dispute
 4 Snow-Covered Forest
 5 Snow-Covered Forest
 4 Woodland Chasm
 3 Briarbridge Tracker
+6 Snow-Covered Swamp
 1 Gloomshrieker
 2 Gloomshrieker
-6 Snow-Covered Swamp
-6 Forest
-4 Briarbridge Tracker
-2 Reckoner Bankbuster
 1 Eyetwitch
 2 Eyetwitch
 3 Eyetwitch
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
-1 Dockside Chef
-2 Dockside Chef
-5 Swamp
-1 Lotus Cobra
-2 Lotus Cobra
-3 Dig Up
-1 Agadeem's Awakening
+4 Briarbridge Tracker
+2 Reckoner Bankbuster
 4 Eyetwitch
 9 Snow-Covered Swamp
+1 Dockside Chef
+2 Dockside Chef
+1 Valki, God of Lies
+5 Swamp
+1 Agadeem's Awakening
+1 Invoke Despair
+2 Invoke Despair
 1 Junji, the Midnight Sky
+6 Forest
+10 Snow-Covered Swamp
 1 Vorinclex, Monstrous Raider
 3 Gloomshrieker
 1 Hagra Mauling
-1 Valki, God of Lies
 1 Bloodchief's Thirst
-1 Invoke Despair
-2 Invoke Despair
-10 Snow-Covered Swamp
-1 Bala Ged Recovery
-1 March of Wretched Sorrow
-1 Valentin, Dean of the Vein
 1 Skullport Merchant
 2 Skullport Merchant
-1 Culling Ritual
-2 Culling Ritual
-4 Infernal Grasp
 11 Snow-Covered Swamp
 12 Snow-Covered Swamp
-13 Snow-Covered Swamp
+1 March of Wretched Sorrow
 2 Valki, God of Lies
+1 Valentin, Dean of the Vein
+1 Bala Ged Recovery
+3 Skullport Merchant
+1 Lotus Cobra
+2 Lotus Cobra
+3 Dig Up
+4 Infernal Grasp
+1 Culling Ritual
+2 Culling Ritual
+13 Snow-Covered Swamp
 1 Graveyard Trespasser
 2 Graveyard Trespasser
 3 Graveyard Trespasser
 4 Graveyard Trespasser
 1 Shigeki, Jukai Visionary
-3 Skullport Merchant
 14 Snow-Covered Swamp
 15 Snow-Covered Swamp
 16 Snow-Covered Swamp
@@ -83,10 +83,27 @@
 2 Skeletal Swarming
 3 Skeletal Swarming
 4 Skeletal Swarming
+1 Toxrill, the Corrosive
 2 Shigeki, Jukai Visionary
 3 Shigeki, Jukai Visionary
-2 Junji, the Midnight Sky
+1 Hunt for Specimens
+1 Village Rites
+1 Crawling Barrens
+1 Reckoner's Bargain
+1 Treasure Vault
+1 Warlock Class
+1 Grim Bounty
+2 Hunt for Specimens
+2 Crawling Barrens
+2 Warlock Class
+2 Grim Bounty
+2 Treasure Vault
+3 Grim Bounty
+3 Hunt for Specimens
+3 Crawling Barrens
+4 Hunt for Specimens
 2 Boseiju, Who Endures
+2 Junji, the Midnight Sky
 2 March of Wretched Sorrow
 1 The Celestus
 3 Invoke Despair
@@ -110,7 +127,6 @@
 1 Necroblossom Snarl
 2 Necroblossom Snarl
 3 Necroblossom Snarl
-1 Toxrill, the Corrosive
 1 Shadows' Verdict
 1 Deadly Brew
 1 Varragoth, Bloodsky Sire
@@ -132,6 +148,10 @@
 1 Tainted Adversary
 1 Dreadfeast Demon
 2 Tainted Adversary
+1 Hostile Hostel
+1 Hobbling Zombie
+1 Persistent Specimen
+2 Hostile Hostel
 1 Go Blank
 2 The Celestus
 2 Go Blank
@@ -145,10 +165,12 @@
 1 Henrika Domnathi
 2 Henrika Domnathi
 4 Hive of the Eye Tyrant
+3 Warlock Class
+4 Warlock Class
 4 The Meathook Massacre
 1 Baleful Mastery
-3 Field of Ruin
 3 Eaten Alive
+3 Field of Ruin
 4 Blood on the Snow
 1 Jugan Defends the Temple
 1 Kazandu Mammoth
@@ -171,26 +193,6 @@
 3 Grakmaw, Skyclave Ravager
 3 Daemogoth Titan
 4 Wedding Invitation
-1 Hunt for Specimens
-1 Village Rites
-1 Crawling Barrens
-1 Hostile Hostel
-1 Reckoner's Bargain
-1 Treasure Vault
-1 Warlock Class
-1 Hobbling Zombie
-1 Grim Bounty
-1 Persistent Specimen
-2 Hunt for Specimens
-2 Crawling Barrens
-2 Warlock Class
-2 Hostile Hostel
-2 Grim Bounty
-2 Treasure Vault
-3 Grim Bounty
-3 Hunt for Specimens
-3 Crawling Barrens
-4 Hunt for Specimens
 1 Fell Stinger
 1 Tamiyo's Safekeeping
 2 Fell Stinger

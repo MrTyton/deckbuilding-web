@@ -1,7 +1,9 @@
-4 Fanatical Firebrand
+1 Shatterskull Smashing
 1 Roiling Vortex
 2 Roiling Vortex
 3 Roiling Vortex
+1 Kari Zev, Skyship Raider
+4 Embercleave
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
 3 Goblin Chainwhirler
@@ -9,56 +11,63 @@
 2 Shatterskull Smashing
 3 Den of the Bugbear
 3 Rampaging Ferocidon
-1 Kari Zev, Skyship Raider
 3 Shatterskull Smashing
 4 Goblin Chainwhirler
 1 Chandra, Torch of Defiance
-4 Embercleave
-4 Den of the Bugbear
-4 Torbran, Thane of Red Fell
-2 Chandra, Torch of Defiance
-4 Rampaging Ferocidon
-1 Phoenix of Ash
-1 Shock
-1 Light Up the Stage
-2 Shock
-2 Light Up the Stage
-3 Shock
-1 Rimrock Knight
-2 Rimrock Knight
-3 Rimrock Knight
-17 Mountain
 1 Play with Fire
 2 Play with Fire
 3 Play with Fire
+4 Den of the Bugbear
+4 Torbran, Thane of Red Fell
+2 Chandra, Torch of Defiance
+17 Mountain
+1 Light Up the Stage
+2 Light Up the Stage
+4 Rampaging Ferocidon
 2 Kari Zev, Skyship Raider
-4 Shatterskull Smashing
-1 Managorger Phoenix
-3 Light Up the Stage
+1 Scorch Spitter
+2 Scorch Spitter
+3 Scorch Spitter
+4 Scorch Spitter
 1 Static Discharge
 2 Static Discharge
 3 Static Discharge
 4 Static Discharge
-4 Shock
+3 Light Up the Stage
+1 Shock
+2 Shock
+3 Shock
 1 Lightning Strike
 2 Lightning Strike
 3 Lightning Strike
 4 Lightning Strike
-1 Sokenzan, Crucible of Defiance
-1 Chandra, Dressed to Kill
-4 Light Up the Stage
 18 Mountain
 19 Mountain
-1 Viashino Pyromancer
-1 Scorch Spitter
-2 Viashino Pyromancer
-2 Scorch Spitter
-3 Viashino Pyromancer
-3 Scorch Spitter
-4 Scorch Spitter
-1 Sacred Foundry
-1 Inspiring Vantage
+1 Phoenix of Ash
+1 Rimrock Knight
+2 Rimrock Knight
+3 Rimrock Knight
+4 Light Up the Stage
+4 Shock
+1 Managorger Phoenix
+4 Play with Fire
+4 Shatterskull Smashing
+1 Bloodthirsty Adversary
+1 Chandra, Dressed to Kill
+1 Sokenzan, Crucible of Defiance
+1 Runaway Steam-Kin
+2 Runaway Steam-Kin
+3 Runaway Steam-Kin
+4 Runaway Steam-Kin
+1 Skewer the Critics
+1 Soul-Scar Mage
+2 Skewer the Critics
+2 Soul-Scar Mage
+3 Skewer the Critics
+3 Soul-Scar Mage
 1 Needleverge Pathway
+1 Inspiring Vantage
+1 Sacred Foundry
 2 Needleverge Pathway
 2 Inspiring Vantage
 2 Sacred Foundry
@@ -66,43 +75,57 @@
 3 Inspiring Vantage
 4 Sacred Foundry
 4 Inspiring Vantage
-1 Soul-Scar Mage
-1 Skewer the Critics
-2 Skewer the Critics
-2 Soul-Scar Mage
-3 Skewer the Critics
-3 Soul-Scar Mage
-4 Play with Fire
+1 Chandra, Acolyte of Flame
+1 Cavalcade of Calamity
+2 Chandra, Acolyte of Flame
+2 Cavalcade of Calamity
+3 Cavalcade of Calamity
+4 Cavalcade of Calamity
+1 Viashino Pyromancer
+2 Viashino Pyromancer
+3 Viashino Pyromancer
 1 Reckless Stormseeker
 2 Reckless Stormseeker
-1 Wizard's Lightning
 1 Ghitu Lavarunner
-2 Wizard's Lightning
+1 Wizard's Lightning
 2 Ghitu Lavarunner
-3 Ghitu Lavarunner
+2 Wizard's Lightning
 3 Wizard's Lightning
+3 Ghitu Lavarunner
+4 Ghitu Lavarunner
+4 Wizard's Lightning
 4 Viashino Pyromancer
 4 Rimrock Knight
-4 Wizard's Lightning
-4 Ghitu Lavarunner
 1 Light Up the Night
 1 Alchemist's Gambit
 1 Abrade
-1 Bloodthirsty Adversary
 1 Ox of Agonas
 2 Ox of Agonas
 3 Castle Embereth
 1 Sundown Pass
-2 Chandra, Dressed to Kill
 2 Sundown Pass
+2 Chandra, Dressed to Kill
 3 Sundown Pass
 1 Cemetery Gatekeeper
 2 Cemetery Gatekeeper
 3 Cemetery Gatekeeper
+1 Spikefield Hazard
+1 Voldaren Epicure
+1 Grim Initiate
+2 Voldaren Epicure
+2 Spikefield Hazard
+2 Grim Initiate
+3 Voldaren Epicure
+3 Grim Initiate
+3 Chandra, Acolyte of Flame
 1 Falkenrath Pit Fighter
 2 Falkenrath Pit Fighter
 3 Falkenrath Pit Fighter
 4 Falkenrath Pit Fighter
+1 Hazoret the Fervent
+2 Hazoret the Fervent
+3 Hazoret the Fervent
+4 Skewer the Critics
 1 Electrostatic Blast
 2 Sokenzan, Crucible of Defiance
 2 Electrostatic Blast
@@ -113,8 +136,8 @@
 1 Fanatic of Mogis
 1 Hellrider
 1 Earthshaker Khenra
-2 Legion Warboss
 2 Glorybringer
+2 Legion Warboss
 2 Fanatic of Mogis
 2 Earthshaker Khenra
 2 Hellrider
@@ -125,51 +148,42 @@
 3 Fanatic of Mogis
 4 Earthshaker Khenra
 4 Hellrider
-1 Runaway Steam-Kin
-1 Hazoret the Fervent
-2 Runaway Steam-Kin
-2 Hazoret the Fervent
-3 Runaway Steam-Kin
-3 Hazoret the Fervent
-4 Runaway Steam-Kin
-4 Skewer the Critics
 2 Managorger Phoenix
 3 Managorger Phoenix
 4 Managorger Phoenix
-1 Kazandu Mammoth
-1 Rotting Regisaur
-1 Dragonskull Summit
-1 Call of the Death-Dweller
-1 Cragcrown Pathway
-1 Hive of the Eye Tyrant
-1 Collected Company
-1 Overgrown Tomb
-1 Blood Crypt
-1 Blightstep Pathway
-1 Stomping Ground
-1 Dreadhorde Butcher
-2 Collected Company
-2 Rotting Regisaur
-2 Blood Crypt
-2 Blightstep Pathway
-2 Stomping Ground
-2 Dreadhorde Butcher
-2 Overgrown Tomb
-2 Cragcrown Pathway
-3 Blood Crypt
-3 Collected Company
-3 Blightstep Pathway
-3 Rotting Regisaur
-3 Reckless Stormseeker
-3 Stomping Ground
-3 Dreadhorde Butcher
-3 Overgrown Tomb
-3 Cragcrown Pathway
-4 Blood Crypt
-4 Collected Company
-4 Blightstep Pathway
-4 Stomping Ground
-4 Overgrown Tomb
+1 Scampering Scorcher
+1 Chandra's Pyreling
+1 Chandra's Spitfire
+1 Raid Bombardment
+1 Risk Factor
+2 Chandra's Pyreling
+2 Scampering Scorcher
+2 Risk Factor
+2 Chandra's Spitfire
+2 Raid Bombardment
+3 Risk Factor
+3 Chandra's Pyreling
+4 Chandra's Pyreling
+4 Risk Factor
+1 Showdown of the Skalds
+1 Bomat Courier
+1 Dragon's Rage Channeler
+1 Lightning Helix
+2 Showdown of the Skalds
+2 Bomat Courier
+2 Dragon's Rage Channeler
+2 Lightning Helix
+3 Needleverge Pathway
+3 Showdown of the Skalds
+3 Bomat Courier
+3 Lightning Helix
+3 Dragon's Rage Channeler
+4 Showdown of the Skalds
+4 Needleverge Pathway
+4 Bomat Courier
+4 Lightning Helix
+4 Dragon's Rage Channeler
+4 Soul-Scar Mage
 1 Goldspan Dragon
 1 Snow-Covered Mountain
 1 Fireblade Charger
@@ -180,12 +194,12 @@
 2 Fireblade Charger
 2 Frost Bite
 3 Snow-Covered Mountain
-3 Fireblade Charger
 3 Frost Bite
 3 Faceless Haven
+3 Fireblade Charger
 4 Snow-Covered Mountain
-4 Fireblade Charger
 4 Frost Bite
+4 Fireblade Charger
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
@@ -199,22 +213,45 @@
 15 Snow-Covered Mountain
 16 Snow-Covered Mountain
 17 Snow-Covered Mountain
-1 Bomat Courier
-1 Dragon's Rage Channeler
-1 Lightning Helix
-1 Showdown of the Skalds
-2 Bomat Courier
-2 Dragon's Rage Channeler
-2 Lightning Helix
-2 Showdown of the Skalds
-3 Showdown of the Skalds
-3 Bomat Courier
-3 Dragon's Rage Channeler
-3 Lightning Helix
-3 Needleverge Pathway
-4 Bomat Courier
-4 Showdown of the Skalds
-4 Dragon's Rage Channeler
-4 Lightning Helix
-4 Soul-Scar Mage
-4 Needleverge Pathway
+1 Reinforced Ronin
+2 Reinforced Ronin
+2 Bloodthirsty Adversary
+3 Reinforced Ronin
+3 Bloodthirsty Adversary
+4 Bloodthirsty Adversary
+4 Reinforced Ronin
+20 Mountain
+1 Kazandu Mammoth
+1 Hive of the Eye Tyrant
+1 Overgrown Tomb
+1 Rotting Regisaur
+1 Dragonskull Summit
+1 Call of the Death-Dweller
+1 Collected Company
+1 Cragcrown Pathway
+1 Blood Crypt
+1 Blightstep Pathway
+1 Stomping Ground
+1 Dreadhorde Butcher
+2 Collected Company
+2 Rotting Regisaur
+2 Overgrown Tomb
+2 Blood Crypt
+2 Blightstep Pathway
+2 Stomping Ground
+2 Dreadhorde Butcher
+2 Cragcrown Pathway
+3 Collected Company
+3 Rotting Regisaur
+3 Overgrown Tomb
+3 Reckless Stormseeker
+3 Blood Crypt
+3 Blightstep Pathway
+3 Stomping Ground
+3 Dreadhorde Butcher
+3 Cragcrown Pathway
+4 Overgrown Tomb
+4 Collected Company
+4 Stomping Ground
+4 Blightstep Pathway
+4 Blood Crypt

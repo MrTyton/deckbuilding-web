@@ -1,16 +1,43 @@
+1 Marwyn, the Nurturer
+2 Freyalise, Skyshroud Partisan
 15 Forest
 16 Forest
 1 Lair of the Hydra
 1 Circle of Dreams Druid
-2 Freyalise, Skyshroud Partisan
-1 Marwyn, the Nurturer
 1 Realmwalker
 2 Fierce Empath
 3 Elvish Visionary
 4 Elvish Visionary
 2 Realmwalker
 4 Castle Garenbrig
+2 Lair of the Hydra
+3 Skyshroud Lookout
+17 Forest
+4 Imperious Perfect
+1 Temple Garden
+1 Branchloft Pathway
+2 Temple Garden
+2 Branchloft Pathway
+3 Branchloft Pathway
+4 Branchloft Pathway
+3 Temple Garden
+4 Temple Garden
+1 Barkchannel Pathway
+1 Breeding Pool
+2 Breeding Pool
+2 Barkchannel Pathway
+3 Breeding Pool
+3 Barkchannel Pathway
+4 Breeding Pool
+4 Barkchannel Pathway
 2 Growing Rites of Itlimoc
+1 Swan Song
+1 Botanical Sanctum
+2 Swan Song
+2 Botanical Sanctum
+3 Botanical Sanctum
+3 Swan Song
+4 Botanical Sanctum
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
@@ -28,42 +55,15 @@
 15 Snow-Covered Forest
 16 Snow-Covered Forest
 17 Snow-Covered Forest
-2 Lair of the Hydra
-3 Skyshroud Lookout
-17 Forest
-4 Imperious Perfect
-1 Temple Garden
-1 Branchloft Pathway
-2 Temple Garden
-2 Branchloft Pathway
-3 Branchloft Pathway
-4 Branchloft Pathway
-3 Temple Garden
-4 Temple Garden
-1 Breeding Pool
-1 Barkchannel Pathway
-2 Breeding Pool
-2 Barkchannel Pathway
-3 Breeding Pool
-3 Barkchannel Pathway
-4 Breeding Pool
-4 Barkchannel Pathway
-1 Swan Song
-1 Botanical Sanctum
-2 Swan Song
-2 Botanical Sanctum
-3 Botanical Sanctum
-3 Swan Song
-4 Botanical Sanctum
-1 Faceless Haven
 3 Freyalise, Skyshroud Partisan
 4 Skyshroud Lookout
 18 Forest
-2 Circle of Dreams Druid
 2 Marwyn, the Nurturer
+2 Circle of Dreams Druid
+1 Faceless Haven
 3 Circle of Dreams Druid
-1 Overgrown Tomb
 1 Darkbore Pathway
+1 Overgrown Tomb
 2 Overgrown Tomb
 2 Darkbore Pathway
 3 Overgrown Tomb
@@ -72,29 +72,43 @@
 4 Freyalise, Skyshroud Partisan
 1 Turntimber Symbiosis
 3 Darkbore Pathway
-1 The Great Henge
 3 Lair of the Hydra
 1 Necroblossom Snarl
 2 Necroblossom Snarl
 3 Necroblossom Snarl
 4 Necroblossom Snarl
-1 Fiend Artisan
 1 Woodland Cemetery
-2 Fiend Artisan
+1 Fiend Artisan
 2 Woodland Cemetery
-3 Realmwalker
+2 Fiend Artisan
 3 Woodland Cemetery
+3 Realmwalker
 4 Darkbore Pathway
 4 Woodland Cemetery
 1 Finale of Devastation
 2 Finale of Devastation
-1 Scavenging Ooze
-1 Sylvan Anthem
-2 Sylvan Anthem
+1 The Great Henge
 1 Hashep Oasis
+2 Hashep Oasis
+1 Steel Leaf Champion
+1 Elven Ambush
+1 Incubation Druid
+2 Craterhoof Behemoth
+2 The Great Henge
+2 Steel Leaf Champion
+2 Incubation Druid
+2 Elven Ambush
+3 Steel Leaf Champion
+3 Elven Ambush
+3 Hashep Oasis
+3 Incubation Druid
+4 Steel Leaf Champion
+4 Hashep Oasis
+1 Scavenging Ooze
 1 Llanowar Visionary
 2 Llanowar Visionary
-2 Hashep Oasis
+1 Sylvan Anthem
+2 Sylvan Anthem
 2 Turntimber Symbiosis
 1 Disdainful Stroke
 1 Spell Pierce
@@ -102,8 +116,8 @@
 1 Reclamation Sage
 1 Overgrown Farmland
 2 Overgrown Farmland
-3 Growing Rites of Itlimoc
 3 Overgrown Farmland
+3 Growing Rites of Itlimoc
 4 Overgrown Farmland
 3 Finale of Devastation
 4 Finale of Devastation
@@ -113,8 +127,8 @@
 2 Vivien, Monsters' Advocate
 3 Marwyn, the Nurturer
 3 Fierce Empath
-3 Vivien, Monsters' Advocate
 3 Sylvan Ranger
+3 Vivien, Monsters' Advocate
 4 Sylvan Ranger
 4 Vivien, Monsters' Advocate
 4 Marwyn, the Nurturer

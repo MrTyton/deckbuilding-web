@@ -36,8 +36,8 @@
 14 Island
 1 Hullbreacher
 1 Oboro, Palace in the Clouds
-1 Riptide Laboratory
 1 Barrin, Tolarian Archmage
+1 Riptide Laboratory
 2 Barrin, Tolarian Archmage
 3 Barrin, Tolarian Archmage
 3 Harbinger of the Tides
@@ -78,15 +78,11 @@
 2 Stifle
 3 Stifle
 4 Stifle
-1 Benthic Biomancer
-2 Benthic Biomancer
-2 Force of Negation
-4 Phantasmal Image
 3 Glasspool Mimic
 4 Glasspool Mimic
-1 Snow-Covered Plains
 1 Misty Rainforest
 1 Prismatic Ending
+1 Snow-Covered Plains
 1 Brainstorm
 1 Scalding Tarn
 1 Polluted Delta
@@ -95,14 +91,18 @@
 2 Brainstorm
 3 Brainstorm
 4 Brainstorm
+1 Benthic Biomancer
+2 Benthic Biomancer
+2 Force of Negation
+4 Phantasmal Image
 3 Cursecatcher
 4 Cursecatcher
-1 Tropical Island
 1 Once Upon a Time
+1 Tropical Island
 1 Merfolk Mistbinder
 1 Kumena's Speaker
-2 Tropical Island
 2 Once Upon a Time
+2 Tropical Island
 2 Merfolk Mistbinder
 2 Kumena's Speaker
 3 Waterlogged Grove

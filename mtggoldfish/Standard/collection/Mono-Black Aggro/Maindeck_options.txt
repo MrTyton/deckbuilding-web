@@ -1,21 +1,22 @@
 3 Fell Stinger
-1 Sorin the Mirthless
 3 Blood on the Snow
 4 Eyetwitch
-2 Eaten Alive
+1 Sorin the Mirthless
 1 Skullport Merchant
 2 Skullport Merchant
 1 Professor Onyx
-4 Headless Rider
 3 Hive of the Eye Tyrant
 1 Hunt for Specimens
 2 Hunt for Specimens
+3 Skullport Merchant
 18 Snow-Covered Swamp
+2 Eaten Alive
 4 Fell Stinger
 1 Hagra Mauling
-1 Archghoul of Thraben
-2 Archghoul of Thraben
-3 Archghoul of Thraben
+4 Deadly Dispute
+2 Professor Onyx
+2 Sorin the Mirthless
+4 Headless Rider
 1 Swamp
 2 Swamp
 3 Swamp
@@ -31,53 +32,51 @@
 12 Swamp
 13 Swamp
 14 Swamp
-3 Skullport Merchant
-2 Sorin the Mirthless
-4 Archghoul of Thraben
+1 Archghoul of Thraben
+2 Archghoul of Thraben
+3 Archghoul of Thraben
 15 Swamp
 2 Crawling Barrens
+1 Invoke Despair
+1 Takenuma, Abandoned Mire
 2 Hagra Mauling
 19 Snow-Covered Swamp
-4 Deadly Dispute
-2 Professor Onyx
+4 Archghoul of Thraben
 3 Crawling Barrens
 1 Undead Butler
 2 Undead Butler
 4 Lolth, Spider Queen
-1 Invoke Despair
 1 Valki, God of Lies
-1 Takenuma, Abandoned Mire
 1 Hero's Downfall
 2 Hero's Downfall
+1 Junji, the Midnight Sky
+1 Baleful Mastery
 1 Hostile Hostel
 4 Hive of the Eye Tyrant
 1 Malakir Rebirth
 3 Undead Butler
 4 The Meathook Massacre
-1 Faceless Haven
-2 Faceless Haven
+2 Invoke Despair
 1 Graveyard Trespasser
 2 Graveyard Trespasser
+2 Junji, the Midnight Sky
 3 Infernal Grasp
-1 Junji, the Midnight Sky
+4 Skullport Merchant
+2 Baleful Mastery
 3 Field of Ruin
-1 Baleful Mastery
 1 Soul Shatter
 1 Skyclave Shade
-2 Invoke Despair
 1 Reckoner Bankbuster
 2 Reckoner Bankbuster
 3 Reckoner Bankbuster
 4 Infernal Grasp
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
-2 Junji, the Midnight Sky
-3 Faceless Haven
-4 Skullport Merchant
+1 Faceless Haven
+2 Faceless Haven
 4 Field of Ruin
 2 Valki, God of Lies
 2 Skyclave Shade
-2 Baleful Mastery
 3 Sorin the Mirthless
 4 Blood on the Snow
 1 Blade of the Oni
@@ -107,7 +106,9 @@
 4 Blade of the Oni
 4 Bloodvial Purveyor
 4 Skyclave Shade
-4 Faceless Haven
+3 Faceless Haven
+1 March of Wretched Sorrow
+2 March of Wretched Sorrow
 1 Debt to the Kami
 2 Debt to the Kami
 2 Takenuma, Abandoned Mire
@@ -116,23 +117,21 @@
 1 Duress
 1 Dockside Chef
 2 Dockside Chef
+20 Snow-Covered Swamp
 3 Invoke Despair
 4 Invoke Despair
 1 Mukotai Soulripper
 2 Mukotai Soulripper
 3 Graveyard Trespasser
 4 Graveyard Trespasser
-1 March of Wretched Sorrow
 1 Inscription of Ruin
-2 March of Wretched Sorrow
 1 Biting-Palm Ninja
 2 Biting-Palm Ninja
-1 Ebondeath, Dracolich
-2 Ebondeath, Dracolich
 1 Cosmos Elixir
 1 Blackbloom Rogue
 2 Cosmos Elixir
 2 Blackbloom Rogue
+3 Baleful Mastery
 1 Sedgemoor Witch
 2 Sedgemoor Witch
 2 Duress
@@ -143,6 +142,7 @@
 3 Flunk
 3 Agadeem's Awakening
 3 Eaten Alive
+4 Faceless Haven
 1 Village Rites
 2 Village Rites
 3 Village Rites
@@ -170,8 +170,8 @@
 3 Mukotai Soulripper
 3 Hagra Mauling
 3 Dockside Chef
-4 Dockside Chef
 4 Mukotai Soulripper
+4 Dockside Chef
 1 Callous Bloodmage
 3 Debt to the Kami
 4 Debt to the Kami
@@ -182,6 +182,5 @@
 2 Acquisitions Expert
 2 Plumb the Forbidden
 3 Acquisitions Expert
-20 Snow-Covered Swamp
 21 Snow-Covered Swamp
 22 Snow-Covered Swamp
