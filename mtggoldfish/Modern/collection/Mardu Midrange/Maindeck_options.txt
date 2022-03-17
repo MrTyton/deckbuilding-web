@@ -51,8 +51,8 @@
 1 Fatal Push
 2 Fatal Push
 1 Collective Brutality
-1 Unearth
 1 Cling to Dust
+1 Unearth
 1 Lightning Skelemental
 1 Goblin Bombardment
 1 Lingering Souls
@@ -91,8 +91,8 @@
 2 Priest of Fell Rites
 2 Undying Malice
 2 Snapdax, Apex of the Hunt
-3 Godless Shrine
 3 Undying Evil
+3 Godless Shrine
 4 Undying Evil
 3 Obsidian Charmaw
 1 Snow-Covered Swamp
@@ -118,6 +118,10 @@
 2 Scourge of the Skyclaves
 2 Graven Cairns
 3 Scourge of the Skyclaves
+1 Urborg, Tomb of Yawgmoth
+3 Kaya's Guile
+4 Unholy Heat
+4 Blood Moon
 1 March of Otherworldly Light
 1 Touch the Spirit Realm
 1 Hidetsugu Consumes All
@@ -129,10 +133,7 @@
 3 Touch the Spirit Realm
 3 Hidetsugu Consumes All
 4 Hidetsugu Consumes All
-4 Blood Moon
-1 Urborg, Tomb of Yawgmoth
-3 Kaya's Guile
-4 Unholy Heat
+1 Manamorphose
 1 Urza's Saga
 1 Gurmag Angler
 1 Lurrus of the Dream-Den
@@ -143,17 +144,16 @@
 1 Bonecrusher Giant
 1 Pithing Needle
 1 Sunbeam Spellbomb
-1 Manamorphose
+2 Manamorphose
 2 Urza's Saga
 2 Gurmag Angler
 2 Path to Exile
 2 Cathar Commando
 2 Lurrus of the Dream-Den
 2 Bonecrusher Giant
-2 Manamorphose
+3 Manamorphose
 3 Urza's Saga
 3 Lurrus of the Dream-Den
-3 Manamorphose
 3 Path to Exile
 4 Path to Exile
 4 Manamorphose
@@ -174,13 +174,13 @@
 4 Knight of the Ebon Legion
 4 Stoneforge Mystic
 1 Persist
-1 Prismatic Vista
 1 Unmarked Grave
-1 Archon of Cruelty
-1 Platinum Emperion
-1 Madcap Experiment
-1 Feed the Swarm
+1 Prismatic Vista
 1 Magmatic Channeler
+1 Madcap Experiment
+1 Platinum Emperion
+1 Archon of Cruelty
+1 Feed the Swarm
 1 Shred Memory
 1 Grave Titan
 1 Lightning Axe
@@ -188,18 +188,18 @@
 1 Temple of Malice
 2 Persist
 2 Prismatic Vista
+2 Magmatic Channeler
 2 Madcap Experiment
 2 Archon of Cruelty
-2 Magmatic Channeler
 2 Temple of Malice
 2 Lightning Axe
 2 Platinum Emperion
 2 Shred Memory
 3 Persist
 3 Swamp
+3 Magmatic Channeler
 3 Collective Brutality
 3 Madcap Experiment
-3 Magmatic Channeler
 3 Archon of Cruelty
 4 Persist
 4 Archon of Cruelty

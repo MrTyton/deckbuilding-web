@@ -8,16 +8,16 @@
 2 Seasoned Pyromancer
 2 Fury
 3 Seasoned Pyromancer
-1 Utopia Sprawl
 1 Arbor Elf
+1 Utopia Sprawl
 1 Blood Moon
-2 Utopia Sprawl
 2 Arbor Elf
+2 Utopia Sprawl
 2 Blood Moon
-3 Utopia Sprawl
-3 Arbor Elf
-3 Blood Moon
 3 Windswept Heath
+3 Arbor Elf
+3 Utopia Sprawl
+3 Blood Moon
 4 Windswept Heath
 4 Arbor Elf
 4 Utopia Sprawl
@@ -40,34 +40,34 @@
 1 Grim Lavamancer
 1 Seal of Fire
 4 Esper Sentinel
-1 Snow-Covered Forest
 1 Snow-Covered Plains
+1 Snow-Covered Forest
 1 Expedition Map
 1 Pithing Needle
 2 Sacred Foundry
-1 Emrakul, the Aeons Torn
+1 Nahiri, the Harbinger
 1 Raging Ravine
+1 Emrakul, the Aeons Torn
 1 Voice of Resurgence
 1 Valakut Awakening
-1 Lightning Helix
 1 Castle Ardenvale
-1 Eiganjo, Seat of the Empire
-1 Nahiri, the Harbinger
+1 Lightning Helix
 1 Thrun, the Last Troll
-1 March of Otherworldly Light
 1 Solitude
-2 Voice of Resurgence
-2 Nahiri, the Harbinger
+1 March of Otherworldly Light
+1 Eiganjo, Seat of the Empire
 2 Solitude
+2 Voice of Resurgence
 2 March of Otherworldly Light
+2 Nahiri, the Harbinger
 2 Lightning Helix
-3 March of Otherworldly Light
 3 Voice of Resurgence
 3 Sacred Foundry
-3 Nahiri, the Harbinger
 3 Lightning Helix
-4 Voice of Resurgence
+3 March of Otherworldly Light
+3 Nahiri, the Harbinger
 4 Lightning Helix
+4 Voice of Resurgence
 1 Elvish Reclaimer
 2 Elvish Reclaimer
 3 Elvish Reclaimer
@@ -86,17 +86,10 @@
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
-4 March of Otherworldly Light
-1 Chained to the Rocks
-1 Flagstones of Trokair
-1 Dromoka's Command
-2 Chained to the Rocks
-2 Dromoka's Command
-2 Temple Garden
-4 Unholy Heat
 3 Traverse the Ulvenwald
 3 Copperline Gorge
 4 Traverse the Ulvenwald
+4 March of Otherworldly Light
 1 Elder Gargaroth
 2 Snow-Covered Forest
 2 Misty Rainforest
@@ -113,10 +106,17 @@
 2 Chandra, Torch of Defiance
 2 Bloodbraid Elf
 2 Pillage
-3 Stomping Ground
 3 Bonecrusher Giant
 3 Pillage
 3 Bloodbraid Elf
+3 Stomping Ground
+4 Bloodbraid Elf
 5 Forest
 6 Forest
-4 Bloodbraid Elf
+1 Chained to the Rocks
+1 Flagstones of Trokair
+1 Dromoka's Command
+2 Chained to the Rocks
+2 Dromoka's Command
+2 Temple Garden
+4 Unholy Heat
