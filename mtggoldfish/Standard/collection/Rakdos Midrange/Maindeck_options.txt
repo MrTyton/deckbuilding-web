@@ -10,18 +10,18 @@
 1 Kumano Faces Kakkazan
 2 Kumano Faces Kakkazan
 3 Kumano Faces Kakkazan
+5 Mountain
 1 Reckoner Bankbuster
+2 Takenuma, Abandoned Mire
 4 Voldaren Epicure
 1 Voltage Surge
 2 Voltage Surge
 3 Voltage Surge
 4 Voltage Surge
-5 Mountain
+6 Swamp
 2 Reckoner Bankbuster
-2 Takenuma, Abandoned Mire
 1 Valki, God of Lies
 1 Field of Ruin
-6 Swamp
 3 Florian, Voldaren Scion
 2 Sorin the Mirthless
 1 Abrade
@@ -31,50 +31,51 @@
 1 Jadar, Ghoulcaller of Nephalia
 2 Jadar, Ghoulcaller of Nephalia
 2 Field of Ruin
-1 Lolth, Spider Queen
-4 Kalain, Reclusive Painter
 1 Thundering Raiju
 2 Thundering Raiju
 3 Thundering Raiju
-2 Abrade
 1 Bloodthirsty Adversary
+2 Abrade
 1 Bloodtithe Harvester
 2 Bloodtithe Harvester
 3 Bloodtithe Harvester
 1 Reinforced Ronin
+1 Lolth, Spider Queen
 2 Bloodthirsty Adversary
+4 Kalain, Reclusive Painter
 3 Shatterskull Smashing
 1 Henrika Domnathi
-1 Concealing Curtains
-2 Concealing Curtains
-3 Concealing Curtains
 3 Infernal Grasp
 1 Mukotai Soulripper
 2 Mukotai Soulripper
 3 Hive of the Eye Tyrant
-3 Abrade
-4 Bloodtithe Harvester
-1 Spikefield Hazard
-2 Spikefield Hazard
-2 Valki, God of Lies
-3 Bloodthirsty Adversary
 1 Dragon's Fire
 2 Dragon's Fire
-2 Lolth, Spider Queen
-2 Sokenzan, Crucible of Defiance
+3 Abrade
+4 Bloodtithe Harvester
 6 Mountain
-1 Skullport Merchant
-2 Skullport Merchant
+1 Spikefield Hazard
+2 Spikefield Hazard
+1 Concealing Curtains
+2 Concealing Curtains
+3 Concealing Curtains
+2 Valki, God of Lies
+3 Bloodthirsty Adversary
+2 Sokenzan, Crucible of Defiance
+3 Dragon's Fire
 1 Junji, the Midnight Sky
 2 Junji, the Midnight Sky
 4 Abrade
+2 Lolth, Spider Queen
 4 The Meathook Massacre
 1 Professor Onyx
 2 Professor Onyx
 4 Kumano Faces Kakkazan
+1 Tainted Adversary
+2 Tainted Adversary
 3 Agadeem's Awakening
-3 Dragon's Fire
-4 Concealing Curtains
+1 Skullport Merchant
+2 Skullport Merchant
 1 Hagra Mauling
 1 The Celestus
 1 Biting-Palm Ninja
@@ -83,14 +84,13 @@
 2 Bloodfell Caves
 3 Bloodfell Caves
 4 Bloodfell Caves
-4 Immersturm Predator
 1 Crippling Fear
 1 Invoke Despair
 1 Soul Transfer
 2 Invoke Despair
 2 Hagra Mauling
-2 Crippling Fear
 2 The Celestus
+2 Crippling Fear
 2 Soul Transfer
 3 Invoke Despair
 3 Reckoner Bankbuster
@@ -100,52 +100,36 @@
 8 Swamp
 1 Duress
 2 Duress
+3 Lolth, Spider Queen
+4 Concealing Curtains
 1 Nighthawk Scavenger
 2 Nighthawk Scavenger
-3 Lolth, Spider Queen
-1 Tainted Adversary
-2 Tainted Adversary
 1 Anje, Maid of Dishonor
 1 Magda, Brazen Outlaw
 2 Magda, Brazen Outlaw
 4 Dragon's Fire
-1 Path of Peril
-2 Path of Peril
-1 Immersturm Skullcairn
-1 Sulfurous Mire
-2 Sulfurous Mire
-1 Snow-Covered Mountain
-1 Snow-Covered Swamp
-1 Blood on the Snow
-2 Snow-Covered Mountain
-2 Snow-Covered Swamp
-2 Blood on the Snow
-3 Snow-Covered Mountain
-3 Snow-Covered Swamp
-4 Snow-Covered Mountain
-4 Snow-Covered Swamp
-5 Snow-Covered Mountain
-5 Snow-Covered Swamp
-6 Snow-Covered Mountain
-6 Snow-Covered Swamp
-7 Snow-Covered Swamp
-8 Snow-Covered Swamp
 1 Zariel, Archduke of Avernus
 1 Dread Fugue
 2 Zariel, Archduke of Avernus
 2 Dread Fugue
 3 Dread Fugue
-3 Skullport Merchant
 1 Rabbit Battery
 2 Rabbit Battery
-4 Bloodthirsty Adversary
-7 Mountain
-8 Mountain
 2 Henrika Domnathi
 4 Infernal Grasp
 1 Crush the Weak
 2 Crush the Weak
 4 Agadeem's Awakening
+4 Bloodthirsty Adversary
+7 Mountain
+8 Mountain
+1 Path of Peril
+2 Path of Peril
+4 Immersturm Predator
+1 Go Blank
+1 Immersturm Skullcairn
+1 Eaten Alive
+2 Eaten Alive
 1 Bloodvial Purveyor
 2 Bloodvial Purveyor
 3 Bloodvial Purveyor
@@ -154,21 +138,36 @@
 2 Vampire Socialite
 3 Vampire Socialite
 1 Hero's Downfall
+1 Snow-Covered Swamp
 1 Shadows' Verdict
+1 Snow-Covered Mountain
+1 Blood on the Snow
+2 Snow-Covered Swamp
 2 Hero's Downfall
+2 Snow-Covered Mountain
 2 Shadows' Verdict
+2 Blood on the Snow
+3 Snow-Covered Swamp
 3 Hero's Downfall
+3 Snow-Covered Mountain
+4 Snow-Covered Swamp
+4 Snow-Covered Mountain
+5 Snow-Covered Mountain
+5 Snow-Covered Swamp
+6 Snow-Covered Mountain
+6 Snow-Covered Swamp
 7 Snow-Covered Mountain
+7 Snow-Covered Swamp
+8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 1 Inscription of Ruin
-1 Go Blank
 1 Hostile Hostel
-1 Eaten Alive
 1 Dominating Vampire
-2 Eaten Alive
 2 Dominating Vampire
 1 Hidetsugu, Devouring Chaos
+1 Sulfurous Mire
 2 Immersturm Skullcairn
+2 Sulfurous Mire
 1 Ebondeath, Dracolich
 1 Smoldering Egg
 2 Smoldering Egg
@@ -184,10 +183,32 @@
 2 Poison the Cup
 2 Baleful Mastery
 3 Eyetwitch
+3 Skullport Merchant
 4 Eyetwitch
 4 Skullport Merchant
-1 Moonveil Regent
+1 Westgate Regent
+1 Fell Stinger
+1 Hall of Oracles
+1 Varragoth, Bloodsky Sire
+1 Vorpal Sword
+1 Lizard Blades
+1 Undying Malice
+2 Westgate Regent
+2 Fell Stinger
+2 Go Blank
+2 Lizard Blades
+2 Undying Malice
+2 Varragoth, Bloodsky Sire
+2 Hall of Oracles
+3 Tainted Adversary
+3 Lizard Blades
+3 Go Blank
+3 Varragoth, Bloodsky Sire
+3 Eaten Alive
+3 Undying Malice
+4 Varragoth, Bloodsky Sire
 1 Malakir Rebirth
+1 Moonveil Regent
 2 Moonveil Regent
 2 Malakir Rebirth
 3 Moonveil Regent
@@ -218,6 +239,36 @@
 4 Brightclimb Pathway
 4 Needleverge Pathway
 4 Voldaren Bloodcaster
+1 Orcus, Prince of Undeath
+1 Kazuul's Fury
+1 Scourge of the Skyclaves
+2 Kazuul's Fury
+2 Orcus, Prince of Undeath
+2 Scourge of the Skyclaves
+3 Henrika Domnathi
+3 Kazuul's Fury
+3 Scourge of the Skyclaves
+4 Shatterskull Smashing
+4 Kazuul's Fury
+1 Falkenrath Pit Fighter
+1 Play with Fire
+1 Flunk
+2 Falkenrath Pit Fighter
+2 Play with Fire
+2 Flunk
+3 Falkenrath Pit Fighter
+4 Falkenrath Pit Fighter
+4 Vampire Socialite
+1 Manaform Hellkite
+1 Shatterskull Charger
+1 Reckless Impulse
+2 Manaform Hellkite
+2 Shatterskull Charger
+2 Reckless Impulse
+3 Manaform Hellkite
+3 Reckless Impulse
+3 Zariel, Archduke of Avernus
+4 Manaform Hellkite
 1 Dockside Chef
 1 Burn Down the House
 1 Experimental Synthesizer
@@ -228,44 +279,6 @@
 2 Anje, Maid of Dishonor
 3 Experimental Synthesizer
 4 Experimental Synthesizer
-1 Kazuul's Fury
-1 Scourge of the Skyclaves
-1 Orcus, Prince of Undeath
-2 Kazuul's Fury
-2 Scourge of the Skyclaves
-2 Orcus, Prince of Undeath
-3 Henrika Domnathi
-3 Kazuul's Fury
-3 Scourge of the Skyclaves
-4 Shatterskull Smashing
-4 Kazuul's Fury
-1 Shatterskull Charger
-1 Manaform Hellkite
-1 Reckless Impulse
-2 Reckless Impulse
-2 Shatterskull Charger
-2 Manaform Hellkite
-3 Manaform Hellkite
-3 Reckless Impulse
-3 Zariel, Archduke of Avernus
-4 Manaform Hellkite
-1 Flunk
-1 Play with Fire
-1 Falkenrath Pit Fighter
-2 Flunk
-2 Play with Fire
-2 Falkenrath Pit Fighter
-3 Falkenrath Pit Fighter
-4 Vampire Socialite
-4 Falkenrath Pit Fighter
-1 Faceless Haven
-1 Frost Bite
-2 Frost Bite
-2 Faceless Haven
-3 Faceless Haven
-3 Blood on the Snow
-4 Blood on the Snow
-4 Faceless Haven
 1 Arni Brokenbrow
 1 Magmatic Channeler
 2 Arni Brokenbrow

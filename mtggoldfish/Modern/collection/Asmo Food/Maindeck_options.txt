@@ -7,15 +7,15 @@
 1 Bone Shards
 2 Bone Shards
 1 Soul-Guide Lantern
-1 Marsh Flats
 1 Godless Shrine
+1 Marsh Flats
 2 Marsh Flats
 1 Unmarked Grave
 1 Persist
-2 Unmarked Grave
 2 Persist
-3 Unmarked Grave
+2 Unmarked Grave
 3 Persist
+3 Unmarked Grave
 4 Persist
 4 Unmarked Grave
 1 Blood Fountain
@@ -24,11 +24,11 @@
 4 Blood Fountain
 2 Godless Shrine
 3 Marsh Flats
-1 Silent Clearing
 1 Castle Locthwain
+1 Archon of Cruelty
 1 Herald of Anguish
 1 Unburial Rites
-1 Archon of Cruelty
+1 Silent Clearing
 2 Archon of Cruelty
 2 Herald of Anguish
 2 Castle Locthwain
@@ -119,10 +119,10 @@
 1 Arid Mesa
 1 Sacred Foundry
 1 Plains
-2 Sacred Foundry
 2 Arid Mesa
-1 Unearth
+2 Sacred Foundry
 1 Concealed Courtyard
+1 Unearth
 1 Parhelion II
 1 Greasefang, Okiba Boss
 2 Unearth
@@ -135,8 +135,8 @@
 4 Greasefang, Okiba Boss
 1 Zagoth Triome
 1 Ketria Triome
-1 Boseiju, Who Endures
 1 Chalice of the Void
+1 Boseiju, Who Endures
 1 Vraska, Golgari Queen
 1 Prismatic Vista
 2 Prismatic Vista
@@ -147,8 +147,8 @@
 1 Terastodon
 1 Fatal Push
 2 Primeval Titan
-2 Fatal Push
 2 Nurturing Peatland
+2 Fatal Push
 3 Primeval Titan
 3 Fatal Push
 1 Endurance
@@ -171,26 +171,26 @@
 4 Metallic Rebuke
 4 Galvanic Blast
 4 Silverbluff Bridge
-1 Prismatic Ending
-1 Tarmogoyf
-1 Dragon's Rage Channeler
 1 Unholy Heat
+1 Tarmogoyf
+1 Prismatic Ending
+1 Dragon's Rage Channeler
+2 Unholy Heat
 2 Tarmogoyf
 2 Mountain
-2 Unholy Heat
 2 Dragon's Rage Channeler
 2 Prismatic Ending
+3 Unholy Heat
 3 Tarmogoyf
 3 Prismatic Ending
-3 Unholy Heat
 3 Ragavan, Nimble Pilferer
 3 Dragon's Rage Channeler
 4 Tarmogoyf
 4 Dragon's Rage Channeler
 1 Seasoned Pyromancer
 1 Ignoble Hierarch
-2 Wrenn and Six
 2 Seasoned Pyromancer
+2 Wrenn and Six
 3 Wrenn and Six
 3 Seasoned Pyromancer
 4 Grist, the Hunger Tide
@@ -220,13 +220,13 @@
 2 Korvold, Fae-Cursed King
 3 Mayhem Devil
 4 Mayhem Devil
+1 Fiery Islet
 1 Engineered Explosives
 1 Pyrite Spellbomb
 1 Watery Grave
-1 Fiery Islet
 2 Scalding Tarn
-2 Fiery Islet
 2 Steam Vents
+2 Fiery Islet
 2 Engineered Explosives
 3 Scalding Tarn
 4 Scalding Tarn

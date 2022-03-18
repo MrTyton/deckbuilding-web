@@ -59,6 +59,8 @@
 14 Mountain
 1 Flame Slash
 2 Flame Slash
+3 Scalding Tarn
+4 Scalding Tarn
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 3 Soul-Guide Lantern
@@ -67,15 +69,13 @@
 2 March of Reckless Joy
 3 March of Reckless Joy
 4 March of Reckless Joy
-3 Scalding Tarn
-4 Scalding Tarn
 15 Mountain
 16 Mountain
 17 Mountain
 4 Bloodstained Mire
 3 Seal of Fire
-1 Snow-Covered Plains
 1 Snow-Covered Mountain
+1 Snow-Covered Plains
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 1 Bomat Courier
@@ -85,9 +85,6 @@
 4 Prismatic Vista
 1 Savai Triome
 2 Sokenzan, Crucible of Defiance
-4 Firebolt
-3 Sunbaked Canyon
-4 Sunbaked Canyon
 4 Seal of Fire
 1 Stomping Ground
 1 Boseiju, Who Endures
@@ -111,10 +108,13 @@
 4 Misty Rainforest
 4 Wooded Foothills
 4 Arbor Elf
+3 Sunbaked Canyon
+4 Sunbaked Canyon
+4 Firebolt
 4 Snow-Covered Mountain
 1 Relic of Progenitus
 2 Relic of Progenitus
-3 Flame Slash
 3 Relic of Progenitus
-4 Flame Slash
+3 Flame Slash
 4 Relic of Progenitus
+4 Flame Slash

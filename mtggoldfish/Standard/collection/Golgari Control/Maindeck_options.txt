@@ -1,33 +1,33 @@
-1 Field of Ruin
-1 Snow-Covered Swamp
-2 Snow-Covered Swamp
-1 Blood on the Snow
 2 Blood on the Snow
 3 Snow-Covered Swamp
+1 Shambling Ghast
+2 Shambling Ghast
+3 Shambling Ghast
+4 Shambling Ghast
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
-1 Snow-Covered Forest
+2 Dig Up
+3 The Meathook Massacre
 4 Forest
 5 Forest
 1 Briarbridge Tracker
 2 Briarbridge Tracker
+1 Snow-Covered Forest
 3 Hive of the Eye Tyrant
-2 Snow-Covered Forest
 4 Swamp
+2 Snow-Covered Forest
 4 Binding the Old Gods
-3 The Meathook Massacre
-2 Dig Up
 3 Infernal Grasp
 2 Field of Ruin
-4 Deadly Dispute
 3 Blood on the Snow
 1 Reckoner Bankbuster
 3 Snow-Covered Forest
 3 Woodland Chasm
 4 Snow-Covered Forest
 5 Snow-Covered Forest
-4 Woodland Chasm
 3 Briarbridge Tracker
+4 Deadly Dispute
+4 Woodland Chasm
 6 Snow-Covered Swamp
 1 Gloomshrieker
 2 Gloomshrieker
@@ -42,9 +42,7 @@
 9 Snow-Covered Swamp
 1 Dockside Chef
 2 Dockside Chef
-1 Valki, God of Lies
 5 Swamp
-1 Agadeem's Awakening
 1 Invoke Despair
 2 Invoke Despair
 1 Junji, the Midnight Sky
@@ -52,20 +50,19 @@
 10 Snow-Covered Swamp
 1 Vorinclex, Monstrous Raider
 3 Gloomshrieker
-1 Hagra Mauling
 1 Bloodchief's Thirst
 1 Skullport Merchant
 2 Skullport Merchant
+1 March of Wretched Sorrow
 11 Snow-Covered Swamp
 12 Snow-Covered Swamp
-1 March of Wretched Sorrow
-2 Valki, God of Lies
-1 Valentin, Dean of the Vein
-1 Bala Ged Recovery
+1 Valki, God of Lies
+1 Agadeem's Awakening
 3 Skullport Merchant
 1 Lotus Cobra
 2 Lotus Cobra
 3 Dig Up
+1 Hagra Mauling
 4 Infernal Grasp
 1 Culling Ritual
 2 Culling Ritual
@@ -74,6 +71,9 @@
 2 Graveyard Trespasser
 3 Graveyard Trespasser
 4 Graveyard Trespasser
+1 Valentin, Dean of the Vein
+2 Valki, God of Lies
+1 Bala Ged Recovery
 1 Shigeki, Jukai Visionary
 14 Snow-Covered Swamp
 15 Snow-Covered Swamp
@@ -86,17 +86,17 @@
 1 Toxrill, the Corrosive
 2 Shigeki, Jukai Visionary
 3 Shigeki, Jukai Visionary
-1 Hunt for Specimens
 1 Village Rites
 1 Crawling Barrens
 1 Reckoner's Bargain
 1 Treasure Vault
 1 Warlock Class
+1 Hunt for Specimens
 1 Grim Bounty
-2 Hunt for Specimens
 2 Crawling Barrens
 2 Warlock Class
 2 Grim Bounty
+2 Hunt for Specimens
 2 Treasure Vault
 3 Grim Bounty
 3 Hunt for Specimens
@@ -127,18 +127,18 @@
 1 Necroblossom Snarl
 2 Necroblossom Snarl
 3 Necroblossom Snarl
+1 Varragoth, Bloodsky Sire
 1 Shadows' Verdict
 1 Deadly Brew
-1 Varragoth, Bloodsky Sire
 1 Draugr Necromancer
 2 Outland Liberator
+2 Varragoth, Bloodsky Sire
 2 Deadly Brew
 2 Soul Transfer
-2 Varragoth, Bloodsky Sire
 2 Mortality Spear
 2 Draugr Necromancer
-3 Soul Transfer
 3 Varragoth, Bloodsky Sire
+3 Soul Transfer
 3 Mortality Spear
 3 Deadly Brew
 4 Bloodchief's Thirst
@@ -162,15 +162,12 @@
 2 Cragcrown Pathway
 2 Blightstep Pathway
 3 Sarulf, Realm Eater
-1 Henrika Domnathi
-2 Henrika Domnathi
-4 Hive of the Eye Tyrant
 3 Warlock Class
 4 Warlock Class
 4 The Meathook Massacre
 1 Baleful Mastery
-3 Eaten Alive
 3 Field of Ruin
+3 Eaten Alive
 4 Blood on the Snow
 1 Jugan Defends the Temple
 1 Kazandu Mammoth
@@ -193,6 +190,11 @@
 3 Grakmaw, Skyclave Ravager
 3 Daemogoth Titan
 4 Wedding Invitation
+3 Sorin the Mirthless
+3 Culling Ritual
+4 Storm the Festival
+4 Wrenn and Seven
+4 Culling Ritual
 1 Fell Stinger
 1 Tamiyo's Safekeeping
 2 Fell Stinger
@@ -227,8 +229,6 @@
 4 Skullport Merchant
 20 Snow-Covered Swamp
 21 Snow-Covered Swamp
-3 Sorin the Mirthless
-3 Culling Ritual
-4 Storm the Festival
-4 Wrenn and Seven
-4 Culling Ritual
+1 Henrika Domnathi
+2 Henrika Domnathi
+4 Hive of the Eye Tyrant

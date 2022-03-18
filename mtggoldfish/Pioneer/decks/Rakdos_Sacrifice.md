@@ -25,3 +25,22 @@
 |2 [Kroxa, Titan of Death's Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476472)|1 [Curse of Shaken Faith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534910)|2 [Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663)|1 [Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)|
 |                                                                                                           |2 [Experimental Frenzy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452849)  |                                                                                           |                                                                                         |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
+|--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
+|                    1|Fable of the Mirror-Breaker                                                                        |                    1|[Soul Transfer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548423)             |
+|                    1|[Voltage Surge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548476)           |                    1|[Voltage Surge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548476)             |
+|                    1|[The Meathook Massacre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534886)   |                    1|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)        |
+|                    1|[Bloodtithe Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541102)    |                    1|[Cemetery Gatekeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541003)       |
+|                    2|Fable of the Mirror-Breaker                                                                        |                    1|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|
+|                    2|[Bloodtithe Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541102)    |                    2|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)        |
+|                    2|[The Meathook Massacre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534886)   |                    2|[Soul Transfer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548423)             |
+|                    3|Fable of the Mirror-Breaker                                                                        |                    2|[Voltage Surge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548476)             |
+|                    3|[Bloodtithe Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541102)    |                    2|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|
+|                    4|Fable of the Mirror-Breaker                                                                        |                    3|[Voltage Surge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548476)             |
+|                    4|[Experimental Synthesizer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548440)|                    4|[Go Blank](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513549)                  |
+|                    4|[Bloodtithe Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541102)    |                    2|[Cemetery Gatekeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541003)       |
+|                    4|[Haunted Ridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535061)           |                     |                                                                                                     |
+
