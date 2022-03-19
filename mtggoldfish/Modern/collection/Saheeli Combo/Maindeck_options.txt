@@ -1,40 +1,43 @@
+2 Oath of Nissa
+1 Omnath, Locus of Creation
+2 Omnath, Locus of Creation
+4 Misty Rainforest
 1 Wrenn and Six
 2 Wrenn and Six
-2 Arid Mesa
-2 Hallowed Fountain
-3 Expressive Iteration
 1 Stomping Ground
 3 Wooded Foothills
-3 Ephemerate
-3 Omnath, Locus of Creation
-2 Plains
-1 Snow-Covered Mountain
-1 Spreading Seas
-2 Spreading Seas
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
-3 Oath of Nissa
-2 Snow-Covered Plains
+3 Ephemerate
 3 Fury
 4 Fury
 1 Blood Moon
-1 Wall of Omens
-3 Scalding Tarn
-1 Fire/Ice
-2 Fire/Ice
-3 Spreading Seas
-2 Island
-2 Blood Moon
-3 Blood Moon
+3 Omnath, Locus of Creation
 1 Chalice of the Void
 2 Chalice of the Void
+2 Blood Moon
+3 Blood Moon
 2 Sacred Foundry
 4 Expressive Iteration
+1 Spreading Seas
+2 Spreading Seas
+1 Snow-Covered Mountain
+3 Scalding Tarn
+3 Chalice of the Void
+2 Snow-Covered Plains
+3 Oath of Nissa
+1 Wall of Omens
+1 Fire/Ice
+2 Fire/Ice
+3 Arid Mesa
 1 Ketria Triome
-1 Lightning Bolt
-2 Lightning Bolt
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
+2 Island
+3 Spreading Seas
+3 Ragavan, Nimble Pilferer
+3 Plains
+2 Prismatic Vista
 3 Wrenn and Six
 2 Wall of Omens
 1 Snow-Covered Forest
@@ -42,38 +45,33 @@
 2 Snow-Covered Forest
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
-3 Chalice of the Void
-3 Arid Mesa
-3 Lightning Bolt
+1 Lightning Bolt
+2 Lightning Bolt
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Utopia Sprawl
 4 Utopia Sprawl
-1 Forest
-3 Wall of Omens
-1 Eternal Witness
 4 Scalding Tarn
-1 Otawara, Soaring City
-3 Ragavan, Nimble Pilferer
-3 Fire/Ice
-2 Prismatic Vista
-3 Plains
-1 Castle Vantress
-1 Hall of Storm Giants
-1 Sulfur Falls
-1 Glacial Fortress
-4 Lightning Bolt
-1 Boseiju, Who Endures
-4 Omnath, Locus of Creation
+1 Forest
 4 Ragavan, Nimble Pilferer
+1 Eternal Witness
+3 Wall of Omens
+1 Otawara, Soaring City
+3 Fire/Ice
+3 Lightning Bolt
+1 Boseiju, Who Endures
+1 Hall of Storm Giants
+4 Lightning Bolt
+4 Omnath, Locus of Creation
 4 Fire/Ice
 1 Tranquil Thicket
 1 On Thin Ice
+1 Castle Vantress
 4 Oath of Nissa
+1 Sulfur Falls
+1 Glacial Fortress
+4 Arid Mesa
 2 Snow-Covered Island
-1 Remand
-2 Remand
-3 Remand
 4 Spreading Seas
 1 Endurance
 1 Inspiring Vantage
@@ -82,10 +80,10 @@
 4 Ice-Fang Coatl
 4 Wooded Foothills
 1 Noble Hierarch
+1 Emrakul, the Aeons Torn
 1 Birds of Paradise
 1 Lukka, Coppercoat Outcast
 1 Ignoble Hierarch
-1 Emrakul, the Aeons Torn
 2 Stomping Ground
 2 Birds of Paradise
 2 Ignoble Hierarch
@@ -97,14 +95,29 @@
 1 Prismari Command
 1 Arboreal Grazer
 2 Arboreal Grazer
-1 Serum Visions
+1 Brought Back
+1 Showdown of the Skalds
+2 Brought Back
+2 Showdown of the Skalds
+3 Hallowed Fountain
+3 Brought Back
+3 Showdown of the Skalds
+3 Sacred Foundry
+3 Seasoned Pyromancer
+4 Brought Back
+4 Sacred Foundry
+4 Seasoned Pyromancer
+4 Hallowed Fountain
+4 Plains
 1 Magus of the Moon
 1 Skyclave Apparition
 1 Search for Glory
 1 Eladamri's Call
 1 Traverse the Ulvenwald
 2 Eladamri's Call
-4 Arid Mesa
+1 Remand
+2 Remand
+3 Remand
 3 Snow-Covered Plains
 1 Abundant Growth
 2 Abundant Growth
@@ -116,6 +129,7 @@
 2 Forest
 1 March of Otherworldly Light
 1 Kiki-Jiki, Mirror Breaker
+1 Serum Visions
 1 Force of Negation
 1 Narset, Parter of Veils
 1 Spirebluff Canal
@@ -136,11 +150,7 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-1 Path to Exile
-2 Path to Exile
 3 Island
-1 Snapcaster Mage
-2 Snapcaster Mage
 4 Remand
 4 Wall of Omens
 1 The Wandering Emperor
@@ -152,20 +162,6 @@
 2 Imperial Recruiter
 3 Imperial Recruiter
 4 Imperial Recruiter
-1 Brought Back
-1 Showdown of the Skalds
-2 Brought Back
-2 Showdown of the Skalds
-3 Brought Back
-3 Hallowed Fountain
-3 Showdown of the Skalds
-3 Sacred Foundry
-3 Seasoned Pyromancer
-4 Brought Back
-4 Sacred Foundry
-4 Seasoned Pyromancer
-4 Hallowed Fountain
-4 Plains
 1 Jace, the Mind Sculptor
 1 Nahiri, the Harbinger
 1 Arbor Elf
@@ -190,9 +186,6 @@
 1 Seachrome Coast
 2 Inspiring Vantage
 2 Seachrome Coast
-1 Spell Pierce
-2 Serum Visions
-3 Serum Visions
 3 Prismatic Vista
 4 Prismatic Vista
 1 Sokenzan, Crucible of Defiance
@@ -200,15 +193,19 @@
 2 Spirited Companion
 3 Spirited Companion
 4 Spirited Companion
+1 Path to Exile
 1 Primal Command
 1 Lightning Helix
+2 Path to Exile
 2 Lightning Helix
 3 Path to Exile
 4 Path to Exile
 4 Arboreal Grazer
+1 Polluted Delta
+1 Snapcaster Mage
 1 Supreme Verdict
 1 Counterspell
-1 Polluted Delta
+2 Snapcaster Mage
 2 Counterspell
 2 Supreme Verdict
 3 Counterspell

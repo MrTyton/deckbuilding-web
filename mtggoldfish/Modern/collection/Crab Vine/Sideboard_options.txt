@@ -1,24 +1,24 @@
+1 Abrupt Decay
+1 Fatal Push
+2 Fatal Push
+1 Nature's Claim
+2 Nature's Claim
 2 Abrupt Decay
 1 Mystic Repeal
 1 Damping Sphere
-2 Assassin's Trophy
 1 Force of Vigor
 2 Damping Sphere
-1 Darkblast
-4 Force of Negation
-1 Natural State
-2 Natural State
-1 Bontu's Last Reckoning
 1 Thoughtseize
+1 Bontu's Last Reckoning
 2 Thoughtseize
-3 Fatal Push
 3 Thoughtseize
-1 Foundation Breaker
-2 Foundation Breaker
-3 Subtlety
-1 Murderous Cut
 1 Spell Pierce
 2 Spell Pierce
+1 Foundation Breaker
+2 Foundation Breaker
+1 Murderous Cut
+3 Fatal Push
+3 Subtlety
 1 Tarmogoyf
 2 Tarmogoyf
 1 Collector Ouphe
@@ -43,6 +43,8 @@
 2 Soul-Guide Lantern
 2 Mystic Repeal
 3 Damping Sphere
+1 Leyline of Sanctity
+2 Leyline of Sanctity
 3 Nature's Claim
 1 Gemstone Caverns
 2 Gemstone Caverns
@@ -51,10 +53,8 @@
 2 Hurkyl's Recall
 2 Ancient Grudge
 1 Lightning Axe
-1 Cling to Dust
-1 Leyline of Sanctity
 1 Inquisition of Kozilek
-2 Leyline of Sanctity
+1 Cling to Dust
 1 Ashiok, Dream Render
 1 Masked Vandal
 1 Nihil Spellbomb
@@ -71,8 +71,8 @@
 1 Driven/Despair
 1 Plague Engineer
 1 Unmoored Ego
-1 Necroplasm
 1 Drown in Filth
+1 Necroplasm
 1 Creeping Chill
 2 Creeping Chill
 2 Masked Vandal

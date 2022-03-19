@@ -63,18 +63,18 @@
 1 Wood Elves
 2 Field of the Dead
 3 Verdant Catacombs
-1 Steam Vents
+1 Arid Mesa
 1 Spreading Seas
 1 Expressive Iteration
-1 Arid Mesa
+1 Steam Vents
 1 Abundant Growth
 1 Eternal Witness
 1 Road/Ruin
 2 Ketria Triome
 2 Spreading Seas
+2 Arid Mesa
 2 Expressive Iteration
 2 Road/Ruin
-2 Arid Mesa
 2 Abundant Growth
 3 Expressive Iteration
 3 Abundant Growth
@@ -93,14 +93,14 @@
 1 Solemn Simulacrum
 2 Solemn Simulacrum
 3 Arboreal Grazer
-1 Chalice of the Void
-2 Chalice of the Void
-4 Windswept Heath
 1 Azusa's Many Journeys
 2 Azusa's Many Journeys
 2 Boseiju, Who Endures
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
+1 Chalice of the Void
+2 Chalice of the Void
+4 Windswept Heath
 1 Golgari Rot Farm
 1 Snow-Covered Swamp
 1 Radiant Fountain
@@ -109,9 +109,9 @@
 1 Swamp
 1 Nurturing Peatland
 1 Ghost Quarter
+2 Snow-Covered Forest
 2 Cavern of Souls
 2 Golgari Rot Farm
-2 Snow-Covered Forest
 3 Cavern of Souls
 3 Field of the Dead
 4 Verdant Catacombs
