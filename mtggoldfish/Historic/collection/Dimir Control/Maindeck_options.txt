@@ -1,13 +1,12 @@
-3 Drowned Catacomb
-1 Fabled Passage
-1 Shadows' Verdict
-2 Fabled Passage
-4 Drowned Catacomb
-4 Yahenni's Expertise
+1 Hive of the Eye Tyrant
+1 Bloodchief's Thirst
+2 Svyelun of Sea and Sky
+4 Thoughtseize
 1 Torrential Gearhulk
 1 Censor
 2 Censor
 4 Island
+1 God-Eternal Kefnet
 2 Field of Ruin
 2 Torrential Gearhulk
 3 Shipwreck Marsh
@@ -22,6 +21,7 @@
 3 Torrential Gearhulk
 1 Eliminate
 2 Eliminate
+4 Yahenni's Expertise
 1 Inquisition of Kozilek
 1 Languish
 1 Baleful Mastery
@@ -90,14 +90,14 @@
 3 Zagoth Triome
 4 Zagoth Triome
 4 Fabled Passage
-1 Witch's Vengeance
 1 Saw It Coming
+1 Witch's Vengeance
 1 Lochmere Serpent
 1 Mazemind Tome
 2 Mazemind Tome
-2 Negate
 2 Witch's Vengeance
 2 Essence Scatter
+2 Negate
 3 Mazemind Tome
 1 Commence the Endgame
 1 Silundi Vision
@@ -107,8 +107,6 @@
 1 Grafdigger's Cage
 1 Rewind
 1 Dismiss
-1 Unexpected Conversion
-1 Sorin the Mirthless
 2 Blast Zone
 2 Vraska's Contempt
 2 Sublime Epiphany
@@ -130,8 +128,8 @@
 2 The Meathook Massacre
 3 Heartless Act
 1 Cry of the Carnarium
-1 Temple of Deceit
 1 Thief of Sanity
+1 Temple of Deceit
 2 Infernal Grasp
 2 Thief of Sanity
 2 Cry of the Carnarium
@@ -139,24 +137,24 @@
 3 Thief of Sanity
 4 Swamp
 4 Thief of Sanity
+1 Glacial Fortress
 1 Brightclimb Pathway
-1 Hengegate Pathway
 1 Dovin's Veto
 1 Wrath of God
 1 Day of Judgment
 1 Castle Ardenvale
 1 Teferi, Hero of Dominaria
 1 Godless Shrine
-1 Glacial Fortress
+1 Hengegate Pathway
 1 Hallowed Fountain
-2 Hengegate Pathway
-2 Teferi, Hero of Dominaria
-2 Hallowed Fountain
 2 Glacial Fortress
-3 Hengegate Pathway
-3 Teferi, Hero of Dominaria
-3 Hallowed Fountain
+2 Teferi, Hero of Dominaria
+2 Hengegate Pathway
+2 Hallowed Fountain
 3 Glacial Fortress
+3 Teferi, Hero of Dominaria
+3 Hengegate Pathway
+3 Hallowed Fountain
 4 Glacial Fortress
 4 Hallowed Fountain
 1 Forest

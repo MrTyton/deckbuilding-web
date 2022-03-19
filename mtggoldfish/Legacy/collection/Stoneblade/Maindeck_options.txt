@@ -1,12 +1,15 @@
 3 Daze
-2 Scalding Tarn
 1 Wasteland
-1 Umezawa's Jitte
+1 Narset, Parter of Veils
+2 Scalding Tarn
 2 Wasteland
 2 Misty Rainforest
 3 Misty Rainforest
-1 Jace, the Mind Sculptor
-1 Scrubland
+1 Baleful Strix
+2 Baleful Strix
+3 Baleful Strix
+4 Baleful Strix
+1 Umezawa's Jitte
 3 Snow-Covered Island
 1 Delver of Secrets
 2 Delver of Secrets
@@ -18,40 +21,37 @@
 1 Murktide Regent
 2 Murktide Regent
 3 Scalding Tarn
-3 Island
-3 Prismatic Vista
-4 Prismatic Vista
+1 Jace, the Mind Sculptor
+1 Marsh Flats
+1 Thoughtseize
+2 Thoughtseize
 1 Back to Basics
 4 Snow-Covered Island
-2 Force of Negation
 1 Stifle
 2 Stifle
-1 Baleful Strix
-2 Baleful Strix
-3 Baleful Strix
-4 Baleful Strix
-2 True-Name Nemesis
 4 Scalding Tarn
+3 Island
 2 Snow-Covered Plains
 1 Snow-Covered Mountain
+3 Prismatic Vista
+4 Prismatic Vista
 2 Back to Basics
-1 Spell Pierce
 4 Prismatic Ending
+2 Force of Negation
+1 Kaya, Orzhov Usurper
+1 Inquisition of Kozilek
+3 Thoughtseize
 2 Volcanic Island
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
 4 Esper Sentinel
-1 Marsh Flats
-1 Thoughtseize
-2 Thoughtseize
+2 True-Name Nemesis
+1 Spell Pierce
 1 Tropical Island
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 1 Snow-Covered Swamp
-1 Kaya, Orzhov Usurper
-1 Inquisition of Kozilek
-3 Thoughtseize
 3 Stifle
 2 Jace, the Mind Sculptor
 1 Thassa's Oracle
@@ -74,30 +74,27 @@
 3 Aether Vial
 4 Cephalid Illusionist
 1 Lion Sash
-4 Island
 1 Savannah
+1 Swamp
 2 Marsh Flats
 1 Recruiter of the Guard
 2 Recruiter of the Guard
 3 True-Name Nemesis
 3 Murktide Regent
 1 Grand Abolisher
-1 Solitude
 1 Counterbalance
 3 Jace, the Mind Sculptor
+1 Solitude
 1 Brazen Borrower
-2 Plains
-2 Narset, Parter of Veils
+4 Island
 2 Tropical Island
 3 Uro, Titan of Nature's Wrath
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 1 Sylvan Library
 1 Plateau
-1 Swamp
 1 Expressive Iteration
 1 Mystic Sanctuary
-1 Shark Typhoon
 4 Stifle
 4 Nomads en-Kor
 5 Snow-Covered Island
@@ -105,28 +102,28 @@
 1 Eiganjo, Seat of the Empire
 1 Dress Down
 1 Timeless Dragon
+2 Plains
 1 Preordain
 2 Preordain
-1 Mountain
 2 Cavern of Souls
 1 Hullbreacher
 1 Ice-Fang Coatl
 2 Sylvan Library
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
-5 Island
+2 Narset, Parter of Veils
 4 Misty Rainforest
 1 Endurance
 2 Endurance
 3 Tropical Island
 1 Fire/Ice
-1 Flusterstorm
+1 Sorin the Mirthless
 1 The Reality Chip
 1 Kaito Shizuki
 1 Badlands
 1 Hymn to Tourach
 1 Hidetsugu Consumes All
-1 Sorin the Mirthless
+1 Shark Typhoon
 2 Hymn to Tourach
 2 Expressive Iteration
 2 Hidetsugu Consumes All
@@ -151,12 +148,11 @@
 3 Prophetic Prism
 4 Recruiter of the Guard
 1 Supreme Verdict
+1 Mountain
 1 Life from the Loam
 1 Monastery Mentor
 2 Monastery Mentor
 2 Grand Abolisher
-1 Path to Exile
-2 Shark Typhoon
 1 Windswept Heath
 1 Forest
 2 Forest
@@ -166,11 +162,13 @@
 2 Boseiju, Who Endures
 3 Hullbreacher
 4 Tropical Island
+1 Flusterstorm
 2 Brazen Borrower
 2 Flusterstorm
 2 Fire/Ice
 3 Brazen Borrower
 4 Brazen Borrower
+5 Island
 6 Island
 1 Mother of Runes
 2 Mother of Runes

@@ -7,8 +7,8 @@
 3 The Meathook Massacre
 2 Hive of the Eye Tyrant
 1 March of Otherworldly Light
-1 Deadly Dispute
 1 Shambling Ghast
+1 Deadly Dispute
 2 Deadly Dispute
 1 Otawara, Soaring City
 2 Negate
@@ -170,17 +170,17 @@
 2 Niko Aris
 2 Sunset Revelry
 3 Sunset Revelry
-2 Welcoming Vampire
-3 Welcoming Vampire
 3 Kotose, the Silent Spider
 3 Fateful Absence
+2 Welcoming Vampire
+3 Welcoming Vampire
 1 Dismal Backwater
 1 Tranquil Cove
 2 Dismal Backwater
 3 March of Wretched Sorrow
 1 The Restoration of Eiganjo
-2 Witness the Future
 2 The Restoration of Eiganjo
+2 Witness the Future
 3 Plains
 1 Wash Away
 2 Wash Away
@@ -199,6 +199,13 @@
 1 Study Break
 2 Study Break
 4 Fading Hope
+1 Portable Hole
+1 Dissipate
+2 Otawara, Soaring City
+2 Portable Hole
+2 Dissipate
+3 Dissipate
+4 Dissipate
 1 Elite Spellbinder
 1 Snow-Covered Plains
 2 Elite Spellbinder
@@ -207,12 +214,5 @@
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 6 Snow-Covered Plains
-7 Snow-Covered Plains
 7 Swamp
-1 Portable Hole
-1 Dissipate
-2 Otawara, Soaring City
-2 Portable Hole
-2 Dissipate
-3 Dissipate
-4 Dissipate
+7 Snow-Covered Plains

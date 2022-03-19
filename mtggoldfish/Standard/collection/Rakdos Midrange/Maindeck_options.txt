@@ -84,14 +84,14 @@
 2 Bloodfell Caves
 3 Bloodfell Caves
 4 Bloodfell Caves
-1 Crippling Fear
 1 Invoke Despair
 1 Soul Transfer
+1 Crippling Fear
 2 Invoke Despair
 2 Hagra Mauling
+2 Soul Transfer
 2 The Celestus
 2 Crippling Fear
-2 Soul Transfer
 3 Invoke Despair
 3 Reckoner Bankbuster
 4 Reckoner Bankbuster
@@ -137,21 +137,21 @@
 1 Vampire Socialite
 2 Vampire Socialite
 3 Vampire Socialite
+1 Snow-Covered Mountain
 1 Hero's Downfall
 1 Snow-Covered Swamp
 1 Shadows' Verdict
-1 Snow-Covered Mountain
 1 Blood on the Snow
+2 Snow-Covered Mountain
 2 Snow-Covered Swamp
 2 Hero's Downfall
-2 Snow-Covered Mountain
 2 Shadows' Verdict
 2 Blood on the Snow
-3 Snow-Covered Swamp
-3 Hero's Downfall
 3 Snow-Covered Mountain
-4 Snow-Covered Swamp
+3 Hero's Downfall
+3 Snow-Covered Swamp
 4 Snow-Covered Mountain
+4 Snow-Covered Swamp
 5 Snow-Covered Mountain
 5 Snow-Covered Swamp
 6 Snow-Covered Mountain
@@ -171,8 +171,8 @@
 1 Ebondeath, Dracolich
 1 Smoldering Egg
 2 Smoldering Egg
-3 Professor Onyx
 3 Smoldering Egg
+3 Professor Onyx
 1 Creepy Puppeteer
 2 Creepy Puppeteer
 3 Creepy Puppeteer
@@ -186,17 +186,17 @@
 3 Skullport Merchant
 4 Eyetwitch
 4 Skullport Merchant
-1 Westgate Regent
+1 Lizard Blades
 1 Fell Stinger
+1 Westgate Regent
 1 Hall of Oracles
 1 Varragoth, Bloodsky Sire
 1 Vorpal Sword
-1 Lizard Blades
 1 Undying Malice
-2 Westgate Regent
-2 Fell Stinger
-2 Go Blank
 2 Lizard Blades
+2 Fell Stinger
+2 Westgate Regent
+2 Go Blank
 2 Undying Malice
 2 Varragoth, Bloodsky Sire
 2 Hall of Oracles
@@ -207,26 +207,26 @@
 3 Eaten Alive
 3 Undying Malice
 4 Varragoth, Bloodsky Sire
-1 Malakir Rebirth
 1 Moonveil Regent
+1 Malakir Rebirth
 2 Moonveil Regent
 2 Malakir Rebirth
 3 Moonveil Regent
 3 Crush the Weak
 4 Moonveil Regent
 4 Crush the Weak
-1 Volatile Arsonist
+1 Shattered Sanctum
 1 Nullpriest of Oblivion
+1 Volatile Arsonist
 1 Needleverge Pathway
 1 Brightclimb Pathway
 1 Edgar, Charmed Groom
-1 Shattered Sanctum
 1 Sundown Pass
 1 Voldaren Bloodcaster
 2 Edgar, Charmed Groom
-2 Volatile Arsonist
 2 Power Word Kill
 2 Voldaren Bloodcaster
+2 Volatile Arsonist
 2 Needleverge Pathway
 2 Brightclimb Pathway
 3 Nighthawk Scavenger
@@ -239,8 +239,8 @@
 4 Brightclimb Pathway
 4 Needleverge Pathway
 4 Voldaren Bloodcaster
-1 Orcus, Prince of Undeath
 1 Kazuul's Fury
+1 Orcus, Prince of Undeath
 1 Scourge of the Skyclaves
 2 Kazuul's Fury
 2 Orcus, Prince of Undeath
@@ -250,11 +250,11 @@
 3 Scourge of the Skyclaves
 4 Shatterskull Smashing
 4 Kazuul's Fury
-1 Falkenrath Pit Fighter
 1 Play with Fire
+1 Falkenrath Pit Fighter
 1 Flunk
-2 Falkenrath Pit Fighter
 2 Play with Fire
+2 Falkenrath Pit Fighter
 2 Flunk
 3 Falkenrath Pit Fighter
 4 Falkenrath Pit Fighter
