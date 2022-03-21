@@ -1,7 +1,7 @@
-1 Carpet of Flowers
-2 Carpet of Flowers
-1 Surgical Extraction
-2 Surgical Extraction
+1 Thoughtseize
+1 Reclamation Sage
+2 Thoughtseize
+1 Brazen Borrower
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
@@ -12,12 +12,12 @@
 1 Red Elemental Blast
 2 Red Elemental Blast
 2 Magus of the Moon
-3 Mindbreak Trap
 3 Magus of the Moon
+3 Mindbreak Trap
 3 Red Elemental Blast
 1 Pernicious Deed
-1 Liquimetal Coating
 1 Mycosynth Lattice
+1 Liquimetal Coating
 1 Lantern of the Lost
 1 Skysovereign, Consul Flagship
 1 Trinisphere
@@ -27,7 +27,9 @@
 1 Toxic Deluge
 1 Ensnaring Bridge
 3 Veil of Summer
+1 Run Afoul
 2 Plague Engineer
+1 Abrupt Decay
 1 Chandra, Awakened Inferno
 1 Bojuka Bog
 1 Witherbloom Apprentice
@@ -55,7 +57,6 @@
 1 Nihil Spellbomb
 1 Birthing Pod
 2 Sudden Edict
-1 Run Afoul
 1 Stingerfling Spider
 1 Masked Vandal
 2 Masked Vandal
@@ -77,8 +78,10 @@
 1 Wishclaw Talisman
 1 Walking Ballista
 3 Endurance
+1 Bloodchief's Thirst
+3 Force of Vigor
+3 Carpet of Flowers
 4 Magus of the Moon
-1 Abrupt Decay
 1 Faerie Macabre
 1 Shifting Ceratops
 1 Serenity

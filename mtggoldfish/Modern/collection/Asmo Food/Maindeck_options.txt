@@ -136,8 +136,8 @@
 1 Zagoth Triome
 1 Ketria Triome
 1 Chalice of the Void
-1 Boseiju, Who Endures
 1 Vraska, Golgari Queen
+1 Boseiju, Who Endures
 1 Prismatic Vista
 2 Prismatic Vista
 2 Silent Clearing
@@ -171,13 +171,13 @@
 4 Metallic Rebuke
 4 Galvanic Blast
 4 Silverbluff Bridge
-1 Unholy Heat
 1 Prismatic Ending
 1 Tarmogoyf
 1 Dragon's Rage Channeler
-2 Unholy Heat
+1 Unholy Heat
 2 Tarmogoyf
 2 Mountain
+2 Unholy Heat
 2 Dragon's Rage Channeler
 2 Prismatic Ending
 3 Unholy Heat
@@ -220,10 +220,10 @@
 2 Korvold, Fae-Cursed King
 3 Mayhem Devil
 4 Mayhem Devil
-1 Fiery Islet
 1 Engineered Explosives
 1 Pyrite Spellbomb
 1 Watery Grave
+1 Fiery Islet
 2 Scalding Tarn
 2 Fiery Islet
 2 Steam Vents
@@ -231,11 +231,6 @@
 3 Scalding Tarn
 4 Scalding Tarn
 4 Feasting Troll King
-1 Rite of Oblivion
-1 Chromatic Star
-4 Swamp
-5 Swamp
-6 Snow-Covered Swamp
 1 Can't Stay Away
 1 Undead Butler
 1 Stitcher's Supplier
@@ -254,3 +249,8 @@
 4 Parhelion II
 4 Unearth
 4 Deadly Dispute
+6 Snow-Covered Swamp
+1 Rite of Oblivion
+1 Chromatic Star
+4 Swamp
+5 Swamp

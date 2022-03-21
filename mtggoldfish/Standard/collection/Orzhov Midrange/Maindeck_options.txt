@@ -37,19 +37,19 @@
 1 Bloodchief's Thirst
 2 Professor of Symbology
 1 Roadside Reliquary
-1 Crawling Barrens
-1 Village Rites
-1 Skullport Merchant
-1 Blood on the Snow
 1 Snowfield Sinkhole
+1 Blood on the Snow
 1 Snow-Covered Swamp
+1 Village Rites
+1 Crawling Barrens
+1 Skullport Merchant
+2 Blood on the Snow
+2 Snowfield Sinkhole
+2 Snow-Covered Swamp
 2 Village Rites
 2 Kaya the Inexorable
-2 Snow-Covered Swamp
-2 Snowfield Sinkhole
-2 Blood on the Snow
-3 Snowfield Sinkhole
 3 Snow-Covered Swamp
+3 Snowfield Sinkhole
 4 Snow-Covered Swamp
 4 Snowfield Sinkhole
 3 Rite of Oblivion
@@ -60,8 +60,8 @@
 1 Farewell
 2 Farewell
 6 Plains
-7 Plains
 7 Swamp
+7 Plains
 1 Dockside Chef
 1 Novice Occultist
 2 Dockside Chef
@@ -95,11 +95,11 @@
 2 Takenuma, Abandoned Mire
 1 Soul Shatter
 2 Soul Shatter
-1 Humiliate
 1 Concealing Curtains
+1 Humiliate
 2 The Restoration of Eiganjo
-2 Humiliate
 2 Concealing Curtains
+2 Humiliate
 3 The Restoration of Eiganjo
 2 Ao, the Dawn Sky
 3 Spirited Companion
@@ -109,22 +109,29 @@
 4 Sorin the Mirthless
 1 Rune of Sustenance
 1 Nighthawk Scavenger
-1 Nullpriest of Oblivion
 1 Rally the Ranks
-1 Faithbound Judge
 1 Katilda, Dawnhart Martyr
+1 Faithbound Judge
 1 Attended Healer
+1 Nullpriest of Oblivion
 2 Rune of Sustenance
 2 Nighthawk Scavenger
-2 Nullpriest of Oblivion
+2 Faithbound Judge
 2 Rally the Ranks
 2 Katilda, Dawnhart Martyr
-2 Faithbound Judge
+2 Nullpriest of Oblivion
 2 Attended Healer
 3 Rune of Sustenance
 3 Attended Healer
 4 Shineshadow Snarl
 4 Scoured Barrens
+1 Snow-Covered Plains
+1 Professor Onyx
+2 Hero's Downfall
+2 Crawling Barrens
+3 Infernal Grasp
+5 Snow-Covered Swamp
+6 Snow-Covered Swamp
 1 Valki, God of Lies
 1 Needleverge Pathway
 1 Adeline, Resplendent Cathar
@@ -137,10 +144,3 @@
 3 Blightstep Pathway
 4 Needleverge Pathway
 4 Blightstep Pathway
-1 Snow-Covered Plains
-1 Professor Onyx
-2 Crawling Barrens
-2 Hero's Downfall
-3 Infernal Grasp
-5 Snow-Covered Swamp
-6 Snow-Covered Swamp

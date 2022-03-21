@@ -55,8 +55,8 @@
 2 Path to Exile
 1 Fatal Push
 1 Kaya's Guile
-2 Kaya's Guile
 2 Fatal Push
+2 Kaya's Guile
 2 Watery Grave
 1 Marsh Flats
 1 Memory Deluge
@@ -65,8 +65,8 @@
 1 Faithful Mending
 3 Lightning Helix
 3 Celestial Colonnade
-1 Swamp
 1 Godless Shrine
+1 Swamp
 2 Marsh Flats
 3 Marsh Flats
 4 Marsh Flats
@@ -78,17 +78,17 @@
 1 Concealed Courtyard
 1 Thoughtseize
 1 Inquisition of Kozilek
-2 Godless Shrine
-2 Concealed Courtyard
-2 Thoughtseize
 2 Swamp
+2 Concealed Courtyard
+2 Godless Shrine
+2 Thoughtseize
 2 Inquisition of Kozilek
 3 Concealed Courtyard
 3 Inquisition of Kozilek
 4 Inquisition of Kozilek
 1 Creeping Tar Pit
-3 Plains
 3 Field of Ruin
+3 Plains
 4 Field of Ruin
 1 Shark Typhoon
 2 Memory Deluge
@@ -169,17 +169,17 @@
 1 Spell Snare
 2 Shark Typhoon
 1 Darkslick Shores
-1 Lavinia, Azorius Renegade
-1 Dress Down
-1 Lingering Souls
 1 Lion Sash
+1 Lavinia, Azorius Renegade
+1 Lingering Souls
+1 Dress Down
 1 Esper Charm
 2 Darkslick Shores
 2 Lingering Souls
 1 Fact or Fiction
 2 Cryptic Command
-1 Infernal Grasp
 1 Vindicate
+1 Infernal Grasp
 1 Drown in the Loch
 1 Shambling Vent
 2 Drown in the Loch
@@ -215,9 +215,15 @@
 1 Isolate
 2 Snow-Covered Forest
 4 Ice-Fang Coatl
+2 March of Otherworldly Light
+3 March of Otherworldly Light
+4 Supreme Verdict
+4 March of Otherworldly Light
+5 Plains
+5 Island
 1 Cavern of Souls
-1 Invisible Stalker
 1 Sword of Light and Shadow
+1 Invisible Stalker
 1 Shadowspear
 1 Fervent Champion
 2 Sacred Foundry
@@ -234,9 +240,3 @@
 4 Geist of Saint Traft
 4 Fervent Champion
 4 Cavern of Souls
-2 March of Otherworldly Light
-3 March of Otherworldly Light
-4 Supreme Verdict
-4 March of Otherworldly Light
-5 Island
-5 Plains

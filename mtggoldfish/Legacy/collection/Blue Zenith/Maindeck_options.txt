@@ -1,23 +1,23 @@
 1 Scavenging Ooze
-2 Snow-Covered Forest
 1 Teferi, Time Raveler
-3 Force of Negation
+2 Snow-Covered Forest
 2 Flooded Strand
+3 Force of Negation
+3 Flooded Strand
 1 Noble Hierarch
-1 Path to Exile
 1 Carpet of Flowers
 1 Omnath, Locus of Creation
-1 Hullbreacher
 2 Noble Hierarch
-3 Flooded Strand
-1 Ephemerate
+1 Island
+1 Hullbreacher
 1 Eternal Witness
 1 Piracy Charm
+1 Ephemerate
 1 Spellseeker
 1 Orim's Chant
-2 Ephemerate
 2 Spellseeker
 2 Carpet of Flowers
+2 Ephemerate
 2 Savannah
 2 Eternal Witness
 3 Ephemerate
@@ -25,21 +25,21 @@
 3 Spellseeker
 4 Spellseeker
 1 Snapcaster Mage
-1 Island
 2 Preordain
+1 Path to Exile
 1 Narset, Parter of Veils
 1 Taiga
+1 Flusterstorm
+3 Endurance
 1 Verdant Catacombs
 1 March of Otherworldly Light
 1 Tireless Tracker
 1 Outland Liberator
 1 Collector Ouphe
-1 Flusterstorm
 1 Snow-Covered Mountain
 1 Expressive Iteration
 1 Volcanic Island
 2 Teferi, Time Raveler
-3 Endurance
 1 Renegade Rallier
 1 Opposition Agent
 1 Chord of Calling
@@ -67,6 +67,12 @@
 4 Birds of Paradise
 4 Knight of the Reliquary
 4 Urza's Saga
+1 Underground Sea
+1 Intuition
+1 Boseiju, Who Endures
+1 Yavimaya, Cradle of Growth
+2 Intuition
+4 Flooded Strand
 1 Shorikai, Genesis Engine
 1 Questing Beast
 1 Endure
@@ -76,8 +82,8 @@
 1 Devoted Druid
 1 Spell Pierce
 1 Mystical Dispute
-1 Thrasios, Triton Hero
 1 Karn, the Great Creator
+1 Thrasios, Triton Hero
 2 Devoted Druid
 2 Swift Reconfiguration
 2 Tundra

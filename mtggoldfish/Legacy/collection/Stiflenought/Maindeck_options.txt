@@ -7,23 +7,12 @@
 3 Tropical Island
 1 Urza's Saga
 3 Uro, Titan of Nature's Wrath
+4 Polluted Delta
+3 Flooded Strand
+4 Flooded Strand
 1 Scroll of Fate
 1 Mountain
 2 Island
-2 Urza's Saga
-3 Urza's Saga
-1 Fatal Push
-2 Fatal Push
-1 Bayou
-1 Abrupt Decay
-4 Polluted Delta
-4 Uro, Titan of Nature's Wrath
-2 Scroll of Fate
-1 Expressive Iteration
-2 Expressive Iteration
-3 Flooded Strand
-4 Flooded Strand
-1 Snow-Covered Forest
 1 Prismatic Ending
 1 Tundra
 1 Swords to Plowshares
@@ -33,15 +22,27 @@
 3 Prismatic Ending
 3 Swords to Plowshares
 4 Swords to Plowshares
+1 Delver of Secrets
+2 Delver of Secrets
+3 Delver of Secrets
+4 Uro, Titan of Nature's Wrath
+1 Fatal Push
+2 Fatal Push
+2 Urza's Saga
+3 Urza's Saga
+1 Bayou
+1 Abrupt Decay
+1 Expressive Iteration
+2 Expressive Iteration
+2 Scroll of Fate
+1 Snow-Covered Forest
 1 Stubborn Denial
+4 Delver of Secrets
 1 Brazen Borrower
 1 Dragon's Rage Channeler
 2 Dragon's Rage Channeler
 3 Dragon's Rage Channeler
 4 Dragon's Rage Channeler
-1 Delver of Secrets
-2 Delver of Secrets
-3 Delver of Secrets
 1 Force of Negation
 2 Abrupt Decay
 1 Assassin's Trophy
@@ -54,8 +55,8 @@
 1 Omniscience
 1 Soul-Guide Lantern
 1 Elvish Reclaimer
-1 Griselbrand
 1 Wooded Foothills
+1 Griselbrand
 1 Mosswort Bridge
 2 Show and Tell
 2 Omniscience
@@ -80,7 +81,6 @@
 2 Snow-Covered Island
 3 Expressive Iteration
 4 Expressive Iteration
-4 Delver of Secrets
 1 Karakas
 1 Narset, Parter of Veils
 1 Spell Pierce
@@ -141,6 +141,7 @@
 1 Badlands
 2 Kroxa, Titan of Death's Hunger
 3 Kroxa, Titan of Death's Hunger
+3 Tundra
 1 Tarmogoyf
 1 Lazav, the Multifarious
 2 Tarmogoyf

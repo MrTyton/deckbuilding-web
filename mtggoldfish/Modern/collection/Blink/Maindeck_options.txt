@@ -70,9 +70,9 @@
 4 Spell Queller
 5 Island
 1 Forest
-1 Sword of Fire and Ice
 1 Stoneforge Mystic
 1 Kaldra Compleat
+1 Sword of Fire and Ice
 1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
@@ -81,19 +81,19 @@
 1 Charming Prince
 1 Eiganjo, Seat of the Empire
 4 Stoneforge Mystic
-1 Takenuma, Abandoned Mire
-1 Godless Shrine
 1 Agadeem's Awakening
+1 Takenuma, Abandoned Mire
 1 Grief
+1 Godless Shrine
+1 Malakir Rebirth
 1 Undying Evil
 1 Swamp
-1 Malakir Rebirth
 2 Touch the Spirit Realm
 2 Agadeem's Awakening
 2 Grief
-2 Godless Shrine
 2 Malakir Rebirth
 2 Undying Evil
+2 Godless Shrine
 3 Grief
 3 Touch the Spirit Realm
 3 Malakir Rebirth
@@ -104,21 +104,21 @@
 2 Plains
 2 Charming Prince
 3 Plains
+1 Silent Clearing
 1 Shriekmaw
 1 Urborg, Tomb of Yawgmoth
-1 Blade of the Oni
 1 Persist
 1 Emeria's Call
-1 Silent Clearing
+1 Blade of the Oni
 2 Silent Clearing
 2 Persist
-3 Silent Clearing
 3 Agadeem's Awakening
+3 Silent Clearing
 3 Godless Shrine
 3 Persist
-4 Silent Clearing
 4 Plains
 4 Touch the Spirit Realm
+4 Silent Clearing
 4 Godless Shrine
 3 Fury
 1 Jace, the Mind Sculptor
@@ -142,8 +142,8 @@
 1 Seasoned Pyromancer
 1 Meddling Mage
 1 Fiery Islet
-2 Arid Mesa
 2 Seasoned Pyromancer
+2 Arid Mesa
 3 Seasoned Pyromancer
 1 Snapcaster Mage
 1 Lumbering Falls
@@ -192,25 +192,25 @@
 1 Ramunap Excavator
 1 Collected Company
 2 Forest
-2 Temple Garden
+2 Sacred Foundry
 2 Skyclave Apparition
 2 Imperial Recruiter
 2 Flickerwisp
 2 Noble Hierarch
-2 Sacred Foundry
 2 Aether Vial
 2 Knight of Autumn
 2 Venerable Warsinger
 2 Archon of Emeria
 2 Collected Company
-3 Forest
+2 Temple Garden
 3 Sacred Foundry
 3 Skyclave Apparition
+3 Forest
 3 Imperial Recruiter
 3 Noble Hierarch
-3 Temple Garden
 3 Aether Vial
 3 Collected Company
+3 Temple Garden
 4 Sacred Foundry
 4 Imperial Recruiter
 4 Noble Hierarch
@@ -219,24 +219,24 @@
 4 Collected Company
 1 Abrupt Decay
 1 Grist, the Hunger Tide
-1 Concealed Courtyard
-1 Marsh Flats
+1 Verdant Catacombs
 1 Indatha Triome
+1 Marsh Flats
 1 Blooming Marsh
 1 Lithoform Blight
 1 Fatal Push
 1 Razorverge Thicket
 1 Tarmogoyf
-1 Verdant Catacombs
+1 Concealed Courtyard
 1 Overgrown Tomb
-2 Marsh Flats
-2 Concealed Courtyard
-2 Lithoform Blight
 2 Verdant Catacombs
+2 Marsh Flats
+2 Lithoform Blight
 2 Tarmogoyf
 2 Razorverge Thicket
-3 Concealed Courtyard
+2 Concealed Courtyard
 3 Marsh Flats
+3 Concealed Courtyard
 3 Tarmogoyf
 4 Eladamri's Call
 4 Marsh Flats
