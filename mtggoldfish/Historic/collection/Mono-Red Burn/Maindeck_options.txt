@@ -45,6 +45,7 @@
 4 Atarka's Command
 1 Forgotten Cave
 2 Forgotten Cave
+4 Goblin Chainwhirler
 1 Fervent Champion
 2 Fervent Champion
 3 Fervent Champion
@@ -63,16 +64,15 @@
 3 Burning-Tree Emissary
 4 Shatterskull Smashing
 4 Burning-Tree Emissary
-4 Goblin Chainwhirler
+2 Spikefield Hazard
+3 Spikefield Hazard
+4 Spikefield Hazard
+4 Dragon's Rage Channeler
 1 Chandra's Incinerator
 2 Grim Lavamancer
 2 Chandra's Incinerator
 3 Chandra's Incinerator
 4 Chandra's Incinerator
-2 Spikefield Hazard
-3 Spikefield Hazard
-4 Dragon's Rage Channeler
-4 Spikefield Hazard
 1 Roil Eruption
 1 Slaying Fire
 1 The Flame of Keld
@@ -89,30 +89,30 @@
 1 Temple Garden
 1 Rockfall Vale
 1 Needleverge Pathway
+1 Clever Lumimancer
 1 Klothys, God of Destiny
 1 Lightning Helix
 1 Inspiring Vantage
 1 Sacred Foundry
-1 Clever Lumimancer
 2 Sacred Foundry
 2 Temple Garden
 2 Needleverge Pathway
+2 Clever Lumimancer
 2 Klothys, God of Destiny
 2 Inspiring Vantage
 2 Rockfall Vale
-2 Clever Lumimancer
 2 Lightning Helix
 3 Stomping Ground
 3 Temple Garden
 3 Sacred Foundry
-3 Inspiring Vantage
 3 Clever Lumimancer
+3 Inspiring Vantage
 3 Lightning Helix
 4 Stomping Ground
 4 Temple Garden
 4 Sacred Foundry
-4 Lightning Helix
 4 Clever Lumimancer
+4 Lightning Helix
 4 Inspiring Vantage
 1 Torbran, Thane of Red Fell
 1 Dragonkin Berserker
@@ -125,16 +125,16 @@
 2 Chandra, Torch of Defiance
 2 Cemetery Gatekeeper
 2 Roiling Vortex
-3 Torbran, Thane of Red Fell
 3 Cemetery Gatekeeper
+3 Torbran, Thane of Red Fell
 3 Rampaging Ferocidon
-4 Rampaging Ferocidon
 4 Cemetery Gatekeeper
+4 Rampaging Ferocidon
 17 Mountain
 1 Dreadhorde Arcanist
+1 Experimental Frenzy
 1 Cragcrown Pathway
 1 Risk Factor
-1 Experimental Frenzy
 1 Temple of Abandon
 1 Rootbound Crag
 2 Dreadhorde Arcanist

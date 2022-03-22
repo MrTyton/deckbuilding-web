@@ -1,8 +1,8 @@
 4 Duress
 2 Bloodchief's Thirst
 1 Soul Shatter
-1 Return to Nature
 2 Check for Traps
+1 Return to Nature
 3 Check for Traps
 2 Soul Shatter
 1 Glorious Sunrise
@@ -10,10 +10,10 @@
 1 Containment Breach
 1 Environmental Sciences
 1 Outland Liberator
-1 Graveyard Trespasser
-2 Graveyard Trespasser
 1 Confront the Past
 2 Mascot Exhibition
+1 Graveyard Trespasser
+2 Graveyard Trespasser
 2 Return to Nature
 1 Necrotic Fumes
 2 Outland Liberator
@@ -21,13 +21,13 @@
 1 Parasitic Grasp
 2 Parasitic Grasp
 1 Introduction to Prophecy
-3 Graveyard Trespasser
 1 Reckoner Bankbuster
 2 Containment Breach
+3 Graveyard Trespasser
+1 Lolth, Spider Queen
 4 Go Blank
 1 Introduction to Annihilation
 1 Sorin the Mirthless
-1 Lolth, Spider Queen
 2 Reckoner Bankbuster
 1 Bloodvial Purveyor
 2 Bloodvial Purveyor
@@ -41,9 +41,6 @@
 1 Ray of Enfeeblement
 2 Lolth, Spider Queen
 1 Tamiyo's Safekeeping
-1 Power Word Kill
-2 Power Word Kill
-1 Shadows' Verdict
 1 Westgate Regent
 1 Season of Renewal
 2 Soul Transfer
@@ -57,6 +54,16 @@
 2 Deadly Brew
 1 Briarbridge Tracker
 2 Briarbridge Tracker
+1 Valki, God of Lies
+1 Professor Onyx
+1 Debt to the Kami
+1 Wrenn and Seven
+1 Shigeki, Jukai Visionary
+1 Dryad's Revival
+1 Fade into Antiquity
+2 Valki, God of Lies
+2 Fade into Antiquity
+2 Dryad's Revival
 1 Eaten Alive
 2 Eaten Alive
 2 Ray of Enfeeblement
@@ -71,7 +78,9 @@
 2 Burning-Rune Demon
 3 Henrika Domnathi
 3 Baleful Mastery
+1 Power Word Kill
 2 Path of Peril
+2 Power Word Kill
 2 Environmental Sciences
 3 Path of Peril
 1 March of Wretched Sorrow
@@ -79,19 +88,11 @@
 3 Soul Shatter
 3 The Meathook Massacre
 1 Avabruck Caretaker
+1 Shadows' Verdict
 2 Tamiyo's Safekeeping
 2 Avabruck Caretaker
 3 Tamiyo's Safekeeping
 3 Avabruck Caretaker
-1 Concealing Curtains
-1 Nighthawk Scavenger
-1 Skeletal Swarming
-1 Skyclave Shade
-2 Concealing Curtains
-2 Nighthawk Scavenger
-2 Skeletal Swarming
-2 Shadows' Verdict
-4 Graveyard Trespasser
 2 Pest Summoning
 3 Containment Breach
 4 Containment Breach
