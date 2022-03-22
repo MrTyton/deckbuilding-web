@@ -28,11 +28,11 @@
 3 Infernal Grasp
 3 Felidar Retreat
 1 Soul Shatter
-1 Snow-Covered Swamp
 1 Snow-Covered Plains
 1 Snow-Covered Forest
-2 Snow-Covered Swamp
+1 Snow-Covered Swamp
 2 Snow-Covered Forest
+2 Snow-Covered Swamp
 2 Swamp
 4 Esika's Chariot
 2 Hive of the Eye Tyrant
@@ -50,8 +50,8 @@
 2 Shattered Sanctum
 1 Tovolar's Huntmaster
 1 Path to the Festival
-2 Tovolar's Huntmaster
 2 Path to the Festival
+2 Tovolar's Huntmaster
 3 Woodland Chasm
 3 Culling Ritual
 3 Swamp
@@ -61,8 +61,8 @@
 1 Necroblossom Snarl
 1 Old Rutstein
 2 Old Rutstein
-1 Valki, God of Lies
 1 Highland Forest
+1 Valki, God of Lies
 2 Valki, God of Lies
 1 Fateful Absence
 2 Fateful Absence
@@ -95,9 +95,9 @@
 1 Ashaya, Soul of the Wild
 2 Ashaya, Soul of the Wild
 1 Skeletal Swarming
-2 Power Word Kill
 2 Skeletal Swarming
 2 Toski, Bearer of Secrets
+2 Power Word Kill
 3 Bloodchief's Thirst
 1 Doomskar
 2 Doomskar
@@ -107,51 +107,54 @@
 4 Woodland Chasm
 3 Snow-Covered Swamp
 4 Snow-Covered Forest
-1 Duress
-1 Field of Ruin
-1 Field Trip
-1 Harness Infinity
-1 Hunt for Specimens
-2 Duress
-2 Hunt for Specimens
-2 Field Trip
-3 Duress
 1 Tainted Adversary
 2 Tainted Adversary
 3 Tainted Adversary
+1 Graveyard Trespasser
+1 Westgate Regent
 1 Nighthawk Scavenger
+1 Jadar, Ghoulcaller of Nephalia
+1 Eradicator Valkyrie
 1 Skyclave Shade
 1 Witherbloom Command
-1 Jadar, Ghoulcaller of Nephalia
-1 Westgate Regent
-1 Graveyard Trespasser
 1 Gisa, Glorious Resurrector
-1 Eradicator Valkyrie
+2 Graveyard Trespasser
+2 Westgate Regent
+2 Eradicator Valkyrie
 2 Soul Shatter
 2 Skyclave Shade
-2 Westgate Regent
 2 Jadar, Ghoulcaller of Nephalia
-2 Graveyard Trespasser
 2 Gisa, Glorious Resurrector
-2 Eradicator Valkyrie
 3 Hive of the Eye Tyrant
+1 Hunt for Specimens
+1 Field Trip
+1 Duress
+1 Field of Ruin
+1 Harness Infinity
+2 Hunt for Specimens
+2 Field Trip
+2 Duress
+3 Duress
 2 Kaya the Inexorable
 3 Yasharn, Implacable Earth
 3 Valki, God of Lies
 3 Fateful Absence
 4 Fateful Absence
-1 Snowfield Sinkhole
-1 Crawling Barrens
-1 Go Blank
-1 Tergrid, God of Fright
-2 Snowfield Sinkhole
-2 Crawling Barrens
-2 Go Blank
-2 Tergrid, God of Fright
-3 Ranger Class
-3 Snowfield Sinkhole
-3 Power Word Kill
-4 Bloodchief's Thirst
+1 Boseiju, Who Endures
+1 Wedding Announcement
+1 Takenuma, Abandoned Mire
+1 Glorious Sunrise
+1 Legion Angel
+1 Reckoner Bankbuster
+1 Eiganjo, Seat of the Empire
+1 Greasefang, Okiba Boss
+1 Reidane, God of the Worthy
+2 Wedding Announcement
+2 Greasefang, Okiba Boss
+3 Wedding Announcement
+3 Vanishing Verse
+4 Vanishing Verse
+4 Wedding Announcement
 1 Brutal Cathar
 1 Portable Hole
 1 Elite Spellbinder
@@ -160,48 +163,45 @@
 3 Brutal Cathar
 3 Elite Spellbinder
 4 Brutal Cathar
+1 Tergrid, God of Fright
+1 Snowfield Sinkhole
+1 Crawling Barrens
+1 Go Blank
+2 Snowfield Sinkhole
+2 Tergrid, God of Fright
+2 Crawling Barrens
+2 Go Blank
+3 Snowfield Sinkhole
+3 Power Word Kill
+3 Ranger Class
+4 Bloodchief's Thirst
 1 Reclusive Taxidermist
 2 Baleful Mastery
 2 Reclusive Taxidermist
 3 Briarbridge Tracker
 3 Reclusive Taxidermist
 4 Reclusive Taxidermist
-1 Welcoming Vampire
 1 Cemetery Protector
-1 Toxrill, the Corrosive
 1 Henrika Domnathi
+1 Toxrill, the Corrosive
+1 Welcoming Vampire
 1 Diregraf Rebirth
 2 Toxrill, the Corrosive
 2 Welcoming Vampire
 3 Old Rutstein
 4 Deathcap Glade
 4 Shattered Sanctum
-1 Boseiju, Who Endures
-1 Wedding Announcement
-1 Glorious Sunrise
-1 Reckoner Bankbuster
-1 Legion Angel
-1 Takenuma, Abandoned Mire
-1 Eiganjo, Seat of the Empire
-1 Greasefang, Okiba Boss
-1 Reidane, God of the Worthy
-2 Wedding Announcement
-2 Greasefang, Okiba Boss
-3 Wedding Announcement
-3 Vanishing Verse
-4 Wedding Announcement
-4 Vanishing Verse
-1 Skyclave Apparition
 1 Professor of Symbology
+1 Skyclave Apparition
 1 Bala Ged Recovery
 1 Froghemoth
-2 Skyclave Apparition
 2 Professor of Symbology
+2 Skyclave Apparition
+2 Vorinclex, Monstrous Raider
 2 Bala Ged Recovery
 2 Froghemoth
-2 Vorinclex, Monstrous Raider
-3 Snow-Covered Plains
 3 Professor of Symbology
+3 Snow-Covered Plains
 3 Arctic Treeline
 3 Skyclave Apparition
 3 Doomskar
@@ -211,24 +211,10 @@
 4 Professor of Symbology
 4 Arctic Treeline
 4 Skyclave Apparition
-4 Doomskar
 4 Evolving Wilds
+4 Doomskar
 3 Path to the Festival
 4 Path to the Festival
-1 Cleric Class
-1 Can't Stay Away
-1 Voice of the Blessed
-1 Intrepid Adversary
-1 Snakeskin Veil
-1 Dollhouse of Horrors
-2 Cleric Class
-2 Snakeskin Veil
-2 Can't Stay Away
-2 Voice of the Blessed
-3 Snakeskin Veil
-4 Plains
-5 Plains
-8 Forest
 1 Emergent Sequence
 1 Primal Adversary
 2 Emergent Sequence
@@ -241,3 +227,17 @@
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest
+1 Dollhouse of Horrors
+1 Cleric Class
+1 Can't Stay Away
+1 Voice of the Blessed
+1 Intrepid Adversary
+1 Snakeskin Veil
+2 Cleric Class
+2 Snakeskin Veil
+2 Can't Stay Away
+2 Voice of the Blessed
+3 Snakeskin Veil
+4 Plains
+8 Forest
+5 Plains

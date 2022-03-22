@@ -65,9 +65,9 @@
 1 Titania, Protector of Argoth
 3 Abrupt Decay
 3 Windswept Heath
+1 Savannah
 1 Plains
 1 Scrubland
-1 Savannah
 1 Professor Onyx
 3 Assassin's Trophy
 4 Arena Rector
@@ -106,28 +106,18 @@
 1 Liliana, the Last Hope
 1 Baleful Strix
 1 Cavern Harpy
-1 Xanathar, Guild Kingpin
 1 Koma, Cosmos Serpent
+1 Xanathar, Guild Kingpin
 1 Carnage Tyrant
 1 Allosaurus Shepherd
 1 The Scarab God
 2 Leovold, Emissary of Trest
 2 Allosaurus Shepherd
-1 Unearth
 1 Bone Shards
+1 Unearth
 1 Paradox Zone
 2 Bone Shards
 2 Polluted Delta
-1 Thragtusk
-1 Kaya, Ghost Assassin
-1 Toxic Deluge
-1 Elspeth, Sun's Champion
-1 Knight of Autumn
-1 Nissa, Vital Force
-1 Path to Exile
-1 Archon of Valor's Reach
-2 Path to Exile
-3 Path to Exile
 1 Abundant Harvest
 1 Fatal Push
 2 Abundant Harvest
@@ -144,26 +134,36 @@
 2 Mayhem Devil
 2 The Meathook Massacre
 3 Mayhem Devil
+1 Plumb the Forbidden
+1 Sedgemoor Witch
+1 Blex, Vexing Pest
+2 Plumb the Forbidden
+2 Sedgemoor Witch
+3 Sedgemoor Witch
+3 Plumb the Forbidden
+1 Kaya, Ghost Assassin
+1 Thragtusk
+1 Toxic Deluge
+1 Knight of Autumn
+1 Nissa, Vital Force
+1 Elspeth, Sun's Champion
+1 Path to Exile
+1 Archon of Valor's Reach
+2 Path to Exile
+3 Path to Exile
 1 Elder Gargaroth
 1 Shifting Ceratops
 1 Plague Engineer
 1 Collector Ouphe
 1 Hexdrinker
 1 Ramunap Excavator
-2 Tireless Tracker
 2 Plague Engineer
+2 Tireless Tracker
 2 Hexdrinker
 3 Tireless Tracker
 3 Hexdrinker
 1 Outland Liberator
 3 Pernicious Deed
-1 Sedgemoor Witch
-1 Blex, Vexing Pest
-1 Plumb the Forbidden
-2 Sedgemoor Witch
-2 Plumb the Forbidden
-3 Sedgemoor Witch
-3 Plumb the Forbidden
 1 Nicol Bolas, Planeswalker
 1 Marsh Flats
 1 Carth the Lion
@@ -171,10 +171,6 @@
 2 Innocent Blood
 3 Once Upon a Time
 4 Once Upon a Time
-1 Grand Abolisher
-2 Grand Abolisher
-3 Cavern of Souls
-4 Cavern of Souls
 1 Dauthi Voidwalker
 1 Field of the Dead
 1 Terror of the Peaks
@@ -187,6 +183,10 @@
 2 Taiga
 3 Wooded Foothills
 4 Greater Gargadon
+1 Grand Abolisher
+2 Grand Abolisher
+3 Cavern of Souls
+4 Cavern of Souls
 1 Urborg, Tomb of Yawgmoth
 5 Swamp
 1 Snow-Covered Plains
@@ -197,10 +197,10 @@
 1 Kaya, Orzhov Usurper
 1 Garruk, Cursed Huntsman
 1 Fiend Artisan
+2 Ugin, the Spirit Dragon
 2 Snow-Covered Plains
 2 Duress
 2 Dead of Winter
 2 Crop Rotation
-2 Ugin, the Spirit Dragon
 3 Snow-Covered Swamp
 5 Snow-Covered Forest

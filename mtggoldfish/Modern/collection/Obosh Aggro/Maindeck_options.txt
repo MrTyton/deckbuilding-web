@@ -1,9 +1,9 @@
-1 Arid Mesa
+1 Bloodstained Mire
+4 Blast Zone
+2 Spikefield Hazard
 2 Arid Mesa
 1 Firebolt
 1 Wooded Foothills
-4 Blast Zone
-2 Spikefield Hazard
 3 Arid Mesa
 1 Soul-Scar Mage
 2 Soul-Scar Mage
@@ -14,12 +14,13 @@
 2 Pyrite Spellbomb
 1 Monastery Swiftspear
 2 Monastery Swiftspear
+3 Spikefield Hazard
 11 Mountain
 2 Fiery Islet
 2 Firebolt
 3 Firebolt
 2 Wooded Foothills
-3 Spikefield Hazard
+4 Spikefield Hazard
 3 Soul-Scar Mage
 1 Lava Dart
 2 Lava Dart
@@ -27,10 +28,10 @@
 4 Monastery Swiftspear
 1 Prismatic Vista
 2 Prismatic Vista
-4 Spikefield Hazard
 4 Soul-Scar Mage
 12 Mountain
 13 Mountain
+1 Sokenzan, Crucible of Defiance
 4 Arid Mesa
 1 Scalding Tarn
 2 Scalding Tarn
@@ -39,7 +40,6 @@
 3 Lava Dart
 4 Lava Dart
 3 Wooded Foothills
-1 Sokenzan, Crucible of Defiance
 2 Sunbaked Canyon
 1 Sacred Foundry
 3 Bloodstained Mire
@@ -58,15 +58,15 @@
 2 Hammer of Bogardan
 3 Hammer of Bogardan
 4 Hammer of Bogardan
-14 Mountain
-1 Flame Slash
-2 Flame Slash
 1 March of Reckless Joy
 2 March of Reckless Joy
 3 March of Reckless Joy
-4 March of Reckless Joy
+14 Mountain
+1 Flame Slash
+2 Flame Slash
 3 Scalding Tarn
 4 Scalding Tarn
+4 March of Reckless Joy
 15 Mountain
 16 Mountain
 17 Mountain
@@ -83,38 +83,41 @@
 3 Bomat Courier
 4 Bomat Courier
 4 Prismatic Vista
-1 Savai Triome
 2 Sokenzan, Crucible of Defiance
-4 Firebolt
-3 Sunbaked Canyon
-4 Sunbaked Canyon
+1 Relic of Progenitus
+2 Relic of Progenitus
+3 Relic of Progenitus
+4 Relic of Progenitus
+1 Savai Triome
+1 Lantern of the Lost
+2 Lantern of the Lost
+3 Lantern of the Lost
 4 Seal of Fire
+4 Firebolt
+4 Snow-Covered Mountain
+3 Flame Slash
+4 Flame Slash
 1 Stomping Ground
 1 Boseiju, Who Endures
 1 Forest
 1 Utopia Sprawl
-1 Arbor Elf
 1 Klothys, God of Destiny
 1 Misty Rainforest
+1 Arbor Elf
 2 Stomping Ground
-2 Misty Rainforest
 2 Utopia Sprawl
-2 Arbor Elf
+2 Misty Rainforest
 2 Klothys, God of Destiny
 2 Forest
-3 Misty Rainforest
+2 Arbor Elf
 3 Utopia Sprawl
+3 Misty Rainforest
 3 Stomping Ground
 3 Arbor Elf
 3 Forest
-4 Misty Rainforest
 4 Utopia Sprawl
+4 Misty Rainforest
 4 Wooded Foothills
 4 Arbor Elf
-4 Snow-Covered Mountain
-1 Relic of Progenitus
-2 Relic of Progenitus
-3 Flame Slash
-3 Relic of Progenitus
-4 Flame Slash
-4 Relic of Progenitus
+3 Sunbaked Canyon
+4 Sunbaked Canyon
