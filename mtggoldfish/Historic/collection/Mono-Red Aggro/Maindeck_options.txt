@@ -70,8 +70,8 @@
 2 Sacred Foundry
 3 Inspiring Vantage
 3 Sacred Foundry
-4 Inspiring Vantage
 4 Sacred Foundry
+4 Inspiring Vantage
 1 Chandra, Acolyte of Flame
 1 Cavalcade of Calamity
 2 Chandra, Acolyte of Flame
@@ -96,8 +96,8 @@
 4 Wizard's Lightning
 4 Ghitu Lavarunner
 1 Light Up the Night
-1 Alchemist's Gambit
 1 Bloodthirsty Adversary
+1 Alchemist's Gambit
 1 Abrade
 1 Ox of Agonas
 2 Ox of Agonas
@@ -138,19 +138,33 @@
 2 Earthshaker Khenra
 2 Hellrider
 3 Glorybringer
+3 Legion Warboss
 3 Earthshaker Khenra
 3 Hellrider
-3 Legion Warboss
 3 Fanatic of Mogis
 4 Earthshaker Khenra
 4 Hellrider
+1 Scampering Scorcher
+1 Risk Factor
+1 Chandra's Pyreling
+1 Chandra's Spitfire
+1 Raid Bombardment
+2 Risk Factor
+2 Chandra's Pyreling
+2 Scampering Scorcher
+2 Chandra's Spitfire
+2 Raid Bombardment
+3 Risk Factor
+3 Chandra's Pyreling
+4 Risk Factor
+4 Chandra's Pyreling
 2 Managorger Phoenix
 3 Managorger Phoenix
 4 Managorger Phoenix
-1 Showdown of the Skalds
 1 Bomat Courier
 1 Dragon's Rage Channeler
 1 Lightning Helix
+1 Showdown of the Skalds
 2 Showdown of the Skalds
 2 Bomat Courier
 2 Dragon's Rage Channeler
@@ -163,27 +177,13 @@
 4 Showdown of the Skalds
 4 Bomat Courier
 4 Dragon's Rage Channeler
-4 Needleverge Pathway
 4 Lightning Helix
+4 Needleverge Pathway
 4 Soul-Scar Mage
 1 Hazoret the Fervent
 2 Hazoret the Fervent
 3 Hazoret the Fervent
 4 Skewer the Critics
-1 Scampering Scorcher
-1 Risk Factor
-1 Chandra's Pyreling
-1 Chandra's Spitfire
-1 Raid Bombardment
-2 Chandra's Pyreling
-2 Scampering Scorcher
-2 Risk Factor
-2 Chandra's Spitfire
-2 Raid Bombardment
-3 Chandra's Pyreling
-3 Risk Factor
-4 Chandra's Pyreling
-4 Risk Factor
 1 Snow-Covered Mountain
 1 Fireblade Charger
 1 Goldspan Dragon
@@ -214,36 +214,36 @@
 16 Snow-Covered Mountain
 17 Snow-Covered Mountain
 1 Kazandu Mammoth
-1 Hive of the Eye Tyrant
-1 Overgrown Tomb
 1 Rotting Regisaur
-1 Dragonskull Summit
+1 Hive of the Eye Tyrant
+1 Blightstep Pathway
+1 Overgrown Tomb
 1 Call of the Death-Dweller
+1 Dreadhorde Butcher
 1 Collected Company
 1 Cragcrown Pathway
 1 Blood Crypt
-1 Blightstep Pathway
+1 Dragonskull Summit
 1 Stomping Ground
-1 Dreadhorde Butcher
 2 Rotting Regisaur
-2 Overgrown Tomb
-2 Blood Crypt
 2 Blightstep Pathway
-2 Stomping Ground
+2 Overgrown Tomb
 2 Dreadhorde Butcher
+2 Blood Crypt
+2 Stomping Ground
 2 Cragcrown Pathway
 2 Collected Company
 3 Collected Company
 3 Rotting Regisaur
-3 Overgrown Tomb
 3 Reckless Stormseeker
-3 Blood Crypt
 3 Blightstep Pathway
-3 Stomping Ground
+3 Overgrown Tomb
 3 Dreadhorde Butcher
+3 Blood Crypt
+3 Stomping Ground
 3 Cragcrown Pathway
-4 Overgrown Tomb
 4 Collected Company
+4 Overgrown Tomb
 4 Stomping Ground
 4 Blightstep Pathway
 4 Blood Crypt

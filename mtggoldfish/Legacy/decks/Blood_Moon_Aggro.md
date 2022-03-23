@@ -59,7 +59,7 @@
 |                    1|[Scab-Clan Berserker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398461)           |                     |                                                                                                    |
 |                    2|[Scab-Clan Berserker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398461)           |                     |                                                                                                    |
 |                    1|[Crystal Vein](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15413)                   |                     |                                                                                                    |
-|                    1|[Sokenzan, Crucible of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548589)|                     |                                                                                                    |
 |                    1|[Ogre-Head Helm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548459)                |                     |                                                                                                    |
+|                    1|[Sokenzan, Crucible of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548589)|                     |                                                                                                    |
 |                    3|[Laelia, the Blade Reforged](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=518449)    |                     |                                                                                                    |
 

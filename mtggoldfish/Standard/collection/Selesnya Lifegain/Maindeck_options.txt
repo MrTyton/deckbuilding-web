@@ -1,31 +1,27 @@
-4 Kor Celebrant
-11 Plains
-1 Luminarch Aspirant
-1 Lair of the Hydra
-4 Trelasarra, Moon Dancer
-8 Forest
-4 Arctic Treeline
-3 Revitalize
-1 Angel of Destiny
+4 Branchloft Pathway
 1 Devouring Tendrils
+4 Righteous Valkyrie
+11 Plains
+1 Lair of the Hydra
+8 Forest
+3 Revitalize
+4 Trelasarra, Moon Dancer
+1 Drizzt Do'Urden
+4 Kor Celebrant
+1 Minimus Containment
+2 Minimus Containment
 2 Overgrown Farmland
+1 Luminarch Aspirant
 9 Forest
 1 The Book of Exalted Deeds
+2 Devouring Tendrils
 1 Wrenn and Seven
-1 Doomskar
-1 Drizzt Do'Urden
-1 Toski, Bearer of Secrets
 1 Sigarda's Splendor
 1 Ollenbock Escort
 2 Ollenbock Escort
 3 Overgrown Farmland
-1 Minimus Containment
-2 Minimus Containment
 1 Emeria's Call
-1 Adeline, Resplendent Cathar
-12 Plains
-1 Elite Spellbinder
-2 Elite Spellbinder
+1 Inscription of Abundance
 1 Snow-Covered Forest
 1 Snow-Covered Plains
 2 Snow-Covered Plains
@@ -35,68 +31,73 @@
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 6 Snow-Covered Plains
-2 Devouring Tendrils
-1 Valorous Stance
-2 Valorous Stance
+12 Plains
+1 Adeline, Resplendent Cathar
 2 The Book of Exalted Deeds
 2 Angel of Destiny
-2 Luminarch Aspirant
 3 Fateful Absence
-2 Doomskar
+1 Vorinclex, Monstrous Raider
 1 Saryth, the Viper's Fang
 2 Wrenn and Seven
+1 Doomskar
 1 Teleportation Circle
 2 Teleportation Circle
+1 Valorous Stance
+2 Valorous Stance
 1 Traveling Minister
 2 Traveling Minister
+1 Toski, Bearer of Secrets
 1 Attended Healer
 1 Outland Liberator
-1 Vorinclex, Monstrous Raider
 1 Potion of Healing
 1 Choose Your Weapon
+2 Doomskar
 2 Potion of Healing
 2 Outland Liberator
 2 Choose Your Weapon
-3 Ollenbock Escort
 1 Paladin Class
-2 Adeline, Resplendent Cathar
+3 Ollenbock Escort
+3 Devouring Tendrils
 2 Valkyrie Harbinger
+2 Adeline, Resplendent Cathar
 1 Torens, Fist of the Angels
-1 Priest of Ancient Lore
-2 Priest of Ancient Lore
-1 Inscription of Abundance
 1 Faceless Haven
 2 Faceless Haven
 3 Faceless Haven
 4 Faceless Haven
-4 Revitalize
 2 Attended Healer
-2 Toski, Bearer of Secrets
-1 Story Seeker
+4 Revitalize
+1 Priest of Ancient Lore
+2 Priest of Ancient Lore
+1 Elite Spellbinder
+2 Elite Spellbinder
+1 Borrowed Time
+2 Luminarch Aspirant
 3 Luminarch Aspirant
-7 Snow-Covered Plains
-8 Snow-Covered Plains
-9 Snow-Covered Plains
-1 Thunderous Orator
+1 Story Seeker
 2 Vorinclex, Monstrous Raider
 3 Outland Liberator
 1 Oran-Rief Ooze
 1 Ashaya, Soul of the Wild
 2 Oran-Rief Ooze
 3 Doomskar
-4 Overgrown Farmland
+7 Snow-Covered Plains
+8 Snow-Covered Plains
+9 Snow-Covered Plains
 4 Ollenbock Escort
+1 Accomplished Alchemist
+1 You Meet in a Tavern
+2 You Meet in a Tavern
+4 Overgrown Farmland
 3 Adeline, Resplendent Cathar
-3 Devouring Tendrils
 2 Sigarda's Splendor
 1 Intrepid Adversary
 4 Luminarch Aspirant
-1 Esika's Chariot
 2 Story Seeker
+2 Toski, Bearer of Secrets
 3 Traveling Minister
 4 Traveling Minister
 1 Snakeskin Veil
-1 Borrowed Time
 2 Borrowed Time
 1 Blizzard Brawl
 2 Blizzard Brawl
@@ -108,10 +109,18 @@
 1 Ranger Class
 2 Ranger Class
 1 The World Tree
-2 Thunderous Orator
-10 Forest
 13 Plains
+10 Forest
+1 Thunderous Orator
+1 Fortifying Draught
+1 Pillardrop Rescuer
+1 Lurking Roper
+1 Icingdeath, Frost Tyrant
+2 Fortifying Draught
+2 Lurking Roper
+2 Pillardrop Rescuer
 4 Outland Liberator
+1 Invoke the Divine
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 2 Emeria's Call
@@ -124,8 +133,6 @@
 3 Lair of the Hydra
 3 Priest of Ancient Lore
 2 Intrepid Adversary
-1 Cram Session
-2 Cram Session
 3 Ranger Class
 3 Attended Healer
 10 Snow-Covered Plains
@@ -135,18 +142,14 @@
 1 Skyclave Cleric
 1 Sigarda, Champion of Light
 1 Chaplain of Alms
+1 Esika's Chariot
 1 Sigardian Paladin
 2 Sigardian Paladin
-1 Fortifying Draught
-2 Fortifying Draught
 2 Torens, Fist of the Angels
 7 Snow-Covered Forest
 2 Snakeskin Veil
 3 Snakeskin Veil
 4 Snakeskin Veil
-1 Accomplished Alchemist
-1 You Meet in a Tavern
-2 You Meet in a Tavern
 1 Starnheim Unleashed
 1 Vanquish the Horde
 1 Sigarda's Summons
@@ -159,13 +162,14 @@
 1 Boseiju, Who Endures
 1 Brutal Cathar
 2 Brutal Cathar
+2 Thunderous Orator
 1 The Wandering Emperor
 2 The Wandering Emperor
 1 Unnatural Growth
 1 Druid Class
+1 Scute Swarm
 1 Exponential Growth
 1 Steadfast Paladin
-1 Scute Swarm
 2 Steadfast Paladin
 2 Unnatural Growth
 2 Druid Class
@@ -185,6 +189,8 @@
 15 Snow-Covered Plains
 16 Snow-Covered Forest
 16 Snow-Covered Plains
+1 Skyclave Apparition
+1 Reidane, God of the Worthy
 1 Valentin, Dean of the Vein
 2 Saryth, the Viper's Fang
 2 Valentin, Dean of the Vein
@@ -201,13 +207,6 @@
 2 Scale the Heights
 1 Froghemoth
 1 Kazandu Mammoth
-1 Pillardrop Rescuer
-1 Lurking Roper
-1 Icingdeath, Frost Tyrant
-2 Lurking Roper
-2 Pillardrop Rescuer
-1 Blessed Defiance
-2 Blessed Defiance
 1 Disenchant
 2 Disenchant
 1 Legion Angel
@@ -223,6 +222,8 @@
 2 Tamiyo's Safekeeping
 2 Sanctify
 2 Wedding Announcement
+1 Blessed Defiance
+2 Blessed Defiance
 1 Katilda, Dawnhart Prime
 1 Augur of Autumn
 1 Katilda, Dawnhart Martyr
@@ -230,8 +231,10 @@
 2 Katilda, Dawnhart Prime
 2 Sigarda's Summons
 3 Thalia, Guardian of Thraben
+1 Cram Session
 1 Overgrown Arch
 2 Inscription of Abundance
+2 Cram Session
 2 Overgrown Arch
 3 Intrepid Adversary
 1 Maul of the Skyclaves
@@ -240,8 +243,6 @@
 2 Maul of the Skyclaves
 2 Esika's Chariot
 3 Wrenn and Seven
-1 Fall of the Impostor
-3 Elite Spellbinder
 1 Faithbound Judge
 1 Savior of Ollenbock
 2 Savior of Ollenbock
@@ -255,10 +256,10 @@
 2 Kabira Takedown
 3 Sigardian Paladin
 1 Halvar, God of Battle
-1 Expel
 1 Strict Proctor
 1 Resplendent Marshal
 1 Starnheim Aspirant
+1 Expel
 1 Youthful Valkyrie
 2 Expel
 2 Youthful Valkyrie
@@ -272,7 +273,6 @@
 1 Smite the Monstrous
 1 Devastating Mastery
 1 Cosmos Elixir
-1 Invoke the Divine
 2 Yasharn, Implacable Earth
 2 Cosmos Elixir
 2 Smite the Monstrous
@@ -303,7 +303,7 @@
 4 Priest of Ancient Lore
 4 Lair of the Hydra
 4 Valorous Stance
-1 Beskir Shieldmate
 1 Star Pupil
+1 Beskir Shieldmate
 2 Beskir Shieldmate
 15 Plains

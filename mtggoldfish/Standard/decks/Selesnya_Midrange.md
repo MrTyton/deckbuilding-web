@@ -91,7 +91,7 @@
 |                    2|[Cave of the Frost Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527540)   |                     |                                                                                                      |
 |                    2|[You Hear Something on Watch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527329)|                     |                                                                                                      |
 |                    3|[Lair of the Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527546)          |                     |                                                                                                      |
-|                    3|[Tangled Florahedron](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491859)        |                     |                                                                                                      |
 |                    3|[You Hear Something on Watch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527329)|                     |                                                                                                      |
+|                    3|[Tangled Florahedron](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491859)        |                     |                                                                                                      |
 |                    4|[Tangled Florahedron](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491859)        |                     |                                                                                                      |
 
