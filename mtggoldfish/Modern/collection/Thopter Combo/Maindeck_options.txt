@@ -34,8 +34,8 @@
 1 Ensnaring Bridge
 1 Marsh Flats
 1 Solitude
-2 Snow-Covered Plains
 2 Marsh Flats
+2 Snow-Covered Plains
 2 Springleaf Drum
 2 Solitude
 3 Marsh Flats
@@ -58,11 +58,11 @@
 1 Prismatic Ending
 2 Prismatic Ending
 1 Thraben Inspector
-1 Ephemerate
 1 Remand
+1 Ephemerate
+2 Ephemerate
 2 Thraben Inspector
 2 Remand
-2 Ephemerate
 3 Ephemerate
 3 Thraben Inspector
 4 Thraben Inspector
@@ -122,9 +122,9 @@
 1 Chalice of the Void
 1 Spellskite
 1 Expedition Map
+2 Spellskite
 2 Misty Rainforest
 2 Ensnaring Bridge
-2 Spellskite
 3 Ensnaring Bridge
 3 Spellskite
 4 Spellskite

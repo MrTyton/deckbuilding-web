@@ -1,35 +1,33 @@
 1 Outland Liberator
-1 Verdant Catacombs
 1 Blast Zone
+1 Verdant Catacombs
 1 Courser of Kruphix
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
+1 Windswept Heath
 1 Cavern of Souls
+1 Wish
+2 Wish
 4 Dryad of the Ilysian Grove
 1 Snow-Covered Forest
 3 Snow-Covered Mountain
 1 Dwarven Mine
-3 Explore
-1 Windswept Heath
-1 Wish
-2 Wish
-3 Castle Garenbrig
 4 Summoner's Pact
-3 Wish
 1 Hour of Promise
-1 Sweltering Suns
-4 Explore
+3 Explore
+3 Wish
+3 Castle Garenbrig
 2 Hour of Promise
 1 Misty Rainforest
 2 Verdant Catacombs
 4 Cinder Glade
 1 Boseiju, Who Endures
+1 Sweltering Suns
+4 Explore
 2 Windswept Heath
 7 Mountain
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
-1 Vesuva
-2 Dwarven Mine
 3 Hour of Promise
 4 Hour of Promise
 3 Windswept Heath
@@ -56,6 +54,8 @@
 3 Fury
 4 Fury
 4 Misty Rainforest
+1 Vesuva
+2 Dwarven Mine
 2 Emrakul, the Aeons Torn
 1 Engineered Explosives
 1 Reclamation Sage
@@ -67,14 +67,14 @@
 1 Wood Elves
 3 Verdant Catacombs
 1 Eternal Witness
-1 Expressive Iteration
-1 Spreading Seas
 1 Steam Vents
+1 Spreading Seas
+1 Expressive Iteration
 1 Abundant Growth
 1 Road/Ruin
-2 Expressive Iteration
-2 Ketria Triome
 2 Spreading Seas
+2 Ketria Triome
+2 Expressive Iteration
 2 Road/Ruin
 2 Abundant Growth
 3 Expressive Iteration
@@ -85,10 +85,10 @@
 1 Seasoned Pyromancer
 2 Reckless Impulse
 1 Kura, the Boundless Sky
-1 Bloodstained Mire
+1 Hidetsugu Consumes All
 1 Blood Crypt
 1 Swamp
-1 Hidetsugu Consumes All
+1 Bloodstained Mire
 2 Hidetsugu Consumes All
 2 Sheltered Thicket
 3 Hidetsugu Consumes All
@@ -100,9 +100,8 @@
 1 Woodfall Primus
 1 Bonecrusher Giant
 1 Nissa, Vastwood Seer
-1 Azusa's Many Journeys
-2 Boseiju, Who Endures
-2 Azusa's Many Journeys
+1 Solemn Simulacrum
+2 Solemn Simulacrum
 1 Mwonvuli Acid-Moss
 3 Arboreal Grazer
 1 Chalice of the Void
@@ -112,5 +111,6 @@
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
-1 Solemn Simulacrum
-2 Solemn Simulacrum
+1 Azusa's Many Journeys
+2 Azusa's Many Journeys
+2 Boseiju, Who Endures

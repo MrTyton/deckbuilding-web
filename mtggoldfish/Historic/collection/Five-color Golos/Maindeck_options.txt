@@ -67,12 +67,12 @@
 3 In Search of Greatness
 3 Trial of Ambition
 4 Enigmatic Incarnation
-4 Omen of the Sea
 4 Glacial Fortress
+4 Binding the Old Gods
+4 Omen of the Sea
 4 Trial of Ambition
 4 In Search of Greatness
 4 Zagoth Triome
-4 Binding the Old Gods
 2 Crawling Barrens
 1 Aether Hub
 2 Aether Hub
@@ -87,8 +87,8 @@
 2 Mystic Forge
 2 Mobilized District
 3 Blinkmoth Nexus
-3 Crawling Barrens
 3 Blast Zone
+3 Crawling Barrens
 3 Mobilized District
 4 Blinkmoth Nexus
 4 Blast Zone
@@ -238,8 +238,8 @@
 1 Gatebreaker Ram
 1 Root Snare
 1 Open the Gates
-2 Felidar Retreat
 2 Valki, God of Lies
+2 Felidar Retreat
 2 Rakdos Guildgate
 2 Boros Guildgate
 2 Gatebreaker Ram
@@ -260,20 +260,20 @@
 1 Barkchannel Pathway
 1 Koma, Cosmos Serpent
 1 Gemrazer
+1 Darkbore Pathway
 1 Fabled Passage
-1 Necroblossom Snarl
 1 Vineglimmer Snarl
 1 The Great Henge
-1 Temple of Malady
 1 Temple of Deceit
 1 Paradise Druid
 1 Lotus Cobra
+1 Nissa, Who Shakes the World
 1 Season of Growth
+1 Temple of Malady
+1 Necroblossom Snarl
 1 Vivien, Champion of the Wilds
 1 Tamiyo, Collector of Tales
-1 Nissa, Who Shakes the World
 1 Scute Swarm
-1 Darkbore Pathway
 1 Gilded Goose
 1 Castle Vantress
 1 Vivien Reid
@@ -290,10 +290,11 @@
 1 Insatiable Hemophage
 2 Gemrazer
 2 Fabled Passage
+2 Darkbore Pathway
 2 Paradise Druid
 2 Lotus Cobra
-2 Season of Growth
 2 Nissa, Who Shakes the World
+2 Season of Growth
 2 Gilded Goose
 2 Insatiable Hemophage
 2 Boneyard Lurker
@@ -302,16 +303,15 @@
 2 Migratory Greathorn
 2 Pollywog Symbiote
 2 Pouncing Shoreshark
-2 Darkbore Pathway
 2 Swamp
 3 Gemrazer
 3 Fabled Passage
 3 Paradise Druid
 3 Lotus Cobra
+3 Swamp
 3 Boneyard Lurker
 3 Insatiable Hemophage
 3 Gilded Goose
-3 Swamp
 3 Auspicious Starrix
 3 Pollywog Symbiote
 3 Migratory Greathorn
@@ -358,17 +358,17 @@
 4 Cultivate
 4 The World Tree
 4 Hydroid Krasis
-1 Reckoner Bankbuster
 1 Key to the Archive
-1 Mascot Exhibition
 1 Introduction to Prophecy
 1 Conqueror's Galleon
+1 Reckoner Bankbuster
 1 Ominous Traveler
 1 Spire of Industry
 1 Mech Hangar
+1 Mascot Exhibition
 2 Mech Hangar
-2 Reckoner Bankbuster
 2 Key to the Archive
+2 Reckoner Bankbuster
 2 Introduction to Prophecy
 2 Conqueror's Galleon
 2 Spire of Industry
@@ -378,9 +378,10 @@
 4 Key to the Archive
 1 Khalni Garden
 1 Magma Opus
+1 Cragcrown Pathway
 1 Scholar of the Lost Trove
 1 Throes of Chaos
-1 Cragcrown Pathway
+1 Phyrexian Tower
 1 Treasure Vault
 1 Elesh Norn, Grand Cenobite
 1 Tibalt's Trickery
@@ -389,22 +390,21 @@
 1 Emergent Ultimatum
 1 Emergence Zone
 1 Mirrodin's Core
-1 Phyrexian Tower
 1 Blood Crypt
 2 Khalni Garden
-2 Phyrexian Tower
 2 Magma Opus
+2 Cragcrown Pathway
 2 Blood Crypt
 2 Treasure Vault
-2 Cragcrown Pathway
+2 Phyrexian Tower
 2 Chandra, Awakened Inferno
 2 Tibalt's Trickery
 2 Mirrodin's Core
 2 Throes of Chaos
 2 Emergent Ultimatum
 2 Scholar of the Lost Trove
-3 Khalni Garden
 3 Magma Opus
+3 Khalni Garden
 3 Blood Crypt
 3 Alrund's Epiphany
 3 Cragcrown Pathway
@@ -422,15 +422,15 @@
 1 Turntimber Symbiosis
 1 Bala Ged Recovery
 1 Fading Hope
-1 Khalni Ambush
 1 Dream Trawler
+1 Goblin Dark-Dwellers
 1 Dreamroot Cascade
 1 Elder Gargaroth
-1 Quench
-1 Goblin Dark-Dwellers
 1 Lair of the Hydra
 1 Thassa's Intervention
+1 Quench
 1 Kazandu Mammoth
+1 Khalni Ambush
 1 Neoform
 1 Brazen Borrower
 1 Sea Gate Restoration
@@ -470,10 +470,10 @@
 3 Labyrinth of Skophos
 4 Buried Ruin
 1 Needleverge Pathway
-1 Baffling End
 1 Sterling Grove
 1 Branchloft Pathway
 1 Sythis, Harvest's Hand
+1 Baffling End
 1 Sanctum Weaver
 1 Hengegate Pathway
 1 Sanctum of Shattered Heights
@@ -488,8 +488,8 @@
 1 Nine Lives
 1 Sanctum of Fruitful Harvest
 1 Sanctum of Tranquil Light
-2 Needleverge Pathway
 2 Baffling End
+2 Needleverge Pathway
 2 Sterling Grove
 2 Sanctum Weaver
 2 Sythis, Harvest's Hand

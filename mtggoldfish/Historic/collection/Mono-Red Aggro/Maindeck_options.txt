@@ -68,10 +68,10 @@
 2 Inspiring Vantage
 2 Needleverge Pathway
 2 Sacred Foundry
-3 Inspiring Vantage
 3 Sacred Foundry
-4 Sacred Foundry
+3 Inspiring Vantage
 4 Inspiring Vantage
+4 Sacred Foundry
 1 Chandra, Acolyte of Flame
 1 Cavalcade of Calamity
 2 Chandra, Acolyte of Flame
@@ -110,14 +110,14 @@
 2 Cemetery Gatekeeper
 3 Cemetery Gatekeeper
 1 Spikefield Hazard
-1 Voldaren Epicure
 1 Grim Initiate
+1 Voldaren Epicure
 2 Spikefield Hazard
 2 Voldaren Epicure
 2 Grim Initiate
-3 Voldaren Epicure
 3 Chandra, Acolyte of Flame
 3 Grim Initiate
+3 Voldaren Epicure
 1 Electrostatic Blast
 2 Sokenzan, Crucible of Defiance
 2 Electrostatic Blast
@@ -144,27 +144,13 @@
 3 Fanatic of Mogis
 4 Earthshaker Khenra
 4 Hellrider
-1 Scampering Scorcher
-1 Risk Factor
-1 Chandra's Pyreling
-1 Chandra's Spitfire
-1 Raid Bombardment
-2 Risk Factor
-2 Chandra's Pyreling
-2 Scampering Scorcher
-2 Chandra's Spitfire
-2 Raid Bombardment
-3 Risk Factor
-3 Chandra's Pyreling
-4 Risk Factor
-4 Chandra's Pyreling
 2 Managorger Phoenix
 3 Managorger Phoenix
 4 Managorger Phoenix
+1 Showdown of the Skalds
 1 Bomat Courier
 1 Dragon's Rage Channeler
 1 Lightning Helix
-1 Showdown of the Skalds
 2 Showdown of the Skalds
 2 Bomat Courier
 2 Dragon's Rage Channeler
@@ -177,13 +163,27 @@
 4 Showdown of the Skalds
 4 Bomat Courier
 4 Dragon's Rage Channeler
-4 Lightning Helix
 4 Needleverge Pathway
+4 Lightning Helix
 4 Soul-Scar Mage
 1 Hazoret the Fervent
 2 Hazoret the Fervent
 3 Hazoret the Fervent
 4 Skewer the Critics
+1 Scampering Scorcher
+1 Risk Factor
+1 Chandra's Pyreling
+1 Chandra's Spitfire
+1 Raid Bombardment
+2 Chandra's Pyreling
+2 Scampering Scorcher
+2 Risk Factor
+2 Chandra's Spitfire
+2 Raid Bombardment
+3 Chandra's Pyreling
+3 Risk Factor
+4 Chandra's Pyreling
+4 Risk Factor
 1 Snow-Covered Mountain
 1 Fireblade Charger
 1 Goldspan Dragon

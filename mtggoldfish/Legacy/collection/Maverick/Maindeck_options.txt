@@ -1,23 +1,23 @@
+2 Bayou
 1 Misty Rainforest
 4 Mother of Runes
-4 Thalia, Guardian of Thraben
 2 Birds of Paradise
+4 Thalia, Guardian of Thraben
 1 Tropical Island
-2 Bayou
 2 Misty Rainforest
-1 Boseiju, Who Endures
+4 Noble Hierarch
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
+1 Boseiju, Who Endures
 2 Tropical Island
-4 Noble Hierarch
 3 Endurance
 1 Island
 1 Valakut, the Molten Pinnacle
 1 Vesuva
 1 Sylvan Safekeeper
-1 Bojuka Bog
 1 Glacial Chasm
+1 Bojuka Bog
 1 Elvish Reclaimer
 1 Drownyard Temple
 1 Cephalid Coliseum
@@ -36,10 +36,8 @@
 4 Once Upon a Time
 4 Elvish Reclaimer
 4 Crop Rotation
-1 Umezawa's Jitte
 4 Endurance
-1 Stoneforge Mystic
-2 Stoneforge Mystic
+1 Umezawa's Jitte
 3 Savannah
 1 Dark Depths
 1 Thespian's Stage
@@ -47,12 +45,12 @@
 3 Boseiju, Who Endures
 1 Uro, Titan of Nature's Wrath
 1 Tundra
+1 Stoneforge Mystic
+2 Stoneforge Mystic
 4 Boseiju, Who Endures
 1 Ghost Quarter
 2 Dryad of the Ilysian Grove
 1 Leovold, Emissary of Trest
-1 Batterskull
-1 Gaddock Teeg
 1 Shigeki, Jukai Visionary
 1 Otawara, Soaring City
 1 Simic Growth Chamber
@@ -61,37 +59,26 @@
 2 Uro, Titan of Nature's Wrath
 3 Misty Rainforest
 1 Allosaurus Shepherd
+1 Batterskull
 1 Kaldra Compleat
-1 Taiga
+1 Gaddock Teeg
 1 Sword of Fire and Ice
 1 Abrupt Decay
 1 Tireless Tracker
 1 Plague Engineer
 2 Abrupt Decay
+1 Qasali Pridemage
 1 Kaya, Orzhov Usurper
 1 Cavern of Souls
 1 Captain Sisay
 2 Scryb Ranger
-1 Eiganjo, Seat of the Empire
 1 Hullbreacher
-1 Lion Sash
-1 Grove of the Burnwillows
-1 Plateau
-1 Punishing Fire
-1 Shadowspear
-1 Wooded Foothills
-2 Taiga
-2 Grove of the Burnwillows
-2 Wooded Foothills
-2 Punishing Fire
-3 Wooded Foothills
-3 Grove of the Burnwillows
-3 Stoneforge Mystic
-3 Punishing Fire
+1 Eiganjo, Seat of the Empire
 1 Flooded Strand
 4 Misty Rainforest
+1 Taiga
+1 Lion Sash
 1 Snow-Covered Forest
-1 Qasali Pridemage
 1 Tranquil Thicket
 2 Tranquil Thicket
 1 The Wandering Emperor
@@ -103,17 +90,25 @@
 2 Hullbreacher
 3 Hullbreacher
 4 Prismatic Ending
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Sylvan Library
-3 Ragavan, Nimble Pilferer
-4 Ragavan, Nimble Pilferer
 4 Verdant Catacombs
+1 Grove of the Burnwillows
 1 Pyrite Spellbomb
+1 Plateau
 1 Soul-Guide Lantern
 1 Urza's Saga
+1 Punishing Fire
+1 Shadowspear
+1 Wooded Foothills
+2 Taiga
+2 Grove of the Burnwillows
+2 Wooded Foothills
 2 Urza's Saga
+2 Punishing Fire
+3 Wooded Foothills
+3 Grove of the Burnwillows
+3 Stoneforge Mystic
 3 Urza's Saga
+3 Punishing Fire
 4 Stoneforge Mystic
 4 Urza's Saga
 1 Geist of Saint Traft

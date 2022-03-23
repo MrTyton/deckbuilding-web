@@ -77,8 +77,8 @@
 1 Wasteland
 4 Endurance
 1 Sylvan Safekeeper
-1 Taiga
 1 Snow-Covered Mountain
+1 Taiga
 1 Opposition Agent
 2 Wooded Foothills
 2 Opposition Agent
@@ -97,8 +97,8 @@
 2 Professor Onyx
 2 Plains
 1 Karn Liberated
-1 Greater Gargadon
 1 Badlands
+1 Greater Gargadon
 1 Sarkhan Vol
 2 Greater Gargadon
 3 Greater Gargadon
@@ -107,9 +107,9 @@
 4 Snow-Covered Forest
 1 Liliana, the Last Hope
 1 Baleful Strix
+1 Bone Shards
 1 Unearth
 1 Paradox Zone
-1 Bone Shards
 2 Bone Shards
 1 Koma, Cosmos Serpent
 1 Xanathar, Guild Kingpin
@@ -136,6 +136,13 @@
 2 Mayhem Devil
 2 The Meathook Massacre
 3 Mayhem Devil
+1 Plumb the Forbidden
+1 Sedgemoor Witch
+1 Blex, Vexing Pest
+2 Plumb the Forbidden
+2 Sedgemoor Witch
+3 Sedgemoor Witch
+3 Plumb the Forbidden
 1 Kaya, Ghost Assassin
 1 Thragtusk
 1 Toxic Deluge
@@ -146,13 +153,6 @@
 1 Archon of Valor's Reach
 2 Path to Exile
 3 Path to Exile
-1 Plumb the Forbidden
-1 Sedgemoor Witch
-1 Blex, Vexing Pest
-2 Plumb the Forbidden
-2 Sedgemoor Witch
-3 Sedgemoor Witch
-3 Plumb the Forbidden
 1 Elder Gargaroth
 1 Shifting Ceratops
 1 Plague Engineer
@@ -186,8 +186,8 @@
 3 Wooded Foothills
 4 Greater Gargadon
 1 Kaya, Orzhov Usurper
-1 Canopy Vista
 1 Snow-Covered Plains
+1 Canopy Vista
 1 Dead of Winter
 1 Duress
 1 Overgrown Tomb

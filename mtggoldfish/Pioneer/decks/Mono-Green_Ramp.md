@@ -1,7 +1,7 @@
 # Mono-Green Ramp
 
 #### [Export MTGO List](../collection/Mono-Green%20Ramp/Mono-Green%20Ramp.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arboreal%20Grazer%0A1%09Arch%20of%20Orazca%0A4%09Bond%20of%20Flourishing%0A4%09Castle%20Garenbrig%0A4%09Cavalier%20of%20Thorns%0A4%09Cultivate%0A2%09Elvish%20Mystic%0A1%09Emrakul,%20the%20Promised%20End%0A9%09Forest%0A3%09Lair%20of%20the%20Hydra%0A2%09Llanowar%20Elves%0A4%09Nissa's%20Pilgrimage%0A4%09Oath%20of%20Nissa%0A2%09Radiant%20Fountain%0A2%09Sanctum%20of%20Ugin%0A4%09Shrine%20of%20the%20Forsaken%20Gods%0A4%09Ugin,%20the%20Spirit%20Dragon%0A2%09World%20Breaker&deckside=4%09Courser%20of%20Kruphix%0A3%09Damping%20Sphere%0A1%09Emrakul,%20the%20Promised%20End%0A2%09Grafdigger's%20Cage%0A1%09Ratchet%20Bomb%0A3%09Thought-Knot%20Seer%0A1%09Ulamog,%20the%20Ceaseless%20Hunger)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arboreal%20Grazer%0A1%09Arch%20of%20Orazca%0A4%09Bond%20of%20Flourishing%0A4%09Castle%20Garenbrig%0A4%09Cavalier%20of%20Thorns%0A4%09Cultivate%0A2%09Elvish%20Mystic%0A1%09Emrakul,%20the%20Promised%20End%0A9%09Forest%0A3%09Lair%20of%20the%20Hydra%0A2%09Llanowar%20Elves%0A4%09Nissa's%20Pilgrimage%0A4%09Oath%20of%20Nissa%0A2%09Radiant%20Fountain%0A2%09Sanctum%20of%20Ugin%0A4%09Shrine%20of%20the%20Forsaken%20Gods%0A4%09Ugin,%20the%20Spirit%20Dragon%0A2%09World%20Breaker&deckside=4%09Courser%20of%20Kruphix%0A3%09Damping%20Sphere%0A1%09Emrakul,%20the%20Promised%20End%0A2%09Grafdigger's%20Cage%0A3%09Thought-Knot%20Seer%0A1%09Ulamog,%20the%20Ceaseless%20Hunger%0A1%09Wilt)
 # Maindeck
 
 |                                            Creature (15)                                             |                                     Enchantment (4)                                      |                                               Land (25)                                                |                                          Planeswalker (4)                                          |                                          Sorcery (12)                                          |
@@ -17,19 +17,19 @@
 
 # Sideboard
 
-|                                         Artifact (6)                                         |                                              Creature (9)                                               |
-|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-|3 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |4 [Courser of Kruphix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442153)          |
-|2 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|1 [Emrakul, the Promised End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414295)   |
-|1 [Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)     |3 [Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)           |
-|                                                                                              |1 [Ulamog, the Ceaseless Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402079)|
+|                                         Artifact (5)                                         |                                              Creature (9)                                               |                                   Instant (1)                                   |
+|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+|3 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |4 [Courser of Kruphix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442153)          |1 [Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)|
+|2 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|1 [Emrakul, the Promised End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414295)   |                                                                                 |
+|                                                                                              |3 [Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)           |                                                                                 |
+|                                                                                              |1 [Ulamog, the Ceaseless Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402079)|                                                                                 |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    3|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)           |                    1|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)                |
+|                    3|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)           |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)        |
 |                    4|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)           |                    2|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)        |
 |                    1|[Bonders' Enclave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479765)         |                    3|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)        |
 |                    3|[Sanctum of Ugin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402022)          |                    4|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)      |

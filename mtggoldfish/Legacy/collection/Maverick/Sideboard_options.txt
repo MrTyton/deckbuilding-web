@@ -1,5 +1,7 @@
 2 Path to Exile
 3 Deafening Silence
+3 Plague Engineer
+1 Kaya, Ghost Assassin
 1 Flusterstorm
 2 Flusterstorm
 1 Collector Ouphe
@@ -10,12 +12,10 @@
 3 Mindbreak Trap
 4 Mindbreak Trap
 4 Flusterstorm
-3 Plague Engineer
-1 Kaya, Ghost Assassin
-1 Knight of Autumn
-1 Opposition Agent
 2 Endurance
+1 Opposition Agent
 1 Kaya, Orzhov Usurper
+1 Knight of Autumn
 1 Surgical Extraction
 2 Surgical Extraction
 1 Paradox Zone
@@ -25,9 +25,6 @@
 2 Dress Down
 1 Pithing Needle
 1 Prismatic Ending
-1 Pyroblast
-1 Red Elemental Blast
-2 Pyroblast
 1 Umezawa's Jitte
 1 Otawara, Soaring City
 1 Maze of Ith
@@ -46,19 +43,15 @@
 1 Court of Grace
 1 Energy Flux
 2 Energy Flux
-1 Bojuka Bog
-2 Red Elemental Blast
-3 Red Elemental Blast
-3 Endurance
-1 Fiery Justice
+1 Pyroblast
+1 Red Elemental Blast
+2 Pyroblast
 1 Meddling Mage
 2 Meddling Mage
 1 Aven Mindcensor
 1 Ethersworn Canonist
+1 Fiery Justice
 1 Shifting Ceratops
-1 Fury
-1 Meltdown
-1 Sevinne's Reclamation
 1 Carpet of Flowers
 1 Soul-Guide Lantern
 1 Return to Nature
@@ -68,6 +61,10 @@
 2 Court of Grace
 1 Tower of the Magistrate
 3 Choke
+1 Bojuka Bog
+2 Red Elemental Blast
+3 Red Elemental Blast
+3 Endurance
 1 Peacekeeper
 2 Peacekeeper
 3 Peacekeeper

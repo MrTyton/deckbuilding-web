@@ -72,7 +72,7 @@
 |                     |                                                                                              |                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)            |
 |                     |                                                                                              |                    1|[Elesh Norn, Grand Cenobite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438584)|
 |                     |                                                                                              |                    1|[Breakthrough](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382225)              |
-|                     |                                                                                              |                    1|[Hogaak, Arisen Necropolis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464151) |
-|                     |                                                                                              |                    3|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)            |
 |                     |                                                                                              |                    2|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)            |
+|                     |                                                                                              |                    3|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)            |
+|                     |                                                                                              |                    1|[Hogaak, Arisen Necropolis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464151) |
 
