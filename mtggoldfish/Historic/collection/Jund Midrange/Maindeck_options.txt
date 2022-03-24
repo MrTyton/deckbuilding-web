@@ -42,8 +42,8 @@
 1 Fabled Passage
 2 Fabled Passage
 1 Rockfall Vale
-1 Valki, God of Lies
 1 Cragcrown Pathway
+1 Valki, God of Lies
 2 Cragcrown Pathway
 1 Takenuma, Abandoned Mire
 2 Murderous Rider
@@ -56,13 +56,13 @@
 3 Kroxa, Titan of Death's Hunger
 2 Dragonskull Summit
 3 Dragonskull Summit
-1 Hagra Mauling
 1 Path of Peril
 1 Gutmorn, Pactbound Servant
+1 Hagra Mauling
 1 Tergrid, God of Fright
 1 Crawling Barrens
-2 Path of Peril
 2 Gutmorn, Pactbound Servant
+2 Path of Peril
 2 Tergrid, God of Fright
 3 Inquisition of Kozilek
 2 Darkbore Pathway
@@ -88,8 +88,8 @@
 2 Rockfall Vale
 1 Bedevil
 1 Extinction Event
-1 Blooming Marsh
 1 Boseiju, Who Endures
+1 Blooming Marsh
 1 Bloodchief's Thirst
 2 Blooming Marsh
 3 Blooming Marsh
@@ -97,8 +97,8 @@
 1 Vraska, Golgari Queen
 1 Rootbound Crag
 1 Forsaken Crossroads
-2 Forsaken Crossroads
 2 Chandra, Torch of Defiance
+2 Forsaken Crossroads
 1 Invoke Despair
 1 Angrath's Rampage
 4 Fabled Passage
@@ -124,43 +124,60 @@
 2 March of Otherworldly Light
 1 Command the Dreadhorde
 2 Sunpetal Grove
+1 Cling to Dust
+1 Infernal Grasp
+1 Seasoned Pyromancer
+1 Goblin Dark-Dwellers
+1 Soul-Guide Lantern
+1 Vraska, Relic Seeker
+2 Infernal Grasp
+2 Cling to Dust
+3 Darkbore Pathway
 1 Check for Traps
 2 Sorin the Mirthless
-2 Den of the Bugbear
 2 Check for Traps
+2 Den of the Bugbear
 3 Sorin the Mirthless
 1 Painful Bond
 2 Painful Bond
-3 Elder Gargaroth
 3 Painful Bond
-1 Cling to Dust
-1 Infernal Grasp
-1 Goblin Dark-Dwellers
-1 Soul-Guide Lantern
-1 Seasoned Pyromancer
-1 Vraska, Relic Seeker
-2 Cling to Dust
-2 Infernal Grasp
-3 Darkbore Pathway
-1 Nashi, Moon Sage's Scion
+3 Elder Gargaroth
 1 Town-Razer Tyrant
-1 Atsushi, the Blazing Sky
-1 Kalain, Reclusive Painter
-1 Junji, the Midnight Sky
-1 Flame-Blessed Bolt
+1 Nashi, Moon Sage's Scion
 1 Sokenzan, Crucible of Defiance
 1 Rahilda, Wanted Cutthroat
+1 Junji, the Midnight Sky
+1 Atsushi, the Blazing Sky
+1 Kalain, Reclusive Painter
+1 Flame-Blessed Bolt
 2 Junji, the Midnight Sky
 2 Rahilda, Wanted Cutthroat
 2 Nashi, Moon Sage's Scion
 2 Sokenzan, Crucible of Defiance
-2 Town-Razer Tyrant
 2 Atsushi, the Blazing Sky
 2 Kalain, Reclusive Painter
 2 Flame-Blessed Bolt
+2 Town-Razer Tyrant
 3 Kalain, Reclusive Painter
 3 Rahilda, Wanted Cutthroat
 3 Nashi, Moon Sage's Scion
+1 Liliana, Dreadhorde General
+1 Zagoth Triome
+1 Sarulf, Realm Eater
+1 Doom Blade
+1 Nissa, Who Shakes the World
+1 Vorinclex, Monstrous Raider
+1 Binding the Old Gods
+2 Binding the Old Gods
+2 Zagoth Triome
+2 Bloodchief's Thirst
+2 Nissa, Who Shakes the World
+2 Assassin's Trophy
+2 Sarulf, Realm Eater
+2 Vraska, Golgari Queen
+3 Binding the Old Gods
+4 Blooming Marsh
+4 Binding the Old Gods
 1 Lightning Strike
 1 Ruin Raider
 1 Erebos's Intervention
@@ -169,9 +186,9 @@
 1 Storrev, Devkarin Lich
 1 Purphoros's Intervention
 2 Lightning Strike
-2 Bedevil
 2 Ruin Raider
 2 Storrev, Devkarin Lich
+2 Bedevil
 2 Duress
 3 Lightning Strike
 3 Duress
@@ -179,28 +196,11 @@
 3 Questing Beast
 4 Lightning Strike
 4 Duress
-1 Sarulf, Realm Eater
-1 Doom Blade
-1 Nissa, Who Shakes the World
-1 Vorinclex, Monstrous Raider
-1 Zagoth Triome
-1 Liliana, Dreadhorde General
-1 Binding the Old Gods
-2 Bloodchief's Thirst
-2 Nissa, Who Shakes the World
-2 Zagoth Triome
-2 Assassin's Trophy
-2 Binding the Old Gods
-2 Sarulf, Realm Eater
-2 Vraska, Golgari Queen
-3 Binding the Old Gods
-4 Blooming Marsh
-4 Binding the Old Gods
-1 Bojuka Bog
 1 Cry of the Carnarium
 1 Burglar Rat
-2 Bojuka Bog
+1 Bojuka Bog
 2 Go Blank
+2 Bojuka Bog
 2 Cry of the Carnarium
 2 Burglar Rat
 2 Davriel, Soul Broker
@@ -224,13 +224,36 @@
 4 Gruul Spellbreaker
 4 Seekers' Squire
 2 Phyrexian Obliterator
+1 Field of Ruin
+1 Snow-Covered Swamp
+1 Inscription of Ruin
+1 March of Wretched Sorrow
+1 Blast Zone
+1 Languish
+1 Ifnir Deadlands
+1 Eliminate
+1 Liliana's Triumph
+2 Snow-Covered Swamp
+2 Field of Ruin
+2 Hagra Mauling
+2 Inscription of Ruin
+2 Ifnir Deadlands
+3 Snow-Covered Swamp
+4 Inquisition of Kozilek
+4 Snow-Covered Swamp
+5 Snow-Covered Swamp
+6 Snow-Covered Swamp
+7 Snow-Covered Swamp
+8 Snow-Covered Swamp
+9 Snow-Covered Swamp
+10 Snow-Covered Swamp
 1 Finale of Devastation
 1 Necroblossom Snarl
-1 Temple of Malady
 1 Vault Skirge
+1 Temple of Malady
 1 Khalni Ambush
-1 Massacre Wurm
 1 Tymaret, Chosen from Death
+1 Massacre Wurm
 1 Phyrexian Scriptures
 1 Myr Sire
 1 Sheoldred, Whispering One
@@ -260,30 +283,7 @@
 4 Khalni Ambush
 8 Swamp
 9 Swamp
-10 Swamp
 11 Swamp
 12 Swamp
 13 Swamp
-1 Snow-Covered Swamp
-1 Inscription of Ruin
-1 March of Wretched Sorrow
-1 Field of Ruin
-1 Blast Zone
-1 Ifnir Deadlands
-1 Languish
-1 Eliminate
-1 Liliana's Triumph
-2 Snow-Covered Swamp
-2 Field of Ruin
-2 Ifnir Deadlands
-2 Hagra Mauling
-2 Inscription of Ruin
-3 Snow-Covered Swamp
-4 Inquisition of Kozilek
-4 Snow-Covered Swamp
-5 Snow-Covered Swamp
-6 Snow-Covered Swamp
-7 Snow-Covered Swamp
-8 Snow-Covered Swamp
-9 Snow-Covered Swamp
-10 Snow-Covered Swamp
+10 Swamp
