@@ -1,7 +1,6 @@
-3 Remand
-2 Sacred Foundry
+1 Bloodstained Mire
 1 Mountain
-2 Bloodstained Mire
+3 Remand
 2 Stomping Ground
 1 Primeval Titan
 1 Valakut, the Molten Pinnacle
@@ -9,18 +8,21 @@
 2 Primeval Titan
 3 Primeval Titan
 4 Primeval Titan
-3 Lightning Bolt
 3 Valakut, the Molten Pinnacle
-4 Lightning Bolt
+3 Lightning Bolt
+2 Bloodstained Mire
 4 Hard Evidence
-1 Force of Negation
+4 Lightning Bolt
 2 Ketria Triome
+1 Force of Negation
+1 Explore
+2 Explore
 3 Steam Vents
 1 Boseiju, Who Endures
 1 Expressive Iteration
 2 Expressive Iteration
-1 Explore
-2 Explore
+3 Explore
+4 Explore
 1 Chained to the Rocks
 2 Force of Negation
 2 Chained to the Rocks
@@ -31,10 +33,12 @@
 2 Growth Spiral
 3 Growth Spiral
 4 Remand
-3 Explore
-4 Explore
 2 Mountain
 3 Bloodstained Mire
+1 Spreading Seas
+2 Spreading Seas
+3 Spreading Seas
+4 Spreading Seas
 3 Expressive Iteration
 1 Careful Cultivation
 1 Strike It Rich
@@ -46,26 +50,22 @@
 1 Prismatic Omen
 2 Prismatic Omen
 3 Prismatic Omen
-1 Spreading Seas
-2 Spreading Seas
-3 Spreading Seas
-4 Spreading Seas
+1 Snow-Covered Mountain
 2 Transmogrify
 1 Snow-Covered Plains
 1 March of Otherworldly Light
 2 Careful Cultivation
 3 Careful Cultivation
 4 Careful Cultivation
-1 Snow-Covered Mountain
 3 Ketria Triome
 2 Spell Pierce
 4 Strike It Rich
 4 Prismari Command
 3 Mountain
-1 Otawara, Soaring City
 1 Snow-Covered Forest
 1 Abundant Growth
 1 Spell Snare
+1 Otawara, Soaring City
 2 Abundant Growth
 2 Boseiju, Who Endures
 3 Abundant Growth
@@ -76,8 +76,6 @@
 1 Path to Exile
 1 The Wandering Emperor
 2 March of Otherworldly Light
-1 Lightning Helix
-4 Bloodstained Mire
 1 Snow-Covered Island
 4 Steam Vents
 1 Misty Rainforest
@@ -97,6 +95,8 @@
 3 Nissa, Steward of Elements
 4 Time Warp
 4 Savor the Moment
+1 Lightning Helix
+4 Bloodstained Mire
 1 Verdant Command
 1 Farseek
 1 Search for Tomorrow
@@ -110,12 +110,12 @@
 4 Verdant Command
 4 Search for Tomorrow
 4 Farseek
+1 Archon of Cruelty
 1 Blood Crypt
 1 Unholy Heat
-1 Archon of Cruelty
 2 Unholy Heat
-2 Blood Crypt
 2 Archon of Cruelty
+2 Blood Crypt
 3 Archon of Cruelty
 3 Transmogrify
 4 Transmogrify

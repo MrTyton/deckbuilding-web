@@ -26,17 +26,17 @@
 1 The Scarab God
 1 Renegade Rallier
 1 Glacial Fortress
-1 Tolsimir, Friend to Wolves
-1 Enigmatic Incarnation
 1 Skyclave Apparition
+1 Tolsimir, Friend to Wolves
 1 Calix, Destiny's Hand
+1 Enigmatic Incarnation
 1 Hostage Taker
-1 Elspeth's Nightmare
+1 Setessan Champion
 1 In Search of Greatness
 1 Woodland Cemetery
-1 Setessan Champion
 1 Yasharn, Implacable Earth
 1 Oath of Kaya
+1 Elspeth's Nightmare
 1 Archon of Sun's Grace
 1 Yorion, Sky Nomad
 1 Deputy of Detention
@@ -57,18 +57,18 @@
 2 Setessan Champion
 2 Trial of Ambition
 2 Overgrown Tomb
+3 Glacial Fortress
 3 Enigmatic Incarnation
 3 Skyclave Apparition
-3 Elspeth's Nightmare
 3 Calix, Destiny's Hand
+3 Elspeth's Nightmare
 3 Overgrown Tomb
 3 Oath of Kaya
-3 Glacial Fortress
 3 In Search of Greatness
 3 Trial of Ambition
 4 Enigmatic Incarnation
-4 Omen of the Sea
 4 Glacial Fortress
+4 Omen of the Sea
 4 Trial of Ambition
 4 In Search of Greatness
 4 Zagoth Triome
@@ -184,10 +184,10 @@
 4 Riverglide Pathway
 4 Steam Vents
 1 Mizzix's Mastery
-1 Spirebluff Canal
 1 Stormcarved Coast
 1 Otherworldly Gaze
 1 Faithless Looting
+1 Spirebluff Canal
 1 Serra's Emissary
 1 Craterhoof Behemoth
 1 Terror of Mount Velus
@@ -197,11 +197,11 @@
 1 Rise of the Dark Realms
 1 Spikefield Hazard
 2 Mizzix's Mastery
-2 Stormcarved Coast
-2 Spirebluff Canal
 2 Otherworldly Gaze
 2 Craterhoof Behemoth
+2 Stormcarved Coast
 2 Faithless Looting
+2 Spirebluff Canal
 2 Serra's Emissary
 2 Terror of Mount Velus
 2 Arclight Phoenix
@@ -238,8 +238,8 @@
 1 Gatebreaker Ram
 1 Root Snare
 1 Open the Gates
-2 Valki, God of Lies
 2 Felidar Retreat
+2 Valki, God of Lies
 2 Rakdos Guildgate
 2 Boros Guildgate
 2 Gatebreaker Ram
@@ -259,21 +259,21 @@
 4 Open the Gates
 1 Barkchannel Pathway
 1 Koma, Cosmos Serpent
+1 Gemrazer
 1 Necroblossom Snarl
 1 Vineglimmer Snarl
 1 The Great Henge
+1 Nissa, Who Shakes the World
 1 Temple of Malady
-1 Paradise Druid
 1 Temple of Deceit
+1 Paradise Druid
 1 Lotus Cobra
 1 Season of Growth
 1 Vivien, Champion of the Wilds
-1 Gemrazer
 1 Tamiyo, Collector of Tales
 1 Vivien Reid
 1 Scute Swarm
 1 Darkbore Pathway
-1 Nissa, Who Shakes the World
 1 Gilded Goose
 1 Castle Vantress
 1 Castle Locthwain
@@ -288,11 +288,12 @@
 1 Nethroi, Apex of Death
 1 Pouncing Shoreshark
 1 Insatiable Hemophage
+2 Gemrazer
+2 Darkbore Pathway
 2 Paradise Druid
 2 Lotus Cobra
 2 Nissa, Who Shakes the World
 2 Season of Growth
-2 Gemrazer
 2 Gilded Goose
 2 Insatiable Hemophage
 2 Boneyard Lurker
@@ -301,13 +302,12 @@
 2 Migratory Greathorn
 2 Pollywog Symbiote
 2 Pouncing Shoreshark
-2 Darkbore Pathway
 2 Swamp
 2 Fabled Passage
-3 Swamp
-3 Lotus Cobra
-3 Paradise Druid
 3 Gemrazer
+3 Swamp
+3 Paradise Druid
+3 Lotus Cobra
 3 Boneyard Lurker
 3 Insatiable Hemophage
 3 Fabled Passage
@@ -319,12 +319,13 @@
 1 Scavenger Grounds
 1 Crucible of Worlds
 1 Ratchet Bomb
+3 Stonecoil Serpent
 1 Otawara, Soaring City
 3 Spirebluff Canal
-3 Stonecoil Serpent
 3 Maze's End
 1 Omniscience
 2 The World Tree
+1 Wolfwillow Haven
 1 Hour of Promise
 1 Fae of Wishes
 1 Relic of Progenitus
@@ -332,31 +333,30 @@
 1 Cultivate
 1 Mirari's Wake
 1 Hydroid Krasis
-1 Wolfwillow Haven
 1 Hashep Oasis
 1 Shefet Dunes
 2 Hashep Oasis
+2 Wolfwillow Haven
 2 Hydroid Krasis
 2 Hour of Promise
 2 Fae of Wishes
 2 Relic of Progenitus
 2 Mirari's Wake
 2 Cultivate
-2 Wolfwillow Haven
 2 Shefet Dunes
 2 Omen of the Hunt
 2 Omniscience
-3 Cultivate
+3 Wolfwillow Haven
 3 Hashep Oasis
 3 Hour of Promise
 3 Shefet Dunes
 3 The World Tree
+3 Cultivate
 3 Mirari's Wake
 3 Hydroid Krasis
-3 Wolfwillow Haven
 4 Hour of Promise
-4 Cultivate
 4 The World Tree
+4 Cultivate
 4 Hydroid Krasis
 1 Key to the Archive
 1 Introduction to Prophecy
@@ -423,38 +423,38 @@
 1 Fading Hope
 1 Bala Ged Recovery
 1 Dream Trawler
+1 Khalni Ambush
 1 Botanical Sanctum
 1 Dreamroot Cascade
-1 Elder Gargaroth
-1 Thassa's Intervention
-1 Quench
 1 Lair of the Hydra
-1 Kazandu Mammoth
+1 Elder Gargaroth
 1 Goblin Dark-Dwellers
+1 Kazandu Mammoth
 1 Neoform
-1 Khalni Ambush
 1 Brazen Borrower
 1 Sea Gate Restoration
 1 Entrancing Melody
 1 Farewell
+1 Nightpack Ambusher
+1 Thassa's Intervention
 1 Forceful Cultivator
 1 Tovolar's Huntmaster
+1 Quench
 1 Frilled Mystic
 1 Memory Deluge
-1 Nightpack Ambusher
-2 Dreamroot Cascade
 2 Turntimber Symbiosis
 2 Sea Gate Restoration
-2 Quench
+2 Dreamroot Cascade
 2 Neoform
 2 Nightpack Ambusher
+2 Quench
 2 Forceful Cultivator
 2 Frilled Mystic
 3 Sea Gate Restoration
 3 Dreamroot Cascade
-3 Quench
 3 Neoform
 3 Forceful Cultivator
+3 Quench
 3 Frilled Mystic
 3 Turntimber Symbiosis
 4 Sea Gate Restoration

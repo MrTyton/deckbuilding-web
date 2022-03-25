@@ -43,8 +43,8 @@
 1 Spell Pierce
 1 Emrakul, the Aeons Torn
 1 Veil of Summer
-2 Spell Pierce
 2 Veil of Summer
+2 Spell Pierce
 2 Alpine Moon
 1 Nihil Spellbomb
 1 Mystical Dispute
@@ -52,6 +52,10 @@
 1 Disenchant
 1 Grief
 1 Kaya, Orzhov Usurper
+1 Kaya's Guile
+1 Shadowspear
+2 Kaya's Guile
+2 Void Mirror
 1 Damping Sphere
 1 Sundering Titan
 2 Damping Sphere
@@ -59,10 +63,6 @@
 2 Dress Down
 1 Pack Rat
 2 Damn
-1 Shadowspear
-1 Kaya's Guile
-2 Void Mirror
-2 Kaya's Guile
 3 Fatal Push
 1 Ancient Grudge
 2 Ancient Grudge
@@ -74,16 +74,16 @@
 2 Supreme Verdict
 2 Force of Despair
 3 Surgical Extraction
-1 Extirpate
 1 Doom Blade
+1 Extirpate
 2 Serra's Emissary
 2 Extirpate
 3 Extirpate
 2 Priest of Fell Rites
 3 Mulldrifter
 3 Priest of Fell Rites
-4 Teferi, Time Raveler
 4 Chalice of the Void
+4 Teferi, Time Raveler
 1 Rest in Peace
 2 Rest in Peace
 3 Collective Brutality

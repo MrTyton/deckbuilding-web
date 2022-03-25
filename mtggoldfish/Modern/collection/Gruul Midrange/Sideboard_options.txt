@@ -1,4 +1,4 @@
-1 Force of Vigor
+1 Thrun, the Last Troll
 2 Force of Vigor
 2 Endurance
 1 Elixir of Immortality
@@ -6,8 +6,13 @@
 1 Skysovereign, Consul Flagship
 1 Weather the Storm
 2 Weather the Storm
-1 Kitchen Finks
 1 Chandra, Awakened Inferno
+1 Trinisphere
+1 Obstinate Baloth
+1 Kitchen Finks
+2 Obstinate Baloth
+2 Engineered Explosives
+1 Dead/Gone
 3 Veil of Summer
 1 Fracturing Gust
 3 Endurance
@@ -16,26 +21,21 @@
 1 Thragtusk
 1 Molten Rain
 4 Veil of Summer
-1 Trinisphere
-1 Obstinate Baloth
-2 Obstinate Baloth
+2 Relic of Progenitus
 1 Shattering Spree
 2 Shattering Spree
-2 Engineered Explosives
 3 Force of Vigor
-1 Dead/Gone
+2 Dead/Gone
 1 Wurmcoil Engine
-2 Relic of Progenitus
 4 Force of Vigor
-1 Natural State
-2 Natural State
+2 Kitchen Finks
+1 Scavenging Ooze
+1 Cindervines
+2 Cindervines
 1 Run Afoul
 2 Run Afoul
-2 Kitchen Finks
-2 Dead/Gone
-1 Scavenging Ooze
-1 Magus of the Moon
 1 Grafdigger's Cage
+1 Magus of the Moon
 2 Thrun, the Last Troll
 1 Roiling Vortex
 2 Roiling Vortex
@@ -44,10 +44,11 @@
 1 Batterskull
 3 Chalice of the Void
 1 Broken Wings
+1 Boil
+1 Natural State
+2 Natural State
 1 Klothys, God of Destiny
-1 Cindervines
 1 Choke
-2 Cindervines
 1 Void Mirror
 1 Sudden Shock
 2 Ensnaring Bridge
@@ -55,7 +56,6 @@
 2 Boseiju, Who Endures
 2 Liquimetal Coating
 2 Chandra, Awakened Inferno
-1 Boil
 1 Anger of the Gods
 1 Abrade
 2 Anger of the Gods
@@ -64,11 +64,11 @@
 2 Tarmogoyf
 3 Engineered Explosives
 3 Obstinate Baloth
-2 Pithing Needle
-3 Pithing Needle
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 3 Soul-Guide Lantern
+2 Pithing Needle
+3 Pithing Needle
 1 Pyrite Spellbomb
 2 Pyrite Spellbomb
 2 Magus of the Moon

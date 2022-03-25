@@ -9,13 +9,13 @@
 2 Smash to Smithereens
 1 Unholy Heat
 2 Unholy Heat
-4 Shattering Spree
 3 Soul-Guide Lantern
-1 Flame Slash
+4 Shattering Spree
 1 Pillage
 2 Pillage
 1 Abrade
 2 Abrade
+1 Flame Slash
 3 Pillage
 3 Abrade
 3 Void Mirror
@@ -35,6 +35,8 @@
 1 Dragon's Claw
 2 Dragon's Claw
 3 Smash to Smithereens
+1 Magus of the Moon
+2 Magus of the Moon
 4 Pillage
 4 Smash to Smithereens
 4 Ratchet Bomb
@@ -43,8 +45,9 @@
 2 Tormod's Crypt
 3 Pyrite Spellbomb
 3 Fury
-1 Magus of the Moon
-2 Magus of the Moon
+1 Leyline of the Void
+2 Leyline of the Void
+3 Leyline of the Void
 1 Engineered Explosives
 2 Engineered Explosives
 1 Anger of the Gods
@@ -65,15 +68,12 @@
 3 Claim the Firstborn
 3 Bonecrusher Giant
 1 Alpine Moon
-1 Leyline of the Void
-2 Leyline of the Void
 2 Alpine Moon
-3 Leyline of the Void
 3 Dragon's Claw
 4 Leyline of the Void
 1 Pithing Needle
-1 Chandra, Awakened Inferno
 1 Cleansing Wildfire
+1 Chandra, Awakened Inferno
 1 Stormbreath Dragon
 2 Cleansing Wildfire
 3 Engineered Explosives
@@ -87,3 +87,7 @@
 4 Fury
 4 Abrade
 4 Unholy Heat
+1 Chandra, Dressed to Kill
+3 Magus of the Moon
+4 Magus of the Moon
+2 Chandra, Dressed to Kill

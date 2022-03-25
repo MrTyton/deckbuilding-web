@@ -72,10 +72,10 @@
 1 March of Wretched Sorrow
 2 March of Wretched Sorrow
 2 March of Otherworldly Light
-1 Sundown Pass
 1 Haunted Ridge
-2 Haunted Ridge
+1 Sundown Pass
 2 Sundown Pass
+2 Haunted Ridge
 3 Sorin the Mirthless
 3 Sundown Pass
 1 The Restoration of Eiganjo
@@ -83,8 +83,8 @@
 1 Portable Hole
 2 Portable Hole
 2 Doomskar
-6 Plains
 6 Swamp
+6 Plains
 1 Sejiri Shelter
 2 Archon of Emeria
 3 Haunted Ridge
@@ -92,9 +92,9 @@
 1 Kaya, Geist Hunter
 1 Soul Shatter
 1 Jadar, Ghoulcaller of Nephalia
-2 Takenuma, Abandoned Mire
 1 Ao, the Dawn Sky
 2 Ao, the Dawn Sky
+2 Takenuma, Abandoned Mire
 3 March of Otherworldly Light
 1 Power Word Kill
 1 Novice Occultist
@@ -102,12 +102,36 @@
 2 Novice Occultist
 3 Novice Occultist
 4 The Wandering Emperor
-1 Skullport Merchant
-2 Skullport Merchant
-2 Legion Angel
-3 Skullport Merchant
-4 Rite of Oblivion
-7 Plains
+1 Scoured Barrens
+1 Fateful Absence
+1 Liesa, Forgotten Archangel
+1 Nadaar, Selfless Paladin
+1 Cathar Commando
+1 Lion Sash
+1 Blightstep Pathway
+1 Cloudsteel Kirin
+1 Precipitous Drop
+1 Needleverge Pathway
+1 Triumphant Adventurer
+2 Hagra Mauling
+2 Scoured Barrens
+2 Fateful Absence
+2 Nadaar, Selfless Paladin
+2 Cathar Commando
+2 Kaya the Inexorable
+2 Sejiri Shelter
+2 Precipitous Drop
+2 Triumphant Adventurer
+3 Scoured Barrens
+3 Valki, God of Lies
+3 Hagra Mauling
+3 Archon of Emeria
+3 Cathar Commando
+3 Sejiri Shelter
+3 Nadaar, Selfless Paladin
+4 Skyclave Apparition
+4 Scoured Barrens
+4 Nadaar, Selfless Paladin
 1 Inscription of Ruin
 1 Starnheim Unleashed
 1 Tainted Adversary
@@ -128,33 +152,9 @@
 3 Tainted Adversary
 4 Lolth, Spider Queen
 7 Swamp
-1 Scoured Barrens
-1 Fateful Absence
-1 Liesa, Forgotten Archangel
-1 Nadaar, Selfless Paladin
-1 Cathar Commando
-1 Lion Sash
-1 Blightstep Pathway
-1 Cloudsteel Kirin
-1 Precipitous Drop
-1 Needleverge Pathway
-1 Triumphant Adventurer
-2 Sejiri Shelter
-2 Hagra Mauling
-2 Scoured Barrens
-2 Fateful Absence
-2 Nadaar, Selfless Paladin
-2 Cathar Commando
-2 Kaya the Inexorable
-2 Precipitous Drop
-2 Triumphant Adventurer
-3 Sejiri Shelter
-3 Scoured Barrens
-3 Valki, God of Lies
-3 Hagra Mauling
-3 Archon of Emeria
-3 Cathar Commando
-3 Nadaar, Selfless Paladin
-4 Skyclave Apparition
-4 Scoured Barrens
-4 Nadaar, Selfless Paladin
+1 Skullport Merchant
+2 Skullport Merchant
+2 Legion Angel
+3 Skullport Merchant
+4 Rite of Oblivion
+7 Plains

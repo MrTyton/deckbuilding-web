@@ -63,7 +63,7 @@
 |                     |                                                                                                      |                    3|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)  |
 |                     |                                                                                                      |                    3|[Dread of Night](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14580)      |
 |                     |                                                                                                      |                    4|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)  |
-|                     |                                                                                                      |                    4|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
 |                     |                                                                                                      |                    4|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)     |
+|                     |                                                                                                      |                    4|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
 |                     |                                                                                                      |                    3|[Flaring Pain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=34214)        |
 

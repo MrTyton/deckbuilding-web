@@ -1,5 +1,5 @@
+4 Tarmogoyf
 4 Dragon's Rage Channeler
-3 Fury
 4 Lightning Bolt
 1 Expressive Iteration
 2 Unholy Heat
@@ -9,6 +9,10 @@
 3 Mishra's Bauble
 4 Mishra's Bauble
 1 Tranquil Thicket
+1 Otawara, Soaring City
+4 Fury
+1 Tireless Tracker
+2 Tireless Tracker
 1 Mountain
 1 Seasoned Pyromancer
 1 Ignoble Hierarch
@@ -19,36 +23,35 @@
 3 Bloodbraid Elf
 4 Ignoble Hierarch
 4 Bloodbraid Elf
-1 Otawara, Soaring City
-4 Fury
-1 Tireless Tracker
-2 Tireless Tracker
 1 Sokenzan, Crucible of Defiance
 3 Tireless Tracker
 3 Life from the Loam
+1 Utopia Sprawl
+1 Magus of the Moon
+2 Utopia Sprawl
+2 Magus of the Moon
+3 Utopia Sprawl
+2 Snow-Covered Forest
 4 Life from the Loam
+1 Edge of Autumn
+2 Edge of Autumn
+4 Utopia Sprawl
 1 Endurance
 1 Sheltered Thicket
 2 Endurance
-2 Tranquil Thicket
 3 Forgotten Cave
+2 Tranquil Thicket
 1 Omnath, Locus of Creation
 1 Sacred Foundry
 1 Raugrin Triome
 2 Omnath, Locus of Creation
 3 Omnath, Locus of Creation
 4 Omnath, Locus of Creation
-2 Snow-Covered Forest
 1 Copperline Gorge
 2 Copperline Gorge
 3 Copperline Gorge
 4 Forgotten Cave
 4 Copperline Gorge
-1 Utopia Sprawl
-1 Magus of the Moon
-2 Utopia Sprawl
-2 Magus of the Moon
-3 Utopia Sprawl
 2 Fiery Islet
 2 Ketria Triome
 3 Endurance
@@ -65,13 +68,10 @@
 2 Arid Mesa
 2 Field of Ruin
 3 Snow-Covered Mountain
-3 Snow-Covered Forest
 3 Arid Mesa
+3 Snow-Covered Forest
 4 Arid Mesa
 4 Tireless Tracker
-1 Edge of Autumn
-2 Edge of Autumn
-4 Utopia Sprawl
 2 Mountain
 1 Arboreal Grazer
 2 Arboreal Grazer
@@ -103,8 +103,8 @@
 1 Island
 2 Sokenzan, Crucible of Defiance
 1 Swamp
-1 Verdant Catacombs
 1 Blood Crypt
+1 Verdant Catacombs
 1 Blood Moon
 1 Hall of Heliod's Generosity
 1 Nurturing Peatland
@@ -129,8 +129,8 @@
 1 Bloodstained Mire
 2 Den of the Bugbear
 2 Bloodstained Mire
-3 Tranquil Thicket
 3 Bloodstained Mire
+3 Tranquil Thicket
 3 Mountain
 1 Abundant Growth
 2 Abundant Growth

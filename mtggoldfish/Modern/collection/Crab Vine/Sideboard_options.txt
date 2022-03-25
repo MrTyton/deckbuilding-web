@@ -1,22 +1,22 @@
+1 Fatal Push
 2 Fatal Push
-1 Abrupt Decay
+1 Thoughtseize
+2 Thoughtseize
+1 Spell Pierce
+2 Spell Pierce
+3 Thoughtseize
 4 Leyline of the Void
 2 Abrupt Decay
 1 Mystic Repeal
 1 Damping Sphere
-1 Nature's Claim
-2 Nature's Claim
-1 Thoughtseize
-2 Thoughtseize
-2 Damping Sphere
-3 Thoughtseize
-3 Fatal Push
 1 Foundation Breaker
 2 Foundation Breaker
-1 Spell Pierce
-2 Spell Pierce
+2 Damping Sphere
+1 Nature's Claim
+2 Nature's Claim
 1 Force of Vigor
 1 Murderous Cut
+3 Fatal Push
 3 Subtlety
 1 Bontu's Last Reckoning
 1 Tarmogoyf
@@ -27,6 +27,7 @@
 3 Damping Sphere
 1 Collector Ouphe
 2 Collector Ouphe
+3 Spell Pierce
 3 Assassin's Trophy
 1 Gnaw to the Bone
 1 Wonder
@@ -34,18 +35,17 @@
 2 Force of Vigor
 1 Ancient Grudge
 1 Magus of the Moon
-1 Fury
 1 Echoing Truth
+1 Fury
 2 Magus of the Moon
 2 Echoing Truth
 2 Fury
 1 Prismatic Ending
 2 Prismatic Ending
 3 Prismatic Ending
-3 Spell Pierce
 1 Leyline of Sanctity
 2 Leyline of Sanctity
-3 Nature's Claim
+1 Inquisition of Kozilek
 1 Gemstone Caverns
 2 Gemstone Caverns
 2 Pithing Needle
@@ -53,32 +53,35 @@
 2 Hurkyl's Recall
 2 Ancient Grudge
 1 Lightning Axe
-1 Inquisition of Kozilek
 1 Cling to Dust
 1 Ashiok, Dream Render
 1 Masked Vandal
 1 Nihil Spellbomb
-1 Void Mirror
 1 Torpor Orb
 1 Return to Nature
+1 Void Mirror
 1 Forest
-2 Torpor Orb
 2 Void Mirror
+2 Torpor Orb
 2 Gnaw to the Bone
 1 Fiery Temper
 2 Fiery Temper
+2 Inquisition of Kozilek
+3 Inquisition of Kozilek
+3 Natural State
 1 Beast Within
 3 Pithing Needle
+3 Nature's Claim
 1 Witherbloom Command
-1 Unmoored Ego
 1 Plague Engineer
+1 Unmoored Ego
+1 Necroplasm
 1 Drown in Filth
 1 Driven/Despair
-1 Necroplasm
 1 Creeping Chill
+2 Masked Vandal
 2 Ashiok, Dream Render
 2 Creeping Chill
-2 Masked Vandal
 3 Creeping Chill
 1 Shattering Spree
 2 Lightning Axe
@@ -87,11 +90,10 @@
 3 Force of Vigor
 4 Subtlety
 4 Thoughtseize
-4 Nature's Claim
 3 Foundation Breaker
 4 Foundation Breaker
-1 Tide Shaper
 1 Lightning Bolt
+1 Tide Shaper
 2 Tide Shaper
 3 Tide Shaper
 3 Ancient Grudge
