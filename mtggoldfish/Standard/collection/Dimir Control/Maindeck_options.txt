@@ -1,46 +1,46 @@
-3 Bloodchief's Thirst
-2 Power Word Kill
-4 Memory Deluge
-2 Siphon Insight
-6 Swamp
-3 Fading Hope
-1 Nighthawk Scavenger
-2 Nighthawk Scavenger
-3 Nighthawk Scavenger
+2 Sedgemoor Witch
+3 Sedgemoor Witch
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 3 Snow-Covered Swamp
-1 Shadows' Verdict
 1 Snow-Covered Island
+1 Shadows' Verdict
+4 Memory Deluge
+1 Nighthawk Scavenger
+2 Nighthawk Scavenger
+3 Nighthawk Scavenger
 1 Blood on the Snow
 4 Snow-Covered Swamp
+1 Negate
 1 Professor Onyx
+2 Siphon Insight
 1 Duress
 2 Blood on the Snow
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
-1 Negate
-3 Consider
-1 Baleful Mastery
-1 Disdainful Stroke
+6 Swamp
+3 Fading Hope
 2 Soul Shatter
 2 Snow-Covered Island
 3 Snow-Covered Island
+2 Hive of the Eye Tyrant
 1 March of Wretched Sorrow
+2 Negate
 7 Snow-Covered Swamp
 1 Kaito Shizuki
-2 Hive of the Eye Tyrant
-2 The Celestus
 4 Snow-Covered Island
 5 Snow-Covered Island
 1 Soul Transfer
-2 Negate
+1 Kotose, the Silent Spider
+2 Shadows' Verdict
+1 Disdainful Stroke
+3 Consider
 6 Island
+1 Baleful Mastery
 1 Invoke Despair
 2 Duress
-4 Saw It Coming
 2 Kaito Shizuki
-1 Kotose, the Silent Spider
+4 Saw It Coming
 1 Lolth, Spider Queen
 3 Blood on the Snow
 8 Snow-Covered Swamp
@@ -53,8 +53,8 @@
 3 Deadly Dispute
 3 Shambling Ghast
 9 Snow-Covered Swamp
-2 Shadows' Verdict
-4 Consider
+1 Hero's Downfall
+3 Shadows' Verdict
 1 Eyetwitch
 2 Eyetwitch
 3 Eyetwitch
@@ -62,11 +62,13 @@
 3 Kaito Shizuki
 4 Eyetwitch
 4 Bloodchief's Thirst
-2 Baleful Mastery
+2 The Celestus
 1 Test of Talents
 4 Shambling Ghast
 4 Deadly Dispute
 10 Snow-Covered Swamp
+1 Reckoner Bankbuster
+2 Reckoner Bankbuster
 1 Pelakka Predation
 2 Pelakka Predation
 2 Professor Onyx
@@ -74,10 +76,8 @@
 3 Soul Shatter
 2 Sorin the Mirthless
 1 Hagra Mauling
-1 Hero's Downfall
-3 Shadows' Verdict
+3 Field of Ruin
 4 Kaito Shizuki
-3 Baleful Mastery
 1 Cram Session
 1 Jin-Gitaxias, Progress Tyrant
 2 Cram Session
@@ -88,22 +88,37 @@
 4 Negate
 4 Shadows' Verdict
 1 Thirst for Discovery
+4 Consider
+2 Baleful Mastery
 1 Parasitic Grasp
-1 Reckoner Bankbuster
-2 Reckoner Bankbuster
 1 Ice Tunnel
 2 Ice Tunnel
 3 Ice Tunnel
 4 Fading Hope
-7 Snow-Covered Island
+1 Syncopate
+2 Iymrith, Desert Doom
+2 Syncopate
 3 Siphon Insight
+7 Snow-Covered Island
 3 Infernal Grasp
-3 Field of Ruin
+2 Hero's Downfall
+4 Jwari Disruption
 2 Thirst for Discovery
 2 Invoke Despair
 3 Power Word Kill
 4 Duress
 7 Island
+1 Valki, God of Lies
+1 Snow-Covered Mountain
+1 Blightstep Pathway
+2 Valki, God of Lies
+2 Blightstep Pathway
+3 Reckoner Bankbuster
+3 Valki, God of Lies
+3 Syncopate
+4 Syncopate
+4 Field of Ruin
+3 Baleful Mastery
 1 Debt to the Kami
 1 Graveyard Trespasser
 2 Graveyard Trespasser
@@ -113,14 +128,9 @@
 3 Hall of Storm Giants
 1 Flunk
 2 Flunk
-1 Syncopate
-2 Iymrith, Desert Doom
-2 Syncopate
 1 Kairi, the Swirling Sky
 2 Kairi, the Swirling Sky
 4 Ice Tunnel
-2 Hero's Downfall
-4 Jwari Disruption
 1 Poison the Cup
 2 Poison the Cup
 1 Suspicious Stowaway
@@ -158,6 +168,7 @@
 3 Behold the Multiverse
 3 Lier, Disciple of the Drowned
 3 Hullbreaker Horror
+4 Reckoner Bankbuster
 1 Path of Peril
 1 Feed the Swarm
 1 Brightclimb Pathway
@@ -177,17 +188,6 @@
 3 Ruin Crab
 4 Maddening Cacophony
 4 Ruin Crab
-1 Snow-Covered Mountain
-1 Valki, God of Lies
-1 Blightstep Pathway
-2 Valki, God of Lies
-2 Blightstep Pathway
-3 Reckoner Bankbuster
-3 Valki, God of Lies
-3 Syncopate
-4 Reckoner Bankbuster
-4 Syncopate
-4 Field of Ruin
 1 Zareth San, the Trickster
 1 Agadeem's Awakening
 1 Merfolk Windrobber
@@ -200,8 +200,8 @@
 3 Soaring Thought-Thief
 4 Nighthawk Scavenger
 4 Soaring Thought-Thief
-4 Zareth San, the Trickster
 4 Merfolk Windrobber
+4 Zareth San, the Trickster
 2 Sea Gate Restoration
 3 Sea Gate Restoration
 3 Hero's Downfall

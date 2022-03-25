@@ -1,7 +1,7 @@
 1 Lightning Strike
 2 Lightning Strike
-12 Mountain
 3 Lightning Strike
+12 Mountain
 1 Goblin Chainwhirler
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
@@ -18,28 +18,27 @@
 4 Cemetery Gatekeeper
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
-4 Chandra, Torch of Defiance
-15 Mountain
-16 Mountain
 1 Zurgo Bellstriker
 1 Shock
 2 Shock
+4 Chandra, Torch of Defiance
+15 Mountain
+16 Mountain
+1 Mutavault
 3 Rampaging Ferocidon
 4 Rampaging Ferocidon
-17 Mountain
-1 Torbran, Thane of Red Fell
-2 Torbran, Thane of Red Fell
-1 Mutavault
-1 Lava Coil
-2 Lava Coil
 3 Wild Slash
+1 Experimental Frenzy
+1 Torbran, Thane of Red Fell
 1 Castle Embereth
 1 Snow-Covered Mountain
 1 Hazoret the Fervent
-1 Kari Zev, Skyship Raider
+1 Shatterskull Smashing
 1 Skullcrack
 2 Skullcrack
 1 Flame-Blessed Bolt
+1 Lava Coil
+2 Lava Coil
 2 Flame-Blessed Bolt
 3 Spikefield Hazard
 1 Abbot of Keral Keep
@@ -53,7 +52,6 @@
 1 Robber of the Rich
 1 Burning-Tree Emissary
 1 Anax, Hardened in the Forge
-1 Experimental Frenzy
 2 Castle Embereth
 2 Nykthos, Shrine to Nyx
 2 Embercleave
@@ -74,3 +72,5 @@
 3 Bomat Courier
 4 Bomat Courier
 4 Wild Slash
+2 Torbran, Thane of Red Fell
+17 Mountain

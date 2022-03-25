@@ -1,50 +1,52 @@
-1 Thundering Rebuke
-2 Hullbreaker Horror
 2 Shipwreck Marsh
+1 Thundering Rebuke
 1 Test of Talents
 2 Haunted Ridge
+2 Hullbreaker Horror
 2 Lier, Disciple of the Drowned
 2 Goldspan Dragon
 1 Swamp
 3 Shipwreck Marsh
-1 Infernal Grasp
 1 Prismari Command
+1 Infernal Grasp
 3 Haunted Ridge
-4 Clearwater Pathway
 4 Shipwreck Marsh
 1 Power Word Kill
-1 Consider
 4 Haunted Ridge
+4 Clearwater Pathway
 1 Duress
 2 Cinderclasm
+1 Consider
 3 Fading Hope
 3 Goldspan Dragon
-2 The Celestus
 2 Consider
 2 Duress
 2 Prismari Command
+2 The Celestus
 1 Memory Deluge
-2 Infernal Grasp
 1 Bloodchief's Thirst
-3 Hullbreaker Horror
-1 The Meathook Massacre
 1 Valki, God of Lies
-1 Sedgemoor Witch
+1 The Meathook Massacre
+3 Hullbreaker Horror
+2 Infernal Grasp
 4 Goldspan Dragon
-2 Abrade
-2 Power Word Kill
+1 Sedgemoor Witch
 2 The Meathook Massacre
-1 Disdainful Stroke
+2 Power Word Kill
+2 Abrade
+2 Bloodchief's Thirst
 1 Smoldering Egg
 1 Hive of the Eye Tyrant
-2 Bloodchief's Thirst
 2 Burn Down the House
 2 Memory Deluge
 4 Fading Hope
 1 Den of the Bugbear
 3 The Celestus
-2 Smoldering Egg
+1 Dragon's Fire
+2 Dragon's Fire
 2 Swamp
+2 Smoldering Egg
+1 Disdainful Stroke
 1 Deadly Dispute
 2 Deadly Dispute
 3 Deadly Dispute
@@ -52,8 +54,6 @@
 1 Saw It Coming
 3 The Meathook Massacre
 1 Soul Shatter
-1 Dragon's Fire
-2 Dragon's Fire
 1 Otawara, Soaring City
 1 Shambling Ghast
 2 Shambling Ghast
@@ -67,28 +67,31 @@
 4 Shambling Ghast
 4 Deadly Dispute
 1 Negate
+3 Dragon's Fire
+4 Dragon's Fire
 3 Prismari Command
+1 Sorin the Mirthless
+2 Sorin the Mirthless
+1 Kaito Shizuki
+2 Kaito Shizuki
 1 Ray of Enfeeblement
 1 Magma Opus
 2 Magma Opus
 3 Swamp
+1 Fable of the Mirror-Breaker
+2 Fable of the Mirror-Breaker
+3 Fable of the Mirror-Breaker
 3 Power Word Kill
 1 Dread Fugue
+1 Reckoner Bankbuster
 1 Skullport Merchant
 2 Skullport Merchant
 3 Saw It Coming
-3 Dragon's Fire
-4 Dragon's Fire
-1 Reckoner Bankbuster
-3 Abrade
 2 Field of Ruin
+3 Abrade
 1 Shatterskull Smashing
-1 Sorin the Mirthless
-2 Sorin the Mirthless
 1 Galazeth Prismari
 2 Galazeth Prismari
-1 Kaito Shizuki
-2 Kaito Shizuki
 1 Professor Onyx
 1 Cathartic Pyre
 4 Prismari Command
@@ -109,12 +112,19 @@
 7 Swamp
 8 Swamp
 9 Swamp
+1 Graveyard Trespasser
+2 Graveyard Trespasser
+3 Graveyard Trespasser
+4 Graveyard Trespasser
+4 Fable of the Mirror-Breaker
+1 Spell Pierce
 2 Sedgemoor Witch
 3 Sedgemoor Witch
 1 Kalain, Reclusive Painter
 2 Kalain, Reclusive Painter
 3 Kalain, Reclusive Painter
 4 Kalain, Reclusive Painter
+1 Reject
 1 Syncopate
 2 Syncopate
 1 Alchemist's Gambit
@@ -123,10 +133,6 @@
 3 Hall of Storm Giants
 4 Power Word Kill
 2 Dread Fugue
-1 Reject
-1 Fable of the Mirror-Breaker
-2 Fable of the Mirror-Breaker
-3 Fable of the Mirror-Breaker
 2 Shatterskull Smashing
 1 Return Upon the Tide
 1 Olivia, Crimson Bride
@@ -179,16 +185,18 @@
 1 Voltage Surge
 1 Sokenzan, Crucible of Defiance
 2 Malevolent Hermit
-1 Spell Pierce
+1 Cemetery Illuminator
+2 Cemetery Illuminator
+2 Reckoner Bankbuster
 2 Spell Pierce
 2 Alchemist's Gambit
 1 Malakir Rebirth
-1 Honored Heirloom
 1 Consuming Tide
+1 Honored Heirloom
 2 Consuming Tide
 2 Malakir Rebirth
-1 Cemetery Illuminator
-2 Cemetery Illuminator
+1 Sea Gate Restoration
+3 Memory Deluge
 1 Bloodvial Purveyor
 1 Bloodtithe Harvester
 1 Mystic Reflection
@@ -198,42 +206,23 @@
 2 Bloodtithe Harvester
 2 Mystic Reflection
 2 Hungry for More
+3 Valki, God of Lies
 3 Bloodvial Purveyor
 3 Immersturm Predator
-3 Valki, God of Lies
-1 Sea Gate Restoration
-3 Memory Deluge
 3 Cinderclasm
-1 Manaform Hellkite
 1 Life of Toshiro Umezawa
+1 Manaform Hellkite
 2 Life of Toshiro Umezawa
 3 Behold the Multiverse
 1 Otherworldly Gaze
 2 Otherworldly Gaze
 3 Otherworldly Gaze
 3 Smoldering Egg
-1 Lolth, Spider Queen
-1 Invoke Despair
-2 Invoke Despair
-2 Lolth, Spider Queen
-3 Invoke Despair
-3 Baleful Mastery
-3 Shadows' Verdict
-3 Kaito Shizuki
-4 The Meathook Massacre
-4 Kaito Shizuki
-4 Shadows' Verdict
 1 Morkrut Behemoth
 2 Morkrut Behemoth
 3 Path of Peril
 3 Morkrut Behemoth
 4 Infernal Grasp
-1 Graveyard Trespasser
-2 Graveyard Trespasser
-2 Reckoner Bankbuster
-3 Graveyard Trespasser
-4 Graveyard Trespasser
-4 Fable of the Mirror-Breaker
 3 Dread Fugue
 4 Dread Fugue
 2 Disdainful Stroke
@@ -275,8 +264,8 @@
 3 Thirst for Discovery
 4 Thirst for Discovery
 4 Toxrill, the Corrosive
-1 Magmatic Channeler
 1 Dollhouse of Horrors
+1 Magmatic Channeler
 2 Dollhouse of Horrors
 2 Magmatic Channeler
 3 Skullport Merchant
@@ -284,6 +273,17 @@
 3 Dollhouse of Horrors
 4 Skullport Merchant
 4 Magmatic Channeler
+1 Lolth, Spider Queen
+1 Invoke Despair
+2 Invoke Despair
+2 Lolth, Spider Queen
+3 Invoke Despair
+3 Baleful Mastery
+3 Shadows' Verdict
+3 Kaito Shizuki
+4 The Meathook Massacre
+4 Shadows' Verdict
+4 Kaito Shizuki
 1 Snow-Covered Swamp
 1 Vampire's Kiss
 1 Voldaren Epicure
@@ -304,13 +304,13 @@
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
+1 Jace, Mirror Mage
 1 Cosmos Elixir
+1 Alrund, God of the Cosmos
 1 Xanathar, Guild Kingpin
 1 Blood on the Snow
 1 Lithoform Engine
 1 Inferno of the Star Mounts
-1 Jace, Mirror Mage
-1 Alrund, God of the Cosmos
 1 Blood Pact
 1 Crawling Barrens
 1 Varragoth, Bloodsky Sire
@@ -325,6 +325,6 @@
 4 Island
 4 Saw It Coming
 5 Island
-6 Island
-8 Island
 7 Island
+8 Island
+6 Island

@@ -37,8 +37,8 @@
 3 Thoughtseize
 2 Jace, the Mind Sculptor
 1 Field of Ruin
-1 Bitterblossom
 1 Spellstutter Sprite
+1 Bitterblossom
 2 Spellstutter Sprite
 2 Bitterblossom
 3 Spellstutter Sprite
@@ -58,10 +58,10 @@
 4 Dress Down
 3 Jace, the Mind Sculptor
 1 Takenuma, Abandoned Mire
-1 Nihil Spellbomb
 1 Shadowspear
-1 Urza's Saga
 1 Aether Spellbomb
+1 Urza's Saga
+1 Nihil Spellbomb
 2 Urza's Saga
 3 Urza's Saga
 3 Bloodchief's Thirst
@@ -76,14 +76,14 @@
 4 Inquisition of Kozilek
 1 Brazen Borrower
 2 Brazen Borrower
-1 Geier Reach Sanitarium
 1 Search for Azcanta
+1 Geier Reach Sanitarium
 1 Tyrant's Scorn
-1 Collective Brutality
-2 Collective Brutality
 1 Soul Transfer
 1 March of Wretched Sorrow
 2 March of Wretched Sorrow
+1 Collective Brutality
+2 Collective Brutality
 1 Jace, Vryn's Prodigy
 2 Jace, Vryn's Prodigy
 1 Mistbind Clique
@@ -104,8 +104,6 @@
 3 Brazen Borrower
 2 Castle Vantress
 3 Castle Vantress
-3 Shark Typhoon
-4 Shark Typhoon
 1 Murktide Regent
 1 Go for the Throat
 2 Murktide Regent
@@ -115,19 +113,16 @@
 4 Murktide Regent
 4 Watery Grave
 1 Bloodstained Mire
-1 Unearth
-1 Sudden Edict
 1 Dauthi Voidwalker
+1 Sudden Edict
+1 Unearth
 2 Bloodstained Mire
-2 Sudden Edict
 2 Dauthi Voidwalker
+2 Sudden Edict
 3 Tourach, Dread Cantor
 3 Dauthi Voidwalker
 4 Dauthi Voidwalker
-1 Spreading Seas
-2 Spreading Seas
-3 Spreading Seas
-4 Spreading Seas
+1 Marsh Flats
 1 Moon-Circuit Hacker
 1 March of Swirling Mist
 1 Dokuchi Silencer
@@ -136,13 +131,12 @@
 1 Changeling Outcast
 1 Faerie Seer
 1 Misty Rainforest
-1 Marsh Flats
 2 Misty Rainforest
+2 Marsh Flats
 2 Dokuchi Silencer
 2 Moon-Circuit Hacker
 2 March of Swirling Mist
 2 Changeling Outcast
-2 Marsh Flats
 2 Faerie Seer
 2 Ingenious Infiltrator
 2 Silver-Fur Master
@@ -151,8 +145,14 @@
 3 Ingenious Infiltrator
 3 Changeling Outcast
 3 Faerie Seer
+4 Moon-Circuit Hacker
 4 Misty Rainforest
 4 Changeling Outcast
 4 Ingenious Infiltrator
 4 Faerie Seer
-4 Moon-Circuit Hacker
+1 Spreading Seas
+2 Spreading Seas
+3 Spreading Seas
+4 Spreading Seas
+3 Shark Typhoon
+4 Shark Typhoon

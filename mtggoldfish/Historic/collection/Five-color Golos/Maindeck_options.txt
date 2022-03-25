@@ -26,21 +26,21 @@
 1 The Scarab God
 1 Renegade Rallier
 1 Glacial Fortress
-1 Calix, Destiny's Hand
 1 Tolsimir, Friend to Wolves
-1 Skyclave Apparition
 1 Enigmatic Incarnation
+1 Skyclave Apparition
+1 Calix, Destiny's Hand
 1 Hostage Taker
-1 Setessan Champion
-1 Archon of Sun's Grace
+1 Elspeth's Nightmare
 1 In Search of Greatness
 1 Woodland Cemetery
+1 Setessan Champion
 1 Yasharn, Implacable Earth
+1 Oath of Kaya
+1 Archon of Sun's Grace
 1 Yorion, Sky Nomad
 1 Deputy of Detention
 1 Trial of Ambition
-1 Elspeth's Nightmare
-1 Oath of Kaya
 1 Klothys, God of Destiny
 1 Ravenous Chupacabra
 1 Hinterland Harbor
@@ -49,30 +49,30 @@
 2 Skyclave Apparition
 2 Glacial Fortress
 2 Calix, Destiny's Hand
-2 In Search of Greatness
 2 Woodland Cemetery
+2 Elspeth's Nightmare
+2 Oath of Kaya
+2 In Search of Greatness
 2 Hinterland Harbor
 2 Setessan Champion
 2 Trial of Ambition
 2 Overgrown Tomb
-2 Oath of Kaya
-2 Elspeth's Nightmare
 3 Enigmatic Incarnation
 3 Skyclave Apparition
+3 Elspeth's Nightmare
 3 Calix, Destiny's Hand
 3 Overgrown Tomb
 3 Oath of Kaya
-3 Elspeth's Nightmare
 3 Glacial Fortress
 3 In Search of Greatness
 3 Trial of Ambition
 4 Enigmatic Incarnation
 4 Omen of the Sea
 4 Glacial Fortress
-4 Binding the Old Gods
 4 Trial of Ambition
 4 In Search of Greatness
 4 Zagoth Triome
+4 Binding the Old Gods
 2 Crawling Barrens
 1 Aether Hub
 2 Aether Hub
@@ -87,8 +87,8 @@
 2 Mystic Forge
 2 Mobilized District
 3 Blinkmoth Nexus
-3 Blast Zone
 3 Crawling Barrens
+3 Blast Zone
 3 Mobilized District
 4 Blinkmoth Nexus
 4 Blast Zone
@@ -128,15 +128,15 @@
 2 Gruul Guildgate
 2 Circuitous Route
 2 Izzet Guildgate
-3 Explore
 3 Growth Spiral
 3 Circuitous Route
 3 Guild Summit
+3 Explore
 3 Gates Ablaze
 3 Plaza of Harmony
-4 Explore
 4 Gates Ablaze
 4 Circuitous Route
+4 Explore
 1 Bojuka Bog
 1 Stonecoil Serpent
 2 Stonecoil Serpent
@@ -154,8 +154,8 @@
 3 Assassin's Trophy
 3 Simic Guildgate
 4 Elvish Rejuvenator
-4 Plaza of Harmony
 4 Arboreal Grazer
+4 Plaza of Harmony
 1 Indatha Triome
 2 Indatha Triome
 3 Indatha Triome
@@ -184,43 +184,43 @@
 4 Riverglide Pathway
 4 Steam Vents
 1 Mizzix's Mastery
-1 Stormcarved Coast
 1 Spirebluff Canal
+1 Stormcarved Coast
 1 Otherworldly Gaze
-1 Spikefield Hazard
+1 Faithless Looting
 1 Serra's Emissary
 1 Craterhoof Behemoth
 1 Terror of Mount Velus
-1 Faithless Looting
 1 Faithless Salvaging
 1 Arclight Phoenix
 1 Consider
 1 Rise of the Dark Realms
+1 Spikefield Hazard
 2 Mizzix's Mastery
 2 Stormcarved Coast
+2 Spirebluff Canal
 2 Otherworldly Gaze
 2 Craterhoof Behemoth
+2 Faithless Looting
 2 Serra's Emissary
 2 Terror of Mount Velus
-2 Spirebluff Canal
 2 Arclight Phoenix
 2 Rise of the Dark Realms
 2 Consider
-2 Faithless Looting
 3 Mizzix's Mastery
-3 Stormcarved Coast
 3 Otherworldly Gaze
+3 Stormcarved Coast
+3 Faithless Looting
 3 Consider
 3 Craterhoof Behemoth
-3 Faithless Looting
 3 Terror of Mount Velus
 3 Serra's Emissary
 3 Rise of the Dark Realms
 3 Arclight Phoenix
-4 Stormcarved Coast
 4 Otherworldly Gaze
-4 Mizzix's Mastery
+4 Stormcarved Coast
 4 Faithless Looting
+4 Mizzix's Mastery
 4 Arclight Phoenix
 4 Consider
 4 Rise of the Dark Realms
@@ -231,9 +231,9 @@
 2 Abundant Harvest
 1 Alrund's Epiphany
 2 Alrund's Epiphany
-1 Felidar Retreat
 1 Valki, God of Lies
 1 Archway Angel
+1 Felidar Retreat
 1 Gate Colossus
 1 Gatebreaker Ram
 1 Root Snare
@@ -259,23 +259,23 @@
 4 Open the Gates
 1 Barkchannel Pathway
 1 Koma, Cosmos Serpent
-1 Gemrazer
-1 Darkbore Pathway
+1 Necroblossom Snarl
 1 Vineglimmer Snarl
 1 The Great Henge
-1 Temple of Deceit
-1 Paradise Druid
-1 Lotus Cobra
-1 Nissa, Who Shakes the World
-1 Season of Growth
 1 Temple of Malady
-1 Necroblossom Snarl
+1 Paradise Druid
+1 Temple of Deceit
+1 Lotus Cobra
+1 Season of Growth
 1 Vivien, Champion of the Wilds
+1 Gemrazer
 1 Tamiyo, Collector of Tales
+1 Vivien Reid
 1 Scute Swarm
+1 Darkbore Pathway
+1 Nissa, Who Shakes the World
 1 Gilded Goose
 1 Castle Vantress
-1 Vivien Reid
 1 Castle Locthwain
 1 Dirge Bat
 1 Fabled Passage
@@ -288,12 +288,11 @@
 1 Nethroi, Apex of Death
 1 Pouncing Shoreshark
 1 Insatiable Hemophage
-2 Gemrazer
-2 Darkbore Pathway
 2 Paradise Druid
 2 Lotus Cobra
 2 Nissa, Who Shakes the World
 2 Season of Growth
+2 Gemrazer
 2 Gilded Goose
 2 Insatiable Hemophage
 2 Boneyard Lurker
@@ -302,16 +301,17 @@
 2 Migratory Greathorn
 2 Pollywog Symbiote
 2 Pouncing Shoreshark
+2 Darkbore Pathway
 2 Swamp
 2 Fabled Passage
-3 Gemrazer
-3 Paradise Druid
+3 Swamp
 3 Lotus Cobra
+3 Paradise Druid
+3 Gemrazer
 3 Boneyard Lurker
 3 Insatiable Hemophage
 3 Fabled Passage
 3 Gilded Goose
-3 Swamp
 3 Auspicious Starrix
 3 Pollywog Symbiote
 3 Migratory Greathorn
@@ -319,10 +319,10 @@
 1 Scavenger Grounds
 1 Crucible of Worlds
 1 Ratchet Bomb
-3 Stonecoil Serpent
-3 Maze's End
 1 Otawara, Soaring City
 3 Spirebluff Canal
+3 Stonecoil Serpent
+3 Maze's End
 1 Omniscience
 2 The World Tree
 1 Hour of Promise
@@ -346,17 +346,17 @@
 2 Shefet Dunes
 2 Omen of the Hunt
 2 Omniscience
+3 Cultivate
 3 Hashep Oasis
 3 Hour of Promise
 3 Shefet Dunes
 3 The World Tree
-3 Cultivate
 3 Mirari's Wake
 3 Hydroid Krasis
 3 Wolfwillow Haven
 4 Hour of Promise
-4 The World Tree
 4 Cultivate
+4 The World Tree
 4 Hydroid Krasis
 1 Key to the Archive
 1 Introduction to Prophecy
@@ -376,123 +376,26 @@
 3 Mech Hangar
 3 Key to the Archive
 4 Key to the Archive
-2 Barkchannel Pathway
-1 Kogla, the Titan Ape
-1 Turntimber Symbiosis
-1 Fading Hope
-1 Dream Trawler
-1 Goblin Dark-Dwellers
-1 Botanical Sanctum
-1 Dreamroot Cascade
-1 Elder Gargaroth
-1 Frilled Mystic
-1 Kazandu Mammoth
-1 Khalni Ambush
-1 Neoform
-1 Brazen Borrower
-1 Farewell
-1 Entrancing Melody
-1 Sea Gate Restoration
-1 Thassa's Intervention
-1 Forceful Cultivator
-1 Tovolar's Huntmaster
-1 Quench
-1 Lair of the Hydra
-1 Bala Ged Recovery
-1 Memory Deluge
-1 Nightpack Ambusher
-2 Turntimber Symbiosis
-2 Sea Gate Restoration
-2 Dreamroot Cascade
-2 Frilled Mystic
-2 Neoform
-2 Quench
-2 Nightpack Ambusher
-2 Forceful Cultivator
-3 Sea Gate Restoration
-3 Dreamroot Cascade
-3 Frilled Mystic
-3 Neoform
-3 Forceful Cultivator
-3 Quench
-3 Turntimber Symbiosis
-4 Sea Gate Restoration
-4 Frilled Mystic
-4 Dreamroot Cascade
-4 Forceful Cultivator
-4 Neoform
-4 Turntimber Symbiosis
-4 Breeding Pool
-1 Snow-Covered Plains
-2 Cascading Cataracts
-2 Labyrinth of Skophos
-3 Labyrinth of Skophos
-4 Buried Ruin
-1 Needleverge Pathway
-1 Baffling End
-1 Hengegate Pathway
-1 Sterling Grove
-1 Sanctum of Shattered Heights
-1 Sanctum of All
-1 Sanctum of Calm Waters
-1 Enchantress's Presence
-1 Sythis, Harvest's Hand
-1 Savai Triome
-1 Sanctum of Stone Fangs
-1 Chromatic Lantern
-1 Sanctum Weaver
-1 Solemnity
-1 Branchloft Pathway
-1 Honden of Night's Reach
-1 Nine Lives
-1 Sanctum of Fruitful Harvest
-1 Sanctum of Tranquil Light
-2 Baffling End
-2 Needleverge Pathway
-2 Branchloft Pathway
-2 Sanctum Weaver
-2 Sythis, Harvest's Hand
-2 Sterling Grove
-2 Sanctum of All
-2 Chromatic Lantern
-2 Enchantress's Presence
-2 Ketria Triome
-3 Baffling End
-3 Needleverge Pathway
-3 Chromatic Lantern
-3 Sythis, Harvest's Hand
-3 Branchloft Pathway
-3 Sanctum Weaver
-3 Sterling Grove
-3 Sanctum of All
-4 Baffling End
-4 Sythis, Harvest's Hand
-4 Sterling Grove
-4 Temple Garden
-4 Branchloft Pathway
-4 Sanctum of All
-4 Sanctum Weaver
-4 Indatha Triome
 1 Khalni Garden
 1 Magma Opus
-1 Cragcrown Pathway
+1 Scholar of the Lost Trove
 1 Throes of Chaos
-1 Phyrexian Tower
+1 Cragcrown Pathway
 1 Treasure Vault
+1 Elesh Norn, Grand Cenobite
 1 Tibalt's Trickery
 1 Chandra, Awakened Inferno
 1 The Tarrasque
 1 Emergent Ultimatum
 1 Emergence Zone
-1 Elesh Norn, Grand Cenobite
-1 Scholar of the Lost Trove
 1 Mirrodin's Core
+1 Phyrexian Tower
 1 Blood Crypt
+2 Phyrexian Tower
 2 Khalni Garden
 2 Magma Opus
-2 Cragcrown Pathway
 2 Treasure Vault
-2 Phyrexian Tower
+2 Cragcrown Pathway
 2 Chandra, Awakened Inferno
 2 Blood Crypt
 2 Tibalt's Trickery
@@ -509,8 +412,105 @@
 3 Blood Crypt
 4 Khalni Garden
 4 Magma Opus
+4 Alrund's Epiphany
 4 Throes of Chaos
 4 Emergent Ultimatum
 4 Blood Crypt
 4 Cragcrown Pathway
-4 Alrund's Epiphany
+2 Barkchannel Pathway
+1 Kogla, the Titan Ape
+1 Turntimber Symbiosis
+1 Fading Hope
+1 Bala Ged Recovery
+1 Dream Trawler
+1 Botanical Sanctum
+1 Dreamroot Cascade
+1 Elder Gargaroth
+1 Thassa's Intervention
+1 Quench
+1 Lair of the Hydra
+1 Kazandu Mammoth
+1 Goblin Dark-Dwellers
+1 Neoform
+1 Khalni Ambush
+1 Brazen Borrower
+1 Sea Gate Restoration
+1 Entrancing Melody
+1 Farewell
+1 Forceful Cultivator
+1 Tovolar's Huntmaster
+1 Frilled Mystic
+1 Memory Deluge
+1 Nightpack Ambusher
+2 Dreamroot Cascade
+2 Turntimber Symbiosis
+2 Sea Gate Restoration
+2 Quench
+2 Neoform
+2 Nightpack Ambusher
+2 Forceful Cultivator
+2 Frilled Mystic
+3 Sea Gate Restoration
+3 Dreamroot Cascade
+3 Quench
+3 Neoform
+3 Forceful Cultivator
+3 Frilled Mystic
+3 Turntimber Symbiosis
+4 Sea Gate Restoration
+4 Dreamroot Cascade
+4 Forceful Cultivator
+4 Frilled Mystic
+4 Neoform
+4 Turntimber Symbiosis
+4 Breeding Pool
+1 Snow-Covered Plains
+2 Cascading Cataracts
+2 Labyrinth of Skophos
+3 Labyrinth of Skophos
+4 Buried Ruin
+1 Needleverge Pathway
+1 Sterling Grove
+1 Branchloft Pathway
+1 Baffling End
+1 Sythis, Harvest's Hand
+1 Sanctum Weaver
+1 Hengegate Pathway
+1 Sanctum of Shattered Heights
+1 Sanctum of All
+1 Sanctum of Calm Waters
+1 Enchantress's Presence
+1 Savai Triome
+1 Sanctum of Stone Fangs
+1 Chromatic Lantern
+1 Solemnity
+1 Honden of Night's Reach
+1 Nine Lives
+1 Sanctum of Fruitful Harvest
+1 Sanctum of Tranquil Light
+2 Baffling End
+2 Needleverge Pathway
+2 Sterling Grove
+2 Sanctum Weaver
+2 Sythis, Harvest's Hand
+2 Branchloft Pathway
+2 Sanctum of All
+2 Chromatic Lantern
+2 Enchantress's Presence
+2 Ketria Triome
+3 Baffling End
+3 Sythis, Harvest's Hand
+3 Needleverge Pathway
+3 Chromatic Lantern
+3 Branchloft Pathway
+3 Sanctum Weaver
+3 Sterling Grove
+3 Sanctum of All
+4 Baffling End
+4 Sythis, Harvest's Hand
+4 Sterling Grove
+4 Temple Garden
+4 Branchloft Pathway
+4 Sanctum of All
+4 Sanctum Weaver
+4 Indatha Triome
