@@ -54,8 +54,8 @@
 |                    1|[Agadeem's Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491723)     |                     |                                                                                                  |
 |                    2|[Scourge of the Skyclaves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491760)|                     |                                                                                                  |
 |                    2|[Agadeem's Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491723)     |                     |                                                                                                  |
-|                    3|[Scourge of the Skyclaves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491760)|                     |                                                                                                  |
 |                    3|[Infernal Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534880)          |                     |                                                                                                  |
+|                    3|[Scourge of the Skyclaves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491760)|                     |                                                                                                  |
 |                    4|[Scourge of the Skyclaves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491760)|                     |                                                                                                  |
 |                    3|[Agadeem's Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491723)     |                     |                                                                                                  |
 

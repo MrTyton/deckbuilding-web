@@ -108,18 +108,18 @@
 1 Oboro, Palace in the Clouds
 2 Spellskite
 1 Windswept Heath
-1 Oswald Fiddlebender
 1 Lion Sash
 1 Crackdown Construct
+1 Oswald Fiddlebender
 1 Ichor Wellspring
 1 Lightning Greaves
 1 Sacred Foundry
 1 Chromatic Star
 1 Eiganjo Castle
-2 Oswald Fiddlebender
 2 Plains
-3 Oswald Fiddlebender
+2 Oswald Fiddlebender
 3 Plains
+3 Oswald Fiddlebender
 4 Plains
 4 Oswald Fiddlebender
 1 Consulate Dreadnought
@@ -133,13 +133,10 @@
 1 Paradise Mantle
 2 Sai, Master Thopterist
 1 Marsh Flats
+1 Cave of the Frost Dragon
 1 Crucible of Worlds
 1 Arid Mesa
-1 Cave of the Frost Dragon
 2 Lightning Greaves
-2 Arcbound Ravager
-3 Arcbound Ravager
-4 Flooded Strand
 4 Signal Pest
 1 Expedition Map
 4 Patchwork Automaton
@@ -148,8 +145,8 @@
 3 Inkmoth Nexus
 4 Inkmoth Nexus
 4 Glimmervoid
-1 Karn, Scion of Urza
 1 Darkslick Shores
+1 Karn, Scion of Urza
 1 Blood Fountain
 1 Underground River
 2 Blood Fountain
@@ -165,24 +162,24 @@
 2 Hard Evidence
 3 Hard Evidence
 4 Hard Evidence
-1 Swamp
-1 Takenuma, Abandoned Mire
 1 Scalding Tarn
+1 Takenuma, Abandoned Mire
 1 Asmoranomardicadaistinaculdacar
 1 Ovalchase Daredevil
 1 The Underworld Cookbook
+1 Swamp
 1 Watery Grave
 1 Polluted Delta
-2 Polluted Delta
 2 Ovalchase Daredevil
 2 The Underworld Cookbook
 2 Asmoranomardicadaistinaculdacar
 2 Watery Grave
-3 Polluted Delta
+2 Polluted Delta
+3 Watery Grave
 3 The Underworld Cookbook
 3 Ovalchase Daredevil
 3 Asmoranomardicadaistinaculdacar
-3 Watery Grave
+3 Polluted Delta
 4 Asmoranomardicadaistinaculdacar
 4 The Underworld Cookbook
 4 Watery Grave
@@ -192,6 +189,9 @@
 3 Reality Heist
 4 Reality Heist
 4 Etched Champion
+2 Arcbound Ravager
+3 Arcbound Ravager
+4 Flooded Strand
 1 Castle Vantress
 9 Island
 1 Snow-Covered Island

@@ -62,8 +62,8 @@
 1 Polluted Delta
 2 Polluted Delta
 2 Island
-1 Hall of Storm Giants
 1 Snapcaster Mage
+1 Hall of Storm Giants
 2 Snapcaster Mage
 3 Snapcaster Mage
 1 Wall of Omens
@@ -85,18 +85,18 @@
 2 Meddling Mage
 3 Utopia Sprawl
 4 Utopia Sprawl
-1 Path to Exile
 1 Consider
-2 Hallowed Fountain
-2 Path to Exile
+1 Path to Exile
 2 Glacial Fortress
+2 Hallowed Fountain
 2 Consider
-3 Island
+2 Path to Exile
 3 Consider
 3 Mystic Gate
+3 Island
 4 Island
-4 Mystic Gate
 4 Consider
+4 Mystic Gate
 5 Island
 1 Prairie Stream
 2 Jace, the Mind Sculptor
@@ -115,17 +115,17 @@
 3 Plains
 4 Stoneforge Mystic
 1 Godless Shrine
-1 Malakir Rebirth
-1 Grief
-1 Blade of the Oni
-1 Eiganjo, Seat of the Empire
 1 Agadeem's Awakening
+1 Blade of the Oni
+1 Grief
+1 Eiganjo, Seat of the Empire
+1 Malakir Rebirth
 1 Swamp
 1 Undying Evil
 1 Persist
 1 Touch the Spirit Realm
-2 Malakir Rebirth
 2 Grief
+2 Malakir Rebirth
 2 Agadeem's Awakening
 2 Persist
 2 Touch the Spirit Realm
@@ -179,16 +179,16 @@
 2 Steam Vents
 3 Scalding Tarn
 4 Scalding Tarn
+1 Spell Snare
 1 Castle Ardenvale
 1 Ashiok, Dream Render
 1 Tale's End
-1 Spell Snare
 1 Cryptic Command
 1 Pulse of Murasa
 1 Hinterland Harbor
+2 Cryptic Command
 2 Spell Snare
 2 Tale's End
-2 Cryptic Command
 3 Cryptic Command
 4 Snapcaster Mage
 1 Blackcleave Cliffs
@@ -259,19 +259,19 @@
 1 Blood Moon
 1 Thraben Inspector
 1 Giver of Runes
+1 Timeless Dragon
 1 Aether Vial
 1 Giant Killer
 1 Walking Ballista
-1 Timeless Dragon
 1 Idyllic Grange
 1 Ranger-Captain of Eos
 2 Blood Moon
 2 Thraben Inspector
 2 Skyclave Apparition
+2 Timeless Dragon
 2 Giver of Runes
 2 Aether Vial
 2 Idyllic Grange
-2 Timeless Dragon
 2 Ranger-Captain of Eos
 3 Thraben Inspector
 3 Charming Prince

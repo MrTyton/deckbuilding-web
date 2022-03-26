@@ -84,12 +84,12 @@
 4 Play with Fire
 4 Volatile Arsonist
 9 Snow-Covered Forest
-1 Brutal Cathar
 1 Needleverge Pathway
+1 Brutal Cathar
 1 Branchloft Pathway
+2 Needleverge Pathway
 2 Brutal Cathar
 2 Branchloft Pathway
-2 Needleverge Pathway
 3 Brutal Cathar
 3 Needleverge Pathway
 3 Branchloft Pathway
@@ -132,9 +132,6 @@
 4 Pack's Betrayal
 4 Run Amok
 1 Jugan Defends the Temple
-1 Sundown Pass
-1 Plains
-2 Plains
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 1 The Celestus
@@ -144,13 +141,16 @@
 1 Child of the Pack
 2 Primal Adversary
 2 Child of the Pack
+1 Sundown Pass
+1 Plains
+2 Plains
 1 Bird Admirer
+1 Devouring Tendrils
 1 Dire-Strain Rampage
 1 Harvesttide Infiltrator
 1 Pestilent Wolf
 1 Roil Eruption
 1 Wolfkin Outcast
-1 Devouring Tendrils
 1 Howl of the Hunt
 1 Bounding Wolf
 2 Devouring Tendrils
@@ -161,18 +161,6 @@
 1 Bala Ged Recovery
 1 Mulch
 3 Howling Moon
-1 Jaspera Sentinel
-1 Kazuul's Fury
-1 Thundering Raiju
-1 Lizard Blades
-1 Eater of Virtue
-2 Jaspera Sentinel
-2 Lizard Blades
-2 Eater of Virtue
-2 Kazuul's Fury
-2 Sokenzan, Crucible of Defiance
-3 Jaspera Sentinel
-4 Jaspera Sentinel
 4 Lair of the Hydra
 1 Curse of Hospitality
 1 Heated Debate
@@ -189,22 +177,34 @@
 3 Kazandu Mammoth
 4 Kazandu Mammoth
 4 Shatterskull Smashing
-1 Reckoner Bankbuster
-1 Burn Down the House
+1 Kazuul's Fury
+1 Thundering Raiju
+1 Lizard Blades
+1 Jaspera Sentinel
+1 Eater of Virtue
+2 Kazuul's Fury
+2 Lizard Blades
+2 Jaspera Sentinel
+2 Eater of Virtue
+2 Sokenzan, Crucible of Defiance
+3 Jaspera Sentinel
+4 Jaspera Sentinel
 1 Atsushi, the Blazing Sky
+1 Burn Down the House
+1 Reckoner Bankbuster
 2 Reckoner Bankbuster
 2 Atsushi, the Blazing Sky
-3 Reckoner Bankbuster
 3 Moonveil Regent
+3 Reckoner Bankbuster
 3 Rugged Highlands
+4 Moonveil Regent
 4 Abrade
 4 Rugged Highlands
-4 Moonveil Regent
-1 Old-Growth Troll
 1 Invoke the Ancients
+1 Old-Growth Troll
+2 Invoke the Ancients
 2 Invigorating Hot Spring
 2 Old-Growth Troll
-2 Invoke the Ancients
 3 Invigorating Hot Spring
 3 Old-Growth Troll
 4 Old-Growth Troll

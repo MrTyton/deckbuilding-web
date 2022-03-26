@@ -110,6 +110,6 @@
 |                    3|[Invisible Stalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220041)          |                     |                                                                                                      |
 |                    2|[Portable Hole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527320)              |                     |                                                                                                      |
 |                    4|[Ingenious Smith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527308)            |                     |                                                                                                      |
-|                    8|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                      |
 |                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                      |
+|                    8|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                      |
 

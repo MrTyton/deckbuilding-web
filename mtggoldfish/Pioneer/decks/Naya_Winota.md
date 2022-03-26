@@ -67,7 +67,7 @@
 |                    3|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)     |                     |                                                                                                      |
 |                    3|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)          |                     |                                                                                                      |
 |                    1|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)       |                     |                                                                                                      |
-|                    2|Tovolar, Dire Overlord                                                                             |                     |                                                                                                      |
 |                    2|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)       |                     |                                                                                                      |
+|                    2|Tovolar, Dire Overlord                                                                             |                     |                                                                                                      |
 |                    3|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)       |                     |                                                                                                      |
 
