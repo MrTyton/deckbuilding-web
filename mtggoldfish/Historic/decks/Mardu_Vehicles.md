@@ -69,7 +69,7 @@
 |                     |                                                                                              |                    3|Fragment Reality                                                                                      |
 |                     |                                                                                              |                    3|Undercity Plunder                                                                                     |
 |                     |                                                                                              |                    4|Undercity Plunder                                                                                     |
-|                     |                                                                                              |                    1|[Ixalan's Binding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435168)           |
 |                     |                                                                                              |                    1|[Borrowed Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534759)              |
 |                     |                                                                                              |                    2|[Borrowed Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534759)              |
+|                     |                                                                                              |                    1|[Ixalan's Binding](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435168)           |
 
