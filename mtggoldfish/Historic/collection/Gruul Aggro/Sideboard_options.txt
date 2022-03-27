@@ -1,8 +1,8 @@
 2 Rampaging Ferocidon
-2 Cindervines
+1 Cindervines
 1 Lava Coil
+2 Cindervines
 2 Chandra, Torch of Defiance
-1 Grafdigger's Cage
 2 Grafdigger's Cage
 1 The Akroan War
 1 Collected Company
@@ -17,17 +17,17 @@
 1 Magma Spray
 2 Magma Spray
 1 Ahn-Crop Crasher
-1 Fry
-2 Fry
 1 Relic of Progenitus
+1 Fry
+2 Relic of Progenitus
+2 Ahn-Crop Crasher
+2 Fry
 3 Magma Spray
 1 Shapers' Sanctuary
-2 Ahn-Crop Crasher
 3 Shifting Ceratops
 2 Lava Coil
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
-2 Relic of Progenitus
 3 Rampaging Ferocidon
 1 Bonecrusher Giant
 2 Bonecrusher Giant
@@ -42,9 +42,6 @@
 2 Plummet
 1 Return to Nature
 2 Return to Nature
-1 Nullhide Ferox
-2 Nullhide Ferox
-3 Nullhide Ferox
 1 Heaven/Earth
 1 Questing Beast
 1 Expansion/Explosion
@@ -56,6 +53,9 @@
 1 Negate
 2 Negate
 2 Klothys, God of Destiny
+1 Weathered Runestone
+1 Tibalt, Rakish Instigator
+2 Tibalt, Rakish Instigator
 1 Invigorating Hot Spring
 1 Tormod's Crypt
 1 Cliffhaven Kitesail
@@ -102,16 +102,10 @@
 4 Abrade
 4 Roiling Vortex
 1 Cinderclasm
+1 Nullhide Ferox
 2 Cinderclasm
+2 Nullhide Ferox
 3 Cinderclasm
 3 Fry
+3 Nullhide Ferox
 4 Fry
-1 Cemetery Gatekeeper
-1 Crushing Canopy
-1 Vivien Reid
-1 Arasta of the Endless Web
-1 Quakebringer
-2 Arasta of the Endless Web
-3 Arasta of the Endless Web
-4 Arasta of the Endless Web
-4 Nullhide Ferox
