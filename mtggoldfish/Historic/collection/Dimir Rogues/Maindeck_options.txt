@@ -48,12 +48,6 @@
 3 Suspicious Stowaway
 4 Shipwreck Marsh
 3 Temple of Deceit
-1 Ipnu Rivulet
-1 Infernal Grasp
-2 Infernal Grasp
-1 Soul-Guide Lantern
-2 Soul-Guide Lantern
-1 Field of Ruin
 6 Swamp
 1 Zagoth Triome
 1 Power Word Kill
@@ -62,10 +56,14 @@
 1 Malakir Rebirth
 1 Jwari Disruption
 1 Witch's Vengeance
-1 Test of Talents
-2 Test of Talents
+1 Ipnu Rivulet
 1 Crippling Fear
 2 Negate
+1 Test of Talents
+1 Infernal Grasp
+2 Test of Talents
+2 Infernal Grasp
+1 Field of Ruin
 1 Bloodchief's Thirst
 1 Agonizing Remorse
 1 Grafdigger's Cage
@@ -78,10 +76,12 @@
 3 Zagoth Triome
 1 Scheming Symmetry
 3 Cling to Dust
+1 Soul-Guide Lantern
 1 The Meathook Massacre
+2 Soul-Guide Lantern
 2 The Meathook Massacre
-3 The Meathook Massacre
 3 Soul-Guide Lantern
+3 The Meathook Massacre
 1 Silver-Fur Master
 1 Curiosity
 2 Malakir Rebirth
@@ -95,42 +95,25 @@
 1 Mission Briefing
 1 Chart a Course
 1 Grazilaxx, Illithid Scholar
-1 Ruin Raider
 1 Faerie Seer
 1 Ingenious Infiltrator
 1 Changeling Outcast
 1 Sap Vitality
 1 Jace, Cunning Castaway
 1 Davriel's Withering
+1 Ruin Raider
 2 Changeling Outcast
 2 Ingenious Infiltrator
 3 Ingenious Infiltrator
 4 Ingenious Infiltrator
-1 Maddening Cacophony
-1 Extinction Event
-1 Baleful Mastery
-1 Drowned Secrets
-1 Supreme Will
-1 Tasha's Hideous Laughter
-2 Maddening Cacophony
-2 Field of Ruin
-2 Drowned Secrets
-2 Tasha's Hideous Laughter
-2 Ipnu Rivulet
-3 Maddening Cacophony
-3 Tasha's Hideous Laughter
-3 Drowned Secrets
-4 Maddening Cacophony
-4 Tasha's Hideous Laughter
-4 Drowned Secrets
 1 Memory Deluge
 2 Memory Deluge
 4 Inquisition of Kozilek
 1 Archmage's Charm
 2 Castle Vantress
 2 Archmage's Charm
-3 Archmage's Charm
 3 Fetid Pools
+3 Archmage's Charm
 4 Archmage's Charm
 1 Krydle of Baldur's Gate
 1 Dismal Backwater

@@ -131,12 +131,12 @@
 1 Return Upon the Tide
 1 Olivia, Crimson Bride
 2 Toxrill, the Corrosive
-2 Olivia, Crimson Bride
 2 Cathartic Pyre
+2 Olivia, Crimson Bride
 2 Return Upon the Tide
+3 Toxrill, the Corrosive
 3 Cathartic Pyre
 3 Return Upon the Tide
-3 Toxrill, the Corrosive
 3 Olivia, Crimson Bride
 4 Cathartic Pyre
 4 Return Upon the Tide
@@ -171,8 +171,8 @@
 2 Poison the Cup
 2 Test of Talents
 3 Poison the Cup
-1 Sea Gate Restoration
 1 Cyclone Summoner
+1 Sea Gate Restoration
 1 Parasitic Grasp
 1 Flunk
 1 You Find the Villains' Lair
@@ -192,23 +192,23 @@
 2 Cemetery Illuminator
 2 Spell Pierce
 2 Reckoner Bankbuster
-3 Cinderclasm
+1 Life of Toshiro Umezawa
+1 Manaform Hellkite
+2 Life of Toshiro Umezawa
+3 Behold the Multiverse
 1 Bloodvial Purveyor
 1 Bloodtithe Harvester
 1 Mystic Reflection
 1 Hungry for More
-2 Immersturm Predator
 2 Bloodvial Purveyor
 2 Bloodtithe Harvester
+2 Immersturm Predator
 2 Mystic Reflection
 2 Hungry for More
 3 Bloodvial Purveyor
 3 Valki, God of Lies
 3 Immersturm Predator
-1 Life of Toshiro Umezawa
-1 Manaform Hellkite
-2 Life of Toshiro Umezawa
-3 Behold the Multiverse
+3 Cinderclasm
 1 Otherworldly Gaze
 2 Otherworldly Gaze
 3 Otherworldly Gaze
@@ -240,17 +240,17 @@
 2 Alchemist's Gambit
 3 Kalain, Reclusive Painter
 4 Kalain, Reclusive Painter
-1 Dragonspark Reactor
 1 Blood Fountain
-1 Disruption Protocol
+1 Dragonspark Reactor
 1 Magda, Brazen Outlaw
 1 Tezzeret, Betrayer of Flesh
 1 Moonsnare Prototype
-2 Disruption Protocol
+1 Disruption Protocol
 2 Magda, Brazen Outlaw
-2 Tezzeret, Betrayer of Flesh
+2 Disruption Protocol
 2 Dragonspark Reactor
 2 Moonsnare Prototype
+2 Tezzeret, Betrayer of Flesh
 3 Magda, Brazen Outlaw
 3 Disruption Protocol
 3 Dragonspark Reactor
@@ -268,9 +268,9 @@
 1 Magmatic Channeler
 2 Dollhouse of Horrors
 2 Magmatic Channeler
+3 Dollhouse of Horrors
 3 Magmatic Channeler
 3 Skullport Merchant
-3 Dollhouse of Horrors
 4 Skullport Merchant
 4 Magmatic Channeler
 1 Invoke Despair
@@ -301,25 +301,25 @@
 2 Vengeful Reaper
 3 Blood on the Snow
 3 Vengeful Reaper
-4 Island
 4 Nighthawk Scavenger
 4 Saw It Coming
+4 Island
 5 Island
 6 Island
 7 Island
 8 Island
-1 Vampire's Kiss
-1 Voldaren Epicure
 1 Snow-Covered Island
 1 Snow-Covered Mountain
+1 Vampire's Kiss
+1 Voldaren Epicure
 1 Snow-Covered Swamp
+2 Snow-Covered Island
 2 Snow-Covered Mountain
 2 Vampire's Kiss
 2 Voldaren Epicure
 2 Snow-Covered Swamp
-2 Snow-Covered Island
-3 Test of Talents
 3 Burn Down the House
+3 Test of Talents
 3 Snow-Covered Swamp
 3 Voldaren Epicure
 4 Burn Down the House

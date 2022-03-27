@@ -49,10 +49,10 @@
 4 Ragavan, Nimble Pilferer
 3 Fire/Ice
 3 Wrenn and Six
-1 Snow-Covered Forest
 1 Ice-Fang Coatl
-2 Snow-Covered Forest
+1 Snow-Covered Forest
 2 Ice-Fang Coatl
+2 Snow-Covered Forest
 3 Ice-Fang Coatl
 1 Eternal Witness
 1 Utopia Sprawl
@@ -75,16 +75,16 @@
 4 Spreading Seas
 1 Skyclave Apparition
 4 Omnath, Locus of Creation
-1 Sulfur Falls
 1 Glacial Fortress
+1 Sulfur Falls
 3 Seasoned Pyromancer
 4 Seasoned Pyromancer
 1 March of Otherworldly Light
 1 Remand
 2 Remand
 3 Remand
-1 Batterskull
 1 Kaldra Compleat
+1 Batterskull
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
@@ -92,18 +92,18 @@
 1 Showdown of the Skalds
 2 Brought Back
 2 Showdown of the Skalds
-3 Hallowed Fountain
+3 Sacred Foundry
 3 Brought Back
 3 Showdown of the Skalds
-3 Sacred Foundry
+3 Hallowed Fountain
 4 Sacred Foundry
 4 Brought Back
 4 Hallowed Fountain
 4 Plains
 1 Traverse the Ulvenwald
+1 Eladamri's Call
 1 Magus of the Moon
 1 Search for Glory
-1 Eladamri's Call
 2 Eladamri's Call
 1 Fiery Islet
 4 Wall of Omens
@@ -117,11 +117,11 @@
 2 Arboreal Grazer
 4 Wooded Foothills
 2 Mountain
-1 Serum Visions
+1 Day's Undoing
 1 Force of Negation
 1 Narset, Parter of Veils
 1 Spirebluff Canal
-1 Day's Undoing
+1 Serum Visions
 2 Narset, Parter of Veils
 2 Day's Undoing
 3 Snow-Covered Island
@@ -140,8 +140,8 @@
 1 Lukka, Coppercoat Outcast
 2 Prismari Command
 2 Lukka, Coppercoat Outcast
-3 Prismari Command
 3 Lukka, Coppercoat Outcast
+3 Prismari Command
 4 Lukka, Coppercoat Outcast
 4 Remand
 4 Ice-Fang Coatl
@@ -149,35 +149,70 @@
 2 Boseiju, Who Endures
 1 The Wandering Emperor
 3 Snow-Covered Forest
-1 Turntimber Symbiosis
-1 Horizon Canopy
 1 Charming Prince
-1 Copperline Gorge
-1 Razorverge Thicket
-1 Eldritch Evolution
 1 Grove of the Burnwillows
+1 Copperline Gorge
+1 Horizon Canopy
+1 Eldritch Evolution
+1 Razorverge Thicket
 1 Spell Queller
-2 Temple Garden
+1 Turntimber Symbiosis
 2 Skyclave Apparition
+2 Temple Garden
 2 Eldritch Evolution
 2 Spell Queller
-3 Skyclave Apparition
-3 Forest
 3 Temple Garden
+3 Forest
+3 Skyclave Apparition
 4 Forest
 1 Celestial Colonnade
+1 Seachrome Coast
+2 Seachrome Coast
+2 Inspiring Vantage
+2 Ignoble Hierarch
+2 Emrakul, the Aeons Torn
 1 Sunbaked Canyon
-1 Waterlogged Grove
 1 Kozilek, Butcher of Truth
 1 Jace, the Mind Sculptor
+1 Waterlogged Grove
 2 Noble Hierarch
 2 Force of Negation
 2 On Thin Ice
-1 Seachrome Coast
-2 Inspiring Vantage
-2 Seachrome Coast
-2 Ignoble Hierarch
-2 Emrakul, the Aeons Torn
+1 Esper Sentinel
+2 Esper Sentinel
+3 Esper Sentinel
+4 Esper Sentinel
+3 Prismatic Vista
+4 Prismatic Vista
+1 Overgrown Tomb
+1 Sylvan Caryatid
+1 Niv-Mizzet Reborn
+1 Rip Apart
+1 Bring to Light
+1 Valki, God of Lies
+1 Wandering Mind
+1 Blood Crypt
+2 Sylvan Caryatid
+2 Bring to Light
+2 Rip Apart
+3 Sylvan Caryatid
+3 Bring to Light
+4 Sylvan Caryatid
+4 Bring to Light
+1 Abundant Growth
+1 Prairie Stream
+2 Abundant Growth
+2 March of Otherworldly Light
+3 Abundant Growth
+4 Abundant Growth
+1 Spirited Companion
+2 Spirited Companion
+3 Spirited Companion
+4 Spirited Companion
+1 Lotus Cobra
+2 Lotus Cobra
+3 Lotus Cobra
+4 Lotus Cobra
 1 Path to Exile
 1 Primal Command
 1 Lightning Helix
@@ -185,34 +220,7 @@
 2 Lightning Helix
 3 Path to Exile
 4 Path to Exile
-1 Lotus Cobra
-2 Lotus Cobra
-3 Lotus Cobra
-4 Lotus Cobra
-1 Spirited Companion
-2 Spirited Companion
-3 Spirited Companion
-4 Spirited Companion
 4 Arboreal Grazer
-1 Esper Sentinel
-2 Esper Sentinel
-3 Esper Sentinel
-4 Esper Sentinel
-1 Rip Apart
-1 Valki, God of Lies
-1 Wandering Mind
-1 Blood Crypt
-1 Sylvan Caryatid
-1 Niv-Mizzet Reborn
-1 Overgrown Tomb
-1 Bring to Light
-2 Rip Apart
-2 Bring to Light
-2 Sylvan Caryatid
-3 Sylvan Caryatid
-3 Bring to Light
-4 Sylvan Caryatid
-4 Bring to Light
 1 Blast Zone
 3 Island
 4 Blood Moon
@@ -221,11 +229,34 @@
 2 Territorial Kavu
 3 Territorial Kavu
 4 Territorial Kavu
+1 Mystic Gate
+1 Soulherder
+1 Auriok Champion
+1 Lavinia, Azorius Renegade
+1 Spellskite
+1 Glasspool Mimic
+1 Aether Vial
+1 Fblthp, the Lost
+2 Soulherder
+2 Auriok Champion
+2 Spellskite
+2 Fblthp, the Lost
+2 Aether Vial
+2 Glasspool Mimic
+3 Auriok Champion
+3 Soulherder
+3 Aether Vial
+3 Glasspool Mimic
+4 Ephemerate
+4 Snow-Covered Plains
+4 Glasspool Mimic
+4 Aether Vial
+5 Snow-Covered Plains
 1 Esika's Chariot
+1 Khalni Garden
 1 Violent Outburst
 1 Glimpse of Tomorrow
 1 Wavesifter
-1 Khalni Garden
 1 Chancellor of the Forge
 1 Shardless Agent
 2 Chancellor of the Forge
@@ -245,34 +276,3 @@
 4 Khalni Garden
 4 Violent Outburst
 4 Wavesifter
-1 Abundant Growth
-1 Prairie Stream
-2 March of Otherworldly Light
-2 Abundant Growth
-3 Abundant Growth
-4 Abundant Growth
-1 Glasspool Mimic
-1 Aether Vial
-1 Spellskite
-1 Lavinia, Azorius Renegade
-1 Mystic Gate
-1 Auriok Champion
-1 Fblthp, the Lost
-1 Soulherder
-2 Glasspool Mimic
-2 Aether Vial
-2 Fblthp, the Lost
-2 Soulherder
-2 Spellskite
-2 Auriok Champion
-3 Glasspool Mimic
-3 Aether Vial
-3 Auriok Champion
-3 Soulherder
-4 Snow-Covered Plains
-4 Glasspool Mimic
-4 Aether Vial
-4 Ephemerate
-5 Snow-Covered Plains
-3 Prismatic Vista
-4 Prismatic Vista

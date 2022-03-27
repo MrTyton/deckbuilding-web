@@ -1,6 +1,6 @@
 2 Force of Will
-3 Force of Will
 3 Snow-Covered Island
+3 Force of Will
 4 Force of Will
 3 Uro, Titan of Nature's Wrath
 1 Endurance
@@ -13,8 +13,8 @@
 3 Forest
 1 Assassin's Trophy
 1 Witherbloom Apprentice
-2 Chain of Smog
 2 Witherbloom Apprentice
+2 Chain of Smog
 2 Pernicious Deed
 2 Assassin's Trophy
 1 Scavenging Ooze
@@ -67,9 +67,9 @@
 1 Titania, Protector of Argoth
 3 Abrupt Decay
 3 Windswept Heath
-1 Savannah
 1 Plains
 1 Scrubland
+1 Savannah
 1 Professor Onyx
 3 Assassin's Trophy
 4 Arena Rector
@@ -77,14 +77,14 @@
 1 Wasteland
 4 Endurance
 1 Sylvan Safekeeper
-1 Snow-Covered Mountain
 1 Taiga
+1 Snow-Covered Mountain
 1 Opposition Agent
 2 Wooded Foothills
 2 Opposition Agent
 3 Opposition Agent
-1 Crop Rotation
 1 Bojuka Bog
+1 Crop Rotation
 1 Ancient Tomb
 2 Ancient Tomb
 1 Cavern Harpy
@@ -107,35 +107,52 @@
 4 Snow-Covered Forest
 1 Liliana, the Last Hope
 1 Baleful Strix
+1 Bone Shards
 1 Unearth
 1 Paradox Zone
-1 Bone Shards
 2 Bone Shards
-1 Koma, Cosmos Serpent
 1 Xanathar, Guild Kingpin
 1 Carnage Tyrant
 1 Allosaurus Shepherd
 1 The Scarab God
+1 Koma, Cosmos Serpent
 2 Leovold, Emissary of Trest
 2 Allosaurus Shepherd
-2 Cavern Harpy
-3 Polluted Delta
+1 Mayhem Devil
+1 Valki, God of Lies
+1 Masked Vandal
+1 Juri, Master of the Revue
+1 The Meathook Massacre
+2 Snow-Covered Mountain
+2 Titania, Protector of Argoth
+2 Mayhem Devil
+2 The Meathook Massacre
+3 Mayhem Devil
 1 Abundant Harvest
 1 Fatal Push
-2 Underground Sea
 2 Abundant Harvest
+2 Underground Sea
 2 Fatal Push
 3 Abundant Harvest
 1 Kaya, Ghost Assassin
 1 Thragtusk
 1 Nissa, Vital Force
 1 Toxic Deluge
+1 Path to Exile
 1 Knight of Autumn
 1 Elspeth, Sun's Champion
-1 Path to Exile
 1 Archon of Valor's Reach
 2 Path to Exile
 3 Path to Exile
+1 Blex, Vexing Pest
+1 Plumb the Forbidden
+1 Sedgemoor Witch
+2 Plumb the Forbidden
+2 Sedgemoor Witch
+3 Plumb the Forbidden
+3 Sedgemoor Witch
+2 Cavern Harpy
+3 Polluted Delta
 1 Elder Gargaroth
 1 Shifting Ceratops
 1 Plague Engineer
@@ -149,59 +166,42 @@
 3 Hexdrinker
 1 Outland Liberator
 3 Pernicious Deed
-1 Valki, God of Lies
-1 Masked Vandal
-1 Juri, Master of the Revue
-1 The Meathook Massacre
-1 Mayhem Devil
-2 Snow-Covered Mountain
-2 Titania, Protector of Argoth
-2 Mayhem Devil
-2 The Meathook Massacre
-3 Mayhem Devil
-1 Plumb the Forbidden
-1 Sedgemoor Witch
-1 Blex, Vexing Pest
-2 Plumb the Forbidden
-2 Sedgemoor Witch
-3 Sedgemoor Witch
-3 Plumb the Forbidden
 1 Nicol Bolas, Planeswalker
-1 Carth the Lion
 1 Marsh Flats
+1 Carth the Lion
 1 Innocent Blood
 2 Innocent Blood
 3 Once Upon a Time
 4 Once Upon a Time
-1 Field of the Dead
+1 Terror of the Peaks
 1 Dauthi Voidwalker
+1 Field of the Dead
 1 Vivien, Monsters' Advocate
 1 Ruination Rioter
 1 Mountain
 1 Klothys, God of Destiny
 1 Kalitas, Traitor of Ghet
-1 Terror of the Peaks
-2 Dauthi Voidwalker
 2 Taiga
+2 Dauthi Voidwalker
 3 Wooded Foothills
 4 Greater Gargadon
-1 Kaya, Orzhov Usurper
-1 Snow-Covered Plains
-1 Canopy Vista
-1 Duress
-1 Dead of Winter
-1 Overgrown Tomb
-1 Garruk, Cursed Huntsman
-1 Fiend Artisan
-2 Snow-Covered Plains
-2 Duress
-2 Crop Rotation
-2 Ugin, the Spirit Dragon
-2 Dead of Winter
-3 Snow-Covered Swamp
-5 Snow-Covered Forest
 1 Urborg, Tomb of Yawgmoth
 5 Swamp
+1 Canopy Vista
+1 Dead of Winter
+1 Overgrown Tomb
+1 Duress
+1 Kaya, Orzhov Usurper
+1 Snow-Covered Plains
+1 Garruk, Cursed Huntsman
+1 Fiend Artisan
+2 Duress
+2 Dead of Winter
+2 Crop Rotation
+2 Ugin, the Spirit Dragon
+2 Snow-Covered Plains
+3 Snow-Covered Swamp
+5 Snow-Covered Forest
 1 Grand Abolisher
 2 Grand Abolisher
 3 Cavern of Souls

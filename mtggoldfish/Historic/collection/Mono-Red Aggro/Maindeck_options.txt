@@ -12,9 +12,8 @@
 1 Kari Zev, Skyship Raider
 3 Shatterskull Smashing
 4 Embercleave
-1 Chandra, Torch of Defiance
 4 Goblin Chainwhirler
-2 Chandra, Torch of Defiance
+1 Chandra, Torch of Defiance
 1 Light Up the Stage
 2 Light Up the Stage
 1 Play with Fire
@@ -22,13 +21,14 @@
 3 Play with Fire
 4 Den of the Bugbear
 4 Torbran, Thane of Red Fell
+2 Chandra, Torch of Defiance
 4 Rampaging Ferocidon
-17 Mountain
 3 Light Up the Stage
 1 Shock
 2 Shock
 3 Shock
 1 Phoenix of Ash
+17 Mountain
 1 Rimrock Knight
 2 Rimrock Knight
 3 Rimrock Knight
@@ -44,10 +44,8 @@
 1 Viashino Pyromancer
 2 Viashino Pyromancer
 3 Viashino Pyromancer
-18 Mountain
-19 Mountain
-4 Shock
 2 Kari Zev, Skyship Raider
+4 Shock
 4 Shatterskull Smashing
 1 Managorger Phoenix
 1 Lightning Strike
@@ -94,24 +92,23 @@
 3 Skewer the Critics
 3 Soul-Scar Mage
 4 Play with Fire
+18 Mountain
+19 Mountain
 1 Reckless Stormseeker
 2 Reckless Stormseeker
-1 Abrade
-1 Chandra, Acolyte of Flame
-2 Chandra, Acolyte of Flame
-3 Chandra, Acolyte of Flame
 1 Ghitu Lavarunner
 1 Wizard's Lightning
 2 Ghitu Lavarunner
 2 Wizard's Lightning
-3 Wizard's Lightning
 3 Ghitu Lavarunner
+3 Wizard's Lightning
 4 Ghitu Lavarunner
 4 Wizard's Lightning
 4 Viashino Pyromancer
 4 Rimrock Knight
 1 Light Up the Night
 1 Alchemist's Gambit
+1 Abrade
 1 Bloodthirsty Adversary
 1 Sundown Pass
 2 Sundown Pass
@@ -127,6 +124,18 @@
 2 Hazoret the Fervent
 3 Hazoret the Fervent
 4 Skewer the Critics
+1 Goldspan Dragon
+1 Fireblade Charger
+1 Frost Bite
+1 Faceless Haven
+2 Fireblade Charger
+2 Frost Bite
+2 Faceless Haven
+3 Fireblade Charger
+3 Frost Bite
+3 Faceless Haven
+4 Frost Bite
+4 Fireblade Charger
 1 Falkenrath Pit Fighter
 2 Falkenrath Pit Fighter
 3 Falkenrath Pit Fighter
@@ -153,40 +162,31 @@
 3 Fanatic of Mogis
 4 Earthshaker Khenra
 4 Hellrider
+1 Chandra, Acolyte of Flame
 1 Spikefield Hazard
 1 Voldaren Epicure
 1 Cavalcade of Calamity
 1 Grim Initiate
 2 Spikefield Hazard
 2 Voldaren Epicure
-2 Cavalcade of Calamity
+2 Chandra, Acolyte of Flame
 2 Grim Initiate
+2 Cavalcade of Calamity
 3 Voldaren Epicure
 3 Cavalcade of Calamity
 3 Grim Initiate
+3 Chandra, Acolyte of Flame
 4 Cavalcade of Calamity
 2 Managorger Phoenix
 3 Managorger Phoenix
 4 Managorger Phoenix
-1 Frost Bite
-1 Fireblade Charger
-1 Goldspan Dragon
-1 Faceless Haven
-2 Frost Bite
-2 Fireblade Charger
-2 Faceless Haven
-3 Frost Bite
-3 Faceless Haven
-3 Fireblade Charger
-4 Frost Bite
-4 Fireblade Charger
 1 Bomat Courier
-1 Showdown of the Skalds
 1 Dragon's Rage Channeler
+1 Showdown of the Skalds
 1 Lightning Helix
-2 Showdown of the Skalds
 2 Bomat Courier
 2 Dragon's Rage Channeler
+2 Showdown of the Skalds
 2 Lightning Helix
 3 Showdown of the Skalds
 3 Needleverge Pathway
@@ -194,11 +194,16 @@
 3 Lightning Helix
 3 Dragon's Rage Channeler
 4 Showdown of the Skalds
-4 Bomat Courier
-4 Needleverge Pathway
-4 Dragon's Rage Channeler
 4 Soul-Scar Mage
+4 Bomat Courier
+4 Dragon's Rage Channeler
 4 Lightning Helix
+4 Needleverge Pathway
+1 Kumano Faces Kakkazan
+2 Kumano Faces Kakkazan
+18 Snow-Covered Mountain
+19 Snow-Covered Mountain
+20 Snow-Covered Mountain
 1 Kazandu Mammoth
 1 Call of the Death-Dweller
 1 Rotting Regisaur
@@ -216,9 +221,9 @@
 2 Overgrown Tomb
 2 Dreadhorde Butcher
 2 Blood Crypt
+2 Collected Company
 2 Stomping Ground
 2 Cragcrown Pathway
-2 Collected Company
 3 Collected Company
 3 Rotting Regisaur
 3 Reckless Stormseeker
@@ -226,47 +231,10 @@
 3 Blightstep Pathway
 3 Dreadhorde Butcher
 3 Blood Crypt
-3 Cragcrown Pathway
 3 Stomping Ground
+3 Cragcrown Pathway
 4 Collected Company
 4 Overgrown Tomb
 4 Blightstep Pathway
 4 Stomping Ground
 4 Blood Crypt
-1 Kumano Faces Kakkazan
-2 Kumano Faces Kakkazan
-18 Snow-Covered Mountain
-19 Snow-Covered Mountain
-20 Snow-Covered Mountain
-1 Chandra's Regulator
-1 Curse of Hospitality
-1 Blast Zone
-1 Sarkhan the Masterless
-1 Chandra, Awakened Inferno
-1 Anger of the Gods
-1 Chandra, Pyromaster
-1 Chandra's Triumph
-1 Chandra, Novice Pyromancer
-1 Chandra, Heart of Fire
-2 Chandra's Regulator
-2 Blast Zone
-2 Chandra, Pyromaster
-2 Chandra, Awakened Inferno
-2 Anger of the Gods
-2 Sarkhan the Masterless
-2 Abrade
-2 Chandra's Triumph
-2 Chandra, Heart of Fire
-2 Chandra, Novice Pyromancer
-3 Anger of the Gods
-3 Chandra's Triumph
-3 Chandra, Awakened Inferno
-3 Chandra's Regulator
-3 Sarkhan the Masterless
-3 Blast Zone
-3 Chandra, Heart of Fire
-3 Abrade
-4 Abrade
-4 Chandra's Regulator
-20 Mountain
-21 Mountain

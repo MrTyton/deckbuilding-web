@@ -78,11 +78,11 @@
 2 Field of Ruin
 3 Field of Ruin
 1 Fiery Islet
-1 Utopia Sprawl
 1 Meddling Mage
 1 Obsidian Charmaw
-2 Utopia Sprawl
+1 Utopia Sprawl
 2 Meddling Mage
+2 Utopia Sprawl
 3 Utopia Sprawl
 4 Utopia Sprawl
 1 Consider
@@ -115,20 +115,20 @@
 3 Plains
 4 Stoneforge Mystic
 1 Godless Shrine
-1 Agadeem's Awakening
 1 Blade of the Oni
-1 Grief
 1 Eiganjo, Seat of the Empire
-1 Malakir Rebirth
+1 Grief
 1 Swamp
+1 Malakir Rebirth
 1 Undying Evil
 1 Persist
 1 Touch the Spirit Realm
-2 Grief
-2 Malakir Rebirth
-2 Agadeem's Awakening
-2 Persist
+1 Agadeem's Awakening
 2 Touch the Spirit Realm
+2 Grief
+2 Agadeem's Awakening
+2 Malakir Rebirth
+2 Persist
 3 Touch the Spirit Realm
 3 Grief
 4 Grief
@@ -159,17 +159,17 @@
 3 Persist
 1 Imperial Recruiter
 1 Savai Triome
-1 Kiki-Jiki, Mirror Breaker
 1 Restoration Angel
-1 Fable of the Mirror-Breaker
+1 Kiki-Jiki, Mirror Breaker
 1 Inspiring Vantage
+1 Fable of the Mirror-Breaker
 2 Sacred Foundry
 2 Fable of the Mirror-Breaker
 1 Marsh Flats
 4 Plains
+1 Oath of Nissa
 1 Reflecting Pool
 1 Flooded Grove
-1 Oath of Nissa
 1 Abundant Harvest
 2 Force of Negation
 1 Thassa, Deep-Dwelling
@@ -193,9 +193,9 @@
 4 Snapcaster Mage
 1 Blackcleave Cliffs
 1 Bloodstained Mire
-1 Blood Crypt
 1 Feign Death
 1 Kaya's Guile
+1 Blood Crypt
 1 Kroxa, Titan of Death's Hunger
 2 Marsh Flats
 2 Blackcleave Cliffs
@@ -207,22 +207,22 @@
 3 Marsh Flats
 3 Bloodstained Mire
 3 Feign Death
-4 Seasoned Pyromancer
 4 Marsh Flats
+4 Seasoned Pyromancer
 4 Bloodstained Mire
-1 Birds of Paradise
-1 Noble Hierarch
-1 Soulherder
 1 Glasspool Mimic
+1 Noble Hierarch
+1 Birds of Paradise
 1 Wall of Blossoms
 1 Chord of Calling
 1 Venser, Shaper Savant
 1 Felidar Guardian
-2 Birds of Paradise
+1 Soulherder
 2 Noble Hierarch
-2 Soulherder
+2 Birds of Paradise
 2 Wall of Blossoms
 2 Chord of Calling
+2 Soulherder
 3 Noble Hierarch
 3 Birds of Paradise
 3 Chord of Calling
@@ -230,14 +230,14 @@
 4 Noble Hierarch
 4 Birds of Paradise
 4 Chord of Calling
-1 Bring to Light
-1 Overgrown Tomb
 1 Valki, God of Lies
 1 Valakut, the Molten Pinnacle
 1 Scapeshift
+1 Overgrown Tomb
 1 Cinder Glade
 1 Dryad of the Ilysian Grove
 1 Wish
+1 Bring to Light
 1 Coiling Oracle
 2 Bring to Light
 2 Wish
@@ -245,11 +245,11 @@
 2 Coiling Oracle
 2 Valakut, the Molten Pinnacle
 2 Dryad of the Ilysian Grove
-3 Bring to Light
 3 Unholy Heat
 3 Dryad of the Ilysian Grove
 3 Coiling Oracle
 3 Valakut, the Molten Pinnacle
+3 Bring to Light
 3 Wish
 4 Bring to Light
 4 Unholy Heat
@@ -259,8 +259,8 @@
 1 Blood Moon
 1 Thraben Inspector
 1 Giver of Runes
-1 Timeless Dragon
 1 Aether Vial
+1 Timeless Dragon
 1 Giant Killer
 1 Walking Ballista
 1 Idyllic Grange
@@ -268,23 +268,23 @@
 2 Blood Moon
 2 Thraben Inspector
 2 Skyclave Apparition
+2 Aether Vial
 2 Timeless Dragon
 2 Giver of Runes
-2 Aether Vial
 2 Idyllic Grange
 2 Ranger-Captain of Eos
 3 Thraben Inspector
-3 Charming Prince
 3 Skyclave Apparition
-3 Giver of Runes
 3 Aether Vial
+3 Charming Prince
+3 Giver of Runes
 3 Ranger-Captain of Eos
 3 Idyllic Grange
 3 Timeless Dragon
 4 Giver of Runes
+4 Aether Vial
 4 Charming Prince
 4 Skyclave Apparition
-4 Aether Vial
 4 Thraben Inspector
 4 Ranger-Captain of Eos
 5 Plains
@@ -299,19 +299,19 @@
 14 Plains
 2 Emeria's Call
 1 Esper Sentinel
-1 Eiganjo Castle
 1 Sunbaked Canyon
+1 Eiganjo Castle
 1 Magus of the Moon
 2 Esper Sentinel
-2 Mountain
 2 Sunbaked Canyon
+2 Mountain
 2 Inspiring Vantage
 2 Magus of the Moon
 2 Restoration Angel
 3 Esper Sentinel
-3 Fable of the Mirror-Breaker
-3 Sacred Foundry
 3 Magus of the Moon
 3 Inspiring Vantage
+3 Fable of the Mirror-Breaker
+3 Sacred Foundry
 4 Esper Sentinel
 4 Inspiring Vantage

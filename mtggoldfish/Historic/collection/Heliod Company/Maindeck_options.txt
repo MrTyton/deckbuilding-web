@@ -27,8 +27,8 @@
 9 Plains
 1 Snow-Covered Forest
 1 Snow-Covered Plains
-2 Snow-Covered Plains
 2 Snow-Covered Forest
+2 Snow-Covered Plains
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
@@ -45,36 +45,36 @@
 6 Forest
 7 Forest
 8 Forest
-1 Eiganjo, Seat of the Empire
-1 The Wandering Emperor
-1 Boseiju, Who Endures
 1 Lair of the Hydra
+1 The Wandering Emperor
+1 Eiganjo, Seat of the Empire
+1 Boseiju, Who Endures
 1 Ajani, Strength of the Pride
 1 Cleansing Nova
-2 Fabled Passage
 2 Forsaken Crossroads
 1 Daxos, Blessed by the Sun
 2 Daxos, Blessed by the Sun
 1 Ajani's Pridemate
 2 Ajani's Pridemate
-1 Scattered Groves
+2 Fabled Passage
 1 Esper Sentinel
+1 Scattered Groves
 2 Scattered Groves
 3 Castle Ardenvale
 2 Selfless Savior
 3 Selfless Savior
-1 Kazandu Mammoth
 1 Vivien, Monsters' Advocate
+1 Kazandu Mammoth
 1 Grizzled Huntmaster
 2 Kazandu Mammoth
 2 Grizzled Huntmaster
-3 Kazandu Mammoth
 3 Grizzled Huntmaster
-4 Kazandu Mammoth
+3 Kazandu Mammoth
 4 Grizzled Huntmaster
+4 Kazandu Mammoth
 1 Paradise Druid
-1 Fauna Shaman
 1 Cleric Class
+1 Fauna Shaman
 2 Paradise Druid
 2 Cleric Class
 2 Fauna Shaman
@@ -92,5 +92,5 @@
 1 Elite Spellbinder
 9 Forest
 10 Plains
-10 Forest
 11 Plains
+10 Forest

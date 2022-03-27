@@ -44,8 +44,8 @@
 4 Ice-Fang Coatl
 1 Flooded Grove
 1 Mystical Teachings
-1 Polluted Delta
 1 Fatal Push
+1 Polluted Delta
 2 Fatal Push
 3 Fatal Push
 1 Otawara, Soaring City
@@ -55,8 +55,8 @@
 2 Mystical Teachings
 3 Mystical Teachings
 1 Assassin's Trophy
-2 Polluted Delta
 2 Watery Grave
+2 Polluted Delta
 3 Polluted Delta
 1 Snow-Covered Swamp
 4 Fatal Push
@@ -81,13 +81,13 @@
 4 Unholy Heat
 4 Wrenn and Six
 2 Wooded Foothills
-1 Pyrite Spellbomb
-1 Urza's Saga
-1 Relic of Progenitus
 1 Aether Spellbomb
+1 Urza's Saga
+1 Pyrite Spellbomb
+1 Relic of Progenitus
 1 Mountain
-2 Urza's Saga
 2 Steam Vents
+2 Urza's Saga
 2 Expansion/Explosion
 3 Urza's Saga
 4 Urza's Saga
@@ -125,15 +125,15 @@
 3 Abundant Growth
 3 Omen of the Sea
 3 Wooded Foothills
-4 Abundant Growth
 4 Omen of the Sea
 4 Wooded Foothills
+4 Abundant Growth
 4 Hinterland Harbor
 1 Fact or Fiction
 1 Drowned Catacomb
 1 Riptide Laboratory
-2 Abrupt Decay
 2 Creeping Tar Pit
+2 Abrupt Decay
 1 Snow-Covered Mountain
 1 Time Warp
 1 Lonely Sandbar
@@ -149,9 +149,9 @@
 3 Field of Ruin
 1 Gut Shot
 3 Mystic Gate
-1 Dead/Gone
 1 Spirebluff Canal
 1 Raugrin Triome
+1 Dead/Gone
 2 Dead/Gone
 3 Dead/Gone
 1 Spell Snare
@@ -160,35 +160,30 @@
 1 Repeal
 2 Blast Zone
 2 Search for Azcanta
-2 Spell Snare
 2 Flooded Grove
+2 Spell Snare
 2 Simic Growth Chamber
 2 Halimar Depths
 2 Repeal
 3 Blast Zone
 3 Halimar Depths
 3 Spell Snare
+1 Mikokoro, Center of the Sea
+3 Hallowed Fountain
+4 Hallowed Fountain
+1 The Wandering Emperor
 1 Chalice of the Void
 1 Eiganjo, Seat of the Empire
-1 The Wandering Emperor
 2 The Wandering Emperor
 2 Chalice of the Void
 3 The Wandering Emperor
 3 Chalice of the Void
 4 The Wandering Emperor
-1 Mikokoro, Center of the Sea
-3 Hallowed Fountain
-4 Hallowed Fountain
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
-3 Watery Grave
 3 Zagoth Triome
+3 Watery Grave
 4 Polluted Delta
-1 Snow-Covered Plains
-1 Teferi, Hero of Dominaria
-1 Lumbering Falls
-4 Teferi, Time Raveler
-4 Nexus of Fate
 2 Hullbreaker Horror
 5 Island
 1 Brazen Borrower
@@ -200,3 +195,8 @@
 8 Snow-Covered Island
 9 Snow-Covered Island
 10 Snow-Covered Island
+1 Snow-Covered Plains
+1 Teferi, Hero of Dominaria
+1 Lumbering Falls
+4 Teferi, Time Raveler
+4 Nexus of Fate

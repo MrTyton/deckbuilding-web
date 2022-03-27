@@ -27,8 +27,8 @@
 1 Tovolar's Huntmaster
 1 Howlpack Piper
 2 Howlpack Piper
-1 Snow-Covered Mountain
 1 Snow-Covered Forest
+1 Snow-Covered Mountain
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 4 Snow-Covered Forest
@@ -87,16 +87,16 @@
 1 Needleverge Pathway
 1 Brutal Cathar
 1 Branchloft Pathway
-2 Needleverge Pathway
 2 Brutal Cathar
+2 Needleverge Pathway
 2 Branchloft Pathway
 3 Brutal Cathar
 3 Needleverge Pathway
 3 Branchloft Pathway
 4 Inscription of Abundance
 4 Packsong Pup
-4 Branchloft Pathway
 4 Needleverge Pathway
+4 Branchloft Pathway
 1 Goldspan Dragon
 2 Goldspan Dragon
 1 Field of Ruin
@@ -119,12 +119,12 @@
 11 Forest
 2 Boseiju, Who Endures
 1 Pack's Betrayal
-1 Lunar Frenzy
 1 Curse of Shaken Faith
+1 Lunar Frenzy
 1 Run Amok
 2 Hound Tamer
-2 Lunar Frenzy
 2 Curse of Shaken Faith
+2 Lunar Frenzy
 2 Pack's Betrayal
 2 Run Amok
 3 Pack's Betrayal
@@ -134,10 +134,10 @@
 1 Jugan Defends the Temple
 1 Snow-Covered Plains
 2 Snow-Covered Plains
-1 The Celestus
-2 The Celestus
 1 Arni Brokenbrow
 2 Arni Brokenbrow
+1 The Celestus
+2 The Celestus
 1 Child of the Pack
 2 Primal Adversary
 2 Child of the Pack
@@ -145,13 +145,13 @@
 1 Plains
 2 Plains
 1 Bird Admirer
+1 Howl of the Hunt
 1 Devouring Tendrils
 1 Dire-Strain Rampage
 1 Harvesttide Infiltrator
 1 Pestilent Wolf
 1 Roil Eruption
 1 Wolfkin Outcast
-1 Howl of the Hunt
 1 Bounding Wolf
 2 Devouring Tendrils
 2 Bird Admirer
@@ -162,6 +162,18 @@
 1 Mulch
 3 Howling Moon
 4 Lair of the Hydra
+1 Kazuul's Fury
+1 Jaspera Sentinel
+1 Eater of Virtue
+1 Thundering Raiju
+1 Lizard Blades
+2 Sokenzan, Crucible of Defiance
+2 Kazuul's Fury
+2 Jaspera Sentinel
+2 Lizard Blades
+2 Eater of Virtue
+3 Jaspera Sentinel
+4 Jaspera Sentinel
 1 Curse of Hospitality
 1 Heated Debate
 2 Field of Ruin
@@ -169,31 +181,19 @@
 3 Field of Ruin
 3 Heated Debate
 4 Heated Debate
-1 Tangled Florahedron
 1 Kazandu Mammoth
-2 Tangled Florahedron
+1 Tangled Florahedron
 2 Kazandu Mammoth
-3 Den of the Bugbear
+2 Tangled Florahedron
 3 Kazandu Mammoth
+3 Den of the Bugbear
 4 Kazandu Mammoth
 4 Shatterskull Smashing
-1 Kazuul's Fury
-1 Thundering Raiju
-1 Lizard Blades
-1 Jaspera Sentinel
-1 Eater of Virtue
-2 Kazuul's Fury
-2 Lizard Blades
-2 Jaspera Sentinel
-2 Eater of Virtue
-2 Sokenzan, Crucible of Defiance
-3 Jaspera Sentinel
-4 Jaspera Sentinel
 1 Atsushi, the Blazing Sky
 1 Burn Down the House
 1 Reckoner Bankbuster
-2 Reckoner Bankbuster
 2 Atsushi, the Blazing Sky
+2 Reckoner Bankbuster
 3 Moonveil Regent
 3 Reckoner Bankbuster
 3 Rugged Highlands

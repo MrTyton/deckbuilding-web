@@ -85,8 +85,8 @@
 4 Faithful Mending
 1 Fact or Fiction
 3 Misty Rainforest
-1 Blast Zone
 1 Despark
+1 Blast Zone
 2 Kaya, Orzhov Usurper
 3 Thoughtseize
 1 Engineered Explosives
@@ -138,10 +138,6 @@
 1 Lurrus of the Dream-Den
 1 Field of Ruin
 2 Field of Ruin
-1 Narset, Parter of Veils
-1 Grief
-1 Fetid Pools
-2 Narset, Parter of Veils
 1 March of Otherworldly Light
 1 Damnation
 1 Irrigated Farmland
@@ -149,6 +145,10 @@
 1 Serum Visions
 2 Cling to Dust
 2 Sunken Ruins
+1 Grief
+1 Fetid Pools
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
 1 Dream Trawler
 1 Unmarked Grave
 2 Obzedat's Aid
@@ -167,8 +167,6 @@
 1 Timeless Dragon
 2 Timeless Dragon
 3 Cryptic Command
-1 Spell Pierce
-4 Scalding Tarn
 1 As Foretold
 1 Ancestral Vision
 1 Emrakul, the Promised End
@@ -180,6 +178,8 @@
 3 Ancestral Vision
 3 As Foretold
 4 Jwari Disruption
+1 Spell Pierce
+4 Scalding Tarn
 1 Castle Ardenvale
 2 Vindicate
 3 Chalice of the Void
