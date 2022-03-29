@@ -24,10 +24,10 @@
 1 Underground Sea
 1 Duress
 2 Profane Tutor
-3 Profane Tutor
 3 Polluted Delta
-4 Profane Tutor
+3 Profane Tutor
 4 Polluted Delta
+4 Profane Tutor
 5 Island
 1 Karakas
 1 Venser, Shaper Savant
@@ -62,11 +62,11 @@
 2 Teferi, Time Raveler
 1 Mystic Sanctuary
 2 Solve the Equation
-1 Abundant Growth
 1 Swords to Plowshares
 1 Snow-Covered Plains
-2 Abundant Growth
+1 Abundant Growth
 2 Swords to Plowshares
+2 Abundant Growth
 3 Teferi, Time Raveler
 3 Orim's Chant
 4 Orim's Chant
@@ -84,6 +84,7 @@
 3 Flusterstorm
 4 Ancient Tomb
 1 Otawara, Soaring City
+2 Spell Pierce
 1 Prismatic Ending
 1 Boseiju, Who Shelters All
 2 Tundra
@@ -91,7 +92,6 @@
 2 Abundant Harvest
 1 Forest
 2 Forest
-2 Spell Pierce
 1 Dress Down
 1 Carpet of Flowers
 2 Eureka

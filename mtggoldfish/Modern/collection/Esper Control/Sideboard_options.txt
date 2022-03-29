@@ -1,24 +1,24 @@
 2 Kaya's Guile
 1 Engineered Explosives
-2 Thoughtseize
 1 Ashiok, Dream Render
-1 Mystical Dispute
+1 Stony Silence
 1 Flusterstorm
 2 Flusterstorm
-1 Stony Silence
-2 Celestial Purge
-1 Vindicate
 1 Kaya, Orzhov Usurper
+2 Thoughtseize
+1 Mystical Dispute
+2 Celestial Purge
 1 Void Mirror
-2 Mystical Dispute
 1 Unmoored Ego
-1 Fracturing Gust
+1 Vindicate
 2 Engineered Explosives
 1 Damping Sphere
-1 Test of Talents
 2 Stony Silence
+1 Test of Talents
 2 Fracture
+1 Fracturing Gust
 2 Damping Sphere
+2 Mystical Dispute
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 3 Flusterstorm
@@ -56,19 +56,17 @@
 1 Leyline of the Void
 3 Leyline of Sanctity
 1 Sanctifier en-Vec
-2 Vindicate
 2 Dress Down
 3 Thoughtseize
 2 Teferi, Time Raveler
+1 Kataki, War's Wage
+2 Kataki, War's Wage
 1 Legion's End
 1 Liliana, the Last Hope
-1 Cling to Dust
 1 Go for the Throat
+1 Cling to Dust
 1 Damnation
 1 Spell Snare
-1 Tourach, Dread Cantor
-1 Commit/Memory
-1 Extirpate
 1 Gideon, Ally of Zendikar
 1 Erebos's Intervention
 2 Relic of Progenitus
@@ -76,12 +74,14 @@
 1 Iona, Shield of Emeria
 2 Prismatic Ending
 2 Rest in Peace
-1 Veil of Summer
-1 Plague Engineer
-1 Bitterblossom
-2 Fracturing Gust
 1 Dark Confidant
 2 Dark Confidant
+1 Skyclave Apparition
+1 Hushbringer
+1 Sudden Edict
+1 Containment Priest
+2 Hushbringer
+2 Containment Priest
 1 Detention Sphere
 1 Dream Trawler
 2 Vanishing Verse
@@ -95,20 +95,24 @@
 1 Kozilek, Butcher of Truth
 1 Noxious Grasp
 2 Noxious Grasp
-1 Ceremonious Rejection
-2 Sunset Revelry
-2 Ceremonious Rejection
-2 Sanctifier en-Vec
-3 Sanctifier en-Vec
-3 Sunset Revelry
-1 Thing in the Ice
-3 Soul-Guide Lantern
-3 Engineered Explosives
+1 Tourach, Dread Cantor
+1 Commit/Memory
+1 Extirpate
+2 Vindicate
 1 Surgical Extraction
 2 Surgical Extraction
 3 Chalice of the Void
-1 Aven Mindcensor
+1 Ceremonious Rejection
+2 Sanctifier en-Vec
+2 Sunset Revelry
+2 Ceremonious Rejection
+3 Sunset Revelry
+3 Sanctifier en-Vec
+1 Thing in the Ice
+3 Engineered Explosives
+3 Soul-Guide Lantern
 1 Yorion, Sky Nomad
+1 Aven Mindcensor
 1 Ravenous Trap
 2 Aven Mindcensor
 3 Aven Mindcensor
@@ -116,12 +120,10 @@
 2 Leyline of the Void
 3 Leyline of the Void
 1 Path to Exile
-1 Kataki, War's Wage
 1 Lingering Souls
 2 Path to Exile
 2 Fatal Push
 2 Lingering Souls
-2 Kataki, War's Wage
 3 Lingering Souls
 4 Lingering Souls
 1 Pithing Needle

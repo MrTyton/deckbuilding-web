@@ -1,64 +1,63 @@
-3 Seasoned Pyromancer
-1 Ephemerate
-2 Ephemerate
-3 Ephemerate
-4 Ephemerate
-4 Seasoned Pyromancer
-2 Sacred Foundry
-1 Fury
-1 Solitude
-2 Solitude
-3 Solitude
-2 Fury
-3 Arid Mesa
-1 Blood Moon
-3 Fury
-4 Solitude
-4 Arid Mesa
-1 Den of the Bugbear
-2 Den of the Bugbear
-2 Plains
-4 Prismatic Ending
-2 Blood Moon
-1 Windswept Heath
-1 Obsidian Charmaw
-1 Esper Sentinel
-2 Mountain
-2 Windswept Heath
-2 Obsidian Charmaw
-2 Esper Sentinel
-3 Sacred Foundry
-3 Esper Sentinel
-3 Plains
-4 Sacred Foundry
-4 Esper Sentinel
+1 Swamp
+3 Ranger-Captain of Eos
+1 Bloodstained Mire
+2 Bloodstained Mire
+3 Bloodstained Mire
+4 Bloodstained Mire
+1 Kroxa, Titan of Death's Hunger
+2 Kroxa, Titan of Death's Hunger
+1 Blackcleave Cliffs
+2 Blackcleave Cliffs
+2 Swamp
+3 Blackcleave Cliffs
+2 Blood Crypt
+4 Blackcleave Cliffs
+1 Thoughtseize
+2 Thoughtseize
+1 Dauthi Voidwalker
+2 Dauthi Voidwalker
+3 Dauthi Voidwalker
+4 Dauthi Voidwalker
+1 Kolaghan's Command
+2 Kolaghan's Command
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Mishra's Bauble
+4 Mishra's Bauble
+1 Unholy Heat
+1 Tourach, Dread Cantor
+1 Dragon's Rage Channeler
+2 Tourach, Dread Cantor
+2 Unholy Heat
+2 Dragon's Rage Channeler
+3 Dragon's Rage Channeler
+3 Inquisition of Kozilek
+4 Dragon's Rage Channeler
+1 Silent Clearing
 3 Lightning Bolt
 4 Inquisition of Kozilek
 3 Unholy Heat
-1 Ranger-Captain of Eos
-2 Ranger-Captain of Eos
-1 Sunbaked Canyon
-3 Ranger-Captain of Eos
-3 Blood Moon
-3 Kolaghan's Command
 1 Grief
 2 Grief
 3 Grief
 4 Grief
+1 Sunbaked Canyon
 3 Thoughtseize
-3 Blood Crypt
-1 Fatal Push
-2 Fatal Push
+3 Kolaghan's Command
 1 Inspiring Vantage
 1 Stitcher's Supplier
 2 Stitcher's Supplier
 3 Stitcher's Supplier
 4 Stitcher's Supplier
+1 Fatal Push
+2 Fatal Push
 1 Collective Brutality
-1 Lightning Skelemental
 1 Unearth
-1 Lingering Souls
+1 Lightning Skelemental
 1 Cling to Dust
+1 Lingering Souls
 1 Goblin Bombardment
 2 Lightning Skelemental
 2 Unearth
@@ -68,20 +67,26 @@
 3 Lingering Souls
 4 Unearth
 4 Lingering Souls
+3 Blood Crypt
 4 Thoughtseize
-2 Godless Shrine
-1 Cathartic Pyre
-1 Kaya's Guile
-2 Kaya's Guile
-1 Seal of Fire
-1 Terminate
-2 Terminate
-1 Graven Cairns
 4 Fury
+2 Godless Shrine
 1 Priest of Fell Rites
 1 Malakir Rebirth
 2 Priest of Fell Rites
 2 Malakir Rebirth
+1 Cathartic Pyre
+1 Kaya's Guile
+2 Kaya's Guile
+1 Touch the Spirit Realm
+2 Touch the Spirit Realm
+1 Persist
+1 Archon of Cruelty
+2 Archon of Cruelty
+2 Persist
+3 Archon of Cruelty
+3 Persist
+1 Seal of Fire
 1 Undying Evil
 1 Undying Malice
 1 Crackling Doom
@@ -95,26 +100,25 @@
 3 Undying Evil
 4 Undying Evil
 3 Obsidian Charmaw
-1 Castle Locthwain
+4 Blood Moon
+1 Fable of the Mirror-Breaker
+1 Concealed Courtyard
+2 Fable of the Mirror-Breaker
+3 Priest of Fell Rites
+3 Fable of the Mirror-Breaker
+4 Priest of Fell Rites
+1 March of Otherworldly Light
 1 Takenuma, Abandoned Mire
-1 Touch the Spirit Realm
-2 Touch the Spirit Realm
-1 Persist
-1 Archon of Cruelty
-2 Archon of Cruelty
-2 Persist
-3 Archon of Cruelty
-3 Persist
+1 Terminate
+2 Terminate
+1 Graven Cairns
 2 Collective Brutality
 1 Snow-Covered Plains
 1 Snow-Covered Swamp
 1 Snow-Covered Mountain
+1 Ox of Agonas
+1 Sokenzan, Crucible of Defiance
 1 Mana Tithe
-1 Scalding Tarn
-1 Dark Confidant
-1 Verdant Catacombs
-1 Wooded Foothills
-2 Dark Confidant
 1 Magus of the Moon
 2 Magus of the Moon
 1 Engineered Explosives
@@ -126,16 +130,9 @@
 2 Graven Cairns
 3 Tourach, Dread Cantor
 3 Scourge of the Skyclaves
-4 Blood Moon
-1 Fable of the Mirror-Breaker
-1 Concealed Courtyard
 1 Bloodtithe Harvester
-2 Fable of the Mirror-Breaker
-3 Priest of Fell Rites
-3 Fable of the Mirror-Breaker
-4 Priest of Fell Rites
 4 Fable of the Mirror-Breaker
-1 March of Otherworldly Light
+1 Castle Locthwain
 1 Hidetsugu Consumes All
 1 Eiganjo, Seat of the Empire
 1 Kaya, Orzhov Usurper
@@ -145,6 +142,7 @@
 3 Hidetsugu Consumes All
 4 Hidetsugu Consumes All
 1 Pyrite Spellbomb
+1 Manamorphose
 1 Urza's Saga
 1 Lurrus of the Dream-Den
 1 Gurmag Angler
@@ -154,28 +152,27 @@
 1 Bonecrusher Giant
 1 Pithing Needle
 1 Sunbeam Spellbomb
-1 Manamorphose
+2 Manamorphose
 2 Urza's Saga
 2 Path to Exile
 2 Cathar Commando
 2 Lurrus of the Dream-Den
 2 Bonecrusher Giant
 2 Gurmag Angler
-2 Manamorphose
 3 Path to Exile
+3 Manamorphose
 3 Urza's Saga
 3 Lurrus of the Dream-Den
-3 Manamorphose
-4 Path to Exile
 4 Manamorphose
+4 Path to Exile
 4 Lurrus of the Dream-Den
 1 Prismatic Vista
 1 Magmatic Channeler
 1 Platinum Emperion
 1 Madcap Experiment
+1 Grave Titan
 1 Feed the Swarm
 1 Shred Memory
-1 Grave Titan
 1 Lightning Axe
 1 Thrill of Possibility
 1 Unmarked Grave

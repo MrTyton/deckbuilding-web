@@ -193,14 +193,14 @@
 1 Vindicate
 1 Drown in the Loch
 1 Shambling Vent
-2 Drown in the Loch
 2 Dakkon, Shadow Slayer
+2 Drown in the Loch
 1 Birds of Paradise
 1 Botanical Sanctum
 1 Forest
-2 Birds of Paradise
 2 Breeding Pool
 2 Endurance
+2 Birds of Paradise
 2 Waterlogged Grove
 2 Botanical Sanctum
 3 Endurance
@@ -211,12 +211,8 @@
 2 Consider
 3 Thraben Inspector
 4 Thraben Inspector
-4 Expressive Iteration
 4 Jace, the Mind Sculptor
-1 Opt
-2 Opt
-3 Opt
-4 Opt
+4 Expressive Iteration
 4 Path to Exile
 1 Serum Visions
 2 Spell Pierce
@@ -225,6 +221,12 @@
 3 Spell Pierce
 3 Serum Visions
 4 Serum Visions
+1 Opt
+2 Opt
+3 Opt
+4 Opt
+4 Plains
+5 Plains
 1 Cavern of Souls
 1 Invisible Stalker
 1 Sword of Light and Shadow
@@ -242,5 +244,3 @@
 4 Geist of Saint Traft
 4 Fervent Champion
 4 Cavern of Souls
-4 Plains
-5 Plains

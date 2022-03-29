@@ -1,20 +1,13 @@
-1 Soul-Guide Lantern
-2 Torpor Orb
+1 Lightning Bolt
+1 Blood Moon
+1 Trinisphere
+2 Blood Moon
+1 Painter's Servant
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
-1 Blood Moon
-1 Lightning Bolt
-2 Blood Moon
-1 Painter's Servant
-1 Trinisphere
-2 Pyrokinesis
-1 Portable Hole
-1 Abrade
-2 Magus of the Moon
-2 Lightning Bolt
-1 Welding Jar
+1 Soul-Guide Lantern
 1 Hydroblast
 2 Hydroblast
 1 Brazen Borrower
@@ -22,22 +15,26 @@
 1 Blue Elemental Blast
 1 Force of Negation
 2 Dismember
-2 Force of Negation
 2 Blue Elemental Blast
+2 Force of Negation
 3 Force of Negation
 4 Force of Negation
+1 Portable Hole
+2 Torpor Orb
 2 Ethersworn Canonist
-2 Abrade
-1 Thorn of Amethyst
-1 Twinshot Sniper
 1 March of Otherworldly Light
 2 March of Otherworldly Light
-1 Grafdigger's Cage
-2 Welding Jar
+2 Pyrokinesis
+2 Magus of the Moon
+2 Lightning Bolt
+1 Abrade
+1 Karn, Scion of Urza
+1 Sphere of Resistance
+1 Welding Jar
+2 Abrade
+1 Twinshot Sniper
 1 Swords to Plowshares
 2 Swords to Plowshares
-1 Sphere of Resistance
-1 Karn, Scion of Urza
 1 Fury
 1 Engineered Explosives
 2 Fury
@@ -49,16 +46,19 @@
 1 Karn, the Great Creator
 1 End the Festivities
 1 Retrofitter Foundry
+1 Thorn of Amethyst
 2 Thorn of Amethyst
 3 Magus of the Moon
 1 Ancient Grudge
 2 Ancient Grudge
 3 Ancient Grudge
 1 Jegantha, the Wellspring
-1 Phyrexian Revoker
 3 Lightning Bolt
+1 Phyrexian Revoker
 2 Trinisphere
+1 Grafdigger's Cage
 3 March of Otherworldly Light
+2 Welding Jar
 1 Sundering Titan
 1 Wurmcoil Engine
 1 Sorcerous Spyglass
@@ -83,9 +83,6 @@
 1 Wear/Tear
 2 Wear/Tear
 3 Wear/Tear
-1 Disenchant
-2 Disenchant
-3 Disenchant
 1 Liquimetal Torque
 1 Blazing Volley
 3 Blood Moon

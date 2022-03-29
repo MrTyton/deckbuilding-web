@@ -7,8 +7,8 @@
 1 Bone Shards
 2 Bone Shards
 1 Soul-Guide Lantern
-1 Godless Shrine
 1 Marsh Flats
+1 Godless Shrine
 2 Marsh Flats
 1 Persist
 1 Unmarked Grave
@@ -24,11 +24,11 @@
 4 Blood Fountain
 2 Godless Shrine
 3 Marsh Flats
+1 Silent Clearing
 1 Castle Locthwain
 1 Archon of Cruelty
 1 Herald of Anguish
 1 Unburial Rites
-1 Silent Clearing
 2 Archon of Cruelty
 2 Herald of Anguish
 2 Castle Locthwain
@@ -89,10 +89,10 @@
 1 Scalding Tarn
 3 Thought Monitor
 4 Thought Monitor
-1 Spirebluff Canal
 1 Aether Spellbomb
 1 Emry, Lurker of the Loch
 1 Expedition Map
+1 Spirebluff Canal
 2 Spirebluff Canal
 2 Emry, Lurker of the Loch
 3 Emry, Lurker of the Loch
@@ -104,25 +104,25 @@
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 2 Stomping Ground
-1 Lightning Bolt
 1 Copperline Gorge
+1 Lightning Bolt
 2 Wooded Foothills
-2 Lightning Bolt
 2 Copperline Gorge
+2 Lightning Bolt
 3 Wooded Foothills
-3 Lightning Bolt
 3 Copperline Gorge
+3 Lightning Bolt
 4 Wooded Foothills
 3 Godless Shrine
 3 Swamp
 1 Springleaf Drum
-1 Arid Mesa
 1 Sacred Foundry
+1 Arid Mesa
 1 Plains
 2 Sacred Foundry
 2 Arid Mesa
-1 Unearth
 1 Concealed Courtyard
+1 Unearth
 1 Greasefang, Okiba Boss
 1 Parhelion II
 2 Unearth
@@ -133,11 +133,11 @@
 3 Parhelion II
 3 Greasefang, Okiba Boss
 4 Greasefang, Okiba Boss
-1 Ketria Triome
-1 Boseiju, Who Endures
-1 Chalice of the Void
-1 Vraska, Golgari Queen
 1 Zagoth Triome
+1 Chalice of the Void
+1 Boseiju, Who Endures
+1 Vraska, Golgari Queen
+1 Ketria Triome
 2 Silent Clearing
 1 Abrupt Decay
 2 Abrupt Decay
@@ -147,8 +147,8 @@
 1 Terastodon
 1 Fatal Push
 2 Primeval Titan
-2 Nurturing Peatland
 2 Fatal Push
+2 Nurturing Peatland
 3 Primeval Titan
 3 Fatal Push
 1 Endurance
@@ -156,15 +156,6 @@
 2 Endurance
 3 Misty Rainforest
 3 Nettlecyst
-1 Seasoned Pyromancer
-1 Ignoble Hierarch
-2 Seasoned Pyromancer
-2 Wrenn and Six
-3 Wrenn and Six
-3 Seasoned Pyromancer
-4 Lightning Bolt
-4 Seasoned Pyromancer
-4 Grist, the Hunger Tide
 1 Spire of Industry
 1 Silverbluff Bridge
 1 Galvanic Blast
@@ -180,11 +171,11 @@
 4 Silverbluff Bridge
 4 Galvanic Blast
 4 Metallic Rebuke
-1 Inspiring Vantage
 1 Goblin Engineer
 1 Takenuma, Abandoned Mire
 1 Voldaren Epicure
 1 Skysovereign, Consul Flagship
+1 Inspiring Vantage
 1 Smuggler's Copter
 1 Polluted Delta
 2 Blood Crypt
@@ -196,22 +187,31 @@
 3 Voldaren Epicure
 4 Goblin Engineer
 4 Voldaren Epicure
-1 Tarmogoyf
 1 Unholy Heat
 1 Prismatic Ending
 1 Dragon's Rage Channeler
+1 Tarmogoyf
 2 Unholy Heat
-2 Tarmogoyf
 2 Mountain
+2 Tarmogoyf
 2 Dragon's Rage Channeler
 2 Prismatic Ending
-3 Ragavan, Nimble Pilferer
 3 Unholy Heat
 3 Prismatic Ending
 3 Tarmogoyf
+3 Ragavan, Nimble Pilferer
 3 Dragon's Rage Channeler
 4 Dragon's Rage Channeler
 4 Tarmogoyf
+1 Ignoble Hierarch
+1 Seasoned Pyromancer
+2 Wrenn and Six
+2 Seasoned Pyromancer
+3 Wrenn and Six
+3 Seasoned Pyromancer
+4 Grist, the Hunger Tide
+4 Seasoned Pyromancer
+4 Lightning Bolt
 4 Willow Geist
 4 Ravenous Squirrel
 1 Windswept Heath
@@ -226,8 +226,8 @@
 1 Pyrite Spellbomb
 2 Scalding Tarn
 2 Fiery Islet
-2 Engineered Explosives
 2 Steam Vents
+2 Engineered Explosives
 3 Scalding Tarn
 4 Scalding Tarn
 4 Feasting Troll King
@@ -236,20 +236,20 @@
 4 Swamp
 5 Swamp
 6 Snow-Covered Swamp
-1 Temple Garden
 1 Stitcher's Supplier
-1 Can't Stay Away
+1 Temple Garden
 1 Undead Butler
+1 Can't Stay Away
 1 Deadly Dispute
 2 Stitcher's Supplier
-2 Can't Stay Away
 2 Undead Butler
+2 Can't Stay Away
 2 Deadly Dispute
 3 Stitcher's Supplier
 3 Concealed Courtyard
 3 Deadly Dispute
-4 Unearth
 4 Stitcher's Supplier
+4 Unearth
 4 Concealed Courtyard
 4 Godless Shrine
 4 Parhelion II

@@ -29,9 +29,9 @@
 2 The Meathook Massacre
 1 Crippling Fear
 1 Pithing Needle
-2 Valki, God of Lies
 1 Bloodvial Purveyor
 2 Bloodvial Purveyor
+2 Valki, God of Lies
 4 Duress
 1 Check for Traps
 2 Check for Traps
@@ -39,8 +39,8 @@
 1 Halana and Alena, Partners
 2 Crippling Fear
 1 Demon Bolt
-1 Orcus, Prince of Undeath
 1 Baleful Mastery
+1 Orcus, Prince of Undeath
 2 Baleful Mastery
 1 Dragon's Fire
 2 Dragon's Fire
@@ -63,29 +63,20 @@
 1 Arni Slays the Troll
 1 Crush the Weak
 1 Plummet
-1 Curse of Hospitality
 1 End the Festivities
+1 Curse of Hospitality
+2 End the Festivities
 2 Crush the Weak
+2 Curse of Hospitality
 2 Plummet
 2 Arni Slays the Troll
-2 Curse of Hospitality
-2 End the Festivities
 3 Plummet
-1 Masked Vandal
-1 Acquisitions Expert
-1 Ranger Class
-2 Infernal Grasp
-2 Masked Vandal
-2 Acquisitions Expert
-2 Ranger Class
-3 Masked Vandal
-3 Ranger Class
 1 Primal Adversary
 1 Professor's Warning
 1 Hungry for More
 2 Primal Adversary
-2 Hungry for More
 2 Power Word Kill
+2 Hungry for More
 2 Professor's Warning
 3 Power Word Kill
 3 Hungry for More
@@ -94,6 +85,15 @@
 2 Avabruck Caretaker
 3 Tamiyo's Safekeeping
 3 Culling Ritual
+1 Acquisitions Expert
+1 Masked Vandal
+1 Ranger Class
+2 Acquisitions Expert
+2 Masked Vandal
+2 Ranger Class
+2 Infernal Grasp
+3 Ranger Class
+3 Masked Vandal
 1 Lolth, Spider Queen
 3 Ray of Enfeeblement
 3 Check for Traps

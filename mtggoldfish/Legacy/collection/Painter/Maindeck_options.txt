@@ -1,24 +1,23 @@
+1 Twinshot Sniper
 6 Mountain
 7 Mountain
 1 Wooded Foothills
 1 Plateau
 3 Mox Opal
-1 Bloodstained Mire
-1 Twinshot Sniper
-1 Simian Spirit Guide
 1 Arid Mesa
 4 Lightning Bolt
-1 Retrofitter Foundry
+2 Red Elemental Blast
 3 Imperial Recruiter
-1 Portable Hole
 2 Wooded Foothills
+1 Bloodstained Mire
 2 Plateau
+1 Retrofitter Foundry
+1 Simian Spirit Guide
+1 Portable Hole
 1 Experimental Synthesizer
 2 Experimental Synthesizer
 3 Experimental Synthesizer
 8 Mountain
-2 Red Elemental Blast
-2 Bloodstained Mire
 1 Wurmcoil Engine
 2 Arid Mesa
 1 Once Upon a Time
@@ -27,39 +26,9 @@
 3 Once Upon a Time
 4 Once Upon a Time
 1 Ichor Wellspring
-1 Bolas's Citadel
-4 Experimental Synthesizer
 1 Shadowspear
+4 Experimental Synthesizer
 4 Mox Opal
-2 Lion's Eye Diamond
-1 Plains
-1 Oswald Fiddlebender
-2 Oswald Fiddlebender
-2 Simian Spirit Guide
-2 Portable Hole
-3 Portable Hole
-1 Ancient Den
-2 Plains
-2 Ancient Den
-3 Oswald Fiddlebender
-3 Ancient Den
-1 Enlightened Tutor
-1 Lion Sash
-1 Ingenious Smith
-1 Esper Sentinel
-1 Karakas
-2 Ingenious Smith
-2 Esper Sentinel
-2 Karakas
-3 Plains
-3 Ingenious Smith
-3 Esper Sentinel
-4 Ingenious Smith
-4 Oswald Fiddlebender
-4 Esper Sentinel
-4 Plains
-4 Ancient Den
-5 Plains
 1 Emry, Lurker of the Loch
 2 Emry, Lurker of the Loch
 3 Emry, Lurker of the Loch
@@ -78,11 +47,11 @@
 1 Urza's Bauble
 1 Thought Monitor
 1 Mishra's Bauble
+2 Island
 2 Otawara, Soaring City
 2 Thoughtcast
 2 Kappa Cannoneer
 2 Urza's Bauble
-2 Island
 2 Mishra's Bauble
 3 Kappa Cannoneer
 3 Thoughtcast
@@ -94,30 +63,54 @@
 4 Mishra's Bauble
 4 Urza's Bauble
 4 Seat of the Synod
+2 Bloodstained Mire
+2 Lion's Eye Diamond
+1 Bolas's Citadel
+2 Simian Spirit Guide
+2 Thought Monitor
+1 Plains
+1 Oswald Fiddlebender
+2 Oswald Fiddlebender
 9 Mountain
 2 Taiga
-2 Twinshot Sniper
 3 Simian Spirit Guide
-2 Breya's Apprentice
 3 Lion's Eye Diamond
+2 Breya's Apprentice
+2 Twinshot Sniper
 1 Chromatic Star
+2 Portable Hole
+3 Portable Hole
 3 Arid Mesa
 4 Arid Mesa
-2 Ethersworn Canonist
-4 Portable Hole
+1 Enlightened Tutor
 1 Scalding Tarn
+1 Ancient Den
+2 Plains
+2 Ancient Den
+3 Oswald Fiddlebender
+3 Ancient Den
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
-6 Plains
-2 Lion Sash
+1 Lion Sash
+1 Ingenious Smith
+1 Esper Sentinel
+1 Karakas
+2 Ingenious Smith
+2 Esper Sentinel
+2 Karakas
+3 Plains
+3 Ingenious Smith
+3 Esper Sentinel
+4 Ingenious Smith
+4 Oswald Fiddlebender
+4 Esper Sentinel
+4 Plains
+4 Ancient Den
+5 Plains
 1 Goblin Cratermaker
-2 Thought Monitor
-1 Swords to Plowshares
-2 Swords to Plowshares
-3 Swords to Plowshares
-3 Ethersworn Canonist
-4 Swords to Plowshares
+1 Pyrite Spellbomb
+3 Breya's Apprentice
 1 Crucible of Worlds
 1 Mother of Runes
 1 Wasteland
@@ -126,10 +119,11 @@
 3 Wasteland
 4 Wasteland
 4 Aether Vial
-1 Pyrite Spellbomb
-3 Breya's Apprentice
+6 Plains
+2 Lion Sash
+2 Ethersworn Canonist
+4 Portable Hole
 1 Smuggler's Copter
-1 Blood Moon
 3 City of Traitors
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
@@ -146,18 +140,18 @@
 1 Tangle Wire
 1 Sai, Master Thopterist
 2 Sai, Master Thopterist
-2 Enlightened Tutor
 1 Eiganjo, Seat of the Empire
 2 Eiganjo, Seat of the Empire
 2 Chromatic Star
 3 Chromatic Star
+1 Blood Moon
 1 Sundering Titan
+1 Dire Fleet Daredevil
 1 Chandra, Torch of Defiance
 1 Anje's Ravager
-1 Dire Fleet Daredevil
 2 Chandra, Torch of Defiance
-2 Blood Moon
 2 Ensnaring Bridge
+2 Blood Moon
 2 Smuggler's Copter
 3 Blood Moon
 4 Imperial Recruiter
@@ -165,12 +159,22 @@
 2 Cavern of Souls
 3 Bloodstained Mire
 4 Bloodstained Mire
+1 Welding Jar
+2 Enlightened Tutor
+3 Wooded Foothills
+3 Red Elemental Blast
+4 Wooded Foothills
 1 Punishing Fire
 1 Grove of the Burnwillows
 2 Punishing Fire
 2 Grove of the Burnwillows
 3 Grove of the Burnwillows
 4 Grove of the Burnwillows
+1 Swords to Plowshares
+2 Swords to Plowshares
+3 Swords to Plowshares
+3 Ethersworn Canonist
+4 Swords to Plowshares
 1 Trinisphere
 4 City of Traitors
 4 Grindstone
