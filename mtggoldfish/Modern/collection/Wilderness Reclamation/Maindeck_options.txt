@@ -1,33 +1,33 @@
-3 Snapcaster Mage
 1 Fire/Ice
 2 Fire/Ice
 3 Fire/Ice
+1 Cryptic Command
 2 Breeding Pool
 4 Fire/Ice
 1 Hallowed Fountain
 4 Island
 4 Snow-Covered Island
-1 Snow-Covered Forest
 1 Flooded Strand
 2 Flooded Strand
+1 Snow-Covered Forest
 1 Unholy Heat
 2 Unholy Heat
-2 Cryptic Command
-1 Ice-Fang Coatl
 3 Flooded Strand
 2 Reflecting Pool
 1 Wooded Foothills
+2 Cryptic Command
 4 Flooded Strand
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
-1 Hall of Storm Giants
 1 Forest
+1 Ice-Fang Coatl
 3 Unholy Heat
-2 Ice-Fang Coatl
-3 Ice-Fang Coatl
+1 Hall of Storm Giants
 3 Teferi, Time Raveler
 1 Prismatic Ending
 2 Prismatic Ending
+2 Ice-Fang Coatl
+3 Ice-Fang Coatl
 1 Plains
 2 Hallowed Fountain
 3 Prismatic Ending
@@ -36,55 +36,52 @@
 2 Solitude
 3 Solitude
 4 Prismatic Ending
-1 Zagoth Triome
-1 Watery Grave
-3 Cryptic Command
 4 Ketria Triome
 4 Snapcaster Mage
-4 Ice-Fang Coatl
 1 Flooded Grove
-1 Mystical Teachings
-1 Fatal Push
-1 Polluted Delta
-2 Fatal Push
-3 Fatal Push
 1 Otawara, Soaring City
 1 Expansion/Explosion
 4 Solitude
+3 Cryptic Command
+1 Zagoth Triome
+1 Watery Grave
+4 Ice-Fang Coatl
+1 Mystical Teachings
 1 Blue Sun's Zenith
 2 Mystical Teachings
 3 Mystical Teachings
+1 Fatal Push
 1 Assassin's Trophy
+1 Polluted Delta
+2 Fatal Push
 2 Watery Grave
 2 Polluted Delta
 3 Polluted Delta
-1 Snow-Covered Swamp
-4 Fatal Push
+3 Fatal Push
 1 Creeping Tar Pit
-1 Consider
-1 Abrupt Decay
+1 Snow-Covered Swamp
 1 Pulse of Murasa
+1 Abrupt Decay
+1 Consider
 2 Consider
 3 Consider
+4 Fatal Push
 1 Boseiju, Who Endures
 1 Remand
 2 Remand
 3 Remand
 1 Mystic Gate
-1 Prismatic Vista
-1 Jace, the Mind Sculptor
 2 Nexus of Fate
 1 Hullbreaker Horror
 1 Search for Azcanta
-1 Rimewood Falls
 1 Blast Zone
-4 Unholy Heat
 4 Wrenn and Six
+4 Unholy Heat
 2 Wooded Foothills
+1 Aether Spellbomb
 1 Urza's Saga
 1 Pyrite Spellbomb
 1 Relic of Progenitus
-1 Aether Spellbomb
 1 Mountain
 2 Steam Vents
 2 Urza's Saga
@@ -93,11 +90,11 @@
 4 Urza's Saga
 1 Supreme Verdict
 2 Mystic Gate
+1 Prismatic Vista
 4 Consider
+1 Jace, the Mind Sculptor
 4 Remand
 1 Celestial Colonnade
-1 Consume the Meek
-2 Jace, the Mind Sculptor
 1 Dress Down
 2 Dress Down
 1 Windswept Heath
@@ -109,12 +106,9 @@
 4 March of Otherworldly Light
 1 Sea Gate Restoration
 3 Nexus of Fate
-1 Field of Ruin
-2 Field of Ruin
-2 Zagoth Triome
-2 Prismatic Vista
-3 Breeding Pool
 4 Cryptic Command
+1 Rimewood Falls
+3 Breeding Pool
 1 Spell Pierce
 2 Spell Pierce
 5 Snow-Covered Island
@@ -132,21 +126,18 @@
 1 Fact or Fiction
 1 Drowned Catacomb
 1 Riptide Laboratory
-2 Abrupt Decay
 2 Creeping Tar Pit
+2 Abrupt Decay
 1 Snow-Covered Mountain
 1 Time Warp
 1 Lonely Sandbar
 1 Nightpack Ambusher
 1 Mental Journey
+1 Consume the Meek
+2 Jace, the Mind Sculptor
 1 Sulfur Falls
 2 Boseiju, Who Endures
 2 Hall of Storm Giants
-1 Sultai Charm
-1 Endurance
-2 Snow-Covered Forest
-2 Endurance
-3 Field of Ruin
 1 Gut Shot
 3 Mystic Gate
 1 Spirebluff Canal
@@ -168,12 +159,9 @@
 3 Blast Zone
 3 Halimar Depths
 3 Spell Snare
-1 Bloodchief's Thirst
-2 Bloodchief's Thirst
-3 Watery Grave
-3 Zagoth Triome
-4 Polluted Delta
+1 Field of Ruin
 1 Mikokoro, Center of the Sea
+2 Field of Ruin
 3 Hallowed Fountain
 4 Hallowed Fountain
 1 The Wandering Emperor
@@ -184,6 +172,12 @@
 3 The Wandering Emperor
 3 Chalice of the Void
 4 The Wandering Emperor
+1 Bloodchief's Thirst
+2 Zagoth Triome
+2 Bloodchief's Thirst
+3 Zagoth Triome
+3 Watery Grave
+4 Polluted Delta
 1 Snow-Covered Plains
 1 Teferi, Hero of Dominaria
 1 Lumbering Falls
@@ -193,8 +187,9 @@
 5 Island
 1 Brazen Borrower
 2 Brazen Borrower
-3 Prismatic Vista
+2 Prismatic Vista
 3 Brazen Borrower
+3 Prismatic Vista
 6 Snow-Covered Island
 7 Snow-Covered Island
 8 Snow-Covered Island

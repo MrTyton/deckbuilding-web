@@ -3,15 +3,15 @@
 2 Roiling Vortex
 3 Roiling Vortex
 3 Goblin Chainwhirler
+4 Embercleave
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
 4 Roiling Vortex
+1 Kari Zev, Skyship Raider
 2 Shatterskull Smashing
 3 Den of the Bugbear
 3 Rampaging Ferocidon
-1 Kari Zev, Skyship Raider
 3 Shatterskull Smashing
-4 Embercleave
 4 Goblin Chainwhirler
 1 Chandra, Torch of Defiance
 1 Light Up the Stage
@@ -21,22 +21,28 @@
 3 Play with Fire
 4 Den of the Bugbear
 4 Torbran, Thane of Red Fell
+17 Mountain
 2 Chandra, Torch of Defiance
 4 Rampaging Ferocidon
+1 Static Discharge
+2 Static Discharge
+3 Static Discharge
+4 Static Discharge
+1 Lightning Strike
+2 Lightning Strike
+3 Lightning Strike
+4 Lightning Strike
 3 Light Up the Stage
 1 Shock
 2 Shock
 3 Shock
+18 Mountain
+19 Mountain
 1 Phoenix of Ash
-17 Mountain
 1 Rimrock Knight
 2 Rimrock Knight
 3 Rimrock Knight
 4 Light Up the Stage
-1 Runaway Steam-Kin
-2 Runaway Steam-Kin
-3 Runaway Steam-Kin
-4 Runaway Steam-Kin
 1 Scorch Spitter
 2 Scorch Spitter
 3 Scorch Spitter
@@ -44,18 +50,15 @@
 1 Viashino Pyromancer
 2 Viashino Pyromancer
 3 Viashino Pyromancer
-2 Kari Zev, Skyship Raider
+1 Runaway Steam-Kin
+2 Runaway Steam-Kin
+3 Runaway Steam-Kin
+4 Runaway Steam-Kin
 4 Shock
-4 Shatterskull Smashing
+2 Kari Zev, Skyship Raider
 1 Managorger Phoenix
-1 Lightning Strike
-2 Lightning Strike
-3 Lightning Strike
-4 Lightning Strike
-1 Static Discharge
-2 Static Discharge
-3 Static Discharge
-4 Static Discharge
+4 Shatterskull Smashing
+1 Bloodthirsty Adversary
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -73,8 +76,8 @@
 15 Snow-Covered Mountain
 16 Snow-Covered Mountain
 17 Snow-Covered Mountain
-1 Sokenzan, Crucible of Defiance
 1 Chandra, Dressed to Kill
+1 Sokenzan, Crucible of Defiance
 1 Needleverge Pathway
 1 Inspiring Vantage
 1 Sacred Foundry
@@ -92,8 +95,6 @@
 3 Skewer the Critics
 3 Soul-Scar Mage
 4 Play with Fire
-18 Mountain
-19 Mountain
 1 Reckless Stormseeker
 2 Reckless Stormseeker
 1 Ghitu Lavarunner
@@ -109,7 +110,6 @@
 1 Light Up the Night
 1 Alchemist's Gambit
 1 Abrade
-1 Bloodthirsty Adversary
 1 Sundown Pass
 2 Sundown Pass
 2 Chandra, Dressed to Kill
@@ -129,8 +129,8 @@
 3 Falkenrath Pit Fighter
 4 Falkenrath Pit Fighter
 1 Fireblade Charger
-1 Goldspan Dragon
 1 Frost Bite
+1 Goldspan Dragon
 1 Faceless Haven
 2 Fireblade Charger
 2 Frost Bite
@@ -163,15 +163,15 @@
 4 Earthshaker Khenra
 4 Hellrider
 1 Voldaren Epicure
+1 Spikefield Hazard
 1 Chandra, Acolyte of Flame
 1 Cavalcade of Calamity
 1 Grim Initiate
-1 Spikefield Hazard
 2 Voldaren Epicure
 2 Spikefield Hazard
 2 Chandra, Acolyte of Flame
-2 Grim Initiate
 2 Cavalcade of Calamity
+2 Grim Initiate
 3 Voldaren Epicure
 3 Cavalcade of Calamity
 3 Grim Initiate
@@ -197,19 +197,27 @@
 4 Bomat Courier
 4 Needleverge Pathway
 4 Dragon's Rage Channeler
-4 Soul-Scar Mage
 4 Lightning Helix
+4 Soul-Scar Mage
+1 Reinforced Ronin
+2 Reinforced Ronin
+2 Bloodthirsty Adversary
+3 Reinforced Ronin
+3 Bloodthirsty Adversary
+4 Reinforced Ronin
+4 Bloodthirsty Adversary
+20 Mountain
 1 Kumano Faces Kakkazan
 2 Kumano Faces Kakkazan
 18 Snow-Covered Mountain
 19 Snow-Covered Mountain
 20 Snow-Covered Mountain
 1 Kazandu Mammoth
+1 Call of the Death-Dweller
 1 Rotting Regisaur
 1 Blightstep Pathway
 1 Overgrown Tomb
 1 Hive of the Eye Tyrant
-1 Call of the Death-Dweller
 1 Collected Company
 1 Cragcrown Pathway
 1 Blood Crypt

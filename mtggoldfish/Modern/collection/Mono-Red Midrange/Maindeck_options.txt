@@ -1,29 +1,29 @@
-4 Chandra, Torch of Defiance
+4 Chandra, Dressed to Kill
 1 Pyrite Spellbomb
 2 Pyrite Spellbomb
-11 Mountain
-1 Valakut Awakening
-2 Valakut Awakening
 1 Ensnaring Bridge
-3 Pyrite Spellbomb
 1 Gemstone Caverns
 1 Sunbaked Canyon
-1 Reckless Impulse
-2 Reckless Impulse
-3 Reckless Impulse
-4 Reckless Impulse
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
+1 Valakut Awakening
+2 Valakut Awakening
 2 Ensnaring Bridge
-1 Sokenzan, Crucible of Defiance
 3 Shatterskull Smashing
+1 Reckless Impulse
+2 Reckless Impulse
+3 Reckless Impulse
+4 Reckless Impulse
+1 Sokenzan, Crucible of Defiance
+3 Pyrite Spellbomb
+11 Mountain
+4 Shatterskull Smashing
 1 Light Up the Stage
 2 Light Up the Stage
 3 Light Up the Stage
 4 Light Up the Stage
-4 Shatterskull Smashing
 1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
@@ -34,6 +34,8 @@
 3 Experimental Synthesizer
 4 Pyrite Spellbomb
 4 Experimental Synthesizer
+3 Valakut Awakening
+4 Valakut Awakening
 1 Hammer of Bogardan
 2 Hammer of Bogardan
 3 Hammer of Bogardan
@@ -47,8 +49,6 @@
 12 Mountain
 1 Chandra's Regulator
 3 Light Up the Night
-3 Valakut Awakening
-4 Valakut Awakening
 1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
@@ -94,6 +94,7 @@
 1 Pithing Needle
 1 Castle Embereth
 1 Shadowspear
+3 Ensnaring Bridge
 3 Gemstone Caverns
 4 Gemstone Caverns
 2 Magus of the Moon
@@ -119,6 +120,15 @@
 2 Field of Ruin
 3 Field of Ruin
 4 Field of Ruin
+1 Dragon's Rage Channeler
+1 Wooded Foothills
+1 Bloodstained Mire
+2 Dragon's Rage Channeler
+2 Soul-Guide Lantern
+3 Dragon's Rage Channeler
+3 Soul-Guide Lantern
+4 Dragon's Rage Channeler
+4 Soul-Guide Lantern
 1 Fable of the Mirror-Breaker
 1 Desperate Ritual
 1 Twinshot Sniper
@@ -129,15 +139,6 @@
 3 Desperate Ritual
 4 Fable of the Mirror-Breaker
 4 Desperate Ritual
-1 Dragon's Rage Channeler
-1 Wooded Foothills
-1 Bloodstained Mire
-2 Dragon's Rage Channeler
-2 Soul-Guide Lantern
-3 Dragon's Rage Channeler
-3 Soul-Guide Lantern
-4 Dragon's Rage Channeler
-4 Soul-Guide Lantern
 1 Unholy Heat
 1 Cleansing Wildfire
 1 Chandra, Acolyte of Flame
@@ -159,9 +160,17 @@
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
 2 Scavenger Grounds
-3 Ensnaring Bridge
 3 Goblin Rabblemaster
 4 Goblin Rabblemaster
+1 Ratchet Bomb
+1 Zhalfirin Void
+2 Ratchet Bomb
+2 Zhalfirin Void
+3 Ratchet Bomb
+3 Zhalfirin Void
+4 Ratchet Bomb
+4 Ensnaring Bridge
+4 Zhalfirin Void
 1 Cavern of Souls
 1 Moonveil Regent
 1 Obsidian Charmaw

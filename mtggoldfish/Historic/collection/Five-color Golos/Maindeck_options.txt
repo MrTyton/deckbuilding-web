@@ -128,8 +128,8 @@
 2 Gruul Guildgate
 2 Circuitous Route
 2 Izzet Guildgate
-3 Growth Spiral
 3 Explore
+3 Growth Spiral
 3 Circuitous Route
 3 Guild Summit
 3 Gates Ablaze
@@ -154,8 +154,8 @@
 3 Assassin's Trophy
 3 Simic Guildgate
 4 Elvish Rejuvenator
-4 Plaza of Harmony
 4 Arboreal Grazer
+4 Plaza of Harmony
 1 Indatha Triome
 2 Indatha Triome
 3 Indatha Triome
@@ -179,16 +179,16 @@
 2 Riverglide Pathway
 2 Mountain
 2 Steam Vents
-3 Steam Vents
 3 Riverglide Pathway
+3 Steam Vents
 4 Riverglide Pathway
 4 Steam Vents
 1 Mizzix's Mastery
+1 Serra's Emissary
 1 Stormcarved Coast
 1 Otherworldly Gaze
 1 Faithless Looting
 1 Spirebluff Canal
-1 Serra's Emissary
 1 Craterhoof Behemoth
 1 Terror of Mount Velus
 1 Faithless Salvaging
@@ -198,11 +198,11 @@
 1 Spikefield Hazard
 2 Stormcarved Coast
 2 Mizzix's Mastery
+2 Serra's Emissary
 2 Otherworldly Gaze
 2 Craterhoof Behemoth
 2 Faithless Looting
 2 Spirebluff Canal
-2 Serra's Emissary
 2 Terror of Mount Velus
 2 Arclight Phoenix
 2 Rise of the Dark Realms
@@ -265,16 +265,16 @@
 1 The Great Henge
 1 Temple of Malady
 1 Paradise Druid
-1 Lotus Cobra
 1 Vineglimmer Snarl
-1 Season of Growth
-1 Gilded Goose
 1 Darkbore Pathway
+1 Lotus Cobra
+1 Season of Growth
 1 Vivien, Champion of the Wilds
-1 Vivien Reid
 1 Tamiyo, Collector of Tales
 1 Scute Swarm
+1 Vivien Reid
 1 Nissa, Who Shakes the World
+1 Gilded Goose
 1 Castle Vantress
 1 Castle Locthwain
 1 Dirge Bat
@@ -288,12 +288,12 @@
 1 Nethroi, Apex of Death
 1 Pouncing Shoreshark
 1 Insatiable Hemophage
+2 Darkbore Pathway
 2 Gemrazer
 2 Paradise Druid
-2 Lotus Cobra
 2 Season of Growth
+2 Lotus Cobra
 2 Gilded Goose
-2 Darkbore Pathway
 2 Insatiable Hemophage
 2 Boneyard Lurker
 2 Auspicious Starrix
@@ -305,13 +305,13 @@
 2 Swamp
 2 Fabled Passage
 3 Gemrazer
+3 Swamp
 3 Paradise Druid
 3 Lotus Cobra
-3 Gilded Goose
-3 Swamp
 3 Boneyard Lurker
 3 Insatiable Hemophage
 3 Fabled Passage
+3 Gilded Goose
 3 Auspicious Starrix
 3 Pollywog Symbiote
 3 Migratory Greathorn
@@ -326,8 +326,8 @@
 1 Omniscience
 2 The World Tree
 1 Hour of Promise
-1 Fae of Wishes
 1 Relic of Progenitus
+1 Fae of Wishes
 1 Omen of the Hunt
 1 Cultivate
 1 Mirari's Wake
@@ -335,10 +335,10 @@
 1 Wolfwillow Haven
 1 Hashep Oasis
 1 Shefet Dunes
+2 Fae of Wishes
 2 Hashep Oasis
 2 Hour of Promise
 2 Hydroid Krasis
-2 Fae of Wishes
 2 Relic of Progenitus
 2 Mirari's Wake
 2 Cultivate
@@ -348,38 +348,37 @@
 2 Omniscience
 3 Hour of Promise
 3 Hashep Oasis
-3 Hydroid Krasis
 3 Shefet Dunes
 3 The World Tree
 3 Cultivate
 3 Mirari's Wake
+3 Hydroid Krasis
 3 Wolfwillow Haven
 4 Hour of Promise
-4 Hydroid Krasis
 4 The World Tree
 4 Cultivate
-1 Key to the Archive
+4 Hydroid Krasis
 1 Introduction to Prophecy
-1 Mascot Exhibition
 1 Conqueror's Galleon
+1 Mascot Exhibition
 1 Reckoner Bankbuster
 1 Ominous Traveler
 1 Spire of Industry
 1 Mech Hangar
-2 Key to the Archive
+1 Key to the Archive
+2 Mech Hangar
 2 Introduction to Prophecy
 2 Reckoner Bankbuster
 2 Conqueror's Galleon
+2 Key to the Archive
 2 Spire of Industry
-2 Mech Hangar
 2 Ominous Traveler
-3 Key to the Archive
 3 Mech Hangar
+3 Key to the Archive
 4 Key to the Archive
 1 Magma Opus
 1 Throes of Chaos
 1 Cragcrown Pathway
-1 Phyrexian Tower
 1 Treasure Vault
 1 Elesh Norn, Grand Cenobite
 1 Tibalt's Trickery
@@ -390,14 +389,15 @@
 1 Emergence Zone
 1 Scholar of the Lost Trove
 1 Mirrodin's Core
+1 Phyrexian Tower
 1 Blood Crypt
 2 Magma Opus
 2 Cragcrown Pathway
-2 Phyrexian Tower
 2 Tibalt's Trickery
 2 Chandra, Awakened Inferno
 2 Blood Crypt
 2 Mirrodin's Core
+2 Phyrexian Tower
 2 Throes of Chaos
 2 Treasure Vault
 2 Khalni Garden

@@ -1,20 +1,21 @@
 2 Memory Deluge
-1 Otawara, Soaring City
-1 March of Otherworldly Light
-1 Shark Typhoon
+1 Hall of Storm Giants
+2 Mystic Gate
 3 Spreading Seas
 2 March of Otherworldly Light
-1 Cryptic Command
-2 Raugrin Triome
 1 Snapcaster Mage
 2 Snapcaster Mage
+1 Cryptic Command
 2 Steam Vents
+1 Shark Typhoon
+3 Snapcaster Mage
 2 Cryptic Command
-3 Cryptic Command
 2 Shark Typhoon
+3 Cryptic Command
+2 Raugrin Triome
 1 Spirebluff Canal
-1 Sacred Foundry
 2 Spirebluff Canal
+1 Sacred Foundry
 1 Seachrome Coast
 1 Flagstones of Trokair
 1 Valakut Awakening
@@ -27,16 +28,15 @@
 2 Lotus Field
 2 Fury
 3 Teferi, Hero of Dominaria
+3 Flagstones of Trokair
 3 Valakut Awakening
 3 Lotus Field
-3 Flagstones of Trokair
 3 Blood Sun
 3 Spirebluff Canal
+4 Flagstones of Trokair
 4 Lotus Field
 4 Cryptic Command
-4 Flagstones of Trokair
 4 Blood Sun
-3 Snapcaster Mage
 3 Memory Deluge
 3 Fury
 4 Fury
@@ -44,35 +44,39 @@
 4 Valakut Awakening
 4 Teferi, Hero of Dominaria
 3 March of Otherworldly Light
-3 Fire/Ice
 1 Misty Rainforest
 4 Memory Deluge
-1 Polluted Delta
-2 Polluted Delta
-4 Fire/Ice
-1 Eiganjo, Seat of the Empire
-3 Shark Typhoon
-1 The Wandering Emperor
-2 The Wandering Emperor
-2 Misty Rainforest
+3 Fire/Ice
 1 Lightning Bolt
 2 Lightning Bolt
 3 Lightning Bolt
 4 Snapcaster Mage
+1 Polluted Delta
+2 Polluted Delta
+3 Shark Typhoon
+2 Misty Rainforest
+1 Eiganjo, Seat of the Empire
+1 The Wandering Emperor
+2 The Wandering Emperor
+1 Spell Pierce
+4 Lightning Bolt
 3 Polluted Delta
-4 March of Otherworldly Light
 5 Island
 6 Island
-1 Spell Pierce
 1 Consider
 1 Engineered Explosives
 2 Consider
 3 Consider
+4 March of Otherworldly Light
 1 Force of Negation
-1 Breeding Pool
-1 Glacial Fortress
+4 Fire/Ice
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
+4 Ragavan, Nimble Pilferer
 1 Snow-Covered Island
-4 Lightning Bolt
+1 Glacial Fortress
+1 Breeding Pool
 7 Island
 1 Expressive Iteration
 1 Unholy Heat
@@ -82,11 +86,6 @@
 1 Blood Moon
 2 Blood Moon
 4 Consider
-3 Mystic Gate
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
-4 Ragavan, Nimble Pilferer
 3 Dress Down
 2 Snow-Covered Island
 3 Snow-Covered Island
@@ -96,6 +95,12 @@
 3 Blood Moon
 8 Island
 3 Chalice of the Void
+1 Opt
+2 Opt
+3 Opt
+4 Opt
+1 Brazen Borrower
+2 Brazen Borrower
 1 Arid Mesa
 2 Arid Mesa
 1 Path to Exile
@@ -106,63 +111,52 @@
 1 Flusterstorm
 2 Snow-Covered Plains
 2 Flusterstorm
-4 Spreading Seas
+3 Mystic Gate
 4 Mystic Gate
+4 Spreading Seas
 1 Mountain
 1 Charming Prince
 1 Remand
 1 Nahiri, the Harbinger
 1 Ghost Quarter
 1 Detention Sphere
+1 Lightning Helix
 1 Goblin Cratermaker
 1 Keranos, God of Storms
 1 Day of Judgment
 1 Ajani Vengeant
 1 Ojutai's Command
-1 Lightning Helix
 1 Omen of the Sea
 2 Goblin Cratermaker
+2 Ghost Quarter
 2 Charming Prince
 2 Remand
 2 Omen of the Sea
 2 Sacred Foundry
-2 Ghost Quarter
 2 Ojutai's Command
 2 Lightning Helix
 3 Lightning Helix
-3 Remand
 3 Plains
 3 Arid Mesa
 3 Goblin Cratermaker
+3 Remand
 3 Omen of the Sea
-4 Remand
 4 Arid Mesa
+4 Remand
 1 Watery Grave
 1 Surgical Extraction
+1 Spell Snare
 1 Ketria Triome
+2 Spell Pierce
 3 Steam Vents
-1 Prairie Stream
 1 Field of Ruin
 1 Castle Ardenvale
 1 Windswept Heath
+1 Prairie Stream
 2 Jace, the Mind Sculptor
 2 Windswept Heath
 2 Prairie Stream
 3 Windswept Heath
-1 Opt
-1 Spell Snare
-2 Opt
-3 Opt
-4 Opt
-1 Prismatic Vista
-1 Day's Undoing
-1 Narset, Parter of Veils
-2 Prismatic Vista
-2 Day's Undoing
-2 Narset, Parter of Veils
-3 Prismatic Vista
-3 Narset, Parter of Veils
-4 Prismatic Vista
 3 Hallowed Fountain
 4 Hallowed Fountain
 1 Thing in the Ice
@@ -176,19 +170,26 @@
 4 Dress Down
 4 Expressive Iteration
 4 Thing in the Ice
+1 Prismatic Vista
+1 Narset, Parter of Veils
+1 Day's Undoing
+2 Prismatic Vista
+2 Narset, Parter of Veils
+2 Day's Undoing
+3 Prismatic Vista
+3 Narset, Parter of Veils
+4 Prismatic Vista
 1 Nexus of Fate
 2 Force of Negation
 3 Force of Negation
 4 Spirebluff Canal
 1 Sulfur Falls
 1 Chandra, Awakened Inferno
-1 Brazen Borrower
 1 Prismari Command
 1 Dead/Gone
 2 Hall of Storm Giants
 2 Prismari Command
 2 Dead/Gone
-2 Brazen Borrower
 3 Misty Rainforest
 5 Snow-Covered Island
 4 Shark Typhoon

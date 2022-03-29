@@ -1,9 +1,8 @@
 5 Island
 1 Misty Rainforest
 1 Murderous Cut
-1 Soul-Guide Lantern
-1 Snow-Covered Island
 1 Snow-Covered Swamp
+1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
@@ -11,51 +10,53 @@
 1 Otawara, Soaring City
 1 Scalding Tarn
 1 Counterspell
-2 Soul-Guide Lantern
 2 Snow-Covered Swamp
+1 Soul-Guide Lantern
+3 Flooded Strand
 1 Plains
 1 Prismatic Ending
 2 Prismatic Ending
 3 Prismatic Ending
-3 Soul-Guide Lantern
-4 Soul-Guide Lantern
 1 Remand
 1 Hallowed Fountain
-3 Flooded Strand
 4 Prismatic Ending
+2 Soul-Guide Lantern
 1 Scavenger Grounds
 1 Fabled Passage
+1 Mesmeric Orb
 1 Maddening Cacophony
 2 Remand
 3 Remand
 2 Hallowed Fountain
 4 Flooded Strand
 2 Counterspell
+3 Soul-Guide Lantern
+4 Soul-Guide Lantern
 1 Search for Azcanta
 2 Maddening Cacophony
 3 Maddening Cacophony
-1 Mesmeric Orb
 2 Scalding Tarn
+1 Mission Briefing
 1 Portable Hole
 4 Remand
 1 Repeal
 1 Into the Story
 1 Mikokoro, Center of the Sea
 3 Misty Rainforest
+2 Shelldock Isle
 1 Prismatic Vista
 2 Prismatic Vista
 3 Prismatic Vista
-1 Mission Briefing
+2 Mesmeric Orb
+2 Mission Briefing
 1 Damnation
 1 Echoing Truth
 1 Snapcaster Mage
-2 Mesmeric Orb
-2 Shelldock Isle
 3 Darkslick Shores
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
 3 Counterspell
-2 Mission Briefing
+1 Spell Pierce
 6 Island
 1 Godless Shrine
 1 Zagoth Triome
@@ -70,20 +71,12 @@
 1 Unmoored Ego
 2 Unmoored Ego
 2 Otawara, Soaring City
-1 Consider
-2 Consider
-4 Misty Rainforest
-1 Thought Scour
-1 Stream of Thought
-2 Thought Scour
-2 Stream of Thought
-3 Swamp
-3 Thought Scour
-4 Thought Scour
+2 Spell Pierce
+3 Mesmeric Orb
+3 Shelldock Isle
 1 Opt
 1 Serum Visions
 1 Path to Exile
-1 Spell Pierce
 1 Teferi, Time Raveler
 1 Dovin's Veto
 2 Serum Visions
@@ -91,6 +84,16 @@
 3 Hallowed Fountain
 3 Serum Visions
 4 Serum Visions
+1 Thought Scour
+1 Stream of Thought
+2 Thought Scour
+2 Stream of Thought
+3 Swamp
+3 Thought Scour
+4 Thought Scour
+1 Consider
+2 Consider
+4 Misty Rainforest
 4 Surgical Extraction
 4 Prismatic Vista
 4 Counterspell
@@ -104,10 +107,10 @@
 1 Trapmaker's Snare
 1 Whiplash Trap
 2 Test of Talents
+2 Into the Roil
 2 Castle Vantress
 2 Trapmaker's Snare
 2 Whiplash Trap
-2 Into the Roil
 3 Trapmaker's Snare
 3 Mission Briefing
 4 Trapmaker's Snare

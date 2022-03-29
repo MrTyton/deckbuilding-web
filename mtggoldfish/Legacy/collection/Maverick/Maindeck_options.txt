@@ -11,15 +11,15 @@
 3 Endurance
 1 Island
 1 Valakut, the Molten Pinnacle
+1 Yavimaya, Cradle of Growth
 1 Vesuva
 1 Elvish Reclaimer
 1 Sylvan Safekeeper
-1 Glacial Chasm
 1 Crop Rotation
 1 Bojuka Bog
+1 Glacial Chasm
 1 Drownyard Temple
 1 Cephalid Coliseum
-1 Yavimaya, Cradle of Growth
 1 Gretchen Titchwillow
 1 Slogurk, the Overslime
 1 Dryad of the Ilysian Grove
@@ -28,17 +28,17 @@
 2 Elvish Reclaimer
 2 Crop Rotation
 2 Vesuva
-3 Crop Rotation
 3 Elvish Reclaimer
-4 Once Upon a Time
+3 Crop Rotation
 4 Elvish Reclaimer
+4 Once Upon a Time
 4 Crop Rotation
 2 Birds of Paradise
 4 Endurance
 4 Mother of Runes
 4 Thalia, Guardian of Thraben
-1 Dark Depths
 1 Thespian's Stage
+1 Dark Depths
 2 Boseiju, Who Endures
 3 Boseiju, Who Endures
 1 Umezawa's Jitte
@@ -63,8 +63,8 @@
 1 Kaldra Compleat
 1 Gaddock Teeg
 1 Sword of Fire and Ice
-1 Abrupt Decay
 1 Tireless Tracker
+1 Abrupt Decay
 1 Plague Engineer
 2 Abrupt Decay
 1 Qasali Pridemage
@@ -91,13 +91,13 @@
 1 Baneslayer Angel
 2 Hullbreacher
 3 Hullbreacher
-4 Prismatic Ending
 4 Verdant Catacombs
+4 Prismatic Ending
 1 Wooded Foothills
 1 Urza's Saga
 1 Pyrite Spellbomb
-1 Plateau
 1 Grove of the Burnwillows
+1 Plateau
 1 Soul-Guide Lantern
 1 Punishing Fire
 1 Shadowspear
@@ -119,10 +119,10 @@
 1 Ponder
 1 Natural Order
 1 Archon of Valor's Reach
-2 Tundra
 2 Ponder
 2 Natural Order
 2 Brainstorm
+2 Tundra
 3 Brainstorm
 3 Ponder
 3 Natural Order

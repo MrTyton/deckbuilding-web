@@ -1,9 +1,11 @@
-2 Wrenn and Six
+1 Plains
 1 Teferi, Time Raveler
+2 Wrenn and Six
+1 Savai Triome
+2 Teferi, Time Raveler
 1 Ignoble Hierarch
 2 Ignoble Hierarch
-2 Teferi, Time Raveler
-1 Plains
+3 Bloodstained Mire
 3 Arid Mesa
 4 Arid Mesa
 3 Teferi, Time Raveler
@@ -33,9 +35,7 @@
 2 Faithful Mending
 3 Faithful Mending
 4 Faithful Mending
-1 Verdant Catacombs
 2 Flooded Strand
-2 Steam Vents
 1 Solitude
 2 Solitude
 3 Wrenn and Six
@@ -44,20 +44,20 @@
 4 Chalice of the Void
 2 Fury
 3 Flooded Strand
-3 Bloodstained Mire
-2 Sacred Foundry
 3 Solitude
 4 Solitude
-4 Mantis Rider
+2 Steam Vents
 3 Ignoble Hierarch
+2 Sacred Foundry
 3 Windswept Heath
 4 Windswept Heath
-2 Mountain
 4 Bloodstained Mire
 4 Ignoble Hierarch
-4 Flooded Strand
+4 Mantis Rider
 1 Klothys, God of Destiny
+4 Flooded Strand
 2 Verdant Catacombs
+2 Mountain
 1 Noble Hierarch
 1 Reflector Mage
 2 Reflector Mage
@@ -67,6 +67,9 @@
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 2 Misty Rainforest
+1 Hidetsugu Consumes All
+2 Hidetsugu Consumes All
+3 Hidetsugu Consumes All
 2 Noble Hierarch
 1 Horizon Canopy
 1 Qasali Ambusher
@@ -75,21 +78,21 @@
 3 Steam Vents
 3 Misty Rainforest
 1 Utopia Sprawl
-1 Valki, God of Lies
+1 Rip Apart
 1 Bring to Light
+1 Valki, God of Lies
 1 Niv-Mizzet Reborn
 1 Sylvan Caryatid
-1 Rip Apart
 1 Fiery Justice
 2 Utopia Sprawl
 2 Bring to Light
-2 Sylvan Caryatid
 2 Fiery Justice
+2 Sylvan Caryatid
 2 Niv-Mizzet Reborn
 3 Utopia Sprawl
 3 Bring to Light
-3 Sylvan Caryatid
 3 Fiery Justice
+3 Sylvan Caryatid
 4 Utopia Sprawl
 4 Bring to Light
 4 Sylvan Caryatid
@@ -111,10 +114,6 @@
 2 Wandering Mind
 3 Wandering Mind
 3 Verdant Catacombs
-1 Hidetsugu Consumes All
-2 Hidetsugu Consumes All
-3 Hidetsugu Consumes All
-4 Omnath, Locus of Creation
 1 Batterskull
 1 Sword of Fire and Ice
 1 Stoneforge Mystic
@@ -122,6 +121,7 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+4 Omnath, Locus of Creation
 1 Polluted Delta
 1 Kroxa, Titan of Death's Hunger
 1 Far/Away

@@ -47,21 +47,21 @@
 3 Castle Locthwain
 1 Ravenous Squirrel
 2 Ravenous Squirrel
-1 Grist, the Hunger Tide
 1 Serra's Emissary
-1 Blood Crypt
 1 Bloodghast
 2 Bloodghast
 3 Bloodghast
 1 Bloodstained Mire
-1 Mountain
-1 Stomping Ground
-1 Wooded Foothills
+1 Grist, the Hunger Tide
 1 Nettlecyst
+1 Blood Crypt
 1 Thought Monitor
 2 Thought Monitor
 1 Misty Rainforest
+1 Mountain
 1 Mishra's Bauble
+1 Stomping Ground
+1 Wooded Foothills
 1 Life from the Loam
 1 Willow Geist
 2 Bloodstained Mire
@@ -80,49 +80,32 @@
 3 Thoughtseize
 2 Misty Rainforest
 1 Korvold, Fae-Cursed King
-2 Grist, the Hunger Tide
-3 Grist, the Hunger Tide
-1 Wrenn and Six
 2 Mishra's Bauble
 3 Mishra's Bauble
 1 Steam Vents
 1 Scalding Tarn
 3 Thought Monitor
 4 Thought Monitor
-1 Aether Spellbomb
 1 Emry, Lurker of the Loch
-1 Expedition Map
 1 Spirebluff Canal
+1 Aether Spellbomb
+1 Expedition Map
 2 Spirebluff Canal
 2 Emry, Lurker of the Loch
 3 Emry, Lurker of the Loch
 3 Spirebluff Canal
 3 Metallic Rebuke
-4 Mishra's Bauble
 4 Emry, Lurker of the Loch
+4 Mishra's Bauble
 4 Spirebluff Canal
+3 Godless Shrine
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 2 Stomping Ground
-1 Copperline Gorge
-1 Lightning Bolt
-2 Wooded Foothills
-2 Copperline Gorge
-2 Lightning Bolt
-3 Wooded Foothills
-3 Copperline Gorge
-3 Lightning Bolt
-4 Wooded Foothills
-3 Godless Shrine
 3 Swamp
 1 Springleaf Drum
-1 Sacred Foundry
-1 Arid Mesa
-1 Plains
-2 Sacred Foundry
-2 Arid Mesa
-1 Concealed Courtyard
 1 Unearth
+1 Concealed Courtyard
 1 Greasefang, Okiba Boss
 1 Parhelion II
 2 Unearth
@@ -133,11 +116,17 @@
 3 Parhelion II
 3 Greasefang, Okiba Boss
 4 Greasefang, Okiba Boss
+1 Arid Mesa
+1 Sacred Foundry
+1 Plains
+2 Sacred Foundry
+2 Arid Mesa
+1 Ketria Triome
+1 Boseiju, Who Endures
+1 Wrenn and Six
 1 Zagoth Triome
 1 Chalice of the Void
-1 Boseiju, Who Endures
 1 Vraska, Golgari Queen
-1 Ketria Triome
 2 Silent Clearing
 1 Abrupt Decay
 2 Abrupt Decay
@@ -153,29 +142,16 @@
 3 Fatal Push
 1 Endurance
 1 Breeding Pool
+2 Grist, the Hunger Tide
 2 Endurance
 3 Misty Rainforest
+3 Grist, the Hunger Tide
 3 Nettlecyst
-1 Spire of Industry
-1 Silverbluff Bridge
-1 Galvanic Blast
-1 Darksteel Citadel
-2 Silverbluff Bridge
-2 Spire of Industry
-2 Galvanic Blast
-2 Darksteel Citadel
-3 Silverbluff Bridge
-3 Darksteel Citadel
-3 Galvanic Blast
-4 Darksteel Citadel
-4 Silverbluff Bridge
-4 Galvanic Blast
-4 Metallic Rebuke
+1 Inspiring Vantage
 1 Goblin Engineer
 1 Takenuma, Abandoned Mire
 1 Voldaren Epicure
 1 Skysovereign, Consul Flagship
-1 Inspiring Vantage
 1 Smuggler's Copter
 1 Polluted Delta
 2 Blood Crypt
@@ -187,31 +163,46 @@
 3 Voldaren Epicure
 4 Goblin Engineer
 4 Voldaren Epicure
+1 Lightning Bolt
+1 Copperline Gorge
 1 Unholy Heat
 1 Prismatic Ending
 1 Dragon's Rage Channeler
 1 Tarmogoyf
+2 Wooded Foothills
+2 Lightning Bolt
 2 Unholy Heat
 2 Mountain
+2 Copperline Gorge
 2 Tarmogoyf
 2 Dragon's Rage Channeler
 2 Prismatic Ending
+3 Ragavan, Nimble Pilferer
+3 Wooded Foothills
+3 Lightning Bolt
 3 Unholy Heat
+3 Copperline Gorge
 3 Prismatic Ending
 3 Tarmogoyf
-3 Ragavan, Nimble Pilferer
 3 Dragon's Rage Channeler
+4 Wooded Foothills
 4 Dragon's Rage Channeler
 4 Tarmogoyf
-1 Ignoble Hierarch
-1 Seasoned Pyromancer
-2 Wrenn and Six
-2 Seasoned Pyromancer
-3 Wrenn and Six
-3 Seasoned Pyromancer
-4 Grist, the Hunger Tide
-4 Seasoned Pyromancer
-4 Lightning Bolt
+1 Spire of Industry
+1 Silverbluff Bridge
+1 Galvanic Blast
+1 Darksteel Citadel
+2 Silverbluff Bridge
+2 Spire of Industry
+2 Galvanic Blast
+2 Darksteel Citadel
+3 Darksteel Citadel
+3 Silverbluff Bridge
+3 Galvanic Blast
+4 Darksteel Citadel
+4 Silverbluff Bridge
+4 Metallic Rebuke
+4 Galvanic Blast
 4 Willow Geist
 4 Ravenous Squirrel
 1 Windswept Heath
@@ -226,8 +217,8 @@
 1 Pyrite Spellbomb
 2 Scalding Tarn
 2 Fiery Islet
-2 Steam Vents
 2 Engineered Explosives
+2 Steam Vents
 3 Scalding Tarn
 4 Scalding Tarn
 4 Feasting Troll King
@@ -236,8 +227,8 @@
 4 Swamp
 5 Swamp
 6 Snow-Covered Swamp
-1 Stitcher's Supplier
 1 Temple Garden
+1 Stitcher's Supplier
 1 Undead Butler
 1 Can't Stay Away
 1 Deadly Dispute
