@@ -13,10 +13,10 @@
 1 Yorion, Sky Nomad
 1 Destiny Spinner
 2 Destiny Spinner
-1 Kaervek, the Spiteful
 1 Knight of Autumn
 1 Linvala, Keeper of Silence
 1 Leyline of the Void
+1 Kaervek, the Spiteful
 2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
@@ -44,23 +44,13 @@
 1 Pithing Needle
 2 Golos, Tireless Pilgrim
 3 Golos, Tireless Pilgrim
+1 Svyelun of Sea and Sky
 1 Pact of Negation
 1 Brazen Borrower
-1 Svyelun of Sea and Sky
 2 Svyelun of Sea and Sky
 3 Destiny Spinner
 1 Storm's Wrath
 1 Necromentia
-1 Soul-Guide Lantern
-1 Test of Talents
-1 Saw It Coming
-1 Languish
-1 Scute Swarm
-1 Extinction Event
-1 Ashiok, Dream Render
-1 Toski, Bearer of Secrets
-2 Saw It Coming
-2 Test of Talents
 1 Inquisition of Kozilek
 1 Bloodchief's Thirst
 1 Return to Nature
@@ -71,15 +61,25 @@
 1 Flame-Blessed Bolt
 2 Flame-Blessed Bolt
 2 Pithing Needle
-1 Anger of the Gods
-1 Dual Shot
-2 Brazen Borrower
-2 Pact of Negation
-2 Anger of the Gods
-2 Dual Shot
+1 Soul-Guide Lantern
+1 Test of Talents
+1 Scute Swarm
+1 Extinction Event
+1 Ashiok, Dream Render
+1 Toski, Bearer of Secrets
+1 Languish
+1 Saw It Coming
+2 Test of Talents
+2 Saw It Coming
 1 Gleaming Barrier
 1 God-Pharaoh's Gift
 2 Gleaming Barrier
+1 Anger of the Gods
+1 Dual Shot
+2 Anger of the Gods
+2 Dual Shot
+2 Brazen Borrower
+2 Pact of Negation
 1 Commence the Endgame
 1 Farewell
 1 Entrancing Melody
@@ -92,19 +92,19 @@
 1 The Immortal Sun
 1 Jace, Wielder of Mysteries
 1 Sea Gate Restoration
-1 Alrund's Epiphany
 1 Ashiok's Erasure
 1 Overwhelming Splendor
 1 Gaea's Blessing
+1 Alrund's Epiphany
 1 Ruinous Ultimatum
 1 Thousand-Year Storm
 1 Inspired Ultimatum
 1 Fall of the Thran
 2 Inspired Ultimatum
 2 Ruinous Ultimatum
-1 Leyline of Sanctity
 1 Rest in Peace
 1 Rule of Law
+1 Leyline of Sanctity
 1 Wrath of God
 1 The Meathook Massacre
 2 Wrath of God
@@ -127,8 +127,8 @@
 1 Chandra, Torch of Defiance
 1 Nezahal, Primal Tide
 2 Chandra, Torch of Defiance
-2 Shark Typhoon
 2 Commence the Endgame
+2 Shark Typhoon
 2 Massacre Girl
 3 Chandra, Torch of Defiance
 4 Chandra, Torch of Defiance
