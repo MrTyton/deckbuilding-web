@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                             |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|------------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    3|[Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129808)               |                    1|[Day of Judgment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439344)|
-|                    4|[March of Otherworldly Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548321)|                    1|[Fateful Absence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534774)|
+|                    3|[Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129808)               |                    1|[Fateful Absence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534774)|
+|                    4|[March of Otherworldly Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548321)|                    1|[Day of Judgment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439344)|
 |                    2|[Day of Judgment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439344)            |                     |                                                                                          |
 |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)           |                     |                                                                                          |
 |                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                     |                     |                                                                                          |

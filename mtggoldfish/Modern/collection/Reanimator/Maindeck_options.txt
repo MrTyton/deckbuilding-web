@@ -1,15 +1,15 @@
+4 Solitude
 2 Mulldrifter
+4 Polluted Delta
 4 Thoughtseize
 1 Serra's Emissary
 2 Hallowed Fountain
-4 Polluted Delta
-4 Solitude
 4 Prismatic Ending
 3 Mulldrifter
 1 Priest of Fell Rites
 1 Urborg, Tomb of Yawgmoth
-3 Godless Shrine
 2 Swamp
+3 Godless Shrine
 1 Glacial Fortress
 1 March of Otherworldly Light
 1 Overgrown Tomb
@@ -33,26 +33,23 @@
 1 Bloodstained Mire
 2 Bloodstained Mire
 2 March of Otherworldly Light
-1 Bone Shards
-2 Bone Shards
-1 Arid Mesa
 1 Savai Triome
 3 Priest of Fell Rites
 1 Blood Crypt
-1 Drowned Catacomb
 1 Fatal Push
 2 Fatal Push
-2 Arid Mesa
 3 Fetid Heath
 4 Concealed Courtyard
 1 Seachrome Coast
 1 Isolated Chapel
 1 Otawara, Soaring City
+1 Darkblast
 1 Prismari Command
 1 Steam Vents
 1 Raugrin Triome
 2 Prismari Command
 1 Sacred Foundry
+1 Arid Mesa
 1 Ketria Triome
 1 Stomping Ground
 1 Indomitable Creativity
@@ -71,31 +68,33 @@
 3 Dwarven Mine
 3 Indomitable Creativity
 3 Scalding Tarn
+4 Teferi, Time Raveler
 4 Prismari Command
 4 Indomitable Creativity
-4 Teferi, Time Raveler
 4 Wrenn and Six
 4 Scalding Tarn
+2 Unburial Rites
 3 Bloodstained Mire
 4 Bloodstained Mire
-2 Unburial Rites
+2 Arid Mesa
+1 Bone Shards
+2 Bone Shards
 3 Swamp
 1 Kaito Shizuki
 1 Thirst for Discovery
-1 Sunken Ruins
+1 Drowned Catacomb
 1 Glasspool Mimic
+1 Sunken Ruins
 1 Gifts Ungiven
 1 Mystic Gate
 1 River of Tears
+2 Plains
 1 Snow-Covered Mountain
 1 Lightning Bolt
 1 Snow-Covered Swamp
 1 Hard Evidence
 2 Lightning Bolt
 2 Hard Evidence
-2 Plains
-1 Verdant Catacombs
-2 Verdant Catacombs
 2 Seachrome Coast
 2 Isolated Chapel
 1 Damn
@@ -104,7 +103,6 @@
 1 Malakir Rebirth
 3 March of Otherworldly Light
 1 Expressive Iteration
-1 Darkblast
 2 Expressive Iteration
 3 Expressive Iteration
 1 Snapcaster Mage
@@ -120,18 +118,17 @@
 3 Hallowed Fountain
 3 Silence
 3 Drown in the Loch
-4 Liliana of the Veil
 1 Consider
 2 Consider
 3 Consider
 4 Consider
-1 Kroxa, Titan of Death's Hunger
 1 Castle Locthwain
 1 Giver of Runes
 1 Mountain
 1 Iona, Shield of Emeria
 1 Vindicate
 1 Kolaghan's Command
+1 Kroxa, Titan of Death's Hunger
 1 Cavern of Souls
 1 Cathartic Reunion
 1 Seasoned Pyromancer
@@ -140,8 +137,8 @@
 2 Vindicate
 2 Seasoned Pyromancer
 2 Cathartic Reunion
-2 Cavern of Souls
 2 Blood Crypt
+2 Cavern of Souls
 3 Cathartic Reunion
 3 Blood Crypt
 3 Inquisition of Kozilek
@@ -171,3 +168,4 @@
 3 Arid Mesa
 4 Arid Mesa
 4 Dwarven Mine
+4 Liliana of the Veil
