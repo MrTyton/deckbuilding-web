@@ -1,4 +1,4 @@
-1 Plains
+3 Cordial Vampire
 1 Bloodvial Purveyor
 1 Legion's Landing
 1 Concealed Courtyard
@@ -22,16 +22,20 @@
 14 Swamp
 15 Swamp
 16 Swamp
+1 Welcoming Vampire
+2 Welcoming Vampire
+2 Sorin the Mirthless
 3 Murderous Rider
+1 Blood Crypt
+1 Isolated Chapel
+2 Isolated Chapel
+3 Isolated Chapel
 1 Crawling Barrens
 1 Go Blank
 1 Crippling Fear
 1 Mobilized District
-2 Sorin the Mirthless
 2 Crawling Barrens
 2 Shattered Sanctum
-1 Welcoming Vampire
-2 Welcoming Vampire
 3 Bloodvial Purveyor
 1 Valentin, Dean of the Vein
 1 Nullpriest of Oblivion
@@ -49,7 +53,6 @@
 1 Haunted Ridge
 1 Immersturm Predator
 1 Infernal Grasp
-1 Blood Crypt
 1 Mountain
 2 Florian, Voldaren Scion
 2 Haunted Ridge
@@ -62,7 +65,6 @@
 3 Blightstep Pathway
 4 Blightstep Pathway
 1 Unclaimed Territory
-1 Isolated Chapel
 1 Sorin, Vengeful Bloodlord
 1 Exquisite Blood
 1 Vito, Thorn of the Dusk Rose
@@ -70,47 +72,23 @@
 1 Sanctum Seeker
 2 Unclaimed Territory
 2 Exquisite Blood
-2 Isolated Chapel
 2 Legion Lieutenant
 2 Sanctum Seeker
 2 Vito, Thorn of the Dusk Rose
 2 Vampire of the Dire Moon
 3 Vampire of the Dire Moon
 3 Legion Lieutenant
-3 Isolated Chapel
-3 Vito, Thorn of the Dusk Rose
 3 Unclaimed Territory
+3 Vito, Thorn of the Dusk Rose
 4 Isolated Chapel
 4 Legion Lieutenant
 4 Vampire of the Dire Moon
-1 Blade of the Oni
-1 Scrapheap Scrounger
-1 Junji, the Midnight Sky
-1 Dread Wanderer
-1 Gutterbones
-1 Skyclave Shade
-1 Phyrexian Obliterator
-1 Inquisition of Kozilek
-2 Blade of the Oni
-2 Scrapheap Scrounger
-2 Gutterbones
-2 Skyclave Shade
-2 Spawn of Mayhem
-2 Dread Wanderer
-3 Spawn of Mayhem
-3 Scrapheap Scrounger
-3 Gutterbones
-3 Dread Wanderer
-3 Skyclave Shade
-4 Spawn of Mayhem
-17 Swamp
-18 Swamp
 1 Faceless Haven
 1 Silversmote Ghoul
+1 Bojuka Bog
 1 Snow-Covered Swamp
 1 Leyline of the Void
 1 Sign in Blood
-1 Bojuka Bog
 2 Silversmote Ghoul
 2 Snow-Covered Swamp
 2 Faceless Haven
@@ -120,6 +98,7 @@
 4 Faceless Haven
 4 Snow-Covered Swamp
 4 Fatal Push
+4 Castle Locthwain
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
@@ -131,4 +110,62 @@
 13 Snow-Covered Swamp
 14 Snow-Covered Swamp
 15 Snow-Covered Swamp
-4 Castle Locthwain
+1 Blade of the Oni
+1 Scrapheap Scrounger
+1 Junji, the Midnight Sky
+1 Skyclave Shade
+1 Phyrexian Obliterator
+1 Inquisition of Kozilek
+1 Dread Wanderer
+1 Gutterbones
+2 Blade of the Oni
+2 Scrapheap Scrounger
+2 Skyclave Shade
+2 Spawn of Mayhem
+2 Dread Wanderer
+2 Gutterbones
+3 Spawn of Mayhem
+3 Scrapheap Scrounger
+3 Dread Wanderer
+3 Skyclave Shade
+3 Gutterbones
+4 Spawn of Mayhem
+17 Swamp
+18 Swamp
+1 Clifftop Retreat
+1 Savai Triome
+1 Orcus, Prince of Undeath
+1 Fable of the Mirror-Breaker
+1 Archon of Emeria
+1 Valki, God of Lies
+1 Skyclave Apparition
+1 Bonecrusher Giant
+1 Chandra, Torch of Defiance
+1 Tainted Adversary
+1 Glint-Sleeve Siphoner
+1 Dragonskull Summit
+1 Lightning Helix
+1 Rahilda, Wanted Cutthroat
+2 Clifftop Retreat
+2 Archon of Emeria
+2 Chandra, Torch of Defiance
+2 Orcus, Prince of Undeath
+2 Fable of the Mirror-Breaker
+2 Blood Crypt
+2 Rahilda, Wanted Cutthroat
+2 Dragonskull Summit
+2 Savai Triome
+2 Glint-Sleeve Siphoner
+2 Lightning Helix
+3 Welcoming Vampire
+3 Dragonskull Summit
+3 Lightning Helix
+3 Glint-Sleeve Siphoner
+3 Blood Crypt
+3 Savai Triome
+4 Welcoming Vampire
+4 Lightning Helix
+4 Dragonskull Summit
+4 Glint-Sleeve Siphoner
+4 Savai Triome
+4 Blood Crypt

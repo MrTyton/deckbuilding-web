@@ -84,8 +84,8 @@
 4 See the Truth
 1 Disfigure
 1 Snow-Covered Island
-1 Snow-Covered Swamp
 1 Snow-Covered Mountain
+1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 4 Fatal Push
 4 Narset, Parter of Veils
@@ -136,43 +136,43 @@
 4 Languish
 1 Ashiok, Dream Render
 2 Ashiok, Dream Render
+1 Negate
+2 Negate
+1 Waste Not
+1 Tinybones, Trinket Thief
+1 Gutmorn, Pactbound Servant
+1 Phyrexian Arena
+1 Tergrid, God of Fright
+1 Hagra Mauling
+1 Path of Peril
+1 Crawling Barrens
+1 Phyrexian Obliterator
+1 Savai Triome
+1 Isolated Chapel
+1 Doom Foretold
+1 Godless Shrine
+2 Waste Not
+2 Phyrexian Arena
+2 Tinybones, Trinket Thief
+2 Gutmorn, Pactbound Servant
+2 Tergrid, God of Fright
+2 Path of Peril
+2 The Meathook Massacre
+2 Godless Shrine
+2 Castle Locthwain
 1 Spirebluff Canal
 1 Exclude
 1 Woe Strider
-2 Exclude
 2 Woe Strider
-1 Negate
-2 Negate
+2 Exclude
 1 Discovery/Dispersal
 1 Spell Pierce
 2 Murderous Rider
 2 Temple of Malice
 2 Angrath's Rampage
-2 Spell Pierce
 2 Ritual of Soot
+2 Spell Pierce
 2 Discovery/Dispersal
-1 Crawling Barrens
-1 Tergrid, God of Fright
-1 Hagra Mauling
-1 Phyrexian Obliterator
-1 Savai Triome
-1 Phyrexian Arena
-1 Gutmorn, Pactbound Servant
-1 Isolated Chapel
-1 Doom Foretold
-1 Path of Peril
-1 Godless Shrine
-1 Waste Not
-1 Tinybones, Trinket Thief
-2 Tergrid, God of Fright
-2 The Meathook Massacre
-2 Path of Peril
-2 Gutmorn, Pactbound Servant
-2 Godless Shrine
-2 Waste Not
-2 Tinybones, Trinket Thief
-2 Castle Locthwain
-2 Phyrexian Arena
 1 Sweltering Suns
 2 Shadows' Verdict
 3 Shadows' Verdict
@@ -185,21 +185,21 @@
 2 Bloodchief's Thirst
 3 Drown in the Loch
 1 Cast Down
-2 Cast Down
 2 Disfigure
+2 Cast Down
 3 Cry of the Carnarium
 3 Extinction Event
+1 Davriel, Rogue Shadowmage
 1 Archmage's Charm
 1 Yawgmoth's Vile Offering
-1 Davriel, Rogue Shadowmage
-2 Ashiok, Nightmare Muse
 2 Yawgmoth's Vile Offering
+2 Ashiok, Nightmare Muse
 2 Atris, Oracle of Half-Truths
 3 Tyrant's Scorn
 1 Dreadhorde Arcanist
 1 Infernal Grasp
-1 Otawara, Soaring City
 1 Hall of Oracles
+1 Otawara, Soaring City
 1 Aether Spellbomb
 1 Mindlink Mech
 2 Unholy Heat
@@ -208,22 +208,22 @@
 3 Unholy Heat
 3 Dreadhorde Arcanist
 4 Dreadhorde Arcanist
-1 Hieroglyphic Illumination
-1 Bontu's Last Reckoning
 1 Cut/Ribbons
+1 Bontu's Last Reckoning
+1 Hieroglyphic Illumination
 2 The Scarab God
 2 Cling to Dust
 4 Censor
 1 Shipwreck Marsh
-1 Lier, Disciple of the Drowned
 1 Riverglide Pathway
-1 Go Blank
 1 Bloodthirsty Adversary
+1 Go Blank
+1 Lier, Disciple of the Drowned
 1 Memory Deluge
 2 Memory Deluge
 2 Shipwreck Marsh
-2 Lier, Disciple of the Drowned
 2 Bloodthirsty Adversary
+2 Lier, Disciple of the Drowned
 3 Shipwreck Marsh
 3 Haunted Ridge
 4 Shipwreck Marsh
@@ -238,14 +238,14 @@
 4 Sinister Sabotage
 4 Grasp of Darkness
 4 Fetid Pools
-1 God-Eternal Kefnet
+1 Shatterskull Smashing
 1 Commence the Endgame
+1 God-Eternal Kefnet
 1 Enter the God-Eternals
 1 Fraying Omnipotence
 1 Torment of Hailfire
 1 Dark Intimations
 1 Tezzeret the Schemer
-1 Shatterskull Smashing
 2 Jwari Disruption
 4 Fabled Passage
 1 Ugin, the Spirit Dragon
@@ -257,38 +257,38 @@
 4 Gifted Aetherborn
 1 Forest
 1 Shambling Ghast
+1 Cragcrown Pathway
 1 Field of Ruin
 1 Storm's Wrath
 1 Thrill of Possibility
 1 Darkbore Pathway
 1 Waking the Trolls
 1 Agonizing Remorse
+1 Goblin Ruinblaster
 1 Rubble Reading
 1 Stone Rain
-1 Goblin Ruinblaster
-1 Cragcrown Pathway
 1 Gnottvold Slumbermound
 1 Smashing Success
 2 Forest
 2 Darkbore Pathway
 2 Shambling Ghast
+2 Cragcrown Pathway
 2 Thrill of Possibility
 2 Field of Ruin
 2 Waking the Trolls
 2 Agonizing Remorse
+2 Goblin Ruinblaster
 2 Storm's Wrath
 2 Gnottvold Slumbermound
 2 Smashing Success
 2 Rubble Reading
 2 Stone Rain
-2 Cragcrown Pathway
-2 Goblin Ruinblaster
 3 Field of Ruin
 3 Shambling Ghast
 3 Thrill of Possibility
+3 Goblin Ruinblaster
 3 Smashing Success
 3 Stone Rain
-3 Goblin Ruinblaster
 3 Gnottvold Slumbermound
 3 Waking the Trolls
 4 Mountain
@@ -298,20 +298,20 @@
 6 Swamp
 1 Mind Stone
 1 Galazeth Prismari
+1 Kalain, Reclusive Painter
 1 Treasure Vault
 1 Treasure Map
 1 Captain Lannery Storm
-1 Kalain, Reclusive Painter
 1 Marionette Master
 2 Mind Stone
 2 Galazeth Prismari
 2 Kalain, Reclusive Painter
 2 Marionette Master
 2 Treasure Map
-3 Mind Stone
+3 Kalain, Reclusive Painter
 3 Marionette Master
 3 Treasure Map
-3 Kalain, Reclusive Painter
+3 Mind Stone
 3 Chandra, Torch of Defiance
 4 Mind Stone
 4 Kalain, Reclusive Painter
