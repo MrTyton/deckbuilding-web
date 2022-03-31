@@ -63,8 +63,8 @@
 1 Thing in the Ice
 1 Murderous Cut
 2 Thing in the Ice
-3 Memory Deluge
 3 Thing in the Ice
+3 Memory Deluge
 2 Mystic Gate
 3 Supreme Verdict
 2 Darkslick Shores
@@ -91,18 +91,18 @@
 3 Thoughtseize
 4 Mishra's Bauble
 1 Unearth
-1 Thought Scour
 1 Monastery Mentor
-2 Thought Scour
+1 Thought Scour
 2 Monastery Mentor
 2 Unearth
-3 Seachrome Coast
+2 Thought Scour
 3 Thought Scour
+3 Seachrome Coast
 3 Unearth
 3 Monastery Mentor
 4 Seachrome Coast
-4 Thought Scour
 4 Monastery Mentor
+4 Thought Scour
 3 Esper Charm
 1 Path to Exile
 3 Marsh Flats
@@ -168,18 +168,18 @@
 1 Serum Visions
 1 Cling to Dust
 2 Cling to Dust
-1 Grief
 1 Fetid Pools
 1 Narset, Parter of Veils
+1 Grief
 2 Narset, Parter of Veils
 2 Sunken Ruins
 1 Dream Trawler
 1 Unmarked Grave
 2 Obzedat's Aid
 1 Snow-Covered Island
-1 Reflecting Pool
 1 Rest in Peace
 1 Snow-Covered Plains
+1 Reflecting Pool
 1 Dovin's Veto
 2 Snow-Covered Island
 2 Rest in Peace
@@ -187,6 +187,8 @@
 3 Glacial Fortress
 1 Vanishing Verse
 3 Shark Typhoon
+1 Spell Pierce
+4 Scalding Tarn
 1 As Foretold
 1 Ancestral Vision
 1 Emrakul, the Promised End
@@ -198,8 +200,6 @@
 3 Ancestral Vision
 3 As Foretold
 4 Jwari Disruption
-1 Spell Pierce
-4 Scalding Tarn
 3 Chalice of the Void
 4 Esper Charm
 2 Path to Exile

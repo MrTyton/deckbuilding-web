@@ -82,16 +82,16 @@
 3 Bloodfell Caves
 4 Bloodfell Caves
 3 Dragon's Fire
+1 Invoke Despair
 1 Soul Transfer
 1 Crippling Fear
-1 Invoke Despair
-2 Crippling Fear
-2 Hagra Mauling
-2 Soul Transfer
 2 Invoke Despair
+2 Soul Transfer
+2 Hagra Mauling
+2 Crippling Fear
 2 The Celestus
-3 Reckoner Bankbuster
 3 Invoke Despair
+3 Reckoner Bankbuster
 4 Reckoner Bankbuster
 4 Invoke Despair
 7 Swamp
@@ -137,9 +137,9 @@
 1 Vampire Socialite
 2 Vampire Socialite
 3 Vampire Socialite
+1 Hero's Downfall
 1 Snow-Covered Mountain
 1 Shadows' Verdict
-1 Hero's Downfall
 1 Blood on the Snow
 1 Snow-Covered Swamp
 2 Hero's Downfall
@@ -156,8 +156,8 @@
 5 Snow-Covered Swamp
 6 Snow-Covered Mountain
 6 Snow-Covered Swamp
-7 Snow-Covered Swamp
 7 Snow-Covered Mountain
+7 Snow-Covered Swamp
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 1 Inscription of Ruin
@@ -168,8 +168,8 @@
 1 Sulfurous Mire
 2 Immersturm Skullcairn
 2 Sulfurous Mire
-1 Zariel, Archduke of Avernus
 1 Dread Fugue
+1 Zariel, Archduke of Avernus
 1 Smoldering Egg
 2 Dread Fugue
 2 Zariel, Archduke of Avernus
@@ -180,13 +180,6 @@
 1 Creepy Puppeteer
 2 Creepy Puppeteer
 3 Creepy Puppeteer
-1 Poison the Cup
-1 Baleful Mastery
-2 Poison the Cup
-2 Baleful Mastery
-3 Skullport Merchant
-4 Eyetwitch
-4 Skullport Merchant
 1 Dockside Chef
 1 Experimental Synthesizer
 1 Burn Down the House
@@ -197,31 +190,31 @@
 2 Anje, Maid of Dishonor
 3 Experimental Synthesizer
 4 Experimental Synthesizer
+1 Fell Stinger
 1 Westgate Regent
+1 Lizard Blades
 1 Hall of Oracles
 1 Varragoth, Bloodsky Sire
 1 Vorpal Sword
-1 Lizard Blades
-1 Fell Stinger
 1 Undying Malice
-2 Hall of Oracles
-2 Go Blank
 2 Fell Stinger
 2 Lizard Blades
+2 Go Blank
 2 Undying Malice
 2 Varragoth, Bloodsky Sire
 2 Westgate Regent
+2 Hall of Oracles
+3 Eaten Alive
 3 Tainted Adversary
 3 Lizard Blades
-3 Eaten Alive
 3 Go Blank
 3 Varragoth, Bloodsky Sire
 3 Undying Malice
 4 Varragoth, Bloodsky Sire
-1 Malakir Rebirth
 1 Moonveil Regent
-2 Malakir Rebirth
+1 Malakir Rebirth
 2 Moonveil Regent
+2 Malakir Rebirth
 3 Moonveil Regent
 3 Crush the Weak
 4 Moonveil Regent
@@ -232,20 +225,20 @@
 2 Unexpected Windfall
 3 Unexpected Windfall
 4 Unexpected Windfall
-1 Shattered Sanctum
 1 Voldaren Bloodcaster
 1 Nullpriest of Oblivion
 1 Volatile Arsonist
 1 Needleverge Pathway
 1 Brightclimb Pathway
 1 Edgar, Charmed Groom
+1 Shattered Sanctum
 1 Sundown Pass
+2 Edgar, Charmed Groom
 2 Voldaren Bloodcaster
 2 Power Word Kill
 2 Volatile Arsonist
 2 Needleverge Pathway
 2 Brightclimb Pathway
-2 Edgar, Charmed Groom
 3 Nighthawk Scavenger
 3 Bloodchief's Thirst
 3 Needleverge Pathway
@@ -275,6 +268,13 @@
 3 Falkenrath Pit Fighter
 4 Falkenrath Pit Fighter
 4 Vampire Socialite
+1 Poison the Cup
+1 Baleful Mastery
+2 Poison the Cup
+2 Baleful Mastery
+3 Skullport Merchant
+4 Skullport Merchant
+4 Eyetwitch
 1 Magmatic Channeler
 1 Arni Brokenbrow
 2 Magmatic Channeler

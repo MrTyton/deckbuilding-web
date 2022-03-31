@@ -1,17 +1,17 @@
+1 Lair of the Hydra
 1 Marwyn, the Nurturer
 2 Freyalise, Skyshroud Partisan
 15 Forest
 16 Forest
-1 Lair of the Hydra
+3 Elvish Visionary
 1 Circle of Dreams Druid
 1 Realmwalker
 2 Fierce Empath
-3 Elvish Visionary
 4 Elvish Visionary
 2 Realmwalker
+3 Skyshroud Lookout
 4 Castle Garenbrig
 2 Lair of the Hydra
-3 Skyshroud Lookout
 17 Forest
 4 Imperious Perfect
 1 Temple Garden
@@ -22,8 +22,8 @@
 4 Branchloft Pathway
 3 Temple Garden
 4 Temple Garden
-1 Breeding Pool
 1 Barkchannel Pathway
+1 Breeding Pool
 2 Breeding Pool
 2 Barkchannel Pathway
 3 Barkchannel Pathway
@@ -31,6 +31,7 @@
 4 Barkchannel Pathway
 4 Breeding Pool
 2 Growing Rites of Itlimoc
+4 Skyshroud Lookout
 1 Swan Song
 1 Botanical Sanctum
 2 Swan Song
@@ -56,7 +57,6 @@
 16 Snow-Covered Forest
 17 Snow-Covered Forest
 3 Freyalise, Skyshroud Partisan
-4 Skyshroud Lookout
 18 Forest
 2 Marwyn, the Nurturer
 2 Circle of Dreams Druid
@@ -81,8 +81,8 @@
 1 Woodland Cemetery
 2 Fiend Artisan
 2 Woodland Cemetery
-3 Realmwalker
 3 Woodland Cemetery
+3 Realmwalker
 4 Darkbore Pathway
 4 Woodland Cemetery
 1 Finale of Devastation
@@ -90,6 +90,24 @@
 1 The Great Henge
 1 Hashep Oasis
 2 Hashep Oasis
+1 Llanowar Visionary
+2 Llanowar Visionary
+1 Reclamation Sage
+1 Rootbound Crag
+1 Mountain
+1 Stomping Ground
+1 Cragcrown Pathway
+1 Den of the Bugbear
+1 Shatterskull Smashing
+2 Cragcrown Pathway
+2 Stomping Ground
+2 Shatterskull Smashing
+2 Rootbound Crag
+3 Cragcrown Pathway
+3 Stomping Ground
+3 Rootbound Crag
+4 Stomping Ground
+4 Rootbound Crag
 1 Steel Leaf Champion
 1 Elven Ambush
 1 Incubation Druid
@@ -107,31 +125,80 @@
 1 Scavenging Ooze
 1 Sylvan Anthem
 2 Sylvan Anthem
-1 Llanowar Visionary
-2 Llanowar Visionary
 2 Turntimber Symbiosis
 1 Disdainful Stroke
 1 Spell Pierce
 1 Negate
-1 Reclamation Sage
 1 Overgrown Farmland
 2 Overgrown Farmland
-3 Growing Rites of Itlimoc
 3 Overgrown Farmland
+3 Growing Rites of Itlimoc
 4 Overgrown Farmland
 3 Finale of Devastation
 4 Finale of Devastation
 1 Vivien, Monsters' Advocate
 1 Sylvan Ranger
-2 Vivien, Monsters' Advocate
 2 Sylvan Ranger
+2 Vivien, Monsters' Advocate
 3 Marwyn, the Nurturer
+3 Vivien, Monsters' Advocate
 3 Fierce Empath
 3 Sylvan Ranger
-3 Vivien, Monsters' Advocate
 4 Sylvan Ranger
 4 Vivien, Monsters' Advocate
 4 Marwyn, the Nurturer
+1 Ramunap Ruins
+1 Goblin Anarchomancer
+1 Goblin Ruinblaster
+1 Harmonic Prodigy
+1 Faceless Agent
+1 Burning-Tree Emissary
+1 Metallic Mimic
+1 Rage Forger
+2 Ramunap Ruins
+2 Goblin Anarchomancer
+2 Goblin Ruinblaster
+2 Reclamation Sage
+2 Harmonic Prodigy
+2 Burning-Tree Emissary
+2 Faceless Agent
+2 Rage Forger
+2 Metallic Mimic
+3 Goblin Anarchomancer
+3 Faceless Agent
+3 Rage Forger
+3 Burning-Tree Emissary
+3 Harmonic Prodigy
+4 Goblin Anarchomancer
+4 Burning-Tree Emissary
+4 Harmonic Prodigy
+4 Rage Forger
+4 Cragcrown Pathway
+1 Lukka, Coppercoat Outcast
+1 Grizzled Huntmaster
+1 Bonecrusher Giant
+1 The Akroan War
+1 Serra's Emissary
+1 Fire Prophecy
+1 Growth-Chamber Guardian
+1 Seasoned Pyromancer
+2 Mountain
+2 Seasoned Pyromancer
+2 Grizzled Huntmaster
+2 Serra's Emissary
+2 Bonecrusher Giant
+2 Lukka, Coppercoat Outcast
+2 The Akroan War
+2 Growth-Chamber Guardian
+3 Bonecrusher Giant
+3 Mountain
+3 Grizzled Huntmaster
+3 Lukka, Coppercoat Outcast
+3 Llanowar Visionary
+3 Growth-Chamber Guardian
+4 Mountain
+4 Llanowar Visionary
+4 Growth-Chamber Guardian
 1 Ranger Class
 2 Ranger Class
 19 Forest
