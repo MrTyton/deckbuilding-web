@@ -56,11 +56,11 @@
 2 Haunted Ridge
 1 Chandra, Torch of Defiance
 1 Takenuma, Abandoned Mire
-1 Rockfall Vale
 1 Elder Gargaroth
-1 Cragcrown Pathway
+1 Rockfall Vale
 1 Valki, God of Lies
 1 Darkbore Pathway
+1 Cragcrown Pathway
 2 Elder Gargaroth
 2 Cragcrown Pathway
 1 Crawling Barrens
@@ -78,10 +78,10 @@
 1 Fabled Passage
 2 Fabled Passage
 1 Phyrexian Obliterator
-1 Concealed Courtyard
-1 Doom Foretold
 1 Slaughter the Strong
+1 Concealed Courtyard
 1 Savai Triome
+1 Doom Foretold
 2 Concealed Courtyard
 3 Concealed Courtyard
 3 Waste Not
@@ -96,8 +96,8 @@
 2 Rockfall Vale
 1 Bedevil
 1 Invoke Despair
-1 Field of Ruin
 1 March of Wretched Sorrow
+1 Field of Ruin
 2 Field of Ruin
 4 Inquisition of Kozilek
 1 Rootbound Crag
@@ -113,11 +113,11 @@
 1 Forsaken Crossroads
 2 Chandra, Torch of Defiance
 2 Forsaken Crossroads
-1 Town-Razer Tyrant
 1 Sokenzan, Crucible of Defiance
+1 Town-Razer Tyrant
 1 Rahilda, Wanted Cutthroat
-2 Rahilda, Wanted Cutthroat
 2 Town-Razer Tyrant
+2 Rahilda, Wanted Cutthroat
 3 Rahilda, Wanted Cutthroat
 1 Bojuka Bog
 2 Go Blank
@@ -129,43 +129,61 @@
 7 Swamp
 1 Eliminate
 2 Phyrexian Obliterator
-1 Hidetsugu Consumes All
-1 Farewell
-1 March of Otherworldly Light
-2 Isolated Chapel
-2 Invoke Despair
-2 March of Otherworldly Light
 1 Command the Dreadhorde
 2 Sunpetal Grove
+1 March of Otherworldly Light
+1 Hidetsugu Consumes All
+1 Farewell
+2 Invoke Despair
+2 March of Otherworldly Light
+2 Isolated Chapel
 1 Check for Traps
-2 Sorin the Mirthless
 2 Check for Traps
+2 Sorin the Mirthless
 3 Sorin the Mirthless
+1 Swarm Saboteur
+2 Extinction Event
+2 March of Wretched Sorrow
+2 Swarm Saboteur
+3 The Meathook Massacre
+3 Swarm Saboteur
+1 Boseiju, Who Endures
 1 Bloodchief's Thirst
 1 Painful Bond
-1 Boseiju, Who Endures
 1 Blooming Marsh
-2 Painful Bond
 2 Blooming Marsh
+2 Painful Bond
 3 Painful Bond
 3 Elder Gargaroth
 3 Blooming Marsh
-1 Swarm Saboteur
-2 March of Wretched Sorrow
-2 Extinction Event
-2 Swarm Saboteur
-3 Swarm Saboteur
-3 The Meathook Massacre
-1 Infernal Grasp
-1 Vraska, Golgari Queen
 1 Goblin Dark-Dwellers
-1 Soul-Guide Lantern
-1 Cling to Dust
+1 Infernal Grasp
 1 Seasoned Pyromancer
+1 Soul-Guide Lantern
+1 Vraska, Golgari Queen
+1 Cling to Dust
 1 Vraska, Relic Seeker
 2 Cling to Dust
 2 Infernal Grasp
 3 Darkbore Pathway
+1 Lightning Strike
+1 Erebos's Intervention
+1 Duress
+1 Easy Prey
+1 Storrev, Devkarin Lich
+1 Ruin Raider
+1 Purphoros's Intervention
+2 Lightning Strike
+2 Ruin Raider
+2 Storrev, Devkarin Lich
+2 Bedevil
+2 Duress
+3 Lightning Strike
+3 Duress
+3 Chevill, Bane of Monsters
+3 Questing Beast
+4 Lightning Strike
+4 Duress
 1 Nashi, Moon Sage's Scion
 1 Junji, the Midnight Sky
 1 Atsushi, the Blazing Sky
@@ -180,55 +198,50 @@
 3 Kalain, Reclusive Painter
 3 Nashi, Moon Sage's Scion
 4 Fatal Push
-1 Lightning Strike
-1 Ruin Raider
-1 Erebos's Intervention
-1 Duress
-1 Easy Prey
-1 Storrev, Devkarin Lich
-1 Purphoros's Intervention
-2 Lightning Strike
-2 Bedevil
-2 Ruin Raider
-2 Storrev, Devkarin Lich
-2 Duress
-3 Lightning Strike
-3 Duress
-3 Chevill, Bane of Monsters
-3 Questing Beast
-4 Lightning Strike
-4 Duress
 1 Cry of the Carnarium
 1 Burglar Rat
 2 Cry of the Carnarium
 2 Burglar Rat
 2 Davriel, Soul Broker
-3 Murderous Rider
 3 Burglar Rat
 3 Tinybones, Trinket Thief
+3 Murderous Rider
 4 Kroxa, Titan of Death's Hunger
-1 Graveyard Trespasser
+1 Terror of the Peaks
+1 Glorybringer
+1 Find/Finality
+1 Gruul Spellbreaker
+1 Seekers' Squire
+1 Cut/Ribbons
+2 Gruul Spellbreaker
+2 Seekers' Squire
+2 Terror of the Peaks
+3 Gruul Spellbreaker
+3 Seekers' Squire
+4 Gruul Spellbreaker
+4 Seekers' Squire
 1 Malakir Rebirth
+1 Graveyard Trespasser
 1 Fable of the Mirror-Breaker
-1 Bloodthirsty Adversary
 1 Heartless Act
+1 Bloodthirsty Adversary
 1 Spikefield Hazard
-2 Graveyard Trespasser
-2 Fable of the Mirror-Breaker
 2 Bloodthirsty Adversary
+2 Graveyard Trespasser
 2 Heartless Act
-3 Graveyard Trespasser
-3 Town-Razer Tyrant
+2 Fable of the Mirror-Breaker
 3 Bloodthirsty Adversary
 3 Mountain
-4 Kolaghan's Command
-4 Bloodthirsty Adversary
-4 Town-Razer Tyrant
+3 Graveyard Trespasser
+3 Town-Razer Tyrant
 4 Mountain
+4 Bloodthirsty Adversary
+4 Kolaghan's Command
+4 Town-Razer Tyrant
 4 Graveyard Trespasser
 5 Mountain
-1 Snow-Covered Swamp
 1 Blast Zone
+1 Snow-Covered Swamp
 1 Liliana's Triumph
 1 Languish
 1 Ifnir Deadlands
@@ -243,18 +256,18 @@
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
-1 Rankle, Master of Pranks
 1 Soul Shatter
+1 Rankle, Master of Pranks
 2 Soul Shatter
 2 Rankle, Master of Pranks
 2 Eliminate
-3 Hive of the Eye Tyrant
 3 Soul Shatter
 3 Tergrid, God of Fright
 3 Inscription of Ruin
 3 Go Blank
 3 Phyrexian Obliterator
 3 Bojuka Bog
+3 Hive of the Eye Tyrant
 4 Inscription of Ruin
 4 Go Blank
 4 Tergrid, God of Fright
@@ -262,23 +275,10 @@
 4 Phyrexian Obliterator
 8 Swamp
 9 Swamp
-10 Swamp
 11 Swamp
 12 Swamp
 13 Swamp
 14 Swamp
 15 Swamp
 16 Swamp
-1 Glorybringer
-1 Terror of the Peaks
-1 Find/Finality
-1 Gruul Spellbreaker
-1 Seekers' Squire
-1 Cut/Ribbons
-2 Terror of the Peaks
-2 Gruul Spellbreaker
-2 Seekers' Squire
-3 Gruul Spellbreaker
-3 Seekers' Squire
-4 Gruul Spellbreaker
-4 Seekers' Squire
+10 Swamp

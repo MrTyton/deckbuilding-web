@@ -13,10 +13,10 @@
 1 Hullbreaker Horror
 1 Bloodchief's Thirst
 4 Shipwreck Marsh
-2 Sorin the Mirthless
 3 The Meathook Massacre
 2 Infernal Grasp
 1 Emeria's Call
+2 Sorin the Mirthless
 4 Doomskar
 1 March of Wretched Sorrow
 2 Bloodchief's Thirst
@@ -37,47 +37,47 @@
 2 Cave of the Frost Dragon
 3 Memory Deluge
 3 Jwari Disruption
+1 Soul Shatter
 1 Check for Traps
-2 Hall of Storm Giants
+2 Emeria's Call
 2 March of Wretched Sorrow
-1 Rite of Oblivion
+2 Hall of Storm Giants
 1 Starnheim Unleashed
 1 Lier, Disciple of the Drowned
 2 Swamp
-1 Soul Shatter
 1 Consider
 2 Consider
 2 Hullbreaker Horror
-2 Rite of Oblivion
-2 Emeria's Call
 1 Fading Hope
 2 Fading Hope
+1 Rite of Oblivion
 3 Negate
 1 Siphon Insight
-3 Rite of Oblivion
 2 Check for Traps
 1 Saw It Coming
 2 Saw It Coming
+2 Rite of Oblivion
 2 Portable Hole
 3 Reckoner Bankbuster
 1 Kotose, the Silent Spider
-3 Deadly Dispute
 4 The Wandering Emperor
+3 Lolth, Spider Queen
 1 Shadows' Verdict
 2 Shadows' Verdict
 3 Consider
 4 Consider
-3 Shambling Ghast
+3 Rite of Oblivion
 1 Eyetwitch
 2 Eyetwitch
+3 Shambling Ghast
+3 Deadly Dispute
 2 Plains
 2 Lier, Disciple of the Drowned
 3 Farewell
 4 Kaito Shizuki
-1 Fateful Absence
-3 Lolth, Spider Queen
 3 Eyetwitch
 4 Eyetwitch
+1 Fateful Absence
 1 Test of Talents
 1 Field of Ruin
 2 Field of Ruin
@@ -89,24 +89,26 @@
 4 Luminarch Aspirant
 1 Sunset Revelry
 3 The Celestus
-3 Hive of the Eye Tyrant
-4 Rite of Oblivion
 2 Fateful Absence
 3 Saw It Coming
-4 Deadly Dispute
 4 Shambling Ghast
 4 Negate
 4 Memory Deluge
+2 Soul Shatter
 1 Baleful Mastery
 2 Baleful Mastery
+3 Hive of the Eye Tyrant
+4 Rite of Oblivion
 1 Spirited Companion
 2 Spirited Companion
+1 Hagra Mauling
 1 Syncopate
 2 Syncopate
 1 Path of Peril
 1 Wash Away
 2 Wash Away
 3 Wash Away
+4 Deadly Dispute
 2 Edgar, Charmed Groom
 1 Skyclave Apparition
 2 Skyclave Apparition
@@ -119,12 +121,8 @@
 3 Spirited Companion
 4 Spirited Companion
 2 Test of Talents
-2 Soul Shatter
-1 Malevolent Hermit
-2 Malevolent Hermit
 2 Siphon Insight
 2 Path of Peril
-1 Hagra Mauling
 2 Eiganjo, Seat of the Empire
 3 Plains
 4 The Meathook Massacre
@@ -145,9 +143,10 @@
 4 March of Otherworldly Light
 5 Plains
 3 Sunset Revelry
+1 Valki, God of Lies
 2 Kotose, the Silent Spider
-3 Malevolent Hermit
-1 Welcoming Vampire
+1 Malevolent Hermit
+2 Malevolent Hermit
 1 Power Word Kill
 2 Power Word Kill
 1 Niko Aris
@@ -163,17 +162,18 @@
 1 Callous Bloodmage
 2 Island
 1 Junji, the Midnight Sky
+1 Welcoming Vampire
+1 Kaya, Geist Hunter
 1 Devastating Mastery
-1 Valki, God of Lies
 2 Niko Aris
 2 Duress
 2 Hagra Mauling
 2 Liesa, Forgotten Archangel
 1 Silverquill Campus
 1 Crawling Barrens
-1 Fracture
-1 Sea Gate Restoration
 1 Gates of Istfell
+1 Sea Gate Restoration
+1 Fracture
 1 Professor Onyx
 1 Devious Cover-Up
 2 Sea Gate Restoration
@@ -189,6 +189,7 @@
 2 Grazilaxx, Illithid Scholar
 2 Reidane, God of the Worthy
 3 Emeria's Call
+3 Malevolent Hermit
 1 Startle
 1 Village Rites
 1 Poppet Stitcher
@@ -226,12 +227,9 @@
 3 Lier, Disciple of the Drowned
 3 Check for Traps
 4 Check for Traps
-2 Welcoming Vampire
-3 Welcoming Vampire
-4 Malevolent Hermit
 1 Elite Spellbinder
-2 Snow-Covered Plains
 2 Elite Spellbinder
+2 Snow-Covered Plains
 3 Snow-Covered Plains
 5 Snow-Covered Plains
 6 Snow-Covered Plains

@@ -1,14 +1,11 @@
-2 Plains
-4 Teferi, Time Raveler
-1 Snapcaster Mage
 2 Snapcaster Mage
-1 Cryptic Command
 1 Shark Typhoon
-2 March of Otherworldly Light
-2 Mystic Gate
-3 Snapcaster Mage
 2 Steam Vents
 2 Cryptic Command
+2 March of Otherworldly Light
+1 Spreading Seas
+2 Spreading Seas
+3 Snapcaster Mage
 2 Shark Typhoon
 3 Cryptic Command
 2 Raugrin Triome
@@ -22,12 +19,12 @@
 1 Blood Sun
 1 Lotus Field
 2 Flagstones of Trokair
-2 Blood Sun
 2 Valakut Awakening
+2 Blood Sun
 2 Lotus Field
 2 Fury
-3 Flagstones of Trokair
 3 Teferi, Hero of Dominaria
+3 Flagstones of Trokair
 3 Valakut Awakening
 3 Lotus Field
 3 Blood Sun
@@ -36,16 +33,19 @@
 4 Lotus Field
 4 Cryptic Command
 4 Blood Sun
-3 Spreading Seas
+2 Plains
+4 Teferi, Time Raveler
 3 Memory Deluge
 3 Fury
 4 Fury
 2 Seachrome Coast
 4 Valakut Awakening
 4 Teferi, Hero of Dominaria
-3 March of Otherworldly Light
-1 Misty Rainforest
+2 Mystic Gate
 4 Memory Deluge
+3 March of Otherworldly Light
+3 Spreading Seas
+1 Misty Rainforest
 4 Snapcaster Mage
 3 Fire/Ice
 1 Lightning Bolt
@@ -72,6 +72,7 @@
 4 March of Otherworldly Light
 4 Fire/Ice
 1 Force of Negation
+3 Chalice of the Void
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
@@ -94,9 +95,9 @@
 2 Path to Exile
 3 Path to Exile
 4 Path to Exile
-1 Castle Ardenvale
 1 Field of Ruin
 1 Prairie Stream
+1 Castle Ardenvale
 1 Windswept Heath
 2 Jace, the Mind Sculptor
 2 Prairie Stream
@@ -111,21 +112,20 @@
 3 Unholy Heat
 3 Blood Moon
 8 Island
-3 Chalice of the Void
 1 Brazen Borrower
 2 Brazen Borrower
 1 Arid Mesa
 2 Arid Mesa
-1 Snow-Covered Plains
 1 Flusterstorm
+1 Snow-Covered Plains
 2 Snow-Covered Plains
 2 Flusterstorm
 3 Mystic Gate
 4 Mystic Gate
 4 Spreading Seas
 2 Surgical Extraction
-1 Mountain
 1 Charming Prince
+1 Mountain
 1 Remand
 1 Nahiri, the Harbinger
 1 Ghost Quarter
@@ -158,15 +158,9 @@
 1 Ketria Triome
 2 Spell Pierce
 3 Steam Vents
-1 Prismatic Vista
-1 Narset, Parter of Veils
-1 Day's Undoing
-2 Prismatic Vista
-2 Narset, Parter of Veils
-2 Day's Undoing
-3 Prismatic Vista
-3 Narset, Parter of Veils
-4 Prismatic Vista
+1 Cleansing Wildfire
+2 Cleansing Wildfire
+3 Cleansing Wildfire
 3 Hallowed Fountain
 4 Hallowed Fountain
 1 Thing in the Ice
@@ -184,6 +178,7 @@
 2 Force of Negation
 3 Force of Negation
 4 Spirebluff Canal
+4 Shark Typhoon
 1 Sulfur Falls
 1 Chandra, Awakened Inferno
 1 Prismari Command
@@ -193,4 +188,12 @@
 2 Dead/Gone
 3 Misty Rainforest
 5 Snow-Covered Island
-4 Shark Typhoon
+1 Prismatic Vista
+1 Narset, Parter of Veils
+1 Day's Undoing
+2 Narset, Parter of Veils
+2 Day's Undoing
+2 Prismatic Vista
+3 Prismatic Vista
+3 Narset, Parter of Veils
+4 Prismatic Vista

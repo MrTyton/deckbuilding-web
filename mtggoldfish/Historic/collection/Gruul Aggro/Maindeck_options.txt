@@ -1,7 +1,7 @@
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
-1 Rockfall Vale
 3 Collected Company
+1 Rockfall Vale
 1 Ahn-Crop Crasher
 2 Ahn-Crop Crasher
 2 Hashep Oasis
@@ -9,11 +9,11 @@
 1 Rootbound Crag
 1 Kazandu Mammoth
 3 Ahn-Crop Crasher
+3 Scavenging Ooze
 3 Mountain
 1 Ranger Class
 2 Ranger Class
 4 Ahn-Crop Crasher
-3 Scavenging Ooze
 2 Rockfall Vale
 2 Rootbound Crag
 3 Ranger Class
@@ -23,38 +23,37 @@
 1 Robber of the Rich
 2 Robber of the Rich
 4 Embercleave
-1 Reckless Stormseeker
-2 Reckless Stormseeker
 2 Kazandu Mammoth
-1 Halana and Alena, Partners
-1 Abrade
 3 Rootbound Crag
+1 Boseiju, Who Endures
+1 Abrade
 4 Ramunap Ruins
 7 Forest
+1 Reckless Stormseeker
+2 Reckless Stormseeker
 4 Ranger Class
 1 Gallia of the Endless Dance
 2 Gallia of the Endless Dance
-1 Boseiju, Who Endures
-3 Reckless Stormseeker
+1 Werewolf Pack Leader
+1 Halana and Alena, Partners
 4 Mountain
 5 Mountain
-1 Werewolf Pack Leader
-4 Questing Beast
 1 Forsaken Crossroads
 2 Forsaken Crossroads
+3 Reckless Stormseeker
+2 Werewolf Pack Leader
+3 Werewolf Pack Leader
+4 Rootbound Crag
+3 Kazandu Mammoth
 1 Sokenzan, Crucible of Defiance
 1 Kraul Harpooner
 4 Rampaging Ferocidon
 1 Hazoret the Fervent
-4 Reckless Stormseeker
 4 Collected Company
-3 Lair of the Hydra
 1 Banefire
 1 Cemetery Gatekeeper
 2 Cemetery Gatekeeper
-2 Werewolf Pack Leader
-3 Werewolf Pack Leader
-4 Rootbound Crag
+4 Questing Beast
 1 Kessig Naturalist
 1 Rahilda, Wanted Cutthroat
 1 Tenacious Pup
@@ -63,22 +62,24 @@
 2 Rahilda, Wanted Cutthroat
 3 Tenacious Pup
 3 Kessig Naturalist
+4 Reckless Stormseeker
 4 Kessig Naturalist
 4 Tenacious Pup
 3 Robber of the Rich
-3 Kazandu Mammoth
 6 Mountain
-1 Domri's Ambush
-2 Domri's Ambush
+4 Scavenging Ooze
 3 Rockfall Vale
+3 Lair of the Hydra
 4 Rockfall Vale
-2 Halana and Alena, Partners
-3 Halana and Alena, Partners
+4 Werewolf Pack Leader
 1 Rhonas the Indomitable
+1 Primal Might
+2 Rhonas the Indomitable
+2 Primal Might
 1 Cindervines
 1 Glorybringer
-1 Shifting Ceratops
 2 Abrade
+1 Shifting Ceratops
 8 Forest
 9 Forest
 10 Forest
@@ -91,8 +92,8 @@
 1 Harsh Mentor
 2 Harsh Mentor
 1 Decisive Denial
-1 Botanical Sanctum
 1 Breeding Pool
+1 Botanical Sanctum
 1 Tormod's Crypt
 1 Spell Pierce
 1 Gyre Engineer
@@ -105,18 +106,19 @@
 1 Paradise Druid
 2 Paradise Druid
 3 Paradise Druid
+2 Banefire
+3 Gallia of the Endless Dance
+1 Domri's Ambush
+2 Domri's Ambush
 3 Domri's Ambush
 1 Castle Embereth
 1 Shatterskull Charger
-1 Primal Might
 1 Unnatural Growth
 1 Ulvenwald Oddity
 1 Goldspan Dragon
 2 Unnatural Growth
 2 Ulvenwald Oddity
-2 Rhonas the Indomitable
 2 Shatterskull Charger
-2 Primal Might
 2 Goldspan Dragon
 3 Ulvenwald Oddity
 3 Goldspan Dragon
@@ -126,71 +128,77 @@
 2 Atarka's Command
 3 Atarka's Command
 4 Atarka's Command
+1 Thundering Rebuke
 1 Tovolar, Dire Overlord
 1 Volatile Arsonist
-1 Thundering Rebuke
 1 Ill-Tempered Loner
-2 Volatile Arsonist
 2 Thundering Rebuke
-2 Tovolar, Dire Overlord
+2 Volatile Arsonist
 2 Ill-Tempered Loner
+2 Tovolar, Dire Overlord
 3 Thundering Rebuke
 3 Tovolar, Dire Overlord
-4 Werewolf Pack Leader
 4 Thundering Rebuke
-2 Banefire
-3 Gallia of the Endless Dance
-4 Scavenging Ooze
-1 Saryth, the Viper's Fang
-1 Varis, Silverymoon Ranger
-1 Bard Class
-1 Fynn, the Fangbearer
-1 Delina, Wild Mage
-1 Toxic Scorpion
-1 Domri, Anarch of Bolas
-2 Bard Class
-2 Fynn, the Fangbearer
-2 Saryth, the Viper's Fang
-2 Domri, Anarch of Bolas
-2 Delina, Wild Mage
-3 Bard Class
-3 Fynn, the Fangbearer
-3 Domri, Anarch of Bolas
-3 Delina, Wild Mage
-4 Fynn, the Fangbearer
-4 Delina, Wild Mage
-1 Legion Warboss
-4 Den of the Bugbear
+1 Lovestruck Beast
+1 The Great Henge
+1 Steel Leaf Champion
+1 Flame-Blessed Bolt
+2 Lovestruck Beast
+2 Steel Leaf Champion
+2 The Great Henge
+2 Boseiju, Who Endures
+2 Flame-Blessed Bolt
+3 Lovestruck Beast
+3 Steel Leaf Champion
+3 Primal Might
+3 The Great Henge
+4 Lovestruck Beast
+4 Steel Leaf Champion
+4 Kazandu Mammoth
+4 Primal Might
+1 Arboreal Grazer
+1 Vivien, Arkbow Ranger
+2 Halana and Alena, Partners
+2 Arboreal Grazer
+2 Vivien, Arkbow Ranger
+3 Halana and Alena, Partners
+3 Forsaken Crossroads
+3 Arboreal Grazer
+3 Vivien, Arkbow Ranger
+4 Lair of the Hydra
+4 Forsaken Crossroads
+4 Arboreal Grazer
+4 Vivien, Arkbow Ranger
 1 Town-razer Tyrant
 2 Town-razer Tyrant
 3 Town-razer Tyrant
 4 Town-razer Tyrant
-1 Goblin Dark-Dwellers
-1 Snow-Covered Forest
+1 Faceless Haven
 1 Abundant Harvest
+1 Snow-Covered Forest
 1 Highland Forest
-1 Snow-Covered Mountain
 1 Blast Zone
+1 Snow-Covered Mountain
 1 Solemn Simulacrum
 1 Incubation Druid
-1 Seasoned Pyromancer
-1 Faceless Haven
+1 Goblin Dark-Dwellers
 1 Sweltering Suns
 1 Pillar of Flame
 1 Stone Rain
 1 Devil's Play
 1 Chandra, Torch of Defiance
+1 Seasoned Pyromancer
 1 Into the North
 2 Goblin Dark-Dwellers
 2 Snow-Covered Forest
-2 Snow-Covered Mountain
 2 Seasoned Pyromancer
+2 Snow-Covered Mountain
 2 Glorybringer
 2 Stone Rain
 2 Into the North
 3 Goblin Dark-Dwellers
-3 Snow-Covered Forest
 3 Snow-Covered Mountain
+3 Snow-Covered Forest
 3 Glorybringer
 3 Into the North
 3 Stone Rain
@@ -202,14 +210,5 @@
 5 Snow-Covered Mountain
 6 Snow-Covered Forest
 7 Snow-Covered Forest
-1 Arboreal Grazer
-1 Vivien, Arkbow Ranger
-2 Arboreal Grazer
-2 Vivien, Arkbow Ranger
-3 Forsaken Crossroads
-3 Arboreal Grazer
-3 Vivien, Arkbow Ranger
-4 Lair of the Hydra
-4 Arboreal Grazer
-4 Vivien, Arkbow Ranger
-4 Forsaken Crossroads
+1 Legion Warboss
+4 Den of the Bugbear

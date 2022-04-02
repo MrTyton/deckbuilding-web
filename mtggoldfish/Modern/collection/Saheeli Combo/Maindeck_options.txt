@@ -1,13 +1,3 @@
-3 Plains
-3 Blood Moon
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-1 Spreading Seas
-2 Spreading Seas
-3 Arid Mesa
-1 Wall of Omens
-1 Misty Rainforest
-2 Misty Rainforest
 1 Wooded Foothills
 2 Wooded Foothills
 1 Omnath, Locus of Creation
@@ -15,47 +5,53 @@
 3 Wooded Foothills
 1 Breeding Pool
 1 Stomping Ground
+1 Seasoned Pyromancer
+2 Seasoned Pyromancer
+3 Arid Mesa
+1 Wrenn and Six
 1 Windswept Heath
 2 Windswept Heath
-1 Wrenn and Six
 1 Oath of Nissa
-1 Snow-Covered Plains
-1 Snow-Covered Island
+1 Boseiju, Who Endures
+3 Misty Rainforest
+4 Misty Rainforest
 3 Windswept Heath
 4 Windswept Heath
 1 Temple Garden
-1 Boseiju, Who Endures
 2 Wrenn and Six
+1 Snow-Covered Plains
+1 Snow-Covered Island
 2 Oath of Nissa
-3 Misty Rainforest
-4 Misty Rainforest
+3 Scalding Tarn
+3 Plains
+3 Blood Moon
 1 Ketria Triome
 3 Omnath, Locus of Creation
-3 Ragavan, Nimble Pilferer
+1 Wall of Omens
 1 Snow-Covered Mountain
-2 Wall of Omens
+3 Ragavan, Nimble Pilferer
+1 Spreading Seas
+2 Spreading Seas
+2 Island
 1 Otawara, Soaring City
+1 Forest
+2 Prismatic Vista
+2 Wall of Omens
+3 Wrenn and Six
+3 Oath of Nissa
+1 Eternal Witness
 1 Fire/Ice
 2 Fire/Ice
 4 Scalding Tarn
-2 Prismatic Vista
-3 Wall of Omens
-3 Wrenn and Six
-1 Forest
-3 Spreading Seas
-3 Oath of Nissa
-1 Eternal Witness
 4 Ragavan, Nimble Pilferer
-1 Lightning Bolt
-2 Lightning Bolt
+3 Wall of Omens
 1 Ice-Fang Coatl
 1 Snow-Covered Forest
 2 Ice-Fang Coatl
 2 Snow-Covered Forest
 3 Ice-Fang Coatl
-3 Fire/Ice
 2 Snow-Covered Plains
-1 Castle Vantress
+3 Spreading Seas
 1 Eiganjo, Seat of the Empire
 4 Omnath, Locus of Creation
 1 Endurance
@@ -64,28 +60,54 @@
 3 Utopia Sprawl
 4 Utopia Sprawl
 1 Tranquil Thicket
-4 Fire/Ice
+1 Lightning Bolt
+2 Lightning Bolt
 4 Arid Mesa
+3 Fire/Ice
+3 Seasoned Pyromancer
+4 Seasoned Pyromancer
 1 On Thin Ice
 1 Inspiring Vantage
+1 Castle Vantress
 1 March of Otherworldly Light
+4 Wooded Foothills
+1 Skyclave Apparition
+4 Spreading Seas
+4 Fire/Ice
+1 Prismari Command
+2 Boseiju, Who Endures
+1 Khalni Garden
+1 Violent Outburst
+1 Shardless Agent
+1 Glimpse of Tomorrow
+1 Wavesifter
+1 Chancellor of the Forge
+2 Chancellor of the Forge
+2 Glimpse of Tomorrow
+2 Shardless Agent
+2 Violent Outburst
+2 Wavesifter
+2 Khalni Garden
+3 Khalni Garden
+3 Wavesifter
+3 Violent Outburst
+3 Chancellor of the Forge
+3 Shardless Agent
+3 Glimpse of Tomorrow
+4 Shardless Agent
+4 Chancellor of the Forge
+4 Khalni Garden
+4 Wavesifter
+4 Violent Outburst
+4 Wrenn and Six
 1 Hall of Storm Giants
 3 Lightning Bolt
 4 Lightning Bolt
-4 Spreading Seas
-3 Seasoned Pyromancer
-4 Seasoned Pyromancer
-1 Skyclave Apparition
-1 Prismari Command
-1 Glacial Fortress
-1 Sulfur Falls
-4 Wooded Foothills
-4 Wrenn and Six
 1 Remand
 2 Remand
 3 Remand
-1 Stoneforge Mystic
 1 Kaldra Compleat
+1 Stoneforge Mystic
 1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
@@ -123,31 +145,7 @@
 4 Ice-Fang Coatl
 4 Abundant Growth
 2 Mountain
-2 Boseiju, Who Endures
 1 Esika's Chariot
-1 Khalni Garden
-1 Violent Outburst
-1 Shardless Agent
-1 Glimpse of Tomorrow
-1 Wavesifter
-1 Chancellor of the Forge
-2 Chancellor of the Forge
-2 Glimpse of Tomorrow
-2 Shardless Agent
-2 Violent Outburst
-2 Wavesifter
-2 Khalni Garden
-3 Khalni Garden
-3 Wavesifter
-3 Violent Outburst
-3 Chancellor of the Forge
-3 Shardless Agent
-3 Glimpse of Tomorrow
-4 Shardless Agent
-4 Chancellor of the Forge
-4 Khalni Garden
-4 Wavesifter
-4 Violent Outburst
 1 Day's Undoing
 1 Narset, Parter of Veils
 1 Force of Negation
@@ -156,6 +154,8 @@
 2 Narset, Parter of Veils
 2 Day's Undoing
 3 Snow-Covered Island
+1 Glacial Fortress
+1 Sulfur Falls
 4 Wall of Omens
 1 Castle Ardenvale
 1 Clifftop Retreat
@@ -164,8 +164,8 @@
 2 Stomping Ground
 3 Arboreal Grazer
 1 Noble Hierarch
-1 Emrakul, the Aeons Torn
 1 Lukka, Coppercoat Outcast
+1 Emrakul, the Aeons Torn
 1 Ignoble Hierarch
 2 Lukka, Coppercoat Outcast
 2 Prismari Command

@@ -1,8 +1,7 @@
 1 Verdant Catacombs
 1 Savai Triome
-1 Ignoble Hierarch
-2 Ignoble Hierarch
-1 Plains
+1 Misty Rainforest
+2 Fury
 1 Teferi, Time Raveler
 2 Wrenn and Six
 2 Teferi, Time Raveler
@@ -14,13 +13,13 @@
 3 Manamorphose
 4 Manamorphose
 3 Teferi, Time Raveler
-2 Flooded Strand
-1 Island
 1 Omnath, Locus of Creation
 2 Omnath, Locus of Creation
 3 Omnath, Locus of Creation
+1 Island
 1 Expressive Iteration
 2 Expressive Iteration
+1 Ketria Triome
 1 Hallowed Fountain
 1 Faithful Mending
 1 Raugrin Triome
@@ -32,33 +31,37 @@
 3 Expressive Iteration
 3 Faithful Mending
 3 Prismatic Ending
-4 Prismatic Ending
 4 Faithful Mending
 4 Expressive Iteration
+4 Prismatic Ending
+2 Flooded Strand
 2 Steam Vents
 1 Solitude
-1 Ketria Triome
 2 Solitude
 3 Wrenn and Six
 4 Wrenn and Six
 3 Chalice of the Void
 4 Chalice of the Void
-2 Fury
 3 Flooded Strand
+1 Ignoble Hierarch
+2 Ignoble Hierarch
 2 Sacred Foundry
 3 Solitude
 4 Solitude
 4 Bloodstained Mire
-3 Ignoble Hierarch
-4 Mantis Rider
 4 Flooded Strand
 3 Windswept Heath
 4 Windswept Heath
 2 Mountain
-4 Ignoble Hierarch
+4 Mantis Rider
+3 Ignoble Hierarch
 1 Klothys, God of Destiny
-2 Verdant Catacombs
+4 Ignoble Hierarch
 1 Noble Hierarch
+2 Verdant Catacombs
+1 Hidetsugu Consumes All
+2 Hidetsugu Consumes All
+3 Hidetsugu Consumes All
 1 Reflector Mage
 2 Reflector Mage
 1 Tarmogoyf
@@ -66,9 +69,6 @@
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
-1 Hidetsugu Consumes All
-2 Hidetsugu Consumes All
-3 Hidetsugu Consumes All
 2 Noble Hierarch
 1 Horizon Canopy
 1 Qasali Ambusher
@@ -110,6 +110,7 @@
 2 Wandering Mind
 3 Wandering Mind
 3 Verdant Catacombs
+4 Omnath, Locus of Creation
 1 Batterskull
 1 Sword of Fire and Ice
 1 Stoneforge Mystic
@@ -117,15 +118,17 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-4 Omnath, Locus of Creation
-1 Polluted Delta
+2 Stomping Ground
+3 Fury
+4 Fury
 1 Fire/Ice
-1 Kroxa, Titan of Death's Hunger
+1 Polluted Delta
 1 Far/Away
 1 Endurance
-2 Kroxa, Titan of Death's Hunger
+1 Kroxa, Titan of Death's Hunger
 2 Far/Away
 2 Fire/Ice
+2 Kroxa, Titan of Death's Hunger
 3 Far/Away
 3 Fire/Ice
 4 Far/Away

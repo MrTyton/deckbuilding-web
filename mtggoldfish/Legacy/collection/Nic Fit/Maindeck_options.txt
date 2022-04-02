@@ -77,11 +77,11 @@
 1 Wasteland
 4 Endurance
 1 Sylvan Safekeeper
+1 Opposition Agent
 1 Taiga
 1 Snow-Covered Mountain
-1 Opposition Agent
-2 Wooded Foothills
 2 Opposition Agent
+2 Wooded Foothills
 3 Opposition Agent
 1 Bojuka Bog
 1 Crop Rotation
@@ -124,8 +124,8 @@
 1 Juri, Master of the Revue
 1 The Meathook Massacre
 2 Snow-Covered Mountain
-2 Titania, Protector of Argoth
 2 Mayhem Devil
+2 Titania, Protector of Argoth
 2 The Meathook Massacre
 3 Mayhem Devil
 1 Abundant Harvest
@@ -134,6 +134,17 @@
 2 Abundant Harvest
 2 Fatal Push
 3 Abundant Harvest
+1 Elder Gargaroth
+1 Shifting Ceratops
+1 Plague Engineer
+1 Collector Ouphe
+1 Hexdrinker
+1 Ramunap Excavator
+2 Hexdrinker
+2 Tireless Tracker
+2 Plague Engineer
+3 Hexdrinker
+3 Tireless Tracker
 1 Blex, Vexing Pest
 1 Plumb the Forbidden
 1 Sedgemoor Witch
@@ -153,17 +164,6 @@
 3 Path to Exile
 2 Cavern Harpy
 3 Polluted Delta
-1 Elder Gargaroth
-1 Shifting Ceratops
-1 Plague Engineer
-1 Collector Ouphe
-1 Hexdrinker
-1 Ramunap Excavator
-2 Hexdrinker
-2 Tireless Tracker
-2 Plague Engineer
-3 Tireless Tracker
-3 Hexdrinker
 1 Outland Liberator
 3 Pernicious Deed
 1 Nicol Bolas, Planeswalker
@@ -173,13 +173,13 @@
 2 Innocent Blood
 3 Once Upon a Time
 4 Once Upon a Time
+1 Mountain
 1 Terror of the Peaks
-1 Field of the Dead
 1 Klothys, God of Destiny
+1 Field of the Dead
 1 Dauthi Voidwalker
 1 Vivien, Monsters' Advocate
 1 Ruination Rioter
-1 Mountain
 1 Kalitas, Traitor of Ghet
 2 Taiga
 2 Dauthi Voidwalker
