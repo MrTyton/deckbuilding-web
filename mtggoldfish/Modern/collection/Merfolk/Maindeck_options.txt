@@ -38,11 +38,11 @@
 2 Unsettled Mariner
 2 Prismatic Ending
 2 Wanderwine Hub
-3 Prismatic Ending
 3 Unsettled Mariner
+3 Prismatic Ending
 3 Wanderwine Hub
-4 Prismatic Ending
 4 Unsettled Mariner
+4 Prismatic Ending
 4 Wanderwine Hub
 3 Master of Waves
 4 Harbinger of the Tides
@@ -53,19 +53,19 @@
 11 Island
 12 Island
 1 Misty Rainforest
+1 Collected Company
 1 Utopia Sprawl
 1 Noble Hierarch
 1 Breeding Pool
-1 Collected Company
 2 Misty Rainforest
 2 Breeding Pool
+2 Collected Company
 2 Utopia Sprawl
 2 Noble Hierarch
-2 Collected Company
 3 Breeding Pool
+3 Collected Company
 3 Utopia Sprawl
 3 Misty Rainforest
-3 Collected Company
 4 Utopia Sprawl
 4 Misty Rainforest
 4 Breeding Pool
@@ -76,12 +76,12 @@
 4 Seachrome Coast
 1 Benthic Biomancer
 2 Benthic Biomancer
-1 Lonely Sandbar
 1 Riptide Laboratory
+1 Lonely Sandbar
 1 Faerie Conclave
 1 Repeal
-2 Repeal
 2 Faerie Conclave
+2 Repeal
 3 Repeal
 3 Faerie Conclave
 4 Repeal
@@ -89,8 +89,8 @@
 1 Vapor Snag
 2 Vapor Snag
 4 Collected Company
-1 Forest
 1 Realmwalker
+1 Forest
 2 Realmwalker
 13 Island
 1 Phantasmal Image
@@ -101,8 +101,8 @@
 3 Hallowed Fountain
 4 Hallowed Fountain
 1 Polluted Delta
-1 Raugrin Triome
 1 Tidebinder Mage
+1 Raugrin Triome
 2 Phantasmal Image
 1 Thieving Skydiver
 2 Thieving Skydiver
@@ -123,6 +123,9 @@
 3 Rishadan Dockhand
 4 Rishadan Dockhand
 4 Faerie Conclave
+3 Realmwalker
+3 Noble Hierarch
+4 Noble Hierarch
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
@@ -131,6 +134,3 @@
 6 Snow-Covered Island
 7 Snow-Covered Island
 8 Snow-Covered Island
-3 Realmwalker
-3 Noble Hierarch
-4 Noble Hierarch

@@ -55,10 +55,10 @@
 3 Talisman of Progress
 1 Marsh Flats
 1 Solitude
-2 Solitude
-2 Snow-Covered Plains
 2 Marsh Flats
+2 Solitude
 2 Springleaf Drum
+2 Snow-Covered Plains
 3 Solitude
 3 Marsh Flats
 3 Darksteel Citadel
@@ -84,12 +84,12 @@
 2 Arid Mesa
 3 Teferi, Time Raveler
 4 Hallowed Fountain
-1 Thraben Inspector
 1 Ephemerate
 1 Remand
-2 Thraben Inspector
+1 Thraben Inspector
 2 Remand
 2 Ephemerate
+2 Thraben Inspector
 3 Ephemerate
 3 Thraben Inspector
 4 Thraben Inspector
@@ -99,19 +99,16 @@
 1 Glacial Fortress
 1 Academy Ruins
 2 Snow-Covered Island
+3 Emry, Lurker of the Loch
 1 Mystic Gate
 3 Plains
-3 Emry, Lurker of the Loch
 4 Razortide Bridge
-2 Sacred Foundry
-3 Scalding Tarn
-4 Scalding Tarn
 1 Ragavan, Nimble Pilferer
 1 Fire/Ice
 1 Inspiring Vantage
 2 Ragavan, Nimble Pilferer
-2 Fire/Ice
 2 Inspiring Vantage
+2 Fire/Ice
 3 Ragavan, Nimble Pilferer
 3 Fire/Ice
 4 Ragavan, Nimble Pilferer
@@ -132,3 +129,6 @@
 3 Spellskite
 4 Spellskite
 4 Ensnaring Bridge
+2 Sacred Foundry
+3 Scalding Tarn
+4 Scalding Tarn

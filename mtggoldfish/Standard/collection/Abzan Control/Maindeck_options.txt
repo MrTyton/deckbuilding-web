@@ -85,13 +85,13 @@
 4 Deathcap Glade
 1 Starnheim Unleashed
 2 Starnheim Unleashed
+1 Reckoner Bankbuster
+2 Reckoner Bankbuster
 1 Paladin Class
 1 Ambitious Farmhand
 1 Adeline, Resplendent Cathar
 2 Hagra Mauling
 2 Ambitious Farmhand
-1 Reckoner Bankbuster
-2 Reckoner Bankbuster
 1 Professor Onyx
 2 Infernal Grasp
 1 Check for Traps
@@ -101,12 +101,12 @@
 2 Duress
 1 Doomskar
 1 The Celestus
-1 Lunarch Veteran
 1 Eaten Alive
+1 Lunarch Veteran
 1 Esika, God of the Tree
 1 Reidane, God of the Worthy
-2 Eaten Alive
 2 Doomskar
+2 Eaten Alive
 2 Lunarch Veteran
 2 Cave of the Frost Dragon
 3 Eaten Alive
@@ -117,24 +117,6 @@
 3 Overgrown Farmland
 4 Prosperous Innkeeper
 4 The Wandering Emperor
-1 Binding the Old Gods
-1 Spirited Companion
-1 Ranger Class
-1 Arctic Treeline
-1 Woodland Chasm
-1 Kami of Transience
-2 Binding the Old Gods
-2 Spirited Companion
-2 Ranger Class
-2 Kami of Transience
-2 Arctic Treeline
-3 Spirited Companion
-3 Dockside Chef
-3 Kami of Transience
-3 Binding the Old Gods
-4 Kami of Transience
-4 Dockside Chef
-4 Spirited Companion
 1 Tainted Adversary
 2 Tainted Adversary
 4 Welcoming Vampire
@@ -144,9 +126,9 @@
 1 Path of Peril
 2 Farewell
 5 Swamp
-1 Hostile Hostel
 1 Grand Master of Flowers
 1 Drizzt Do'Urden
+1 Hostile Hostel
 2 Forest
 2 Old Rutstein
 3 Forest
@@ -162,3 +144,21 @@
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
 11 Snow-Covered Swamp
+1 Binding the Old Gods
+1 Spirited Companion
+1 Ranger Class
+1 Arctic Treeline
+1 Woodland Chasm
+1 Kami of Transience
+2 Binding the Old Gods
+2 Spirited Companion
+2 Ranger Class
+2 Kami of Transience
+2 Arctic Treeline
+3 Spirited Companion
+3 Kami of Transience
+3 Dockside Chef
+3 Binding the Old Gods
+4 Kami of Transience
+4 Spirited Companion
+4 Dockside Chef

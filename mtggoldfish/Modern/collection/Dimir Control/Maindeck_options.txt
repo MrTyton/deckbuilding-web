@@ -91,11 +91,6 @@
 1 Mutavault
 2 Mutavault
 2 Mistbind Clique
-1 Opt
-1 Damnation
-2 Opt
-2 Eliminate
-3 Opt
 3 Narset, Parter of Veils
 2 Castle Vantress
 3 Castle Vantress
@@ -104,6 +99,13 @@
 1 Subtlety
 1 Heartless Act
 3 Brazen Borrower
+1 Damnation
+1 Opt
+2 Eliminate
+2 Opt
+3 Opt
+3 Shark Typhoon
+4 Shark Typhoon
 1 Murktide Regent
 1 Go for the Throat
 2 Force of Negation
@@ -112,8 +114,6 @@
 3 Creeping Tar Pit
 4 Murktide Regent
 4 Watery Grave
-3 Shark Typhoon
-4 Shark Typhoon
 1 Bloodstained Mire
 1 Unearth
 1 Dauthi Voidwalker
@@ -124,35 +124,35 @@
 3 Tourach, Dread Cantor
 3 Dauthi Voidwalker
 4 Dauthi Voidwalker
-1 Misty Rainforest
+1 Spreading Seas
+2 Spreading Seas
+3 Spreading Seas
+4 Spreading Seas
 1 Marsh Flats
 1 Moon-Circuit Hacker
-1 March of Swirling Mist
 1 Dokuchi Silencer
+1 March of Swirling Mist
 1 Ingenious Infiltrator
 1 Silver-Fur Master
 1 Changeling Outcast
 1 Faerie Seer
-2 Misty Rainforest
+1 Misty Rainforest
 2 Marsh Flats
-2 Dokuchi Silencer
 2 Moon-Circuit Hacker
+2 Dokuchi Silencer
 2 March of Swirling Mist
 2 Changeling Outcast
 2 Faerie Seer
 2 Ingenious Infiltrator
 2 Silver-Fur Master
-3 Moon-Circuit Hacker
+2 Misty Rainforest
 3 Misty Rainforest
+3 Moon-Circuit Hacker
 3 Ingenious Infiltrator
 3 Changeling Outcast
 3 Faerie Seer
-4 Moon-Circuit Hacker
+4 Misty Rainforest
 4 Changeling Outcast
 4 Ingenious Infiltrator
-4 Misty Rainforest
 4 Faerie Seer
-1 Spreading Seas
-2 Spreading Seas
-3 Spreading Seas
-4 Spreading Seas
+4 Moon-Circuit Hacker

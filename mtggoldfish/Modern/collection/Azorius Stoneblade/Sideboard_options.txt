@@ -18,8 +18,8 @@
 2 Sanctifier en-Vec
 1 Fracturing Gust
 1 Damping Sphere
-2 Damping Sphere
 2 Fracturing Gust
+2 Damping Sphere
 3 Dovin's Veto
 1 Timely Reinforcements
 1 Ashiok, Dream Render
@@ -39,22 +39,22 @@
 4 Rest in Peace
 4 Dovin's Veto
 1 Mystical Dispute
-1 Shatterstorm
 1 Stony Silence
+1 Shatterstorm
 1 Dress Down
 1 Force of Vigor
-1 Endurance
-1 On Thin Ice
 1 Batterskull
-2 Endurance
+1 On Thin Ice
+1 Endurance
 2 On Thin Ice
+2 Endurance
 2 Force of Vigor
 1 Sword of Fire and Ice
 1 Kataki, War's Wage
 3 Flusterstorm
 1 Spreading Seas
-2 Spreading Seas
 2 Kataki, War's Wage
+2 Spreading Seas
 3 Spreading Seas
 4 Spreading Seas
 2 Dress Down
@@ -70,22 +70,21 @@
 2 Thoughtseize
 1 Vindicate
 1 Gideon of the Trials
-1 Prismatic Ending
-2 Solitude
-2 Lightning Helix
-2 Cleansing Wildfire
-1 Kaldra Compleat
-1 Isolate
-2 Isolate
 1 Collector Ouphe
 1 Sword of War and Peace
 2 Collector Ouphe
 2 Knight of Autumn
+2 Cleansing Wildfire
+2 Lightning Helix
 1 Geist of Saint Traft
 1 Soul-Guide Lantern
 2 Void Mirror
 2 Soul-Guide Lantern
-3 Endurance
+1 Kaldra Compleat
+1 Isolate
+2 Isolate
+1 Prismatic Ending
+2 Solitude
 1 Kaya's Guile
 1 Kaya, Orzhov Usurper
 1 Unmoored Ego
@@ -94,9 +93,10 @@
 1 Thieving Skydiver
 1 Izzet Staticaster
 1 Counterspell
-2 Counterspell
 2 Izzet Staticaster
+2 Counterspell
 3 Alpine Moon
+3 Endurance
 1 Obsidian Charmaw
 1 Leyline of Sanctity
 2 Obsidian Charmaw
@@ -110,8 +110,8 @@
 4 Chalice of the Void
 2 Ashiok, Dream Render
 4 Shark Typhoon
-1 Yorion, Sky Nomad
 1 Magus of the Moon
+1 Yorion, Sky Nomad
 1 Relic of Progenitus
 3 Veil of Summer
 4 Veil of Summer
