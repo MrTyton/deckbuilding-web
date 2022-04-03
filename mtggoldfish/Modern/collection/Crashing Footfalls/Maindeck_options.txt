@@ -1,18 +1,13 @@
-1 Snow-Covered Forest
-1 Snow-Covered Island
-1 Snow-Covered Mountain
-2 Snow-Covered Island
-1 Endurance
+1 Island
+1 Forest
+1 Mountain
+2 Island
 1 Flooded Strand
 2 Flooded Strand
-1 Blood Moon
-2 Blood Moon
-3 Blood Moon
-2 Steam Vents
+2 Forest
+1 Endurance
 1 Windswept Heath
 2 Windswept Heath
-1 Waterlogged Grove
-2 Endurance
 1 Raugrin Triome
 1 Temple Garden
 1 Sacred Foundry
@@ -23,14 +18,19 @@
 3 Windswept Heath
 3 Ardent Plea
 4 Ardent Plea
-2 Forest
+1 Subtlety
+2 Subtlety
+1 Blood Moon
+2 Blood Moon
+3 Blood Moon
+2 Steam Vents
 1 Seasoned Pyromancer
 1 Solitude
+1 Plains
 1 Teferi, Time Raveler
 1 Reflecting Pool
 1 Knight of Autumn
 1 Omnath, Locus of Creation
-1 Plains
 2 Solitude
 2 Teferi, Time Raveler
 2 Knight of Autumn
@@ -42,6 +42,13 @@
 4 Teferi, Time Raveler
 4 Windswept Heath
 4 Omnath, Locus of Creation
+1 Waterlogged Grove
+2 Endurance
+4 Bonecrusher Giant
+2 Seasoned Pyromancer
+3 Seasoned Pyromancer
+1 Magus of the Moon
+2 Magus of the Moon
 1 Foundation Breaker
 1 Ashiok, Dream Render
 1 Mystical Dispute
@@ -53,22 +60,12 @@
 2 Mystical Dispute
 3 Mystical Dispute
 4 Mystical Dispute
-2 Snow-Covered Forest
-1 Subtlety
-2 Subtlety
-4 Bonecrusher Giant
-2 Seasoned Pyromancer
-3 Seasoned Pyromancer
-1 Fiery Islet
-1 Magus of the Moon
-2 Magus of the Moon
 1 Repudiate/Replicate
-2 Breeding Pool
 1 Valakut Awakening
 2 Otawara, Soaring City
-1 Nightpack Ambusher
-2 Repudiate/Replicate
-2 Nightpack Ambusher
+2 Snow-Covered Forest
+2 Breeding Pool
+1 Fiery Islet
 3 Magus of the Moon
 1 Snow-Covered Plains
 2 Boseiju, Who Endures

@@ -1,33 +1,30 @@
-1 Twinshot Sniper
-6 Mountain
-7 Mountain
-1 Wooded Foothills
-1 Plateau
-3 Mox Opal
-1 Arid Mesa
-4 Lightning Bolt
-2 Red Elemental Blast
-3 Imperial Recruiter
-2 Wooded Foothills
 1 Bloodstained Mire
-2 Plateau
-1 Retrofitter Foundry
-1 Simian Spirit Guide
-1 Portable Hole
-1 Experimental Synthesizer
-2 Experimental Synthesizer
-3 Experimental Synthesizer
-8 Mountain
-1 Wurmcoil Engine
-2 Arid Mesa
+1 Ethersworn Canonist
+2 Wooded Foothills
+2 Red Elemental Blast
 1 Once Upon a Time
 1 Taiga
 2 Once Upon a Time
 3 Once Upon a Time
 4 Once Upon a Time
-1 Ichor Wellspring
+1 Arid Mesa
+5 Mountain
+1 Simian Spirit Guide
+3 Mox Opal
+1 Plateau
+6 Mountain
+7 Mountain
+3 Imperial Recruiter
+1 Experimental Synthesizer
+2 Bloodstained Mire
+4 Lightning Bolt
+8 Mountain
+1 Portable Hole
+2 Plateau
+2 Experimental Synthesizer
+3 Experimental Synthesizer
 1 Shadowspear
-4 Experimental Synthesizer
+2 Arid Mesa
 4 Mox Opal
 1 Emry, Lurker of the Loch
 2 Emry, Lurker of the Loch
@@ -49,10 +46,10 @@
 1 Mishra's Bauble
 2 Island
 2 Otawara, Soaring City
+2 Mishra's Bauble
 2 Urza's Bauble
 2 Kappa Cannoneer
 2 Thoughtcast
-2 Mishra's Bauble
 3 Mishra's Bauble
 3 Thoughtcast
 3 Seat of the Synod
@@ -63,35 +60,24 @@
 4 Urza's Bauble
 4 Seat of the Synod
 4 Thoughtcast
-2 Bloodstained Mire
-2 Lion's Eye Diamond
+2 Taiga
+1 Wurmcoil Engine
+1 Ichor Wellspring
+4 Experimental Synthesizer
 1 Bolas's Citadel
 2 Simian Spirit Guide
-2 Thought Monitor
 1 Plains
+1 Retrofitter Foundry
 1 Oswald Fiddlebender
-2 Oswald Fiddlebender
-9 Mountain
-2 Taiga
-3 Simian Spirit Guide
-3 Lion's Eye Diamond
-2 Breya's Apprentice
-2 Twinshot Sniper
-1 Chromatic Star
-2 Portable Hole
-3 Portable Hole
-3 Arid Mesa
-4 Arid Mesa
-1 Enlightened Tutor
-1 Scalding Tarn
 1 Ancient Den
+2 Oswald Fiddlebender
 2 Plains
 2 Ancient Den
 3 Oswald Fiddlebender
 3 Ancient Den
-1 Aether Vial
-2 Aether Vial
-3 Aether Vial
+1 Enlightened Tutor
+2 Portable Hole
+3 Portable Hole
 1 Lion Sash
 1 Esper Sentinel
 1 Karakas
@@ -108,35 +94,45 @@
 4 Ingenious Smith
 4 Ancient Den
 5 Plains
+2 Thought Monitor
+9 Mountain
+3 Simian Spirit Guide
+2 Lion's Eye Diamond
+1 Scalding Tarn
+2 Ethersworn Canonist
+4 Portable Hole
+6 Plains
+2 Lion Sash
+1 Aether Vial
+2 Aether Vial
+3 Aether Vial
 1 Goblin Cratermaker
-1 Pyrite Spellbomb
-3 Breya's Apprentice
+1 Swords to Plowshares
+2 Swords to Plowshares
+3 Swords to Plowshares
+3 Ethersworn Canonist
+4 Swords to Plowshares
+2 Twinshot Sniper
+1 Trinisphere
 1 Mother of Runes
-1 Crucible of Worlds
 1 Wasteland
+1 Crucible of Worlds
 2 Wasteland
 2 Mother of Runes
 3 Wasteland
 4 Wasteland
 4 Aether Vial
-6 Plains
-2 Lion Sash
-2 Ethersworn Canonist
-4 Portable Hole
+1 Chromatic Star
+2 Breya's Apprentice
+3 Arid Mesa
+4 Arid Mesa
+3 Lion's Eye Diamond
+1 Volcanic Island
 1 Smuggler's Copter
 3 City of Traitors
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
-4 Snow-Covered Mountain
-5 Snow-Covered Mountain
-6 Snow-Covered Mountain
-7 Snow-Covered Mountain
-8 Snow-Covered Mountain
-1 Volcanic Island
-1 Rustvale Bridge
-1 Roadside Reliquary
 1 Badlands
+1 Roadside Reliquary
+1 Pyrite Spellbomb
 1 Tangle Wire
 1 Eiganjo, Seat of the Empire
 2 Eiganjo, Seat of the Empire
@@ -147,40 +143,41 @@
 1 Cavern of Souls
 2 Cavern of Souls
 3 Bloodstained Mire
+3 Breya's Apprentice
 4 Bloodstained Mire
 1 Welding Jar
 2 Enlightened Tutor
 3 Wooded Foothills
 3 Red Elemental Blast
 4 Wooded Foothills
-1 Blood Moon
-1 Sundering Titan
-1 Dire Fleet Daredevil
-1 Chandra, Torch of Defiance
-1 Anje's Ravager
-2 Chandra, Torch of Defiance
-2 Ensnaring Bridge
-2 Blood Moon
-2 Smuggler's Copter
-3 Blood Moon
-4 Imperial Recruiter
 1 Punishing Fire
 1 Grove of the Burnwillows
 2 Punishing Fire
 2 Grove of the Burnwillows
 3 Grove of the Burnwillows
 4 Grove of the Burnwillows
-1 Swords to Plowshares
-2 Swords to Plowshares
-3 Swords to Plowshares
-3 Ethersworn Canonist
-4 Swords to Plowshares
-1 Trinisphere
 4 City of Traitors
 4 Grindstone
 7 Plains
-9 Snow-Covered Mountain
-10 Snow-Covered Mountain
+1 Blood Moon
+1 Sundering Titan
+1 Snow-Covered Mountain
+1 Dire Fleet Daredevil
+1 Chandra, Torch of Defiance
+1 Anje's Ravager
+2 Chandra, Torch of Defiance
+2 Snow-Covered Mountain
+2 Ensnaring Bridge
+2 Blood Moon
+2 Smuggler's Copter
+3 Snow-Covered Mountain
+3 Blood Moon
+4 Snow-Covered Mountain
+4 Imperial Recruiter
+5 Snow-Covered Mountain
+6 Snow-Covered Mountain
+7 Snow-Covered Mountain
+8 Snow-Covered Mountain
 1 Tundra
 1 Brainstorm
 1 Teferi, Time Raveler

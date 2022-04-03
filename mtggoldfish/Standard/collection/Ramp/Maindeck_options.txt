@@ -5,8 +5,8 @@
 3 Yasharn, Implacable Earth
 2 Katilda, Dawnhart Prime
 6 Forest
-1 Portable Hole
 1 Invoke the Ancients
+1 Portable Hole
 1 Guardian of Faith
 2 Portable Hole
 5 Plains
@@ -43,21 +43,21 @@
 2 Field of Ruin
 3 Ao, the Dawn Sky
 2 Felidar Retreat
-1 The Celestus
-1 Ashaya, Soul of the Wild
-1 Ondu Inversion
 1 Crawling Barrens
+1 Ashaya, Soul of the Wild
+1 The Celestus
+1 Ondu Inversion
 1 Druid Class
 2 The Celestus
 2 Ashaya, Soul of the Wild
 2 Crawling Barrens
 2 Druid Class
 2 Ondu Inversion
-3 Felidar Retreat
 3 Fateful Absence
 3 Ashaya, Soul of the Wild
 3 Ondu Inversion
 3 Druid Class
+3 Felidar Retreat
 4 Ondu Inversion
 4 Felidar Retreat
 2 Careful Cultivation
@@ -68,17 +68,15 @@
 1 Elite Spellbinder
 2 Elite Spellbinder
 4 Wrenn and Seven
-1 Cleric Class
 1 Valkyrie Harbinger
-1 Blossoming Sands
 1 Priest of Ancient Lore
 1 Kor Celebrant
+1 Grand Master of Flowers
 1 Reidane, God of the Worthy
 1 Toski, Bearer of Secrets
-1 Drizzt Do'Urden
-1 Grand Master of Flowers
-1 Maja, Bretagard Protector
-1 Arctic Treeline
+1 Devouring Tendrils
+1 Celestial Unicorn
+1 Blossoming Sands
 1 Attended Healer
 1 Minimus Containment
 1 Pillardrop Rescuer
@@ -86,41 +84,43 @@
 1 Righteous Valkyrie
 1 Story Seeker
 1 Lurking Roper
+1 Maja, Bretagard Protector
+1 Cleric Class
 1 You Meet in a Tavern
-1 Celestial Unicorn
 1 Icingdeath, Frost Tyrant
+1 Arctic Treeline
 1 Fortifying Draught
 1 The Tarrasque
-1 Devouring Tendrils
 1 Trelasarra, Moon Dancer
+1 Drizzt Do'Urden
 1 Inscription of Abundance
-2 Cleric Class
 2 Priest of Ancient Lore
-2 Blossoming Sands
 2 Kor Celebrant
-2 Arctic Treeline
+2 Celestial Unicorn
 2 Devouring Tendrils
+2 Blossoming Sands
+2 Cleric Class
 2 You Meet in a Tavern
 2 Fortifying Draught
 2 Lurking Roper
-2 Celestial Unicorn
 2 Trelasarra, Moon Dancer
+2 Arctic Treeline
 2 Story Seeker
 2 Minimus Containment
 3 Devouring Tendrils
+3 Blossoming Sands
 3 Minimus Containment
 3 Kor Celebrant
 3 Trelasarra, Moon Dancer
-3 Blossoming Sands
 3 Priest of Ancient Lore
 3 Arctic Treeline
-4 Arctic Treeline
 4 Blossoming Sands
+4 Arctic Treeline
 4 Priest of Ancient Lore
 7 Forest
 7 Plains
-8 Plains
 8 Forest
+8 Plains
 9 Forest
 9 Plains
 10 Plains
@@ -129,11 +129,11 @@
 2 Valorous Stance
 1 Circle of Confinement
 2 Circle of Confinement
-2 Legion Angel
 1 Kura, the Boundless Sky
 1 In Search of Greatness
-2 In Search of Greatness
 2 Kura, the Boundless Sky
+2 In Search of Greatness
+2 Legion Angel
 3 Borrowed Time
 3 Elite Spellbinder
 1 Shigeki, Jukai Visionary

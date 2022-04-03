@@ -2,8 +2,8 @@
 2 Crypt Incursion
 5 Island
 1 Counterspell
-1 Snow-Covered Swamp
 1 Snow-Covered Island
+1 Snow-Covered Swamp
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
@@ -99,10 +99,6 @@
 4 Surgical Extraction
 4 Prismatic Vista
 4 Counterspell
-1 Merfolk Secretkeeper
-2 Merfolk Secretkeeper
-3 Merfolk Secretkeeper
-4 Merfolk Secretkeeper
 1 Castle Vantress
 1 Test of Talents
 1 Into the Roil
@@ -110,10 +106,14 @@
 1 Whiplash Trap
 2 Castle Vantress
 2 Test of Talents
+2 Into the Roil
 2 Trapmaker's Snare
 2 Whiplash Trap
-2 Into the Roil
 3 Trapmaker's Snare
 3 Mission Briefing
 4 Trapmaker's Snare
 7 Island
+1 Merfolk Secretkeeper
+2 Merfolk Secretkeeper
+3 Merfolk Secretkeeper
+4 Merfolk Secretkeeper

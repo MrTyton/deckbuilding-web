@@ -1,26 +1,27 @@
+3 Living Wish
+3 Aluren
+1 Scavenging Ooze
+2 Forest
+1 Thoughtseize
+3 Snow-Covered Forest
+1 Force of Will
 2 Force of Will
 3 Snow-Covered Island
 3 Force of Will
 4 Force of Will
-3 Uro, Titan of Nature's Wrath
-1 Endurance
-1 Thoughtseize
-2 Forest
-2 Acererak the Archlich
-4 Aluren
 1 Chain of Smog
 2 Swamp
 3 Forest
-1 Assassin's Trophy
+2 Acererak the Archlich
+4 Aluren
 1 Witherbloom Apprentice
 2 Witherbloom Apprentice
 2 Chain of Smog
-2 Pernicious Deed
 2 Assassin's Trophy
-1 Scavenging Ooze
 1 Windswept Heath
 2 Thoughtseize
 1 Questing Beast
+1 Tireless Tracker
 1 Diabolic Intent
 3 Chain of Smog
 1 Spellseeker
@@ -29,10 +30,11 @@
 3 Swamp
 4 Forest
 4 Chain of Smog
-1 Tireless Tracker
+1 Polluted Delta
+2 Tropical Island
 2 Sylvan Library
-1 Karakas
 1 Village Rites
+1 Karakas
 2 Windswept Heath
 2 Endurance
 1 Meren of Clan Nel Toth
@@ -44,6 +46,7 @@
 1 Cavern of Souls
 2 Cavern of Souls
 2 Spellseeker
+1 Wasteland
 2 Village Rites
 1 Eternal Witness
 2 Phyrexian Tower
@@ -56,15 +59,14 @@
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 4 Karn, the Great Creator
+2 Polluted Delta
 3 Endurance
-1 Polluted Delta
-2 Tropical Island
 4 Ice-Fang Coatl
 1 Prismatic Vista
 2 Prismatic Vista
+1 Titania, Protector of Argoth
 3 Bayou
 4 Bayou
-1 Titania, Protector of Argoth
 3 Abrupt Decay
 3 Windswept Heath
 1 Plains
@@ -74,7 +76,6 @@
 3 Assassin's Trophy
 4 Arena Rector
 2 Snow-Covered Swamp
-1 Wasteland
 4 Endurance
 1 Sylvan Safekeeper
 1 Opposition Agent
@@ -85,18 +86,19 @@
 3 Opposition Agent
 1 Bojuka Bog
 1 Crop Rotation
+1 Cavern Harpy
 1 Ancient Tomb
 2 Ancient Tomb
-1 Cavern Harpy
-2 Polluted Delta
 1 Yavimaya, Cradle of Growth
 1 Veil of Summer
 2 Veil of Summer
 3 Thoughtseize
+3 Pernicious Deed
 5 Forest
 2 Professor Onyx
 2 Plains
 1 Karn Liberated
+1 Field of the Dead
 1 Badlands
 1 Greater Gargadon
 1 Sarkhan Vol
@@ -106,11 +108,19 @@
 2 Once Upon a Time
 4 Snow-Covered Forest
 1 Liliana, the Last Hope
+1 Outland Liberator
 1 Baleful Strix
-1 Bone Shards
 1 Unearth
+1 Bone Shards
 1 Paradox Zone
 2 Bone Shards
+1 Jace, the Mind Sculptor
+1 Witherbloom Command
+1 Primeval Titan
+1 Island
+1 Vivien Reid
+1 Life from the Loam
+2 Witherbloom Command
 1 Koma, Cosmos Serpent
 1 Xanathar, Guild Kingpin
 1 Carnage Tyrant
@@ -118,8 +128,14 @@
 1 The Scarab God
 2 Leovold, Emissary of Trest
 2 Allosaurus Shepherd
-1 Valki, God of Lies
+1 Abundant Harvest
+1 Fatal Push
+2 Underground Sea
+2 Abundant Harvest
+2 Fatal Push
+3 Abundant Harvest
 1 Mayhem Devil
+1 Valki, God of Lies
 1 Masked Vandal
 1 Juri, Master of the Revue
 1 The Meathook Massacre
@@ -128,12 +144,6 @@
 2 Titania, Protector of Argoth
 2 The Meathook Massacre
 3 Mayhem Devil
-1 Abundant Harvest
-1 Fatal Push
-2 Underground Sea
-2 Abundant Harvest
-2 Fatal Push
-3 Abundant Harvest
 1 Elder Gargaroth
 1 Shifting Ceratops
 1 Plague Engineer
@@ -155,17 +165,15 @@
 1 Archon of Valor's Reach
 2 Path to Exile
 3 Path to Exile
-2 Cavern Harpy
-3 Polluted Delta
-1 Outland Liberator
-3 Pernicious Deed
+1 Plumb the Forbidden
 1 Blex, Vexing Pest
 1 Sedgemoor Witch
-1 Plumb the Forbidden
-2 Sedgemoor Witch
 2 Plumb the Forbidden
+2 Sedgemoor Witch
 3 Sedgemoor Witch
 3 Plumb the Forbidden
+2 Cavern Harpy
+3 Polluted Delta
 1 Nicol Bolas, Planeswalker
 1 Marsh Flats
 1 Carth the Lion
@@ -176,7 +184,6 @@
 1 Mountain
 1 Terror of the Peaks
 1 Klothys, God of Destiny
-1 Field of the Dead
 1 Dauthi Voidwalker
 1 Vivien, Monsters' Advocate
 1 Ruination Rioter
@@ -185,15 +192,19 @@
 2 Dauthi Voidwalker
 3 Wooded Foothills
 4 Greater Gargadon
+1 Grand Abolisher
+2 Grand Abolisher
+3 Cavern of Souls
+4 Cavern of Souls
 1 Urborg, Tomb of Yawgmoth
 5 Swamp
-1 Canopy Vista
 1 Dead of Winter
 1 Overgrown Tomb
 1 Duress
 1 Kaya, Orzhov Usurper
 1 Snow-Covered Plains
 1 Garruk, Cursed Huntsman
+1 Canopy Vista
 1 Fiend Artisan
 2 Duress
 2 Dead of Winter
@@ -202,7 +213,3 @@
 2 Snow-Covered Plains
 3 Snow-Covered Swamp
 5 Snow-Covered Forest
-1 Grand Abolisher
-2 Grand Abolisher
-3 Cavern of Souls
-4 Cavern of Souls
