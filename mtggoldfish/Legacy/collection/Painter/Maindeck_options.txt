@@ -70,11 +70,11 @@
 1 Retrofitter Foundry
 1 Oswald Fiddlebender
 1 Ancient Den
-2 Oswald Fiddlebender
 2 Plains
+2 Oswald Fiddlebender
 2 Ancient Den
-3 Oswald Fiddlebender
 3 Ancient Den
+3 Oswald Fiddlebender
 1 Enlightened Tutor
 2 Portable Hole
 3 Portable Hole
@@ -88,11 +88,11 @@
 3 Plains
 3 Esper Sentinel
 3 Ingenious Smith
-4 Esper Sentinel
-4 Oswald Fiddlebender
-4 Plains
 4 Ingenious Smith
+4 Esper Sentinel
+4 Plains
 4 Ancient Den
+4 Oswald Fiddlebender
 5 Plains
 2 Thought Monitor
 9 Mountain
@@ -140,6 +140,12 @@
 2 Sai, Master Thopterist
 2 Chromatic Star
 3 Chromatic Star
+1 Punishing Fire
+1 Grove of the Burnwillows
+2 Punishing Fire
+2 Grove of the Burnwillows
+3 Grove of the Burnwillows
+4 Grove of the Burnwillows
 1 Cavern of Souls
 2 Cavern of Souls
 3 Bloodstained Mire
@@ -150,26 +156,20 @@
 3 Wooded Foothills
 3 Red Elemental Blast
 4 Wooded Foothills
-1 Punishing Fire
-1 Grove of the Burnwillows
-2 Punishing Fire
-2 Grove of the Burnwillows
-3 Grove of the Burnwillows
-4 Grove of the Burnwillows
 4 City of Traitors
 4 Grindstone
 7 Plains
 1 Blood Moon
 1 Sundering Titan
+1 Chandra, Torch of Defiance
 1 Snow-Covered Mountain
 1 Dire Fleet Daredevil
-1 Chandra, Torch of Defiance
 1 Anje's Ravager
-2 Chandra, Torch of Defiance
 2 Snow-Covered Mountain
 2 Ensnaring Bridge
-2 Blood Moon
 2 Smuggler's Copter
+2 Blood Moon
+2 Chandra, Torch of Defiance
 3 Snow-Covered Mountain
 3 Blood Moon
 4 Snow-Covered Mountain

@@ -1,52 +1,65 @@
 4 Prismatic Ending
 4 Solitude
-1 Shark Typhoon
 4 Teferi, Time Raveler
-1 Fact or Fiction
-2 Scalding Tarn
+1 Shark Typhoon
 1 Chalice of the Void
 1 Snow-Covered Plains
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Misty Rainforest
+1 Fact or Fiction
 3 Snow-Covered Island
-2 Jace, the Mind Sculptor
 1 Glacial Fortress
+2 Scalding Tarn
+2 Jace, the Mind Sculptor
+4 Misty Rainforest
+2 Celestial Colonnade
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
 1 Force of Negation
-2 Celestial Colonnade
-2 Polluted Delta
-4 Misty Rainforest
+2 Chalice of the Void
+3 Supreme Verdict
 4 Island
+2 Polluted Delta
 1 Spreading Seas
 2 Spreading Seas
 3 Spreading Seas
 4 Spreading Seas
+2 Plains
+2 Glacial Fortress
 1 Cryptic Command
 1 Snow-Covered Forest
-2 Plains
-3 Supreme Verdict
+2 Dress Down
 4 Snow-Covered Island
-2 Chalice of the Void
-2 Glacial Fortress
 1 Field of Ruin
+1 Rimewood Falls
+1 Glacial Floodplain
 2 Breeding Pool
 1 Temple Garden
 2 Shark Typhoon
+5 Snow-Covered Island
+1 Windswept Heath
+2 Windswept Heath
 2 Force of Negation
 1 Path to Exile
 2 Field of Ruin
 2 Path to Exile
-1 Glacial Floodplain
-1 Rimewood Falls
+1 Eiganjo, Seat of the Empire
 1 Remand
 1 Abundant Growth
 2 Abundant Growth
 3 Abundant Growth
-5 Snow-Covered Island
+1 Castle Ardenvale
+4 Supreme Verdict
+3 Polluted Delta
+4 Polluted Delta
+1 Consider
+2 Consider
+3 Consider
+4 Consider
+1 Reflecting Pool
 1 Arcum's Astrolabe
 1 Uro, Titan of Nature's Wrath
 2 Snow-Covered Forest
@@ -57,9 +70,42 @@
 3 Arcum's Astrolabe
 4 Path to Exile
 4 Arcum's Astrolabe
-1 Windswept Heath
-2 Windswept Heath
+2 Snow-Covered Plains
+3 Field of Ruin
 1 Hinterland Harbor
+2 Otawara, Soaring City
+1 Flooded Grove
+1 Boseiju, Who Endures
+1 Prismatic Vista
+4 March of Otherworldly Light
+4 Abundant Growth
+1 Wall of Omens
+1 Restoration Angel
+1 On Thin Ice
+1 Yorion, Sky Nomad
+1 Barrin, Tolarian Archmage
+1 Jolrael, Mwonvuli Recluse
+1 Venser, Shaper Savant
+1 Niambi, Esteemed Speaker
+2 Restoration Angel
+2 Wall of Omens
+2 On Thin Ice
+2 Venser, Shaper Savant
+2 Yorion, Sky Nomad
+2 Jolrael, Mwonvuli Recluse
+2 Barrin, Tolarian Archmage
+2 Niambi, Esteemed Speaker
+3 Windswept Heath
+3 Wall of Omens
+3 On Thin Ice
+3 Restoration Angel
+3 Celestial Colonnade
+3 Jolrael, Mwonvuli Recluse
+4 Windswept Heath
+4 Field of Ruin
+4 Force of Negation
+4 Wall of Omens
+4 On Thin Ice
 1 Hour of Promise
 1 Prairie Stream
 1 Time Warp
@@ -79,56 +125,10 @@
 3 Uro, Titan of Nature's Wrath
 4 Shark Typhoon
 4 Uro, Titan of Nature's Wrath
-2 Dress Down
-1 Eiganjo, Seat of the Empire
-1 Castle Ardenvale
-4 Supreme Verdict
-3 Polluted Delta
-4 Polluted Delta
-1 Consider
-2 Consider
-3 Consider
-4 Consider
-1 Reflecting Pool
-2 Snow-Covered Plains
-3 Field of Ruin
-2 Otawara, Soaring City
-1 Boseiju, Who Endures
-1 Prismatic Vista
-1 Flooded Grove
-4 March of Otherworldly Light
-4 Abundant Growth
-1 Wall of Omens
-1 Restoration Angel
-1 On Thin Ice
-1 Yorion, Sky Nomad
-1 Barrin, Tolarian Archmage
-1 Jolrael, Mwonvuli Recluse
-1 Venser, Shaper Savant
-1 Niambi, Esteemed Speaker
-2 Wall of Omens
-2 Restoration Angel
-2 On Thin Ice
-2 Venser, Shaper Savant
-2 Yorion, Sky Nomad
-2 Jolrael, Mwonvuli Recluse
-2 Barrin, Tolarian Archmage
-2 Niambi, Esteemed Speaker
-3 Windswept Heath
-3 Wall of Omens
-3 On Thin Ice
-3 Restoration Angel
-3 Celestial Colonnade
-3 Jolrael, Mwonvuli Recluse
-4 Windswept Heath
-4 Field of Ruin
-4 Force of Negation
-4 Wall of Omens
-4 On Thin Ice
 1 Growth Spiral
-1 Ojutai's Command
 1 Timely Reinforcements
 1 Absorb
+1 Ojutai's Command
 2 Growth Spiral
 4 Snapcaster Mage
 6 Snow-Covered Island
@@ -138,36 +138,36 @@
 2 Hall of Storm Giants
 3 Scalding Tarn
 3 Chalice of the Void
-1 Tireless Tracker
-1 Ardent Plea
-1 Glimpse of Tomorrow
 1 Shardless Agent
+1 Tireless Tracker
+1 Glimpse of Tomorrow
+1 Ardent Plea
 1 Khalni Garden
 1 Omniscience
 1 Endurance
 1 Gemstone Caverns
 1 Tireless Provisioner
 1 Emrakul, the Aeons Torn
-2 Ardent Plea
-2 Gemstone Caverns
-2 Khalni Garden
 2 Shardless Agent
+2 Khalni Garden
 2 Glimpse of Tomorrow
+2 Gemstone Caverns
+2 Ardent Plea
 2 Omniscience
 2 Tireless Tracker
 2 Endurance
 2 Tireless Provisioner
+3 Shardless Agent
 3 Ardent Plea
 3 Glimpse of Tomorrow
-3 Shardless Agent
-3 Otawara, Soaring City
 3 Khalni Garden
+3 Otawara, Soaring City
 3 Omniscience
-3 Tireless Provisioner
 3 Tireless Tracker
+3 Tireless Provisioner
+4 Shardless Agent
 4 Ardent Plea
 4 Khalni Garden
-4 Shardless Agent
 4 Omniscience
 4 Tireless Provisioner
 1 Azorius Chancery
@@ -178,6 +178,6 @@
 4 Frantic Inventory
 1 Spell Snare
 3 Glacial Fortress
+4 Glacial Fortress
 5 Island
 6 Island
-4 Glacial Fortress

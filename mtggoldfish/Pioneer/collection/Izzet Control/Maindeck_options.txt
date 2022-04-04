@@ -1,6 +1,6 @@
+3 Stormcarved Coast
 1 Sokenzan, Crucible of Defiance
 2 Brazen Borrower
-3 Stormcarved Coast
 4 Island
 1 Izzet Charm
 1 Chart a Course
@@ -8,9 +8,9 @@
 1 Lightning Axe
 1 Galvanic Iteration
 1 Temporal Trespass
+2 Chart a Course
 2 Arclight Phoenix
 2 Lightning Axe
-2 Chart a Course
 3 Arclight Phoenix
 3 Lightning Axe
 4 Lightning Axe
@@ -19,6 +19,7 @@
 2 Crackling Drake
 2 Sulfur Falls
 1 Negate
+4 Stormcarved Coast
 3 Sulfur Falls
 1 Kazuul's Fury
 1 Play with Fire
@@ -32,12 +33,13 @@
 1 Mizzium Mortars
 2 Censor
 3 Censor
-4 Stormcarved Coast
 1 Blink of an Eye
 2 Blink of an Eye
 1 Pieces of the Puzzle
 2 Pieces of the Puzzle
 3 Pieces of the Puzzle
+1 Bonecrusher Giant
+2 Bonecrusher Giant
 1 Magma Opus
 1 Torrential Gearhulk
 2 Magma Opus
@@ -64,8 +66,6 @@
 1 Spikefield Hazard
 1 Fry
 2 Fry
-1 Bonecrusher Giant
-2 Bonecrusher Giant
 1 Raugrin Triome
 1 Burn Down the House
 1 Counterflux
@@ -76,6 +76,8 @@
 2 Counterflux
 3 Shark Typhoon
 3 Counterflux
+2 Negate
+3 Bonecrusher Giant
 1 Quicken
 2 Quicken
 3 Quicken

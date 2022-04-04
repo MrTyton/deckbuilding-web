@@ -99,6 +99,7 @@
 1 Cathartic Pyre
 1 Drana, the Last Bloodchief
 1 Forest
+1 Howlpack Piper
 1 Tangled Florahedron
 1 Evolving Wilds
 1 The Celestus
@@ -106,9 +107,8 @@
 1 Olivia, Crimson Bride
 1 Inferno of the Star Mounts
 1 Vorinclex, Monstrous Raider
-1 Dryad's Revival
 1 Old Gnawbone
-1 Howlpack Piper
+1 Dryad's Revival
 1 Bloodchief's Thirst
 1 The World Tree
 1 Cinderclasm
@@ -119,16 +119,16 @@
 2 Tangled Florahedron
 2 Olivia, Crimson Bride
 2 Bloodchief's Thirst
+2 Forest
 2 Cathartic Pyre
 2 The Celestus
 2 Mulch
-2 Forest
-3 Forest
 3 Prosperous Innkeeper
 3 Howlpack Piper
-3 Olivia, Crimson Bride
 3 Cathartic Pyre
+3 Olivia, Crimson Bride
 3 Swamp
+3 Forest
 3 Mulch
 4 Prosperous Innkeeper
 4 Forest
@@ -136,9 +136,9 @@
 4 Mulch
 5 Mountain
 5 Forest
+1 Baleful Mastery
 1 Snow-Covered Swamp
 1 Blood on the Snow
-1 Baleful Mastery
 1 Eyetwitch
 1 Fell Stinger
 1 Hero's Downfall
@@ -146,8 +146,8 @@
 1 Malakir Rebirth
 1 Snow-Covered Mountain
 2 Snow-Covered Swamp
-2 Blood on the Snow
 2 Eyetwitch
+2 Blood on the Snow
 2 Fell Stinger
 2 Snow-Covered Mountain
 2 Sulfurous Mire

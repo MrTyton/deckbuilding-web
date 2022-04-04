@@ -1,44 +1,28 @@
-1 Wasteland
-2 Wasteland
+2 Baleful Strix
+3 Baleful Strix
+4 Baleful Strix
 2 Scalding Tarn
+1 Marsh Flats
 3 Tundra
+2 Force of Negation
+1 Snow-Covered Swamp
+3 Scalding Tarn
+2 Snow-Covered Plains
+1 Lion Sash
 3 Prismatic Vista
 1 Narset, Parter of Veils
-1 Umezawa's Jitte
-1 Marsh Flats
+2 Marsh Flats
 1 Jace, the Mind Sculptor
-4 Prismatic Vista
-2 Snow-Covered Plains
-3 Scalding Tarn
-2 Force of Negation
 2 Plains
 3 Island
-1 Spell Pierce
-1 Snow-Covered Swamp
+4 Prismatic Vista
 1 Daze
 2 Daze
 3 Daze
-1 Lion Sash
-1 Back to Basics
-2 Jace, the Mind Sculptor
+2 True-Name Nemesis
 4 Island
 1 Dress Down
-2 Marsh Flats
-1 Thoughtseize
-1 Kaya, Orzhov Usurper
-1 Inquisition of Kozilek
-2 Thoughtseize
-3 Thoughtseize
-1 Misty Rainforest
-2 Misty Rainforest
-3 Misty Rainforest
-1 Brazen Borrower
-3 Snow-Covered Island
-2 True-Name Nemesis
-1 Mountain
-3 Wasteland
-4 Daze
-1 Snow-Covered Mountain
+1 Spell Pierce
 1 Solitude
 1 Plateau
 1 Recruiter of the Guard
@@ -46,8 +30,8 @@
 1 Palace Jailer
 1 Soulherder
 1 Meddling Mage
-1 Prophetic Prism
 1 Skyclave Apparition
+1 Prophetic Prism
 1 Plague Engineer
 2 Lion Sash
 2 Prophetic Prism
@@ -55,40 +39,52 @@
 3 Recruiter of the Guard
 3 Prophetic Prism
 4 Recruiter of the Guard
+1 Kaya, Orzhov Usurper
+1 Inquisition of Kozilek
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+1 Brazen Borrower
+1 Mountain
+1 Back to Basics
+2 Jace, the Mind Sculptor
+3 Wasteland
+4 Daze
+1 Misty Rainforest
+2 Misty Rainforest
+3 Misty Rainforest
+2 Volcanic Island
+3 Snow-Covered Island
 5 Island
-2 Back to Basics
-3 Jace, the Mind Sculptor
-1 Tropical Island
-4 Prismatic Ending
-4 Snow-Covered Island
 4 Scalding Tarn
-1 Murktide Regent
-2 Murktide Regent
 1 Delver of Secrets
 2 Delver of Secrets
 3 Delver of Secrets
 4 Wasteland
+1 Murktide Regent
+2 Murktide Regent
+1 Snow-Covered Mountain
+4 Prismatic Ending
 1 Otawara, Soaring City
-2 Tropical Island
+1 Tropical Island
 1 Savannah
-2 Volcanic Island
-1 Counterbalance
-1 Esper Sentinel
-2 Esper Sentinel
-3 Esper Sentinel
-4 Esper Sentinel
+2 Back to Basics
+3 Jace, the Mind Sculptor
+1 Stifle
+2 Stifle
+3 Stifle
 4 Delver of Secrets
 2 Narset, Parter of Veils
 1 Malevolent Hermit
 1 Barrin, Tolarian Archmage
-1 Uro, Titan of Nature's Wrath
-2 Uro, Titan of Nature's Wrath
-3 Tropical Island
-4 Tropical Island
+1 Venser, Shaper Savant
+4 Snow-Covered Island
+2 Tropical Island
 1 Swamp
-1 Stifle
-2 Stifle
-3 Stifle
+1 Esper Sentinel
+2 Esper Sentinel
+3 Esper Sentinel
+4 Esper Sentinel
 1 Noble Hierarch
 1 Knight of the Reliquary
 1 Progenitus
@@ -97,22 +93,24 @@
 2 Noble Hierarch
 2 Knight of the Reliquary
 2 Natural Order
+3 Tropical Island
 3 Noble Hierarch
 3 Knight of the Reliquary
+4 Tropical Island
 4 Knight of the Reliquary
 4 Noble Hierarch
-5 Snow-Covered Island
-6 Snow-Covered Island
 6 Island
+1 Counterbalance
+3 True-Name Nemesis
 1 Aether Vial
 1 Grand Abolisher
 1 Thassa's Oracle
 1 Nomads en-Kor
 1 Shuko
+1 Dread Return
 1 Narcomoeba
 1 Cabal Therapy
 1 Cavern of Souls
-1 Dread Return
 1 Cephalid Illusionist
 2 Aether Vial
 2 Cephalid Illusionist
@@ -125,8 +123,6 @@
 3 Narcomoeba
 4 Cephalid Illusionist
 2 Dress Down
-3 Uro, Titan of Nature's Wrath
-4 Misty Rainforest
 1 Arid Mesa
 2 Arid Mesa
 2 Spell Pierce
@@ -135,9 +131,11 @@
 1 Supreme Verdict
 1 Hullbreacher
 1 Snow-Covered Forest
+1 Uro, Titan of Nature's Wrath
 2 Snow-Covered Forest
-1 Venser, Shaper Savant
+2 Uro, Titan of Nature's Wrath
 2 Meddling Mage
+4 Prophetic Prism
 1 Counterspell
 1 Pyroblast
 1 Mystic Sanctuary
@@ -152,16 +150,12 @@
 2 Shorikai, Genesis Engine
 2 Grand Abolisher
 2 Cavern of Souls
-1 Life from the Loam
-1 Endurance
-2 Endurance
 3 Teferi, Time Raveler
 1 Raugrin Triome
 1 Lotus Petal
 2 Lotus Petal
 3 Murktide Regent
 3 Spell Pierce
-3 True-Name Nemesis
 1 Boseiju, Who Endures
 1 Ice-Fang Coatl
 1 Sylvan Library
@@ -171,7 +165,15 @@
 2 Ice-Fang Coatl
 3 Hullbreacher
 3 Ice-Fang Coatl
+4 Stifle
+1 Life from the Loam
+1 Endurance
+2 Endurance
+3 Uro, Titan of Nature's Wrath
+4 Misty Rainforest
 4 Nomads en-Kor
+5 Snow-Covered Island
+6 Snow-Covered Island
 1 Fire/Ice
 2 Flusterstorm
 2 Fire/Ice
