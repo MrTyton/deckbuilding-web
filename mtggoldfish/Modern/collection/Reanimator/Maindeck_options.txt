@@ -4,18 +4,22 @@
 4 Polluted Delta
 4 Thoughtseize
 2 Hallowed Fountain
-1 Serra's Emissary
 4 Prismatic Ending
+1 Serra's Emissary
 3 Mulldrifter
 2 Swamp
 3 Godless Shrine
 1 Urborg, Tomb of Yawgmoth
 1 Glacial Fortress
-1 March of Otherworldly Light
 2 Priest of Fell Rites
+1 March of Otherworldly Light
 3 Priest of Fell Rites
 1 Overgrown Tomb
 1 Inquisition of Kozilek
+1 Bloodstained Mire
+2 Bloodstained Mire
+1 Savai Triome
+1 Blood Crypt
 2 Inquisition of Kozilek
 1 Flagstones of Trokair
 1 Smallpox
@@ -30,35 +34,40 @@
 3 Smallpox
 4 Smallpox
 4 Flagstones of Trokair
-1 Bloodstained Mire
-2 Bloodstained Mire
-1 Savai Triome
-1 Blood Crypt
+1 Sacred Foundry
 2 March of Otherworldly Light
+1 Silent Clearing
+3 Bloodstained Mire
+1 Malakir Rebirth
+1 Bone Shards
+2 Bone Shards
 4 Priest of Fell Rites
 1 Arid Mesa
-1 Sacred Foundry
+1 Kroxa, Titan of Death's Hunger
+1 Seasoned Pyromancer
+2 Blood Crypt
+2 Seasoned Pyromancer
+4 Bloodstained Mire
 1 Fatal Push
 2 Fatal Push
 3 Fetid Heath
 4 Mulldrifter
 4 Concealed Courtyard
-1 Darkblast
 1 Prismari Command
 1 Steam Vents
 1 Raugrin Triome
 2 Prismari Command
-1 Otawara, Soaring City
+1 Darkblast
 1 Isolated Chapel
-3 Bloodstained Mire
+1 Otawara, Soaring City
 2 Arid Mesa
 1 Scalding Tarn
 1 Ketria Triome
 1 Indomitable Creativity
 1 Wooded Foothills
 1 Wrenn and Six
-1 Stomping Ground
 1 Dwarven Mine
+1 Stomping Ground
 2 Scalding Tarn
 2 Wooded Foothills
 2 Wrenn and Six
@@ -66,27 +75,23 @@
 2 Indomitable Creativity
 3 Scalding Tarn
 3 Prismari Command
+3 Indomitable Creativity
 3 Wooded Foothills
 3 Wrenn and Six
 3 Dwarven Mine
-3 Indomitable Creativity
 4 Scalding Tarn
 4 Teferi, Time Raveler
 4 Prismari Command
 4 Indomitable Creativity
 4 Wrenn and Six
-1 Silent Clearing
 2 Unburial Rites
-4 Bloodstained Mire
-1 Malakir Rebirth
-1 Bone Shards
-2 Bone Shards
+1 Kolaghan's Command
+1 Mountain
+1 Fury
+1 Sunbaked Canyon
+3 Seasoned Pyromancer
 3 Swamp
-1 Kroxa, Titan of Death's Hunger
-1 Seasoned Pyromancer
 2 Kroxa, Titan of Death's Hunger
-2 Blood Crypt
-2 Seasoned Pyromancer
 3 Blood Crypt
 1 Thirst for Discovery
 1 Kaito Shizuki
@@ -130,6 +135,11 @@
 2 Consider
 3 Consider
 4 Consider
+1 Blackcleave Cliffs
+2 Silent Clearing
+2 Blackcleave Cliffs
+3 Blackcleave Cliffs
+4 Seasoned Pyromancer
 1 Pithing Needle
 1 The Underworld Cookbook
 1 Ovalchase Daredevil
@@ -156,16 +166,13 @@
 1 Takenuma, Abandoned Mire
 1 Touch the Spirit Realm
 1 Akroma, Angel of Fury
-1 Fury
 1 Stitcher's Supplier
 1 Lightning Helix
-1 Sunbaked Canyon
 2 Stitcher's Supplier
 2 Sacred Foundry
 2 Sunbaked Canyon
 2 Fury
 2 Lightning Helix
-3 Seasoned Pyromancer
 3 Lightning Helix
 3 Fury
 3 Stitcher's Supplier
@@ -177,8 +184,6 @@
 1 Castle Locthwain
 1 Giver of Runes
 1 Iona, Shield of Emeria
-1 Kolaghan's Command
-1 Mountain
 1 Cavern of Souls
 1 Cathartic Reunion
 2 Kolaghan's Command

@@ -1,7 +1,7 @@
 1 Hallowed Fountain
 4 Unholy Heat
-3 Flooded Strand
 1 Otawara, Soaring City
+3 Flooded Strand
 4 Flooded Strand
 3 Arid Mesa
 1 Prismatic Ending
@@ -21,6 +21,8 @@
 1 Pithing Needle
 2 Teferi, Time Raveler
 1 Chromatic Star
+1 Polluted Delta
+2 Polluted Delta
 3 Lightning Bolt
 1 Experimental Synthesizer
 2 Experimental Synthesizer
@@ -39,8 +41,6 @@
 1 The Reality Chip
 1 Misty Rainforest
 2 The Reality Chip
-1 Polluted Delta
-2 Polluted Delta
 1 Seachrome Coast
 1 Urza, Lord High Artificer
 1 Metallic Rebuke
@@ -80,5 +80,7 @@
 1 Bloodstained Mire
 2 Bloodstained Mire
 4 Steam Vents
+3 Polluted Delta
+4 Polluted Delta
 1 Manamorphose
 4 Grinding Station

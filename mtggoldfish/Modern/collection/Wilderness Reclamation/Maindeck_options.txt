@@ -1,10 +1,10 @@
-1 Fire/Ice
-2 Fire/Ice
+2 Snow-Covered Island
+3 Snow-Covered Island
 3 Fire/Ice
 1 Cryptic Command
+1 Hallowed Fountain
 2 Breeding Pool
 4 Fire/Ice
-1 Hallowed Fountain
 4 Island
 4 Snow-Covered Island
 1 Flooded Strand
@@ -12,18 +12,18 @@
 1 Snow-Covered Forest
 1 Unholy Heat
 2 Unholy Heat
-3 Flooded Strand
-2 Reflecting Pool
-1 Wooded Foothills
-2 Cryptic Command
-4 Flooded Strand
+1 Forest
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
-1 Forest
-1 Ice-Fang Coatl
-3 Unholy Heat
+3 Flooded Strand
+2 Reflecting Pool
 1 Hall of Storm Giants
+1 Wooded Foothills
 3 Teferi, Time Raveler
+4 Flooded Strand
+2 Cryptic Command
+3 Unholy Heat
+1 Ice-Fang Coatl
 1 Prismatic Ending
 2 Prismatic Ending
 2 Ice-Fang Coatl
@@ -31,6 +31,8 @@
 1 Plains
 2 Hallowed Fountain
 3 Prismatic Ending
+1 Expansion/Explosion
+1 Otawara, Soaring City
 1 Temple Garden
 1 Solitude
 2 Solitude
@@ -39,9 +41,9 @@
 4 Ketria Triome
 4 Snapcaster Mage
 1 Flooded Grove
-1 Otawara, Soaring City
-1 Expansion/Explosion
+1 Boseiju, Who Endures
 4 Solitude
+1 Hullbreaker Horror
 3 Cryptic Command
 1 Zagoth Triome
 1 Watery Grave
@@ -58,6 +60,7 @@
 2 Polluted Delta
 3 Fatal Push
 3 Polluted Delta
+1 Jace, the Mind Sculptor
 1 Creeping Tar Pit
 1 Snow-Covered Swamp
 1 Pulse of Murasa
@@ -66,17 +69,20 @@
 2 Consider
 3 Consider
 4 Fatal Push
-1 Boseiju, Who Endures
 1 Remand
 2 Remand
 3 Remand
 1 Mystic Gate
 2 Nexus of Fate
-1 Hullbreaker Horror
 1 Search for Azcanta
 1 Blast Zone
 4 Wrenn and Six
 4 Unholy Heat
+1 Raugrin Triome
+1 Spirebluff Canal
+1 Dead/Gone
+2 Dead/Gone
+3 Dead/Gone
 2 Wooded Foothills
 1 Urza's Saga
 1 Pyrite Spellbomb
@@ -90,9 +96,8 @@
 4 Urza's Saga
 1 Supreme Verdict
 2 Mystic Gate
-1 Prismatic Vista
 4 Consider
-1 Jace, the Mind Sculptor
+1 Prismatic Vista
 4 Remand
 1 Celestial Colonnade
 1 Dress Down
@@ -140,11 +145,6 @@
 2 Hall of Storm Giants
 1 Gut Shot
 3 Mystic Gate
-1 Raugrin Triome
-1 Spirebluff Canal
-1 Dead/Gone
-2 Dead/Gone
-3 Dead/Gone
 1 Repeal
 1 Halimar Depths
 1 Spell Snare

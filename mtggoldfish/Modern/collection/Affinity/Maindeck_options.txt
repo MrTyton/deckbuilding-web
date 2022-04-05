@@ -1,12 +1,12 @@
-1 Silverbluff Bridge
 3 Sojourner's Companion
 4 Sojourner's Companion
-2 Silverbluff Bridge
-2 Treasure Vault
-4 Moonsnare Prototype
+1 Silverbluff Bridge
 1 Razortide Bridge
 2 Razortide Bridge
 3 Urza, Lord High Artificer
+2 Silverbluff Bridge
+2 Treasure Vault
+4 Moonsnare Prototype
 2 Welding Jar
 3 Island
 1 Myr Enforcer
@@ -26,6 +26,7 @@
 3 Silverbluff Bridge
 4 Silverbluff Bridge
 2 Mishra's Bauble
+3 Razortide Bridge
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
@@ -37,7 +38,6 @@
 2 Seachrome Coast
 3 Hallowed Fountain
 4 Urza, Lord High Artificer
-3 Razortide Bridge
 1 Pithing Needle
 2 Relic of Progenitus
 3 Mistvault Bridge
@@ -54,16 +54,17 @@
 4 Seachrome Coast
 1 Sai, Master Thopterist
 4 Mistvault Bridge
+1 Glimmervoid
+2 Glimmervoid
+1 Michiko's Reign of Truth
 2 Sai, Master Thopterist
 2 The Reality Chip
-1 Michiko's Reign of Truth
 5 Island
 1 Oboro, Palace in the Clouds
 1 Emry, Lurker of the Loch
 2 Emry, Lurker of the Loch
 1 Expedition Map
-1 Glimmervoid
-2 Glimmervoid
+3 Glimmervoid
 1 Adarkar Wastes
 2 Adarkar Wastes
 3 Adarkar Wastes
@@ -82,6 +83,11 @@
 4 Mishra's Bauble
 3 Portable Hole
 4 Portable Hole
+1 Reality Heist
+1 Blood Fountain
+2 Blood Fountain
+3 Blood Fountain
+4 Blood Fountain
 1 Waterlogged Grove
 1 Etched Champion
 1 Scalding Tarn
@@ -103,7 +109,6 @@
 1 Pyrite Spellbomb
 2 Galvanic Blast
 3 Galvanic Blast
-3 Glimmervoid
 3 Sai, Master Thopterist
 1 Soul-Guide Lantern
 3 Emry, Lurker of the Loch
@@ -143,15 +148,11 @@
 4 Watery Grave
 1 Darkslick Shores
 1 Karn, Scion of Urza
-1 Blood Fountain
 1 Underground River
 2 Darkslick Shores
-2 Blood Fountain
 2 Underground River
-3 Blood Fountain
 3 Underground River
 3 Darkslick Shores
-4 Blood Fountain
 4 Darkslick Shores
 4 Underground River
 1 Vault Skirge
@@ -168,7 +169,6 @@
 3 Waterlogged Grove
 4 Hard Evidence
 4 Waterlogged Grove
-1 Reality Heist
 1 Consulate Dreadnought
 2 Etched Champion
 2 Reality Heist

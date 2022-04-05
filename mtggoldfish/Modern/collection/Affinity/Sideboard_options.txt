@@ -16,16 +16,16 @@
 1 Flusterstorm
 2 Flusterstorm
 1 Welding Jar
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-1 Jegantha, the Wellspring
-3 Flusterstorm
-3 Relic of Progenitus
-1 Soul-Guide Lantern
 3 Dispatch
 1 Wear/Tear
 2 Wear/Tear
+1 Jegantha, the Wellspring
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+3 Flusterstorm
+3 Relic of Progenitus
+1 Soul-Guide Lantern
 1 Prismatic Ending
 2 Prismatic Ending
 3 Ashiok, Dream Render
@@ -33,6 +33,8 @@
 2 Ghirapur Aether Grid
 4 Flusterstorm
 2 Welding Jar
+1 Galvanic Blast
+2 Galvanic Blast
 1 Manriki-Gusari
 1 Aether Spellbomb
 1 Emrakul, the Aeons Torn
@@ -42,6 +44,7 @@
 3 Wear/Tear
 1 Leyline of Sanctity
 1 Nihil Spellbomb
+1 Alpine Moon
 1 Inspired Idea
 1 Kor Firewalker
 1 Sanctifier en-Vec
@@ -56,9 +59,6 @@
 1 Chalice of the Void
 1 Engineered Explosives
 2 Engineered Explosives
-1 Galvanic Blast
-1 Alpine Moon
-2 Galvanic Blast
 1 Underworld Breach
 2 Underworld Breach
 1 Fragmentize
@@ -96,3 +96,7 @@
 4 Wear/Tear
 4 Mana Tithe
 4 Tormod's Crypt
+1 Whipflare
+2 Whipflare
+3 Galvanic Blast
+4 Galvanic Blast
