@@ -1,21 +1,20 @@
+1 Mountain
 1 Lightning Bolt
 2 Kaito Shizuki
-1 Mountain
+2 Steam Vents
 2 Lightning Bolt
 1 Street Wraith
 2 Street Wraith
 3 Street Wraith
 4 Street Wraith
-4 Scalding Tarn
-2 Steam Vents
 1 Snow-Covered Swamp
+4 Scalding Tarn
 3 Lightning Bolt
 1 Temur Battle Rage
 2 Temur Battle Rage
 1 Verdant Catacombs
 2 Verdant Catacombs
 4 Lightning Bolt
-3 Fatal Push
 1 Tarmogoyf
 1 Overgrown Tomb
 2 Tarmogoyf
@@ -23,75 +22,81 @@
 3 Verdant Catacombs
 4 Tarmogoyf
 4 Verdant Catacombs
-1 Marsh Flats
-1 Scourge of the Skyclaves
-2 Scourge of the Skyclaves
-3 Scourge of the Skyclaves
-4 Scourge of the Skyclaves
-2 Kolaghan's Command
-1 Spell Pierce
 1 Stomping Ground
 1 Wooded Foothills
 1 Traverse the Ulvenwald
 2 Traverse the Ulvenwald
-4 Fatal Push
-1 The Royal Scions
-1 Flame Rift
-1 Monastery Swiftspear
-2 Swamp
-2 Monastery Swiftspear
-2 Flame Rift
-3 Monastery Swiftspear
-4 Blood Crypt
-4 Monastery Swiftspear
-1 Snow-Covered Mountain
-1 Island
+3 Fatal Push
+1 Spell Pierce
 2 Wooded Foothills
+2 Kolaghan's Command
+2 Stomping Ground
+3 Traverse the Ulvenwald
+1 Marsh Flats
+1 The Royal Scions
+1 Seasoned Pyromancer
+4 Traverse the Ulvenwald
+1 Snow-Covered Mountain
+4 Fatal Push
+1 Scourge of the Skyclaves
+2 Scourge of the Skyclaves
+3 Scourge of the Skyclaves
+4 Scourge of the Skyclaves
 3 Inquisition of Kozilek
 1 Nurturing Peatland
 1 Dismember
-3 Traverse the Ulvenwald
-2 Stomping Ground
+1 Island
+1 Abrupt Decay
+1 Forest
+2 Overgrown Tomb
+2 Abrupt Decay
+2 Marsh Flats
+1 Counterspell
+2 Counterspell
 1 Consider
 1 Murktide Regent
 1 Thought Scour
 2 Consider
 2 Murktide Regent
+2 Island
 2 Thought Scour
 3 Consider
+3 Thought Scour
 3 Murktide Regent
 3 Watery Grave
 4 Consider
+4 Thought Scour
 4 Watery Grave
 4 Murktide Regent
-1 Abrupt Decay
-1 Forest
-2 Overgrown Tomb
-2 Abrupt Decay
 1 Cling to Dust
 2 Cling to Dust
-1 Prismatic Ending
+1 Hallowed Fountain
 1 Godless Shrine
 1 Teferi, Time Raveler
-1 Hallowed Fountain
+1 Prismatic Ending
 1 Flooded Strand
 1 Plains
 1 Ranger-Captain of Eos
 2 Teferi, Time Raveler
-2 Prismatic Ending
-2 Marsh Flats
 2 Godless Shrine
 2 Ranger-Captain of Eos
 2 Flooded Strand
-3 Prismatic Ending
+2 Prismatic Ending
 3 Teferi, Time Raveler
 3 Marsh Flats
+3 Prismatic Ending
 3 Ranger-Captain of Eos
 4 Marsh Flats
 4 Ranger-Captain of Eos
+1 Unearth
 1 Terminate
-1 Counterspell
-2 Counterspell
+1 Tourach, Dread Cantor
+2 Tourach, Dread Cantor
+1 Bloodchief's Thirst
+1 Brazen Borrower
+2 Bloodchief's Thirst
+2 Spell Pierce
+2 Brazen Borrower
 1 Liliana of the Veil
 2 Liliana of the Veil
 1 Stubborn Denial
@@ -100,8 +105,18 @@
 2 Stubborn Denial
 3 Nurturing Peatland
 3 Stubborn Denial
+1 Misty Rainforest
+1 Archmage's Charm
+1 Otawara, Soaring City
+1 Takenuma, Abandoned Mire
+1 Snapcaster Mage
+2 Archmage's Charm
+2 Misty Rainforest
+2 Snapcaster Mage
+3 Misty Rainforest
+3 Counterspell
+3 Snapcaster Mage
 1 Giver of Runes
-1 Unearth
 1 Murderous Cut
 2 Giver of Runes
 2 Unearth
@@ -109,40 +124,31 @@
 3 Flooded Strand
 3 Godless Shrine
 1 Blackcleave Cliffs
+1 Urza's Saga
 1 Nihil Spellbomb
 1 Shadowspear
-1 Urza's Saga
 2 Blackcleave Cliffs
 2 Urza's Saga
 3 Abrupt Decay
-3 Urza's Saga
 3 Kolaghan's Command
-1 Delver of Secrets
-1 Archmage's Charm
-1 Snapcaster Mage
-2 Delver of Secrets
-2 Archmage's Charm
-3 Delver of Secrets
-4 Delver of Secrets
+3 Urza's Saga
+1 Wrenn and Six
+2 Wrenn and Six
+3 Wooded Foothills
 1 Hex Parasite
 1 Silent Clearing
 1 Tasigur, the Golden Fang
 2 Silent Clearing
 3 Silent Clearing
 3 Kaito Shizuki
-4 Prismatic Ending
 4 Inquisition of Kozilek
 4 Teferi, Time Raveler
-1 Bloodchief's Thirst
-1 Brazen Borrower
-2 Bloodchief's Thirst
-2 Spell Pierce
-2 Brazen Borrower
-2 Island
-3 Thought Scour
-4 Thought Scour
-1 Seasoned Pyromancer
-4 Traverse the Ulvenwald
-1 Wrenn and Six
-2 Wrenn and Six
-3 Wooded Foothills
+4 Prismatic Ending
+1 Flame Rift
+1 Monastery Swiftspear
+2 Swamp
+2 Monastery Swiftspear
+2 Flame Rift
+3 Monastery Swiftspear
+4 Blood Crypt
+4 Monastery Swiftspear

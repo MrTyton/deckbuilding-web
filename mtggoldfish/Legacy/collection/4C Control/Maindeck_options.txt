@@ -1,8 +1,9 @@
-1 Snapcaster Mage
-1 Terminus
+1 Entreat the Angels
 4 Flooded Strand
 1 Expressive Iteration
 2 Timeless Dragon
+1 Terminus
+2 Narset, Parter of Veils
 1 Snow-Covered Forest
 1 Snow-Covered Island
 1 Flusterstorm
@@ -10,7 +11,6 @@
 2 Teferi, Time Raveler
 1 Snow-Covered Plains
 1 Prismatic Vista
-2 Narset, Parter of Veils
 1 Abundant Growth
 2 Abundant Growth
 3 Abundant Growth
@@ -23,7 +23,6 @@
 3 Ice-Fang Coatl
 2 Jace, the Mind Sculptor
 2 Prismatic Vista
-3 Endurance
 1 Snow-Covered Mountain
 3 Prismatic Vista
 1 Preordain
@@ -34,16 +33,17 @@
 2 Counterspell
 2 Monastery Mentor
 2 Terminus
-3 Teferi, Time Raveler
 3 Terminus
+3 Teferi, Time Raveler
 3 Snow-Covered Island
 4 Snow-Covered Island
 4 Terminus
 5 Snow-Covered Island
+3 Endurance
 1 Pyroblast
+2 Volcanic Island
 3 Jace, the Mind Sculptor
 1 Field of the Dead
-2 Volcanic Island
 1 Forest
 1 Island
 1 Ketria Triome
@@ -64,6 +64,7 @@
 3 Windswept Heath
 1 Plateau
 1 Spell Pierce
+3 Expressive Iteration
 2 Hullbreacher
 1 Crop Rotation
 3 Sylvan Library
@@ -71,9 +72,9 @@
 1 Eternal Witness
 1 Spellseeker
 1 Omnath, Locus of Creation
-1 Lightning Bolt
-1 March of Otherworldly Light
 1 Ephemerate
+1 March of Otherworldly Light
+1 Lightning Bolt
 1 Dovin's Veto
 1 Wooded Foothills
 1 Eladamri's Call
@@ -90,11 +91,11 @@
 4 Spellseeker
 1 Knight of Autumn
 1 Solitude
-1 Plains
 2 Snapcaster Mage
 2 Spell Pierce
 1 Raugrin Triome
 1 Day's Undoing
 1 Temple Garden
 3 Tropical Island
-3 Expressive Iteration
+4 Expressive Iteration
+1 Plains

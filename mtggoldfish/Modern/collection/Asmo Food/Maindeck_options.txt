@@ -5,8 +5,8 @@
 4 Witch's Oven
 1 Nihil Spellbomb
 1 Bone Shards
-1 Godless Shrine
 1 Marsh Flats
+1 Godless Shrine
 2 Marsh Flats
 2 Bone Shards
 1 Soul-Guide Lantern
@@ -24,11 +24,11 @@
 2 Blood Fountain
 3 Blood Fountain
 4 Blood Fountain
+1 Archon of Cruelty
 1 Silent Clearing
 1 Castle Locthwain
-1 Archon of Cruelty
-1 Herald of Anguish
 1 Unburial Rites
+1 Herald of Anguish
 2 Archon of Cruelty
 2 Castle Locthwain
 2 Herald of Anguish
@@ -77,9 +77,9 @@
 3 Greasefang, Okiba Boss
 4 Greasefang, Okiba Boss
 4 Trail of Crumbs
+1 Sacred Foundry
 1 Arid Mesa
 1 Plains
-1 Sacred Foundry
 1 Bloodghast
 2 Bloodghast
 3 Bloodghast
@@ -95,8 +95,8 @@
 1 Goblin Engineer
 1 Takenuma, Abandoned Mire
 1 Smuggler's Copter
-2 Goblin Engineer
 2 Blood Crypt
+2 Goblin Engineer
 2 Smuggler's Copter
 3 Goblin Engineer
 4 Goblin Engineer
@@ -107,19 +107,19 @@
 3 Ragavan, Nimble Pilferer
 4 Unearth
 3 Bloodstained Mire
-1 Wrenn and Six
 1 Boseiju, Who Endures
-1 Lightning Bolt
+1 Wrenn and Six
 1 Prismatic Ending
+1 Lightning Bolt
 2 Lightning Bolt
 1 Steam Vents
 1 Scalding Tarn
 3 Thought Monitor
 4 Thought Monitor
 1 Emry, Lurker of the Loch
-1 Spirebluff Canal
 1 Aether Spellbomb
 1 Expedition Map
+1 Spirebluff Canal
 2 Spirebluff Canal
 2 Emry, Lurker of the Loch
 3 Emry, Lurker of the Loch
@@ -131,8 +131,8 @@
 1 Concealed Courtyard
 2 Concealed Courtyard
 2 Stomping Ground
-2 Arid Mesa
 2 Sacred Foundry
+2 Arid Mesa
 1 Tarmogoyf
 2 Tarmogoyf
 3 Tarmogoyf
@@ -148,10 +148,10 @@
 4 Ragavan, Nimble Pilferer
 2 Mountain
 1 Savai Triome
-1 Ketria Triome
 1 Zagoth Triome
 1 Chalice of the Void
 1 Vraska, Golgari Queen
+1 Ketria Triome
 1 Prismatic Vista
 2 Prismatic Vista
 2 Silent Clearing
@@ -193,29 +193,29 @@
 4 Darksteel Citadel
 1 Forgotten Cave
 1 Blackcleave Cliffs
-2 Wrenn and Six
 2 Liliana of the Veil
 2 Blackcleave Cliffs
-3 Wrenn and Six
+2 Wrenn and Six
 3 Liliana of the Veil
 3 Blackcleave Cliffs
+3 Wrenn and Six
 4 Blackcleave Cliffs
 4 Bloodstained Mire
-4 Wrenn and Six
 4 Liliana of the Veil
 4 Thoughtseize
+4 Wrenn and Six
 1 Copperline Gorge
 1 Unholy Heat
 1 Dragon's Rage Channeler
 2 Unholy Heat
+2 Wooded Foothills
 2 Copperline Gorge
 2 Prismatic Ending
-2 Wooded Foothills
 2 Dragon's Rage Channeler
-3 Copperline Gorge
 3 Unholy Heat
-3 Lightning Bolt
+3 Copperline Gorge
 3 Wooded Foothills
+3 Lightning Bolt
 3 Dragon's Rage Channeler
 3 Prismatic Ending
 4 Wooded Foothills
@@ -226,27 +226,27 @@
 1 Engineered Explosives
 2 Scalding Tarn
 2 Fiery Islet
-2 Engineered Explosives
 2 Steam Vents
+2 Engineered Explosives
 3 Scalding Tarn
 4 Scalding Tarn
 4 Feasting Troll King
-1 Temple Garden
 1 Stitcher's Supplier
-1 Undead Butler
 1 Deadly Dispute
+1 Undead Butler
 1 Can't Stay Away
+1 Temple Garden
 2 Stitcher's Supplier
-2 Undead Butler
 2 Deadly Dispute
+2 Undead Butler
 2 Can't Stay Away
 3 Stitcher's Supplier
 3 Deadly Dispute
 3 Concealed Courtyard
 4 Stitcher's Supplier
 4 Deadly Dispute
-4 Concealed Courtyard
 4 Godless Shrine
+4 Concealed Courtyard
 4 Parhelion II
 1 Windswept Heath
 2 Windswept Heath
@@ -262,8 +262,8 @@
 6 Snow-Covered Swamp
 1 Blightstep Pathway
 1 Mishra's Factory
-1 Ramunap Ruins
 1 Sokenzan, Crucible of Defiance
+1 Ramunap Ruins
 1 Ghirapur Aether Grid
 1 Den of the Bugbear
 1 Shrapnel Blast

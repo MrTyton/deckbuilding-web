@@ -46,9 +46,9 @@
 1 Batterskull
 1 On Thin Ice
 1 Endurance
+2 Force of Vigor
 2 Endurance
 2 On Thin Ice
-2 Force of Vigor
 1 Sword of Fire and Ice
 1 Kataki, War's Wage
 3 Flusterstorm
@@ -71,38 +71,37 @@
 2 Thoughtseize
 1 Vindicate
 1 Gideon of the Trials
-2 Lightning Helix
-2 Cleansing Wildfire
-1 Kaldra Compleat
-1 Isolate
-2 Isolate
-1 Sword of War and Peace
 1 Collector Ouphe
+1 Sword of War and Peace
 2 Collector Ouphe
 2 Knight of Autumn
+2 Cleansing Wildfire
+2 Lightning Helix
 1 Geist of Saint Traft
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 2 Void Mirror
+1 Kaldra Compleat
+1 Isolate
+2 Isolate
 1 Prismatic Ending
 2 Solitude
-1 Kaya, Orzhov Usurper
-1 Kaya's Guile
-1 Unmoored Ego
-2 Vindicate
-3 Vindicate
 1 Thieving Skydiver
 1 Izzet Staticaster
 1 Counterspell
 2 Izzet Staticaster
 2 Counterspell
 3 Alpine Moon
+1 Kaya, Orzhov Usurper
+1 Kaya's Guile
+1 Unmoored Ego
+2 Vindicate
+3 Vindicate
 1 Obsidian Charmaw
 1 Leyline of Sanctity
-2 Leyline of Sanctity
 2 Obsidian Charmaw
+2 Leyline of Sanctity
 3 Obsidian Charmaw
-3 Endurance
 1 Kor Firewalker
 1 Deputy of Detention
 1 Thrun, the Last Troll
@@ -110,10 +109,10 @@
 2 Gaddock Teeg
 2 Kor Firewalker
 3 Kor Firewalker
+3 Endurance
 1 Containment Priest
 3 Chalice of the Void
 4 Chalice of the Void
-4 Shark Typhoon
 1 Magus of the Moon
 1 Yorion, Sky Nomad
 1 Relic of Progenitus
@@ -122,7 +121,8 @@
 1 Jace, the Mind Sculptor
 3 Thoughtseize
 4 Thoughtseize
+4 Shark Typhoon
+3 Dress Down
 1 Lion Sash
 3 Aether Gust
-3 Dress Down
 3 Mystical Dispute

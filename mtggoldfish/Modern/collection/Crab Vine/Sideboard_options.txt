@@ -1,23 +1,23 @@
+2 Fatal Push
+1 Thoughtseize
 2 Thoughtseize
 1 Spell Pierce
 2 Spell Pierce
 3 Thoughtseize
 1 Foundation Breaker
 2 Foundation Breaker
-1 Fatal Push
-2 Fatal Push
 1 Abrupt Decay
-4 Leyline of the Void
-2 Abrupt Decay
-1 Mystic Repeal
-1 Damping Sphere
 1 Murderous Cut
-2 Damping Sphere
 3 Subtlety
 3 Assassin's Trophy
+4 Leyline of the Void
+2 Abrupt Decay
+3 Fatal Push
+1 Mystic Repeal
+1 Damping Sphere
 1 Tarmogoyf
 2 Tarmogoyf
-3 Fatal Push
+2 Damping Sphere
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 2 Mystic Repeal
@@ -29,21 +29,18 @@
 2 Leyline of Sanctity
 1 Gemstone Caverns
 2 Gemstone Caverns
-1 Force of Vigor
 1 Gnaw to the Bone
 1 Wonder
 1 Pithing Needle
+1 Force of Vigor
 2 Force of Vigor
 1 Ancient Grudge
+1 Fury
 1 Echoing Truth
 1 Magus of the Moon
-1 Fury
+2 Fury
 2 Echoing Truth
 2 Magus of the Moon
-2 Fury
-1 Nature's Claim
-1 Bontu's Last Reckoning
-2 Nature's Claim
 1 Prismatic Ending
 2 Prismatic Ending
 3 Prismatic Ending
@@ -51,8 +48,11 @@
 2 Pithing Needle
 1 Hurkyl's Recall
 2 Hurkyl's Recall
+1 Nature's Claim
+2 Nature's Claim
 2 Ancient Grudge
 1 Lightning Axe
+1 Bontu's Last Reckoning
 1 Cling to Dust
 1 Crime/Punishment
 2 Crime/Punishment
@@ -79,10 +79,10 @@
 3 Pithing Needle
 1 Plague Engineer
 1 Witherbloom Command
-1 Necroplasm
 1 Unmoored Ego
 1 Drown in Filth
 1 Driven/Despair
+1 Necroplasm
 1 Creeping Chill
 2 Masked Vandal
 2 Ashiok, Dream Render
@@ -94,6 +94,10 @@
 1 Path of Peril
 2 Path of Peril
 4 Fatal Push
+1 Dress Down
+2 Dress Down
+3 Nature's Claim
+4 Nature's Claim
 3 Foundation Breaker
 4 Foundation Breaker
 1 Lightning Bolt

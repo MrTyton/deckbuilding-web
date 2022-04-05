@@ -1,18 +1,18 @@
-18 Mountain
-4 Ogre-Head Helm
+1 Roil Eruption
+2 Roil Eruption
+1 Cemetery Gatekeeper
+2 Lizard Blades
 1 Atsushi, the Blazing Sky
+2 Shatterskull Smashing
+3 Chandra, Dressed to Kill
 1 Voldaren Epicure
 2 Voldaren Epicure
 3 Voldaren Epicure
 4 Voldaren Epicure
-2 Lizard Blades
-3 Chandra, Dressed to Kill
-2 Shatterskull Smashing
 4 Thundering Raiju
+4 Chandra, Dressed to Kill
 3 Roil Eruption
 4 Roil Eruption
-4 Chandra, Dressed to Kill
-1 Cemetery Gatekeeper
 1 Igneous Inspiration
 2 Igneous Inspiration
 3 Igneous Inspiration
@@ -22,11 +22,14 @@
 1 Fable of the Mirror-Breaker
 3 Cemetery Gatekeeper
 4 Cemetery Gatekeeper
+1 Volatile Arsonist
 1 Goldspan Dragon
 3 Atsushi, the Blazing Sky
 3 Reinforced Ronin
 4 Reinforced Ronin
-1 Volatile Arsonist
+1 Kargan Intimidator
+2 Kargan Intimidator
+3 Kargan Intimidator
 1 Arni Brokenbrow
 2 Volatile Arsonist
 1 Battle Cry Goblin
@@ -35,9 +38,6 @@
 1 Creepy Puppeteer
 2 Creepy Puppeteer
 3 Shatterskull Smashing
-1 Kargan Intimidator
-2 Kargan Intimidator
-3 Kargan Intimidator
 2 Shatterskull Charger
 3 Battle Cry Goblin
 4 Battle Cry Goblin
@@ -64,15 +64,19 @@
 12 Snow-Covered Mountain
 13 Snow-Covered Mountain
 14 Snow-Covered Mountain
+1 Dragonkin Berserker
+2 Dragonkin Berserker
 1 End the Festivities
 2 End the Festivities
 1 Twinshot Sniper
 1 Voltaic Visionary
 2 Twinshot Sniper
 2 Voltaic Visionary
-1 Dragonkin Berserker
+1 Blade Historian
+1 Moonveil Regent
+2 Moonveil Regent
+2 Blade Historian
 2 Arni Brokenbrow
-2 Dragonkin Berserker
 1 Falkenrath Pit Fighter
 2 Falkenrath Pit Fighter
 3 Falkenrath Pit Fighter
@@ -83,24 +87,17 @@
 1 Kazuul's Fury
 2 Kazuul's Fury
 2 Leyline Tyrant
+3 Moonveil Regent
 1 Simian Sling
 3 Lizard Blades
 4 Shatterskull Smashing
-1 Blade Historian
-1 Moonveil Regent
 1 Akoum Hellhound
-2 Moonveil Regent
-2 Blade Historian
 2 Akoum Hellhound
 3 Arni Brokenbrow
 3 Blade Historian
 4 Blade Historian
 3 Dragonkin Berserker
 4 Dragonkin Berserker
-1 Goblin Javelineer
-2 Goblin Javelineer
-3 Goblin Javelineer
-4 Goblin Javelineer
 1 Field of Ruin
 1 Voltage Surge
 1 Sokenzan Smelter
@@ -119,10 +116,14 @@
 3 Experimental Synthesizer
 4 Sokenzan Smelter
 4 Experimental Synthesizer
+4 Atsushi, the Blazing Sky
 4 Voltage Surge
 4 Dragonspark Reactor
 4 Sanguine Statuette
-4 Atsushi, the Blazing Sky
+1 Goblin Javelineer
+2 Goblin Javelineer
+3 Goblin Javelineer
+4 Goblin Javelineer
 1 Curse of Shaken Faith
 2 Curse of Shaken Faith
 2 Goldspan Dragon

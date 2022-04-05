@@ -1,14 +1,3 @@
-1 Seasoned Pyromancer
-1 Bloodbraid Elf
-2 Bloodbraid Elf
-3 Bloodbraid Elf
-4 Ignoble Hierarch
-4 Bloodbraid Elf
-2 Snow-Covered Forest
-1 Fiery Islet
-1 Breeding Pool
-1 Mishra's Bauble
-1 Unholy Heat
 1 Dragon's Rage Channeler
 1 Tarmogoyf
 2 Mishra's Bauble
@@ -18,11 +7,22 @@
 3 Dragon's Rage Channeler
 4 Dragon's Rage Channeler
 4 Tarmogoyf
+1 Fiery Islet
 1 Expressive Iteration
 2 Expressive Iteration
 2 Unholy Heat
-3 Unholy Heat
 3 Expressive Iteration
+1 Ignoble Hierarch
+2 Ignoble Hierarch
+3 Ignoble Hierarch
+1 Seasoned Pyromancer
+1 Bloodbraid Elf
+2 Bloodbraid Elf
+3 Bloodbraid Elf
+4 Ignoble Hierarch
+4 Bloodbraid Elf
+2 Snow-Covered Forest
+3 Unholy Heat
 3 Mishra's Bauble
 4 Mishra's Bauble
 3 Life from the Loam
@@ -30,8 +30,8 @@
 1 Magus of the Moon
 4 Life from the Loam
 1 Utopia Sprawl
-2 Magus of the Moon
 2 Utopia Sprawl
+2 Magus of the Moon
 3 Utopia Sprawl
 3 Forgotten Cave
 1 Edge of Autumn
@@ -44,41 +44,42 @@
 4 Copperline Gorge
 1 Arid Mesa
 2 Arid Mesa
-3 Arid Mesa
 3 Snow-Covered Mountain
+3 Arid Mesa
 3 Snow-Covered Forest
-4 Tireless Tracker
 4 Arid Mesa
+4 Tireless Tracker
 2 Tranquil Thicket
+1 Sacred Foundry
 1 Endurance
 1 Sheltered Thicket
 2 Endurance
 1 Raugrin Triome
-1 Sacred Foundry
 1 Omnath, Locus of Creation
 2 Omnath, Locus of Creation
 3 Omnath, Locus of Creation
 4 Omnath, Locus of Creation
 1 Arboreal Grazer
 2 Arboreal Grazer
-3 Boseiju, Who Endures
 3 Arboreal Grazer
+3 Boseiju, Who Endures
 4 Arboreal Grazer
 4 Boseiju, Who Endures
 2 Mountain
-2 Fiery Islet
 1 Field of Ruin
 2 Field of Ruin
+2 Fiery Islet
 2 Ketria Triome
 3 Endurance
 1 Birds of Paradise
 1 Wrenn and Seven
 1 Tamiyo, Collector of Tales
 2 Steam Vents
-2 Wrenn and Seven
 2 Birds of Paradise
+2 Wrenn and Seven
 3 Birds of Paradise
 4 Birds of Paradise
+4 Expressive Iteration
 2 Sokenzan, Crucible of Defiance
 1 Ancient Grudge
 1 Karn, the Great Creator
@@ -105,9 +106,9 @@
 1 Temple Garden
 1 Unmarked Grave
 1 Verdant Catacombs
+1 Swamp
 1 Blood Crypt
 1 Blood Moon
-1 Swamp
 1 Hall of Heliod's Generosity
 1 Nurturing Peatland
 1 Flame Jab
@@ -120,6 +121,7 @@
 3 Blood Moon
 4 Blood Moon
 4 Verdant Catacombs
+1 Bloodstained Mire
 1 Ghost Quarter
 1 Valakut Exploration
 1 Mystifying Maze
@@ -131,7 +133,6 @@
 4 Unmarked Grave
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
-1 Bloodstained Mire
 1 Den of the Bugbear
 2 Den of the Bugbear
 2 Bloodstained Mire
@@ -142,7 +143,22 @@
 2 Abundant Growth
 3 Abundant Growth
 4 Abundant Growth
-4 Expressive Iteration
 1 Klothys, God of Destiny
 4 Misty Rainforest
 4 Ancient Grudge
+1 Zagoth Triome
+1 Windswept Heath
+1 Savai Triome
+1 Territorial Kavu
+1 Tribal Flames
+1 Scion of Draco
+2 Windswept Heath
+2 Territorial Kavu
+2 Scion of Draco
+2 Tribal Flames
+3 Territorial Kavu
+3 Tribal Flames
+3 Scion of Draco
+4 Territorial Kavu
+4 Tribal Flames
+4 Scion of Draco
