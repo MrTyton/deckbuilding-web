@@ -21,6 +21,7 @@
 1 Knight of Autumn
 1 Wandering Mind
 1 Overgrown Farmland
+1 Barkchannel Pathway
 1 Omen of the Forge
 1 Moon-Blessed Cleric
 1 Branchloft Pathway
@@ -30,14 +31,13 @@
 1 Enigmatic Incarnation
 1 Tolsimir, Friend to Wolves
 1 Cavalier of Dawn
-1 Barkchannel Pathway
 1 Mana Confluence
 2 Branchloft Pathway
 2 Hengegate Pathway
 2 Overgrown Farmland
+2 Barkchannel Pathway
 2 Moon-Blessed Cleric
 2 Nylea's Presence
-2 Barkchannel Pathway
 2 Enigmatic Incarnation
 3 Hengegate Pathway
 3 Branchloft Pathway
@@ -110,10 +110,10 @@
 3 Jukai Naturalist
 4 Jukai Naturalist
 1 Field of Ruin
-1 Arboreal Grazer
 1 Omnath, Locus of the Roil
 1 Alrund's Epiphany
 1 Breeding Pool
+1 Arboreal Grazer
 1 Yasharn, Implacable Earth
 1 Risen Reef
 1 Nissa, Who Shakes the World
@@ -124,9 +124,9 @@
 1 Cavalier of Gales
 1 Cavalier of Flame
 1 Cavalier of Thorns
-2 Arboreal Grazer
 2 Breeding Pool
 2 Alrund's Epiphany
+2 Arboreal Grazer
 2 Mountain
 2 Omnath, Locus of Creation
 2 Risen Reef
@@ -137,9 +137,9 @@
 2 Temple Garden
 2 Cavalier of Flame
 2 Cavalier of Gales
-3 Arboreal Grazer
 3 Island
 3 Omnath, Locus of Creation
+3 Arboreal Grazer
 3 Risen Reef
 3 Cavalier of Flame
 3 Forest

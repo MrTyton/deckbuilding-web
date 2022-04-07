@@ -145,17 +145,12 @@
 2 Return to Action
 1 March of Swirling Mist
 2 March of Swirling Mist
-1 Moon-Circuit Hacker
-2 Moon-Circuit Hacker
-3 Moon-Circuit Hacker
 1 Okiba Reckoner Raid
 2 Okiba Reckoner Raid
 3 Okiba Reckoner Raid
-1 Wash Away
-2 Wash Away
-3 The Meathook Massacre
-3 Wash Away
-4 The Meathook Massacre
+1 Moon-Circuit Hacker
+2 Moon-Circuit Hacker
+3 Moon-Circuit Hacker
 1 Graveyard Trespasser
 1 Lash of Malice
 1 Inspired Idea
@@ -165,6 +160,11 @@
 3 Graveyard Trespasser
 3 Inspired Idea
 4 Graveyard Trespasser
+1 Wash Away
+2 Wash Away
+3 The Meathook Massacre
+3 Wash Away
+4 The Meathook Massacre
 2 Dread Fugue
 2 Soul Shatter
 3 Dread Fugue
@@ -212,24 +212,24 @@
 4 Morbid Opportunist
 10 Swamp
 10 Island
+1 Eyetwitch
 1 Poison the Cup
 1 Screaming Swarm
-1 Eyetwitch
 1 Blood Fountain
 1 Mischievous Catgeist
 1 Fell Stinger
+2 Eyetwitch
 2 Poison the Cup
 2 Fell Stinger
 2 Screaming Swarm
-2 Eyetwitch
 2 Mischievous Catgeist
 3 Fell Stinger
 3 Thirst for Discovery
-3 Saw It Coming
 3 Eyetwitch
+3 Saw It Coming
 4 Ice Tunnel
-4 Saw It Coming
 4 Eyetwitch
+4 Saw It Coming
 8 Snow-Covered Swamp
 9 Snow-Covered Island
 10 Snow-Covered Island

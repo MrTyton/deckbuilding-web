@@ -14,33 +14,34 @@
 2 Stitcher's Supplier
 3 Stitcher's Supplier
 4 Grief
+4 Stitcher's Supplier
+2 Blood Crypt
 3 Blackcleave Cliffs
 2 Swamp
-2 Blood Crypt
-4 Stitcher's Supplier
-1 Kroxa, Titan of Death's Hunger
-2 Kroxa, Titan of Death's Hunger
-1 Kolaghan's Command
-2 Kolaghan's Command
-1 Inquisition of Kozilek
-2 Inquisition of Kozilek
-3 Inquisition of Kozilek
 1 Malakir Rebirth
 1 Persist
 1 Priest of Fell Rites
 1 Archon of Cruelty
-2 Priest of Fell Rites
 2 Malakir Rebirth
 2 Archon of Cruelty
 2 Persist
-3 Priest of Fell Rites
+2 Priest of Fell Rites
 3 Archon of Cruelty
+3 Priest of Fell Rites
 3 Persist
 1 Touch the Spirit Realm
 2 Touch the Spirit Realm
+1 Ox of Agonas
+4 Priest of Fell Rites
+1 Kolaghan's Command
+2 Kolaghan's Command
+1 Kroxa, Titan of Death's Hunger
+2 Kroxa, Titan of Death's Hunger
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
+3 Inquisition of Kozilek
 1 Thoughtseize
 2 Thoughtseize
-4 Blackcleave Cliffs
 1 Unholy Heat
 1 Dragon's Rage Channeler
 1 Mishra's Bauble
@@ -51,6 +52,7 @@
 3 Unholy Heat
 3 Mishra's Bauble
 4 Dragon's Rage Channeler
+4 Blackcleave Cliffs
 1 Silent Clearing
 1 Sunbaked Canyon
 4 Inquisition of Kozilek
@@ -58,21 +60,28 @@
 1 Tourach, Dread Cantor
 2 Dauthi Voidwalker
 2 Tourach, Dread Cantor
-1 Ox of Agonas
-4 Priest of Fell Rites
-1 Fatal Push
+1 Fable of the Mirror-Breaker
+2 Fable of the Mirror-Breaker
 2 Godless Shrine
 3 Dauthi Voidwalker
 4 Mishra's Bauble
 4 Dauthi Voidwalker
+1 Concealed Courtyard
+1 Fatal Push
+3 Fable of the Mirror-Breaker
+3 Kolaghan's Command
 2 Fatal Push
-1 Fable of the Mirror-Breaker
-2 Fable of the Mirror-Breaker
+3 Lightning Bolt
+4 Archon of Cruelty
+2 Inspiring Vantage
+4 Persist
+3 Touch the Spirit Realm
 1 Lingering Souls
 2 Lingering Souls
 3 Lingering Souls
 4 Lingering Souls
-3 Kolaghan's Command
+3 Thoughtseize
+1 Kaya's Guile
 1 Unearth
 1 Cling to Dust
 1 Lightning Skelemental
@@ -82,17 +91,6 @@
 2 Goblin Bombardment
 3 Unearth
 4 Unearth
-3 Lightning Bolt
-1 Concealed Courtyard
-4 Archon of Cruelty
-2 Inspiring Vantage
-4 Persist
-3 Touch the Spirit Realm
-3 Fable of the Mirror-Breaker
-3 Thoughtseize
-1 Kaya's Guile
-1 Collective Brutality
-1 Cathartic Pyre
 3 Malakir Rebirth
 4 Fury
 1 Eiganjo, Seat of the Empire
@@ -102,9 +100,11 @@
 2 Kaya's Guile
 1 Kaya, Orzhov Usurper
 4 Fable of the Mirror-Breaker
+1 Collective Brutality
+1 Cathartic Pyre
 1 Snow-Covered Plains
-1 Snow-Covered Mountain
 1 Snow-Covered Swamp
+1 Snow-Covered Mountain
 1 Shadowspear
 1 Urza's Saga
 1 Nihil Spellbomb
@@ -121,9 +121,9 @@
 1 Graven Cairns
 1 Castle Locthwain
 2 Kaya, Orzhov Usurper
-1 Sokenzan, Crucible of Defiance
 1 Mana Tithe
 1 Bloodtithe Harvester
+1 Sokenzan, Crucible of Defiance
 1 Bone Shards
 1 Unburial Rites
 1 Thrilling Discovery
@@ -131,27 +131,27 @@
 1 Engineered Explosives
 1 Grim Lavamancer
 2 Grim Lavamancer
-3 Obsidian Charmaw
 1 Scourge of the Skyclaves
 1 Shizo, Death's Storehouse
 2 Scourge of the Skyclaves
 2 Graven Cairns
 3 Scourge of the Skyclaves
 3 Tourach, Dread Cantor
+3 Obsidian Charmaw
 1 Castle Ardenvale
-1 The Wandering Emperor
 1 Damn
+1 The Wandering Emperor
 1 Lightning Helix
 1 Overgrown Tomb
 1 Young Pyromancer
 1 Dragonskull Summit
-2 The Wandering Emperor
 2 Damn
+2 The Wandering Emperor
 2 Concealed Courtyard
 2 Young Pyromancer
 3 Fatal Push
-3 Blood Crypt
 3 Young Pyromancer
+3 Blood Crypt
 1 Bonecrusher Giant
 1 Prismatic Vista
 1 Path to Exile
@@ -167,13 +167,13 @@
 4 Magmatic Channeler
 3 Hidetsugu Consumes All
 4 Hidetsugu Consumes All
-1 Liliana of the Veil
 1 Batterskull
 1 Sword of Fire and Ice
 1 Kaldra Compleat
 1 Stoneforge Mystic
+1 Liliana of the Veil
 1 Shambling Vent
-2 Liliana of the Veil
 2 Stoneforge Mystic
+2 Liliana of the Veil
 3 Stoneforge Mystic
 4 Stoneforge Mystic

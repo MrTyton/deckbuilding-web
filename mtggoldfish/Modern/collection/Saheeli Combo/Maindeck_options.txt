@@ -59,8 +59,8 @@
 4 Arid Mesa
 2 Boseiju, Who Endures
 4 Wooded Foothills
-1 Snow-Covered Forest
 1 Ice-Fang Coatl
+1 Snow-Covered Forest
 2 Snow-Covered Forest
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
@@ -79,8 +79,8 @@
 2 Utopia Sprawl
 3 Utopia Sprawl
 4 Utopia Sprawl
-1 Glimpse of Tomorrow
 1 Khalni Garden
+1 Glimpse of Tomorrow
 1 Wavesifter
 1 Chancellor of the Forge
 2 Chancellor of the Forge
@@ -100,9 +100,9 @@
 1 Remand
 2 Remand
 3 Remand
-1 Batterskull
-1 Kaldra Compleat
 1 Stoneforge Mystic
+1 Kaldra Compleat
+1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 3 Wall of Omens
@@ -110,24 +110,24 @@
 1 Showdown of the Skalds
 2 Showdown of the Skalds
 2 Brought Back
-3 Hallowed Fountain
 3 Showdown of the Skalds
 3 Sacred Foundry
+3 Hallowed Fountain
 3 Brought Back
-4 Plains
 4 Hallowed Fountain
 4 Sacred Foundry
+4 Plains
 4 Brought Back
 2 Snow-Covered Island
 1 Brazen Borrower
 1 Ardent Plea
 1 Crashing Footfalls
-2 Ardent Plea
 2 Brazen Borrower
+2 Ardent Plea
 2 Crashing Footfalls
 3 Brazen Borrower
-3 Crashing Footfalls
 3 Force of Negation
+3 Crashing Footfalls
 4 Force of Negation
 4 Crashing Footfalls
 4 Brazen Borrower
@@ -138,24 +138,24 @@
 1 Birds of Paradise
 2 Birds of Paradise
 3 Birds of Paradise
-4 Oath of Nissa
 4 Birds of Paradise
+4 Oath of Nissa
 1 Arboreal Grazer
 2 Arboreal Grazer
 1 Skyclave Apparition
 1 Kiki-Jiki, Mirror Breaker
 1 Abundant Growth
-2 March of Otherworldly Light
 2 Abundant Growth
+2 March of Otherworldly Light
 3 Abundant Growth
 4 Abundant Growth
 4 Ice-Fang Coatl
 2 Mountain
 1 Esika's Chariot
-1 Serum Visions
+1 Day's Undoing
 1 Narset, Parter of Veils
 1 Spirebluff Canal
-1 Day's Undoing
+1 Serum Visions
 2 Narset, Parter of Veils
 2 Day's Undoing
 3 Snow-Covered Island
@@ -164,8 +164,8 @@
 3 Arboreal Grazer
 1 Ignoble Hierarch
 1 Noble Hierarch
-1 Emrakul, the Aeons Torn
 1 Lukka, Coppercoat Outcast
+1 Emrakul, the Aeons Torn
 2 Prismari Command
 2 Lukka, Coppercoat Outcast
 3 Prismari Command
@@ -177,58 +177,60 @@
 4 Remand
 1 Sokenzan, Crucible of Defiance
 1 Reflecting Pool
+1 Eladamri's Call
 1 Traverse the Ulvenwald
+1 The Wandering Emperor
 1 Magus of the Moon
 1 Search for Glory
-1 The Wandering Emperor
-1 Eladamri's Call
 2 Eladamri's Call
-1 Horizon Canopy
-1 Copperline Gorge
-1 Turntimber Symbiosis
-1 Eldritch Evolution
 1 Grove of the Burnwillows
-1 Razorverge Thicket
-1 Spell Queller
 1 Charming Prince
+1 Copperline Gorge
+1 Horizon Canopy
+1 Spell Queller
+1 Eldritch Evolution
+1 Razorverge Thicket
+1 Turntimber Symbiosis
+2 Spell Queller
 2 Temple Garden
 2 Eldritch Evolution
 2 Skyclave Apparition
-2 Spell Queller
-3 Skyclave Apparition
-3 Forest
 3 Temple Garden
+3 Forest
+3 Skyclave Apparition
 4 Forest
 1 Imperial Recruiter
-2 Eternal Witness
 2 Imperial Recruiter
+2 Eternal Witness
 3 Imperial Recruiter
 4 Imperial Recruiter
 1 Prairie Stream
+2 Ignoble Hierarch
+2 Emrakul, the Aeons Torn
 1 Sunbaked Canyon
-1 Kozilek, Butcher of Truth
 1 Jace, the Mind Sculptor
+1 Kozilek, Butcher of Truth
 1 Waterlogged Grove
 2 Noble Hierarch
 2 On Thin Ice
-2 Ignoble Hierarch
-2 Emrakul, the Aeons Torn
 1 Seachrome Coast
-2 Inspiring Vantage
 2 Seachrome Coast
+2 Inspiring Vantage
 1 Blast Zone
 3 Island
 4 Blood Moon
-1 Celestial Colonnade
-4 Wall of Omens
-4 Arboreal Grazer
+3 Prismatic Vista
+4 Prismatic Vista
+1 Primal Command
 1 Path to Exile
 1 Lightning Helix
-1 Primal Command
 2 Path to Exile
 2 Lightning Helix
 3 Path to Exile
 4 Path to Exile
+1 Celestial Colonnade
+4 Wall of Omens
+4 Arboreal Grazer
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
@@ -238,14 +240,12 @@
 2 Territorial Kavu
 3 Territorial Kavu
 4 Territorial Kavu
+1 Hall of Storm Giants
 1 Spirited Companion
 1 Castle Ardenvale
-1 Hall of Storm Giants
 1 Clifftop Retreat
 2 Spirited Companion
 3 Spirited Companion
 3 Lightning Bolt
 4 Spirited Companion
 4 Lightning Bolt
-3 Prismatic Vista
-4 Prismatic Vista
