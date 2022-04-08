@@ -1,24 +1,22 @@
 1 Ensnaring Bridge
-1 Gemstone Caverns
-4 Chandra, Dressed to Kill
 1 Sokenzan, Crucible of Defiance
-2 Ensnaring Bridge
 1 Sunbaked Canyon
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
-1 Pyrite Spellbomb
-2 Pyrite Spellbomb
+4 Blast Zone
+2 Ensnaring Bridge
 3 Shatterskull Smashing
 1 Reckless Impulse
 2 Reckless Impulse
+4 Chandra, Dressed to Kill
+4 Shatterskull Smashing
 3 Reckless Impulse
 4 Reckless Impulse
+1 Pyrite Spellbomb
+2 Pyrite Spellbomb
 11 Mountain
-4 Shatterskull Smashing
-1 Valakut Awakening
-2 Valakut Awakening
 3 Pyrite Spellbomb
 1 Light Up the Stage
 2 Light Up the Stage
@@ -28,7 +26,10 @@
 2 Urza's Saga
 3 Urza's Saga
 4 Urza's Saga
+1 Valakut Awakening
+2 Valakut Awakening
 1 Fiery Islet
+2 Gemstone Caverns
 1 Experimental Synthesizer
 2 Experimental Synthesizer
 3 Experimental Synthesizer
@@ -36,43 +37,42 @@
 4 Experimental Synthesizer
 1 Chandra, Fire Artisan
 2 Chandra, Fire Artisan
+1 Light Up the Night
+1 Abrade
+2 Light Up the Night
+2 Abrade
+2 Sunbaked Canyon
+12 Mountain
+1 Ramunap Ruins
+2 Ramunap Ruins
+3 Ramunap Ruins
+1 Karn, the Great Creator
+2 Karn, the Great Creator
+3 Karn, the Great Creator
+4 Karn, the Great Creator
+1 Chandra's Regulator
+3 Light Up the Night
+1 Seal of Fire
+2 Seal of Fire
+3 Seal of Fire
+4 Seal of Fire
+3 Sunbaked Canyon
+4 Sunbaked Canyon
 3 Valakut Awakening
 4 Valakut Awakening
 1 Hammer of Bogardan
 2 Hammer of Bogardan
 3 Hammer of Bogardan
 4 Hammer of Bogardan
-1 Light Up the Night
-1 Abrade
-2 Light Up the Night
-2 Abrade
-2 Gemstone Caverns
-12 Mountain
-1 Chandra's Regulator
-1 Ramunap Ruins
-2 Ramunap Ruins
-3 Ramunap Ruins
-3 Light Up the Night
-1 Seal of Fire
-2 Seal of Fire
-3 Seal of Fire
-4 Seal of Fire
-2 Sunbaked Canyon
-3 Sunbaked Canyon
-4 Sunbaked Canyon
-1 Snow-Covered Mountain
+1 Scavenger Grounds
+4 Ramunap Ruins
 1 March of Reckless Joy
 2 March of Reckless Joy
 3 March of Reckless Joy
 4 March of Reckless Joy
-1 Scavenger Grounds
-4 Ramunap Ruins
 3 Ensnaring Bridge
 3 Gemstone Caverns
-1 Karn, the Great Creator
-2 Karn, the Great Creator
-3 Karn, the Great Creator
-4 Karn, the Great Creator
+1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
@@ -128,6 +128,10 @@
 1 Chandra, Awakened Inferno
 2 Chandra, Awakened Inferno
 3 Chandra, Fire Artisan
+1 Dead/Gone
+2 Dead/Gone
+3 Dead/Gone
+4 Dead/Gone
 1 Field of Ruin
 1 Needleverge Pathway
 2 Field of Ruin
@@ -148,15 +152,6 @@
 3 Soul-Guide Lantern
 4 Soul-Guide Lantern
 4 Dragon's Rage Channeler
-1 Ratchet Bomb
-1 Zhalfirin Void
-2 Ratchet Bomb
-2 Zhalfirin Void
-3 Ratchet Bomb
-3 Zhalfirin Void
-4 Ratchet Bomb
-4 Ensnaring Bridge
-4 Zhalfirin Void
 1 Unholy Heat
 1 Cleansing Wildfire
 1 Chandra, Acolyte of Flame
@@ -174,6 +169,15 @@
 4 Unholy Heat
 4 Cleansing Wildfire
 4 Drossforge Bridge
+1 Ratchet Bomb
+1 Zhalfirin Void
+2 Ratchet Bomb
+2 Zhalfirin Void
+3 Ratchet Bomb
+3 Zhalfirin Void
+4 Ratchet Bomb
+4 Ensnaring Bridge
+4 Zhalfirin Void
 1 Moonveil Regent
 1 Obsidian Charmaw
 1 Stormbreath Dragon
