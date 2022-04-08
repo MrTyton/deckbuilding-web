@@ -28,10 +28,10 @@
 1 Tovolar's Huntmaster
 1 Snow-Covered Mountain
 1 Snow-Covered Forest
-2 Snow-Covered Forest
 2 Snow-Covered Mountain
-3 Snow-Covered Forest
+2 Snow-Covered Forest
 3 Snow-Covered Mountain
+3 Snow-Covered Forest
 4 Snow-Covered Forest
 5 Snow-Covered Forest
 6 Snow-Covered Forest
@@ -123,6 +123,7 @@
 1 Child of the Pack
 2 Child of the Pack
 2 Primal Adversary
+3 Inscription of Abundance
 1 Bird Admirer
 1 Dire-Strain Rampage
 1 Harvesttide Infiltrator
@@ -132,13 +133,11 @@
 1 Roil Eruption
 1 Devouring Tendrils
 1 Howl of the Hunt
-2 Bird Admirer
 2 Devouring Tendrils
+2 Bird Admirer
 3 Devouring Tendrils
-3 Inscription of Abundance
-4 Lair of the Hydra
-1 Kazuul's Fury
 1 Jaspera Sentinel
+1 Kazuul's Fury
 1 Lizard Blades
 1 Thundering Raiju
 1 Eater of Virtue
@@ -149,6 +148,7 @@
 2 Sokenzan, Crucible of Defiance
 3 Jaspera Sentinel
 4 Jaspera Sentinel
+4 Lair of the Hydra
 1 Curse of Hospitality
 1 Heated Debate
 2 Field of Ruin
@@ -160,8 +160,8 @@
 1 Reckoner Bankbuster
 2 Reckoner Bankbuster
 2 Atsushi, the Blazing Sky
-3 Moonveil Regent
 3 Reckoner Bankbuster
+3 Moonveil Regent
 3 Rugged Highlands
 4 Abrade
 4 Rugged Highlands
@@ -171,11 +171,11 @@
 9 Snow-Covered Forest
 1 Old-Growth Troll
 1 Invoke the Ancients
-2 Old-Growth Troll
 2 Invigorating Hot Spring
+2 Old-Growth Troll
 2 Invoke the Ancients
-3 Old-Growth Troll
 3 Invigorating Hot Spring
+3 Old-Growth Troll
 4 Old-Growth Troll
 4 Invigorating Hot Spring
 12 Forest

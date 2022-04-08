@@ -1,4 +1,6 @@
 1 Pyroclasm
+2 Torpor Orb
+1 Hurkyl's Recall
 1 Brazen Borrower
 1 Endurance
 2 Endurance
@@ -14,6 +16,8 @@
 1 Omniscience
 1 Foundation Breaker
 2 Omniscience
+1 Meltdown
+1 End the Festivities
 1 Pithing Needle
 1 Sylvan Library
 2 Brazen Borrower
@@ -21,18 +25,14 @@
 2 Darkblast
 2 Force of Vigor
 3 Force of Vigor
-1 End the Festivities
+1 Scroll of Fate
 2 Stubborn Denial
 2 Plague Engineer
-1 Scroll of Fate
-2 Torpor Orb
-2 Flusterstorm
 1 Winter Orb
 2 Winter Orb
-2 Abrade
-1 Hurkyl's Recall
+2 Flusterstorm
 2 Narset, Parter of Veils
-1 Meltdown
+2 Abrade
 1 Prismatic Ending
 1 Relic of Progenitus
 2 Pyroclasm
@@ -57,6 +57,7 @@
 1 Toxic Deluge
 2 Meltdown
 1 Court of Cunning
+3 Surgical Extraction
 1 Force of Negation
 1 Blue Elemental Blast
 1 Engineered Explosives
@@ -68,6 +69,11 @@
 1 Klothys, God of Destiny
 1 Submerge
 1 Jace, the Mind Sculptor
+1 Stifle
+1 Hullbreacher
+1 Dread of Night
+1 Extract
+1 Steal Enchantment
 1 Thoughtseize
 2 Pithing Needle
 1 Berserk
@@ -91,12 +97,8 @@
 2 Grafdigger's Cage
 2 Dress Down
 2 Sylvan Library
-1 Stifle
-1 Hullbreacher
-1 Dread of Night
-1 Extract
-1 Steal Enchantment
-3 Surgical Extraction
+1 Opposition Agent
+3 Torpor Orb
 1 Back to Basics
 1 Energy Flux
 1 Echoing Truth

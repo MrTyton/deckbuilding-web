@@ -44,15 +44,15 @@
 3 Ao, the Dawn Sky
 2 Felidar Retreat
 1 Crawling Barrens
-1 Ashaya, Soul of the Wild
 1 The Celestus
 1 Ondu Inversion
+1 Ashaya, Soul of the Wild
 1 Druid Class
 2 The Celestus
-2 Ashaya, Soul of the Wild
 2 Crawling Barrens
 2 Druid Class
 2 Ondu Inversion
+2 Ashaya, Soul of the Wild
 3 Fateful Absence
 3 Ashaya, Soul of the Wild
 3 Ondu Inversion
@@ -68,17 +68,15 @@
 1 Elite Spellbinder
 2 Elite Spellbinder
 4 Wrenn and Seven
-1 Priest of Ancient Lore
-1 Grand Master of Flowers
+1 Inscription of Abundance
 1 Reidane, God of the Worthy
-1 Kor Celebrant
 1 Toski, Bearer of Secrets
-1 Cultivator Colossus
 1 Valkyrie Harbinger
-1 Devouring Tendrils
+1 Cultivator Colossus
 1 Celestial Unicorn
+1 Devouring Tendrils
 1 Blossoming Sands
-1 Attended Healer
+1 Grand Master of Flowers
 1 Minimus Containment
 1 Pillardrop Rescuer
 1 Righteous Valkyrie
@@ -88,27 +86,29 @@
 1 Cleric Class
 1 You Meet in a Tavern
 1 Icingdeath, Frost Tyrant
+1 Priest of Ancient Lore
 1 Arctic Treeline
 1 Fortifying Draught
 1 The Tarrasque
+1 Attended Healer
+1 Kor Celebrant
 1 Trelasarra, Moon Dancer
 1 Drizzt Do'Urden
-1 Inscription of Abundance
-2 Priest of Ancient Lore
-2 Kor Celebrant
 2 Celestial Unicorn
+2 Cleric Class
 2 Devouring Tendrils
 2 Blossoming Sands
-2 Cleric Class
+2 Kor Celebrant
 2 You Meet in a Tavern
 2 Fortifying Draught
 2 Lurking Roper
+2 Priest of Ancient Lore
 2 Trelasarra, Moon Dancer
 2 Arctic Treeline
 2 Story Seeker
 2 Minimus Containment
-3 Blossoming Sands
 3 Devouring Tendrils
+3 Blossoming Sands
 3 Minimus Containment
 3 Kor Celebrant
 3 Trelasarra, Moon Dancer
@@ -117,14 +117,14 @@
 4 Blossoming Sands
 4 Arctic Treeline
 4 Priest of Ancient Lore
-7 Forest
 7 Plains
-8 Forest
+7 Forest
 8 Plains
+8 Forest
 9 Forest
 9 Plains
-10 Plains
 10 Forest
+10 Plains
 1 Farewell
 2 Valorous Stance
 1 Circle of Confinement

@@ -1,8 +1,6 @@
 1 Roil Eruption
 2 Roil Eruption
-1 Cemetery Gatekeeper
 2 Lizard Blades
-1 Atsushi, the Blazing Sky
 2 Shatterskull Smashing
 3 Chandra, Dressed to Kill
 1 Voldaren Epicure
@@ -10,6 +8,8 @@
 3 Voldaren Epicure
 4 Voldaren Epicure
 4 Thundering Raiju
+1 Cemetery Gatekeeper
+1 Atsushi, the Blazing Sky
 4 Chandra, Dressed to Kill
 3 Roil Eruption
 4 Roil Eruption
@@ -17,14 +17,14 @@
 2 Igneous Inspiration
 3 Igneous Inspiration
 4 Igneous Inspiration
-2 Atsushi, the Blazing Sky
 2 Cemetery Gatekeeper
 1 Fable of the Mirror-Breaker
 3 Cemetery Gatekeeper
 4 Cemetery Gatekeeper
-1 Volatile Arsonist
 1 Goldspan Dragon
+2 Atsushi, the Blazing Sky
 3 Atsushi, the Blazing Sky
+1 Volatile Arsonist
 3 Reinforced Ronin
 4 Reinforced Ronin
 1 Kargan Intimidator
@@ -38,18 +38,22 @@
 1 Creepy Puppeteer
 2 Creepy Puppeteer
 3 Shatterskull Smashing
-2 Shatterskull Charger
-3 Battle Cry Goblin
-4 Battle Cry Goblin
-1 Fireblade Charger
-2 Fireblade Charger
-3 Fireblade Charger
-4 Fireblade Charger
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
 4 Kargan Intimidator
+1 Twinshot Sniper
+1 Voltaic Visionary
+2 Twinshot Sniper
+2 Voltaic Visionary
+1 Fireblade Charger
+2 Fireblade Charger
+3 Fireblade Charger
+4 Fireblade Charger
+2 Shatterskull Charger
+3 Battle Cry Goblin
+4 Battle Cry Goblin
 1 Frost Bite
 2 Frost Bite
 3 Frost Bite
@@ -68,10 +72,6 @@
 2 Dragonkin Berserker
 1 End the Festivities
 2 End the Festivities
-1 Twinshot Sniper
-1 Voltaic Visionary
-2 Twinshot Sniper
-2 Voltaic Visionary
 1 Blade Historian
 1 Moonveil Regent
 2 Moonveil Regent
@@ -83,14 +83,13 @@
 4 Falkenrath Pit Fighter
 1 Thundering Rebuke
 2 Thundering Rebuke
-1 Kazuul's Fury
 1 Leyline Tyrant
+1 Kazuul's Fury
 2 Kazuul's Fury
 2 Leyline Tyrant
 3 Moonveil Regent
 1 Simian Sling
 3 Lizard Blades
-4 Shatterskull Smashing
 1 Akoum Hellhound
 2 Akoum Hellhound
 3 Arni Brokenbrow

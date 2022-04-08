@@ -34,8 +34,8 @@
 2 Snow-Covered Plains
 2 Hallowed Fountain
 1 Skyclave Apparition
-1 Arid Mesa
 1 Field of Ruin
+1 Arid Mesa
 1 Idyllic Grange
 2 Skyclave Apparition
 2 Field of Ruin
@@ -54,9 +54,9 @@
 3 Hallowed Fountain
 3 Flickerwisp
 4 Wall of Omens
+4 March of Otherworldly Light
 4 Field of Ruin
 4 Hallowed Fountain
-4 March of Otherworldly Light
 3 Skyclave Apparition
 1 Wandering Mind
 2 Wandering Mind
@@ -97,14 +97,14 @@
 1 Walking Ballista
 1 Verdant Catacombs
 2 Verdant Catacombs
+1 Persist
 1 Agadeem's Awakening
+1 Godless Shrine
 1 Grief
 1 Shriekmaw
-1 Godless Shrine
-1 Persist
-2 Grief
 2 Persist
 2 Godless Shrine
+2 Grief
 3 Grief
 4 Grief
 1 Kaldra Compleat
@@ -123,18 +123,18 @@
 1 Karn, the Great Creator
 1 Utopia Sprawl
 1 Prismatic Vista
-1 Mystic Gate
 1 Arbor Elf
 1 Tireless Tracker
 1 Burrenton Forge-Tender
+1 Mystic Gate
 1 Sunken Hollow
 2 Oath of Nissa
+2 Prismatic Vista
 2 Karn, the Great Creator
 2 Utopia Sprawl
-2 Temple Garden
-2 Prismatic Vista
 2 Arbor Elf
 2 Tireless Tracker
+2 Temple Garden
 2 Mystic Gate
 3 Karn, the Great Creator
 3 Oath of Nissa
@@ -156,25 +156,25 @@
 2 Teferi, Hero of Dominaria
 4 Fury
 1 Undying Malice
-1 Overgrown Tomb
-1 Indatha Triome
 1 Snow-Covered Swamp
+1 Polluted Delta
+1 Indatha Triome
 1 Zagoth Triome
 1 Restoration Angel
 1 Fatal Push
+1 Overgrown Tomb
 1 Siege Rhino
 1 Watery Grave
-1 Polluted Delta
 1 Soulherder
+2 Polluted Delta
 2 Snow-Covered Swamp
 2 Restoration Angel
 2 Fatal Push
-2 Polluted Delta
 2 Soulherder
 2 Siege Rhino
+3 Polluted Delta
 3 Restoration Angel
 3 Verdant Catacombs
-3 Polluted Delta
 3 Soulherder
 3 Siege Rhino
 4 Marsh Flats
@@ -193,8 +193,8 @@
 3 Giver of Runes
 3 Timeless Dragon
 3 Aether Vial
-4 Thraben Inspector
 4 Arid Mesa
+4 Thraben Inspector
 4 Skyclave Apparition
 4 Aether Vial
 4 Giver of Runes
@@ -204,25 +204,25 @@
 12 Plains
 13 Plains
 14 Plains
-1 Emeria's Call
-1 Urborg, Tomb of Yawgmoth
-1 Undying Evil
-1 Silent Clearing
 1 Malakir Rebirth
+1 Emeria's Call
+1 Touch the Spirit Realm
+1 Silent Clearing
+1 Undying Evil
 1 Eiganjo, Seat of the Empire
 1 Callous Bloodmage
 1 Shambling Vent
-1 Touch the Spirit Realm
 1 Tourach, Dread Cantor
+1 Urborg, Tomb of Yawgmoth
 1 Maul of the Skyclaves
+1 Swamp
 2 Malakir Rebirth
 2 Emeria's Call
 2 Touch the Spirit Realm
+2 Silent Clearing
 2 Undying Evil
 2 Agadeem's Awakening
-2 Silent Clearing
 2 Spirited Companion
-2 Tourach, Dread Cantor
 3 Godless Shrine
 3 Malakir Rebirth
 3 Silent Clearing
@@ -230,4 +230,4 @@
 4 Malakir Rebirth
 4 Silent Clearing
 4 Godless Shrine
-1 Swamp
+2 Tourach, Dread Cantor

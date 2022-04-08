@@ -1,10 +1,12 @@
-1 Kazuul's Fury
-3 Fading Hope
-1 Voltage Surge
-2 Voltage Surge
-1 Dragon's Fire
-2 Dragon's Fire
+2 Silundi Vision
+4 Lier, Disciple of the Drowned
+1 Valorous Stance
+2 Sundown Pass
+3 Hengegate Pathway
+1 You See a Guard Approach
+2 You See a Guard Approach
 3 Jwari Disruption
+3 Fading Hope
 2 Deserted Beach
 1 The Celestus
 1 Magma Opus
@@ -14,38 +16,32 @@
 3 Magma Opus
 3 Hinata, Dawn-Crowned
 1 Shatterskull Smashing
-2 Silundi Vision
-4 Lier, Disciple of the Drowned
+1 Dragon's Fire
+2 Dragon's Fire
 4 Hinata, Dawn-Crowned
-4 Spikefield Hazard
-1 You See a Guard Approach
-2 You See a Guard Approach
 4 Magma Opus
 1 Negate
+4 Spikefield Hazard
 2 Shatterskull Smashing
 1 Disdainful Stroke
 1 Abrade
-2 Mountain
 2 Valorous Stance
-3 Dragon's Fire
 3 Prismari Command
 4 Hengegate Pathway
 1 Smoldering Egg
 1 Demon Bolt
 1 Sokenzan, Crucible of Defiance
-2 Hall of Storm Giants
 2 Abrade
+2 Hall of Storm Giants
+2 Mountain
 2 The Celestus
+3 Dragon's Fire
 1 Memory Deluge
 3 Sundown Pass
 3 Deserted Beach
-1 Seize the Spoils
-2 Seize the Spoils
-3 Seize the Spoils
 1 Behold the Multiverse
 2 March of Swirling Mist
 2 Negate
-2 Island
 1 Eiganjo, Seat of the Empire
 2 Burn Down the House
 1 Plains
@@ -56,12 +52,16 @@
 4 Deserted Beach
 2 Smoldering Egg
 3 Smoldering Egg
+1 Seize the Spoils
+2 Seize the Spoils
+3 Seize the Spoils
 3 Abrade
 1 Farewell
 2 Behold the Multiverse
 1 Legion Angel
 4 Jwari Disruption
 3 Memory Deluge
+2 Island
 4 Sundown Pass
 1 Swiftwater Cliffs
 1 Tranquil Cove
@@ -72,11 +72,11 @@
 1 Solve the Equation
 2 Invoke Calamity
 2 Wish
-3 March of Swirling Mist
 1 Flame-Blessed Bolt
 1 Cinderclasm
 2 Flame-Blessed Bolt
 3 Shatterskull Smashing
+3 March of Swirling Mist
 1 Syncopate
 1 Vadrik, Astral Archmage
 2 Syncopate
@@ -102,11 +102,11 @@
 4 Fateful Absence
 1 Thirst for Discovery
 2 Thirst for Discovery
-3 Mountain
 3 Island
+3 Mountain
+4 Mountain
 4 Galvanic Iteration
 4 Island
-4 Mountain
 5 Mountain
 6 Mountain
 1 Play with Fire
@@ -130,7 +130,7 @@
 3 Atsushi, the Blazing Sky
 3 Kairi, the Swirling Sky
 3 Pyre of Heroes
-4 Dragon's Fire
 4 Prismari Command
 4 Atsushi, the Blazing Sky
 4 Temple of the Dragon Queen
+4 Dragon's Fire
