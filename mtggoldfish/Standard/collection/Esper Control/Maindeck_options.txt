@@ -67,8 +67,8 @@
 4 Consider
 1 Deadly Dispute
 1 Shambling Ghast
-2 Deadly Dispute
 2 Shambling Ghast
+2 Deadly Dispute
 1 Test of Talents
 1 Field of Ruin
 2 Check for Traps
@@ -170,12 +170,12 @@
 1 Grazilaxx, Illithid Scholar
 1 Reidane, God of the Worthy
 1 Kaya the Inexorable
-2 Grazilaxx, Illithid Scholar
 2 Reidane, God of the Worthy
+2 Grazilaxx, Illithid Scholar
 3 Emeria's Call
 3 Fateful Absence
-1 Snow-Covered Swamp
 1 Poppet Stitcher
+1 Snow-Covered Swamp
 1 Village Rites
 1 Snow-Covered Plains
 1 Startle
@@ -188,9 +188,6 @@
 3 Poppet Stitcher
 3 Sedgemoor Witch
 3 Startle
-1 Ebondeath, Dracolich
-3 Edgar, Charmed Groom
-4 Deadly Dispute
 1 Invoke Despair
 1 Toxrill, the Corrosive
 2 Invoke Despair
@@ -205,6 +202,9 @@
 2 Island
 3 Island
 4 Island
+1 Ebondeath, Dracolich
+3 Edgar, Charmed Groom
+4 Deadly Dispute
 3 Tainted Adversary
 4 Tainted Adversary
 4 Hive of the Eye Tyrant

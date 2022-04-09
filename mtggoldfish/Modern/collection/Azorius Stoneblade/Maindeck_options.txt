@@ -107,8 +107,8 @@
 3 Geist of Saint Traft
 1 Sword of Feast and Famine
 1 Snow-Covered Mountain
-1 Faithful Mending
 1 Electrolyze
+1 Faithful Mending
 1 Concealed Courtyard
 1 Thoughtseize
 1 Inquisition of Kozilek
@@ -181,12 +181,6 @@
 2 Cryptic Command
 1 Spell Snare
 2 Shark Typhoon
-1 Infernal Grasp
-1 Drown in the Loch
-1 Shambling Vent
-1 Vindicate
-2 Drown in the Loch
-2 Dakkon, Shadow Slayer
 2 Sanctum Prelate
 1 Darkslick Shores
 1 Drowned Catacomb
@@ -196,18 +190,20 @@
 1 Esper Charm
 2 Darkslick Shores
 2 Lingering Souls
+1 Infernal Grasp
+1 Shambling Vent
+1 Vindicate
+1 Drown in the Loch
+2 Dakkon, Shadow Slayer
+2 Drown in the Loch
 4 Jace, the Mind Sculptor
 1 Thraben Inspector
+2 Consider
 2 The Wandering Emperor
 2 Thraben Inspector
-2 Consider
 3 Thraben Inspector
 4 Thraben Inspector
 4 Path to Exile
-1 Opt
-2 Opt
-3 Opt
-4 Opt
 1 Serum Visions
 2 Spell Pierce
 2 Moorland Haunt
@@ -224,8 +220,6 @@
 2 Botanical Sanctum
 4 Windswept Heath
 4 Expressive Iteration
-4 Plains
-5 Plains
 1 Cavern of Souls
 1 Shadowspear
 1 Invisible Stalker
@@ -243,3 +237,9 @@
 4 Geist of Saint Traft
 4 Cavern of Souls
 4 Fervent Champion
+4 Plains
+5 Plains
+1 Opt
+2 Opt
+3 Opt
+4 Opt
