@@ -20,7 +20,6 @@
 1 Knight of Autumn
 1 Wandering Mind
 1 Overgrown Farmland
-1 Barkchannel Pathway
 1 Omen of the Forge
 1 Moon-Blessed Cleric
 1 Branchloft Pathway
@@ -30,13 +29,14 @@
 1 Enigmatic Incarnation
 1 Tolsimir, Friend to Wolves
 1 Cavalier of Dawn
+1 Barkchannel Pathway
 1 Mana Confluence
 2 Branchloft Pathway
 2 Hengegate Pathway
 2 Overgrown Farmland
-2 Barkchannel Pathway
 2 Moon-Blessed Cleric
 2 Nylea's Presence
+2 Barkchannel Pathway
 2 Enigmatic Incarnation
 3 Hengegate Pathway
 3 Branchloft Pathway
@@ -76,14 +76,14 @@
 2 Hallowed Fountain
 1 Valakut Awakening
 1 Eiganjo, Seat of the Empire
+1 Deserted Beach
 1 Stormcarved Coast
 1 Sundown Pass
-1 Deserted Beach
 1 Otawara, Soaring City
 2 Valakut Awakening
+2 Deserted Beach
 2 Castle Ardenvale
 2 Stormcarved Coast
-2 Deserted Beach
 3 The Wandering Emperor
 3 Supreme Verdict
 4 The Wandering Emperor
@@ -103,21 +103,21 @@
 1 Sulfur Falls
 1 Mystical Dispute
 2 Snow-Covered Island
-1 Spirited Companion
 1 Jukai Naturalist
+1 Spirited Companion
 1 Colossal Skyturtle
 2 Jukai Naturalist
 3 Jukai Naturalist
 4 Jukai Naturalist
 1 Field of Ruin
 1 Omnath, Locus of the Roil
-1 Alrund's Epiphany
 1 Breeding Pool
 1 Yasharn, Implacable Earth
 1 Arboreal Grazer
 1 Risen Reef
 1 Nissa, Who Shakes the World
 1 Boseiju, Who Endures
+1 Alrund's Epiphany
 1 Genesis Ultimatum
 1 Temple Garden
 1 Omnath, Locus of Creation
@@ -125,13 +125,13 @@
 1 Cavalier of Flame
 1 Cavalier of Thorns
 2 Breeding Pool
-2 Alrund's Epiphany
 2 Mountain
 2 Omnath, Locus of Creation
 2 Arboreal Grazer
 2 Risen Reef
 2 Nissa, Who Shakes the World
 2 Omnath, Locus of the Roil
+2 Alrund's Epiphany
 2 Forest
 2 Genesis Ultimatum
 2 Temple Garden

@@ -65,10 +65,10 @@
 1 Gideon of the Trials
 1 Sea Gate Restoration
 2 Sea Gate Restoration
-1 Seal Away
-2 Seal Away
 1 Syncopate
 2 Syncopate
+1 Seal Away
+2 Seal Away
 1 Cave of the Frost Dragon
 1 Relic of Progenitus
 2 Field of Ruin
@@ -86,26 +86,16 @@
 3 Rest in Peace
 3 Doomskar
 3 Wrath of God
-1 Discover the Impossible
-1 Emeria's Call
-1 Grafdigger's Cage
-1 Aether Gust
-2 Discover the Impossible
-2 Censor
-3 Censor
-3 Discover the Impossible
-3 Essence Scatter
-4 Discover the Impossible
 1 Hieroglyphic Illumination
 2 Hieroglyphic Illumination
 3 Farewell
 3 The Wandering Emperor
 4 The Wandering Emperor
 1 Fabled Passage
-1 Lithoform Engine
 1 Key to the Archive
 1 Esper Sentinel
 1 Fae of Wishes
+1 Lithoform Engine
 2 Fae of Wishes
 2 Fabled Passage
 2 Esper Sentinel
@@ -120,6 +110,16 @@
 3 Dovin's Veto
 4 Dovin's Veto
 4 Opt
+1 Discover the Impossible
+1 Emeria's Call
+1 Grafdigger's Cage
+1 Aether Gust
+2 Discover the Impossible
+2 Censor
+3 Censor
+3 Essence Scatter
+3 Discover the Impossible
+4 Discover the Impossible
 1 Torrential Gearhulk
 1 Tranquil Cove
 1 Anticipate

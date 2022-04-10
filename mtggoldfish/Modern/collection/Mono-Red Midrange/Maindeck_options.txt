@@ -37,10 +37,10 @@
 4 Experimental Synthesizer
 1 Chandra, Fire Artisan
 2 Chandra, Fire Artisan
-1 Light Up the Night
 1 Abrade
-2 Light Up the Night
+1 Light Up the Night
 2 Abrade
+2 Light Up the Night
 2 Sunbaked Canyon
 12 Mountain
 1 Ramunap Ruins
@@ -123,20 +123,20 @@
 3 Glorybringer
 4 Glorybringer
 2 Sokenzan, Crucible of Defiance
-1 Mutavault
-2 Scavenger Grounds
 1 Chandra, Awakened Inferno
 2 Chandra, Awakened Inferno
+1 Mutavault
+2 Scavenger Grounds
 3 Chandra, Fire Artisan
+1 Needleverge Pathway
+1 Field of Ruin
+2 Field of Ruin
+3 Field of Ruin
+4 Field of Ruin
 1 Dead/Gone
 2 Dead/Gone
 3 Dead/Gone
 4 Dead/Gone
-1 Field of Ruin
-1 Needleverge Pathway
-2 Field of Ruin
-3 Field of Ruin
-4 Field of Ruin
 1 Fable of the Mirror-Breaker
 1 Twinshot Sniper
 2 Fable of the Mirror-Breaker
@@ -150,8 +150,8 @@
 2 Soul-Guide Lantern
 3 Dragon's Rage Channeler
 3 Soul-Guide Lantern
-4 Soul-Guide Lantern
 4 Dragon's Rage Channeler
+4 Soul-Guide Lantern
 1 Unholy Heat
 1 Cleansing Wildfire
 1 Chandra, Acolyte of Flame
@@ -178,9 +178,9 @@
 4 Ratchet Bomb
 4 Ensnaring Bridge
 4 Zhalfirin Void
-1 Moonveil Regent
 1 Obsidian Charmaw
 1 Stormbreath Dragon
+1 Moonveil Regent
 1 Sarkhan, Fireblood
 2 Moonveil Regent
 2 Obsidian Charmaw

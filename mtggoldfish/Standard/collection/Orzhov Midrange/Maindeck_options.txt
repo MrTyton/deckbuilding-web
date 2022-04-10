@@ -1,8 +1,8 @@
 2 Ambitious Farmhand
 2 Kaya the Inexorable
 3 Ambitious Farmhand
-4 Ambitious Farmhand
 4 Welcoming Vampire
+4 Ambitious Farmhand
 1 Field of Ruin
 2 Eiganjo, Seat of the Empire
 1 Edgar, Charmed Groom
@@ -22,8 +22,8 @@
 1 Reckoner Bankbuster
 2 Infernal Grasp
 2 Cave of the Frost Dragon
-3 Concealing Curtains
 3 Silverquill Silencer
+3 Concealing Curtains
 3 The Meathook Massacre
 1 Elite Spellbinder
 2 Henrika Domnathi
@@ -59,16 +59,16 @@
 2 Edgar, Charmed Groom
 3 Shambling Ghast
 4 Shambling Ghast
+1 Valki, God of Lies
 1 Adeline, Resplendent Cathar
 1 Blightstep Pathway
-1 Valki, God of Lies
 1 Needleverge Pathway
 2 Valki, God of Lies
 2 Blightstep Pathway
 2 Adeline, Resplendent Cathar
 2 Needleverge Pathway
-3 Blightstep Pathway
 3 Needleverge Pathway
+3 Blightstep Pathway
 4 Blightstep Pathway
 4 Needleverge Pathway
 6 Swamp
@@ -106,11 +106,6 @@
 3 Cathar Commando
 2 Field of Ruin
 3 Elite Spellbinder
-1 Doomskar
-2 March of Otherworldly Light
-2 Doomskar
-3 March of Otherworldly Light
-4 March of Otherworldly Light
 1 Ao, the Dawn Sky
 1 Roadside Reliquary
 1 Brutal Cathar
@@ -124,6 +119,11 @@
 4 Rite of Oblivion
 4 Professor of Symbology
 4 Duress
+1 Doomskar
+2 March of Otherworldly Light
+2 Doomskar
+3 March of Otherworldly Light
+4 March of Otherworldly Light
 1 Triumphant Adventurer
 2 Shineshadow Snarl
 2 Triumphant Adventurer
@@ -132,9 +132,9 @@
 1 Power Word Kill
 4 The Restoration of Eiganjo
 1 Hero's Downfall
-1 Righteous Valkyrie
-1 Vengeful Reaper
 1 Liesa, Forgotten Archangel
+1 Vengeful Reaper
+1 Righteous Valkyrie
 1 Firja's Retribution
 1 Youthful Valkyrie
 1 Valkyrie Harbinger
@@ -144,19 +144,19 @@
 1 Starnheim Aspirant
 2 Bloodchief's Thirst
 2 Liesa, Forgotten Archangel
-2 Righteous Valkyrie
 2 Vengeful Reaper
 2 Rampage of the Valkyries
+2 Righteous Valkyrie
 2 Firja's Retribution
 2 Youthful Valkyrie
 2 Starnheim Aspirant
-3 Righteous Valkyrie
-3 Vengeful Reaper
 3 Bloodchief's Thirst
+3 Righteous Valkyrie
 3 Youthful Valkyrie
+3 Vengeful Reaper
 3 Firja's Retribution
-4 Righteous Valkyrie
 4 Vengeful Reaper
+4 Righteous Valkyrie
 4 Youthful Valkyrie
 8 Swamp
 8 Plains

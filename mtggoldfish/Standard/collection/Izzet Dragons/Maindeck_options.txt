@@ -49,64 +49,60 @@
 3 Bloodthirsty Adversary
 4 Bloodthirsty Adversary
 1 Syncopate
-1 Thirst for Discovery
-1 Kairi, the Swirling Sky
-1 Deliberate
 1 Flame-Blessed Bolt
+1 Thirst for Discovery
+1 Deliberate
+1 Kairi, the Swirling Sky
 1 Snow-Covered Island
 3 Field of Ruin
-4 Memory Deluge
-2 Crush the Weak
-3 Behold the Multiverse
-4 Behold the Multiverse
-1 Reckoner Bankbuster
-1 Voltage Surge
-2 Reckoner Bankbuster
-2 Voltage Surge
-2 Galazeth Prismari
-3 Reckoner Bankbuster
-3 Negate
-3 Abrade
-3 Galazeth Prismari
-4 Negate
-4 Reckoner Bankbuster
-4 Abrade
 1 Manaform Hellkite
-1 March of Swirling Mist
 1 Into the Roil
 1 Mystic Reflection
+1 March of Swirling Mist
 1 Frostboil Snarl
-2 March of Swirling Mist
 2 Manaform Hellkite
 2 Spell Pierce
 2 Frostboil Snarl
 2 Mystic Reflection
 2 Into the Roil
+2 March of Swirling Mist
 3 Frostboil Snarl
 3 Manaform Hellkite
 4 Manaform Hellkite
 4 Frostboil Snarl
-1 Iymrith, Desert Doom
-1 Grazilaxx, Illithid Scholar
+1 Reckoner Bankbuster
+1 Voltage Surge
+2 Reckoner Bankbuster
+2 Voltage Surge
+2 Galazeth Prismari
+3 Negate
+3 Abrade
+3 Reckoner Bankbuster
+3 Galazeth Prismari
+4 Reckoner Bankbuster
+4 Abrade
+4 Negate
 1 Crawling Barrens
-1 Curse of Hospitality
-1 Eater of Virtue
 1 Thundering Raiju
-1 Atsushi, the Blazing Sky
-1 Lizard Blades
+1 Iymrith, Desert Doom
 1 Thundering Rebuke
+1 Lizard Blades
+1 Atsushi, the Blazing Sky
 1 Volatile Fjord
+1 Grazilaxx, Illithid Scholar
 1 Swiftwater Cliffs
+1 Eater of Virtue
+1 Curse of Hospitality
 1 Disruption Protocol
 1 Cosima, God of the Voyage
 1 Mindlink Mech
 1 Ruin Crab
 2 Thundering Rebuke
 2 Thundering Raiju
-2 Eater of Virtue
 2 Lizard Blades
 2 Swiftwater Cliffs
 2 Curse of Hospitality
+2 Eater of Virtue
 2 Ruin Crab
 2 Volatile Fjord
 2 Cosima, God of the Voyage
@@ -123,9 +119,13 @@
 3 Lizard Blades
 4 Swiftwater Cliffs
 4 Ruin Crab
-1 Spectral Adversary
+2 Crush the Weak
+3 Behold the Multiverse
+4 Behold the Multiverse
+4 Memory Deluge
 1 Seismic Wave
 1 Overcharged Amalgam
+1 Spectral Adversary
 1 Malevolent Hermit
 2 Seismic Wave
 2 Overcharged Amalgam
@@ -134,24 +134,24 @@
 3 Spectral Adversary
 4 Fading Hope
 4 Spectral Adversary
-1 Roil Eruption
 1 Magmatic Channeler
+1 Roil Eruption
 1 Sea Gate Stormcaller
 1 Magic Missile
-2 Sokenzan, Crucible of Defiance
 2 Magmatic Channeler
 2 Sea Gate Stormcaller
+2 Sokenzan, Crucible of Defiance
 2 Roil Eruption
 2 Magic Missile
 3 Den of the Bugbear
-3 Play with Fire
 3 Magic Missile
 3 Magmatic Channeler
 3 Roil Eruption
+3 Play with Fire
 3 Sea Gate Stormcaller
 4 Den of the Bugbear
-4 Play with Fire
 4 Magic Missile
+4 Play with Fire
 4 Magmatic Channeler
 4 Sea Gate Stormcaller
 4 Roil Eruption
@@ -165,7 +165,7 @@
 4 Galvanic Iteration
 7 Mountain
 8 Mountain
-2 Otawara, Soaring City
 2 Magma Opus
+2 Otawara, Soaring City
 3 Magma Opus
 4 Magma Opus

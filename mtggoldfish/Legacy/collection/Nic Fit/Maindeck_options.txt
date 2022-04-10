@@ -113,6 +113,10 @@
 4 Snow-Covered Forest
 1 Liliana, the Last Hope
 1 Baleful Strix
+1 Bone Shards
+1 Unearth
+1 Paradox Zone
+2 Bone Shards
 1 Jace, the Mind Sculptor
 1 Witherbloom Command
 1 Vivien Reid
@@ -120,12 +124,8 @@
 1 Island
 1 Life from the Loam
 2 Witherbloom Command
-1 Unearth
-1 Bone Shards
-1 Paradox Zone
-2 Bone Shards
-1 Koma, Cosmos Serpent
 1 Xanathar, Guild Kingpin
+1 Koma, Cosmos Serpent
 1 Carnage Tyrant
 1 Allosaurus Shepherd
 1 The Scarab God
@@ -143,9 +143,19 @@
 2 Abundant Harvest
 2 Fatal Push
 3 Abundant Harvest
-1 Elder Gargaroth
+1 Valki, God of Lies
+1 Mayhem Devil
+1 The Meathook Massacre
+1 Masked Vandal
+1 Juri, Master of the Revue
+2 Snow-Covered Mountain
+2 Mayhem Devil
+2 Titania, Protector of Argoth
+2 The Meathook Massacre
+3 Mayhem Devil
 1 Shifting Ceratops
 1 Plague Engineer
+1 Elder Gargaroth
 2 Hexdrinker
 2 Tireless Tracker
 2 Plague Engineer
@@ -170,16 +180,6 @@
 3 Plumb the Forbidden
 2 Cavern Harpy
 3 Polluted Delta
-1 Valki, God of Lies
-1 The Meathook Massacre
-1 Masked Vandal
-1 Juri, Master of the Revue
-1 Mayhem Devil
-2 Snow-Covered Mountain
-2 Titania, Protector of Argoth
-2 Mayhem Devil
-2 The Meathook Massacre
-3 Mayhem Devil
 1 Nicol Bolas, Planeswalker
 1 Marsh Flats
 1 Carth the Lion
@@ -205,16 +205,16 @@
 1 Urborg, Tomb of Yawgmoth
 5 Swamp
 1 Canopy Vista
+1 Dead of Winter
 1 Overgrown Tomb
 1 Duress
 1 Kaya, Orzhov Usurper
 1 Snow-Covered Plains
-1 Dead of Winter
 1 Garruk, Cursed Huntsman
 1 Fiend Artisan
 2 Duress
-2 Crop Rotation
 2 Dead of Winter
+2 Crop Rotation
 2 Ugin, the Spirit Dragon
 2 Snow-Covered Plains
 3 Snow-Covered Swamp

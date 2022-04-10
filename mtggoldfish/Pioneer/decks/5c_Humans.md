@@ -59,7 +59,7 @@
 |                    1|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)                  |                     |                                                                                                       |
 |                    1|[Sunpetal Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420946)             |                     |                                                                                                       |
 |                    1|[Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)             |                     |                                                                                                       |
-|                    2|[Augur of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534952)            |                     |                                                                                                       |
 |                    2|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)                  |                     |                                                                                                       |
+|                    2|[Augur of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534952)            |                     |                                                                                                       |
 |                    3|[Kytheon, Hero of Akros](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398428)     |                     |                                                                                                       |
 

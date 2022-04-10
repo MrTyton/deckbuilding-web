@@ -80,16 +80,16 @@
 1 Snow-Covered Swamp
 2 Snow-Covered Island
 2 Snow-Covered Swamp
-3 Snow-Covered Island
 3 Snow-Covered Swamp
-4 Snow-Covered Island
+3 Snow-Covered Island
 4 Snow-Covered Swamp
+4 Snow-Covered Island
 5 Snow-Covered Island
 5 Snow-Covered Swamp
-6 Snow-Covered Island
 6 Snow-Covered Swamp
-7 Snow-Covered Island
+6 Snow-Covered Island
 7 Snow-Covered Swamp
+7 Snow-Covered Island
 8 Snow-Covered Island
 2 Satoru Umezawa
 2 Anticognition
@@ -131,20 +131,20 @@
 1 Ice Tunnel
 2 Ice Tunnel
 3 Ice Tunnel
-1 Sea Gate Restoration
 1 Mirrorhall Mimic
-2 Hagra Mauling
+1 Sea Gate Restoration
 1 Flunk
 1 Grazilaxx, Illithid Scholar
 1 Sorin the Mirthless
 2 Malevolent Hermit
 2 Flunk
+2 Hagra Mauling
+1 March of Swirling Mist
+2 March of Swirling Mist
 1 Ebondeath, Dracolich
 2 Ebondeath, Dracolich
 1 Return to Action
 2 Return to Action
-1 March of Swirling Mist
-2 March of Swirling Mist
 1 Okiba Reckoner Raid
 2 Okiba Reckoner Raid
 3 Okiba Reckoner Raid
@@ -153,8 +153,8 @@
 3 Moon-Circuit Hacker
 1 Wash Away
 2 Wash Away
-3 Wash Away
 3 The Meathook Massacre
+3 Wash Away
 4 The Meathook Massacre
 1 Graveyard Trespasser
 1 Lash of Malice
@@ -165,8 +165,10 @@
 3 Graveyard Trespasser
 3 Inspired Idea
 4 Graveyard Trespasser
-2 Dread Fugue
+3 Spectral Adversary
+4 Spectral Adversary
 2 Soul Shatter
+2 Dread Fugue
 3 Dread Fugue
 4 Memory Deluge
 4 Dread Fugue
@@ -182,8 +184,6 @@
 3 Relic Golem
 3 Glacial Grasp
 4 Acquisitions Expert
-3 Spectral Adversary
-4 Spectral Adversary
 1 Dokuchi Silencer
 2 Dokuchi Silencer
 3 Dokuchi Silencer
@@ -197,8 +197,8 @@
 2 Kotose, the Silent Spider
 2 Blightstep Pathway
 2 Riverglide Pathway
-3 Kotose, the Silent Spider
 3 Blightstep Pathway
+3 Kotose, the Silent Spider
 3 Riverglide Pathway
 4 Zareth San, the Trickster
 4 Blightstep Pathway
@@ -206,30 +206,30 @@
 2 Morbid Opportunist
 3 Negate
 3 Morbid Opportunist
-4 Hero's Downfall
 4 Negate
+4 Hero's Downfall
 4 Evolving Wilds
 4 Morbid Opportunist
 10 Swamp
 10 Island
 1 Blood Fountain
+1 Eyetwitch
 1 Poison the Cup
 1 Screaming Swarm
-1 Eyetwitch
 1 Mischievous Catgeist
 1 Fell Stinger
+2 Eyetwitch
 2 Poison the Cup
 2 Fell Stinger
 2 Screaming Swarm
-2 Eyetwitch
 2 Mischievous Catgeist
 3 Fell Stinger
-3 Thirst for Discovery
-3 Saw It Coming
 3 Eyetwitch
-4 Ice Tunnel
-4 Saw It Coming
+3 Saw It Coming
+3 Thirst for Discovery
 4 Eyetwitch
+4 Saw It Coming
+4 Ice Tunnel
 8 Snow-Covered Swamp
 9 Snow-Covered Island
 10 Snow-Covered Island
