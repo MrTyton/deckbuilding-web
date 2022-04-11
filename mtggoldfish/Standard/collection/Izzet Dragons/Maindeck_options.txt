@@ -34,8 +34,8 @@
 5 Mountain
 6 Mountain
 1 Galazeth Prismari
-2 Fable of the Mirror-Breaker
 2 Abrade
+2 Fable of the Mirror-Breaker
 3 Fable of the Mirror-Breaker
 4 Fable of the Mirror-Breaker
 1 Play with Fire
@@ -55,74 +55,74 @@
 1 Kairi, the Swirling Sky
 1 Snow-Covered Island
 3 Field of Ruin
-1 Manaform Hellkite
+4 Memory Deluge
 1 Into the Roil
 1 Mystic Reflection
 1 March of Swirling Mist
 1 Frostboil Snarl
-2 Manaform Hellkite
+1 Manaform Hellkite
+2 Into the Roil
 2 Spell Pierce
 2 Frostboil Snarl
 2 Mystic Reflection
-2 Into the Roil
+2 Manaform Hellkite
 2 March of Swirling Mist
 3 Frostboil Snarl
 3 Manaform Hellkite
 4 Manaform Hellkite
 4 Frostboil Snarl
-1 Reckoner Bankbuster
-1 Voltage Surge
-2 Reckoner Bankbuster
-2 Voltage Surge
-2 Galazeth Prismari
-3 Negate
-3 Abrade
-3 Reckoner Bankbuster
-3 Galazeth Prismari
-4 Reckoner Bankbuster
-4 Abrade
-4 Negate
-1 Crawling Barrens
-1 Thundering Raiju
-1 Iymrith, Desert Doom
-1 Thundering Rebuke
-1 Lizard Blades
-1 Atsushi, the Blazing Sky
-1 Volatile Fjord
 1 Grazilaxx, Illithid Scholar
+1 Ruin Crab
+1 Thundering Rebuke
+1 Volatile Fjord
+1 Crawling Barrens
 1 Swiftwater Cliffs
 1 Eater of Virtue
+1 Atsushi, the Blazing Sky
+1 Thundering Raiju
 1 Curse of Hospitality
 1 Disruption Protocol
 1 Cosima, God of the Voyage
 1 Mindlink Mech
-1 Ruin Crab
+1 Iymrith, Desert Doom
+1 Lizard Blades
 2 Thundering Rebuke
-2 Thundering Raiju
-2 Lizard Blades
+2 Ruin Crab
 2 Swiftwater Cliffs
 2 Curse of Hospitality
 2 Eater of Virtue
-2 Ruin Crab
+2 Lizard Blades
 2 Volatile Fjord
 2 Cosima, God of the Voyage
 2 Disruption Protocol
+2 Thundering Raiju
 2 Mindlink Mech
-3 Thundering Raiju
+3 Ruin Crab
 3 Cinderclasm
-3 Thundering Rebuke
 3 Disruption Protocol
 3 Mindlink Mech
-3 Ruin Crab
+3 Thundering Rebuke
 3 Swiftwater Cliffs
 3 Volatile Fjord
+3 Thundering Raiju
 3 Lizard Blades
-4 Swiftwater Cliffs
 4 Ruin Crab
+4 Swiftwater Cliffs
+1 Reckoner Bankbuster
+1 Voltage Surge
+2 Voltage Surge
+2 Reckoner Bankbuster
+2 Galazeth Prismari
+3 Reckoner Bankbuster
+3 Abrade
+3 Negate
+3 Galazeth Prismari
+4 Reckoner Bankbuster
+4 Abrade
+4 Negate
 2 Crush the Weak
 3 Behold the Multiverse
 4 Behold the Multiverse
-4 Memory Deluge
 1 Seismic Wave
 1 Overcharged Amalgam
 1 Spectral Adversary
@@ -143,9 +143,9 @@
 2 Sokenzan, Crucible of Defiance
 2 Roil Eruption
 2 Magic Missile
-3 Den of the Bugbear
 3 Magic Missile
 3 Magmatic Channeler
+3 Den of the Bugbear
 3 Roil Eruption
 3 Play with Fire
 3 Sea Gate Stormcaller
@@ -155,6 +155,10 @@
 4 Magmatic Channeler
 4 Sea Gate Stormcaller
 4 Roil Eruption
+2 Otawara, Soaring City
+2 Magma Opus
+3 Magma Opus
+4 Magma Opus
 1 Alchemist's Gambit
 1 Crackle with Power
 2 Invoke Calamity
@@ -165,7 +169,3 @@
 4 Galvanic Iteration
 7 Mountain
 8 Mountain
-2 Magma Opus
-2 Otawara, Soaring City
-3 Magma Opus
-4 Magma Opus

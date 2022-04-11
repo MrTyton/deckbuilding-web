@@ -41,16 +41,16 @@
 1 Tainted Adversary
 1 Champion of the Perished
 1 Headless Rider
+2 Tainted Adversary
 2 Jadar, Ghoulcaller of Nephalia
 2 Champion of the Perished
-2 Tainted Adversary
 2 Headless Rider
-3 Headless Rider
 3 Tainted Adversary
+3 Headless Rider
 3 Jadar, Ghoulcaller of Nephalia
 3 Champion of the Perished
-4 Champion of the Perished
 4 Tainted Adversary
+4 Champion of the Perished
 1 Valki, God of Lies
 2 Crawling Barrens
 3 Invoke Despair
@@ -139,13 +139,19 @@
 2 Valki, God of Lies
 1 Cosmos Elixir
 1 Blackbloom Rogue
-2 Blackbloom Rogue
 2 Cosmos Elixir
+2 Blackbloom Rogue
 1 Westgate Regent
 1 Flunk
 2 Flunk
 3 Flunk
 3 Hero's Downfall
+1 Power Word Kill
+1 Warlock Class
+2 Warlock Class
+2 Power Word Kill
+3 Warlock Class
+4 Warlock Class
 4 Village Rites
 1 Rotten Reunion
 1 Pelakka Predation
@@ -158,12 +164,6 @@
 3 Surgehacker Mech
 3 Rotten Reunion
 4 Surgehacker Mech
-1 Power Word Kill
-1 Warlock Class
-2 Warlock Class
-2 Power Word Kill
-3 Warlock Class
-4 Warlock Class
 3 Mukotai Soulripper
 3 Hagra Mauling
 4 Mukotai Soulripper
@@ -181,9 +181,9 @@
 3 Acquisitions Expert
 21 Snow-Covered Swamp
 22 Snow-Covered Swamp
+1 Henrika Domnathi
 1 Morkrut Behemoth
 1 Okiba Reckoner Raid
-1 Henrika Domnathi
 1 Dread Rider
 2 Okiba Reckoner Raid
 3 Bloodchief's Thirst

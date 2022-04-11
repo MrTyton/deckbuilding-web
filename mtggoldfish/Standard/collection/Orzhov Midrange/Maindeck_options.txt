@@ -59,9 +59,9 @@
 2 Edgar, Charmed Groom
 3 Shambling Ghast
 4 Shambling Ghast
-1 Valki, God of Lies
 1 Adeline, Resplendent Cathar
 1 Blightstep Pathway
+1 Valki, God of Lies
 1 Needleverge Pathway
 2 Valki, God of Lies
 2 Blightstep Pathway
@@ -91,37 +91,34 @@
 1 Starnheim Unleashed
 2 Starnheim Unleashed
 6 Plains
-7 Swamp
 7 Plains
+7 Swamp
 1 Farewell
 2 Farewell
 4 Eyetwitch
-1 Agadeem's Awakening
 1 Archon of Emeria
+1 Agadeem's Awakening
 2 Great Hall of Starnheim
-3 Reckoner Bankbuster
 3 Path of Peril
+3 Reckoner Bankbuster
 1 Cathar Commando
 2 Cathar Commando
 3 Cathar Commando
 2 Field of Ruin
 3 Elite Spellbinder
-1 Ao, the Dawn Sky
-1 Roadside Reliquary
+4 Duress
+3 Paladin Class
+4 Reidane, God of the Worthy
 1 Brutal Cathar
 1 Portable Hole
+1 Ao, the Dawn Sky
+1 Roadside Reliquary
 2 Brutal Cathar
 3 Brutal Cathar
 4 Skyclave Apparition
-3 Paladin Class
-4 Reidane, God of the Worthy
-2 Legion Angel
-4 Rite of Oblivion
-4 Professor of Symbology
-4 Duress
 1 Doomskar
-2 March of Otherworldly Light
 2 Doomskar
+2 March of Otherworldly Light
 3 March of Otherworldly Light
 4 March of Otherworldly Light
 1 Triumphant Adventurer
@@ -131,7 +128,9 @@
 4 Triumphant Adventurer
 1 Power Word Kill
 4 The Restoration of Eiganjo
-1 Hero's Downfall
+2 Legion Angel
+4 Professor of Symbology
+4 Rite of Oblivion
 1 Liesa, Forgotten Archangel
 1 Vengeful Reaper
 1 Righteous Valkyrie
@@ -142,19 +141,20 @@
 1 Angel of Destiny
 1 Rampage of the Valkyries
 1 Starnheim Aspirant
+1 Hero's Downfall
 2 Bloodchief's Thirst
-2 Liesa, Forgotten Archangel
 2 Vengeful Reaper
 2 Rampage of the Valkyries
 2 Righteous Valkyrie
+2 Liesa, Forgotten Archangel
 2 Firja's Retribution
 2 Youthful Valkyrie
 2 Starnheim Aspirant
-3 Bloodchief's Thirst
 3 Righteous Valkyrie
 3 Youthful Valkyrie
 3 Vengeful Reaper
 3 Firja's Retribution
+3 Bloodchief's Thirst
 4 Vengeful Reaper
 4 Righteous Valkyrie
 4 Youthful Valkyrie
@@ -162,7 +162,7 @@
 8 Plains
 9 Swamp
 9 Plains
-10 Swamp
 10 Plains
+10 Swamp
 11 Swamp
 11 Plains
