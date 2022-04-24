@@ -93,10 +93,10 @@
 3 Sacred Foundry
 3 Brought Back
 3 Hallowed Fountain
+4 Plains
 4 Brought Back
 4 Sacred Foundry
 4 Hallowed Fountain
-4 Plains
 1 Brazen Borrower
 1 Ardent Plea
 1 Crashing Footfalls
@@ -109,9 +109,9 @@
 4 Force of Negation
 4 Crashing Footfalls
 4 Brazen Borrower
-1 Stoneforge Mystic
 1 Kaldra Compleat
 1 Batterskull
+1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 2 Snow-Covered Island
@@ -189,15 +189,15 @@
 3 Renegade Rallier
 4 Eladamri's Call
 4 Ephemerate
-1 Charming Prince
 1 Grove of the Burnwillows
 1 Razorverge Thicket
+1 Horizon Canopy
 1 Spell Queller
 1 Copperline Gorge
 1 Skyclave Apparition
 1 Eldritch Evolution
 1 Turntimber Symbiosis
-1 Horizon Canopy
+1 Charming Prince
 2 Temple Garden
 2 Spell Queller
 2 Skyclave Apparition
@@ -211,8 +211,8 @@
 1 Den of the Bugbear
 2 Mulldrifter
 1 Seachrome Coast
-2 Inspiring Vantage
 2 Seachrome Coast
+2 Inspiring Vantage
 2 On Thin Ice
 1 Sunbaked Canyon
 1 Kozilek, Butcher of Truth
@@ -224,13 +224,16 @@
 2 Emrakul, the Aeons Torn
 2 Ignoble Hierarch
 3 Arboreal Grazer
-1 Celestial Colonnade
-4 Wall of Omens
+1 Goblin Dark-Dwellers
+2 Goblin Dark-Dwellers
+3 Goblin Dark-Dwellers
 1 Territorial Kavu
 1 Indatha Triome
 2 Territorial Kavu
 3 Territorial Kavu
 4 Territorial Kavu
+1 Celestial Colonnade
+4 Wall of Omens
 3 Prismatic Vista
 4 Prismatic Vista
 1 Path to Exile
@@ -242,8 +245,5 @@
 2 Utopia Sprawl
 3 Utopia Sprawl
 3 Path to Exile
-4 Path to Exile
 4 Utopia Sprawl
-1 Goblin Dark-Dwellers
-2 Goblin Dark-Dwellers
-3 Goblin Dark-Dwellers
+4 Path to Exile

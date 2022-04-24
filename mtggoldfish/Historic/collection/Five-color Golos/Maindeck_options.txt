@@ -128,8 +128,8 @@
 2 Gruul Guildgate
 2 Circuitous Route
 2 Izzet Guildgate
-3 Growth Spiral
 3 Explore
+3 Growth Spiral
 3 Circuitous Route
 3 Guild Summit
 3 Gates Ablaze
@@ -176,8 +176,8 @@
 4 Genesis Ultimatum
 1 Riverglide Pathway
 1 Steam Vents
-2 Riverglide Pathway
 2 Mountain
+2 Riverglide Pathway
 2 Steam Vents
 3 Riverglide Pathway
 3 Steam Vents
@@ -267,6 +267,7 @@
 1 The Great Henge
 1 Season of Growth
 1 Lotus Cobra
+1 Vineglimmer Snarl
 1 Vivien, Champion of the Wilds
 1 Vivien Reid
 1 Nissa, Who Shakes the World
@@ -283,7 +284,6 @@
 1 Migratory Greathorn
 1 Auspicious Starrix
 1 Boneyard Lurker
-1 Vineglimmer Snarl
 1 Watery Grave
 1 Nethroi, Apex of Death
 1 Pouncing Shoreshark
@@ -304,10 +304,10 @@
 2 Darkbore Pathway
 2 Swamp
 2 Fabled Passage
-3 Lotus Cobra
 3 Gemrazer
 3 Swamp
 3 Paradise Druid
+3 Lotus Cobra
 3 Boneyard Lurker
 3 Insatiable Hemophage
 3 Fabled Passage
@@ -324,40 +324,6 @@
 3 Maze's End
 3 Stonecoil Serpent
 1 Omniscience
-2 The World Tree
-1 Hour of Promise
-1 Mirari's Wake
-1 Fae of Wishes
-1 Relic of Progenitus
-1 Omen of the Hunt
-1 Cultivate
-1 Hydroid Krasis
-1 Wolfwillow Haven
-1 Hashep Oasis
-1 Shefet Dunes
-2 Hashep Oasis
-2 Hour of Promise
-2 Hydroid Krasis
-2 Mirari's Wake
-2 Fae of Wishes
-2 Cultivate
-2 Wolfwillow Haven
-2 Relic of Progenitus
-2 Shefet Dunes
-2 Omen of the Hunt
-2 Omniscience
-3 Hour of Promise
-3 Hashep Oasis
-3 Hydroid Krasis
-3 Shefet Dunes
-3 The World Tree
-3 Cultivate
-3 Mirari's Wake
-3 Wolfwillow Haven
-4 Hour of Promise
-4 Hydroid Krasis
-4 The World Tree
-4 Cultivate
 1 Magma Opus
 1 Treasure Vault
 1 Tibalt's Trickery
@@ -399,12 +365,46 @@
 4 Khalni Garden
 4 Throes of Chaos
 4 Blood Crypt
+2 The World Tree
+1 Hour of Promise
+1 Mirari's Wake
+1 Fae of Wishes
+1 Relic of Progenitus
+1 Omen of the Hunt
+1 Cultivate
+1 Hydroid Krasis
+1 Wolfwillow Haven
+1 Hashep Oasis
+1 Shefet Dunes
+2 Hashep Oasis
+2 Hour of Promise
+2 Hydroid Krasis
+2 Mirari's Wake
+2 Fae of Wishes
+2 Cultivate
+2 Wolfwillow Haven
+2 Relic of Progenitus
+2 Shefet Dunes
+2 Omen of the Hunt
+2 Omniscience
+3 Shefet Dunes
+3 Hour of Promise
+3 Hashep Oasis
+3 The World Tree
+3 Cultivate
+3 Mirari's Wake
+3 Hydroid Krasis
+3 Wolfwillow Haven
+4 Hour of Promise
+4 The World Tree
+4 Cultivate
+4 Hydroid Krasis
 1 Mech Hangar
 1 Key to the Archive
 1 Spire of Industry
 1 Reckoner Bankbuster
-1 Conqueror's Galleon
 1 Introduction to Prophecy
+1 Conqueror's Galleon
 1 Mascot Exhibition
 1 Ominous Traveler
 2 Mech Hangar
@@ -425,8 +425,8 @@
 1 Elder Gargaroth
 1 Thassa's Intervention
 1 Quench
-1 Goblin Dark-Dwellers
 1 Lair of the Hydra
+1 Goblin Dark-Dwellers
 1 Brazen Borrower
 1 Entrancing Melody
 1 Farewell
@@ -442,25 +442,25 @@
 1 Memory Deluge
 1 Khalni Ambush
 1 Nightpack Ambusher
+2 Dreamroot Cascade
 2 Turntimber Symbiosis
 2 Sea Gate Restoration
-2 Dreamroot Cascade
 2 Quench
 2 Nightpack Ambusher
 2 Forceful Cultivator
 2 Neoform
 2 Frilled Mystic
-3 Sea Gate Restoration
 3 Dreamroot Cascade
+3 Sea Gate Restoration
 3 Quench
 3 Forceful Cultivator
 3 Frilled Mystic
 3 Turntimber Symbiosis
 3 Neoform
+4 Dreamroot Cascade
 4 Sea Gate Restoration
 4 Forceful Cultivator
 4 Frilled Mystic
-4 Dreamroot Cascade
 4 Neoform
 4 Turntimber Symbiosis
 4 Breeding Pool

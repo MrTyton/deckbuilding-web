@@ -1,23 +1,40 @@
+1 Tropical Island
+1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
-1 Island
+3 Misty Rainforest
+3 Underground Sea
 1 Flooded Strand
 2 Flooded Strand
-1 Tropical Island
-3 Underground Sea
-3 Misty Rainforest
 1 Fatal Push
-2 Tropical Island
 1 Thoughtseize
-4 Misty Rainforest
-2 Thoughtseize
 1 Snuff Out
+2 Tropical Island
+2 Thoughtseize
+2 Snuff Out
 3 Tropical Island
+4 Misty Rainforest
 1 Sylvan Library
+3 Thoughtseize
+1 Verdant Catacombs
+2 Verdant Catacombs
+1 Watery Grave
+1 Death's Shadow
+2 Death's Shadow
+2 Watery Grave
+1 Stubborn Denial
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
+1 Delver of Secrets
+2 Delver of Secrets
+3 Delver of Secrets
+4 Thoughtseize
 3 Flooded Strand
 4 Flooded Strand
-1 Stubborn Denial
+3 Watery Grave
+1 Force of Negation
+3 Death's Shadow
+2 Island
+4 Delver of Secrets
 1 Tundra
 1 Prismatic Ending
 1 Swords to Plowshares
@@ -27,31 +44,14 @@
 3 Prismatic Ending
 3 Swords to Plowshares
 4 Swords to Plowshares
-1 Delver of Secrets
-2 Delver of Secrets
-3 Delver of Secrets
-2 Snuff Out
-1 Force of Negation
-2 Island
-1 Urza's Saga
-1 Snow-Covered Forest
-3 Thoughtseize
-3 Uro, Titan of Nature's Wrath
-4 Delver of Secrets
 3 Expressive Iteration
-1 Mountain
 4 Murktide Regent
-1 Verdant Catacombs
-2 Verdant Catacombs
-1 Watery Grave
-1 Death's Shadow
-2 Watery Grave
-2 Death's Shadow
-4 Thoughtseize
+1 Mountain
 2 Fatal Push
+1 Urza's Saga
+1 Pithing Needle
 2 Urza's Saga
 3 Urza's Saga
-1 Pithing Needle
 1 Elvish Reclaimer
 1 Omniscience
 1 Soul-Guide Lantern
@@ -70,28 +70,30 @@
 3 Show and Tell
 3 Mosswort Bridge
 3 Emrakul, the Aeons Torn
-4 Elvish Reclaimer
 4 Emrakul, the Aeons Torn
 4 Tropical Island
 4 Show and Tell
 4 Mosswort Bridge
+4 Elvish Reclaimer
+1 Snow-Covered Forest
+4 Death's Shadow
+1 Berserk
+2 Berserk
+3 Uro, Titan of Nature's Wrath
 2 Stubborn Denial
 2 Snow-Covered Island
 1 Mystic Sanctuary
 2 Scroll of Fate
 4 Expressive Iteration
-4 Uro, Titan of Nature's Wrath
-3 Watery Grave
 1 Karakas
 1 Narset, Parter of Veils
-3 Death's Shadow
-1 Abrupt Decay
-1 Bayou
 2 Force of Negation
-1 Snow-Covered Plains
 1 Red Elemental Blast
 1 Badlands
 3 Snow-Covered Island
+4 Uro, Titan of Nature's Wrath
+1 Overgrown Tomb
+1 Breeding Pool
 2 Brazen Borrower
 1 Forest
 1 Dragon's Rage Channeler
@@ -100,40 +102,34 @@
 4 Dragon's Rage Channeler
 1 Plains
 1 Forked Bolt
-1 Overgrown Tomb
-4 Death's Shadow
-1 Berserk
-2 Berserk
-1 Life from the Loam
-2 Abrupt Decay
-1 Assassin's Trophy
+1 Abrupt Decay
+1 Bayou
 1 Vision Charm
 2 Vision Charm
 3 Vision Charm
 1 Hunted Horror
-1 Shadowspear
-4 Urza's Saga
 1 Torpor Orb
 3 Island
 1 Snow-Covered Mountain
 1 Predict
 1 Unholy Heat
+1 Snow-Covered Plains
+1 Taiga
 2 Sylvan Library
-1 Breeding Pool
 1 Varolz, the Scar-Striped
 2 Varolz, the Scar-Striped
 1 Jace, the Mind Sculptor
 1 Snapcaster Mage
 2 Jace, the Mind Sculptor
 2 Snapcaster Mage
-1 Nihil Spellbomb
-1 Retrofitter Foundry
-1 Grist, the Hunger Tide
-2 Bayou
 2 Hunted Horror
 3 Tundra
+1 Life from the Loam
+2 Abrupt Decay
 3 Abrupt Decay
+3 Verdant Catacombs
 3 Kroxa, Titan of Death's Hunger
+1 Assassin's Trophy
 1 Tarmogoyf
 1 Lazav, the Multifarious
 2 Lazav, the Multifarious
@@ -157,6 +153,7 @@
 6 Island
 1 Dark Confidant
 1 Swamp
+1 Shadowspear
 1 Echoing Truth
 1 Prismatic Vista
 2 Dark Confidant
@@ -171,4 +168,5 @@
 3 Force of Negation
 4 Dark Confidant
 4 Torpor Orb
+4 Urza's Saga
 4 Prismatic Vista
