@@ -1,55 +1,46 @@
+1 Living Wish
+1 Aluren
+2 Living Wish
+2 Aluren
+3 Living Wish
+3 Aluren
+1 Thoughtseize
+1 Questing Beast
+1 Scavenging Ooze
 3 Snow-Covered Forest
 1 Force of Will
 2 Force of Will
 3 Snow-Covered Island
 3 Force of Will
 4 Force of Will
-1 Assassin's Trophy
 2 Acererak the Archlich
 4 Aluren
-2 Pernicious Deed
-1 Chain of Smog
-1 Thoughtseize
-1 Scavenging Ooze
-1 Witherbloom Apprentice
-2 Chain of Smog
-2 Witherbloom Apprentice
-1 Questing Beast
+3 Chain of Smog
 2 Forest
 2 Assassin's Trophy
-3 Chain of Smog
+4 Chain of Smog
 2 Swamp
 3 Forest
 2 Thoughtseize
 1 Diabolic Intent
 1 Tireless Tracker
+3 Witherbloom Apprentice
 1 Spellseeker
 4 Ponder
 3 Acererak the Archlich
-4 Chain of Smog
-1 Windswept Heath
-3 Witherbloom Apprentice
-1 Village Rites
 1 Karakas
+1 Windswept Heath
 2 Endurance
 1 Meren of Clan Nel Toth
-3 Swamp
-4 Forest
 1 Wooded Foothills
 1 Cavern of Souls
 2 Cavern of Souls
-1 Wasteland
-2 Sylvan Library
 2 Snow-Covered Swamp
-1 Polluted Delta
-2 Tropical Island
-2 Windswept Heath
+1 Village Rites
 3 Endurance
-1 Prismatic Vista
-4 Witherbloom Apprentice
-4 Swamp
-2 Grist, the Hunger Tide
-2 Spellseeker
+3 Swamp
+4 Forest
+1 Wasteland
 4 Endurance
 1 Opposition Agent
 1 Taiga
@@ -57,6 +48,16 @@
 2 Opposition Agent
 2 Wooded Foothills
 3 Opposition Agent
+2 Sylvan Library
+1 Polluted Delta
+2 Tropical Island
+1 Boseiju, Who Endures
+2 Windswept Heath
+4 Witherbloom Apprentice
+1 Prismatic Vista
+4 Swamp
+2 Grist, the Hunger Tide
+2 Spellseeker
 1 Titania, Protector of Argoth
 2 Village Rites
 1 Eternal Witness
@@ -72,15 +73,18 @@
 4 Karn, the Great Creator
 2 Polluted Delta
 4 Ice-Fang Coatl
-1 Boseiju, Who Endures
 2 Prismatic Vista
 3 Bayou
 4 Bayou
 1 Yavimaya, Cradle of Growth
 3 Abrupt Decay
-3 Windswept Heath
+2 Boseiju, Who Endures
+1 Elder Gargaroth
+1 Vivien, Monsters' Advocate
+3 Wooded Foothills
 3 Assassin's Trophy
 1 Field of the Dead
+3 Windswept Heath
 1 Sylvan Safekeeper
 1 Professor Onyx
 1 Plains
@@ -92,8 +96,14 @@
 1 Ancient Tomb
 2 Ancient Tomb
 1 Cavern Harpy
-3 Pernicious Deed
+1 Castle Locthwain
+1 Henrika Domnathi
+1 Grief
+2 Grief
+3 Grief
+1 Plumb the Forbidden
 1 Outland Liberator
+3 Pernicious Deed
 1 Veil of Summer
 2 Veil of Summer
 3 Thoughtseize
@@ -101,13 +111,9 @@
 1 Collector Ouphe
 1 Hexdrinker
 1 Ramunap Excavator
-2 Boseiju, Who Endures
-1 Elder Gargaroth
+1 Kalitas, Traitor of Ghet
 2 Professor Onyx
 2 Plains
-1 Kalitas, Traitor of Ghet
-1 Vivien, Monsters' Advocate
-3 Wooded Foothills
 1 Badlands
 1 Sarkhan Vol
 1 Greater Gargadon
@@ -119,14 +125,15 @@
 4 Snow-Covered Forest
 1 Liliana, the Last Hope
 1 Baleful Strix
-1 Unearth
 1 Bone Shards
 1 Paradox Zone
+1 Unearth
 2 Bone Shards
+2 Henrika Domnathi
 1 Jace, the Mind Sculptor
+1 Primeval Titan
 1 Life from the Loam
 1 Witherbloom Command
-1 Primeval Titan
 1 Island
 1 Vivien Reid
 2 Witherbloom Command
@@ -145,10 +152,10 @@
 1 Thragtusk
 1 Toxic Deluge
 1 Nissa, Vital Force
-1 Path to Exile
 1 Knight of Autumn
 1 Elspeth, Sun's Champion
 1 Archon of Valor's Reach
+1 Path to Exile
 2 Path to Exile
 3 Path to Exile
 1 Mayhem Devil
@@ -161,7 +168,6 @@
 2 Titania, Protector of Argoth
 2 The Meathook Massacre
 3 Mayhem Devil
-1 Plumb the Forbidden
 1 Blex, Vexing Pest
 1 Sedgemoor Witch
 2 Plumb the Forbidden
@@ -177,11 +183,6 @@
 3 Tireless Tracker
 2 Cavern Harpy
 3 Polluted Delta
-1 Castle Locthwain
-1 Henrika Domnathi
-1 Grief
-2 Grief
-3 Grief
 1 Abundant Harvest
 1 Fatal Push
 2 Underground Sea
@@ -217,10 +218,10 @@
 1 Kaya, Orzhov Usurper
 1 Garruk, Cursed Huntsman
 1 Fiend Artisan
+2 Snow-Covered Plains
 2 Duress
 2 Dead of Winter
 2 Crop Rotation
 2 Ugin, the Spirit Dragon
-2 Snow-Covered Plains
 3 Snow-Covered Swamp
 5 Snow-Covered Forest

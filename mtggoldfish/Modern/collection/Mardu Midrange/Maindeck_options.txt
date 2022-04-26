@@ -1,4 +1,4 @@
-3 Fable of the Mirror-Breaker
+2 Fury
 2 Prismatic Ending
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
@@ -8,10 +8,11 @@
 4 Marsh Flats
 2 Godless Shrine
 2 Blood Crypt
-3 Blackcleave Cliffs
-2 Swamp
+4 Fable of the Mirror-Breaker
 4 Persist
 3 Solitude
+3 Blackcleave Cliffs
+2 Swamp
 1 Lightning Bolt
 3 Prismatic Ending
 2 Lightning Bolt
@@ -25,23 +26,21 @@
 2 Kolaghan's Command
 2 Mountain
 4 Solitude
-4 Fable of the Mirror-Breaker
-4 Blackcleave Cliffs
 2 Inspiring Vantage
 4 Archon of Cruelty
 3 Touch the Spirit Realm
 1 Kaya's Guile
-1 Kroxa, Titan of Death's Hunger
-2 Kroxa, Titan of Death's Hunger
+4 Blackcleave Cliffs
 3 Thoughtseize
 3 Fury
 2 Plains
 3 Lightning Bolt
+1 Kroxa, Titan of Death's Hunger
+2 Kroxa, Titan of Death's Hunger
 2 Kaya's Guile
 4 Fury
-1 Fatal Push
-1 Batterskull
 1 Sword of Fire and Ice
+1 Batterskull
 1 Kaldra Compleat
 1 Stoneforge Mystic
 2 Stoneforge Mystic
@@ -50,7 +49,7 @@
 1 Dauthi Voidwalker
 2 Dauthi Voidwalker
 1 Kaya, Orzhov Usurper
-2 Fatal Push
+1 Fatal Push
 4 Inquisition of Kozilek
 1 Terminate
 2 Terminate
@@ -63,26 +62,27 @@
 1 Snow-Covered Swamp
 3 Dauthi Voidwalker
 4 Dauthi Voidwalker
-1 Hidetsugu Consumes All
-2 Hidetsugu Consumes All
-1 Eiganjo, Seat of the Empire
+3 Malakir Rebirth
 1 Sunbaked Canyon
 1 Dragon's Rage Channeler
 1 Mishra's Bauble
 1 Silent Clearing
 2 Dragon's Rage Channeler
-2 Unholy Heat
 2 Mishra's Bauble
+2 Unholy Heat
 3 Dragon's Rage Channeler
 3 Unholy Heat
 3 Mishra's Bauble
 4 Dragon's Rage Channeler
-3 Malakir Rebirth
+1 Eiganjo, Seat of the Empire
+1 Hidetsugu Consumes All
+2 Hidetsugu Consumes All
 1 March of Otherworldly Light
 1 Den of the Bugbear
 1 Blood Moon
 2 Blood Moon
 4 Lightning Bolt
+2 Fatal Push
 3 Kroxa, Titan of Death's Hunger
 1 Prismatic Vista
 1 Path to Exile
@@ -120,10 +120,6 @@
 2 The Wandering Emperor
 1 Castle Locthwain
 2 Kaya, Orzhov Usurper
-1 Lingering Souls
-2 Lingering Souls
-3 Lingering Souls
-4 Lingering Souls
 1 Ashen Rider
 1 Bloodtithe Harvester
 1 Magus of the Moon
@@ -137,18 +133,6 @@
 2 Liliana of the Veil
 2 Obsidian Charmaw
 3 Ranger-Captain of Eos
-1 Damn
-1 Lightning Helix
-1 Overgrown Tomb
-1 Castle Ardenvale
-1 Young Pyromancer
-1 Dragonskull Summit
-2 Damn
-2 Concealed Courtyard
-2 Young Pyromancer
-3 Fatal Push
-3 Young Pyromancer
-3 Blood Crypt
 2 March of Otherworldly Light
 3 March of Otherworldly Light
 4 March of Otherworldly Light
@@ -158,26 +142,14 @@
 4 Magmatic Channeler
 1 Sokenzan, Crucible of Defiance
 4 Blood Moon
-1 Engineered Explosives
-1 Cling to Dust
-1 Lightning Skelemental
-1 Grim Lavamancer
-1 Unearth
-1 Goblin Bombardment
-2 Lightning Skelemental
-2 Goblin Bombardment
-2 Grim Lavamancer
-2 Unearth
-3 Unearth
-4 Unearth
 1 Blood Sun
 1 Lotus Field
 1 Karn, the Great Creator
 1 Emrakul, the Promised End
 1 Flagstones of Trokair
+1 Cleansing Wildfire
 1 Golos, Tireless Pilgrim
 1 Vindicate
-1 Cleansing Wildfire
 1 Cascading Cataracts
 1 Rakdos's Return
 1 Shatterskull Smashing
@@ -186,8 +158,8 @@
 2 Lotus Field
 2 Savai Triome
 2 Karn, the Great Creator
-2 Vindicate
 2 Cleansing Wildfire
+2 Vindicate
 2 Golos, Tireless Pilgrim
 3 Lotus Field
 3 Blood Sun
@@ -199,6 +171,22 @@
 4 Blood Sun
 4 Flagstones of Trokair
 4 Cleansing Wildfire
+1 Damn
+1 Overgrown Tomb
+1 Lightning Helix
+1 Lingering Souls
+1 Castle Ardenvale
+1 Young Pyromancer
+1 Dragonskull Summit
+2 Damn
+2 Concealed Courtyard
+2 Lingering Souls
+2 Young Pyromancer
+3 Lingering Souls
+3 Fatal Push
+3 Young Pyromancer
+3 Blood Crypt
+4 Lingering Souls
 3 Hidetsugu Consumes All
 4 Thoughtseize
 4 Hidetsugu Consumes All

@@ -30,19 +30,13 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)    |                    1|[Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)            |
-|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)    |                    1|[Prismatic Ending](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522101)     |
-|                    1|[Orim's Chant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=26852)      |                    2|[Prismatic Ending](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522101)     |
-|                    1|[Tundra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=885)              |                    3|[Prismatic Ending](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522101)     |
-|                    1|[Scrubland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=882)           |                    1|[Boseiju, Who Endures](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548579) |
-|                    2|[Orim's Chant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=26852)      |                    1|[End the Festivities](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541010)  |
-|                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)   |                    1|[Meltdown](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10466)              |
-|                    1|[Reckless Impulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541032) |                    2|[End the Festivities](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541010)  |
-|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102) |                    1|[Massacre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21324)              |
-|                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                    4|[Galvanic Relay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522203)       |
-|                    3|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    1|[Aeve, Progenitor Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522224)|
-|                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)   |                     |                                                                                                |
-|                    2|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)      |                     |                                                                                                |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)   |                    1|[Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)           |
+|                    2|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)      |                    1|[Boseiju, Who Endures](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548579)|
+|                    3|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    1|[Massacre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21324)             |
+|                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)   |                     |                                                                                               |
+|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)    |                     |                                                                                               |
+|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102) |                     |                                                                                               |
+|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)    |                     |                                                                                               |
 

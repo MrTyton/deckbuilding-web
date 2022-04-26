@@ -40,8 +40,8 @@
 1 Prismatic Vista
 1 Opposition Agent
 1 Sedgemoor Witch
-1 Witherbloom Apprentice
 1 Chain of Smog
+1 Witherbloom Apprentice
 1 Drown in the Loch
 1 Zagoth Triome
 1 True-Name Nemesis
@@ -51,33 +51,33 @@
 3 Tarmogoyf
 3 Daze
 1 Flusterstorm
-2 Chain of Smog
 2 Witherbloom Apprentice
+2 Chain of Smog
 3 Witherbloom Apprentice
 4 Witherbloom Apprentice
 1 Liliana, the Last Hope
 1 Hullbreacher
+1 Bloodstained Mire
 1 Flooded Strand
 1 Spellseeker
 1 Wooded Foothills
-1 Opt
-1 Consider
 1 Thassa's Oracle
+1 Opt
 1 Preordain
 1 Scalding Tarn
-1 Bloodstained Mire
+1 Consider
 1 Tainted Pact
 1 Windswept Heath
 1 Jace, Vryn's Prodigy
 1 Marsh Flats
 1 Inquisition of Kozilek
 1 Thoughtcast
-1 Cling to Dust
 1 Waterlogged Grove
+1 Cling to Dust
 1 Abundant Harvest
+1 Duress
 1 Spell Pierce
 1 Dauthi Voidwalker
-1 Duress
 1 Sleight of Hand
 1 Murderous Cut
 2 Thassa's Oracle
@@ -85,7 +85,6 @@
 4 Verdant Catacombs
 1 Kaito Shizuki
 1 Toxic Deluge
-1 Watery Grave
 1 Overgrown Tomb
 1 Breeding Pool
 1 Tamiyo, Collector of Tales
@@ -95,6 +94,7 @@
 1 Search for Azcanta
 1 Lutri, the Spellchaser
 1 Shadow of Doubt
+1 Watery Grave
 1 Release to the Wind
 1 Day's Undoing
 1 Shark Typhoon
@@ -108,12 +108,12 @@
 1 Liliana of the Veil
 3 Hymn to Tourach
 1 Cephalid Coliseum
-1 Stifle
 1 Field of the Dead
 1 Entomb
+1 Stifle
+2 Hullbreacher
 2 Stifle
 2 Life from the Loam
-2 Hullbreacher
 3 Stifle
 4 Stifle
 1 Bloodchief's Thirst
@@ -124,6 +124,6 @@
 1 Delver of Secrets
 2 Delver of Secrets
 3 Delver of Secrets
-4 Delver of Secrets
 4 Daze
 4 Wasteland
+4 Delver of Secrets

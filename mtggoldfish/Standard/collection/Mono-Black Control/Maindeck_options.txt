@@ -86,8 +86,8 @@
 2 Nighthawk Scavenger
 3 Nighthawk Scavenger
 4 Nighthawk Scavenger
-1 Undead Butler
 1 Champion of the Perished
+1 Undead Butler
 1 Headless Rider
 2 Undead Butler
 2 Champion of the Perished
@@ -95,10 +95,10 @@
 3 Undead Butler
 3 Headless Rider
 3 Champion of the Perished
-4 Tainted Adversary
-4 Headless Rider
 4 Fell Stinger
+4 Headless Rider
 4 Champion of the Perished
+4 Tainted Adversary
 2 Hero's Downfall
 3 Go Blank
 4 Go Blank
@@ -133,11 +133,11 @@
 2 March of Wretched Sorrow
 1 Ebondeath, Dracolich
 2 Eaten Alive
-1 Skyclave Shade
 1 Skull Raid
+1 Skyclave Shade
 2 Baleful Mastery
-2 Skyclave Shade
 2 Skull Raid
+2 Skyclave Shade
 1 Demogorgon's Clutches
 2 Demogorgon's Clutches
 1 Vengeful Strangler
@@ -155,17 +155,17 @@
 2 Sedgemoor Witch
 3 Sedgemoor Witch
 4 Elderfang Disciple
-1 Priest of the Haunted Edge
-2 Priest of the Haunted Edge
-3 Agadeem's Awakening
-4 Undead Butler
 1 Life of Toshiro Umezawa
 1 Cemetery Desecrator
 2 Cemetery Desecrator
 2 Life of Toshiro Umezawa
 3 Life of Toshiro Umezawa
-4 Life of Toshiro Umezawa
 4 Field of Ruin
+4 Life of Toshiro Umezawa
+1 Priest of the Haunted Edge
+2 Priest of the Haunted Edge
+3 Agadeem's Awakening
+4 Undead Butler
 1 Feed the Swarm
 2 Feed the Swarm
 3 Hagra Mauling
