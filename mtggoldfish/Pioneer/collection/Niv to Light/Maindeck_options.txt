@@ -10,8 +10,8 @@
 2 Savai Triome
 1 Mountain
 1 Fabled Passage
-1 Island
 1 Swamp
+1 Island
 2 Ketria Triome
 2 Fabled Passage
 3 Fabled Passage
@@ -37,12 +37,12 @@
 1 Godless Shrine
 3 Ketria Triome
 1 Binding the Old Gods
-1 Hostage Taker
 1 Lorehold Command
 1 Woodland Cemetery
 1 Hallowed Fountain
 1 Esika, God of the Tree
 1 Stomping Ground
+1 Hostage Taker
 2 Breeding Pool
 2 Binding the Old Gods
 2 Nahiri, the Harbinger
@@ -52,13 +52,6 @@
 3 Binding the Old Gods
 3 Oath of Kaya
 4 Growth Spiral
-1 Arboreal Grazer
-1 Kunoros, Hound of Athreos
-1 Assassin's Trophy
-1 Angrath's Rampage
-1 Rip Apart
-1 Izzet Charm
-2 Arboreal Grazer
 1 Tyrant's Scorn
 1 Go Blank
 1 Adult Gold Dragon
@@ -66,6 +59,13 @@
 1 Prismari Command
 1 Spark Double
 2 March of Otherworldly Light
+1 Kunoros, Hound of Athreos
+1 Assassin's Trophy
+1 Angrath's Rampage
+1 Rip Apart
+1 Arboreal Grazer
+1 Izzet Charm
+2 Arboreal Grazer
 1 Mortify
 2 Valki, God of Lies
 3 Dreadbore

@@ -6,18 +6,18 @@
 4 Needleverge Pathway
 1 Sundown Pass
 1 Valorous Stance
+2 Sejiri Shelter
 1 Fading Hope
 3 Jwari Disruption
 3 Hengegate Pathway
-2 Sejiri Shelter
 1 Deserted Beach
+2 Sundown Pass
 1 Disdainful Stroke
 1 Shatterskull Smashing
 1 Magma Opus
 2 Deserted Beach
-2 Sundown Pass
-3 Prismari Command
 1 The Celestus
+3 Prismari Command
 1 Hinata, Dawn-Crowned
 2 Hinata, Dawn-Crowned
 2 Magma Opus
@@ -26,8 +26,8 @@
 4 Hinata, Dawn-Crowned
 4 Magma Opus
 2 Burn Down the House
-2 You See a Guard Approach
 2 Dragon's Fire
+2 You See a Guard Approach
 1 Abrade
 1 Memory Deluge
 2 Shatterskull Smashing
@@ -36,14 +36,17 @@
 2 Abrade
 3 Abrade
 1 Saw It Coming
+1 Eiganjo, Seat of the Empire
 1 Demon Bolt
 2 Valorous Stance
 2 Fading Hope
-1 Eiganjo, Seat of the Empire
+1 Plains
 3 Deserted Beach
 4 Deserted Beach
-1 Plains
 3 Dragon's Fire
+1 Fable of the Mirror-Breaker
+2 Fable of the Mirror-Breaker
+3 Fable of the Mirror-Breaker
 1 Cinderclasm
 1 Fateful Absence
 2 The Celestus
@@ -58,9 +61,14 @@
 3 March of Otherworldly Light
 3 Doomskar
 3 Memory Deluge
-1 Fable of the Mirror-Breaker
-2 Fable of the Mirror-Breaker
-3 Fable of the Mirror-Breaker
+1 Seize the Spoils
+2 Seize the Spoils
+4 Dragon's Fire
+1 Emeria's Call
+3 Sundown Pass
+1 Den of the Bugbear
+2 Den of the Bugbear
+4 Fable of the Mirror-Breaker
 1 Spell Pierce
 1 Discover the Impossible
 2 Discover the Impossible
@@ -69,19 +77,14 @@
 1 Silundi Vision
 2 Silundi Vision
 2 Behold the Multiverse
-1 Emeria's Call
+2 Cinderclasm
+3 Fading Hope
 1 Hullbreaker Horror
 1 Skyclave Apparition
 2 Hullbreaker Horror
 2 Saw It Coming
 2 Skyclave Apparition
-3 Sundown Pass
 3 Saw It Coming
-1 Seize the Spoils
-2 Seize the Spoils
-2 Cinderclasm
-3 Fading Hope
-4 Dragon's Fire
 1 The Wandering Emperor
 1 Lorehold Command
 1 Test of Talents
@@ -92,7 +95,6 @@
 1 Thundering Rebuke
 3 March of Swirling Mist
 4 Prismari Command
-1 Den of the Bugbear
 1 Bloodthirsty Adversary
 1 Field of Ruin
 1 Flame-Blessed Bolt
@@ -100,7 +102,6 @@
 1 Cathartic Pyre
 1 Relic Sloth
 2 Wandering Mind
-2 Den of the Bugbear
 2 Bloodthirsty Adversary
 2 Field of Ruin
 2 Negate
@@ -111,8 +112,31 @@
 3 Wandering Mind
 3 Negate
 3 Relic Sloth
-4 Fable of the Mirror-Breaker
 4 Relic Sloth
+1 Invoke Justice
+1 Plargg, Dean of Chaos
+1 Invoke Calamity
+1 Wind-Scarred Crag
+1 Cave of the Frost Dragon
+1 Velomachus Lorehold
+1 Kairi, the Swirling Sky
+2 Emeria's Call
+2 Plains
+2 Invoke Calamity
+2 Wind-Scarred Crag
+2 Invoke Justice
+2 Velomachus Lorehold
+3 Emeria's Call
+3 Wind-Scarred Crag
+3 Velomachus Lorehold
+3 Invoke Justice
+3 Seize the Spoils
+4 Sundown Pass
+4 Seize the Spoils
+4 Wind-Scarred Crag
+4 Velomachus Lorehold
+4 Emeria's Call
+4 Invoke Justice
 2 Thirst for Discovery
 5 Mountain
 4 Galvanic Iteration

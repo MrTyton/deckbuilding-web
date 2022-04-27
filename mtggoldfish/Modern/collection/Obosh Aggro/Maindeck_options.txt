@@ -1,4 +1,4 @@
-3 Chandra, Dressed to Kill
+1 Bloodstained Mire
 1 Sunbaked Canyon
 2 Arid Mesa
 3 Unholy Heat
@@ -15,12 +15,11 @@
 2 Monastery Swiftspear
 3 Monastery Swiftspear
 4 Monastery Swiftspear
-2 Bloodstained Mire
-1 Pyrite Spellbomb
 2 Sunbaked Canyon
 2 Soul-Scar Mage
 4 Unholy Heat
-2 Pyrite Spellbomb
+2 Bloodstained Mire
+1 Pyrite Spellbomb
 3 Prismatic Ending
 1 Lava Dart
 2 Lava Dart
@@ -28,13 +27,13 @@
 2 Soul-Guide Lantern
 3 Soul-Guide Lantern
 4 Soul-Guide Lantern
-3 Pyrite Spellbomb
-4 Pyrite Spellbomb
+2 Pyrite Spellbomb
 1 Plains
 3 Prismatic Vista
-1 Wooded Foothills
 4 Chandra, Dressed to Kill
-1 Scalding Tarn
+3 Pyrite Spellbomb
+4 Pyrite Spellbomb
+1 Wooded Foothills
 1 Fiery Islet
 9 Mountain
 10 Mountain
@@ -48,6 +47,7 @@
 1 March of Reckless Joy
 2 March of Reckless Joy
 3 March of Reckless Joy
+1 Scalding Tarn
 3 Soul-Scar Mage
 11 Mountain
 12 Mountain
@@ -55,12 +55,17 @@
 1 Firebolt
 3 Lava Dart
 4 March of Reckless Joy
+2 Sokenzan, Crucible of Defiance
+1 Relic of Progenitus
+2 Relic of Progenitus
+3 Relic of Progenitus
+4 Relic of Progenitus
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
-4 Lava Dart
 1 Flame Slash
 2 Flame Slash
+4 Lava Dart
 1 March of Otherworldly Light
 1 Ephemerate
 2 March of Otherworldly Light
@@ -73,22 +78,16 @@
 15 Mountain
 16 Mountain
 17 Mountain
-2 Scalding Tarn
 4 Snow-Covered Mountain
 3 Seal of Fire
 4 Bomat Courier
 2 Firebolt
 3 Firebolt
 4 Prismatic Vista
-3 Sunbaked Canyon
 3 Bloodstained Mire
-2 Sokenzan, Crucible of Defiance
-1 Relic of Progenitus
-2 Relic of Progenitus
-3 Relic of Progenitus
-4 Relic of Progenitus
-2 Wooded Foothills
+3 Sunbaked Canyon
 1 Savai Triome
+2 Scalding Tarn
 1 Steam Vents
 1 Magus of the Moon
 2 Magus of the Moon
@@ -98,13 +97,16 @@
 3 Lantern of the Lost
 4 Bloodstained Mire
 4 Sunbaked Canyon
+3 Flame Slash
+4 Flame Slash
+1 Ramunap Ruins
+3 Sokenzan, Crucible of Defiance
+4 Sokenzan, Crucible of Defiance
 1 Hammer of Bogardan
 2 Fiery Islet
 2 Hammer of Bogardan
 3 Hammer of Bogardan
 4 Hammer of Bogardan
-3 Flame Slash
-4 Flame Slash
 4 Firebolt
 1 Tarfire
 1 Lava Spike
@@ -112,27 +114,28 @@
 2 Lava Spike
 3 Lava Spike
 4 Lava Spike
-1 Utopia Sprawl
 1 Klothys, God of Destiny
 1 Forest
-1 Stomping Ground
 1 Misty Rainforest
+1 Stomping Ground
+1 Utopia Sprawl
 1 Boseiju, Who Endures
 1 Arbor Elf
-2 Utopia Sprawl
-2 Forest
-2 Klothys, God of Destiny
 2 Misty Rainforest
+2 Forest
+2 Wooded Foothills
+2 Utopia Sprawl
+2 Klothys, God of Destiny
 2 Stomping Ground
 2 Arbor Elf
-3 Utopia Sprawl
 3 Stomping Ground
 3 Misty Rainforest
+3 Utopia Sprawl
 3 Arbor Elf
 3 Forest
 3 Wooded Foothills
 4 Wooded Foothills
-4 Utopia Sprawl
 4 Misty Rainforest
+4 Utopia Sprawl
 4 Arbor Elf
 4 Seal of Fire

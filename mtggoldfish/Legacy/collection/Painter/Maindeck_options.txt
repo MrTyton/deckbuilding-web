@@ -1,8 +1,8 @@
 1 Wooded Foothills
 2 Wooded Foothills
 1 Bloodstained Mire
-1 Taiga
 1 Once Upon a Time
+1 Taiga
 2 Once Upon a Time
 3 Once Upon a Time
 4 Once Upon a Time
@@ -44,13 +44,13 @@
 1 Shadowspear
 1 Seat of the Synod
 1 Plains
+1 Aether Spellbomb
 1 Island
 1 Otawara, Soaring City
-1 Aether Spellbomb
 1 Force of Will
-2 Island
 2 Seat of the Synod
 2 Force of Will
+2 Island
 3 Force of Will
 4 Force of Will
 1 Emry, Lurker of the Loch
@@ -60,27 +60,27 @@
 1 Welding Jar
 3 Wooded Foothills
 4 Wooded Foothills
+1 Thought Monitor
+1 Thoughtcast
 1 Urza's Bauble
 1 Kappa Cannoneer
-1 Thoughtcast
-1 Thought Monitor
 1 Mishra's Bauble
+2 Thought Monitor
+2 Thoughtcast
 2 Otawara, Soaring City
 2 Urza's Bauble
 2 Kappa Cannoneer
-2 Thought Monitor
-2 Thoughtcast
 2 Mishra's Bauble
-3 Mishra's Bauble
 3 Thoughtcast
 3 Seat of the Synod
+3 Mishra's Bauble
 3 Kappa Cannoneer
 3 Urza's Bauble
-4 Kappa Cannoneer
+4 Thoughtcast
 4 Mishra's Bauble
 4 Urza's Bauble
 4 Seat of the Synod
-4 Thoughtcast
+4 Kappa Cannoneer
 3 Ensnaring Bridge
 1 Trinisphere
 1 Wurmcoil Engine
@@ -123,8 +123,8 @@
 3 Swift Reconfiguration
 1 Cavern of Souls
 2 Cavern of Souls
-3 Bloodstained Mire
 3 Breya's Apprentice
+3 Bloodstained Mire
 4 Bloodstained Mire
 1 Magmatic Channeler
 2 Magmatic Channeler
@@ -132,54 +132,42 @@
 3 Magmatic Channeler
 3 Chromatic Star
 4 Chromatic Star
-1 Faithless Looting
 1 Gamble
 1 Containment Construct
+1 Faithless Looting
 2 Gamble
-2 Faithless Looting
 2 Containment Construct
+2 Faithless Looting
 2 Volcanic Island
 3 Gamble
-3 Faithless Looting
 3 Containment Construct
+3 Faithless Looting
 4 Faithless Looting
 4 Lion's Eye Diamond
 4 Gamble
 4 Containment Construct
-1 Flooded Strand
-1 Brainstorm
-1 Expressive Iteration
-1 Ponder
-2 Ponder
-2 Expressive Iteration
-2 Brainstorm
-3 Brainstorm
-3 Scalding Tarn
-3 Ponder
-4 Ponder
-4 Brainstorm
 1 Karakas
 1 Lion Sash
 1 Esper Sentinel
+1 Crucible of Worlds
 1 Mother of Runes
 1 Aether Vial
 1 Ingenious Smith
-1 Crucible of Worlds
 1 Wasteland
+2 Plains
 2 Esper Sentinel
-2 Karakas
 2 Aether Vial
 2 Ingenious Smith
 2 Wasteland
 2 Mother of Runes
+2 Karakas
 2 Ancient Den
-2 Plains
+3 Ingenious Smith
 3 Plains
 3 Esper Sentinel
 3 Wasteland
 3 Ancient Den
 3 Aether Vial
-3 Ingenious Smith
 4 Ingenious Smith
 4 Esper Sentinel
 4 Plains
@@ -202,3 +190,15 @@
 8 Snow-Covered Mountain
 1 Retrofitter Foundry
 9 Mountain
+1 Brainstorm
+1 Expressive Iteration
+1 Ponder
+1 Flooded Strand
+2 Ponder
+2 Expressive Iteration
+2 Brainstorm
+3 Scalding Tarn
+3 Brainstorm
+3 Ponder
+4 Ponder
+4 Brainstorm
