@@ -56,13 +56,13 @@
 2 Haunted Ridge
 1 Chandra, Torch of Defiance
 1 Takenuma, Abandoned Mire
-1 Rockfall Vale
 1 Elder Gargaroth
+1 Rockfall Vale
 1 Valki, God of Lies
 1 Darkbore Pathway
 1 Cragcrown Pathway
-2 Elder Gargaroth
 2 Cragcrown Pathway
+2 Elder Gargaroth
 1 Crawling Barrens
 1 Path of Peril
 2 Path of Peril
@@ -166,24 +166,6 @@
 2 Cling to Dust
 2 Infernal Grasp
 3 Darkbore Pathway
-1 Lightning Strike
-1 Erebos's Intervention
-1 Duress
-1 Easy Prey
-1 Storrev, Devkarin Lich
-1 Ruin Raider
-1 Purphoros's Intervention
-2 Lightning Strike
-2 Ruin Raider
-2 Storrev, Devkarin Lich
-2 Bedevil
-2 Duress
-3 Lightning Strike
-3 Duress
-3 Chevill, Bane of Monsters
-3 Questing Beast
-4 Lightning Strike
-4 Duress
 1 Nashi, Moon Sage's Scion
 1 Atsushi, the Blazing Sky
 1 Junji, the Midnight Sky
@@ -207,15 +189,33 @@
 3 Tinybones, Trinket Thief
 3 Murderous Rider
 4 Kroxa, Titan of Death's Hunger
-1 Terror of the Peaks
+1 Erebos's Intervention
+1 Lightning Strike
+1 Duress
+1 Easy Prey
+1 Storrev, Devkarin Lich
+1 Ruin Raider
+1 Purphoros's Intervention
+2 Bedevil
+2 Ruin Raider
+2 Storrev, Devkarin Lich
+2 Lightning Strike
+2 Duress
+3 Duress
+3 Chevill, Bane of Monsters
+3 Lightning Strike
+3 Questing Beast
+4 Duress
+4 Lightning Strike
 1 Glorybringer
 1 Find/Finality
+1 Terror of the Peaks
 1 Gruul Spellbreaker
 1 Seekers' Squire
 1 Cut/Ribbons
-2 Terror of the Peaks
 2 Gruul Spellbreaker
 2 Seekers' Squire
+2 Terror of the Peaks
 3 Gruul Spellbreaker
 3 Seekers' Squire
 4 Gruul Spellbreaker
