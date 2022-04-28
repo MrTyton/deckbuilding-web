@@ -3,24 +3,32 @@
 1 Yasharn, Implacable Earth
 1 Portable Hole
 1 Tatsunari, Toad Rider
-1 Oath of Kaya
 2 Portable Hole
 2 Sacred Foundry
 3 Sacred Foundry
 4 Sacred Foundry
 4 Raugrin Triome
+1 Oath of Kaya
 1 Binding the Old Gods
-3 Fable of the Mirror-Breaker
-2 Steam Vents
 1 Mountain
 1 Glacial Fortress
+1 Cavalier of Dawn
+1 Risen Reef
+1 Yarok, the Desecrated
+2 Risen Reef
+3 Risen Reef
+3 Portable Hole
+4 Portable Hole
+1 Breeding Pool
+3 Fable of the Mirror-Breaker
+2 Steam Vents
 1 Shark Typhoon
+1 Hallowed Fountain
 2 Glacial Fortress
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 1 Supreme Verdict
 1 Castle Vantress
-1 Hallowed Fountain
 2 Shark Typhoon
 2 Supreme Verdict
 3 Narset, Parter of Veils
@@ -35,10 +43,10 @@
 3 Shark Typhoon
 1 The Raven's Warning
 1 March of Otherworldly Light
-1 Transmogrify
 1 Hall of Storm Giants
 1 Eiganjo, Seat of the Empire
 1 Agent of Treachery
+1 Transmogrify
 1 Irrigated Farmland
 1 The Birth of Meletis
 2 The Raven's Warning
@@ -52,58 +60,53 @@
 3 March of Otherworldly Light
 3 Glacial Fortress
 3 The Birth of Meletis
-3 Transmogrify
 3 Plains
+3 Transmogrify
 4 The Raven's Warning
 4 Transmogrify
 4 March of Otherworldly Light
 4 The Birth of Meletis
 4 Shark Typhoon
 4 Glacial Fortress
-1 Cavalier of Dawn
-1 Risen Reef
 1 Hengegate Pathway
-1 Yarok, the Desecrated
 2 Barkchannel Pathway
-2 Risen Reef
 2 Hengegate Pathway
 3 Branchloft Pathway
 3 Barkchannel Pathway
-3 Risen Reef
 3 Hengegate Pathway
-3 Portable Hole
 4 Branchloft Pathway
 4 Barkchannel Pathway
 4 Hengegate Pathway
-4 Portable Hole
-1 Breeding Pool
+4 Risen Reef
+1 Omen of the Forge
+1 Temple Garden
+1 Island
 1 Deafening Clarion
-2 Castle Vantress
 1 Klothys, God of Destiny
+2 Castle Vantress
 1 Wolfwillow Haven
 2 Wolfwillow Haven
 3 Wolfwillow Haven
-4 Risen Reef
 1 Blood Crypt
-1 Omen of the Forge
-1 Temple Garden
 1 Overgrown Tomb
-1 Island
 3 Supreme Verdict
 1 Callous Bloodmage
-1 Sulfur Falls
-1 Showdown of the Skalds
-1 Omnath, Locus of Creation
-4 Overgrown Farmland
-1 Archon of Emeria
 1 Fabled Passage
-1 Swamp
-1 Path to the World Tree
 1 Sunpetal Grove
 2 Sunpetal Grove
 2 Fabled Passage
 3 Fabled Passage
 4 Fabled Passage
+1 Sulfur Falls
+1 Showdown of the Skalds
+2 Temple Garden
+3 Temple Garden
+4 Temple Garden
+1 Omnath, Locus of Creation
+4 Overgrown Farmland
+1 Archon of Emeria
+1 Swamp
+1 Path to the World Tree
 1 Anger of the Gods
 2 Anger of the Gods
 1 Massacre Girl
@@ -122,9 +125,6 @@
 2 Brightclimb Pathway
 3 Stomping Ground
 4 Wolfwillow Haven
-2 Temple Garden
-3 Temple Garden
-4 Temple Garden
 1 The Wandering Emperor
 2 The Wandering Emperor
 1 Interplanar Beacon
@@ -139,6 +139,7 @@
 3 Interplanar Beacon
 4 Interplanar Beacon
 1 Rest in Peace
+1 Hinterland Harbor
 1 Chandra, Awakened Inferno
 1 Nicol Bolas, Dragon-God
 1 Expressive Iteration
@@ -153,6 +154,8 @@
 2 Nicol Bolas, the Ravager
 1 Rip Apart
 1 The Meathook Massacre
+1 Sheltered Thicket
+2 Breeding Pool
 1 Azusa's Many Journeys
 2 Azusa's Many Journeys
 3 Azusa's Many Journeys
@@ -165,7 +168,6 @@
 4 Jukai Naturalist
 1 Charming Prince
 1 Woodland Cemetery
-1 Hinterland Harbor
 1 Isolated Chapel
 1 Courser of Kruphix
 1 Siege Rhino
@@ -180,8 +182,8 @@
 3 Nicol Bolas, the Ravager
 3 Savai Triome
 4 Binding the Old Gods
-4 Savai Triome
 4 Path to the World Tree
+4 Savai Triome
 4 Indatha Triome
 1 Chandra, Torch of Defiance
 1 Needle Spires
@@ -224,12 +226,12 @@
 2 Thoughtseize
 2 Ritual of Soot
 2 Watery Grave
-2 Dragonskull Summit
-2 Enter the God-Eternals
 2 Clearwater Pathway
+2 Enter the God-Eternals
 2 Bedevil
-3 Riverglide Pathway
+2 Dragonskull Summit
 3 Clearwater Pathway
+3 Riverglide Pathway
 3 Blood Crypt
 3 Nicol Bolas, Dragon-God
 3 Bedevil
