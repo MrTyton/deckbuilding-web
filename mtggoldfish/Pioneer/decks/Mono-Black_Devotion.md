@@ -25,7 +25,7 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|-------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Lithoform Blight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491745)|                     |              |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Lithoform Blight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491745)|                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 

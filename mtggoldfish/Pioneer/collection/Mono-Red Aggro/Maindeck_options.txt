@@ -2,6 +2,8 @@
 1 Wild Slash
 2 Spikefield Hazard
 2 Wild Slash
+1 Rampaging Ferocidon
+2 Rampaging Ferocidon
 1 Lightning Strike
 1 Goblin Chainwhirler
 2 Lightning Strike
@@ -9,8 +11,6 @@
 3 Lightning Strike
 3 Goblin Chainwhirler
 4 Lightning Strike
-1 Rampaging Ferocidon
-2 Rampaging Ferocidon
 14 Mountain
 4 Goblin Chainwhirler
 1 Torbran, Thane of Red Fell
@@ -20,13 +20,10 @@
 2 Zurgo Bellstriker
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
-2 Sokenzan, Crucible of Defiance
 3 Chandra, Torch of Defiance
+2 Sokenzan, Crucible of Defiance
 3 Rampaging Ferocidon
-15 Mountain
-16 Mountain
-1 Reckless Stormseeker
-2 Reckless Stormseeker
+1 Castle Embereth
 1 Abbot of Keral Keep
 2 Abbot of Keral Keep
 3 Abbot of Keral Keep
@@ -55,6 +52,8 @@
 10 Snow-Covered Mountain
 11 Snow-Covered Mountain
 12 Snow-Covered Mountain
+15 Mountain
+16 Mountain
 1 Dreadhorde Arcanist
 1 Reckless Rage
 1 Wizard's Lightning
