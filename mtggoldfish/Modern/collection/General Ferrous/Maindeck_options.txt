@@ -2,37 +2,37 @@
 3 Mantis Rider
 1 Verdant Catacombs
 2 Flooded Strand
-2 Windswept Heath
 2 Arid Mesa
-1 Omnath, Locus of Creation
-2 Omnath, Locus of Creation
-3 Omnath, Locus of Creation
+2 Windswept Heath
 3 Flooded Strand
 4 Flooded Strand
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
-1 Misty Rainforest
-4 General Ferrous Rokiric
+1 Omnath, Locus of Creation
+2 Omnath, Locus of Creation
+3 Omnath, Locus of Creation
 3 Fury
 4 Fury
 1 Wrenn and Six
 2 Wrenn and Six
 4 Manamorphose
-1 Teferi, Time Raveler
+4 General Ferrous Rokiric
+1 Misty Rainforest
 4 Mantis Rider
 3 Arid Mesa
-2 Teferi, Time Raveler
-3 Teferi, Time Raveler
+1 Teferi, Time Raveler
 3 Steam Vents
 4 Arid Mesa
-2 Misty Rainforest
-4 Teferi, Time Raveler
+2 Teferi, Time Raveler
+3 Teferi, Time Raveler
 2 Indatha Triome
 3 Indatha Triome
 2 Stomping Ground
 1 Ketria Triome
 1 Savai Triome
+4 Teferi, Time Raveler
+2 Misty Rainforest
 2 Sacred Foundry
 4 Steam Vents
 1 Ragavan, Nimble Pilferer
@@ -43,48 +43,49 @@
 1 Qasali Ambusher
 2 Qasali Ambusher
 1 Polluted Delta
-1 Ignoble Hierarch
-1 Noble Hierarch
-2 Ignoble Hierarch
-3 Windswept Heath
 1 Sokenzan, Crucible of Defiance
 1 Kabira Takedown
 1 Spikefield Hazard
 1 Boros Charm
-1 Heroic Reinforcements
-1 Figure of Destiny
+1 Response/Resurgence
 1 Needleverge Pathway
 1 Showdown of the Skalds
-1 Response/Resurgence
 1 Hero of Precinct One
 1 Path to Exile
 2 Kabira Takedown
-2 Boros Charm
 2 Spikefield Hazard
-2 Plains
+2 Boros Charm
 2 Response/Resurgence
 2 Path to Exile
 2 Showdown of the Skalds
 2 Needleverge Pathway
-2 Heroic Reinforcements
 2 Hero of Precinct One
-2 Figure of Destiny
 3 Needleverge Pathway
-3 Heroic Reinforcements
 3 Hero of Precinct One
 3 Showdown of the Skalds
-3 Figure of Destiny
-4 Heroic Reinforcements
 4 Hero of Precinct One
 4 Needleverge Pathway
+1 Ignoble Hierarch
+1 Noble Hierarch
+2 Ignoble Hierarch
+1 Heroic Reinforcements
+1 Figure of Destiny
+2 Plains
+2 Heroic Reinforcements
+2 Figure of Destiny
+3 Heroic Reinforcements
+3 Figure of Destiny
+4 Heroic Reinforcements
 3 Wrenn and Six
+1 Sunbaked Canyon
+1 Dryad Militant
+2 Dryad Militant
+3 Dryad Militant
 2 Verdant Catacombs
 4 Ragavan, Nimble Pilferer
-3 Misty Rainforest
-4 Misty Rainforest
-4 Windswept Heath
-1 Reflector Mage
+3 Windswept Heath
 1 Klothys, God of Destiny
+1 Reflector Mage
 2 Reflector Mage
 1 Tarmogoyf
 1 Horizon Canopy
@@ -97,14 +98,15 @@
 1 Mox Amber
 1 Den of the Bugbear
 1 Bard Class
-1 Birgi, God of Storytelling
 1 Sarkhan Vol
-1 Gallia of the Endless Dance
 1 Radha, Heir to Keld
+1 Birgi, God of Storytelling
+1 Gallia of the Endless Dance
 1 Yavimaya, Cradle of Growth
 1 Domri, Anarch of Bolas
 1 Oath of Nissa
 2 Targ Nar, Demon-Fang Gnoll
+2 Domri, Anarch of Bolas
 2 Forest
 2 Bard Class
 2 Birgi, God of Storytelling
@@ -113,7 +115,6 @@
 2 Gallia of the Endless Dance
 2 Radha, Heir to Keld
 2 Sarkhan Vol
-2 Domri, Anarch of Bolas
 2 Mox Amber
 2 Goro-Goro, Disciple of Ryusei
 3 Gallia of the Endless Dance
@@ -127,54 +128,35 @@
 4 Birgi, God of Storytelling
 4 Bard Class
 4 Mox Amber
-4 Bloodstained Mire
-1 Sunbaked Canyon
 1 Eiganjo, Seat of the Empire
 4 Figure of Destiny
-1 Dryad Militant
-2 Dryad Militant
-3 Dryad Militant
-1 Island
-1 Rip Apart
-1 Fiery Justice
-1 Niv-Mizzet Reborn
-1 Utopia Sprawl
-1 Valki, God of Lies
-1 Sylvan Caryatid
-1 Bring to Light
-2 Bring to Light
-2 Utopia Sprawl
-2 Fiery Justice
-2 Sylvan Caryatid
-2 Niv-Mizzet Reborn
-3 Bring to Light
-3 Fiery Justice
-3 Sylvan Caryatid
-3 Utopia Sprawl
-4 Sylvan Caryatid
-4 Utopia Sprawl
-4 Bring to Light
-1 Expressive Iteration
-2 Expressive Iteration
+4 Bloodstained Mire
+3 Misty Rainforest
+4 Misty Rainforest
+4 Dryad Militant
+3 Sacred Foundry
+4 Windswept Heath
 1 Snow-Covered Plains
-1 Snow-Covered Island
 1 Snow-Covered Forest
 1 Jace, the Mind Sculptor
 1 Solitude
 1 Prismatic Ending
+1 Snow-Covered Island
 1 Supreme Verdict
 1 March of Otherworldly Light
+1 Expressive Iteration
 1 Counterspell
 1 Abundant Growth
 1 Hallowed Fountain
 1 Ice-Fang Coatl
 1 Raugrin Triome
-2 Snow-Covered Island
 2 March of Otherworldly Light
 2 Solitude
+2 Snow-Covered Island
 2 Prismatic Ending
 2 Boseiju, Who Endures
 2 Counterspell
+2 Expressive Iteration
 2 Supreme Verdict
 2 Ice-Fang Coatl
 2 Abundant Growth
@@ -190,17 +172,10 @@
 4 Wrenn and Six
 4 Ice-Fang Coatl
 4 Counterspell
-4 Expressive Iteration
 4 Abundant Growth
+4 Expressive Iteration
 4 Solitude
 1 Watery Grave
-1 Overgrown Tomb
-2 Rip Apart
-1 Wandering Mind
-1 Godless Shrine
-2 Wandering Mind
-3 Verdant Catacombs
-3 Wandering Mind
 2 Noble Hierarch
 3 Ignoble Hierarch
 3 Noble Hierarch
@@ -210,7 +185,6 @@
 2 Windbrisk Heights
 2 Judge's Familiar
 3 Plains
-3 Sacred Foundry
 4 Plains
 1 Lightning Skelemental
 2 Lightning Skelemental
@@ -226,4 +200,48 @@
 3 Far/Away
 3 Fire/Ice
 4 Far/Away
-4 Dryad Militant
+1 Field of Ruin
+1 Marsh Flats
+1 Wear/Tear
+1 Tithe Taker
+1 Battlefield Forge
+1 Rem Karolus, Stalwart Slayer
+1 Legion's Landing
+1 Light of Hope
+2 Rem Karolus, Stalwart Slayer
+2 Battlefield Forge
+2 Legion's Landing
+2 Tithe Taker
+3 Path to Exile
+3 Tithe Taker
+3 Boros Charm
+3 Battlefield Forge
+4 Path to Exile
+4 Boros Charm
+4 Showdown of the Skalds
+4 Sacred Foundry
+1 Island
+1 Rip Apart
+1 Wandering Mind
+1 Valki, God of Lies
+1 Fiery Justice
+1 Niv-Mizzet Reborn
+1 Godless Shrine
+1 Utopia Sprawl
+1 Sylvan Caryatid
+1 Bring to Light
+2 Wandering Mind
+2 Bring to Light
+2 Utopia Sprawl
+2 Fiery Justice
+2 Sylvan Caryatid
+2 Niv-Mizzet Reborn
+3 Verdant Catacombs
+3 Wandering Mind
+3 Sylvan Caryatid
+3 Bring to Light
+3 Fiery Justice
+3 Utopia Sprawl
+4 Sylvan Caryatid
+4 Utopia Sprawl
+4 Bring to Light

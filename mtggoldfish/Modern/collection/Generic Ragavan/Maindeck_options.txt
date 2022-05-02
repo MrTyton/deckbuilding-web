@@ -71,15 +71,15 @@
 2 Blackcleave Cliffs
 3 Blackcleave Cliffs
 1 Plains
+1 Inquisition of Kozilek
 1 Kolaghan's Command
 1 Thoughtseize
-1 Inquisition of Kozilek
 1 Graven Cairns
 1 Lingering Souls
 1 Fatal Push
+2 Inquisition of Kozilek
 2 Kolaghan's Command
 2 Thoughtseize
-2 Inquisition of Kozilek
 2 Lingering Souls
 2 Marsh Flats
 3 Inquisition of Kozilek
@@ -117,9 +117,9 @@
 4 Lingering Souls
 4 Sleight of Hand
 1 Esper Sentinel
-1 Mana Tithe
 1 Adeline, Resplendent Cathar
 1 Magus of the Moon
+1 Mana Tithe
 1 Imperial Recruiter
 1 Flagstones of Trokair
 1 Boom/Bust
@@ -129,14 +129,15 @@
 2 Plains
 2 Esper Sentinel
 2 Adeline, Resplendent Cathar
+2 Mana Tithe
 2 Imperial Recruiter
 2 Flagstones of Trokair
 2 Boom/Bust
 2 Sanctifier en-Vec
 2 Champion of the Parish
 2 Thalia's Lieutenant
-2 Mana Tithe
 3 Esper Sentinel
+3 Mana Tithe
 3 Plains
 3 Imperial Recruiter
 3 Flagstones of Trokair
@@ -144,12 +145,11 @@
 3 Champion of the Parish
 3 Boom/Bust
 3 Thalia's Lieutenant
-3 Mana Tithe
 4 Esper Sentinel
+4 Mana Tithe
 4 Flagstones of Trokair
 4 Sanctifier en-Vec
 4 Champion of the Parish
-4 Mana Tithe
 4 Boom/Bust
 4 Thalia's Lieutenant
 1 Dark Confidant
@@ -160,8 +160,8 @@
 1 Godless Shrine
 2 Kroxa, Titan of Death's Hunger
 2 Young Pyromancer
-2 Graven Cairns
 2 Terminate
+2 Graven Cairns
 3 Young Pyromancer
 4 Prismatic Ending
 4 Young Pyromancer
@@ -175,41 +175,41 @@
 2 Prismari Command
 2 Shape Anew
 2 Thopter Engineer
-3 Prismari Command
+3 Teferi, Time Raveler
 3 Shape Anew
 3 Flooded Strand
-3 Teferi, Time Raveler
+3 Prismari Command
 3 Thopter Engineer
 4 Teferi, Time Raveler
 4 Flooded Strand
 4 Shape Anew
 4 Thopter Engineer
+1 Liliana of the Veil
 1 Prismatic Vista
 1 Unmarked Grave
-1 Liliana of the Veil
 1 Sire of Insanity
 1 Ox of Agonas
 1 Persist
 1 Archon of Cruelty
+2 Liliana of the Veil
 2 Prismatic Vista
 2 Unmarked Grave
-2 Liliana of the Veil
 2 Persist
 3 Prismatic Vista
 3 Unmarked Grave
-3 Blood Crypt
 3 Liliana of the Veil
+3 Blood Crypt
 3 Persist
 4 Persist
-4 Blood Crypt
-4 Unmarked Grave
 4 Liliana of the Veil
+4 Unmarked Grave
+4 Blood Crypt
 4 Prismatic Vista
 1 Dreadhorde Arcanist
 1 Polluted Delta
-2 Polluted Delta
 2 Dreadhorde Arcanist
 2 Spell Pierce
+2 Polluted Delta
 2 Serum Visions
 3 Polluted Delta
 3 Dreadhorde Arcanist
@@ -220,8 +220,8 @@
 1 Reckless Impulse
 2 Sunbaked Canyon
 2 Reckless Impulse
-3 Reckless Impulse
 3 Sunbaked Canyon
+3 Reckless Impulse
 4 Reckless Impulse
 4 Sunbaked Canyon
 5 Mountain

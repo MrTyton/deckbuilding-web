@@ -21,8 +21,8 @@
 4 Utopia Sprawl
 3 Fury
 4 Seasoned Pyromancer
-4 Blood Moon
 4 Fury
+4 Blood Moon
 2 Forest
 3 Forest
 2 Klothys, God of Destiny
@@ -68,14 +68,14 @@
 1 Expedition Map
 1 Pithing Needle
 1 Nahiri, the Harbinger
-1 Noble Hierarch
 1 Magus of the Moon
+1 Noble Hierarch
 1 Solitude
 1 March of Otherworldly Light
-1 Raging Ravine
 1 Emrakul, the Aeons Torn
-1 Eiganjo, Seat of the Empire
+1 Raging Ravine
 1 Castle Ardenvale
+1 Eiganjo, Seat of the Empire
 1 Valakut Awakening
 1 Thrun, the Last Troll
 1 Lightning Helix
@@ -85,8 +85,8 @@
 2 Lightning Helix
 2 Voice of Resurgence
 2 Solitude
-3 March of Otherworldly Light
 3 Sacred Foundry
+3 March of Otherworldly Light
 3 Voice of Resurgence
 3 Lightning Helix
 3 Nahiri, the Harbinger
@@ -96,9 +96,9 @@
 3 Elvish Reclaimer
 4 Elvish Reclaimer
 1 Eternal Witness
+1 Reflecting Pool
 1 Sword of Fire and Ice
 1 Forgotten Cave
-1 Reflecting Pool
 1 Sword of Light and Shadow
 1 Prismatic Vista
 1 Collected Company
@@ -138,13 +138,13 @@
 1 Hexdrinker
 1 Ranger-Captain of Eos
 1 Giver of Runes
-2 Noble Hierarch
 2 Ranger-Captain of Eos
+2 Noble Hierarch
 3 Ranger-Captain of Eos
 1 Light Up the Night
 1 Hazoret the Fervent
-1 Shatterskull Smashing
 1 Goblin Rabblemaster
+1 Shatterskull Smashing
 1 Ensnaring Bridge
 1 Spellskite
 1 Gemstone Caverns
@@ -153,6 +153,9 @@
 2 Ensnaring Bridge
 2 Goblin Rabblemaster
 3 Goblin Rabblemaster
+3 Copperline Gorge
+4 Traverse the Ulvenwald
+4 March of Otherworldly Light
 1 Bloodbraid Elf
 1 Pillage
 1 Relic of Progenitus
@@ -162,9 +165,6 @@
 3 Bloodbraid Elf
 3 Pillage
 4 Bloodbraid Elf
-3 Copperline Gorge
-4 Traverse the Ulvenwald
-4 March of Otherworldly Light
 1 Birds of Paradise
 2 Birds of Paradise
 2 Fervent Champion

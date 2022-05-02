@@ -1,40 +1,42 @@
-3 Solitude
-1 Esper Charm
-3 Fatal Push
-1 The Wandering Emperor
-2 Drown in the Loch
-2 Misty Rainforest
-1 Godless Shrine
-2 Esper Charm
 2 Plains
-2 Drowned Catacomb
+2 Kaya's Guile
+2 Drown in the Loch
+1 Drowned Catacomb
+1 Godless Shrine
+3 Fatal Push
 3 Drown in the Loch
-1 Spreading Seas
-2 Spreading Seas
-4 Prismatic Ending
-3 Spreading Seas
+2 Misty Rainforest
+1 Esper Charm
 4 Island
-4 Teferi, Time Raveler
-1 Raugrin Triome
-2 Hall of Storm Giants
 3 March of Otherworldly Light
+4 Prismatic Ending
+2 Esper Charm
+4 Teferi, Time Raveler
+2 Hall of Storm Giants
+2 Drowned Catacomb
 1 Zagoth Triome
-4 Spreading Seas
-3 Teferi, Hero of Dominaria
-3 Drowned Catacomb
-4 Drowned Catacomb
 3 Hallowed Fountain
 1 Dress Down
-1 Shark Typhoon
+1 Spreading Seas
+2 Spreading Seas
+3 Spreading Seas
+4 Spreading Seas
+2 Dress Down
+3 Teferi, Hero of Dominaria
+3 Drowned Catacomb
 1 Opt
 2 Opt
+1 Raugrin Triome
 2 Glacial Fortress
+1 Marsh Flats
 1 Consider
 2 Consider
 3 Consider
-2 Dress Down
+2 Scalding Tarn
+2 Castle Vantress
 3 Dress Down
 3 Watery Grave
+4 Hallowed Fountain
 4 Consider
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
@@ -42,65 +44,61 @@
 2 Mishra's Bauble
 3 Mishra's Bauble
 1 Darkslick Shores
-1 Marsh Flats
-2 Scalding Tarn
+1 Chalice of the Void
+2 Chalice of the Void
+2 Marsh Flats
+4 Drowned Catacomb
+1 Shark Typhoon
+2 The Wandering Emperor
 1 Thoughtseize
-1 Sunken Ruins
-1 Fact or Fiction
 1 Omen of the Sea
 1 Takenuma, Abandoned Mire
 1 Raven's Crime
-2 Otawara, Soaring City
+1 Fact or Fiction
 2 Omen of the Sea
 2 Takenuma, Abandoned Mire
+2 Otawara, Soaring City
 2 Fact or Fiction
-4 Hallowed Fountain
 4 Watery Grave
-2 Castle Vantress
 3 Kaya's Guile
 1 Cryptic Command
 2 Cryptic Command
-2 Jace, the Mind Sculptor
 3 Esper Charm
 2 Darkslick Shores
-1 Seachrome Coast
 1 Murderous Cut
-2 Marsh Flats
-3 Inquisition of Kozilek
-4 Inquisition of Kozilek
+1 Seachrome Coast
 1 Faithful Mending
 2 Faithful Mending
 3 Faithful Mending
 4 Faithful Mending
+1 Sunken Ruins
+3 Inquisition of Kozilek
+4 Inquisition of Kozilek
 1 Seal of Removal
 1 Thing in the Ice
 2 Thing in the Ice
 3 Memory Deluge
 3 Thing in the Ice
 2 Celestial Colonnade
-2 Mystic Gate
 4 Fatal Push
-3 Opt
+1 Dovin's Veto
+2 Mystic Gate
 2 Thoughtseize
+3 Opt
 2 Seachrome Coast
 3 Marsh Flats
 4 Marsh Flats
+1 Raffine's Tower
+2 Jace, the Mind Sculptor
 3 Omen of the Sea
-1 Chalice of the Void
-2 Chalice of the Void
-1 Damn
-2 Damn
+3 Scalding Tarn
 1 Subtlety
-2 The Wandering Emperor
 4 Solitude
 1 Grief
-1 Dovin's Veto
 1 Unmarked Grave
+3 Thoughtseize
 1 Concealed Courtyard
 2 Godless Shrine
-3 Thoughtseize
-1 Spell Snare
-4 Opt
 1 Archon of Cruelty
 1 Ephemerate
 1 Ashen Rider
@@ -116,29 +114,47 @@
 3 Archon of Cruelty
 3 Grief
 3 Persist
+4 Ephemerate
 4 Grief
 4 Persist
 4 Unmarked Grave
-4 Ephemerate
+1 Kaya, Orzhov Usurper
+4 Opt
+1 Void Rend
+1 Obscura Charm
+2 Void Rend
+1 Narset, Parter of Veils
 4 Mishra's Bauble
-1 Force of Negation
-2 Force of Negation
-3 Scalding Tarn
+1 Emrakul, the Aeons Torn
 1 Omniscience
 1 Search for Azcanta
 1 Mastermind's Acquisition
-1 Emrakul, the Aeons Torn
 1 Obzedat's Aid
 1 Resurgent Belief
 2 Search for Azcanta
-2 Mastermind's Acquisition
 2 Resurgent Belief
+2 Mastermind's Acquisition
 2 Omniscience
 3 Resurgent Belief
 3 Omniscience
 4 Omniscience
 4 Resurgent Belief
-1 Kaya, Orzhov Usurper
+1 Damn
+2 Damn
+1 Unearth
+1 Sedgemoor Witch
+1 Force of Negation
+1 Monastery Mentor
+1 Murktide Regent
+2 Force of Negation
+2 Unearth
+2 Monastery Mentor
+2 Murktide Regent
+3 Unearth
+3 Monastery Mentor
+4 Monastery Mentor
+4 Unearth
+1 Silent Clearing
 1 Sword of Fire and Ice
 1 Eiganjo, Seat of the Empire
 1 Vindicate
@@ -149,7 +165,6 @@
 1 Dakkon, Shadow Slayer
 1 Kaldra Compleat
 1 Stoneforge Mystic
-1 Silent Clearing
 2 Vindicate
 2 Sanctifier en-Vec
 2 Lingering Souls
@@ -161,36 +176,29 @@
 3 Stoneforge Mystic
 4 Sanctifier en-Vec
 4 Concealed Courtyard
-1 Unearth
-1 Sedgemoor Witch
-1 Monastery Mentor
-1 Murktide Regent
-2 Unearth
-2 Monastery Mentor
-2 Murktide Regent
-3 Unearth
-3 Monastery Mentor
-4 Monastery Mentor
-4 Unearth
 1 Hullbreaker Horror
+1 Spell Snare
 1 Damnation
 1 Irrigated Farmland
 1 Field of Ruin
 1 Engineered Explosives
 2 Field of Ruin
-1 Narset, Parter of Veils
+1 Eliminate
+2 Shark Typhoon
 1 Path to Exile
 1 Fetid Pools
 1 Creeping Tar Pit
 2 Narset, Parter of Veils
 1 Jace, Vryn's Prodigy
 2 Jace, Vryn's Prodigy
-1 Eliminate
-2 Shark Typhoon
 1 Dream Trawler
 2 Obzedat's Aid
-2 Sunken Ruins
-3 Supreme Verdict
+2 Kaya, Orzhov Usurper
+3 Void Rend
+1 Fire/Ice
+1 Steam Vents
+2 Fire/Ice
+3 Mystic Gate
 1 Spell Pierce
 4 Scalding Tarn
 1 As Foretold
@@ -200,10 +208,16 @@
 2 As Foretold
 2 Jwari Disruption
 2 Ancestral Vision
+3 As Foretold
 3 Jwari Disruption
 3 Ancestral Vision
-3 As Foretold
 4 Jwari Disruption
+1 Spell Queller
+2 Obscura Charm
+2 Spell Queller
+3 Obscura Charm
+3 Spell Queller
+4 Spell Queller
 1 Cling to Dust
 1 Riptide Laboratory
 1 Secure the Wastes

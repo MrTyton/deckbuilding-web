@@ -96,6 +96,11 @@
 3 Discover the Impossible
 3 Essence Scatter
 4 Discover the Impossible
+1 Tale's End
+2 Tale's End
+3 Tale's End
+4 Memory Deluge
+4 Tale's End
 1 Hieroglyphic Illumination
 2 Hieroglyphic Illumination
 3 Farewell
@@ -126,8 +131,8 @@
 1 Tranquil Cove
 1 Sublime Epiphany
 1 Ugin, the Spirit Dragon
-1 Dissipate
 1 Supreme Will
+1 Dissipate
 1 Disallow
 1 Kiora Bests the Sea God
 2 Torrential Gearhulk
@@ -136,16 +141,16 @@
 2 Approach of the Second Sun
 2 Tranquil Cove
 2 Sublime Epiphany
-2 Dissipate
 2 Kiora Bests the Sea God
 2 Supreme Will
 2 Ugin, the Spirit Dragon
 2 Disallow
+2 Dissipate
 3 Torrential Gearhulk
 3 Tranquil Cove
 3 Settle the Wreckage
-3 Dissipate
 3 Approach of the Second Sun
+3 Dissipate
 3 Disallow
 3 Supreme Will
 3 Sublime Epiphany
@@ -153,11 +158,6 @@
 4 Day of Judgment
 4 Settle the Wreckage
 4 Approach of the Second Sun
-1 Tale's End
-2 Tale's End
-3 Tale's End
-4 Memory Deluge
-4 Tale's End
 1 Discover the Formula
 1 Unexpected Conversion
 4 Narset, Parter of Veils

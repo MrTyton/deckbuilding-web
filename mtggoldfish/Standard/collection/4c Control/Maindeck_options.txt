@@ -33,16 +33,16 @@
 3 Mulch
 4 Prismari Command
 1 Bloodchief's Thirst
-1 Island
 1 Saw It Coming
+1 Island
 1 Valki, God of Lies
 2 Hall of Storm Giants
 1 Alrund's Epiphany
 1 Wrenn and Seven
 2 Wrenn and Seven
 1 Duress
-2 The Celestus
 2 Duress
+2 The Celestus
 3 Duress
 1 Snow-Covered Swamp
 1 Snow-Covered Mountain
@@ -50,8 +50,8 @@
 1 Sea Gate Restoration
 1 Memory Deluge
 1 Dreamroot Cascade
-3 Darkbore Pathway
 3 Barkchannel Pathway
+3 Darkbore Pathway
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
@@ -80,22 +80,22 @@
 4 Shambling Ghast
 4 Deadly Dispute
 1 Den of the Bugbear
-1 Olivia, Crimson Bride
 1 Old Gnawbone
 1 Edgar's Awakening
 1 Burning-Rune Demon
+1 Olivia, Crimson Bride
 2 Old Gnawbone
 2 Edgar's Awakening
 2 Stormcarved Coast
 2 Olivia, Crimson Bride
 3 The World Tree
 3 Edgar's Awakening
-1 Field of Ruin
 1 Soul Shatter
 1 Galazeth Prismari
 1 Shadows' Verdict
 1 Prismari Campus
 1 Crippling Fear
+1 Field of Ruin
 1 Hunt for Specimens
 1 Burning Hands
 1 Baleful Mastery
@@ -107,7 +107,6 @@
 2 Burning Hands
 2 Galazeth Prismari
 3 Hunt for Specimens
-1 Forest
 1 Corpse Explosion
 1 Binding the Old Gods
 1 Cosima, God of the Voyage
@@ -115,11 +114,12 @@
 1 Koma, Cosmos Serpent
 1 Deathcap Glade
 1 Turntimber Symbiosis
+1 Forest
 1 Greater Tanuki
-2 Forest
 2 Koma, Cosmos Serpent
 2 Binding the Old Gods
 2 Greater Tanuki
+2 Forest
 2 Corpse Explosion
 2 Cosima, God of the Voyage
 2 Turntimber Symbiosis
@@ -132,64 +132,64 @@
 4 Barkchannel Pathway
 4 Cosima, God of the Voyage
 4 Binding the Old Gods
-1 Glasspool Mimic
-1 Tovolar's Huntmaster
 1 Avabruck Caretaker
+1 Tovolar's Huntmaster
 1 Scale the Heights
 1 Bala Ged Recovery
+1 Glasspool Mimic
 1 Port of Karfell
-2 Avabruck Caretaker
-2 Tovolar's Huntmaster
 2 Bala Ged Recovery
 2 Port of Karfell
+2 Avabruck Caretaker
 2 Scale the Heights
-3 Cragcrown Pathway
+2 Tovolar's Huntmaster
 3 Diregraf Rebirth
 3 Scale the Heights
+3 Cragcrown Pathway
 4 Scale the Heights
 4 Mulch
 1 Lier, Disciple of the Drowned
-1 Xander's Lounge
-1 Maestros Charm
 1 Riveteers Charm
 1 Unleash the Inferno
 1 Takenuma, Abandoned Mire
+1 Maestros Charm
+1 Xander's Lounge
 1 Burn Down the House
 1 Tainted Indulgence
 1 Fading Hope
-2 Burn Down the House
-2 Xander's Lounge
-2 Maestros Charm
 2 Lier, Disciple of the Drowned
+2 Maestros Charm
 2 Riveteers Charm
 2 Unleash the Inferno
 2 Tainted Indulgence
 2 Fading Hope
-3 Xander's Lounge
-3 Maestros Charm
+2 Xander's Lounge
+2 Burn Down the House
 3 Tainted Indulgence
+3 Maestros Charm
+3 Xander's Lounge
 3 Burn Down the House
-4 Ziatora's Proving Ground
 4 Xander's Lounge
+4 Ziatora's Proving Ground
 4 Tainted Indulgence
 4 Smoldering Egg
 1 Blood on the Snow
-2 Snow-Covered Swamp
-2 Blood on the Snow
 2 Snow-Covered Mountain
+2 Blood on the Snow
+2 Snow-Covered Swamp
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 1 Immersturm Predator
-1 Kalain, Reclusive Painter
 1 Lolth, Spider Queen
 1 Sulfurous Mire
+1 Kalain, Reclusive Painter
 1 Kazuul's Fury
 2 Shatterskull Smashing
-2 Kazuul's Fury
 2 Immersturm Predator
-2 Kalain, Reclusive Painter
 2 Lolth, Spider Queen
+2 Kalain, Reclusive Painter
 2 Hive of the Eye Tyrant
+2 Kazuul's Fury
 2 Sulfurous Mire
 3 Immersturm Predator
 3 Kalain, Reclusive Painter
@@ -199,58 +199,35 @@
 3 Eyetwitch
 3 Blood on the Snow
 4 Eyetwitch
-4 Immersturm Predator
 4 Skullport Merchant
+4 Immersturm Predator
 4 Snow-Covered Mountain
 4 Sulfurous Mire
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
-1 Eaten Alive
-1 Prosperous Innkeeper
-1 Disdainful Stroke
-1 Necroblossom Snarl
-1 Vineglimmer Snarl
-2 Eaten Alive
-2 Prosperous Innkeeper
-3 Prosperous Innkeeper
-3 Eaten Alive
-3 Saw It Coming
-3 Swamp
-4 Prosperous Innkeeper
-4 Island
-4 Saw It Coming
-4 Eaten Alive
-4 Swamp
-5 Swamp
-6 Swamp
-7 Swamp
-8 Swamp
-9 Swamp
-10 Swamp
-1 Hagra Mauling
-1 Snow-Covered Plains
-1 Snow-Covered Island
 1 Path of Peril
 1 Demonic Bargain
 1 Otherworldly Gaze
+1 Snow-Covered Plains
 1 Woodland Chasm
 1 Divide by Zero
 1 Snow-Covered Forest
 1 Path to the Festival
 1 Volatile Fjord
+1 Snow-Covered Island
 1 Seize the Storm
 1 Arcane Infusion
-2 Snow-Covered Island
+1 Hagra Mauling
 2 Path of Peril
 2 Otherworldly Gaze
 2 Path to the Festival
+2 Snow-Covered Island
 2 Seize the Storm
 2 Volatile Fjord
 2 Demonic Bargain
 2 Woodland Chasm
 2 Arcane Infusion
 2 Snow-Covered Forest
-3 Snow-Covered Island
 3 Path of Peril
 3 Demonic Bargain
 3 Otherworldly Gaze
@@ -259,6 +236,7 @@
 3 Arcane Infusion
 3 Snow-Covered Forest
 3 Volatile Fjord
+3 Snow-Covered Island
 4 Snow-Covered Island
 4 Demonic Bargain
 4 Seize the Storm
@@ -269,3 +247,25 @@
 6 Snow-Covered Island
 7 Snow-Covered Island
 8 Snow-Covered Island
+1 Disdainful Stroke
+1 Necroblossom Snarl
+1 Eaten Alive
+1 Vineglimmer Snarl
+1 Prosperous Innkeeper
+2 Eaten Alive
+2 Prosperous Innkeeper
+3 Saw It Coming
+3 Prosperous Innkeeper
+3 Eaten Alive
+3 Swamp
+4 Saw It Coming
+4 Eaten Alive
+4 Island
+4 Prosperous Innkeeper
+4 Swamp
+5 Swamp
+6 Swamp
+7 Swamp
+8 Swamp
+9 Swamp
+10 Swamp
