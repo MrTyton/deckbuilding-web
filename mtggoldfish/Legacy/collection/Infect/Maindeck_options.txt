@@ -1,31 +1,32 @@
-1 Wooded Foothills
-2 Wooded Foothills
-2 Windswept Heath
 3 Scale Up
-4 Verdant Catacombs
 3 Ponder
 1 Flusterstorm
 2 Flusterstorm
+2 Windswept Heath
+4 Verdant Catacombs
+2 Spell Pierce
+2 Wooded Foothills
 1 Sylvan Library
+1 Crop Rotation
 1 Savannah
 1 Snow-Covered Forest
-1 Crop Rotation
 2 Wasteland
-3 Wooded Foothills
 4 Scale Up
+3 Wooded Foothills
+4 Berserk
 1 Prismatic Ending
 1 Teferi, Time Raveler
+1 Boseiju, Who Endures
 3 Windswept Heath
-4 Berserk
-2 Prismatic Ending
-4 Wooded Foothills
 1 Dismember
+2 Prismatic Ending
 4 Vines of Vastwood
 2 Forest
-4 Windswept Heath
-1 Boseiju, Who Endures
+4 Wooded Foothills
+2 Crop Rotation
 1 Breeding Pool
 1 Polluted Delta
+4 Windswept Heath
 4 Ponder
 1 Karakas
 1 Pact of Negation
@@ -35,7 +36,6 @@
 1 Mavinda, Students' Advocate
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
-2 Crop Rotation
 2 Sylvan Library
 1 Yavimaya, Cradle of Growth
 1 Waterlogged Grove
@@ -43,7 +43,12 @@
 2 Blossoming Defense
 1 Spellskite
 2 Boseiju, Who Endures
-3 Wasteland
+1 Underground Sea
+1 Ignoble Hierarch
+1 Leovold, Emissary of Trest
+2 Ignoble Hierarch
+2 Leovold, Emissary of Trest
+3 Ignoble Hierarch
 1 Tundra
 1 Esper Sentinel
 1 Flooded Strand
@@ -57,15 +62,4 @@
 3 Flusterstorm
 4 Flooded Strand
 4 Esper Sentinel
-1 Underground Sea
-1 Ignoble Hierarch
-1 Phyrexian Crusader
-1 Bayou
-1 Worldly Tutor
-2 Ignoble Hierarch
-2 Phyrexian Crusader
-2 Worldly Tutor
-2 Bayou
-2 Polluted Delta
-3 Polluted Delta
-3 Worldly Tutor
+3 Wasteland

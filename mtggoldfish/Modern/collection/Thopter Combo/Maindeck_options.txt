@@ -27,10 +27,10 @@
 1 Polluted Delta
 4 Thought Monitor
 4 Mishra's Bauble
-1 Steam Vents
 1 Sacred Foundry
-1 Marsh Flats
+1 Steam Vents
 1 Thraben Inspector
+1 Marsh Flats
 2 Thraben Inspector
 3 Thraben Inspector
 4 Thraben Inspector
@@ -68,8 +68,8 @@
 2 Cavern of Souls
 3 Relic of Progenitus
 1 Mountain
-1 Sulfur Falls
 1 Glacial Fortress
+1 Sulfur Falls
 1 Unholy Heat
 2 Steam Vents
 2 Unholy Heat
@@ -92,23 +92,23 @@
 2 Polluted Delta
 3 Scalding Tarn
 1 Inspiring Vantage
-1 Karn, the Great Creator
 1 Academy Ruins
+1 Karn, the Great Creator
 1 Ensnaring Bridge
 1 Chalice of the Void
 3 Plains
 1 Spreading Seas
-2 Spreading Seas
 2 Adarkar Wastes
-3 Spreading Seas
+2 Spreading Seas
 3 Adarkar Wastes
+3 Spreading Seas
 4 Spreading Seas
 1 Seasoned Pyromancer
 1 Clifftop Retreat
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
-4 Teferi, Time Raveler
 4 Spire of Industry
+4 Teferi, Time Raveler
 1 Thoughtcast
 2 Thoughtcast
 3 Thoughtcast
@@ -117,14 +117,24 @@
 4 Darksteel Citadel
 4 Thoughtcast
 1 Windswept Heath
-1 Tribute Mage
-2 Tribute Mage
-1 Snow-Covered Island
 1 Snow-Covered Plains
+1 Snow-Covered Island
 2 Snow-Covered Island
 1 Galvanic Blast
-2 Galvanic Blast
 2 Inspiring Vantage
+2 Galvanic Blast
+1 Tribute Mage
+2 Tribute Mage
+1 Expressive Iteration
+1 Prismatic Vista
+1 Grafdigger's Cage
+1 Ichor Wellspring
+2 Expressive Iteration
+2 Karn, the Great Creator
+3 Prismatic Ending
+3 Karn, the Great Creator
+3 Expressive Iteration
+4 Scalding Tarn
 2 Hengegate Pathway
 3 Hengegate Pathway
 4 Hengegate Pathway
@@ -138,23 +148,13 @@
 2 Batterskull
 3 Chromatic Star
 4 Chromatic Star
-1 Prismatic Vista
-1 Grafdigger's Cage
-1 Expressive Iteration
-1 Ichor Wellspring
-2 Karn, the Great Creator
-2 Expressive Iteration
-3 Prismatic Ending
-3 Karn, the Great Creator
-3 Expressive Iteration
-4 Scalding Tarn
-1 Expedition Map
 1 Spellskite
+1 Expedition Map
+2 Spellskite
 2 Misty Rainforest
 2 Ensnaring Bridge
-2 Spellskite
 3 Ensnaring Bridge
 3 Spellskite
-4 Spellskite
 4 Ensnaring Bridge
+4 Spellskite
 4 Whir of Invention

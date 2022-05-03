@@ -1,15 +1,16 @@
-1 Hexdrinker
-2 Bayou
-2 Birds of Paradise
+3 Prismatic Ending
 1 Boseiju, Who Endures
-4 Mother of Runes
-4 Noble Hierarch
+2 Bayou
 1 Misty Rainforest
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
-2 Tropical Island
+4 Noble Hierarch
+2 Birds of Paradise
+4 Mother of Runes
 3 Endurance
+2 Misty Rainforest
+2 Tropical Island
 1 Yavimaya, Cradle of Growth
 1 Bojuka Bog
 1 Sylvan Safekeeper
@@ -22,11 +23,10 @@
 2 Crop Rotation
 3 Crop Rotation
 4 Crop Rotation
-2 Misty Rainforest
 1 Island
 1 Valakut, the Molten Pinnacle
-1 Gretchen Titchwillow
 1 Vesuva
+1 Gretchen Titchwillow
 1 Elvish Reclaimer
 1 Glacial Chasm
 1 Dryad of the Ilysian Grove
@@ -37,22 +37,23 @@
 2 Vesuva
 3 Boseiju, Who Endures
 3 Elvish Reclaimer
-4 Endurance
 4 Once Upon a Time
+4 Endurance
 4 Elvish Reclaimer
-4 Boseiju, Who Endures
 1 March of Otherworldly Light
 2 March of Otherworldly Light
+4 Boseiju, Who Endures
+1 Tireless Tracker
 1 Uro, Titan of Nature's Wrath
+1 Plateau
 1 Taiga
 1 Grove of the Burnwillows
 1 Punishing Fire
-1 Plateau
 2 Grove of the Burnwillows
 2 Punishing Fire
 1 Shigeki, Jukai Visionary
 1 Otawara, Soaring City
-1 Tireless Tracker
+2 Plains
 1 Tundra
 1 Umezawa's Jitte
 3 Punishing Fire
@@ -60,18 +61,19 @@
 2 Dryad of the Ilysian Grove
 1 Leovold, Emissary of Trest
 4 Thalia, Guardian of Thraben
-1 Ghost Quarter
+1 Titania, Protector of Argoth
+3 Savannah
 1 Hullbreacher
-2 Plains
-2 Uro, Titan of Nature's Wrath
-3 Misty Rainforest
 1 Batterskull
 1 Stoneforge Mystic
 2 Stoneforge Mystic
+2 Uro, Titan of Nature's Wrath
+3 Misty Rainforest
 1 Wooded Foothills
 2 Wooded Foothills
 3 Wooded Foothills
-1 Blast Zone
+1 Godless Shrine
+1 Overgrown Tomb
 1 Abrupt Decay
 1 Plague Engineer
 2 Abrupt Decay
@@ -83,38 +85,37 @@
 2 Thespian's Stage
 2 Dark Depths
 2 Scryb Ranger
+1 Spirit of the Labyrinth
+2 Spirit of the Labyrinth
+3 March of Otherworldly Light
 1 Snow-Covered Forest
 1 Eiganjo, Seat of the Empire
-1 Titania, Protector of Argoth
-3 Savannah
 1 Tarmogoyf
-1 Shadowspear
+1 Ghost Quarter
 1 Urza's Saga
 1 Pyrite Spellbomb
 1 Soul-Guide Lantern
+1 Shadowspear
 2 Urza's Saga
-3 Urza's Saga
 3 Grove of the Burnwillows
+3 Urza's Saga
 1 Lion Sash
 1 Kaldra Compleat
 2 Hullbreacher
 3 Stoneforge Mystic
 4 Misty Rainforest
+1 Maze of Ith
 1 Qasali Pridemage
-3 March of Otherworldly Light
+1 Blast Zone
 1 Kaya, Orzhov Usurper
 1 Raugrin Triome
 1 Ketria Triome
 1 Omnath, Locus of Creation
-1 Overgrown Tomb
-1 Godless Shrine
 1 The Wandering Emperor
 1 Tanuki Transplanter
 1 Sarulf, Realm Eater
 1 Chord of Calling
 2 Chord of Calling
-1 Spirit of the Labyrinth
-2 Spirit of the Labyrinth
 1 Teferi, Time Raveler
 1 Baneslayer Angel
 3 Hullbreacher
@@ -140,6 +141,6 @@
 3 Brainstorm
 3 Ponder
 3 Natural Order
+4 Brainstorm
 4 Ponder
 4 Natural Order
-4 Brainstorm

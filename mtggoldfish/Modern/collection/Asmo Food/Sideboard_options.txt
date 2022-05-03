@@ -1,17 +1,17 @@
-1 Abrupt Decay
 2 Abrupt Decay
+1 Nihil Spellbomb
 1 Soul-Guide Lantern
 1 Assassin's Trophy
 2 Void Mirror
-1 Kozilek, Butcher of Truth
 1 Chalice of the Void
-1 Trail of Crumbs
 1 Fracture
 2 Fracture
 1 Portable Hole
 2 Portable Hole
+1 Trail of Crumbs
 1 Nature's Claim
 4 Leyline of the Void
+1 Kozilek, Butcher of Truth
 2 Trail of Crumbs
 1 Serra's Emissary
 1 Dead of Winter
@@ -31,11 +31,9 @@
 3 Fatal Push
 2 Veil of Summer
 1 Ashiok, Dream Render
-2 Dead of Winter
-3 Damping Sphere
-1 Karn, Scion of Urza
-1 Engineered Explosives
 2 Nihil Spellbomb
+3 Damping Sphere
+2 Dead of Winter
 2 Assassin's Trophy
 2 Ashiok, Dream Render
 4 Damping Sphere
@@ -47,17 +45,21 @@
 1 Break the Ice
 1 Terastodon
 2 Soul-Guide Lantern
+1 Pyrite Spellbomb
+1 Engineered Explosives
 1 Wear/Tear
 1 Herald of Anguish
-1 Prismatic Ending
 1 Surgical Extraction
-1 Pyrite Spellbomb
+1 Prismatic Ending
+2 Engineered Explosives
 1 Grafdigger's Cage
 1 Endurance
 1 Bone Shards
 1 Vraska, Golgari Queen
 1 Witherbloom Command
-1 Natural State
+1 Scavenging Ooze
+1 Deflecting Palm
+1 Weather the Storm
 1 Kolaghan's Command
 1 Bojuka Bog
 1 Lurrus of the Dream-Den
@@ -69,17 +71,18 @@
 1 Witch's Oven
 2 Witch's Oven
 2 Break the Ice
+1 Karn, Scion of Urza
 2 Karn, Scion of Urza
-1 Magus of the Moon
-1 Relic of Progenitus
 1 Ensnaring Bridge
+1 Relic of Progenitus
+1 Magus of the Moon
 1 Shattering Spree
 2 Ensnaring Bridge
 2 Magus of the Moon
 2 Shattering Spree
 1 Force of Negation
-1 Flusterstorm
 1 Drown in the Loch
+1 Flusterstorm
 2 Force of Negation
 2 Flusterstorm
 2 Drown in the Loch
@@ -88,10 +91,6 @@
 2 Vindicate
 2 Wear/Tear
 2 Prismatic Ending
-1 Scavenging Ooze
-1 Deflecting Palm
-1 Weather the Storm
-2 Engineered Explosives
 3 Chalice of the Void
 1 Emrakul, the Aeons Torn
 3 Soul-Guide Lantern
@@ -100,6 +99,13 @@
 2 Necromentia
 2 Surgical Extraction
 3 Surgical Extraction
+1 Platinum Emperion
+1 Academy Manufactor
+1 Shenanigans
+1 Obsidian Charmaw
+2 Pyrite Spellbomb
+2 Obsidian Charmaw
+3 Obsidian Charmaw
 3 Veil of Summer
 1 Silence
 2 Silence
@@ -108,8 +114,8 @@
 2 By Force
 3 Nature's Claim
 4 Fatal Push
-1 Alpine Moon
 1 Unholy Heat
+1 Alpine Moon
 2 Endurance
 2 Alpine Moon
 2 Ancient Grudge
@@ -122,5 +128,5 @@
 1 Duress
 1 Disfigure
 2 Duress
-2 Disfigure
 3 Duress
+2 Disfigure

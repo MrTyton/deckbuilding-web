@@ -1,49 +1,47 @@
 1 Bloodstained Mire
-1 Sunbaked Canyon
+3 Chandra, Dressed to Kill
 2 Arid Mesa
-3 Unholy Heat
 3 Arid Mesa
 1 Prismatic Vista
 2 Prismatic Vista
-1 Sacred Foundry
 1 Soul-Scar Mage
-4 Arid Mesa
+1 Sacred Foundry
 1 Prismatic Ending
 2 Prismatic Ending
-2 Sacred Foundry
 1 Monastery Swiftspear
 2 Monastery Swiftspear
 3 Monastery Swiftspear
 4 Monastery Swiftspear
+3 Unholy Heat
+4 Arid Mesa
+2 Sacred Foundry
 2 Sunbaked Canyon
 2 Soul-Scar Mage
-4 Unholy Heat
-2 Bloodstained Mire
-1 Pyrite Spellbomb
 3 Prismatic Ending
 1 Lava Dart
 2 Lava Dart
+2 Bloodstained Mire
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 3 Soul-Guide Lantern
 4 Soul-Guide Lantern
+4 Unholy Heat
+3 Prismatic Vista
+1 Pyrite Spellbomb
+4 Chandra, Dressed to Kill
+1 Snow-Covered Plains
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
 2 Pyrite Spellbomb
 1 Plains
-3 Prismatic Vista
-4 Chandra, Dressed to Kill
-3 Pyrite Spellbomb
-4 Pyrite Spellbomb
 1 Wooded Foothills
 1 Fiery Islet
 9 Mountain
 10 Mountain
 4 Prismatic Ending
-1 Snow-Covered Plains
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
-1 Seal of Fire
-2 Seal of Fire
+3 Pyrite Spellbomb
+4 Pyrite Spellbomb
 1 March of Reckless Joy
 2 March of Reckless Joy
 3 March of Reckless Joy
@@ -54,6 +52,7 @@
 13 Mountain
 1 Firebolt
 3 Lava Dart
+4 Snow-Covered Mountain
 4 March of Reckless Joy
 2 Sokenzan, Crucible of Defiance
 1 Relic of Progenitus
@@ -65,6 +64,8 @@
 3 Bomat Courier
 1 Flame Slash
 2 Flame Slash
+1 Seal of Fire
+2 Seal of Fire
 4 Lava Dart
 1 March of Otherworldly Light
 1 Ephemerate
@@ -78,12 +79,9 @@
 15 Mountain
 16 Mountain
 17 Mountain
-4 Snow-Covered Mountain
-3 Seal of Fire
 4 Bomat Courier
 2 Firebolt
 3 Firebolt
-4 Prismatic Vista
 3 Bloodstained Mire
 3 Sunbaked Canyon
 1 Savai Triome
@@ -92,10 +90,12 @@
 1 Magus of the Moon
 2 Magus of the Moon
 3 Magus of the Moon
+3 Seal of Fire
 1 Lantern of the Lost
 2 Lantern of the Lost
 3 Lantern of the Lost
 4 Bloodstained Mire
+4 Prismatic Vista
 4 Sunbaked Canyon
 3 Flame Slash
 4 Flame Slash
@@ -114,28 +114,27 @@
 2 Lava Spike
 3 Lava Spike
 4 Lava Spike
-1 Klothys, God of Destiny
-1 Forest
 1 Misty Rainforest
-1 Stomping Ground
+1 Forest
 1 Utopia Sprawl
+1 Stomping Ground
+1 Klothys, God of Destiny
 1 Boseiju, Who Endures
 1 Arbor Elf
 2 Misty Rainforest
 2 Forest
-2 Wooded Foothills
 2 Utopia Sprawl
+2 Wooded Foothills
 2 Klothys, God of Destiny
 2 Stomping Ground
 2 Arbor Elf
-3 Stomping Ground
-3 Misty Rainforest
-3 Utopia Sprawl
-3 Arbor Elf
 3 Forest
+3 Stomping Ground
+3 Utopia Sprawl
+3 Misty Rainforest
+3 Arbor Elf
 3 Wooded Foothills
 4 Wooded Foothills
 4 Misty Rainforest
 4 Utopia Sprawl
 4 Arbor Elf
-4 Seal of Fire

@@ -41,11 +41,11 @@
 2 Tombstalker
 3 Tombstalker
 4 Tombstalker
-4 Verdant Catacombs
 1 Marsh Flats
 2 Marsh Flats
 3 Marsh Flats
 4 Marsh Flats
+4 Verdant Catacombs
 2 Dress Down
 2 Snapcaster Mage
 1 Oko, Thief of Crowns
@@ -72,24 +72,21 @@
 2 Chain of Smog
 2 Witherbloom Apprentice
 3 Witherbloom Apprentice
+3 Snuff Out
+3 Inquisition of Kozilek
 1 Unearth
 1 Leovold, Emissary of Trest
 2 Tropical Island
 2 Abrupt Decay
-3 Tropical Island
 3 Underground Sea
-3 Snuff Out
-3 Inquisition of Kozilek
+3 Tropical Island
 1 Grief
 2 Grief
 3 Grief
 3 Reanimate
-1 Darkblast
-2 Darkblast
-4 Murktide Regent
 4 Bloodstained Mire
-1 Worldly Tutor
 1 Lim-Dul's Vault
+1 Worldly Tutor
 2 Tarnished Citadel
 2 Lim-Dul's Vault
 3 Stubborn Denial
@@ -117,6 +114,9 @@
 3 True-Name Nemesis
 3 Ethereal Forager
 4 Snow-Covered Island
+4 True-Name Nemesis
 5 Snow-Covered Island
 6 Snow-Covered Island
-4 True-Name Nemesis
+1 Darkblast
+2 Darkblast
+4 Murktide Regent

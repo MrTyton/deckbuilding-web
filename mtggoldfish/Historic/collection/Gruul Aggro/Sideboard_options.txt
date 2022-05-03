@@ -45,10 +45,10 @@
 2 Nullhide Ferox
 3 Nullhide Ferox
 1 Heaven/Earth
-1 Bolt Bend
-1 Expansion/Explosion
 1 Scorching Dragonfire
 1 Banefire
+1 Bolt Bend
+1 Expansion/Explosion
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 1 Snakeskin Veil
@@ -67,16 +67,6 @@
 1 Domri's Ambush
 2 Thrashing Brontodon
 3 Unchained Berserker
-3 Relic of Progenitus
-1 Sweltering Suns
-1 Garruk's Harbinger
-1 Ancient Grudge
-2 Sweltering Suns
-3 Goblin Ruinblaster
-3 Cindervines
-1 Run Afoul
-2 Questing Beast
-3 Questing Beast
 1 Cemetery Prowler
 1 Glorybringer
 1 Return to Nature
@@ -89,6 +79,16 @@
 2 Glorybringer
 3 Bonecrusher Giant
 3 Cemetery Prowler
+3 Relic of Progenitus
+1 Sweltering Suns
+1 Garruk's Harbinger
+1 Ancient Grudge
+2 Sweltering Suns
+3 Goblin Ruinblaster
+3 Cindervines
+1 Run Afoul
+2 Questing Beast
+3 Questing Beast
 1 Cinderclasm
 2 Cinderclasm
 3 Cinderclasm
@@ -108,8 +108,8 @@
 4 Abrade
 4 Roiling Vortex
 1 Cemetery Gatekeeper
-1 Crushing Canopy
 1 Arasta of the Endless Web
+1 Crushing Canopy
 1 Quakebringer
 2 Arasta of the Endless Web
 3 Arasta of the Endless Web

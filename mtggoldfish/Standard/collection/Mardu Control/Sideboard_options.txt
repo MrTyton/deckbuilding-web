@@ -8,9 +8,9 @@
 1 Infernal Grasp
 1 Burn Down the House
 1 Lolth, Spider Queen
-2 Burn Down the House
-2 Power Word Kill
 2 Infernal Grasp
+2 Power Word Kill
+2 Burn Down the House
 2 Lolth, Spider Queen
 3 Showdown of the Skalds
 3 Ray of Enfeeblement
@@ -37,8 +37,8 @@
 2 Legion Angel
 3 Legion Angel
 2 The Meathook Massacre
-1 Mascot Exhibition
 1 Environmental Sciences
+1 Mascot Exhibition
 1 Necrotic Fumes
 1 Cinderclasm
 1 Reduce to Memory
@@ -53,23 +53,23 @@
 1 Welcoming Vampire
 1 Wedding Announcement
 2 Welcoming Vampire
-1 Introduction to Annihilation
 1 Introduction to Prophecy
+1 Introduction to Annihilation
 1 Start from Scratch
 1 Expanded Anatomy
-2 Environmental Sciences
 2 Introduction to Prophecy
 2 Introduction to Annihilation
+2 Environmental Sciences
 2 Pest Summoning
 2 Expanded Anatomy
 2 Start from Scratch
 1 Archon of Emeria
 1 Fracture
-1 Check for Traps
 1 Pithing Needle
+1 Check for Traps
 2 Archon of Emeria
-2 Check for Traps
 2 Fracture
+2 Check for Traps
 3 Check for Traps
 1 Curse of Hospitality
 2 Curse of Hospitality
@@ -82,15 +82,15 @@
 1 Curse of Shaken Faith
 2 Curse of Shaken Faith
 3 Curse of Shaken Faith
-1 Reidane, God of the Worthy
-1 Skyclave Shade
-2 Reidane, God of the Worthy
-2 Skyclave Shade
-3 Skyclave Shade
-3 Burning Hands
 1 Angelfire Ignition
 2 Cinderclasm
 3 The Meathook Massacre
+1 Skyclave Shade
+1 Reidane, God of the Worthy
+2 Skyclave Shade
+2 Reidane, God of the Worthy
+3 Skyclave Shade
+3 Burning Hands
 4 Vanishing Verse
 1 Ebondeath, Dracolich
 1 Fireblade Charger
