@@ -194,15 +194,6 @@
 1 Bloodghast
 2 Bloodghast
 3 Bloodghast
-1 Endurance
-1 Breeding Pool
-2 Grist, the Hunger Tide
-2 Endurance
-3 Thought Monitor
-3 Misty Rainforest
-3 Nettlecyst
-3 Grist, the Hunger Tide
-4 Thought Monitor
 1 Copperline Gorge
 1 Unholy Heat
 2 Wooded Foothills
@@ -216,6 +207,15 @@
 3 Lightning Bolt
 3 Prismatic Ending
 4 Wooded Foothills
+1 Endurance
+1 Breeding Pool
+2 Grist, the Hunger Tide
+2 Endurance
+3 Misty Rainforest
+3 Thought Monitor
+3 Nettlecyst
+3 Grist, the Hunger Tide
+4 Thought Monitor
 1 Prismatic Vista
 2 Prismatic Vista
 4 Trail of Crumbs
@@ -239,8 +239,8 @@
 3 Grief
 3 Otherworldly Gaze
 4 Archon of Cruelty
-4 Polluted Delta
 4 Ephemerate
+4 Polluted Delta
 4 Grief
 1 Witherbloom Command
 1 Abrupt Decay
