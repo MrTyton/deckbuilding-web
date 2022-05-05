@@ -27,9 +27,9 @@
 2 Teferi, Hero of Dominaria
 1 Hallowed Fountain
 2 Hallowed Fountain
+1 Sundown Pass
 1 Deserted Beach
 1 Eiganjo, Seat of the Empire
-1 Sundown Pass
 2 Deserted Beach
 2 Stormcarved Coast
 3 Supreme Verdict
@@ -37,8 +37,10 @@
 4 Portable Hole
 1 Stomping Ground
 2 Stomping Ground
-1 Kenrith, the Returned King
 1 Wandering Mind
+1 Overgrown Farmland
+1 Kenrith, the Returned King
+1 Barkchannel Pathway
 1 Moon-Blessed Cleric
 1 Knight of Autumn
 1 Eidolon of Rhetoric
@@ -52,14 +54,12 @@
 1 Enigmatic Incarnation
 1 Tolsimir, Friend to Wolves
 1 Cavalier of Dawn
-1 Barkchannel Pathway
 1 Mana Confluence
-1 Overgrown Farmland
 2 Overgrown Farmland
+2 Barkchannel Pathway
 2 Moon-Blessed Cleric
 2 Nylea's Presence
 2 Hengegate Pathway
-2 Barkchannel Pathway
 2 Branchloft Pathway
 2 Enigmatic Incarnation
 3 Barkchannel Pathway
@@ -101,10 +101,10 @@
 1 Omen of the Sun
 1 Archon of Sun's Grace
 2 Snow-Covered Island
-1 Commit/Memory
-3 Deafening Clarion
 1 Snow-Covered Forest
 3 Snow-Covered Plains
+1 Commit/Memory
+3 Deafening Clarion
 4 Anger of the Gods
 1 Jukai Naturalist
 1 Spirited Companion
@@ -112,41 +112,41 @@
 2 Jukai Naturalist
 3 Jukai Naturalist
 4 Jukai Naturalist
-1 Alrund's Epiphany
-1 Breeding Pool
-1 Temple Garden
+1 Genesis Ultimatum
 1 Risen Reef
+1 Alrund's Epiphany
 1 Arboreal Grazer
 1 Boseiju, Who Endures
 1 Yasharn, Implacable Earth
 1 Omnath, Locus of the Roil
 1 Field of Ruin
-1 Genesis Ultimatum
 1 Nissa, Who Shakes the World
 1 Omnath, Locus of Creation
+1 Breeding Pool
+1 Temple Garden
 1 Cavalier of Gales
 1 Cavalier of Flame
 1 Cavalier of Thorns
-2 Alrund's Epiphany
-2 Omnath, Locus of Creation
-2 Temple Garden
-2 Breeding Pool
+2 Genesis Ultimatum
 2 Arboreal Grazer
+2 Alrund's Epiphany
 2 Risen Reef
-2 Mountain
+2 Breeding Pool
 2 Omnath, Locus of the Roil
 2 Forest
-2 Genesis Ultimatum
+2 Omnath, Locus of Creation
 2 Nissa, Who Shakes the World
+2 Temple Garden
 2 Cavalier of Flame
+2 Mountain
 2 Cavalier of Gales
-3 Omnath, Locus of Creation
-3 Island
 3 Arboreal Grazer
+3 Island
+3 Genesis Ultimatum
 3 Risen Reef
 3 Cavalier of Flame
 3 Forest
+3 Omnath, Locus of Creation
 3 Cavalier of Gales
-3 Genesis Ultimatum
 4 Risen Reef
 3 Mountain

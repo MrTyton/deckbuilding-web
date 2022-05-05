@@ -91,47 +91,22 @@
 3 The World Tree
 3 Edgar's Awakening
 1 Field of Ruin
-1 Galazeth Prismari
 1 Soul Shatter
+1 Galazeth Prismari
 1 Shadows' Verdict
 1 Prismari Campus
 1 Crippling Fear
 1 Hunt for Specimens
 1 Burning Hands
 1 Baleful Mastery
-2 Galazeth Prismari
 2 Shadows' Verdict
 2 Soul Shatter
 2 Alrund's Epiphany
 2 Baleful Mastery
 2 Hunt for Specimens
 2 Burning Hands
+2 Galazeth Prismari
 3 Hunt for Specimens
-1 Lier, Disciple of the Drowned
-1 Xander's Lounge
-1 Maestros Charm
-1 Tainted Indulgence
-1 Riveteers Charm
-1 Unleash the Inferno
-1 Takenuma, Abandoned Mire
-1 Burn Down the House
-1 Fading Hope
-2 Burn Down the House
-2 Maestros Charm
-2 Xander's Lounge
-2 Tainted Indulgence
-2 Lier, Disciple of the Drowned
-2 Riveteers Charm
-2 Unleash the Inferno
-2 Fading Hope
-3 Xander's Lounge
-3 Maestros Charm
-3 Burn Down the House
-3 Tainted Indulgence
-4 Xander's Lounge
-4 Ziatora's Proving Ground
-4 Smoldering Egg
-4 Tainted Indulgence
 1 Corpse Explosion
 1 Binding the Old Gods
 1 Cosima, God of the Voyage
@@ -142,10 +117,10 @@
 1 Forest
 1 Greater Tanuki
 2 Forest
-2 Corpse Explosion
 2 Koma, Cosmos Serpent
 2 Binding the Old Gods
 2 Greater Tanuki
+2 Corpse Explosion
 2 Cosima, God of the Voyage
 2 Turntimber Symbiosis
 2 Colossal Skyturtle
@@ -173,6 +148,31 @@
 3 Scale the Heights
 4 Scale the Heights
 4 Mulch
+1 Lier, Disciple of the Drowned
+1 Xander's Lounge
+1 Tainted Indulgence
+1 Riveteers Charm
+1 Unleash the Inferno
+1 Takenuma, Abandoned Mire
+1 Maestros Charm
+1 Burn Down the House
+1 Fading Hope
+2 Fading Hope
+2 Tainted Indulgence
+2 Lier, Disciple of the Drowned
+2 Maestros Charm
+2 Riveteers Charm
+2 Unleash the Inferno
+2 Xander's Lounge
+2 Burn Down the House
+3 Tainted Indulgence
+3 Maestros Charm
+3 Xander's Lounge
+3 Burn Down the House
+4 Ziatora's Proving Ground
+4 Xander's Lounge
+4 Tainted Indulgence
+4 Smoldering Egg
 1 Blood on the Snow
 2 Snow-Covered Swamp
 2 Blood on the Snow
@@ -184,15 +184,15 @@
 1 Lolth, Spider Queen
 1 Sulfurous Mire
 1 Kazuul's Fury
-2 Shatterskull Smashing
 2 Immersturm Predator
 2 Kazuul's Fury
 2 Kalain, Reclusive Painter
+2 Shatterskull Smashing
 2 Lolth, Spider Queen
 2 Hive of the Eye Tyrant
 2 Sulfurous Mire
-3 Immersturm Predator
 3 Blood on the Snow
+3 Immersturm Predator
 3 Kalain, Reclusive Painter
 3 Snow-Covered Mountain
 3 Skullport Merchant
@@ -216,8 +216,8 @@
 3 Eaten Alive
 3 Saw It Coming
 3 Swamp
-4 Prosperous Innkeeper
 4 Island
+4 Prosperous Innkeeper
 4 Saw It Coming
 4 Eaten Alive
 4 Swamp
@@ -227,10 +227,10 @@
 8 Swamp
 9 Swamp
 10 Swamp
-1 Divide by Zero
 1 Hagra Mauling
 1 Snow-Covered Plains
 1 Snow-Covered Island
+1 Divide by Zero
 1 Path of Peril
 1 Demonic Bargain
 1 Otherworldly Gaze
