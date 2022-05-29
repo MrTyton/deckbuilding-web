@@ -1,0 +1,64 @@
+# Bant Humans
+
+#### [Export MTGO List](../collection/Bant%20Humans/Bant%20Humans.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Adeline,%20Resplendent%20Cathar%0A2%09Botanical%20Sanctum%0A4%09Branchloft%20Pathway%0A4%09Brutal%20Cathar%0A4%09Collected%20Company%0A4%09Dauntless%20Bodyguard%0A1%09Eiganjo,%20Seat%20of%20the%20Empire%0A4%09Experiment%20One%0A2%09Hengegate%20Pathway%0A4%09Luminarch%20Aspirant%0A2%09Overgrown%20Farmland%0A2%09Reflector%20Mage%0A4%09Secluded%20Courtyard%0A4%09Temple%20Garden%0A4%09Thalia's%20Lieutenant%0A3%09Thalia,%20Guardian%20of%20Thraben%0A2%09Thalia,%20Heretic%20Cathar%0A4%09Unclaimed%20Territory%0A4%09Werewolf%20Pack%20Leader&deckside=2%09Giant%20Killer%0A3%09Lavinia,%20Azorius%20Renegade%0A3%09Realmwalker%0A2%09Reflector%20Mage%0A2%09Reidane,%20God%20of%20the%20Worthy%0A1%09Thalia,%20Guardian%20of%20Thraben%0A2%09Tomik,%20Distinguished%20Advokist)
+# Maindeck
+
+|                                             Creature (29)                                              |                                         Instant (4)                                          |                                               Land (21)                                                |    Unknown (6)    |
+|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------|
+|2 [Adeline, Resplendent Cathar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534751)|4 [Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)|2 [Botanical Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417817)          |4 Brutal Cathar    |
+|4 [Dauntless Bodyguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442902)        |                                                                                              |4 [Branchloft Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491909)         |2 Hengegate Pathway|
+|4 [Experiment One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405219)             |                                                                                              |1 [Eiganjo, Seat of the Empire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548581)|                   |
+|4 [Luminarch Aspirant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491647)         |                                                                                              |2 [Overgrown Farmland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535064)         |                   |
+|2 [Reflector Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407667)             |                                                                                              |4 [Secluded Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548588)         |                   |
+|4 [Thalia's Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409783)        |                                                                                              |4 [Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)              |                   |
+|3 [Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|                                                                                              |4 [Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)        |                   |
+|2 [Thalia, Heretic Cathar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414338)     |                                                                                              |                                                                                                        |                   |
+|4 [Werewolf Pack Leader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527498)       |                                                                                              |                                                                                                        |                   |
+
+
+# Sideboard
+
+|                                              Creature (13)                                               |        Unknown (2)         |
+|----------------------------------------------------------------------------------------------------------|----------------------------|
+|2 [Giant Killer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472976)                 |2 Reidane, God of the Worthy|
+|3 [Lavinia, Azorius Renegade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457333)    |                            |
+|3 [Realmwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503804)                  |                            |
+|2 [Reflector Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407667)               |                            |
+|1 [Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)  |                            |
+|2 [Tomik, Distinguished Advokist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460961)|                            |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Katilda, Dawnhart Prime](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535024)|                    1|[Scheming Fence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555420)   |
+|                    1|[Spara's Headquarters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555458)   |                    1|[Cathar Commando](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534764)  |
+|                    1|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)      |                    1|[Portable Hole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527320)    |
+|                    1|[Charming Prince](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472970)        |                    1|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)|
+|                    1|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                 |                    1|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)|
+|                    1|[Extraction Specialist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555213)  |                    1|Brutal Cathar                                                                               |
+|                    1|[Thraben Inspector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409784)      |                    2|[Cathar Commando](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534764)  |
+|                    1|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)           |                    2|Brutal Cathar                                                                               |
+|                    1|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)       |                    2|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)|
+|                    1|Barkchannel Pathway                                                                               |                    2|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)|
+|                    2|[Katilda, Dawnhart Prime](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535024)|                    2|[Scheming Fence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555420)   |
+|                    2|[Spara's Headquarters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555458)   |                    2|[Portable Hole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527320)    |
+|                    2|[Charming Prince](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472970)        |                    3|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)|
+|                    2|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)      |                    3|[Scheming Fence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555420)   |
+|                    2|[Extraction Specialist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555213)  |                     |                                                                                            |
+|                    2|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)       |                     |                                                                                            |
+|                    2|[Thraben Inspector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409784)      |                     |                                                                                            |
+|                    2|Barkchannel Pathway                                                                               |                     |                                                                                            |
+|                    3|Barkchannel Pathway                                                                               |                     |                                                                                            |
+|                    3|[Extraction Specialist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555213)  |                     |                                                                                            |
+|                    3|[Charming Prince](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472970)        |                     |                                                                                            |
+|                    3|[Reflector Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407667)         |                     |                                                                                            |
+|                    3|[Thraben Inspector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409784)      |                     |                                                                                            |
+|                    3|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)      |                     |                                                                                            |
+|                    3|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)       |                     |                                                                                            |
+|                    4|[Reflector Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407667)         |                     |                                                                                            |
+|                    4|[Extraction Specialist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555213)  |                     |                                                                                            |
+|                    4|[Thraben Inspector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409784)      |                     |                                                                                            |
+
