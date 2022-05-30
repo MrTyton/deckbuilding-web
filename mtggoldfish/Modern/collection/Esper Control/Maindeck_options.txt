@@ -1,56 +1,54 @@
 1 Kaya's Guile
-1 Dress Down
 2 Memory Deluge
 1 Glacial Fortress
-4 Snapcaster Mage
-3 March of Otherworldly Light
 2 Castle Vantress
-1 Fatal Push
-1 Drowned Catacomb
+1 Dress Down
+3 March of Otherworldly Light
+1 Shark Typhoon
+4 Snapcaster Mage
 4 Teferi, Time Raveler
 2 Misty Rainforest
+4 Island
 1 Drown in the Loch
 1 Esper Charm
 2 Kaya's Guile
+3 Hallowed Fountain
+1 Fatal Push
 3 Opt
 2 Dress Down
-1 Shark Typhoon
+1 Drowned Catacomb
 2 Drown in the Loch
-4 Island
+2 Glacial Fortress
 2 Esper Charm
 1 Godless Shrine
-3 Hallowed Fountain
-2 Fatal Push
 2 The Wandering Emperor
-2 Glacial Fortress
 1 Marsh Flats
 2 Void Rend
 1 Chalice of the Void
 2 Chalice of the Void
-1 Raugrin Triome
 2 Celestial Colonnade
 2 Jace, the Mind Sculptor
 3 Drown in the Loch
 3 Watery Grave
-2 Drowned Catacomb
+2 Fatal Push
 4 Opt
 2 Marsh Flats
-1 Fact or Fiction
+2 Hall of Storm Giants
 4 Hallowed Fountain
+1 Fact or Fiction
 1 Takenuma, Abandoned Mire
 2 Takenuma, Abandoned Mire
-1 Kaya, Orzhov Usurper
 1 Raven's Crime
 1 Zagoth Triome
 1 Omen of the Sea
-2 Hall of Storm Giants
 2 Omen of the Sea
 2 Otawara, Soaring City
 2 Fact or Fiction
 4 Watery Grave
-3 Drowned Catacomb
+1 Kaya, Orzhov Usurper
+1 Raugrin Triome
 4 Solitude
-3 Fatal Push
+2 Drowned Catacomb
 1 Consider
 2 Consider
 3 Esper Charm
@@ -60,12 +58,13 @@
 2 Tainted Indulgence
 3 Kaya's Guile
 1 Dovin's Veto
+3 Drowned Catacomb
 3 Consider
-4 Fatal Push
+3 Fatal Push
+2 Shark Typhoon
 1 Cling to Dust
 1 Creeping Tar Pit
 1 Sunken Ruins
-2 Shark Typhoon
 1 Damn
 3 Omen of the Sea
 3 Marsh Flats
@@ -90,6 +89,7 @@
 3 Archon of Cruelty
 3 Persist
 4 Persist
+1 Subtlety
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
@@ -110,6 +110,7 @@
 4 Unmarked Grave
 3 Mystic Gate
 1 Obscura Charm
+4 Fatal Push
 1 Steam Vents
 3 Tainted Indulgence
 4 Tainted Indulgence
@@ -117,6 +118,9 @@
 2 Damn
 3 Damn
 4 Drown in the Loch
+3 Glacial Fortress
+1 Cryptic Command
+2 Cryptic Command
 2 Swamp
 1 Ledger Shredder
 2 Ledger Shredder
@@ -124,16 +128,15 @@
 1 Unearth
 1 Murktide Regent
 1 Monastery Mentor
+2 Murktide Regent
 2 Monastery Mentor
 2 Unearth
-2 Murktide Regent
 3 Unearth
 4 Unearth
 1 Narset, Parter of Veils
 1 Force of Negation
 1 Darkslick Shores
 1 Blast Zone
-1 Subtlety
 3 Dress Down
 4 Inquisition of Kozilek
 1 Silent Clearing
@@ -148,8 +151,8 @@
 1 Seachrome Coast
 1 Murderous Cut
 2 Force of Negation
-2 Seachrome Coast
 2 Darkslick Shores
+2 Seachrome Coast
 3 Monastery Mentor
 4 Monastery Mentor
 1 Hullbreaker Horror
@@ -170,6 +173,8 @@
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
+2 Subtlety
+3 Supreme Verdict
 1 Kaito Shizuki
 2 Sunken Ruins
 3 Murktide Regent
@@ -185,31 +190,26 @@
 3 Obscura Charm
 3 Spell Queller
 4 Spell Queller
-1 Spell Snare
-4 Drowned Catacomb
 1 Path to Exile
 1 Vendilion Clique
-1 Cryptic Command
 2 Path to Exile
-2 Cryptic Command
 3 Path to Exile
-3 Jace, the Mind Sculptor
 3 Cryptic Command
+3 Jace, the Mind Sculptor
 4 Path to Exile
 4 Cryptic Command
 2 Creeping Tar Pit
 4 Esper Charm
 1 Spell Pierce
 2 Spell Pierce
-3 Glacial Fortress
 4 Archon of Cruelty
 1 Bloodchief's Thirst
 1 Search for Azcanta
 1 Tezzeret's Gambit
 1 Spara's Headquarters
 1 Narset Transcendent
-2 Bloodchief's Thirst
 2 Narset, Parter of Veils
+2 Bloodchief's Thirst
 2 Tezzeret's Gambit
 2 Narset Transcendent
 3 Tezzeret's Gambit

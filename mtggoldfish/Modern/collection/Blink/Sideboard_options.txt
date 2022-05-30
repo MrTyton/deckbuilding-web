@@ -1,13 +1,13 @@
-1 Supreme Verdict
+1 Chalice of the Void
 2 Chalice of the Void
-2 Force of Vigor
-1 Flusterstorm
-1 Mystical Dispute
-1 Alpine Moon
-2 Mystical Dispute
+1 Relic of Progenitus
 1 Knight of Autumn
-2 Relic of Progenitus
+1 Mystical Dispute
+1 Flusterstorm
+2 Mystical Dispute
 2 Supreme Verdict
+2 Relic of Progenitus
+1 Alpine Moon
 1 Meddling Mage
 2 Flusterstorm
 3 Chalice of the Void
@@ -18,6 +18,8 @@
 1 Sanctifier en-Vec
 1 Kataki, War's Wage
 2 Sanctifier en-Vec
+1 Force of Negation
+2 Force of Negation
 3 Mystical Dispute
 2 Kataki, War's Wage
 3 Rest in Peace
@@ -26,12 +28,11 @@
 1 Counterspell
 2 Counterspell
 3 Flusterstorm
-1 Kor Firewalker
 1 Dovin's Veto
-1 Force of Negation
-2 Force of Negation
+1 Kor Firewalker
 1 Aether Gust
 2 Aether Gust
+1 Collector Ouphe
 3 Counterspell
 1 Drannith Magistrate
 1 Fracture
@@ -39,26 +40,20 @@
 2 Fracture
 2 Drannith Magistrate
 4 Veil of Summer
+3 Engineered Explosives
 1 Sanctum Prelate
+1 Containment Priest
 1 Voice of Resurgence
 1 Fracturing Gust
 1 Chandra, Awakened Inferno
 1 Solar Blaze
-1 Giant Killer
-1 Sundering Titan
-1 Pithing Needle
-1 Liquimetal Coating
-1 Elixir of Immortality
-1 Portable Hole
-1 Walking Ballista
-1 Ensnaring Bridge
 1 Tourach, Dread Cantor
 1 Sword of War and Peace
 1 Stony Silence
 2 Tourach, Dread Cantor
+2 Knight of Autumn
 1 Blossoming Calm
 2 Blossoming Calm
-2 Knight of Autumn
 1 Mulldrifter
 1 Qasali Pridemage
 1 Dragonlord Dromoka
@@ -73,8 +68,8 @@
 1 Summary Dismissal
 2 Emrakul, the Promised End
 2 Summary Dismissal
-1 Necromentia
 1 Fulminator Mage
+1 Necromentia
 1 Phyrexian Crusader
 2 Phyrexian Crusader
 1 Dress Down
@@ -89,6 +84,8 @@
 2 Cathar Commando
 2 Magus of the Moon
 3 Sanctifier en-Vec
+3 Aether Gust
+3 Endurance
 1 Wear/Tear
 1 Shatterstorm
 1 Lightning Helix
@@ -97,12 +94,8 @@
 2 Wear/Tear
 2 Lightning Helix
 2 Memory Deluge
-3 Engineered Explosives
 3 Dovin's Veto
-3 Aether Gust
-3 Endurance
 4 Counterspell
-1 Collector Ouphe
 1 Unmoored Ego
 1 Obsidian Charmaw
 2 Unmoored Ego

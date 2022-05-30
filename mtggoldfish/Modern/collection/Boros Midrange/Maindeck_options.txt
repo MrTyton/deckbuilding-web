@@ -1,18 +1,16 @@
 3 Magus of the Moon
-4 Magus of the Moon
+1 The Wandering Emperor
 3 Fury
 1 Windswept Heath
 1 Ephemerate
 2 Ephemerate
 3 Ephemerate
-2 Giver of Runes
-1 Marsh Flats
-1 The Wandering Emperor
-4 Sacred Foundry
-4 Ephemerate
 2 Windswept Heath
+4 Ephemerate
+4 Sacred Foundry
 1 Flooded Strand
 4 Fury
+1 Marsh Flats
 1 Showdown of the Skalds
 2 Showdown of the Skalds
 3 Showdown of the Skalds
@@ -31,19 +29,21 @@
 2 Ghost Quarter
 3 Brought Back
 4 Brought Back
-1 Prismatic Ending
-2 Prismatic Ending
-2 Marsh Flats
-3 Giver of Runes
-4 Giver of Runes
-1 Snow-Covered Mountain
+2 Giver of Runes
+4 Magus of the Moon
 1 Snow-Covered Plains
 2 Snow-Covered Plains
-3 Windswept Heath
-3 Blood Moon
-4 Blood Moon
+3 Giver of Runes
+4 Giver of Runes
 3 Snow-Covered Plains
 4 Snow-Covered Plains
+1 Snow-Covered Mountain
+1 Prismatic Ending
+2 Prismatic Ending
+3 Windswept Heath
+2 Marsh Flats
+3 Blood Moon
+4 Blood Moon
 1 Lightning Bolt
 3 Sword of Fire and Ice
 1 Seasoned Pyromancer
@@ -56,12 +56,13 @@
 5 Plains
 1 Lion Sash
 1 Shadowspear
-3 Marsh Flats
+3 March of Otherworldly Light
 3 Lightning Bolt
 4 Seasoned Pyromancer
 2 The Wandering Emperor
+3 Marsh Flats
 4 Marsh Flats
-3 March of Otherworldly Light
+4 March of Otherworldly Light
 3 Cleansing Wildfire
 4 Cleansing Wildfire
 4 Prismatic Ending
@@ -70,7 +71,6 @@
 2 Thraben Inspector
 3 Thraben Inspector
 4 Showdown of the Skalds
-1 Needleverge Pathway
 1 Obsidian Charmaw
 2 Mountain
 2 Obsidian Charmaw
@@ -84,7 +84,7 @@
 2 Flooded Strand
 3 Urza's Saga
 4 Urza's Saga
-4 March of Otherworldly Light
+1 Touch the Spirit Realm
 2 Eiganjo, Seat of the Empire
 5 Snow-Covered Plains
 6 Snow-Covered Plains
@@ -116,14 +116,13 @@
 4 Aether Vial
 1 Spikefield Hazard
 1 Chalice of the Void
-1 Touch the Spirit Realm
 1 Cavern of Souls
 1 Suppression Field
 1 Rest in Peace
 1 Bonecrusher Giant
 2 Sokenzan, Crucible of Defiance
-2 Spikefield Hazard
 2 Touch the Spirit Realm
+2 Spikefield Hazard
 2 Snow-Covered Mountain
 2 Chalice of the Void
 2 Rest in Peace
@@ -143,6 +142,7 @@
 4 Suppression Field
 4 Bonecrusher Giant
 4 Touch the Spirit Realm
+1 Needleverge Pathway
 1 Battlefield Forge
 1 Avalanche Riders
 1 Blood Sun
@@ -164,11 +164,11 @@
 4 Lotus Field
 4 Battlefield Forge
 4 Avalanche Riders
-4 Obsidian Charmaw
 4 Rugged Prairie
+4 Obsidian Charmaw
 4 Blood Sun
-1 Maul of the Skyclaves
 1 Boros Charm
+1 Maul of the Skyclaves
 1 Lightning Helix
 1 Rabbit Battery
 1 Relic of Progenitus

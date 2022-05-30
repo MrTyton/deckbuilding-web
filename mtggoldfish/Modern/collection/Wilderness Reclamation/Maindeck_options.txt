@@ -1,17 +1,17 @@
-1 Snow-Covered Island
-2 Snow-Covered Island
+1 Flooded Strand
 3 Snow-Covered Island
+1 Cryptic Command
 3 Hinterland Harbor
 4 Ketria Triome
 1 Wooded Foothills
 4 Island
-1 Hallowed Fountain
 1 Snow-Covered Forest
+1 Hallowed Fountain
 2 Flooded Strand
 1 Snapcaster Mage
+1 Expansion/Explosion
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
-1 Expansion/Explosion
 1 Forest
 4 Snow-Covered Island
 2 Breeding Pool
@@ -19,24 +19,28 @@
 3 Flooded Strand
 2 Cryptic Command
 1 Reflecting Pool
-1 Temple Garden
 1 Prismatic Ending
 2 Prismatic Ending
 4 Flooded Strand
 3 Teferi, Time Raveler
 1 Solitude
 2 Solitude
+1 Temple Garden
 2 Hallowed Fountain
-1 Plains
-1 Glacial Fortress
 3 Solitude
 4 Solitude
+1 Plains
 3 Prismatic Ending
+1 Spara's Headquarters
+1 Glacial Fortress
 2 Reflecting Pool
-4 Prismatic Ending
 1 Windswept Heath
 1 Raugrin Triome
-1 Spara's Headquarters
+4 Prismatic Ending
+1 Abundant Growth
+2 Abundant Growth
+3 Abundant Growth
+4 Abundant Growth
 1 Teferi, Hero of Dominaria
 2 Temple Garden
 1 Search for Azcanta
@@ -53,42 +57,38 @@
 3 Prismatic Vista
 3 Breeding Pool
 1 Supreme Verdict
-1 Abundant Growth
-2 Abundant Growth
-3 Abundant Growth
-4 Abundant Growth
 1 Verdant Catacombs
 1 Drowned Catacomb
+1 Valki, God of Lies
+1 Bring to Light
+1 Bloodbraid Elf
 1 Bloodstained Mire
 1 Swamp
 1 Blood Crypt
-1 Valki, God of Lies
 1 Utopia Sprawl
-1 Bring to Light
 1 Fact or Fiction
-1 Bloodbraid Elf
 1 Arid Mesa
 1 Overgrown Tomb
-1 Deflecting Palm
 1 Noble Hierarch
-1 Murktide Regent
 1 Ragavan, Nimble Pilferer
+1 Xander's Lounge
+1 Deflecting Palm
+1 Murktide Regent
 1 Time Warp
 1 Clifftop Retreat
-1 Flamekin Harbinger
 1 Neoform
 1 Kiki-Jiki, Mirror Breaker
 1 Birds of Paradise
 1 Goldspan Dragon
-1 Ledger Shredder
-1 Sunpetal Grove
 1 Emrakul, the Aeons Torn
+1 Flamekin Harbinger
+1 Sunpetal Grove
 1 Sacred Foundry
 1 Dragonskull Summit
 1 Abundant Harvest
 1 Expressive Iteration
 1 Deceiver Exarch
-1 Xander's Lounge
+1 Ledger Shredder
 1 Indatha Triome
 1 The World Tree
 1 Settle the Wreckage
@@ -176,9 +176,9 @@
 1 Felidar Sovereign
 1 Rootbound Crag
 2 Windswept Heath
+2 Bring to Light
 2 Fury
 2 Utopia Sprawl
-2 Bring to Light
 2 Raugrin Triome
 2 Arid Mesa
 2 Noble Hierarch
@@ -203,8 +203,8 @@
 2 Hedron Alignment
 2 Eladamri's Call
 2 Massive Raid
-3 Utopia Sprawl
 3 Bring to Light
+3 Utopia Sprawl
 3 Explore
 3 Fury
 3 Temple Garden
@@ -228,8 +228,8 @@
 3 Wooded Foothills
 3 Battle of Wits
 4 Arid Mesa
-4 Utopia Sprawl
 4 Bring to Light
+4 Utopia Sprawl
 4 Explore
 4 Temple Garden
 4 Noble Hierarch
@@ -263,6 +263,7 @@
 4 Ice-Fang Coatl
 3 Cryptic Command
 1 Flooded Grove
+1 Snow-Covered Plains
 1 Celestial Colonnade
 1 The Wandering Emperor
 1 Dead/Gone
@@ -270,11 +271,8 @@
 2 Dead/Gone
 3 Dead/Gone
 2 Boseiju, Who Endures
-2 Nexus of Fate
-2 Glacial Fortress
 3 March of Otherworldly Light
 4 March of Otherworldly Light
-1 Snow-Covered Plains
 1 Glacial Floodplain
 2 Snow-Covered Forest
 2 Teferi, Hero of Dominaria
@@ -302,7 +300,6 @@
 1 Nightpack Ambusher
 1 Consume the Meek
 2 Jace, the Mind Sculptor
-2 Hall of Storm Giants
 1 Brokers Charm
 1 Lithoform Engine
 1 Dovin's Veto
@@ -311,20 +308,23 @@
 2 Snow-Covered Plains
 2 Lithoform Engine
 2 Zirda, the Dawnwaker
+1 Mystic Gate
+2 Mystic Gate
 1 Opt
 2 Opt
 1 Mikokoro, Center of the Sea
 1 Sea Gate Restoration
 1 Field of Ruin
 2 Field of Ruin
+2 Nexus of Fate
 3 Nexus of Fate
 1 Halimar Depths
 1 Rimewood Falls
 1 Spell Snare
 1 Repeal
 1 Simic Growth Chamber
-2 Blast Zone
 2 Flooded Grove
+2 Blast Zone
 2 Halimar Depths
 2 Spell Snare
 2 Search for Azcanta
@@ -345,13 +345,14 @@
 1 Chalice of the Void
 2 The Wandering Emperor
 2 Chalice of the Void
+2 Glacial Fortress
 3 The Wandering Emperor
 3 Chalice of the Void
 4 The Wandering Emperor
 1 Remand
 1 Mystical Teachings
-2 Remand
 2 Mystical Teachings
+2 Remand
 3 Remand
 3 Mystical Teachings
 4 Remand

@@ -1,31 +1,30 @@
-1 Snow-Covered Mountain
-1 Spreading Seas
-2 Spreading Seas
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
+1 Snow-Covered Mountain
 1 Otawara, Soaring City
-2 Eternal Witness
-3 Wooded Foothills
+1 Spreading Seas
+2 Spreading Seas
 4 Ragavan, Nimble Pilferer
-2 Unholy Heat
+2 Eternal Witness
 2 Fury
-2 Endurance
-2 Snow-Covered Forest
+3 Wooded Foothills
+3 Lightning Bolt
+2 Unholy Heat
 1 Memory Deluge
 1 Deputy of Detention
-3 Lightning Bolt
-3 Spreading Seas
 3 Ephemerate
-3 Unholy Heat
+2 Snow-Covered Forest
+2 Endurance
 1 Dress Down
 2 Dress Down
+3 Spreading Seas
 3 Eladamri's Call
 2 Snow-Covered Plains
 3 Fury
 3 Scalding Tarn
 1 Emrakul, the Promised End
-4 Spreading Seas
+3 Unholy Heat
 1 Glacial Floodplain
 1 Knight of Autumn
 1 Obsidian Charmaw
@@ -45,8 +44,8 @@
 3 Force of Negation
 1 Polluted Delta
 1 Batterskull
-1 Stoneforge Mystic
 1 Kaldra Compleat
+1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
@@ -54,28 +53,21 @@
 1 Arid Mesa
 1 The Wandering Emperor
 3 March of Otherworldly Light
+4 Spreading Seas
+2 Memory Deluge
 1 Jetmir's Garden
 1 Time Warp
-1 Prairie Stream
-1 Utopia Sprawl
-2 Utopia Sprawl
-3 Utopia Sprawl
-1 Verdant Catacombs
 1 Spell Queller
 1 Brokers Charm
 1 Sword of Feast and Famine
-2 Spell Queller
 2 Brokers Charm
-1 Prismatic Vista
-2 Prismatic Vista
-2 Breeding Pool
+2 Spell Queller
 1 Skyclave Apparition
 1 Soulherder
 2 Skyclave Apparition
 2 Soulherder
 3 Skyclave Apparition
 3 Soulherder
-1 Mystic Gate
 1 Godless Shrine
 1 Charming Prince
 2 Charming Prince
@@ -85,13 +77,13 @@
 2 Plains
 1 Malakir Rebirth
 1 Urborg, Tomb of Yawgmoth
-1 Spirited Companion
 1 Touch the Spirit Realm
 1 Silent Clearing
+1 Spirited Companion
 1 Agadeem's Awakening
+1 Sword of Fire and Ice
 1 Lion Sash
 1 Maul of the Skyclaves
-1 Sword of Fire and Ice
 1 Shriekmaw
 1 Swamp
 1 Grief
@@ -99,9 +91,9 @@
 1 Emeria's Call
 2 Agadeem's Awakening
 2 Malakir Rebirth
-2 Spirited Companion
 2 Silent Clearing
 2 Touch the Spirit Realm
+2 Spirited Companion
 2 Persist
 2 Grief
 2 Godless Shrine
@@ -117,16 +109,16 @@
 4 Malakir Rebirth
 4 Godless Shrine
 4 Grief
-4 Scalding Tarn
 1 Kiki-Jiki, Mirror Breaker
-1 Archmage's Charm
+4 Scalding Tarn
 1 Chalice of the Void
+1 Archmage's Charm
 2 Chalice of the Void
 2 Archmage's Charm
 3 Archmage's Charm
 4 Archmage's Charm
-2 Horizon Canopy
 1 Overgrown Tomb
+1 Verdant Catacombs
 1 Bring to Light
 1 Valki, God of Lies
 1 Snow-Covered Swamp
@@ -141,6 +133,7 @@
 4 Bring to Light
 4 Sylvan Caryatid
 1 Wandering Mind
+2 Horizon Canopy
 3 Dress Down
 1 Brought Back
 1 Engineered Explosives
@@ -150,56 +143,42 @@
 3 Brought Back
 4 Arid Mesa
 4 Brought Back
+1 Prairie Stream
 1 Traverse the Ulvenwald
 1 Mishra's Bauble
+1 Utopia Sprawl
 2 Traverse the Ulvenwald
 2 Mishra's Bauble
+2 Utopia Sprawl
 3 Traverse the Ulvenwald
 3 Mishra's Bauble
+3 Utopia Sprawl
 4 Wooded Foothills
 4 Unholy Heat
 4 Traverse the Ulvenwald
 4 Mishra's Bauble
-1 Thraben Inspector
-1 Arbor Elf
-1 Flooded Grove
-1 Karn, the Great Creator
-1 Ranger-Captain of Eos
-1 Walking Ballista
-1 Burrenton Forge-Tender
-1 Oath of Nissa
-2 Arbor Elf
-2 Karn, the Great Creator
-2 Ranger-Captain of Eos
-2 Oath of Nissa
-3 Arbor Elf
-3 Prismatic Vista
-3 Karn, the Great Creator
-3 Ranger-Captain of Eos
-3 Endurance
-4 Arbor Elf
-4 Ranger-Captain of Eos
-4 Prismatic Vista
-4 Karn, the Great Creator
-4 Utopia Sprawl
 1 Karmic Guide
 1 Vivien on the Hunt
+1 Prismatic Vista
 1 Waterlogged Grove
 1 Felidar Guardian
 2 Vivien on the Hunt
+2 Breeding Pool
+2 Prismatic Vista
 2 Temple Garden
 3 Vivien on the Hunt
 4 Vivien on the Hunt
 4 Skyclave Apparition
 4 Soulherder
-1 Supreme Verdict
+4 Lightning Bolt
+1 Mystic Gate
 1 Castle Vantress
 1 Teferi, Hero of Dominaria
+1 Supreme Verdict
 1 Hall of Storm Giants
 2 Hall of Storm Giants
-2 Supreme Verdict
 2 The Wandering Emperor
-2 Memory Deluge
+2 Supreme Verdict
 2 Teferi, Hero of Dominaria
 2 Polluted Delta
 3 Memory Deluge
@@ -224,8 +203,8 @@
 3 Spirited Companion
 3 Emeria's Call
 1 Glacial Fortress
-1 Fire/Ice
 1 Reflecting Pool
+1 Fire/Ice
 1 Cleansing Wildfire
 1 Cascade Bluffs
 1 Restoration Angel
@@ -279,8 +258,8 @@
 2 Thalia, Guardian of Thraben
 2 Champion of the Parish
 2 Pyre of Heroes
-3 Adeline, Resplendent Cathar
 3 Cavern of Souls
+3 Adeline, Resplendent Cathar
 3 Horizon Canopy
 3 Unclaimed Territory
 3 Meddling Mage
