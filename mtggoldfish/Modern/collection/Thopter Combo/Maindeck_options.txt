@@ -86,10 +86,10 @@
 4 Unholy Heat
 1 Thoughtcast
 2 Thoughtcast
-3 Razortide Bridge
 3 Thoughtcast
-4 Razortide Bridge
+3 Razortide Bridge
 4 Darksteel Citadel
+4 Razortide Bridge
 2 Sacred Foundry
 1 Engineered Explosives
 1 Batterskull
@@ -118,12 +118,6 @@
 2 Unlicensed Hearse
 1 Lantern of the Lost
 1 Spell Pierce
-1 Patchwork Automaton
-1 Oswald Fiddlebender
-2 Patchwork Automaton
-2 Oswald Fiddlebender
-3 Patchwork Automaton
-4 Patchwork Automaton
 1 Ichor Wellspring
 4 Emry, Lurker of the Loch
 1 Inspiring Vantage
@@ -138,6 +132,12 @@
 2 Batterskull
 3 Chromatic Star
 4 Chromatic Star
+1 Patchwork Automaton
+1 Oswald Fiddlebender
+2 Patchwork Automaton
+2 Oswald Fiddlebender
+3 Patchwork Automaton
+4 Patchwork Automaton
 1 Misty Rainforest
 1 Mystic Forge
 1 Spellskite

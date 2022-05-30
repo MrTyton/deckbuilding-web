@@ -1,23 +1,23 @@
-3 Skyclave Cleric
-2 Agadeem's Awakening
+3 Skyclave Apparition
 4 Pyre of Heroes
-2 Elite Spellbinder
+3 Skyclave Cleric
 1 Angel of Destiny
 2 Shineshadow Snarl
+2 Agadeem's Awakening
 5 Swamp
 1 Dawnbringer Cleric
 1 Cleric Class
 8 Plains
 3 Elite Spellbinder
 2 Cleric Class
+3 Vanishing Verse
+2 Cave of the Frost Dragon
 1 Brutal Cathar
 1 Valkyrie Harbinger
 9 Plains
 6 Swamp
 1 Nullpriest of Oblivion
 2 Nullpriest of Oblivion
-2 Cave of the Frost Dragon
-3 Vanishing Verse
 4 Elite Spellbinder
 1 Markov Purifier
 2 Markov Purifier
@@ -26,9 +26,10 @@
 1 Drana, the Last Bloodchief
 7 Swamp
 3 Shineshadow Snarl
-10 Plains
-2 The Meathook Massacre
 1 Sorin the Mirthless
+1 Emeria's Call
+2 The Meathook Massacre
+10 Plains
 1 Fateful Absence
 1 Traveling Minister
 2 Traveling Minister
@@ -43,9 +44,6 @@
 1 Kaya the Inexorable
 2 Valkyrie Harbinger
 2 Doomskar
-1 Emeria's Call
-4 Skyclave Apparition
-3 Hive of the Eye Tyrant
 4 Vanishing Verse
 1 Silverquill Command
 1 Great Hall of Starnheim
@@ -70,11 +68,15 @@
 1 Bloodchief's Thirst
 1 Cosmos Elixir
 3 Doomskar
+1 Lolth, Spider Queen
 9 Swamp
+1 Eiganjo, Seat of the Empire
 6 Snow-Covered Plains
+1 Takenuma, Abandoned Mire
 1 Rampage of the Valkyries
 2 Rampage of the Valkyries
 2 Closing Statement
+1 Professor Onyx
 1 Blood on the Snow
 2 Blood on the Snow
 4 Snow-Covered Swamp
@@ -82,25 +84,32 @@
 6 Snow-Covered Swamp
 1 Faceless Haven
 3 The Meathook Massacre
-1 Professor Onyx
 3 Nullpriest of Oblivion
 4 Nullpriest of Oblivion
+1 Selfless Glyphweaver
 1 Silverquill Campus
+1 Firja, Judge of Valor
 2 Cosmos Elixir
 2 Fracture
 2 Paladin Class
 2 Eradicator Valkyrie
 3 Edgar, Charmed Groom
 3 Silverquill Command
-1 Firja, Judge of Valor
-1 Ollenbock Escort
-2 Ollenbock Escort
-3 Ollenbock Escort
 1 Priest of Ancient Lore
 1 Wedding Announcement
 2 Bloodchief's Thirst
 2 Wedding Announcement
+1 Inspiring Overseer
+2 Inspiring Overseer
 4 Skyclave Cleric
+1 Duress
+1 Crippling Fear
+2 Duress
+2 Emeria's Call
+2 Crippling Fear
+3 Crippling Fear
+2 Fateful Absence
+4 Skyclave Apparition
 1 Professor of Symbology
 2 Professor of Symbology
 3 Professor of Symbology
@@ -108,7 +117,10 @@
 1 Power Word Kill
 1 The Book of Exalted Deeds
 2 Field of Ruin
+3 Hive of the Eye Tyrant
 1 Hagra Mauling
+1 Scoured Barrens
+2 Scoured Barrens
 4 Doomskar
 7 Snow-Covered Plains
 7 Snow-Covered Swamp
@@ -128,20 +140,15 @@
 4 Blood on the Snow
 4 Cleric Class
 4 Bereaved Survivor
-1 Lolth, Spider Queen
-2 Fateful Absence
-1 Scoured Barrens
-2 Scoured Barrens
 1 Youthful Valkyrie
 2 Youthful Valkyrie
 1 Jerren, Corrupted Bishop
-1 Eiganjo, Seat of the Empire
+1 The Wandering Emperor
 1 Killian, Ink Duelist
-1 Takenuma, Abandoned Mire
 2 Silverquill Campus
 1 Silverquill Silencer
-1 Selfless Glyphweaver
 1 Poet's Quill
+1 Vengeful Reaper
 1 Concealing Curtains
 1 Inscription of Ruin
 1 Fierce Retribution
@@ -149,12 +156,10 @@
 1 Giada, Font of Hope
 1 Blood Fountain
 1 Dramatic Finale
-1 Inspiring Overseer
 2 Concealing Curtains
 2 Path of Peril
 2 Fierce Retribution
 2 Starnheim Unleashed
-2 Inspiring Overseer
 2 Firja's Retribution
 2 Blood Fountain
 2 Giada, Font of Hope
@@ -163,7 +168,6 @@
 10 Swamp
 11 Swamp
 12 Swamp
-1 Vengeful Reaper
 1 Savior of Ollenbock
 2 Savior of Ollenbock
 2 Killian, Ink Duelist
@@ -174,7 +178,6 @@
 1 Crawling Barrens
 2 Crawling Barrens
 2 Kaya the Inexorable
-1 Thalia, Guardian of Thraben
 1 Grand Master of Flowers
 1 Liesa, Forgotten Archangel
 1 Legion Angel
@@ -191,6 +194,10 @@
 2 Rite of Oblivion
 2 Marauding Blight-Priest
 2 Malakir Rebirth
+1 Valorous Stance
+2 Eiganjo, Seat of the Empire
+2 Takenuma, Abandoned Mire
+2 Valorous Stance
 1 Intrepid Adversary
 1 Sparring Regimen
 1 Maul of the Skyclaves
@@ -225,26 +232,22 @@
 2 Kor Celebrant
 2 Deadly Dispute
 3 Deadly Dispute
-1 Duress
-1 Crippling Fear
-2 Duress
-2 Emeria's Call
-2 Crippling Fear
-3 Crippling Fear
 3 Markov Purifier
 1 Elspeth Resplendent
 1 Extraction Specialist
 1 Eyetwitch
 1 Glorious Protector
-1 The Wandering Emperor
 1 Raffine's Tower
 1 Angel of Suffering
 1 Sanctuary Warden
-2 Eyetwitch
 2 Silverquill Silencer
+2 Eyetwitch
 2 Great Hall of Starnheim
 3 Silverquill Silencer
 3 Great Hall of Starnheim
+1 Ollenbock Escort
+2 Ollenbock Escort
+3 Ollenbock Escort
 2 Sorin the Mirthless
 3 Cave of the Frost Dragon
 4 Cave of the Frost Dragon

@@ -70,8 +70,8 @@
 |                     |                                                                                              |                    2|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)    |
 |                     |                                                                                              |                    2|[Chrome Mox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413761)           |
 |                     |                                                                                              |                    2|[Serenity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15360)              |
-|                     |                                                                                              |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)       |
 |                     |                                                                                              |                    3|[Boseiju, Who Endures](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548579) |
+|                     |                                                                                              |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)       |
 |                     |                                                                                              |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)       |
 |                     |                                                                                              |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)       |
 
