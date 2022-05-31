@@ -1,8 +1,3 @@
-1 Hallowed Fountain
-1 Esper Sentinel
-2 Portable Hole
-2 Hallowed Fountain
-2 Esper Sentinel
 3 Portable Hole
 3 Esper Sentinel
 1 Seachrome Coast
@@ -11,12 +6,12 @@
 1 Metallic Rebuke
 2 Metallic Rebuke
 3 Metallic Rebuke
-1 Flooded Strand
 4 Esper Sentinel
 1 Urza, Lord High Artificer
 2 Urza, Lord High Artificer
 3 Urza, Lord High Artificer
 3 Hallowed Fountain
+1 Flooded Strand
 4 Portable Hole
 1 Otawara, Soaring City
 1 Ingenious Smith
@@ -26,9 +21,14 @@
 3 Ingenious Smith
 3 Seachrome Coast
 4 Seachrome Coast
+1 Mistvault Bridge
+2 Mistvault Bridge
+4 Ingenious Smith
+2 Myr Enforcer
+3 Treasure Vault
+2 Welding Jar
 3 Mistvault Bridge
 4 Mistvault Bridge
-4 Ingenious Smith
 1 Silverbluff Bridge
 2 Silverbluff Bridge
 2 Relic of Progenitus
@@ -67,6 +67,7 @@
 2 Michiko's Reign of Truth
 2 Blinkmoth Nexus
 2 Aether Spellbomb
+1 Unlicensed Hearse
 2 Tormod's Crypt
 1 Patchwork Automaton
 2 Patchwork Automaton
