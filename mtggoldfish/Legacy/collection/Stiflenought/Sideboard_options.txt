@@ -51,9 +51,6 @@
 1 Dread of Night
 1 Extract
 1 Steal Enchantment
-1 Berserk
-2 Berserk
-2 Fatal Push
 1 Engineered Explosives
 1 Soul-Guide Lantern
 1 Meddling Mage
@@ -71,12 +68,15 @@
 1 Court of Cunning
 2 Court of Cunning
 2 Hydroblast
+1 Bitterblossom
 1 Toxic Deluge
 1 Dauthi Voidwalker
-1 Bitterblossom
 2 Dauthi Voidwalker
 1 Karakas
 2 End the Festivities
+1 Berserk
+2 Fatal Push
+2 Berserk
 1 Ratchet Bomb
 1 Echoing Truth
 1 Force of Negation
@@ -84,13 +84,6 @@
 2 Force of Negation
 1 Hidetsugu Consumes All
 3 Red Elemental Blast
-1 Aether Spellbomb
-1 Spell Pierce
-2 Spell Pierce
-2 Hurkyl's Recall
-2 Null Rod
-3 Spell Pierce
-3 Plague Engineer
 1 Planar Void
 1 Trickbind
 1 Force of Will
@@ -99,3 +92,10 @@
 2 Planar Void
 3 Force of Will
 3 Planar Void
+1 Aether Spellbomb
+1 Spell Pierce
+2 Spell Pierce
+2 Hurkyl's Recall
+2 Null Rod
+3 Plague Engineer
+3 Spell Pierce

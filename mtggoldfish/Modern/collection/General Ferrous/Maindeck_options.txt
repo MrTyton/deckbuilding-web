@@ -50,14 +50,14 @@
 1 Needleverge Pathway
 1 Hero of Precinct One
 1 Path to Exile
-2 Spikefield Hazard
 2 Showdown of the Skalds
+2 Spikefield Hazard
 2 Path to Exile
 2 Needleverge Pathway
 2 Hero of Precinct One
+3 Showdown of the Skalds
 3 Hero of Precinct One
 3 Needleverge Pathway
-3 Showdown of the Skalds
 4 Needleverge Pathway
 4 Hero of Precinct One
 2 Mountain
@@ -169,6 +169,17 @@
 1 Legion's Landing
 2 Legion's Landing
 3 Qasali Ambusher
+1 Eldritch Evolution
+1 Assassin's Trophy
+1 Voice of Resurgence
+1 Ulamog, the Infinite Gyre
+2 Eldritch Evolution
+2 Assassin's Trophy
+2 Voice of Resurgence
+3 Voice of Resurgence
+3 Eldritch Evolution
+3 Scalding Tarn
+4 Scalding Tarn
 1 Ignoble Hierarch
 1 Noble Hierarch
 1 Geist of Saint Traft
@@ -207,24 +218,13 @@
 3 General's Enforcer
 3 Pillar of the Paruns
 3 Terminate
-4 Fleetfoot Dancer
 4 Obscura Charm
+4 Fleetfoot Dancer
 4 General's Enforcer
 4 Pillar of the Paruns
-1 Eldritch Evolution
-1 Assassin's Trophy
-1 Voice of Resurgence
-1 Ulamog, the Infinite Gyre
-2 Eldritch Evolution
-2 Assassin's Trophy
-2 Voice of Resurgence
-3 Eldritch Evolution
-3 Voice of Resurgence
-3 Scalding Tarn
-4 Scalding Tarn
 1 Birgi, God of Storytelling
-1 Targ Nar, Demon-Fang Gnoll
 1 Bard Class
+1 Targ Nar, Demon-Fang Gnoll
 1 Goro-Goro, Disciple of Ryusei
 1 Radha, Heir to Keld
 1 Mox Amber
@@ -239,8 +239,8 @@
 2 Goro-Goro, Disciple of Ryusei
 2 Forest
 2 Birgi, God of Storytelling
-2 Bard Class
 2 Targ Nar, Demon-Fang Gnoll
+2 Bard Class
 2 Radha, Heir to Keld
 2 Oath of Nissa
 2 Reki, the History of Kamigawa
@@ -249,8 +249,8 @@
 2 Mox Amber
 2 Sarkhan Vol
 3 Birgi, God of Storytelling
-3 Bard Class
 3 Targ Nar, Demon-Fang Gnoll
+3 Bard Class
 3 Gallia of the Endless Dance
 3 Radha, Heir to Keld
 3 Oath of Nissa

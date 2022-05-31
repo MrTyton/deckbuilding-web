@@ -1,7 +1,6 @@
-4 Sacred Foundry
-1 Portable Hole
-1 Yasharn, Implacable Earth
 2 Fable of the Mirror-Breaker
+1 Archon of Sun's Grace
+1 Portable Hole
 1 Risen Reef
 1 Cavalier of Dawn
 1 Yarok, the Desecrated
@@ -10,21 +9,22 @@
 3 Risen Reef
 3 Portable Hole
 4 Portable Hole
+1 Elspeth Conquers Death
 1 Shattered Sanctum
-1 Deafening Silence
-1 Shipwreck Marsh
 1 Dreamroot Cascade
+1 Shipwreck Marsh
+1 Deafening Silence
 1 Mountain
-1 Glacial Fortress
 4 Risen Reef
-1 Omen of the Forge
-1 Temple Garden
+1 Glacial Fortress
 1 Tatsunari, Toad Rider
-1 Hengegate Pathway
 2 Barkchannel Pathway
+3 Branchloft Pathway
+1 Temple Garden
+1 Omen of the Forge
+1 Hengegate Pathway
 2 Hengegate Pathway
 3 Barkchannel Pathway
-3 Branchloft Pathway
 3 Hengegate Pathway
 4 Barkchannel Pathway
 4 Hengegate Pathway
@@ -32,16 +32,11 @@
 2 Temple Garden
 3 Temple Garden
 4 Temple Garden
+2 Steam Vents
+1 Breeding Pool
+3 Fable of the Mirror-Breaker
 1 Island
 2 Glacial Fortress
-1 Breeding Pool
-1 Sunpetal Grove
-1 Fabled Passage
-2 Sunpetal Grove
-2 Fabled Passage
-3 Fabled Passage
-3 Fable of the Mirror-Breaker
-2 Steam Vents
 1 Shark Typhoon
 1 Hallowed Fountain
 1 Narset, Parter of Veils
@@ -58,15 +53,15 @@
 1 Otawara, Soaring City
 1 Sokenzan, Crucible of Defiance
 4 Steam Vents
+1 Hall of Storm Giants
 2 Hallowed Fountain
 3 Shark Typhoon
 1 Transmogrify
 1 Eiganjo, Seat of the Empire
-1 Agent of Treachery
-1 March of Otherworldly Light
-1 Hall of Storm Giants
 1 The Raven's Warning
+1 March of Otherworldly Light
 1 Irrigated Farmland
+1 Agent of Treachery
 1 The Birth of Meletis
 2 Transmogrify
 2 Sokenzan, Crucible of Defiance
@@ -76,51 +71,46 @@
 2 Agent of Treachery
 2 Plains
 3 Transmogrify
+3 The Raven's Warning
 3 Glacial Fortress
 3 The Birth of Meletis
 3 March of Otherworldly Light
 3 Plains
-3 The Raven's Warning
 4 Transmogrify
 4 Shark Typhoon
 4 The Raven's Warning
 4 March of Otherworldly Light
 4 The Birth of Meletis
 4 Glacial Fortress
+1 Sunpetal Grove
+1 Fabled Passage
+2 Sunpetal Grove
+2 Fabled Passage
+3 Fabled Passage
+1 Binding the Old Gods
 1 Deafening Clarion
 1 Oath of Kaya
-1 Klothys, God of Destiny
 2 Castle Vantress
-1 Hinterland Harbor
 1 Overgrown Tomb
-1 Binding the Old Gods
+1 Hinterland Harbor
+1 Klothys, God of Destiny
 3 Supreme Verdict
-4 Fabled Passage
-1 Callous Bloodmage
-1 Sulfur Falls
 1 Showdown of the Skalds
 1 Sheltered Thicket
 1 Omnath, Locus of Creation
 4 Overgrown Farmland
-1 Archon of Emeria
-1 Swamp
-1 Path to the World Tree
+1 Jetmir's Garden
+1 Caves of Koilos
+1 Rest in Peace
+1 Callous Bloodmage
+4 Fabled Passage
+1 Sulfur Falls
 1 Anger of the Gods
 2 Anger of the Gods
-1 Blood Crypt
-1 Lithoform Blight
-1 Treacherous Blessing
-1 Temple of Plenty
-1 Rootbound Crag
-2 Oath of Kaya
-2 Overgrown Tomb
-2 Skyclave Apparition
-1 Caves of Koilos
 1 Cemetery Prowler
 1 Plaguecrafter
 2 Brightclimb Pathway
 3 Stomping Ground
-1 Jetmir's Garden
 2 Hinterland Harbor
 3 Hinterland Harbor
 1 Wolfwillow Haven
@@ -129,8 +119,9 @@
 4 Wolfwillow Haven
 1 The Wandering Emperor
 2 The Wandering Emperor
-1 Interplanar Beacon
+1 Archon of Emeria
 1 Fae of Wishes
+1 Interplanar Beacon
 2 Interplanar Beacon
 2 Fae of Wishes
 1 Geier Reach Sanitarium
@@ -140,9 +131,10 @@
 3 Interplanar Beacon
 3 Fae of Wishes
 4 Interplanar Beacon
-1 Rest in Peace
-1 Chandra, Awakened Inferno
 1 Nicol Bolas, Dragon-God
+1 Chandra, Awakened Inferno
+1 Path to the World Tree
+1 Swamp
 1 Expressive Iteration
 1 Nicol Bolas, God-Pharaoh
 2 Expressive Iteration
@@ -150,12 +142,29 @@
 3 Expressive Iteration
 4 Expressive Iteration
 2 Deafening Clarion
+1 Blood Crypt
 1 Drowned Catacomb
 1 Nicol Bolas, the Ravager
 2 Nicol Bolas, the Ravager
 1 Rip Apart
 1 The Meathook Massacre
 2 Breeding Pool
+1 Touch the Spirit Realm
+1 Raffine, Scheming Seer
+1 Reidane, God of the Worthy
+1 Massacre Girl
+1 Oath of Nissa
+1 Sin Collector
+2 Caves of Koilos
+2 Archon of Sun's Grace
+2 Oath of Nissa
+1 Lithoform Blight
+1 Treacherous Blessing
+1 Temple of Plenty
+1 Rootbound Crag
+2 Oath of Kaya
+2 Overgrown Tomb
+2 Skyclave Apparition
 1 Azusa's Many Journeys
 2 Azusa's Many Journeys
 3 Azusa's Many Journeys
@@ -168,8 +177,8 @@
 1 Woodland Cemetery
 1 Isolated Chapel
 1 Charming Prince
-1 Siege Rhino
 1 Courser of Kruphix
+1 Siege Rhino
 2 Zagoth Triome
 2 Savai Triome
 2 Binding the Old Gods
@@ -205,35 +214,35 @@
 4 Hallowed Fountain
 1 Bedevil
 1 Heartless Act
+1 Dragonskull Summit
 1 Grafdigger's Cage
 1 Ritual of Soot
+1 Thoughtseize
 1 Enter the God-Eternals
 1 Search for Azcanta
 1 Liliana, Dreadhorde General
 1 Valki, God of Lies
 1 Riverglide Pathway
 1 Clearwater Pathway
-1 Dragonskull Summit
-1 Thoughtseize
 2 Valki, God of Lies
 2 Chandra, Awakened Inferno
-2 Search for Azcanta
-2 Drowned Catacomb
 2 Heartless Act
+2 Drowned Catacomb
+2 Search for Azcanta
+2 Nicol Bolas, Dragon-God
+2 Dragonskull Summit
+2 Thoughtseize
 2 Riverglide Pathway
 2 Blood Crypt
-2 Nicol Bolas, Dragon-God
-2 Thoughtseize
 2 Ritual of Soot
 2 Watery Grave
 2 Clearwater Pathway
 2 Enter the God-Eternals
 2 Bedevil
-2 Dragonskull Summit
+3 Nicol Bolas, Dragon-God
 3 Clearwater Pathway
 3 Riverglide Pathway
 3 Blood Crypt
-3 Nicol Bolas, Dragon-God
 3 Bedevil
 3 Watery Grave
 4 Blood Crypt

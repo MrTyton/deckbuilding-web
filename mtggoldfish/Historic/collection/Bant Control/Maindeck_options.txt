@@ -13,8 +13,8 @@
 2 Irrigated Farmland
 1 Ketria Triome
 3 Forest
-1 Mountain
 1 Sulfur Falls
+1 Mountain
 4 Censor
 2 Aether Gust
 2 Ketria Triome
@@ -71,13 +71,13 @@
 2 Archmage's Charm
 3 Archmage's Charm
 1 Deserted Beach
-1 Spara's Headquarters
 1 Hall of Storm Giants
+1 Spara's Headquarters
+1 Fragment Reality
 1 Farewell
 1 March of Otherworldly Light
 1 Jwari Disruption
 1 Endless Detour
-1 Fragment Reality
 1 The Wandering Emperor
 2 Spara's Headquarters
 2 Deserted Beach
@@ -141,9 +141,9 @@
 2 Blink of an Eye
 1 Sweltering Suns
 2 Sweltering Suns
-1 Storm's Wrath
 1 Scavenging Ooze
 1 Shock
+1 Storm's Wrath
 1 Questing Beast
 1 Radha, Heart of Keld
 1 Neyith of the Dire Hunt
@@ -151,8 +151,11 @@
 2 Questing Beast
 2 Storm's Wrath
 2 Radha, Heart of Keld
-1 Opt
+1 Teferi's Ageless Insight
+2 Teferi's Ageless Insight
+3 Pact of Negation
 1 Niv-Mizzet, Parun
+1 Opt
 1 Flame Sweep
 2 Niv-Mizzet, Parun
 2 Opt
@@ -161,9 +164,6 @@
 1 Quench
 2 Sinister Sabotage
 3 Sinister Sabotage
-1 Teferi's Ageless Insight
-2 Teferi's Ageless Insight
-3 Pact of Negation
 1 Mirari's Wake
 1 Angel of the Dire Hour
 2 Mirari's Wake
@@ -172,28 +172,28 @@
 4 Shark Typhoon
 4 Abrade
 1 Root Snare
-2 Search for Azcanta
 2 Commit/Memory
+2 Search for Azcanta
 2 Root Snare
-3 Commit/Memory
 3 Search for Azcanta
+3 Commit/Memory
 3 Haze of Pollen
 3 Root Snare
 4 Haze of Pollen
-1 Snow-Covered Forest
-1 Snow-Covered Island
-1 Rimewood Falls
-1 Arctic Treeline
 1 Emeria's Call
+1 Snow-Covered Forest
+1 Rimewood Falls
+1 Snow-Covered Island
+1 Arctic Treeline
 1 Snow-Covered Plains
 1 Into the North
 1 Baffling End
 2 Snow-Covered Forest
+2 Rimewood Falls
 2 Snow-Covered Island
 2 Snow-Covered Plains
 2 Yasharn, Implacable Earth
 2 Baffling End
-2 Rimewood Falls
 2 Into the North
 3 Snow-Covered Forest
 3 Snow-Covered Plains
@@ -212,28 +212,28 @@
 3 Bonecrusher Giant
 4 Bonecrusher Giant
 4 Raugrin Triome
+1 Expansion/Explosion
 1 Syncopate
 1 Scorching Dragonfire
-1 Expansion/Explosion
+2 Expansion/Explosion
 2 Syncopate
 2 Scorching Dragonfire
-2 Expansion/Explosion
-3 Expansion/Explosion
 3 Syncopate
+3 Expansion/Explosion
 4 Expansion/Explosion
-1 Arboreal Grazer
 1 Cultivate
+1 Arboreal Grazer
 1 Cascading Cataracts
 1 Castle Garenbrig
 1 Oracle of Mul Daya
 1 Labyrinth of Skophos
-2 Arboreal Grazer
 2 Cultivate
-2 Castle Garenbrig
+2 Arboreal Grazer
 2 Ugin, the Spirit Dragon
+2 Castle Garenbrig
 2 Oracle of Mul Daya
-3 Arboreal Grazer
 3 Cultivate
+3 Arboreal Grazer
 3 Ugin, the Spirit Dragon
 3 Temple of Mystery
 4 Temple of Mystery
@@ -244,8 +244,8 @@
 8 Forest
 9 Forest
 10 Forest
-1 Rewind
 1 Zagoth Triome
+1 Rewind
 2 Rewind
 3 Rewind
 4 Rewind

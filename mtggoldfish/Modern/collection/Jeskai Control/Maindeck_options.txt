@@ -33,17 +33,17 @@
 2 Spirebluff Canal
 3 Spirebluff Canal
 1 Lotus Field
-1 Blood Sun
 1 Flagstones of Trokair
+1 Blood Sun
 1 Valakut Awakening
+2 Seachrome Coast
 2 Flagstones of Trokair
 2 Lotus Field
 2 Blood Sun
-2 Seachrome Coast
 2 Valakut Awakening
-3 Memory Deluge
 3 Flagstones of Trokair
 3 Blood Sun
+3 Memory Deluge
 3 Lotus Field
 3 Cryptic Command
 3 Valakut Awakening
@@ -59,8 +59,8 @@
 3 Expressive Iteration
 4 Expressive Iteration
 1 Sulfur Falls
-1 Stoneforge Mystic
 1 Kaldra Compleat
+1 Stoneforge Mystic
 1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
@@ -80,8 +80,8 @@
 1 Consider
 2 Consider
 3 Consider
-1 Marsh Flats
 1 Watery Grave
+1 Marsh Flats
 1 Windswept Heath
 2 Windswept Heath
 3 Spreading Seas
@@ -111,15 +111,15 @@
 3 Murktide Regent
 1 Deserted Beach
 1 Keranos, God of Storms
-1 Spell Snare
 1 Search for Azcanta
 1 Path to Exile
+1 Spell Snare
 2 Celestial Colonnade
 2 Force of Negation
 2 Path to Exile
 2 Search for Azcanta
-1 Cascade Bluffs
 1 Chandra, Torch of Defiance
+1 Cascade Bluffs
 1 Emrakul, the Aeons Torn
 1 Nahiri, the Harbinger
 1 Wrath of God
@@ -131,23 +131,23 @@
 1 Relic of Progenitus
 2 Geist of Saint Traft
 3 The Wandering Emperor
-4 Snow-Covered Island
 4 March of Otherworldly Light
+4 Snow-Covered Island
 4 Polluted Delta
-1 Mishra's Bauble
 1 Dragon's Rage Channeler
+1 Mishra's Bauble
 1 Ledger Shredder
-2 Mishra's Bauble
 2 Dragon's Rage Channeler
+2 Mishra's Bauble
 2 Ledger Shredder
-3 Mishra's Bauble
 3 Dragon's Rage Channeler
+3 Mishra's Bauble
 3 Misty Rainforest
 3 Ragavan, Nimble Pilferer
+4 Murktide Regent
 4 Dragon's Rage Channeler
 4 Mishra's Bauble
 4 Ragavan, Nimble Pilferer
-4 Murktide Regent
 1 Oust
 1 Frantic Inventory
 1 Riptide Laboratory
@@ -159,8 +159,8 @@
 3 Oust
 4 Frantic Inventory
 4 Oust
-1 Sword of Fire and Ice
 1 Sword of Feast and Famine
+1 Sword of Fire and Ice
 1 Fervent Champion
 2 Glacial Fortress
 2 Fervent Champion
@@ -169,10 +169,10 @@
 1 Snow-Covered Plains
 2 Hall of Storm Giants
 4 Mystic Gate
-1 Prismari Command
 1 Blood Moon
-1 Thought Scour
 1 Brazen Borrower
+1 Prismari Command
+1 Thought Scour
 2 Blood Moon
 2 Thought Scour
 3 Thought Scour
@@ -181,5 +181,5 @@
 6 Island
 7 Island
 8 Island
-9 Island
 10 Island
+9 Island

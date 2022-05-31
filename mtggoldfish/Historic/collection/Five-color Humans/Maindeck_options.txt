@@ -1,35 +1,40 @@
-7 Plains
+1 Brutal Cathar
+2 Brutal Cathar
 1 Secluded Courtyard
-1 General Kudro of Drannith
-2 General Kudro of Drannith
 2 Secluded Courtyard
-4 Ranger-Captain of Eos
 3 Secluded Courtyard
 4 Secluded Courtyard
-1 Concealed Courtyard
+1 General Kudro of Drannith
+2 General Kudro of Drannith
 1 Unclaimed Territory
 2 Unclaimed Territory
 3 Unclaimed Territory
 4 Unclaimed Territory
+1 Concealed Courtyard
+1 Shefet Dunes
 2 Concealed Courtyard
 4 Adeline, Resplendent Cathar
+1 Elite Spellbinder
+2 Elite Spellbinder
 3 General Kudro of Drannith
-1 General's Enforcer
 1 Godless Shrine
-2 General's Enforcer
+1 General's Enforcer
 2 Godless Shrine
+2 General's Enforcer
 3 Brutal Cathar
-1 Shefet Dunes
 1 Hopeful Initiate
 1 Rahilda, Wanted Cutthroat
 1 Stomping Ground
 2 Rahilda, Wanted Cutthroat
 3 Rahilda, Wanted Cutthroat
+1 Lair of the Hydra
+1 Werewolf Pack Leader
+2 Werewolf Pack Leader
+3 Werewolf Pack Leader
+4 Werewolf Pack Leader
 2 Dauntless Bodyguard
 4 Brutal Cathar
 1 Hallowed Fountain
-1 Elite Spellbinder
-2 Elite Spellbinder
 3 Elite Spellbinder
 2 Thraben Inspector
 3 Concealed Courtyard
@@ -41,13 +46,8 @@
 2 Tajic, Legion's Edge
 3 Overgrown Farmland
 4 Elite Spellbinder
-1 Lair of the Hydra
-1 Werewolf Pack Leader
 1 Overgrown Tomb
-2 Werewolf Pack Leader
 2 Overgrown Tomb
-3 Werewolf Pack Leader
-4 Werewolf Pack Leader
 1 Sunpetal Grove
 2 Sunpetal Grove
 1 Fragment Reality
@@ -57,24 +57,24 @@
 2 Kitesail Freebooter
 3 Brightclimb Pathway
 3 Kitesail Freebooter
-4 Concealed Courtyard
 4 Kitesail Freebooter
+4 Concealed Courtyard
 2 Giant Killer
 2 Hopeful Initiate
 3 Hopeful Initiate
 2 Boseiju, Who Endures
 3 Forsaken Crossroads
 3 Shefet Dunes
+1 Selfless Savior
 1 Graveyard Trespasser
 1 Huatli, Radiant Champion
-1 Selfless Savior
-1 Shattered Sanctum
 1 Sundown Pass
+1 Shattered Sanctum
 2 Shattered Sanctum
 1 Militia Bugler
 2 Militia Bugler
-1 Dromoka's Command
 1 Blooming Marsh
+1 Dromoka's Command
 2 Dromoka's Command
 3 Overgrown Tomb
 1 Hive of the Eye Tyrant
@@ -85,12 +85,12 @@
 3 Fragment Reality
 3 Godless Shrine
 4 Fragment Reality
-4 Brightclimb Pathway
 4 Godless Shrine
+4 Brightclimb Pathway
 4 Hopeful Initiate
+1 Watery Grave
 1 Meddling Mage
 1 Ancient Ziggurat
-1 Watery Grave
 2 Ancient Ziggurat
 2 Meddling Mage
 2 Hallowed Fountain
@@ -101,15 +101,15 @@
 4 Meddling Mage
 4 Ancient Ziggurat
 4 Dauntless Bodyguard
-1 Benalish Marshal
 1 Castle Ardenvale
+1 Benalish Marshal
 1 Metallic Mimic
 2 Benalish Marshal
 2 Metallic Mimic
-3 Benalish Marshal
 3 Sunpetal Grove
 3 Thraben Inspector
 3 Metallic Mimic
+3 Benalish Marshal
 4 Benalish Marshal
 4 Sunpetal Grove
 8 Plains
@@ -119,8 +119,8 @@
 1 Intrepid Adversary
 1 Faceless Haven
 1 Fateful Absence
-1 Venerated Loxodon
 1 Resplendent Marshal
+1 Venerated Loxodon
 2 Kabira Takedown
 2 Snow-Covered Plains
 2 Faceless Haven

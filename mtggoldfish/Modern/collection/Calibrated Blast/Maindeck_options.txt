@@ -66,6 +66,19 @@
 1 Xander's Lounge
 3 Blood Crypt
 4 Blood Crypt
+1 Mutavault
+1 Spirebluff Canal
+1 Riverglide Pathway
+1 Fiery Islet
+2 Riverglide Pathway
+2 Mutavault
+2 Spirebluff Canal
+2 Desert
+3 Mutavault
+3 Spirebluff Canal
+3 Steam Vents
+4 Steam Vents
+4 Mutavault
 1 Misty Rainforest
 2 Misty Rainforest
 3 Boseiju, Who Shelters All
@@ -74,23 +87,10 @@
 3 Commit/Memory
 3 Halimar Depths
 4 Halimar Depths
-1 Mutavault
-1 Spirebluff Canal
-1 Riverglide Pathway
-1 Fiery Islet
-2 Desert
-2 Spirebluff Canal
-2 Riverglide Pathway
-2 Mutavault
-3 Mutavault
-3 Spirebluff Canal
-3 Steam Vents
-4 Steam Vents
-4 Mutavault
-1 Godless Shrine
 1 Polluted Delta
-1 Breeding Pool
 1 Verdant Catacombs
+1 Godless Shrine
+1 Breeding Pool
 1 Ketria Triome
 1 Flooded Strand
 2 Polluted Delta
@@ -98,5 +98,5 @@
 2 Flooded Strand
 3 Polluted Delta
 3 Flooded Strand
-4 Flooded Strand
 4 Polluted Delta
+4 Flooded Strand

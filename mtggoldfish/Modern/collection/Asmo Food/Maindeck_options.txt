@@ -48,10 +48,10 @@
 1 Scalding Tarn
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
-1 Galvanic Blast
 1 Shrapnel Blast
-2 Galvanic Blast
+1 Galvanic Blast
 2 Shrapnel Blast
+2 Galvanic Blast
 3 Galvanic Blast
 3 Shrapnel Blast
 4 Shrapnel Blast
@@ -66,8 +66,8 @@
 1 Blooming Marsh
 2 Blooming Marsh
 2 Stomping Ground
-1 Sokenzan, Crucible of Defiance
 1 Ramunap Ruins
+1 Sokenzan, Crucible of Defiance
 4 Galvanic Blast
 4 Wrenn and Six
 3 Feasting Troll King
@@ -95,9 +95,9 @@
 4 Witch's Oven
 3 Trail of Crumbs
 1 Nettlecyst
+1 Takenuma, Abandoned Mire
 1 Arid Mesa
 1 Smuggler's Copter
-1 Takenuma, Abandoned Mire
 2 Smuggler's Copter
 3 Swamp
 1 Prismatic Ending
@@ -146,11 +146,11 @@
 3 Blightstep Pathway
 4 Blightstep Pathway
 1 Sulfurous Springs
-1 Unmarked Grave
-1 Persist
 1 Archon of Cruelty
-2 Unmarked Grave
+1 Persist
+1 Unmarked Grave
 2 Persist
+2 Unmarked Grave
 3 Persist
 4 Persist
 1 Fatal Push
@@ -161,6 +161,7 @@
 1 Snow-Covered Swamp
 1 Snow-Covered Island
 1 Mayhem Devil
+1 Misty Rainforest
 1 Thought Monitor
 1 Zagoth Triome
 1 Chalice of the Void
@@ -168,7 +169,6 @@
 1 Metallic Rebuke
 1 Ketria Triome
 1 Korvold, Fae-Cursed King
-1 Misty Rainforest
 2 Thought Monitor
 2 Metallic Rebuke
 1 Disciple of the Vault
@@ -185,8 +185,8 @@
 2 Cathartic Reunion
 3 Cathartic Reunion
 1 Mishra's Factory
-1 Den of the Bugbear
 1 Ghirapur Aether Grid
+1 Den of the Bugbear
 2 Mishra's Factory
 2 Sokenzan, Crucible of Defiance
 2 Ramunap Ruins
@@ -199,10 +199,10 @@
 3 Ravenous Squirrel
 4 Ravenous Squirrel
 4 Trail of Crumbs
-1 Tarmogoyf
 1 Liliana of the Veil
-2 Tarmogoyf
+1 Tarmogoyf
 2 Liliana of the Veil
+2 Tarmogoyf
 3 Tarmogoyf
 3 Liliana of the Veil
 4 Liliana of the Veil
@@ -211,10 +211,10 @@
 2 Dragon's Rage Channeler
 3 Dragon's Rage Channeler
 4 Dragon's Rage Channeler
+1 The Meathook Massacre
 1 Abrupt Decay
 1 Witherbloom Command
 1 Castle Locthwain
-1 The Meathook Massacre
 3 Blood Crypt
 4 Bone Shards
 1 Darkbore Pathway
@@ -235,55 +235,55 @@
 2 Stitcher's Supplier
 2 Can't Stay Away
 2 Deadly Dispute
+3 Godless Shrine
+3 Concealed Courtyard
 3 Stitcher's Supplier
 3 Deadly Dispute
-3 Concealed Courtyard
-3 Godless Shrine
 4 Godless Shrine
 4 Stitcher's Supplier
 4 Parhelion II
 4 Deadly Dispute
 4 Concealed Courtyard
-1 Eladamri's Call
-1 Stoneforge Mystic
-1 Kaldra Compleat
-1 Rocco, Cabaretti Caterer
-1 Jetmir's Garden
 1 Sunbaked Canyon
+1 Jetmir's Garden
 1 Devoted Druid
 1 Luxior, Giada's Gift
 1 Viridian Longbow
+1 Rocco, Cabaretti Caterer
+1 Kaldra Compleat
 1 Vizier of Remedies
 1 Giver of Runes
+1 Stoneforge Mystic
+1 Eladamri's Call
 2 Temple Garden
-2 Eladamri's Call
-2 Stoneforge Mystic
-2 Rocco, Cabaretti Caterer
 2 Devoted Druid
+2 Rocco, Cabaretti Caterer
+2 Stoneforge Mystic
+2 Eladamri's Call
 2 Giver of Runes
 2 Windswept Heath
 3 Eladamri's Call
-3 Stoneforge Mystic
-3 Rocco, Cabaretti Caterer
 3 Devoted Druid
 3 Windswept Heath
 3 Giver of Runes
-4 Eladamri's Call
-4 Stoneforge Mystic
+3 Rocco, Cabaretti Caterer
+3 Stoneforge Mystic
+4 Windswept Heath
 4 Devoted Druid
 4 Giver of Runes
-4 Windswept Heath
+4 Eladamri's Call
+4 Stoneforge Mystic
 4 Rocco, Cabaretti Caterer
 1 Drowned Catacomb
 1 Grief
-1 Unburial Rites
 1 Ephemerate
+1 Unburial Rites
 1 Snapcaster Mage
 1 Otherworldly Gaze
 2 Archon of Cruelty
 2 Grief
-2 Otherworldly Gaze
 2 Ephemerate
+2 Otherworldly Gaze
 2 Snapcaster Mage
 3 Archon of Cruelty
 3 Grief
@@ -293,6 +293,20 @@
 4 Archon of Cruelty
 4 Grief
 4 Ephemerate
+1 Terminate
+1 Blazing Rootwalla
+1 Burning Inquiry
+1 Canyon Slough
+1 Fiery Temper
+1 Ox of Agonas
+2 Blazing Rootwalla
+2 Fiery Temper
+2 Burning Inquiry
+2 Canyon Slough
+3 Blazing Rootwalla
+3 Burning Inquiry
+4 Burning Inquiry
+5 Mountain
 1 Sundering Titan
 1 Inkwell Leviathan
 1 Sphinx of the Steel Wind
@@ -308,17 +322,3 @@
 4 Unmarked Grave
 4 Trash for Treasure
 4 Drossforge Bridge
-1 Terminate
-1 Blazing Rootwalla
-1 Burning Inquiry
-1 Canyon Slough
-1 Fiery Temper
-1 Ox of Agonas
-2 Blazing Rootwalla
-2 Fiery Temper
-2 Burning Inquiry
-2 Canyon Slough
-3 Blazing Rootwalla
-3 Burning Inquiry
-4 Burning Inquiry
-5 Mountain

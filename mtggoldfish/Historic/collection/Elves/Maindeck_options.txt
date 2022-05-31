@@ -73,6 +73,10 @@
 3 Darkbore Pathway
 1 The Great Henge
 3 Lair of the Hydra
+1 Necroblossom Snarl
+2 Necroblossom Snarl
+3 Necroblossom Snarl
+4 Necroblossom Snarl
 1 Woodland Cemetery
 1 Fiend Artisan
 2 Woodland Cemetery
@@ -81,10 +85,6 @@
 3 Realmwalker
 4 Darkbore Pathway
 4 Woodland Cemetery
-1 Necroblossom Snarl
-2 Necroblossom Snarl
-3 Necroblossom Snarl
-4 Necroblossom Snarl
 18 Snow-Covered Forest
 1 Hashep Oasis
 2 Hashep Oasis
@@ -96,30 +96,30 @@
 1 Steel Leaf Champion
 1 Elven Ambush
 1 Incubation Druid
+2 The Great Henge
 2 Craterhoof Behemoth
 2 Steel Leaf Champion
 2 Incubation Druid
-2 The Great Henge
 2 Elven Ambush
-3 Elven Ambush
 3 Steel Leaf Champion
+3 Elven Ambush
 3 Hashep Oasis
 3 Incubation Druid
-4 Hashep Oasis
 4 Steel Leaf Champion
+4 Hashep Oasis
 1 Scavenging Ooze
-2 Sylvan Anthem
 1 Boseiju, Who Endures
-1 Eiganjo, Seat of the Empire
 1 Stifle
+1 Eiganjo, Seat of the Empire
 2 Boseiju, Who Endures
+2 Sylvan Anthem
 2 Turntimber Symbiosis
-1 Beast Whisperer
-1 Elder Gargaroth
-1 Snakeskin Veil
 1 Kogla, the Titan Ape
-2 Snakeskin Veil
+1 Beast Whisperer
+1 Snakeskin Veil
+1 Elder Gargaroth
 2 Beast Whisperer
+2 Snakeskin Veil
 3 Llanowar Visionary
 3 Beast Whisperer
 1 Finale of Devastation
