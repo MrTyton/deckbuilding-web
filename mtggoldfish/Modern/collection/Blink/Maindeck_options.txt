@@ -1,36 +1,36 @@
+1 Snow-Covered Mountain
+2 Fury
+2 Eternal Witness
 1 Spreading Seas
 2 Spreading Seas
+3 Lightning Bolt
+3 Wooded Foothills
+1 Otawara, Soaring City
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
-1 Otawara, Soaring City
-1 Snow-Covered Mountain
-4 Ragavan, Nimble Pilferer
-3 Lightning Bolt
-2 Eternal Witness
-2 Fury
-3 Wooded Foothills
-2 Unholy Heat
 3 Spreading Seas
+4 Ragavan, Nimble Pilferer
+2 Unholy Heat
 2 Snow-Covered Forest
 1 Memory Deluge
 2 Endurance
-3 Ephemerate
 1 Dress Down
 2 Dress Down
-1 Deputy of Detention
-4 Spreading Seas
+3 Ephemerate
 3 Eladamri's Call
 4 Lightning Bolt
-3 Scalding Tarn
 1 Emrakul, the Promised End
+1 Deputy of Detention
+4 Spreading Seas
+3 Fury
+3 Scalding Tarn
 3 Unholy Heat
 1 Teferi, Hero of Dominaria
 2 Teferi, Hero of Dominaria
 1 The Wandering Emperor
 2 Snow-Covered Plains
 1 Jace, the Mind Sculptor
-3 Fury
 1 Meddling Mage
 4 Eladamri's Call
 1 Polluted Delta
@@ -42,72 +42,26 @@
 1 Jetmir's Garden
 1 Time Warp
 1 Horizon Canopy
-1 Godless Shrine
-1 Batterskull
-1 Stoneforge Mystic
-1 Kaldra Compleat
-2 Stoneforge Mystic
-3 Stoneforge Mystic
-4 Stoneforge Mystic
-1 Plains
-1 Eiganjo, Seat of the Empire
-1 Charming Prince
-2 Charming Prince
-2 Plains
-1 Sword of Fire and Ice
-1 Urborg, Tomb of Yawgmoth
-1 Silent Clearing
-1 Persist
-1 Agadeem's Awakening
-1 Grief
-1 Touch the Spirit Realm
-1 Maul of the Skyclaves
-1 Lion Sash
-1 Malakir Rebirth
-1 Spirited Companion
-1 Shriekmaw
-1 Swamp
-1 Emeria's Call
-2 Silent Clearing
-2 Agadeem's Awakening
-2 Godless Shrine
-2 Persist
-2 Grief
-2 Touch the Spirit Realm
-2 Spirited Companion
-2 Malakir Rebirth
-2 Emeria's Call
-3 Silent Clearing
-3 Plains
-3 Grief
-3 Touch the Spirit Realm
-3 Malakir Rebirth
-3 Godless Shrine
-4 Silent Clearing
-4 Grief
-4 Ephemerate
-4 Godless Shrine
-4 Plains
-4 Malakir Rebirth
 1 Rimewood Falls
 1 Glacial Floodplain
 3 Snow-Covered Island
 4 Scalding Tarn
-1 Archmage's Charm
 1 Chalice of the Void
+1 Archmage's Charm
 2 Archmage's Charm
 2 Chalice of the Void
 3 Archmage's Charm
 4 Archmage's Charm
 1 Kiki-Jiki, Mirror Breaker
-1 Marsh Flats
-1 Verdant Catacombs
-1 Snow-Covered Swamp
-1 Overgrown Tomb
+1 Godless Shrine
 1 Assassin's Trophy
+1 Snow-Covered Swamp
 1 Valki, God of Lies
+1 Overgrown Tomb
 1 Sylvan Caryatid
 1 Bring to Light
+1 Marsh Flats
+1 Verdant Catacombs
 2 Bring to Light
 2 Time Warp
 2 Sylvan Caryatid
@@ -118,31 +72,31 @@
 1 Wandering Mind
 1 Spell Pierce
 1 Seasoned Pyromancer
-1 Knight of Autumn
 1 Obsidian Charmaw
+1 Knight of Autumn
 3 Dress Down
 1 Brought Back
 1 Engineered Explosives
 2 Arid Mesa
 2 Brought Back
-3 Arid Mesa
 3 Brought Back
-4 Arid Mesa
+3 Arid Mesa
 4 Brought Back
+4 Arid Mesa
 2 Horizon Canopy
-1 Karmic Guide
 1 Vivien on the Hunt
-1 Prismatic Vista
 1 Skyclave Apparition
+1 Karmic Guide
+1 Prismatic Vista
 1 Waterlogged Grove
 1 Felidar Guardian
 1 Soulherder
-2 Vivien on the Hunt
-2 Prismatic Vista
 2 Breeding Pool
 2 Temple Garden
+2 Vivien on the Hunt
 2 Soulherder
 2 Skyclave Apparition
+2 Prismatic Vista
 3 Vivien on the Hunt
 3 Skyclave Apparition
 3 Soulherder
@@ -150,13 +104,13 @@
 4 Skyclave Apparition
 4 Soulherder
 1 Utopia Sprawl
-1 Prairie Stream
-1 Traverse the Ulvenwald
 1 Mishra's Bauble
-2 Utopia Sprawl
-2 Traverse the Ulvenwald
+1 Traverse the Ulvenwald
+1 Prairie Stream
+1 Nimble Obstructionist
 2 Mishra's Bauble
-3 Utopia Sprawl
+2 Traverse the Ulvenwald
+2 Nimble Obstructionist
 3 Mishra's Bauble
 3 Traverse the Ulvenwald
 4 Mishra's Bauble
@@ -179,16 +133,17 @@
 4 Chalice of the Void
 4 Polluted Delta
 5 Snow-Covered Island
+1 Kaldra Compleat
+1 Stoneforge Mystic
+1 Batterskull
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+4 Stoneforge Mystic
+1 Plains
 1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
-1 Callous Bloodmage
-1 Feign Death
-1 Blade of the Oni
-2 Feign Death
-3 Emeria's Call
-3 Spirited Companion
 1 Brokers Charm
 1 Force of Negation
 1 Sword of Feast and Famine
@@ -197,69 +152,43 @@
 2 Force of Negation
 2 Spell Queller
 3 Force of Negation
-1 Shambling Vent
-1 Tourach, Dread Cantor
-1 Undying Evil
-2 Tourach, Dread Cantor
-2 Undying Evil
-3 Tourach, Dread Cantor
-1 Glacial Fortress
-1 Wall of Omens
-1 Reflecting Pool
-1 Cleansing Wildfire
-1 Restoration Angel
-1 Fire/Ice
-1 Island
-1 Cascade Bluffs
-2 Steam Vents
-2 Wall of Omens
-2 Kiki-Jiki, Mirror Breaker
-2 Cleansing Wildfire
-2 Island
-2 Raugrin Triome
-2 Cascade Bluffs
-2 Restoration Angel
-3 Island
-3 Cleansing Wildfire
-3 Wall of Omens
-3 Raugrin Triome
-3 Restoration Angel
-3 Kiki-Jiki, Mirror Breaker
-4 Wall of Omens
-4 Restoration Angel
+1 Eiganjo, Seat of the Empire
+1 Charming Prince
+2 Plains
+2 Charming Prince
 1 Adeline, Resplendent Cathar
 1 Thalia, Guardian of Thraben
 1 Unclaimed Territory
 1 Extraction Specialist
 1 Pyre of Heroes
+1 Reflector Mage
 1 Champion of the Parish
 1 Whirler Rogue
-1 Reflector Mage
+1 Thalia's Lieutenant
 1 Watcher for Tomorrow
 1 Aether Vial
-1 Thalia's Lieutenant
 1 Secluded Courtyard
 1 Cavern of Souls
 2 Adeline, Resplendent Cathar
 2 Thalia, Guardian of Thraben
+2 Meddling Mage
 2 Extraction Specialist
 2 Unclaimed Territory
 2 Pyre of Heroes
+2 Reflector Mage
 2 Aether Vial
-2 Meddling Mage
 2 Thalia's Lieutenant
 2 Cavern of Souls
 2 Secluded Courtyard
 2 Watcher for Tomorrow
-2 Reflector Mage
 2 Champion of the Parish
 3 Adeline, Resplendent Cathar
 3 Thalia, Guardian of Thraben
 3 Horizon Canopy
 3 Unclaimed Territory
 3 Pyre of Heroes
-3 Meddling Mage
 3 Reflector Mage
+3 Meddling Mage
 3 Thalia's Lieutenant
 3 Champion of the Parish
 3 Aether Vial
@@ -270,8 +199,73 @@
 4 Cavern of Souls
 4 Unclaimed Territory
 4 Pyre of Heroes
+4 Reflector Mage
 4 Meddling Mage
 4 Champion of the Parish
-4 Reflector Mage
 4 Aether Vial
 4 Thalia's Lieutenant
+1 Urborg, Tomb of Yawgmoth
+1 Tourach, Dread Cantor
+1 Lion Sash
+1 Persist
+1 Agadeem's Awakening
+1 Maul of the Skyclaves
+1 Touch the Spirit Realm
+1 Malakir Rebirth
+1 Silent Clearing
+1 Spirited Companion
+1 Grief
+1 Undying Evil
+1 Shriekmaw
+1 Sword of Fire and Ice
+1 Swamp
+1 Emeria's Call
+1 Shambling Vent
+2 Tourach, Dread Cantor
+2 Agadeem's Awakening
+2 Persist
+2 Grief
+2 Touch the Spirit Realm
+2 Silent Clearing
+2 Spirited Companion
+2 Malakir Rebirth
+2 Godless Shrine
+2 Emeria's Call
+2 Undying Evil
+3 Silent Clearing
+3 Plains
+3 Godless Shrine
+3 Grief
+3 Touch the Spirit Realm
+3 Malakir Rebirth
+3 Tourach, Dread Cantor
+4 Silent Clearing
+4 Grief
+4 Ephemerate
+4 Godless Shrine
+4 Plains
+4 Malakir Rebirth
+1 Reflecting Pool
+1 Glacial Fortress
+1 Cleansing Wildfire
+1 Restoration Angel
+1 Fire/Ice
+1 Wall of Omens
+1 Island
+1 Cascade Bluffs
+2 Steam Vents
+2 Cleansing Wildfire
+2 Island
+2 Wall of Omens
+2 Raugrin Triome
+2 Kiki-Jiki, Mirror Breaker
+2 Cascade Bluffs
+2 Restoration Angel
+3 Island
+3 Restoration Angel
+3 Wall of Omens
+3 Cleansing Wildfire
+3 Raugrin Triome
+3 Kiki-Jiki, Mirror Breaker
+4 Restoration Angel
+4 Wall of Omens

@@ -72,25 +72,13 @@
 1 Birds of Paradise
 3 Noble Hierarch
 2 Field of the Dead
-1 Squee, the Immortal
 1 Watcher for Tomorrow
+1 Squee, the Immortal
 2 Watcher for Tomorrow
 3 Watcher for Tomorrow
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Utopia Sprawl
-1 Living Wish
-1 Sea Gate Restoration
-1 Sevinne's Reclamation
-1 Personal Tutor
-1 Polluted Delta
-2 Personal Tutor
-2 Polluted Delta
-3 Polluted Delta
-3 Supreme Verdict
-3 Personal Tutor
-4 Narset, Parter of Veils
-4 Polluted Delta
 1 Mech Hangar
 1 Reckoner Bankbuster
 1 Shorikai, Genesis Engine
@@ -104,6 +92,18 @@
 4 Reckoner Bankbuster
 4 Endurance
 4 Force of Negation
+1 Living Wish
+1 Sea Gate Restoration
+1 Sevinne's Reclamation
+1 Personal Tutor
+1 Polluted Delta
+2 Personal Tutor
+2 Polluted Delta
+3 Supreme Verdict
+3 Polluted Delta
+3 Personal Tutor
+4 Narset, Parter of Veils
+4 Polluted Delta
 1 Waterlogged Grove
 1 The Wandering Emperor
 1 Flusterstorm
@@ -118,8 +118,8 @@
 2 Archon of Emeria
 2 Tarmogoyf
 3 Tundra
-3 Wasteland
 3 Archon of Emeria
+3 Wasteland
 3 Tarmogoyf
 4 Wasteland
 4 Tarmogoyf

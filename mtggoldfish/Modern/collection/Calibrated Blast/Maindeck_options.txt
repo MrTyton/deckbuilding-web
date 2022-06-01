@@ -11,25 +11,26 @@
 2 Bloodstained Mire
 1 Radiant Fountain
 2 Radiant Fountain
+2 Blood Crypt
 1 Overgrown Tomb
 1 Raugrin Triome
 3 Bloodstained Mire
 4 Bloodstained Mire
+1 Desert
 3 Radiant Fountain
 4 Radiant Fountain
 2 Boseiju, Who Shelters All
 1 Indatha Triome
 2 Steam Vents
 3 Mountain
-2 Blood Crypt
-4 Ramunap Ruins
-1 Desert
+1 Halimar Depths
+2 Halimar Depths
 1 Blast Zone
 2 Blast Zone
 1 Sacred Foundry
-1 Halimar Depths
-2 Halimar Depths
+4 Ramunap Ruins
 1 Zagoth Triome
+3 Throes of Chaos
 4 Mountain
 1 Commit/Memory
 2 Commit/Memory
@@ -56,7 +57,6 @@
 4 Shivan Reef
 5 Mountain
 6 Mountain
-3 Throes of Chaos
 1 Scavenger Grounds
 4 Sokenzan, Crucible of Defiance
 2 Piranha Marsh
@@ -66,19 +66,6 @@
 1 Xander's Lounge
 3 Blood Crypt
 4 Blood Crypt
-1 Mutavault
-1 Spirebluff Canal
-1 Riverglide Pathway
-1 Fiery Islet
-2 Riverglide Pathway
-2 Mutavault
-2 Spirebluff Canal
-2 Desert
-3 Mutavault
-3 Spirebluff Canal
-3 Steam Vents
-4 Steam Vents
-4 Mutavault
 1 Misty Rainforest
 2 Misty Rainforest
 3 Boseiju, Who Shelters All
@@ -88,9 +75,9 @@
 3 Halimar Depths
 4 Halimar Depths
 1 Polluted Delta
-1 Verdant Catacombs
 1 Godless Shrine
 1 Breeding Pool
+1 Verdant Catacombs
 1 Ketria Triome
 1 Flooded Strand
 2 Polluted Delta
@@ -100,3 +87,16 @@
 3 Flooded Strand
 4 Polluted Delta
 4 Flooded Strand
+1 Riverglide Pathway
+1 Mutavault
+1 Spirebluff Canal
+1 Fiery Islet
+2 Riverglide Pathway
+2 Desert
+2 Spirebluff Canal
+2 Mutavault
+3 Mutavault
+3 Spirebluff Canal
+3 Steam Vents
+4 Steam Vents
+4 Mutavault

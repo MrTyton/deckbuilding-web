@@ -1,11 +1,11 @@
 1 Mulldrifter
 4 Solitude
+4 Marsh Flats
 4 Polluted Delta
 4 Flooded Strand
 1 Malakir Rebirth
-4 Marsh Flats
-1 Concealed Courtyard
 2 Priest of Fell Rites
+1 Concealed Courtyard
 2 Unburial Rites
 4 Thoughtseize
 2 Concealed Courtyard
@@ -21,24 +21,21 @@
 3 Counterspell
 1 Consider
 2 Consider
-1 Bloodstained Mire
 3 Priest of Fell Rites
+1 Bloodstained Mire
+1 Urborg, Tomb of Yawgmoth
 3 Consider
 4 Counterspell
-1 Indatha Triome
-1 Collective Brutality
-1 Urborg, Tomb of Yawgmoth
 4 Priest of Fell Rites
-1 Overgrown Tomb
-1 Serra's Emissary
-1 Savai Triome
+1 Indatha Triome
 2 Swamp
+1 Savai Triome
 2 Bloodstained Mire
-1 Sacred Foundry
-1 Arid Mesa
 1 Fable of the Mirror-Breaker
-1 Blood Crypt
+1 Sacred Foundry
 1 Touch the Spirit Realm
+1 Arid Mesa
+1 Blood Crypt
 1 Seasoned Pyromancer
 2 Arid Mesa
 2 Sacred Foundry
@@ -54,38 +51,44 @@
 1 Fury
 1 Mountain
 1 Blackcleave Cliffs
-2 Inspiring Vantage
 2 Fable of the Mirror-Breaker
+2 Inspiring Vantage
 2 Fury
 2 Blackcleave Cliffs
-3 Arid Mesa
 3 Fable of the Mirror-Breaker
+3 Arid Mesa
 3 Fury
 3 Blackcleave Cliffs
+4 Arid Mesa
 4 Fable of the Mirror-Breaker
 4 Bloodstained Mire
-4 Arid Mesa
 4 Teferi, Time Raveler
-1 Darkslick Shores
 1 March of Otherworldly Light
-1 Ox of Agonas
-1 Verdant Catacombs
+1 Darkslick Shores
+1 Collective Brutality
 3 Godless Shrine
-2 Verdant Catacombs
-1 Mystic Gate
-4 Consider
-1 Otawara, Soaring City
-1 Kaito Shizuki
-1 Seachrome Coast
-1 Takenuma, Abandoned Mire
-2 March of Otherworldly Light
+1 Serra's Emissary
+1 Overgrown Tomb
+1 Ox of Agonas
 1 Silent Clearing
 2 Silent Clearing
+1 Kaito Shizuki
+1 Otawara, Soaring City
+2 March of Otherworldly Light
+1 Mystic Gate
+1 Seachrome Coast
+4 Consider
+1 Verdant Catacombs
 2 Collective Brutality
 1 Kaya's Guile
 2 Kaya's Guile
 2 Touch the Spirit Realm
 3 Touch the Spirit Realm
+1 Stitcher's Supplier
+2 Stitcher's Supplier
+3 Stitcher's Supplier
+2 Verdant Catacombs
+1 Takenuma, Abandoned Mire
 2 Kaito Shizuki
 1 Master of Death
 2 Master of Death
@@ -95,9 +98,13 @@
 3 Mulldrifter
 1 Drown in the Loch
 1 Void Rend
-1 Stitcher's Supplier
-2 Stitcher's Supplier
-3 Stitcher's Supplier
+2 Plains
+3 Silent Clearing
+1 Ashen Rider
+1 Lingering Souls
+1 Bone Shards
+2 Bone Shards
+2 Lingering Souls
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
@@ -105,43 +112,36 @@
 2 Mountain
 3 Undying Evil
 4 Fury
-1 Ashen Rider
-2 Plains
 1 Fatal Push
 2 Fatal Push
-1 Bone Shards
-1 Forest
-2 Bone Shards
-2 Overgrown Tomb
-3 Verdant Catacombs
-1 Liliana of the Veil
-1 Profane Tutor
-2 Profane Tutor
-3 Profane Tutor
-3 Swamp
-4 Swamp
+1 Cabal Coffers
+2 Urborg, Tomb of Yawgmoth
 1 Jace, the Mind Sculptor
-1 Bojuka Bog
 1 Scavenger Grounds
 1 Castle Locthwain
+1 Liliana of the Veil
+1 Invoke Despair
+1 Bojuka Bog
+1 Cascading Cataracts
 1 March of Wretched Sorrow
 1 Expedition Map
 1 Cling to Dust
-1 Invoke Despair
+1 Profane Tutor
 1 Golos, Tireless Pilgrim
-1 Cabal Coffers
-1 Cascading Cataracts
 1 Blast Zone
-2 March of Wretched Sorrow
-2 Urborg, Tomb of Yawgmoth
-2 Expedition Map
 2 Cabal Coffers
+2 Expedition Map
 2 Golos, Tireless Pilgrim
+2 March of Wretched Sorrow
+2 Profane Tutor
 2 Castle Locthwain
 3 Golos, Tireless Pilgrim
 3 Cabal Coffers
+3 Profane Tutor
 3 Expedition Map
+3 Swamp
 4 Profane Tutor
+4 Swamp
 4 Expedition Map
 4 Cabal Coffers
 4 Golos, Tireless Pilgrim
@@ -159,67 +159,61 @@
 2 Surgical Extraction
 1 Dovin's Veto
 2 Dovin's Veto
-1 Kroxa, Titan of Death's Hunger
 1 Sunbaked Canyon
+1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
 3 Sacred Foundry
 3 Blood Crypt
 4 Blood Crypt
-1 Grist, the Hunger Tide
-1 Life from the Loam
-1 Dakmor Salvage
-1 Damnation
-1 Boseiju, Who Endures
-1 Smallpox
-1 Inquisition of Kozilek
-1 Blooming Marsh
-1 Misty Rainforest
-2 Grist, the Hunger Tide
-2 Liliana of the Veil
-2 Smallpox
-2 Blooming Marsh
-2 Inquisition of Kozilek
-3 Grist, the Hunger Tide
-3 Smallpox
-3 Blooming Marsh
-4 Blooming Marsh
-4 Smallpox
+1 Kaldra Compleat
+1 Stoneforge Mystic
+1 Batterskull
+1 Caves of Koilos
+2 Stoneforge Mystic
+2 Caves of Koilos
+3 Stoneforge Mystic
+3 Caves of Koilos
+3 Malakir Rebirth
+4 Malakir Rebirth
+4 Stoneforge Mystic
+4 Silent Clearing
 2 Drown in the Loch
 3 Drown in the Loch
 4 Drown in the Loch
-1 Siege Rhino
+1 Prismatic Vista
+1 Wurmcoil Engine
+1 Grave Titan
+1 Raffine's Informant
+2 Grave Titan
+2 Raffine's Informant
+3 Lingering Souls
+3 Grave Titan
+3 Raffine's Informant
+3 Urborg, Tomb of Yawgmoth
+4 Godless Shrine
+4 Raffine's Informant
+4 Stitcher's Supplier
 1 Eternal Witness
-1 Lingering Souls
 1 Temple Garden
+1 Siege Rhino
 1 Satyr Wayfinder
 1 Grisly Salvage
-2 Lingering Souls
+1 Forest
+2 Siege Rhino
 2 Forest
 2 Temple Garden
-2 Grisly Salvage
+2 Overgrown Tomb
 2 Satyr Wayfinder
+2 Grisly Salvage
 2 Ashen Rider
-2 Siege Rhino
+3 Verdant Catacombs
 3 Overgrown Tomb
 3 Bone Shards
-3 Satyr Wayfinder
 3 Siege Rhino
+3 Satyr Wayfinder
 3 Grisly Salvage
 4 Verdant Catacombs
 4 Bone Shards
 4 Grisly Salvage
 4 Siege Rhino
 4 Satyr Wayfinder
-1 Kaldra Compleat
-1 Stoneforge Mystic
-1 Caves of Koilos
-1 Batterskull
-2 Stoneforge Mystic
-2 Caves of Koilos
-3 Silent Clearing
-3 Stoneforge Mystic
-3 Caves of Koilos
-3 Malakir Rebirth
-4 Silent Clearing
-4 Stoneforge Mystic
-4 Malakir Rebirth

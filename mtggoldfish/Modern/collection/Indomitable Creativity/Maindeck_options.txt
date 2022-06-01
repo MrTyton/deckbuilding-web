@@ -1,7 +1,7 @@
-2 Bloodstained Mire
+2 Sacred Foundry
 1 Valakut, the Molten Pinnacle
 3 Lightning Bolt
-4 Hard Evidence
+4 Wooded Foothills
 2 Stomping Ground
 1 Primeval Titan
 2 Valakut, the Molten Pinnacle
@@ -9,7 +9,7 @@
 3 Valakut, the Molten Pinnacle
 3 Primeval Titan
 4 Primeval Titan
-4 Wooded Foothills
+4 Hard Evidence
 4 Lightning Bolt
 1 Transmogrify
 1 Spell Pierce
@@ -22,15 +22,15 @@
 4 Fire/Ice
 3 Steam Vents
 3 Bloodstained Mire
-1 Chained to the Rocks
 1 Forest
 1 March of Otherworldly Light
 1 Snow-Covered Mountain
-1 Flooded Strand
+1 Chained to the Rocks
 2 Chained to the Rocks
 1 Explore
 2 Explore
 3 Explore
+1 Flooded Strand
 2 Flooded Strand
 2 Nahiri, the Harbinger
 3 Flooded Strand
@@ -43,13 +43,10 @@
 1 Blood Crypt
 2 Mountain
 1 Sokenzan, Crucible of Defiance
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
 1 Spreading Seas
 2 Spreading Seas
 2 March of Otherworldly Light
 2 Transmogrify
-1 Khalni Garden
 1 Kher Keep
 1 Chandra, Dressed to Kill
 1 March of Reckless Joy
@@ -63,7 +60,7 @@
 1 Honor the God-Pharaoh
 1 Vessel of Volatility
 1 Cinder Glade
-2 Khalni Garden
+1 Khalni Garden
 2 March of Reckless Joy
 2 Chandra, Dressed to Kill
 2 Domri, Anarch of Bolas
@@ -77,14 +74,15 @@
 2 Growth Spasm
 2 Blightsteel Colossus
 2 Emrakul, the Aeons Torn
-3 Khalni Garden
+2 Khalni Garden
 3 Stomping Ground
-3 Transmogrify
 3 Growth Spasm
 3 Chandra, Dressed to Kill
 3 Cinder Glade
+3 Khalni Garden
 3 Honor the God-Pharaoh
 3 Mass Hysteria
+3 Transmogrify
 3 Spawning Breath
 3 Pyretic Ritual
 3 Mountain
@@ -95,7 +93,6 @@
 5 Mountain
 1 Prismatic Omen
 2 Prismatic Omen
-2 Spell Pierce
 1 Force of Negation
 1 Fire Prophecy
 2 Force of Negation
@@ -106,16 +103,18 @@
 1 Counterspell
 1 Xenagos, God of Revels
 1 Wish
-2 Wish
 2 Counterspell
+2 Wish
 3 Counterspell
 1 Abundant Growth
 1 Fable of the Mirror-Breaker
 1 Otawara, Soaring City
+1 Narset, Parter of Veils
 2 Fable of the Mirror-Breaker
 2 Abundant Growth
-3 Jace, the Mind Sculptor
+2 Narset, Parter of Veils
 3 Abundant Growth
+3 Jace, the Mind Sculptor
 4 Abundant Growth
 1 Boseiju, Who Shelters All
 1 Sylvan Scrying
@@ -123,11 +122,14 @@
 2 Sylvan Scrying
 3 Sylvan Scrying
 1 Cathartic Pyre
-4 Khalni Garden
 4 Honor the God-Pharaoh
+4 Khalni Garden
 1 Jetmir's Garden
 1 Expressive Iteration
 2 Expressive Iteration
+2 Spell Pierce
+3 Spreading Seas
+4 Spreading Seas
 3 Wish
 4 Wish
 4 Counterspell
@@ -137,11 +139,9 @@
 2 Memory Deluge
 3 Careful Cultivation
 4 Careful Cultivation
-3 Spreading Seas
-4 Spreading Seas
 1 Archon of Cruelty
 2 Archon of Cruelty
-3 Archon of Cruelty
 3 Chained to the Rocks
+3 Archon of Cruelty
 4 Prismari Command
 4 Chained to the Rocks

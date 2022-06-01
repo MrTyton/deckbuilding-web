@@ -38,8 +38,8 @@
 1 Standstill
 2 Standstill
 4 Rishadan Dockhand
-1 Tundra
 1 Swords to Plowshares
+1 Tundra
 2 Tundra
 2 Swords to Plowshares
 3 Swords to Plowshares
@@ -49,8 +49,8 @@
 1 Snow-Covered Island
 2 Snow-Covered Island
 1 Misty Rainforest
-1 Flooded Strand
 1 Scalding Tarn
+1 Flooded Strand
 1 Polluted Delta
 1 Umezawa's Jitte
 1 Tower of the Magistrate
@@ -59,31 +59,20 @@
 2 Saprazzan Skerry
 3 Brazen Borrower
 4 Glasspool Mimic
-1 Brainstorm
-1 Snow-Covered Plains
-1 Prismatic Ending
-1 Underground Sea
-2 Brainstorm
-2 Flooded Strand
-2 Prismatic Ending
-3 Flooded Strand
-3 Brainstorm
-4 Brainstorm
-4 Flooded Strand
-4 Cursecatcher
 1 Stifle
 2 Stifle
 3 Stifle
 4 Stifle
+4 Cursecatcher
 1 Tropical Island
 1 Once Upon a Time
 1 Kumena's Speaker
-2 Misty Rainforest
-2 Tropical Island
+2 Scalding Tarn
 2 Once Upon a Time
 2 Polluted Delta
-2 Scalding Tarn
+2 Tropical Island
 2 Kumena's Speaker
+2 Misty Rainforest
 3 Once Upon a Time
 3 Kumena's Speaker
 3 Tropical Island
@@ -94,12 +83,23 @@
 4 Suspend
 1 Seachrome Coast
 1 Wanderwine Hub
-2 Wanderwine Hub
 2 Seachrome Coast
+2 Wanderwine Hub
 3 Seachrome Coast
 3 Wanderwine Hub
 4 Wanderwine Hub
 4 Phantasmal Image
+1 Snow-Covered Plains
+1 Prismatic Ending
+1 Brainstorm
+1 Underground Sea
+2 Prismatic Ending
+2 Flooded Strand
+2 Brainstorm
+3 Flooded Strand
+3 Brainstorm
+4 Flooded Strand
+4 Brainstorm
 13 Island
 1 Misdirection
 3 Snow-Covered Island
