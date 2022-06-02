@@ -80,12 +80,6 @@
 2 Young Pyromancer
 1 Snow-Covered Island
 3 Ob Nixilis, the Adversary
-1 Fatal Push
-1 Stubborn Denial
-1 Dismember
-2 Fatal Push
-2 Stubborn Denial
-3 Watery Grave
 1 Gurmag Angler
 1 Mystic Sanctuary
 1 Angrath's Rampage
@@ -94,6 +88,12 @@
 2 Force of Negation
 3 Gurmag Angler
 3 Angrath's Rampage
+1 Fatal Push
+1 Stubborn Denial
+1 Dismember
+2 Fatal Push
+2 Stubborn Denial
+3 Watery Grave
 4 Flooded Strand
 4 Misty Rainforest
 1 Mishra's Bauble
@@ -101,9 +101,9 @@
 4 Stifle
 1 Cabal Therapy
 1 Dark Ritual
-1 Ox of Agonas
 1 Malevolent Hermit
 1 Preordain
+1 Ox of Agonas
 1 Arclight Phoenix
 1 Buried Alive
 2 Cabal Therapy

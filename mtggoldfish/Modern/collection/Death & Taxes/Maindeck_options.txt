@@ -9,24 +9,24 @@
 1 Mishra's Factory
 1 Silent Clearing
 1 Giant Killer
-1 Sacred Foundry
-1 Marsh Flats
 1 Arid Mesa
+1 Sacred Foundry
 1 Imperial Recruiter
 1 Magus of the Moon
 1 Sanctifier en-Vec
 1 Drannith Magistrate
 1 Slayers' Stronghold
+1 Marsh Flats
+2 Arid Mesa
+2 Sacred Foundry
 2 Imperial Recruiter
 2 Marsh Flats
-2 Sacred Foundry
-2 Arid Mesa
+3 Arid Mesa
 3 Imperial Recruiter
 3 Marsh Flats
-3 Arid Mesa
+4 Arid Mesa
 4 Imperial Recruiter
 4 Marsh Flats
-4 Arid Mesa
 4 Esper Sentinel
 1 Prismatic Ending
 2 Prismatic Ending
@@ -49,10 +49,10 @@
 1 Boseiju, Who Endures
 2 Temple Garden
 2 Boseiju, Who Endures
-1 Razorverge Thicket
 1 Noble Hierarch
-2 Razorverge Thicket
+1 Razorverge Thicket
 2 Noble Hierarch
+2 Razorverge Thicket
 3 Noble Hierarch
 3 Temple Garden
 3 Boseiju, Who Endures
@@ -125,8 +125,8 @@
 2 Rugged Prairie
 2 Needleverge Pathway
 3 Lightning Bolt
-3 Sacred Foundry
 3 Needleverge Pathway
+3 Sacred Foundry
 4 Needleverge Pathway
 3 Snow-Covered Plains
 4 Snow-Covered Plains
@@ -140,8 +140,8 @@
 1 Touch the Spirit Realm
 2 Touch the Spirit Realm
 1 Relic of Progenitus
-1 Soul-Guide Lantern
 1 Portable Hole
+1 Soul-Guide Lantern
 1 Sea Gate Wreckage
 1 Cloudsteel Kirin
 1 Wastes
@@ -159,13 +159,13 @@
 4 Horizon Canopy
 1 Indatha Triome
 1 Tireless Tracker
-1 Bojuka Bog
 1 Knight of the Reliquary
+1 Forest
+1 Bojuka Bog
 1 Zuran Orb
 1 Life from the Loam
 1 Scattered Groves
 1 Titania, Protector of Argoth
-1 Forest
 1 Yavimaya, Cradle of Growth
 1 Misty Rainforest
 2 Yavimaya, Cradle of Growth
@@ -175,8 +175,8 @@
 2 Titania, Protector of Argoth
 2 Life from the Loam
 2 Misty Rainforest
-3 Knight of the Reliquary
 3 Windswept Heath
+3 Knight of the Reliquary
 3 Titania, Protector of Argoth
 4 Knight of the Reliquary
 4 Windswept Heath

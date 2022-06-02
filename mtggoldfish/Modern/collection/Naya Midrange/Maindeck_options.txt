@@ -32,9 +32,9 @@
 1 Ghost Quarter
 4 Forest
 1 Verdant Catacombs
-1 Batterskull
-1 Stoneforge Mystic
 1 Kaldra Compleat
+1 Stoneforge Mystic
+1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
@@ -73,32 +73,32 @@
 1 Emrakul, the Aeons Torn
 1 Raging Ravine
 1 Valakut Awakening
-1 March of Otherworldly Light
-1 Eiganjo, Seat of the Empire
 1 Castle Ardenvale
+1 Eiganjo, Seat of the Empire
 1 Thrun, the Last Troll
 1 Voice of Resurgence
+1 March of Otherworldly Light
 2 Nahiri, the Harbinger
-2 March of Otherworldly Light
 2 Voice of Resurgence
 2 Solitude
+2 March of Otherworldly Light
 3 Sacred Foundry
 3 Voice of Resurgence
-3 March of Otherworldly Light
 3 Nahiri, the Harbinger
+3 March of Otherworldly Light
 4 Voice of Resurgence
-1 Noble Hierarch
 1 Magus of the Moon
+1 Noble Hierarch
 4 Unholy Heat
 3 Elvish Reclaimer
 4 Elvish Reclaimer
 2 Bonecrusher Giant
+1 Eternal Witness
 1 Reflecting Pool
+1 Prismatic Vista
 1 Forgotten Cave
 1 Fervent Champion
 1 Collected Company
-1 Prismatic Vista
-1 Eternal Witness
 1 Sword of Light and Shadow
 1 Aven Mindcensor
 2 Snow-Covered Plains
@@ -107,8 +107,8 @@
 2 Magus of the Moon
 2 Aven Mindcensor
 2 Ghost Quarter
-3 Aven Mindcensor
 3 Collected Company
+3 Aven Mindcensor
 4 Collected Company
 4 Aven Mindcensor
 1 Misty Rainforest
@@ -142,8 +142,8 @@
 1 Ranger-Captain of Eos
 1 Hexdrinker
 1 Giver of Runes
-2 Noble Hierarch
 2 Ranger-Captain of Eos
+2 Noble Hierarch
 3 Ranger-Captain of Eos
 1 Fable of the Mirror-Breaker
 3 Klothys, God of Destiny
@@ -188,10 +188,10 @@
 4 Planebound Accomplice
 4 Ignoble Hierarch
 4 Devoted Druid
-1 Dryad Arbor
 1 Lion Sash
 1 Jetmir's Garden
 1 Sword of Feast and Famine
+1 Dryad Arbor
 3 Misty Rainforest
 4 Misty Rainforest
 1 Elder Gargaroth

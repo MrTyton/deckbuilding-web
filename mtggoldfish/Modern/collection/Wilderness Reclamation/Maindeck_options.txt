@@ -44,10 +44,10 @@
 1 Teferi, Hero of Dominaria
 2 Temple Garden
 1 Search for Azcanta
-1 Zagoth Triome
 1 Consider
-1 Watery Grave
+1 Zagoth Triome
 1 Polluted Delta
+1 Watery Grave
 1 Sulfur Falls
 2 Steam Vents
 3 Hallowed Fountain
@@ -59,10 +59,10 @@
 1 Supreme Verdict
 1 Master of Waves
 1 Verdant Catacombs
-1 Drowned Catacomb
 1 Tamiyo, Compleated Sage
 1 Bloodbraid Elf
 1 Bloodstained Mire
+1 Drowned Catacomb
 1 Swamp
 1 Blood Crypt
 1 Fact or Fiction
@@ -70,10 +70,8 @@
 1 Overgrown Tomb
 1 Deflecting Palm
 1 Noble Hierarch
-1 Siege Rhino
 1 Ragavan, Nimble Pilferer
 1 Xander's Lounge
-1 Sunpetal Grove
 1 Murktide Regent
 1 Time Warp
 1 Clifftop Retreat
@@ -85,6 +83,7 @@
 1 Emrakul, the Aeons Torn
 1 Flamekin Harbinger
 1 Trading Post
+1 Sunpetal Grove
 1 Sacred Foundry
 1 Dragonskull Summit
 1 Abundant Harvest
@@ -93,9 +92,11 @@
 1 Ledger Shredder
 1 Utopia Sprawl
 1 The Kami War
+1 Eternal Witness
 1 Neoform
 1 The World Tree
 1 Indatha Triome
+1 Siege Rhino
 1 Platinum Emperion
 1 Settle the Wreckage
 1 Path to Exile
@@ -148,7 +149,6 @@
 1 Chance Encounter
 1 Lava Spike
 1 Trait Doctoring
-1 Eternal Witness
 1 Hedron Alignment
 1 Ephemerate
 1 Primeval Titan
@@ -282,13 +282,13 @@
 1 Fatal Push
 1 Abrupt Decay
 1 Pulse of Murasa
-2 Polluted Delta
-2 Fatal Push
 2 Consider
+2 Fatal Push
 2 Watery Grave
+2 Polluted Delta
 3 Consider
-3 Polluted Delta
 3 Fatal Push
+3 Polluted Delta
 4 Consider
 4 Fatal Push
 1 Blue Sun's Zenith
