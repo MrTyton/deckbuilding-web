@@ -10,8 +10,8 @@
 1 Glacial Fortress
 2 Snow-Covered Island
 3 Supreme Verdict
-1 Glacial Floodplain
 1 Ice-Fang Coatl
+1 Glacial Floodplain
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
@@ -39,8 +39,8 @@
 1 Snow-Covered Forest
 4 Misty Rainforest
 1 Noble Hierarch
-1 Batterskull
 1 Boseiju, Who Endures
+1 Batterskull
 1 Stoneforge Mystic
 1 Kaldra Compleat
 2 Noble Hierarch
@@ -49,8 +49,8 @@
 3 Noble Hierarch
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-2 The Wandering Emperor
 2 Celestial Colonnade
+2 The Wandering Emperor
 4 Hallowed Fountain
 1 Castle Ardenvale
 1 Cryptic Command
@@ -79,23 +79,22 @@
 2 Eladamri's Call
 3 Breeding Pool
 3 Eladamri's Call
-3 Teferi, Hero of Dominaria
-3 Chalice of the Void
-4 March of Otherworldly Light
 1 Birds of Paradise
 1 Maul of the Skyclaves
 1 Geist of Saint Traft
 1 Meddling Mage
 2 Birds of Paradise
-2 Snow-Covered Forest
 2 Geist of Saint Traft
 2 Boseiju, Who Endures
 2 Temple Garden
+2 Snow-Covered Forest
 3 Birds of Paradise
 3 Windswept Heath
 3 Geist of Saint Traft
 4 Birds of Paradise
 4 Esper Sentinel
+2 Cryptic Command
+4 Snapcaster Mage
 1 Eiganjo, Seat of the Empire
 1 Azorius Chancery
 1 Frantic Inventory
@@ -103,6 +102,12 @@
 2 Frantic Inventory
 3 Frantic Inventory
 4 Frantic Inventory
+2 Spreading Seas
+3 Spreading Seas
+4 Spreading Seas
+3 Teferi, Hero of Dominaria
+3 Chalice of the Void
+4 March of Otherworldly Light
 1 Shardless Agent
 1 Khalni Garden
 1 Glimpse of Tomorrow
@@ -135,12 +140,7 @@
 4 Ardent Plea
 4 Tireless Provisioner
 4 Omniscience
-2 Spreading Seas
-3 Spreading Seas
-4 Spreading Seas
 1 Lion Sash
 2 Jace, the Mind Sculptor
 3 Force of Negation
 4 Spell Queller
-2 Cryptic Command
-4 Snapcaster Mage

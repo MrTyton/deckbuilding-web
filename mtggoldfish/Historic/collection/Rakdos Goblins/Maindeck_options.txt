@@ -1,20 +1,20 @@
-3 Pashalik Mons
+1 Dragonskull Summit
+2 Dragonskull Summit
+3 Dragonskull Summit
 4 Dragonskull Summit
-1 Goblin Chieftain
-2 Goblin Chieftain
 1 Krenko, Mob Boss
+2 Krenko, Mob Boss
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
-2 Krenko, Mob Boss
-3 Goblin Chieftain
-1 Shatterskull Smashing
 3 Goblin Warchief
+3 Goblin Chieftain
+6 Mountain
+1 Shatterskull Smashing
 4 Goblin Warchief
 1 Wily Goblin
 1 Goblin Matron
 2 Goblin Matron
 3 Goblin Matron
-6 Mountain
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
@@ -28,16 +28,24 @@
 4 Wily Goblin
 4 Goblin Chieftain
 2 Shatterskull Smashing
-8 Snow-Covered Mountain
-4 Goblin Matron
 7 Mountain
 8 Mountain
 9 Mountain
 10 Mountain
-1 Hobgoblin Bandit Lord
-1 Sokenzan, Crucible of Defiance
+4 Goblin Matron
+8 Snow-Covered Mountain
 11 Mountain
 12 Mountain
+1 Hobgoblin Bandit Lord
+1 Sokenzan, Crucible of Defiance
+13 Mountain
+14 Mountain
+15 Mountain
+16 Mountain
+17 Mountain
+18 Mountain
+19 Mountain
+20 Mountain
 1 Goblin Instigator
 2 Goblin Instigator
 1 Fable of the Mirror-Breaker
@@ -49,14 +57,7 @@
 4 Unclaimed Territory
 4 Krenko, Mob Boss
 3 Shatterskull Smashing
-13 Mountain
-14 Mountain
-15 Mountain
-16 Mountain
-17 Mountain
-18 Mountain
-19 Mountain
-20 Mountain
+21 Mountain
 1 Spikefield Hazard
 3 Goblin Instigator
 1 Takenuma, Abandoned Mire
@@ -73,18 +74,39 @@
 2 Irencrag Feat
 2 Hobgoblin Bandit Lord
 3 Irencrag Feat
+1 Kazuul's Fury
+1 Goblin Ringleader
+1 Goro-Goro, Disciple of Ryusei
+2 Goblin Ringleader
+4 Goblin Instigator
+1 Lightning Strike
+1 Play with Fire
+1 Krenko, Tin Street Kingpin
+1 Goblin Banneret
+1 Metallic Mimic
+1 Banefire
+2 Lightning Strike
+2 Play with Fire
+2 Metallic Mimic
+2 Banefire
+2 Krenko, Tin Street Kingpin
+3 Play with Fire
+3 Lightning Strike
+3 Krenko, Tin Street Kingpin
+4 Play with Fire
+4 Lightning Strike
 3 Reckless Ringleader
 4 Reckless Ringleader
 1 Ajani's Pridemate
 1 Temple of Triumph
 1 Wind-Scarred Crag
-1 Plains
 1 Lunarch Veteran
 1 Voice of the Blessed
-1 Griffin Aerie
 1 Cavalcade of Calamity
 1 Soul Warden
 1 Hallowed Priest
+1 Plains
+1 Griffin Aerie
 2 Wind-Scarred Crag
 2 Plains
 2 Lunarch Veteran
@@ -98,9 +120,3 @@
 5 Plains
 6 Plains
 7 Plains
-1 Kazuul's Fury
-1 Goblin Ringleader
-1 Goro-Goro, Disciple of Ryusei
-2 Goblin Ringleader
-4 Goblin Instigator
-21 Mountain

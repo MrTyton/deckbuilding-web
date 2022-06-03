@@ -79,14 +79,14 @@
 3 Eyetwitch
 4 Mountain
 2 Sorin the Mirthless
-2 Light Up the Night
 2 Soul Shatter
-1 Agadeem's Awakening
-1 Junji, the Midnight Sky
-1 Inscription of Ruin
+2 Light Up the Night
 1 March of Wretched Sorrow
-1 Culling Ritual
+1 Agadeem's Awakening
+1 Inscription of Ruin
 1 Acquisitions Expert
+1 Junji, the Midnight Sky
+1 Culling Ritual
 1 Warlock Class
 1 Harness Infinity
 1 Check for Traps
@@ -96,13 +96,13 @@
 2 Acquisitions Expert
 2 Demogorgon's Clutches
 3 Hive of the Eye Tyrant
-1 Jadar, Ghoulcaller of Nephalia
 1 Extus, Oriq Overlord
-1 Brightclimb Pathway
+1 Jadar, Ghoulcaller of Nephalia
 1 Branchloft Pathway
-2 Jadar, Ghoulcaller of Nephalia
+1 Brightclimb Pathway
 2 Extus, Oriq Overlord
 2 Brightclimb Pathway
+2 Jadar, Ghoulcaller of Nephalia
 2 Branchloft Pathway
 3 Jaspera Sentinel
 3 Extus, Oriq Overlord
@@ -133,27 +133,27 @@
 3 Strangle
 4 Riveteers Charm
 4 Unlucky Witness
-4 Strangle
 4 Eyetwitch
-1 Voldaren Epicure
+4 Strangle
 1 Oni-Cult Anvil
 1 Experimental Synthesizer
+1 Voldaren Epicure
 1 Sokenzan Smelter
-2 Voldaren Epicure
 2 Oni-Cult Anvil
-2 Experimental Synthesizer
 2 Den of the Bugbear
+2 Experimental Synthesizer
 2 Sokenzan Smelter
-3 Voldaren Epicure
+2 Voldaren Epicure
 3 Oni-Cult Anvil
 3 Experimental Synthesizer
 3 Voltage Surge
+3 Voldaren Epicure
 3 Sokenzan Smelter
-4 Oni-Cult Anvil
-4 Voldaren Epicure
-4 The Meathook Massacre
 4 Experimental Synthesizer
+4 The Meathook Massacre
+4 Oni-Cult Anvil
 4 Voltage Surge
+4 Voldaren Epicure
 4 Sokenzan Smelter
 1 Sarulf, Realm Eater
 1 Masked Vandal
@@ -161,41 +161,41 @@
 1 Kardur's Vicious Return
 2 Sarulf, Realm Eater
 2 Sokenzan, Crucible of Defiance
-2 Masked Vandal
 2 Atsushi, the Blazing Sky
+2 Masked Vandal
 2 Kardur's Vicious Return
 3 Kardur's Vicious Return
 3 Masked Vandal
 4 Deathcap Glade
 4 Infernal Grasp
 4 Masked Vandal
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
+1 Baleful Mastery
+1 Fell Stinger
 1 Sulfurous Mire
 1 Malakir Rebirth
-1 Snow-Covered Swamp
-1 Snow-Covered Mountain
-1 Fell Stinger
-1 Baleful Mastery
 1 Blood on the Snow
 1 Hero's Downfall
-2 Sulfurous Mire
-2 Fell Stinger
-2 Blood on the Snow
-2 Snow-Covered Swamp
 2 Snow-Covered Mountain
-3 Sulfurous Mire
-3 Fell Stinger
-3 Blood on the Snow
-3 Snow-Covered Swamp
+2 Snow-Covered Swamp
+2 Fell Stinger
+2 Sulfurous Mire
+2 Blood on the Snow
 3 Snow-Covered Mountain
 3 Lolth, Spider Queen
-4 Sulfurous Mire
-4 Snow-Covered Swamp
-4 Blood on the Snow
+3 Snow-Covered Swamp
+3 Fell Stinger
+3 Sulfurous Mire
+3 Blood on the Snow
 4 Snow-Covered Mountain
-5 Snow-Covered Swamp
+4 Blood on the Snow
+4 Snow-Covered Swamp
+4 Sulfurous Mire
 5 Snow-Covered Mountain
-6 Snow-Covered Swamp
+5 Snow-Covered Swamp
 6 Snow-Covered Mountain
+6 Snow-Covered Swamp
 7 Snow-Covered Mountain
 7 Snow-Covered Swamp
 1 Howlpack Piper
@@ -207,9 +207,9 @@
 1 The Celestus
 1 Mulch
 1 Old Gnawbone
+1 The World Tree
 1 Vorinclex, Monstrous Raider
 1 Dryad's Revival
-1 The World Tree
 1 Necroblossom Snarl
 1 Bloodchief's Thirst
 1 Olivia, Crimson Bride
@@ -219,10 +219,10 @@
 2 Bloodchief's Thirst
 2 Howlpack Piper
 2 Tangled Florahedron
+2 The Celestus
 2 Cathartic Pyre
 2 Mulch
 2 Olivia, Crimson Bride
-2 The Celestus
 3 Howlpack Piper
 3 Cathartic Pyre
 3 Forest

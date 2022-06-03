@@ -11,8 +11,8 @@
 1 Island
 1 Plains
 1 Valakut, the Molten Pinnacle
-1 Mountain
 1 Bring to Light
+1 Mountain
 1 Scapeshift
 1 Dryad of the Ilysian Grove
 2 Valakut, the Molten Pinnacle
@@ -23,8 +23,8 @@
 4 Dryad of the Ilysian Grove
 4 Valakut, the Molten Pinnacle
 2 Ketria Triome
-1 Valki, God of Lies
 1 Arboreal Grazer
+1 Valki, God of Lies
 2 Bring to Light
 2 Arboreal Grazer
 3 Bring to Light
@@ -34,19 +34,19 @@
 1 Savai Triome
 2 Supreme Verdict
 1 Jace, the Mind Sculptor
-1 Kiki-Jiki, Mirror Breaker
-1 Karmic Guide
-1 Vivien on the Hunt
-1 Planebound Accomplice
-1 Utopia Sprawl
 1 Oath of Nissa
+1 Kiki-Jiki, Mirror Breaker
+1 Utopia Sprawl
 1 Felidar Guardian
-2 Vivien on the Hunt
+1 Planebound Accomplice
+1 Vivien on the Hunt
+1 Karmic Guide
 2 Utopia Sprawl
 2 Oath of Nissa
 2 Felidar Guardian
-3 Vivien on the Hunt
+2 Vivien on the Hunt
 3 Utopia Sprawl
+3 Vivien on the Hunt
 4 Utopia Sprawl
 4 Vivien on the Hunt
 1 Jetmir's Garden
@@ -55,19 +55,19 @@
 3 Unholy Heat
 3 Fury
 1 Arbor Elf
-2 Planebound Accomplice
 2 Arbor Elf
+2 Planebound Accomplice
 3 Oath of Nissa
-3 Planebound Accomplice
 3 Arbor Elf
 3 Felidar Guardian
+3 Planebound Accomplice
 4 Oath of Nissa
-4 Planebound Accomplice
 4 Arbor Elf
 4 Felidar Guardian
+4 Planebound Accomplice
 1 Renegade Rallier
-2 Renegade Rallier
 2 Snow-Covered Forest
+2 Renegade Rallier
 4 Wooded Foothills
 3 Eladamri's Call
 1 Spreading Seas
@@ -99,9 +99,9 @@
 2 Force of Negation
 1 Brought Back
 2 Brought Back
+1 Fiery Islet
 1 Seasoned Pyromancer
 1 Arid Mesa
-1 Fiery Islet
 1 Sanctifier en-Vec
 2 Seasoned Pyromancer
 2 Arid Mesa
