@@ -1,67 +1,68 @@
-1 Palace Jailer
-1 Recruiter of the Guard
-1 Skyclave Apparition
 2 Recruiter of the Guard
 3 Recruiter of the Guard
 4 Marsh Flats
-4 Aether Vial
 1 Snow-Covered Swamp
+4 Aether Vial
+1 Volcanic Island
+2 Daze
 1 Unearth
 4 Nomads en-Kor
 1 Force of Negation
+2 Island
 3 Scalding Tarn
 1 Umezawa's Jitte
+1 True-Name Nemesis
 3 Daze
+2 True-Name Nemesis
 1 Wasteland
 2 Wasteland
-1 True-Name Nemesis
 1 Delver of Secrets
+1 Stifle
 2 Delver of Secrets
+2 Stifle
 3 Delver of Secrets
 3 Wasteland
 4 Wasteland
 4 Delver of Secrets
 4 Daze
-2 True-Name Nemesis
-1 Stifle
-2 Stifle
+2 Snapcaster Mage
 3 True-Name Nemesis
 3 Stifle
 4 Stifle
-2 Snapcaster Mage
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
+3 Snapcaster Mage
 1 Swamp
+2 Snow-Covered Island
 2 Force of Negation
 2 Misty Rainforest
-3 Snapcaster Mage
+1 Narset, Parter of Veils
 1 Mystic Sanctuary
-1 Murktide Regent
-2 Murktide Regent
-3 Murktide Regent
-4 Murktide Regent
+3 Misty Rainforest
 1 Dragon's Rage Channeler
 1 Expressive Iteration
+1 Murktide Regent
 2 Dragon's Rage Channeler
 2 Expressive Iteration
 2 Volcanic Island
+2 Murktide Regent
 3 Expressive Iteration
 3 Dragon's Rage Channeler
 3 Volcanic Island
+3 Murktide Regent
+4 Murktide Regent
 4 Volcanic Island
 4 Expressive Iteration
 4 Dragon's Rage Channeler
-3 Misty Rainforest
-1 Narset, Parter of Veils
-3 Island
 4 Underground Sea
-2 Snow-Covered Island
 1 Jace, the Mind Sculptor
 1 Prismatic Vista
 4 Scalding Tarn
+1 Tropical Island
 4 Prismatic Ending
 4 Misty Rainforest
 2 Narset, Parter of Veils
+3 Island
 2 Jace, the Mind Sculptor
 2 Prismatic Vista
 3 Prismatic Vista
@@ -72,7 +73,6 @@
 1 Snow-Covered Forest
 1 Uro, Titan of Nature's Wrath
 1 Sylvan Library
-1 Tropical Island
 2 Uro, Titan of Nature's Wrath
 2 Tropical Island
 1 Cavern of Souls
@@ -80,6 +80,7 @@
 3 Jace, the Mind Sculptor
 1 Archon of Valor's Reach
 1 Spara's Headquarters
+1 Teferi, Hero of Dominaria
 1 Drownyard Temple
 1 Serum Visions
 1 Valakut, the Molten Pinnacle
@@ -88,7 +89,6 @@
 1 Battle of Wits
 1 Retrofitter Foundry
 1 Shadowspear
-1 Teferi, Hero of Dominaria
 1 Day's Undoing
 1 Raffine's Tower
 1 Prismatic Omen
@@ -97,9 +97,9 @@
 1 Indatha Triome
 1 Sea Gate Restoration
 1 Assassin's Trophy
-1 Enlightened Tutor
 1 Zagoth Triome
 1 Jace, Vryn's Prodigy
+1 Enlightened Tutor
 1 Coiling Oracle
 1 Abrupt Decay
 1 The Tabernacle at Pendrell Vale
@@ -185,8 +185,8 @@
 3 Unlicensed Hearse
 3 Verdant Catacombs
 3 Coiling Oracle
-3 Abrupt Decay
 3 Jace, Vryn's Prodigy
+3 Abrupt Decay
 3 Preordain
 3 Flagstones of Trokair
 3 Assassin's Trophy
@@ -225,20 +225,20 @@
 4 Crop Rotation
 4 Green Sun's Zenith
 4 Field of the Dead
-1 Spell Pierce
 1 Glasspool Mimic
-1 Esper Sentinel
-2 Esper Sentinel
+1 Spell Pierce
 1 Kaya, Orzhov Usurper
 1 Inquisition of Kozilek
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
+1 Esper Sentinel
+2 Esper Sentinel
 2 Plains
 1 Back to Basics
 3 Esper Sentinel
+1 Supreme Verdict
 1 Timeless Dragon
-2 Spell Pierce
 1 Void Rend
 2 Void Rend
 2 Solitude
