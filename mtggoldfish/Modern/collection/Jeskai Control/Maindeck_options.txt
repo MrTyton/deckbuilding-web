@@ -1,27 +1,35 @@
 3 Mystic Gate
-1 Glacial Fortress
 2 Steam Vents
+2 The Wandering Emperor
 1 Dress Down
 2 Dress Down
 4 Opt
 1 Jace, the Mind Sculptor
-4 Solitude
-3 Fire/Ice
 1 Lightning Bolt
 2 Lightning Bolt
 3 Lightning Bolt
-3 March of Otherworldly Light
-1 Chalice of the Void
-1 Castle Ardenvale
+4 Solitude
 3 Scalding Tarn
 1 Expressive Iteration
-1 Shark Typhoon
-1 Spreading Seas
-2 Spreading Seas
+3 Fire/Ice
 4 Lightning Bolt
 2 Expressive Iteration
-2 Plains
+1 Chalice of the Void
 4 Scalding Tarn
+1 Ragavan, Nimble Pilferer
+3 Expressive Iteration
+4 Expressive Iteration
+1 Sulfur Falls
+1 Batterskull
+1 Kaldra Compleat
+1 Stoneforge Mystic
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+4 Stoneforge Mystic
+1 Shark Typhoon
+3 March of Otherworldly Light
+1 Castle Ardenvale
+2 Plains
 1 Mountain
 1 Sacred Foundry
 2 Raugrin Triome
@@ -59,23 +67,14 @@
 4 Valakut Awakening
 4 Teferi, Hero of Dominaria
 4 Memory Deluge
-1 Ragavan, Nimble Pilferer
-3 Expressive Iteration
-4 Expressive Iteration
-1 Sulfur Falls
-1 Batterskull
-1 Kaldra Compleat
-1 Stoneforge Mystic
-2 Stoneforge Mystic
-3 Stoneforge Mystic
-4 Stoneforge Mystic
-1 Breeding Pool
+1 Spreading Seas
+2 Spreading Seas
 3 Supreme Verdict
-4 Teferi, Time Raveler
 2 Ragavan, Nimble Pilferer
 2 Polluted Delta
 3 Chalice of the Void
-1 Spara's Headquarters
+1 Breeding Pool
+4 Teferi, Time Raveler
 1 Field of Ruin
 2 Field of Ruin
 2 Jace, the Mind Sculptor
@@ -85,6 +84,7 @@
 3 Consider
 1 Geist of Saint Traft
 1 Spell Pierce
+1 Spara's Headquarters
 1 Relic of Progenitus
 2 Geist of Saint Traft
 3 The Wandering Emperor
@@ -94,16 +94,14 @@
 2 Windswept Heath
 3 Spreading Seas
 4 Spreading Seas
-3 Hallowed Fountain
+3 Polluted Delta
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
-3 Polluted Delta
 1 Arid Mesa
 1 Lightning Helix
 1 Xander's Lounge
 1 Azorius Chancery
-4 Island
 1 Eiganjo, Seat of the Empire
 1 Force of Negation
 4 Consider
@@ -131,6 +129,11 @@
 2 Lightning Helix
 2 Nahiri, the Harbinger
 2 Wrath of God
+1 Subtlety
+2 Subtlety
+3 Subtlety
+4 Subtlety
+3 Hallowed Fountain
 4 Snow-Covered Island
 4 March of Otherworldly Light
 4 Polluted Delta
@@ -159,8 +162,8 @@
 3 Oust
 4 Frantic Inventory
 4 Oust
-1 Sword of Feast and Famine
 1 Sword of Fire and Ice
+1 Sword of Feast and Famine
 1 Fervent Champion
 2 Glacial Fortress
 2 Fervent Champion
@@ -173,6 +176,7 @@
 2 Blood Moon
 2 Thought Scour
 3 Thought Scour
+4 Island
 4 Thought Scour
 5 Island
 6 Island

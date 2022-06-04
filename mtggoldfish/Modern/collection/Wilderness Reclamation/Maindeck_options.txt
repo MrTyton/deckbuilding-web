@@ -64,38 +64,37 @@
 1 Bloodbraid Elf
 1 Bloodstained Mire
 1 Drowned Catacomb
+1 Fact or Fiction
 1 Swamp
 1 Blood Crypt
 1 Murktide Regent
-1 Fact or Fiction
 1 Arid Mesa
 1 Ledger Shredder
 1 Overgrown Tomb
 1 Deflecting Palm
-1 Noble Hierarch
+1 Time Warp
+1 Kiki-Jiki, Mirror Breaker
 1 The Reality Chip
 1 Ragavan, Nimble Pilferer
 1 Xander's Lounge
-1 Time Warp
+1 Noble Hierarch
 1 Bring to Light
 1 Valki, God of Lies
-1 Kiki-Jiki, Mirror Breaker
 1 Birds of Paradise
 1 Goldspan Dragon
 1 Emrakul, the Aeons Torn
-1 Flamekin Harbinger
 1 Trading Post
 1 Sunpetal Grove
+1 Flamekin Harbinger
 1 Sacred Foundry
-1 Dragonskull Summit
 1 Abundant Harvest
 1 Expressive Iteration
 1 Deceiver Exarch
 1 The Kami War
-1 Eternal Witness
 1 Neoform
 1 Indatha Triome
 1 Siege Rhino
+1 Eternal Witness
 1 The World Tree
 1 Platinum Emperion
 1 Settle the Wreckage
@@ -153,6 +152,7 @@
 1 Ephemerate
 1 Primeval Titan
 1 Devastation Tide
+1 Dragonskull Summit
 1 Sailor of Means
 1 Kess, Dissident Mage
 1 Terminus
@@ -180,8 +180,8 @@
 2 Fury
 2 Arid Mesa
 2 Raugrin Triome
-2 Noble Hierarch
 2 Ragavan, Nimble Pilferer
+2 Noble Hierarch
 2 Bring to Light
 2 Sulfur Falls
 2 Sunpetal Grove
@@ -204,17 +204,17 @@
 2 Eladamri's Call
 2 Massive Raid
 3 Utopia Sprawl
-3 Explore
 3 Fury
+3 Explore
 3 Arid Mesa
+3 Ragavan, Nimble Pilferer
 3 Temple Garden
 3 Noble Hierarch
-3 Ragavan, Nimble Pilferer
 3 Bring to Light
-3 Sacred Foundry
 3 Windswept Heath
 3 Steam Vents
 3 Expressive Iteration
+3 Sacred Foundry
 3 Raugrin Triome
 3 Risen Reef
 3 Glimpse of Tomorrow
@@ -227,18 +227,18 @@
 3 Stomping Ground
 3 Wooded Foothills
 3 Battle of Wits
-4 Utopia Sprawl
 4 Arid Mesa
+4 Utopia Sprawl
 4 Explore
 4 Teferi, Time Raveler
+4 Windswept Heath
+4 Ragavan, Nimble Pilferer
 4 Temple Garden
 4 Noble Hierarch
-4 Sacred Foundry
-4 Ragavan, Nimble Pilferer
 4 Bring to Light
 4 Expressive Iteration
-4 Windswept Heath
 4 Steam Vents
+4 Sacred Foundry
 4 Breeding Pool
 4 Battle of Wits
 4 Risen Reef
@@ -286,9 +286,9 @@
 2 Watery Grave
 2 Consider
 2 Polluted Delta
-3 Fatal Push
 3 Consider
 3 Polluted Delta
+3 Fatal Push
 4 Fatal Push
 4 Consider
 1 Blue Sun's Zenith
@@ -342,8 +342,8 @@
 4 Wrenn and Six
 1 Eiganjo, Seat of the Empire
 1 Chalice of the Void
-2 The Wandering Emperor
 2 Chalice of the Void
+2 The Wandering Emperor
 2 Glacial Fortress
 3 The Wandering Emperor
 3 Chalice of the Void

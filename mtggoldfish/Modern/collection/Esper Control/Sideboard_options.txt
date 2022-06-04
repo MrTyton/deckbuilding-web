@@ -1,6 +1,6 @@
 1 Thoughtseize
+1 Engineered Explosives
 1 Nihil Spellbomb
-1 Stony Silence
 2 Rest in Peace
 1 Kaheera, the Orphanguard
 2 Dress Down
@@ -11,35 +11,37 @@
 1 Shark Typhoon
 1 Force of Negation
 2 Unmoored Ego
+1 Surgical Extraction
 2 Engineered Explosives
 1 Emrakul, the Promised End
 2 Thoughtseize
 1 Relic of Progenitus
-1 Surgical Extraction
 1 Blossoming Calm
+3 Dovin's Veto
 1 Aether Gust
 3 Thoughtseize
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 2 Nihil Spellbomb
-3 Dovin's Veto
-1 Noxious Grasp
-1 Hullbreaker Horror
-1 Leyline of Sanctity
+1 Prismatic Ending
+1 Duress
+2 Duress
+1 Spreading Seas
+1 Narset, Parter of Veils
 1 Sunset Revelry
-1 Vindicate
+1 Noxious Grasp
+1 Leyline of Sanctity
+2 Prismatic Ending
 2 Leyline of Sanctity
 3 Leyline of Sanctity
+1 Vindicate
+1 Hullbreaker Horror
 1 Flusterstorm
 2 Blossoming Calm
 1 Hurkyl's Recall
 2 Noxious Grasp
 2 Vindicate
-1 Prismatic Ending
-1 Duress
 2 Soul-Guide Lantern
-2 Duress
-1 Narset, Parter of Veils
 2 Force of Negation
 1 Solitude
 1 Yorion, Sky Nomad
@@ -48,10 +50,9 @@
 1 Damn
 3 Chalice of the Void
 1 Fracture
-1 Spreading Seas
 2 Spreading Seas
 1 Emrakul, the Aeons Torn
-2 Prismatic Ending
+1 Unlicensed Hearse
 1 March of Otherworldly Light
 2 March of Otherworldly Light
 1 Leyline of the Void
@@ -70,14 +71,15 @@
 1 Plague Engineer
 1 Cling to Dust
 2 Spell Pierce
-1 Unlicensed Hearse
 1 The Wandering Emperor
 2 Stony Silence
 2 Shark Typhoon
+1 Tourach, Dread Cantor
+2 Tourach, Dread Cantor
 2 Fracture
-1 Lavinia, Azorius Renegade
 1 Karn, the Great Creator
 1 Vanishing Verse
+1 Lavinia, Azorius Renegade
 1 Shadowspear
 1 Damping Sphere
 1 The Elderspell
@@ -89,6 +91,11 @@
 2 Summary Dismissal
 1 Esper Charm
 2 Esper Charm
+2 Celestial Purge
+1 Void Winnower
+1 Fragmentize
+2 Hullbreaker Horror
+2 Fragmentize
 1 Geist of Saint Traft
 1 Void Mirror
 1 Echoing Truth
@@ -97,11 +104,6 @@
 2 Void Mirror
 2 Supreme Verdict
 2 Echoing Truth
-2 Celestial Purge
-1 Void Winnower
-1 Fragmentize
-2 Hullbreaker Horror
-2 Fragmentize
 3 Leyline of the Void
 3 Dress Down
 3 Teferi, Time Raveler
@@ -115,16 +117,6 @@
 2 Murderous Rider
 2 The Eldest Reborn
 3 Kaya's Guile
-1 Drannith Magistrate
-1 Fulminator Mage
-1 Kataki, War's Wage
-1 Lingering Souls
-1 Collective Brutality
-2 Fulminator Mage
-2 Lingering Souls
-2 Collective Brutality
-3 Lingering Souls
-3 Fulminator Mage
 1 Cryptic Command
 3 Nihil Spellbomb
 3 Prismatic Ending

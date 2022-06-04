@@ -49,9 +49,9 @@
 1 Sokenzan, Crucible of Defiance
 1 Experimental Synthesizer
 1 Voldaren Epicure
-2 Haunted Ridge
 2 Voldaren Epicure
 2 Experimental Synthesizer
+2 Haunted Ridge
 3 Voldaren Epicure
 4 Voldaren Epicure
 2 Soul-Guide Lantern
@@ -89,19 +89,19 @@
 4 Claim the Firstborn
 4 Fabled Passage
 1 Liliana, Dreadhorde General
-1 Judith, the Scourge Diva
+1 Kroxa, Titan of Death's Hunger
 1 Heartfire
 1 Chandra, Acolyte of Flame
 1 Body Dropper
-1 Kroxa, Titan of Death's Hunger
+1 Judith, the Scourge Diva
 1 Dreadhorde Butcher
-2 Judith, the Scourge Diva
+2 Castle Locthwain
+2 Kroxa, Titan of Death's Hunger
 2 Dreadhorde Butcher
 2 Heartfire
 2 Chandra, Acolyte of Flame
-2 Kroxa, Titan of Death's Hunger
+2 Judith, the Scourge Diva
 2 Body Dropper
-2 Castle Locthwain
 3 Kroxa, Titan of Death's Hunger
 3 Dreadhorde Butcher
 3 Heartfire
@@ -112,55 +112,55 @@
 1 Yawgmoth, Thran Physician
 2 Unlicensed Hearse
 2 Bolas's Citadel
+1 Deathcap Glade
+1 Inquisition of Kozilek
+2 Deathcap Glade
 1 Mortality Spear
 1 Eaten Alive
 2 Mortality Spear
-1 Inquisition of Kozilek
-1 Deathcap Glade
-2 Deathcap Glade
 1 Showdown of the Skalds
-1 Sundown Pass
-1 Blood Fountain
 1 Brightclimb Pathway
-1 Voltage Surge
 1 Godless Shrine
+1 Blood Fountain
+1 Sacred Foundry
+1 Voltage Surge
+1 Sundown Pass
 1 Needleverge Pathway
 1 Goblin Engineer
-1 Sacred Foundry
 2 Showdown of the Skalds
+2 Sundown Pass
 2 Voltage Surge
 2 Blood Fountain
-2 Sundown Pass
 2 Needleverge Pathway
+3 Sundown Pass
 3 Showdown of the Skalds
 3 Voltage Surge
-3 Sundown Pass
 4 Showdown of the Skalds
 4 Voltage Surge
-1 Infernal Grasp
 1 Rootbound Crag
+1 Infernal Grasp
 2 Rootbound Crag
 2 Infernal Grasp
 3 Infernal Grasp
 4 Infernal Grasp
+1 Vraska, Golgari Queen
+1 Nissa of Shadowed Boughs
+1 Garruk, Cursed Huntsman
+3 Shambling Ghast
+4 Shambling Ghast
 1 Strangle
 2 Strangle
 4 Fable of the Mirror-Breaker
 1 Scrapheap Scrounger
 1 Collected Company
-2 Priest of Forgotten Gods
 2 Scrapheap Scrounger
+2 Priest of Forgotten Gods
 2 Collected Company
 3 Collected Company
 3 Priest of Forgotten Gods
 4 Collected Company
 4 Priest of Forgotten Gods
 4 Woe Strider
-1 Vraska, Golgari Queen
-1 Nissa of Shadowed Boughs
-1 Garruk, Cursed Huntsman
-3 Shambling Ghast
-4 Shambling Ghast
 1 Village Rites
 2 Village Rites
 4 Khalni Garden
@@ -218,8 +218,8 @@
 4 Mountain
 5 Mountain
 5 Swamp
-6 Swamp
 6 Mountain
-7 Swamp
+6 Swamp
 7 Mountain
+7 Swamp
 8 Swamp

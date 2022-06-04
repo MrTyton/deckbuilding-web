@@ -58,7 +58,7 @@
 |                    3|Barkchannel Pathway                                                                               |                     |                                                                                            |
 |                    3|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)      |                     |                                                                                            |
 |                    3|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)       |                     |                                                                                            |
-|                    4|[Reflector Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407667)         |                     |                                                                                            |
 |                    4|[Extraction Specialist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555213)  |                     |                                                                                            |
+|                    4|[Reflector Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407667)         |                     |                                                                                            |
 |                    4|[Thraben Inspector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409784)      |                     |                                                                                            |
 

@@ -1,15 +1,15 @@
-1 Chalice of the Void
-2 Memory Deluge
-2 Chalice of the Void
+1 Opt
+2 Opt
+3 Opt
 4 Teferi, Time Raveler
 2 Dress Down
-3 Snapcaster Mage
 2 The Wandering Emperor
-4 Opt
 1 Polluted Delta
+3 Snapcaster Mage
+2 Polluted Delta
+4 Opt
 3 Scalding Tarn
 3 Fire/Ice
-2 Polluted Delta
 1 Misty Rainforest
 1 Shark Typhoon
 2 Plains
@@ -34,6 +34,7 @@
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
+3 Polluted Delta
 1 Field of Ruin
 2 Field of Ruin
 5 Island
@@ -41,8 +42,8 @@
 4 Scalding Tarn
 1 Raffine's Tower
 1 Marsh Flats
+4 Polluted Delta
 2 Shark Typhoon
-3 Polluted Delta
 1 Arid Mesa
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
@@ -64,8 +65,7 @@
 1 Settle the Wreckage
 3 Castle Vantress
 3 Shark Typhoon
-3 Memory Deluge
-6 Island
 4 Fire/Ice
 4 Mystic Gate
-4 Polluted Delta
+6 Island
+3 Memory Deluge

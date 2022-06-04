@@ -32,9 +32,9 @@
 2 Swamp
 2 Bloodstained Mire
 1 Sacred Foundry
-1 Fable of the Mirror-Breaker
 1 Arid Mesa
 1 Touch the Spirit Realm
+1 Fable of the Mirror-Breaker
 1 Blood Crypt
 1 Seasoned Pyromancer
 2 Blood Crypt
@@ -153,13 +153,13 @@
 1 Darkblast
 1 Jace, Vryn's Prodigy
 2 Jace, Vryn's Prodigy
-1 Obscura Charm
-1 Castle Vantress
-2 Darkslick Shores
 1 Surgical Extraction
 2 Surgical Extraction
 1 Dovin's Veto
 2 Dovin's Veto
+1 Obscura Charm
+1 Castle Vantress
+2 Darkslick Shores
 2 Drown in the Loch
 3 Drown in the Loch
 4 Drown in the Loch
@@ -169,18 +169,6 @@
 3 Sacred Foundry
 3 Blood Crypt
 4 Blood Crypt
-1 Stoneforge Mystic
-1 Kaldra Compleat
-1 Batterskull
-1 Caves of Koilos
-2 Stoneforge Mystic
-2 Caves of Koilos
-3 Stoneforge Mystic
-3 Malakir Rebirth
-3 Caves of Koilos
-4 Stoneforge Mystic
-4 Malakir Rebirth
-4 Silent Clearing
 1 Wurmcoil Engine
 1 Prismatic Vista
 1 Grave Titan
@@ -192,14 +180,26 @@
 3 Raffine's Informant
 3 Urborg, Tomb of Yawgmoth
 4 Stitcher's Supplier
-4 Godless Shrine
 4 Raffine's Informant
+4 Godless Shrine
+1 Stoneforge Mystic
+1 Kaldra Compleat
+1 Batterskull
+1 Caves of Koilos
+2 Stoneforge Mystic
+2 Caves of Koilos
+3 Stoneforge Mystic
+3 Malakir Rebirth
+3 Caves of Koilos
+4 Silent Clearing
+4 Stoneforge Mystic
+4 Malakir Rebirth
+1 Eternal Witness
 1 Satyr Wayfinder
 1 Siege Rhino
 1 Temple Garden
 1 Grisly Salvage
 1 Forest
-1 Eternal Witness
 2 Overgrown Tomb
 2 Temple Garden
 2 Forest
