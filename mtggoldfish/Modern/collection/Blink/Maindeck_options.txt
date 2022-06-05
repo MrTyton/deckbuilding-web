@@ -35,8 +35,8 @@
 1 Utopia Sprawl
 1 Traverse the Ulvenwald
 1 Mishra's Bauble
-1 Nimble Obstructionist
 1 Prairie Stream
+1 Nimble Obstructionist
 2 Mishra's Bauble
 2 Traverse the Ulvenwald
 3 Mishra's Bauble
@@ -57,14 +57,14 @@
 1 Jetmir's Garden
 1 Knight of Autumn
 1 Horizon Canopy
-1 Skyclave Apparition
 1 Prismatic Vista
+1 Skyclave Apparition
 1 Soulherder
 2 Skyclave Apparition
 2 Soulherder
 3 Skyclave Apparition
-1 Rimewood Falls
 1 Glacial Floodplain
+1 Rimewood Falls
 3 Snow-Covered Island
 1 Noble Hierarch
 2 Noble Hierarch
@@ -80,11 +80,11 @@
 1 Spell Queller
 2 Spell Queller
 1 Wall of Omens
+1 Verdant Catacombs
 1 Marsh Flats
 1 Godless Shrine
 1 Snow-Covered Swamp
 1 Overgrown Tomb
-1 Verdant Catacombs
 1 Assassin's Trophy
 1 Valki, God of Lies
 1 Sylvan Caryatid
@@ -106,19 +106,19 @@
 1 Engineered Explosives
 2 Arid Mesa
 2 Brought Back
-3 Brought Back
 3 Arid Mesa
+3 Brought Back
 4 Brought Back
 4 Arid Mesa
 2 Horizon Canopy
-1 Waterlogged Grove
-1 Vivien on the Hunt
 1 Karmic Guide
+1 Vivien on the Hunt
+1 Waterlogged Grove
 1 Felidar Guardian
-2 Breeding Pool
-2 Temple Garden
 2 Vivien on the Hunt
 2 Prismatic Vista
+2 Breeding Pool
+2 Temple Garden
 3 Vivien on the Hunt
 3 Soulherder
 4 Vivien on the Hunt
@@ -131,9 +131,9 @@
 2 Hall of Storm Giants
 2 Supreme Verdict
 2 Polluted Delta
-3 Hall of Storm Giants
-3 Teferi, Hero of Dominaria
 3 Memory Deluge
+3 Teferi, Hero of Dominaria
+3 Hall of Storm Giants
 3 Chalice of the Void
 3 Polluted Delta
 4 Snow-Covered Island
@@ -142,8 +142,8 @@
 5 Snow-Covered Island
 1 Charming Prince
 2 Charming Prince
-1 Path to Exile
 1 Venser, Shaper Savant
+1 Path to Exile
 1 Deep Forest Hermit
 1 Coiling Oracle
 2 Path to Exile
@@ -151,12 +151,12 @@
 3 Path to Exile
 3 Coiling Oracle
 4 Ephemerate
+1 Batterskull
 1 Stoneforge Mystic
 1 Kaldra Compleat
 1 Force of Negation
-1 Batterskull
-1 Brokers Charm
 1 Sword of Feast and Famine
+1 Brokers Charm
 2 Stoneforge Mystic
 2 Force of Negation
 2 Brokers Charm
@@ -172,41 +172,40 @@
 1 Fire/Ice
 1 Restoration Angel
 2 Steam Vents
-2 Cleansing Wildfire
+2 Wall of Omens
 2 Kiki-Jiki, Mirror Breaker
+2 Cleansing Wildfire
 2 Cascade Bluffs
 2 Island
 2 Restoration Angel
 2 Raugrin Triome
-2 Wall of Omens
 3 Island
 3 Cleansing Wildfire
+3 Wall of Omens
 3 Raugrin Triome
 3 Restoration Angel
-3 Wall of Omens
 3 Kiki-Jiki, Mirror Breaker
-4 Restoration Angel
 4 Wall of Omens
+4 Restoration Angel
 1 Adeline, Resplendent Cathar
 1 Cavern of Souls
 1 Extraction Specialist
 1 Unclaimed Territory
 1 Eiganjo, Seat of the Empire
-1 Pyre of Heroes
 1 Reflector Mage
 1 Thalia, Guardian of Thraben
 1 Thalia's Lieutenant
 1 Aether Vial
+1 Pyre of Heroes
 1 Champion of the Parish
 1 Secluded Courtyard
 1 Watcher for Tomorrow
 1 Whirler Rogue
-2 Plains
 2 Adeline, Resplendent Cathar
-2 Extraction Specialist
+2 Plains
 2 Cavern of Souls
+2 Extraction Specialist
 2 Unclaimed Territory
-2 Pyre of Heroes
 2 Reflector Mage
 2 Thalia, Guardian of Thraben
 2 Meddling Mage
@@ -214,12 +213,12 @@
 2 Thalia's Lieutenant
 2 Watcher for Tomorrow
 2 Secluded Courtyard
+2 Pyre of Heroes
 2 Aether Vial
 3 Adeline, Resplendent Cathar
-3 Unclaimed Territory
 3 Cavern of Souls
+3 Unclaimed Territory
 3 Horizon Canopy
-3 Pyre of Heroes
 3 Reflector Mage
 3 Meddling Mage
 3 Thalia, Guardian of Thraben
@@ -227,13 +226,14 @@
 3 Secluded Courtyard
 3 Thalia's Lieutenant
 3 Aether Vial
+3 Pyre of Heroes
 4 Secluded Courtyard
 4 Horizon Canopy
 4 Unclaimed Territory
 4 Cavern of Souls
-4 Pyre of Heroes
 4 Reflector Mage
 4 Meddling Mage
 4 Champion of the Parish
 4 Aether Vial
 4 Thalia's Lieutenant
+4 Pyre of Heroes

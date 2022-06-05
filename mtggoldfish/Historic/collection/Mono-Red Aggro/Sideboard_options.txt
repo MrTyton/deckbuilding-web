@@ -2,24 +2,25 @@
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
 2 Rampaging Ferocidon
-1 Soul-Guide Lantern
-2 Soul-Guide Lantern
 1 Fry
 2 Fry
+1 Soul-Guide Lantern
+2 Soul-Guide Lantern
 1 Hazoret the Fervent
 1 Reckless Stormseeker
 1 Shatterstorm
 3 Abrade
 1 Grafdigger's Cage
-3 Rampaging Ferocidon
 1 Bonecrusher Giant
 2 Grafdigger's Cage
 3 Soul-Guide Lantern
-1 Flame-Blessed Bolt
+3 Rampaging Ferocidon
+1 Burning Hands
 4 Roiling Vortex
 1 Goblin Chainwhirler
 1 The Akroan War
 2 The Akroan War
+3 Grafdigger's Cage
 3 The Akroan War
 1 Scorching Dragonfire
 1 Burn Down the House
@@ -30,25 +31,26 @@
 2 Soul Sear
 2 Scorching Dragonfire
 3 Burn Down the House
+1 Flame-Blessed Bolt
 2 Flame-Blessed Bolt
-1 Chandra, Dressed to Kill
 1 Pillar of Flame
 2 Pillar of Flame
-3 Grafdigger's Cage
 1 Cemetery Gatekeeper
-2 Chandra, Dressed to Kill
 2 Embereth Shieldbreaker
 4 Rampaging Ferocidon
-1 Burning Hands
+1 Chandra, Dressed to Kill
 1 Anax, Hardened in the Forge
 2 Anax, Hardened in the Forge
 1 Lava Coil
+2 Burning Hands
+1 Molten Impact
+2 Molten Impact
+2 Chandra, Dressed to Kill
 1 Raze the Effigy
 2 Lava Coil
 3 Lava Coil
 1 Play with Fire
 2 Play with Fire
-1 Obosh, the Preypiercer
 1 Shadowspear
 1 Chandra's Defeat
 1 Dire Fleet Daredevil
@@ -58,12 +60,6 @@
 2 Magma Spray
 2 Hazoret the Fervent
 2 Bonecrusher Giant
-1 Reinforced Ronin
-1 Pithing Needle
-1 By Force
-2 Pithing Needle
-2 Reinforced Ronin
-2 By Force
 1 Unholy Heat
 1 Smelt
 2 Unholy Heat
@@ -83,7 +79,6 @@
 2 Unchained Berserker
 3 Unchained Berserker
 1 Fanatical Firebrand
-2 Burning Hands
 2 Fanatical Firebrand
 3 Burning Hands
 1 Legion Warboss
@@ -102,6 +97,7 @@
 3 Barge In
 1 Ob Nixilis, the Adversary
 1 Thoughtseize
+1 Obosh, the Preypiercer
 1 Go Blank
 2 Ob Nixilis, the Adversary
 2 Go Blank
@@ -109,8 +105,6 @@
 3 Raze the Effigy
 3 Pillar of Flame
 1 Fable of the Mirror-Breaker
-1 Molten Impact
-2 Molten Impact
 3 Fry
 3 Chandra, Dressed to Kill
 1 Rest in Peace
@@ -127,6 +121,11 @@
 3 Fateful Absence
 3 Rest in Peace
 3 Archon of Emeria
+1 Aethersphere Harvester
+1 Redcap Melee
+2 Redcap Melee
+2 Aethersphere Harvester
+3 Aethersphere Harvester
 1 Conductive Current
 3 Anax, Hardened in the Forge
 4 Grafdigger's Cage
@@ -137,9 +136,9 @@
 1 Akoum Hellhound
 1 Roil Eruption
 2 Shatterskull Smashing
-2 Crawling Barrens
 2 Shock
 2 Akoum Hellhound
+2 Crawling Barrens
 3 Crawling Barrens
 3 Akoum Hellhound
 3 Shock

@@ -77,10 +77,18 @@
 3 Make Disappear
 1 Iymrith, Desert Doom
 1 Igneous Inspiration
-2 Otawara, Soaring City
 2 Igneous Inspiration
+2 Otawara, Soaring City
 3 Arcane Bombardment
-4 Voltage Surge
+3 Field of Ruin
+4 Field of Ruin
+4 Negate
+1 March of Swirling Mist
+1 Alchemist's Gambit
+2 March of Swirling Mist
+4 Strangle
+3 Smoldering Egg
+4 Smoldering Egg
 1 Snow-Covered Island
 1 Snow-Covered Mountain
 2 Snow-Covered Island
@@ -88,13 +96,7 @@
 3 Snow-Covered Island
 3 Snow-Covered Mountain
 4 Snow-Covered Island
-3 Field of Ruin
-4 Field of Ruin
-1 March of Swirling Mist
-1 Alchemist's Gambit
-2 March of Swirling Mist
-4 Strangle
-4 Negate
+4 Voltage Surge
 1 Malevolent Hermit
 1 Xander's Lounge
 1 Ledger Shredder
@@ -102,13 +104,11 @@
 2 Malevolent Hermit
 2 Spell Pierce
 2 Ledger Shredder
-3 Ledger Shredder
 3 Consider
+3 Ledger Shredder
 3 Thundering Rebuke
-4 Ledger Shredder
 4 Consider
-3 Smoldering Egg
-4 Smoldering Egg
+4 Ledger Shredder
 1 Syncopate
 1 Saw It Coming
 2 Syncopate
@@ -120,8 +120,8 @@
 3 Den of the Bugbear
 4 Wandering Mind
 1 Prismari Campus
-1 Crush the Weak
 1 Demon Bolt
+1 Crush the Weak
 1 Test of Talents
 2 Prismari Campus
 2 Test of Talents

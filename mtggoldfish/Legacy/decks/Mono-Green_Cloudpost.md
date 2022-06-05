@@ -68,6 +68,6 @@
 |                    1|[Cascading Cataracts](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426942)          |                    4|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)             |
 |                    1|[Shigeki, Jukai Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548515)     |                    2|[Boompile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420669)                 |
 |                    2|[Shigeki, Jukai Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548515)     |                     |                                                                                                    |
-|                    3|[Shigeki, Jukai Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548515)     |                     |                                                                                                    |
 |                    2|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)              |                     |                                                                                                    |
+|                    3|[Shigeki, Jukai Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548515)     |                     |                                                                                                    |
 

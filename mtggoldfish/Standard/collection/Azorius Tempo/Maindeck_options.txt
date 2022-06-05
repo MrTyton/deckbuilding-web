@@ -63,8 +63,8 @@
 1 Emeria's Call
 1 Sea Gate Restoration
 2 Sea Gate Restoration
-1 Touch the Spirit Realm
 1 Cemetery Protector
+1 Touch the Spirit Realm
 2 Thalia, Guardian of Thraben
 1 Clever Lumimancer
 2 Clever Lumimancer
@@ -97,8 +97,8 @@
 1 Sejiri Shelter
 2 Sejiri Shelter
 4 Consider
-1 Snow-Covered Island
 1 Snow-Covered Plains
+1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
@@ -160,8 +160,8 @@
 1 Boon of Safety
 2 Slip Out the Back
 2 Boon of Safety
-3 Boon of Safety
 3 Slip Out the Back
+3 Boon of Safety
 4 Slip Out the Back
 1 Thirst for Discovery
 2 Thirst for Discovery
@@ -181,37 +181,65 @@
 1 Glasspool Mimic
 1 Paladin Class
 2 Paladin Class
-1 Raffine's Tower
 1 Faithful Mending
+1 Raffine's Tower
 2 Faithful Mending
-3 Eiganjo, Seat of the Empire
 2 Legion Angel
 3 Cave of the Frost Dragon
+2 Otawara, Soaring City
+3 March of Swirling Mist
+3 Eiganjo, Seat of the Empire
 1 Show of Confidence
 2 Show of Confidence
 3 Show of Confidence
-2 Otawara, Soaring City
-3 March of Swirling Mist
-1 Dreamshackle Geist
-1 Grazilaxx, Illithid Scholar
+4 Fateful Absence
+1 Avalanche Caller
+1 Jace, Mirror Mage
+1 Pithing Needle
+1 Teferi, Who Slows the Sunset
+1 Doomskar
+2 Teferi, Who Slows the Sunset
+2 Jace, Mirror Mage
+2 Curate
+2 Doomskar
+2 Avalanche Caller
+2 Pithing Needle
+3 Teferi, Who Slows the Sunset
+3 Behold the Multiverse
+3 Avalanche Caller
+3 Doomskar
+3 Curate
+3 Starnheim Unleashed
+4 Doomskar
+4 Behold the Multiverse
+4 Avalanche Caller
+1 Dennick, Pious Apprentice
+1 Patrician Geist
+1 Katilda, Dawnhart Martyr
+2 Dennick, Pious Apprentice
+2 Patrician Geist
+3 Patrician Geist
+3 Dennick, Pious Apprentice
+4 Patrician Geist
 1 Alrund, God of the Cosmos
-2 Dreamshackle Geist
+1 Grazilaxx, Illithid Scholar
+1 Dreamshackle Geist
 2 Alrund, God of the Cosmos
 2 Grazilaxx, Illithid Scholar
+2 Dreamshackle Geist
 3 Dreamshackle Geist
 4 Jwari Disruption
-4 Fateful Absence
-1 Poppet Stitcher
 1 Syncopate
 1 Silundi Vision
+1 Poppet Stitcher
 1 Baithook Angler
+2 Syncopate
+2 Poppet Stitcher
 2 Baithook Angler
 2 Valorous Stance
-2 Poppet Stitcher
-2 Syncopate
 3 Thirst for Discovery
-3 Poppet Stitcher
 3 Syncopate
+3 Poppet Stitcher
 4 Syncopate
 4 Overcharged Amalgam
 1 Kabira Takedown
@@ -220,14 +248,6 @@
 3 Kabira Takedown
 4 Sejiri Shelter
 4 Kabira Takedown
-1 Patrician Geist
-1 Dennick, Pious Apprentice
-1 Katilda, Dawnhart Martyr
-2 Dennick, Pious Apprentice
-2 Patrician Geist
-3 Dennick, Pious Apprentice
-3 Patrician Geist
-4 Patrician Geist
 1 Stormchaser Drake
 1 Fly
 1 Illuminator Virtuoso
@@ -240,35 +260,15 @@
 4 Boon of Safety
 4 Stormchaser Drake
 4 Illuminator Virtuoso
-1 Teferi, Who Slows the Sunset
-1 Pithing Needle
-1 Avalanche Caller
-1 Jace, Mirror Mage
-1 Doomskar
-2 Pithing Needle
-2 Curate
-2 Teferi, Who Slows the Sunset
-2 Avalanche Caller
-2 Jace, Mirror Mage
-2 Doomskar
-3 Behold the Multiverse
-3 Doomskar
-3 Curate
-3 Teferi, Who Slows the Sunset
-3 Avalanche Caller
-3 Starnheim Unleashed
-4 Avalanche Caller
-4 Doomskar
-4 Behold the Multiverse
 1 Faerie Vandal
 2 Faerie Vandal
 3 Faerie Vandal
 4 Faerie Vandal
+1 Glacial Floodplain
 1 Concerted Defense
 1 Linvala, Shield of Sea Gate
 1 Cathar Commando
 1 Archpriest of Iona
-1 Glacial Floodplain
 1 Hallowed Respite
 1 Gavony Dawnguard
 2 Cathar Commando
@@ -292,24 +292,24 @@
 2 Tranquil Cove
 3 March of Otherworldly Light
 3 Tranquil Cove
-4 Brutal Cathar
 4 March of Otherworldly Light
+4 Brutal Cathar
 4 Tranquil Cove
-4 Spell Pierce
 4 Negate
+4 Spell Pierce
 8 Island
 1 Sungold Sentinel
 2 Sungold Sentinel
 3 Thalia, Guardian of Thraben
 3 Sungold Sentinel
 8 Plains
-1 Valkyrie Harbinger
+1 Annul
 1 Mind Flayer
 1 Lunarch Veteran
+1 Valkyrie Harbinger
 1 Righteous Valkyrie
 1 Kitesail Cleric
 1 Youthful Valkyrie
-1 Annul
 1 Minimus Containment
 2 Righteous Valkyrie
 2 Annul
@@ -318,8 +318,8 @@
 2 Lunarch Veteran
 2 Valkyrie Harbinger
 3 Minimus Containment
-3 Youthful Valkyrie
 3 Lunarch Veteran
+3 Youthful Valkyrie
 3 Righteous Valkyrie
 4 Youthful Valkyrie
 4 Righteous Valkyrie

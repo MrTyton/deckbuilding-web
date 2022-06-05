@@ -98,12 +98,12 @@
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
-1 Rem Karolus, Stalwart Slayer
+1 Field of Ruin
 1 Wear/Tear
 1 Tithe Taker
+1 Rem Karolus, Stalwart Slayer
 1 Light of Hope
 1 Battlefield Forge
-1 Field of Ruin
 2 Rem Karolus, Stalwart Slayer
 2 Tithe Taker
 2 Battlefield Forge
@@ -111,8 +111,8 @@
 3 Battlefield Forge
 3 Tithe Taker
 4 Showdown of the Skalds
-4 Path to Exile
 4 Sacred Foundry
+4 Path to Exile
 1 Boseiju, Who Endures
 1 Watery Grave
 4 Misty Rainforest
@@ -126,9 +126,9 @@
 2 Eladamri's Call
 1 Obscura Charm
 2 Obscura Charm
+1 Snow-Covered Island
 1 Snow-Covered Plains
 1 Snow-Covered Forest
-1 Snow-Covered Island
 1 Deputy of Detention
 1 Prismatic Ending
 1 March of Otherworldly Light
@@ -143,9 +143,9 @@
 2 Counterspell
 2 Expressive Iteration
 2 Abundant Growth
-3 Eladamri's Call
-3 Prismatic Ending
 3 March of Otherworldly Light
+3 Prismatic Ending
+3 Eladamri's Call
 3 Expressive Iteration
 3 Abundant Growth
 3 Counterspell
@@ -174,33 +174,27 @@
 1 Voice of Resurgence
 1 Ulamog, the Infinite Gyre
 2 Eldritch Evolution
-2 Assassin's Trophy
 2 Voice of Resurgence
+2 Assassin's Trophy
 3 Scalding Tarn
-3 Voice of Resurgence
 3 Eldritch Evolution
+3 Voice of Resurgence
 4 Scalding Tarn
 1 Ignoble Hierarch
-1 Noble Hierarch
 1 Geist of Saint Traft
+1 Noble Hierarch
 2 Ignoble Hierarch
 2 Noble Hierarch
 2 Temple Garden
 3 Ignoble Hierarch
 4 Ignoble Hierarch
-1 Windbrisk Heights
-1 Judge's Familiar
-2 Windbrisk Heights
-2 Judge's Familiar
-3 Plains
-4 Plains
-1 Birgi, God of Storytelling
 1 Bard Class
 1 Targ Nar, Demon-Fang Gnoll
+1 Yavimaya, Cradle of Growth
+1 Birgi, God of Storytelling
 1 Goro-Goro, Disciple of Ryusei
 1 Tranquil Thicket
 1 Gallia of the Endless Dance
-1 Yavimaya, Cradle of Growth
 1 Reki, the History of Kamigawa
 1 Domri, Anarch of Bolas
 1 Oath of Nissa
@@ -208,11 +202,11 @@
 1 Sarkhan Vol
 1 Mox Amber
 1 Radha, Heir to Keld
+2 Bard Class
+2 Targ Nar, Demon-Fang Gnoll
 2 Forest
 2 Birgi, God of Storytelling
 2 Goro-Goro, Disciple of Ryusei
-2 Targ Nar, Demon-Fang Gnoll
-2 Bard Class
 2 Gallia of the Endless Dance
 2 Reki, the History of Kamigawa
 2 Sarkhan Vol
@@ -220,9 +214,9 @@
 2 Mox Amber
 2 Domri, Anarch of Bolas
 2 Oath of Nissa
-3 Birgi, God of Storytelling
-3 Targ Nar, Demon-Fang Gnoll
 3 Bard Class
+3 Targ Nar, Demon-Fang Gnoll
+3 Birgi, God of Storytelling
 3 Radha, Heir to Keld
 3 Gallia of the Endless Dance
 3 Oath of Nissa
@@ -231,18 +225,24 @@
 4 Mox Amber
 4 Birgi, God of Storytelling
 4 Oath of Nissa
+1 Windbrisk Heights
+1 Judge's Familiar
+2 Windbrisk Heights
+2 Judge's Familiar
+3 Plains
+4 Plains
 1 Lightning Skelemental
 2 Lightning Skelemental
 3 Lightning Skelemental
 4 Lightning Skelemental
 1 Fleetfoot Dancer
+1 Jetmir's Garden
 1 Void Rend
 1 Haktos the Unscarred
 1 General's Enforcer
 1 Deserted Beach
 1 Terminate
 1 Pillar of the Paruns
-1 Jetmir's Garden
 2 Fleetfoot Dancer
 2 Marsh Flats
 2 Terminate
@@ -250,30 +250,30 @@
 2 Haktos the Unscarred
 2 General's Enforcer
 3 Fleetfoot Dancer
-3 Marsh Flats
 3 Obscura Charm
 3 General's Enforcer
 3 Terminate
+3 Marsh Flats
 3 Pillar of the Paruns
 4 Obscura Charm
 4 Fleetfoot Dancer
 4 General's Enforcer
 4 Pillar of the Paruns
-1 Birds of Paradise
 1 Neoform
 1 Seasoned Pyromancer
+1 Birds of Paradise
 1 Reflector Mage
 1 Winota, Joiner of Forces
 1 Huntmaster of the Fells
-2 Birds of Paradise
 2 Neoform
 2 Seasoned Pyromancer
 2 Winota, Joiner of Forces
 2 Huntmaster of the Fells
+2 Birds of Paradise
 2 Reflector Mage
-3 Birds of Paradise
 3 Neoform
 3 Reflector Mage
+3 Birds of Paradise
 3 Seasoned Pyromancer
 3 Winota, Joiner of Forces
 4 Birds of Paradise
