@@ -87,7 +87,7 @@
 |                     |                                                                                                    |                    3|[Binding the Old Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503822)      |
 |                     |                                                                                                    |                    1|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)        |
 |                     |                                                                                                    |                    1|[Claim the Firstborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473080)       |
-|                     |                                                                                                    |                    2|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)        |
 |                     |                                                                                                    |                    2|[Claim the Firstborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473080)       |
+|                     |                                                                                                    |                    2|[Kolaghan's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394613)        |
 |                     |                                                                                                    |                    2|Graveyard Trespasser                                                                                 |
 

@@ -57,43 +57,43 @@
 3 Prismatic Vista
 3 Breeding Pool
 1 Supreme Verdict
-1 Utopia Sprawl
 1 Master of Waves
-1 Verdant Catacombs
+1 Utopia Sprawl
 1 Bloodbraid Elf
+1 Verdant Catacombs
 1 Bloodstained Mire
-1 Drowned Catacomb
 1 Fact or Fiction
 1 Swamp
 1 Blood Crypt
+1 Drowned Catacomb
 1 Murktide Regent
+1 Time Warp
 1 Arid Mesa
 1 Ledger Shredder
 1 Overgrown Tomb
-1 Deflecting Palm
-1 Time Warp
 1 Kiki-Jiki, Mirror Breaker
 1 Flamekin Harbinger
-1 The Reality Chip
 1 Ragavan, Nimble Pilferer
 1 Xander's Lounge
-1 Noble Hierarch
-1 Bring to Light
-1 Valki, God of Lies
 1 Birds of Paradise
+1 Trading Post
+1 Woodland Cemetery
 1 Goldspan Dragon
 1 Tamiyo, Compleated Sage
+1 The Reality Chip
 1 Emrakul, the Aeons Torn
-1 Trading Post
+1 Noble Hierarch
+1 Deflecting Palm
 1 Sunpetal Grove
 1 Sacred Foundry
 1 Abundant Harvest
 1 Expressive Iteration
 1 Deceiver Exarch
-1 Neoform
 1 Indatha Triome
+1 Neoform
 1 Siege Rhino
 1 Eternal Witness
+1 Valki, God of Lies
 1 Platinum Emperion
 1 Settle the Wreckage
 1 Path to Exile
@@ -130,6 +130,7 @@
 1 Dreg Mangler
 1 Valakut, the Molten Pinnacle
 1 Chromatic Lantern
+1 Bring to Light
 1 Yargle, Glutton of Urborg
 1 Clifftop Retreat
 1 Temporal Mastery
@@ -137,7 +138,6 @@
 1 Narset, Enlightened Master
 1 Akroma, Angel of Wrath
 1 Explore
-1 Woodland Cemetery
 1 Gonti, Lord of Luxury
 1 Avid Reclaimer
 1 Myr Mindservant
@@ -182,12 +182,12 @@
 2 Raugrin Triome
 2 Ragavan, Nimble Pilferer
 2 Noble Hierarch
-2 Bring to Light
 2 Sulfur Falls
 2 Sunpetal Grove
 2 Abundant Harvest
 2 Expressive Iteration
 2 Path to Exile
+2 Bring to Light
 2 Fires of Invention
 2 Explore
 2 Wooded Foothills
@@ -210,7 +210,6 @@
 3 Ragavan, Nimble Pilferer
 3 Temple Garden
 3 Noble Hierarch
-3 Bring to Light
 3 Windswept Heath
 3 Steam Vents
 3 Expressive Iteration
@@ -223,25 +222,26 @@
 3 Reflecting Pool
 3 Fires of Invention
 3 Hedron Alignment
+3 Bring to Light
 3 Omnath, Locus of Creation
 3 Stomping Ground
 3 Wooded Foothills
 3 Battle of Wits
-4 Arid Mesa
 4 Utopia Sprawl
+4 Arid Mesa
 4 Explore
 4 Teferi, Time Raveler
 4 Windswept Heath
 4 Ragavan, Nimble Pilferer
 4 Temple Garden
 4 Noble Hierarch
-4 Bring to Light
 4 Expressive Iteration
 4 Steam Vents
 4 Sacred Foundry
 4 Breeding Pool
 4 Battle of Wits
 4 Risen Reef
+4 Bring to Light
 4 Raugrin Triome
 4 Wooded Foothills
 4 Massive Raid
@@ -308,9 +308,9 @@
 1 Dovin's Veto
 1 Lithoform Engine
 1 Zirda, the Dawnwaker
-2 Snow-Covered Plains
 2 Brokers Charm
 2 Zirda, the Dawnwaker
+2 Snow-Covered Plains
 2 Lithoform Engine
 1 Field of Ruin
 1 Mikokoro, Center of the Sea
@@ -319,13 +319,13 @@
 2 Nexus of Fate
 3 Nexus of Fate
 1 Halimar Depths
-1 Rimewood Falls
 1 Spell Snare
+1 Rimewood Falls
 1 Repeal
 1 Simic Growth Chamber
-2 Flooded Grove
 2 Halimar Depths
 2 Blast Zone
+2 Flooded Grove
 2 Search for Azcanta
 2 Spell Snare
 2 Repeal
@@ -342,9 +342,9 @@
 4 Wrenn and Six
 1 Eiganjo, Seat of the Empire
 1 Chalice of the Void
+2 Glacial Fortress
 2 Chalice of the Void
 2 The Wandering Emperor
-2 Glacial Fortress
 3 The Wandering Emperor
 3 Chalice of the Void
 4 The Wandering Emperor

@@ -1,43 +1,41 @@
-1 Mountain
+2 Flooded Strand
 1 Bloodstained Mire
 2 Bloodstained Mire
 3 Bloodstained Mire
+1 Omnath, Locus of Creation
+1 Blood Crypt
+1 Misty Rainforest
+1 Wrenn and Six
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
+2 Omnath, Locus of Creation
 3 Arid Mesa
-1 Omnath, Locus of Creation
-1 Wrenn and Six
-4 Manamorphose
+2 Wrenn and Six
+1 Savai Triome
 3 Flooded Strand
 4 Flooded Strand
-1 Blood Crypt
-2 Wrenn and Six
-1 Misty Rainforest
-2 Omnath, Locus of Creation
-1 Savai Triome
 4 Mantis Rider
-4 Arid Mesa
+4 Manamorphose
+2 Misty Rainforest
 3 Windswept Heath
 3 Omnath, Locus of Creation
 3 Fury
 4 Windswept Heath
-4 General Ferrous Rokiric
-2 Misty Rainforest
-2 Scalding Tarn
-4 Fury
 1 Verdant Catacombs
+2 Scalding Tarn
+4 General Ferrous Rokiric
+4 Arid Mesa
+4 Fury
+1 Polluted Delta
+1 Ketria Triome
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
 3 Steam Vents
-1 Ketria Triome
-1 Polluted Delta
 3 Wrenn and Six
-2 Indatha Triome
-3 Indatha Triome
 2 Sacred Foundry
-4 Teferi, Time Raveler
+1 Xander's Lounge
 3 Misty Rainforest
 1 Boros Charm
 2 Boros Charm
@@ -59,17 +57,16 @@
 4 Needleverge Pathway
 4 Hero of Precinct One
 2 Mountain
-1 Qasali Ambusher
-2 Qasali Ambusher
 4 Bloodstained Mire
-4 Steam Vents
-1 Xander's Lounge
 2 Kabira Takedown
 2 Response/Resurgence
 1 Sunbaked Canyon
 1 Dryad Militant
 2 Dryad Militant
 3 Dryad Militant
+1 Raugrin Triome
+2 Indatha Triome
+3 Indatha Triome
 1 Hallowed Fountain
 1 Heroic Reinforcements
 1 Figure of Destiny
@@ -79,25 +76,30 @@
 3 Heroic Reinforcements
 3 Figure of Destiny
 4 Heroic Reinforcements
+4 Teferi, Time Raveler
+1 Marsh Flats
 1 Godless Shrine
 2 Stomping Ground
 4 Dryad Militant
 3 Sacred Foundry
-1 Raugrin Triome
 1 Sokenzan, Crucible of Defiance
 1 Boseiju, Who Endures
 1 Solitude
+1 Raffine's Tower
+1 Prismatic Ending
 1 Knight of Autumn
 2 Breeding Pool
+3 Boros Charm
+4 Boros Charm
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
 1 Eiganjo, Seat of the Empire
 4 Figure of Destiny
-1 Marsh Flats
-3 Boros Charm
-4 Boros Charm
+1 Qasali Ambusher
+2 Qasali Ambusher
+4 Steam Vents
 1 Field of Ruin
 1 Rem Karolus, Stalwart Slayer
 1 Wear/Tear
@@ -113,6 +115,13 @@
 4 Showdown of the Skalds
 4 Path to Exile
 4 Sacred Foundry
+1 Overgrown Tomb
+1 Ignoble Hierarch
+1 Noble Hierarch
+2 Ignoble Hierarch
+2 Noble Hierarch
+3 Ignoble Hierarch
+4 Ignoble Hierarch
 1 Watery Grave
 4 Misty Rainforest
 1 Spara's Headquarters
@@ -120,7 +129,6 @@
 1 Snow-Covered Plains
 1 Snow-Covered Forest
 1 Snow-Covered Island
-1 Prismatic Ending
 1 Expressive Iteration
 2 Solitude
 2 Prismatic Ending
@@ -133,7 +141,8 @@
 1 Obscura Charm
 2 Obscura Charm
 1 Sundown Pass
-1 Raffine's Tower
+2 Marsh Flats
+3 Marsh Flats
 1 Deputy of Detention
 1 March of Otherworldly Light
 1 Teferi, Hero of Dominaria
@@ -153,9 +162,9 @@
 4 Abundant Growth
 4 Omnath, Locus of Creation
 4 Counterspell
+2 Forest
 1 Island
 1 Venerable Warsinger
-1 Overgrown Tomb
 1 Klothys, God of Destiny
 1 Vindicate
 2 Verdant Catacombs
@@ -168,6 +177,8 @@
 1 Tarmogoyf
 1 Horizon Canopy
 2 Tarmogoyf
+1 Geist of Saint Traft
+2 Temple Garden
 3 Qasali Ambusher
 1 Eldritch Evolution
 1 Assassin's Trophy
@@ -176,18 +187,10 @@
 2 Eldritch Evolution
 2 Assassin's Trophy
 2 Voice of Resurgence
-3 Scalding Tarn
 3 Voice of Resurgence
 3 Eldritch Evolution
+3 Scalding Tarn
 4 Scalding Tarn
-1 Ignoble Hierarch
-1 Noble Hierarch
-1 Geist of Saint Traft
-2 Ignoble Hierarch
-2 Noble Hierarch
-2 Temple Garden
-3 Ignoble Hierarch
-4 Ignoble Hierarch
 1 Windbrisk Heights
 1 Judge's Familiar
 2 Windbrisk Heights
@@ -208,16 +211,15 @@
 1 Sarkhan Vol
 1 Mox Amber
 1 Radha, Heir to Keld
-2 Forest
 2 Birgi, God of Storytelling
 2 Targ Nar, Demon-Fang Gnoll
 2 Bard Class
+2 Gallia of the Endless Dance
 2 Reki, the History of Kamigawa
 2 Goro-Goro, Disciple of Ryusei
 2 Sarkhan Vol
 2 Radha, Heir to Keld
 2 Mox Amber
-2 Gallia of the Endless Dance
 2 Domri, Anarch of Bolas
 2 Oath of Nissa
 3 Birgi, God of Storytelling
@@ -233,9 +235,9 @@
 4 Oath of Nissa
 1 Faithful Mending
 1 Snow-Covered Mountain
-1 Chalice of the Void
 1 Otawara, Soaring City
 1 Ice-Fang Coatl
+1 Chalice of the Void
 2 Faithful Mending
 2 Chalice of the Void
 2 Ice-Fang Coatl
@@ -256,13 +258,11 @@
 1 Pillar of the Paruns
 1 Jetmir's Garden
 2 Fleetfoot Dancer
-2 Marsh Flats
 2 Terminate
 2 Pillar of the Paruns
 2 General's Enforcer
 2 Haktos the Unscarred
 3 Fleetfoot Dancer
-3 Marsh Flats
 3 Obscura Charm
 3 General's Enforcer
 3 Terminate
@@ -271,6 +271,14 @@
 4 Obscura Charm
 4 General's Enforcer
 4 Pillar of the Paruns
+1 Riveteers Charm
+1 Renegade Rallier
+1 Snapcaster Mage
+1 Might of Alara
+2 Snapcaster Mage
+2 Might of Alara
+3 Might of Alara
+4 Marsh Flats
 1 Birds of Paradise
 1 Neoform
 1 Seasoned Pyromancer

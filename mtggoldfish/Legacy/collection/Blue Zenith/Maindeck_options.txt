@@ -1,10 +1,10 @@
-1 Carpet of Flowers
 1 Narset, Parter of Veils
+1 Carpet of Flowers
 1 Forest
-2 Narset, Parter of Veils
-2 Flooded Strand
 1 Teferi, Time Raveler
+2 Narset, Parter of Veils
 4 Wasteland
+2 Flooded Strand
 1 Island
 3 Flooded Strand
 1 Preordain
@@ -17,12 +17,11 @@
 1 Yavimaya, Cradle of Growth
 2 Intuition
 2 Life from the Loam
-1 Scavenging Ooze
 1 Pyroblast
+1 Scavenging Ooze
+1 Shifting Ceratops
 1 Noble Hierarch
 2 Noble Hierarch
-1 Eternal Witness
-1 Shifting Ceratops
 1 Day's Undoing
 2 Day's Undoing
 2 Teferi, Time Raveler
@@ -31,23 +30,10 @@
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
 1 Hullbreacher
-1 Spellseeker
-1 Orim's Chant
-1 March of Otherworldly Light
-1 Ephemerate
-1 Piracy Charm
-2 Carpet of Flowers
-2 Eternal Witness
-2 Ephemerate
-2 Savannah
-2 Spellseeker
-3 Ephemerate
-3 Carpet of Flowers
-3 Spellseeker
-4 Spellseeker
 1 Shorikai, Genesis Engine
 1 Questing Beast
 1 Verdant Catacombs
+1 Eternal Witness
 3 Snow-Covered Island
 1 Volcanic Island
 1 Knight of the Reliquary
@@ -60,11 +46,25 @@
 3 Birds of Paradise
 4 Birds of Paradise
 4 Force of Negation
+1 Spellseeker
+1 Piracy Charm
+1 Orim's Chant
+1 March of Otherworldly Light
+1 Ephemerate
+2 Carpet of Flowers
+2 Eternal Witness
+2 Ephemerate
+2 Savannah
+2 Spellseeker
+3 Ephemerate
+3 Carpet of Flowers
+3 Spellseeker
+4 Spellseeker
 1 Outland Liberator
 1 Tireless Tracker
 1 Endure
-1 Breeding Pool
 1 Snow-Covered Swamp
+1 Breeding Pool
 1 Living Wish
 1 Abrupt Decay
 1 Baleful Strix
@@ -90,9 +90,9 @@
 1 Thrasios, Triton Hero
 1 Walking Ballista
 1 Swift Reconfiguration
+2 Tundra
 2 Devoted Druid
 2 Swift Reconfiguration
-2 Tundra
 3 Devoted Druid
 3 Swift Reconfiguration
 4 Swift Reconfiguration

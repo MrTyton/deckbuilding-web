@@ -30,10 +30,10 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                   Sideboard Card                                   |
-|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------|
-|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                    1|[Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)|
-|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    1|[Pulverize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19724) |
-|                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)  |                    1|[Massacre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21324)  |
-|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                    1|[Meltdown](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10466)  |
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                   Sideboard Card                                   |
+|---------------------|-------------|--------------------:|------------------------------------------------------------------------------------|
+|                     |             |                    1|[Pulverize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19724) |
+|                     |             |                    1|[Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)|
+|                     |             |                    1|[Massacre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21324)  |
+|                     |             |                    1|[Meltdown](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10466)  |
 
