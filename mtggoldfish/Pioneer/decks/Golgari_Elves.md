@@ -32,14 +32,14 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Gala Greeters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555349)    |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)    |
-|                    1|[Gnarlroot Trapper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398413)|                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)    |
+|                    1|[Gnarlroot Trapper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398413)|                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)    |
+|                    1|[Gala Greeters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555349)    |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)    |
 |                    1|[Sylvan Messenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=27666)  |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)    |
 |                    2|[Gala Greeters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555349)    |                    3|[Deathrite Shaman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413757)|
 |                    2|[Gnarlroot Trapper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398413)|                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)    |
 |                    2|[Sylvan Messenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=27666)  |                     |                                                                                           |
 |                    3|[Gala Greeters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555349)    |                     |                                                                                           |
 |                    3|Darkbore Pathway                                                                            |                     |                                                                                           |
-|                    4|[Gala Greeters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555349)    |                     |                                                                                           |
 |                    4|Darkbore Pathway                                                                            |                     |                                                                                           |
+|                    4|[Gala Greeters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555349)    |                     |                                                                                           |
 

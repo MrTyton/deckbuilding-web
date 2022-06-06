@@ -1,13 +1,13 @@
 1 Null Rod
 1 End the Festivities
 3 Surgical Extraction
-2 Plague Engineer
 1 Energy Flux
-1 Stubborn Denial
-1 Hydroblast
-1 Brazen Borrower
+2 Plague Engineer
 1 Veil of Summer
 2 Veil of Summer
+1 Hydroblast
+1 Stubborn Denial
+1 Flusterstorm
 1 Carpet of Flowers
 2 Carpet of Flowers
 1 Endurance
@@ -20,17 +20,14 @@
 1 Force of Vigor
 2 Omniscience
 3 Endurance
-1 Flusterstorm
 1 Abrade
+1 Brazen Borrower
 1 Winter Orb
 2 Winter Orb
-1 Sylvan Library
-1 Abrupt Decay
-2 Abrupt Decay
 1 Pyroclasm
 2 Red Elemental Blast
-2 Stubborn Denial
 1 Relic of Progenitus
+1 Sylvan Library
 1 Blue Elemental Blast
 2 Flusterstorm
 1 Boseiju, Who Shelters All
@@ -38,22 +35,22 @@
 3 Torpor Orb
 1 Grim Lavamancer
 1 Prismatic Ending
+1 Run Afoul
+2 Stubborn Denial
+1 Abrupt Decay
+2 Abrupt Decay
 2 Meltdown
-2 Brazen Borrower
 1 Collector Ouphe
 1 Pithing Needle
-1 Fatal Push
 1 Sudden Edict
 1 Back to Basics
+1 Cindervines
 1 Dovin's Veto
 1 Stifle
 1 Hullbreacher
 1 Dread of Night
 1 Extract
 1 Steal Enchantment
-1 Berserk
-2 Berserk
-2 Fatal Push
 1 Engineered Explosives
 1 Counterbalance
 1 Meddling Mage
@@ -63,13 +60,13 @@
 1 Dress Down
 2 Dress Down
 2 Grafdigger's Cage
-1 Run Afoul
 2 Energy Flux
 1 Serenity
 2 Pyroclasm
 2 Serenity
 1 Court of Cunning
 2 Court of Cunning
+2 Brazen Borrower
 2 Hydroblast
 1 Bitterblossom
 1 Toxic Deluge
@@ -94,6 +91,7 @@
 3 Planar Void
 1 Aether Spellbomb
 1 Spell Pierce
+1 Fatal Push
 2 Spell Pierce
 2 Hurkyl's Recall
 2 Null Rod

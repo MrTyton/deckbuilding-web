@@ -1,8 +1,8 @@
 2 Spell Pierce
-2 Botanical Sanctum
-3 Botanical Sanctum
 1 Savage Swipe
 2 Savage Swipe
+2 Botanical Sanctum
+3 Botanical Sanctum
 4 Botanical Sanctum
 1 Masked Vandal
 1 Otawara, Soaring City
@@ -68,21 +68,31 @@
 3 Rhonas the Indomitable
 3 Mistcaller
 4 Mistcaller
+1 Kopala, Warden of Waves
+1 Reflections of Littjara
+1 Shaper Apprentice
+2 Shaper Apprentice
+2 Kopala, Warden of Waves
+3 Shaper Apprentice
+3 Dreamroot Cascade
+3 Kopala, Warden of Waves
+4 Dreamroot Cascade
+4 Shaper Apprentice
 3 Benthic Biomancer
 3 Brazen Borrower
 4 Benthic Biomancer
 1 Shatterskull Smashing
 1 Rootbound Crag
 1 Stomping Ground
-1 Faceless Agent
+1 Goblin Anarchomancer
 1 Metallic Mimic
 1 Reclamation Sage
 1 Goblin Ruinblaster
 1 Den of the Bugbear
-1 Goblin Anarchomancer
 1 Cragcrown Pathway
 1 Mountain
 1 Ramunap Ruins
+1 Faceless Agent
 1 Elvish Visionary
 1 Harmonic Prodigy
 1 Llanowar Elves
@@ -90,7 +100,6 @@
 1 Rage Forger
 2 Shatterskull Smashing
 2 Rootbound Crag
-2 Faceless Agent
 2 Metallic Mimic
 2 Reclamation Sage
 2 Goblin Ruinblaster
@@ -100,6 +109,7 @@
 2 Cragcrown Pathway
 2 Burning-Tree Emissary
 2 Elvish Visionary
+2 Faceless Agent
 2 Llanowar Elves
 2 Ramunap Ruins
 2 Rage Forger
@@ -122,6 +132,8 @@
 4 Goblin Anarchomancer
 4 Llanowar Elves
 4 Cragcrown Pathway
+9 Island
+10 Island
 1 Jungleborn Pioneer
 1 Merfolk Windrobber
 2 Jungleborn Pioneer
@@ -131,17 +143,5 @@
 3 Merfolk Windrobber
 4 Jungleborn Pioneer
 4 Mist-Cloaked Herald
-4 Merfolk Windrobber
 8 Forest
-9 Island
-10 Island
-1 Kopala, Warden of Waves
-1 Reflections of Littjara
-1 Shaper Apprentice
-2 Shaper Apprentice
-2 Kopala, Warden of Waves
-3 Shaper Apprentice
-3 Dreamroot Cascade
-3 Kopala, Warden of Waves
-4 Shaper Apprentice
-4 Dreamroot Cascade
+4 Merfolk Windrobber

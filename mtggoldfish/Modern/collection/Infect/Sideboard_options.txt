@@ -54,12 +54,16 @@
 1 Flusterstorm
 1 Ravenous Trap
 1 Wilt
+1 Fog
+1 Dauthi Voidwalker
+1 Assassin's Trophy
+2 Assassin's Trophy
 1 Abrupt Decay
 2 Abrupt Decay
-1 Lantern of the Lost
-2 Lantern of the Lost
 1 Torpor Orb
 2 Torpor Orb
+1 Lantern of the Lost
+2 Lantern of the Lost
 1 Shapers' Sanctuary
 1 Surgical Extraction
 1 Vines of Vastwood
@@ -70,10 +74,6 @@
 2 Rancor
 1 Pistus Strike
 2 Nature's Claim
-1 Fog
-1 Dauthi Voidwalker
-1 Assassin's Trophy
-2 Assassin's Trophy
 1 Path to Exile
 1 Strict Proctor
 1 Pithing Needle
@@ -96,8 +96,8 @@
 3 Thoughtseize
 4 Thoughtseize
 4 Spell Pierce
-1 Naturalize
 1 Return to Nature
+1 Naturalize
 2 Return to Nature
 3 Echoing Truth
 4 Void Mirror

@@ -1,36 +1,36 @@
+1 Boseiju, Who Endures
 4 Ahn-Crop Crasher
 1 Hashep Oasis
-1 Boseiju, Who Endures
 2 Hashep Oasis
 4 Ramunap Ruins
 2 Collected Company
 1 Kazandu Mammoth
-3 Scavenging Ooze
 3 Mountain
 1 Rockfall Vale
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
+3 Scavenging Ooze
 3 Collected Company
 1 Shatterskull Smashing
 3 Den of the Bugbear
 4 Embercleave
 2 Klothys, God of Destiny
-1 Rootbound Crag
 1 Sokenzan, Crucible of Defiance
 1 Gallia of the Endless Dance
-2 Kazandu Mammoth
+1 Rootbound Crag
+2 Boseiju, Who Endures
 1 Ranger Class
 2 Ranger Class
 2 Rockfall Vale
-1 Reckless Stormseeker
-2 Reckless Stormseeker
 2 Rootbound Crag
 4 Mountain
+1 Reckless Stormseeker
+2 Reckless Stormseeker
 2 Gallia of the Endless Dance
+2 Kazandu Mammoth
 1 Werewolf Pack Leader
 1 Halana and Alena, Partners
 4 Questing Beast
-2 Boseiju, Who Endures
 3 Ranger Class
 3 Rootbound Crag
 4 Rootbound Crag
@@ -44,11 +44,9 @@
 2 Forsaken Crossroads
 5 Mountain
 3 Kazandu Mammoth
-1 Cemetery Prowler
-3 Rampaging Ferocidon
-4 Rampaging Ferocidon
 1 Domri, Anarch of Bolas
 7 Forest
+3 Rampaging Ferocidon
 4 Collected Company
 1 Banefire
 1 Kessig Naturalist
@@ -56,16 +54,16 @@
 2 Shatterskull Smashing
 2 Kessig Naturalist
 2 Tenacious Pup
-3 Tenacious Pup
 3 Kessig Naturalist
+3 Tenacious Pup
 4 Tenacious Pup
 4 Kessig Naturalist
 1 Robber of the Rich
 2 Robber of the Rich
 3 Robber of the Rich
 4 Scavenging Ooze
-3 Rockfall Vale
 3 Lair of the Hydra
+3 Rockfall Vale
 4 Rockfall Vale
 4 Werewolf Pack Leader
 6 Mountain
@@ -79,10 +77,12 @@
 2 Domri, Anarch of Bolas
 1 Cindervines
 2 Cindervines
+2 Banefire
+3 Gallia of the Endless Dance
 1 Shifting Ceratops
-1 Decisive Denial
-1 Spell Pierce
 1 Tormod's Crypt
+1 Spell Pierce
+1 Decisive Denial
 1 Breeding Pool
 1 Botanical Sanctum
 1 Gyre Engineer
@@ -92,11 +92,11 @@
 2 Botanical Sanctum
 2 Gyre Engineer
 3 Decisive Denial
-2 Banefire
-3 Gallia of the Endless Dance
 1 Paradise Druid
 2 Paradise Druid
 3 Paradise Druid
+1 Cemetery Prowler
+4 Rampaging Ferocidon
 1 Volatile Arsonist
 1 Thundering Rebuke
 1 Ill-Tempered Loner
@@ -114,62 +114,62 @@
 2 Town-Razer Tyrant
 3 Town-Razer Tyrant
 4 Town-Razer Tyrant
+1 Arboreal Grazer
 1 Vivien, Arkbow Ranger
 1 Cemetery Gatekeeper
-1 Arboreal Grazer
+2 Arboreal Grazer
 2 Vivien, Arkbow Ranger
 2 Cemetery Gatekeeper
 2 Halana and Alena, Partners
-2 Arboreal Grazer
 3 Halana and Alena, Partners
-3 Forsaken Crossroads
 3 Arboreal Grazer
+3 Forsaken Crossroads
 3 Vivien, Arkbow Ranger
+4 Arboreal Grazer
 4 Forsaken Crossroads
 4 Lair of the Hydra
-4 Arboreal Grazer
 4 Vivien, Arkbow Ranger
 1 Hazoret the Fervent
 4 Ranger Class
 1 Transmogrify
+1 Valakut Awakening
 1 Castle Embereth
 1 Chandra, Acolyte of Flame
-1 Valakut Awakening
 1 Fire Prophecy
+1 Dragon Fodder
 1 Saproling Migration
 1 Satyr's Cunning
 1 Craterhoof Behemoth
 1 Forbidden Friendship
-1 Dragon Fodder
 1 Indomitable Creativity
-2 Craterhoof Behemoth
 2 Transmogrify
+2 Craterhoof Behemoth
+2 Valakut Awakening
 2 Castle Embereth
 2 Chandra, Acolyte of Flame
-2 Valakut Awakening
 2 Fire Prophecy
-2 Satyr's Cunning
 2 Dragon Fodder
+2 Satyr's Cunning
 2 Forbidden Friendship
 2 Saproling Migration
 2 Indomitable Creativity
+3 Castle Embereth
 3 Transmogrify
 3 Valakut Awakening
-3 Castle Embereth
+3 Fire Prophecy
 3 Dragon Fodder
 3 Saproling Migration
 3 Forbidden Friendship
 3 Indomitable Creativity
 3 Satyr's Cunning
-3 Fire Prophecy
+4 Castle Embereth
 4 Transmogrify
 4 Valakut Awakening
+4 Dragon Fodder
 4 Satyr's Cunning
 4 Saproling Migration
 4 Forbidden Friendship
-4 Castle Embereth
 4 Indomitable Creativity
-4 Dragon Fodder
 4 Fire Prophecy
 1 Primal Might
 1 Steel Leaf Champion
@@ -177,17 +177,17 @@
 1 Lovestruck Beast
 1 Flame-Blessed Bolt
 1 The Great Henge
-2 The Great Henge
-2 Steel Leaf Champion
 2 Primal Might
+2 Steel Leaf Champion
 2 Rhonas the Indomitable
 2 Flame-Blessed Bolt
+2 The Great Henge
 2 Lovestruck Beast
-3 The Great Henge
-3 Steel Leaf Champion
 3 Primal Might
+3 Steel Leaf Champion
+3 The Great Henge
 3 Lovestruck Beast
-4 Steel Leaf Champion
 4 Kazandu Mammoth
+4 Steel Leaf Champion
 4 Lovestruck Beast
 4 Primal Might

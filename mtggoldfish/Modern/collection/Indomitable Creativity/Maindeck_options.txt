@@ -47,7 +47,6 @@
 2 Spreading Seas
 2 March of Otherworldly Light
 2 Transmogrify
-1 Khalni Garden
 1 Kher Keep
 1 Chandra, Dressed to Kill
 1 March of Reckless Joy
@@ -61,7 +60,7 @@
 1 Honor the God-Pharaoh
 1 Vessel of Volatility
 1 Cinder Glade
-2 Khalni Garden
+1 Khalni Garden
 2 March of Reckless Joy
 2 Chandra, Dressed to Kill
 2 Domri, Anarch of Bolas
@@ -75,11 +74,12 @@
 2 Growth Spasm
 2 Blightsteel Colossus
 2 Emrakul, the Aeons Torn
-3 Khalni Garden
+2 Khalni Garden
 3 Stomping Ground
 3 Growth Spasm
 3 Chandra, Dressed to Kill
 3 Cinder Glade
+3 Khalni Garden
 3 Honor the God-Pharaoh
 3 Mass Hysteria
 3 Transmogrify
@@ -108,8 +108,8 @@
 3 Counterspell
 1 Abundant Growth
 1 Fable of the Mirror-Breaker
-1 Otawara, Soaring City
 1 Narset, Parter of Veils
+1 Otawara, Soaring City
 2 Fable of the Mirror-Breaker
 2 Abundant Growth
 2 Narset, Parter of Veils
@@ -122,8 +122,8 @@
 2 Sylvan Scrying
 3 Sylvan Scrying
 1 Cathartic Pyre
-4 Khalni Garden
 4 Honor the God-Pharaoh
+4 Khalni Garden
 1 Jetmir's Garden
 1 Expressive Iteration
 2 Expressive Iteration
@@ -131,8 +131,6 @@
 3 Wish
 4 Wish
 4 Counterspell
-3 Spreading Seas
-4 Spreading Seas
 1 Memory Deluge
 1 Careful Cultivation
 2 Memory Deluge
@@ -145,3 +143,5 @@
 3 Archon of Cruelty
 4 Prismari Command
 4 Chained to the Rocks
+3 Spreading Seas
+4 Spreading Seas
