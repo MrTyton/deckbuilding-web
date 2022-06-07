@@ -1,15 +1,15 @@
-1 Flooded Strand
+1 Bloodstained Mire
+2 Scalding Tarn
 3 Misty Rainforest
 2 Stifle
-1 Bloodstained Mire
+2 Reanimate
+2 Flooded Strand
 1 Verdant Catacombs
 1 Force of Negation
 3 Stifle
-2 Reanimate
-1 Overgrown Tomb
-2 Flooded Strand
 1 Island
 1 Swamp
+1 Overgrown Tomb
 3 Murktide Regent
 2 Brazen Borrower
 1 Breeding Pool
@@ -19,18 +19,18 @@
 2 Verdant Catacombs
 1 Spell Pierce
 1 Dress Down
+4 Watery Grave
+2 Bloodstained Mire
 3 Flooded Strand
 1 Drown in the Loch
-4 Misty Rainforest
 2 Force of Negation
+4 Misty Rainforest
 1 Stubborn Denial
 2 Dress Down
 1 Sylvan Library
-4 Watery Grave
 3 Verdant Catacombs
 1 Snapcaster Mage
 2 Spell Pierce
-2 Bloodstained Mire
 2 Drown in the Loch
 2 Stubborn Denial
 2 Berserk
@@ -40,16 +40,17 @@
 1 Darkblast
 2 Darkblast
 4 Murktide Regent
+4 Verdant Catacombs
 3 Bloodstained Mire
-1 Tombstalker
-2 Tombstalker
-3 Tombstalker
-4 Tombstalker
 1 Marsh Flats
 2 Marsh Flats
 3 Marsh Flats
 4 Marsh Flats
-4 Verdant Catacombs
+1 Tombstalker
+2 Tombstalker
+3 Tombstalker
+4 Tombstalker
+3 Gurmag Angler
 2 Snapcaster Mage
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
@@ -70,8 +71,11 @@
 2 Spell Snare
 1 Dauthi Voidwalker
 2 Dauthi Voidwalker
-3 Inquisition of Kozilek
 3 Snuff Out
+3 Inquisition of Kozilek
+1 Hymn to Tourach
+2 Hymn to Tourach
+3 Hymn to Tourach
 1 Unearth
 1 Leovold, Emissary of Trest
 2 Abrupt Decay
@@ -92,7 +96,6 @@
 2 Dark Confidant
 3 Dark Confidant
 4 Dark Confidant
-3 Gurmag Angler
 4 Gurmag Angler
 3 Snapcaster Mage
 4 Tarmogoyf
@@ -103,8 +106,8 @@
 2 Snow-Covered Island
 2 Ethereal Forager
 3 Snow-Covered Island
-3 Brazen Borrower
 3 True-Name Nemesis
+3 Brazen Borrower
 3 Ethereal Forager
 4 Snow-Covered Island
 4 True-Name Nemesis

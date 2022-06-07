@@ -26,8 +26,8 @@
 2 Hengegate Pathway
 3 Barkchannel Pathway
 3 Hengegate Pathway
-4 Hengegate Pathway
 4 Barkchannel Pathway
+4 Hengegate Pathway
 4 Branchloft Pathway
 2 Temple Garden
 3 Temple Garden
@@ -58,10 +58,10 @@
 3 Shark Typhoon
 1 Transmogrify
 1 Eiganjo, Seat of the Empire
+1 The Raven's Warning
 1 March of Otherworldly Light
 1 Irrigated Farmland
 1 Agent of Treachery
-1 The Raven's Warning
 1 The Birth of Meletis
 2 Transmogrify
 2 Sokenzan, Crucible of Defiance
@@ -71,17 +71,17 @@
 2 Agent of Treachery
 2 Plains
 3 Transmogrify
+3 The Raven's Warning
 3 Glacial Fortress
 3 The Birth of Meletis
 3 March of Otherworldly Light
 3 Plains
-3 The Raven's Warning
+4 Glacial Fortress
 4 Transmogrify
 4 The Raven's Warning
 4 March of Otherworldly Light
 4 The Birth of Meletis
 4 Shark Typhoon
-4 Glacial Fortress
 1 Sunpetal Grove
 1 Fabled Passage
 2 Sunpetal Grove
@@ -143,21 +143,21 @@
 4 Expressive Iteration
 2 Deafening Clarion
 1 Blood Crypt
-1 Nicol Bolas, the Ravager
 1 Drowned Catacomb
+1 Nicol Bolas, the Ravager
 2 Nicol Bolas, the Ravager
 1 Rip Apart
 1 The Meathook Massacre
 2 Breeding Pool
 1 Touch the Spirit Realm
 1 Raffine, Scheming Seer
+1 Oath of Nissa
 1 Reidane, God of the Worthy
 1 Massacre Girl
-1 Oath of Nissa
 1 Sin Collector
+2 Oath of Nissa
 2 Caves of Koilos
 2 Archon of Sun's Grace
-2 Oath of Nissa
 1 Lithoform Blight
 1 Treacherous Blessing
 1 Temple of Plenty
@@ -179,16 +179,16 @@
 1 Isolated Chapel
 1 Charming Prince
 1 Courser of Kruphix
-2 Zagoth Triome
-2 Savai Triome
 2 Binding the Old Gods
 2 Path to the World Tree
+2 Zagoth Triome
+2 Savai Triome
 2 Woodland Cemetery
 3 Indatha Triome
-3 Savai Triome
 3 Binding the Old Gods
 3 Nicol Bolas, the Ravager
 3 Path to the World Tree
+3 Savai Triome
 4 Indatha Triome
 4 Binding the Old Gods
 4 Path to the World Tree
@@ -197,13 +197,13 @@
 1 Chandra, Torch of Defiance
 1 Temple of Epiphany
 1 Jace, Architect of Thought
-1 Detention Sphere
+1 Heart of Kiran
 1 Kaya the Inexorable
 1 Gideon of the Trials
+1 Detention Sphere
 1 Needle Spires
 1 Teferi, Master of Time
 1 Wandering Fumarole
-1 Heart of Kiran
 2 Chandra, Torch of Defiance
 2 Heart of Kiran
 2 Jace, Architect of Thought
@@ -212,23 +212,22 @@
 3 Deafening Clarion
 3 Hallowed Fountain
 4 Hallowed Fountain
-1 Heartless Act
-1 Dragonskull Summit
-1 Grafdigger's Cage
+1 Valki, God of Lies
 1 Bedevil
-1 Ritual of Soot
+1 Heartless Act
+1 Grafdigger's Cage
 1 Thoughtseize
+1 Ritual of Soot
 1 Enter the God-Eternals
 1 Search for Azcanta
 1 Liliana, Dreadhorde General
-1 Valki, God of Lies
 1 Riverglide Pathway
 1 Clearwater Pathway
+1 Dragonskull Summit
 2 Valki, God of Lies
 2 Heartless Act
 2 Drowned Catacomb
 2 Search for Azcanta
-2 Dragonskull Summit
 2 Chandra, Awakened Inferno
 2 Enter the God-Eternals
 2 Thoughtseize
@@ -239,10 +238,11 @@
 2 Watery Grave
 2 Clearwater Pathway
 2 Bedevil
+2 Dragonskull Summit
+3 Nicol Bolas, Dragon-God
 3 Clearwater Pathway
 3 Riverglide Pathway
 3 Blood Crypt
-3 Nicol Bolas, Dragon-God
 3 Bedevil
 3 Watery Grave
 4 Blood Crypt

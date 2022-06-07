@@ -1,6 +1,5 @@
 4 Springleaf Drum
 1 Treasure Vault
-2 Treasure Vault
 1 Cranial Plating
 1 Welding Jar
 1 Sojourner's Companion
@@ -12,16 +11,17 @@
 4 Ornithopter
 4 Thoughtcast
 1 Island
+2 Treasure Vault
 3 Cranial Plating
 1 Frogmite
 2 Frogmite
 3 Frogmite
 4 Frogmite
 4 Sojourner's Companion
+1 Flooded Strand
+1 Gingerbrute
 4 Cranial Plating
 1 Myr Enforcer
-1 Gingerbrute
-1 Flooded Strand
 3 Treasure Vault
 1 Mistvault Bridge
 2 Mistvault Bridge
@@ -29,30 +29,31 @@
 2 Welding Jar
 1 Silverbluff Bridge
 2 Silverbluff Bridge
+1 Pithing Needle
 3 Mistvault Bridge
 4 Mistvault Bridge
 2 Relic of Progenitus
-1 Pithing Needle
 1 Sai, Master Thopterist
 2 Sai, Master Thopterist
-3 Silverbluff Bridge
-4 Silverbluff Bridge
-1 Unlicensed Hearse
-2 Island
 1 Spire of Industry
 2 Spire of Industry
+1 Unlicensed Hearse
+3 Silverbluff Bridge
+4 Silverbluff Bridge
+2 Island
 2 Flooded Strand
+1 Glimmervoid
+3 Spire of Industry
 1 Tormod's Crypt
 1 Cliffhaven Kitesail
 1 Emry, Lurker of the Loch
 2 Emry, Lurker of the Loch
 1 Snow-Covered Island
-1 Glimmervoid
 4 Treasure Vault
-3 Spire of Industry
+2 Glimmervoid
+1 Ghost Quarter
 1 Moonsnare Prototype
 2 Moonsnare Prototype
-1 Ghost Quarter
 1 Blinkmoth Nexus
 1 Michiko's Reign of Truth
 1 Spellskite
@@ -64,10 +65,9 @@
 1 Etched Champion
 1 Academy Ruins
 1 Expedition Map
+1 Karn, Scion of Urza
 1 Arid Mesa
 1 Soul-Guide Lantern
-1 Karn, Scion of Urza
-2 Glimmervoid
 1 Glacial Fortress
 1 Counterspell
 1 Scalding Tarn
@@ -82,16 +82,24 @@
 3 Howling Mine
 3 Moonsnare Prototype
 3 Island
-1 Signal Pest
 1 Galvanic Blast
 1 Lantern of the Lost
-2 Signal Pest
+1 Signal Pest
 2 Galvanic Blast
+2 Signal Pest
 2 Nettlecyst
 3 Signal Pest
 4 Spire of Industry
 3 Emry, Lurker of the Loch
 4 Hallowed Fountain
+1 Mishra's Bauble
+1 Swamp
+1 Tezzeret, Agent of Bolas
+2 Mishra's Bauble
+2 Tezzeret, Agent of Bolas
+3 Mishra's Bauble
+3 Glimmervoid
+4 Mishra's Bauble
 1 The Reality Chip
 3 Flooded Strand
 4 Flooded Strand

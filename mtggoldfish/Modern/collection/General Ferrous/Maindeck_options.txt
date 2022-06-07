@@ -113,8 +113,8 @@
 3 Battlefield Forge
 3 Tithe Taker
 4 Showdown of the Skalds
-4 Path to Exile
 4 Sacred Foundry
+4 Path to Exile
 1 Overgrown Tomb
 1 Ignoble Hierarch
 1 Noble Hierarch
@@ -126,9 +126,9 @@
 4 Misty Rainforest
 1 Spara's Headquarters
 1 Grist, the Hunger Tide
+1 Snow-Covered Island
 1 Snow-Covered Plains
 1 Snow-Covered Forest
-1 Snow-Covered Island
 1 Expressive Iteration
 2 Solitude
 2 Prismatic Ending
@@ -152,8 +152,8 @@
 2 March of Otherworldly Light
 2 Counterspell
 2 Abundant Growth
-3 Eladamri's Call
 3 March of Otherworldly Light
+3 Eladamri's Call
 3 Abundant Growth
 3 Counterspell
 3 Solitude
@@ -185,25 +185,19 @@
 1 Voice of Resurgence
 1 Ulamog, the Infinite Gyre
 2 Eldritch Evolution
-2 Assassin's Trophy
 2 Voice of Resurgence
-3 Voice of Resurgence
+2 Assassin's Trophy
 3 Eldritch Evolution
+3 Voice of Resurgence
 3 Scalding Tarn
 4 Scalding Tarn
-1 Windbrisk Heights
-1 Judge's Familiar
-2 Windbrisk Heights
-2 Judge's Familiar
-3 Plains
-4 Plains
+1 Yavimaya, Cradle of Growth
 1 Birgi, God of Storytelling
 1 Bard Class
 1 Targ Nar, Demon-Fang Gnoll
 1 Goro-Goro, Disciple of Ryusei
 1 Tranquil Thicket
 1 Gallia of the Endless Dance
-1 Yavimaya, Cradle of Growth
 1 Reki, the History of Kamigawa
 1 Domri, Anarch of Bolas
 1 Oath of Nissa
@@ -233,9 +227,9 @@
 4 Mox Amber
 4 Birgi, God of Storytelling
 4 Oath of Nissa
+1 Otawara, Soaring City
 1 Faithful Mending
 1 Snow-Covered Mountain
-1 Otawara, Soaring City
 1 Ice-Fang Coatl
 1 Chalice of the Void
 2 Faithful Mending
@@ -245,6 +239,12 @@
 3 Ice-Fang Coatl
 4 Faithful Mending
 4 Ice-Fang Coatl
+1 Windbrisk Heights
+1 Judge's Familiar
+2 Windbrisk Heights
+2 Judge's Familiar
+3 Plains
+4 Plains
 1 Lightning Skelemental
 2 Lightning Skelemental
 3 Lightning Skelemental
@@ -279,20 +279,20 @@
 2 Might of Alara
 3 Might of Alara
 4 Marsh Flats
-1 Birds of Paradise
 1 Neoform
 1 Seasoned Pyromancer
+1 Birds of Paradise
 1 Reflector Mage
 1 Winota, Joiner of Forces
 1 Huntmaster of the Fells
-2 Birds of Paradise
 2 Neoform
 2 Seasoned Pyromancer
 2 Winota, Joiner of Forces
 2 Huntmaster of the Fells
+2 Birds of Paradise
 2 Reflector Mage
-3 Birds of Paradise
 3 Neoform
+3 Birds of Paradise
 3 Reflector Mage
 3 Seasoned Pyromancer
 3 Winota, Joiner of Forces

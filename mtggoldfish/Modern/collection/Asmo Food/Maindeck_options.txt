@@ -37,8 +37,8 @@
 3 Wrenn and Six
 1 Galvanic Blast
 1 Shrapnel Blast
-2 Galvanic Blast
 2 Shrapnel Blast
+2 Galvanic Blast
 3 Galvanic Blast
 3 Shrapnel Blast
 4 Shrapnel Blast
@@ -143,11 +143,11 @@
 1 Goblin Engineer
 2 Goblin Engineer
 3 Goblin Engineer
-1 Unmarked Grave
 1 Persist
+1 Unmarked Grave
 1 Archon of Cruelty
-2 Unmarked Grave
 2 Persist
+2 Unmarked Grave
 3 Persist
 4 Persist
 1 Snow-Covered Swamp
@@ -158,11 +158,11 @@
 1 Blooming Marsh
 2 Blooming Marsh
 4 Trail of Crumbs
-1 Snapcaster Mage
-1 Savai Triome
 1 Ephemerate
+1 Savai Triome
 1 Drowned Catacomb
 1 Grief
+1 Snapcaster Mage
 1 Unburial Rites
 1 Concealed Courtyard
 1 Otherworldly Gaze
@@ -182,8 +182,8 @@
 4 Grief
 1 Nurturing Peatland
 1 Abrupt Decay
-1 The Meathook Massacre
 1 Witherbloom Command
+1 The Meathook Massacre
 1 Castle Locthwain
 1 Nettlecyst
 2 Nettlecyst
@@ -278,12 +278,6 @@
 4 Eladamri's Call
 4 Giver of Runes
 4 Rocco, Cabaretti Caterer
-1 Terminate
-1 Canyon Slough
-1 Fiery Temper
-2 Fiery Temper
-2 Canyon Slough
-5 Mountain
 1 Sundering Titan
 1 Thoughtseize
 1 Inkwell Leviathan
@@ -307,3 +301,9 @@
 4 Unmarked Grave
 4 Drossforge Bridge
 4 Blightstep Pathway
+1 Terminate
+1 Canyon Slough
+1 Fiery Temper
+2 Fiery Temper
+2 Canyon Slough
+5 Mountain

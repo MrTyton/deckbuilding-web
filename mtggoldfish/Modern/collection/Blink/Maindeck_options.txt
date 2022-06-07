@@ -28,9 +28,9 @@
 3 Scalding Tarn
 4 Scalding Tarn
 1 Utopia Sprawl
-1 Traverse the Ulvenwald
 1 Mishra's Bauble
 1 Nimble Obstructionist
+1 Traverse the Ulvenwald
 2 Mishra's Bauble
 2 Traverse the Ulvenwald
 3 Mishra's Bauble
@@ -69,9 +69,9 @@
 1 Horizon Canopy
 1 Charming Prince
 2 Charming Prince
-1 Batterskull
 1 Kaldra Compleat
 1 Stoneforge Mystic
+1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
@@ -92,9 +92,9 @@
 2 Horizon Canopy
 2 Plains
 2 The Wandering Emperor
+2 Utopia Sprawl
 2 Memory Deluge
 2 Nimble Obstructionist
-2 Utopia Sprawl
 1 Jace, the Mind Sculptor
 3 March of Otherworldly Light
 1 Engineered Explosives
@@ -112,37 +112,37 @@
 2 Prismatic Vista
 3 Vivien on the Hunt
 3 Soulherder
-4 Vivien on the Hunt
 4 Skyclave Apparition
+4 Vivien on the Hunt
 4 Soulherder
 1 Sword of Fire and Ice
 3 Plains
 4 Plains
-1 Marsh Flats
-1 Field of Ruin
 1 Thraben Inspector
 1 Esper Sentinel
+1 Field of Ruin
 1 Sun Titan
+1 Marsh Flats
 1 Idyllic Grange
 1 Emeria, the Sky Ruin
 1 Ranger-Captain of Eos
-2 Marsh Flats
+2 Esper Sentinel
 2 Field of Ruin
 2 Sun Titan
 2 Emeria, the Sky Ruin
+2 Marsh Flats
 2 Ranger-Captain of Eos
-2 Esper Sentinel
-3 Marsh Flats
+3 Esper Sentinel
 3 Field of Ruin
 3 Ranger-Captain of Eos
 3 Hallowed Fountain
-3 Esper Sentinel
 3 Charming Prince
 3 Sun Titan
+3 Marsh Flats
 3 Emeria, the Sky Ruin
-4 Marsh Flats
-4 Field of Ruin
 4 Esper Sentinel
+4 Field of Ruin
+4 Marsh Flats
 5 Plains
 6 Plains
 7 Plains
@@ -184,9 +184,9 @@
 2 Restoration Angel
 3 Archmage's Charm
 3 Island
+3 Cleansing Wildfire
 3 Raugrin Triome
 3 Restoration Angel
-3 Cleansing Wildfire
 3 Kiki-Jiki, Mirror Breaker
 4 Archmage's Charm
 4 Restoration Angel
@@ -204,9 +204,9 @@
 1 Aether Vial
 1 Thalia's Lieutenant
 1 Secluded Courtyard
+2 Cavern of Souls
 2 Adeline, Resplendent Cathar
 2 Extraction Specialist
-2 Cavern of Souls
 2 Unclaimed Territory
 2 Reflector Mage
 2 Meddling Mage
@@ -217,12 +217,12 @@
 2 Watcher for Tomorrow
 2 Champion of the Parish
 2 Pyre of Heroes
+3 Cavern of Souls
+3 Thalia, Guardian of Thraben
 3 Adeline, Resplendent Cathar
 3 Unclaimed Territory
-3 Cavern of Souls
 3 Reflector Mage
 3 Meddling Mage
-3 Thalia, Guardian of Thraben
 3 Thalia's Lieutenant
 3 Champion of the Parish
 3 Aether Vial
@@ -231,8 +231,8 @@
 3 Secluded Courtyard
 4 Secluded Courtyard
 4 Horizon Canopy
-4 Unclaimed Territory
 4 Cavern of Souls
+4 Unclaimed Territory
 4 Reflector Mage
 4 Meddling Mage
 4 Champion of the Parish
@@ -240,38 +240,38 @@
 4 Aether Vial
 4 Thalia's Lieutenant
 1 Urborg, Tomb of Yawgmoth
-1 Godless Shrine
+1 Tourach, Dread Cantor
 1 Lion Sash
 1 Maul of the Skyclaves
 1 Touch the Spirit Realm
 1 Agadeem's Awakening
 1 Persist
-1 Grief
 1 Malakir Rebirth
 1 Spirited Companion
 1 Silent Clearing
-1 Tourach, Dread Cantor
+1 Grief
 1 Undying Evil
 1 Shriekmaw
 1 Swamp
+1 Godless Shrine
 1 Emeria's Call
-2 Silent Clearing
-2 Godless Shrine
+2 Tourach, Dread Cantor
 2 Persist
 2 Grief
-2 Touch the Spirit Realm
 2 Agadeem's Awakening
+2 Touch the Spirit Realm
+2 Silent Clearing
 2 Spirited Companion
-2 Tourach, Dread Cantor
 2 Malakir Rebirth
+2 Godless Shrine
 2 Emeria's Call
 2 Undying Evil
 3 Silent Clearing
+3 Godless Shrine
 3 Grief
 3 Touch the Spirit Realm
 3 Emeria's Call
 3 Malakir Rebirth
-3 Godless Shrine
 3 Tourach, Dread Cantor
 4 Silent Clearing
 4 Grief

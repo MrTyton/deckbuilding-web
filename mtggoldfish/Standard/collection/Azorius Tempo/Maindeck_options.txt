@@ -7,8 +7,8 @@
 4 Leonin Lightscribe
 4 Homestead Courage
 2 Suspicious Stowaway
-1 Usher of the Fallen
 1 Divide by Zero
+1 Usher of the Fallen
 2 Divide by Zero
 2 Usher of the Fallen
 3 Usher of the Fallen
@@ -31,12 +31,12 @@
 4 Skyclave Apparition
 1 Reidane, God of the Worthy
 1 Intrepid Adversary
-2 Hall of Storm Giants
 2 Reidane, God of the Worthy
+2 Hall of Storm Giants
 2 Intrepid Adversary
+3 Divide by Zero
 3 Reidane, God of the Worthy
 3 Intrepid Adversary
-3 Divide by Zero
 4 Reidane, God of the Worthy
 4 Divide by Zero
 4 Usher of the Fallen
@@ -84,8 +84,8 @@
 1 Ledger Shredder
 1 Jwari Disruption
 2 Ledger Shredder
-1 Snow-Covered Plains
 1 Snow-Covered Island
+1 Snow-Covered Plains
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
@@ -106,14 +106,15 @@
 1 Curate
 9 Snow-Covered Island
 10 Snow-Covered Island
-1 Ascendant Spirit
 1 Faceless Haven
+1 Ascendant Spirit
 2 Ascendant Spirit
 2 Faceless Haven
 1 Starnheim Unleashed
 2 Starnheim Unleashed
 7 Snow-Covered Plains
 8 Snow-Covered Plains
+3 Show of Confidence
 1 March of Swirling Mist
 1 Disdainful Stroke
 1 Security Bypass
@@ -123,39 +124,38 @@
 2 Security Bypass
 3 March of Swirling Mist
 3 Security Bypass
-3 Show of Confidence
 1 Raffine's Tower
-1 Essence Capture
 1 Faithful Mending
-2 Essence Capture
+1 Essence Capture
 2 Faithful Mending
+2 Essence Capture
 3 Ledger Shredder
 3 Essence Capture
 4 Ledger Shredder
 4 Fateful Absence
-1 Doomskar
-1 Behold the Multiverse
 1 Avalanche Caller
 1 Jace, Mirror Mage
-1 Pithing Needle
 1 Teferi, Who Slows the Sunset
+1 Pithing Needle
 1 Portable Hole
-2 Doomskar
-2 Behold the Multiverse
+1 Doomskar
+1 Behold the Multiverse
 2 Teferi, Who Slows the Sunset
 2 Jace, Mirror Mage
-2 Curate
 2 Avalanche Caller
+2 Curate
 2 Pithing Needle
+2 Doomskar
 2 Portable Hole
-3 Starnheim Unleashed
-3 Doomskar
-3 Avalanche Caller
+2 Behold the Multiverse
 3 Behold the Multiverse
+3 Starnheim Unleashed
 3 Teferi, Who Slows the Sunset
+3 Avalanche Caller
+3 Doomskar
 3 Curate
-4 Doomskar
 4 Avalanche Caller
+4 Doomskar
 4 Behold the Multiverse
 1 Syncopate
 1 Silundi Vision
@@ -167,9 +167,9 @@
 2 Valorous Stance
 2 Overcharged Amalgam
 2 Baithook Angler
-3 Thirst for Discovery
 3 Syncopate
 3 Poppet Stitcher
+3 Thirst for Discovery
 3 Overcharged Amalgam
 4 Syncopate
 4 Overcharged Amalgam
@@ -184,19 +184,19 @@
 4 Sejiri Shelter
 4 Kabira Takedown
 1 Glacial Floodplain
-1 Cathar Commando
 1 Linvala, Shield of Sea Gate
+1 Cathar Commando
 1 Archpriest of Iona
 1 Malevolent Hermit
 1 Hallowed Respite
 1 Gavony Dawnguard
 1 Concerted Defense
+2 Glacial Floodplain
 2 Cathar Commando
 2 Archpriest of Iona
 2 Linvala, Shield of Sea Gate
 2 Malevolent Hermit
 2 Hallowed Respite
-2 Glacial Floodplain
 2 Gavony Dawnguard
 3 Glacial Floodplain
 3 Hallowed Respite
@@ -206,31 +206,31 @@
 3 Malevolent Hermit
 3 Archpriest of Iona
 3 Ascendant Spirit
+4 Glacial Floodplain
 4 Malevolent Hermit
 4 Archpriest of Iona
-4 Glacial Floodplain
 4 Ascendant Spirit
 4 Gavony Dawnguard
 3 Spell Pierce
-4 Spell Pierce
 4 Negate
+4 Spell Pierce
 7 Island
 8 Island
 1 Iymrith, Desert Doom
+1 Valkyrie Harbinger
 1 Mind Flayer
 1 Annul
-1 Valkyrie Harbinger
-1 Lunarch Veteran
 1 Minimus Containment
+1 Lunarch Veteran
 1 Righteous Valkyrie
 1 Kitesail Cleric
 1 Youthful Valkyrie
+2 Annul
+2 Minimus Containment
 2 Lunarch Veteran
 2 Righteous Valkyrie
 2 Valkyrie Harbinger
 2 Youthful Valkyrie
-2 Annul
-2 Minimus Containment
 3 Lunarch Veteran
 3 Youthful Valkyrie
 3 Righteous Valkyrie

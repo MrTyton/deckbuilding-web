@@ -18,14 +18,14 @@
 1 Overgrown Tomb
 1 Verdant Catacombs
 1 Temur Battle Rage
-2 Verdant Catacombs
 2 Wooded Foothills
+2 Verdant Catacombs
 3 Verdant Catacombs
 4 Verdant Catacombs
 1 Snow-Covered Swamp
-1 Riveteers Charm
 1 Tarmogoyf
 1 Nurturing Peatland
+1 Riveteers Charm
 2 Riveteers Charm
 2 Tarmogoyf
 3 Riveteers Charm
@@ -39,9 +39,9 @@
 2 Murktide Regent
 2 Counterspell
 2 Archmage's Charm
+3 Watery Grave
 3 Murktide Regent
 3 Counterspell
-3 Watery Grave
 4 Murktide Regent
 2 Temur Battle Rage
 3 Fatal Push
@@ -76,18 +76,13 @@
 1 Forest
 3 Wooded Foothills
 1 Snow-Covered Forest
-1 Sokenzan, Crucible of Defiance
 1 Bloodchief's Thirst
+1 Sokenzan, Crucible of Defiance
 1 Snow-Covered Island
 1 Misty Rainforest
 1 Otawara, Soaring City
 2 Misty Rainforest
 3 Inquisition of Kozilek
-1 Flooded Strand
-1 Sea Gate Restoration
-2 Flooded Strand
-3 Tainted Indulgence
-4 Tainted Indulgence
 1 Thought Scour
 2 Thought Scour
 2 Gurmag Angler
@@ -95,6 +90,11 @@
 3 Stubborn Denial
 3 Gurmag Angler
 4 Thought Scour
+1 Flooded Strand
+1 Sea Gate Restoration
+2 Flooded Strand
+3 Tainted Indulgence
+4 Tainted Indulgence
 1 Bone Shards
 1 Dreadhorde Arcanist
 2 Dreadhorde Arcanist
@@ -102,23 +102,23 @@
 4 Dreadhorde Arcanist
 1 Godless Shrine
 1 Sacred Foundry
-1 Wild Nacatl
 1 Scourge of the Skyclaves
 1 Mutagenic Growth
+1 Wild Nacatl
 1 Monastery Swiftspear
 1 Become Immense
-2 Wild Nacatl
 2 Scourge of the Skyclaves
 2 Mutagenic Growth
 2 Dismember
 2 Become Immense
+2 Wild Nacatl
 2 Monastery Swiftspear
-3 Wild Nacatl
 3 Mutagenic Growth
 3 Temur Battle Rage
 3 Scourge of the Skyclaves
 3 Monastery Swiftspear
 3 Become Immense
+3 Wild Nacatl
 4 Wooded Foothills
 4 Wild Nacatl
 4 Monastery Swiftspear
