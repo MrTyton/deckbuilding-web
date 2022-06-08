@@ -76,12 +76,6 @@
 1 Reprobation
 2 Reprobation
 3 Reprobation
-1 Ephemerate
-1 Snakeskin Veil
-2 Snakeskin Veil
-3 Snakeskin Veil
-4 Snakeskin Veil
-4 Soul-Guide Lantern
 1 Valorous Stance
 1 Guardian of Faith
 1 Toski, Bearer of Secrets
@@ -90,9 +84,15 @@
 2 Valorous Stance
 2 Tamiyo's Safekeeping
 2 Paladin Class
-3 Tamiyo's Safekeeping
 3 Relic of Progenitus
+3 Tamiyo's Safekeeping
 4 Relic of Progenitus
+1 Ephemerate
+1 Snakeskin Veil
+2 Snakeskin Veil
+3 Snakeskin Veil
+4 Snakeskin Veil
+4 Soul-Guide Lantern
 1 Voice of the Blessed
 1 Jegantha, the Wellspring
 2 Voice of the Blessed
@@ -103,8 +103,8 @@
 4 Elite Spellbinder
 1 The Wandering Emperor
 2 The Wandering Emperor
-3 The Wandering Emperor
 3 Knight of Autumn
+3 The Wandering Emperor
 4 Knight of Autumn
 4 The Wandering Emperor
 4 Portable Hole

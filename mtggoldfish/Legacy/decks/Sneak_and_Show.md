@@ -86,7 +86,7 @@
 |                     |                                                                                                   |                    2|[Through the Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=80250)       |
 |                     |                                                                                                   |                    3|[Through the Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=80250)       |
 |                     |                                                                                                   |                    4|[Through the Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=80250)       |
-|                     |                                                                                                   |                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)       |
 |                     |                                                                                                   |                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)           |
+|                     |                                                                                                   |                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)       |
 |                     |                                                                                                   |                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)       |
 
