@@ -1,10 +1,10 @@
-3 Magus of the Moon
 3 Fury
 1 Ephemerate
 2 Ephemerate
-1 Windswept Heath
-3 Ephemerate
+3 Magus of the Moon
 4 Fury
+3 Ephemerate
+1 Windswept Heath
 1 The Wandering Emperor
 4 Ephemerate
 4 Sacred Foundry
@@ -17,68 +17,71 @@
 2 Flagstones of Trokair
 3 Flagstones of Trokair
 4 Flagstones of Trokair
-2 Windswept Heath
-1 Savai Triome
 1 Brought Back
-1 Walking Ballista
-1 Thraben Inspector
-1 Ghost Quarter
 2 Brought Back
-2 Ghost Quarter
 3 Brought Back
 4 Brought Back
 1 Marsh Flats
+1 Savai Triome
+1 Walking Ballista
+1 Thraben Inspector
+1 Ghost Quarter
+2 Ghost Quarter
+2 Windswept Heath
 1 Flooded Strand
 4 Magus of the Moon
 2 Giver of Runes
-3 Windswept Heath
 2 Marsh Flats
-3 Giver of Runes
-4 Giver of Runes
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
 4 Snow-Covered Plains
+3 Giver of Runes
+4 Giver of Runes
+3 Windswept Heath
+1 Seasoned Pyromancer
+1 Snow-Covered Mountain
 1 Prismatic Ending
 2 Prismatic Ending
 5 Plains
-1 Seasoned Pyromancer
-1 Sunbaked Canyon
-2 Sunbaked Canyon
-3 Blood Moon
-4 Blood Moon
-1 Snow-Covered Mountain
-1 Lightning Bolt
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
-3 Sword of Fire and Ice
-1 Shadowspear
-3 March of Otherworldly Light
-3 Cleansing Wildfire
-4 Cleansing Wildfire
-2 Lightning Bolt
+1 Lightning Bolt
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
 3 Prismatic Ending
 4 Seasoned Pyromancer
+1 Sunbaked Canyon
+2 Sunbaked Canyon
+1 Shadowspear
+3 Blood Moon
+4 Blood Moon
+3 March of Otherworldly Light
+3 Marsh Flats
+4 Marsh Flats
+3 Cleansing Wildfire
+4 Cleansing Wildfire
+2 Lightning Bolt
+3 Fable of the Mirror-Breaker
+4 Fable of the Mirror-Breaker
+4 Prismatic Ending
 2 The Wandering Emperor
 1 Rustvale Bridge
 1 Mana Tithe
 2 Thraben Inspector
 4 Showdown of the Skalds
-1 Lion Sash
+3 Sword of Fire and Ice
 3 Lightning Bolt
-3 Marsh Flats
-4 Marsh Flats
 4 March of Otherworldly Light
-3 Fable of the Mirror-Breaker
-4 Fable of the Mirror-Breaker
-4 Prismatic Ending
 3 Thraben Inspector
+1 Lion Sash
 1 Maul of the Skyclaves
 1 Touch the Spirit Realm
 1 Bonecrusher Giant
 2 Bonecrusher Giant
+2 Flooded Strand
+2 Snow-Covered Mountain
+5 Snow-Covered Plains
 1 Obsidian Charmaw
 2 Mountain
 2 Obsidian Charmaw
@@ -97,8 +100,8 @@
 2 Rugged Prairie
 3 Needleverge Pathway
 3 Battlefield Forge
-3 Rugged Prairie
 3 Lotus Field
+3 Rugged Prairie
 3 Avalanche Riders
 3 Blood Sun
 4 Needleverge Pathway
@@ -118,14 +121,13 @@
 2 Eiganjo, Seat of the Empire
 2 Touch the Spirit Realm
 2 Spikefield Hazard
-2 Snow-Covered Mountain
 2 Chalice of the Void
 2 Rest in Peace
 2 Suppression Field
 2 Savai Triome
 2 Cavern of Souls
-3 Chalice of the Void
 3 Touch the Spirit Realm
+3 Chalice of the Void
 3 Spikefield Hazard
 3 Rest in Peace
 3 Bonecrusher Giant
@@ -136,11 +138,11 @@
 4 Suppression Field
 4 Bonecrusher Giant
 4 Spikefield Hazard
-5 Snow-Covered Plains
 6 Snow-Covered Plains
 1 Rabbit Battery
 1 Boros Charm
 1 Lightning Helix
+3 Flooded Strand
 1 Imperial Recruiter
 2 Imperial Recruiter
 3 Imperial Recruiter
@@ -151,7 +153,6 @@
 1 Urza's Saga
 1 Relic of Progenitus
 1 Voyager Staff
-2 Flooded Strand
 2 Urza's Saga
 3 Urza's Saga
 4 Urza's Saga
