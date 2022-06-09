@@ -33,6 +33,7 @@
 4 Lightning Bolt
 1 Emrakul, the Promised End
 1 Deputy of Detention
+3 Ephemerate
 4 Spreading Seas
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
@@ -40,16 +41,15 @@
 4 Ragavan, Nimble Pilferer
 1 Meddling Mage
 4 Eladamri's Call
-3 Ephemerate
 2 Utopia Sprawl
 1 Teferi, Hero of Dominaria
 2 Teferi, Hero of Dominaria
 3 Fury
 1 Brought Back
 2 Brought Back
-2 Snow-Covered Plains
 4 Ephemerate
 1 Time Warp
+2 Snow-Covered Plains
 1 Arid Mesa
 2 Arid Mesa
 3 Arid Mesa
@@ -112,10 +112,10 @@
 2 Emeria, the Sky Ruin
 3 Marsh Flats
 3 Esper Sentinel
-3 Charming Prince
 3 Ranger-Captain of Eos
 3 Hallowed Fountain
 3 Field of Ruin
+3 Charming Prince
 3 Sun Titan
 3 Emeria, the Sky Ruin
 4 Marsh Flats
@@ -124,13 +124,13 @@
 5 Plains
 6 Plains
 7 Plains
+1 Lion Sash
 1 Horizon Canopy
 1 Glacial Floodplain
 1 Rimewood Falls
-1 Brokers Charm
+1 Castle Ardenvale
 1 Force of Negation
-1 Sword of Feast and Famine
-2 Brokers Charm
+1 The Reality Chip
 2 Force of Negation
 3 Snow-Covered Island
 3 Force of Negation
@@ -153,9 +153,8 @@
 1 Agadeem's Awakening
 1 Godless Shrine
 1 Spirited Companion
-1 Touch the Spirit Realm
 1 Persist
-1 Lion Sash
+1 Touch the Spirit Realm
 1 Maul of the Skyclaves
 1 Shriekmaw
 1 Swamp
@@ -164,20 +163,20 @@
 1 Tourach, Dread Cantor
 1 Emeria's Call
 2 Malakir Rebirth
-2 Silent Clearing
 2 Undying Evil
+2 Silent Clearing
 2 Spirited Companion
 2 Godless Shrine
-2 Touch the Spirit Realm
 2 Agadeem's Awakening
 2 Persist
+2 Touch the Spirit Realm
 2 Grief
 2 Emeria's Call
 2 Tourach, Dread Cantor
 3 Malakir Rebirth
 3 Tourach, Dread Cantor
-3 Silent Clearing
 3 Godless Shrine
+3 Silent Clearing
 3 Touch the Spirit Realm
 3 Grief
 3 Emeria's Call
@@ -185,6 +184,34 @@
 4 Silent Clearing
 4 Godless Shrine
 4 Grief
+1 Polluted Delta
+1 Glacial Fortress
+1 Reflecting Pool
+1 Fire/Ice
+1 Cleansing Wildfire
+1 Kiki-Jiki, Mirror Breaker
+1 Chalice of the Void
+1 Restoration Angel
+1 Cascade Bluffs
+1 Island
+1 Archmage's Charm
+2 Cleansing Wildfire
+2 Chalice of the Void
+2 Restoration Angel
+2 Island
+2 Raugrin Triome
+2 Kiki-Jiki, Mirror Breaker
+2 Steam Vents
+2 Archmage's Charm
+2 Cascade Bluffs
+3 Raugrin Triome
+3 Cleansing Wildfire
+3 Restoration Angel
+3 Island
+3 Kiki-Jiki, Mirror Breaker
+3 Archmage's Charm
+4 Restoration Angel
+4 Archmage's Charm
 1 Cavern of Souls
 1 Extraction Specialist
 1 Unclaimed Territory
@@ -234,31 +261,3 @@
 4 Pyre of Heroes
 4 Aether Vial
 4 Thalia's Lieutenant
-1 Polluted Delta
-1 Glacial Fortress
-1 Reflecting Pool
-1 Fire/Ice
-1 Cleansing Wildfire
-1 Kiki-Jiki, Mirror Breaker
-1 Chalice of the Void
-1 Restoration Angel
-1 Cascade Bluffs
-1 Island
-1 Archmage's Charm
-2 Island
-2 Cleansing Wildfire
-2 Chalice of the Void
-2 Restoration Angel
-2 Raugrin Triome
-2 Kiki-Jiki, Mirror Breaker
-2 Steam Vents
-2 Archmage's Charm
-2 Cascade Bluffs
-3 Raugrin Triome
-3 Cleansing Wildfire
-3 Restoration Angel
-3 Island
-3 Kiki-Jiki, Mirror Breaker
-3 Archmage's Charm
-4 Restoration Angel
-4 Archmage's Charm

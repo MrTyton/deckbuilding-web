@@ -117,6 +117,6 @@
 |                    3|[Conspicuous Snoop](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485462)       |                     |                                                                                                |
 |                    3|[Muxus, Goblin Grandee](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489191)   |                     |                                                                                                |
 |                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                |                     |                                                                                                |
-|                    7|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                |                     |                                                                                                |
 |                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                |                     |                                                                                                |
+|                    7|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                |                     |                                                                                                |
 

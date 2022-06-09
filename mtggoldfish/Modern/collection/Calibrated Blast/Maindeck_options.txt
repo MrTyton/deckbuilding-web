@@ -58,9 +58,6 @@
 3 Piranha Marsh
 4 Piranha Marsh
 1 Savai Triome
-1 Xander's Lounge
-3 Blood Crypt
-4 Blood Crypt
 1 Misty Rainforest
 2 Misty Rainforest
 3 Boseiju, Who Shelters All
@@ -69,14 +66,14 @@
 3 Commit/Memory
 3 Halimar Depths
 4 Halimar Depths
-1 Polluted Delta
 1 Verdant Catacombs
+1 Polluted Delta
 1 Godless Shrine
 1 Breeding Pool
 1 Ketria Triome
 1 Flooded Strand
-2 Polluted Delta
 2 Verdant Catacombs
+2 Polluted Delta
 2 Flooded Strand
 3 Polluted Delta
 3 Flooded Strand
@@ -97,6 +94,9 @@
 1 Shivan Reef
 2 Shivan Reef
 3 Shivan Reef
+4 Shivan Reef
 5 Mountain
 6 Mountain
-4 Shivan Reef
+1 Xander's Lounge
+3 Blood Crypt
+4 Blood Crypt

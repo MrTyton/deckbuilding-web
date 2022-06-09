@@ -1,5 +1,9 @@
 3 Kumano Faces Kakkazan
 4 Kumano Faces Kakkazan
+1 Fervent Champion
+2 Fervent Champion
+3 Fervent Champion
+4 Fervent Champion
 4 Den of the Bugbear
 2 Kari Zev, Skyship Raider
 3 Rampaging Ferocidon
@@ -11,40 +15,35 @@
 2 Fanatical Firebrand
 3 Fanatical Firebrand
 4 Fanatical Firebrand
-1 Fervent Champion
-2 Fervent Champion
-3 Fervent Champion
-4 Fervent Champion
-4 Torbran, Thane of Red Fell
 1 Play with Fire
 2 Play with Fire
+4 Torbran, Thane of Red Fell
 3 Play with Fire
-4 Embercleave
 1 Abrade
-1 Rahilda, Wanted Cutthroat
+4 Embercleave
 1 Light Up the Night
 1 Reckless Stormseeker
+1 Rahilda, Wanted Cutthroat
 4 Roiling Vortex
 1 Shatterskull Smashing
-2 Sokenzan, Crucible of Defiance
 17 Mountain
+2 Sokenzan, Crucible of Defiance
 1 Light Up the Stage
 2 Light Up the Stage
 4 Rampaging Ferocidon
+1 Phoenix of Ash
+18 Mountain
+19 Mountain
 1 Chandra, Torch of Defiance
 1 Relic Robber
 1 Voldaren Epicure
 2 Voldaren Epicure
 3 Voldaren Epicure
-18 Mountain
-19 Mountain
-20 Mountain
 3 Light Up the Stage
 4 Light Up the Stage
 2 Rahilda, Wanted Cutthroat
 1 Voltage Surge
 1 Goblin Javelineer
-1 Phoenix of Ash
 2 Voltage Surge
 2 Phoenix of Ash
 2 Goblin Javelineer
@@ -52,50 +51,46 @@
 3 Voltage Surge
 4 Voldaren Epicure
 4 Voltage Surge
+20 Mountain
+2 Reckless Stormseeker
 2 Shatterskull Smashing
 3 Shatterskull Smashing
-1 Scorch Spitter
-2 Scorch Spitter
-3 Scorch Spitter
-4 Scorch Spitter
 1 Static Discharge
 2 Static Discharge
 3 Static Discharge
 4 Static Discharge
+1 Chandra, Dressed to Kill
 1 Lightning Strike
 2 Lightning Strike
 3 Lightning Strike
 4 Lightning Strike
-1 Cavalcade of Calamity
-1 Grim Initiate
-2 Cavalcade of Calamity
-2 Grim Initiate
-3 Grim Initiate
-3 Cavalcade of Calamity
-4 Cavalcade of Calamity
-1 Shock
-2 Shock
-3 Shock
-4 Shock
+1 Scorch Spitter
+2 Scorch Spitter
+3 Scorch Spitter
+4 Scorch Spitter
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
 1 Ghitu Lavarunner
 1 Wizard's Lightning
+1 Shock
 1 Viashino Pyromancer
 1 Rimrock Knight
 2 Ghitu Lavarunner
 2 Wizard's Lightning
+2 Shock
 2 Rimrock Knight
 2 Viashino Pyromancer
 3 Wizard's Lightning
 3 Ghitu Lavarunner
+3 Shock
 3 Rimrock Knight
 3 Viashino Pyromancer
 4 Ghitu Lavarunner
+4 Shock
 4 Wizard's Lightning
-4 Viashino Pyromancer
 4 Rimrock Knight
+4 Viashino Pyromancer
 1 Snow-Covered Mountain
 1 Skewer the Critics
 1 Toralf, God of Fury
@@ -110,7 +105,8 @@
 2 Hellrider
 3 Hellrider
 4 Hellrider
-2 Reckless Stormseeker
+1 Bloodthirsty Adversary
+1 Alchemist's Gambit
 2 Chandra, Torch of Defiance
 1 Claim the Firstborn
 2 Claim the Firstborn
@@ -118,7 +114,6 @@
 3 Abrade
 1 Sundown Pass
 1 Needleverge Pathway
-1 Chandra, Dressed to Kill
 1 Inspiring Vantage
 1 Sacred Foundry
 2 Needleverge Pathway
@@ -145,50 +140,36 @@
 4 Sokenzan, Crucible of Defiance
 4 Shatterskull Smashing
 1 Runaway Steam-Kin
-1 Chandra, Acolyte of Flame
 1 Spikefield Hazard
+1 Chandra, Acolyte of Flame
+1 Cavalcade of Calamity
+1 Grim Initiate
 2 Runaway Steam-Kin
-2 Chandra, Acolyte of Flame
 2 Spikefield Hazard
+2 Chandra, Acolyte of Flame
+2 Cavalcade of Calamity
+2 Grim Initiate
 3 Runaway Steam-Kin
+3 Cavalcade of Calamity
+3 Grim Initiate
 3 Chandra, Acolyte of Flame
 4 Runaway Steam-Kin
-1 Forbidden Friendship
-1 Chandra's Pyreling
-1 Chandra's Spitfire
-1 Tin Street Dodger
-1 Goblin Arsonist
-1 Raid Bombardment
-2 Forbidden Friendship
-2 Goblin Arsonist
-2 Chandra's Pyreling
-2 Chandra's Spitfire
-2 Tin Street Dodger
-2 Raid Bombardment
-3 Forbidden Friendship
-3 Raid Bombardment
-3 Tin Street Dodger
-3 Chandra's Pyreling
-3 Chandra's Spitfire
-3 Goblin Arsonist
-4 Chandra's Pyreling
-4 Tin Street Dodger
-4 Chandra's Spitfire
+4 Cavalcade of Calamity
 1 Rockfall Vale
 1 Rootbound Crag
 1 Sheltered Thicket
+1 Swamp
 1 Skirk Prospector
 1 Cragcrown Pathway
-1 Swamp
 1 Stomping Ground
 1 Combat Celebrant
 2 Rockfall Vale
 2 Rootbound Crag
 2 Sheltered Thicket
+2 Swamp
 2 Cragcrown Pathway
 2 Stomping Ground
 2 Skirk Prospector
-2 Swamp
 2 Combat Celebrant
 3 Skirk Prospector
 3 Rootbound Crag
@@ -218,9 +199,9 @@
 1 Hollow One
 1 Faithless Looting
 2 Rabbit Battery
+2 Fable of the Mirror-Breaker
 2 Seasoned Pyromancer
 2 Fiery Temper
-2 Fable of the Mirror-Breaker
 2 Dragon's Rage Channeler
 2 Ox of Agonas
 2 Pillar of Flame
@@ -228,8 +209,8 @@
 2 Blazing Rootwalla
 2 Hollow One
 2 Faithless Looting
-3 Unholy Heat
 3 Fable of the Mirror-Breaker
+3 Unholy Heat
 3 Dragon's Rage Channeler
 3 Faithless Looting
 3 Fiery Temper

@@ -58,9 +58,6 @@
 3 Prismatic Vista
 1 Supreme Verdict
 1 Master of Waves
-1 Valakut, the Molten Pinnacle
-1 Bring to Light
-1 Scapeshift
 1 Bloodbraid Elf
 1 Godless Shrine
 1 Explore
@@ -71,7 +68,6 @@
 1 Time Warp
 1 Murktide Regent
 1 Savai Triome
-1 Birds of Paradise
 1 Utopia Sprawl
 1 Fable of the Mirror-Breaker
 1 Kiki-Jiki, Mirror Breaker
@@ -110,6 +106,7 @@
 1 Settle the Wreckage
 1 Eldrazi Conscription
 1 Coalition Victory
+1 Birds of Paradise
 1 Jasmine Boreal
 1 Fiery Justice
 1 Massive Raid
@@ -128,7 +125,9 @@
 1 Revel in Riches
 1 Goblin Snowman
 1 Dreg Mangler
+1 Valakut, the Molten Pinnacle
 1 Chromatic Lantern
+1 Bring to Light
 1 Yargle, Glutton of Urborg
 1 Clifftop Retreat
 1 Temporal Mastery
@@ -162,6 +161,7 @@
 1 Blood Crypt
 1 The Flame of Keld
 1 Endurance
+1 Scapeshift
 1 Colossal Dreadmaw
 1 Wargate
 1 Admonition Angel
@@ -175,8 +175,7 @@
 1 Deceiver Exarch
 1 Felidar Sovereign
 1 Rootbound Crag
-2 Valakut, the Molten Pinnacle
-2 Bring to Light
+2 Eladamri's Call
 2 Sacred Foundry
 2 Explore
 2 Fury
@@ -191,6 +190,7 @@
 2 Arid Mesa
 2 Path to Exile
 2 Abundant Harvest
+2 Bring to Light
 2 Ragavan, Nimble Pilferer
 2 Fires of Invention
 2 Noble Hierarch
@@ -199,9 +199,9 @@
 2 Expressive Iteration
 2 Rootbound Crag
 2 Risen Reef
+2 Valakut, the Molten Pinnacle
 2 Sunpetal Grove
 2 Hedron Alignment
-2 Eladamri's Call
 2 Massive Raid
 3 Bring to Light
 3 Arid Mesa
@@ -304,13 +304,13 @@
 2 Mystic Gate
 1 Opt
 2 Opt
+1 Brokers Charm
 1 Dovin's Veto
 1 Lithoform Engine
 1 Zirda, the Dawnwaker
-1 Brokers Charm
+2 Brokers Charm
 2 Zirda, the Dawnwaker
 2 Snow-Covered Plains
-2 Brokers Charm
 2 Lithoform Engine
 1 Sea Gate Restoration
 1 Mikokoro, Center of the Sea
@@ -342,8 +342,8 @@
 4 Remand
 1 Eiganjo, Seat of the Empire
 1 Chalice of the Void
-2 Glacial Fortress
 2 Chalice of the Void
+2 Glacial Fortress
 2 The Wandering Emperor
 3 The Wandering Emperor
 3 Chalice of the Void
