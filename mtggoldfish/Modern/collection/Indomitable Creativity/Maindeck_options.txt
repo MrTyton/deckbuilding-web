@@ -1,11 +1,10 @@
-1 Bloodstained Mire
-3 Lightning Bolt
+4 Wooded Foothills
 2 Sacred Foundry
-2 Bloodstained Mire
+1 Spell Pierce
+3 Lightning Bolt
 1 Valakut, the Molten Pinnacle
 1 Transmogrify
 4 Lightning Bolt
-4 Hard Evidence
 2 Stomping Ground
 1 Primeval Titan
 2 Valakut, the Molten Pinnacle
@@ -13,6 +12,7 @@
 3 Valakut, the Molten Pinnacle
 3 Primeval Titan
 4 Primeval Titan
+4 Hard Evidence
 1 Mountain
 1 Growth Spiral
 2 Growth Spiral
@@ -21,24 +21,57 @@
 2 Ketria Triome
 4 Fire/Ice
 3 Steam Vents
-1 Forest
 1 March of Otherworldly Light
+1 Forest
+1 Snow-Covered Mountain
+4 Remand
+1 Breeding Pool
 1 Flooded Strand
 2 Flooded Strand
 2 Nahiri, the Harbinger
 3 Flooded Strand
 4 Flooded Strand
-1 Snow-Covered Mountain
-4 Remand
-1 Breeding Pool
-3 Stomping Ground
-2 Transmogrify
-2 Mountain
+1 Prismatic Omen
+2 Prismatic Omen
+1 Jetmir's Garden
+1 Force of Negation
+2 Force of Negation
+1 Boseiju, Who Endures
+3 Bloodstained Mire
+1 Blood Crypt
+1 Counterspell
+1 Savai Triome
+1 Xenagos, God of Revels
+1 Wish
+2 Counterspell
+2 Wish
+3 Counterspell
+2 Spell Pierce
+1 Explore
+2 Explore
+3 Explore
+1 Abundant Growth
+1 Otawara, Soaring City
+1 Narset, Parter of Veils
+1 Fable of the Mirror-Breaker
 1 Sokenzan, Crucible of Defiance
-1 Kher Keep
+1 Spreading Seas
+2 March of Otherworldly Light
+2 Fable of the Mirror-Breaker
+2 Abundant Growth
+2 Narset, Parter of Veils
+2 Spreading Seas
+3 Jace, the Mind Sculptor
+3 Abundant Growth
+4 Abundant Growth
+3 Stomping Ground
+2 Mountain
+2 Transmogrify
 1 Khalni Garden
 1 March of Reckless Joy
+1 Kher Keep
 1 Chandra, Dressed to Kill
+1 Boseiju, Who Shelters All
 1 Domri, Anarch of Bolas
 1 Fire-Lit Thicket
 1 Mass Hysteria
@@ -48,13 +81,16 @@
 1 Spawning Breath
 1 Honor the God-Pharaoh
 1 Vessel of Volatility
+1 Sylvan Scrying
 1 Cinder Glade
 2 Khalni Garden
+2 Boseiju, Who Shelters All
 2 March of Reckless Joy
 2 Chandra, Dressed to Kill
 2 Domri, Anarch of Bolas
 2 Vessel of Volatility
 2 Spawning Breath
+2 Sylvan Scrying
 2 Forest
 2 Cinder Glade
 2 Honor the God-Pharaoh
@@ -70,6 +106,7 @@
 3 Cinder Glade
 3 Honor the God-Pharaoh
 3 Mass Hysteria
+3 Sylvan Scrying
 3 Spawning Breath
 3 Pyretic Ritual
 3 Mountain
@@ -78,49 +115,10 @@
 4 Spawning Breath
 4 Mountain
 5 Mountain
-1 Boseiju, Who Endures
-3 Bloodstained Mire
-1 Prismatic Omen
-2 Prismatic Omen
-1 Jetmir's Garden
-1 Blood Crypt
-1 Counterspell
-1 Savai Triome
-1 Xenagos, God of Revels
-1 Wish
-2 Counterspell
-2 Wish
-3 Counterspell
-2 Spell Pierce
-1 Explore
-2 Explore
-3 Explore
-1 Abundant Growth
-1 Narset, Parter of Veils
-1 Fable of the Mirror-Breaker
-1 Otawara, Soaring City
-1 Spreading Seas
-2 March of Otherworldly Light
-2 Fable of the Mirror-Breaker
-2 Abundant Growth
-2 Narset, Parter of Veils
-2 Spreading Seas
-3 Jace, the Mind Sculptor
-3 Abundant Growth
-4 Abundant Growth
-1 Boseiju, Who Shelters All
-1 Sylvan Scrying
-2 Boseiju, Who Shelters All
-2 Sylvan Scrying
-3 Sylvan Scrying
-1 Cathartic Pyre
-4 Khalni Garden
-4 Honor the God-Pharaoh
 1 Iona, Shield of Emeria
-1 Force of Negation
-2 Force of Negation
 1 Chained to the Rocks
 2 Chained to the Rocks
+3 Force of Negation
 1 Strike It Rich
 2 Strike It Rich
 3 Strike It Rich

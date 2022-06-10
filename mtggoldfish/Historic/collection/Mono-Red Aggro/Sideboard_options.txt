@@ -60,9 +60,9 @@
 1 Magma Spray
 2 Magma Spray
 1 Unholy Heat
-2 Unholy Heat
 1 Pillar of Flame
 1 Smelt
+2 Unholy Heat
 2 Pillar of Flame
 2 Smelt
 1 Kari Zev, Skyship Raider
@@ -86,19 +86,6 @@
 2 Tibalt, Rakish Instigator
 3 Tibalt, Rakish Instigator
 3 Cinderclasm
-1 Thundering Raiju
-1 Bloodthirsty Adversary
-1 Pithing Needle
-1 Toralf's Disciple
-1 Chandra's Regulator
-2 Thundering Raiju
-2 Pithing Needle
-2 Bloodthirsty Adversary
-2 Toralf's Disciple
-3 Thundering Raiju
-3 Bloodthirsty Adversary
-3 Pithing Needle
-3 Toralf's Disciple
 1 Rest in Peace
 1 Cleansing Nova
 1 Archon of Emeria
@@ -113,8 +100,8 @@
 3 Fateful Absence
 3 Rest in Peace
 3 Archon of Emeria
-1 Redcap Melee
 1 Aethersphere Harvester
+1 Redcap Melee
 2 Redcap Melee
 2 Aethersphere Harvester
 3 Aethersphere Harvester
@@ -142,10 +129,24 @@
 3 Heroic Intervention
 4 Cindervines
 4 Cemetery Gatekeeper
+1 Shock
+1 Shatterskull Smashing
+1 Crawling Barrens
+1 Hall Monitor
+1 Akoum Hellhound
+1 Roil Eruption
+2 Shatterskull Smashing
+2 Shock
+2 Crawling Barrens
+2 Akoum Hellhound
+3 Shock
+3 Crawling Barrens
+3 Akoum Hellhound
+4 Crawling Barrens
+4 Akoum Hellhound
 1 Lightning Axe
 1 Strangle
 1 Thundering Rebuke
-1 Shock
 1 Heated Debate
 2 Thundering Rebuke
 1 Antagonize

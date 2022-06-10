@@ -1,6 +1,6 @@
-1 Hallowed Fountain
-3 Darkslick Shores
+2 Darkslick Shores
 1 Flooded Strand
+3 Darkslick Shores
 4 Darkslick Shores
 1 Street Wraith
 2 Street Wraith
@@ -8,8 +8,8 @@
 1 Urborg, Tomb of Yawgmoth
 1 Witch's Oven
 1 Cauldron Familiar
-2 Cauldron Familiar
 4 Street Wraith
+2 Cauldron Familiar
 3 Cauldron Familiar
 1 Mountain
 1 Blood Crypt
@@ -17,10 +17,7 @@
 2 Bloodstained Mire
 3 Bloodstained Mire
 4 Bloodstained Mire
-1 Verdant Catacombs
-2 Witch's Oven
 1 Scalding Tarn
-2 Blood Crypt
 1 Voldaren Epicure
 2 Scalding Tarn
 2 Voldaren Epicure
@@ -28,20 +25,15 @@
 3 Voldaren Epicure
 4 Scalding Tarn
 4 Voldaren Epicure
-3 Witch's Oven
 1 Steam Vents
-2 Verdant Catacombs
-3 Verdant Catacombs
-1 Forest
+1 Verdant Catacombs
+2 Marsh Flats
+2 Witch's Oven
 1 Stomping Ground
-1 Gilded Goose
-1 Trail of Crumbs
-2 Gilded Goose
-2 Trail of Crumbs
-3 Gilded Goose
 1 Wooded Foothills
-2 Stomping Ground
 2 Mountain
+2 Blood Crypt
+2 Stomping Ground
 1 Wrenn and Six
 2 Wrenn and Six
 3 Wrenn and Six
@@ -52,11 +44,6 @@
 3 Galvanic Blast
 3 Shrapnel Blast
 4 Shrapnel Blast
-1 Finale of Devastation
-3 Stomping Ground
-4 Wrenn and Six
-1 Feasting Troll King
-2 Feasting Troll King
 1 Spirebluff Canal
 1 Reinforced Ronin
 1 Vengevine
@@ -74,9 +61,22 @@
 4 Steam Vents
 4 Vengevine
 4 Memnite
+3 Stomping Ground
+4 Wrenn and Six
+3 Witch's Oven
+1 Forest
+1 Finale of Devastation
 1 Plains
+1 Feasting Troll King
+2 Feasting Troll King
+2 Verdant Catacombs
+3 Verdant Catacombs
+1 Gilded Goose
+1 Trail of Crumbs
+2 Gilded Goose
+2 Trail of Crumbs
+3 Gilded Goose
 4 Gilded Goose
-1 Pithing Needle
 1 Ramunap Ruins
 1 Sokenzan, Crucible of Defiance
 1 Ragavan, Nimble Pilferer
@@ -84,26 +84,19 @@
 3 Ragavan, Nimble Pilferer
 4 Galvanic Blast
 4 Ragavan, Nimble Pilferer
-2 Marsh Flats
-1 Boseiju, Who Endures
 2 Finale of Devastation
 3 Finale of Devastation
 4 Finale of Devastation
-1 Yavimaya, Cradle of Growth
+1 Boseiju, Who Endures
 2 Wooded Foothills
 3 Wooded Foothills
 4 Wooded Foothills
-4 Witch's Oven
 1 Llanowar Wastes
 2 Forest
 2 Llanowar Wastes
-1 Overgrown Tomb
-2 Overgrown Tomb
-3 Trail of Crumbs
-4 Verdant Catacombs
 2 Godless Shrine
 3 Feasting Troll King
-3 Blood Crypt
+1 Pithing Needle
 1 Blazing Rootwalla
 1 Burning Inquiry
 1 Ox of Agonas
@@ -114,24 +107,22 @@
 4 Burning Inquiry
 2 Swamp
 3 Swamp
-1 Windswept Heath
-1 Temple Garden
-1 Prismatic Ending
-2 Prismatic Ending
 3 Mountain
 4 Mountain
+1 Prismatic Ending
+2 Prismatic Ending
 1 Fatal Push
 2 Fatal Push
+1 Windswept Heath
+1 Temple Garden
 1 Luxior, Giada's Gift
+1 Yavimaya, Cradle of Growth
 1 Devoted Druid
 2 Devoted Druid
 3 Devoted Druid
 4 Devoted Druid
 1 Sulfurous Springs
 1 Blightstep Pathway
-1 Bone Shards
-2 Bone Shards
-3 Bone Shards
 1 Blackcleave Cliffs
 2 Blackcleave Cliffs
 3 Blackcleave Cliffs
@@ -148,14 +139,7 @@
 4 Persist
 1 Snow-Covered Island
 1 Snow-Covered Swamp
-1 Nurturing Peatland
-1 Abrupt Decay
-1 The Meathook Massacre
-1 Witherbloom Command
-1 Castle Locthwain
-1 Nettlecyst
-2 Nettlecyst
-4 Bone Shards
+2 Flooded Strand
 1 Forgotten Cave
 1 Dragon's Rage Channeler
 2 Dragon's Rage Channeler
@@ -165,9 +149,6 @@
 2 Oni-Cult Anvil
 3 Oni-Cult Anvil
 4 Oni-Cult Anvil
-1 Disciple of the Vault
-2 Disciple of the Vault
-4 Cauldron Familiar
 1 Arid Mesa
 1 Wear/Tear
 1 Vindicate
@@ -189,15 +170,23 @@
 3 Parhelion II
 3 Greasefang, Okiba Boss
 4 Greasefang, Okiba Boss
+1 Overgrown Tomb
 1 Blooming Marsh
 2 Blooming Marsh
+2 Overgrown Tomb
+3 Trail of Crumbs
 4 Trail of Crumbs
 1 Fling
 2 Boseiju, Who Endures
 2 Fling
 3 Fling
+4 Verdant Catacombs
 4 Feasting Troll King
 4 Swamp
+1 Disciple of the Vault
+2 Disciple of the Vault
+4 Cauldron Familiar
+4 Witch's Oven
 1 Hollow One
 1 Bloodghast
 1 Goblin Lore
@@ -205,6 +194,7 @@
 2 Ox of Agonas
 2 Goblin Lore
 2 Bloodghast
+3 Blood Crypt
 3 Hollow One
 3 Goblin Lore
 3 Ox of Agonas
@@ -214,9 +204,9 @@
 4 Bloodghast
 4 Goblin Lore
 1 Sacred Foundry
-1 Eladamri's Call
 1 Viridian Longbow
 1 Jetmir's Garden
+1 Eladamri's Call
 1 Rocco, Cabaretti Caterer
 1 Kaldra Compleat
 1 Vizier of Remedies
@@ -278,17 +268,20 @@
 4 Archon of Cruelty
 4 Grief
 4 Ephemerate
-1 Sundering Titan
 1 Thoughtseize
 1 Inkwell Leviathan
 1 Sphinx of the Steel Wind
+1 Sundering Titan
 1 Drossforge Bridge
 1 Trash for Treasure
+1 Bone Shards
 2 Sulfurous Springs
 2 Blightstep Pathway
 2 Trash for Treasure
 2 Thoughtseize
 2 Drossforge Bridge
+2 Bone Shards
+3 Bone Shards
 3 Unmarked Grave
 3 Sulfurous Springs
 3 Blightstep Pathway

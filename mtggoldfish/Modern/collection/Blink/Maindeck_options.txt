@@ -1,23 +1,15 @@
-3 Wooded Foothills
+3 Lightning Bolt
 1 Dress Down
+1 Snow-Covered Mountain
 2 March of Otherworldly Light
 1 Otawara, Soaring City
-1 Snow-Covered Mountain
 2 Unholy Heat
 2 Snow-Covered Island
 2 Fury
 2 Eladamri's Call
 2 Dress Down
-1 Spreading Seas
-2 Spreading Seas
-2 Endurance
-3 Eladamri's Call
-1 Memory Deluge
 3 Unholy Heat
 4 Unholy Heat
-3 Spreading Seas
-3 Scalding Tarn
-4 Scalding Tarn
 1 Prairie Stream
 1 Utopia Sprawl
 1 Traverse the Ulvenwald
@@ -25,13 +17,21 @@
 1 Nimble Obstructionist
 2 Traverse the Ulvenwald
 2 Mishra's Bauble
-3 Mishra's Bauble
+3 Scalding Tarn
 3 Traverse the Ulvenwald
+3 Mishra's Bauble
 4 Wooded Foothills
-4 Mishra's Bauble
+4 Scalding Tarn
 4 Traverse the Ulvenwald
-4 Lightning Bolt
+4 Mishra's Bauble
+1 Spreading Seas
+2 Spreading Seas
 1 Emrakul, the Promised End
+3 Eladamri's Call
+1 Memory Deluge
+2 Endurance
+3 Spreading Seas
+4 Lightning Bolt
 1 Deputy of Detention
 3 Ephemerate
 4 Spreading Seas
@@ -54,7 +54,6 @@
 2 Arid Mesa
 3 Arid Mesa
 4 Arid Mesa
-1 Wall of Omens
 1 Kaldra Compleat
 1 Stoneforge Mystic
 1 Batterskull
@@ -67,20 +66,16 @@
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
-1 Plains
 1 Spell Queller
 2 Spell Queller
+1 Wall of Omens
 1 Skyclave Apparition
 2 Skyclave Apparition
 3 Skyclave Apparition
-2 Hallowed Fountain
-2 Wall of Omens
-3 Wall of Omens
-4 Wall of Omens
 1 Spell Pierce
+2 Memory Deluge
 1 The Wandering Emperor
 2 The Wandering Emperor
-2 Memory Deluge
 2 Nimble Obstructionist
 1 Jetmir's Garden
 1 Engineered Explosives
@@ -92,6 +87,7 @@
 3 Endurance
 4 Endurance
 4 Fury
+1 Plains
 2 Plains
 1 Sword of Fire and Ice
 3 Plains
@@ -99,26 +95,30 @@
 1 Thraben Inspector
 1 Ranger-Captain of Eos
 1 Esper Sentinel
-1 Marsh Flats
-1 Field of Ruin
-1 Sun Titan
-1 Idyllic Grange
 1 Emeria, the Sky Ruin
+1 Marsh Flats
+1 Sun Titan
+1 Field of Ruin
+1 Idyllic Grange
+2 Hallowed Fountain
 2 Marsh Flats
-2 Esper Sentinel
 2 Ranger-Captain of Eos
-2 Field of Ruin
-2 Sun Titan
+2 Esper Sentinel
 2 Emeria, the Sky Ruin
+2 Sun Titan
+2 Wall of Omens
+2 Field of Ruin
 3 Marsh Flats
-3 Esper Sentinel
 3 Ranger-Captain of Eos
+3 Esper Sentinel
+3 Emeria, the Sky Ruin
+3 Wall of Omens
 3 Hallowed Fountain
 3 Field of Ruin
-3 Charming Prince
 3 Sun Titan
-3 Emeria, the Sky Ruin
+3 Charming Prince
 4 Marsh Flats
+4 Wall of Omens
 4 Esper Sentinel
 4 Field of Ruin
 5 Plains
@@ -147,7 +147,7 @@
 3 Path to Exile
 3 Coiling Oracle
 1 Eiganjo, Seat of the Empire
-1 Urborg, Tomb of Yawgmoth
+1 Malakir Rebirth
 1 Undying Evil
 1 Silent Clearing
 1 Agadeem's Awakening
@@ -157,10 +157,10 @@
 1 Touch the Spirit Realm
 1 Maul of the Skyclaves
 1 Shriekmaw
+1 Urborg, Tomb of Yawgmoth
 1 Swamp
-1 Malakir Rebirth
-1 Grief
 1 Tourach, Dread Cantor
+1 Grief
 1 Emeria's Call
 2 Malakir Rebirth
 2 Undying Evil
@@ -170,48 +170,20 @@
 2 Agadeem's Awakening
 2 Persist
 2 Touch the Spirit Realm
-2 Grief
-2 Emeria's Call
 2 Tourach, Dread Cantor
-3 Malakir Rebirth
+2 Emeria's Call
+2 Grief
 3 Tourach, Dread Cantor
+3 Malakir Rebirth
 3 Godless Shrine
 3 Silent Clearing
 3 Touch the Spirit Realm
-3 Grief
 3 Emeria's Call
+3 Grief
 4 Malakir Rebirth
 4 Silent Clearing
 4 Godless Shrine
 4 Grief
-1 Polluted Delta
-1 Glacial Fortress
-1 Reflecting Pool
-1 Fire/Ice
-1 Cleansing Wildfire
-1 Kiki-Jiki, Mirror Breaker
-1 Chalice of the Void
-1 Restoration Angel
-1 Cascade Bluffs
-1 Island
-1 Archmage's Charm
-2 Cleansing Wildfire
-2 Chalice of the Void
-2 Restoration Angel
-2 Island
-2 Raugrin Triome
-2 Kiki-Jiki, Mirror Breaker
-2 Steam Vents
-2 Archmage's Charm
-2 Cascade Bluffs
-3 Raugrin Triome
-3 Cleansing Wildfire
-3 Restoration Angel
-3 Island
-3 Kiki-Jiki, Mirror Breaker
-3 Archmage's Charm
-4 Restoration Angel
-4 Archmage's Charm
 1 Cavern of Souls
 1 Extraction Specialist
 1 Unclaimed Territory
@@ -219,12 +191,12 @@
 1 Watcher for Tomorrow
 1 Reflector Mage
 1 Pyre of Heroes
-1 Champion of the Parish
-1 Whirler Rogue
-1 Aether Vial
 1 Thalia's Lieutenant
+1 Aether Vial
+1 Champion of the Parish
 1 Secluded Courtyard
 1 Thalia, Guardian of Thraben
+1 Whirler Rogue
 2 Extraction Specialist
 2 Cavern of Souls
 2 Unclaimed Territory
@@ -232,25 +204,25 @@
 2 Reflector Mage
 2 Watcher for Tomorrow
 2 Meddling Mage
+2 Horizon Canopy
 2 Aether Vial
 2 Thalia's Lieutenant
 2 Secluded Courtyard
-2 Horizon Canopy
+2 Pyre of Heroes
 2 Thalia, Guardian of Thraben
 2 Champion of the Parish
-2 Pyre of Heroes
 3 Adeline, Resplendent Cathar
 3 Cavern of Souls
 3 Unclaimed Territory
 3 Reflector Mage
 3 Meddling Mage
-3 Thalia, Guardian of Thraben
 3 Champion of the Parish
+3 Horizon Canopy
+3 Secluded Courtyard
+3 Thalia, Guardian of Thraben
+3 Thalia's Lieutenant
 3 Aether Vial
 3 Pyre of Heroes
-3 Horizon Canopy
-3 Thalia's Lieutenant
-3 Secluded Courtyard
 4 Secluded Courtyard
 4 Cavern of Souls
 4 Unclaimed Territory
@@ -258,6 +230,6 @@
 4 Meddling Mage
 4 Champion of the Parish
 4 Horizon Canopy
-4 Pyre of Heroes
-4 Aether Vial
 4 Thalia's Lieutenant
+4 Aether Vial
+4 Pyre of Heroes

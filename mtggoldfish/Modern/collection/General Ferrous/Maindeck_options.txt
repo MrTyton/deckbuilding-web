@@ -1,31 +1,31 @@
+4 Windswept Heath
+1 Hidetsugu Consumes All
+2 Hidetsugu Consumes All
 2 Flooded Strand
-1 Savai Triome
+1 Mountain
+2 Wrenn and Six
+1 Misty Rainforest
 1 Fury
 2 Fury
 3 Hidetsugu Consumes All
-3 Windswept Heath
-1 Wrenn and Six
+3 Arid Mesa
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
-4 Windswept Heath
-3 Arid Mesa
-2 Wrenn and Six
-1 Misty Rainforest
+1 Verdant Catacombs
 1 Blood Crypt
+2 Misty Rainforest
 4 Manamorphose
 1 Omnath, Locus of Creation
-1 Verdant Catacombs
 4 Mantis Rider
 3 Flooded Strand
 4 Flooded Strand
-2 Misty Rainforest
 2 Omnath, Locus of Creation
-4 General Ferrous Rokiric
+3 Misty Rainforest
 3 Omnath, Locus of Creation
 3 Fury
 4 Arid Mesa
-3 Misty Rainforest
+4 General Ferrous Rokiric
 2 Scalding Tarn
 1 Polluted Delta
 1 Ketria Triome
@@ -37,19 +37,34 @@
 3 Steam Vents
 3 Wrenn and Six
 1 Xander's Lounge
-2 Sacred Foundry
+2 Stomping Ground
 1 Knight of Autumn
 2 Breeding Pool
 1 Raugrin Triome
+2 Sacred Foundry
 2 Indatha Triome
 3 Indatha Triome
 1 Hallowed Fountain
 4 Teferi, Time Raveler
+1 Godless Shrine
+1 Boseiju, Who Endures
+1 Solitude
 1 Boros Charm
+1 Raffine's Tower
+1 Prismatic Ending
+1 Unlicensed Hearse
+1 Scourge of the Skyclaves
+2 Unlicensed Hearse
+2 Scourge of the Skyclaves
+1 Qasali Ambusher
+2 Qasali Ambusher
+4 Steam Vents
+1 Marsh Flats
 2 Boros Charm
 1 Kabira Takedown
 1 Showdown of the Skalds
 1 Spikefield Hazard
+1 Sunbaked Canyon
 1 Response/Resurgence
 1 Needleverge Pathway
 1 Hero of Precinct One
@@ -60,62 +75,41 @@
 2 Needleverge Pathway
 2 Hero of Precinct One
 3 Showdown of the Skalds
-3 Needleverge Pathway
 3 Hero of Precinct One
+3 Needleverge Pathway
 4 Needleverge Pathway
 4 Hero of Precinct One
-1 Godless Shrine
-1 Marsh Flats
-2 Mountain
-2 Stomping Ground
-1 Boseiju, Who Endures
-1 Solitude
-2 Kabira Takedown
-2 Response/Resurgence
-1 Dryad Militant
-2 Dryad Militant
-3 Dryad Militant
-3 Sacred Foundry
-1 Sunbaked Canyon
-1 Raffine's Tower
-1 Prismatic Ending
-1 Unlicensed Hearse
-1 Scourge of the Skyclaves
-2 Unlicensed Hearse
-2 Scourge of the Skyclaves
-1 Qasali Ambusher
-2 Qasali Ambusher
 3 Boros Charm
 4 Boros Charm
-4 Steam Vents
 1 Field of Ruin
 1 Wear/Tear
 1 Tithe Taker
 1 Rem Karolus, Stalwart Slayer
 1 Light of Hope
 1 Battlefield Forge
+1 Dryad Militant
 2 Rem Karolus, Stalwart Slayer
-2 Tithe Taker
 2 Battlefield Forge
+2 Tithe Taker
+2 Dryad Militant
 3 Path to Exile
 3 Battlefield Forge
 3 Tithe Taker
+3 Dryad Militant
+3 Sacred Foundry
 4 Showdown of the Skalds
 4 Sacred Foundry
 4 Dryad Militant
 4 Path to Exile
+1 Voice of Resurgence
+2 Voice of Resurgence
+2 Mountain
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
-1 Heroic Reinforcements
-1 Figure of Destiny
-2 Plains
-2 Heroic Reinforcements
-2 Figure of Destiny
-3 Heroic Reinforcements
-3 Figure of Destiny
-4 Heroic Reinforcements
+2 Kabira Takedown
+2 Response/Resurgence
 1 Overgrown Tomb
 1 Ignoble Hierarch
 1 Noble Hierarch
@@ -144,7 +138,6 @@
 1 Sundown Pass
 2 Marsh Flats
 3 Marsh Flats
-1 Sokenzan, Crucible of Defiance
 1 Deputy of Detention
 1 March of Otherworldly Light
 1 Teferi, Hero of Dominaria
@@ -160,11 +153,12 @@
 3 Counterspell
 3 Solitude
 4 Wrenn and Six
-4 Solitude
 4 Abundant Growth
+4 Solitude
 4 Omnath, Locus of Creation
 4 Counterspell
 2 Forest
+1 Sokenzan, Crucible of Defiance
 1 Island
 1 Venerable Warsinger
 1 Klothys, God of Destiny
@@ -172,6 +166,8 @@
 2 Verdant Catacombs
 1 Legion's Landing
 2 Legion's Landing
+1 Wild Nacatl
+2 Wild Nacatl
 1 Tarmogoyf
 1 Horizon Canopy
 2 Tarmogoyf
@@ -180,10 +176,8 @@
 3 Qasali Ambusher
 1 Eldritch Evolution
 1 Assassin's Trophy
-1 Voice of Resurgence
 1 Ulamog, the Infinite Gyre
 2 Eldritch Evolution
-2 Voice of Resurgence
 2 Assassin's Trophy
 3 Eldritch Evolution
 3 Voice of Resurgence
@@ -226,6 +220,14 @@
 4 Birgi, God of Storytelling
 4 Oath of Nissa
 1 Eiganjo, Seat of the Empire
+1 Heroic Reinforcements
+1 Figure of Destiny
+2 Plains
+2 Heroic Reinforcements
+2 Figure of Destiny
+3 Heroic Reinforcements
+3 Figure of Destiny
+4 Heroic Reinforcements
 4 Figure of Destiny
 1 Otawara, Soaring City
 1 Faithful Mending
@@ -239,12 +241,6 @@
 3 Ice-Fang Coatl
 4 Faithful Mending
 4 Ice-Fang Coatl
-1 Windbrisk Heights
-1 Judge's Familiar
-2 Windbrisk Heights
-2 Judge's Familiar
-3 Plains
-4 Plains
 1 Lightning Skelemental
 2 Lightning Skelemental
 3 Lightning Skelemental
