@@ -40,7 +40,7 @@
 |                    2|[Lair of the Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527546)          |                    1|[Workshop Warchief](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555366)   |
 |                    1|[Polukranos, World Eater](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373384)    |                    1|[Cloudsteel Kirin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548299)    |
 |                    2|[Polukranos, World Eater](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373384)    |                    1|[Heart of Kiran](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423820)      |
-|                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                    1|[Shadowspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476487)         |
-|                     |                                                                                                      |                    1|[Setessan Petitioner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476450) |
+|                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                    1|[Setessan Petitioner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476450) |
+|                     |                                                                                                      |                    1|[Shadowspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476487)         |
 |                     |                                                                                                      |                    1|[Cataclysmic Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417582)|
 
