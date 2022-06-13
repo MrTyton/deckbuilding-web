@@ -1,53 +1,50 @@
+4 Kumena's Speaker
 1 Botanical Sanctum
 1 Spell Pierce
 2 Spell Pierce
 2 Botanical Sanctum
 3 Botanical Sanctum
-1 Otawara, Soaring City
-4 Botanical Sanctum
 1 Masked Vandal
-2 Hinterland Harbor
+4 Botanical Sanctum
 1 Mistcaller
-3 Hinterland Harbor
-1 Forest
-2 Forest
+2 Hinterland Harbor
 3 Spell Pierce
 1 Mist-Cloaked Herald
+1 Forest
+2 Forest
+3 Hinterland Harbor
+2 Mist-Cloaked Herald
 3 Forest
 4 Forest
 7 Island
-1 Kumena, Tyrant of Orazca
-2 Mist-Cloaked Herald
 1 Lair of the Hydra
 2 Mistcaller
-4 Hinterland Harbor
 1 Hall of Storm Giants
+1 Kumena, Tyrant of Orazca
 2 Glasspool Mimic
 3 Glasspool Mimic
 8 Island
+5 Forest
+1 Miscast
+1 Growing Rites of Itlimoc
+4 Hinterland Harbor
+3 Brazen Borrower
+4 Glasspool Mimic
+1 Thornwood Falls
+2 Thornwood Falls
 2 Kumena, Tyrant of Orazca
+1 Kira, Great Glass-Spinner
+1 Dreamroot Cascade
+2 Dreamroot Cascade
 1 Deeproot Elite
 2 Deeproot Elite
 3 Deeproot Elite
 4 Deeproot Elite
-5 Forest
-1 Miscast
-1 Growing Rites of Itlimoc
-4 Glasspool Mimic
-3 Brazen Borrower
-1 Kira, Great Glass-Spinner
-1 Benthic Biomancer
-2 Benthic Biomancer
-3 Kumena, Tyrant of Orazca
-1 Thornwood Falls
-2 Thornwood Falls
-6 Forest
-7 Forest
 1 Deeproot Waters
 2 Deeproot Waters
 3 Deeproot Waters
-1 Dreamroot Cascade
-2 Dreamroot Cascade
+6 Forest
+7 Forest
 1 Soul-Guide Lantern
 1 Malevolent Hermit
 1 Boseiju, Who Endures
@@ -58,12 +55,15 @@
 2 Archmage's Charm
 1 Ancient Ziggurat
 1 River Sneak
+1 Benthic Biomancer
 2 Ancient Ziggurat
 2 Kira, Great Glass-Spinner
+2 Benthic Biomancer
 2 River Sneak
+3 Kumena, Tyrant of Orazca
+1 Vineglimmer Snarl
 1 Heroic Intervention
 1 Rhonas the Indomitable
-1 Vineglimmer Snarl
 2 Heroic Intervention
 2 Rhonas the Indomitable
 2 Vineglimmer Snarl
@@ -71,8 +71,8 @@
 3 Rhonas the Indomitable
 3 Mistcaller
 4 Mistcaller
-1 Stomping Ground
 1 Shatterskull Smashing
+1 Stomping Ground
 1 Goblin Anarchomancer
 1 Metallic Mimic
 1 Cragcrown Pathway
@@ -89,9 +89,8 @@
 1 Burning-Tree Emissary
 1 Rage Forger
 2 Shatterskull Smashing
-2 Metallic Mimic
-2 Stomping Ground
 2 Cragcrown Pathway
+2 Stomping Ground
 2 Rootbound Crag
 2 Reclamation Sage
 2 Goblin Ruinblaster
@@ -99,6 +98,7 @@
 2 Goblin Anarchomancer
 2 Burning-Tree Emissary
 2 Elvish Visionary
+2 Metallic Mimic
 2 Faceless Agent
 2 Llanowar Elves
 2 Ramunap Ruins
@@ -122,8 +122,6 @@
 4 Rage Forger
 4 Goblin Anarchomancer
 4 Llanowar Elves
-3 Benthic Biomancer
-4 Benthic Biomancer
 1 Jungleborn Pioneer
 1 Merfolk Windrobber
 2 Jungleborn Pioneer
@@ -142,8 +140,8 @@
 1 Shaper Apprentice
 2 Shaper Apprentice
 2 Kopala, Warden of Waves
-3 Dreamroot Cascade
 3 Shaper Apprentice
+3 Dreamroot Cascade
 3 Kopala, Warden of Waves
 4 Shaper Apprentice
 4 Dreamroot Cascade

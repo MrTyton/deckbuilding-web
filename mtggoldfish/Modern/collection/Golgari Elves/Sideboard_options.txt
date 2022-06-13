@@ -28,10 +28,10 @@
 2 Sylvan Anthem
 3 Mutagenic Growth
 4 Mutagenic Growth
-1 Damping Sphere
 1 Kitchen Finks
-2 Damping Sphere
+1 Damping Sphere
 2 Kitchen Finks
+2 Damping Sphere
 1 Surgical Extraction
 2 Surgical Extraction
 3 Force of Vigor
@@ -46,9 +46,6 @@
 1 Lead the Stampede
 1 Nissa, Vital Force
 2 Grist, the Hunger Tide
-1 Dismember
-1 Nihil Spellbomb
-2 Nihil Spellbomb
 1 Tormod's Crypt
 1 Thrun, the Last Troll
 1 Throne of the God-Pharaoh
@@ -56,6 +53,9 @@
 2 Tormod's Crypt
 1 Relic of Progenitus
 2 Relic of Progenitus
+1 Nihil Spellbomb
+1 Dismember
+2 Nihil Spellbomb
 1 Winding Way
 1 Grafdigger's Cage
 2 Winding Way
@@ -76,8 +76,8 @@
 1 Snakeskin Veil
 2 Weather the Storm
 4 Leyline of the Void
-3 Run Afoul
 3 Choke
 3 Heroic Intervention
+3 Run Afoul
 4 Heroic Intervention
 4 Run Afoul

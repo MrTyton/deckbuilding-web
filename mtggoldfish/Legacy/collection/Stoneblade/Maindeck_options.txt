@@ -1,56 +1,59 @@
-4 Nomads en-Kor
-1 Snow-Covered Swamp
-1 Island
 1 Plains
+4 Nomads en-Kor
+1 Daze
+1 Snow-Covered Swamp
 1 Snapcaster Mage
-1 Unearth
+1 Volcanic Island
 2 Scalding Tarn
 2 Daze
-1 Volcanic Island
-1 Force of Negation
+1 True-Name Nemesis
 1 Umezawa's Jitte
-1 Swamp
-2 Island
-3 Daze
+1 Esper Sentinel
+2 Esper Sentinel
 1 Wasteland
 2 Wasteland
-1 True-Name Nemesis
-1 Stifle
+3 Daze
 2 True-Name Nemesis
+1 Stifle
 2 Stifle
 3 Wasteland
 3 Stifle
 4 Wasteland
 4 Daze
-3 Scalding Tarn
+1 Unearth
+2 Island
+1 Swamp
+3 True-Name Nemesis
 1 Delver of Secrets
 2 Delver of Secrets
 3 Delver of Secrets
-3 True-Name Nemesis
 4 Delver of Secrets
 4 Stifle
+3 Scalding Tarn
 2 Snow-Covered Island
-1 Esper Sentinel
-2 Esper Sentinel
+1 Force of Negation
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 2 Snapcaster Mage
 3 Snapcaster Mage
-2 Misty Rainforest
 1 Narset, Parter of Veils
-3 Misty Rainforest
-1 Mystic Sanctuary
-2 Force of Negation
+1 Prismatic Vista
+2 Misty Rainforest
 1 Murktide Regent
 2 Murktide Regent
-2 Volcanic Island
-3 Murktide Regent
 4 Underground Sea
+2 Prismatic Vista
+2 Force of Negation
+3 Misty Rainforest
 1 Tropical Island
-2 Narset, Parter of Veils
+4 Prismatic Ending
 1 Jace, the Mind Sculptor
+2 Jace, the Mind Sculptor
+3 Jace, the Mind Sculptor
+3 Snow-Covered Island
+3 Prismatic Vista
 4 Misty Rainforest
-1 Prismatic Vista
+1 Mystic Sanctuary
 1 Preordain
 1 Forest
 1 Snow-Covered Forest
@@ -59,39 +62,32 @@
 1 Sylvan Library
 1 Life from the Loam
 2 Tropical Island
+2 Narset, Parter of Veils
 2 Uro, Titan of Nature's Wrath
-4 Prismatic Ending
-3 Island
 1 Cavern of Souls
 4 Scalding Tarn
-2 Jace, the Mind Sculptor
-2 Prismatic Vista
-3 Jace, the Mind Sculptor
-3 Snow-Covered Island
-3 Prismatic Vista
-1 Archon of Valor's Reach
+3 Island
 1 Spara's Headquarters
+1 Archon of Valor's Reach
 1 Teferi, Hero of Dominaria
-1 Verdant Catacombs
 1 Wargate
 1 Battle of Wits
 1 Retrofitter Foundry
 1 Shadowspear
-1 Day's Undoing
+1 Verdant Catacombs
 1 Elvish Reclaimer
 1 Prismatic Omen
-1 Indatha Triome
 1 Dryad of the Ilysian Grove
 1 Drownyard Temple
+1 Indatha Triome
 1 Valakut, the Molten Pinnacle
 1 Abrupt Decay
-1 Sea Gate Restoration
+1 Day's Undoing
 1 Enlightened Tutor
+1 Sea Gate Restoration
 1 Raffine's Tower
 1 Zagoth Triome
 1 Jace, Vryn's Prodigy
-1 Coiling Oracle
-1 Serum Visions
 1 The Tabernacle at Pendrell Vale
 1 Unlicensed Hearse
 1 Field of the Dead
@@ -106,6 +102,7 @@
 1 Ice-Fang Coatl
 1 Endurance
 1 Grist, the Hunger Tide
+1 Serum Visions
 1 Aetherling
 1 Windswept Heath
 1 Crop Rotation
@@ -118,38 +115,37 @@
 1 Green Sun's Zenith
 1 Boseiju, Who Endures
 1 Assassin's Trophy
+1 Coiling Oracle
 2 Valakut, the Molten Pinnacle
 2 Sylvan Library
-2 Expedition Map
 2 Life from the Loam
+2 Expedition Map
 2 Primeval Titan
-2 Battle of Wits
-2 Elvish Reclaimer
 2 Preordain
+2 Battle of Wits
 2 Forest
+2 Elvish Reclaimer
 2 Prismatic Omen
-2 Grist, the Hunger Tide
 2 Otawara, Soaring City
 2 Scrubland
+2 Grist, the Hunger Tide
 2 Abrupt Decay
 2 Verdant Catacombs
-2 Field of the Dead
 2 Enlightened Tutor
+2 Field of the Dead
+2 Jace, Vryn's Prodigy
 2 Dryad of the Ilysian Grove
 2 Unlicensed Hearse
-2 Coiling Oracle
-2 Jace, Vryn's Prodigy
 2 Dryad Arbor
-2 Serum Visions
+2 Spara's Headquarters
 2 Thespian's Stage
 2 Flusterstorm
-2 Spara's Headquarters
 2 Crop Rotation
 2 Windswept Heath
 2 Savannah
-2 Endurance
 2 Teferi's Protection
 2 Leovold, Emissary of Trest
+2 Coiling Oracle
 2 Bayou
 2 Green Sun's Zenith
 2 Diabolic Intent
@@ -158,27 +154,26 @@
 2 Assassin's Trophy
 2 Boseiju, Who Endures
 2 Flagstones of Trokair
+2 Endurance
 2 Mox Diamond
 2 Snow-Covered Forest
+2 Serum Visions
 3 Endurance
-3 Flagstones of Trokair
-3 Serum Visions
-3 Battle of Wits
-3 Flusterstorm
-3 Elvish Reclaimer
-3 Narset, Parter of Veils
-3 Tropical Island
 3 Teferi, Time Raveler
+3 Battle of Wits
+3 Elvish Reclaimer
 3 Savannah
 3 Grist, the Hunger Tide
 3 Abrupt Decay
 3 Assassin's Trophy
+3 Narset, Parter of Veils
+3 Tropical Island
+3 Karakas
 3 Sylvan Library
 3 Unlicensed Hearse
-3 Coiling Oracle
 3 Jace, Vryn's Prodigy
 3 Verdant Catacombs
-3 Karakas
+3 Flagstones of Trokair
 3 Boseiju, Who Endures
 3 Green Sun's Zenith
 3 Thespian's Stage
@@ -186,9 +181,12 @@
 3 Mox Diamond
 3 Bayou
 3 Crop Rotation
+3 Serum Visions
 3 Preordain
 3 Dryad of the Ilysian Grove
 3 Field of the Dead
+3 Coiling Oracle
+3 Flusterstorm
 3 Expedition Map
 3 Diabolic Intent
 3 Uro, Titan of Nature's Wrath
@@ -196,8 +194,8 @@
 4 Battle of Wits
 4 Elvish Reclaimer
 4 Tropical Island
-4 Narset, Parter of Veils
 4 Uro, Titan of Nature's Wrath
+4 Narset, Parter of Veils
 4 Teferi, Time Raveler
 4 Endurance
 4 Grist, the Hunger Tide
@@ -216,6 +214,17 @@
 4 Jace, the Mind Sculptor
 4 Sylvan Library
 4 Field of the Dead
+1 Glasspool Mimic
+1 Spell Pierce
+2 Volcanic Island
+3 Murktide Regent
+3 Esper Sentinel
+1 Kaya, Orzhov Usurper
+1 Inquisition of Kozilek
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+1 Back to Basics
 1 Dragon's Rage Channeler
 1 Expressive Iteration
 2 Dragon's Rage Channeler
@@ -227,32 +236,23 @@
 4 Volcanic Island
 4 Expressive Iteration
 4 Dragon's Rage Channeler
-1 Glasspool Mimic
-1 Kaya, Orzhov Usurper
-1 Inquisition of Kozilek
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-3 Esper Sentinel
-1 Spell Pierce
-1 Supreme Verdict
+4 Esper Sentinel
+1 Snow-Covered Mountain
+1 Counterbalance
+2 Snow-Covered Plains
+2 Back to Basics
+4 Snow-Covered Island
+4 Prismatic Vista
+5 Snow-Covered Island
+6 Snow-Covered Island
 1 Timeless Dragon
-1 Void Rend
-2 Void Rend
-2 Solitude
+1 Supreme Verdict
+1 Spell Snare
+1 Sword of Fire and Ice
+2 Spell Pierce
 2 Plains
 1 Brazen Borrower
 1 Step Through
 2 Step Through
 2 Cabal Therapy
 3 Step Through
-4 Esper Sentinel
-1 Snow-Covered Mountain
-1 Back to Basics
-1 Counterbalance
-2 Snow-Covered Plains
-2 Back to Basics
-4 Snow-Covered Island
-5 Snow-Covered Island
-6 Snow-Covered Island
-4 Prismatic Vista
