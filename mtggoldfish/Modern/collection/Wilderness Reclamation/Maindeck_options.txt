@@ -60,11 +60,11 @@
 1 Master of Waves
 1 Bloodbraid Elf
 1 Noble Hierarch
+1 Flamekin Harbinger
 1 Ledger Shredder
 1 Drowned Catacomb
-1 Utopia Sprawl
 1 Murktide Regent
-1 Flamekin Harbinger
+1 Utopia Sprawl
 1 Xander's Lounge
 1 Valki, God of Lies
 1 Kiki-Jiki, Mirror Breaker
@@ -175,14 +175,13 @@
 1 Time of Need
 1 Felidar Sovereign
 1 Rootbound Crag
-2 Explore
 2 Eladamri's Call
 2 Noble Hierarch
 2 Fury
-2 Utopia Sprawl
 2 Windswept Heath
-2 Stomping Ground
+2 Utopia Sprawl
 2 Raugrin Triome
+2 Stomping Ground
 2 Sulfur Falls
 2 Arid Mesa
 2 Wooded Foothills
@@ -191,6 +190,7 @@
 2 Bring to Light
 2 Ragavan, Nimble Pilferer
 2 Fires of Invention
+2 Explore
 2 Fable of the Mirror-Breaker
 2 Sacred Foundry
 2 Omnath, Locus of Creation
@@ -203,8 +203,8 @@
 2 Sunpetal Grove
 2 Hedron Alignment
 2 Massive Raid
-3 Noble Hierarch
 3 Explore
+3 Noble Hierarch
 3 Utopia Sprawl
 3 Fury
 3 Steam Vents
@@ -228,8 +228,8 @@
 3 Wooded Foothills
 3 Battle of Wits
 4 Arid Mesa
-4 Noble Hierarch
 4 Wooded Foothills
+4 Noble Hierarch
 4 Utopia Sprawl
 4 Teferi, Time Raveler
 4 Windswept Heath

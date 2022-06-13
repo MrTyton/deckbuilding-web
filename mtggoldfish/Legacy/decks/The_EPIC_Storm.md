@@ -1,7 +1,7 @@
 # The EPIC Storm
 
 #### [Export MTGO List](../collection/The%20EPIC%20Storm/The%20EPIC%20Storm.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Ad%20Nauseam%0A1%09Badlands%0A2%09Bloodstained%20Mire%0A4%09Brainstorm%0A4%09Burning%20Wish%0A3%09Chrome%20Mox%0A4%09Dark%20Ritual%0A1%09Defense%20Grid%0A1%09Echo%20of%20Eons%0A1%09Galvanic%20Relay%0A4%09Lion's%20Eye%20Diamond%0A4%09Lotus%20Petal%0A3%09Mox%20Opal%0A2%09Polluted%20Delta%0A4%09Ponder%0A4%09Rite%20of%20Flame%0A1%09Swamp%0A1%09Taiga%0A1%09Tendrils%20of%20Agony%0A1%09Tropical%20Island%0A1%09Underground%20Sea%0A4%09Veil%20of%20Summer%0A3%09Verdant%20Catacombs%0A1%09Volcanic%20Island%0A4%09Wishclaw%20Talisman&deckside=2%09Abrupt%20Decay%0A4%09Carpet%20of%20Flowers%0A2%09Chain%20of%20Vapor%0A1%09Echo%20of%20Eons%0A1%09Empty%20the%20Warrens%0A3%09Galvanic%20Relay%0A1%09Peer%20into%20the%20Abyss%0A1%09Tendrils%20of%20Agony)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Ad%20Nauseam%0A1%09Badlands%0A2%09Bloodstained%20Mire%0A4%09Brainstorm%0A4%09Burning%20Wish%0A3%09Chrome%20Mox%0A4%09Dark%20Ritual%0A1%09Defense%20Grid%0A1%09Echo%20of%20Eons%0A1%09Galvanic%20Relay%0A4%09Lion's%20Eye%20Diamond%0A4%09Lotus%20Petal%0A3%09Mox%20Opal%0A2%09Polluted%20Delta%0A4%09Ponder%0A4%09Rite%20of%20Flame%0A1%09Swamp%0A1%09Taiga%0A1%09Tendrils%20of%20Agony%0A1%09Tropical%20Island%0A1%09Underground%20Sea%0A4%09Veil%20of%20Summer%0A3%09Verdant%20Catacombs%0A1%09Volcanic%20Island%0A4%09Wishclaw%20Talisman&deckside=2%09Abrupt%20Decay%0A3%09Carpet%20of%20Flowers%0A2%09Chain%20of%20Vapor%0A1%09Echo%20of%20Eons%0A1%09Empty%20the%20Warrens%0A3%09Galvanic%20Relay%0A1%09Peer%20into%20the%20Abyss%0A1%09Pulverize%0A1%09Tendrils%20of%20Agony)
 # Maindeck
 
 |                                        Artifact (19)                                         |                                       Instant (13)                                        |                                          Land (13)                                           |                                        Sorcery (15)                                         |
@@ -19,21 +19,22 @@
 
 # Sideboard
 
-|                                      Enchantment (4)                                       |                                        Instant (4)                                        |                                          Sorcery (7)                                           |
+|                                      Enchantment (3)                                       |                                        Instant (4)                                        |                                          Sorcery (8)                                           |
 |--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|4 [Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)|2 [Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)  |1 [Echo of Eons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463995)       |
+|3 [Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)|2 [Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)  |1 [Echo of Eons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463995)       |
 |                                                                                            |2 [Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)|1 [Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)  |
 |                                                                                            |                                                                                           |3 [Galvanic Relay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522203)     |
 |                                                                                            |                                                                                           |1 [Peer into the Abyss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485440)|
+|                                                                                            |                                                                                           |1 [Pulverize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19724)           |
 |                                                                                            |                                                                                           |1 [Tendrils of Agony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45842)   |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                   Sideboard Card                                   |
-|---------------------|-------------|--------------------:|------------------------------------------------------------------------------------|
-|                     |             |                    1|[Pulverize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19724) |
-|                     |             |                    1|[Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)|
-|                     |             |                    1|[Massacre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21324)  |
-|                     |             |                    1|[Meltdown](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10466)  |
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
+|---------------------|-------------|--------------------:|------------------------------------------------------------------------------------------|
+|                     |             |                    4|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)|
+|                     |             |                    1|[Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)      |
+|                     |             |                    1|[Massacre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21324)        |
+|                     |             |                    1|[Meltdown](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10466)        |
 
