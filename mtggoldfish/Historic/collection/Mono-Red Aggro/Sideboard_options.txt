@@ -13,43 +13,45 @@
 1 Reckless Stormseeker
 1 Shatterstorm
 2 Cinderclasm
+1 Chandra, Torch of Defiance
 1 Fry
 2 Fry
-3 Roiling Vortex
-1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
+3 Roiling Vortex
 2 Rampaging Ferocidon
+1 Hazoret the Fervent
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
-1 Hazoret the Fervent
+1 Grafdigger's Cage
+1 Burning Hands
+2 Grafdigger's Cage
+3 Grafdigger's Cage
 1 The Akroan War
 2 The Akroan War
 1 Burn Down the House
+1 Scorching Dragonfire
 1 Ox of Agonas
 1 Soul Sear
-1 Scorching Dragonfire
 2 Ox of Agonas
 2 Burn Down the House
-2 Soul Sear
 2 Scorching Dragonfire
+2 Soul Sear
 3 Burn Down the House
 3 The Akroan War
-1 Burning Hands
-1 Grafdigger's Cage
+1 Bonecrusher Giant
 1 Flame-Blessed Bolt
 2 Flame-Blessed Bolt
 3 Soul-Guide Lantern
+1 Anax, Hardened in the Forge
+2 Anax, Hardened in the Forge
 3 Rampaging Ferocidon
 1 Redcap Melee
 2 Redcap Melee
-2 Grafdigger's Cage
-3 Grafdigger's Cage
 2 Burning Hands
 1 Molten Impact
 2 Molten Impact
 1 Chandra, Dressed to Kill
 2 Chandra, Dressed to Kill
-1 Bonecrusher Giant
 1 Cemetery Gatekeeper
 1 Goblin Chainwhirler
 1 Unchained Berserker
@@ -58,6 +60,8 @@
 1 Dire Fleet Daredevil
 1 Unlicensed Hearse
 2 Reckless Stormseeker
+1 Magma Spray
+2 Magma Spray
 1 Unholy Heat
 1 Pillar of Flame
 1 Smelt
@@ -74,10 +78,6 @@
 2 Imminent Doom
 2 Fateful End
 2 Electrostatic Blast
-1 Magma Spray
-1 Anax, Hardened in the Forge
-2 Magma Spray
-2 Anax, Hardened in the Forge
 1 Fanatical Firebrand
 2 Fanatical Firebrand
 3 Burning Hands
@@ -91,12 +91,12 @@
 1 Aethersphere Harvester
 2 Aethersphere Harvester
 3 Aethersphere Harvester
-1 The Wandering Emperor
 1 Rest in Peace
-1 Archon of Emeria
-1 Fateful Absence
-1 Rip Apart
 1 Cleansing Nova
+1 Fateful Absence
+1 Archon of Emeria
+1 Rip Apart
+1 The Wandering Emperor
 2 Rest in Peace
 2 Fateful Absence
 2 Cleansing Nova
@@ -113,6 +113,9 @@
 3 Fry
 3 Chandra, Dressed to Kill
 4 Roiling Vortex
+1 Conductive Current
+3 Anax, Hardened in the Forge
+4 Grafdigger's Cage
 1 Cindervines
 1 Heroic Intervention
 1 Living Twister

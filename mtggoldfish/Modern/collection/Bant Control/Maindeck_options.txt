@@ -29,22 +29,22 @@
 4 Misty Rainforest
 2 Scalding Tarn
 1 Force of Negation
-1 Fire/Ice
 1 Steam Vents
+1 Fire/Ice
 2 Fire/Ice
 2 Shark Typhoon
 3 Hallowed Fountain
 2 Dress Down
 1 Prismatic Vista
 1 Spara's Headquarters
+1 Boseiju, Who Endures
 1 Noble Hierarch
 1 Batterskull
-1 Boseiju, Who Endures
-1 Kaldra Compleat
 1 Stoneforge Mystic
+1 Kaldra Compleat
 2 Noble Hierarch
-2 Snow-Covered Plains
 2 Stoneforge Mystic
+2 Snow-Covered Plains
 3 Noble Hierarch
 3 Stoneforge Mystic
 4 Stoneforge Mystic
@@ -63,8 +63,8 @@
 3 Spell Queller
 1 Spreading Seas
 4 Noble Hierarch
-1 Esper Sentinel
 1 Sword of Fire and Ice
+1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
 1 Hinterland Harbor
@@ -81,22 +81,6 @@
 2 Eladamri's Call
 3 Breeding Pool
 3 Eladamri's Call
-1 Birds of Paradise
-1 Maul of the Skyclaves
-1 Geist of Saint Traft
-1 Meddling Mage
-2 Birds of Paradise
-2 Geist of Saint Traft
-2 Boseiju, Who Endures
-2 Temple Garden
-2 Snow-Covered Forest
-3 Birds of Paradise
-3 Geist of Saint Traft
-3 Windswept Heath
-4 Birds of Paradise
-4 Esper Sentinel
-2 Cryptic Command
-4 Snapcaster Mage
 2 Spreading Seas
 3 Spreading Seas
 4 Spreading Seas
@@ -110,38 +94,54 @@
 2 Frantic Inventory
 3 Frantic Inventory
 4 Frantic Inventory
-1 Shardless Agent
-1 Khalni Garden
-1 Glimpse of Tomorrow
-1 Ardent Plea
-1 Emrakul, the Aeons Torn
-1 Gemstone Caverns
-1 Tireless Tracker
-1 Omniscience
-1 Tireless Provisioner
-2 Shardless Agent
-2 Khalni Garden
-2 Glimpse of Tomorrow
-2 Otawara, Soaring City
-2 Ardent Plea
-2 Gemstone Caverns
-2 Tireless Tracker
-2 Omniscience
-2 Tireless Provisioner
-3 Shardless Agent
-3 Khalni Garden
-3 Glimpse of Tomorrow
-3 Tireless Tracker
-3 Ardent Plea
-3 Tireless Provisioner
-3 Otawara, Soaring City
-3 Omniscience
-4 Shardless Agent
-4 Khalni Garden
-4 Ardent Plea
-4 Tireless Provisioner
-4 Omniscience
 1 Lion Sash
 2 Jace, the Mind Sculptor
 3 Force of Negation
 4 Spell Queller
+1 Gemstone Caverns
+1 Emrakul, the Aeons Torn
+1 Glimpse of Tomorrow
+1 Tireless Tracker
+1 Ardent Plea
+1 Khalni Garden
+1 Omniscience
+1 Shardless Agent
+1 Tireless Provisioner
+2 Glimpse of Tomorrow
+2 Gemstone Caverns
+2 Otawara, Soaring City
+2 Ardent Plea
+2 Khalni Garden
+2 Tireless Tracker
+2 Omniscience
+2 Shardless Agent
+2 Tireless Provisioner
+3 Glimpse of Tomorrow
+3 Tireless Tracker
+3 Ardent Plea
+3 Khalni Garden
+3 Tireless Provisioner
+3 Otawara, Soaring City
+3 Omniscience
+3 Shardless Agent
+4 Khalni Garden
+4 Ardent Plea
+4 Tireless Provisioner
+4 Omniscience
+4 Shardless Agent
+2 Cryptic Command
+4 Snapcaster Mage
+1 Maul of the Skyclaves
+1 Geist of Saint Traft
+1 Birds of Paradise
+1 Meddling Mage
+2 Geist of Saint Traft
+2 Boseiju, Who Endures
+2 Temple Garden
+2 Birds of Paradise
+2 Snow-Covered Forest
+3 Geist of Saint Traft
+3 Windswept Heath
+3 Birds of Paradise
+4 Esper Sentinel
+4 Birds of Paradise

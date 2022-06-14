@@ -7,11 +7,11 @@
 1 Plains
 4 Omnath, Locus of Creation
 3 Wrenn and Six
-1 Karmic Guide
-1 Planebound Accomplice
 1 Vivien on the Hunt
-2 Planebound Accomplice
+1 Planebound Accomplice
+1 Karmic Guide
 2 Vivien on the Hunt
+2 Planebound Accomplice
 3 Vivien on the Hunt
 1 Ephemerate
 2 Ephemerate
@@ -48,19 +48,19 @@
 4 Violent Outburst
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
+1 Chancellor of the Forge
 1 Glimpse of Tomorrow
 1 Khalni Garden
-1 Chancellor of the Forge
 1 Wavesifter
-2 Glimpse of Tomorrow
-2 Khalni Garden
 2 Chancellor of the Forge
 2 Wavesifter
-3 Glimpse of Tomorrow
+2 Glimpse of Tomorrow
+2 Khalni Garden
 3 Seasoned Pyromancer
 3 Khalni Garden
 3 Wavesifter
 3 Chancellor of the Forge
+3 Glimpse of Tomorrow
 4 Khalni Garden
 4 Chancellor of the Forge
 4 Wavesifter
@@ -83,8 +83,8 @@
 1 Arbor Elf
 2 Arbor Elf
 3 Arbor Elf
-4 Arbor Elf
 4 Planebound Accomplice
+4 Arbor Elf
 2 Boseiju, Who Endures
 2 Sacred Foundry
 3 Expressive Iteration
@@ -102,8 +102,8 @@
 3 Noble Hierarch
 3 Birds of Paradise
 4 Birds of Paradise
-1 Horizon Canopy
 1 Eldritch Evolution
+1 Horizon Canopy
 2 Temple Garden
 2 Eldritch Evolution
 3 Eldritch Evolution
@@ -121,25 +121,25 @@
 2 Snow-Covered Plains
 4 Scalding Tarn
 2 March of Otherworldly Light
-1 Ardent Plea
-1 Brazen Borrower
 1 Force of Negation
+1 Brazen Borrower
+1 Ardent Plea
 1 Crashing Footfalls
 2 Force of Negation
-2 Brazen Borrower
 2 Ardent Plea
+2 Brazen Borrower
 2 Crashing Footfalls
-3 Fire/Ice
 3 Force of Negation
 3 Brazen Borrower
 3 Crashing Footfalls
-4 Brazen Borrower
+3 Fire/Ice
 4 Force of Negation
 4 Crashing Footfalls
+4 Brazen Borrower
 1 Eternal Witness
-1 Eladamri's Call
 1 Endurance
 1 Magus of the Moon
+1 Eladamri's Call
 2 Eladamri's Call
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
@@ -152,8 +152,8 @@
 3 Stoneforge Mystic
 1 Gemstone Caverns
 1 Esika's Chariot
-1 Prairie Stream
 1 Venser, Shaper Savant
+1 Prairie Stream
 4 Ephemerate
 1 Sokenzan, Crucible of Defiance
 1 Prismari Command
@@ -175,11 +175,11 @@
 3 Eladamri's Call
 4 Eladamri's Call
 1 Shigeki, Jukai Visionary
-1 Unholy Heat
-1 Spara's Headquarters
-1 Lion Sash
-1 Bala Ged Recovery
 1 Touch the Spirit Realm
+1 Spara's Headquarters
+1 Bala Ged Recovery
+1 Lion Sash
+1 Unholy Heat
 2 Unholy Heat
 4 Stoneforge Mystic
 1 Fable of the Mirror-Breaker
@@ -197,50 +197,50 @@
 2 Memory Deluge
 3 Lightning Bolt
 3 Counterspell
-1 Inspiring Vantage
-1 Celestial Colonnade
-4 Remand
 1 Lotus Cobra
 2 Snow-Covered Island
 2 Lotus Cobra
 3 Lotus Cobra
 4 Lotus Cobra
-1 Mulldrifter
-1 Den of the Bugbear
-1 Esper Sentinel
-2 Mulldrifter
-2 Esper Sentinel
-3 Esper Sentinel
-4 Ragavan, Nimble Pilferer
-4 Esper Sentinel
 1 Manamorphose
 1 Desperate Ritual
 1 Call the Gatewatch
 2 Manamorphose
-2 Kiki-Jiki, Mirror Breaker
-2 Desperate Ritual
-2 Stomping Ground
 2 Forest
-2 Call the Gatewatch
+2 Stomping Ground
 2 Ignoble Hierarch
+2 Kiki-Jiki, Mirror Breaker
+2 Call the Gatewatch
+2 Desperate Ritual
 3 Manamorphose
 3 Temple Garden
+3 Ignoble Hierarch
 3 Stomping Ground
 3 Desperate Ritual
-3 Ignoble Hierarch
-4 Desperate Ritual
 4 Ignoble Hierarch
-1 Jace, the Mind Sculptor
-1 Arboreal Grazer
-1 Emrakul, the Aeons Torn
-1 Kozilek, Butcher of Truth
-1 Lukka, Coppercoat Outcast
+4 Desperate Ritual
+1 Celestial Colonnade
+1 Inspiring Vantage
+4 Remand
+1 Mulldrifter
+1 Den of the Bugbear
+1 Esper Sentinel
+2 Esper Sentinel
+2 Mulldrifter
+3 Esper Sentinel
+4 Ragavan, Nimble Pilferer
+4 Esper Sentinel
 1 Sunbaked Canyon
-2 Arboreal Grazer
+1 Kozilek, Butcher of Truth
+1 Emrakul, the Aeons Torn
+1 Arboreal Grazer
+1 Lukka, Coppercoat Outcast
+1 Jace, the Mind Sculptor
 2 Prismari Command
+2 Arboreal Grazer
 2 Lukka, Coppercoat Outcast
-3 Lukka, Coppercoat Outcast
 3 Prismari Command
+3 Lukka, Coppercoat Outcast
 4 Lukka, Coppercoat Outcast
 1 Sanctifier en-Vec
 1 Auriok Champion
@@ -248,20 +248,20 @@
 1 Watcher for Tomorrow
 1 Aether Vial
 1 Soulherder
-2 Auriok Champion
+2 Skyclave Apparition
+2 Glasspool Mimic
 2 Aether Vial
 2 Soulherder
 2 Watcher for Tomorrow
-2 Skyclave Apparition
-2 Glasspool Mimic
-3 Auriok Champion
+2 Auriok Champion
 3 Skyclave Apparition
+3 Auriok Champion
 3 Soulherder
 3 Aether Vial
 3 Glasspool Mimic
 3 Watcher for Tomorrow
+4 Skyclave Apparition
 4 Glasspool Mimic
 4 Aether Vial
 4 Plains
-4 Skyclave Apparition
 4 Watcher for Tomorrow

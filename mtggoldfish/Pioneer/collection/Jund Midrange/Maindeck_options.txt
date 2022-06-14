@@ -5,8 +5,8 @@
 3 Tenacious Underdog
 1 Dreadbore
 2 Dreadbore
-1 Fabled Passage
 1 Mountain
+1 Fabled Passage
 1 Abrupt Decay
 1 Chandra, Torch of Defiance
 2 Riveteers Charm
@@ -16,8 +16,8 @@
 2 Strangle
 4 Ziatora's Envoy
 1 Dragonskull Summit
-2 Dragonskull Summit
 2 Fabled Passage
+2 Dragonskull Summit
 2 Abrupt Decay
 2 Overgrown Tomb
 1 Kalitas, Traitor of Ghet
@@ -28,43 +28,43 @@
 4 Graveyard Trespasser
 1 Cragcrown Pathway
 1 Mana Confluence
-2 Cragcrown Pathway
 2 Mana Confluence
-3 Cragcrown Pathway
+2 Cragcrown Pathway
 3 Stomping Ground
-4 Cragcrown Pathway
+3 Cragcrown Pathway
 4 Stomping Ground
+4 Cragcrown Pathway
+1 Power Word Kill
+1 Scavenging Ooze
+1 Ishkanah, Grafwidow
+1 Bloodthirsty Adversary
+1 Takenuma, Abandoned Mire
+1 Gloomshrieker
+1 Rockfall Vale
 1 Satyr Wayfinder
 1 Traverse the Ulvenwald
-1 Gloomshrieker
-1 Bloodthirsty Adversary
-1 Scavenging Ooze
-1 Power Word Kill
-1 Takenuma, Abandoned Mire
-1 Rockfall Vale
-1 Ishkanah, Grafwidow
 1 Klothys, God of Destiny
-2 Satyr Wayfinder
-2 Traverse the Ulvenwald
 2 Kolaghan's Command
+2 Traverse the Ulvenwald
+2 Satyr Wayfinder
 3 Traverse the Ulvenwald
 3 Blooming Marsh
+1 Assassin's Trophy
 1 Kroxa, Titan of Death's Hunger
 1 Rootbound Crag
 1 Woodland Cemetery
 1 Hissing Quagmire
-1 Assassin's Trophy
 1 Field of Ruin
 1 Vraska, Golgari Queen
+2 Assassin's Trophy
 2 Kroxa, Titan of Death's Hunger
+2 Woodland Cemetery
+2 Swamp
 2 Unlicensed Hearse
 2 Tireless Tracker
-2 Assassin's Trophy
 2 Hissing Quagmire
 2 Field of Ruin
-2 Swamp
 2 Mountain
-2 Woodland Cemetery
 3 Tireless Tracker
 3 Abrupt Decay
 1 Dreadhorde Arcanist
@@ -73,6 +73,16 @@
 3 Bloodchief's Thirst
 3 Dreadhorde Arcanist
 4 Dreadhorde Arcanist
+1 Titan of Industry
+1 Lukka, Coppercoat Outcast
+2 Titan of Industry
+2 Lukka, Coppercoat Outcast
+2 Hive of the Eye Tyrant
+3 Lukka, Coppercoat Outcast
+3 Titan of Industry
+3 Dreadbore
+4 Blood Crypt
+4 Lukka, Coppercoat Outcast
 1 Urborg, Tomb of Yawgmoth
 1 Grim Flayer
 2 Grim Flayer
@@ -115,13 +125,3 @@
 4 Elvish Mystic
 4 Llanowar Elves
 4 Ilharg, the Raze-Boar
-1 Titan of Industry
-1 Lukka, Coppercoat Outcast
-2 Titan of Industry
-2 Lukka, Coppercoat Outcast
-2 Hive of the Eye Tyrant
-3 Lukka, Coppercoat Outcast
-3 Titan of Industry
-3 Dreadbore
-4 Lukka, Coppercoat Outcast
-4 Blood Crypt
