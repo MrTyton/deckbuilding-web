@@ -1,14 +1,12 @@
-1 Hidetsugu Consumes All
 4 Force of Vigor
+3 Rest in Peace
+1 Chalice of the Void
 1 Solitude
 2 Solitude
-1 Damping Sphere
-2 Damping Sphere
-1 Chalice of the Void
+2 Chalice of the Void
 1 Plague Engineer
 2 Plague Engineer
 2 Hidetsugu Consumes All
-2 Chalice of the Void
 3 Plague Engineer
 1 Stony Silence
 1 Reclamation Sage
@@ -18,8 +16,11 @@
 2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
+1 Damping Sphere
+2 Damping Sphere
 1 Fury
 1 Engineered Explosives
+1 Thrun, the Last Troll
 1 Cindervines
 2 Engineered Explosives
 1 Void Mirror
@@ -40,12 +41,14 @@
 1 Assassin's Trophy
 1 Knight of Autumn
 2 Knight of Autumn
-1 Thrun, the Last Troll
-1 Wear/Tear
-2 Wear/Tear
+1 Ashiok, Dream Render
 2 Fury
+1 Meddling Mage
+2 Meddling Mage
 1 Endurance
 2 Endurance
+1 Wear/Tear
+2 Wear/Tear
 1 Obsidian Charmaw
 1 Dovin's Veto
 2 Dovin's Veto
@@ -59,16 +62,11 @@
 1 Boseiju, Who Endures
 1 Prismatic Ending
 2 Prismatic Ending
-1 Meddling Mage
-2 Meddling Mage
 3 Meddling Mage
 1 Destructive Revelry
 1 Ajani Vengeant
-1 Grafdigger's Cage
 1 Tempest of Light
-1 Ashiok, Dream Render
-1 Gut Shot
-2 Gut Shot
+1 Grafdigger's Cage
 1 Spell Pierce
 2 Spell Pierce
 1 Unlicensed Hearse
@@ -81,12 +79,12 @@
 1 Natural State
 2 Geist of Saint Traft
 2 Torpor Orb
-1 Nihil Spellbomb
-2 Nihil Spellbomb
 1 Fulminator Mage
 2 Fulminator Mage
 1 Hushbringer
 2 Hushbringer
+1 Nihil Spellbomb
+2 Nihil Spellbomb
 1 Qasali Ambusher
 2 Qasali Ambusher
 2 Lightning Helix
@@ -111,6 +109,11 @@
 3 Sanctifier en-Vec
 2 Obsidian Charmaw
 3 Wear/Tear
+2 Ashiok, Dream Render
+2 Thrun, the Last Troll
+3 Chalice of the Void
+3 Thrun, the Last Troll
+4 Chalice of the Void
 1 Unmoored Ego
 2 Unmoored Ego
 1 Yorion, Sky Nomad

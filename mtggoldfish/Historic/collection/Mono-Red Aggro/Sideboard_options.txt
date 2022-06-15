@@ -1,3 +1,6 @@
+1 Abrade
+2 Abrade
+3 Abrade
 1 Lava Coil
 2 Lava Coil
 3 Lava Coil
@@ -10,14 +13,11 @@
 2 Barge In
 3 Play with Fire
 3 Barge In
-1 Reckless Stormseeker
 1 Shatterstorm
-2 Cinderclasm
 1 Chandra, Torch of Defiance
 1 Fry
 2 Fry
 2 Chandra, Torch of Defiance
-3 Roiling Vortex
 2 Rampaging Ferocidon
 1 Hazoret the Fervent
 1 Soul-Guide Lantern
@@ -42,9 +42,10 @@
 1 Flame-Blessed Bolt
 2 Flame-Blessed Bolt
 3 Soul-Guide Lantern
+2 Embereth Shieldbreaker
+3 Rampaging Ferocidon
 1 Anax, Hardened in the Forge
 2 Anax, Hardened in the Forge
-3 Rampaging Ferocidon
 1 Redcap Melee
 2 Redcap Melee
 2 Burning Hands
@@ -52,8 +53,8 @@
 2 Molten Impact
 1 Chandra, Dressed to Kill
 2 Chandra, Dressed to Kill
-1 Cemetery Gatekeeper
 1 Goblin Chainwhirler
+1 Cemetery Gatekeeper
 1 Unchained Berserker
 1 Chandra's Defeat
 1 Raze the Effigy
@@ -91,12 +92,23 @@
 1 Aethersphere Harvester
 2 Aethersphere Harvester
 3 Aethersphere Harvester
-1 Rest in Peace
-1 Cleansing Nova
-1 Fateful Absence
-1 Archon of Emeria
-1 Rip Apart
+3 Cinderclasm
+2 Hazoret the Fervent
+2 Bonecrusher Giant
+4 Rampaging Ferocidon
+1 Conductive Current
+3 Anax, Hardened in the Forge
+4 Grafdigger's Cage
+1 Fable of the Mirror-Breaker
+3 Fry
+3 Chandra, Dressed to Kill
+4 Roiling Vortex
 1 The Wandering Emperor
+1 Rest in Peace
+1 Archon of Emeria
+1 Fateful Absence
+1 Rip Apart
+1 Cleansing Nova
 2 Rest in Peace
 2 Fateful Absence
 2 Cleansing Nova
@@ -104,31 +116,6 @@
 2 Archon of Emeria
 3 Fateful Absence
 3 Rest in Peace
-3 Archon of Emeria
-2 Hazoret the Fervent
-2 Bonecrusher Giant
-2 Embereth Shieldbreaker
-4 Rampaging Ferocidon
-1 Fable of the Mirror-Breaker
-3 Fry
-3 Chandra, Dressed to Kill
-4 Roiling Vortex
-1 Conductive Current
-3 Anax, Hardened in the Forge
-4 Grafdigger's Cage
-1 Cindervines
-1 Heroic Intervention
-1 Living Twister
-1 Klothys, God of Destiny
-2 Klothys, God of Destiny
-2 Cindervines
-2 Cemetery Gatekeeper
-2 Heroic Intervention
-2 Living Twister
-3 Cindervines
-3 Cemetery Gatekeeper
-3 Heroic Intervention
-4 Cemetery Gatekeeper
 1 Lightning Axe
 1 Strangle
 1 Antagonize
@@ -136,4 +123,4 @@
 1 Shock
 1 Heated Debate
 2 Thundering Rebuke
-4 Cindervines
+3 Archon of Emeria

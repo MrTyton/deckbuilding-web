@@ -1,42 +1,43 @@
-3 Arid Mesa
+2 Wrenn and Six
 4 Windswept Heath
-1 Bloodstained Mire
 1 Verdant Catacombs
-1 Hidetsugu Consumes All
-2 Hidetsugu Consumes All
+1 Blood Crypt
+2 Flooded Strand
 1 Fury
 2 Fury
+1 Mountain
 2 Bloodstained Mire
 3 Bloodstained Mire
-1 Omnath, Locus of Creation
-2 Flooded Strand
+1 Hidetsugu Consumes All
+2 Hidetsugu Consumes All
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
-2 Misty Rainforest
-1 Mountain
-3 Hidetsugu Consumes All
-2 Omnath, Locus of Creation
+1 Omnath, Locus of Creation
 4 Manamorphose
+4 Arid Mesa
+2 Omnath, Locus of Creation
 4 Mantis Rider
 3 Flooded Strand
 4 Flooded Strand
-3 Omnath, Locus of Creation
-4 Arid Mesa
+2 Misty Rainforest
+3 Hidetsugu Consumes All
 3 Misty Rainforest
-1 Polluted Delta
-3 Fury
+3 Omnath, Locus of Creation
 4 General Ferrous Rokiric
+3 Fury
 1 Xander's Lounge
-2 Scalding Tarn
 1 Ketria Triome
 4 Bloodstained Mire
+1 Polluted Delta
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
-4 Fury
 3 Steam Vents
+2 Sacred Foundry
 3 Wrenn and Six
+4 Fury
+2 Scalding Tarn
 1 Knight of Autumn
 2 Breeding Pool
 1 Scourge of the Skyclaves
@@ -45,24 +46,25 @@
 2 Unlicensed Hearse
 2 Stomping Ground
 1 Raugrin Triome
-2 Sacred Foundry
 2 Indatha Triome
 3 Indatha Triome
 1 Hallowed Fountain
 1 Spara's Headquarters
 4 Teferi, Time Raveler
+1 Marsh Flats
 1 Godless Shrine
+1 Eladamri's Call
+2 Eladamri's Call
 1 Solitude
 1 Boros Charm
-1 Raffine's Tower
 1 Prismatic Ending
+1 Raffine's Tower
+1 Boseiju, Who Endures
 1 Vindicate
 2 Verdant Catacombs
 1 Qasali Ambusher
 2 Qasali Ambusher
 4 Steam Vents
-1 Boseiju, Who Endures
-1 Marsh Flats
 2 Boros Charm
 1 Kabira Takedown
 1 Showdown of the Skalds
@@ -107,13 +109,6 @@
 1 Eldritch Evolution
 1 Voice of Resurgence
 2 Voice of Resurgence
-1 Overgrown Tomb
-1 Ignoble Hierarch
-1 Noble Hierarch
-2 Ignoble Hierarch
-2 Noble Hierarch
-3 Ignoble Hierarch
-4 Ignoble Hierarch
 1 Watery Grave
 4 Misty Rainforest
 1 Grist, the Hunger Tide
@@ -127,20 +122,28 @@
 3 Prismatic Ending
 3 Expressive Iteration
 4 Expressive Iteration
+1 Overgrown Tomb
+1 Ignoble Hierarch
+1 Noble Hierarch
+2 Ignoble Hierarch
+2 Noble Hierarch
+3 Ignoble Hierarch
+4 Ignoble Hierarch
 2 Mountain
 2 Kabira Takedown
 2 Response/Resurgence
-1 Sundown Pass
 1 Obscura Charm
 2 Obscura Charm
-1 Eladamri's Call
-2 Eladamri's Call
-2 Marsh Flats
-3 Marsh Flats
+1 Sundown Pass
+1 Neoform
+2 Neoform
+3 Neoform
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
+2 Marsh Flats
+3 Marsh Flats
 1 Deputy of Detention
 1 March of Otherworldly Light
 1 Teferi, Hero of Dominaria
@@ -163,6 +166,9 @@
 1 Island
 1 Venerable Warsinger
 1 Klothys, God of Destiny
+1 Emrakul, the Promised End
+1 Chance for Glory
+2 Chance for Glory
 1 Putrid Leech
 2 Putrid Leech
 1 Tarmogoyf
@@ -230,10 +236,10 @@
 4 Pillar of the Paruns
 4 General's Enforcer
 1 Faithful Mending
-1 Snow-Covered Mountain
 1 Chalice of the Void
-1 Ice-Fang Coatl
+1 Snow-Covered Mountain
 1 Otawara, Soaring City
+1 Ice-Fang Coatl
 2 Faithful Mending
 2 Chalice of the Void
 2 Ice-Fang Coatl
@@ -241,23 +247,20 @@
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
 4 Faithful Mending
-1 Neoform
 1 Seasoned Pyromancer
 1 Huntmaster of the Fells
 1 Birds of Paradise
 1 Winota, Joiner of Forces
 1 Reflector Mage
-2 Neoform
 2 Seasoned Pyromancer
+2 Birds of Paradise
 2 Huntmaster of the Fells
 2 Winota, Joiner of Forces
 2 Reflector Mage
-2 Birds of Paradise
-3 Neoform
+3 Reflector Mage
 3 Birds of Paradise
 3 Seasoned Pyromancer
 3 Winota, Joiner of Forces
-3 Reflector Mage
 4 Reflector Mage
 4 Neoform
 4 Seasoned Pyromancer
