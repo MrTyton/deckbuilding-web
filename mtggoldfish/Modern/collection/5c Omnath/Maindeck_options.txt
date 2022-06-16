@@ -1,11 +1,11 @@
 1 Scalding Tarn
 1 Eladamri's Call
-1 Ice-Fang Coatl
 1 Counterspell
-2 Ice-Fang Coatl
+1 Ice-Fang Coatl
 2 Counterspell
-3 Ice-Fang Coatl
+2 Ice-Fang Coatl
 3 Counterspell
+3 Ice-Fang Coatl
 2 Eladamri's Call
 2 Boseiju, Who Endures
 4 Counterspell
@@ -32,29 +32,29 @@
 3 Unholy Heat
 2 Snow-Covered Forest
 3 Eladamri's Call
-1 Karmic Guide
-1 Planebound Accomplice
-1 Vivien on the Hunt
-1 Arbor Elf
 1 Utopia Sprawl
+1 Vivien on the Hunt
 1 Kiki-Jiki, Mirror Breaker
+1 Planebound Accomplice
+1 Karmic Guide
+1 Arbor Elf
 1 Oath of Nissa
 1 Felidar Guardian
-2 Planebound Accomplice
-2 Vivien on the Hunt
-2 Arbor Elf
-2 Karmic Guide
 2 Utopia Sprawl
+2 Vivien on the Hunt
+2 Karmic Guide
+2 Planebound Accomplice
+2 Arbor Elf
 2 Oath of Nissa
 2 Felidar Guardian
-3 Oath of Nissa
-3 Vivien on the Hunt
-3 Planebound Accomplice
-3 Arbor Elf
 3 Utopia Sprawl
+3 Vivien on the Hunt
+3 Arbor Elf
+3 Oath of Nissa
+3 Planebound Accomplice
+4 Utopia Sprawl
 4 Vivien on the Hunt
 4 Arbor Elf
-4 Utopia Sprawl
 1 Savai Triome
 2 Fury
 2 March of Otherworldly Light
@@ -82,8 +82,8 @@
 2 Spreading Seas
 3 Spreading Seas
 4 Spreading Seas
-1 Eternal Witness
 1 Boseiju, Who Shelters All
+1 Eternal Witness
 3 Fury
 4 March of Otherworldly Light
 4 Eladamri's Call
@@ -92,14 +92,25 @@
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
 3 Fable of the Mirror-Breaker
-1 Prismatic Vista
 1 Stoneforge Mystic
 1 Kaldra Compleat
-1 The Wandering Emperor
 1 Batterskull
+1 The Wandering Emperor
+1 Prismatic Vista
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 3 Endurance
+1 Traverse the Ulvenwald
+1 Mishra's Bauble
+1 Dress Down
+2 Dress Down
+2 Traverse the Ulvenwald
+2 Mishra's Bauble
+3 Traverse the Ulvenwald
+3 Mishra's Bauble
+3 Dress Down
+4 Traverse the Ulvenwald
+4 Mishra's Bauble
 1 Reflecting Pool
 1 Teferi, Hero of Dominaria
 1 Arid Mesa
@@ -112,17 +123,6 @@
 3 Arid Mesa
 4 Scalding Tarn
 4 Arid Mesa
-1 Traverse the Ulvenwald
-1 Mishra's Bauble
-1 Dress Down
-2 Dress Down
-2 Mishra's Bauble
-2 Traverse the Ulvenwald
-3 Mishra's Bauble
-3 Dress Down
-3 Traverse the Ulvenwald
-4 Mishra's Bauble
-4 Traverse the Ulvenwald
 1 Cleansing Wildfire
 2 Cleansing Wildfire
 3 Fire/Ice

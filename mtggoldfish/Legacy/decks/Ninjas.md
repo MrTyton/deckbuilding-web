@@ -79,8 +79,8 @@
 |                    3|[Mothdust Changeling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370508)  |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |
 |                    4|[Mothdust Changeling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370508)  |                    1|[Kaito Shizuki](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548538)       |
 |                     |                                                                                                |                    3|[Back to Basics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456642)      |
+|                     |                                                                                                |                    3|[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135260)     |
 |                     |                                                                                                |                    2|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
 |                     |                                                                                                |                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)   |
-|                     |                                                                                                |                    3|[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135260)     |
 |                     |                                                                                                |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
 
