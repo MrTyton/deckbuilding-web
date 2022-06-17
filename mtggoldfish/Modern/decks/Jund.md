@@ -133,7 +133,7 @@
 |                    2|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)               |                     |                                                                                                   |
 |                    3|[Dragon's Rage Channeler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522197)       |                     |                                                                                                   |
 |                    3|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)               |                     |                                                                                                   |
-|                    4|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)               |                     |                                                                                                   |
 |                    4|[Dragon's Rage Channeler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522197)       |                     |                                                                                                   |
+|                    4|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)               |                     |                                                                                                   |
 |                    4|[Unholy Heat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522221)                   |                     |                                                                                                   |
 
