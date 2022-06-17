@@ -11,18 +11,18 @@
 1 Mountain
 4 Street Wraith
 1 Scalding Tarn
+1 Steam Vents
 1 Spirebluff Canal
 1 Vengevine
 1 Reinforced Ronin
 1 Riddlesmith
 1 Voldaren Epicure
 1 Memnite
-1 Steam Vents
+2 Scalding Tarn
 2 Steam Vents
 2 Vengevine
 2 Reinforced Ronin
 2 Voldaren Epicure
-2 Scalding Tarn
 2 Memnite
 2 Riddlesmith
 3 Scalding Tarn
@@ -62,10 +62,10 @@
 2 Trail of Crumbs
 3 Gilded Goose
 4 Gilded Goose
-1 Overgrown Tomb
 1 Blooming Marsh
-2 Blooming Marsh
+1 Overgrown Tomb
 2 Overgrown Tomb
+2 Blooming Marsh
 3 Trail of Crumbs
 3 Witch's Oven
 1 Yavimaya, Cradle of Growth
@@ -86,65 +86,65 @@
 3 Blazing Rootwalla
 3 Burning Inquiry
 4 Burning Inquiry
-1 Plains
 1 Temple Garden
 1 Windswept Heath
+1 Plains
 1 Blackcleave Cliffs
 2 Blood Crypt
 2 Blackcleave Cliffs
 3 Blackcleave Cliffs
 3 Blood Crypt
 4 Blackcleave Cliffs
+1 Stomping Ground
 1 Devoted Druid
 1 Boseiju, Who Endures
 1 Luxior, Giada's Gift
 1 Wrenn and Six
-1 Stomping Ground
 2 Devoted Druid
 2 Wrenn and Six
 3 Wrenn and Six
 3 Devoted Druid
 4 Devoted Druid
-1 Snow-Covered Swamp
 1 Snow-Covered Island
-1 Wonder
+1 Snow-Covered Swamp
 1 Arid Mesa
+1 Wonder
 2 Arid Mesa
 2 Spirebluff Canal
 2 Island
 2 Swamp
 3 Bone Shards
-1 Seasoned Pyromancer
-1 Ragavan, Nimble Pilferer
-1 Sokenzan, Crucible of Defiance
-1 Lightning Bolt
 1 Persist
+1 Seasoned Pyromancer
 1 Fury
 1 Kolaghan's Command
 1 Thoughtseize
+1 Ragavan, Nimble Pilferer
+1 Lightning Bolt
 1 Archon of Cruelty
+1 Sokenzan, Crucible of Defiance
+2 Persist
+2 Archon of Cruelty
 2 Seasoned Pyromancer
 2 Ragavan, Nimble Pilferer
-2 Lightning Bolt
-2 Archon of Cruelty
 2 Thoughtseize
-2 Persist
-3 Seasoned Pyromancer
-3 Ragavan, Nimble Pilferer
-3 Lightning Bolt
-3 Archon of Cruelty
+2 Lightning Bolt
 3 Persist
+3 Archon of Cruelty
+3 Seasoned Pyromancer
+3 Lightning Bolt
 3 Thoughtseize
+3 Ragavan, Nimble Pilferer
+4 Archon of Cruelty
 4 Persist
 4 Seasoned Pyromancer
-4 Archon of Cruelty
 4 Blood Crypt
-4 Ragavan, Nimble Pilferer
 4 Thoughtseize
+4 Ragavan, Nimble Pilferer
 1 Darkbore Pathway
 2 Darkbore Pathway
-3 Blooming Marsh
 3 Darkbore Pathway
+3 Blooming Marsh
 4 Blooming Marsh
 4 Verdant Catacombs
 4 Cauldron Familiar
@@ -157,30 +157,30 @@
 2 Prismatic Ending
 4 Trail of Crumbs
 1 Jetmir's Garden
+1 Sacred Foundry
 1 Eladamri's Call
-1 Stoneforge Mystic
-1 Kaldra Compleat
 1 Viridian Longbow
-1 Sunbaked Canyon
 1 Rocco, Cabaretti Caterer
 1 Vizier of Remedies
-1 Sacred Foundry
+1 Sunbaked Canyon
+1 Kaldra Compleat
+1 Stoneforge Mystic
 1 Giver of Runes
 2 Temple Garden
 2 Eladamri's Call
-2 Stoneforge Mystic
 2 Rocco, Cabaretti Caterer
 2 Windswept Heath
 2 Giver of Runes
+2 Stoneforge Mystic
 3 Windswept Heath
-3 Stoneforge Mystic
 3 Eladamri's Call
 3 Rocco, Cabaretti Caterer
 3 Giver of Runes
+3 Stoneforge Mystic
 4 Windswept Heath
 4 Eladamri's Call
-4 Stoneforge Mystic
 4 Rocco, Cabaretti Caterer
+4 Stoneforge Mystic
 4 Giver of Runes
 1 Hollow One
 1 Goblin Lore
@@ -197,13 +197,13 @@
 4 Hollow One
 4 Goblin Lore
 4 Bloodghast
-1 Nykthos, Shrine to Nyx
 1 Dryad Arbor
 1 Ignoble Hierarch
 1 Pithing Needle
 1 Leyline of Abundance
 1 Tranquil Thicket
 1 Soul-Guide Lantern
+1 Nykthos, Shrine to Nyx
 1 Karn, the Great Creator
 2 Stomping Ground
 2 Ignoble Hierarch

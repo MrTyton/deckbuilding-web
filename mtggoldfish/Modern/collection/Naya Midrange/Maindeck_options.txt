@@ -32,8 +32,8 @@
 1 Verdant Catacombs
 2 Copperline Gorge
 4 Forest
-1 Stoneforge Mystic
 1 Kaldra Compleat
+1 Stoneforge Mystic
 1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
@@ -103,21 +103,21 @@
 1 Reflecting Pool
 1 Prismatic Vista
 1 Eternal Witness
+1 Collected Company
 1 Forgotten Cave
 1 Aven Mindcensor
 1 Sword of Light and Shadow
 1 Fervent Champion
-1 Collected Company
 2 Snow-Covered Plains
+2 Collected Company
 2 Eternal Witness
 2 Ghost Quarter
 2 Magus of the Moon
 2 Aven Mindcensor
-2 Collected Company
-3 Aven Mindcensor
 3 Collected Company
-4 Aven Mindcensor
+3 Aven Mindcensor
 4 Collected Company
+4 Aven Mindcensor
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
@@ -141,9 +141,9 @@
 1 Dromoka's Command
 2 Chained to the Rocks
 2 Dromoka's Command
+1 Hexdrinker
 1 Ranger-Captain of Eos
 1 Giver of Runes
-1 Hexdrinker
 2 Noble Hierarch
 2 Ranger-Captain of Eos
 3 Ranger-Captain of Eos
@@ -198,22 +198,22 @@
 4 Misty Rainforest
 2 Verdant Catacombs
 6 Snow-Covered Forest
-1 Goblin Guide
-1 Kessig Wolf Run
 1 Ghor-Clan Rampager
-1 Boros Charm
 1 Experiment One
 1 Kird Ape
+1 Goblin Guide
+1 Kessig Wolf Run
+1 Boros Charm
+2 Kird Ape
+2 Experiment One
 2 Goblin Guide
 2 Boros Charm
-2 Kird Ape
 2 Ghor-Clan Rampager
-2 Experiment One
+3 Kird Ape
+3 Experiment One
 3 Goblin Guide
 3 Path to Exile
-3 Experiment One
 3 Boros Charm
-3 Kird Ape
 4 Path to Exile
 4 Goblin Guide
 4 Experiment One
