@@ -1,37 +1,35 @@
 9 Island
 1 Harbinger of the Tides
 1 Master of Waves
-2 Harbinger of the Tides
 4 Force of Negation
 4 Glasspool Mimic
+2 Harbinger of the Tides
 3 Harbinger of the Tides
-10 Island
 4 Subtlety
+10 Island
 3 Spreading Seas
 1 Dismember
 2 Master of Waves
 1 Phantasmal Image
-1 Merrow Reejerey
-2 Merrow Reejerey
 2 Dismember
 1 Fiery Islet
 3 Waterlogged Grove
+1 Merrow Reejerey
+2 Merrow Reejerey
 3 Cavern of Souls
 11 Island
-4 Spreading Seas
 1 March of Swirling Mist
 2 March of Swirling Mist
 3 Master of Waves
+4 Spreading Seas
 12 Island
-2 Phantasmal Image
-3 Merrow Reejerey
 1 Suspend
 2 Suspend
 3 Suspend
+1 Kopala, Warden of Waves
 1 Flooded Strand
 2 Flooded Strand
 3 Flooded Strand
-1 Kopala, Warden of Waves
 1 Archmage's Charm
 2 Archmage's Charm
 1 Misty Rainforest
@@ -39,10 +37,12 @@
 3 Misty Rainforest
 4 Misty Rainforest
 4 Flooded Strand
+3 Merrow Reejerey
 2 Kira, Great Glass-Spinner
+2 Phantasmal Image
 1 Prismatic Ending
-1 Hallowed Fountain
 1 Ephemerate
+1 Hallowed Fountain
 1 Seachrome Coast
 2 Prismatic Ending
 2 Hallowed Fountain
@@ -56,10 +56,10 @@
 1 Thieving Skydiver
 2 Thieving Skydiver
 3 Archmage's Charm
+1 Breeding Pool
 1 Forest
 1 Collected Company
 1 Utopia Sprawl
-1 Breeding Pool
 2 Collected Company
 2 Utopia Sprawl
 2 Breeding Pool
@@ -71,12 +71,10 @@
 4 Breeding Pool
 4 Merrow Reejerey
 4 Cavern of Souls
-1 Spell Pierce
 1 Polluted Delta
 4 Harbinger of the Tides
-1 Cursecatcher
-1 Raugrin Triome
 1 Solitude
+1 Raugrin Triome
 2 Solitude
 3 Solitude
 4 Solitude
@@ -87,19 +85,16 @@
 3 Brazen Borrower
 4 Brazen Borrower
 3 Thieving Skydiver
+1 Spell Pierce
 1 Realmwalker
 2 Realmwalker
 1 Sea's Claim
 2 Sea's Claim
 3 Sea's Claim
+1 Cursecatcher
 2 Cursecatcher
 3 Dismember
 3 Cursecatcher
-1 Vapor Snag
-1 Counterspell
-1 Remand
-2 Counterspell
-3 Counterspell
 1 Pongify
 2 Pongify
 3 Pongify
@@ -107,6 +102,6 @@
 2 Ephemerate
 3 Hallowed Fountain
 3 Ephemerate
-4 Ephemerate
 4 Hallowed Fountain
+4 Ephemerate
 4 Master of Waves

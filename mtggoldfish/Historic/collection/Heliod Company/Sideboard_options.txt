@@ -60,13 +60,13 @@
 1 Planar Cleansing
 2 Abiding Grace
 2 Planar Cleansing
-1 Elspeth Resplendent
 1 Divine Purge
+1 Elspeth Resplendent
 1 Leyline of Sanctity
 2 Heroic Intervention
-2 Settle the Wreckage
-2 Elspeth Resplendent
 2 Divine Purge
+2 Elspeth Resplendent
+2 Settle the Wreckage
 2 Leyline of Sanctity
 3 Heroic Intervention
 3 Rest in Peace
@@ -76,6 +76,11 @@
 1 Reprobation
 2 Reprobation
 3 Reprobation
+1 Ephemerate
+1 Snakeskin Veil
+2 Snakeskin Veil
+3 Snakeskin Veil
+4 Snakeskin Veil
 1 Voice of the Blessed
 1 Jegantha, the Wellspring
 2 Voice of the Blessed
@@ -94,11 +99,6 @@
 3 Tamiyo's Safekeeping
 3 Relic of Progenitus
 4 Relic of Progenitus
-1 Snakeskin Veil
-1 Ephemerate
-2 Snakeskin Veil
-3 Snakeskin Veil
-4 Snakeskin Veil
 3 Elite Spellbinder
 4 Elite Spellbinder
 1 The Wandering Emperor

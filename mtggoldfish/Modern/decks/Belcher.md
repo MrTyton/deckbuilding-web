@@ -32,8 +32,8 @@
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
 |                    1|[Pact of the Titan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130638)    |                    3|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)  |
 |                    1|[Infernal Plunge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235603)      |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
-|                    1|[Pyromancer Ascension](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425933) |                    1|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)     |
-|                    2|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)        |                    3|[Fury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522202)               |
+|                    1|[Pyromancer Ascension](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425933) |                    3|[Fury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522202)               |
+|                    2|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)        |                    1|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)     |
 |                    1|[March of Reckless Joy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548458)|                    1|[Endurance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522233)          |
 |                    1|[Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)    |                    1|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)   |
 |                    1|[Fury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522202)                 |                    1|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)           |
@@ -51,4 +51,5 @@
 |                    1|[Wild Cantor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96934)           |                     |                                                                                              |
 |                    2|[Wild Cantor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96934)           |                     |                                                                                              |
 |                    4|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)        |                     |                                                                                              |
+|                    4|[Irencrag Feat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473089)        |                     |                                                                                              |
 
