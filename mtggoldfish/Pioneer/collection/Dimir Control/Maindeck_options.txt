@@ -36,10 +36,10 @@
 1 Make Disappear
 1 Behold the Multiverse
 1 Syncopate
-2 Make Disappear
 2 Soul Shatter
-2 Torrential Gearhulk
+2 Make Disappear
 2 Behold the Multiverse
+2 Torrential Gearhulk
 1 Day's Undoing
 2 Shadows' Verdict
 2 Drown in the Loch
@@ -78,12 +78,12 @@
 2 Syncopate
 1 Divide by Zero
 2 Divide by Zero
-3 Divide by Zero
 3 Thing in the Ice
+3 Divide by Zero
 1 Snow-Covered Swamp
-1 Graven Lore
 1 Raffine's Tower
 1 Doom Blade
+1 Graven Lore
 1 Snow-Covered Island
 1 Rewind
 2 Snow-Covered Island
@@ -98,10 +98,6 @@
 1 Disfigure
 3 Fetid Pools
 4 Shipwreck Marsh
-1 Hagra Mauling
-1 Crawling Barrens
-1 Dismal Backwater
-1 Ice Tunnel
 1 Despise
 1 Saw It Coming
 1 Neutralize
@@ -113,7 +109,11 @@
 1 Thought Erasure
 1 Crux of Fate
 1 Temple of Deceit
+1 Ice Tunnel
+1 Dismal Backwater
+1 Hagra Mauling
 1 Supreme Will
+1 Crawling Barrens
 4 Swamp
 5 Swamp
 5 Island

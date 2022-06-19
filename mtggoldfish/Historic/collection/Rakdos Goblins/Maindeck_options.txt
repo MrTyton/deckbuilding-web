@@ -1,18 +1,18 @@
+1 Krenko, Mob Boss
 2 Krenko, Mob Boss
 3 Goblin Warchief
 3 Goblin Chieftain
+1 Wily Goblin
 6 Mountain
 1 Shatterskull Smashing
 4 Goblin Warchief
-1 Wily Goblin
+2 Wily Goblin
+3 Wily Goblin
+4 Wily Goblin
 1 Goblin Matron
 2 Goblin Matron
 3 Goblin Matron
 3 Krenko, Mob Boss
-2 Wily Goblin
-3 Wily Goblin
-4 Wily Goblin
-3 Pashalik Mons
 2 Shatterskull Smashing
 7 Mountain
 8 Mountain
@@ -52,6 +52,9 @@
 1 Hobgoblin Bandit Lord
 1 Sokenzan, Crucible of Defiance
 8 Snow-Covered Mountain
+1 Fable of the Mirror-Breaker
+2 Fable of the Mirror-Breaker
+1 Sling-Gang Lieutenant
 1 Goblin Instigator
 2 Goblin Instigator
 1 Irencrag Feat
@@ -61,9 +64,6 @@
 2 Irencrag Feat
 2 Hobgoblin Bandit Lord
 3 Irencrag Feat
-1 Fable of the Mirror-Breaker
-2 Fable of the Mirror-Breaker
-1 Sling-Gang Lieutenant
 1 Unclaimed Territory
 2 Unclaimed Territory
 3 Unclaimed Territory
@@ -95,13 +95,27 @@
 1 Goro-Goro, Disciple of Ryusei
 2 Goblin Ringleader
 4 Goblin Instigator
+1 Secluded Courtyard
+1 Twinshot Sniper
+1 Soul-Guide Lantern
+2 Twinshot Sniper
+2 Secluded Courtyard
+2 Sling-Gang Lieutenant
+3 Fable of the Mirror-Breaker
+3 Secluded Courtyard
+3 Twinshot Sniper
+3 Sling-Gang Lieutenant
+4 Fable of the Mirror-Breaker
+4 Secluded Courtyard
+4 Twinshot Sniper
+4 Sling-Gang Lieutenant
 3 Reckless Ringleader
 4 Reckless Ringleader
 1 Ajani's Pridemate
 1 Temple of Triumph
+1 Voice of the Blessed
 1 Cavalcade of Calamity
 1 Lunarch Veteran
-1 Voice of the Blessed
 1 Wind-Scarred Crag
 1 Soul Warden
 1 Hallowed Priest

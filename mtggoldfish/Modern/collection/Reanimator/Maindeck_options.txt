@@ -1,24 +1,3 @@
-1 Concealed Courtyard
-2 Thoughtseize
-4 Marsh Flats
-2 Concealed Courtyard
-1 Malakir Rebirth
-3 Thoughtseize
-3 Concealed Courtyard
-4 Polluted Delta
-4 Tainted Indulgence
-3 Priest of Fell Rites
-4 Flooded Strand
-1 Glacial Fortress
-1 Serra's Emissary
-1 Mulldrifter
-4 Priest of Fell Rites
-1 Bloodstained Mire
-1 Savai Triome
-1 Sacred Foundry
-1 Fable of the Mirror-Breaker
-1 Arid Mesa
-1 Blood Crypt
 1 Seasoned Pyromancer
 2 Blood Crypt
 2 Bloodstained Mire
@@ -38,30 +17,33 @@
 3 Blackcleave Cliffs
 4 Bloodstained Mire
 4 Fable of the Mirror-Breaker
-4 Prismatic Ending
-1 Otawara, Soaring City
-2 Mulldrifter
-4 Thoughtseize
-2 Island
-1 Silent Clearing
-2 Malakir Rebirth
+1 Mulldrifter
 2 Swamp
-1 Urborg, Tomb of Yawgmoth
-1 Consider
-2 Consider
-3 Consider
-1 Counterspell
-2 Counterspell
 1 Ox of Agonas
 2 Sacred Foundry
+4 Prismatic Ending
 1 Eiganjo, Seat of the Empire
 1 Undying Evil
 1 Inspiring Vantage
 2 Inspiring Vantage
 3 Fury
 4 Arid Mesa
+1 Otawara, Soaring City
+2 Mulldrifter
+4 Thoughtseize
+2 Malakir Rebirth
+1 Silent Clearing
+2 Island
+1 Urborg, Tomb of Yawgmoth
+1 Consider
+2 Consider
+3 Consider
+1 Counterspell
+2 Counterspell
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
 3 Counterspell
-1 Collective Brutality
 1 March of Otherworldly Light
 1 Touch the Spirit Realm
 2 Unburial Rites
@@ -70,21 +52,20 @@
 4 Counterspell
 1 Darkslick Shores
 1 Mystic Gate
-2 Collective Brutality
+2 Undying Evil
+3 Inspiring Vantage
+3 Undying Evil
+4 Ragavan, Nimble Pilferer
+1 Collective Brutality
 1 Drown in the Loch
 2 Drown in the Loch
 1 Kaya's Guile
 2 Kaya's Guile
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
 2 Plains
 2 Silent Clearing
 1 Fatal Push
 1 Seachrome Coast
 1 Overgrown Tomb
-1 Master of Death
-2 Master of Death
 1 Insolent Neonate
 2 Insolent Neonate
 3 Insolent Neonate
@@ -96,6 +77,7 @@
 3 Blood Crypt
 4 Consider
 3 Hallowed Fountain
+2 Collective Brutality
 2 March of Otherworldly Light
 1 Ashen Rider
 3 Malakir Rebirth
@@ -115,10 +97,6 @@
 2 Urborg, Tomb of Yawgmoth
 2 Touch the Spirit Realm
 3 Touch the Spirit Realm
-2 Undying Evil
-3 Inspiring Vantage
-3 Undying Evil
-4 Ragavan, Nimble Pilferer
 1 Fact or Fiction
 1 Zagoth Triome
 1 Jace, the Mind Sculptor
@@ -136,6 +114,8 @@
 1 Memory Deluge
 1 Griselbrand
 2 Supreme Verdict
+1 Master of Death
+2 Master of Death
 1 Kaito Shizuki
 3 Mulldrifter
 1 Indatha Triome
@@ -143,6 +123,16 @@
 2 Windswept Heath
 3 Windswept Heath
 4 Teferi, Time Raveler
+1 Kroxa, Titan of Death's Hunger
+1 Sunbaked Canyon
+2 Kroxa, Titan of Death's Hunger
+3 Sacred Foundry
+4 Blood Crypt
+1 Cave of the Frost Dragon
+1 Chancellor of the Annex
+2 Chancellor of the Annex
+3 Chancellor of the Annex
+4 Chancellor of the Annex
 1 Stoneforge Mystic
 1 Kaldra Compleat
 1 Batterskull
@@ -154,23 +144,13 @@
 4 Stoneforge Mystic
 4 Silent Clearing
 4 Malakir Rebirth
-1 Kroxa, Titan of Death's Hunger
-1 Sunbaked Canyon
-2 Kroxa, Titan of Death's Hunger
-3 Sacred Foundry
-4 Blood Crypt
-1 Cave of the Frost Dragon
-1 Chancellor of the Annex
-2 Chancellor of the Annex
-3 Chancellor of the Annex
-4 Chancellor of the Annex
 1 Ledger Shredder
 2 Ledger Shredder
 3 Ledger Shredder
 4 Ledger Shredder
+1 Wurmcoil Engine
 1 Prismatic Vista
 1 Lingering Souls
-1 Wurmcoil Engine
 1 Grave Titan
 1 Raffine's Informant
 2 Lingering Souls

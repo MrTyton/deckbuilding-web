@@ -55,11 +55,11 @@
 3 Witherbloom Command
 2 Soul Shatter
 2 Lolth, Spider Queen
+1 Blood on the Snow
 1 Snow-Covered Forest
 1 Snow-Covered Swamp
-1 Blood on the Snow
-2 Snow-Covered Forest
 2 Snow-Covered Swamp
+2 Snow-Covered Forest
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 1 Graveyard Trespasser
@@ -71,8 +71,8 @@
 2 Culling Ritual
 1 Tenacious Underdog
 2 Tenacious Underdog
-5 Swamp
 5 Forest
+5 Swamp
 4 Binding the Old Gods
 2 Lair of the Hydra
 3 Snow-Covered Forest
@@ -95,10 +95,10 @@
 4 Snow-Covered Forest
 4 The Meathook Massacre
 2 Sorin the Mirthless
-1 Druid Class
 1 Kura, the Boundless Sky
-2 Kura, the Boundless Sky
+1 Druid Class
 2 Druid Class
+2 Kura, the Boundless Sky
 2 Shambling Ghast
 3 Shambling Ghast
 4 Shambling Ghast
@@ -107,31 +107,31 @@
 2 Tend the Pests
 1 Blex, Vexing Pest
 1 Duress
-1 Toxrill, the Corrosive
 1 Diregraf Rebirth
+1 Toxrill, the Corrosive
 1 Egon, God of Death
 6 Forest
 1 Eyetwitch
 1 Field Trip
-1 Unnatural Growth
-1 Skullport Merchant
-1 Deadly Dispute
 1 Mask of Griselbrand
 1 Ebondeath, Dracolich
+1 Skullport Merchant
 1 Vorpal Sword
+1 Deadly Dispute
+1 Unnatural Growth
 1 Varragoth, Bloodsky Sire
 2 Eyetwitch
+2 Varragoth, Bloodsky Sire
 2 Skullport Merchant
 2 Deadly Dispute
-2 Varragoth, Bloodsky Sire
-3 Eyetwitch
-3 Blood on the Snow
 3 Deadly Dispute
 3 Varragoth, Bloodsky Sire
+3 Blood on the Snow
+3 Eyetwitch
 4 Eyetwitch
+4 Varragoth, Bloodsky Sire
 4 Blood on the Snow
 4 Deadly Dispute
-4 Varragoth, Bloodsky Sire
 7 Snow-Covered Swamp
 1 Hero's Downfall
 1 Brightclimb Pathway
@@ -140,17 +140,17 @@
 3 Reckoner Bankbuster
 1 Go Blank
 1 Shadows' Verdict
-1 Callous Bloodmage
 1 Cragplate Baloth
-1 Fang of Shigeki
 1 Bala Ged Recovery
+1 Callous Bloodmage
+1 Fang of Shigeki
 1 Azusa's Many Journeys
-2 Takenuma, Abandoned Mire
-2 Fang of Shigeki
 2 Shadows' Verdict
 2 Azusa's Many Journeys
 2 Bala Ged Recovery
 2 Field Trip
+2 Fang of Shigeki
+2 Takenuma, Abandoned Mire
 3 Boseiju, Who Endures
 3 Field Trip
 3 Tend the Pests
@@ -159,18 +159,9 @@
 1 Kazandu Mammoth
 1 Emergent Sequence
 2 Kazandu Mammoth
-2 Emergent Sequence
 2 Diregraf Rebirth
+2 Emergent Sequence
 3 Emergent Sequence
-1 Werewolf Pack Leader
-1 Avabruck Caretaker
-2 Werewolf Pack Leader
-2 Avabruck Caretaker
-3 Werewolf Pack Leader
-3 Bloodchief's Thirst
-4 Werewolf Pack Leader
-4 Bloodchief's Thirst
-4 Infernal Grasp
 1 Concealing Curtains
 2 Concealing Curtains
 3 Concealing Curtains
@@ -179,11 +170,41 @@
 1 The Celestus
 2 The Celestus
 4 Ray of Enfeeblement
-1 Warlock Class
+1 Avabruck Caretaker
+1 Werewolf Pack Leader
+2 Avabruck Caretaker
+2 Werewolf Pack Leader
+3 Werewolf Pack Leader
+3 Bloodchief's Thirst
+4 Infernal Grasp
+4 Bloodchief's Thirst
+4 Werewolf Pack Leader
+1 Agadeem's Awakening
+1 Teachings of the Kirin
+1 Esika, God of the Tree
+1 Tangled Florahedron
+1 Bloodvial Purveyor
+1 Weaver of Harmony
+1 Vorinclex, Monstrous Raider
+1 Glorious Sunrise
+2 Egon, God of Death
+2 Tangled Florahedron
+2 Bloodvial Purveyor
+2 Agadeem's Awakening
+2 Vorinclex, Monstrous Raider
+2 Teachings of the Kirin
+2 Weaver of Harmony
+3 Weaver of Harmony
+3 Bloodvial Purveyor
+3 Teachings of the Kirin
+4 Bloodvial Purveyor
+4 Teachings of the Kirin
+4 Weaver of Harmony
 1 Nighthawk Scavenger
-1 Hunt for Specimens
 1 Junji, the Midnight Sky
+1 Hunt for Specimens
 1 Poet's Quill
+1 Warlock Class
 1 Assassin's Ink
 1 Infuse with Vitality
 1 Deadly Brew
@@ -192,36 +213,15 @@
 1 Jungle Hollow
 1 Mortality Spear
 1 Daemogoth Woe-Eater
-2 Nighthawk Scavenger
-2 Junji, the Midnight Sky
-2 Toxrill, the Corrosive
 2 Jungle Hollow
+2 Junji, the Midnight Sky
 2 Deadly Brew
 2 Daemogoth Woe-Eater
+2 Nighthawk Scavenger
+2 Toxrill, the Corrosive
 3 Jungle Hollow
 3 Daemogoth Woe-Eater
 6 Swamp
-7 Swamp
 7 Forest
+7 Swamp
 8 Forest
-1 Agadeem's Awakening
-1 Vorinclex, Monstrous Raider
-1 Tangled Florahedron
-1 Bloodvial Purveyor
-1 Glorious Sunrise
-1 Teachings of the Kirin
-1 Esika, God of the Tree
-1 Weaver of Harmony
-2 Vorinclex, Monstrous Raider
-2 Tangled Florahedron
-2 Agadeem's Awakening
-2 Bloodvial Purveyor
-2 Egon, God of Death
-2 Teachings of the Kirin
-2 Weaver of Harmony
-3 Bloodvial Purveyor
-3 Weaver of Harmony
-3 Teachings of the Kirin
-4 Bloodvial Purveyor
-4 Teachings of the Kirin
-4 Weaver of Harmony
