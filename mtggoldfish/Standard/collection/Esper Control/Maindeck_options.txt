@@ -1,39 +1,41 @@
-2 Infernal Grasp
-3 Deserted Beach
-4 The Wandering Emperor
-1 Legion Angel
-4 Hengegate Pathway
-1 Disdainful Stroke
-1 Bloodchief's Thirst
-1 Negate
+2 Tenacious Underdog
 4 Clearwater Pathway
-3 Shipwreck Marsh
-3 Tenacious Underdog
+3 Deserted Beach
 4 Raffine, Scheming Seer
-1 Obscura Interceptor
+3 Luminarch Aspirant
 4 Vanishing Verse
+4 Hengegate Pathway
+1 Bloodchief's Thirst
+1 Disdainful Stroke
+4 Luminarch Aspirant
+2 Hive of the Eye Tyrant
+3 Tenacious Underdog
+1 Legion Angel
 1 Farewell
-3 The Meathook Massacre
 1 Island
-1 Obscura Charm
 2 Void Rend
 1 Doomskar
+1 Obscura Interceptor
 3 Reckoner Bankbuster
 1 Takenuma, Abandoned Mire
 2 Farewell
 2 Doomskar
-4 Tenacious Underdog
+1 Obscura Charm
+3 The Meathook Massacre
 1 Otawara, Soaring City
-2 Obscura Interceptor
+4 Tenacious Underdog
 2 Sorin the Mirthless
+3 Infernal Grasp
 2 March of Otherworldly Light
 1 Teferi, Who Slows the Sunset
 1 Elspeth Resplendent
+2 Obscura Interceptor
 3 Doomskar
 4 Kaito Shizuki
-3 Infernal Grasp
 2 Swamp
 3 Void Rend
+1 Cave of the Frost Dragon
+2 Negate
 1 Soul Shatter
 2 Bloodchief's Thirst
 4 Shattered Sanctum
@@ -44,11 +46,9 @@
 1 The Celestus
 4 Shipwreck Marsh
 1 Memory Deluge
-1 Cave of the Frost Dragon
 1 Jwari Disruption
 2 Plains
 2 Saw It Coming
-2 Negate
 1 Kaya the Inexorable
 1 Go Blank
 2 Memory Deluge
@@ -73,22 +73,22 @@
 2 Go Blank
 1 Shambling Ghast
 1 Deadly Dispute
-2 Deadly Dispute
 2 Shambling Ghast
-3 Shambling Ghast
+2 Deadly Dispute
 3 Deadly Dispute
+3 Shambling Ghast
 4 Deadly Dispute
-1 Snow-Covered Swamp
-1 Blood on the Snow
 1 Snow-Covered Plains
-2 Snow-Covered Swamp
+1 Blood on the Snow
+1 Snow-Covered Swamp
 2 Snow-Covered Plains
+2 Snow-Covered Swamp
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
 1 Test of Talents
-1 Path of Peril
 1 Malicious Malfunction
+1 Path of Peril
 1 Debt to the Kami
 2 Path of Peril
 2 Debt to the Kami
@@ -112,8 +112,8 @@
 4 Eyetwitch
 1 Snow-Covered Island
 1 Snowfield Sinkhole
-2 Blood on the Snow
 2 Snowfield Sinkhole
+2 Blood on the Snow
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
@@ -123,35 +123,30 @@
 1 Tainted Indulgence
 2 Tainted Indulgence
 3 Tainted Indulgence
-1 Consider
 1 Hullbreaker Horror
-2 Consider
+1 Consider
 2 Hullbreaker Horror
 2 Jwari Disruption
-3 Consider
+2 Consider
 3 Jwari Disruption
-1 Hero's Downfall
+3 Consider
 1 Siphon Insight
+1 Hero's Downfall
 2 Siphon Insight
 2 Hero's Downfall
 3 Siphon Insight
 4 Lolth, Spider Queen
-1 Sanctuary Warden
-1 Duress
 1 Starnheim Unleashed
 1 Valorous Stance
+1 Duress
+1 Sanctuary Warden
 2 Spell Pierce
 1 Witness the Future
 1 An Offer You Can't Refuse
 2 Witness the Future
-1 Dockside Chef
-1 Elderfang Disciple
-2 Skullport Merchant
-3 Blood on the Snow
-3 Bloodchief's Thirst
-1 Dennick, Pious Apprentice
 1 Annul
 1 Malevolent Hermit
+1 Dennick, Pious Apprentice
 2 Dennick, Pious Apprentice
 3 Emeria's Call
 3 The Celestus
@@ -162,13 +157,21 @@
 2 Shimmerdrift Vale
 3 Snow-Covered Island
 3 Shimmerdrift Vale
-1 Agadeem's Awakening
+1 Dockside Chef
+1 Elderfang Disciple
+2 Skullport Merchant
+3 Blood on the Snow
+3 Bloodchief's Thirst
 1 Fateful Absence
+1 Agadeem's Awakening
 2 Rite of Oblivion
 3 Rite of Oblivion
 4 Shambling Ghast
 2 Soul Shatter
 4 Infernal Grasp
+3 Negate
+4 Negate
+4 Doomskar
 1 Lier, Disciple of the Drowned
 1 Fading Hope
 1 Nullpriest of Oblivion
@@ -180,18 +183,17 @@
 2 Nullpriest of Oblivion
 3 Island
 3 Fading Hope
-4 Consider
 4 Tainted Indulgence
-4 Doomskar
+4 Consider
 1 Geistwave
 1 Obscura Storefront
 1 Shakedown Heavy
 2 Geistwave
 2 Obscura Storefront
 2 Shakedown Heavy
-3 Shakedown Heavy
 3 March of Otherworldly Light
 3 Geistwave
+3 Shakedown Heavy
 4 Geistwave
 4 March of Otherworldly Light
 3 Obscura Charm
@@ -208,11 +210,11 @@
 3 Plains
 4 Plains
 4 Swamp
-5 Swamp
 5 Plains
+5 Swamp
 6 Swamp
-1 Graveyard Trespasser
 1 The Restoration of Eiganjo
+1 Graveyard Trespasser
 2 Edgar, Charmed Groom
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp

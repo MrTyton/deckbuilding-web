@@ -1,16 +1,10 @@
 2 Cavern Harpy
-1 Living Wish
-2 Living Wish
-3 Living Wish
-2 Birds of Paradise
-1 Ukkima, Stalking Shadow
-3 Verdant Catacombs
+4 Baleful Strix
 1 Cabal Therapy
 2 Cabal Therapy
 3 Cabal Therapy
 1 Parasitic Strix
 1 Eternal Witness
-4 Baleful Strix
 1 Academy Rector
 1 Veteran Explorer
 1 Barrin, Tolarian Archmage
@@ -21,7 +15,13 @@
 1 Swamp
 2 Forest
 2 Island
-3 Forest
+3 Snow-Covered Island
+1 Endurance
+1 Living Wish
+2 Living Wish
+3 Living Wish
+1 Ukkima, Stalking Shadow
+2 Tropical Island
 3 Prismatic Vista
 1 Snow-Covered Plains
 1 Swords to Plowshares
@@ -34,54 +34,51 @@
 3 Prismatic Ending
 4 Prismatic Vista
 4 Prismatic Ending
+3 Forest
 2 Endurance
-2 Tropical Island
 3 Swords to Plowshares
 2 Windswept Heath
 1 Noble Hierarch
 1 Flooded Strand
 4 Swords to Plowshares
-1 Force of Negation
 3 Birds of Paradise
+1 Force of Negation
 2 Noble Hierarch
-4 Living Wish
 4 Birds of Paradise
 3 Polluted Delta
 1 Acererak the Archlich
 1 Abundant Growth
 2 Abundant Growth
-3 Windswept Heath
 3 Abundant Growth
-1 Leovold, Emissary of Trest
-3 Teferi, Time Raveler
-4 Teferi, Time Raveler
-4 Windswept Heath
-4 Abundant Growth
-2 Force of Negation
-3 Endurance
+3 Windswept Heath
+4 Living Wish
 2 Underground Sea
 3 Cavern Harpy
-2 Acererak the Archlich
+3 Teferi, Time Raveler
+4 Teferi, Time Raveler
+4 Abundant Growth
+4 Windswept Heath
+2 Force of Negation
+3 Endurance
+1 Leovold, Emissary of Trest
 1 Shardless Agent
 1 Sylvan Library
-2 Shardless Agent
-1 Spellseeker
-1 True-Name Nemesis
-4 Polluted Delta
+2 Acererak the Archlich
 2 Bayou
+4 Uro, Titan of Nature's Wrath
+2 Shardless Agent
 2 Grist, the Hunger Tide
 3 Grist, the Hunger Tide
-4 Uro, Titan of Nature's Wrath
 3 Shardless Agent
+1 Spellseeker
 2 Sylvan Library
 1 Zagoth Triome
 1 Hullbreacher
 1 Destiny Spinner
-1 Risen Reef
-2 Risen Reef
-3 Risen Reef
-3 Noble Hierarch
-4 Risen Reef
+1 Snuff Out
+2 Snuff Out
+1 True-Name Nemesis
+4 Polluted Delta
 1 Assassin's Trophy
 1 Thoughtseize
 1 Volrath's Stronghold
@@ -89,8 +86,13 @@
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
-1 Cauldron Familiar
+1 Risen Reef
+2 Risen Reef
+3 Risen Reef
+3 Noble Hierarch
+4 Risen Reef
 1 Inquisition of Kozilek
+1 Cauldron Familiar
 1 Duress
 2 Inquisition of Kozilek
 2 Duress

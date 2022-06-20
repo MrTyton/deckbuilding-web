@@ -61,10 +61,10 @@
 17 Snow-Covered Forest
 18 Forest
 3 Circle of Dreams Druid
-1 Overgrown Tomb
 1 Darkbore Pathway
-2 Overgrown Tomb
+1 Overgrown Tomb
 2 Darkbore Pathway
+2 Overgrown Tomb
 3 Overgrown Tomb
 4 Overgrown Tomb
 1 Faceless Haven
@@ -90,17 +90,17 @@
 1 Steel Leaf Champion
 1 Elven Ambush
 1 Incubation Druid
-2 The Great Henge
 2 Craterhoof Behemoth
-2 Steel Leaf Champion
 2 Incubation Druid
+2 The Great Henge
 2 Elven Ambush
-3 Steel Leaf Champion
+2 Steel Leaf Champion
 3 Elven Ambush
+3 Steel Leaf Champion
 3 Hashep Oasis
 3 Incubation Druid
-4 Steel Leaf Champion
 4 Hashep Oasis
+4 Steel Leaf Champion
 1 Scavenging Ooze
 2 Turntimber Symbiosis
 1 Stifle
@@ -108,11 +108,11 @@
 2 Boseiju, Who Endures
 2 Sylvan Anthem
 1 Kogla, the Titan Ape
-1 Beast Whisperer
 1 Snakeskin Veil
+1 Beast Whisperer
 1 Elder Gargaroth
-2 Beast Whisperer
 2 Snakeskin Veil
+2 Beast Whisperer
 3 Llanowar Visionary
 3 Beast Whisperer
 1 Overgrown Farmland
@@ -124,14 +124,18 @@
 3 Growing Rites of Itlimoc
 3 Overgrown Farmland
 4 Overgrown Farmland
+1 Blooming Marsh
+2 Blooming Marsh
+3 Blooming Marsh
+4 Blooming Marsh
 1 Finale of Devastation
 2 Finale of Devastation
 3 Finale of Devastation
 4 Finale of Devastation
-1 Fiend Artisan
 1 Woodland Cemetery
-2 Fiend Artisan
+1 Fiend Artisan
 2 Woodland Cemetery
+2 Fiend Artisan
 3 Woodland Cemetery
 3 Realmwalker
 4 Woodland Cemetery
@@ -146,10 +150,6 @@
 4 Sylvan Ranger
 4 Vivien, Monsters' Advocate
 4 Marwyn, the Nurturer
-1 Blooming Marsh
-2 Blooming Marsh
-3 Blooming Marsh
-4 Blooming Marsh
 1 Ranger Class
 2 Ranger Class
 19 Forest
