@@ -73,4 +73,4 @@
 
 
 
-#### Last Updated at 12:30AM on June 20, 2022
+#### Last Updated at 12:31PM on June 20, 2022

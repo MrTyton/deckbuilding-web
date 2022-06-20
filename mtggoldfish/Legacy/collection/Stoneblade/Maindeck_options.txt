@@ -1,34 +1,34 @@
+2 Prismatic Ending
 1 Esper Sentinel
 2 Esper Sentinel
-1 Kaldra Compleat
-2 Prismatic Ending
 3 Prismatic Ending
-1 Swamp
+1 Snow-Covered Swamp
 1 Volcanic Island
-1 True-Name Nemesis
-2 Scalding Tarn
+1 Swamp
 1 Daze
+2 Scalding Tarn
+1 True-Name Nemesis
+2 Daze
 1 Wasteland
-2 True-Name Nemesis
 2 Wasteland
 1 Umezawa's Jitte
-2 Daze
-1 Snapcaster Mage
-1 Unearth
-3 Daze
+2 True-Name Nemesis
 2 Island
+1 Snapcaster Mage
+1 Force of Negation
+3 Daze
+3 Wasteland
 1 Stifle
 2 Stifle
-3 Wasteland
 3 Stifle
 4 Wasteland
 4 Daze
 3 True-Name Nemesis
-1 Force of Negation
+3 Scalding Tarn
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
+1 Prismatic Vista
 2 Snow-Covered Island
-3 Scalding Tarn
 1 Delver of Secrets
 2 Delver of Secrets
 3 Delver of Secrets
@@ -36,53 +36,51 @@
 4 Stifle
 1 Murktide Regent
 2 Murktide Regent
-1 Prismatic Vista
 2 Prismatic Vista
-1 Spell Pierce
-2 Misty Rainforest
 1 Narset, Parter of Veils
+1 Spell Pierce
+2 Force of Negation
+2 Misty Rainforest
 2 Snapcaster Mage
 3 Snapcaster Mage
-4 Underground Sea
-3 Island
-2 Force of Negation
 1 Jace, the Mind Sculptor
-3 Prismatic Vista
 4 Prismatic Ending
+3 Island
 2 Jace, the Mind Sculptor
+3 Prismatic Vista
+4 Scalding Tarn
 3 Jace, the Mind Sculptor
 3 Snow-Covered Island
 1 Preordain
+4 Underground Sea
 1 Tropical Island
 1 Cavern of Souls
-4 Scalding Tarn
 2 Narset, Parter of Veils
 1 Mystic Sanctuary
 3 Misty Rainforest
 4 Misty Rainforest
 1 Sylvan Library
-1 Forest
 1 Spara's Headquarters
+1 Forest
 1 Teferi, Hero of Dominaria
 1 Diabolic Intent
 1 Retrofitter Foundry
 1 Wargate
+1 Zagoth Triome
 1 Battle of Wits
 1 Shadowspear
 1 Verdant Catacombs
-1 Elvish Reclaimer
-1 Zagoth Triome
 1 Prismatic Omen
+1 Elvish Reclaimer
 1 Indatha Triome
 1 Jace, Vryn's Prodigy
 1 Raffine's Tower
 1 Abrupt Decay
-1 Day's Undoing
 1 Sea Gate Restoration
 1 Archon of Valor's Reach
-1 Enlightened Tutor
 1 Dryad of the Ilysian Grove
 1 Drownyard Temple
+1 Enlightened Tutor
 1 Valakut, the Molten Pinnacle
 1 The Tabernacle at Pendrell Vale
 1 Unlicensed Hearse
@@ -99,6 +97,7 @@
 1 Snow-Covered Forest
 1 Windswept Heath
 1 Uro, Titan of Nature's Wrath
+1 Day's Undoing
 1 Mox Diamond
 1 Dark Depths
 1 Leovold, Emissary of Trest
@@ -131,12 +130,12 @@
 2 Otawara, Soaring City
 2 Abrupt Decay
 2 Verdant Catacombs
-2 Flusterstorm
 2 Jace, Vryn's Prodigy
 2 Unlicensed Hearse
 2 Boseiju, Who Endures
 2 Enlightened Tutor
 2 Field of the Dead
+2 Flusterstorm
 2 Dryad Arbor
 2 Teferi's Protection
 2 Savannah
@@ -160,12 +159,11 @@
 2 Grist, the Hunger Tide
 2 Dryad of the Ilysian Grove
 3 Endurance
+3 Tropical Island
 3 Battle of Wits
 3 Elvish Reclaimer
 3 Abrupt Decay
 3 Assassin's Trophy
-3 Narset, Parter of Veils
-3 Tropical Island
 3 Sylvan Library
 3 Unlicensed Hearse
 3 Savannah
@@ -191,17 +189,18 @@
 3 Preordain
 3 Expedition Map
 3 Diabolic Intent
+3 Narset, Parter of Veils
 4 Dryad of the Ilysian Grove
+4 Narset, Parter of Veils
 4 Battle of Wits
 4 Elvish Reclaimer
 4 Tropical Island
-4 Narset, Parter of Veils
 4 Endurance
 4 Uro, Titan of Nature's Wrath
+4 Grist, the Hunger Tide
 4 Savannah
 4 Snapcaster Mage
 4 Verdant Catacombs
-4 Grist, the Hunger Tide
 4 Abrupt Decay
 4 Teferi, Time Raveler
 4 Diabolic Intent
@@ -215,14 +214,14 @@
 4 Crop Rotation
 4 Green Sun's Zenith
 4 Field of the Dead
-1 Glasspool Mimic
+1 Unearth
 1 Back to Basics
 2 Volcanic Island
 3 Murktide Regent
-3 Esper Sentinel
-2 Plains
 1 Ledger Shredder
 2 Ledger Shredder
+3 Esper Sentinel
+2 Plains
 4 Prismatic Vista
 1 Expressive Iteration
 2 Expressive Iteration
@@ -245,8 +244,15 @@
 4 Volcanic Island
 4 Expressive Iteration
 4 Dragon's Rage Channeler
+1 Mountain
+1 Glasspool Mimic
 1 Lightning Bolt
 2 Lightning Bolt
+1 Step Through
+1 Brazen Borrower
+2 Cabal Therapy
+2 Step Through
+3 Step Through
 1 Kaya, Orzhov Usurper
 1 Supreme Verdict
 1 Inquisition of Kozilek
@@ -254,15 +260,15 @@
 2 Thoughtseize
 3 Thoughtseize
 4 Murktide Regent
-1 Mountain
 1 Engineered Explosives
-1 Dress Down
 1 Arid Mesa
 1 Nahiri, the Lithomancer
+1 Dress Down
 2 Dress Down
 4 Island
-1 Step Through
-1 Brazen Borrower
-2 Cabal Therapy
-2 Step Through
-3 Step Through
+1 Squadron Hawk
+2 Squadron Hawk
+3 Ledger Shredder
+3 Squadron Hawk
+4 Ledger Shredder
+4 Squadron Hawk

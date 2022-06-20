@@ -60,14 +60,14 @@
 1 Master of Waves
 1 Fact or Fiction
 1 Valakut, the Molten Pinnacle
+1 Risen Reef
 1 Emrakul, the Aeons Torn
-1 Primeval Titan
 1 Murktide Regent
-1 Bloodstained Mire
 1 Drowned Catacomb
 1 Flamekin Harbinger
-1 Risen Reef
 1 Lava Spike
+1 Primeval Titan
+1 Bloodstained Mire
 1 Verdant Catacombs
 1 Xander's Lounge
 1 Fable of the Mirror-Breaker
@@ -76,27 +76,26 @@
 1 Sacred Foundry
 1 Explore
 1 Sunpetal Grove
-1 Savai Triome
 1 Neoform
-1 Valki, God of Lies
 1 Trading Post
+1 Valki, God of Lies
 1 Time Warp
 1 Kiki-Jiki, Mirror Breaker
 1 Marsh Flats
 1 Raffine's Tower
-1 Platinum Emperion
 1 The Reality Chip
 1 Deflecting Palm
-1 Deceiver Exarch
+1 Savai Triome
+1 Platinum Emperion
 1 Birds of Paradise
 1 The World Tree
 1 Indatha Triome
 1 Settle the Wreckage
-1 Scapeshift
 1 Sin Prodder
 1 Path to Exile
 1 Leyline of Sanctity
 1 Subtlety
+1 Scapeshift
 1 Fury
 1 Overgrown Tomb
 1 Azor's Elocutors
@@ -173,18 +172,19 @@
 1 Possibility Storm
 1 Eladamri's Call
 1 Time of Need
+1 Deceiver Exarch
 1 Felidar Sovereign
 1 Rootbound Crag
 2 Valakut, the Molten Pinnacle
-2 Wooded Foothills
 2 Risen Reef
+2 Wooded Foothills
 2 Explore
 2 Fable of the Mirror-Breaker
-2 Sulfur Falls
 2 Arid Mesa
 2 Sacred Foundry
 2 Sunpetal Grove
 2 Raugrin Triome
+2 Sulfur Falls
 2 Path to Exile
 2 Abundant Harvest
 2 Bring to Light
@@ -203,6 +203,7 @@
 2 Hedron Alignment
 2 Eladamri's Call
 2 Massive Raid
+3 Bring to Light
 3 Risen Reef
 3 Arid Mesa
 3 Explore
@@ -219,7 +220,6 @@
 3 Fires of Invention
 3 Noble Hierarch
 3 Hedron Alignment
-3 Bring to Light
 3 Omnath, Locus of Creation
 3 Raugrin Triome
 3 Stomping Ground
@@ -227,9 +227,10 @@
 3 Steam Vents
 3 Battle of Wits
 3 Utopia Sprawl
+4 Bring to Light
+4 Risen Reef
 4 Prismatic Vista
 4 Temple Garden
-4 Risen Reef
 4 Arid Mesa
 4 Steam Vents
 4 Breeding Pool
@@ -238,7 +239,6 @@
 4 Sacred Foundry
 4 Battle of Wits
 4 Utopia Sprawl
-4 Bring to Light
 4 Noble Hierarch
 4 Raugrin Triome
 4 Expressive Iteration
@@ -349,8 +349,8 @@
 4 Remand
 1 Eiganjo, Seat of the Empire
 1 Chalice of the Void
-2 Glacial Fortress
 2 The Wandering Emperor
+2 Glacial Fortress
 2 Chalice of the Void
 3 The Wandering Emperor
 3 Chalice of the Void

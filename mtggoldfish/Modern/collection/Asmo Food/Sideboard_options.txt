@@ -3,12 +3,6 @@
 4 Thoughtseize
 1 Nihil Spellbomb
 1 Engineered Explosives
-1 Flusterstorm
-2 Flusterstorm
-3 Flusterstorm
-1 Fulminator Mage
-2 Fulminator Mage
-3 Fulminator Mage
 1 Tormod's Crypt
 1 Fury
 2 Fury
@@ -21,14 +15,19 @@
 2 Void Mirror
 2 Damping Sphere
 2 Engineered Explosives
-1 Tezzeret, Agent of Bolas
+1 Flusterstorm
+2 Flusterstorm
+3 Flusterstorm
 1 Aether Spellbomb
+1 Tezzeret, Agent of Bolas
 2 Tezzeret, Agent of Bolas
 3 Damping Sphere
 2 Magus of the Moon
 3 Fury
 4 Fury
-4 Fulminator Mage
+1 Fulminator Mage
+2 Fulminator Mage
+3 Fulminator Mage
 1 Force of Vigor
 2 Force of Vigor
 1 Alpine Moon
@@ -66,9 +65,9 @@
 1 Outland Liberator
 1 Sword of Fire and Ice
 1 Solitude
+1 Boseiju, Who Endures
 1 Drannith Magistrate
 1 Burrenton Forge-Tender
-1 Boseiju, Who Endures
 2 Burrenton Forge-Tender
 3 Burrenton Forge-Tender
 1 Roiling Vortex
@@ -85,10 +84,11 @@
 1 Liquimetal Coating
 2 Veil of Summer
 3 Veil of Summer
-3 Soul-Guide Lantern
-4 Soul-Guide Lantern
 1 Assassin's Trophy
 1 Fatal Push
 1 Vraska, Golgari Queen
 2 Fatal Push
 3 Fatal Push
+3 Soul-Guide Lantern
+4 Soul-Guide Lantern
+4 Fulminator Mage
