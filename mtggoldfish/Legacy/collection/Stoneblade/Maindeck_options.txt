@@ -32,8 +32,8 @@
 1 Delver of Secrets
 2 Delver of Secrets
 3 Delver of Secrets
-4 Delver of Secrets
 4 Stifle
+4 Delver of Secrets
 1 Murktide Regent
 2 Murktide Regent
 2 Prismatic Vista
@@ -60,32 +60,30 @@
 3 Misty Rainforest
 4 Misty Rainforest
 1 Sylvan Library
+1 Elvish Reclaimer
 1 Spara's Headquarters
 1 Forest
 1 Teferi, Hero of Dominaria
 1 Diabolic Intent
 1 Retrofitter Foundry
-1 Wargate
 1 Zagoth Triome
-1 Battle of Wits
 1 Shadowspear
 1 Verdant Catacombs
 1 Prismatic Omen
-1 Elvish Reclaimer
-1 Indatha Triome
 1 Jace, Vryn's Prodigy
-1 Raffine's Tower
 1 Abrupt Decay
 1 Sea Gate Restoration
+1 Raffine's Tower
 1 Archon of Valor's Reach
 1 Dryad of the Ilysian Grove
 1 Drownyard Temple
 1 Enlightened Tutor
 1 Valakut, the Molten Pinnacle
-1 The Tabernacle at Pendrell Vale
+1 Indatha Triome
 1 Unlicensed Hearse
 1 Serum Visions
 1 Flusterstorm
+1 The Tabernacle at Pendrell Vale
 1 Flagstones of Trokair
 1 Ramunap Excavator
 1 Savannah
@@ -105,26 +103,27 @@
 1 Aetherling
 1 Boseiju, Who Endures
 1 Primeval Titan
+1 Battle of Wits
 1 Teferi's Protection
 1 Expedition Map
 1 Ice-Fang Coatl
 1 Endurance
+1 Wargate
 1 Crop Rotation
 1 Thespian's Stage
 1 Green Sun's Zenith
 1 Assassin's Trophy
 1 Coiling Oracle
+2 Elvish Reclaimer
 2 Tropical Island
+2 Valakut, the Molten Pinnacle
 2 Leovold, Emissary of Trest
 2 Life from the Loam
 2 Expedition Map
 2 Sylvan Library
 2 Primeval Titan
 2 Preordain
-2 Battle of Wits
-2 Valakut, the Molten Pinnacle
 2 Forest
-2 Elvish Reclaimer
 2 Prismatic Omen
 2 Scrubland
 2 Otawara, Soaring City
@@ -143,6 +142,7 @@
 2 Assassin's Trophy
 2 Karakas
 2 Ramunap Excavator
+2 Battle of Wits
 2 Thespian's Stage
 2 Diabolic Intent
 2 Crop Rotation
@@ -159,17 +159,16 @@
 2 Grist, the Hunger Tide
 2 Dryad of the Ilysian Grove
 3 Endurance
-3 Tropical Island
-3 Battle of Wits
 3 Elvish Reclaimer
 3 Abrupt Decay
 3 Assassin's Trophy
 3 Sylvan Library
+3 Tropical Island
 3 Unlicensed Hearse
 3 Savannah
+3 Verdant Catacombs
 3 Jace, Vryn's Prodigy
 3 Grist, the Hunger Tide
-3 Verdant Catacombs
 3 Teferi, Time Raveler
 3 Flagstones of Trokair
 3 Karakas
@@ -187,30 +186,31 @@
 3 Bayou
 3 Field of the Dead
 3 Preordain
+3 Battle of Wits
 3 Expedition Map
 3 Diabolic Intent
 3 Narset, Parter of Veils
 4 Dryad of the Ilysian Grove
 4 Narset, Parter of Veils
-4 Battle of Wits
-4 Elvish Reclaimer
 4 Tropical Island
 4 Endurance
-4 Uro, Titan of Nature's Wrath
 4 Grist, the Hunger Tide
 4 Savannah
 4 Snapcaster Mage
 4 Verdant Catacombs
 4 Abrupt Decay
 4 Teferi, Time Raveler
+4 Battle of Wits
 4 Diabolic Intent
 4 Mox Diamond
 4 Preordain
 4 Jace, the Mind Sculptor
+4 Uro, Titan of Nature's Wrath
 4 Sylvan Library
 4 Thespian's Stage
 4 Assassin's Trophy
 4 Windswept Heath
+4 Elvish Reclaimer
 4 Crop Rotation
 4 Green Sun's Zenith
 4 Field of the Dead
@@ -238,18 +238,18 @@
 6 Snow-Covered Island
 1 Dragon's Rage Channeler
 2 Dragon's Rage Channeler
-3 Expressive Iteration
 3 Dragon's Rage Channeler
+3 Expressive Iteration
 3 Volcanic Island
+4 Dragon's Rage Channeler
 4 Volcanic Island
 4 Expressive Iteration
-4 Dragon's Rage Channeler
 1 Mountain
 1 Glasspool Mimic
 1 Lightning Bolt
 2 Lightning Bolt
-1 Step Through
 1 Brazen Borrower
+1 Step Through
 2 Cabal Therapy
 2 Step Through
 3 Step Through
@@ -260,10 +260,10 @@
 2 Thoughtseize
 3 Thoughtseize
 4 Murktide Regent
+1 Dress Down
 1 Engineered Explosives
 1 Arid Mesa
 1 Nahiri, the Lithomancer
-1 Dress Down
 2 Dress Down
 4 Island
 1 Squadron Hawk

@@ -49,6 +49,6 @@
 |                    2|[Lead the Stampede](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382295)      |                     |                                                                                                 |
 |                    3|[Gnarlroot Trapper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398413)      |                     |                                                                                                 |
 |                    3|[Elvish Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175124)       |                     |                                                                                                 |
-|                    4|[Secluded Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548588)     |                     |                                                                                                 |
 |                    4|[Elvish Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175124)       |                     |                                                                                                 |
+|                    4|[Secluded Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548588)     |                     |                                                                                                 |
 

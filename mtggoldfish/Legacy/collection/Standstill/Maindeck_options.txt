@@ -97,7 +97,6 @@
 2 Misty Rainforest
 2 Spell Pierce
 1 Palace Jailer
-1 Ephemerate
 1 Shadowspear
 1 March of Otherworldly Light
 1 Vendilion Clique
@@ -110,6 +109,7 @@
 1 Kaldra Compleat
 1 Stoneforge Mystic
 1 Otawara, Soaring City
+1 Ephemerate
 2 March of Otherworldly Light
 2 Recruiter of the Guard
 2 Stoneforge Mystic
@@ -146,6 +146,10 @@
 2 Counterbalance
 2 Moat
 3 Terminus
+1 Delver of Secrets
+2 Delver of Secrets
+3 Delver of Secrets
+4 Delver of Secrets
 1 Aether Spellbomb
 4 Timeless Dragon
 3 Murktide Regent
@@ -154,10 +158,6 @@
 2 Flusterstorm
 3 Retrofitter Foundry
 4 Retrofitter Foundry
-1 Delver of Secrets
-2 Delver of Secrets
-3 Delver of Secrets
-4 Delver of Secrets
 1 Snow-Covered Swamp
 3 Snow-Covered Island
 3 Force of Negation

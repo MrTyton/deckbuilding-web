@@ -54,6 +54,6 @@
 |                    3|[Fury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522202)                 |                     |                                                                                                |
 |                    4|[Fury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522202)                 |                     |                                                                                                |
 |                    1|[Wild Cantor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96934)           |                     |                                                                                                |
-|                    2|[Wild Cantor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96934)           |                     |                                                                                                |
 |                    4|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)        |                     |                                                                                                |
+|                    2|[Wild Cantor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96934)           |                     |                                                                                                |
 

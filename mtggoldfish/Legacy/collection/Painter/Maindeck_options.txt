@@ -112,11 +112,11 @@
 2 Fable of the Mirror-Breaker
 1 Welding Jar
 1 Ingenious Smith
+1 Karakas
 1 Esper Sentinel
 1 Oswald Fiddlebender
 1 Mother of Runes
 1 Snow-Covered Plains
-1 Karakas
 1 Ancient Den
 1 Plains
 2 Ingenious Smith
@@ -130,8 +130,8 @@
 2 Ancient Den
 3 Snow-Covered Plains
 3 Ingenious Smith
-3 Esper Sentinel
 3 Plains
+3 Esper Sentinel
 3 Ancient Den
 3 Oswald Fiddlebender
 4 Ancient Den
@@ -143,6 +143,8 @@
 4 Wasteland
 1 Blood Moon
 1 Chandra, Torch of Defiance
+2 Breya's Apprentice
+3 Simian Spirit Guide
 1 Crucible of Worlds
 1 Aether Vial
 1 Hope of Ghirapur
@@ -153,8 +155,6 @@
 2 Archivist of Oghma
 3 Ethersworn Canonist
 3 Mother of Runes
-2 Breya's Apprentice
-3 Simian Spirit Guide
 3 Thought Monitor
 4 Thought Monitor
 1 Force of Negation
@@ -181,7 +181,6 @@
 4 Esper Sentinel
 1 Tireless Tracker
 1 Sylvan Safekeeper
-1 Ignoble Hierarch
 1 Gilded Goose
 1 Collected Company
 1 Yavimaya, Cradle of Growth
@@ -191,16 +190,17 @@
 1 Gaea's Cradle
 1 Green Sun's Zenith
 1 Dryad Arbor
+1 Ignoble Hierarch
 1 Ramunap Excavator
 1 Scryb Ranger
-2 Ignoble Hierarch
 2 Gilded Goose
 2 Gaea's Cradle
+2 Ignoble Hierarch
 2 Green Sun's Zenith
 2 Natural Order
 3 Gilded Goose
-3 Taiga
 3 Gaea's Cradle
+3 Taiga
 3 Green Sun's Zenith
 4 Gilded Goose
 4 Gaea's Cradle
@@ -209,38 +209,38 @@
 4 Kappa Cannoneer
 1 Swamp
 1 Expedition Map
+1 Chrome Mox
+1 Thoughtseize
+1 Duress
 1 Dark Ritual
 1 Sudden Edict
 1 Opposition Agent
 1 Dark Confidant
 1 Urborg, Tomb of Yawgmoth
-1 Chrome Mox
-1 Thoughtseize
-1 Duress
 1 Dauthi Voidwalker
+2 Chrome Mox
+2 Thoughtseize
 2 Swamp
+2 Duress
 2 Dark Ritual
 2 Sudden Edict
 2 Dauthi Voidwalker
-2 Duress
-2 Thoughtseize
 2 Opposition Agent
 2 Urborg, Tomb of Yawgmoth
-2 Chrome Mox
 2 Dark Confidant
 3 Sudden Edict
-3 Dark Ritual
 3 Chrome Mox
-3 Dark Confidant
 3 Thoughtseize
+3 Dark Ritual
+3 Dark Confidant
 3 Swamp
 3 Dauthi Voidwalker
 3 Opposition Agent
 4 Sudden Edict
+4 Thoughtseize
 4 Dark Ritual
 4 Dark Confidant
 4 Swamp
-4 Thoughtseize
 4 Dauthi Voidwalker
 5 Swamp
 6 Swamp

@@ -7,11 +7,11 @@
 1 Ephemerate
 2 Ephemerate
 4 Omnath, Locus of Creation
+1 Vivien on the Hunt
 1 Planebound Accomplice
 1 Karmic Guide
-1 Vivien on the Hunt
-2 Planebound Accomplice
 2 Vivien on the Hunt
+2 Planebound Accomplice
 3 Vivien on the Hunt
 1 Plains
 4 Wooded Foothills
@@ -48,9 +48,9 @@
 4 Violent Outburst
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
+1 Khalni Garden
 1 Chancellor of the Forge
 1 Glimpse of Tomorrow
-1 Khalni Garden
 1 Wavesifter
 2 Chancellor of the Forge
 2 Wavesifter
@@ -119,8 +119,8 @@
 3 Arid Mesa
 1 March of Otherworldly Light
 1 Ragavan, Nimble Pilferer
-1 Magus of the Moon
 1 Eladamri's Call
+1 Magus of the Moon
 2 Eladamri's Call
 4 Scalding Tarn
 2 March of Otherworldly Light
@@ -133,8 +133,8 @@
 2 Ardent Plea
 2 Brazen Borrower
 2 Crashing Footfalls
-3 Force of Negation
 3 Brazen Borrower
+3 Force of Negation
 3 Crashing Footfalls
 3 Fire/Ice
 4 Force of Negation
@@ -157,8 +157,8 @@
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
-1 Esika's Chariot
 1 Gemstone Caverns
+1 Esika's Chariot
 1 Prairie Stream
 1 Sokenzan, Crucible of Defiance
 1 Remand
@@ -176,17 +176,17 @@
 4 Imperial Recruiter
 1 Spara's Headquarters
 1 Touch the Spirit Realm
+1 Shigeki, Jukai Visionary
 1 Lion Sash
 1 Bala Ged Recovery
 1 Unholy Heat
-1 Shigeki, Jukai Visionary
 2 Unholy Heat
 4 Stoneforge Mystic
 1 Charming Prince
 1 Knight of Autumn
-1 Drannith Magistrate
-1 Avalanche Riders
 1 Toski, Bearer of Secrets
+1 Avalanche Riders
+1 Drannith Magistrate
 1 Shalai, Voice of Plenty
 1 Magus of the Moat
 2 Knight of Autumn
@@ -203,9 +203,9 @@
 1 Hall of Storm Giants
 1 Memory Deluge
 2 Wandering Mind
-2 Memory Deluge
 2 Lightning Bolt
 2 Counterspell
+2 Memory Deluge
 3 Lightning Bolt
 3 Counterspell
 1 Lotus Cobra
@@ -219,9 +219,9 @@
 1 Call the Gatewatch
 2 Manamorphose
 2 Stomping Ground
-2 Forest
 2 Ignoble Hierarch
 2 Kiki-Jiki, Mirror Breaker
+2 Forest
 2 Call the Gatewatch
 2 Desperate Ritual
 3 Manamorphose
@@ -231,9 +231,9 @@
 3 Desperate Ritual
 4 Ignoble Hierarch
 4 Desperate Ritual
-1 Mulldrifter
 1 Den of the Bugbear
 1 Esper Sentinel
+1 Mulldrifter
 2 Mulldrifter
 2 Esper Sentinel
 3 Esper Sentinel
@@ -242,15 +242,15 @@
 1 Celestial Colonnade
 1 Inspiring Vantage
 4 Remand
-1 Soulherder
 1 Sanctifier en-Vec
 1 Auriok Champion
 1 Glasspool Mimic
 1 Watcher for Tomorrow
+1 Soulherder
 2 Skyclave Apparition
+2 Glasspool Mimic
 2 Soulherder
 2 Watcher for Tomorrow
-2 Glasspool Mimic
 2 Auriok Champion
 3 Skyclave Apparition
 3 Auriok Champion

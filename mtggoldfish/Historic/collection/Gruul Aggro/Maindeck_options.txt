@@ -62,8 +62,8 @@
 2 Robber of the Rich
 3 Robber of the Rich
 4 Scavenging Ooze
-3 Lair of the Hydra
 3 Rockfall Vale
+3 Lair of the Hydra
 4 Rockfall Vale
 4 Werewolf Pack Leader
 6 Mountain
@@ -74,17 +74,17 @@
 12 Forest
 1 Abundant Harvest
 2 Abundant Harvest
-2 Domri, Anarch of Bolas
 1 Cindervines
 2 Cindervines
+2 Domri, Anarch of Bolas
 1 Paradise Druid
 2 Paradise Druid
 3 Paradise Druid
 2 Banefire
 3 Gallia of the Endless Dance
 1 Botanical Sanctum
-1 Spell Pierce
 1 Shifting Ceratops
+1 Spell Pierce
 1 Tormod's Crypt
 1 Decisive Denial
 1 Breeding Pool
@@ -95,6 +95,19 @@
 2 Decisive Denial
 2 Gyre Engineer
 3 Decisive Denial
+1 Hazoret the Fervent
+4 Ranger Class
+1 Ill-Tempered Loner
+1 Volatile Arsonist
+1 Thundering Rebuke
+1 Tovolar, Dire Overlord
+2 Ill-Tempered Loner
+2 Volatile Arsonist
+2 Thundering Rebuke
+2 Tovolar, Dire Overlord
+3 Thundering Rebuke
+3 Tovolar, Dire Overlord
+4 Thundering Rebuke
 1 Legion Warboss
 4 Den of the Bugbear
 1 Town-Razer Tyrant
@@ -108,14 +121,14 @@
 1 Cemetery Gatekeeper
 2 Vivien, Arkbow Ranger
 2 Arboreal Grazer
-2 Halana and Alena, Partners
 2 Cemetery Gatekeeper
+2 Halana and Alena, Partners
+3 Halana and Alena, Partners
 3 Arboreal Grazer
 3 Forsaken Crossroads
-3 Halana and Alena, Partners
 3 Vivien, Arkbow Ranger
-4 Arboreal Grazer
 4 Lair of the Hydra
+4 Arboreal Grazer
 4 Forsaken Crossroads
 4 Vivien, Arkbow Ranger
 1 The Great Henge
@@ -138,23 +151,10 @@
 4 Kazandu Mammoth
 4 Primal Might
 4 Lovestruck Beast
-1 Hazoret the Fervent
-4 Ranger Class
-1 Thundering Rebuke
-1 Ill-Tempered Loner
-1 Tovolar, Dire Overlord
-1 Volatile Arsonist
-2 Thundering Rebuke
-2 Ill-Tempered Loner
-2 Volatile Arsonist
-2 Tovolar, Dire Overlord
-3 Tovolar, Dire Overlord
-3 Thundering Rebuke
-4 Thundering Rebuke
-1 Valakut Awakening
 1 Transmogrify
 1 Chandra, Acolyte of Flame
 1 Castle Embereth
+1 Valakut Awakening
 1 Fire Prophecy
 1 Saproling Migration
 1 Satyr's Cunning
@@ -163,10 +163,10 @@
 1 Dragon Fodder
 1 Indomitable Creativity
 2 Transmogrify
-2 Valakut Awakening
 2 Indomitable Creativity
 2 Fire Prophecy
 2 Craterhoof Behemoth
+2 Valakut Awakening
 2 Chandra, Acolyte of Flame
 2 Castle Embereth
 2 Satyr's Cunning

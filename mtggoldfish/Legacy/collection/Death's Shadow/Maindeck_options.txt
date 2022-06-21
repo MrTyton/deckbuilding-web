@@ -75,12 +75,12 @@
 1 Cling to Dust
 1 Mystic Sanctuary
 2 Spell Snare
+3 Snuff Out
 1 Witherbloom Apprentice
 1 Chain of Smog
-2 Chain of Smog
 2 Witherbloom Apprentice
+2 Chain of Smog
 3 Witherbloom Apprentice
-3 Snuff Out
 3 Inquisition of Kozilek
 3 Hymn to Tourach
 1 Unearth
@@ -94,11 +94,6 @@
 3 Grief
 3 Reanimate
 4 Bloodstained Mire
-3 Scalding Tarn
-3 Dauthi Voidwalker
-4 Scalding Tarn
-4 Flooded Strand
-4 Dauthi Voidwalker
 1 Dark Confidant
 2 Dark Confidant
 3 Dark Confidant
@@ -106,20 +101,6 @@
 4 Gurmag Angler
 3 Snapcaster Mage
 4 Tarmogoyf
-1 Shadowspear
-1 Misdirection
-1 Snow-Covered Island
-1 Send to Sleep
-2 Snow-Covered Island
-2 Ethereal Forager
-3 Snow-Covered Island
-3 True-Name Nemesis
-3 Ethereal Forager
-3 Brazen Borrower
-4 Snow-Covered Island
-4 True-Name Nemesis
-5 Snow-Covered Island
-6 Snow-Covered Island
 1 Lim-Dul's Vault
 1 Worldly Tutor
 2 Tarnished Citadel
@@ -130,3 +111,22 @@
 3 Lim-Dul's Vault
 4 Stubborn Denial
 4 Berserk
+1 Shadowspear
+1 Snow-Covered Island
+1 Misdirection
+1 Send to Sleep
+2 Snow-Covered Island
+2 Ethereal Forager
+3 Snow-Covered Island
+3 True-Name Nemesis
+3 Brazen Borrower
+3 Ethereal Forager
+4 Snow-Covered Island
+4 True-Name Nemesis
+5 Snow-Covered Island
+6 Snow-Covered Island
+3 Dauthi Voidwalker
+3 Scalding Tarn
+4 Flooded Strand
+4 Dauthi Voidwalker
+4 Scalding Tarn
