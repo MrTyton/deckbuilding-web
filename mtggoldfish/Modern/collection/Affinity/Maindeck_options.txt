@@ -1,4 +1,4 @@
-3 Hallowed Fountain
+1 Flooded Strand
 1 Cranial Plating
 4 Springleaf Drum
 1 Ornithopter
@@ -7,7 +7,6 @@
 3 Ornithopter
 4 Ornithopter
 4 Thoughtcast
-1 Welding Jar
 1 Frogmite
 2 Frogmite
 3 Cranial Plating
@@ -15,58 +14,60 @@
 2 Sojourner's Companion
 3 Sojourner's Companion
 4 Sojourner's Companion
-1 Gingerbrute
+1 Welding Jar
 3 Frogmite
 4 Frogmite
 1 Treasure Vault
-2 Treasure Vault
 4 Cranial Plating
-2 Flooded Strand
+1 Gingerbrute
+2 Treasure Vault
+2 Island
 1 Mistvault Bridge
 1 Silverbluff Bridge
+2 Flooded Strand
+1 Spire of Industry
+2 Spire of Industry
 1 Pithing Needle
-2 Island
 2 Mistvault Bridge
 2 Silverbluff Bridge
 1 Myr Enforcer
-3 Mistvault Bridge
-1 Spire of Industry
-2 Spire of Industry
-3 Flooded Strand
-2 Myr Enforcer
-4 Mistvault Bridge
+1 Sai, Master Thopterist
+2 Sai, Master Thopterist
 2 Nettlecyst
-2 Plains
-2 Welding Jar
-2 Relic of Progenitus
-3 Silverbluff Bridge
+3 Mistvault Bridge
+3 Spire of Industry
+4 Spire of Industry
 1 Galvanic Blast
 2 Galvanic Blast
 3 Galvanic Blast
 4 Galvanic Blast
+3 Silverbluff Bridge
+2 Relic of Progenitus
+3 Flooded Strand
 4 Urza, Lord High Artificer
-1 Sai, Master Thopterist
-2 Sai, Master Thopterist
-3 Spire of Industry
-4 Spire of Industry
-1 Glimmervoid
-3 Treasure Vault
-4 Silverbluff Bridge
 1 The Reality Chip
-3 Teferi, Time Raveler
+2 Myr Enforcer
 1 Snow-Covered Island
+4 Mistvault Bridge
+1 Glimmervoid
+2 Plains
+2 Welding Jar
+4 Silverbluff Bridge
+3 Teferi, Time Raveler
 2 Glimmervoid
+1 Michiko's Reign of Truth
+2 Michiko's Reign of Truth
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
-1 Thraben Inspector
 1 Ephemerate
+1 Thraben Inspector
 1 Marsh Flats
 1 Snow-Covered Plains
 1 Cavern of Souls
-1 Solitude
 1 Hengegate Pathway
+1 Solitude
 2 Ephemerate
 2 Marsh Flats
 2 Snow-Covered Plains
@@ -84,9 +85,7 @@
 1 Patchwork Automaton
 1 Signal Pest
 1 Vault Skirge
-1 Michiko's Reign of Truth
 2 Vault Skirge
-2 Michiko's Reign of Truth
 2 Signal Pest
 2 Patchwork Automaton
 3 Glimmervoid
@@ -97,6 +96,7 @@
 2 Reality Heist
 3 Island
 3 Reality Heist
+3 Treasure Vault
 1 Emry, Lurker of the Loch
 1 Ledger Shredder
 2 Ledger Shredder
@@ -128,3 +128,9 @@
 2 Tanglepool Bridge
 3 Nettlecyst
 4 Nettlecyst
+1 Consulate Dreadnought
+2 Consulate Dreadnought
+3 Michiko's Reign of Truth
+3 Consulate Dreadnought
+4 Michiko's Reign of Truth
+4 Consulate Dreadnought

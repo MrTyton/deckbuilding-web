@@ -40,6 +40,10 @@
 2 Nullhide Ferox
 3 Nullhide Ferox
 2 Lava Coil
+1 Goblin Ruinblaster
+1 Bolt Bend
+1 Expansion/Explosion
+2 Goblin Ruinblaster
 1 Halana and Alena, Partners
 1 Gaea's Blessing
 2 Halana and Alena, Partners
@@ -47,10 +51,6 @@
 2 Negate
 1 Snakeskin Veil
 2 Snakeskin Veil
-1 Bolt Bend
-1 Expansion/Explosion
-1 Goblin Ruinblaster
-2 Goblin Ruinblaster
 1 Tormod's Crypt
 1 Invigorating Hot Spring
 1 Cliffhaven Kitesail
@@ -59,6 +59,7 @@
 2 Cliffhaven Kitesail
 1 Pillar of Flame
 2 Pillar of Flame
+3 Relic of Progenitus
 1 Primal Might
 1 Tamiyo's Safekeeping
 1 Unlicensed Hearse
@@ -68,7 +69,6 @@
 1 Run Afoul
 3 Questing Beast
 3 Cindervines
-3 Relic of Progenitus
 1 Claim the Firstborn
 1 Heroic Intervention
 1 Sorcerous Spyglass
@@ -80,8 +80,8 @@
 2 Sorcerous Spyglass
 2 Heroic Intervention
 2 Tibalt, Rakish Instigator
-3 Tormod's Crypt
 3 Heroic Intervention
+3 Tormod's Crypt
 3 Tibalt, Rakish Instigator
 3 Ahn-Crop Crasher
 1 Stonecoil Serpent
@@ -94,8 +94,8 @@
 1 Anger of the Gods
 2 Outland Liberator
 2 Anger of the Gods
-3 Outland Liberator
 3 Anger of the Gods
+3 Outland Liberator
 4 Flame-Blessed Bolt
 4 Outland Liberator
 1 Unchained Berserker
@@ -105,10 +105,10 @@
 3 Fry
 3 Cinderclasm
 4 Fry
+1 Shatterskull Smashing
 1 Broken Wings
 1 Collision/Colossus
 1 Fire Prophecy
-1 Shatterskull Smashing
 4 Abrade
 1 Quakebringer
 1 Arasta of the Endless Web

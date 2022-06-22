@@ -161,8 +161,8 @@
 |                    2|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|                     |                                                                                                |
 |                    3|[Hopeful Initiate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=540850)           |                     |                                                                                                |
 |                    3|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|                     |                                                                                                |
-|                    4|[Tenacious Underdog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555298)         |                     |                                                                                                |
 |                    4|[Archon of Emeria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495594)           |                     |                                                                                                |
+|                    4|[Tenacious Underdog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555298)         |                     |                                                                                                |
 |                    4|[Hopeful Initiate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=540850)           |                     |                                                                                                |
 |                    4|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|                     |                                                                                                |
 

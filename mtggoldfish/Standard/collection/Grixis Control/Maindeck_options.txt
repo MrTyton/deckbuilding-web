@@ -82,17 +82,17 @@
 1 Disdainful Stroke
 2 Corpse Appraiser
 3 Corpse Appraiser
-1 Maestros Diabolist
 1 Unlucky Witness
+1 Maestros Diabolist
 1 Kalain, Reclusive Painter
+2 Unlucky Witness
 2 Maestros Diabolist
 2 Kalain, Reclusive Painter
-2 Unlucky Witness
 3 Shambling Ghast
-3 Kalain, Reclusive Painter
 3 Strangle
-3 Maestros Diabolist
 3 Unlucky Witness
+3 Kalain, Reclusive Painter
+3 Maestros Diabolist
 4 Unlucky Witness
 1 March of Wretched Sorrow
 2 March of Wretched Sorrow
@@ -132,11 +132,11 @@
 4 Fading Hope
 4 Consider
 2 Island
+1 Tainted Adversary
+2 Tainted Adversary
 1 Alchemist's Gambit
 1 Nighthawk Scavenger
 2 Nighthawk Scavenger
-1 Tainted Adversary
-2 Tainted Adversary
 1 Galazeth Prismari
 1 Memory Deluge
 2 Kairi, the Swirling Sky
@@ -147,20 +147,20 @@
 2 Disdainful Stroke
 2 Evelyn, the Covetous
 3 Reckoner Bankbuster
-1 Behold the Multiverse
-1 Inscription of Ruin
-2 Power Word Kill
-2 Behold the Multiverse
-3 Swamp
-3 Graveyard Trespasser
 1 Skyclave Shade
 2 Skyclave Shade
 3 Skyclave Shade
+3 Graveyard Trespasser
 1 Concealing Curtains
 2 Concealing Curtains
 2 Florian, Voldaren Scion
 3 Concealing Curtains
 3 Florian, Voldaren Scion
+1 Behold the Multiverse
+1 Inscription of Ruin
+2 Power Word Kill
+2 Behold the Multiverse
+3 Swamp
 4 Shambling Ghast
 3 Hagra Mauling
 4 The Meathook Massacre
@@ -192,34 +192,20 @@
 3 Lord Xander, the Collector
 3 Corpse Explosion
 3 Graveyard Shift
-4 Prismari Command
 4 Hullbreaker Horror
+4 Prismari Command
 4 Graveyard Shift
 4 Corpse Explosion
-1 Experimental Synthesizer
-1 Virus Beetle
-1 Oni-Cult Anvil
-2 Oni-Cult Anvil
-2 Experimental Synthesizer
-2 Virus Beetle
-3 Virus Beetle
-3 Experimental Synthesizer
-3 Oni-Cult Anvil
-3 Shatterskull Smashing
-4 Deadly Dispute
-4 Shatterskull Smashing
-4 Experimental Synthesizer
-4 Oni-Cult Anvil
+1 Zariel, Archduke of Avernus
 1 Kumano Faces Kakkazan
 1 Bloodvial Purveyor
-1 Hungry for More
 1 Rotten Reunion
+1 Hungry for More
 1 Mystic Reflection
-1 Zariel, Archduke of Avernus
+2 Zariel, Archduke of Avernus
 2 Kumano Faces Kakkazan
 2 Bloodvial Purveyor
 2 Rotten Reunion
-2 Zariel, Archduke of Avernus
 2 Hungry for More
 2 Mystic Reflection
 2 Mountain
@@ -229,6 +215,20 @@
 3 Rotten Reunion
 3 Mountain
 4 Mountain
+1 Virus Beetle
+1 Experimental Synthesizer
+1 Oni-Cult Anvil
+2 Virus Beetle
+2 Oni-Cult Anvil
+2 Experimental Synthesizer
+3 Virus Beetle
+3 Experimental Synthesizer
+3 Oni-Cult Anvil
+3 Shatterskull Smashing
+4 Shatterskull Smashing
+4 Experimental Synthesizer
+4 Oni-Cult Anvil
+4 Deadly Dispute
 4 Corpse Appraiser
 4 Kalain, Reclusive Painter
 4 Maestros Diabolist
@@ -238,8 +238,8 @@
 1 Pyre of Heroes
 1 Mirrorhall Mimic
 1 Malakir Rebirth
-2 Junji, the Midnight Sky
 2 Sokenzan, Crucible of Defiance
+2 Junji, the Midnight Sky
 2 Pyre of Heroes
 2 Malakir Rebirth
 2 Atsushi, the Blazing Sky
@@ -250,9 +250,9 @@
 4 Infernal Grasp
 4 Pyre of Heroes
 4 Atsushi, the Blazing Sky
+1 Hero's Downfall
 1 Lier, Disciple of the Drowned
 1 Smoldering Egg
-1 Hero's Downfall
 1 Sedgemoor Witch
 2 Hero's Downfall
 2 Unexpected Windfall

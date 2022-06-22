@@ -57,6 +57,7 @@
 1 Cosmos Elixir
 1 Poppet Stitcher
 1 Shimmerdrift Vale
+1 Demon Bolt
 1 Rowan, Scholar of Sparks
 1 Rending Flame
 1 Lullmage's Domination
@@ -81,7 +82,6 @@
 1 Replicating Ring
 1 Barbarian Class
 1 Smoldering Egg
-1 Demon Bolt
 1 Play with Fire
 1 Power of Persuasion
 1 Zalto, Fire Giant Duke
@@ -116,8 +116,8 @@
 1 Storm-Kiln Artist
 2 Xander's Lounge
 2 Shimmerdrift Vale
-2 Swiftwater Cliffs
 2 Demon Bolt
+2 Swiftwater Cliffs
 2 Scion of Stygia
 2 Farideh, Devil's Chosen
 2 Volatile Fjord
@@ -144,12 +144,12 @@
 4 Shimmerdrift Vale
 4 Pixie Guide
 7 Island
-8 Island
 8 Mountain
-9 Island
+8 Island
 9 Mountain
-10 Island
+9 Island
 10 Mountain
+10 Island
 11 Island
 11 Mountain
 12 Island
@@ -195,10 +195,10 @@
 4 Flame-Blessed Bolt
 4 Bloodthirsty Adversary
 1 Witness Protection
-2 Spectral Adversary
 2 Witness Protection
-3 Spectral Adversary
+2 Spectral Adversary
 3 Witness Protection
+3 Spectral Adversary
 4 Spectral Adversary
 4 Witness Protection
 1 Consider
