@@ -35,10 +35,10 @@
 1 Mystic Gate
 2 Mystic Gate
 1 Castle Vantress
-1 Hall of Storm Giants
-1 The Wandering Emperor
 1 Teferi, Hero of Dominaria
+1 Hall of Storm Giants
 1 Archmage's Charm
+1 The Wandering Emperor
 2 Teferi, Hero of Dominaria
 2 Archmage's Charm
 3 March of Otherworldly Light
@@ -57,23 +57,23 @@
 2 Wall of Omens
 1 Glacial Fortress
 1 Polluted Delta
-1 Celestial Colonnade
 1 Restoration Angel
-1 Memory Deluge
 1 Plains
 1 Island
+1 Memory Deluge
+1 Celestial Colonnade
 2 Island
 2 Hallowed Fountain
+2 Memory Deluge
 2 Glacial Fortress
 2 Celestial Colonnade
-2 Memory Deluge
 2 The Wandering Emperor
 2 Plains
 2 Castle Vantress
 2 Restoration Angel
-3 Island
 3 Wall of Omens
 3 Mystic Gate
+3 Island
 4 Island
 4 Wall of Omens
 4 Mystic Gate
@@ -96,9 +96,14 @@
 1 Obsidian Charmaw
 1 Lavinia, Azorius Renegade
 2 Fury
+1 Chalice of the Void
+2 Polluted Delta
+2 Chalice of the Void
+3 Chalice of the Void
+4 Chalice of the Void
 1 Prismatic Vista
-2 Jace, the Mind Sculptor
 2 Prismatic Vista
+2 Jace, the Mind Sculptor
 2 Breeding Pool
 3 Prismatic Vista
 3 Teferi, Hero of Dominaria
@@ -106,11 +111,6 @@
 3 Snow-Covered Island
 4 Prismatic Vista
 4 Snow-Covered Island
-1 Chalice of the Void
-2 Polluted Delta
-2 Chalice of the Void
-3 Chalice of the Void
-4 Chalice of the Void
 1 Omen of the Sea
 2 Omen of the Sea
 3 Castle Vantress
@@ -120,8 +120,8 @@
 4 Street Wraith
 1 Renegade Rallier
 1 Flooded Grove
-1 Venser, Shaper Savant
 1 Subtlety
+1 Venser, Shaper Savant
 1 Lagrella, the Magpie
 3 Eternal Witness
 1 Charming Prince

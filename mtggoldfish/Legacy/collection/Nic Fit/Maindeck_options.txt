@@ -151,16 +151,16 @@
 2 Ugin, the Spirit Dragon
 4 Snow-Covered Forest
 1 Flooded Strand
-1 Baleful Strix
-1 Nurturing Peatland
-1 Volrath's Stronghold
-1 The Gitrog Monster
 1 Archon of Valor's Reach
 1 Kaya, Ghost Assassin
 1 Toxic Deluge
 1 Elspeth, Sun's Champion
 1 Nissa, Vital Force
 1 Thragtusk
+1 Baleful Strix
+1 Nurturing Peatland
+1 Volrath's Stronghold
+1 The Gitrog Monster
 1 Unearth
 1 Bone Shards
 2 Bone Shards
@@ -176,8 +176,8 @@
 2 Taiga
 2 Dauthi Voidwalker
 1 Valki, God of Lies
-1 Masked Vandal
 1 The Meathook Massacre
+1 Masked Vandal
 1 Juri, Master of the Revue
 2 Snow-Covered Mountain
 2 The Meathook Massacre
@@ -198,9 +198,9 @@
 2 Cavern Harpy
 3 Polluted Delta
 1 Plague Engineer
-2 Tireless Tracker
 2 Hexdrinker
 2 Plague Engineer
+2 Tireless Tracker
 3 Tireless Tracker
 3 Hexdrinker
 1 Blex, Vexing Pest
@@ -217,14 +217,6 @@
 2 Grand Abolisher
 3 Cavern of Souls
 4 Cavern of Souls
-1 Elvish Reclaimer
-1 Korvold, Fae-Cursed King
-1 Fury
-2 Fury
-3 Fury
-4 Mayhem Devil
-1 Urborg, Tomb of Yawgmoth
-5 Swamp
 1 Overgrown Tomb
 1 Canopy Vista
 1 Dead of Winter
@@ -238,3 +230,11 @@
 2 Dead of Winter
 3 Snow-Covered Swamp
 5 Snow-Covered Forest
+1 Urborg, Tomb of Yawgmoth
+5 Swamp
+1 Elvish Reclaimer
+1 Korvold, Fae-Cursed King
+1 Fury
+2 Fury
+3 Fury
+4 Mayhem Devil

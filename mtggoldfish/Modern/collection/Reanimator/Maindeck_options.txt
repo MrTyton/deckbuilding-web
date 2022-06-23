@@ -2,14 +2,14 @@
 3 Bloodstained Mire
 4 Seasoned Pyromancer
 1 Mountain
-1 Blackcleave Cliffs
 1 Fury
+1 Blackcleave Cliffs
 2 Fable of the Mirror-Breaker
-2 Blackcleave Cliffs
 2 Fury
+2 Blackcleave Cliffs
+3 Blackcleave Cliffs
 3 Fable of the Mirror-Breaker
 3 Arid Mesa
-3 Blackcleave Cliffs
 4 Fable of the Mirror-Breaker
 4 Bloodstained Mire
 4 Polluted Delta
@@ -111,8 +111,8 @@
 1 Griselbrand
 2 Supreme Verdict
 1 Master of Death
-2 Collective Brutality
 2 Master of Death
+2 Collective Brutality
 1 Kaito Shizuki
 3 Mulldrifter
 1 Indatha Triome
@@ -151,19 +151,19 @@
 3 Urborg, Tomb of Yawgmoth
 4 Raffine's Informant
 4 Stitcher's Supplier
-1 Expedition Map
-1 Blast Zone
 1 Cling to Dust
+1 Blast Zone
+1 Bloodchief's Thirst
 1 Cascading Cataracts
+1 Expedition Map
 1 Liliana of the Veil
 1 Profane Tutor
 1 Golos, Tireless Pilgrim
-1 Bloodchief's Thirst
-2 Expedition Map
+2 Bloodchief's Thirst
 2 Cabal Coffers
 2 Liliana of the Veil
-2 Bloodchief's Thirst
 2 Golos, Tireless Pilgrim
+2 Expedition Map
 2 Fatal Push
 2 Profane Tutor
 2 Castle Locthwain
@@ -177,5 +177,5 @@
 4 Cabal Coffers
 4 Swamp
 4 Profane Tutor
-5 Swamp
 6 Swamp
+5 Swamp
