@@ -134,15 +134,15 @@
 2 Island
 1 Tainted Adversary
 2 Tainted Adversary
-1 Alchemist's Gambit
-1 Nighthawk Scavenger
-2 Nighthawk Scavenger
 1 Galazeth Prismari
 1 Memory Deluge
+2 Memory Deluge
 2 Kairi, the Swirling Sky
 2 Galazeth Prismari
 2 Shadows' Verdict
-2 Memory Deluge
+1 Alchemist's Gambit
+1 Nighthawk Scavenger
+2 Nighthawk Scavenger
 1 Evelyn, the Covetous
 2 Disdainful Stroke
 2 Evelyn, the Covetous
@@ -168,6 +168,20 @@
 3 Wandering Mind
 3 Play with Fire
 4 Wandering Mind
+1 Hero's Downfall
+1 Lier, Disciple of the Drowned
+1 Smoldering Egg
+1 Sedgemoor Witch
+2 Unexpected Windfall
+2 Hero's Downfall
+2 Smoldering Egg
+2 Lier, Disciple of the Drowned
+2 Hall of Storm Giants
+2 Sedgemoor Witch
+3 Smoldering Egg
+3 Lier, Disciple of the Drowned
+3 Sedgemoor Witch
+4 Smoldering Egg
 1 Arcane Bombardment
 1 Reject
 1 Big Score
@@ -221,10 +235,10 @@
 2 Virus Beetle
 2 Oni-Cult Anvil
 2 Experimental Synthesizer
+3 Shatterskull Smashing
 3 Virus Beetle
 3 Experimental Synthesizer
 3 Oni-Cult Anvil
-3 Shatterskull Smashing
 4 Shatterskull Smashing
 4 Experimental Synthesizer
 4 Oni-Cult Anvil
@@ -250,17 +264,3 @@
 4 Infernal Grasp
 4 Pyre of Heroes
 4 Atsushi, the Blazing Sky
-1 Hero's Downfall
-1 Lier, Disciple of the Drowned
-1 Smoldering Egg
-1 Sedgemoor Witch
-2 Hero's Downfall
-2 Unexpected Windfall
-2 Smoldering Egg
-2 Lier, Disciple of the Drowned
-2 Hall of Storm Giants
-2 Sedgemoor Witch
-3 Lier, Disciple of the Drowned
-3 Sedgemoor Witch
-3 Smoldering Egg
-4 Smoldering Egg
