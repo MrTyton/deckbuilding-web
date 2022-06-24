@@ -1,16 +1,16 @@
-2 Kari Zev, Skyship Raider
-3 Rampaging Ferocidon
+3 Goblin Chainwhirler
 2 Castle Embereth
 16 Mountain
+3 Rampaging Ferocidon
 4 Den of the Bugbear
-1 Roiling Vortex
-2 Roiling Vortex
-3 Roiling Vortex
-4 Goblin Chainwhirler
 1 Fervent Champion
 2 Fervent Champion
 3 Fervent Champion
 4 Fervent Champion
+4 Goblin Chainwhirler
+1 Roiling Vortex
+2 Roiling Vortex
+3 Roiling Vortex
 4 Torbran, Thane of Red Fell
 1 Fanatical Firebrand
 2 Fanatical Firebrand
@@ -21,21 +21,20 @@
 3 Play with Fire
 4 Embercleave
 1 Abrade
+1 Rahilda, Wanted Cutthroat
 1 Reckless Stormseeker
 1 Light Up the Night
-1 Rahilda, Wanted Cutthroat
 4 Roiling Vortex
 1 Shatterskull Smashing
+2 Sokenzan, Crucible of Defiance
 1 Light Up the Stage
 2 Light Up the Stage
-4 Rampaging Ferocidon
 17 Mountain
 1 Chandra, Torch of Defiance
 1 Lightning Strike
 2 Lightning Strike
 3 Lightning Strike
 4 Lightning Strike
-2 Sokenzan, Crucible of Defiance
 1 Relic Robber
 1 Voldaren Epicure
 2 Voldaren Epicure
@@ -47,20 +46,19 @@
 1 Goblin Javelineer
 1 Phoenix of Ash
 2 Voltage Surge
+2 Phoenix of Ash
 2 Goblin Javelineer
 2 Relic Robber
-2 Phoenix of Ash
 3 Voltage Surge
 4 Voldaren Epicure
 4 Voltage Surge
 18 Mountain
 19 Mountain
 20 Mountain
-2 Shatterskull Smashing
-3 Shatterskull Smashing
 1 Static Discharge
 2 Static Discharge
 3 Static Discharge
+4 Rampaging Ferocidon
 4 Static Discharge
 1 Chandra, Dressed to Kill
 2 Chandra, Dressed to Kill
@@ -135,7 +133,9 @@
 4 Bomat Courier
 4 Earthshaker Khenra
 1 Electrostatic Blast
+2 Shatterskull Smashing
 2 Electrostatic Blast
+3 Shatterskull Smashing
 3 Sokenzan, Crucible of Defiance
 4 Sokenzan, Crucible of Defiance
 4 Shatterskull Smashing
@@ -155,6 +155,38 @@
 3 Chandra, Acolyte of Flame
 4 Runaway Steam-Kin
 4 Cavalcade of Calamity
+1 Rockfall Vale
+1 Sheltered Thicket
+1 Rootbound Crag
+1 Skirk Prospector
+1 Cragcrown Pathway
+1 Swamp
+1 Stomping Ground
+1 Combat Celebrant
+2 Skirk Prospector
+2 Rockfall Vale
+2 Rootbound Crag
+2 Sheltered Thicket
+2 Swamp
+2 Cragcrown Pathway
+2 Stomping Ground
+2 Combat Celebrant
+3 Skirk Prospector
+3 Rootbound Crag
+3 Swamp
+3 Rockfall Vale
+3 Stomping Ground
+3 Cragcrown Pathway
+4 Rootbound Crag
+4 Swamp
+4 Rockfall Vale
+4 Skirk Prospector
+4 Stomping Ground
+4 Cragcrown Pathway
+5 Swamp
+6 Swamp
+7 Swamp
+8 Swamp
 1 Seasoned Pyromancer
 1 Rabbit Battery
 1 Dragon's Rage Channeler

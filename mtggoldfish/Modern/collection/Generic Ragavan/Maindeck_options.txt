@@ -76,18 +76,18 @@
 2 Flooded Strand
 3 Sunbaked Canyon
 4 Sunbaked Canyon
+1 Counterspell
 1 Hallowed Fountain
 1 Monastery Mentor
 1 Teferi, Time Raveler
-1 Counterspell
+2 Counterspell
 2 Hallowed Fountain
 2 Monastery Mentor
-2 Counterspell
+3 Counterspell
 3 Flooded Strand
 3 Monastery Mentor
-3 Counterspell
-4 Flooded Strand
 4 Counterspell
+4 Flooded Strand
 2 Path to Exile
 1 Seal of Fire
 2 Seal of Fire
@@ -126,33 +126,33 @@
 3 Fable of the Mirror-Breaker
 3 Frantic Inventory
 4 Frantic Inventory
-1 Blackcleave Cliffs
-1 Thoughtseize
 1 Silent Clearing
-1 Lingering Souls
-1 Seasoned Pyromancer
-1 Graven Cairns
-1 Fatal Push
-1 Inquisition of Kozilek
-1 Swamp
 1 Kolaghan's Command
+1 Thoughtseize
+1 Inquisition of Kozilek
+1 Fatal Push
+1 Lingering Souls
+1 Swamp
 1 Blood Crypt
+1 Graven Cairns
 1 Savai Triome
+1 Seasoned Pyromancer
+1 Blackcleave Cliffs
 1 Plains
-2 Blackcleave Cliffs
-2 Swamp
-2 Thoughtseize
 2 Blood Crypt
-2 Lingering Souls
-2 Seasoned Pyromancer
-2 Marsh Flats
-2 Fatal Push
+2 Thoughtseize
 2 Inquisition of Kozilek
+2 Swamp
 2 Kolaghan's Command
-3 Inquisition of Kozilek
-3 Thoughtseize
-3 Lingering Souls
+2 Fatal Push
+2 Lingering Souls
+2 Marsh Flats
+2 Blackcleave Cliffs
+2 Seasoned Pyromancer
 3 Blackcleave Cliffs
+3 Thoughtseize
+3 Inquisition of Kozilek
+3 Lingering Souls
 3 Marsh Flats
 3 Seasoned Pyromancer
 4 Marsh Flats
@@ -161,8 +161,8 @@
 4 Seasoned Pyromancer
 5 Mountain
 6 Mountain
-1 Signal Pest
 1 Dryad Arbor
+1 Signal Pest
 1 Bomat Courier
 1 Legion Loyalist
 1 Goblin Bushwhacker

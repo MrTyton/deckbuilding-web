@@ -7,11 +7,11 @@
 1 Ephemerate
 2 Ephemerate
 4 Omnath, Locus of Creation
-1 Vivien on the Hunt
-1 Planebound Accomplice
 1 Karmic Guide
-2 Vivien on the Hunt
+1 Planebound Accomplice
+1 Vivien on the Hunt
 2 Planebound Accomplice
+2 Vivien on the Hunt
 3 Vivien on the Hunt
 1 Plains
 4 Wooded Foothills
@@ -52,10 +52,10 @@
 1 Chancellor of the Forge
 1 Glimpse of Tomorrow
 1 Wavesifter
+2 Khalni Garden
 2 Chancellor of the Forge
 2 Wavesifter
 2 Glimpse of Tomorrow
-2 Khalni Garden
 3 Seasoned Pyromancer
 3 Khalni Garden
 3 Wavesifter
@@ -82,8 +82,8 @@
 1 Arbor Elf
 2 Arbor Elf
 3 Arbor Elf
-4 Planebound Accomplice
 4 Arbor Elf
+4 Planebound Accomplice
 2 Boseiju, Who Endures
 3 Expressive Iteration
 1 Eiganjo, Seat of the Empire
@@ -97,14 +97,14 @@
 2 Chalice of the Void
 3 Chalice of the Void
 4 Expressive Iteration
-2 Temple Garden
 2 Birds of Paradise
+2 Temple Garden
 2 Karmic Guide
 1 Skyclave Apparition
 3 Noble Hierarch
 1 Eldritch Evolution
-1 Horizon Canopy
 1 Waterlogged Grove
+1 Horizon Canopy
 2 Eldritch Evolution
 3 Eldritch Evolution
 3 Birds of Paradise
@@ -125,21 +125,21 @@
 4 Scalding Tarn
 2 March of Otherworldly Light
 2 Hallowed Fountain
-1 Force of Negation
-1 Brazen Borrower
 1 Ardent Plea
+1 Brazen Borrower
+1 Force of Negation
 1 Crashing Footfalls
 2 Force of Negation
 2 Ardent Plea
 2 Brazen Borrower
 2 Crashing Footfalls
-3 Brazen Borrower
-3 Force of Negation
-3 Crashing Footfalls
 3 Fire/Ice
+3 Force of Negation
+3 Brazen Borrower
+3 Crashing Footfalls
+4 Brazen Borrower
 4 Force of Negation
 4 Crashing Footfalls
-4 Brazen Borrower
 1 Eternal Witness
 1 Venser, Shaper Savant
 4 Ephemerate
@@ -169,26 +169,26 @@
 2 Aether Vial
 3 Aether Vial
 4 Aether Vial
-1 Cinder Glade
-1 Reflecting Pool
 1 Fiery Islet
+1 Reflecting Pool
+1 Cinder Glade
 2 Eternal Witness
 4 Imperial Recruiter
 1 Spara's Headquarters
-1 Touch the Spirit Realm
 1 Shigeki, Jukai Visionary
-1 Lion Sash
 1 Bala Ged Recovery
+1 Touch the Spirit Realm
 1 Unholy Heat
+1 Lion Sash
 2 Unholy Heat
 4 Stoneforge Mystic
+1 Charming Prince
 1 Toski, Bearer of Secrets
 1 Knight of Autumn
-1 Avalanche Riders
-1 Drannith Magistrate
 1 Shalai, Voice of Plenty
+1 Drannith Magistrate
+1 Avalanche Riders
 1 Magus of the Moat
-1 Charming Prince
 2 Knight of Autumn
 1 Prismari Command
 1 Fable of the Mirror-Breaker
@@ -197,8 +197,8 @@
 2 Goblin Dark-Dwellers
 3 Goblin Dark-Dwellers
 1 Wandering Mind
-1 Lightning Bolt
 1 The Wandering Emperor
+1 Lightning Bolt
 1 Counterspell
 1 Hall of Storm Giants
 1 Memory Deluge
@@ -208,6 +208,9 @@
 2 Memory Deluge
 3 Lightning Bolt
 3 Counterspell
+1 Celestial Colonnade
+1 Inspiring Vantage
+4 Remand
 1 Lotus Cobra
 2 Snow-Covered Island
 2 Lotus Cobra
@@ -219,45 +222,42 @@
 1 Call the Gatewatch
 2 Manamorphose
 2 Stomping Ground
-2 Ignoble Hierarch
 2 Kiki-Jiki, Mirror Breaker
+2 Ignoble Hierarch
+2 Desperate Ritual
 2 Forest
 2 Call the Gatewatch
-2 Desperate Ritual
 3 Manamorphose
-3 Ignoble Hierarch
 3 Stomping Ground
+3 Ignoble Hierarch
 3 Desperate Ritual
 3 Temple Garden
 4 Ignoble Hierarch
 4 Desperate Ritual
 1 Den of the Bugbear
-1 Esper Sentinel
 1 Mulldrifter
+1 Esper Sentinel
 2 Mulldrifter
 2 Esper Sentinel
 3 Esper Sentinel
 4 Ragavan, Nimble Pilferer
 4 Esper Sentinel
-1 Celestial Colonnade
-1 Inspiring Vantage
-4 Remand
 1 Sanctifier en-Vec
 1 Auriok Champion
+1 Soulherder
 1 Glasspool Mimic
 1 Watcher for Tomorrow
-1 Soulherder
-2 Glasspool Mimic
-2 Skyclave Apparition
 2 Soulherder
-2 Watcher for Tomorrow
 2 Auriok Champion
-3 Glasspool Mimic
-3 Skyclave Apparition
+2 Watcher for Tomorrow
+2 Skyclave Apparition
+2 Glasspool Mimic
 3 Auriok Champion
+3 Skyclave Apparition
 3 Soulherder
+3 Glasspool Mimic
 3 Watcher for Tomorrow
-4 Skyclave Apparition
 4 Glasspool Mimic
-4 Watcher for Tomorrow
 4 Plains
+4 Skyclave Apparition
+4 Watcher for Tomorrow

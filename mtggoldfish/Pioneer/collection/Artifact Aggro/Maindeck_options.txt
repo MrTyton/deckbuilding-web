@@ -5,8 +5,6 @@
 1 Eiganjo, Seat of the Empire
 1 All That Glitters
 2 All That Glitters
-3 Patchwork Automaton
-3 Ghostfire Blade
 2 Shadowspear
 2 Plains
 3 All That Glitters
@@ -15,28 +13,24 @@
 4 Plains
 5 Plains
 1 Treasure Vault
+3 Patchwork Automaton
 6 Plains
 7 Plains
 8 Plains
 9 Plains
-4 Patchwork Automaton
+3 Ghostfire Blade
 3 Alseid of Life's Bounty
 4 Alseid of Life's Bounty
 10 Plains
+4 Patchwork Automaton
 2 Hope of Ghirapur
 2 Treasure Vault
 11 Plains
 4 Ghostfire Blade
 1 Roadside Reliquary
-2 Roadside Reliquary
-3 Roadside Reliquary
-4 Roadside Reliquary
-12 Plains
-3 Mutavault
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
-1 Island
 1 Shrapnel Blast
 2 Shrapnel Blast
 3 Shrapnel Blast
@@ -49,12 +43,12 @@
 3 Spirebluff Canal
 4 Spirebluff Canal
 4 Steam Vents
+2 Roadside Reliquary
+3 Roadside Reliquary
+4 Roadside Reliquary
+12 Plains
 1 Mountain
-1 Shefet Dunes
-2 Shefet Dunes
-2 Eiganjo, Seat of the Empire
-13 Plains
-4 Mutavault
+1 Island
 1 Voltage Surge
 2 Voltage Surge
 4 Bomat Courier
@@ -62,6 +56,15 @@
 1 Sokenzan, Crucible of Defiance
 2 Riverglide Pathway
 3 Riverglide Pathway
+1 Shefet Dunes
+2 Shefet Dunes
+2 Eiganjo, Seat of the Empire
+13 Plains
+1 Experimental Synthesizer
+2 Experimental Synthesizer
+3 Experimental Synthesizer
+3 Voltage Surge
+3 Mutavault
 4 Riverglide Pathway
 1 Skilled Animator
 2 Mountain
@@ -89,20 +92,16 @@
 3 Steel Overseer
 3 Enthusiastic Mechanaut
 4 Enthusiastic Mechanaut
-1 Experimental Synthesizer
 1 Moonsnare Prototype
 2 Moonsnare Prototype
-2 Experimental Synthesizer
-3 Experimental Synthesizer
-3 Voltage Surge
 4 Voltage Surge
 1 Branchloft Pathway
 1 Boseiju, Who Endures
-1 Westvale Abbey
 1 Forest
 1 Lair of the Hydra
 1 Temple Garden
 1 Hardened Scales
+1 Westvale Abbey
 1 Animation Module
 1 Iron Apprentice
 1 Evolutionary Leap
@@ -133,6 +132,7 @@
 2 Needleverge Pathway
 3 Inspiring Vantage
 3 Needleverge Pathway
+4 Mutavault
 4 Needleverge Pathway
 4 Inspiring Vantage
 1 Lizard Blades
