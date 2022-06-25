@@ -1,5 +1,5 @@
-1 Boseiju, Who Shelters All
 2 Mountain
+1 Boseiju, Who Shelters All
 2 Blood Crypt
 1 Desert
 2 Desert
@@ -11,16 +11,17 @@
 2 Halimar Depths
 1 Bloodstained Mire
 4 Wooded Foothills
-1 Blinkmoth Infusion
-2 Blinkmoth Infusion
+3 Desert
 3 Throes of Chaos
-1 Steam Vents
 3 Mountain
 1 Blast Zone
 2 Blast Zone
 1 Radiant Fountain
 2 Radiant Fountain
+1 Blinkmoth Infusion
+2 Blinkmoth Infusion
 1 Piranha Marsh
+1 Steam Vents
 3 Radiant Fountain
 4 Radiant Fountain
 4 Mountain
@@ -29,7 +30,6 @@
 4 Blinkmoth Infusion
 4 Ramunap Ruins
 2 Scavenger Grounds
-3 Desert
 1 Sacred Foundry
 4 Sokenzan, Crucible of Defiance
 2 Bloodstained Mire
@@ -40,7 +40,6 @@
 2 Steam Vents
 1 Commit/Memory
 2 Commit/Memory
-1 Savai Triome
 5 Mountain
 6 Mountain
 1 Zagoth Triome
@@ -64,19 +63,7 @@
 3 Boseiju, Who Shelters All
 4 Bloodstained Mire
 4 Boseiju, Who Shelters All
-1 Verdant Catacombs
-1 Godless Shrine
-1 Breeding Pool
-1 Ketria Triome
-1 Flooded Strand
-1 Polluted Delta
-2 Verdant Catacombs
-2 Flooded Strand
-2 Polluted Delta
-3 Polluted Delta
-3 Flooded Strand
-4 Polluted Delta
-4 Flooded Strand
+1 Savai Triome
 1 Shivan Reef
 1 Swiftwater Cliffs
 1 Temple of Epiphany
