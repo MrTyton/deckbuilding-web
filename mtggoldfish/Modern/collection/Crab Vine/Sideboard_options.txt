@@ -1,18 +1,18 @@
-3 Thoughtseize
 2 Natural State
-1 Darkblast
 1 Force of Negation
 2 Force of Negation
+3 Force of Negation
+3 Thoughtseize
 1 Leyline of Sanctity
 2 Leyline of Sanctity
-3 Force of Negation
+1 Darkblast
 4 Leyline of the Void
-1 Collector Ouphe
 1 Nature's Claim
 1 Fatal Push
 2 Fatal Push
-2 Collector Ouphe
 3 Subtlety
+1 Collector Ouphe
+3 Assassin's Trophy
 3 Fatal Push
 1 Damping Sphere
 1 Abrupt Decay
@@ -24,28 +24,26 @@
 2 Mystic Repeal
 3 Damping Sphere
 1 Engineered Explosives
-1 Gemstone Caverns
-1 Murderous Cut
-2 Nature's Claim
-1 Stern Dismissal
-3 Assassin's Trophy
-1 Hurkyl's Recall
-1 Gnaw to the Bone
-3 Leyline of Sanctity
-1 Driven/Despair
-2 Stern Dismissal
 1 Prismatic Ending
 2 Prismatic Ending
 3 Prismatic Ending
+1 Gemstone Caverns
+2 Collector Ouphe
+2 Nature's Claim
+1 Stern Dismissal
+3 Leyline of Sanctity
+1 Gnaw to the Bone
+1 Murderous Cut
+1 Driven/Despair
+2 Stern Dismissal
 1 Inquisition of Kozilek
 3 Natural State
 1 Force of Vigor
 2 Force of Vigor
 1 Dress Down
 2 Dress Down
-3 Foundation Breaker
 1 Pithing Needle
-2 Hurkyl's Recall
+1 Hurkyl's Recall
 1 Void Mirror
 2 Void Mirror
 1 Flusterstorm
@@ -68,6 +66,7 @@
 1 Void Snare
 1 Feed the Swarm
 2 Feed the Swarm
+2 Hurkyl's Recall
 2 Void Snare
 2 Rapid Hybridization
 1 Unlicensed Hearse
@@ -76,8 +75,7 @@
 1 Pongify
 2 Pongify
 3 Pongify
-2 Inquisition of Kozilek
-3 Inquisition of Kozilek
+3 Foundation Breaker
 1 Wonder
 4 Subtlety
 3 Nature's Claim
@@ -87,4 +85,5 @@
 2 Gemstone Caverns
 2 Path of Peril
 4 Fatal Push
-4 Foundation Breaker
+2 Inquisition of Kozilek
+3 Inquisition of Kozilek

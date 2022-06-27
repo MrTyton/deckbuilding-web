@@ -1,44 +1,44 @@
-1 Arid Mesa
-4 Great Furnace
+4 Karn, the Great Creator
+2 Ensnaring Bridge
+3 Ensnaring Bridge
 2 City of Traitors
-1 Ethersworn Canonist
-1 Wooded Foothills
-2 Wooded Foothills
+2 Imperial Recruiter
+1 Arid Mesa
 1 Taiga
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
 4 Once Upon a Time
 1 Simian Spirit Guide
+1 Breya's Apprentice
+1 Ethersworn Canonist
+1 Shadowspear
+1 Wooded Foothills
+2 Wooded Foothills
+2 Mox Opal
 1 Plateau
 2 Arid Mesa
-1 Breya's Apprentice
-4 Karn, the Great Creator
-2 Ensnaring Bridge
-3 Ensnaring Bridge
-1 Shadowspear
-2 Mox Opal
 2 Taiga
-1 Enlightened Tutor
+4 Lightning Bolt
 1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn
-4 Lightning Bolt
-2 Plateau
-1 Magus of the Moon
-3 Red Elemental Blast
-1 Wurmcoil Engine
 1 Retrofitter Foundry
+1 Magus of the Moon
+1 Wurmcoil Engine
+1 Experimental Synthesizer
+2 Experimental Synthesizer
+1 Unlicensed Hearse
+4 Scalding Tarn
 1 Island
 1 Force of Will
 2 Island
 2 Force of Will
 3 Force of Will
 4 Force of Will
-1 Experimental Synthesizer
-2 Experimental Synthesizer
-1 Aether Spellbomb
-1 Otawara, Soaring City
+1 Sundering Titan
+1 Chromatic Star
+1 Enlightened Tutor
 1 Expressive Iteration
 1 Brainstorm
 1 Flooded Strand
@@ -51,27 +51,28 @@
 3 Ponder
 4 Ponder
 4 Brainstorm
-4 Scalding Tarn
-1 Unlicensed Hearse
-1 Sundering Titan
-1 Seat of the Synod
-2 Seat of the Synod
-2 Enlightened Tutor
-3 Imperial Recruiter
+3 Experimental Synthesizer
 1 Portable Hole
+1 Aether Spellbomb
+1 Otawara, Soaring City
+2 Plateau
 1 Bolas's Citadel
+2 Chromatic Star
+3 Red Elemental Blast
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
-3 Wooded Foothills
-1 Chromatic Star
+2 Flooded Strand
+2 Volcanic Island
+3 Expressive Iteration
+4 Expressive Iteration
+1 Seat of the Synod
+2 Seat of the Synod
 1 Veil of Summer
 2 Veil of Summer
 2 Lion's Eye Diamond
-3 Experimental Synthesizer
 4 Experimental Synthesizer
 1 Magmatic Channeler
 2 Magmatic Channeler
-2 Chromatic Star
 3 Arid Mesa
 3 City of Traitors
 3 Chromatic Star
@@ -92,6 +93,7 @@
 10 Snow-Covered Mountain
 11 Snow-Covered Mountain
 12 Snow-Covered Mountain
+9 Mountain
 3 Mox Opal
 1 Mishra's Bauble
 1 Urza's Bauble
@@ -107,34 +109,39 @@
 2 Otawara, Soaring City
 2 Emry, Lurker of the Loch
 3 Mishra's Bauble
-3 Urza's Bauble
 3 Seat of the Synod
 3 Emry, Lurker of the Loch
 3 Kappa Cannoneer
+3 Urza's Bauble
 3 Thoughtcast
 4 Mox Opal
 4 Mishra's Bauble
 4 Seat of the Synod
 4 Urza's Bauble
 4 Thoughtcast
+2 Enlightened Tutor
 1 Goblin Cratermaker
+3 Imperial Recruiter
 4 Imperial Recruiter
 1 Misty Rainforest
-2 Flooded Strand
 2 Misty Rainforest
-2 Volcanic Island
-3 Expressive Iteration
 3 Volcanic Island
 3 Island
-4 Expressive Iteration
+1 Force of Negation
+1 Relic of Progenitus
+1 Narset, Parter of Veils
+1 Murktide Regent
+2 Murktide Regent
+1 Plains
 1 Welding Jar
+1 Swords to Plowshares
+2 Swords to Plowshares
+1 Ingenious Smith
 1 Karakas
 1 Esper Sentinel
 1 Oswald Fiddlebender
 1 Snow-Covered Plains
-1 Ingenious Smith
 1 Ancient Den
-1 Plains
 1 Mother of Runes
 2 Esper Sentinel
 2 Ingenious Smith
@@ -153,6 +160,7 @@
 3 Oswald Fiddlebender
 4 Ancient Den
 1 Wasteland
+3 Wooded Foothills
 4 Wooded Foothills
 1 Phyrexian Revoker
 2 Wasteland
@@ -167,14 +175,9 @@
 2 Simian Spirit Guide
 2 Breya's Apprentice
 3 Simian Spirit Guide
-1 Force of Negation
-1 Brazen Borrower
-1 Relic of Progenitus
 1 Unholy Heat
-1 Narset, Parter of Veils
-1 Murktide Regent
+1 Brazen Borrower
 2 Unholy Heat
-2 Murktide Regent
 3 Murktide Regent
 1 Crucible of Worlds
 1 Aether Vial
@@ -188,8 +191,6 @@
 3 Mother of Runes
 3 Thought Monitor
 4 Thought Monitor
-1 Swords to Plowshares
-2 Swords to Plowshares
 2 Portable Hole
 4 Ingenious Smith
 4 Esper Sentinel
@@ -199,12 +200,21 @@
 3 Ledger Shredder
 4 Ledger Shredder
 4 Volcanic Island
+1 Timeless Dragon
+1 Prismatic Ending
+1 Tundra
+2 Timeless Dragon
+2 Tundra
+2 Prismatic Ending
+3 Flooded Strand
+3 Swords to Plowshares
+4 Flooded Strand
+4 Swords to Plowshares
 1 Tireless Tracker
 1 Sylvan Safekeeper
 1 Gilded Goose
 1 Yavimaya, Cradle of Growth
 1 Collected Company
-1 Ramunap Excavator
 1 Elvish Reclaimer
 1 Natural Order
 1 Craterhoof Behemoth
@@ -212,6 +222,7 @@
 1 Green Sun's Zenith
 1 Dryad Arbor
 1 Ignoble Hierarch
+1 Ramunap Excavator
 1 Scryb Ranger
 2 Gilded Goose
 2 Gaea's Cradle
@@ -256,8 +267,8 @@
 3 Swamp
 3 Dauthi Voidwalker
 3 Opposition Agent
-4 Sudden Edict
 4 Thoughtseize
+4 Sudden Edict
 4 Dark Ritual
 4 Dark Confidant
 4 Swamp
@@ -267,5 +278,4 @@
 7 Swamp
 8 Swamp
 9 Swamp
-9 Mountain
 10 Mountain

@@ -49,8 +49,8 @@
 2 Jace, the Mind Sculptor
 3 Prismatic Vista
 4 Scalding Tarn
-3 Jace, the Mind Sculptor
 3 Snow-Covered Island
+3 Jace, the Mind Sculptor
 1 Preordain
 4 Underground Sea
 1 Tropical Island
@@ -59,18 +59,18 @@
 1 Mystic Sanctuary
 3 Misty Rainforest
 4 Misty Rainforest
+1 Elvish Reclaimer
 1 Sylvan Library
 1 Spara's Headquarters
-1 Forest
 1 Teferi, Hero of Dominaria
 1 Diabolic Intent
-1 Retrofitter Foundry
+1 Forest
 1 Zagoth Triome
+1 Retrofitter Foundry
 1 Prismatic Omen
 1 Shadowspear
 1 Verdant Catacombs
 1 Jace, Vryn's Prodigy
-1 Abrupt Decay
 1 Sea Gate Restoration
 1 Raffine's Tower
 1 Indatha Triome
@@ -79,6 +79,7 @@
 1 Dryad of the Ilysian Grove
 1 Drownyard Temple
 1 Enlightened Tutor
+1 Abrupt Decay
 1 Valakut, the Molten Pinnacle
 1 Unlicensed Hearse
 1 Serum Visions
@@ -98,7 +99,6 @@
 1 Day's Undoing
 1 Mox Diamond
 1 Dark Depths
-1 Elvish Reclaimer
 1 Leovold, Emissary of Trest
 1 Grist, the Hunger Tide
 1 Aetherling
@@ -118,25 +118,24 @@
 2 Valakut, the Molten Pinnacle
 2 Tropical Island
 2 Leovold, Emissary of Trest
-2 Life from the Loam
 2 Expedition Map
 2 Primeval Titan
+2 Life from the Loam
 2 Preordain
 2 Prismatic Omen
-2 Sylvan Library
 2 Forest
 2 Scrubland
 2 Otawara, Soaring City
-2 Abrupt Decay
-2 Verdant Catacombs
+2 Sylvan Library
 2 Jace, Vryn's Prodigy
+2 Abrupt Decay
 2 Unlicensed Hearse
 2 Boseiju, Who Endures
 2 Enlightened Tutor
 2 Field of the Dead
 2 Flusterstorm
-2 Dryad Arbor
 2 Coiling Oracle
+2 Verdant Catacombs
 2 Spara's Headquarters
 2 Teferi's Protection
 2 Savannah
@@ -155,22 +154,23 @@
 2 Flagstones of Trokair
 2 Windswept Heath
 2 Uro, Titan of Nature's Wrath
+2 Dryad Arbor
 2 Bayou
 2 Grist, the Hunger Tide
 2 Dryad of the Ilysian Grove
 3 Endurance
 3 Elvish Reclaimer
-3 Abrupt Decay
 3 Assassin's Trophy
 3 Sylvan Library
 3 Tropical Island
 3 Unlicensed Hearse
 3 Savannah
-3 Verdant Catacombs
+3 Abrupt Decay
 3 Jace, Vryn's Prodigy
 3 Grist, the Hunger Tide
 3 Coiling Oracle
 3 Teferi, Time Raveler
+3 Verdant Catacombs
 3 Flagstones of Trokair
 3 Karakas
 3 Boseiju, Who Endures
@@ -191,10 +191,10 @@
 3 Diabolic Intent
 3 Narset, Parter of Veils
 4 Dryad of the Ilysian Grove
+4 Endurance
 4 Narset, Parter of Veils
 4 Tropical Island
 4 Grist, the Hunger Tide
-4 Endurance
 4 Savannah
 4 Snapcaster Mage
 4 Verdant Catacombs
