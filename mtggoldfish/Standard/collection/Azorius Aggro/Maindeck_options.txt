@@ -1,9 +1,27 @@
-2 Malevolent Hermit
+1 Monk of the Open Hand
+1 Malevolent Hermit
 2 Monk of the Open Hand
+2 Malevolent Hermit
 3 Monk of the Open Hand
 4 Monk of the Open Hand
 3 Chaplain of Alms
 4 Chaplain of Alms
+1 Hopeful Initiate
+1 Thalia, Guardian of Thraben
+1 Valorous Stance
+1 Eiganjo, Seat of the Empire
+1 Spell Pierce
+1 The Wandering Emperor
+2 Eiganjo, Seat of the Empire
+2 Hopeful Initiate
+2 Valorous Stance
+2 Thalia, Guardian of Thraben
+2 Spell Pierce
+2 The Wandering Emperor
+3 Hopeful Initiate
+3 Thalia, Guardian of Thraben
+4 Hopeful Initiate
+4 Thalia, Guardian of Thraben
 1 Stonebinder's Familiar
 2 Stonebinder's Familiar
 3 Stonebinder's Familiar
@@ -14,7 +32,6 @@
 1 Skyclave Apparition
 1 Field of Ruin
 1 Hall of Storm Giants
-1 Emeria's Call
 1 Reidane, God of the Worthy
 2 Reidane, God of the Worthy
 1 Jwari Disruption
@@ -22,14 +39,14 @@
 3 Jwari Disruption
 4 Brutal Cathar
 3 Maul of the Skyclaves
-1 Sunset Revelry
+2 Hall of Storm Giants
+2 Field of Ruin
 1 Starnheim Unleashed
+1 Sunset Revelry
 2 Starnheim Unleashed
 2 Sunset Revelry
 3 Sunset Revelry
 4 Sunset Revelry
-2 Hall of Storm Giants
-2 Field of Ruin
 1 Righteous Valkyrie
 2 Righteous Valkyrie
 3 Fateful Absence
@@ -40,7 +57,6 @@
 2 Skyclave Apparition
 3 Battlefield Raptor
 4 Battlefield Raptor
-3 Cave of the Frost Dragon
 2 Emeria's Call
 1 Gates of Istfell
 1 Linvala, Shield of Sea Gate
@@ -60,22 +76,6 @@
 1 Negate
 3 Malevolent Hermit
 4 Malevolent Hermit
-1 Thalia, Guardian of Thraben
-1 Valorous Stance
-1 Spell Pierce
-1 Eiganjo, Seat of the Empire
-1 The Wandering Emperor
-1 Hopeful Initiate
-2 Eiganjo, Seat of the Empire
-2 Valorous Stance
-2 Thalia, Guardian of Thraben
-2 Spell Pierce
-2 The Wandering Emperor
-2 Hopeful Initiate
-3 Hopeful Initiate
-3 Thalia, Guardian of Thraben
-4 Hopeful Initiate
-4 Thalia, Guardian of Thraben
 1 Wedding Announcement
 1 Mystic Reflection
 1 Lion Sash
@@ -89,6 +89,7 @@
 3 Mystic Reflection
 4 Fateful Absence
 4 Mystic Reflection
+1 Evolving Wilds
 1 Fierce Retribution
 1 Cosima, God of the Voyage
 1 Glacial Floodplain
@@ -99,7 +100,6 @@
 1 Doomskar
 1 Teferi, Who Slows the Sunset
 1 Ingenious Smith
-1 Evolving Wilds
 1 The Celestus
 2 Teferi, Who Slows the Sunset
 2 Hullbreaker Horror
@@ -115,70 +115,70 @@
 4 Giant Ox
 4 Ingenious Smith
 4 Colossal Plow
-1 Saw It Coming
 1 Overcharged Amalgam
 1 Fading Hope
+1 Saw It Coming
 2 Saw It Coming
 2 Overcharged Amalgam
 2 Fading Hope
-3 Hall of Storm Giants
 3 Fading Hope
+3 Hall of Storm Giants
 3 Overcharged Amalgam
 4 Overcharged Amalgam
-1 You See a Guard Approach
 1 Consider
 1 Grand Master of Flowers
-1 Delver of Secrets
-1 Homestead Courage
 1 Guiding Voice
+1 Homestead Courage
+1 Delver of Secrets
+1 You See a Guard Approach
 2 You See a Guard Approach
 2 Consider
 2 Sejiri Shelter
-2 Delver of Secrets
-2 Guiding Voice
 2 Homestead Courage
-3 Consider
-3 Guiding Voice
+2 Guiding Voice
+2 Delver of Secrets
 3 You See a Guard Approach
+3 Consider
 3 Sejiri Shelter
-3 Delver of Secrets
 3 Homestead Courage
+3 Guiding Voice
+3 Delver of Secrets
+4 Sejiri Shelter
 4 Consider
 4 Guiding Voice
-4 Sejiri Shelter
-4 Jwari Disruption
 4 Homestead Courage
+4 Jwari Disruption
 4 Delver of Secrets
-1 Kabira Takedown
-1 Clarion Spirit
-1 Monk Class
-2 Clarion Spirit
-2 Kabira Takedown
-2 Monk Class
-3 Monk Class
-3 Clarion Spirit
-4 Clarion Spirit
-4 Monk Class
-1 Snow-Covered Plains
-1 Snow-Covered Island
-1 Suspicious Stowaway
 1 Faceless Haven
-2 Snow-Covered Plains
+1 Snow-Covered Island
+1 Snow-Covered Plains
+1 Suspicious Stowaway
+2 Faceless Haven
 2 Suspicious Stowaway
 2 Snow-Covered Island
-2 Faceless Haven
+2 Snow-Covered Plains
 3 Emeria's Call
-3 Snow-Covered Plains
+3 Faceless Haven
 3 Suspicious Stowaway
 3 Snow-Covered Island
+3 Snow-Covered Plains
 3 Skyclave Apparition
-3 Faceless Haven
 4 Emeria's Call
+4 Faceless Haven
 4 Snow-Covered Plains
 4 Sungold Sentinel
-4 Faceless Haven
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
+1 Kabira Takedown
+1 Clarion Spirit
+1 Monk Class
+2 Kabira Takedown
+2 Clarion Spirit
+2 Monk Class
+3 Monk Class
+3 Clarion Spirit
+4 Clarion Spirit
+4 Monk Class

@@ -1,14 +1,14 @@
+1 Skysovereign, Consul Flagship
 1 Hengegate Pathway
-3 Faithful Mending
 2 Kaito Shizuki
-4 Clearwater Pathway
 2 Shipwreck Marsh
-1 Obscura Charm
-1 Otawara, Soaring City
+4 Clearwater Pathway
 2 Godless Shrine
-2 Hengegate Pathway
+1 Obscura Charm
 3 Raffine's Tower
+1 Otawara, Soaring City
 1 Vanishing Verse
+2 Hengegate Pathway
 1 Island
 4 Faithful Mending
 4 Fatal Push
@@ -45,20 +45,21 @@
 4 Zetalpa, Primal Dawn
 4 Otherworldly Gaze
 3 Spell Pierce
+3 Shipwreck Marsh
 3 Hengegate Pathway
+1 Takenuma, Abandoned Mire
 1 The Wandering Emperor
 1 Brightclimb Pathway
-3 Portable Hole
 1 Supreme Verdict
 2 Vanishing Verse
+3 Portable Hole
 1 Treasure Cruise
 2 Treasure Cruise
 1 Unlicensed Hearse
 1 Eliminate
-1 Murderous Cut
-1 Deadly Dispute
 1 Can't Stay Away
 1 Minister of Inquiries
+1 Deadly Dispute
 1 Stitcher's Supplier
 2 Deadly Dispute
 2 Can't Stay Away
@@ -68,34 +69,31 @@
 3 Stitcher's Supplier
 3 Minister of Inquiries
 4 Stitcher's Supplier
-1 Chart a Course
 1 Tenacious Underdog
 1 Raffine's Informant
 1 Seasoned Hallowblade
 2 Raffine's Informant
 2 Seasoned Hallowblade
 3 Raffine's Informant
-3 Shipwreck Marsh
 3 Godless Shrine
-2 Brightclimb Pathway
+1 March of Otherworldly Light
 2 Collective Brutality
-1 Takenuma, Abandoned Mire
+2 Brightclimb Pathway
 4 Portable Hole
 1 Irrigated Farmland
 1 Snow-Covered Island
+1 Murderous Cut
 1 Swamp
-2 Chart a Course
 1 Malevolent Hermit
 2 Tenacious Underdog
-1 Thing in the Ice
-2 Thing in the Ice
 1 Liliana, the Last Hope
 1 Stubborn Denial
 1 Shattered Sanctum
-1 March of Otherworldly Light
 1 Void Rend
 2 Stubborn Denial
 2 March of Otherworldly Light
+1 Thing in the Ice
+2 Thing in the Ice
 1 Mirrorshell Crab
 1 Narset, Parter of Veils
 1 Tezzeret, Betrayer of Flesh
@@ -104,12 +102,14 @@
 2 Tezzeret, Betrayer of Flesh
 2 Mirrorshell Crab
 2 Glacial Fortress
-1 Isolated Chapel
-3 Brightclimb Pathway
-4 Raffine, Scheming Seer
-4 Deadly Dispute
+1 Duress
+1 Eiganjo, Seat of the Empire
+2 Takenuma, Abandoned Mire
+2 Duress
+3 Duress
 3 Dig Through Time
 4 Spell Pierce
+4 Deadly Dispute
 1 Teferi, Hero of Dominaria
 1 Thirst for Knowledge
 1 Plains
@@ -120,6 +120,10 @@
 2 Thirst for Knowledge
 3 Thirst for Knowledge
 4 Thirst for Knowledge
+1 Chart a Course
+1 Isolated Chapel
+3 Brightclimb Pathway
+4 Raffine, Scheming Seer
 3 Can't Stay Away
 4 Minister of Inquiries
 1 Ray of Enfeeblement

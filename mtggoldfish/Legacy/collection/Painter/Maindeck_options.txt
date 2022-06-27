@@ -1,55 +1,44 @@
+1 Arid Mesa
+4 Great Furnace
+2 City of Traitors
 1 Ethersworn Canonist
-1 Simian Spirit Guide
-1 Plateau
 1 Wooded Foothills
 2 Wooded Foothills
-1 Ichor Wellspring
-4 Great Furnace
-3 Lightning Bolt
-1 Enlightened Tutor
-1 Shadowspear
 1 Taiga
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
 4 Once Upon a Time
-2 Plateau
+1 Simian Spirit Guide
+1 Plateau
 2 Arid Mesa
-4 Karn, the Great Creator
-3 Imperial Recruiter
 1 Breya's Apprentice
-1 Scalding Tarn
-2 Scalding Tarn
-2 Mox Opal
-2 Taiga
+4 Karn, the Great Creator
 2 Ensnaring Bridge
 3 Ensnaring Bridge
-1 Retrofitter Foundry
-1 Goblin Cratermaker
-4 Imperial Recruiter
+1 Shadowspear
+2 Mox Opal
+2 Taiga
+1 Enlightened Tutor
+1 Scalding Tarn
+2 Scalding Tarn
+3 Scalding Tarn
+4 Lightning Bolt
+2 Plateau
 1 Magus of the Moon
 3 Red Elemental Blast
-3 Scalding Tarn
-1 Unlicensed Hearse
-1 Experimental Synthesizer
-2 Experimental Synthesizer
-4 Lightning Bolt
-1 Otawara, Soaring City
+1 Wurmcoil Engine
+1 Retrofitter Foundry
 1 Island
 1 Force of Will
 2 Island
 2 Force of Will
 3 Force of Will
 4 Force of Will
-1 Bloodstained Mire
-1 Smuggler's Copter
-1 Brainstone
-2 Simian Spirit Guide
-2 Enlightened Tutor
-1 Portable Hole
+1 Experimental Synthesizer
+2 Experimental Synthesizer
 1 Aether Spellbomb
-1 Seat of the Synod
-2 Seat of the Synod
+1 Otawara, Soaring City
 1 Expressive Iteration
 1 Brainstorm
 1 Flooded Strand
@@ -62,14 +51,21 @@
 3 Ponder
 4 Ponder
 4 Brainstorm
-1 Wurmcoil Engine
 4 Scalding Tarn
+1 Unlicensed Hearse
+1 Sundering Titan
+1 Seat of the Synod
+2 Seat of the Synod
+2 Enlightened Tutor
+3 Imperial Recruiter
+1 Portable Hole
+1 Bolas's Citadel
+1 Fable of the Mirror-Breaker
+2 Fable of the Mirror-Breaker
 3 Wooded Foothills
 1 Chromatic Star
-1 Sundering Titan
 1 Veil of Summer
 2 Veil of Summer
-1 Bolas's Citadel
 2 Lion's Eye Diamond
 3 Experimental Synthesizer
 4 Experimental Synthesizer
@@ -82,7 +78,20 @@
 4 Arid Mesa
 4 Red Elemental Blast
 4 Chromatic Star
-2 Bloodstained Mire
+1 Snow-Covered Mountain
+1 Cursed Mirror
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
+3 Fable of the Mirror-Breaker
+4 Snow-Covered Mountain
+5 Snow-Covered Mountain
+6 Snow-Covered Mountain
+7 Snow-Covered Mountain
+8 Snow-Covered Mountain
+9 Snow-Covered Mountain
+10 Snow-Covered Mountain
+11 Snow-Covered Mountain
+12 Snow-Covered Mountain
 3 Mox Opal
 1 Mishra's Bauble
 1 Urza's Bauble
@@ -92,11 +101,11 @@
 1 Thought Monitor
 2 Mishra's Bauble
 2 Urza's Bauble
-2 Emry, Lurker of the Loch
 2 Thoughtcast
 2 Kappa Cannoneer
 2 Thought Monitor
 2 Otawara, Soaring City
+2 Emry, Lurker of the Loch
 3 Mishra's Bauble
 3 Urza's Bauble
 3 Seat of the Synod
@@ -108,20 +117,28 @@
 4 Seat of the Synod
 4 Urza's Bauble
 4 Thoughtcast
-1 Fable of the Mirror-Breaker
-2 Fable of the Mirror-Breaker
+1 Goblin Cratermaker
+4 Imperial Recruiter
+1 Misty Rainforest
+2 Flooded Strand
+2 Misty Rainforest
+2 Volcanic Island
+3 Expressive Iteration
+3 Volcanic Island
+3 Island
+4 Expressive Iteration
 1 Welding Jar
 1 Karakas
 1 Esper Sentinel
 1 Oswald Fiddlebender
-1 Mother of Runes
 1 Snow-Covered Plains
 1 Ingenious Smith
 1 Ancient Den
 1 Plains
+1 Mother of Runes
 2 Esper Sentinel
-2 Plains
 2 Ingenious Smith
+2 Plains
 2 Snow-Covered Plains
 2 Oswald Fiddlebender
 2 Ethersworn Canonist
@@ -143,8 +160,22 @@
 4 Wasteland
 1 Blood Moon
 1 Chandra, Torch of Defiance
+1 Bloodstained Mire
+1 Smuggler's Copter
+1 Brainstone
+2 Bloodstained Mire
+2 Simian Spirit Guide
 2 Breya's Apprentice
 3 Simian Spirit Guide
+1 Force of Negation
+1 Brazen Borrower
+1 Relic of Progenitus
+1 Unholy Heat
+1 Narset, Parter of Veils
+1 Murktide Regent
+2 Unholy Heat
+2 Murktide Regent
+3 Murktide Regent
 1 Crucible of Worlds
 1 Aether Vial
 1 Hope of Ghirapur
@@ -157,33 +188,23 @@
 3 Mother of Runes
 3 Thought Monitor
 4 Thought Monitor
-1 Force of Negation
-1 Brazen Borrower
-1 Relic of Progenitus
-1 Unholy Heat
-1 Narset, Parter of Veils
-1 Murktide Regent
-1 Misty Rainforest
-2 Flooded Strand
-2 Unholy Heat
-2 Murktide Regent
-2 Misty Rainforest
-2 Volcanic Island
-3 Expressive Iteration
-3 Murktide Regent
-3 Volcanic Island
-3 Island
-4 Expressive Iteration
 1 Swords to Plowshares
 2 Swords to Plowshares
 2 Portable Hole
 4 Ingenious Smith
 4 Esper Sentinel
+1 Ledger Shredder
+1 Spine of Ish Sah
+2 Ledger Shredder
+3 Ledger Shredder
+4 Ledger Shredder
+4 Volcanic Island
 1 Tireless Tracker
 1 Sylvan Safekeeper
 1 Gilded Goose
 1 Yavimaya, Cradle of Growth
 1 Collected Company
+1 Ramunap Excavator
 1 Elvish Reclaimer
 1 Natural Order
 1 Craterhoof Behemoth
@@ -191,7 +212,6 @@
 1 Green Sun's Zenith
 1 Dryad Arbor
 1 Ignoble Hierarch
-1 Ramunap Excavator
 1 Scryb Ranger
 2 Gilded Goose
 2 Gaea's Cradle
@@ -247,19 +267,5 @@
 7 Swamp
 8 Swamp
 9 Swamp
-1 Snow-Covered Mountain
-1 Cursed Mirror
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
-3 Fable of the Mirror-Breaker
-4 Snow-Covered Mountain
-5 Snow-Covered Mountain
-6 Snow-Covered Mountain
-7 Snow-Covered Mountain
-8 Snow-Covered Mountain
-9 Snow-Covered Mountain
-10 Snow-Covered Mountain
-11 Snow-Covered Mountain
-12 Snow-Covered Mountain
 9 Mountain
 10 Mountain

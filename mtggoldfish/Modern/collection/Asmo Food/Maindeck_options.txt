@@ -13,22 +13,22 @@
 1 Scalding Tarn
 1 Reinforced Ronin
 1 Spirebluff Canal
-1 Voldaren Epicure
 1 Memnite
 1 Riddlesmith
+1 Voldaren Epicure
 1 Vengevine
 1 Steam Vents
-2 Steam Vents
 2 Reinforced Ronin
-2 Voldaren Epicure
+2 Steam Vents
 2 Memnite
+2 Voldaren Epicure
 2 Scalding Tarn
 2 Vengevine
 2 Riddlesmith
 3 Scalding Tarn
-3 Voldaren Epicure
 3 Memnite
 3 Vengevine
+3 Voldaren Epicure
 4 Memnite
 4 Vengevine
 3 Bloodstained Mire
@@ -43,8 +43,8 @@
 2 Springleaf Drum
 3 Steam Vents
 4 Scalding Tarn
-4 Voldaren Epicure
 4 Steam Vents
+4 Voldaren Epicure
 1 Verdant Catacombs
 1 Forest
 1 Yavimaya, Cradle of Growth
@@ -63,8 +63,8 @@
 2 Trail of Crumbs
 3 Gilded Goose
 4 Gilded Goose
-1 Blooming Marsh
 1 Overgrown Tomb
+1 Blooming Marsh
 1 Darkbore Pathway
 2 Blooming Marsh
 2 Overgrown Tomb
@@ -72,8 +72,8 @@
 3 Darkbore Pathway
 3 Blooming Marsh
 3 Witch's Oven
-4 Verdant Catacombs
 4 Blooming Marsh
+4 Verdant Catacombs
 4 Cauldron Familiar
 4 Darkbore Pathway
 4 Witch's Oven
@@ -147,25 +147,40 @@
 4 Ragavan, Nimble Pilferer
 4 Thoughtseize
 4 Blood Crypt
+1 Hollow One
+1 Goblin Lore
+1 Bloodghast
+2 Bloodghast
+2 Goblin Lore
+2 Ox of Agonas
+2 Hollow One
+3 Bloodghast
+3 Ox of Agonas
+3 Goblin Lore
+3 Hollow One
+4 Bloodghast
+4 Goblin Lore
+4 Hollow One
+4 Blazing Rootwalla
 1 Jetmir's Garden
 1 Eladamri's Call
 1 Stoneforge Mystic
 1 Kaldra Compleat
 1 Viridian Longbow
+1 Rocco, Cabaretti Caterer
 1 Vizier of Remedies
 1 Plains
 1 Sunbaked Canyon
 1 Temple Garden
 1 Windswept Heath
 1 Sacred Foundry
-1 Rocco, Cabaretti Caterer
 1 Giver of Runes
 2 Temple Garden
 2 Eladamri's Call
 2 Stoneforge Mystic
+2 Rocco, Cabaretti Caterer
 2 Windswept Heath
 2 Giver of Runes
-2 Rocco, Cabaretti Caterer
 3 Stoneforge Mystic
 3 Eladamri's Call
 3 Rocco, Cabaretti Caterer
@@ -176,21 +191,6 @@
 4 Rocco, Cabaretti Caterer
 4 Windswept Heath
 4 Giver of Runes
-1 Hollow One
-1 Goblin Lore
-1 Bloodghast
-2 Goblin Lore
-2 Ox of Agonas
-2 Bloodghast
-2 Hollow One
-3 Ox of Agonas
-3 Bloodghast
-3 Goblin Lore
-3 Hollow One
-4 Goblin Lore
-4 Hollow One
-4 Blazing Rootwalla
-4 Bloodghast
 1 Ignoble Hierarch
 1 Dryad Arbor
 1 Pithing Needle

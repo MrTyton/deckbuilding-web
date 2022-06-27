@@ -22,8 +22,8 @@
 7 Swamp
 1 Shatterskull Smashing
 1 Dread Wanderer
-2 Shatterskull Smashing
 2 Dread Wanderer
+2 Shatterskull Smashing
 1 Gutterbones
 2 Gutterbones
 1 Forsaken Crossroads
@@ -48,36 +48,35 @@
 2 Haunted Ridge
 4 Ramunap Ruins
 5 Mountain
-1 Light Up the Stage
 1 Soul-Scar Mage
-1 Dragon's Rage Channeler
-1 Bomat Courier
+1 Light Up the Stage
 1 Skewer the Critics
+1 Bomat Courier
+1 Dragon's Rage Channeler
 1 Play with Fire
 1 Sokenzan, Crucible of Defiance
 1 Kumano Faces Kakkazan
-2 Light Up the Stage
 2 Soul-Scar Mage
+2 Light Up the Stage
 2 Skewer the Critics
-2 Dragon's Rage Channeler
 2 Bomat Courier
+2 Dragon's Rage Channeler
 2 Play with Fire
 2 Kumano Faces Kakkazan
 3 Play with Fire
 3 Soul-Scar Mage
 3 Skewer the Critics
 3 Light Up the Stage
-3 Dragon's Rage Channeler
 3 Bomat Courier
+3 Dragon's Rage Channeler
 3 Kumano Faces Kakkazan
 4 Skewer the Critics
 4 Soul-Scar Mage
 4 Light Up the Stage
+4 Play with Fire
 4 Bomat Courier
 4 Dragon's Rage Channeler
-4 Play with Fire
 4 Kumano Faces Kakkazan
-4 Scrapheap Scrounger
 1 Ghitu Lavarunner
 1 Wizard's Lightning
 1 Rampaging Ferocidon
@@ -114,20 +113,6 @@
 3 Robber of the Rich
 3 Dread Wanderer
 4 Dread Wanderer
-1 Chandra, Dressed to Kill
-1 Pillar of Flame
-2 Pillar of Flame
-2 Chandra, Dressed to Kill
-3 Chandra, Dressed to Kill
-3 Spikefield Hazard
-3 Pillar of Flame
-6 Mountain
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
 1 Skyclave Shade
 1 Infernal Grasp
 2 Skyclave Shade
@@ -139,3 +124,18 @@
 4 Infernal Grasp
 4 Skyclave Shade
 4 Gutterbones
+1 Chandra, Dressed to Kill
+1 Pillar of Flame
+2 Chandra, Dressed to Kill
+2 Pillar of Flame
+3 Chandra, Dressed to Kill
+3 Spikefield Hazard
+3 Pillar of Flame
+6 Mountain
+7 Mountain
+8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+4 Scrapheap Scrounger

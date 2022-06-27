@@ -32,8 +32,8 @@
 1 Azusa's Many Journeys
 1 Borrowed Time
 2 Borrowed Time
-1 Emergent Sequence
 1 Field of Ruin
+1 Emergent Sequence
 2 Field of Ruin
 2 Emergent Sequence
 4 Wrenn and Seven
@@ -48,11 +48,11 @@
 3 Ambitious Farmhand
 4 Ambitious Farmhand
 2 Felidar Retreat
-1 Fearless Fledgling
 1 Kodama of the West Tree
-2 Fearless Fledgling
-2 Kodama of the West Tree
+1 Fearless Fledgling
 2 Cave of the Frost Dragon
+2 Kodama of the West Tree
+2 Fearless Fledgling
 3 Fearless Fledgling
 3 Kodama of the West Tree
 3 Felidar Retreat
@@ -75,17 +75,17 @@
 3 Elite Spellbinder
 2 Azusa's Many Journeys
 1 Reidane, God of the Worthy
-1 Toski, Bearer of Secrets
-1 Story Seeker
-1 Cleric Class
 1 Grand Master of Flowers
+1 Cleric Class
+1 Toski, Bearer of Secrets
+1 Valkyrie Harbinger
+1 Story Seeker
 1 Minimus Containment
 1 Blossoming Sands
 1 Pillardrop Rescuer
 1 Cultivator Colossus
 1 Righteous Valkyrie
 1 Lurking Roper
-1 Valkyrie Harbinger
 1 Maja, Bretagard Protector
 1 You Meet in a Tavern
 1 Celestial Unicorn
@@ -100,8 +100,9 @@
 1 Trelasarra, Moon Dancer
 1 Drizzt Do'Urden
 1 Inscription of Abundance
-2 Devouring Tendrils
+2 Blossoming Sands
 2 Cleric Class
+2 Devouring Tendrils
 2 Story Seeker
 2 Kor Celebrant
 2 You Meet in a Tavern
@@ -110,31 +111,32 @@
 2 Priest of Ancient Lore
 2 Celestial Unicorn
 2 Trelasarra, Moon Dancer
-2 Blossoming Sands
 2 Arctic Treeline
 2 Minimus Containment
+3 Blossoming Sands
 3 Devouring Tendrils
 3 Minimus Containment
 3 Kor Celebrant
 3 Trelasarra, Moon Dancer
-3 Blossoming Sands
 3 Priest of Ancient Lore
 3 Arctic Treeline
-4 Arctic Treeline
 4 Blossoming Sands
+4 Arctic Treeline
 4 Priest of Ancient Lore
 7 Plains
 7 Forest
 8 Forest
 8 Plains
-9 Plains
 9 Forest
-10 Plains
+9 Plains
 10 Forest
+10 Plains
 1 Tamiyo's Safekeeping
 1 Fateful Absence
 1 Farewell
 1 Careful Cultivation
+1 Shigeki, Jukai Visionary
+2 Shigeki, Jukai Visionary
 2 Valorous Stance
 1 Circle of Confinement
 2 Circle of Confinement
@@ -142,32 +144,30 @@
 1 In Search of Greatness
 2 Kura, the Boundless Sky
 2 In Search of Greatness
-1 Shigeki, Jukai Visionary
-2 Shigeki, Jukai Visionary
 4 Elite Spellbinder
 1 The Restoration of Eiganjo
 2 The Restoration of Eiganjo
 2 Boseiju, Who Endures
-3 Azusa's Many Journeys
 3 The Restoration of Eiganjo
+3 Azusa's Many Journeys
 4 The Restoration of Eiganjo
 4 Azusa's Many Journeys
 1 Topiary Stomper
+1 Thalia, Guardian of Thraben
 1 Titan of Industry
+1 Teleportation Circle
 1 Gala Greeters
 1 Sanctuary Warden
-1 Teleportation Circle
-1 Thalia, Guardian of Thraben
-2 Titan of Industry
-2 Sanctuary Warden
-2 Topiary Stomper
-2 Teleportation Circle
-2 Thalia, Guardian of Thraben
 2 Gala Greeters
-3 Teleportation Circle
-3 Topiary Stomper
+2 Topiary Stomper
+2 Thalia, Guardian of Thraben
+2 Sanctuary Warden
+2 Titan of Industry
+2 Teleportation Circle
 3 Gala Greeters
-4 Brutal Cathar
+3 Topiary Stomper
+3 Teleportation Circle
 4 Gala Greeters
 4 Topiary Stomper
+4 Brutal Cathar
 4 Teleportation Circle
