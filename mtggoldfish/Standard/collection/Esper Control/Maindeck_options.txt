@@ -175,12 +175,12 @@
 3 Snow-Covered Swamp
 1 Baleful Mastery
 2 Baleful Mastery
-3 Field of Ruin
 3 Baleful Mastery
 3 March of Wretched Sorrow
 3 Witness the Future
-4 Field of Ruin
+3 Field of Ruin
 4 Baleful Mastery
+4 Field of Ruin
 3 Siphon Insight
 4 The Meathook Massacre
 4 Lolth, Spider Queen
@@ -197,11 +197,11 @@
 1 Dennick, Pious Apprentice
 2 Dennick, Pious Apprentice
 2 Test of Talents
-3 Spirited Companion
 3 Edgar, Charmed Groom
 1 Silundi Vision
 2 Eiganjo, Seat of the Empire
 3 Skyclave Relic
+3 Spirited Companion
 2 Sanctuary Warden
 3 Sanctuary Warden
 1 Skybridge Towers
@@ -210,9 +210,6 @@
 3 Hive of the Eye Tyrant
 1 Professor Onyx
 4 Island
-1 Shineshadow Snarl
-1 Inscription of Ruin
-4 Emeria's Call
 2 Soul Shatter
 4 Infernal Grasp
 1 Flunk
@@ -222,6 +219,9 @@
 1 Wash Away
 2 Wash Away
 4 Obscura Interceptor
+1 Shineshadow Snarl
+1 Inscription of Ruin
+4 Emeria's Call
 1 Tezzeret, Betrayer of Flesh
 1 Containment Construct
 2 Containment Construct
@@ -255,11 +255,11 @@
 5 Plains
 5 Swamp
 6 Swamp
-1 The Restoration of Eiganjo
 1 Concealing Curtains
 1 Rite of Oblivion
 1 Henrika Domnathi
 1 Blood on the Snow
+1 The Restoration of Eiganjo
 1 Skullport Merchant
 2 Concealing Curtains
 3 Shambling Ghast

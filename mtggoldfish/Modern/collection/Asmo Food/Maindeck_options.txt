@@ -12,17 +12,17 @@
 1 Mountain
 1 Scalding Tarn
 1 Reinforced Ronin
-1 Spirebluff Canal
 1 Memnite
+1 Spirebluff Canal
 1 Riddlesmith
 1 Voldaren Epicure
 1 Vengevine
 1 Steam Vents
+2 Scalding Tarn
 2 Reinforced Ronin
 2 Steam Vents
 2 Memnite
 2 Voldaren Epicure
-2 Scalding Tarn
 2 Vengevine
 2 Riddlesmith
 3 Scalding Tarn
@@ -46,9 +46,9 @@
 4 Steam Vents
 4 Voldaren Epicure
 1 Verdant Catacombs
-1 Forest
 1 Yavimaya, Cradle of Growth
 1 Finale of Devastation
+1 Forest
 2 Finale of Devastation
 3 Finale of Devastation
 4 Finale of Devastation
@@ -110,43 +110,43 @@
 3 Devoted Druid
 3 Wrenn and Six
 4 Devoted Druid
-1 Snow-Covered Swamp
 1 Snow-Covered Island
+1 Snow-Covered Swamp
 1 Wonder
 1 Arid Mesa
-2 Arid Mesa
 2 Spirebluff Canal
+2 Arid Mesa
 3 Trail of Crumbs
 2 Island
 2 Swamp
 3 Bone Shards
-1 Seasoned Pyromancer
-1 Ragavan, Nimble Pilferer
-1 Sokenzan, Crucible of Defiance
-1 Lightning Bolt
 1 Persist
+1 Seasoned Pyromancer
 1 Fury
 1 Kolaghan's Command
 1 Thoughtseize
+1 Ragavan, Nimble Pilferer
+1 Lightning Bolt
 1 Archon of Cruelty
+1 Sokenzan, Crucible of Defiance
+2 Persist
+2 Archon of Cruelty
 2 Seasoned Pyromancer
 2 Ragavan, Nimble Pilferer
-2 Archon of Cruelty
-2 Lightning Bolt
 2 Thoughtseize
-2 Persist
-3 Seasoned Pyromancer
-3 Ragavan, Nimble Pilferer
-3 Lightning Bolt
-3 Archon of Cruelty
+2 Lightning Bolt
 3 Persist
+3 Archon of Cruelty
+3 Seasoned Pyromancer
+3 Lightning Bolt
+3 Ragavan, Nimble Pilferer
 3 Thoughtseize
-4 Persist
-4 Seasoned Pyromancer
 4 Archon of Cruelty
-4 Ragavan, Nimble Pilferer
+4 Persist
 4 Thoughtseize
 4 Blood Crypt
+4 Ragavan, Nimble Pilferer
+4 Seasoned Pyromancer
 1 Hollow One
 1 Goblin Lore
 1 Bloodghast
@@ -162,52 +162,52 @@
 4 Goblin Lore
 4 Hollow One
 4 Blazing Rootwalla
-1 Jetmir's Garden
 1 Eladamri's Call
+1 Windswept Heath
+1 Jetmir's Garden
 1 Stoneforge Mystic
 1 Kaldra Compleat
+1 Temple Garden
+1 Sacred Foundry
 1 Viridian Longbow
 1 Rocco, Cabaretti Caterer
 1 Vizier of Remedies
 1 Plains
 1 Sunbaked Canyon
-1 Temple Garden
-1 Windswept Heath
-1 Sacred Foundry
 1 Giver of Runes
-2 Temple Garden
 2 Eladamri's Call
-2 Stoneforge Mystic
-2 Rocco, Cabaretti Caterer
 2 Windswept Heath
+2 Stoneforge Mystic
+2 Temple Garden
+2 Rocco, Cabaretti Caterer
 2 Giver of Runes
-3 Stoneforge Mystic
 3 Eladamri's Call
+3 Stoneforge Mystic
+3 Windswept Heath
 3 Rocco, Cabaretti Caterer
 3 Giver of Runes
-3 Windswept Heath
-4 Eladamri's Call
 4 Stoneforge Mystic
-4 Rocco, Cabaretti Caterer
 4 Windswept Heath
+4 Eladamri's Call
+4 Rocco, Cabaretti Caterer
 4 Giver of Runes
-1 Ignoble Hierarch
 1 Dryad Arbor
 1 Pithing Needle
 1 Leyline of Abundance
 1 Tranquil Thicket
+1 Ignoble Hierarch
 1 Soul-Guide Lantern
 1 Nykthos, Shrine to Nyx
 1 Karn, the Great Creator
-2 Ignoble Hierarch
-2 Stomping Ground
 2 Leyline of Abundance
 2 Karn, the Great Creator
 2 Tranquil Thicket
-3 Ignoble Hierarch
-3 Stomping Ground
+2 Ignoble Hierarch
+2 Stomping Ground
 3 Karn, the Great Creator
+3 Stomping Ground
 3 Leyline of Abundance
+3 Ignoble Hierarch
 4 Wrenn and Six
 4 Ignoble Hierarch
 4 Karn, the Great Creator
@@ -226,9 +226,9 @@
 2 Mountain
 2 Shrapnel Blast
 2 Canyon Slough
+3 Mountain
 3 Galvanic Blast
 3 Shrapnel Blast
-3 Mountain
 4 Mountain
 4 Shrapnel Blast
 5 Mountain

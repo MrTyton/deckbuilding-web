@@ -1,6 +1,4 @@
-2 Krenko, Mob Boss
 3 Goblin Chieftain
-1 Shatterskull Smashing
 3 Goblin Warchief
 4 Goblin Warchief
 1 Wily Goblin
@@ -9,28 +7,29 @@
 3 Goblin Matron
 6 Mountain
 3 Krenko, Mob Boss
+1 Shatterskull Smashing
 2 Wily Goblin
 3 Wily Goblin
 4 Wily Goblin
-1 Dragonskull Summit
-2 Dragonskull Summit
-3 Dragonskull Summit
-3 Pashalik Mons
-4 Dragonskull Summit
-2 Shatterskull Smashing
+4 Goblin Chainwhirler
 4 Goblin Matron
 7 Mountain
 8 Mountain
 9 Mountain
 10 Mountain
+2 Shatterskull Smashing
 11 Mountain
 12 Mountain
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
 13 Mountain
 14 Mountain
 4 Goblin Chieftain
-3 Shatterskull Smashing
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+1 Dragonskull Summit
+2 Dragonskull Summit
+3 Dragonskull Summit
+3 Pashalik Mons
+4 Dragonskull Summit
 4 Krenko, Mob Boss
 15 Mountain
 16 Mountain
@@ -38,8 +37,11 @@
 18 Mountain
 19 Mountain
 20 Mountain
-1 Mind Stone
+3 Shatterskull Smashing
+1 Sokenzan, Crucible of Defiance
+1 Hobgoblin Bandit Lord
 1 Herald's Horn
+1 Mind Stone
 2 Herald's Horn
 2 Mind Stone
 3 Snow-Covered Mountain
@@ -49,18 +51,16 @@
 7 Snow-Covered Mountain
 1 Reckless Ringleader
 2 Reckless Ringleader
-1 Hobgoblin Bandit Lord
-1 Sokenzan, Crucible of Defiance
-8 Snow-Covered Mountain
-1 Goblin Instigator
-2 Goblin Instigator
 1 Irencrag Feat
+2 Irencrag Feat
+3 Irencrag Feat
+8 Snow-Covered Mountain
 1 Castle Embereth
 2 Castle Embereth
-2 Sokenzan, Crucible of Defiance
-2 Irencrag Feat
 2 Hobgoblin Bandit Lord
-3 Irencrag Feat
+1 Goblin Instigator
+2 Goblin Instigator
+2 Sokenzan, Crucible of Defiance
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
 1 Sling-Gang Lieutenant
@@ -73,18 +73,23 @@
 1 Takenuma, Abandoned Mire
 1 Roiling Vortex
 2 Roiling Vortex
+3 Castle Embereth
+1 Goblin Trashmaster
+2 Phyrexian Tower
+2 Goblin Trashmaster
+4 Irencrag Feat
 3 Reckless Ringleader
 4 Reckless Ringleader
 1 Plains
 1 Ajani's Pridemate
 1 Temple of Triumph
+1 Voice of the Blessed
 1 Cavalcade of Calamity
 1 Wind-Scarred Crag
 1 Lunarch Veteran
-1 Voice of the Blessed
+1 Griffin Aerie
 1 Soul Warden
 1 Hallowed Priest
-1 Griffin Aerie
 2 Plains
 2 Wind-Scarred Crag
 2 Lunarch Veteran
@@ -99,8 +104,8 @@
 6 Plains
 7 Plains
 1 Goblin Ringleader
-1 Goro-Goro, Disciple of Ryusei
 1 Kazuul's Fury
+1 Goro-Goro, Disciple of Ryusei
 2 Goblin Ringleader
 4 Goblin Instigator
 21 Mountain

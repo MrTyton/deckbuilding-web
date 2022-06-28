@@ -1,6 +1,6 @@
 1 Rockfall Vale
-1 Island
 1 Hall of Storm Giants
+1 Island
 1 Mountain
 1 Den of the Bugbear
 1 Haunted Ridge
@@ -18,25 +18,25 @@
 1 Boseiju, Who Endures
 1 Titan of Industry
 1 Infernal Grasp
-1 Darkbore Pathway
 1 Deathcap Glade
+1 Darkbore Pathway
 1 Shatterskull Smashing
 2 Binding the Old Gods
 3 Binding the Old Gods
 1 The World Tree
 2 Wrenn and Seven
 1 Spara's Headquarters
+1 Ziatora's Proving Ground
 1 Courier's Briefcase
 1 Disdainful Stroke
-1 Ziatora's Proving Ground
 1 Fable of the Mirror-Breaker
 1 The Kami War
 1 Dreamroot Cascade
+2 Ziatora's Proving Ground
 2 Titan of Industry
 2 The Kami War
 2 Fable of the Mirror-Breaker
 2 Darkbore Pathway
-2 Ziatora's Proving Ground
 3 Ziatora's Proving Ground
 4 Ziatora's Proving Ground
 1 Big Score
@@ -46,8 +46,8 @@
 1 Emeria's Call
 1 Jwari Disruption
 1 Deserted Beach
-1 Brightclimb Pathway
 1 Vorinclex, Monstrous Raider
+1 Brightclimb Pathway
 1 Reckoner Bankbuster
 1 Plains
 1 Branchloft Pathway
@@ -61,9 +61,9 @@
 1 Saw It Coming
 1 Path to the World Tree
 2 Forest
-2 Island
 2 Path to the World Tree
 2 Saw It Coming
+2 Island
 2 Swamp
 2 Mountain
 2 Plains
@@ -73,23 +73,23 @@
 1 Magda, Brazen Outlaw
 1 Olivia, Crimson Bride
 1 Tergrid, God of Fright
-1 Baleful Mastery
 1 Bloodline Culling
-1 Ob Nixilis, the Adversary
+1 Baleful Mastery
 1 The Restoration of Eiganjo
+1 Ob Nixilis, the Adversary
 1 Henrika Domnathi
+1 Raffine's Tower
+1 Faithful Mending
 1 Spikefield Hazard
 1 Xander's Lounge
-1 Faithful Mending
-1 Elspeth Resplendent
-1 Shattered Sanctum
 1 Graveyard Shift
+1 Shattered Sanctum
 1 Jin-Gitaxias, Progress Tyrant
+1 Elspeth Resplendent
 1 Sundown Pass
 1 Tainted Indulgence
 1 Sorin the Mirthless
 1 Takenuma, Abandoned Mire
-1 Raffine's Tower
 1 Greasefang, Okiba Boss
 1 Raffine, Scheming Seer
 1 Fateful Absence
@@ -107,9 +107,9 @@
 1 Prismari Campus
 1 Hengegate Pathway
 2 Galazeth Prismari
+2 Jwari Disruption
 2 Smoldering Egg
 2 Lorehold Command
-2 Jwari Disruption
 2 Orb of Dragonkind
 2 Shatterskull Smashing
 2 Prismari Campus
@@ -119,23 +119,23 @@
 1 Bloodchief's Thirst
 1 Soul Shatter
 1 Starnheim Unleashed
-1 Evolving Wilds
+1 Arlinn, the Pack's Hope
 1 Zariel, Archduke of Avernus
 1 Grand Master of Flowers
+1 Evolving Wilds
 1 Cinderclasm
 1 Koma, Cosmos Serpent
 1 Portable Hole
 1 Path to the Festival
 1 Skeletal Swarming
-1 Arlinn, the Pack's Hope
 2 Bloodchief's Thirst
 2 Lolth, Spider Queen
-2 Evolving Wilds
 2 Bloodline Culling
+2 Evolving Wilds
 2 Cinderclasm
 2 Path to the Festival
-3 The Meathook Massacre
 3 Forest
+3 The Meathook Massacre
 3 Bloodchief's Thirst
 3 Evolving Wilds
 3 Swamp
@@ -143,15 +143,15 @@
 1 Negate
 1 Spirit-Sister's Call
 2 Valki, God of Lies
-2 Reckoner Bankbuster
 2 The Celestus
+2 Reckoner Bankbuster
 2 Courier's Briefcase
 2 Spara's Headquarters
 2 Disdainful Stroke
 2 Shipwreck Marsh
+3 Courier's Briefcase
 3 Titan of Industry
 3 Darkbore Pathway
-3 Courier's Briefcase
 3 The Kami War
 3 Spara's Headquarters
 4 Darkbore Pathway
@@ -161,16 +161,16 @@
 4 Spara's Headquarters
 1 Woodland Chasm
 1 Ondu Inversion
-1 Arctic Treeline
 1 Vanquish the Horde
 1 Cleansing Wildfire
 1 Doomskar
 1 Cave of the Frost Dragon
 1 Druid Class
+1 Arctic Treeline
 1 Rimewood Falls
 1 Vastwood Surge
-2 Ondu Inversion
 2 Crawling Barrens
+2 Ondu Inversion
 2 The World Tree
 2 Vanquish the Horde
 2 Cleansing Wildfire
@@ -194,50 +194,50 @@
 1 Shambling Ghast
 1 Bloodthirsty Adversary
 1 Orcus, Prince of Undeath
-1 Snow-Covered Forest
 1 Skullport Merchant
 1 Power Word Kill
 1 Abrade
 1 Nullpriest of Oblivion
-1 Ranger Class
 1 Feed the Swarm
 1 Snow-Covered Swamp
 1 Blood on the Snow
 1 Voldaren Bloodcaster
 1 Snow-Covered Mountain
+1 Ranger Class
 1 Immersturm Predator
+1 Snow-Covered Forest
 1 Jaspera Sentinel
 1 Reclusive Taxidermist
 1 Field of Ruin
 1 Mortality Spear
 1 Dragonkin Berserker
-2 Snow-Covered Forest
 2 Snow-Covered Swamp
 2 Snow-Covered Mountain
-3 Snow-Covered Forest
+2 Snow-Covered Forest
 3 Snow-Covered Swamp
 3 Snow-Covered Mountain
-4 Snow-Covered Forest
+3 Snow-Covered Forest
 4 Snow-Covered Swamp
 4 Snow-Covered Mountain
+4 Snow-Covered Forest
 5 Snow-Covered Swamp
 5 Snow-Covered Mountain
 1 Turntimber Symbiosis
-1 Fight Rigging
-1 In Search of Greatness
+1 Storm the Festival
 1 Riveteers Charm
-1 Sarulf, Realm Eater
 1 Unleash the Inferno
+1 Sarulf, Realm Eater
 1 Battle of Frost and Fire
 1 Jetmir's Garden
-1 Storm the Festival
+1 In Search of Greatness
+1 Fight Rigging
 1 Otawara, Soaring City
 1 Evelyn, the Covetous
-2 Fight Rigging
-2 In Search of Greatness
+2 Deathcap Glade
 2 Unleash the Inferno
 2 Stormcarved Coast
-2 Deathcap Glade
+2 Fight Rigging
+2 In Search of Greatness
 3 Fable of the Mirror-Breaker
 3 In Search of Greatness
 4 In Search of Greatness

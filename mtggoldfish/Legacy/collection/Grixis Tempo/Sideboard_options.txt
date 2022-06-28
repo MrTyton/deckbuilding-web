@@ -39,14 +39,14 @@
 2 Flusterstorm
 1 Engineered Explosives
 1 Liliana, the Last Hope
-1 Cling to Dust
-1 Painful Truths
 1 Opposition Agent
 1 Hullbreacher
 1 Blue Elemental Blast
 1 Test of Talents
 1 Snapcaster Mage
 1 Feed the Swarm
+1 Cling to Dust
+1 Painful Truths
 1 Dress Down
 1 Dread of Night
 2 Sudden Edict
@@ -57,11 +57,6 @@
 1 Stubborn Denial
 2 Hymn to Tourach
 2 Stubborn Denial
-1 Burning Hands
-1 You See a Guard Approach
-1 Kozilek's Return
-1 Echoing Truth
-2 You See a Guard Approach
 1 Tourach, Dread Cantor
 2 Tourach, Dread Cantor
 2 End the Festivities
@@ -69,6 +64,11 @@
 1 Snuff Out
 1 Court of Ire
 2 Fatal Push
+1 Burning Hands
+1 Kozilek's Return
+1 Echoing Truth
+1 You See a Guard Approach
+2 You See a Guard Approach
 2 Maddening Hex
 1 True-Name Nemesis
 2 True-Name Nemesis
@@ -79,9 +79,9 @@
 2 Hurkyl's Recall
 2 Winter Orb
 3 Winter Orb
-1 Young Pyromancer
 1 Chain of Vapor
 1 Duress
-2 Young Pyromancer
+1 Young Pyromancer
 2 Duress
+2 Young Pyromancer
 3 Duress

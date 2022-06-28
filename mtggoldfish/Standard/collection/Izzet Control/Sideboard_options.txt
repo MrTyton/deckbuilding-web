@@ -5,8 +5,8 @@
 1 Torch Breath
 1 Unlicensed Hearse
 1 Heated Debate
-2 Abrade
 2 Torch Breath
+2 Abrade
 2 Unlicensed Hearse
 1 Crush the Weak
 1 Test of Talents
@@ -15,10 +15,10 @@
 1 Introduction to Annihilation
 1 Environmental Sciences
 1 Teachings of the Archaics
-2 Environmental Sciences
 2 Reject
-2 Crush the Weak
+2 Environmental Sciences
 2 Battle of Frost and Fire
+2 Crush the Weak
 2 Test of Talents
 3 Test of Talents
 1 Flame-Blessed Bolt
@@ -30,13 +30,15 @@
 1 Annul
 1 Behold the Multiverse
 1 Pithing Needle
-1 Burn Down the House
 1 The Celestus
 1 Mind Flayer
 2 Heated Debate
 2 Hullbreaker Horror
-2 Annul
 2 Burning Hands
+2 Annul
+1 Seismic Wave
+2 Pithing Needle
+2 Reckoner Bankbuster
 1 Invoke the Winds
 2 Invoke the Winds
 3 Invoke the Winds
@@ -45,6 +47,4 @@
 2 You Find the Villains' Lair
 3 You Find the Villains' Lair
 4 You Find the Villains' Lair
-1 Seismic Wave
-2 Pithing Needle
-2 Reckoner Bankbuster
+1 Burn Down the House

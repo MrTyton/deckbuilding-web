@@ -36,8 +36,8 @@
 |                    1|[Phyrexian Tower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456844)       |                     |              |
 |                    1|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)   |                     |              |
 |                    1|[Crippling Fear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503690)        |                     |              |
-|                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)            |                     |              |
 |                    1|[Witch's Vengeance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473073)     |                     |              |
+|                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)            |                     |              |
 |                    1|[Bastion of Remembrance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479593)|                     |              |
 |                    1|[Liliana's Mastery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426800)     |                     |              |
 |                    1|[Ghoulish Procession](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534873)   |                     |              |

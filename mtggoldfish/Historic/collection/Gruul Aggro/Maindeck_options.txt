@@ -1,67 +1,61 @@
 1 Boseiju, Who Endures
 4 Ahn-Crop Crasher
 1 Hashep Oasis
-2 Hashep Oasis
 4 Ramunap Ruins
-2 Collected Company
-1 Kazandu Mammoth
+2 Hashep Oasis
 3 Mountain
-1 Rockfall Vale
+2 Collected Company
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
 3 Scavenging Ooze
+1 Kazandu Mammoth
+1 Rockfall Vale
+2 Klothys, God of Destiny
 3 Collected Company
-1 Shatterskull Smashing
 3 Den of the Bugbear
 4 Embercleave
-2 Klothys, God of Destiny
 1 Sokenzan, Crucible of Defiance
+1 Shatterskull Smashing
 1 Gallia of the Endless Dance
 1 Rootbound Crag
 2 Boseiju, Who Endures
+2 Rootbound Crag
+2 Gallia of the Endless Dance
+1 Halana and Alena, Partners
 1 Ranger Class
 2 Ranger Class
 2 Rockfall Vale
-2 Rootbound Crag
 4 Mountain
+1 Domri, Anarch of Bolas
+4 Questing Beast
 1 Reckless Stormseeker
 2 Reckless Stormseeker
-2 Gallia of the Endless Dance
-2 Kazandu Mammoth
-1 Werewolf Pack Leader
-1 Halana and Alena, Partners
-4 Questing Beast
 3 Ranger Class
 3 Rootbound Crag
 4 Rootbound Crag
-3 Reckless Stormseeker
-4 Reckless Stormseeker
-1 Rahilda, Wanted Cutthroat
-2 Rahilda, Wanted Cutthroat
+2 Kazandu Mammoth
+1 Werewolf Pack Leader
 2 Werewolf Pack Leader
 3 Werewolf Pack Leader
-1 Forsaken Crossroads
-2 Forsaken Crossroads
 5 Mountain
-3 Kazandu Mammoth
-1 Domri, Anarch of Bolas
 7 Forest
 3 Rampaging Ferocidon
 4 Collected Company
 1 Banefire
-1 Kessig Naturalist
-1 Tenacious Pup
-2 Shatterskull Smashing
-2 Kessig Naturalist
-2 Tenacious Pup
-3 Tenacious Pup
-3 Kessig Naturalist
-4 Tenacious Pup
-4 Kessig Naturalist
+2 Domri, Anarch of Bolas
+3 Gallia of the Endless Dance
 1 Robber of the Rich
 2 Robber of the Rich
 3 Robber of the Rich
 4 Scavenging Ooze
+1 Rahilda, Wanted Cutthroat
+2 Rahilda, Wanted Cutthroat
+3 Reckless Stormseeker
+4 Reckless Stormseeker
+1 Forsaken Crossroads
+2 Forsaken Crossroads
+2 Halana and Alena, Partners
+3 Kazandu Mammoth
 3 Lair of the Hydra
 3 Rockfall Vale
 4 Rockfall Vale
@@ -76,16 +70,14 @@
 2 Abundant Harvest
 1 Cindervines
 2 Cindervines
-2 Domri, Anarch of Bolas
+2 Banefire
 1 Paradise Druid
 2 Paradise Druid
 3 Paradise Druid
-2 Banefire
-3 Gallia of the Endless Dance
 1 Botanical Sanctum
 1 Shifting Ceratops
-1 Spell Pierce
 1 Tormod's Crypt
+1 Spell Pierce
 1 Decisive Denial
 1 Breeding Pool
 1 Gyre Engineer
@@ -95,27 +87,30 @@
 2 Decisive Denial
 2 Gyre Engineer
 3 Decisive Denial
-1 Ill-Tempered Loner
-1 Volatile Arsonist
-1 Thundering Rebuke
-1 Tovolar, Dire Overlord
-2 Ill-Tempered Loner
-2 Thundering Rebuke
-2 Volatile Arsonist
-2 Tovolar, Dire Overlord
-3 Thundering Rebuke
-3 Tovolar, Dire Overlord
-4 Thundering Rebuke
 1 Hazoret the Fervent
 4 Ranger Class
 1 Cemetery Prowler
 4 Rampaging Ferocidon
+1 Torbran, Thane of Red Fell
+1 Birgi, God of Storytelling
+1 Bard Class
+1 Mirror Box
+1 Targ Nar, Demon-Fang Gnoll
+1 Arlinn, the Pack's Hope
+1 Radha, Heart of Keld
+1 Samut, Voice of Dissent
+2 Targ Nar, Demon-Fang Gnoll
+2 Bard Class
+2 Radha, Heart of Keld
+3 Targ Nar, Demon-Fang Gnoll
+3 Bard Class
+3 Radha, Heart of Keld
+3 Domri, Anarch of Bolas
+4 Bard Class
+4 Gallia of the Endless Dance
+4 Targ Nar, Demon-Fang Gnoll
 1 Legion Warboss
 4 Den of the Bugbear
-1 Town-Razer Tyrant
-2 Town-Razer Tyrant
-3 Town-Razer Tyrant
-4 Town-Razer Tyrant
 1 The Great Henge
 1 Steel Leaf Champion
 1 Primal Might
@@ -136,6 +131,26 @@
 4 Kazandu Mammoth
 4 Primal Might
 4 Lovestruck Beast
+1 Volatile Arsonist
+1 Thundering Rebuke
+1 Kessig Naturalist
+1 Ill-Tempered Loner
+1 Tovolar, Dire Overlord
+1 Tenacious Pup
+2 Thundering Rebuke
+2 Volatile Arsonist
+2 Shatterskull Smashing
+2 Ill-Tempered Loner
+2 Tovolar, Dire Overlord
+2 Kessig Naturalist
+2 Tenacious Pup
+3 Thundering Rebuke
+3 Tenacious Pup
+3 Tovolar, Dire Overlord
+3 Kessig Naturalist
+4 Thundering Rebuke
+4 Kessig Naturalist
+4 Tenacious Pup
 1 Transmogrify
 1 Castle Embereth
 1 Chandra, Acolyte of Flame
@@ -179,9 +194,8 @@
 1 Arboreal Grazer
 1 Vivien, Arkbow Ranger
 1 Cemetery Gatekeeper
-2 Cemetery Gatekeeper
 2 Arboreal Grazer
-2 Halana and Alena, Partners
+2 Cemetery Gatekeeper
 2 Vivien, Arkbow Ranger
 3 Halana and Alena, Partners
 3 Arboreal Grazer

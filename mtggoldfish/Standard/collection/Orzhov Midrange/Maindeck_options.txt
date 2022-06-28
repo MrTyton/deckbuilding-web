@@ -1,22 +1,20 @@
 3 The Wandering Emperor
-1 Luminarch Aspirant
-2 Luminarch Aspirant
 7 Plains
 1 Shineshadow Snarl
-3 Luminarch Aspirant
-2 Infernal Grasp
 1 Renegade Reaper
 2 Shineshadow Snarl
-3 Emeria's Call
+1 Luminarch Aspirant
+2 Luminarch Aspirant
 2 Renegade Reaper
 3 Renegade Reaper
+2 Infernal Grasp
+3 Luminarch Aspirant
+3 Emeria's Call
 4 Vanishing Verse
-3 Liesa, Forgotten Archangel
 4 Luminarch Aspirant
 1 The Meathook Massacre
 2 The Meathook Massacre
-2 Rampage of the Valkyries
-5 Swamp
+3 Liesa, Forgotten Archangel
 2 Eiganjo, Seat of the Empire
 1 Tenacious Underdog
 1 Wedding Announcement
@@ -24,7 +22,9 @@
 2 Wedding Announcement
 3 Wedding Announcement
 4 Wedding Announcement
+2 Rampage of the Valkyries
 8 Plains
+5 Swamp
 2 Lolth, Spider Queen
 1 Reidane, God of the Worthy
 1 Silverquill Silencer
@@ -32,7 +32,6 @@
 3 Silverquill Silencer
 1 Raffine's Tower
 3 Hive of the Eye Tyrant
-4 Emeria's Call
 1 Sanctuary Warden
 1 Henrika Domnathi
 2 Reidane, God of the Worthy
@@ -56,6 +55,7 @@
 4 The Wandering Emperor
 4 Tenacious Underdog
 3 Bloodchief's Thirst
+4 Emeria's Call
 2 Henrika Domnathi
 1 Field of Ruin
 1 Starnheim Unleashed
@@ -164,11 +164,11 @@
 4 Blightstep Pathway
 1 Blood on the Snow
 1 Enduring Angel
-1 The Book of Exalted Deeds
 1 Eradicator Valkyrie
 1 Cosmos Elixir
 1 Snow-Covered Swamp
 1 Snow-Covered Plains
+1 The Book of Exalted Deeds
 1 Starnheim Aspirant
 2 Blood on the Snow
 2 Snow-Covered Swamp
@@ -177,11 +177,11 @@
 2 The Book of Exalted Deeds
 2 Eradicator Valkyrie
 2 Starnheim Aspirant
-3 Snow-Covered Plains
 3 Snow-Covered Swamp
+3 Snow-Covered Plains
 3 Starnheim Aspirant
-4 Snow-Covered Swamp
 4 Snow-Covered Plains
+4 Snow-Covered Swamp
 4 Starnheim Aspirant
 4 Renegade Reaper
 5 Snow-Covered Plains
