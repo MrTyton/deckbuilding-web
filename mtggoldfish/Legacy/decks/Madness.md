@@ -74,8 +74,8 @@
 |                     |                                                                                                      |                    1|[Dread of Night](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14580)      |
 |                     |                                                                                                      |                    2|[Dread of Night](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14580)      |
 |                     |                                                                                                      |                    3|[Dread of Night](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14580)      |
+|                     |                                                                                                      |                    4|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)     |
 |                     |                                                                                                      |                    4|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
 |                     |                                                                                                      |                    3|[Meltdown](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10466)            |
 |                     |                                                                                                      |                    4|[Meltdown](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10466)            |
-|                     |                                                                                                      |                    4|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)     |
 

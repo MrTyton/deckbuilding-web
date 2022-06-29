@@ -3,17 +3,20 @@
 4 Fiery Islet
 2 Arid Mesa
 1 Island
+2 Vapor Snag
 1 Unholy Heat
 2 Unholy Heat
 1 Wooded Foothills
-2 Vapor Snag
+3 Mutagenic Growth
+3 Arid Mesa
+1 Gut Shot
 1 Sleight of Hand
 2 Sleight of Hand
 3 Sleight of Hand
-3 Arid Mesa
-1 Gut Shot
+1 Bloodstained Mire
 4 Arid Mesa
-3 Mutagenic Growth
+1 Consider
+2 Consider
 1 Sulfur Falls
 1 Seal of Fire
 2 Sulfur Falls
@@ -23,9 +26,6 @@
 2 Opt
 2 Gut Shot
 2 Wooded Foothills
-1 Bloodstained Mire
-1 Consider
-2 Consider
 3 Opt
 2 Bloodstained Mire
 4 Mountain
@@ -35,13 +35,13 @@
 2 Light Up the Stage
 3 Light Up the Stage
 4 Light Up the Stage
+4 Mutagenic Growth
 1 Underworld Breach
+3 Consider
 1 Ledger Shredder
 2 Ledger Shredder
 3 Bloodstained Mire
 4 Bloodstained Mire
-4 Mutagenic Growth
-3 Consider
 1 Snow-Covered Island
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
@@ -63,5 +63,6 @@
 3 Ledger Shredder
 3 Snow-Covered Mountain
 3 Seal of Fire
+4 Consider
 4 Sleight of Hand
 4 Gut Shot

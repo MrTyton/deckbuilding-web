@@ -66,6 +66,6 @@
 |                    2|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)               |                    2|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)           |
 |                    3|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)               |                    1|Malevolent Hermit                                                                                     |
 |                    4|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)               |                    2|Reidane, God of the Worthy                                                                            |
-|                    3|Barkchannel Pathway                                                                                   |                    2|Malevolent Hermit                                                                                     |
-|                    4|Barkchannel Pathway                                                                                   |                     |                                                                                                      |
+|                    4|Barkchannel Pathway                                                                                   |                    2|Malevolent Hermit                                                                                     |
+|                    3|Barkchannel Pathway                                                                                   |                     |                                                                                                      |
 

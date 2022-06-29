@@ -188,11 +188,11 @@
 1 Soul Transfer
 1 Ray of Enfeeblement
 1 Go Blank
+2 Check for Traps
+2 Spell Pierce
+2 Kotose, the Silent Spider
 1 Starnheim Unleashed
 2 Cave of the Frost Dragon
-2 Spell Pierce
-2 Check for Traps
-2 Kotose, the Silent Spider
 1 Annul
 1 Dennick, Pious Apprentice
 2 Dennick, Pious Apprentice
@@ -204,12 +204,10 @@
 3 Spirited Companion
 2 Sanctuary Warden
 3 Sanctuary Warden
-1 Skybridge Towers
 1 Vanquish the Horde
+1 Skybridge Towers
 2 Skybridge Towers
 3 Hive of the Eye Tyrant
-1 Professor Onyx
-4 Island
 2 Soul Shatter
 4 Infernal Grasp
 1 Flunk
@@ -226,9 +224,9 @@
 1 Containment Construct
 2 Containment Construct
 2 Tezzeret, Betrayer of Flesh
+3 Teferi, Who Slows the Sunset
 3 Portable Hole
 3 Containment Construct
-3 Teferi, Who Slows the Sunset
 4 Luxior, Giada's Gift
 1 Graveyard Shift
 1 Nullpriest of Oblivion
@@ -236,8 +234,8 @@
 2 Nullpriest of Oblivion
 3 Fading Hope
 4 Tainted Indulgence
-1 Obscura Storefront
 1 Geistwave
+1 Obscura Storefront
 1 Shakedown Heavy
 2 Obscura Storefront
 2 Geistwave
@@ -245,33 +243,10 @@
 3 Geistwave
 3 Shakedown Heavy
 4 Geistwave
+1 Professor Onyx
+4 Island
 3 Obscura Charm
 4 Obscura Charm
-1 Silverquill Silencer
-1 Faerie Vandal
-3 Swamp
-4 Plains
-4 Swamp
-5 Plains
-5 Swamp
-6 Swamp
-1 Concealing Curtains
-1 Rite of Oblivion
-1 Henrika Domnathi
-1 Blood on the Snow
-1 The Restoration of Eiganjo
-1 Skullport Merchant
-2 Concealing Curtains
-3 Shambling Ghast
-3 Deadly Dispute
-4 Deadly Dispute
-4 Snow-Covered Swamp
-5 Snow-Covered Swamp
-6 Snow-Covered Swamp
-7 Snow-Covered Swamp
-8 Snow-Covered Swamp
-9 Snow-Covered Swamp
-10 Snow-Covered Swamp
 1 Snow-Covered Island
 1 Queza, Augur of Agonies
 1 The Raven's Warning
@@ -283,3 +258,28 @@
 3 Snow-Covered Plains
 3 The Raven's Warning
 4 The Raven's Warning
+1 The Restoration of Eiganjo
+1 Concealing Curtains
+1 Rite of Oblivion
+1 Skullport Merchant
+1 Blood on the Snow
+1 Henrika Domnathi
+2 Concealing Curtains
+3 Shambling Ghast
+3 Deadly Dispute
+4 Deadly Dispute
+4 Snow-Covered Swamp
+5 Snow-Covered Swamp
+6 Snow-Covered Swamp
+7 Snow-Covered Swamp
+8 Snow-Covered Swamp
+9 Snow-Covered Swamp
+10 Snow-Covered Swamp
+1 Silverquill Silencer
+1 Faerie Vandal
+3 Swamp
+4 Swamp
+4 Plains
+5 Swamp
+6 Swamp
+5 Plains

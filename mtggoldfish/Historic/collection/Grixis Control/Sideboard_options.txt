@@ -11,23 +11,23 @@
 3 Go Blank
 1 Sudden Edict
 2 Sudden Edict
-1 Enter the God-Eternals
-2 Enter the God-Eternals
+1 Ritual of Soot
+1 Thoughtseize
+1 Shadows' Verdict
+1 Noxious Grasp
+2 Unmoored Ego
+1 Cling to Dust
+1 Extinction Event
+1 Disfigure
+1 Duress
+2 Noxious Grasp
+2 Chandra, Awakened Inferno
+1 Abrade
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
-2 Unmoored Ego
-1 Ritual of Soot
-2 Chandra, Awakened Inferno
-1 Noxious Grasp
-1 Duress
-1 Shadows' Verdict
-1 Thoughtseize
-1 Abrade
-1 Cling to Dust
-2 Noxious Grasp
-1 Extinction Event
-1 Disfigure
+1 Enter the God-Eternals
+2 Enter the God-Eternals
 1 Soul Shatter
 1 Innocent Blood
 1 Heartless Act
@@ -37,81 +37,63 @@
 2 Agonizing Remorse
 3 Agonizing Remorse
 4 Mystical Dispute
+2 Thoughtseize
 1 Legion Warboss
 2 Legion Warboss
 3 Legion Warboss
 4 Leyline of the Void
-3 Unmoored Ego
+1 The Scarab God
+1 Yorion, Sky Nomad
 1 Necromentia
+1 Disinformation Campaign
 1 Pharika's Libation
 2 Pharika's Libation
-1 Disinformation Campaign
+1 Soul-Guide Lantern
 1 Test of Talents
-1 Angrath's Rampage
-1 Liliana, Waker of the Dead
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
-1 The Scarab God
+1 Angrath's Rampage
+1 Liliana, Waker of the Dead
 1 Sweltering Suns
+1 The Meathook Massacre
 1 Blood on the Snow
 1 Bedevil
 1 Baleful Mastery
 1 Doom Blade
-1 The Meathook Massacre
 1 Pack Rat
 2 Heartless Act
 1 Hullbreaker Horror
 1 Graveyard Trespasser
-1 Prismari Command
 1 Fry
+1 Prismari Command
 2 Graveyard Trespasser
-1 Nicol Bolas, God-Pharaoh
-1 Patient Rebuilding
-1 Sarkhan the Masterless
-1 Apex of Power
-1 Command the Dreadhorde
-2 Test of Talents
-1 Grim Lavamancer
-2 Grim Lavamancer
 1 Sinister Sabotage
-1 Banefire
 1 Field of Ruin
+1 Banefire
 2 Ashiok, Dream Render
 2 Sinister Sabotage
 1 Gisa, Glorious Resurrector
-1 Phyrexian Obliterator
+1 Relic of Progenitus
 1 Lantern of the Lost
 1 Kolaghan's Command
-1 Relic of Progenitus
+1 Phyrexian Obliterator
 2 Gisa, Glorious Resurrector
 2 Sweltering Suns
-2 Thoughtseize
-1 Dire Fleet Daredevil
-2 Innocent Blood
-2 Dire Fleet Daredevil
+1 Blood Sun
+1 Chandra's Defeat
+2 Blood Sun
+2 Chandra's Defeat
 1 Brazen Borrower
 1 Feed the Swarm
 1 Malevolent Hermit
 1 Tymaret, Chosen from Death
 2 Feed the Swarm
 2 Malevolent Hermit
-1 Blood Sun
-1 Chandra's Defeat
-2 Blood Sun
-2 Chandra's Defeat
 1 Erebos's Intervention
-1 Yorion, Sky Nomad
 1 Hostage Taker
 2 Hostage Taker
 1 Essence Scatter
 2 Essence Scatter
-1 Ashiok's Erasure
-1 Yahenni's Expertise
-1 Thief of Sanity
-2 Liliana, Waker of the Dead
-2 Yahenni's Expertise
-2 Ashiok's Erasure
-2 Thief of Sanity
 1 Spell Pierce
 1 Liliana, Dreadhorde General
 1 Archmage's Charm
@@ -121,16 +103,30 @@
 2 Archmage's Charm
 2 Infernal Reckoning
 2 Soul Shatter
+1 Ashiok's Erasure
+1 Yahenni's Expertise
+1 Thief of Sanity
+2 Yahenni's Expertise
+2 Ashiok's Erasure
+2 Thief of Sanity
+2 Liliana, Waker of the Dead
+1 Dire Fleet Daredevil
+2 Innocent Blood
+2 Dire Fleet Daredevil
+1 Nicol Bolas, God-Pharaoh
+1 Patient Rebuilding
+1 Sarkhan the Masterless
+1 Apex of Power
+1 Command the Dreadhorde
+2 Test of Talents
+3 Unmoored Ego
 2 Ritual of Soot
 3 Aether Gust
-1 Nicol Bolas, Dragon-God
-1 Hour of Devastation
-1 Soul-Guide Lantern
-1 Dragon's Rage Channeler
-2 Dragon's Rage Channeler
-2 Nicol Bolas, Dragon-God
-3 Dragon's Rage Channeler
-4 Dragon's Rage Channeler
+1 Hidetsugu Consumes All
+2 Hidetsugu Consumes All
+3 Thoughtseize
+3 Hidetsugu Consumes All
+4 Thoughtseize
 1 Dreadhorde Butcher
 2 Dreadhorde Butcher
 3 Dreadhorde Butcher
@@ -139,11 +135,18 @@
 4 Legion Warboss
 1 Check for Traps
 2 Check for Traps
-3 Check for Traps
 3 Duress
+3 Check for Traps
 4 Go Blank
 4 Duress
 4 Agonizing Remorse
+1 Nicol Bolas, Dragon-God
+1 Hour of Devastation
+1 Dragon's Rage Channeler
+2 Nicol Bolas, Dragon-God
+2 Dragon's Rage Channeler
+3 Dragon's Rage Channeler
+4 Dragon's Rage Channeler
 1 Disdainful Stroke
 1 Tale's End
 1 Tome of the Infinite

@@ -118,9 +118,9 @@
 3 Sedgemoor Witch
 1 Kalitas, Traitor of Ghet
 1 Paradox Zone
-1 Primeval Titan
 1 Life from the Loam
 1 Island
+1 Primeval Titan
 1 Allosaurus Shepherd
 3 Windswept Heath
 1 Path to Exile
@@ -156,19 +156,19 @@
 1 Bone Shards
 2 Bone Shards
 1 Archon of Valor's Reach
-1 Kaya, Ghost Assassin
 1 Toxic Deluge
 1 Elspeth, Sun's Champion
 1 Nissa, Vital Force
 1 Thragtusk
+1 Kaya, Ghost Assassin
 2 Plains
 1 Jace, the Mind Sculptor
 1 Witherbloom Command
 1 Vivien Reid
 2 Witherbloom Command
 1 Terror of the Peaks
-1 Klothys, God of Destiny
 1 Dauthi Voidwalker
+1 Klothys, God of Destiny
 1 Ruination Rioter
 2 Taiga
 2 Dauthi Voidwalker
@@ -178,9 +178,9 @@
 1 The Scarab God
 2 Leovold, Emissary of Trest
 2 Allosaurus Shepherd
+1 Carth the Lion
 1 Marsh Flats
 1 Nicol Bolas, Planeswalker
-1 Carth the Lion
 1 Innocent Blood
 2 Professor Onyx
 2 Innocent Blood
@@ -198,8 +198,8 @@
 1 Fatal Push
 1 Abundant Harvest
 2 Underground Sea
-2 Abundant Harvest
 2 Fatal Push
+2 Abundant Harvest
 3 Abundant Harvest
 1 Plague Engineer
 2 Hexdrinker
@@ -218,22 +218,12 @@
 3 Feign Death
 4 Grief
 4 Feign Death
-1 Elvish Reclaimer
-1 Korvold, Fae-Cursed King
-1 Fury
-2 Fury
-3 Fury
-4 Mayhem Devil
-1 Urborg, Tomb of Yawgmoth
-1 Veil of Summer
-2 Veil of Summer
-5 Swamp
-1 Overgrown Tomb
 1 Canopy Vista
 1 Dead of Winter
 1 Duress
 1 Kaya, Orzhov Usurper
 1 Fiend Artisan
+1 Overgrown Tomb
 1 Garruk, Cursed Huntsman
 2 Snow-Covered Plains
 2 Duress
@@ -241,3 +231,13 @@
 2 Dead of Winter
 3 Snow-Covered Swamp
 5 Snow-Covered Forest
+1 Urborg, Tomb of Yawgmoth
+1 Veil of Summer
+2 Veil of Summer
+5 Swamp
+1 Elvish Reclaimer
+1 Korvold, Fae-Cursed King
+1 Fury
+2 Fury
+3 Fury
+4 Mayhem Devil

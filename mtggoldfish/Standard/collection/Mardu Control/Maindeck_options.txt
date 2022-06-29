@@ -44,12 +44,12 @@
 4 Experimental Synthesizer
 4 Bloodtithe Harvester
 1 Sokenzan, Crucible of Defiance
-1 Voltage Surge
 1 Voldaren Epicure
-2 Voltage Surge
+1 Voltage Surge
 2 Voldaren Epicure
-3 Voltage Surge
+2 Voltage Surge
 3 Voldaren Epicure
+3 Voltage Surge
 4 Voldaren Epicure
 2 Den of the Bugbear
 1 Pelakka Predation
@@ -61,8 +61,8 @@
 1 Sokenzan Smelter
 2 Sokenzan Smelter
 3 Sokenzan Smelter
-4 Sokenzan Smelter
 4 Voltage Surge
+4 Sokenzan Smelter
 1 Welcoming Vampire
 1 Rite of Oblivion
 2 Humiliate
@@ -77,37 +77,37 @@
 1 Farewell
 1 Soul Shatter
 1 Wind-Scarred Crag
-2 Bloodfell Caves
 2 Wind-Scarred Crag
+2 Bloodfell Caves
 1 Doomskar
 2 Soul Transfer
 1 Angel of Destiny
 2 Angel of Destiny
-1 Village Rites
 1 Kaya the Inexorable
+1 Village Rites
 2 Village Rites
 1 Snow-Covered Plains
 1 Snow-Covered Swamp
 1 Nadaar, Selfless Paladin
 1 Sigarda's Splendor
-1 Teleportation Circle
 1 Snow-Covered Mountain
 1 Callous Bloodmage
-1 Triumphant Adventurer
 1 Obscura Storefront
 1 Debt to the Kami
-1 Rowan, Scholar of Sparks
+1 Triumphant Adventurer
 1 Malakir Rebirth
-1 Taborax, Hope's Demise
+1 Rowan, Scholar of Sparks
+1 Venerable Warsinger
 1 Nullpriest of Oblivion
 1 Baleful Mastery
 1 Vanquish the Horde
 1 Sunset Revelry
 1 Smoldering Egg
-1 Cleric Class
 1 Revitalize
 1 Acererak the Archlich
 1 Potion of Healing
+1 Cleric Class
+1 Taborax, Hope's Demise
 1 Voice of the Blessed
 1 Egon, God of Death
 1 Citizen's Crowbar
@@ -126,7 +126,7 @@
 1 Faithbound Judge
 1 Evolving Wilds
 1 Brutal Cathar
-1 Venerable Warsinger
+1 Teleportation Circle
 1 Reckoner's Bargain
 1 Novice Occultist
 2 Snow-Covered Plains
@@ -136,7 +136,6 @@
 2 Snow-Covered Mountain
 2 Bloodchief's Thirst
 2 Nullpriest of Oblivion
-2 Teleportation Circle
 2 Obscura Storefront
 2 Triumphant Adventurer
 2 Malakir Rebirth
@@ -144,14 +143,15 @@
 2 Doomskar
 2 Rowan, Scholar of Sparks
 2 Revitalize
-2 Cleric Class
 2 Cabaretti Courtyard
 2 Evolving Wilds
 2 Go Blank
 2 Inspiring Overseer
 2 Lithoform Blight
+2 Teleportation Circle
 2 Faithbound Judge
 2 Novice Occultist
+2 Cleric Class
 2 Reckoner's Bargain
 2 Acererak the Archlich
 2 Citizen's Crowbar
@@ -159,9 +159,9 @@
 2 Skull Raid
 2 Spare Supplies
 2 Potion of Healing
-3 Revitalize
 3 Snow-Covered Plains
 3 Snow-Covered Swamp
+3 Revitalize
 3 Bloodchief's Thirst
 3 Snow-Covered Mountain
 3 Path of Peril
@@ -177,11 +177,10 @@
 3 Evolving Wilds
 3 Nullpriest of Oblivion
 3 Cleric Class
-4 Inspiring Overseer
 4 Bloodchief's Thirst
 4 Revitalize
-4 Snow-Covered Swamp
 4 Snow-Covered Plains
+4 Snow-Covered Swamp
 4 Malakir Rebirth
 4 Snow-Covered Mountain
 4 Evolving Wilds
@@ -190,6 +189,7 @@
 4 Obscura Storefront
 4 Cleric Class
 4 Skyclave Cleric
+4 Inspiring Overseer
 5 Snow-Covered Swamp
 5 Snow-Covered Plains
 5 Snow-Covered Mountain
@@ -205,11 +205,11 @@
 2 Swamp
 4 Shambling Ghast
 1 Crippling Fear
-2 Blood Fountain
 2 Shatterskull Smashing
-1 Sanguine Statuette
+2 Blood Fountain
 1 Burn Down the House
 1 Duress
+1 Sanguine Statuette
 2 Sanguine Statuette
 2 Duress
 3 Sanguine Statuette
@@ -224,8 +224,8 @@
 3 Rite of Oblivion
 2 Welcoming Vampire
 3 Welcoming Vampire
-1 Fatal Grudge
 1 Unlucky Witness
+1 Fatal Grudge
 1 Extus, Oriq Overlord
 2 Unlucky Witness
 2 Extus, Oriq Overlord
@@ -239,8 +239,8 @@
 3 Graveyard Trespasser
 1 Florian, Voldaren Scion
 2 Reidane, God of the Worthy
-3 Bloodfell Caves
 3 Wind-Scarred Crag
+3 Bloodfell Caves
 1 Bloodthirsty Adversary
 2 Bloodthirsty Adversary
 2 Rip Apart
@@ -252,19 +252,29 @@
 4 Spirited Companion
 1 Invoke Despair
 1 Scoured Barrens
-1 Velomachus Lorehold
 1 Power Word Kill
+1 Velomachus Lorehold
 1 Eradicator Valkyrie
 2 Invoke Despair
 2 The Celestus
 3 Invoke Despair
 3 The Celestus
 4 Invoke Despair
+1 Lunarch Veteran
+1 Cosmos Elixir
+1 Righteous Valkyrie
+2 Cosmos Elixir
+2 Lunarch Veteran
+2 Righteous Valkyrie
+3 Lunarch Veteran
+3 Righteous Valkyrie
+3 Cosmos Elixir
+4 Lunarch Veteran
 1 Eyetwitch
 1 Eaten Alive
+1 Fireblade Charger
 1 Riveteers Requisitioner
 1 Patch Up
-1 Fireblade Charger
 2 Eyetwitch
 2 Eaten Alive
 2 Fireblade Charger
@@ -281,25 +291,15 @@
 3 Plains
 4 The Restoration of Eiganjo
 4 Plains
-1 Cosmos Elixir
-1 Lunarch Veteran
-1 Righteous Valkyrie
-2 Cosmos Elixir
-2 Righteous Valkyrie
-2 Lunarch Veteran
-3 Lunarch Veteran
-3 Righteous Valkyrie
-3 Cosmos Elixir
-4 Lunarch Veteran
 1 Extraction Specialist
 1 Tenacious Underdog
 2 Kaya the Inexorable
-2 Fatal Grudge
 2 Extraction Specialist
 2 Tenacious Underdog
-3 Fatal Grudge
+2 Fatal Grudge
 3 Unlucky Witness
 3 Extraction Specialist
+3 Fatal Grudge
 3 Swamp
 4 Unlucky Witness
 4 Swamp

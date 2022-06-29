@@ -115,7 +115,7 @@
 |                    2|Restless Bloodseeker                                                                                 |                     |                                                                                                    |
 |                    3|[Bloodfell Caves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433168)           |                     |                                                                                                    |
 |                    3|Restless Bloodseeker                                                                                 |                     |                                                                                                    |
-|                    4|[Bloodfell Caves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433168)           |                     |                                                                                                    |
 |                    4|[Strangle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555326)                  |                     |                                                                                                    |
 |                    4|Restless Bloodseeker                                                                                 |                     |                                                                                                    |
+|                    4|[Bloodfell Caves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433168)           |                     |                                                                                                    |
 

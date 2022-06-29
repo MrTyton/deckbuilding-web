@@ -1,22 +1,20 @@
 3 Binding the Old Gods
 1 Shigeki, Jukai Visionary
 2 Shigeki, Jukai Visionary
-1 Dig Up
 1 Invoke Despair
+1 Dig Up
+1 Woodland Chasm
 2 Invoke Despair
 2 Dig Up
-1 Woodland Chasm
 2 Woodland Chasm
 4 Forest
 3 Shigeki, Jukai Visionary
 3 The Meathook Massacre
 1 March of Wretched Sorrow
-2 Boseiju, Who Endures
 3 Dig Up
 3 Invoke Despair
+2 Boseiju, Who Endures
 1 Field of Ruin
-1 Culling Ritual
-2 March of Wretched Sorrow
 1 Topiary Stomper
 2 Topiary Stomper
 3 Topiary Stomper
@@ -25,35 +23,36 @@
 2 Turntimber Symbiosis
 1 Necroblossom Snarl
 1 Harness Infinity
+1 Culling Ritual
+2 March of Wretched Sorrow
 4 Dig Up
 2 Workshop Warchief
 1 Soul Transfer
 3 March of Wretched Sorrow
-2 Hagra Mauling
-2 Necroblossom Snarl
-3 Woodland Chasm
 1 Bloodchief's Thirst
+2 Hagra Mauling
+3 Woodland Chasm
+2 Necroblossom Snarl
 2 Bloodchief's Thirst
 3 Infernal Grasp
 3 Workshop Warchief
 4 Invoke Despair
 5 Swamp
-2 Culling Ritual
-2 Lair of the Hydra
-2 Soul Transfer
 1 Graveyard Trespasser
 2 Graveyard Trespasser
+1 Check for Traps
+1 Toxrill, the Corrosive
+2 Lair of the Hydra
+2 Soul Transfer
+1 Soul Shatter
+2 Culling Ritual
 1 Tenacious Underdog
 2 Tenacious Underdog
-1 Check for Traps
 2 Check for Traps
-1 Toxrill, the Corrosive
 1 Witherbloom Command
 5 Forest
-4 Shigeki, Jukai Visionary
-1 Lolth, Spider Queen
+3 Graveyard Trespasser
 4 Binding the Old Gods
-1 Soul Shatter
 1 Snow-Covered Forest
 1 Snow-Covered Swamp
 1 Blood on the Snow
@@ -63,19 +62,19 @@
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
+4 Shigeki, Jukai Visionary
 1 Tovolar's Huntmaster
 1 Reckoner Bankbuster
 2 Reckoner Bankbuster
-3 Graveyard Trespasser
 2 Witherbloom Command
 1 Ray of Enfeeblement
 2 Ray of Enfeeblement
 3 Ray of Enfeeblement
+1 Lolth, Spider Queen
 3 Tenacious Underdog
 4 Tenacious Underdog
 1 Tangled Florahedron
 2 Tangled Florahedron
-1 Shambling Ghast
 3 Wrenn and Seven
 2 Field of Ruin
 1 Prosperous Innkeeper
@@ -85,64 +84,65 @@
 4 The Meathook Massacre
 1 Sorin the Mirthless
 2 Sorin the Mirthless
+1 Avabruck Caretaker
+2 Avabruck Caretaker
 1 Tend the Pests
 2 Tend the Pests
-1 Bala Ged Recovery
+1 Diregraf Rebirth
 1 Mortality Spear
 1 Jungle Hollow
 2 Jungle Hollow
 3 Jungle Hollow
-1 Diregraf Rebirth
 1 Blex, Vexing Pest
 1 Old Rutstein
-1 Druid Class
-1 Kura, the Boundless Sky
-2 Druid Class
-2 Kura, the Boundless Sky
-2 Shambling Ghast
-2 Lolth, Spider Queen
-3 Shambling Ghast
-3 Snow-Covered Forest
-4 Shambling Ghast
-6 Snow-Covered Swamp
 6 Forest
+3 Snow-Covered Forest
+6 Snow-Covered Swamp
+7 Snow-Covered Swamp
+1 Junji, the Midnight Sky
+1 Duress
+2 Junji, the Midnight Sky
+2 Toxrill, the Corrosive
 1 Egon, God of Death
+1 Shambling Ghast
 1 Eyetwitch
-1 Field Trip
+1 Skullport Merchant
 1 Unnatural Growth
+1 Ebondeath, Dracolich
 1 Varragoth, Bloodsky Sire
 1 Vorpal Sword
-1 Skullport Merchant
 1 Mask of Griselbrand
-1 Ebondeath, Dracolich
 1 Deadly Dispute
+2 Shambling Ghast
+2 Lolth, Spider Queen
 2 Skullport Merchant
 2 Eyetwitch
 2 Varragoth, Bloodsky Sire
 2 Deadly Dispute
 3 Deadly Dispute
+3 Shambling Ghast
 3 Eyetwitch
 3 Varragoth, Bloodsky Sire
 3 Blood on the Snow
 4 Deadly Dispute
+4 Shambling Ghast
 4 Varragoth, Bloodsky Sire
 4 Eyetwitch
 4 Blood on the Snow
-7 Snow-Covered Swamp
 1 Hero's Downfall
 2 Soul Shatter
 3 Tangled Florahedron
 1 Briarbridge Tracker
 2 Briarbridge Tracker
 3 Briarbridge Tracker
-3 Tend the Pests
 1 Inscription of Ruin
 1 Power Word Kill
 2 Power Word Kill
 2 Old Rutstein
 2 Blex, Vexing Pest
-3 Witherbloom Command
 3 Blex, Vexing Pest
+3 Witherbloom Command
+3 Tend the Pests
 1 Kazandu Mammoth
 1 Emergent Sequence
 2 Kazandu Mammoth
@@ -150,44 +150,32 @@
 2 Emergent Sequence
 3 Emergent Sequence
 1 Werewolf Pack Leader
-1 Avabruck Caretaker
+1 Druid Class
+1 Kura, the Boundless Sky
 2 Werewolf Pack Leader
-2 Avabruck Caretaker
+2 Druid Class
+2 Kura, the Boundless Sky
 3 Werewolf Pack Leader
 3 Bloodchief's Thirst
 4 Infernal Grasp
 4 Bloodchief's Thirst
 4 Werewolf Pack Leader
-1 Go Blank
-1 Fang of Shigeki
-1 Shadows' Verdict
-1 Cragplate Baloth
-1 Callous Bloodmage
-1 Azusa's Many Journeys
-2 Takenuma, Abandoned Mire
-2 Fang of Shigeki
-2 Shadows' Verdict
-2 Azusa's Many Journeys
-2 Bala Ged Recovery
-2 Field Trip
-3 Boseiju, Who Endures
-3 Field Trip
-4 Snow-Covered Forest
 1 Concealing Curtains
 2 Concealing Curtains
 3 Concealing Curtains
 4 Sarulf, Realm Eater
 1 Pelakka Predation
+1 Bala Ged Recovery
 2 Mortality Spear
 3 Hive of the Eye Tyrant
 3 Mortality Spear
 4 Jungle Hollow
 1 Bloodvial Purveyor
 1 Agadeem's Awakening
+1 Glorious Sunrise
+1 Teachings of the Kirin
 1 Vorinclex, Monstrous Raider
 1 Weaver of Harmony
-1 Teachings of the Kirin
-1 Glorious Sunrise
 1 Esika, God of the Tree
 2 Bloodvial Purveyor
 2 Agadeem's Awakening
@@ -209,21 +197,31 @@
 1 Warlock Class
 1 Nighthawk Scavenger
 1 Poet's Quill
-1 Junji, the Midnight Sky
 1 Assassin's Ink
 1 Infuse with Vitality
 1 Deadly Brew
-1 Duress
 1 Rushed Rebirth
 1 Witherbloom Campus
+1 Field Trip
 1 Daemogoth Woe-Eater
-2 Junji, the Midnight Sky
 2 Nighthawk Scavenger
-2 Toxrill, the Corrosive
 2 Deadly Brew
 2 Daemogoth Woe-Eater
 3 Daemogoth Woe-Eater
 6 Swamp
 7 Swamp
-8 Forest
 7 Forest
+8 Forest
+1 Westgate Regent
+1 The World Tree
+1 Path of Peril
+2 The World Tree
+2 Duress
+3 The World Tree
+4 Snow-Covered Forest
+5 Snow-Covered Forest
+6 Snow-Covered Forest
+7 Snow-Covered Forest
+8 Snow-Covered Swamp
+9 Snow-Covered Swamp
+10 Snow-Covered Swamp

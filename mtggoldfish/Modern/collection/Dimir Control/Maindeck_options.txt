@@ -6,9 +6,9 @@
 3 Tainted Indulgence
 3 Archon of Cruelty
 3 Persist
-4 Tainted Indulgence
 4 Persist
 4 Archon of Cruelty
+4 Tainted Indulgence
 2 Scalding Tarn
 2 Dress Down
 2 Bloodchief's Thirst
@@ -56,8 +56,8 @@
 1 Eliminate
 2 Shark Typhoon
 2 Jace, the Mind Sculptor
-1 Snow-Covered Island
 1 Snow-Covered Swamp
+1 Snow-Covered Island
 2 Snow-Covered Island
 3 Scalding Tarn
 4 Murktide Regent
@@ -85,16 +85,16 @@
 4 Slitherwisp
 1 Thought Scour
 2 Thought Scour
-1 Urza's Saga
 1 Shadowspear
 1 Nihil Spellbomb
+1 Urza's Saga
 1 Aether Spellbomb
 2 Urza's Saga
 3 Bloodchief's Thirst
 3 Urza's Saga
-4 Urza's Saga
 4 Bloodchief's Thirst
 4 Bitterblossom
+4 Urza's Saga
 1 Urborg, Tomb of Yawgmoth
 1 Opt
 2 Opt
@@ -128,16 +128,16 @@
 4 Curious Obsession
 4 Scion of Oona
 4 Flooded Strand
-1 Clearwater Pathway
 1 Spell Snare
 1 Tyrant's Scorn
 1 Blast Zone
 1 Heartless Act
 1 Waterlogged Grove
 1 Riptide Laboratory
+1 Clearwater Pathway
 1 Narset, Parter of Veils
-1 Geier Reach Sanitarium
 1 Search for Azcanta
+1 Geier Reach Sanitarium
 2 Narset, Parter of Veils
 1 Collective Brutality
 2 Collective Brutality
@@ -157,18 +157,18 @@
 3 Sedgemoor Witch
 3 Jace, the Mind Sculptor
 3 Tourach, Dread Cantor
+1 Cavern of Souls
+1 Shadow of Doubt
 1 Shipwreck Marsh
 1 Mistbind Clique
 1 Rankle, Master of Pranks
-1 Cavern of Souls
-1 Shadow of Doubt
 1 The Meathook Massacre
 1 Secluded Glen
-2 Sudden Edict
-2 Shipwreck Marsh
 2 Rankle, Master of Pranks
 2 Secluded Glen
+2 Shipwreck Marsh
 2 Shadow of Doubt
+2 Sudden Edict
 2 Mistbind Clique
 3 Swamp
 3 Sudden Edict
@@ -191,8 +191,8 @@
 3 Moon-Circuit Hacker
 3 Ingenious Infiltrator
 3 Changeling Outcast
-4 Moon-Circuit Hacker
 4 Misty Rainforest
+4 Moon-Circuit Hacker
 4 Changeling Outcast
 4 Ingenious Infiltrator
 3 Sunken Ruins
