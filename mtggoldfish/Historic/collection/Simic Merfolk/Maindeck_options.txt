@@ -75,6 +75,7 @@
 1 Rootbound Crag
 1 Shatterskull Smashing
 1 Metallic Mimic
+1 Harmonic Prodigy
 1 Stomping Ground
 1 Reclamation Sage
 1 Goblin Ruinblaster
@@ -85,15 +86,14 @@
 1 Ramunap Ruins
 1 Faceless Agent
 1 Elvish Visionary
-1 Harmonic Prodigy
 1 Llanowar Elves
 1 Burning-Tree Emissary
 1 Rage Forger
 2 Rootbound Crag
+2 Harmonic Prodigy
 2 Shatterskull Smashing
 2 Reclamation Sage
 2 Goblin Ruinblaster
-2 Harmonic Prodigy
 2 Stomping Ground
 2 Goblin Anarchomancer
 2 Cragcrown Pathway
@@ -106,18 +106,18 @@
 2 Rage Forger
 3 Elvish Visionary
 3 Rootbound Crag
+3 Harmonic Prodigy
 3 Faceless Agent
 3 Llanowar Elves
 3 Rage Forger
 3 Burning-Tree Emissary
-3 Harmonic Prodigy
 3 Goblin Anarchomancer
 3 Stomping Ground
 3 Cragcrown Pathway
 4 Elvish Visionary
 4 Rootbound Crag
-4 Burning-Tree Emissary
 4 Harmonic Prodigy
+4 Burning-Tree Emissary
 4 Rage Forger
 4 Stomping Ground
 4 Goblin Anarchomancer
@@ -134,7 +134,7 @@
 3 Merfolk Windrobber
 4 Jungleborn Pioneer
 4 Mist-Cloaked Herald
-6 Forest
+4 Merfolk Windrobber
 7 Forest
 8 Forest
-4 Merfolk Windrobber
+6 Forest

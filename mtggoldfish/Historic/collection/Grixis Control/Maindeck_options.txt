@@ -104,8 +104,8 @@
 4 See the Truth
 2 Island
 2 Field of Ruin
-1 Snow-Covered Mountain
 1 Snow-Covered Swamp
+1 Snow-Covered Mountain
 1 Snow-Covered Island
 2 Snow-Covered Swamp
 1 Disfigure
@@ -186,29 +186,29 @@
 2 Snow-Covered Mountain
 1 Ashiok, Dream Render
 2 Ashiok, Dream Render
-1 Hagra Mauling
-1 Isolated Chapel
-1 Savai Triome
-1 Doom Foretold
-1 Tergrid, God of Fright
-1 Godless Shrine
+1 Negate
+2 Negate
 1 Path of Peril
-1 Phyrexian Obliterator
+1 Hagra Mauling
+1 Savai Triome
+1 Tergrid, God of Fright
 1 Phyrexian Arena
+1 Godless Shrine
+1 Phyrexian Obliterator
+1 Doom Foretold
 1 Gutmorn, Pactbound Servant
+1 Isolated Chapel
 1 Crawling Barrens
 1 Waste Not
 1 Tinybones, Trinket Thief
 2 Tergrid, God of Fright
-2 Castle Locthwain
+2 Phyrexian Arena
+2 Godless Shrine
 2 Path of Peril
 2 Gutmorn, Pactbound Servant
-2 Godless Shrine
 2 Waste Not
 2 Tinybones, Trinket Thief
-2 Phyrexian Arena
-1 Negate
-2 Negate
+2 Castle Locthwain
 2 Shadows' Verdict
 3 Shadows' Verdict
 1 Frostboil Snarl
@@ -226,11 +226,6 @@
 2 Yawgmoth's Vile Offering
 2 Atris, Oracle of Half-Truths
 3 Tyrant's Scorn
-1 Bontu's Last Reckoning
-1 Hieroglyphic Illumination
-1 Cut/Ribbons
-2 The Scarab God
-4 Censor
 1 Woe Strider
 1 Exclude
 1 Spirebluff Canal
@@ -241,6 +236,11 @@
 2 Lier, Disciple of the Drowned
 4 Shipwreck Marsh
 4 Haunted Ridge
+1 Bontu's Last Reckoning
+1 Hieroglyphic Illumination
+1 Cut/Ribbons
+2 The Scarab God
+4 Censor
 1 Stormcarved Coast
 2 Stormcarved Coast
 2 Commit/Memory
@@ -248,9 +248,9 @@
 3 The Meathook Massacre
 4 The Meathook Massacre
 1 Soul Transfer
+1 Rekindling Phoenix
 1 Soul-Guide Lantern
 1 Discovery/Dispersal
-1 Rekindling Phoenix
 2 Mountain
 2 Rekindling Phoenix
 2 Discovery/Dispersal
@@ -267,8 +267,8 @@
 4 Sinister Sabotage
 4 Grasp of Darkness
 1 Cast Down
-2 Disfigure
 2 Cast Down
+2 Disfigure
 3 Cry of the Carnarium
 3 Eliminate
 3 Extinction Event
