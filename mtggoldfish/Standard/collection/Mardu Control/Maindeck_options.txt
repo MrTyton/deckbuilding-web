@@ -83,20 +83,22 @@
 2 Soul Transfer
 1 Angel of Destiny
 2 Angel of Destiny
-1 Kaya the Inexorable
 1 Village Rites
+1 Kaya the Inexorable
 2 Village Rites
-1 Snow-Covered Plains
 1 Snow-Covered Swamp
+1 Snow-Covered Plains
 1 Nadaar, Selfless Paladin
 1 Sigarda's Splendor
+1 Teleportation Circle
 1 Snow-Covered Mountain
 1 Callous Bloodmage
 1 Obscura Storefront
 1 Debt to the Kami
+1 Inspiring Overseer
 1 Triumphant Adventurer
-1 Malakir Rebirth
 1 Rowan, Scholar of Sparks
+1 Malakir Rebirth
 1 Venerable Warsinger
 1 Nullpriest of Oblivion
 1 Baleful Mastery
@@ -120,22 +122,22 @@
 1 Skull Raid
 1 Kessig Wolfrider
 1 Go Blank
-1 Inspiring Overseer
 1 Cabaretti Courtyard
 1 Lithoform Blight
 1 Faithbound Judge
 1 Evolving Wilds
 1 Brutal Cathar
-1 Teleportation Circle
 1 Reckoner's Bargain
 1 Novice Occultist
-2 Snow-Covered Plains
 2 Snow-Covered Swamp
+2 Snow-Covered Plains
 2 Nadaar, Selfless Paladin
 2 Maestros Theater
 2 Snow-Covered Mountain
 2 Bloodchief's Thirst
 2 Nullpriest of Oblivion
+2 Inspiring Overseer
+2 Teleportation Circle
 2 Obscura Storefront
 2 Triumphant Adventurer
 2 Malakir Rebirth
@@ -146,9 +148,7 @@
 2 Cabaretti Courtyard
 2 Evolving Wilds
 2 Go Blank
-2 Inspiring Overseer
 2 Lithoform Blight
-2 Teleportation Circle
 2 Faithbound Judge
 2 Novice Occultist
 2 Cleric Class
@@ -159,11 +159,12 @@
 2 Skull Raid
 2 Spare Supplies
 2 Potion of Healing
-3 Snow-Covered Plains
 3 Snow-Covered Swamp
+3 Snow-Covered Plains
 3 Revitalize
 3 Bloodchief's Thirst
 3 Snow-Covered Mountain
+3 Inspiring Overseer
 3 Path of Peril
 3 Go Blank
 3 Faithbound Judge
@@ -172,15 +173,14 @@
 3 Skull Raid
 3 Malakir Rebirth
 3 Obscura Storefront
-3 Inspiring Overseer
 3 Lithoform Blight
 3 Evolving Wilds
 3 Nullpriest of Oblivion
 3 Cleric Class
 4 Bloodchief's Thirst
 4 Revitalize
-4 Snow-Covered Plains
 4 Snow-Covered Swamp
+4 Snow-Covered Plains
 4 Malakir Rebirth
 4 Snow-Covered Mountain
 4 Evolving Wilds
@@ -260,16 +260,6 @@
 3 Invoke Despair
 3 The Celestus
 4 Invoke Despair
-1 Lunarch Veteran
-1 Cosmos Elixir
-1 Righteous Valkyrie
-2 Cosmos Elixir
-2 Lunarch Veteran
-2 Righteous Valkyrie
-3 Lunarch Veteran
-3 Righteous Valkyrie
-3 Cosmos Elixir
-4 Lunarch Veteran
 1 Eyetwitch
 1 Eaten Alive
 1 Fireblade Charger
@@ -291,6 +281,16 @@
 3 Plains
 4 The Restoration of Eiganjo
 4 Plains
+1 Cosmos Elixir
+1 Lunarch Veteran
+1 Righteous Valkyrie
+2 Cosmos Elixir
+2 Righteous Valkyrie
+2 Lunarch Veteran
+3 Lunarch Veteran
+3 Righteous Valkyrie
+3 Cosmos Elixir
+4 Lunarch Veteran
 1 Extraction Specialist
 1 Tenacious Underdog
 2 Kaya the Inexorable

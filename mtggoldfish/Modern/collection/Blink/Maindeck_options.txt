@@ -93,16 +93,16 @@
 1 Charming Prince
 2 Charming Prince
 2 Skyclave Apparition
-3 Charming Prince
 3 Skyclave Apparition
+3 Charming Prince
 1 Arid Mesa
 1 Giant Killer
-1 Field of Ruin
 1 Thraben Inspector
+1 Field of Ruin
 1 Sun Titan
-1 Ranger-Captain of Eos
 1 Emeria, the Sky Ruin
 1 Marsh Flats
+1 Ranger-Captain of Eos
 1 Spirited Companion
 1 Flickerwisp
 1 Idyllic Grange
@@ -134,8 +134,8 @@
 2 Fable of the Mirror-Breaker
 3 Fable of the Mirror-Breaker
 3 Fury
-1 Stoneforge Mystic
 1 Kaldra Compleat
+1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
@@ -169,39 +169,39 @@
 3 Omen of the Sea
 3 Castle Vantress
 4 Omen of the Sea
-1 Sunbaked Canyon
 1 Eiganjo, Seat of the Empire
-1 Inspiring Vantage
 1 Magus of the Moon
-1 Shatterskull Smashing
 1 Sanctifier en-Vec
 1 Giver of Runes
-1 Lion Sash
-1 Sword of Fire and Ice
-1 Imperial Recruiter
+1 Sunbaked Canyon
 1 Aether Vial
+1 Imperial Recruiter
+1 Sword of Fire and Ice
+1 Lion Sash
 1 Mountain
+1 Shatterskull Smashing
+1 Inspiring Vantage
 2 Seasoned Pyromancer
-2 Inspiring Vantage
 2 Sunbaked Canyon
 2 Mountain
-2 Sacred Foundry
+2 Inspiring Vantage
 2 Giver of Runes
 2 Aether Vial
-2 Shatterskull Smashing
 2 Imperial Recruiter
+2 Sacred Foundry
+2 Shatterskull Smashing
 3 Seasoned Pyromancer
 3 Sunbaked Canyon
 3 Giver of Runes
 3 Sacred Foundry
-3 Imperial Recruiter
 3 Aether Vial
-4 Imperial Recruiter
+3 Imperial Recruiter
 4 Seasoned Pyromancer
 4 Sunbaked Canyon
 4 Sacred Foundry
 4 Giver of Runes
 4 Aether Vial
+4 Imperial Recruiter
 4 Fury
 3 Snow-Covered Plains
 4 Thraben Inspector
@@ -211,8 +211,8 @@
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
-3 Spirited Companion
 3 Marsh Flats
+3 Spirited Companion
 4 Marsh Flats
 4 Plains
 5 Plains
@@ -226,10 +226,22 @@
 1 Subtlety
 1 Venser, Shaper Savant
 3 Eternal Witness
-1 Cascade Bluffs
+1 Noble Hierarch
+1 Vesperlark
+1 Coiling Oracle
+2 Noble Hierarch
+2 Force of Negation
+2 Coiling Oracle
+3 Force of Negation
+3 Noble Hierarch
+3 Soulherder
+3 Coiling Oracle
+4 Force of Negation
+4 Noble Hierarch
 1 Reflecting Pool
-1 Fire/Ice
+1 Cascade Bluffs
 1 Cleansing Wildfire
+1 Fire/Ice
 2 Raugrin Triome
 2 Kiki-Jiki, Mirror Breaker
 2 Cleansing Wildfire
@@ -238,15 +250,3 @@
 3 Cleansing Wildfire
 3 Raugrin Triome
 3 Kiki-Jiki, Mirror Breaker
-1 Noble Hierarch
-1 Vesperlark
-1 Coiling Oracle
-2 Force of Negation
-2 Coiling Oracle
-2 Noble Hierarch
-3 Force of Negation
-3 Soulherder
-3 Coiling Oracle
-3 Noble Hierarch
-4 Force of Negation
-4 Noble Hierarch

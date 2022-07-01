@@ -1,29 +1,22 @@
-4 Portable Hole
+2 Darkbore Pathway
+2 Barkchannel Pathway
 3 Darkbore Pathway
-3 Moon-Blessed Cleric
+1 Archon of Sun's Grace
+2 Steam Vents
 1 Watery Grave
+3 Branchloft Pathway
+3 Fable of the Mirror-Breaker
+4 Risen Reef
 1 The Scarab God
 2 Indatha Triome
-1 Archon of Sun's Grace
-2 Barkchannel Pathway
+1 Breeding Pool
+3 Moon-Blessed Cleric
 1 Godless Shrine
 1 Gloomshrieker
-2 Steam Vents
-1 Renegade Rallier
-3 Branchloft Pathway
-4 Risen Reef
-1 Breeding Pool
-1 Wandering Mind
-1 Dreamroot Cascade
 1 Glacial Fortress
 1 Mountain
-3 Fable of the Mirror-Breaker
-1 Shipwreck Marsh
-1 Shattered Sanctum
-1 Elspeth Conquers Death
-1 Deafening Silence
+1 Renegade Rallier
 1 Temple Garden
-1 Binding the Old Gods
 1 Hengegate Pathway
 2 Hengegate Pathway
 3 Hengegate Pathway
@@ -31,32 +24,39 @@
 4 Hengegate Pathway
 4 Barkchannel Pathway
 4 Branchloft Pathway
+1 Binding the Old Gods
 1 Omen of the Forge
 2 Temple Garden
 3 Temple Garden
 4 Temple Garden
+1 Dreamroot Cascade
 1 Jetmir's Garden
-1 Tatsunari, Toad Rider
 1 Oath of Kaya
+1 Shipwreck Marsh
+1 Shattered Sanctum
+1 Elspeth Conquers Death
+1 Wandering Mind
 1 Hall of Storm Giants
 1 Hallowed Fountain
 2 Glacial Fortress
-3 Steam Vents
 1 Shark Typhoon
+3 Steam Vents
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 4 Fable of the Mirror-Breaker
-1 Castle Ardenvale
 1 Castle Vantress
 1 Supreme Verdict
 1 Otawara, Soaring City
-1 Sokenzan, Crucible of Defiance
-2 Supreme Verdict
 2 Shark Typhoon
+2 Supreme Verdict
 3 Narset, Parter of Veils
-4 Steam Vents
 4 Narset, Parter of Veils
+1 Castle Ardenvale
+1 Sokenzan, Crucible of Defiance
+4 Steam Vents
 1 Eiganjo, Seat of the Empire
+3 Shark Typhoon
+4 Shark Typhoon
 1 The Raven's Warning
 1 March of Otherworldly Light
 1 Irrigated Farmland
@@ -69,26 +69,26 @@
 2 Sokenzan, Crucible of Defiance
 2 Plains
 2 Transmogrify
-2 The Birth of Meletis
 2 Agent of Treachery
+2 The Birth of Meletis
 3 The Raven's Warning
 3 March of Otherworldly Light
-3 Glacial Fortress
 3 The Birth of Meletis
 3 Transmogrify
 3 Plains
-3 Shark Typhoon
+3 Glacial Fortress
 4 The Raven's Warning
 4 March of Otherworldly Light
 4 Transmogrify
 4 The Birth of Meletis
-4 Shark Typhoon
 4 Glacial Fortress
-1 Caves of Koilos
 1 Island
+1 Caves of Koilos
 1 Sunpetal Grove
 2 Sunpetal Grove
 1 Rest in Peace
+1 Deafening Silence
+1 Tatsunari, Toad Rider
 2 Castle Vantress
 1 Deafening Clarion
 1 Omnath, Locus of Creation
@@ -105,12 +105,13 @@
 1 Wolfwillow Haven
 2 Wolfwillow Haven
 3 Wolfwillow Haven
-1 Massacre Girl
 1 Sin Collector
+1 Massacre Girl
 1 Oath of Nissa
 2 Caves of Koilos
 2 Oath of Nissa
 1 Klothys, God of Destiny
+1 The Wandering Emperor
 1 Anger of the Gods
 2 Anger of the Gods
 2 Hinterland Harbor
@@ -122,38 +123,37 @@
 4 Wolfwillow Haven
 1 Touch the Spirit Realm
 2 Breeding Pool
-1 The Wandering Emperor
 2 The Wandering Emperor
 1 Ziatora's Proving Ground
 1 Nicol Bolas, the Ravager
 2 Jetmir's Garden
-4 Fabled Passage
-1 Callous Bloodmage
-1 Sulfur Falls
-1 Nicol Bolas, Dragon-God
 1 Chandra, Awakened Inferno
-1 Fae of Wishes
 1 Interplanar Beacon
+1 Fae of Wishes
 2 Interplanar Beacon
 2 Fae of Wishes
 1 Teferi, Hero of Dominaria
 1 Geier Reach Sanitarium
 1 Elspeth, Sun's Champion
+3 Interplanar Beacon
+3 Fae of Wishes
+4 Interplanar Beacon
+4 Fabled Passage
+1 Callous Bloodmage
+1 Sulfur Falls
+1 Nicol Bolas, Dragon-God
 1 Expressive Iteration
 1 Nicol Bolas, God-Pharaoh
 1 Clifftop Retreat
 2 Expressive Iteration
 3 Anger of the Gods
-3 Interplanar Beacon
-3 Fae of Wishes
 3 Expressive Iteration
 4 Expressive Iteration
-4 Interplanar Beacon
+1 Sundown Pass
 1 Drowned Catacomb
 2 Nicol Bolas, the Ravager
 1 Archon of Emeria
 1 Rip Apart
-1 The Meathook Massacre
 1 Elite Spellbinder
 1 Kunoros, Hound of Athreos
 1 Llanowar Wastes
@@ -162,27 +162,32 @@
 2 Llanowar Wastes
 1 Raffine, Scheming Seer
 2 Archon of Sun's Grace
-1 Sundown Pass
 1 Omen of the Sun
 1 Wish
 2 Deafening Clarion
-2 Irrigated Farmland
 2 Omen of the Sun
+2 Irrigated Farmland
 3 The Wandering Emperor
 1 Oath of Chandra
 2 Dreamroot Cascade
 3 Jetmir's Garden
+1 Commune with Spirits
+1 Lithoform Blight
+1 Snow-Covered Forest
+2 Commune with Spirits
+2 Spirited Companion
+2 Lithoform Blight
+3 Commune with Spirits
 1 Azusa's Many Journeys
 2 Azusa's Many Journeys
 3 Azusa's Many Journeys
-4 Jukai Naturalist
 1 Woodland Cemetery
 1 Charming Prince
 1 Isolated Chapel
 1 Path to the World Tree
 1 Siege Rhino
-1 Swamp
 1 Courser of Kruphix
+1 Swamp
 2 Woodland Cemetery
 2 Binding the Old Gods
 2 Path to the World Tree
@@ -197,19 +202,38 @@
 4 Indatha Triome
 4 Savai Triome
 4 Path to the World Tree
+1 Sweltering Suns
+1 Stormcarved Coast
+1 Deserted Beach
+1 Emeria's Call
+1 Commit/Memory
+1 Gideon of the Trials
+1 Jace, Architect of Thought
+1 Chandra, Torch of Defiance
+2 Deserted Beach
+2 Stormcarved Coast
+2 Sweltering Suns
+2 Gideon of the Trials
+2 Sundown Pass
+3 Deserted Beach
+3 Stormcarved Coast
+3 Sundown Pass
+4 Stormcarved Coast
+4 Sundown Pass
+4 Fae of Wishes
 1 Valki, God of Lies
 1 Riverglide Pathway
 1 Heartless Act
-1 Thoughtseize
 1 Grafdigger's Cage
+1 Thoughtseize
 1 Enter the God-Eternals
 1 Search for Azcanta
 1 Liliana, Dreadhorde General
 1 Ritual of Soot
 1 Bedevil
 1 Blood Crypt
-1 Dragonskull Summit
 1 Clearwater Pathway
+1 Dragonskull Summit
 2 Valki, God of Lies
 2 Chandra, Awakened Inferno
 2 Thoughtseize
@@ -220,9 +244,9 @@
 2 Search for Azcanta
 2 Clearwater Pathway
 2 Ritual of Soot
+2 Drowned Catacomb
 2 Watery Grave
 2 Enter the God-Eternals
-2 Drowned Catacomb
 2 Bedevil
 2 Dragonskull Summit
 3 Watery Grave

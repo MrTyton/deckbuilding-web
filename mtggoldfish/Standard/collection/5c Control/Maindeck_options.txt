@@ -15,8 +15,8 @@
 1 Binding the Old Gods
 1 Valki, God of Lies
 1 Clearwater Pathway
-1 Boseiju, Who Endures
 1 Titan of Industry
+1 Boseiju, Who Endures
 1 Infernal Grasp
 1 Darkbore Pathway
 1 Deathcap Glade
@@ -25,9 +25,9 @@
 3 Binding the Old Gods
 1 The World Tree
 2 Wrenn and Seven
+1 Courier's Briefcase
 1 Disdainful Stroke
 1 Ziatora's Proving Ground
-1 Courier's Briefcase
 1 Spara's Headquarters
 1 Fable of the Mirror-Breaker
 1 The Kami War
@@ -53,8 +53,8 @@
 1 Branchloft Pathway
 2 The Meathook Massacre
 2 Infernal Grasp
-1 Alrund's Epiphany
 1 Crawling Barrens
+1 Alrund's Epiphany
 2 Alrund's Epiphany
 4 Binding the Old Gods
 1 Lair of the Hydra
@@ -76,13 +76,13 @@
 1 Bloodline Culling
 1 Tergrid, God of Fright
 1 Jin-Gitaxias, Progress Tyrant
-1 Faithful Mending
 1 Tainted Indulgence
 1 Raffine's Tower
 1 Sorin the Mirthless
 1 Luminarch Aspirant
 1 Takenuma, Abandoned Mire
 1 Greasefang, Okiba Boss
+1 Faithful Mending
 1 Raffine, Scheming Seer
 1 Fateful Absence
 1 Xander's Lounge
@@ -97,7 +97,6 @@
 1 Elspeth Resplendent
 1 Graveyard Shift
 1 Ob Nixilis, the Adversary
-1 Hall of Oracles
 1 Smoldering Egg
 1 Lorehold Command
 1 Galazeth Prismari
@@ -105,6 +104,7 @@
 1 Orb of Dragonkind
 1 Prismari Campus
 1 Hengegate Pathway
+1 Hall of Oracles
 1 Tyrite Sanctum
 2 Smoldering Egg
 2 Lorehold Command
@@ -177,6 +177,7 @@
 2 Druid Class
 2 The World Tree
 2 Cleansing Wildfire
+3 Wrenn and Seven
 3 Doomskar
 3 Vanquish the Horde
 3 Alrund's Epiphany
@@ -184,7 +185,6 @@
 3 The World Tree
 3 Crawling Barrens
 3 Cleansing Wildfire
-3 Wrenn and Seven
 3 Druid Class
 4 Doomskar
 4 Vanquish the Horde

@@ -20,8 +20,8 @@
 3 Scalding Tarn
 1 Eiganjo, Seat of the Empire
 1 Sacred Foundry
-1 Ensnaring Bridge
 1 Whir of Invention
+1 Ensnaring Bridge
 2 Whir of Invention
 3 Moonsnare Prototype
 2 Plains
@@ -54,12 +54,12 @@
 1 Spire of Industry
 2 Aether Spellbomb
 1 Adarkar Wastes
+1 Dispatch
+1 Expedition Map
+1 Academy Ruins
+2 Dispatch
 1 Spirebluff Canal
 2 Sacred Foundry
-1 Dispatch
-1 Academy Ruins
-1 Expedition Map
-2 Dispatch
 3 Teferi, Time Raveler
 1 Tribute Mage
 1 Pyrite Spellbomb
@@ -83,17 +83,17 @@
 1 Marsh Flats
 1 Solitude
 2 Adarkar Wastes
-2 Thraben Inspector
 2 Springleaf Drum
+2 Thraben Inspector
 2 Solitude
 3 Adarkar Wastes
 3 Thraben Inspector
 3 Plains
 3 Solitude
 3 Springleaf Drum
-4 Solitude
-4 Thraben Inspector
 4 Adarkar Wastes
+4 Thraben Inspector
+4 Solitude
 1 Thoughtcast
 2 Unlicensed Hearse
 2 Thoughtcast
@@ -105,13 +105,33 @@
 1 Spell Pierce
 1 Sword of Fire and Ice
 2 Tribute Mage
-1 Ichor Wellspring
-3 Spire of Industry
 1 Watery Grave
 1 Welding Jar
 2 Polluted Delta
 3 Relic of Progenitus
+1 Ichor Wellspring
+3 Spire of Industry
 3 Aether Spellbomb
+1 Boseiju, Who Endures
+1 Gilded Goose
+1 Snow-Covered Forest
+1 Mox Amber
+1 Unholy Heat
+1 Snow-Covered Island
+1 Breeding Pool
+1 Wrenn and Six
+1 Ketria Triome
+1 Stomping Ground
+2 Unholy Heat
+2 Gilded Goose
+2 Engineered Explosives
+2 Boseiju, Who Endures
+2 Wrenn and Six
+2 Mox Amber
+3 Wrenn and Six
+3 Gilded Goose
+4 Wrenn and Six
+4 Gilded Goose
 1 Patchwork Automaton
 1 Oswald Fiddlebender
 2 Patchwork Automaton
@@ -120,30 +140,10 @@
 4 Patchwork Automaton
 3 Ensnaring Bridge
 3 Spellskite
-4 Ensnaring Bridge
 4 Spellskite
-1 Breeding Pool
-1 Gilded Goose
-1 Snow-Covered Island
-1 Mox Amber
-1 Unholy Heat
-1 Snow-Covered Forest
-1 Wrenn and Six
-1 Ketria Triome
-1 Stomping Ground
-1 Boseiju, Who Endures
-2 Gilded Goose
-2 Engineered Explosives
-2 Unholy Heat
-2 Wrenn and Six
-2 Mox Amber
-2 Boseiju, Who Endures
-3 Wrenn and Six
-3 Gilded Goose
-4 Wrenn and Six
-4 Gilded Goose
-1 Glimmervoid
+4 Ensnaring Bridge
 1 The Underworld Cookbook
+1 Glimmervoid
 1 Witching Well
 2 Glimmervoid
 2 Witching Well

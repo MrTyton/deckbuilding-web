@@ -1,10 +1,10 @@
-3 Seachrome Coast
-2 Blacksmith's Skill
-2 Arid Mesa
-4 Plains
-1 Nettlecyst
+1 Memnite
+2 Memnite
+3 Memnite
 1 Paradise Mantle
+1 Nettlecyst
 2 Steelshaper's Gift
+4 Plains
 4 Memnite
 1 Snow-Covered Plains
 2 Snow-Covered Plains
@@ -20,8 +20,8 @@
 8 Snow-Covered Plains
 9 Snow-Covered Plains
 10 Snow-Covered Plains
-1 Eiganjo, Seat of the Empire
 1 Sword of Fire and Ice
+1 Eiganjo, Seat of the Empire
 3 Giver of Runes
 1 Cranial Plating
 2 Paradise Mantle
@@ -30,10 +30,12 @@
 3 Flooded Strand
 3 Windswept Heath
 3 Marsh Flats
-4 Springleaf Drum
 4 Windswept Heath
-1 Mishra's Bauble
+4 Springleaf Drum
+4 Marsh Flats
+1 Lion Sash
 1 Ingenious Smith
+1 Mishra's Bauble
 2 Ingenious Smith
 2 Mishra's Bauble
 3 Ingenious Smith
@@ -41,16 +43,8 @@
 3 Mishra's Bauble
 4 Ingenious Smith
 4 Seachrome Coast
-3 Blacksmith's Skill
-4 Marsh Flats
-1 Lion Sash
 3 Arid Mesa
-5 Plains
-6 Plains
-7 Plains
-8 Plains
-9 Plains
-10 Plains
+3 Blacksmith's Skill
 1 Horizon Canopy
 1 Sword of War and Peace
 4 Arid Mesa
@@ -74,7 +68,9 @@
 4 Devoted Druid
 1 Sunbaked Canyon
 4 Inkmoth Nexus
-4 Blacksmith's Skill
-11 Plains
-12 Plains
-13 Plains
+5 Plains
+6 Plains
+7 Plains
+8 Plains
+9 Plains
+10 Plains
