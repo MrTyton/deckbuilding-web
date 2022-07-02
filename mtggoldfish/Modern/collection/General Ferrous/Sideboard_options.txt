@@ -1,14 +1,14 @@
-3 Rest in Peace
-1 Chalice of the Void
-2 Chalice of the Void
+1 Jegantha, the Wellspring
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
 4 Force of Vigor
+2 Hidetsugu Consumes All
 1 Solitude
 2 Solitude
+1 Chalice of the Void
+2 Chalice of the Void
 1 Plague Engineer
 2 Plague Engineer
-2 Hidetsugu Consumes All
-1 Damping Sphere
-2 Damping Sphere
 3 Plague Engineer
 1 Stony Silence
 1 Rakdos Charm
@@ -19,7 +19,6 @@
 3 Leyline of the Void
 4 Leyline of the Void
 1 Ashiok, Dream Render
-1 Thrun, the Last Troll
 1 Cindervines
 1 Void Mirror
 1 Disenchant
@@ -37,33 +36,36 @@
 3 Void Mirror
 3 Deafening Clarion
 1 Tempest of Light
-1 Fury
-1 Assassin's Trophy
 1 Knight of Autumn
 2 Knight of Autumn
-1 Engineered Explosives
+1 Assassin's Trophy
+1 Unmoored Ego
+2 Unmoored Ego
 1 Meddling Mage
 2 Meddling Mage
+1 Fury
 1 Endurance
 2 Endurance
 1 Wear/Tear
 2 Wear/Tear
-1 Obsidian Charmaw
-2 Engineered Explosives
 1 Dovin's Veto
 2 Dovin's Veto
+1 Obsidian Charmaw
+1 Thrun, the Last Troll
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 2 Stony Silence
+1 Engineered Explosives
 1 Lightning Helix
 1 Veil of Summer
 2 Veil of Summer
 1 Boseiju, Who Endures
-1 Prismatic Ending
-2 Prismatic Ending
-1 Destructive Revelry
+3 Meddling Mage
+2 Fury
 1 Ajani Vengeant
+1 Gut Shot
+2 Gut Shot
 1 Nihil Spellbomb
 2 Nihil Spellbomb
 1 Relic of Progenitus
@@ -87,11 +89,24 @@
 1 Qasali Ambusher
 2 Qasali Ambusher
 2 Lightning Helix
-3 Meddling Mage
+1 Blood Moon
+1 Sanctifier en-Vec
+1 Hallowed Moonlight
+1 Sundering Growth
+1 Deflecting Palm
+2 Blood Moon
+2 Sundering Growth
+2 Sanctifier en-Vec
+2 Hallowed Moonlight
+2 Deflecting Palm
+3 Blood Moon
 1 Detention Sphere
+1 Prismatic Ending
 1 Collector Ouphe
 1 Riveteers Charm
+2 Prismatic Ending
 3 Prismatic Ending
+2 Engineered Explosives
 2 Obsidian Charmaw
 3 Wear/Tear
 1 Anafenza, the Foremost
@@ -100,15 +115,6 @@
 1 Klothys, God of Destiny
 2 Klothys, God of Destiny
 3 Path to Exile
-1 Blood Moon
-1 Sanctifier en-Vec
-1 Sundering Growth
-1 Deflecting Palm
-2 Blood Moon
-2 Sundering Growth
-2 Sanctifier en-Vec
-2 Deflecting Palm
-3 Sanctifier en-Vec
 2 Ashiok, Dream Render
 2 Thrun, the Last Troll
 3 Chalice of the Void
@@ -116,12 +122,6 @@
 4 Chalice of the Void
 3 Lavinia, Azorius Renegade
 4 Leyline of Sanctity
-2 Fury
-3 Endurance
-3 Alpine Moon
-4 Endurance
-1 Unmoored Ego
-2 Unmoored Ego
 1 Emrakul, the Promised End
 1 Force of Negation
 1 Yorion, Sky Nomad
@@ -140,13 +140,11 @@
 3 Unmoored Ego
 4 Rip Apart
 4 Meddling Mage
-1 Weather the Storm
-2 Weather the Storm
-3 Engineered Explosives
-3 Weather the Storm
-4 Weather the Storm
 1 Crumble to Dust
 2 Crumble to Dust
 3 Crumble to Dust
 3 Dovin's Veto
 4 Crumble to Dust
+3 Endurance
+3 Alpine Moon
+4 Endurance

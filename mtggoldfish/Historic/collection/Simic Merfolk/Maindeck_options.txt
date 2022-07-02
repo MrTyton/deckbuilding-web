@@ -38,9 +38,9 @@
 5 Forest
 1 Kira, Great Glass-Spinner
 1 Malevolent Hermit
-2 Boseiju, Who Endures
 1 Archmage's Charm
 2 Archmage's Charm
+2 Boseiju, Who Endures
 1 Fading Hope
 2 Fading Hope
 1 Soul-Guide Lantern
@@ -74,7 +74,6 @@
 4 Shaper Apprentice
 1 Rootbound Crag
 1 Shatterskull Smashing
-1 Elvish Visionary
 1 Metallic Mimic
 1 Stomping Ground
 1 Reclamation Sage
@@ -85,12 +84,12 @@
 1 Mountain
 1 Ramunap Ruins
 1 Faceless Agent
+1 Elvish Visionary
 1 Harmonic Prodigy
 1 Llanowar Elves
 1 Burning-Tree Emissary
 1 Rage Forger
 2 Rootbound Crag
-2 Elvish Visionary
 2 Shatterskull Smashing
 2 Reclamation Sage
 2 Goblin Ruinblaster
@@ -99,13 +98,14 @@
 2 Goblin Anarchomancer
 2 Cragcrown Pathway
 2 Burning-Tree Emissary
+2 Elvish Visionary
 2 Metallic Mimic
 2 Faceless Agent
 2 Llanowar Elves
 2 Ramunap Ruins
 2 Rage Forger
-3 Rootbound Crag
 3 Elvish Visionary
+3 Rootbound Crag
 3 Faceless Agent
 3 Llanowar Elves
 3 Rage Forger
@@ -114,8 +114,8 @@
 3 Goblin Anarchomancer
 3 Stomping Ground
 3 Cragcrown Pathway
-4 Rootbound Crag
 4 Elvish Visionary
+4 Rootbound Crag
 4 Goblin Anarchomancer
 4 Burning-Tree Emissary
 4 Harmonic Prodigy
@@ -134,7 +134,7 @@
 3 Merfolk Windrobber
 4 Jungleborn Pioneer
 4 Mist-Cloaked Herald
-4 Merfolk Windrobber
+6 Forest
 7 Forest
 8 Forest
-6 Forest
+4 Merfolk Windrobber

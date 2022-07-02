@@ -127,22 +127,22 @@
 2 Prosperous Innkeeper
 3 Prosperous Innkeeper
 4 Karn, the Great Creator
-1 Sundown Pass
-1 Showdown of the Skalds
 1 Blood Fountain
 1 Godless Shrine
+1 Sundown Pass
 1 Needleverge Pathway
 1 Brightclimb Pathway
 1 Goblin Engineer
+1 Showdown of the Skalds
 1 Sacred Foundry
-2 Blood Fountain
-2 Showdown of the Skalds
 2 Sundown Pass
+2 Blood Fountain
 2 Voltage Surge
 2 Needleverge Pathway
+2 Showdown of the Skalds
 3 Sundown Pass
-3 Showdown of the Skalds
 3 Voltage Surge
+3 Showdown of the Skalds
 4 Showdown of the Skalds
 4 Voltage Surge
 1 Shambling Ghast
@@ -154,15 +154,15 @@
 4 Shambling Ghast
 1 Rootbound Crag
 1 Infernal Grasp
-2 Infernal Grasp
 2 Rootbound Crag
+2 Infernal Grasp
 3 Infernal Grasp
 4 Infernal Grasp
 1 Ulamog, the Ceaseless Hunger
 1 Approach of the Second Sun
+1 Ugin, the Spirit Dragon
 1 Ruinous Ultimatum
 1 Attune with Aether
-1 Ugin, the Spirit Dragon
 1 Aether Hub
 1 Servant of the Conduit
 1 Glimmer of Genius
@@ -171,10 +171,9 @@
 1 Island
 1 Aetherworks Marvel
 1 Rogue Refiner
-2 Plains
 2 Ulamog, the Ceaseless Hunger
-2 Approach of the Second Sun
 2 Liliana, Dreadhorde General
+2 Plains
 2 Ugin, the Spirit Dragon
 2 Rogue Refiner
 2 Island
@@ -185,25 +184,26 @@
 2 Aether Hub
 2 Glimmer of Genius
 2 Ruinous Ultimatum
-3 Forest
-3 Plains
+2 Approach of the Second Sun
+3 Island
 3 Approach of the Second Sun
+3 Forest
 3 Glimmer of Genius
 3 Ugin, the Spirit Dragon
 3 Rogue Refiner
 3 Attune with Aether
 3 Woodweaver's Puzzleknot
+3 Plains
 3 Aetherworks Marvel
 3 Aether Hub
 3 Ruinous Ultimatum
-3 Island
 3 Servant of the Conduit
-4 Forest
 4 Woodweaver's Puzzleknot
 4 Ugin, the Spirit Dragon
 4 Glimmer of Genius
 4 Attune with Aether
 4 Aether Hub
+4 Forest
 5 Forest
 6 Forest
 1 Bloodchief's Thirst

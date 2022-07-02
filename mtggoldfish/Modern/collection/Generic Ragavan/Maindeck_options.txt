@@ -1,52 +1,46 @@
-1 Wooded Foothills
-4 Light Up the Stage
-3 Steam Vents
-1 Reckless Impulse
-2 Reckless Impulse
 3 Reckless Impulse
 4 Reckless Impulse
-3 Fiery Islet
+4 Mountain
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
 4 Manamorphose
-3 Soul-Scar Mage
-4 Soul-Scar Mage
-1 Sprite Dragon
-2 Sprite Dragon
-3 Sprite Dragon
-4 Sprite Dragon
-4 Mountain
-4 Arid Mesa
-1 Sokenzan, Crucible of Defiance
+2 Fiery Islet
+2 Sacred Foundry
+1 Light Up the Stage
 1 Consider
 2 Consider
-2 Sacred Foundry
-4 Unholy Heat
-2 Wooded Foothills
-4 Spirebluff Canal
-1 Sunbaked Canyon
+3 Unholy Heat
+2 Light Up the Stage
+3 Light Up the Stage
+3 Soul-Scar Mage
+4 Soul-Scar Mage
 3 Underworld Breach
+1 Wooded Foothills
+4 Light Up the Stage
 3 Bloodstained Mire
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-2 Sunbaked Canyon
-1 Ledger Shredder
-2 Ledger Shredder
-3 Ledger Shredder
-4 Ledger Shredder
-1 Den of the Bugbear
-2 Den of the Bugbear
+1 Sunbaked Canyon
 1 Birgi, God of Storytelling
 1 Grapeshot
 2 Birgi, God of Storytelling
 3 Birgi, God of Storytelling
 4 Birgi, God of Storytelling
 4 Underworld Breach
-1 Sleight of Hand
-2 Sleight of Hand
-3 Sleight of Hand
+1 Den of the Bugbear
+2 Den of the Bugbear
+1 Ledger Shredder
+2 Ledger Shredder
+3 Ledger Shredder
+4 Ledger Shredder
+2 Sunbaked Canyon
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
 3 Consider
+3 Fiery Islet
+1 Sprite Dragon
+2 Sprite Dragon
+3 Sprite Dragon
+4 Sprite Dragon
 1 Gut Shot
 1 Vapor Snag
 1 Stormwing Entity
@@ -55,7 +49,12 @@
 3 Stormwing Entity
 4 Stormwing Entity
 3 Snow-Covered Mountain
+4 Unholy Heat
+1 Spell Pierce
+2 Spell Pierce
 1 Serum Visions
+2 Wooded Foothills
+4 Spirebluff Canal
 1 Path to Exile
 3 Mutagenic Growth
 4 Snow-Covered Mountain
@@ -63,30 +62,25 @@
 6 Snow-Covered Mountain
 1 Flooded Strand
 2 Flooded Strand
+1 Seal of Fire
+2 Seal of Fire
 1 Island
-4 Fiery Islet
 1 Desperate Ritual
 1 Unlicensed Hearse
 2 Unlicensed Hearse
 1 Thought Scour
+4 Consider
 1 Prismatic Ending
 2 Prismatic Ending
 3 Prismatic Ending
-4 Consider
-1 Spell Pierce
-2 Spell Pierce
 3 Sunbaked Canyon
 4 Sunbaked Canyon
-1 Chandra, Dressed to Kill
-2 Chandra, Dressed to Kill
+1 Seal of Removal
 4 Bloodstained Mire
-2 Path to Exile
-1 Bedlam Reveler
-4 Sleight of Hand
 1 Teferi, Time Raveler
 1 Monastery Mentor
-1 Counterspell
 1 Hallowed Fountain
+1 Counterspell
 2 Monastery Mentor
 2 Counterspell
 2 Hallowed Fountain
@@ -107,15 +101,20 @@
 3 Fable of the Mirror-Breaker
 3 Frantic Inventory
 4 Frantic Inventory
-1 Seal of Fire
-2 Seal of Fire
+2 Path to Exile
+1 Sleight of Hand
+1 Bedlam Reveler
+2 Sleight of Hand
+3 Sleight of Hand
+5 Mountain
+6 Mountain
 1 Spikefield Hazard
 1 Brazen Borrower
-1 Seal of Removal
 1 Opt
-2 Vapor Snag
 2 Opt
+2 Vapor Snag
 3 Opt
+4 Sleight of Hand
 1 Mox Amber
 1 Experimental Frenzy
 1 Blood Moon
@@ -139,8 +138,8 @@
 2 Inquisition of Kozilek
 2 Fatal Push
 2 Kroxa, Titan of Death's Hunger
-2 Polluted Delta
 2 Drown in the Loch
+2 Polluted Delta
 2 Blood Crypt
 2 Thoughtseize
 2 Blackcleave Cliffs
@@ -152,8 +151,8 @@
 4 Drown in the Loch
 4 Polluted Delta
 1 Dryad Arbor
-1 Signal Pest
 1 Goblin Guide
+1 Signal Pest
 1 Goblin Bushwhacker
 1 Bomat Courier
 1 Legion Loyalist
@@ -174,10 +173,10 @@
 3 Goblin Guide
 3 Burning-Tree Emissary
 3 Memnite
-3 Signal Pest
+3 Bomat Courier
 3 Reckless Bushwhacker
 3 Goblin Bushwhacker
-3 Bomat Courier
+3 Signal Pest
 3 Legion Loyalist
 4 Wooded Foothills
 4 Goblin Guide
@@ -188,5 +187,36 @@
 4 Reckless Bushwhacker
 4 Goblin Bushwhacker
 4 Legion Loyalist
-5 Mountain
-6 Mountain
+1 Lava Spike
+1 Bonecrusher Giant
+1 Boros Charm
+1 Kumano Faces Kakkazan
+1 Plains
+1 Mutavault
+1 Lightning Helix
+1 Flame Rift
+1 Viashino Pyromancer
+1 Keldon Marauders
+2 Lava Spike
+2 Sokenzan, Crucible of Defiance
+2 Bonecrusher Giant
+2 Boros Charm
+2 Kumano Faces Kakkazan
+2 Lightning Helix
+2 Viashino Pyromancer
+2 Keldon Marauders
+2 Flame Rift
+3 Lava Spike
+3 Lightning Helix
+3 Viashino Pyromancer
+3 Boros Charm
+3 Sacred Foundry
+3 Flame Rift
+3 Keldon Marauders
+4 Lightning Helix
+4 Lava Spike
+4 Sacred Foundry
+4 Keldon Marauders
+4 Boros Charm
+4 Viashino Pyromancer
+4 Flame Rift

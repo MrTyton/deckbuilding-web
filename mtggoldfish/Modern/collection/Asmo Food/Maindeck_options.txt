@@ -1,5 +1,3 @@
-1 Darkslick Shores
-2 Darkslick Shores
 1 Street Wraith
 2 Street Wraith
 3 Street Wraith
@@ -7,12 +5,14 @@
 4 Street Wraith
 1 Bloodstained Mire
 2 Bloodstained Mire
-3 Darkslick Shores
 1 Mountain
+1 Darkslick Shores
+2 Darkslick Shores
+3 Darkslick Shores
 1 Verdant Catacombs
 1 Yavimaya, Cradle of Growth
-1 Finale of Devastation
 1 Forest
+1 Finale of Devastation
 2 Finale of Devastation
 3 Finale of Devastation
 4 Finale of Devastation
@@ -42,21 +42,21 @@
 4 Cauldron Familiar
 4 Witch's Oven
 1 Scalding Tarn
+1 Spirebluff Canal
+1 Steam Vents
+2 Scalding Tarn
+2 Steam Vents
+3 Scalding Tarn
 1 Reinforced Ronin
 1 Memnite
-1 Spirebluff Canal
 1 Riddlesmith
 1 Voldaren Epicure
 1 Vengevine
-1 Steam Vents
-2 Scalding Tarn
 2 Reinforced Ronin
 2 Memnite
 2 Voldaren Epicure
 2 Vengevine
-2 Steam Vents
 2 Riddlesmith
-3 Scalding Tarn
 3 Memnite
 3 Vengevine
 3 Voldaren Epicure
@@ -64,46 +64,57 @@
 4 Vengevine
 3 Bloodstained Mire
 4 Bloodstained Mire
+3 Steam Vents
+4 Steam Vents
+4 Scalding Tarn
 2 Marsh Flats
 1 Blood Crypt
 2 Flooded Strand
 4 Darkslick Shores
 2 Springleaf Drum
-3 Steam Vents
-4 Steam Vents
-4 Scalding Tarn
 4 Voldaren Epicure
 1 Darkbore Pathway
 2 Darkbore Pathway
 3 Darkbore Pathway
 4 Darkbore Pathway
 3 Trail of Crumbs
+1 Blazing Rootwalla
+2 Blazing Rootwalla
+3 Blazing Rootwalla
 1 Boseiju, Who Endures
+2 Spirebluff Canal
+2 Island
 3 Feasting Troll King
 2 Godless Shrine
-1 Takenuma, Abandoned Mire
 1 Wooded Foothills
 2 Wooded Foothills
 3 Wooded Foothills
 4 Wooded Foothills
+1 Galvanic Blast
+2 Galvanic Blast
+2 Mountain
+3 Galvanic Blast
+1 Takenuma, Abandoned Mire
 1 Bone Shards
 2 Bone Shards
-1 Arid Mesa
-2 Arid Mesa
-1 Blazing Rootwalla
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
+4 Ragavan, Nimble Pilferer
 1 Ox of Agonas
 1 Burning Inquiry
 2 Burning Inquiry
-2 Blazing Rootwalla
 3 Burning Inquiry
-3 Blazing Rootwalla
 4 Burning Inquiry
+1 Arid Mesa
+2 Arid Mesa
 1 Blackcleave Cliffs
 2 Blackcleave Cliffs
 2 Blood Crypt
 3 Blood Crypt
 3 Blackcleave Cliffs
 4 Blackcleave Cliffs
+1 Aether Vial
 1 Devoted Druid
 1 Luxior, Giada's Gift
 1 Wrenn and Six
@@ -113,49 +124,45 @@
 3 Devoted Druid
 3 Wrenn and Six
 4 Devoted Druid
-1 Snow-Covered Island
-1 Snow-Covered Swamp
+1 Plains
+1 Sacred Foundry
 1 Wonder
-2 Spirebluff Canal
-2 Island
 2 Swamp
 3 Bone Shards
-1 Sokenzan, Crucible of Defiance
+1 Mox Amber
+1 Pyrite Spellbomb
+1 Thought Monitor
+2 Thought Monitor
+3 Spirebluff Canal
+3 Overgrown Tomb
+4 Overgrown Tomb
+4 Trail of Crumbs
 1 Persist
 1 Seasoned Pyromancer
 1 Fury
 1 Kolaghan's Command
 1 Thoughtseize
-1 Ragavan, Nimble Pilferer
 1 Lightning Bolt
 1 Archon of Cruelty
+1 Sokenzan, Crucible of Defiance
 2 Persist
 2 Seasoned Pyromancer
 2 Archon of Cruelty
-2 Ragavan, Nimble Pilferer
 2 Thoughtseize
 2 Lightning Bolt
 3 Persist
 3 Archon of Cruelty
 3 Seasoned Pyromancer
 3 Lightning Bolt
-3 Ragavan, Nimble Pilferer
 3 Thoughtseize
 4 Archon of Cruelty
 4 Persist
 4 Thoughtseize
 4 Blood Crypt
-4 Ragavan, Nimble Pilferer
 4 Seasoned Pyromancer
-3 Overgrown Tomb
-4 Overgrown Tomb
-4 Trail of Crumbs
-1 Plains
-1 Sacred Foundry
 1 Ingenious Smith
 1 Imperial Recruiter
 1 Spellskite
-1 Aether Vial
 1 Esper Sentinel
 1 Dispatch
 1 Thalia's Lieutenant
@@ -177,16 +184,16 @@
 3 Imperial Recruiter
 3 Aether Vial
 3 Esper Sentinel
-3 Ethersworn Canonist
 3 Sacred Foundry
+3 Ethersworn Canonist
 3 Portable Hole
 3 Arid Mesa
 4 Ingenious Smith
-4 Arid Mesa
 4 Imperial Recruiter
 4 Esper Sentinel
 4 Aether Vial
 4 Concealed Courtyard
+4 Arid Mesa
 1 Eladamri's Call
 1 Sunbaked Canyon
 1 Jetmir's Garden
@@ -214,12 +221,12 @@
 4 Rocco, Cabaretti Caterer
 4 Windswept Heath
 4 Giver of Runes
+1 Bloodghast
 1 Hollow One
 1 Goblin Lore
-1 Bloodghast
 2 Bloodghast
-2 Ox of Agonas
 2 Goblin Lore
+2 Ox of Agonas
 2 Hollow One
 3 Bloodghast
 3 Ox of Agonas
@@ -233,10 +240,10 @@
 1 Pithing Needle
 1 Leyline of Abundance
 1 Tranquil Thicket
-1 Ignoble Hierarch
 1 Soul-Guide Lantern
 1 Nykthos, Shrine to Nyx
 1 Karn, the Great Creator
+1 Ignoble Hierarch
 2 Leyline of Abundance
 2 Karn, the Great Creator
 2 Tranquil Thicket
@@ -250,22 +257,18 @@
 4 Ignoble Hierarch
 4 Karn, the Great Creator
 4 Leyline of Abundance
-1 Galvanic Blast
 1 Sulfurous Springs
 1 Terminate
+1 Fatal Push
 1 Shrapnel Blast
 1 Canyon Slough
 1 Fiery Temper
 1 Blightstep Pathway
-1 Fatal Push
-2 Galvanic Blast
 2 Fiery Temper
 2 Fatal Push
-2 Mountain
 2 Shrapnel Blast
 2 Canyon Slough
 3 Mountain
-3 Galvanic Blast
 3 Shrapnel Blast
 4 Mountain
 5 Mountain
