@@ -88,11 +88,11 @@
 4 Corpse Appraiser
 1 Bloodthirsty Adversary
 4 Ob Nixilis, the Adversary
-1 Kalain, Reclusive Painter
 1 Maestros Diabolist
 1 Deadly Dispute
 1 Shambling Ghast
 1 Unlucky Witness
+1 Kalain, Reclusive Painter
 2 Maestros Diabolist
 2 Kalain, Reclusive Painter
 2 Shambling Ghast
@@ -132,29 +132,26 @@
 1 Unexpected Windfall
 1 Alchemist's Gambit
 1 Nighthawk Scavenger
-2 Shatterskull Smashing
 2 Nighthawk Scavenger
+2 Shatterskull Smashing
 1 Galazeth Prismari
 1 Memory Deluge
 2 Galazeth Prismari
+2 Memory Deluge
 2 Kairi, the Swirling Sky
 2 Shadows' Verdict
-2 Memory Deluge
 1 Evelyn, the Covetous
 2 Evelyn, the Covetous
 1 Inscription of Ruin
 1 March of Wretched Sorrow
 2 March of Wretched Sorrow
-2 Power Word Kill
 2 Behold the Multiverse
+2 Power Word Kill
 3 Swamp
 1 Siphon Insight
 1 Annul
 2 Siphon Insight
 3 Soul Shatter
-1 Test of Talents
-2 Bloodthirsty Adversary
-3 Play with Fire
 1 Skyclave Shade
 2 Skyclave Shade
 3 Skyclave Shade
@@ -163,19 +160,41 @@
 2 Graveyard Trespasser
 3 Lolth, Spider Queen
 3 Graveyard Trespasser
+1 Test of Talents
+2 Bloodthirsty Adversary
+3 Play with Fire
+1 Bloodvial Purveyor
+1 Hungry for More
+1 Rotten Reunion
+1 Mystic Reflection
+1 Zariel, Archduke of Avernus
+1 Kumano Faces Kakkazan
+2 Bloodvial Purveyor
+2 Mountain
+2 Rotten Reunion
+2 Kumano Faces Kakkazan
+2 Zariel, Archduke of Avernus
+2 Hungry for More
+2 Mystic Reflection
+3 Bloodvial Purveyor
+3 Mountain
+3 Hungry for More
+3 Mystic Reflection
+3 Rotten Reunion
+4 Mountain
 3 Hagra Mauling
 4 The Meathook Massacre
 1 Reject
 1 Arcane Bombardment
-2 Spikefield Hazard
 2 Arcane Bombardment
+2 Spikefield Hazard
 3 Big Score
 4 Big Score
 4 Maestros Charm
 4 Shambling Ghast
-1 Consider
 1 Jin-Gitaxias, Progress Tyrant
 1 Corpse Explosion
+1 Consider
 1 Graveyard Shift
 1 Lord Xander, the Collector
 2 Consider
@@ -183,8 +202,8 @@
 2 Jin-Gitaxias, Progress Tyrant
 2 Lord Xander, the Collector
 2 Graveyard Shift
-3 Consider
 3 Hullbreaker Horror
+3 Consider
 3 Jin-Gitaxias, Progress Tyrant
 3 Lord Xander, the Collector
 3 Corpse Explosion
@@ -195,31 +214,12 @@
 4 Corpse Explosion
 4 Hullbreaker Horror
 4 Prismari Command
-1 Bloodvial Purveyor
-1 Zariel, Archduke of Avernus
-1 Hungry for More
-1 Rotten Reunion
-1 Mystic Reflection
-1 Kumano Faces Kakkazan
-2 Bloodvial Purveyor
-2 Rotten Reunion
-2 Kumano Faces Kakkazan
-2 Zariel, Archduke of Avernus
-2 Hungry for More
-2 Mystic Reflection
-2 Mountain
-3 Bloodvial Purveyor
-3 Hungry for More
-3 Mystic Reflection
-3 Rotten Reunion
-3 Mountain
-4 Mountain
 3 Deadly Dispute
 4 Kalain, Reclusive Painter
 4 Maestros Diabolist
-1 Malakir Rebirth
 1 Inferno of the Star Mounts
 1 Junji, the Midnight Sky
+1 Malakir Rebirth
 1 Pyre of Heroes
 1 Mirrorhall Mimic
 1 Atsushi, the Blazing Sky

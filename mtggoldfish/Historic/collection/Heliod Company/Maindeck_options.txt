@@ -49,37 +49,29 @@
 1 Giant Killer
 10 Plains
 11 Plains
-1 Snow-Covered Forest
 1 Snow-Covered Plains
-2 Snow-Covered Forest
+1 Snow-Covered Forest
 2 Snow-Covered Plains
-3 Snow-Covered Forest
+2 Snow-Covered Forest
 3 Snow-Covered Plains
+3 Snow-Covered Forest
 1 Llanowar Elves
 2 Llanowar Elves
 3 Llanowar Elves
 4 Llanowar Elves
 1 The Wandering Emperor
 1 Ajani, Strength of the Pride
-1 Ajani's Pridemate
-2 Ajani's Pridemate
 1 Fabled Passage
 2 Fabled Passage
+1 Ajani's Pridemate
+2 Ajani's Pridemate
 2 Selfless Savior
 3 Selfless Savior
-1 Jukai Liberator
-2 Lair of the Hydra
-2 Eiganjo, Seat of the Empire
-2 Jukai Liberator
-3 Eiganjo, Seat of the Empire
-4 Blossoming Sands
 1 Rest in Peace
 1 Indatha Triome
 2 Indatha Triome
 3 Indatha Triome
 4 Indatha Triome
-1 Sejiri Shelter
-4 Scavenging Ooze
 1 Field of Ruin
 1 Soul-Guide Lantern
 1 Authority of the Consuls
@@ -88,19 +80,27 @@
 2 Blast Zone
 2 Authority of the Consuls
 2 Adventurous Impulse
-3 Cleric Class
 3 Adventurous Impulse
-4 Snow-Covered Forest
+3 Cleric Class
 4 Adventurous Impulse
-1 Kazandu Mammoth
-1 Vivien, Monsters' Advocate
+4 Snow-Covered Forest
+1 Sejiri Shelter
+4 Scavenging Ooze
 1 Grizzled Huntmaster
-2 Kazandu Mammoth
+1 Vivien, Monsters' Advocate
+1 Kazandu Mammoth
 2 Grizzled Huntmaster
-3 Kazandu Mammoth
+2 Kazandu Mammoth
 3 Grizzled Huntmaster
-4 Kazandu Mammoth
+3 Kazandu Mammoth
 4 Grizzled Huntmaster
+4 Kazandu Mammoth
+1 Jukai Liberator
+2 Lair of the Hydra
+2 Eiganjo, Seat of the Empire
+2 Jukai Liberator
+3 Eiganjo, Seat of the Empire
+4 Blossoming Sands
 1 Heliod's Pilgrim
 1 Lurking Roper
 1 Famished Paladin
@@ -120,10 +120,10 @@
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains
+12 Plains
 1 Kabira Takedown
 1 Brutal Cathar
 1 Elite Spellbinder
 4 Inquisitor Captain
 9 Forest
 10 Forest
-12 Plains

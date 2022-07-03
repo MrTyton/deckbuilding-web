@@ -2,13 +2,13 @@
 2 Street Wraith
 3 Street Wraith
 1 Urborg, Tomb of Yawgmoth
-4 Street Wraith
 1 Bloodstained Mire
 2 Bloodstained Mire
-1 Mountain
+4 Street Wraith
 1 Darkslick Shores
 2 Darkslick Shores
 3 Darkslick Shores
+1 Mountain
 1 Verdant Catacombs
 1 Yavimaya, Cradle of Growth
 1 Forest
@@ -18,13 +18,6 @@
 4 Finale of Devastation
 2 Verdant Catacombs
 3 Verdant Catacombs
-1 Witch's Oven
-1 Cauldron Familiar
-1 Feasting Troll King
-2 Witch's Oven
-2 Cauldron Familiar
-2 Feasting Troll King
-3 Cauldron Familiar
 1 Gilded Goose
 1 Trail of Crumbs
 2 Gilded Goose
@@ -32,34 +25,41 @@
 3 Gilded Goose
 4 Gilded Goose
 1 Overgrown Tomb
+1 Witch's Oven
 1 Blooming Marsh
+1 Cauldron Familiar
+1 Feasting Troll King
 2 Blooming Marsh
 2 Overgrown Tomb
+2 Witch's Oven
+2 Cauldron Familiar
+2 Feasting Troll King
 3 Blooming Marsh
+3 Cauldron Familiar
 3 Witch's Oven
 4 Blooming Marsh
 4 Verdant Catacombs
 4 Cauldron Familiar
 4 Witch's Oven
-1 Scalding Tarn
 1 Spirebluff Canal
+1 Scalding Tarn
 1 Steam Vents
 2 Scalding Tarn
 2 Steam Vents
 3 Scalding Tarn
 1 Reinforced Ronin
+1 Voldaren Epicure
 1 Memnite
 1 Riddlesmith
-1 Voldaren Epicure
 1 Vengevine
 2 Reinforced Ronin
-2 Memnite
 2 Voldaren Epicure
+2 Memnite
 2 Vengevine
 2 Riddlesmith
+3 Voldaren Epicure
 3 Memnite
 3 Vengevine
-3 Voldaren Epicure
 4 Memnite
 4 Vengevine
 3 Bloodstained Mire
@@ -68,46 +68,32 @@
 4 Steam Vents
 4 Scalding Tarn
 2 Marsh Flats
-1 Blood Crypt
 2 Flooded Strand
-4 Darkslick Shores
 2 Springleaf Drum
 4 Voldaren Epicure
+4 Darkslick Shores
 1 Darkbore Pathway
 2 Darkbore Pathway
 3 Darkbore Pathway
 4 Darkbore Pathway
 3 Trail of Crumbs
-1 Blazing Rootwalla
-2 Blazing Rootwalla
-3 Blazing Rootwalla
+1 Blood Crypt
 1 Boseiju, Who Endures
 2 Spirebluff Canal
 2 Island
-3 Feasting Troll King
 2 Godless Shrine
-1 Wooded Foothills
-2 Wooded Foothills
-3 Wooded Foothills
-4 Wooded Foothills
-1 Galvanic Blast
-2 Galvanic Blast
-2 Mountain
-3 Galvanic Blast
 1 Takenuma, Abandoned Mire
 1 Bone Shards
 2 Bone Shards
+1 Arid Mesa
+2 Arid Mesa
+1 Blazing Rootwalla
+2 Blazing Rootwalla
+3 Blazing Rootwalla
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
-1 Ox of Agonas
-1 Burning Inquiry
-2 Burning Inquiry
-3 Burning Inquiry
-4 Burning Inquiry
-1 Arid Mesa
-2 Arid Mesa
 1 Blackcleave Cliffs
 2 Blackcleave Cliffs
 2 Blood Crypt
@@ -117,22 +103,31 @@
 1 Aether Vial
 1 Devoted Druid
 1 Luxior, Giada's Gift
+1 Wooded Foothills
 1 Wrenn and Six
 1 Stomping Ground
 2 Devoted Druid
+2 Wooded Foothills
 2 Wrenn and Six
 3 Devoted Druid
 3 Wrenn and Six
+3 Wooded Foothills
 4 Devoted Druid
+4 Wooded Foothills
 1 Plains
 1 Sacred Foundry
 1 Wonder
+3 Feasting Troll King
 2 Swamp
 3 Bone Shards
+1 Galvanic Blast
 1 Mox Amber
 1 Pyrite Spellbomb
 1 Thought Monitor
+2 Galvanic Blast
 2 Thought Monitor
+2 Mountain
+3 Galvanic Blast
 3 Spirebluff Canal
 3 Overgrown Tomb
 4 Overgrown Tomb
@@ -224,17 +219,22 @@
 1 Bloodghast
 1 Hollow One
 1 Goblin Lore
+1 Ox of Agonas
+1 Burning Inquiry
 2 Bloodghast
 2 Goblin Lore
 2 Ox of Agonas
+2 Burning Inquiry
 2 Hollow One
 3 Bloodghast
 3 Ox of Agonas
+3 Burning Inquiry
 3 Goblin Lore
 3 Hollow One
 4 Bloodghast
 4 Goblin Lore
 4 Hollow One
+4 Burning Inquiry
 4 Blazing Rootwalla
 1 Dryad Arbor
 1 Pithing Needle
@@ -257,19 +257,3 @@
 4 Ignoble Hierarch
 4 Karn, the Great Creator
 4 Leyline of Abundance
-1 Sulfurous Springs
-1 Terminate
-1 Fatal Push
-1 Shrapnel Blast
-1 Canyon Slough
-1 Fiery Temper
-1 Blightstep Pathway
-2 Fiery Temper
-2 Fatal Push
-2 Shrapnel Blast
-2 Canyon Slough
-3 Mountain
-3 Shrapnel Blast
-4 Mountain
-5 Mountain
-4 Shrapnel Blast

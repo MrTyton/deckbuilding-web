@@ -129,6 +129,6 @@
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                    |                    4|[Void Mirror](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522318)              |
 |                    4|[Distortion Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438618)         |                    4|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)            |
 |                    1|[Giant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129568)              |                    1|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)         |
-|                    2|[Giant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129568)              |                    1|[Naturalize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129656)               |
-|                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)          |                    2|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)         |
+|                    2|[Giant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129568)              |                    2|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)         |
+|                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)          |                    1|[Naturalize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129656)               |
 
