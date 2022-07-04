@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|-------------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Invoke Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548399)        |                     |              |
 |                    1|[Eliminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485420)             |                     |              |
+|                    1|[Invoke Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548399)        |                     |              |
 |                    1|[Phyrexian Tower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456844)       |                     |              |
 |                    1|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)   |                     |              |
 |                    1|[Witch's Vengeance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473073)     |                     |              |
