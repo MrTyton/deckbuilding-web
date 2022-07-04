@@ -42,8 +42,6 @@
 1 Halana and Alena, Partners
 1 Gaea's Blessing
 2 Halana and Alena, Partners
-1 Negate
-2 Negate
 1 Snakeskin Veil
 2 Snakeskin Veil
 1 Bolt Bend
@@ -52,13 +50,15 @@
 2 Goblin Ruinblaster
 2 Lava Coil
 1 Tormod's Crypt
-1 Cliffhaven Kitesail
 1 Invigorating Hot Spring
+1 Cliffhaven Kitesail
 1 The Shattered States Era
 2 Invigorating Hot Spring
 2 Cliffhaven Kitesail
 1 Pillar of Flame
 2 Pillar of Flame
+1 Negate
+2 Negate
 1 Primal Might
 1 Tamiyo's Safekeeping
 1 Unlicensed Hearse
@@ -85,10 +85,10 @@
 3 Tibalt, Rakish Instigator
 3 Ahn-Crop Crasher
 1 Anger of the Gods
-2 Anger of the Gods
 2 Outland Liberator
-3 Anger of the Gods
+2 Anger of the Gods
 3 Outland Liberator
+3 Anger of the Gods
 4 Flame-Blessed Bolt
 4 Outland Liberator
 1 Unchained Berserker
@@ -98,10 +98,10 @@
 3 Cinderclasm
 3 Fry
 4 Fry
-1 Shatterskull Smashing
 1 Collision/Colossus
 1 Broken Wings
 1 Fire Prophecy
+1 Shatterskull Smashing
 4 Abrade
 1 Elder Gargaroth
 1 Stonecoil Serpent
