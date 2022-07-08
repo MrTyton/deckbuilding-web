@@ -1,0 +1,45 @@
+# Gruul Goblins
+
+#### [Export MTGO List](../collection/Gruul%20Goblins/Gruul%20Goblins.txt)
+#### [Export Arena List](../collection/Gruul%20Goblins/Gruul%20Goblins_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blightstep%20Pathway%0A4%09Blood%20Crypt%0A4%09Cabaretti%20Revels%0A4%09Conspicuous%20Snoop%0A4%09Cragcrown%20Pathway%0A4%09Goblin%20Matron%0A3%09Grumgully,%20the%20Generous%0A1%09Mountain%0A4%09Munitions%20Expert%0A1%09Muxus,%20Goblin%20Grandee%0A3%09Pashalik%20Mons%0A4%09Putrid%20Goblin%0A4%09Rockfall%20Vale%0A4%09Secluded%20Courtyard%0A4%09Skirk%20Prospector%0A4%09Sling-Gang%20Lieutenant%0A4%09Stomping%20Ground&deckside=4%09Chandra,%20Dressed%20to%20Kill%0A1%09Goblin%20Trashmaster%0A4%09Hidetsugu%20Consumes%20All%0A3%09Soul-Guide%20Lantern%0A2%09The%20Akroan%20War%0A1%09Unlicensed%20Hearse)
+# Maindeck
+
+|                                           Creature (31)                                            |                                           Land (21)                                           |    Unknown (8)     |
+|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------|
+|4 [Conspicuous Snoop](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485462)      |4 [Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)        |4 Blightstep Pathway|
+|4 [Goblin Matron](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15810)           |4 [Cragcrown Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491915) |4 Cabaretti Revels  |
+|3 [Grumgully, the Generous](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473154)|1 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)          |                    |
+|4 [Munitions Expert](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464158)       |4 [Rockfall Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535065)     |                    |
+|1 [Muxus, Goblin Grandee](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489191)  |4 [Secluded Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548588)|                    |
+|3 [Pashalik Mons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464087)          |4 [Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)   |                    |
+|4 [Putrid Goblin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464050)          |                                                                                               |                    |
+|4 [Skirk Prospector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159051)       |                                                                                               |                    |
+|4 [Sling-Gang Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464057)  |                                                                                               |                    |
+
+
+# Sideboard
+
+|                                         Artifact (4)                                          |                                         Creature (1)                                          |                                      Enchantment (2)                                      |                                          Planeswalker (4)                                           |      Unknown (4)       |
+|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------|
+|3 [Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|1 [Goblin Trashmaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447280)|2 [The Akroan War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476375)|4 [Chandra, Dressed to Kill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541004)|4 Hidetsugu Consumes All|
+|1 [Unlicensed Hearse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555447) |                                                                                               |                                                                                           |                                                                                                     |                        |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|                    1|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)   |
+|                    1|Darkbore Pathway                                                                                     |                    1|[Destiny Spinner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476419)    |
+|                    1|[Ziatora's Proving Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555462)  |                    1|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                |
+|                    1|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)          |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
+|                    2|Darkbore Pathway                                                                                     |                    1|[Twinshot Sniper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548473)    |
+|                    2|[Ziatora's Proving Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555462)  |                    2|[Twinshot Sniper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548473)    |
+|                    3|[Ziatora's Proving Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555462)  |                    2|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)                |
+|                    4|[Ziatora's Proving Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555462)  |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
+|                     |                                                                                                     |                    2|[Destiny Spinner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476419)    |
+|                     |                                                                                                     |                    2|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)   |
+|                     |                                                                                                     |                    3|[Twinshot Sniper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548473)    |
+|                     |                                                                                                     |                    3|[Destiny Spinner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476419)    |
+
