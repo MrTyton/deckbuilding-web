@@ -138,28 +138,28 @@
 2 Hive of the Eye Tyrant
 2 Whirlwind Denial
 2 Maestros Ascendancy
-3 Hive of the Eye Tyrant
 3 Hall of Storm Giants
 3 Sedgemoor Witch
 3 Whirlwind Denial
 3 Maestros Ascendancy
+3 Hive of the Eye Tyrant
 4 Sedgemoor Witch
 4 Whirlwind Denial
+1 Omen of the Sea
 1 Xander's Lounge
 1 Graveyard Trespasser
-1 Omen of the Sea
+2 Omen of the Sea
 2 Castle Vantress
 2 Xander's Lounge
 2 Graveyard Trespasser
 2 Archmage's Charm
-2 Omen of the Sea
 3 Archmage's Charm
 3 Omen of the Sea
 3 Xander's Lounge
 4 Goblin Dark-Dwellers
 4 Archmage's Charm
-4 Xander's Lounge
 4 Omen of the Sea
+4 Xander's Lounge
 1 Frantic Inventory
 1 Lazav, the Multifarious
 1 The Royal Scions
@@ -190,11 +190,11 @@
 2 Ashiok, Dream Render
 1 Negate
 2 Negate
-1 Isolated Chapel
-1 Savai Triome
-1 Doom Foretold
-1 Crawling Barrens
 1 Godless Shrine
+1 Doom Foretold
+1 Isolated Chapel
+1 Crawling Barrens
+1 Savai Triome
 1 Path of Peril
 1 Phyrexian Obliterator
 1 Tinybones, Trinket Thief
@@ -203,8 +203,8 @@
 1 Hagra Mauling
 1 Tergrid, God of Fright
 1 Waste Not
-2 Tergrid, God of Fright
 2 Godless Shrine
+2 Tergrid, God of Fright
 2 Path of Peril
 2 Gutmorn, Pactbound Servant
 2 Waste Not
@@ -238,6 +238,11 @@
 2 Exclude
 2 Woe Strider
 4 Fatal Push
+1 Bontu's Last Reckoning
+1 Hieroglyphic Illumination
+1 Cut/Ribbons
+2 The Scarab God
+4 Censor
 1 Lier, Disciple of the Drowned
 2 Lier, Disciple of the Drowned
 4 Shipwreck Marsh
@@ -248,11 +253,6 @@
 3 Jwari Disruption
 3 The Meathook Massacre
 4 The Meathook Massacre
-1 Bontu's Last Reckoning
-1 Hieroglyphic Illumination
-1 Cut/Ribbons
-2 The Scarab God
-4 Censor
 1 Cast Down
 2 Disfigure
 2 Cast Down
@@ -260,11 +260,11 @@
 3 Eliminate
 3 Extinction Event
 4 Bedevil
-1 Soul Transfer
+1 Rekindling Phoenix
 1 Soul-Guide Lantern
 1 Disinformation Campaign
+1 Soul Transfer
 1 Discovery/Dispersal
-1 Rekindling Phoenix
 2 Mountain
 2 Rekindling Phoenix
 2 Discovery/Dispersal
@@ -282,28 +282,28 @@
 4 Grasp of Darkness
 1 Eaten Alive
 1 Evelyn, the Covetous
-1 Valentin, Dean of the Vein
 1 Cordial Vampire
 1 Urza's Rage
+1 Valentin, Dean of the Vein
 2 Evelyn, the Covetous
-2 Valentin, Dean of the Vein
 2 Eaten Alive
 2 Urza's Rage
 2 Cordial Vampire
+2 Valentin, Dean of the Vein
 3 Eaten Alive
 3 Valentin, Dean of the Vein
 3 Urza's Rage
 3 Cordial Vampire
-4 Valentin, Dean of the Vein
 4 Urza's Rage
+4 Valentin, Dean of the Vein
 4 Eaten Alive
 1 Davriel's Withering
 1 Oni-Cult Anvil
 1 Check for Traps
 1 Static Discharge
 2 Oni-Cult Anvil
-2 Davriel's Withering
 2 Check for Traps
+2 Davriel's Withering
 2 Static Discharge
 3 Oni-Cult Anvil
 3 Check for Traps

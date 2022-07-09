@@ -57,17 +57,12 @@
 1 Liliana, Waker of the Dead
 1 Sweltering Suns
 1 Blood on the Snow
-1 Doom Blade
 1 Bedevil
+1 Doom Blade
 1 Baleful Mastery
 1 The Meathook Massacre
 1 Pack Rat
 2 Heartless Act
-1 Hullbreaker Horror
-1 Graveyard Trespasser
-1 Fry
-1 Prismari Command
-2 Graveyard Trespasser
 1 Sinister Sabotage
 1 Banefire
 1 Field of Ruin
@@ -79,9 +74,9 @@
 2 Blood Sun
 2 Chandra's Defeat
 1 Brazen Borrower
-1 Tymaret, Chosen from Death
 1 Malevolent Hermit
 1 Feed the Swarm
+1 Tymaret, Chosen from Death
 2 Feed the Swarm
 2 Malevolent Hermit
 1 Lantern of the Lost
@@ -91,14 +86,19 @@
 1 Phyrexian Obliterator
 2 Sweltering Suns
 2 Gisa, Glorious Resurrector
-1 Spell Pierce
 1 Archmage's Charm
+1 Spell Pierce
 1 Fatal Push
 1 Liliana, Dreadhorde General
 1 Infernal Reckoning
-2 Spell Pierce
 2 Archmage's Charm
+2 Spell Pierce
 2 Infernal Reckoning
+1 Hullbreaker Horror
+1 Fry
+1 Graveyard Trespasser
+1 Prismari Command
+2 Graveyard Trespasser
 1 Ashiok's Erasure
 1 Yahenni's Expertise
 1 Thief of Sanity
@@ -152,6 +152,6 @@
 4 Thoughtseize
 1 Disdainful Stroke
 1 Tome of the Infinite
-1 Tale's End
 1 Zirda, the Dawnwaker
+1 Tale's End
 2 Zirda, the Dawnwaker

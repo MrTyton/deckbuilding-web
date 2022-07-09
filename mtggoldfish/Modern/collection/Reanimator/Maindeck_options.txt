@@ -1,10 +1,10 @@
-2 Arid Mesa
-2 Bloodstained Mire
+1 Fable of the Mirror-Breaker
+1 Seasoned Pyromancer
 2 Seasoned Pyromancer
-2 Blood Crypt
 3 Seasoned Pyromancer
-3 Bloodstained Mire
 4 Seasoned Pyromancer
+3 Arid Mesa
+4 Bloodstained Mire
 1 Mountain
 1 Blackcleave Cliffs
 1 Fury
@@ -12,24 +12,23 @@
 2 Fury
 2 Blackcleave Cliffs
 3 Blackcleave Cliffs
-3 Arid Mesa
 3 Fable of the Mirror-Breaker
-4 Bloodstained Mire
 4 Fable of the Mirror-Breaker
+2 Concealed Courtyard
 1 Mulldrifter
 1 Serra's Emissary
+2 Hallowed Fountain
 2 Sacred Foundry
+4 Arid Mesa
 2 Swamp
 1 Inspiring Vantage
 1 Undying Evil
 2 Inspiring Vantage
 3 Fury
-4 Arid Mesa
 1 Otawara, Soaring City
 2 Mulldrifter
 4 Thoughtseize
 1 Ox of Agonas
-3 Concealed Courtyard
 1 Silent Clearing
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
@@ -37,6 +36,7 @@
 1 Eiganjo, Seat of the Empire
 2 Island
 1 Touch the Spirit Realm
+3 Concealed Courtyard
 1 Drowned Catacomb
 1 Consider
 2 Consider
@@ -44,12 +44,12 @@
 1 Counterspell
 2 Counterspell
 2 Malakir Rebirth
+1 March of Otherworldly Light
 3 Inspiring Vantage
 4 Ragavan, Nimble Pilferer
 3 Counterspell
 4 Consider
 3 Watery Grave
-1 March of Otherworldly Light
 3 Mulldrifter
 1 Fatal Push
 4 Counterspell
@@ -63,6 +63,7 @@
 3 Godless Shrine
 1 Overgrown Tomb
 4 Teferi, Time Raveler
+2 March of Otherworldly Light
 1 Fact or Fiction
 1 Insolent Neonate
 2 Insolent Neonate
@@ -73,7 +74,6 @@
 1 Drown in the Loch
 2 Drown in the Loch
 3 Hallowed Fountain
-2 March of Otherworldly Light
 1 Stitcher's Supplier
 2 Stitcher's Supplier
 3 Stitcher's Supplier
@@ -93,7 +93,6 @@
 2 Urborg, Tomb of Yawgmoth
 1 Seachrome Coast
 1 Kaito Shizuki
-1 Collective Brutality
 1 Zagoth Triome
 1 Jace, the Mind Sculptor
 1 Darkblast
@@ -103,12 +102,12 @@
 2 Dovin's Veto
 1 Surgical Extraction
 2 Surgical Extraction
+1 Spell Pierce
 1 Darkslick Shores
 1 Sunken Ruins
 1 Stubborn Denial
 1 Supreme Verdict
 1 Hullbreaker Horror
-1 Spell Pierce
 1 Castle Vantress
 1 Mystic Gate
 1 Griselbrand
@@ -127,17 +126,38 @@
 3 Malakir Rebirth
 3 Chancellor of the Annex
 4 Chancellor of the Annex
-1 Ledger Shredder
-2 Ledger Shredder
-3 Drown in the Loch
-3 Ledger Shredder
-4 Drown in the Loch
-4 Ledger Shredder
+1 Dwarven Mine
+1 Lightning Bolt
+1 Remand
+1 Raugrin Triome
+1 Hard Evidence
+1 Steam Vents
+1 Indomitable Creativity
+1 Scalding Tarn
+1 Prismari Command
+1 Fire/Ice
+2 Lightning Bolt
+2 Dwarven Mine
+2 Remand
+2 Hard Evidence
+2 Steam Vents
+2 Scalding Tarn
+2 Fire/Ice
+2 Prismari Command
+2 Indomitable Creativity
+3 Fire/Ice
+3 Scalding Tarn
+3 Remand
+3 Dwarven Mine
+3 Hard Evidence
+3 Indomitable Creativity
+4 Scalding Tarn
+4 Indomitable Creativity
 1 Wurmcoil Engine
 1 Prismatic Vista
 1 Lingering Souls
-1 Grave Titan
 1 Raffine's Informant
+1 Grave Titan
 2 Lingering Souls
 2 Grave Titan
 2 Raffine's Informant
@@ -148,6 +168,12 @@
 3 Urborg, Tomb of Yawgmoth
 4 Raffine's Informant
 4 Stitcher's Supplier
+1 Ledger Shredder
+2 Ledger Shredder
+3 Drown in the Loch
+3 Ledger Shredder
+4 Drown in the Loch
+4 Ledger Shredder
 1 Sunbaked Canyon
 1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
