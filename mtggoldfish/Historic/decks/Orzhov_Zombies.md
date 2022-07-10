@@ -33,17 +33,17 @@
 |--------------------:|-------------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    1|[Eliminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485420)             |                     |              |
 |                    1|[Invoke Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548399)        |                     |              |
+|                    1|[Phyrexian Tower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456844)       |                     |              |
 |                    1|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)   |                     |              |
 |                    1|[Feed the Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491737)        |                     |              |
 |                    1|[Crippling Fear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503690)        |                     |              |
 |                    1|[Witch's Vengeance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473073)     |                     |              |
-|                    1|[Infernal Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534880)        |                     |              |
 |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)            |                     |              |
+|                    1|[Infernal Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534880)        |                     |              |
 |                    1|[Bastion of Remembrance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479593)|                     |              |
 |                    1|[Liliana's Mastery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426800)     |                     |              |
 |                    1|[Ghoulish Procession](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534873)   |                     |              |
 |                    1|[Dreadhorde Invasion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461013)   |                     |              |
-|                    1|[Phyrexian Tower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456844)       |                     |              |
 |                    3|[Death Baron](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=176430)           |                     |              |
 |                    3|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)      |                     |              |
 |                    3|[Lord of the Accursed](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426801)  |                     |              |

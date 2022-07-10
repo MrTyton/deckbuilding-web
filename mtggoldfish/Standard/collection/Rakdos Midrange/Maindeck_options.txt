@@ -60,8 +60,8 @@
 1 Agadeem's Awakening
 1 Big Score
 1 Light Up the Night
-2 Light Up the Night
 2 Big Score
+2 Light Up the Night
 3 Valki, God of Lies
 4 Valki, God of Lies
 4 Tainted Adversary
@@ -101,16 +101,8 @@
 3 Sulfurous Mire
 4 Sulfurous Mire
 1 Westgate Regent
-1 Florian, Voldaren Scion
 1 Junji, the Midnight Sky
-1 Unexpected Windfall
-1 Shatterskull Charger
-1 Ebondeath, Dracolich
-2 Unexpected Windfall
-2 Shatterskull Charger
-3 Unexpected Windfall
-4 Unexpected Windfall
-4 The Meathook Massacre
+1 Florian, Voldaren Scion
 1 Henrika Domnathi
 1 Concealing Curtains
 2 Concealing Curtains
@@ -118,17 +110,14 @@
 4 Bloodvial Purveyor
 3 Okiba Reckoner Raid
 4 Okiba Reckoner Raid
-1 Voldaren Epicure
-1 Power Word Kill
-1 Oni-Cult Anvil
-1 Abrade
-2 Voldaren Epicure
-2 Oni-Cult Anvil
-3 Voldaren Epicure
-3 Oni-Cult Anvil
-4 Voldaren Epicure
-4 Oni-Cult Anvil
-4 Voltage Surge
+1 Unexpected Windfall
+1 Ebondeath, Dracolich
+1 Shatterskull Charger
+2 Unexpected Windfall
+2 Shatterskull Charger
+3 Unexpected Windfall
+4 The Meathook Massacre
+4 Unexpected Windfall
 1 Hoarding Ogre
 1 Magic Missile
 1 Sudden Breakthrough
@@ -144,9 +133,9 @@
 1 Parasitic Grasp
 1 Atsushi, the Blazing Sky
 4 Reckless Stormseeker
+1 Eaten Alive
 1 Hall of Oracles
 1 Fell Stinger
-1 Eaten Alive
 1 Go Blank
 1 Undying Malice
 1 Vorpal Sword
@@ -167,12 +156,23 @@
 4 Varragoth, Bloodsky Sire
 1 Professional Face-Breaker
 1 Riveteers Requisitioner
-2 Riveteers Requisitioner
 2 Professional Face-Breaker
+2 Riveteers Requisitioner
 3 Riveteers Requisitioner
 3 Professional Face-Breaker
 4 Thundering Raiju
 4 Professional Face-Breaker
+1 Power Word Kill
+1 Oni-Cult Anvil
+1 Voldaren Epicure
+1 Abrade
+2 Oni-Cult Anvil
+2 Voldaren Epicure
+3 Voldaren Epicure
+3 Oni-Cult Anvil
+4 Voltage Surge
+4 Voldaren Epicure
+4 Oni-Cult Anvil
 1 Cragcrown Pathway
 2 Cragcrown Pathway
 3 Cragcrown Pathway
@@ -180,19 +180,19 @@
 1 Snow-Covered Mountain
 1 Blood on the Snow
 1 Snow-Covered Swamp
-2 Snow-Covered Mountain
 2 Blood on the Snow
+2 Snow-Covered Mountain
 2 Snow-Covered Swamp
-3 Snow-Covered Mountain
 3 Snow-Covered Swamp
 3 Blood on the Snow
+3 Snow-Covered Mountain
 4 Blood on the Snow
-4 Snow-Covered Mountain
 4 Skullport Merchant
 4 Snow-Covered Swamp
 4 Eyetwitch
-5 Snow-Covered Mountain
+4 Snow-Covered Mountain
 5 Snow-Covered Swamp
+5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp

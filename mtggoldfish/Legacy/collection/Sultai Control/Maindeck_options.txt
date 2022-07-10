@@ -45,12 +45,12 @@
 1 Chain of Smog
 1 Witherbloom Apprentice
 1 Consider
-1 Opt
 1 Preordain
 1 Bloodstained Mire
 1 Spellseeker
 1 Thassa's Oracle
 1 Flooded Strand
+1 Opt
 1 Scalding Tarn
 1 Tainted Pact
 1 True-Name Nemesis
@@ -102,6 +102,7 @@
 1 Day's Undoing
 1 Otawara, Soaring City
 1 Toxic Deluge
+1 Carpet of Flowers
 2 Prismatic Vista
 2 Island
 2 Forest
@@ -110,12 +111,6 @@
 3 Chain of Smog
 1 Liliana of the Veil
 3 Hymn to Tourach
-1 Delver of Secrets
-2 Delver of Secrets
-3 Delver of Secrets
-4 Daze
-4 Wasteland
-4 Delver of Secrets
 1 Cephalid Coliseum
 1 Stifle
 1 Field of the Dead
@@ -130,4 +125,9 @@
 3 Grist, the Hunger Tide
 3 Sudden Edict
 4 Sudden Edict
-1 Carpet of Flowers
+1 Delver of Secrets
+2 Delver of Secrets
+3 Delver of Secrets
+4 Daze
+4 Delver of Secrets
+4 Wasteland

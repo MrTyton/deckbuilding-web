@@ -1,45 +1,58 @@
 2 Touch the Spirit Realm
 4 Marsh Flats
-2 Blood Crypt
 2 Prismatic Ending
+2 Blood Crypt
+4 Fable of the Mirror-Breaker
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
 4 Arid Mesa
-4 Fable of the Mirror-Breaker
 2 Godless Shrine
 3 Blackcleave Cliffs
 3 Prismatic Ending
 1 Lightning Bolt
-1 Thoughtseize
 2 Lightning Bolt
+4 Persist
+2 Swamp
+3 Solitude
+1 Thoughtseize
 2 Thoughtseize
+3 Fury
 2 Mountain
+1 Kolaghan's Command
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 4 Prismatic Ending
-3 Fury
-1 Kolaghan's Command
-1 Kaya's Guile
-4 Persist
-2 Swamp
-3 Thoughtseize
 4 Blackcleave Cliffs
-3 Inquisition of Kozilek
-3 Solitude
-4 Fury
-4 Archon of Cruelty
-2 Kolaghan's Command
+1 Kaya's Guile
+3 Thoughtseize
 1 Kroxa, Titan of Death's Hunger
-2 Kaya's Guile
 1 Sword of Fire and Ice
 1 Batterskull
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+3 Inquisition of Kozilek
 3 Lightning Bolt
+4 Archon of Cruelty
+1 Kaldra Compleat
+2 Kroxa, Titan of Death's Hunger
+2 Kolaghan's Command
+4 Solitude
+4 Fury
+2 Plains
+2 Kaya's Guile
+1 Dauthi Voidwalker
+2 Dauthi Voidwalker
+3 Dauthi Voidwalker
+4 Lightning Bolt
+1 Liliana of the Veil
+3 Kroxa, Titan of Death's Hunger
+4 Dauthi Voidwalker
+3 Malakir Rebirth
+1 Takenuma, Abandoned Mire
 1 Prismatic Vista
 1 Fatal Push
 1 Bonecrusher Giant
@@ -47,53 +60,36 @@
 2 Bonecrusher Giant
 2 Fatal Push
 3 Bonecrusher Giant
-1 Kaldra Compleat
-1 Dauthi Voidwalker
-2 Kroxa, Titan of Death's Hunger
-2 Dauthi Voidwalker
-3 Dauthi Voidwalker
-1 Liliana of the Veil
-4 Lightning Bolt
-4 Solitude
-3 Kroxa, Titan of Death's Hunger
-4 Dauthi Voidwalker
-2 Plains
-3 Malakir Rebirth
-1 Takenuma, Abandoned Mire
+1 Sunbaked Canyon
+1 Ob Nixilis, the Adversary
 2 Inspiring Vantage
 3 Touch the Spirit Realm
 1 Lingering Souls
 2 Lingering Souls
 3 Lingering Souls
-1 Path to Exile
-1 Hidetsugu Consumes All
-2 Hidetsugu Consumes All
-3 Prismatic Vista
-3 Mountain
-4 Bonecrusher Giant
 1 Bone Shards
-1 Sunbaked Canyon
 2 Sunbaked Canyon
-1 Ob Nixilis, the Adversary
 1 Terminate
 2 Terminate
+1 Path to Exile
+1 Sword of Feast and Famine
+2 Liliana of the Veil
 1 Blood Moon
 2 Blood Moon
-2 Liliana of the Veil
 1 Den of the Bugbear
 1 March of Otherworldly Light
 2 March of Otherworldly Light
 3 March of Otherworldly Light
 4 Inquisition of Kozilek
+2 Savai Triome
 3 Swamp
 1 Vindicate
 2 Vindicate
-1 Snow-Covered Swamp
 1 Ashen Rider
+1 Snow-Covered Swamp
 1 Mana Tithe
-1 Tourach, Dread Cantor
-1 Sword of Feast and Famine
 1 Gemstone Caverns
+1 Tourach, Dread Cantor
 1 Mind Carver
 1 Alpine Houndmaster
 1 Igneous Cur
@@ -101,9 +97,9 @@
 1 Alpine Watchdog
 1 Wish
 2 Ob Nixilis, the Adversary
-2 Gemstone Caverns
 2 Tourach, Dread Cantor
 2 Mana Tithe
+2 Gemstone Caverns
 2 Wish
 2 Alpine Houndmaster
 3 Ob Nixilis, the Adversary
@@ -118,11 +114,11 @@
 4 Mana Tithe
 4 Alpine Houndmaster
 4 Tourach, Dread Cantor
-1 Thrilling Discovery
 1 Unburial Rites
+1 Thrilling Discovery
 2 Bone Shards
-1 Damn
 1 Nahiri, the Harbinger
+1 Damn
 2 Damn
 1 Kaya, Orzhov Usurper
 1 Magus of the Moon
@@ -139,16 +135,15 @@
 1 Cascading Cataracts
 1 Golos, Tireless Pilgrim
 1 Rakdos's Return
-1 Karn, the Great Creator
 1 Emrakul, the Promised End
 1 Shatterskull Smashing
+1 Karn, the Great Creator
 2 Blood Sun
 2 Flagstones of Trokair
 2 Lotus Field
-2 Cleansing Wildfire
 2 Golos, Tireless Pilgrim
+2 Cleansing Wildfire
 2 Karn, the Great Creator
-2 Savai Triome
 3 Blood Sun
 3 Flagstones of Trokair
 3 Lotus Field
@@ -162,24 +157,36 @@
 1 Esper Sentinel
 1 Eiganjo, Seat of the Empire
 1 Obsidian Charmaw
-2 Den of the Bugbear
 2 Esper Sentinel
+2 Den of the Bugbear
 2 Obsidian Charmaw
 3 Sacred Foundry
-3 Vindicate
 3 Esper Sentinel
 3 Obsidian Charmaw
+3 Vindicate
 4 Sacred Foundry
 4 Esper Sentinel
 4 Vindicate
-1 Dreadbore
 1 Village Rites
 1 Undying Malice
+1 Dreadbore
 1 Verdant Catacombs
 1 Feign Death
 2 Village Rites
 2 Undying Malice
-2 Verdant Catacombs
 2 Dreadbore
+2 Verdant Catacombs
 3 Verdant Catacombs
 4 Verdant Catacombs
+1 Sundown Pass
+1 Lightning Helix
+1 Embercleave
+1 Fetid Heath
+2 Lightning Helix
+3 Plains
+4 Plains
+1 Hidetsugu Consumes All
+2 Hidetsugu Consumes All
+3 Prismatic Vista
+3 Mountain
+4 Bonecrusher Giant

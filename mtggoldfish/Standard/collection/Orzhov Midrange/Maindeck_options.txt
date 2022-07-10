@@ -67,11 +67,11 @@
 1 Archon of Emeria
 2 Archon of Emeria
 4 Graveyard Trespasser
+1 Hopeful Initiate
 1 Kabira Takedown
 1 Humiliate
-1 Hopeful Initiate
-2 Humiliate
 2 Hopeful Initiate
+2 Humiliate
 3 Hopeful Initiate
 3 Humiliate
 4 Hopeful Initiate
@@ -87,12 +87,12 @@
 2 Extraction Specialist
 1 Agadeem's Awakening
 2 Welcoming Vampire
-1 Deadly Dispute
 1 Shambling Ghast
+1 Deadly Dispute
 1 Kaya the Inexorable
 1 Rite of Oblivion
-2 Deadly Dispute
 2 Shambling Ghast
+2 Deadly Dispute
 2 Edgar, Charmed Groom
 2 Rite of Oblivion
 3 Deadly Dispute
@@ -100,32 +100,32 @@
 3 The Meathook Massacre
 4 Deadly Dispute
 1 Sanctuary Warden
-1 Blood on the Snow
 1 Snow-Covered Swamp
+1 Blood on the Snow
 1 Snow-Covered Plains
-2 Blood on the Snow
 2 Snow-Covered Swamp
 2 Snow-Covered Plains
+2 Blood on the Snow
 3 Snow-Covered Swamp
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 4 Snow-Covered Swamp
-5 Snow-Covered Plains
 5 Snow-Covered Swamp
-6 Snow-Covered Plains
+5 Snow-Covered Plains
 6 Snow-Covered Swamp
-7 Snow-Covered Swamp
+6 Snow-Covered Plains
 7 Snow-Covered Plains
+7 Snow-Covered Swamp
 8 Snow-Covered Plains
 1 Hero's Downfall
 2 Hero's Downfall
 3 Hero's Downfall
+1 March of Otherworldly Light
 1 Professor of Symbology
 1 March of Wretched Sorrow
-1 March of Otherworldly Light
 1 Invoke Despair
-2 Sorin the Mirthless
 2 March of Otherworldly Light
+2 Sorin the Mirthless
 2 March of Wretched Sorrow
 2 Professor of Symbology
 2 Invoke Despair
@@ -143,23 +143,29 @@
 2 Vengeful Reaper
 3 Vengeful Reaper
 3 Bloodchief's Thirst
-1 Luxior, Giada's Gift
 1 Eyetwitch
 1 Farewell
+1 Luxior, Giada's Gift
 1 Kaya, Geist Hunter
-2 Luxior, Giada's Gift
 2 Eyetwitch
+2 Luxior, Giada's Gift
 3 Eyetwitch
 4 Eyetwitch
-1 Baleful Mastery
 1 Intrepid Adversary
 1 Skyclave Apparition
+1 Baleful Mastery
 2 Intrepid Adversary
 2 Baleful Mastery
 2 Skyclave Apparition
-3 Duress
 3 Intrepid Adversary
+3 Duress
 4 Intrepid Adversary
+1 Thalia, Guardian of Thraben
+2 Thalia, Guardian of Thraben
+2 Raffine's Tower
+3 Thalia, Guardian of Thraben
+3 Archon of Emeria
+4 Thalia, Guardian of Thraben
 3 Eiganjo, Seat of the Empire
 4 Elite Spellbinder
 1 Fracture
@@ -168,12 +174,6 @@
 3 Welcoming Vampire
 3 The Restoration of Eiganjo
 4 Welcoming Vampire
-1 Thalia, Guardian of Thraben
-2 Thalia, Guardian of Thraben
-2 Raffine's Tower
-3 Thalia, Guardian of Thraben
-3 Archon of Emeria
-4 Thalia, Guardian of Thraben
 2 Rampage of the Valkyries
 4 Emeria's Call
 5 Swamp
@@ -192,8 +192,8 @@
 4 Starnheim Aspirant
 4 Renegade Reaper
 8 Snow-Covered Swamp
-9 Snow-Covered Plains
 9 Snow-Covered Swamp
+9 Snow-Covered Plains
 10 Snow-Covered Plains
 11 Snow-Covered Plains
 12 Snow-Covered Plains

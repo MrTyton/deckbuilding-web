@@ -66,9 +66,9 @@
 13 Plains
 4 Riverglide Pathway
 1 Skilled Animator
+2 Mountain
 2 Skilled Animator
 2 Island
-2 Mountain
 3 Skilled Animator
 4 Shrapnel Blast
 1 Shivan Reef
@@ -96,14 +96,15 @@
 1 Cave of the Frost Dragon
 1 Forest
 1 Lair of the Hydra
+1 Temple Garden
 1 Boseiju, Who Endures
 1 Westvale Abbey
 1 Hardened Scales
 1 Iron Apprentice
-1 Temple Garden
 1 Evolutionary Leap
 1 The Ozolith
 1 Hangarback Walker
+2 Lair of the Hydra
 2 Branchloft Pathway
 2 Cave of the Frost Dragon
 2 Animation Module
@@ -112,7 +113,6 @@
 2 The Ozolith
 2 Hardened Scales
 2 Temple Garden
-2 Lair of the Hydra
 2 Hangarback Walker
 3 Branchloft Pathway
 3 Temple Garden
@@ -138,15 +138,15 @@
 4 Shivan Reef
 4 Sulfur Falls
 4 Island
-4 Skilled Animator
 4 Mountain
+4 Skilled Animator
 4 Shock
 5 Mountain
 5 Island
 1 Inspiring Vantage
 1 Needleverge Pathway
-2 Needleverge Pathway
 2 Inspiring Vantage
+2 Needleverge Pathway
 3 Needleverge Pathway
 3 Inspiring Vantage
 3 Mutavault

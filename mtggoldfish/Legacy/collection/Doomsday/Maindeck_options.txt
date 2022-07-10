@@ -36,20 +36,20 @@
 3 Duress
 4 Duress
 1 Manamorphose
+1 Gemstone Mine
 1 Echo of Eons
 1 Glimmervoid
 1 Empty the Warrens
 1 Spoils of the Vault
-1 Gemstone Mine
 1 Chrome Mox
 1 Burning Wish
 1 Rite of Flame
 1 City of Brass
 2 Manamorphose
+2 Gemstone Mine
 2 Glimmervoid
 2 Rite of Flame
 2 Spoils of the Vault
-2 Gemstone Mine
 2 Lion's Eye Diamond
 2 Empty the Warrens
 2 Burning Wish
@@ -57,21 +57,21 @@
 2 City of Brass
 2 Echo of Eons
 3 Manamorphose
-3 Thoughtseize
-3 Echo of Eons
 3 Gemstone Mine
+3 Echo of Eons
 3 Burning Wish
 3 Rite of Flame
 3 City of Brass
+3 Thoughtseize
 3 Lion's Eye Diamond
 3 Empty the Warrens
 3 Spoils of the Vault
 3 Chrome Mox
 4 Manamorphose
+4 Thoughtseize
 4 Spoils of the Vault
 4 Burning Wish
 4 City of Brass
-4 Thoughtseize
 4 Rite of Flame
 4 Lion's Eye Diamond
 4 Chrome Mox
@@ -82,9 +82,9 @@
 1 Deep Analysis
 3 Daze
 1 Teferi, Time Raveler
-1 Marsh Flats
 1 Scrubland
 1 Tundra
+1 Marsh Flats
 2 Teferi, Time Raveler
 3 Flooded Strand
 4 Flooded Strand
@@ -102,6 +102,11 @@
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
+1 Pyroblast
+1 Lightning Bolt
+2 Lightning Bolt
+3 Lightning Bolt
+4 Scalding Tarn
 1 Fatal Push
 1 Temporal Mastery
 3 Malevolent Hermit
@@ -117,8 +122,3 @@
 3 Dragon's Rage Channeler
 4 Predict
 4 Dragon's Rage Channeler
-1 Pyroblast
-1 Lightning Bolt
-2 Lightning Bolt
-3 Lightning Bolt
-4 Scalding Tarn

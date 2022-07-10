@@ -67,20 +67,19 @@
 2 Hall of Storm Giants
 2 The Scarab God
 1 Tergrid, God of Fright
-1 Faithbound Judge
 1 Elspeth Conquers Death
 1 Doom Foretold
 1 Temple of Enlightenment
 1 Yorion, Sky Nomad
 1 Thirst for Meaning
 1 Demonic Pact
+1 Faithbound Judge
 1 Dance of the Manse
 1 Starfield of Nyx
 1 Omen of the Sun
-2 Plains
 2 Tergrid, God of Fright
+2 Plains
 2 Elspeth Conquers Death
-2 Faithbound Judge
 2 Temple of Enlightenment
 2 Doom Foretold
 2 Thirst for Meaning
@@ -88,6 +87,7 @@
 2 Omen of the Sun
 2 Dance of the Manse
 2 Starfield of Nyx
+2 Faithbound Judge
 3 Omen of the Sun
 3 Temple of Enlightenment
 3 Trial of Ambition
@@ -121,14 +121,6 @@
 2 Test of Talents
 2 Shadows' Verdict
 3 The Celestus
-1 Deliberate
-1 Dream Trawler
-1 Portable Hole
-2 Deliberate
-2 Portable Hole
-3 Deliberate
-3 Dig Through Time
-4 Fetid Pools
 1 Path of Peril
 1 Negate
 1 Sinister Sabotage
@@ -137,3 +129,11 @@
 2 Sinister Sabotage
 3 Censor
 3 Sinister Sabotage
+3 Dig Through Time
+4 Fetid Pools
+1 Dream Trawler
+1 Portable Hole
+1 Deliberate
+2 Portable Hole
+2 Deliberate
+3 Deliberate
