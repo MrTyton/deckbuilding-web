@@ -1,16 +1,9 @@
 1 Birds of Paradise
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
-2 Arid Mesa
 1 Imperial Recruiter
 2 Imperial Recruiter
 1 Jetmir's Garden
-1 Prismatic Vista
-2 Sacred Foundry
-1 Expressive Iteration
-1 Castle Vantress
-2 Island
-2 Expressive Iteration
 4 Wrenn and Six
 1 Renegade Rallier
 2 Renegade Rallier
@@ -19,30 +12,31 @@
 2 Utopia Sprawl
 3 Utopia Sprawl
 4 Utopia Sprawl
-2 Plains
+1 Prismatic Vista
 4 Wooded Foothills
+2 Arid Mesa
+1 Expressive Iteration
+1 Castle Vantress
+2 Island
+2 Expressive Iteration
+1 Mountain
+2 Plains
 1 Fire/Ice
+2 Sacred Foundry
 1 Arbor Elf
 3 Planebound Accomplice
 4 Vivien on the Hunt
 3 Expressive Iteration
 2 Steam Vents
+2 Fire/Ice
 3 Ephemerate
 2 Arbor Elf
 3 Arbor Elf
 4 Arbor Elf
 4 Planebound Accomplice
-2 Fire/Ice
-1 Mountain
 2 Temple Garden
 2 Birds of Paradise
 1 Skyclave Apparition
-3 Plains
-1 Chalice of the Void
-1 Eiganjo, Seat of the Empire
-2 Chalice of the Void
-3 Chalice of the Void
-4 Expressive Iteration
 1 Noble Hierarch
 2 Noble Hierarch
 3 Birds of Paradise
@@ -55,6 +49,9 @@
 2 Abundant Growth
 3 Abundant Growth
 4 Abundant Growth
+2 Hallowed Fountain
+1 Seasoned Pyromancer
+2 Seasoned Pyromancer
 1 Violent Outburst
 1 Shardless Agent
 2 Violent Outburst
@@ -65,26 +62,29 @@
 1 Forest
 2 Karmic Guide
 3 Noble Hierarch
+2 Prismatic Vista
 1 Eldritch Evolution
 1 Waterlogged Grove
 1 Horizon Canopy
 2 Eldritch Evolution
 3 Eldritch Evolution
+1 Chalice of the Void
+2 Chalice of the Void
+3 Chalice of the Void
+4 Expressive Iteration
 2 Snow-Covered Plains
 3 Scalding Tarn
 4 Ephemerate
-2 Hallowed Fountain
+3 Seasoned Pyromancer
 4 Violent Outburst
-1 Seasoned Pyromancer
-2 Seasoned Pyromancer
+3 Plains
 4 Renegade Rallier
+4 Noble Hierarch
+1 Eiganjo, Seat of the Empire
 1 Blood Moon
 2 Blood Moon
-2 Prismatic Vista
-4 Noble Hierarch
-3 Seasoned Pyromancer
-1 Glimpse of Tomorrow
 1 Khalni Garden
+1 Glimpse of Tomorrow
 1 Chancellor of the Forge
 1 Wavesifter
 2 Chancellor of the Forge
@@ -150,6 +150,7 @@
 3 Stoneforge Mystic
 4 Stoneforge Mystic
 3 Counterspell
+1 Sulfur Falls
 1 March of Otherworldly Light
 2 March of Otherworldly Light
 1 Lightning Bolt
@@ -158,10 +159,10 @@
 2 Remand
 3 Lightning Bolt
 3 Wall of Omens
-4 Ragavan, Nimble Pilferer
 1 Spreading Seas
 2 Spreading Seas
 3 Spreading Seas
+4 Ragavan, Nimble Pilferer
 1 Glasspool Mimic
 2 Glasspool Mimic
 1 Cinder Glade
@@ -195,9 +196,10 @@
 1 Drannith Magistrate
 1 Shalai, Voice of Plenty
 2 Knight of Autumn
-1 Prismari Command
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
+3 Blood Moon
+3 Prismatic Vista
 1 Sokenzan, Crucible of Defiance
 1 Goblin Dark-Dwellers
 2 Goblin Dark-Dwellers
@@ -209,11 +211,6 @@
 2 Memory Deluge
 2 Wandering Mind
 3 Remand
-1 Lotus Cobra
-2 Lotus Cobra
-3 Lotus Cobra
-4 Lotus Cobra
-1 Sulfur Falls
 1 Snapcaster Mage
 1 Serum Visions
 1 Celestial Colonnade
@@ -221,6 +218,10 @@
 2 Serum Visions
 3 Serum Visions
 4 Serum Visions
+1 Lotus Cobra
+2 Lotus Cobra
+3 Lotus Cobra
+4 Lotus Cobra
 1 Sanctifier en-Vec
 1 Auriok Champion
 1 Watcher for Tomorrow

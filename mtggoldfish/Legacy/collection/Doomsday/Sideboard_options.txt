@@ -1,8 +1,8 @@
-2 Flusterstorm
-1 Relic of Progenitus
 3 Leyline of the Void
-1 Swamp
+1 Relic of Progenitus
+1 Echo of Eons
 1 Hurkyl's Recall
+1 Swamp
 1 Pact of Negation
 1 Fatal Push
 3 Mystical Dispute
@@ -23,6 +23,7 @@
 4 Pact of Negation
 1 Veil of Summer
 2 Veil of Summer
+1 Thoughtseize
 1 Plague Engineer
 2 Fatal Push
 1 Abrupt Decay
@@ -43,7 +44,6 @@
 4 Leyline of the Void
 1 Plains
 3 Prismatic Ending
-1 Thoughtseize
 1 Pyroblast
 1 Red Elemental Blast
 1 Brazen Borrower
@@ -57,15 +57,15 @@
 2 Plague Engineer
 1 Spell Pierce
 2 Spell Pierce
+1 Tombstalker
+1 Dakkon, Shadow Slayer
+2 Tombstalker
 1 Hidetsugu Consumes All
 1 Opposition Agent
 2 Brazen Borrower
 2 Hidetsugu Consumes All
 2 Red Elemental Blast
 2 Opposition Agent
-1 Tombstalker
-1 Dakkon, Shadow Slayer
-2 Tombstalker
 1 Kroxa, Titan of Death's Hunger
 1 Counterbalance
 1 Hammer Mage
@@ -76,6 +76,11 @@
 1 Collective Brutality
 3 Flusterstorm
 3 Veil of Summer
+1 Tormod's Crypt
+1 Misdirection
+2 Thoughtseize
+2 Misdirection
+3 Thoughtseize
 1 Energy Flux
 1 Null Rod
 1 Hydroblast

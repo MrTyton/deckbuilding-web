@@ -1,27 +1,25 @@
 2 Eternal Witness
-1 Dress Down
-2 Boseiju, Who Endures
 1 Emrakul, the Promised End
 1 Unholy Heat
 2 Unholy Heat
-3 Lightning Bolt
+2 Boseiju, Who Endures
+1 Dress Down
 3 Wooded Foothills
 3 Unholy Heat
 4 Unholy Heat
 1 Supreme Verdict
 2 Supreme Verdict
-2 Dress Down
+3 Lightning Bolt
 3 Scalding Tarn
 1 Traverse the Ulvenwald
 1 Mishra's Bauble
-2 Traverse the Ulvenwald
 2 Mishra's Bauble
+2 Traverse the Ulvenwald
 3 Mishra's Bauble
 4 Mishra's Bauble
 1 Snow-Covered Mountain
 4 Scalding Tarn
 2 Fury
-4 Lightning Bolt
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
 1 Wall of Omens
@@ -31,11 +29,13 @@
 1 Prairie Stream
 3 Wall of Omens
 4 Wall of Omens
-1 Spreading Seas
-2 Hallowed Fountain
-4 Wooded Foothills
 1 Plains
+2 Hallowed Fountain
+1 Spreading Seas
+2 Dress Down
+4 Wooded Foothills
 3 Supreme Verdict
+2 Plains
 1 Mystic Gate
 2 Mystic Gate
 3 March of Otherworldly Light
@@ -43,7 +43,6 @@
 2 Archmage's Charm
 3 Archmage's Charm
 4 Archmage's Charm
-2 Plains
 1 Teferi, Hero of Dominaria
 1 Castle Vantress
 1 Hall of Storm Giants
@@ -56,10 +55,10 @@
 1 Island
 2 Island
 3 Island
+1 Nimble Obstructionist
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
-1 Nimble Obstructionist
 1 Restoration Angel
 2 Restoration Angel
 1 Memory Deluge
@@ -74,6 +73,7 @@
 5 Island
 6 Island
 1 Magus of the Moon
+1 Eiganjo, Seat of the Empire
 3 Fury
 1 Skyclave Apparition
 1 Arid Mesa
@@ -88,6 +88,8 @@
 2 Ranger-Captain of Eos
 3 Ranger-Captain of Eos
 4 Ranger-Captain of Eos
+1 Spirited Companion
+2 Spirited Companion
 1 Giant Killer
 1 Thraben Inspector
 1 Marsh Flats
@@ -95,14 +97,12 @@
 1 Emeria, the Sky Ruin
 1 Sun Titan
 1 Field of Ruin
-1 Spirited Companion
 1 Idyllic Grange
 2 Thraben Inspector
 2 Emeria, the Sky Ruin
 2 Sun Titan
 2 Field of Ruin
 2 Marsh Flats
-2 Spirited Companion
 3 Hallowed Fountain
 3 Thraben Inspector
 3 Emeria, the Sky Ruin
@@ -114,7 +114,6 @@
 4 Supreme Verdict
 4 Skyclave Apparition
 4 Field of Ruin
-1 Eiganjo, Seat of the Empire
 1 Jace, the Mind Sculptor
 1 Time Warp
 4 Ragavan, Nimble Pilferer
@@ -122,8 +121,18 @@
 2 Arid Mesa
 3 Arid Mesa
 4 Arid Mesa
-2 Endurance
+3 Plains
+1 Kaldra Compleat
+1 Stoneforge Mystic
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+4 Stoneforge Mystic
+1 Fable of the Mirror-Breaker
+2 Fable of the Mirror-Breaker
+3 Fable of the Mirror-Breaker
 3 Eladamri's Call
+2 Endurance
+4 Lightning Bolt
 3 Snow-Covered Plains
 4 Thraben Inspector
 4 Snow-Covered Plains
@@ -132,15 +141,6 @@
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
-1 Fable of the Mirror-Breaker
-2 Fable of the Mirror-Breaker
-3 Fable of the Mirror-Breaker
-3 Plains
-1 Kaldra Compleat
-1 Stoneforge Mystic
-2 Stoneforge Mystic
-3 Stoneforge Mystic
-4 Stoneforge Mystic
 1 Kiki-Jiki, Mirror Breaker
 3 Restoration Angel
 1 Sunbaked Canyon
@@ -150,9 +150,9 @@
 3 Sacred Foundry
 4 Sacred Foundry
 1 Sword of Fire and Ice
+1 Lion Sash
 1 Aether Vial
 1 Shatterskull Smashing
-1 Lion Sash
 1 Sanctifier en-Vec
 1 Imperial Recruiter
 1 Inspiring Vantage
@@ -187,6 +187,8 @@
 1 Force of Negation
 1 Soulherder
 2 Soulherder
+4 Plains
+1 Batterskull
 1 Jetmir's Garden
 1 Felidar Guardian
 2 Otawara, Soaring City
@@ -201,7 +203,6 @@
 3 Chalice of the Void
 4 Chalice of the Void
 1 Prismatic Vista
-1 Batterskull
 1 Sword of Feast and Famine
 2 Polluted Delta
 2 Prismatic Vista
@@ -213,7 +214,6 @@
 4 Prismatic Vista
 3 Marsh Flats
 3 Spirited Companion
-4 Plains
 4 Marsh Flats
 5 Plains
 6 Plains
@@ -250,6 +250,41 @@
 3 Coiling Oracle
 4 Noble Hierarch
 4 Force of Negation
+1 Undying Evil
+1 Agadeem's Awakening
+1 Malakir Rebirth
+1 Silent Clearing
+1 Touch the Spirit Realm
+1 Maul of the Skyclaves
+1 Shambling Vent
+1 Persist
+1 Shriekmaw
+1 Urborg, Tomb of Yawgmoth
+1 Swamp
+1 Grief
+1 Tourach, Dread Cantor
+1 Godless Shrine
+1 Emeria's Call
+2 Silent Clearing
+2 Malakir Rebirth
+2 Touch the Spirit Realm
+2 Godless Shrine
+2 Undying Evil
+2 Persist
+2 Grief
+2 Emeria's Call
+2 Agadeem's Awakening
+2 Tourach, Dread Cantor
+3 Malakir Rebirth
+3 Touch the Spirit Realm
+3 Silent Clearing
+3 Godless Shrine
+3 Grief
+3 Tourach, Dread Cantor
+4 Silent Clearing
+4 Malakir Rebirth
+4 Godless Shrine
+4 Grief
 1 Esper Sentinel
 1 Flagstones of Trokair
 1 Boom/Bust

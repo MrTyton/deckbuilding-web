@@ -109,8 +109,8 @@
 1 Culling Ritual
 1 Harness Infinity
 1 Check for Traps
-2 Inscription of Ruin
 2 March of Wretched Sorrow
+2 Inscription of Ruin
 2 Demogorgon's Clutches
 2 Acquisitions Expert
 3 Hive of the Eye Tyrant
@@ -138,6 +138,9 @@
 3 Ziatora's Envoy
 2 Ziatora, the Incinerator
 3 Ziatora, the Incinerator
+1 Flame-Blessed Bolt
+2 Flame-Blessed Bolt
+4 Invoke Despair
 1 Field of Ruin
 1 Topiary Stomper
 1 Arcane Bombardment
@@ -151,8 +154,8 @@
 2 Topiary Stomper
 2 Rugged Highlands
 2 Waking the Trolls
-2 Arcane Bombardment
 2 Wrenn and Seven
+2 Arcane Bombardment
 2 Unnatural Growth
 2 Cleansing Wildfire
 2 Gnottvold Slumbermound
@@ -163,16 +166,6 @@
 3 Woodland Chasm
 3 Waking the Trolls
 4 Topiary Stomper
-1 Flame-Blessed Bolt
-2 Flame-Blessed Bolt
-4 Invoke Despair
-1 Unlucky Witness
-2 Unlucky Witness
-3 Unlucky Witness
-3 Strangle
-4 Strangle
-4 Unlucky Witness
-4 Eyetwitch
 1 Voldaren Epicure
 1 Oni-Cult Anvil
 1 Sokenzan Smelter
@@ -204,6 +197,13 @@
 3 Masked Vandal
 4 Infernal Grasp
 4 Masked Vandal
+1 Unlucky Witness
+2 Unlucky Witness
+3 Strangle
+3 Unlucky Witness
+4 Eyetwitch
+4 Strangle
+4 Unlucky Witness
 1 Fell Stinger
 1 Sulfurous Mire
 1 Malakir Rebirth
@@ -214,8 +214,8 @@
 1 Hero's Downfall
 2 Fell Stinger
 2 Sulfurous Mire
-2 Snow-Covered Swamp
 2 Blood on the Snow
+2 Snow-Covered Swamp
 2 Snow-Covered Mountain
 3 Fell Stinger
 3 Lolth, Spider Queen
