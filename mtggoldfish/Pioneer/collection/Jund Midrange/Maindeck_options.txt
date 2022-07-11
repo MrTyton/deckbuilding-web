@@ -52,11 +52,11 @@
 1 Shatterskull Smashing
 1 Briarbridge Tracker
 2 Briarbridge Tracker
-1 Power Word Kill
 1 Gloomshrieker
 1 Ishkanah, Grafwidow
-1 Bloodthirsty Adversary
 1 Scavenging Ooze
+1 Bloodthirsty Adversary
+1 Power Word Kill
 1 Satyr Wayfinder
 1 Traverse the Ulvenwald
 1 Klothys, God of Destiny
@@ -64,8 +64,8 @@
 2 Traverse the Ulvenwald
 2 Satyr Wayfinder
 3 Traverse the Ulvenwald
-1 Rootbound Crag
 1 Woodland Cemetery
+1 Rootbound Crag
 1 Field of Ruin
 1 Vraska, Golgari Queen
 1 Kroxa, Titan of Death's Hunger
@@ -80,6 +80,12 @@
 2 Mountain
 3 Tireless Tracker
 3 Abrupt Decay
+1 Dreadhorde Arcanist
+1 Duress
+2 Dreadhorde Arcanist
+3 Bloodchief's Thirst
+3 Dreadhorde Arcanist
+4 Dreadhorde Arcanist
 1 Grim Flayer
 2 Grim Flayer
 3 Grim Flayer
@@ -87,12 +93,6 @@
 3 Dragonskull Summit
 4 Grim Flayer
 4 Riveteers Charm
-1 Dreadhorde Arcanist
-1 Duress
-2 Dreadhorde Arcanist
-3 Bloodchief's Thirst
-3 Dreadhorde Arcanist
-4 Dreadhorde Arcanist
 2 Hive of the Eye Tyrant
 3 Titan of Industry
 3 Dreadbore

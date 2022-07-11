@@ -58,9 +58,14 @@
 1 Sweltering Suns
 1 Blood on the Snow
 1 The Meathook Massacre
-1 Doom Blade
 1 Bedevil
+1 Doom Blade
 1 Baleful Mastery
+1 Sinister Sabotage
+1 Banefire
+1 Field of Ruin
+2 Ashiok, Dream Render
+2 Sinister Sabotage
 1 Pack Rat
 2 Heartless Act
 1 Hullbreaker Horror
@@ -68,32 +73,27 @@
 1 Prismari Command
 1 Fry
 2 Graveyard Trespasser
-1 Sinister Sabotage
-1 Banefire
-1 Field of Ruin
-2 Ashiok, Dream Render
-2 Sinister Sabotage
-1 Gisa, Glorious Resurrector
-1 Phyrexian Obliterator
-1 Lantern of the Lost
-1 Kolaghan's Command
-1 Relic of Progenitus
-2 Gisa, Glorious Resurrector
-2 Sweltering Suns
-1 Brazen Borrower
-1 Malevolent Hermit
-1 Tymaret, Chosen from Death
-1 Feed the Swarm
-2 Feed the Swarm
-2 Malevolent Hermit
 1 Blood Sun
 1 Chandra's Defeat
 2 Blood Sun
 2 Chandra's Defeat
+1 Brazen Borrower
+1 Tymaret, Chosen from Death
+1 Malevolent Hermit
+1 Feed the Swarm
+2 Malevolent Hermit
+2 Feed the Swarm
+1 Phyrexian Obliterator
+1 Lantern of the Lost
+1 Gisa, Glorious Resurrector
+1 Kolaghan's Command
+1 Relic of Progenitus
+2 Sweltering Suns
+2 Gisa, Glorious Resurrector
 1 Spell Pierce
+1 Liliana, Dreadhorde General
 1 Archmage's Charm
 1 Fatal Push
-1 Liliana, Dreadhorde General
 1 Infernal Reckoning
 2 Spell Pierce
 2 Archmage's Charm
@@ -127,6 +127,12 @@
 1 Essence Scatter
 2 Essence Scatter
 4 Mystical Dispute
+1 Dreadhorde Butcher
+2 Dreadhorde Butcher
+3 Dreadhorde Butcher
+3 Virulent Plague
+4 Dreadhorde Butcher
+4 Legion Warboss
 2 Check for Traps
 3 Check for Traps
 4 Agonizing Remorse
@@ -138,16 +144,10 @@
 2 Dragon's Rage Channeler
 3 Dragon's Rage Channeler
 4 Dragon's Rage Channeler
-1 Dreadhorde Butcher
-2 Dreadhorde Butcher
-3 Dreadhorde Butcher
-3 Virulent Plague
-4 Legion Warboss
-4 Dreadhorde Butcher
 1 Galvanic Iteration
 1 Teach by Example
-2 Teach by Example
 2 Galvanic Iteration
+2 Teach by Example
 3 Teach by Example
 4 Teach by Example
 1 Disdainful Stroke

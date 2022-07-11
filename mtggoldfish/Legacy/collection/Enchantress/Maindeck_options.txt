@@ -1,17 +1,17 @@
-1 Rest in Peace
 1 Helm of Obedience
 2 Rest in Peace
-3 Cast Out
+1 Mirri's Guile
 2 Helm of Obedience
 3 Rest in Peace
-2 Green Sun's Zenith
-1 Bayou
 2 Solitary Confinement
-3 Paladin Class
+2 Green Sun's Zenith
+3 Cast Out
 1 Curse of Silence
 2 Curse of Silence
+1 Bayou
 1 Boseiju, Who Endures
 4 Destiny Spinner
+3 Paladin Class
 7 Snow-Covered Forest
 3 Serra's Sanctum
 1 Carpet of Flowers
@@ -37,10 +37,6 @@
 3 Commune with Spirits
 4 Commune with Spirits
 2 Elephant Grass
-1 Living Wish
-2 Living Wish
-3 Living Wish
-4 Living Wish
 8 Snow-Covered Forest
 1 Cavern of Souls
 3 Green Sun's Zenith
@@ -58,6 +54,10 @@
 5 Forest
 6 Forest
 7 Forest
+1 Living Wish
+2 Living Wish
+3 Living Wish
+4 Living Wish
 2 Oblivion Ring
 3 Oblivion Ring
 1 Conclave Tribunal
@@ -71,6 +71,16 @@
 4 Swift Reconfiguration
 1 Plains
 1 Dryad Arbor
+2 Mirri's Guile
+1 Gaea's Touch
+2 Gaea's Touch
+3 Gaea's Touch
+4 Gaea's Touch
+8 Forest
+9 Forest
+10 Forest
+11 Forest
+12 Forest
 1 Doomwake Giant
 1 Out of Time
 1 Hall of Heliod's Generosity
@@ -99,7 +109,6 @@
 2 Misty Rainforest
 4 Elephant Grass
 4 Paladin Class
-2 Mirri's Guile
 3 Helm of Obedience
 4 Rest in Peace
 9 Snow-Covered Forest
@@ -108,25 +117,38 @@
 1 Allosaurus Shepherd
 1 Early Harvest
 1 Tendrils of Agony
-1 Gaea's Touch
 1 Rofellos's Gift
 1 Unbridled Growth
 2 Aeve, Progenitor Ooze
-2 Gaea's Touch
 2 Early Harvest
 2 Unbridled Growth
 2 Rofellos's Gift
 3 Rofellos's Gift
-3 Gaea's Touch
 3 Early Harvest
 3 Unbridled Growth
-4 Gaea's Touch
 4 Rofellos's Gift
 4 Unbridled Growth
-8 Forest
-9 Forest
-10 Forest
-11 Forest
-12 Forest
-13 Forest
 4 Early Harvest
+13 Forest
+1 Island
+1 Counterspell
+1 Enlightened Tutor
+1 Surgical Extraction
+1 Energy Field
+1 Elvish Spirit Guide
+1 Ancestral Knowledge
+1 Back to Basics
+1 Instill Energy
+1 Land Tax
+1 Birds of Paradise
+2 Counterspell
+2 Birds of Paradise
+2 Back to Basics
+2 Elvish Spirit Guide
+2 Instill Energy
+2 Energy Field
+3 Back to Basics
+3 Instill Energy
+3 Elvish Spirit Guide
+4 Instill Energy
+4 Elvish Spirit Guide

@@ -1,30 +1,30 @@
-1 Junji, the Midnight Sky
 1 Valki, God of Lies
 3 Hive of the Eye Tyrant
+1 Junji, the Midnight Sky
 2 March of Wretched Sorrow
 4 Skullport Merchant
 2 Professor Onyx
 4 Blood on the Snow
 4 Lolth, Spider Queen
-1 Hunt for Specimens
-2 Hunt for Specimens
 1 Tenacious Underdog
 2 Tenacious Underdog
-1 Soul Transfer
+1 Hunt for Specimens
+2 Hunt for Specimens
 2 Junji, the Midnight Sky
+1 Soul Transfer
 1 Hagra Mauling
 1 Henrika Domnathi
-1 Baleful Mastery
-2 Baleful Mastery
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
-2 Soul Transfer
+1 Baleful Mastery
+2 Baleful Mastery
 3 Field of Ruin
 1 Fell Stinger
 2 Fell Stinger
 3 Fell Stinger
 1 Tainted Adversary
 2 Tainted Adversary
+3 Tenacious Underdog
 1 Swamp
 2 Swamp
 3 Swamp
@@ -46,6 +46,7 @@
 19 Swamp
 1 Eaten Alive
 2 Eaten Alive
+3 Infernal Grasp
 3 Baleful Mastery
 2 Soul Shatter
 21 Snow-Covered Swamp
@@ -54,11 +55,11 @@
 22 Swamp
 23 Swamp
 24 Swamp
+2 Soul Transfer
 1 Hero's Downfall
 2 Hero's Downfall
 1 Reckoner Bankbuster
 2 Reckoner Bankbuster
-3 Tenacious Underdog
 1 Sedgemoor Witch
 2 Sedgemoor Witch
 3 Sedgemoor Witch
@@ -66,23 +67,25 @@
 3 Eaten Alive
 1 Duress
 2 Duress
-1 Bloodvial Purveyor
 1 Life of Toshiro Umezawa
-3 Infernal Grasp
+1 Bloodvial Purveyor
 4 The Meathook Massacre
 3 Bloodchief's Thirst
-1 Nighthawk Scavenger
-2 Nighthawk Scavenger
-2 Henrika Domnathi
-3 Nighthawk Scavenger
-1 Morkrut Behemoth
 1 Okiba Reckoner Raid
-1 Dread Rider
 2 Okiba Reckoner Raid
-2 Life of Toshiro Umezawa
-3 Life of Toshiro Umezawa
 3 Okiba Reckoner Raid
 4 Okiba Reckoner Raid
+1 Village Rites
+2 Village Rites
+3 Village Rites
+1 Morkrut Behemoth
+1 Dread Rider
+2 Life of Toshiro Umezawa
+3 Life of Toshiro Umezawa
+1 Nighthawk Scavenger
+2 Henrika Domnathi
+2 Nighthawk Scavenger
+3 Nighthawk Scavenger
 2 Valki, God of Lies
 3 Reckoner Bankbuster
 1 Graveyard Trespasser
@@ -96,9 +99,6 @@
 3 Dockside Chef
 4 Dockside Chef
 1 Power Word Kill
-1 Village Rites
-2 Village Rites
-3 Village Rites
 1 Inscription of Ruin
 1 Jadar, Ghoulcaller of Nephalia
 1 Champion of the Perished
@@ -111,36 +111,35 @@
 4 Champion of the Perished
 4 Tainted Adversary
 1 Go Blank
+4 Hive of the Eye Tyrant
+4 Tenacious Underdog
 1 Snow-Covered Plains
 1 Edgar, Charmed Groom
 1 Dreadfeast Demon
 2 Bloodvial Purveyor
+1 Malakir Rebirth
+2 Malakir Rebirth
 2 Go Blank
-3 Sorin the Mirthless
-1 Ebondeath, Dracolich
 1 Graf Reaver
+1 Ebondeath, Dracolich
 2 Graf Reaver
 3 Graf Reaver
-3 Hero's Downfall
-1 Blightstep Pathway
 1 Shadows' Verdict
+1 Blightstep Pathway
 2 Shadows' Verdict
 3 Shadows' Verdict
-4 Reckoner Bankbuster
-4 Hive of the Eye Tyrant
+3 Hero's Downfall
+3 Sorin the Mirthless
 2 Crawling Barrens
 3 Crawling Barrens
 4 Village Rites
-2 Power Word Kill
 2 Warlock Class
+2 Power Word Kill
 3 Warlock Class
 4 Warlock Class
-1 Malakir Rebirth
-2 Malakir Rebirth
-4 Tenacious Underdog
+1 Zof Consumption
 1 Blood Pact
 1 Demogorgon's Clutches
-1 Zof Consumption
 1 Vampire's Kiss
 2 Zof Consumption
 2 Blood Pact
@@ -159,13 +158,21 @@
 3 Ray of Enfeeblement
 4 Ray of Enfeeblement
 4 Jadar, Ghoulcaller of Nephalia
-1 Debt to the Kami
-1 Callous Bloodmage
-1 Tergrid, God of Fright
-2 Debt to the Kami
-2 Takenuma, Abandoned Mire
-2 Tergrid, God of Fright
-3 Soul Transfer
-3 Debt to the Kami
-4 Debt to the Kami
+1 Concealing Curtains
+1 Agadeem's Awakening
+1 Dread Fugue
+1 Bloodsky Berserker
+1 Hostile Hostel
+1 Blade of the Oni
+2 Concealing Curtains
+2 Agadeem's Awakening
+2 Dread Fugue
+2 Bloodsky Berserker
+2 Blade of the Oni
+3 Bloodsky Berserker
+3 Dread Fugue
+3 Blade of the Oni
+4 Dread Fugue
+4 Bloodsky Berserker
+4 Reckoner Bankbuster
 22 Snow-Covered Swamp
