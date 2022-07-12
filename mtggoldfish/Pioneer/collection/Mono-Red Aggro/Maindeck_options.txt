@@ -1,10 +1,5 @@
-2 Torbran, Thane of Red Fell
-12 Mountain
-1 Kari Zev, Skyship Raider
-13 Mountain
-1 Hazoret the Fervent
 2 Kari Zev, Skyship Raider
-14 Mountain
+1 Hazoret the Fervent
 1 Castle Embereth
 1 Embercleave
 1 Fanatical Firebrand
@@ -23,13 +18,18 @@
 4 Burning-Tree Emissary
 4 Anax, Hardened in the Forge
 4 Fanatical Firebrand
-4 Chandra, Dressed to Kill
-2 Spikefield Hazard
+4 Skewer the Critics
+3 Lightning Strike
+1 Chandra, Dressed to Kill
+2 Chandra, Dressed to Kill
+3 Chandra, Dressed to Kill
 1 Wild Slash
 1 Goblin Chainwhirler
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
 4 Goblin Chainwhirler
+2 Spikefield Hazard
+4 Chandra, Dressed to Kill
 2 Wild Slash
 4 Lightning Strike
 1 Chandra, Torch of Defiance
@@ -37,22 +37,34 @@
 2 Hazoret the Fervent
 3 Spikefield Hazard
 4 Spikefield Hazard
-1 End the Festivities
-3 Hazoret the Fervent
 1 Rampaging Ferocidon
+2 Rampaging Ferocidon
+1 End the Festivities
+3 Chandra, Torch of Defiance
+3 Hazoret the Fervent
 1 Zurgo Bellstriker
 2 Zurgo Bellstriker
-2 Rampaging Ferocidon
 3 Torbran, Thane of Red Fell
-1 Bomat Courier
-1 Mutavault
-2 Bomat Courier
-3 Bomat Courier
-4 Bomat Courier
 1 Cemetery Gatekeeper
 2 Cemetery Gatekeeper
 3 Cemetery Gatekeeper
 4 Cemetery Gatekeeper
+1 Bomat Courier
+1 Viashino Pyromancer
+1 Wizard's Lightning
+1 Ghitu Lavarunner
+2 Bomat Courier
+2 Viashino Pyromancer
+2 Wizard's Lightning
+2 Ghitu Lavarunner
+3 Bomat Courier
+3 Viashino Pyromancer
+3 Ghitu Lavarunner
+3 Wizard's Lightning
+4 Bomat Courier
+4 Viashino Pyromancer
+4 Wizard's Lightning
+4 Ghitu Lavarunner
 3 Wild Slash
 4 Wild Slash
 15 Mountain

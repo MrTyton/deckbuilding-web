@@ -44,15 +44,15 @@
 2 Brazen Borrower
 3 Waterlogged Grove
 1 Phantasmal Image
+1 Prismatic Ending
 1 Hallowed Fountain
 1 Seachrome Coast
-1 Prismatic Ending
 1 Ephemerate
+2 Prismatic Ending
 2 Hallowed Fountain
 2 Seachrome Coast
-2 Prismatic Ending
-3 Seachrome Coast
 3 Prismatic Ending
+3 Seachrome Coast
 4 Prismatic Ending
 4 Seachrome Coast
 4 Flooded Strand
@@ -63,8 +63,8 @@
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
-1 March of Swirling Mist
 1 Fiery Islet
+1 March of Swirling Mist
 2 March of Swirling Mist
 3 Merrow Reejerey
 1 Polluted Delta
@@ -74,11 +74,6 @@
 2 Divide by Zero
 3 Divide by Zero
 4 Divide by Zero
-1 Raugrin Triome
-1 Solitude
-2 Solitude
-3 Solitude
-4 Solitude
 1 Castle Vantress
 2 Phantasmal Image
 3 Brazen Borrower
@@ -97,6 +92,11 @@
 2 Cryptic Command
 2 Hall of Storm Giants
 4 Archmage's Charm
+1 Raugrin Triome
+1 Solitude
+2 Solitude
+3 Solitude
+4 Solitude
 1 Relic of Progenitus
 1 Suspend
 2 Suspend
@@ -107,18 +107,18 @@
 1 Kopala, Warden of Waves
 2 Pongify
 3 Pongify
-1 Utopia Sprawl
 1 Collected Company
+1 Utopia Sprawl
 1 Breeding Pool
 1 Forest
-2 Utopia Sprawl
 2 Collected Company
+2 Utopia Sprawl
 2 Breeding Pool
-3 Utopia Sprawl
 3 Collected Company
+3 Utopia Sprawl
 3 Breeding Pool
-4 Utopia Sprawl
 4 Collected Company
+4 Utopia Sprawl
 4 Breeding Pool
 4 Merrow Reejerey
 1 Eiganjo, Seat of the Empire

@@ -44,8 +44,8 @@
 3 Sprite Dragon
 4 Sprite Dragon
 4 Spirebluff Canal
-1 Gut Shot
 1 Vapor Snag
+1 Gut Shot
 1 Stormwing Entity
 2 Gut Shot
 2 Stormwing Entity
@@ -75,139 +75,139 @@
 1 Desperate Ritual
 4 Bloodstained Mire
 1 Monastery Mentor
-1 Teferi, Time Raveler
 1 Hallowed Fountain
+1 Teferi, Time Raveler
 1 Counterspell
 1 Prismatic Ending
 2 Monastery Mentor
-2 Counterspell
 2 Hallowed Fountain
+2 Counterspell
 2 Prismatic Ending
-3 Prismatic Ending
 3 Monastery Mentor
 3 Flooded Strand
+3 Prismatic Ending
 3 Counterspell
 4 Flooded Strand
 4 Counterspell
+1 Fable of the Mirror-Breaker
 1 Snow-Covered Island
 1 Magus of the Moon
-1 Fable of the Mirror-Breaker
 1 Frantic Inventory
+2 Fable of the Mirror-Breaker
 2 Snow-Covered Island
 2 Magus of the Moon
 2 Frantic Inventory
-2 Fable of the Mirror-Breaker
-3 Magus of the Moon
 3 Fable of the Mirror-Breaker
+3 Magus of the Moon
 3 Frantic Inventory
 4 Frantic Inventory
 1 Polluted Delta
 5 Mountain
 6 Mountain
-1 Spikefield Hazard
-1 Brazen Borrower
 1 Misty Rainforest
+1 Brazen Borrower
+1 Spikefield Hazard
 2 Path to Exile
 1 Opt
-2 Opt
 2 Vapor Snag
+2 Opt
 3 Opt
 1 Sleight of Hand
 1 Bedlam Reveler
 2 Sleight of Hand
 3 Sleight of Hand
 4 Sleight of Hand
-1 Inquisition of Kozilek
-1 Kroxa, Titan of Death's Hunger
-1 Drown in the Loch
-1 Watery Grave
-1 Thoughtseize
-1 Fatal Push
-1 Swamp
 1 Blackcleave Cliffs
+1 Swamp
 1 Blood Crypt
-2 Polluted Delta
-2 Inquisition of Kozilek
+1 Drown in the Loch
+1 Inquisition of Kozilek
+1 Fatal Push
+1 Thoughtseize
+1 Watery Grave
+1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
-2 Drown in the Loch
-2 Blood Crypt
-2 Thoughtseize
 2 Blackcleave Cliffs
+2 Blood Crypt
+2 Drown in the Loch
+2 Inquisition of Kozilek
 2 Fatal Push
-3 Blackcleave Cliffs
-3 Inquisition of Kozilek
-3 Polluted Delta
-3 Drown in the Loch
+2 Thoughtseize
+2 Polluted Delta
 3 Thoughtseize
-4 Drown in the Loch
+3 Blackcleave Cliffs
+3 Drown in the Loch
+3 Polluted Delta
+3 Inquisition of Kozilek
 4 Polluted Delta
-1 Dryad Arbor
-1 Goblin Guide
-1 Legion Loyalist
-1 Reckless Bushwhacker
-1 Goblin Bushwhacker
-1 Burning-Tree Emissary
-1 Wayward Guide-Beast
-1 Bomat Courier
-1 Signal Pest
-1 Memnite
-2 Goblin Guide
-2 Goblin Bushwhacker
-2 Reckless Bushwhacker
-2 Legion Loyalist
-2 Burning-Tree Emissary
-2 Wayward Guide-Beast
-2 Bomat Courier
-2 Signal Pest
-2 Memnite
-3 Wooded Foothills
-3 Goblin Guide
-3 Legion Loyalist
-3 Goblin Bushwhacker
-3 Reckless Bushwhacker
-3 Burning-Tree Emissary
-3 Bomat Courier
-3 Memnite
-3 Signal Pest
-4 Wooded Foothills
-4 Goblin Guide
-4 Legion Loyalist
-4 Goblin Bushwhacker
-4 Reckless Bushwhacker
-4 Burning-Tree Emissary
-4 Bomat Courier
-4 Signal Pest
-4 Memnite
-1 Lava Spike
-1 Bonecrusher Giant
-1 Boros Charm
+4 Drown in the Loch
 1 Lightning Helix
+1 Plains
 1 Flame Rift
 1 Kumano Faces Kakkazan
+1 Bonecrusher Giant
+1 Lava Spike
+1 Boros Charm
 1 Viashino Pyromancer
-1 Plains
 1 Keldon Marauders
 1 Mutavault
-2 Lava Spike
+2 Lightning Helix
 2 Sokenzan, Crucible of Defiance
 2 Boros Charm
 2 Bonecrusher Giant
-2 Flame Rift
-2 Lightning Helix
-2 Kumano Faces Kakkazan
 2 Viashino Pyromancer
+2 Kumano Faces Kakkazan
 2 Keldon Marauders
-3 Lava Spike
+2 Flame Rift
+2 Lava Spike
+3 Sacred Foundry
 3 Lightning Helix
+3 Lava Spike
 3 Viashino Pyromancer
 3 Boros Charm
-3 Sacred Foundry
 3 Flame Rift
 3 Keldon Marauders
 4 Lightning Helix
 4 Sacred Foundry
-4 Lava Spike
 4 Keldon Marauders
 4 Boros Charm
 4 Viashino Pyromancer
 4 Flame Rift
+4 Lava Spike
+1 Burning-Tree Emissary
+1 Dryad Arbor
+1 Signal Pest
+1 Goblin Bushwhacker
+1 Bomat Courier
+1 Legion Loyalist
+1 Memnite
+1 Wayward Guide-Beast
+1 Reckless Bushwhacker
+1 Goblin Guide
+2 Burning-Tree Emissary
+2 Legion Loyalist
+2 Reckless Bushwhacker
+2 Signal Pest
+2 Goblin Guide
+2 Bomat Courier
+2 Memnite
+2 Wayward Guide-Beast
+2 Goblin Bushwhacker
+3 Burning-Tree Emissary
+3 Memnite
+3 Reckless Bushwhacker
+3 Goblin Guide
+3 Goblin Bushwhacker
+3 Signal Pest
+3 Bomat Courier
+3 Legion Loyalist
+3 Wooded Foothills
+4 Signal Pest
+4 Bomat Courier
+4 Memnite
+4 Burning-Tree Emissary
+4 Reckless Bushwhacker
+4 Goblin Bushwhacker
+4 Legion Loyalist
+4 Wooded Foothills
+4 Goblin Guide

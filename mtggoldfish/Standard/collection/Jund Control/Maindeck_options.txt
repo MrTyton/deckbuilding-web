@@ -9,21 +9,22 @@
 1 Shambling Ghast
 2 Shambling Ghast
 3 Tenacious Underdog
-4 Deadly Dispute
+1 Ob Nixilis, the Adversary
+2 Rockfall Vale
 3 Haunted Ridge
+4 Deadly Dispute
 1 Goldspan Dragon
 2 Goldspan Dragon
 3 Shambling Ghast
 4 Shambling Ghast
 1 Kalain, Reclusive Painter
 2 Kalain, Reclusive Painter
+2 Swamp
 3 Goldspan Dragon
 1 Immersturm Predator
 2 Immersturm Predator
 3 Immersturm Predator
-2 Swamp
 4 Haunted Ridge
-2 Rockfall Vale
 4 Riveteers Charm
 1 Halana and Alena, Partners
 1 Graveyard Trespasser
@@ -34,7 +35,6 @@
 3 Kalain, Reclusive Painter
 4 Goldspan Dragon
 4 Kalain, Reclusive Painter
-1 Ob Nixilis, the Adversary
 1 Light Up the Night
 1 Florian, Voldaren Scion
 3 Infernal Grasp
@@ -88,10 +88,11 @@
 3 Invoke Despair
 1 Jaspera Sentinel
 2 Jaspera Sentinel
+2 Wrenn and Seven
 3 Binding the Old Gods
-1 Sokenzan, Crucible of Defiance
 1 Strangle
 2 Strangle
+1 Sokenzan, Crucible of Defiance
 3 Eyetwitch
 4 Deathcap Glade
 2 Sorin the Mirthless
@@ -99,6 +100,7 @@
 2 Duress
 2 Light Up the Night
 2 Soul Shatter
+3 Rockfall Vale
 1 Agadeem's Awakening
 1 Warlock Class
 1 Inscription of Ruin
@@ -114,6 +116,18 @@
 2 Demogorgon's Clutches
 2 Acquisitions Expert
 3 Hive of the Eye Tyrant
+1 Rabbit Battery
+1 Ranger Class
+1 Professional Face-Breaker
+1 Corpse Explosion
+1 Eater of Virtue
+1 Ziatora's Envoy
+2 Ranger Class
+2 Rabbit Battery
+2 Ziatora's Envoy
+3 Rabbit Battery
+3 Snakeskin Veil
+3 Ziatora's Envoy
 1 Jadar, Ghoulcaller of Nephalia
 1 Extus, Oriq Overlord
 1 Branchloft Pathway
@@ -124,42 +138,29 @@
 2 Branchloft Pathway
 3 Jaspera Sentinel
 3 Extus, Oriq Overlord
-1 Rabbit Battery
-1 Ranger Class
-1 Professional Face-Breaker
-1 Corpse Explosion
-1 Eater of Virtue
-1 Ziatora's Envoy
-2 Ranger Class
-2 Rabbit Battery
-2 Ziatora's Envoy
-3 Snakeskin Veil
-3 Rabbit Battery
-3 Ziatora's Envoy
 2 Ziatora, the Incinerator
 3 Ziatora, the Incinerator
 1 Flame-Blessed Bolt
 2 Flame-Blessed Bolt
 4 Invoke Despair
-1 Field of Ruin
 1 Topiary Stomper
-1 Arcane Bombardment
 1 Rugged Highlands
 1 Unnatural Growth
 1 Waking the Trolls
-1 Cleansing Wildfire
 1 Gnottvold Slumbermound
+1 Field of Ruin
 1 Woodland Chasm
-2 Field of Ruin
+1 Arcane Bombardment
+1 Cleansing Wildfire
 2 Topiary Stomper
 2 Rugged Highlands
 2 Waking the Trolls
-2 Wrenn and Seven
-2 Arcane Bombardment
 2 Unnatural Growth
-2 Cleansing Wildfire
 2 Gnottvold Slumbermound
+2 Field of Ruin
+2 Cleansing Wildfire
 2 Woodland Chasm
+2 Arcane Bombardment
 3 Topiary Stomper
 3 Gnottvold Slumbermound
 3 Unnatural Growth
@@ -185,8 +186,8 @@
 4 Experimental Synthesizer
 4 Sokenzan Smelter
 1 Atsushi, the Blazing Sky
-1 Sarulf, Realm Eater
 1 Masked Vandal
+1 Sarulf, Realm Eater
 1 Kardur's Vicious Return
 2 Sarulf, Realm Eater
 2 Atsushi, the Blazing Sky
@@ -214,8 +215,8 @@
 1 Hero's Downfall
 2 Fell Stinger
 2 Sulfurous Mire
-2 Blood on the Snow
 2 Snow-Covered Swamp
+2 Blood on the Snow
 2 Snow-Covered Mountain
 3 Fell Stinger
 3 Lolth, Spider Queen
@@ -240,6 +241,7 @@
 1 Froghemoth
 1 The Celestus
 1 Mulch
+1 Old Gnawbone
 1 Cinderclasm
 1 Dryad's Revival
 1 Bloodchief's Thirst
@@ -248,7 +250,6 @@
 1 Drana, the Last Bloodchief
 1 Necroblossom Snarl
 1 Eccentric Farmer
-1 Old Gnawbone
 1 Cathartic Pyre
 1 Olivia, Crimson Bride
 2 Bloodchief's Thirst

@@ -1,18 +1,18 @@
+1 Swamp
+1 Preordain
 1 Snow-Covered Island
 2 Daze
-1 Swamp
+3 Street Wraith
+3 Misty Rainforest
 3 Cabal Ritual
 3 Scalding Tarn
 1 Pact of Negation
-1 Preordain
-3 Misty Rainforest
-1 Snow-Covered Swamp
-3 Street Wraith
 1 Bloodstained Mire
-1 Misdirection
+1 Snow-Covered Swamp
 2 Preordain
 4 Lotus Petal
 2 Flusterstorm
+1 Misdirection
 1 Baleful Strix
 2 Baleful Strix
 3 Baleful Strix
@@ -27,15 +27,14 @@
 2 Grief
 3 Grief
 4 Duress
-1 Verdant Catacombs
 1 Bayou
 1 Tropical Island
 4 Misty Rainforest
 3 Daze
 1 Teferi, Time Raveler
+1 Marsh Flats
 1 Scrubland
 1 Tundra
-1 Marsh Flats
 2 Teferi, Time Raveler
 4 Flooded Strand
 2 Island
@@ -47,8 +46,8 @@
 2 Ledger Shredder
 3 Ledger Shredder
 1 Manamorphose
-1 Gemstone Mine
 1 Echo of Eons
+1 Gemstone Mine
 1 Glimmervoid
 1 Empty the Warrens
 1 Spoils of the Vault
@@ -87,6 +86,7 @@
 4 Lion's Eye Diamond
 4 Chrome Mox
 4 Gemstone Mine
+1 Verdant Catacombs
 1 Deep Analysis
 4 Ledger Shredder
 1 Malevolent Hermit
@@ -108,6 +108,12 @@
 2 Lightning Bolt
 3 Lightning Bolt
 4 Scalding Tarn
+1 Spell Pierce
+1 Dragon's Rage Channeler
+2 Dragon's Rage Channeler
+3 Dragon's Rage Channeler
+4 Dragon's Rage Channeler
+4 Predict
 1 Fatal Push
 1 Temporal Mastery
 3 Malevolent Hermit
@@ -117,9 +123,3 @@
 2 Sudden Edict
 3 Sudden Edict
 4 Sudden Edict
-1 Spell Pierce
-1 Dragon's Rage Channeler
-2 Dragon's Rage Channeler
-3 Dragon's Rage Channeler
-4 Predict
-4 Dragon's Rage Channeler

@@ -10,7 +10,6 @@
 1 Forest
 2 Growth Spiral
 1 Hallowed Fountain
-1 Hinterland Harbor
 1 Indatha Triome
 1 Island
 2 Jetmir's Garden
@@ -31,6 +30,7 @@
 1 Steam Vents
 2 Sulfur Falls
 2 Sunpetal Grove
+1 Swamp
 4 Sylvan Caryatid
 1 The Scarab God
 1 Valki, God of Lies
@@ -39,9 +39,10 @@
 1 Woodland Cemetery
 1 Ziatora's Proving Ground
 Sideboard
-2 Deafening Silence
+1 Deafening Silence
 2 Dovin's Veto
 2 Fatal Push
+1 Go Blank
 1 Jegantha, the Wellspring
 2 Kambal, Consul of Allocation
 2 Mystical Dispute
