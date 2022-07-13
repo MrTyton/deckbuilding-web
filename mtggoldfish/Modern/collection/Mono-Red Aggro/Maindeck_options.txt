@@ -51,14 +51,14 @@
 4 Lava Spike
 3 Fiery Islet
 4 Fiery Islet
-1 Tarfire
-2 Tarfire
-3 Tarfire
-4 Tarfire
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 3 Bonecrusher Giant
 4 Bonecrusher Giant
+1 Tarfire
+2 Tarfire
+3 Tarfire
+4 Tarfire
 3 Crash Through
 4 Crash Through
 4 Scalding Tarn
@@ -82,7 +82,6 @@
 1 Castle Embereth
 1 Goblin Grenade
 1 Mogg Fanatic
-2 Mogg Fanatic
 2 Goblin Bushwhacker
 2 Reckless Bushwhacker
 2 Legion Loyalist
@@ -90,6 +89,7 @@
 2 Goblin Grenade
 2 Foundry Street Denizen
 2 Castle Embereth
+2 Mogg Fanatic
 3 Legion Loyalist
 3 Goblin Bushwhacker
 3 Reckless Bushwhacker

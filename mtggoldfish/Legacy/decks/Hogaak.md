@@ -73,7 +73,7 @@
 |                    1|[Boseiju, Who Endures](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548579)|                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)   |
 |                    1|[Undiscovered Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3755) |                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)   |
 |                    2|[Gemstone Mine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109761)       |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)   |
-|                    3|[Carrion Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=210133)      |                    3|[Darkblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456055)             |
-|                    3|[Putrid Imp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270459)          |                     |                                                                                                 |
+|                    3|[Putrid Imp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270459)          |                    3|[Darkblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456055)             |
+|                    3|[Carrion Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=210133)      |                     |                                                                                                 |
 |                    4|[Badlands](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=878)               |                     |                                                                                                 |
 

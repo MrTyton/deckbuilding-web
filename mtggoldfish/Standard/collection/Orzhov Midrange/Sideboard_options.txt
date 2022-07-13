@@ -2,23 +2,23 @@
 1 Ray of Enfeeblement
 2 Ray of Enfeeblement
 1 Duress
+3 Ray of Enfeeblement
 2 Duress
 1 Fracture
 2 Fracture
 3 Duress
-3 Ray of Enfeeblement
 1 Archon of Emeria
 2 Archon of Emeria
 1 Crippling Fear
 4 Duress
 1 The Meathook Massacre
 1 Reidane, God of the Worthy
-1 Humiliate
 1 Fateful Absence
 1 Rite of Oblivion
 1 Disenchant
 2 Disenchant
 1 Doomskar
+1 Humiliate
 1 Rally the Ranks
 2 Rite of Oblivion
 2 Humiliate
@@ -31,6 +31,8 @@
 1 Vanishing Verse
 1 Skyclave Apparition
 2 Reidane, God of the Worthy
+1 Valorous Stance
+2 Valorous Stance
 1 Farewell
 1 Vanquish the Horde
 1 Valkyrie Harbinger
@@ -42,15 +44,11 @@
 2 Invoke Despair
 1 Paladin Class
 2 Paladin Class
-1 Graveyard Trespasser
-2 Graveyard Trespasser
 1 Introduction to Annihilation
 1 Confront the Past
 2 Environmental Sciences
 2 Necrotic Fumes
 2 Vanishing Verse
-1 Valorous Stance
-2 Valorous Stance
 2 Rally the Ranks
 1 Starnheim Unleashed
 1 Sigarda's Splendor
@@ -81,3 +79,5 @@
 2 Farewell
 2 Expel
 2 Invoke the Divine
+1 Sanctify
+2 Sanctify

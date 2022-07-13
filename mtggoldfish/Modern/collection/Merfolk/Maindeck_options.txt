@@ -1,11 +1,11 @@
-1 Oboro, Palace in the Clouds
 4 Force of Negation
 10 Island
 1 Kira, Great Glass-Spinner
-4 Glasspool Mimic
+1 Oboro, Palace in the Clouds
 1 Harbinger of the Tides
 2 Harbinger of the Tides
 3 Harbinger of the Tides
+4 Glasspool Mimic
 3 Spreading Seas
 11 Island
 1 Master of Waves
@@ -44,18 +44,18 @@
 2 Brazen Borrower
 3 Waterlogged Grove
 1 Phantasmal Image
-1 Prismatic Ending
-1 Hallowed Fountain
 1 Seachrome Coast
+1 Hallowed Fountain
+1 Prismatic Ending
 1 Ephemerate
+2 Seachrome Coast
 2 Prismatic Ending
 2 Hallowed Fountain
-2 Seachrome Coast
-3 Prismatic Ending
 3 Seachrome Coast
-4 Prismatic Ending
+3 Prismatic Ending
 4 Seachrome Coast
 4 Flooded Strand
+4 Prismatic Ending
 1 Archmage's Charm
 2 Archmage's Charm
 3 Archmage's Charm
@@ -63,8 +63,8 @@
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
-1 Fiery Islet
 1 March of Swirling Mist
+1 Fiery Islet
 2 March of Swirling Mist
 3 Merrow Reejerey
 1 Polluted Delta
@@ -74,6 +74,11 @@
 2 Divide by Zero
 3 Divide by Zero
 4 Divide by Zero
+1 Raugrin Triome
+1 Solitude
+2 Solitude
+3 Solitude
+4 Solitude
 1 Castle Vantress
 2 Phantasmal Image
 3 Brazen Borrower
@@ -92,11 +97,6 @@
 2 Cryptic Command
 2 Hall of Storm Giants
 4 Archmage's Charm
-1 Raugrin Triome
-1 Solitude
-2 Solitude
-3 Solitude
-4 Solitude
 1 Relic of Progenitus
 1 Suspend
 2 Suspend
@@ -108,8 +108,8 @@
 2 Pongify
 3 Pongify
 1 Collected Company
-1 Utopia Sprawl
 1 Breeding Pool
+1 Utopia Sprawl
 1 Forest
 2 Collected Company
 2 Utopia Sprawl

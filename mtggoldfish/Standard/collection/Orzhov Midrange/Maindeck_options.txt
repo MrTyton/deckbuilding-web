@@ -1,9 +1,11 @@
 1 The Wandering Emperor
 3 Swamp
-1 Cave of the Frost Dragon
 2 The Wandering Emperor
+1 Cave of the Frost Dragon
+7 Plains
 1 Luminarch Aspirant
 2 Luminarch Aspirant
+1 Field of Ruin
 3 The Wandering Emperor
 3 Luminarch Aspirant
 4 Luminarch Aspirant
@@ -15,49 +17,45 @@
 3 Wedding Announcement
 4 Wedding Announcement
 2 Infernal Grasp
-7 Plains
-1 Field of Ruin
-2 Eiganjo, Seat of the Empire
-1 Reidane, God of the Worthy
-2 Lolth, Spider Queen
-1 Henrika Domnathi
-2 Reidane, God of the Worthy
 4 Swamp
 2 Cave of the Frost Dragon
+2 Eiganjo, Seat of the Empire
+1 Reidane, God of the Worthy
 3 Liesa, Forgotten Archangel
-2 Henrika Domnathi
+2 Lolth, Spider Queen
+2 Field of Ruin
+1 Henrika Domnathi
+2 Reidane, God of the Worthy
 1 Angel of Destiny
 2 Angel of Destiny
-2 Field of Ruin
+1 The Restoration of Eiganjo
 1 Sorin the Mirthless
 1 Boon of Safety
 2 Boon of Safety
 3 Boon of Safety
-1 Silverquill Silencer
-2 Silverquill Silencer
-3 Silverquill Silencer
-1 The Restoration of Eiganjo
+2 Henrika Domnathi
 2 The Restoration of Eiganjo
 3 Lolth, Spider Queen
-3 Hive of the Eye Tyrant
 1 Reckoner Bankbuster
-1 Raffine's Tower
+8 Plains
+1 Haunting Voyage
+2 Haunting Voyage
 1 Graveyard Trespasser
 2 Graveyard Trespasser
 3 Graveyard Trespasser
 1 Duress
-1 Haunting Voyage
-2 Haunting Voyage
-1 Tenacious Underdog
 4 Vanishing Verse
 1 Elite Spellbinder
 2 Elite Spellbinder
 1 Fateful Absence
 2 Fateful Absence
+1 Silverquill Silencer
+2 Silverquill Silencer
+3 Silverquill Silencer
 4 Silverquill Silencer
 3 Reidane, God of the Worthy
 1 Edgar, Charmed Groom
-8 Plains
+3 Hive of the Eye Tyrant
 1 Welcoming Vampire
 2 Reckoner Bankbuster
 3 Emeria's Call
@@ -65,21 +63,30 @@
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
 2 Duress
-1 Archon of Emeria
-2 Archon of Emeria
+1 Raffine's Tower
 1 Extraction Specialist
 2 Extraction Specialist
 3 Elite Spellbinder
 1 Humiliate
 2 Humiliate
+1 Kaya the Inexorable
+1 Starnheim Unleashed
+2 Starnheim Unleashed
+3 Field of Ruin
+9 Plains
+5 Swamp
+6 Swamp
+1 Vengeful Reaper
+2 Vengeful Reaper
+1 Tenacious Underdog
 2 Tenacious Underdog
 3 Tenacious Underdog
 4 Tenacious Underdog
+1 Farewell
 2 Welcoming Vampire
 1 Shambling Ghast
 1 Deadly Dispute
 1 Rite of Oblivion
-1 Kaya the Inexorable
 2 Edgar, Charmed Groom
 2 Shambling Ghast
 2 Deadly Dispute
@@ -106,6 +113,8 @@
 7 Snow-Covered Swamp
 7 Snow-Covered Plains
 8 Snow-Covered Plains
+1 Starnheim Aspirant
+2 Starnheim Aspirant
 1 Hero's Downfall
 2 Hero's Downfall
 3 Hero's Downfall
@@ -123,20 +132,16 @@
 4 Shambling Ghast
 1 Paladin Class
 2 Paladin Class
-1 Starnheim Unleashed
-2 Starnheim Unleashed
-3 Infernal Grasp
+1 Path of Peril
+2 Path of Peril
 1 Sejiri Shelter
-1 Vengeful Reaper
 2 Sejiri Shelter
-2 Vengeful Reaper
 3 Vengeful Reaper
 3 Bloodchief's Thirst
 4 Graveyard Trespasser
 1 Agadeem's Awakening
 1 Luxior, Giada's Gift
 1 Eyetwitch
-1 Farewell
 1 Kaya, Geist Hunter
 2 Luxior, Giada's Gift
 2 Eyetwitch
@@ -150,8 +155,10 @@
 4 The Wandering Emperor
 4 Welcoming Vampire
 1 Kabira Takedown
+1 Archon of Emeria
 1 Hopeful Initiate
 1 Thalia, Guardian of Thraben
+2 Archon of Emeria
 2 Raffine's Tower
 2 Thalia, Guardian of Thraben
 2 Hopeful Initiate
@@ -172,21 +179,27 @@
 3 Duress
 3 Intrepid Adversary
 4 Intrepid Adversary
-1 Path of Peril
-2 Path of Peril
-5 Swamp
-6 Swamp
-3 Field of Ruin
-9 Plains
+1 Valkyrie Harbinger
+1 Cleric Class
+1 The Long Reach of Night
+1 Valkyrie's Sword
+2 Kaya the Inexorable
+2 Farewell
+2 Cleric Class
+2 The Long Reach of Night
+2 Rampage of the Valkyries
+2 Valkyrie Harbinger
+2 Valkyrie's Sword
+3 Rampage of the Valkyries
+7 Swamp
+10 Plains
 1 Eradicator Valkyrie
 1 Enduring Angel
-1 Cosmos Elixir
 1 The Book of Exalted Deeds
-1 Starnheim Aspirant
+1 Cosmos Elixir
 2 Cosmos Elixir
 2 The Book of Exalted Deeds
 2 Eradicator Valkyrie
-2 Starnheim Aspirant
 3 Starnheim Aspirant
 4 Starnheim Aspirant
 4 Renegade Reaper

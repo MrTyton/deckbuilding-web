@@ -10,8 +10,8 @@
 2 Pillar of Flame
 3 Bonecrusher Giant
 4 Bomat Courier
-1 Dragon's Rage Channeler
 1 Spikefield Hazard
+1 Dragon's Rage Channeler
 2 Dragon's Rage Channeler
 3 Dragon's Rage Channeler
 4 Viashino Pyromancer
@@ -24,8 +24,8 @@
 16 Mountain
 2 Chandra, Dressed to Kill
 3 Spikefield Hazard
-1 Kumano Faces Kakkazan
 1 Sokenzan, Crucible of Defiance
+1 Kumano Faces Kakkazan
 2 Kumano Faces Kakkazan
 3 Kumano Faces Kakkazan
 4 Kumano Faces Kakkazan
@@ -62,14 +62,14 @@
 4 Fervent Champion
 4 Spikefield Hazard
 1 March of Reckless Joy
+1 Hazoret the Fervent
 1 Shatterskull Smashing
 1 Burning-Tree Emissary
-1 Hazoret the Fervent
 1 Sunscorched Desert
 2 March of Reckless Joy
-2 Burning-Tree Emissary
-2 Hazoret the Fervent
 2 Shatterskull Smashing
+2 Hazoret the Fervent
+2 Burning-Tree Emissary
 2 Sunscorched Desert
 3 Burning-Tree Emissary
 3 Shatterskull Smashing
@@ -93,32 +93,32 @@
 4 Pillar of Flame
 4 Roil Eruption
 4 Flame Channeler
-1 Temple Garden
 1 Clever Lumimancer
-1 Sacred Foundry
-1 Needleverge Pathway
-1 Klothys, God of Destiny
 1 Lightning Helix
+1 Klothys, God of Destiny
+1 Temple Garden
+1 Needleverge Pathway
 1 Rockfall Vale
 1 Inspiring Vantage
-2 Temple Garden
+1 Sacred Foundry
 2 Sacred Foundry
-2 Needleverge Pathway
-2 Klothys, God of Destiny
 2 Lightning Helix
+2 Klothys, God of Destiny
 2 Inspiring Vantage
+2 Temple Garden
 2 Rockfall Vale
+2 Needleverge Pathway
 2 Clever Lumimancer
-3 Temple Garden
-3 Lightning Helix
 3 Sacred Foundry
+3 Lightning Helix
 3 Inspiring Vantage
 3 Clever Lumimancer
 3 Stomping Ground
-4 Temple Garden
-4 Lightning Helix
-4 Stomping Ground
+3 Temple Garden
 4 Sacred Foundry
+4 Lightning Helix
+4 Temple Garden
+4 Stomping Ground
 4 Clever Lumimancer
 4 Inspiring Vantage
 1 Dreadhorde Arcanist
@@ -133,13 +133,13 @@
 3 Rootbound Crag
 3 Cragcrown Pathway
 4 Cragcrown Pathway
+1 Blood Crypt
 1 Haunted Ridge
 1 Blightstep Pathway
-1 Blood Crypt
 1 Dragonskull Summit
-2 Blightstep Pathway
 2 Haunted Ridge
 2 Blood Crypt
+2 Blightstep Pathway
 2 Dragonskull Summit
 3 Blightstep Pathway
 3 Blood Crypt
