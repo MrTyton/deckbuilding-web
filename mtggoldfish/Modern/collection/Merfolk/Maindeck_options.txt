@@ -1,14 +1,13 @@
-4 Force of Negation
 10 Island
 1 Kira, Great Glass-Spinner
-1 Oboro, Palace in the Clouds
+4 Force of Negation
 1 Harbinger of the Tides
+1 Oboro, Palace in the Clouds
 2 Harbinger of the Tides
 3 Harbinger of the Tides
 4 Glasspool Mimic
 3 Spreading Seas
 11 Island
-1 Master of Waves
 4 Spreading Seas
 12 Island
 3 Cavern of Souls
@@ -22,11 +21,14 @@
 4 Cursecatcher
 13 Island
 14 Island
+1 Master of Waves
 4 Harbinger of the Tides
 2 Master of Waves
 15 Island
 16 Island
 4 Cavern of Souls
+1 Brazen Borrower
+2 Brazen Borrower
 2 Kira, Great Glass-Spinner
 1 Thieving Skydiver
 2 Thieving Skydiver
@@ -40,22 +42,21 @@
 1 Flooded Strand
 2 Flooded Strand
 3 Flooded Strand
-1 Brazen Borrower
-2 Brazen Borrower
 3 Waterlogged Grove
 1 Phantasmal Image
-1 Seachrome Coast
-1 Hallowed Fountain
 1 Prismatic Ending
 1 Ephemerate
-2 Seachrome Coast
+1 Hallowed Fountain
+1 Seachrome Coast
 2 Prismatic Ending
 2 Hallowed Fountain
-3 Seachrome Coast
+2 Seachrome Coast
 3 Prismatic Ending
-4 Seachrome Coast
-4 Flooded Strand
+3 Seachrome Coast
 4 Prismatic Ending
+4 Flooded Strand
+4 Seachrome Coast
+1 Relic of Progenitus
 1 Archmage's Charm
 2 Archmage's Charm
 3 Archmage's Charm
@@ -63,8 +64,8 @@
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
-1 March of Swirling Mist
 1 Fiery Islet
+1 March of Swirling Mist
 2 March of Swirling Mist
 3 Merrow Reejerey
 1 Polluted Delta
@@ -74,11 +75,16 @@
 2 Divide by Zero
 3 Divide by Zero
 4 Divide by Zero
-1 Raugrin Triome
 1 Solitude
+1 Raugrin Triome
 2 Solitude
 3 Solitude
 4 Solitude
+1 Cryptic Command
+1 Hall of Storm Giants
+2 Cryptic Command
+2 Hall of Storm Giants
+4 Archmage's Charm
 1 Castle Vantress
 2 Phantasmal Image
 3 Brazen Borrower
@@ -92,12 +98,6 @@
 2 Seal of Removal
 3 Seal of Removal
 4 Seal of Removal
-1 Cryptic Command
-1 Hall of Storm Giants
-2 Cryptic Command
-2 Hall of Storm Giants
-4 Archmage's Charm
-1 Relic of Progenitus
 1 Suspend
 2 Suspend
 3 Suspend
@@ -107,16 +107,16 @@
 1 Kopala, Warden of Waves
 2 Pongify
 3 Pongify
-1 Collected Company
 1 Breeding Pool
-1 Utopia Sprawl
 1 Forest
+1 Collected Company
+1 Utopia Sprawl
 2 Collected Company
-2 Utopia Sprawl
 2 Breeding Pool
+2 Utopia Sprawl
 3 Collected Company
-3 Utopia Sprawl
 3 Breeding Pool
+3 Utopia Sprawl
 4 Collected Company
 4 Utopia Sprawl
 4 Breeding Pool

@@ -1,15 +1,15 @@
 1 Thoughtseize
-1 Forest
 2 Thoughtseize
 1 Mortality Spear
+1 Forest
+1 Blightstep Pathway
 1 Blood Crypt
 1 Cragcrown Pathway
-1 Blightstep Pathway
 2 Blightstep Pathway
 3 Thoughtseize
 4 Thoughtseize
-2 Cursebound Witch
 2 Swamp
+2 Cursebound Witch
 1 Woodland Cemetery
 3 Khalni Garden
 1 Village Rites
@@ -17,51 +17,23 @@
 2 Woodland Cemetery
 3 Woodland Cemetery
 4 Woodland Cemetery
+2 Mortality Spear
+1 Unlicensed Hearse
 3 Soul-Guide Lantern
 1 Temple of Malady
 3 Swamp
-2 Mortality Spear
+1 Maelstrom Pulse
 3 Hive of the Eye Tyrant
-1 Unlicensed Hearse
 1 Deathcap Glade
 2 Takenuma, Abandoned Mire
 1 Necroblossom Snarl
 1 Tenacious Underdog
-1 Maelstrom Pulse
 1 Lair of the Hydra
 2 Forest
 3 Cursebound Witch
 2 Deathcap Glade
 3 Deathcap Glade
 4 Deathcap Glade
-1 Riveteers Charm
-1 Korvold, Fae-Cursed King
-1 Ob Nixilis, the Adversary
-1 Ziatora's Proving Ground
-1 Stomping Ground
-1 Oni-Cult Anvil
-2 Riveteers Charm
-2 Korvold, Fae-Cursed King
-2 Ob Nixilis, the Adversary
-2 Ziatora's Proving Ground
-2 Stomping Ground
-2 Oni-Cult Anvil
-2 Blood Crypt
-3 Ob Nixilis, the Adversary
-3 Ziatora's Proving Ground
-3 Blood Crypt
-4 Ziatora's Proving Ground
-1 Watery Grave
-1 Barkchannel Pathway
-1 Breeding Pool
-1 Clearwater Pathway
-2 Barkchannel Pathway
-2 Watery Grave
-2 Clearwater Pathway
-3 Barkchannel Pathway
-3 Clearwater Pathway
-4 Barkchannel Pathway
-4 Clearwater Pathway
 1 Painful Bond
 2 Painful Bond
 3 Painful Bond
@@ -74,3 +46,14 @@
 2 Temple of Malady
 3 Temple of Malady
 4 Temple of Malady
+1 Clearwater Pathway
+1 Watery Grave
+1 Breeding Pool
+1 Barkchannel Pathway
+2 Clearwater Pathway
+2 Watery Grave
+2 Barkchannel Pathway
+3 Clearwater Pathway
+3 Barkchannel Pathway
+4 Clearwater Pathway
+4 Barkchannel Pathway

@@ -1,7 +1,7 @@
 1 Sanctum of Ugin
 1 Karn Liberated
-1 Chromatic Star
 1 Chromatic Sphere
+1 Chromatic Star
 2 Chromatic Star
 2 Karn Liberated
 2 Wurmcoil Engine
@@ -65,7 +65,6 @@
 4 Warping Wail
 1 Batterskull
 1 Forsaken Monument
-1 Treasure Vault
 1 Spire of Industry
 1 Emrakul, the Aeons Torn
 1 Paradox Engine
@@ -75,6 +74,7 @@
 1 Hedron Archive
 1 Mystic Forge
 1 Void Winnower
+1 Treasure Vault
 1 Powerstone Shard
 1 Metalwork Colossus
 1 Mishra's Bauble
@@ -104,10 +104,10 @@
 4 Wurmcoil Engine
 2 Endbringer
 2 Cavern of Souls
+1 Fire/Ice
 1 Valakut Awakening
 1 Barkchannel Pathway
 1 Academy Ruins
-1 Fire/Ice
 1 Divide by Zero
 1 Spirebluff Canal
 1 Fury
@@ -118,22 +118,22 @@
 1 Engineered Explosives
 1 Riverglide Pathway
 2 Fury
+2 Fire/Ice
 2 Valakut Awakening
 2 Barkchannel Pathway
 2 Divide by Zero
-2 Island
-2 Fire/Ice
 2 Spirebluff Canal
 2 Engineered Explosives
 2 Hydroid Krasis
+2 Island
 2 Prophetic Prism
 3 Fury
 3 Valakut Awakening
 3 Divide by Zero
 3 Fire/Ice
-3 Island
 3 Hydroid Krasis
 3 Prophetic Prism
+3 Island
 4 Valakut Awakening
 4 Fury
 4 Divide by Zero
@@ -156,12 +156,12 @@
 3 Ugin, the Ineffable
 5 Forest
 1 Horizon Canopy
-1 Prismatic Ending
 1 Talisman of Progress
 1 Talisman of Conviction
 1 Talisman of Hierarchy
 1 Talisman of Unity
 1 Plains
+1 Prismatic Ending
 2 Plains
 2 Prismatic Ending
 3 Plains

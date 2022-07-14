@@ -18,11 +18,11 @@
 
 |                                 A                                  |                                  B                                   |                                         C                                          |                                     D                                      |                                E                                 |
 |--------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------|
-|[Azorius Affinity](./mtggoldfish/Historic/decks/Azorius_Affinity.md)|[Dragonstorm](./mtggoldfish/Historic/decks/Dragonstorm.md)            |[Izzet Phoenix](./mtggoldfish/Historic/decks/Izzet_Phoenix.md)                      |[Rakdos Arcanis](./mtggoldfish/Historic/decks/Rakdos_Arcanis.md)            |[Simic Merfolk](./mtggoldfish/Historic/decks/Simic_Merfolk.md)    |
-|[Azorius Auras](./mtggoldfish/Historic/decks/Azorius_Auras.md)      |[Esper Control](./mtggoldfish/Historic/decks/Esper_Control.md)        |[Jeskai Control (Kaheera)](./mtggoldfish/Historic/decks/Jeskai_Control_(Kaheera).md)|[Rakdos Control](./mtggoldfish/Historic/decks/Rakdos_Control.md)            |[Sultai Devotion](./mtggoldfish/Historic/decks/Sultai_Devotion.md)|
+|[Azorius Affinity](./mtggoldfish/Historic/decks/Azorius_Affinity.md)|[Dragonstorm](./mtggoldfish/Historic/decks/Dragonstorm.md)            |[Izzet Phoenix](./mtggoldfish/Historic/decks/Izzet_Phoenix.md)                      |[Rakdos Arcanis](./mtggoldfish/Historic/decks/Rakdos_Arcanis.md)            |[Sultai Devotion](./mtggoldfish/Historic/decks/Sultai_Devotion.md)|
+|[Azorius Auras](./mtggoldfish/Historic/decks/Azorius_Auras.md)      |[Esper Control](./mtggoldfish/Historic/decks/Esper_Control.md)        |[Jeskai Control (Kaheera)](./mtggoldfish/Historic/decks/Jeskai_Control_(Kaheera).md)|[Rakdos Control](./mtggoldfish/Historic/decks/Rakdos_Control.md)            |                                                                  |
 |[Azorius Control](./mtggoldfish/Historic/decks/Azorius_Control.md)  |[Five-color Humans](./mtggoldfish/Historic/decks/Five-color_Humans.md)|[Mono-Black Aggro](./mtggoldfish/Historic/decks/Mono-Black_Aggro.md)                |[Rakdos Goblins](./mtggoldfish/Historic/decks/Rakdos_Goblins.md)            |                                                                  |
-|[Azorius Yorion](./mtggoldfish/Historic/decks/Azorius_Yorion.md)    |[Golgari Food](./mtggoldfish/Historic/decks/Golgari_Food.md)          |[Mono-Red Aggro](./mtggoldfish/Historic/decks/Mono-Red_Aggro.md)                    |[Selesnya Angels](./mtggoldfish/Historic/decks/Selesnya_Angels.md)          |                                                                  |
-|[Dimir Rogues](./mtggoldfish/Historic/decks/Dimir_Rogues.md)        |[Gruul Goblins](./mtggoldfish/Historic/decks/Gruul_Goblins.md)        |[Mono-Red Burn](./mtggoldfish/Historic/decks/Mono-Red_Burn.md)                      |[Selesnya Enchantress](./mtggoldfish/Historic/decks/Selesnya_Enchantress.md)|                                                                  |
+|[Azorius Yorion](./mtggoldfish/Historic/decks/Azorius_Yorion.md)    |[Golgari Food](./mtggoldfish/Historic/decks/Golgari_Food.md)          |[Mono-Red Aggro](./mtggoldfish/Historic/decks/Mono-Red_Aggro.md)                    |[Selesnya Enchantress](./mtggoldfish/Historic/decks/Selesnya_Enchantress.md)|                                                                  |
+|[Dimir Rogues](./mtggoldfish/Historic/decks/Dimir_Rogues.md)        |[Gruul Goblins](./mtggoldfish/Historic/decks/Gruul_Goblins.md)        |[Mono-Red Burn](./mtggoldfish/Historic/decks/Mono-Red_Burn.md)                      |[Simic Merfolk](./mtggoldfish/Historic/decks/Simic_Merfolk.md)              |                                                                  |
 
 
 # Pioneer
@@ -75,4 +75,4 @@
 
 
 
-#### Last Updated at 12:35PM on July 13, 2022
+#### Last Updated at 12:33AM on July 14, 2022
