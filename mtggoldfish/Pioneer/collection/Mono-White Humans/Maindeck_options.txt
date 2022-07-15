@@ -1,6 +1,8 @@
+1 Elite Spellbinder
+2 Eiganjo, Seat of the Empire
 14 Plains
 15 Plains
-1 Elite Spellbinder
+1 Extraction Specialist
 1 Declaration in Stone
 2 Elite Spellbinder
 3 Elite Spellbinder
@@ -9,7 +11,6 @@
 2 Declaration in Stone
 3 Declaration in Stone
 4 Declaration in Stone
-2 Eiganjo, Seat of the Empire
 1 Benalish Marshal
 2 Benalish Marshal
 3 Benalish Marshal
@@ -18,11 +19,11 @@
 3 Kytheon, Hero of Akros
 4 Shefet Dunes
 1 Giant Killer
-1 Fateful Absence
-1 Extraction Specialist
-4 Benalish Marshal
 2 Extraction Specialist
+1 Fateful Absence
+4 Benalish Marshal
 1 Knight of the White Orchid
+4 Adeline, Resplendent Cathar
 1 Boros Elite
 2 Boros Elite
 3 Boros Elite
@@ -31,7 +32,6 @@
 2 Rally the Ranks
 2 Giant Killer
 2 Knight of the White Orchid
-4 Adeline, Resplendent Cathar
 1 Militia Bugler
 2 Militia Bugler
 2 Fateful Absence
@@ -62,6 +62,9 @@
 1 Skyclave Apparition
 2 Skyclave Apparition
 3 Extraction Specialist
+1 Archon of Emeria
+2 Archon of Emeria
+3 Archon of Emeria
 3 Militia Bugler
 1 Intrepid Adversary
 2 Castle Ardenvale
