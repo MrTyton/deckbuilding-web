@@ -1,7 +1,7 @@
-1 Urborg, Tomb of Yawgmoth
 1 Street Wraith
 2 Street Wraith
 3 Street Wraith
+1 Urborg, Tomb of Yawgmoth
 4 Street Wraith
 1 Verdant Catacombs
 1 Forest
@@ -17,10 +17,10 @@
 2 Overgrown Tomb
 2 Verdant Catacombs
 2 Gilded Goose
+2 Blooming Marsh
 2 Witch's Oven
 2 Cauldron Familiar
 2 Feasting Troll King
-2 Blooming Marsh
 2 Finale of Devastation
 2 Trail of Crumbs
 3 Blooming Marsh
@@ -33,57 +33,53 @@
 4 Blooming Marsh
 4 Gilded Goose
 4 Witch's Oven
-4 Finale of Devastation
 4 Cauldron Familiar
-1 Pithing Needle
+4 Finale of Devastation
 3 Trail of Crumbs
 1 Boseiju, Who Endures
 3 Overgrown Tomb
 4 Overgrown Tomb
 4 Trail of Crumbs
-1 Bloodstained Mire
+1 Pithing Needle
 1 Darkslick Shores
 2 Darkslick Shores
+1 Bloodstained Mire
 1 Darkbore Pathway
 2 Darkbore Pathway
 3 Darkbore Pathway
 4 Darkbore Pathway
-2 Bloodstained Mire
+3 Darkslick Shores
+4 Darkslick Shores
 1 Mountain
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
-2 Island
 1 Steam Vents
 1 Scalding Tarn
 1 Pyrite Spellbomb
 2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
-1 Takenuma, Abandoned Mire
-1 Bone Shards
-2 Bone Shards
 1 Blackcleave Cliffs
 1 Blood Crypt
+2 Bloodstained Mire
 2 Blood Crypt
 2 Blackcleave Cliffs
 3 Bloodstained Mire
 4 Bloodstained Mire
 2 Marsh Flats
 1 Aether Vial
+1 River of Tears
+1 Thoughtcast
 2 Flooded Strand
 3 Feasting Troll King
-2 Godless Shrine
-2 Swamp
-3 Bone Shards
-3 Darkslick Shores
-4 Darkslick Shores
 1 Thought Monitor
-1 Mox Amber
 1 Spirebluff Canal
+1 Mox Amber
 1 Galvanic Blast
 1 Blazing Rootwalla
+2 Island
 2 Steam Vents
 2 Thought Monitor
 2 Spirebluff Canal
@@ -144,15 +140,18 @@
 1 Lightning Bolt
 1 Kolaghan's Command
 1 Fury
+1 Takenuma, Abandoned Mire
 1 Persist
 1 Archon of Cruelty
 1 Sokenzan, Crucible of Defiance
 1 Seasoned Pyromancer
+1 Bone Shards
 1 Thoughtseize
 2 Lightning Bolt
 2 Archon of Cruelty
 2 Seasoned Pyromancer
 2 Thoughtseize
+2 Bone Shards
 2 Persist
 3 Blackcleave Cliffs
 3 Blood Crypt

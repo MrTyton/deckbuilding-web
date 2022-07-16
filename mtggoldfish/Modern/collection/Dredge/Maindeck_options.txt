@@ -9,7 +9,6 @@
 1 Scalding Tarn
 2 Scalding Tarn
 2 Arid Mesa
-3 Blackcleave Cliffs
 2 Gemstone Caverns
 2 Blood Crypt
 3 Bloodstained Mire
@@ -19,6 +18,7 @@
 3 Ox of Agonas
 3 Merchant of the Vale
 4 Gemstone Caverns
+3 Blackcleave Cliffs
 1 Stomping Ground
 1 Sulfurous Springs
 2 Sulfurous Springs
@@ -34,6 +34,19 @@
 2 Wooded Foothills
 3 Wooded Foothills
 4 Blackcleave Cliffs
+1 Polluted Delta
+1 Windswept Heath
+1 Verdant Catacombs
+1 Forest
+1 Breeding Pool
+1 Hallowed Fountain
+1 Overgrown Tomb
+1 Island
+1 Godless Shrine
+1 Plains
+2 Stomping Ground
+3 Life from the Loam
+4 Life from the Loam
 1 Glimpse the Unthinkable
 1 Tome Scour
 2 Tome Scour
@@ -51,16 +64,3 @@
 2 Shriekhorn
 3 Shriekhorn
 4 Shriekhorn
-1 Polluted Delta
-1 Windswept Heath
-1 Verdant Catacombs
-1 Forest
-1 Breeding Pool
-1 Hallowed Fountain
-1 Overgrown Tomb
-1 Island
-1 Godless Shrine
-1 Plains
-2 Stomping Ground
-3 Life from the Loam
-4 Life from the Loam

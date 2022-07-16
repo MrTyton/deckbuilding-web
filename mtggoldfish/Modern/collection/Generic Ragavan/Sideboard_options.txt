@@ -1,24 +1,23 @@
-1 Spell Pierce
+1 Shattering Spree
 1 Abrade
 2 Abrade
-2 Tormod's Crypt
+2 Alpine Moon
+1 Spell Pierce
 1 Kozilek's Return
-2 Flusterstorm
-1 Shattering Spree
-2 Mystical Dispute
 2 Spell Pierce
 1 Vapor Snag
-2 Alpine Moon
+2 Soul-Guide Lantern
+1 Chalice of the Void
+2 Chalice of the Void
 3 Prismatic Ending
 1 Unlicensed Hearse
-2 Unlicensed Hearse
 1 Dragon's Claw
 2 Dragon's Claw
+2 Unlicensed Hearse
 3 Soul-Guide Lantern
 1 Aether Gust
 2 Shattering Spree
 3 Shattering Spree
-1 Path to Exile
 3 Tormod's Crypt
 1 Magus of the Moon
 1 Roiling Vortex
@@ -26,6 +25,7 @@
 3 Roiling Vortex
 3 Blood Moon
 4 Blood Moon
+1 Path to Exile
 1 Jace, the Mind Sculptor
 1 Engineered Explosives
 2 Engineered Explosives
@@ -35,6 +35,7 @@
 3 Leyline of the Void
 4 Leyline of the Void
 3 Mystical Dispute
+4 Shattering Spree
 2 Path to Exile
 1 Island
 1 Blossoming Calm
@@ -46,18 +47,11 @@
 1 Boil
 3 Flusterstorm
 4 Flusterstorm
-4 Shattering Spree
+3 Dragon's Claw
 1 Hushbringer
 2 Hushbringer
-1 Kataki, War's Wage
-2 Kataki, War's Wage
 3 Path to Exile
 1 Brazen Borrower
-1 Spreading Seas
-1 Stony Silence
-1 Boom/Bust
-1 Jotun Grunt
-1 Invasive Surgery
 1 Kolaghan's Command
 1 Terminate
 1 Dress Down
@@ -67,8 +61,12 @@
 1 Drannith Magistrate
 1 Shenanigans
 2 Drannith Magistrate
+1 Spreading Seas
+1 Stony Silence
+1 Kataki, War's Wage
+1 Boom/Bust
+2 Kataki, War's Wage
 3 Abrade
-3 Dragon's Claw
 1 Sanctifier en-Vec
 1 Chandra, Torch of Defiance
 1 Rest in Peace
@@ -77,6 +75,9 @@
 3 Rest in Peace
 3 Wear/Tear
 3 Sanctifier en-Vec
+1 Torpor Orb
+2 Torpor Orb
+3 Alpine Moon
 1 By Force
 4 Mystical Dispute
 1 Pithing Needle

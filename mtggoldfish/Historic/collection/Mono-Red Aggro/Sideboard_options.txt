@@ -25,10 +25,10 @@
 1 Flame-Blessed Bolt
 3 Rampaging Ferocidon
 1 Burn Down the House
+1 Ox of Agonas
 1 Scorching Dragonfire
 1 Soul Sear
 1 The Akroan War
-1 Ox of Agonas
 2 Ox of Agonas
 2 Burn Down the House
 2 Scorching Dragonfire
@@ -49,11 +49,11 @@
 1 Grafdigger's Cage
 1 Bonecrusher Giant
 1 Goblin Chainwhirler
-1 Unchained Berserker
-1 Cemetery Gatekeeper
-1 Raze the Effigy
 1 Chandra's Defeat
 1 Dire Fleet Daredevil
+1 Raze the Effigy
+1 Cemetery Gatekeeper
+1 Unchained Berserker
 1 Unholy Heat
 2 Unholy Heat
 1 Pithing Needle
@@ -67,8 +67,8 @@
 2 By Force
 1 Pillar of Flame
 1 Smelt
-2 Pillar of Flame
 2 Smelt
+2 Pillar of Flame
 1 Kari Zev, Skyship Raider
 1 Imminent Doom
 1 Meteorite
@@ -82,18 +82,6 @@
 1 Aethersphere Harvester
 2 Aethersphere Harvester
 3 Aethersphere Harvester
-1 Fanatical Firebrand
-2 Fanatical Firebrand
-2 Grafdigger's Cage
-3 Grafdigger's Cage
-3 Burning Hands
-1 Tibalt, Rakish Instigator
-1 Chandra, Awakened Inferno
-1 Legion Warboss
-2 Tibalt, Rakish Instigator
-2 Chandra, Awakened Inferno
-2 Legion Warboss
-3 Tibalt, Rakish Instigator
 1 Rip Apart
 1 Cleansing Nova
 1 Archon of Emeria
@@ -108,6 +96,18 @@
 3 Fateful Absence
 3 Rest in Peace
 3 Archon of Emeria
+1 Fanatical Firebrand
+2 Fanatical Firebrand
+2 Grafdigger's Cage
+3 Burning Hands
+3 Grafdigger's Cage
+1 Chandra, Awakened Inferno
+1 Tibalt, Rakish Instigator
+1 Legion Warboss
+2 Legion Warboss
+2 Chandra, Awakened Inferno
+2 Tibalt, Rakish Instigator
+3 Tibalt, Rakish Instigator
 1 Bloodthirsty Adversary
 1 Chandra's Regulator
 1 Thundering Raiju
@@ -119,18 +119,18 @@
 3 Bloodthirsty Adversary
 3 Toralf's Disciple
 3 Thundering Raiju
+2 Hazoret the Fervent
+2 Bonecrusher Giant
+2 Embereth Shieldbreaker
+4 Rampaging Ferocidon
 1 Fable of the Mirror-Breaker
 3 Chandra, Dressed to Kill
 3 Fry
 4 Roiling Vortex
-2 Bonecrusher Giant
-2 Hazoret the Fervent
-2 Embereth Shieldbreaker
-4 Rampaging Ferocidon
-1 Shock
+1 Strangle
 1 Thundering Rebuke
 1 Lightning Axe
-1 Strangle
+1 Shock
 1 Heated Debate
 2 Thundering Rebuke
 1 Antagonize

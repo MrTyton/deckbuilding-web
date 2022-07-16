@@ -1,12 +1,12 @@
-1 Kaya's Guile
-2 Esper Charm
-4 Prismatic Ending
 2 Castle Vantress
-1 Swamp
-1 Jace, the Mind Sculptor
+4 Prismatic Ending
+2 Esper Charm
+1 Kaya's Guile
 1 Consider
 2 Consider
 2 Fatal Push
+1 Jace, the Mind Sculptor
+1 Swamp
 2 Kaya's Guile
 1 Kaya, Orzhov Usurper
 1 Steam Vents
@@ -20,22 +20,22 @@
 3 Polluted Delta
 2 Marsh Flats
 2 Dress Down
-4 Polluted Delta
 1 Godless Shrine
 1 Creeping Tar Pit
+4 Polluted Delta
+2 Plains
 1 Tainted Indulgence
 2 Tainted Indulgence
 1 Damn
 1 Drown in the Loch
 4 Teferi, Time Raveler
-1 Cling to Dust
 3 Tainted Indulgence
 4 Tainted Indulgence
+2 Drown in the Loch
 3 Consider
 4 Consider
-2 Drown in the Loch
+1 Cling to Dust
 2 Void Rend
-2 Plains
 1 Glacial Fortress
 1 Ledger Shredder
 2 Ledger Shredder
@@ -64,6 +64,7 @@
 3 Monastery Mentor
 4 Monastery Mentor
 3 Watery Grave
+2 Jace, the Mind Sculptor
 2 Damn
 1 Shark Typhoon
 1 Vindicate
@@ -73,9 +74,11 @@
 4 Darkslick Shores
 4 Thought Scour
 3 Hallowed Fountain
+3 March of Otherworldly Light
 1 Raugrin Triome
-2 The Wandering Emperor
-2 Jace, the Mind Sculptor
+2 Scalding Tarn
+1 Eiganjo, Seat of the Empire
+2 Celestial Colonnade
 3 Drown in the Loch
 3 Damn
 4 Drown in the Loch
@@ -86,8 +89,6 @@
 3 Faithful Mending
 1 Thoughtseize
 2 Thoughtseize
-3 March of Otherworldly Light
-2 Scalding Tarn
 4 Fatal Push
 2 Swamp
 3 Murktide Regent
@@ -104,18 +105,20 @@
 3 Glacial Fortress
 1 Cryptic Command
 4 Solitude
-1 Eiganjo, Seat of the Empire
 1 Spara's Headquarters
 1 Blast Zone
 1 Narset, Parter of Veils
 1 Bloodchief's Thirst
 1 Narset Transcendent
 1 Force of Negation
-2 Celestial Colonnade
+3 Supreme Verdict
+4 Island
+1 Castle Ardenvale
 2 Shark Typhoon
 3 Void Rend
 3 Thoughtseize
 4 Thoughtseize
+2 The Wandering Emperor
 3 Marsh Flats
 4 Marsh Flats
 1 Sorin the Mirthless
@@ -136,26 +139,22 @@
 2 Force of Negation
 1 Snow-Covered Swamp
 2 Kaya, Orzhov Usurper
+1 Subtlety
+2 Subtlety
+2 Hall of Storm Giants
+2 Cryptic Command
 1 Kaito Shizuki
 1 Sunken Ruins
 2 Sunken Ruins
 1 Breeding Pool
 1 Field of Ruin
 1 Spreading Seas
-1 Castle Ardenvale
 1 Chalice of the Void
 2 Field of Ruin
 2 Spreading Seas
 2 Chalice of the Void
-3 Mystic Gate
 3 Kaya's Guile
 3 Drowned Catacomb
-1 Subtlety
-2 Subtlety
-2 Hall of Storm Giants
-2 Cryptic Command
-3 Supreme Verdict
-4 Island
 1 Murderous Cut
 4 Murktide Regent
 4 Void Rend
@@ -191,6 +190,12 @@
 4 Otherworldly Gaze
 4 Smuggler's Copter
 4 Greasefang, Okiba Boss
+1 Omen of the Sea
+2 Omen of the Sea
+3 Celestial Colonnade
+3 Teferi, Hero of Dominaria
+4 March of Otherworldly Light
+4 Snapcaster Mage
 1 Tezzeret's Gambit
 1 Search for Azcanta
 2 Bloodchief's Thirst
