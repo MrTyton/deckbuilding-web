@@ -102,19 +102,19 @@
 2 Soul Shatter
 3 Rockfall Vale
 1 Agadeem's Awakening
-1 Warlock Class
-1 Inscription of Ruin
 1 Junji, the Midnight Sky
-1 Demogorgon's Clutches
+1 Inscription of Ruin
 1 March of Wretched Sorrow
 1 Acquisitions Expert
 1 Culling Ritual
+1 Warlock Class
 1 Harness Infinity
 1 Check for Traps
+1 Demogorgon's Clutches
 2 March of Wretched Sorrow
-2 Inscription of Ruin
-2 Demogorgon's Clutches
 2 Acquisitions Expert
+2 Demogorgon's Clutches
+2 Inscription of Ruin
 3 Hive of the Eye Tyrant
 1 Rabbit Battery
 1 Ranger Class
@@ -132,17 +132,14 @@
 1 Extus, Oriq Overlord
 1 Branchloft Pathway
 1 Brightclimb Pathway
-2 Jadar, Ghoulcaller of Nephalia
 2 Brightclimb Pathway
+2 Jadar, Ghoulcaller of Nephalia
 2 Extus, Oriq Overlord
 2 Branchloft Pathway
 3 Jaspera Sentinel
 3 Extus, Oriq Overlord
 2 Ziatora, the Incinerator
 3 Ziatora, the Incinerator
-1 Flame-Blessed Bolt
-2 Flame-Blessed Bolt
-4 Invoke Despair
 1 Topiary Stomper
 1 Rugged Highlands
 1 Unnatural Growth
@@ -167,6 +164,9 @@
 3 Woodland Chasm
 3 Waking the Trolls
 4 Topiary Stomper
+1 Flame-Blessed Bolt
+2 Flame-Blessed Bolt
+4 Invoke Despair
 1 Voldaren Epicure
 1 Oni-Cult Anvil
 1 Sokenzan Smelter
@@ -205,29 +205,29 @@
 4 Eyetwitch
 4 Strangle
 4 Unlucky Witness
-1 Fell Stinger
 1 Sulfurous Mire
-1 Malakir Rebirth
 1 Baleful Mastery
 1 Snow-Covered Swamp
 1 Snow-Covered Mountain
 1 Blood on the Snow
 1 Hero's Downfall
-2 Fell Stinger
+1 Fell Stinger
+1 Malakir Rebirth
 2 Sulfurous Mire
 2 Snow-Covered Swamp
 2 Blood on the Snow
 2 Snow-Covered Mountain
-3 Fell Stinger
+2 Fell Stinger
 3 Lolth, Spider Queen
 3 Sulfurous Mire
-3 Blood on the Snow
 3 Snow-Covered Swamp
 3 Snow-Covered Mountain
+3 Blood on the Snow
+3 Fell Stinger
 4 Sulfurous Mire
 4 Snow-Covered Swamp
-4 Snow-Covered Mountain
 4 Blood on the Snow
+4 Snow-Covered Mountain
 5 Snow-Covered Swamp
 5 Snow-Covered Mountain
 6 Snow-Covered Swamp

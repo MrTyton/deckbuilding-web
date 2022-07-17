@@ -4,14 +4,14 @@
 
 # Standard
 
-|                                A                                 |                                 B                                  |                                 C                                  |                                   D                                    |                                 E                                  |
-|------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|
-|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Esper Midrange](./mtggoldfish/Standard/decks/Esper_Midrange.md)    |[Jeskai Control](./mtggoldfish/Standard/decks/Jeskai_Control.md)    |[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)    |[Rakdos Artifacts](./mtggoldfish/Standard/decks/Rakdos_Artifacts.md)|
-|[Bant Midrange](./mtggoldfish/Standard/decks/Bant_Midrange.md)    |[Grixis Control](./mtggoldfish/Standard/decks/Grixis_Control.md)    |[Jeskai Hinata](./mtggoldfish/Standard/decks/Jeskai_Hinata.md)      |[Mono-White Aggro ️](./mtggoldfish/Standard/decks/Mono-White_Aggro_️.md)|[Rakdos Midrange](./mtggoldfish/Standard/decks/Rakdos_Midrange.md)  |
-|[Bant Ramp](./mtggoldfish/Standard/decks/Bant_Ramp.md)            |[Grixis Vampires](./mtggoldfish/Standard/decks/Grixis_Vampires.md)  |[Jund Control](./mtggoldfish/Standard/decks/Jund_Control.md)        |[Naya Enchantments](./mtggoldfish/Standard/decks/Naya_Enchantments.md)  |[Simic Ramp](./mtggoldfish/Standard/decks/Simic_Ramp.md)            |
-|[Boros Aggro](./mtggoldfish/Standard/decks/Boros_Aggro.md)        |[Gruul Werewolves](./mtggoldfish/Standard/decks/Gruul_Werewolves.md)|[Jund Midrange](./mtggoldfish/Standard/decks/Jund_Midrange.md)      |[Naya Werewolves](./mtggoldfish/Standard/decks/Naya_Werewolves.md)      |[Temur Control](./mtggoldfish/Standard/decks/Temur_Control.md)      |
-|[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)    |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)      |[Mono-Black Aggro](./mtggoldfish/Standard/decks/Mono-Black_Aggro.md)|[Orzhov Control](./mtggoldfish/Standard/decks/Orzhov_Control.md)        |[Temur Midrange](./mtggoldfish/Standard/decks/Temur_Midrange.md)    |
-|[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)    |[Izzet Tempo](./mtggoldfish/Standard/decks/Izzet_Tempo.md)          |[Mono-Blue Tempo](./mtggoldfish/Standard/decks/Mono-Blue_Tempo.md)  |[Orzhov Midrange](./mtggoldfish/Standard/decks/Orzhov_Midrange.md)      |                                                                    |
+|                                A                                 |                                 B                                  |                                 C                                  |                                   D                                    |                               E                                |
+|------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|
+|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Esper Midrange](./mtggoldfish/Standard/decks/Esper_Midrange.md)    |[Jeskai Control](./mtggoldfish/Standard/decks/Jeskai_Control.md)    |[Mono-White Aggro ️](./mtggoldfish/Standard/decks/Mono-White_Aggro_️.md)|[Simic Ramp](./mtggoldfish/Standard/decks/Simic_Ramp.md)        |
+|[Bant Midrange](./mtggoldfish/Standard/decks/Bant_Midrange.md)    |[Grixis Control](./mtggoldfish/Standard/decks/Grixis_Control.md)    |[Jeskai Hinata](./mtggoldfish/Standard/decks/Jeskai_Hinata.md)      |[Naya Enchantments](./mtggoldfish/Standard/decks/Naya_Enchantments.md)  |[Temur Control](./mtggoldfish/Standard/decks/Temur_Control.md)  |
+|[Bant Ramp](./mtggoldfish/Standard/decks/Bant_Ramp.md)            |[Grixis Vampires](./mtggoldfish/Standard/decks/Grixis_Vampires.md)  |[Jund Control](./mtggoldfish/Standard/decks/Jund_Control.md)        |[Orzhov Control](./mtggoldfish/Standard/decks/Orzhov_Control.md)        |[Temur Midrange](./mtggoldfish/Standard/decks/Temur_Midrange.md)|
+|[Boros Aggro](./mtggoldfish/Standard/decks/Boros_Aggro.md)        |[Gruul Werewolves](./mtggoldfish/Standard/decks/Gruul_Werewolves.md)|[Jund Midrange](./mtggoldfish/Standard/decks/Jund_Midrange.md)      |[Orzhov Midrange](./mtggoldfish/Standard/decks/Orzhov_Midrange.md)      |                                                                |
+|[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)    |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)      |[Mono-Blue Tempo](./mtggoldfish/Standard/decks/Mono-Blue_Tempo.md)  |[Rakdos Artifacts](./mtggoldfish/Standard/decks/Rakdos_Artifacts.md)    |                                                                |
+|[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)    |[Izzet Tempo](./mtggoldfish/Standard/decks/Izzet_Tempo.md)          |[Mono-Green Aggro](./mtggoldfish/Standard/decks/Mono-Green_Aggro.md)|[Rakdos Midrange](./mtggoldfish/Standard/decks/Rakdos_Midrange.md)      |                                                                |
 
 
 # Historic
@@ -75,4 +75,4 @@
 
 
 
-#### Last Updated at 12:34PM on July 16, 2022
+#### Last Updated at 12:31AM on July 17, 2022
