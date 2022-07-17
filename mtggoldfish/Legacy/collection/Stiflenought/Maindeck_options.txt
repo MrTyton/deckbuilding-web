@@ -1,27 +1,26 @@
-3 Murktide Regent
-1 Fatal Push
+1 Misty Rainforest
 1 Slip Out the Back
-1 Stubborn Denial
+3 Murktide Regent
 3 Underground Sea
-2 Misty Rainforest
 2 Slip Out the Back
+1 Stubborn Denial
 3 Expressive Iteration
 1 Force of Negation
 1 Island
+2 Misty Rainforest
 4 Volcanic Island
 1 Flooded Strand
-2 Flooded Strand
 1 Tropical Island
+2 Flooded Strand
 1 Thoughtseize
-2 Snow-Covered Island
 2 Tropical Island
 3 Tropical Island
 2 Thoughtseize
-2 Snuff Out
-3 Misty Rainforest
 1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
+3 Misty Rainforest
+2 Snuff Out
 1 Sylvan Library
 2 Fatal Push
 4 Misty Rainforest
@@ -29,6 +28,10 @@
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
+2 Snow-Covered Island
+1 Shadowspear
+2 Island
+3 Island
 1 Watery Grave
 1 Death's Shadow
 2 Death's Shadow
@@ -40,10 +43,11 @@
 3 Delver of Secrets
 4 Delver of Secrets
 4 Thoughtseize
-1 Shadowspear
-2 Island
-3 Island
 1 Pithing Needle
+3 Flooded Strand
+4 Flooded Strand
+1 Torpor Orb
+4 Urza's Saga
 1 Soul-Guide Lantern
 1 Omniscience
 1 Show and Tell
@@ -67,17 +71,15 @@
 4 Show and Tell
 4 Mosswort Bridge
 4 Elvish Reclaimer
-1 Badlands
-1 Red Elemental Blast
-2 Scroll of Fate
-3 Snow-Covered Island
 1 Verdant Catacombs
 1 Berserk
 1 Breeding Pool
-2 Verdant Catacombs
 2 Berserk
+2 Verdant Catacombs
 3 Watery Grave
 4 Death's Shadow
+1 Badlands
+1 Red Elemental Blast
 2 Brazen Borrower
 1 Spell Pierce
 1 Vision Charm
@@ -89,14 +91,20 @@
 6 Island
 3 Slip Out the Back
 4 Slip Out the Back
-3 Flooded Strand
-4 Flooded Strand
-1 Torpor Orb
 1 Swamp
 3 Fatal Push
-4 Urza's Saga
+1 Tundra
+1 Swords to Plowshares
+2 Swords to Plowshares
+1 Prismatic Vista
+2 Prismatic Vista
+2 Force of Negation
+2 Torpor Orb
+3 Prismatic Vista
+3 Torpor Orb
+3 Force of Negation
+4 Prismatic Vista
 1 Snow-Covered Forest
-1 Forked Bolt
 1 Mystic Sanctuary
 1 Karakas
 1 Narset, Parter of Veils
@@ -128,10 +136,23 @@
 3 Baleful Strix
 4 Underground Sea
 4 Baleful Strix
-1 Tundra
+1 Oblivion Ring
+1 Plains
+1 Not of This World
+1 Lightning Greaves
+1 Path to Exile
+1 Strict Proctor
+1 Enlightened Tutor
+1 Teferi's Protection
+1 Artificer Class
+2 Enlightened Tutor
+2 Plains
+2 Strict Proctor
+2 Path to Exile
+3 Enlightened Tutor
+3 Strict Proctor
+4 Enlightened Tutor
 1 Prismatic Ending
-1 Swords to Plowshares
-2 Swords to Plowshares
 2 Tundra
 2 Prismatic Ending
 3 Prismatic Ending
@@ -139,22 +160,16 @@
 3 Swords to Plowshares
 4 Swords to Plowshares
 1 Mountain
+2 Scroll of Fate
+3 Snow-Covered Island
 4 Expressive Iteration
-1 Prismatic Vista
 1 Dark Confidant
 1 Echoing Truth
 1 Hunted Horror
 2 Swamp
-2 Prismatic Vista
-2 Dark Confidant
 2 Echoing Truth
-2 Force of Negation
-2 Torpor Orb
-3 Prismatic Vista
+2 Dark Confidant
 3 Dark Confidant
-3 Torpor Orb
-3 Force of Negation
-4 Prismatic Vista
 4 Dark Confidant
 4 Torpor Orb
 1 True-Name Nemesis
