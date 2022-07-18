@@ -1,12 +1,5 @@
-2 Blood on the Snow
-3 Kaito Shizuki
 2 Snow-Covered Island
 3 Snow-Covered Island
-3 Reckoner Bankbuster
-4 Jwari Disruption
-2 Shadows' Verdict
-3 Shadows' Verdict
-6 Snow-Covered Swamp
 1 Syncopate
 2 Syncopate
 3 Syncopate
@@ -16,34 +9,66 @@
 1 Valki, God of Lies
 1 Blightstep Pathway
 2 Valki, God of Lies
+4 Snow-Covered Swamp
+1 Kaito Shizuki
+2 Kaito Shizuki
+5 Snow-Covered Swamp
+1 Blood on the Snow
+2 Blood on the Snow
 2 Iymrith, Desert Doom
-7 Snow-Covered Swamp
+3 Kaito Shizuki
 3 Memory Deluge
-1 Lier, Disciple of the Drowned
-3 Valki, God of Lies
-4 Syncopate
-3 Blood on the Snow
-4 Memory Deluge
-2 Lolth, Spider Queen
-4 Swamp
+6 Snow-Covered Swamp
 2 Hullbreaker Horror
 1 Make Disappear
+3 Valki, God of Lies
+4 Syncopate
+4 Memory Deluge
+1 Siphon Insight
+7 Snow-Covered Swamp
+4 Swamp
+2 Lolth, Spider Queen
 2 Power Word Kill
-3 The Meathook Massacre
-2 Kotose, the Silent Spider
-8 Snow-Covered Swamp
+3 Blood on the Snow
 5 Island
-1 March of Wretched Sorrow
+2 Lier, Disciple of the Drowned
+1 Invoke Despair
 1 Fading Hope
 2 Fading Hope
 3 Fading Hope
-1 Invoke Despair
 1 Sedgemoor Witch
 2 Sedgemoor Witch
 3 Sedgemoor Witch
-1 Siphon Insight
+2 Kotose, the Silent Spider
+3 The Meathook Massacre
+3 Duress
+1 Kairi, the Swirling Sky
+1 Saw It Coming
+8 Snow-Covered Swamp
+1 March of Wretched Sorrow
+5 Swamp
+6 Swamp
+1 Behold the Multiverse
+2 Behold the Multiverse
+1 Ice Tunnel
+2 Ice Tunnel
+3 Ice Tunnel
+1 Consider
+2 Consider
+1 Professor Onyx
+2 Saw It Coming
+1 Riverglide Pathway
+1 Mordenkainen
+2 Riverglide Pathway
+1 Thirst for Discovery
+2 Thirst for Discovery
+2 The Celestus
+2 Blightstep Pathway
 1 Soul Transfer
 4 Kaito Shizuki
+4 Ice Tunnel
+3 Field of Ruin
+4 Reckoner Bankbuster
 1 Shambling Ghast
 1 Eyetwitch
 1 Deadly Dispute
@@ -55,41 +80,14 @@
 3 Shambling Ghast
 4 Eyetwitch
 9 Snow-Covered Swamp
+2 Make Disappear
+2 Siphon Insight
 4 Bloodchief's Thirst
-3 Duress
-1 Saw It Coming
-1 Kairi, the Swirling Sky
-1 Ice Tunnel
-2 Ice Tunnel
-3 Ice Tunnel
-2 Lier, Disciple of the Drowned
-5 Swamp
-6 Swamp
-1 Behold the Multiverse
-2 Behold the Multiverse
-1 Professor Onyx
-2 Saw It Coming
-3 Kotose, the Silent Spider
-4 The Meathook Massacre
-4 Shambling Ghast
-4 Deadly Dispute
-10 Snow-Covered Swamp
-1 Riverglide Pathway
-1 Mordenkainen
-2 Riverglide Pathway
-1 Thirst for Discovery
-2 Thirst for Discovery
-2 The Celestus
-2 Blightstep Pathway
-4 Ice Tunnel
-3 Field of Ruin
 4 Snow-Covered Island
 5 Snow-Covered Island
-2 Sorin the Mirthless
 3 Saw It Coming
-1 Consider
-2 Consider
 3 Infernal Grasp
+2 Sorin the Mirthless
 1 Graveyard Trespasser
 2 Graveyard Trespasser
 3 Graveyard Trespasser
@@ -98,11 +96,18 @@
 1 Snow-Covered Mountain
 4 Field of Ruin
 2 Invoke Despair
-4 Reckoner Bankbuster
-2 Make Disappear
-3 Lolth, Spider Queen
-2 Siphon Insight
+1 Tainted Indulgence
+1 Waterfront District
+2 Waterfront District
+2 Tainted Indulgence
+3 Kotose, the Silent Spider
+4 The Meathook Massacre
+4 Shambling Ghast
+4 Deadly Dispute
+10 Snow-Covered Swamp
+2 Disdainful Stroke
 3 Consider
+3 Lolth, Spider Queen
 6 Snow-Covered Island
 2 Professor Onyx
 4 Duress
@@ -125,10 +130,6 @@
 4 Graveyard Trespasser
 4 Spectral Adversary
 11 Snow-Covered Swamp
-1 Tainted Indulgence
-1 Waterfront District
-2 Waterfront District
-2 Tainted Indulgence
 2 Otawara, Soaring City
 1 Baleful Mastery
 2 Baleful Mastery
@@ -145,7 +146,6 @@
 4 Blood on the Snow
 1 Path of Peril
 2 Path of Peril
-2 Disdainful Stroke
 1 Spell Pierce
 1 Malevolent Hermit
 1 The Reality Chip

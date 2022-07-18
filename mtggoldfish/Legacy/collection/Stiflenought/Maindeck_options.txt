@@ -1,29 +1,27 @@
-1 Misty Rainforest
-1 Slip Out the Back
-3 Murktide Regent
-3 Underground Sea
+1 Fatal Push
 2 Slip Out the Back
 1 Stubborn Denial
 3 Expressive Iteration
+1 Misty Rainforest
+3 Murktide Regent
 1 Force of Negation
+3 Underground Sea
+4 Volcanic Island
 1 Island
 2 Misty Rainforest
-4 Volcanic Island
 1 Flooded Strand
 1 Tropical Island
 2 Flooded Strand
 1 Thoughtseize
+2 Thoughtseize
+2 Snuff Out
 2 Tropical Island
 3 Tropical Island
-2 Thoughtseize
 1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
 3 Misty Rainforest
-2 Snuff Out
-1 Sylvan Library
 2 Fatal Push
-4 Misty Rainforest
 3 Thoughtseize
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
@@ -32,6 +30,7 @@
 1 Shadowspear
 2 Island
 3 Island
+1 Sylvan Library
 1 Watery Grave
 1 Death's Shadow
 2 Death's Shadow
@@ -42,35 +41,12 @@
 2 Delver of Secrets
 3 Delver of Secrets
 4 Delver of Secrets
+4 Misty Rainforest
 4 Thoughtseize
-1 Pithing Needle
 3 Flooded Strand
 4 Flooded Strand
 1 Torpor Orb
 4 Urza's Saga
-1 Soul-Guide Lantern
-1 Show and Tell
-1 Omniscience
-1 Wooded Foothills
-1 Elvish Reclaimer
-1 Emrakul, the Aeons Torn
-1 Griselbrand
-1 Mosswort Bridge
-2 Omniscience
-2 Wooded Foothills
-2 Emrakul, the Aeons Torn
-2 Elvish Reclaimer
-2 Show and Tell
-2 Mosswort Bridge
-3 Elvish Reclaimer
-3 Show and Tell
-3 Mosswort Bridge
-3 Emrakul, the Aeons Torn
-4 Emrakul, the Aeons Torn
-4 Show and Tell
-4 Tropical Island
-4 Mosswort Bridge
-4 Elvish Reclaimer
 1 Verdant Catacombs
 1 Berserk
 1 Breeding Pool
@@ -81,6 +57,7 @@
 1 Badlands
 1 Red Elemental Blast
 2 Brazen Borrower
+1 Pithing Needle
 1 Spell Pierce
 1 Vision Charm
 2 Vision Charm
@@ -104,11 +81,9 @@
 3 Torpor Orb
 3 Force of Negation
 4 Prismatic Vista
-1 Snow-Covered Forest
 1 Mystic Sanctuary
 1 Karakas
 1 Narset, Parter of Veils
-1 Forest
 1 Preordain
 1 Misdirection
 1 Flusterstorm
@@ -130,8 +105,8 @@
 2 Dragon's Rage Channeler
 3 Dragon's Rage Channeler
 4 Dragon's Rage Channeler
-1 Baleful Strix
 1 Nihil Spellbomb
+1 Baleful Strix
 2 Baleful Strix
 3 Baleful Strix
 4 Underground Sea
@@ -147,8 +122,8 @@
 1 Artificer Class
 2 Enlightened Tutor
 2 Plains
-2 Path to Exile
 2 Strict Proctor
+2 Path to Exile
 3 Strict Proctor
 3 Enlightened Tutor
 4 Enlightened Tutor
@@ -163,6 +138,30 @@
 2 Scroll of Fate
 3 Snow-Covered Island
 4 Expressive Iteration
+1 Soul-Guide Lantern
+1 Show and Tell
+1 Omniscience
+1 Wooded Foothills
+1 Elvish Reclaimer
+1 Emrakul, the Aeons Torn
+1 Griselbrand
+1 Forest
+1 Mosswort Bridge
+2 Omniscience
+2 Wooded Foothills
+2 Emrakul, the Aeons Torn
+2 Elvish Reclaimer
+2 Show and Tell
+2 Mosswort Bridge
+3 Elvish Reclaimer
+3 Show and Tell
+3 Mosswort Bridge
+3 Emrakul, the Aeons Torn
+4 Emrakul, the Aeons Torn
+4 Show and Tell
+4 Tropical Island
+4 Mosswort Bridge
+4 Elvish Reclaimer
 1 Dark Confidant
 1 Echoing Truth
 1 Hunted Horror

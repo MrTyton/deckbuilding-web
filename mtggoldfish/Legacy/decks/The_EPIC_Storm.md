@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |---------------------|-------------|--------------------:|------------------------------------------------------------------------------------------|
-|                     |             |                    4|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)|
 |                     |             |                    1|[Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)      |
+|                     |             |                    4|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)|
 |                     |             |                    1|[Meltdown](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10466)        |
 |                     |             |                    1|[Massacre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21324)        |
 

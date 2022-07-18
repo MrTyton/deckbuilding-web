@@ -1,35 +1,34 @@
 10 Island
-1 Kira, Great Glass-Spinner
-1 Harbinger of the Tides
 4 Force of Negation
+1 Harbinger of the Tides
+1 Oboro, Palace in the Clouds
 2 Harbinger of the Tides
 3 Harbinger of the Tides
-1 Oboro, Palace in the Clouds
+1 Kira, Great Glass-Spinner
 4 Glasspool Mimic
 3 Spreading Seas
 11 Island
-1 Dismember
-2 Dismember
 4 Spreading Seas
 12 Island
-3 Cavern of Souls
 1 Benthic Biomancer
 2 Benthic Biomancer
 1 Cursecatcher
 2 Cursecatcher
-3 Cursecatcher
-4 Cursecatcher
 13 Island
 14 Island
-4 Harbinger of the Tides
+3 Cavern of Souls
 1 Master of Waves
 2 Master of Waves
 15 Island
 16 Island
+3 Cursecatcher
+4 Cursecatcher
+1 Dismember
+2 Dismember
+4 Harbinger of the Tides
 4 Cavern of Souls
 1 Brazen Borrower
 2 Brazen Borrower
-2 Kira, Great Glass-Spinner
 3 Benthic Biomancer
 4 Benthic Biomancer
 1 Thieving Skydiver
@@ -40,6 +39,7 @@
 1 Flooded Strand
 2 Flooded Strand
 3 Flooded Strand
+2 Kira, Great Glass-Spinner
 1 Phantasmal Image
 1 Hallowed Fountain
 1 Prismatic Ending
@@ -69,6 +69,10 @@
 2 Merrow Reejerey
 3 Merrow Reejerey
 1 Polluted Delta
+1 Spell Pierce
+1 Mystical Dispute
+2 Spell Pierce
+2 Mystical Dispute
 1 Divide by Zero
 1 Flusterstorm
 2 Divide by Zero
@@ -107,8 +111,8 @@
 1 Pongify
 2 Pongify
 3 Pongify
-1 Faerie Conclave
 1 Counterspell
+1 Faerie Conclave
 1 Blast Zone
 1 Lonely Sandbar
 2 Blast Zone

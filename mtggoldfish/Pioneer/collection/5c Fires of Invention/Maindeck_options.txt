@@ -1,49 +1,48 @@
+4 Temple Garden
+1 Steam Vents
+1 Overgrown Farmland
+2 Overgrown Farmland
+3 Overgrown Farmland
+1 Savai Triome
+1 Zagoth Triome
+1 Trial of Ambition
+2 Trial of Ambition
+3 Trial of Ambition
+4 Trial of Ambition
+1 Indatha Triome
+2 Moon-Blessed Cleric
+1 Breeding Pool
+1 Renegade Rallier
 1 Darkbore Pathway
 2 Darkbore Pathway
-4 Risen Reef
-1 Hengegate Pathway
-2 Hengegate Pathway
-3 Hengegate Pathway
-3 Barkchannel Pathway
-4 Hengegate Pathway
-4 Branchloft Pathway
-4 Barkchannel Pathway
-1 Omen of the Forge
-1 Temple Garden
+1 Binding the Old Gods
 3 Darkbore Pathway
-1 Renegade Rallier
-1 Breeding Pool
+1 Rest in Peace
 1 Brightclimb Pathway
 1 The Scarab God
-1 Binding the Old Gods
+2 Steam Vents
 1 Watery Grave
+3 Fable of the Mirror-Breaker
 1 Gloomshrieker
 1 Godless Shrine
-3 Fable of the Mirror-Breaker
 1 Archon of Sun's Grace
-2 Indatha Triome
-2 Temple Garden
-3 Temple Garden
-4 Temple Garden
-2 Steam Vents
 1 Jetmir's Garden
-1 Rest in Peace
+2 Indatha Triome
 3 Moon-Blessed Cleric
 1 Oath of Kaya
-1 Dreamroot Cascade
-1 Glacial Fortress
 1 Mountain
+1 Glacial Fortress
 1 Sunpetal Grove
 2 Sunpetal Grove
 1 Hallowed Fountain
 1 Omnath, Locus of Creation
-1 Shattered Sanctum
-1 Shipwreck Marsh
+1 Dreamroot Cascade
 1 Caves of Koilos
 1 Overgrown Tomb
 1 Reidane, God of the Worthy
 1 Island
-1 Elspeth Conquers Death
+1 Shattered Sanctum
+1 Shipwreck Marsh
 1 Lithoform Blight
 2 Lithoform Blight
 1 Sin Collector
@@ -52,12 +51,11 @@
 2 Fabled Passage
 3 Fabled Passage
 1 Hall of Storm Giants
-1 Tatsunari, Toad Rider
+1 Sheltered Thicket
 1 Commune with Spirits
 2 Commune with Spirits
 3 Commune with Spirits
-1 Sheltered Thicket
-1 Wandering Mind
+1 Elspeth Conquers Death
 4 Overgrown Farmland
 1 Showdown of the Skalds
 1 Wolfwillow Haven
@@ -70,6 +68,7 @@
 2 Jetmir's Garden
 2 Glacial Fortress
 2 Breeding Pool
+1 Clever Impersonator
 1 Shark Typhoon
 1 Callous Bloodmage
 3 Steam Vents
@@ -89,15 +88,20 @@
 1 Sokenzan, Crucible of Defiance
 4 Steam Vents
 1 Snow-Covered Forest
+1 Tatsunari, Toad Rider
 2 Spirited Companion
 2 Hinterland Harbor
 3 Hinterland Harbor
+1 Wandering Mind
 1 Cemetery Prowler
 1 Plaguecrafter
 2 Brightclimb Pathway
 3 Stomping Ground
+1 Voice of Resurgence
+2 Voice of Resurgence
+3 Voice of Resurgence
+4 Voice of Resurgence
 4 Wolfwillow Haven
-1 Deafening Silence
 1 Anger of the Gods
 2 Anger of the Gods
 1 Eiganjo, Seat of the Empire
@@ -133,7 +137,6 @@
 1 Ziatora's Proving Ground
 1 Nicol Bolas, the Ravager
 3 Lithoform Blight
-1 Clever Impersonator
 1 Drowned Catacomb
 1 Chandra, Awakened Inferno
 1 Fae of Wishes
@@ -165,8 +168,9 @@
 2 Drowned Catacomb
 2 Nicol Bolas, the Ravager
 1 Deafening Clarion
-1 Archon of Emeria
 1 Rip Apart
+1 Archon of Emeria
+1 Deafening Silence
 1 Llanowar Wastes
 1 Xander's Lounge
 1 Golos, Tireless Pilgrim
@@ -209,29 +213,25 @@
 4 Lithoform Blight
 4 Sunpetal Grove
 4 Drowned Catacomb
-1 Voice of Resurgence
-2 Voice of Resurgence
-3 Voice of Resurgence
-4 Voice of Resurgence
 1 Sweltering Suns
 1 Stormcarved Coast
+1 Emeria's Call
 1 Chandra, Torch of Defiance
 1 Deserted Beach
 1 Sundown Pass
-1 Emeria's Call
 1 Commit/Memory
 1 Gideon of the Trials
 1 Jace, Architect of Thought
 2 Deserted Beach
 2 Stormcarved Coast
+2 Sweltering Suns
 2 Gideon of the Trials
 2 Sundown Pass
-2 Sweltering Suns
-3 Deserted Beach
-3 Stormcarved Coast
 3 Sundown Pass
-4 Sundown Pass
+3 Stormcarved Coast
+3 Deserted Beach
 4 Stormcarved Coast
+4 Sundown Pass
 4 Fae of Wishes
 1 Valki, God of Lies
 1 Grafdigger's Cage

@@ -1,18 +1,20 @@
-8 Mountain
+2 City of Traitors
 3 Lightning Bolt
 1 Arid Mesa
 2 Breya's Apprentice
-3 Breya's Apprentice
-1 Imperial Recruiter
 4 Great Furnace
+3 Breya's Apprentice
 1 Wooded Foothills
-2 Arid Mesa
-2 Imperial Recruiter
-1 Ethersworn Canonist
-1 Plateau
 1 Scalding Tarn
+1 Imperial Recruiter
+1 Taiga
+1 Once Upon a Time
+2 Once Upon a Time
+3 Once Upon a Time
+4 Once Upon a Time
 4 Lightning Bolt
 1 Retrofitter Foundry
+2 Arid Mesa
 1 Island
 1 Force of Will
 2 Force of Will
@@ -33,25 +35,18 @@
 4 Ponder
 4 Brainstorm
 2 Mox Opal
+2 Imperial Recruiter
+1 Ethersworn Canonist
+1 Plateau
 4 Lotus Petal
 4 Karn, the Great Creator
-2 Wooded Foothills
-1 Taiga
-1 Once Upon a Time
-2 Once Upon a Time
-3 Once Upon a Time
-4 Once Upon a Time
-1 Enlightened Tutor
 2 Island
 2 Flooded Strand
 2 Volcanic Island
 3 Expressive Iteration
 4 Expressive Iteration
-1 Ichor Wellspring
 3 Ensnaring Bridge
-2 Plateau
-2 Enlightened Tutor
-1 Goblin Cratermaker
+1 Bloodstained Mire
 1 Experimental Synthesizer
 2 Experimental Synthesizer
 1 Bolas's Citadel
@@ -67,10 +62,15 @@
 2 Murktide Regent
 1 Plains
 1 Otawara, Soaring City
+2 Wooded Foothills
 1 Sundering Titan
 1 Chromatic Star
+1 Enlightened Tutor
 1 Swords to Plowshares
 2 Swords to Plowshares
+1 Ichor Wellspring
+1 Fury
+2 Fury
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -93,8 +93,9 @@
 3 Swords to Plowshares
 4 Swords to Plowshares
 1 Blood Moon
-3 Imperial Recruiter
-1 Bloodstained Mire
+2 Plateau
+2 Enlightened Tutor
+1 Goblin Cratermaker
 3 Experimental Synthesizer
 9 Mountain
 2 Chromatic Star
@@ -142,9 +143,6 @@
 4 Wasteland
 1 Pyrite Spellbomb
 1 Spellskite
-1 Smuggler's Copter
-1 Fury
-2 Fury
 2 Simian Spirit Guide
 1 Unholy Heat
 1 Brazen Borrower
@@ -160,7 +158,8 @@
 2 Aether Vial
 3 Ethersworn Canonist
 3 Mother of Runes
-4 Imperial Recruiter
+1 Smuggler's Copter
+3 Imperial Recruiter
 1 Ledger Shredder
 1 Spine of Ish Sah
 2 Ledger Shredder
@@ -210,8 +209,8 @@
 4 Taiga
 4 Flooded Strand
 1 Mishra's Bauble
-1 Metallic Rebuke
 1 Minamo, School at Water's Edge
+1 Metallic Rebuke
 1 Kappa Cannoneer
 1 Thoughtcast
 1 Emry, Lurker of the Loch
