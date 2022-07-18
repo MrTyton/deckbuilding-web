@@ -57,16 +57,16 @@
 1 Raugrin Triome
 1 Subtlety
 2 Otawara, Soaring City
+2 Eiganjo, Seat of the Empire
 2 Solitude
 2 Snow-Covered Plains
 2 Spreading Seas
-2 Eiganjo, Seat of the Empire
 2 Subtlety
 3 Subtlety
 3 Solitude
 3 Spreading Seas
-4 Prismatic Ending
 4 Solitude
+4 Prismatic Ending
 4 Spreading Seas
 4 Subtlety
 1 Sunbaked Canyon
@@ -89,30 +89,31 @@
 2 Waterlogged Grove
 3 Deputy of Detention
 3 Plains
-1 Hengegate Pathway
-1 Patrician Geist
-1 Barkchannel Pathway
-2 Patrician Geist
-3 Misty Rainforest
-5 Island
-1 Spectral Adversary
-1 Faceless Haven
-1 Ascendant Spirit
+1 Teferi, Time Raveler
+1 Mutavault
+2 Teferi, Time Raveler
+2 Mutavault
+3 Path to Exile
+3 Mutavault
+4 Mutavault
 1 Spell Snare
+1 Ascendant Spirit
+1 Faceless Haven
+1 Spectral Adversary
 1 Brazen Borrower
 1 Curious Obsession
 1 Spell Pierce
 1 Geistlight Snare
-2 Snow-Covered Island
-2 Faceless Haven
-2 Curious Obsession
 2 Ascendant Spirit
+2 Faceless Haven
+2 Snow-Covered Island
+2 Curious Obsession
 2 Brazen Borrower
 2 Geistlight Snare
 3 Snow-Covered Island
 3 Geistlight Snare
-3 Faceless Haven
 3 Ascendant Spirit
+3 Faceless Haven
 3 Curious Obsession
 4 Geistlight Snare
 4 Snow-Covered Island
@@ -124,10 +125,9 @@
 9 Snow-Covered Island
 10 Snow-Covered Island
 11 Snow-Covered Island
-1 Teferi, Time Raveler
-1 Mutavault
-2 Teferi, Time Raveler
-2 Mutavault
-3 Path to Exile
-3 Mutavault
-4 Mutavault
+1 Hengegate Pathway
+1 Patrician Geist
+1 Barkchannel Pathway
+2 Patrician Geist
+3 Misty Rainforest
+5 Island

@@ -12,11 +12,11 @@
 4 Blood Moon
 1 Rest in Peace
 2 Rest in Peace
-1 Sunset Revelry
-1 Pithing Needle
 1 Stony Silence
 1 Hurkyl's Recall
 1 Thrun, the Last Troll
+1 Pithing Needle
+1 Sunset Revelry
 1 Heroic Intervention
 1 Worship
 2 Sunset Revelry
@@ -49,9 +49,6 @@
 2 Karn, Scion of Urza
 2 Dismember
 3 Seasoned Pyromancer
-1 Leyline of the Void
-2 Leyline of the Void
-3 Leyline of the Void
 1 Klothys, God of Destiny
 1 Wear/Tear
 1 Fury
@@ -62,6 +59,9 @@
 3 Fury
 3 Rest in Peace
 3 Wear/Tear
+1 Leyline of the Void
+2 Leyline of the Void
+3 Leyline of the Void
 1 Cindervines
 1 Feed the Clan
 1 Jegantha, the Wellspring
@@ -70,9 +70,9 @@
 2 Cindervines
 2 Crumble to Dust
 3 Cindervines
-1 Endurance
 1 Veil of Summer
 1 Natural State
+1 Endurance
 1 Kitchen Finks
 2 Veil of Summer
 2 Natural State
@@ -84,11 +84,11 @@
 3 Pillage
 4 Void Mirror
 4 Pillage
-1 Pyroclasm
 1 Force of Vigor
+1 Pyroclasm
 2 Force of Vigor
 2 Pyroclasm
-3 Force of Vigor
 3 Alpine Moon
+3 Force of Vigor
 4 Force of Vigor
 4 Alpine Moon

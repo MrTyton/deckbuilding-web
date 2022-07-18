@@ -17,13 +17,13 @@
 4 Duress
 1 Power Word Kill
 3 Burn Down the House
-1 Light Up the Night
 1 Bloodthirsty Adversary
 1 Shadows' Verdict
 1 Nighthawk Scavenger
-2 Shadows' Verdict
+1 Light Up the Night
 2 Bloodthirsty Adversary
 2 Nighthawk Scavenger
+2 Shadows' Verdict
 1 Environmental Sciences
 2 Power Word Kill
 3 Shadows' Verdict
@@ -38,14 +38,17 @@
 4 Ray of Enfeeblement
 1 Burning Hands
 2 Burning Hands
-1 Tenacious Underdog
 1 March of Wretched Sorrow
-1 Parasitic Grasp
-1 Ill-Tempered Loner
-2 Ill-Tempered Loner
-2 Parasitic Grasp
+1 Tenacious Underdog
+1 Feed the Swarm
+1 Unlicensed Hearse
+2 Feed the Swarm
 2 Pithing Needle
 2 Strangle
+1 Parasitic Grasp
+1 Ill-Tempered Loner
+2 Parasitic Grasp
+2 Ill-Tempered Loner
 1 Bloodchief's Thirst
 1 Mascot Exhibition
 1 Necrotic Fumes
@@ -53,21 +56,18 @@
 1 Extract the Truth
 2 Lolth, Spider Queen
 2 Extract the Truth
-1 Sokenzan Smelter
 1 Florian, Voldaren Scion
+1 Sokenzan Smelter
 2 Sokenzan Smelter
-1 Feed the Swarm
-1 Unlicensed Hearse
-2 Feed the Swarm
-3 Infernal Grasp
 2 Valki, God of Lies
 3 Burning Hands
+3 Infernal Grasp
 1 Hidetsugu Consumes All
 1 Orcus, Prince of Undeath
 1 Goldspan Dragon
 1 Acquisitions Expert
-2 Acquisitions Expert
 2 Hidetsugu Consumes All
+2 Acquisitions Expert
 3 Acquisitions Expert
 4 Acquisitions Expert
 1 Inferno of the Star Mounts
@@ -75,7 +75,7 @@
 2 Magda, Brazen Outlaw
 3 Power Word Kill
 3 Magda, Brazen Outlaw
-1 Oni-Cult Anvil
 1 Forge Boss
+1 Oni-Cult Anvil
 1 Maestros Initiate
 1 Riveteers Initiate

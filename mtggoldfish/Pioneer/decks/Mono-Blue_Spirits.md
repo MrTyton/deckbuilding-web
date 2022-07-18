@@ -71,6 +71,6 @@
 |                     |                                                                                              |                    1|Mischievous Catgeist                                                                             |
 |                     |                                                                                              |                    1|[Tempted by the Oriq](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513535)   |
 |                     |                                                                                              |                    1|[Adverse Conditions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401803)    |
-|                     |                                                                                              |                    2|Mischievous Catgeist                                                                             |
 |                     |                                                                                              |                    2|[Tempted by the Oriq](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513535)   |
+|                     |                                                                                              |                    2|Mischievous Catgeist                                                                             |
 
