@@ -76,16 +76,16 @@
 3 Arni Brokenbrow
 3 Blade Historian
 4 Blade Historian
-1 Roiling Vortex
-1 Burn Down the House
-1 Snow-Covered Mountain
 1 Frost Bite
-2 Roiling Vortex
-2 Burn Down the House
-2 Snow-Covered Mountain
+1 Roiling Vortex
+1 Snow-Covered Mountain
+1 Burn Down the House
 2 Frost Bite
-3 Snow-Covered Mountain
+2 Roiling Vortex
+2 Snow-Covered Mountain
+2 Burn Down the House
 3 Frost Bite
+3 Snow-Covered Mountain
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
@@ -116,6 +116,10 @@
 3 Run Amok
 1 Antagonize
 2 Antagonize
+1 Fable of the Mirror-Breaker
+2 Fable of the Mirror-Breaker
+3 Fable of the Mirror-Breaker
+4 Fable of the Mirror-Breaker
 1 Riveteers Requisitioner
 1 Heated Debate
 2 Riveteers Requisitioner
@@ -127,10 +131,6 @@
 3 Twinshot Sniper
 4 End the Festivities
 4 Twinshot Sniper
-1 Fable of the Mirror-Breaker
-2 Fable of the Mirror-Breaker
-3 Fable of the Mirror-Breaker
-4 Fable of the Mirror-Breaker
 1 Iron Apprentice
 1 Towashi Songshaper
 1 Reckless Impulse

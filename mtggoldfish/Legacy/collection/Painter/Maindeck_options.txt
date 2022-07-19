@@ -1,20 +1,21 @@
 2 City of Traitors
-3 Lightning Bolt
 1 Arid Mesa
-2 Breya's Apprentice
+3 Lightning Bolt
 4 Great Furnace
-3 Breya's Apprentice
-1 Wooded Foothills
+2 Breya's Apprentice
 1 Scalding Tarn
-1 Imperial Recruiter
+3 Breya's Apprentice
 1 Taiga
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
 4 Once Upon a Time
+1 Wooded Foothills
+2 Arid Mesa
+1 Imperial Recruiter
 4 Lightning Bolt
 1 Retrofitter Foundry
-2 Arid Mesa
+2 Scalding Tarn
 1 Island
 1 Force of Will
 2 Force of Will
@@ -27,7 +28,6 @@
 1 Flooded Strand
 2 Expressive Iteration
 2 Ponder
-2 Scalding Tarn
 2 Brainstorm
 3 Brainstorm
 3 Ponder
@@ -45,15 +45,20 @@
 2 Volcanic Island
 3 Expressive Iteration
 4 Expressive Iteration
-3 Ensnaring Bridge
+1 Fury
 1 Bloodstained Mire
+3 Ensnaring Bridge
 1 Experimental Synthesizer
 2 Experimental Synthesizer
 1 Bolas's Citadel
-3 Arid Mesa
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
+4 Snow-Covered Mountain
+1 Cursed Mirror
 1 Wurmcoil Engine
 3 Fable of the Mirror-Breaker
-1 Cursed Mirror
+3 Arid Mesa
 4 Scalding Tarn
 1 Force of Negation
 1 Relic of Progenitus
@@ -69,12 +74,7 @@
 1 Swords to Plowshares
 2 Swords to Plowshares
 1 Ichor Wellspring
-1 Fury
 2 Fury
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
-4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
@@ -174,8 +174,8 @@
 4 Esper Sentinel
 1 Magmatic Channeler
 2 Magmatic Channeler
-3 Red Elemental Blast
 3 City of Traitors
+3 Red Elemental Blast
 3 Chromatic Star
 4 Red Elemental Blast
 4 Chromatic Star
@@ -209,8 +209,8 @@
 4 Taiga
 4 Flooded Strand
 1 Mishra's Bauble
-1 Minamo, School at Water's Edge
 1 Metallic Rebuke
+1 Minamo, School at Water's Edge
 1 Kappa Cannoneer
 1 Thoughtcast
 1 Emry, Lurker of the Loch
@@ -283,10 +283,10 @@
 1 Urborg, Tomb of Yawgmoth
 1 Dark Confidant
 2 Thoughtseize
-2 Dark Ritual
-2 Chrome Mox
 2 Sudden Edict
+2 Dark Ritual
 2 Duress
+2 Chrome Mox
 2 Dark Confidant
 2 Urborg, Tomb of Yawgmoth
 2 Dauthi Voidwalker
@@ -294,18 +294,18 @@
 2 Opposition Agent
 3 Thoughtseize
 3 Sudden Edict
-3 Dark Ritual
 3 Chrome Mox
+3 Dark Ritual
 3 Opposition Agent
 3 Dauthi Voidwalker
 3 Swamp
 3 Dark Confidant
 4 Thoughtseize
-4 Dark Ritual
 4 Swamp
 4 Sudden Edict
 4 Dark Confidant
 4 Dauthi Voidwalker
+4 Dark Ritual
 5 Swamp
 6 Swamp
 7 Swamp

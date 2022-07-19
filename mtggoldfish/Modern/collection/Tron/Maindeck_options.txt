@@ -1,7 +1,7 @@
 1 Sanctum of Ugin
 1 Karn Liberated
-1 Chromatic Star
 1 Chromatic Sphere
+1 Chromatic Star
 2 Chromatic Star
 2 Karn Liberated
 2 Wurmcoil Engine
@@ -10,8 +10,8 @@
 3 Karn Liberated
 3 Chromatic Sphere
 4 Chromatic Sphere
-1 Forest
 1 Sylvan Scrying
+1 Forest
 1 Ancient Stirrings
 2 Forest
 2 Ancient Stirrings
@@ -66,6 +66,7 @@
 1 Batterskull
 1 Forsaken Monument
 1 Treasure Vault
+1 Mishra's Bauble
 1 Spire of Industry
 1 Emrakul, the Aeons Torn
 1 Paradox Engine
@@ -77,7 +78,6 @@
 1 Void Winnower
 1 Powerstone Shard
 1 Metalwork Colossus
-1 Mishra's Bauble
 1 Automated Artificer
 2 Witch's Oven
 2 Metalwork Colossus
@@ -102,13 +102,13 @@
 1 Eye of Vecna
 3 Thragtusk
 4 Wurmcoil Engine
-2 Cavern of Souls
 2 Endbringer
+2 Cavern of Souls
+1 Valakut Awakening
 1 Fire/Ice
 1 Barkchannel Pathway
 1 Academy Ruins
 1 Divide by Zero
-1 Valakut Awakening
 1 Spirebluff Canal
 1 Fury
 1 Island
@@ -162,10 +162,10 @@
 1 Talisman of Unity
 1 Plains
 1 Prismatic Ending
-2 Plains
 2 Prismatic Ending
-3 Plains
+2 Plains
 3 Prismatic Ending
-4 Plains
+3 Plains
 4 Prismatic Ending
+4 Plains
 5 Plains

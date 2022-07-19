@@ -35,12 +35,9 @@
 1 Dread of Night
 1 Extract
 1 Steal Enchantment
-1 Serenity
-1 Winter Orb
-1 Pyroclasm
-2 Winter Orb
-2 Serenity
-2 Pyroclasm
+1 Dress Down
+2 Dress Down
+2 Grafdigger's Cage
 1 Nihil Spellbomb
 1 Engineered Explosives
 1 Karakas
@@ -49,18 +46,21 @@
 1 Dauthi Voidwalker
 1 Bitterblossom
 2 Dauthi Voidwalker
-1 Dress Down
-2 Dress Down
-2 Grafdigger's Cage
+1 Serenity
+1 Pyroclasm
+1 Winter Orb
+2 Serenity
+2 Pyroclasm
+2 Winter Orb
+1 Court of Cunning
+1 Stubborn Denial
+2 Meltdown
+2 Stubborn Denial
+2 Court of Cunning
 1 Echoing Truth
 1 Ratchet Bomb
 2 Back to Basics
 2 Force of Negation
-1 Court of Cunning
-1 Stubborn Denial
-2 Meltdown
-2 Court of Cunning
-2 Stubborn Denial
 1 Boseiju, Who Shelters All
 1 Return to Nature
 1 The Tabernacle at Pendrell Vale
@@ -88,8 +88,8 @@
 3 Red Elemental Blast
 1 Detention Sphere
 1 Rest in Peace
-1 Containment Priest
 1 Wipe Away
+1 Containment Priest
 1 Cursed Totem
 1 Prismatic Ending
 1 Leyline of Sanctity

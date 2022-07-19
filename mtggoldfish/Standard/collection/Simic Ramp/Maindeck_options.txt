@@ -16,8 +16,8 @@
 4 Alrund's Epiphany
 1 Kazandu Mammoth
 2 Kazandu Mammoth
-3 Storm the Festival
 3 Kazandu Mammoth
+3 Storm the Festival
 4 Kazandu Mammoth
 1 Decisive Denial
 2 Decisive Denial
@@ -27,8 +27,8 @@
 7 Island
 1 Titan of Industry
 1 Topiary Stomper
-2 Topiary Stomper
 2 Titan of Industry
+2 Topiary Stomper
 3 Topiary Stomper
 1 Neverwinter Dryad
 2 Neverwinter Dryad
@@ -153,8 +153,8 @@
 11 Snow-Covered Forest
 1 Werewolf Pack Leader
 2 Werewolf Pack Leader
-8 Island
 8 Forest
+8 Island
 1 Bookwurm
 2 Bookwurm
 1 Disdainful Stroke
@@ -202,23 +202,23 @@
 4 Tangled Florahedron
 1 Jewel Thief
 1 Syncopate
-1 Thirst for Discovery
 1 Vivien on the Hunt
 1 Undercover Operative
+1 Thirst for Discovery
 1 Mirrorhall Mimic
-2 Jewel Thief
 2 Syncopate
-2 Thirst for Discovery
+2 Jewel Thief
 2 Kairi, the Swirling Sky
 2 Vivien on the Hunt
-3 Vivien on the Hunt
+2 Thirst for Discovery
 3 Jewel Thief
 3 Thirst for Discovery
+3 Vivien on the Hunt
 4 Jewel Thief
 4 Thirst for Discovery
 3 Turntimber Symbiosis
-4 Hullbreaker Horror
 4 Overcharged Amalgam
+4 Hullbreaker Horror
 1 Vilespawn Spider
 1 Mulch
 1 Dollhouse of Horrors
@@ -241,18 +241,18 @@
 3 Blizzard Brawl
 3 Old-Growth Troll
 4 Werewolf Pack Leader
-4 Malevolent Hermit
 4 Decisive Denial
+4 Malevolent Hermit
 4 Blizzard Brawl
 4 Old-Growth Troll
-1 Greater Tanuki
 1 Reckoner Bankbuster
+1 Greater Tanuki
 1 Cosima, God of the Voyage
-2 Cosima, God of the Voyage
 2 Reckoner Bankbuster
+2 Cosima, God of the Voyage
 2 Greater Tanuki
-3 Reckoner Bankbuster
 3 Jwari Disruption
+3 Reckoner Bankbuster
 3 Glasspool Mimic
 3 Colossal Skyturtle
 3 Cosima, God of the Voyage
@@ -261,24 +261,40 @@
 4 Glasspool Mimic
 1 The Reality Chip
 4 Hall of Storm Giants
+1 Faceless Haven
 1 Consider
 1 Augur of Autumn
 1 Croaking Counterpart
-1 Faceless Haven
+2 Faceless Haven
 2 Consider
 2 Augur of Autumn
-2 Faceless Haven
 2 Croaking Counterpart
 3 Consider
 3 Faceless Haven
 3 Croaking Counterpart
-4 Lotus Cobra
-4 Croaking Counterpart
 4 Consider
+4 Croaking Counterpart
+4 Lotus Cobra
 4 Mind Flayer
 4 Spirit of the Aldergard
+1 Graven Lore
+1 Icebreaker Kraken
+1 Bubble Snare
+1 Zimone, Quandrix Prodigy
+1 Ascendant Spirit
+1 Sculptor of Winter
+1 Berg Strider
+1 Snow Day
+2 Bubble Snare
+2 Zimone, Quandrix Prodigy
+2 Sculptor of Winter
+2 Berg Strider
+3 Bubble Snare
+3 Sculptor of Winter
+3 Berg Strider
+9 Snow-Covered Island
+10 Snow-Covered Island
 1 Unnatural Growth
-1 Wizard Class
 1 Ranger Class
 1 Rabid Bite
 1 Tapping at the Window
@@ -287,6 +303,7 @@
 1 Roiling Regrowth
 1 Scale the Heights
 1 Druid Class
+1 Wizard Class
 1 Trickster's Talisman
 1 Bramble Wurm
 2 Unnatural Growth
@@ -297,27 +314,10 @@
 2 Bramble Wurm
 2 Rabid Bite
 2 Druid Class
-9 Forest
 9 Island
-10 Forest
+9 Forest
 10 Island
-11 Forest
+10 Forest
 11 Island
 12 Island
-1 Graven Lore
-1 Icebreaker Kraken
-1 Zimone, Quandrix Prodigy
-1 Ascendant Spirit
-1 Sculptor of Winter
-1 Berg Strider
-1 Snow Day
-1 Bubble Snare
-2 Bubble Snare
-2 Zimone, Quandrix Prodigy
-2 Sculptor of Winter
-2 Berg Strider
-3 Sculptor of Winter
-3 Berg Strider
-3 Bubble Snare
-9 Snow-Covered Island
-10 Snow-Covered Island
+11 Forest

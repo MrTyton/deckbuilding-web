@@ -100,21 +100,21 @@
 2 Sorin the Mirthless
 4 Mountain
 2 Duress
-2 Light Up the Night
 2 Soul Shatter
 1 Workshop Warchief
 1 Unlicensed Hearse
 2 Workshop Warchief
+2 Light Up the Night
 3 Rockfall Vale
-1 Agadeem's Awakening
-1 Warlock Class
-1 Junji, the Midnight Sky
-1 Inscription of Ruin
-1 March of Wretched Sorrow
-1 Acquisitions Expert
-1 Culling Ritual
 1 Harness Infinity
+1 March of Wretched Sorrow
+1 Warlock Class
+1 Inscription of Ruin
+1 Junji, the Midnight Sky
+1 Agadeem's Awakening
+1 Culling Ritual
 1 Check for Traps
+1 Acquisitions Expert
 1 Demogorgon's Clutches
 2 March of Wretched Sorrow
 2 Acquisitions Expert
@@ -123,15 +123,15 @@
 3 Hive of the Eye Tyrant
 1 Rabbit Battery
 1 Ranger Class
-1 Professional Face-Breaker
 1 Eater of Virtue
+1 Professional Face-Breaker
 1 Corpse Explosion
 1 Ziatora's Envoy
 2 Ranger Class
 2 Rabbit Battery
 2 Ziatora's Envoy
-3 Rabbit Battery
 3 Snakeskin Veil
+3 Rabbit Battery
 3 Ziatora's Envoy
 1 Jadar, Ghoulcaller of Nephalia
 1 Extus, Oriq Overlord
@@ -143,28 +143,28 @@
 2 Branchloft Pathway
 3 Jaspera Sentinel
 3 Extus, Oriq Overlord
+1 Woodland Chasm
 1 Topiary Stomper
+1 Field of Ruin
+1 Arcane Bombardment
 1 Rugged Highlands
 1 Gnottvold Slumbermound
 1 Waking the Trolls
 1 Unnatural Growth
-1 Field of Ruin
-1 Woodland Chasm
-1 Arcane Bombardment
 1 Cleansing Wildfire
+2 Woodland Chasm
 2 Topiary Stomper
+2 Arcane Bombardment
 2 Rugged Highlands
 2 Waking the Trolls
 2 Unnatural Growth
-2 Gnottvold Slumbermound
 2 Field of Ruin
 2 Cleansing Wildfire
-2 Woodland Chasm
-2 Arcane Bombardment
+2 Gnottvold Slumbermound
 3 Topiary Stomper
+3 Woodland Chasm
 3 Gnottvold Slumbermound
 3 Unnatural Growth
-3 Woodland Chasm
 3 Waking the Trolls
 4 Topiary Stomper
 1 Flame-Blessed Bolt
@@ -179,25 +179,25 @@
 4 Strangle
 1 Experimental Synthesizer
 1 Voldaren Epicure
-1 Oni-Cult Anvil
 1 Sokenzan Smelter
+1 Oni-Cult Anvil
+2 Sokenzan Smelter
 2 Den of the Bugbear
 2 Experimental Synthesizer
 2 Voldaren Epicure
 2 Oni-Cult Anvil
-2 Sokenzan Smelter
 3 Sokenzan Smelter
 3 Experimental Synthesizer
 3 Voldaren Epicure
 3 Oni-Cult Anvil
 4 Voldaren Epicure
-4 Oni-Cult Anvil
-4 Sokenzan Smelter
 4 The Meathook Massacre
+4 Sokenzan Smelter
 4 Experimental Synthesizer
+4 Oni-Cult Anvil
 1 Atsushi, the Blazing Sky
-1 Masked Vandal
 1 Sarulf, Realm Eater
+1 Masked Vandal
 1 Kardur's Vicious Return
 2 Sarulf, Realm Eater
 2 Atsushi, the Blazing Sky
@@ -208,65 +208,65 @@
 3 Masked Vandal
 4 Infernal Grasp
 4 Masked Vandal
-1 Sulfurous Mire
-1 Baleful Mastery
-1 Snow-Covered Mountain
 1 Snow-Covered Swamp
+1 Snow-Covered Mountain
+1 Fell Stinger
+1 Baleful Mastery
 1 Blood on the Snow
 1 Hero's Downfall
-1 Fell Stinger
 1 Malakir Rebirth
-2 Sulfurous Mire
-2 Snow-Covered Mountain
+1 Sulfurous Mire
 2 Snow-Covered Swamp
 2 Blood on the Snow
+2 Snow-Covered Mountain
 2 Fell Stinger
+2 Sulfurous Mire
+3 Snow-Covered Swamp
+3 Snow-Covered Mountain
+3 Blood on the Snow
 3 Lolth, Spider Queen
 3 Sulfurous Mire
-3 Blood on the Snow
-3 Snow-Covered Mountain
-3 Snow-Covered Swamp
 3 Fell Stinger
-4 Sulfurous Mire
-4 Blood on the Snow
-4 Snow-Covered Mountain
 4 Snow-Covered Swamp
-5 Snow-Covered Mountain
+4 Snow-Covered Mountain
+4 Blood on the Snow
+4 Sulfurous Mire
 5 Snow-Covered Swamp
-6 Snow-Covered Mountain
+5 Snow-Covered Mountain
 6 Snow-Covered Swamp
+6 Snow-Covered Mountain
 7 Snow-Covered Mountain
 7 Snow-Covered Swamp
+1 Necroblossom Snarl
 1 The World Tree
-1 Tangled Florahedron
 1 The Celestus
-1 Vorinclex, Monstrous Raider
+1 Howlpack Piper
+1 Tangled Florahedron
 1 Mulch
 1 Old Gnawbone
+1 Cathartic Pyre
+1 Inferno of the Star Mounts
+1 Vorinclex, Monstrous Raider
 1 Cinderclasm
 1 Dryad's Revival
 1 Bloodchief's Thirst
 1 Froghemoth
-1 Inferno of the Star Mounts
 1 Drana, the Last Bloodchief
-1 Necroblossom Snarl
 1 Eccentric Farmer
-1 Howlpack Piper
 1 Evolving Wilds
-1 Cathartic Pyre
 1 Olivia, Crimson Bride
 2 Bloodchief's Thirst
-2 Tangled Florahedron
 2 The Celestus
+2 Howlpack Piper
+2 Tangled Florahedron
 2 Mulch
 2 Cathartic Pyre
-2 Howlpack Piper
 2 Olivia, Crimson Bride
 3 Forest
+3 Howlpack Piper
 3 Cathartic Pyre
 3 Mulch
 3 Olivia, Crimson Bride
-3 Howlpack Piper
 4 Forest
 4 Mulch
 5 Forest
