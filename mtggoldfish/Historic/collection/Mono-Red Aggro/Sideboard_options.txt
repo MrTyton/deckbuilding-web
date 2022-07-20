@@ -48,8 +48,8 @@
 1 Chandra, Dressed to Kill
 2 Chandra, Dressed to Kill
 1 Bonecrusher Giant
-1 Cemetery Gatekeeper
 1 Goblin Chainwhirler
+1 Cemetery Gatekeeper
 1 Unchained Berserker
 1 Raze the Effigy
 1 Chandra's Defeat
@@ -79,6 +79,11 @@
 2 Imminent Doom
 2 Fateful End
 2 Electrostatic Blast
+1 Fanatical Firebrand
+2 Fanatical Firebrand
+2 Grafdigger's Cage
+3 Grafdigger's Cage
+3 Burning Hands
 1 Aethersphere Harvester
 2 Aethersphere Harvester
 3 Aethersphere Harvester
@@ -96,19 +101,14 @@
 3 Fateful Absence
 3 Rest in Peace
 3 Archon of Emeria
-1 Fanatical Firebrand
-2 Fanatical Firebrand
-2 Grafdigger's Cage
-3 Grafdigger's Cage
-3 Burning Hands
-2 Bonecrusher Giant
+1 Fable of the Mirror-Breaker
+3 Fry
+3 Chandra, Dressed to Kill
+4 Roiling Vortex
 2 Hazoret the Fervent
+2 Bonecrusher Giant
 2 Embereth Shieldbreaker
 4 Rampaging Ferocidon
-1 Fable of the Mirror-Breaker
-3 Chandra, Dressed to Kill
-3 Fry
-4 Roiling Vortex
 1 Bloodthirsty Adversary
 1 Chandra's Regulator
 1 Thundering Raiju
@@ -119,9 +119,9 @@
 3 Pithing Needle
 3 Bloodthirsty Adversary
 3 Toralf's Disciple
-1 Shock
 1 Thundering Rebuke
 1 Antagonize
+1 Shock
 1 Lightning Axe
 1 Heated Debate
 1 Strangle

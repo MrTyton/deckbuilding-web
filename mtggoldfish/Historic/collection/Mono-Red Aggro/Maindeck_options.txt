@@ -45,8 +45,8 @@
 2 Phoenix of Ash
 3 Voltage Surge
 3 Voldaren Epicure
-4 Voltage Surge
 4 Voldaren Epicure
+4 Voltage Surge
 19 Mountain
 20 Mountain
 1 Lightning Strike
@@ -59,18 +59,18 @@
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
+1 Skewer the Critics
 1 Snow-Covered Mountain
 1 Antagonize
 1 Unleash Fury
-1 Skewer the Critics
 1 Weaponize the Monsters
 1 You Come to the Gnoll Camp
 1 Insult/Injury
 1 Hellrider
 1 Toralf, God of Fury
 1 Tibalt, Wicked Tormentor
-2 Hellrider
 2 Skewer the Critics
+2 Hellrider
 3 Hellrider
 4 Hellrider
 1 Claim the Firstborn
@@ -81,31 +81,30 @@
 2 Abrade
 3 Abrade
 1 Electrostatic Blast
-2 Shatterskull Smashing
 2 Electrostatic Blast
+2 Shatterskull Smashing
 3 Sokenzan, Crucible of Defiance
 3 Shatterskull Smashing
 4 Sokenzan, Crucible of Defiance
 4 Shatterskull Smashing
 1 Goro-Goro, Disciple of Ryusei
 1 Urabrask, Heretic Praetor
-1 Roil Eruption
-1 Chandra, Acolyte of Flame
 1 Thundering Rebuke
+1 Chandra, Acolyte of Flame
+1 Roil Eruption
 2 Urabrask, Heretic Praetor
-2 Roil Eruption
 2 Chandra, Torch of Defiance
-2 Chandra, Acolyte of Flame
 2 Thundering Rebuke
+2 Chandra, Acolyte of Flame
+2 Roil Eruption
 2 Goro-Goro, Disciple of Ryusei
 3 Thundering Rebuke
-3 Roil Eruption
 3 Chandra, Dressed to Kill
-3 Chandra, Acolyte of Flame
 3 Goro-Goro, Disciple of Ryusei
+3 Chandra, Acolyte of Flame
+3 Roil Eruption
 4 Roil Eruption
 4 Goro-Goro, Disciple of Ryusei
-1 Dragon's Rage Channeler
 1 Seasoned Pyromancer
 1 Rabbit Battery
 1 Fiery Temper
@@ -114,11 +113,11 @@
 1 Fable of the Mirror-Breaker
 1 Unholy Heat
 1 Blazing Rootwalla
+1 Dragon's Rage Channeler
 1 Hollow One
 1 Faithless Looting
-2 Dragon's Rage Channeler
-2 Seasoned Pyromancer
 2 Fable of the Mirror-Breaker
+2 Seasoned Pyromancer
 2 Rabbit Battery
 2 Fiery Temper
 2 Ox of Agonas
@@ -126,38 +125,39 @@
 2 Pillar of Flame
 2 Blazing Rootwalla
 2 Hollow One
+2 Dragon's Rage Channeler
 2 Faithless Looting
-3 Dragon's Rage Channeler
 3 Unholy Heat
 3 Fable of the Mirror-Breaker
 3 Faithless Looting
 3 Fiery Temper
 3 Blazing Rootwalla
 3 Hollow One
-4 Dragon's Rage Channeler
+3 Dragon's Rage Channeler
 4 Fable of the Mirror-Breaker
 4 Unholy Heat
 4 Fiery Temper
 4 Hollow One
+4 Dragon's Rage Channeler
 4 Faithless Looting
 4 Blazing Rootwalla
 1 Sundown Pass
-1 Sacred Foundry
-1 Inspiring Vantage
-1 Needleverge Pathway
 1 Static Discharge
-2 Sundown Pass
-2 Needleverge Pathway
-2 Inspiring Vantage
+1 Needleverge Pathway
+1 Inspiring Vantage
+1 Sacred Foundry
 2 Sacred Foundry
+2 Sundown Pass
 2 Static Discharge
+2 Inspiring Vantage
+2 Needleverge Pathway
+3 Sacred Foundry
 3 Sundown Pass
 3 Inspiring Vantage
-3 Sacred Foundry
 3 Static Discharge
-4 Inspiring Vantage
 4 Sacred Foundry
 4 Rampaging Ferocidon
+4 Inspiring Vantage
 4 Static Discharge
 1 Hazoret the Fervent
 1 Earthshaker Khenra
