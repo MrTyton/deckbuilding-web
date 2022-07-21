@@ -1,5 +1,5 @@
-1 Mishra's Bauble
-2 Mishra's Bauble
+2 Scalding Tarn
+2 Boseiju, Who Endures
 2 Ephemerate
 1 Dress Down
 3 Unholy Heat
@@ -13,13 +13,12 @@
 1 Risen Reef
 2 Risen Reef
 3 Risen Reef
-2 Snow-Covered Island
 1 Eternal Witness
 3 Lightning Bolt
 3 Traverse the Ulvenwald
 2 Dress Down
 4 Risen Reef
-1 Supreme Verdict
+2 Snow-Covered Island
 1 Arid Mesa
 2 Fury
 3 Eladamri's Call
@@ -27,11 +26,11 @@
 1 Cavern of Souls
 2 Cavern of Souls
 4 Traverse the Ulvenwald
-1 March of Otherworldly Light
+1 Supreme Verdict
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Dress Down
-2 Supreme Verdict
+1 March of Otherworldly Light
 1 Sokenzan, Crucible of Defiance
 3 Scalding Tarn
 3 Fury
@@ -39,12 +38,12 @@
 2 Oath of Nissa
 3 Ephemerate
 1 Jetmir's Garden
-2 March of Otherworldly Light
 3 Utopia Sprawl
 4 Utopia Sprawl
-2 Arid Mesa
 1 Kiki-Jiki, Mirror Breaker
 1 Felidar Guardian
+2 Arid Mesa
+2 Supreme Verdict
 4 Scalding Tarn
 1 Planebound Accomplice
 1 Karmic Guide
@@ -57,11 +56,11 @@
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
+2 March of Otherworldly Light
 1 Memory Deluge
 1 Force of Negation
-1 Teferi, Hero of Dominaria
-3 Supreme Verdict
 1 Castle Vantress
+1 Teferi, Hero of Dominaria
 1 Archmage's Charm
 2 Steam Vents
 2 Hallowed Fountain
@@ -69,6 +68,7 @@
 2 Breeding Pool
 2 Archmage's Charm
 3 March of Otherworldly Light
+3 Supreme Verdict
 3 Archmage's Charm
 4 Archmage's Charm
 1 Obsidian Charmaw
@@ -83,19 +83,35 @@
 3 Oath of Nissa
 1 Renegade Rallier
 2 Renegade Rallier
-1 Verdant Catacombs
-1 Restoration Angel
 1 Valki, God of Lies
 1 Bring to Light
 2 Bring to Light
 3 Bring to Light
+1 Verdant Catacombs
+1 Restoration Angel
 1 Island
+1 Valakut, the Molten Pinnacle
+1 Ziatora's Proving Ground
+1 Arboreal Grazer
+1 Dryad of the Ilysian Grove
+1 Scapeshift
+1 Mountain
+1 Forest
+2 Valakut, the Molten Pinnacle
+2 Ketria Triome
+2 Arboreal Grazer
+2 Raugrin Triome
+2 Dryad of the Ilysian Grove
+3 Valakut, the Molten Pinnacle
+3 Arboreal Grazer
+3 Dryad of the Ilysian Grove
+4 Dryad of the Ilysian Grove
+4 Valakut, the Molten Pinnacle
+4 Bring to Light
 1 Knight of Autumn
 1 Spellstutter Sprite
 1 Magus of the Moon
 2 Verdant Catacombs
-2 Memory Deluge
-2 Force of Negation
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
 4 Oath of Nissa
@@ -114,23 +130,5 @@
 4 Cavern of Souls
 1 Suspend
 1 Overgrown Tomb
-1 Godless Shrine
-1 Valakut, the Molten Pinnacle
-1 Ziatora's Proving Ground
 1 Plains
-1 Arboreal Grazer
-1 Dryad of the Ilysian Grove
-1 Scapeshift
-1 Mountain
-1 Forest
-2 Valakut, the Molten Pinnacle
-2 Ketria Triome
-2 Raugrin Triome
-2 Arboreal Grazer
-2 Dryad of the Ilysian Grove
-3 Valakut, the Molten Pinnacle
-3 Arboreal Grazer
-3 Dryad of the Ilysian Grove
-4 Dryad of the Ilysian Grove
-4 Valakut, the Molten Pinnacle
-4 Bring to Light
+1 Godless Shrine

@@ -1,22 +1,22 @@
 4 Farseek
-1 Sheltered Thicket
-2 Castle Garenbrig
 4 Wish
-2 Explore
+1 Sheltered Thicket
+1 Boseiju, Who Endures
 1 Blast Zone
+2 Explore
 1 Scalding Tarn
 2 Scalding Tarn
 4 Dryad of the Ilysian Grove
+1 Storm's Wrath
 3 Explore
 4 Explore
 1 Bloodstained Mire
-1 Storm's Wrath
 1 Arid Mesa
 2 Arid Mesa
 2 Dwarven Mine
-4 Scapeshift
 1 Cartographer's Survey
 2 Cartographer's Survey
+4 Scapeshift
 3 Scalding Tarn
 1 Misty Rainforest
 2 Misty Rainforest
@@ -40,9 +40,9 @@
 3 Ketria Triome
 3 Remand
 3 Growth Spiral
+4 Remand
 4 Expressive Iteration
 4 Steam Vents
-4 Remand
 4 Misty Rainforest
 4 Growth Spiral
 4 Valakut, the Molten Pinnacle
@@ -58,8 +58,8 @@
 1 Verdant Catacombs
 2 Verdant Catacombs
 3 Verdant Catacombs
-1 Fury
 1 Ziatora's Proving Ground
+1 Fury
 1 Blood Crypt
 1 Swamp
 1 Riveteers Charm
@@ -67,9 +67,6 @@
 2 Fury
 3 Dwarven Mine
 3 Arid Mesa
-1 Outland Liberator
-1 Windswept Heath
-3 Summoner's Pact
 2 Ziatora's Proving Ground
 3 Riveteers Charm
 1 Hour of Promise
@@ -80,17 +77,13 @@
 2 Snow-Covered Forest
 4 Ketria Triome
 1 Courser of Kruphix
-4 Cinder Glade
+1 Outland Liberator
+1 Windswept Heath
 7 Mountain
-2 Windswept Heath
+3 Summoner's Pact
 1 Collective Brutality
-1 Hidetsugu Consumes All
-1 Overgrown Tomb
-1 Smoldering Marsh
-1 Nissa, Vastwood Seer
-2 Hidetsugu Consumes All
-2 Outland Liberator
 1 Cavern of Souls
+2 Storm's Wrath
 1 Jetmir's Garden
 1 Chandra, Torch of Defiance
 1 Nahiri, the Harbinger
@@ -103,11 +96,11 @@
 2 Anger of the Gods
 2 Jetmir's Garden
 2 Boseiju, Who Endures
-3 Castle Garenbrig
 1 Obstinate Baloth
 1 Through the Breach
 1 Sweltering Suns
 1 Worldspine Wurm
+2 Windswept Heath
 2 Through the Breach
 3 Forest
 3 Through the Breach
@@ -117,3 +110,5 @@
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
+3 Castle Garenbrig
+4 Cinder Glade
