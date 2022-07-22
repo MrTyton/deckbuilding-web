@@ -152,8 +152,8 @@
 1 Scoured Barrens
 2 Scoured Barrens
 3 Cathar Commando
-3 Life of Toshiro Umezawa
 3 Scoured Barrens
+3 Life of Toshiro Umezawa
 4 Scoured Barrens
 1 Elite Spellbinder
 2 Elite Spellbinder
@@ -164,8 +164,8 @@
 3 Field of Ruin
 1 Valkyrie Harbinger
 1 Starnheim Unleashed
-2 Starnheim Unleashed
 2 Rampage of the Valkyries
+2 Starnheim Unleashed
 10 Plains
 1 Vengeful Reaper
 2 Vengeful Reaper
@@ -178,14 +178,14 @@
 3 Shambling Ghast
 3 Deadly Dispute
 4 Deadly Dispute
-1 Snow-Covered Swamp
 1 Snow-Covered Plains
+1 Snow-Covered Swamp
 1 Blood on the Snow
-2 Snow-Covered Swamp
 2 Snow-Covered Plains
+2 Snow-Covered Swamp
 2 Blood on the Snow
-3 Snow-Covered Swamp
 3 Snow-Covered Plains
+3 Snow-Covered Swamp
 4 Snow-Covered Plains
 4 Snow-Covered Swamp
 5 Snow-Covered Plains
@@ -202,26 +202,23 @@
 3 Hero's Downfall
 1 Professor of Symbology
 2 March of Wretched Sorrow
-2 Welcoming Vampire
 2 Professor of Symbology
+2 Welcoming Vampire
 3 Professor of Symbology
 4 Shambling Ghast
 4 Professor of Symbology
 1 Sigarda's Splendor
 1 Shepherd of the Cosmos
 1 Nadaar, Selfless Paladin
-1 Ao, the Dawn Sky
 1 Junji, the Midnight Sky
+1 Ao, the Dawn Sky
 1 Paladin Class
 2 Paladin Class
+3 Shineshadow Snarl
 3 Bloodchief's Thirst
 1 Spirited Companion
 2 Spirited Companion
 3 Spirited Companion
-3 Concealing Curtains
-3 Shineshadow Snarl
-3 Tainted Adversary
-3 Humiliate
 1 Sejiri Shelter
 2 Takenuma, Abandoned Mire
 2 Sejiri Shelter
@@ -229,12 +226,15 @@
 1 Cleric Class
 1 The Long Reach of Night
 1 Valkyrie's Sword
-2 Farewell
-2 Valkyrie Harbinger
 2 Cleric Class
+2 Valkyrie Harbinger
+2 Farewell
 2 The Long Reach of Night
 2 Valkyrie's Sword
 3 Rampage of the Valkyries
+3 Concealing Curtains
+3 Tainted Adversary
+3 Humiliate
 4 Needleverge Pathway
 1 Eyetwitch
 1 Agadeem's Awakening
@@ -261,13 +261,13 @@
 4 Thalia, Guardian of Thraben
 3 Henrika Domnathi
 8 Swamp
+1 The Book of Exalted Deeds
 1 Cosmos Elixir
 1 Eradicator Valkyrie
 1 Enduring Angel
-1 The Book of Exalted Deeds
 2 Cosmos Elixir
-2 The Book of Exalted Deeds
 2 Eradicator Valkyrie
+2 The Book of Exalted Deeds
 3 Starnheim Aspirant
 4 Starnheim Aspirant
 4 Renegade Reaper
