@@ -1,20 +1,26 @@
-2 City of Traitors
-1 Arid Mesa
 3 Lightning Bolt
-4 Great Furnace
 2 Breya's Apprentice
-1 Scalding Tarn
+2 City of Traitors
+4 Great Furnace
+1 Arid Mesa
 3 Breya's Apprentice
+1 Scalding Tarn
+4 Lightning Bolt
+1 Wooded Foothills
 1 Taiga
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
 4 Once Upon a Time
-1 Wooded Foothills
 2 Arid Mesa
-1 Imperial Recruiter
-4 Lightning Bolt
 1 Retrofitter Foundry
+1 Imperial Recruiter
+1 Cursed Mirror
+3 Fable of the Mirror-Breaker
+1 Ethersworn Canonist
+4 Lotus Petal
+4 Karn, the Great Creator
+1 Plateau
 2 Scalding Tarn
 1 Island
 1 Force of Will
@@ -26,39 +32,31 @@
 1 Volcanic Island
 1 Ponder
 1 Flooded Strand
+2 Flooded Strand
 2 Expressive Iteration
 2 Ponder
 2 Brainstorm
+2 Volcanic Island
+3 Expressive Iteration
 3 Brainstorm
 3 Ponder
 3 Scalding Tarn
+4 Expressive Iteration
 4 Ponder
 4 Brainstorm
-2 Mox Opal
-2 Imperial Recruiter
-1 Ethersworn Canonist
-1 Plateau
-4 Lotus Petal
-4 Karn, the Great Creator
-2 Island
-2 Flooded Strand
-2 Volcanic Island
-3 Expressive Iteration
-4 Expressive Iteration
 1 Fury
 1 Bloodstained Mire
 3 Ensnaring Bridge
-1 Experimental Synthesizer
-2 Experimental Synthesizer
-1 Bolas's Citadel
+9 Mountain
+2 Mox Opal
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
-1 Cursed Mirror
+2 Imperial Recruiter
+1 Bolas's Citadel
 1 Wurmcoil Engine
-3 Fable of the Mirror-Breaker
-3 Arid Mesa
+2 Island
 4 Scalding Tarn
 1 Force of Negation
 1 Relic of Progenitus
@@ -66,14 +64,10 @@
 1 Narset, Parter of Veils
 2 Murktide Regent
 1 Plains
-1 Otawara, Soaring City
 2 Wooded Foothills
-1 Sundering Titan
-1 Chromatic Star
 1 Enlightened Tutor
 1 Swords to Plowshares
 2 Swords to Plowshares
-1 Ichor Wellspring
 2 Fury
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
@@ -83,6 +77,7 @@
 10 Snow-Covered Mountain
 11 Snow-Covered Mountain
 12 Snow-Covered Mountain
+1 Ichor Wellspring
 1 Tundra
 1 Timeless Dragon
 1 Prismatic Ending
@@ -92,25 +87,65 @@
 3 Flooded Strand
 3 Swords to Plowshares
 4 Swords to Plowshares
+1 The Underworld Cookbook
+10 Mountain
+11 Mountain
+12 Mountain
 1 Blood Moon
 2 Plateau
 2 Enlightened Tutor
 1 Goblin Cratermaker
+1 Experimental Synthesizer
+2 Experimental Synthesizer
 3 Experimental Synthesizer
-9 Mountain
-2 Chromatic Star
-1 Magus of the Moon
-4 Arid Mesa
-1 Aether Spellbomb
+3 Arid Mesa
+1 Shadowspear
+1 Yavimaya, Cradle of Growth
+1 Elvish Reclaimer
+1 Expedition Map
+1 Sylvan Library
+1 Crop Rotation
+1 Sejiri Steppe
+1 Mox Diamond
+1 Thespian's Stage
+1 Dark Depths
+1 Bojuka Bog
+1 Forest
+1 Ancient Stirrings
+2 Forest
+2 Crop Rotation
+2 Mox Diamond
+2 Dark Depths
+2 Thespian's Stage
+2 Yavimaya, Cradle of Growth
+2 Pithing Needle
+2 Elvish Reclaimer
+2 Ancient Stirrings
+3 Forest
+3 Crop Rotation
+3 Thespian's Stage
+3 Yavimaya, Cradle of Growth
+3 Pithing Needle
+3 Dark Depths
+3 Elvish Reclaimer
+3 Ancient Stirrings
+4 Forest
+4 Crop Rotation
+4 Yavimaya, Cradle of Growth
+4 Thespian's Stage
+4 Dark Depths
+4 Elvish Reclaimer
+4 Ancient Stirrings
+5 Forest
+6 Forest
+1 Portable Hole
+1 Karakas
 1 Misty Rainforest
 2 Misty Rainforest
 3 Volcanic Island
 3 Island
-1 Portable Hole
-1 Shadowspear
 1 Snow-Covered Plains
 1 Esper Sentinel
-1 Karakas
 1 Ingenious Smith
 1 Mother of Runes
 1 Oswald Fiddlebender
@@ -132,18 +167,26 @@
 3 Oswald Fiddlebender
 4 Ancient Den
 1 Wasteland
-1 Seat of the Synod
-2 Seat of the Synod
-2 Lion's Eye Diamond
+1 Sundering Titan
+1 Chromatic Star
 2 Taiga
+2 Lion's Eye Diamond
+1 Otawara, Soaring City
 3 Mox Opal
 1 Phyrexian Revoker
 2 Wasteland
 3 Wasteland
 4 Wasteland
-1 Pyrite Spellbomb
-1 Spellskite
+1 Triplicate Titan
+1 Ruin Grinder
+2 Chromatic Star
 2 Simian Spirit Guide
+1 Veil of Summer
+2 Sylvan Library
+3 Sylvan Library
+1 Endurance
+2 Endurance
+3 Endurance
 1 Unholy Heat
 1 Brazen Borrower
 2 Unholy Heat
@@ -160,7 +203,12 @@
 3 Mother of Runes
 1 Smuggler's Copter
 3 Imperial Recruiter
+1 Pyrite Spellbomb
+1 Magus of the Moon
+1 Spellskite
+4 Arid Mesa
 1 Ledger Shredder
+1 Aether Spellbomb
 1 Spine of Ish Sah
 2 Ledger Shredder
 3 Ledger Shredder
@@ -171,15 +219,6 @@
 2 Portable Hole
 4 Ingenious Smith
 4 Esper Sentinel
-1 Magmatic Channeler
-2 Magmatic Channeler
-3 City of Traitors
-3 Red Elemental Blast
-3 Chromatic Star
-4 Red Elemental Blast
-4 Chromatic Star
-1 Yavimaya, Cradle of Growth
-1 Elvish Reclaimer
 1 Tireless Tracker
 1 Gilded Goose
 1 Sylvan Safekeeper
@@ -210,21 +249,23 @@
 4 Flooded Strand
 1 Mishra's Bauble
 1 Metallic Rebuke
+1 Seat of the Synod
 1 Minamo, School at Water's Edge
 1 Kappa Cannoneer
 1 Thoughtcast
 1 Emry, Lurker of the Loch
 2 Mishra's Bauble
 2 Metallic Rebuke
+2 Seat of the Synod
 2 Emry, Lurker of the Loch
 2 Kappa Cannoneer
 2 Thoughtcast
 3 Mishra's Bauble
 3 Lion's Eye Diamond
-3 Thoughtcast
 3 Seat of the Synod
 3 Emry, Lurker of the Loch
 3 Metallic Rebuke
+3 Thoughtcast
 3 Kappa Cannoneer
 4 Mox Opal
 4 Mishra's Bauble
@@ -233,45 +274,6 @@
 4 Grindstone
 4 Emry, Lurker of the Loch
 4 Seat of the Synod
-1 Expedition Map
-1 Sylvan Library
-1 Crop Rotation
-1 Sejiri Steppe
-1 Mox Diamond
-1 Thespian's Stage
-1 Dark Depths
-1 Bojuka Bog
-1 Veil of Summer
-1 Forest
-1 Ancient Stirrings
-2 Forest
-2 Crop Rotation
-2 Mox Diamond
-2 Dark Depths
-2 Thespian's Stage
-2 Yavimaya, Cradle of Growth
-2 Pithing Needle
-2 Elvish Reclaimer
-2 Ancient Stirrings
-2 Sylvan Library
-3 Forest
-3 Sylvan Library
-3 Crop Rotation
-3 Thespian's Stage
-3 Yavimaya, Cradle of Growth
-3 Pithing Needle
-3 Dark Depths
-3 Elvish Reclaimer
-3 Ancient Stirrings
-4 Forest
-4 Crop Rotation
-4 Yavimaya, Cradle of Growth
-4 Ancient Stirrings
-4 Thespian's Stage
-4 Dark Depths
-4 Elvish Reclaimer
-5 Forest
-6 Forest
 1 Thoughtseize
 1 Swamp
 1 Duress
@@ -301,18 +303,13 @@
 3 Swamp
 3 Dark Confidant
 4 Thoughtseize
+4 Dauthi Voidwalker
 4 Swamp
 4 Sudden Edict
 4 Dark Confidant
-4 Dauthi Voidwalker
 4 Dark Ritual
 5 Swamp
-6 Swamp
 7 Swamp
 8 Swamp
 9 Swamp
-1 The Underworld Cookbook
-1 Ruin Grinder
-10 Mountain
-11 Mountain
-12 Mountain
+6 Swamp

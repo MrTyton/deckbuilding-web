@@ -4,19 +4,24 @@
 2 Flooded Strand
 2 Tropical Island
 1 Underground Sea
-1 Shifting Ceratops
 1 Sylvan Library
+1 Shifting Ceratops
 1 Snow-Covered Mountain
 1 Verdant Catacombs
 1 Flusterstorm
+1 Forest
+1 Abrupt Decay
+1 Baleful Strix
+1 Polluted Delta
+2 Abrupt Decay
+2 Baleful Strix
+2 Polluted Delta
+3 Polluted Delta
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
 1 Outland Liberator
 1 Eternal Witness
-1 Pyroblast
-2 Narset, Parter of Veils
-1 Forest
 1 Intuition
 1 Yavimaya, Cradle of Growth
 2 Intuition
@@ -26,14 +31,30 @@
 1 Timeless Dragon
 2 Life from the Loam
 1 Otawara, Soaring City
+1 Snapcaster Mage
 1 Snow-Covered Swamp
-1 Abrupt Decay
-1 Baleful Strix
-1 Polluted Delta
-2 Abrupt Decay
-2 Baleful Strix
-2 Polluted Delta
-3 Polluted Delta
+2 Verdant Catacombs
+3 Verdant Catacombs
+3 Baleful Strix
+1 Sedgemoor Witch
+1 Sudden Edict
+1 Chain of Smog
+1 Witherbloom Apprentice
+1 Thoughtseize
+1 Fatal Push
+2 Chain of Smog
+2 Witherbloom Apprentice
+2 Fatal Push
+2 Thoughtseize
+2 Sudden Edict
+2 Flusterstorm
+2 Underground Sea
+3 Underground Sea
+3 Chain of Smog
+3 Thoughtseize
+3 Witherbloom Apprentice
+4 Thoughtseize
+4 Baleful Strix
 1 Aluren
 1 Cavern Harpy
 1 Acererak the Archlich
@@ -43,14 +64,11 @@
 3 Abrupt Decay
 3 Cavern Harpy
 4 Aluren
-1 Snapcaster Mage
-2 Verdant Catacombs
-3 Verdant Catacombs
-3 Baleful Strix
-1 Noble Hierarch
 1 Ketria Triome
 1 Wooded Foothills
 1 Green Slime
+1 Noble Hierarch
+1 Pyroblast
 1 Solitude
 1 Lonely Sandbar
 1 Supreme Verdict
@@ -59,32 +77,17 @@
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
 3 Life from the Loam
+2 Narset, Parter of Veils
 3 Force of Negation
 4 Force of Negation
 4 Flooded Strand
+1 Unearth
+2 Bayou
 1 Living Wish
 2 Living Wish
 3 Snow-Covered Forest
 3 Snow-Covered Island
 4 Uro, Titan of Nature's Wrath
-1 Sedgemoor Witch
-1 Sudden Edict
-1 Chain of Smog
-1 Witherbloom Apprentice
-1 Unearth
-1 Thoughtseize
-1 Fatal Push
-2 Bayou
-2 Chain of Smog
-2 Witherbloom Apprentice
-2 Fatal Push
-2 Thoughtseize
-2 Sudden Edict
-2 Flusterstorm
-3 Underground Sea
-3 Chain of Smog
-3 Thoughtseize
-3 Witherbloom Apprentice
-4 Thoughtseize
-4 Baleful Strix
-2 Underground Sea
+1 Swamp
+4 Chain of Smog
+4 Polluted Delta
