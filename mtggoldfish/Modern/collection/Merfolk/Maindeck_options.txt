@@ -1,5 +1,5 @@
-10 Island
 4 Force of Negation
+10 Island
 1 Harbinger of the Tides
 1 Oboro, Palace in the Clouds
 2 Harbinger of the Tides
@@ -10,23 +10,23 @@
 11 Island
 4 Spreading Seas
 12 Island
+3 Cavern of Souls
 1 Benthic Biomancer
 2 Benthic Biomancer
 1 Cursecatcher
 2 Cursecatcher
 13 Island
 14 Island
-3 Cavern of Souls
+1 Dismember
+2 Dismember
 1 Master of Waves
 2 Master of Waves
 15 Island
 16 Island
 3 Cursecatcher
 4 Cursecatcher
-1 Dismember
-2 Dismember
-4 Harbinger of the Tides
 4 Cavern of Souls
+4 Harbinger of the Tides
 1 Brazen Borrower
 2 Brazen Borrower
 3 Benthic Biomancer
@@ -41,18 +41,18 @@
 3 Flooded Strand
 2 Kira, Great Glass-Spinner
 1 Phantasmal Image
-1 Prismatic Ending
-1 Ephemerate
 1 Hallowed Fountain
+1 Prismatic Ending
 1 Seachrome Coast
+1 Ephemerate
 2 Prismatic Ending
 2 Hallowed Fountain
 2 Seachrome Coast
 3 Prismatic Ending
 3 Seachrome Coast
 4 Prismatic Ending
-4 Flooded Strand
 4 Seachrome Coast
+4 Flooded Strand
 1 Relic of Progenitus
 1 Castle Vantress
 1 Archmage's Charm
@@ -79,16 +79,6 @@
 2 Divide by Zero
 3 Divide by Zero
 4 Divide by Zero
-1 Raugrin Triome
-1 Solitude
-2 Solitude
-3 Solitude
-4 Solitude
-1 Cryptic Command
-1 Hall of Storm Giants
-2 Hall of Storm Giants
-2 Cryptic Command
-4 Archmage's Charm
 2 Phantasmal Image
 3 Waterlogged Grove
 3 Brazen Borrower
@@ -102,6 +92,16 @@
 2 Seal of Removal
 3 Seal of Removal
 4 Seal of Removal
+1 Cryptic Command
+1 Hall of Storm Giants
+2 Cryptic Command
+2 Hall of Storm Giants
+4 Archmage's Charm
+1 Raugrin Triome
+1 Solitude
+2 Solitude
+3 Solitude
+4 Solitude
 1 Suspend
 2 Suspend
 3 Suspend
@@ -111,32 +111,32 @@
 1 Pongify
 2 Pongify
 3 Pongify
-1 Blast Zone
 1 Counterspell
 1 Faerie Conclave
+1 Blast Zone
 1 Lonely Sandbar
 2 Blast Zone
 2 Counterspell
 2 Faerie Conclave
+3 Counterspell
 3 Blast Zone
 3 Dismember
-3 Counterspell
 3 Faerie Conclave
 4 Counterspell
 4 Dismember
 4 Blast Zone
-1 Breeding Pool
-1 Forest
-1 Collected Company
 1 Utopia Sprawl
-2 Collected Company
+1 Collected Company
+1 Forest
+1 Breeding Pool
 2 Breeding Pool
 2 Utopia Sprawl
+2 Collected Company
+3 Utopia Sprawl
 3 Collected Company
 3 Breeding Pool
-3 Utopia Sprawl
-4 Collected Company
 4 Utopia Sprawl
+4 Collected Company
 4 Breeding Pool
 4 Merrow Reejerey
 1 Eiganjo, Seat of the Empire

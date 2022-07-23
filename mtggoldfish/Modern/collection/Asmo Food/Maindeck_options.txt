@@ -3,10 +3,11 @@
 3 Street Wraith
 4 Street Wraith
 1 Urborg, Tomb of Yawgmoth
+1 Boseiju, Who Endures
 1 Yavimaya, Cradle of Growth
 1 Forest
-1 Verdant Catacombs
 1 Gilded Goose
+1 Verdant Catacombs
 1 Blooming Marsh
 1 Witch's Oven
 1 Overgrown Tomb
@@ -18,28 +19,27 @@
 2 Blooming Marsh
 2 Gilded Goose
 2 Overgrown Tomb
-2 Finale of Devastation
 2 Witch's Oven
-2 Feasting Troll King
 2 Cauldron Familiar
+2 Feasting Troll King
+2 Finale of Devastation
 2 Trail of Crumbs
+3 Overgrown Tomb
 3 Verdant Catacombs
 3 Gilded Goose
+3 Finale of Devastation
 3 Blooming Marsh
 3 Cauldron Familiar
+3 Trail of Crumbs
 3 Witch's Oven
-3 Finale of Devastation
 4 Verdant Catacombs
 4 Blooming Marsh
 4 Gilded Goose
 4 Witch's Oven
-4 Finale of Devastation
-4 Cauldron Familiar
-1 Boseiju, Who Endures
-3 Overgrown Tomb
-3 Trail of Crumbs
-4 Overgrown Tomb
 4 Trail of Crumbs
+4 Cauldron Familiar
+4 Overgrown Tomb
+4 Finale of Devastation
 1 Pithing Needle
 1 Darkslick Shores
 2 Darkslick Shores
@@ -60,12 +60,13 @@
 1 Aether Vial
 1 River of Tears
 1 Thoughtcast
+1 Nurturing Peatland
 2 Flooded Strand
 1 Thought Monitor
 1 Spirebluff Canal
-1 Mox Amber
 1 Galvanic Blast
 1 Blazing Rootwalla
+1 Mox Amber
 2 Island
 2 Steam Vents
 2 Thought Monitor
@@ -78,19 +79,15 @@
 3 Galvanic Blast
 3 Blazing Rootwalla
 4 Steam Vents
-1 Darkbore Pathway
-2 Darkbore Pathway
-3 Darkbore Pathway
-4 Darkbore Pathway
 1 Ingenious Smith
 1 Plains
-1 Imperial Recruiter
 1 Spellskite
+1 Imperial Recruiter
+1 Esper Sentinel
 1 Dispatch
 1 Sacred Foundry
 1 Thalia's Lieutenant
 1 Arid Mesa
-1 Esper Sentinel
 1 Concealed Courtyard
 1 Portable Hole
 1 Ethersworn Canonist
@@ -101,8 +98,8 @@
 2 Arid Mesa
 2 Aether Vial
 2 Concealed Courtyard
-2 Dispatch
 2 Esper Sentinel
+2 Dispatch
 2 Ethersworn Canonist
 2 Imperial Recruiter
 2 Portable Hole
@@ -111,16 +108,16 @@
 3 Concealed Courtyard
 3 Ingenious Smith
 3 Aether Vial
+3 Esper Sentinel
 3 Sacred Foundry
 3 Ethersworn Canonist
-3 Esper Sentinel
 3 Portable Hole
-4 Ingenious Smith
 4 Concealed Courtyard
 4 Arid Mesa
 4 Imperial Recruiter
 4 Aether Vial
 4 Esper Sentinel
+4 Ingenious Smith
 1 Blackcleave Cliffs
 1 Blood Crypt
 1 Voldaren Epicure
@@ -130,9 +127,9 @@
 2 Blood Crypt
 2 Voldaren Epicure
 2 Blackcleave Cliffs
-3 Goblin Engineer
 3 Bloodstained Mire
 3 Voldaren Epicure
+3 Goblin Engineer
 4 Goblin Engineer
 4 Bloodstained Mire
 4 Voldaren Epicure

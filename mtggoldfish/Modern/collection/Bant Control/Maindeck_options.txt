@@ -27,8 +27,8 @@
 2 Noble Hierarch
 3 Noble Hierarch
 1 Stoneforge Mystic
-1 Batterskull
 1 Kaldra Compleat
+1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
@@ -79,9 +79,9 @@
 2 Spreading Seas
 3 Polluted Delta
 3 Spreading Seas
+4 Polluted Delta
 4 Snow-Covered Island
 4 Spreading Seas
-4 Polluted Delta
 1 Abundant Growth
 2 Abundant Growth
 3 Prismatic Vista
@@ -166,23 +166,6 @@
 3 Birds of Paradise
 4 Esper Sentinel
 4 Birds of Paradise
-1 Seachrome Coast
-1 Svyelun of Sea and Sky
-1 Merfolk Trickster
-2 Seachrome Coast
-2 Svyelun of Sea and Sky
-2 Merfolk Trickster
-3 Seachrome Coast
-3 Brazen Borrower
-3 Subtlety
-3 Svyelun of Sea and Sky
-3 Merfolk Trickster
-4 Seachrome Coast
-4 Island
-4 Brazen Borrower
-4 Merfolk Trickster
-4 Svyelun of Sea and Sky
-5 Island
 1 Ulamog, the Ceaseless Hunger
 1 Forest
 1 Failure/Comply
@@ -212,3 +195,20 @@
 4 Shardless Agent
 4 Ghost Quarter
 4 Sacred Ground
+1 Seachrome Coast
+1 Svyelun of Sea and Sky
+1 Merfolk Trickster
+2 Seachrome Coast
+2 Svyelun of Sea and Sky
+2 Merfolk Trickster
+3 Seachrome Coast
+3 Brazen Borrower
+3 Subtlety
+3 Svyelun of Sea and Sky
+3 Merfolk Trickster
+4 Seachrome Coast
+4 Island
+4 Brazen Borrower
+4 Merfolk Trickster
+4 Svyelun of Sea and Sky
+5 Island

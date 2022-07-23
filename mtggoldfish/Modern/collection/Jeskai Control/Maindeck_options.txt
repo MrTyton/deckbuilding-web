@@ -1,19 +1,11 @@
-1 Polluted Delta
-1 Lightning Bolt
-2 Lightning Bolt
-3 Lightning Bolt
+1 The Wandering Emperor
+1 Jace, the Mind Sculptor
+1 Shark Typhoon
 4 Lightning Bolt
-2 Expressive Iteration
-2 Celestial Colonnade
-2 Mystic Gate
-3 Mystic Gate
-3 Snapcaster Mage
+1 Polluted Delta
+1 Misty Rainforest
 3 Expressive Iteration
-1 March of Otherworldly Light
-1 Seachrome Coast
-1 Cryptic Command
-2 Cryptic Command
-1 Arid Mesa
+2 Celestial Colonnade
 1 Spirebluff Canal
 1 Batterskull
 1 Kaldra Compleat
@@ -21,30 +13,37 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-2 Misty Rainforest
+3 Snapcaster Mage
+1 Seachrome Coast
+1 March of Otherworldly Light
 2 Spirebluff Canal
-1 Dress Down
-2 Hall of Storm Giants
-2 Shark Typhoon
-4 Solitude
-2 Seachrome Coast
-2 March of Otherworldly Light
-2 Plains
+1 Arid Mesa
+1 Cryptic Command
+2 Cryptic Command
+2 Mystic Gate
+3 Mystic Gate
+2 Misty Rainforest
 1 Brazen Borrower
 4 Scalding Tarn
-4 Teferi, Time Raveler
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
+4 Teferi, Time Raveler
+2 Hall of Storm Giants
+2 Seachrome Coast
+2 Plains
+2 Shark Typhoon
 1 Spell Pierce
 2 Spell Pierce
+2 March of Otherworldly Light
 1 Path to Exile
+1 Dress Down
 3 March of Otherworldly Light
+4 Solitude
 1 Fury
 2 Raugrin Triome
 3 Cryptic Command
-3 Teferi, Hero of Dominaria
 1 Flagstones of Trokair
 1 Lotus Field
 2 Flagstones of Trokair
@@ -56,16 +55,16 @@
 4 Cryptic Command
 4 Flagstones of Trokair
 1 Spara's Headquarters
-2 Dress Down
 1 Mountain
 2 Polluted Delta
-2 The Wandering Emperor
 2 Glacial Fortress
 2 Path to Exile
+4 Expressive Iteration
 3 Chalice of the Void
 2 Fury
 1 Blood Sun
 2 Blood Sun
+3 Teferi, Hero of Dominaria
 3 Blood Sun
 4 Blood Sun
 2 Arid Mesa
@@ -80,19 +79,21 @@
 4 Teferi, Hero of Dominaria
 1 Timeless Dragon
 3 Shark Typhoon
-1 Spell Snare
-2 Spell Snare
+3 Supreme Verdict
 1 Keranos, God of Storms
 3 Celestial Colonnade
-3 Supreme Verdict
+2 Dress Down
+2 The Wandering Emperor
+1 Castle Ardenvale
 2 Sacred Foundry
 3 Arid Mesa
 1 Serum Visions
 2 Serum Visions
 4 Snapcaster Mage
-1 Castle Ardenvale
+1 Spell Snare
 1 Ajani Vengeant
 1 Vendilion Clique
+2 Spell Snare
 2 Jace, the Mind Sculptor
 2 Vendilion Clique
 3 Sacred Foundry
@@ -102,7 +103,6 @@
 3 Steam Vents
 4 Celestial Colonnade
 4 March of Otherworldly Light
-4 Expressive Iteration
 1 Force of Negation
 1 Lightning Helix
 2 Lightning Helix
@@ -135,14 +135,15 @@
 1 Breeding Pool
 4 Island
 3 Spell Pierce
+1 Unholy Heat
 1 Narset, Parter of Veils
 1 Day's Undoing
 1 Prairie Stream
 1 Fiery Islet
 1 Esper Sentinel
 2 Esper Sentinel
-3 Esper Sentinel
 3 Plains
+3 Esper Sentinel
 4 Esper Sentinel
 1 Narset Transcendent
 1 Deserted Beach
@@ -151,9 +152,9 @@
 2 Narset Transcendent
 2 Nahiri, the Harbinger
 2 Deserted Beach
+3 Hallowed Fountain
 3 Deserted Beach
 3 Lightning Helix
-3 Hallowed Fountain
 4 Supreme Verdict
 5 Island
 6 Island
@@ -167,27 +168,11 @@
 2 Windswept Heath
 2 Prairie Stream
 3 Windswept Heath
-3 Misty Rainforest
 3 Spreading Seas
 4 Spreading Seas
 4 Chalice of the Void
-1 Cascade Bluffs
-1 Reflecting Pool
-1 Restoration Angel
-1 Kiki-Jiki, Mirror Breaker
-1 Cleansing Wildfire
-2 Restoration Angel
-2 Kiki-Jiki, Mirror Breaker
-2 Cascade Bluffs
-2 Cleansing Wildfire
-3 Cleansing Wildfire
-3 Raugrin Triome
-3 Restoration Angel
-3 Kiki-Jiki, Mirror Breaker
-4 Restoration Angel
 1 Dovin's Veto
 4 Fire/Ice
-1 Unholy Heat
 1 Blood Moon
 1 Geier Reach Sanitarium
 1 Consider
@@ -221,8 +206,8 @@
 4 Spell Pierce
 4 Ranger-Captain of Eos
 4 Fervent Champion
-1 Murktide Regent
 1 Eiganjo, Seat of the Empire
+1 Murktide Regent
 1 Gideon of the Trials
 1 Pact of Negation
 1 Angel's Grace
@@ -247,3 +232,17 @@
 4 Gideon of the Trials
 4 Pact of the Titan
 4 Angel's Grace
+1 Cascade Bluffs
+1 Reflecting Pool
+1 Restoration Angel
+1 Kiki-Jiki, Mirror Breaker
+1 Cleansing Wildfire
+2 Restoration Angel
+2 Kiki-Jiki, Mirror Breaker
+2 Cascade Bluffs
+2 Cleansing Wildfire
+3 Cleansing Wildfire
+3 Raugrin Triome
+3 Restoration Angel
+3 Kiki-Jiki, Mirror Breaker
+4 Restoration Angel
