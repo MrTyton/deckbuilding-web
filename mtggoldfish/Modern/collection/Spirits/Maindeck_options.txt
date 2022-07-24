@@ -57,8 +57,8 @@
 2 Otawara, Soaring City
 2 Snow-Covered Plains
 2 Solitude
-2 Spreading Seas
 2 Eiganjo, Seat of the Empire
+2 Spreading Seas
 2 Subtlety
 3 Solitude
 3 Subtlety
@@ -89,13 +89,6 @@
 2 Marsh Flats
 3 Glasspool Mimic
 4 Glasspool Mimic
-1 Teferi, Time Raveler
-1 Mutavault
-2 Teferi, Time Raveler
-2 Mutavault
-3 Path to Exile
-3 Mutavault
-4 Mutavault
 1 Hengegate Pathway
 1 Patrician Geist
 1 Barkchannel Pathway
@@ -103,8 +96,8 @@
 3 Misty Rainforest
 5 Island
 1 Spell Snare
-1 Ascendant Spirit
 1 Spectral Adversary
+1 Ascendant Spirit
 1 Faceless Haven
 1 Spell Pierce
 1 Brazen Borrower
@@ -116,14 +109,14 @@
 2 Ascendant Spirit
 2 Brazen Borrower
 2 Geistlight Snare
-3 Geistlight Snare
 3 Snow-Covered Island
 3 Faceless Haven
+3 Geistlight Snare
 3 Ascendant Spirit
 3 Curious Obsession
-4 Geistlight Snare
 4 Snow-Covered Island
 4 Curious Obsession
+4 Geistlight Snare
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island
@@ -131,3 +124,10 @@
 9 Snow-Covered Island
 10 Snow-Covered Island
 11 Snow-Covered Island
+1 Teferi, Time Raveler
+1 Mutavault
+2 Teferi, Time Raveler
+2 Mutavault
+3 Path to Exile
+3 Mutavault
+4 Mutavault

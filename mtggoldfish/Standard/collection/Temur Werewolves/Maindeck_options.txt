@@ -28,8 +28,8 @@
 4 Kessig Naturalist
 1 Field of Ruin
 1 Island
-2 Mountain
 2 Field of Ruin
+2 Mountain
 3 Outland Liberator
 1 Decisive Denial
 2 Decisive Denial
@@ -41,22 +41,22 @@
 2 Moonveil Regent
 3 Moonveil Regent
 1 Cathartic Pyre
-1 Alrund's Epiphany
 1 Primal Adversary
 1 Suspicious Stowaway
 1 Tovolar's Huntmaster
+1 Alrund's Epiphany
 2 Cathartic Pyre
 2 Alrund's Epiphany
 2 Suspicious Stowaway
 2 Island
 2 Primal Adversary
-3 Negate
-3 Suspicious Stowaway
-3 Cathartic Pyre
 3 Island
+3 Cathartic Pyre
+3 Suspicious Stowaway
+3 Negate
 3 Primal Adversary
-4 Decisive Denial
 4 Island
+4 Decisive Denial
 4 Cathartic Pyre
 5 Forest
 6 Forest
@@ -74,13 +74,13 @@
 3 Esika's Chariot
 4 Dragon's Fire
 2 Den of the Bugbear
-1 Iymrith, Desert Doom
-1 Arni Slays the Troll
-2 Iymrith, Desert Doom
 2 Cemetery Prowler
 1 Sokenzan, Crucible of Defiance
 1 Inscription of Abundance
 2 Inscription of Abundance
+1 Arni Slays the Troll
+1 Iymrith, Desert Doom
+2 Iymrith, Desert Doom
 1 Ulvenwald Oddity
 1 Toski, Bearer of Secrets
 1 Urabrask, Heretic Praetor
@@ -93,8 +93,8 @@
 1 Wrenn and Seven
 2 Wrenn and Seven
 4 Suspicious Stowaway
-3 Fading Hope
 3 Goldspan Dragon
+3 Fading Hope
 4 Goldspan Dragon
 1 Kazuul's Fury
 4 Ranger Class

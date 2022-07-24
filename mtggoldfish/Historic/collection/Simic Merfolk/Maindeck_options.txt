@@ -38,9 +38,9 @@
 5 Forest
 1 Kira, Great Glass-Spinner
 1 Malevolent Hermit
+2 Boseiju, Who Endures
 1 Archmage's Charm
 2 Archmage's Charm
-2 Boseiju, Who Endures
 1 Fading Hope
 2 Fading Hope
 1 Soul-Guide Lantern
@@ -59,25 +59,12 @@
 3 Deeproot Elite
 3 Rhonas the Indomitable
 4 Deeproot Elite
-1 Kopala, Warden of Waves
-1 Reflections of Littjara
-1 Deeproot Waters
-1 Shaper Apprentice
-2 Shaper Apprentice
-2 Kopala, Warden of Waves
-2 Deeproot Waters
-3 Dreamroot Cascade
-3 Deeproot Waters
-3 Shaper Apprentice
-3 Kopala, Warden of Waves
-4 Dreamroot Cascade
-4 Shaper Apprentice
 1 Shatterskull Smashing
 1 Goblin Anarchomancer
-1 Metallic Mimic
 1 Rootbound Crag
 1 Cragcrown Pathway
 1 Stomping Ground
+1 Harmonic Prodigy
 1 Llanowar Elves
 1 Reclamation Sage
 1 Goblin Ruinblaster
@@ -86,17 +73,17 @@
 1 Ramunap Ruins
 1 Faceless Agent
 1 Elvish Visionary
-1 Harmonic Prodigy
+1 Metallic Mimic
 1 Burning-Tree Emissary
 1 Rage Forger
 2 Stomping Ground
 2 Cragcrown Pathway
-2 Rootbound Crag
 2 Shatterskull Smashing
+2 Rootbound Crag
+2 Harmonic Prodigy
 2 Llanowar Elves
 2 Reclamation Sage
 2 Goblin Ruinblaster
-2 Harmonic Prodigy
 2 Goblin Anarchomancer
 2 Burning-Tree Emissary
 2 Elvish Visionary
@@ -106,23 +93,36 @@
 2 Rage Forger
 3 Cragcrown Pathway
 3 Rootbound Crag
+3 Harmonic Prodigy
 3 Stomping Ground
 3 Llanowar Elves
 3 Faceless Agent
 3 Rage Forger
 3 Burning-Tree Emissary
-3 Harmonic Prodigy
 3 Goblin Anarchomancer
 3 Elvish Visionary
 4 Rootbound Crag
 4 Cragcrown Pathway
-4 Stomping Ground
-4 Llanowar Elves
-4 Burning-Tree Emissary
 4 Harmonic Prodigy
+4 Llanowar Elves
+4 Stomping Ground
+4 Burning-Tree Emissary
 4 Rage Forger
 4 Elvish Visionary
 4 Goblin Anarchomancer
+1 Kopala, Warden of Waves
+1 Reflections of Littjara
+1 Deeproot Waters
+1 Shaper Apprentice
+2 Shaper Apprentice
+2 Kopala, Warden of Waves
+2 Deeproot Waters
+3 Deeproot Waters
+3 Dreamroot Cascade
+3 Shaper Apprentice
+3 Kopala, Warden of Waves
+4 Shaper Apprentice
+4 Dreamroot Cascade
 1 Jungleborn Pioneer
 1 Merfolk Windrobber
 2 Jungleborn Pioneer

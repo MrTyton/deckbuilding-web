@@ -50,16 +50,15 @@
 2 Spell Pierce
 1 Abrade
 1 Consider
-1 Snow-Covered Mountain
-1 Roil Eruption
-1 Reject
 1 Snow-Covered Island
+1 Reject
+1 Roil Eruption
 1 Depart the Realm
+1 Snow-Covered Mountain
 1 Frost Bite
 1 Goldhound
 1 Disruption Protocol
 2 Snow-Covered Island
-2 Roil Eruption
 2 Reject
 2 Battle of Frost and Fire
 2 Snow-Covered Mountain
@@ -67,22 +66,23 @@
 2 Depart the Realm
 2 Frost Bite
 2 Disruption Protocol
+2 Roil Eruption
 3 Snow-Covered Island
 3 Roil Eruption
 3 Snow-Covered Mountain
 3 Depart the Realm
 4 Snow-Covered Island
 4 Snow-Covered Mountain
-5 Snow-Covered Island
 5 Snow-Covered Mountain
+5 Snow-Covered Island
 6 Snow-Covered Island
 6 Snow-Covered Mountain
 7 Snow-Covered Island
 7 Snow-Covered Mountain
 8 Snow-Covered Island
 8 Snow-Covered Mountain
-9 Snow-Covered Island
 9 Snow-Covered Mountain
+9 Snow-Covered Island
 10 Snow-Covered Island
 10 Snow-Covered Mountain
 11 Snow-Covered Island
@@ -114,10 +114,8 @@
 9 Mountain
 10 Mountain
 1 Cosmos Elixir
-1 Symmetry Sage
-1 Poppet Stitcher
-1 Jace, Mirror Mage
-1 Play with Fire
+1 Kami's Flare
+1 Professional Face-Breaker
 1 Rowan, Scholar of Sparks
 1 Karfell Harbinger
 1 Swiftwater Cliffs
@@ -125,6 +123,9 @@
 1 Eater of Virtue
 1 Delina, Wild Mage
 1 Shimmerdrift Vale
+1 Play with Fire
+1 Poppet Stitcher
+1 Jace, Mirror Mage
 1 Seize the Spoils
 1 Umara Mystic
 1 Silver Bolt
@@ -135,11 +136,11 @@
 1 Spiked Pit Trap
 1 Storm-Kiln Artist
 1 Earth-Cult Elemental
-1 Professional Face-Breaker
 1 Red Dragon
 1 Hoarding Ogre
 1 Power of Persuasion
 1 Rending Flame
+1 Symmetry Sage
 1 Thousand-Faced Shadow
 1 Valakut Awakening
 1 Valakut Exploration
@@ -160,7 +161,6 @@
 1 Field Research
 1 Eruth, Tormented Prophet
 1 Wizard's Spellbook
-1 Kami's Flare
 1 Swarming Goblins
 1 Volatile Fjord
 1 Replicating Ring
@@ -170,12 +170,12 @@
 1 Seize the Storm
 1 Arcane Investigator
 1 Chaos Channeler
+2 Kami's Flare
 2 Karfell Harbinger
 2 Volatile Fjord
 2 Feywild Trickster
 2 Contact Other Plane
 2 Chaos Channeler
-2 Kami's Flare
 2 Barbarian Class
 2 Farideh's Fireball
 2 Rending Flame
@@ -201,21 +201,21 @@
 8 Island
 9 Island
 10 Island
-11 Mountain
 11 Island
-12 Mountain
+11 Mountain
 12 Island
-13 Mountain
+12 Mountain
 13 Island
-14 Mountain
+13 Mountain
 14 Island
+14 Mountain
 15 Mountain
 16 Mountain
 1 Galvanic Iteration
 1 Delver of Secrets
 1 Arcane Bombardment
-2 Otawara, Soaring City
 2 Arcane Bombardment
+2 Otawara, Soaring City
 3 Arcane Bombardment
 1 Test of Talents
 2 Lier, Disciple of the Drowned
@@ -227,8 +227,8 @@
 4 Strangle
 3 Reckoner Bankbuster
 3 Memory Deluge
-4 Field of Ruin
 4 Flame-Blessed Bolt
+4 Field of Ruin
 3 Shatterskull Smashing
 3 Magma Opus
 1 Magda, Brazen Outlaw
@@ -247,24 +247,18 @@
 2 All-Seeing Arbiter
 3 All-Seeing Arbiter
 4 Make Disappear
-1 Creative Outburst
-2 Delver of Secrets
-2 Creative Outburst
-3 Delver of Secrets
-3 Frostboil Snarl
-4 Delver of Secrets
-1 Behold the Multiverse
-2 Unexpected Windfall
-2 Smoldering Egg
-3 Smoldering Egg
-3 Unexpected Windfall
-4 Smoldering Egg
-4 Unexpected Windfall
 2 Bloodthirsty Adversary
 2 Wandering Mind
 3 Wandering Mind
 3 Bloodthirsty Adversary
 4 Bloodthirsty Adversary
+1 Behold the Multiverse
+2 Smoldering Egg
+2 Unexpected Windfall
+3 Smoldering Egg
+3 Unexpected Windfall
+4 Smoldering Egg
+4 Unexpected Windfall
 1 Mirrorshell Crab
 1 Temple of the Dragon Queen
 2 Iymrith, Desert Doom
@@ -274,50 +268,56 @@
 3 Temple of the Dragon Queen
 4 Mirrorshell Crab
 4 Temple of the Dragon Queen
-2 Galvanic Iteration
-3 Galvanic Iteration
-4 Fading Hope
-4 Galvanic Iteration
 1 Inferno of the Star Mounts
 1 Alchemist's Gambit
 1 Manaform Hellkite
-2 Inferno of the Star Mounts
 2 Alchemist's Gambit
+2 Inferno of the Star Mounts
 2 Manaform Hellkite
-3 Spell Pierce
 3 Alchemist's Gambit
+3 Spell Pierce
 3 Galazeth Prismari
 3 Manaform Hellkite
 4 Manaform Hellkite
 4 Alchemist's Gambit
-1 Smashing Success
-1 Cleansing Wildfire
+2 Galvanic Iteration
+3 Galvanic Iteration
+4 Galvanic Iteration
+4 Fading Hope
 1 Heated Debate
-2 Heated Debate
-2 Smashing Success
-2 Cleansing Wildfire
+1 Cleansing Wildfire
+1 Smashing Success
 2 Abrade
+2 Heated Debate
+2 Cleansing Wildfire
+2 Smashing Success
 3 Den of the Bugbear
-3 Cleansing Wildfire
 3 Smashing Success
+3 Cleansing Wildfire
 4 Reckoner Bankbuster
 4 Cleansing Wildfire
 4 Den of the Bugbear
 4 Smashing Success
-1 Silundi Vision
 1 Surtland Frostpyre
 1 Arcane Infusion
+1 Silundi Vision
+2 Sea Gate Restoration
 2 Arcane Infusion
 2 Silundi Vision
-2 Sea Gate Restoration
 3 Arcane Infusion
 4 Magma Opus
 1 Spectral Adversary
 1 Witness Protection
-2 Spectral Adversary
 2 Witness Protection
-3 Spectral Adversary
+2 Spectral Adversary
 3 Witness Protection
+3 Spectral Adversary
 4 Negate
 4 Spectral Adversary
 4 Witness Protection
+1 Creative Outburst
+2 Delver of Secrets
+2 Creative Outburst
+3 Frostboil Snarl
+3 Delver of Secrets
+4 Delver of Secrets
