@@ -76,9 +76,9 @@
 1 Swords to Plowshares
 1 Tundra
 1 Prismatic Ending
+2 Tundra
 2 Timeless Dragon
 2 Swords to Plowshares
-2 Tundra
 2 Prismatic Ending
 3 Flooded Strand
 3 Swords to Plowshares
@@ -96,6 +96,7 @@
 1 Yavimaya, Cradle of Growth
 1 Elvish Reclaimer
 1 Expedition Map
+1 Forest
 1 Sylvan Library
 1 Crop Rotation
 1 Sejiri Steppe
@@ -103,7 +104,6 @@
 1 Thespian's Stage
 1 Dark Depths
 1 Bojuka Bog
-1 Forest
 1 Ancient Stirrings
 2 Forest
 2 Crop Rotation
@@ -122,11 +122,11 @@
 3 Dark Depths
 3 Elvish Reclaimer
 3 Ancient Stirrings
-4 Forest
 4 Crop Rotation
 4 Yavimaya, Cradle of Growth
 4 Ancient Stirrings
 4 Thespian's Stage
+4 Forest
 4 Dark Depths
 4 Elvish Reclaimer
 5 Forest
@@ -213,7 +213,6 @@
 2 Wasteland
 3 Wasteland
 4 Wasteland
-1 Snow-Covered Plains
 1 Crucible of Worlds
 1 Archivist of Oghma
 1 Esper Sentinel
@@ -222,6 +221,7 @@
 1 Lion Sash
 1 Aether Vial
 1 Mother of Runes
+1 Snow-Covered Plains
 1 Ancient Den
 2 Snow-Covered Plains
 2 Archivist of Oghma
@@ -256,10 +256,10 @@
 2 Kappa Cannoneer
 2 Thoughtcast
 3 Mishra's Bauble
+3 Metallic Rebuke
 3 Thoughtcast
 3 Seat of the Synod
 3 Emry, Lurker of the Loch
-3 Metallic Rebuke
 3 Lion's Eye Diamond
 3 Kappa Cannoneer
 4 Mishra's Bauble

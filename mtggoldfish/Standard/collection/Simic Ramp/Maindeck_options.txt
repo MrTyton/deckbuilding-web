@@ -18,8 +18,8 @@
 2 Cyclone Summoner
 2 Glasspool Mimic
 1 Topiary Stomper
-2 Titan of Industry
 2 Topiary Stomper
+2 Titan of Industry
 3 Topiary Stomper
 1 Neverwinter Dryad
 2 Neverwinter Dryad
@@ -171,15 +171,6 @@
 1 Jin-Gitaxias, Progress Tyrant
 1 Azusa's Many Journeys
 2 Azusa's Many Journeys
-3 March of Swirling Mist
-1 Tempted by the Oriq
-2 Tempted by the Oriq
-3 Tempted by the Oriq
-1 Snakeskin Veil
-1 Tamiyo, Compleated Sage
-2 Tamiyo, Compleated Sage
-2 Snakeskin Veil
-3 Tamiyo's Safekeeping
 1 Scute Swarm
 1 Vorinclex, Monstrous Raider
 1 Roaring Earth
@@ -189,6 +180,15 @@
 2 Shigeki, Jukai Visionary
 2 Invoke the Ancients
 3 Titan of Industry
+3 March of Swirling Mist
+1 Tempted by the Oriq
+2 Tempted by the Oriq
+3 Tempted by the Oriq
+1 Snakeskin Veil
+1 Tamiyo, Compleated Sage
+2 Tamiyo, Compleated Sage
+2 Snakeskin Veil
+3 Tamiyo's Safekeeping
 1 Saw It Coming
 1 Glorious Sunrise
 2 Saw It Coming
@@ -214,11 +214,8 @@
 3 Vivien on the Hunt
 4 Jewel Thief
 4 Thirst for Discovery
-3 Turntimber Symbiosis
-4 Overcharged Amalgam
-4 Hullbreaker Horror
-1 Vilespawn Spider
 1 Mulch
+1 Vilespawn Spider
 1 Dollhouse of Horrors
 2 Mulch
 2 Dollhouse of Horrors
@@ -226,15 +223,18 @@
 3 Mulch
 3 Dollhouse of Horrors
 4 Briarbridge Tracker
-4 Dollhouse of Horrors
 4 Mulch
-1 Reckoner Bankbuster
+4 Dollhouse of Horrors
+3 Turntimber Symbiosis
+4 Overcharged Amalgam
+4 Hullbreaker Horror
 1 Greater Tanuki
+1 Reckoner Bankbuster
 2 Reckoner Bankbuster
 2 Greater Tanuki
+3 Reckoner Bankbuster
 3 Jwari Disruption
 3 Glasspool Mimic
-3 Reckoner Bankbuster
 3 Colossal Skyturtle
 3 Cosima, God of the Voyage
 3 Greater Tanuki
@@ -291,11 +291,11 @@
 9 Snow-Covered Island
 10 Snow-Covered Island
 1 Unnatural Growth
+1 Dryad's Revival
 1 Druid Class
 1 Ranger Class
 1 Rabid Bite
 1 Tapping at the Window
-1 Dryad's Revival
 1 Cultivator Colossus
 1 Roiling Regrowth
 1 Scale the Heights
