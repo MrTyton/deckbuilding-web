@@ -1,4 +1,4 @@
-1 Thirst for Discovery
+1 Annul
 2 Annul
 3 Tempted by the Oriq
 1 March of Swirling Mist
@@ -9,19 +9,22 @@
 2 Ray of Frost
 1 Spell Pierce
 1 Essence Capture
-1 Reject
 1 Dragon Turtle
 1 Witness Protection
 2 Witness Protection
 2 Dragon Turtle
+1 Reject
 2 Spell Pierce
-2 Reject
 3 Dragon Turtle
 3 Witness Protection
 3 Ray of Frost
 3 Negate
+2 Reject
+1 Make Disappear
+1 Lullmage's Domination
+2 Make Disappear
+2 Lullmage's Domination
 1 You See a Guard Approach
-1 Hullbreaker Horror
 3 March of Swirling Mist
 3 Out of the Way
 1 Thieving Skydiver
@@ -31,12 +34,9 @@
 1 Mind Flayer
 2 Mind Flayer
 2 Essence Capture
+1 Hullbreaker Horror
 1 Invoke the Winds
 2 Invoke the Winds
-1 Make Disappear
-1 Lullmage's Domination
-2 Make Disappear
-2 Lullmage's Domination
 1 Reckoner Bankbuster
 1 Consuming Tide
 2 Reckoner Bankbuster
@@ -53,8 +53,6 @@
 1 Teachings of the Archaics
 1 Concerted Defense
 2 Concerted Defense
-2 Hullbreaker Horror
-3 Reject
 1 Bind the Monster
 2 Bind the Monster
 3 Bind the Monster

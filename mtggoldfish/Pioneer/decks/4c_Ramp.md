@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Shadowspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476487)      |
 |                     |             |                    1|[Skylasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=369083)        |
+|                     |             |                    1|[Shadowspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476487)      |
 |                     |             |                    2|[Skylasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=369083)        |
 |                     |             |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)   |
 |                     |             |                    1|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)|

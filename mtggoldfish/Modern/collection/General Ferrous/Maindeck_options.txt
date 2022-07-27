@@ -1,32 +1,32 @@
+1 Scalding Tarn
 2 Bloodstained Mire
 3 Bloodstained Mire
-1 Blood Crypt
 4 Bloodstained Mire
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
+1 Xander's Lounge
 1 Verdant Catacombs
 4 Manamorphose
 1 Polluted Delta
-1 Xander's Lounge
+4 Arid Mesa
 2 Misty Rainforest
 1 Omnath, Locus of Creation
 2 Steam Vents
 1 Fury
 4 Mantis Rider
 3 Misty Rainforest
-2 Omnath, Locus of Creation
 4 General Ferrous Rokiric
-4 Arid Mesa
-2 Sacred Foundry
+2 Omnath, Locus of Creation
 2 Fury
+2 Sacred Foundry
 1 Hidetsugu Consumes All
 1 Flooded Strand
-1 Mountain
+1 Spara's Headquarters
 1 Knight of Autumn
+1 Mountain
 2 Flooded Strand
 2 Hidetsugu Consumes All
-1 Spara's Headquarters
 2 Breeding Pool
 1 Scourge of the Skyclaves
 2 Scourge of the Skyclaves
@@ -50,27 +50,26 @@
 2 Noble Hierarch
 3 Ignoble Hierarch
 4 Ignoble Hierarch
-1 Boros Charm
-1 Marsh Flats
 3 Fury
-1 Path to Exile
+1 Marsh Flats
+1 Boros Charm
 2 Prismatic Ending
 3 Prismatic Ending
 1 Godless Shrine
+1 Path to Exile
 1 Raffine's Tower
+1 Ketria Triome
 2 Temple Garden
 2 Stomping Ground
 1 Klothys, God of Destiny
-1 Ketria Triome
-2 Boros Charm
-1 Hero of Precinct One
-2 Hero of Precinct One
-3 Hero of Precinct One
-4 Hero of Precinct One
 2 Eladamri's Call
 1 Solitude
 2 Boseiju, Who Endures
 2 Plains
+1 Hero of Precinct One
+2 Hero of Precinct One
+3 Hero of Precinct One
+4 Hero of Precinct One
 1 Ziatora's Proving Ground
 1 Cabaretti Charm
 1 Burning-Tree Emissary
@@ -89,42 +88,8 @@
 4 Stomping Ground
 3 Hidetsugu Consumes All
 1 Vindicate
-3 Boros Charm
-4 Boros Charm
-1 Sunbaked Canyon
-3 Sacred Foundry
-4 Sacred Foundry
-1 Showdown of the Skalds
-1 Battlefield Forge
-2 Showdown of the Skalds
-1 Kabira Takedown
-1 Rem Karolus, Stalwart Slayer
-1 Spikefield Hazard
-1 Wear/Tear
-1 Tithe Taker
-1 Response/Resurgence
-1 Needleverge Pathway
-1 Light of Hope
-1 Field of Ruin
-1 Dryad Militant
-2 Rem Karolus, Stalwart Slayer
-2 Spikefield Hazard
-2 Path to Exile
-2 Needleverge Pathway
-2 Battlefield Forge
-2 Tithe Taker
-2 Dryad Militant
-3 Path to Exile
-3 Showdown of the Skalds
-3 Needleverge Pathway
-3 Battlefield Forge
-3 Tithe Taker
-3 Dryad Militant
-4 Needleverge Pathway
-4 Showdown of the Skalds
-4 Dryad Militant
-4 Path to Exile
 1 Eldritch Evolution
+2 Boros Charm
 1 Assassin's Trophy
 1 Overgrown Tomb
 4 Fury
@@ -132,9 +97,9 @@
 4 Flooded Strand
 4 Misty Rainforest
 1 Grist, the Hunger Tide
+1 Snow-Covered Forest
 1 Snow-Covered Island
 1 Snow-Covered Plains
-1 Snow-Covered Forest
 1 Teferi, Time Raveler
 1 Expressive Iteration
 2 Solitude
@@ -143,12 +108,11 @@
 3 Teferi, Time Raveler
 3 Expressive Iteration
 4 Expressive Iteration
-1 Obscura Charm
-2 Obscura Charm
-1 Sundown Pass
 1 Neoform
 2 Neoform
 3 Neoform
+1 Obscura Charm
+2 Obscura Charm
 1 Island
 2 Marsh Flats
 3 Marsh Flats
@@ -159,7 +123,6 @@
 3 Ragavan, Nimble Pilferer
 3 Seasoned Pyromancer
 4 Ragavan, Nimble Pilferer
-1 Otawara, Soaring City
 1 March of Otherworldly Light
 1 Teferi, Hero of Dominaria
 1 Abundant Growth
@@ -180,20 +143,27 @@
 4 Abundant Growth
 4 Omnath, Locus of Creation
 4 Counterspell
+1 Otawara, Soaring City
 1 Pillar of the Paruns
 2 Pillar of the Paruns
 3 Pillar of the Paruns
 1 Justice Strike
 2 Justice Strike
+1 Sundown Pass
+3 Boros Charm
+4 Boros Charm
+1 Sunbaked Canyon
+3 Sacred Foundry
+4 Sacred Foundry
+1 Showdown of the Skalds
+1 Battlefield Forge
+2 Showdown of the Skalds
 1 Geist of Saint Traft
-1 Venerable Warsinger
 1 Putrid Leech
 2 Putrid Leech
 2 Riveteers Charm
-1 Legion's Landing
-2 Kabira Takedown
-2 Legion's Landing
-2 Response/Resurgence
+1 Bloodtithe Harvester
+2 Bloodtithe Harvester
 1 Emrakul, the Promised End
 1 Chance for Glory
 2 Chance for Glory
@@ -242,6 +212,34 @@
 3 Ice-Fang Coatl
 4 Faithful Mending
 4 Ice-Fang Coatl
+1 Kabira Takedown
+1 Rem Karolus, Stalwart Slayer
+1 Spikefield Hazard
+1 Field of Ruin
+1 Wear/Tear
+1 Venerable Warsinger
+1 Tithe Taker
+1 Response/Resurgence
+1 Needleverge Pathway
+1 Light of Hope
+1 Dryad Militant
+2 Path to Exile
+2 Rem Karolus, Stalwart Slayer
+2 Spikefield Hazard
+2 Needleverge Pathway
+2 Tithe Taker
+2 Dryad Militant
+2 Battlefield Forge
+3 Path to Exile
+3 Needleverge Pathway
+3 Showdown of the Skalds
+3 Battlefield Forge
+3 Tithe Taker
+3 Dryad Militant
+4 Needleverge Pathway
+4 Showdown of the Skalds
+4 Dryad Militant
+4 Path to Exile
 1 Den of the Bugbear
 1 Fable of the Mirror-Breaker
 1 Rip Apart

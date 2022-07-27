@@ -1,4 +1,4 @@
-4 Force of Negation
+9 Island
 10 Island
 1 Harbinger of the Tides
 1 Oboro, Palace in the Clouds
@@ -6,29 +6,27 @@
 3 Harbinger of the Tides
 1 Kira, Great Glass-Spinner
 4 Glasspool Mimic
-3 Spreading Seas
-11 Island
-4 Spreading Seas
-12 Island
-3 Cavern of Souls
 1 Benthic Biomancer
-2 Benthic Biomancer
 1 Cursecatcher
 2 Cursecatcher
+3 Spreading Seas
+11 Island
+2 Benthic Biomancer
+4 Spreading Seas
+12 Island
 13 Island
 14 Island
 1 Dismember
 2 Dismember
-1 Master of Waves
-2 Master of Waves
-15 Island
-16 Island
+3 Cavern of Souls
 3 Cursecatcher
 4 Cursecatcher
+15 Island
+16 Island
 4 Cavern of Souls
+1 Master of Waves
+2 Master of Waves
 4 Harbinger of the Tides
-1 Brazen Borrower
-2 Brazen Borrower
 3 Benthic Biomancer
 4 Benthic Biomancer
 1 Thieving Skydiver
@@ -39,10 +37,8 @@
 1 Flooded Strand
 2 Flooded Strand
 3 Flooded Strand
-2 Kira, Great Glass-Spinner
-1 Phantasmal Image
-1 Hallowed Fountain
 1 Prismatic Ending
+1 Hallowed Fountain
 1 Seachrome Coast
 1 Ephemerate
 2 Prismatic Ending
@@ -54,7 +50,8 @@
 4 Seachrome Coast
 4 Flooded Strand
 1 Relic of Progenitus
-1 Castle Vantress
+1 Brazen Borrower
+2 Brazen Borrower
 1 Archmage's Charm
 2 Archmage's Charm
 3 Archmage's Charm
@@ -79,11 +76,6 @@
 2 Flusterstorm
 3 Divide by Zero
 4 Divide by Zero
-2 Phantasmal Image
-3 Waterlogged Grove
-3 Brazen Borrower
-3 Kira, Great Glass-Spinner
-4 Brazen Borrower
 1 Chart a Course
 2 Chart a Course
 3 Chart a Course
@@ -102,21 +94,25 @@
 2 Solitude
 3 Solitude
 4 Solitude
+1 Phantasmal Image
 1 Suspend
 2 Suspend
 3 Thieving Skydiver
 3 Suspend
 1 Tidebinder Mage
+2 Kira, Great Glass-Spinner
+3 Waterlogged Grove
 1 Kopala, Warden of Waves
 1 Pongify
 2 Pongify
 3 Pongify
 1 Counterspell
 1 Faerie Conclave
+1 Castle Vantress
 1 Blast Zone
 1 Lonely Sandbar
-2 Blast Zone
 2 Counterspell
+2 Blast Zone
 2 Faerie Conclave
 3 Counterspell
 3 Dismember

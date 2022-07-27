@@ -14,8 +14,8 @@
 1 The Scarab God
 1 Indatha Triome
 1 Watery Grave
-1 Archon of Sun's Grace
 1 Brightclimb Pathway
+1 Archon of Sun's Grace
 1 Breeding Pool
 1 Godless Shrine
 2 Temple Garden
@@ -30,8 +30,8 @@
 1 Dreamroot Cascade
 1 Shipwreck Marsh
 1 Sunpetal Grove
-1 Commune with Spirits
 1 Shattered Sanctum
+1 Commune with Spirits
 2 Commune with Spirits
 3 Commune with Spirits
 1 Oath of Kaya
@@ -93,8 +93,8 @@
 2 Voice of Resurgence
 3 Voice of Resurgence
 4 Voice of Resurgence
-2 Overgrown Tomb
 2 Godless Shrine
+2 Overgrown Tomb
 3 Drowned Catacomb
 3 Godless Shrine
 3 Sunpetal Grove
@@ -171,6 +171,40 @@
 1 Anger of the Gods
 1 Nicol Bolas, Dragon-God
 2 Anger of the Gods
+1 Search for Azcanta
+1 Heartless Act
+1 Thoughtseize
+1 Grafdigger's Cage
+1 Enter the God-Eternals
+1 Liliana, Dreadhorde General
+1 Riverglide Pathway
+1 Ritual of Soot
+1 Bedevil
+1 Clearwater Pathway
+1 Valki, God of Lies
+1 Dragonskull Summit
+2 Heartless Act
+2 Dragonskull Summit
+2 Blood Crypt
+2 Valki, God of Lies
+2 Chandra, Awakened Inferno
+2 Thoughtseize
+2 Search for Azcanta
+2 Nicol Bolas, Dragon-God
+2 Nicol Bolas, the Ravager
+2 Riverglide Pathway
+2 Ritual of Soot
+2 Watery Grave
+2 Enter the God-Eternals
+2 Clearwater Pathway
+2 Bedevil
+3 Clearwater Pathway
+3 Riverglide Pathway
+3 Nicol Bolas, Dragon-God
+3 Bedevil
+3 Blood Crypt
+3 Watery Grave
+4 Blood Crypt
 1 Sweltering Suns
 1 Emeria's Call
 1 Stormcarved Coast
@@ -195,48 +229,14 @@
 4 Stormcarved Coast
 4 Shark Typhoon
 4 Fae of Wishes
-1 Expressive Iteration
 1 Clifftop Retreat
 1 Nicol Bolas, God-Pharaoh
+1 Expressive Iteration
 1 Castle Ardenvale
 1 Sokenzan, Crucible of Defiance
 2 Expressive Iteration
 2 The Wandering Emperor
 3 Expressive Iteration
 3 Anger of the Gods
-4 Expressive Iteration
 4 Steam Vents
-1 Search for Azcanta
-1 Dragonskull Summit
-1 Heartless Act
-1 Thoughtseize
-1 Grafdigger's Cage
-1 Enter the God-Eternals
-1 Liliana, Dreadhorde General
-1 Riverglide Pathway
-1 Ritual of Soot
-1 Bedevil
-1 Clearwater Pathway
-1 Valki, God of Lies
-2 Heartless Act
-2 Watery Grave
-2 Valki, God of Lies
-2 Dragonskull Summit
-2 Chandra, Awakened Inferno
-2 Thoughtseize
-2 Search for Azcanta
-2 Blood Crypt
-2 Nicol Bolas, Dragon-God
-2 Nicol Bolas, the Ravager
-2 Riverglide Pathway
-2 Ritual of Soot
-2 Enter the God-Eternals
-2 Clearwater Pathway
-2 Bedevil
-3 Watery Grave
-3 Clearwater Pathway
-3 Riverglide Pathway
-3 Nicol Bolas, Dragon-God
-3 Bedevil
-3 Blood Crypt
-4 Blood Crypt
+4 Expressive Iteration

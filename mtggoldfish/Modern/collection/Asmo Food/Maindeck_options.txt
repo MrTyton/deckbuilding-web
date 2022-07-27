@@ -15,10 +15,10 @@
 1 Finale of Devastation
 1 Feasting Troll King
 1 Trail of Crumbs
+2 Overgrown Tomb
 2 Verdant Catacombs
 2 Blooming Marsh
 2 Gilded Goose
-2 Overgrown Tomb
 2 Witch's Oven
 2 Cauldron Familiar
 2 Feasting Troll King
@@ -33,8 +33,8 @@
 3 Trail of Crumbs
 3 Witch's Oven
 4 Verdant Catacombs
-4 Blooming Marsh
 4 Gilded Goose
+4 Blooming Marsh
 4 Witch's Oven
 4 Trail of Crumbs
 4 Cauldron Familiar
@@ -44,8 +44,7 @@
 1 Darkslick Shores
 2 Darkslick Shores
 1 Bloodstained Mire
-3 Darkslick Shores
-4 Darkslick Shores
+2 Flooded Strand
 1 Steam Vents
 1 Scalding Tarn
 1 Mountain
@@ -58,10 +57,7 @@
 4 Ragavan, Nimble Pilferer
 4 Scalding Tarn
 1 Aether Vial
-1 River of Tears
-1 Thoughtcast
 1 Nurturing Peatland
-2 Flooded Strand
 1 Thought Monitor
 1 Blazing Rootwalla
 1 Spirebluff Canal
@@ -86,9 +82,9 @@
 1 Dispatch
 1 Sacred Foundry
 1 Thalia's Lieutenant
-1 Ingenious Smith
 1 Arid Mesa
 1 Concealed Courtyard
+1 Ingenious Smith
 1 Portable Hole
 1 Ethersworn Canonist
 2 Marsh Flats
@@ -108,8 +104,8 @@
 3 Ingenious Smith
 3 Concealed Courtyard
 3 Aether Vial
-3 Sacred Foundry
 3 Esper Sentinel
+3 Sacred Foundry
 3 Ethersworn Canonist
 3 Portable Hole
 4 Concealed Courtyard
@@ -118,6 +114,10 @@
 4 Aether Vial
 4 Esper Sentinel
 4 Ingenious Smith
+1 River of Tears
+1 Thoughtcast
+3 Darkslick Shores
+4 Darkslick Shores
 1 Blackcleave Cliffs
 1 Blood Crypt
 1 Voldaren Epicure

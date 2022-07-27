@@ -30,16 +30,16 @@
 3 Hengegate Pathway
 1 Retraction Helix
 2 Retraction Helix
-1 Ledger Shredder
 1 Spirebluff Canal
 1 Inspiring Vantage
+1 Ledger Shredder
+2 Inspiring Vantage
 2 Ledger Shredder
 2 Spirebluff Canal
-2 Inspiring Vantage
 3 Ledger Shredder
-3 Hallowed Fountain
 3 Spirebluff Canal
 3 Steam Vents
+3 Hallowed Fountain
 4 Spirebluff Canal
 1 Mox Amber
 1 Emry, Lurker of the Loch
@@ -69,22 +69,22 @@
 2 Strategic Planning
 2 Commune with the Gods
 3 Stomping Ground
-4 Hengegate Pathway
-4 Stomping Ground
 4 Chained to the Rocks
+4 Stomping Ground
+4 Hengegate Pathway
 2 Spell Pierce
 1 Snow-Covered Island
 4 Mox Amber
 2 Strangle
 3 Retraction Helix
-1 Mountain
 1 Forest
+1 Mountain
 2 Breeding Pool
 1 Fabled Passage
-1 Plains
 1 Omnath, Locus of Creation
 1 Scorching Dragonfire
 1 Radiant Flames
+1 Plains
 2 Fabled Passage
 2 Omnath, Locus of Creation
 3 Fabled Passage
@@ -125,29 +125,6 @@
 1 Escape to the Wilds
 2 Escape to the Wilds
 4 Raugrin Triome
-1 Soul-Scar Mage
-1 Deserted Beach
-1 Reckless Rage
-1 Sprite Dragon
-1 Sokenzan, Crucible of Defiance
-1 Stormcarved Coast
-1 Ancestral Anger
-1 Monastery Swiftspear
-2 Soul-Scar Mage
-2 Reckless Rage
-2 Sprite Dragon
-2 Deserted Beach
-2 Monastery Swiftspear
-2 Ancestral Anger
-3 Soul-Scar Mage
-3 Sprite Dragon
-3 Reckless Rage
-3 Ancestral Anger
-3 Monastery Swiftspear
-4 Sprite Dragon
-4 Soul-Scar Mage
-4 Monastery Swiftspear
-4 Ancestral Anger
 1 Altar of the Brood
 1 Dryad's Revival
 1 Thassa's Oracle
@@ -159,3 +136,26 @@
 4 Retraction Helix
 4 Briber's Purse
 4 Expedite
+1 Sprite Dragon
+1 Reckless Rage
+1 Stormcarved Coast
+1 Deserted Beach
+1 Ancestral Anger
+1 Soul-Scar Mage
+1 Sokenzan, Crucible of Defiance
+1 Monastery Swiftspear
+2 Sprite Dragon
+2 Reckless Rage
+2 Deserted Beach
+2 Soul-Scar Mage
+2 Monastery Swiftspear
+2 Ancestral Anger
+3 Sprite Dragon
+3 Reckless Rage
+3 Ancestral Anger
+3 Monastery Swiftspear
+3 Soul-Scar Mage
+4 Sprite Dragon
+4 Monastery Swiftspear
+4 Ancestral Anger
+4 Soul-Scar Mage
