@@ -1,6 +1,6 @@
+2 Priest of Fell Rites
 1 Concealed Courtyard
 2 Concealed Courtyard
-4 Flooded Strand
 4 Marsh Flats
 1 Glacial Fortress
 1 Thoughtseize
@@ -8,14 +8,14 @@
 1 Serra's Emissary
 3 Thoughtseize
 4 Thoughtseize
-2 Hallowed Fountain
 2 Swamp
 1 Mulldrifter
-3 Priest of Fell Rites
 1 Bloodstained Mire
 2 Bloodstained Mire
 3 Bloodstained Mire
+2 Hallowed Fountain
 4 Prismatic Ending
+3 Priest of Fell Rites
 4 Priest of Fell Rites
 1 Sacred Foundry
 1 Arid Mesa
@@ -39,6 +39,7 @@
 3 Seasoned Pyromancer
 4 Fable of the Mirror-Breaker
 4 Seasoned Pyromancer
+3 Watery Grave
 4 Arid Mesa
 1 Ragavan, Nimble Pilferer
 1 Inspiring Vantage
@@ -50,14 +51,12 @@
 3 Fury
 4 Ragavan, Nimble Pilferer
 2 Island
-1 Fatal Push
-3 Watery Grave
-1 Counterspell
-2 Counterspell
-1 Otawara, Soaring City
-4 Teferi, Time Raveler
 2 Mulldrifter
 3 Mulldrifter
+1 Fatal Push
+1 Counterspell
+2 Counterspell
+4 Teferi, Time Raveler
 3 Counterspell
 4 Counterspell
 1 Drowned Catacomb
@@ -66,10 +65,18 @@
 3 Consider
 4 Consider
 1 Undying Evil
-3 Concealed Courtyard
 2 Fatal Push
-1 Takenuma, Abandoned Mire
 4 Mulldrifter
+1 Otawara, Soaring City
+1 Witch's Cottage
+1 Aethermage's Touch
+2 Witch's Cottage
+2 Aethermage's Touch
+3 Godless Shrine
+3 Aethermage's Touch
+4 Aethermage's Touch
+3 Concealed Courtyard
+1 Takenuma, Abandoned Mire
 1 Eiganjo, Seat of the Empire
 1 Ox of Agonas
 2 Undying Evil
@@ -86,13 +93,6 @@
 2 Bone Shards
 2 Ashen Rider
 3 Ashen Rider
-1 Witch's Cottage
-1 Aethermage's Touch
-2 Witch's Cottage
-2 Aethermage's Touch
-3 Godless Shrine
-3 Aethermage's Touch
-4 Aethermage's Touch
 1 Verdant Catacombs
 1 Cascading Cataracts
 1 Golos, Tireless Pilgrim
@@ -145,12 +145,12 @@
 1 Sunken Ruins
 1 Stubborn Denial
 1 Griselbrand
+1 Spell Pierce
 1 Darkslick Shores
 1 Supreme Verdict
 1 Hullbreaker Horror
 1 Castle Vantress
 1 Drown in the Loch
-1 Spell Pierce
 1 Mystic Gate
 2 Supreme Verdict
 2 Drown in the Loch
