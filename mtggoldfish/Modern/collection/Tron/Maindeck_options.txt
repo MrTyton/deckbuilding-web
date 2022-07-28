@@ -14,8 +14,8 @@
 3 Chromatic Sphere
 4 Chromatic Sphere
 1 Oblivion Stone
-1 Sylvan Scrying
 1 Forest
+1 Sylvan Scrying
 1 Ancient Stirrings
 2 Forest
 2 Ancient Stirrings
@@ -66,6 +66,7 @@
 1 Batterskull
 1 Forsaken Monument
 1 Treasure Vault
+1 Spire of Industry
 1 Emrakul, the Aeons Torn
 1 Paradox Engine
 1 Aetherflux Reservoir
@@ -78,7 +79,6 @@
 1 Metalwork Colossus
 1 Mishra's Bauble
 1 Automated Artificer
-1 Spire of Industry
 2 Witch's Oven
 2 Metalwork Colossus
 2 Paradox Engine
@@ -106,17 +106,17 @@
 2 Cavern of Souls
 1 Fire/Ice
 1 Barkchannel Pathway
-1 Grove of the Burnwillows
 1 Valakut Awakening
 1 Divide by Zero
-1 Spirebluff Canal
+1 Academy Ruins
 1 Island
+1 Spirebluff Canal
 1 Hydroid Krasis
+1 Grove of the Burnwillows
 1 Fury
 1 Prophetic Prism
 1 Engineered Explosives
 1 Riverglide Pathway
-1 Academy Ruins
 2 Fury
 2 Fire/Ice
 2 Barkchannel Pathway
@@ -149,11 +149,11 @@
 4 Swamp
 4 Golos, Tireless Pilgrim
 1 Horizon Canopy
-1 Talisman of Hierarchy
-1 Prismatic Ending
 1 Plains
+1 Prismatic Ending
 1 Talisman of Progress
 1 Talisman of Conviction
+1 Talisman of Hierarchy
 1 Talisman of Unity
 2 Plains
 2 Prismatic Ending
