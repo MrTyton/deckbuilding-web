@@ -11,8 +11,8 @@
 4 Explore
 1 Storm's Wrath
 1 Arid Mesa
-2 Dwarven Mine
 2 Arid Mesa
+2 Dwarven Mine
 3 Scalding Tarn
 1 Bloodstained Mire
 1 Cartographer's Survey
@@ -21,37 +21,37 @@
 1 Misty Rainforest
 2 Misty Rainforest
 3 Misty Rainforest
-1 Snow-Covered Island
 1 Snow-Covered Mountain
+1 Snow-Covered Island
+1 Steam Vents
 1 Remand
-1 Fire/Ice
 1 Expressive Iteration
 1 Growth Spiral
-1 Steam Vents
 1 Snow-Covered Forest
-2 Remand
-2 Fire/Ice
-2 Expressive Iteration
-2 Growth Spiral
+1 Fire/Ice
 2 Steam Vents
+2 Remand
+2 Expressive Iteration
+2 Fire/Ice
+2 Growth Spiral
 2 Ketria Triome
+3 Expressive Iteration
 3 Steam Vents
 3 Ketria Triome
 3 Remand
-3 Expressive Iteration
 3 Growth Spiral
+4 Expressive Iteration
 4 Misty Rainforest
 4 Steam Vents
 4 Remand
-4 Expressive Iteration
 4 Growth Spiral
 4 Wrenn and Six
 1 Endurance
 1 Archmage's Charm
-2 Archmage's Charm
 2 Snow-Covered Island
-3 Snow-Covered Island
+2 Archmage's Charm
 3 Fire/Ice
+3 Snow-Covered Island
 3 Dwarven Mine
 3 Arid Mesa
 1 Verdant Catacombs
@@ -93,10 +93,6 @@
 2 Anger of the Gods
 2 Jetmir's Garden
 2 Boseiju, Who Endures
-1 Chalice of the Void
-2 Chalice of the Void
-3 Chalice of the Void
-4 Chalice of the Void
 1 Windswept Heath
 1 Obstinate Baloth
 1 Through the Breach
@@ -110,3 +106,7 @@
 4 Through the Breach
 4 Summoner's Pact
 7 Mountain
+1 Chalice of the Void
+2 Chalice of the Void
+3 Chalice of the Void
+4 Chalice of the Void

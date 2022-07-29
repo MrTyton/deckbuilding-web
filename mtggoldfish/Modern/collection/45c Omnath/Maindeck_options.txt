@@ -1,17 +1,17 @@
-2 Risen Reef
-3 Risen Reef
 4 Risen Reef
 2 Ephemerate
-2 Fury
+4 Flooded Strand
 1 Dress Down
 1 Traverse the Ulvenwald
 2 Traverse the Ulvenwald
-1 Scalding Tarn
+1 Snow-Covered Mountain
 3 Wooded Foothills
 4 Wooded Foothills
 4 Ice-Fang Coatl
+2 Fury
 1 Oath of Nissa
 2 Oath of Nissa
+1 Scalding Tarn
 2 Boseiju, Who Endures
 1 Otawara, Soaring City
 2 Endurance
@@ -25,16 +25,20 @@
 3 Ephemerate
 3 Fury
 3 Cavern of Souls
-1 Utopia Sprawl
-2 Utopia Sprawl
 1 Supreme Verdict
 2 Snow-Covered Island
 1 Sokenzan, Crucible of Defiance
 4 Traverse the Ulvenwald
+1 Utopia Sprawl
+2 Utopia Sprawl
+3 Dress Down
+1 March of Otherworldly Light
+1 Obsidian Charmaw
+1 Eternal Witness
 3 Utopia Sprawl
 4 Utopia Sprawl
-1 Planebound Accomplice
 1 Kiki-Jiki, Mirror Breaker
+1 Planebound Accomplice
 1 Karmic Guide
 1 Vivien on the Hunt
 1 Felidar Guardian
@@ -42,20 +46,16 @@
 2 Vivien on the Hunt
 3 Vivien on the Hunt
 4 Vivien on the Hunt
+1 Renegade Rallier
+2 Supreme Verdict
 1 Arid Mesa
+2 Arid Mesa
 3 Lightning Bolt
-1 March of Otherworldly Light
-3 Dress Down
 2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
-1 Obsidian Charmaw
-1 Eternal Witness
-2 Karmic Guide
-1 Renegade Rallier
-2 Supreme Verdict
-2 Arid Mesa
 1 Verdant Catacombs
+2 Karmic Guide
 2 Renegade Rallier
 2 Verdant Catacombs
 3 Oath of Nissa
@@ -107,14 +107,12 @@
 1 Magus of the Moon
 1 Reveillark
 1 Seasoned Pyromancer
+2 Eternal Witness
 1 Prairie Stream
 1 Valakut Awakening
 1 Consider
-2 Valakut Awakening
 2 Consider
-2 Eternal Witness
-1 Knight of Autumn
-2 Planebound Accomplice
+2 Valakut Awakening
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer

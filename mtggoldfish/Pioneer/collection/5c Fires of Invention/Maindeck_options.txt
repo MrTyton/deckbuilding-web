@@ -1,68 +1,67 @@
-1 Breeding Pool
-1 The Scarab God
-1 Darkbore Pathway
-2 Darkbore Pathway
-1 Godless Shrine
-1 Omen of the Forge
-3 Jukai Naturalist
+1 Cavalier of Dawn
 3 Darkbore Pathway
 1 Indatha Triome
-1 Watery Grave
-1 Brightclimb Pathway
-1 Archon of Sun's Grace
-4 Risen Reef
+1 Omen of the Forge
+1 Temple Garden
+1 Lithoform Blight
+1 Godless Shrine
+3 Barkchannel Pathway
+1 Breeding Pool
+1 Jukai Naturalist
+2 Jukai Naturalist
+3 Jukai Naturalist
 1 Hengegate Pathway
 2 Hengegate Pathway
 3 Hengegate Pathway
-3 Barkchannel Pathway
 4 Hengegate Pathway
 4 Branchloft Pathway
 4 Barkchannel Pathway
-2 Temple Garden
-3 Temple Garden
-4 Temple Garden
-1 Lithoform Blight
-2 Lithoform Blight
-1 Binding the Old Gods
-3 Fable of the Mirror-Breaker
 2 Moon-Blessed Cleric
 1 Jetmir's Garden
-1 Sunpetal Grove
-1 Oath of Kaya
+1 Watery Grave
+1 Brightclimb Pathway
+1 Binding the Old Gods
+2 Lithoform Blight
+4 Risen Reef
+3 Fable of the Mirror-Breaker
 1 Dreamroot Cascade
 1 Shipwreck Marsh
 1 Hallowed Fountain
-2 Sunpetal Grove
-1 Overgrown Tomb
+1 Sunpetal Grove
+2 Temple Garden
+3 Temple Garden
+4 Temple Garden
 1 Shattered Sanctum
+1 Rest in Peace
+2 Sunpetal Grove
 1 Commune with Spirits
 2 Commune with Spirits
 3 Commune with Spirits
-2 Steam Vents
-1 Rest in Peace
+1 Oath of Kaya
 1 Clever Impersonator
 1 Reidane, God of the Worthy
+1 Overgrown Tomb
+2 Zagoth Triome
 3 Lithoform Blight
 1 Ziatora's Proving Ground
-2 Indatha Triome
 1 Snow-Covered Forest
 2 Spirited Companion
 1 Glacial Fortress
-2 Breeding Pool
+2 Steam Vents
+1 Callous Bloodmage
+2 Jetmir's Garden
 1 Blood Crypt
-2 Zagoth Triome
-1 Caves of Koilos
+2 Breeding Pool
+2 Indatha Triome
 1 Tatsunari, Toad Rider
 1 Mountain
 1 Omnath, Locus of Creation
-2 Jetmir's Garden
 1 Xander's Lounge
-1 Callous Bloodmage
 1 Sin Collector
-3 Moon-Blessed Cleric
-2 Caves of Koilos
 2 Savai Triome
 4 Lithoform Blight
+1 Caves of Koilos
+2 Caves of Koilos
 1 Island
 1 Elspeth Conquers Death
 1 Drowned Catacomb
@@ -80,10 +79,12 @@
 2 Fabled Passage
 3 Fabled Passage
 1 Showdown of the Skalds
+1 Oath of Nissa
 1 Massacre Girl
 1 Hall of Storm Giants
-1 Oath of Nissa
 2 Oath of Nissa
+3 Moon-Blessed Cleric
+3 Jetmir's Garden
 4 Fable of the Mirror-Breaker
 2 Hinterland Harbor
 2 Glacial Fortress
@@ -101,10 +102,11 @@
 1 Wolfwillow Haven
 2 Wolfwillow Haven
 3 Wolfwillow Haven
-3 Jetmir's Garden
+2 Hallowed Fountain
+3 Hallowed Fountain
+1 Oath of Chandra
 1 Llanowar Wastes
 2 Llanowar Wastes
-1 Shark Typhoon
 3 Steam Vents
 1 Nicol Bolas, the Ravager
 1 Chandra, Awakened Inferno
@@ -115,6 +117,7 @@
 2 Interplanar Beacon
 2 Fae of Wishes
 1 Geier Reach Sanitarium
+1 Shark Typhoon
 1 Supreme Verdict
 1 The Wandering Emperor
 1 Elspeth, Sun's Champion
@@ -128,27 +131,26 @@
 3 Narset, Parter of Veils
 4 Interplanar Beacon
 4 Narset, Parter of Veils
+1 Archon of Emeria
+1 Workshop Warchief
 1 Golos, Tireless Pilgrim
 1 Elite Spellbinder
 1 Kunoros, Hound of Athreos
 1 Concealed Courtyard
 1 Fblthp, the Lost
-1 Oath of Chandra
 2 Dreamroot Cascade
 1 Raffine, Scheming Seer
 2 Archon of Sun's Grace
-1 Wandering Mind
-1 Klothys, God of Destiny
-1 Cemetery Prowler
-1 Plaguecrafter
-2 Brightclimb Pathway
-3 Stomping Ground
-1 Workshop Warchief
-2 Hallowed Fountain
-3 Hallowed Fountain
 1 Azusa's Many Journeys
 2 Azusa's Many Journeys
 3 Azusa's Many Journeys
+1 Keranos, God of Storms
+1 Wandering Mind
+1 Urban Utopia
+1 Champion of Wits
+2 Urban Utopia
+4 Hallowed Fountain
+4 Wolfwillow Haven
 4 Fabled Passage
 1 Eldrazi Displacer
 1 Yavimaya Coast
@@ -166,13 +168,11 @@
 4 Siege Rhino
 4 Omen of the Forge
 4 Oath of Kaya
-4 Wolfwillow Haven
 1 Sulfur Falls
 1 Anger of the Gods
 1 Nicol Bolas, Dragon-God
 2 Anger of the Gods
 1 Search for Azcanta
-1 Heartless Act
 1 Thoughtseize
 1 Grafdigger's Cage
 1 Enter the God-Eternals
@@ -181,18 +181,19 @@
 1 Ritual of Soot
 1 Bedevil
 1 Clearwater Pathway
+1 Heartless Act
 1 Valki, God of Lies
 1 Dragonskull Summit
-2 Heartless Act
+2 Valki, God of Lies
 2 Dragonskull Summit
 2 Blood Crypt
-2 Valki, God of Lies
+2 Heartless Act
 2 Chandra, Awakened Inferno
 2 Thoughtseize
 2 Search for Azcanta
+2 Riverglide Pathway
 2 Nicol Bolas, Dragon-God
 2 Nicol Bolas, the Ravager
-2 Riverglide Pathway
 2 Ritual of Soot
 2 Watery Grave
 2 Enter the God-Eternals
@@ -207,9 +208,9 @@
 4 Blood Crypt
 1 Sweltering Suns
 1 Stormcarved Coast
-1 Emeria's Call
-1 Chandra, Torch of Defiance
 1 Sundown Pass
+1 Chandra, Torch of Defiance
+1 Emeria's Call
 1 Commit/Memory
 1 Deserted Beach
 1 Gideon of the Trials
@@ -220,18 +221,18 @@
 2 Deserted Beach
 2 Sweltering Suns
 2 Gideon of the Trials
-3 Stormcarved Coast
 3 Deserted Beach
+3 Stormcarved Coast
 3 Sundown Pass
 3 Shark Typhoon
 3 Supreme Verdict
-4 Sundown Pass
 4 Stormcarved Coast
+4 Sundown Pass
 4 Shark Typhoon
 4 Fae of Wishes
 1 Clifftop Retreat
-1 Nicol Bolas, God-Pharaoh
 1 Expressive Iteration
+1 Nicol Bolas, God-Pharaoh
 1 Castle Ardenvale
 1 Sokenzan, Crucible of Defiance
 2 Expressive Iteration
