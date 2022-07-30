@@ -17,12 +17,12 @@
 
 # Historic
 
-|                                 A                                  |                                      B                                       |                                 C                                  |                                     D                                      |                            E                             |
-|--------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------|
-|[Azorius Affinity](./mtggoldfish/Historic/decks/Azorius_Affinity.md)|[Esper Control](./mtggoldfish/Historic/decks/Esper_Control.md)                |[Mono-Black Aggro](./mtggoldfish/Historic/decks/Mono-Black_Aggro.md)|[Rakdos Goblins](./mtggoldfish/Historic/decks/Rakdos_Goblins.md)            |[Temur Combo](./mtggoldfish/Historic/decks/Temur_Combo.md)|
-|[Azorius Auras](./mtggoldfish/Historic/decks/Azorius_Auras.md)      |[Five-color Humans](./mtggoldfish/Historic/decks/Five-color_Humans.md)        |[Mono-Blue Tempo](./mtggoldfish/Historic/decks/Mono-Blue_Tempo.md)  |[Selesnya Angels](./mtggoldfish/Historic/decks/Selesnya_Angels.md)          |                                                          |
-|[Azorius Yorion](./mtggoldfish/Historic/decks/Azorius_Yorion.md)    |[Golgari Food](./mtggoldfish/Historic/decks/Golgari_Food.md)                  |[Mono-Red Aggro](./mtggoldfish/Historic/decks/Mono-Red_Aggro.md)    |[Selesnya Enchantress](./mtggoldfish/Historic/decks/Selesnya_Enchantress.md)|                                                          |
-|[Dimir Rogues](./mtggoldfish/Historic/decks/Dimir_Rogues.md)        |[Grixis Death's Shadow](./mtggoldfish/Historic/decks/Grixis_Death's_Shadow.md)|[Rakdos Arcanis](./mtggoldfish/Historic/decks/Rakdos_Arcanis.md)    |[Simic Merfolk](./mtggoldfish/Historic/decks/Simic_Merfolk.md)              |                                                          |
+|                                 A                                  |                                      B                                       |                                   C                                    |                                     D                                      |                            E                             |
+|--------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------|
+|[Azorius Affinity](./mtggoldfish/Historic/decks/Azorius_Affinity.md)|[Esper Control](./mtggoldfish/Historic/decks/Esper_Control.md)                |[Mono-Black Aggro](./mtggoldfish/Historic/decks/Mono-Black_Aggro.md)    |[Rakdos Arcanis](./mtggoldfish/Historic/decks/Rakdos_Arcanis.md)            |[Temur Combo](./mtggoldfish/Historic/decks/Temur_Combo.md)|
+|[Azorius Auras](./mtggoldfish/Historic/decks/Azorius_Auras.md)      |[Five-color Humans](./mtggoldfish/Historic/decks/Five-color_Humans.md)        |[Mono-Black Control](./mtggoldfish/Historic/decks/Mono-Black_Control.md)|[Rakdos Goblins](./mtggoldfish/Historic/decks/Rakdos_Goblins.md)            |                                                          |
+|[Azorius Yorion](./mtggoldfish/Historic/decks/Azorius_Yorion.md)    |[Golgari Food](./mtggoldfish/Historic/decks/Golgari_Food.md)                  |[Mono-Blue Tempo](./mtggoldfish/Historic/decks/Mono-Blue_Tempo.md)      |[Selesnya Enchantress](./mtggoldfish/Historic/decks/Selesnya_Enchantress.md)|                                                          |
+|[Dimir Rogues](./mtggoldfish/Historic/decks/Dimir_Rogues.md)        |[Grixis Death's Shadow](./mtggoldfish/Historic/decks/Grixis_Death's_Shadow.md)|[Mono-Red Aggro](./mtggoldfish/Historic/decks/Mono-Red_Aggro.md)        |[Simic Merfolk](./mtggoldfish/Historic/decks/Simic_Merfolk.md)              |                                                          |
 
 
 # Pioneer
@@ -75,4 +75,4 @@
 
 
 
-#### Last Updated at 12:45PM on July 29, 2022
+#### Last Updated at 12:39AM on July 30, 2022

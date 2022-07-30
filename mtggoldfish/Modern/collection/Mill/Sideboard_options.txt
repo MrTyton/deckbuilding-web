@@ -5,12 +5,11 @@
 1 Ashiok, Dream Render
 2 Crypt Incursion
 1 Baleful Mastery
-1 Moment of Craving
 2 Ashiok, Dream Render
 1 Test of Talents
 2 Test of Talents
 1 Chalice of the Void
-2 Moment of Craving
+1 Moment of Craving
 2 Damnation
 1 Thoughtseize
 1 Glimpse the Unthinkable
@@ -19,17 +18,18 @@
 2 Force of Negation
 3 Thoughtseize
 4 Thoughtseize
+2 Moment of Craving
+3 Mystical Dispute
+4 Soul-Guide Lantern
+1 The Reality Chip
 1 Nihil Spellbomb
 3 Moment of Craving
 4 Moment of Craving
-3 Mystical Dispute
-4 Soul-Guide Lantern
-2 Echoing Truth
-1 The Reality Chip
 1 Bribery
 1 Doom Blade
 2 Chalice of the Void
 1 Surgical Extraction
+2 Echoing Truth
 2 Bribery
 1 Collective Brutality
 2 Collective Brutality
@@ -55,11 +55,6 @@
 2 Profane Memento
 3 Ravenous Trap
 3 Profane Memento
-1 Counterspell
-1 Revenge of Ravens
-2 Counterspell
-2 Revenge of Ravens
-3 Revenge of Ravens
 1 Leyline of the Void
 1 Mesmeric Orb
 2 Leyline of the Void
@@ -74,5 +69,8 @@
 3 Flusterstorm
 3 Inquisition of Kozilek
 4 Flusterstorm
-3 Crypt Incursion
-4 Crypt Incursion
+1 Counterspell
+1 Revenge of Ravens
+2 Counterspell
+2 Revenge of Ravens
+3 Revenge of Ravens
