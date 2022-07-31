@@ -15,7 +15,6 @@
 1 Nullpriest of Oblivion
 1 Starnheim Unleashed
 1 March of Wretched Sorrow
-1 Inscription of Abundance
 1 Dismal Backwater
 1 Vanishing Verse
 1 Toxrill, the Corrosive
@@ -28,6 +27,7 @@
 1 Icingdeath, Frost Tyrant
 1 Kura, the Boundless Sky
 1 Mind Flayer
+1 Inscription of Abundance
 1 Bloodfell Caves
 1 Thornwood Falls
 1 Tanazir Quandrix
@@ -72,11 +72,11 @@
 3 Binding the Old Gods
 1 The World Tree
 2 Wrenn and Seven
-1 Fable of the Mirror-Breaker
 1 Disdainful Stroke
 1 Ziatora's Proving Ground
 1 Courier's Briefcase
 1 Spara's Headquarters
+1 Fable of the Mirror-Breaker
 1 Dreamroot Cascade
 2 Fable of the Mirror-Breaker
 2 Titan of Industry
@@ -99,18 +99,18 @@
 1 Olivia, Crimson Bride
 2 The Meathook Massacre
 2 Infernal Grasp
-1 Alrund's Epiphany
 1 Crawling Barrens
+1 Alrund's Epiphany
 2 Alrund's Epiphany
 4 Binding the Old Gods
 1 Lair of the Hydra
 1 Path to the World Tree
 1 Saw It Coming
-2 Island
 2 Plains
 2 Path to the World Tree
 2 Saw It Coming
 2 Forest
+2 Island
 2 Swamp
 2 Mountain
 3 Saw It Coming
@@ -122,13 +122,13 @@
 1 Takenuma, Abandoned Mire
 1 Elspeth Resplendent
 1 Jin-Gitaxias, Progress Tyrant
-1 Sundown Pass
 1 Sorin the Mirthless
 1 Raffine's Tower
 1 Greasefang, Okiba Boss
 1 Raffine, Scheming Seer
 1 Fateful Absence
 1 Xander's Lounge
+1 Sundown Pass
 1 Dig Up
 1 The Restoration of Eiganjo
 1 Eiganjo, Seat of the Empire
@@ -173,10 +173,10 @@
 2 Path to the Festival
 2 Evolving Wilds
 2 Cinderclasm
-3 Forest
 3 The Meathook Massacre
 3 Bloodchief's Thirst
 3 Swamp
+3 Forest
 3 Evolving Wilds
 4 Evolving Wilds
 1 Cave of the Frost Dragon
@@ -238,8 +238,8 @@
 1 Storm the Festival
 1 Fight Rigging
 1 Evelyn, the Covetous
-2 Stormcarved Coast
 2 Unleash the Inferno
+2 Stormcarved Coast
 2 Fight Rigging
 2 In Search of Greatness
 2 Deathcap Glade
@@ -250,7 +250,6 @@
 1 Blood on the Snow
 1 Shambling Ghast
 1 Snow-Covered Mountain
-1 Abrade
 1 Feed the Swarm
 1 Power Word Kill
 1 Snow-Covered Forest
@@ -267,6 +266,7 @@
 1 Snow-Covered Swamp
 1 Mortality Spear
 1 Dragonkin Berserker
+1 Abrade
 2 Snow-Covered Swamp
 2 Snow-Covered Mountain
 2 Snow-Covered Forest

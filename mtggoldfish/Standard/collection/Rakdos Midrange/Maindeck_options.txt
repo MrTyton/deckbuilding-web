@@ -1,5 +1,5 @@
-2 Skyclave Shade
 2 Roil Eruption
+2 Skyclave Shade
 3 Skyclave Shade
 1 Rabbit Battery
 2 Rabbit Battery
@@ -50,12 +50,12 @@
 2 Shambling Ghast
 3 Deadly Dispute
 3 Hive of the Eye Tyrant
-7 Swamp
 7 Mountain
+7 Swamp
 1 Light Up the Night
 1 Big Score
-2 Light Up the Night
 2 Lolth, Spider Queen
+2 Light Up the Night
 2 Big Score
 3 Valki, God of Lies
 4 Valki, God of Lies
@@ -96,38 +96,17 @@
 4 Sulfurous Mire
 1 Junji, the Midnight Sky
 1 Henrika Domnathi
-1 Lizard Blades
 1 Concealing Curtains
-2 Lizard Blades
+1 Lizard Blades
 2 Concealing Curtains
+2 Lizard Blades
 3 Concealing Curtains
 4 Voltage Surge
-1 Hoarding Ogre
-1 Magic Missile
-1 Sudden Breakthrough
-2 Magic Missile
-2 Xorn
-2 Hoarding Ogre
-2 Sudden Breakthrough
-3 Magic Missile
-3 Xorn
-3 Orcus, Prince of Undeath
-4 Hive of the Eye Tyrant
-1 Falkenrath Pit Fighter
-1 Nullpriest of Oblivion
-1 Duress
-2 Falkenrath Pit Fighter
-2 Nullpriest of Oblivion
-2 Duress
-3 Falkenrath Pit Fighter
-3 Bloodthirsty Adversary
-4 Falkenrath Pit Fighter
-4 Bloodthirsty Adversary
 4 Skyclave Shade
 1 Riveteers Requisitioner
 1 Professional Face-Breaker
-2 Agadeem's Awakening
 2 Riveteers Requisitioner
+2 Agadeem's Awakening
 2 Professional Face-Breaker
 3 Riveteers Requisitioner
 3 Professional Face-Breaker
@@ -141,6 +120,16 @@
 3 Cragcrown Pathway
 4 Cragcrown Pathway
 4 Roil Eruption
+1 Nullpriest of Oblivion
+1 Falkenrath Pit Fighter
+1 Duress
+2 Nullpriest of Oblivion
+2 Falkenrath Pit Fighter
+2 Duress
+3 Bloodthirsty Adversary
+3 Falkenrath Pit Fighter
+4 Bloodthirsty Adversary
+4 Falkenrath Pit Fighter
 1 Blood on the Snow
 1 Snow-Covered Swamp
 1 Eyetwitch
@@ -149,14 +138,14 @@
 2 Snow-Covered Swamp
 2 Eyetwitch
 2 Snow-Covered Mountain
+3 Blood on the Snow
 3 Snow-Covered Swamp
 3 Eyetwitch
 3 Snow-Covered Mountain
-3 Blood on the Snow
+4 Blood on the Snow
 4 Snow-Covered Swamp
 4 Eyetwitch
 4 Snow-Covered Mountain
-4 Blood on the Snow
 4 Skullport Merchant
 5 Snow-Covered Swamp
 5 Snow-Covered Mountain
@@ -185,3 +174,14 @@
 9 Swamp
 9 Mountain
 10 Mountain
+1 Hoarding Ogre
+1 Magic Missile
+1 Sudden Breakthrough
+2 Magic Missile
+2 Xorn
+2 Hoarding Ogre
+2 Sudden Breakthrough
+3 Magic Missile
+3 Xorn
+3 Orcus, Prince of Undeath
+4 Hive of the Eye Tyrant

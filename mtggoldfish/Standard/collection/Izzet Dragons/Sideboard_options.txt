@@ -28,10 +28,10 @@
 3 Test of Talents
 1 Invoke the Winds
 2 Mind Flayer
-1 Alchemist's Gambit
 1 Galvanic Iteration
-2 Alchemist's Gambit
+1 Alchemist's Gambit
 2 Galvanic Iteration
+2 Alchemist's Gambit
 3 Alchemist's Gambit
 3 Abrade
 3 Out of the Way
@@ -44,33 +44,25 @@
 1 Reject
 2 Environmental Sciences
 2 Reject
-1 Into the Roil
 1 Curse of Shaken Faith
+1 Into the Roil
 1 Burning Hands
 1 Dragon's Fire
 1 Torch Breath
-2 Reckoner Bankbuster
 1 March of Swirling Mist
 2 Behold the Multiverse
-2 Introduction to Annihilation
+2 Reckoner Bankbuster
 1 Goldspan Dragon
 1 Unlicensed Hearse
 2 Unlicensed Hearse
+2 Introduction to Annihilation
 2 Battle of Frost and Fire
 2 Fading Hope
 2 Into the Roil
 3 Negate
-2 Curse of Shaken Faith
-3 Cinderclasm
 1 Cyclone Summoner
 2 Cyclone Summoner
 3 Malevolent Hermit
-1 Bloodthirsty Adversary
-1 Chandra, Dressed to Kill
-2 Bloodthirsty Adversary
-2 Chandra, Dressed to Kill
-3 Bloodthirsty Adversary
-3 Chandra, Dressed to Kill
 1 Inferno of the Star Mounts
 1 Ray of Frost
 2 Burning Hands
@@ -78,9 +70,17 @@
 3 Ray of Frost
 2 Dragon's Fire
 2 Wandering Mind
+3 Dragon's Fire
 3 Disdainful Stroke
 3 Wandering Mind
-3 Dragon's Fire
+1 Bloodthirsty Adversary
+1 Chandra, Dressed to Kill
+2 Chandra, Dressed to Kill
+2 Bloodthirsty Adversary
+3 Chandra, Dressed to Kill
+3 Bloodthirsty Adversary
+2 Curse of Shaken Faith
+3 Cinderclasm
 1 Delver of Secrets
 1 Karfell Harbinger
 2 Delver of Secrets

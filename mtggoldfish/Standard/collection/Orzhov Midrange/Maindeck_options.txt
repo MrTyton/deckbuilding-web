@@ -77,15 +77,15 @@
 1 Sejiri Shelter
 1 Farewell
 1 Deadly Dispute
-1 Shambling Ghast
 1 Welcoming Vampire
 1 Rite of Oblivion
+1 Shambling Ghast
 2 Deadly Dispute
 2 Shambling Ghast
 2 Edgar, Charmed Groom
 2 Rite of Oblivion
-3 Deadly Dispute
 3 Shambling Ghast
+3 Deadly Dispute
 3 The Meathook Massacre
 4 Deadly Dispute
 1 Starnheim Aspirant
@@ -114,13 +114,13 @@
 2 Skyclave Apparition
 2 Adeline, Resplendent Cathar
 1 Professor of Symbology
-1 March of Otherworldly Light
 1 March of Wretched Sorrow
+1 March of Otherworldly Light
 1 Invoke Despair
-2 Professor of Symbology
-2 Sorin the Mirthless
-2 Welcoming Vampire
 2 March of Wretched Sorrow
+2 Sorin the Mirthless
+2 Professor of Symbology
+2 Welcoming Vampire
 2 Invoke Despair
 2 March of Otherworldly Light
 3 Professor of Symbology
@@ -139,26 +139,26 @@
 2 Path of Peril
 3 Hive of the Eye Tyrant
 3 Graveyard Trespasser
+1 Agadeem's Awakening
+1 Luxior, Giada's Gift
+1 Eyetwitch
+1 Kaya, Geist Hunter
+2 Eyetwitch
+2 Luxior, Giada's Gift
+3 Eyetwitch
+4 Eyetwitch
 1 Baleful Mastery
 1 Intrepid Adversary
 1 Tenacious Underdog
 2 Tenacious Underdog
 2 Baleful Mastery
 2 Intrepid Adversary
-3 Tenacious Underdog
 3 Duress
 3 Intrepid Adversary
+3 Tenacious Underdog
 4 Intrepid Adversary
-4 Tenacious Underdog
 4 Vanishing Verse
-1 Eyetwitch
-1 Agadeem's Awakening
-1 Luxior, Giada's Gift
-1 Kaya, Geist Hunter
-2 Eyetwitch
-2 Luxior, Giada's Gift
-3 Eyetwitch
-4 Eyetwitch
+4 Tenacious Underdog
 1 Sungold Sentinel
 1 Portable Hole
 1 Brutal Cathar
@@ -179,9 +179,9 @@
 1 Cleric Class
 1 The Long Reach of Night
 1 Valkyrie's Sword
-2 Cleric Class
 2 Valkyrie Harbinger
 2 Kaya the Inexorable
+2 Cleric Class
 2 Farewell
 2 The Long Reach of Night
 2 Valkyrie's Sword

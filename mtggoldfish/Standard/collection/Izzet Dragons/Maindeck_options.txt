@@ -110,16 +110,16 @@
 8 Mountain
 9 Mountain
 10 Mountain
-1 Thundering Rebuke
 1 Cosmos Elixir
 1 Swiftwater Cliffs
+1 Thundering Rebuke
 1 Professional Face-Breaker
-1 Eater of Virtue
-1 Play with Fire
 1 Karfell Harbinger
 1 Lullmage's Domination
+1 Eater of Virtue
 1 Delina, Wild Mage
 1 Shimmerdrift Vale
+1 Play with Fire
 1 Poppet Stitcher
 1 Jace, Mirror Mage
 1 Seize the Spoils
@@ -168,8 +168,8 @@
 1 Rowan, Scholar of Sparks
 1 Arcane Investigator
 1 Chaos Channeler
-2 Thundering Rebuke
 2 Swiftwater Cliffs
+2 Thundering Rebuke
 2 Karfell Harbinger
 2 Volatile Fjord
 2 Feywild Trickster
@@ -184,11 +184,11 @@
 2 Delina, Wild Mage
 2 Farideh, Devil's Chosen
 2 Pixie Guide
-3 Thundering Rebuke
 3 Swiftwater Cliffs
 3 Shimmerdrift Vale
 3 Scion of Stygia
 3 Pixie Guide
+3 Thundering Rebuke
 3 Volatile Fjord
 3 Xander's Lounge
 3 Barbarian Class
@@ -249,11 +249,6 @@
 3 Delver of Secrets
 3 Frostboil Snarl
 4 Delver of Secrets
-2 Wandering Mind
-2 Bloodthirsty Adversary
-3 Wandering Mind
-3 Bloodthirsty Adversary
-4 Bloodthirsty Adversary
 1 Mirrorshell Crab
 1 Temple of the Dragon Queen
 2 Iymrith, Desert Doom
@@ -272,6 +267,11 @@
 3 Unexpected Windfall
 4 Unexpected Windfall
 4 Smoldering Egg
+2 Bloodthirsty Adversary
+2 Wandering Mind
+3 Wandering Mind
+3 Bloodthirsty Adversary
+4 Bloodthirsty Adversary
 1 Alchemist's Gambit
 1 Inferno of the Star Mounts
 1 Manaform Hellkite
@@ -285,15 +285,15 @@
 4 Manaform Hellkite
 4 Alchemist's Gambit
 1 Cleansing Wildfire
-1 Smashing Success
 1 Heated Debate
+1 Smashing Success
 2 Cleansing Wildfire
 2 Abrade
 2 Heated Debate
 2 Smashing Success
 3 Cleansing Wildfire
-3 Den of the Bugbear
 3 Smashing Success
+3 Den of the Bugbear
 4 Reckoner Bankbuster
 4 Field of Ruin
 4 Cleansing Wildfire

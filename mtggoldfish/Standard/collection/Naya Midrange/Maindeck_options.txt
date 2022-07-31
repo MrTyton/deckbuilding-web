@@ -16,8 +16,8 @@
 3 Brutal Cathar
 1 Hopeful Initiate
 1 Snakeskin Veil
-2 Snakeskin Veil
 2 Hopeful Initiate
+2 Snakeskin Veil
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
@@ -25,16 +25,16 @@
 1 Chaplain of Alms
 1 Adeline, Resplendent Cathar
 2 Adeline, Resplendent Cathar
-3 Snakeskin Veil
 3 Hopeful Initiate
+3 Snakeskin Veil
 4 Snakeskin Veil
 2 Cave of the Frost Dragon
 1 Elite Spellbinder
 2 Elite Spellbinder
 3 Elite Spellbinder
 1 Kabira Takedown
-3 Adeline, Resplendent Cathar
 3 Cave of the Frost Dragon
+3 Adeline, Resplendent Cathar
 4 Halana and Alena, Partners
 1 Boseiju, Who Endures
 2 Sundown Pass
@@ -71,10 +71,10 @@
 4 Hopeful Initiate
 1 Kazandu Mammoth
 2 Kazandu Mammoth
-3 Kazandu Mammoth
-3 Workshop Warchief
 3 Tangled Florahedron
 3 Elspeth Resplendent
+3 Workshop Warchief
+3 Kazandu Mammoth
 4 Kazandu Mammoth
 2 Reidane, God of the Worthy
 4 Storm the Festival
@@ -113,14 +113,20 @@
 1 Outland Liberator
 2 Outland Liberator
 1 Showdown of the Skalds
-1 Thundering Rebuke
 1 March of Otherworldly Light
 1 Fateful Absence
+1 Thundering Rebuke
 1 Tamiyo's Safekeeping
-2 Thundering Rebuke
 2 Showdown of the Skalds
-1 Black Market Tycoon
+2 Thundering Rebuke
+1 Reckless Stormseeker
+1 Sejiri Shelter
+2 Valorous Stance
+2 Reckless Stormseeker
+3 Secluded Courtyard
+4 Thalia, Guardian of Thraben
 1 Maul of the Skyclaves
+1 Black Market Tycoon
 1 Forging the Tyrite Sword
 2 Black Market Tycoon
 2 Forging the Tyrite Sword
@@ -130,63 +136,27 @@
 1 Courier's Briefcase
 2 Courier's Briefcase
 4 Goldspan Dragon
-1 Sejiri Shelter
-1 Reckless Stormseeker
-2 Valorous Stance
-2 Reckless Stormseeker
-3 Secluded Courtyard
-4 Thalia, Guardian of Thraben
-1 Dragon's Fire
-1 Professional Face-Breaker
-1 Inferno of the Star Mounts
-2 Moonveil Regent
-2 Dragon's Fire
-3 Dragon's Fire
-4 Dragon's Fire
-4 Elite Spellbinder
-1 The Restoration of Eiganjo
-1 Turntimber Symbiosis
-1 Vivien on the Hunt
-1 Cleric Class
-1 Paladin Class
-1 Vorinclex, Monstrous Raider
-1 Cabaretti Courtyard
-1 Flameskull
-2 The Restoration of Eiganjo
-2 Vivien on the Hunt
-2 Cleric Class
-2 Vorinclex, Monstrous Raider
-2 Cabaretti Courtyard
-3 The Restoration of Eiganjo
-3 Vivien on the Hunt
-3 Cabaretti Courtyard
-3 Ao, the Dawn Sky
-4 The Restoration of Eiganjo
-4 Fleetfoot Dancer
-4 Cabaretti Courtyard
 1 Sigrid, God-Favored
 3 Katilda, Dawnhart Prime
 3 Extraction Specialist
 4 Skyclave Apparition
 4 Brutal Cathar
 4 Extraction Specialist
+1 Arlinn, the Pack's Hope
 1 Ascendant Packleader
 1 Oran-Rief Ooze
-1 Arlinn, the Pack's Hope
-2 Ranger Class
-2 Ascendant Packleader
 2 Inscription of Abundance
+2 Ascendant Packleader
+2 Ranger Class
 2 Oran-Rief Ooze
-3 Ranger Class
 3 Forest
+3 Ranger Class
 3 Oran-Rief Ooze
 3 Ascendant Packleader
-4 Ranger Class
 4 The Wandering Emperor
 4 Ascendant Packleader
 4 Oran-Rief Ooze
-1 Goro-Goro, Disciple of Ryusei
-1 Commune with Spirits
+4 Ranger Class
 1 Shatterskull Smashing
 1 Strangle
 1 Kolvori, God of Kinship
@@ -194,12 +164,14 @@
 1 Mirror Box
 1 Rocco, Cabaretti Caterer
 1 Esika, God of the Tree
+1 Goro-Goro, Disciple of Ryusei
+1 Commune with Spirits
 1 Bard Class
 1 Minsc, Beloved Ranger
-2 Lair of the Hydra
 2 Shatterskull Smashing
 2 Strangle
 2 Bard Class
+2 Lair of the Hydra
 2 Targ Nar, Demon-Fang Gnoll
 2 Mirror Box
 2 Minsc, Beloved Ranger
@@ -212,3 +184,31 @@
 3 Bard Class
 4 Strangle
 4 Bard Class
+1 Professional Face-Breaker
+1 Inferno of the Star Mounts
+1 Dragon's Fire
+2 Dragon's Fire
+2 Moonveil Regent
+3 Dragon's Fire
+4 Elite Spellbinder
+4 Dragon's Fire
+1 Cleric Class
+1 The Restoration of Eiganjo
+1 Turntimber Symbiosis
+1 Paladin Class
+1 Vorinclex, Monstrous Raider
+1 Cabaretti Courtyard
+1 Flameskull
+1 Vivien on the Hunt
+2 Cleric Class
+2 Vorinclex, Monstrous Raider
+2 Vivien on the Hunt
+2 Cabaretti Courtyard
+2 The Restoration of Eiganjo
+3 Vivien on the Hunt
+3 Cabaretti Courtyard
+3 The Restoration of Eiganjo
+3 Ao, the Dawn Sky
+4 Cabaretti Courtyard
+4 Fleetfoot Dancer
+4 The Restoration of Eiganjo
