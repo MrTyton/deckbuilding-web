@@ -1,13 +1,13 @@
+1 The Celestus
 1 Swamp
 1 Godless Shrine
 1 Mountain
 1 Fabled Passage
 2 Fabled Passage
 3 Fabled Passage
-1 Shadows' Verdict
-1 The Celestus
 2 Zagoth Triome
 3 Omnath, Locus of Creation
+1 Shadows' Verdict
 2 Ziatora's Proving Ground
 3 Zagoth Triome
 1 Glacial Fortress
@@ -21,7 +21,6 @@
 3 Growth Spiral
 1 Yasharn, Implacable Earth
 3 Dreadbore
-1 Tolsimir, Friend to Wolves
 1 Fatal Push
 2 Fatal Push
 3 Jetmir's Garden
@@ -33,20 +32,21 @@
 4 Jetmir's Garden
 4 Zagoth Triome
 1 Drown in the Loch
-2 Overgrown Tomb
-1 Klothys, God of Destiny
+1 Tolsimir, Friend to Wolves
 4 Vanishing Verse
+2 Overgrown Tomb
 1 Supreme Verdict
+1 Ketria Triome
+1 Klothys, God of Destiny
 4 Wandering Mind
 4 Fatal Push
 3 Abrupt Decay
-1 Ketria Triome
-1 Hinterland Harbor
 2 Indatha Triome
 3 Indatha Triome
-2 Drowned Catacomb
+1 Hinterland Harbor
 2 Savai Triome
 1 Prismari Command
+1 Temple Garden
 1 Deathrite Shaman
 1 Evolving Wilds
 1 Kambal, Consul of Allocation
@@ -55,9 +55,10 @@
 3 Deathrite Shaman
 4 Niv-Mizzet Reborn
 1 Stomping Ground
+2 Drowned Catacomb
 3 Savai Triome
-1 Temple Garden
 2 Hallowed Fountain
+1 Hidetsugu Consumes All
 1 Xander's Lounge
 1 Flower/Flourish
 1 Haunted Ridge
@@ -71,7 +72,6 @@
 1 Unmoored Ego
 1 Assassin's Trophy
 2 Glacial Fortress
-1 Hidetsugu Consumes All
 1 Dovin's Veto
 2 Raugrin Triome
 3 Raugrin Triome
@@ -108,8 +108,8 @@
 2 Thoughtseize
 2 Bloodtithe Harvester
 2 Deafening Clarion
-2 Isolated Chapel
 2 Kroxa, Titan of Death's Hunger
+2 Isolated Chapel
 2 Clifftop Retreat
 3 Ketria Triome
 3 Thoughtseize
