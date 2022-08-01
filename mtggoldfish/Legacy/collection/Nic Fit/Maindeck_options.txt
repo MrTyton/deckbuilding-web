@@ -1,5 +1,5 @@
-1 Snow-Covered Island
 1 Misty Rainforest
+1 Snow-Covered Island
 1 Tropical Island
 1 Uro, Titan of Nature's Wrath
 1 Ice-Fang Coatl
@@ -9,21 +9,31 @@
 2 Brainstorm
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
+1 Assassin's Trophy
 1 Leovold, Emissary of Trest
 3 Brainstorm
 4 Brainstorm
 2 Uro, Titan of Nature's Wrath
 3 Misty Rainforest
-1 Assassin's Trophy
-4 Misty Rainforest
 1 Sylvan Library
-2 Snow-Covered Island
+1 Deadly Brew
+2 Deadly Brew
+4 Grief
+2 Snow-Covered Swamp
+4 Misty Rainforest
 3 Uro, Titan of Nature's Wrath
+1 Scavenging Ooze
+1 Wasteland
+2 Assassin's Trophy
+1 Taiga
+2 Snow-Covered Island
+3 Snow-Covered Forest
 1 Ponder
+3 Deadly Brew
+1 Thoughtseize
 2 Abrupt Decay
 2 Ponder
 3 Ponder
-3 Snow-Covered Forest
 1 Living Wish
 1 Acererak the Archlich
 1 Force of Will
@@ -36,60 +46,48 @@
 3 Living Wish
 3 Aluren
 4 Force of Will
-1 Scavenging Ooze
-1 Wasteland
-2 Assassin's Trophy
-1 Thoughtseize
-2 Snow-Covered Swamp
-1 Deadly Brew
-2 Deadly Brew
-4 Grief
-2 Acererak the Archlich
 4 Aluren
 1 Spellseeker
 4 Ponder
 1 Diabolic Intent
 1 Tireless Tracker
-1 Eternal Witness
 1 Vivien, Monsters' Advocate
+1 Eternal Witness
 1 Windswept Heath
 1 Polluted Delta
-1 Taiga
 1 Snow-Covered Mountain
+2 Acererak the Archlich
 3 Acererak the Archlich
 2 Thoughtseize
 3 Forest
 3 Swamp
 4 Forest
-3 Deadly Brew
+1 Kalitas, Traitor of Ghet
 2 Tropical Island
 2 Polluted Delta
 4 Witherbloom Apprentice
 2 Grist, the Hunger Tide
-1 Prismatic Vista
 1 Village Rites
 1 Field of the Dead
 2 Windswept Heath
 2 Spellseeker
 1 Henrika Domnathi
-1 Kalitas, Traitor of Ghet
 1 Titania, Protector of Argoth
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 4 Karn, the Great Creator
-4 Ice-Fang Coatl
-2 Prismatic Vista
-4 Swamp
-3 Abrupt Decay
 3 Pernicious Deed
+4 Swamp
+1 Prismatic Vista
+1 Mountain
 2 Sylvan Library
 1 Sylvan Safekeeper
 1 Shifting Ceratops
 2 Village Rites
 1 Crop Rotation
 1 Bojuka Bog
-1 Cavern Harpy
+4 Deadly Brew
 1 Ancient Tomb
 2 Ancient Tomb
 1 Feign Death
@@ -97,18 +95,20 @@
 3 Feign Death
 4 Feign Death
 1 Plumb the Forbidden
-1 Yavimaya, Cradle of Growth
-1 Outland Liberator
 1 Sedgemoor Witch
 2 Sedgemoor Witch
 3 Sedgemoor Witch
-3 Assassin's Trophy
-3 Bayou
-4 Bayou
+1 Yavimaya, Cradle of Growth
+1 Outland Liberator
 1 Paradox Zone
+1 Primeval Titan
 1 Life from the Loam
 1 Island
-1 Primeval Titan
+3 Assassin's Trophy
+2 Prismatic Vista
+3 Bayou
+4 Bayou
+4 Ice-Fang Coatl
 1 Hexdrinker
 1 Ramunap Excavator
 1 Collector Ouphe
@@ -116,7 +116,7 @@
 1 Knight of Autumn
 1 Savannah
 1 The Meathook Massacre
-1 Mountain
+3 Abrupt Decay
 2 Wasteland
 1 Badlands
 1 Mayhem Devil
@@ -127,6 +127,7 @@
 3 Mayhem Devil
 3 Greater Gargadon
 1 Liliana, the Last Hope
+3 Snow-Covered Swamp
 1 Snow-Covered Plains
 1 Arena Rector
 1 Ugin, the Spirit Dragon
@@ -142,14 +143,13 @@
 3 Path to Exile
 1 Tourach, Dread Cantor
 1 Sarulf, Realm Eater
-1 Baleful Strix
 1 Nurturing Peatland
 1 The Gitrog Monster
 1 Volrath's Stronghold
-2 Henrika Domnathi
 1 Unearth
 1 Bone Shards
 2 Bone Shards
+2 Henrika Domnathi
 1 Witherbloom Command
 1 Vivien Reid
 1 Jace, the Mind Sculptor
@@ -176,9 +176,7 @@
 2 The Meathook Massacre
 3 Boseiju, Who Endures
 3 Windswept Heath
-1 Dauthi Voidwalker
-2 Dauthi Voidwalker
-3 Dauthi Voidwalker
+1 Cavern Harpy
 2 Cavern Harpy
 3 Polluted Delta
 1 Abundant Harvest
@@ -192,6 +190,10 @@
 1 Blex, Vexing Pest
 2 Plumb the Forbidden
 3 Plumb the Forbidden
+1 Dauthi Voidwalker
+2 Dauthi Voidwalker
+3 Dauthi Voidwalker
+4 Wooded Foothills
 1 Elvish Reclaimer
 1 Korvold, Fae-Cursed King
 1 Fury
@@ -201,7 +203,6 @@
 4 Once Upon a Time
 4 Greater Gargadon
 4 Mayhem Devil
-4 Deadly Brew
 1 Plague Engineer
 2 Hexdrinker
 2 Plague Engineer
@@ -211,16 +212,15 @@
 5 Forest
 1 Overgrown Tomb
 1 Vraska, Golgari Queen
-1 Duress
 1 Kaya, Orzhov Usurper
+1 Duress
 1 Dead of Winter
 1 Fiend Artisan
 1 Garruk, Cursed Huntsman
 1 Canopy Vista
-2 Snow-Covered Plains
 2 Duress
+2 Snow-Covered Plains
 2 Crop Rotation
 2 Dead of Winter
-3 Snow-Covered Swamp
 5 Snow-Covered Forest
 4 Arena Rector

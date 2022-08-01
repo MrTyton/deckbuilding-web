@@ -36,8 +36,8 @@
 1 Noble Hierarch
 2 Noble Hierarch
 3 Fury
-2 Temple Garden
 2 Birds of Paradise
+2 Temple Garden
 2 Karmic Guide
 3 Noble Hierarch
 1 Horizon Canopy
@@ -116,9 +116,9 @@
 4 Lotus Cobra
 1 Glasspool Mimic
 2 Glasspool Mimic
-1 Batterskull
-1 Kaldra Compleat
 1 Stoneforge Mystic
+1 Kaldra Compleat
+1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
@@ -169,8 +169,8 @@
 1 Phyrexian Revoker
 1 Dovin's Veto
 1 Kira, Great Glass-Spinner
-1 Geist of Saint Traft
 1 Outland Liberator
+1 Geist of Saint Traft
 1 Cloudshift
 2 Dovin's Veto
 2 Geist of Saint Traft
@@ -191,17 +191,16 @@
 2 Fire/Ice
 1 Sun Titan
 2 Horizon Canopy
-1 Silence
 1 Ashiok, Dream Render
+1 Silence
 2 Ashiok, Dream Render
 2 Silence
-1 Nahiri, the Harbinger
-3 Fable of the Mirror-Breaker
 1 Wandering Mind
 1 The Wandering Emperor
 1 Hall of Storm Giants
 2 Wandering Mind
 3 Remand
+3 Prismatic Vista
 1 Kitchen Finks
 1 Polluted Delta
 2 Polluted Delta
@@ -209,13 +208,21 @@
 2 Kitchen Finks
 3 Hallowed Fountain
 3 Kitchen Finks
-3 Prismatic Vista
+1 Nahiri, the Harbinger
+3 Fable of the Mirror-Breaker
 1 Snapcaster Mage
 1 Serum Visions
 2 Snapcaster Mage
 2 Serum Visions
 3 Serum Visions
 4 Serum Visions
+1 Sanctifier en-Vec
+3 Plains
+3 Skyclave Apparition
+3 Auriok Champion
+4 Wall of Omens
+4 Plains
+4 Skyclave Apparition
 1 Castle Ardenvale
 1 Cascade Bluffs
 1 Settle the Wreckage
@@ -233,28 +240,6 @@
 3 Lightning Helix
 3 Island
 4 Lightning Bolt
-1 Sanctifier en-Vec
-3 Plains
-3 Skyclave Apparition
-3 Auriok Champion
-4 Wall of Omens
-4 Plains
-4 Skyclave Apparition
-1 Ignoble Hierarch
-1 Desperate Ritual
-1 Manamorphose
-1 Call the Gatewatch
-2 Ignoble Hierarch
-2 Desperate Ritual
-2 Kiki-Jiki, Mirror Breaker
-2 Manamorphose
-2 Call the Gatewatch
-3 Manamorphose
-3 Ignoble Hierarch
-3 Desperate Ritual
-3 Temple Garden
-4 Ignoble Hierarch
-4 Desperate Ritual
 1 Khalni Garden
 1 Gemstone Caverns
 1 Glimpse of Tomorrow
@@ -278,6 +263,21 @@
 4 Shardless Agent
 4 Chancellor of the Forge
 4 Khalni Garden
+1 Ignoble Hierarch
+1 Desperate Ritual
+1 Manamorphose
+1 Call the Gatewatch
+2 Desperate Ritual
+2 Kiki-Jiki, Mirror Breaker
+2 Ignoble Hierarch
+2 Manamorphose
+2 Call the Gatewatch
+3 Manamorphose
+3 Desperate Ritual
+3 Temple Garden
+3 Ignoble Hierarch
+4 Desperate Ritual
+4 Ignoble Hierarch
 1 Urza's Saga
 1 Luxior, Giada's Gift
 1 Inspiring Vantage
@@ -290,6 +290,6 @@
 3 Urza's Saga
 3 Inspiring Vantage
 3 Altar of the Brood
-4 Urza's Saga
 4 Ragavan, Nimble Pilferer
+4 Urza's Saga
 4 Altar of the Brood
