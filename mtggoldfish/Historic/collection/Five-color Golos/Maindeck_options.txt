@@ -23,9 +23,9 @@
 1 Ketria Triome
 2 Temple Garden
 3 Temple Garden
-1 Hinterland Harbor
 1 Hostage Taker
 1 Setessan Champion
+1 The Scarab God
 1 Woodland Cemetery
 1 Renegade Rallier
 1 Yasharn, Implacable Earth
@@ -42,13 +42,13 @@
 1 Oath of Kaya
 1 In Search of Greatness
 1 Ravenous Chupacabra
-1 The Scarab God
+1 Hinterland Harbor
 1 Tolsimir, Friend to Wolves
 1 Raugrin Triome
 2 Setessan Champion
-2 Hinterland Harbor
 2 Woodland Cemetery
 2 Overgrown Tomb
+2 Hinterland Harbor
 2 In Search of Greatness
 2 Trial of Ambition
 2 Calix, Destiny's Hand
@@ -186,8 +186,8 @@
 1 Otherworldly Gaze
 1 Spikefield Hazard
 1 Stormcarved Coast
-1 Faithless Looting
 1 Serra's Emissary
+1 Faithless Looting
 1 Craterhoof Behemoth
 1 Mizzix's Mastery
 1 Terror of Mount Velus
@@ -196,7 +196,6 @@
 1 Arclight Phoenix
 1 Consider
 1 Rise of the Dark Realms
-2 Craterhoof Behemoth
 2 Otherworldly Gaze
 2 Serra's Emissary
 2 Stormcarved Coast
@@ -207,6 +206,7 @@
 2 Rise of the Dark Realms
 2 Consider
 2 Mizzix's Mastery
+2 Craterhoof Behemoth
 3 Otherworldly Gaze
 3 Serra's Emissary
 3 Faithless Looting
@@ -261,22 +261,22 @@
 1 Koma, Cosmos Serpent
 1 Temple of Deceit
 1 Season of Growth
-1 Castle Vantress
-1 Paradise Druid
 1 Lotus Cobra
-1 Gemrazer
-1 Gilded Goose
 1 Necroblossom Snarl
-1 The Great Henge
 1 Nicol Bolas, Dragon-God
+1 Gilded Goose
 1 Scute Swarm
 1 Tamiyo, Collector of Tales
+1 The Great Henge
 1 Darkbore Pathway
 1 Nissa, Who Shakes the World
+1 Gemrazer
+1 Castle Vantress
 1 Temple of Malady
 1 Vivien, Champion of the Wilds
 1 Vivien Reid
 1 Castle Locthwain
+1 Paradise Druid
 1 Dirge Bat
 1 Fabled Passage
 1 Pollywog Symbiote
@@ -290,10 +290,9 @@
 1 Insatiable Hemophage
 2 Season of Growth
 2 Nissa, Who Shakes the World
-2 Paradise Druid
-2 Gemrazer
 2 Lotus Cobra
 2 Gilded Goose
+2 Paradise Druid
 2 Insatiable Hemophage
 2 Boneyard Lurker
 2 Auspicious Starrix
@@ -302,9 +301,9 @@
 2 Pollywog Symbiote
 2 Pouncing Shoreshark
 2 Darkbore Pathway
+2 Gemrazer
 2 Swamp
 2 Fabled Passage
-3 Paradise Druid
 3 Lotus Cobra
 3 Gemrazer
 3 Gilded Goose
@@ -313,6 +312,7 @@
 3 Fabled Passage
 3 Swamp
 3 Auspicious Starrix
+3 Paradise Druid
 3 Pollywog Symbiote
 3 Migratory Greathorn
 5 Forest
@@ -327,8 +327,8 @@
 1 Shefet Dunes
 1 Hour of Promise
 1 Relic of Progenitus
-1 Hydroid Krasis
 1 Fae of Wishes
+1 Hydroid Krasis
 1 Omen of the Hunt
 1 Cultivate
 1 Mirari's Wake
@@ -385,7 +385,6 @@
 1 Goblin Dark-Dwellers
 1 Dream Trawler
 1 Memory Deluge
-1 Lair of the Hydra
 1 Kazandu Mammoth
 1 Khalni Ambush
 1 Fading Hope
@@ -393,6 +392,7 @@
 1 Elder Gargaroth
 1 Tovolar's Huntmaster
 1 Brazen Borrower
+1 Lair of the Hydra
 1 Farewell
 1 Entrancing Melody
 1 Sea Gate Restoration

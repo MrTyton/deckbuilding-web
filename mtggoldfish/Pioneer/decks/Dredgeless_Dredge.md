@@ -103,6 +103,6 @@
 |                    1|[Sibsig Muckdraggers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391923)         |                     |                                                                                                     |
 |                    2|[Sibsig Muckdraggers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391923)         |                     |                                                                                                     |
 |                    3|[Sibsig Muckdraggers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391923)         |                     |                                                                                                     |
-|                    4|[Silversmote Ghoul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485445)           |                     |                                                                                                     |
 |                    4|[Sibsig Muckdraggers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391923)         |                     |                                                                                                     |
+|                    4|[Silversmote Ghoul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485445)           |                     |                                                                                                     |
 
