@@ -74,21 +74,30 @@
 4 Enigmatic Incarnation
 4 Binding the Old Gods
 2 Crawling Barrens
-1 Labyrinth of Skophos
 1 Aether Hub
 2 Aether Hub
 3 Aether Hub
 4 Aether Hub
+3 Karn, Scion of Urza
+4 Karn, Scion of Urza
+1 Blinkmoth Nexus
+1 Mystic Forge
+1 Mobilized District
+2 Blinkmoth Nexus
+2 Mystic Forge
+2 Mobilized District
+3 Crawling Barrens
+3 Blinkmoth Nexus
+3 Blast Zone
+3 Mobilized District
+4 Blinkmoth Nexus
+4 Blast Zone
+4 Forsaken Monument
+1 Labyrinth of Skophos
 3 Buried Ruin
 1 Field of Ruin
 1 Mazemind Tome
 2 Mazemind Tome
-3 Crawling Barrens
-3 Blast Zone
-4 Blast Zone
-3 Karn, Scion of Urza
-4 Karn, Scion of Urza
-1 Blinkmoth Nexus
 1 Explore
 2 Explore
 1 Growth Spiral
@@ -147,15 +156,6 @@
 4 Plaza of Harmony
 4 Arboreal Grazer
 4 Elvish Rejuvenator
-1 Mystic Forge
-1 Mobilized District
-2 Blinkmoth Nexus
-2 Mystic Forge
-2 Mobilized District
-3 Blinkmoth Nexus
-3 Mobilized District
-4 Blinkmoth Nexus
-4 Forsaken Monument
 1 Indatha Triome
 2 Indatha Triome
 3 Indatha Triome
@@ -188,8 +188,8 @@
 1 Stormcarved Coast
 1 Faithless Looting
 1 Serra's Emissary
-1 Craterhoof Behemoth
 1 Mizzix's Mastery
+1 Craterhoof Behemoth
 1 Terror of Mount Velus
 1 Spirebluff Canal
 1 Faithless Salvaging
@@ -234,10 +234,10 @@
 1 Valki, God of Lies
 1 Archway Angel
 1 Felidar Retreat
+1 Gate Colossus
 1 Gatebreaker Ram
 1 Root Snare
 1 Open the Gates
-1 Gate Colossus
 2 Felidar Retreat
 2 Valki, God of Lies
 2 Rakdos Guildgate
@@ -318,6 +318,7 @@
 5 Forest
 1 Crucible of Worlds
 1 Scavenger Grounds
+1 Ratchet Bomb
 3 Stonecoil Serpent
 3 Maze's End
 1 Otawara, Soaring City
@@ -375,11 +376,6 @@
 3 Mech Hangar
 3 Key to the Archive
 4 Key to the Archive
-1 Paradox Engine
-1 Palladium Myr
-2 Palladium Myr
-3 Palladium Myr
-4 Crawling Barrens
 2 Barkchannel Pathway
 1 Dreamroot Cascade
 1 Goblin Dark-Dwellers
@@ -506,8 +502,8 @@
 2 Scholar of the Lost Trove
 3 Blood Crypt
 3 Magma Opus
-3 Throes of Chaos
 3 Alrund's Epiphany
+3 Throes of Chaos
 3 Khalni Garden
 3 Emergent Ultimatum
 3 Cragcrown Pathway
