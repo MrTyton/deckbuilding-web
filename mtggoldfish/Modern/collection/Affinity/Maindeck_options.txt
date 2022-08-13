@@ -2,11 +2,12 @@
 3 Hallowed Fountain
 4 Springleaf Drum
 4 Thoughtcast
+4 Razortide Bridge
 1 Cranial Plating
 2 Ornithopter
+2 Cranial Plating
 3 Ornithopter
 4 Ornithopter
-2 Cranial Plating
 1 Gingerbrute
 3 Cranial Plating
 4 Cranial Plating
@@ -18,10 +19,8 @@
 1 Sojourner's Companion
 2 Sojourner's Companion
 2 Island
-4 Razortide Bridge
 1 Welding Jar
 3 Sojourner's Companion
-4 Seachrome Coast
 1 Mistvault Bridge
 2 Mistvault Bridge
 4 Sojourner's Companion
@@ -29,6 +28,7 @@
 4 Mistvault Bridge
 2 Treasure Vault
 2 Nettlecyst
+4 Seachrome Coast
 3 Teferi, Time Raveler
 2 Plains
 1 Silverbluff Bridge
@@ -36,7 +36,6 @@
 1 Myr Enforcer
 1 Spire of Industry
 2 Spire of Industry
-1 Unlicensed Hearse
 1 Dispatch
 3 Flooded Strand
 4 Metallic Rebuke
@@ -44,6 +43,7 @@
 3 Treasure Vault
 3 Spire of Industry
 4 Spire of Industry
+1 Unlicensed Hearse
 2 Unlicensed Hearse
 1 Talisman of Progress
 2 Talisman of Progress
@@ -56,10 +56,10 @@
 1 Reality Heist
 2 Reality Heist
 2 Dispatch
-4 Hallowed Fountain
 1 Glimmervoid
 1 Moonsnare Prototype
 2 Moonsnare Prototype
+4 Urza, Lord High Artificer
 3 Island
 1 Cavern of Souls
 1 Sacred Foundry
@@ -74,6 +74,8 @@
 2 Galvanic Blast
 3 Relic of Progenitus
 3 Galvanic Blast
+1 Marsh Flats
+4 Hallowed Fountain
 3 Patchwork Automaton
 4 Patchwork Automaton
 1 Spell Pierce
@@ -91,16 +93,12 @@
 4 Mishra's Bauble
 4 Glimmervoid
 4 Emry, Lurker of the Loch
-1 Marsh Flats
-4 Urza, Lord High Artificer
 1 Hard Evidence
 1 Oboro, Palace in the Clouds
-1 Sai, Master Thopterist
+1 Consulate Dreadnought
 2 Hard Evidence
 2 Aether Spellbomb
-2 Sai, Master Thopterist
 3 Aether Spellbomb
-3 Sai, Master Thopterist
 3 Nettlecyst
 3 Moonsnare Prototype
 3 Hard Evidence
@@ -110,7 +108,6 @@
 5 Island
 6 Island
 7 Island
-8 Island
 1 Trinket Mage
 1 Chalice of the Void
 2 Chalice of the Void

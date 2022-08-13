@@ -17,12 +17,12 @@
 
 # Historic
 
-|                                 A                                  |                                   B                                    |                                C                                 |                                D                                 |                            E                             |
-|--------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------|
-|[Azorius Affinity](./mtggoldfish/Historic/decks/Azorius_Affinity.md)|[Five-color Golos](./mtggoldfish/Historic/decks/Five-color_Golos.md)    |[Mono-Blue Tempo](./mtggoldfish/Historic/decks/Mono-Blue_Tempo.md)|[Rakdos Goblins](./mtggoldfish/Historic/decks/Rakdos_Goblins.md)  |[Temur Combo](./mtggoldfish/Historic/decks/Temur_Combo.md)|
-|[Azorius Auras](./mtggoldfish/Historic/decks/Azorius_Auras.md)      |[Five-color Humans](./mtggoldfish/Historic/decks/Five-color_Humans.md)  |[Mono-Red Aggro](./mtggoldfish/Historic/decks/Mono-Red_Aggro.md)  |[Rakdos Midrange](./mtggoldfish/Historic/decks/Rakdos_Midrange.md)|                                                          |
-|[Azorius Yorion](./mtggoldfish/Historic/decks/Azorius_Yorion.md)    |[Gruul Combo](./mtggoldfish/Historic/decks/Gruul_Combo.md)              |[Orzhov Midrange](./mtggoldfish/Historic/decks/Orzhov_Midrange.md)|[Selesnya Angels](./mtggoldfish/Historic/decks/Selesnya_Angels.md)|                                                          |
-|[Dimir Rogues](./mtggoldfish/Historic/decks/Dimir_Rogues.md)        |[Mono-Black Control](./mtggoldfish/Historic/decks/Mono-Black_Control.md)|[Rakdos Burn](./mtggoldfish/Historic/decks/Rakdos_Burn.md)        |[Simic Aggro](./mtggoldfish/Historic/decks/Simic_Aggro.md)        |                                                          |
+|                                 A                                  |                                  B                                   |                                   C                                    |                                D                                 |                            E                             |
+|--------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------|
+|[Azorius Affinity](./mtggoldfish/Historic/decks/Azorius_Affinity.md)|[Esper Aggro](./mtggoldfish/Historic/decks/Esper_Aggro.md)            |[Mono-Black Control](./mtggoldfish/Historic/decks/Mono-Black_Control.md)|[Rakdos Burn](./mtggoldfish/Historic/decks/Rakdos_Burn.md)        |[Simic Aggro](./mtggoldfish/Historic/decks/Simic_Aggro.md)|
+|[Azorius Auras](./mtggoldfish/Historic/decks/Azorius_Auras.md)      |[Five-color Golos](./mtggoldfish/Historic/decks/Five-color_Golos.md)  |[Mono-Blue Tempo](./mtggoldfish/Historic/decks/Mono-Blue_Tempo.md)      |[Rakdos Goblins](./mtggoldfish/Historic/decks/Rakdos_Goblins.md)  |[Temur Combo](./mtggoldfish/Historic/decks/Temur_Combo.md)|
+|[Azorius Yorion](./mtggoldfish/Historic/decks/Azorius_Yorion.md)    |[Five-color Humans](./mtggoldfish/Historic/decks/Five-color_Humans.md)|[Mono-Red Aggro](./mtggoldfish/Historic/decks/Mono-Red_Aggro.md)        |[Rakdos Midrange](./mtggoldfish/Historic/decks/Rakdos_Midrange.md)|                                                          |
+|[Dimir Rogues](./mtggoldfish/Historic/decks/Dimir_Rogues.md)        |[Gruul Combo](./mtggoldfish/Historic/decks/Gruul_Combo.md)            |[Orzhov Midrange](./mtggoldfish/Historic/decks/Orzhov_Midrange.md)      |[Selesnya Angels](./mtggoldfish/Historic/decks/Selesnya_Angels.md)|                                                          |
 
 
 # Pioneer
@@ -73,4 +73,4 @@
 
 
 
-#### Last Updated at 12:34PM on August 12, 2022
+#### Last Updated at 12:33AM on August 13, 2022

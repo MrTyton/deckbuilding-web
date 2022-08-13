@@ -1,25 +1,26 @@
 1 Spara's Headquarters
 3 Supreme Verdict
+2 Scalding Tarn
+2 Steam Vents
 1 Celestial Colonnade
-3 Shark Typhoon
 1 Jace, the Mind Sculptor
 3 Scalding Tarn
-2 Steam Vents
-1 The Wandering Emperor
-1 March of Otherworldly Light
+4 Shark Typhoon
 1 Spirebluff Canal
 2 Spirebluff Canal
-1 Sacred Foundry
-1 Cryptic Command
 1 Lightning Bolt
 2 Lightning Bolt
 3 Lightning Bolt
-1 Dress Down
-4 Shark Typhoon
-4 Solitude
+1 March of Otherworldly Light
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
+1 Sacred Foundry
+1 Cryptic Command
+1 The Wandering Emperor
+1 Dress Down
+4 Lightning Bolt
+4 Solitude
 2 Cryptic Command
 1 Fury
 3 Chalice of the Void
@@ -49,15 +50,11 @@
 3 Teferi, Hero of Dominaria
 3 Valakut Awakening
 4 Blood Sun
+4 Fury
 4 Valakut Awakening
 4 Memory Deluge
-4 Fury
 4 Teferi, Hero of Dominaria
-3 March of Otherworldly Light
-4 Lightning Bolt
-4 Scalding Tarn
 1 Brazen Borrower
-4 Teferi, Time Raveler
 1 Batterskull
 1 Ragavan, Nimble Pilferer
 1 Kaldra Compleat
@@ -68,19 +65,25 @@
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
 4 Stoneforge Mystic
+3 March of Otherworldly Light
+4 Scalding Tarn
+4 Teferi, Time Raveler
 1 Snow-Covered Plains
 1 Snow-Covered Island
-2 The Wandering Emperor
 1 Arid Mesa
-3 Snapcaster Mage
 4 Expressive Iteration
-2 Celestial Colonnade
 4 Fire/Ice
+2 The Wandering Emperor
+1 Spell Pierce
+2 Spell Pierce
+2 Jace, the Mind Sculptor
 2 Arid Mesa
 3 Arid Mesa
+3 Snapcaster Mage
 4 Snapcaster Mage
 3 Steam Vents
 2 Polluted Delta
+2 Celestial Colonnade
 3 Polluted Delta
 1 Mountain
 1 Spell Snare
@@ -89,10 +92,8 @@
 1 Breeding Pool
 1 Serum Visions
 2 Serum Visions
-2 Jace, the Mind Sculptor
 2 Sacred Foundry
-1 Spreading Seas
-2 Spreading Seas
+2 Dress Down
 1 Vendilion Clique
 1 Path to Exile
 1 Ajani Vengeant
@@ -106,8 +107,6 @@
 3 Vendilion Clique
 4 Vendilion Clique
 4 Celestial Colonnade
-1 Spell Pierce
-2 Spell Pierce
 4 Island
 1 Sulfur Falls
 1 Eiganjo, Seat of the Empire
@@ -124,7 +123,6 @@
 1 Azorius Chancery
 1 Suspend
 1 Unholy Heat
-2 Glacial Fortress
 1 Crumble to Dust
 2 Crumble to Dust
 1 Telling Time
@@ -137,7 +135,6 @@
 1 Nahiri, the Harbinger
 2 Nahiri, the Harbinger
 3 Nahiri, the Harbinger
-3 Hall of Storm Giants
 1 Dragon's Rage Channeler
 1 Ancestral Vision
 2 Dragon's Rage Channeler
@@ -146,10 +143,13 @@
 3 Dragon's Rage Channeler
 4 Dragon's Rage Channeler
 1 Nexus of Fate
-2 Dress Down
+1 Spreading Seas
+2 Spreading Seas
 3 Spreading Seas
 4 March of Otherworldly Light
 4 Spreading Seas
+3 Misty Rainforest
+4 Misty Rainforest
 1 Fable of the Mirror-Breaker
 1 Kiki-Jiki, Mirror Breaker
 1 Hard Evidence
@@ -163,9 +163,9 @@
 2 Fable of the Mirror-Breaker
 2 Hard Evidence
 2 Silence
+2 Bloodstained Mire
 2 Wooded Foothills
 2 Strike It Rich
-2 Bloodstained Mire
 2 Dwarven Mine
 2 Indomitable Creativity
 3 Fable of the Mirror-Breaker
@@ -207,8 +207,8 @@
 3 Pact of Negation
 3 Serum Visions
 3 Pact of the Titan
-4 Pact of the Titan
 4 Serum Visions
 4 Angel's Grace
 4 Pact of Negation
 4 Gideon of the Trials
+4 Pact of the Titan
