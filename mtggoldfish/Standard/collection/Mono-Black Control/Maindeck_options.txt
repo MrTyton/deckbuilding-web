@@ -81,12 +81,12 @@
 3 Bloodchief's Thirst
 1 Fell Stinger
 1 Shakedown Heavy
-2 Shakedown Heavy
 2 Baleful Mastery
-3 Shakedown Heavy
+2 Shakedown Heavy
 3 Check for Traps
-4 Shakedown Heavy
+3 Shakedown Heavy
 4 Check for Traps
+4 Shakedown Heavy
 4 Reckoner Bankbuster
 1 Body Launderer
 1 Eaten Alive
@@ -120,34 +120,34 @@
 1 Pelakka Predation
 2 Hero's Downfall
 3 Henrika Domnathi
-1 Eyetwitch
-2 Eyetwitch
-3 Eyetwitch
-3 Soul Transfer
-1 Flunk
-1 Demogorgon's Clutches
-1 Ecstatic Awakener
-1 Gisa, Glorious Resurrector
-1 Vengeful Strangler
-2 Flunk
-2 Demogorgon's Clutches
-2 Gisa, Glorious Resurrector
-2 Vengeful Strangler
-2 Ecstatic Awakener
-3 Tergrid, God of Fright
-3 Vengeful Strangler
-3 Flunk
 1 Shadows' Verdict
 1 Extract the Truth
 2 Extract the Truth
 2 Shadows' Verdict
-3 Go Blank
 3 March of Wretched Sorrow
+3 Go Blank
 3 Virus Beetle
 3 Extract the Truth
 1 Blood Pact
 2 Blood Pact
 3 Takenuma, Abandoned Mire
+1 Flunk
+1 Gisa, Glorious Resurrector
+1 Vengeful Strangler
+1 Demogorgon's Clutches
+1 Ecstatic Awakener
+2 Flunk
+2 Demogorgon's Clutches
+2 Vengeful Strangler
+2 Gisa, Glorious Resurrector
+2 Ecstatic Awakener
+3 Vengeful Strangler
+3 Flunk
+3 Tergrid, God of Fright
+1 Eyetwitch
+2 Eyetwitch
+3 Eyetwitch
+3 Soul Transfer
 1 Nighthawk Scavenger
 2 Nighthawk Scavenger
 2 Agadeem's Awakening
@@ -160,32 +160,32 @@
 4 Lolth, Spider Queen
 1 Life of Toshiro Umezawa
 1 Cemetery Desecrator
-2 Life of Toshiro Umezawa
 2 Cemetery Desecrator
+2 Life of Toshiro Umezawa
 3 Sorin the Mirthless
 3 Life of Toshiro Umezawa
 4 Life of Toshiro Umezawa
 1 Feed the Swarm
 2 Feed the Swarm
-3 Hagra Mauling
 3 Inscription of Ruin
 3 Feed the Swarm
+3 Hagra Mauling
 3 Professor Onyx
-4 The Meathook Massacre
 4 Feed the Swarm
 4 The Long Reach of Night
 4 Inscription of Ruin
+4 The Meathook Massacre
 4 Hagra Mauling
 4 Professor Onyx
-2 Junji, the Midnight Sky
 2 Eaten Alive
 2 Body Launderer
+2 Junji, the Midnight Sky
 3 Eaten Alive
-4 Eaten Alive
 4 Fell Stinger
+4 Eaten Alive
 4 Tainted Adversary
-1 Eradicator Valkyrie
 1 Drana, the Last Bloodchief
+1 Eradicator Valkyrie
 1 Malakir Rebirth
 1 Callous Bloodmage
 2 Malakir Rebirth
@@ -195,9 +195,9 @@
 4 Skullport Merchant
 20 Swamp
 21 Swamp
-1 Vengeful Reaper
 1 Tribute to Horobi
 1 Sedgemoor Witch
+1 Vengeful Reaper
 1 Professor's Warning
 1 Okiba Reckoner Raid
 1 Gelatinous Cube
