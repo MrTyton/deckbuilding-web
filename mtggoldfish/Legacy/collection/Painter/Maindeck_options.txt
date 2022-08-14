@@ -1,9 +1,9 @@
-1 Sokenzan, Crucible of Defiance
+2 Red Elemental Blast
 2 Ensnaring Bridge
 1 Ichor Wellspring
 1 Simian Spirit Guide
-1 Scalding Tarn
 2 City of Traitors
+1 Scalding Tarn
 1 Arid Mesa
 1 Wooded Foothills
 1 Taiga
@@ -11,14 +11,18 @@
 2 Once Upon a Time
 3 Once Upon a Time
 4 Once Upon a Time
+3 Lightning Bolt
 1 Bloodstained Mire
 1 Fury
-3 Lightning Bolt
-2 Fury
 4 Fable of the Mirror-Breaker
 8 Mountain
 2 Breya's Apprentice
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
+4 Snow-Covered Mountain
 1 Den of the Bugbear
+2 Fury
 1 Plateau
 1 Retrofitter Foundry
 1 Island
@@ -63,10 +67,9 @@
 4 Ponder
 4 Swords to Plowshares
 4 Flooded Strand
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
-4 Snow-Covered Mountain
+5 Snow-Covered Mountain
+6 Snow-Covered Mountain
+7 Snow-Covered Mountain
 1 The Underworld Cookbook
 1 Cursed Mirror
 4 Lightning Bolt
@@ -90,8 +93,8 @@
 1 Aether Spellbomb
 1 Thoughtcast
 1 Seat of the Synod
-2 Seat of the Synod
 2 Metallic Rebuke
+2 Seat of the Synod
 2 Island
 2 Thoughtcast
 3 Ensnaring Bridge
@@ -103,9 +106,6 @@
 4 Seat of the Synod
 4 Thoughtcast
 1 Wurmcoil Engine
-5 Snow-Covered Mountain
-6 Snow-Covered Mountain
-7 Snow-Covered Mountain
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
 10 Snow-Covered Mountain
@@ -196,8 +196,8 @@
 3 Life from the Loam
 3 Mox Diamond
 3 Exploration
-4 Exploration
 4 Life from the Loam
+4 Exploration
 1 Nihil Spellbomb
 1 City of Brass
 1 Spire of Industry
