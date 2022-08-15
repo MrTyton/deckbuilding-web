@@ -9,11 +9,9 @@
 2 Esper Sentinel
 1 Arid Mesa
 4 Path to Exile
-3 Sacred Foundry
 4 Imperial Recruiter
 1 Shadowspear
 2 Charming Prince
-1 Thraben Inspector
 1 Horizon Canopy
 2 Extraction Specialist
 2 Emeria's Call
@@ -32,21 +30,19 @@
 2 Urza's Saga
 3 Urza's Saga
 1 Mishra's Factory
-1 Windswept Heath
-2 Windswept Heath
+3 Sacred Foundry
 3 Extraction Specialist
+1 Thraben Inspector
 9 Snow-Covered Plains
+2 Horizon Canopy
 3 Esper Sentinel
 4 Esper Sentinel
-2 Horizon Canopy
 1 Silent Clearing
+1 Windswept Heath
+2 Windswept Heath
 2 Arid Mesa
 3 Arid Mesa
-4 Arid Mesa
-1 Sanctifier en-Vec
 2 Sunbaked Canyon
-3 Windswept Heath
-4 Windswept Heath
 1 Blast Zone
 2 Blast Zone
 3 Blast Zone
@@ -66,10 +62,10 @@
 1 Eldrazi Temple
 1 Wasteland Strangler
 2 Eldrazi Displacer
-2 Concealed Courtyard
 2 Tidehollow Sculler
 2 Relic of Progenitus
 2 Reality Smasher
+2 Concealed Courtyard
 2 Caves of Koilos
 2 Thought-Knot Seer
 2 Wasteland Strangler
@@ -77,8 +73,8 @@
 2 Eldrazi Temple
 3 Eldrazi Displacer
 3 Tidehollow Sculler
-3 Concealed Courtyard
 3 Relic of Progenitus
+3 Concealed Courtyard
 3 Wasteland Strangler
 3 Eldrazi Temple
 3 Shambling Vent
@@ -88,12 +84,12 @@
 4 Eldrazi Temple
 4 Relic of Progenitus
 4 Tidehollow Sculler
+4 Wasteland Strangler
 4 Concealed Courtyard
 4 Eldrazi Displacer
 4 Thought-Knot Seer
 4 Reality Smasher
 4 Caves of Koilos
-4 Wasteland Strangler
 10 Snow-Covered Plains
 11 Snow-Covered Plains
 12 Snow-Covered Plains
@@ -106,21 +102,22 @@
 4 Needleverge Pathway
 4 Inspiring Vantage
 4 Urza's Saga
+1 Sanctifier en-Vec
 1 Soul-Guide Lantern
-1 Timeless Dragon
 3 Charming Prince
 4 Charming Prince
+1 Timeless Dragon
 1 Prismatic Ending
 2 Prismatic Ending
 3 Prismatic Ending
-1 Slayers' Stronghold
-1 Giant Killer
-1 Felidar Guardian
+4 Arid Mesa
 1 Kiki-Jiki, Mirror Breaker
 1 Mountain
-4 Sacred Foundry
+1 Felidar Guardian
 1 Gavony Dawnguard
 1 Jetmir's Garden
+3 Windswept Heath
+4 Windswept Heath
 1 Cathar Commando
 3 Tectonic Edge
 2 Mishra's Factory
@@ -130,32 +127,30 @@
 4 Eiganjo, Seat of the Empire
 1 Maul of the Skyclaves
 1 Touch the Spirit Realm
-1 Den of the Bugbear
-1 Sanctum Prelate
-1 Godless Shrine
-1 Hallowed Fountain
-1 Rugged Prairie
-2 Thraben Inspector
-3 Thraben Inspector
 1 Razorverge Thicket
 1 Ambitious Farmhand
 1 Temple Garden
 1 Spellskite
 1 Fauna Shaman
 1 Forest
-2 Razorverge Thicket
 2 Temple Garden
+2 Razorverge Thicket
 2 Ambitious Farmhand
 2 Fauna Shaman
 3 Razorverge Thicket
-3 Ambitious Farmhand
 3 Fauna Shaman
+3 Ambitious Farmhand
 4 Razorverge Thicket
 4 Fauna Shaman
 1 Ranger-Captain of Eos
 4 Mishra's Factory
+1 Slayers' Stronghold
+1 Giant Killer
 4 Tectonic Edge
+4 Sacred Foundry
+1 Hallowed Fountain
 15 Plains
+1 Shatterskull Smashing
 3 Horizon Canopy
 2 Castle Ardenvale
 2 Silent Clearing
@@ -165,33 +160,52 @@
 1 Tireless Tracker
 1 Voice of Resurgence
 2 Tireless Tracker
-2 Gavony Dawnguard
 2 Lion Sash
-1 Avalanche Riders
-1 Drannith Magistrate
+2 Gavony Dawnguard
 1 Snow-Covered Mountain
 1 Expedition Map
 2 Touch the Spirit Realm
+1 Den of the Bugbear
+1 Sanctum Prelate
+1 Godless Shrine
+1 Drannith Magistrate
+1 Rugged Prairie
+2 Thraben Inspector
+3 Thraben Inspector
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
 3 Fable of the Mirror-Breaker
-1 Fury
-1 Prismatic Vista
-1 Shatterskull Smashing
+1 Flooded Strand
+1 Sokenzan, Crucible of Defiance
+1 Lavinia, Azorius Renegade
+1 Teferi, Time Raveler
+1 Island
+1 Steam Vents
+1 Scalding Tarn
+1 Otawara, Soaring City
+1 Raugrin Triome
+2 Flooded Strand
+2 Scalding Tarn
+2 Teferi, Time Raveler
+3 Flooded Strand
+3 Teferi, Time Raveler
+4 Prismatic Ending
 1 Ragavan, Nimble Pilferer
+1 Prismatic Vista
+1 Fury
+2 Ragavan, Nimble Pilferer
 2 Prismatic Vista
 2 Magus of the Moon
-2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
 3 Sunbaked Canyon
 3 Prismatic Vista
 3 Magus of the Moon
-3 Ragavan, Nimble Pilferer
-4 Prismatic Vista
 4 Ragavan, Nimble Pilferer
+4 Prismatic Vista
 2 Ranger-Captain of Eos
 3 Ranger-Captain of Eos
-4 Ranger-Captain of Eos
 4 Emeria's Call
+4 Ranger-Captain of Eos
 1 Hex Parasite
 1 Pithing Needle
 13 Snow-Covered Plains
@@ -210,6 +224,7 @@
 3 Blade Splicer
 4 Blade Splicer
 1 Brimaz, King of Oreskos
+1 Dryad Militant
 1 Selfless Spirit
 1 Oblivion Ring
 1 Harm's Way
@@ -218,19 +233,18 @@
 1 Isamaru, Hound of Konda
 1 Banisher Priest
 1 Brave the Elements
-1 Dryad Militant
 1 Militia Bugler
 1 Gideon, Ally of Zendikar
 1 Force of Virtue
 1 Soldier of the Pantheon
 2 Mana Tithe
+2 Dryad Militant
 2 Brave the Elements
 2 Soldier of the Pantheon
 2 Force of Virtue
-2 Dryad Militant
 3 Mana Tithe
-3 Force of Virtue
 3 Dryad Militant
+3 Force of Virtue
 4 Mana Tithe
 4 Dryad Militant
 4 Force of Virtue

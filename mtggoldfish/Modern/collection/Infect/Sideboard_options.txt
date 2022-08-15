@@ -1,30 +1,31 @@
-4 Force of Vigor
 2 Fatal Push
+2 Dismember
 1 Spellskite
 4 Endurance
-1 Gemrazer
-1 Ashiok, Dream Render
-2 Gemrazer
-1 Grafdigger's Cage
-2 Ashiok, Dream Render
-3 Gemrazer
-1 Relic of Progenitus
-1 Boseiju, Who Endures
-1 Nature's Claim
 4 Veil of Summer
+1 Relic of Progenitus
+1 Grafdigger's Cage
+1 Thoughtseize
+1 Gemrazer
+1 Nature's Claim
 2 Spellskite
 1 Wild Defiance
 1 Mystical Dispute
 2 Mystical Dispute
-1 Void Mirror
+1 Ashiok, Dream Render
+1 Boseiju, Who Endures
+2 Gemrazer
 1 Pithing Needle
 1 Hurkyl's Recall
+1 Void Mirror
 2 Nature's Claim
+2 Thoughtseize
 1 Soul-Guide Lantern
-1 Thoughtseize
+2 Ashiok, Dream Render
+1 Torpor Orb
+3 Gemrazer
 1 Apostle's Blessing
 2 Void Mirror
-1 Torpor Orb
 2 Torpor Orb
 1 Leyline of the Void
 2 Leyline of the Void
@@ -36,6 +37,11 @@
 2 Viridian Corrupter
 1 Unearth
 2 Unearth
+1 Weather the Storm
+1 Wilt
+1 Invisible Stalker
+2 Invisible Stalker
+3 Invisible Stalker
 1 Choke
 2 Choke
 1 Kitchen Finks
@@ -43,30 +49,28 @@
 2 Kitchen Finks
 2 Necromentia
 3 Necromentia
-2 Thoughtseize
 1 Rancor
-1 Weather the Storm
-2 Weather the Storm
-2 Grafdigger's Cage
 1 Rest in Peace
+2 Grafdigger's Cage
 1 Echoing Truth
 2 Echoing Truth
 1 Krosan Grip
 2 Apostle's Blessing
-1 Kozilek, Butcher of Truth
 1 Damping Sphere
+1 Kozilek, Butcher of Truth
 1 Pistus Strike
-1 Wilt
+1 Stonewood Invocation
 1 Ravenous Trap
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
-1 Prismatic Ending
-1 Pulse of Murasa
-2 Rest in Peace
+2 Weather the Storm
 1 Assassin's Trophy
 1 Dauthi Voidwalker
 1 Fog
 2 Assassin's Trophy
+1 Prismatic Ending
+1 Pulse of Murasa
+2 Rest in Peace
 1 Abrupt Decay
 2 Abrupt Decay
 2 Rancor
@@ -74,14 +78,11 @@
 1 Noxious Revival
 2 Duress
 2 Noxious Revival
+2 Relic of Progenitus
+2 Wilt
 1 Lantern of the Lost
 2 Lantern of the Lost
 2 Wild Defiance
-1 Blossoming Defense
-1 Snakeskin Veil
-2 Blossoming Defense
-2 Snakeskin Veil
-3 Mystical Dispute
 3 Leyline of the Void
 1 Scavenging Ooze
 1 Beast Within
@@ -100,10 +101,7 @@
 3 Echoing Truth
 4 Void Mirror
 4 Echoing Truth
-1 Invisible Stalker
-2 Invisible Stalker
-3 Invisible Stalker
 4 Invisible Stalker
 1 Return to Nature
-1 Naturalize
 2 Return to Nature
+1 Naturalize

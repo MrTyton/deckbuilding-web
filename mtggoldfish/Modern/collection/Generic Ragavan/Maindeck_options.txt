@@ -103,10 +103,10 @@
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 1 Island
-1 Watery Grave
 1 Drown in the Loch
-2 Polluted Delta
+1 Watery Grave
 2 Drown in the Loch
+2 Polluted Delta
 3 Drown in the Loch
 3 Polluted Delta
 4 Drown in the Loch
@@ -141,8 +141,8 @@
 2 Prismatic Ending
 3 Prismatic Ending
 3 Battlefield Forge
-1 Bedlam Reveler
 1 Misty Rainforest
+1 Bedlam Reveler
 1 Serum Visions
 1 Spikefield Hazard
 1 Path to Exile
@@ -150,23 +150,23 @@
 1 Snow-Covered Swamp
 1 Kaito Shizuki
 2 Watery Grave
-4 Polluted Delta
 4 Consider
+4 Polluted Delta
+1 Chandra, Dressed to Kill
 1 Fury
 1 Roiling Vortex
 1 Chandra, Torch of Defiance
 1 Ensnaring Bridge
-1 Chandra, Dressed to Kill
 1 Blood Moon
 1 Karn, the Great Creator
 1 Eidolon of the Great Revel
+2 Chandra, Dressed to Kill
 2 Fury
-2 Plains
 2 Roiling Vortex
 2 Ensnaring Bridge
 2 Chandra, Torch of Defiance
-2 Chandra, Dressed to Kill
 2 Eidolon of the Great Revel
+2 Plains
 2 Karn, the Great Creator
 2 Blood Moon
 3 Fury
@@ -179,77 +179,77 @@
 4 Chandra, Torch of Defiance
 4 Karn, the Great Creator
 1 Mutavault
+1 Kumano Faces Kakkazan
 1 Viashino Pyromancer
 1 Flame Rift
 1 Bonecrusher Giant
 1 Lava Spike
-1 Kumano Faces Kakkazan
 1 Keldon Marauders
-2 Sokenzan, Crucible of Defiance
-2 Bonecrusher Giant
 2 Kumano Faces Kakkazan
+2 Bonecrusher Giant
 2 Keldon Marauders
 2 Viashino Pyromancer
+2 Sokenzan, Crucible of Defiance
 2 Flame Rift
 2 Lava Spike
 3 Lava Spike
 3 Viashino Pyromancer
 3 Flame Rift
 3 Keldon Marauders
+4 Lightning Helix
 4 Keldon Marauders
 4 Viashino Pyromancer
 4 Flame Rift
-4 Lightning Helix
 4 Sacred Foundry
 4 Lava Spike
 1 Dryad Arbor
-1 Bomat Courier
-1 Signal Pest
 1 Goblin Bushwhacker
+1 Bomat Courier
 1 Legion Loyalist
+1 Signal Pest
 1 Burning-Tree Emissary
 1 Memnite
 1 Wayward Guide-Beast
 1 Reckless Bushwhacker
 1 Goblin Guide
+2 Goblin Bushwhacker
+2 Legion Loyalist
+2 Signal Pest
 2 Bomat Courier
 2 Reckless Bushwhacker
-2 Signal Pest
 2 Goblin Guide
-2 Legion Loyalist
 2 Burning-Tree Emissary
 2 Memnite
 2 Wayward Guide-Beast
-2 Goblin Bushwhacker
+3 Goblin Bushwhacker
+3 Legion Loyalist
+3 Signal Pest
 3 Wooded Foothills
 3 Burning-Tree Emissary
 3 Memnite
 3 Bomat Courier
-3 Signal Pest
 3 Reckless Bushwhacker
 3 Goblin Guide
-3 Goblin Bushwhacker
-3 Legion Loyalist
-4 Wooded Foothills
+4 Goblin Bushwhacker
+4 Legion Loyalist
 4 Signal Pest
+4 Wooded Foothills
 4 Burning-Tree Emissary
 4 Bomat Courier
 4 Reckless Bushwhacker
-4 Goblin Bushwhacker
-4 Legion Loyalist
 4 Memnite
 4 Goblin Guide
-1 Copperline Gorge
-1 Abundant Harvest
 1 Thrasta, Tempest's Roar
+1 Abundant Harvest
 1 Stomping Ground
-2 Stomping Ground
+1 Copperline Gorge
 2 Abundant Harvest
 2 Thrasta, Tempest's Roar
+2 Stomping Ground
 3 Stomping Ground
 3 Abundant Harvest
-4 Abundant Harvest
 4 Stomping Ground
+4 Abundant Harvest
 4 Mutagenic Growth
 1 Marsh Flats
 1 Kolaghan's Command
