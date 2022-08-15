@@ -1,10 +1,10 @@
+2 Grist, the Hunger Tide
 3 Collected Company
 3 Grist, the Hunger Tide
 3 Ignoble Hierarch
 4 Collected Company
 4 Grist, the Hunger Tide
 1 Wooded Foothills
-2 Blackcleave Cliffs
 2 Ob Nixilis, the Adversary
 1 Forest
 4 Ignoble Hierarch
@@ -17,12 +17,6 @@
 4 Thoughtseize
 3 Wooded Foothills
 3 Den of the Bugbear
-1 Urborg, Tomb of Yawgmoth
-3 Graven Cairns
-4 Ob Nixilis, the Adversary
-1 Ziatora's Proving Ground
-1 Wrenn and Six
-3 Blackcleave Cliffs
 1 Fury
 2 Fury
 1 Grief
@@ -38,9 +32,17 @@
 3 Village Rites
 4 Grief
 4 Fury
+1 Urborg, Tomb of Yawgmoth
+4 Malakir Rebirth
+4 Village Rites
+3 Blackcleave Cliffs
+2 Swamp
+3 Graven Cairns
+4 Ob Nixilis, the Adversary
+1 Ziatora's Proving Ground
+1 Wrenn and Six
 1 Polluted Delta
 1 Carrion Feeder
-2 Swamp
 1 Marsh Flats
 2 Polluted Delta
 1 Gravecrawler
@@ -76,10 +78,9 @@
 4 Stitcher's Supplier
 4 Vengevine
 1 Tenacious Underdog
-4 Malakir Rebirth
-4 Village Rites
 4 Unearth
 1 Terminate
+1 Kolaghan's Command
 1 Snow-Covered Mountain
 2 Wrenn and Six
 3 Wrenn and Six
@@ -94,7 +95,6 @@
 2 Undead Augur
 3 Undead Augur
 4 Undead Augur
-1 Kolaghan's Command
 1 Greater Gargadon
 1 Fiend Artisan
 1 Scalding Tarn
@@ -122,25 +122,25 @@
 2 Lightning Bolt
 3 Lightning Bolt
 4 Lightning Bolt
-1 Cavern of Souls
 1 Shambling Ghast
+1 Cavern of Souls
+1 Aether Vial
 1 Jadar, Ghoulcaller of Nephalia
 1 Tragic Slip
 1 Geralf's Messenger
 1 Witch's Cottage
-1 Aether Vial
 1 Headless Rider
 2 Shambling Ghast
-2 Geralf's Messenger
 2 Aether Vial
+2 Geralf's Messenger
 2 Tragic Slip
 2 Cavern of Souls
 2 Headless Rider
 2 Jadar, Ghoulcaller of Nephalia
+3 Aether Vial
 3 Headless Rider
 3 Dreadhorde Butcher
 3 Tragic Slip
 3 Geralf's Messenger
 3 Swamp
-3 Aether Vial
 4 Geralf's Messenger

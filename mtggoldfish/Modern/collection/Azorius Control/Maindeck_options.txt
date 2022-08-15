@@ -1,39 +1,39 @@
-1 Glacial Fortress
-1 Dress Down
-1 Shark Typhoon
-2 The Wandering Emperor
-4 Island
-3 Chalice of the Void
+2 Memory Deluge
 1 Subtlety
-2 March of Otherworldly Light
+3 Fire/Ice
 1 Force of Negation
 2 Force of Negation
-2 Shark Typhoon
-1 Breeding Pool
+3 Chalice of the Void
 2 Jace, the Mind Sculptor
 2 Subtlety
-1 Raffine's Tower
-2 Polluted Delta
-2 Plains
+1 Dress Down
+1 Shark Typhoon
 3 Hallowed Fountain
-3 Subtlety
+1 Breeding Pool
 3 Force of Negation
-1 Snapcaster Mage
-2 Snapcaster Mage
-2 Misty Rainforest
-3 Shark Typhoon
-4 Fire/Ice
-3 Scalding Tarn
-1 Spara's Headquarters
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
-4 Mystic Gate
+3 Subtlety
+2 Shark Typhoon
+2 The Wandering Emperor
 1 Day's Undoing
 2 Day's Undoing
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
+2 Misty Rainforest
+2 March of Otherworldly Light
+1 Raffine's Tower
+2 Polluted Delta
+1 Prismatic Vista
+3 Shark Typhoon
+1 Spara's Headquarters
+4 Fire/Ice
+2 Plains
+3 Scalding Tarn
+4 Mystic Gate
+1 Snapcaster Mage
+2 Snapcaster Mage
 1 Castle Ardenvale
-2 Dress Down
 1 Snow-Covered Plains
 1 Field of Ruin
 1 Wall of Omens
@@ -93,13 +93,11 @@
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 3 Polluted Delta
+2 Dress Down
 1 Opt
 2 Opt
 3 Opt
 4 Opt
-1 Prismatic Vista
-1 Fateful Absence
-3 Snapcaster Mage
 3 Windswept Heath
 4 Windswept Heath
 8 Snow-Covered Plains
@@ -109,6 +107,9 @@
 3 Spreading Seas
 4 Spreading Seas
 1 Eiganjo, Seat of the Empire
+1 Geier Reach Sanitarium
+1 Sea Gate Restoration
+1 Fateful Absence
 2 Fateful Absence
 2 Steam Vents
 1 Timeless Dragon
@@ -118,6 +119,7 @@
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Polluted Delta
+3 Snapcaster Mage
 3 Memory Deluge
 1 Dovin's Veto
 2 Dovin's Veto
@@ -142,11 +144,11 @@
 1 Esper Sentinel
 1 Shadowspear
 1 Urza's Saga
-1 Emry, Lurker of the Loch
 1 Karn, the Great Creator
 1 Lavinia, Azorius Renegade
 1 Mox Amber
 1 Razortide Bridge
+1 Emry, Lurker of the Loch
 1 Thoughtcast
 1 Thought Monitor
 1 Aether Spellbomb
@@ -154,9 +156,9 @@
 2 Urza, Lord High Artificer
 2 Esper Sentinel
 2 Urza's Saga
-2 Emry, Lurker of the Loch
 2 Karn, the Great Creator
 2 Lavinia, Azorius Renegade
+2 Emry, Lurker of the Loch
 2 Razortide Bridge
 2 Thought Monitor
 2 Thoughtcast
@@ -165,20 +167,20 @@
 3 Urza, Lord High Artificer
 3 Urza's Saga
 3 Lavinia, Azorius Renegade
-3 Emry, Lurker of the Loch
 3 Karn, the Great Creator
 3 Thoughtcast
 3 Thought Monitor
 3 Mox Amber
 3 Razortide Bridge
+3 Emry, Lurker of the Loch
 4 Razortide Bridge
 4 Urza's Saga
 1 Spell Pierce
 1 Spell Snare
 1 Quicken
 1 Path to Exile
-1 Remand
 1 Seachrome Coast
+1 Remand
 2 Path to Exile
 2 Seachrome Coast
 3 Path to Exile
@@ -187,8 +189,6 @@
 1 Gemstone Caverns
 3 Day's Undoing
 4 Chalice of the Void
-3 Dress Down
-4 Dress Down
 3 Dovin's Veto
 4 Subtlety
 4 Dovin's Veto
@@ -198,8 +198,8 @@
 1 Mana Leak
 1 Fabled Passage
 1 Spell Queller
-2 Celestial Colonnade
 2 Brazen Borrower
+2 Celestial Colonnade
 2 Glacial Fortress
 2 Murktide Regent
 2 Consider

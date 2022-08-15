@@ -29,7 +29,7 @@
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |---------------------|-------------|--------------------:|------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191083)        |
-|                     |             |                    1|[Baleful Mastery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513541)|
 |                     |             |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)          |
+|                     |             |                    1|[Baleful Mastery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513541)|
+|                     |             |                    1|[Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191083)        |
 

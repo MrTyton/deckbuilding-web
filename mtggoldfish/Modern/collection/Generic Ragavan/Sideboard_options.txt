@@ -1,40 +1,40 @@
-2 Alpine Moon
+2 Unlicensed Hearse
 1 Flusterstorm
 2 Flusterstorm
 1 Shattering Spree
 2 Shattering Spree
+3 Shattering Spree
 1 Dragon's Claw
 2 Dragon's Claw
 1 Tormod's Crypt
 2 Tormod's Crypt
-3 Shattering Spree
-3 Soul-Guide Lantern
 1 Spell Pierce
 2 Spell Pierce
+3 Soul-Guide Lantern
+4 Shattering Spree
+3 Dragon's Claw
 1 Mystical Dispute
 2 Mystical Dispute
-1 Abrade
-1 Kozilek's Return
-1 Vapor Snag
-2 Abrade
 1 Magus of the Moon
 3 Tormod's Crypt
-1 Path to Exile
 3 Blood Moon
-4 Shattering Spree
+1 Path to Exile
 1 Roiling Vortex
 2 Roiling Vortex
 3 Roiling Vortex
 4 Blood Moon
+3 Alpine Moon
 2 Path to Exile
-3 Dragon's Claw
+1 Abrade
+1 Kozilek's Return
+1 Vapor Snag
+2 Abrade
 3 Mystical Dispute
 2 Magus of the Moon
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
-1 Island
 1 Boil
 3 Flusterstorm
 4 Flusterstorm
@@ -46,7 +46,6 @@
 1 Dress Down
 1 Terminate
 2 Dress Down
-3 Alpine Moon
 1 Hushbringer
 2 Hushbringer
 3 Chalice of the Void
@@ -57,18 +56,13 @@
 1 Pithing Needle
 2 Pithing Needle
 3 Pithing Needle
-1 Sanctifier en-Vec
-2 Sanctifier en-Vec
 1 Rest in Peace
 2 Rest in Peace
+1 Sanctifier en-Vec
+2 Sanctifier en-Vec
 1 Chandra, Torch of Defiance
+1 Island
 1 Experimental Frenzy
-1 Portable Hole
-1 Rip Apart
-1 Plains
-2 Portable Hole
-1 Mana Leak
-2 Mana Leak
 1 Shenanigans
 1 Drannith Magistrate
 2 Drannith Magistrate
@@ -77,10 +71,16 @@
 1 Spreading Seas
 1 Stony Silence
 2 Kataki, War's Wage
+1 Mana Leak
+2 Mana Leak
 1 Surgical Extraction
 1 Ensnaring Bridge
 2 Surgical Extraction
 2 Ensnaring Bridge
+1 Portable Hole
+1 Rip Apart
+1 Plains
+2 Portable Hole
 2 Terminate
 2 Kolaghan's Command
 1 Ob Nixilis, the Adversary
@@ -92,8 +92,8 @@
 1 Claim the Firstborn
 2 Claim the Firstborn
 3 Claim the Firstborn
-3 Wear/Tear
 3 Rest in Peace
+3 Wear/Tear
 3 Sanctifier en-Vec
 1 By Force
 4 Mystical Dispute

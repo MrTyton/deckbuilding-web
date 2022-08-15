@@ -33,6 +33,7 @@
 |                     |                                                                                           |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)         |
 |                     |                                                                                           |                    1|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|
 |                     |                                                                                           |                    2|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|
+|                     |                                                                                           |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)    |
 |                     |                                                                                           |                    1|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)         |
 |                     |                                                                                           |                    1|[Memory's Journey](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=254134)       |
 

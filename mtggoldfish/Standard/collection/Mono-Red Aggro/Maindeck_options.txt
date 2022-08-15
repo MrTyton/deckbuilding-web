@@ -1,16 +1,16 @@
-2 Creepy Puppeteer
-19 Mountain
-4 Den of the Bugbear
 3 Reinforced Ronin
-2 Shatterskull Charger
+4 Den of the Bugbear
+4 Reinforced Ronin
+1 Creepy Puppeteer
+2 Creepy Puppeteer
 1 Dragonkin Berserker
 2 Arni Brokenbrow
-4 Reinforced Ronin
-1 Chandra, Dressed to Kill
 1 Lizard Blades
 2 Lizard Blades
+1 Chandra, Dressed to Kill
 2 Chandra, Dressed to Kill
 3 Chandra, Dressed to Kill
+2 Shatterskull Charger
 2 Dragonkin Berserker
 3 Dragonkin Berserker
 1 Ogre-Head Helm
@@ -32,9 +32,6 @@
 2 Voltage Surge
 3 Voltage Surge
 4 Voltage Surge
-1 Battle Cry Goblin
-2 Battle Cry Goblin
-3 Battle Cry Goblin
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
 3 Fable of the Mirror-Breaker
@@ -46,17 +43,23 @@
 2 Voldaren Epicure
 3 Voldaren Epicure
 4 Voldaren Epicure
-1 Crawling Barrens
-1 Falkenrath Pit Fighter
-2 Falkenrath Pit Fighter
-3 Falkenrath Pit Fighter
-3 Shatterskull Smashing
-4 Battle Cry Goblin
-1 Goro-Goro, Disciple of Ryusei
 1 Kargan Intimidator
 2 Kargan Intimidator
 3 Kargan Intimidator
 4 Kargan Intimidator
+1 Crawling Barrens
+1 Falkenrath Pit Fighter
+2 Falkenrath Pit Fighter
+3 Falkenrath Pit Fighter
+1 Goro-Goro, Disciple of Ryusei
+1 Battle Cry Goblin
+2 Battle Cry Goblin
+3 Battle Cry Goblin
+1 Atsushi, the Blazing Sky
+1 Akki War Paint
+2 Atsushi, the Blazing Sky
+2 Akki War Paint
+3 Atsushi, the Blazing Sky
 1 Goldspan Dragon
 1 Goldhound
 2 Goldhound
@@ -66,15 +69,12 @@
 1 Experimental Synthesizer
 2 Experimental Synthesizer
 4 Ogre-Head Helm
-1 Atsushi, the Blazing Sky
 1 Igneous Inspiration
-1 Akki War Paint
-2 Atsushi, the Blazing Sky
 2 Igneous Inspiration
-2 Akki War Paint
 3 Igneous Inspiration
-3 Atsushi, the Blazing Sky
 4 Igneous Inspiration
+3 Shatterskull Smashing
+4 Battle Cry Goblin
 1 Cemetery Gatekeeper
 1 Thundering Rebuke
 1 Abrade
@@ -108,6 +108,7 @@
 15 Snow-Covered Mountain
 16 Snow-Covered Mountain
 17 Snow-Covered Mountain
+20 Mountain
 1 Getaway Car
 2 Getaway Car
 3 Experimental Synthesizer
@@ -159,7 +160,8 @@
 4 Kessig Wolfrider
 4 Sticky Fingers
 4 Seismic Wave
-20 Mountain
+21 Mountain
+22 Mountain
 1 Price of Loyalty
 1 Crackling Emergence
 1 Invoke Calamity
