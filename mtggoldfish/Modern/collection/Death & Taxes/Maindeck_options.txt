@@ -50,53 +50,53 @@
 2 Cavern of Souls
 3 Cavern of Souls
 1 Eldrazi Displacer
+1 Swamp
+1 Concealed Courtyard
 1 Shambling Vent
-1 Tidehollow Sculler
+1 Reality Smasher
 1 Relic of Progenitus
+1 Tidehollow Sculler
 1 Thought-Knot Seer
 1 Vault of the Archangel
-1 Swamp
 1 Caves of Koilos
-1 Concealed Courtyard
-1 Reality Smasher
 1 Eldrazi Temple
 1 Wasteland Strangler
 2 Eldrazi Displacer
 2 Concealed Courtyard
-2 Tidehollow Sculler
 2 Relic of Progenitus
 2 Reality Smasher
+2 Tidehollow Sculler
 2 Caves of Koilos
 2 Thought-Knot Seer
 2 Wasteland Strangler
 2 Shambling Vent
 2 Eldrazi Temple
 3 Eldrazi Displacer
-3 Tidehollow Sculler
 3 Concealed Courtyard
 3 Relic of Progenitus
+3 Reality Smasher
+3 Tidehollow Sculler
 3 Wasteland Strangler
 3 Eldrazi Temple
 3 Shambling Vent
 3 Thought-Knot Seer
 3 Caves of Koilos
-3 Reality Smasher
 4 Eldrazi Temple
 4 Concealed Courtyard
-4 Relic of Progenitus
+4 Reality Smasher
 4 Tidehollow Sculler
 4 Wasteland Strangler
 4 Eldrazi Displacer
 4 Thought-Knot Seer
-4 Reality Smasher
 4 Caves of Koilos
+4 Relic of Progenitus
 10 Snow-Covered Plains
 11 Snow-Covered Plains
 12 Snow-Covered Plains
 1 Needleverge Pathway
 1 Inspiring Vantage
-2 Inspiring Vantage
 2 Needleverge Pathway
+2 Inspiring Vantage
 3 Inspiring Vantage
 3 Needleverge Pathway
 4 Needleverge Pathway
@@ -111,9 +111,9 @@
 2 Prismatic Ending
 3 Prismatic Ending
 4 Arid Mesa
-1 Kiki-Jiki, Mirror Breaker
 1 Mountain
 1 Felidar Guardian
+1 Kiki-Jiki, Mirror Breaker
 1 Gavony Dawnguard
 1 Jetmir's Garden
 3 Windswept Heath
@@ -125,8 +125,8 @@
 3 Eiganjo, Seat of the Empire
 4 Blast Zone
 4 Eiganjo, Seat of the Empire
-1 Maul of the Skyclaves
 1 Touch the Spirit Realm
+1 Maul of the Skyclaves
 1 Razorverge Thicket
 1 Ambitious Farmhand
 1 Temple Garden
@@ -165,6 +165,9 @@
 1 Snow-Covered Mountain
 1 Expedition Map
 2 Touch the Spirit Realm
+1 Fable of the Mirror-Breaker
+2 Fable of the Mirror-Breaker
+3 Fable of the Mirror-Breaker
 1 Den of the Bugbear
 1 Sanctum Prelate
 1 Godless Shrine
@@ -172,36 +175,33 @@
 1 Rugged Prairie
 2 Thraben Inspector
 3 Thraben Inspector
-1 Fable of the Mirror-Breaker
-2 Fable of the Mirror-Breaker
-3 Fable of the Mirror-Breaker
-1 Flooded Strand
 1 Sokenzan, Crucible of Defiance
+1 Otawara, Soaring City
+1 Raugrin Triome
 1 Lavinia, Azorius Renegade
 1 Teferi, Time Raveler
 1 Island
+1 Flooded Strand
 1 Steam Vents
 1 Scalding Tarn
-1 Otawara, Soaring City
-1 Raugrin Triome
-2 Flooded Strand
-2 Scalding Tarn
 2 Teferi, Time Raveler
+2 Scalding Tarn
+2 Flooded Strand
 3 Flooded Strand
 3 Teferi, Time Raveler
 4 Prismatic Ending
-1 Ragavan, Nimble Pilferer
 1 Prismatic Vista
 1 Fury
-2 Ragavan, Nimble Pilferer
+1 Ragavan, Nimble Pilferer
 2 Prismatic Vista
 2 Magus of the Moon
-3 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
 3 Sunbaked Canyon
 3 Prismatic Vista
 3 Magus of the Moon
-4 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
 4 Prismatic Vista
+4 Ragavan, Nimble Pilferer
 2 Ranger-Captain of Eos
 3 Ranger-Captain of Eos
 4 Emeria's Call
@@ -237,14 +237,14 @@
 1 Gideon, Ally of Zendikar
 1 Force of Virtue
 1 Soldier of the Pantheon
-2 Mana Tithe
 2 Dryad Militant
+2 Mana Tithe
 2 Brave the Elements
 2 Soldier of the Pantheon
 2 Force of Virtue
-3 Mana Tithe
 3 Dryad Militant
+3 Mana Tithe
 3 Force of Virtue
-4 Mana Tithe
 4 Dryad Militant
+4 Mana Tithe
 4 Force of Virtue

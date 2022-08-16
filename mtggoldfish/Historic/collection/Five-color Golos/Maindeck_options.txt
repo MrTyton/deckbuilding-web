@@ -24,7 +24,6 @@
 2 Temple Garden
 3 Temple Garden
 1 Hinterland Harbor
-1 Hostage Taker
 1 Setessan Champion
 1 Woodland Cemetery
 1 Renegade Rallier
@@ -42,6 +41,7 @@
 1 Oath of Kaya
 1 In Search of Greatness
 1 Ravenous Chupacabra
+1 Hostage Taker
 1 The Scarab God
 1 Tolsimir, Friend to Wolves
 1 Raugrin Triome
@@ -119,9 +119,9 @@
 2 Gruul Guildgate
 2 Circuitous Route
 2 Izzet Guildgate
+3 Growth Spiral
 3 Explore
 3 Circuitous Route
-3 Growth Spiral
 3 Guild Summit
 3 Gates Ablaze
 3 Plaza of Harmony
@@ -238,8 +238,8 @@
 1 Root Snare
 1 Open the Gates
 1 Gate Colossus
-2 Valki, God of Lies
 2 Felidar Retreat
+2 Valki, God of Lies
 2 Rakdos Guildgate
 2 Boros Guildgate
 2 Gatebreaker Ram
@@ -252,11 +252,11 @@
 3 Root Snare
 3 Gate Colossus
 3 Gatebreaker Ram
+4 Growth Spiral
 4 Abundant Harvest
 4 Gatebreaker Ram
 4 Gate Colossus
 4 Open the Gates
-4 Growth Spiral
 1 Barkchannel Pathway
 1 Koma, Cosmos Serpent
 1 Vineglimmer Snarl
@@ -264,13 +264,13 @@
 1 Season of Growth
 1 Paradise Druid
 1 Castle Vantress
-1 Gemrazer
 1 Lotus Cobra
+1 Gemrazer
 1 Gilded Goose
 1 The Great Henge
-1 Nicol Bolas, Dragon-God
 1 Tamiyo, Collector of Tales
 1 Scute Swarm
+1 Nicol Bolas, Dragon-God
 1 Darkbore Pathway
 1 Nissa, Who Shakes the World
 1 Necroblossom Snarl
@@ -291,8 +291,8 @@
 2 Season of Growth
 2 Paradise Druid
 2 Nissa, Who Shakes the World
-2 Gemrazer
 2 Lotus Cobra
+2 Gemrazer
 2 Gilded Goose
 2 Insatiable Hemophage
 2 Boneyard Lurker
@@ -325,19 +325,19 @@
 1 Omniscience
 2 The World Tree
 1 Shefet Dunes
+1 Hydroid Krasis
 1 Hashep Oasis
 1 Hour of Promise
-1 Relic of Progenitus
-1 Hydroid Krasis
 1 Fae of Wishes
+1 Relic of Progenitus
 1 Omen of the Hunt
 1 Cultivate
 1 Mirari's Wake
 1 Wolfwillow Haven
+2 Hydroid Krasis
 2 Hashep Oasis
 2 Hour of Promise
 2 Shefet Dunes
-2 Hydroid Krasis
 2 Fae of Wishes
 2 Mirari's Wake
 2 Cultivate
@@ -430,6 +430,7 @@
 1 Phyrexian Tower
 1 Khalni Garden
 1 Blood Crypt
+1 Cragcrown Pathway
 1 Treasure Vault
 1 Magma Opus
 1 Chandra, Awakened Inferno
@@ -440,33 +441,32 @@
 1 Throes of Chaos
 1 Elesh Norn, Grand Cenobite
 1 Scholar of the Lost Trove
-1 Cragcrown Pathway
 1 Mirrodin's Core
 2 Treasure Vault
 2 Blood Crypt
 2 Chandra, Awakened Inferno
 2 Magma Opus
+2 Cragcrown Pathway
 2 Tibalt's Trickery
 2 Mirrodin's Core
 2 Phyrexian Tower
 2 Throes of Chaos
 2 Khalni Garden
 2 Emergent Ultimatum
-2 Cragcrown Pathway
 2 Scholar of the Lost Trove
 3 Alrund's Epiphany
+3 Throes of Chaos
 3 Blood Crypt
 3 Magma Opus
-3 Throes of Chaos
+3 Cragcrown Pathway
 3 Khalni Garden
 3 Emergent Ultimatum
-3 Cragcrown Pathway
 4 Alrund's Epiphany
 4 Emergent Ultimatum
 4 Blood Crypt
 4 Magma Opus
-4 Throes of Chaos
 4 Cragcrown Pathway
+4 Throes of Chaos
 4 Khalni Garden
 1 Snow-Covered Plains
 2 Cascading Cataracts

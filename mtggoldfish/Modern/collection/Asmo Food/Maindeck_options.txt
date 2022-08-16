@@ -3,15 +3,15 @@
 3 Street Wraith
 1 Blooming Marsh
 1 Gilded Goose
-1 Witch's Oven
 1 Overgrown Tomb
+1 Witch's Oven
 1 Verdant Catacombs
 1 Cauldron Familiar
 1 Finale of Devastation
 1 Feasting Troll King
-2 Overgrown Tomb
 2 Verdant Catacombs
 2 Gilded Goose
+2 Overgrown Tomb
 2 Witch's Oven
 2 Finale of Devastation
 2 Cauldron Familiar
@@ -46,8 +46,8 @@
 4 Overgrown Tomb
 1 Pithing Needle
 1 Goblin Engineer
-1 Steam Vents
 1 Scalding Tarn
+1 Steam Vents
 2 Goblin Engineer
 2 Scalding Tarn
 2 Bloodstained Mire
@@ -69,10 +69,10 @@
 2 Mayhem Devil
 3 Mayhem Devil
 3 Scalding Tarn
-1 Voldaren Epicure
 1 Blackcleave Cliffs
-2 Voldaren Epicure
+1 Voldaren Epicure
 2 Blackcleave Cliffs
+2 Voldaren Epicure
 3 Bloodstained Mire
 1 Blightstep Pathway
 1 Ramunap Ruins
@@ -90,8 +90,8 @@
 3 Mausoleum Secrets
 3 Shrapnel Blast
 3 Mountain
-4 Blackcleave Cliffs
 4 Galvanic Blast
+4 Blackcleave Cliffs
 4 Mausoleum Secrets
 4 Blightstep Pathway
 4 Shrapnel Blast
@@ -99,13 +99,9 @@
 2 Otawara, Soaring City
 2 Swamp
 2 Island
-1 Greater Gargadon
-2 Wooded Foothills
-2 Greater Gargadon
-3 Wooded Foothills
 1 Life from the Loam
-2 Life from the Loam
 2 Boseiju, Who Endures
+2 Life from the Loam
 3 Life from the Loam
 1 Hex Parasite
 1 Fatal Push
@@ -114,15 +110,19 @@
 2 Fatal Push
 3 Blood Crypt
 3 Fatal Push
+1 Greater Gargadon
+2 Wooded Foothills
+2 Greater Gargadon
+3 Wooded Foothills
+1 River of Tears
+1 Thoughtcast
+4 Darkslick Shores
 1 Pyrite Spellbomb
 3 Voldaren Epicure
 4 Goblin Engineer
 4 Bloodstained Mire
-4 Voldaren Epicure
 4 Scalding Tarn
-1 River of Tears
-1 Thoughtcast
-4 Darkslick Shores
+4 Voldaren Epicure
 1 Ziatora's Proving Ground
 1 Wrenn and Six
 1 Riveteers Ascendancy

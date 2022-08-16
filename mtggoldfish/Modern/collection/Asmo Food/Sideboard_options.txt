@@ -28,12 +28,6 @@
 2 Fulminator Mage
 3 Fulminator Mage
 1 Veil of Summer
-1 Brazen Borrower
-1 Echoing Truth
-2 Brazen Borrower
-2 Echoing Truth
-2 Nihil Spellbomb
-3 Flusterstorm
 1 Relic of Progenitus
 1 Magus of the Moon
 1 Surgical Extraction
@@ -42,18 +36,22 @@
 2 Magus of the Moon
 2 Void Mirror
 2 Shattering Spree
-3 Magus of the Moon
 3 Shattering Spree
+3 Magus of the Moon
+1 Brazen Borrower
+1 Echoing Truth
+2 Nihil Spellbomb
+2 Brazen Borrower
+2 Echoing Truth
+3 Flusterstorm
 1 Wear/Tear
 1 Hushbringer
-2 Hushbringer
 2 Wear/Tear
+2 Hushbringer
 3 Wear/Tear
 1 Shriekmaw
 2 Shriekmaw
 3 Shriekmaw
-1 Spell Pierce
-4 Teferi, Time Raveler
 1 Assassin's Trophy
 1 Inquisition of Kozilek
 2 Assassin's Trophy
@@ -68,6 +66,8 @@
 4 Leyline of the Void
 2 Metallic Rebuke
 4 Fulminator Mage
+1 Spell Pierce
+4 Teferi, Time Raveler
 1 Galvanic Blast
 1 Alpine Moon
 1 Tezzeret, Agent of Bolas

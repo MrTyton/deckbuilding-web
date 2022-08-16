@@ -40,14 +40,14 @@
 2 Ashiok, Dream Render
 2 Lingering Souls
 3 Lingering Souls
-1 Ceremonious Rejection
 1 Plague Engineer
 1 Cling to Dust
+1 Ceremonious Rejection
 1 Subtlety
 2 Force of Negation
 1 Serra's Emissary
-1 Tourach, Dread Cantor
 1 Unlicensed Hearse
+1 Tourach, Dread Cantor
 2 Shark Typhoon
 2 Blossoming Calm
 2 Summary Dismissal
@@ -64,10 +64,10 @@
 1 Kaya, Orzhov Usurper
 1 Fatal Push
 1 The Wandering Emperor
+1 Sunset Revelry
+1 Jace, the Mind Sculptor
 1 Leyline of the Void
 1 Settle the Wreckage
-1 Jace, the Mind Sculptor
-1 Sunset Revelry
 1 Sedgemoor Witch
 1 Elspeth, Sun's Nemesis
 1 Wrath of God
@@ -87,18 +87,13 @@
 2 Fatal Push
 2 March of Otherworldly Light
 3 March of Otherworldly Light
-1 Kataki, War's Wage
-1 Murderous Cut
-2 Murderous Cut
-3 Flusterstorm
-3 Prismatic Ending
 1 Relic of Progenitus
 1 Sanctifier en-Vec
-2 Relic of Progenitus
 2 Sanctifier en-Vec
-3 Relic of Progenitus
+2 Relic of Progenitus
 3 Thoughtseize
 3 Leyline of Sanctity
+3 Relic of Progenitus
 1 Path of Peril
 1 The Eldest Reborn
 1 Light of Hope
@@ -111,6 +106,11 @@
 1 Cryptic Command
 2 Nihil Spellbomb
 3 Nihil Spellbomb
+1 Kataki, War's Wage
+1 Murderous Cut
+2 Murderous Cut
+3 Prismatic Ending
+3 Flusterstorm
 1 Strict Proctor
 2 Strict Proctor
 3 Void Mirror
@@ -121,6 +121,6 @@
 1 Metallic Rebuke
 1 Lose Focus
 1 Aethersphere Harvester
-2 Tormod's Crypt
 2 Aethersphere Harvester
+2 Tormod's Crypt
 3 Tormod's Crypt

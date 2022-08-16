@@ -31,9 +31,9 @@
 |                    1|[Tinder Wall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2594)       |                    1|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)       |
 |                    3|[Chrome Mox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413761)      |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)         |
 |                     |                                                                                           |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)         |
+|                     |                                                                                           |                    1|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)         |
+|                     |                                                                                           |                    1|[Memory's Journey](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=254134)       |
 |                     |                                                                                           |                    1|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|
 |                     |                                                                                           |                    2|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|
 |                     |                                                                                           |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)    |
-|                     |                                                                                           |                    1|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)         |
-|                     |                                                                                           |                    1|[Memory's Journey](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=254134)       |
 

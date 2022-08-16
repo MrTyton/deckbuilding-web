@@ -2,11 +2,11 @@
 1 Ketria Triome
 4 Scapeshift
 1 Misty Rainforest
-1 Remand
 1 Expressive Iteration
 1 Growth Spiral
 1 Steam Vents
 1 Fire/Ice
+1 Remand
 2 Steam Vents
 2 Misty Rainforest
 2 Remand
@@ -16,14 +16,14 @@
 2 Ketria Triome
 3 Steam Vents
 3 Misty Rainforest
-3 Remand
 3 Ketria Triome
+3 Remand
 3 Expressive Iteration
 3 Growth Spiral
 4 Remand
-4 Expressive Iteration
 4 Misty Rainforest
 4 Steam Vents
+4 Expressive Iteration
 4 Growth Spiral
 1 Snow-Covered Forest
 1 Snow-Covered Mountain
@@ -60,6 +60,8 @@
 3 Dwarven Mine
 3 Summoner's Pact
 4 Summoner's Pact
+3 Bloodstained Mire
+4 Bloodstained Mire
 1 Mwonvuli Acid-Moss
 1 Chalice of the Void
 2 Mwonvuli Acid-Moss
@@ -67,8 +69,6 @@
 3 Chalice of the Void
 4 Chalice of the Void
 4 Valakut, the Molten Pinnacle
-3 Bloodstained Mire
-4 Bloodstained Mire
 1 Windswept Heath
 1 Obstinate Baloth
 1 Sweltering Suns
@@ -82,8 +82,8 @@
 7 Mountain
 1 Hour of Promise
 2 Snow-Covered Mountain
-1 Outland Liberator
 1 Cavern of Souls
+1 Outland Liberator
 1 Cartographer's Survey
 2 Cartographer's Survey
 1 Otawara, Soaring City

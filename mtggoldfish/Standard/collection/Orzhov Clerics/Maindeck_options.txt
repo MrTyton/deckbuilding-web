@@ -80,11 +80,11 @@
 1 Fierce Retribution
 2 Fierce Retribution
 10 Swamp
-2 Paladin Class
 2 Eradicator Valkyrie
+2 Paladin Class
 3 Doomskar
-3 Silverquill Command
 3 Edgar, Charmed Groom
+3 Silverquill Command
 1 Humiliate
 2 Humiliate
 1 Renegade Reaper
@@ -140,32 +140,32 @@
 3 Cleric Class
 1 Elspeth Resplendent
 1 Killian, Ink Duelist
-1 Silverquill Silencer
 1 Poet's Quill
+1 Silverquill Silencer
+1 Blood Fountain
 1 Concealing Curtains
 1 Path of Peril
 1 Inscription of Ruin
-1 Blood Fountain
 1 Giada, Font of Hope
 1 Dramatic Finale
 2 Concealing Curtains
+2 Path of Peril
+2 Blood Fountain
 2 Inscription of Ruin
 2 Starnheim Unleashed
-2 Path of Peril
 2 Firja's Retribution
 2 Giada, Font of Hope
-2 Blood Fountain
 2 Dramatic Finale
 11 Swamp
 12 Swamp
-1 Henrika Domnathi
 1 Welcoming Vampire
+1 Henrika Domnathi
 1 Chaplain of Alms
+2 The Wandering Emperor
+2 Welcoming Vampire
 2 Liesa, Forgotten Archangel
 2 Henrika Domnathi
-2 Welcoming Vampire
 2 Chaplain of Alms
-2 The Wandering Emperor
 1 Savior of Ollenbock
 2 Killian, Ink Duelist
 2 Savior of Ollenbock
@@ -186,10 +186,10 @@
 7 Snow-Covered Plains
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
+2 Priest of Ancient Lore
 1 March of Otherworldly Light
 1 Baleful Mastery
 2 Hagra Mauling
-2 Priest of Ancient Lore
 1 Sigarda's Splendor
 1 Curse of Leeches
 1 Marauding Blight-Priest
@@ -197,46 +197,48 @@
 2 Rite of Oblivion
 2 Marauding Blight-Priest
 2 Malakir Rebirth
+1 Maul of the Skyclaves
+1 Ondu Inversion
 1 Sparring Regimen
 1 Halvar, God of Battle
+1 Vorpal Sword
+1 Tergrid, God of Fright
+1 Sigrid, God-Favored
 1 Felidar Retreat
 1 Can't Stay Away
-1 Vorpal Sword
 1 Spirit-Sister's Call
-1 Sigrid, God-Favored
 1 Rise of Extus
 1 Shadrix Silverquill
 1 Blot Out the Sky
-1 Maul of the Skyclaves
-1 Tergrid, God of Fright
 1 Intrepid Adversary
-1 Ondu Inversion
 1 Team Pennant
 1 Reaper's Talisman
 2 Selfless Glyphweaver
 2 Shadrix Silverquill
 2 Blot Out the Sky
 1 Deadly Dispute
-2 Deadly Dispute
 2 Fateful Absence
-3 The Meathook Massacre
+2 Deadly Dispute
 3 Deadly Dispute
+3 The Meathook Massacre
 1 Go Blank
 2 Go Blank
 2 Power Word Kill
 3 Go Blank
+2 Dawnbringer Cleric
+3 Dawnbringer Cleric
 1 Duress
 1 Crippling Fear
 1 Valorous Stance
 2 Eiganjo, Seat of the Empire
+2 Takenuma, Abandoned Mire
 2 Duress
 2 Valorous Stance
 2 Crippling Fear
-2 Takenuma, Abandoned Mire
 3 Crippling Fear
-1 Sanctuary Warden
-1 Eyetwitch
 1 Angel of Suffering
+1 Eyetwitch
+1 Sanctuary Warden
 1 Raffine's Tower
 1 Glorious Protector
 1 Extraction Specialist
@@ -252,10 +254,11 @@
 1 Haunting Voyage
 2 Haunting Voyage
 3 Haunting Voyage
-2 Dawnbringer Cleric
-3 Dawnbringer Cleric
-1 Professor of Symbology
+3 Cave of the Frost Dragon
+4 Cave of the Frost Dragon
+4 Vanishing Verse
 1 Borrowed Time
+1 Professor of Symbology
 2 Borrowed Time
 2 Professor of Symbology
 3 Professor of Symbology
@@ -263,11 +266,8 @@
 4 Professor of Symbology
 4 Closing Statement
 4 Skyclave Cleric
-3 Cave of the Frost Dragon
-4 Vanishing Verse
-4 Cave of the Frost Dragon
-3 Scoured Barrens
 3 Snowfield Sinkhole
+3 Scoured Barrens
 4 Snowfield Sinkhole
 4 Scoured Barrens
 1 Vanquish the Horde

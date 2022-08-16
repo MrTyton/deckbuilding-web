@@ -142,8 +142,8 @@
 2 Sea Gate Restoration
 3 Sea Gate Restoration
 3 Teferi, Who Slows the Sunset
-1 Port of Karfell
 1 Consider
+1 Port of Karfell
 2 Consider
 3 Consider
 4 Consider
@@ -152,11 +152,11 @@
 1 Portable Hole
 2 Portable Hole
 3 Hive of the Eye Tyrant
-1 Power Word Kill
 1 Suspicious Stowaway
+1 Power Word Kill
 1 Treasure Vault
-2 Power Word Kill
 2 Suspicious Stowaway
+2 Power Word Kill
 2 Duress
 2 Treasure Vault
 3 Suspicious Stowaway
@@ -166,14 +166,17 @@
 4 Teferi, Who Slows the Sunset
 1 Baleful Mastery
 2 Baleful Mastery
-3 Baleful Mastery
 3 Field of Ruin
+3 Baleful Mastery
 3 March of Wretched Sorrow
 3 Witness the Future
 4 Field of Ruin
 4 Baleful Mastery
 1 Soul Transfer
 1 Ray of Enfeeblement
+1 Hero's Downfall
+2 Hero's Downfall
+2 Cave of the Frost Dragon
 1 The Restoration of Eiganjo
 2 The Restoration of Eiganjo
 1 Junji, the Midnight Sky
@@ -182,15 +185,12 @@
 1 Skyclave Apparition
 1 Dorothea, Vengeful Victim
 2 Skyclave Apparition
-2 Cave of the Frost Dragon
 2 Kotose, the Silent Spider
-1 Hero's Downfall
-2 Hero's Downfall
 1 Vanquish the Horde
 1 Skybridge Towers
 2 Skybridge Towers
 2 Test of Talents
-3 Bloodchief's Thirst
+3 The Celestus
 3 Edgar, Charmed Groom
 1 Silundi Vision
 2 Eiganjo, Seat of the Empire
@@ -199,7 +199,7 @@
 2 Sanctuary Warden
 3 Sanctuary Warden
 3 Plains
-3 The Celestus
+3 Bloodchief's Thirst
 1 Sedgemoor Witch
 2 Sedgemoor Witch
 3 Sedgemoor Witch
@@ -208,42 +208,42 @@
 1 Wash Away
 2 Wash Away
 4 Obscura Interceptor
-1 Depopulate
-1 Faithful Mending
-2 Path of Peril
-3 Path of Peril
-3 Make Disappear
-4 Make Disappear
 1 Inscription of Ruin
 1 Shineshadow Snarl
 4 Emeria's Call
-1 The Raven's Warning
 1 Snow-Covered Swamp
-1 Snow-Covered Plains
 1 Snow-Covered Island
+1 Snow-Covered Plains
+1 The Raven's Warning
 1 Queza, Augur of Agonies
-2 Snow-Covered Island
 2 Snow-Covered Plains
+2 Snow-Covered Island
 2 Snow-Covered Swamp
-2 The Raven's Warning
 2 Queza, Augur of Agonies
+2 The Raven's Warning
 3 Snow-Covered Island
-3 Hagra Mauling
-3 The Raven's Warning
 3 Snow-Covered Plains
+3 Hagra Mauling
 3 Snow-Covered Swamp
+3 The Raven's Warning
 4 The Raven's Warning
 1 Luxior, Giada's Gift
 1 Tezzeret, Betrayer of Flesh
 1 Containment Construct
-2 Kaya the Inexorable
 2 Luxior, Giada's Gift
+2 Kaya the Inexorable
 2 Tezzeret, Betrayer of Flesh
 2 Containment Construct
 3 Portable Hole
 3 Containment Construct
 3 Luxior, Giada's Gift
 4 Luxior, Giada's Gift
+1 Depopulate
+1 Faithful Mending
+2 Path of Peril
+3 Make Disappear
+3 Path of Peril
+4 Make Disappear
 1 Check for Traps
 1 Spirited Companion
 1 Welcoming Vampire

@@ -24,10 +24,10 @@
 2 Brazen Borrower
 1 Pithing Needle
 1 Grip of Phyresis
-1 Spell Pierce
-2 Spell Pierce
 2 Harbinger of the Tides
 2 Ashiok, Dream Render
+1 Spell Pierce
+2 Spell Pierce
 1 Gut Shot
 2 Gut Shot
 3 Gut Shot
@@ -50,6 +50,13 @@
 2 Phantasmal Terrain
 1 Cursed Totem
 2 Cursed Totem
+1 Veil of Summer
+1 Endurance
+1 Ensnare
+1 Run Afoul
+2 Endurance
+2 Run Afoul
+3 Endurance
 2 Venser, Shaper Savant
 2 Umezawa's Jitte
 3 Dismember
@@ -57,13 +64,6 @@
 1 Suspend
 2 Suspend
 3 Suspend
-1 Ensnare
-1 Veil of Summer
-1 Run Afoul
-1 Endurance
-2 Endurance
-2 Run Afoul
-3 Endurance
 1 Leyline of the Void
 1 Fumble
 2 Leyline of the Void
@@ -76,9 +76,9 @@
 3 Faerie Macabre
 3 Warping Wail
 4 Faerie Macabre
-1 True-Name Nemesis
 1 Mistcaller
 1 Phantasmal Image
+1 True-Name Nemesis
 2 Phantasmal Image
 2 True-Name Nemesis
 3 True-Name Nemesis
@@ -87,8 +87,8 @@
 1 Paradigm Shift
 2 Thassa's Oracle
 2 Paradigm Shift
-3 Thassa's Oracle
 3 Paradigm Shift
+3 Thassa's Oracle
 4 Thassa's Oracle
 4 Paradigm Shift
 2 Blue Elemental Blast
