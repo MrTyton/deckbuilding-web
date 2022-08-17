@@ -4,16 +4,15 @@
 2 Scalding Tarn
 2 Steam Vents
 3 Scalding Tarn
-1 Jace, the Mind Sculptor
-4 Solitude
 1 Celestial Colonnade
+4 Solitude
+1 Jace, the Mind Sculptor
 1 Spirebluff Canal
 2 Spirebluff Canal
 1 Lightning Bolt
 2 Lightning Bolt
 3 Lightning Bolt
-1 March of Otherworldly Light
-3 Chalice of the Void
+4 Scalding Tarn
 1 Expressive Iteration
 1 Ragavan, Nimble Pilferer
 2 Expressive Iteration
@@ -21,41 +20,42 @@
 3 Expressive Iteration
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
+1 March of Otherworldly Light
+3 Chalice of the Void
 1 Sacred Foundry
 1 Cryptic Command
 1 Fury
 2 Raugrin Triome
 2 March of Otherworldly Light
 3 Memory Deluge
-1 Seachrome Coast
-2 Seachrome Coast
 2 Fury
 3 Fury
 4 Fury
 2 Cryptic Command
-1 Lotus Field
-1 Blood Sun
 1 Flagstones of Trokair
+1 Blood Sun
+1 Seachrome Coast
 1 Valakut Awakening
-2 Flagstones of Trokair
-2 Lotus Field
-2 Blood Sun
+1 Lotus Field
 2 Valakut Awakening
-3 Flagstones of Trokair
-3 Blood Sun
-3 Lotus Field
+2 Flagstones of Trokair
+2 Blood Sun
+2 Seachrome Coast
+2 Lotus Field
 3 Teferi, Hero of Dominaria
 3 Valakut Awakening
+3 Lotus Field
 3 Cryptic Command
+3 Flagstones of Trokair
+3 Blood Sun
 3 Spirebluff Canal
-4 Flagstones of Trokair
-4 Blood Sun
-4 Lotus Field
 4 Memory Deluge
+4 Lotus Field
 4 Cryptic Command
 4 Valakut Awakening
+4 Flagstones of Trokair
 4 Teferi, Hero of Dominaria
-1 Brazen Borrower
+4 Blood Sun
 4 Lightning Bolt
 1 Batterskull
 1 Kaldra Compleat
@@ -63,18 +63,19 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+4 Expressive Iteration
 1 The Wandering Emperor
+1 Brazen Borrower
 1 Dress Down
-4 Scalding Tarn
 4 Teferi, Time Raveler
 4 Fire/Ice
-4 Expressive Iteration
 1 Spell Pierce
 2 Spell Pierce
 2 Polluted Delta
 3 March of Otherworldly Light
 1 Snow-Covered Plains
 1 Snow-Covered Island
+3 Snapcaster Mage
 1 Arid Mesa
 3 Steam Vents
 3 Polluted Delta
@@ -82,7 +83,6 @@
 1 Path to Exile
 2 Path to Exile
 1 Spell Snare
-3 Snapcaster Mage
 4 Snapcaster Mage
 2 Jace, the Mind Sculptor
 2 Arid Mesa
@@ -106,7 +106,6 @@
 2 Sacred Foundry
 1 Castle Ardenvale
 1 Subtlety
-1 Suspend
 1 Eiganjo, Seat of the Empire
 1 Izzet Boilerworks
 1 Azorius Chancery
@@ -118,6 +117,7 @@
 2 Ephemerate
 2 Snow-Covered Island
 3 Snow-Covered Island
+3 Spell Pierce
 1 Emrakul, the Aeons Torn
 1 Nahiri, the Harbinger
 2 Nahiri, the Harbinger
@@ -132,27 +132,27 @@
 4 Misty Rainforest
 1 Fable of the Mirror-Breaker
 1 Remand
-1 Bloodstained Mire
-1 Combat Celebrant
-1 Kiki-Jiki, Mirror Breaker
 1 Hard Evidence
 1 Silence
 1 Strike It Rich
+1 Kiki-Jiki, Mirror Breaker
 1 Indomitable Creativity
+1 Bloodstained Mire
 1 Wooded Foothills
 1 Dwarven Mine
+1 Combat Celebrant
+2 Wooded Foothills
 2 Fable of the Mirror-Breaker
 2 Remand
-2 Bloodstained Mire
 2 Hard Evidence
 2 Silence
-2 Wooded Foothills
+2 Bloodstained Mire
 2 Strike It Rich
 2 Dwarven Mine
 2 Indomitable Creativity
-3 Wooded Foothills
 3 Fable of the Mirror-Breaker
 3 Dwarven Mine
+3 Wooded Foothills
 3 Indomitable Creativity
 3 Strike It Rich
 4 Fable of the Mirror-Breaker
@@ -168,15 +168,15 @@
 5 Island
 6 Island
 7 Island
-1 Vendilion Clique
 1 Serum Visions
+1 Vendilion Clique
 1 Ajani Vengeant
 1 Keranos, God of Storms
 1 Crumble to Dust
+2 Serum Visions
 2 Crumble to Dust
 2 Spell Snare
 2 Vendilion Clique
-2 Serum Visions
 3 Celestial Colonnade
 3 Path to Exile
 3 Sacred Foundry

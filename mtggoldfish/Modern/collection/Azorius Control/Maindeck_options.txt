@@ -1,63 +1,72 @@
-2 Memory Deluge
+4 Island
 1 Subtlety
 3 Fire/Ice
 1 Force of Negation
 2 Force of Negation
 3 Chalice of the Void
-2 Jace, the Mind Sculptor
-2 Subtlety
-1 Dress Down
 1 Shark Typhoon
-3 Hallowed Fountain
+2 Subtlety
+2 Jace, the Mind Sculptor
 1 Breeding Pool
+2 Shark Typhoon
+3 Hallowed Fountain
 3 Force of Negation
+2 Polluted Delta
+3 Shark Typhoon
+1 Dress Down
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Subtlety
-2 Shark Typhoon
 2 The Wandering Emperor
+2 Misty Rainforest
 1 Day's Undoing
 2 Day's Undoing
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
-2 Misty Rainforest
-2 March of Otherworldly Light
 1 Raffine's Tower
-2 Polluted Delta
-1 Prismatic Vista
-3 Shark Typhoon
-1 Spara's Headquarters
+2 March of Otherworldly Light
+1 Castle Ardenvale
+3 Polluted Delta
 4 Fire/Ice
-2 Plains
-3 Scalding Tarn
-4 Mystic Gate
 1 Snapcaster Mage
 2 Snapcaster Mage
-1 Castle Ardenvale
-1 Snow-Covered Plains
+3 Scalding Tarn
+2 Plains
+1 Spara's Headquarters
+1 Prismatic Vista
+1 Opt
+2 Opt
+3 Opt
+4 Opt
+4 Mystic Gate
+1 Eiganjo, Seat of the Empire
+4 Shark Typhoon
 1 Field of Ruin
-1 Wall of Omens
-2 Wall of Omens
-3 Wall of Omens
-3 March of Otherworldly Light
-4 Wall of Omens
-1 Arid Mesa
+3 Snapcaster Mage
+1 Snow-Covered Plains
+5 Island
 2 Field of Ruin
 3 Field of Ruin
-4 Hallowed Fountain
 4 Field of Ruin
+1 Wall of Omens
+2 Wall of Omens
+3 March of Otherworldly Light
+3 Wall of Omens
+4 Wall of Omens
+1 Arid Mesa
+4 Hallowed Fountain
 1 Prairie Stream
+1 Charming Prince
 1 Thraben Inspector
 1 Windswept Heath
 1 Marsh Flats
 1 Ranger-Captain of Eos
-1 Giant Killer
 1 Ambitious Farmhand
+1 Giant Killer
 1 Skyclave Apparition
 1 Idyllic Grange
 1 Emeria, the Sky Ruin
 1 Ephemerate
-1 Charming Prince
 1 Sun Titan
 1 Burrenton Forge-Tender
 2 Charming Prince
@@ -65,21 +74,21 @@
 2 Windswept Heath
 2 Marsh Flats
 2 Ambitious Farmhand
-2 Thraben Inspector
 2 Ranger-Captain of Eos
 2 Sun Titan
 2 Ephemerate
 2 Skyclave Apparition
+2 Thraben Inspector
 2 Emeria, the Sky Ruin
 3 Snow-Covered Plains
 3 Charming Prince
 3 Ambitious Farmhand
-3 Thraben Inspector
 3 Ranger-Captain of Eos
 3 Ephemerate
 3 Skyclave Apparition
 3 Sun Titan
 3 Emeria, the Sky Ruin
+3 Thraben Inspector
 4 Snow-Covered Plains
 4 Charming Prince
 4 Ranger-Captain of Eos
@@ -92,39 +101,33 @@
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains
-3 Polluted Delta
-2 Dress Down
-1 Opt
-2 Opt
-3 Opt
-4 Opt
-3 Windswept Heath
-4 Windswept Heath
-8 Snow-Covered Plains
-5 Island
+2 Glacial Fortress
 1 Spreading Seas
 2 Spreading Seas
 3 Spreading Seas
 4 Spreading Seas
-1 Eiganjo, Seat of the Empire
 1 Geier Reach Sanitarium
 1 Sea Gate Restoration
+2 Dress Down
 1 Fateful Absence
 2 Fateful Absence
 2 Steam Vents
 1 Timeless Dragon
-4 Shark Typhoon
 1 Glimpse of Freedom
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Polluted Delta
-3 Snapcaster Mage
+1 Path to Exile
+2 Path to Exile
+3 Path to Exile
+4 Path to Exile
+4 Snapcaster Mage
 3 Memory Deluge
 1 Dovin's Veto
 2 Dovin's Veto
-1 Nimble Obstructionist
 1 Omen of the Sea
+1 Nimble Obstructionist
 1 Watery Grave
 2 Omen of the Sea
 2 Nimble Obstructionist
@@ -135,23 +138,32 @@
 3 Marsh Flats
 3 Arid Mesa
 4 Ambitious Farmhand
+3 Windswept Heath
+4 Windswept Heath
+8 Snow-Covered Plains
 1 Approach of the Second Sun
 2 Approach of the Second Sun
 3 Approach of the Second Sun
 1 Lonely Sandbar
+1 Spell Pierce
+1 Seachrome Coast
+1 Spell Snare
+1 Quicken
+1 Remand
+2 Seachrome Coast
 3 Castle Vantress
 1 Urza, Lord High Artificer
-1 Esper Sentinel
 1 Shadowspear
 1 Urza's Saga
+1 Aether Spellbomb
 1 Karn, the Great Creator
 1 Lavinia, Azorius Renegade
 1 Mox Amber
 1 Razortide Bridge
 1 Emry, Lurker of the Loch
+1 Esper Sentinel
 1 Thoughtcast
 1 Thought Monitor
-1 Aether Spellbomb
 1 Mishra's Bauble
 2 Urza, Lord High Artificer
 2 Esper Sentinel
@@ -175,17 +187,6 @@
 3 Emry, Lurker of the Loch
 4 Razortide Bridge
 4 Urza's Saga
-1 Spell Pierce
-1 Seachrome Coast
-1 Spell Snare
-1 Quicken
-1 Path to Exile
-1 Remand
-2 Seachrome Coast
-2 Path to Exile
-3 Path to Exile
-4 Path to Exile
-4 Snapcaster Mage
 1 Gemstone Caverns
 3 Day's Undoing
 4 Chalice of the Void
@@ -200,17 +201,16 @@
 1 Spell Queller
 2 Brazen Borrower
 2 Celestial Colonnade
-2 Glacial Fortress
 2 Consider
 2 Murktide Regent
 2 Mana Leak
 2 Fabled Passage
 2 Spell Queller
-3 Mana Leak
 3 Glacial Fortress
-3 Brazen Borrower
 3 Consider
+3 Mana Leak
 3 Spell Queller
 3 Fabled Passage
+3 Brazen Borrower
 4 Force of Negation
 6 Island
