@@ -1,11 +1,10 @@
-1 Takenuma, Abandoned Mire
 1 Voldaren Epicure
 1 Insolent Neonate
-1 Professor of Symbology
 1 Seasoned Pyromancer
-1 Fabled Passage
-1 Dragonskull Summit
+1 Professor of Symbology
 1 Hive of the Eye Tyrant
+1 Takenuma, Abandoned Mire
+1 Fabled Passage
 1 Sacred Foundry
 1 Savai Triome
 1 Fragmentize
@@ -16,23 +15,24 @@
 1 Can't Stay Away
 1 Mountain
 1 Goblin Engineer
+1 Dragonskull Summit
 1 Skysovereign, Consul Flagship
 2 Voldaren Epicure
 2 Sacred Foundry
 2 Insolent Neonate
-2 Fabled Passage
 2 Seasoned Pyromancer
 2 Fragmentize
 2 Plains
 2 Professor of Symbology
-2 Dragonskull Summit
+2 Fabled Passage
 2 Swamp
 2 Goblin Engineer
 2 Blood Crypt
 2 Can't Stay Away
 2 Mountain
-3 Voldaren Epicure
+2 Dragonskull Summit
 3 Sacred Foundry
+3 Voldaren Epicure
 3 Seasoned Pyromancer
 3 Insolent Neonate
 3 Can't Stay Away
@@ -42,17 +42,15 @@
 4 Seasoned Pyromancer
 4 Goblin Engineer
 1 Glass Casket
-1 Curious Obsession
 1 Secluded Courtyard
-1 Curiosity
 1 Unclaimed Territory
 1 Rally the Ranks
+1 Witness Protection
 1 Faerie Seer
 1 Rankle, Master of Pranks
 1 Baffling End
 1 Faerie Miscreant
 1 Brazen Borrower
-1 Witness Protection
 1 Mire's Grasp
 1 Island
 1 Makindi Stampede
@@ -63,12 +61,14 @@
 1 Kabira Takedown
 1 Favorable Winds
 1 Rally of Wings
+1 Curious Obsession
 1 Prison Realm
 1 Otawara, Soaring City
 1 Distant Melody
 1 Alela, Artful Provocateur
 1 Hushbringer
 1 Clearwater Pathway
+1 Curiosity
 2 Secluded Courtyard
 2 Unclaimed Territory
 2 Island
@@ -79,9 +79,9 @@
 2 Hypnotic Sprite
 2 Alela, Artful Provocateur
 2 Clearwater Pathway
-3 Brazen Borrower
 3 Unclaimed Territory
 3 Secluded Courtyard
+3 Brazen Borrower
 3 Faerie Seer
 3 Faerie Miscreant
 3 Alela, Artful Provocateur
@@ -89,10 +89,10 @@
 3 Hypnotic Sprite
 4 Secluded Courtyard
 4 Unclaimed Territory
-4 Brazen Borrower
 4 Faerie Seer
 4 Faerie Miscreant
 4 Alela, Artful Provocateur
+4 Brazen Borrower
 4 Hypnotic Sprite
 1 Shattered Sanctum
 2 Deserted Beach
