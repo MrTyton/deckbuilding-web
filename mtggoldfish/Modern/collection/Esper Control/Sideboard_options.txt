@@ -46,8 +46,8 @@
 1 Subtlety
 2 Force of Negation
 1 Serra's Emissary
-1 Tourach, Dread Cantor
 1 Unlicensed Hearse
+1 Tourach, Dread Cantor
 2 Shark Typhoon
 2 Summary Dismissal
 2 Blossoming Calm
@@ -72,7 +72,6 @@
 1 Wrath of God
 1 The Wandering Emperor
 1 Winds of Abandon
-2 Tourach, Dread Cantor
 1 Collective Brutality
 2 Unlicensed Hearse
 2 Ceremonious Rejection
@@ -80,6 +79,7 @@
 2 Narset, Parter of Veils
 2 Void Rend
 2 Tale's End
+2 Tourach, Dread Cantor
 2 Vindicate
 3 Mystical Dispute
 1 Test of Talents
@@ -87,25 +87,25 @@
 2 Fatal Push
 2 March of Otherworldly Light
 3 March of Otherworldly Light
-1 Cryptic Command
-2 Nihil Spellbomb
-3 Nihil Spellbomb
 1 Relic of Progenitus
 1 Sanctifier en-Vec
-2 Relic of Progenitus
 2 Sanctifier en-Vec
-3 Relic of Progenitus
+2 Relic of Progenitus
 3 Leyline of Sanctity
 3 Thoughtseize
-1 Murderous Rider
+3 Relic of Progenitus
 1 Path of Peril
 1 The Eldest Reborn
 1 Light of Hope
-2 Murderous Rider
+1 Murderous Rider
 2 Path of Peril
+2 Murderous Rider
 2 The Eldest Reborn
 2 Solitude
 3 Kaya's Guile
+1 Cryptic Command
+2 Nihil Spellbomb
+3 Nihil Spellbomb
 1 Kataki, War's Wage
 1 Murderous Cut
 2 Murderous Cut
@@ -121,6 +121,6 @@
 1 Metallic Rebuke
 1 Lose Focus
 1 Aethersphere Harvester
-2 Tormod's Crypt
 2 Aethersphere Harvester
+2 Tormod's Crypt
 3 Tormod's Crypt

@@ -23,26 +23,26 @@
 2 Thoughtseize
 3 Priest of Fell Rites
 1 Blood Crypt
-1 Arid Mesa
-1 Savai Triome
 1 Fury
+1 Arid Mesa
 1 Mountain
+1 Savai Triome
 1 Fable of the Mirror-Breaker
 1 Blackcleave Cliffs
 1 Sacred Foundry
 1 Seasoned Pyromancer
-2 Arid Mesa
 2 Blood Crypt
 2 Seasoned Pyromancer
+2 Arid Mesa
 2 Blackcleave Cliffs
 2 Fable of the Mirror-Breaker
 2 Fury
+3 Fury
 3 Fable of the Mirror-Breaker
 3 Seasoned Pyromancer
-3 Fury
-4 Bloodstained Mire
-4 Priest of Fell Rites
 4 Fable of the Mirror-Breaker
+4 Priest of Fell Rites
+4 Bloodstained Mire
 4 Seasoned Pyromancer
 1 Malakir Rebirth
 3 Thoughtseize
@@ -52,8 +52,8 @@
 1 Fatal Push
 4 Thoughtseize
 2 Malakir Rebirth
-3 Arid Mesa
 3 Blackcleave Cliffs
+3 Arid Mesa
 2 Fatal Push
 3 Verdant Catacombs
 4 Verdant Catacombs
@@ -82,9 +82,9 @@
 2 Cabal Coffers
 2 Castle Locthwain
 3 Golos, Tireless Pilgrim
+3 Swamp
 3 Cabal Coffers
 3 Expedition Map
-3 Swamp
 4 Swamp
 4 Expedition Map
 4 Cabal Coffers
@@ -103,34 +103,34 @@
 2 Bone Shards
 1 Glasspool Mimic
 1 Terastodon
-1 Restoration Angel
-1 Inspiring Vantage
-1 Unlicensed Hearse
-1 Ragavan, Nimble Pilferer
-2 Plains
-2 Restoration Angel
-2 Inspiring Vantage
-2 Unlicensed Hearse
-2 Ragavan, Nimble Pilferer
-3 Unlicensed Hearse
-3 Inspiring Vantage
-3 Ragavan, Nimble Pilferer
-4 Unlicensed Hearse
-4 Arid Mesa
-4 Ragavan, Nimble Pilferer
-1 Wooded Foothills
-1 Insolent Neonate
-1 Sunbaked Canyon
-1 Ox of Agonas
 1 Stomping Ground
-2 Insolent Neonate
+1 Sunbaked Canyon
+1 Insolent Neonate
+1 Wooded Foothills
+1 Ox of Agonas
 2 Sunbaked Canyon
+2 Insolent Neonate
 2 Wooded Foothills
 3 Blood Crypt
 3 Insolent Neonate
 3 Fatal Push
-4 Insolent Neonate
 4 Fury
+4 Insolent Neonate
+1 Ragavan, Nimble Pilferer
+1 Restoration Angel
+1 Unlicensed Hearse
+1 Inspiring Vantage
+2 Ragavan, Nimble Pilferer
+2 Plains
+2 Inspiring Vantage
+2 Restoration Angel
+2 Unlicensed Hearse
+3 Ragavan, Nimble Pilferer
+3 Inspiring Vantage
+3 Unlicensed Hearse
+4 Ragavan, Nimble Pilferer
+4 Arid Mesa
+4 Unlicensed Hearse
 1 Kaya, Orzhov Usurper
 1 Xander's Lounge
 1 Drowned Catacomb
@@ -154,9 +154,9 @@
 4 Counterspell
 4 Prismatic Ending
 1 Barren Moor
-1 Urza's Saga
-1 Nihil Spellbomb
 1 Shadowspear
+1 Nihil Spellbomb
+1 Urza's Saga
 1 The Underworld Cookbook
 1 Ovalchase Daredevil
 1 Asmoranomardicadaistinaculdacar
@@ -164,12 +164,12 @@
 2 The Underworld Cookbook
 2 Asmoranomardicadaistinaculdacar
 2 Ovalchase Daredevil
-3 Urza's Saga
 3 Ovalchase Daredevil
+3 Urza's Saga
 3 Asmoranomardicadaistinaculdacar
 3 The Underworld Cookbook
 4 Concealed Courtyard
-4 Urza's Saga
 4 The Underworld Cookbook
 4 Ovalchase Daredevil
+4 Urza's Saga
 4 Asmoranomardicadaistinaculdacar
