@@ -70,4 +70,4 @@
 
 
 
-#### Last Updated at 12:29AM on August 20, 2022
+#### Last Updated at 12:29PM on August 20, 2022
