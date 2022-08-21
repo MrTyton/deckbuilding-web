@@ -23,13 +23,13 @@
 2 Thoughtseize
 3 Priest of Fell Rites
 1 Blood Crypt
-1 Fury
+1 Sacred Foundry
 1 Arid Mesa
-1 Mountain
 1 Savai Triome
+1 Fury
+1 Mountain
 1 Fable of the Mirror-Breaker
 1 Blackcleave Cliffs
-1 Sacred Foundry
 1 Seasoned Pyromancer
 2 Blood Crypt
 2 Seasoned Pyromancer
@@ -37,13 +37,13 @@
 2 Blackcleave Cliffs
 2 Fable of the Mirror-Breaker
 2 Fury
-3 Fury
 3 Fable of the Mirror-Breaker
 3 Seasoned Pyromancer
+3 Fury
+4 Seasoned Pyromancer
 4 Fable of the Mirror-Breaker
 4 Priest of Fell Rites
 4 Bloodstained Mire
-4 Seasoned Pyromancer
 1 Malakir Rebirth
 3 Thoughtseize
 1 Glacial Fortress
@@ -68,10 +68,10 @@
 2 Hallowed Fountain
 1 Takenuma, Abandoned Mire
 1 Castle Locthwain
+1 Expedition Map
 1 Bloodchief's Thirst
 1 Cling to Dust
 1 Cascading Cataracts
-1 Expedition Map
 1 Golos, Tireless Pilgrim
 1 Cabal Coffers
 1 Blast Zone
@@ -82,18 +82,18 @@
 2 Cabal Coffers
 2 Castle Locthwain
 3 Golos, Tireless Pilgrim
-3 Swamp
 3 Cabal Coffers
 3 Expedition Map
+3 Swamp
 4 Swamp
 4 Expedition Map
 4 Cabal Coffers
 4 Golos, Tireless Pilgrim
 5 Swamp
 2 Sacred Foundry
+2 Snow-Covered Swamp
 1 Blood Fountain
 2 Blood Fountain
-2 Snow-Covered Swamp
 1 Tourach, Dread Cantor
 1 Bojuka Bog
 1 Inquisition of Kozilek
@@ -103,34 +103,34 @@
 2 Bone Shards
 1 Glasspool Mimic
 1 Terastodon
+1 Restoration Angel
+1 Inspiring Vantage
+1 Unlicensed Hearse
+1 Ragavan, Nimble Pilferer
+2 Plains
+2 Restoration Angel
+2 Inspiring Vantage
+2 Unlicensed Hearse
+2 Ragavan, Nimble Pilferer
+3 Inspiring Vantage
+3 Unlicensed Hearse
+3 Ragavan, Nimble Pilferer
+4 Arid Mesa
+4 Unlicensed Hearse
+4 Ragavan, Nimble Pilferer
 1 Stomping Ground
-1 Sunbaked Canyon
 1 Insolent Neonate
-1 Wooded Foothills
+1 Sunbaked Canyon
 1 Ox of Agonas
-2 Sunbaked Canyon
+1 Wooded Foothills
 2 Insolent Neonate
 2 Wooded Foothills
+2 Sunbaked Canyon
 3 Blood Crypt
 3 Insolent Neonate
 3 Fatal Push
-4 Fury
 4 Insolent Neonate
-1 Ragavan, Nimble Pilferer
-1 Restoration Angel
-1 Unlicensed Hearse
-1 Inspiring Vantage
-2 Ragavan, Nimble Pilferer
-2 Plains
-2 Inspiring Vantage
-2 Restoration Angel
-2 Unlicensed Hearse
-3 Ragavan, Nimble Pilferer
-3 Inspiring Vantage
-3 Unlicensed Hearse
-4 Ragavan, Nimble Pilferer
-4 Arid Mesa
-4 Unlicensed Hearse
+4 Fury
 1 Kaya, Orzhov Usurper
 1 Xander's Lounge
 1 Drowned Catacomb
@@ -145,18 +145,11 @@
 3 Bloodchief's Thirst
 3 Urborg, Tomb of Yawgmoth
 4 Bloodchief's Thirst
-1 Counterspell
-1 Path to Exile
-2 Counterspell
-2 Path to Exile
-2 Island
-3 Counterspell
-4 Counterspell
 4 Prismatic Ending
 1 Barren Moor
-1 Shadowspear
 1 Nihil Spellbomb
 1 Urza's Saga
+1 Shadowspear
 1 The Underworld Cookbook
 1 Ovalchase Daredevil
 1 Asmoranomardicadaistinaculdacar
@@ -173,3 +166,10 @@
 4 Ovalchase Daredevil
 4 Urza's Saga
 4 Asmoranomardicadaistinaculdacar
+1 Path to Exile
+1 Counterspell
+2 Path to Exile
+2 Counterspell
+2 Island
+3 Counterspell
+4 Counterspell

@@ -159,8 +159,8 @@
 8 Island
 1 Bookwurm
 2 Bookwurm
-1 Sea Gate Restoration
 1 Alrund, God of the Cosmos
+1 Sea Gate Restoration
 1 Disdainful Stroke
 1 Consuming Tide
 1 Solve the Equation
@@ -181,9 +181,6 @@
 2 Glorious Sunrise
 2 Saw It Coming
 3 Glorious Sunrise
-1 Tempted by the Oriq
-2 Tempted by the Oriq
-3 Tempted by the Oriq
 3 Iymrith, Desert Doom
 3 Grafted Identity
 1 Snakeskin Veil
@@ -191,6 +188,9 @@
 2 Snakeskin Veil
 2 Tamiyo, Compleated Sage
 3 Tamiyo's Safekeeping
+1 Tempted by the Oriq
+2 Tempted by the Oriq
+3 Tempted by the Oriq
 4 Memory Deluge
 1 Secrets of the Key
 2 Secrets of the Key
@@ -219,8 +219,8 @@
 4 Dollhouse of Horrors
 4 Briarbridge Tracker
 1 Syncopate
-1 Thirst for Discovery
 1 Undercover Operative
+1 Thirst for Discovery
 1 Jewel Thief
 1 Vivien on the Hunt
 2 Syncopate
@@ -235,8 +235,8 @@
 4 Thirst for Discovery
 1 The Reality Chip
 4 Hall of Storm Giants
-1 Consider
 1 Faceless Haven
+1 Consider
 1 Augur of Autumn
 1 Croaking Counterpart
 2 Consider
@@ -251,6 +251,30 @@
 4 Lotus Cobra
 4 Mind Flayer
 4 Spirit of the Aldergard
+1 Ascendant Spirit
+1 Icebreaker Kraken
+1 Zimone, Quandrix Prodigy
+1 Sculptor of Winter
+1 Graven Lore
+1 Berg Strider
+1 Snow Day
+1 Bubble Snare
+1 Rimewood Falls
+2 Bubble Snare
+2 Rimewood Falls
+2 Zimone, Quandrix Prodigy
+2 Sculptor of Winter
+2 Berg Strider
+3 Rimewood Falls
+3 Sculptor of Winter
+3 Berg Strider
+3 Bubble Snare
+4 Rimewood Falls
+9 Snow-Covered Forest
+9 Snow-Covered Island
+10 Snow-Covered Forest
+10 Snow-Covered Island
+11 Snow-Covered Forest
 1 Werewolf Pack Leader
 1 Unnatural Growth
 1 Ranger Class
@@ -279,27 +303,3 @@
 11 Forest
 11 Island
 12 Island
-1 Icebreaker Kraken
-1 Zimone, Quandrix Prodigy
-1 Ascendant Spirit
-1 Sculptor of Winter
-1 Graven Lore
-1 Berg Strider
-1 Snow Day
-1 Bubble Snare
-1 Rimewood Falls
-2 Bubble Snare
-2 Rimewood Falls
-2 Zimone, Quandrix Prodigy
-2 Sculptor of Winter
-2 Berg Strider
-3 Rimewood Falls
-3 Sculptor of Winter
-3 Berg Strider
-3 Bubble Snare
-4 Rimewood Falls
-9 Snow-Covered Forest
-9 Snow-Covered Island
-10 Snow-Covered Forest
-10 Snow-Covered Island
-11 Snow-Covered Forest

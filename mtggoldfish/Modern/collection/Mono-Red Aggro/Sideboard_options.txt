@@ -27,8 +27,8 @@
 1 Unlicensed Hearse
 2 Unlicensed Hearse
 1 Exquisite Firecraft
-1 Fry
 1 Kari Zev's Expertise
+1 Fry
 2 Exquisite Firecraft
 2 Fry
 3 Pyrite Spellbomb
@@ -43,12 +43,12 @@
 3 Dragon's Claw
 4 Smash to Smithereens
 1 Relic of Progenitus
-1 Flame Blitz
-1 Surgical Extraction
 1 Flame Slash
-2 Flame Blitz
+1 Surgical Extraction
+1 Flame Blitz
 2 Relic of Progenitus
 2 Surgical Extraction
+2 Flame Blitz
 1 Goblin Rabblemaster
 1 Seismic Stomp
 2 Goblin Rabblemaster
@@ -60,6 +60,7 @@
 1 Shrine of Burning Rage
 2 Shrine of Burning Rage
 3 Shrine of Burning Rage
+4 Unholy Heat
 1 Leyline of the Void
 2 Void Mirror
 2 Leyline of the Void
@@ -83,4 +84,3 @@
 3 Redcap Melee
 4 Chalice of the Void
 4 Redcap Melee
-4 Unholy Heat

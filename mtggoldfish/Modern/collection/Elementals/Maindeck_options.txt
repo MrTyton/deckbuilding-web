@@ -1,7 +1,7 @@
 3 Cavern of Souls
 1 Forest
-1 Plains
 1 Flamekin Harbinger
+1 Plains
 2 Flamekin Harbinger
 2 Wooded Foothills
 1 Omnath, Locus of the Roil
@@ -34,8 +34,8 @@
 4 Lightning Bolt
 3 Voice of Resurgence
 1 Foundation Breaker
-1 Vesperlark
 1 Lightning Skelemental
+1 Vesperlark
 2 Thunderkin Awakener
 2 Vesperlark
 3 Thunderkin Awakener
@@ -65,19 +65,19 @@
 2 Tempered in Solitude
 3 Tempered in Solitude
 4 Tempered in Solitude
+1 Phantasmal Image
 1 Reflecting Pool
 1 Aether Vial
 1 Gemstone Caverns
 1 Flickerwisp
 1 Primal Beyond
-1 Phantasmal Image
 1 Fiery Islet
 1 Sunbaked Canyon
 1 Chalice of the Void
+2 Phantasmal Image
 2 Aether Vial
 2 Lightning Skelemental
 2 Reflecting Pool
-2 Phantasmal Image
 2 Chalice of the Void
 2 Primal Beyond
 3 Lightning Skelemental
@@ -95,8 +95,6 @@
 3 Arid Mesa
 4 Arid Mesa
 4 Wooded Foothills
-1 Fulminator Mage
-4 Voice of Resurgence
 1 Watery Grave
 1 Marsh Flats
 1 Godless Shrine
@@ -110,9 +108,11 @@
 3 Secluded Courtyard
 3 Marsh Flats
 3 Smokebraider
-4 Secluded Courtyard
 4 Marsh Flats
+4 Secluded Courtyard
 4 Smokebraider
 1 Ziatora's Proving Ground
 1 Tangled Florahedron
 4 Thunderkin Awakener
+1 Fulminator Mage
+4 Voice of Resurgence

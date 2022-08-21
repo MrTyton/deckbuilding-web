@@ -68,7 +68,7 @@
 |                     |                                                                                                |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)  |
 |                     |                                                                                                |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)  |
 |                     |                                                                                                |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)  |
-|                     |                                                                                                |                    1|[Dizzy Spell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=87925)           |
 |                     |                                                                                                |                    1|[Allosaurus Shepherd](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489195)  |
+|                     |                                                                                                |                    1|[Dizzy Spell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=87925)           |
 |                     |                                                                                                |                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)  |
 

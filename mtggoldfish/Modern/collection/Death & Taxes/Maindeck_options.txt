@@ -81,9 +81,9 @@
 2 Wasteland Strangler
 2 Shambling Vent
 2 Eldrazi Temple
+3 Relic of Progenitus
 3 Eldrazi Displacer
 3 Concealed Courtyard
-3 Relic of Progenitus
 3 Reality Smasher
 3 Tidehollow Sculler
 3 Wasteland Strangler
@@ -92,6 +92,7 @@
 3 Thought-Knot Seer
 3 Caves of Koilos
 4 Eldrazi Temple
+4 Relic of Progenitus
 4 Concealed Courtyard
 4 Reality Smasher
 4 Tidehollow Sculler
@@ -99,7 +100,6 @@
 4 Eldrazi Displacer
 4 Thought-Knot Seer
 4 Caves of Koilos
-4 Relic of Progenitus
 1 Sanctifier en-Vec
 3 Eiganjo, Seat of the Empire
 4 Blast Zone
@@ -129,14 +129,14 @@
 1 Spellskite
 1 Fauna Shaman
 1 Forest
-2 Razorverge Thicket
 2 Temple Garden
+2 Razorverge Thicket
 2 Ambitious Farmhand
 2 Fauna Shaman
-3 Razorverge Thicket
 3 Fauna Shaman
 3 Windswept Heath
 3 Ambitious Farmhand
+3 Razorverge Thicket
 4 Razorverge Thicket
 4 Windswept Heath
 4 Fauna Shaman
@@ -163,6 +163,11 @@
 1 Expedition Map
 2 Touch the Spirit Realm
 3 Fable of the Mirror-Breaker
+1 Giant Killer
+2 Ranger-Captain of Eos
+3 Ranger-Captain of Eos
+4 Ranger-Captain of Eos
+4 Emeria's Call
 1 Otawara, Soaring City
 1 Lavinia, Azorius Renegade
 1 Teferi, Time Raveler
@@ -186,17 +191,12 @@
 2 Prismatic Vista
 2 Magus of the Moon
 3 Ragavan, Nimble Pilferer
-3 Magus of the Moon
 3 Prismatic Vista
+3 Magus of the Moon
 3 Sunbaked Canyon
 4 Ragavan, Nimble Pilferer
 4 Prismatic Vista
 4 Sacred Foundry
-1 Giant Killer
-2 Ranger-Captain of Eos
-3 Ranger-Captain of Eos
-4 Emeria's Call
-4 Ranger-Captain of Eos
 1 Hex Parasite
 1 Pithing Needle
 13 Snow-Covered Plains
@@ -209,9 +209,9 @@
 2 Blade Splicer
 3 Blade Splicer
 4 Blade Splicer
-1 Selfless Spirit
 1 Brimaz, King of Oreskos
 1 Dryad Militant
+1 Selfless Spirit
 1 Oblivion Ring
 1 Harm's Way
 1 Thalia, Heretic Cathar

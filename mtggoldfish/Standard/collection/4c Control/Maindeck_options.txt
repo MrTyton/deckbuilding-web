@@ -26,10 +26,10 @@
 1 Alchemist's Gambit
 2 Lier, Disciple of the Drowned
 2 Big Score
+3 Spikefield Hazard
 3 Lier, Disciple of the Drowned
 3 Jwari Disruption
 3 Big Score
-3 Spikefield Hazard
 4 Spikefield Hazard
 4 Big Score
 3 Expressive Iteration
@@ -105,32 +105,32 @@
 1 Immersturm Predator
 1 Burn Down the House
 2 Burn Down the House
+1 Snow-Covered Island
 1 Snow-Covered Plains
 1 Snow-Covered Swamp
-1 Snow-Covered Island
 2 Snow-Covered Plains
 2 Snow-Covered Island
 3 Snow-Covered Plains
 3 Snow-Covered Island
 4 Snow-Covered Plains
 1 Snow-Covered Mountain
-1 Moonveil Regent
 1 Inferno of the Star Mounts
 1 Orb of Dragonkind
 1 Cave of the Frost Dragon
+1 Moonveil Regent
 1 Emeria's Call
 1 Faceless Haven
 1 Temple of the Dragon Queen
 1 Adult Gold Dragon
-2 Moonveil Regent
 2 Shatterskull Smashing
 2 Orb of Dragonkind
 2 Snow-Covered Mountain
 2 Temple of the Dragon Queen
+2 Moonveil Regent
 3 Orb of Dragonkind
 3 Snow-Covered Mountain
-4 Orb of Dragonkind
 4 Snow-Covered Island
+4 Orb of Dragonkind
 4 Snow-Covered Mountain
 1 Sorin the Mirthless
 2 Reckoner Bankbuster
@@ -151,19 +151,19 @@
 2 Takenuma, Abandoned Mire
 2 Extus, Oriq Overlord
 2 Shattered Sanctum
-3 Eyetwitch
-3 Burn Down the House
-3 Tergrid, God of Fright
-3 Shattered Sanctum
 3 Fading Hope
+3 Eyetwitch
+3 Tergrid, God of Fright
+3 Burn Down the House
+3 Shattered Sanctum
 4 Eyetwitch
-1 Seize the Spoils
 1 Dual Strike
-2 Alchemist's Gambit
+1 Seize the Spoils
+2 Dual Strike
 2 Seize the Spoils
+2 Alchemist's Gambit
 2 March of Swirling Mist
 2 Silundi Vision
-2 Dual Strike
 3 Dual Strike
 3 Seize the Spoils
 4 Seize the Spoils
@@ -239,34 +239,34 @@
 3 Malevolent Hermit
 3 Prismari Campus
 4 Shipwreck Marsh
-4 Cathartic Pyre
 4 Malevolent Hermit
 4 Shadows' Verdict
 4 Prismari Campus
+4 Cathartic Pyre
 4 Prismari Command
 1 Ice Tunnel
+1 Thirst for Discovery
 1 Faithful Mending
 1 The Raven's Warning
 1 Returned Pastcaller
+1 Devastating Mastery
 1 Blood on the Snow
 1 Baleful Mastery
-1 Devastating Mastery
 1 Glacial Floodplain
 1 Ambitious Farmhand
-1 Thirst for Discovery
 1 Vanishing Verse
 1 Snowfield Sinkhole
 2 Ice Tunnel
-2 Devastating Mastery
+2 Thirst for Discovery
 2 Baleful Mastery
 2 The Raven's Warning
 2 Blood on the Snow
 2 Power Word Kill
 2 Snow-Covered Swamp
 2 Saw It Coming
+2 Devastating Mastery
 2 Returned Pastcaller
 2 Glacial Floodplain
-2 Thirst for Discovery
 2 Faithful Mending
 2 Vanishing Verse
 2 Ambitious Farmhand
@@ -293,9 +293,9 @@
 2 Sudden Breakthrough
 2 Crackle with Power
 2 Light Up the Night
-3 Magda, Brazen Outlaw
 3 Crackle with Power
 3 Light Up the Night
+3 Magda, Brazen Outlaw
 3 Sudden Breakthrough
 3 Skullport Merchant
 4 Crackle with Power
