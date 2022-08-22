@@ -103,9 +103,13 @@
 2 Narset, Parter of Veils
 1 Seal of Removal
 1 Kaito Shizuki
-1 Raugrin Triome
 1 Marsh Flats
 1 Nicol Bolas, Dragon-God
+1 Raugrin Triome
+1 Ghost Quarter
+1 Tarfire
+1 Blast Zone
+2 Ghost Quarter
 1 Graven Cairns
 2 Snow-Covered Swamp
 1 Sudden Edict
@@ -113,10 +117,6 @@
 2 Sudden Edict
 1 Jace, Vryn's Prodigy
 2 Jace, Vryn's Prodigy
-1 Tarfire
-1 Blast Zone
-1 Ghost Quarter
-2 Ghost Quarter
 1 Ob Nixilis, the Adversary
 1 Misty Rainforest
 2 Ob Nixilis, the Adversary
@@ -143,24 +143,24 @@
 2 Fire/Ice
 3 Fire/Ice
 4 Fire/Ice
+1 Wooded Foothills
 1 Prismari Command
 1 Dwarven Mine
-1 Wooded Foothills
 1 Indomitable Creativity
 1 Hard Evidence
 1 Shark Typhoon
+1 Mana Leak
 1 Transmogrify
 1 Arid Mesa
 1 Archon of Cruelty
-1 Mana Leak
 2 Mountain
 2 Prismari Command
 2 Indomitable Creativity
 2 Dwarven Mine
 2 Hard Evidence
 2 Wooded Foothills
-2 Shark Typhoon
 2 Mana Leak
+2 Shark Typhoon
 2 Archon of Cruelty
 2 Transmogrify
 2 Arid Mesa
@@ -174,15 +174,15 @@
 3 Mountain
 4 Steam Vents
 4 Dwarven Mine
-4 Prismari Command
 4 Indomitable Creativity
 4 Mana Leak
+4 Prismari Command
 4 Mountain
 1 River of Tears
 1 Valki, God of Lies
 2 Sunken Ruins
-3 Flooded Strand
 3 Snow-Covered Island
+3 Flooded Strand
 4 Flooded Strand
 1 Chandra, Torch of Defiance
 1 Sokenzan, Crucible of Defiance

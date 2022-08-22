@@ -1,24 +1,25 @@
 1 Swamp
 1 Pact of Negation
-3 Daze
 2 Duress
 3 Street Wraith
-1 Baleful Strix
+3 Daze
+4 Lotus Petal
 3 Flooded Strand
+1 Baleful Strix
 2 Baleful Strix
 3 Baleful Strix
 4 Baleful Strix
-4 Lotus Petal
+3 Misty Rainforest
 1 Flusterstorm
 3 Scalding Tarn
-3 Misty Rainforest
-2 Preordain
 1 Deep Analysis
+2 Preordain
 1 Snow-Covered Island
 1 Unearth
 1 Scrubland
 1 Tundra
 4 Flooded Strand
+3 Duress
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 1 Marsh Flats
@@ -31,10 +32,6 @@
 1 Predict
 2 Flusterstorm
 3 Preordain
-1 Bloodstained Mire
-3 Cabal Ritual
-3 Duress
-1 Misdirection
 1 Grief
 2 Grief
 3 Grief
@@ -54,7 +51,10 @@
 3 Ledger Shredder
 4 Scalding Tarn
 1 Night's Whisper
+1 Bloodstained Mire
+3 Cabal Ritual
 4 Duress
+1 Misdirection
 4 Grief
 1 Snow-Covered Swamp
 4 Murktide Regent
@@ -72,8 +72,8 @@
 4 Misty Rainforest
 1 Brazen Borrower
 1 Lightning Bolt
-2 Lightning Bolt
 2 Island
+2 Lightning Bolt
 3 Expressive Iteration
 4 Daze
 1 Temporal Mastery

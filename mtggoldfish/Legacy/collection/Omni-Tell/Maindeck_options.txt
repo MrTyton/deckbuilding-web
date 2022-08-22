@@ -1,21 +1,31 @@
-3 Prismatic Vista
+4 Island
+2 Lotus Petal
+1 Solve the Equation
 4 Misty Rainforest
+5 Island
+1 Snow-Covered Forest
+1 Tropical Island
+1 Veil of Summer
+2 Veil of Summer
+4 Cunning Wish
+4 Prismatic Vista
+3 Flooded Strand
+2 City of Traitors
+5 Snow-Covered Island
+2 Solve the Equation
+3 Veil of Summer
+1 Uro, Titan of Nature's Wrath
+2 Uro, Titan of Nature's Wrath
+4 Flooded Strand
 1 Underground Sea
 2 Underground Sea
 3 Underground Sea
-1 Tropical Island
-1 Snow-Covered Forest
-1 Veil of Summer
-2 Veil of Summer
 3 Ancient Tomb
-3 Flooded Strand
-4 Island
-4 Cunning Wish
 3 Lotus Petal
 3 Polluted Delta
 4 Polluted Delta
-4 Prismatic Vista
-5 Snow-Covered Island
+1 Ice-Fang Coatl
+2 Ice-Fang Coatl
 1 Profane Tutor
 1 Thoughtseize
 2 Profane Tutor
@@ -23,38 +33,29 @@
 3 Thoughtseize
 3 Profane Tutor
 4 Profane Tutor
-1 Solve the Equation
-4 Flooded Strand
-3 Veil of Summer
-1 Uro, Titan of Nature's Wrath
-2 Uro, Titan of Nature's Wrath
-5 Island
-2 City of Traitors
-1 Swamp
-1 Ice-Fang Coatl
-2 Ice-Fang Coatl
-2 Solve the Equation
 1 Sea Gate Restoration
 1 Karakas
+2 Spell Pierce
 1 Tundra
 2 Snow-Covered Forest
 3 Ice-Fang Coatl
-1 Eureka
-2 Flusterstorm
-2 Spell Pierce
-1 Orim's Chant
-1 Duress
 1 Daze
 2 Daze
 3 Daze
 1 Otawara, Soaring City
+1 Swamp
+1 Eureka
+2 Flusterstorm
+1 Orim's Chant
 3 Impulse
 1 Plains
 6 Snow-Covered Island
 1 Boseiju, Who Shelters All
 4 Underground Sea
+1 Surgical Extraction
 1 Wooded Foothills
 4 Ice-Fang Coatl
+1 Duress
 1 Baleful Strix
 2 Baleful Strix
 3 Baleful Strix
@@ -67,7 +68,6 @@
 3 City of Traitors
 1 Snow-Covered Swamp
 2 Griselbrand
-1 Surgical Extraction
 1 Sylvan Library
 2 Sylvan Library
 1 Thwart
@@ -117,9 +117,9 @@
 2 Tundra
 2 Narset, Parter of Veils
 3 Tundra
+1 Fact or Fiction
 1 Misdirection
 1 Jace, the Mind Sculptor
-1 Fact or Fiction
 1 Boseiju, Who Endures
 1 Pyroblast
 1 Volcanic Island

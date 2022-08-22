@@ -11,9 +11,9 @@
 4 Arid Mesa
 1 Kroxa, Titan of Death's Hunger
 3 Prismatic Ending
-1 Batterskull
 1 Sword of Fire and Ice
 1 Stoneforge Mystic
+1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 1 Lightning Bolt
@@ -70,8 +70,8 @@
 1 Snow-Covered Swamp
 1 Prismatic Vista
 1 Bonecrusher Giant
-2 Prismatic Vista
 2 Bonecrusher Giant
+2 Prismatic Vista
 3 Bonecrusher Giant
 3 Lingering Souls
 4 Thoughtseize
@@ -117,9 +117,9 @@
 1 Alpine Watchdog
 1 Wish
 1 Mind Carver
-2 Ob Nixilis, the Adversary
 2 Gemstone Caverns
 2 Mana Tithe
+2 Ob Nixilis, the Adversary
 2 Wish
 2 Alpine Houndmaster
 3 Ob Nixilis, the Adversary
@@ -131,12 +131,12 @@
 3 Liliana of the Veil
 4 Liliana of the Veil
 4 Ob Nixilis, the Adversary
-4 Mana Tithe
-4 Alpine Houndmaster
 4 Tourach, Dread Cantor
-1 Sokenzan, Crucible of Defiance
+4 Alpine Houndmaster
+4 Mana Tithe
 1 Maul of the Skyclaves
 1 Chandra, Torch of Defiance
+1 Sokenzan, Crucible of Defiance
 1 Nahiri, the Harbinger
 1 Damn
 2 Damn
@@ -159,10 +159,9 @@
 2 Hidetsugu Consumes All
 3 Godless Shrine
 3 Hidetsugu Consumes All
-4 Tidehollow Sculler
 1 Ranger-Captain of Eos
-1 Vindicate
 1 Eiganjo, Seat of the Empire
+1 Vindicate
 1 Obsidian Charmaw
 2 Den of the Bugbear
 2 Vindicate
@@ -179,6 +178,7 @@
 2 Verdant Catacombs
 3 Verdant Catacombs
 4 Verdant Catacombs
+4 Tidehollow Sculler
 2 The Wandering Emperor
 4 March of Otherworldly Light
 4 Inquisition of Kozilek
