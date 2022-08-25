@@ -15,11 +15,11 @@
 
 # Historic
 
-|                                 A                                  |                                 B                                  |                                      C                                       |                                     D                                      |                                E                                 |
-|--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------|
-|[Azorius Affinity](./mtggoldfish/Historic/decks/Azorius_Affinity.md)|[Esper Aggro](./mtggoldfish/Historic/decks/Esper_Aggro.md)          |[Five-color Humans](./mtggoldfish/Historic/decks/Five-color_Humans.md)        |[Mono-Black Control ❄](./mtggoldfish/Historic/decks/Mono-Black_Control_❄.md)|[Orzhov Midrange](./mtggoldfish/Historic/decks/Orzhov_Midrange.md)|
-|[Azorius Auras](./mtggoldfish/Historic/decks/Azorius_Auras.md)      |[Esper Reanimator](./mtggoldfish/Historic/decks/Esper_Reanimator.md)|[Five-color Niv-Mizzet](./mtggoldfish/Historic/decks/Five-color_Niv-Mizzet.md)|[Mono-Blue Tempo](./mtggoldfish/Historic/decks/Mono-Blue_Tempo.md)          |[Rakdos Arcanis](./mtggoldfish/Historic/decks/Rakdos_Arcanis.md)  |
-|[Azorius Yorion](./mtggoldfish/Historic/decks/Azorius_Yorion.md)    |[Five-color Golos](./mtggoldfish/Historic/decks/Five-color_Golos.md)|[Jund Tempo](./mtggoldfish/Historic/decks/Jund_Tempo.md)                      |[Mono-Red Aggro](./mtggoldfish/Historic/decks/Mono-Red_Aggro.md)            |[Rakdos Goblins](./mtggoldfish/Historic/decks/Rakdos_Goblins.md)  |
+|                                 A                                  |                                 B                                  |                                      C                                       |                                     D                                      |                               E                                |
+|--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------|
+|[Azorius Affinity](./mtggoldfish/Historic/decks/Azorius_Affinity.md)|[Esper Aggro](./mtggoldfish/Historic/decks/Esper_Aggro.md)          |[Five-color Humans](./mtggoldfish/Historic/decks/Five-color_Humans.md)        |[Mono-Black Control ❄](./mtggoldfish/Historic/decks/Mono-Black_Control_❄.md)|[Rakdos Goblins](./mtggoldfish/Historic/decks/Rakdos_Goblins.md)|
+|[Azorius Auras](./mtggoldfish/Historic/decks/Azorius_Auras.md)      |[Esper Reanimator](./mtggoldfish/Historic/decks/Esper_Reanimator.md)|[Five-color Niv-Mizzet](./mtggoldfish/Historic/decks/Five-color_Niv-Mizzet.md)|[Mono-Red Aggro](./mtggoldfish/Historic/decks/Mono-Red_Aggro.md)            |                                                                |
+|[Azorius Yorion](./mtggoldfish/Historic/decks/Azorius_Yorion.md)    |[Five-color Golos](./mtggoldfish/Historic/decks/Five-color_Golos.md)|[Jund Tempo](./mtggoldfish/Historic/decks/Jund_Tempo.md)                      |[Rakdos Arcanis](./mtggoldfish/Historic/decks/Rakdos_Arcanis.md)            |                                                                |
 
 
 # Pioneer
@@ -72,4 +72,4 @@
 
 
 
-#### Last Updated at 12:39PM on August 24, 2022
+#### Last Updated at 12:32AM on August 25, 2022
