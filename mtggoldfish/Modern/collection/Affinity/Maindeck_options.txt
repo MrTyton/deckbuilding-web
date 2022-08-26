@@ -4,9 +4,9 @@
 4 Ornithopter
 1 Cranial Plating
 2 Cranial Plating
-1 Pithing Needle
 3 Urza, Lord High Artificer
 3 Cranial Plating
+1 Pithing Needle
 1 Sojourner's Companion
 2 Sojourner's Companion
 1 Gingerbrute
@@ -15,12 +15,12 @@
 3 Frogmite
 3 Sojourner's Companion
 4 Cranial Plating
-2 Island
 4 Frogmite
 1 Treasure Vault
 4 Sojourner's Companion
 1 Welding Jar
 1 Mistvault Bridge
+2 Island
 2 Mistvault Bridge
 3 Mistvault Bridge
 2 Treasure Vault
@@ -36,7 +36,6 @@
 3 Hallowed Fountain
 1 Myr Enforcer
 2 Silverbluff Bridge
-4 Seachrome Coast
 1 Unlicensed Hearse
 1 Talisman of Progress
 2 Dispatch
@@ -47,7 +46,7 @@
 4 Spire of Industry
 2 Unlicensed Hearse
 2 Talisman of Progress
-2 Plains
+4 Seachrome Coast
 2 Relic of Progenitus
 2 Myr Enforcer
 1 Glimmervoid
@@ -58,7 +57,7 @@
 2 Moonsnare Prototype
 3 Island
 1 Cavern of Souls
-3 Teferi, Time Raveler
+2 Plains
 3 Welding Jar
 1 Sai, Master Thopterist
 1 Hard Evidence
@@ -91,6 +90,7 @@
 1 Reality Heist
 2 Reality Heist
 2 Sai, Master Thopterist
+3 Teferi, Time Raveler
 1 Counterspell
 2 Counterspell
 2 Inkmoth Nexus
