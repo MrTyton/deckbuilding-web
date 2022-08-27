@@ -23,6 +23,7 @@
 1 Ketria Triome
 2 Temple Garden
 3 Temple Garden
+1 Yasharn, Implacable Earth
 1 Oath of Kaya
 1 Hinterland Harbor
 1 Setessan Champion
@@ -42,7 +43,6 @@
 1 In Search of Greatness
 1 Deputy of Detention
 1 Ravenous Chupacabra
-1 Yasharn, Implacable Earth
 1 Tolsimir, Friend to Wolves
 1 Raugrin Triome
 2 Setessan Champion
@@ -262,12 +262,13 @@
 1 Season of Growth
 1 Paradise Druid
 1 Necroblossom Snarl
-1 Fabled Passage
 1 Temple of Deceit
 1 Vivien Reid
 1 Vineglimmer Snarl
+1 Fabled Passage
 1 Castle Locthwain
 1 Lotus Cobra
+1 The Great Henge
 1 Gilded Goose
 1 Scute Swarm
 1 Nicol Bolas, Dragon-God
@@ -275,7 +276,6 @@
 1 Tamiyo, Collector of Tales
 1 Darkbore Pathway
 1 Nissa, Who Shakes the World
-1 The Great Henge
 1 Castle Vantress
 1 Temple of Malady
 1 Vivien, Champion of the Wilds
@@ -291,8 +291,8 @@
 2 Season of Growth
 2 Paradise Druid
 2 Nissa, Who Shakes the World
-2 Lotus Cobra
 2 Fabled Passage
+2 Lotus Cobra
 2 Swamp
 2 Gilded Goose
 2 Gemrazer
@@ -322,11 +322,46 @@
 3 Maze's End
 1 Otawara, Soaring City
 3 Spirebluff Canal
+1 Omniscience
 2 The World Tree
+1 Shefet Dunes
+1 Relic of Progenitus
+1 Hydroid Krasis
+1 Hashep Oasis
+1 Hour of Promise
+1 Fae of Wishes
+1 Omen of the Hunt
+1 Cultivate
+1 Mirari's Wake
+1 Wolfwillow Haven
+2 Hydroid Krasis
+2 Hashep Oasis
+2 Hour of Promise
+2 Shefet Dunes
+2 Fae of Wishes
+2 Relic of Progenitus
+2 Mirari's Wake
+2 Cultivate
+2 Wolfwillow Haven
+2 Omen of the Hunt
+2 Omniscience
+3 Hydroid Krasis
+3 Shefet Dunes
+3 The World Tree
+3 Cultivate
+3 Mirari's Wake
+3 Hashep Oasis
+3 Hour of Promise
+3 Wolfwillow Haven
+4 Hydroid Krasis
+4 The World Tree
+4 Hour of Promise
+4 Cultivate
 2 Barkchannel Pathway
 1 Dreamroot Cascade
 1 Kogla, the Titan Ape
 1 Fading Hope
+1 Kazandu Mammoth
 1 Dream Trawler
 1 Goblin Dark-Dwellers
 1 Tovolar's Huntmaster
@@ -341,7 +376,6 @@
 1 Thassa's Intervention
 1 Forceful Cultivator
 1 Quench
-1 Kazandu Mammoth
 1 Bala Ged Recovery
 1 Frilled Mystic
 1 Botanical Sanctum
@@ -370,48 +404,14 @@
 4 Sea Gate Restoration
 4 Forceful Cultivator
 4 Frilled Mystic
-1 Omniscience
-1 Shefet Dunes
-1 Relic of Progenitus
-1 Hydroid Krasis
-1 Hour of Promise
-1 Fae of Wishes
-1 Omen of the Hunt
-1 Cultivate
-1 Mirari's Wake
-1 Wolfwillow Haven
-1 Hashep Oasis
-2 Hashep Oasis
-2 Hydroid Krasis
-2 Hour of Promise
-2 Shefet Dunes
-2 Fae of Wishes
-2 Relic of Progenitus
-2 Mirari's Wake
-2 Cultivate
-2 Wolfwillow Haven
-2 Omen of the Hunt
-2 Omniscience
-3 Hydroid Krasis
-3 Shefet Dunes
-3 The World Tree
-3 Cultivate
-3 Mirari's Wake
-3 Hashep Oasis
-3 Hour of Promise
-3 Wolfwillow Haven
-4 The World Tree
-4 Hour of Promise
-4 Cultivate
-4 Hydroid Krasis
 1 Mech Hangar
-1 Introduction to Prophecy
 1 Mascot Exhibition
+1 Reckoner Bankbuster
+1 Introduction to Prophecy
 1 Conqueror's Galleon
 1 Ominous Traveler
 1 Spire of Industry
 1 Key to the Archive
-1 Reckoner Bankbuster
 2 Reckoner Bankbuster
 2 Mech Hangar
 2 Introduction to Prophecy
@@ -436,8 +436,8 @@
 1 Needleverge Pathway
 1 Savai Triome
 1 Nine Lives
-1 Baffling End
 1 Chromatic Lantern
+1 Baffling End
 1 Solemnity
 1 Hengegate Pathway
 1 Sterling Grove
@@ -504,17 +504,17 @@
 2 Khalni Garden
 2 Emergent Ultimatum
 2 Scholar of the Lost Trove
-3 Blood Crypt
 3 Throes of Chaos
 3 Magma Opus
 3 Cragcrown Pathway
 3 Alrund's Epiphany
 3 Khalni Garden
 3 Emergent Ultimatum
+3 Blood Crypt
 4 Emergent Ultimatum
-4 Blood Crypt
 4 Magma Opus
 4 Cragcrown Pathway
 4 Throes of Chaos
+4 Blood Crypt
 4 Khalni Garden
 4 Alrund's Epiphany

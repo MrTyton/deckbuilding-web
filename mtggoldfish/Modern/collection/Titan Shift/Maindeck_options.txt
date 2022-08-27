@@ -1,4 +1,5 @@
 3 Scalding Tarn
+4 Stomping Ground
 3 Scapeshift
 1 Ketria Triome
 1 Misty Rainforest
@@ -17,10 +18,10 @@
 2 Growth Spiral
 2 Ketria Triome
 3 Steam Vents
-3 Remand
 3 Expressive Iteration
 3 Growth Spiral
 3 Ketria Triome
+3 Remand
 4 Steam Vents
 4 Scapeshift
 4 Expressive Iteration
@@ -28,14 +29,11 @@
 4 Growth Spiral
 1 Snow-Covered Forest
 1 Snow-Covered Mountain
-4 Stomping Ground
-1 Snow-Covered Island
 2 Forest
-1 Endurance
+1 Snow-Covered Island
 2 Bloodstained Mire
-1 Flame Slash
-2 Endurance
-4 Ketria Triome
+1 Endurance
+3 Dwarven Mine
 1 Summoner's Pact
 1 Farseek
 2 Farseek
@@ -52,33 +50,34 @@
 1 Horizon Canopy
 1 Breeding Pool
 1 Noble Hierarch
-1 Kiki-Jiki, Mirror Breaker
+1 Oath of Nissa
 1 Verdant Catacombs
+1 Kiki-Jiki, Mirror Breaker
 1 Botanical Sanctum
 1 Birds of Paradise
-1 Wall of Omens
 1 Prismatic Vista
+1 Wall of Omens
 1 Arbor Elf
 1 Nahiri, the Harbinger
 1 Marsh Flats
 1 Emrakul, the Aeons Torn
 1 Wall of Blossoms
+1 Ignoble Hierarch
 1 Path to Exile
 1 Rhonas the Indomitable
 1 Neoform
-1 Boseiju, Who Shelters All
-1 Tireless Tracker
-1 Sylvan Caryatid
 1 Magus of the Moon
-1 Shalai, Voice of Plenty
-1 Renegade Rallier
+1 Boseiju, Who Shelters All
+1 Sylvan Caryatid
 1 Eternal Witness
+1 Shalai, Voice of Plenty
 1 Razorverge Thicket
 1 Lotus Cobra
+1 Tireless Tracker
 1 Sacred Foundry
+1 Renegade Rallier
 1 Knight of the Reliquary
 1 Restoration Angel
-1 Ignoble Hierarch
 1 Polluted Delta
 1 Prismatic Ending
 1 Serra's Emissary
@@ -109,7 +108,6 @@
 1 Flooded Strand
 1 Platinum Emperion
 1 Plains
-1 Oath of Nissa
 1 Fiend Artisan
 1 Felidar Guardian
 1 Paradise Druid
@@ -130,16 +128,18 @@
 1 Eladamri's Call
 1 Finale of Devastation
 1 City of Brass
+2 Finale of Devastation
 2 Noble Hierarch
-2 Oath of Nissa
 2 Botanical Sanctum
+2 Oath of Nissa
 2 Wall of Omens
 2 Chord of Calling
-2 Eternal Witness
 2 Verdant Catacombs
+2 Eternal Witness
 2 Renegade Rallier
 2 Arbor Elf
 2 Wall of Blossoms
+2 Ignoble Hierarch
 2 Breeding Pool
 2 Horizon Canopy
 2 Birds of Paradise
@@ -151,7 +151,6 @@
 2 Teferi, Time Raveler
 2 Lotus Cobra
 2 Restoration Angel
-2 Ignoble Hierarch
 2 Polluted Delta
 2 Marsh Flats
 2 Prismatic Ending
@@ -160,7 +159,6 @@
 2 Fiend Artisan
 2 Paradise Druid
 2 Avacyn's Pilgrim
-2 Finale of Devastation
 2 Hinterland Harbor
 2 Snapcaster Mage
 2 Devoted Druid
@@ -181,6 +179,7 @@
 3 Chord of Calling
 3 Renegade Rallier
 3 Arbor Elf
+3 Ignoble Hierarch
 3 Wall of Omens
 3 Windswept Heath
 3 Nahiri, the Harbinger
@@ -189,13 +188,11 @@
 3 Breeding Pool
 3 Teferi, Time Raveler
 3 Knight of the Reliquary
-3 Finale of Devastation
 3 Eternal Witness
 3 Birds of Paradise
 3 Verdant Catacombs
 3 Path to Exile
 3 Lotus Cobra
-3 Ignoble Hierarch
 3 Polluted Delta
 3 Prismatic Ending
 3 Felidar Guardian
@@ -214,6 +211,7 @@
 3 Fiend Artisan
 3 Hinterland Harbor
 3 Devoted Druid
+3 Finale of Devastation
 3 Primal Command
 3 Botanical Sanctum
 3 Snapcaster Mage
@@ -224,13 +222,13 @@
 4 Oath of Nissa
 4 Arbor Elf
 4 Snapcaster Mage
+4 Ignoble Hierarch
 4 Nahiri, the Harbinger
 4 Chord of Calling
 4 Birds of Paradise
 4 Windswept Heath
-4 Lotus Cobra
 4 Verdant Catacombs
-4 Ignoble Hierarch
+4 Lotus Cobra
 4 Wall of Omens
 4 Neoform
 4 Polluted Delta
@@ -254,14 +252,16 @@
 4 Devoted Druid
 4 Avacyn's Pilgrim
 4 Madcap Experiment
-2 Snow-Covered Forest
 1 Archmage's Charm
 2 Archmage's Charm
 2 Snow-Covered Island
 3 Snow-Covered Island
 3 Fire/Ice
-3 Dwarven Mine
+1 Flame Slash
+2 Endurance
+4 Ketria Triome
 6 Mountain
+2 Snow-Covered Forest
 1 Castle Garenbrig
 2 Castle Garenbrig
 4 Wrenn and Six
@@ -278,8 +278,8 @@
 4 Chalice of the Void
 4 Valakut, the Molten Pinnacle
 1 Obstinate Baloth
-1 Worldspine Wurm
 1 Sweltering Suns
+1 Worldspine Wurm
 1 Through the Breach
 2 Through the Breach
 3 Through the Breach

@@ -1,20 +1,15 @@
-1 Teferi, Time Raveler
 1 Verdant Catacombs
+1 Teferi, Time Raveler
 1 Priest of Fell Rites
 1 Plains
 1 Prismatic Ending
 2 Prismatic Ending
+2 Verdant Catacombs
 1 Faithful Mending
 2 Teferi, Time Raveler
-2 Verdant Catacombs
-3 Teferi, Time Raveler
 3 Prismatic Ending
-1 Concealed Courtyard
-2 Concealed Courtyard
+3 Teferi, Time Raveler
 2 Priest of Fell Rites
-1 Island
-1 Hallowed Fountain
-2 Faithful Mending
 3 Priest of Fell Rites
 4 Bloodstained Mire
 1 Blood Crypt
@@ -26,39 +21,43 @@
 1 Blackcleave Cliffs
 1 Sacred Foundry
 1 Seasoned Pyromancer
-2 Blood Crypt
 2 Seasoned Pyromancer
 2 Fury
 2 Arid Mesa
 2 Blackcleave Cliffs
+2 Blood Crypt
 2 Fable of the Mirror-Breaker
 3 Fable of the Mirror-Breaker
 3 Seasoned Pyromancer
 3 Fury
 4 Seasoned Pyromancer
-4 Fable of the Mirror-Breaker
 4 Priest of Fell Rites
+4 Fable of the Mirror-Breaker
+1 Concealed Courtyard
+2 Concealed Courtyard
+1 Island
+1 Hallowed Fountain
+2 Faithful Mending
+3 Blackcleave Cliffs
+3 Arid Mesa
 1 Malakir Rebirth
-3 Faithful Mending
-4 Faithful Mending
 1 Glacial Fortress
 1 Thoughtseize
 2 Thoughtseize
+2 Sacred Foundry
 3 Verdant Catacombs
 2 Malakir Rebirth
 3 Thoughtseize
-3 Blackcleave Cliffs
-3 Arid Mesa
 1 Urborg, Tomb of Yawgmoth
 4 Prismatic Ending
-1 Flooded Strand
-2 Flooded Strand
-4 Teferi, Time Raveler
 4 Verdant Catacombs
+4 Teferi, Time Raveler
 1 Profane Tutor
 2 Profane Tutor
 3 Profane Tutor
 4 Profane Tutor
+3 Faithful Mending
+4 Faithful Mending
 1 Fatal Push
 4 Thoughtseize
 2 Fatal Push
@@ -68,9 +67,9 @@
 1 Cascading Cataracts
 1 Golos, Tireless Pilgrim
 1 Bloodchief's Thirst
-1 Castle Locthwain
 1 Cabal Coffers
 1 Blast Zone
+1 Castle Locthwain
 2 Bloodchief's Thirst
 2 Golos, Tireless Pilgrim
 2 Urborg, Tomb of Yawgmoth
@@ -86,28 +85,11 @@
 4 Cabal Coffers
 4 Swamp
 5 Swamp
-2 Sacred Foundry
-1 Blood Fountain
-2 Blood Fountain
-1 Snow-Covered Swamp
-2 Snow-Covered Swamp
-1 Tourach, Dread Cantor
-1 Bojuka Bog
-1 Inquisition of Kozilek
-2 Tourach, Dread Cantor
-3 Flooded Strand
-2 Hallowed Fountain
-1 Serra's Emissary
-3 Concealed Courtyard
 2 Plains
-1 Terastodon
-1 Glasspool Mimic
-1 Restoration Angel
 1 Unlicensed Hearse
 1 Ragavan, Nimble Pilferer
 1 Inspiring Vantage
 2 Inspiring Vantage
-2 Restoration Angel
 2 Unlicensed Hearse
 2 Ragavan, Nimble Pilferer
 3 Inspiring Vantage
@@ -116,6 +98,26 @@
 4 Arid Mesa
 4 Unlicensed Hearse
 4 Ragavan, Nimble Pilferer
+1 Blood Fountain
+2 Blood Fountain
+1 Snow-Covered Swamp
+2 Snow-Covered Swamp
+1 Tourach, Dread Cantor
+1 Bojuka Bog
+1 Inquisition of Kozilek
+2 Tourach, Dread Cantor
+1 Flooded Strand
+2 Flooded Strand
+3 Flooded Strand
+2 Hallowed Fountain
+3 Concealed Courtyard
+1 Tidehollow Sculler
+2 Tidehollow Sculler
+3 Tidehollow Sculler
+1 Glasspool Mimic
+1 Terastodon
+1 Restoration Angel
+2 Restoration Angel
 1 Wooded Foothills
 1 Insolent Neonate
 1 Stomping Ground
@@ -181,6 +183,7 @@
 1 Nihil Spellbomb
 1 Barren Moor
 1 Shadowspear
+1 Serra's Emissary
 1 Urza's Saga
 1 The Underworld Cookbook
 1 Ovalchase Daredevil

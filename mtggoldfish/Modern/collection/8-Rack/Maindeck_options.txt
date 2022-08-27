@@ -126,14 +126,6 @@
 1 Defile
 2 Defile
 3 Verdant Catacombs
-1 Mutavault
-1 Dismember
-2 Dismember
-2 Mutavault
-3 Mutavault
-3 Dismember
-4 Mutavault
-4 Dismember
 1 Dragon's Rage Channeler
 1 Graven Cairns
 1 Shizo, Death's Storehouse
@@ -147,8 +139,8 @@
 2 Chandra, Torch of Defiance
 2 Ragavan, Nimble Pilferer
 2 Mountain
-3 Dragon's Rage Channeler
 3 Blackcleave Cliffs
+3 Dragon's Rage Channeler
 3 Blood Crypt
 3 Chandra, Torch of Defiance
 3 Ragavan, Nimble Pilferer
@@ -180,3 +172,11 @@
 3 Piracy Charm
 3 Esper Charm
 4 Piracy Charm
+1 Mutavault
+1 Dismember
+2 Dismember
+2 Mutavault
+3 Mutavault
+3 Dismember
+4 Mutavault
+4 Dismember
