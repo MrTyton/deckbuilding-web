@@ -29,10 +29,10 @@
 7 Plains
 3 Tenacious Underdog
 4 Graveyard Trespasser
+1 Sundown Pass
 1 Valki, God of Lies
 1 Fable of the Mirror-Breaker
 1 Needleverge Pathway
-1 Sundown Pass
 1 Blightstep Pathway
 1 Haunted Ridge
 2 Sundown Pass
@@ -40,9 +40,9 @@
 2 Fable of the Mirror-Breaker
 2 Needleverge Pathway
 2 Blightstep Pathway
+3 Sundown Pass
 3 Fable of the Mirror-Breaker
 3 Blightstep Pathway
-3 Sundown Pass
 4 Fable of the Mirror-Breaker
 1 Duress
 1 Reckoner Bankbuster
@@ -148,16 +148,16 @@
 1 Shepherd of the Cosmos
 3 Sorin the Mirthless
 3 Needleverge Pathway
-1 Dread Fugue
 1 Extraction Specialist
+1 Dread Fugue
 2 Extraction Specialist
 2 Dread Fugue
-3 Dread Fugue
 3 Extraction Specialist
+3 Dread Fugue
 4 Invoke Despair
 4 Reckoner Bankbuster
-3 Life of Toshiro Umezawa
 3 Cathar Commando
+3 Life of Toshiro Umezawa
 4 Scoured Barrens
 1 Soul Shatter
 1 Nadaar, Selfless Paladin
@@ -188,33 +188,33 @@
 2 Cleric Class
 2 Valkyrie Harbinger
 1 March of Wretched Sorrow
-1 Deadly Dispute
 1 Shambling Ghast
 1 Welcoming Vampire
 1 Rite of Oblivion
-2 Deadly Dispute
+1 Deadly Dispute
 2 Shambling Ghast
 2 Rite of Oblivion
+2 Deadly Dispute
 3 Shambling Ghast
 3 Deadly Dispute
 4 Deadly Dispute
-1 Blood on the Snow
-1 Snow-Covered Swamp
 1 Professor of Symbology
+1 Snow-Covered Swamp
+1 Blood on the Snow
 1 Snow-Covered Plains
-2 March of Wretched Sorrow
-2 Blood on the Snow
-2 Snow-Covered Swamp
 2 Professor of Symbology
+2 March of Wretched Sorrow
+2 Snow-Covered Swamp
+2 Blood on the Snow
 2 Snow-Covered Plains
 2 Welcoming Vampire
+3 Professor of Symbology
 3 Snow-Covered Swamp
 3 Snow-Covered Plains
-3 Professor of Symbology
 4 Shambling Ghast
 4 Snow-Covered Swamp
-4 Snow-Covered Plains
 4 Professor of Symbology
+4 Snow-Covered Plains
 5 Snow-Covered Swamp
 5 Snow-Covered Plains
 6 Snow-Covered Swamp
@@ -231,34 +231,34 @@
 2 Valkyrie's Sword
 2 Vengeful Reaper
 2 The Long Reach of Night
-3 Tainted Adversary
 3 Concealing Curtains
-3 Humiliate
+3 Tainted Adversary
 2 Nadaar, Selfless Paladin
 3 Nadaar, Selfless Paladin
-3 Haunted Ridge
-4 Haunted Ridge
+3 Humiliate
 4 Needleverge Pathway
-1 Eyetwitch
 1 Agadeem's Awakening
+1 Eyetwitch
 1 Luxior, Giada's Gift
 1 Kaya, Geist Hunter
 2 Eyetwitch
 2 Luxior, Giada's Gift
 3 Eyetwitch
 4 Eyetwitch
-1 Raffine's Tower
-2 Raffine's Tower
-4 Archon of Emeria
-1 Sungold Sentinel
+4 Extraction Specialist
 1 Portable Hole
 1 Sejiri Shelter
+1 Sungold Sentinel
 2 Sungold Sentinel
 2 Portable Hole
 4 Elite Spellbinder
+3 Haunted Ridge
+4 Haunted Ridge
+1 Raffine's Tower
+2 Raffine's Tower
+4 Archon of Emeria
 3 Starnheim Aspirant
 4 Starnheim Aspirant
-4 Extraction Specialist
 1 Borrowed Time
 1 Great Hall of Starnheim
 2 Borrowed Time

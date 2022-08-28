@@ -11,10 +11,10 @@
 1 Ice-Fang Coatl
 1 Underground Sea
 1 Brainstorm
-2 Brainstorm
 2 Ice-Fang Coatl
-3 Misty Rainforest
+2 Brainstorm
 3 Ice-Fang Coatl
+3 Misty Rainforest
 2 Uro, Titan of Nature's Wrath
 1 Leovold, Emissary of Trest
 3 Uro, Titan of Nature's Wrath
@@ -118,8 +118,8 @@
 1 Ramunap Excavator
 1 Collector Ouphe
 1 Life from the Loam
-1 Knight of Autumn
 1 Savannah
+1 Knight of Autumn
 1 Sylvan Safekeeper
 1 Allosaurus Shepherd
 3 Abrupt Decay
@@ -150,23 +150,23 @@
 1 Painful Truths
 1 Memorial to Folly
 1 Vesuva
-2 Scavenging Ooze
 2 Dryad of the Ilysian Grove
 2 Valakut, the Molten Pinnacle
 2 Painful Truths
 2 Field of the Dead
+2 Scavenging Ooze
 2 Primeval Titan
 3 Dryad of the Ilysian Grove
 3 Valakut, the Molten Pinnacle
 3 Primeval Titan
+1 Terror of the Peaks
+1 Jace, the Mind Sculptor
+1 Vivien Reid
 1 Sarulf, Realm Eater
 1 Tourach, Dread Cantor
-1 Vivien Reid
-1 Jace, the Mind Sculptor
 1 Nurturing Peatland
 1 The Gitrog Monster
 1 Volrath's Stronghold
-1 Terror of the Peaks
 1 Plumb the Forbidden
 2 Henrika Domnathi
 1 Shriekmaw
@@ -199,13 +199,6 @@
 1 Dauthi Voidwalker
 2 Dauthi Voidwalker
 3 Dauthi Voidwalker
-1 Fury
-1 Elvish Reclaimer
-1 Korvold, Fae-Cursed King
-2 Fury
-3 Fury
-4 Once Upon a Time
-4 Wooded Foothills
 1 Koma, Cosmos Serpent
 1 Xanathar, Guild Kingpin
 1 Carnage Tyrant
@@ -213,13 +206,13 @@
 2 Leovold, Emissary of Trest
 2 Allosaurus Shepherd
 4 Ice-Fang Coatl
-1 Plague Engineer
-2 Tireless Tracker
-2 Hexdrinker
-2 Plague Engineer
-3 Tireless Tracker
-3 Hexdrinker
-5 Forest
+1 Fury
+1 Elvish Reclaimer
+1 Korvold, Fae-Cursed King
+2 Fury
+3 Fury
+4 Once Upon a Time
+4 Wooded Foothills
 1 Fiend Artisan
 1 Duress
 1 Dead of Winter
@@ -231,5 +224,12 @@
 2 Duress
 2 Crop Rotation
 2 Dead of Winter
-5 Snow-Covered Forest
 4 Arena Rector
+5 Snow-Covered Forest
+1 Plague Engineer
+2 Tireless Tracker
+2 Hexdrinker
+2 Plague Engineer
+3 Hexdrinker
+3 Tireless Tracker
+5 Forest
