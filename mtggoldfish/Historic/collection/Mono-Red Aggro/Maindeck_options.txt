@@ -30,12 +30,12 @@
 1 Relic Robber
 2 Rahilda, Wanted Cutthroat
 1 Voldaren Epicure
-1 Phoenix of Ash
 1 Voltage Surge
+1 Phoenix of Ash
 1 Goblin Javelineer
 2 Voldaren Epicure
-2 Relic Robber
 2 Voltage Surge
+2 Relic Robber
 2 Phoenix of Ash
 2 Goblin Javelineer
 3 Voldaren Epicure
@@ -49,12 +49,12 @@
 1 Chandra, Torch of Defiance
 1 Light Up the Stage
 1 Skewer the Critics
-1 Hellrider
 1 Insult/Injury
 1 Antagonize
 1 Unleash Fury
 1 Weaponize the Monsters
 1 You Come to the Gnoll Camp
+1 Hellrider
 1 Toralf, God of Fury
 1 Snow-Covered Mountain
 1 Tibalt, Wicked Tormentor
@@ -74,28 +74,28 @@
 2 Unlicensed Hearse
 3 Lightning Strike
 4 Lightning Strike
-1 Roil Eruption
 1 Goro-Goro, Disciple of Ryusei
 1 Urabrask, Heretic Praetor
 1 Chandra, Acolyte of Flame
 1 Thundering Rebuke
-2 Roil Eruption
-2 Goro-Goro, Disciple of Ryusei
+1 Roil Eruption
 2 Urabrask, Heretic Praetor
+2 Goro-Goro, Disciple of Ryusei
 2 Chandra, Torch of Defiance
 2 Chandra, Acolyte of Flame
 2 Thundering Rebuke
+2 Roil Eruption
 3 Thundering Rebuke
-3 Roil Eruption
 3 Chandra, Acolyte of Flame
 3 Chandra, Dressed to Kill
 3 Goro-Goro, Disciple of Ryusei
+3 Roil Eruption
 4 Roil Eruption
 4 Play with Fire
 4 Goro-Goro, Disciple of Ryusei
-1 Rabbit Battery
 1 Fiery Temper
 1 Bomat Courier
+1 Rabbit Battery
 1 Dragon's Rage Channeler
 1 Fable of the Mirror-Breaker
 1 Ox of Agonas
@@ -105,9 +105,9 @@
 1 Hollow One
 1 Seasoned Pyromancer
 1 Faithless Looting
-2 Rabbit Battery
 2 Fable of the Mirror-Breaker
 2 Fiery Temper
+2 Rabbit Battery
 2 Bomat Courier
 2 Dragon's Rage Channeler
 2 Ox of Agonas
@@ -132,34 +132,34 @@
 4 Fable of the Mirror-Breaker
 4 Faithless Looting
 4 Blazing Rootwalla
+1 Rockfall Vale
+1 Stomping Ground
 1 Sheltered Thicket
 1 Swamp
-1 Rockfall Vale
 1 Rootbound Crag
 1 Combat Celebrant
 1 Skirk Prospector
 1 Cragcrown Pathway
-1 Stomping Ground
+2 Stomping Ground
+2 Rockfall Vale
 2 Rootbound Crag
 2 Swamp
 2 Cragcrown Pathway
-2 Stomping Ground
 2 Skirk Prospector
 2 Combat Celebrant
 2 Sheltered Thicket
-2 Rockfall Vale
-3 Rootbound Crag
-3 Swamp
 3 Stomping Ground
 3 Rockfall Vale
+3 Rootbound Crag
+3 Swamp
 3 Cragcrown Pathway
 3 Skirk Prospector
-4 Cragcrown Pathway
+4 Rockfall Vale
 4 Swamp
 4 Stomping Ground
 4 Rootbound Crag
 4 Skirk Prospector
-4 Rockfall Vale
+4 Cragcrown Pathway
 5 Swamp
 6 Swamp
 7 Swamp

@@ -29,8 +29,8 @@
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
 |                    1|[Memory's Journey](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=254134)  |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                    1|[Reanimate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220576)         |                    1|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)   |
-|                    1|[Foundation Breaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522236)|                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
-|                    3|[Chrome Mox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413761)        |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
-|                    1|[Tinder Wall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2594)         |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    1|[Foundation Breaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522236)|                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    3|[Chrome Mox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413761)        |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
+|                    1|[Tinder Wall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2594)         |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
 |                     |                                                                                             |                    1|[Alpha Brawl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262657)        |
 

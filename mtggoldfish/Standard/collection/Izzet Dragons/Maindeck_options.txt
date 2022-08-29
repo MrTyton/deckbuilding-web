@@ -1,43 +1,39 @@
+1 Big Score
+2 Reckoner Bankbuster
 1 Disdainful Stroke
 1 Den of the Bugbear
-1 Spikefield Hazard
 1 Prismari Command
-3 Negate
-1 Big Score
-2 Den of the Bugbear
-2 Disdainful Stroke
 2 Hullbreaker Horror
 2 Big Score
 1 The Celestus
 5 Island
-2 Prismari Command
 1 Wandering Mind
-1 Galazeth Prismari
+2 Den of the Bugbear
+2 Disdainful Stroke
+3 Negate
 1 Flame-Blessed Bolt
-6 Mountain
+2 Prismari Command
+1 Galazeth Prismari
 3 Hullbreaker Horror
 3 Voltage Surge
 2 Spikefield Hazard
-2 Burn Down the House
+6 Mountain
 3 Reckoner Bankbuster
-7 Mountain
-1 Magma Opus
-2 Magma Opus
 2 The Celestus
+2 Burn Down the House
 1 Iymrith, Desert Doom
 1 Saw It Coming
 2 Saw It Coming
 4 Voltage Surge
+7 Mountain
 3 Prismari Command
+1 Magma Opus
+2 Magma Opus
 4 Make Disappear
-1 Test of Talents
 3 Big Score
 4 Big Score
 1 Strangle
 2 Strangle
-3 Burn Down the House
-1 Sea Gate Restoration
-3 Spikefield Hazard
 1 Frostboil Snarl
 3 Saw It Coming
 4 Saw It Coming
@@ -47,29 +43,29 @@
 2 Cathartic Pyre
 3 Cathartic Pyre
 1 Abrade
+1 Roil Eruption
 1 Snow-Covered Mountain
 1 Spell Pierce
 1 Snow-Covered Island
 1 Battle of Frost and Fire
 1 Reject
-1 Roil Eruption
 1 Depart the Realm
 1 Frost Bite
 1 Goldhound
 1 Disruption Protocol
-2 Snow-Covered Mountain
 2 Snow-Covered Island
 2 Reject
 2 Spell Pierce
 2 Battle of Frost and Fire
+2 Snow-Covered Mountain
 2 Goldhound
 2 Depart the Realm
 2 Frost Bite
 2 Disruption Protocol
 2 Roil Eruption
-3 Snow-Covered Mountain
 3 Snow-Covered Island
 3 Roil Eruption
+3 Snow-Covered Mountain
 3 Depart the Realm
 4 Snow-Covered Island
 4 Snow-Covered Mountain
@@ -97,6 +93,7 @@
 15 Snow-Covered Island
 16 Snow-Covered Island
 16 Snow-Covered Mountain
+3 Spikefield Hazard
 3 Memory Deluge
 2 Flame-Blessed Bolt
 3 Magma Opus
@@ -112,25 +109,21 @@
 8 Mountain
 9 Mountain
 10 Mountain
-1 Swiftwater Cliffs
-1 Valakut Awakening
-1 Cosmos Elixir
-1 Professional Face-Breaker
 1 Thundering Rebuke
-1 Volatile Fjord
-1 Kami's Flare
-1 Eater of Virtue
 1 Play with Fire
-1 Seize the Spoils
-1 Magic Missile
+1 Kami's Flare
+1 Professional Face-Breaker
 1 Contact Other Plane
 1 Karfell Harbinger
+1 Swiftwater Cliffs
 1 Lullmage's Domination
+1 Eater of Virtue
 1 Delina, Wild Mage
 1 Farideh, Devil's Chosen
 1 Shimmerdrift Vale
 1 Poppet Stitcher
 1 Jace, Mirror Mage
+1 Seize the Spoils
 1 Umara Mystic
 1 Silver Bolt
 1 Scion of Stygia
@@ -146,6 +139,7 @@
 1 Rending Flame
 1 Symmetry Sage
 1 Thousand-Faced Shadow
+1 Valakut Awakening
 1 Valakut Exploration
 1 Archmage Emeritus
 1 Brazen Dwarf
@@ -156,6 +150,7 @@
 1 Mischievous Catgeist
 1 Elemental Expressionist
 1 The Deck of Many Things
+1 Magic Missile
 1 Yuan-Ti Malison
 1 Farideh's Fireball
 1 Feywild Trickster
@@ -163,18 +158,19 @@
 1 Eruth, Tormented Prophet
 1 Wizard's Spellbook
 1 Swarming Goblins
+1 Volatile Fjord
 1 Replicating Ring
 1 Barbarian Class
+1 Cosmos Elixir
 1 Relic Amulet
 1 Seize the Storm
 1 Rowan, Scholar of Sparks
 1 Arcane Investigator
 1 Chaos Channeler
-2 Swiftwater Cliffs
 2 Thundering Rebuke
-2 Volatile Fjord
 2 Kami's Flare
 2 Karfell Harbinger
+2 Volatile Fjord
 2 Feywild Trickster
 2 Contact Other Plane
 2 Chaos Channeler
@@ -183,6 +179,7 @@
 2 Rending Flame
 2 Shimmerdrift Vale
 2 Galazeth Prismari
+2 Swiftwater Cliffs
 2 Scion of Stygia
 2 Delina, Wild Mage
 2 Farideh, Devil's Chosen
@@ -214,6 +211,8 @@
 15 Mountain
 16 Mountain
 1 Delver of Secrets
+1 Test of Talents
+2 Wandering Mind
 1 Spectral Adversary
 1 Witness Protection
 2 Spectral Adversary
@@ -224,6 +223,8 @@
 4 Witness Protection
 2 Otawara, Soaring City
 4 Spikefield Hazard
+3 Burn Down the House
+1 Sea Gate Restoration
 2 Frostboil Snarl
 3 Strangle
 4 Strangle
@@ -239,11 +240,11 @@
 17 Snow-Covered Mountain
 1 Riveteers Requisitioner
 1 Reservoir Kraken
+1 Roadside Reliquary
 1 Mystic Reflection
 1 Mindlink Mech
 1 Suspicious Stowaway
 2 Suspicious Stowaway
-2 Test of Talents
 1 Arcane Bombardment
 2 Lier, Disciple of the Drowned
 2 Arcane Bombardment
@@ -255,11 +256,15 @@
 3 Delver of Secrets
 3 Frostboil Snarl
 4 Delver of Secrets
-2 Wandering Mind
-2 Bloodthirsty Adversary
-3 Wandering Mind
-3 Bloodthirsty Adversary
-4 Bloodthirsty Adversary
+1 Behold the Multiverse
+1 Cinderclasm
+1 Unexpected Windfall
+2 Smoldering Egg
+2 Unexpected Windfall
+3 Smoldering Egg
+3 Unexpected Windfall
+4 Smoldering Egg
+4 Unexpected Windfall
 1 Mirrorshell Crab
 1 Temple of the Dragon Queen
 2 Temple of the Dragon Queen
@@ -269,17 +274,29 @@
 3 Temple of the Dragon Queen
 4 Mirrorshell Crab
 4 Temple of the Dragon Queen
-1 Behold the Multiverse
-1 Unexpected Windfall
-1 Cinderclasm
-2 Unexpected Windfall
-2 Smoldering Egg
-3 Smoldering Egg
-3 Unexpected Windfall
-4 Unexpected Windfall
-4 Smoldering Egg
 4 Hullbreaker Horror
 4 Burn Down the House
+2 Bloodthirsty Adversary
+3 Wandering Mind
+3 Bloodthirsty Adversary
+4 Bloodthirsty Adversary
+1 Heated Debate
+1 Cleansing Wildfire
+1 Smashing Success
+2 Abrade
+2 Heated Debate
+2 Cleansing Wildfire
+2 Smashing Success
+3 Den of the Bugbear
+3 Smashing Success
+3 Flame-Blessed Bolt
+3 Cleansing Wildfire
+4 Reckoner Bankbuster
+4 Den of the Bugbear
+4 Field of Ruin
+4 Cleansing Wildfire
+4 Flame-Blessed Bolt
+4 Smashing Success
 1 Surtland Frostpyre
 1 Silundi Vision
 1 Arcane Infusion
@@ -288,23 +305,6 @@
 2 Silundi Vision
 3 Arcane Infusion
 4 Magma Opus
-1 Heated Debate
-1 Cleansing Wildfire
-1 Smashing Success
-2 Abrade
-2 Cleansing Wildfire
-2 Heated Debate
-2 Smashing Success
-3 Den of the Bugbear
-3 Cleansing Wildfire
-3 Flame-Blessed Bolt
-3 Smashing Success
-4 Reckoner Bankbuster
-4 Den of the Bugbear
-4 Cleansing Wildfire
-4 Flame-Blessed Bolt
-4 Smashing Success
-4 Field of Ruin
 1 Geistlight Snare
 2 Geistlight Snare
 3 Geistlight Snare
