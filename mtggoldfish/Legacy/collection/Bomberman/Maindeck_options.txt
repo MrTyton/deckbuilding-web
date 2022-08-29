@@ -1,14 +1,9 @@
 2 Karakas
 3 Stonecoil Serpent
-1 Tundra
 4 Ingenious Smith
 1 Cathar Commando
 2 Cathar Commando
-2 Tundra
-3 Azorius Signet
-1 Kappa Cannoneer
-2 Kappa Cannoneer
-3 Kappa Cannoneer
+1 Tundra
 1 Rustvale Bridge
 1 Den of the Bugbear
 1 Cut/Ribbons
@@ -18,41 +13,46 @@
 3 Rustvale Bridge
 3 Cut/Ribbons
 4 Rustvale Bridge
+2 Tundra
+1 Shadowspear
+1 Kappa Cannoneer
+2 Kappa Cannoneer
+3 Kappa Cannoneer
 1 Orzhov Signet
 2 Orzhov Signet
-1 Shadowspear
 1 Retrofitter Foundry
+3 Azorius Signet
 1 Otawara, Soaring City
+1 Mishra's Bauble
 1 Seat of the Synod
 1 Patchwork Automaton
 2 Patchwork Automaton
-1 Mishra's Bauble
-2 Seat of the Synod
-3 Patchwork Automaton
-4 Patchwork Automaton
 3 Tundra
-1 Aether Spellbomb
 1 Urza's Bauble
 2 Urza's Bauble
+1 Aether Spellbomb
 2 Mishra's Bauble
-3 Seat of the Synod
+2 Seat of the Synod
+3 Patchwork Automaton
 4 Kappa Cannoneer
+4 Patchwork Automaton
 1 Spatial Contortion
 2 Spatial Contortion
 1 Eiganjo, Seat of the Empire
-1 Plains
-2 Otawara, Soaring City
-4 Seat of the Synod
-3 Mishra's Bauble
 1 Plateau
-1 Displacer Kitten
+1 Plains
+3 Mishra's Bauble
+3 Seat of the Synod
+1 Fable of the Mirror-Breaker
+2 Fable of the Mirror-Breaker
+3 Fable of the Mirror-Breaker
+4 Fable of the Mirror-Breaker
 1 Teferi, Time Raveler
-2 Displacer Kitten
+1 Displacer Kitten
 2 Teferi, Time Raveler
+2 Displacer Kitten
 3 Displacer Kitten
 3 Teferi, Time Raveler
-1 Urza, Lord High Artificer
-2 Urza, Lord High Artificer
 1 Flooded Strand
 1 Island
 2 Flooded Strand
@@ -62,6 +62,8 @@
 3 Monastery Mentor
 4 Monastery Mentor
 4 Mishra's Bauble
+2 Otawara, Soaring City
+4 Seat of the Synod
 1 Thoughtcast
 1 Thought Monitor
 1 Sai, Master Thopterist
@@ -86,6 +88,8 @@
 4 Lion's Eye Diamond
 4 Mox Opal
 4 Force of Will
+1 Currency Converter
+2 Plateau
 1 Unlicensed Hearse
 2 Unlicensed Hearse
 3 Unlicensed Hearse
@@ -93,9 +97,6 @@
 1 Darksteel Citadel
 2 Darksteel Citadel
 3 Darksteel Citadel
-1 Malevolent Hermit
-2 Malevolent Hermit
-3 Malevolent Hermit
 1 Elite Spellbinder
 2 Elite Spellbinder
 3 Elite Spellbinder
@@ -116,15 +117,12 @@
 3 March of Otherworldly Light
 4 March of Otherworldly Light
 4 Plains
-1 Fable of the Mirror-Breaker
-2 Plateau
-2 Fable of the Mirror-Breaker
-3 Fable of the Mirror-Breaker
-4 Fable of the Mirror-Breaker
 4 Teferi, Time Raveler
 4 Tundra
 4 Displacer Kitten
+1 Urza, Lord High Artificer
 1 Defense Grid
+2 Urza, Lord High Artificer
 2 Defense Grid
 3 Defense Grid
 3 Urza, Lord High Artificer

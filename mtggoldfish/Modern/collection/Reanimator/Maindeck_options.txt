@@ -13,20 +13,20 @@
 3 Priest of Fell Rites
 4 Bloodstained Mire
 1 Blood Crypt
-1 Arid Mesa
 1 Savai Triome
+1 Arid Mesa
 1 Fury
 1 Mountain
 1 Fable of the Mirror-Breaker
 1 Blackcleave Cliffs
 1 Sacred Foundry
 1 Seasoned Pyromancer
+2 Fable of the Mirror-Breaker
+2 Arid Mesa
 2 Seasoned Pyromancer
 2 Fury
-2 Arid Mesa
 2 Blackcleave Cliffs
 2 Blood Crypt
-2 Fable of the Mirror-Breaker
 3 Fable of the Mirror-Breaker
 3 Seasoned Pyromancer
 3 Fury
@@ -62,13 +62,13 @@
 4 Thoughtseize
 2 Fatal Push
 1 Takenuma, Abandoned Mire
+1 Blast Zone
 1 Cling to Dust
 1 Cascading Cataracts
 1 Expedition Map
 1 Golos, Tireless Pilgrim
 1 Bloodchief's Thirst
 1 Cabal Coffers
-1 Blast Zone
 1 Castle Locthwain
 2 Bloodchief's Thirst
 2 Golos, Tireless Pilgrim
@@ -133,10 +133,10 @@
 4 Fury
 1 Bone Shards
 2 Bone Shards
-1 Grave Titan
 1 Xander's Lounge
 1 Drowned Catacomb
 1 Kaya, Orzhov Usurper
+1 Grave Titan
 1 Kaito Shizuki
 1 Otawara, Soaring City
 4 Flooded Strand
@@ -149,8 +149,8 @@
 2 Consider
 3 Consider
 4 Consider
-1 Branchloft Pathway
 1 Eternal Witness
+1 Branchloft Pathway
 1 Silent Clearing
 1 Overgrown Tomb
 1 Nurturing Peatland
@@ -182,8 +182,8 @@
 4 Satyr Wayfinder
 1 Barren Moor
 1 Serra's Emissary
-1 Urza's Saga
 1 Nihil Spellbomb
+1 Urza's Saga
 1 Shadowspear
 1 The Underworld Cookbook
 1 Ovalchase Daredevil
