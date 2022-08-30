@@ -1,12 +1,12 @@
-2 Castle Locthwain
-3 Wrench Mind
 1 Nether Spirit
 3 Shrieking Affliction
-1 Silent Clearing
-1 Ensnaring Bridge
-4 Thoughtseize
-12 Swamp
+2 Castle Locthwain
+3 Wrench Mind
 1 Shadowspear
+1 Silent Clearing
+4 Thoughtseize
+1 Ensnaring Bridge
+12 Swamp
 3 Bloodchief's Thirst
 4 Shrieking Affliction
 1 Blackmail
@@ -31,6 +31,7 @@
 1 Expedition Map
 2 Blackmail
 14 Swamp
+1 Cling to Dust
 2 Tourach, Dread Cantor
 1 Mishra's Bauble
 2 Mishra's Bauble
@@ -55,9 +56,10 @@
 1 Liliana's Triumph
 2 Liliana's Triumph
 4 Castle Locthwain
-1 Cling to Dust
 1 Verdant Catacombs
 4 Fatal Push
+1 Marsh Flats
+2 Marsh Flats
 3 Tourach, Dread Cantor
 1 Bloodstained Mire
 2 Bloodstained Mire
@@ -87,8 +89,6 @@
 1 Surgical Extraction
 2 Verdant Catacombs
 4 Funeral Charm
-1 Marsh Flats
-2 Marsh Flats
 1 Blackcleave Cliffs
 1 Blood Crypt
 1 Kroxa, Titan of Death's Hunger
@@ -113,6 +113,7 @@
 2 March of Wretched Sorrow
 3 March of Wretched Sorrow
 3 Mishra's Bauble
+3 Marsh Flats
 1 Blast Zone
 1 Thespian's Stage
 2 Collective Brutality
@@ -139,9 +140,9 @@
 2 Ragavan, Nimble Pilferer
 2 Mountain
 2 Chandra, Torch of Defiance
-3 Blackcleave Cliffs
 3 Dragon's Rage Channeler
 3 Blood Crypt
+3 Blackcleave Cliffs
 3 Chandra, Torch of Defiance
 3 Ragavan, Nimble Pilferer
 4 Blackcleave Cliffs
