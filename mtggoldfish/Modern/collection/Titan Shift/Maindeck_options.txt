@@ -1,11 +1,13 @@
 3 Scalding Tarn
 4 Stomping Ground
+2 Bloodstained Mire
+2 Forest
 3 Scapeshift
 1 Ketria Triome
 1 Misty Rainforest
 1 Steam Vents
-2 Steam Vents
 2 Misty Rainforest
+2 Steam Vents
 3 Misty Rainforest
 4 Misty Rainforest
 1 Growth Spiral
@@ -29,64 +31,59 @@
 4 Growth Spiral
 1 Snow-Covered Mountain
 1 Snow-Covered Forest
-2 Forest
-1 Snow-Covered Island
-2 Bloodstained Mire
 1 Endurance
 3 Dwarven Mine
+1 Snow-Covered Island
+3 Arid Mesa
 1 Summoner's Pact
 1 Farseek
 2 Farseek
 2 Cinder Glade
-3 Arid Mesa
-2 Summoner's Pact
-3 Farseek
-3 Cinder Glade
-4 Farseek
 1 Windswept Heath
 2 Windswept Heath
+3 Farseek
+3 Cinder Glade
 3 Forest
 1 Island
+4 Farseek
 1 Horizon Canopy
 1 Breeding Pool
 1 Temple Garden
-1 Verdant Catacombs
+1 Snapcaster Mage
 1 Botanical Sanctum
 1 Prismatic Vista
-1 Scavenging Ooze
 1 Eternal Witness
 1 Marsh Flats
-1 Emrakul, the Aeons Torn
+1 Raugrin Triome
 1 Ignoble Hierarch
+1 Restoration Angel
 1 Kiki-Jiki, Mirror Breaker
-1 Path to Exile
+1 Emrakul, the Aeons Torn
 1 Rhonas the Indomitable
+1 Path to Exile
+1 Magus of the Moon
 1 Birds of Paradise
 1 Neoform
 1 Nahiri, the Harbinger
-1 Magus of the Moon
+1 Ziatora's Proving Ground
 1 Felidar Guardian
+1 Jetmir's Garden
 1 Sylvan Caryatid
+1 Knight of the Reliquary
 1 Boseiju, Who Shelters All
 1 Lotus Cobra
 1 Razorverge Thicket
-1 Renegade Rallier
-1 Tireless Tracker
-1 Sacred Foundry
-1 Knight of the Reliquary
-1 Eladamri's Call
-1 Wall of Blossoms
-1 Restoration Angel
-1 Wall of Omens
-1 Polluted Delta
-1 Prismatic Ending
 1 Serra's Emissary
-1 Zagoth Triome
-1 Jetmir's Garden
-1 Ziatora's Proving Ground
+1 Renegade Rallier
 1 Overgrown Tomb
-1 Raugrin Triome
+1 Eladamri's Call
+1 Tireless Tracker
+1 Wall of Blossoms
+1 Sacred Foundry
+1 Wall of Omens
+1 Prismatic Ending
 1 Prime Speaker Vannifar
+1 Scavenging Ooze
 1 Bring to Light
 1 Supreme Verdict
 1 Knight of Autumn
@@ -113,18 +110,20 @@
 1 Fiend Artisan
 1 Paradise Druid
 1 Mastermind's Acquisition
+1 Zagoth Triome
 1 Waterlogged Grove
 1 Saheeli Rai
 1 Devoted Druid
 1 Primal Command
 1 Avacyn's Pilgrim
+1 Polluted Delta
 1 Scryb Ranger
 1 Kessig Wolf Run
-1 Snapcaster Mage
 1 Battle of Wits
 1 Breaching Hippocamp
 1 Hinterland Harbor
 1 Mana Confluence
+1 Verdant Catacombs
 1 Shalai, Voice of Plenty
 1 Finale of Devastation
 1 City of Brass
@@ -132,11 +131,12 @@
 2 Noble Hierarch
 2 Botanical Sanctum
 2 Chord of Calling
-2 Verdant Catacombs
+2 Snapcaster Mage
 2 Ignoble Hierarch
+2 Restoration Angel
 2 Eternal Witness
-2 Breeding Pool
 2 Horizon Canopy
+2 Breeding Pool
 2 Path to Exile
 2 Nahiri, the Harbinger
 2 Neoform
@@ -145,11 +145,8 @@
 2 Knight of the Reliquary
 2 Birds of Paradise
 2 Teferi, Time Raveler
-2 Restoration Angel
 2 Wall of Blossoms
 2 Wall of Omens
-2 Polluted Delta
-2 Marsh Flats
 2 Prismatic Ending
 2 Saheeli Rai
 2 Bring to Light
@@ -157,7 +154,8 @@
 2 Paradise Druid
 2 Avacyn's Pilgrim
 2 Hinterland Harbor
-2 Snapcaster Mage
+2 Verdant Catacombs
+2 Marsh Flats
 2 Devoted Druid
 2 Primal Command
 2 Gifts Ungiven
@@ -173,10 +171,13 @@
 2 Felidar Guardian
 2 Glittering Wish
 2 Sunpetal Grove
+2 Polluted Delta
 2 Wall of Roots
 3 Noble Hierarch
 3 Chord of Calling
+3 Snapcaster Mage
 3 Ignoble Hierarch
+3 Polluted Delta
 3 Windswept Heath
 3 Nahiri, the Harbinger
 3 Neoform
@@ -184,11 +185,10 @@
 3 Teferi, Time Raveler
 3 Knight of the Reliquary
 3 Birds of Paradise
-3 Verdant Catacombs
 3 Path to Exile
 3 Eternal Witness
 3 Wall of Omens
-3 Polluted Delta
+3 Verdant Catacombs
 3 Prismatic Ending
 3 Arbor Elf
 3 Felidar Guardian
@@ -214,21 +214,18 @@
 3 Finale of Devastation
 3 Primal Command
 3 Botanical Sanctum
-3 Snapcaster Mage
 3 Gifts Ungiven
 3 Battle of Wits
-4 Prismatic Ending
 4 Noble Hierarch
-4 Snapcaster Mage
-4 Ignoble Hierarch
-4 Nahiri, the Harbinger
 4 Chord of Calling
+4 Ignoble Hierarch
+4 Polluted Delta
+4 Nahiri, the Harbinger
+4 Verdant Catacombs
 4 Birds of Paradise
 4 Windswept Heath
 4 Wall of Omens
-4 Verdant Catacombs
 4 Neoform
-4 Polluted Delta
 4 Sylvan Caryatid
 4 Battle of Wits
 4 Glittering Wish
@@ -243,31 +240,32 @@
 4 Felidar Guardian
 4 Eternal Witness
 4 Arbor Elf
+4 Snapcaster Mage
 4 Sunpetal Grove
 4 Primal Command
 4 Flooded Strand
 4 Path to Exile
 4 Finale of Devastation
+4 Prismatic Ending
 4 Lotus Cobra
 4 Devoted Druid
 4 Avacyn's Pilgrim
 4 Madcap Experiment
+1 Flame Slash
+2 Endurance
+4 Ketria Triome
+4 Wrenn and Six
+2 Summoner's Pact
+2 Snow-Covered Forest
+3 Summoner's Pact
+4 Summoner's Pact
+6 Mountain
+1 Hour of Promise
 1 Archmage's Charm
 2 Archmage's Charm
 2 Snow-Covered Island
 3 Snow-Covered Island
 3 Fire/Ice
-1 Flame Slash
-2 Endurance
-4 Ketria Triome
-6 Mountain
-2 Snow-Covered Forest
-1 Castle Garenbrig
-2 Castle Garenbrig
-4 Wrenn and Six
-3 Summoner's Pact
-4 Summoner's Pact
-1 Hour of Promise
 3 Bloodstained Mire
 4 Bloodstained Mire
 1 Mwonvuli Acid-Moss
@@ -278,17 +276,19 @@
 4 Chalice of the Void
 4 Valakut, the Molten Pinnacle
 1 Obstinate Baloth
-1 Sweltering Suns
 1 Worldspine Wurm
+1 Sweltering Suns
 1 Through the Breach
 2 Through the Breach
 3 Through the Breach
 4 Through the Breach
 7 Mountain
-1 Blast Zone
-1 Storm's Wrath
+1 Castle Garenbrig
+2 Castle Garenbrig
 2 Snow-Covered Mountain
 1 Otawara, Soaring City
 2 Island
+1 Blast Zone
+1 Storm's Wrath
 2 Storm's Wrath
 4 Scalding Tarn

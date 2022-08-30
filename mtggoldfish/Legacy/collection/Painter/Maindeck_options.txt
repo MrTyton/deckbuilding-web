@@ -1,19 +1,15 @@
-4 Great Furnace
 5 Mountain
 6 Mountain
-1 Pithing Needle
 1 Fury
 2 Fury
-1 Bloodstained Mire
 7 Mountain
-1 Scalding Tarn
-1 Ichor Wellspring
-4 Karn, the Great Creator
-3 Red Elemental Blast
 3 Simian Spirit Guide
-1 Wooded Foothills
-1 Arid Mesa
-2 Ensnaring Bridge
+1 Bloodstained Mire
+3 Red Elemental Blast
+1 Scalding Tarn
+4 Great Furnace
+1 Pithing Needle
+4 Karn, the Great Creator
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -21,105 +17,72 @@
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
+1 Wooded Foothills
+1 Arid Mesa
+1 Ichor Wellspring
+2 Ensnaring Bridge
 1 Once Upon a Time
 1 Taiga
 2 Once Upon a Time
 3 Once Upon a Time
+4 Lotus Petal
 4 Lightning Bolt
-2 Scalding Tarn
-1 Plateau
-1 Ethersworn Canonist
 1 Imperial Recruiter
-1 Brainstone
-1 Enlightened Tutor
 1 Goblin Cratermaker
 2 Imperial Recruiter
+1 Ethersworn Canonist
+3 City of Traitors
+1 Plateau
+2 Scalding Tarn
+1 Brainstone
+1 Enlightened Tutor
 2 Plateau
 4 Once Upon a Time
 2 Taiga
-4 Lotus Petal
-3 City of Traitors
-1 Den of the Bugbear
+8 Mountain
+9 Mountain
+1 Blood Moon
+2 Blood Moon
+3 Blood Moon
+4 City of Traitors
 2 Bloodstained Mire
 2 Wooded Foothills
-1 Island
-1 Force of Will
-2 Force of Will
-3 Force of Will
-4 Force of Will
-1 Volcanic Island
-2 Volcanic Island
-3 Scalding Tarn
-1 Retrofitter Foundry
-1 Expressive Iteration
-1 Swords to Plowshares
-1 Force of Negation
-1 Relic of Progenitus
-1 Brainstorm
-1 Ponder
-1 Tundra
-1 Flooded Strand
-1 Prismatic Ending
-1 Timeless Dragon
-1 Murktide Regent
-1 Narset, Parter of Veils
-2 Flooded Strand
-2 Expressive Iteration
-2 Swords to Plowshares
-2 Force of Negation
-2 Ponder
-2 Tundra
-2 Prismatic Ending
-2 Brainstorm
-2 Murktide Regent
-3 Tundra
-3 Expressive Iteration
-3 Flooded Strand
-3 Swords to Plowshares
-3 Brainstorm
-3 Volcanic Island
-3 Ponder
-4 Expressive Iteration
-4 Ponder
-4 Scalding Tarn
-4 Swords to Plowshares
-4 Flooded Strand
-4 Brainstorm
 1 Karakas
 1 Wasteland
 1 Crucible of Worlds
+1 Retrofitter Foundry
 1 Esper Sentinel
 1 Portable Hole
 1 Plains
 1 Hope of Ghirapur
+1 Mother of Runes
 1 Lion Sash
 1 Aether Vial
-1 Eiganjo Castle
 1 Eiganjo, Seat of the Empire
-1 Mother of Runes
-1 Oswald Fiddlebender
 1 Ingenious Smith
+1 Oswald Fiddlebender
 1 Ancient Den
+1 Eiganjo Castle
 2 Esper Sentinel
 2 Plains
 2 Ethersworn Canonist
-2 Wasteland
-2 Aether Vial
-2 Ingenious Smith
-2 Mother of Runes
-2 Portable Hole
-2 Karakas
-2 Ancient Den
 2 Oswald Fiddlebender
+2 Aether Vial
+2 Karakas
+2 Wasteland
+2 Ingenious Smith
+2 Ancient Den
+2 Portable Hole
+2 Mother of Runes
 3 Ingenious Smith
 3 Esper Sentinel
 3 Plains
-3 Ancient Den
 3 Ethersworn Canonist
+3 Ancient Den
 3 Mother of Runes
-3 Oswald Fiddlebender
-3 Aether Vial
 3 Wasteland
+3 Aether Vial
+3 Oswald Fiddlebender
 4 Esper Sentinel
 4 Plains
 4 Ingenious Smith
@@ -129,13 +92,17 @@
 5 Plains
 6 Plains
 7 Plains
+4 Red Elemental Blast
+10 Mountain
+1 Magus of the Moon
+4 Blood Moon
+4 Simian Spirit Guide
 1 Punishing Fire
 1 Grove of the Burnwillows
-2 Punishing Fire
 2 Grove of the Burnwillows
+2 Punishing Fire
 3 Grove of the Burnwillows
 1 Shadowspear
-1 Expedition Map
 1 Crop Rotation
 1 Yavimaya, Cradle of Growth
 1 Boseiju, Who Endures
@@ -148,56 +115,36 @@
 1 Mox Diamond
 1 Elvish Reclaimer
 1 Exploration
+1 Expedition Map
 2 Mox Diamond
 2 Forest
 2 Sylvan Library
 2 Crop Rotation
 2 Yavimaya, Cradle of Growth
+2 Thespian's Stage
 2 Dark Depths
 2 Elvish Reclaimer
 2 Exploration
-2 Thespian's Stage
 3 Crop Rotation
 3 Sylvan Library
 3 Mox Diamond
 3 Thespian's Stage
-3 Yavimaya, Cradle of Growth
-3 Exploration
 3 Dark Depths
+3 Yavimaya, Cradle of Growth
 3 Elvish Reclaimer
+3 Exploration
 4 Crop Rotation
+4 Dark Depths
 4 Yavimaya, Cradle of Growth
 4 Thespian's Stage
-4 Dark Depths
 4 Elvish Reclaimer
 4 Exploration
-8 Mountain
-9 Mountain
-1 Blood Moon
-2 Blood Moon
-3 Blood Moon
+8 Snow-Covered Mountain
 4 Grindstone
-1 Otawara, Soaring City
-1 Thoughtcast
-1 Seat of the Synod
-1 Emry, Lurker of the Loch
-1 Mishra's Bauble
-2 Emry, Lurker of the Loch
-2 Mishra's Bauble
-2 Thoughtcast
-2 Seat of the Synod
-2 Mox Opal
-3 Mishra's Bauble
-3 Thoughtcast
-3 Seat of the Synod
-3 Emry, Lurker of the Loch
-3 Mox Opal
-4 Mishra's Bauble
-4 Thoughtcast
-4 Mox Opal
-4 Emry, Lurker of the Loch
-4 Seat of the Synod
-4 City of Traitors
+1 Volcanic Island
+2 Volcanic Island
+3 Scalding Tarn
+1 Den of the Bugbear
 1 Minsc & Boo, Timeless Heroes
 2 Minsc & Boo, Timeless Heroes
 1 Sundering Titan
@@ -208,76 +155,124 @@
 1 Waterlogged Grove
 1 Glacial Chasm
 2 Crucible of Worlds
+1 Wurmcoil Engine
+2 Breya's Apprentice
 1 Mirrorshell Crab
 2 Mirrorshell Crab
 3 Mirrorshell Crab
-1 Aether Spellbomb
-1 Welding Jar
-1 Metallic Rebuke
-2 Metallic Rebuke
-2 Island
-3 Ensnaring Bridge
-3 Metallic Rebuke
-3 Island
-4 Metallic Rebuke
+3 Imperial Recruiter
+4 Imperial Recruiter
 1 Life from the Loam
 1 Horizon Canopy
 2 Life from the Loam
 3 Forest
 3 Life from the Loam
 4 Life from the Loam
-4 Red Elemental Blast
+1 Trinisphere
+2 Magus of the Moon
+3 Magus of the Moon
+4 Magus of the Moon
 1 Badlands
 1 Ignoble Hierarch
 1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
 2 Ignoble Hierarch
+2 Chandra, Torch of Defiance
 3 Ignoble Hierarch
 4 Grove of the Burnwillows
 1 Thought-Knot Seer
 1 Goblin Rabblemaster
-1 Shatterskull Smashing
 1 Chrome Mox
+1 Shatterskull Smashing
 2 Thought-Knot Seer
 2 Goblin Rabblemaster
 2 Chrome Mox
 2 Shatterskull Smashing
 3 Thought-Knot Seer
-3 Goblin Rabblemaster
-3 Shatterskull Smashing
-3 Chrome Mox
 3 Fury
+3 Goblin Rabblemaster
+3 Chrome Mox
+3 Shatterskull Smashing
 4 Thought-Knot Seer
 4 Fury
-4 Chrome Mox
 4 Shatterskull Smashing
+4 Chrome Mox
+1 Island
+1 Force of Will
+2 Force of Will
+3 Force of Will
+4 Force of Will
+1 Otawara, Soaring City
 1 Sai, Master Thopterist
-1 Minamo, School at Water's Edge
 1 Urza's Bauble
+1 Emry, Lurker of the Loch
+1 Thoughtcast
+1 Minamo, School at Water's Edge
 1 Thought Monitor
-2 Urza's Bauble
-2 Sai, Master Thopterist
-2 Thought Monitor
+1 Seat of the Synod
+1 Mishra's Bauble
 2 Otawara, Soaring City
+2 Urza's Bauble
+2 Seat of the Synod
+2 Thought Monitor
+2 Thoughtcast
+2 Mox Opal
+2 Emry, Lurker of the Loch
+2 Mishra's Bauble
+2 Sai, Master Thopterist
+3 Mishra's Bauble
+3 Thoughtcast
+3 Mox Opal
 3 Thought Monitor
+3 Seat of the Synod
 3 Urza's Bauble
+3 Emry, Lurker of the Loch
+4 Mishra's Bauble
+4 Mox Opal
+4 Emry, Lurker of the Loch
 4 Urza's Bauble
+4 Seat of the Synod
 4 Thought Monitor
-1 Trinisphere
-1 Magus of the Moon
-2 Magus of the Moon
-3 Magus of the Moon
-4 Magus of the Moon
-4 Simian Spirit Guide
-4 Blood Moon
+4 Thoughtcast
 1 The Underworld Cookbook
-1 Triplicate Titan
 1 Cursed Mirror
-8 Snow-Covered Mountain
+1 Triplicate Titan
 9 Snow-Covered Mountain
 10 Snow-Covered Mountain
 11 Snow-Covered Mountain
 12 Snow-Covered Mountain
 13 Snow-Covered Mountain
 14 Snow-Covered Mountain
-10 Mountain
+1 Expressive Iteration
+1 Swords to Plowshares
+1 Force of Negation
+1 Relic of Progenitus
+1 Brainstorm
+1 Ponder
+1 Narset, Parter of Veils
+1 Prismatic Ending
+1 Tundra
+1 Flooded Strand
+1 Timeless Dragon
+1 Murktide Regent
+2 Flooded Strand
+2 Expressive Iteration
+2 Swords to Plowshares
+2 Force of Negation
+2 Ponder
+2 Brainstorm
+2 Tundra
+2 Murktide Regent
+2 Prismatic Ending
+3 Tundra
+3 Expressive Iteration
+3 Flooded Strand
+3 Swords to Plowshares
+3 Volcanic Island
+3 Brainstorm
+3 Ponder
+4 Expressive Iteration
+4 Brainstorm
+4 Swords to Plowshares
+4 Ponder
+4 Scalding Tarn
+4 Flooded Strand

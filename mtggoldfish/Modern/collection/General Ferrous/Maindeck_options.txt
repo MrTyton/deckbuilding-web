@@ -1,45 +1,43 @@
-1 Bloodstained Mire
-1 Flooded Strand
 1 Xander's Lounge
+1 Flooded Strand
 1 Hidetsugu Consumes All
+1 Bloodstained Mire
 1 Verdant Catacombs
-2 Bloodstained Mire
-3 Bloodstained Mire
-1 Manamorphose
-2 Manamorphose
-3 Manamorphose
-1 Polluted Delta
+2 Misty Rainforest
 2 Flooded Strand
 2 Hidetsugu Consumes All
 4 Arid Mesa
-4 Manamorphose
-4 Bloodstained Mire
-2 Misty Rainforest
-1 Fury
-2 Steam Vents
 1 Omnath, Locus of Creation
 2 Omnath, Locus of Creation
+1 Fury
+1 Manamorphose
+2 Manamorphose
+3 Manamorphose
+2 Bloodstained Mire
+3 Bloodstained Mire
+1 Polluted Delta
+2 Steam Vents
 1 Mountain
 2 Fury
 2 Sacred Foundry
+4 Manamorphose
+4 Bloodstained Mire
 3 Flooded Strand
 1 Boseiju, Who Endures
+3 Misty Rainforest
 2 Scalding Tarn
+4 Mantis Rider
 1 Spara's Headquarters
 4 General Ferrous Rokiric
 2 Stomping Ground
 2 Verdant Catacombs
-3 Misty Rainforest
-1 Knight of Autumn
-2 Breeding Pool
-4 Mantis Rider
+1 Riveteers Charm
 4 Flooded Strand
 2 Temple Garden
 1 Voice of Resurgence
 2 Voice of Resurgence
-1 Riveteers Charm
-1 Noble Hierarch
 1 Ignoble Hierarch
+1 Noble Hierarch
 2 Ignoble Hierarch
 2 Noble Hierarch
 3 Ignoble Hierarch
@@ -50,7 +48,9 @@
 1 Island
 3 Wrenn and Six
 1 Klothys, God of Destiny
+1 Knight of Autumn
 1 Path to Exile
+2 Breeding Pool
 2 Prismatic Ending
 3 Prismatic Ending
 2 Plains
@@ -75,15 +75,17 @@
 3 Atarka's Command
 4 Hero of Precinct One
 4 Stomping Ground
+2 Riveteers Charm
 1 Watery Grave
 2 Polluted Delta
 3 Polluted Delta
+4 Misty Rainforest
 1 Scourge of the Skyclaves
 2 Scourge of the Skyclaves
 1 Unlicensed Hearse
 2 Unlicensed Hearse
-1 Eldritch Evolution
 1 Assassin's Trophy
+1 Eldritch Evolution
 1 Raffine's Tower
 1 Overgrown Tomb
 3 Fury
@@ -115,7 +117,6 @@
 1 Chance for Glory
 1 Emrakul, the Promised End
 2 Chance for Glory
-2 Riveteers Charm
 1 Bloodtithe Harvester
 2 Bloodtithe Harvester
 1 Putrid Leech
@@ -124,7 +125,6 @@
 2 Wild Nacatl
 3 Temple Garden
 3 Verdant Catacombs
-4 Misty Rainforest
 1 Ledger Shredder
 2 Ledger Shredder
 3 Ledger Shredder
@@ -137,11 +137,11 @@
 3 Voice of Resurgence
 3 Scalding Tarn
 4 Scalding Tarn
+1 Snow-Covered Forest
 1 Snow-Covered Mountain
 1 Snow-Covered Plains
-1 Snow-Covered Forest
-1 Faithful Mending
 1 Snow-Covered Island
+1 Faithful Mending
 1 Chalice of the Void
 1 Teferi, Time Raveler
 1 Expressive Iteration
@@ -162,31 +162,16 @@
 1 Might of Alara
 1 Renegade Rallier
 1 Snapcaster Mage
-2 Forest
 2 Marsh Flats
+2 Forest
 2 Snapcaster Mage
 2 Might of Alara
 3 Marsh Flats
 3 Might of Alara
 4 Marsh Flats
-1 Reflector Mage
-1 Huntmaster of the Fells
-1 Birds of Paradise
-1 Winota, Joiner of Forces
-2 Reflector Mage
-2 Winota, Joiner of Forces
-2 Huntmaster of the Fells
-2 Birds of Paradise
-3 Reflector Mage
-3 Birds of Paradise
-3 Winota, Joiner of Forces
-4 Birds of Paradise
-4 Reflector Mage
-4 Neoform
-4 Seasoned Pyromancer
-4 Winota, Joiner of Forces
 1 Eiganjo, Seat of the Empire
 1 Showdown of the Skalds
+1 Hengegate Pathway
 1 Deflecting Palm
 1 Otherworldly Gaze
 1 Lavinia, Azorius Renegade
@@ -194,7 +179,6 @@
 1 Riverglide Pathway
 1 Battlefield Forge
 1 Wild Cantor
-1 Hengegate Pathway
 1 Nature's Chant
 1 Heroic Reinforcements
 1 Pillar of the Paruns
@@ -236,5 +220,21 @@
 3 Figure of Destiny
 4 Rip Apart
 4 Sacred Foundry
-4 Sunbaked Canyon
 4 Figure of Destiny
+4 Sunbaked Canyon
+1 Reflector Mage
+1 Huntmaster of the Fells
+1 Birds of Paradise
+1 Winota, Joiner of Forces
+2 Reflector Mage
+2 Winota, Joiner of Forces
+2 Huntmaster of the Fells
+2 Birds of Paradise
+3 Reflector Mage
+3 Birds of Paradise
+3 Winota, Joiner of Forces
+4 Reflector Mage
+4 Neoform
+4 Seasoned Pyromancer
+4 Winota, Joiner of Forces
+4 Birds of Paradise

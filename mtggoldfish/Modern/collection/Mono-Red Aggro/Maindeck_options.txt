@@ -66,15 +66,15 @@
 2 Viashino Pyromancer
 2 Magus of the Moon
 2 Wizard's Lightning
-3 Seal of Fire
 3 Viashino Pyromancer
 3 Magus of the Moon
 3 Roiling Vortex
+3 Seal of Fire
 3 Wizard's Lightning
 4 Den of the Bugbear
-4 Seal of Fire
 4 Viashino Pyromancer
 4 Wizard's Lightning
+4 Seal of Fire
 3 Fiery Islet
 4 Fiery Islet
 3 Scalding Tarn
@@ -90,30 +90,30 @@
 4 Tarfire
 4 Roiling Vortex
 1 Blood Moon
-1 Burning-Tree Emissary
+1 Goblin Bushwhacker
+1 Legion Loyalist
 1 Goblin Grenade
 1 Foundry Street Denizen
-1 Goblin Bushwhacker
 1 Reckless Bushwhacker
-1 Legion Loyalist
-2 Burning-Tree Emissary
-2 Goblin Grenade
-2 Legion Loyalist
-2 Foundry Street Denizen
+1 Burning-Tree Emissary
 2 Goblin Bushwhacker
+2 Legion Loyalist
+2 Goblin Grenade
+2 Foundry Street Denizen
 2 Reckless Bushwhacker
+2 Burning-Tree Emissary
+3 Goblin Bushwhacker
+3 Legion Loyalist
 3 Burning-Tree Emissary
 3 Goblin Grenade
 3 Foundry Street Denizen
 3 Reckless Bushwhacker
-3 Goblin Bushwhacker
-3 Legion Loyalist
+4 Goblin Bushwhacker
+4 Legion Loyalist
 4 Burning-Tree Emissary
 4 Goblin Grenade
 4 Reckless Bushwhacker
-4 Goblin Bushwhacker
 4 Foundry Street Denizen
-4 Legion Loyalist
 13 Mountain
 14 Mountain
 1 Prismatic Vista
@@ -133,10 +133,10 @@
 4 Firebolt
 3 Wooded Foothills
 4 Wooded Foothills
-1 Battle Cry Goblin
 1 Devastating Summons
 1 Voldaren Epicure
 1 Mogg War Marshal
+1 Battle Cry Goblin
 2 Devastating Summons
 2 Voldaren Epicure
 2 Battle Cry Goblin
@@ -149,8 +149,8 @@
 3 Kumano Faces Kakkazan
 4 Scalding Tarn
 4 Kumano Faces Kakkazan
-1 Aria of Flame
 1 Runaway Steam-Kin
+1 Aria of Flame
 2 Runaway Steam-Kin
 4 Mutagenic Growth
 15 Mountain

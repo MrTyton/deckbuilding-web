@@ -5,11 +5,11 @@
 2 Cathar Commando
 1 Tundra
 1 Rustvale Bridge
-1 Den of the Bugbear
 1 Cut/Ribbons
-2 Den of the Bugbear
+1 Den of the Bugbear
 2 Rustvale Bridge
 2 Cut/Ribbons
+2 Den of the Bugbear
 3 Rustvale Bridge
 3 Cut/Ribbons
 4 Rustvale Bridge
@@ -64,22 +64,22 @@
 4 Mishra's Bauble
 2 Otawara, Soaring City
 4 Seat of the Synod
-1 Thoughtcast
-1 Thought Monitor
-1 Sai, Master Thopterist
 1 Ledger Shredder
+1 Thought Monitor
+1 Thoughtcast
+1 Sai, Master Thopterist
 1 Force of Negation
 1 Force of Will
 2 Island
+2 Ledger Shredder
+2 Sai, Master Thopterist
 2 Thoughtcast
 2 Thought Monitor
-2 Sai, Master Thopterist
-2 Ledger Shredder
 2 Force of Will
 3 Flooded Strand
-3 Thoughtcast
-3 Thought Monitor
 3 Ledger Shredder
+3 Thought Monitor
+3 Thoughtcast
 3 Force of Will
 4 Flooded Strand
 4 Thoughtcast
@@ -113,8 +113,8 @@
 1 March of Otherworldly Light
 2 Plains
 2 March of Otherworldly Light
-3 Plains
 3 March of Otherworldly Light
+3 Plains
 4 March of Otherworldly Light
 4 Plains
 4 Teferi, Time Raveler

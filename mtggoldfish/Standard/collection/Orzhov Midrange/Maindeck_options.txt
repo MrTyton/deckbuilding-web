@@ -1,15 +1,19 @@
-1 Hagra Mauling
-2 Rampage of the Valkyries
 5 Swamp
 2 The Wandering Emperor
-1 The Meathook Massacre
 7 Plains
+3 Liesa, Forgotten Archangel
+2 Elspeth Resplendent
+1 Hagra Mauling
+1 The Meathook Massacre
 2 Hagra Mauling
 2 The Meathook Massacre
 2 Infernal Grasp
+1 Haunting Voyage
 1 Shineshadow Snarl
 2 Shineshadow Snarl
-3 Liesa, Forgotten Archangel
+3 Emeria's Call
+4 Emeria's Call
+4 Vanishing Verse
 1 Reidane, God of the Worthy
 1 Wedding Announcement
 2 Wedding Announcement
@@ -19,31 +23,29 @@
 2 Reidane, God of the Worthy
 1 Lolth, Spider Queen
 4 Wedding Announcement
-1 Field of Ruin
-1 Haunting Voyage
-2 Lolth, Spider Queen
 1 The Restoration of Eiganjo
-2 The Restoration of Eiganjo
-1 Renegade Reaper
-2 Renegade Reaper
-3 Renegade Reaper
+1 Field of Ruin
 2 Cave of the Frost Dragon
-2 Henrika Domnathi
-2 Eiganjo, Seat of the Empire
-3 Emeria's Call
-4 Emeria's Call
-4 Vanishing Verse
-8 Plains
-3 Reidane, God of the Worthy
-1 Reckoner Bankbuster
 2 Haunting Voyage
 1 Angel of Destiny
-6 Swamp
+2 The Restoration of Eiganjo
+2 Lolth, Spider Queen
+2 Eiganjo, Seat of the Empire
+8 Plains
 2 Angel of Destiny
 1 Fateful Absence
 2 Fateful Absence
+3 Reidane, God of the Worthy
+2 Henrika Domnathi
+1 Boon of Safety
+2 Boon of Safety
+3 Boon of Safety
+1 Renegade Reaper
+2 Renegade Reaper
+3 Renegade Reaper
 1 Sorin the Mirthless
 1 Edgar, Charmed Groom
+1 Reckoner Bankbuster
 9 Plains
 10 Plains
 1 Duress
@@ -52,18 +54,12 @@
 3 Silverquill Silencer
 1 Valkyrie Harbinger
 1 Starnheim Unleashed
-1 Boon of Safety
-2 Boon of Safety
-3 Boon of Safety
+6 Swamp
 3 Rampage of the Valkyries
 1 Power Word Kill
 2 Power Word Kill
 2 Reckoner Bankbuster
 1 Sanctuary Warden
-1 Graveyard Trespasser
-2 Graveyard Trespasser
-1 Path of Peril
-3 Hive of the Eye Tyrant
 2 Starnheim Unleashed
 2 Duress
 4 Silverquill Silencer
@@ -73,9 +69,11 @@
 2 Bloodchief's Thirst
 3 Lolth, Spider Queen
 3 The Wandering Emperor
-3 Graveyard Trespasser
+1 Graveyard Trespasser
+2 Graveyard Trespasser
 1 Tenacious Underdog
-2 Path of Peril
+1 Path of Peril
+3 Hive of the Eye Tyrant
 1 Doomskar
 2 Doomskar
 3 Doomskar
@@ -87,13 +85,11 @@
 2 Cleric Class
 2 Valkyrie Harbinger
 7 Swamp
-1 Elite Spellbinder
-2 Elite Spellbinder
-3 Elite Spellbinder
 3 Shineshadow Snarl
 4 Shineshadow Snarl
-1 Humiliate
-2 Humiliate
+1 Raffine's Tower
+1 Soul Shatter
+3 The Restoration of Eiganjo
 1 Kaya the Inexorable
 1 Vengeful Reaper
 1 The Long Reach of Night
@@ -105,15 +101,19 @@
 2 The Long Reach of Night
 2 Valkyrie's Sword
 3 Field of Ruin
-1 Raffine's Tower
-1 Soul Shatter
-3 The Restoration of Eiganjo
+1 Angel of Suffering
+2 Angel of Suffering
+3 Elspeth Resplendent
+3 Haunting Voyage
+4 Elspeth Resplendent
 1 Nadaar, Selfless Paladin
 2 Tenacious Underdog
 2 Nadaar, Selfless Paladin
+2 Path of Peril
 3 Henrika Domnathi
 3 Nadaar, Selfless Paladin
 4 Hive of the Eye Tyrant
+3 Graveyard Trespasser
 4 Graveyard Trespasser
 1 Borrowed Time
 1 Great Hall of Starnheim
@@ -144,34 +144,32 @@
 4 Extraction Specialist
 1 Sungold Sentinel
 1 Paladin Class
-1 Skyclave Apparition
 1 Sejiri Shelter
 1 Brutal Cathar
-1 Thalia, Guardian of Thraben
 1 Portable Hole
+1 Thalia, Guardian of Thraben
+1 Skyclave Apparition
+1 Elite Spellbinder
 1 Adeline, Resplendent Cathar
 1 Hopeful Initiate
 2 Paladin Class
 2 Sungold Sentinel
-2 Skyclave Apparition
 2 Brutal Cathar
 2 Thalia, Guardian of Thraben
 2 Portable Hole
+2 Elite Spellbinder
 2 Adeline, Resplendent Cathar
+2 Skyclave Apparition
 2 Hopeful Initiate
 3 Thalia, Guardian of Thraben
 3 Hopeful Initiate
+3 Elite Spellbinder
 4 Thalia, Guardian of Thraben
 4 Hopeful Initiate
 4 Elite Spellbinder
-1 Angel of Suffering
-2 Angel of Suffering
-3 Elspeth Resplendent
-3 Haunting Voyage
-4 Elspeth Resplendent
+1 Sparring Regimen
 1 Sigardian Savior
 1 Expel
-1 Sparring Regimen
 1 The Book of Exalted Deeds
 1 Eradicator Valkyrie
 2 Expel

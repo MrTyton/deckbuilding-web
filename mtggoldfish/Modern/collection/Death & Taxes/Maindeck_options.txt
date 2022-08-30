@@ -86,27 +86,27 @@
 2 Windswept Heath
 15 Plains
 1 Felidar Guardian
-1 Mountain
-1 Kiki-Jiki, Mirror Breaker
 1 Shatterskull Smashing
+1 Kiki-Jiki, Mirror Breaker
+1 Mountain
 3 Tectonic Edge
 4 Tectonic Edge
 2 Lion Sash
 3 Cavern of Souls
-1 Shambling Vent
+1 Swamp
 1 Concealed Courtyard
 1 Relic of Progenitus
 1 Tidehollow Sculler
 1 Thought-Knot Seer
 1 Vault of the Archangel
-1 Swamp
 1 Caves of Koilos
+1 Shambling Vent
 1 Reality Smasher
 1 Eldrazi Displacer
 1 Eldrazi Temple
 1 Wasteland Strangler
-2 Concealed Courtyard
 2 Relic of Progenitus
+2 Concealed Courtyard
 2 Tidehollow Sculler
 2 Reality Smasher
 2 Caves of Koilos
@@ -161,41 +161,41 @@
 1 Expedition Map
 2 Touch the Spirit Realm
 3 Fable of the Mirror-Breaker
-1 Lavinia, Azorius Renegade
-1 Teferi, Time Raveler
-1 Island
-1 Flooded Strand
-1 Steam Vents
-1 Hallowed Fountain
-1 Scalding Tarn
-1 Otawara, Soaring City
-1 Sokenzan, Crucible of Defiance
-1 Raugrin Triome
-2 Scalding Tarn
-2 Teferi, Time Raveler
-2 Flooded Strand
-3 Flooded Strand
-3 Teferi, Time Raveler
-4 Prismatic Ending
-1 Ragavan, Nimble Pilferer
-1 Fury
-1 Prismatic Vista
-2 Prismatic Vista
-2 Ragavan, Nimble Pilferer
-2 Magus of the Moon
-3 Ragavan, Nimble Pilferer
-3 Prismatic Vista
-3 Magus of the Moon
-3 Sunbaked Canyon
-4 Ragavan, Nimble Pilferer
-4 Prismatic Vista
-4 Sacred Foundry
 1 Giant Killer
 1 Ranger-Captain of Eos
 2 Ranger-Captain of Eos
 3 Ranger-Captain of Eos
 4 Ranger-Captain of Eos
 4 Emeria's Call
+1 Flooded Strand
+1 Island
+1 Lavinia, Azorius Renegade
+1 Teferi, Time Raveler
+1 Steam Vents
+1 Hallowed Fountain
+1 Scalding Tarn
+1 Otawara, Soaring City
+1 Sokenzan, Crucible of Defiance
+1 Raugrin Triome
+2 Flooded Strand
+2 Teferi, Time Raveler
+2 Scalding Tarn
+3 Flooded Strand
+3 Teferi, Time Raveler
+4 Prismatic Ending
+1 Fury
+1 Prismatic Vista
+1 Ragavan, Nimble Pilferer
+2 Prismatic Vista
+2 Magus of the Moon
+2 Ragavan, Nimble Pilferer
+3 Sunbaked Canyon
+3 Prismatic Vista
+3 Magus of the Moon
+3 Ragavan, Nimble Pilferer
+4 Prismatic Vista
+4 Sacred Foundry
+4 Ragavan, Nimble Pilferer
 1 Hex Parasite
 13 Snow-Covered Plains
 14 Snow-Covered Plains
@@ -207,6 +207,7 @@
 3 Blade Splicer
 4 Blade Splicer
 1 Brimaz, King of Oreskos
+1 Dryad Militant
 1 Selfless Spirit
 1 Oblivion Ring
 1 Harm's Way
@@ -214,20 +215,19 @@
 1 Kytheon, Hero of Akros
 1 Isamaru, Hound of Konda
 1 Banisher Priest
-1 Dryad Militant
 1 Brave the Elements
 1 Militia Bugler
 1 Gideon, Ally of Zendikar
 1 Force of Virtue
 1 Soldier of the Pantheon
+2 Dryad Militant
 2 Mana Tithe
 2 Brave the Elements
 2 Soldier of the Pantheon
 2 Force of Virtue
-2 Dryad Militant
+3 Dryad Militant
 3 Mana Tithe
 3 Force of Virtue
-3 Dryad Militant
 4 Dryad Militant
 4 Mana Tithe
 4 Force of Virtue
