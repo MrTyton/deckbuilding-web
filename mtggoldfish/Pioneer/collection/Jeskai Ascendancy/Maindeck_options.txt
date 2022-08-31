@@ -1,11 +1,10 @@
 4 Treasure Cruise
+2 Steam Vents
+2 Glacial Fortress
 4 Ketria Triome
-1 Strategic Planning
-2 Strategic Planning
 2 Hengegate Pathway
 1 Rootbound Crag
 2 Hinterland Harbor
-4 Sylvan Awakening
 3 Chained to the Rocks
 1 Jetmir's Garden
 3 Botanical Sanctum
@@ -14,6 +13,7 @@
 4 Stomping Ground
 3 Hengegate Pathway
 3 Hinterland Harbor
+4 Sylvan Awakening
 2 Jetmir's Garden
 3 Jetmir's Garden
 4 Botanical Sanctum
@@ -23,24 +23,26 @@
 2 Unbridled Growth
 3 Unbridled Growth
 4 Unbridled Growth
-2 Temple Garden
-2 Paradise Druid
-1 Narset, Parter of Veils
-1 Sulfur Falls
-4 Hengegate Pathway
-1 Silence
 4 Dig Through Time
+2 Paradise Druid
 3 Strategic Planning
 4 Strategic Planning
+4 Hengegate Pathway
+1 Silence
+1 Sulfur Falls
+2 Temple Garden
 1 Commune with the Gods
 2 Commune with the Gods
-1 March of Otherworldly Light
+1 Narset, Parter of Veils
+1 Spara's Headquarters
+2 Breeding Pool
 1 Otherworldly Gaze
 1 Rip Apart
 3 Commune with the Gods
 1 Spell Pierce
-1 Spara's Headquarters
-2 Breeding Pool
+1 March of Otherworldly Light
+2 Spara's Headquarters
+3 Glacial Fortress
 4 Portable Hole
 1 Retraction Helix
 2 Retraction Helix
@@ -70,27 +72,12 @@
 4 Emry, Lurker of the Loch
 4 Terrarion
 2 Fiery Impulse
-3 Glacial Fortress
-4 Steam Vents
-1 Tormod's Crypt
-4 Ledger Shredder
-2 Spara's Headquarters
-2 Spell Pierce
-1 Snow-Covered Island
-4 Mox Amber
-1 Dreamroot Cascade
-2 Dreamroot Cascade
-2 Strangle
-3 Retraction Helix
 1 Escape to the Wilds
 3 Sacred Foundry
 4 Sacred Foundry
-3 Spell Pierce
-1 Growth Spiral
-2 Growth Spiral
-1 Glass Casket
-1 The Reality Chip
-3 Inspiring Vantage
+4 Steam Vents
+1 Tormod's Crypt
+4 Ledger Shredder
 1 Tamiyo, Collector of Tales
 1 Boseiju, Who Endures
 2 Sulfur Falls
@@ -100,6 +87,20 @@
 3 Fiery Impulse
 4 Spara's Headquarters
 4 Fiery Impulse
+2 Spell Pierce
+1 Dreamroot Cascade
+2 Dreamroot Cascade
+1 Snow-Covered Island
+4 Mox Amber
+2 Strangle
+3 Retraction Helix
+1 Galvanic Iteration
+3 Spell Pierce
+1 Growth Spiral
+2 Growth Spiral
+1 Glass Casket
+1 The Reality Chip
+3 Inspiring Vantage
 1 Idyllic Tutor
 2 Otherworldly Gaze
 3 Otherworldly Gaze
@@ -116,8 +117,6 @@
 1 Change of Fortune
 1 Negate
 1 Monastery Mentor
-1 Galvanic Iteration
-2 Narset, Parter of Veils
 2 Glass Casket
 1 Plains
 2 Idyllic Tutor
