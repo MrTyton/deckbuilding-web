@@ -63,7 +63,6 @@
 1 Oswald Fiddlebender
 1 Ancient Den
 1 Eiganjo Castle
-2 Esper Sentinel
 2 Plains
 2 Ethersworn Canonist
 2 Oswald Fiddlebender
@@ -73,22 +72,23 @@
 2 Ingenious Smith
 2 Ancient Den
 2 Portable Hole
+2 Esper Sentinel
 2 Mother of Runes
 3 Ingenious Smith
-3 Esper Sentinel
 3 Plains
+3 Esper Sentinel
 3 Ethersworn Canonist
 3 Ancient Den
 3 Mother of Runes
 3 Wasteland
 3 Aether Vial
 3 Oswald Fiddlebender
-4 Esper Sentinel
 4 Plains
 4 Ingenious Smith
 4 Wasteland
 4 Ancient Den
 4 Oswald Fiddlebender
+4 Esper Sentinel
 5 Plains
 6 Plains
 7 Plains
@@ -210,12 +210,12 @@
 1 Thought Monitor
 1 Seat of the Synod
 1 Mishra's Bauble
-2 Otawara, Soaring City
 2 Urza's Bauble
 2 Seat of the Synod
 2 Thought Monitor
 2 Thoughtcast
 2 Mox Opal
+2 Otawara, Soaring City
 2 Emry, Lurker of the Loch
 2 Mishra's Bauble
 2 Sai, Master Thopterist

@@ -1,13 +1,14 @@
-1 Jace, the Mind Sculptor
-1 Fire/Ice
 1 Persist
+1 Jace, the Mind Sculptor
 2 Fire/Ice
+4 Explore
 4 Bloodstained Mire
-2 Transmogrify
 4 Wooded Foothills
-1 Snow-Covered Mountain
+2 Transmogrify
 4 Arid Mesa
+1 Snow-Covered Mountain
 2 Persist
+2 Blood Crypt
 1 Raugrin Triome
 1 Teferi, Time Raveler
 1 Remand
@@ -21,7 +22,6 @@
 1 Expressive Iteration
 3 Steam Vents
 1 Xander's Lounge
-2 Blood Crypt
 2 Expressive Iteration
 3 Expressive Iteration
 1 Thoughtseize
@@ -30,16 +30,18 @@
 2 Tainted Indulgence
 3 Persist
 4 Persist
-2 Stomping Ground
+3 Fire/Ice
 1 Fatal Push
 2 Fatal Push
 1 Savai Triome
 3 Tainted Indulgence
-4 Prismari Command
 4 Tainted Indulgence
-1 Unmarked Grave
 3 Thoughtseize
 4 Thoughtseize
+2 Stomping Ground
+1 Island
+4 Prismari Command
+1 Unmarked Grave
 1 Prismatic Ending
 2 Prismatic Ending
 3 Prismatic Ending
@@ -51,13 +53,15 @@
 2 Unholy Heat
 3 Unholy Heat
 4 Steam Vents
+4 Spell Pierce
+4 Fire/Ice
+1 Swamp
+3 Fatal Push
 4 Remand
-1 Island
-3 Fire/Ice
 3 Blood Crypt
 2 Unmarked Grave
-1 Izzet Charm
 1 Cling to Dust
+1 Izzet Charm
 1 Shark Typhoon
 1 Sheltered Thicket
 2 Jace, the Mind Sculptor
@@ -65,10 +69,6 @@
 2 Inquisition of Kozilek
 1 Veil of Summer
 2 Veil of Summer
-1 Swamp
-3 Fatal Push
-4 Fire/Ice
-4 Spell Pierce
 1 Lightning Blast
 2 Lightning Blast
 3 Lightning Blast

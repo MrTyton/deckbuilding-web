@@ -1,18 +1,20 @@
 3 Thoughtseize
-4 Thoughtseize
 1 Chancellor of the Annex
-1 Iona, Shield of Emeria
+4 Thoughtseize
 1 Underground Sea
-3 Swamp
+1 Iona, Shield of Emeria
 1 Snow-Covered Swamp
+3 Swamp
 3 Polluted Delta
 4 Archon of Cruelty
 3 Verdant Catacombs
+3 Bloodstained Mire
 4 Polluted Delta
 1 Grave Titan
-3 Bloodstained Mire
 1 Children of Korlis
 1 Cabal Therapy
+1 Ashen Rider
+2 Grave Titan
 4 Swamp
 5 Swamp
 6 Swamp
@@ -20,8 +22,6 @@
 8 Swamp
 9 Swamp
 10 Swamp
-1 Ashen Rider
-2 Grave Titan
 11 Swamp
 12 Swamp
 13 Swamp
@@ -29,19 +29,6 @@
 3 Marsh Flats
 2 Chancellor of the Annex
 1 Sire of Insanity
-1 Worldgorger Dragon
-1 Dance of the Dead
-1 Stitcher's Supplier
-1 Oona, Queen of the Fae
-2 Cabal Therapy
-2 Stitcher's Supplier
-2 Dance of the Dead
-3 Cabal Therapy
-3 Dance of the Dead
-3 Stitcher's Supplier
-4 Dance of the Dead
-4 Stitcher's Supplier
-4 Cabal Therapy
 1 Collective Brutality
 1 Lake of the Dead
 2 Collective Brutality
@@ -53,10 +40,8 @@
 16 Swamp
 1 Bayou
 4 Verdant Catacombs
-1 Abdel Adrian, Gorion's Ward
-2 Abdel Adrian, Gorion's Ward
-1 Tendrils of Agony
 1 Chrome Mox
+1 Tendrils of Agony
 2 Chrome Mox
 2 Sire of Insanity
 4 Bloodstained Mire
@@ -73,9 +58,18 @@
 3 Hymn to Tourach
 4 Hymn to Tourach
 4 Collective Brutality
-1 Piranha Marsh
-2 Worldgorger Dragon
-2 Piranha Marsh
-3 Worldgorger Dragon
-3 Piranha Marsh
-4 Piranha Marsh
+1 Worldgorger Dragon
+1 Dance of the Dead
+1 Stitcher's Supplier
+1 Oona, Queen of the Fae
+1 Abdel Adrian, Gorion's Ward
+2 Cabal Therapy
+2 Stitcher's Supplier
+2 Abdel Adrian, Gorion's Ward
+2 Dance of the Dead
+3 Dance of the Dead
+3 Cabal Therapy
+3 Stitcher's Supplier
+4 Dance of the Dead
+4 Stitcher's Supplier
+4 Cabal Therapy
