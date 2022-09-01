@@ -17,12 +17,11 @@
 
 # Historic
 
-|                                 A                                  |                                  B                                   |                               C                                |                                 D                                  |
-|--------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------|
-|[Azorius Affinity](./mtggoldfish/Historic/decks/Azorius_Affinity.md)|[Elves](./mtggoldfish/Historic/decks/Elves.md)                        |[Jund Tempo](./mtggoldfish/Historic/decks/Jund_Tempo.md)        |[Rakdos Goblins](./mtggoldfish/Historic/decks/Rakdos_Goblins.md)    |
-|[Azorius Auras](./mtggoldfish/Historic/decks/Azorius_Auras.md)      |[Five-color Golos](./mtggoldfish/Historic/decks/Five-color_Golos.md)  |[Mono-Red Aggro](./mtggoldfish/Historic/decks/Mono-Red_Aggro.md)|[Rakdos Midrange](./mtggoldfish/Historic/decks/Rakdos_Midrange.md)  |
-|[Azorius Control](./mtggoldfish/Historic/decks/Azorius_Control.md)  |[Five-color Humans](./mtggoldfish/Historic/decks/Five-color_Humans.md)|[Rakdos Arcanis](./mtggoldfish/Historic/decks/Rakdos_Arcanis.md)|[Selesnya Company](./mtggoldfish/Historic/decks/Selesnya_Company.md)|
-|[Azorius Yorion](./mtggoldfish/Historic/decks/Azorius_Yorion.md)    |[Golgari Aggro](./mtggoldfish/Historic/decks/Golgari_Aggro.md)        |[Rakdos Control](./mtggoldfish/Historic/decks/Rakdos_Control.md)|[Temur Combo](./mtggoldfish/Historic/decks/Temur_Combo.md)          |
+|                                 A                                  |                                  B                                   |                               C                                |                               D                                |                                 E                                  |
+|--------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------|
+|[Azorius Affinity](./mtggoldfish/Historic/decks/Azorius_Affinity.md)|[Azorius Yorion](./mtggoldfish/Historic/decks/Azorius_Yorion.md)      |[Golgari Aggro](./mtggoldfish/Historic/decks/Golgari_Aggro.md)  |[Rakdos Arcanis](./mtggoldfish/Historic/decks/Rakdos_Arcanis.md)|[Rakdos Midrange](./mtggoldfish/Historic/decks/Rakdos_Midrange.md)  |
+|[Azorius Auras](./mtggoldfish/Historic/decks/Azorius_Auras.md)      |[Elves](./mtggoldfish/Historic/decks/Elves.md)                        |[Jund Tempo](./mtggoldfish/Historic/decks/Jund_Tempo.md)        |[Rakdos Control](./mtggoldfish/Historic/decks/Rakdos_Control.md)|[Selesnya Company](./mtggoldfish/Historic/decks/Selesnya_Company.md)|
+|[Azorius Control](./mtggoldfish/Historic/decks/Azorius_Control.md)  |[Five-color Humans](./mtggoldfish/Historic/decks/Five-color_Humans.md)|[Mono-Red Aggro](./mtggoldfish/Historic/decks/Mono-Red_Aggro.md)|[Rakdos Goblins](./mtggoldfish/Historic/decks/Rakdos_Goblins.md)|[Temur Combo](./mtggoldfish/Historic/decks/Temur_Combo.md)          |
 
 
 # Pioneer
@@ -38,7 +37,7 @@
 |[Abzan Greasefang](./mtggoldfish/Pioneer/decks/Abzan_Greasefang.md)          |[Dimir Thing in the Ice](./mtggoldfish/Pioneer/decks/Dimir_Thing_in_the_Ice.md)|[Izzet Pyromancer](./mtggoldfish/Pioneer/decks/Izzet_Pyromancer.md)            |[Mono-Blue Spirits](./mtggoldfish/Pioneer/decks/Mono-Blue_Spirits.md)    |[Rakdos Sacrifice](./mtggoldfish/Pioneer/decks/Rakdos_Sacrifice.md)                      |
 |[Artifact Aggro](./mtggoldfish/Pioneer/decks/Artifact_Aggro.md)              |[Esper Control](./mtggoldfish/Pioneer/decks/Esper_Control.md)                  |[Izzet Thing in the Ice](./mtggoldfish/Pioneer/decks/Izzet_Thing_in_the_Ice.md)|[Mono-Green Ramp](./mtggoldfish/Pioneer/decks/Mono-Green_Ramp.md)        |[Selesnya Angels](./mtggoldfish/Pioneer/decks/Selesnya_Angels.md)                        |
 |[Azorius Control](./mtggoldfish/Pioneer/decks/Azorius_Control.md)            |[Esper Greasefang](./mtggoldfish/Pioneer/decks/Esper_Greasefang.md)            |[Jeskai Ascendancy](./mtggoldfish/Pioneer/decks/Jeskai_Ascendancy.md)          |[Mono-Green Stompy](./mtggoldfish/Pioneer/decks/Mono-Green_Stompy.md)    |[Selesnya Auras](./mtggoldfish/Pioneer/decks/Selesnya_Auras.md)                          |
-|[Azorius Spirits](./mtggoldfish/Pioneer/decks/Azorius_Spirits.md)            |[Golgari Midrange](./mtggoldfish/Pioneer/decks/Golgari_Midrange.md)            |[Jund Midrange](./mtggoldfish/Pioneer/decks/Jund_Midrange.md)                  |[Mono-Red Aggro](./mtggoldfish/Pioneer/decks/Mono-Red_Aggro.md)          |[Selesnya Ramp](./mtggoldfish/Pioneer/decks/Selesnya_Ramp.md)                            |
+|[Azorius Spirits](./mtggoldfish/Pioneer/decks/Azorius_Spirits.md)            |[Golgari Midrange](./mtggoldfish/Pioneer/decks/Golgari_Midrange.md)            |[Jund Midrange](./mtggoldfish/Pioneer/decks/Jund_Midrange.md)                  |[Mono-Red Aggro](./mtggoldfish/Pioneer/decks/Mono-Red_Aggro.md)          |                                                                                         |
 
 
 # Modern
@@ -75,4 +74,4 @@
 
 
 
-#### Last Updated at 12:34PM on August 31, 2022
+#### Last Updated at 12:33AM on September 01, 2022
