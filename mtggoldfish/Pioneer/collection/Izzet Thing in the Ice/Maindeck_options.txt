@@ -1,11 +1,11 @@
 1 Spell Pierce
 1 Negate
+2 Dig Through Time
+3 Dig Through Time
 3 Flame-Blessed Bolt
 1 Ledger Shredder
 2 Ledger Shredder
 1 Thundering Rebuke
-2 Dig Through Time
-3 Dig Through Time
 2 Brazen Borrower
 1 Jwari Disruption
 2 Jwari Disruption
@@ -15,20 +15,19 @@
 4 Stormcarved Coast
 4 Treasure Cruise
 1 Quicken
-2 Quicken
 3 Ledger Shredder
 3 Crackling Drake
 4 Crackling Drake
 3 Day's Undoing
-2 Collective Defiance
+2 Quicken
 1 Chart a Course
 1 Anticipate
 2 Anticipate
 3 Anticipate
 4 Flame-Blessed Bolt
 1 Blitz of the Thunder-Raptor
-3 Quicken
 2 Spell Pierce
+2 Collective Defiance
 3 Collective Defiance
 1 Hullbreaker Horror
 2 Hullbreaker Horror
@@ -43,6 +42,8 @@
 3 Hullbreaker Horror
 4 Anticipate
 4 Big Score
+3 Quicken
+1 Prismari Command
 2 Negate
 1 Temporal Trespass
 1 Ral, Izzet Viceroy
@@ -56,7 +57,6 @@
 4 Ledger Shredder
 4 Quicken
 1 Castle Vantress
-1 Prismari Command
 1 Kazuul's Fury
 1 Lava Coil
 2 Lava Coil
@@ -72,6 +72,9 @@
 2 Silundi Vision
 1 Chandra, Awakened Inferno
 2 Chandra, Awakened Inferno
+1 Impulse
+2 Impulse
+3 Impulse
 2 Prismari Command
 3 Prismari Command
 1 Reckless Impulse
