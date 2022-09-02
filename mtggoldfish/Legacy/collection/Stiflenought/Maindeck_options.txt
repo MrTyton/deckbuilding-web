@@ -113,13 +113,13 @@
 4 Underground Sea
 4 Baleful Strix
 1 Ledger Shredder
-1 Consider
 1 Sailors' Bane
+1 Consider
 1 Otawara, Soaring City
+2 Breeding Pool
 2 Ledger Shredder
 2 Sailors' Bane
 2 Consider
-2 Breeding Pool
 3 Ledger Shredder
 3 Breeding Pool
 3 Consider
@@ -127,6 +127,15 @@
 4 Breeding Pool
 4 Ledger Shredder
 4 Consider
+1 Misdirection
+1 You See a Guard Approach
+1 Preordain
+2 Preordain
+2 You See a Guard Approach
+4 Murktide Regent
+4 Island
+5 Island
+6 Island
 1 Not of This World
 1 Oblivion Ring
 1 Plains
@@ -154,12 +163,3 @@
 3 Force of Negation
 4 Enlightened Tutor
 4 Prismatic Vista
-1 Misdirection
-1 You See a Guard Approach
-1 Preordain
-2 You See a Guard Approach
-2 Preordain
-4 Murktide Regent
-4 Island
-5 Island
-6 Island

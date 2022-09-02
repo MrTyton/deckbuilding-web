@@ -47,13 +47,12 @@
 4 City of Traitors
 2 Bloodstained Mire
 2 Wooded Foothills
-1 Karakas
 1 Wasteland
+1 Karakas
 1 Crucible of Worlds
 1 Retrofitter Foundry
 1 Esper Sentinel
 1 Portable Hole
-1 Plains
 1 Hope of Ghirapur
 1 Mother of Runes
 1 Lion Sash
@@ -62,8 +61,8 @@
 1 Ingenious Smith
 1 Oswald Fiddlebender
 1 Ancient Den
+1 Plains
 1 Eiganjo Castle
-2 Plains
 2 Ethersworn Canonist
 2 Oswald Fiddlebender
 2 Aether Vial
@@ -74,6 +73,7 @@
 2 Portable Hole
 2 Esper Sentinel
 2 Mother of Runes
+2 Plains
 3 Ingenious Smith
 3 Plains
 3 Esper Sentinel
@@ -103,21 +103,20 @@
 2 Punishing Fire
 3 Grove of the Burnwillows
 1 Shadowspear
-1 Crop Rotation
 1 Yavimaya, Cradle of Growth
 1 Boseiju, Who Endures
 1 Sylvan Library
 1 Sejiri Steppe
 1 Thespian's Stage
+1 Crop Rotation
 1 Dark Depths
-1 Bojuka Bog
-1 Forest
 1 Mox Diamond
 1 Elvish Reclaimer
 1 Exploration
+1 Bojuka Bog
 1 Expedition Map
+1 Forest
 2 Mox Diamond
-2 Forest
 2 Sylvan Library
 2 Crop Rotation
 2 Yavimaya, Cradle of Growth
@@ -125,6 +124,7 @@
 2 Dark Depths
 2 Elvish Reclaimer
 2 Exploration
+2 Forest
 3 Crop Rotation
 3 Sylvan Library
 3 Mox Diamond
@@ -150,8 +150,8 @@
 1 Sundering Titan
 1 Daretti, Scrap Savant
 2 Daretti, Scrap Savant
-1 Snow-Covered Forest
 1 Field of the Dead
+1 Snow-Covered Forest
 1 Waterlogged Grove
 1 Glacial Chasm
 2 Crucible of Worlds
@@ -210,12 +210,12 @@
 1 Thought Monitor
 1 Seat of the Synod
 1 Mishra's Bauble
+2 Otawara, Soaring City
 2 Urza's Bauble
 2 Seat of the Synod
 2 Thought Monitor
 2 Thoughtcast
 2 Mox Opal
-2 Otawara, Soaring City
 2 Emry, Lurker of the Loch
 2 Mishra's Bauble
 2 Sai, Master Thopterist
@@ -233,15 +233,6 @@
 4 Seat of the Synod
 4 Thought Monitor
 4 Thoughtcast
-1 The Underworld Cookbook
-1 Cursed Mirror
-1 Triplicate Titan
-9 Snow-Covered Mountain
-10 Snow-Covered Mountain
-11 Snow-Covered Mountain
-12 Snow-Covered Mountain
-13 Snow-Covered Mountain
-14 Snow-Covered Mountain
 1 Expressive Iteration
 1 Swords to Plowshares
 1 Force of Negation
@@ -276,3 +267,12 @@
 4 Ponder
 4 Scalding Tarn
 4 Flooded Strand
+1 The Underworld Cookbook
+1 Cursed Mirror
+1 Triplicate Titan
+9 Snow-Covered Mountain
+10 Snow-Covered Mountain
+11 Snow-Covered Mountain
+12 Snow-Covered Mountain
+13 Snow-Covered Mountain
+14 Snow-Covered Mountain

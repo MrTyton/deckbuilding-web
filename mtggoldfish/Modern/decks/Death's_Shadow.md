@@ -167,7 +167,7 @@
 |                    2|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)          |                     |                                                                                                |
 |                    3|[Malakir Rebirth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491747)          |                     |                                                                                                |
 |                    3|[Riveteers Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555418)          |                     |                                                                                                |
-|                    4|[Riveteers Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555418)          |                     |                                                                                                |
 |                    4|[Malakir Rebirth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491747)          |                     |                                                                                                |
 |                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)         |                     |                                                                                                |
+|                    4|[Riveteers Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555418)          |                     |                                                                                                |
 

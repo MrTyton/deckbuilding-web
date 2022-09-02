@@ -84,8 +84,8 @@
 1 Aether Vial
 1 Shatterskull Smashing
 1 Restoration Angel
-2 Shatterskull Smashing
 2 Aether Vial
+2 Shatterskull Smashing
 2 Restoration Angel
 3 Sunbaked Canyon
 3 Giver of Runes
@@ -111,15 +111,15 @@
 4 Showdown of the Skalds
 2 The Wandering Emperor
 4 Blood Moon
-1 Valakut Awakening
 1 Emrakul, the Aeons Torn
 1 Nahiri, the Harbinger
 1 Golos, Tireless Pilgrim
 1 Blood Sun
+1 Valakut Awakening
 1 Lotus Field
-2 Valakut Awakening
 2 Golos, Tireless Pilgrim
 2 Nahiri, the Harbinger
+2 Valakut Awakening
 2 Blood Sun
 2 Lotus Field
 3 Valakut Awakening
@@ -150,14 +150,14 @@
 2 Snow-Covered Mountain
 1 Felidar Guardian
 4 Restoration Angel
-1 Touch the Spirit Realm
 1 Boros Charm
 1 Giant Killer
 1 Sword of Light and Shadow
 1 Boros Garrison
+1 Touch the Spirit Realm
 1 Lightning Helix
-2 Eiganjo, Seat of the Empire
 2 Skyclave Apparition
+2 Eiganjo, Seat of the Empire
 1 Darksteel Citadel
 2 Darksteel Citadel
 3 Darksteel Citadel
@@ -188,9 +188,6 @@
 4 Crack the Earth
 4 Dragon's Rage Channeler
 4 Chromatic Star
-3 Flooded Strand
-4 Prismatic Ending
-5 Snow-Covered Plains
 1 Justice Strike
 1 Stone Rain
 1 Pillage
@@ -199,3 +196,6 @@
 3 Snow-Covered Mountain
 3 Pillage
 4 Pillage
+3 Flooded Strand
+4 Prismatic Ending
+5 Snow-Covered Plains
