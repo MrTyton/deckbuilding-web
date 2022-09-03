@@ -13,8 +13,8 @@
 2 Dark Ritual
 3 Dark Ritual
 4 Dark Ritual
-1 Cabal Therapy
 1 Thassa's Oracle
+1 Cabal Therapy
 1 Balustrade Spy
 1 Narcomoeba
 1 Agadeem's Awakening
@@ -73,34 +73,13 @@
 2 Dread Return
 1 Street Wraith
 1 Pyroblast
-2 Taiga
 2 Pyroblast
+2 Taiga
 2 Street Wraith
 3 Street Wraith
 3 Pyroblast
 4 Street Wraith
 4 Cabal Therapy
-1 Force of Will
-1 Preordain
-1 Brainstorm
-1 Sea Gate Restoration
-1 Ponder
-1 Jwari Disruption
-1 Pelakka Predation
-2 Preordain
-2 Brainstorm
-2 Force of Will
-2 Sea Gate Restoration
-2 Ponder
-3 Brainstorm
-3 Force of Will
-3 Sea Gate Restoration
-3 Ponder
-4 Force of Will
-4 Brainstorm
-4 Thoughtseize
-4 Sea Gate Restoration
-4 Ponder
 1 Grim Monolith
 1 Serum Powder
 2 Serum Powder
@@ -112,6 +91,27 @@
 4 Grim Monolith
 4 Serum Powder
 4 Pyretic Ritual
+1 Sea Gate Restoration
+1 Preordain
+1 Brainstorm
+1 Ponder
+1 Jwari Disruption
+1 Pelakka Predation
+1 Force of Will
+2 Sea Gate Restoration
+2 Ponder
+2 Preordain
+2 Brainstorm
+2 Force of Will
+3 Sea Gate Restoration
+3 Force of Will
+3 Brainstorm
+3 Ponder
+4 Thoughtseize
+4 Sea Gate Restoration
+4 Ponder
+4 Force of Will
+4 Brainstorm
 1 Infernal Tutor
 1 Ill-Gotten Gains
 1 Dryad Arbor
@@ -138,20 +138,20 @@
 4 Culling the Weak
 4 Infernal Contract
 1 Banishing Light
-1 Mountain
+1 Orim's Chant
 1 Mox Diamond
 1 Rest in Peace
-1 Pithing Needle
+1 Blood Moon
 1 Zuran Orb
 1 Humility
 1 Trinisphere
+1 Pithing Needle
 1 Ghostly Prison
 1 Wrath of God
 1 Aura of Silence
-1 Orim's Chant
-1 Blood Moon
 1 Scroll Rack
 1 Elspeth, Knight-Errant
+1 Mountain
 1 Land Tax
 1 Helm of Obedience
 1 Enlightened Tutor
@@ -160,27 +160,27 @@
 1 Solitary Confinement
 1 Undiscovered Paradise
 1 Swords to Plowshares
-2 Plains
+2 Orim's Chant
 2 Rest in Peace
 2 Enlightened Tutor
 2 Undiscovered Paradise
+2 Plains
 2 Swords to Plowshares
 2 Banishing Light
 2 Helm of Obedience
 2 Scroll Rack
 2 Land Tax
 2 Wrath of God
-2 Orim's Chant
+3 Orim's Chant
 3 Rest in Peace
 3 Enlightened Tutor
-3 Orim's Chant
 3 Plains
 3 Swords to Plowshares
 3 Banishing Light
 3 Land Tax
 3 Scroll Rack
-4 Plains
 4 Orim's Chant
+4 Plains
 4 Enlightened Tutor
 4 Land Tax
 5 Plains

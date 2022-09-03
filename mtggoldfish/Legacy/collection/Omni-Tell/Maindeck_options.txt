@@ -27,10 +27,10 @@
 3 Polluted Delta
 4 Polluted Delta
 4 Flooded Strand
-1 Thoughtseize
 1 Profane Tutor
-2 Thoughtseize
+1 Thoughtseize
 2 Profane Tutor
+2 Thoughtseize
 3 Profane Tutor
 3 Thoughtseize
 4 Profane Tutor
@@ -76,17 +76,17 @@
 3 Boseiju, Who Shelters All
 4 Baleful Strix
 4 Veil of Summer
-1 Dark Ritual
 1 Shallow Grave
 1 Reanimate
 1 Animate Dead
 1 Emrakul, the Promised End
 1 Entomb
 1 Exhume
+1 Dark Ritual
 1 Archon of Cruelty
-2 Dark Ritual
 2 Snow-Covered Swamp
 2 Archon of Cruelty
+2 Dark Ritual
 2 Exhume
 2 Entomb
 3 Entomb
@@ -114,29 +114,29 @@
 2 Tundra
 2 Narset, Parter of Veils
 3 Tundra
-1 Pact of Negation
-1 Enter the Infinite
-2 Pact of Negation
-2 Enter the Infinite
-3 Pact of Negation
 1 Fact or Fiction
 1 Jace, the Mind Sculptor
 1 Volcanic Island
 1 Misdirection
-1 Pyroblast
 1 Boseiju, Who Endures
+1 Pyroblast
 2 Volcanic Island
 3 Uro, Titan of Nature's Wrath
+1 Enter the Infinite
+1 Pact of Negation
+2 Pact of Negation
+2 Enter the Infinite
+3 Pact of Negation
 1 Split Decision
 4 Scalding Tarn
+1 Twincast
+4 City of Traitors
+2 Orim's Chant
+3 Orim's Chant
+4 Impulse
+4 Orim's Chant
+9 Snow-Covered Island
 2 Sea Gate Restoration
 3 Sea Gate Restoration
 3 Solve the Equation
 4 Sea Gate Restoration
-1 Twincast
-4 City of Traitors
-9 Snow-Covered Island
-2 Orim's Chant
-3 Orim's Chant
-4 Orim's Chant
-4 Impulse

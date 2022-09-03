@@ -3,11 +3,15 @@
 3 Dwarven Mine
 2 Bloodstained Mire
 2 Forest
+4 Wrenn and Six
+1 Summoner's Pact
 3 Scapeshift
+2 Cinder Glade
 1 Snow-Covered Mountain
 1 Misty Rainforest
 2 Misty Rainforest
 1 Ketria Triome
+1 Endurance
 4 Scapeshift
 1 Steam Vents
 2 Steam Vents
@@ -32,11 +36,6 @@
 4 Remand
 4 Growth Spiral
 1 Snow-Covered Forest
-1 Endurance
-1 Summoner's Pact
-4 Wrenn and Six
-1 Snow-Covered Island
-2 Cinder Glade
 3 Arid Mesa
 2 Summoner's Pact
 1 Windswept Heath
@@ -52,6 +51,7 @@
 1 Horizon Canopy
 1 Breeding Pool
 1 Temple Garden
+1 Noble Hierarch
 1 Oath of Nissa
 1 Verdant Catacombs
 1 Sacred Foundry
@@ -90,8 +90,8 @@
 1 Prime Speaker Vannifar
 1 Bring to Light
 1 Scavenging Ooze
-1 Supreme Verdict
 1 Knight of Autumn
+1 Supreme Verdict
 1 Teferi, Time Raveler
 1 Duskwatch Recruiter
 1 Madcap Experiment
@@ -104,7 +104,6 @@
 1 Glittering Wish
 1 Sunpetal Grove
 1 Elesh Norn, Grand Cenobite
-1 Noble Hierarch
 1 Wall of Roots
 1 Village Bell-Ringer
 1 Flooded Strand
@@ -256,6 +255,7 @@
 1 Flame Slash
 2 Endurance
 4 Ketria Triome
+1 Snow-Covered Island
 6 Mountain
 2 Snow-Covered Forest
 1 Castle Garenbrig
@@ -264,11 +264,6 @@
 3 Summoner's Pact
 4 Summoner's Pact
 1 Hour of Promise
-1 Archmage's Charm
-2 Archmage's Charm
-2 Snow-Covered Island
-3 Snow-Covered Island
-3 Fire/Ice
 3 Bloodstained Mire
 4 Bloodstained Mire
 1 Mwonvuli Acid-Moss
@@ -292,5 +287,10 @@
 1 Blast Zone
 1 Storm's Wrath
 2 Storm's Wrath
+1 Archmage's Charm
+2 Archmage's Charm
+2 Snow-Covered Island
+3 Snow-Covered Island
+3 Fire/Ice
 3 Castle Garenbrig
 4 Castle Garenbrig
