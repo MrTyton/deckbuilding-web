@@ -69,6 +69,6 @@
 |                    1|[Batterskull](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233055)                 |                     |                                                                                                    |
 |                    1|[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383425)    |                     |                                                                                                    |
 |                    1|[Wurmcoil Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389756)             |                     |                                                                                                    |
-|                    3|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)         |                     |                                                                                                    |
 |                    2|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)     |                     |                                                                                                    |
+|                    3|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)         |                     |                                                                                                    |
 
