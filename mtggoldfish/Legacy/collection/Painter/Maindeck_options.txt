@@ -36,7 +36,6 @@
 2 Force of Will
 3 Force of Will
 4 Force of Will
-1 Mishra's Bauble
 1 Otawara, Soaring City
 1 Urza's Bauble
 1 Emry, Lurker of the Loch
@@ -44,9 +43,10 @@
 1 Thought Monitor
 1 Seat of the Synod
 1 Minamo, School at Water's Edge
+1 Mishra's Bauble
 2 Otawara, Soaring City
-2 Mishra's Bauble
 2 Urza's Bauble
+2 Mishra's Bauble
 2 Seat of the Synod
 2 Mox Opal
 2 Thought Monitor
@@ -90,14 +90,13 @@
 2 Grove of the Burnwillows
 2 Punishing Fire
 3 Grove of the Burnwillows
-1 Karakas
 1 Wasteland
-1 Sylvan Library
+1 Karakas
 1 Shadowspear
-1 Yavimaya, Cradle of Growth
-1 Forest
-1 Sejiri Steppe
 1 Boseiju, Who Endures
+1 Yavimaya, Cradle of Growth
+1 Sylvan Library
+1 Sejiri Steppe
 1 Thespian's Stage
 1 Dark Depths
 1 Glacial Chasm
@@ -105,6 +104,7 @@
 1 Mox Diamond
 1 Elvish Reclaimer
 1 Exploration
+1 Forest
 1 Bojuka Bog
 1 Expedition Map
 2 Sylvan Library
@@ -144,11 +144,11 @@
 1 Mirrorshell Crab
 2 Mirrorshell Crab
 3 Mirrorshell Crab
-1 Life from the Loam
 1 Veil of Summer
+1 Life from the Loam
 1 Horizon Canopy
-2 Life from the Loam
 2 Veil of Summer
+2 Life from the Loam
 3 Forest
 3 Veil of Summer
 1 Field of the Dead
@@ -172,39 +172,39 @@
 4 Blood Moon
 4 Simian Spirit Guide
 1 Retrofitter Foundry
-1 Flooded Strand
-1 Tundra
-1 Prismatic Ending
-1 Force of Negation
-1 Relic of Progenitus
-1 Swords to Plowshares
-1 Brainstorm
 1 Expressive Iteration
+1 Force of Negation
+1 Swords to Plowshares
+1 Relic of Progenitus
+1 Brainstorm
 1 Ponder
 1 Narset, Parter of Veils
+1 Prismatic Ending
+1 Tundra
+1 Flooded Strand
 1 Timeless Dragon
 1 Murktide Regent
 2 Flooded Strand
-2 Tundra
-2 Prismatic Ending
+2 Expressive Iteration
 2 Force of Negation
 2 Swords to Plowshares
 2 Murktide Regent
 2 Ponder
 2 Brainstorm
-2 Expressive Iteration
-3 Flooded Strand
+2 Tundra
+2 Prismatic Ending
+3 Expressive Iteration
 3 Tundra
+3 Flooded Strand
 3 Swords to Plowshares
 3 Volcanic Island
 3 Brainstorm
-3 Expressive Iteration
 3 Ponder
 4 Expressive Iteration
-4 Flooded Strand
 4 Brainstorm
 4 Swords to Plowshares
 4 Ponder
+4 Flooded Strand
 4 Scalding Tarn
 1 Sai, Master Thopterist
 2 Sai, Master Thopterist
@@ -214,7 +214,6 @@
 2 Breya's Apprentice
 8 Snow-Covered Mountain
 1 Esper Sentinel
-1 Plains
 1 Portable Hole
 1 Hope of Ghirapur
 1 Mother of Runes
@@ -224,20 +223,21 @@
 1 Ingenious Smith
 1 Oswald Fiddlebender
 1 Ancient Den
+1 Plains
 1 Eiganjo Castle
-2 Esper Sentinel
-2 Plains
+2 Wasteland
 2 Ethersworn Canonist
+2 Plains
 2 Oswald Fiddlebender
 2 Aether Vial
 2 Karakas
-2 Wasteland
 2 Ingenious Smith
 2 Ancient Den
+2 Esper Sentinel
 2 Mother of Runes
 2 Portable Hole
-3 Ingenious Smith
 3 Esper Sentinel
+3 Ingenious Smith
 3 Plains
 3 Ethersworn Canonist
 3 Ancient Den
