@@ -40,8 +40,8 @@
 4 Portable Hole
 1 Chandra, Awakened Inferno
 1 Boseiju, Who Endures
-1 Yasharn, Implacable Earth
 1 Temple Garden
+1 Yasharn, Implacable Earth
 1 Stomping Ground
 2 Stomping Ground
 1 Jetmir's Garden
@@ -65,8 +65,8 @@
 4 Omnath, Locus of Creation
 4 Growth Spiral
 1 Arboreal Grazer
-2 Temple Garden
 2 Forest
+2 Temple Garden
 2 Arboreal Grazer
 3 Arboreal Grazer
 3 Forest
@@ -77,14 +77,24 @@
 1 Niko Aris
 2 Snow-Covered Island
 4 Anger of the Gods
+1 Snow-Covered Forest
+1 The Raven's Warning
+1 Cast Out
+2 Deafening Clarion
+2 The Raven's Warning
+2 Cast Out
+3 Snow-Covered Plains
+3 The Raven's Warning
+4 The Raven's Warning
 1 Deputy of Detention
-1 Skyclave Apparition
 1 Tolsimir, Friend to Wolves
 1 Jukai Naturalist
 1 Knight of Autumn
 1 Glasspool Mimic
+1 Mana Confluence
 1 Spirited Companion
 1 Eidolon of Rhetoric
+1 Skyclave Apparition
 1 Omen of the Forge
 1 Moon-Blessed Cleric
 1 Enigmatic Incarnation
@@ -94,10 +104,9 @@
 1 Yorion, Sky Nomad
 1 Cavalier of Dawn
 1 Barkchannel Pathway
-1 Mana Confluence
-2 Mana Confluence
 2 Jukai Naturalist
 2 Spirited Companion
+2 Mana Confluence
 2 Hengegate Pathway
 2 Nylea's Presence
 2 Barkchannel Pathway
@@ -109,20 +118,11 @@
 3 Branchloft Pathway
 3 Hengegate Pathway
 3 Enigmatic Incarnation
-4 Branchloft Pathway
 4 Barkchannel Pathway
 4 Enigmatic Incarnation
 4 Nylea's Presence
 4 Hengegate Pathway
-1 Snow-Covered Forest
-1 The Raven's Warning
-1 Cast Out
-2 Deafening Clarion
-2 The Raven's Warning
-2 Cast Out
-3 Snow-Covered Plains
-3 The Raven's Warning
-4 The Raven's Warning
+4 Branchloft Pathway
 1 Topiary Stomper
 1 Shigeki, Jukai Visionary
 1 Emrakul, the Promised End
