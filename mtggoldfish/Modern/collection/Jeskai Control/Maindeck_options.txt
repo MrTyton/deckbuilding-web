@@ -1,24 +1,24 @@
-2 Scalding Tarn
-3 Scalding Tarn
 1 Spirebluff Canal
 1 Lightning Bolt
 2 Lightning Bolt
-4 Shark Typhoon
-2 Hall of Storm Giants
-1 Spara's Headquarters
+2 Scalding Tarn
+3 Scalding Tarn
 2 Spirebluff Canal
+1 March of Otherworldly Light
+4 Solitude
+2 Hall of Storm Giants
+4 Shark Typhoon
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
-1 Timeless Dragon
+1 Jace, the Mind Sculptor
 3 Lightning Bolt
 4 Lightning Bolt
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
-1 Jace, the Mind Sculptor
-4 Solitude
+2 March of Otherworldly Light
 1 Batterskull
 1 Kaldra Compleat
 1 Stoneforge Mystic
@@ -28,13 +28,12 @@
 2 Jace, the Mind Sculptor
 1 Spell Pierce
 2 Spell Pierce
-1 March of Otherworldly Light
-2 Teferi, Hero of Dominaria
+3 Snapcaster Mage
+1 Spara's Headquarters
 3 Memory Deluge
-1 Sacred Foundry
-2 March of Otherworldly Light
+2 Teferi, Hero of Dominaria
 2 Raugrin Triome
-3 Chalice of the Void
+1 Sacred Foundry
 1 Fury
 2 Fury
 3 Fury
@@ -48,63 +47,71 @@
 1 Valakut Awakening
 2 Lotus Field
 2 Blood Sun
-2 Flagstones of Trokair
 2 Valakut Awakening
-3 Teferi, Hero of Dominaria
+2 Flagstones of Trokair
 3 Blood Sun
 3 Lotus Field
+3 Teferi, Hero of Dominaria
 3 Valakut Awakening
 3 Flagstones of Trokair
 4 Blood Sun
 4 Lotus Field
-4 Valakut Awakening
 4 Cryptic Command
+4 Valakut Awakening
 4 Flagstones of Trokair
 4 Teferi, Hero of Dominaria
+3 Chalice of the Void
+1 Timeless Dragon
 1 Seachrome Coast
 1 Brazen Borrower
-3 Snapcaster Mage
 2 Seachrome Coast
 4 Memory Deluge
 1 The Wandering Emperor
-4 Fire/Ice
 2 Polluted Delta
 4 Teferi, Time Raveler
 4 Scalding Tarn
 2 The Wandering Emperor
-4 Expressive Iteration
 4 Snapcaster Mage
-1 Path to Exile
-2 Path to Exile
+4 Fire/Ice
 1 Dress Down
-3 Spirebluff Canal
-1 Sulfur Falls
-1 Arid Mesa
-1 Snow-Covered Plains
-1 Snow-Covered Island
 1 Opt
 2 Opt
 3 Opt
 4 Island
+4 Expressive Iteration
+1 Path to Exile
+2 Path to Exile
+1 Sulfur Falls
+4 Opt
 3 March of Otherworldly Light
 3 Misty Rainforest
 4 Misty Rainforest
+3 Spirebluff Canal
 4 Chalice of the Void
-2 Arid Mesa
+1 Arid Mesa
+2 Dress Down
+2 Plains
+1 Field of Ruin
+2 Field of Ruin
+1 Snow-Covered Plains
+1 Snow-Covered Island
 2 Snow-Covered Island
-4 Opt
-1 Mountain
+2 Celestial Colonnade
+2 Glacial Fortress
 1 Unholy Heat
-3 Arid Mesa
-4 Arid Mesa
 3 Steam Vents
+2 Arid Mesa
 1 Flame Blitz
 2 Flame Blitz
+1 Surgical Extraction
+1 Marsh Flats
+1 Watery Grave
 1 Esper Sentinel
 1 Sunbaked Canyon
 1 Fiery Islet
 1 Chandra, Torch of Defiance
 1 Hushbringer
+1 Mountain
 1 Bonecrusher Giant
 1 Luminarch Aspirant
 1 Ionize
@@ -121,58 +128,42 @@
 4 Esper Sentinel
 4 Luminarch Aspirant
 4 Hushbringer
-1 Raffine's Tower
 1 Rest in Peace
 1 Nexus of Fate
 1 Cascade Bluffs
 1 Izzet Boilerworks
 1 Azorius Chancery
-2 Plains
-2 Dress Down
 1 Ephemerate
 2 Unholy Heat
-2 Glacial Fortress
 2 Ephemerate
 2 Sulfur Falls
-3 Snow-Covered Island
-1 Nahiri, the Harbinger
-1 Emrakul, the Aeons Torn
-2 Nahiri, the Harbinger
-3 Nahiri, the Harbinger
 1 Consider
+1 Search for Azcanta
 1 Lightning Helix
 1 Stormcarved Coast
-1 Search for Azcanta
 2 Consider
-2 Celestial Colonnade
 2 Lightning Helix
 2 Search for Azcanta
 2 Timeless Dragon
 3 Consider
+1 Spreading Seas
+1 Windswept Heath
+1 Breeding Pool
+1 Castle Ardenvale
+1 Prairie Stream
+2 Spreading Seas
+2 Windswept Heath
+2 Prairie Stream
+3 Windswept Heath
+3 Snow-Covered Island
 3 Spell Pierce
 1 Fateful Absence
 2 Fateful Absence
 3 Polluted Delta
-1 Day's Undoing
-1 Geier Reach Sanitarium
-1 Narset, Parter of Veils
-2 Day's Undoing
-2 Narset, Parter of Veils
-3 Narset, Parter of Veils
-4 Narset, Parter of Veils
 1 Spell Snare
-1 Field of Ruin
-2 Field of Ruin
 3 Hallowed Fountain
 3 Field of Ruin
 4 Field of Ruin
-1 Force of Negation
-1 Piracy Charm
-2 Piracy Charm
-2 Force of Negation
-3 Path to Exile
-5 Island
-6 Island
 1 Prismari Command
 1 Bloodstained Mire
 1 Remand
@@ -185,8 +176,9 @@
 1 Wooded Foothills
 1 Dwarven Mine
 1 Combat Celebrant
-2 Bloodstained Mire
+2 Fable of the Mirror-Breaker
 2 Prismari Command
+2 Bloodstained Mire
 2 Remand
 2 Hard Evidence
 2 Silence
@@ -194,14 +186,29 @@
 2 Wooded Foothills
 2 Strike It Rich
 2 Dwarven Mine
-2 Fable of the Mirror-Breaker
 2 Indomitable Creativity
 3 Wooded Foothills
 3 Fable of the Mirror-Breaker
 3 Indomitable Creativity
 3 Dwarven Mine
+3 Arid Mesa
 3 Strike It Rich
 4 Fable of the Mirror-Breaker
 4 Wooded Foothills
 4 Dwarven Mine
 4 Indomitable Creativity
+4 Arid Mesa
+1 Force of Negation
+1 Piracy Charm
+2 Piracy Charm
+2 Force of Negation
+3 Path to Exile
+5 Island
+6 Island
+1 Narset, Parter of Veils
+1 Geier Reach Sanitarium
+1 Day's Undoing
+2 Narset, Parter of Veils
+2 Day's Undoing
+3 Narset, Parter of Veils
+4 Narset, Parter of Veils

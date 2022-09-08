@@ -8,32 +8,6 @@
 3 Llanowar Elves
 4 Botanical Sanctum
 4 Llanowar Elves
-1 Wishclaw Talisman
-1 Abundant Harvest
-1 Blood Crypt
-1 Ziatora's Proving Ground
-1 Overgrown Tomb
-1 Thoughtseize
-1 Blooming Marsh
-1 Blightstep Pathway
-2 Wishclaw Talisman
-2 Overgrown Tomb
-2 Abundant Harvest
-2 Blood Crypt
-2 Blooming Marsh
-2 Thoughtseize
-2 Blightstep Pathway
-2 Ziatora's Proving Ground
-3 Overgrown Tomb
-3 Wishclaw Talisman
-3 Abundant Harvest
-3 Blood Crypt
-3 Thoughtseize
-4 Overgrown Tomb
-4 Wishclaw Talisman
-4 Abundant Harvest
-4 Blood Crypt
-4 Thoughtseize
 2 Strike It Rich
 3 Strike It Rich
 4 Strike It Rich
@@ -44,9 +18,8 @@
 4 Ledger Shredder
 1 Wall of Blossoms
 1 Ketria Triome
-1 Paradise Druid
-1 Glasspool Mimic
 1 Valakut Awakening
+1 Glasspool Mimic
 1 Combat Celebrant
 1 Pact of Negation
 1 Riverglide Pathway
@@ -56,10 +29,11 @@
 1 Sea Gate Stormcaller
 1 Shimmer of Possibility
 1 Dualcaster Mage
-2 Wall of Blossoms
+1 Paradise Druid
 2 Paradise Druid
-2 Glasspool Mimic
+2 Wall of Blossoms
 2 Valakut Awakening
+2 Glasspool Mimic
 2 Pact of Negation
 2 Tuktuk Rubblefort
 2 Hinterland Harbor
@@ -69,8 +43,8 @@
 2 Riverglide Pathway
 2 Opt
 3 Hinterland Harbor
-3 Wall of Blossoms
 3 Paradise Druid
+3 Wall of Blossoms
 3 Glasspool Mimic
 3 Pact of Negation
 3 Shimmer of Possibility
@@ -89,10 +63,36 @@
 2 Cabaretti Revels
 3 Cabaretti Revels
 3 Reckless Fireweaver
-4 Cragcrown Pathway
 4 Cabaretti Revels
 4 Spirebluff Canal
+4 Cragcrown Pathway
 4 Reckless Fireweaver
+1 Wishclaw Talisman
+1 Blooming Marsh
+1 Overgrown Tomb
+1 Abundant Harvest
+1 Ziatora's Proving Ground
+1 Blood Crypt
+1 Thoughtseize
+1 Blightstep Pathway
+2 Wishclaw Talisman
+2 Blooming Marsh
+2 Ziatora's Proving Ground
+2 Abundant Harvest
+2 Blood Crypt
+2 Thoughtseize
+2 Overgrown Tomb
+2 Blightstep Pathway
+3 Wishclaw Talisman
+3 Abundant Harvest
+3 Blood Crypt
+3 Thoughtseize
+3 Overgrown Tomb
+4 Wishclaw Talisman
+4 Abundant Harvest
+4 Blood Crypt
+4 Thoughtseize
+4 Overgrown Tomb
 1 Mind Stone
 1 Tamiyo, Collector of Tales
 1 Emry, Lurker of the Loch

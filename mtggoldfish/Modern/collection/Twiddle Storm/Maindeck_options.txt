@@ -79,8 +79,8 @@
 2 Past in Flames
 3 Past in Flames
 2 Otawara, Soaring City
-1 Bloodstained Mire
 1 Thassa's Oracle
+1 Bloodstained Mire
 2 Marsh Flats
 1 Mana Confluence
 2 Mana Confluence
@@ -88,8 +88,8 @@
 1 Spirebluff Canal
 1 Tale's End
 1 Teferi, Time Raveler
-1 Lightning Bolt
 1 Seachrome Coast
+1 Lightning Bolt
 1 Plains
 2 Lightning Bolt
 2 Expressive Iteration
@@ -97,8 +97,8 @@
 2 Teferi, Time Raveler
 2 Izzet Charm
 3 Lightning Bolt
-3 Spirebluff Canal
 3 Expressive Iteration
+3 Spirebluff Canal
 3 Teferi, Time Raveler
 1 Empty the Warrens
 1 Shivan Reef
@@ -109,13 +109,17 @@
 4 Shivan Reef
 1 Drowned Catacomb
 1 Clearwater Pathway
-2 Swamp
 2 Drowned Catacomb
+2 Swamp
 2 Clearwater Pathway
 3 Clearwater Pathway
 3 Swamp
 3 Drowned Catacomb
 4 Clearwater Pathway
+1 Underground River
+2 Underground River
+3 Underground River
+4 Watery Grave
 1 Forest
 1 Windswept Heath
 1 Thespian's Stage
@@ -133,10 +137,6 @@
 3 Sylvan Scrying
 4 Windswept Heath
 4 Abundant Harvest
-1 Underground River
-2 Underground River
-3 Underground River
-4 Watery Grave
 4 Prismatic Ending
 1 Acererak the Archlich
 1 Rooftop Storm
@@ -145,13 +145,13 @@
 2 Rooftop Storm
 2 Darkslick Shores
 2 Acererak the Archlich
-3 Thoughtseize
 3 Acererak the Archlich
 3 Darkslick Shores
+3 Thoughtseize
 3 Vizier of Tumbling Sands
 3 Rooftop Storm
-4 Thoughtseize
 4 Acererak the Archlich
 4 Darkslick Shores
 4 Rooftop Storm
+4 Thoughtseize
 8 Island

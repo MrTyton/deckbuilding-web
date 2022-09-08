@@ -31,7 +31,7 @@
 |                    4|[Cabal Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30564)       |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
 |                    1|[Reanimate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220576)         |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                    1|[Foundation Breaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522236)|                    1|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)   |
-|                    3|[Chrome Mox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413761)        |                    1|[Alpha Brawl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262657)        |
-|                    1|[Tinder Wall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2594)         |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
+|                    1|[Tinder Wall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2594)         |                    1|[Alpha Brawl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262657)        |
+|                    3|[Chrome Mox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413761)        |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
 |                     |                                                                                             |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
 
