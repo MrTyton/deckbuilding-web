@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Quirion Ranger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3674)           |                    4|[Endurance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522233)          |
-|                    1|[Nettle Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442171)        |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)    |
+|                    1|[Nettle Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442171)        |                    4|[Endurance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522233)          |
+|                    1|[Quirion Ranger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3674)           |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)    |
 |                    2|[Quirion Ranger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3674)           |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                    1|[Fiend Artisan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479740)          |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                    2|[Nettle Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442171)        |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |

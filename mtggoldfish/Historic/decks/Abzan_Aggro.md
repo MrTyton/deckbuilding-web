@@ -34,7 +34,6 @@
 |                    2|[Soul Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129740)                 |                     |              |
 |                    3|[Soul Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129740)                 |                     |              |
 |                    4|[Soul Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129740)                 |                     |              |
-|                    1|[Scoured Barrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405366)             |                     |              |
 |                    1|[Inspiring Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555219)          |                     |              |
 |                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)         |                     |              |
 |                    1|[Kor Skyfisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222764)               |                     |              |
@@ -44,6 +43,7 @@
 |                    1|[Marauding Blight-Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491749)     |                     |              |
 |                    1|[Aviary Mechanic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417579)             |                     |              |
 |                    1|[Omen of the Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476361)            |                     |              |
+|                    1|[Scoured Barrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405366)             |                     |              |
 |                    1|[Impassioned Orator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=469859)          |                     |              |
 |                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)          |                     |              |
 |                    2|[Scoured Barrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405366)             |                     |              |
@@ -94,12 +94,12 @@
 |                    1|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)                |                     |              |
 |                    1|[Trelasarra, Moon Dancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527523)     |                     |              |
 |                    1|[Ajani's Welcome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447142)             |                     |              |
+|                    1|[Ajani, Adversary of Tyrants](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447139) |                     |              |
 |                    1|[Portable Hole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527320)               |                     |              |
 |                    1|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)               |                     |              |
 |                    1|[Concealed Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417818)         |                     |              |
 |                    1|[Branchloft Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491909)          |                     |              |
 |                    1|[Declaration in Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409750)        |                     |              |
-|                    1|[Ajani, Adversary of Tyrants](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447139) |                     |              |
 |                    1|[Secluded Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548588)          |                     |              |
 |                    1|[Revitalize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447171)                  |                     |              |
 |                    2|[Cave of the Frost Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527540)    |                     |              |

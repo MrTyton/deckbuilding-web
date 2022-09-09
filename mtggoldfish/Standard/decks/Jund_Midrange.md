@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                    1|Nemata, Primeval Warden                                                                     |
-|                    1|[Riveteers Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555418)    |                    1|[Soul Transfer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548423)    |
+|                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                    1|[Soul Transfer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548423)    |
+|                    1|[Riveteers Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555418)    |                    1|Nemata, Primeval Warden                                                                     |
 |                    1|[Ziatora's Envoy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555433)    |                    1|[Riveteers Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555418)  |
 |                    1|[Reckoner Bankbuster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548568)|                    1|[Unlicensed Hearse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555447)|
 |                    1|[Voltage Surge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548476)      |                    2|[Unlicensed Hearse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555447)|
