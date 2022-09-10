@@ -1,8 +1,8 @@
-1 Otawara, Soaring City
 3 Wooded Foothills
-4 Scalding Tarn
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
+1 Otawara, Soaring City
+4 Scalding Tarn
 1 Boseiju, Who Endures
 3 Fable of the Mirror-Breaker
 4 Fable of the Mirror-Breaker
@@ -16,7 +16,6 @@
 2 Flooded Strand
 1 Windswept Heath
 1 Raugrin Triome
-1 Ketria Triome
 1 Solitude
 2 Solitude
 3 Solitude
@@ -26,24 +25,30 @@
 1 Snow-Covered Island
 1 Snow-Covered Forest
 1 Snow-Covered Mountain
+1 Ketria Triome
 4 Ardent Plea
-1 Plains
 3 Windswept Heath
 3 Flooded Strand
+1 Snow-Covered Plains
+1 Plains
+4 Windswept Heath
+4 Flooded Strand
 1 Subtlety
 2 Subtlety
+1 Gemstone Mine
 1 Tireless Provisioner
 2 Tireless Provisioner
-1 Gemstone Mine
+1 Leyline Binding
+1 Indatha Triome
+2 Leyline Binding
+3 Leyline Binding
+4 Leyline Binding
 1 Spara's Headquarters
 4 Teferi, Time Raveler
-1 Snow-Covered Plains
 1 Gemstone Caverns
 1 Seasoned Pyromancer
 1 Twinshot Sniper
 2 Seasoned Pyromancer
-4 Windswept Heath
-4 Flooded Strand
 2 Gemstone Mine
 3 Gemstone Mine
 4 Gemstone Mine
@@ -62,15 +67,10 @@
 1 Imperial Recruiter
 1 Venser, Shaper Savant
 4 Wooded Foothills
-1 Leyline Binding
-1 Indatha Triome
-2 Leyline Binding
-3 Leyline Binding
-4 Leyline Binding
 1 Brazen Borrower
 1 Valakut Awakening
-1 Evolving Door
 1 Vadrok, Apex of Thunder
+1 Evolving Door
 2 Brazen Borrower
 2 Vadrok, Apex of Thunder
 2 Twinshot Sniper
@@ -82,8 +82,8 @@
 4 Seasoned Pyromancer
 1 Embodiment of Fury
 1 Ob Nixilis, the Fallen
-1 Admonition Angel
 1 Jinnie Fay, Jetmir's Second
+1 Admonition Angel
 1 Moraug, Fury of Akoum
 1 Force of Vigor
 2 Jinnie Fay, Jetmir's Second

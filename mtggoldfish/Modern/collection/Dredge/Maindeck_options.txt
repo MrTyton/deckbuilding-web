@@ -1,12 +1,12 @@
 1 Blood Crypt
-1 Merchant of the Vale
 1 Sacred Foundry
-1 Bloodstained Mire
-2 Merchant of the Vale
-2 Bloodstained Mire
+1 Merchant of the Vale
 1 Arid Mesa
-2 Arid Mesa
+1 Bloodstained Mire
 2 Blood Crypt
+2 Bloodstained Mire
+2 Merchant of the Vale
+2 Arid Mesa
 1 Gemstone Caverns
 2 Gemstone Caverns
 3 Bloodstained Mire
@@ -22,13 +22,14 @@
 1 Life from the Loam
 1 Stomping Ground
 2 Life from the Loam
+2 Wooded Foothills
+3 Wooded Foothills
 1 Sulfurous Springs
 2 Sulfurous Springs
 4 Silversmote Ghoul
 1 Godless Shrine
 1 Overgrown Tomb
-2 Wooded Foothills
-3 Wooded Foothills
+4 Wooded Foothills
 1 Bloodghast
 2 Bloodghast
 3 Bloodghast
@@ -50,7 +51,6 @@
 2 Shriekhorn
 3 Conflagrate
 3 Shriekhorn
-4 Wooded Foothills
 4 Shriekhorn
 1 Island
 1 Polluted Delta

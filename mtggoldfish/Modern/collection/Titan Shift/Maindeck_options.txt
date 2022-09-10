@@ -2,9 +2,9 @@
 2 Sheltered Thicket
 2 Scapeshift
 2 Bloodstained Mire
-2 Forest
 3 Arid Mesa
 1 Windswept Heath
+2 Forest
 2 Cinder Glade
 1 Farseek
 1 Misty Rainforest
@@ -27,13 +27,14 @@
 1 Temple Garden
 1 Botanical Sanctum
 1 Sacred Foundry
-1 Raugrin Triome
 1 Prismatic Vista
+1 Raugrin Triome
 1 Wall of Omens
 1 Birds of Paradise
 1 Marsh Flats
 1 Restoration Angel
 1 Kiki-Jiki, Mirror Breaker
+1 Snapcaster Mage
 1 Jetmir's Garden
 1 Path to Exile
 1 Overgrown Tomb
@@ -44,7 +45,6 @@
 1 Sylvan Caryatid
 1 Eternal Witness
 1 Polluted Delta
-1 Snapcaster Mage
 1 Renegade Rallier
 1 Razorverge Thicket
 1 Serra's Emissary
@@ -150,9 +150,9 @@
 2 Wall of Roots
 3 Noble Hierarch
 3 Ignoble Hierarch
-3 Polluted Delta
-3 Teferi, Time Raveler
 3 Snapcaster Mage
+3 Teferi, Time Raveler
+3 Polluted Delta
 3 Windswept Heath
 3 Wall of Omens
 3 Nahiri, the Harbinger

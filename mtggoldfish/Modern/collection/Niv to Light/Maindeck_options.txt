@@ -1,29 +1,29 @@
-1 Snow-Covered Plains
-1 Snow-Covered Swamp
-1 Snow-Covered Mountain
-1 Snow-Covered Forest
-1 Snow-Covered Island
-2 Abrupt Decay
+1 Plains
+1 Island
+1 Mountain
+4 Prismatic Vista
+2 Forest
 1 Blood Crypt
 1 Pillar of the Paruns
+2 Abrupt Decay
+1 Kolaghan's Command
+2 Pillar of the Paruns
 1 Birds of Paradise
 1 Godless Shrine
 1 Glittering Wish
-1 Kolaghan's Command
-2 Pillar of the Paruns
-2 Prismari Command
 4 Wooded Foothills
-1 Expressive Iteration
-2 Birds of Paradise
 3 Pillar of the Paruns
+1 Expressive Iteration
+2 Snow-Covered Forest
+2 Prismari Command
 1 Savai Triome
 1 March of Otherworldly Light
-2 Snow-Covered Forest
+1 Fire/Ice
+2 Birds of Paradise
 1 Vanishing Verse
 4 Pillar of the Paruns
 1 Solitude
 1 Jetmir's Garden
-1 Fire/Ice
 3 Birds of Paradise
 4 Birds of Paradise
 1 Drown in the Loch
@@ -34,17 +34,29 @@
 3 General Ferrous Rokiric
 2 Verdant Catacombs
 3 Expressive Iteration
+1 Ice-Fang Coatl
+2 Ice-Fang Coatl
+3 Ice-Fang Coatl
 1 Sylvan Caryatid
 1 Arid Mesa
 2 Sylvan Caryatid
 2 Arid Mesa
-1 Ice-Fang Coatl
-2 Ice-Fang Coatl
-3 Ice-Fang Coatl
 3 Verdant Catacombs
 3 Vindicate
 1 Raugrin Triome
+4 Ice-Fang Coatl
+2 Fire/Ice
+3 Fire/Ice
 3 Sylvan Caryatid
+1 Leyline Binding
+1 Marsh Flats
+1 Scalding Tarn
+2 Leyline Binding
+2 Scalding Tarn
+3 Scalding Tarn
+3 Leyline Binding
+4 Leyline Binding
+4 Fire/Ice
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
@@ -57,14 +69,12 @@
 2 Arboreal Grazer
 3 Arboreal Grazer
 4 Arboreal Grazer
-4 Ice-Fang Coatl
 1 Shadow of Doubt
 1 Spara's Headquarters
-2 Fire/Ice
-3 Fire/Ice
 3 Abrupt Decay
 1 Xander's Lounge
 1 Rip Apart
+1 Reflecting Pool
 1 Kaya, Orzhov Usurper
 1 Kiki-Jiki, Mirror Breaker
 1 Restoration Angel
@@ -80,16 +90,6 @@
 3 Assassin's Trophy
 1 Deafening Clarion
 4 Expressive Iteration
-1 Leyline Binding
-1 Marsh Flats
-1 Reflecting Pool
-1 Scalding Tarn
-2 Leyline Binding
-2 Scalding Tarn
-3 Scalding Tarn
-3 Leyline Binding
-4 Leyline Binding
-4 Fire/Ice
 1 Flooded Strand
 1 Golos, Tireless Pilgrim
 1 Fulminator Mage
