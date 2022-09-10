@@ -35,8 +35,8 @@
 |                    3|[Soul Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129740)                 |                     |              |
 |                    4|[Soul Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129740)                 |                     |              |
 |                    1|[Inspiring Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555219)          |                     |              |
-|                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)         |                     |              |
 |                    1|[Kor Skyfisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222764)               |                     |              |
+|                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)         |                     |              |
 |                    1|[Heron of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=540848)               |                     |              |
 |                    1|[Silverquill Campus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513765)          |                     |              |
 |                    1|[Epicure of Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447231)            |                     |              |

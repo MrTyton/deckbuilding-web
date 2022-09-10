@@ -83,7 +83,7 @@
 |                     |                                                                                                 |                    4|[Witness Protection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555267)     |
 |                     |                                                                                                 |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)     |
 |                     |                                                                                                 |                    2|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)     |
-|                     |                                                                                                 |                    3|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)         |
 |                     |                                                                                                 |                    3|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)     |
+|                     |                                                                                                 |                    3|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)         |
 |                     |                                                                                                 |                    4|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)         |
 
