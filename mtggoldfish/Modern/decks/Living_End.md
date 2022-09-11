@@ -1,6 +1,6 @@
-# Blue Living End
+# Living End
 
-#### [Export MTGO List](../collection/Blue%20Living%20End/Blue%20Living%20End.txt)
+#### [Export MTGO List](../collection/Living%20End/Living%20End.txt)
 #### [Print on decklist.org](http://decklist.org/?deckmain=4%09Architects%20of%20Will%0A1%09Boseiju,%20Who%20Endures%0A3%09Botanical%20Sanctum%0A2%09Breeding%20Pool%0A1%09Colossal%20Skyturtle%0A4%09Curator%20of%20Mysteries%0A4%09Force%20of%20Negation%0A1%09Forest%0A4%09Grief%0A1%09Island%0A3%09Living%20End%0A4%09Misty%20Rainforest%0A1%09Otawara,%20Soaring%20City%0A1%09Scalding%20Tarn%0A4%09Shardless%20Agent%0A2%09Spirebluff%20Canal%0A2%09Steam%20Vents%0A4%09Street%20Wraith%0A4%09Striped%20Riverwinder%0A2%09Subtlety%0A4%09Violent%20Outburst%0A4%09Waker%20of%20Waves&deckside=1%09Brazen%20Borrower%0A1%09Dead/Gone%0A2%09Endurance%0A2%09Force%20of%20Vigor%0A2%09Foundation%20Breaker%0A3%09Leyline%20of%20Sanctity%0A2%09Mystical%20Dispute%0A2%09Subtlety)
 # Maindeck
 
@@ -49,13 +49,13 @@
 |                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)               |                    1|[Ingot Chewer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389558)        |
 |                    2|[Endurance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522233)            |                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)      |
 |                    2|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)  |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)      |
-|                    3|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)          |                    1|[Shriekmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220572)           |
-|                    1|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)         |                    1|[Boseiju, Who Endures](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548579)|
-|                    1|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)      |                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)   |
+|                    3|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)          |                    1|[Boseiju, Who Endures](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548579)|
+|                    1|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)         |                    1|[Shriekmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220572)           |
 |                    1|[Shriekmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220572)            |                    1|[Fury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522202)                |
-|                    1|[Archfiend of Ifnir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426780)   |                    2|[Ingot Chewer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389558)        |
-|                    2|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)      |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993) |
-|                    2|[Shriekmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220572)            |                    4|[Foundation Breaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522236)  |
+|                    1|[Archfiend of Ifnir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426780)   |                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)   |
+|                    1|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)      |                    2|[Ingot Chewer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389558)        |
+|                    2|[Shriekmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220572)            |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993) |
+|                    2|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)      |                    4|[Foundation Breaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522236)  |
 |                    3|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)      |                     |                                                                                               |
 |                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)       |                     |                                                                                               |
 |                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)       |                     |                                                                                               |
