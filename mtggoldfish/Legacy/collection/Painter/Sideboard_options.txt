@@ -16,23 +16,21 @@
 1 Mycosynth Lattice
 1 Liquimetal Coating
 3 Surgical Extraction
-1 Pyrokinesis
 1 Lion's Eye Diamond
 1 Thorn of Amethyst
-1 Dismember
-2 Dismember
 1 Hydroblast
 2 Thorn of Amethyst
+1 Dismember
+2 Dismember
 1 Sai, Master Thopterist
 1 Force of Negation
 2 Force of Negation
-1 The Antiquities War
 1 Blue Elemental Blast
+1 The Antiquities War
 2 Soul-Guide Lantern
 2 Sai, Master Thopterist
 3 Dismember
-1 Blood Moon
-2 Blood Moon
+1 Pyrokinesis
 2 Unlicensed Hearse
 1 Faerie Macabre
 1 Ancient Grudge
@@ -51,8 +49,8 @@
 2 Ancient Grudge
 1 Hullbreacher
 2 Hullbreacher
-1 Abrade
-2 Abrade
+1 Blood Moon
+2 Blood Moon
 1 Run Afoul
 2 Run Afoul
 1 Kozilek's Return
@@ -60,10 +58,19 @@
 1 Energy Flux
 1 Deafening Silence
 1 Grafdigger's Cage
-2 Kozilek's Return
 2 Energy Flux
 2 Wear/Tear
+2 Kozilek's Return
 2 Deafening Silence
+1 Spatial Contortion
+1 Veil of Summer
+1 Glacial Chasm
+1 Endurance
+1 Gerrard's Hourglass Pendant
+1 Force of Vigor
+2 Spatial Contortion
+2 Force of Vigor
+2 Endurance
 1 Carpet of Flowers
 1 Crop Rotation
 1 Helm of Obedience
@@ -75,13 +82,6 @@
 2 Trinisphere
 2 Tormod's Crypt
 3 Tormod's Crypt
-1 Maze of Ith
-1 Endurance
-1 Crucible of Worlds
-1 Force of Vigor
-2 Force of Vigor
-2 Endurance
-3 Endurance
 1 Brazen Borrower
 1 Chalice of the Void
 1 Chain of Vapor

@@ -35,6 +35,7 @@
 |                    3|[Soul Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129740)                 |                     |              |
 |                    4|[Soul Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129740)                 |                     |              |
 |                    1|[Inspiring Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555219)          |                     |              |
+|                    1|[Scoured Barrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405366)             |                     |              |
 |                    1|[Kor Skyfisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222764)               |                     |              |
 |                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)         |                     |              |
 |                    1|[Heron of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=540848)               |                     |              |
@@ -43,11 +44,10 @@
 |                    1|[Marauding Blight-Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491749)     |                     |              |
 |                    1|[Aviary Mechanic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417579)             |                     |              |
 |                    1|[Omen of the Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476361)            |                     |              |
-|                    1|[Scoured Barrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405366)             |                     |              |
 |                    1|[Impassioned Orator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=469859)          |                     |              |
 |                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)          |                     |              |
-|                    2|[Scoured Barrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405366)             |                     |              |
 |                    2|[Inspiring Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555219)          |                     |              |
+|                    2|[Scoured Barrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405366)             |                     |              |
 |                    2|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)         |                     |              |
 |                    2|[Kor Skyfisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222764)               |                     |              |
 |                    2|[Aviary Mechanic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417579)             |                     |              |
@@ -58,8 +58,8 @@
 |                    2|[Marauding Blight-Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491749)     |                     |              |
 |                    2|[Heron of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=540848)               |                     |              |
 |                    2|[Impassioned Orator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=469859)          |                     |              |
-|                    3|[Scoured Barrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405366)             |                     |              |
 |                    3|[Inspiring Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555219)          |                     |              |
+|                    3|[Scoured Barrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405366)             |                     |              |
 |                    3|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)          |                     |              |
 |                    3|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)         |                     |              |
 |                    3|[Impassioned Orator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=469859)          |                     |              |
@@ -86,10 +86,10 @@
 |                    8|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)         |                     |              |
 |                    9|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)         |                     |              |
 |                   10|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)         |                     |              |
+|                    1|[Touch the Spirit Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548335)      |                     |              |
 |                    1|[Cast Out](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426710)                    |                     |              |
 |                    1|[Ajani, Strength of the Pride](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466756)|                     |              |
 |                    1|[Authority of the Consuls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417578)    |                     |              |
-|                    1|[Touch the Spirit Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548335)      |                     |              |
 |                    1|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)         |                     |              |
 |                    1|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)                |                     |              |
 |                    1|[Trelasarra, Moon Dancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527523)     |                     |              |

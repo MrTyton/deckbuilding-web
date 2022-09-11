@@ -24,31 +24,31 @@
 1 Ignoble Hierarch
 1 Horizon Canopy
 1 Breeding Pool
-1 Temple Garden
+1 Noble Hierarch
 1 Botanical Sanctum
-1 Sacred Foundry
 1 Prismatic Vista
-1 Raugrin Triome
+1 Sacred Foundry
 1 Wall of Omens
 1 Birds of Paradise
+1 Raugrin Triome
 1 Marsh Flats
 1 Restoration Angel
 1 Kiki-Jiki, Mirror Breaker
-1 Snapcaster Mage
 1 Jetmir's Garden
 1 Path to Exile
 1 Overgrown Tomb
-1 Emrakul, the Aeons Torn
 1 Nahiri, the Harbinger
 1 Felidar Guardian
 1 Ziatora's Proving Ground
 1 Sylvan Caryatid
 1 Eternal Witness
 1 Polluted Delta
+1 Snapcaster Mage
 1 Renegade Rallier
 1 Razorverge Thicket
 1 Serra's Emissary
 1 Tireless Tracker
+1 Emrakul, the Aeons Torn
 1 Verdant Catacombs
 1 Prismatic Ending
 1 Prime Speaker Vannifar
@@ -70,7 +70,6 @@
 1 Glittering Wish
 1 Sunpetal Grove
 1 Elesh Norn, Grand Cenobite
-1 Noble Hierarch
 1 Wall of Roots
 1 Village Bell-Ringer
 1 Flooded Strand
@@ -82,6 +81,7 @@
 1 Paradise Druid
 1 Mastermind's Acquisition
 1 Zagoth Triome
+1 Temple Garden
 1 Waterlogged Grove
 1 Saheeli Rai
 1 Magus of the Moon
@@ -112,6 +112,7 @@
 2 Birds of Paradise
 2 Path to Exile
 2 Nahiri, the Harbinger
+2 Breeding Pool
 2 Teferi, Time Raveler
 2 Tireless Tracker
 2 Marsh Flats
@@ -137,7 +138,6 @@
 2 Eladamri's Call
 2 Prime Speaker Vannifar
 2 Flooded Strand
-2 Breeding Pool
 2 Chord of Calling
 2 Madcap Experiment
 2 Sylvan Caryatid
@@ -150,9 +150,9 @@
 2 Wall of Roots
 3 Noble Hierarch
 3 Ignoble Hierarch
+3 Polluted Delta
 3 Snapcaster Mage
 3 Teferi, Time Raveler
-3 Polluted Delta
 3 Windswept Heath
 3 Wall of Omens
 3 Nahiri, the Harbinger

@@ -1,27 +1,21 @@
-1 Shadowspear
-1 Urza's Saga
 1 Snow-Covered Plains
+1 Shadowspear
 2 Snow-Covered Plains
 3 Snow-Covered Plains
 2 Urza's Saga
 3 Urza's Saga
+2 Field of Ruin
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 4 Flickerwisp
+7 Snow-Covered Plains
 2 Flagstones of Trokair
 2 Cathar Commando
 17 Plains
-7 Snow-Covered Plains
+4 Urza's Saga
 2 Timeless Dragon
 4 Skyclave Apparition
-4 Urza's Saga
-8 Snow-Covered Plains
-1 Palace Jailer
-1 Charming Prince
-18 Plains
-19 Plains
-1 Rest in Peace
 1 Prismatic Vista
 1 Arid Mesa
 1 Mountain
@@ -36,20 +30,26 @@
 3 Prismatic Vista
 4 Prismatic Vista
 4 Arid Mesa
+8 Snow-Covered Plains
+1 Palace Jailer
+1 Charming Prince
+18 Plains
+19 Plains
+1 Fable of the Mirror-Breaker
+2 Fable of the Mirror-Breaker
+3 Flooded Strand
 9 Snow-Covered Plains
 10 Snow-Covered Plains
 11 Snow-Covered Plains
 12 Snow-Covered Plains
+1 Serra Paragon
 1 Silent Clearing
+1 Ancient Tomb
 1 The Wandering Emperor
+1 Rest in Peace
 1 Tower of the Magistrate
 1 Aven Mindcensor
 2 Aven Mindcensor
-2 Extraction Specialist
-2 Rest in Peace
-1 Fable of the Mirror-Breaker
-2 Fable of the Mirror-Breaker
-3 Flooded Strand
 2 Magus of the Moon
 3 Plateau
 1 Ephemerate
@@ -67,7 +67,6 @@
 17 Snow-Covered Plains
 18 Snow-Covered Plains
 19 Snow-Covered Plains
-1 Ancient Tomb
 1 Luminarch Aspirant
 1 Mirran Crusader
 1 Sword of Fire and Ice
@@ -75,3 +74,22 @@
 1 Righteous Valkyrie
 1 Containment Priest
 2 Righteous Valkyrie
+1 Pithing Needle
+1 Anointed Peacekeeper
+1 Hushbringer
+1 Tocatli Honor Guard
+1 Phyrexian Dreadnought
+1 Scroll of Fate
+2 Ancient Tomb
+2 Serra Paragon
+2 Anointed Peacekeeper
+2 Hushbringer
+2 Tocatli Honor Guard
+2 Phyrexian Dreadnought
+2 Scroll of Fate
+3 Hushbringer
+3 Ancient Tomb
+3 Phyrexian Dreadnought
+4 Hushbringer
+4 Phyrexian Dreadnought
+4 Ancient Tomb

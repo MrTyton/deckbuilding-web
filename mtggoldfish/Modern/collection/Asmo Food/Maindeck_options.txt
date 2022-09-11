@@ -2,48 +2,47 @@
 1 Street Wraith
 2 Street Wraith
 3 Street Wraith
-4 Street Wraith
 1 Yavimaya, Cradle of Growth
 1 Forest
 1 Finale of Devastation
 2 Finale of Devastation
 3 Finale of Devastation
 1 Verdant Catacombs
-1 Gilded Goose
 1 Overgrown Tomb
+1 Gilded Goose
+1 Urborg, Tomb of Yawgmoth
+1 Trail of Crumbs
 2 Verdant Catacombs
 2 Overgrown Tomb
 2 Gilded Goose
+2 Trail of Crumbs
 3 Verdant Catacombs
 3 Gilded Goose
 4 Gilded Goose
 4 Verdant Catacombs
+4 Street Wraith
 4 Finale of Devastation
-1 Urborg, Tomb of Yawgmoth
-1 Trail of Crumbs
-2 Trail of Crumbs
+3 Trail of Crumbs
 1 Witch's Oven
 1 Blooming Marsh
-1 Cauldron Familiar
 1 Feasting Troll King
+1 Cauldron Familiar
 2 Blooming Marsh
-2 Witch's Oven
 2 Cauldron Familiar
-3 Overgrown Tomb
 3 Blooming Marsh
 3 Cauldron Familiar
-3 Witch's Oven
 4 Blooming Marsh
-3 Trail of Crumbs
+1 Pithing Needle
+2 Darkslick Shores
+2 Witch's Oven
+3 Overgrown Tomb
+3 Witch's Oven
+4 Trail of Crumbs
+2 Feasting Troll King
+1 Boseiju, Who Endures
 4 Cauldron Familiar
 4 Witch's Oven
-2 Feasting Troll King
-2 Darkslick Shores
-1 Pithing Needle
-1 Boseiju, Who Endures
-4 Trail of Crumbs
 1 Blood Crypt
-4 Overgrown Tomb
 1 Bloodstained Mire
 1 Scalding Tarn
 1 Steam Vents
@@ -52,6 +51,7 @@
 3 Goblin Engineer
 2 Bloodstained Mire
 3 Darkslick Shores
+4 Overgrown Tomb
 1 Mountain
 1 Voldaren Epicure
 1 Ragavan, Nimble Pilferer
@@ -73,7 +73,6 @@
 2 Scalding Tarn
 3 Shrapnel Blast
 4 Shrapnel Blast
-2 Boseiju, Who Endures
 3 Mountain
 3 Voldaren Epicure
 4 Voldaren Epicure
@@ -83,19 +82,15 @@
 3 Windswept Heath
 4 Windswept Heath
 1 Nurturing Peatland
-1 Greasefang, Okiba Boss
 1 Parhelion II
+1 Greasefang, Okiba Boss
 2 Greasefang, Okiba Boss
 2 Parhelion II
 3 Greasefang, Okiba Boss
 3 Parhelion II
-4 Parhelion II
 4 Greasefang, Okiba Boss
+4 Parhelion II
 2 Island
-1 Nettlecyst
-1 Life from the Loam
-2 Life from the Loam
-3 Feasting Troll King
 1 Blackcleave Cliffs
 1 Mayhem Devil
 1 Mausoleum Secrets
@@ -105,7 +100,10 @@
 3 Blackcleave Cliffs
 3 Mausoleum Secrets
 4 Blackcleave Cliffs
+1 Nettlecyst
+3 Feasting Troll King
 1 Ramunap Ruins
+1 Soul-Guide Lantern
 4 Goblin Engineer
 1 Mox Amber
 1 Shinka, the Bloodsoaked Keep
@@ -113,6 +111,13 @@
 1 Sokenzan, Crucible of Defiance
 2 Den of the Bugbear
 3 Den of the Bugbear
+2 Boseiju, Who Endures
+1 Fatal Push
+1 Darkbore Pathway
+2 Fatal Push
+2 Darkbore Pathway
+3 Fatal Push
+4 Fatal Push
 4 Mausoleum Secrets
 1 Spirebluff Canal
 1 Expressive Iteration
@@ -128,10 +133,11 @@
 4 Expressive Iteration
 2 Marsh Flats
 2 Mox Amber
+1 Life from the Loam
 1 Unmarked Grave
+2 Life from the Loam
 2 Nettlecyst
 2 Flooded Strand
-3 Life from the Loam
 2 Blood Crypt
 4 Bloodstained Mire
 1 Arid Mesa
@@ -191,7 +197,6 @@
 4 Trash for Treasure
 1 Mishra's Factory
 1 Ghirapur Aether Grid
-1 Soul-Guide Lantern
 2 Ramunap Ruins
 2 Mishra's Factory
 2 Ghirapur Aether Grid

@@ -20,3 +20,15 @@
 |2 [Reckoner Bankbuster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548568)|2 [Lion Sash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548319)|4 [March of Otherworldly Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548321)|2 [Farewell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548306)      |2 Wedding Announcement|
 |1 [Unlicensed Hearse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555447)  |                                                                                      |                                                                                                        |2 [Sunset Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534796)|                      |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                            Maindeck Card                                             |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|--------------------:|------------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                    1|[Sunset Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534796)             |                    1|[Valorous Stance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391950) |
+|                    2|[Eiganjo, Seat of the Empire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548581)|                    1|Temporary Lockdown                                                                         |
+|                    2|Wedding Announcement                                                                                  |                    1|[Sungold Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534795)|
+|                     |                                                                                                      |                    2|[Valorous Stance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391950) |
+|                     |                                                                                                      |                    2|Temporary Lockdown                                                                         |
+|                     |                                                                                                      |                    2|[Sungold Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534795)|
+
