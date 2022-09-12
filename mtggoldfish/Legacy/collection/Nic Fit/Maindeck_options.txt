@@ -11,14 +11,14 @@
 1 Thoughtseize
 1 Abrupt Decay
 2 Uro, Titan of Nature's Wrath
-1 Ice-Fang Coatl
 1 Snow-Covered Island
 1 Underground Sea
+1 Ice-Fang Coatl
 1 Brainstorm
-2 Ice-Fang Coatl
 2 Brainstorm
-3 Ice-Fang Coatl
+2 Ice-Fang Coatl
 3 Misty Rainforest
+3 Ice-Fang Coatl
 3 Deadly Brew
 2 Snow-Covered Swamp
 1 Leovold, Emissary of Trest
@@ -43,16 +43,16 @@
 2 Snow-Covered Island
 2 Ponder
 3 Ponder
+1 Living Wish
 1 Acererak the Archlich
 1 Force of Will
 1 Aluren
-1 Living Wish
-2 Force of Will
 2 Living Wish
+2 Force of Will
 2 Aluren
+3 Living Wish
 3 Snow-Covered Island
 3 Force of Will
-3 Living Wish
 3 Aluren
 4 Force of Will
 4 Aluren
@@ -61,10 +61,10 @@
 1 Diabolic Intent
 1 Polluted Delta
 1 Mountain
-1 Badlands
 1 Greater Gargadon
 1 Titania, Protector of Argoth
 1 Mayhem Devil
+1 Badlands
 2 Titania, Protector of Argoth
 2 Greater Gargadon
 2 Mayhem Devil
@@ -170,11 +170,11 @@
 1 Tourach, Dread Cantor
 1 Sarulf, Realm Eater
 1 Hexdrinker
+1 Volrath's Stronghold
 1 Nurturing Peatland
 1 Ramunap Excavator
 1 The Gitrog Monster
 1 Collector Ouphe
-1 Volrath's Stronghold
 1 Plumb the Forbidden
 2 Henrika Domnathi
 1 Valki, God of Lies
@@ -183,8 +183,8 @@
 2 The Meathook Massacre
 1 Shriekmaw
 2 Shriekmaw
-1 Scrubland
 1 Plains
+1 Scrubland
 2 Phyrexian Tower
 3 Boseiju, Who Endures
 1 Ob Nixilis, the Adversary
@@ -194,20 +194,24 @@
 2 Vivien, Monsters' Advocate
 3 Sedgemoor Witch
 3 Windswept Heath
-1 Abundant Harvest
 1 Fatal Push
+1 Abundant Harvest
 2 Fatal Push
 2 Underground Sea
 2 Abundant Harvest
+3 Abrupt Decay
 3 Abundant Harvest
 3 Thoughtseize
-3 Abrupt Decay
 1 Cavern Harpy
 2 Cavern Harpy
 3 Polluted Delta
 1 Dauthi Voidwalker
 2 Dauthi Voidwalker
 3 Dauthi Voidwalker
+1 Elvish Reclaimer
+1 Korvold, Fae-Cursed King
+3 Fury
+4 Once Upon a Time
 1 Carnage Tyrant
 1 Xanathar, Guild Kingpin
 1 Koma, Cosmos Serpent
@@ -215,10 +219,6 @@
 2 Leovold, Emissary of Trest
 2 Allosaurus Shepherd
 4 Ice-Fang Coatl
-1 Elvish Reclaimer
-1 Korvold, Fae-Cursed King
-3 Fury
-4 Once Upon a Time
 2 Prismatic Vista
 3 Bayou
 4 Bayou
@@ -230,8 +230,8 @@
 1 Garruk, Cursed Huntsman
 1 Canopy Vista
 2 Snow-Covered Plains
-2 Crop Rotation
 2 Duress
+2 Crop Rotation
 2 Dead of Winter
 5 Snow-Covered Forest
 4 Arena Rector
