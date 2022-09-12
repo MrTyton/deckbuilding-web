@@ -1,9 +1,9 @@
 1 Needleverge Pathway
 1 Inspiring Vantage
-2 Inspiring Vantage
 2 Needleverge Pathway
-3 Inspiring Vantage
+2 Inspiring Vantage
 3 Needleverge Pathway
+3 Inspiring Vantage
 4 Needleverge Pathway
 1 Esper Sentinel
 2 Esper Sentinel
@@ -88,9 +88,9 @@
 1 Felidar Guardian
 1 Shatterskull Smashing
 1 Kiki-Jiki, Mirror Breaker
-1 Flooded Strand
 1 Island
 1 Lavinia, Azorius Renegade
+1 Flooded Strand
 1 Hallowed Fountain
 2 Flooded Strand
 3 Flooded Strand
@@ -100,24 +100,24 @@
 1 Restoration Angel
 3 Path to Exile
 4 Path to Exile
-1 Razorverge Thicket
 1 Ambitious Farmhand
-1 Temple Garden
 1 Forest
+1 Razorverge Thicket
+1 Temple Garden
 1 Fauna Shaman
 1 Gavony Dawnguard
+2 Razorverge Thicket
 2 Temple Garden
 2 Ambitious Farmhand
-2 Razorverge Thicket
 2 Gavony Dawnguard
 2 Fauna Shaman
-3 Windswept Heath
 3 Razorverge Thicket
 3 Ambitious Farmhand
 3 Fauna Shaman
 3 Tectonic Edge
-4 Windswept Heath
+3 Windswept Heath
 4 Razorverge Thicket
+4 Windswept Heath
 4 Tectonic Edge
 4 Fauna Shaman
 1 Touch the Spirit Realm
@@ -148,24 +148,24 @@
 4 Anointed Peacekeeper
 1 Unsettled Mariner
 1 Giant Killer
-1 Deputy of Detention
 1 Hengegate Pathway
 1 Marsh Flats
 1 Ranger-Captain of Eos
 1 Relic of Progenitus
 1 Weathered Wayfarer
+1 Deputy of Detention
 1 Voyager Staff
 2 Unsettled Mariner
-2 Deputy of Detention
 2 Ranger-Captain of Eos
 2 Marsh Flats
 2 Lavinia, Azorius Renegade
+2 Deputy of Detention
 2 Hallowed Fountain
 2 Hengegate Pathway
 3 Unsettled Mariner
-3 Lavinia, Azorius Renegade
 3 Deputy of Detention
 3 Hallowed Fountain
+3 Lavinia, Azorius Renegade
 3 Ranger-Captain of Eos
 3 Hengegate Pathway
 4 Ranger-Captain of Eos
@@ -191,9 +191,9 @@
 1 Aven Mindcensor
 2 Restoration Angel
 3 Horizon Canopy
-15 Plains
 1 Blade Splicer
 2 Blade Splicer
 3 Blade Splicer
 3 Cave of the Frost Dragon
 4 Blade Splicer
+15 Plains

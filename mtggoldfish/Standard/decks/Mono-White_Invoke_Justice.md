@@ -25,10 +25,10 @@
 
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                             |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|------------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Sunset Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534796)             |                    1|[Valorous Stance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391950) |
-|                    2|[Eiganjo, Seat of the Empire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548581)|                    1|Temporary Lockdown                                                                         |
+|                    1|[Sunset Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534796)             |                    1|Temporary Lockdown                                                                         |
+|                    2|[Eiganjo, Seat of the Empire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548581)|                    1|[Valorous Stance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391950) |
 |                    2|Wedding Announcement                                                                                  |                    1|[Sungold Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534795)|
-|                     |                                                                                                      |                    2|[Valorous Stance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391950) |
 |                     |                                                                                                      |                    2|Temporary Lockdown                                                                         |
+|                     |                                                                                                      |                    2|[Valorous Stance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391950) |
 |                     |                                                                                                      |                    2|[Sungold Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534795)|
 

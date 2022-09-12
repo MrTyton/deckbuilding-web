@@ -26,8 +26,8 @@
 1 Boseiju, Who Endures
 1 Noble Hierarch
 1 Temple Garden
-2 Noble Hierarch
 2 Snow-Covered Forest
+2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
 1 Eiganjo, Seat of the Empire
@@ -47,8 +47,8 @@
 4 March of Otherworldly Light
 1 Endurance
 3 Chalice of the Void
-1 Ephemerate
 1 Eternal Witness
+1 Ephemerate
 2 Ephemerate
 3 Ephemerate
 2 Endurance
@@ -61,14 +61,14 @@
 2 Memory Deluge
 1 Prismatic Vista
 1 Abundant Growth
-2 Abundant Growth
 2 Prismatic Vista
+2 Abundant Growth
 3 Abundant Growth
 4 Abundant Growth
 1 Opt
 2 Opt
-3 Snapcaster Mage
 3 Opt
+3 Snapcaster Mage
 1 Deputy of Detention
 1 Time Warp
 1 Flooded Grove
@@ -98,86 +98,84 @@
 3 Charming Prince
 3 Skyclave Apparition
 3 Coiling Oracle
-1 Collected Company
 1 Wall of Blossoms
 1 Glasspool Mimic
-2 Collected Company
+1 Collected Company
 2 Glasspool Mimic
+2 Collected Company
+3 Wall of Omens
 3 Collected Company
 3 Eternal Witness
-3 Wall of Omens
-4 Collected Company
 4 Wall of Omens
+4 Collected Company
 4 Island
 5 Island
 1 Birds of Paradise
 1 Batterskull
-1 Sword of Fire and Ice
-1 Kaldra Compleat
 1 Stoneforge Mystic
+1 Kaldra Compleat
+1 Sword of Fire and Ice
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
 1 Spell Queller
 2 Spell Queller
 3 Spell Queller
-3 Memory Deluge
 3 Polluted Delta
 3 Hall of Storm Giants
+3 Memory Deluge
 4 Polluted Delta
 6 Snow-Covered Island
 4 Supreme Verdict
 1 Glacial Fortress
 1 Field of Ruin
-2 Celestial Colonnade
 2 Field of Ruin
+2 Celestial Colonnade
 4 Windswept Heath
 3 Dress Down
 1 Vesperlark
 2 Wall of Blossoms
 1 Shark Typhoon
 1 Dovin's Veto
-1 Lion Sash
 1 Castle Ardenvale
-1 Prairie Stream
-3 Prismatic Vista
-4 Prismatic Vista
+1 Lion Sash
+1 Omen of the Sea
 1 Restoration Angel
 1 Qasali Ambusher
 1 Vendilion Clique
-1 Omen of the Sea
-2 Restoration Angel
-2 Qasali Ambusher
-2 Vendilion Clique
 2 Omen of the Sea
-3 Scalding Tarn
+2 Restoration Angel
+2 Vendilion Clique
+2 Qasali Ambusher
 3 Restoration Angel
 3 Omen of the Sea
+3 Scalding Tarn
 4 Scalding Tarn
+1 Prairie Stream
+3 Prismatic Vista
+4 Prismatic Vista
 1 Emrakul, the Promised End
 2 Glacial Fortress
 2 Emrakul, the Promised End
+3 Field of Ruin
 3 Glacial Fortress
 3 Jace, the Mind Sculptor
 3 Celestial Colonnade
-3 Field of Ruin
+4 Field of Ruin
 4 Fire/Ice
 4 Dress Down
-4 Field of Ruin
 6 Island
+1 Consider
 1 Timeless Dragon
 1 Thrun, the Last Troll
-1 Consider
 1 Eladamri's Call
-1 Toski, Bearer of Secrets
 1 Rimewood Falls
+1 Toski, Bearer of Secrets
 2 Eladamri's Call
 2 Birds of Paradise
 2 Toski, Bearer of Secrets
 3 Snow-Covered Forest
 3 Endurance
-2 Deputy of Detention
-4 Soulherder
 1 Seachrome Coast
 1 Brazen Borrower
 1 Svyelun of Sea and Sky
@@ -186,13 +184,15 @@
 2 Brazen Borrower
 2 Svyelun of Sea and Sky
 2 Merfolk Trickster
-3 Subtlety
-3 Brazen Borrower
 3 Seachrome Coast
+3 Brazen Borrower
+3 Subtlety
 3 Merfolk Trickster
 3 Svyelun of Sea and Sky
+4 Seachrome Coast
 4 Brazen Borrower
 4 Spell Queller
 4 Merfolk Trickster
 4 Svyelun of Sea and Sky
-4 Seachrome Coast
+2 Deputy of Detention
+4 Soulherder
