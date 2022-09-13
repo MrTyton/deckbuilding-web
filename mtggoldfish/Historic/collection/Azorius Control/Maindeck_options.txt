@@ -41,8 +41,8 @@
 3 Strict Proctor
 3 Lotus Field
 4 Lotus Field
-1 Spell Pierce
 1 Brazen Borrower
+1 Spell Pierce
 2 Spell Pierce
 4 Fateful Absence
 1 Cave of the Frost Dragon
@@ -55,15 +55,15 @@
 1 Absorb
 2 Absorb
 1 Seek New Knowledge
-2 Field of Ruin
 2 Saiba Syphoner
 2 Plains
+2 Field of Ruin
 3 Saiba Syphoner
 1 Supreme Verdict
+1 Forsaken Crossroads
 1 Failure/Comply
 1 Gates of Istfell
 1 Discover the Impossible
-1 Forsaken Crossroads
 1 Cavalier of Gales
 1 Grafdigger's Cage
 1 Timely Reinforcements
@@ -102,17 +102,19 @@
 2 Settle the Wreckage
 3 Raugrin Triome
 3 Discontinuity
-1 Borrowed Time
 1 Doomskar
+1 Borrowed Time
 1 Ashiok's Erasure
 1 Mana Tithe
 1 Thirst for Meaning
-2 Borrowed Time
 2 Doomskar
+2 Borrowed Time
 2 Thirst for Meaning
 3 Wrath of God
 3 Rest in Peace
 3 Doomskar
+3 Portable Hole
+4 Portable Hole
 1 Temple of Enlightenment
 1 Frantic Inventory
 1 Tranquil Cove
@@ -146,5 +148,3 @@
 4 Fragment Reality
 2 Mystical Dispute
 4 Divine Purge
-3 Portable Hole
-4 Portable Hole

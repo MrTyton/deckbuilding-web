@@ -23,7 +23,6 @@
 1 Island
 1 Prismatic Vista
 1 Razorverge Thicket
-1 Scavenging Ooze
 1 Verdant Catacombs
 1 Overgrown Tomb
 1 Wall of Omens
@@ -33,6 +32,7 @@
 1 Raugrin Triome
 1 Restoration Angel
 1 Kiki-Jiki, Mirror Breaker
+1 Scavenging Ooze
 1 Temple Garden
 1 Noble Hierarch
 1 Ignoble Hierarch
@@ -41,6 +41,7 @@
 1 Nahiri, the Harbinger
 1 Felidar Guardian
 1 Neoform
+1 Chord of Calling
 1 Sylvan Caryatid
 1 Waterlogged Grove
 1 Eternal Witness
@@ -48,6 +49,7 @@
 1 Serra's Emissary
 1 Boseiju, Who Shelters All
 1 Knight of the Reliquary
+1 Sunpetal Grove
 1 Path to Exile
 1 Ziatora's Proving Ground
 1 Tireless Tracker
@@ -71,11 +73,9 @@
 1 Gifts Ungiven
 1 Lotus Cobra
 1 Hallowed Fountain
-1 Chord of Calling
 1 Arbor Elf
 1 Unburial Rites
 1 Glittering Wish
-1 Sunpetal Grove
 1 Elesh Norn, Grand Cenobite
 1 Wall of Roots
 1 Village Bell-Ringer
@@ -108,7 +108,6 @@
 2 Wall of Omens
 2 Breeding Pool
 2 Finale of Devastation
-2 Eternal Witness
 2 Restoration Angel
 2 Noble Hierarch
 2 Birds of Paradise
@@ -117,11 +116,13 @@
 2 Neoform
 2 Marsh Flats
 2 Horizon Canopy
+2 Sunpetal Grove
 2 Path to Exile
 2 Knight of the Reliquary
 2 Tireless Tracker
 2 Eladamri's Call
 2 Devoted Druid
+2 Eternal Witness
 2 Wall of Blossoms
 2 Saheeli Rai
 2 Bring to Light
@@ -145,7 +146,6 @@
 2 Renegade Rallier
 2 Felidar Guardian
 2 Glittering Wish
-2 Sunpetal Grove
 2 Polluted Delta
 2 Wall of Roots
 3 Snapcaster Mage
