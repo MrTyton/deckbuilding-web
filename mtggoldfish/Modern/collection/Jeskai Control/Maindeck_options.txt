@@ -1,31 +1,50 @@
-2 Steam Vents
-4 Shark Typhoon
-2 Hall of Storm Giants
-1 March of Otherworldly Light
-1 Jace, the Mind Sculptor
 2 Scalding Tarn
-1 Spirebluff Canal
+1 Jace, the Mind Sculptor
+4 Solitude
 1 Lightning Bolt
 2 Lightning Bolt
-3 Scalding Tarn
-2 Spirebluff Canal
-2 March of Otherworldly Light
-1 Spara's Headquarters
+1 Spirebluff Canal
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
+3 Scalding Tarn
+2 Spirebluff Canal
+3 Lightning Bolt
+4 Lightning Bolt
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
+4 Ragavan, Nimble Pilferer
 2 Jace, the Mind Sculptor
+2 Hall of Storm Giants
+4 Shark Typhoon
+1 March of Otherworldly Light
+1 Spell Pierce
+2 Spell Pierce
+1 Batterskull
+1 Kaldra Compleat
+1 Stoneforge Mystic
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+4 Stoneforge Mystic
+1 The Wandering Emperor
+1 Timeless Dragon
+1 Spara's Headquarters
+3 Snapcaster Mage
+2 March of Otherworldly Light
+1 Brazen Borrower
 3 Memory Deluge
+1 Sacred Foundry
 2 Teferi, Hero of Dominaria
 1 Cryptic Command
 2 Raugrin Triome
-1 Sacred Foundry
 1 Fury
 2 Fury
 3 Fury
 4 Fury
 2 Cryptic Command
 3 Cryptic Command
+1 Seachrome Coast
 1 Lotus Field
 1 Blood Sun
 1 Flagstones of Trokair
@@ -36,8 +55,8 @@
 2 Flagstones of Trokair
 3 Blood Sun
 3 Lotus Field
-3 Teferi, Hero of Dominaria
 3 Valakut Awakening
+3 Teferi, Hero of Dominaria
 3 Flagstones of Trokair
 4 Blood Sun
 4 Lotus Field
@@ -46,98 +65,76 @@
 4 Flagstones of Trokair
 4 Teferi, Hero of Dominaria
 3 Chalice of the Void
-3 Lightning Bolt
-3 Snapcaster Mage
-4 Lightning Bolt
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
-4 Ragavan, Nimble Pilferer
-1 The Wandering Emperor
-1 Timeless Dragon
-1 Seachrome Coast
-1 Spell Pierce
-2 Spell Pierce
-1 Batterskull
-1 Stoneforge Mystic
-1 Kaldra Compleat
-2 Stoneforge Mystic
-3 Stoneforge Mystic
-4 Stoneforge Mystic
-2 Seachrome Coast
-4 Memory Deluge
 4 Fire/Ice
 2 Polluted Delta
+2 The Wandering Emperor
 1 Dress Down
 4 Island
 4 Snapcaster Mage
-2 The Wandering Emperor
-1 Brazen Borrower
-4 Teferi, Time Raveler
+2 Seachrome Coast
+4 Memory Deluge
 1 Opt
 2 Opt
 3 Opt
 1 Path to Exile
 2 Path to Exile
 4 Scalding Tarn
+4 Teferi, Time Raveler
 1 Sulfur Falls
 4 Opt
 4 Expressive Iteration
+1 Arid Mesa
 3 March of Otherworldly Light
 3 Misty Rainforest
 4 Misty Rainforest
 1 Fateful Absence
-3 Spirebluff Canal
-4 Chalice of the Void
-1 Arid Mesa
 2 Plains
 2 Dress Down
 1 Field of Ruin
 2 Field of Ruin
+1 Sunbaked Canyon
+1 Fiery Islet
+1 Mana Leak
+1 Hushbringer
+1 Luminarch Aspirant
+1 Mountain
+1 Bonecrusher Giant
+1 Esper Sentinel
+2 Hushbringer
+2 Luminarch Aspirant
+2 Arid Mesa
+2 Esper Sentinel
+2 Sunbaked Canyon
+3 Esper Sentinel
+3 Hushbringer
+3 Luminarch Aspirant
+4 Esper Sentinel
+4 Hushbringer
+4 Luminarch Aspirant
+1 Unholy Heat
 1 Snow-Covered Plains
 1 Snow-Covered Island
 2 Snow-Covered Island
 2 Celestial Colonnade
+2 Timeless Dragon
 2 Glacial Fortress
-1 Unholy Heat
-3 Steam Vents
-2 Arid Mesa
 1 Flame Blitz
 2 Flame Blitz
 1 Surgical Extraction
 1 Marsh Flats
 1 Watery Grave
-1 Esper Sentinel
-1 Sunbaked Canyon
-1 Fiery Islet
+1 Den of the Bugbear
+1 Anointed Peacekeeper
+2 Anointed Peacekeeper
+2 Bonecrusher Giant
+3 Anointed Peacekeeper
 1 Chandra, Torch of Defiance
-1 Mana Leak
-1 Hushbringer
-1 Mountain
-1 Bonecrusher Giant
-1 Luminarch Aspirant
 1 Ionize
-2 Esper Sentinel
 2 Fiery Islet
-2 Hushbringer
-2 Luminarch Aspirant
-2 Sunbaked Canyon
-3 Esper Sentinel
-3 Hushbringer
 3 Sunbaked Canyon
-3 Luminarch Aspirant
-4 Esper Sentinel
-4 Hushbringer
-4 Luminarch Aspirant
 1 Rest in Peace
 1 Nexus of Fate
 1 Cascade Bluffs
-1 Izzet Boilerworks
-1 Azorius Chancery
-1 Ephemerate
-2 Unholy Heat
-2 Sulfur Falls
-2 Ephemerate
 1 Consider
 1 Search for Azcanta
 1 Lightning Helix
@@ -145,12 +142,16 @@
 2 Consider
 2 Lightning Helix
 2 Search for Azcanta
-2 Timeless Dragon
 3 Consider
+1 Ephemerate
+2 Unholy Heat
+2 Sulfur Falls
+2 Ephemerate
+3 Steam Vents
 1 Spreading Seas
 1 Windswept Heath
-1 Castle Ardenvale
 1 Breeding Pool
+1 Castle Ardenvale
 1 Prairie Stream
 2 Spreading Seas
 2 Windswept Heath
@@ -160,44 +161,12 @@
 2 Fateful Absence
 3 Polluted Delta
 3 Snow-Covered Island
+3 Spirebluff Canal
+4 Chalice of the Void
 1 Spell Snare
 3 Hallowed Fountain
 3 Field of Ruin
 4 Field of Ruin
-1 Bloodstained Mire
-1 Remand
-1 Hard Evidence
-1 Kiki-Jiki, Mirror Breaker
-1 Silence
-1 Strike It Rich
-1 Indomitable Creativity
-1 Fable of the Mirror-Breaker
-1 Wooded Foothills
-1 Prismari Command
-1 Dwarven Mine
-1 Combat Celebrant
-2 Prismari Command
-2 Bloodstained Mire
-2 Remand
-2 Hard Evidence
-2 Silence
-2 Sacred Foundry
-2 Wooded Foothills
-2 Strike It Rich
-2 Dwarven Mine
-2 Fable of the Mirror-Breaker
-2 Indomitable Creativity
-3 Wooded Foothills
-3 Fable of the Mirror-Breaker
-3 Indomitable Creativity
-3 Dwarven Mine
-3 Arid Mesa
-3 Strike It Rich
-4 Fable of the Mirror-Breaker
-4 Wooded Foothills
-4 Dwarven Mine
-4 Indomitable Creativity
-4 Arid Mesa
 1 Force of Negation
 1 Piracy Charm
 2 Piracy Charm

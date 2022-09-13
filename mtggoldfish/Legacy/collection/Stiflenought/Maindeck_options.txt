@@ -87,16 +87,9 @@
 2 Bayou
 3 Verdant Catacombs
 3 Abrupt Decay
-1 Swamp
-1 Baleful Strix
-2 Baleful Strix
-3 Baleful Strix
-3 Fatal Push
-4 Baleful Strix
-4 Underground Sea
+1 Savannah
 1 Esper Sentinel
 1 Prismatic Ending
-1 Savannah
 2 Esper Sentinel
 2 Scroll of Fate
 2 Prismatic Ending
@@ -104,23 +97,7 @@
 3 Tundra
 3 Esper Sentinel
 4 Esper Sentinel
-1 Ledger Shredder
-1 Otawara, Soaring City
-1 Consider
-1 Sailors' Bane
-2 Ledger Shredder
-2 Breeding Pool
-2 Consider
-2 Sailors' Bane
-3 Ledger Shredder
-3 Breeding Pool
-3 Consider
-3 Sailors' Bane
-4 Ledger Shredder
-4 Breeding Pool
-4 Consider
 1 Not of This World
-1 Lightning Greaves
 1 Path to Exile
 1 Enlightened Tutor
 1 Pithing Needle
@@ -129,6 +106,7 @@
 1 Torpor Orb
 1 Strict Proctor
 1 Teferi's Protection
+1 Lightning Greaves
 1 Artificer Class
 1 Prismatic Vista
 1 Plains
@@ -140,12 +118,19 @@
 2 Torpor Orb
 2 Prismatic Vista
 3 Enlightened Tutor
-3 Force of Negation
 3 Torpor Orb
 3 Prismatic Vista
+3 Force of Negation
 3 Strict Proctor
 4 Prismatic Vista
 4 Enlightened Tutor
+1 Swamp
+1 Baleful Strix
+2 Baleful Strix
+3 Fatal Push
+3 Baleful Strix
+4 Underground Sea
+4 Baleful Strix
 1 Unholy Heat
 1 Steam Vents
 1 Dragon's Rage Channeler
@@ -154,6 +139,21 @@
 2 Mishra's Bauble
 3 Dragon's Rage Channeler
 4 Dragon's Rage Channeler
+1 Ledger Shredder
+1 Otawara, Soaring City
+1 Consider
+1 Sailors' Bane
+2 Ledger Shredder
+2 Breeding Pool
+2 Sailors' Bane
+2 Consider
+3 Breeding Pool
+3 Ledger Shredder
+3 Consider
+3 Sailors' Bane
+4 Breeding Pool
+4 Ledger Shredder
+4 Consider
 1 Preordain
 1 Misdirection
 1 You See a Guard Approach

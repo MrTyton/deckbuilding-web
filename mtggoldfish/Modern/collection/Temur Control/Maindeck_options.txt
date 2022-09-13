@@ -2,8 +2,8 @@
 1 Archmage's Charm
 2 Archmage's Charm
 1 Snow-Covered Forest
-1 Ice-Fang Coatl
 1 Snow-Covered Island
+1 Ice-Fang Coatl
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
@@ -33,8 +33,8 @@
 1 Counterspell
 2 Counterspell
 3 Counterspell
-4 Scalding Tarn
 4 Counterspell
+4 Scalding Tarn
 1 Snapcaster Mage
 2 Breeding Pool
 1 Hullbreaker Horror
@@ -46,9 +46,9 @@
 1 Endurance
 1 Jace, the Mind Sculptor
 1 Consider
-2 Consider
-2 Snapcaster Mage
 2 Jace, the Mind Sculptor
+2 Snapcaster Mage
+2 Consider
 3 Consider
 4 Consider
 3 Cryptic Command
@@ -57,26 +57,26 @@
 2 Search for Tomorrow
 3 Search for Tomorrow
 4 Search for Tomorrow
-1 Abundant Growth
+1 Flooded Strand
 1 Opt
 1 Lonely Sandbar
 1 Hall of Storm Giants
-1 Flooded Strand
+1 Abundant Growth
 1 Mishra's Bauble
-2 Abundant Growth
-2 Opt
 2 Flooded Strand
+2 Opt
+2 Abundant Growth
 2 Mishra's Bauble
-3 Abundant Growth
-3 Snapcaster Mage
 3 Flooded Strand
+3 Snapcaster Mage
 3 Mishra's Bauble
-4 Abundant Growth
-4 Snapcaster Mage
-4 Unholy Heat
+3 Abundant Growth
 4 Snow-Covered Island
 4 Flooded Strand
+4 Snapcaster Mage
+4 Abundant Growth
 4 Mishra's Bauble
+4 Unholy Heat
 5 Snow-Covered Island
 2 Endurance
 1 Silundi Vision
@@ -85,9 +85,6 @@
 2 Galvanic Iteration
 2 Repeal
 3 Galvanic Iteration
-1 Impulse
-4 Wooded Foothills
-4 Arboreal Grazer
 1 Brazen Borrower
 2 Memory Deluge
 2 Brazen Borrower
@@ -95,20 +92,23 @@
 3 Brazen Borrower
 4 Brazen Borrower
 1 Reflecting Pool
-1 Rimewood Falls
 1 Time Warp
-2 Reflecting Pool
+1 Rimewood Falls
 2 Time Warp
+2 Reflecting Pool
 3 Fury
 3 Time Warp
 4 Time Warp
 1 Discover the Impossible
+1 Flooded Grove
 1 Peer Through Depths
 1 Izzet Charm
-1 Flooded Grove
 2 Discover the Impossible
 2 Peer Through Depths
 2 Flooded Grove
 3 Discover the Impossible
 4 Cryptic Command
 4 Discover the Impossible
+1 Impulse
+4 Arboreal Grazer
+4 Wooded Foothills

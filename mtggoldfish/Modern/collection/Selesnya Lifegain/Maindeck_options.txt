@@ -18,8 +18,8 @@
 3 Noble Hierarch
 4 Noble Hierarch
 2 Misty Rainforest
-4 Razorverge Thicket
 4 Birds of Paradise
+4 Razorverge Thicket
 3 Sanctifier en-Vec
 2 Verdant Catacombs
 3 Walking Ballista
@@ -34,11 +34,11 @@
 3 Voice of Resurgence
 2 Marsh Flats
 1 Snow-Covered Forest
-2 Snow-Covered Forest
 2 Yavimaya, Cradle of Growth
 2 Snow-Covered Plains
-3 Snow-Covered Forest
+2 Snow-Covered Forest
 3 Marsh Flats
+3 Snow-Covered Forest
 1 Scavenging Ooze
 1 Giver of Runes
 3 Verdant Catacombs
@@ -55,29 +55,29 @@
 2 Spellskite
 3 Boseiju, Who Endures
 3 Misty Rainforest
-4 Wooded Foothills
 4 Verdant Catacombs
 1 Sunpetal Grove
 1 Canopy Vista
-2 Gavony Township
 2 Sunpetal Grove
+2 Gavony Township
 4 Plains
 1 Voice of the Blessed
 1 Esper Sentinel
 1 Soul's Attendant
 1 Soul Warden
 2 Voice of the Blessed
-2 Esper Sentinel
 2 Soul's Attendant
 2 Soul Warden
-3 Esper Sentinel
+2 Esper Sentinel
 3 Soul Warden
+3 Esper Sentinel
 3 Soul's Attendant
 3 Trelasarra, Moon Dancer
 3 Voice of the Blessed
-4 Esper Sentinel
 4 Soul Warden
+4 Esper Sentinel
 4 Voice of the Blessed
+4 Wooded Foothills
 4 Voice of Resurgence
 1 Brushland
 2 Brushland
@@ -85,5 +85,5 @@
 3 Eladamri's Call
 4 Brushland
 4 Eladamri's Call
-5 Forest
 6 Forest
+5 Forest

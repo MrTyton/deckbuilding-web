@@ -1,8 +1,15 @@
 4 Ragavan, Nimble Pilferer
+2 Arid Mesa
 1 Plains
 2 Wrenn and Six
+1 Scalding Tarn
+1 Mantis Rider
+2 Mantis Rider
+1 Island
 1 Bloodstained Mire
 3 Arid Mesa
+1 Stubborn Denial
+1 Verdant Catacombs
 2 Bloodstained Mire
 2 Tarmogoyf
 4 Arid Mesa
@@ -17,10 +24,12 @@
 4 Dragon's Rage Channeler
 4 Mishra's Bauble
 1 Overgrown Tomb
-1 Mantis Rider
-2 Mantis Rider
-3 Flooded Strand
-1 Scalding Tarn
+2 Scalding Tarn
+1 Fury
+2 Fury
+1 Boros Charm
+1 Boseiju, Who Endures
+2 Stubborn Denial
 3 Bloodstained Mire
 1 Prismatic Ending
 1 Scourge of the Skyclaves
@@ -30,60 +39,51 @@
 3 Prismatic Ending
 3 Scourge of the Skyclaves
 4 Prismatic Ending
-1 Verdant Catacombs
-1 Boros Charm
-1 Fury
-2 Fury
-1 Boseiju, Who Endures
-2 Seal of Fire
-4 Bloodstained Mire
-1 Stubborn Denial
-1 Island
 4 Flooded Strand
-2 Scalding Tarn
-3 General Ferrous Rokiric
-2 Stubborn Denial
-1 Snapcaster Mage
-2 Snapcaster Mage
 1 Fire/Ice
 2 Fire/Ice
 3 Stubborn Denial
 3 Fire/Ice
-3 Windswept Heath
 1 Misty Rainforest
-2 Misty Rainforest
+3 General Ferrous Rokiric
 1 Remand
 2 Remand
-3 Remand
 4 Fire/Ice
+1 Snapcaster Mage
+2 Snapcaster Mage
+2 Misty Rainforest
+3 Windswept Heath
+2 Seal of Fire
+4 Bloodstained Mire
+3 Remand
 3 Mantis Rider
 1 Mountain
 2 Breeding Pool
 2 Sacred Foundry
 3 Misty Rainforest
-3 Seal of Fire
 1 Hidetsugu Consumes All
 2 Hidetsugu Consumes All
 1 Polluted Delta
 2 Steam Vents
+1 Subtlety
+2 Subtlety
+3 Subtlety
 4 Windswept Heath
 2 Boros Charm
 1 Omnath, Locus of Creation
 2 Stomping Ground
-1 Teferi, Time Raveler
 1 Endurance
 1 Brushfire Elemental
+1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 2 Endurance
 2 Brushfire Elemental
 3 Brushfire Elemental
 4 Brushfire Elemental
+3 Seal of Fire
 2 Omnath, Locus of Creation
 1 Force of Negation
 2 Force of Negation
-1 Subtlety
-2 Subtlety
-3 Subtlety
 2 Temple Garden
 4 Misty Rainforest
 2 Verdant Catacombs
@@ -104,6 +104,8 @@
 2 Ignoble Hierarch
 3 Ignoble Hierarch
 4 Ignoble Hierarch
+1 Brazen Borrower
+2 Brazen Borrower
 1 Expressive Iteration
 1 Unholy Heat
 2 Expressive Iteration
@@ -130,9 +132,9 @@
 1 Boseiju, Who Shelters All
 2 Polluted Delta
 3 Polluted Delta
-1 Snow-Covered Island
-1 Snow-Covered Forest
 1 Snow-Covered Mountain
+1 Snow-Covered Forest
+1 Snow-Covered Island
 1 Fiery Islet
 3 Unholy Heat
 1 Spell Pierce
@@ -147,11 +149,9 @@
 3 Boros Charm
 3 Temple Garden
 1 Leyline Binding
-1 Brazen Borrower
 2 Leyline Binding
-2 Brazen Borrower
-3 Leyline Binding
 3 Force of Negation
+3 Leyline Binding
 3 Brazen Borrower
 4 Leyline Binding
 1 Hallowed Fountain
@@ -176,3 +176,5 @@
 3 Manamorphose
 4 Ledger Shredder
 4 Manamorphose
+1 Spell Snare
+4 Subtlety
