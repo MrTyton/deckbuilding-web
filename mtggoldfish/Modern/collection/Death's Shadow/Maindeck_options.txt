@@ -3,20 +3,19 @@
 1 Lightning Bolt
 1 Snow-Covered Swamp
 1 Dress Down
-1 Island
 1 Fiery Islet
+1 Island
 1 The Royal Scions
 1 Inquisition of Kozilek
-1 Snow-Covered Mountain
 1 Dismember
 1 Counterspell
 2 Counterspell
 3 Counterspell
 4 Counterspell
-3 Watery Grave
 1 Street Wraith
 2 Street Wraith
 3 Street Wraith
+3 Watery Grave
 3 Fatal Push
 2 Dress Down
 1 Murktide Regent
@@ -31,40 +30,45 @@
 4 Watery Grave
 4 Fatal Push
 4 Street Wraith
-2 Inquisition of Kozilek
-1 Misty Rainforest
-2 Misty Rainforest
-3 Misty Rainforest
-4 Consider
+1 Marsh Flats
+1 Snow-Covered Mountain
 1 Archmage's Charm
 2 Stubborn Denial
 2 Archmage's Charm
 3 Archmage's Charm
+4 Consider
+2 Inquisition of Kozilek
+1 Snapcaster Mage
+1 Misty Rainforest
+2 Misty Rainforest
+3 Misty Rainforest
+1 Brazen Borrower
+4 Murktide Regent
+3 Island
 3 Blood Crypt
-1 Marsh Flats
+2 Marsh Flats
 1 Fury
 2 Fury
 1 Kaito Shizuki
 1 Slaughter Pact
-1 Spell Pierce
 1 Waterlogged Grove
-1 Brazen Borrower
-1 Snapcaster Mage
-4 Murktide Regent
+1 Flooded Strand
+2 Flooded Strand
+3 Flooded Strand
+4 Flooded Strand
+4 Archmage's Charm
 1 Tainted Indulgence
 2 Tainted Indulgence
-3 Island
 1 Undying Evil
+1 Feign Death
 1 Malakir Rebirth
 1 Grief
-1 Feign Death
 2 Malakir Rebirth
 2 Grief
-3 Grief
 3 Fury
+3 Grief
 4 Grief
 4 Fury
-2 Marsh Flats
 1 Verdant Catacombs
 2 Verdant Catacombs
 1 Scourge of the Skyclaves
@@ -76,10 +80,12 @@
 1 Ashiok, Dream Render
 1 Takenuma, Abandoned Mire
 2 Snapcaster Mage
+3 Marsh Flats
 1 Dreadbore
+1 Spell Pierce
 2 Spell Pierce
 3 Steam Vents
-3 Marsh Flats
+3 Tainted Indulgence
 1 Undying Malice
 1 Dauthi Voidwalker
 1 Kolaghan's Command
@@ -99,12 +105,6 @@
 4 Verdant Catacombs
 4 Urza's Saga
 4 Lightning Bolt
-1 Flooded Strand
-2 Flooded Strand
-3 Flooded Strand
-3 Tainted Indulgence
-4 Flooded Strand
-4 Archmage's Charm
 1 Infernal Plunge
 1 Spellskite
 1 Hex Parasite
@@ -143,8 +143,8 @@
 2 Wooded Foothills
 2 Feign Death
 3 Tarmogoyf
-3 Riveteers Charm
 3 Malakir Rebirth
+3 Riveteers Charm
 3 Wooded Foothills
 4 Wooded Foothills
 4 Tarmogoyf

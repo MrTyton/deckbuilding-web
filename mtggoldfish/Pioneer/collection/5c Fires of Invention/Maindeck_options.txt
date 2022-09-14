@@ -1,20 +1,21 @@
-2 Commune with Spirits
+3 Fable of the Mirror-Breaker
 2 Zagoth Triome
 2 Godless Shrine
 1 Temple Garden
-1 Overgrown Tomb
-1 Yarok, the Desecrated
-2 Barkchannel Pathway
-1 Ziatora's Proving Ground
-1 Binding the Old Gods
-2 Indatha Triome
 1 Leyline Binding
 2 Leyline Binding
 3 Leyline Binding
 4 Leyline Binding
+1 Overgrown Tomb
+1 Yarok, the Desecrated
+1 Ziatora's Proving Ground
+2 Barkchannel Pathway
+2 Indatha Triome
+1 Binding the Old Gods
 1 Breeding Pool
 3 Lithoform Blight
-3 Commune with Spirits
+1 Titan of Industry
+1 Agent of Treachery
 4 Raugrin Triome
 2 Spirited Companion
 1 Sunpetal Grove
@@ -23,12 +24,11 @@
 2 Savai Triome
 1 Omen of the Forge
 1 Clever Impersonator
+3 Commune with Spirits
 3 Barkchannel Pathway
 3 Sacred Foundry
-1 Titan of Industry
 2 Sunpetal Grove
 3 Sunpetal Grove
-1 Agent of Treachery
 4 Fable of the Mirror-Breaker
 1 Archon of Emeria
 4 Lithoform Blight
@@ -44,8 +44,6 @@
 3 Risen Reef
 2 Temple Garden
 2 Hallowed Fountain
-1 Snow-Covered Forest
-1 Elspeth Conquers Death
 2 Stomping Ground
 3 Branchloft Pathway
 1 Cavalier of Dawn
@@ -55,8 +53,8 @@
 1 Portable Hole
 2 Hengegate Pathway
 2 Portable Hole
-3 Hengegate Pathway
 3 Portable Hole
+3 Hengegate Pathway
 4 Portable Hole
 4 Hengegate Pathway
 4 Barkchannel Pathway
@@ -65,7 +63,8 @@
 1 Jukai Naturalist
 2 Jukai Naturalist
 3 Godless Shrine
-1 Tatsunari, Toad Rider
+1 Snow-Covered Forest
+1 Elspeth Conquers Death
 1 Llanowar Wastes
 2 Shipwreck Marsh
 2 Llanowar Wastes
@@ -84,6 +83,7 @@
 3 Drowned Catacomb
 4 Sunpetal Grove
 4 Drowned Catacomb
+1 Tatsunari, Toad Rider
 4 Risen Reef
 4 Temple Garden
 1 Serra Paragon
@@ -120,11 +120,11 @@
 3 Siege Rhino
 4 Siege Rhino
 1 Glacial Fortress
-1 Zur, Eternal Schemer
 1 Sin Collector
 1 Elite Spellbinder
 1 Massacre Girl
 1 Izzet Staticaster
+1 Zur, Eternal Schemer
 1 Omnath, Locus of Creation
 1 Workshop Warchief
 1 Wandering Mind

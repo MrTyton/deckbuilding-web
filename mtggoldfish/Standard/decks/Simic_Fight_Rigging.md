@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    2|Tovolar's Huntmaster                                                                        |                    1|[Even the Score](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555243)    |
-|                    2|[Dreamroot Cascade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541138)|                    1|[Bouncer's Beatdown](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555336)|
+|                    2|[Dreamroot Cascade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541138)|                    1|[Even the Score](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555243)    |
+|                    2|Tovolar's Huntmaster                                                                        |                    1|[Bouncer's Beatdown](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555336)|
 |                    2|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)   |                    2|[Bouncer's Beatdown](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555336)|
 |                    3|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)   |                    3|[Bouncer's Beatdown](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555336)|
 |                    3|[Dreamroot Cascade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541138)|                     |                                                                                             |

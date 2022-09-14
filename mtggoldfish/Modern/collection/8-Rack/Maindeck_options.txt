@@ -1,16 +1,17 @@
 2 Bloodchief's Thirst
 3 Shrieking Affliction
-2 Castle Locthwain
 1 Silent Clearing
-1 Shadowspear
 3 Wrench Mind
-4 Thoughtseize
+1 Shadowspear
+2 Castle Locthwain
 12 Swamp
+4 Thoughtseize
+4 Shrieking Affliction
 2 Silent Clearing
 1 Ensnaring Bridge
-4 Shrieking Affliction
 1 Tourach, Dread Cantor
-3 Funeral Charm
+13 Swamp
+1 Davriel, Rogue Shadowmage
 1 Takenuma, Abandoned Mire
 1 Dauthi Voidwalker
 2 Dauthi Voidwalker
@@ -18,21 +19,20 @@
 3 Dauthi Voidwalker
 4 Dauthi Voidwalker
 1 Marsh Flats
-13 Swamp
-1 Davriel, Rogue Shadowmage
+3 Funeral Charm
 2 Dark Confidant
 3 Dark Confidant
 1 Cling to Dust
 2 Tourach, Dread Cantor
 3 Castle Locthwain
-3 Bloodchief's Thirst
+1 Dakmor Salvage
 1 Mishra's Bauble
 2 Mishra's Bauble
 1 Collective Brutality
-1 Expedition Map
-1 Soul-Guide Lantern
+2 Davriel, Rogue Shadowmage
 1 Mind Rake
 2 Mind Rake
+1 Soul-Guide Lantern
 1 Blackmail
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
@@ -40,29 +40,31 @@
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
-1 Dakmor Salvage
 4 Castle Locthwain
+3 Bloodchief's Thirst
 1 Verdant Catacombs
-4 Fatal Push
-2 Davriel, Rogue Shadowmage
 2 Marsh Flats
+4 Fatal Push
 3 Tourach, Dread Cantor
 1 Godless Shrine
 1 Bloodstained Mire
 2 Bloodstained Mire
 3 Bloodstained Mire
 4 Bloodstained Mire
+3 Davriel, Rogue Shadowmage
+4 Wrench Mind
+14 Swamp
 1 Polluted Delta
 1 Soul Transfer
 2 Takenuma, Abandoned Mire
 2 Soul Transfer
 4 Dark Confidant
+1 Ghost Quarter
 1 March of Wretched Sorrow
-1 Liliana, Waker of the Dead
+2 Blackmail
 1 Victim of Night
 2 Victim of Night
-1 Ghost Quarter
-2 Blackmail
+1 Expedition Map
 2 Cling to Dust
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
@@ -73,9 +75,29 @@
 13 Snow-Covered Swamp
 14 Snow-Covered Swamp
 15 Snow-Covered Swamp
+1 Sudden Edict
+2 Sudden Edict
+1 Dismember
+1 Asylum Visitor
+1 Tombstalker
+1 Cry of Contrition
+1 Howltooth Hollow
+1 Nyxathid
+2 Dismember
+2 Nyxathid
+2 Asylum Visitor
+2 Dakmor Salvage
+2 Cry of Contrition
+2 Howltooth Hollow
+3 Cry of Contrition
+3 Asylum Visitor
+4 Asylum Visitor
+15 Swamp
+16 Swamp
+17 Swamp
+18 Swamp
 1 Surgical Extraction
 2 Verdant Catacombs
-4 Funeral Charm
 1 Kroxa, Titan of Death's Hunger
 1 Blackcleave Cliffs
 1 Blood Crypt
@@ -83,10 +105,8 @@
 2 Blood Crypt
 2 Blackcleave Cliffs
 3 Kroxa, Titan of Death's Hunger
-3 Davriel, Rogue Shadowmage
-4 Wrench Mind
-14 Swamp
 1 Field of Ruin
+1 Liliana, Waker of the Dead
 2 Field of Ruin
 4 Tourach, Dread Cantor
 1 Ashiok, Dream Render
@@ -96,20 +116,22 @@
 2 Nurturing Peatland
 1 Eliminate
 2 Eliminate
-1 Sudden Edict
-2 Sudden Edict
+1 Heartless Act
+1 Darkblast
+1 Feed the Swarm
+2 Feed the Swarm
 2 Nihil Spellbomb
 1 Go Blank
 1 Liliana's Triumph
 2 Liliana's Triumph
 2 Go Blank
-1 Hive of the Eye Tyrant
-2 March of Wretched Sorrow
-3 March of Wretched Sorrow
 1 Mutavault
 1 Delirium Skeins
 2 Mutavault
 3 Mutavault
+1 Hive of the Eye Tyrant
+2 March of Wretched Sorrow
+3 March of Wretched Sorrow
 3 Mishra's Bauble
 3 Marsh Flats
 1 Unmarked Grave
@@ -119,8 +141,8 @@
 2 Kolaghan's Command
 3 Kolaghan's Command
 3 Blackmail
-1 Bojuka Bog
 1 Sorin the Mirthless
+1 Bojuka Bog
 1 Defile
 2 Defile
 3 Verdant Catacombs
@@ -132,17 +154,17 @@
 4 Silent Clearing
 4 Concealed Courtyard
 1 Dragon's Rage Channeler
-1 Graven Cairns
 1 Chandra, Torch of Defiance
+1 Shinka, the Bloodsoaked Keep
+1 Graven Cairns
 1 Ragavan, Nimble Pilferer
 1 Terminate
-1 Shinka, the Bloodsoaked Keep
 1 Mountain
 1 Shizo, Death's Storehouse
 2 Terminate
 2 Dragon's Rage Channeler
-2 Ragavan, Nimble Pilferer
 2 Chandra, Torch of Defiance
+2 Ragavan, Nimble Pilferer
 2 Mountain
 3 Blackcleave Cliffs
 3 Dragon's Rage Channeler
@@ -151,6 +173,8 @@
 3 Ragavan, Nimble Pilferer
 4 Blackcleave Cliffs
 4 Ragavan, Nimble Pilferer
+3 Sudden Edict
+4 Sudden Edict
 1 Island
 1 Piracy Charm
 1 Raffine's Tower
@@ -169,27 +193,5 @@
 2 Esper Charm
 3 Piracy Charm
 3 Esper Charm
+4 Funeral Charm
 4 Piracy Charm
-1 Heartless Act
-1 Darkblast
-1 Dismember
-1 Asylum Visitor
-1 Tombstalker
-1 Cry of Contrition
-1 Howltooth Hollow
-1 Feed the Swarm
-1 Nyxathid
-2 Dismember
-2 Feed the Swarm
-2 Nyxathid
-2 Asylum Visitor
-2 Dakmor Salvage
-2 Cry of Contrition
-2 Howltooth Hollow
-3 Cry of Contrition
-3 Asylum Visitor
-4 Asylum Visitor
-15 Swamp
-16 Swamp
-17 Swamp
-18 Swamp
