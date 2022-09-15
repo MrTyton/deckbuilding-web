@@ -1,13 +1,13 @@
 2 Supreme Verdict
-2 Rip Apart
 1 Castle Ardenvale
 1 Castle Vantress
+2 Rip Apart
 1 Sweltering Suns
 1 Otawara, Soaring City
+1 Portable Hole
 1 Valakut Awakening
 2 Castle Ardenvale
 3 The Wandering Emperor
-1 Portable Hole
 2 Portable Hole
 1 Stormcarved Coast
 2 Valakut Awakening
@@ -18,8 +18,6 @@
 2 Castle Vantress
 1 Teferi, Hero of Dominaria
 2 Teferi, Hero of Dominaria
-1 March of Otherworldly Light
-2 March of Otherworldly Light
 1 Eiganjo, Seat of the Empire
 1 Deserted Beach
 1 Sundown Pass
@@ -29,6 +27,9 @@
 4 The Wandering Emperor
 2 Island
 1 Sulfur Falls
+1 March of Otherworldly Light
+2 March of Otherworldly Light
+1 Deafening Clarion
 1 Lukka, Coppercoat Outcast
 1 Omnath, Locus of Creation
 1 Jetmir's Garden
@@ -47,19 +48,21 @@
 2 Sulfur Falls
 2 Rootbound Crag
 4 Omnath, Locus of Creation
-2 Temple Garden
 2 Forest
+2 Temple Garden
 1 Boseiju, Who Endures
 1 Yasharn, Implacable Earth
 1 Cavalier of Flame
 2 Cavalier of Flame
 2 Jetmir's Garden
+1 Leyline Binding
+2 Leyline Binding
 4 Portable Hole
 1 Chandra, Awakened Inferno
 1 Skyclave Apparition
-1 Tolsimir, Friend to Wolves
 1 Nylea's Presence
 1 Glasspool Mimic
+1 Tolsimir, Friend to Wolves
 1 Deputy of Detention
 1 Enigmatic Incarnation
 1 Yorion, Sky Nomad
@@ -82,10 +85,8 @@
 3 Arboreal Grazer
 3 Forest
 3 Cavalier of Flame
-1 Deafening Clarion
 1 Niko Aris
-1 Mystical Dispute
-2 Sunpetal Grove
+2 Deafening Clarion
 1 Snow-Covered Mountain
 1 Snow-Covered Plains
 1 Snow-Covered Island
@@ -93,17 +94,15 @@
 2 Snow-Covered Plains
 4 Anger of the Gods
 1 Clifftop Retreat
-1 Leyline Binding
 1 Lava Coil
+1 Titan of Industry
 1 Wolfwillow Haven
-1 Reflector Mage
 1 Ranger Class
 1 Dragonlord Atarka
-1 Titan of Industry
-2 Leyline Binding
+1 Reflector Mage
 2 Lava Coil
-2 Ranger Class
 2 Wolfwillow Haven
+2 Ranger Class
 3 Leyline Binding
 3 Ranger Class
 3 Wolfwillow Haven
@@ -143,9 +142,9 @@
 2 Bonecrusher Giant
 2 Shared Summons
 3 Breeding Pool
+3 Temple Garden
 3 Stomping Ground
 3 Bonecrusher Giant
-3 Temple Garden
 4 Stomping Ground
 4 Arboreal Grazer
 4 Breeding Pool
@@ -176,6 +175,6 @@
 3 Jetmir's Garden
 3 Lotus Cobra
 3 Storm the Festival
-4 Jetmir's Garden
 4 Lotus Cobra
+4 Jetmir's Garden
 4 Cavalier of Flame

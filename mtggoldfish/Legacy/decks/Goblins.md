@@ -162,7 +162,7 @@
 |                    2|[Conspicuous Snoop](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485462)       |                     |                                                                                                      |
 |                    2|[Boggart Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=139441)       |                     |                                                                                                      |
 |                    3|[Conspicuous Snoop](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485462)       |                     |                                                                                                      |
+|                    4|[Conspicuous Snoop](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485462)       |                     |                                                                                                      |
 |                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                |                     |                                                                                                      |
 |                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                |                     |                                                                                                      |
-|                    4|[Conspicuous Snoop](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485462)       |                     |                                                                                                      |
 

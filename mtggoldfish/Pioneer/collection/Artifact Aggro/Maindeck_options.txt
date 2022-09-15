@@ -1,17 +1,15 @@
-1 Bomat Courier
-2 Bomat Courier
+3 Bomat Courier
+3 Patchwork Automaton
+1 Alseid of Life's Bounty
+2 Alseid of Life's Bounty
 3 Hengegate Pathway
 4 Hengegate Pathway
-3 Bomat Courier
 1 All That Glitters
 2 All That Glitters
-3 Patchwork Automaton
-2 Plains
-3 All That Glitters
-4 All That Glitters
-1 Mana Confluence
 4 Patchwork Automaton
 4 Bomat Courier
+2 Plains
+1 Mana Confluence
 1 Shrapnel Blast
 1 Spirebluff Canal
 2 Spirebluff Canal
@@ -19,6 +17,8 @@
 3 Spirebluff Canal
 3 Shrapnel Blast
 4 Spirebluff Canal
+3 All That Glitters
+4 All That Glitters
 1 Hope of Ghirapur
 1 Steam Vents
 2 Steam Vents
@@ -32,26 +32,14 @@
 1 Sokenzan, Crucible of Defiance
 2 Riverglide Pathway
 3 Riverglide Pathway
-3 Plains
-4 Plains
-5 Plains
 1 Experimental Synthesizer
 2 Experimental Synthesizer
 3 Experimental Synthesizer
-6 Plains
+3 Plains
+4 Plains
+5 Plains
 2 Ghostfire Blade
-3 Alseid of Life's Bounty
-4 Alseid of Life's Bounty
-7 Plains
-8 Plains
-9 Plains
 1 Roadside Reliquary
-2 Roadside Reliquary
-3 Roadside Reliquary
-3 Voltage Surge
-2 Shadowspear
-10 Plains
-4 Roadside Reliquary
 1 Needleverge Pathway
 1 Inspiring Vantage
 2 Needleverge Pathway
@@ -61,35 +49,46 @@
 3 Mutavault
 4 Inspiring Vantage
 4 Mutavault
-11 Plains
+2 Roadside Reliquary
+3 Roadside Reliquary
+6 Plains
+3 Voltage Surge
+3 Alseid of Life's Bounty
+4 Alseid of Life's Bounty
+7 Plains
+8 Plains
+9 Plains
+2 Shadowspear
+1 Battlefield Forge
+4 Roadside Reliquary
+10 Plains
 2 Hope of Ghirapur
-3 Ghostfire Blade
-12 Plains
+2 Battlefield Forge
+11 Plains
 1 Treasure Vault
 2 Treasure Vault
-1 Battlefield Forge
 4 Needleverge Pathway
 1 Unlicensed Hearse
-4 Ghostfire Blade
+3 Ghostfire Blade
 1 Island
 2 Eiganjo, Seat of the Empire
 1 Shefet Dunes
 2 Shefet Dunes
-13 Plains
-2 Battlefield Forge
+12 Plains
 1 Glass Casket
 2 Glass Casket
 4 Riverglide Pathway
+4 Ghostfire Blade
 1 Stubborn Denial
 1 Hushbringer
 2 Hushbringer
 1 Snow-Covered Plains
 3 The Blackstaff of Waterdeep
-4 Experimental Synthesizer
 1 The Restoration of Eiganjo
 2 The Restoration of Eiganjo
 3 The Restoration of Eiganjo
 4 The Restoration of Eiganjo
+4 Experimental Synthesizer
 1 Den of the Bugbear
 1 Skilled Animator
 2 Den of the Bugbear
@@ -145,3 +144,4 @@
 3 Steel Overseer
 3 Enthusiastic Mechanaut
 4 Enthusiastic Mechanaut
+13 Plains

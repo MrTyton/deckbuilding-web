@@ -47,12 +47,12 @@
 1 Boros Charm
 4 Bloodstained Mire
 2 Misty Rainforest
+1 Seal of Fire
 1 Prismatic Ending
 1 Scourge of the Skyclaves
-1 Seal of Fire
+2 Seal of Fire
 2 Prismatic Ending
 2 Scourge of the Skyclaves
-2 Seal of Fire
 3 Prismatic Ending
 3 Scourge of the Skyclaves
 4 Prismatic Ending
@@ -110,10 +110,10 @@
 1 Swamp
 1 Riveteers Charm
 2 Riveteers Charm
-1 Unholy Heat
 1 Expressive Iteration
-2 Unholy Heat
+1 Unholy Heat
 2 Expressive Iteration
+2 Unholy Heat
 3 Expressive Iteration
 4 Expressive Iteration
 1 Watery Grave
@@ -130,11 +130,6 @@
 2 Polluted Delta
 3 Polluted Delta
 3 Noble Hierarch
-1 Snow-Covered Forest
-1 Snow-Covered Mountain
-1 Snow-Covered Island
-1 Fiery Islet
-3 Unholy Heat
 1 Spell Pierce
 1 Abundant Harvest
 1 Mutagenic Growth
@@ -142,8 +137,13 @@
 2 Spell Pierce
 2 Mutagenic Growth
 2 Path to Exile
-3 Spell Pierce
 3 Mutagenic Growth
+3 Spell Pierce
+1 Snow-Covered Island
+1 Snow-Covered Forest
+1 Snow-Covered Mountain
+1 Fiery Islet
+3 Unholy Heat
 3 Boros Charm
 3 Temple Garden
 1 Leyline Binding
@@ -153,17 +153,17 @@
 3 Brazen Borrower
 4 Leyline Binding
 1 Hallowed Fountain
+1 Inquisition of Kozilek
 1 Ziatora's Proving Ground
 1 Thoughtseize
 1 Fatal Push
-1 Inquisition of Kozilek
-2 Thoughtseize
-2 Fatal Push
-2 Blood Crypt
 2 Inquisition of Kozilek
+2 Thoughtseize
+2 Blood Crypt
+2 Fatal Push
+3 Inquisition of Kozilek
 3 Verdant Catacombs
 3 Thoughtseize
-3 Inquisition of Kozilek
 4 Verdant Catacombs
 1 Ledger Shredder
 1 Manamorphose
