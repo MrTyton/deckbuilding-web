@@ -1,6 +1,6 @@
-1 Pyrite Spellbomb
+4 Elvish Reclaimer
+1 Soul-Guide Lantern
 1 Misty Rainforest
-4 Tarmogoyf
 1 Brainstone
 1 Bojuka Bog
 1 Explore
@@ -11,17 +11,30 @@
 1 Tireless Tracker
 2 Boseiju, Who Endures
 1 Forgotten Cave
+2 Pyrite Spellbomb
 4 Stomping Ground
+3 Scalding Tarn
+4 Scalding Tarn
 1 Fury
 1 Windswept Heath
 1 Expedition Map
 2 Arid Mesa
 2 Tireless Tracker
 1 Verdant Catacombs
+1 Snow-Covered Mountain
+1 Snow-Covered Forest
+1 Fiery Islet
+2 Snow-Covered Mountain
+1 Den of the Bugbear
 2 Traverse the Ulvenwald
-2 Pyrite Spellbomb
 2 Misty Rainforest
 2 Explore
+1 Light Up the Stage
+1 Seal of Fire
+2 Light Up the Stage
+2 Seal of Fire
+3 Light Up the Stage
+4 Light Up the Stage
 1 Fable of the Mirror-Breaker
 1 Cliffhaven Kitesail
 1 Power Conduit
@@ -37,14 +50,19 @@
 3 Ancient Stirrings
 3 Power Conduit
 4 Power Conduit
-3 Scalding Tarn
-4 Scalding Tarn
-1 Light Up the Stage
-1 Seal of Fire
-2 Light Up the Stage
-2 Seal of Fire
-3 Light Up the Stage
-4 Light Up the Stage
+1 Shrapnel Blast
+1 Galvanic Blast
+1 Experimental Synthesizer
+2 Shrapnel Blast
+2 Galvanic Blast
+2 Experimental Synthesizer
+3 Galvanic Blast
+3 Shrapnel Blast
+3 Snow-Covered Mountain
+3 Experimental Synthesizer
+4 Galvanic Blast
+4 Shrapnel Blast
+4 Experimental Synthesizer
 2 Fury
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
@@ -70,11 +88,6 @@
 4 Soul-Scar Mage
 4 Lava Dart
 4 Monastery Swiftspear
-1 Snow-Covered Mountain
-1 Snow-Covered Forest
-1 Fiery Islet
-2 Snow-Covered Mountain
-1 Den of the Bugbear
 1 Gallia of the Endless Dance
 1 Thespian's Stage
 1 Brushfire Elemental
@@ -118,6 +131,11 @@
 3 Boseiju, Who Endures
 3 Liquimetal Coating
 4 Boseiju, Who Endures
+1 Bonecrusher Giant
+1 Castle Embereth
+4 Seasoned Pyromancer
+4 Abundant Harvest
+5 Mountain
 1 Endurance
 1 Unlicensed Hearse
 1 Titania, Protector of Argoth
@@ -126,21 +144,3 @@
 2 Unlicensed Hearse
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
-1 Bonecrusher Giant
-1 Castle Embereth
-4 Seasoned Pyromancer
-4 Abundant Harvest
-5 Mountain
-1 Shrapnel Blast
-1 Galvanic Blast
-1 Experimental Synthesizer
-2 Shrapnel Blast
-2 Galvanic Blast
-2 Experimental Synthesizer
-3 Galvanic Blast
-3 Shrapnel Blast
-3 Snow-Covered Mountain
-3 Experimental Synthesizer
-4 Galvanic Blast
-4 Shrapnel Blast
-4 Experimental Synthesizer

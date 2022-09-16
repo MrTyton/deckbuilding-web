@@ -12,10 +12,10 @@
 1 Mana Confluence
 1 Shrapnel Blast
 1 Spirebluff Canal
-2 Spirebluff Canal
 2 Shrapnel Blast
-3 Spirebluff Canal
+2 Spirebluff Canal
 3 Shrapnel Blast
+3 Spirebluff Canal
 4 Spirebluff Canal
 3 All That Glitters
 4 All That Glitters
@@ -84,10 +84,6 @@
 2 Hushbringer
 1 Snow-Covered Plains
 3 The Blackstaff of Waterdeep
-1 The Restoration of Eiganjo
-2 The Restoration of Eiganjo
-3 The Restoration of Eiganjo
-4 The Restoration of Eiganjo
 4 Experimental Synthesizer
 1 Den of the Bugbear
 1 Skilled Animator
@@ -97,15 +93,19 @@
 2 Mountain
 3 Skilled Animator
 4 Shrapnel Blast
+1 The Restoration of Eiganjo
+2 The Restoration of Eiganjo
+3 The Restoration of Eiganjo
+4 The Restoration of Eiganjo
 1 Moonsnare Prototype
 2 Moonsnare Prototype
 4 Voltage Surge
 1 Boseiju, Who Endures
 1 Forest
 1 Westvale Abbey
+1 Temple Garden
 1 Animation Module
 1 Lair of the Hydra
-1 Temple Garden
 1 Branchloft Pathway
 1 Hardened Scales
 1 Iron Apprentice
