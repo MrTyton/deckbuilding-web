@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------|
-|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)     |                    1|[Massacre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21324)     |
-|                    3|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094) |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)|
+|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)     |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)|
+|                    3|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094) |                    1|[Massacre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21324)     |
 |                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094) |                    3|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)|
 |                    1|[Bayou](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=879)                |                    1|[Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)   |
 |                    1|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)   |                     |                                                                                       |

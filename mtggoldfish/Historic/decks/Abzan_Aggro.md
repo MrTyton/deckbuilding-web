@@ -36,9 +36,9 @@
 |                    1|[Isolated Chapel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443129)          |                     |              |
 |                    1|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)           |                     |              |
 |                    1|[Borrowed Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534759)            |                     |              |
+|                    1|[Valorous Stance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391950)          |                     |              |
 |                    1|[Pacifism](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129667)                 |                     |              |
 |                    1|[Infernal Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534880)           |                     |              |
-|                    1|[Valorous Stance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391950)          |                     |              |
 |                    1|[Orah, Skyclave Hierophant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491884)|                     |              |
 |                    1|[Sorin, Vengeful Bloodlord](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461144)|                     |              |
 |                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                    |                     |              |
@@ -79,7 +79,6 @@
 |                    1|[Impassioned Orator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=469859)       |                     |              |
 |                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)       |                     |              |
 |                    2|[Inspiring Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555219)       |                     |              |
-|                    2|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)      |                     |              |
 |                    2|[Kor Skyfisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222764)            |                     |              |
 |                    2|[Marauding Blight-Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491749)  |                     |              |
 |                    2|[Aviary Mechanic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417579)          |                     |              |
@@ -88,6 +87,7 @@
 |                    2|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)       |                     |              |
 |                    2|[Omen of the Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476361)         |                     |              |
 |                    2|[Silverquill Campus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513765)       |                     |              |
+|                    2|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)      |                     |              |
 |                    2|[Heron of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=540848)            |                     |              |
 |                    2|[Impassioned Orator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=469859)       |                     |              |
 |                    3|[Inspiring Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555219)       |                     |              |

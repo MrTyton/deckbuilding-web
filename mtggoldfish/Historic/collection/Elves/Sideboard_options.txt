@@ -9,9 +9,6 @@
 3 Declaration in Stone
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
-1 Run Afoul
-1 Shifting Ceratops
-2 Shifting Ceratops
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
@@ -19,14 +16,17 @@
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
-3 Heroic Intervention
 1 Primal Might
+1 Run Afoul
+1 Shifting Ceratops
+2 Shifting Ceratops
 2 Run Afoul
 3 Run Afoul
 1 Fateful Absence
 2 Fateful Absence
 3 Fateful Absence
 3 Shifting Ceratops
+3 Heroic Intervention
 1 Heaven/Earth
 2 Heaven/Earth
 1 Realmwalker
@@ -39,12 +39,11 @@
 2 Vivien, Champion of the Wilds
 3 Relic of Progenitus
 1 Carnage Tyrant
-1 Grafdigger's Cage
 2 Toski, Bearer of Secrets
 1 Crippling Fear
 4 Leyline of the Void
-1 Barrier Breach
 1 Dovin's Veto
+1 Barrier Breach
 1 Freyalise, Skyshroud Partisan
 2 Freyalise, Skyshroud Partisan
 1 Allosaurus Shepherd
@@ -55,6 +54,7 @@
 1 Ranger Class
 1 Teferi's Protection
 1 Pact of Negation
+1 Grafdigger's Cage
 1 Beast Whisperer
 2 Beast Whisperer
 2 Crippling Fear
@@ -63,10 +63,6 @@
 1 Tyvar Kell
 1 Faceless Haven
 2 Tyvar Kell
-1 Back to Nature
-1 Snakeskin Veil
-2 Snakeskin Veil
-2 Back to Nature
 1 Kraul Harpooner
 1 Sorcerous Spyglass
 2 Kraul Harpooner

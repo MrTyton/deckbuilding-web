@@ -1,31 +1,31 @@
 3 Scalding Tarn
 2 Sheltered Thicket
-2 Scapeshift
 2 Bloodstained Mire
+2 Scapeshift
 3 Arid Mesa
 1 Windswept Heath
-1 Misty Rainforest
 2 Forest
 2 Cinder Glade
+1 Misty Rainforest
+1 Farseek
 2 Misty Rainforest
 1 Steam Vents
 1 Ketria Triome
 2 Steam Vents
-1 Farseek
+1 Island
 3 Misty Rainforest
 4 Misty Rainforest
-1 Island
 2 Windswept Heath
 2 Farseek
 3 Farseek
 3 Cinder Glade
 4 Farseek
-1 Horizon Canopy
 1 Raugrin Triome
+1 Horizon Canopy
 1 Breeding Pool
-1 Zagoth Triome
-1 Noble Hierarch
+1 Temple Garden
 1 Botanical Sanctum
+1 Zagoth Triome
 1 Prismatic Vista
 1 Overgrown Tomb
 1 Verdant Catacombs
@@ -50,16 +50,16 @@
 1 Sunpetal Grove
 1 Ziatora's Proving Ground
 1 Sacred Foundry
-1 Tireless Tracker
 1 Eladamri's Call
 1 Devoted Druid
 1 Vizier of Remedies
 1 Jetmir's Garden
+1 Tireless Tracker
 1 Emrakul, the Aeons Torn
 1 Prismatic Ending
 1 Prime Speaker Vannifar
-1 Bring to Light
 1 Magus of the Moon
+1 Bring to Light
 1 Platinum Emperion
 1 Snapcaster Mage
 1 Knight of Autumn
@@ -76,8 +76,8 @@
 1 Rhonas the Indomitable
 1 Lotus Cobra
 1 Glittering Wish
+1 Noble Hierarch
 1 Primal Command
-1 Temple Garden
 1 Hinterland Harbor
 1 Waterlogged Grove
 1 Saheeli Rai
@@ -104,22 +104,21 @@
 2 Noble Hierarch
 2 Botanical Sanctum
 2 Verdant Catacombs
-2 Finale of Devastation
 2 Wall of Omens
+2 Finale of Devastation
 2 Horizon Canopy
-2 Snapcaster Mage
 2 Breeding Pool
+2 Snapcaster Mage
 2 Restoration Angel
 2 Birds of Paradise
 2 Ignoble Hierarch
 2 Path to Exile
 2 Nahiri, the Harbinger
-2 Marsh Flats
 2 Sunpetal Grove
 2 Teferi, Time Raveler
-2 Tireless Tracker
 2 Eladamri's Call
 2 Devoted Druid
+2 Tireless Tracker
 2 Prismatic Ending
 2 Eternal Witness
 2 Wall of Blossoms
@@ -132,6 +131,7 @@
 2 Avacyn's Pilgrim
 2 Neoform
 2 Arbor Elf
+2 Marsh Flats
 2 Sylvan Caryatid
 2 Battle of Wits
 2 Primal Command
@@ -195,8 +195,8 @@
 4 Verdant Catacombs
 4 Finale of Devastation
 4 Snapcaster Mage
-4 Ignoble Hierarch
 4 Nahiri, the Harbinger
+4 Ignoble Hierarch
 4 Wall of Omens
 4 Birds of Paradise
 4 Windswept Heath
@@ -229,6 +229,7 @@
 4 Wrenn and Six
 3 Scapeshift
 4 Scapeshift
+4 Scalding Tarn
 1 Fire/Ice
 1 Remand
 1 Endurance
@@ -245,18 +246,16 @@
 3 Expressive Iteration
 3 Ketria Triome
 3 Growth Spiral
-4 Expressive Iteration
 4 Steam Vents
+4 Expressive Iteration
 4 Remand
 4 Growth Spiral
-4 Scalding Tarn
+3 Bloodstained Mire
 1 Snow-Covered Mountain
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 1 Flame Slash
 4 Ketria Triome
-1 Snow-Covered Island
-1 Hour of Promise
 1 Castle Garenbrig
 1 Summoner's Pact
 2 Castle Garenbrig
@@ -267,10 +266,11 @@
 3 Chalice of the Void
 4 Valakut, the Molten Pinnacle
 4 Arid Mesa
+1 Snow-Covered Island
 1 Ruric Thar, the Unbowed
+1 Hour of Promise
 1 Otawara, Soaring City
 2 Island
-3 Bloodstained Mire
 4 Bloodstained Mire
 3 Castle Garenbrig
 4 Castle Garenbrig

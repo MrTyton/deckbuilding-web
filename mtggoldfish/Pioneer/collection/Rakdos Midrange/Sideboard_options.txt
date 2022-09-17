@@ -1,14 +1,14 @@
 2 Extinction Event
-1 Lifebane Zombie
 1 Lava Coil
+1 Lifebane Zombie
 2 Lifebane Zombie
 2 Abrade
-2 Invoke Despair
 1 Noxious Grasp
 3 Go Blank
-1 Kolaghan's Command
+2 Invoke Despair
 2 Hidetsugu Consumes All
 1 Kalitas, Traitor of Ghet
+1 Kolaghan's Command
 1 Goblin Dark-Dwellers
 1 Kaervek, the Spiteful
 1 Weathered Runestone
@@ -21,6 +21,9 @@
 2 Kolaghan's Command
 1 Damping Sphere
 2 Noxious Grasp
+1 Leyline of the Void
+2 Leyline of the Void
+3 Leyline of the Void
 1 Bonecrusher Giant
 2 Damping Sphere
 1 Alpine Moon
@@ -32,9 +35,6 @@
 2 Reckoner Bankbuster
 2 Bile Blight
 2 Witch's Vengeance
-1 Leyline of the Void
-2 Leyline of the Void
-3 Leyline of the Void
 3 Lifebane Zombie
 1 Ob Nixilis, the Adversary
 3 Duress
@@ -42,3 +42,7 @@
 4 Noxious Grasp
 3 Hidetsugu Consumes All
 4 Hidetsugu Consumes All
+1 Path of Peril
+3 Extinction Event
+4 Leyline of the Void
+4 Extinction Event
