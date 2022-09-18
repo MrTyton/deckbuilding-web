@@ -19,18 +19,18 @@
 2 Chandra, Torch of Defiance
 1 Fry
 2 Fry
+1 Burn Down the House
 1 The Akroan War
 1 Scorching Dragonfire
 1 Ox of Agonas
 1 Soul Sear
-1 Burn Down the House
 2 Burn Down the House
 2 Scorching Dragonfire
 2 The Akroan War
 2 Soul Sear
 2 Ox of Agonas
-3 Burn Down the House
 3 The Akroan War
+3 Burn Down the House
 1 Hazoret the Fervent
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
@@ -47,8 +47,8 @@
 1 Dire Fleet Daredevil
 1 Goblin Chainwhirler
 2 Flame-Blessed Bolt
-1 Unlicensed Hearse
 1 Redcap Melee
+1 Unlicensed Hearse
 2 Reckless Stormseeker
 2 Redcap Melee
 1 Pithing Needle
@@ -63,8 +63,8 @@
 2 Grafdigger's Cage
 2 Burning Hands
 2 Fanatical Firebrand
-3 Burning Hands
 3 Grafdigger's Cage
+3 Burning Hands
 1 Unholy Heat
 1 Bloodthirsty Adversary
 1 Chandra's Regulator
@@ -83,12 +83,6 @@
 2 Bonecrusher Giant
 2 Embereth Shieldbreaker
 4 Rampaging Ferocidon
-1 Fable of the Mirror-Breaker
-1 Molten Impact
-2 Molten Impact
-3 Fry
-3 Chandra, Dressed to Kill
-4 Roiling Vortex
 1 Cindervines
 1 Cemetery Gatekeeper
 1 Heroic Intervention
@@ -104,10 +98,16 @@
 3 Heroic Intervention
 4 Cemetery Gatekeeper
 4 Cindervines
+1 Fable of the Mirror-Breaker
+1 Molten Impact
+2 Molten Impact
+3 Fry
+3 Chandra, Dressed to Kill
+4 Roiling Vortex
 1 Shock
+1 Antagonize
+1 Lightning Axe
 1 Thundering Rebuke
 1 Heated Debate
-1 Lightning Axe
-1 Strangle
 2 Thundering Rebuke
-1 Antagonize
+1 Strangle

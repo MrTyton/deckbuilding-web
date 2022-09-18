@@ -79,10 +79,10 @@
 |                    1|[Impassioned Orator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=469859)       |                     |              |
 |                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)       |                     |              |
 |                    2|[Inspiring Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555219)       |                     |              |
-|                    2|[Scoured Barrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405366)          |                     |              |
 |                    2|[Kor Skyfisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222764)            |                     |              |
 |                    2|[Marauding Blight-Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491749)  |                     |              |
 |                    2|[Aviary Mechanic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417579)          |                     |              |
+|                    2|[Scoured Barrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405366)          |                     |              |
 |                    2|[Epicure of Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447231)         |                     |              |
 |                    2|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)       |                     |              |
 |                    2|[Omen of the Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476361)         |                     |              |
