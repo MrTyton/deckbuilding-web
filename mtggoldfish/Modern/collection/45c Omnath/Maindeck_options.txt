@@ -43,24 +43,24 @@
 3 Cavern of Souls
 1 Drown in the Loch
 2 Drown in the Loch
-3 Drown in the Loch
 3 Scalding Tarn
+3 Drown in the Loch
 4 Scalding Tarn
 1 Shadow Prophecy
 1 Bring to Light
 2 Bring to Light
 3 Fury
 1 Jace, the Mind Sculptor
+1 Forest
 1 Plains
 1 Island
-1 Forest
 1 Ziatora's Proving Ground
 1 Valki, God of Lies
 3 Bring to Light
 1 Meddling Mage
 2 Supreme Verdict
-1 Watery Grave
 1 Prairie Stream
+1 Watery Grave
 4 Drown in the Loch
 3 Oath of Nissa
 1 Magus of the Moon
@@ -94,18 +94,18 @@
 1 Nylea's Presence
 1 Valakut Awakening
 2 Valakut Awakening
-1 Path to Exile
-2 Path to Exile
 1 Deputy of Detention
 1 Sanctifier en-Vec
 2 Plains
 2 Forest
+1 Path to Exile
+2 Path to Exile
 4 Fury
 1 Titania, Protector of Argoth
 4 Oath of Nissa
 1 Kiki-Jiki, Mirror Breaker
-1 Karmic Guide
 1 Vivien on the Hunt
+1 Karmic Guide
 1 Planebound Accomplice
 1 Renegade Rallier
 1 Verdant Catacombs
@@ -123,8 +123,6 @@
 2 Shadow Prophecy
 3 Shadow Prophecy
 4 Lightning Bolt
-1 Savai Triome
-1 Explore
 1 Narset, Parter of Veils
 1 Day's Undoing
 1 Lonely Sandbar
@@ -134,8 +132,10 @@
 2 Subtlety
 2 Narset, Parter of Veils
 2 Day's Undoing
+2 Steam Vents
 2 Force of Negation
 3 Narset, Parter of Veils
 3 Force of Negation
 4 Force of Negation
-2 Steam Vents
+1 Savai Triome
+1 Explore

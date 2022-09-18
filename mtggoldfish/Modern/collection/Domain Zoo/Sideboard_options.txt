@@ -51,16 +51,16 @@
 2 Flusterstorm
 2 Ancient Grudge
 1 Emrakul, the Aeons Torn
+1 Forest
 1 Spell Pierce
 1 Collective Brutality
 1 Surgical Extraction
 1 Unlicensed Hearse
 1 Dromoka's Command
-1 Knight of Autumn
 1 Sanctifier en-Vec
+1 Knight of Autumn
 1 Unflinching Courage
 1 Linvala, Shield of Sea Gate
-1 Forest
 1 Tourach, Dread Cantor
 1 Kroxa, Titan of Death's Hunger
 2 Tourach, Dread Cantor
@@ -72,19 +72,21 @@
 1 Crime/Punishment
 2 Torpor Orb
 2 Terminate
-1 Pithing Needle
 1 Fulminator Mage
 1 Shadow of Doubt
+1 Pithing Needle
 1 Wheel of Sun and Moon
 1 Vindicate
 2 Fulminator Mage
 2 Shadow of Doubt
 2 Vindicate
-1 Prismatic Ending
-2 Prismatic Ending
-3 Soul-Guide Lantern
 3 Mystical Dispute
 3 Natural State
+1 Snapcaster Mage
+1 Life Goes On
+2 Life Goes On
+3 Flusterstorm
+3 Relic of Progenitus
 1 Endurance
 1 Ashiok, Dream Render
 1 Gaddock Teeg
@@ -93,11 +95,9 @@
 2 Gaddock Teeg
 3 Endurance
 3 Ashiok, Dream Render
-1 Snapcaster Mage
-1 Life Goes On
-2 Life Goes On
-3 Flusterstorm
-3 Relic of Progenitus
+1 Prismatic Ending
+2 Prismatic Ending
+3 Soul-Guide Lantern
 1 Meddling Mage
 1 Rakdos Charm
 1 Tidehollow Sculler
@@ -108,12 +108,12 @@
 2 Rakdos Charm
 2 Tidehollow Sculler
 3 Tidehollow Sculler
-1 Leyline Binding
 1 Force of Negation
+1 Leyline Binding
 1 Rending Volley
 1 You See a Guard Approach
-2 Leyline Binding
 2 Force of Negation
+2 Leyline Binding
 2 Rending Volley
 2 You See a Guard Approach
 3 Force of Negation

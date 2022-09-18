@@ -79,10 +79,6 @@
 2 Castle Ardenvale
 2 Rest in Peace
 3 Rest in Peace
-1 Commit/Memory
-1 Torrential Gearhulk
-2 Torrential Gearhulk
-4 Fabled Passage
 1 Day's Undoing
 1 Opt
 1 Drown in the Loch
@@ -90,8 +86,12 @@
 2 Drown in the Loch
 2 Day's Undoing
 3 Opt
-4 Narset, Parter of Veils
 4 Opt
+4 Narset, Parter of Veils
+1 Commit/Memory
+1 Torrential Gearhulk
+2 Torrential Gearhulk
+4 Fabled Passage
 1 Shattered Sanctum
 1 Behold the Multiverse
 1 Saw It Coming
@@ -121,23 +121,23 @@
 1 Doomskar
 2 Doomskar
 4 Tainted Indulgence
-1 Lotus Field
 1 Strict Proctor
 1 Fateful Absence
 1 Discontinuity
 1 Hullbreaker Horror
 1 Hengegate Pathway
 1 Thespian's Stage
-2 Lotus Field
+1 Lotus Field
 2 Strict Proctor
 2 Fateful Absence
 2 Thespian's Stage
 2 Discontinuity
 2 Hengegate Pathway
-3 Lotus Field
+2 Lotus Field
 3 Thespian's Stage
 3 Strict Proctor
 3 Irrigated Farmland
+3 Lotus Field
 3 Portable Hole
 3 Discontinuity
 4 Lotus Field

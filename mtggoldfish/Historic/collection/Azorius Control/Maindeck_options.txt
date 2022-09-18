@@ -60,6 +60,7 @@
 2 Field of Ruin
 3 Saiba Syphoner
 1 Supreme Verdict
+1 Witness the Future
 1 Forsaken Crossroads
 1 Gates of Istfell
 1 Discover the Impossible
@@ -68,7 +69,6 @@
 1 Teferi, Who Slows the Sunset
 1 Signature Spells
 1 Key to the Archive
-1 Witness the Future
 1 Failure/Comply
 1 Cavalier of Gales
 1 Revitalize
@@ -115,24 +115,6 @@
 3 Doomskar
 3 Portable Hole
 4 Portable Hole
-1 Temple of Enlightenment
-1 Frantic Inventory
-1 Devious Cover-Up
-1 Silundi Vision
-1 Ephemerate
-1 Tranquil Cove
-2 Temple of Enlightenment
-2 Frantic Inventory
-2 Silundi Vision
-2 Tranquil Cove
-3 Frantic Inventory
-3 Silundi Vision
-3 Field of Ruin
-3 Absorb
-4 Absorb
-4 Frantic Inventory
-4 Silundi Vision
-4 Field of Ruin
 1 Hieroglyphic Illumination
 2 Hieroglyphic Illumination
 3 Farewell
@@ -148,3 +130,21 @@
 4 Fragment Reality
 2 Mystical Dispute
 4 Divine Purge
+1 Temple of Enlightenment
+1 Tranquil Cove
+1 Devious Cover-Up
+1 Silundi Vision
+1 Ephemerate
+1 Frantic Inventory
+2 Temple of Enlightenment
+2 Tranquil Cove
+2 Silundi Vision
+2 Frantic Inventory
+3 Silundi Vision
+3 Field of Ruin
+3 Frantic Inventory
+3 Absorb
+4 Absorb
+4 Silundi Vision
+4 Field of Ruin
+4 Frantic Inventory

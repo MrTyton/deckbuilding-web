@@ -37,12 +37,12 @@
 4 Windswept Heath
 2 Scalding Tarn
 1 Island
-1 Seal of Fire
 1 Prismatic Ending
 1 Scourge of the Skyclaves
-2 Seal of Fire
+1 Seal of Fire
 2 Prismatic Ending
 2 Scourge of the Skyclaves
+2 Seal of Fire
 3 Prismatic Ending
 3 Scourge of the Skyclaves
 4 Prismatic Ending
@@ -80,8 +80,8 @@
 1 Raffine's Tower
 2 Omnath, Locus of Creation
 4 Leyline Binding
-1 Subtlety
 1 Brazen Borrower
+1 Subtlety
 2 Subtlety
 2 Brazen Borrower
 4 Misty Rainforest
@@ -127,6 +127,10 @@
 1 Boseiju, Who Shelters All
 2 Polluted Delta
 3 Polluted Delta
+1 Force of Negation
+2 Force of Negation
+3 Brazen Borrower
+3 Force of Negation
 1 Spell Pierce
 1 Abundant Harvest
 1 Mutagenic Growth
@@ -134,12 +138,8 @@
 2 Spell Pierce
 2 Mutagenic Growth
 2 Path to Exile
-3 Mutagenic Growth
 3 Spell Pierce
-1 Force of Negation
-2 Force of Negation
-3 Brazen Borrower
-3 Force of Negation
+3 Mutagenic Growth
 1 Fiery Islet
 1 Snow-Covered Island
 1 Snow-Covered Mountain
@@ -152,18 +152,18 @@
 3 Remand
 3 Stomping Ground
 3 Temple Garden
-1 Hallowed Fountain
 1 Inquisition of Kozilek
 1 Ziatora's Proving Ground
 1 Thoughtseize
 1 Fatal Push
+1 Hallowed Fountain
 2 Inquisition of Kozilek
 2 Thoughtseize
 2 Blood Crypt
 2 Fatal Push
 3 Inquisition of Kozilek
-3 Verdant Catacombs
 3 Thoughtseize
+3 Verdant Catacombs
 4 Verdant Catacombs
 1 Spell Snare
 4 Subtlety

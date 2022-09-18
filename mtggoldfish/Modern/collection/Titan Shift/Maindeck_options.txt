@@ -20,34 +20,30 @@
 3 Farseek
 3 Cinder Glade
 4 Farseek
+1 Chord of Calling
 1 Raugrin Triome
 1 Horizon Canopy
-1 Breeding Pool
-1 Temple Garden
 1 Botanical Sanctum
 1 Zagoth Triome
 1 Prismatic Vista
-1 Overgrown Tomb
-1 Verdant Catacombs
 1 Wall of Omens
-1 Finale of Devastation
 1 Birds of Paradise
-1 Marsh Flats
+1 Noble Hierarch
 1 Restoration Angel
 1 Kiki-Jiki, Mirror Breaker
-1 Scavenging Ooze
+1 Temple Garden
+1 Finale of Devastation
 1 Ignoble Hierarch
-1 Path to Exile
 1 Nahiri, the Harbinger
 1 Felidar Guardian
+1 Plains
 1 Sylvan Caryatid
-1 Eternal Witness
-1 Chord of Calling
 1 Razorverge Thicket
 1 Renegade Rallier
 1 Serra's Emissary
 1 Boseiju, Who Shelters All
-1 Sunpetal Grove
+1 Arbor Elf
+1 Path to Exile
 1 Ziatora's Proving Ground
 1 Sacred Foundry
 1 Eladamri's Call
@@ -56,15 +52,15 @@
 1 Jetmir's Garden
 1 Tireless Tracker
 1 Emrakul, the Aeons Torn
-1 Prismatic Ending
 1 Prime Speaker Vannifar
 1 Magus of the Moon
+1 Knight of Autumn
+1 Eternal Witness
 1 Bring to Light
 1 Platinum Emperion
 1 Snapcaster Mage
-1 Knight of Autumn
-1 Supreme Verdict
 1 Teferi, Time Raveler
+1 Supreme Verdict
 1 Duskwatch Recruiter
 1 Battle of Wits
 1 Hallowed Fountain
@@ -73,26 +69,30 @@
 1 Breaching Hippocamp
 1 Gifts Ungiven
 1 Mastermind's Acquisition
+1 Overgrown Tomb
 1 Rhonas the Indomitable
 1 Lotus Cobra
 1 Glittering Wish
-1 Noble Hierarch
+1 Breeding Pool
 1 Primal Command
+1 Sunpetal Grove
 1 Hinterland Harbor
 1 Waterlogged Grove
+1 Verdant Catacombs
 1 Saheeli Rai
+1 Marsh Flats
 1 Elesh Norn, Grand Cenobite
 1 Shalai, Voice of Plenty
+1 Prismatic Ending
 1 Village Bell-Ringer
 1 Neoform
 1 Avacyn's Pilgrim
-1 Arbor Elf
 1 Unburial Rites
 1 Flooded Strand
 1 Polluted Delta
+1 Scavenging Ooze
 1 City of Brass
 1 Scryb Ranger
-1 Plains
 1 Oath of Nissa
 1 Mana Confluence
 1 Kessig Wolf Run
@@ -101,36 +101,34 @@
 1 Fiend Artisan
 1 Knight of the Reliquary
 1 Paradise Druid
-2 Noble Hierarch
 2 Botanical Sanctum
-2 Verdant Catacombs
+2 Chord of Calling
 2 Wall of Omens
-2 Finale of Devastation
 2 Horizon Canopy
 2 Breeding Pool
 2 Snapcaster Mage
 2 Restoration Angel
+2 Noble Hierarch
+2 Flooded Strand
 2 Birds of Paradise
 2 Ignoble Hierarch
-2 Path to Exile
 2 Nahiri, the Harbinger
-2 Sunpetal Grove
-2 Teferi, Time Raveler
+2 Finale of Devastation
+2 Arbor Elf
+2 Path to Exile
 2 Eladamri's Call
 2 Devoted Druid
 2 Tireless Tracker
-2 Prismatic Ending
-2 Eternal Witness
 2 Wall of Blossoms
-2 Chord of Calling
 2 Madcap Experiment
 2 Hinterland Harbor
 2 Bring to Light
+2 Teferi, Time Raveler
 2 Polluted Delta
 2 Fiend Artisan
+2 Verdant Catacombs
 2 Avacyn's Pilgrim
 2 Neoform
-2 Arbor Elf
 2 Marsh Flats
 2 Sylvan Caryatid
 2 Battle of Wits
@@ -142,36 +140,38 @@
 2 Saheeli Rai
 2 Glittering Wish
 2 Prime Speaker Vannifar
+2 Sunpetal Grove
 2 Paradise Druid
-2 Flooded Strand
 2 Knight of the Reliquary
 2 Wall of Roots
+2 Prismatic Ending
 2 Gifts Ungiven
+2 Eternal Witness
 3 Teferi, Time Raveler
-3 Noble Hierarch
 3 Verdant Catacombs
 3 Snapcaster Mage
 3 Finale of Devastation
-3 Windswept Heath
 3 Wall of Omens
+3 Chord of Calling
 3 Ignoble Hierarch
 3 Nahiri, the Harbinger
+3 Arbor Elf
+3 Noble Hierarch
 3 Birds of Paradise
-3 Path to Exile
+3 Flooded Strand
+3 Windswept Heath
 3 Eladamri's Call
 3 Devoted Druid
+3 Path to Exile
 3 Glittering Wish
 3 Sunpetal Grove
-3 Arbor Elf
 3 Primal Command
-3 Flooded Strand
 3 Felidar Guardian
 3 Breeding Pool
 3 Polluted Delta
 3 Prismatic Ending
 3 Botanical Sanctum
 3 Oath of Nissa
-3 Chord of Calling
 3 Eternal Witness
 3 Renegade Rallier
 3 Wall of Blossoms
@@ -192,15 +192,17 @@
 3 Sylvan Caryatid
 3 Avacyn's Pilgrim
 4 Noble Hierarch
-4 Verdant Catacombs
 4 Finale of Devastation
 4 Snapcaster Mage
+4 Verdant Catacombs
 4 Nahiri, the Harbinger
 4 Ignoble Hierarch
 4 Wall of Omens
 4 Birds of Paradise
-4 Windswept Heath
 4 Devoted Druid
+4 Flooded Strand
+4 Windswept Heath
+4 Chord of Calling
 4 Eladamri's Call
 4 Path to Exile
 4 Sylvan Caryatid
@@ -218,8 +220,6 @@
 4 Knight of the Reliquary
 4 Felidar Guardian
 4 Polluted Delta
-4 Chord of Calling
-4 Flooded Strand
 4 Avacyn's Pilgrim
 4 Madcap Experiment
 4 Arbor Elf
