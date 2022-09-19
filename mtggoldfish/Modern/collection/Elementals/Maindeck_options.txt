@@ -50,8 +50,8 @@
 2 Subtlety
 4 Unsettled Mariner
 2 Mulldrifter
-1 Blood Crypt
 1 Secluded Courtyard
+1 Blood Crypt
 2 Smokebraider
 1 Grief
 2 Lightning Skelemental
@@ -65,17 +65,17 @@
 3 Unholy Heat
 4 Lightning Bolt
 1 Phantasmal Image
+1 Gemstone Caverns
 1 Reflecting Pool
 1 Aether Vial
-1 Gemstone Caverns
 1 Flickerwisp
 1 Primal Beyond
 1 Fiery Islet
 1 Sunbaked Canyon
 1 Chalice of the Void
 2 Phantasmal Image
-2 Reflecting Pool
 2 Aether Vial
+2 Reflecting Pool
 2 Primal Beyond
 2 Chalice of the Void
 3 Aether Vial
@@ -88,17 +88,10 @@
 1 Expressive Iteration
 1 Scalding Tarn
 2 Scalding Tarn
-1 Malakir Rebirth
-1 City of Brass
-1 Overgrown Tomb
-1 Indatha Triome
-2 Malakir Rebirth
-2 Grief
-3 Grief
-3 Malakir Rebirth
-4 Grief
-4 Malakir Rebirth
-4 Lightning Skelemental
+1 Spitebellows
+3 Arid Mesa
+4 Arid Mesa
+4 Wooded Foothills
 1 Marsh Flats
 1 Watery Grave
 1 Godless Shrine
@@ -106,8 +99,8 @@
 1 Patriarch's Bidding
 2 Secluded Courtyard
 2 Marsh Flats
-2 Patriarch's Bidding
 2 Godless Shrine
+2 Patriarch's Bidding
 3 Secluded Courtyard
 3 Marsh Flats
 3 Smokebraider
@@ -116,7 +109,14 @@
 4 Smokebraider
 1 Fulminator Mage
 4 Voice of Resurgence
-1 Spitebellows
-3 Arid Mesa
-4 Wooded Foothills
-4 Arid Mesa
+1 City of Brass
+1 Overgrown Tomb
+1 Indatha Triome
+1 Malakir Rebirth
+2 Grief
+2 Malakir Rebirth
+3 Grief
+3 Malakir Rebirth
+4 Grief
+4 Lightning Skelemental
+4 Malakir Rebirth

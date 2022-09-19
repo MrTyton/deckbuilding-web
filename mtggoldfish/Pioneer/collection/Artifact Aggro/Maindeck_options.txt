@@ -1,15 +1,14 @@
-3 Bomat Courier
-3 Patchwork Automaton
+4 Spire of Industry
+1 Hallowed Fountain
+1 Hengegate Pathway
+2 Hengegate Pathway
+2 Hallowed Fountain
+3 Hallowed Fountain
+4 Hallowed Fountain
 1 Alseid of Life's Bounty
 2 Alseid of Life's Bounty
 3 Hengegate Pathway
 4 Hengegate Pathway
-1 All That Glitters
-2 All That Glitters
-4 Patchwork Automaton
-4 Bomat Courier
-2 Plains
-1 Mana Confluence
 1 Shrapnel Blast
 1 Spirebluff Canal
 2 Shrapnel Blast
@@ -32,16 +31,10 @@
 1 Sokenzan, Crucible of Defiance
 2 Riverglide Pathway
 3 Riverglide Pathway
-1 Experimental Synthesizer
-2 Experimental Synthesizer
-3 Experimental Synthesizer
-3 Plains
-4 Plains
-5 Plains
 2 Ghostfire Blade
 1 Roadside Reliquary
-1 Inspiring Vantage
 1 Needleverge Pathway
+1 Inspiring Vantage
 2 Inspiring Vantage
 2 Needleverge Pathway
 3 Inspiring Vantage
@@ -51,19 +44,26 @@
 4 Mutavault
 2 Roadside Reliquary
 3 Roadside Reliquary
+1 Mana Confluence
+3 Plains
+4 Plains
+5 Plains
+1 Experimental Synthesizer
+2 Experimental Synthesizer
+3 Experimental Synthesizer
 6 Plains
 3 Voltage Surge
+1 Battlefield Forge
 3 Alseid of Life's Bounty
 4 Alseid of Life's Bounty
 7 Plains
 8 Plains
 9 Plains
 2 Shadowspear
-1 Battlefield Forge
+2 Battlefield Forge
 4 Roadside Reliquary
 10 Plains
 2 Hope of Ghirapur
-2 Battlefield Forge
 11 Plains
 1 Treasure Vault
 2 Treasure Vault
@@ -100,15 +100,15 @@
 1 Moonsnare Prototype
 2 Moonsnare Prototype
 4 Voltage Surge
+1 Cave of the Frost Dragon
 1 Forest
-1 Westvale Abbey
 1 Lair of the Hydra
+1 Westvale Abbey
 1 Temple Garden
-1 Animation Module
 1 Branchloft Pathway
 1 Hardened Scales
+1 Animation Module
 1 Iron Apprentice
-1 Cave of the Frost Dragon
 1 Evolutionary Leap
 1 Boseiju, Who Endures
 1 The Ozolith

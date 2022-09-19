@@ -10,8 +10,8 @@
 3 Pact of Negation
 1 Dark Ritual
 1 Cabal Ritual
-2 Dark Ritual
 2 Cabal Ritual
+2 Dark Ritual
 3 Dark Ritual
 4 Dark Ritual
 1 Cabal Therapy
@@ -81,13 +81,13 @@
 3 Pyroblast
 4 Street Wraith
 4 Cabal Therapy
-1 Preordain
 1 Sea Gate Restoration
 1 Force of Will
 1 Brainstorm
 1 Ponder
 1 Jwari Disruption
 1 Pelakka Predation
+1 Preordain
 2 Preordain
 2 Brainstorm
 2 Force of Will
@@ -142,7 +142,6 @@
 1 Mox Diamond
 1 Pithing Needle
 1 Helm of Obedience
-1 Rest in Peace
 1 Zuran Orb
 1 Trinisphere
 1 Blood Moon
@@ -153,6 +152,7 @@
 1 Scroll Rack
 1 Humility
 1 Elspeth, Knight-Errant
+1 Rest in Peace
 1 Land Tax
 1 Enlightened Tutor
 1 Plains
@@ -193,5 +193,5 @@
 12 Plains
 13 Plains
 14 Plains
-15 Plains
 16 Plains
+15 Plains

@@ -1,17 +1,17 @@
 3 Goblin Piledriver
 1 Ancient Tomb
-4 Bloodstained Mire
 1 Goblin Chieftain
 4 Mountain
+4 Bloodstained Mire
 2 Arid Mesa
 1 Unlicensed Hearse
-1 Stingscourger
 2 Wooded Foothills
 2 Scalding Tarn
 3 Scalding Tarn
-2 Twinshot Sniper
 2 Fable of the Mirror-Breaker
 2 Ancient Tomb
+2 Twinshot Sniper
+1 Stingscourger
 4 Scalding Tarn
 1 Masked Vandal
 1 Fury
@@ -20,32 +20,32 @@
 1 Goblin Sharpshooter
 1 Kiki-Jiki, Mirror Breaker
 1 Goblin Chainwhirler
-3 Goblin Warchief
 1 Ignoble Hierarch
 2 Ignoble Hierarch
 3 Ignoble Hierarch
-1 Karakas
+4 Goblin Ringleader
 1 Rundvelt Hordemaster
 2 Rundvelt Hordemaster
 3 Rundvelt Hordemaster
 2 Taiga
 4 Ignoble Hierarch
-1 Grenzo, Havoc Raiser
-4 Goblin Ringleader
+3 Muxus, Goblin Grandee
 1 Swamp
+3 Goblin Warchief
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 1 Squee, Dubious Monarch
+1 Karakas
 4 Rundvelt Hordemaster
 1 Mogg Fanatic
 1 Food Chain
 2 Food Chain
 3 Food Chain
-3 Muxus, Goblin Grandee
 3 Wooded Foothills
 4 Wooded Foothills
 4 Food Chain
 3 Arid Mesa
+1 Grenzo, Havoc Raiser
 3 Snow-Covered Mountain
 3 Skirk Prospector
 3 Taiga
@@ -61,7 +61,10 @@
 1 Goblin Welder
 3 Twinshot Sniper
 1 Krenko, Mob Boss
-1 Sundering Titan
+2 Goblin Chieftain
+3 Goblin Chieftain
+5 Mountain
+6 Mountain
 1 Goblin Engineer
 1 Ensnaring Bridge
 1 Fissure Wizard
@@ -74,6 +77,7 @@
 1 Plateau
 1 Volcanic Island
 1 Sword of the Meek
+1 Sundering Titan
 2 Goblin Engineer
 2 Ensnaring Bridge
 2 Thopter Foundry
@@ -98,22 +102,35 @@
 1 Blood Crypt
 1 Snow-Covered Forest
 1 Stomping Ground
-2 Goblin Chieftain
 2 Red Elemental Blast
-3 Goblin Chieftain
 1 Hobgoblin Bandit Lord
 2 Goblin Cratermaker
 1 Fiery Islet
 4 Snow-Covered Mountain
 1 Squee, the Immortal
-1 Nurturing Peatland
 1 Legion Warboss
+1 Nurturing Peatland
 1 Warren Weirding
 1 Pendelhaven
 2 Legion Warboss
 3 Goblin Anarchomancer
 4 Fury
 4 Goblin Anarchomancer
+1 Dead/Gone
+1 Tarfire
+1 Goblin Rabblemaster
+1 Chrome Mox
+1 Chalice of the Void
+2 Dead/Gone
+2 Chalice of the Void
+2 Goblin Rabblemaster
+2 Chrome Mox
+3 Chalice of the Void
+3 Goblin Rabblemaster
+3 Chrome Mox
+4 Goblin Chieftain
+4 Badlands
+4 Chrome Mox
 1 Conspicuous Snoop
 1 Boggart Harbinger
 2 Mogg Fanatic
@@ -122,5 +139,3 @@
 2 Boggart Harbinger
 3 Conspicuous Snoop
 4 Conspicuous Snoop
-5 Mountain
-6 Mountain

@@ -21,3 +21,19 @@
 |2 [Reckoner Bankbuster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548568)|4 [Bouncer's Beatdown](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555336)  |2 Outland Liberator|
 |3 [Unlicensed Hearse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555447)  |4 [Tamiyo's Safekeeping](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548521)|                   |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
+|--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
+|                    1|[Orochi Merge-Keeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548512)    |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)          |
+|                    1|[Kodama of the West Tree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548508)|                    1|Tail Swipe                                                                                         |
+|                    1|[Roadside Reliquary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548585)     |                    1|[Turn the Earth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534996)          |
+|                    1|[Augur of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534952)        |                    1|[Shigeki, Jukai Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548515)|
+|                    2|[Orochi Merge-Keeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548512)    |                    2|Tail Swipe                                                                                         |
+|                    3|Silverback Elder                                                                                  |                    2|[Turn the Earth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534996)          |
+|                    3|[Orochi Merge-Keeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548512)    |                    3|Tail Swipe                                                                                         |
+|                    4|[Fight Rigging](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555346)          |                     |                                                                                                   |
+|                    4|[Orochi Merge-Keeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548512)    |                     |                                                                                                   |
+|                    4|[Jewel Thief](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555352)            |                     |                                                                                                   |
+

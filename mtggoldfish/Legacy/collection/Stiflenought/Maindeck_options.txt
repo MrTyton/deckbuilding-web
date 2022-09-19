@@ -6,85 +6,87 @@
 3 Daze
 2 Slip Out the Back
 1 Force of Negation
-1 Snuff Out
 1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
+1 Snuff Out
 1 Flooded Strand
 2 Flooded Strand
-4 Daze
 3 Misty Rainforest
+4 Daze
 1 Mystic Sanctuary
+4 Uro, Titan of Nature's Wrath
+1 Sylvan Library
+4 Misty Rainforest
+1 Island
+1 Scroll of Fate
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
-4 Uro, Titan of Nature's Wrath
-4 Misty Rainforest
-1 Sylvan Library
-1 Scroll of Fate
-1 Island
 1 Fatal Push
-4 Tropical Island
-1 Pyroblast
 3 Flooded Strand
 1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
-3 Underground Sea
-1 Verdant Catacombs
-2 Verdant Catacombs
-4 Expressive Iteration
+4 Tropical Island
+1 Pyroblast
 4 Urza's Saga
 4 Flooded Strand
 1 Shadowspear
+3 Underground Sea
+4 Expressive Iteration
 1 Abrupt Decay
 1 Bayou
 2 Abrupt Decay
-2 Fatal Push
-4 Thoughtseize
-3 Murktide Regent
-1 Breeding Pool
+1 Verdant Catacombs
+2 Verdant Catacombs
 2 Island
-3 Island
-1 Taiga
-1 Tarmogoyf
-1 Lazav, the Multifarious
-2 Tarmogoyf
-2 Lazav, the Multifarious
-3 Tarmogoyf
-1 Minsc & Boo, Timeless Heroes
-2 Minsc & Boo, Timeless Heroes
-1 Watery Grave
-1 Death's Shadow
-1 Berserk
-2 Death's Shadow
-2 Berserk
-2 Snuff Out
-2 Watery Grave
-3 Watery Grave
-3 Death's Shadow
-4 Death's Shadow
-2 Snow-Covered Island
-1 Sudden Edict
-1 Unholy Heat
-1 Flusterstorm
-1 Retrofitter Foundry
-1 Nihil Spellbomb
-3 Slip Out the Back
-4 Slip Out the Back
+2 Fatal Push
+3 Murktide Regent
 1 Pithing Needle
 1 Torpor Orb
 2 Torpor Orb
 3 Torpor Orb
+3 Island
 1 Tundra
+1 Taiga
+1 Tarmogoyf
+1 Lazav, the Multifarious
+2 Lazav, the Multifarious
+2 Tarmogoyf
+3 Tarmogoyf
+1 Minsc & Boo, Timeless Heroes
+2 Minsc & Boo, Timeless Heroes
+2 Snow-Covered Island
+1 Sudden Edict
+1 Unholy Heat
+1 Retrofitter Foundry
+1 Flusterstorm
+4 Thoughtseize
+1 Nihil Spellbomb
+3 Slip Out the Back
+4 Slip Out the Back
+1 Enlightened Tutor
+1 Oblivion Ring
+1 Strict Proctor
+1 Prismatic Vista
+1 Plains
+2 Enlightened Tutor
+2 Strict Proctor
+2 Plains
+2 Prismatic Vista
+3 Enlightened Tutor
+3 Prismatic Vista
+3 Strict Proctor
+4 Prismatic Vista
+4 Enlightened Tutor
 2 Force of Negation
+1 Breeding Pool
 1 Fury
 1 Endurance
 2 Endurance
 1 Badlands
 1 Spell Pierce
 2 Spell Pierce
-1 Varolz, the Scar-Striped
-2 Varolz, the Scar-Striped
 1 Assassin's Trophy
 1 Boseiju, Who Endures
 1 Life from the Loam
@@ -92,48 +94,33 @@
 1 Forest
 2 Grist, the Hunger Tide
 2 Bayou
-3 Verdant Catacombs
+1 Path to Exile
+1 Lightning Greaves
+1 Swords to Plowshares
+1 Not of This World
+1 Teferi's Protection
+1 Artificer Class
+2 Path to Exile
+2 Swords to Plowshares
+3 Force of Negation
 3 Abrupt Decay
+1 Swamp
+1 Baleful Strix
+2 Baleful Strix
+3 Baleful Strix
+3 Fatal Push
+4 Underground Sea
+4 Baleful Strix
 1 Savannah
 1 Esper Sentinel
 1 Prismatic Ending
-2 Esper Sentinel
 2 Scroll of Fate
+2 Esper Sentinel
 2 Prismatic Ending
 2 Tundra
 3 Tundra
 3 Esper Sentinel
 4 Esper Sentinel
-1 Path to Exile
-1 Lightning Greaves
-1 Enlightened Tutor
-1 Swords to Plowshares
-1 Oblivion Ring
-1 Not of This World
-1 Strict Proctor
-1 Teferi's Protection
-1 Artificer Class
-1 Prismatic Vista
-1 Plains
-2 Path to Exile
-2 Enlightened Tutor
-2 Swords to Plowshares
-2 Strict Proctor
-2 Plains
-2 Prismatic Vista
-3 Enlightened Tutor
-3 Prismatic Vista
-3 Force of Negation
-3 Strict Proctor
-4 Prismatic Vista
-4 Enlightened Tutor
-1 Swamp
-1 Baleful Strix
-2 Baleful Strix
-3 Fatal Push
-3 Baleful Strix
-4 Underground Sea
-4 Baleful Strix
 1 Steam Vents
 1 Dragon's Rage Channeler
 1 Mishra's Bauble
@@ -153,11 +140,29 @@
 2 Consider
 3 Breeding Pool
 3 Ledger Shredder
-3 Consider
 3 Sailors' Bane
+3 Consider
 4 Breeding Pool
 4 Ledger Shredder
 4 Consider
+1 Mox Diamond
+1 Teferi, Time Raveler
+2 Mox Diamond
+2 Teferi, Time Raveler
+3 Mox Diamond
+4 Mox Diamond
+4 Strict Proctor
+1 Watery Grave
+1 Death's Shadow
+1 Berserk
+2 Death's Shadow
+2 Berserk
+2 Snuff Out
+2 Watery Grave
+3 Watery Grave
+3 Verdant Catacombs
+3 Death's Shadow
+4 Death's Shadow
 1 Preordain
 1 Misdirection
 1 You See a Guard Approach

@@ -31,7 +31,12 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|-------------|---------------------|--------------|
-|                    1|Thran Portal |                     |              |
+|*n*<sup>th</sup> copy|  Maindeck Card  |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|-----------------|---------------------|--------------|
+|                    1|Thran Portal     |                     |              |
+|                    1|Joint Exploration|                     |              |
+|                    2|Joint Exploration|                     |              |
+|                    2|Tear Asunder     |                     |              |
+|                    2|Thran Portal     |                     |              |
+|                    1|Tear Asunder     |                     |              |
 
