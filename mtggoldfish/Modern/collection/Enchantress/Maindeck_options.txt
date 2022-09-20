@@ -30,20 +30,20 @@
 1 Wooded Foothills
 1 Snow-Covered Island
 3 Commune with Spirits
+1 Plains
 1 Walking Ballista
 1 Cindervines
 1 Heliod, Sun-Crowned
 1 Leyline of Sanctity
 1 Fertile Ground
-1 Plains
 1 Forest
 2 Walking Ballista
 2 Forest
 2 Fertile Ground
 2 Leyline of Sanctity
 3 Forest
-4 Forest
 4 Solitary Confinement
+4 Forest
 5 Forest
 6 Forest
 1 Cast Out
@@ -62,20 +62,25 @@
 2 Leyline Binding
 1 Yavimaya, Cradle of Growth
 1 Ghostly Prison
-1 Flooded Strand
 1 Sacred Foundry
+1 Flooded Strand
 2 Flooded Strand
 3 Teferi, Time Raveler
-1 Otawara, Soaring City
 1 Spreading Seas
+1 Otawara, Soaring City
 2 Spreading Seas
 3 Spreading Seas
 1 Seal of Fire
-1 Banefire
 1 Ketria Triome
+1 Banefire
 2 Seal of Fire
 3 Wooded Foothills
 3 Jeskai Ascendancy
+3 Verdant Catacombs
+4 Verdant Catacombs
+2 Arid Mesa
+3 Arid Mesa
+4 Misty Rainforest
 1 Zagoth Triome
 1 Dryad of the Ilysian Grove
 1 Prismatic Omen
@@ -86,8 +91,6 @@
 3 Leyline Binding
 3 Dryad of the Ilysian Grove
 4 Leyline Binding
-3 Verdant Catacombs
-4 Verdant Catacombs
 1 Solemnity
 1 Idyllic Tutor
 1 Phyrexian Unlife
@@ -97,11 +100,8 @@
 2 Solemnity
 3 Phyrexian Unlife
 3 Solemnity
-4 Phyrexian Unlife
 4 Commune with Spirits
-2 Arid Mesa
-3 Arid Mesa
-4 Misty Rainforest
+4 Phyrexian Unlife
 5 Snow-Covered Plains
 1 Finale of Devastation
 8 Snow-Covered Forest

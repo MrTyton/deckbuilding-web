@@ -33,14 +33,14 @@
 |                    3|Lunarch Veteran                                                                                     |                     |              |
 |                    4|Lunarch Veteran                                                                                     |                     |              |
 |                    1|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)        |                     |              |
-|                    1|[Isolated Chapel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443129)          |                     |              |
 |                    1|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)           |                     |              |
 |                    1|[Borrowed Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534759)            |                     |              |
 |                    1|[Valorous Stance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391950)          |                     |              |
+|                    1|[Sorin, Vengeful Bloodlord](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461144)|                     |              |
+|                    1|[Isolated Chapel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443129)          |                     |              |
 |                    1|[Pacifism](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129667)                 |                     |              |
 |                    1|[Infernal Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534880)           |                     |              |
 |                    1|[Orah, Skyclave Hierophant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491884)|                     |              |
-|                    1|[Sorin, Vengeful Bloodlord](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461144)|                     |              |
 |                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                    |                     |              |
 |                    1|[Profane Procession](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439826)       |                     |              |
 |                    1|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)      |                     |              |

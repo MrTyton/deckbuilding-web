@@ -65,7 +65,6 @@
 1 Hidetsugu Consumes All
 1 Alpine Moon
 2 Ratchet Bomb
-2 Shadow of Doubt
 1 Soul Transfer
 2 Soul Transfer
 2 Relic of Progenitus
@@ -73,6 +72,7 @@
 1 Dragon's Claw
 1 Rain of Tears
 2 Dragon's Claw
+2 Shadow of Doubt
 1 Dismember
 1 The Elderspell
 2 Field of Ruin
@@ -80,12 +80,12 @@
 1 Despise
 1 Ultimate Price
 2 Despise
-2 Fatal Push
-1 Karn, Scion of Urza
 1 Legion's End
+1 Karn, Scion of Urza
 1 Shadowspear
-2 Legion's End
 2 Karn, Scion of Urza
+2 Legion's End
+2 Fatal Push
 1 Sudden Edict
 1 Bojuka Bog
 1 Eliminate
@@ -97,6 +97,11 @@
 2 Mind Rake
 2 Rotting Regisaur
 3 Necromentia
+1 Lingering Souls
+1 Kaya's Guile
+2 Kaya's Guile
+2 Lingering Souls
+3 Lingering Souls
 3 Nihil Spellbomb
 1 Inquisition of Kozilek
 1 Vampire Hexmage
@@ -115,8 +120,3 @@
 2 Seasoned Pyromancer
 3 Kolaghan's Command
 4 Dauthi Voidwalker
-1 Lingering Souls
-1 Kaya's Guile
-2 Lingering Souls
-2 Kaya's Guile
-3 Lingering Souls

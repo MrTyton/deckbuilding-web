@@ -39,13 +39,13 @@
 2 Seal of Fire
 3 Light Up the Stage
 4 Light Up the Stage
-2 Misty Rainforest
 2 Explore
-1 Power Conduit
+2 Misty Rainforest
+1 Steam Vents
 1 Aether Spellbomb
 1 Hex Parasite
 1 Cliffhaven Kitesail
-1 Steam Vents
+1 Power Conduit
 1 Arni Slays the Troll
 1 Ancient Stirrings
 2 Ancient Stirrings
@@ -54,19 +54,19 @@
 3 Ancient Stirrings
 3 Power Conduit
 4 Power Conduit
-1 Shrapnel Blast
 1 Galvanic Blast
 1 Experimental Synthesizer
-2 Shrapnel Blast
+1 Shrapnel Blast
 2 Galvanic Blast
 2 Experimental Synthesizer
-3 Galvanic Blast
-3 Shrapnel Blast
+2 Shrapnel Blast
 3 Snow-Covered Mountain
+3 Galvanic Blast
 3 Experimental Synthesizer
-4 Galvanic Blast
-4 Shrapnel Blast
+3 Shrapnel Blast
 4 Experimental Synthesizer
+4 Shrapnel Blast
+4 Galvanic Blast
 1 Unlicensed Hearse
 1 Titania, Protector of Argoth
 1 Zuran Orb
@@ -114,8 +114,8 @@
 3 Seal of Fire
 3 Rift Bolt
 4 Brushfire Elemental
-1 Tranquil Thicket
 1 Grafdigger's Cage
+1 Tranquil Thicket
 1 Pithing Needle
 2 Tranquil Thicket
 3 Fury
@@ -143,8 +143,8 @@
 4 Seasoned Pyromancer
 4 Abundant Harvest
 5 Mountain
-1 Ghost Quarter
 1 Life from the Loam
+1 Ghost Quarter
 1 Liquimetal Coating
 2 Liquimetal Coating
 3 Boseiju, Who Endures

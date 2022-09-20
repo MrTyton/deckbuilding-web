@@ -40,8 +40,8 @@
 1 Mogg Fanatic
 1 Food Chain
 2 Food Chain
-3 Food Chain
 3 Wooded Foothills
+3 Food Chain
 4 Wooded Foothills
 4 Food Chain
 3 Arid Mesa
@@ -49,8 +49,8 @@
 3 Snow-Covered Mountain
 3 Skirk Prospector
 3 Taiga
-1 Goblin Anarchomancer
 1 Forest
+1 Goblin Anarchomancer
 2 Goblin Anarchomancer
 4 Muxus, Goblin Grandee
 1 Red Elemental Blast
@@ -66,6 +66,7 @@
 5 Mountain
 6 Mountain
 1 Goblin Engineer
+1 Sundering Titan
 1 Ensnaring Bridge
 1 Fissure Wizard
 1 Thopter Foundry
@@ -77,7 +78,6 @@
 1 Plateau
 1 Volcanic Island
 1 Sword of the Meek
-1 Sundering Titan
 2 Goblin Engineer
 2 Ensnaring Bridge
 2 Thopter Foundry
@@ -99,8 +99,8 @@
 4 Esper Sentinel
 4 Thopter Foundry
 4 Goblin Welder
-1 Blood Crypt
 1 Snow-Covered Forest
+1 Blood Crypt
 1 Stomping Ground
 2 Red Elemental Blast
 1 Hobgoblin Bandit Lord
@@ -108,8 +108,8 @@
 1 Fiery Islet
 4 Snow-Covered Mountain
 1 Squee, the Immortal
-1 Legion Warboss
 1 Nurturing Peatland
+1 Legion Warboss
 1 Warren Weirding
 1 Pendelhaven
 2 Legion Warboss
@@ -121,10 +121,10 @@
 1 Goblin Rabblemaster
 1 Chrome Mox
 1 Chalice of the Void
-2 Dead/Gone
 2 Chalice of the Void
-2 Goblin Rabblemaster
+2 Dead/Gone
 2 Chrome Mox
+2 Goblin Rabblemaster
 3 Chalice of the Void
 3 Goblin Rabblemaster
 3 Chrome Mox
@@ -133,9 +133,9 @@
 4 Chrome Mox
 1 Conspicuous Snoop
 1 Boggart Harbinger
-2 Mogg Fanatic
 2 Kiki-Jiki, Mirror Breaker
 2 Conspicuous Snoop
 2 Boggart Harbinger
+2 Mogg Fanatic
 3 Conspicuous Snoop
 4 Conspicuous Snoop

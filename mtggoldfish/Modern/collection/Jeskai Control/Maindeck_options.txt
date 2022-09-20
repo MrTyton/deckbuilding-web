@@ -32,9 +32,9 @@
 4 Fury
 1 Seachrome Coast
 1 Lotus Field
+1 Valakut Awakening
 1 Blood Sun
 1 Flagstones of Trokair
-1 Valakut Awakening
 2 Lotus Field
 2 Blood Sun
 2 Valakut Awakening
@@ -44,10 +44,10 @@
 3 Valakut Awakening
 3 Teferi, Hero of Dominaria
 3 Flagstones of Trokair
+4 Valakut Awakening
 4 Blood Sun
 4 Lotus Field
 4 Cryptic Command
-4 Valakut Awakening
 4 Flagstones of Trokair
 4 Teferi, Hero of Dominaria
 3 Chalice of the Void
@@ -58,9 +58,9 @@
 1 Spell Pierce
 2 Spell Pierce
 4 Island
-1 Stoneforge Mystic
-1 Kaldra Compleat
 1 Batterskull
+1 Kaldra Compleat
+1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
@@ -132,9 +132,9 @@
 1 Ionize
 2 Fiery Islet
 3 Sunbaked Canyon
-1 Rest in Peace
-1 Nexus of Fate
 1 Cascade Bluffs
+1 Nexus of Fate
+1 Rest in Peace
 2 Fateful Absence
 1 Consider
 1 Search for Azcanta
@@ -147,11 +147,11 @@
 2 Lightning Helix
 2 Search for Azcanta
 3 Consider
+1 Prairie Stream
 1 Windswept Heath
+1 Castle Ardenvale
 1 Spreading Seas
 1 Breeding Pool
-1 Castle Ardenvale
-1 Prairie Stream
 2 Windswept Heath
 2 Spreading Seas
 2 Prairie Stream
@@ -162,16 +162,13 @@
 2 Ephemerate
 3 Steam Vents
 3 Spell Pierce
-1 Roiling Vortex
-1 Subtlety
-1 Vendilion Clique
-2 Roiling Vortex
-2 Surgical Extraction
-2 Subtlety
-2 Vendilion Clique
-3 Subtlety
-3 Celestial Colonnade
-3 Vendilion Clique
+1 Day's Undoing
+1 Geier Reach Sanitarium
+1 Narset, Parter of Veils
+2 Day's Undoing
+2 Narset, Parter of Veils
+3 Narset, Parter of Veils
+4 Narset, Parter of Veils
 1 Spell Snare
 3 Hallowed Fountain
 3 Field of Ruin
@@ -183,10 +180,13 @@
 3 Path to Exile
 5 Island
 6 Island
-1 Narset, Parter of Veils
-1 Geier Reach Sanitarium
-1 Day's Undoing
-2 Narset, Parter of Veils
-2 Day's Undoing
-3 Narset, Parter of Veils
-4 Narset, Parter of Veils
+1 Roiling Vortex
+1 Vendilion Clique
+1 Subtlety
+2 Vendilion Clique
+2 Roiling Vortex
+2 Surgical Extraction
+2 Subtlety
+3 Celestial Colonnade
+3 Subtlety
+3 Vendilion Clique
