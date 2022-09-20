@@ -125,6 +125,6 @@
 |                    4|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)             |                     |                                                                                                      |
 |                    4|[Thoughtcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222732)                |                     |                                                                                                      |
 |                    1|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)            |                     |                                                                                                      |
-|                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                     |                                                                                                      |
 |                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                     |                                                                                                      |
+|                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                     |                                                                                                      |
 

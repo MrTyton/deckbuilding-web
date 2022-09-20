@@ -56,38 +56,38 @@
 3 Prismatic Vista
 3 Breeding Pool
 1 Search for Azcanta
-1 Emrakul, the Aeons Torn
-1 Overgrown Tomb
 1 Indatha Triome
 1 Marsh Flats
 1 Verdant Catacombs
-1 Savai Triome
 1 Godless Shrine
 1 Birds of Paradise
 1 Platinum Emperion
+1 Savai Triome
 1 Fable of the Mirror-Breaker
 1 Lava Spike
+1 Xander's Lounge
 1 Eternal Witness
 1 Primeval Titan
-1 Fact or Fiction
 1 Arid Mesa
+1 Fact or Fiction
 1 Drowned Catacomb
 1 Sunpetal Grove
 1 Lotus Bloom
 1 Neoform
 1 Mountain
 1 Battle of Wits
-1 Xander's Lounge
+1 Valki, God of Lies
+1 Raffine's Tower
 1 Bring to Light
 1 Time Warp
+1 Overgrown Tomb
 1 Kiki-Jiki, Mirror Breaker
-1 Raffine's Tower
 1 Dragonskull Summit
 1 Sacred Foundry
-1 Bloodstained Mire
 1 Valakut, the Molten Pinnacle
-1 Admonition Angel
+1 Bloodstained Mire
 1 Idyllic Tutor
+1 Admonition Angel
 1 Svyelun of Sea and Sky
 1 Deflecting Palm
 1 Settle the Wreckage
@@ -111,12 +111,12 @@
 1 The Reality Chip
 1 Glimpse of Tomorrow
 1 Master of Waves
+1 Emrakul, the Aeons Torn
 1 Eldrazi Conscription
 1 Coalition Victory
 1 Jasmine Boreal
 1 Massive Raid
 1 Expressive Iteration
-1 Valki, God of Lies
 1 Swamp
 1 Fires of Invention
 1 Nimble Mongoose
@@ -176,15 +176,16 @@
 2 Fury
 2 Sulfur Falls
 2 Raugrin Triome
-2 Explore
 2 Sacred Foundry
 2 Battle of Wits
 2 Bring to Light
 2 Fable of the Mirror-Breaker
+2 Explore
 2 Wooded Foothills
-2 Sunpetal Grove
+2 Stomping Ground
 2 Arid Mesa
 2 Valakut, the Molten Pinnacle
+2 Sunpetal Grove
 2 Reflecting Pool
 2 Abundant Harvest
 2 Path to Exile
@@ -192,7 +193,6 @@
 2 Fires of Invention
 2 Noble Hierarch
 2 Omnath, Locus of Creation
-2 Stomping Ground
 2 Expressive Iteration
 2 Utopia Sprawl
 2 Rootbound Crag
@@ -203,10 +203,10 @@
 2 Hedron Alignment
 2 Massive Raid
 3 Fury
+3 Temple Garden
 3 Battle of Wits
 3 Bring to Light
 3 Explore
-3 Temple Garden
 3 Arid Mesa
 3 Wooded Foothills
 3 Reflecting Pool
@@ -229,13 +229,14 @@
 4 Sacred Foundry
 4 Prismatic Vista
 4 Battle of Wits
+4 Wooded Foothills
 4 Breeding Pool
 4 Arid Mesa
-4 Wooded Foothills
 4 Explore
 4 Steam Vents
 4 Teferi, Time Raveler
 4 Abundant Harvest
+4 Temple Garden
 4 Risen Reef
 4 Utopia Sprawl
 4 Bring to Light
@@ -248,7 +249,6 @@
 4 Omnath, Locus of Creation
 4 Hedron Alignment
 4 Stomping Ground
-4 Temple Garden
 1 Snow-Covered Plains
 1 March of Otherworldly Light
 2 March of Otherworldly Light
@@ -277,8 +277,8 @@
 1 Glacial Floodplain
 2 Teferi, Hero of Dominaria
 2 Snow-Covered Forest
-1 Creeping Tar Pit
 1 Snow-Covered Swamp
+1 Creeping Tar Pit
 1 Abrupt Decay
 1 Pulse of Murasa
 1 Assassin's Trophy

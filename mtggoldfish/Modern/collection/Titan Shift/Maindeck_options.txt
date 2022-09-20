@@ -21,7 +21,6 @@
 2 Steam Vents
 1 Chord of Calling
 1 Horizon Canopy
-1 Zagoth Triome
 1 Botanical Sanctum
 1 Wall of Omens
 1 Polluted Delta
@@ -31,7 +30,6 @@
 1 Kiki-Jiki, Mirror Breaker
 1 Noble Hierarch
 1 Finale of Devastation
-1 Prismatic Ending
 1 Jetmir's Garden
 1 Nahiri, the Harbinger
 1 Felidar Guardian
@@ -41,9 +39,10 @@
 1 Snapcaster Mage
 1 Arbor Elf
 1 Hallowed Fountain
-1 Path to Exile
 1 Ziatora's Proving Ground
 1 Restoration Angel
+1 Path to Exile
+1 Prismatic Ending
 1 Tireless Tracker
 1 Serra's Emissary
 1 Knight of Autumn
@@ -78,6 +77,7 @@
 1 Saheeli Rai
 1 Elesh Norn, Grand Cenobite
 1 Shalai, Voice of Plenty
+1 Zagoth Triome
 1 Village Bell-Ringer
 1 Neoform
 1 Avacyn's Pilgrim
@@ -108,17 +108,17 @@
 2 Horizon Canopy
 2 Ignoble Hierarch
 2 Breeding Pool
-2 Prismatic Ending
 2 Nahiri, the Harbinger
 2 Snapcaster Mage
 2 Finale of Devastation
 2 Polluted Delta
 2 Noble Hierarch
 2 Arbor Elf
-2 Path to Exile
 2 Restoration Angel
 2 Birds of Paradise
+2 Path to Exile
 2 Tireless Tracker
+2 Prismatic Ending
 2 Madcap Experiment
 2 Wall of Blossoms
 2 Hinterland Harbor
@@ -147,11 +147,10 @@
 2 Gifts Ungiven
 2 Eternal Witness
 3 Noble Hierarch
-3 Verdant Catacombs
 3 Flooded Strand
+3 Verdant Catacombs
 3 Chord of Calling
 3 Wall of Omens
-3 Prismatic Ending
 3 Ignoble Hierarch
 3 Misty Rainforest
 3 Nahiri, the Harbinger
@@ -160,6 +159,7 @@
 3 Teferi, Time Raveler
 3 Path to Exile
 3 Windswept Heath
+3 Prismatic Ending
 3 Glittering Wish
 3 Sunpetal Grove
 3 Primal Command
@@ -192,11 +192,11 @@
 3 Sylvan Caryatid
 3 Avacyn's Pilgrim
 4 Noble Hierarch
+4 Prismatic Ending
 4 Polluted Delta
 4 Flooded Strand
 4 Verdant Catacombs
 4 Snapcaster Mage
-4 Prismatic Ending
 4 Chord of Calling
 4 Nahiri, the Harbinger
 4 Path to Exile
@@ -255,13 +255,13 @@
 1 Growth Spiral
 2 Fire/Ice
 2 Remand
-2 Snow-Covered Forest
 2 Expressive Iteration
+2 Snow-Covered Forest
 2 Endurance
 2 Growth Spiral
 2 Ketria Triome
-3 Steam Vents
 3 Expressive Iteration
+3 Steam Vents
 3 Ketria Triome
 3 Remand
 3 Growth Spiral
