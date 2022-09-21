@@ -1,29 +1,27 @@
-1 Shark Typhoon
-3 Supreme Verdict
+4 Lightning Bolt
 1 March of Otherworldly Light
-1 Spirebluff Canal
+1 Glacial Fortress
+2 Castle Vantress
 2 Spirebluff Canal
 3 Scalding Tarn
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
-3 Lightning Bolt
-4 Lightning Bolt
-3 Mystic Gate
-2 Misty Rainforest
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
+1 Sacred Foundry
 2 March of Otherworldly Light
 1 The Wandering Emperor
-2 Polluted Delta
-3 Memory Deluge
-2 Jace, the Mind Sculptor
-1 Sacred Foundry
 1 Cryptic Command
-2 Teferi, Hero of Dominaria
+2 Mystic Gate
+2 Jace, the Mind Sculptor
+4 Island
+3 Supreme Verdict
 2 Cryptic Command
+3 Memory Deluge
+2 Teferi, Hero of Dominaria
 3 Cryptic Command
 2 Raugrin Triome
 1 Fury
@@ -32,32 +30,34 @@
 4 Fury
 1 Seachrome Coast
 1 Lotus Field
+1 Valakut Awakening
 1 Blood Sun
 1 Flagstones of Trokair
-1 Valakut Awakening
 2 Lotus Field
-2 Blood Sun
 2 Valakut Awakening
+2 Blood Sun
 2 Flagstones of Trokair
 3 Blood Sun
 3 Lotus Field
-3 Teferi, Hero of Dominaria
 3 Valakut Awakening
+3 Teferi, Hero of Dominaria
 3 Flagstones of Trokair
 4 Flagstones of Trokair
+4 Valakut Awakening
 4 Blood Sun
 4 Lotus Field
 4 Cryptic Command
-4 Valakut Awakening
 4 Teferi, Hero of Dominaria
-3 Chalice of the Void
-4 Fire/Ice
-2 Shark Typhoon
-3 Shark Typhoon
-4 Snapcaster Mage
 1 Spell Pierce
 2 Spell Pierce
-4 Island
+1 Dress Down
+2 Misty Rainforest
+1 Opt
+2 Opt
+3 Opt
+1 Shark Typhoon
+2 Polluted Delta
+2 Celestial Colonnade
 1 Batterskull
 1 Kaldra Compleat
 1 Stoneforge Mystic
@@ -65,38 +65,43 @@
 3 Stoneforge Mystic
 4 Stoneforge Mystic
 2 Seachrome Coast
+3 Chalice of the Void
 4 Memory Deluge
-2 Hall of Storm Giants
-4 Shark Typhoon
 2 The Wandering Emperor
-1 Dress Down
-1 Opt
-2 Opt
-3 Opt
-1 Brazen Borrower
-1 Spara's Headquarters
+3 Mystic Gate
+4 Fire/Ice
 4 Opt
-1 Path to Exile
-2 Path to Exile
-1 Timeless Dragon
-2 Celestial Colonnade
-4 Scalding Tarn
-4 Teferi, Time Raveler
-1 Sulfur Falls
-1 Arid Mesa
+1 Watery Grave
+1 Brazen Borrower
 2 Plains
 1 Field of Ruin
 2 Field of Ruin
-1 Surgical Extraction
 1 Marsh Flats
-1 Watery Grave
-4 Expressive Iteration
-1 Mountain
+1 Surgical Extraction
+2 Shark Typhoon
+3 Shark Typhoon
+4 Shark Typhoon
+1 Arid Mesa
+1 Path to Exile
+2 Path to Exile
+4 Scalding Tarn
+4 Teferi, Time Raveler
 2 Dress Down
+1 Mountain
 3 March of Otherworldly Light
+1 Spara's Headquarters
+2 Hall of Storm Giants
+1 Sulfur Falls
+4 Expressive Iteration
+1 Timeless Dragon
+2 Arid Mesa
 3 Spirebluff Canal
 4 Chalice of the Void
-1 Fateful Absence
+1 Subtlety
+2 Subtlety
+3 Celestial Colonnade
+3 Subtlety
+3 Polluted Delta
 1 Esper Sentinel
 1 Bonecrusher Giant
 1 Sunbaked Canyon
@@ -107,7 +112,6 @@
 2 Esper Sentinel
 2 Hushbringer
 2 Luminarch Aspirant
-2 Arid Mesa
 2 Sunbaked Canyon
 3 Esper Sentinel
 3 Hushbringer
@@ -116,7 +120,6 @@
 4 Luminarch Aspirant
 4 Hushbringer
 1 Unholy Heat
-3 Polluted Delta
 2 Glacial Fortress
 2 Timeless Dragon
 1 Flame Blitz
@@ -132,10 +135,10 @@
 1 Ionize
 2 Fiery Islet
 3 Sunbaked Canyon
-1 Nexus of Fate
+1 Fateful Absence
 1 Cascade Bluffs
+1 Nexus of Fate
 1 Rest in Peace
-2 Fateful Absence
 1 Consider
 1 Lightning Helix
 1 Snow-Covered Plains
@@ -156,12 +159,18 @@
 2 Spreading Seas
 2 Prairie Stream
 3 Windswept Heath
+3 Spell Pierce
 1 Ephemerate
 2 Unholy Heat
 2 Sulfur Falls
 2 Ephemerate
 3 Steam Vents
-3 Spell Pierce
+1 Roiling Vortex
+1 Vendilion Clique
+2 Surgical Extraction
+2 Roiling Vortex
+2 Vendilion Clique
+3 Vendilion Clique
 1 Spell Snare
 3 Hallowed Fountain
 3 Field of Ruin
@@ -180,13 +189,3 @@
 3 Path to Exile
 5 Island
 6 Island
-1 Roiling Vortex
-1 Vendilion Clique
-1 Subtlety
-2 Roiling Vortex
-2 Vendilion Clique
-2 Surgical Extraction
-2 Subtlety
-3 Celestial Colonnade
-3 Subtlety
-3 Vendilion Clique

@@ -44,7 +44,7 @@
 |                    3|[Galvanic Relay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522203)       |                    2|[Blood Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439749)             |
 |                    4|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    1|[Hazoret's Undying Fury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430785)|
 |                    1|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)  |                     |                                                                                                 |
-|                    2|[Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527453)                 |                     |                                                                                                 |
 |                    2|[Desperate Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=80275)      |                     |                                                                                                 |
+|                    2|[Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527453)                 |                     |                                                                                                 |
 |                    4|Inspired Tinkering                                                                              |                     |                                                                                                 |
 

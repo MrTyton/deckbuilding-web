@@ -101,20 +101,20 @@
 2 Geist of Saint Traft
 1 Vanishing Verse
 2 Vanishing Verse
-1 Boseiju, Who Shelters All
-2 Polluted Delta
-3 Polluted Delta
 1 Bonecrusher Giant
 1 Snapcaster Mage
 1 Hexdrinker
 2 Bonecrusher Giant
 2 Snapcaster Mage
 3 Scalding Tarn
-3 Stomping Ground
+1 Boseiju, Who Shelters All
+2 Polluted Delta
+3 Polluted Delta
 1 Force of Negation
 2 Force of Negation
 3 Brazen Borrower
 3 Force of Negation
+3 Stomping Ground
 1 Might of Alara
 1 Gaea's Might
 2 Gaea's Might
@@ -125,12 +125,16 @@
 3 Ignoble Hierarch
 3 Temple Garden
 4 Ignoble Hierarch
+1 Expressive Iteration
+2 Expressive Iteration
+3 Expressive Iteration
+4 Expressive Iteration
 3 Fury
 4 Fury
 1 Fatal Push
 1 Thoughtseize
-1 Ziatora's Proving Ground
 1 Inquisition of Kozilek
+1 Ziatora's Proving Ground
 1 Hallowed Fountain
 2 Blood Crypt
 2 Fatal Push
@@ -151,10 +155,6 @@
 3 Manamorphose
 4 Ledger Shredder
 4 Manamorphose
-1 Expressive Iteration
-2 Expressive Iteration
-3 Expressive Iteration
-4 Expressive Iteration
 1 Prismatic Ending
 1 Solitude
 2 Prismatic Ending
