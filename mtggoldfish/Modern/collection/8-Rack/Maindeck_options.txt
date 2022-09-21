@@ -114,8 +114,6 @@
 1 Bontu's Last Reckoning
 1 Nurturing Peatland
 2 Nurturing Peatland
-1 Eliminate
-2 Eliminate
 1 Heartless Act
 1 Darkblast
 1 Feed the Swarm
@@ -125,9 +123,8 @@
 1 Liliana's Triumph
 2 Liliana's Triumph
 2 Go Blank
-1 Hive of the Eye Tyrant
-2 March of Wretched Sorrow
-3 March of Wretched Sorrow
+1 Eliminate
+2 Eliminate
 1 Mutavault
 1 Delirium Skeins
 2 Mutavault
@@ -140,6 +137,9 @@
 1 Kolaghan's Command
 2 Kolaghan's Command
 3 Kolaghan's Command
+1 Hive of the Eye Tyrant
+2 March of Wretched Sorrow
+3 March of Wretched Sorrow
 3 Blackmail
 1 Bojuka Bog
 1 Sorin the Mirthless
@@ -175,12 +175,12 @@
 4 Ragavan, Nimble Pilferer
 3 Sudden Edict
 4 Sudden Edict
-1 Plains
 1 Island
 1 Raffine's Tower
 1 Piracy Charm
 1 Watery Grave
 1 Graveyard Trespasser
+1 Plains
 1 Drown in the Loch
 1 Esper Charm
 1 Liliana's Caress

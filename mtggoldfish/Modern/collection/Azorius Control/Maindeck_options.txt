@@ -41,6 +41,7 @@
 1 Thraben Inspector
 1 Giant Killer
 1 Ranger-Captain of Eos
+1 Sun Titan
 1 Ghost Quarter
 1 Prairie Stream
 1 Ambitious Farmhand
@@ -48,7 +49,6 @@
 1 Idyllic Grange
 1 Emeria, the Sky Ruin
 1 Ephemerate
-1 Sun Titan
 1 Wall of Omens
 2 Charming Prince
 2 Thraben Inspector
@@ -60,22 +60,22 @@
 2 Emeria, the Sky Ruin
 2 Wall of Omens
 3 Charming Prince
-3 March of Otherworldly Light
 3 Ranger-Captain of Eos
+3 March of Otherworldly Light
+3 Thraben Inspector
 3 Ambitious Farmhand
 3 Ephemerate
-3 Thraben Inspector
 3 Skyclave Apparition
 3 Wall of Omens
 3 Emeria, the Sky Ruin
 4 Charming Prince
 4 Hallowed Fountain
 4 Ranger-Captain of Eos
+4 Thraben Inspector
 4 March of Otherworldly Light
 4 Wall of Omens
 4 Skyclave Apparition
 4 Ephemerate
-4 Thraben Inspector
 4 Supreme Verdict
 1 Snow-Covered Island
 2 Snow-Covered Island
@@ -87,8 +87,8 @@
 3 Leyline Binding
 1 Snapcaster Mage
 2 Snapcaster Mage
-1 Elspeth Resplendent
 1 Arid Mesa
+1 Elspeth Resplendent
 2 Ghost Quarter
 2 Arid Mesa
 3 Plains
@@ -131,12 +131,12 @@
 8 Plains
 1 Fracturing Gust
 1 Fateful Absence
-1 Emeria's Call
-2 Emeria's Call
 1 Impulse
 2 Impulse
-2 Spell Snare
 2 Prismatic Vista
+2 Spell Snare
+1 Emeria's Call
+2 Emeria's Call
 1 Path to Exile
 1 Shadow of Doubt
 2 Path to Exile

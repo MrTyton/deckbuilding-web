@@ -66,6 +66,7 @@
 5 Mountain
 6 Mountain
 1 Goblin Engineer
+1 Esper Sentinel
 1 Sundering Titan
 1 Ensnaring Bridge
 1 Fissure Wizard
@@ -73,7 +74,6 @@
 1 Great Furnace
 1 Siege-Gang Commander
 1 Tangle Wire
-1 Esper Sentinel
 1 Crib Swap
 1 Plateau
 1 Volcanic Island
@@ -86,17 +86,17 @@
 2 Plateau
 2 Goblin Welder
 2 Volcanic Island
+3 Esper Sentinel
 3 Goblin Engineer
 3 Ensnaring Bridge
-3 Esper Sentinel
 3 Plateau
 3 Volcanic Island
 3 Great Furnace
 3 Thopter Foundry
 3 Goblin Welder
+4 Esper Sentinel
 4 Goblin Engineer
 4 Twinshot Sniper
-4 Esper Sentinel
 4 Thopter Foundry
 4 Goblin Welder
 1 Snow-Covered Forest
@@ -116,15 +116,15 @@
 3 Goblin Anarchomancer
 4 Fury
 4 Goblin Anarchomancer
-1 Dead/Gone
 1 Tarfire
+1 Dead/Gone
 1 Goblin Rabblemaster
 1 Chrome Mox
 1 Chalice of the Void
 2 Chalice of the Void
 2 Dead/Gone
-2 Chrome Mox
 2 Goblin Rabblemaster
+2 Chrome Mox
 3 Chalice of the Void
 3 Goblin Rabblemaster
 3 Chrome Mox
@@ -133,9 +133,9 @@
 4 Chrome Mox
 1 Conspicuous Snoop
 1 Boggart Harbinger
+2 Mogg Fanatic
 2 Kiki-Jiki, Mirror Breaker
 2 Conspicuous Snoop
 2 Boggart Harbinger
-2 Mogg Fanatic
 3 Conspicuous Snoop
 4 Conspicuous Snoop

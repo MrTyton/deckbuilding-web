@@ -4,8 +4,8 @@
 1 Engineered Explosives
 2 Engineered Explosives
 1 Blossoming Calm
-2 Ashiok, Dream Render
 1 Unmoored Ego
+2 Ashiok, Dream Render
 1 Spreading Seas
 1 Force of Negation
 1 Teferi, Time Raveler
@@ -18,39 +18,42 @@
 3 Fulminator Mage
 1 Path to Exile
 2 Path to Exile
+2 Unmoored Ego
+1 Rest in Peace
 2 Blossoming Calm
 1 Lingering Souls
-1 Rest in Peace
 1 Shark Typhoon
 1 Leyline of Sanctity
 1 Thoughtseize
 2 Thoughtseize
-2 Unmoored Ego
 2 Spreading Seas
 1 Subtlety
+3 Dovin's Veto
+1 Kaheera, the Orphanguard
 2 Rest in Peace
 2 Lingering Souls
 3 Lingering Souls
-1 Narset, Parter of Veils
 1 Surgical Extraction
+1 Narset, Parter of Veils
 1 Void Rend
 1 Serra's Emissary
+1 Spell Pierce
 2 Force of Negation
 2 Shark Typhoon
 1 Celestial Purge
-1 Spell Pierce
+1 Jace, the Mind Sculptor
+1 Hallowed Moonlight
 2 Summary Dismissal
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
-3 Dovin's Veto
-1 Kaheera, the Orphanguard
 1 Tourach, Dread Cantor
 1 Unlicensed Hearse
 2 Spell Pierce
+2 Flusterstorm
 1 Damping Sphere
 1 Void Mirror
 2 Void Mirror
-2 Flusterstorm
+1 March of Otherworldly Light
 1 Vindicate
 1 Relic of Progenitus
 2 Supreme Verdict
@@ -58,31 +61,29 @@
 1 Fatal Push
 1 Fracture
 1 The Wandering Emperor
-1 Jace, the Mind Sculptor
 1 Nihil Spellbomb
-1 Leyline of the Void
 1 Settle the Wreckage
-1 Sedgemoor Witch
+1 Leyline of the Void
+1 Plague Engineer
+1 Ceremonious Rejection
+1 Cling to Dust
 1 Solitude
 1 Elspeth, Sun's Nemesis
+1 Sedgemoor Witch
 1 Kaya, Orzhov Usurper
 1 Wrath of God
 1 Winds of Abandon
-1 Plague Engineer
-1 Cling to Dust
-1 Ceremonious Rejection
 1 Collective Brutality
 2 Unlicensed Hearse
-1 Hallowed Moonlight
 2 Subtlety
+1 Tale's End
+2 Void Rend
+2 Narset, Parter of Veils
+2 Tale's End
 1 Duress
 2 Tourach, Dread Cantor
 2 Duress
 2 Celestial Purge
-1 Tale's End
-2 Tale's End
-2 Narset, Parter of Veils
-2 Void Rend
 1 Shakedown Heavy
 1 Tormod's Crypt
 1 Metallic Rebuke
@@ -93,22 +94,21 @@
 3 Tormod's Crypt
 2 Vindicate
 3 Mystical Dispute
-1 March of Otherworldly Light
-1 Test of Talents
-2 March of Otherworldly Light
-2 Fatal Push
-3 March of Otherworldly Light
-1 Murderous Cut
-1 Kataki, War's Wage
-2 Murderous Cut
-3 Flusterstorm
-3 Prismatic Ending
 1 Sanctifier en-Vec
 2 Relic of Progenitus
 2 Sanctifier en-Vec
 3 Relic of Progenitus
 3 Thoughtseize
 3 Leyline of Sanctity
+1 Test of Talents
+2 Fatal Push
+2 March of Otherworldly Light
+3 March of Otherworldly Light
+1 Kataki, War's Wage
+1 Murderous Cut
+2 Murderous Cut
+3 Prismatic Ending
+3 Flusterstorm
 1 Strict Proctor
 2 Strict Proctor
 3 Void Mirror
@@ -116,7 +116,9 @@
 3 Aether Gust
 1 Mana Tithe
 1 Monastery Mentor
-2 Fracture
 2 Monastery Mentor
+2 Fracture
 3 Monastery Mentor
 4 Monastery Mentor
+2 Hallowed Moonlight
+4 Dovin's Veto

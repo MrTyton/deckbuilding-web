@@ -56,6 +56,7 @@
 3 Prismatic Vista
 3 Breeding Pool
 1 Search for Azcanta
+1 Lava Spike
 1 Indatha Triome
 1 Marsh Flats
 1 Verdant Catacombs
@@ -64,8 +65,8 @@
 1 Platinum Emperion
 1 Savai Triome
 1 Fable of the Mirror-Breaker
-1 Lava Spike
 1 Xander's Lounge
+1 Abundant Harvest
 1 Eternal Witness
 1 Primeval Titan
 1 Arid Mesa
@@ -76,10 +77,10 @@
 1 Neoform
 1 Mountain
 1 Battle of Wits
-1 Valki, God of Lies
-1 Raffine's Tower
 1 Bring to Light
+1 Valki, God of Lies
 1 Time Warp
+1 Raffine's Tower
 1 Overgrown Tomb
 1 Kiki-Jiki, Mirror Breaker
 1 Dragonskull Summit
@@ -90,10 +91,9 @@
 1 Admonition Angel
 1 Svyelun of Sea and Sky
 1 Deflecting Palm
-1 Settle the Wreckage
-1 Abundant Harvest
 1 The Kami War
 1 Siege Rhino
+1 Settle the Wreckage
 1 Subtlety
 1 Fiery Justice
 1 Trading Post
@@ -177,17 +177,17 @@
 2 Sulfur Falls
 2 Raugrin Triome
 2 Sacred Foundry
+2 Explore
 2 Battle of Wits
 2 Bring to Light
+2 Abundant Harvest
 2 Fable of the Mirror-Breaker
-2 Explore
 2 Wooded Foothills
 2 Stomping Ground
 2 Arid Mesa
 2 Valakut, the Molten Pinnacle
 2 Sunpetal Grove
 2 Reflecting Pool
-2 Abundant Harvest
 2 Path to Exile
 2 Ragavan, Nimble Pilferer
 2 Fires of Invention
@@ -207,10 +207,10 @@
 3 Battle of Wits
 3 Bring to Light
 3 Explore
+3 Abundant Harvest
 3 Arid Mesa
 3 Wooded Foothills
 3 Reflecting Pool
-3 Abundant Harvest
 3 Expressive Iteration
 3 Risen Reef
 3 Windswept Heath
@@ -232,11 +232,11 @@
 4 Wooded Foothills
 4 Breeding Pool
 4 Arid Mesa
+4 Teferi, Time Raveler
 4 Explore
 4 Steam Vents
-4 Teferi, Time Raveler
-4 Abundant Harvest
 4 Temple Garden
+4 Abundant Harvest
 4 Risen Reef
 4 Utopia Sprawl
 4 Bring to Light
@@ -277,8 +277,8 @@
 1 Glacial Floodplain
 2 Teferi, Hero of Dominaria
 2 Snow-Covered Forest
-1 Snow-Covered Swamp
 1 Creeping Tar Pit
+1 Snow-Covered Swamp
 1 Abrupt Decay
 1 Pulse of Murasa
 1 Assassin's Trophy
@@ -299,12 +299,6 @@
 2 Jace, the Mind Sculptor
 1 Opt
 2 Opt
-1 March of Reckless Joy
-1 Life from the Loam
-1 Sokenzan, Crucible of Defiance
-1 Electrolyze
-2 Lonely Sandbar
-2 Electrolyze
 1 Dovin's Veto
 1 Lithoform Engine
 1 Zirda, the Dawnwaker
@@ -313,6 +307,12 @@
 2 Snow-Covered Plains
 2 Brokers Charm
 2 Lithoform Engine
+1 March of Reckless Joy
+1 Life from the Loam
+1 Sokenzan, Crucible of Defiance
+1 Electrolyze
+2 Electrolyze
+2 Lonely Sandbar
 1 Dead/Gone
 1 Spirebluff Canal
 2 Dead/Gone

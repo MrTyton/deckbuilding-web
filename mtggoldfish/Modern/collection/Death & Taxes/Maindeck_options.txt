@@ -1,9 +1,9 @@
 1 Charming Prince
 3 Emeria's Call
-2 Charming Prince
-2 Blast Zone
 1 Esper Sentinel
 2 Esper Sentinel
+2 Charming Prince
+2 Blast Zone
 1 March of Otherworldly Light
 2 March of Otherworldly Light
 1 Castle Ardenvale
@@ -12,38 +12,44 @@
 1 Inspiring Vantage
 2 Inspiring Vantage
 3 Inspiring Vantage
-4 Emeria's Call
 3 Esper Sentinel
+4 Emeria's Call
 4 Imperial Recruiter
-3 Sacred Foundry
 1 Arid Mesa
 2 Arid Mesa
+3 Sacred Foundry
 1 Shadowspear
 1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
+4 Esper Sentinel
 4 Inspiring Vantage
 3 Charming Prince
 3 Arid Mesa
 4 Arid Mesa
+1 Prismatic Ending
+2 Prismatic Ending
+3 Prismatic Ending
 3 Eiganjo, Seat of the Empire
 2 Cave of the Frost Dragon
-4 Esper Sentinel
 1 Sunbaked Canyon
 1 Mishra's Factory
 1 Needleverge Pathway
 2 Needleverge Pathway
 3 Needleverge Pathway
 4 Needleverge Pathway
-1 Prismatic Ending
-2 Prismatic Ending
-3 Prismatic Ending
 1 Timeless Dragon
+4 Urza's Saga
 14 Plains
-2 Sunbaked Canyon
 1 Anointed Peacekeeper
 2 Anointed Peacekeeper
 3 Anointed Peacekeeper
+2 Sunbaked Canyon
+1 Windswept Heath
+2 Windswept Heath
+1 Sword of Light and Shadow
+1 Flooded Strand
+2 Flooded Strand
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
@@ -55,17 +61,19 @@
 9 Snow-Covered Plains
 10 Snow-Covered Plains
 11 Snow-Covered Plains
-4 Urza's Saga
 4 Charming Prince
-1 Windswept Heath
-2 Windswept Heath
-1 Sword of Light and Shadow
-1 Flooded Strand
-2 Flooded Strand
 1 Serra Paragon
 2 Serra Paragon
 3 Path to Exile
 1 Mountain
+1 Marsh Flats
+2 Marsh Flats
+1 Cavern of Souls
+2 Cavern of Souls
+3 Flooded Strand
+4 Flooded Strand
+1 Giant Killer
+4 Prismatic Ending
 1 Flagstones of Trokair
 1 Soul-Guide Lantern
 2 Mishra's Factory
@@ -73,20 +81,15 @@
 2 Tectonic Edge
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
-1 Marsh Flats
-2 Marsh Flats
 1 Sanctifier en-Vec
+4 Anointed Peacekeeper
 1 Silent Clearing
 2 Silent Clearing
-1 Cavern of Souls
-2 Cavern of Souls
 3 Extraction Specialist
-3 Flooded Strand
-4 Flooded Strand
 1 Restoration Angel
 1 Spellskite
-1 Giant Killer
-4 Prismatic Ending
+1 Pithing Needle
+1 Hallowed Fountain
 3 Marsh Flats
 3 Windswept Heath
 4 Windswept Heath
@@ -96,9 +99,32 @@
 1 Winds of Abandon
 2 Castle Ardenvale
 3 Mishra's Factory
-4 Anointed Peacekeeper
 1 Cathar Commando
 12 Snow-Covered Plains
+1 Unsettled Mariner
+1 Deputy of Detention
+1 Hengegate Pathway
+1 Lavinia, Azorius Renegade
+1 Island
+1 Voyager Staff
+1 Weathered Wayfarer
+1 Relic of Progenitus
+1 Ranger-Captain of Eos
+2 Unsettled Mariner
+2 Deputy of Detention
+2 Lavinia, Azorius Renegade
+2 Ranger-Captain of Eos
+2 Hallowed Fountain
+2 Hengegate Pathway
+3 Unsettled Mariner
+3 Deputy of Detention
+3 Hallowed Fountain
+3 Lavinia, Azorius Renegade
+3 Ranger-Captain of Eos
+3 Hengegate Pathway
+4 Ranger-Captain of Eos
+4 Unsettled Mariner
+4 Hengegate Pathway
 3 Sunbaked Canyon
 4 Sunbaked Canyon
 1 Sanctum Prelate
@@ -116,9 +142,7 @@
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
 4 Marsh Flats
-1 Pithing Needle
 4 Path to Exile
-1 Hallowed Fountain
 2 Flagstones of Trokair
 3 Flagstones of Trokair
 1 Godless Shrine
@@ -126,6 +150,7 @@
 2 Spellskite
 1 Horizon Canopy
 1 Phyrexian Revoker
+1 Moorland Haunt
 1 Shivan Devastator
 1 Slayers' Stronghold
 2 Magus of the Moon
@@ -135,9 +160,9 @@
 1 Yavimaya, Cradle of Growth
 1 Tireless Tracker
 1 Knight of the Reliquary
-1 Renegade Rallier
 1 Elvish Reclaimer
 1 Verdant Catacombs
+1 Renegade Rallier
 1 Augur of Autumn
 1 Titania, Protector of Argoth
 1 Zuran Orb
@@ -152,8 +177,8 @@
 2 Eladamri's Call
 3 Knight of the Reliquary
 3 Elvish Reclaimer
-3 Temple Garden
 3 Verdant Catacombs
+3 Temple Garden
 3 Eladamri's Call
 4 Eladamri's Call
 4 Knight of the Reliquary
@@ -167,37 +192,13 @@
 4 Fable of the Mirror-Breaker
 3 Silent Clearing
 4 Silent Clearing
-1 Savai Triome
 1 Felidar Guardian
-1 Kiki-Jiki, Mirror Breaker
 1 Rugged Prairie
+1 Savai Triome
+1 Kiki-Jiki, Mirror Breaker
 2 Rugged Prairie
 3 Rugged Prairie
 4 Rugged Prairie
-1 Unsettled Mariner
-1 Deputy of Detention
-1 Hengegate Pathway
-1 Lavinia, Azorius Renegade
-1 Island
-1 Voyager Staff
-1 Weathered Wayfarer
-1 Relic of Progenitus
-1 Ranger-Captain of Eos
-2 Unsettled Mariner
-2 Lavinia, Azorius Renegade
-2 Deputy of Detention
-2 Ranger-Captain of Eos
-2 Hallowed Fountain
-2 Hengegate Pathway
-3 Unsettled Mariner
-3 Deputy of Detention
-3 Hallowed Fountain
-3 Lavinia, Azorius Renegade
-3 Ranger-Captain of Eos
-3 Hengegate Pathway
-4 Ranger-Captain of Eos
-4 Unsettled Mariner
-4 Hengegate Pathway
 1 Maul of the Skyclaves
 16 Plains
 17 Plains
