@@ -1,48 +1,48 @@
+2 Jetmir's Garden
+2 Steam Vents
 1 Hinterland Harbor
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
 4 Expressive Iteration
-2 Steam Vents
 4 Sylvan Awakening
-2 Jetmir's Garden
 3 Jetmir's Garden
 4 Botanical Sanctum
+3 Strategic Planning
 3 Stomping Ground
 4 Stomping Ground
 3 Hengegate Pathway
+4 Chained to the Rocks
 2 Hinterland Harbor
 3 Hinterland Harbor
 4 Ketria Triome
 4 Dig Through Time
-2 Glacial Fortress
-3 Strategic Planning
+1 Rootbound Crag
 4 Strategic Planning
-4 Chained to the Rocks
+1 Spara's Headquarters
+2 Glacial Fortress
 1 Unbridled Growth
 2 Unbridled Growth
 3 Unbridled Growth
 4 Unbridled Growth
-3 Portable Hole
 1 Strangle
-1 Rootbound Crag
-1 Spara's Headquarters
+3 Sacred Foundry
+1 Sulfur Falls
+2 Spara's Headquarters
+3 Portable Hole
 4 Hengegate Pathway
 1 Silence
 1 Otherworldly Gaze
-3 Sacred Foundry
 2 Paradise Druid
-1 Sulfur Falls
-2 Spara's Headquarters
 3 Glacial Fortress
+4 Sacred Foundry
 1 Commune with the Gods
 2 Commune with the Gods
 2 Fiery Impulse
+2 Rootbound Crag
 2 Breeding Pool
-4 Sacred Foundry
 1 Boseiju, Who Endures
 2 Sulfur Falls
-2 Rootbound Crag
 3 Sulfur Falls
 3 Fiery Impulse
 3 Spara's Headquarters
@@ -52,12 +52,19 @@
 3 Commune with the Gods
 1 Dreamroot Cascade
 2 Dreamroot Cascade
+1 Tamiyo, Collector of Tales
 4 Spara's Headquarters
+1 Llanowar Loamspeaker
+2 Llanowar Loamspeaker
+1 Escape to the Wilds
+1 Spell Pierce
+3 Llanowar Loamspeaker
 1 Retraction Helix
 2 Retraction Helix
 4 Portable Hole
-1 Inspiring Vantage
+1 Tormod's Crypt
 1 Spirebluff Canal
+1 Inspiring Vantage
 1 Ledger Shredder
 2 Inspiring Vantage
 2 Ledger Shredder
@@ -66,6 +73,7 @@
 3 Spirebluff Canal
 3 Steam Vents
 3 Hallowed Fountain
+4 Ledger Shredder
 4 Spirebluff Canal
 1 Saheeli, Sublime Artificer
 1 Emry, Lurker of the Loch
@@ -81,26 +89,18 @@
 4 Emry, Lurker of the Loch
 4 Hallowed Fountain
 4 Terrarion
-4 Steam Vents
-1 Tormod's Crypt
-4 Ledger Shredder
-1 Tamiyo, Collector of Tales
-1 Escape to the Wilds
-1 Snow-Covered Island
-4 Mox Amber
-1 Spell Pierce
-3 Retraction Helix
-1 Llanowar Loamspeaker
-2 Llanowar Loamspeaker
 2 Temple Garden
 2 Strangle
 1 Expedite
+4 Steam Vents
 1 Galvanic Iteration
 1 Growth Spiral
 2 Growth Spiral
+1 Snow-Covered Island
 1 Glass Casket
 1 The Reality Chip
 3 Inspiring Vantage
+4 Mox Amber
 1 Idyllic Tutor
 2 Otherworldly Gaze
 3 Otherworldly Gaze
@@ -109,14 +109,15 @@
 1 Impulse
 2 Impulse
 3 Impulse
-3 Llanowar Loamspeaker
+4 Llanowar Loamspeaker
+3 Retraction Helix
 2 Expedite
 3 Paradise Druid
 4 Paradise Druid
 2 Tormod's Crypt
 1 Mana Confluence
-1 Leyline of Sanctity
 1 Flame-Blessed Bolt
+1 Leyline of Sanctity
 1 Secrets of the Key
 1 Change of Fortune
 1 Negate
@@ -131,7 +132,9 @@
 1 Reverse Engineer
 2 Reverse Engineer
 3 Tormod's Crypt
-3 Saheeli, Sublime Artificer
+1 Izzet Charm
+2 Izzet Charm
+3 Izzet Charm
 1 Commune with Spirits
 1 Dig Up
 1 Claim/Fame
@@ -144,10 +147,11 @@
 3 Commune with Spirits
 3 Mana Confluence
 3 Dig Up
-1 Izzet Charm
-2 Izzet Charm
-3 Izzet Charm
-4 Llanowar Loamspeaker
+1 Leyline Binding
+2 Leyline Binding
+2 Tamiyo, Collector of Tales
+3 Leyline Binding
+4 Leyline Binding
 3 Strangle
 4 Impulse
 1 Soul-Scar Mage
