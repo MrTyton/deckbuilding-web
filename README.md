@@ -17,13 +17,13 @@
 
 # Historic
 
-|                                 A                                  |                                  B                                   |                                 C                                  |                                 D                                  |                                 E                                  |
-|--------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
-|[Abzan Aggro](./mtggoldfish/Historic/decks/Abzan_Aggro.md)          |[Azorius Yorion](./mtggoldfish/Historic/decks/Azorius_Yorion.md)      |[Golgari Midrange](./mtggoldfish/Historic/decks/Golgari_Midrange.md)|[Maze's End Combo](./mtggoldfish/Historic/decks/Maze's_End_Combo.md)|[Rakdos Goblins](./mtggoldfish/Historic/decks/Rakdos_Goblins.md)    |
-|[Abzan Midrange](./mtggoldfish/Historic/decks/Abzan_Midrange.md)    |[Dimir Tempo](./mtggoldfish/Historic/decks/Dimir_Tempo.md)            |[Gruul Aggro](./mtggoldfish/Historic/decks/Gruul_Aggro.md)          |[Mono-Green Aggro](./mtggoldfish/Historic/decks/Mono-Green_Aggro.md)|[Rakdos Midrange](./mtggoldfish/Historic/decks/Rakdos_Midrange.md)  |
-|[Azorius Affinity](./mtggoldfish/Historic/decks/Azorius_Affinity.md)|[Elves](./mtggoldfish/Historic/decks/Elves.md)                        |[Gruul Goblins](./mtggoldfish/Historic/decks/Gruul_Goblins.md)      |[Mono-Red Aggro](./mtggoldfish/Historic/decks/Mono-Red_Aggro.md)    |[Selesnya Company](./mtggoldfish/Historic/decks/Selesnya_Company.md)|
-|[Azorius Auras](./mtggoldfish/Historic/decks/Azorius_Auras.md)      |[Five-color Humans](./mtggoldfish/Historic/decks/Five-color_Humans.md)|[Jund Tempo](./mtggoldfish/Historic/decks/Jund_Tempo.md)            |[Rakdos Arcanis](./mtggoldfish/Historic/decks/Rakdos_Arcanis.md)    |[Simic Merfolk](./mtggoldfish/Historic/decks/Simic_Merfolk.md)      |
-|[Azorius Control](./mtggoldfish/Historic/decks/Azorius_Control.md)  |[Golgari Aggro](./mtggoldfish/Historic/decks/Golgari_Aggro.md)        |[Mardu Combo](./mtggoldfish/Historic/decks/Mardu_Combo.md)          |[Rakdos Control](./mtggoldfish/Historic/decks/Rakdos_Control.md)    |[Temur Combo](./mtggoldfish/Historic/decks/Temur_Combo.md)          |
+|                                 A                                  |                                  B                                   |                                 C                                  |                                 D                                  |                                E                                 |
+|--------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------|
+|[Abzan Aggro](./mtggoldfish/Historic/decks/Abzan_Aggro.md)          |[Azorius Yorion](./mtggoldfish/Historic/decks/Azorius_Yorion.md)      |[Golgari Midrange](./mtggoldfish/Historic/decks/Golgari_Midrange.md)|[Maze's End Combo](./mtggoldfish/Historic/decks/Maze's_End_Combo.md)|[Rakdos Midrange](./mtggoldfish/Historic/decks/Rakdos_Midrange.md)|
+|[Abzan Midrange](./mtggoldfish/Historic/decks/Abzan_Midrange.md)    |[Dimir Tempo](./mtggoldfish/Historic/decks/Dimir_Tempo.md)            |[Gruul Aggro](./mtggoldfish/Historic/decks/Gruul_Aggro.md)          |[Mono-Green Aggro](./mtggoldfish/Historic/decks/Mono-Green_Aggro.md)|[Simic Merfolk](./mtggoldfish/Historic/decks/Simic_Merfolk.md)    |
+|[Azorius Affinity](./mtggoldfish/Historic/decks/Azorius_Affinity.md)|[Elves](./mtggoldfish/Historic/decks/Elves.md)                        |[Gruul Goblins](./mtggoldfish/Historic/decks/Gruul_Goblins.md)      |[Mono-Red Aggro](./mtggoldfish/Historic/decks/Mono-Red_Aggro.md)    |[Temur Combo](./mtggoldfish/Historic/decks/Temur_Combo.md)        |
+|[Azorius Auras](./mtggoldfish/Historic/decks/Azorius_Auras.md)      |[Five-color Humans](./mtggoldfish/Historic/decks/Five-color_Humans.md)|[Jund Tempo](./mtggoldfish/Historic/decks/Jund_Tempo.md)            |[Rakdos Control](./mtggoldfish/Historic/decks/Rakdos_Control.md)    |                                                                  |
+|[Azorius Control](./mtggoldfish/Historic/decks/Azorius_Control.md)  |[Golgari Aggro](./mtggoldfish/Historic/decks/Golgari_Aggro.md)        |[Mardu Combo](./mtggoldfish/Historic/decks/Mardu_Combo.md)          |[Rakdos Goblins](./mtggoldfish/Historic/decks/Rakdos_Goblins.md)    |                                                                  |
 
 
 # Pioneer
@@ -76,4 +76,4 @@
 
 
 
-#### Last Updated at 12:35PM on September 21, 2022
+#### Last Updated at 01:19AM on September 22, 2022

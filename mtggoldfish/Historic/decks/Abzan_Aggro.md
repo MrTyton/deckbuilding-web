@@ -50,8 +50,8 @@
 |                    1|[Vanishing Verse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513736)          |                     |              |
 |                    2|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)        |                     |              |
 |                    2|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)           |                     |              |
-|                    2|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                   |                     |              |
 |                    2|[Isolated Chapel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443129)          |                     |              |
+|                    2|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                   |                     |              |
 |                    2|[Orah, Skyclave Hierophant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491884)|                     |              |
 |                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                    |                     |              |
 |                    3|[Elite Spellbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513494)        |                     |              |
@@ -69,10 +69,10 @@
 |                    1|[Scoured Barrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405366)          |                     |              |
 |                    1|[Inspiring Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555219)       |                     |              |
 |                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)       |                     |              |
-|                    1|[Kor Skyfisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222764)            |                     |              |
 |                    1|[Marauding Blight-Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491749)  |                     |              |
 |                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)      |                     |              |
 |                    1|[Heron of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=540848)            |                     |              |
+|                    1|[Kor Skyfisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222764)            |                     |              |
 |                    1|[Silverquill Campus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513765)       |                     |              |
 |                    1|[Epicure of Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447231)         |                     |              |
 |                    1|[Aviary Mechanic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417579)          |                     |              |
@@ -82,12 +82,12 @@
 |                    2|[Inspiring Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555219)       |                     |              |
 |                    2|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)       |                     |              |
 |                    2|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)      |                     |              |
-|                    2|[Kor Skyfisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222764)            |                     |              |
 |                    2|[Marauding Blight-Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491749)  |                     |              |
 |                    2|[Aviary Mechanic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417579)          |                     |              |
 |                    2|[Epicure of Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447231)         |                     |              |
 |                    2|[Omen of the Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476361)         |                     |              |
 |                    2|[Silverquill Campus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513765)       |                     |              |
+|                    2|[Kor Skyfisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222764)            |                     |              |
 |                    2|[Heron of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=540848)            |                     |              |
 |                    2|[Impassioned Orator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=469859)       |                     |              |
 |                    3|[Scoured Barrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405366)          |                     |              |
