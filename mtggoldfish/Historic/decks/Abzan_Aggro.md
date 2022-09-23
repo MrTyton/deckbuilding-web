@@ -66,7 +66,6 @@
 |                    5|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                   |                     |              |
 |                    6|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                   |                     |              |
 |                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                   |                     |              |
-|                    1|[Scoured Barrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405366)          |                     |              |
 |                    1|[Inspiring Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555219)       |                     |              |
 |                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)       |                     |              |
 |                    1|[Marauding Blight-Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491749)  |                     |              |
@@ -77,6 +76,7 @@
 |                    1|[Epicure of Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447231)         |                     |              |
 |                    1|[Aviary Mechanic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417579)          |                     |              |
 |                    1|[Omen of the Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476361)         |                     |              |
+|                    1|[Scoured Barrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405366)          |                     |              |
 |                    1|[Impassioned Orator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=469859)       |                     |              |
 |                    2|[Scoured Barrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405366)          |                     |              |
 |                    2|[Inspiring Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555219)       |                     |              |
