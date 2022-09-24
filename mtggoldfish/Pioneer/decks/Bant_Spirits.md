@@ -54,6 +54,6 @@
 |                    4|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)     |                    1|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)            |
 |                     |                                                                                                   |                    4|[Extraction Specialist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555213)      |
 |                     |                                                                                                   |                    4|[Lofty Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485379)               |
-|                     |                                                                                                   |                    2|Reidane, God of the Worthy                                                                            |
 |                     |                                                                                                   |                    1|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)          |
+|                     |                                                                                                   |                    2|Reidane, God of the Worthy                                                                            |
 
