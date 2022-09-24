@@ -1,33 +1,33 @@
 3 Bloodstained Mire
 1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+1 Hallowed Fountain
 1 Prismatic Ending
 2 Prismatic Ending
-1 Verdant Catacombs
-2 Teferi, Time Raveler
-1 Island
-1 Hallowed Fountain
 1 Priest of Fell Rites
+1 Island
 1 Faithful Mending
+1 Verdant Catacombs
 3 Teferi, Time Raveler
 1 Concealed Courtyard
-3 Prismatic Ending
 2 Concealed Courtyard
-2 Verdant Catacombs
 2 Priest of Fell Rites
-3 Priest of Fell Rites
 2 Faithful Mending
-1 Glacial Fortress
+3 Prismatic Ending
+3 Priest of Fell Rites
 1 Flooded Strand
+2 Verdant Catacombs
+1 Glacial Fortress
 4 Bloodstained Mire
 4 Priest of Fell Rites
 1 Blood Crypt
 1 Arid Mesa
 1 Seasoned Pyromancer
 1 Savai Triome
-1 Blackcleave Cliffs
 1 Fury
 1 Mountain
 1 Fable of the Mirror-Breaker
+1 Blackcleave Cliffs
 1 Sacred Foundry
 2 Fury
 2 Arid Mesa
@@ -44,23 +44,24 @@
 4 Fable of the Mirror-Breaker
 3 Faithful Mending
 4 Faithful Mending
-3 Verdant Catacombs
+2 Flooded Strand
 1 Serra's Emissary
 4 Prismatic Ending
-2 Flooded Strand
 3 Flooded Strand
 4 Teferi, Time Raveler
 1 Malakir Rebirth
+1 Otawara, Soaring City
+3 Verdant Catacombs
 2 Plains
+1 Inspiring Vantage
 1 Unlicensed Hearse
 1 Tidehollow Sculler
 1 Ragavan, Nimble Pilferer
-1 Inspiring Vantage
+2 Sacred Foundry
 2 Unlicensed Hearse
 2 Tidehollow Sculler
 2 Ragavan, Nimble Pilferer
 2 Inspiring Vantage
-2 Sacred Foundry
 3 Unlicensed Hearse
 3 Tidehollow Sculler
 3 Inspiring Vantage
@@ -69,17 +70,16 @@
 4 Ragavan, Nimble Pilferer
 1 Thoughtseize
 2 Thoughtseize
-4 Verdant Catacombs
 3 Thoughtseize
 1 Kaito Shizuki
-1 Otawara, Soaring City
-1 Snow-Covered Swamp
-2 Snow-Covered Swamp
 1 Blood Fountain
 2 Malakir Rebirth
 2 Blood Fountain
+1 Snow-Covered Swamp
+2 Snow-Covered Swamp
 2 Hallowed Fountain
 1 Bone Shards
+4 Verdant Catacombs
 1 Urborg, Tomb of Yawgmoth
 1 Takenuma, Abandoned Mire
 1 Bloodchief's Thirst
@@ -110,6 +110,8 @@
 4 Cabal Coffers
 4 Profane Tutor
 5 Swamp
+1 Seachrome Coast
+1 Darkslick Shores
 3 Concealed Courtyard
 4 Thoughtseize
 4 Unlicensed Hearse
@@ -131,7 +133,6 @@
 3 Urborg, Tomb of Yawgmoth
 4 Bloodchief's Thirst
 4 Flooded Strand
-1 Seachrome Coast
 1 Consider
 2 Consider
 3 Consider
@@ -149,11 +150,11 @@
 1 Ashen Rider
 1 Forest
 1 Shambling Vent
-2 Branchloft Pathway
-2 Forest
-2 Temple Garden
 2 Overgrown Tomb
+2 Branchloft Pathway
+2 Temple Garden
 2 Satyr Wayfinder
+2 Forest
 2 Unburial Rites
 2 Grisly Salvage
 2 Siege Rhino
@@ -186,12 +187,17 @@
 4 Ovalchase Daredevil
 4 Urza's Saga
 4 Asmoranomardicadaistinaculdacar
+1 March of Otherworldly Light
+1 Otherworldly Gaze
+2 March of Otherworldly Light
+2 Otherworldly Gaze
+3 Otherworldly Gaze
+4 Otherworldly Gaze
 1 Hengegate Pathway
 1 Adarkar Wastes
 1 Undying Evil
 1 Discovery/Dispersal
 1 Divest
-1 Darkslick Shores
 1 Dakkon, Shadow Slayer
 1 Oona's Prowler
 1 Ransack the Lab

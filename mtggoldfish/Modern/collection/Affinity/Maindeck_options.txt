@@ -1,3 +1,8 @@
+3 Patchwork Automaton
+4 Razortide Bridge
+1 Urza, Lord High Artificer
+2 Urza, Lord High Artificer
+3 Urza, Lord High Artificer
 1 Seachrome Coast
 1 Ingenious Smith
 2 Ingenious Smith
@@ -12,35 +17,30 @@
 3 Esper Sentinel
 3 Portable Hole
 4 Esper Sentinel
-1 Mistvault Bridge
-2 Mistvault Bridge
-3 Mistvault Bridge
-4 Mistvault Bridge
 1 Hallowed Fountain
 2 Hallowed Fountain
 4 Portable Hole
-3 Patchwork Automaton
-3 Hallowed Fountain
 4 Patchwork Automaton
+1 Gingerbrute
+2 Welding Jar
+4 Seachrome Coast
+3 Hallowed Fountain
 1 Plains
 1 Metallic Rebuke
 2 Metallic Rebuke
 3 Metallic Rebuke
+4 Urza, Lord High Artificer
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
-4 Seachrome Coast
-1 Gingerbrute
-4 Urza, Lord High Artificer
-2 Welding Jar
-1 Pithing Needle
 2 Otawara, Soaring City
+1 Pithing Needle
 1 Spire of Industry
+3 Treasure Vault
 3 Island
 1 Ethersworn Sphinx
 2 Ethersworn Sphinx
 3 Ethersworn Sphinx
 4 Hallowed Fountain
-3 Treasure Vault
 2 Spire of Industry
 4 Island
 3 Nettlecyst
@@ -61,9 +61,6 @@
 7 Island
 1 Flooded Strand
 2 Flooded Strand
-3 Teferi, Time Raveler
-1 Talisman of Progress
-2 Talisman of Progress
 1 Michiko's Reign of Truth
 1 Etched Champion
 2 Relic of Progenitus
@@ -74,6 +71,10 @@
 3 Michiko's Reign of Truth
 1 Oboro, Palace in the Clouds
 1 Consulate Dreadnought
+3 Teferi, Time Raveler
+1 Talisman of Progress
+2 Talisman of Progress
+3 Welding Jar
 3 Spire of Industry
 4 Spire of Industry
 1 Mishra's Bauble
@@ -92,7 +93,6 @@
 10 Island
 11 Island
 1 Sea Gate Restoration
-2 Plains
 1 Eiganjo, Seat of the Empire
 1 Dispatch
 2 Dispatch
@@ -107,7 +107,11 @@
 2 Experimental Frenzy
 3 Silverbluff Bridge
 3 Galvanic Blast
-3 Welding Jar
+1 Snow-Covered Island
+1 Signal Pest
+2 Signal Pest
+3 Signal Pest
+4 Signal Pest
 1 Darksteel Brute
 2 Darksteel Brute
 3 Darksteel Brute

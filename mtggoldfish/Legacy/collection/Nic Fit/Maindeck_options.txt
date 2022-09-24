@@ -76,19 +76,19 @@
 3 Once Upon a Time
 1 Overgrown Tomb
 1 Valakut, the Molten Pinnacle
-1 Dryad of the Ilysian Grove
 1 Reclamation Sage
 1 Painful Truths
 1 Memorial to Folly
+1 Dryad of the Ilysian Grove
 2 Valakut, the Molten Pinnacle
 2 Scavenging Ooze
-2 Dryad of the Ilysian Grove
 2 Painful Truths
 2 Field of the Dead
+2 Dryad of the Ilysian Grove
 2 Primeval Titan
-3 Dryad of the Ilysian Grove
 3 Primeval Titan
 3 Valakut, the Molten Pinnacle
+3 Dryad of the Ilysian Grove
 2 Acererak the Archlich
 3 Acererak the Archlich
 1 Henrika Domnathi
@@ -102,8 +102,8 @@
 4 Witherbloom Apprentice
 1 Greater Gargadon
 1 Badlands
-1 Mayhem Devil
 1 Titania, Protector of Argoth
+1 Mayhem Devil
 2 Titania, Protector of Argoth
 2 Greater Gargadon
 2 Mayhem Devil
@@ -140,8 +140,8 @@
 3 Snow-Covered Swamp
 1 Arena Rector
 1 Ugin, the Spirit Dragon
-2 Ugin, the Spirit Dragon
 2 Arena Rector
+2 Ugin, the Spirit Dragon
 3 Arena Rector
 1 Snow-Covered Plains
 2 Village Rites
@@ -214,9 +214,6 @@
 1 Elvish Reclaimer
 3 Fury
 4 Once Upon a Time
-2 Prismatic Vista
-3 Bayou
-4 Bayou
 1 Fiend Artisan
 1 Duress
 1 Bojuka Bog
@@ -232,3 +229,6 @@
 2 Dead of Winter
 4 Arena Rector
 5 Snow-Covered Forest
+2 Prismatic Vista
+3 Bayou
+4 Bayou

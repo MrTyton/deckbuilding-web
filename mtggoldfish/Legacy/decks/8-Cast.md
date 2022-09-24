@@ -63,8 +63,8 @@
 |                     |                                                                                                 |                    1|[Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)          |
 |                     |                                                                                                 |                    1|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)   |
 |                     |                                                                                                 |                    1|[Trickbind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=110499)           |
+|                     |                                                                                                 |                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)      |
+|                     |                                                                                                 |                    2|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)      |
 |                     |                                                                                                 |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824) |
 |                     |                                                                                                 |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824) |
-|                     |                                                                                                 |                    2|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)      |
-|                     |                                                                                                 |                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)      |
 
