@@ -21,36 +21,29 @@
 3 Fabled Passage
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-1 Jewel Thief
+2 Swamp
+3 Swamp
 1 Shatterskull Smashing
 1 Voltage Surge
 1 Heartless Act
-1 Swashbuckler Extraordinaire
 1 Davriel, Soul Broker
+1 Swashbuckler Extraordinaire
+1 Jewel Thief
 2 Voltage Surge
 2 Chandra, Torch of Defiance
-2 Swashbuckler Extraordinaire
 2 Davriel, Soul Broker
+2 Swashbuckler Extraordinaire
 3 Laelia, the Blade Reforged
 3 Voltage Surge
 4 Ziatora's Proving Ground
-1 Castle Locthwain
-1 Assassin's Trophy
-1 Seasoned Pyromancer
-2 Seasoned Pyromancer
-3 Seasoned Pyromancer
-3 Kolaghan's Command
-4 Inquisition of Kozilek
-4 Kolaghan's Command
 1 Rockfall Vale
 1 Vraska, Golgari Queen
 2 Vraska, Golgari Queen
-2 Swamp
-3 Swamp
 3 Bonecrusher Giant
 4 Tireless Tracker
 4 Fabled Passage
 4 Bonecrusher Giant
+4 Overgrown Tomb
 1 Unlucky Witness
 1 Prosperous Innkeeper
 1 Woe Strider
@@ -85,8 +78,15 @@
 4 Cabaretti Revels
 4 Woe Strider
 4 Prosperous Innkeeper
-4 Overgrown Tomb
 4 Mayhem Devil
+1 Castle Locthwain
+1 Assassin's Trophy
+1 Seasoned Pyromancer
+2 Seasoned Pyromancer
+3 Seasoned Pyromancer
+3 Kolaghan's Command
+4 Inquisition of Kozilek
+4 Kolaghan's Command
 1 Sin Prodder
 1 Dragonskull Summit
 1 Hellrider
@@ -102,13 +102,13 @@
 2 Hellrider
 2 Raphael, Fiendish Savior
 2 Tiefling Outcasts
-2 Big Spender
 2 Kumano Faces Kakkazan
 2 Mountain
 2 Kardum, Patron of Flames
 2 Mayhem Patrol
 2 Sin Prodder
 2 Haunted Ridge
+2 Big Spender
 3 Mountain
 3 Hellrider
 3 Kumano Faces Kakkazan
@@ -123,5 +123,45 @@
 4 Mayhem Patrol
 4 Tiefling Outcasts
 4 Blightstep Pathway
-5 Mountain
 4 Kumano Faces Kakkazan
+5 Mountain
+1 Deathcap Glade
+1 Temple of Malady
+1 Soul Transfer
+1 Knight of the Ebon Legion
+1 Merfolk Branchwalker
+1 Hero's Downfall
+1 Vraska's Contempt
+1 Kalitas, Traitor of Ghet
+1 Liliana, Waker of the Dead
+1 Scavenging Ooze
+1 Cast Down
+1 Pelt Collector
+1 Savvy Hunter
+2 Deathcap Glade
+2 Forest
+2 Soul Transfer
+2 Knight of the Ebon Legion
+2 Merfolk Branchwalker
+2 Hero's Downfall
+2 Kalitas, Traitor of Ghet
+2 Scavenging Ooze
+2 Savvy Hunter
+3 Forest
+3 Deathcap Glade
+3 Soul Transfer
+3 Knight of the Ebon Legion
+3 Merfolk Branchwalker
+3 Scavenging Ooze
+3 Hero's Downfall
+3 Savvy Hunter
+4 Forest
+4 Merfolk Branchwalker
+4 Swamp
+4 Savvy Hunter
+5 Forest
+5 Swamp
+6 Swamp
+6 Forest
+7 Swamp
+7 Forest

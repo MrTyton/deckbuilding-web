@@ -1,6 +1,6 @@
-1 Unholy Heat
-2 Unholy Heat
-4 Stormwing Entity
+2 Scalding Tarn
+3 Scalding Tarn
+3 Mutagenic Growth
 4 Mountain
 4 Scalding Tarn
 2 Vapor Snag
@@ -12,13 +12,13 @@
 2 Sulfur Falls
 3 Sulfur Falls
 4 Mutagenic Growth
-4 Spirebluff Canal
-1 Island
 1 Seal of Fire
 4 Sulfur Falls
 4 Arid Mesa
 3 Gut Shot
 1 Bloodstained Mire
+4 Spirebluff Canal
+1 Island
 1 Wooded Foothills
 2 Bloodstained Mire
 3 Bloodstained Mire
@@ -45,7 +45,6 @@
 7 Mountain
 8 Mountain
 1 Bedlam Reveler
-1 Brazen Borrower
 1 Den of the Bugbear
 1 Balmor, Battlemage Captain
 1 Ledger Shredder
@@ -57,6 +56,7 @@
 1 Reckless Impulse
 2 Reckless Impulse
 1 Shore Up
+1 Brazen Borrower
 1 Tolarian Terror
 1 Otawara, Soaring City
 2 Spell Pierce
@@ -65,9 +65,6 @@
 2 Flooded Strand
 3 Ledger Shredder
 3 Underworld Breach
-1 Opt
-2 Opt
-3 Opt
 1 Shivan Reef
 1 Sokenzan, Crucible of Defiance
 2 Shivan Reef

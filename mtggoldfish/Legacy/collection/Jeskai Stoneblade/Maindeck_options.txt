@@ -1,10 +1,12 @@
-2 Murktide Regent
 1 Misty Rainforest
 1 Ethereal Forager
 2 Ethereal Forager
 3 Ethereal Forager
 1 Plains
+2 Polluted Delta
 1 True-Name Nemesis
+2 Murktide Regent
+2 Island
 1 Counterbalance
 1 Prismatic Vista
 2 Prismatic Vista
@@ -16,16 +18,14 @@
 1 Back to Basics
 1 Jace, the Mind Sculptor
 1 Snapcaster Mage
-2 Jace, the Mind Sculptor
 2 Back to Basics
 2 Teferi, Time Raveler
 2 Snapcaster Mage
+2 Jace, the Mind Sculptor
 3 Snapcaster Mage
 3 Jace, the Mind Sculptor
-2 Island
 3 Murktide Regent
 1 Esper Sentinel
-2 Polluted Delta
 2 Esper Sentinel
 3 Polluted Delta
 3 Esper Sentinel
@@ -36,7 +36,14 @@
 2 Snow-Covered Plains
 3 Snow-Covered Island
 4 Snow-Covered Island
+1 Umezawa's Jitte
 1 Mountain
+1 Stifle
+2 Stifle
+2 True-Name Nemesis
+3 True-Name Nemesis
+3 Stifle
+4 Stifle
 5 Snow-Covered Island
 6 Snow-Covered Island
 2 Plains
@@ -45,7 +52,6 @@
 5 Island
 6 Island
 4 Tundra
-1 Umezawa's Jitte
 1 Dragon's Rage Channeler
 1 Lightning Bolt
 2 Dragon's Rage Channeler
@@ -58,12 +64,6 @@
 2 Red Elemental Blast
 3 Lightning Bolt
 4 Lightning Bolt
-1 Stifle
-2 Stifle
-2 True-Name Nemesis
-3 True-Name Nemesis
-3 Stifle
-4 Stifle
 1 Dovin's Veto
 2 Dovin's Veto
 2 Force of Negation

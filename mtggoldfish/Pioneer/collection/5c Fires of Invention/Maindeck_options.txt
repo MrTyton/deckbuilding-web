@@ -90,12 +90,12 @@
 2 Hengegate Pathway
 2 Portable Hole
 3 Portable Hole
-3 Branchloft Pathway
 3 Hengegate Pathway
-4 Branchloft Pathway
+3 Branchloft Pathway
+4 Portable Hole
 4 Barkchannel Pathway
 4 Hengegate Pathway
-4 Portable Hole
+4 Branchloft Pathway
 1 Glacial Fortress
 3 Jetmir's Garden
 4 Temple Garden
@@ -108,9 +108,9 @@
 1 Massacre Girl
 1 Izzet Staticaster
 1 Weaver of Harmony
+1 Reidane, God of the Worthy
 1 Fblthp, the Lost
 1 Showdown of the Skalds
-1 Reidane, God of the Worthy
 1 Concealed Courtyard
 2 Steam Vents
 1 Wandering Mind
@@ -125,6 +125,14 @@
 1 Shark Typhoon
 3 Temporary Lockdown
 4 Risen Reef
+1 Karplusan Forest
+1 Shigeki, Jukai Visionary
+1 Colossal Skyturtle
+1 Fierce Empath
+2 Adarkar Wastes
+2 Xander's Lounge
+3 Adarkar Wastes
+4 Adarkar Wastes
 3 Siege Rhino
 4 Siege Rhino
 1 Hinterland Harbor
@@ -133,6 +141,12 @@
 3 Mana Confluence
 3 Moon-Blessed Cleric
 4 Jetmir's Garden
+1 Drowned Catacomb
+1 Yasharn, Implacable Earth
+2 Drowned Catacomb
+3 Drowned Catacomb
+4 Sunpetal Grove
+4 Drowned Catacomb
 1 Vessel of Nascency
 2 Vessel of Nascency
 3 Vessel of Nascency
@@ -148,17 +162,3 @@
 3 Fabled Passage
 4 Savai Triome
 4 Fabled Passage
-1 Karplusan Forest
-1 Shigeki, Jukai Visionary
-1 Colossal Skyturtle
-1 Fierce Empath
-2 Xander's Lounge
-2 Adarkar Wastes
-3 Adarkar Wastes
-4 Adarkar Wastes
-1 Drowned Catacomb
-1 Yasharn, Implacable Earth
-2 Drowned Catacomb
-3 Drowned Catacomb
-4 Drowned Catacomb
-4 Sunpetal Grove
