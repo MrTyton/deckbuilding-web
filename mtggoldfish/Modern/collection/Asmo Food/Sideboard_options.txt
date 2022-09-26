@@ -1,13 +1,13 @@
-1 Teferi, Time Raveler
-1 Necromentia
 4 Thoughtseize
 2 Necromentia
 1 Force of Vigor
 2 Force of Vigor
+1 Teferi, Time Raveler
 1 Fulminator Mage
 2 Fulminator Mage
 3 Fulminator Mage
 1 Foundation Breaker
+3 Bone Shards
 2 Teferi, Time Raveler
 1 Nihil Spellbomb
 1 Damping Sphere
@@ -34,46 +34,61 @@
 3 Endurance
 1 Nettlecyst
 2 Ashiok, Dream Render
+1 Flusterstorm
+2 Flusterstorm
 1 Spellskite
 1 Echoing Truth
 2 Echoing Truth
-2 Void Mirror
-1 Metallic Rebuke
-2 Metallic Rebuke
-1 Nature's Claim
-3 Fatal Push
-1 Surgical Extraction
-1 Blood Moon
-1 Flusterstorm
-2 Flusterstorm
 1 Shattering Spree
 2 Shattering Spree
-1 Pyrite Spellbomb
-1 Engineered Explosives
-2 Engineered Explosives
+2 Void Mirror
+3 Fatal Push
+1 Shadowspear
 1 Alpine Moon
+1 Nature's Claim
+1 Blood Moon
+1 Surgical Extraction
+1 Spell Pierce
+2 Spell Pierce
+1 Pyrite Spellbomb
 2 Alpine Moon
 1 Unlicensed Hearse
+1 Engineered Explosives
+2 Engineered Explosives
+1 Spreading Seas
+1 Snapcaster Mage
+1 Hurkyl's Recall
+1 Unmoored Ego
 1 Grist, the Hunger Tide
 1 Thrun, the Last Troll
-1 Unmoored Ego
 1 Torpor Orb
 1 Stern Dismissal
-1 Spell Pierce
-1 Spreading Seas
-1 Hurkyl's Recall
-1 Snapcaster Mage
-2 Spell Pierce
-1 Den of the Bugbear
+1 Aether Gust
+1 Hope of Ghirapur
 1 Welding Jar
 1 Platinum Emperion
 1 Ensnaring Bridge
+1 Den of the Bugbear
 2 Pyrite Spellbomb
 1 Fragmentize
 2 Fragmentize
-1 Shadowspear
 1 Collective Brutality
 2 Collective Brutality
+1 Magus of the Moon
+1 Relic of Progenitus
+3 Shattering Spree
+1 Assassin's Trophy
+1 Run Afoul
+2 Run Afoul
+2 Assassin's Trophy
+3 Force of Vigor
+3 Necromentia
+1 Tear Asunder
+1 Shriekmaw
+1 Wicked Wolf
+2 Shriekmaw
+2 Tear Asunder
+3 Tear Asunder
 1 Tourach, Dread Cantor
 1 Chalice of the Void
 2 Tourach, Dread Cantor
@@ -82,32 +97,19 @@
 2 Chalice of the Void
 3 Unlicensed Hearse
 3 Alpine Moon
-1 Assassin's Trophy
-1 Run Afoul
-2 Run Afoul
-2 Assassin's Trophy
-3 Necromentia
-3 Force of Vigor
-1 Tear Asunder
-1 Shriekmaw
-1 Wicked Wolf
-2 Shriekmaw
-2 Tear Asunder
-3 Tear Asunder
 1 Ratchet Bomb
-2 Surgical Extraction
 2 Blood Moon
+2 Surgical Extraction
 3 Surgical Extraction
+1 Metallic Rebuke
 1 Echoing Calm
+2 Metallic Rebuke
 2 Echoing Calm
 3 Void Mirror
 3 Metallic Rebuke
-1 Relic of Progenitus
-1 Magus of the Moon
-3 Shattering Spree
-1 Solitude
 1 Burrenton Forge-Tender
 1 Sword of Fire and Ice
+1 Solitude
 2 Burrenton Forge-Tender
 3 Burrenton Forge-Tender
 4 Burrenton Forge-Tender

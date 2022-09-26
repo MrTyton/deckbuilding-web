@@ -44,14 +44,6 @@
 1 Witness Protection
 2 Spreading Seas
 2 Witness Protection
-1 Geist of Saint Traft
-1 Thalia, Guardian of Thraben
-1 Worship
-1 Knight of Autumn
-2 Geist of Saint Traft
-2 Thalia, Guardian of Thraben
-2 Collector Ouphe
-2 Knight of Autumn
 1 Selfless Spirit
 2 Selfless Spirit
 1 Aether Gust
@@ -66,6 +58,14 @@
 2 Unsettled Mariner
 2 Deputy of Detention
 2 Essence Flux
+1 Thalia, Guardian of Thraben
+1 Worship
+1 Knight of Autumn
+1 Geist of Saint Traft
+2 Knight of Autumn
+2 Geist of Saint Traft
+2 Collector Ouphe
+2 Thalia, Guardian of Thraben
 1 Suspend
 2 Eidolon of Rhetoric
 2 Suspend
@@ -74,9 +74,9 @@
 1 Test of Talents
 1 Spellskite
 1 Entrancing Melody
+2 Test of Talents
 2 Entrancing Melody
 2 Spellskite
-2 Test of Talents
 3 Ashiok, Dream Render
 2 Cemetery Illuminator
 2 Mystical Dispute

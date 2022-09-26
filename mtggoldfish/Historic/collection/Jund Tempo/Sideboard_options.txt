@@ -7,20 +7,20 @@
 2 Soul-Guide Lantern
 1 Ob Nixilis, the Adversary
 2 Ob Nixilis, the Adversary
-1 Scavenging Ooze
-1 Back to Nature
-2 Back to Nature
-1 Cry of the Carnarium
-1 Tainted Remedy
-2 Angrath, the Flame-Chained
-2 Scavenging Ooze
-2 Abrade
-2 Tainted Remedy
 1 Ugin, the Ineffable
 1 Ray of Enfeeblement
 1 Kolaghan's Command
 2 Ray of Enfeeblement
 2 Unlicensed Hearse
+1 Scavenging Ooze
+1 Cry of the Carnarium
+1 Tainted Remedy
+1 Back to Nature
+2 Angrath, the Flame-Chained
+2 Scavenging Ooze
+2 Abrade
+2 Back to Nature
+2 Tainted Remedy
 1 Slaughter Games
 1 Alpine Moon
 1 Leyline of the Void
@@ -34,18 +34,10 @@
 2 Pestilent Haze
 3 Leyline of the Void
 4 Leyline of the Void
-1 Tenacious Underdog
-1 Outland Liberator
-2 Tenacious Underdog
-2 Outland Liberator
-3 Ob Nixilis, the Adversary
-3 Tenacious Underdog
-4 Ob Nixilis, the Adversary
-4 Tenacious Underdog
 1 Heartless Act
-2 Heartless Act
 1 Burn Down the House
 1 Go Blank
+2 Heartless Act
 2 Burn Down the House
 2 Duress
 2 Chandra, Torch of Defiance
@@ -53,13 +45,11 @@
 3 Heartless Act
 3 Duress
 4 Duress
-1 Sheoldred, the Apocalypse
-1 Tormod's Crypt
-1 Return to Nature
-2 Tormod's Crypt
-2 Return to Nature
-3 Tormod's Crypt
-3 Return to Nature
-3 Back to Nature
-4 Tormod's Crypt
-4 Back to Nature
+1 Tenacious Underdog
+1 Outland Liberator
+2 Tenacious Underdog
+3 Ob Nixilis, the Adversary
+3 Tenacious Underdog
+4 Ob Nixilis, the Adversary
+4 Tenacious Underdog
+2 Outland Liberator

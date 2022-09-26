@@ -56,18 +56,18 @@
 3 Breeding Pool
 3 Prismatic Vista
 1 Search for Azcanta
-1 Ephemerate
-1 Eladamri's Call
-1 Indatha Triome
-1 Marsh Flats
+1 Kiki-Jiki, Mirror Breaker
+1 Lava Spike
 1 Time Warp
+1 Marsh Flats
 1 Godless Shrine
 1 Platinum Emperion
+1 Blood Crypt
 1 Fable of the Mirror-Breaker
 1 Birds of Paradise
-1 Lava Spike
-1 Xander's Lounge
-1 Abundant Harvest
+1 Savai Triome
+1 Risen Reef
+1 Eladamri's Call
 1 Eternal Witness
 1 Fact or Fiction
 1 Drowned Catacomb
@@ -77,28 +77,28 @@
 1 Neoform
 1 Mountain
 1 Battle of Wits
-1 Overgrown Tomb
 1 Raffine's Tower
-1 Primeval Titan
+1 Xander's Lounge
 1 Bloodstained Mire
-1 Kiki-Jiki, Mirror Breaker
 1 Idyllic Tutor
 1 Svyelun of Sea and Sky
 1 Deflecting Palm
 1 Admonition Angel
 1 Settle the Wreckage
-1 Savai Triome
 1 Bring to Light
+1 Abundant Harvest
 1 Siege Rhino
+1 Indatha Triome
+1 Overgrown Tomb
 1 Subtlety
-1 Fiery Justice
 1 Emrakul, the Aeons Torn
-1 Trading Post
+1 Fiery Justice
 1 Leyline of Sanctity
+1 Trading Post
+1 Tamiyo, Compleated Sage
 1 Wargate
 1 Path to Exile
 1 Fury
-1 Risen Reef
 1 Azor's Elocutors
 1 Unexpected Results
 1 Jade Avenger
@@ -144,12 +144,13 @@
 1 Myr Mindservant
 1 Cruel Ultimatum
 1 Ragavan, Nimble Pilferer
-1 Tamiyo, Compleated Sage
 1 Chance Encounter
 1 The Kami War
 1 Trait Doctoring
 1 Hedron Alignment
+1 Ephemerate
 1 Ledger Shredder
+1 Primeval Titan
 1 Sacred Foundry
 1 Devastation Tide
 1 Dragonskull Summit
@@ -159,7 +160,6 @@
 1 Terminus
 1 Grief
 1 Saddleback Lagac
-1 Blood Crypt
 1 The Flame of Keld
 1 Endurance
 1 Scapeshift
@@ -174,18 +174,19 @@
 1 Time of Need
 1 Rootbound Crag
 2 Wooded Foothills
-2 Eladamri's Call
 2 Fury
-2 Sulfur Falls
 2 Explore
-2 Sacred Foundry
+2 Sulfur Falls
 2 Battle of Wits
-2 Abundant Harvest
+2 Sacred Foundry
+2 Risen Reef
 2 Fable of the Mirror-Breaker
-2 Sunpetal Grove
-2 Reflecting Pool
-2 Bring to Light
 2 Raugrin Triome
+2 Bring to Light
+2 Sunpetal Grove
+2 Eladamri's Call
+2 Reflecting Pool
+2 Abundant Harvest
 2 Path to Exile
 2 Ragavan, Nimble Pilferer
 2 Fires of Invention
@@ -198,21 +199,21 @@
 2 Arid Mesa
 2 Windswept Heath
 2 Glimpse of Tomorrow
-2 Risen Reef
 2 Valakut, the Molten Pinnacle
 2 Hedron Alignment
 2 Massive Raid
 3 Fury
+3 Explore
 3 Wooded Foothills
 3 Temple Garden
-3 Explore
 3 Battle of Wits
-3 Arid Mesa
-3 Abundant Harvest
-3 Reflecting Pool
-3 Bring to Light
-3 Expressive Iteration
 3 Risen Reef
+3 Raugrin Triome
+3 Bring to Light
+3 Arid Mesa
+3 Reflecting Pool
+3 Abundant Harvest
+3 Expressive Iteration
 3 Windswept Heath
 3 Glimpse of Tomorrow
 3 Massive Raid
@@ -221,7 +222,6 @@
 3 Noble Hierarch
 3 Hedron Alignment
 3 Omnath, Locus of Creation
-3 Raugrin Triome
 3 Sacred Foundry
 3 Stomping Ground
 3 Steam Vents
@@ -230,18 +230,18 @@
 4 Prismatic Vista
 4 Battle of Wits
 4 Breeding Pool
+4 Explore
 4 Wooded Foothills
 4 Teferi, Time Raveler
 4 Arid Mesa
-4 Explore
-4 Steam Vents
-4 Temple Garden
-4 Bring to Light
-4 Abundant Harvest
 4 Risen Reef
+4 Bring to Light
+4 Raugrin Triome
+4 Steam Vents
+4 Abundant Harvest
+4 Temple Garden
 4 Utopia Sprawl
 4 Noble Hierarch
-4 Raugrin Triome
 4 Expressive Iteration
 4 Ragavan, Nimble Pilferer
 4 Massive Raid
@@ -277,8 +277,8 @@
 1 Glacial Floodplain
 2 Snow-Covered Forest
 2 Teferi, Hero of Dominaria
-1 Creeping Tar Pit
 1 Snow-Covered Swamp
+1 Creeping Tar Pit
 1 Abrupt Decay
 1 Pulse of Murasa
 1 Assassin's Trophy
@@ -299,6 +299,12 @@
 2 Jace, the Mind Sculptor
 1 Opt
 2 Opt
+1 Life from the Loam
+1 March of Reckless Joy
+1 Sokenzan, Crucible of Defiance
+1 Electrolyze
+2 Lonely Sandbar
+2 Electrolyze
 1 Dovin's Veto
 1 Lithoform Engine
 1 Zirda, the Dawnwaker
@@ -307,31 +313,17 @@
 2 Snow-Covered Plains
 2 Brokers Charm
 2 Lithoform Engine
-1 Life from the Loam
-1 March of Reckless Joy
-1 Sokenzan, Crucible of Defiance
-1 Electrolyze
-2 Electrolyze
-2 Lonely Sandbar
 1 Dead/Gone
 1 Spirebluff Canal
 2 Dead/Gone
 3 Dead/Gone
-1 Sea Gate Restoration
 1 Blast Zone
 1 Mikokoro, Center of the Sea
+1 Sea Gate Restoration
 1 Field of Ruin
 2 Field of Ruin
 2 Nexus of Fate
 3 Nexus of Fate
-1 Eiganjo, Seat of the Empire
-1 Chalice of the Void
-2 Chalice of the Void
-2 Glacial Fortress
-2 The Wandering Emperor
-3 Chalice of the Void
-3 The Wandering Emperor
-4 The Wandering Emperor
 1 Mystical Teachings
 1 Remand
 2 Remand
@@ -340,6 +332,14 @@
 3 Mystical Teachings
 4 Remand
 4 Cryptic Command
+1 Eiganjo, Seat of the Empire
+1 Chalice of the Void
+2 The Wandering Emperor
+2 Chalice of the Void
+2 Glacial Fortress
+3 Chalice of the Void
+3 The Wandering Emperor
+4 The Wandering Emperor
 1 Brazen Borrower
 1 Spell Pierce
 2 Brazen Borrower

@@ -65,6 +65,6 @@
 |                     |                                                                                                    |                    2|[Eaten Alive](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534869)        |
 |                     |                                                                                                    |                    2|[Pulverize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19724)           |
 |                     |                                                                                                    |                    2|[End the Festivities](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541010)|
-|                     |                                                                                                    |                    4|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)     |
 |                     |                                                                                                    |                    3|[Bone Shards](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522152)        |
+|                     |                                                                                                    |                    4|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)     |
 

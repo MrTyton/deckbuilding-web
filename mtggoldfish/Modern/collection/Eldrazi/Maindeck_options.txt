@@ -38,14 +38,14 @@
 3 Karplusan Forest
 3 Grove of the Burnwillows
 4 Karplusan Forest
-1 Path to Exile
+1 Plains
 1 Temple Garden
 1 Brushland
 1 Eldrazi Displacer
-1 Plains
-2 Path to Exile
+1 Path to Exile
 2 Eldrazi Displacer
 2 Brushland
+2 Path to Exile
 3 Eldrazi Displacer
 4 Eldrazi Displacer
 2 Seasoned Pyromancer
@@ -61,7 +61,6 @@
 4 Bloodbraid Elf
 1 Birds of Paradise
 4 Windswept Heath
-1 Eternal Witness
 1 Sea Gate Wreckage
 1 Island
 1 Breeding Pool
@@ -69,30 +68,31 @@
 1 Yavimaya Coast
 1 Prismatic Ending
 1 Engineered Explosives
+1 Eternal Witness
 1 Stubborn Denial
 1 Drowner of Hope
+2 Yavimaya Coast
 2 Drowner of Hope
 2 Prismatic Ending
 2 Engineered Explosives
-2 Yavimaya Coast
 2 Stubborn Denial
-3 Drowner of Hope
 3 Yavimaya Coast
-1 Field of Ruin
-1 Stoneforge Mystic
-1 Kaldra Compleat
+3 Drowner of Hope
 1 Batterskull
+1 Field of Ruin
 1 Sword of Fire and Ice
 1 Boreal Druid
-2 Plains
-2 Stoneforge Mystic
+1 Kaldra Compleat
+1 Stoneforge Mystic
 2 Boreal Druid
-3 Stoneforge Mystic
+2 Stoneforge Mystic
+2 Plains
 3 Brushland
 3 Path to Exile
-4 Stoneforge Mystic
+3 Stoneforge Mystic
 4 Path to Exile
 4 Brushland
+4 Stoneforge Mystic
 1 Gemstone Caverns
 1 Boseiju, Who Endures
 1 Den of the Bugbear
@@ -100,8 +100,8 @@
 3 Seasoned Pyromancer
 4 Seasoned Pyromancer
 1 Blast Zone
-1 Wooded Foothills
 1 Stomping Ground
+1 Wooded Foothills
 2 Wooded Foothills
 1 Scavenger Grounds
 1 Sword of Feast and Famine
@@ -118,8 +118,8 @@
 1 Mind Stone
 1 Spatial Contortion
 1 Ratchet Bomb
-2 Ratchet Bomb
 2 Spatial Contortion
+2 Ratchet Bomb
 2 Mind Stone
 3 Mind Stone
 1 Relic of Progenitus
@@ -141,9 +141,9 @@
 1 Abundant Harvest
 1 Gruul Spellbreaker
 1 Sacred Foundry
-2 Sacred Foundry
-2 Boseiju, Who Endures
 2 Abundant Harvest
+2 Sacred Foundry
 2 Gruul Spellbreaker
+2 Boseiju, Who Endures
 3 Gruul Spellbreaker
 4 Gruul Spellbreaker

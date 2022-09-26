@@ -52,21 +52,21 @@
 3 Impulse
 1 Karakas
 6 Snow-Covered Island
-1 Tundra
 1 Orim's Chant
+1 Tundra
 1 Snow-Covered Swamp
 2 Griselbrand
 1 Wooded Foothills
 1 Surgical Extraction
-1 Archon of Cruelty
-1 Shallow Grave
 1 Reanimate
+1 Shallow Grave
 1 Emrakul, the Promised End
 1 Animate Dead
 1 Entomb
 1 Exhume
-2 Archon of Cruelty
+1 Archon of Cruelty
 2 Snow-Covered Swamp
+2 Archon of Cruelty
 2 Exhume
 2 Entomb
 3 Entomb
@@ -109,11 +109,11 @@
 1 Shark Typhoon
 2 Shark Typhoon
 3 Scalding Tarn
-1 Narset, Parter of Veils
 1 Fact or Fiction
 1 Misdirection
-1 Pyroblast
 1 Boseiju, Who Endures
+1 Pyroblast
+1 Narset, Parter of Veils
 2 Volcanic Island
 3 Uro, Titan of Nature's Wrath
 1 Teferi, Time Raveler
@@ -127,13 +127,6 @@
 3 Orim's Chant
 4 Impulse
 4 Orim's Chant
-2 Jace, the Mind Sculptor
-2 Eureka
-3 Tropical Island
-3 Eureka
-3 Griselbrand
-4 Tropical Island
-9 Snow-Covered Island
 1 Pact of Negation
 1 Enter the Infinite
 2 Pact of Negation
@@ -141,3 +134,10 @@
 3 Pact of Negation
 4 Ancient Tomb
 6 Island
+9 Snow-Covered Island
+2 Jace, the Mind Sculptor
+2 Eureka
+3 Eureka
+3 Tropical Island
+3 Griselbrand
+4 Tropical Island
