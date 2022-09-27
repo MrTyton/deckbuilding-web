@@ -1,41 +1,48 @@
-2 Island
 3 Island
+3 March of Otherworldly Light
+4 Teferi, Time Raveler
+3 Snow-Covered Island
 1 The Wandering Emperor
 1 Memory Deluge
-1 Snow-Covered Forest
-3 Snow-Covered Island
 1 Glacial Floodplain
 1 Spreading Seas
 2 Spreading Seas
 3 Spreading Seas
 4 Spreading Seas
+1 Celestial Colonnade
+2 Breeding Pool
+4 Snow-Covered Island
 3 Supreme Verdict
 1 Dress Down
+2 Dress Down
 1 Polluted Delta
 2 Polluted Delta
-1 Celestial Colonnade
-4 Snow-Covered Island
-2 Dress Down
-1 Scalding Tarn
-2 The Wandering Emperor
-2 Breeding Pool
-1 Boseiju, Who Endures
-2 Hall of Storm Giants
 1 Temple Garden
 2 Snow-Covered Forest
-2 Memory Deluge
-1 Subtlety
 3 Windswept Heath
+1 Boseiju, Who Endures
+1 Ephemerate
+2 Ephemerate
+3 Ephemerate
 1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
-3 Teferi, Hero of Dominaria
+1 Soulherder
+1 Eternal Witness
+2 Eternal Witness
+4 Ephemerate
+1 Subtlety
+1 Scalding Tarn
+2 The Wandering Emperor
+1 Abundant Growth
+2 Abundant Growth
+3 Abundant Growth
+4 Abundant Growth
 1 Raugrin Triome
-3 Chalice of the Void
 1 Eiganjo, Seat of the Empire
-2 Subtlety
 3 Mystic Gate
+2 Subtlety
 1 Day's Undoing
 1 Geier Reach Sanitarium
 1 Narset, Parter of Veils
@@ -43,52 +50,44 @@
 2 Narset, Parter of Veils
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
-1 Ephemerate
-2 Ephemerate
-3 Ephemerate
-2 Castle Vantress
+1 Flooded Grove
 1 Endurance
-1 Soulherder
-1 Eternal Witness
-2 Eternal Witness
-4 Ephemerate
-1 Abundant Growth
-2 Abundant Growth
-3 Abundant Growth
-4 Abundant Growth
-2 Jace, the Mind Sculptor
+2 Castle Vantress
+2 Hall of Storm Giants
+2 Snow-Covered Plains
+1 Time Warp
+2 Time Warp
 2 Endurance
+2 Soulherder
+3 Soulherder
+1 Coiling Oracle
+2 Coiling Oracle
+3 Coiling Oracle
+2 Memory Deluge
+3 Teferi, Hero of Dominaria
+2 Jace, the Mind Sculptor
 1 Steam Vents
 1 Fire/Ice
 2 Fire/Ice
 3 Fire/Ice
 1 Snapcaster Mage
-1 Flooded Grove
+3 Chalice of the Void
+3 Eternal Witness
 4 Island
-2 Soulherder
-3 Soulherder
-2 Scalding Tarn
-2 Snow-Covered Plains
-1 Time Warp
-2 Time Warp
 3 Force of Negation
 1 Prismatic Vista
 2 Prismatic Vista
 1 Castle Ardenvale
 2 Snapcaster Mage
-1 Coiling Oracle
-2 Coiling Oracle
-3 Coiling Oracle
-3 Eternal Witness
+1 Charming Prince
 1 Wall of Omens
 2 Wall of Omens
-1 Charming Prince
-5 Snow-Covered Island
 1 Deputy of Detention
 4 Force of Negation
+2 Scalding Tarn
 1 Spell Queller
 2 Spell Queller
-4 Chalice of the Void
+1 Eladamri's Call
 1 Reflecting Pool
 4 March of Otherworldly Light
 3 Dress Down
@@ -107,55 +106,15 @@
 3 Collected Company
 4 Wall of Omens
 4 Collected Company
-5 Island
 1 Birds of Paradise
+5 Island
 1 Batterskull
 1 Kaldra Compleat
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
-3 Memory Deluge
-3 Polluted Delta
-3 Hall of Storm Giants
-4 Polluted Delta
-6 Snow-Covered Island
-3 Spell Queller
-4 Supreme Verdict
-1 Glacial Fortress
-1 Field of Ruin
-2 Field of Ruin
-2 Celestial Colonnade
-2 Plains
-4 Dress Down
-1 Eladamri's Call
-1 Shark Typhoon
-1 Dovin's Veto
-2 Wall of Blossoms
-1 Leyline Binding
-1 Ketria Triome
-1 Raffine's Tower
-2 Leyline Binding
-3 Leyline Binding
-4 Leyline Binding
-1 Vesperlark
-1 Sword of Fire and Ice
-1 Lion Sash
-4 Stoneforge Mystic
-3 Subtlety
-1 Vendilion Clique
-1 Qasali Ambusher
-1 Omen of the Sea
-1 Restoration Angel
-2 Restoration Angel
-2 Omen of the Sea
-2 Vendilion Clique
-2 Qasali Ambusher
-3 Restoration Angel
-3 Scalding Tarn
-3 Omen of the Sea
-4 Scalding Tarn
-1 Cryptic Command
 1 On Thin Ice
+1 Cryptic Command
 1 Knight of Autumn
 1 Rimewood Falls
 2 On Thin Ice
@@ -165,6 +124,42 @@
 3 Cryptic Command
 4 Eternal Witness
 4 Coiling Oracle
+3 Spell Queller
+4 Supreme Verdict
+1 Field of Ruin
+1 Glacial Fortress
+2 Celestial Colonnade
+2 Field of Ruin
+5 Snow-Covered Island
+2 Plains
+4 Dress Down
+1 Shark Typhoon
+1 Dovin's Veto
+2 Wall of Blossoms
+1 Ketria Triome
+1 Raffine's Tower
+1 Leyline Binding
+2 Leyline Binding
+3 Leyline Binding
+4 Leyline Binding
+1 Vesperlark
+1 Sword of Fire and Ice
+1 Lion Sash
+4 Stoneforge Mystic
+4 Chalice of the Void
+3 Subtlety
+1 Vendilion Clique
+1 Qasali Ambusher
+1 Omen of the Sea
+1 Restoration Angel
+2 Restoration Angel
+2 Qasali Ambusher
+2 Omen of the Sea
+2 Vendilion Clique
+3 Restoration Angel
+3 Scalding Tarn
+3 Omen of the Sea
+4 Scalding Tarn
 1 Prairie Stream
 3 Prismatic Vista
 4 Windswept Heath
@@ -176,9 +171,14 @@
 3 Field of Ruin
 3 Glacial Fortress
 3 Jace, the Mind Sculptor
-4 Field of Ruin
 4 Fire/Ice
+4 Field of Ruin
 6 Island
+3 Memory Deluge
+3 Hall of Storm Giants
+3 Polluted Delta
+4 Polluted Delta
+6 Snow-Covered Island
 1 Serra Paragon
 1 Thrun, the Last Troll
 3 Day's Undoing
@@ -191,8 +191,6 @@
 2 Eladamri's Call
 3 Eladamri's Call
 4 Eladamri's Call
-2 Deputy of Detention
-4 Soulherder
 1 Brazen Borrower
 1 Svyelun of Sea and Sky
 1 Merfolk Trickster
@@ -208,5 +206,7 @@
 4 Brazen Borrower
 4 Spell Queller
 4 Merfolk Trickster
-4 Svyelun of Sea and Sky
 4 Seachrome Coast
+4 Svyelun of Sea and Sky
+2 Deputy of Detention
+4 Soulherder
