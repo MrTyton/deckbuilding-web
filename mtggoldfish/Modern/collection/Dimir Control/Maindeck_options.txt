@@ -126,38 +126,38 @@
 1 Search for Azcanta
 1 Hive of the Eye Tyrant
 1 Ghost Quarter
-2 Fallen Shinobi
 1 Venser, Shaper Savant
 2 Venser, Shaper Savant
-1 Damnation
 1 Eliminate
+1 Damnation
 2 Eliminate
+2 Fallen Shinobi
+3 Hall of Storm Giants
+1 Liliana of the Veil
+2 Otawara, Soaring City
+2 Liliana of the Veil
+2 Unmarked Grave
+3 Misty Rainforest
 3 Tourach, Dread Cantor
 2 Murderous Cut
 3 Spell Pierce
-1 Darkblast
-1 Sedgemoor Witch
-2 Sedgemoor Witch
-3 Sedgemoor Witch
-1 Liliana of the Veil
-2 Liliana of the Veil
-2 Otawara, Soaring City
-2 Unmarked Grave
-3 Misty Rainforest
-3 Hall of Storm Giants
+1 Cryptic Command
 1 Shadow of Doubt
 1 Rankle, Master of Pranks
 1 Mistbind Clique
-1 Cryptic Command
 1 Cavern of Souls
 1 The Meathook Massacre
-2 Shadow of Doubt
-2 Cryptic Command
-2 Rankle, Master of Pranks
 2 Sudden Edict
+2 Cryptic Command
+2 Shadow of Doubt
+2 Rankle, Master of Pranks
 2 Mistbind Clique
-3 Creeping Tar Pit
 3 Sudden Edict
+3 Creeping Tar Pit
+1 Sedgemoor Witch
+1 Darkblast
+2 Sedgemoor Witch
+3 Sedgemoor Witch
 1 Kaito Shizuki
 1 Ingenious Infiltrator
 1 Changeling Outcast
@@ -185,65 +185,47 @@
 2 Urza's Saga
 3 Urza's Saga
 4 Urza's Saga
+1 Underground River
+1 Mana Leak
 1 Hullbreaker Horror
 1 Fetid Pools
 1 Into the Story
 1 Callous Dismissal
 1 Thing in the Ice
-1 Mana Leak
-1 Underground River
-2 Into the Story
 2 Mana Leak
+2 Into the Story
 2 Clearwater Pathway
 2 Underground River
 2 Callous Dismissal
 2 Thing in the Ice
 2 Fetid Pools
+3 Bloodchief's Thirst
 3 Dress Down
+3 Mana Leak
 3 Clearwater Pathway
 3 Underground River
 3 Thing in the Ice
-3 Mana Leak
 3 Shipwreck Marsh
-3 Bloodchief's Thirst
-4 Clearwater Pathway
 4 Bloodchief's Thirst
-4 Shipwreck Marsh
 4 Mana Leak
+4 Clearwater Pathway
+4 Shipwreck Marsh
 4 Underground River
 1 Jace, Vryn's Prodigy
 2 Jace, Vryn's Prodigy
 3 Jace, Vryn's Prodigy
 4 Scalding Tarn
 4 Jace, Vryn's Prodigy
-1 Inverter of Truth
-1 Thassa's Oracle
-1 Opt
-1 Talisman of Dominance
-2 Thassa's Oracle
-2 Talisman of Dominance
-2 Opt
-2 Inverter of Truth
-3 Memory Deluge
-3 Talisman of Dominance
-3 Thassa's Oracle
-3 Opt
-3 Inverter of Truth
-3 River of Tears
-4 Inverter of Truth
-4 Opt
-4 Talisman of Dominance
-4 Thassa's Oracle
-4 River of Tears
 1 Surgical Extraction
+1 Extirpate
 1 Glimpse the Unthinkable
 1 Fractured Sanity
 1 Hedron Crab
-1 Extirpate
 1 Visions of Beyond
 1 Tasha's Hideous Laughter
 1 Ruin Crab
 1 Breaking/Entering
+2 Extirpate
 2 Fractured Sanity
 2 Ruin Crab
 2 Tasha's Hideous Laughter
@@ -251,7 +233,6 @@
 2 Breaking/Entering
 2 Hedron Crab
 2 Glimpse the Unthinkable
-2 Extirpate
 3 Hedron Crab
 3 Tasha's Hideous Laughter
 3 Breaking/Entering
@@ -261,6 +242,7 @@
 3 Fractured Sanity
 3 Extirpate
 3 Visions of Beyond
+4 Swamp
 4 Hedron Crab
 4 Breaking/Entering
 4 Tasha's Hideous Laughter
@@ -269,5 +251,23 @@
 4 Visions of Beyond
 4 Glimpse the Unthinkable
 4 Ruin Crab
-4 Swamp
 5 Swamp
+1 Opt
+1 Inverter of Truth
+1 Thassa's Oracle
+1 Talisman of Dominance
+2 Opt
+2 Thassa's Oracle
+2 Talisman of Dominance
+2 Inverter of Truth
+3 Memory Deluge
+3 Opt
+3 Talisman of Dominance
+3 Thassa's Oracle
+3 Inverter of Truth
+3 River of Tears
+4 Opt
+4 Inverter of Truth
+4 Talisman of Dominance
+4 Thassa's Oracle
+4 River of Tears

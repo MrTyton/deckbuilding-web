@@ -59,6 +59,6 @@
 |                    1|[Mother of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430236)    |                     |                                                                                                  |
 |                    2|[Mother of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430236)    |                     |                                                                                                  |
 |                    7|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)|                     |                                                                                                  |
-|                    1|[Enlightened Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15355)   |                     |                                                                                                  |
 |                    2|[Enlightened Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15355)   |                     |                                                                                                  |
+|                    1|[Enlightened Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15355)   |                     |                                                                                                  |
 

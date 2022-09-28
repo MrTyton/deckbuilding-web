@@ -1,6 +1,6 @@
-1 Steam Vents
 1 Watery Grave
 1 Death's Shadow
+1 Steam Vents
 2 Death's Shadow
 2 Watery Grave
 3 Death's Shadow
@@ -50,8 +50,8 @@
 1 Unearth
 1 Thassa's Oracle
 1 Temporal Mastery
-1 Consider
 1 Doomsday
+1 Consider
 1 Cavern of Souls
 2 Temporal Mastery
 2 Doomsday
@@ -79,10 +79,10 @@
 1 Cling to Dust
 1 Dress Down
 1 Fatal Push
-1 Tarfire
-2 Tarfire
 1 Reanimate
 2 Reanimate
+1 Tarfire
+2 Tarfire
 1 Snow-Covered Island
 3 Ob Nixilis, the Adversary
 1 True-Name Nemesis
@@ -98,8 +98,8 @@
 1 Spell Snare
 1 Chain Lightning
 1 Spell Pierce
-2 Spell Snare
 2 Spell Pierce
+2 Spell Snare
 3 Young Pyromancer
 3 Preordain
 4 Young Pyromancer

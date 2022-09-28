@@ -11,12 +11,12 @@
 1 Grist, the Hunger Tide
 2 Grist, the Hunger Tide
 3 Grist, the Hunger Tide
-1 Collected Company
 1 Copperline Gorge
 1 Ignoble Hierarch
-2 Collected Company
+1 Collected Company
 2 Copperline Gorge
 2 Ignoble Hierarch
+2 Collected Company
 3 Collected Company
 3 Ignoble Hierarch
 4 Collected Company
@@ -130,10 +130,6 @@
 1 Snow-Covered Swamp
 1 Snow-Covered Forest
 4 Wrenn and Six
-2 Greater Gargadon
-3 Dauthi Voidwalker
-3 Terminate
-4 Swamp
 1 Jadar, Ghoulcaller of Nephalia
 1 Shambling Ghast
 1 Geralf's Messenger
@@ -172,3 +168,7 @@
 4 Insolent Neonate
 4 Stitcher's Supplier
 4 Vengevine
+2 Greater Gargadon
+3 Dauthi Voidwalker
+3 Terminate
+4 Swamp

@@ -4,10 +4,10 @@
 2 Blooming Marsh
 3 Blooming Marsh
 1 Takenuma, Abandoned Mire
-1 Fabled Passage
 1 Forest
-3 Ziatora's Proving Ground
+1 Fabled Passage
 3 Inquisition of Kozilek
+3 Ziatora's Proving Ground
 1 Den of the Bugbear
 2 Den of the Bugbear
 4 Blooming Marsh
@@ -21,11 +21,11 @@
 3 Fabled Passage
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-1 Shatterskull Smashing
+1 Swashbuckler Extraordinaire
 1 Voltage Surge
 1 Jewel Thief
+1 Shatterskull Smashing
 1 Heartless Act
-1 Swashbuckler Extraordinaire
 1 Davriel, Soul Broker
 2 Voltage Surge
 2 Chandra, Torch of Defiance
@@ -34,6 +34,14 @@
 3 Laelia, the Blade Reforged
 3 Voltage Surge
 4 Ziatora's Proving Ground
+1 Seasoned Pyromancer
+1 Assassin's Trophy
+1 Castle Locthwain
+2 Seasoned Pyromancer
+3 Kolaghan's Command
+3 Seasoned Pyromancer
+4 Inquisition of Kozilek
+4 Kolaghan's Command
 1 Rockfall Vale
 1 Vraska, Golgari Queen
 2 Vraska, Golgari Queen
@@ -43,23 +51,15 @@
 4 Fabled Passage
 4 Tireless Tracker
 4 Bonecrusher Giant
-1 Seasoned Pyromancer
-1 Assassin's Trophy
-1 Castle Locthwain
-2 Seasoned Pyromancer
-3 Seasoned Pyromancer
-3 Kolaghan's Command
-4 Kolaghan's Command
-4 Inquisition of Kozilek
 1 Priest of Forgotten Gods
 1 Gilded Goose
 1 Unlucky Witness
 1 Prosperous Innkeeper
+1 Phyrexian Tower
 1 Woe Strider
 1 Korvold, Fae-Cursed King
 1 Cabaretti Revels
 1 Mayhem Devil
-1 Phyrexian Tower
 2 Gilded Goose
 2 Priest of Forgotten Gods
 2 Unlucky Witness
@@ -71,57 +71,57 @@
 3 Gilded Goose
 3 Priest of Forgotten Gods
 3 Unlucky Witness
+3 Stomping Ground
 3 Cabaretti Revels
 3 Prosperous Innkeeper
-3 Stomping Ground
 3 Mayhem Devil
 3 Woe Strider
 3 Korvold, Fae-Cursed King
 4 Gilded Goose
 4 Priest of Forgotten Gods
 4 Unlucky Witness
+4 Stomping Ground
 4 Korvold, Fae-Cursed King
 4 Cabaretti Revels
-4 Stomping Ground
 4 Woe Strider
 4 Prosperous Innkeeper
 4 Overgrown Tomb
 4 Mayhem Devil
+1 Sin Prodder
 1 Hellrider
-1 Castle Embereth
+1 Dragonskull Summit
 1 Haunted Ridge
 1 Raphael, Fiendish Savior
 1 Kardum, Patron of Flames
-1 Sin Prodder
+1 Castle Embereth
 1 Mayhem Patrol
-1 Dragonskull Summit
 1 Kumano Faces Kakkazan
 1 Tiefling Outcasts
 1 Big Spender
-2 Haunted Ridge
 2 Hellrider
+2 Dragonskull Summit
 2 Raphael, Fiendish Savior
 2 Tiefling Outcasts
 2 Big Spender
-2 Dragonskull Summit
 2 Kumano Faces Kakkazan
 2 Mountain
 2 Kardum, Patron of Flames
 2 Mayhem Patrol
 2 Sin Prodder
-3 Mountain
-3 Haunted Ridge
+2 Haunted Ridge
 3 Hellrider
 3 Kumano Faces Kakkazan
+3 Haunted Ridge
 3 Big Spender
 3 Mayhem Patrol
 3 Tiefling Outcasts
-4 Mountain
-4 Haunted Ridge
+3 Mountain
 4 Hellrider
 4 Big Spender
+4 Haunted Ridge
 4 Mayhem Patrol
+4 Mountain
 4 Tiefling Outcasts
 4 Blightstep Pathway
-5 Mountain
 4 Kumano Faces Kakkazan
+5 Mountain

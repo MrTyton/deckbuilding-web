@@ -24,9 +24,9 @@
 1 Endurance
 2 Fury
 2 Tireless Tracker
-1 Fiery Islet
 1 Snow-Covered Mountain
 1 Snow-Covered Forest
+1 Fiery Islet
 2 Snow-Covered Mountain
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
@@ -60,15 +60,15 @@
 2 Galvanic Blast
 2 Experimental Synthesizer
 2 Shrapnel Blast
-3 Snow-Covered Mountain
 3 Galvanic Blast
+3 Snow-Covered Mountain
 3 Experimental Synthesizer
 3 Shrapnel Blast
 4 Experimental Synthesizer
 4 Shrapnel Blast
 4 Galvanic Blast
-1 Titania, Protector of Argoth
 1 Zuran Orb
+1 Titania, Protector of Argoth
 1 Unlicensed Hearse
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
@@ -81,23 +81,23 @@
 4 Tireless Tracker
 3 Abundant Harvest
 1 Rancor
+1 Mutagenic Growth
 1 Soul-Scar Mage
 1 Lava Dart
-1 Mutagenic Growth
 1 Monastery Swiftspear
-2 Lava Dart
-2 Mutagenic Growth
 2 Soul-Scar Mage
+2 Mutagenic Growth
+2 Lava Dart
 2 Monastery Swiftspear
+3 Soul-Scar Mage
 3 Mutagenic Growth
 3 Monastery Swiftspear
-3 Soul-Scar Mage
 3 Lava Dart
+4 Soul-Scar Mage
 4 Lava Dart
 4 Monastery Swiftspear
-4 Soul-Scar Mage
-1 Thespian's Stage
 1 Gallia of the Endless Dance
+1 Thespian's Stage
 2 Verdant Catacombs
 2 Unlicensed Hearse
 1 Questing Beast
@@ -105,6 +105,12 @@
 1 Wish
 2 Wish
 2 Questing Beast
+1 Gut Shot
+1 Tarfire
+2 Gut Shot
+2 Tarfire
+3 Arid Mesa
+4 Arid Mesa
 1 Tranquil Thicket
 1 Grafdigger's Cage
 1 Pithing Needle
@@ -129,8 +135,8 @@
 3 Seal of Fire
 4 Brushfire Elemental
 1 Atarka's Command
-1 Prey's Vengeance
 1 Copperline Gorge
+1 Prey's Vengeance
 2 Atarka's Command
 2 Copperline Gorge
 2 Prey's Vengeance
@@ -141,12 +147,6 @@
 4 Copperline Gorge
 1 Bonecrusher Giant
 1 Castle Embereth
-4 Abundant Harvest
 4 Seasoned Pyromancer
+4 Abundant Harvest
 5 Mountain
-1 Tarfire
-1 Gut Shot
-2 Gut Shot
-2 Tarfire
-3 Arid Mesa
-4 Arid Mesa

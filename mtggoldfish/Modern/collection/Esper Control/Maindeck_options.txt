@@ -11,8 +11,8 @@
 1 Drowned Catacomb
 4 Polluted Delta
 1 Glacial Fortress
-1 Snow-Covered Island
 1 Snow-Covered Plains
+1 Snow-Covered Island
 1 Consider
 2 Consider
 2 Snow-Covered Island
@@ -44,20 +44,20 @@
 2 Ledger Shredder
 1 Thoughtseize
 2 Thoughtseize
-1 Unearth
 1 Mishra's Bauble
-1 Darkslick Shores
 1 Monastery Mentor
-2 Unearth
+1 Unearth
+1 Darkslick Shores
 2 Mishra's Bauble
-2 Darkslick Shores
 2 Monastery Mentor
+2 Darkslick Shores
+2 Unearth
 3 Mishra's Bauble
+3 Monastery Mentor
 3 Darkslick Shores
 3 Unearth
-3 Monastery Mentor
-4 Unearth
 4 Monastery Mentor
+4 Unearth
 4 Mishra's Bauble
 3 Ledger Shredder
 1 Shark Typhoon
@@ -66,10 +66,10 @@
 1 Vindicate
 1 Cryptic Command
 4 Darkslick Shores
-1 Thought Scour
 1 Spell Pierce
-2 Thought Scour
+1 Thought Scour
 2 Spell Pierce
+2 Thought Scour
 1 Murktide Regent
 2 Murktide Regent
 1 Eiganjo, Seat of the Empire
@@ -117,58 +117,90 @@
 3 Inquisition of Kozilek
 1 Force of Negation
 2 Force of Negation
-1 Narset, Parter of Veils
 1 Spara's Headquarters
+1 Narset, Parter of Veils
 1 Chalice of the Void
 2 Chalice of the Void
 1 Subtlety
 1 Takenuma, Abandoned Mire
 2 Godless Shrine
 1 Field of Ruin
-1 Hullbreaker Horror
 1 Surgical Extraction
+1 Hullbreaker Horror
 1 Boseiju, Who Endures
-1 Bloodchief's Thirst
 1 Blast Zone
+1 Bloodchief's Thirst
 1 Narset Transcendent
 1 Obscura Charm
 1 Logic Knot
 1 River of Tears
 1 Timeless Dragon
-2 Drowned Catacomb
 1 Dovin's Veto
-2 Dovin's Veto
 2 Glacial Fortress
+2 Dovin's Veto
 1 Snow-Covered Swamp
 2 Kaya, Orzhov Usurper
+2 Drowned Catacomb
 2 Path to Exile
 3 Fire/Ice
 1 Spell Snare
 3 Esper Charm
-3 Drown in the Loch
-3 Damn
-4 Drown in the Loch
 1 Murderous Cut
 3 Murktide Regent
 4 Murktide Regent
 1 Castle Ardenvale
 1 Omen of the Sea
-2 Omen of the Sea
 2 Celestial Colonnade
+2 Omen of the Sea
 3 Celestial Colonnade
 3 Teferi, Hero of Dominaria
 4 March of Otherworldly Light
+3 Drown in the Loch
+3 Damn
+4 Drown in the Loch
+1 Otherworldly Gaze
+1 Shakedown Heavy
+1 Heart of Kiran
+1 Parhelion II
+1 Stitcher's Supplier
+1 Hive of the Eye Tyrant
+1 Smuggler's Copter
+1 Mobilizer Mech
+1 Greasefang, Okiba Boss
+1 Toolcraft Exemplar
+1 Mech Hangar
+1 Judge's Familiar
+2 Otherworldly Gaze
+2 Toolcraft Exemplar
+2 Stitcher's Supplier
+2 Smuggler's Copter
+2 Judge's Familiar
+2 Greasefang, Okiba Boss
+2 Heart of Kiran
+2 Parhelion II
+2 Mech Hangar
+3 Otherworldly Gaze
+3 Judge's Familiar
+3 Greasefang, Okiba Boss
+3 Stitcher's Supplier
+3 Parhelion II
+3 Godless Shrine
+3 Toolcraft Exemplar
+3 Smuggler's Copter
+4 Otherworldly Gaze
+4 Smuggler's Copter
+4 Greasefang, Okiba Boss
 1 Riptide Laboratory
 2 Cryptic Command
 3 Marsh Flats
 4 Marsh Flats
 1 Brazen Borrower
 1 Vendilion Clique
-1 Waterlogged Grove
 1 Venser, Shaper Savant
 1 Spectral Adversary
 1 Spell Queller
 1 Ephemerate
+1 Waterlogged Grove
 1 Restoration Angel
 2 Brazen Borrower
 2 Spell Queller
@@ -182,12 +214,13 @@
 3 Leyline Binding
 4 Leyline Binding
 4 Shark Typhoon
+5 Island
 1 Arid Mesa
 1 Geier Reach Sanitarium
 1 Day's Undoing
-2 Hall of Storm Giants
 2 Subtlety
 2 Narset, Parter of Veils
+2 Hall of Storm Giants
 2 Day's Undoing
 3 Force of Negation
 3 Subtlety
@@ -195,36 +228,3 @@
 3 Chalice of the Void
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
-5 Island
-1 Hive of the Eye Tyrant
-1 Shakedown Heavy
-1 Heart of Kiran
-1 Parhelion II
-1 Stitcher's Supplier
-1 Smuggler's Copter
-1 Mobilizer Mech
-1 Greasefang, Okiba Boss
-1 Toolcraft Exemplar
-1 Otherworldly Gaze
-1 Mech Hangar
-1 Judge's Familiar
-2 Otherworldly Gaze
-2 Toolcraft Exemplar
-2 Stitcher's Supplier
-2 Smuggler's Copter
-2 Judge's Familiar
-2 Greasefang, Okiba Boss
-2 Heart of Kiran
-2 Parhelion II
-2 Mech Hangar
-3 Judge's Familiar
-3 Greasefang, Okiba Boss
-3 Otherworldly Gaze
-3 Stitcher's Supplier
-3 Parhelion II
-3 Godless Shrine
-3 Toolcraft Exemplar
-3 Smuggler's Copter
-4 Smuggler's Copter
-4 Greasefang, Okiba Boss
-4 Otherworldly Gaze
