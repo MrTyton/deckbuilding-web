@@ -6,23 +6,14 @@
 4 Mutavault
 2 Roadside Reliquary
 3 Roadside Reliquary
-3 All That Glitters
-2 Ghostfire Blade
 1 Battlefield Forge
-2 Eater of Virtue
+3 All That Glitters
+2 Battlefield Forge
 1 Spire of Industry
 2 Spire of Industry
 3 Spire of Industry
-4 All That Glitters
-1 Alseid of Life's Bounty
-2 Alseid of Life's Bounty
+2 Eater of Virtue
 4 Spire of Industry
-1 Hallowed Fountain
-1 Hengegate Pathway
-2 Hengegate Pathway
-2 Hallowed Fountain
-3 Hallowed Fountain
-4 Hallowed Fountain
 1 Shrapnel Blast
 1 Spirebluff Canal
 2 Shrapnel Blast
@@ -30,6 +21,12 @@
 3 Spirebluff Canal
 3 Shrapnel Blast
 4 Spirebluff Canal
+1 Hallowed Fountain
+1 Hengegate Pathway
+2 Hengegate Pathway
+2 Hallowed Fountain
+3 Hallowed Fountain
+4 Hallowed Fountain
 1 Steam Vents
 2 Steam Vents
 3 Steam Vents
@@ -42,47 +39,49 @@
 1 Sokenzan, Crucible of Defiance
 2 Riverglide Pathway
 3 Riverglide Pathway
-2 Battlefield Forge
+2 Ghostfire Blade
 1 Experimental Synthesizer
 2 Experimental Synthesizer
 3 Experimental Synthesizer
+1 Alseid of Life's Bounty
+2 Alseid of Life's Bounty
 3 Hengegate Pathway
 4 Hengegate Pathway
+1 Hope of Ghirapur
+4 All That Glitters
+1 Mana Confluence
+3 Voltage Surge
 3 Plains
 4 Plains
 5 Plains
-1 Hope of Ghirapur
-1 Mana Confluence
-3 Voltage Surge
 6 Plains
 4 Needleverge Pathway
-4 Roadside Reliquary
 3 Alseid of Life's Bounty
 4 Alseid of Life's Bounty
 7 Plains
 8 Plains
 9 Plains
-2 Shadowspear
-10 Plains
 2 Hope of Ghirapur
-1 Unlicensed Hearse
-3 Ghostfire Blade
-1 Island
 1 Treasure Vault
+2 Treasure Vault
+10 Plains
+4 Roadside Reliquary
+1 Unlicensed Hearse
+1 Island
+2 Shadowspear
+3 Battlefield Forge
 1 Shefet Dunes
 2 Shefet Dunes
-2 Treasure Vault
-11 Plains
-12 Plains
+2 Eiganjo, Seat of the Empire
 1 Glass Casket
 2 Glass Casket
+11 Plains
 4 Riverglide Pathway
+3 Ghostfire Blade
 4 Ghostfire Blade
 1 Stubborn Denial
-2 Eiganjo, Seat of the Empire
 1 Hushbringer
 2 Hushbringer
-3 Battlefield Forge
 1 Snow-Covered Plains
 3 The Blackstaff of Waterdeep
 4 Experimental Synthesizer
@@ -145,4 +144,5 @@
 3 Steel Overseer
 3 Enthusiastic Mechanaut
 4 Enthusiastic Mechanaut
+12 Plains
 13 Plains

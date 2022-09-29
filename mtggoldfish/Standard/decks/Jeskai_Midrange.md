@@ -29,3 +29,14 @@
 |2 [Squee, Dubious Monarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574626)|1 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)            |                                                                                     |                |
 |                                                                                                   |1 [Valorous Stance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391950)   |                                                                                     |                |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Hullbreaker Horror](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=540902)|                    1|[Unlicensed Hearse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555447)|
+|                    1|[Farewell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548306)          |                    1|[Sunset Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534796)   |
+|                     |                                                                                             |                    2|[Sunset Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534796)   |
+|                     |                                                                                             |                    2|[Unlicensed Hearse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555447)|
+|                     |                                                                                             |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
+
