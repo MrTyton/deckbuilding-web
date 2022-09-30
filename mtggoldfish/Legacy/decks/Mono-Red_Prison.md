@@ -57,7 +57,7 @@
 |                    3|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)     |                     |                                                                                                     |
 |                    4|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)     |                     |                                                                                                     |
 |                    4|[Anje's Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=470568)            |                     |                                                                                                     |
-|                    4|[Laelia, the Blade Reforged](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=518449)|                     |                                                                                                     |
 |                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                  |                     |                                                                                                     |
 |                    5|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)     |                     |                                                                                                     |
+|                    4|[Laelia, the Blade Reforged](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=518449)|                     |                                                                                                     |
 

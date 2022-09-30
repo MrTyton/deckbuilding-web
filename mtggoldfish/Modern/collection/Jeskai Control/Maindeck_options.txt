@@ -22,11 +22,11 @@
 1 Fury
 1 Blood Sun
 1 Lotus Field
+2 Valakut Awakening
 2 Flagstones of Trokair
 2 Blood Sun
 2 Lotus Field
 2 Fury
-2 Valakut Awakening
 3 Fury
 3 Teferi, Hero of Dominaria
 3 Valakut Awakening
@@ -106,11 +106,11 @@
 1 Prairie Stream
 1 Esper Sentinel
 1 Bonecrusher Giant
-1 Sunbaked Canyon
-1 Fiery Islet
 1 Mana Leak
 1 Hushbringer
+1 Fiery Islet
 1 Luminarch Aspirant
+1 Sunbaked Canyon
 2 Esper Sentinel
 2 Hushbringer
 2 Luminarch Aspirant
@@ -133,9 +133,9 @@
 2 Bonecrusher Giant
 2 Anointed Peacekeeper
 3 Anointed Peacekeeper
-1 Unholy Heat
 1 Chandra, Torch of Defiance
 1 Ionize
+1 Unholy Heat
 2 Fiery Islet
 3 Sunbaked Canyon
 4 Expressive Iteration
@@ -146,14 +146,22 @@
 1 Roiling Vortex
 2 Surgical Extraction
 2 Roiling Vortex
-1 Snow-Covered Plains
+1 Spreading Seas
+1 Breeding Pool
+1 Windswept Heath
+2 Glacial Fortress
+2 Spreading Seas
+2 Windswept Heath
+2 Prairie Stream
+3 Windswept Heath
 1 Snow-Covered Island
+1 Snow-Covered Plains
 1 Consider
 1 Lightning Helix
 1 Search for Azcanta
 1 Stormcarved Coast
-2 Snow-Covered Island
 2 Consider
+2 Snow-Covered Island
 2 Lightning Helix
 2 Search for Azcanta
 3 Consider
@@ -163,14 +171,6 @@
 1 Raffine's Tower
 2 Leyline Binding
 3 Leyline Binding
-1 Spreading Seas
-1 Breeding Pool
-1 Windswept Heath
-2 Glacial Fortress
-2 Spreading Seas
-2 Windswept Heath
-2 Prairie Stream
-3 Windswept Heath
 4 March of Otherworldly Light
 1 Day's Undoing
 1 Geier Reach Sanitarium

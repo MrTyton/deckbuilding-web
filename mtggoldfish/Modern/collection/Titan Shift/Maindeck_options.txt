@@ -1,8 +1,8 @@
 2 Arid Mesa
 2 Bloodstained Mire
+4 Scalding Tarn
 2 Sheltered Thicket
 2 Scapeshift
-4 Scalding Tarn
 3 Arid Mesa
 1 Windswept Heath
 2 Forest
@@ -15,39 +15,40 @@
 3 Cinder Glade
 4 Farseek
 2 Misty Rainforest
+1 Ketria Triome
 1 Island
 1 Steam Vents
-1 Ketria Triome
 2 Steam Vents
-1 Eladamri's Call
-1 Oath of Nissa
-1 Kiki-Jiki, Mirror Breaker
-1 Tireless Tracker
 1 Sacred Foundry
-1 Razorverge Thicket
-1 Ziatora's Proving Ground
+1 Eladamri's Call
+1 Tireless Tracker
+1 Oath of Nissa
 1 Waterlogged Grove
-1 Jetmir's Garden
-1 Nahiri, the Harbinger
-1 Polluted Delta
-1 Kessig Wolf Run
-1 Renegade Rallier
+1 Razorverge Thicket
 1 Verdant Catacombs
+1 Nahiri, the Harbinger
+1 Plains
+1 Ziatora's Proving Ground
+1 Overgrown Tomb
+1 Jetmir's Garden
+1 Polluted Delta
+1 Felidar Guardian
+1 Renegade Rallier
+1 Kessig Wolf Run
+1 Kiki-Jiki, Mirror Breaker
 1 Finale of Devastation
 1 Ignoble Hierarch
-1 Plains
 1 Magus of the Moon
+1 Zagoth Triome
 1 Horizon Canopy
 1 Scavenging Ooze
-1 Mana Confluence
 1 Fiend Artisan
-1 Prismatic Vista
 1 Botanical Sanctum
+1 Prismatic Vista
 1 Arbor Elf
 1 Restoration Angel
 1 Prismatic Ending
 1 City of Brass
-1 Zagoth Triome
 1 Lotus Cobra
 1 Marsh Flats
 1 Path to Exile
@@ -56,9 +57,9 @@
 1 Emrakul, the Aeons Torn
 1 Platinum Emperion
 1 Madcap Experiment
+1 Teferi, Time Raveler
 1 Bring to Light
 1 Supreme Verdict
-1 Teferi, Time Raveler
 1 Vizier of Remedies
 1 Duskwatch Recruiter
 1 Battle of Wits
@@ -69,7 +70,6 @@
 1 Breaching Hippocamp
 1 Gifts Ungiven
 1 Mastermind's Acquisition
-1 Overgrown Tomb
 1 Rhonas the Indomitable
 1 Glittering Wish
 1 Noble Hierarch
@@ -92,22 +92,24 @@
 1 Flooded Strand
 1 Raugrin Triome
 1 Scryb Ranger
+1 Mana Confluence
 1 Snapcaster Mage
 1 Wall of Blossoms
 1 Wall of Roots
 1 Knight of the Reliquary
 1 Devoted Druid
-1 Felidar Guardian
 1 Boseiju, Who Shelters All
 1 Paradise Druid
 2 Eladamri's Call
-2 Oath of Nissa
 2 Tireless Tracker
-2 Renegade Rallier
+2 Oath of Nissa
+2 Bring to Light
+2 Verdant Catacombs
+2 Felidar Guardian
 2 Horizon Canopy
 2 Ignoble Hierarch
-2 Verdant Catacombs
 2 Polluted Delta
+2 Renegade Rallier
 2 Breeding Pool
 2 Finale of Devastation
 2 Botanical Sanctum
@@ -121,7 +123,6 @@
 2 Wall of Blossoms
 2 Chord of Calling
 2 Hinterland Harbor
-2 Bring to Light
 2 Teferi, Time Raveler
 2 Snapcaster Mage
 2 Fiend Artisan
@@ -133,7 +134,6 @@
 2 Battle of Wits
 2 Primal Command
 2 Devoted Druid
-2 Felidar Guardian
 2 Saheeli Rai
 2 Glittering Wish
 2 Prime Speaker Vannifar
@@ -147,18 +147,18 @@
 2 Gifts Ungiven
 2 Eternal Witness
 3 Eladamri's Call
-3 Oath of Nissa
 3 Breeding Pool
+3 Bring to Light
 3 Renegade Rallier
 3 Ignoble Hierarch
 3 Polluted Delta
+3 Oath of Nissa
 3 Wall of Blossoms
-3 Arbor Elf
 3 Verdant Catacombs
-3 Forest
+3 Arbor Elf
+3 Path to Exile
 3 Lotus Cobra
 3 Prismatic Ending
-3 Path to Exile
 3 Glittering Wish
 3 Noble Hierarch
 3 Nahiri, the Harbinger
@@ -174,11 +174,11 @@
 3 Sheltered Thicket
 3 Wall of Roots
 3 Birds of Paradise
+3 Forest
 3 Snapcaster Mage
 3 Fiend Artisan
 3 Knight of the Reliquary
 3 Gifts Ungiven
-3 Bring to Light
 3 Misty Rainforest
 3 Teferi, Time Raveler
 3 Battle of Wits
@@ -191,8 +191,8 @@
 3 Neoform
 3 Sylvan Caryatid
 3 Avacyn's Pilgrim
-4 Eladamri's Call
 4 Snapcaster Mage
+4 Eladamri's Call
 4 Oath of Nissa
 4 Eternal Witness
 4 Windswept Heath
@@ -200,13 +200,13 @@
 4 Ignoble Hierarch
 4 Flooded Strand
 4 Breeding Pool
+4 Verdant Catacombs
 4 Lotus Cobra
 4 Path to Exile
 4 Sylvan Caryatid
 4 Wall of Omens
 4 Prismatic Ending
 4 Primal Command
-4 Verdant Catacombs
 4 Misty Rainforest
 4 Battle of Wits
 4 Birds of Paradise
@@ -230,8 +230,8 @@
 6 Mountain
 4 Wrenn and Six
 3 Bloodstained Mire
-1 Summoner's Pact
 1 Castle Garenbrig
+1 Summoner's Pact
 2 Castle Garenbrig
 2 Summoner's Pact
 1 Endurance
@@ -245,27 +245,27 @@
 2 Chalice of the Void
 3 Chalice of the Void
 4 Bloodstained Mire
-3 Castle Garenbrig
-4 Valakut, the Molten Pinnacle
-4 Castle Garenbrig
 1 Remand
-1 Expressive Iteration
-1 Snow-Covered Forest
 1 Fire/Ice
 1 Growth Spiral
+1 Expressive Iteration
+1 Snow-Covered Forest
 2 Endurance
 2 Remand
-2 Expressive Iteration
 2 Growth Spiral
 2 Fire/Ice
-2 Snow-Covered Forest
 2 Ketria Triome
+2 Expressive Iteration
+2 Snow-Covered Forest
 3 Steam Vents
+3 Growth Spiral
 3 Ketria Triome
 3 Remand
 3 Expressive Iteration
-3 Growth Spiral
 4 Remand
+4 Growth Spiral
 4 Steam Vents
 4 Expressive Iteration
-4 Growth Spiral
+3 Castle Garenbrig
+4 Valakut, the Molten Pinnacle
+4 Castle Garenbrig

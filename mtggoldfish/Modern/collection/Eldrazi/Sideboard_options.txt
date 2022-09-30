@@ -14,14 +14,14 @@
 2 Rest in Peace
 1 Heroic Intervention
 1 Stony Silence
+1 Hurkyl's Recall
 1 Sunset Revelry
 1 Pithing Needle
 1 Worship
-1 Hurkyl's Recall
 1 Thrun, the Last Troll
 2 Heroic Intervention
-2 Sunset Revelry
 2 Hurkyl's Recall
+2 Sunset Revelry
 2 Stony Silence
 2 Pithing Needle
 3 Hurkyl's Recall
@@ -64,12 +64,9 @@
 2 Kitchen Finks
 2 Natural State
 3 Kitchen Finks
-1 Leyline of the Void
-2 Leyline of the Void
-3 Leyline of the Void
+1 Jegantha, the Wellspring
 1 Cindervines
 1 Feed the Clan
-1 Jegantha, the Wellspring
 1 Crumble to Dust
 2 Feed the Clan
 2 Cindervines
@@ -88,10 +85,13 @@
 2 Fury
 3 Wear/Tear
 3 Fury
+1 Leyline of the Void
+2 Leyline of the Void
+3 Leyline of the Void
 2 Pillage
 3 Pillage
-4 Pillage
 4 Void Mirror
+4 Pillage
 1 Pyroclasm
 2 Pyroclasm
 3 Force of Vigor
