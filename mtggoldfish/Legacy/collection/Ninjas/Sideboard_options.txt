@@ -1,15 +1,15 @@
-1 Thoughtseize
+2 Surgical Extraction
 1 Damping Sphere
 2 Damping Sphere
-1 Null Rod
 1 Murderous Cut
-1 Energy Flux
-2 Energy Flux
+1 Null Rod
 1 Fatal Push
 2 Fatal Push
 1 Grafdigger's Cage
-2 Flusterstorm
 1 Hydroblast
+2 Flusterstorm
+1 Energy Flux
+2 Energy Flux
 3 Hurkyl's Recall
 1 Planar Void
 1 Blue Elemental Blast
@@ -20,17 +20,15 @@
 2 Ashiok, Dream Render
 1 Liliana, the Last Hope
 2 Null Rod
-1 Massacre
 1 Torpor Orb
 1 Dress Down
-3 Energy Flux
 1 Sudden Edict
 2 Sudden Edict
 2 Force of Negation
+1 Opposition Agent
 1 Counterbalance
-1 Ankh of Mishra
-1 Engineered Explosives
-1 Pithing Needle
+1 Massacre
+1 Karakas
 1 Submerge
 2 Submerge
 1 Stifle
@@ -39,7 +37,6 @@
 1 Relic of Progenitus
 2 Eliminate
 2 Relic of Progenitus
-1 Opposition Agent
 1 Court of Cunning
 1 Darkblast
 1 Carpet of Flowers
@@ -49,13 +46,17 @@
 2 Meltdown
 2 Planar Void
 2 Dress Down
+1 Pithing Needle
+1 Ankh of Mishra
+1 Engineered Explosives
+3 Energy Flux
 1 Toxic Deluge
 2 Toxic Deluge
 3 Toxic Deluge
-1 Spellstutter Sprite
 1 Far/Away
-2 Spellstutter Sprite
+1 Spellstutter Sprite
 2 Far/Away
-3 Spellstutter Sprite
+2 Spellstutter Sprite
 3 Thoughtseize
+3 Spellstutter Sprite
 4 Thoughtseize

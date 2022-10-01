@@ -116,11 +116,11 @@
 3 Inquisition of Kozilek
 1 Force of Negation
 2 Force of Negation
-1 Spara's Headquarters
 1 Narset, Parter of Veils
+1 Spara's Headquarters
 1 Chalice of the Void
-2 Chalice of the Void
 2 Misty Rainforest
+2 Chalice of the Void
 1 Riptide Laboratory
 3 Marsh Flats
 4 Marsh Flats
@@ -145,20 +145,20 @@
 1 Snow-Covered Swamp
 1 Fact or Fiction
 2 Kaya, Orzhov Usurper
-2 Path to Exile
-3 Fire/Ice
 1 Spell Snare
 3 Esper Charm
-1 Murderous Cut
-3 Murktide Regent
-4 Murktide Regent
+2 Path to Exile
+3 Fire/Ice
 1 Castle Ardenvale
 1 Omen of the Sea
-2 Celestial Colonnade
 2 Omen of the Sea
+2 Celestial Colonnade
 3 Teferi, Hero of Dominaria
 3 Celestial Colonnade
 4 March of Otherworldly Light
+1 Murderous Cut
+3 Murktide Regent
+4 Murktide Regent
 3 Drown in the Loch
 3 Damn
 4 Drown in the Loch
@@ -195,9 +195,9 @@
 4 Smuggler's Copter
 4 Greasefang, Okiba Boss
 1 Brazen Borrower
+1 Spectral Adversary
 1 Vendilion Clique
 1 Venser, Shaper Savant
-1 Spectral Adversary
 1 Spell Queller
 1 Waterlogged Grove
 1 Restoration Angel
@@ -213,13 +213,13 @@
 3 Leyline Binding
 4 Leyline Binding
 4 Shark Typhoon
-1 Silence
 1 Cavern of Souls
-1 Meddling Mage
 1 Flusterstorm
+1 Meddling Mage
 1 Spoils of the Vault
 1 Umara Wizard
 1 Angel's Grace
+1 Silence
 1 Micromancer
 1 Ertai Resurrected
 1 Step Through
@@ -238,8 +238,8 @@
 1 Arid Mesa
 1 Geier Reach Sanitarium
 1 Day's Undoing
-2 Subtlety
 2 Narset, Parter of Veils
+2 Subtlety
 2 Hall of Storm Giants
 2 Day's Undoing
 3 Force of Negation

@@ -8,9 +8,9 @@
 1 Flooded Strand
 2 Flooded Strand
 3 Teferi, Time Raveler
+1 Sacred Foundry
 1 Solitude
 1 Windswept Heath
-1 Sacred Foundry
 2 Solitude
 2 Windswept Heath
 3 Ardent Plea
@@ -23,13 +23,13 @@
 4 Scalding Tarn
 1 Snow-Covered Island
 1 Snow-Covered Plains
-1 Snow-Covered Mountain
 1 Indatha Triome
+1 Snow-Covered Mountain
 1 Snow-Covered Forest
 3 Leyline Binding
 3 Windswept Heath
-4 Leyline Binding
 4 Flooded Strand
+4 Leyline Binding
 4 Windswept Heath
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
@@ -43,8 +43,8 @@
 2 Omniscience
 3 Omniscience
 4 Omniscience
-1 Goblin Dark-Dwellers
 1 Ketria Triome
+1 Goblin Dark-Dwellers
 2 Goblin Dark-Dwellers
 3 Goblin Dark-Dwellers
 1 Leyline of Sanctity
@@ -57,9 +57,9 @@
 2 Archon of Cruelty
 3 Archon of Cruelty
 4 Archon of Cruelty
-1 Griselbrand
 1 Iona, Shield of Emeria
 1 Ulamog, the Ceaseless Hunger
+1 Griselbrand
 1 Terror of the Peaks
 2 Terror of the Peaks
 1 Gemstone Mine
@@ -75,10 +75,10 @@
 1 Ugin, the Spirit Dragon
 1 As Foretold
 1 Agent of Treachery
-2 Boseiju, Who Endures
 2 Ugin, the Spirit Dragon
 2 As Foretold
 2 Agent of Treachery
+2 Boseiju, Who Endures
 3 Ugin, the Spirit Dragon
 3 Agent of Treachery
 4 Ugin, the Spirit Dragon
@@ -107,9 +107,9 @@
 3 Tireless Provisioner
 4 Tireless Provisioner
 1 Ziatora's Proving Ground
-4 Wooded Foothills
 1 Sokenzan, Crucible of Defiance
 2 Steam Vents
 3 Seasoned Pyromancer
 4 Seasoned Pyromancer
 4 Goblin Dark-Dwellers
+4 Wooded Foothills

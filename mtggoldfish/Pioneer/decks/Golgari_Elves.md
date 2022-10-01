@@ -82,7 +82,7 @@
 |                    3|[Circle of Dreams Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527463) |                    3|[Deathrite Shaman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413757)      |
 |                    4|[Circle of Dreams Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527463) |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                 |
 |                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                 |
-|                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                 |
-|                     |                                                                                                  |                    3|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)       |
+|                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                    3|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)       |
+|                     |                                                                                                  |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                 |
 |                     |                                                                                                  |                    4|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)       |
 
