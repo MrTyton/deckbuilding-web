@@ -20,8 +20,8 @@
 3 Angrath's Rampage
 1 Lolth, Spider Queen
 1 Heartless Act
-1 Angrath, the Flame-Chained
 1 Ob Nixilis, the Adversary
+1 Angrath, the Flame-Chained
 2 Takenuma, Abandoned Mire
 2 Heartless Act
 3 Heartless Act
@@ -50,10 +50,10 @@
 4 Painful Bond
 4 Citystalker Connoisseur
 1 Merchant of the Vale
-1 Tramway Station
 1 Bloodfell Caves
-1 Voldaren Epicure
+1 Tramway Station
 1 Blood Fountain
+1 Voldaren Epicure
 1 Fiery Temper
 1 Reckless Wurm
 1 Revolutionist
@@ -61,8 +61,8 @@
 1 Terminal Agony
 2 Voldaren Epicure
 2 Merchant of the Vale
-2 Tramway Station
 2 Bloodfell Caves
+2 Tramway Station
 2 Blood Fountain
 2 Fiery Temper
 2 Revolutionist
@@ -71,8 +71,8 @@
 2 Terminal Agony
 3 Voldaren Epicure
 3 Merchant of the Vale
-3 Tramway Station
 3 Bloodfell Caves
+3 Tramway Station
 3 Blood Fountain
 3 Terminal Agony
 3 Revolutionist
@@ -88,7 +88,7 @@
 4 Terminal Agony
 5 Swamp
 6 Mountain
-7 Mountain
-7 Swamp
-8 Mountain
 6 Swamp
+7 Swamp
+7 Mountain
+8 Mountain

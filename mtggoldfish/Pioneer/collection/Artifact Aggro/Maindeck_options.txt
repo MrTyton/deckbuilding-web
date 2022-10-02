@@ -31,8 +31,8 @@
 2 Steam Vents
 3 Steam Vents
 4 Steam Vents
-1 Mountain
 1 Voltage Surge
+1 Mountain
 2 Voltage Surge
 1 Otawara, Soaring City
 1 Riverglide Pathway
@@ -91,15 +91,16 @@
 4 The Restoration of Eiganjo
 1 Den of the Bugbear
 1 Skilled Animator
-2 Mountain
-2 Den of the Bugbear
 2 Skilled Animator
+2 Den of the Bugbear
 2 Island
+2 Mountain
 3 Skilled Animator
 4 Shrapnel Blast
 1 Moonsnare Prototype
 2 Moonsnare Prototype
 4 Voltage Surge
+1 Cave of the Frost Dragon
 1 Temple Garden
 1 Forest
 1 Lair of the Hydra
@@ -108,12 +109,12 @@
 1 Iron Apprentice
 1 Hardened Scales
 1 Animation Module
-1 Cave of the Frost Dragon
 1 Evolutionary Leap
 1 Boseiju, Who Endures
 1 The Ozolith
 1 Hangarback Walker
 2 Temple Garden
+2 Cave of the Frost Dragon
 2 Branchloft Pathway
 2 Iron Apprentice
 2 Animation Module
@@ -121,7 +122,6 @@
 2 Hardened Scales
 2 Evolutionary Leap
 2 Lair of the Hydra
-2 Cave of the Frost Dragon
 2 Hangarback Walker
 3 Temple Garden
 3 Branchloft Pathway
@@ -133,8 +133,6 @@
 4 Iron Apprentice
 4 Hangarback Walker
 4 Hardened Scales
-12 Plains
-13 Plains
 1 Shivan Reef
 1 Metallic Rebuke
 1 Steel Overseer
@@ -146,3 +144,5 @@
 3 Steel Overseer
 3 Enthusiastic Mechanaut
 4 Enthusiastic Mechanaut
+12 Plains
+13 Plains

@@ -33,20 +33,20 @@
 3 Rest in Peace
 1 Hallowed Fountain
 1 Hengegate Pathway
+1 Declaration in Stone
 1 Otawara, Soaring City
 1 Spire of Industry
-1 Declaration in Stone
+1 Portable Hole
 1 Darksteel Citadel
 1 Springleaf Drum
-1 Portable Hole
 1 Mutavault
 1 Mana Confluence
 1 Ensoul Artifact
 1 The Blackstaff of Waterdeep
 2 Hallowed Fountain
 2 Spire of Industry
-2 Darksteel Citadel
 2 Springleaf Drum
+2 Darksteel Citadel
 2 The Blackstaff of Waterdeep
 2 Mutavault
 2 Mana Confluence
@@ -55,19 +55,19 @@
 3 Spire of Industry
 3 Hallowed Fountain
 3 Stubborn Denial
-3 Darksteel Citadel
 3 Springleaf Drum
+3 Darksteel Citadel
 3 Mana Confluence
 3 Portable Hole
 3 Ensoul Artifact
 3 Mutavault
 4 Stubborn Denial
 4 Spire of Industry
+4 Portable Hole
 4 Hallowed Fountain
 4 Darksteel Citadel
 4 Ensoul Artifact
 4 Mana Confluence
-4 Portable Hole
 2 Damping Sphere
 1 Abrade
 2 Abrade
@@ -89,14 +89,21 @@
 2 Reckoner Bankbuster
 1 Devout Decree
 2 Devout Decree
-2 Metallic Rebuke
-3 Abrade
-3 Soul-Guide Lantern
 2 March of Otherworldly Light
 3 March of Otherworldly Light
+3 Soul-Guide Lantern
+2 Metallic Rebuke
+3 Abrade
 1 Pacifism
 2 Pacifism
 3 Pacifism
+4 Deafening Silence
+1 Redcap Melee
+2 Redcap Melee
+3 Grafdigger's Cage
+3 Damping Sphere
+4 Grafdigger's Cage
+4 Aether Gust
 1 Snakeskin Veil
 1 Dromoka's Command
 1 Apostle of Purifying Light
@@ -104,10 +111,3 @@
 2 Dromoka's Command
 2 Apostle of Purifying Light
 3 Dromoka's Command
-4 Deafening Silence
-4 Aether Gust
-1 Redcap Melee
-2 Redcap Melee
-3 Grafdigger's Cage
-3 Damping Sphere
-4 Grafdigger's Cage

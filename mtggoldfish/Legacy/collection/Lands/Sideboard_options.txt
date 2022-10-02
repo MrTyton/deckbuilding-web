@@ -7,10 +7,10 @@
 3 Endurance
 1 Torpor Orb
 3 Pyroblast
-1 Flusterstorm
 1 Hydroblast
-2 Flusterstorm
+1 Flusterstorm
 2 Hydroblast
+2 Flusterstorm
 1 Mindbreak Trap
 2 Mindbreak Trap
 1 Pithing Needle
@@ -38,12 +38,6 @@
 2 Minsc & Boo, Timeless Heroes
 1 Valakut Exploration
 2 Sylvan Library
-1 Tireless Tracker
-1 Prismatic Ending
-1 Thalia, Guardian of Thraben
-2 Tireless Tracker
-2 Prismatic Ending
-2 Thalia, Guardian of Thraben
 1 Grindstone
 1 Painter's Servant
 1 Veil of Summer
@@ -52,15 +46,21 @@
 1 Gerrard's Hourglass Pendant
 1 Spatial Contortion
 2 Spatial Contortion
+1 Tireless Tracker
+1 Prismatic Ending
+1 Thalia, Guardian of Thraben
+2 Tireless Tracker
+2 Thalia, Guardian of Thraben
+2 Prismatic Ending
 4 Endurance
 1 Helm of Obedience
 1 Crop Rotation
-1 Dismember
 1 Leyline of the Void
 1 Carpet of Flowers
-2 Dismember
+1 Dismember
 2 Helm of Obedience
 2 Leyline of the Void
+2 Dismember
 2 Carpet of Flowers
 3 Carpet of Flowers
 3 Leyline of the Void

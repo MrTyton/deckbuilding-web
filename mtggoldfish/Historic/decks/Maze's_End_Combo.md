@@ -36,8 +36,8 @@
 |--------------------:|--------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    1|[Thran Portal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574739)     |                     |              |
 |                    1|[Joint Exploration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574536)|                     |              |
-|                    1|[Tear Asunder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574663)     |                     |              |
+|                    2|[Thran Portal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574739)     |                     |              |
 |                    2|[Joint Exploration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574536)|                     |              |
 |                    2|[Tear Asunder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574663)     |                     |              |
-|                    2|[Thran Portal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574739)     |                     |              |
+|                    1|[Tear Asunder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574663)     |                     |              |
 

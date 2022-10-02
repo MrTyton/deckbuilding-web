@@ -74,7 +74,7 @@
 |                     |                                                                                                |                    4|[Destructive Revelry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373351)     |
 |                     |                                                                                                |                    4|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)          |
 |                     |                                                                                                |                    2|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)              |
-|                     |                                                                                                |                    3|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)              |
 |                     |                                                                                                |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)           |
+|                     |                                                                                                |                    3|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)              |
 |                     |                                                                                                |                    4|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)              |
 

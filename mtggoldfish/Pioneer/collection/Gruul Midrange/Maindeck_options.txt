@@ -1,13 +1,16 @@
-2 Glorybringer
-1 Strangle
-2 Strangle
-5 Forest
-2 Domri, Anarch of Bolas
-4 Reckless Stormseeker
-3 Rockfall Vale
+2 Den of the Bugbear
 3 Glorybringer
 4 Glorybringer
+5 Forest
+2 Chandra, Torch of Defiance
+1 Strangle
+2 Strangle
+2 Domri, Anarch of Bolas
+3 Rockfall Vale
+1 Mizzium Mortars
+4 Reckless Stormseeker
 2 Mana Confluence
+1 Questing Beast
 1 Rekindling Phoenix
 1 Tovolar, Dire Overlord
 1 Radha, Heart of Keld
@@ -18,40 +21,41 @@
 4 Mana Confluence
 4 Lava Coil
 4 Rekindling Phoenix
-2 Chandra, Torch of Defiance
+1 Lovestruck Beast
+2 Lovestruck Beast
+3 Lovestruck Beast
+4 Lovestruck Beast
 2 Halana and Alena, Partners
 1 Burning-Tree Emissary
 1 Combat Celebrant
 2 Burning-Tree Emissary
 2 Combat Celebrant
 3 Burning-Tree Emissary
-1 Mizzium Mortars
 3 Esika's Chariot
 4 Esika's Chariot
-1 Questing Beast
-1 Lovestruck Beast
-2 Lovestruck Beast
-3 Lovestruck Beast
-4 Lovestruck Beast
+1 Shatterskull Smashing
+2 Questing Beast
+3 Questing Beast
+1 Scavenging Ooze
 1 Fire Prophecy
 2 Fire Prophecy
 1 Sheltered Thicket
-1 Lukka, Coppercoat Outcast
-1 Careful Cultivation
-1 Courier's Briefcase
 1 Voltage Surge
+1 Lukka, Coppercoat Outcast
+1 Valakut Awakening
+1 Courier's Briefcase
+1 Careful Cultivation
 1 Transmogrify
 1 Titan of Industry
-1 Valakut Awakening
 1 Nissa, Voice of Zendikar
 2 Titan of Industry
-2 Sheltered Thicket
-2 Courier's Briefcase
 2 Voltage Surge
+2 Sheltered Thicket
+2 Valakut Awakening
+2 Courier's Briefcase
 2 Nissa, Voice of Zendikar
 2 Transmogrify
 2 Careful Cultivation
-2 Valakut Awakening
 3 Titan of Industry
 3 Careful Cultivation
 3 Courier's Briefcase
@@ -69,15 +73,17 @@
 3 Combat Celebrant
 1 Defiler of Instinct
 2 Defiler of Instinct
-1 Shatterskull Smashing
 2 Boseiju, Who Endures
+2 Mizzium Mortars
+2 Shatterskull Smashing
+3 Mizzium Mortars
 1 Klothys, God of Destiny
-2 Questing Beast
 2 Klothys, God of Destiny
-3 Questing Beast
+2 Scavenging Ooze
+3 Lair of the Hydra
+4 Lair of the Hydra
 1 Rhonas the Indomitable
 2 Rhonas the Indomitable
-1 Scavenging Ooze
 4 Elder Gargaroth
 6 Forest
 7 Forest
@@ -85,7 +91,6 @@
 2 Reckless Bushwhacker
 1 Squee, Dubious Monarch
 2 Squee, Dubious Monarch
-4 Mountain
 1 Rootbound Crag
 1 Nissa, Who Shakes the World
 1 Surrak, the Hunt Caller
@@ -101,34 +106,32 @@
 1 Collected Company
 1 Quirion Beastcaller
 1 Werewolf Pack Leader
-2 Werewolf Pack Leader
 2 Quirion Beastcaller
+2 Werewolf Pack Leader
 2 Kazandu Mammoth
 2 Collected Company
-3 Lair of the Hydra
 3 Collected Company
 3 Quirion Beastcaller
 3 Werewolf Pack Leader
 4 Werewolf Pack Leader
 4 Collected Company
 4 Quirion Beastcaller
-4 Lair of the Hydra
+3 Shatterskull Smashing
+4 Shatterskull Smashing
 3 Defiler of Instinct
 4 Combat Celebrant
+4 Mountain
 1 Gruul Spellbreaker
 2 Gruul Spellbreaker
-2 Mizzium Mortars
-2 Shatterskull Smashing
-3 Mizzium Mortars
 4 Mizzium Mortars
 1 Dragonlord Atarka
 1 Cultivate
 1 Arch of Orazca
 1 Courser of Kruphix
+1 Ugin, the Spirit Dragon
 1 Paradise Druid
 1 Oath of Nissa
 1 Castle Garenbrig
-1 Ugin, the Spirit Dragon
 1 Chandra, Awakened Inferno
 1 Arboreal Grazer
 1 Nissa's Pilgrimage
@@ -139,18 +142,18 @@
 2 Cultivate
 2 Oath of Nissa
 2 Castle Garenbrig
-2 Ugin, the Spirit Dragon
 2 Chandra, Flamecaller
-2 Arboreal Grazer
 2 Nissa's Pilgrimage
+2 Ugin, the Spirit Dragon
 2 Sylvan Caryatid
+2 Arboreal Grazer
 2 Dragonlord Atarka
 3 Sylvan Caryatid
 3 Courser of Kruphix
+3 Ugin, the Spirit Dragon
 3 Cultivate
 3 Oath of Nissa
 3 Castle Garenbrig
-3 Ugin, the Spirit Dragon
 3 Dragonlord Atarka
 3 Arboreal Grazer
 3 Chandra, Torch of Defiance
@@ -159,12 +162,11 @@
 4 Castle Garenbrig
 8 Forest
 1 Llanowar Visionary
-1 Skysovereign, Consul Flagship
 1 The Akroan War
 1 Mutavault
+1 Skysovereign, Consul Flagship
 2 Llanowar Visionary
 2 Skysovereign, Consul Flagship
-2 Scavenging Ooze
 2 Mutavault
 2 The Akroan War
 3 Llanowar Visionary

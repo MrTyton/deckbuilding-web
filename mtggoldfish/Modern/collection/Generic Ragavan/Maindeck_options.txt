@@ -177,8 +177,8 @@
 4 Goblin Rabblemaster
 7 Mountain
 8 Mountain
-1 Flooded Strand
 1 Misty Rainforest
+1 Flooded Strand
 1 Vapor Snag
 1 Stormwing Entity
 2 Stormwing Entity
@@ -192,18 +192,6 @@
 1 Lava Spike
 2 Lava Spike
 4 Bonecrusher Giant
-1 Shinka, the Bloodsoaked Keep
-1 Phoenix of Ash
-1 Blast Zone
-1 Spikefield Hazard
-2 Blast Zone
-2 Spikefield Hazard
-2 Phoenix of Ash
-3 Blast Zone
-3 Phoenix of Ash
-3 Spikefield Hazard
-3 Shatterskull Smashing
-4 Blast Zone
 1 Marsh Flats
 1 Castle Locthwain
 2 Marsh Flats
@@ -218,17 +206,18 @@
 4 Blackcleave Cliffs
 1 Kaito Shizuki
 4 Drown in the Loch
-1 Feign Death
-1 Undying Malice
-1 Grief
-1 Malakir Rebirth
-2 Feign Death
-2 Grief
-2 Undying Malice
-3 Grief
-3 Undying Malice
-4 Grief
-4 Undying Malice
+1 Shinka, the Bloodsoaked Keep
+1 Phoenix of Ash
+1 Blast Zone
+1 Spikefield Hazard
+2 Blast Zone
+2 Spikefield Hazard
+2 Phoenix of Ash
+3 Blast Zone
+3 Phoenix of Ash
+3 Spikefield Hazard
+3 Shatterskull Smashing
+4 Blast Zone
 1 Abundant Harvest
 1 Thrasta, Tempest's Roar
 1 Copperline Gorge
@@ -256,6 +245,17 @@
 4 Crashing Footfalls
 4 Dreadhorde Arcanist
 4 Electrodominance
+1 Feign Death
+1 Undying Malice
+1 Grief
+1 Malakir Rebirth
+2 Feign Death
+2 Grief
+2 Undying Malice
+3 Grief
+3 Undying Malice
+4 Undying Malice
+4 Grief
 1 Chandra, Dressed to Kill
 1 Plains
 1 Roiling Vortex
