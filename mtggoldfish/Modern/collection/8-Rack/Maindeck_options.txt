@@ -61,8 +61,8 @@
 2 Victim of Night
 1 Expedition Map
 1 Snow-Covered Swamp
-2 Cling to Dust
 2 Snow-Covered Swamp
+2 Cling to Dust
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
@@ -114,6 +114,8 @@
 1 Bontu's Last Reckoning
 1 Nurturing Peatland
 2 Nurturing Peatland
+1 Eliminate
+2 Eliminate
 1 Heartless Act
 1 Darkblast
 1 Feed the Swarm
@@ -123,19 +125,17 @@
 1 Liliana's Triumph
 2 Liliana's Triumph
 2 Go Blank
-1 Eliminate
-2 Eliminate
-3 Mishra's Bauble
-3 Marsh Flats
 1 Hive of the Eye Tyrant
 2 March of Wretched Sorrow
 3 March of Wretched Sorrow
+3 Marsh Flats
 1 Unmarked Grave
 2 Ensnaring Bridge
 3 Ensnaring Bridge
 1 Kolaghan's Command
 2 Kolaghan's Command
 3 Kolaghan's Command
+3 Mishra's Bauble
 1 Mutavault
 1 Delirium Skeins
 2 Mutavault
@@ -147,28 +147,28 @@
 2 Defile
 3 Verdant Catacombs
 1 Dragon's Rage Channeler
-1 Shizo, Death's Storehouse
-1 Shinka, the Bloodsoaked Keep
 1 Chandra, Torch of Defiance
+1 Shinka, the Bloodsoaked Keep
 1 Graven Cairns
 1 Ragavan, Nimble Pilferer
 1 Terminate
 1 Mountain
+1 Shizo, Death's Storehouse
 2 Terminate
 2 Dragon's Rage Channeler
 2 Chandra, Torch of Defiance
 2 Ragavan, Nimble Pilferer
 2 Mountain
+3 Blood Crypt
 3 Dragon's Rage Channeler
 3 Blackcleave Cliffs
 3 Chandra, Torch of Defiance
-3 Blood Crypt
 3 Ragavan, Nimble Pilferer
 4 Blackcleave Cliffs
 4 Ragavan, Nimble Pilferer
 1 Concealed Courtyard
-2 Polluted Delta
 2 Concealed Courtyard
+2 Polluted Delta
 3 Silent Clearing
 3 Concealed Courtyard
 4 Silent Clearing
@@ -176,9 +176,9 @@
 3 Sudden Edict
 4 Sudden Edict
 1 Raffine's Tower
+1 Plains
 1 Island
 1 Piracy Charm
-1 Plains
 1 Watery Grave
 1 Graveyard Trespasser
 1 Drown in the Loch

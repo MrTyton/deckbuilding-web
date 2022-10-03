@@ -1,9 +1,9 @@
-2 Gamble
 1 Jeska's Will
-1 Chancellor of the Annex
 2 Jeska's Will
 2 Chancellor of the Annex
 3 Gamble
+3 Shatterskull Smashing
+4 Shatterskull Smashing
 3 Chancellor of the Annex
 1 Summoner's Pact
 2 Summoner's Pact
@@ -12,19 +12,19 @@
 2 Pact of Negation
 3 Pact of Negation
 4 Summoner's Pact
+1 Wild Cantor
 1 Dark Ritual
 1 Cabal Ritual
-1 Wild Cantor
 2 Dark Ritual
 2 Cabal Ritual
 3 Dark Ritual
 4 Dark Ritual
+1 Agadeem's Awakening
 1 Cabal Therapy
 1 Thassa's Oracle
 1 Balustrade Spy
 1 Narcomoeba
 1 Bridge from Below
-1 Agadeem's Awakening
 1 Undercity Informer
 1 Dread Return
 2 Cabal Therapy
@@ -44,23 +44,23 @@
 1 Turntimber Symbiosis
 3 Cabal Ritual
 3 Jeska's Will
+1 Pyretic Ritual
+2 Pyretic Ritual
 2 Turntimber Symbiosis
 3 Turntimber Symbiosis
 4 Chancellor of the Annex
-1 Pyretic Ritual
-2 Pyretic Ritual
 4 Turntimber Symbiosis
-4 Cabal Ritual
-1 Thoughtseize
-2 Thoughtseize
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
-1 Once Upon a Time
-2 Once Upon a Time
+4 Cabal Ritual
+1 Thoughtseize
+2 Thoughtseize
 3 Pyretic Ritual
 1 Irencrag Feat
 4 Manamorphose
+1 Once Upon a Time
+2 Once Upon a Time
 1 Leyline of Anticipation
 2 Leyline of Anticipation
 3 Leyline of Anticipation
@@ -68,6 +68,8 @@
 3 Cabal Therapy
 2 Irencrag Feat
 4 Pyretic Ritual
+1 Tendrils of Agony
+2 Tendrils of Agony
 1 Stomping Ground
 1 The Deck of Many Things
 2 Dread Return
@@ -75,15 +77,16 @@
 1 Galvanic Relay
 2 Galvanic Relay
 3 Galvanic Relay
-1 Pyroblast
 1 Street Wraith
-2 Taiga
-2 Pyroblast
+1 Pyroblast
 2 Street Wraith
+2 Pyroblast
+2 Taiga
 3 Street Wraith
 3 Pyroblast
 4 Street Wraith
 4 Cabal Therapy
+4 Empty the Warrens
 1 Serum Powder
 1 Grim Monolith
 2 Serum Powder
@@ -94,22 +97,20 @@
 4 Serum Powder
 4 Irencrag Feat
 4 Grim Monolith
+1 Dryad Arbor
 1 Infernal Tutor
 1 Ill-Gotten Gains
-1 Dryad Arbor
 1 Cruel Bargain
 1 Bayou
 1 Blex, Vexing Pest
 1 Skyshroud Cutter
 1 Culling the Weak
-1 Tendrils of Agony
 1 Infernal Contract
 1 Odious Trow
 2 Culling the Weak
 2 Infernal Contract
 2 Infernal Tutor
 2 Cruel Bargain
-2 Tendrils of Agony
 3 Culling the Weak
 3 Infernal Contract
 3 Cruel Bargain
@@ -120,28 +121,29 @@
 4 Culling the Weak
 4 Infernal Contract
 1 Banishing Light
-1 Mountain
 1 Mox Diamond
-1 Helm of Obedience
 1 Orim's Chant
+1 Blood Moon
 1 Zuran Orb
+1 Rest in Peace
 1 Pithing Needle
 1 Wrath of God
 1 Aura of Silence
 1 Ghostly Prison
-1 Blood Moon
 1 Humility
 1 Elspeth, Knight-Errant
-1 Rest in Peace
 1 Trinisphere
+1 Mountain
 1 Land Tax
 1 Scroll Rack
+1 Helm of Obedience
 1 Enlightened Tutor
 1 Plains
 1 Runed Halo
 1 Solitary Confinement
 1 Undiscovered Paradise
 1 Swords to Plowshares
+2 Orim's Chant
 2 Helm of Obedience
 2 Rest in Peace
 2 Undiscovered Paradise
@@ -152,17 +154,16 @@
 2 Scroll Rack
 2 Land Tax
 2 Wrath of God
-2 Orim's Chant
+3 Orim's Chant
 3 Rest in Peace
 3 Enlightened Tutor
-3 Orim's Chant
 3 Swords to Plowshares
 3 Plains
 3 Banishing Light
 3 Land Tax
 3 Scroll Rack
-4 Plains
 4 Orim's Chant
+4 Plains
 4 Enlightened Tutor
 4 Land Tax
 5 Plains

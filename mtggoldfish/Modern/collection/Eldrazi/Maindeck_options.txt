@@ -28,8 +28,8 @@
 2 Forest
 1 Windswept Heath
 2 Windswept Heath
-3 Noble Hierarch
 3 Windswept Heath
+3 Noble Hierarch
 4 Noble Hierarch
 1 Grove of the Burnwillows
 1 Karplusan Forest
@@ -39,13 +39,13 @@
 3 Grove of the Burnwillows
 4 Karplusan Forest
 1 Temple Garden
-1 Path to Exile
 1 Brushland
 1 Eldrazi Displacer
 1 Plains
-2 Path to Exile
+1 Path to Exile
 2 Eldrazi Displacer
 2 Brushland
+2 Path to Exile
 3 Eldrazi Displacer
 4 Eldrazi Displacer
 2 Seasoned Pyromancer
@@ -61,23 +61,23 @@
 4 Bloodbraid Elf
 1 Birds of Paradise
 4 Windswept Heath
-1 Breeding Pool
 1 Sea Gate Wreckage
-1 Prismatic Ending
 1 Island
+1 Breeding Pool
 1 Hallowed Fountain
 1 Yavimaya Coast
+1 Prismatic Ending
 1 Engineered Explosives
 1 Eternal Witness
 1 Stubborn Denial
 1 Drowner of Hope
-2 Prismatic Ending
 2 Drowner of Hope
+2 Prismatic Ending
 2 Engineered Explosives
 2 Yavimaya Coast
 2 Stubborn Denial
-3 Yavimaya Coast
 3 Drowner of Hope
+3 Yavimaya Coast
 1 Batterskull
 1 Field of Ruin
 1 Sword of Fire and Ice
@@ -87,8 +87,8 @@
 2 Boreal Druid
 2 Stoneforge Mystic
 2 Plains
-3 Path to Exile
 3 Brushland
+3 Path to Exile
 3 Stoneforge Mystic
 4 Path to Exile
 4 Brushland

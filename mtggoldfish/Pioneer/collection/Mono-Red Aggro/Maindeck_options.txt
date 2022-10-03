@@ -1,31 +1,31 @@
-12 Mountain
-13 Mountain
-1 Torbran, Thane of Red Fell
-1 Eidolon of the Great Revel
-2 Eidolon of the Great Revel
-3 Eidolon of the Great Revel
-2 Torbran, Thane of Red Fell
-4 Eidolon of the Great Revel
-14 Mountain
-1 Kari Zev, Skyship Raider
-1 Embercleave
-2 Kari Zev, Skyship Raider
-2 Embercleave
-3 Embercleave
-1 Fanatical Firebrand
-1 Anax, Hardened in the Forge
-1 Castle Embereth
-1 Burning-Tree Emissary
-2 Fanatical Firebrand
-2 Anax, Hardened in the Forge
-2 Castle Embereth
-2 Burning-Tree Emissary
-3 Anax, Hardened in the Forge
-3 Fanatical Firebrand
-3 Burning-Tree Emissary
-4 Burning-Tree Emissary
-4 Fanatical Firebrand
+1 Soul-Scar Mage
+2 Soul-Scar Mage
+3 Soul-Scar Mage
+4 Ramunap Ruins
+4 Soul-Scar Mage
+3 Monastery Swiftspear
+4 Monastery Swiftspear
 3 Kari Zev, Skyship Raider
+1 Spikefield Hazard
+2 Spikefield Hazard
+1 Light Up the Stage
+2 Light Up the Stage
+3 Light Up the Stage
+4 Light Up the Stage
+1 Skewer the Critics
+1 Chandra, Dressed to Kill
+1 Wild Slash
+1 Phoenix Chick
+2 Skewer the Critics
+2 Chandra, Dressed to Kill
+2 Wild Slash
+2 Phoenix Chick
+3 Chandra, Dressed to Kill
+3 Skewer the Critics
+3 Phoenix Chick
+4 Chandra, Dressed to Kill
+4 Skewer the Critics
+4 Phoenix Chick
 1 Lightning Strike
 2 Lightning Strike
 3 Lightning Strike
@@ -37,17 +37,18 @@
 2 Rampaging Ferocidon
 4 Goblin Chainwhirler
 3 Rampaging Ferocidon
-15 Mountain
-4 Rampaging Ferocidon
 1 Hazoret the Fervent
+15 Mountain
+1 Reckless Bushwhacker
+2 Reckless Bushwhacker
+4 Rampaging Ferocidon
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
 1 Chandra, Torch of Defiance
+3 Reckless Bushwhacker
 1 Legion Loyalist
-1 Reckless Bushwhacker
-2 Reckless Bushwhacker
 2 Legion Loyalist
 3 Legion Loyalist
 4 Legion Loyalist
@@ -62,35 +63,34 @@
 3 Jaya, Fiery Negotiator
 4 Fable of the Mirror-Breaker
 1 Rundvelt Hordemaster
-1 Foundry Street Denizen
-1 Squee, Dubious Monarch
-1 Goblin Instigator
 1 Skirk Prospector
-1 Goblin Rabblemaster
-1 Strangle
-1 Legion Warboss
+1 Foundry Street Denizen
 1 Goblin Piledriver
+1 Squee, Dubious Monarch
+1 Goblin Rabblemaster
+1 Legion Warboss
+1 Goblin Instigator
+1 Strangle
 2 Rundvelt Hordemaster
-2 Foundry Street Denizen
+2 Skirk Prospector
 2 Strangle
+2 Foundry Street Denizen
 2 Squee, Dubious Monarch
 2 Goblin Rabblemaster
-2 Skirk Prospector
 2 Goblin Piledriver
 2 Goblin Instigator
 3 Rundvelt Hordemaster
-3 Skirk Prospector
 3 Foundry Street Denizen
+3 Skirk Prospector
+3 Goblin Rabblemaster
 3 Goblin Instigator
 3 Goblin Piledriver
-3 Reckless Bushwhacker
-3 Goblin Rabblemaster
 4 Rundvelt Hordemaster
-4 Skirk Prospector
 4 Foundry Street Denizen
+4 Skirk Prospector
+4 Goblin Rabblemaster
 4 Goblin Piledriver
 4 Reckless Bushwhacker
-4 Goblin Rabblemaster
 4 Goblin Instigator
 1 Wizard's Lightning
 1 Searing Blood

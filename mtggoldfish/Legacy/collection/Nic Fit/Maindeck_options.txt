@@ -1,8 +1,8 @@
 4 Chain of Smog
 1 Kalitas, Traitor of Ghet
+1 Tropical Island
 1 Misty Rainforest
 1 Uro, Titan of Nature's Wrath
-1 Tropical Island
 2 Misty Rainforest
 2 Uro, Titan of Nature's Wrath
 3 Deadly Brew
@@ -10,12 +10,12 @@
 1 Assassin's Trophy
 1 Scavenging Ooze
 1 Field of the Dead
+1 Ice-Fang Coatl
 1 Snow-Covered Island
 1 Underground Sea
-1 Ice-Fang Coatl
 1 Brainstorm
-2 Brainstorm
 2 Ice-Fang Coatl
+2 Brainstorm
 3 Misty Rainforest
 3 Ice-Fang Coatl
 1 Thoughtseize
@@ -49,12 +49,12 @@
 1 Painful Truths
 1 Reclamation Sage
 1 Memorial to Folly
-2 Valakut, the Molten Pinnacle
 2 Scavenging Ooze
+2 Valakut, the Molten Pinnacle
 2 Dryad of the Ilysian Grove
-2 Primeval Titan
 2 Painful Truths
 2 Field of the Dead
+2 Primeval Titan
 3 Dryad of the Ilysian Grove
 3 Primeval Titan
 3 Valakut, the Molten Pinnacle
@@ -63,12 +63,12 @@
 2 Snow-Covered Island
 2 Ponder
 3 Ponder
-1 Living Wish
 1 Acererak the Archlich
 1 Force of Will
 1 Aluren
-2 Living Wish
+1 Living Wish
 2 Force of Will
+2 Living Wish
 2 Aluren
 3 Living Wish
 3 Snow-Covered Island
@@ -80,10 +80,10 @@
 4 Ponder
 1 Diabolic Intent
 1 Mountain
-1 Badlands
 1 Greater Gargadon
 1 Titania, Protector of Argoth
 1 Mayhem Devil
+1 Badlands
 2 Greater Gargadon
 2 Mayhem Devil
 3 Greater Gargadon
@@ -135,9 +135,9 @@
 3 Snow-Covered Swamp
 1 Arena Rector
 1 Ugin, the Spirit Dragon
-2 Ugin, the Spirit Dragon
-2 Arena Rector
 2 Windswept Heath
+2 Arena Rector
+2 Ugin, the Spirit Dragon
 3 Arena Rector
 1 Snow-Covered Plains
 2 Village Rites
@@ -155,19 +155,19 @@
 3 Minsc & Boo, Timeless Heroes
 3 Fable of the Mirror-Breaker
 4 Fable of the Mirror-Breaker
-1 Jace, the Mind Sculptor
-1 Vivien Reid
 1 Sheoldred, the Apocalypse
-1 Sarulf, Realm Eater
 1 Tourach, Dread Cantor
+1 Sarulf, Realm Eater
+1 The Meathook Massacre
+1 Vivien Reid
+1 Jace, the Mind Sculptor
 1 Hexdrinker
 1 Volrath's Stronghold
+1 Prismatic Vista
 1 Ramunap Excavator
 1 The Gitrog Monster
-1 Prismatic Vista
 1 Collector Ouphe
 1 Sarkhan Vol
-1 The Meathook Massacre
 1 Plumb the Forbidden
 2 Henrika Domnathi
 1 Shriekmaw
@@ -175,9 +175,6 @@
 1 Scrubland
 1 Plains
 2 Phyrexian Tower
-1 Dauthi Voidwalker
-2 Dauthi Voidwalker
-3 Dauthi Voidwalker
 1 Ob Nixilis, the Adversary
 1 Sedgemoor Witch
 2 Ob Nixilis, the Adversary
@@ -187,15 +184,18 @@
 1 Cavern Harpy
 2 Cavern Harpy
 3 Polluted Delta
+1 Dauthi Voidwalker
+2 Dauthi Voidwalker
+3 Dauthi Voidwalker
+1 Korvold, Fae-Cursed King
+1 Elvish Reclaimer
+3 Fury
+4 Once Upon a Time
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 2 Ancient Tomb
 3 Karn, the Great Creator
 4 Karn, the Great Creator
-1 Korvold, Fae-Cursed King
-1 Elvish Reclaimer
-3 Fury
-4 Once Upon a Time
 1 Carnage Tyrant
 1 Xanathar, Guild Kingpin
 1 Koma, Cosmos Serpent
@@ -204,26 +204,26 @@
 2 Allosaurus Shepherd
 4 Ice-Fang Coatl
 1 Fatal Push
-1 Abundant Harvest
 1 Sylvan Safekeeper
+1 Abundant Harvest
 2 Fatal Push
-2 Underground Sea
 2 Abundant Harvest
+2 Underground Sea
+3 Abrupt Decay
 3 Abundant Harvest
 3 Thoughtseize
-3 Abrupt Decay
 4 Witherbloom Apprentice
-1 Fiend Artisan
-1 Duress
-1 Dead of Winter
+1 Vraska, Golgari Queen
 1 Bojuka Bog
+1 Dead of Winter
 1 Kaya, Orzhov Usurper
 1 Crop Rotation
-1 Vraska, Golgari Queen
+1 Duress
+1 Fiend Artisan
 1 Garruk, Cursed Huntsman
 1 Canopy Vista
-2 Snow-Covered Plains
 2 Duress
+2 Snow-Covered Plains
 2 Crop Rotation
 2 Dead of Winter
 4 Arena Rector

@@ -96,7 +96,7 @@
 |                    9|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                 |
 |                    9|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                     |                     |                                                                                                 |
 |                   10|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                 |
+|                   10|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                     |                     |                                                                                                 |
 |                   11|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                 |
 |                   12|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                 |
-|                   10|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                     |                     |                                                                                                 |
 

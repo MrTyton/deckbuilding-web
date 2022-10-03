@@ -1,5 +1,4 @@
 1 Snakeskin Veil
-1 Wooded Foothills
 1 Rancor
 3 Overgrown Tomb
 2 Snakeskin Veil
@@ -7,12 +6,11 @@
 2 Plague Stinger
 3 Plague Stinger
 4 Plague Stinger
-2 Wooded Foothills
 4 Blossoming Defense
-2 Nurturing Peatland
+1 Wooded Foothills
 2 Breeding Pool
-1 Urborg, Tomb of Yawgmoth
-1 Yavimaya, Cradle of Growth
+2 Nurturing Peatland
+2 Wooded Foothills
 1 Gemrazer
 1 Blooming Marsh
 2 Gemrazer
@@ -20,25 +18,28 @@
 3 Blooming Marsh
 3 Gemrazer
 3 Nurturing Peatland
-2 Become Immense
+3 Misty Rainforest
+1 Urborg, Tomb of Yawgmoth
+1 Yavimaya, Cradle of Growth
 1 Thoughtseize
 2 Thoughtseize
-3 Misty Rainforest
+1 Spell Pierce
 1 Distortion Strike
 1 Fatal Push
 3 Thoughtseize
-1 Spell Pierce
+2 Become Immense
 1 Groundswell
 2 Distortion Strike
 2 Rancor
 2 Fatal Push
 3 Fatal Push
-1 Waterlogged Grove
-2 Groundswell
-1 Snow-Covered Forest
 3 Breeding Pool
-1 Dryad Arbor
+2 Groundswell
+1 Waterlogged Grove
 2 Spell Pierce
+1 Snow-Covered Forest
+1 Dryad Arbor
+4 Misty Rainforest
 1 Spellskite
 2 Snow-Covered Forest
 1 Swamp
@@ -46,17 +47,20 @@
 3 Windswept Heath
 4 Windswept Heath
 2 Waterlogged Grove
-4 Misty Rainforest
 2 Boseiju, Who Endures
 3 Snakeskin Veil
 4 Blooming Marsh
 4 Snakeskin Veil
+1 Teferi, Time Raveler
+1 Temple Garden
+2 Teferi, Time Raveler
 1 Apostle's Blessing
 3 Groundswell
 4 Breeding Pool
 3 Wooded Foothills
 1 Dismember
 2 Pendelhaven
+3 Spell Pierce
 2 Spellskite
 1 Wild Defiance
 1 Assassin's Trophy
@@ -67,9 +71,6 @@
 1 Botanical Sanctum
 1 Ichorclaw Myr
 2 Botanical Sanctum
-1 Teferi, Time Raveler
-1 Temple Garden
-2 Teferi, Time Raveler
 4 Wooded Foothills
 1 Inquisition of Kozilek
 1 Blinkmoth Nexus
@@ -88,6 +89,7 @@
 2 City of Brass
 2 Dreamroot Cascade
 3 Yavimaya Coast
-3 Spell Pierce
-4 Yavimaya Coast
 3 Forest
+4 Yavimaya Coast
+2 Temple Garden
+3 Teferi, Time Raveler

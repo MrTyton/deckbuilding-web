@@ -28,8 +28,8 @@
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
-1 Soulherder
 1 Eternal Witness
+1 Soulherder
 2 Eternal Witness
 4 Ephemerate
 2 Castle Vantress
@@ -45,13 +45,13 @@
 1 Day's Undoing
 1 Narset, Parter of Veils
 1 Geier Reach Sanitarium
-2 Narset, Parter of Veils
 2 Day's Undoing
+2 Narset, Parter of Veils
 2 Subtlety
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
-1 Fire/Ice
 1 Steam Vents
+1 Fire/Ice
 2 Fire/Ice
 3 Fire/Ice
 1 Scalding Tarn
@@ -90,14 +90,14 @@
 4 March of Otherworldly Light
 3 Dress Down
 1 Skyclave Apparition
-2 Charming Prince
 2 Skyclave Apparition
-3 Charming Prince
+2 Charming Prince
 3 Skyclave Apparition
+3 Charming Prince
 4 Force of Negation
-1 Wall of Blossoms
 1 Glasspool Mimic
 1 Collected Company
+1 Wall of Blossoms
 2 Glasspool Mimic
 2 Collected Company
 3 Wall of Omens
@@ -106,8 +106,8 @@
 4 Collected Company
 1 Birds of Paradise
 1 Batterskull
-1 Kaldra Compleat
 1 Stoneforge Mystic
+1 Kaldra Compleat
 1 Spell Queller
 2 Stoneforge Mystic
 2 Spell Queller
@@ -142,8 +142,8 @@
 3 Leyline Binding
 4 Leyline Binding
 1 Vesperlark
-1 Sword of Fire and Ice
 1 Lion Sash
+1 Sword of Fire and Ice
 3 Spell Queller
 4 Stoneforge Mystic
 1 Opt
@@ -154,8 +154,8 @@
 1 Omen of the Sea
 1 Qasali Ambusher
 2 Restoration Angel
-2 Omen of the Sea
 2 Vendilion Clique
+2 Omen of the Sea
 2 Qasali Ambusher
 3 Restoration Angel
 3 Scalding Tarn
@@ -165,12 +165,6 @@
 3 Prismatic Vista
 4 Windswept Heath
 4 Prismatic Vista
-3 Memory Deluge
-3 Hall of Storm Giants
-3 Polluted Delta
-4 Chalice of the Void
-4 Polluted Delta
-6 Snow-Covered Island
 1 Emrakul, the Promised End
 2 Glacial Fortress
 2 Emrakul, the Promised End
@@ -181,6 +175,12 @@
 4 Fire/Ice
 4 Field of Ruin
 6 Island
+3 Polluted Delta
+3 Memory Deluge
+3 Hall of Storm Giants
+4 Polluted Delta
+4 Chalice of the Void
+6 Snow-Covered Island
 1 Consider
 1 Serra Paragon
 1 Thrun, the Last Troll
