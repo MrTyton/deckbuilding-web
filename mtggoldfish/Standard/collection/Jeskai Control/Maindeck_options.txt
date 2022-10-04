@@ -5,13 +5,13 @@
 2 Temporary Lockdown
 2 Make Disappear
 1 Wind-Scarred Crag
-1 Archangel of Wrath
 1 Lier, Disciple of the Drowned
+1 Archangel of Wrath
 1 Fading Hope
-2 Archangel of Wrath
-2 Lier, Disciple of the Drowned
-2 Fading Hope
 2 Wind-Scarred Crag
+2 Lier, Disciple of the Drowned
+2 Archangel of Wrath
+2 Fading Hope
 3 Wind-Scarred Crag
 4 Wind-Scarred Crag
 1 Silver Scrutiny
@@ -40,10 +40,10 @@
 1 March of Otherworldly Light
 1 Witness the Future
 3 Island
-1 Voltage Surge
 1 Fable of the Mirror-Breaker
-2 Fable of the Mirror-Breaker
+1 Voltage Surge
 2 Voltage Surge
+2 Fable of the Mirror-Breaker
 3 Fable of the Mirror-Breaker
 4 Fable of the Mirror-Breaker
 1 Essence Scatter
@@ -55,6 +55,8 @@
 1 Cemetery Protector
 2 Ertai's Scorn
 2 Disruption Protocol
+1 Rona's Vortex
+4 Impulse
 1 Depopulate
 2 Depopulate
 2 March of Otherworldly Light
@@ -64,8 +66,6 @@
 3 Depopulate
 4 Plains
 4 Island
-1 Rona's Vortex
-4 Impulse
 1 Fires of Victory
 1 Disdainful Stroke
 2 Fires of Victory
@@ -79,16 +79,16 @@
 1 Sphinx of Clear Skies
 1 Valorous Stance
 1 Hinata, Dawn-Crowned
-2 Lightning Strike
-2 Hurloon Battle Hymn
 2 Syncopate
+2 Hurloon Battle Hymn
 2 Hinata, Dawn-Crowned
 2 Sphinx of Clear Skies
-3 Mountain
+2 Lightning Strike
+3 Essence Scatter
 3 Hurloon Battle Hymn
 3 Hinata, Dawn-Crowned
-3 Essence Scatter
 3 Sphinx of Clear Skies
+3 Mountain
 4 Hurloon Battle Hymn
 4 Hinata, Dawn-Crowned
 4 Sphinx of Clear Skies
