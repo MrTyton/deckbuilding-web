@@ -41,8 +41,8 @@
 2 Snow-Covered Mountain
 1 Forest
 2 Fury
-3 Ancient Tomb
 3 Fury
+3 Ancient Tomb
 1 Conspicuous Snoop
 1 Boggart Harbinger
 2 Conspicuous Snoop
@@ -71,6 +71,7 @@
 2 Goblin Chieftain
 3 Goblin Chieftain
 1 Goblin Engineer
+1 Sundering Titan
 1 Ensnaring Bridge
 1 Fissure Wizard
 1 Thopter Foundry
@@ -83,7 +84,6 @@
 1 Plateau
 1 Volcanic Island
 1 Sword of the Meek
-1 Sundering Titan
 2 Goblin Engineer
 2 Ensnaring Bridge
 2 Thopter Foundry
@@ -106,9 +106,9 @@
 4 Goblin Welder
 4 Esper Sentinel
 4 Thopter Foundry
-1 Snow-Covered Forest
 1 Blood Crypt
 1 Red Elemental Blast
+1 Snow-Covered Forest
 1 Stomping Ground
 2 Red Elemental Blast
 1 Fiery Islet
@@ -130,9 +130,9 @@
 4 Fury
 4 Goblin Anarchomancer
 5 Snow-Covered Mountain
-1 Dead/Gone
 1 Goblin Rabblemaster
 1 Tarfire
+1 Dead/Gone
 1 Chrome Mox
 1 Chalice of the Void
 2 Dead/Gone

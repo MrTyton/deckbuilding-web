@@ -52,8 +52,8 @@
 2 Tasigur, the Golden Fang
 4 Liliana of the Veil
 1 Mutavault
-1 Skysovereign, Consul Flagship
 1 Epic Downfall
+1 Skysovereign, Consul Flagship
 1 Ulcerate
 2 Skysovereign, Consul Flagship
 2 Mutavault
@@ -69,11 +69,11 @@
 1 Ranger Class
 2 Ranger Class
 1 Assassin's Trophy
-2 Kalitas, Traitor of Ghet
 2 Assassin's Trophy
+2 Kalitas, Traitor of Ghet
 1 Gifted Aetherborn
-2 Gifted Aetherborn
 2 Invoke Despair
+2 Gifted Aetherborn
 2 Vraska, Golgari Queen
 1 Heartless Act
 3 Forest
@@ -124,11 +124,6 @@
 2 Reckoner Bankbuster
 3 Reckoner Bankbuster
 4 Forest
-3 Hive of the Eye Tyrant
-3 Gifted Aetherborn
-3 Sorin the Mirthless
-4 Murderous Rider
-4 Gifted Aetherborn
 1 Liliana, the Last Hope
 1 Ob Nixilis Reignited
 1 Oath of Nissa
@@ -137,13 +132,18 @@
 3 Elder Gargaroth
 4 Elder Gargaroth
 4 Oath of Nissa
-1 Gurmag Angler
+3 Sorin the Mirthless
+3 Gifted Aetherborn
+3 Hive of the Eye Tyrant
+4 Murderous Rider
+4 Gifted Aetherborn
 1 Extinction Event
 1 Chevill, Bane of Monsters
 1 Polukranos, Unchained
 1 Merfolk Branchwalker
-2 Field of Ruin
+1 Gurmag Angler
 2 Heartless Act
 2 Merfolk Branchwalker
+2 Field of Ruin
 3 Merfolk Branchwalker
 4 Merfolk Branchwalker

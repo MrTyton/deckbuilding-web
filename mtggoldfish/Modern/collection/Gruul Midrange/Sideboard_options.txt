@@ -24,16 +24,16 @@
 2 Cindervines
 2 Void Mirror
 3 Veil of Summer
-1 Domri, Anarch of Bolas
-1 Crumble to Dust
-2 Scavenging Ooze
-2 Domri, Anarch of Bolas
-2 Choke
-2 Crumble to Dust
 1 Soul-Guide Lantern
 1 Embercleave
 2 Tormod's Crypt
 2 Embercleave
+1 Domri, Anarch of Bolas
+1 Crumble to Dust
+2 Scavenging Ooze
+2 Domri, Anarch of Bolas
+2 Crumble to Dust
+2 Choke
 1 Torpor Orb
 1 Boseiju, Who Endures
 2 Boseiju, Who Endures
@@ -48,9 +48,9 @@
 2 Pillage
 3 Pillage
 1 Sundering Titan
+1 Skysovereign, Consul Flagship
 1 Sorcerous Spyglass
 1 Carnage Tyrant
-1 Skysovereign, Consul Flagship
 1 Sword of Light and Shadow
 1 Batterskull
 1 Sword of Fire and Ice
@@ -74,14 +74,9 @@
 2 Unholy Heat
 2 Alpine Moon
 2 Trinisphere
-1 Elder Gargaroth
-1 Kitchen Finks
-1 Vandalblast
-1 Blood Moon
-2 Kitchen Finks
-2 Elder Gargaroth
-2 Blood Moon
-3 Blood Moon
+1 Stormbreath Dragon
+1 Plummet
+2 Stormbreath Dragon
 1 Dead/Gone
 1 Thrun, the Last Troll
 2 Dead/Gone
@@ -98,6 +93,11 @@
 3 Engineered Explosives
 3 Void Mirror
 4 Void Mirror
-1 Stormbreath Dragon
-1 Plummet
-2 Stormbreath Dragon
+1 Kitchen Finks
+1 Elder Gargaroth
+1 Vandalblast
+1 Blood Moon
+2 Kitchen Finks
+2 Elder Gargaroth
+2 Blood Moon
+3 Blood Moon
