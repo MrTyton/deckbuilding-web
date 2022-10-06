@@ -1,5 +1,5 @@
-1 Temple Garden
 3 Wooded Foothills
+1 Temple Garden
 1 Raugrin Triome
 4 Scalding Tarn
 1 Ardent Plea
@@ -25,11 +25,11 @@
 3 Flooded Strand
 3 Teferi, Time Raveler
 3 Ardent Plea
-3 Windswept Heath
 4 Solitude
 4 Leyline Binding
-4 Flooded Strand
 4 Ardent Plea
+3 Windswept Heath
+4 Flooded Strand
 4 Windswept Heath
 1 Gemstone Caverns
 2 Gemstone Caverns
@@ -51,6 +51,7 @@
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 4 Leyline of Sanctity
+4 Wooded Foothills
 1 Archon of Cruelty
 2 Archon of Cruelty
 3 Archon of Cruelty
@@ -63,7 +64,6 @@
 2 Emrakul, the Aeons Torn
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
-4 Wooded Foothills
 3 Fable of the Mirror-Breaker
 4 Fable of the Mirror-Breaker
 1 Gemstone Mine
@@ -106,5 +106,5 @@
 2 Steam Vents
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
-4 Seasoned Pyromancer
 4 Goblin Dark-Dwellers
+4 Seasoned Pyromancer
