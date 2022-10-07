@@ -1,7 +1,7 @@
-1 Defense Grid
-2 Defense Grid
 1 Relic of Progenitus
 1 Opposition Agent
+1 Defense Grid
+2 Defense Grid
 1 Brazen Borrower
 2 Opposition Agent
 1 Tormod's Crypt
@@ -10,7 +10,6 @@
 1 Sheoldred, the Apocalypse
 2 Sheoldred, the Apocalypse
 1 Echoing Truth
-3 Defense Grid
 1 Prismatic Ending
 1 Swords to Plowshares
 2 Swords to Plowshares
@@ -21,20 +20,21 @@
 1 Monastery Mentor
 2 Monastery Mentor
 1 Plains
+3 Defense Grid
 1 Mystic Sanctuary
 1 Emrakul, the Aeons Torn
 1 Shelldock Isle
-3 Leyline of the Void
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-4 Defense Grid
 3 Pact of Negation
 1 Surgical Extraction
 1 Hydroblast
 1 Tombstalker
 1 Dakkon, Shadow Slayer
 2 Tombstalker
+3 Leyline of the Void
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+4 Defense Grid
 2 Hydroblast
 3 Duress
 1 Red Elemental Blast
@@ -53,13 +53,13 @@
 1 Inquisition of Kozilek
 1 Island
 1 Lion's Eye Diamond
-1 Snow-Covered Plains
-1 Blue Elemental Blast
-2 Surgical Extraction
 1 Plague Engineer
 1 Empty the Warrens
 2 Red Elemental Blast
 2 Plague Engineer
+1 Snow-Covered Plains
+1 Blue Elemental Blast
+2 Surgical Extraction
 2 Serenity
 3 Sheoldred, the Apocalypse
 1 Liliana, the Last Hope

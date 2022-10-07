@@ -6,8 +6,8 @@
 2 Time Sieve
 1 Mishra's Bauble
 1 Emry, Lurker of the Loch
-1 Island
 1 Polluted Delta
+1 Island
 2 Mishra's Bauble
 2 Emry, Lurker of the Loch
 3 Mishra's Bauble
@@ -50,10 +50,10 @@
 2 Blood Crypt
 1 Fatal Push
 2 Fatal Push
-1 Blackcleave Cliffs
 1 Ragavan, Nimble Pilferer
-2 Blackcleave Cliffs
+1 Blackcleave Cliffs
 2 Ragavan, Nimble Pilferer
+2 Blackcleave Cliffs
 3 Ragavan, Nimble Pilferer
 1 Greasefang, Okiba Boss
 1 Parhelion II
@@ -154,7 +154,6 @@
 4 Flooded Strand
 1 Sunbaked Canyon
 1 Jetmir's Garden
-1 Luxior, Giada's Gift
 1 Walking Ballista
 1 Vizier of Remedies
 1 Wrenn and Six
@@ -165,14 +164,15 @@
 1 Kaldra Compleat
 1 Eladamri's Call
 1 Stoneforge Mystic
+1 Luxior, Giada's Gift
 1 Stomping Ground
 1 Giver of Runes
-2 Eladamri's Call
 2 Temple Garden
 2 Wooded Foothills
 2 Devoted Druid
 2 Giver of Runes
 2 Wrenn and Six
+2 Eladamri's Call
 2 Rocco, Cabaretti Caterer
 2 Stoneforge Mystic
 3 Eladamri's Call
@@ -190,8 +190,8 @@
 1 Sokenzan, Crucible of Defiance
 1 Kroxa, Titan of Death's Hunger
 1 Inquisition of Kozilek
-1 Shizo, Death's Storehouse
 1 Plaza of Heroes
+1 Shizo, Death's Storehouse
 1 Braids, Arisen Nightmare
 1 The Raven Man
 1 Grief
@@ -206,8 +206,8 @@
 3 Grief
 3 Mox Amber
 3 Inquisition of Kozilek
-4 Plaza of Heroes
 4 Swamp
+4 Plaza of Heroes
 4 Grief
 4 Inquisition of Kozilek
 1 Shrapnel Blast

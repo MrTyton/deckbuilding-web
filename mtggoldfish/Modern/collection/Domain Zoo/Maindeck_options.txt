@@ -1,64 +1,62 @@
 4 Arid Mesa
 1 Fury
 2 Fury
+1 Teferi, Time Raveler
+1 Zagoth Triome
 1 Shardless Agent
 2 Shardless Agent
 3 Shardless Agent
-1 Teferi, Time Raveler
-4 Shardless Agent
-1 Zagoth Triome
 2 Teferi, Time Raveler
+4 Shardless Agent
+1 Wrenn and Six
+1 Scalding Tarn
 1 Bloodbraid Elf
 2 Bloodbraid Elf
 3 Bloodbraid Elf
 4 Bloodbraid Elf
 1 General Ferrous Rokiric
-1 Scalding Tarn
-1 Wrenn and Six
+2 Misty Rainforest
+1 Savai Triome
+3 Flooded Strand
+2 Wrenn and Six
+1 Dromoka's Command
 1 Lightning Helix
 2 Lightning Helix
 3 Lightning Helix
 2 General Ferrous Rokiric
 1 Bloodstained Mire
-2 Misty Rainforest
-1 Savai Triome
-2 Wrenn and Six
-2 Bloodstained Mire
-4 Lightning Helix
 3 Misty Rainforest
-3 Flooded Strand
-1 Dromoka's Command
-3 Teferi, Time Raveler
 1 Overgrown Tomb
+2 Bloodstained Mire
+3 Teferi, Time Raveler
 2 Scalding Tarn
 3 Scalding Tarn
+4 Lightning Helix
 4 Misty Rainforest
-1 Mantis Rider
-2 Mantis Rider
 1 Boseiju, Who Endures
 1 Mountain
-3 Mantis Rider
-1 Hidetsugu Consumes All
-2 Hidetsugu Consumes All
+1 Mantis Rider
+2 Mantis Rider
+1 Remand
+2 Remand
 3 Fury
 4 Fury
 1 Endurance
 2 Endurance
-3 Bloodstained Mire
 1 Island
 1 Tarmogoyf
 1 Spell Pierce
 1 Verdant Catacombs
 1 Geist of Saint Traft
 2 Geist of Saint Traft
-1 Boros Charm
-2 Boros Charm
-4 Scalding Tarn
+3 Mantis Rider
 4 Flooded Strand
-1 Remand
-2 Remand
 1 Brazen Borrower
 2 Brazen Borrower
+4 Scalding Tarn
+1 Hidetsugu Consumes All
+2 Hidetsugu Consumes All
+3 Bloodstained Mire
 1 Solitude
 2 Tarmogoyf
 1 Ignoble Hierarch
@@ -66,7 +64,8 @@
 2 Sacred Foundry
 3 General Ferrous Rokiric
 4 Mantis Rider
-2 Stomping Ground
+1 Boros Charm
+2 Boros Charm
 2 Steam Vents
 1 Subtlety
 1 Fire/Ice
@@ -98,6 +97,7 @@
 1 Unearth
 1 Lightning Skelemental
 2 Unearth
+2 Stomping Ground
 2 Lightning Skelemental
 3 Unearth
 3 Lightning Skelemental
@@ -116,13 +116,24 @@
 2 Vanishing Verse
 1 Snow-Covered Forest
 2 Zagoth Triome
-3 Stomping Ground
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
 4 Expressive Iteration
-1 Drown in the Loch
+1 Eiganjo, Seat of the Empire
+1 Ranger-Captain of Eos
+1 Tranquil Thicket
+2 Ranger-Captain of Eos
+3 Ranger-Captain of Eos
+4 Endurance
+4 Ranger-Captain of Eos
+1 Prismatic Ending
+2 Prismatic Ending
+3 Prismatic Ending
+3 Omnath, Locus of Creation
+4 Omnath, Locus of Creation
 1 Mishra's Bauble
+1 Drown in the Loch
 1 Thoughtseize
 1 Inquisition of Kozilek
 1 Traverse the Ulvenwald
@@ -138,26 +149,9 @@
 3 Thoughtseize
 3 Drown in the Loch
 3 Dragon's Rage Channeler
-4 Dragon's Rage Channeler
 4 Mishra's Bauble
 4 Thoughtseize
-1 Eiganjo, Seat of the Empire
-1 Ranger-Captain of Eos
-1 Tranquil Thicket
-2 Ranger-Captain of Eos
-3 Ranger-Captain of Eos
-4 Endurance
-4 Ranger-Captain of Eos
-1 Prismatic Ending
-2 Prismatic Ending
-3 Prismatic Ending
-3 Omnath, Locus of Creation
-4 Omnath, Locus of Creation
-1 Shore Up
-3 Subtlety
-3 Fire/Ice
-4 Fire/Ice
-4 Subtlety
+4 Dragon's Rage Channeler
 1 Might of Alara
 1 Brushfire Elemental
 1 Gaea's Might
@@ -168,3 +162,8 @@
 3 Brushfire Elemental
 3 Gaea's Might
 4 Brushfire Elemental
+1 Shore Up
+3 Subtlety
+3 Fire/Ice
+4 Fire/Ice
+4 Subtlety

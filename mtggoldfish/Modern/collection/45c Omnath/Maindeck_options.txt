@@ -1,10 +1,11 @@
-2 Eladamri's Call
-1 Snow-Covered Mountain
-4 Ice-Fang Coatl
-1 Dress Down
-1 Lightning Bolt
-4 Wooded Foothills
+1 Ephemerate
 1 Eternal Witness
+3 Leyline Binding
+1 Lightning Bolt
+1 Traverse the Ulvenwald
+2 Traverse the Ulvenwald
+1 Dress Down
+2 Dress Down
 2 Ephemerate
 1 Mishra's Bauble
 2 Mishra's Bauble
@@ -12,27 +13,25 @@
 3 Traverse the Ulvenwald
 4 Mishra's Bauble
 4 Unholy Heat
-2 Dress Down
-2 Fury
 3 Eladamri's Call
+2 Fury
 1 Scalding Tarn
+2 Lightning Bolt
 2 Supreme Verdict
 4 Leyline Binding
-2 Lightning Bolt
+4 Traverse the Ulvenwald
+2 Scalding Tarn
+1 Oath of Nissa
+1 Arid Mesa
+1 Titania, Protector of Argoth
 1 Risen Reef
 2 Risen Reef
 3 Risen Reef
 4 Risen Reef
-1 Oath of Nissa
-2 Scalding Tarn
 3 Lightning Bolt
-1 Titania, Protector of Argoth
-1 Cavern of Souls
-2 Cavern of Souls
-3 Cavern of Souls
+1 Forest
 1 Scapeshift
 1 Valakut, the Molten Pinnacle
-1 Forest
 1 Valki, God of Lies
 1 Bring to Light
 1 Plains
@@ -41,22 +40,24 @@
 3 Valakut, the Molten Pinnacle
 3 Bring to Light
 4 Bring to Light
-1 Jetmir's Garden
+1 Sokenzan, Crucible of Defiance
+1 Cavern of Souls
+2 Cavern of Souls
+2 Endurance
+3 Cavern of Souls
+1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+3 Ragavan, Nimble Pilferer
+1 Xander's Lounge
 1 Dryad of the Ilysian Grove
 1 Island
 2 Dryad of the Ilysian Grove
 3 Dryad of the Ilysian Grove
 4 Dryad of the Ilysian Grove
 1 Savai Triome
+2 Snow-Covered Island
+1 March of Otherworldly Light
 2 Oath of Nissa
-1 Arid Mesa
-1 Soul of Windgrace
-4 Traverse the Ulvenwald
-3 Ephemerate
-2 Endurance
-1 Sokenzan, Crucible of Defiance
-1 Xander's Lounge
-4 Eladamri's Call
 1 Felidar Guardian
 1 Kiki-Jiki, Mirror Breaker
 1 Renegade Rallier
@@ -66,87 +67,17 @@
 1 Vivien on the Hunt
 2 Felidar Guardian
 2 Karmic Guide
-2 Utopia Sprawl
 2 Vivien on the Hunt
+2 Utopia Sprawl
 3 Vivien on the Hunt
 3 Utopia Sprawl
 4 Vivien on the Hunt
 4 Utopia Sprawl
-2 Snow-Covered Island
-1 March of Otherworldly Light
 2 Arid Mesa
-1 Verdant Catacombs
-2 Verdant Catacombs
-1 Wish
-1 Cinder Glade
-1 Time Warp
-2 Wish
-2 Soul of Windgrace
-3 Soul of Windgrace
-3 Wish
-4 Wish
-1 Growth Spiral
-2 Growth Spiral
-3 Growth Spiral
-4 Growth Spiral
+1 Soul of Windgrace
+1 Jetmir's Garden
 1 Mountain
 2 Eternal Witness
-1 Watery Grave
-1 Fire/Ice
-2 Xander's Lounge
-2 Jetmir's Garden
-2 Fire/Ice
-3 Fire/Ice
-3 Verdant Catacombs
-3 Xander's Lounge
-3 Jetmir's Garden
-4 Soul of Windgrace
-4 Fire/Ice
-4 Verdant Catacombs
-1 Ziatora's Proving Ground
-3 Endurance
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
-4 Ragavan, Nimble Pilferer
-2 Stomping Ground
-3 Supreme Verdict
-1 Memory Deluge
-2 March of Otherworldly Light
-1 Spreading Seas
-2 Spreading Seas
-2 Steam Vents
-3 Scalding Tarn
-2 Raugrin Triome
-1 Arboreal Grazer
-2 Ketria Triome
-2 Arboreal Grazer
-3 Arboreal Grazer
-4 Valakut, the Molten Pinnacle
-1 Zagoth Triome
-1 Fable of the Mirror-Breaker
-1 Raffine's Tower
-3 Fury
-3 March of Otherworldly Light
-3 Dress Down
-1 Overgrown Tomb
-1 Delay
-2 Delay
-3 Delay
-3 Raugrin Triome
-4 Raugrin Triome
-4 Lightning Bolt
-1 Blood Crypt
-1 Explore
-2 Sacred Foundry
-2 Explore
-3 Arid Mesa
-3 Explore
-3 Steam Vents
-3 Sacred Foundry
-3 Stomping Ground
-4 Arid Mesa
-4 Explore
 1 Hallowed Moonlight
 1 Arbor Elf
 2 Hallowed Moonlight
@@ -159,7 +90,70 @@
 4 Oath of Nissa
 4 Renegade Rallier
 4 Arbor Elf
+1 Ziatora's Proving Ground
+3 Endurance
+3 Ephemerate
+4 Ragavan, Nimble Pilferer
+4 Eladamri's Call
+1 Memory Deluge
+2 March of Otherworldly Light
+1 Spreading Seas
+2 Spreading Seas
+2 Stomping Ground
 1 Force of Negation
+1 Wish
+1 Time Warp
+1 Cinder Glade
+2 Wish
+2 Soul of Windgrace
+3 Soul of Windgrace
+3 Wish
+4 Wish
+2 Steam Vents
+3 Scalding Tarn
+1 Growth Spiral
+2 Growth Spiral
+3 Growth Spiral
+4 Growth Spiral
+2 Raugrin Triome
+1 Arboreal Grazer
+2 Arboreal Grazer
+2 Ketria Triome
+3 Arboreal Grazer
+4 Valakut, the Molten Pinnacle
+1 Zagoth Triome
+1 Fable of the Mirror-Breaker
+1 Raffine's Tower
+3 Fury
+3 March of Otherworldly Light
+3 Dress Down
+1 Verdant Catacombs
+1 Watery Grave
+1 Fire/Ice
+2 Verdant Catacombs
+2 Xander's Lounge
+2 Fire/Ice
+2 Jetmir's Garden
+3 Fire/Ice
+3 Verdant Catacombs
+3 Xander's Lounge
+3 Jetmir's Garden
+4 Soul of Windgrace
+4 Fire/Ice
+4 Verdant Catacombs
+1 Indatha Triome
+1 Obsidian Charmaw
+1 Deputy of Detention
+2 Force of Negation
+3 Force of Negation
+4 Force of Negation
+1 Overgrown Tomb
+1 Delay
+2 Delay
+3 Delay
+3 Raugrin Triome
+4 Raugrin Triome
+4 Lightning Bolt
 1 Teferi, Hero of Dominaria
 1 Castle Vantress
 1 Archmage's Charm
@@ -167,7 +161,23 @@
 2 Archmage's Charm
 2 Hallowed Fountain
 3 Spreading Seas
+3 Supreme Verdict
 3 Archmage's Charm
 4 Scalding Tarn
 4 Spreading Seas
 4 Archmage's Charm
+1 Blood Crypt
+1 Explore
+2 Sacred Foundry
+2 Explore
+3 Arid Mesa
+3 Explore
+3 Steam Vents
+3 Sacred Foundry
+3 Stomping Ground
+4 Arid Mesa
+4 Explore
+1 Tempered in Solitude
+2 Tempered in Solitude
+3 Tempered in Solitude
+4 Tempered in Solitude
