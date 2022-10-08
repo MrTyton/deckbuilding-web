@@ -33,8 +33,8 @@
 3 Snow-Covered Forest
 1 Ponder
 1 Snow-Covered Mountain
-1 Primeval Titan
 1 Island
+1 Primeval Titan
 1 Once Upon a Time
 2 Once Upon a Time
 1 Witherbloom Command
@@ -44,31 +44,31 @@
 3 Once Upon a Time
 1 Overgrown Tomb
 3 Forest
-1 Valakut, the Molten Pinnacle
-1 Dryad of the Ilysian Grove
 1 Painful Truths
 1 Reclamation Sage
 1 Memorial to Folly
-2 Valakut, the Molten Pinnacle
+1 Dryad of the Ilysian Grove
+1 Valakut, the Molten Pinnacle
 2 Scavenging Ooze
-2 Dryad of the Ilysian Grove
 2 Painful Truths
 2 Field of the Dead
+2 Dryad of the Ilysian Grove
+2 Valakut, the Molten Pinnacle
 2 Primeval Titan
-3 Dryad of the Ilysian Grove
 3 Primeval Titan
 3 Valakut, the Molten Pinnacle
+3 Dryad of the Ilysian Grove
 1 Sylvan Library
 1 Eternal Witness
 2 Snow-Covered Island
 2 Ponder
 3 Ponder
+1 Living Wish
 1 Acererak the Archlich
 1 Force of Will
 1 Aluren
-1 Living Wish
-2 Force of Will
 2 Living Wish
+2 Force of Will
 2 Aluren
 3 Living Wish
 3 Snow-Covered Island
@@ -80,8 +80,8 @@
 4 Ponder
 1 Diabolic Intent
 1 Mountain
-1 Greater Gargadon
 1 Titania, Protector of Argoth
+1 Greater Gargadon
 1 Mayhem Devil
 1 Badlands
 2 Greater Gargadon
@@ -175,6 +175,9 @@
 1 Scrubland
 1 Plains
 2 Phyrexian Tower
+1 Dauthi Voidwalker
+2 Dauthi Voidwalker
+3 Dauthi Voidwalker
 1 Ob Nixilis, the Adversary
 1 Sedgemoor Witch
 2 Ob Nixilis, the Adversary
@@ -184,9 +187,6 @@
 1 Cavern Harpy
 2 Cavern Harpy
 3 Polluted Delta
-1 Dauthi Voidwalker
-2 Dauthi Voidwalker
-3 Dauthi Voidwalker
 1 Korvold, Fae-Cursed King
 1 Elvish Reclaimer
 3 Fury
@@ -204,13 +204,13 @@
 2 Allosaurus Shepherd
 4 Ice-Fang Coatl
 1 Fatal Push
-1 Abundant Harvest
 1 Sylvan Safekeeper
+1 Abundant Harvest
 2 Fatal Push
 2 Abundant Harvest
 2 Underground Sea
-3 Abundant Harvest
 3 Abrupt Decay
+3 Abundant Harvest
 3 Thoughtseize
 4 Witherbloom Apprentice
 1 Vraska, Golgari Queen

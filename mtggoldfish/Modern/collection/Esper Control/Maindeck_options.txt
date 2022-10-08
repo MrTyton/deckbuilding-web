@@ -11,8 +11,8 @@
 1 Drowned Catacomb
 1 Glacial Fortress
 2 Fatal Push
-1 Snow-Covered Island
 1 Snow-Covered Plains
+1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 1 Tainted Indulgence
@@ -81,8 +81,8 @@
 2 Scalding Tarn
 2 Jace, the Mind Sculptor
 1 Chalice of the Void
-2 Misty Rainforest
 2 Chalice of the Void
+2 Misty Rainforest
 1 Sunken Ruins
 1 Faithful Mending
 2 Faithful Mending
@@ -155,9 +155,6 @@
 3 Esper Charm
 2 Path to Exile
 3 Fire/Ice
-1 Murderous Cut
-3 Murktide Regent
-4 Murktide Regent
 1 Castle Ardenvale
 1 Omen of the Sea
 2 Omen of the Sea
@@ -165,13 +162,16 @@
 3 Teferi, Hero of Dominaria
 3 Celestial Colonnade
 4 March of Otherworldly Light
-1 Hive of the Eye Tyrant
+1 Murderous Cut
+3 Murktide Regent
+4 Murktide Regent
 1 Otherworldly Gaze
 1 Judge's Familiar
 1 Shakedown Heavy
 1 Toolcraft Exemplar
 1 Parhelion II
 1 Stitcher's Supplier
+1 Hive of the Eye Tyrant
 1 Smuggler's Copter
 1 Mobilizer Mech
 1 Heart of Kiran
@@ -197,16 +197,16 @@
 4 Otherworldly Gaze
 4 Smuggler's Copter
 4 Greasefang, Okiba Boss
+1 Restoration Angel
 1 Brazen Borrower
 1 Spectral Adversary
 1 Vendilion Clique
 1 Venser, Shaper Savant
 1 Spell Queller
 1 Waterlogged Grove
-1 Restoration Angel
+2 Restoration Angel
 2 Brazen Borrower
 2 Spell Queller
-2 Restoration Angel
 3 Brazen Borrower
 3 Spell Queller
 4 Spell Queller
@@ -223,9 +223,9 @@
 1 Step Through
 1 Thassa's Oracle
 2 Cavern of Souls
-2 Ephemerate
 2 Micromancer
 2 Step Through
+2 Ephemerate
 2 Drowned Catacomb
 3 Ephemerate
 3 Micromancer

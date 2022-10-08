@@ -19,30 +19,30 @@
 2 Raugrin Triome
 1 Seachrome Coast
 1 Fury
-1 Valakut Awakening
 1 Flagstones of Trokair
-1 Blood Sun
 1 Lotus Field
-2 Seachrome Coast
-2 Valakut Awakening
+1 Valakut Awakening
+1 Blood Sun
 2 Flagstones of Trokair
-2 Blood Sun
 2 Lotus Field
+2 Valakut Awakening
+2 Blood Sun
+2 Seachrome Coast
 2 Fury
-3 Fury
-3 Teferi, Hero of Dominaria
-3 Valakut Awakening
-3 Lotus Field
 3 Flagstones of Trokair
+3 Fury
 3 Blood Sun
-4 Memory Deluge
-4 Teferi, Hero of Dominaria
-4 Valakut Awakening
-4 Lotus Field
-4 Fury
+3 Lotus Field
+3 Valakut Awakening
+3 Teferi, Hero of Dominaria
 4 Flagstones of Trokair
-4 Cryptic Command
+4 Valakut Awakening
+4 Memory Deluge
 4 Blood Sun
+4 Lotus Field
+4 Teferi, Hero of Dominaria
+4 Fury
+4 Cryptic Command
 2 Celestial Colonnade
 1 Glacial Fortress
 2 Jace, the Mind Sculptor
@@ -94,8 +94,8 @@
 2 Hall of Storm Giants
 1 Subtlety
 2 Subtlety
-3 Celestial Colonnade
 3 Polluted Delta
+3 Celestial Colonnade
 1 Timeless Dragon
 4 Scalding Tarn
 1 Sulfur Falls
@@ -107,22 +107,22 @@
 2 Leyline Binding
 3 Leyline Binding
 1 Prairie Stream
+1 Luminarch Aspirant
 1 Sunbaked Canyon
 1 Esper Sentinel
 1 Bonecrusher Giant
 1 Mana Leak
 1 Fiery Islet
-1 Luminarch Aspirant
 1 Hushbringer
-2 Esper Sentinel
 2 Luminarch Aspirant
+2 Esper Sentinel
 2 Hushbringer
 2 Sunbaked Canyon
+3 Luminarch Aspirant
 3 Esper Sentinel
 3 Hushbringer
-3 Luminarch Aspirant
-4 Esper Sentinel
 4 Luminarch Aspirant
+4 Esper Sentinel
 4 Hushbringer
 2 Timeless Dragon
 1 Force of Negation
@@ -137,8 +137,8 @@
 3 Misty Rainforest
 4 Misty Rainforest
 1 Karn's Sylex
-1 Ephemerate
 1 Touch the Spirit Realm
+1 Ephemerate
 1 Tale's End
 1 Inspiring Vantage
 1 Sea Gate Restoration
@@ -151,8 +151,8 @@
 2 Anointed Peacekeeper
 3 Anointed Peacekeeper
 1 Unholy Heat
-1 Chandra, Torch of Defiance
 1 Ionize
+1 Chandra, Torch of Defiance
 2 Fiery Islet
 3 Sunbaked Canyon
 4 Expressive Iteration
@@ -161,21 +161,21 @@
 1 Roiling Vortex
 2 Surgical Extraction
 2 Roiling Vortex
-1 Deserted Beach
-1 Ajani Vengeant
-1 Narset, Parter of Veils
-1 Tamiyo, the Moon Sage
-2 Ajani Vengeant
-2 Deserted Beach
-3 Hallowed Fountain
-1 Consider
-1 Snow-Covered Island
 1 Snow-Covered Plains
+1 Snow-Covered Island
 1 Search for Azcanta
+1 Consider
 2 Consider
 2 Snow-Covered Island
 2 Search for Azcanta
 3 Consider
+1 Deserted Beach
+1 Ajani Vengeant
+1 Narset, Parter of Veils
+1 Tamiyo, the Moon Sage
+2 Deserted Beach
+2 Ajani Vengeant
+3 Hallowed Fountain
 1 Breeding Pool
 1 Spreading Seas
 1 Windswept Heath
@@ -186,12 +186,12 @@
 3 Windswept Heath
 1 Prismatic Vista
 3 Plains
+4 March of Otherworldly Light
 1 Zagoth Triome
 1 Hall of Heliod's Generosity
 1 Hallowed Moonlight
 2 Hallowed Moonlight
 4 Leyline Binding
-4 March of Otherworldly Light
 1 Piracy Charm
 2 Piracy Charm
 3 Path to Exile

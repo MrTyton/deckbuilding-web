@@ -20,12 +20,12 @@
 2 Mountain
 3 Swamp
 4 Swamp
-1 Raffine's Tower
 1 Ziatora's Proving Ground
-1 The Restoration of Eiganjo
+1 Raffine's Tower
 1 Invoke Justice
-2 The Restoration of Eiganjo
+1 The Restoration of Eiganjo
 2 Invoke Justice
+2 The Restoration of Eiganjo
 3 Invoke Justice
 1 Invoke Despair
 4 Tenacious Underdog
@@ -142,10 +142,6 @@
 1 Liesa, Forgotten Archangel
 3 Archangel of Wrath
 4 Archangel of Wrath
-2 Unlicensed Hearse
-3 Extraction Specialist
-4 Mountain
-4 Extraction Specialist
 1 Riveteers Requisitioner
 1 Evolved Sleeper
 2 Riveteers Requisitioner
@@ -162,9 +158,9 @@
 2 Raffine's Tower
 2 Shadow Prophecy
 2 Ziatora's Proving Ground
-3 Leyline Binding
 3 Shadow Prophecy
 3 Ziatora's Proving Ground
+3 Leyline Binding
 3 Raffine's Tower
 4 Raffine's Tower
 4 Shadow Prophecy
@@ -179,19 +175,23 @@
 1 Ratadrabik of Urborg
 1 Rivaz of the Claw
 1 Hostile Hostel
+2 Atsushi, the Blazing Sky
 2 Junji, the Midnight Sky
 2 Braids, Arisen Nightmare
 2 Plaza of Heroes
-2 Atsushi, the Blazing Sky
 2 Ratadrabik of Urborg
 2 Rivaz of the Claw
 3 Plaza of Heroes
 3 Fateful Absence
-3 Junji, the Midnight Sky
 3 Atsushi, the Blazing Sky
+3 Junji, the Midnight Sky
 3 Rivaz of the Claw
 3 Ratadrabik of Urborg
+4 Atsushi, the Blazing Sky
 4 Junji, the Midnight Sky
 4 Rivaz of the Claw
 4 Ratadrabik of Urborg
-4 Atsushi, the Blazing Sky
+2 Unlicensed Hearse
+3 Extraction Specialist
+4 Extraction Specialist
+4 Mountain
