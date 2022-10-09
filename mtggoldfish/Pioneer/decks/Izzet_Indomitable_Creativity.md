@@ -28,3 +28,17 @@
 |                                                                                                          |3 [Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663)   |                                                                                              |
 |                                                                                                          |1 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)     |                                                                                              |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Izzet Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338413)        |                    1|[Shark Typhoon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479587)      |
+|                    1|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)          |                    1|[Vampires' Vengeance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541038)|
+|                    1|[Magma Opus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513695)         |                    2|[Shark Typhoon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479587)      |
+|                    1|[Prismari Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513706)   |                     |                                                                                              |
+|                    1|[Torrential Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417640)|                     |                                                                                              |
+|                    1|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)      |                     |                                                                                              |
+|                    2|[Izzet Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338413)        |                     |                                                                                              |
+|                    1|[Unexpected Windfall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527451)|                     |                                                                                              |
+

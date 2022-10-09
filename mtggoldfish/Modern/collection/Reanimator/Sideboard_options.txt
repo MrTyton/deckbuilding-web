@@ -52,8 +52,8 @@
 1 Invoke Despair
 1 Damnation
 2 Inquisition of Kozilek
-2 Damnation
 2 Invoke Despair
+2 Damnation
 3 Invoke Despair
 4 Dauthi Voidwalker
 1 Fulminator Mage
@@ -67,25 +67,25 @@
 1 Fateful Absence
 1 Dovin's Veto
 1 Plains
-1 Force of Negation
-1 Spell Pierce
-1 Collective Brutality
-2 Engineered Explosives
-2 Collective Brutality
-2 Void Mirror
 1 Lavinia, Azorius Renegade
 2 Lavinia, Azorius Renegade
 1 Soul-Guide Lantern
 1 Pithing Needle
 1 Defense Grid
 2 Defense Grid
-1 Dress Down
 1 Damn
 1 Hallowed Moonlight
 1 Through the Breach
+1 Dress Down
 2 Dress Down
 2 Hallowed Moonlight
 2 Through the Breach
+1 Force of Negation
+1 Spell Pierce
+1 Collective Brutality
+2 Engineered Explosives
+2 Collective Brutality
+2 Void Mirror
 1 Leyline Binding
 2 Leyline Binding
 1 Tourach, Dread Cantor
@@ -100,6 +100,11 @@
 1 Emrakul, the Promised End
 1 Liliana of the Veil
 2 Liliana of the Veil
+1 Test of Talents
+1 Solitude
+2 Test of Talents
+3 Test of Talents
+4 Invoke Despair
 1 Path to Exile
 1 Callous Bloodmage
 1 Anguished Unmaking
@@ -108,8 +113,3 @@
 1 Vindicate
 2 Knight of Autumn
 2 Callous Bloodmage
-1 Test of Talents
-1 Solitude
-2 Test of Talents
-3 Test of Talents
-4 Invoke Despair

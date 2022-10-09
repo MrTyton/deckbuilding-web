@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)           |                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|
-|                    1|[Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136209)  |                    1|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)      |
+|                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)           |                    1|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)      |
+|                    1|[Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136209)  |                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|
 |                    1|[Volcanic Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=887)           |                    1|[Timeless Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522111)    |
 |                    1|[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442051)|                    1|[Dress Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522115)         |
 |                    1|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)        |                    2|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|

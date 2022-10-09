@@ -44,10 +44,10 @@
 3 Vraska, Golgari Queen
 1 Tarmogoyf
 2 Tarmogoyf
-3 Fatal Push
 3 Tarmogoyf
-4 Fatal Push
+3 Fatal Push
 4 Tarmogoyf
+4 Fatal Push
 1 Liliana, Dreadhorde General
 1 Shadowspear
 1 Heartless Act
@@ -64,15 +64,15 @@
 2 Eliminate
 2 Elder Gargaroth
 3 Castle Locthwain
-1 Boseiju, Who Endures
 1 Blooming Marsh
 1 Cling to Dust
 1 Shigeki, Jukai Visionary
 1 Witherbloom Command
+1 Darkbore Pathway
+1 Boseiju, Who Endures
 1 Go Blank
 1 Pulse of Murasa
 1 Invoke Despair
-1 Darkbore Pathway
 1 Inquisition of Kozilek
 1 Takenuma, Abandoned Mire
 1 Hive of the Eye Tyrant
@@ -81,16 +81,16 @@
 2 Blooming Marsh
 2 Witherbloom Command
 2 Shigeki, Jukai Visionary
-2 Hive of the Eye Tyrant
 2 Darkbore Pathway
+2 Hive of the Eye Tyrant
 2 Inquisition of Kozilek
 2 Invoke Despair
-3 Darkbore Pathway
-3 Blooming Marsh
 3 Inquisition of Kozilek
+3 Blooming Marsh
 3 Shigeki, Jukai Visionary
 3 Assassin's Trophy
 3 Invoke Despair
+3 Darkbore Pathway
 4 Blooming Marsh
 4 Inquisition of Kozilek
 4 Darkbore Pathway
@@ -167,10 +167,10 @@
 4 Tamiyo, Collector of Tales
 4 Jadelight Ranger
 1 Bloodchief's Thirst
+1 Jungle Hollow
 1 Tuinvale Treefolk
 1 Syr Konrad, the Grim
 1 Witherbloom Campus
-1 Jungle Hollow
 1 Flaxen Intruder
 2 Bloodchief's Thirst
 2 Jungle Hollow
@@ -178,15 +178,15 @@
 2 Syr Konrad, the Grim
 2 Flaxen Intruder
 2 Witherbloom Campus
-3 Jungle Hollow
 3 Bloodchief's Thirst
 3 Witherbloom Campus
 3 Smitten Swordmaster
 3 Flaxen Intruder
+3 Jungle Hollow
 4 Beanstalk Giant
-4 Jungle Hollow
 4 Bloodchief's Thirst
 4 Smitten Swordmaster
+4 Jungle Hollow
 4 Order of Midnight
 8 Swamp
 9 Swamp
