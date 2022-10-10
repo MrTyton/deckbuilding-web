@@ -45,9 +45,9 @@
 1 Slaughter Pact
 2 Slaughter Pact
 2 Gamble
-3 Nature's Claim
 2 Chandra, Awakened Inferno
 3 Chandra, Awakened Inferno
+3 Nature's Claim
 1 Leyline of Anticipation
 2 Leyline of Anticipation
 3 Leyline of Anticipation
@@ -55,19 +55,6 @@
 2 Pact of Negation
 3 Pact of Negation
 4 Pact of Negation
-1 Forest
-4 Carpet of Flowers
-1 Red Elemental Blast
-1 Regrowth
-1 Shattering Pulse
-1 Avoid Fate
-2 Red Elemental Blast
-2 Avoid Fate
-2 Shattering Pulse
-2 Regrowth
-3 Red Elemental Blast
-3 Regrowth
-4 Red Elemental Blast
 1 Ghostly Prison
 1 Deafening Silence
 1 Defense Grid
@@ -82,6 +69,19 @@
 2 Isochron Scepter
 3 Leyline of Sanctity
 4 Leyline of Sanctity
+1 Forest
+4 Carpet of Flowers
+1 Red Elemental Blast
+1 Regrowth
+1 Shattering Pulse
+1 Avoid Fate
+2 Red Elemental Blast
+2 Avoid Fate
+2 Shattering Pulse
+2 Regrowth
+3 Red Elemental Blast
+3 Regrowth
+4 Red Elemental Blast
 1 Leyline of the Void
 1 Ingot Chewer
 1 Ricochet Trap
