@@ -31,9 +31,9 @@
 1 Resolute Reinforcements
 2 Esper Sentinel
 2 Silent Clearing
-2 Emeria's Call
 2 Eiganjo, Seat of the Empire
 2 March of Otherworldly Light
+2 Emeria's Call
 2 Resolute Reinforcements
 2 Shefet Dunes
 3 Esper Sentinel
@@ -52,8 +52,8 @@
 3 Concealed Courtyard
 3 Bitterblossom
 3 Thoughtseize
-4 Marsh Flats
 4 Concealed Courtyard
+4 Marsh Flats
 1 Temple Garden
 1 Overgrown Tomb
 1 Verdant Command
@@ -75,10 +75,16 @@
 1 Vraska, Golgari Queen
 2 Overgrown Tomb
 2 Midnight Haunting
-1 Paladin Class
 1 Oath of Kaya
-2 Gideon, Ally of Zendikar
+1 Paladin Class
 2 Castle Locthwain
+2 Gideon, Ally of Zendikar
+1 Fateful Absence
+2 Fateful Absence
+2 Fetid Heath
+3 Fatal Push
+3 Sorin, Solemn Visitor
+4 Fatal Push
 1 Horizon Canopy
 1 Mana Tithe
 1 Honor of the Pure
@@ -86,12 +92,6 @@
 2 Honor of the Pure
 3 Shefet Dunes
 4 Emeria's Call
-1 Fateful Absence
-2 Fateful Absence
-2 Fetid Heath
-3 Fatal Push
-3 Sorin, Solemn Visitor
-4 Fatal Push
 1 Razorverge Thicket
 1 Jinnie Fay, Jetmir's Second
 1 Wooded Bastion
@@ -107,9 +107,10 @@
 4 Wooded Bastion
 4 Gather the Townsfolk
 1 Den of the Bugbear
-1 Dragon's Rage Channeler
-1 Sacred Foundry
 1 Savai Triome
+1 Sacred Foundry
+1 Terminate
+1 Dragon's Rage Channeler
 1 Prismatic Ending
 1 Blood Crypt
 1 Mountain
@@ -117,18 +118,17 @@
 1 Arid Mesa
 1 Inspiring Vantage
 1 Forbidden Friendship
-1 Terminate
 1 Young Pyromancer
 1 You See a Pair of Goblins
-2 Village Rites
-2 Terminate
+2 Den of the Bugbear
 2 Dragon's Rage Channeler
+2 Terminate
 2 Prismatic Ending
 2 You See a Pair of Goblins
 2 Sacred Foundry
 2 Young Pyromancer
 2 Blood Crypt
-2 Den of the Bugbear
+2 Village Rites
 2 Arid Mesa
 2 Bastion of Remembrance
 2 Forbidden Friendship
@@ -145,11 +145,11 @@
 3 Silent Clearing
 4 Silent Clearing
 8 Plains
-1 The Wandering Emperor
 1 Prismatic Vista
+1 The Wandering Emperor
 1 Brightclimb Pathway
-2 The Wandering Emperor
 2 Prismatic Vista
+2 The Wandering Emperor
 2 Brightclimb Pathway
 2 Deadly Dispute
 4 Thoughtseize

@@ -68,8 +68,8 @@
 2 Merfolk Branchwalker
 3 Merfolk Branchwalker
 4 Merfolk Branchwalker
-1 Soul Transfer
 1 Hero's Downfall
+1 Soul Transfer
 1 Vraska's Contempt
 1 Kalitas, Traitor of Ghet
 1 Liliana, Waker of the Dead
@@ -79,9 +79,9 @@
 1 Deathcap Glade
 2 Soul Transfer
 2 Hero's Downfall
+2 Deathcap Glade
 2 Kalitas, Traitor of Ghet
 2 Savvy Hunter
-2 Deathcap Glade
 3 Hero's Downfall
 3 Soul Transfer
 3 Deathcap Glade
@@ -92,16 +92,16 @@
 2 Ravenous Chupacabra
 3 Massacre Girl
 4 Knight of the Ebon Legion
-1 Cling to Dust
+1 Boseiju, Who Endures
 1 March of Wretched Sorrow
+1 Cling to Dust
 1 Invoke Despair
 1 Shigeki, Jukai Visionary
 1 Takenuma, Abandoned Mire
 1 Witherbloom Command
-1 Darkbore Pathway
-1 Boseiju, Who Endures
-1 Go Blank
 1 Pulse of Murasa
+1 Go Blank
+1 Darkbore Pathway
 1 Inquisition of Kozilek
 1 Hive of the Eye Tyrant
 1 Blooming Marsh
@@ -109,9 +109,9 @@
 2 Witherbloom Command
 2 Shigeki, Jukai Visionary
 2 Invoke Despair
-2 Darkbore Pathway
 2 Blooming Marsh
 2 Hive of the Eye Tyrant
+2 Darkbore Pathway
 2 Inquisition of Kozilek
 3 Blooming Marsh
 3 Shigeki, Jukai Visionary
@@ -122,18 +122,18 @@
 4 Blooming Marsh
 4 Darkbore Pathway
 4 Inquisition of Kozilek
+1 Temple Garden
 1 Hinterland Harbor
 1 Drowned Catacomb
-1 Sorin, Vengeful Bloodlord
+1 Tamiyo, Collector of Tales
 1 Paradise Druid
 1 Breeding Pool
 1 Island
-1 Tamiyo, Collector of Tales
 1 Isolated Chapel
 1 Wildgrowth Walker
 1 Teferi, Time Raveler
 1 Godless Shrine
-1 Temple Garden
+1 Sorin, Vengeful Bloodlord
 1 Command the Dreadhorde
 1 Interplanar Beacon
 1 Watery Grave
@@ -143,12 +143,12 @@
 2 Hinterland Harbor
 2 Teferi, Time Raveler
 2 Paradise Druid
-2 Breeding Pool
 2 Tamiyo, Collector of Tales
+2 Temple Garden
+2 Breeding Pool
 2 Interplanar Beacon
 2 Command the Dreadhorde
 2 Watery Grave
-2 Temple Garden
 2 Wildgrowth Walker
 2 The Wanderer
 2 Yarok, the Desecrated
