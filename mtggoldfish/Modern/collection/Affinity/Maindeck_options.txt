@@ -1,11 +1,16 @@
+1 Spire of Industry
+2 Razortide Bridge
+1 Gingerbrute
+2 Welding Jar
 3 Razortide Bridge
+4 Razortide Bridge
 1 Metallic Rebuke
 2 Metallic Rebuke
-4 Razortide Bridge
+3 Metallic Rebuke
 1 Portable Hole
 2 Portable Hole
 3 Portable Hole
-3 Metallic Rebuke
+1 Pithing Needle
 4 Portable Hole
 1 Esper Sentinel
 2 Esper Sentinel
@@ -24,33 +29,30 @@
 3 Ingenious Smith
 4 Ingenious Smith
 1 Plains
-1 Pithing Needle
-1 Spire of Industry
-2 Welding Jar
-2 Otawara, Soaring City
-1 Gingerbrute
-4 Seachrome Coast
-1 Flooded Strand
 2 Spire of Industry
-2 Flooded Strand
-3 Hallowed Fountain
-4 Urza, Lord High Artificer
 1 Silverbluff Bridge
+1 Flooded Strand
+2 Flooded Strand
+4 Seachrome Coast
+4 Urza, Lord High Artificer
 2 Island
+3 Hallowed Fountain
 1 Talisman of Progress
 2 Talisman of Progress
 3 Flooded Strand
 3 Nettlecyst
 4 Metallic Rebuke
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
+1 Myr Enforcer
 1 Dispatch
 4 Flooded Strand
 4 Nettlecyst
 2 Silverbluff Bridge
 3 Spire of Industry
+2 Relic of Progenitus
 4 Hallowed Fountain
 1 Expedition Map
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
 2 Dispatch
 1 Stoneforge Mystic
 2 Plains
@@ -60,14 +62,21 @@
 1 Ethersworn Sphinx
 2 Ethersworn Sphinx
 3 Ethersworn Sphinx
-1 Myr Enforcer
 1 Glimmervoid
 2 Glimmervoid
 3 Silverbluff Bridge
 1 Mishra's Bauble
+1 Snow-Covered Island
+1 Chalice of the Void
+1 Inkmoth Nexus
+1 Arcbound Ravager
+2 Chalice of the Void
+2 Inkmoth Nexus
+2 Arcbound Ravager
+3 Inkmoth Nexus
+4 Inkmoth Nexus
 3 Dispatch
 1 Prismatic Vista
-2 Relic of Progenitus
 2 Prismatic Vista
 3 Relic of Progenitus
 4 Relic of Progenitus
@@ -87,19 +96,11 @@
 3 Galvanic Blast
 4 Galvanic Blast
 4 Spire of Industry
-3 Welding Jar
-4 Welding Jar
-1 Snow-Covered Island
-1 Chalice of the Void
-1 Inkmoth Nexus
-1 Arcbound Ravager
-2 Chalice of the Void
-2 Inkmoth Nexus
-2 Arcbound Ravager
+1 Grafdigger's Cage
+1 Emry, Lurker of the Loch
+2 Emry, Lurker of the Loch
 3 Arcbound Ravager
-3 Inkmoth Nexus
-4 Inkmoth Nexus
-3 Treasure Vault
+1 Lightning Greaves
 1 Trinket Mage
 1 Misty Rainforest
 2 Trinket Mage
@@ -115,14 +116,18 @@
 1 The Underworld Cookbook
 1 Mystic Gate
 2 Adarkar Wastes
-1 Grafdigger's Cage
-1 Emry, Lurker of the Loch
-2 Emry, Lurker of the Loch
+2 Myr Enforcer
 3 Chalice of the Void
-4 Treasure Vault
+1 Wear/Tear
+1 Sorcerous Spyglass
+1 Paradise Mantle
+2 Paradise Mantle
+3 Paradise Mantle
 1 Signal Pest
 2 Signal Pest
 3 Signal Pest
+3 Welding Jar
+4 Welding Jar
 4 Arcbound Ravager
 4 Signal Pest
 4 Glimmervoid
@@ -147,12 +152,12 @@
 1 Oswald Fiddlebender
 1 Ichor Wellspring
 1 Windswept Heath
-1 Lightning Greaves
 1 Chromatic Star
 1 Eiganjo Castle
 2 Lightning Greaves
 2 Oswald Fiddlebender
 3 Plains
+3 Treasure Vault
 3 Oswald Fiddlebender
 4 Plains
 4 Oswald Fiddlebender

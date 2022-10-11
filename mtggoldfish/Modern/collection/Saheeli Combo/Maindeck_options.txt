@@ -28,8 +28,8 @@
 1 Forest
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
-1 Prismatic Vista
 1 Blood Moon
+1 Prismatic Vista
 2 Prismatic Vista
 2 Blood Moon
 3 Blood Moon
@@ -52,8 +52,8 @@
 1 Fire/Ice
 1 Counterspell
 2 Counterspell
-1 Vivien on the Hunt
 1 Karmic Guide
+1 Vivien on the Hunt
 2 Vivien on the Hunt
 1 Lightning Bolt
 2 Lightning Bolt
@@ -65,8 +65,8 @@
 2 Utopia Sprawl
 3 Utopia Sprawl
 1 Planebound Accomplice
-2 Karmic Guide
 2 Planebound Accomplice
+2 Karmic Guide
 3 Vivien on the Hunt
 4 Vivien on the Hunt
 1 March of Otherworldly Light
@@ -142,9 +142,9 @@
 4 Counterspell
 1 Auriok Champion
 1 Soulherder
+2 Skyclave Apparition
 2 Auriok Champion
 2 Soulherder
-2 Skyclave Apparition
 3 Hallowed Fountain
 3 Wall of Omens
 3 Soulherder
@@ -153,10 +153,10 @@
 2 Castle Vantress
 3 Island
 1 Vendilion Clique
+3 Endurance
 1 Unholy Heat
 2 Unholy Heat
 3 Unholy Heat
-3 Endurance
 1 Wandering Mind
 3 Wall of Blossoms
 1 Boseiju, Who Shelters All
@@ -167,15 +167,15 @@
 1 Dovin's Veto
 1 Magus of the Moon
 1 Avalanche Riders
-1 Geist of Saint Traft
 1 Outland Liberator
+1 Geist of Saint Traft
 1 Venser, Shaper Savant
 1 Birds of Paradise
 1 Cloudshift
 1 Mulldrifter
 1 Magus of the Moat
-2 Temple Garden
 2 Geist of Saint Traft
+2 Temple Garden
 2 Dovin's Veto
 2 Cloudshift
 2 Birds of Paradise
@@ -185,13 +185,13 @@
 4 Snow-Covered Plains
 4 Birds of Paradise
 1 Faithful Mending
+1 Field of Ruin
 1 The Wandering Emperor
 1 Force of Negation
-1 Field of Ruin
 2 Faithful Mending
+2 Field of Ruin
 2 Force of Negation
 2 Supreme Verdict
-2 Field of Ruin
 3 Narset, Parter of Veils
 4 Chalice of the Void
 1 Valakut Awakening
@@ -200,22 +200,22 @@
 1 Fiery Islet
 2 Subtlety
 2 Touch the Spirit Realm
+3 Fire/Ice
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
 3 Prismatic Vista
 3 Spreading Seas
-3 Fire/Ice
-4 Blood Moon
 1 Vesperlark
-2 Charming Prince
 2 Raugrin Triome
+2 Charming Prince
 2 Vesperlark
+3 Skyclave Apparition
 3 Charming Prince
 3 Plains
-3 Skyclave Apparition
-4 Charming Prince
 4 Wall of Omens
+4 Charming Prince
+4 Blood Moon
 1 Polluted Delta
 1 Kitchen Finks
 1 Watcher for Tomorrow
@@ -230,19 +230,6 @@
 3 Kitchen Finks
 4 Glasspool Mimic
 4 Watcher for Tomorrow
-1 Noble Hierarch
-1 Horizon Canopy
-1 Eldritch Evolution
-1 Lotus Cobra
-2 Noble Hierarch
-2 Horizon Canopy
-2 Lotus Cobra
-2 Eldritch Evolution
-3 Noble Hierarch
-3 Eldritch Evolution
-3 Lotus Cobra
-4 Noble Hierarch
-4 Lotus Cobra
 1 Cascade Bluffs
 1 Settle the Wreckage
 1 Lightning Helix
@@ -252,9 +239,22 @@
 1 Teferi, Hero of Dominaria
 1 Mystic Gate
 2 Celestial Colonnade
-2 Jace, the Mind Sculptor
 2 Lightning Helix
 2 Teferi, Hero of Dominaria
 2 Memory Deluge
+2 Jace, the Mind Sculptor
 3 Lightning Helix
 4 Lightning Bolt
+1 Horizon Canopy
+1 Eldritch Evolution
+1 Lotus Cobra
+1 Noble Hierarch
+2 Horizon Canopy
+2 Noble Hierarch
+2 Lotus Cobra
+2 Eldritch Evolution
+3 Eldritch Evolution
+3 Lotus Cobra
+3 Noble Hierarch
+4 Lotus Cobra
+4 Noble Hierarch

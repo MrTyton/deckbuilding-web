@@ -1,22 +1,16 @@
-1 Snakeskin Veil
-4 Blossoming Defense
 2 Snakeskin Veil
+4 Blossoming Defense
 3 Overgrown Tomb
 1 Plague Stinger
 2 Plague Stinger
-3 Misty Rainforest
-2 Breeding Pool
 3 Plague Stinger
 4 Plague Stinger
-1 Wooded Foothills
+2 Windswept Heath
+3 Misty Rainforest
+2 Breeding Pool
+2 Nurturing Peatland
 1 Rancor
 1 Urborg, Tomb of Yawgmoth
-2 Nurturing Peatland
-2 Become Immense
-1 Yavimaya, Cradle of Growth
-2 Wooded Foothills
-1 Spell Pierce
-1 Distortion Strike
 1 Gemrazer
 1 Blooming Marsh
 2 Gemrazer
@@ -24,17 +18,23 @@
 3 Blooming Marsh
 3 Gemrazer
 3 Nurturing Peatland
-2 Distortion Strike
+2 Become Immense
+1 Yavimaya, Cradle of Growth
+1 Wooded Foothills
+1 Spell Pierce
+1 Distortion Strike
 1 Fatal Push
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
-1 Groundswell
-2 Spell Pierce
+2 Wooded Foothills
+2 Distortion Strike
 2 Fatal Push
 3 Fatal Push
+2 Spell Pierce
 3 Breeding Pool
 1 Waterlogged Grove
+1 Groundswell
 2 Groundswell
 4 Misty Rainforest
 1 Snow-Covered Forest
@@ -44,10 +44,10 @@
 2 Snow-Covered Forest
 1 Swamp
 1 Zagoth Triome
-3 Windswept Heath
-4 Windswept Heath
 3 Spell Pierce
 2 Boseiju, Who Endures
+3 Windswept Heath
+4 Windswept Heath
 1 Teferi, Time Raveler
 1 Temple Garden
 2 Teferi, Time Raveler
@@ -55,10 +55,9 @@
 1 Apostle's Blessing
 3 Groundswell
 4 Breeding Pool
-3 Wooded Foothills
-1 Piracy Charm
 3 Snakeskin Veil
 4 Snakeskin Veil
+1 Piracy Charm
 1 Cavern of Souls
 1 Wedding Invitation
 2 Wedding Invitation
@@ -76,7 +75,8 @@
 2 Botanical Sanctum
 2 Temple Garden
 3 Teferi, Time Raveler
-4 Spell Pierce
+3 Wooded Foothills
+4 Blooming Marsh
 1 Yavimaya Coast
 1 Reflecting Pool
 1 City of Brass
@@ -88,8 +88,7 @@
 3 Forest
 3 Yavimaya Coast
 4 Yavimaya Coast
-4 Blooming Marsh
+4 Spell Pierce
 1 Plague Myr
 2 Plague Myr
 4 Wedding Invitation
-4 Wooded Foothills

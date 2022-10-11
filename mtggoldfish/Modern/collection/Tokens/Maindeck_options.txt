@@ -1,6 +1,6 @@
-1 Hidden Stockpile
-1 Castle Ardenvale
 3 Force of Virtue
+1 Vault of the Archangel
+1 Hidden Stockpile
 1 Fetid Heath
 1 Tocatli Honor Guard
 3 Swamp
@@ -8,13 +8,6 @@
 3 Spectral Procession
 4 Spectral Procession
 1 Thoughtseize
-1 Jadar, Ghoulcaller of Nephalia
-2 Vindicate
-1 Hive of the Eye Tyrant
-4 Flooded Strand
-1 Midnight Haunting
-1 Fatal Push
-2 Fatal Push
 4 Plains
 5 Plains
 6 Plains
@@ -22,29 +15,43 @@
 1 Gather the Townsfolk
 2 Venerated Loxodon
 2 Gather the Townsfolk
-1 Esper Sentinel
 1 Aven Mindcensor
-1 Eiganjo, Seat of the Empire
 1 March of Otherworldly Light
 1 Shefet Dunes
 1 Emeria's Call
 1 Resolute Reinforcements
-2 Esper Sentinel
-2 Silent Clearing
-2 Eiganjo, Seat of the Empire
 2 March of Otherworldly Light
 2 Emeria's Call
 2 Resolute Reinforcements
 2 Shefet Dunes
-3 Esper Sentinel
 3 March of Otherworldly Light
 3 Emeria's Call
 3 Resolute Reinforcements
-4 Esper Sentinel
-4 March of Otherworldly Light
 4 Resolute Reinforcements
+4 March of Otherworldly Light
 4 Force of Virtue
 7 Plains
+1 Jadar, Ghoulcaller of Nephalia
+2 Vindicate
+1 Hive of the Eye Tyrant
+4 Flooded Strand
+1 Midnight Haunting
+1 Fatal Push
+2 Fatal Push
+1 Esper Sentinel
+1 Eiganjo, Seat of the Empire
+2 Silent Clearing
+2 Esper Sentinel
+2 Eiganjo, Seat of the Empire
+3 Esper Sentinel
+4 Esper Sentinel
+1 Mana Tithe
+1 Honor of the Pure
+2 Mana Tithe
+2 Honor of the Pure
+3 Shefet Dunes
+4 Emeria's Call
+8 Plains
 1 Deadly Dispute
 2 Thoughtseize
 2 Bitterblossom
@@ -68,30 +75,29 @@
 3 Windswept Heath
 4 Windswept Heath
 4 Path to Exile
-1 Village Rites
 1 Sunbaked Canyon
+1 Village Rites
 1 Serra the Benevolent
 1 Strixhaven Stadium
 1 Vraska, Golgari Queen
 2 Overgrown Tomb
-2 Midnight Haunting
 1 Oath of Kaya
 1 Paladin Class
 2 Castle Locthwain
 2 Gideon, Ally of Zendikar
+2 Midnight Haunting
+1 Horizon Canopy
 1 Fateful Absence
 2 Fateful Absence
 2 Fetid Heath
 3 Fatal Push
 3 Sorin, Solemn Visitor
 4 Fatal Push
-1 Horizon Canopy
-1 Mana Tithe
-1 Honor of the Pure
-2 Mana Tithe
-2 Honor of the Pure
-3 Shefet Dunes
-4 Emeria's Call
+1 Giant Killer
+2 Castle Ardenvale
+2 Giant Killer
+3 Silent Clearing
+4 Silent Clearing
 1 Razorverge Thicket
 1 Jinnie Fay, Jetmir's Second
 1 Wooded Bastion
@@ -139,12 +145,6 @@
 4 Dragon's Rage Channeler
 4 You See a Pair of Goblins
 4 Bastion of Remembrance
-1 Giant Killer
-2 Castle Ardenvale
-2 Giant Killer
-3 Silent Clearing
-4 Silent Clearing
-8 Plains
 1 Prismatic Vista
 1 The Wandering Emperor
 1 Brightclimb Pathway
@@ -154,3 +154,12 @@
 2 Deadly Dispute
 4 Thoughtseize
 4 Bitterblossom
+1 Kabira Takedown
+1 Thraben Inspector
+2 Kabira Takedown
+2 Thraben Inspector
+3 Thraben Inspector
+4 Shefet Dunes
+4 Thraben Inspector
+9 Plains
+10 Plains

@@ -1,9 +1,9 @@
+4 Magus of the Moon
+1 Flame Slash
+2 Flame Slash
 3 Flame Slash
 4 Flame Slash
 8 Mountain
-2 Magus of the Moon
-3 Magus of the Moon
-4 Magus of the Moon
 1 Gemstone Caverns
 9 Mountain
 10 Mountain
@@ -25,8 +25,8 @@
 2 Gemstone Caverns
 1 Unlicensed Hearse
 2 Unlicensed Hearse
-1 Pyrite Spellbomb
 1 Urza's Saga
+1 Pyrite Spellbomb
 2 Pyrite Spellbomb
 2 Urza's Saga
 3 Pyrite Spellbomb
@@ -37,9 +37,9 @@
 1 Dead/Gone
 2 Field of Ruin
 2 Dead/Gone
-3 Dead/Gone
 3 Chandra, Torch of Defiance
 3 Unlicensed Hearse
+3 Dead/Gone
 4 Unlicensed Hearse
 4 Dead/Gone
 1 Karn, the Great Creator
@@ -88,24 +88,24 @@
 4 Valakut Awakening
 4 Radiant Fountain
 4 Forgotten Cave
-1 Ghost Quarter
-2 Ghost Quarter
-4 Chandra, Torch of Defiance
 1 Chandra, Fire Artisan
+1 Goblin Rabblemaster
 1 Light Up the Night
 1 Ensnaring Bridge
 1 Koth of the Hammer
-1 Goblin Rabblemaster
 2 Chandra, Fire Artisan
-2 Light Up the Night
-2 Goblin Rabblemaster
 2 Ensnaring Bridge
+2 Goblin Rabblemaster
+2 Light Up the Night
 3 Light Up the Night
 3 Gemstone Caverns
 3 Goblin Rabblemaster
 3 Ensnaring Bridge
 3 Chandra, Fire Artisan
 4 Gemstone Caverns
+1 Ghost Quarter
+2 Ghost Quarter
+4 Chandra, Torch of Defiance
 1 Fulminator Mage
 2 Fulminator Mage
 3 Fulminator Mage
@@ -121,12 +121,8 @@
 3 Karn's Sylex
 4 Karn's Sylex
 1 Snow-Covered Mountain
-1 Meteor Swarm
-1 Chandra, Heart of Fire
 2 Snow-Covered Mountain
-2 Chandra, Heart of Fire
 3 Snow-Covered Mountain
-3 Chandra, Heart of Fire
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain

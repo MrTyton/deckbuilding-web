@@ -20,8 +20,8 @@
 2 Silent Clearing
 1 Magus of the Moon
 2 Sacred Foundry
-3 Arid Mesa
 3 Imperial Recruiter
+3 Arid Mesa
 4 Arid Mesa
 3 Charming Prince
 2 March of Otherworldly Light
@@ -60,27 +60,27 @@
 2 Temple Garden
 1 Brushland
 1 Branchloft Pathway
-1 Oath of Nissa
 1 Razorverge Thicket
+1 Oath of Nissa
 1 Noble Hierarch
-2 Boseiju, Who Endures
 2 Brushland
 2 Branchloft Pathway
-2 Oath of Nissa
 2 Razorverge Thicket
 2 Noble Hierarch
+2 Oath of Nissa
+2 Boseiju, Who Endures
+3 Boseiju, Who Endures
 3 Brushland
+3 Razorverge Thicket
 3 Oath of Nissa
 3 Branchloft Pathway
-3 Razorverge Thicket
-3 Boseiju, Who Endures
 3 Noble Hierarch
 4 Brushland
-4 Branchloft Pathway
 4 Razorverge Thicket
 4 Boseiju, Who Endures
 4 Oath of Nissa
 4 Noble Hierarch
+4 Branchloft Pathway
 3 Marsh Flats
 4 Eiganjo, Seat of the Empire
 2 Spellskite
@@ -114,8 +114,8 @@
 3 Mishra's Factory
 2 Cave of the Frost Dragon
 3 Sunbaked Canyon
-4 Sunbaked Canyon
 4 Charming Prince
+4 Sunbaked Canyon
 15 Plains
 1 Restoration Angel
 2 Restoration Angel
@@ -124,8 +124,8 @@
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
 3 Fable of the Mirror-Breaker
-1 Sokenzan, Crucible of Defiance
 1 Ragavan, Nimble Pilferer
+1 Sokenzan, Crucible of Defiance
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
@@ -148,83 +148,83 @@
 1 Welcoming Vampire
 2 Welcoming Vampire
 3 Welcoming Vampire
-3 Blast Zone
-4 Blast Zone
-1 Wooded Foothills
-1 Den of the Bugbear
-1 Fury
-2 Fury
-3 Fury
-4 Sacred Foundry
-4 Fury
-4 Fable of the Mirror-Breaker
-1 Kiki-Jiki, Mirror Breaker
 1 Savai Triome
+1 Kiki-Jiki, Mirror Breaker
 1 Sanctifier en-Vec
 1 Rugged Prairie
 2 Rugged Prairie
 3 Rugged Prairie
 4 Rugged Prairie
+3 Blast Zone
+4 Blast Zone
 1 Yavimaya, Cradle of Growth
 1 Tireless Tracker
 1 Verdant Catacombs
 1 Elvish Reclaimer
-1 Renegade Rallier
+1 Forest
 1 Augur of Autumn
 1 Eladamri's Call
+1 Renegade Rallier
 1 Titania, Protector of Argoth
 1 Zuran Orb
-1 Forest
 1 Knight of the Reliquary
 1 Bojuka Bog
-2 Eladamri's Call
 2 Verdant Catacombs
 2 Elvish Reclaimer
 2 Knight of the Reliquary
-3 Eladamri's Call
+2 Eladamri's Call
 3 Flagstones of Trokair
-3 Verdant Catacombs
 3 Elvish Reclaimer
+3 Verdant Catacombs
 3 Temple Garden
+3 Eladamri's Call
 3 Knight of the Reliquary
 4 Elvish Reclaimer
 4 Eladamri's Call
 4 Knight of the Reliquary
+1 Wooded Foothills
+1 Fury
+1 Den of the Bugbear
+2 Fury
+3 Fury
+4 Fury
+4 Fable of the Mirror-Breaker
+4 Sacred Foundry
 1 Needleverge Pathway
 2 Needleverge Pathway
 3 Needleverge Pathway
 4 Needleverge Pathway
-1 Island
 1 Hengegate Pathway
-1 Lavinia, Azorius Renegade
 1 Pithing Needle
+1 Lavinia, Azorius Renegade
 1 Deputy of Detention
 1 Unsettled Mariner
+1 Island
 1 Moorland Haunt
 1 Weathered Wayfarer
 1 Relic of Progenitus
 1 Voyager Staff
-2 Deputy of Detention
 2 Hengegate Pathway
-2 Ranger-Captain of Eos
 2 Lavinia, Azorius Renegade
+2 Ranger-Captain of Eos
 2 Unsettled Mariner
+2 Deputy of Detention
 2 Hallowed Fountain
-3 Deputy of Detention
 3 Hallowed Fountain
 3 Ranger-Captain of Eos
 3 Lavinia, Azorius Renegade
 3 Hengegate Pathway
 3 Unsettled Mariner
+3 Deputy of Detention
 4 Ranger-Captain of Eos
 4 Hengegate Pathway
 4 Unsettled Mariner
-1 Phyrexian Revoker
 1 Mishra's Bauble
-2 Phyrexian Revoker
+1 Phyrexian Revoker
 2 Mishra's Bauble
-3 Serra Paragon
+2 Phyrexian Revoker
 3 Mishra's Bauble
+3 Serra Paragon
 3 Phyrexian Revoker
 4 Serra Paragon
 4 Path to Exile
