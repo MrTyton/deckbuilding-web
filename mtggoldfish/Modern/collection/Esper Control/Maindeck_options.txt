@@ -1,47 +1,59 @@
-4 Opt
+1 Esper Charm
+3 Polluted Delta
 1 Kaya's Guile
 1 Dress Down
-3 Polluted Delta
-2 Kaya's Guile
-2 Esper Charm
-1 Swamp
 1 Steam Vents
-1 Fatal Push
-4 Polluted Delta
+2 Esper Charm
+2 Kaya's Guile
+1 Swamp
 1 Drowned Catacomb
 1 Glacial Fortress
-2 Fatal Push
 1 Snow-Covered Plains
 1 Snow-Covered Island
+1 Fatal Push
+4 Polluted Delta
+2 Fatal Push
 2 Snow-Covered Island
 3 Snow-Covered Island
-1 Tainted Indulgence
-2 Tainted Indulgence
 1 Marsh Flats
 1 Godless Shrine
-3 Tainted Indulgence
-4 Tainted Indulgence
+1 Raugrin Triome
 4 Teferi, Time Raveler
 2 Void Rend
+1 Tainted Indulgence
+2 Tainted Indulgence
+3 Tainted Indulgence
+4 Tainted Indulgence
 2 Marsh Flats
 1 Shark Typhoon
-1 Raugrin Triome
-1 Consider
-2 Consider
-3 Fatal Push
-1 Kaya, Orzhov Usurper
 3 March of Otherworldly Light
+1 Kaya, Orzhov Usurper
 4 Solitude
 3 Hallowed Fountain
 4 Island
+1 Consider
+2 Consider
+3 Fatal Push
+3 Supreme Verdict
 1 Creeping Tar Pit
+1 Cling to Dust
+2 Plains
+2 Shark Typhoon
 1 Drown in the Loch
-1 Ledger Shredder
-2 Ledger Shredder
+1 Path to Exile
 1 Thoughtseize
 2 Thoughtseize
+2 Drown in the Loch
+1 Cryptic Command
+1 Damn
+1 Ledger Shredder
+2 Ledger Shredder
+1 Eiganjo, Seat of the Empire
 3 Consider
 4 Consider
+4 Snapcaster Mage
+1 Murktide Regent
+2 Murktide Regent
 1 Mishra's Bauble
 1 Monastery Mentor
 1 Unearth
@@ -57,37 +69,23 @@
 4 Monastery Mentor
 4 Unearth
 4 Mishra's Bauble
-3 Ledger Shredder
-2 Drown in the Loch
-3 Supreme Verdict
-2 Plains
-2 Shark Typhoon
-1 Cling to Dust
-1 Path to Exile
-1 Cryptic Command
-4 Darkslick Shores
-1 Spell Pierce
-1 Thought Scour
-2 Spell Pierce
-2 Thought Scour
-1 Murktide Regent
-2 Murktide Regent
-1 Damn
-1 Eiganjo, Seat of the Empire
-4 Snapcaster Mage
 3 Mystic Gate
+1 Fire/Ice
+2 Fire/Ice
+2 Scalding Tarn
+3 Ledger Shredder
 3 Thoughtseize
 4 Thoughtseize
-2 Scalding Tarn
-2 Jace, the Mind Sculptor
 1 Chalice of the Void
 2 Misty Rainforest
 2 Chalice of the Void
+2 Jace, the Mind Sculptor
 1 Sunken Ruins
+1 Subtlety
 1 Faithful Mending
 2 Faithful Mending
 3 Faithful Mending
-4 Ledger Shredder
+1 Vindicate
 1 Archon of Cruelty
 1 Persist
 2 Persist
@@ -97,40 +95,42 @@
 4 Archon of Cruelty
 4 Faithful Mending
 4 Persist
-1 Vindicate
-1 Sedgemoor Witch
-3 Thought Scour
-4 Thought Scour
-4 Fatal Push
-2 Dress Down
+4 Ledger Shredder
 1 Zagoth Triome
 1 Leyline Binding
 2 Leyline Binding
 3 Leyline Binding
 4 Leyline Binding
+2 Dress Down
 2 The Wandering Emperor
+4 Fatal Push
+4 Darkslick Shores
+1 Spell Pierce
+1 Thought Scour
+2 Spell Pierce
+2 Thought Scour
 3 Kaya's Guile
-1 Fire/Ice
-2 Fire/Ice
 3 Shark Typhoon
+1 Field of Ruin
 2 Raffine's Tower
-1 Force of Negation
-2 Force of Negation
-3 Chalice of the Void
-1 Narset, Parter of Veils
-1 Spara's Headquarters
+3 Fire/Ice
+1 Castle Ardenvale
+2 Celestial Colonnade
 1 Breeding Pool
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
+3 Chalice of the Void
+1 Narset, Parter of Veils
+1 Spara's Headquarters
+2 Subtlety
+3 Subtlety
 1 Riptide Laboratory
 3 Marsh Flats
 4 Marsh Flats
-1 Subtlety
 1 Takenuma, Abandoned Mire
 1 Ephemerate
 2 Godless Shrine
-1 Field of Ruin
 1 Surgical Extraction
 1 Hullbreaker Horror
 1 Boseiju, Who Endures
@@ -140,6 +140,11 @@
 1 Obscura Charm
 1 River of Tears
 1 Timeless Dragon
+1 Spreading Seas
+1 Ketria Triome
+2 Field of Ruin
+2 Spreading Seas
+2 Path to Exile
 2 Cryptic Command
 1 Dovin's Veto
 1 Prairie Stream
@@ -153,15 +158,11 @@
 3 Watery Grave
 1 Spell Snare
 3 Esper Charm
-2 Path to Exile
-3 Fire/Ice
 1 Murderous Cut
 3 Murktide Regent
 4 Murktide Regent
-1 Castle Ardenvale
 1 Omen of the Sea
 2 Omen of the Sea
-2 Celestial Colonnade
 3 Teferi, Hero of Dominaria
 3 Celestial Colonnade
 4 March of Otherworldly Light
@@ -197,6 +198,9 @@
 4 Otherworldly Gaze
 4 Smuggler's Copter
 4 Greasefang, Okiba Boss
+1 Sedgemoor Witch
+3 Thought Scour
+4 Thought Scour
 1 Brazen Borrower
 1 Spectral Adversary
 1 Vendilion Clique
@@ -232,16 +236,16 @@
 3 Step Through
 4 Step Through
 4 Micromancer
+1 Force of Negation
 1 Arid Mesa
 1 Geier Reach Sanitarium
 1 Day's Undoing
+2 Force of Negation
 2 Narset, Parter of Veils
-2 Subtlety
 2 Hall of Storm Giants
 2 Day's Undoing
 3 Day's Undoing
 3 Force of Negation
-3 Subtlety
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
 5 Island

@@ -57,23 +57,25 @@
 1 Watery Grave
 1 Consider
 1 Murktide Regent
-1 Indatha Triome
+1 Ledger Shredder
 1 Verdant Catacombs
+1 Indatha Triome
 1 Noble Hierarch
 1 Time Warp
 1 Godless Shrine
+1 Mountain
 1 Eladamri's Call
 1 Fact or Fiction
 1 Arid Mesa
 1 Birds of Paradise
 1 Marsh Flats
 1 Blood Crypt
-1 Mountain
 1 Raffine's Tower
 1 Lotus Bloom
 1 Idyllic Tutor
+1 Bring to Light
+1 Valki, God of Lies
 1 Deceiver Exarch
-1 Wargate
 1 Eternal Witness
 1 Savai Triome
 1 Drowned Catacomb
@@ -95,9 +97,9 @@
 1 Platinum Emperion
 1 Trading Post
 1 Leyline of Sanctity
+1 Fury
 1 Subtlety
 1 Path to Exile
-1 Fury
 1 Risen Reef
 1 Azor's Elocutors
 1 Unexpected Results
@@ -115,7 +117,6 @@
 1 Fiery Justice
 1 Massive Raid
 1 Expressive Iteration
-1 Valki, God of Lies
 1 Swamp
 1 Fires of Invention
 1 Nimble Mongoose
@@ -132,7 +133,6 @@
 1 Goblin Snowman
 1 Dreg Mangler
 1 Chromatic Lantern
-1 Bring to Light
 1 Yargle, Glutton of Urborg
 1 Clifftop Retreat
 1 Temporal Mastery
@@ -151,7 +151,6 @@
 1 Trait Doctoring
 1 Hedron Alignment
 1 Ephemerate
-1 Ledger Shredder
 1 Primeval Titan
 1 Devastation Tide
 1 Dragonskull Summit
@@ -166,6 +165,7 @@
 1 Scapeshift
 1 Utopia Sprawl
 1 Colossal Dreadmaw
+1 Wargate
 1 Admonition Angel
 1 Omnath, Locus of Creation
 1 Chaos Wand
@@ -176,20 +176,20 @@
 2 Fury
 2 Noble Hierarch
 2 Sulfur Falls
-2 Raugrin Triome
 2 Sacred Foundry
 2 Wooded Foothills
+2 Bring to Light
+2 Raugrin Triome
 2 Stomping Ground
 2 Explore
 2 Arid Mesa
 2 Valakut, the Molten Pinnacle
 2 Eladamri's Call
 2 Reflecting Pool
-2 Ragavan, Nimble Pilferer
 2 Abundant Harvest
+2 Ragavan, Nimble Pilferer
 2 Fable of the Mirror-Breaker
 2 Path to Exile
-2 Bring to Light
 2 Fires of Invention
 2 Omnath, Locus of Creation
 2 Battle of Wits
@@ -202,11 +202,12 @@
 2 Sunpetal Grove
 2 Hedron Alignment
 2 Massive Raid
-3 Wooded Foothills
 3 Fury
-3 Noble Hierarch
+3 Wooded Foothills
 3 Temple Garden
+3 Noble Hierarch
 3 Sacred Foundry
+3 Bring to Light
 3 Arid Mesa
 3 Explore
 3 Ragavan, Nimble Pilferer
@@ -219,7 +220,6 @@
 3 Reflecting Pool
 3 Fires of Invention
 3 Hedron Alignment
-3 Bring to Light
 3 Omnath, Locus of Creation
 3 Raugrin Triome
 3 Stomping Ground
@@ -230,6 +230,7 @@
 4 Noble Hierarch
 4 Wooded Foothills
 4 Arid Mesa
+4 Bring to Light
 4 Breeding Pool
 4 Teferi, Time Raveler
 4 Prismatic Vista
@@ -240,7 +241,6 @@
 4 Battle of Wits
 4 Risen Reef
 4 Utopia Sprawl
-4 Bring to Light
 4 Raugrin Triome
 4 Expressive Iteration
 4 Explore
@@ -273,8 +273,8 @@
 4 Polluted Delta
 2 Boseiju, Who Endures
 1 Hullbreaker Horror
-1 The Wandering Emperor
 1 Glacial Floodplain
+1 The Wandering Emperor
 2 Teferi, Hero of Dominaria
 2 Snow-Covered Forest
 3 Snapcaster Mage

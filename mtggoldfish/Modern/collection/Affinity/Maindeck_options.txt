@@ -1,16 +1,15 @@
 1 Spire of Industry
+2 Spire of Industry
 2 Razortide Bridge
-1 Gingerbrute
-2 Welding Jar
 3 Razortide Bridge
 4 Razortide Bridge
-1 Metallic Rebuke
-2 Metallic Rebuke
-3 Metallic Rebuke
+1 Pithing Needle
 1 Portable Hole
 2 Portable Hole
 3 Portable Hole
-1 Pithing Needle
+1 Metallic Rebuke
+2 Metallic Rebuke
+3 Metallic Rebuke
 4 Portable Hole
 1 Esper Sentinel
 2 Esper Sentinel
@@ -21,6 +20,8 @@
 1 Seachrome Coast
 2 Urza, Lord High Artificer
 3 Urza, Lord High Artificer
+1 Gingerbrute
+2 Welding Jar
 2 Hallowed Fountain
 2 Seachrome Coast
 3 Seachrome Coast
@@ -29,7 +30,6 @@
 3 Ingenious Smith
 4 Ingenious Smith
 1 Plains
-2 Spire of Industry
 1 Silverbluff Bridge
 1 Flooded Strand
 2 Flooded Strand
@@ -41,12 +41,11 @@
 2 Talisman of Progress
 3 Flooded Strand
 3 Nettlecyst
-4 Metallic Rebuke
 1 Myr Enforcer
 1 Dispatch
 4 Flooded Strand
 4 Nettlecyst
-2 Silverbluff Bridge
+4 Metallic Rebuke
 3 Spire of Industry
 2 Relic of Progenitus
 4 Hallowed Fountain
@@ -62,9 +61,6 @@
 1 Ethersworn Sphinx
 2 Ethersworn Sphinx
 3 Ethersworn Sphinx
-1 Glimmervoid
-2 Glimmervoid
-3 Silverbluff Bridge
 1 Mishra's Bauble
 1 Snow-Covered Island
 1 Chalice of the Void
@@ -75,6 +71,7 @@
 2 Arcbound Ravager
 3 Inkmoth Nexus
 4 Inkmoth Nexus
+2 Silverbluff Bridge
 3 Dispatch
 1 Prismatic Vista
 2 Prismatic Vista
@@ -86,14 +83,15 @@
 2 Aether Spellbomb
 1 Adarkar Wastes
 4 Ethersworn Sphinx
-1 Tormod's Crypt
 1 Kaldra Compleat
 2 Mishra's Bauble
+1 Glimmervoid
+2 Glimmervoid
 3 Glimmervoid
-4 Silverbluff Bridge
 1 Galvanic Blast
 2 Galvanic Blast
 3 Galvanic Blast
+3 Silverbluff Bridge
 4 Galvanic Blast
 4 Spire of Industry
 1 Grafdigger's Cage
@@ -130,6 +128,7 @@
 4 Welding Jar
 4 Arcbound Ravager
 4 Signal Pest
+1 Tormod's Crypt
 4 Glimmervoid
 1 Tanglepool Bridge
 1 Griselbrand
@@ -165,4 +164,5 @@
 1 Pyrite Spellbomb
 2 Experimental Synthesizer
 3 Experimental Synthesizer
+4 Silverbluff Bridge
 4 Experimental Synthesizer
