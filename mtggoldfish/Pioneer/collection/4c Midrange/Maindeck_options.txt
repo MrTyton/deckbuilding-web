@@ -1,4 +1,4 @@
-1 Yorion, Sky Nomad
+1 Glasspool Mimic
 1 Enigmatic Incarnation
 1 Spirited Companion
 1 Knight of Autumn
@@ -75,8 +75,8 @@
 1 Yavimaya Coast
 2 Adarkar Wastes
 2 Yavimaya Coast
-3 Adarkar Wastes
 3 Yavimaya Coast
+3 Adarkar Wastes
 1 Shark Typhoon
 2 Shark Typhoon
 3 Temple Garden
@@ -84,9 +84,9 @@
 1 Valakut Exploration
 1 Sokenzan, Crucible of Defiance
 1 Druid Class
+2 Rootbound Crag
 2 Dryad of the Ilysian Grove
 2 Valakut Exploration
-2 Rootbound Crag
 2 Druid Class
 3 Dryad of the Ilysian Grove
 3 Valakut Exploration
@@ -99,9 +99,9 @@
 2 Branchloft Pathway
 3 Branchloft Pathway
 4 Branchloft Pathway
+1 Expressive Iteration
 1 Clifftop Retreat
 1 March of Otherworldly Light
-1 Expressive Iteration
 1 Glacial Fortress
 1 Radiant Flames
 2 Expressive Iteration
@@ -165,10 +165,21 @@
 1 Fry
 2 Mystical Dispute
 3 Mystical Dispute
+1 Izzet Charm
+1 Bring to Light
+1 Supreme Verdict
+1 Valki, God of Lies
+2 Izzet Charm
+2 Renegade Rallier
+2 Bring to Light
+2 Brokers Hideout
+3 Izzet Charm
+3 Bring to Light
+4 Izzet Charm
 1 Magma Opus
-1 Woodland Cemetery
 1 Zagoth Triome
 1 Xander's Lounge
+1 Woodland Cemetery
 1 Golos, Tireless Pilgrim
 1 Ziatora's Proving Ground
 1 Nicol Bolas, the Ravager
@@ -177,17 +188,6 @@
 3 Magma Opus
 4 Magma Opus
 4 Ugin, the Spirit Dragon
-1 Izzet Charm
-1 Bring to Light
-1 Supreme Verdict
-1 Valki, God of Lies
-2 Renegade Rallier
-2 Bring to Light
-2 Izzet Charm
-2 Brokers Hideout
-3 Izzet Charm
-3 Bring to Light
-4 Izzet Charm
 1 Voice of Resurgence
 1 Elspeth Conquers Death
 1 Storm the Festival
@@ -204,33 +204,33 @@
 4 Voice of Resurgence
 1 Indomitable Creativity
 1 Fire Prophecy
-1 Dwarven Mine
-1 Secrets of the Key
 1 Impulse
+1 Secrets of the Key
+1 Big Score
 1 Fiery Impulse
 1 Xenagos, God of Revels
-1 Big Score
 1 Worldspine Wurm
+1 Dwarven Mine
 2 Indomitable Creativity
 2 Fire Prophecy
-2 Dwarven Mine
-2 Secrets of the Key
 2 Impulse
 2 Negate
-2 Fiery Impulse
 2 Big Score
+2 Secrets of the Key
+2 Fiery Impulse
+2 Dwarven Mine
+3 Sacred Foundry
 3 Fire Prophecy
 3 Indomitable Creativity
-3 Sacred Foundry
-3 Dwarven Mine
 3 Impulse
 3 The Wandering Emperor
+3 Dwarven Mine
 3 Steam Vents
-4 Fire Prophecy
-4 Indomitable Creativity
 4 Sacred Foundry
-4 Dwarven Mine
+4 Indomitable Creativity
 4 Impulse
+4 Dwarven Mine
+4 Fire Prophecy
 4 Steam Vents
 4 Deafening Clarion
 1 Turntimber Symbiosis

@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Four-color%20Midrange/Four-color%20Midrange.txt)
 #### [Export Arena List](../collection/Four-color%20Midrange/Four-color%20Midrange_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Acquisitions%20Expert%0A2%09Aether%20Channeler%0A2%09Blooming%20Marsh%0A3%09Botanical%20Sanctum%0A1%09Breeding%20Pool%0A4%09Collected%20Company%0A2%09Concealed%20Courtyard%0A2%09Deputy%20of%20Detention%0A4%09Ephemerate%0A1%09Glasspool%20Mimic%0A4%09Hallowed%20Fountain%0A1%09Hengegate%20Pathway%0A1%09Indatha%20Triome%0A1%09Lagrella,%20the%20Magpie%0A1%09Plains%0A4%09Prosperous%20Innkeeper%0A3%09Rope%20Line%20Attendant%0A1%09Saiba%20Syphoner%0A4%09Skyclave%20Apparition%0A4%09Soulherder%0A2%09Spara's%20Headquarters%0A1%09Spirited%20Companion%0A4%09Temple%20Garden%0A4%09Wall%20of%20Blossoms&deckside=2%09Dawnbringer%20Cleric%0A1%09Elderfang%20Disciple%0A2%09Fatal%20Push%0A3%09Forbidding%20Spirit%0A2%09Knight%20of%20Autumn%0A1%09Meddling%20Mage%0A4%09Ray%20of%20Enfeeblement)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Acquisitions%20Expert%0A2%09Aether%20Channeler%0A2%09Blooming%20Marsh%0A3%09Botanical%20Sanctum%0A1%09Breeding%20Pool%0A4%09Collected%20Company%0A2%09Concealed%20Courtyard%0A2%09Deputy%20of%20Detention%0A4%09Ephemerate%0A1%09Glasspool%20Mimic%0A4%09Hallowed%20Fountain%0A1%09Hengegate%20Pathway%0A1%09Indatha%20Triome%0A1%09Lagrella,%20the%20Magpie%0A1%09Plains%0A4%09Prosperous%20Innkeeper%0A3%09Rope%20Line%20Attendant%0A1%09Saiba%20Syphoner%0A4%09Skyclave%20Apparition%0A4%09Soulherder%0A2%09Spara's%20Headquarters%0A1%09Spirited%20Companion%0A4%09Temple%20Garden%0A4%09Wall%20of%20Blossoms&deckside=2%09Dawnbringer%20Cleric%0A1%09Elderfang%20Disciple%0A2%09Fatal%20Push%0A3%09Forbidding%20Spirit%0A1%09Guardian%20of%20Faith%0A2%09Knight%20of%20Autumn%0A4%09Ray%20of%20Enfeeblement)
 # Maindeck
 
 |                                          Creature (27)                                          |                                         Instant (8)                                          |                                            Land (20)                                            |     Unknown (5)     |
@@ -26,15 +26,15 @@
 |2 [Dawnbringer Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527296)|2 [Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |
 |1 [Elderfang Disciple](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503702)|4 [Ray of Enfeeblement](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527403)|
 |3 [Forbidding Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457153) |                                                                                                |
+|1 [Guardian of Faith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527305) |                                                                                                |
 |2 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)  |                                                                                                |
-|1 [Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)     |                                                                                                |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                            Sideboard Card                                            |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------------|
-|                    1|[Zagoth Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479779)       |                    1|[Guardian of Faith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527305)          |
+|                    1|[Zagoth Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479779)       |                    1|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)              |
 |                    2|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)        |                    1|[Ertai Resurrected](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574679)          |
 |                    1|[Raffine's Tower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555455)     |                    2|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)              |
 |                    1|[Caves of Koilos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129497)     |                    2|[Ertai Resurrected](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574679)          |

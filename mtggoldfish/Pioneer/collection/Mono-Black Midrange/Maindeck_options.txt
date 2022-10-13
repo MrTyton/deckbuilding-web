@@ -2,38 +2,39 @@
 2 Sign in Blood
 3 Sign in Blood
 3 Tenacious Underdog
+4 Hive of the Eye Tyrant
 1 Evolved Sleeper
 2 Evolved Sleeper
 14 Swamp
-4 Hive of the Eye Tyrant
 4 Sign in Blood
 1 Power Word Kill
 4 Murderous Rider
+1 Heartless Act
 3 Evolved Sleeper
 1 Cling to Dust
 2 Power Word Kill
-1 Heartless Act
+4 Liliana of the Veil
 1 The Meathook Massacre
 2 The Meathook Massacre
 1 Eliminate
 1 Unlicensed Hearse
-4 Liliana of the Veil
+1 Mutavault
+2 Mutavault
+3 Mutavault
 1 Reckoner Bankbuster
 2 Reckoner Bankbuster
 3 Field of Ruin
 4 Field of Ruin
 1 Geier Reach Sanitarium
 2 Geier Reach Sanitarium
+4 Tenacious Underdog
 1 March of Wretched Sorrow
 2 March of Wretched Sorrow
-4 Tenacious Underdog
-1 Mutavault
-2 Mutavault
-3 Mutavault
 1 Knight of the Ebon Legion
 2 Knight of the Ebon Legion
 3 Knight of the Ebon Legion
 4 Knight of the Ebon Legion
+4 Mutavault
 1 Hagra Mauling
 1 Fabled Passage
 1 Gonti, Lord of Luxury
@@ -42,15 +43,14 @@
 2 Liliana, the Last Hope
 3 Fabled Passage
 4 Fabled Passage
-4 Evolved Sleeper
-4 Mutavault
-1 Snow-Covered Swamp
 1 Bloodsoaked Champion
-2 Snow-Covered Swamp
 2 Bloodsoaked Champion
-3 Snow-Covered Swamp
 3 Bloodsoaked Champion
 4 Bloodsoaked Champion
+4 Evolved Sleeper
+1 Snow-Covered Swamp
+2 Snow-Covered Swamp
+3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
@@ -62,11 +62,12 @@
 12 Snow-Covered Swamp
 13 Snow-Covered Swamp
 2 Eliminate
-1 Demonic Embrace
 1 Spawn of Mayhem
-2 Demonic Embrace
+1 Demonic Embrace
 2 Spawn of Mayhem
+2 Demonic Embrace
 3 Spawn of Mayhem
+2 Heartless Act
 1 Liliana, Dreadhorde General
 1 Cut Down
 1 The Raven Man
@@ -81,29 +82,34 @@
 1 Sulfurous Springs
 1 Blood Crypt
 1 Blightstep Pathway
-2 Blood Crypt
-2 Heartless Act
-2 Fable of the Mirror-Breaker
 2 Sulfurous Springs
+2 Blood Crypt
+2 Fable of the Mirror-Breaker
 2 Blightstep Pathway
-3 Fable of the Mirror-Breaker
 3 Sulfurous Springs
-3 Heartless Act
+3 Fable of the Mirror-Breaker
 3 Blood Crypt
+3 Heartless Act
 4 Sulfurous Springs
-4 Spawn of Mayhem
 4 Fable of the Mirror-Breaker
+4 Spawn of Mayhem
 4 Blood Crypt
 1 Ifnir Deadlands
 2 Ifnir Deadlands
 3 Ifnir Deadlands
 4 Ifnir Deadlands
 1 Extinction Event
+1 Agadeem's Awakening
 1 Gray Merchant of Asphodel
 2 Gray Merchant of Asphodel
 1 Witch's Cottage
 1 Nykthos, Shrine to Nyx
-1 Agadeem's Awakening
+1 Concealing Curtains
+1 Infernal Grasp
+2 Concealing Curtains
+2 Infernal Grasp
+3 Concealing Curtains
+4 Concealing Curtains
 1 Champion of the Perished
 1 Cryptbreaker
 1 Lazotep Reaver
@@ -121,10 +127,6 @@
 4 Cryptbreaker
 4 Lazotep Reaver
 4 Dread Wanderer
-14 Snow-Covered Swamp
-1 Murderous Cut
-15 Swamp
-16 Swamp
 1 Radiant Fountain
 1 Vito, Thorn of the Dusk Rose
 2 Bloodchief's Thirst
@@ -134,3 +136,7 @@
 3 Gray Merchant of Asphodel
 4 Radiant Fountain
 4 Gray Merchant of Asphodel
+14 Snow-Covered Swamp
+1 Murderous Cut
+15 Swamp
+16 Swamp
