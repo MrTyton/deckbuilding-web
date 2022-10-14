@@ -70,7 +70,9 @@
 6 Mountain
 2 Goblin Chieftain
 3 Goblin Chieftain
+1 Goblin Engineer
 1 Sundering Titan
+1 Esper Sentinel
 1 Ensnaring Bridge
 1 Fissure Wizard
 1 Thopter Foundry
@@ -78,18 +80,16 @@
 1 Great Furnace
 1 Siege-Gang Commander
 1 Tangle Wire
-1 Esper Sentinel
 1 Crib Swap
 1 Plateau
-1 Goblin Engineer
 1 Volcanic Island
 1 Sword of the Meek
+2 Goblin Engineer
 2 Ensnaring Bridge
 2 Thopter Foundry
 2 Great Furnace
 2 Plateau
 2 Goblin Welder
-2 Goblin Engineer
 2 Esper Sentinel
 2 Volcanic Island
 3 Goblin Engineer
@@ -115,9 +115,9 @@
 1 Pyrokinesis
 1 Squee, the Immortal
 2 Mogg Fanatic
+1 Nurturing Peatland
 1 Legion Warboss
 1 Warren Weirding
-1 Nurturing Peatland
 1 Pendelhaven
 2 Legion Warboss
 1 Earwig Squad
@@ -130,8 +130,8 @@
 4 Fury
 4 Goblin Anarchomancer
 5 Snow-Covered Mountain
-1 Tarfire
 1 Goblin Rabblemaster
+1 Tarfire
 1 Dead/Gone
 1 Chrome Mox
 1 Chalice of the Void

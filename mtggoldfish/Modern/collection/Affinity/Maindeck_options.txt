@@ -1,9 +1,8 @@
 1 Spire of Industry
-2 Spire of Industry
 2 Razortide Bridge
 3 Razortide Bridge
 4 Razortide Bridge
-1 Pithing Needle
+1 Silverbluff Bridge
 1 Portable Hole
 2 Portable Hole
 3 Portable Hole
@@ -20,8 +19,9 @@
 1 Seachrome Coast
 2 Urza, Lord High Artificer
 3 Urza, Lord High Artificer
-1 Gingerbrute
 2 Welding Jar
+2 Spire of Industry
+1 Gingerbrute
 2 Hallowed Fountain
 2 Seachrome Coast
 3 Seachrome Coast
@@ -30,24 +30,24 @@
 3 Ingenious Smith
 4 Ingenious Smith
 1 Plains
-1 Silverbluff Bridge
+1 Pithing Needle
 1 Flooded Strand
 2 Flooded Strand
+3 Hallowed Fountain
 4 Seachrome Coast
 4 Urza, Lord High Artificer
 2 Island
-3 Hallowed Fountain
-1 Talisman of Progress
-2 Talisman of Progress
-3 Flooded Strand
-3 Nettlecyst
 1 Myr Enforcer
 1 Dispatch
+3 Nettlecyst
+2 Relic of Progenitus
+2 Silverbluff Bridge
+3 Flooded Strand
 4 Flooded Strand
 4 Nettlecyst
 4 Metallic Rebuke
-3 Spire of Industry
-2 Relic of Progenitus
+1 Talisman of Progress
+2 Talisman of Progress
 4 Hallowed Fountain
 1 Expedition Map
 1 Teferi, Time Raveler
@@ -62,25 +62,16 @@
 2 Ethersworn Sphinx
 3 Ethersworn Sphinx
 1 Mishra's Bauble
-1 Snow-Covered Island
-1 Chalice of the Void
-1 Inkmoth Nexus
-1 Arcbound Ravager
-2 Chalice of the Void
-2 Inkmoth Nexus
-2 Arcbound Ravager
-3 Inkmoth Nexus
-4 Inkmoth Nexus
-2 Silverbluff Bridge
+3 Spire of Industry
 3 Dispatch
 1 Prismatic Vista
 2 Prismatic Vista
 3 Relic of Progenitus
 4 Relic of Progenitus
 3 Island
-1 Underground River
 1 Academy Ruins
 2 Aether Spellbomb
+2 Myr Enforcer
 1 Adarkar Wastes
 4 Ethersworn Sphinx
 1 Kaldra Compleat
@@ -94,10 +85,19 @@
 3 Silverbluff Bridge
 4 Galvanic Blast
 4 Spire of Industry
+1 Snow-Covered Island
+1 Chalice of the Void
 1 Grafdigger's Cage
+1 Inkmoth Nexus
+1 Arcbound Ravager
 1 Emry, Lurker of the Loch
+2 Chalice of the Void
 2 Emry, Lurker of the Loch
-3 Arcbound Ravager
+2 Inkmoth Nexus
+2 Arcbound Ravager
+3 Inkmoth Nexus
+4 Inkmoth Nexus
+3 Treasure Vault
 1 Lightning Greaves
 1 Trinket Mage
 1 Misty Rainforest
@@ -113,21 +113,15 @@
 1 The Reality Chip
 1 The Underworld Cookbook
 1 Mystic Gate
+1 Underground River
 2 Adarkar Wastes
-2 Myr Enforcer
 3 Chalice of the Void
+3 Arcbound Ravager
 1 Wear/Tear
 1 Sorcerous Spyglass
 1 Paradise Mantle
 2 Paradise Mantle
 3 Paradise Mantle
-1 Signal Pest
-2 Signal Pest
-3 Signal Pest
-3 Welding Jar
-4 Welding Jar
-4 Arcbound Ravager
-4 Signal Pest
 1 Tormod's Crypt
 4 Glimmervoid
 1 Neoform
@@ -156,12 +150,11 @@
 2 Lightning Greaves
 2 Oswald Fiddlebender
 3 Plains
-3 Treasure Vault
 3 Oswald Fiddlebender
 4 Plains
 4 Oswald Fiddlebender
-1 Experimental Synthesizer
 1 Pyrite Spellbomb
+1 Experimental Synthesizer
 2 Experimental Synthesizer
 3 Experimental Synthesizer
 4 Silverbluff Bridge

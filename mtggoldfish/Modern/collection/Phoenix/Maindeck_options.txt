@@ -19,11 +19,12 @@
 4 Thought Scour
 4 Spirebluff Canal
 1 Wooded Foothills
+3 Demilich
+4 Demilich
 2 Fiery Islet
 1 Ox of Agonas
 2 Wooded Foothills
-3 Demilich
-4 Demilich
+3 Gut Shot
 1 Merchant of the Vale
 1 Izzet Charm
 2 Izzet Charm
@@ -36,12 +37,11 @@
 3 Stormwing Entity
 3 Izzet Charm
 4 Sleight of Hand
+1 Flooded Strand
 2 Merchant of the Vale
-3 Gut Shot
 4 Gut Shot
 1 Polluted Delta
 3 Island
-1 Flooded Strand
 1 Unholy Heat
 4 Izzet Charm
 2 Bloodstained Mire
@@ -53,6 +53,8 @@
 2 Tome Scour
 3 Tome Scour
 4 Tome Scour
+1 Misty Rainforest
+1 Lightning Axe
 1 Chart a Course
 2 Chart a Course
 3 Chart a Course
@@ -72,10 +74,16 @@
 1 Force of Negation
 2 Force of Negation
 2 Ox of Agonas
-4 Stormwing Entity
 2 Maximize Velocity
 3 Wooded Foothills
 4 Bloodstained Mire
+4 Stormwing Entity
+1 Remand
+2 Remand
+2 Flooded Strand
+2 Lightning Axe
+3 Remand
+4 Remand
 1 Sulfur Falls
 1 Sprite Dragon
 2 Sulfur Falls
@@ -89,13 +97,11 @@
 4 Chart a Course
 1 Tolarian Terror
 1 Otherworldly Gaze
-2 Otherworldly Gaze
 2 Tolarian Terror
+2 Otherworldly Gaze
 3 Tolarian Terror
 4 Tolarian Terror
-1 Misty Rainforest
 1 Seasoned Pyromancer
-1 Lightning Axe
 1 Riverglide Pathway
 1 Shivan Reef
 3 Merchant of the Vale

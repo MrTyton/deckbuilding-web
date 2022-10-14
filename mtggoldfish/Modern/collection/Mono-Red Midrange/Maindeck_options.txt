@@ -4,44 +4,44 @@
 3 Flame Slash
 4 Flame Slash
 8 Mountain
-1 Gemstone Caverns
+1 Shatterskull Smashing
 9 Mountain
 10 Mountain
+2 Shatterskull Smashing
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
-1 Shatterskull Smashing
+1 Gemstone Caverns
 4 Ramunap Ruins
-2 Shatterskull Smashing
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
-4 Chalice of the Void
 1 Experimental Synthesizer
 2 Experimental Synthesizer
 3 Experimental Synthesizer
 4 Experimental Synthesizer
 3 Shatterskull Smashing
 4 Shatterskull Smashing
+4 Chalice of the Void
 2 Gemstone Caverns
 1 Unlicensed Hearse
 2 Unlicensed Hearse
 1 Urza's Saga
 1 Pyrite Spellbomb
-2 Pyrite Spellbomb
 2 Urza's Saga
+2 Pyrite Spellbomb
 3 Pyrite Spellbomb
 3 Urza's Saga
 4 Pyrite Spellbomb
 4 Urza's Saga
-1 Field of Ruin
 1 Dead/Gone
+1 Field of Ruin
 2 Field of Ruin
 2 Dead/Gone
 3 Dead/Gone
 3 Chandra, Torch of Defiance
 3 Unlicensed Hearse
-4 Dead/Gone
 4 Unlicensed Hearse
+4 Dead/Gone
 1 Karn, the Great Creator
 1 Scavenger Grounds
 2 Karn, the Great Creator
@@ -52,9 +52,9 @@
 2 Squee, Dubious Monarch
 1 Chandra, Dressed to Kill
 2 Chandra, Dressed to Kill
+1 Soul-Guide Lantern
 1 Scalding Tarn
 1 Arid Mesa
-1 Soul-Guide Lantern
 1 Bloodstained Mire
 1 Wooded Foothills
 2 Phoenix of Ash
@@ -88,6 +88,9 @@
 4 Valakut Awakening
 4 Radiant Fountain
 4 Forgotten Cave
+1 Ghost Quarter
+2 Ghost Quarter
+4 Chandra, Torch of Defiance
 1 Chandra, Fire Artisan
 1 Goblin Rabblemaster
 1 Light Up the Night
@@ -97,15 +100,12 @@
 2 Ensnaring Bridge
 2 Goblin Rabblemaster
 2 Light Up the Night
+3 Ensnaring Bridge
 3 Light Up the Night
 3 Gemstone Caverns
 3 Goblin Rabblemaster
-3 Ensnaring Bridge
 3 Chandra, Fire Artisan
 4 Gemstone Caverns
-1 Ghost Quarter
-2 Ghost Quarter
-4 Chandra, Torch of Defiance
 1 Fulminator Mage
 2 Fulminator Mage
 3 Fulminator Mage
@@ -131,24 +131,15 @@
 2 Desperate Ritual
 2 Pyretic Ritual
 14 Mountain
-1 Eldrazi Temple
-1 Prismatic Vista
-1 Wastes
-1 Reality Smasher
-1 Matter Reshaper
-1 Eldrazi Obligator
-2 Eldrazi Temple
-2 Prismatic Vista
-2 Reality Smasher
-2 Eldrazi Obligator
-2 Matter Reshaper
-3 Eldrazi Temple
-3 Prismatic Vista
-3 Matter Reshaper
-3 Reality Smasher
-3 Eldrazi Obligator
-4 Eldrazi Temple
-4 Prismatic Vista
-4 Eldrazi Obligator
-4 Reality Smasher
-4 Matter Reshaper
+1 Reckless Impulse
+1 Seal of Fire
+1 Keldon Megaliths
+2 Reckless Impulse
+2 Seal of Fire
+2 Keldon Megaliths
+3 Seal of Fire
+3 Reckless Impulse
+3 Keldon Megaliths
+4 Seal of Fire
+4 Reckless Impulse
+4 Keldon Megaliths
