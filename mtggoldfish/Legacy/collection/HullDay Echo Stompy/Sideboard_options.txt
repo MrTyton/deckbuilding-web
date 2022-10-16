@@ -3,10 +3,7 @@
 1 Echoing Truth
 1 Dismember
 2 Dismember
-1 Flusterstorm
 1 Shadowspear
-1 Hydroblast
-2 Flusterstorm
 1 Faerie Macabre
 2 Faerie Macabre
 1 Timeless Dragon
@@ -14,7 +11,6 @@
 1 Leyline of the Void
 1 Cathar Commando
 1 Force of Will
-2 Cathar Commando
 2 Timeless Dragon
 2 Leyline of the Void
 2 Force of Will
@@ -24,6 +20,10 @@
 4 Leyline of the Void
 4 Timeless Dragon
 4 Force of Will
+1 Flusterstorm
+2 Cathar Commando
+1 Hydroblast
+2 Flusterstorm
 1 Veil of Summer
 1 Choke
 2 Veil of Summer
@@ -31,6 +31,8 @@
 3 Choke
 3 Veil of Summer
 4 Veil of Summer
+1 Defense Grid
+2 Defense Grid
 1 Blast Zone
 2 Blast Zone
 3 Blast Zone
