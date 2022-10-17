@@ -50,16 +50,16 @@
 4 Imperial Recruiter
 1 Boseiju, Who Endures
 2 Temple Garden
-1 Branchloft Pathway
-1 Razorverge Thicket
 1 Oath of Nissa
+1 Razorverge Thicket
+1 Branchloft Pathway
 1 Noble Hierarch
 1 Brushland
-2 Branchloft Pathway
+2 Oath of Nissa
 2 Razorverge Thicket
+2 Branchloft Pathway
 2 Noble Hierarch
 2 Brushland
-2 Oath of Nissa
 2 Boseiju, Who Endures
 3 Boseiju, Who Endures
 3 Razorverge Thicket
@@ -143,8 +143,8 @@
 1 Welcoming Vampire
 2 Welcoming Vampire
 3 Welcoming Vampire
-1 Ragavan, Nimble Pilferer
 1 Savai Triome
+1 Ragavan, Nimble Pilferer
 1 Kiki-Jiki, Mirror Breaker
 1 Sanctifier en-Vec
 1 Rugged Prairie
@@ -156,39 +156,32 @@
 4 Ragavan, Nimble Pilferer
 4 Rugged Prairie
 4 Blast Zone
-1 Yavimaya, Cradle of Growth
+1 Titania, Protector of Argoth
 1 Eladamri's Call
+1 Yavimaya, Cradle of Growth
 1 Tireless Tracker
 1 Verdant Catacombs
 1 Elvish Reclaimer
-1 Renegade Rallier
 1 Forest
-1 Augur of Autumn
-1 Titania, Protector of Argoth
 1 Zuran Orb
+1 Renegade Rallier
 1 Knight of the Reliquary
 1 Bojuka Bog
+1 Augur of Autumn
 2 Eladamri's Call
 2 Elvish Reclaimer
 2 Verdant Catacombs
 2 Knight of the Reliquary
-3 Elvish Reclaimer
 3 Eladamri's Call
+3 Elvish Reclaimer
 3 Temple Garden
 3 Knight of the Reliquary
 3 Verdant Catacombs
-4 Elvish Reclaimer
 4 Eladamri's Call
+4 Elvish Reclaimer
 4 Knight of the Reliquary
-1 Fable of the Mirror-Breaker
-1 Needleverge Pathway
-2 Fable of the Mirror-Breaker
-2 Needleverge Pathway
-3 Fable of the Mirror-Breaker
-3 Needleverge Pathway
-4 Needleverge Pathway
-1 Deputy of Detention
 1 Unsettled Mariner
+1 Deputy of Detention
 1 Hengegate Pathway
 1 Pithing Needle
 1 Lavinia, Azorius Renegade
@@ -199,28 +192,35 @@
 1 Island
 2 Unsettled Mariner
 2 Hengegate Pathway
-2 Lavinia, Azorius Renegade
 2 Ranger-Captain of Eos
+2 Lavinia, Azorius Renegade
 2 Deputy of Detention
 2 Hallowed Fountain
+3 Unsettled Mariner
 3 Hallowed Fountain
 3 Ranger-Captain of Eos
 3 Lavinia, Azorius Renegade
 3 Hengegate Pathway
-3 Unsettled Mariner
 3 Deputy of Detention
+4 Unsettled Mariner
 4 Ranger-Captain of Eos
 4 Hengegate Pathway
-4 Unsettled Mariner
+1 Fable of the Mirror-Breaker
+1 Needleverge Pathway
+2 Fable of the Mirror-Breaker
+2 Needleverge Pathway
+3 Fable of the Mirror-Breaker
+3 Needleverge Pathway
+4 Needleverge Pathway
 1 Mishra's Bauble
 1 Phyrexian Revoker
 2 Mishra's Bauble
 2 Phyrexian Revoker
-3 Mishra's Bauble
 3 Serra Paragon
+3 Mishra's Bauble
 3 Phyrexian Revoker
-4 Mishra's Bauble
 4 Serra Paragon
+4 Mishra's Bauble
 16 Plains
 2 Horizon Canopy
 1 Cloudsteel Kirin

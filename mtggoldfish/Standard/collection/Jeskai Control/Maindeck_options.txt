@@ -6,8 +6,8 @@
 1 Wind-Scarred Crag
 1 Archangel of Wrath
 1 Fading Hope
-2 Archangel of Wrath
 2 Wind-Scarred Crag
+2 Archangel of Wrath
 3 Wind-Scarred Crag
 4 Wind-Scarred Crag
 2 Make Disappear
@@ -51,10 +51,10 @@
 2 Fires of Victory
 3 Farewell
 2 Syncopate
-1 Fable of the Mirror-Breaker
 1 Voltage Surge
-2 Fable of the Mirror-Breaker
+1 Fable of the Mirror-Breaker
 2 Voltage Surge
+2 Fable of the Mirror-Breaker
 3 Fable of the Mirror-Breaker
 4 Fable of the Mirror-Breaker
 1 Essence Scatter
@@ -63,17 +63,15 @@
 2 Sphinx of Clear Skies
 2 Ertai's Scorn
 2 Disruption Protocol
-1 Spirited Companion
 1 Honored Heirloom
+1 Spirited Companion
 1 Moonsilver Key
-2 Spirited Companion
 2 Light Up the Night
+2 Spirited Companion
 2 Moonsilver Key
 3 Spirited Companion
 3 Moonsilver Key
 3 Light Up the Night
-1 Rona's Vortex
-4 Impulse
 1 Depopulate
 2 Depopulate
 2 March of Otherworldly Light
@@ -87,15 +85,17 @@
 2 Disdainful Stroke
 3 The Celestus
 4 Silver Scrutiny
+1 Rona's Vortex
+4 Impulse
 1 Raffine's Tower
 1 Tranquil Cove
-2 Raffine's Tower
 2 Dissipate
+2 Raffine's Tower
 3 Fires of Victory
 3 Dissipate
-4 Make Disappear
 4 Dissipate
 4 Fires of Victory
+4 Make Disappear
 1 Lightning Strike
 1 Hurloon Battle Hymn
 1 Valorous Stance
@@ -103,11 +103,11 @@
 2 Lightning Strike
 2 Hurloon Battle Hymn
 2 Hinata, Dawn-Crowned
-3 Mountain
 3 Hurloon Battle Hymn
 3 Hinata, Dawn-Crowned
 3 Essence Scatter
 3 Sphinx of Clear Skies
+3 Mountain
 4 Hurloon Battle Hymn
 4 Hinata, Dawn-Crowned
 4 Sphinx of Clear Skies

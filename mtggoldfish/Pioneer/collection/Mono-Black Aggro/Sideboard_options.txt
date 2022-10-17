@@ -1,42 +1,39 @@
-1 Self-Inflicted Wound
-2 Self-Inflicted Wound
 1 Unlicensed Hearse
 2 Unlicensed Hearse
 1 Duress
-2 Duress
 1 Invoke Despair
 2 Invoke Despair
+1 Self-Inflicted Wound
+2 Self-Inflicted Wound
+2 Duress
 1 Epic Downfall
-1 Aethersphere Harvester
+2 Epic Downfall
 3 Duress
 1 Lifebane Zombie
 2 Lifebane Zombie
-2 Epic Downfall
+1 Aethersphere Harvester
 1 The Meathook Massacre
 1 Baleful Mastery
 2 The Meathook Massacre
-3 Noxious Grasp
-2 Aethersphere Harvester
-4 Noxious Grasp
 3 Witch's Vengeance
+3 Noxious Grasp
+4 Noxious Grasp
 1 Sorin the Mirthless
+2 Aethersphere Harvester
 3 Legion's End
 1 Pithing Needle
-3 Aethersphere Harvester
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
 1 Liliana of the Veil
 2 Liliana of the Veil
-3 Self-Inflicted Wound
 1 Cut Down
 4 Duress
 1 Gonti, Lord of Luxury
-1 Dread Fugue
 1 Fatal Push
+2 Pithing Needle
 1 Graveyard Trespasser
 2 Graveyard Trespasser
-2 Pithing Needle
 2 Sorin the Mirthless
 1 Ray of Enfeeblement
 2 Ray of Enfeeblement
@@ -49,7 +46,10 @@
 1 Extinction Event
 2 Extinction Event
 3 Invoke Despair
+1 Dread Fugue
+3 Aethersphere Harvester
 3 Liliana of the Veil
+3 Self-Inflicted Wound
 4 Liliana of the Veil
 1 Sheoldred, the Apocalypse
 2 Sheoldred, the Apocalypse
@@ -60,6 +60,3 @@
 3 Epic Downfall
 4 Cut Down
 4 Epic Downfall
-1 Soul-Guide Lantern
-2 Soul-Guide Lantern
-4 Self-Inflicted Wound

@@ -56,10 +56,10 @@
 4 Force of Negation
 1 Vizier of Tumbling Sands
 2 Vizier of Tumbling Sands
-1 Prismatic Ending
-2 Prismatic Ending
 1 Izzet Charm
 2 Steam Vents
+1 Prismatic Ending
+2 Prismatic Ending
 2 Tolaria West
 3 Tolaria West
 4 Tolaria West
@@ -83,22 +83,22 @@
 1 Bloodstained Mire
 1 Marsh Flats
 1 Thassa's Oracle
-1 Spirebluff Canal
-1 Lightning Bolt
-1 Tale's End
-1 Teferi, Time Raveler
-1 Expressive Iteration
-1 Seachrome Coast
 1 Plains
+1 Spirebluff Canal
+1 Seachrome Coast
+1 Teferi, Time Raveler
+1 Tale's End
+1 Expressive Iteration
+1 Lightning Bolt
 2 Izzet Charm
-2 Spirebluff Canal
 2 Lightning Bolt
+2 Spirebluff Canal
 2 Teferi, Time Raveler
 2 Expressive Iteration
+3 Spirebluff Canal
 3 Lightning Bolt
 3 Prismatic Ending
 3 Teferi, Time Raveler
-3 Spirebluff Canal
 3 Expressive Iteration
 1 Shivan Reef
 1 Empty the Warrens
@@ -107,23 +107,6 @@
 2 Shivan Reef
 3 Shivan Reef
 4 Shivan Reef
-1 Windswept Heath
-1 Abundant Harvest
-1 Boseiju, Who Endures
-1 Sylvan Scrying
-1 Thespian's Stage
-1 Forest
-2 Windswept Heath
-2 Boseiju, Who Endures
-2 Forest
-2 Abundant Harvest
-2 Sylvan Scrying
-3 Windswept Heath
-3 Abundant Harvest
-3 Merchant Scroll
-3 Sylvan Scrying
-4 Windswept Heath
-4 Abundant Harvest
 1 Drowned Catacomb
 1 Clearwater Pathway
 2 Drowned Catacomb
@@ -133,6 +116,23 @@
 3 Clearwater Pathway
 3 Drowned Catacomb
 4 Clearwater Pathway
+1 Windswept Heath
+1 Forest
+1 Boseiju, Who Endures
+1 Abundant Harvest
+1 Sylvan Scrying
+1 Thespian's Stage
+2 Boseiju, Who Endures
+2 Windswept Heath
+2 Forest
+2 Abundant Harvest
+2 Sylvan Scrying
+3 Windswept Heath
+3 Merchant Scroll
+3 Abundant Harvest
+3 Sylvan Scrying
+4 Windswept Heath
+4 Abundant Harvest
 1 Darkslick Shores
 1 Acererak the Archlich
 1 Rooftop Storm

@@ -55,7 +55,6 @@
 2 Supreme Verdict
 1 Fatal Push
 1 Fracture
-1 The Wandering Emperor
 1 Leyline of the Void
 1 Nihil Spellbomb
 1 Settle the Wreckage
@@ -64,8 +63,10 @@
 1 Sedgemoor Witch
 1 Kaya, Orzhov Usurper
 1 Wrath of God
+1 The Wandering Emperor
 1 Winds of Abandon
 1 Gut Shot
+1 Burrenton Forge-Tender
 1 Aven Mindcensor
 1 Tide Shaper
 1 Teferi, Mage of Zhalfir
@@ -74,7 +75,6 @@
 1 Fragmentize
 1 Nimble Obstructionist
 1 Mistcaller
-1 Burrenton Forge-Tender
 1 Ceremonious Rejection
 1 Tourach, Dread Cantor
 1 Collective Brutality
@@ -88,27 +88,28 @@
 2 Narset, Parter of Veils
 2 Celestial Purge
 2 Subtlety
+1 Test of Talents
+2 Fatal Push
+3 March of Otherworldly Light
 1 Kataki, War's Wage
 1 Murderous Cut
 2 Murderous Cut
 3 Flusterstorm
 3 Prismatic Ending
-1 Test of Talents
-2 Fatal Push
-3 March of Otherworldly Light
+3 Dress Down
 1 Sanctifier en-Vec
 2 Relic of Progenitus
 2 Sanctifier en-Vec
 3 Relic of Progenitus
-3 Thoughtseize
 3 Leyline of Sanctity
+3 Thoughtseize
 2 Vindicate
 3 Mystical Dispute
 1 Tormod's Crypt
-1 Shakedown Heavy
 1 Lose Focus
 1 Metallic Rebuke
 1 Aethersphere Harvester
+1 Shakedown Heavy
 2 Tormod's Crypt
 2 Aethersphere Harvester
 3 Tormod's Crypt
@@ -118,7 +119,6 @@
 2 Surgical Extraction
 2 Cling to Dust
 3 Surgical Extraction
-3 Dress Down
 1 Strict Proctor
 2 Strict Proctor
 3 Void Mirror

@@ -52,55 +52,59 @@
 2 Prismatic Vista
 3 Breeding Pool
 3 Prismatic Vista
+1 Watery Grave
 1 Search for Azcanta
 1 Zagoth Triome
-1 Watery Grave
 1 Consider
+1 Sacred Foundry
+1 Arid Mesa
 1 Murktide Regent
 1 Ledger Shredder
+1 Bloodbraid Elf
 1 Indatha Triome
 1 Verdant Catacombs
 1 Ephemerate
-1 Noble Hierarch
+1 Eternal Witness
 1 Time Warp
+1 Valki, God of Lies
+1 Bring to Light
 1 Mountain
 1 Eladamri's Call
 1 Fact or Fiction
-1 Arid Mesa
-1 Fable of the Mirror-Breaker
-1 Birds of Paradise
 1 Godless Shrine
-1 Marsh Flats
-1 Raffine's Tower
 1 Lotus Bloom
 1 Idyllic Tutor
-1 Overgrown Tomb
+1 Xander's Lounge
+1 Marsh Flats
 1 Tamiyo, Compleated Sage
 1 Deceiver Exarch
-1 Blood Crypt
-1 Wargate
-1 Eternal Witness
-1 Xander's Lounge
+1 Grief
+1 Raffine's Tower
 1 Savai Triome
 1 Clifftop Retreat
 1 Drowned Catacomb
-1 Sacred Foundry
 1 Lava Spike
-1 Valakut, the Molten Pinnacle
 1 Kiki-Jiki, Mirror Breaker
 1 Svyelun of Sea and Sky
-1 Neoform
-1 Bloodstained Mire
 1 Settle the Wreckage
-1 Deflecting Palm
+1 Bloodstained Mire
+1 Neoform
+1 Ragavan, Nimble Pilferer
+1 Primeval Titan
 1 Abundant Harvest
+1 Fable of the Mirror-Breaker
+1 Deflecting Palm
 1 Siege Rhino
+1 The Kami War
 1 Platinum Emperion
-1 Trading Post
+1 Fiery Justice
+1 Emrakul, the Aeons Torn
 1 Leyline of Sanctity
 1 Fury
+1 Trading Post
 1 Subtlety
 1 Path to Exile
+1 Overgrown Tomb
 1 Risen Reef
 1 Azor's Elocutors
 1 Unexpected Results
@@ -111,19 +115,17 @@
 1 The Reality Chip
 1 Glimpse of Tomorrow
 1 Master of Waves
-1 Emrakul, the Aeons Torn
 1 Eldrazi Conscription
 1 Coalition Victory
+1 Birds of Paradise
 1 Jasmine Boreal
-1 Fiery Justice
 1 Massive Raid
 1 Expressive Iteration
-1 Valki, God of Lies
 1 Swamp
 1 Fires of Invention
 1 Nimble Mongoose
 1 Goldspan Dragon
-1 Bloodbraid Elf
+1 Noble Hierarch
 1 Approach of the Second Sun
 1 Sunpetal Grove
 1 Happily Ever After
@@ -134,8 +136,8 @@
 1 Revel in Riches
 1 Goblin Snowman
 1 Dreg Mangler
+1 Valakut, the Molten Pinnacle
 1 Chromatic Lantern
-1 Bring to Light
 1 Yargle, Glutton of Urborg
 1 Temporal Mastery
 1 Planewide Celebration
@@ -147,25 +149,23 @@
 1 Avid Reclaimer
 1 Myr Mindservant
 1 Cruel Ultimatum
-1 Ragavan, Nimble Pilferer
 1 Chance Encounter
-1 The Kami War
 1 Trait Doctoring
 1 Hedron Alignment
-1 Primeval Titan
 1 Devastation Tide
 1 Dragonskull Summit
 1 Sailor of Means
 1 Kess, Dissident Mage
 1 Terminus
-1 Grief
 1 Saddleback Lagac
 1 Battle of Wits
+1 Blood Crypt
 1 The Flame of Keld
 1 Endurance
 1 Scapeshift
 1 Utopia Sprawl
 1 Colossal Dreadmaw
+1 Wargate
 1 Admonition Angel
 1 Omnath, Locus of Creation
 1 Chaos Wand
@@ -174,51 +174,51 @@
 1 Time of Need
 1 Rootbound Crag
 2 Sulfur Falls
-2 Noble Hierarch
-2 Raugrin Triome
-2 Fable of the Mirror-Breaker
-2 Wooded Foothills
-2 Stomping Ground
-2 Sacred Foundry
-2 Explore
-2 Arid Mesa
-2 Valakut, the Molten Pinnacle
-2 Eladamri's Call
-2 Reflecting Pool
-2 Abundant Harvest
-2 Path to Exile
 2 Bring to Light
+2 Arid Mesa
+2 Raugrin Triome
+2 Sacred Foundry
+2 Reflecting Pool
+2 Explore
+2 Eladamri's Call
+2 Wooded Foothills
+2 Noble Hierarch
+2 Abundant Harvest
 2 Ragavan, Nimble Pilferer
+2 Windswept Heath
+2 Fable of the Mirror-Breaker
+2 Path to Exile
 2 Fires of Invention
 2 Omnath, Locus of Creation
+2 Stomping Ground
 2 Battle of Wits
 2 Expressive Iteration
 2 Utopia Sprawl
 2 Rootbound Crag
-2 Windswept Heath
 2 Glimpse of Tomorrow
 2 Risen Reef
+2 Valakut, the Molten Pinnacle
 2 Fury
 2 Sunpetal Grove
 2 Hedron Alignment
 2 Massive Raid
 3 Temple Garden
 3 Noble Hierarch
+3 Bring to Light
 3 Sacred Foundry
 3 Arid Mesa
+3 Reflecting Pool
 3 Explore
-3 Wooded Foothills
 3 Abundant Harvest
+3 Ragavan, Nimble Pilferer
+3 Wooded Foothills
+3 Windswept Heath
 3 Expressive Iteration
 3 Risen Reef
-3 Windswept Heath
 3 Glimpse of Tomorrow
 3 Massive Raid
-3 Ragavan, Nimble Pilferer
-3 Reflecting Pool
 3 Fires of Invention
 3 Hedron Alignment
-3 Bring to Light
 3 Omnath, Locus of Creation
 3 Raugrin Triome
 3 Stomping Ground
@@ -226,13 +226,16 @@
 3 Steam Vents
 3 Battle of Wits
 3 Utopia Sprawl
+4 Stomping Ground
 4 Expressive Iteration
 4 Sacred Foundry
 4 Noble Hierarch
-4 Arid Mesa
+4 Bring to Light
 4 Temple Garden
 4 Teferi, Time Raveler
 4 Prismatic Vista
+4 Arid Mesa
+4 Ragavan, Nimble Pilferer
 4 Steam Vents
 4 Abundant Harvest
 4 Breeding Pool
@@ -240,15 +243,12 @@
 4 Battle of Wits
 4 Risen Reef
 4 Utopia Sprawl
-4 Bring to Light
 4 Raugrin Triome
 4 Explore
-4 Ragavan, Nimble Pilferer
 4 Massive Raid
 4 Windswept Heath
 4 Omnath, Locus of Creation
 4 Hedron Alignment
-4 Stomping Ground
 1 Snow-Covered Plains
 4 Wrenn and Six
 1 March of Otherworldly Light
@@ -275,8 +275,8 @@
 1 Hullbreaker Horror
 1 Glacial Floodplain
 1 The Wandering Emperor
-2 Teferi, Hero of Dominaria
 2 Snow-Covered Forest
+2 Teferi, Hero of Dominaria
 3 Snapcaster Mage
 3 Cryptic Command
 1 Spell Snare
@@ -301,10 +301,10 @@
 1 Spirebluff Canal
 2 Dead/Gone
 3 Dead/Gone
+1 Sea Gate Restoration
 1 Blast Zone
 1 Field of Ruin
 1 Mikokoro, Center of the Sea
-1 Sea Gate Restoration
 2 Field of Ruin
 2 Nexus of Fate
 3 Nexus of Fate
@@ -339,6 +339,6 @@
 10 Snow-Covered Island
 1 Verdant Command
 1 Niv-Mizzet, Parun
+2 Expansion/Explosion
 2 Verdant Command
 3 Verdant Command
-2 Expansion/Explosion

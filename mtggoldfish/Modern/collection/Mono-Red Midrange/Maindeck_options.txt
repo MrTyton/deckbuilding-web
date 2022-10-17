@@ -33,12 +33,12 @@
 3 Urza's Saga
 4 Pyrite Spellbomb
 4 Urza's Saga
-1 Dead/Gone
 1 Field of Ruin
+1 Dead/Gone
 2 Field of Ruin
 2 Dead/Gone
-3 Dead/Gone
 3 Chandra, Torch of Defiance
+3 Dead/Gone
 3 Unlicensed Hearse
 4 Unlicensed Hearse
 4 Dead/Gone
@@ -52,11 +52,11 @@
 2 Squee, Dubious Monarch
 1 Chandra, Dressed to Kill
 2 Chandra, Dressed to Kill
+1 Arid Mesa
+1 Wooded Foothills
 1 Soul-Guide Lantern
 1 Scalding Tarn
-1 Arid Mesa
 1 Bloodstained Mire
-1 Wooded Foothills
 2 Phoenix of Ash
 2 Soul-Guide Lantern
 3 Phoenix of Ash
@@ -72,22 +72,6 @@
 3 Sunbaked Canyon
 1 Inscribed Tablet
 1 Shivan Devastator
-1 Blood Sun
-1 Radiant Fountain
-1 Forgotten Cave
-1 Valakut Awakening
-2 Valakut Awakening
-2 Blood Sun
-2 Radiant Fountain
-2 Forgotten Cave
-3 Blood Sun
-3 Valakut Awakening
-3 Radiant Fountain
-3 Forgotten Cave
-4 Blood Sun
-4 Valakut Awakening
-4 Radiant Fountain
-4 Forgotten Cave
 1 Ghost Quarter
 2 Ghost Quarter
 4 Chandra, Torch of Defiance
@@ -120,17 +104,6 @@
 2 Karn's Sylex
 3 Karn's Sylex
 4 Karn's Sylex
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
-4 Snow-Covered Mountain
-5 Snow-Covered Mountain
-6 Snow-Covered Mountain
-1 Desperate Ritual
-1 Pyretic Ritual
-2 Desperate Ritual
-2 Pyretic Ritual
-14 Mountain
 1 Reckless Impulse
 1 Seal of Fire
 1 Keldon Megaliths
@@ -143,3 +116,30 @@
 4 Seal of Fire
 4 Reckless Impulse
 4 Keldon Megaliths
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
+4 Snow-Covered Mountain
+5 Snow-Covered Mountain
+6 Snow-Covered Mountain
+1 Desperate Ritual
+1 Pyretic Ritual
+2 Desperate Ritual
+2 Pyretic Ritual
+14 Mountain
+1 Blood Sun
+1 Radiant Fountain
+1 Forgotten Cave
+1 Valakut Awakening
+2 Blood Sun
+2 Radiant Fountain
+2 Forgotten Cave
+2 Valakut Awakening
+3 Blood Sun
+3 Radiant Fountain
+3 Forgotten Cave
+3 Valakut Awakening
+4 Blood Sun
+4 Radiant Fountain
+4 Forgotten Cave
+4 Valakut Awakening

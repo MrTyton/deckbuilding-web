@@ -1,19 +1,19 @@
-4 Omen of the Sea
+2 Heartless Act
+1 Wolfwillow Haven
+2 Wolfwillow Haven
+3 Wolfwillow Haven
 2 Fabled Passage
+3 Omen of the Sea
+4 Omen of the Sea
+1 Polukranos, Unchained
+4 Wolfwillow Haven
 1 Woodland Cemetery
 4 Overgrown Tomb
 1 Languish
 1 Castle Vantress
 1 The World Tree
 1 Golos, Tireless Pilgrim
-1 Polukranos, Unchained
-1 Eliminate
-2 Eliminate
-4 Wolfwillow Haven
-1 Heartless Act
-2 Heartless Act
 1 Commit/Memory
-1 Nissa, Who Shakes the World
 3 Cultivate
 4 Cultivate
 3 Fatal Push
@@ -42,50 +42,51 @@
 1 Sublime Epiphany
 1 Glasspool Mimic
 4 Fatal Push
+1 Hydroid Krasis
 1 Elspeth's Nightmare
 1 Deathcap Glade
 2 Deathcap Glade
 3 Deathcap Glade
-4 Deathcap Glade
 4 Shipwreck Marsh
+4 Deathcap Glade
 1 Baleful Mastery
 1 Temple of Malady
 1 Castle Locthwain
+1 Koma, Cosmos Serpent
 1 Supreme Will
 1 Pact of Negation
 2 Languish
 1 Power Word Kill
 1 Temple of Deceit
 1 Temple of Mystery
-1 Hydroid Krasis
 2 Power Word Kill
 2 Polukranos, Unchained
 2 Castle Locthwain
 3 Elder Gargaroth
 3 Eliminate
 3 Extinction Event
-1 Tamiyo, Compleated Sage
-1 March of Wretched Sorrow
-1 Sandwurm Convergence
-1 Jin-Gitaxias, Progress Tyrant
-1 Bala Ged Recovery
-1 Mnemonic Sphere
-2 Drowned Catacomb
-2 March of Wretched Sorrow
-2 Mnemonic Sphere
-3 Drowned Catacomb
-3 March of Wretched Sorrow
-4 March of Wretched Sorrow
-1 The Meathook Massacre
 1 Cling to Dust
+1 The Meathook Massacre
 1 Aether Gust
 2 The Meathook Massacre
 2 Woodland Cemetery
 3 The Meathook Massacre
 3 Hinterland Harbor
 3 Woodland Cemetery
-4 Woodland Cemetery
 4 Watery Grave
+4 Woodland Cemetery
+1 Tamiyo, Compleated Sage
+1 March of Wretched Sorrow
+1 Sandwurm Convergence
+1 Jin-Gitaxias, Progress Tyrant
+1 Bala Ged Recovery
+1 Mnemonic Sphere
+2 March of Wretched Sorrow
+2 Drowned Catacomb
+2 Mnemonic Sphere
+3 March of Wretched Sorrow
+3 Drowned Catacomb
+4 March of Wretched Sorrow
 1 Hullbreaker Horror
 1 Rimewood Falls
 1 Dreamroot Cascade
@@ -96,17 +97,17 @@
 1 Quandrix Apprentice
 1 Woodland Chasm
 1 Novice Occultist
-1 Haunted Ridge
 1 Cloudkin Seer
+1 Haunted Ridge
 2 Dreamroot Cascade
 2 Baleful Mastery
 2 Path of Peril
+2 Novice Occultist
 2 Quandrix Apprentice
 2 Cloudkin Seer
 2 Faerie Seer
 2 Woodland Chasm
 2 Zimone, Quandrix Prodigy
-2 Novice Occultist
 2 Haunted Ridge
 2 Rimewood Falls
 3 Dreamroot Cascade
@@ -122,6 +123,9 @@
 4 Quandrix Apprentice
 4 Faerie Seer
 4 Zimone, Quandrix Prodigy
+4 Forest
+5 Forest
+6 Forest
 1 Archon of Sun's Grace
 1 Unbridled Growth
 1 Emeria's Call
@@ -129,14 +133,14 @@
 1 Sanctum Weaver
 1 Cast Out
 1 Brightclimb Pathway
-1 Banishing Light
 1 Temple of Plenty
+1 Banishing Light
 1 Sigil of the Empty Throne
 1 Felidar Retreat
 1 Destiny Spinner
-1 Castle Ardenvale
 1 Temple Garden
 1 Godless Shrine
+1 Castle Ardenvale
 1 Elspeth Conquers Death
 1 Shatter the Sky
 1 Doomskar
@@ -152,8 +156,8 @@
 1 Plains
 1 The Birth of Meletis
 1 Indatha Triome
-2 Castle Ardenvale
 2 Unbridled Growth
+2 Castle Ardenvale
 2 Plains
 2 Omen of the Sun
 2 Cast Out
@@ -175,18 +179,40 @@
 3 Sythis, Harvest's Hand
 4 Destiny Spinner
 4 Plains
-4 Forest
-5 Forest
-6 Forest
-1 Triumphant Reckoning
+1 Path to the World Tree
+1 Boseiju, Who Endures
+1 Brazen Borrower
+1 Casualties of War
+1 Ugin, the Spirit Dragon
+1 Arboreal Grazer
+1 The Eldest Reborn
+1 Mass Manipulation
+1 Fae of Wishes
+1 Otawara, Soaring City
+1 Quandrix Cultivator
+2 Ugin, the Spirit Dragon
+2 Brazen Borrower
+2 Nissa, Who Shakes the World
+2 Casualties of War
+2 The Eldest Reborn
+2 Quandrix Cultivator
+2 Hydroid Krasis
+2 Mass Manipulation
+2 Arboreal Grazer
+3 Nissa, Who Shakes the World
+3 Hydroid Krasis
+3 Quandrix Cultivator
+3 The Eldest Reborn
+3 Arboreal Grazer
+7 Forest
 1 Verdant Rejuvenation
+1 Triumphant Reckoning
 2 Final Parting
 2 Scholar of the Lost Trove
 3 Final Parting
 4 Shadows' Verdict
 4 Final Parting
 1 Field of Ruin
-1 Koma, Cosmos Serpent
 1 Ritual of Soot
 1 Massacre Wurm
 2 Ritual of Soot
