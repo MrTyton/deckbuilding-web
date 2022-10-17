@@ -73,9 +73,9 @@
 1 Marsh Flats
 1 Raffine's Tower
 1 Lotus Bloom
-1 Bloodstained Mire
 1 Idyllic Tutor
 1 Overgrown Tomb
+1 Tamiyo, Compleated Sage
 1 Deceiver Exarch
 1 Blood Crypt
 1 Wargate
@@ -90,7 +90,7 @@
 1 Kiki-Jiki, Mirror Breaker
 1 Svyelun of Sea and Sky
 1 Neoform
-1 Tamiyo, Compleated Sage
+1 Bloodstained Mire
 1 Settle the Wreckage
 1 Deflecting Palm
 1 Abundant Harvest
@@ -202,12 +202,12 @@
 2 Sunpetal Grove
 2 Hedron Alignment
 2 Massive Raid
-3 Wooded Foothills
 3 Temple Garden
 3 Noble Hierarch
 3 Sacred Foundry
 3 Arid Mesa
 3 Explore
+3 Wooded Foothills
 3 Abundant Harvest
 3 Expressive Iteration
 3 Risen Reef
@@ -229,7 +229,6 @@
 4 Expressive Iteration
 4 Sacred Foundry
 4 Noble Hierarch
-4 Wooded Foothills
 4 Arid Mesa
 4 Temple Garden
 4 Teferi, Time Raveler
@@ -237,6 +236,7 @@
 4 Steam Vents
 4 Abundant Harvest
 4 Breeding Pool
+4 Wooded Foothills
 4 Battle of Wits
 4 Risen Reef
 4 Utopia Sprawl
@@ -288,8 +288,8 @@
 1 Electrolyze
 2 Lonely Sandbar
 2 Electrolyze
-1 Dovin's Veto
 1 Brokers Charm
+1 Dovin's Veto
 1 Lithoform Engine
 1 Zirda, the Dawnwaker
 1 Blue Sun's Zenith

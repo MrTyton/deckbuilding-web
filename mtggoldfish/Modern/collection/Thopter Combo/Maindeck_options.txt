@@ -1,18 +1,18 @@
 3 Goblin Engineer
+1 Talisman of Progress
+1 Darksteel Citadel
+2 Razortide Bridge
+1 Ingenious Smith
+2 Ingenious Smith
 1 Arid Mesa
 1 Sacred Foundry
 4 Goblin Engineer
-1 Darksteel Citadel
-1 Ingenious Smith
-2 Ingenious Smith
-1 Talisman of Progress
-2 Razortide Bridge
-1 Misty Rainforest
 2 Plains
-3 Scalding Tarn
-3 Hallowed Fountain
-4 Metallic Rebuke
 1 Raugrin Triome
+3 Scalding Tarn
+1 Misty Rainforest
+4 Metallic Rebuke
+3 Hallowed Fountain
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
@@ -24,39 +24,38 @@
 3 Emry, Lurker of the Loch
 4 Mishra's Bauble
 1 Eiganjo, Seat of the Empire
-1 Moonsnare Prototype
-2 Moonsnare Prototype
-1 Whir of Invention
-2 Whir of Invention
 2 Darksteel Citadel
 3 Ingenious Smith
-3 Teferi, Time Raveler
 1 Meria, Scholar of Antiquity
 1 Temple Garden
 1 Breeding Pool
 2 Meria, Scholar of Antiquity
 3 Meria, Scholar of Antiquity
-3 Whir of Invention
+3 Teferi, Time Raveler
+1 Moonsnare Prototype
+2 Moonsnare Prototype
+1 Whir of Invention
+2 Whir of Invention
 4 Scalding Tarn
-2 Misty Rainforest
-3 Moonsnare Prototype
-4 Moonsnare Prototype
+3 Whir of Invention
 1 Polluted Delta
 1 Hengegate Pathway
 2 Arid Mesa
 2 Chromatic Star
 4 Meria, Scholar of Antiquity
+2 Misty Rainforest
 4 Hallowed Fountain
+3 Moonsnare Prototype
+4 Moonsnare Prototype
 2 Sacred Foundry
 1 Spellskite
-1 Ensnaring Bridge
 2 Aether Spellbomb
 3 Aether Spellbomb
 1 Solitude
 2 Solitude
 3 Solitude
 4 Solitude
-3 Island
+1 Serra Paragon
 1 Pyrite Spellbomb
 1 Tameshi, Reality Architect
 1 Lotus Bloom
@@ -72,27 +71,25 @@
 1 Chalice of the Void
 1 Spire of Industry
 1 Prismatic Ending
+1 Ensnaring Bridge
 2 Spire of Industry
 2 Prismatic Ending
 3 Prismatic Ending
 1 Windswept Heath
-2 Spellskite
-2 Ensnaring Bridge
-3 Spellskite
+2 Springleaf Drum
 1 Welding Jar
 2 Polluted Delta
-2 Springleaf Drum
 1 Snow-Covered Plains
 1 Prismatic Vista
 2 Relic of Progenitus
 3 Darksteel Citadel
+3 Island
 4 Island
 4 Teferi, Time Raveler
 4 Darksteel Citadel
 1 Lightning Greaves
 1 Stomping Ground
 1 Marsh Flats
-1 Serra Paragon
 1 Inspiring Vantage
 2 Steam Vents
 2 Cavern of Souls
@@ -114,8 +111,11 @@
 1 Torpor Orb
 1 Engineered Explosives
 1 Raffine's Tower
+2 Spellskite
+2 Ensnaring Bridge
 2 Nihil Spellbomb
 3 Polluted Delta
+3 Spellskite
 3 Nihil Spellbomb
 1 Zagoth Triome
 1 Fable of the Mirror-Breaker
@@ -150,9 +150,3 @@
 3 Springleaf Drum
 4 Ingenious Smith
 4 Thought Monitor
-1 Mystic Forge
-3 Misty Rainforest
-3 Ensnaring Bridge
-4 Ensnaring Bridge
-4 Spellskite
-4 Whir of Invention

@@ -147,7 +147,7 @@
 |                    3|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)            |                     |                                                                                                 |
 |                    3|[Ranger-Captain of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463970)  |                     |                                                                                                 |
 |                    3|[Brought Back](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466763)           |                     |                                                                                                 |
-|                    4|[Ranger-Captain of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463970)  |                     |                                                                                                 |
 |                    4|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)            |                     |                                                                                                 |
+|                    4|[Ranger-Captain of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463970)  |                     |                                                                                                 |
 |                    4|[Brought Back](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466763)           |                     |                                                                                                 |
 
