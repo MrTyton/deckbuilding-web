@@ -93,7 +93,7 @@
 |                    4|[Sungold Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534795)           |                     |                                                                                                      |
 |                    4|[Intrepid Adversary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534781)         |                     |                                                                                                      |
 |                   21|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                      |
+|                   22|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                      |
 |                   23|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                      |
 |                   24|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                      |
-|                   22|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                      |
 

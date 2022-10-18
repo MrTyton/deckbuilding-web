@@ -44,8 +44,8 @@
 |                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                     |                                                                                       |
 |                    4|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)   |                     |                                                                                       |
 |                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                     |                                                                                       |
-|                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                     |                                                                                       |
+|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)     |                     |                                                                                       |
 |                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)    |                     |                                                                                       |
 |                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)    |                     |                                                                                       |
-|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)     |                     |                                                                                       |
+|                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                     |                                                                                       |
 
