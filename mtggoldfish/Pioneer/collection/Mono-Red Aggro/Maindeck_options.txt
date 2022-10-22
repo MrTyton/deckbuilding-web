@@ -1,23 +1,26 @@
-13 Mountain
 2 Wild Slash
+13 Mountain
 1 Eidolon of the Great Revel
 2 Eidolon of the Great Revel
 3 Eidolon of the Great Revel
 4 Eidolon of the Great Revel
 1 Kari Zev, Skyship Raider
 2 Kari Zev, Skyship Raider
+1 Lightning Strike
 1 Torbran, Thane of Red Fell
 2 Torbran, Thane of Red Fell
-1 Lightning Strike
 2 Lightning Strike
+3 Lightning Strike
 14 Mountain
 1 Goblin Chainwhirler
-3 Lightning Strike
 2 Goblin Chainwhirler
 4 Lightning Strike
+3 Goblin Chainwhirler
 1 Embercleave
 1 Castle Embereth
-3 Goblin Chainwhirler
+4 Goblin Chainwhirler
+1 Chandra, Torch of Defiance
+3 Kari Zev, Skyship Raider
 1 Anax, Hardened in the Forge
 2 Embercleave
 2 Anax, Hardened in the Forge
@@ -32,9 +35,6 @@
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
 4 Fanatical Firebrand
-3 Kari Zev, Skyship Raider
-4 Goblin Chainwhirler
-1 Chandra, Torch of Defiance
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
 15 Mountain
@@ -47,24 +47,24 @@
 3 Wizard's Lightning
 3 Ghitu Lavarunner
 4 Wizard's Lightning
-3 Rampaging Ferocidon
-3 Viashino Pyromancer
-4 Ghitu Lavarunner
-1 Ahn-Crop Crasher
 1 Inspiring Vantage
-1 Sacred Foundry
 1 Battlefield Forge
+1 Sacred Foundry
 1 Needleverge Pathway
 2 Inspiring Vantage
-2 Sacred Foundry
 2 Battlefield Forge
+2 Sacred Foundry
 2 Needleverge Pathway
 3 Sacred Foundry
 3 Inspiring Vantage
 3 Needleverge Pathway
-4 Needleverge Pathway
-4 Sacred Foundry
 4 Inspiring Vantage
+4 Sacred Foundry
+4 Needleverge Pathway
+3 Rampaging Ferocidon
+3 Viashino Pyromancer
+4 Ghitu Lavarunner
+1 Ahn-Crop Crasher
 2 Chandra, Torch of Defiance
 4 Rampaging Ferocidon
 1 Hazoret the Fervent
@@ -77,8 +77,8 @@
 2 Abbot of Keral Keep
 3 Abbot of Keral Keep
 4 Abbot of Keral Keep
-1 Defiler of Instinct
 1 Squee, Dubious Monarch
+1 Defiler of Instinct
 1 Nykthos, Shrine to Nyx
 1 Earthshaker Khenra
 2 Earthshaker Khenra

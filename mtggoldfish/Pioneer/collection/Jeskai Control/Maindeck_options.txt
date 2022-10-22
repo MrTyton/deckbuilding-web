@@ -15,9 +15,9 @@
 1 Sage of the Falls
 1 Omen of the Sea
 1 The Locust God
+2 Stormcarved Coast
 2 Chained to the Rocks
 2 Omen of the Sea
-2 Stormcarved Coast
 2 Secure the Wastes
 2 Fire Prophecy
 2 Omen of the Sun
@@ -32,6 +32,7 @@
 3 Indomitable Creativity
 3 Omen of the Sun
 3 Fire Prophecy
+4 Omen of the Sea
 4 Narset, Parter of Veils
 4 Sacred Foundry
 4 Stormcarved Coast
@@ -39,7 +40,6 @@
 4 Opt
 4 Indomitable Creativity
 4 Omen of the Sun
-4 Omen of the Sea
 1 Rest in Peace
 3 Dovin's Veto
 4 Dovin's Veto
@@ -64,26 +64,26 @@
 2 Blood Sun
 2 Memory Deluge
 2 Spirebluff Canal
-3 Valakut Awakening
 3 Lotus Field
+3 Valakut Awakening
 3 Blood Sun
-4 Valakut Awakening
 4 Lotus Field
+4 Valakut Awakening
 4 Blood Sun
 1 Discontinuity
 1 Fiery Impulse
-2 Settle the Wreckage
 2 Discontinuity
 2 Farewell
 2 Fiery Impulse
+2 Settle the Wreckage
+3 Memory Deluge
 3 Discontinuity
 3 Fiery Impulse
 3 Spirebluff Canal
-3 Memory Deluge
+4 Teferi, Hero of Dominaria
 4 Shark Typhoon
 4 Fiery Impulse
 4 Spirebluff Canal
-4 Teferi, Hero of Dominaria
 1 Dig Through Time
 1 Prismari Command
 1 Torrential Gearhulk
@@ -115,25 +115,25 @@
 1 Narset's Reversal
 1 Chandra, Awakened Inferno
 1 Sacred Fire
+2 Deserted Beach
 2 Clifftop Retreat
 2 Jwari Disruption
-2 Deserted Beach
 3 Clifftop Retreat
 4 March of Otherworldly Light
 1 Sphinx's Revelation
-1 Make Disappear
 1 Behold the Multiverse
+1 Make Disappear
 1 Field of Ruin
 2 Behold the Multiverse
 2 Field of Ruin
 2 Plains
 2 Make Disappear
 3 Make Disappear
+1 Inspiring Vantage
 1 Chandra, Torch of Defiance
 1 Disallow
-1 Inspiring Vantage
-2 Chandra, Torch of Defiance
 2 Inspiring Vantage
+2 Chandra, Torch of Defiance
 2 Disallow
 3 Fateful Absence
 3 Disallow

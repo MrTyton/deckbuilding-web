@@ -29,8 +29,8 @@
 2 Ephemerate
 3 Ephemerate
 3 Windswept Heath
-1 Eternal Witness
 1 Soulherder
+1 Eternal Witness
 2 Eternal Witness
 4 Ephemerate
 1 Noble Hierarch
@@ -45,8 +45,8 @@
 1 Subtlety
 1 Eiganjo, Seat of the Empire
 1 Day's Undoing
-1 Narset, Parter of Veils
 1 Geier Reach Sanitarium
+1 Narset, Parter of Veils
 2 Day's Undoing
 2 Narset, Parter of Veils
 2 Subtlety
@@ -96,14 +96,14 @@
 1 Skyclave Apparition
 2 Skyclave Apparition
 2 Charming Prince
-3 Skyclave Apparition
 3 Charming Prince
+3 Skyclave Apparition
 4 Force of Negation
-1 Collected Company
-1 Glasspool Mimic
 1 Wall of Blossoms
-2 Collected Company
+1 Glasspool Mimic
+1 Collected Company
 2 Glasspool Mimic
+2 Collected Company
 3 Wall of Omens
 3 Collected Company
 4 Wall of Omens
@@ -123,8 +123,8 @@
 4 Supreme Verdict
 1 Glacial Fortress
 1 Field of Ruin
-2 Celestial Colonnade
 2 Field of Ruin
+2 Celestial Colonnade
 5 Island
 5 Snow-Covered Island
 2 Plains
@@ -138,35 +138,29 @@
 4 Leyline Binding
 4 Opt
 1 Vesperlark
-1 Stoneforge Mystic
-1 Kaldra Compleat
-1 Spell Queller
 1 Batterskull
+1 Kaldra Compleat
+1 Stoneforge Mystic
+1 Spell Queller
 2 Stoneforge Mystic
 2 Spell Queller
 3 Stoneforge Mystic
+1 Prairie Stream
+3 Prismatic Vista
+4 Windswept Heath
+4 Prismatic Vista
 1 Restoration Angel
 1 Vendilion Clique
 1 Omen of the Sea
 1 Qasali Ambusher
 2 Restoration Angel
-2 Vendilion Clique
 2 Omen of the Sea
+2 Vendilion Clique
 2 Qasali Ambusher
 3 Restoration Angel
 3 Scalding Tarn
 3 Omen of the Sea
 4 Scalding Tarn
-1 Prairie Stream
-3 Prismatic Vista
-4 Windswept Heath
-4 Prismatic Vista
-3 Polluted Delta
-3 Memory Deluge
-3 Hall of Storm Giants
-4 Polluted Delta
-4 Chalice of the Void
-6 Snow-Covered Island
 1 Emrakul, the Promised End
 2 Glacial Fortress
 2 Emrakul, the Promised End
@@ -177,14 +171,20 @@
 4 Field of Ruin
 4 Fire/Ice
 6 Island
+3 Polluted Delta
+3 Memory Deluge
+3 Hall of Storm Giants
+4 Polluted Delta
+4 Chalice of the Void
+6 Snow-Covered Island
 1 Serra Paragon
 1 Dovin's Veto
 1 Consider
 2 Shark Typhoon
 3 Day's Undoing
 3 Subtlety
-1 Sword of Fire and Ice
 1 Lion Sash
+1 Sword of Fire and Ice
 3 Spell Queller
 4 Stoneforge Mystic
 1 Sword of Feast and Famine

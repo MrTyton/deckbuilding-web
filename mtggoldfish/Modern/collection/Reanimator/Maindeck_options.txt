@@ -1,10 +1,10 @@
 1 Hallowed Fountain
 1 Prismatic Ending
 2 Prismatic Ending
-3 Bloodstained Mire
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 1 Island
+3 Bloodstained Mire
 1 Priest of Fell Rites
 1 Faithful Mending
 1 Verdant Catacombs
@@ -15,37 +15,37 @@
 2 Concealed Courtyard
 3 Prismatic Ending
 2 Priest of Fell Rites
-2 Verdant Catacombs
+1 Serra's Emissary
 1 Glacial Fortress
 2 Flooded Strand
-1 Serra's Emissary
+2 Verdant Catacombs
 3 Priest of Fell Rites
+3 Faithful Mending
+4 Faithful Mending
 1 Thoughtseize
 2 Thoughtseize
 3 Verdant Catacombs
 3 Thoughtseize
-3 Faithful Mending
-4 Faithful Mending
 4 Bloodstained Mire
 4 Priest of Fell Rites
 1 Blood Crypt
 1 Seasoned Pyromancer
 1 Blackcleave Cliffs
+1 Arid Mesa
 1 Savai Triome
 1 Mountain
-1 Arid Mesa
 1 Fury
 1 Fable of the Mirror-Breaker
 1 Sacred Foundry
 2 Blood Crypt
-2 Fury
 2 Seasoned Pyromancer
+2 Fury
 2 Blackcleave Cliffs
 2 Arid Mesa
 2 Fable of the Mirror-Breaker
 3 Arid Mesa
-3 Fury
 3 Seasoned Pyromancer
+3 Fury
 3 Blackcleave Cliffs
 3 Fable of the Mirror-Breaker
 4 Seasoned Pyromancer
@@ -70,43 +70,12 @@
 4 Arid Mesa
 4 Teferi, Time Raveler
 4 Prismatic Ending
-4 Verdant Catacombs
 1 Darkslick Shores
 1 Silent Clearing
-1 Urborg, Tomb of Yawgmoth
 1 Kaito Shizuki
+4 Verdant Catacombs
 1 Bone Shards
 1 Malakir Rebirth
-4 Thoughtseize
-2 Urborg, Tomb of Yawgmoth
-1 Takenuma, Abandoned Mire
-1 Fatal Push
-1 Cling to Dust
-1 Bloodchief's Thirst
-1 Cascading Cataracts
-1 Expedition Map
-1 Profane Tutor
-1 Golos, Tireless Pilgrim
-1 Cabal Coffers
-1 Blast Zone
-1 Castle Locthwain
-2 Bloodchief's Thirst
-2 Golos, Tireless Pilgrim
-2 Expedition Map
-2 Cabal Coffers
-2 Profane Tutor
-2 Castle Locthwain
-3 Swamp
-3 Cabal Coffers
-3 Expedition Map
-3 Profane Tutor
-3 Golos, Tireless Pilgrim
-4 Expedition Map
-4 Swamp
-4 Profane Tutor
-4 Cabal Coffers
-4 Golos, Tireless Pilgrim
-5 Swamp
 1 Seachrome Coast
 1 Consider
 2 Consider
@@ -116,30 +85,33 @@
 4 Godless Shrine
 1 Otherworldly Gaze
 2 Otherworldly Gaze
+4 Thoughtseize
+1 Founding the Third Path
+2 Founding the Third Path
+3 Founding the Third Path
+4 Founding the Third Path
+1 Urborg, Tomb of Yawgmoth
 2 Unburial Rites
 4 Unlicensed Hearse
+2 Urborg, Tomb of Yawgmoth
 2 Bone Shards
 1 Drowned Catacomb
 1 Xander's Lounge
 1 Kaya, Orzhov Usurper
 1 Ziatora's Proving Ground
+1 Elesh Norn, Grand Cenobite
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
-1 Bojuka Bog
-1 Inquisition of Kozilek
-1 Tourach, Dread Cantor
-2 Fatal Push
-2 Tourach, Dread Cantor
-1 Blood Fountain
-2 Blood Fountain
-2 Malakir Rebirth
 1 Counterspell
 1 Isolated Chapel
 1 Gifts Ungiven
-2 Silent Clearing
 2 Glacial Fortress
-2 Serra's Emissary
+2 Silent Clearing
 2 Counterspell
+2 Serra's Emissary
+1 Blood Fountain
+2 Blood Fountain
+2 Malakir Rebirth
 1 Adarkar Wastes
 1 Hengegate Pathway
 1 Undying Evil
@@ -154,47 +126,39 @@
 2 Dovin's Veto
 3 Dovin's Veto
 4 Watery Grave
-4 Flooded Strand
-1 Liliana of the Veil
-3 Bloodchief's Thirst
-3 Urborg, Tomb of Yawgmoth
-4 Bloodchief's Thirst
 1 Flagstones of Trokair
-1 Founding the Third Path
 1 Spell Pierce
 1 Lingering Souls
 1 Smallpox
 1 See the Truth
-2 Flagstones of Trokair
 2 Spell Pierce
-2 Founding the Third Path
+2 Flagstones of Trokair
 2 Lingering Souls
 2 Smallpox
 3 Flagstones of Trokair
-3 Founding the Third Path
 3 Lingering Souls
 3 Smallpox
 4 Flagstones of Trokair
 4 Smallpox
-4 Founding the Third Path
+4 Flooded Strand
 1 Branchloft Pathway
+1 Nurturing Peatland
 1 Overgrown Tomb
 1 Grisly Salvage
 1 Indatha Triome
-1 Satyr Wayfinder
 1 Siege Rhino
+1 Satyr Wayfinder
 1 Temple Garden
 1 Hissing Quagmire
-1 Nurturing Peatland
 1 Eternal Witness
 1 Ashen Rider
 1 Forest
 1 Shambling Vent
-2 Overgrown Tomb
 2 Forest
 2 Branchloft Pathway
 2 Temple Garden
 2 Satyr Wayfinder
+2 Overgrown Tomb
 2 Grisly Salvage
 2 Siege Rhino
 2 Ashen Rider
@@ -207,9 +171,9 @@
 4 Bone Shards
 4 Satyr Wayfinder
 1 The Underworld Cookbook
+1 Barren Moor
 1 Shadowspear
 1 Urza's Saga
-1 Barren Moor
 1 Nihil Spellbomb
 1 Ovalchase Daredevil
 1 Asmoranomardicadaistinaculdacar
@@ -231,3 +195,35 @@
 2 March of Otherworldly Light
 3 Otherworldly Gaze
 4 Otherworldly Gaze
+1 Blast Zone
+1 Takenuma, Abandoned Mire
+1 Fatal Push
+1 Cling to Dust
+1 Bloodchief's Thirst
+1 Liliana of the Veil
+1 Cascading Cataracts
+1 Expedition Map
+1 Profane Tutor
+1 Golos, Tireless Pilgrim
+1 Cabal Coffers
+1 Castle Locthwain
+2 Bloodchief's Thirst
+2 Golos, Tireless Pilgrim
+2 Expedition Map
+2 Cabal Coffers
+2 Profane Tutor
+2 Castle Locthwain
+3 Swamp
+3 Cabal Coffers
+3 Bloodchief's Thirst
+3 Expedition Map
+3 Profane Tutor
+3 Golos, Tireless Pilgrim
+3 Urborg, Tomb of Yawgmoth
+4 Expedition Map
+4 Bloodchief's Thirst
+4 Swamp
+4 Profane Tutor
+4 Cabal Coffers
+4 Golos, Tireless Pilgrim
+5 Swamp

@@ -22,8 +22,8 @@
 1 Watery Grave
 1 Death's Shadow
 1 Steam Vents
-2 Watery Grave
 2 Death's Shadow
+2 Watery Grave
 3 Death's Shadow
 4 Hymn to Tourach
 1 Misty Rainforest
@@ -51,11 +51,11 @@
 1 Jace, Vryn's Prodigy
 2 Jace, Vryn's Prodigy
 1 Unearth
-1 Temporal Mastery
 1 Cavern of Souls
 1 Doomsday
 1 Thassa's Oracle
 1 Consider
+1 Temporal Mastery
 2 Doomsday
 2 Temporal Mastery
 3 Lotus Petal
@@ -85,12 +85,6 @@
 2 Reanimate
 1 Snow-Covered Island
 3 Ob Nixilis, the Adversary
-1 Gurmag Angler
-1 Angrath's Rampage
-2 Gurmag Angler
-2 Angrath's Rampage
-3 Gurmag Angler
-3 Angrath's Rampage
 1 True-Name Nemesis
 1 Sudden Edict
 1 Swamp
@@ -98,8 +92,12 @@
 2 True-Name Nemesis
 2 Sudden Edict
 3 Sudden Edict
-3 Ragavan, Nimble Pilferer
-4 Ragavan, Nimble Pilferer
+1 Gurmag Angler
+1 Angrath's Rampage
+2 Gurmag Angler
+2 Angrath's Rampage
+3 Angrath's Rampage
+3 Gurmag Angler
 1 Spell Pierce
 1 Spell Snare
 1 Chain Lightning
@@ -108,9 +106,11 @@
 3 Preordain
 3 Young Pyromancer
 4 Young Pyromancer
+3 Ragavan, Nimble Pilferer
+4 Ragavan, Nimble Pilferer
 4 Stifle
-1 Ox of Agonas
 1 Malevolent Hermit
+1 Ox of Agonas
 1 Cabal Therapy
 1 Dark Ritual
 1 Arclight Phoenix
