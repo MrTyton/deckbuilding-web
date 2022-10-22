@@ -1,27 +1,32 @@
+1 Deadly Brew
+2 Deadly Brew
 4 Chain of Smog
 1 Kalitas, Traitor of Ghet
-1 Field of the Dead
+1 Assassin's Trophy
+1 Primeval Titan
 1 Phyrexian Tower
 1 Tropical Island
 1 Misty Rainforest
 1 Uro, Titan of Nature's Wrath
 2 Misty Rainforest
-1 Assassin's Trophy
+3 Deadly Brew
+1 Mountain
+1 Greater Gargadon
+1 Titania, Protector of Argoth
+2 Greater Gargadon
+3 Greater Gargadon
 1 Scavenging Ooze
+2 Assassin's Trophy
 2 Uro, Titan of Nature's Wrath
 1 Thoughtseize
-1 Snow-Covered Mountain
-2 Assassin's Trophy
-1 Primeval Titan
-3 Deadly Brew
-2 Thoughtseize
-1 Island
 1 Once Upon a Time
 2 Once Upon a Time
-3 Assassin's Trophy
+1 Island
 3 Once Upon a Time
+3 Assassin's Trophy
 1 Witherbloom Command
 2 Witherbloom Command
+2 Thoughtseize
 1 Overgrown Tomb
 1 Painful Truths
 1 Memorial to Folly
@@ -35,20 +40,23 @@
 2 Valakut, the Molten Pinnacle
 3 Valakut, the Molten Pinnacle
 3 Dryad of the Ilysian Grove
-2 Snow-Covered Swamp
 1 Ancient Tomb
-1 Pernicious Deed
-2 Pernicious Deed
+1 Terror of the Peaks
+2 Snow-Covered Swamp
 3 Forest
-1 Mountain
-1 Sylvan Library
-1 Greater Gargadon
-1 Titania, Protector of Argoth
-2 Greater Gargadon
-3 Greater Gargadon
 1 Reclamation Sage
 3 Primeval Titan
+1 Sylvan Library
+1 Pernicious Deed
+2 Pernicious Deed
 1 Abrupt Decay
+1 Eternal Witness
+1 Minsc & Boo, Timeless Heroes
+1 Mayhem Devil
+1 Badlands
+2 Mayhem Devil
+3 Mayhem Devil
+1 Polluted Delta
 1 Ice-Fang Coatl
 1 Snow-Covered Island
 1 Underground Sea
@@ -57,47 +65,39 @@
 2 Brainstorm
 3 Misty Rainforest
 3 Ice-Fang Coatl
-1 Polluted Delta
-1 Eternal Witness
-1 Leovold, Emissary of Trest
-3 Uro, Titan of Nature's Wrath
-3 Brainstorm
-4 Misty Rainforest
-4 Brainstorm
-1 Terror of the Peaks
-1 Mayhem Devil
-1 Badlands
-2 Mayhem Devil
-3 Mayhem Devil
 1 Wasteland
 2 Karakas
 1 Henrika Domnathi
-3 Snow-Covered Forest
+1 Leovold, Emissary of Trest
+3 Uro, Titan of Nature's Wrath
 1 Ponder
-1 Windswept Heath
+3 Brainstorm
+4 Misty Rainforest
+4 Brainstorm
+3 Boseiju, Who Endures
 1 Nurturing Peatland
+1 Windswept Heath
+1 Fable of the Mirror-Breaker
+2 Minsc & Boo, Timeless Heroes
+2 Fable of the Mirror-Breaker
+3 Minsc & Boo, Timeless Heroes
+1 Prismatic Vista
 2 Abrupt Decay
 2 Titania, Protector of Argoth
 4 Greater Gargadon
 4 Mayhem Devil
-1 Minsc & Boo, Timeless Heroes
 1 Tireless Tracker
 3 Pernicious Deed
 2 Sylvan Library
 2 Polluted Delta
 2 Tropical Island
-1 Village Rites
-2 Snow-Covered Island
 2 Ponder
 3 Ponder
+3 Snow-Covered Forest
 1 Vesuva
-3 Boseiju, Who Endures
+2 Taiga
 2 Snow-Covered Mountain
 4 Deadly Brew
-1 Fable of the Mirror-Breaker
-2 Minsc & Boo, Timeless Heroes
-2 Fable of the Mirror-Breaker
-3 Minsc & Boo, Timeless Heroes
 3 Fable of the Mirror-Breaker
 4 Wooded Foothills
 1 Feign Death
@@ -106,14 +106,14 @@
 4 Feign Death
 1 Fury
 2 Fury
-1 Prismatic Vista
 1 Collector Ouphe
-1 Living Wish
 1 Acererak the Archlich
 1 Force of Will
 1 Aluren
-2 Living Wish
+1 Living Wish
+2 Snow-Covered Island
 2 Force of Will
+2 Living Wish
 2 Aluren
 3 Living Wish
 3 Snow-Covered Island
@@ -128,14 +128,14 @@
 1 Spellseeker
 4 Ponder
 1 Diabolic Intent
-1 Allosaurus Shepherd
-1 Savannah
-1 Knight of Autumn
-1 Shifting Ceratops
 2 Grist, the Hunger Tide
 3 Swamp
 4 Forest
+1 Savannah
+1 Knight of Autumn
+1 Shifting Ceratops
 1 Liliana, the Last Hope
+1 Village Rites
 3 Snow-Covered Swamp
 1 Arena Rector
 1 Ugin, the Spirit Dragon
@@ -144,12 +144,10 @@
 2 Arena Rector
 3 Arena Rector
 1 Snow-Covered Plains
-2 Village Rites
-4 Snow-Covered Forest
 1 Waterlogged Grove
 1 Natural Order
-2 Taiga
 1 Path to Exile
+1 Allosaurus Shepherd
 1 Flooded Strand
 1 Paradox Zone
 2 Path to Exile
@@ -198,13 +196,6 @@
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 4 Karn, the Great Creator
-1 Carnage Tyrant
-1 Xanathar, Guild Kingpin
-1 Koma, Cosmos Serpent
-1 The Scarab God
-2 Leovold, Emissary of Trest
-2 Allosaurus Shepherd
-4 Ice-Fang Coatl
 1 Fatal Push
 1 Sylvan Safekeeper
 1 Abundant Harvest
@@ -218,8 +209,8 @@
 1 Dead of Winter
 1 Bojuka Bog
 1 Kaya, Orzhov Usurper
-1 Crop Rotation
 1 Duress
+1 Crop Rotation
 1 Garruk, Cursed Huntsman
 1 Fiend Artisan
 1 Vraska, Golgari Queen
@@ -228,5 +219,7 @@
 2 Snow-Covered Plains
 2 Crop Rotation
 2 Dead of Winter
+2 Village Rites
+4 Snow-Covered Forest
 4 Arena Rector
 5 Snow-Covered Forest

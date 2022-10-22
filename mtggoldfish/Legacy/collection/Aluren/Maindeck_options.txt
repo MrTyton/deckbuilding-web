@@ -1,17 +1,19 @@
-1 Living Wish
-2 Living Wish
+3 Abrupt Decay
 3 Endurance
 1 Prismatic Vista
+3 Verdant Catacombs
 1 Savannah
 1 Recruiter of the Guard
 2 Recruiter of the Guard
 3 Recruiter of the Guard
 1 Tundra
+1 Aether Channeler
 3 Living Wish
 1 Arctic Merfolk
 4 Recruiter of the Guard
 2 Prismatic Vista
-1 Aether Channeler
+1 Leovold, Emissary of Trest
+4 Polluted Delta
 1 Shardless Agent
 2 Shardless Agent
 1 Force of Negation
@@ -25,10 +27,8 @@
 2 Teferi, Time Raveler
 4 Swords to Plowshares
 3 Prismatic Vista
-1 Leovold, Emissary of Trest
+2 Aether Channeler
 1 Parasitic Strix
-4 Polluted Delta
-3 Birds of Paradise
 1 Brazen Borrower
 1 Boseiju, Who Endures
 1 Prismatic Ending
@@ -38,20 +38,19 @@
 4 Prismatic Vista
 1 Noble Hierarch
 1 Ukkima, Stalking Shadow
-2 Aether Channeler
 1 Flooded Strand
 1 Carpet of Flowers
 3 Shardless Agent
+3 Birds of Paradise
 2 Underground Sea
 2 Noble Hierarch
 2 Brazen Borrower
-4 Uro, Titan of Nature's Wrath
 1 Cabal Therapy
 2 Cabal Therapy
 3 Cabal Therapy
 1 Eternal Witness
-4 Birds of Paradise
 2 Force of Negation
+4 Uro, Titan of Nature's Wrath
 1 Barrin, Tolarian Archmage
 1 Academy Rector
 1 Veteran Explorer
@@ -60,9 +59,9 @@
 1 Abundant Growth
 2 Abundant Growth
 3 Windswept Heath
+4 Birds of Paradise
 1 Dryad Arbor
 1 Green Sun's Zenith
-2 Bayou
 1 Wooded Foothills
 1 Taiga
 2 Wooded Foothills
@@ -74,9 +73,6 @@
 2 Flooded Strand
 3 Leyline Binding
 1 Sylvan Library
-2 Grist, the Hunger Tide
-2 Acererak the Archlich
-3 Grist, the Hunger Tide
 1 Volcanic Island
 1 Snow-Covered Mountain
 1 Expressive Iteration
@@ -92,6 +88,8 @@
 3 Expressive Iteration
 4 Expressive Iteration
 4 Verdant Catacombs
+1 Fatal Push
+2 Bayou
 1 Forest
 1 Island
 1 Swamp
@@ -113,9 +111,14 @@
 1 Snuff Out
 2 Snuff Out
 3 Forest
-1 Fatal Push
 2 Green Sun's Zenith
 3 Green Sun's Zenith
+1 Tear Asunder
+2 Fatal Push
+3 Aether Channeler
+2 Grist, the Hunger Tide
+2 Acererak the Archlich
+3 Grist, the Hunger Tide
 1 Raugrin Triome
 1 Shadow Prophecy
 1 Mystic Sanctuary
