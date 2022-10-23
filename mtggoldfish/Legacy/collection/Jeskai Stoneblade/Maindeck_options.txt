@@ -1,17 +1,17 @@
+1 True-Name Nemesis
 1 Umezawa's Jitte
-1 Mystic Sanctuary
 1 Pyroblast
 3 Volcanic Island
 1 Misty Rainforest
+1 Ethereal Forager
+2 Ethereal Forager
+3 Ethereal Forager
 1 Stifle
 2 True-Name Nemesis
 2 Stifle
 3 True-Name Nemesis
 3 Stifle
 4 Stifle
-1 Ethereal Forager
-2 Ethereal Forager
-3 Ethereal Forager
 1 Snow-Covered Island
 1 Prismatic Vista
 2 Prismatic Vista
@@ -41,6 +41,7 @@
 3 Esper Sentinel
 4 Esper Sentinel
 4 Murktide Regent
+4 Tundra
 1 Snow-Covered Mountain
 2 Snow-Covered Island
 2 Snow-Covered Plains
@@ -54,7 +55,6 @@
 6 Island
 5 Snow-Covered Island
 6 Snow-Covered Island
-4 Tundra
 1 Dragon's Rage Channeler
 2 Dragon's Rage Channeler
 3 Dragon's Rage Channeler
@@ -101,6 +101,7 @@
 1 Supreme Verdict
 2 Timeless Dragon
 2 Dress Down
+4 Volcanic Island
 1 Red Elemental Blast
 2 Misty Rainforest
 2 Red Elemental Blast

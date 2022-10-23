@@ -115,18 +115,6 @@
 3 Flooded Strand
 3 Thought Monitor
 4 Flooded Strand
-1 Savai Triome
-1 Voldaren Epicure
-1 Smuggler's Copter
-2 Arid Mesa
-2 Voldaren Epicure
-2 Smuggler's Copter
-2 Savai Triome
-2 Marsh Flats
-3 Voldaren Epicure
-3 Smuggler's Copter
-3 Marsh Flats
-4 Voldaren Epicure
 1 Pyrite Spellbomb
 1 Spirebluff Canal
 2 Spirebluff Canal
@@ -146,6 +134,18 @@
 4 Blackcleave Cliffs
 4 Power Conduit
 4 Fable of the Mirror-Breaker
+1 Savai Triome
+1 Voldaren Epicure
+1 Smuggler's Copter
+2 Arid Mesa
+2 Voldaren Epicure
+2 Smuggler's Copter
+2 Savai Triome
+2 Marsh Flats
+3 Voldaren Epicure
+3 Smuggler's Copter
+3 Marsh Flats
+4 Voldaren Epicure
 1 Blood Fountain
 2 Blood Fountain
 3 Blood Fountain
@@ -159,8 +159,8 @@
 1 Walking Ballista
 1 Stoneforge Mystic
 1 Kaldra Compleat
-1 Luxior, Giada's Gift
 1 Sunbaked Canyon
+1 Luxior, Giada's Gift
 1 Giver of Runes
 1 Vizier of Remedies
 1 Wrenn and Six
@@ -194,15 +194,15 @@
 1 The Raven Man
 1 Sokenzan, Crucible of Defiance
 1 Braids, Arisen Nightmare
-1 Plaza of Heroes
 1 Kroxa, Titan of Death's Hunger
+1 Plaza of Heroes
 1 Shizo, Death's Storehouse
 1 Grief
 2 Kroxa, Titan of Death's Hunger
 2 The Raven Man
-2 Plaza of Heroes
 2 Inquisition of Kozilek
 2 Mox Amber
+2 Plaza of Heroes
 2 Grief
 3 Inquisition of Kozilek
 3 Plaza of Heroes
@@ -210,6 +210,6 @@
 3 Mox Amber
 3 The Raven Man
 4 Inquisition of Kozilek
-4 Plaza of Heroes
 4 Swamp
+4 Plaza of Heroes
 4 Grief
