@@ -59,7 +59,7 @@
 |                    4|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)        |                    2|[Ingenious Smith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527308)        |
 |                    1|[Mother of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430236)    |                    3|[Ingenious Smith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527308)        |
 |                    2|[Mother of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430236)    |                     |                                                                                                  |
-|                    3|[Enlightened Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15355)   |                     |                                                                                                  |
-|                    4|[Enlightened Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15355)   |                     |                                                                                                  |
 |                    7|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)|                     |                                                                                                  |
+|                    4|[Enlightened Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15355)   |                     |                                                                                                  |
+|                    3|[Enlightened Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15355)   |                     |                                                                                                  |
 

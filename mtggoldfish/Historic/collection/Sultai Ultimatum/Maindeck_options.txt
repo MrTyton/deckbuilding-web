@@ -1,60 +1,55 @@
-2 Heartless Act
-1 Wolfwillow Haven
-2 Wolfwillow Haven
-3 Wolfwillow Haven
 2 Fabled Passage
-3 Omen of the Sea
-4 Omen of the Sea
 1 Polukranos, Unchained
 4 Wolfwillow Haven
+3 Omen of the Sea
+4 Omen of the Sea
+1 Cultivate
+2 Cultivate
 1 Woodland Cemetery
+3 Breeding Pool
+4 Breeding Pool
 4 Overgrown Tomb
 1 Languish
-1 The World Tree
 1 Golos, Tireless Pilgrim
+1 The World Tree
 1 Castle Vantress
 1 Commit/Memory
-3 Cultivate
-4 Cultivate
 3 Fatal Push
-3 Shadows' Verdict
-1 Drowned Catacomb
 1 Fetid Pools
 2 Golos, Tireless Pilgrim
+1 Drowned Catacomb
+3 Cultivate
+4 Cultivate
 2 Castle Vantress
-1 Omniscience
-1 Scholar of the Lost Trove
-1 Final Parting
-1 Thought Distortion
 1 Planewide Celebration
+1 Thought Distortion
 3 Fabled Passage
 3 Migration Path
 1 Professor Onyx
+3 Shadows' Verdict
+2 Elder Gargaroth
+3 Swamp
+1 Hinterland Harbor
+2 Hinterland Harbor
+1 Search for Azcanta
+1 Omniscience
+1 Sublime Epiphany
+1 Scholar of the Lost Trove
+1 Glasspool Mimic
+1 Final Parting
 1 Shipwreck Marsh
 2 Shipwreck Marsh
 3 Shipwreck Marsh
-1 Hinterland Harbor
-2 Hinterland Harbor
-2 Elder Gargaroth
-3 Swamp
-1 Search for Azcanta
-1 Mastermind's Acquisition
-1 Sublime Epiphany
-1 Glasspool Mimic
 4 Fatal Push
 1 Hydroid Krasis
 1 Elspeth's Nightmare
-1 Deathcap Glade
-2 Deathcap Glade
-3 Deathcap Glade
-4 Shipwreck Marsh
-4 Deathcap Glade
-1 Baleful Mastery
 1 Temple of Malady
 1 Castle Locthwain
+1 Baleful Mastery
 1 Koma, Cosmos Serpent
-1 Supreme Will
 1 Pact of Negation
+1 Supreme Will
+1 Mastermind's Acquisition
 2 Languish
 1 Power Word Kill
 1 Temple of Deceit
@@ -63,11 +58,11 @@
 2 Power Word Kill
 2 Polukranos, Unchained
 3 Elder Gargaroth
-3 Eliminate
 3 Extinction Event
+3 Eliminate
 1 Cling to Dust
-1 The Meathook Massacre
 1 Aether Gust
+1 The Meathook Massacre
 2 Woodland Cemetery
 2 The Meathook Massacre
 3 Woodland Cemetery
@@ -88,8 +83,8 @@
 3 Drowned Catacomb
 4 March of Wretched Sorrow
 1 Haunted Ridge
-1 Hullbreaker Horror
 1 Rimewood Falls
+1 Hullbreaker Horror
 1 Dreamroot Cascade
 1 Path of Peril
 1 Liliana, Death's Majesty
@@ -98,9 +93,11 @@
 1 Quandrix Apprentice
 1 Woodland Chasm
 1 Novice Occultist
+1 Deathcap Glade
 1 Cloudkin Seer
 2 Haunted Ridge
 2 Dreamroot Cascade
+2 Deathcap Glade
 2 Baleful Mastery
 2 Path of Peril
 2 Novice Occultist
@@ -112,15 +109,18 @@
 2 Rimewood Falls
 3 Dreamroot Cascade
 3 Novice Occultist
+3 Deathcap Glade
 3 Cloudkin Seer
 3 Baleful Mastery
 3 Quandrix Apprentice
 3 Faerie Seer
 3 Zimone, Quandrix Prodigy
 4 Dreamroot Cascade
+4 Deathcap Glade
 4 Novice Occultist
 4 Cloudkin Seer
 4 Quandrix Apprentice
+4 Shipwreck Marsh
 4 Faerie Seer
 4 Zimone, Quandrix Prodigy
 4 Forest
@@ -128,9 +128,10 @@
 6 Forest
 1 Archon of Sun's Grace
 1 Unbridled Growth
-1 Emeria's Call
 1 Doomskar
+1 Emeria's Call
 1 Omen of the Sun
+1 Destiny Spinner
 1 Elspeth Conquers Death
 1 Sanctum Weaver
 1 Cast Out
@@ -141,21 +142,20 @@
 1 Felidar Retreat
 1 The Birth of Meletis
 1 Plains
-1 Branchloft Pathway
-1 Destiny Spinner
 1 Shatter the Sky
 1 Castle Ardenvale
 1 Crawling Barrens
+1 Indatha Triome
 1 Oath of Kaya
 1 Sythis, Harvest's Hand
 1 Temple Garden
+1 Branchloft Pathway
 1 Godless Shrine
 1 Sterling Grove
 1 Yorion, Sky Nomad
 1 Temple of Silence
 1 Shark Typhoon
 1 Bojuka Bog
-1 Indatha Triome
 2 Unbridled Growth
 2 Omen of the Sun
 2 Cast Out
@@ -163,8 +163,8 @@
 2 Banishing Light
 2 The Birth of Meletis
 2 Plains
-2 Bojuka Bog
 2 Destiny Spinner
+2 Bojuka Bog
 2 Sythis, Harvest's Hand
 2 Sanctum Weaver
 2 Oath of Kaya
@@ -179,8 +179,8 @@
 3 Sythis, Harvest's Hand
 4 Destiny Spinner
 4 Plains
-1 Boseiju, Who Endures
 1 Path to the World Tree
+1 Boseiju, Who Endures
 1 Brazen Borrower
 1 Casualties of War
 1 Ugin, the Spirit Dragon
@@ -190,31 +190,24 @@
 1 Fae of Wishes
 1 Otawara, Soaring City
 1 Quandrix Cultivator
-2 Ugin, the Spirit Dragon
 2 Brazen Borrower
-2 Nissa, Who Shakes the World
 2 Casualties of War
 2 The Eldest Reborn
 2 Quandrix Cultivator
+2 Ugin, the Spirit Dragon
 2 Hydroid Krasis
+2 Nissa, Who Shakes the World
 2 Mass Manipulation
 2 Arboreal Grazer
-3 Nissa, Who Shakes the World
 3 Hydroid Krasis
 3 Quandrix Cultivator
 3 The Eldest Reborn
 3 Arboreal Grazer
+3 Nissa, Who Shakes the World
 7 Forest
-1 Verdant Rejuvenation
-1 Triumphant Reckoning
-2 Final Parting
-2 Scholar of the Lost Trove
-3 Final Parting
-4 Shadows' Verdict
-4 Final Parting
 1 Field of Ruin
-1 Ritual of Soot
 1 Massacre Wurm
+1 Ritual of Soot
 2 Ritual of Soot
 2 Liliana, Dreadhorde General
 3 Thoughtseize

@@ -1,7 +1,7 @@
-1 Knight of Autumn
-1 Yorion, Sky Nomad
-1 Enigmatic Incarnation
+1 Nylea's Presence
 1 Spirited Companion
+1 Knight of Autumn
+1 Omen of the Sea
 2 Omen of the Sea
 2 Nylea's Presence
 2 Enigmatic Incarnation
@@ -73,8 +73,8 @@
 1 Eldrazi Displacer
 1 Yavimaya Coast
 1 Adarkar Wastes
-2 Adarkar Wastes
 2 Yavimaya Coast
+2 Adarkar Wastes
 3 Adarkar Wastes
 3 Yavimaya Coast
 1 Shark Typhoon
@@ -82,10 +82,10 @@
 3 Temple Garden
 3 Mountain
 1 Valakut Exploration
-1 Sokenzan, Crucible of Defiance
 1 Druid Class
-2 Rootbound Crag
+1 Sokenzan, Crucible of Defiance
 2 Dryad of the Ilysian Grove
+2 Rootbound Crag
 2 Valakut Exploration
 2 Druid Class
 3 Dryad of the Ilysian Grove
@@ -99,15 +99,15 @@
 2 Branchloft Pathway
 3 Branchloft Pathway
 4 Branchloft Pathway
-1 Expressive Iteration
 1 Clifftop Retreat
-1 March of Otherworldly Light
 1 Glacial Fortress
+1 March of Otherworldly Light
+1 Expressive Iteration
 1 Radiant Flames
 2 Sunpetal Grove
-2 Expressive Iteration
-2 March of Otherworldly Light
 2 Glacial Fortress
+2 March of Otherworldly Light
+2 Expressive Iteration
 3 March of Otherworldly Light
 1 Skyclave Apparition
 1 Barkchannel Pathway
@@ -119,17 +119,17 @@
 1 Savai Triome
 1 Beanstalk Giant
 1 Spikefield Hazard
+2 Kenrith, the Returned King
 2 Terror of the Peaks
 2 Beanstalk Giant
-2 Kenrith, the Returned King
 3 Beanstalk Giant
 4 Island
 4 Genesis Ultimatum
 4 Beanstalk Giant
-1 Brokers Hideout
 1 Emrakul, the Promised End
 1 Ulamog, the Ceaseless Hunger
 1 Widespread Thieving
+1 Brokers Hideout
 2 Ulamog, the Ceaseless Hunger
 2 Emrakul, the Promised End
 2 Widespread Thieving
@@ -147,28 +147,42 @@
 1 Hullbreaker Horror
 1 Chandra, Awakened Inferno
 1 Nahiri, the Harbinger
-1 Serra Paragon
-1 Dragonlord Atarka
-2 Skyclave Apparition
+1 Colossal Skyturtle
+2 Colossal Skyturtle
+2 Moon-Blessed Cleric
 1 Tireless Tracker
 1 Alrund's Epiphany
 2 Hinterland Harbor
 2 Tireless Tracker
 2 Alrund's Epiphany
 2 Radiant Flames
-1 Colossal Skyturtle
-2 Colossal Skyturtle
-2 Moon-Blessed Cleric
+1 Dragonlord Atarka
+1 Serra Paragon
+2 Skyclave Apparition
 1 Thundering Rebuke
 1 Annul
 1 Mystical Dispute
 1 Fry
 2 Mystical Dispute
 3 Mystical Dispute
+1 Storm the Festival
+1 Voice of Resurgence
+1 Elspeth Conquers Death
+1 Cavalier of Thorns
+2 Storm the Festival
+2 Voice of Resurgence
+2 Cavalier of Thorns
+2 Elspeth Conquers Death
+3 Voice of Resurgence
+3 Breeding Pool
+3 Storm the Festival
+3 Elspeth Conquers Death
+3 Cavalier of Thorns
+4 Voice of Resurgence
 1 Izzet Charm
 1 Bring to Light
-1 Supreme Verdict
 1 Valki, God of Lies
+1 Supreme Verdict
 2 Izzet Charm
 2 Renegade Rallier
 2 Bring to Light
@@ -176,70 +190,56 @@
 3 Izzet Charm
 3 Bring to Light
 4 Izzet Charm
-1 Magma Opus
-1 Woodland Cemetery
-1 Golos, Tireless Pilgrim
-1 Ziatora's Proving Ground
-1 Xander's Lounge
-1 Nicol Bolas, the Ravager
-1 Zagoth Triome
-2 Golos, Tireless Pilgrim
-2 Magma Opus
-3 Magma Opus
-4 Magma Opus
-4 Ugin, the Spirit Dragon
-1 Elspeth Conquers Death
-1 Voice of Resurgence
-1 Storm the Festival
-1 Cavalier of Thorns
-2 Voice of Resurgence
-2 Cavalier of Thorns
-2 Storm the Festival
-2 Elspeth Conquers Death
-3 Breeding Pool
-3 Voice of Resurgence
-3 Elspeth Conquers Death
-3 Cavalier of Thorns
-3 Storm the Festival
-4 Voice of Resurgence
-1 Indomitable Creativity
-1 Fire Prophecy
-1 Impulse
-1 Secrets of the Key
-1 Big Score
-1 Dwarven Mine
-1 Fiery Impulse
-1 Xenagos, God of Revels
-1 Worldspine Wurm
-2 Indomitable Creativity
-2 Fire Prophecy
-2 Impulse
-2 Negate
-2 Secrets of the Key
-2 Big Score
-2 Fiery Impulse
-2 Dwarven Mine
-3 Sacred Foundry
-3 Fire Prophecy
-3 Indomitable Creativity
-3 Impulse
-3 The Wandering Emperor
-3 Dwarven Mine
-3 Steam Vents
-4 Sacred Foundry
-4 Indomitable Creativity
-4 Impulse
-4 Dwarven Mine
-4 Fire Prophecy
-4 Steam Vents
-4 Deafening Clarion
-1 Turntimber Symbiosis
 1 Shatterskull Smashing
+1 Turntimber Symbiosis
 1 Felidar Retreat
 1 Otawara, Soaring City
 2 Felidar Retreat
 2 Turntimber Symbiosis
 2 Lair of the Hydra
-3 Lair of the Hydra
 3 Cultivate
+3 Lair of the Hydra
 4 Cultivate
+1 Xander's Lounge
+1 Magma Opus
+1 Golos, Tireless Pilgrim
+1 Ziatora's Proving Ground
+1 Woodland Cemetery
+1 Nicol Bolas, the Ravager
+1 Zagoth Triome
+2 Magma Opus
+2 Golos, Tireless Pilgrim
+3 Magma Opus
+4 Magma Opus
+4 Ugin, the Spirit Dragon
+4 Deafening Clarion
+1 Fire Prophecy
+1 Impulse
+1 Big Score
+1 Indomitable Creativity
+1 Dwarven Mine
+1 Secrets of the Key
+1 Worldspine Wurm
+1 Fiery Impulse
+1 Xenagos, God of Revels
+2 Fire Prophecy
+2 Indomitable Creativity
+2 Impulse
+2 Big Score
+2 Negate
+2 Dwarven Mine
+2 Secrets of the Key
+2 Fiery Impulse
+3 Indomitable Creativity
+3 Impulse
+3 Dwarven Mine
+3 Fire Prophecy
+3 The Wandering Emperor
+3 Sacred Foundry
+3 Steam Vents
+4 Indomitable Creativity
+4 Dwarven Mine
+4 Fire Prophecy
+4 Impulse
+4 Steam Vents
+4 Sacred Foundry

@@ -1,20 +1,20 @@
-2 Yavimaya Iconoclast
+1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
-4 Bomat Courier
 4 Mountain
-1 Fanatical Firebrand
+4 Bomat Courier
 1 Rimrock Knight
 2 Rimrock Knight
 2 Sokenzan, Crucible of Defiance
 1 Ghor-Clan Rampager
-2 Fanatical Firebrand
+1 Fanatical Firebrand
 1 Heartfire
 1 Hazoret the Fervent
 1 Embercleave
 1 Zurgo Bellstriker
 1 Gallia of the Endless Dance
 2 Ghor-Clan Rampager
+2 Fanatical Firebrand
 2 Heartfire
 1 Rockfall Vale
 2 Embercleave
@@ -36,10 +36,6 @@
 1 Light Up the Stage
 2 Light Up the Stage
 3 Rimrock Knight
-1 Foundry Street Denizen
-2 Foundry Street Denizen
-3 Foundry Street Denizen
-4 Foundry Street Denizen
 1 Eidolon of the Great Revel
 1 Ramunap Ruins
 2 Eidolon of the Great Revel
@@ -52,6 +48,10 @@
 2 Gruul Spellbreaker
 3 Gruul Spellbreaker
 4 Gruul Spellbreaker
+1 Foundry Street Denizen
+2 Foundry Street Denizen
+3 Foundry Street Denizen
+4 Foundry Street Denizen
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 3 Stonecoil Serpent
@@ -62,13 +62,15 @@
 3 Experiment One
 3 Voltaic Brawler
 4 Experiment One
+5 Mountain
+6 Mountain
 1 Lovestruck Beast
 1 Klothys, God of Destiny
-1 Scavenging Ooze
+1 Questing Beast
 1 Kazandu Mammoth
 1 Rhonas the Indomitable
 1 Glorybringer
-1 Questing Beast
+1 Scavenging Ooze
 1 Shatterskull Smashing
 1 Lair of the Hydra
 1 Werewolf Pack Leader
@@ -79,8 +81,8 @@
 2 Lovestruck Beast
 2 Rockfall Vale
 2 Lair of the Hydra
-2 Klothys, God of Destiny
 2 Scavenging Ooze
+2 Klothys, God of Destiny
 2 Werewolf Pack Leader
 2 Forest
 2 Elvish Mystic

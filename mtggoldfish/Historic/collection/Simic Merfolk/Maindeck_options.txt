@@ -1,38 +1,38 @@
 1 Botanical Sanctum
 1 Glasspool Mimic
-1 Spell Pierce
-2 Spell Pierce
 2 Botanical Sanctum
 1 Masked Vandal
+1 Spell Pierce
+2 Spell Pierce
 3 Botanical Sanctum
 4 Botanical Sanctum
 1 Boseiju, Who Endures
 1 Forest
-2 Hinterland Harbor
 1 Dreamroot Cascade
 1 Vodalian Hexcatcher
 2 Vodalian Hexcatcher
 3 Vodalian Hexcatcher
 4 Vodalian Hexcatcher
+2 Hinterland Harbor
 2 Dreamroot Cascade
 2 Forest
-1 Mistcaller
-3 Hinterland Harbor
-3 Forest
-1 Lair of the Hydra
-3 Spell Pierce
-2 Otawara, Soaring City
 1 Secluded Courtyard
 2 Secluded Courtyard
-1 Hall of Storm Giants
-1 Miscast
+3 Forest
+1 Lair of the Hydra
 2 Glasspool Mimic
 3 Secluded Courtyard
 4 Secluded Courtyard
+3 Spell Pierce
+1 Mistcaller
+2 Otawara, Soaring City
+3 Hinterland Harbor
+1 Hall of Storm Giants
+1 Miscast
 1 Growing Rites of Itlimoc
 4 Hinterland Harbor
-2 Mistcaller
 3 Brazen Borrower
+1 Kumena, Tyrant of Orazca
 2 Boseiju, Who Endures
 4 Forest
 7 Island
@@ -42,13 +42,14 @@
 1 Benthic Biomancer
 1 Kira, Great Glass-Spinner
 1 Malevolent Hermit
-1 Kumena, Tyrant of Orazca
+2 Mistcaller
 1 Yavimaya Coast
 2 Yavimaya Coast
 1 Archmage's Charm
 2 Archmage's Charm
 1 Geistwave
 2 Geistwave
+3 Glasspool Mimic
 1 Heroic Intervention
 1 Rhonas the Indomitable
 1 Deeproot Elite
@@ -75,10 +76,10 @@
 4 Dreamroot Cascade
 4 Shaper Apprentice
 1 Goblin Anarchomancer
+1 Elvish Visionary
 1 Harmonic Prodigy
 1 Metallic Mimic
 1 Stomping Ground
-1 Elvish Visionary
 1 Cragcrown Pathway
 1 Rootbound Crag
 1 Reclamation Sage
@@ -92,9 +93,9 @@
 1 Llanowar Elves
 1 Rage Forger
 2 Goblin Anarchomancer
+2 Elvish Visionary
 2 Harmonic Prodigy
 2 Metallic Mimic
-2 Elvish Visionary
 2 Stomping Ground
 2 Cragcrown Pathway
 2 Rootbound Crag
@@ -118,8 +119,8 @@
 3 Burning-Tree Emissary
 4 Harmonic Prodigy
 4 Goblin Anarchomancer
-4 Cragcrown Pathway
 4 Elvish Visionary
+4 Cragcrown Pathway
 4 Stomping Ground
 4 Rootbound Crag
 4 Burning-Tree Emissary

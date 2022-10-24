@@ -53,8 +53,8 @@
 1 Cling to Dust
 3 Dauthi Voidwalker
 1 Damnation
-1 Leyline of the Void
 1 Ashiok, Nightmare Weaver
+1 Leyline of the Void
 1 Fateful Absence
 1 Dovin's Veto
 1 Plains
@@ -72,8 +72,18 @@
 2 Through the Breach
 1 Lavinia, Azorius Renegade
 2 Lavinia, Azorius Renegade
+1 Force of Negation
+1 Spell Pierce
+1 Collective Brutality
+2 Collective Brutality
+2 Engineered Explosives
+2 Void Mirror
 1 Leyline Binding
 2 Leyline Binding
+1 Detention Sphere
+1 Tormod's Crypt
+2 Tormod's Crypt
+2 Detention Sphere
 1 The Meathook Massacre
 1 Liliana, the Last Hope
 1 Teferi, Hero of Dominaria
@@ -81,17 +91,7 @@
 1 Elspeth, Sun's Champion
 1 Supreme Verdict
 2 Liliana, the Last Hope
-1 Detention Sphere
-1 Tormod's Crypt
-2 Detention Sphere
-2 Tormod's Crypt
 2 Hurkyl's Recall
-1 Force of Negation
-1 Spell Pierce
-1 Collective Brutality
-2 Collective Brutality
-2 Void Mirror
-2 Engineered Explosives
 1 Invoke Despair
 1 Emrakul, the Promised End
 1 Inquisition of Kozilek
@@ -112,12 +112,12 @@
 1 Monastery Mentor
 4 Dauthi Voidwalker
 1 Path to Exile
-1 Vindicate
 1 Knight of Autumn
 1 Fulminator Mage
 1 Callous Bloodmage
 1 Anguished Unmaking
 1 Thragtusk
+1 Vindicate
 2 Fulminator Mage
 2 Knight of Autumn
 2 Callous Bloodmage
