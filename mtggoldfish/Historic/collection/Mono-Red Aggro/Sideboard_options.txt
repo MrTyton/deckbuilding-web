@@ -5,13 +5,13 @@
 1 Rampaging Ferocidon
 1 Embereth Shieldbreaker
 1 Reckless Stormseeker
-1 Claim the Firstborn
-1 Inferno of the Star Mounts
-1 Cinderclasm
 1 Tormod's Crypt
 1 Shatterstorm
-2 Claim the Firstborn
+1 Cinderclasm
+1 Claim the Firstborn
+1 Inferno of the Star Mounts
 2 Tormod's Crypt
+2 Claim the Firstborn
 3 Tormod's Crypt
 4 Tormod's Crypt
 2 Cinderclasm
@@ -54,14 +54,8 @@
 2 Traumatic Prank
 3 Skewer the Critics
 3 Fry
-1 The Akroan War
-1 Grafdigger's Cage
-1 Grim Initiate
-2 Flame-Blessed Bolt
-2 Grafdigger's Cage
-3 Grafdigger's Cage
-1 Unholy Heat
 1 Bloodthirsty Adversary
+1 Unholy Heat
 1 Thundering Raiju
 1 Toralf's Disciple
 1 Chandra's Regulator
@@ -69,10 +63,16 @@
 2 Thundering Raiju
 2 Toralf's Disciple
 2 Bloodthirsty Adversary
-3 Pithing Needle
 3 Toralf's Disciple
 3 Bloodthirsty Adversary
+3 Pithing Needle
 3 Thundering Raiju
+1 Grafdigger's Cage
+1 The Akroan War
+1 Grim Initiate
+2 Grafdigger's Cage
+2 Flame-Blessed Bolt
+3 Grafdigger's Cage
 1 Hazoret the Fervent
 1 Bonecrusher Giant
 2 Hazoret the Fervent
@@ -100,8 +100,8 @@
 3 Heroic Intervention
 4 Cemetery Gatekeeper
 4 Cindervines
-1 Anger of the Gods
 1 Leyline of Sanctity
+1 Anger of the Gods
 1 Call In a Professional
 1 Fly
 2 Leyline of Sanctity
@@ -113,8 +113,8 @@
 4 Call In a Professional
 1 Lightning Axe
 1 Thundering Rebuke
-1 Strangle
 1 Antagonize
 1 Heated Debate
+1 Strangle
 2 Thundering Rebuke
 1 The Elder Dragon War

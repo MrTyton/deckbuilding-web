@@ -32,15 +32,15 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|---------------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    1|[Elder Gargaroth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485502)         |                     |              |
+|                    1|[Boseiju, Who Endures](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548579)    |                     |              |
 |                    1|[Quirion Beastcaller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574655)     |                     |              |
 |                    1|[Primal Might](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485520)            |                     |              |
-|                    1|[Elder Gargaroth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485502)         |                     |              |
 |                    1|[Yorvo, Lord of Garenbrig](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473147)|                     |              |
-|                    1|[Boseiju, Who Endures](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548579)    |                     |              |
 |                    1|Ravenous Pursuit                                                                                   |                     |              |
 |                    2|[Quirion Beastcaller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574655)     |                     |              |
-|                    2|[Primal Might](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485520)            |                     |              |
 |                    2|[Elder Gargaroth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485502)         |                     |              |
+|                    2|[Primal Might](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485520)            |                     |              |
 |                    2|Ravenous Pursuit                                                                                   |                     |              |
 |                    3|[Elder Gargaroth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485502)         |                     |              |
 |                   19|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                  |                     |              |

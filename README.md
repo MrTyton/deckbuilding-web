@@ -15,12 +15,13 @@
 
 # Historic
 
-|                                 A                                  |                                    B                                     |                                 C                                  |                                D                                 |                                 E                                  |
-|--------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------|
-|[Abzan Midrange](./mtggoldfish/Historic/decks/Abzan_Midrange.md)    |[Five-color Humans](./mtggoldfish/Historic/decks/Five-color_Humans.md)    |[Jund Tempo](./mtggoldfish/Historic/decks/Jund_Tempo.md)            |[Mono-Red Aggro](./mtggoldfish/Historic/decks/Mono-Red_Aggro.md)  |[Rakdos Midrange](./mtggoldfish/Historic/decks/Rakdos_Midrange.md)  |
-|[Abzan Mill](./mtggoldfish/Historic/decks/Abzan_Mill.md)            |[Four-color Midrange](./mtggoldfish/Historic/decks/Four-color_Midrange.md)|[Jund Tokens](./mtggoldfish/Historic/decks/Jund_Tokens.md)          |[Orzhov Midrange](./mtggoldfish/Historic/decks/Orzhov_Midrange.md)|[Simic Flash](./mtggoldfish/Historic/decks/Simic_Flash.md)          |
-|[Azorius Affinity](./mtggoldfish/Historic/decks/Azorius_Affinity.md)|[Gruul Aggro](./mtggoldfish/Historic/decks/Gruul_Aggro.md)                |[Maze's End Combo](./mtggoldfish/Historic/decks/Maze's_End_Combo.md)|[Rakdos Control](./mtggoldfish/Historic/decks/Rakdos_Control.md)  |[Simic Merfolk](./mtggoldfish/Historic/decks/Simic_Merfolk.md)      |
-|[Azorius Yorion](./mtggoldfish/Historic/decks/Azorius_Yorion.md)    |[Gruul Goblins](./mtggoldfish/Historic/decks/Gruul_Goblins.md)            |[Mono-Green Aggro](./mtggoldfish/Historic/decks/Mono-Green_Aggro.md)|[Rakdos Goblins](./mtggoldfish/Historic/decks/Rakdos_Goblins.md)  |[Sultai Ultimatum](./mtggoldfish/Historic/decks/Sultai_Ultimatum.md)|
+|                                 A                                  |                                     B                                      |                                   C                                    |                                 D                                  |                                 E                                  |
+|--------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
+|[Abzan Midrange](./mtggoldfish/Historic/decks/Abzan_Midrange.md)    |[Boros Aggro (Lurrus)](./mtggoldfish/Historic/decks/Boros_Aggro_(Lurrus).md)|[Gruul Goblins](./mtggoldfish/Historic/decks/Gruul_Goblins.md)          |[Mono-Blue Tempo](./mtggoldfish/Historic/decks/Mono-Blue_Tempo.md)  |[Rakdos Midrange](./mtggoldfish/Historic/decks/Rakdos_Midrange.md)  |
+|[Abzan Mill](./mtggoldfish/Historic/decks/Abzan_Mill.md)            |[Esper Control](./mtggoldfish/Historic/decks/Esper_Control.md)              |[Jund Tempo](./mtggoldfish/Historic/decks/Jund_Tempo.md)                |[Mono-Green Aggro](./mtggoldfish/Historic/decks/Mono-Green_Aggro.md)|[Simic Merfolk](./mtggoldfish/Historic/decks/Simic_Merfolk.md)      |
+|[Azorius Affinity](./mtggoldfish/Historic/decks/Azorius_Affinity.md)|[Five-color Humans](./mtggoldfish/Historic/decks/Five-color_Humans.md)      |[Jund Tokens](./mtggoldfish/Historic/decks/Jund_Tokens.md)              |[Mono-Red Aggro](./mtggoldfish/Historic/decks/Mono-Red_Aggro.md)    |[Sultai Ultimatum](./mtggoldfish/Historic/decks/Sultai_Ultimatum.md)|
+|[Azorius Control](./mtggoldfish/Historic/decks/Azorius_Control.md)  |[Four-color Midrange](./mtggoldfish/Historic/decks/Four-color_Midrange.md)  |[Maze's End Combo](./mtggoldfish/Historic/decks/Maze's_End_Combo.md)    |[Orzhov Midrange](./mtggoldfish/Historic/decks/Orzhov_Midrange.md)  |                                                                    |
+|[Azorius Yorion](./mtggoldfish/Historic/decks/Azorius_Yorion.md)    |[Gruul Aggro](./mtggoldfish/Historic/decks/Gruul_Aggro.md)                  |[Mono-Black Control](./mtggoldfish/Historic/decks/Mono-Black_Control.md)|[Rakdos Goblins](./mtggoldfish/Historic/decks/Rakdos_Goblins.md)    |                                                                    |
 
 
 # Pioneer
@@ -77,4 +78,4 @@
 
 
 
-#### Last Updated at 01:30PM on October 24, 2022
+#### Last Updated at 01:29AM on October 25, 2022
