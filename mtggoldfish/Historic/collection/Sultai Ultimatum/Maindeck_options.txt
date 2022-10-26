@@ -3,16 +3,16 @@
 2 Wolfwillow Haven
 3 Wolfwillow Haven
 2 Fabled Passage
+1 Woodland Cemetery
 3 Omen of the Sea
 4 Omen of the Sea
 1 Polukranos, Unchained
 4 Wolfwillow Haven
-1 Woodland Cemetery
 4 Overgrown Tomb
 1 Languish
-1 Castle Vantress
 1 Golos, Tireless Pilgrim
 1 The World Tree
+1 Castle Vantress
 1 Commit/Memory
 3 Cultivate
 4 Cultivate
@@ -33,38 +33,38 @@
 1 Shipwreck Marsh
 2 Shipwreck Marsh
 3 Shipwreck Marsh
+3 Swamp
 1 Hinterland Harbor
 2 Hinterland Harbor
 2 Elder Gargaroth
-3 Swamp
 1 Search for Azcanta
 1 Mastermind's Acquisition
 1 Sublime Epiphany
 1 Glasspool Mimic
 4 Fatal Push
+1 Temple of Malady
+1 Deathcap Glade
 1 Hydroid Krasis
 1 Elspeth's Nightmare
-1 Deathcap Glade
 2 Deathcap Glade
 3 Deathcap Glade
-4 Shipwreck Marsh
 4 Deathcap Glade
+4 Shipwreck Marsh
 1 Baleful Mastery
 1 Castle Locthwain
-1 Temple of Malady
 1 Koma, Cosmos Serpent
 1 Supreme Will
 1 Pact of Negation
 2 Languish
 1 Power Word Kill
-1 Temple of Deceit
 1 Temple of Mystery
+1 Temple of Deceit
 2 Power Word Kill
-2 Polukranos, Unchained
 2 Castle Locthwain
+2 Polukranos, Unchained
 3 Elder Gargaroth
-3 Extinction Event
 3 Eliminate
+3 Extinction Event
 1 Tamiyo, Compleated Sage
 1 Sandwurm Convergence
 1 Jin-Gitaxias, Progress Tyrant
@@ -87,36 +87,36 @@
 3 The Meathook Massacre
 4 Woodland Cemetery
 4 Watery Grave
-1 Hullbreaker Horror
 1 Rimewood Falls
+1 Hullbreaker Horror
 1 Faerie Seer
 1 Dreamroot Cascade
 1 Cloudkin Seer
 1 Path of Peril
-1 Liliana, Death's Majesty
 1 Zimone, Quandrix Prodigy
-1 Quandrix Apprentice
-1 Woodland Chasm
 1 Novice Occultist
+1 Woodland Chasm
+1 Liliana, Death's Majesty
+1 Quandrix Apprentice
 1 Haunted Ridge
 2 Dreamroot Cascade
 2 Faerie Seer
 2 Cloudkin Seer
 2 Baleful Mastery
 2 Path of Peril
-2 Novice Occultist
 2 Quandrix Apprentice
+2 Haunted Ridge
+2 Novice Occultist
+2 Rimewood Falls
 2 Woodland Chasm
 2 Zimone, Quandrix Prodigy
-2 Haunted Ridge
-2 Rimewood Falls
 3 Dreamroot Cascade
 3 Faerie Seer
 3 Cloudkin Seer
 3 Novice Occultist
 3 Baleful Mastery
-3 Quandrix Apprentice
 3 Zimone, Quandrix Prodigy
+3 Quandrix Apprentice
 4 Dreamroot Cascade
 4 Faerie Seer
 4 Cloudkin Seer
@@ -126,11 +126,13 @@
 4 Forest
 5 Forest
 6 Forest
-1 Archon of Sun's Grace
+1 Plains
+2 Plains
+3 Plains
+4 Plains
 1 Sterling Grove
 1 Unbridled Growth
 1 Omen of the Sun
-1 Elspeth Conquers Death
 1 Sanctum Weaver
 1 Cast Out
 1 Brightclimb Pathway
@@ -140,27 +142,27 @@
 1 Sigil of the Empty Throne
 1 The Birth of Meletis
 1 Doomskar
+1 Godless Shrine
+1 Elspeth Conquers Death
 1 Bojuka Bog
 1 Shatter the Sky
 1 Destiny Spinner
-1 Castle Ardenvale
-1 Crawling Barrens
-1 Oath of Kaya
+1 Archon of Sun's Grace
+1 Felidar Retreat
+1 Yorion, Sky Nomad
 1 Sythis, Harvest's Hand
+1 Shark Typhoon
+1 Crawling Barrens
 1 Temple Garden
 1 Branchloft Pathway
-1 Godless Shrine
-1 Yorion, Sky Nomad
-1 Felidar Retreat
-1 Temple of Silence
-1 Shark Typhoon
-1 Plains
+1 Castle Ardenvale
 1 Indatha Triome
+1 Temple of Silence
+1 Oath of Kaya
 2 Sterling Grove
 2 Castle Ardenvale
 2 Unbridled Growth
 2 Omen of the Sun
-2 Plains
 2 Cast Out
 2 Banishing Light
 2 The Birth of Meletis
@@ -168,45 +170,43 @@
 2 Destiny Spinner
 2 Sythis, Harvest's Hand
 2 Sanctum Weaver
+2 Archon of Sun's Grace
 2 Oath of Kaya
 2 Elspeth's Nightmare
-2 Archon of Sun's Grace
-3 Plains
 3 Omen of the Sun
 3 The Birth of Meletis
 3 Destiny Spinner
 3 Elspeth's Nightmare
 3 Sythis, Harvest's Hand
 4 Destiny Spinner
-4 Plains
-1 Path to the World Tree
-1 Brazen Borrower
-1 Casualties of War
+1 Boseiju, Who Endures
+7 Forest
 1 Ugin, the Spirit Dragon
+2 Ugin, the Spirit Dragon
+1 Path to the World Tree
+1 Casualties of War
+1 Brazen Borrower
 1 Arboreal Grazer
-1 The Eldest Reborn
-1 Mass Manipulation
 1 Fae of Wishes
 1 Otawara, Soaring City
+1 Mass Manipulation
 1 Quandrix Cultivator
-1 Boseiju, Who Endures
+1 The Eldest Reborn
 2 Brazen Borrower
 2 Nissa, Who Shakes the World
-2 Casualties of War
 2 The Eldest Reborn
 2 Quandrix Cultivator
-2 Ugin, the Spirit Dragon
-2 Hydroid Krasis
 2 Mass Manipulation
+2 Casualties of War
+2 Hydroid Krasis
 2 Arboreal Grazer
 3 Nissa, Who Shakes the World
-3 Hydroid Krasis
 3 Quandrix Cultivator
 3 The Eldest Reborn
+3 Hydroid Krasis
 3 Arboreal Grazer
-7 Forest
-1 Verdant Rejuvenation
 1 Triumphant Reckoning
+1 Verdant Rejuvenation
 2 Final Parting
 2 Scholar of the Lost Trove
 3 Final Parting
@@ -220,3 +220,96 @@
 3 Thoughtseize
 3 Alrund's Epiphany
 4 Alrund's Epiphany
+1 Deathbonnet Sprout
+1 Takenuma, Abandoned Mire
+1 Return to Nature
+1 Nemata, Primeval Warden
+1 Fungal Infection
+1 Fungal Plots
+1 Slimefoot, Thallid Transplant
+1 Spore Swarm
+1 Skemfar Shadowsage
+1 Fungal Rebirth
+1 Slimefoot, the Stowaway
+1 Yavimaya Sapherd
+1 Sporecrown Thallid
+1 Spore Crawler
+1 Tendershoot Dryad
+1 Bloodline Pretender
+1 Undercellar Myconid
+2 Return to Nature
+2 Deathbonnet Sprout
+2 Sporecrown Thallid
+2 Slimefoot, the Stowaway
+2 Tendershoot Dryad
+2 Yavimaya Sapherd
+2 Bloodline Pretender
+2 Undercellar Myconid
+2 Fungal Plots
+2 Spore Crawler
+2 Fungal Infection
+2 Slimefoot, Thallid Transplant
+3 Fungal Infection
+3 Sporecrown Thallid
+3 Deathbonnet Sprout
+3 Slimefoot, the Stowaway
+4 Swamp
+4 Slimefoot, the Stowaway
+4 Sporecrown Thallid
+4 Deathbonnet Sprout
+4 Fungal Infection
+8 Forest
+1 Wrath of God
+1 Darksteel Citadel
+1 Blood Sun
+1 Cave of the Frost Dragon
+1 Chandra, Torch of Defiance
+1 Strict Proctor
+1 Lotus Field
+1 Karn, the Great Creator
+1 Hedron Archive
+1 Ulamog, the Ceaseless Hunger
+1 Mind Stone
+1 Cleansing Wildfire
+1 Anger of the Gods
+1 Rustvale Bridge
+1 Coldsteel Heart
+1 Den of the Bugbear
+1 Mountain
+2 Wrath of God
+2 Ulamog, the Ceaseless Hunger
+2 Darksteel Citadel
+2 Blood Sun
+2 Karn, the Great Creator
+2 Strict Proctor
+2 Lotus Field
+2 Chandra, Torch of Defiance
+2 Anger of the Gods
+2 Cleansing Wildfire
+2 Mountain
+2 Mind Stone
+2 Rustvale Bridge
+2 Hedron Archive
+2 Coldsteel Heart
+3 Darksteel Citadel
+3 Blood Sun
+3 Strict Proctor
+3 Wrath of God
+3 Lotus Field
+3 Ugin, the Spirit Dragon
+3 Cleansing Wildfire
+3 Coldsteel Heart
+3 Mountain
+3 Rustvale Bridge
+4 Wrath of God
+4 Darksteel Citadel
+4 Blood Sun
+4 Coldsteel Heart
+4 Lotus Field
+4 Strict Proctor
+4 Ugin, the Spirit Dragon
+4 Cleansing Wildfire
+4 Rustvale Bridge
+4 Mountain
+5 Mountain
+6 Mountain

@@ -1,17 +1,17 @@
+1 Snow-Covered Island
+2 Snow-Covered Island
+1 Ice-Fang Coatl
+1 Snow-Covered Plains
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
-1 The Wandering Emperor
-4 Teferi, Time Raveler
-2 Dress Down
-1 Raugrin Triome
 1 Windswept Heath
 2 Windswept Heath
-3 March of Otherworldly Light
-1 Snow-Covered Forest
-2 Castle Vantress
 1 Steam Vents
+2 Castle Vantress
+1 Snow-Covered Forest
 3 Supreme Verdict
+3 March of Otherworldly Light
 1 Spreading Seas
 2 Spreading Seas
 3 Spreading Seas
@@ -20,17 +20,18 @@
 1 Fire/Ice
 2 Fire/Ice
 3 Fire/Ice
-1 Subtlety
+1 Castle Ardenvale
 1 Glacial Floodplain
 1 Temple Garden
 2 Snow-Covered Forest
 1 Scalding Tarn
 2 Breeding Pool
 4 Snow-Covered Island
+2 Memory Deluge
+4 Island
 1 Ephemerate
 2 Ephemerate
 3 Ephemerate
-2 Subtlety
 1 Eternal Witness
 1 Soulherder
 2 Eternal Witness
@@ -40,25 +41,16 @@
 3 Noble Hierarch
 4 Noble Hierarch
 1 Boseiju, Who Endures
-1 Eiganjo, Seat of the Empire
-1 Narset, Parter of Veils
-1 Day's Undoing
-1 Geier Reach Sanitarium
-2 Narset, Parter of Veils
-2 Day's Undoing
-3 Narset, Parter of Veils
-4 Narset, Parter of Veils
-1 Castle Ardenvale
 1 Snapcaster Mage
+1 Subtlety
 3 Windswept Heath
 1 Flooded Grove
 2 Snow-Covered Plains
-2 Memory Deluge
 1 Time Warp
 2 Time Warp
-4 Island
 2 Snapcaster Mage
 3 Snapcaster Mage
+2 Subtlety
 1 Endurance
 2 Soulherder
 3 Soulherder
@@ -69,12 +61,21 @@
 2 Abundant Growth
 3 Abundant Growth
 4 Abundant Growth
+1 Eiganjo, Seat of the Empire
+1 Narset, Parter of Veils
+1 Day's Undoing
+1 Geier Reach Sanitarium
+2 Narset, Parter of Veils
+2 Day's Undoing
+3 Narset, Parter of Veils
+4 Narset, Parter of Veils
 2 Hall of Storm Giants
 3 Eternal Witness
 2 Jace, the Mind Sculptor
 2 Endurance
 3 Chalice of the Void
 2 Scalding Tarn
+1 Shark Typhoon
 3 Mystic Gate
 2 The Wandering Emperor
 3 Teferi, Hero of Dominaria
@@ -84,10 +85,7 @@
 1 Charming Prince
 1 Deputy of Detention
 1 Eladamri's Call
-1 Reflecting Pool
-4 March of Otherworldly Light
 3 Dress Down
-1 Shark Typhoon
 1 Opt
 2 Opt
 3 Opt
@@ -134,8 +132,11 @@
 4 Dress Down
 1 Raffine's Tower
 1 Ketria Triome
+2 Shark Typhoon
 2 Wall of Blossoms
 4 Opt
+1 Reflecting Pool
+4 March of Otherworldly Light
 1 Vesperlark
 1 Stoneforge Mystic
 1 Kaldra Compleat
@@ -156,6 +157,12 @@
 3 Scalding Tarn
 3 Omen of the Sea
 4 Scalding Tarn
+3 Polluted Delta
+3 Memory Deluge
+3 Hall of Storm Giants
+4 Polluted Delta
+4 Chalice of the Void
+6 Snow-Covered Island
 1 Emrakul, the Promised End
 2 Glacial Fortress
 2 Emrakul, the Promised End
@@ -167,16 +174,9 @@
 4 Field of Ruin
 4 Supreme Verdict
 6 Island
-3 Polluted Delta
-3 Memory Deluge
-3 Hall of Storm Giants
-4 Polluted Delta
-4 Chalice of the Void
-6 Snow-Covered Island
 1 Serra Paragon
 1 Dovin's Veto
 1 Consider
-2 Shark Typhoon
 1 Zagoth Triome
 3 Hallowed Fountain
 3 Day's Undoing

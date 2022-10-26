@@ -71,7 +71,7 @@
 |                    1|[Consider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534803)                      |                     |                                                                                                  |
 |                    2|[Consider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534803)                      |                     |                                                                                                  |
 |                    3|[Consider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534803)                      |                     |                                                                                                  |
-|                    4|[Consider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534803)                      |                     |                                                                                                  |
 |                    4|[Prismari Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513706)              |                     |                                                                                                  |
+|                    4|[Consider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534803)                      |                     |                                                                                                  |
 |                    4|[Stormcarved Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541141)             |                     |                                                                                                  |
 
