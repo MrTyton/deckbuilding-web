@@ -63,7 +63,7 @@
 |                     |                                                                                               |                    1|[Test of Talents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513536)            |
 |                     |                                                                                               |                    2|[Test of Talents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513536)            |
 |                     |                                                                                               |                    3|[Test of Talents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513536)            |
-|                     |                                                                                               |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)             |
-|                     |                                                                                               |                    4|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)              |
 |                     |                                                                                               |                    3|[Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191083)                    |
+|                     |                                                                                               |                    4|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)              |
+|                     |                                                                                               |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)             |
 

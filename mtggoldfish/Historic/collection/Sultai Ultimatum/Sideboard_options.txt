@@ -5,13 +5,13 @@
 2 Aether Gust
 1 Sandwurm Convergence
 2 Negate
-2 Thought Distortion
-1 Malevolent Hermit
-2 Malevolent Hermit
 3 Mystical Dispute
-1 Necromentia
 3 Thoughtseize
 4 Thoughtseize
+1 Malevolent Hermit
+2 Malevolent Hermit
+2 Thought Distortion
+1 Necromentia
 3 Grafdigger's Cage
 1 Koma, Cosmos Serpent
 1 Maelstrom Pulse
@@ -25,12 +25,14 @@
 2 Weathered Runestone
 3 Aether Gust
 3 Weathered Runestone
+1 Approach of the Second Sun
+1 Nissa, Who Shakes the World
+1 Pact of Negation
+1 Mastermind's Acquisition
+1 Scholar of the Ages
+2 Nissa, Who Shakes the World
+3 Nissa, Who Shakes the World
 4 Shark Typhoon
-1 Culling Ritual
-1 River's Rebuke
-2 Culling Ritual
-3 Malevolent Hermit
-4 Malevolent Hermit
 1 Shadows' Verdict
 2 Shadows' Verdict
 1 Bloodchief's Thirst
@@ -42,6 +44,11 @@
 2 Test of Talents
 3 Test of Talents
 4 Mystical Dispute
+1 Culling Ritual
+1 River's Rebuke
+2 Culling Ritual
+3 Malevolent Hermit
+4 Malevolent Hermit
 1 Path of Peril
 1 Bag of Holding
 2 Path of Peril
@@ -49,8 +56,8 @@
 3 Shadows' Verdict
 3 Bag of Holding
 4 Grafdigger's Cage
-4 Bag of Holding
 4 Shadows' Verdict
+4 Bag of Holding
 1 Yasharn, Implacable Earth
 1 Shatter the Sky
 1 Runed Halo
@@ -62,5 +69,5 @@
 1 Duress
 1 Ashiok, Dream Render
 1 Sorcerous Spyglass
-1 Ugin, the Spirit Dragon
 1 Saw It Coming
+1 Ugin, the Spirit Dragon

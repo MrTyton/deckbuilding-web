@@ -113,8 +113,8 @@
 2 Fatal Push
 1 Spikefield Hazard
 1 Dead/Gone
-3 Bonecrusher Giant
 3 Den of the Bugbear
+3 Bonecrusher Giant
 4 Den of the Bugbear
 1 Eidolon of the Great Revel
 2 Eidolon of the Great Revel
@@ -126,8 +126,8 @@
 3 Thoughtseize
 4 Blood Crypt
 4 Seasoned Pyromancer
-1 Fable of the Mirror-Breaker
 1 Shatterskull Smashing
+1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
 2 Shatterskull Smashing
 3 Fable of the Mirror-Breaker
@@ -135,8 +135,8 @@
 1 Blood Moon
 1 Magus of the Moon
 2 Blood Moon
-2 Magus of the Moon
 2 Chandra, Torch of Defiance
+2 Magus of the Moon
 3 Blood Moon
 3 Chandra, Torch of Defiance
 1 Battlefield Forge
@@ -148,25 +148,25 @@
 2 Inspiring Vantage
 3 Inspiring Vantage
 3 Tarfire
-1 Scavenger Grounds
 1 Gemstone Caverns
-1 Chalice of the Void
-1 Light Up the Night
-1 Desperate Ritual
-1 Goblin Rabblemaster
+1 Scavenger Grounds
 1 Ramunap Ruins
+1 Light Up the Night
+1 Goblin Rabblemaster
+1 Chalice of the Void
+1 Desperate Ritual
 2 Gemstone Caverns
-2 Scavenger Grounds
-2 Light Up the Night
-2 Chalice of the Void
-2 Goblin Rabblemaster
-2 Desperate Ritual
 2 Ramunap Ruins
+2 Light Up the Night
+2 Goblin Rabblemaster
+2 Chalice of the Void
+2 Desperate Ritual
+2 Scavenger Grounds
 3 Gemstone Caverns
+3 Ramunap Ruins
 3 Chalice of the Void
 3 Desperate Ritual
 3 Goblin Rabblemaster
-3 Ramunap Ruins
 4 Gemstone Caverns
 4 Ramunap Ruins
 4 Fable of the Mirror-Breaker
@@ -184,26 +184,26 @@
 1 Mox Amber
 1 Shore Up
 2 Balmor, Battlemage Captain
+1 Lava Spike
+1 Prismatic Vista
+2 Lava Spike
+4 Bonecrusher Giant
+1 Shinka, the Bloodsoaked Keep
 1 Blast Zone
 1 Phoenix of Ash
-1 Shinka, the Bloodsoaked Keep
 2 Blast Zone
 2 Spikefield Hazard
 2 Phoenix of Ash
+3 Spikefield Hazard
 3 Blast Zone
 3 Shatterskull Smashing
 3 Phoenix of Ash
-3 Spikefield Hazard
 4 Blast Zone
 1 Stormwing Entity
 1 Vapor Snag
 2 Stormwing Entity
 3 Stormwing Entity
 4 Stormwing Entity
-1 Lava Spike
-1 Prismatic Vista
-2 Lava Spike
-4 Bonecrusher Giant
 1 Izzet Charm
 1 Force of Negation
 1 Misty Rainforest
@@ -244,17 +244,19 @@
 3 Abundant Harvest
 4 Abundant Harvest
 4 Stomping Ground
+5 Snow-Covered Mountain
+6 Snow-Covered Mountain
 1 Boros Charm
+1 Chandra, Dressed to Kill
 1 Roiling Vortex
 1 Plains
 1 Ensnaring Bridge
-1 Chandra, Dressed to Kill
 1 Karn, the Great Creator
 2 Plains
 2 Boros Charm
 2 Roiling Vortex
-2 Chandra, Dressed to Kill
 2 Ensnaring Bridge
+2 Chandra, Dressed to Kill
 2 Karn, the Great Creator
 3 Magus of the Moon
 3 Boros Charm
@@ -262,5 +264,3 @@
 4 Boros Charm
 4 Karn, the Great Creator
 4 Chandra, Torch of Defiance
-5 Snow-Covered Mountain
-6 Snow-Covered Mountain

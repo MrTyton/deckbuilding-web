@@ -1,12 +1,12 @@
 3 Rishadan Port
 1 Misty Rainforest
-1 Field of the Dead
 2 Sylvan Library
-1 Soul-Guide Lantern
+1 Field of the Dead
 1 Minsc & Boo, Timeless Heroes
 1 Ancient Tomb
 1 Verdant Catacombs
 1 Crucible of Worlds
+1 Soul-Guide Lantern
 2 Minsc & Boo, Timeless Heroes
 1 Elvish Reclaimer
 2 Elvish Reclaimer
@@ -24,7 +24,6 @@
 2 Painter's Servant
 3 Ancient Tomb
 3 Painter's Servant
-4 Endurance
 1 Tower of the Magistrate
 1 Tranquil Thicket
 1 Glacial Chasm
@@ -43,6 +42,7 @@
 2 Tranquil Thicket
 2 Abrupt Decay
 3 Abrupt Decay
+4 Endurance
 1 Eiganjo, Seat of the Empire
 1 Sevinne's Reclamation
 1 Snow-Covered Plains
@@ -113,8 +113,8 @@
 1 Brainstorm
 1 Spell Pierce
 1 Hydroblast
-1 Force of Negation
 1 Snow-Covered Island
+1 Force of Negation
 1 Force of Will
 2 Stifle
 2 Force of Negation
