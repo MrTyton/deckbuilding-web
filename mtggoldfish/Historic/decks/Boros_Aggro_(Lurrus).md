@@ -98,7 +98,7 @@
 |                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |                                                                                                  |
 |                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                      |                     |                                                                                                  |
 |                    7|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |                                                                                                  |
-|                    8|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                      |                     |                                                                                                  |
 |                    8|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                    |                     |                                                                                                  |
+|                    8|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                      |                     |                                                                                                  |
 |                    4|[Maul of the Skyclaves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491651)       |                     |                                                                                                  |
 

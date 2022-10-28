@@ -92,15 +92,16 @@
 1 Faerie Seer
 1 Dreamroot Cascade
 1 Cloudkin Seer
+1 Haunted Ridge
 1 Path of Peril
 1 Liliana, Death's Majesty
 1 Zimone, Quandrix Prodigy
 1 Quandrix Apprentice
 1 Woodland Chasm
 1 Novice Occultist
-1 Haunted Ridge
 2 Dreamroot Cascade
 2 Faerie Seer
+2 Haunted Ridge
 2 Cloudkin Seer
 2 Baleful Mastery
 2 Path of Peril
@@ -108,7 +109,6 @@
 2 Quandrix Apprentice
 2 Woodland Chasm
 2 Zimone, Quandrix Prodigy
-2 Haunted Ridge
 2 Rimewood Falls
 3 Dreamroot Cascade
 3 Faerie Seer
@@ -171,9 +171,9 @@
 2 Oath of Kaya
 2 Elspeth's Nightmare
 2 Archon of Sun's Grace
-3 Plains
 3 Omen of the Sun
 3 The Birth of Meletis
+3 Plains
 3 Destiny Spinner
 3 Elspeth's Nightmare
 3 Sythis, Harvest's Hand
