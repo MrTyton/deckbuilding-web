@@ -4,38 +4,38 @@
 3 Teferi, Time Raveler
 1 Overgrown Tomb
 4 Windswept Heath
-1 Bloodstained Mire
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
 1 Verdant Catacombs
+1 Bloodstained Mire
+1 Spell Pierce
+1 Remand
+2 Remand
 1 Shardless Agent
 2 Shardless Agent
 3 Shardless Agent
 4 Shardless Agent
-1 Spell Pierce
-1 Remand
-2 Remand
-1 General Ferrous Rokiric
-2 General Ferrous Rokiric
 1 Wrenn and Six
 2 Wrenn and Six
+1 General Ferrous Rokiric
+2 General Ferrous Rokiric
+1 Fury
+2 Fury
+3 Flooded Strand
 2 Bloodstained Mire
 1 Lightning Helix
 2 Lightning Helix
 3 Lightning Helix
 4 Lightning Helix
-1 Bloodbraid Elf
-2 Bloodbraid Elf
-3 Bloodbraid Elf
-4 Bloodbraid Elf
-1 Fury
-2 Fury
-3 Flooded Strand
 1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn
 1 Savai Triome
+1 Bloodbraid Elf
+2 Bloodbraid Elf
+3 Bloodbraid Elf
+4 Bloodbraid Elf
 1 Snow-Covered Forest
 1 Island
 4 Scalding Tarn
@@ -47,8 +47,6 @@
 3 General Ferrous Rokiric
 1 Marsh Flats
 1 Boros Charm
-1 Ignoble Hierarch
-2 Ignoble Hierarch
 1 Raugrin Triome
 1 Dragon's Rage Channeler
 1 Inquisition of Kozilek
@@ -69,7 +67,6 @@
 4 Dragon's Rage Channeler
 4 Thoughtseize
 4 Tarmogoyf
-1 Geist of Saint Traft
 1 Zagoth Triome
 1 Ketria Triome
 1 Prismari Command
@@ -103,7 +100,6 @@
 3 Fury
 4 Fury
 2 Spell Pierce
-2 Geist of Saint Traft
 1 Snapcaster Mage
 2 Snapcaster Mage
 1 Prismatic Ending
@@ -123,6 +119,7 @@
 1 Swamp
 1 Godless Shrine
 1 Lavinia, Azorius Renegade
+1 Geist of Saint Traft
 1 Manamorphose
 2 Lavinia, Azorius Renegade
 2 Manamorphose
@@ -139,7 +136,9 @@
 3 Fire/Ice
 4 Fire/Ice
 4 Subtlety
+1 Ignoble Hierarch
 1 Loxodon Smiter
+2 Ignoble Hierarch
 2 Loxodon Smiter
 3 Ignoble Hierarch
 3 Loxodon Smiter

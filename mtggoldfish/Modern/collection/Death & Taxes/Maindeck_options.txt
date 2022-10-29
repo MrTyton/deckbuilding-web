@@ -59,65 +59,50 @@
 11 Snow-Covered Plains
 12 Plains
 13 Plains
-1 Sunbaked Canyon
-1 Sacred Foundry
 3 Silent Clearing
 4 Silent Clearing
 3 Charming Prince
+1 Sunbaked Canyon
+1 Sacred Foundry
+4 Path to Exile
 1 Imperial Recruiter
 2 Imperial Recruiter
-1 Arid Mesa
-2 Arid Mesa
+1 Serra Paragon
+2 Serra Paragon
 1 Prismatic Ending
 2 Prismatic Ending
 3 Prismatic Ending
+1 Arid Mesa
+2 Arid Mesa
 1 Marsh Flats
 2 Marsh Flats
-1 Magus of the Moon
-2 Sacred Foundry
-4 Path to Exile
-1 Serra Paragon
-2 Serra Paragon
-1 Sword of Light and Shadow
-3 Arid Mesa
-3 Imperial Recruiter
-4 Arid Mesa
-3 Marsh Flats
 1 Shadowspear
 2 March of Otherworldly Light
 3 Mishra's Factory
 3 Esper Sentinel
 1 Flagstones of Trokair
 2 Flagstones of Trokair
+1 Magus of the Moon
+2 Sacred Foundry
 1 Inspiring Vantage
 2 Inspiring Vantage
 3 Inspiring Vantage
 2 Sunbaked Canyon
-3 Sacred Foundry
-1 Mountain
 2 Cave of the Frost Dragon
-1 Restoration Angel
-2 Restoration Angel
-3 Restoration Angel
-1 Felidar Guardian
-4 Marsh Flats
-4 Prismatic Ending
-4 Imperial Recruiter
 3 Blast Zone
-1 Windswept Heath
-2 Windswept Heath
-3 Windswept Heath
-4 Windswept Heath
+1 Sword of Light and Shadow
+3 Arid Mesa
+3 Imperial Recruiter
+4 Arid Mesa
+3 Marsh Flats
 1 Cavern of Souls
 1 Fable of the Mirror-Breaker
 2 Cavern of Souls
 2 Fable of the Mirror-Breaker
+3 Sacred Foundry
 3 Fable of the Mirror-Breaker
 3 Flagstones of Trokair
-1 Ragavan, Nimble Pilferer
-2 Ragavan, Nimble Pilferer
-3 Ragavan, Nimble Pilferer
-4 Ragavan, Nimble Pilferer
+1 Mountain
 4 Inspiring Vantage
 1 Aven Mindcensor
 1 Flooded Strand
@@ -129,33 +114,32 @@
 1 Welcoming Vampire
 2 Welcoming Vampire
 3 Welcoming Vampire
-1 Savai Triome
-1 Giant Killer
-1 Sokenzan, Crucible of Defiance
-1 Kiki-Jiki, Mirror Breaker
-1 Sanctifier en-Vec
-1 Rugged Prairie
-2 Rugged Prairie
-3 Rugged Prairie
-4 Rugged Prairie
+1 Restoration Angel
+2 Restoration Angel
+3 Restoration Angel
 4 Blast Zone
 1 Needleverge Pathway
 2 Needleverge Pathway
 3 Needleverge Pathway
 4 Needleverge Pathway
 1 Prismatic Vista
-1 Burrenton Forge-Tender
 1 Hallowed Fountain
+1 Burrenton Forge-Tender
 1 Ranger-Captain of Eos
+1 Felidar Guardian
 2 Prismatic Vista
 3 Sunbaked Canyon
 4 Charming Prince
+4 Marsh Flats
+4 Prismatic Ending
+4 Imperial Recruiter
 4 Sunbaked Canyon
 1 Titania, Protector of Argoth
 1 Eladamri's Call
 1 Yavimaya, Cradle of Growth
 1 Elvish Reclaimer
 1 Bojuka Bog
+1 Windswept Heath
 1 Zuran Orb
 1 Renegade Rallier
 1 Godless Shrine
@@ -167,11 +151,13 @@
 1 Urza's Saga
 2 Eladamri's Call
 2 Elvish Reclaimer
+2 Windswept Heath
 2 Urza's Saga
 2 Verdant Catacombs
 2 Knight of the Reliquary
 3 Eladamri's Call
 3 Elvish Reclaimer
+3 Windswept Heath
 3 Temple Garden
 3 Urza's Saga
 3 Knight of the Reliquary
@@ -179,6 +165,7 @@
 4 Eladamri's Call
 4 Elvish Reclaimer
 4 Knight of the Reliquary
+4 Windswept Heath
 4 Urza's Saga
 1 Mishra's Bauble
 1 Phyrexian Revoker
@@ -204,23 +191,27 @@
 2 War Priest of Thune
 4 Flagstones of Trokair
 1 Lightning Bolt
+1 Ragavan, Nimble Pilferer
 1 Seasoned Pyromancer
 1 Winota, Joiner of Forces
 1 Angrath's Marauders
 2 Lightning Bolt
+2 Ragavan, Nimble Pilferer
 2 Seasoned Pyromancer
 2 Winota, Joiner of Forces
 2 Magus of the Moon
 2 Angrath's Marauders
 2 Mountain
 3 Lightning Bolt
+3 Ragavan, Nimble Pilferer
 3 Seasoned Pyromancer
 3 Winota, Joiner of Forces
-3 Magus of the Moon
 3 Angrath's Marauders
+3 Magus of the Moon
 3 Mountain
 4 Lightning Bolt
 4 Seasoned Pyromancer
+4 Ragavan, Nimble Pilferer
 4 Fable of the Mirror-Breaker
 4 Mountain
 4 Winota, Joiner of Forces
