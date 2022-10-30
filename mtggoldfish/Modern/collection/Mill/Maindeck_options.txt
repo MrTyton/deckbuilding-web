@@ -1,21 +1,20 @@
 4 Island
-1 Scalding Tarn
-1 Murderous Cut
-1 Snow-Covered Swamp
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
+1 Murderous Cut
+1 Mikokoro, Center of the Sea
+1 Snow-Covered Swamp
 2 Snow-Covered Swamp
-1 Into the Story
-2 Swamp
-2 Darkslick Shores
 1 Spell Pierce
 2 Spell Pierce
-3 Darkslick Shores
+2 Swamp
+1 Into the Story
+2 Darkslick Shores
 3 Spell Pierce
+3 Darkslick Shores
 1 Ensnaring Bridge
-3 Watery Grave
 4 Flooded Strand
 1 Mesmeric Orb
 2 Mesmeric Orb
@@ -27,6 +26,7 @@
 2 Hallowed Fountain
 4 Surgical Extraction
 1 Force of Negation
+3 Watery Grave
 2 Prismatic Ending
 1 Glimpse the Unthinkable
 1 Counterspell
@@ -38,32 +38,26 @@
 5 Island
 2 Path to Exile
 3 Prismatic Ending
-4 Watery Grave
-1 Founding the Third Path
-2 Founding the Third Path
 2 Glimpse the Unthinkable
 3 Glimpse the Unthinkable
-3 Hallowed Fountain
-4 Hallowed Fountain
-1 Godless Shrine
 1 Trapmaker's Snare
-1 Mission Briefing
-1 Fabled Passage
-2 Force of Negation
-1 Go for the Throat
-1 Drowned Catacomb
-2 Drowned Catacomb
-2 Baleful Mastery
-1 Archmage's Charm
-2 Archmage's Charm
-1 Bloodchief's Thirst
-2 Misty Rainforest
-2 Bloodchief's Thirst
-3 Misty Rainforest
 1 Prismatic Vista
 2 Prismatic Vista
 3 Prismatic Vista
+3 Hallowed Fountain
+4 Hallowed Fountain
+1 Jace's Phantasm
+1 Godless Shrine
+1 Fabled Passage
+2 Force of Negation
+2 Baleful Mastery
+1 Archmage's Charm
+2 Archmage's Charm
+1 Founding the Third Path
+2 Founding the Third Path
 4 Glimpse the Unthinkable
+1 Mission Briefing
+4 Watery Grave
 1 Raffine's Tower
 2 Crypt Incursion
 4 Prismatic Ending
@@ -73,6 +67,29 @@
 2 Extirpate
 3 Extirpate
 4 Extirpate
+1 Expressive Iteration
+1 Cleansing Wildfire
+1 Lightning Bolt
+1 Ravenous Trap
+1 Mountain
+1 Steam Vents
+2 Mountain
+2 Steam Vents
+2 Expressive Iteration
+2 Cleansing Wildfire
+2 Lightning Bolt
+2 Jace's Phantasm
+2 Scalding Tarn
+2 Trapmaker's Snare
+3 Scalding Tarn
+3 Cleansing Wildfire
+3 Lightning Bolt
+3 Trapmaker's Snare
+3 Jace's Phantasm
+4 Scalding Tarn
+4 Cleansing Wildfire
+4 Lightning Bolt
+4 Jace's Phantasm
 1 Ghost Quarter
 1 Increasing Confusion
 2 Ghost Quarter
@@ -88,23 +105,22 @@
 3 Castle Vantress
 3 Fraying Sanity
 4 Fraying Sanity
-1 Marsh Flats
 1 Brought Back
 1 Ranger-Captain of Eos
 1 Solitude
 1 Teferi, Time Raveler
-1 Esper Sentinel
 1 Ranger of Eos
-1 Jace's Phantasm
+1 Esper Sentinel
+1 Marsh Flats
 2 Plains
-2 Teferi, Time Raveler
 2 Marsh Flats
+2 Teferi, Time Raveler
 2 Solitude
 2 Brought Back
 2 Ranger-Captain of Eos
-3 Teferi, Time Raveler
 3 Marsh Flats
 3 Plains
+3 Teferi, Time Raveler
 3 Solitude
 3 Ranger-Captain of Eos
 3 Brought Back

@@ -65,8 +65,8 @@
 1 Narset, Parter of Veils
 1 Day's Undoing
 1 Geier Reach Sanitarium
-2 Narset, Parter of Veils
 2 Day's Undoing
+2 Narset, Parter of Veils
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
 2 Hall of Storm Giants
@@ -95,15 +95,15 @@
 3 Charming Prince
 3 Skyclave Apparition
 4 Force of Negation
-1 Collected Company
 1 Glasspool Mimic
+1 Collected Company
 1 Wall of Blossoms
-2 Collected Company
 2 Glasspool Mimic
-3 Collected Company
+2 Collected Company
 3 Wall of Omens
-4 Collected Company
+3 Collected Company
 4 Wall of Omens
+4 Collected Company
 1 Leyline Binding
 2 Leyline Binding
 3 Leyline Binding
@@ -112,12 +112,12 @@
 1 Prismatic Vista
 2 Prismatic Vista
 1 Cryptic Command
-1 On Thin Ice
 1 Knight of Autumn
+1 On Thin Ice
 1 Rimewood Falls
 2 Cryptic Command
-2 On Thin Ice
 2 Temple Garden
+2 On Thin Ice
 2 Flooded Grove
 3 Cryptic Command
 4 Eternal Witness
@@ -130,8 +130,8 @@
 5 Snow-Covered Island
 2 Plains
 4 Dress Down
-1 Raffine's Tower
 1 Ketria Triome
+1 Raffine's Tower
 2 Shark Typhoon
 2 Wall of Blossoms
 4 Opt
@@ -157,6 +157,12 @@
 3 Scalding Tarn
 3 Omen of the Sea
 4 Scalding Tarn
+3 Polluted Delta
+3 Memory Deluge
+3 Hall of Storm Giants
+4 Polluted Delta
+4 Chalice of the Void
+6 Snow-Covered Island
 1 Emrakul, the Promised End
 2 Glacial Fortress
 2 Emrakul, the Promised End
@@ -168,12 +174,6 @@
 4 Field of Ruin
 4 Supreme Verdict
 6 Island
-3 Polluted Delta
-3 Memory Deluge
-3 Hall of Storm Giants
-4 Polluted Delta
-4 Chalice of the Void
-6 Snow-Covered Island
 1 Serra Paragon
 1 Dovin's Veto
 1 Consider

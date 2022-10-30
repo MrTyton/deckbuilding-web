@@ -67,8 +67,8 @@
 2 Cut Down
 2 The Raven Man
 2 Rankle, Master of Pranks
-3 Rankle, Master of Pranks
 3 Cut Down
+3 Rankle, Master of Pranks
 4 Sheoldred, the Apocalypse
 1 Sulfurous Springs
 1 Fable of the Mirror-Breaker
@@ -78,13 +78,13 @@
 2 Fable of the Mirror-Breaker
 2 Blightstep Pathway
 2 Sulfurous Springs
-3 Sulfurous Springs
 3 Fable of the Mirror-Breaker
 3 Blood Crypt
 3 Heartless Act
-4 Sulfurous Springs
+3 Sulfurous Springs
 4 Fable of the Mirror-Breaker
 4 Spawn of Mayhem
+4 Sulfurous Springs
 4 Blood Crypt
 1 Gonti, Lord of Luxury
 1 Fabled Passage
@@ -121,6 +121,10 @@
 3 Gray Merchant of Asphodel
 4 Radiant Fountain
 4 Gray Merchant of Asphodel
+14 Snow-Covered Swamp
+1 Murderous Cut
+15 Swamp
+16 Swamp
 1 Cryptbreaker
 1 Lazotep Reaver
 1 Champion of the Perished
@@ -138,7 +142,3 @@
 4 Lazotep Reaver
 4 Dread Wanderer
 4 Champion of the Perished
-1 Murderous Cut
-15 Swamp
-16 Swamp
-14 Snow-Covered Swamp

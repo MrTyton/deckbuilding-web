@@ -1,23 +1,22 @@
+2 Scalding Tarn
 1 Apostle's Blessing
 2 Apostle's Blessing
-2 Scalding Tarn
+2 Wooded Foothills
 10 Mountain
 1 Fiery Islet
-2 Wooded Foothills
 1 Crash Through
 1 Reckless Impulse
 2 Reckless Impulse
 3 Reckless Impulse
-1 Den of the Bugbear
-1 Ragavan, Nimble Pilferer
 3 Scalding Tarn
 2 Fiery Islet
+1 Den of the Bugbear
+1 Ragavan, Nimble Pilferer
 2 Den of the Bugbear
-2 Ragavan, Nimble Pilferer
-2 Sokenzan, Crucible of Defiance
+3 Den of the Bugbear
 1 Blood Moon
 11 Mountain
-3 Den of the Bugbear
+2 Ragavan, Nimble Pilferer
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 1 Ramunap Ruins
@@ -26,16 +25,17 @@
 4 Ramunap Ruins
 1 Spikefield Hazard
 2 Spikefield Hazard
+2 Sokenzan, Crucible of Defiance
 3 Bonecrusher Giant
-3 Ragavan, Nimble Pilferer
-4 Ragavan, Nimble Pilferer
 1 Magus of the Moon
 1 Seasoned Pyromancer
 1 Fury
 2 Fury
 2 Seasoned Pyromancer
 3 Fury
+3 Ragavan, Nimble Pilferer
 3 Seasoned Pyromancer
+4 Ragavan, Nimble Pilferer
 2 Blood Moon
 3 Blood Moon
 1 Leyline of Combustion
@@ -49,18 +49,16 @@
 3 Spikefield Hazard
 4 Leyline of Combustion
 4 Eidolon of the Great Revel
+1 Gut Shot
+2 Gut Shot
 4 Fury
 1 Lava Spike
-4 Den of the Bugbear
-1 Goblin Guide
-2 Goblin Guide
-3 Goblin Guide
-4 Goblin Guide
 2 Crash Through
 1 Light Up the Night
 2 Light Up the Night
 4 Blood Moon
 4 Seasoned Pyromancer
+4 Den of the Bugbear
 1 Bedlam Reveler
 1 Unholy Heat
 1 Firebolt
@@ -69,10 +67,12 @@
 4 Reckless Impulse
 1 Sunbaked Canyon
 1 Shatterskull Smashing
+1 Goblin Guide
+2 Goblin Guide
+3 Goblin Guide
+4 Goblin Guide
 2 Magus of the Moon
 3 Magus of the Moon
-1 Gut Shot
-2 Gut Shot
 1 Wizard's Lightning
 1 Seal of Fire
 1 Roiling Vortex
@@ -84,8 +84,8 @@
 2 Viashino Pyromancer
 3 Wizard's Lightning
 3 Roiling Vortex
-3 Seal of Fire
 3 Viashino Pyromancer
+3 Seal of Fire
 4 Wizard's Lightning
 4 Viashino Pyromancer
 4 Seal of Fire
@@ -95,8 +95,8 @@
 2 Lava Spike
 3 Lava Spike
 2 Chandra, Fire Artisan
-1 Kiln Fiend
 1 Temur Battle Rage
+1 Kiln Fiend
 2 Kiln Fiend
 2 Unholy Heat
 3 Unholy Heat
@@ -114,35 +114,9 @@
 1 Mishra's Factory
 2 Mishra's Factory
 3 Fiery Islet
-1 Burning-Tree Emissary
-1 Goblin Bushwhacker
-1 Foundry Street Denizen
-1 Legion Loyalist
-1 Goblin Grenade
-1 Reckless Bushwhacker
-2 Burning-Tree Emissary
-2 Legion Loyalist
-2 Goblin Grenade
-2 Foundry Street Denizen
-2 Goblin Bushwhacker
-2 Reckless Bushwhacker
-3 Burning-Tree Emissary
-3 Legion Loyalist
-3 Goblin Grenade
-3 Foundry Street Denizen
-3 Reckless Bushwhacker
-3 Goblin Bushwhacker
-4 Burning-Tree Emissary
-4 Goblin Grenade
-4 Reckless Bushwhacker
-4 Goblin Bushwhacker
-4 Foundry Street Denizen
-4 Legion Loyalist
 2 Sunbaked Canyon
 3 Sunbaked Canyon
-1 Castle Embereth
 1 Chandra, Dressed to Kill
-14 Mountain
 1 Abbot of Keral Keep
 1 Forked Bolt
 1 Wayward Guide-Beast
@@ -154,6 +128,7 @@
 4 Forked Bolt
 4 Wayward Guide-Beast
 2 Shatterskull Smashing
+14 Mountain
 1 Relic of Progenitus
 1 Pillar of Flame
 1 Furor of the Bitten
@@ -164,15 +139,12 @@
 3 Pillar of Flame
 3 Furor of the Bitten
 1 Prismatic Vista
+1 Chandra, Awakened Inferno
+2 Chandra, Torch of Defiance
 1 Squee, Dubious Monarch
 1 Goblin Rabblemaster
 1 Legion Warboss
 2 Goblin Rabblemaster
-1 Chandra, Awakened Inferno
-2 Chandra, Torch of Defiance
-1 Mogg Fanatic
-2 Mogg Fanatic
-2 Castle Embereth
 1 Stomping Ground
 3 Gut Shot
 4 Gut Shot
@@ -193,6 +165,7 @@
 4 Firebolt
 1 Moonveil Regent
 1 Bomat Courier
+1 Castle Embereth
 1 Runaway Steam-Kin
 1 Robber of the Rich
 2 Bomat Courier
@@ -203,18 +176,42 @@
 3 Bomat Courier
 4 Sunbaked Canyon
 4 Runaway Steam-Kin
+1 Burning-Tree Emissary
 1 Battle Cry Goblin
-1 Voldaren Epicure
 1 Devastating Summons
+1 Goblin Bushwhacker
+1 Voldaren Epicure
+1 Foundry Street Denizen
+1 Legion Loyalist
 1 Mogg War Marshal
+1 Goblin Grenade
+1 Reckless Bushwhacker
 2 Voldaren Epicure
+2 Burning-Tree Emissary
+2 Legion Loyalist
+2 Goblin Grenade
+2 Foundry Street Denizen
+2 Reckless Bushwhacker
 2 Devastating Summons
 2 Battle Cry Goblin
+2 Goblin Bushwhacker
+3 Burning-Tree Emissary
 3 Battle Cry Goblin
+3 Legion Loyalist
+3 Goblin Grenade
+3 Foundry Street Denizen
+3 Reckless Bushwhacker
+3 Goblin Bushwhacker
+4 Goblin Grenade
+4 Burning-Tree Emissary
+4 Reckless Bushwhacker
+4 Goblin Bushwhacker
+4 Foundry Street Denizen
+4 Legion Loyalist
 4 Battle Cry Goblin
 1 Nykthos, Shrine to Nyx
-1 Purphoros, God of the Forge
 1 Shinka, the Bloodsoaked Keep
+1 Purphoros, God of the Forge
 3 Shatterskull Smashing
 3 Torbran, Thane of Red Fell
 4 Spikefield Hazard
