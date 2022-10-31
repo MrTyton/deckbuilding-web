@@ -1,25 +1,25 @@
 1 Wrath of God
-2 Soul-Guide Lantern
-2 Day of Judgment
-2 Castle Ardenvale
 1 Divine Purge
 1 Field of Ruin
 1 Rest in Peace
 1 Commit/Memory
 2 Divine Purge
-1 Baneslayer Angel
+2 Day of Judgment
+2 Soul-Guide Lantern
+2 Castle Ardenvale
 2 Castle Vantress
 3 Narset, Parter of Veils
 1 Fragment Reality
 4 Hengegate Pathway
+1 Baneslayer Angel
 2 Wrath of God
-4 Glacial Fortress
-3 The Wandering Emperor
-3 Portable Hole
 1 Supreme Verdict
 2 Supreme Verdict
 3 Supreme Verdict
 3 Memory Deluge
+4 Glacial Fortress
+3 Portable Hole
+3 The Wandering Emperor
 1 Adarkar Wastes
 1 Mystical Dispute
 1 Settle the Wreckage
@@ -33,6 +33,7 @@
 4 Jwari Disruption
 4 Shark Typhoon
 2 Rest in Peace
+3 Island
 3 Fragment Reality
 3 Fateful Absence
 1 Absorb
@@ -41,7 +42,6 @@
 1 Brazen Borrower
 1 Spell Pierce
 2 Spell Pierce
-3 Island
 4 Fateful Absence
 1 Cave of the Frost Dragon
 3 Dovin's Veto
@@ -56,7 +56,6 @@
 2 Field of Ruin
 3 Saiba Syphoner
 1 Discover the Impossible
-1 Teferi, Who Slows the Sunset
 1 Forsaken Crossroads
 1 Witness the Future
 1 Gates of Istfell
@@ -66,6 +65,7 @@
 1 Failure/Comply
 1 Signature Spells
 1 Cavalier of Gales
+1 Teferi, Who Slows the Sunset
 1 Revitalize
 2 Discover the Impossible
 2 Teferi, Who Slows the Sunset
@@ -94,8 +94,8 @@
 3 Raugrin Triome
 1 Doomskar
 1 Mana Tithe
-1 Thirst for Meaning
 1 Ashiok's Erasure
+1 Thirst for Meaning
 1 Borrowed Time
 2 Doomskar
 2 Borrowed Time
@@ -105,8 +105,8 @@
 3 Wrath of God
 4 Portable Hole
 1 Lotus Field
-1 Strict Proctor
 1 Stifle
+1 Strict Proctor
 1 Discontinuity
 2 Discontinuity
 2 Lotus Field
@@ -115,6 +115,8 @@
 3 Lotus Field
 3 Strict Proctor
 4 Lotus Field
+1 Raffine's Tower
+4 Supreme Verdict
 2 Otawara, Soaring City
 2 Sphinx's Revelation
 4 Opt

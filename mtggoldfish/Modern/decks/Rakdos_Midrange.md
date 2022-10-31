@@ -109,7 +109,7 @@
 |                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                         |                     |                                                                                                    |
 |                    1|[Shatterskull Smashing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491802)         |                     |                                                                                                    |
 |                    2|[Spikefield Hazard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491809)             |                     |                                                                                                    |
-|                    4|[Malakir Rebirth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491747)               |                     |                                                                                                    |
 |                    4|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)                     |                     |                                                                                                    |
+|                    4|[Malakir Rebirth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491747)               |                     |                                                                                                    |
 |                    3|[Undying Evil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262835)                  |                     |                                                                                                    |
 

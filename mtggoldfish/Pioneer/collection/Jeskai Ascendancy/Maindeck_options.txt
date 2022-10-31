@@ -19,10 +19,10 @@
 1 Hinterland Harbor
 4 Dig Through Time
 1 Expressive Iteration
-2 Hinterland Harbor
 2 Expressive Iteration
-3 Hinterland Harbor
+2 Hinterland Harbor
 3 Expressive Iteration
+3 Hinterland Harbor
 4 Expressive Iteration
 4 Hengegate Pathway
 2 Spara's Headquarters
@@ -31,8 +31,8 @@
 1 Otherworldly Gaze
 1 Strangle
 2 Breeding Pool
-1 Sulfur Falls
 1 Rootbound Crag
+1 Sulfur Falls
 2 Paradise Druid
 2 Glacial Fortress
 4 Sacred Foundry
@@ -50,8 +50,8 @@
 3 Spara's Headquarters
 4 Fiery Impulse
 3 Llanowar Loamspeaker
-1 Rip Apart
 1 Narset, Parter of Veils
+1 Rip Apart
 3 Commune with the Gods
 1 Dreamroot Cascade
 2 Dreamroot Cascade
@@ -61,13 +61,13 @@
 1 Escape to the Wilds
 1 Retraction Helix
 2 Retraction Helix
-1 Ledger Shredder
+1 Inspiring Vantage
 1 Tormod's Crypt
 1 Spirebluff Canal
-1 Inspiring Vantage
+1 Ledger Shredder
+2 Inspiring Vantage
 2 Ledger Shredder
 2 Spirebluff Canal
-2 Inspiring Vantage
 3 Ledger Shredder
 3 Steam Vents
 3 Hallowed Fountain
@@ -86,17 +86,17 @@
 3 Mox Amber
 3 Emry, Lurker of the Loch
 4 Emry, Lurker of the Loch
-4 Portable Hole
 4 Hallowed Fountain
+4 Portable Hole
 4 Terrarion
 1 Expedite
 4 Steam Vents
 1 Galvanic Iteration
 1 Growth Spiral
 2 Growth Spiral
+1 Snow-Covered Island
 1 The Reality Chip
 1 Glass Casket
-1 Snow-Covered Island
 3 Inspiring Vantage
 4 Mox Amber
 1 Idyllic Tutor
@@ -118,23 +118,23 @@
 2 Tormod's Crypt
 1 Mana Confluence
 1 Secrets of the Key
-1 Leyline of Sanctity
 1 Flame-Blessed Bolt
+1 Leyline of Sanctity
 1 Change of Fortune
+2 Glass Casket
 1 Adarkar Wastes
 2 Adarkar Wastes
 2 Spell Pierce
-2 Glass Casket
 1 Plains
 2 Idyllic Tutor
-1 Dig Up
 1 Commune with Spirits
+1 Dig Up
+1 Forest
 1 Claim/Fame
 1 Mountain
-1 Forest
-2 Mana Confluence
-2 Dig Up
 2 Commune with Spirits
+2 Dig Up
+2 Mana Confluence
 2 Claim/Fame
 3 Commune with Spirits
 3 Dig Up
@@ -142,39 +142,16 @@
 1 Reverse Engineer
 2 Reverse Engineer
 3 Tormod's Crypt
-3 Breeding Pool
-4 Breeding Pool
-4 Izzet Charm
 3 Strangle
 4 Impulse
+4 Izzet Charm
+3 Breeding Pool
+4 Breeding Pool
 1 Leyline Binding
-2 Tamiyo, Collector of Tales
 2 Leyline Binding
+2 Tamiyo, Collector of Tales
 3 Leyline Binding
 4 Leyline Binding
-1 Soul-Scar Mage
-1 Deserted Beach
-1 Reckless Rage
-1 Sprite Dragon
-1 Stormcarved Coast
-1 Ancestral Anger
-1 Sokenzan, Crucible of Defiance
-1 Monastery Swiftspear
-2 Sprite Dragon
-2 Deserted Beach
-2 Reckless Rage
-2 Soul-Scar Mage
-2 Monastery Swiftspear
-2 Ancestral Anger
-3 Sprite Dragon
-3 Soul-Scar Mage
-3 Reckless Rage
-3 Ancestral Anger
-3 Monastery Swiftspear
-4 Sprite Dragon
-4 Soul-Scar Mage
-4 Ancestral Anger
-4 Monastery Swiftspear
 1 Thassa's Oracle
 1 Dryad's Revival
 1 Briber's Purse
@@ -186,3 +163,26 @@
 4 Briber's Purse
 4 Retraction Helix
 4 Expedite
+1 Deserted Beach
+1 Sprite Dragon
+1 Reckless Rage
+1 Stormcarved Coast
+1 Ancestral Anger
+1 Soul-Scar Mage
+1 Sokenzan, Crucible of Defiance
+1 Monastery Swiftspear
+2 Sprite Dragon
+2 Deserted Beach
+2 Soul-Scar Mage
+2 Monastery Swiftspear
+2 Reckless Rage
+2 Ancestral Anger
+3 Ancestral Anger
+3 Sprite Dragon
+3 Reckless Rage
+3 Monastery Swiftspear
+3 Soul-Scar Mage
+4 Ancestral Anger
+4 Sprite Dragon
+4 Monastery Swiftspear
+4 Soul-Scar Mage

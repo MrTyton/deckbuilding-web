@@ -37,8 +37,8 @@
 1 Soul Transfer
 10 Swamp
 1 Tramway Station
-1 Concealing Curtains
 1 Atsushi, the Blazing Sky
+1 Concealing Curtains
 1 March of Wretched Sorrow
 1 Reckoner Bankbuster
 1 Ob Nixilis, the Adversary
@@ -47,48 +47,48 @@
 1 Lagomos, Hand of Hatred
 1 Balduvian Atrocity
 1 Phoenix Chick
+1 Bloodfell Caves
 1 Jadar, Ghoulcaller of Nephalia
 1 Olivia, Crimson Bride
-1 Bloodfell Caves
-1 Hero's Downfall
+1 Bloodline Culling
 1 Junji, the Midnight Sky
 1 Pilfer
-1 Bloodline Culling
 1 Professional Face-Breaker
+1 Hero's Downfall
 1 Duress
 1 Battle-Rage Blessing
 1 Evelyn, the Covetous
 1 Abrade
+1 Xander's Lounge
 1 Defiler of Instinct
 1 Electrostatic Infantry
-1 Ziatora's Proving Ground
 1 Smoldering Egg
 1 Flame-Blessed Bolt
 1 Twinferno
-1 Xander's Lounge
+1 Ziatora's Proving Ground
 1 Goblin Picker
 1 Defiler of Flesh
 1 Radha's Firebrand
 1 Reinforced Ronin
-2 Xander's Lounge
 2 Ziatora's Proving Ground
-1 Henrika Domnathi
-1 Riveteers Requisitioner
+2 Xander's Lounge
+1 Voltage Surge
 1 Braids, Arisen Nightmare
+1 Riveteers Requisitioner
+1 Henrika Domnathi
 1 Eaten Alive
 1 Bloody Betrayal
 1 Reckoner's Bargain
-1 Voltage Surge
 1 Anje, Maid of Dishonor
 2 Voltage Surge
-2 Henrika Domnathi
 2 Riveteers Requisitioner
 2 Braids, Arisen Nightmare
+2 Henrika Domnathi
 2 Reckoner's Bargain
 2 Bloody Betrayal
-3 Bloody Betrayal
-3 Braids, Arisen Nightmare
 3 Reckoner's Bargain
+3 Braids, Arisen Nightmare
+3 Bloody Betrayal
 1 Strangle
 2 The Meathook Massacre
 2 Strangle
@@ -96,21 +96,37 @@
 3 Strangle
 4 Liliana of the Veil
 4 Infernal Grasp
+1 The Elder Dragon War
+1 Hungry for More
+1 Light Up the Night
+1 Tainted Adversary
+1 Burn Down the House
+2 Ob Nixilis, the Adversary
+2 The Elder Dragon War
+2 Hungry for More
+2 Light Up the Night
+2 Tainted Adversary
+2 Burn Down the House
+3 Tainted Adversary
+3 Hungry for More
+3 Light Up the Night
+4 Evolved Sleeper
+4 Tainted Adversary
 2 Jaya, Fiery Negotiator
 2 Sorin the Mirthless
 3 Jaya, Fiery Negotiator
-4 Invoke Despair
 4 Cut Down
+4 Invoke Despair
 1 Voldaren Epicure
 1 Kami's Flare
-1 Vampire Socialite
 1 Thran Portal
+1 Vampire Socialite
 2 Florian, Voldaren Scion
 2 Voldaren Epicure
+2 Sokenzan, Crucible of Defiance
 2 Kami's Flare
 2 Vampire Socialite
 2 Thran Portal
-2 Sokenzan, Crucible of Defiance
 3 Sokenzan, Crucible of Defiance
 3 Kami's Flare
 3 Voldaren Epicure
@@ -119,16 +135,22 @@
 4 Play with Fire
 4 Kami's Flare
 4 Vampire Socialite
-1 Phyrexian Rager
-1 Bone Splinters
+3 Sheoldred, the Apocalypse
+11 Swamp
+12 Swamp
+13 Swamp
+14 Swamp
+15 Swamp
 1 Extinguish the Light
+1 Bone Splinters
 1 Aggressive Sabotage
+1 Phyrexian Rager
 1 Phyrexian Vivisector
 1 Garna, Bloodfist of Keld
-2 Geothermal Bog
 2 Phoenix Chick
-2 Aggressive Sabotage
+2 Geothermal Bog
 2 Bone Splinters
+2 Aggressive Sabotage
 2 Phyrexian Rager
 2 Lagomos, Hand of Hatred
 2 Balduvian Atrocity
@@ -147,28 +169,6 @@
 4 Lagomos, Hand of Hatred
 4 Phyrexian Vivisector
 4 Phyrexian Rager
-4 Geothermal Bog
 8 Mountain
 9 Mountain
-3 Sheoldred, the Apocalypse
-11 Swamp
-12 Swamp
-13 Swamp
-14 Swamp
-15 Swamp
-1 Light Up the Night
-1 Burn Down the House
-1 Tainted Adversary
-1 The Elder Dragon War
-1 Hungry for More
-2 The Elder Dragon War
-2 Ob Nixilis, the Adversary
-2 Light Up the Night
-2 Burn Down the House
-2 Tainted Adversary
-2 Hungry for More
-3 Light Up the Night
-3 Hungry for More
-3 Tainted Adversary
-4 Evolved Sleeper
-4 Tainted Adversary
+4 Geothermal Bog

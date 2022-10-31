@@ -65,11 +65,11 @@
 3 Kumano Faces Kakkazan
 4 Kumano Faces Kakkazan
 1 Burn Down the House
-1 Hungry for More
 1 Light Up the Night
+1 Hungry for More
 2 Burn Down the House
-2 Hungry for More
 2 Light Up the Night
+2 Hungry for More
 1 Play with Fire
 2 Play with Fire
 3 Lightning Strike
@@ -77,13 +77,13 @@
 7 Mountain
 8 Mountain
 9 Mountain
-1 Phoenix Chick
 1 Reckless Stormseeker
 1 Morbid Opportunist
-2 Phoenix Chick
+1 Phoenix Chick
 2 Reckless Stormseeker
 2 Abrade
 2 Morbid Opportunist
+2 Phoenix Chick
 3 Hero's Downfall
 3 Reckless Stormseeker
 4 Hero's Downfall
@@ -97,12 +97,6 @@
 2 Knight of Dusk's Shadow
 2 Shivan Devastator
 3 Voldaren Epicure
-1 Tainted Adversary
-2 Tainted Adversary
-3 Tainted Adversary
-3 Hungry for More
-3 Light Up the Night
-4 Tainted Adversary
 1 Squee, Dubious Monarch
 2 Squee, Dubious Monarch
 4 Cut Down
@@ -119,35 +113,41 @@
 2 Biting-Palm Ninja
 3 Biting-Palm Ninja
 4 Biting-Palm Ninja
+1 Tainted Adversary
+2 Tainted Adversary
+3 Light Up the Night
+3 Hungry for More
+3 Tainted Adversary
+4 Tainted Adversary
+1 Henrika Domnathi
+1 Riveteers Requisitioner
+1 Unlucky Witness
+2 Henrika Domnathi
+2 Braids, Arisen Nightmare
+2 Riveteers Requisitioner
+2 Sokenzan, Crucible of Defiance
+2 Unlucky Witness
+3 Braids, Arisen Nightmare
+3 Unlucky Witness
+3 Riveteers Requisitioner
+4 Riveteers Requisitioner
+4 Unlucky Witness
+12 Swamp
 1 Arcane Bombardment
 1 Cathartic Pyre
 1 Weatherlight Compleated
 1 Riveteers Overlook
 1 Big Score
 1 Stensia Uprising
-2 Weatherlight Compleated
 2 Cathartic Pyre
 2 Riveteers Overlook
 2 Big Score
 2 Stensia Uprising
 2 Arcane Bombardment
+2 Weatherlight Compleated
+3 Play with Fire
 3 Stensia Uprising
 3 Arcane Bombardment
-3 Play with Fire
 4 Play with Fire
 4 Arcane Bombardment
 10 Mountain
-12 Swamp
-1 Riveteers Requisitioner
-1 Henrika Domnathi
-1 Unlucky Witness
-2 Braids, Arisen Nightmare
-2 Riveteers Requisitioner
-2 Henrika Domnathi
-2 Sokenzan, Crucible of Defiance
-2 Unlucky Witness
-3 Riveteers Requisitioner
-3 Braids, Arisen Nightmare
-3 Unlucky Witness
-4 Riveteers Requisitioner
-4 Unlucky Witness

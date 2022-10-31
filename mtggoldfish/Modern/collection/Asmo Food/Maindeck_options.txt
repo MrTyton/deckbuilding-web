@@ -3,8 +3,8 @@
 2 Time Sieve
 4 Academy Manufactor
 1 Mishra's Bauble
-1 Polluted Delta
 1 Emry, Lurker of the Loch
+1 Polluted Delta
 1 Island
 2 Mishra's Bauble
 2 Emry, Lurker of the Loch
@@ -156,8 +156,11 @@
 4 Ravenous Squirrel
 1 Wooded Foothills
 1 Eladamri's Call
-1 Sunbaked Canyon
 1 Jetmir's Garden
+1 Stoneforge Mystic
+1 Kaldra Compleat
+1 Giver of Runes
+1 Sunbaked Canyon
 1 Luxior, Giada's Gift
 1 Walking Ballista
 1 Vizier of Remedies
@@ -165,22 +168,19 @@
 1 Devoted Druid
 1 Viridian Longbow
 1 Rocco, Cabaretti Caterer
-1 Kaldra Compleat
-1 Giver of Runes
-1 Stoneforge Mystic
 1 Stomping Ground
 2 Wooded Foothills
 2 Eladamri's Call
+2 Stoneforge Mystic
+2 Giver of Runes
 2 Temple Garden
 2 Devoted Druid
-2 Giver of Runes
 2 Wrenn and Six
 2 Rocco, Cabaretti Caterer
-2 Stoneforge Mystic
 3 Wooded Foothills
 3 Eladamri's Call
-3 Rocco, Cabaretti Caterer
 3 Stoneforge Mystic
+3 Rocco, Cabaretti Caterer
 3 Wrenn and Six
 3 Devoted Druid
 3 Giver of Runes
@@ -214,11 +214,11 @@
 5 Mountain
 1 Inquisition of Kozilek
 1 The Raven Man
-1 Braids, Arisen Nightmare
 1 Sokenzan, Crucible of Defiance
-1 Shizo, Death's Storehouse
-1 Kroxa, Titan of Death's Hunger
 1 Plaza of Heroes
+1 Shizo, Death's Storehouse
+1 Braids, Arisen Nightmare
+1 Kroxa, Titan of Death's Hunger
 1 Grief
 2 Kroxa, Titan of Death's Hunger
 2 The Raven Man
@@ -231,7 +231,7 @@
 3 Inquisition of Kozilek
 3 Plaza of Heroes
 3 The Raven Man
-4 Swamp
 4 Plaza of Heroes
+4 Swamp
 4 Grief
 4 Inquisition of Kozilek

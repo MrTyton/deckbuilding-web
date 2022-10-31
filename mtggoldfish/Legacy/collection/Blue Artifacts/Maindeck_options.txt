@@ -13,10 +13,10 @@
 2 Containment Construct
 2 Breakthrough
 2 Riddlesmith
-3 Chrome Mox
 3 Containment Construct
 3 Breakthrough
 3 Riddlesmith
+3 Chrome Mox
 4 Containment Construct
 4 Riddlesmith
 1 Aether Spellbomb
@@ -35,17 +35,23 @@
 1 Brain Freeze
 1 Metallic Rebuke
 1 The Antiquities War
-1 Thought Monitor
 1 Soul-Guide Lantern
+1 Thought Monitor
 1 Minamo, School at Water's Edge
 2 Metallic Rebuke
 2 Thought Monitor
 2 The Antiquities War
 3 Metallic Rebuke
 3 The Antiquities War
+1 Currency Converter
+1 Force of Negation
+1 Wasteland
+2 Wasteland
+3 Wasteland
+4 Wasteland
+1 Cunning Wish
 1 Words of Wind
 1 Walking Ballista
-1 Cunning Wish
 4 Breakthrough
 1 The Reality Chip
 1 Tormod's Crypt
@@ -59,39 +65,6 @@
 3 Erayo, Soratami Ascendant
 3 Otawara, Soaring City
 4 Kappa Cannoneer
-1 Polluted Delta
-1 Underground Sea
-1 Snow-Covered Swamp
-1 Sai, Master Thopterist
-1 Uro, Titan of Nature's Wrath
-1 Thopter Foundry
-1 Sword of the Meek
-1 Nimble Obstructionist
-1 Tropical Island
-1 Baleful Strix
-1 Snow-Covered Forest
-1 Misty Rainforest
-2 Polluted Delta
-2 Tropical Island
-2 Sai, Master Thopterist
-2 Uro, Titan of Nature's Wrath
-2 Snow-Covered Island
-2 Underground Sea
-2 Misty Rainforest
-2 Baleful Strix
-3 Polluted Delta
-3 Urza, Lord High Artificer
-3 Baleful Strix
-3 Uro, Titan of Nature's Wrath
-4 Urza, Lord High Artificer
-4 Polluted Delta
-4 Baleful Strix
-1 Currency Converter
-1 Force of Negation
-1 Wasteland
-2 Wasteland
-3 Wasteland
-4 Wasteland
 1 Retrofitter Foundry
 1 Karakas
 1 Phyrexian Furnace
@@ -101,3 +74,30 @@
 6 Island
 7 Island
 8 Island
+1 Underground Sea
+1 Sai, Master Thopterist
+1 Polluted Delta
+1 Baleful Strix
+1 Snow-Covered Swamp
+1 Thopter Foundry
+1 Sword of the Meek
+1 Nimble Obstructionist
+1 Tropical Island
+1 Snow-Covered Forest
+1 Uro, Titan of Nature's Wrath
+1 Misty Rainforest
+2 Tropical Island
+2 Sai, Master Thopterist
+2 Baleful Strix
+2 Polluted Delta
+2 Uro, Titan of Nature's Wrath
+2 Snow-Covered Island
+2 Underground Sea
+2 Misty Rainforest
+3 Polluted Delta
+3 Urza, Lord High Artificer
+3 Baleful Strix
+3 Uro, Titan of Nature's Wrath
+4 Urza, Lord High Artificer
+4 Baleful Strix
+4 Polluted Delta

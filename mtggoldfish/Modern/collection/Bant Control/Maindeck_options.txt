@@ -32,8 +32,8 @@
 1 Ephemerate
 2 Ephemerate
 3 Ephemerate
-1 Eternal Witness
 1 Soulherder
+1 Eternal Witness
 2 Eternal Witness
 4 Ephemerate
 1 Noble Hierarch
@@ -62,9 +62,9 @@
 3 Abundant Growth
 4 Abundant Growth
 1 Eiganjo, Seat of the Empire
-1 Narset, Parter of Veils
 1 Day's Undoing
 1 Geier Reach Sanitarium
+1 Narset, Parter of Veils
 2 Day's Undoing
 2 Narset, Parter of Veils
 3 Narset, Parter of Veils
@@ -90,14 +90,14 @@
 2 Opt
 3 Opt
 1 Skyclave Apparition
-2 Charming Prince
 2 Skyclave Apparition
-3 Charming Prince
+2 Charming Prince
 3 Skyclave Apparition
+3 Charming Prince
 4 Force of Negation
+1 Wall of Blossoms
 1 Glasspool Mimic
 1 Collected Company
-1 Wall of Blossoms
 2 Glasspool Mimic
 2 Collected Company
 3 Wall of Omens
@@ -124,24 +124,24 @@
 4 Coiling Oracle
 1 Glacial Fortress
 1 Field of Ruin
-2 Celestial Colonnade
 2 Field of Ruin
+2 Celestial Colonnade
 5 Island
 5 Snow-Covered Island
 2 Plains
 4 Dress Down
 1 Ketria Triome
 1 Raffine's Tower
-2 Shark Typhoon
 2 Wall of Blossoms
+2 Shark Typhoon
 4 Opt
 1 Reflecting Pool
 4 March of Otherworldly Light
 1 Vesperlark
-1 Stoneforge Mystic
-1 Kaldra Compleat
-1 Spell Queller
 1 Batterskull
+1 Kaldra Compleat
+1 Stoneforge Mystic
+1 Spell Queller
 2 Stoneforge Mystic
 2 Spell Queller
 3 Stoneforge Mystic
@@ -149,9 +149,9 @@
 1 Restoration Angel
 1 Omen of the Sea
 1 Qasali Ambusher
-2 Vendilion Clique
 2 Restoration Angel
 2 Omen of the Sea
+2 Vendilion Clique
 2 Qasali Ambusher
 3 Restoration Angel
 3 Scalding Tarn
@@ -181,8 +181,8 @@
 3 Hallowed Fountain
 3 Day's Undoing
 3 Subtlety
-1 Sword of Fire and Ice
 1 Lion Sash
+1 Sword of Fire and Ice
 3 Spell Queller
 4 Stoneforge Mystic
 1 Sword of Feast and Famine
