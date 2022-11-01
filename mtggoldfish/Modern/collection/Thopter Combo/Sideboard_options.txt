@@ -53,6 +53,7 @@
 2 Counterspell
 1 Engineered Explosives
 1 Sphinx of the Steel Wind
+2 Invasive Surgery
 2 Pithing Needle
 1 Fateful Absence
 2 Fateful Absence
@@ -60,10 +61,6 @@
 2 Blossoming Calm
 1 Aether Gust
 2 Aether Gust
-1 Dismember
-1 Fragmentize
-2 Fragmentize
-2 Invasive Surgery
 1 Hushbringer
 2 Hushbringer
 1 Galvanic Blast
@@ -75,6 +72,9 @@
 1 Radiant Flames
 1 Sphere of Annihilation
 2 Sphere of Annihilation
+1 Dismember
+1 Fragmentize
+2 Fragmentize
 1 Thoughtseize
 1 Collective Brutality
 2 Thoughtseize
@@ -91,8 +91,8 @@
 4 Leyline Binding
 1 Lion Sash
 4 Metallic Rebuke
-1 Unlicensed Hearse
 1 Lightning Bolt
+1 Unlicensed Hearse
 2 Lightning Bolt
 3 Lightning Bolt
 3 Counterspell

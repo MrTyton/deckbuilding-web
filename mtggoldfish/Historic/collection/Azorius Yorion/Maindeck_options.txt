@@ -1,33 +1,33 @@
-1 Field of Ruin
-1 Commit/Memory
 1 Search for Azcanta
-3 Dovin's Veto
+1 Commit/Memory
 6 Island
-2 Rest in Peace
+4 Memory Deluge
+1 Field of Ruin
 1 Settle the Wreckage
 3 Jwari Disruption
-3 Wrath of God
+2 Rest in Peace
 7 Island
 4 Portable Hole
 3 Plains
-2 Field of Ruin
-4 Wrath of God
-1 Discover the Formula
+3 Wrath of God
 2 Raugrin Triome
 1 Temple of Enlightenment
 2 Temple of Enlightenment
 3 Temple of Enlightenment
-1 Emeria's Call
+2 Field of Ruin
+4 Wrath of God
+1 Discover the Formula
 1 Sphinx's Revelation
-2 Emeria's Call
-4 Narset, Parter of Veils
 1 Doomskar
 2 Day of Judgment
 3 Fateful Absence
 1 Dream Trawler
-4 Fateful Absence
+1 Emeria's Call
 1 Divine Purge
 2 Divine Purge
+2 Emeria's Call
+4 Narset, Parter of Veils
+4 Fateful Absence
 3 Farewell
 4 Plains
 5 Plains
@@ -36,13 +36,13 @@
 1 Approach of the Second Sun
 2 Approach of the Second Sun
 6 Plains
+3 Divine Purge
 1 Supreme Verdict
 2 Supreme Verdict
 3 Raugrin Triome
 2 Settle the Wreckage
 1 Fragment Reality
 1 Relic of Progenitus
-3 Divine Purge
 1 Lightning Helix
 1 Steam Vents
 2 Lightning Helix
@@ -51,6 +51,7 @@
 4 Steam Vents
 1 Elspeth Conquers Death
 1 Absorb Energy
+1 Raffine's Tower
 1 Strict Proctor
 1 Lotus Field
 2 Strict Proctor
@@ -69,8 +70,8 @@
 3 Expressive Iteration
 4 Lightning Helix
 4 Expressive Iteration
-1 Discontinuity
 1 Stifle
+1 Discontinuity
 2 Stifle
 1 Fabled Passage
 2 Fabled Passage
@@ -78,7 +79,13 @@
 2 Doomskar
 7 Plains
 8 Plains
-1 Raffine's Tower
+1 Spara's Headquarters
+1 Adarkar Wastes
+1 Seek New Knowledge
+2 Adarkar Wastes
+2 Seek New Knowledge
+3 Adarkar Wastes
+1 Authority of the Consuls
 1 Planar Cleansing
 2 Eiganjo, Seat of the Empire
 2 Elspeth Conquers Death
@@ -94,50 +101,44 @@
 8 Island
 9 Island
 2 Castle Ardenvale
-1 Supreme Will
 1 Sea Gate Restoration
+1 Supreme Will
 1 Valakut Awakening
 1 Niv-Mizzet, Parun
 2 Valakut Awakening
 2 Supreme Will
 2 Niv-Mizzet, Parun
-1 Spara's Headquarters
 1 Chalice of the Void
 2 Absorb Energy
 1 Needleverge Pathway
 1 Sacred Foundry
 1 Fable of the Mirror-Breaker
 1 Justice Strike
-1 Riverglide Pathway
 1 Anger of the Gods
 1 Gates of Istfell
+1 Riverglide Pathway
 2 Fable of the Mirror-Breaker
 2 Sacred Foundry
 2 Riverglide Pathway
 3 Riverglide Pathway
-1 Adarkar Wastes
-1 Test of Talents
 1 Censor
+1 Test of Talents
 1 Disallow
 1 Key to the Archive
 1 Oracle of the Alpha
 1 Spell Pierce
-1 Seek New Knowledge
-2 Adarkar Wastes
-2 Disallow
 2 Censor
+2 Disallow
 2 Test of Talents
-2 Seek New Knowledge
 2 Spell Pierce
 2 Oracle of the Alpha
 2 Discover the Formula
-3 Adarkar Wastes
 3 Oracle of the Alpha
 3 Supreme Verdict
 4 Supreme Verdict
-4 Strict Proctor
 1 Mystical Dispute
 4 Fabled Passage
+4 Strict Proctor
 1 Commence the Endgame
 1 Saiba Syphoner
 1 Flame-Blessed Bolt
@@ -145,6 +146,28 @@
 2 Saiba Syphoner
 3 Saiba Syphoner
 4 Saiba Syphoner
+1 Void Rend
+1 Sheoldred, the Apocalypse
+1 Caves of Koilos
+1 Ashiok, Nightmare Muse
+1 Shipwreck Marsh
+1 Swamp
+1 Watery Grave
+1 Calim, Djinn Emperor
+1 Shattered Sanctum
+1 Leyline Binding
+1 Godless Shrine
+2 Ashiok, Nightmare Muse
+2 Raffine's Tower
+2 Sheoldred, the Apocalypse
+2 Dream Trawler
+2 Shipwreck Marsh
+2 Shattered Sanctum
+2 Watery Grave
+3 Raffine's Tower
+3 Seek New Knowledge
+4 Raffine's Tower
+4 Seek New Knowledge
 1 Cleansing Nova
 1 Shatter the Sky
 1 The Birth of Meletis
@@ -157,16 +180,15 @@
 3 The Birth of Meletis
 4 The Birth of Meletis
 9 Plains
-1 Authority of the Consuls
 1 Sinister Sabotage
 1 Behold the Multiverse
 1 Farm/Market
 1 Opt
+2 Behold the Multiverse
 2 Sinister Sabotage
 2 Authority of the Consuls
 2 Farm/Market
 2 Opt
-2 Behold the Multiverse
 3 Stifle
 3 Doomskar
 3 Approach of the Second Sun

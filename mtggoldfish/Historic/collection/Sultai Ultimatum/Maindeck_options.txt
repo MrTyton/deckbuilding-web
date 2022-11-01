@@ -56,8 +56,8 @@
 1 Supreme Will
 1 Pact of Negation
 2 Languish
-1 Power Word Kill
 1 Temple of Deceit
+1 Power Word Kill
 1 Temple of Mystery
 2 Power Word Kill
 2 Polukranos, Unchained
@@ -74,8 +74,8 @@
 2 March of Wretched Sorrow
 2 Drowned Catacomb
 2 Mnemonic Sphere
-3 March of Wretched Sorrow
 3 Drowned Catacomb
+3 March of Wretched Sorrow
 4 March of Wretched Sorrow
 1 Aether Gust
 1 The Meathook Massacre
@@ -92,16 +92,15 @@
 1 Dreamroot Cascade
 1 Faerie Seer
 1 Cloudkin Seer
-1 Haunted Ridge
 1 Path of Peril
 1 Liliana, Death's Majesty
 1 Zimone, Quandrix Prodigy
 1 Quandrix Apprentice
 1 Woodland Chasm
 1 Novice Occultist
+1 Haunted Ridge
 2 Dreamroot Cascade
 2 Faerie Seer
-2 Haunted Ridge
 2 Cloudkin Seer
 2 Baleful Mastery
 2 Path of Peril
@@ -109,6 +108,7 @@
 2 Quandrix Apprentice
 2 Woodland Chasm
 2 Zimone, Quandrix Prodigy
+2 Haunted Ridge
 2 Rimewood Falls
 3 Dreamroot Cascade
 3 Faerie Seer
@@ -131,6 +131,7 @@
 1 Omen of the Sun
 1 Elspeth Conquers Death
 1 Sanctum Weaver
+1 Crawling Barrens
 1 Cast Out
 1 Brightclimb Pathway
 1 Emeria's Call
@@ -139,17 +140,16 @@
 1 Banishing Light
 1 The Birth of Meletis
 1 Doomskar
+1 Godless Shrine
 1 Bojuka Bog
 1 Shatter the Sky
 1 Destiny Spinner
 1 Archon of Sun's Grace
 1 Castle Ardenvale
-1 Crawling Barrens
 1 Oath of Kaya
 1 Sythis, Harvest's Hand
 1 Temple Garden
 1 Branchloft Pathway
-1 Godless Shrine
 1 Yorion, Sky Nomad
 1 Felidar Retreat
 1 Temple of Silence
@@ -171,9 +171,9 @@
 2 Oath of Kaya
 2 Elspeth's Nightmare
 2 Archon of Sun's Grace
+3 Plains
 3 Omen of the Sun
 3 The Birth of Meletis
-3 Plains
 3 Destiny Spinner
 3 Elspeth's Nightmare
 3 Sythis, Harvest's Hand
@@ -213,8 +213,8 @@
 4 Shadows' Verdict
 4 Final Parting
 1 Field of Ruin
-1 Massacre Wurm
 1 Ritual of Soot
+1 Massacre Wurm
 2 Ritual of Soot
 2 Liliana, Dreadhorde General
 3 Thoughtseize

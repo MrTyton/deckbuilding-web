@@ -33,19 +33,19 @@
 1 Brushland
 2 Oath of Nissa
 2 Razorverge Thicket
-2 Boseiju, Who Endures
 2 Branchloft Pathway
 2 Noble Hierarch
 2 Brushland
+2 Boseiju, Who Endures
 3 Razorverge Thicket
-3 Boseiju, Who Endures
 3 Branchloft Pathway
 3 Oath of Nissa
+3 Boseiju, Who Endures
 3 Brushland
 3 Noble Hierarch
+4 Boseiju, Who Endures
 4 Razorverge Thicket
 4 Brushland
-4 Boseiju, Who Endures
 4 Oath of Nissa
 4 Noble Hierarch
 4 Branchloft Pathway
@@ -122,33 +122,33 @@
 3 Restoration Angel
 1 Titania, Protector of Argoth
 1 Eladamri's Call
+1 Forest
 1 Verdant Catacombs
 1 Godless Shrine
+1 Elvish Reclaimer
 1 Windswept Heath
-1 Tireless Tracker
 1 Bojuka Bog
 1 Knight of the Reliquary
-1 Elvish Reclaimer
+1 Tireless Tracker
 1 Yavimaya, Cradle of Growth
-1 Forest
 1 Zuran Orb
 1 Augur of Autumn
 1 Renegade Rallier
 2 Eladamri's Call
 2 Verdant Catacombs
-2 Windswept Heath
 2 Elvish Reclaimer
+2 Windswept Heath
 2 Knight of the Reliquary
 3 Eladamri's Call
+3 Elvish Reclaimer
 3 Windswept Heath
 3 Temple Garden
 3 Knight of the Reliquary
-3 Elvish Reclaimer
 3 Verdant Catacombs
 4 Eladamri's Call
+4 Elvish Reclaimer
 4 Knight of the Reliquary
 4 Windswept Heath
-4 Elvish Reclaimer
 1 Needleverge Pathway
 2 Needleverge Pathway
 3 Needleverge Pathway
@@ -207,13 +207,13 @@
 3 Magus of the Moon
 3 Winota, Joiner of Forces
 3 Mountain
-4 Sacred Foundry
 4 Lightning Bolt
 4 Seasoned Pyromancer
 4 Mountain
 4 Ragavan, Nimble Pilferer
 4 Fable of the Mirror-Breaker
 4 Magus of the Moon
+4 Sacred Foundry
 4 Winota, Joiner of Forces
 4 Angrath's Marauders
 1 Urza's Factory

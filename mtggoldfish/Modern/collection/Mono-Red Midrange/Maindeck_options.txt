@@ -31,15 +31,15 @@
 1 Pyrite Spellbomb
 2 Urza's Saga
 2 Pyrite Spellbomb
-3 Pyrite Spellbomb
 3 Urza's Saga
-4 Pyrite Spellbomb
+3 Pyrite Spellbomb
 4 Urza's Saga
+4 Pyrite Spellbomb
 1 Dead/Gone
 2 Dead/Gone
-3 Chandra, Torch of Defiance
 3 Dead/Gone
 3 Unlicensed Hearse
+3 Chandra, Torch of Defiance
 4 Dead/Gone
 4 Unlicensed Hearse
 1 Karn, the Great Creator
@@ -67,6 +67,10 @@
 3 Sunbaked Canyon
 1 Shivan Devastator
 1 Inscribed Tablet
+1 Fulminator Mage
+2 Fulminator Mage
+3 Fulminator Mage
+4 Fulminator Mage
 4 Chandra, Torch of Defiance
 1 Chandra, Fire Artisan
 1 Goblin Rabblemaster
@@ -83,10 +87,6 @@
 3 Ensnaring Bridge
 3 Chandra, Fire Artisan
 4 Gemstone Caverns
-1 Fulminator Mage
-2 Fulminator Mage
-3 Fulminator Mage
-4 Fulminator Mage
 1 Kiki-Jiki, Mirror Breaker
 1 Combat Celebrant
 2 Kiki-Jiki, Mirror Breaker
@@ -95,9 +95,9 @@
 4 Combat Celebrant
 1 Scalding Tarn
 1 Arid Mesa
-1 Wooded Foothills
 1 Soul-Guide Lantern
 1 Bloodstained Mire
+1 Wooded Foothills
 2 Phoenix of Ash
 2 Soul-Guide Lantern
 3 Phoenix of Ash

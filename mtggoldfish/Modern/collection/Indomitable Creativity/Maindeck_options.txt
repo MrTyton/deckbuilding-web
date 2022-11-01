@@ -26,10 +26,10 @@
 4 Hard Evidence
 1 Island
 1 Counterspell
-1 Jace, the Mind Sculptor
 1 Opt
-1 Polluted Delta
 1 Misty Rainforest
+1 Jace, the Mind Sculptor
+1 Polluted Delta
 2 Island
 2 Counterspell
 2 Opt
@@ -54,11 +54,8 @@
 2 Fatal Push
 3 Thoughtseize
 4 Thoughtseize
-1 Explore
-1 Collective Brutality
-2 Explore
-2 Collective Brutality
-3 Explore
+1 Snow-Covered Mountain
+2 Expressive Iteration
 3 Mana Leak
 1 Prismatic Ending
 1 Plains
@@ -69,5 +66,8 @@
 3 Tainted Indulgence
 4 Tainted Indulgence
 4 Persist
-1 Snow-Covered Mountain
-2 Expressive Iteration
+1 Collective Brutality
+1 Explore
+2 Collective Brutality
+2 Explore
+3 Explore
