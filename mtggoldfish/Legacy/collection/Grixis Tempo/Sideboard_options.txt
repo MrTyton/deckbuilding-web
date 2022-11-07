@@ -1,7 +1,7 @@
 2 Nihil Spellbomb
 1 Spell Pierce
-1 Lightning Bolt
 1 Wasteland
+1 Lightning Bolt
 1 Counterbalance
 2 Red Elemental Blast
 2 Lightning Bolt
@@ -18,8 +18,8 @@
 1 Baleful Strix
 1 Stifle
 2 Leyline of the Void
-3 Plague Engineer
 3 Leyline of the Void
+3 Plague Engineer
 2 Flusterstorm
 1 Rough/Tumble
 1 Liliana, the Last Hope
@@ -38,16 +38,16 @@
 1 Unholy Heat
 1 Snapcaster Mage
 1 Feed the Swarm
-1 Cling to Dust
-1 Kolaghan's Command
+1 Karakas
 1 Ashiok, Dream Render
 1 Null Rod
 1 Torpor Orb
-1 Karakas
-1 Kozilek's Return
+1 Cling to Dust
+1 Kolaghan's Command
 1 You See a Guard Approach
 1 Echoing Truth
 1 Engineered Explosives
+1 Kozilek's Return
 1 Burning Hands
 2 You See a Guard Approach
 2 Tourach, Dread Cantor
@@ -56,9 +56,6 @@
 1 Court of Ire
 2 Narset, Parter of Veils
 2 Fatal Push
-1 Alpine Moon
-2 Spell Pierce
-2 Alpine Moon
 1 Pithing Needle
 2 Grafdigger's Cage
 1 True-Name Nemesis
@@ -67,6 +64,9 @@
 1 Dress Down
 1 Dread of Night
 2 Sudden Edict
+1 Alpine Moon
+2 Spell Pierce
+2 Alpine Moon
 1 Smash to Dust
 2 Smash to Dust
 1 Young Pyromancer
@@ -77,8 +77,8 @@
 3 Duress
 2 Hydroblast
 3 Hydroblast
-1 Hidetsugu Consumes All
 1 Blood Moon
+1 Hidetsugu Consumes All
 2 Hidetsugu Consumes All
 2 Blood Moon
 3 Hidetsugu Consumes All
@@ -86,6 +86,6 @@
 1 Winter Orb
 1 Liliana's Triumph
 2 Hurkyl's Recall
-2 Winter Orb
 2 Liliana's Triumph
+2 Winter Orb
 3 Winter Orb

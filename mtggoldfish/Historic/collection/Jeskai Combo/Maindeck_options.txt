@@ -1,10 +1,7 @@
 1 Anger of the Gods
-2 Anger of the Gods
 1 Prismari Command
 1 Raugrin Triome
-2 Mountain
-3 Mountain
-4 Mountain
+2 Anger of the Gods
 1 Stormcarved Coast
 1 Magma Opus
 1 Forsaken Crossroads
@@ -13,14 +10,14 @@
 1 Riverglide Pathway
 1 Marauding Raptor
 1 Sundown Pass
-1 Storm's Wrath
 1 Chalice of the Void
-1 Otawara, Soaring City
+1 Storm's Wrath
 1 Sea Gate Restoration
 1 Creative Outburst
 1 Needleverge Pathway
 1 Torrent Sculptor
 1 Draconic Intervention
+1 Otawara, Soaring City
 1 Stormwild Capridor
 2 Magma Opus
 2 Hengegate Pathway
@@ -30,13 +27,14 @@
 2 Marauding Raptor
 2 Sundown Pass
 2 Chalice of the Void
+2 Storm's Wrath
 2 Torrent Sculptor
 2 Creative Outburst
-2 Narset of the Ancient Way
 2 Stormwild Capridor
+2 Narset of the Ancient Way
 2 Brash Taunter
+2 Mountain
 2 Needleverge Pathway
-2 Storm's Wrath
 2 Draconic Intervention
 3 Chalice of the Void
 3 Magma Opus
@@ -49,8 +47,10 @@
 3 Draconic Intervention
 3 Hengegate Pathway
 3 Anger of the Gods
+3 Mountain
 4 Hengegate Pathway
 4 Chalice of the Void
+4 Mountain
 4 Stormwild Capridor
 1 Lightning Helix
 1 Sulfur Falls
@@ -61,26 +61,26 @@
 1 See the Truth
 1 Sea-Dasher Octopus
 1 Eiganjo, Seat of the Empire
-1 Regal Leosaur
 1 Chance for Glory
 1 Vadrok, Apex of Thunder
 1 Cubwarden
 1 Lore Drakkis
+1 Regal Leosaur
 2 Lightning Helix
 2 Sulfur Falls
 2 Expressive Iteration
 2 Clifftop Retreat
 2 Adanto Vanguard
 2 Sea-Dasher Octopus
-2 Lore Drakkis
-2 Gideon of the Trials
-2 Cubwarden
 2 Chance for Glory
+2 Lore Drakkis
+2 Cubwarden
 2 See the Truth
 2 Vadrok, Apex of Thunder
+2 Gideon of the Trials
 2 Raugrin Triome
-3 Expressive Iteration
 3 Lightning Helix
+3 Expressive Iteration
 3 Clifftop Retreat
 3 Raugrin Triome
 3 Adanto Vanguard
@@ -90,116 +90,8 @@
 3 Lore Drakkis
 3 See the Truth
 3 Cubwarden
-3 Chance for Glory
 3 Sea-Dasher Octopus
+3 Chance for Glory
 4 Raugrin Triome
 4 Chance for Glory
 4 Vadrok, Apex of Thunder
-1 Den of the Bugbear
-1 Wrath of God
-1 Blood Sun
-1 Cave of the Frost Dragon
-1 Cleansing Wildfire
-1 Strict Proctor
-1 Karn, the Great Creator
-1 Lotus Field
-1 Hedron Archive
-1 Mind Stone
-1 Rustvale Bridge
-1 Coldsteel Heart
-1 Ugin, the Spirit Dragon
-1 Chandra, Torch of Defiance
-1 Darksteel Citadel
-2 Wrath of God
-2 Mind Stone
-2 Blood Sun
-2 Cleansing Wildfire
-2 Karn, the Great Creator
-2 Strict Proctor
-2 Lotus Field
-2 Coldsteel Heart
-2 Hedron Archive
-2 Chandra, Torch of Defiance
-2 Ugin, the Spirit Dragon
-2 Darksteel Citadel
-2 Rustvale Bridge
-3 Blood Sun
-3 Cleansing Wildfire
-3 Strict Proctor
-3 Wrath of God
-3 Lotus Field
-3 Ugin, the Spirit Dragon
-3 Darksteel Citadel
-3 Rustvale Bridge
-3 Coldsteel Heart
-4 Wrath of God
-4 Blood Sun
-4 Cleansing Wildfire
-4 Coldsteel Heart
-4 Strict Proctor
-4 Lotus Field
-4 Ugin, the Spirit Dragon
-4 Rustvale Bridge
-4 Darksteel Citadel
-5 Mountain
-6 Mountain
-1 Swamp
-1 Temple of Malady
-1 Takenuma, Abandoned Mire
-1 Darkbore Pathway
-1 Boseiju, Who Endures
-1 Return to Nature
-1 Nemata, Primeval Warden
-1 Overgrown Tomb
-1 Fungal Rebirth
-1 Slimefoot, the Stowaway
-1 Sporecrown Thallid
-1 Yavimaya Sapherd
-1 Spore Swarm
-1 Spore Crawler
-1 Deathcap Glade
-1 Fungal Infection
-1 Skemfar Shadowsage
-1 Undercellar Myconid
-1 Slimefoot, Thallid Transplant
-1 Fungal Plots
-1 Bloodline Pretender
-1 Woodland Cemetery
-1 Deathbonnet Sprout
-1 Forest
-1 Tendershoot Dryad
-2 Swamp
-2 Darkbore Pathway
-2 Return to Nature
-2 Tendershoot Dryad
-2 Spore Crawler
-2 Deathbonnet Sprout
-2 Forest
-2 Sporecrown Thallid
-2 Overgrown Tomb
-2 Yavimaya Sapherd
-2 Bloodline Pretender
-2 Slimefoot, the Stowaway
-2 Fungal Plots
-2 Fungal Infection
-2 Undercellar Myconid
-2 Slimefoot, Thallid Transplant
-3 Swamp
-3 Darkbore Pathway
-3 Forest
-3 Fungal Infection
-3 Overgrown Tomb
-3 Slimefoot, the Stowaway
-3 Deathbonnet Sprout
-3 Sporecrown Thallid
-4 Darkbore Pathway
-4 Swamp
-4 Sporecrown Thallid
-4 Fungal Infection
-4 Deathbonnet Sprout
-4 Slimefoot, the Stowaway
-4 Forest
-5 Forest
-6 Forest
-7 Forest
-8 Forest

@@ -1,6 +1,6 @@
+1 Thoughtseize
 1 Damping Sphere
 2 Damping Sphere
-1 Thoughtseize
 1 Murderous Cut
 1 Hydroblast
 1 Fatal Push
@@ -8,12 +8,12 @@
 1 Grafdigger's Cage
 1 Null Rod
 2 Flusterstorm
-3 Hurkyl's Recall
-1 Planar Void
 1 Energy Flux
 2 Energy Flux
 1 Sudden Edict
 1 Blue Elemental Blast
+3 Hurkyl's Recall
+1 Planar Void
 1 Opposition Agent
 2 Sudden Edict
 2 Force of Negation
@@ -30,16 +30,14 @@
 1 Chill
 1 Dauthi Voidwalker
 2 Dauthi Voidwalker
-1 Submerge
-2 Submerge
 1 Eliminate
 2 Eliminate
-1 Arcane Laboratory
-2 Ashiok, Dream Render
 1 Engineered Plague
 1 Tormod's Crypt
 1 Inquisition of Kozilek
 2 Blue Elemental Blast
+1 Arcane Laboratory
+2 Ashiok, Dream Render
 1 Stifle
 1 Torpor Orb
 1 Dress Down
@@ -52,6 +50,8 @@
 2 Opposition Agent
 2 Meltdown
 2 Planar Void
+1 Submerge
+2 Submerge
 1 Pyroblast
 1 Maddening Hex
 2 Pyroblast

@@ -74,22 +74,22 @@
 2 Springleaf Drum
 1 Snow-Covered Plains
 1 Welding Jar
-1 Ensnaring Bridge
 1 Watery Grave
+1 Ensnaring Bridge
 1 Engineered Explosives
 3 Polluted Delta
 1 Prismatic Vista
 2 Relic of Progenitus
 3 Darksteel Citadel
-4 Island
 4 Darksteel Citadel
 4 Teferi, Time Raveler
+4 Island
 1 Swamp
+1 Godless Shrine
 1 Counterspell
 1 Radiant Flames
 1 Ethersworn Canonist
 1 Wishclaw Talisman
-1 Godless Shrine
 1 Inventors' Fair
 1 Tezzeret, Agent of Bolas
 1 Time Sieve
@@ -99,11 +99,11 @@
 2 Tezzeret, Agent of Bolas
 3 Tezzeret, Agent of Bolas
 4 Polluted Delta
-1 Lightning Greaves
-1 Hex Parasite
-1 Inspiring Vantage
-1 Hengegate Pathway
 1 Stomping Ground
+1 Inspiring Vantage
+1 Lightning Greaves
+1 Hengegate Pathway
+1 Hex Parasite
 1 Spirit of the Labyrinth
 2 Spirit of the Labyrinth
 1 Gemstone Caverns
@@ -113,22 +113,22 @@
 1 Mystic Gate
 2 Snow-Covered Island
 2 Cavern of Souls
-1 Experimental Synthesizer
-2 Experimental Synthesizer
-3 Experimental Synthesizer
 1 Raffine's Tower
-1 Torpor Orb
 1 Nihil Spellbomb
+1 Torpor Orb
 1 Prismatic Ending
 1 Spire of Industry
-2 Spellskite
 2 Ensnaring Bridge
 2 Prismatic Ending
 2 Nihil Spellbomb
+2 Spellskite
 2 Spire of Industry
-3 Prismatic Ending
 3 Nihil Spellbomb
+3 Prismatic Ending
 3 Spellskite
+1 Experimental Synthesizer
+2 Experimental Synthesizer
+3 Experimental Synthesizer
 1 Eiganjo Castle
 3 Adarkar Wastes
 1 Zagoth Triome
@@ -146,15 +146,15 @@
 3 Razortide Bridge
 4 Razortide Bridge
 4 The Antiquities War
-1 Thoughtcast
-1 Thought Monitor
 1 Ornithopter
 1 Memnite
-2 Thought Monitor
+1 Thoughtcast
+1 Thought Monitor
 2 Memnite
+2 Thought Monitor
 2 Thoughtcast
-3 Thoughtcast
 3 Springleaf Drum
+3 Thoughtcast
 3 Thought Monitor
 4 Ingenious Smith
 4 Thought Monitor

@@ -40,41 +40,41 @@
 1 Blood Crypt
 2 Plains
 1 Arid Mesa
-1 Sacred Foundry
-1 Fable of the Mirror-Breaker
-1 Inspiring Vantage
+1 Seasoned Pyromancer
 1 Savai Triome
-1 Blackcleave Cliffs
-1 Unlicensed Hearse
-1 Fury
 1 Tidehollow Sculler
+1 Fury
+1 Unlicensed Hearse
 1 Mountain
 1 Ragavan, Nimble Pilferer
-1 Seasoned Pyromancer
+1 Sacred Foundry
+1 Fable of the Mirror-Breaker
+1 Blackcleave Cliffs
+1 Inspiring Vantage
+2 Fury
+2 Seasoned Pyromancer
 2 Sacred Foundry
+2 Tidehollow Sculler
 2 Arid Mesa
-2 Fable of the Mirror-Breaker
-2 Blackcleave Cliffs
+2 Inspiring Vantage
 2 Blood Crypt
 2 Unlicensed Hearse
 2 Ragavan, Nimble Pilferer
-2 Seasoned Pyromancer
-2 Tidehollow Sculler
-2 Inspiring Vantage
-2 Fury
-3 Arid Mesa
-3 Fable of the Mirror-Breaker
+2 Blackcleave Cliffs
+2 Fable of the Mirror-Breaker
 3 Blackcleave Cliffs
-3 Unlicensed Hearse
-3 Seasoned Pyromancer
 3 Fury
 3 Inspiring Vantage
+3 Seasoned Pyromancer
 3 Tidehollow Sculler
+3 Unlicensed Hearse
+3 Fable of the Mirror-Breaker
 3 Ragavan, Nimble Pilferer
+3 Arid Mesa
 4 Arid Mesa
-4 Fable of the Mirror-Breaker
-4 Ragavan, Nimble Pilferer
 4 Seasoned Pyromancer
+4 Ragavan, Nimble Pilferer
+4 Fable of the Mirror-Breaker
 4 Verdant Catacombs
 1 Bone Shards
 4 Thoughtseize
@@ -98,51 +98,54 @@
 2 Urborg, Tomb of Yawgmoth
 1 Overgrown Tomb
 1 Fatal Push
-1 Xander's Lounge
-1 Drowned Catacomb
-1 Malakir Rebirth
-1 Kaya, Orzhov Usurper
 1 Ziatora's Proving Ground
 1 Elesh Norn, Grand Cenobite
-1 Counterspell
-1 Isolated Chapel
-1 Gifts Ungiven
-2 Counterspell
-2 Silent Clearing
-2 Glacial Fortress
-2 Serra's Emissary
+1 Xander's Lounge
+1 Drowned Catacomb
+1 Kaya, Orzhov Usurper
+1 Malakir Rebirth
 1 Adarkar Wastes
-1 Divest
 1 Undying Evil
+1 Divest
 1 Discovery/Dispersal
 1 Hengegate Pathway
 1 Dakkon, Shadow Slayer
 1 Oona's Prowler
 1 Ransack the Lab
-2 Divest
 2 Undying Evil
+2 Divest
+1 Gifts Ungiven
+1 Counterspell
+1 Isolated Chapel
+2 Silent Clearing
+2 Glacial Fortress
+2 Serra's Emissary
+2 Counterspell
 1 Dovin's Veto
 2 Dovin's Veto
 3 Dovin's Veto
 4 Watery Grave
-4 Flooded Strand
-1 Flagstones of Trokair
+1 March of Otherworldly Light
+2 March of Otherworldly Light
+3 Otherworldly Gaze
+4 Otherworldly Gaze
 1 Lingering Souls
+1 Flagstones of Trokair
 1 Smallpox
 1 See the Truth
-2 Flagstones of Trokair
 2 Lingering Souls
+2 Flagstones of Trokair
 2 Smallpox
-3 Flagstones of Trokair
 3 Lingering Souls
+3 Flagstones of Trokair
 3 Smallpox
 4 Flagstones of Trokair
 4 Smallpox
-1 Boseiju, Who Endures
 1 Shadow Prophecy
-1 Zagoth Triome
+1 Boseiju, Who Endures
 1 Drown in the Loch
 1 Tarmogoyf
+1 Zagoth Triome
 1 Breeding Pool
 1 Terastodon
 2 Shadow Prophecy
@@ -158,27 +161,23 @@
 4 Darkslick Shores
 4 Tarmogoyf
 4 Drown in the Loch
-1 March of Otherworldly Light
-2 March of Otherworldly Light
-3 Otherworldly Gaze
-4 Otherworldly Gaze
+1 Shambling Vent
+1 Temple Garden
 1 Branchloft Pathway
+1 Siege Rhino
+1 Eternal Witness
 1 Indatha Triome
+1 Ashen Rider
 1 Nurturing Peatland
-1 Forest
 1 Grisly Salvage
 1 Satyr Wayfinder
-1 Siege Rhino
-1 Temple Garden
 1 Hissing Quagmire
-1 Eternal Witness
-1 Ashen Rider
-1 Shambling Vent
+1 Forest
 2 Forest
 2 Branchloft Pathway
 2 Temple Garden
-2 Satyr Wayfinder
 2 Overgrown Tomb
+2 Satyr Wayfinder
 2 Grisly Salvage
 2 Ashen Rider
 2 Siege Rhino
@@ -192,8 +191,8 @@
 4 Satyr Wayfinder
 1 The Underworld Cookbook
 1 Barren Moor
-1 Shadowspear
 1 Urza's Saga
+1 Shadowspear
 1 Nihil Spellbomb
 1 Ovalchase Daredevil
 1 Asmoranomardicadaistinaculdacar
@@ -207,11 +206,13 @@
 3 Asmoranomardicadaistinaculdacar
 3 The Underworld Cookbook
 4 Urza's Saga
-4 The Underworld Cookbook
 4 Concealed Courtyard
+4 The Underworld Cookbook
 4 Ovalchase Daredevil
 4 Asmoranomardicadaistinaculdacar
+4 Flooded Strand
 1 Takenuma, Abandoned Mire
+1 Blast Zone
 1 Cling to Dust
 1 Liliana of the Veil
 1 Cascading Cataracts
@@ -220,24 +221,23 @@
 1 Golos, Tireless Pilgrim
 1 Bloodchief's Thirst
 1 Cabal Coffers
-1 Blast Zone
 1 Castle Locthwain
+2 Castle Locthwain
 2 Bloodchief's Thirst
 2 Golos, Tireless Pilgrim
 2 Expedition Map
 2 Cabal Coffers
 2 Profane Tutor
-2 Castle Locthwain
 3 Swamp
-3 Cabal Coffers
 3 Bloodchief's Thirst
+3 Cabal Coffers
 3 Profane Tutor
 3 Expedition Map
 3 Golos, Tireless Pilgrim
 3 Urborg, Tomb of Yawgmoth
-4 Swamp
 4 Expedition Map
 4 Bloodchief's Thirst
+4 Swamp
 4 Profane Tutor
 4 Cabal Coffers
 4 Golos, Tireless Pilgrim

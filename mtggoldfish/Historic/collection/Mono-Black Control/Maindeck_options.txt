@@ -1,15 +1,15 @@
-4 Guardian Idol
 4 Ramunap Ruins
+4 Blood Crypt
 1 Sokenzan, Crucible of Defiance
 1 Karn, the Great Creator
-1 Seasoned Pyromancer
 1 Fable of the Mirror-Breaker
+1 Seasoned Pyromancer
 1 Unholy Heat
 1 Bonecrusher Giant
 1 Ghost Quarter
 2 Karn, the Great Creator
-2 Seasoned Pyromancer
 2 Fable of the Mirror-Breaker
+2 Seasoned Pyromancer
 2 Unholy Heat
 2 Bonecrusher Giant
 2 The World Tree
@@ -30,8 +30,8 @@
 1 Grafdigger's Cage
 4 Relic of Progenitus
 1 Urabrask, Heretic Praetor
-1 Stomping Ground
 1 Cragcrown Pathway
+1 Stomping Ground
 1 Klothys, God of Destiny
 2 Urabrask, Heretic Praetor
 2 Stomping Ground
@@ -63,6 +63,7 @@
 19 Swamp
 20 Swamp
 1 Henrika Domnathi
+1 Nighthawk Scavenger
 1 Evelyn, the Covetous
 1 Soul Transfer
 1 Voldaren Bloodcaster
@@ -70,15 +71,15 @@
 1 Sap Vitality
 1 Blood Fountain
 1 Fake Your Own Death
-1 Check for Traps
 1 Duress
+1 Check for Traps
 1 Whack
 1 Deadly Dispute
 1 Divest
 1 Bloodbond Vampire
 1 The Haunt of Hightower
 1 Vampire of the Dire Moon
-1 Nighthawk Scavenger
+2 Nighthawk Scavenger
 2 The Meathook Massacre
 2 Henrika Domnathi
 2 Hero's Downfall
@@ -95,7 +96,6 @@
 2 Evelyn, the Covetous
 2 Fake Your Own Death
 2 Bloodbond Vampire
-2 Nighthawk Scavenger
 3 Voldaren Bloodcaster
 3 Check for Traps
 4 Voldaren Bloodcaster
@@ -115,6 +115,7 @@
 2 Heartless Act
 1 Acquisitions Expert
 1 Castle Locthwain
+1 Inquisition of Kozilek
 1 Painful Bond
 1 Liliana, Waker of the Dead
 1 Tergrid, God of Fright
@@ -122,7 +123,6 @@
 1 Davriel, Rogue Shadowmage
 1 Bojuka Bog
 1 Infernal Grasp
-1 Inquisition of Kozilek
 1 Gutmorn, Pactbound Servant
 1 Undercity Plunder
 1 Takenuma, Abandoned Mire
@@ -132,11 +132,12 @@
 1 Junji, the Midnight Sky
 1 Liliana of the Veil
 1 Snow-Covered Swamp
+2 Snow-Covered Swamp
 2 Acquisitions Expert
+2 Hive of the Eye Tyrant
 2 Bojuka Bog
 2 Inquisition of Kozilek
 2 Painful Bond
-2 Hive of the Eye Tyrant
 2 Tergrid, God of Fright
 2 Davriel, Rogue Shadowmage
 2 Blood on the Snow
@@ -145,18 +146,17 @@
 2 Thoughtseize
 2 Undercity Plunder
 2 Junji, the Midnight Sky
-2 Snow-Covered Swamp
 2 Liliana of the Veil
 2 Waste Not
 3 Acquisitions Expert
+3 Snow-Covered Swamp
 3 Painful Bond
 3 Bojuka Bog
 3 Thoughtseize
-3 Snow-Covered Swamp
 3 Waste Not
 4 Acquisitions Expert
-4 Painful Bond
 4 Snow-Covered Swamp
+4 Painful Bond
 4 Thoughtseize
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
@@ -175,18 +175,18 @@
 1 Gray Merchant of Asphodel
 1 Morbid Opportunist
 1 Lolth, Spider Queen
+1 Bloodchief's Thirst
 1 Invoke Despair
 1 Eternal Thirst
 1 Warlock Class
 1 Ob Nixilis, the Hate-Twisted
 1 Nightmare
-1 Bloodchief's Thirst
 1 Poison the Cup
 1 Malakir Cullblade
 2 Power Word Kill
 2 Gray Merchant of Asphodel
-2 Warlock Class
 2 Bloodchief's Thirst
+2 Warlock Class
 2 Nightmare
 2 Malakir Cullblade
 2 Poison the Cup

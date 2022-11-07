@@ -13,14 +13,14 @@
 1 Memory Deluge
 2 Memory Deluge
 2 Flooded Strand
-1 Ledger Shredder
 1 Mishra's Bauble
-2 Ledger Shredder
+1 Ledger Shredder
 2 Mishra's Bauble
-3 Unholy Heat
+2 Ledger Shredder
 3 Mishra's Bauble
-4 Unholy Heat
+3 Unholy Heat
 4 Mishra's Bauble
+4 Unholy Heat
 1 Subtlety
 3 Misty Rainforest
 1 Sulfur Falls
@@ -56,16 +56,16 @@
 2 Snow-Covered Island
 3 Snow-Covered Island
 1 Bonecrusher Giant
-2 Fiery Islet
 2 Bonecrusher Giant
+2 Fiery Islet
 3 Bonecrusher Giant
-4 Brazen Borrower
 4 Bonecrusher Giant
+4 Brazen Borrower
 4 Subtlety
 8 Island
 9 Island
-1 Izzet Charm
 1 Unlicensed Hearse
+1 Izzet Charm
 2 Unlicensed Hearse
 2 Dress Down
 3 Fiery Islet
@@ -92,8 +92,8 @@
 4 Prismari Command
 3 Sulfur Falls
 1 Snow-Covered Mountain
-1 Riverglide Pathway
 1 Torrential Gearhulk
+1 Riverglide Pathway
 1 Invoke Calamity
 1 Magma Opus
 2 Riverglide Pathway
@@ -113,30 +113,30 @@
 2 Remand
 2 Vendilion Clique
 3 Vendilion Clique
-1 Stone Rain
-2 Stone Rain
-3 Stone Rain
-4 Stone Rain
-1 Spreading Seas
-2 Spreading Seas
-3 Spreading Seas
-4 Spreading Seas
-4 Steam Vents
 1 Dragon's Rage Channeler
 2 Dragon's Rage Channeler
 3 Dragon's Rage Channeler
 4 Dragon's Rage Channeler
-1 Serum Visions
+1 Spreading Seas
+2 Spreading Seas
+3 Spreading Seas
+4 Spreading Seas
+1 Stone Rain
+2 Stone Rain
+3 Stone Rain
+4 Stone Rain
+4 Steam Vents
 1 Bedlam Reveler
-1 Flame Slash
 1 Young Pyromancer
-2 Serum Visions
-2 Flame Slash
+1 Flame Slash
+1 Serum Visions
 2 Young Pyromancer
 2 Bedlam Reveler
-3 Serum Visions
+2 Flame Slash
+2 Serum Visions
 3 Young Pyromancer
 3 Bedlam Reveler
+3 Serum Visions
 4 Serum Visions
 4 Young Pyromancer
 1 Shadow of Doubt

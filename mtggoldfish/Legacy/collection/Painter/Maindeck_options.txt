@@ -1,40 +1,37 @@
 1 Ensnaring Bridge
 3 Lotus Petal
-3 Grindstone
 4 Great Furnace
+3 Grindstone
 1 Pithing Needle
+8 Mountain
+1 Lion's Eye Diamond
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 1 Ethersworn Canonist
-1 Lion's Eye Diamond
+4 Red Elemental Blast
 1 Plateau
 2 Plateau
 1 Enlightened Tutor
 1 Wooded Foothills
-1 Imperial Recruiter
-1 Goblin Cratermaker
-2 Imperial Recruiter
 2 Wooded Foothills
 1 Bloodstained Mire
 2 Bloodstained Mire
 1 Shadowspear
 1 Brainstone
+1 Imperial Recruiter
+1 Goblin Cratermaker
+2 Imperial Recruiter
 4 Lightning Bolt
-8 Mountain
-1 Ichor Wellspring
-4 Red Elemental Blast
 1 Portable Hole
 2 Mox Opal
 1 Plains
 1 Retrofitter Foundry
-1 Arid Mesa
 1 Oswald Fiddlebender
 1 Ancient Den
 2 Oswald Fiddlebender
 3 Oswald Fiddlebender
 4 Lotus Petal
-2 Enlightened Tutor
 3 Mox Opal
 4 Mox Opal
 2 Portable Hole
@@ -54,6 +51,7 @@
 1 Flooded Strand
 2 Flooded Strand
 2 Hydroblast
+2 Enlightened Tutor
 2 Tundra
 3 Flooded Strand
 3 Hydroblast
@@ -61,7 +59,9 @@
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
+1 Ichor Wellspring
 3 Fury
+1 Arid Mesa
 1 Experimental Synthesizer
 1 Rustvale Bridge
 2 Arid Mesa
@@ -69,8 +69,8 @@
 3 Arid Mesa
 3 Experimental Synthesizer
 3 Portable Hole
-4 Experimental Synthesizer
 4 Arid Mesa
+4 Experimental Synthesizer
 1 Defense Grid
 1 Prismatic Ending
 1 Brainstorm
@@ -85,7 +85,6 @@
 4 Tundra
 4 Brainstorm
 2 Mother of Runes
-1 Scalding Tarn
 4 Karn, the Great Creator
 4 Hydroblast
 1 Ingenious Smith
@@ -120,26 +119,20 @@
 1 Lightning Greaves
 2 Prismatic Ending
 2 Soul-Guide Lantern
-2 Scalding Tarn
-3 Imperial Recruiter
 1 Swamp
 1 Nihil Spellbomb
 1 Kappa Cannoneer
+1 Scalding Tarn
 1 Badlands
 1 Prismatic Vista
 1 Daretti, Ingenious Iconoclast
 2 Daretti, Ingenious Iconoclast
 2 Badlands
 3 Bloodstained Mire
-1 March of Reckless Joy
-1 Ruin Grinder
-2 March of Reckless Joy
-3 March of Reckless Joy
-4 March of Reckless Joy
 1 Taiga
 1 Once Upon a Time
-2 Once Upon a Time
 2 Taiga
+2 Once Upon a Time
 3 Wooded Foothills
 3 Once Upon a Time
 4 Wooded Foothills
@@ -155,6 +148,11 @@
 2 Fabricate
 3 Island
 4 Island
+1 March of Reckless Joy
+1 Ruin Grinder
+2 March of Reckless Joy
+3 March of Reckless Joy
+4 March of Reckless Joy
 1 Metallic Rebuke
 1 Urza's Bauble
 1 Thoughtcast
@@ -174,10 +172,10 @@
 4 Thoughtcast
 4 Grindstone
 4 Seat of the Synod
+1 Umezawa's Jitte
 1 Snow-Covered Plains
 1 Swords to Plowshares
 1 Relic of Progenitus
-1 Umezawa's Jitte
 2 Snow-Covered Plains
 2 Eiganjo, Seat of the Empire
 3 Snow-Covered Plains
