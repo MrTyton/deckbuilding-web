@@ -1,9 +1,9 @@
 1 Castle Vantress
-2 Censor
+3 Censor
 3 Clearwater Pathway
 1 Cling to Dust
-3 Consider
-2 Dig Through Time
+4 Consider
+1 Dig Through Time
 4 Drowned Catacomb
 1 Eliminate
 1 Ertai Resurrected
@@ -14,7 +14,7 @@
 2 Field of Ruin
 2 Hall of Storm Giants
 3 Island
-2 Make Disappear
+1 Make Disappear
 2 Memory Deluge
 3 Negate
 1 Otawara, Soaring City
@@ -22,9 +22,9 @@
 3 Shark Typhoon
 1 Shipwreck Marsh
 4 Sinister Sabotage
-1 Soul Shatter
 2 Swamp
-2 Torrential Gearhulk
+2 Thoughtseize
+1 Torrential Gearhulk
 4 Watery Grave
 Sideboard
 2 Aether Gust
@@ -33,6 +33,7 @@ Sideboard
 2 Kalitas, Traitor of Ghet
 3 Mystical Dispute
 1 Narset's Reversal
-2 Path of Peril
-1 Summary Dismissal
+1 Path of Peril
+1 Shadows' Verdict
 1 Thought Distortion
+1 Thoughtseize

@@ -7,43 +7,40 @@
 2 Fable of the Mirror-Breaker
 2 Plains
 4 Fury
+1 Forest
 3 Ephemerate
+3 Fable of the Mirror-Breaker
 1 Omnath, Locus of Creation
 2 Omnath, Locus of Creation
 4 Windswept Heath
-1 Forest
 1 Wooded Foothills
 1 Oath of Nissa
 3 Omnath, Locus of Creation
 4 Omnath, Locus of Creation
-1 Arid Mesa
-3 Fable of the Mirror-Breaker
 2 Oath of Nissa
-1 Endurance
-4 Wrenn and Six
+1 Arid Mesa
 4 Fable of the Mirror-Breaker
 1 Blood Moon
 2 Blood Moon
-1 Kiki-Jiki, Mirror Breaker
 1 Prismatic Vista
 2 Prismatic Vista
 3 Blood Moon
-2 Arid Mesa
-1 Snow-Covered Plains
-1 Snow-Covered Forest
+1 Endurance
+4 Wrenn and Six
+1 Kiki-Jiki, Mirror Breaker
 3 Oath of Nissa
 1 Fire/Ice
+2 Arid Mesa
 4 Oath of Nissa
+1 Snow-Covered Forest
+1 Snow-Covered Plains
 1 Vivien on the Hunt
 1 Karmic Guide
 2 Vivien on the Hunt
 1 Ketria Triome
 1 Spara's Headquarters
-2 Wooded Foothills
-3 Wooded Foothills
-4 Wooded Foothills
-1 Eternal Witness
-2 Snow-Covered Forest
+1 Leyline Binding
+2 Leyline Binding
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Utopia Sprawl
@@ -54,40 +51,32 @@
 3 Vivien on the Hunt
 4 Vivien on the Hunt
 1 Snow-Covered Island
-1 Leyline Binding
-2 Leyline Binding
+2 Wooded Foothills
+3 Wooded Foothills
+4 Wooded Foothills
+1 Lightning Bolt
+2 Lightning Bolt
+2 Fire/Ice
+4 Utopia Sprawl
+2 Forest
+2 Eladamri's Call
+2 Snow-Covered Forest
+1 Eternal Witness
+3 Planebound Accomplice
+1 Silence
+2 Silence
 1 Abundant Growth
 2 Abundant Growth
 3 Abundant Growth
 4 Abundant Growth
+1 Counterspell
+2 Counterspell
 1 March of Otherworldly Light
 2 March of Otherworldly Light
 3 Arid Mesa
-4 Utopia Sprawl
-1 Jetmir's Garden
-1 Lightning Bolt
-2 Lightning Bolt
-2 Fire/Ice
-2 Eladamri's Call
-2 Forest
-3 Planebound Accomplice
-1 Silence
-2 Silence
-1 Snow-Covered Mountain
-2 Eternal Witness
-1 Counterspell
-2 Counterspell
 3 Eladamri's Call
 3 Lightning Bolt
-1 Ice-Fang Coatl
-2 Ice-Fang Coatl
-3 Ice-Fang Coatl
-4 Ice-Fang Coatl
-1 Imperial Recruiter
-2 Imperial Recruiter
-3 Imperial Recruiter
-3 March of Otherworldly Light
-4 Arid Mesa
+1 Jetmir's Garden
 4 Planebound Accomplice
 1 Arbor Elf
 2 Arbor Elf
@@ -108,9 +97,9 @@
 2 Spreading Seas
 3 Serum Visions
 4 Serum Visions
-2 Boseiju, Who Endures
-4 Imperial Recruiter
 4 Scalding Tarn
+1 Snow-Covered Mountain
+2 Eternal Witness
 1 Wall of Omens
 2 Wall of Omens
 3 Counterspell
@@ -118,13 +107,17 @@
 1 Renegade Rallier
 2 Renegade Rallier
 3 Renegade Rallier
-1 Sun Titan
 1 Arlinn, the Pack's Hope
 2 Stomping Ground
 3 Stomping Ground
-1 Batterskull
-1 Stoneforge Mystic
+1 Sun Titan
+1 Ice-Fang Coatl
+2 Ice-Fang Coatl
+3 Ice-Fang Coatl
+4 Ice-Fang Coatl
 1 Kaldra Compleat
+1 Stoneforge Mystic
+1 Batterskull
 1 Magus of the Moon
 2 Stoneforge Mystic
 2 Snow-Covered Plains
@@ -133,9 +126,14 @@
 1 Celestial Colonnade
 1 Remand
 2 Remand
-4 Ephemerate
 1 Subtlety
 2 Sacred Foundry
+4 Ephemerate
+1 Imperial Recruiter
+2 Imperial Recruiter
+3 Imperial Recruiter
+3 March of Otherworldly Light
+4 Arid Mesa
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Island
@@ -144,6 +142,8 @@
 1 Wall of Blossoms
 2 Wall of Blossoms
 3 Wall of Blossoms
+2 Boseiju, Who Endures
+4 Imperial Recruiter
 1 Boseiju, Who Shelters All
 3 Silence
 4 Eladamri's Call
@@ -156,8 +156,8 @@
 1 Supreme Verdict
 2 Faithful Mending
 2 Castle Vantress
-2 Field of Ruin
 2 Force of Negation
+2 Field of Ruin
 2 Supreme Verdict
 3 Narset, Parter of Veils
 4 Chalice of the Void
@@ -169,25 +169,12 @@
 2 Touch the Spirit Realm
 2 Subtlety
 3 Fire/Ice
-3 Remand
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
 3 Prismatic Vista
+3 Remand
 4 Blood Moon
-1 Horizon Canopy
-1 Noble Hierarch
-1 Eldritch Evolution
-1 Lotus Cobra
-2 Noble Hierarch
-2 Horizon Canopy
-2 Lotus Cobra
-2 Eldritch Evolution
-3 Noble Hierarch
-3 Eldritch Evolution
-3 Lotus Cobra
-4 Noble Hierarch
-4 Lotus Cobra
 1 Charming Prince
 1 Auriok Champion
 1 Skyclave Apparition
@@ -195,8 +182,8 @@
 1 Aether Vial
 1 Soulherder
 2 Vesperlark
-2 Charming Prince
 2 Raugrin Triome
+2 Charming Prince
 2 Skyclave Apparition
 2 Auriok Champion
 2 Aether Vial
@@ -211,3 +198,16 @@
 4 Wall of Omens
 4 Charming Prince
 4 Aether Vial
+1 Horizon Canopy
+1 Eldritch Evolution
+1 Lotus Cobra
+1 Noble Hierarch
+2 Horizon Canopy
+2 Noble Hierarch
+2 Lotus Cobra
+2 Eldritch Evolution
+3 Eldritch Evolution
+3 Lotus Cobra
+3 Noble Hierarch
+4 Lotus Cobra
+4 Noble Hierarch

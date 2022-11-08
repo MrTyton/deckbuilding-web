@@ -10,8 +10,8 @@
 1 Woodland Cemetery
 4 Overgrown Tomb
 1 Languish
-1 Golos, Tireless Pilgrim
 1 The World Tree
+1 Golos, Tireless Pilgrim
 1 Castle Vantress
 1 Commit/Memory
 3 Cultivate
@@ -25,8 +25,8 @@
 1 Omniscience
 1 Scholar of the Lost Trove
 1 Final Parting
-1 Planewide Celebration
 1 Thought Distortion
+1 Planewide Celebration
 3 Fabled Passage
 3 Migration Path
 1 Professor Onyx
@@ -65,21 +65,21 @@
 3 Elder Gargaroth
 3 Eliminate
 3 Extinction Event
+1 Tamiyo, Compleated Sage
 1 March of Wretched Sorrow
 1 Sandwurm Convergence
 1 Jin-Gitaxias, Progress Tyrant
 1 Bala Ged Recovery
 1 Mnemonic Sphere
-1 Tamiyo, Compleated Sage
 2 March of Wretched Sorrow
 2 Drowned Catacomb
 2 Mnemonic Sphere
 3 March of Wretched Sorrow
 3 Drowned Catacomb
 4 March of Wretched Sorrow
-1 The Meathook Massacre
 1 Cling to Dust
 1 Aether Gust
+1 The Meathook Massacre
 2 The Meathook Massacre
 2 Woodland Cemetery
 3 Hinterland Harbor
@@ -89,8 +89,8 @@
 4 Woodland Cemetery
 1 Hullbreaker Horror
 1 Rimewood Falls
-1 Dreamroot Cascade
 1 Faerie Seer
+1 Dreamroot Cascade
 1 Cloudkin Seer
 1 Path of Peril
 1 Liliana, Death's Majesty
@@ -99,8 +99,8 @@
 1 Woodland Chasm
 1 Novice Occultist
 1 Haunted Ridge
-2 Dreamroot Cascade
 2 Baleful Mastery
+2 Dreamroot Cascade
 2 Faerie Seer
 2 Cloudkin Seer
 2 Path of Peril
@@ -138,12 +138,11 @@
 1 Temple of Plenty
 1 Sigil of the Empty Throne
 1 Banishing Light
-1 Doomskar
 1 The Birth of Meletis
+1 Doomskar
 1 Temple Garden
 1 Godless Shrine
 1 Destiny Spinner
-1 Felidar Retreat
 1 Shatter the Sky
 1 Archon of Sun's Grace
 1 Castle Ardenvale
@@ -151,6 +150,7 @@
 1 Sythis, Harvest's Hand
 1 Branchloft Pathway
 1 Yorion, Sky Nomad
+1 Felidar Retreat
 1 Temple of Silence
 1 Shark Typhoon
 1 Bojuka Bog

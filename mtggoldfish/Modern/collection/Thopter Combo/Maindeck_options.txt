@@ -5,19 +5,18 @@
 1 Razortide Bridge
 1 Chromatic Star
 3 Scalding Tarn
-2 Plains
 2 Razortide Bridge
+2 Plains
 1 Talisman of Progress
 1 Ingenious Smith
 2 Ingenious Smith
 2 Teferi, Time Raveler
-4 Metallic Rebuke
-1 Misty Rainforest
 2 Sword of the Meek
+4 Metallic Rebuke
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
-3 Hallowed Fountain
+1 Misty Rainforest
 1 Temple Garden
 1 Meria, Scholar of Antiquity
 1 Breeding Pool
@@ -26,8 +25,7 @@
 1 Moonsnare Prototype
 2 Moonsnare Prototype
 1 Spellskite
-1 Whir of Invention
-2 Whir of Invention
+3 Hallowed Fountain
 2 Talisman of Progress
 2 Darksteel Citadel
 1 Emry, Lurker of the Loch
@@ -35,20 +33,20 @@
 3 Emry, Lurker of the Loch
 3 Teferi, Time Raveler
 2 Arid Mesa
-4 Mishra's Bauble
 4 Scalding Tarn
-3 Whir of Invention
-1 Eiganjo, Seat of the Empire
+4 Mishra's Bauble
 1 Polluted Delta
+1 Whir of Invention
+2 Whir of Invention
 1 Serra Paragon
 2 Chromatic Star
 4 Meria, Scholar of Antiquity
-2 Misty Rainforest
 3 Ingenious Smith
-4 Hallowed Fountain
 3 Moonsnare Prototype
 4 Moonsnare Prototype
-1 Chalice of the Void
+2 Misty Rainforest
+3 Whir of Invention
+1 Eiganjo, Seat of the Empire
 2 Polluted Delta
 2 Aether Spellbomb
 3 Aether Spellbomb
@@ -61,6 +59,7 @@
 2 Sacred Foundry
 1 Adarkar Wastes
 2 Adarkar Wastes
+4 Hallowed Fountain
 3 Island
 1 Spirebluff Canal
 2 Steam Vents
@@ -74,6 +73,7 @@
 2 Springleaf Drum
 1 Snow-Covered Plains
 1 Welding Jar
+1 Chalice of the Void
 1 Watery Grave
 1 Ensnaring Bridge
 1 Engineered Explosives
@@ -84,37 +84,36 @@
 4 Darksteel Citadel
 4 Teferi, Time Raveler
 4 Island
-1 Swamp
+1 Time Sieve
 1 Godless Shrine
 1 Counterspell
 1 Radiant Flames
 1 Ethersworn Canonist
 1 Wishclaw Talisman
+1 Swamp
 1 Inventors' Fair
 1 Tezzeret, Agent of Bolas
-1 Time Sieve
-2 Engineered Explosives
 2 Counterspell
+2 Engineered Explosives
 2 Watery Grave
 2 Tezzeret, Agent of Bolas
 3 Tezzeret, Agent of Bolas
 4 Polluted Delta
-1 Stomping Ground
-1 Inspiring Vantage
 1 Lightning Greaves
-1 Hengegate Pathway
+1 Inspiring Vantage
 1 Hex Parasite
+1 Stomping Ground
 1 Spirit of the Labyrinth
 2 Spirit of the Labyrinth
-1 Gemstone Caverns
-1 Batterskull
 1 Snow-Covered Island
+1 Batterskull
 1 Hall of Storm Giants
+1 Gemstone Caverns
 1 Mystic Gate
 2 Snow-Covered Island
 2 Cavern of Souls
-1 Raffine's Tower
 1 Nihil Spellbomb
+1 Raffine's Tower
 1 Torpor Orb
 1 Prismatic Ending
 1 Spire of Industry
@@ -133,11 +132,11 @@
 3 Adarkar Wastes
 1 Zagoth Triome
 1 Leyline Binding
-2 Windswept Heath
 2 Leyline Binding
+2 Windswept Heath
 3 Fable of the Mirror-Breaker
-3 Windswept Heath
 3 Leyline Binding
+3 Windswept Heath
 4 Fable of the Mirror-Breaker
 4 Leyline Binding
 1 The Antiquities War
@@ -148,14 +147,14 @@
 4 The Antiquities War
 1 Ornithopter
 1 Memnite
-1 Thoughtcast
 1 Thought Monitor
+1 Thoughtcast
 2 Memnite
 2 Thought Monitor
 2 Thoughtcast
 3 Springleaf Drum
-3 Thoughtcast
 3 Thought Monitor
+3 Thoughtcast
 4 Ingenious Smith
 4 Thought Monitor
 1 Expressive Iteration

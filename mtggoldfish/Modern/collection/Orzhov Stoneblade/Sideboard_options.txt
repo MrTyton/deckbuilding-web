@@ -70,6 +70,8 @@
 1 Obzedat, Ghost Council
 1 Elspeth, Sun's Champion
 2 Break the Ice
+1 Kor Firewalker
+2 Kor Firewalker
 1 Lion Sash
 1 Elite Spellbinder
 2 Nihil Spellbomb
@@ -78,8 +80,6 @@
 2 Despark
 1 Temporary Lockdown
 2 Temporary Lockdown
-1 Kor Firewalker
-2 Kor Firewalker
 1 Runed Halo
 1 Tempest of Light
 2 Tempest of Light
@@ -96,11 +96,11 @@
 2 Soul Spike
 3 Inquisition of Kozilek
 3 March of Otherworldly Light
-3 Leyline of the Void
 3 Containment Priest
 3 Tourach, Dread Cantor
 3 Chalice of the Void
 3 Phyrexian Crusader
+3 Leyline of the Void
 1 Duress
 1 Celestial Purge
 1 Wheel of Sun and Moon
@@ -112,6 +112,6 @@
 2 Kitchen Finks
 3 Stony Silence
 3 Kitchen Finks
-4 Sanctifier en-Vec
 1 Blossoming Calm
 2 Blossoming Calm
+4 Sanctifier en-Vec

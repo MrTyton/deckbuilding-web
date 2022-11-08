@@ -63,30 +63,30 @@
 3 Heartless Act
 1 Unlicensed Hearse
 2 Power Word Kill
-1 The Raven Man
 1 Cut Down
+1 The Raven Man
 1 Rankle, Master of Pranks
-2 The Raven Man
 2 Cut Down
+2 The Raven Man
 2 Rankle, Master of Pranks
 3 Rankle, Master of Pranks
 3 Cut Down
 4 Sheoldred, the Apocalypse
-1 Sulfurous Springs
-1 Fable of the Mirror-Breaker
 1 Blood Crypt
+1 Sulfurous Springs
 1 Blightstep Pathway
+1 Fable of the Mirror-Breaker
 2 Blood Crypt
-2 Fable of the Mirror-Breaker
-2 Blightstep Pathway
 2 Sulfurous Springs
+2 Blightstep Pathway
+2 Fable of the Mirror-Breaker
+3 Blood Crypt
 3 Sulfurous Springs
 3 Fable of the Mirror-Breaker
-3 Blood Crypt
-4 Fable of the Mirror-Breaker
-4 Sulfurous Springs
-4 Spawn of Mayhem
 4 Blood Crypt
+4 Sulfurous Springs
+4 Fable of the Mirror-Breaker
+4 Spawn of Mayhem
 1 Ifnir Deadlands
 2 Ifnir Deadlands
 3 Ifnir Deadlands
@@ -97,21 +97,20 @@
 1 Nykthos, Shrine to Nyx
 1 Witch's Cottage
 1 Liliana, the Last Hope
-2 Agadeem's Awakening
 2 Liliana, the Last Hope
+2 Agadeem's Awakening
 1 Gray Merchant of Asphodel
 2 Gray Merchant of Asphodel
 1 Duress
 2 Duress
-14 Snow-Covered Swamp
+1 Cryptbreaker
 1 Champion of the Perished
 1 Lazotep Reaver
 1 Dread Wanderer
-1 Cryptbreaker
+2 Cryptbreaker
 2 Champion of the Perished
 2 Lazotep Reaver
 2 Dread Wanderer
-2 Cryptbreaker
 3 Champion of the Perished
 3 Cryptbreaker
 3 Eliminate
@@ -121,3 +120,4 @@
 4 Lazotep Reaver
 4 Dread Wanderer
 4 Cryptbreaker
+14 Snow-Covered Swamp

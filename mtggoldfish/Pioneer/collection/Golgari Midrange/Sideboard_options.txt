@@ -3,10 +3,10 @@
 1 Liliana, the Last Hope
 2 Liliana, the Last Hope
 1 Elder Gargaroth
-1 Davriel, Rogue Shadowmage
 1 Obosh, the Preypiercer
 1 Putrefy
 1 Gaze of Granite
+1 Davriel, Rogue Shadowmage
 2 Putrefy
 4 Go Blank
 2 Damping Sphere
@@ -51,9 +51,6 @@
 1 Power Word Kill
 1 Heart of Kiran
 2 Power Word Kill
-1 Emrakul, the Promised End
-1 Scavenging Ooze
-2 Scavenging Ooze
 1 Cry of the Carnarium
 1 Vraska, Relic Seeker
 2 Cry of the Carnarium
@@ -65,14 +62,15 @@
 1 Arasta of the Endless Web
 2 The Meathook Massacre
 2 Arasta of the Endless Web
-1 Reckoner Bankbuster
+1 Emrakul, the Promised End
+1 Scavenging Ooze
+2 Scavenging Ooze
 1 Ritual of Soot
+1 Reckoner Bankbuster
 1 Hangarback Walker
 2 Reckoner Bankbuster
 2 Ritual of Soot
 2 Hangarback Walker
-2 Brain Maggot
-3 Abrupt Decay
 1 Infernal Grasp
 3 Damping Sphere
 1 Ashiok, Dream Render
@@ -80,6 +78,8 @@
 2 Ashiok, Dream Render
 2 Tear Asunder
 3 Extinction Event
+2 Brain Maggot
+3 Abrupt Decay
 2 Assassin's Trophy
 3 Assassin's Trophy
 4 Fatal Push

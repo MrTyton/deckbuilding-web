@@ -36,8 +36,8 @@
 2 Cathar Commando
 3 Stonecoil Serpent
 1 Plains
-1 Displacer Kitten
 1 Teferi, Time Raveler
+1 Displacer Kitten
 2 Teferi, Time Raveler
 2 Displacer Kitten
 3 Teferi, Time Raveler
@@ -53,16 +53,16 @@
 1 Aether Spellbomb
 3 Seat of the Synod
 2 Island
+1 Ledger Shredder
 1 Thoughtcast
 1 Force of Negation
 1 Monastery Mentor
 1 Thought Monitor
-1 Ledger Shredder
 1 Sai, Master Thopterist
 1 Force of Will
 2 Monastery Mentor
-2 Ledger Shredder
 2 Otawara, Soaring City
+2 Ledger Shredder
 2 Thoughtcast
 2 Sai, Master Thopterist
 2 Force of Will
@@ -92,10 +92,6 @@
 1 Unlicensed Hearse
 2 Unlicensed Hearse
 3 Unlicensed Hearse
-1 Goldmire Bridge
-1 Darksteel Citadel
-2 Darksteel Citadel
-3 Darksteel Citadel
 1 Boseiju, Who Endures
 1 Once Upon a Time
 1 Thornglint Bridge
@@ -106,10 +102,10 @@
 1 Elite Spellbinder
 2 Elite Spellbinder
 3 Elite Spellbinder
-1 Eiganjo, Seat of the Empire
-4 Tundra
-4 Teferi, Time Raveler
-4 Displacer Kitten
+1 Goldmire Bridge
+1 Darksteel Citadel
+2 Darksteel Citadel
+3 Darksteel Citadel
 1 Talisman of Progress
 2 Talisman of Progress
 4 Eldrazi Temple
@@ -123,3 +119,7 @@
 3 Urza, Lord High Artificer
 4 Island
 4 Malevolent Hermit
+1 Eiganjo, Seat of the Empire
+4 Tundra
+4 Teferi, Time Raveler
+4 Displacer Kitten
