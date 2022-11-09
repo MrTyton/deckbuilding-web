@@ -6,10 +6,10 @@
 1 Treasure Vault
 3 Oni-Cult Anvil
 4 Oni-Cult Anvil
-1 Shrapnel Blast
 1 Experimental Synthesizer
-2 Shrapnel Blast
+1 Shrapnel Blast
 2 Experimental Synthesizer
+2 Shrapnel Blast
 3 Shrapnel Blast
 4 Fable of the Mirror-Breaker
 3 Haunted Ridge
@@ -38,38 +38,54 @@
 1 Judith, the Scourge Diva
 2 Tenacious Underdog
 2 Castle Locthwain
-3 Sheoldred, the Apocalypse
 1 Braids, Arisen Nightmare
 1 Rotten Reunion
 2 Braids, Arisen Nightmare
 3 Braids, Arisen Nightmare
+3 Sheoldred, the Apocalypse
+1 Cult Conscript
+1 Shambling Ghast
+1 Thoughtseize
+1 Karn, the Great Creator
+2 Cult Conscript
+2 Shambling Ghast
+2 Karn, the Great Creator
+2 Thoughtseize
+2 Agadeem's Awakening
+3 Cult Conscript
+3 Karn, the Great Creator
+3 Priest of Forgotten Gods
+3 Shambling Ghast
+4 Cult Conscript
+4 Priest of Forgotten Gods
+4 Shambling Ghast
+4 Karn, the Great Creator
+1 Blood Fountain
 1 Dragonskull Summit
 1 Olivia, Crimson Bride
-1 Blood Fountain
-1 Stitcher's Supplier
 1 Thrill of Possibility
 1 Drakuseth, Maw of Flames
 1 Rix Maadi Reveler
 1 Bond of Revival
+1 Stitcher's Supplier
 1 Blood for Bones
 1 Call of the Death-Dweller
-2 Stitcher's Supplier
+2 Dragonskull Summit
 2 Thrill of Possibility
 2 Call of the Death-Dweller
 2 Blood for Bones
+2 Stitcher's Supplier
 2 Drakuseth, Maw of Flames
 2 Rix Maadi Reveler
-2 Dragonskull Summit
 2 Bond of Revival
-3 Stitcher's Supplier
 3 Thrill of Possibility
 3 Dragonskull Summit
 3 Bond of Revival
 3 Drakuseth, Maw of Flames
-4 Mountain
+3 Stitcher's Supplier
 4 Swamp
-4 Stitcher's Supplier
 4 Thrill of Possibility
+4 Stitcher's Supplier
 4 Dragonskull Summit
 4 Bond of Revival
 4 Drakuseth, Maw of Flames
@@ -77,20 +93,4 @@
 5 Swamp
 6 Mountain
 6 Swamp
-1 Cult Conscript
-1 Karn, the Great Creator
-1 Shambling Ghast
-1 Thoughtseize
-2 Cult Conscript
-2 Karn, the Great Creator
-2 Agadeem's Awakening
-2 Shambling Ghast
-2 Thoughtseize
-3 Cult Conscript
-3 Karn, the Great Creator
-3 Priest of Forgotten Gods
-3 Shambling Ghast
-4 Cult Conscript
-4 Karn, the Great Creator
-4 Priest of Forgotten Gods
-4 Shambling Ghast
+4 Mountain

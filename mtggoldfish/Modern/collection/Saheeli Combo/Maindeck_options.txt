@@ -32,8 +32,8 @@
 1 Fire/Ice
 2 Arid Mesa
 4 Oath of Nissa
-1 Snow-Covered Forest
 1 Snow-Covered Plains
+1 Snow-Covered Forest
 1 Vivien on the Hunt
 1 Karmic Guide
 2 Vivien on the Hunt
@@ -115,12 +115,12 @@
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
-1 Kaldra Compleat
-1 Stoneforge Mystic
 1 Batterskull
+1 Stoneforge Mystic
+1 Kaldra Compleat
 1 Magus of the Moon
-2 Stoneforge Mystic
 2 Snow-Covered Plains
+2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
 1 Celestial Colonnade
@@ -156,31 +156,44 @@
 1 Supreme Verdict
 2 Faithful Mending
 2 Castle Vantress
-2 Force of Negation
 2 Field of Ruin
+2 Force of Negation
 2 Supreme Verdict
 3 Narset, Parter of Veils
 4 Chalice of the Void
 1 Valakut Awakening
 1 Savai Triome
-1 Sunbaked Canyon
 1 Fiery Islet
 1 Touch the Spirit Realm
+1 Sunbaked Canyon
 2 Touch the Spirit Realm
 2 Subtlety
 3 Fire/Ice
+3 Remand
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
 3 Prismatic Vista
-3 Remand
 4 Blood Moon
+1 Noble Hierarch
+1 Eldritch Evolution
+1 Lotus Cobra
+1 Horizon Canopy
+2 Noble Hierarch
+2 Horizon Canopy
+2 Lotus Cobra
+2 Eldritch Evolution
+3 Noble Hierarch
+3 Eldritch Evolution
+3 Lotus Cobra
+4 Noble Hierarch
+4 Lotus Cobra
 1 Charming Prince
+1 Soulherder
 1 Auriok Champion
 1 Skyclave Apparition
 1 Vesperlark
 1 Aether Vial
-1 Soulherder
 2 Vesperlark
 2 Raugrin Triome
 2 Charming Prince
@@ -198,16 +211,3 @@
 4 Wall of Omens
 4 Charming Prince
 4 Aether Vial
-1 Horizon Canopy
-1 Eldritch Evolution
-1 Lotus Cobra
-1 Noble Hierarch
-2 Horizon Canopy
-2 Noble Hierarch
-2 Lotus Cobra
-2 Eldritch Evolution
-3 Eldritch Evolution
-3 Lotus Cobra
-3 Noble Hierarch
-4 Lotus Cobra
-4 Noble Hierarch

@@ -16,10 +16,10 @@
 3 Karn, the Great Creator
 3 Unholy Heat
 3 Seasoned Pyromancer
-4 Mind Stone
 4 Unholy Heat
 4 Mountain
 4 Coldsteel Heart
+4 Mind Stone
 5 Mountain
 6 Mountain
 7 Mountain
@@ -80,12 +80,12 @@
 1 The Haunt of Hightower
 1 Vampire of the Dire Moon
 2 Nighthawk Scavenger
-2 The Meathook Massacre
 2 Henrika Domnathi
 2 Soul Transfer
 2 Hero's Downfall
 2 Voldaren Bloodcaster
 2 Sap Vitality
+2 The Meathook Massacre
 2 Blood Fountain
 2 Whack
 2 Duress
@@ -99,8 +99,8 @@
 3 Voldaren Bloodcaster
 3 Check for Traps
 4 Voldaren Bloodcaster
-1 Sweltering Suns
 1 Solemn Simulacrum
+1 Sweltering Suns
 1 Maestros Theater
 2 Solemn Simulacrum
 3 Bonecrusher Giant
@@ -114,10 +114,10 @@
 1 Heartless Act
 2 Heartless Act
 1 Acquisitions Expert
-1 Castle Locthwain
 1 Inquisition of Kozilek
 1 Painful Bond
 1 Liliana, Waker of the Dead
+1 Takenuma, Abandoned Mire
 1 Tergrid, God of Fright
 1 Blood on the Snow
 1 Davriel, Rogue Shadowmage
@@ -125,9 +125,9 @@
 1 Infernal Grasp
 1 Gutmorn, Pactbound Servant
 1 Undercity Plunder
-1 Takenuma, Abandoned Mire
 1 Thoughtseize
 1 Waste Not
+1 Castle Locthwain
 1 Tinybones, Trinket Thief
 1 Junji, the Midnight Sky
 1 Liliana of the Veil
@@ -135,9 +135,9 @@
 2 Snow-Covered Swamp
 2 Acquisitions Expert
 2 Hive of the Eye Tyrant
-2 Bojuka Bog
 2 Inquisition of Kozilek
 2 Painful Bond
+2 Bojuka Bog
 2 Tergrid, God of Fright
 2 Davriel, Rogue Shadowmage
 2 Blood on the Snow
@@ -148,14 +148,14 @@
 2 Junji, the Midnight Sky
 2 Liliana of the Veil
 2 Waste Not
-3 Acquisitions Expert
 3 Snow-Covered Swamp
+3 Acquisitions Expert
 3 Painful Bond
 3 Bojuka Bog
 3 Thoughtseize
 3 Waste Not
-4 Acquisitions Expert
 4 Snow-Covered Swamp
+4 Acquisitions Expert
 4 Painful Bond
 4 Thoughtseize
 5 Snow-Covered Swamp
@@ -170,12 +170,12 @@
 14 Snow-Covered Swamp
 15 Snow-Covered Swamp
 16 Snow-Covered Swamp
-1 Professor Onyx
-1 Power Word Kill
 1 Gray Merchant of Asphodel
 1 Morbid Opportunist
 1 Lolth, Spider Queen
 1 Bloodchief's Thirst
+1 Professor Onyx
+1 Power Word Kill
 1 Invoke Despair
 1 Eternal Thirst
 1 Warlock Class
@@ -183,9 +183,9 @@
 1 Nightmare
 1 Poison the Cup
 1 Malakir Cullblade
-2 Power Word Kill
 2 Gray Merchant of Asphodel
 2 Bloodchief's Thirst
+2 Power Word Kill
 2 Warlock Class
 2 Nightmare
 2 Malakir Cullblade
