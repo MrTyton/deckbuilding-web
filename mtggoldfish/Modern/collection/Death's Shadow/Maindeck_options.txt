@@ -22,12 +22,12 @@
 1 Island
 1 Murktide Regent
 2 Murktide Regent
-1 Flooded Strand
 1 Counterspell
-2 Flooded Strand
+1 Flooded Strand
 2 Stubborn Denial
 2 Counterspell
 2 Island
+2 Flooded Strand
 3 Watery Grave
 3 Counterspell
 4 Counterspell
@@ -113,11 +113,11 @@
 1 Blood Moon
 2 Blood Moon
 3 Swamp
-1 Nurturing Peatland
 1 Temur Battle Rage
+1 Nurturing Peatland
 2 Temur Battle Rage
-1 Squee, Dubious Monarch
 1 Silent Clearing
+1 Squee, Dubious Monarch
 1 Dreadbore
 1 Tourach, Dread Cantor
 2 Tourach, Dread Cantor
@@ -128,8 +128,8 @@
 1 Wooded Foothills
 1 Boseiju, Who Endures
 1 Stomping Ground
-1 Tarfire
 1 Forest
+1 Tarfire
 1 Traverse the Ulvenwald
 1 Riveteers Charm
 1 Tarmogoyf
