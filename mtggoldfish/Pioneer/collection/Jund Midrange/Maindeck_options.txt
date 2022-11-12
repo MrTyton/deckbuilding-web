@@ -1,4 +1,4 @@
-1 Lukka, Coppercoat Outcast
+1 Titan of Industry
 2 Titan of Industry
 1 Riveteers Charm
 4 Bloodtithe Harvester
@@ -9,20 +9,20 @@
 4 Bonecrusher Giant
 1 Mountain
 3 Titan of Industry
-1 Careful Cultivation
-1 Courier's Briefcase
-1 Transmogrify
 1 Castle Garenbrig
-2 Careful Cultivation
-2 Courier's Briefcase
+1 Transmogrify
+1 Courier's Briefcase
+1 Careful Cultivation
 2 Transmogrify
-3 Transmogrify
+2 Courier's Briefcase
+2 Careful Cultivation
 3 Courier's Briefcase
+3 Transmogrify
 3 Careful Cultivation
 4 Titan of Industry
-4 Courier's Briefcase
-4 Careful Cultivation
 4 Transmogrify
+4 Careful Cultivation
+4 Courier's Briefcase
 1 Sulfurous Springs
 2 Riveteers Charm
 2 Ziatora's Envoy
@@ -113,8 +113,6 @@
 2 Swamp
 2 Mountain
 1 Jaya, Fiery Negotiator
-1 The Akroan War
-2 The Akroan War
 1 Briarbridge Tracker
 2 Briarbridge Tracker
 1 Bloodthirsty Adversary
@@ -122,15 +120,17 @@
 1 Gloomshrieker
 1 Ishkanah, Grafwidow
 2 Kolaghan's Command
+1 The Akroan War
+2 The Akroan War
 1 Woodland Cemetery
 1 Hissing Quagmire
 1 Rootbound Crag
 1 Vraska, Golgari Queen
-2 Field of Ruin
 2 Kroxa, Titan of Death's Hunger
 2 Woodland Cemetery
 2 Unlicensed Hearse
 2 Tireless Tracker
+2 Field of Ruin
 2 Hissing Quagmire
 3 Tireless Tracker
 3 Abrupt Decay
@@ -168,11 +168,11 @@
 3 Dreadhorde Arcanist
 3 Bloodchief's Thirst
 4 Dreadhorde Arcanist
+1 Voltage Surge
 1 Mizzium Mortars
 1 Valakut Awakening
-1 Voltage Surge
-2 Valakut Awakening
 2 Voltage Surge
+2 Valakut Awakening
 3 Mana Confluence
 4 Mana Confluence
 2 Hive of the Eye Tyrant
@@ -183,27 +183,27 @@
 1 Reckless Stormseeker
 4 Darkbore Pathway
 4 Ilharg, the Raze-Boar
-1 Canyon Slough
 1 Rotten Reunion
 1 Chandra, Acolyte of Flame
 1 Abrade
 1 Heartless Act
 1 Indomitable Creativity
 1 Deadly Dispute
+1 Canyon Slough
 1 Seize the Spoils
 1 Worldspine Wurm
-2 Worldspine Wurm
 2 Abrade
 2 Chandra, Acolyte of Flame
+2 Worldspine Wurm
 2 Indomitable Creativity
 2 Heartless Act
 2 Rotten Reunion
 2 Deadly Dispute
+3 Mountain
 3 Swamp
 3 Deadly Dispute
 3 Indomitable Creativity
 3 Rotten Reunion
-3 Mountain
 4 Haunted Ridge
 4 Indomitable Creativity
 4 Rotten Reunion

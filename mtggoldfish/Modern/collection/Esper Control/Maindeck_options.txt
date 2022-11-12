@@ -138,8 +138,13 @@
 2 Cryptic Command
 1 Dovin's Veto
 1 Prairie Stream
-2 Dovin's Veto
 2 Glacial Fortress
+2 Dovin's Veto
+1 Omen of the Sea
+2 Omen of the Sea
+3 Celestial Colonnade
+3 Teferi, Hero of Dominaria
+4 March of Otherworldly Light
 1 Thought Scour
 1 Murktide Regent
 1 Murderous Cut
@@ -147,11 +152,6 @@
 2 Murktide Regent
 3 Murktide Regent
 4 Murktide Regent
-1 Omen of the Sea
-2 Omen of the Sea
-3 Celestial Colonnade
-3 Teferi, Hero of Dominaria
-4 March of Otherworldly Light
 2 Dress Down
 2 Creeping Tar Pit
 4 Esper Charm
@@ -177,6 +177,7 @@
 4 Faithful Mending
 4 Shark Typhoon
 4 Darkslick Shores
+1 Cavern of Souls
 1 Micromancer
 1 Flusterstorm
 1 Meddling Mage
@@ -184,7 +185,6 @@
 1 Umara Wizard
 1 Angel's Grace
 1 Silence
-1 Cavern of Souls
 1 Ertai Resurrected
 1 Step Through
 2 Cavern of Souls
@@ -197,8 +197,8 @@
 3 Step Through
 4 Step Through
 4 Micromancer
-1 Takenuma, Abandoned Mire
 1 Mech Hangar
+1 Takenuma, Abandoned Mire
 1 Otherworldly Gaze
 1 Shakedown Heavy
 1 Toolcraft Exemplar
@@ -238,12 +238,14 @@
 2 Mesmeric Orb
 2 Thassa's Oracle
 2 Fatestitcher
-3 Shadow Prophecy
 3 Fatestitcher
+3 Shadow Prophecy
 3 Mesmeric Orb
 4 Shadow Prophecy
 4 Mesmeric Orb
 4 Fatestitcher
+2 The Wandering Emperor
+5 Island
 1 Force of Negation
 1 Narset, Parter of Veils
 1 Geier Reach Sanitarium
@@ -253,9 +255,7 @@
 2 Narset, Parter of Veils
 2 Hall of Storm Giants
 2 Day's Undoing
-3 Day's Undoing
 3 Force of Negation
+3 Day's Undoing
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
-2 The Wandering Emperor
-5 Island

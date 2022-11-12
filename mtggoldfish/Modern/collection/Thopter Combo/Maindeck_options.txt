@@ -81,8 +81,8 @@
 1 Prismatic Vista
 2 Relic of Progenitus
 3 Darksteel Citadel
-4 Darksteel Citadel
 4 Teferi, Time Raveler
+4 Darksteel Citadel
 4 Island
 1 Godless Shrine
 1 Counterspell
@@ -101,8 +101,8 @@
 4 Polluted Delta
 1 Inspiring Vantage
 1 Lightning Greaves
-1 Stomping Ground
 1 Hex Parasite
+1 Stomping Ground
 1 Spirit of the Labyrinth
 2 Spirit of the Labyrinth
 1 Snow-Covered Island
@@ -139,12 +139,6 @@
 3 Windswept Heath
 4 Fable of the Mirror-Breaker
 4 Leyline Binding
-1 The Antiquities War
-2 The Antiquities War
-3 The Antiquities War
-3 Razortide Bridge
-4 Razortide Bridge
-4 The Antiquities War
 1 Ornithopter
 1 Memnite
 1 Thoughtcast
@@ -158,8 +152,14 @@
 4 Ingenious Smith
 4 Thought Monitor
 1 Expressive Iteration
-2 Expressive Iteration
 2 Spirebluff Canal
+2 Expressive Iteration
 3 Arid Mesa
 3 Expressive Iteration
 4 Expressive Iteration
+1 The Antiquities War
+2 The Antiquities War
+3 The Antiquities War
+3 Razortide Bridge
+4 The Antiquities War
+4 Razortide Bridge
