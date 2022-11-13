@@ -1,38 +1,41 @@
-1 Gemstone Caverns
-1 Ardent Plea
 1 Brazen Borrower
+1 Ardent Plea
+3 Teferi, Time Raveler
 2 Gemstone Caverns
 2 Brazen Borrower
-1 Sacred Foundry
 1 Mountain
-1 Windswept Heath
-2 Ardent Plea
+1 Sacred Foundry
 1 Scalding Tarn
 2 Scalding Tarn
 3 Dead/Gone
-1 Hallowed Fountain
-2 Otawara, Soaring City
+1 Windswept Heath
+2 Ardent Plea
 3 Scalding Tarn
 1 Ketria Triome
+1 Hallowed Fountain
+2 Otawara, Soaring City
+3 Brazen Borrower
+4 Scalding Tarn
 4 Dead/Gone
 1 Omnath, Locus of Creation
 2 Omnath, Locus of Creation
-3 Brazen Borrower
-4 Scalding Tarn
-3 Omnath, Locus of Creation
-1 Endurance
 2 Island
 4 Brazen Borrower
+3 Omnath, Locus of Creation
+1 Fiery Islet
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+1 Endurance
 4 Teferi, Time Raveler
 4 Omnath, Locus of Creation
 1 Subtlety
 2 Windswept Heath
+1 Blood Moon
+2 Blood Moon
+1 Waterlogged Grove
 1 Arid Mesa
-1 Fiery Islet
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-2 Endurance
 2 Forest
+2 Endurance
 1 Solitude
 2 Solitude
 3 Solitude
@@ -40,17 +43,14 @@
 1 Fable of the Mirror-Breaker
 2 Subtlety
 2 Arid Mesa
-1 Waterlogged Grove
 1 Mystical Dispute
 2 Mystical Dispute
 2 Steam Vents
 3 Mystical Dispute
 3 Island
 4 Mystical Dispute
-1 Blood Moon
-2 Blood Moon
-1 Prismari Command
 1 Jetmir's Garden
+1 Prismari Command
 1 Zagoth Triome
 3 Windswept Heath
 3 Ardent Plea
@@ -83,6 +83,7 @@
 1 Magus of the Moon
 1 Repudiate/Replicate
 2 Repudiate/Replicate
+3 Blood Moon
 3 Arid Mesa
 4 Solitude
 1 Snow-Covered Plains

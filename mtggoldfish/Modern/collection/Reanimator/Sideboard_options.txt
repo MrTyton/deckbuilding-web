@@ -29,10 +29,10 @@
 4 Leyline of Sanctity
 1 Wear/Tear
 2 Wear/Tear
-1 Fury
 1 Obsidian Charmaw
-1 Yorion, Sky Nomad
 1 Hidetsugu Consumes All
+1 Fury
+1 Yorion, Sky Nomad
 2 Obsidian Charmaw
 2 Hidetsugu Consumes All
 3 Hidetsugu Consumes All
@@ -59,16 +59,22 @@
 1 Plains
 1 Tourach, Dread Cantor
 2 Tourach, Dread Cantor
+1 Force of Negation
+1 Spell Pierce
+1 Collective Brutality
+2 Collective Brutality
+2 Void Mirror
+2 Engineered Explosives
 1 Lavinia, Azorius Renegade
 2 Lavinia, Azorius Renegade
 1 Leyline Binding
 2 Leyline Binding
-1 Tormod's Crypt
 1 Detention Sphere
+1 Tormod's Crypt
 2 Tormod's Crypt
 2 Detention Sphere
-1 Defense Grid
 1 Soul-Guide Lantern
+1 Defense Grid
 2 Defense Grid
 1 Damn
 1 Through the Breach
@@ -84,12 +90,6 @@
 1 The Meathook Massacre
 1 Supreme Verdict
 2 Liliana, the Last Hope
-1 Force of Negation
-1 Spell Pierce
-1 Collective Brutality
-2 Collective Brutality
-2 Void Mirror
-2 Engineered Explosives
 1 Invoke Despair
 1 Inquisition of Kozilek
 1 Liliana of the Veil
@@ -105,8 +105,8 @@
 3 Test of Talents
 1 Assassin's Trophy
 1 Endurance
-1 Abrupt Decay
 1 Necromentia
+1 Abrupt Decay
 1 Divest
 1 Flaying Tendrils
 2 Assassin's Trophy
@@ -122,13 +122,13 @@
 1 Monastery Mentor
 2 Flusterstorm
 4 Dauthi Voidwalker
-1 Knight of Autumn
 1 Path to Exile
 1 Callous Bloodmage
 1 Vindicate
+1 Knight of Autumn
 1 Fulminator Mage
 1 Anguished Unmaking
 1 Thragtusk
-2 Fulminator Mage
 2 Knight of Autumn
+2 Fulminator Mage
 2 Callous Bloodmage

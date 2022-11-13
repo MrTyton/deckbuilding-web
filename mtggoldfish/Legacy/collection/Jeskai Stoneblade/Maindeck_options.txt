@@ -1,4 +1,4 @@
-1 True-Name Nemesis
+2 Polluted Delta
 1 Umezawa's Jitte
 1 Pyroblast
 3 Volcanic Island
@@ -6,36 +6,38 @@
 1 Ethereal Forager
 2 Ethereal Forager
 3 Ethereal Forager
-1 Stifle
 2 True-Name Nemesis
+3 True-Name Nemesis
+1 Stifle
 2 Stifle
 3 Stifle
-3 True-Name Nemesis
 4 Stifle
 1 Snow-Covered Island
 1 Prismatic Vista
 2 Prismatic Vista
-3 Prismatic Vista
-1 Narset, Parter of Veils
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
-2 Murktide Regent
 1 Counterbalance
-4 Prismatic Vista
 1 Jace, the Mind Sculptor
 1 Snapcaster Mage
 2 Snapcaster Mage
-3 Polluted Delta
+3 Prismatic Vista
+1 Narset, Parter of Veils
 1 Mountain
+2 Murktide Regent
+4 Prismatic Vista
+3 Island
+4 Island
+3 Polluted Delta
 1 Back to Basics
 2 Jace, the Mind Sculptor
 2 Back to Basics
 3 Snapcaster Mage
 3 Jace, the Mind Sculptor
+2 Plains
 1 Snow-Covered Plains
 3 Murktide Regent
-3 Island
-4 Island
+4 Prismatic Ending
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
@@ -47,31 +49,33 @@
 2 Snow-Covered Plains
 3 Snow-Covered Island
 4 Snow-Covered Island
-2 Plains
 5 Island
-4 Prismatic Ending
+1 Karakas
+1 Arid Mesa
 1 Lightning Bolt
 2 Lightning Bolt
 6 Island
 5 Snow-Covered Island
 6 Snow-Covered Island
+2 Spell Pierce
+1 The Wandering Emperor
+1 Supreme Verdict
+3 Scalding Tarn
 1 Dragon's Rage Channeler
 2 Dragon's Rage Channeler
 3 Dragon's Rage Channeler
 4 Dragon's Rage Channeler
-1 Karakas
 2 Narset, Parter of Veils
-1 Arid Mesa
 1 Pithing Needle
 1 Shadowspear
-1 Marsh Flats
 1 Pick-a-Beeble
+1 Aarakocra Sneak
 1 Clown Extruder
 1 Command Performance
 1 Urza's Saga
-1 Aarakocra Sneak
 1 Hall of Mirrors
 1 Steam Vents
+1 Marsh Flats
 1 Swinging Ship
 1 Mox Opal
 1 Foam Weapons Kiosk
@@ -93,14 +97,16 @@
 4 Polluted Delta
 4 Command Performance
 4 Urza's Saga
+1 Lion Sash
+1 Comet, Stellar Pup
 1 Bonesplitter
 1 Timeless Dragon
 1 Counterspell
-1 The Wandering Emperor
 1 Dress Down
-1 Supreme Verdict
 2 Timeless Dragon
 2 Dress Down
+1 Triumph of Saint Katherine
+2 Triumph of Saint Katherine
 1 Red Elemental Blast
 2 Misty Rainforest
 2 Red Elemental Blast
@@ -108,7 +114,6 @@
 4 Lightning Bolt
 4 Volcanic Island
 1 Dovin's Veto
-2 Spell Pierce
 2 Dovin's Veto
 2 Force of Negation
 4 Ethereal Forager
@@ -131,5 +136,4 @@
 1 Mishra's Bauble
 1 March of Otherworldly Light
 2 Mishra's Bauble
-3 Scalding Tarn
 4 Scalding Tarn

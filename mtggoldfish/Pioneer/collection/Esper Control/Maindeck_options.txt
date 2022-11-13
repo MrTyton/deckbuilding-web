@@ -78,7 +78,6 @@
 1 Cut Down
 2 Temporary Lockdown
 2 Cut Down
-1 Rite of Oblivion
 1 Urborg, Tomb of Yawgmoth
 1 The Restoration of Eiganjo
 1 The Meathook Massacre
@@ -87,11 +86,11 @@
 1 Treacherous Blessing
 1 Flicker of Fate
 1 Doom Foretold
+1 Rite of Oblivion
 1 Thirst for Meaning
 1 Starfield of Nyx
 1 The Birth of Meletis
 1 Demonic Pact
-2 Rite of Oblivion
 2 Trial of Ambition
 2 Lithoform Blight
 2 The Restoration of Eiganjo
@@ -102,12 +101,13 @@
 2 Otawara, Soaring City
 2 The Meathook Massacre
 2 Demonic Pact
+2 Rite of Oblivion
 2 Treacherous Blessing
+3 The Meathook Massacre
 3 The Restoration of Eiganjo
 3 Shipwreck Marsh
 3 Trial of Ambition
 3 Lithoform Blight
-3 The Meathook Massacre
 3 The Birth of Meletis
 3 Doom Foretold
 3 Oath of Kaya
@@ -127,8 +127,8 @@
 1 Dig Through Time
 1 Doomskar
 1 Murderous Rider
-1 Divide by Zero
 1 Brazen Borrower
+1 Divide by Zero
 1 Sheoldred, the Apocalypse
 1 Negate
 1 Torrential Gearhulk
@@ -149,13 +149,13 @@
 3 Isolated Chapel
 1 Lotus Field
 1 Hullbreaker Horror
-1 Hengegate Pathway
 1 Strict Proctor
+1 Hengegate Pathway
 1 Discontinuity
 1 Thespian's Stage
 2 Lotus Field
-2 Fateful Absence
 2 Strict Proctor
+2 Fateful Absence
 2 Settle the Wreckage
 2 Thespian's Stage
 2 Discontinuity
@@ -167,6 +167,6 @@
 3 Irrigated Farmland
 3 Discontinuity
 4 Lotus Field
-4 Irrigated Farmland
 4 Strict Proctor
+4 Irrigated Farmland
 4 Discontinuity
