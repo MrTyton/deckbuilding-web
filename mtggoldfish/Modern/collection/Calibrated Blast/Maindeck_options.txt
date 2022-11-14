@@ -11,13 +11,13 @@
 2 Mishra's Factory
 3 Desert
 3 Mountain
-4 Ramunap Ruins
 4 Mountain
+4 Ramunap Ruins
 1 Desolate Lighthouse
 1 Radiant Fountain
 2 Radiant Fountain
-3 Radiant Fountain
 3 Mishra's Factory
+3 Radiant Fountain
 4 Radiant Fountain
 2 Scavenger Grounds
 1 Verdant Catacombs
@@ -32,20 +32,20 @@
 1 Rakdos Carnarium
 2 Rakdos Carnarium
 3 Rakdos Carnarium
-4 Rakdos Carnarium
 4 Mishra's Factory
+4 Rakdos Carnarium
 5 Mountain
 6 Mountain
 7 Mountain
-1 Marsh Flats
 1 Zagoth Triome
-1 Island
+1 Sacred Foundry
+1 Marsh Flats
 1 Commit/Memory
+1 Island
 1 Temple Garden
 1 Xander's Lounge
 1 Flooded Strand
 1 Tolaria West
-1 Sacred Foundry
 2 Commit/Memory
 2 Tolaria West
 3 Tolaria West
@@ -59,11 +59,6 @@
 4 Sulfurous Springs
 4 Shivan Reef
 4 Boseiju, Who Shelters All
-1 Blackcleave Cliffs
-1 Kher Keep
-1 Mikokoro, Center of the Sea
-2 Blackcleave Cliffs
-4 Sokenzan, Crucible of Defiance
 1 Emrakul, the Promised End
 1 Icebreaker Kraken
 1 Blinkmoth Infusion
@@ -77,3 +72,8 @@
 12 Mountain
 13 Mountain
 14 Mountain
+1 Blackcleave Cliffs
+1 Kher Keep
+1 Mikokoro, Center of the Sea
+2 Blackcleave Cliffs
+4 Sokenzan, Crucible of Defiance

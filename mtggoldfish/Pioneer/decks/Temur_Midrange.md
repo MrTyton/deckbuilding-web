@@ -33,4 +33,8 @@
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
 |                    2|[The Elder Dragon War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574601)|                    1|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)|
+|                    1|[Valakut Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491818)   |                    1|[Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663) |
+|                    1|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)       |                    2|[Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663) |
+|                    2|[Valakut Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491818)   |                    3|[Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663) |
+|                    2|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)       |                     |                                                                                          |
 

@@ -1,7 +1,7 @@
 # Dimir Spirits
 
 #### [Export MTGO List](../collection/Dimir%20Spirits/Dimir%20Spirits.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Cemetery%20Illuminator%0A4%09Clearwater%20Pathway%0A4%09Curious%20Obsession%0A4%09Drowned%20Catacomb%0A4%09Fatal%20Push%0A4%09Geistlight%20Snare%0A1%09Hall%20of%20Storm%20Giants%0A8%09Island%0A2%09Ledger%20Shredder%0A3%09Lofty%20Denial%0A4%09Mausoleum%20Wanderer%0A4%09Rattlechains%0A2%09Shacklegeist%0A4%09Spectral%20Sailor%0A2%09Spell%20Pierce%0A4%09Supreme%20Phantom%0A4%09Watery%20Grave&deckside=2%09Aether%20Gust%0A1%09Brazen%20Borrower%0A1%09Disdainful%20Stroke%0A2%09Extinction%20Event%0A2%09Ledger%20Shredder%0A2%09Mystical%20Dispute%0A3%09Slip%20Out%20the%20Back%0A2%09Unlicensed%20Hearse)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Cemetery%20Illuminator%0A4%09Clearwater%20Pathway%0A4%09Curious%20Obsession%0A4%09Drowned%20Catacomb%0A4%09Fatal%20Push%0A4%09Geistlight%20Snare%0A1%09Hall%20of%20Storm%20Giants%0A8%09Island%0A2%09Ledger%20Shredder%0A3%09Lofty%20Denial%0A4%09Mausoleum%20Wanderer%0A4%09Rattlechains%0A2%09Shacklegeist%0A4%09Spectral%20Sailor%0A2%09Spell%20Pierce%0A4%09Supreme%20Phantom%0A4%09Watery%20Grave&deckside=2%09Aether%20Gust%0A1%09Brazen%20Borrower%0A2%09Extinction%20Event%0A2%09Ledger%20Shredder%0A3%09Mystical%20Dispute%0A3%09Slip%20Out%20the%20Back%0A2%09Unlicensed%20Hearse)
 # Maindeck
 
 |                                          Creature (22)                                          |                                       Enchantment (4)                                        |                                        Instant (13)                                         |                                            Land (21)                                            |
@@ -20,7 +20,13 @@
 |                                         Artifact (2)                                         |                                        Creature (3)                                        |                                         Instant (8)                                          |                                         Sorcery (2)                                         |
 |----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 |2 [Unlicensed Hearse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555447)|1 [Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)|2 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)      |2 [Extinction Event](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479608)|
-|                                                                                              |2 [Ledger Shredder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555247)|1 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|                                                                                             |
-|                                                                                              |                                                                                            |2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |                                                                                             |
+|                                                                                              |2 [Ledger Shredder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555247)|3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |                                                                                             |
 |                                                                                              |                                                                                            |3 [Slip Out the Back](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555263)|                                                                                             |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
 

@@ -12,8 +12,8 @@
 1 Dockside Chef
 2 Roadside Reliquary
 2 Dockside Chef
-3 Tenacious Underdog
 3 Dockside Chef
+3 Tenacious Underdog
 4 Reckoner Bankbuster
 1 Blood Fountain
 3 Ob Nixilis, the Adversary
@@ -44,8 +44,8 @@
 1 Dragonspark Reactor
 1 Vampire's Kiss
 2 Karn, Living Legacy
-2 Atsushi, the Blazing Sky
 2 Reinforced Ronin
+2 Atsushi, the Blazing Sky
 2 Sokenzan Smelter
 2 Dragonspark Reactor
 2 Mechtitan Core
@@ -69,19 +69,21 @@
 1 Cut Down
 2 Cut Down
 2 Abrade
-1 Invoke Despair
-1 Graveyard Trespasser
-2 Invoke Despair
-2 Graveyard Trespasser
-3 Infernal Grasp
-3 Invoke Despair
-3 Graveyard Trespasser
-4 Graveyard Trespasser
-4 Infernal Grasp
-4 Invoke Despair
 1 Sorin the Mirthless
 3 Soul Transfer
 4 Soul Transfer
+3 Blood Fountain
+4 Braids, Arisen Nightmare
+1 Graveyard Trespasser
+1 Invoke Despair
+2 Graveyard Trespasser
+2 Invoke Despair
+3 Graveyard Trespasser
+3 Infernal Grasp
+3 Invoke Despair
+4 Infernal Grasp
+4 Graveyard Trespasser
+4 Invoke Despair
 1 Reckoner's Bargain
 1 Flame-Blessed Bolt
 1 Duress
@@ -90,5 +92,3 @@
 2 Duress
 3 Reckoner's Bargain
 8 Swamp
-3 Blood Fountain
-4 Braids, Arisen Nightmare

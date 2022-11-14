@@ -13,6 +13,8 @@
 3 Join the Dance
 4 Join the Dance
 1 Welcoming Vampire
+1 Brutal Cathar
+2 Brutal Cathar
 4 Adarkar Wastes
 1 Rootcoil Creeper
 2 Welcoming Vampire
@@ -24,9 +26,7 @@
 4 Dreamroot Cascade
 4 Rootcoil Creeper
 1 Ao, the Dawn Sky
-1 Brutal Cathar
 2 Ao, the Dawn Sky
-2 Brutal Cathar
 1 Aether Channeler
 2 Aether Channeler
 1 Teferi, Who Slows the Sunset
@@ -43,32 +43,33 @@
 2 Teachings of the Kirin
 1 The Restoration of Eiganjo
 3 Plains
+2 Ajani, Sleeper Agent
+1 Llanowar Loamspeaker
+1 Malevolent Hermit
 1 Adeline, Resplendent Cathar
-1 Sungold Sentinel
 1 Briarbridge Tracker
+1 Avabruck Caretaker
 1 Ulvenwald Oddity
-1 Titan of Industry
 1 Spectral Adversary
 1 Sanctuary Warden
-1 Llanowar Loamspeaker
-1 Suspicious Stowaway
 1 Thalia, Guardian of Thraben
+1 Titan of Industry
+1 Suspicious Stowaway
+1 Sungold Sentinel
+1 King Darien XLVIII
 1 All-Seeing Arbiter
-1 Malevolent Hermit
-1 Avabruck Caretaker
 1 Fight Rigging
 1 Quirion Beastcaller
-1 King Darien XLVIII
 1 Unnatural Growth
 1 The Celestus
 2 The Celestus
+2 Intrepid Adversary
+2 Serra Paragon
+3 Serra Paragon
 1 The Reality Chip
 1 Falco Spara, Pactweaver
 2 Falco Spara, Pactweaver
 3 Elspeth Resplendent
-2 Intrepid Adversary
-2 Serra Paragon
-3 Serra Paragon
 1 Thran Portal
 2 Thran Portal
 2 Grafted Identity
@@ -77,12 +78,25 @@
 1 Urza Assembles the Titans
 1 Silver Scrutiny
 2 Silver Scrutiny
-2 Ajani, Sleeper Agent
 2 Gala Greeters
 3 Gala Greeters
 1 Disciplined Duelist
 2 Disciplined Duelist
 3 Disciplined Duelist
+1 Vivien on the Hunt
+1 Rabble Rousing
+1 Jetmir's Garden
+2 The Restoration of Eiganjo
+2 Vivien on the Hunt
+2 Rabble Rousing
+2 Jetmir's Garden
+3 The Restoration of Eiganjo
+3 Teachings of the Kirin
+3 Reckoner Bankbuster
+3 Jetmir's Garden
+4 Reckoner Bankbuster
+4 The Restoration of Eiganjo
+4 Teachings of the Kirin
 1 Jugan Defends the Temple
 1 Sunset Revelry
 1 Hallowed Haunting
@@ -99,20 +113,6 @@
 3 Sunset Revelry
 3 Exotic Pets
 4 Sunset Revelry
-1 Vivien on the Hunt
-1 Rabble Rousing
-1 Jetmir's Garden
-2 The Restoration of Eiganjo
-2 Vivien on the Hunt
-2 Rabble Rousing
-2 Jetmir's Garden
-3 The Restoration of Eiganjo
-3 Teachings of the Kirin
-3 Reckoner Bankbuster
-3 Jetmir's Garden
-4 Reckoner Bankbuster
-4 Teachings of the Kirin
-4 The Restoration of Eiganjo
 1 Protect the Negotiators
 2 Protect the Negotiators
 3 Dennick, Pious Apprentice
@@ -120,8 +120,39 @@
 4 Anointed Peacekeeper
 4 Katilda, Dawnhart Prime
 4 Protect the Negotiators
-1 Touch the Spirit Realm
+1 Extraction Specialist
+1 Spirited Companion
+1 Guardian of New Benalia
+1 Xander's Lounge
+1 Lunarch Veteran
+1 Deathcap Glade
+1 Archangel of Wrath
+1 Shigeki, Jukai Visionary
+1 Lagrella, the Magpie
+1 Ziatora's Proving Ground
+1 Caves of Koilos
+1 Shivan Reef
+1 Ascendant Packleader
+1 Shattered Sanctum
+1 Rockfall Vale
+2 Extraction Specialist
+2 Spirited Companion
+2 Boseiju, Who Endures
+2 Archangel of Wrath
+2 Llanowar Loamspeaker
+2 Lunarch Veteran
+2 Lagrella, the Magpie
+2 Eiganjo, Seat of the Empire
+2 Ascendant Packleader
+3 Extraction Specialist
+3 Spirited Companion
+3 Archangel of Wrath
+3 Brutal Cathar
+4 Extraction Specialist
+4 Spirited Companion
+4 Brutal Cathar
 1 Faithbound Judge
+1 Touch the Spirit Realm
 1 An Offer You Can't Refuse
 1 Bamboo Grove Archer
 1 Walking Bulwark
@@ -130,16 +161,16 @@
 1 Coral Colony
 1 Larder Zombie
 1 Guardians of Oboro
-2 Faithbound Judge
 2 Touch the Spirit Realm
 2 An Offer You Can't Refuse
 2 Larder Zombie
 2 Floriferous Vinewall
 2 Bamboo Grove Archer
 2 Guardians of Oboro
-2 Walking Bulwark
 2 Wingmantle Chaplain
 2 Coral Colony
+2 Faithbound Judge
+2 Walking Bulwark
 3 Touch the Spirit Realm
 3 Floriferous Vinewall
 3 Wingmantle Chaplain
@@ -149,8 +180,8 @@
 3 Guardians of Oboro
 3 An Offer You Can't Refuse
 3 Bamboo Grove Archer
-4 Faithbound Judge
-4 Larder Zombie
 4 Guardians of Oboro
+4 Faithbound Judge
 4 Wingmantle Chaplain
 4 Bamboo Grove Archer
+4 Larder Zombie
