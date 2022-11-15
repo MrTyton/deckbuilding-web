@@ -1,83 +1,83 @@
-3 Infernal Grasp
-6 Plains
 3 Liliana of the Veil
-1 Henrika Domnathi
-2 Serra Paragon
-3 Tenacious Underdog
-2 The Meathook Massacre
-2 Sorin the Mirthless
-3 Invoke Despair
 1 Phyrexian Missionary
 4 Spirited Companion
+3 Tenacious Underdog
+1 The Meathook Massacre
+2 Sorin the Mirthless
+3 Invoke Despair
 1 Scoured Barrens
 2 Scoured Barrens
-1 Farewell
+2 Serra Paragon
 2 Eiganjo, Seat of the Empire
-1 Fateful Absence
+6 Plains
+1 Henrika Domnathi
+1 Rite of Oblivion
+2 The Meathook Massacre
+3 Scoured Barrens
 1 Cathar Commando
 2 Cathar Commando
-1 Rite of Oblivion
 2 Rite of Oblivion
-3 Scoured Barrens
+1 Fateful Absence
+1 Farewell
 3 Reckoner Bankbuster
 3 Rite of Oblivion
 2 Takenuma, Abandoned Mire
+1 Extraction Specialist
 2 Phyrexian Missionary
 4 Tenacious Underdog
 4 Graveyard Trespasser
-7 Plains
-2 Ao, the Dawn Sky
 1 Path of Peril
-1 Elspeth Resplendent
 2 Henrika Domnathi
-1 Extraction Specialist
-1 Destroy Evil
-1 Virus Beetle
-1 March of Otherworldly Light
-8 Swamp
-9 Swamp
+4 Scoured Barrens
 2 Extraction Specialist
+1 Elspeth Resplendent
+1 Virus Beetle
+1 Destroy Evil
 3 Extraction Specialist
 4 Extraction Specialist
 2 Virus Beetle
 3 Virus Beetle
+8 Swamp
+9 Swamp
 2 Path of Peril
+7 Plains
 2 Soul Transfer
-4 Scoured Barrens
+2 Ao, the Dawn Sky
 2 Farewell
 1 Adeline, Resplendent Cathar
-2 March of Otherworldly Light
 2 Fateful Absence
+1 March of Otherworldly Light
 1 Sanctuary Warden
 4 Virus Beetle
 1 Evolved Sleeper
 3 Cut Down
 2 Elspeth Resplendent
-1 Ambitious Farmhand
 3 Sorin the Mirthless
 4 Liliana of the Veil
+2 March of Otherworldly Light
 1 Obscura Storefront
 2 Destroy Evil
 8 Plains
+1 The Restoration of Eiganjo
 1 Liesa, Forgotten Archangel
 1 Anointed Peacekeeper
+1 Elas il-Kor, Sadistic Pilgrim
 1 Roadside Reliquary
+1 Archangel of Wrath
+2 Obscura Storefront
 4 Invoke Despair
 4 The Wandering Emperor
 4 Reckoner Bankbuster
-2 Obscura Storefront
-1 Archangel of Wrath
-1 March of Wretched Sorrow
+1 Ambitious Farmhand
 9 Plains
-1 Junji, the Midnight Sky
 3 Sheoldred, the Apocalypse
+1 Junji, the Midnight Sky
 2 Evolved Sleeper
-1 The Restoration of Eiganjo
 3 Phyrexian Missionary
-3 Serra Paragon
+1 Intrepid Adversary
 1 Hopeful Initiate
 1 The Cruelty of Gix
-1 Elas il-Kor, Sadistic Pilgrim
+3 Serra Paragon
 1 Unlicensed Hearse
 2 Roadside Reliquary
 4 Infernal Grasp
@@ -89,12 +89,14 @@
 2 Ambitious Farmhand
 1 Depopulate
 10 Swamp
-1 Intrepid Adversary
+1 March of Wretched Sorrow
 1 Jadar, Ghoulcaller of Nephalia
 1 Concealing Curtains
 1 Toxrill, the Corrosive
 1 Welcoming Vampire
 1 Guardian of New Benalia
+1 Lunarch Veteran
+1 Voice of the Blessed
 2 Sanctuary Warden
 1 Haunted Ridge
 1 Sundown Pass
@@ -109,9 +111,7 @@
 1 Rabble Rousing
 1 Sanctify
 1 Urborg Repossession
-1 Lunarch Veteran
 1 Markov Purifier
-1 Voice of the Blessed
 1 Traveling Minister
 1 Shadow-Rite Priest
 1 Luxior, Giada's Gift
@@ -119,8 +119,8 @@
 1 Parasitic Grasp
 1 Hero's Downfall
 1 Sunlit Marsh
-1 Tainted Adversary
 1 Chaplain of Alms
+1 Tainted Adversary
 1 Faithbound Judge
 1 Raffine's Informant
 1 Resolute Reinforcements
@@ -174,11 +174,22 @@
 3 Sundown Pass
 4 Fable of the Mirror-Breaker
 4 Giada, Font of Hope
-4 Sanctuary Warden
 4 Archangel of Wrath
+4 Sanctuary Warden
 4 Haunted Ridge
 4 Sundown Pass
 4 Inspiring Overseer
+1 Kaya, Geist Hunter
+1 Panicked Bystander
+1 Voldaren Bloodcaster
+1 Undead Butler
+2 Panicked Bystander
+2 Voldaren Bloodcaster
+2 Lunarch Veteran
+3 Voldaren Bloodcaster
+3 Lunarch Veteran
+4 Voldaren Bloodcaster
+4 Lunarch Veteran
 1 Vanquish the Horde
 10 Plains
 11 Plains

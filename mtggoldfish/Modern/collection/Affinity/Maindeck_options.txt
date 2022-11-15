@@ -1,18 +1,24 @@
+2 Esper Sentinel
+3 Esper Sentinel
 4 Esper Sentinel
+1 Metallic Rebuke
+2 Metallic Rebuke
+4 Mistvault Bridge
+2 Nettlecyst
+2 Razortide Bridge
+3 Razortide Bridge
 2 Portable Hole
 3 Portable Hole
 4 Portable Hole
-2 Welding Jar
-1 Silverbluff Bridge
-1 Metallic Rebuke
-2 Metallic Rebuke
-2 Nettlecyst
-1 Gingerbrute
-2 Mistvault Bridge
-3 Mistvault Bridge
+1 Patchwork Automaton
+2 Patchwork Automaton
 3 Metallic Rebuke
 1 Hallowed Fountain
+1 Pithing Needle
+4 Razortide Bridge
+2 Silverbluff Bridge
 1 Seachrome Coast
+2 Hallowed Fountain
 2 Seachrome Coast
 3 Seachrome Coast
 1 Ingenious Smith
@@ -20,35 +26,24 @@
 2 Ingenious Smith
 3 Ingenious Smith
 4 Ingenious Smith
-1 Pithing Needle
-4 Mistvault Bridge
-1 Patchwork Automaton
-2 Patchwork Automaton
-1 Urza, Lord High Artificer
-2 Urza, Lord High Artificer
-3 Urza, Lord High Artificer
-2 Hallowed Fountain
+1 Myr Enforcer
+2 Relic of Progenitus
 2 Otawara, Soaring City
 3 Patchwork Automaton
+3 Treasure Vault
+1 Urza, Lord High Artificer
+2 Urza, Lord High Artificer
 3 Hallowed Fountain
-1 Flooded Strand
-2 Flooded Strand
-1 Myr Enforcer
-1 Dispatch
-2 Silverbluff Bridge
-2 Relic of Progenitus
+3 Urza, Lord High Artificer
+2 Island
+2 Myr Enforcer
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 4 Patchwork Automaton
-4 Seachrome Coast
-3 Treasure Vault
-2 Island
-2 Myr Enforcer
-3 Flooded Strand
-2 Dispatch
-3 Dispatch
+1 Flooded Strand
+2 Flooded Strand
+1 Dispatch
 2 Plains
-1 Expedition Map
 1 Lightning Greaves
 1 Eiganjo, Seat of the Empire
 1 Soul-Guide Lantern
@@ -56,11 +51,13 @@
 1 The Restoration of Eiganjo
 1 Kaldra Compleat
 1 Stoneforge Mystic
+2 Dispatch
 2 The Restoration of Eiganjo
 2 Power Conduit
 2 Stoneforge Mystic
-3 Stoneforge Mystic
+3 Dispatch
 3 Plains
+3 Stoneforge Mystic
 3 The Restoration of Eiganjo
 4 Plains
 4 Dispatch
@@ -71,55 +68,42 @@
 7 Plains
 8 Plains
 9 Plains
-3 Spire of Industry
+4 Seachrome Coast
 1 Inkmoth Nexus
-3 Nettlecyst
-4 Nettlecyst
-4 Metallic Rebuke
-4 Hallowed Fountain
 3 Power Conduit
 10 Plains
 1 Adarkar Wastes
-1 Snow-Covered Island
+3 Flooded Strand
 1 Chalice of the Void
+1 Snow-Covered Island
 1 Grafdigger's Cage
 1 Arcbound Ravager
 2 Chalice of the Void
 2 Inkmoth Nexus
 2 Arcbound Ravager
 3 Inkmoth Nexus
-1 Glimmervoid
+3 Spire of Industry
+1 Etched Champion
 1 Moonsnare Prototype
 2 Moonsnare Prototype
 3 Moonsnare Prototype
 4 Moonsnare Prototype
-1 Etched Champion
-1 Tanglepool Bridge
-2 Tanglepool Bridge
 1 Paradise Mantle
 2 Paradise Mantle
 1 Emry, Lurker of the Loch
 2 Emry, Lurker of the Loch
-1 Misty Rainforest
-1 Trinket Mage
-1 Talisman of Progress
-2 Trinket Mage
-2 Talisman of Progress
-3 Trinket Mage
-4 Flooded Strand
-4 Urza, Lord High Artificer
-1 Mystic Gate
 1 Ghost Quarter
 1 Cavern of Souls
+1 Expedition Map
 1 Hall of Heliod's Generosity
 1 Cave of the Frost Dragon
-1 Academy Ruins
-2 Aether Spellbomb
 1 Inventors' Fair
 2 Adarkar Wastes
 1 Meria, Scholar of Antiquity
+1 Tanglepool Bridge
 2 Meria, Scholar of Antiquity
 2 Etched Champion
+2 Tanglepool Bridge
 3 Meria, Scholar of Antiquity
 1 The Underworld Cookbook
 4 Spire of Industry
@@ -127,15 +111,12 @@
 1 Sorcerous Spyglass
 3 Paradise Mantle
 4 Inkmoth Nexus
+1 Glimmervoid
 1 Michiko's Reign of Truth
 1 Hex Parasite
 2 Michiko's Reign of Truth
 3 Michiko's Reign of Truth
 4 Michiko's Reign of Truth
-1 Tormod's Crypt
-2 Glimmervoid
-3 Glimmervoid
-4 Glimmervoid
 1 Underworld Breach
 1 Thassa's Oracle
 1 Experimental Synthesizer
@@ -149,23 +130,14 @@
 2 Experimental Synthesizer
 3 Underworld Breach
 3 Grinding Station
-3 Mox Amber
 3 Silverbluff Bridge
+3 Mox Amber
 3 Emry, Lurker of the Loch
 4 Underworld Breach
 4 Silverbluff Bridge
 4 Emry, Lurker of the Loch
 1 Eiganjo Castle
 4 Power Conduit
-1 Griselbrand
-1 Neoform
-1 Craterhoof Behemoth
-2 Craterhoof Behemoth
-2 Neoform
-3 Tanglepool Bridge
-3 Neoform
-4 Tanglepool Bridge
-4 Neoform
 1 Waterlogged Grove
 1 Mystic Forge
 2 Mystic Forge
@@ -174,9 +146,13 @@
 3 Waterlogged Grove
 4 Mystic Forge
 4 Waterlogged Grove
+3 Nettlecyst
+4 Nettlecyst
+4 Metallic Rebuke
 1 Ethersworn Sphinx
 2 Ethersworn Sphinx
 3 Ethersworn Sphinx
+4 Hallowed Fountain
 4 Ethersworn Sphinx
 1 Blacksmith's Skill
 11 Plains

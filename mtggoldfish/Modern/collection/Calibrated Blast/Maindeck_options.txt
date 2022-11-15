@@ -1,14 +1,14 @@
-2 Otawara, Soaring City
-1 Ziatora's Proving Ground
-2 Mountain
-1 Bloodstained Mire
 2 Bloodstained Mire
+3 Wooded Foothills
+1 Desert
+2 Desert
+2 Mountain
 1 Mishra's Factory
 2 Boseiju, Who Shelters All
 1 Halimar Depths
 2 Halimar Depths
-3 Boseiju, Who Endures
 2 Mishra's Factory
+3 Boseiju, Who Endures
 3 Desert
 3 Mountain
 4 Mountain
@@ -16,12 +16,12 @@
 1 Desolate Lighthouse
 1 Radiant Fountain
 2 Radiant Fountain
-3 Mishra's Factory
 3 Radiant Fountain
+3 Mishra's Factory
 4 Radiant Fountain
 2 Scavenger Grounds
-1 Verdant Catacombs
 1 Detection Tower
+1 Verdant Catacombs
 2 Detection Tower
 2 Desolate Lighthouse
 3 Otawara, Soaring City
@@ -32,13 +32,12 @@
 1 Rakdos Carnarium
 2 Rakdos Carnarium
 3 Rakdos Carnarium
-4 Mishra's Factory
 4 Rakdos Carnarium
+4 Mishra's Factory
 5 Mountain
 6 Mountain
 7 Mountain
 1 Zagoth Triome
-1 Sacred Foundry
 1 Marsh Flats
 1 Commit/Memory
 1 Island
@@ -46,6 +45,7 @@
 1 Xander's Lounge
 1 Flooded Strand
 1 Tolaria West
+1 Sacred Foundry
 2 Commit/Memory
 2 Tolaria West
 3 Tolaria West
@@ -54,8 +54,8 @@
 2 Shivan Reef
 2 Sulfurous Springs
 3 Sulfurous Springs
-3 Boseiju, Who Shelters All
 3 Shivan Reef
+3 Boseiju, Who Shelters All
 4 Sulfurous Springs
 4 Shivan Reef
 4 Boseiju, Who Shelters All

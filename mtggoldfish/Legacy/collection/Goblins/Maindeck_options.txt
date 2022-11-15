@@ -20,8 +20,8 @@
 1 Food Chain
 2 Food Chain
 3 Food Chain
-4 Wooded Foothills
 4 Ignoble Hierarch
+4 Wooded Foothills
 4 Food Chain
 1 Kiki-Jiki, Mirror Breaker
 1 Conspicuous Snoop
@@ -79,7 +79,6 @@
 2 Chrome Mox
 3 Chrome Mox
 4 Chrome Mox
-1 Goblin Engineer
 1 Sundering Titan
 1 Esper Sentinel
 1 Thopter Foundry
@@ -89,12 +88,13 @@
 1 Tangle Wire
 1 Crib Swap
 1 Plateau
+1 Goblin Engineer
 1 Ensnaring Bridge
 1 Volcanic Island
 1 Sword of the Meek
 2 Goblin Engineer
-2 Thopter Foundry
 2 Ensnaring Bridge
+2 Thopter Foundry
 2 Plateau
 2 Goblin Welder
 2 Great Furnace
@@ -114,9 +114,9 @@
 4 Twinshot Sniper
 4 Goblin Welder
 4 Thopter Foundry
-1 Snow-Covered Forest
-1 Red Elemental Blast
 1 Blood Crypt
+1 Red Elemental Blast
+1 Snow-Covered Forest
 2 Red Elemental Blast
 1 Goblin King
 2 Goblin Cratermaker

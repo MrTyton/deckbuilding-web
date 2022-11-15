@@ -64,8 +64,8 @@
 1 Spirebluff Canal
 2 Steam Vents
 1 Windswept Heath
-1 Ragavan, Nimble Pilferer
 1 Fable of the Mirror-Breaker
+1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 2 Fable of the Mirror-Breaker
 3 Ragavan, Nimble Pilferer
@@ -74,16 +74,16 @@
 1 Snow-Covered Plains
 1 Welding Jar
 1 Chalice of the Void
-1 Engineered Explosives
 1 Ensnaring Bridge
 1 Watery Grave
+1 Engineered Explosives
 3 Polluted Delta
 1 Prismatic Vista
 2 Relic of Progenitus
 3 Darksteel Citadel
 4 Teferi, Time Raveler
-4 Darksteel Citadel
 4 Island
+4 Darksteel Citadel
 1 Godless Shrine
 1 Counterspell
 1 Radiant Flames
@@ -93,8 +93,8 @@
 1 Inventors' Fair
 1 Tezzeret, Agent of Bolas
 1 Time Sieve
-2 Counterspell
 2 Engineered Explosives
+2 Counterspell
 2 Watery Grave
 2 Tezzeret, Agent of Bolas
 3 Tezzeret, Agent of Bolas
@@ -136,6 +136,12 @@
 3 Expressive Iteration
 3 Arid Mesa
 4 Expressive Iteration
+1 The Antiquities War
+2 The Antiquities War
+3 Razortide Bridge
+3 The Antiquities War
+4 Razortide Bridge
+4 The Antiquities War
 1 Ornithopter
 1 Memnite
 1 Thoughtcast
@@ -157,9 +163,3 @@
 3 Windswept Heath
 4 Leyline Binding
 4 Fable of the Mirror-Breaker
-1 The Antiquities War
-2 The Antiquities War
-3 The Antiquities War
-3 Razortide Bridge
-4 The Antiquities War
-4 Razortide Bridge

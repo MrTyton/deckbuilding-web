@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Faceless Haven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503874)     |                    1|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)    |
-|                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    1|[Witness Protection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555267)|
+|                    1|[Faceless Haven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503874)     |                    1|[Witness Protection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555267)|
+|                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    1|[Cerulean Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466807)    |
 |                    1|[Ascendant Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503650)   |                    1|[Brazen Buccaneers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435288) |
 |                    1|[Shacklegeist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488252)       |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)  |
 |                    1|[Slip Out the Back](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555263)  |                    2|[Witness Protection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555267)|

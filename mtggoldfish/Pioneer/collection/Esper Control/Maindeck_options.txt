@@ -4,8 +4,8 @@
 4 Fatal Push
 1 Cling to Dust
 1 Otawara, Soaring City
-1 March of Otherworldly Light
 4 Absorb
+1 March of Otherworldly Light
 2 Deserted Beach
 2 Shambling Vent
 2 Void Rend
@@ -39,7 +39,6 @@
 4 Deserted Beach
 2 Island
 1 Settle the Wreckage
-2 March of Otherworldly Light
 1 Jwari Disruption
 2 Irrigated Farmland
 1 Oath of Kaya
@@ -54,10 +53,10 @@
 1 Rite of Oblivion
 1 Urborg, Tomb of Yawgmoth
 1 The Meathook Massacre
-1 Trial of Ambition
 1 The Restoration of Eiganjo
 1 Lithoform Blight
 1 Treacherous Blessing
+1 Trial of Ambition
 1 Flicker of Fate
 1 Doom Foretold
 1 Thirst for Meaning
@@ -65,23 +64,23 @@
 1 The Birth of Meletis
 1 Demonic Pact
 2 Rite of Oblivion
-2 Trial of Ambition
 2 The Restoration of Eiganjo
+2 Otawara, Soaring City
 2 Lithoform Blight
-2 Flicker of Fate
+2 Trial of Ambition
 2 Doom Foretold
 2 Oath of Kaya
+2 Flicker of Fate
 2 The Birth of Meletis
-2 Otawara, Soaring City
 2 The Meathook Massacre
 2 Demonic Pact
 2 Treacherous Blessing
 3 The Meathook Massacre
 3 Shipwreck Marsh
-3 Trial of Ambition
 3 The Restoration of Eiganjo
 3 Lithoform Blight
 3 The Birth of Meletis
+3 Trial of Ambition
 3 Doom Foretold
 3 Oath of Kaya
 3 Flicker of Fate
@@ -90,6 +89,7 @@
 4 Lithoform Blight
 4 Doom Foretold
 5 Plains
+2 March of Otherworldly Light
 1 Fateful Absence
 1 Kaya, Orzhov Usurper
 2 Fetid Pools
@@ -100,16 +100,15 @@
 1 Shadow Prophecy
 1 Make Disappear
 2 Farewell
-2 Hall of Storm Giants
-4 Memory Deluge
 3 March of Otherworldly Light
 1 Takenuma, Abandoned Mire
 1 Elspeth, Sun's Champion
+2 Hall of Storm Giants
+4 Memory Deluge
 1 Thoughtseize
 1 Ashiok, Nightmare Muse
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
-1 Portable Hole
 1 Power Word Kill
 1 Cut Down
 2 Temporary Lockdown
@@ -129,6 +128,7 @@
 1 Sheoldred, the Apocalypse
 1 Negate
 1 Torrential Gearhulk
+1 Portable Hole
 1 Ertai Resurrected
 1 Atris, Oracle of Half-Truths
 1 Consider
@@ -146,26 +146,30 @@
 2 Make Disappear
 3 Make Disappear
 3 Isolated Chapel
-1 Lotus Field
 1 Hengegate Pathway
+1 Lotus Field
 1 Hullbreaker Horror
 1 Strict Proctor
+1 Pithing Needle
 1 Discontinuity
 1 Thespian's Stage
 2 Lotus Field
 2 Hengegate Pathway
 2 Strict Proctor
+2 Jwari Disruption
 2 Settle the Wreckage
 2 Fateful Absence
 2 Thespian's Stage
 2 Discontinuity
-2 Portable Hole
+3 Narset, Parter of Veils
 3 Lotus Field
 3 Strict Proctor
+3 Fateful Absence
 3 Thespian's Stage
 3 Irrigated Farmland
 3 Discontinuity
 4 Lotus Field
 4 Strict Proctor
+4 Fateful Absence
 4 Irrigated Farmland
 4 Discontinuity

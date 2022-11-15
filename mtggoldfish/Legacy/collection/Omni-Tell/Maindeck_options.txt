@@ -7,30 +7,40 @@
 2 Island
 3 Island
 4 Preordain
+5 Snow-Covered Island
 1 Endurance
 2 Flooded Strand
 4 Island
 2 City of Traitors
-5 Snow-Covered Island
-2 Lotus Petal
+4 Ice-Fang Coatl
 1 Carpet of Flowers
 4 Veil of Summer
-4 Ice-Fang Coatl
+2 Lotus Petal
 1 Spell Pierce
 2 Tropical Island
 3 Polluted Delta
 5 Island
 1 Flusterstorm
-1 Boseiju, Who Shelters All
 1 Otawara, Soaring City
 2 Spell Pierce
 1 Eureka
 1 Sea Gate Restoration
+1 Boseiju, Who Shelters All
 4 Cunning Wish
-2 Griselbrand
+1 Solve the Equation
+2 Solve the Equation
+3 Emrakul, the Aeons Torn
+1 Thoughtseize
 1 Underground Sea
 2 Underground Sea
+2 Thoughtseize
 3 Underground Sea
+2 Griselbrand
+1 Wooded Foothills
+1 Daze
+1 Surgical Extraction
+2 Daze
+3 Daze
 1 Snow-Covered Swamp
 1 Archon of Cruelty
 1 Entomb
@@ -47,33 +57,23 @@
 3 Exhume
 4 Entomb
 4 Underground Sea
-1 Thoughtseize
-2 Thoughtseize
-1 Solve the Equation
-2 Solve the Equation
-3 Emrakul, the Aeons Torn
-1 Wooded Foothills
-1 Daze
-1 Surgical Extraction
-2 Daze
-3 Daze
+1 Sylvan Library
+1 Drawn from Dreams
 3 Impulse
-1 Volcanic Island
 6 Island
+1 Volcanic Island
 2 Intuition
-3 Flooded Strand
-1 Venser, Shaper Savant
 3 Ancient Tomb
-3 Lotus Petal
 2 Flusterstorm
+1 Venser, Shaper Savant
+3 Flooded Strand
+3 Lotus Petal
 1 Swan Song
 1 Twincast
-1 Drawn from Dreams
 2 Boseiju, Who Shelters All
 2 Swan Song
 2 Drawn from Dreams
 3 Drawn from Dreams
-1 Sylvan Library
 4 Impulse
 3 Tropical Island
 4 Lotus Petal
@@ -88,8 +88,6 @@
 1 Jace, the Mind Sculptor
 1 Narset, Parter of Veils
 2 Volcanic Island
-1 Dark Ritual
-2 Dark Ritual
 1 Shark Typhoon
 2 Shark Typhoon
 2 Mystic Sanctuary

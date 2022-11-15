@@ -2,9 +2,9 @@
 3 Lotus Petal
 1 Ensnaring Bridge
 4 Great Furnace
+4 Red Elemental Blast
 1 Pithing Needle
 3 Grindstone
-4 Red Elemental Blast
 1 Lion's Eye Diamond
 1 Karn, the Great Creator
 2 Karn, the Great Creator
@@ -14,14 +14,13 @@
 1 Ethersworn Canonist
 2 Plateau
 1 Bloodstained Mire
-4 Lotus Petal
 1 Ichor Wellspring
 1 Plains
 3 Fury
+4 Lotus Petal
 1 Wooded Foothills
 2 Wooded Foothills
 2 Bloodstained Mire
-2 Mox Opal
 1 Arid Mesa
 1 Oswald Fiddlebender
 1 Ancient Den
@@ -29,10 +28,9 @@
 2 Oswald Fiddlebender
 3 Oswald Fiddlebender
 1 Enlightened Tutor
+2 Mox Opal
 1 Portable Hole
 1 Retrofitter Foundry
-3 Mox Opal
-4 Mox Opal
 1 Imperial Recruiter
 1 Goblin Cratermaker
 1 Brainstone
@@ -45,53 +43,55 @@
 3 Arid Mesa
 3 Experimental Synthesizer
 3 Portable Hole
+3 Mox Opal
 4 Arid Mesa
+4 Mox Opal
 4 Experimental Synthesizer
-1 Island
-1 Emry, Lurker of the Loch
-1 Aether Spellbomb
-1 Mishra's Bauble
-2 Emry, Lurker of the Loch
-2 Mishra's Bauble
-3 Mishra's Bauble
-3 Emry, Lurker of the Loch
-4 Mishra's Bauble
-4 Emry, Lurker of the Loch
 1 Tundra
 1 Defense Grid
 1 Esper Sentinel
-1 Hydroblast
 1 Mother of Runes
 1 Prismatic Ending
+1 Hydroblast
 1 Brainstorm
+1 Island
+1 Emry, Lurker of the Loch
 1 Flooded Strand
 1 Polluted Delta
+1 Aether Spellbomb
+1 Mishra's Bauble
 2 Polluted Delta
 2 Flooded Strand
 2 Esper Sentinel
 2 Hydroblast
+2 Emry, Lurker of the Loch
 2 Enlightened Tutor
 2 Brainstorm
 2 Tundra
+2 Mishra's Bauble
+3 Mishra's Bauble
 3 Tundra
 3 Flooded Strand
 3 Polluted Delta
 3 Esper Sentinel
 3 Hydroblast
 3 Brainstorm
+3 Emry, Lurker of the Loch
 4 Polluted Delta
 4 Tundra
 4 Flooded Strand
+4 Mishra's Bauble
 4 Esper Sentinel
+4 Emry, Lurker of the Loch
 4 Brainstorm
 1 Scalding Tarn
 1 Wasteland
+1 Unlicensed Hearse
 1 Hex Parasite
 1 Sundering Titan
 1 Crucible of Worlds
 1 Blood Moon
 1 Lion Sash
-1 Unlicensed Hearse
 1 Swift Reconfiguration
 2 Wasteland
 2 Ethersworn Canonist
@@ -102,8 +102,8 @@
 2 Plains
 3 Wasteland
 3 Plains
-3 Ethersworn Canonist
 3 Blood Moon
+3 Ethersworn Canonist
 4 Wasteland
 1 Lightning Greaves
 2 Soul-Guide Lantern
@@ -132,29 +132,4 @@
 2 March of Reckless Joy
 3 March of Reckless Joy
 4 March of Reckless Joy
-1 Minamo, School at Water's Edge
-1 Otawara, Soaring City
-1 Metallic Rebuke
-1 Force of Will
-1 Urza's Bauble
-1 Thoughtcast
-1 Thought Monitor
-1 Seat of the Synod
-2 Metallic Rebuke
-2 Otawara, Soaring City
-2 Force of Will
-2 Urza's Bauble
-2 Seat of the Synod
-2 Thought Monitor
-2 Thoughtcast
-3 Force of Will
-3 Metallic Rebuke
-3 Thoughtcast
-3 Thought Monitor
-3 Urza's Bauble
-3 Seat of the Synod
-4 Thoughtcast
-4 Force of Will
-4 Grindstone
-4 Seat of the Synod
 4 Hydroblast
