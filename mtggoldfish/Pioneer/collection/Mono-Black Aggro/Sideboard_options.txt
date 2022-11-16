@@ -1,11 +1,11 @@
 1 Heartless Act
 4 Go Blank
+1 Power Word Kill
+2 Power Word Kill
 1 Unlicensed Hearse
 2 Unlicensed Hearse
 3 Duress
 1 Lifebane Zombie
-1 Power Word Kill
-2 Power Word Kill
 1 Epic Downfall
 2 Lifebane Zombie
 1 Leyline of the Void
@@ -25,7 +25,6 @@
 1 Pithing Needle
 2 Aethersphere Harvester
 3 Legion's End
-3 Noxious Grasp
 1 Liliana of the Veil
 2 Liliana of the Veil
 1 Cut Down
@@ -33,13 +32,14 @@
 1 Gonti, Lord of Luxury
 1 Fatal Push
 2 Sorin the Mirthless
-1 Sheoldred, the Apocalypse
-2 Sheoldred, the Apocalypse
 1 Graveyard Trespasser
 2 Graveyard Trespasser
 1 Extinction Event
 2 Extinction Event
 2 Pithing Needle
+1 Sheoldred, the Apocalypse
+2 Sheoldred, the Apocalypse
+3 Noxious Grasp
 1 Ray of Enfeeblement
 2 Ray of Enfeeblement
 3 Ray of Enfeeblement
@@ -60,4 +60,3 @@
 3 Cut Down
 4 Cut Down
 4 Epic Downfall
-4 Noxious Grasp
