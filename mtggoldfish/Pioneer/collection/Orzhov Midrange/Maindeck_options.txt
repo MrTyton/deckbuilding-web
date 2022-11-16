@@ -1,9 +1,11 @@
+2 Concealed Courtyard
+3 Liliana of the Veil
+1 The Celestus
 1 March of Wretched Sorrow
-1 Cave of the Frost Dragon
 3 The Wandering Emperor
-1 Tenacious Underdog
-2 Tenacious Underdog
 3 Concealed Courtyard
+1 Serra Paragon
+2 Serra Paragon
 1 Lion Sash
 2 Lion Sash
 1 Castle Ardenvale
@@ -14,28 +16,28 @@
 2 Luminarch Aspirant
 3 Luminarch Aspirant
 4 Luminarch Aspirant
-1 Serra Paragon
-2 Serra Paragon
+1 Wedding Announcement
+2 Wedding Announcement
+1 Sheoldred, the Apocalypse
+2 Sheoldred, the Apocalypse
 4 Vanishing Verse
 4 Liliana of the Veil
 4 The Wandering Emperor
-3 Plains
 1 Obzedat, Ghost Council
 2 Obzedat, Ghost Council
 1 Phyrexian Missionary
-1 Wedding Announcement
 2 Phyrexian Missionary
-2 Wedding Announcement
 3 Phyrexian Missionary
+3 Wedding Announcement
 1 Kalitas, Traitor of Ghet
 2 Kalitas, Traitor of Ghet
-1 Sheoldred, the Apocalypse
-2 Sheoldred, the Apocalypse
+3 Plains
 3 Hive of the Eye Tyrant
 1 Unlicensed Hearse
 1 Duress
 1 Field of Ruin
 2 Field of Ruin
+1 Caves of Koilos
 4 Plains
 1 Tainted Adversary
 1 Lolth, Spider Queen
@@ -47,7 +49,6 @@
 1 Benalish Sleeper
 2 Shambling Vent
 2 Benalish Sleeper
-3 Wedding Announcement
 3 Benalish Sleeper
 3 Reidane, God of the Worthy
 1 Raffine's Informant
@@ -55,7 +56,6 @@
 1 Stitcher's Supplier
 1 Skysovereign, Consul Flagship
 1 Parhelion II
-1 Caves of Koilos
 1 Greasefang, Okiba Boss
 2 Raffine's Informant
 2 Guardian of New Benalia
@@ -72,9 +72,9 @@
 4 Stitcher's Supplier
 4 Parhelion II
 4 Greasefang, Okiba Boss
+1 Gifted Aetherborn
 1 Archangel Avacyn
 1 Ayli, Eternal Pilgrim
-1 Gifted Aetherborn
 2 Gifted Aetherborn
 2 Archangel Avacyn
 3 Gifted Aetherborn
@@ -82,12 +82,15 @@
 4 Gifted Aetherborn
 1 Oath of Kaya
 3 Archon of Emeria
+1 Spirited Companion
+2 Spirited Companion
+3 Spirited Companion
+4 Spirited Companion
 3 Tenacious Underdog
 4 Tenacious Underdog
 4 Concealed Courtyard
 1 Adeline, Resplendent Cathar
 2 Adeline, Resplendent Cathar
-1 Spirited Companion
 1 Charming Prince
 1 Trial of Ambition
 1 Treacherous Blessing
@@ -98,7 +101,6 @@
 1 Yorion, Sky Nomad
 1 Omen of the Sun
 1 Indatha Triome
-2 Spirited Companion
 2 Charming Prince
 2 Indatha Triome
 2 Treacherous Blessing
@@ -112,10 +114,8 @@
 3 Fabled Passage
 3 Oath of Kaya
 3 Trial of Ambition
-3 Spirited Companion
 3 Charming Prince
 3 Treacherous Blessing
-4 Spirited Companion
 4 Trial of Ambition
 1 Liliana, the Last Hope
 1 Containment Priest
@@ -133,12 +133,17 @@
 4 Field of Ruin
 4 Archon of Emeria
 1 Skyclave Apparition
-1 Thraben Inspector
 1 Dire Tactics
+1 Thraben Inspector
 2 Skyclave Apparition
 2 Thraben Inspector
 2 Dire Tactics
 4 Phyrexian Missionary
+1 The Meathook Massacre
+1 Edgar, Charmed Groom
+1 Fateful Absence
+2 The Meathook Massacre
+4 Wedding Announcement
 1 Silverquill Silencer
 1 Kitesail Freebooter
 1 Glint-Sleeve Siphoner

@@ -1,34 +1,38 @@
+2 Wrenn and Six
 1 Castle Vantress
-4 Fury
-3 Wrenn and Six
-4 Misty Rainforest
-1 Stomping Ground
 2 Plains
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
+3 Wrenn and Six
+4 Misty Rainforest
 3 Windswept Heath
+1 Stomping Ground
+3 Fable of the Mirror-Breaker
 1 Forest
 3 Ephemerate
-3 Fable of the Mirror-Breaker
+4 Fable of the Mirror-Breaker
+4 Windswept Heath
 1 Omnath, Locus of Creation
 2 Omnath, Locus of Creation
-4 Windswept Heath
 1 Wooded Foothills
 1 Oath of Nissa
 3 Omnath, Locus of Creation
 4 Omnath, Locus of Creation
-4 Fable of the Mirror-Breaker
+1 Prismatic Vista
 1 Blood Moon
 2 Blood Moon
 2 Oath of Nissa
 1 Arid Mesa
-1 Prismatic Vista
 2 Prismatic Vista
 3 Blood Moon
 1 Endurance
 4 Wrenn and Six
-1 Kiki-Jiki, Mirror Breaker
+1 Leyline Binding
+2 Leyline Binding
 1 Fire/Ice
+1 Kiki-Jiki, Mirror Breaker
+1 Lightning Bolt
+2 Lightning Bolt
 2 Arid Mesa
 3 Oath of Nissa
 1 Ketria Triome
@@ -37,8 +41,6 @@
 2 Vivien on the Hunt
 1 Spara's Headquarters
 4 Oath of Nissa
-1 Leyline Binding
-2 Leyline Binding
 1 Snow-Covered Forest
 1 Snow-Covered Plains
 1 Utopia Sprawl
@@ -53,8 +55,6 @@
 2 Wooded Foothills
 3 Wooded Foothills
 4 Wooded Foothills
-1 Lightning Bolt
-2 Lightning Bolt
 2 Fire/Ice
 1 Counterspell
 2 Counterspell
@@ -62,6 +62,8 @@
 2 Forest
 1 Snow-Covered Island
 2 Eladamri's Call
+3 Leyline Binding
+4 Leyline Binding
 3 Planebound Accomplice
 1 Silence
 2 Silence
@@ -75,6 +77,7 @@
 2 March of Otherworldly Light
 3 Arid Mesa
 3 Eladamri's Call
+4 Scalding Tarn
 3 Lightning Bolt
 1 Jetmir's Garden
 4 Planebound Accomplice
@@ -82,27 +85,25 @@
 2 Arbor Elf
 3 Arbor Elf
 1 Indatha Triome
-3 Leyline Binding
-4 Leyline Binding
 1 Nahiri, the Harbinger
 1 Ashiok, Dream Render
 2 Ashiok, Dream Render
 2 Breeding Pool
 3 Counterspell
+2 Sacred Foundry
 1 Sulfur Falls
 1 Snapcaster Mage
 1 Serum Visions
 1 Spreading Seas
 2 Snapcaster Mage
-2 Spreading Seas
 2 Serum Visions
+2 Spreading Seas
 3 Serum Visions
 4 Serum Visions
-4 Scalding Tarn
 1 Snow-Covered Mountain
-2 Eternal Witness
 1 Wall of Omens
 2 Wall of Omens
+2 Eternal Witness
 4 Arbor Elf
 1 Arlinn, the Pack's Hope
 2 Stomping Ground
@@ -119,7 +120,6 @@
 1 Remand
 2 Remand
 1 Subtlety
-2 Sacred Foundry
 4 Ephemerate
 1 Imperial Recruiter
 2 Imperial Recruiter
@@ -149,8 +149,8 @@
 3 Silence
 4 Eladamri's Call
 4 Silence
-1 The Wandering Emperor
 1 Faithful Mending
+1 The Wandering Emperor
 1 Field of Ruin
 1 Memory Deluge
 1 Force of Negation
@@ -163,6 +163,7 @@
 4 Chalice of the Void
 1 Savai Triome
 1 Valakut Awakening
+1 Zagoth Triome
 1 Sunbaked Canyon
 1 Fiery Islet
 1 Touch the Spirit Realm

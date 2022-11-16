@@ -1,27 +1,21 @@
-2 Swamp
+1 Takenuma, Abandoned Mire
 1 Verdant Catacombs
 2 Verdant Catacombs
-1 Marsh Flats
-2 Marsh Flats
-3 Marsh Flats
 2 Kroxa, Titan of Death's Hunger
-1 Ob Nixilis, the Adversary
 1 Wooded Foothills
 1 Stomping Ground
 1 Grist, the Hunger Tide
 1 Overgrown Tomb
 2 Grist, the Hunger Tide
 3 Grist, the Hunger Tide
-1 Squee, Dubious Monarch
-1 Sacred Foundry
-4 Marsh Flats
+1 Ob Nixilis, the Adversary
 2 Ob Nixilis, the Adversary
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
 1 Lightning Bolt
 2 Lightning Bolt
 3 Blackcleave Cliffs
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
 1 Castle Locthwain
 1 Mishra's Bauble
 1 Springleaf Drum
@@ -45,17 +39,20 @@
 4 Cauldron Familiar
 4 Witch's Oven
 4 Ravenous Squirrel
-1 Unearth
-2 Unearth
+1 Marsh Flats
+2 Marsh Flats
+3 Marsh Flats
+1 Squee, Dubious Monarch
+1 Sacred Foundry
+4 Marsh Flats
 1 Terminate
 1 Wrenn and Six
 2 Terminate
-3 Verdant Catacombs
 1 Undying Malice
-1 Urborg, Tomb of Yawgmoth
-3 Unearth
+3 Verdant Catacombs
+1 Unearth
+2 Unearth
 4 Grist, the Hunger Tide
-3 Den of the Bugbear
 2 Undying Malice
 3 Undying Malice
 1 Feign Death
@@ -71,7 +68,8 @@
 3 Ignoble Hierarch
 4 Collected Company
 1 Ziatora's Proving Ground
-3 Ob Nixilis, the Adversary
+3 Unearth
+1 Urborg, Tomb of Yawgmoth
 1 Blood Artist
 3 Swamp
 1 Gravecrawler
@@ -84,9 +82,7 @@
 3 Gravecrawler
 4 Undead Augur
 1 Kolaghan's Command
-3 Graven Cairns
-4 Thoughtseize
-4 Ob Nixilis, the Adversary
+3 Den of the Bugbear
 1 Forest
 4 Ignoble Hierarch
 1 Dauthi Voidwalker
@@ -94,9 +90,10 @@
 1 Nurturing Peatland
 3 Wooded Foothills
 1 Hive of the Eye Tyrant
-4 Unearth
 2 Blood Artist
 3 Lightning Bolt
+3 Ob Nixilis, the Adversary
+4 Unearth
 3 Dreadhorde Butcher
 1 Polluted Delta
 1 Godless Shrine
@@ -105,7 +102,6 @@
 3 Carrion Feeder
 4 Gravecrawler
 4 Carrion Feeder
-1 Tenacious Underdog
 1 Klothys, God of Destiny
 2 Overgrown Tomb
 2 Mountain
@@ -141,6 +137,9 @@
 3 Geralf's Messenger
 3 Aether Vial
 4 Geralf's Messenger
+3 Graven Cairns
+4 Thoughtseize
+4 Ob Nixilis, the Adversary
 1 Savai Triome
 1 Fatal Push
 1 Champion of the Perished

@@ -1,47 +1,37 @@
-2 Esper Sentinel
-3 Esper Sentinel
-4 Esper Sentinel
+1 Gingerbrute
+1 Razortide Bridge
+1 Pithing Needle
+2 Nettlecyst
 1 Metallic Rebuke
 2 Metallic Rebuke
-4 Mistvault Bridge
-2 Nettlecyst
-2 Razortide Bridge
-3 Razortide Bridge
+1 Portable Hole
+1 Esper Sentinel
 2 Portable Hole
+2 Esper Sentinel
+3 Esper Sentinel
 3 Portable Hole
+4 Esper Sentinel
 4 Portable Hole
-1 Patchwork Automaton
-2 Patchwork Automaton
+4 Patchwork Automaton
 3 Metallic Rebuke
 1 Hallowed Fountain
-1 Pithing Needle
-4 Razortide Bridge
-2 Silverbluff Bridge
-1 Seachrome Coast
-2 Hallowed Fountain
-2 Seachrome Coast
-3 Seachrome Coast
 1 Ingenious Smith
 1 Plains
 2 Ingenious Smith
 3 Ingenious Smith
 4 Ingenious Smith
-1 Myr Enforcer
-2 Relic of Progenitus
-2 Otawara, Soaring City
-3 Patchwork Automaton
+2 Silverbluff Bridge
 3 Treasure Vault
-1 Urza, Lord High Artificer
-2 Urza, Lord High Artificer
-3 Hallowed Fountain
-3 Urza, Lord High Artificer
+2 Razortide Bridge
+3 Razortide Bridge
+1 Seachrome Coast
+2 Hallowed Fountain
+2 Seachrome Coast
+3 Seachrome Coast
 2 Island
-2 Myr Enforcer
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-4 Patchwork Automaton
-1 Flooded Strand
-2 Flooded Strand
+1 Myr Enforcer
+2 Otawara, Soaring City
+2 Relic of Progenitus
 1 Dispatch
 2 Plains
 1 Lightning Greaves
@@ -68,11 +58,22 @@
 7 Plains
 8 Plains
 9 Plains
-4 Seachrome Coast
-1 Inkmoth Nexus
+1 Urza, Lord High Artificer
+2 Urza, Lord High Artificer
+3 Hallowed Fountain
+3 Urza, Lord High Artificer
+4 Razortide Bridge
+2 Myr Enforcer
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
 3 Power Conduit
 10 Plains
-1 Adarkar Wastes
+1 Flooded Strand
+2 Flooded Strand
+4 Seachrome Coast
+1 Inkmoth Nexus
+4 Power Conduit
+11 Plains
 3 Flooded Strand
 1 Chalice of the Void
 1 Snow-Covered Island
@@ -92,13 +93,16 @@
 2 Paradise Mantle
 1 Emry, Lurker of the Loch
 2 Emry, Lurker of the Loch
+1 Blacksmith's Skill
+1 Watery Grave
+1 Cliffhaven Kitesail
 1 Ghost Quarter
 1 Cavern of Souls
 1 Expedition Map
 1 Hall of Heliod's Generosity
 1 Cave of the Frost Dragon
-1 Inventors' Fair
-2 Adarkar Wastes
+1 Eiganjo Castle
+1 Underground River
 1 Meria, Scholar of Antiquity
 1 Tanglepool Bridge
 2 Meria, Scholar of Antiquity
@@ -136,8 +140,6 @@
 4 Underworld Breach
 4 Silverbluff Bridge
 4 Emry, Lurker of the Loch
-1 Eiganjo Castle
-4 Power Conduit
 1 Waterlogged Grove
 1 Mystic Forge
 2 Mystic Forge
@@ -150,9 +152,8 @@
 4 Nettlecyst
 4 Metallic Rebuke
 1 Ethersworn Sphinx
+1 Adarkar Wastes
 2 Ethersworn Sphinx
 3 Ethersworn Sphinx
 4 Hallowed Fountain
 4 Ethersworn Sphinx
-1 Blacksmith's Skill
-11 Plains
