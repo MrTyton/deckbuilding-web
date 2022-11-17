@@ -31,16 +31,16 @@
 1 Blood Sun
 1 Lotus Field
 1 Valakut Awakening
+2 Fury
 2 Flagstones of Trokair
 2 Cryptic Command
 2 Blood Sun
 2 Lotus Field
-2 Fury
 2 Valakut Awakening
 3 Flagstones of Trokair
+3 Fury
 3 Teferi, Hero of Dominaria
 3 Lotus Field
-3 Fury
 3 Cryptic Command
 3 Blood Sun
 4 Flagstones of Trokair
@@ -98,12 +98,12 @@
 3 Force of Negation
 1 Vendilion Clique
 2 Vendilion Clique
-1 Lightning Bolt
 1 Ragavan, Nimble Pilferer
+1 Lightning Bolt
 1 Geist of Saint Traft
-2 Lightning Bolt
-2 Ragavan, Nimble Pilferer
 2 Geist of Saint Traft
+2 Ragavan, Nimble Pilferer
+2 Lightning Bolt
 3 Lightning Bolt
 3 Geist of Saint Traft
 3 Ragavan, Nimble Pilferer
@@ -113,12 +113,12 @@
 1 Marsh Flats
 1 Surgical Extraction
 1 Karn's Sylex
-1 Ephemerate
 1 Tale's End
 1 Sea Gate Restoration
+1 Ephemerate
 1 Inspiring Vantage
-2 Ephemerate
 2 Tale's End
+2 Ephemerate
 1 Glacial Fortress
 1 Xander's Lounge
 1 Nexus of Fate
@@ -131,20 +131,20 @@
 2 Ajani Vengeant
 2 Deserted Beach
 3 Plains
-1 Prairie Stream
-1 Brazen Borrower
-3 Celestial Colonnade
-3 Vendilion Clique
-4 March of Otherworldly Light
 1 Snow-Covered Island
 1 Snow-Covered Plains
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
+1 Prairie Stream
+1 Brazen Borrower
+3 Celestial Colonnade
+3 Vendilion Clique
+4 March of Otherworldly Light
 1 Eiganjo, Seat of the Empire
 4 Hallowed Fountain
-1 Path to Exile
 1 The Royal Scions
+1 Path to Exile
 2 Path to Exile
 2 The Royal Scions
 3 Lightning Helix
@@ -152,6 +152,19 @@
 1 Shadow of Doubt
 1 Think Twice
 4 Polluted Delta
+1 Maul of the Skyclaves
+1 Stoneforge Mystic
+1 Kaldra Compleat
+1 Batterskull
+2 Stoneforge Mystic
+3 Subtlety
+3 Seachrome Coast
+3 Stoneforge Mystic
+4 Seachrome Coast
+4 Stoneforge Mystic
+4 Force of Negation
+4 Spirebluff Canal
+4 Geist of Saint Traft
 1 Indatha Triome
 1 Dead/Gone
 2 Sacred Foundry
@@ -162,16 +175,3 @@
 3 Indatha Triome
 4 Steam Vents
 4 Sacred Foundry
-1 Maul of the Skyclaves
-1 Batterskull
-1 Stoneforge Mystic
-1 Kaldra Compleat
-2 Stoneforge Mystic
-3 Subtlety
-3 Seachrome Coast
-3 Stoneforge Mystic
-4 Seachrome Coast
-4 Force of Negation
-4 Spirebluff Canal
-4 Geist of Saint Traft
-4 Stoneforge Mystic
