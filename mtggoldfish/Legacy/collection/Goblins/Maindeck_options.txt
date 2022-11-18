@@ -20,8 +20,8 @@
 1 Food Chain
 2 Food Chain
 3 Food Chain
-4 Wooded Foothills
 4 Ignoble Hierarch
+4 Wooded Foothills
 4 Food Chain
 1 Kiki-Jiki, Mirror Breaker
 1 Conspicuous Snoop
@@ -92,27 +92,27 @@
 1 Volcanic Island
 1 Sword of the Meek
 1 Sundering Titan
-2 Goblin Engineer
 2 Ensnaring Bridge
 2 Thopter Foundry
 2 Plateau
 2 Goblin Welder
 2 Great Furnace
+2 Goblin Engineer
 2 Esper Sentinel
 2 Volcanic Island
-3 Esper Sentinel
-3 Goblin Engineer
 3 Ensnaring Bridge
+3 Esper Sentinel
 3 Plateau
 3 Volcanic Island
 3 Great Furnace
 3 Twinshot Sniper
 3 Thopter Foundry
 3 Goblin Welder
-4 Esper Sentinel
+3 Goblin Engineer
 4 Goblin Engineer
 4 Twinshot Sniper
 4 Goblin Welder
+4 Esper Sentinel
 4 Thopter Foundry
 1 Blood Crypt
 1 Snow-Covered Forest
@@ -122,10 +122,10 @@
 2 Goblin Cratermaker
 1 Pyrokinesis
 1 Squee, the Immortal
-1 Nurturing Peatland
-1 Pendelhaven
 1 Warren Weirding
 1 Legion Warboss
+1 Nurturing Peatland
+1 Pendelhaven
 2 Legion Warboss
 2 Stingscourger
 2 Goblin Chainwhirler
@@ -147,8 +147,8 @@
 1 City of Traitors
 2 Shatterskull Smashing
 2 ________ Goblin
-3 Shatterskull Smashing
 3 ________ Goblin
+3 Shatterskull Smashing
 4 Skirk Prospector
 4 ________ Goblin
 4 Ancient Tomb

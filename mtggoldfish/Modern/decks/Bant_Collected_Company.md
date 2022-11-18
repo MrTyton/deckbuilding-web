@@ -63,8 +63,8 @@
 |                     |                                                                                               |                    1|[Test of Talents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513536)            |
 |                     |                                                                                               |                    2|[Test of Talents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513536)            |
 |                     |                                                                                               |                    3|[Test of Talents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513536)            |
-|                     |                                                                                               |                    1|[Spell Queller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414494)              |
 |                     |                                                                                               |                    1|[Reflector Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407667)             |
+|                     |                                                                                               |                    1|[Spell Queller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414494)              |
 |                     |                                                                                               |                    2|[Spell Queller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414494)              |
 |                     |                                                                                               |                    2|[Reflector Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407667)             |
 

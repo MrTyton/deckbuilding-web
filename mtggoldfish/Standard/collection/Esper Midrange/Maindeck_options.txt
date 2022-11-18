@@ -9,7 +9,6 @@
 1 Adeline, Resplendent Cathar
 2 Adeline, Resplendent Cathar
 3 Ao, the Dawn Sky
-4 Adarkar Wastes
 4 Plaza of Heroes
 1 Thalia, Guardian of Thraben
 2 Eiganjo, Seat of the Empire
@@ -18,25 +17,25 @@
 4 Thalia, Guardian of Thraben
 1 Jadar, Ghoulcaller of Nephalia
 1 Toluz, Clever Conductor
-2 Jadar, Ghoulcaller of Nephalia
 2 Toluz, Clever Conductor
 3 Adeline, Resplendent Cathar
 3 Otawara, Soaring City
-3 Jadar, Ghoulcaller of Nephalia
 3 Eiganjo, Seat of the Empire
 3 Toluz, Clever Conductor
 4 Adeline, Resplendent Cathar
 1 Obscura Interceptor
 2 Obscura Interceptor
-3 Obscura Interceptor
+4 Adarkar Wastes
 4 Make Disappear
-1 Malevolent Hermit
+2 Jadar, Ghoulcaller of Nephalia
+3 Jadar, Ghoulcaller of Nephalia
+4 Eiganjo, Seat of the Empire
+3 Obscura Interceptor
 3 Destroy Evil
 1 Reckoner Bankbuster
 1 Anointed Peacekeeper
 1 Underground River
-2 Malevolent Hermit
-4 Eiganjo, Seat of the Empire
+1 Malevolent Hermit
 3 Deserted Beach
 1 Spectral Adversary
 1 Spell Pierce
@@ -44,8 +43,8 @@
 1 Go for the Throat
 2 Go for the Throat
 1 Swamp
+2 Malevolent Hermit
 4 Tenacious Underdog
-1 Cathar Commando
 4 Destroy Evil
 2 Spectral Adversary
 3 Spectral Adversary
@@ -54,8 +53,8 @@
 1 Ratadrabik of Urborg
 2 Spell Pierce
 1 Graveyard Trespasser
-2 Reckoner Bankbuster
 2 Kaito Shizuki
+2 Reckoner Bankbuster
 1 Teferi, Temporal Pilgrim
 2 Underground River
 1 Rona's Vortex
@@ -63,6 +62,9 @@
 1 Duress
 1 Phyrexian Missionary
 2 Phyrexian Missionary
+1 The Raven Man
+1 Harbin, Vanguard Aviator
+2 Harbin, Vanguard Aviator
 3 Ertai Resurrected
 1 Edgar, Charmed Groom
 1 Rite of Oblivion
@@ -88,6 +90,7 @@
 2 Gix, Yawgmoth Praetor
 3 Ratadrabik of Urborg
 4 Ratadrabik of Urborg
+1 Cathar Commando
 2 Cathar Commando
 3 Reckoner Bankbuster
 4 Spectral Adversary

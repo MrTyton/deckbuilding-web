@@ -4,10 +4,10 @@
 1 Stormcarved Coast
 2 Stormcarved Coast
 4 Steam Vents
-1 Hall of Storm Giants
 1 Quakebringer
 1 Battle of Frost and Fire
 1 Riverglide Pathway
+1 Hall of Storm Giants
 1 Bonecrusher Giant
 1 Glimpse the Cosmos
 1 Tectonic Giant
@@ -41,24 +41,24 @@
 3 Glacial Fortress
 3 Seasoned Pyromancer
 4 Sacred Foundry
-1 Deserted Beach
 1 Make Disappear
 1 The Wandering Emperor
 1 Fable of the Mirror-Breaker
-1 Archmage's Charm
 1 Supreme Verdict
+1 Archmage's Charm
+1 Deserted Beach
 1 Oracle of the Alpha
 1 Eiganjo, Seat of the Empire
 1 Saiba Syphoner
 1 Fragment Reality
 1 March of Otherworldly Light
-2 Deserted Beach
 2 Make Disappear
-2 Fable of the Mirror-Breaker
 2 The Wandering Emperor
-2 Saiba Syphoner
-2 Oracle of the Alpha
+2 Fable of the Mirror-Breaker
 2 Fragment Reality
+2 Saiba Syphoner
+2 Deserted Beach
+2 Oracle of the Alpha
 2 Archmage's Charm
 2 March of Otherworldly Light
 3 Fable of the Mirror-Breaker
@@ -88,8 +88,8 @@
 4 Rimewall Protector
 1 Lightning Strike
 1 Sweltering Suns
-1 The Royal Scions
 1 Temple of Epiphany
+1 The Royal Scions
 1 Invasion of the Giants
 1 Giant's Amulet
 1 Crystalline Giant
@@ -98,10 +98,10 @@
 1 Shadowspear
 1 Saheeli Rai
 1 Basalt Ravager
+2 Temple of Epiphany
 2 Crystalline Giant
 2 Quakebringer
 2 Mountain
-2 Temple of Epiphany
 3 Quakebringer
 3 Stormcarved Coast
 3 Crystalline Giant

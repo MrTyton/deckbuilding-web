@@ -38,7 +38,7 @@
 |                    3|[Overgrown Farmland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535064)|                    1|[Garruk's Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485508) |
 |                    4|[Botanical Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417817) |                    2|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|
 |                     |                                                                                             |                    2|[Garruk's Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485508) |
-|                     |                                                                                             |                    3|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362) |
 |                     |                                                                                             |                    3|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)  |
+|                     |                                                                                             |                    3|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362) |
 |                     |                                                                                             |                    4|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362) |
 
