@@ -1,42 +1,58 @@
-11 Plains
+1 Emeria's Call
+1 Cave of the Frost Dragon
+4 Skyclave Apparition
+2 Extraction Specialist
+4 Field of Ruin
+1 Castle Ardenvale
+9 Plains
+10 Plains
+1 Anointed Peacekeeper
+4 Ephemerate
+1 Path to Exile
+2 Emeria's Call
+2 Anointed Peacekeeper
+4 Archon of Emeria
+3 Eiganjo, Seat of the Empire
+1 Horizon Canopy
+2 Path to Exile
+3 Anointed Peacekeeper
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
+3 Emeria's Call
+4 Emeria's Call
 1 Charming Prince
 3 Path to Exile
-1 Tectonic Edge
-2 Tectonic Edge
 4 Snow-Covered Plains
+11 Plains
 2 Castle Ardenvale
 1 Mishra's Factory
 4 Anointed Peacekeeper
-1 Blast Zone
-2 Blast Zone
+1 Branchloft Pathway
+2 Branchloft Pathway
+3 Branchloft Pathway
+4 Branchloft Pathway
 1 Temple Garden
 2 Temple Garden
 1 Oath of Nissa
 1 Brushland
-1 Branchloft Pathway
 1 Razorverge Thicket
 1 Noble Hierarch
 1 Boseiju, Who Endures
 2 Oath of Nissa
-2 Branchloft Pathway
 2 Brushland
 2 Razorverge Thicket
 2 Noble Hierarch
 2 Boseiju, Who Endures
 3 Boseiju, Who Endures
 3 Brushland
-3 Branchloft Pathway
+3 Razorverge Thicket
 3 Oath of Nissa
 3 Noble Hierarch
-3 Razorverge Thicket
 4 Brushland
-4 Boseiju, Who Endures
 4 Razorverge Thicket
+4 Boseiju, Who Endures
 4 Noble Hierarch
-4 Branchloft Pathway
 4 Oath of Nissa
 5 Snow-Covered Plains
 6 Snow-Covered Plains
@@ -44,33 +60,35 @@
 8 Snow-Covered Plains
 9 Snow-Covered Plains
 1 Sunbaked Canyon
+1 Blast Zone
+2 Blast Zone
 4 Path to Exile
-1 Spellskite
+1 Tectonic Edge
+2 Tectonic Edge
 1 Sacred Foundry
 1 March of Otherworldly Light
 2 Charming Prince
 1 Imperial Recruiter
 2 Imperial Recruiter
-10 Snow-Covered Plains
 1 Arid Mesa
 2 Arid Mesa
+10 Snow-Covered Plains
 1 Shadowspear
-1 Esper Sentinel
-2 Esper Sentinel
+3 Blast Zone
 1 Magus of the Moon
 2 Sacred Foundry
-1 Prismatic Ending
-2 Prismatic Ending
 1 Inspiring Vantage
 2 Inspiring Vantage
-2 Spellskite
-3 Prismatic Ending
+1 Prismatic Ending
+2 Prismatic Ending
+1 Esper Sentinel
+2 Esper Sentinel
+1 Sword of Light and Shadow
 3 Arid Mesa
 3 Inspiring Vantage
+3 Prismatic Ending
 1 Serra Paragon
 2 Serra Paragon
-12 Plains
-13 Plains
 2 Sunbaked Canyon
 1 Silent Clearing
 2 Silent Clearing
@@ -79,13 +97,15 @@
 3 Charming Prince
 11 Snow-Covered Plains
 3 Sacred Foundry
+4 Eiganjo, Seat of the Empire
+4 Blast Zone
+1 Spellskite
 3 Esper Sentinel
-3 Blast Zone
-1 Sword of Light and Shadow
 3 Imperial Recruiter
 4 Arid Mesa
 1 Marsh Flats
 2 Marsh Flats
+2 Horizon Canopy
 1 Hallowed Fountain
 1 Ranger-Captain of Eos
 1 Fable of the Mirror-Breaker
@@ -104,6 +124,7 @@
 2 Flagstones of Trokair
 3 Flagstones of Trokair
 4 Flagstones of Trokair
+2 Spellskite
 2 March of Otherworldly Light
 3 Mishra's Factory
 3 Silent Clearing
@@ -120,29 +141,29 @@
 4 Charming Prince
 4 Imperial Recruiter
 4 Sunbaked Canyon
-4 Eiganjo, Seat of the Empire
-4 Blast Zone
 1 Needleverge Pathway
 2 Needleverge Pathway
 3 Needleverge Pathway
 4 Needleverge Pathway
 1 Mishra's Bauble
 1 Phyrexian Revoker
-2 Mishra's Bauble
 2 Phyrexian Revoker
+2 Mishra's Bauble
 3 Mishra's Bauble
 3 Serra Paragon
 3 Phyrexian Revoker
 4 Mishra's Bauble
 4 Serra Paragon
+12 Plains
+13 Plains
 14 Plains
 15 Plains
 16 Plains
 2 Magus of the Moon
 1 Fury
 1 Fiery Islet
-1 Snow-Covered Mountain
 1 Sword of Feast and Famine
+1 Snow-Covered Mountain
 1 Battlefield Forge
 1 Meddling Mage
 1 Flooded Strand
@@ -158,18 +179,17 @@
 2 Scalding Tarn
 2 Flooded Strand
 3 Scalding Tarn
-3 Fervent Champion
 3 Ranger-Captain of Eos
+3 Fervent Champion
 4 Fervent Champion
 1 Pithing Needle
 1 Relic of Progenitus
 1 Giant Killer
 1 Mutavault
-2 Horizon Canopy
-1 Leonin Relic-Warder
 1 War Priest of Thune
-2 Leonin Relic-Warder
+1 Leonin Relic-Warder
 2 War Priest of Thune
+2 Leonin Relic-Warder
 1 Yavimaya, Cradle of Growth
 1 Titania, Protector of Argoth
 1 Eladamri's Call
@@ -230,3 +250,7 @@
 2 Urza's Factory
 3 Urza's Factory
 4 Urza's Factory
+1 Ambitious Farmhand
+2 Ambitious Farmhand
+3 Ambitious Farmhand
+4 Ambitious Farmhand

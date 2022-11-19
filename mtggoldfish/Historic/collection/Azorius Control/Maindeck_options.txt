@@ -39,8 +39,8 @@
 1 Absorb
 2 Absorb
 2 Censor
-1 Brazen Borrower
 1 Spell Pierce
+1 Brazen Borrower
 2 Spell Pierce
 4 Fateful Absence
 1 Cave of the Frost Dragon
@@ -57,22 +57,22 @@
 3 Saiba Syphoner
 1 Teferi, Who Slows the Sunset
 1 Cavalier of Gales
-1 Forsaken Crossroads
 1 Witness the Future
 1 Timely Reinforcements
 1 Grafdigger's Cage
+1 Forsaken Crossroads
 1 Gates of Istfell
 1 Signature Spells
 1 Key to the Archive
 1 Discover the Impossible
 1 Failure/Comply
 1 Revitalize
-2 Teferi, Who Slows the Sunset
 2 Forsaken Crossroads
 2 Grafdigger's Cage
 2 Revitalize
 2 Discover the Impossible
 2 Seek New Knowledge
+2 Teferi, Who Slows the Sunset
 2 Key to the Archive
 2 Gates of Istfell
 3 Teferi, Who Slows the Sunset
@@ -88,9 +88,13 @@
 2 Brazen Borrower
 1 Gideon of the Trials
 2 Eiganjo, Seat of the Empire
+1 Raugrin Triome
+2 Raugrin Triome
+2 Settle the Wreckage
+3 Raugrin Triome
+1 Doomskar
 1 Thirst for Meaning
 1 Ashiok's Erasure
-1 Doomskar
 1 Mana Tithe
 1 Borrowed Time
 2 Doomskar
@@ -99,27 +103,12 @@
 3 Doomskar
 3 Rest in Peace
 3 Wrath of God
-1 Raugrin Triome
-2 Settle the Wreckage
-2 Raugrin Triome
-3 Raugrin Triome
-1 Raffine's Tower
-4 Supreme Verdict
-2 Mystical Dispute
-4 Divine Purge
-2 Sphinx's Revelation
-2 Otawara, Soaring City
-4 Opt
-4 Dovin's Veto
-1 Lazotep Plating
-1 Mu Yanling, Sky Dancer
-1 Quench
-2 Mu Yanling, Sky Dancer
-4 Fragment Reality
 1 Hieroglyphic Illumination
 2 Hieroglyphic Illumination
 3 Farewell
 4 The Wandering Emperor
+1 Raffine's Tower
+4 Supreme Verdict
 1 Strict Proctor
 1 Discontinuity
 1 Stifle
@@ -131,11 +120,22 @@
 3 Strict Proctor
 3 Lotus Field
 4 Lotus Field
+2 Otawara, Soaring City
+2 Sphinx's Revelation
+4 Dovin's Veto
+4 Opt
+1 Lazotep Plating
+1 Mu Yanling, Sky Dancer
+1 Quench
+2 Mu Yanling, Sky Dancer
+4 Fragment Reality
+2 Mystical Dispute
+4 Divine Purge
 1 Tranquil Cove
-1 Sea Gate Restoration
 1 Silundi Vision
-1 Temple of Enlightenment
+1 Sea Gate Restoration
 1 Devious Cover-Up
+1 Temple of Enlightenment
 1 Frantic Inventory
 1 Ephemerate
 2 Tranquil Cove

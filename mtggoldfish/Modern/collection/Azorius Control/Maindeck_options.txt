@@ -1,16 +1,16 @@
-2 Plains
 1 Polluted Delta
-1 Shark Typhoon
+2 Plains
 2 Polluted Delta
+1 Shark Typhoon
 2 Dress Down
 1 Force of Negation
+1 Subtlety
 2 Shark Typhoon
 1 March of Otherworldly Light
 2 March of Otherworldly Light
 1 Glacial Fortress
 1 Steam Vents
 3 Scalding Tarn
-1 Subtlety
 2 Subtlety
 2 Hall of Storm Giants
 1 Narset, Parter of Veils
@@ -54,8 +54,8 @@
 3 Wall of Omens
 4 Wall of Omens
 1 Hall of Heliod's Generosity
-1 Cryptic Command
 1 Castle Ardenvale
+1 Cryptic Command
 1 Spreading Seas
 1 Snapcaster Mage
 1 Timeless Dragon
@@ -63,11 +63,13 @@
 3 Snapcaster Mage
 3 Chalice of the Void
 4 Fire/Ice
+3 Subtlety
+4 Misty Rainforest
 4 Hallowed Fountain
 1 Opt
 1 Restoration Angel
-1 Spell Queller
 1 Vendilion Clique
+1 Spell Queller
 2 Celestial Colonnade
 2 Opt
 2 Restoration Angel
@@ -76,8 +78,6 @@
 3 Celestial Colonnade
 3 Spell Queller
 4 Spell Queller
-3 Subtlety
-4 Misty Rainforest
 1 Snow-Covered Island
 1 Snow-Covered Plains
 2 Snow-Covered Plains
@@ -111,10 +111,10 @@
 3 Ranger-Captain of Eos
 3 Field of Ruin
 3 Thraben Inspector
+4 Field of Ruin
 4 Ranger-Captain of Eos
 4 Plains
 4 March of Otherworldly Light
-4 Field of Ruin
 4 Ephemerate
 4 Thraben Inspector
 5 Plains

@@ -3,16 +3,16 @@
 1 Sokenzan, Crucible of Defiance
 1 Karn, the Great Creator
 1 Bonecrusher Giant
-1 Unholy Heat
 1 Fable of the Mirror-Breaker
+1 Unholy Heat
 1 Seasoned Pyromancer
 1 Ghost Quarter
 2 Bonecrusher Giant
 2 Karn, the Great Creator
+2 Fable of the Mirror-Breaker
 2 Unholy Heat
 2 Seasoned Pyromancer
 2 The World Tree
-2 Fable of the Mirror-Breaker
 3 Seasoned Pyromancer
 3 Karn, the Great Creator
 3 Unholy Heat
@@ -27,20 +27,7 @@
 9 Mountain
 10 Mountain
 11 Mountain
-1 Grafdigger's Cage
-4 Relic of Progenitus
-1 Urabrask, Heretic Praetor
-1 Stomping Ground
-1 Cragcrown Pathway
-1 Klothys, God of Destiny
-2 Urabrask, Heretic Praetor
-2 Stomping Ground
-2 Klothys, God of Destiny
-3 Field of Ruin
-3 Fable of the Mirror-Breaker
-4 Seasoned Pyromancer
 1 Knight of the Ebon Legion
-1 The Meathook Massacre
 1 Swamp
 2 Knight of the Ebon Legion
 2 Swamp
@@ -62,6 +49,21 @@
 18 Swamp
 19 Swamp
 20 Swamp
+1 Grafdigger's Cage
+4 Relic of Progenitus
+1 Urabrask, Heretic Praetor
+1 Cragcrown Pathway
+1 Stomping Ground
+1 Klothys, God of Destiny
+2 Urabrask, Heretic Praetor
+2 Stomping Ground
+2 Klothys, God of Destiny
+3 Field of Ruin
+3 Fable of the Mirror-Breaker
+4 Seasoned Pyromancer
+1 Sap Vitality
+2 Sap Vitality
+1 The Meathook Massacre
 1 Henrika Domnathi
 1 Nighthawk Scavenger
 1 Voldaren Bloodcaster
@@ -74,11 +76,10 @@
 1 Whack
 1 Deadly Dispute
 1 Divest
-1 Fake Your Own Death
-1 Bloodbond Vampire
-1 Sap Vitality
 1 The Haunt of Hightower
 1 Vampire of the Dire Moon
+1 Fake Your Own Death
+1 Bloodbond Vampire
 2 Nighthawk Scavenger
 2 Voldaren Bloodcaster
 2 Henrika Domnathi
@@ -86,11 +87,10 @@
 2 Hero's Downfall
 2 Blood Fountain
 2 Whack
-2 Duress
 2 Deadly Dispute
+2 Duress
 2 Divest
 2 Vampire of the Dire Moon
-2 Sap Vitality
 2 Check for Traps
 2 Evelyn, the Covetous
 2 Fake Your Own Death
@@ -99,6 +99,42 @@
 3 Voldaren Bloodcaster
 3 Check for Traps
 4 Voldaren Bloodcaster
+1 Hive of the Eye Tyrant
+3 Knight of the Ebon Legion
+4 Knight of the Ebon Legion
+1 Inquisition of Kozilek
+1 Thoughtseize
+1 Castle Locthwain
+2 Inquisition of Kozilek
+2 Thoughtseize
+2 Hive of the Eye Tyrant
+3 Thoughtseize
+4 Thoughtseize
+1 Rankle, Master of Pranks
+1 Eliminate
+1 Tenacious Underdog
+1 Rotting Regisaur
+1 Demonic Embrace
+1 Spawn of Mayhem
+1 Fatal Push
+1 Gutterbones
+1 Sheoldred, the Apocalypse
+2 Sheoldred, the Apocalypse
+2 Castle Locthwain
+2 Rankle, Master of Pranks
+2 Tenacious Underdog
+2 Rotting Regisaur
+2 Demonic Embrace
+2 Spawn of Mayhem
+2 Eliminate
+2 Gutterbones
+2 Fatal Push
+3 Tenacious Underdog
+3 Rotting Regisaur
+3 Spawn of Mayhem
+3 Gutterbones
+4 Tenacious Underdog
+4 Gutterbones
 1 Solemn Simulacrum
 1 Maestros Theater
 1 Sweltering Suns
@@ -110,54 +146,45 @@
 13 Mountain
 14 Mountain
 15 Mountain
-1 Hive of the Eye Tyrant
 1 Heartless Act
 2 Heartless Act
 1 Acquisitions Expert
-1 Davriel, Rogue Shadowmage
-1 Castle Locthwain
 1 Painful Bond
-1 Waste Not
-1 Blood on the Snow
+1 Davriel, Rogue Shadowmage
 1 Tergrid, God of Fright
+1 Blood on the Snow
 1 Bojuka Bog
 1 Infernal Grasp
 1 Gutmorn, Pactbound Servant
 1 Undercity Plunder
 1 Takenuma, Abandoned Mire
-1 Thoughtseize
-1 Inquisition of Kozilek
+1 Waste Not
 1 Tinybones, Trinket Thief
 1 Junji, the Midnight Sky
 1 Liliana, Waker of the Dead
 1 Liliana of the Veil
 1 Snow-Covered Swamp
-2 Hive of the Eye Tyrant
 2 Snow-Covered Swamp
 2 Acquisitions Expert
-2 Davriel, Rogue Shadowmage
 2 Painful Bond
-2 Waste Not
 2 Bojuka Bog
 2 Tergrid, God of Fright
-2 Inquisition of Kozilek
 2 Blood on the Snow
 2 Tinybones, Trinket Thief
 2 Gutmorn, Pactbound Servant
-2 Thoughtseize
+2 Davriel, Rogue Shadowmage
 2 Undercity Plunder
 2 Junji, the Midnight Sky
 2 Liliana of the Veil
+2 Waste Not
 3 Acquisitions Expert
 3 Snow-Covered Swamp
 3 Painful Bond
 3 Bojuka Bog
-3 Thoughtseize
 3 Waste Not
 4 Acquisitions Expert
 4 Snow-Covered Swamp
 4 Painful Bond
-4 Thoughtseize
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
@@ -171,7 +198,6 @@
 15 Snow-Covered Swamp
 16 Snow-Covered Swamp
 1 Bloodchief's Thirst
-1 Power Word Kill
 1 Morbid Opportunist
 1 Lolth, Spider Queen
 1 Professor Onyx
@@ -183,6 +209,7 @@
 1 Nightmare
 1 Poison the Cup
 1 Malakir Cullblade
+1 Power Word Kill
 2 Bloodchief's Thirst
 2 Power Word Kill
 2 Warlock Class
@@ -191,14 +218,12 @@
 2 Poison the Cup
 2 Gray Merchant of Asphodel
 2 Eternal Thirst
-3 Knight of the Ebon Legion
 3 Heartless Act
 3 Power Word Kill
 3 Warlock Class
 3 Malakir Cullblade
-4 Heartless Act
-4 Knight of the Ebon Legion
 4 Power Word Kill
+4 Heartless Act
 21 Swamp
 23 Swamp
 24 Swamp

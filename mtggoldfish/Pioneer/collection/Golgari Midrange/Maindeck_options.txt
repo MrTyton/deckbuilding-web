@@ -1,7 +1,7 @@
-2 Llanowar Elves
-2 Llanowar Wastes
-3 Llanowar Elves
 3 Elvish Mystic
+3 Llanowar Elves
+1 Vraska, Golgari Queen
+4 Deathcap Glade
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 Lovestruck Beast
@@ -9,20 +9,20 @@
 3 Tireless Tracker
 3 Esika's Chariot
 4 Abrupt Decay
+4 Llanowar Elves
 1 Urborg, Tomb of Yawgmoth
 3 Murderous Rider
 3 Swamp
-4 Llanowar Elves
 3 Fabled Passage
 1 Grim Flayer
 2 Grim Flayer
 3 Grim Flayer
 4 Grim Flayer
-2 Sorin the Mirthless
 3 Llanowar Wastes
 4 Llanowar Wastes
-2 Bloodchief's Thirst
+2 Sorin the Mirthless
 2 Forest
+2 Bloodchief's Thirst
 1 Kalitas, Traitor of Ghet
 2 Castle Locthwain
 1 Invoke Despair
@@ -33,32 +33,7 @@
 4 Tireless Tracker
 1 Tenacious Underdog
 3 Liliana of the Veil
-1 Old Rutstein
-1 Vivien, Monsters' Advocate
-1 Liliana, Heretical Healer
-1 Vraska the Unseen
-2 Vivien, Monsters' Advocate
-1 Skysovereign, Consul Flagship
-1 Epic Downfall
-1 Mutavault
-1 Ulcerate
-2 Mutavault
-2 Skysovereign, Consul Flagship
-2 Epic Downfall
-2 Ulcerate
-3 Mutavault
-3 Epic Downfall
-4 Epic Downfall
-4 Mutavault
-4 Esika's Chariot
-1 Sylvan Advocate
-2 Sylvan Advocate
-3 Sylvan Advocate
-4 Sylvan Advocate
-1 Field of Ruin
 4 Elvish Mystic
-2 Tenacious Underdog
-1 Snow-Covered Forest
 1 Werewolf Pack Leader
 1 Rhonas the Indomitable
 1 Rotting Regisaur
@@ -70,24 +45,50 @@
 2 Collected Company
 3 Werewolf Pack Leader
 3 Rotting Regisaur
-3 Collected Company
 3 Steel Leaf Champion
 4 Werewolf Pack Leader
 4 Rotting Regisaur
-4 Collected Company
 4 Steel Leaf Champion
+1 Old Rutstein
+1 Vivien, Monsters' Advocate
+1 Liliana, Heretical Healer
+1 Vraska the Unseen
+2 Vivien, Monsters' Advocate
+1 Skysovereign, Consul Flagship
+1 Epic Downfall
+1 Mutavault
+1 Ulcerate
+2 Mutavault
+2 Skysovereign, Consul Flagship
+2 Ulcerate
+2 Epic Downfall
+3 Epic Downfall
+3 Mutavault
+4 Epic Downfall
+4 Mutavault
+4 Esika's Chariot
+1 Sylvan Advocate
+2 Sylvan Advocate
+3 Sylvan Advocate
+4 Sylvan Advocate
+1 Field of Ruin
+2 Tenacious Underdog
+1 Snow-Covered Forest
+3 Collected Company
+4 Collected Company
 3 Scavenging Ooze
 1 Assassin's Trophy
-1 Briarbridge Tracker
-2 Briarbridge Tracker
-1 Cut Down
-1 Tasigur, the Golden Fang
-2 Tasigur, the Golden Fang
-4 Liliana of the Veil
 1 The Great Henge
 2 Rhonas the Indomitable
 2 The Great Henge
 3 The Great Henge
+1 Briarbridge Tracker
+2 Briarbridge Tracker
+3 Forest
+1 Cut Down
+1 Tasigur, the Golden Fang
+2 Tasigur, the Golden Fang
+4 Liliana of the Veil
 4 Scavenging Ooze
 1 Questing Beast
 2 Unlicensed Hearse
@@ -96,8 +97,8 @@
 2 Kalitas, Traitor of Ghet
 2 Assassin's Trophy
 1 Gifted Aetherborn
-2 Gifted Aetherborn
 2 Invoke Despair
+2 Gifted Aetherborn
 1 Sheoldred, the Apocalypse
 2 Sheoldred, the Apocalypse
 3 Sheoldred, the Apocalypse
@@ -112,11 +113,11 @@
 3 Oath of Nissa
 1 Heartless Act
 2 Vraska, Golgari Queen
-3 Forest
-1 Gather Courage
 1 Old-Growth Troll
-2 Gather Courage
 2 Old-Growth Troll
+4 Forest
+1 Gather Courage
+2 Gather Courage
 3 Gather Courage
 3 Old-Growth Troll
 4 Old-Growth Troll
@@ -132,33 +133,48 @@
 1 Outland Liberator
 1 Kraul Harpooner
 2 Questing Beast
+2 Old Rutstein
 1 Polukranos, Unchained
 1 Extinction Event
 1 Gurmag Angler
 2 Heartless Act
 2 Field of Ruin
-2 Old Rutstein
-3 Briarbridge Tracker
-3 Assassin's Trophy
-1 Witherbloom Command
-2 Witherbloom Command
-3 Invoke Despair
 1 Wrenn and Seven
 1 Nissa, Vastwood Seer
 1 Reckoner Bankbuster
 2 Wrenn and Seven
 2 Reckoner Bankbuster
 3 Reckoner Bankbuster
-4 Forest
-3 Sorin the Mirthless
-3 Gifted Aetherborn
-4 Murderous Rider
-4 Gifted Aetherborn
+3 Briarbridge Tracker
+3 Assassin's Trophy
+1 Witherbloom Command
+2 Witherbloom Command
+3 Invoke Despair
 1 Liliana, the Last Hope
 1 Ob Nixilis Reignited
 3 Elder Gargaroth
 4 Elder Gargaroth
 4 Oath of Nissa
+3 Sorin the Mirthless
+3 Gifted Aetherborn
+4 Murderous Rider
+4 Gifted Aetherborn
+1 Surrak, the Hunt Caller
+1 Ghalta, Primal Hunger
+1 Woodland Cemetery
+2 Woodland Cemetery
+2 Boseiju, Who Endures
+2 Surrak, the Hunt Caller
+2 Ghalta, Primal Hunger
+3 Boseiju, Who Endures
+3 Woodland Cemetery
+3 Ghalta, Primal Hunger
+3 Surrak, the Hunt Caller
+4 The Great Henge
+4 Surrak, the Hunt Caller
+5 Forest
+6 Forest
+7 Forest
 2 Tear Asunder
 3 Skysovereign, Consul Flagship
 4 Skysovereign, Consul Flagship

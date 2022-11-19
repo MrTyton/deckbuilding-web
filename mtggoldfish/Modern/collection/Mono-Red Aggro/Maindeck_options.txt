@@ -1,28 +1,27 @@
 2 Apostle's Blessing
+2 Wooded Foothills
 4 Arid Mesa
+1 Gut Shot
+1 Ragavan, Nimble Pilferer
 9 Mountain
 10 Mountain
-1 Ragavan, Nimble Pilferer
-1 Blood Moon
 2 Ragavan, Nimble Pilferer
-11 Mountain
-2 Blood Moon
-3 Blood Moon
+1 Blood Moon
 1 Ramunap Ruins
 2 Ramunap Ruins
+2 Sokenzan, Crucible of Defiance
 1 Seasoned Pyromancer
 1 Fury
 1 Bonecrusher Giant
 2 Seasoned Pyromancer
-2 Fury
 2 Bonecrusher Giant
-3 Seasoned Pyromancer
+2 Fury
 3 Fury
+3 Seasoned Pyromancer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
-2 Sokenzan, Crucible of Defiance
-1 Spikefield Hazard
 1 Eidolon of the Great Revel
+1 Spikefield Hazard
 2 Spikefield Hazard
 2 Eidolon of the Great Revel
 3 Eidolon of the Great Revel
@@ -30,22 +29,23 @@
 3 Ramunap Ruins
 4 Ramunap Ruins
 4 Eidolon of the Great Revel
+11 Mountain
 4 Fury
-1 Den of the Bugbear
 1 Light Up the Night
 2 Light Up the Night
+2 Blood Moon
+3 Blood Moon
 4 Blood Moon
 3 Bonecrusher Giant
 4 Seasoned Pyromancer
-2 Wooded Foothills
-1 Gut Shot
+3 Scalding Tarn
 2 Gut Shot
+1 Den of the Bugbear
 1 Magus of the Moon
 1 Torbran, Thane of Red Fell
 2 Torbran, Thane of Red Fell
 1 Chandra, Torch of Defiance
 1 Chandra, Fire Artisan
-3 Scalding Tarn
 12 Mountain
 1 Shatterskull Smashing
 1 Chandra, Dressed to Kill
@@ -55,35 +55,33 @@
 3 Leyline of Combustion
 4 Leyline of Combustion
 4 Scalding Tarn
-1 Fiery Islet
 2 Chandra, Fire Artisan
+3 Bloodstained Mire
+1 Fiery Islet
 1 Sunbaked Canyon
 1 Chandra, Awakened Inferno
-3 Bloodstained Mire
+3 Wooded Foothills
+4 Wooded Foothills
+4 Bloodstained Mire
+1 Squee, Dubious Monarch
+1 Bedlam Reveler
+1 Unholy Heat
 2 Den of the Bugbear
 3 Den of the Bugbear
 1 Lava Spike
 2 Lava Spike
 3 Lava Spike
-1 Squee, Dubious Monarch
-1 Crash Through
-1 Bedlam Reveler
-1 Firebolt
-2 Firebolt
-1 Unholy Heat
 4 Lava Spike
-4 Bloodstained Mire
-3 Wooded Foothills
-4 Wooded Foothills
 1 Mutavault
 3 Light Up the Night
 3 Chandra, Torch of Defiance
 4 Chandra, Torch of Defiance
+1 Crash Through
 1 Mishra's Factory
+1 Firebolt
 2 Mishra's Factory
-2 Fiery Islet
+2 Firebolt
 2 Chandra, Dressed to Kill
-4 Den of the Bugbear
 1 Abbot of Keral Keep
 1 Forked Bolt
 1 Wayward Guide-Beast
@@ -99,7 +97,6 @@
 1 Reckless Impulse
 2 Reckless Impulse
 3 Reckless Impulse
-4 Reckless Impulse
 2 Shatterskull Smashing
 1 Goblin Guide
 2 Goblin Guide
@@ -117,19 +114,25 @@
 14 Mountain
 1 Gemstone Caverns
 1 Scavenger Grounds
-2 Gemstone Caverns
 2 Scavenger Grounds
+2 Gemstone Caverns
 1 Goblin Rabblemaster
 1 Legion Warboss
 2 Goblin Rabblemaster
-2 Crash Through
+1 Ancestral Anger
 2 Bedlam Reveler
-3 Crash Through
-1 Prismatic Vista
-3 Firebolt
+2 Ancestral Anger
+3 Ancestral Anger
+4 Ancestral Anger
 1 Stomping Ground
 3 Gut Shot
 4 Gut Shot
+1 Mine Collapse
+1 Goblin Blast-Runner
+2 Goblin Blast-Runner
+2 Mine Collapse
+3 Goblin Blast-Runner
+4 Goblin Blast-Runner
 1 Tarfire
 1 Infuriate
 2 Abbot of Keral Keep
@@ -142,9 +145,9 @@
 4 Infuriate
 1 Moonveil Regent
 1 Bomat Courier
-1 Castle Embereth
 1 Runaway Steam-Kin
 1 Robber of the Rich
+1 Castle Embereth
 2 Bomat Courier
 2 Robber of the Rich
 2 Runaway Steam-Kin
@@ -152,6 +155,7 @@
 3 Robber of the Rich
 3 Bomat Courier
 4 Sunbaked Canyon
+4 Reckless Impulse
 4 Runaway Steam-Kin
 1 Shinka, the Bloodsoaked Keep
 1 Nykthos, Shrine to Nyx
@@ -160,9 +164,10 @@
 3 Magus of the Moon
 3 Torbran, Thane of Red Fell
 3 Shatterskull Smashing
-4 Bonecrusher Giant
-4 Spikefield Hazard
 4 Shatterskull Smashing
+4 Bonecrusher Giant
+4 Den of the Bugbear
+4 Spikefield Hazard
 4 Torbran, Thane of Red Fell
 1 Kumano Faces Kakkazan
 1 Seal of Fire
@@ -178,6 +183,7 @@
 4 Unholy Heat
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
+2 Fiery Islet
 3 Snow-Covered Mountain
 3 Fiery Islet
 4 Snow-Covered Mountain

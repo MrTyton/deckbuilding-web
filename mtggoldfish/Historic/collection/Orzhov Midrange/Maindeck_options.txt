@@ -3,19 +3,20 @@
 3 Brightclimb Pathway
 4 Brightclimb Pathway
 1 Takenuma, Abandoned Mire
-1 Sheoldred, the Apocalypse
 1 Infernal Grasp
 1 Liliana of the Veil
-2 Liliana of the Veil
+1 Sheoldred, the Apocalypse
 2 Infernal Grasp
-2 Sheoldred, the Apocalypse
+2 Liliana of the Veil
 2 Takenuma, Abandoned Mire
+2 Sheoldred, the Apocalypse
 3 Liliana of the Veil
 3 Infernal Grasp
 7 Swamp
 8 Swamp
 1 Shambling Ghast
 1 Xander's Lounge
+1 Ob Nixilis, the Adversary
 1 Deadly Dispute
 1 Wyll, Pact-Bound Duelist
 1 Ziatora's Proving Ground
@@ -25,15 +26,14 @@
 1 Cursebound Witch
 1 Sokenzan, Crucible of Defiance
 1 Haunted Ridge
-1 Ob Nixilis, the Adversary
 2 Shambling Ghast
-2 Deadly Dispute
 2 Xander's Lounge
+2 Deadly Dispute
+2 Ob Nixilis, the Adversary
 2 Wyll, Pact-Bound Duelist
 2 Cursebound Witch
 2 Mountain
 2 Fable of the Mirror-Breaker
-2 Ob Nixilis, the Adversary
 2 Haunted Ridge
 2 Ziatora's Proving Ground
 3 Sheoldred, the Apocalypse
@@ -43,13 +43,13 @@
 3 Haunted Ridge
 3 Ob Nixilis, the Adversary
 3 Cursebound Witch
-4 Shambling Ghast
 4 Sheoldred, the Apocalypse
+4 Deadly Dispute
+4 Shambling Ghast
 4 Infernal Grasp
 4 Cursebound Witch
 4 Fable of the Mirror-Breaker
 4 Haunted Ridge
-4 Deadly Dispute
 9 Swamp
 10 Swamp
 11 Swamp
@@ -76,11 +76,11 @@
 2 Bishop of Wings
 2 Giada, Font of Hope
 3 Selfless Savior
-3 Concealed Courtyard
-3 Caves of Koilos
 3 Serra Paragon
+3 Caves of Koilos
 3 Bloodchief's Thirst
 3 Soul Warden
+3 Concealed Courtyard
 3 Shattered Sanctum
 3 Resplendent Angel
 3 Righteous Valkyrie
@@ -89,7 +89,6 @@
 3 Giada, Font of Hope
 4 Selfless Savior
 4 Serra Paragon
-4 Concealed Courtyard
 4 Caves of Koilos
 4 Bloodchief's Thirst
 4 Shattered Sanctum
@@ -99,11 +98,12 @@
 4 Bishop of Wings
 4 Giada, Font of Hope
 4 Righteous Valkyrie
+4 Concealed Courtyard
 1 Scoured Barrens
-1 Reckoner Bankbuster
-1 Sunlit Marsh
 1 Edgar, Charmed Groom
 1 Ao, the Dawn Sky
+1 Sunlit Marsh
+1 Tenacious Underdog
 1 Elspeth Resplendent
 1 Graveyard Trespasser
 1 The Wandering Emperor
@@ -111,7 +111,7 @@
 1 Cut Down
 1 Farewell
 1 Wedding Announcement
-1 Tenacious Underdog
+1 Reckoner Bankbuster
 2 Scoured Barrens
 2 Sorin the Mirthless
 2 Tenacious Underdog
