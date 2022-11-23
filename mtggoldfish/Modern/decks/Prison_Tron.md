@@ -65,7 +65,7 @@
 |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)         |                    3|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)        |
 |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)    |                     |                                                                                                    |
 |                    2|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)             |                     |                                                                                                    |
-|                    3|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)           |                     |                                                                                                    |
 |                    3|[Inscribed Tablet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574712)       |                     |                                                                                                    |
+|                    3|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)           |                     |                                                                                                    |
 |                    4|[Warping Wail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407522)           |                     |                                                                                                    |
 

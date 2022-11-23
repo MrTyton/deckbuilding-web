@@ -53,9 +53,9 @@
 |                     |                                                                                               |                    1|[Gilded Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5837)         |
 |                     |                                                                                               |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                     |                                                                                               |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                     |                                                                                               |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)   |
 |                     |                                                                                               |                    1|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)        |
-|                     |                                                                                               |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)   |
+|                     |                                                                                               |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)   |
 |                     |                                                                                               |                    2|[Hullbreacher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=502308)       |
+|                     |                                                                                               |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)   |
 |                     |                                                                                               |                    2|[Kappa Cannoneer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=553911)    |
 

@@ -6,12 +6,12 @@
 1 Embereth Shieldbreaker
 1 Reckless Stormseeker
 1 Tormod's Crypt
-1 Cinderclasm
 1 Claim the Firstborn
+1 Cinderclasm
 1 Shatterstorm
 1 Inferno of the Star Mounts
-2 Tormod's Crypt
 2 Claim the Firstborn
+2 Tormod's Crypt
 3 Tormod's Crypt
 4 Tormod's Crypt
 1 Fry
@@ -32,10 +32,10 @@
 2 Chandra, Dressed to Kill
 2 Rampaging Ferocidon
 3 Rampaging Ferocidon
-1 Dire Fleet Daredevil
-1 Chandra's Defeat
-1 Raze the Effigy
 1 Unchained Berserker
+1 Dire Fleet Daredevil
+1 Raze the Effigy
+1 Chandra's Defeat
 2 Reckless Stormseeker
 1 Pithing Needle
 2 Pithing Needle
@@ -44,11 +44,6 @@
 1 By Force
 2 Reinforced Ronin
 2 By Force
-1 Grafdigger's Cage
-1 Grim Initiate
-2 Flame-Blessed Bolt
-2 Grafdigger's Cage
-3 Grafdigger's Cage
 1 Burn Down the House
 1 Defiler of Instinct
 1 Skewer the Critics
@@ -60,8 +55,13 @@
 2 Traumatic Prank
 3 Skewer the Critics
 3 Fry
-1 Unholy Heat
+1 Grafdigger's Cage
+1 Grim Initiate
+2 Flame-Blessed Bolt
+2 Grafdigger's Cage
+3 Grafdigger's Cage
 1 Bloodthirsty Adversary
+1 Unholy Heat
 1 Thundering Raiju
 1 Toralf's Disciple
 1 Chandra's Regulator
@@ -73,34 +73,34 @@
 3 Toralf's Disciple
 3 Pithing Needle
 3 Thundering Raiju
-1 Hazoret the Fervent
 1 Bonecrusher Giant
-2 Hazoret the Fervent
+1 Hazoret the Fervent
 2 Bonecrusher Giant
+2 Hazoret the Fervent
 2 Embereth Shieldbreaker
 4 Rampaging Ferocidon
-2 The Akroan War
-2 Unlicensed Hearse
-4 Roiling Vortex
 1 Shock
 2 Burning Hands
 2 Shock
 3 Burning Hands
 3 Shock
 4 Soul-Guide Lantern
+2 The Akroan War
+2 Unlicensed Hearse
+4 Roiling Vortex
 1 Klothys, God of Destiny
+1 Heroic Intervention
 1 Cindervines
 1 Cemetery Gatekeeper
-1 Heroic Intervention
 1 Living Twister
-2 Klothys, God of Destiny
+2 Heroic Intervention
 2 Cindervines
 2 Cemetery Gatekeeper
-2 Heroic Intervention
+2 Klothys, God of Destiny
 2 Living Twister
+3 Heroic Intervention
 3 Cindervines
 3 Cemetery Gatekeeper
-3 Heroic Intervention
 4 Cindervines
 4 Cemetery Gatekeeper
 1 Call In a Professional
@@ -116,8 +116,8 @@
 4 Call In a Professional
 1 The Elder Dragon War
 1 Thundering Rebuke
-1 Lightning Axe
 1 Strangle
+1 Lightning Axe
 1 Antagonize
 1 Heated Debate
 2 Thundering Rebuke
