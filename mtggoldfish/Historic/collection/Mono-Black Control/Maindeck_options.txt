@@ -57,13 +57,13 @@
 1 Henrika Domnathi
 1 Voldaren Bloodcaster
 1 Blood Fountain
-1 Evelyn, the Covetous
 1 Soul Transfer
+1 Evelyn, the Covetous
 1 Hero's Downfall
 1 Duress
+1 Divest
 1 Check for Traps
 1 Whack
-1 Divest
 1 Deadly Dispute
 1 The Haunt of Hightower
 1 Vampire of the Dire Moon
@@ -72,14 +72,14 @@
 1 Nighthawk Scavenger
 2 Voldaren Bloodcaster
 2 Henrika Domnathi
+2 Soul Transfer
 2 Evelyn, the Covetous
 2 The Meathook Massacre
 2 Blood Fountain
-2 Soul Transfer
 2 Hero's Downfall
-2 Whack
-2 Duress
 2 Divest
+2 Duress
+2 Whack
 2 Deadly Dispute
 2 Vampire of the Dire Moon
 2 Check for Traps
@@ -164,9 +164,9 @@
 1 Waste Not
 1 Painful Bond
 1 Tinybones, Trinket Thief
-2 Liliana of the Veil
 2 Snow-Covered Swamp
 2 Junji, the Midnight Sky
+2 Liliana of the Veil
 2 Bojuka Bog
 2 Acquisitions Expert
 2 Blood on the Snow
@@ -197,10 +197,10 @@
 14 Snow-Covered Swamp
 15 Snow-Covered Swamp
 16 Snow-Covered Swamp
-1 Bloodchief's Thirst
-1 Lolth, Spider Queen
 1 Power Word Kill
+1 Lolth, Spider Queen
 1 Morbid Opportunist
+1 Bloodchief's Thirst
 1 Invoke Despair
 1 Eternal Thirst
 1 Warlock Class
@@ -210,8 +210,8 @@
 1 Poison the Cup
 1 Professor Onyx
 1 Malakir Cullblade
-2 Bloodchief's Thirst
 2 Power Word Kill
+2 Bloodchief's Thirst
 2 Warlock Class
 2 Nightmare
 2 Malakir Cullblade

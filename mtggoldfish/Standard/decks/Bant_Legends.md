@@ -36,7 +36,7 @@
 |                    1|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
 |                    2|Recruitment Officer                                                                                   |                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)     |
 |                    3|Recruitment Officer                                                                                   |                    2|[Valorous Stance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391950)  |
-|                    4|Recruitment Officer                                                                                   |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
-|                     |                                                                                                      |                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)     |
+|                    4|Recruitment Officer                                                                                   |                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)     |
 |                     |                                                                                                      |                    4|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)     |
+|                     |                                                                                                      |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
 
