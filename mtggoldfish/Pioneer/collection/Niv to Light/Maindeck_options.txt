@@ -1,5 +1,5 @@
-1 Zagoth Triome
 1 Jetmir's Garden
+2 Ketria Triome
 2 Kolaghan's Command
 2 Abrupt Decay
 1 Fabled Passage
@@ -8,16 +8,15 @@
 1 Swamp
 1 Island
 1 Mountain
-1 The Scarab God
 2 Ziatora's Proving Ground
 2 Jetmir's Garden
-1 Tolsimir, Friend to Wolves
+1 The Scarab God
 1 Breeding Pool
 3 Omnath, Locus of Creation
 4 Fabled Passage
-2 Indatha Triome
+1 Tolsimir, Friend to Wolves
 1 Isolated Chapel
-2 Dreadbore
+2 Indatha Triome
 1 Wandering Mind
 1 Hinterland Harbor
 1 Fable of the Mirror-Breaker
@@ -26,27 +25,28 @@
 2 Fable of the Mirror-Breaker
 3 Wandering Mind
 4 Wandering Mind
+2 Dreadbore
 1 Dragonskull Summit
-1 Slaughter Games
 3 Zagoth Triome
 4 Vanishing Verse
 3 Fable of the Mirror-Breaker
+1 Godless Shrine
+2 Watery Grave
+3 Jetmir's Garden
+3 Ziatora's Proving Ground
+4 Niv-Mizzet Reborn
 4 Fable of the Mirror-Breaker
+1 Slaughter Games
 1 Detention Sphere
 2 Raugrin Triome
 2 Deafening Clarion
 2 Sunpetal Grove
-1 Godless Shrine
 1 Supreme Verdict
 2 Isolated Chapel
 2 Sacred Foundry
 2 Hinterland Harbor
-2 Watery Grave
-3 Jetmir's Garden
 3 Raugrin Triome
 3 Sacred Foundry
-3 Ziatora's Proving Ground
-4 Niv-Mizzet Reborn
 1 Yasharn, Implacable Earth
 1 Prismari Command
 1 Assassin's Trophy
@@ -56,7 +56,10 @@
 1 Kenrith, the Returned King
 1 Escape to the Wilds
 2 Mana Confluence
+3 Abrupt Decay
 1 Unmoored Ego
+1 Dovin's Veto
+2 Extinction Event
 2 Hallowed Fountain
 1 Shanna, Purifying Blade
 1 Ertai Resurrected
@@ -73,7 +76,10 @@
 2 Siege Rhino
 3 Siege Rhino
 1 Culling Ritual
-3 Abrupt Decay
+1 Drown in the Loch
+2 Dragonskull Summit
+4 Jetmir's Garden
+4 Zagoth Triome
 1 Kotose, the Silent Spider
 1 Lier, Disciple of the Drowned
 1 Legions to Ashes
@@ -86,13 +92,11 @@
 4 Thought Erasure
 4 Growth Spiral
 1 Snow-Covered Plains
-1 Despark
 1 Snow-Covered Island
+1 Despark
 1 Snow-Covered Swamp
 1 Snow-Covered Mountain
 1 Snow-Covered Forest
-1 Dovin's Veto
-2 Extinction Event
 3 Dreadbore
 1 Boseiju, Who Endures
 1 Pithing Needle

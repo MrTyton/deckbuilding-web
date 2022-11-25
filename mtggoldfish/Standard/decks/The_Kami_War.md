@@ -171,6 +171,6 @@
 |                    4|[Tear Asunder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574663)                  |                     |                                                                                                      |
 |                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                        |                     |                                                                                                      |
 |                    4|[March of Otherworldly Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548321)   |                     |                                                                                                      |
-|                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                        |                     |                                                                                                      |
 |                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                        |                     |                                                                                                      |
+|                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                        |                     |                                                                                                      |
 
