@@ -64,12 +64,12 @@
 3 Consider
 4 Consider
 4 Snapcaster Mage
-1 Darkslick Shores
-1 Unearth
 1 Monastery Mentor
+1 Unearth
+1 Darkslick Shores
 1 Mishra's Bauble
-2 Darkslick Shores
 2 Monastery Mentor
+2 Darkslick Shores
 2 Mishra's Bauble
 2 Unearth
 3 Monastery Mentor
@@ -114,14 +114,14 @@
 1 Shadow Prophecy
 2 Shadow Prophecy
 2 Spell Pierce
-1 Archon of Cruelty
 1 Persist
+1 Archon of Cruelty
 2 Persist
 2 Archon of Cruelty
-3 Persist
 3 Archon of Cruelty
-4 Archon of Cruelty
+3 Persist
 4 Persist
+4 Archon of Cruelty
 1 Riptide Laboratory
 1 Spara's Headquarters
 1 Ephemerate
@@ -150,27 +150,20 @@
 2 Spreading Seas
 2 Path to Exile
 2 Cling to Dust
-1 Snow-Covered Plains
 1 Snow-Covered Island
+1 Snow-Covered Plains
 2 Cryptic Command
 1 Dovin's Veto
 1 Prairie Stream
 2 Glacial Fortress
 2 Dovin's Veto
-1 Founding the Third Path
-1 Raffine, Scheming Seer
-2 Raffine, Scheming Seer
-2 Founding the Third Path
-3 Drown in the Loch
-3 Founding the Third Path
-4 Drown in the Loch
 1 Omen of the Sea
 2 Omen of the Sea
 3 Celestial Colonnade
 3 Teferi, Hero of Dominaria
 4 March of Otherworldly Light
-1 Thought Scour
 1 Murktide Regent
+1 Thought Scour
 2 Thought Scour
 2 Murktide Regent
 3 Murktide Regent
@@ -180,16 +173,16 @@
 2 Dress Down
 2 Creeping Tar Pit
 4 Esper Charm
-1 Mech Hangar
-1 Takenuma, Abandoned Mire
 1 Hive of the Eye Tyrant
 1 Shakedown Heavy
 1 Smuggler's Copter
 1 Toolcraft Exemplar
+1 Mech Hangar
 1 Heart of Kiran
 1 Stitcher's Supplier
 1 Greasefang, Okiba Boss
 1 Judge's Familiar
+1 Takenuma, Abandoned Mire
 1 Parhelion II
 1 Mobilizer Mech
 2 Mech Hangar
@@ -241,9 +234,9 @@
 4 Mesmeric Orb
 4 Fatestitcher
 1 Spectral Adversary
+1 Waterlogged Grove
 1 Spell Queller
 1 Restoration Angel
-1 Waterlogged Grove
 1 Vendilion Clique
 1 Venser, Shaper Savant
 2 Spell Queller
@@ -251,19 +244,19 @@
 3 Spell Queller
 3 Brazen Borrower
 4 Spell Queller
-1 Cavern of Souls
+1 Ertai Resurrected
 1 Flusterstorm
-1 Meddling Mage
 1 Silence
 1 Step Through
 1 Angel's Grace
+1 Cavern of Souls
 1 Spoils of the Vault
-1 Ertai Resurrected
 1 Umara Wizard
+1 Meddling Mage
 1 Micromancer
-2 Cavern of Souls
 2 Ephemerate
 2 Drowned Catacomb
+2 Cavern of Souls
 2 Micromancer
 2 Step Through
 3 Micromancer
@@ -283,5 +276,12 @@
 3 Force of Negation
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
+1 Raffine, Scheming Seer
+1 Founding the Third Path
+2 Raffine, Scheming Seer
+2 Founding the Third Path
+3 Drown in the Loch
+3 Founding the Third Path
+4 Drown in the Loch
 2 The Wandering Emperor
 5 Island
