@@ -29,10 +29,10 @@
 3 Lightning Strike
 1 Light Up the Stage
 2 Light Up the Stage
-1 Rahilda, Wanted Cutthroat
 4 Play with Fire
 1 Phoenix Chick
 2 Phoenix Chick
+4 Embercleave
 4 Lightning Strike
 1 Skewer the Critics
 2 Skewer the Critics
@@ -61,6 +61,7 @@
 1 Chandra, Torch of Defiance
 3 Skewer the Critics
 4 Skewer the Critics
+1 Rahilda, Wanted Cutthroat
 2 Sokenzan, Crucible of Defiance
 1 Snow-Covered Mountain
 1 Hellrider
@@ -77,13 +78,12 @@
 4 Hellrider
 1 Unlicensed Hearse
 2 Unlicensed Hearse
-2 Rahilda, Wanted Cutthroat
 2 Abrade
 3 Abrade
 1 Big Spender
 1 Shivan Devastator
-1 Cemetery Gatekeeper
 1 Thundering Raiju
+1 Cemetery Gatekeeper
 1 Bloodthirsty Adversary
 1 Goblin Morale Sergeant
 2 Shivan Devastator
@@ -92,24 +92,6 @@
 2 Bloodthirsty Adversary
 2 Goblin Morale Sergeant
 3 Goblin Morale Sergeant
-4 Embercleave
-1 Kiln Fiend
-1 Crash Through
-1 Reckless Charge
-1 Hazoret the Fervent
-1 Festival Crasher
-2 Kiln Fiend
-2 Crash Through
-2 Reckless Charge
-2 Hazoret the Fervent
-2 Festival Crasher
-3 Crash Through
-3 Kiln Fiend
-3 Hazoret the Fervent
-3 Reckless Charge
-3 Festival Crasher
-4 Kiln Fiend
-4 Festival Crasher
 1 Monastery Swiftspear
 1 Kessig Flamebreather
 1 Electrostatic Infantry
@@ -117,10 +99,10 @@
 1 Static Discharge
 1 Young Pyromancer
 1 Spikefield Hazard
-2 Spikefield Hazard
 2 Monastery Swiftspear
 2 Electrostatic Infantry
 2 Kessig Flamebreather
+2 Spikefield Hazard
 2 Static Discharge
 2 Young Pyromancer
 3 Monastery Swiftspear
@@ -157,24 +139,24 @@
 3 Roil Eruption
 4 Roil Eruption
 4 Goro-Goro, Disciple of Ryusei
+1 Bomat Courier
 1 Seasoned Pyromancer
+1 Dragon's Rage Channeler
 1 Pillar of Flame
 1 Rabbit Battery
-1 Dragon's Rage Channeler
 1 Ox of Agonas
 1 Fiery Temper
 1 Unholy Heat
 1 Blazing Rootwalla
 1 Fable of the Mirror-Breaker
 1 Hollow One
-1 Bomat Courier
 1 Faithless Looting
 2 Bomat Courier
 2 Ox of Agonas
+2 Dragon's Rage Channeler
 2 Rabbit Battery
 2 Pillar of Flame
 2 Seasoned Pyromancer
-2 Dragon's Rage Channeler
 2 Fiery Temper
 2 Unholy Heat
 2 Fable of the Mirror-Breaker
@@ -182,20 +164,37 @@
 2 Hollow One
 2 Faithless Looting
 3 Bomat Courier
-3 Unholy Heat
 3 Dragon's Rage Channeler
+3 Unholy Heat
 3 Fiery Temper
 3 Fable of the Mirror-Breaker
 3 Faithless Looting
 3 Blazing Rootwalla
 3 Hollow One
-4 Unholy Heat
 4 Dragon's Rage Channeler
+4 Unholy Heat
 4 Fiery Temper
 4 Hollow One
 4 Fable of the Mirror-Breaker
 4 Faithless Looting
 4 Blazing Rootwalla
+1 Crash Through
+1 Hazoret the Fervent
+1 Festival Crasher
+1 Reckless Charge
+1 Kiln Fiend
+2 Crash Through
+2 Hazoret the Fervent
+2 Festival Crasher
+2 Reckless Charge
+2 Kiln Fiend
+3 Hazoret the Fervent
+3 Festival Crasher
+3 Kiln Fiend
+3 Reckless Charge
+3 Crash Through
+4 Festival Crasher
+4 Kiln Fiend
 1 Sheltered Thicket
 1 Rootbound Crag
 1 Rockfall Vale
@@ -218,22 +217,22 @@
 3 Swamp
 3 Rootbound Crag
 3 Cragcrown Pathway
+4 Cragcrown Pathway
 4 Stomping Ground
 4 Skirk Prospector
 4 Swamp
 4 Rootbound Crag
-4 Cragcrown Pathway
 4 Rockfall Vale
 5 Swamp
 6 Swamp
 7 Swamp
 8 Swamp
 1 Cathartic Pyre
-1 Big Score
 1 Dreadhorde Arcanist
+1 Big Score
 1 Risk Factor
-2 Big Score
 2 Cathartic Pyre
+2 Big Score
 2 Dreadhorde Arcanist
 21 Mountain
 4 Shock

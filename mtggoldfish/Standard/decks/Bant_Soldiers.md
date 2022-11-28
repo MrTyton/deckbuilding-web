@@ -30,7 +30,7 @@
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |---------------------|-------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Extraction Specialist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555213)|
 |                     |             |                    2|[Extraction Specialist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555213)|
 |                     |             |                    3|Dennick, Pious Apprentice                                                                       |
+|                     |             |                    1|[Extraction Specialist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555213)|
 

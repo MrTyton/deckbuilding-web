@@ -1,15 +1,15 @@
-1 Thraben Inspector
 3 Adeline, Resplendent Cathar
+1 Thraben Inspector
 2 Hengegate Pathway
-1 Hallowed Fountain
-2 Thraben Inspector
-1 Boseiju, Who Endures
-1 Luminarch Aspirant
 3 Charming Prince
+2 Thraben Inspector
+1 Hallowed Fountain
+1 Boseiju, Who Endures
+3 Hengegate Pathway
+1 Luminarch Aspirant
 1 Dauntless Bodyguard
 2 Dauntless Bodyguard
 3 Dauntless Bodyguard
-3 Hengegate Pathway
 1 Mantis Rider
 2 Mantis Rider
 2 Luminarch Aspirant
@@ -23,7 +23,10 @@
 4 Hengegate Pathway
 1 Brightclimb Pathway
 1 Aether Channeler
+1 Brushland
 4 Dauntless Bodyguard
+1 Pyre of Heroes
+2 Pyre of Heroes
 1 Kari Zev, Skyship Raider
 1 Sacred Foundry
 1 Brave the Elements
@@ -31,12 +34,9 @@
 3 Brave the Elements
 3 Mana Confluence
 1 Blooming Marsh
-1 Brushland
 2 Brushland
 2 Hallowed Fountain
 1 Overgrown Farmland
-1 Pyre of Heroes
-2 Pyre of Heroes
 3 Botanical Sanctum
 3 Luminarch Aspirant
 4 Luminarch Aspirant
@@ -48,6 +48,7 @@
 1 Tenacious Underdog
 1 Overgrown Tomb
 4 Thraben Inspector
+3 Pyre of Heroes
 2 Recruitment Officer
 2 Tenacious Underdog
 3 General Kudro of Drannith
@@ -55,15 +56,17 @@
 1 Inspiring Vantage
 1 Stomping Ground
 1 Lagrella, the Magpie
+1 Blade Historian
 2 Brightclimb Pathway
 4 Charming Prince
-3 Pyre of Heroes
 1 Abzan Falconer
+1 Lair of the Hydra
+2 Eiganjo, Seat of the Empire
 2 Inspiring Vantage
 1 Llanowar Wastes
 2 Thalia, Heretic Cathar
-1 Kambal, Consul of Allocation
 1 Hostage Taker
+1 Kambal, Consul of Allocation
 1 Fiendslayer Paladin
 1 Apostle of Purifying Light
 2 Apostle of Purifying Light
@@ -72,13 +75,12 @@
 1 Anointed Peacekeeper
 1 Elite Spellbinder
 1 Godless Shrine
-2 Dreamroot Cascade
 2 Godless Shrine
+2 Dreamroot Cascade
 2 Anointed Peacekeeper
 3 Anointed Peacekeeper
 1 King Darien XLVIII
 3 Reckless Stormseeker
-1 Blade Historian
 1 Barkchannel Pathway
 2 Aether Channeler
 3 Aether Channeler
@@ -87,14 +89,14 @@
 3 Silverquill Silencer
 1 Guardian of New Benalia
 1 Shanna, Purifying Blade
-2 Breeding Pool
 2 Guardian of New Benalia
 2 Shanna, Purifying Blade
 2 Overgrown Farmland
+2 Breeding Pool
 3 Overgrown Farmland
-1 Deserted Beach
 1 Raffine's Informant
 1 Mutavault
+1 Deserted Beach
 1 Renegade Rallier
 2 Raffine's Informant
 2 Mutavault
@@ -103,9 +105,9 @@
 3 Raffine's Informant
 3 Mutavault
 3 Plains
+4 Extraction Specialist
 4 Mutavault
 4 Raffine's Informant
-4 Extraction Specialist
 4 Botanical Sanctum
 1 Tomik, Distinguished Advokist
 1 Giant Killer

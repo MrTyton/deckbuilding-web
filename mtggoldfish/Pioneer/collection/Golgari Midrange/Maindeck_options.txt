@@ -84,9 +84,9 @@
 2 Epic Downfall
 3 Mutavault
 3 Epic Downfall
-4 Mutavault
 4 Epic Downfall
 4 Esika's Chariot
+4 Mutavault
 1 Snow-Covered Forest
 3 Collected Company
 4 Collected Company
@@ -99,8 +99,8 @@
 3 Forest
 1 Cut Down
 4 Liliana of the Veil
-1 Titania, Voice of Gaea
 1 Argoth, Sanctum of Nature
+1 Titania, Voice of Gaea
 2 Titania, Voice of Gaea
 3 Witherbloom Command
 3 Briarbridge Tracker
@@ -145,15 +145,15 @@
 1 Gurmag Angler
 2 Heartless Act
 2 Takenuma, Abandoned Mire
+2 Old Rutstein
 1 Outland Liberator
 1 Kraul Harpooner
 2 Questing Beast
-2 Old Rutstein
 1 Shigeki, Jukai Visionary
 1 Cemetery Prowler
 1 Dig Up
-1 Soul Transfer
 1 The Meathook Massacre
+1 Soul Transfer
 1 Bala Ged Recovery
 2 Shigeki, Jukai Visionary
 2 The Meathook Massacre
@@ -171,19 +171,19 @@
 4 Murderous Rider
 3 Skysovereign, Consul Flagship
 4 Skysovereign, Consul Flagship
-1 Scrapheap Scrounger
 1 Go for the Throat
+1 Scrapheap Scrounger
 2 Scrapheap Scrounger
 3 Scrapheap Scrounger
 4 Scrapheap Scrounger
 1 Valki, God of Lies
 1 Castle Garenbrig
 1 Titan of Industry
-1 Ulamog, the Ceaseless Hunger
 1 Turntimber Symbiosis
-1 Fight Rigging
 1 Shakedown Heavy
+1 Ulamog, the Ceaseless Hunger
 1 Cityscape Leveler
+1 Fight Rigging
 1 Vorinclex, Monstrous Raider
 1 Stomping Ground
 2 Shakedown Heavy
@@ -199,16 +199,16 @@
 4 Fight Rigging
 4 Shakedown Heavy
 1 Ghalta, Primal Hunger
-1 Woodland Cemetery
 1 Surrak, the Hunt Caller
-2 Boseiju, Who Endures
-2 Ghalta, Primal Hunger
+1 Woodland Cemetery
 2 Woodland Cemetery
+2 Ghalta, Primal Hunger
 2 Surrak, the Hunt Caller
-3 Woodland Cemetery
-3 Boseiju, Who Endures
+2 Boseiju, Who Endures
 3 Ghalta, Primal Hunger
 3 Surrak, the Hunt Caller
+3 Boseiju, Who Endures
+3 Woodland Cemetery
 4 The Great Henge
 4 Surrak, the Hunt Caller
 6 Forest

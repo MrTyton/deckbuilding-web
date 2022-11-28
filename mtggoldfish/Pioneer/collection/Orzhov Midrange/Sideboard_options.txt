@@ -1,32 +1,31 @@
-2 Despark
-1 Witch's Vengeance
-1 Reidane, God of the Worthy
-1 Noxious Grasp
-3 Go Blank
-1 Graveyard Trespasser
-3 Fatal Push
-2 Graveyard Trespasser
+1 Despark
+1 Kalitas, Traitor of Ghet
+1 Rest in Peace
 2 Rest in Peace
-1 Deafening Silence
-2 Deafening Silence
-1 Elspeth Conquers Death
-1 Path of Peril
-2 Path of Peril
-2 Elspeth Conquers Death
-1 Legions to Ashes
-2 Legions to Ashes
+1 Witch's Vengeance
+2 Despark
+1 Noxious Grasp
 1 Extinction Event
 2 Extinction Event
+1 Reidane, God of the Worthy
+1 Reckoner Bankbuster
+2 Reckoner Bankbuster
+3 Go Blank
+1 Path of Peril
+2 Path of Peril
+2 Noxious Grasp
+1 Legions to Ashes
+2 Legions to Ashes
 1 Damping Sphere
 2 Damping Sphere
 3 Duress
+1 Deafening Silence
+2 Deafening Silence
 3 Temporary Lockdown
 1 Invoke Despair
 2 Invoke Despair
-1 Reckoner Bankbuster
 2 Reidane, God of the Worthy
-2 Noxious Grasp
-2 Reckoner Bankbuster
+1 Elspeth Conquers Death
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
@@ -38,6 +37,7 @@
 2 Portable Hole
 1 Oath of Kaya
 2 Oath of Kaya
+2 Elspeth Conquers Death
 1 Phyrexian Fleshgorger
 1 God-Pharaoh's Statue
 1 Tormod's Crypt
@@ -48,8 +48,8 @@
 2 Edgar, Charmed Groom
 2 Cling to Dust
 2 Ray of Enfeeblement
-3 Ray of Enfeeblement
 3 Damping Sphere
+3 Ray of Enfeeblement
 1 Devout Decree
 1 Vanishing Verse
 2 Vanishing Verse
@@ -63,22 +63,24 @@
 2 Blood Baron of Vizkopa
 1 Fracture
 2 Fracture
+3 Extinction Event
+1 The Wandering Emperor
+2 Kalitas, Traitor of Ghet
 3 Portable Hole
 1 Pithing Needle
 1 The Stone Brain
 1 Yorion, Sky Nomad
-1 The Wandering Emperor
-2 Kalitas, Traitor of Ghet
+1 Cataclysmic Gearhulk
 1 March of Wretched Sorrow
 1 Knight of Malice
 1 Treasure Vault
 1 Karn's Sylex
+1 Elspeth, Sun's Champion
 1 Glass Casket
 1 Noxious Gearhulk
 1 Platoon Dispenser
 1 Lantern of the Lost
 1 Darksteel Citadel
-1 Cataclysmic Gearhulk
 1 Necromentia
 2 Necromentia
 1 Go for the Throat
@@ -98,7 +100,9 @@
 1 Kaya's Wrath
 1 Lyra Dawnbringer
 2 Kaya's Wrath
-3 Lifebane Zombie
+1 Eiganjo, Seat of the Empire
+2 The Wandering Emperor
+3 Unlicensed Hearse
 4 Temporary Lockdown
 1 Calamity's Wake
 1 Liliana of the Veil
@@ -113,7 +117,4 @@
 4 Portable Hole
 3 Rest in Peace
 4 Rest in Peace
-1 Eiganjo, Seat of the Empire
-2 The Wandering Emperor
-3 Unlicensed Hearse
-3 Extinction Event
+3 Lifebane Zombie

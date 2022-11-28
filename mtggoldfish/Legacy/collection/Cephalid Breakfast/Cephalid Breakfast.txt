@@ -1,5 +1,4 @@
 3 Aether Vial
-1 Baleful Strix
 4 Brainstorm
 1 Cabal Therapy
 4 Cephalid Illusionist
@@ -8,7 +7,6 @@
 4 Flooded Strand
 4 Force of Will
 1 Island
-1 Kaldra Compleat
 1 Karakas
 1 Marsh Flats
 1 Misty Rainforest
@@ -22,6 +20,8 @@
 1 Scalding Tarn
 1 Scrubland
 1 Shuko
+1 Skyclave Apparition
+1 Solitude
 4 Stoneforge Mystic
 1 Thassa's Oracle
 3 Tundra
@@ -29,9 +29,8 @@
 Sideboard
 1 Flusterstorm
 2 Force of Negation
-1 Hydroblast
 3 Prismatic Ending
 2 Serenity
 2 Surgical Extraction
 3 Swords to Plowshares
-1 Thoughtseize
+2 Thoughtseize

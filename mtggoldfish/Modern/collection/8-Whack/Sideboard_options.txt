@@ -37,19 +37,19 @@
 1 Pithing Needle
 2 Pithing Needle
 1 Goblin Trashmaster
-1 Ricochet Trap
 1 Surgical Extraction
+1 Ricochet Trap
 2 Ricochet Trap
-1 Alpine Moon
-1 Dismember
-2 Alpine Moon
-2 Dismember
-3 Alpine Moon
 1 Goblin Chainwhirler
 1 Pyrite Spellbomb
 2 Goblin Chainwhirler
 2 Pyrite Spellbomb
 3 Void Mirror
+1 Alpine Moon
+1 Dismember
+2 Alpine Moon
+2 Dismember
+3 Alpine Moon
 1 Deflecting Palm
 1 Kor Firewalker
 1 Rest in Peace
@@ -63,6 +63,11 @@
 1 Forked Bolt
 2 Forked Bolt
 3 Forked Bolt
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+3 Bonecrusher Giant
+4 Tormod's Crypt
+4 Bonecrusher Giant
 1 Leyline of the Void
 1 Searing Blood
 2 Shrine of Burning Rage
@@ -72,22 +77,17 @@
 3 Leyline of the Void
 3 Searing Blood
 4 Leyline of the Void
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-3 Bonecrusher Giant
-4 Tormod's Crypt
-4 Bonecrusher Giant
-1 Endurance
-1 Scavenging Ooze
-1 Loxodon Smiter
 1 Force of Vigor
-2 Endurance
-2 Scavenging Ooze
+1 Endurance
+1 Loxodon Smiter
+1 Scavenging Ooze
 2 Force of Vigor
+2 Endurance
 2 Loxodon Smiter
-3 Endurance
-3 Force of Vigor
+2 Scavenging Ooze
 3 Loxodon Smiter
+3 Force of Vigor
+3 Endurance
 4 Force of Vigor
 3 Life Goes On
 4 Claim the Firstborn
