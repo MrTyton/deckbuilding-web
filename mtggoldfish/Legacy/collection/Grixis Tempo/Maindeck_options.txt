@@ -22,9 +22,9 @@
 4 Volcanic Island
 2 Flooded Strand
 4 Scalding Tarn
+1 Watery Grave
 1 Steam Vents
 1 Death's Shadow
-1 Watery Grave
 2 Watery Grave
 2 Death's Shadow
 3 Death's Shadow
@@ -86,6 +86,12 @@
 2 Angrath's Rampage
 3 Angrath's Rampage
 3 Gurmag Angler
+1 Snapcaster Mage
+4 Snuff Out
+1 "Lifetime" Pass Holder
+2 "Lifetime" Pass Holder
+3 "Lifetime" Pass Holder
+4 "Lifetime" Pass Holder
 1 Chain Lightning
 1 Spell Snare
 1 Young Pyromancer
@@ -96,12 +102,6 @@
 3 Preordain
 3 Young Pyromancer
 4 Young Pyromancer
-1 Snapcaster Mage
-4 Snuff Out
-1 "Lifetime" Pass Holder
-2 "Lifetime" Pass Holder
-3 "Lifetime" Pass Holder
-4 "Lifetime" Pass Holder
 1 Cavern of Souls
 1 Unearth
 1 Doomsday
@@ -114,8 +114,8 @@
 3 Lotus Petal
 4 Doomsday
 1 Dark Ritual
-1 Malevolent Hermit
 1 Ox of Agonas
+1 Malevolent Hermit
 1 Cabal Therapy
 1 Arclight Phoenix
 1 Buried Alive

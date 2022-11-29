@@ -14,8 +14,8 @@
 2 The World Tree
 2 Fable of the Mirror-Breaker
 3 Unholy Heat
-3 Seasoned Pyromancer
 3 Karn, the Great Creator
+3 Seasoned Pyromancer
 4 Unholy Heat
 4 Mountain
 4 Coldsteel Heart
@@ -60,9 +60,9 @@
 1 Evelyn, the Covetous
 1 Blood Fountain
 1 Hero's Downfall
+1 Duress
 1 Divest
 1 Check for Traps
-1 Duress
 1 Whack
 1 Deadly Dispute
 1 The Haunt of Hightower
@@ -76,10 +76,10 @@
 2 Evelyn, the Covetous
 2 Blood Fountain
 2 Hero's Downfall
-2 The Meathook Massacre
 2 Divest
-2 Whack
+2 The Meathook Massacre
 2 Duress
+2 Whack
 2 Deadly Dispute
 2 Vampire of the Dire Moon
 2 Check for Traps
@@ -89,16 +89,6 @@
 3 Voldaren Bloodcaster
 3 Check for Traps
 4 Voldaren Bloodcaster
-1 Cragcrown Pathway
-1 Stomping Ground
-1 Urabrask, Heretic Praetor
-1 Klothys, God of Destiny
-2 Klothys, God of Destiny
-2 Urabrask, Heretic Praetor
-2 Stomping Ground
-3 Field of Ruin
-3 Fable of the Mirror-Breaker
-4 Seasoned Pyromancer
 1 Hive of the Eye Tyrant
 3 Knight of the Ebon Legion
 4 Knight of the Ebon Legion
@@ -110,14 +100,14 @@
 2 Hive of the Eye Tyrant
 3 Thoughtseize
 4 Thoughtseize
-1 Gutterbones
+1 Spawn of Mayhem
 1 Demonic Embrace
+1 Gutterbones
 1 Rotting Regisaur
 1 Tenacious Underdog
 1 Rankle, Master of Pranks
 1 Eliminate
 1 Fatal Push
-1 Spawn of Mayhem
 1 Sheoldred, the Apocalypse
 2 Spawn of Mayhem
 2 Eliminate
@@ -135,6 +125,16 @@
 3 Tenacious Underdog
 4 Tenacious Underdog
 4 Gutterbones
+1 Cragcrown Pathway
+1 Stomping Ground
+1 Urabrask, Heretic Praetor
+1 Klothys, God of Destiny
+2 Urabrask, Heretic Praetor
+2 Klothys, God of Destiny
+2 Stomping Ground
+3 Field of Ruin
+3 Fable of the Mirror-Breaker
+4 Seasoned Pyromancer
 1 Solemn Simulacrum
 1 Sweltering Suns
 1 Maestros Theater
@@ -164,8 +164,8 @@
 1 Waste Not
 1 Painful Bond
 1 Tinybones, Trinket Thief
-2 Junji, the Midnight Sky
 2 Liliana of the Veil
+2 Junji, the Midnight Sky
 2 Snow-Covered Swamp
 2 Davriel, Rogue Shadowmage
 2 Bojuka Bog

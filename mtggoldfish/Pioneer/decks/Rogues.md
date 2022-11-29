@@ -130,7 +130,7 @@
 |                    1|[Dokuchi Silencer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548393)         |                     |                                                                                                    |
 |                    1|[Network Disruptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548369)        |                     |                                                                                                    |
 |                    2|[Network Disruptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548369)        |                     |                                                                                                    |
-|                    3|[Network Disruptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548369)        |                     |                                                                                                    |
 |                    3|[Of One Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479580)              |                     |                                                                                                    |
+|                    3|[Network Disruptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548369)        |                     |                                                                                                    |
 |                    4|[Network Disruptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548369)        |                     |                                                                                                    |
 
