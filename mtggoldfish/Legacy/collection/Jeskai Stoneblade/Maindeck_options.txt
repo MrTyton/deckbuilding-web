@@ -47,8 +47,8 @@
 1 Karakas
 1 Arid Mesa
 1 Snow-Covered Mountain
-2 Snow-Covered Island
 2 Snow-Covered Plains
+2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
 1 The Wandering Emperor
@@ -74,6 +74,7 @@
 2 Urza's Saga
 1 Loran of the Third Path
 1 Imperial Recruiter
+1 Fiery Islet
 1 Spell Queller
 1 Recruiter of the Guard
 1 Thalia, Guardian of Thraben
@@ -82,7 +83,6 @@
 1 Solitude
 1 Aether Vial
 1 Skyclave Apparition
-1 Fiery Islet
 1 Otawara, Soaring City
 1 Cavern of Souls
 1 Eiganjo, Seat of the Empire
@@ -145,10 +145,10 @@
 4 Command Performance
 4 Polluted Delta
 4 Urza's Saga
-1 Teferi, Hero of Dominaria
-1 Flusterstorm
 1 Comet, Stellar Pup
 1 Lion Sash
+1 Flusterstorm
+1 Teferi, Hero of Dominaria
 1 Bonesplitter
 1 Triumph of Saint Katherine
 2 Triumph of Saint Katherine
@@ -156,21 +156,21 @@
 1 Dress Down
 2 Timeless Dragon
 2 Dress Down
+4 Volcanic Island
 1 Red Elemental Blast
-2 Misty Rainforest
 2 Red Elemental Blast
+2 Misty Rainforest
 3 Lightning Bolt
 4 Lightning Bolt
-4 Volcanic Island
 1 Sevinne's Reclamation
+1 Preordain
 1 Hullbreacher
 1 Ancient Tomb
 1 Day's Undoing
-1 Preordain
 1 Karn, the Great Creator
 2 Karn, the Great Creator
-2 Preordain
 2 Day's Undoing
+2 Preordain
 2 Hullbreacher
 2 Ancient Tomb
 3 Hullbreacher

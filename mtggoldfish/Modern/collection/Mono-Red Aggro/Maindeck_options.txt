@@ -1,12 +1,14 @@
+1 Apostle's Blessing
 2 Apostle's Blessing
-2 Wooded Foothills
 4 Arid Mesa
+3 Scalding Tarn
 1 Gut Shot
 1 Ragavan, Nimble Pilferer
 9 Mountain
 10 Mountain
 2 Ragavan, Nimble Pilferer
 1 Blood Moon
+11 Mountain
 1 Ramunap Ruins
 2 Ramunap Ruins
 2 Sokenzan, Crucible of Defiance
@@ -20,43 +22,42 @@
 3 Seasoned Pyromancer
 3 Fury
 4 Ragavan, Nimble Pilferer
+1 Light Up the Night
 1 Eidolon of the Great Revel
 1 Spikefield Hazard
+2 Light Up the Night
 2 Spikefield Hazard
+2 Blood Moon
 2 Eidolon of the Great Revel
 3 Ramunap Ruins
+3 Blood Moon
 3 Eidolon of the Great Revel
 3 Spikefield Hazard
 4 Ramunap Ruins
 4 Eidolon of the Great Revel
-11 Mountain
-4 Fury
-1 Light Up the Night
-2 Light Up the Night
-2 Blood Moon
-3 Blood Moon
 4 Blood Moon
+4 Fury
+2 Gut Shot
 3 Bonecrusher Giant
 4 Seasoned Pyromancer
-3 Scalding Tarn
-2 Gut Shot
+1 Chandra, Torch of Defiance
 1 Den of the Bugbear
 1 Magus of the Moon
+1 Chandra, Fire Artisan
 1 Torbran, Thane of Red Fell
 2 Torbran, Thane of Red Fell
-1 Chandra, Torch of Defiance
-1 Chandra, Fire Artisan
 12 Mountain
-1 Shatterskull Smashing
 1 Chandra, Dressed to Kill
 2 Chandra, Torch of Defiance
+4 Scalding Tarn
+1 Shatterskull Smashing
+2 Chandra, Fire Artisan
 1 Leyline of Combustion
 2 Leyline of Combustion
 3 Leyline of Combustion
 4 Leyline of Combustion
-4 Scalding Tarn
-2 Chandra, Fire Artisan
 3 Bloodstained Mire
+1 Bedlam Reveler
 1 Fiery Islet
 1 Sunbaked Canyon
 1 Chandra, Awakened Inferno
@@ -64,14 +65,16 @@
 4 Wooded Foothills
 4 Bloodstained Mire
 1 Squee, Dubious Monarch
-1 Bedlam Reveler
 1 Unholy Heat
-2 Den of the Bugbear
-3 Den of the Bugbear
 1 Lava Spike
 2 Lava Spike
 3 Lava Spike
 4 Lava Spike
+1 Ancestral Anger
+2 Ancestral Anger
+2 Bedlam Reveler
+3 Ancestral Anger
+4 Ancestral Anger
 1 Mutavault
 3 Light Up the Night
 3 Chandra, Torch of Defiance
@@ -97,10 +100,11 @@
 1 Reckless Impulse
 2 Reckless Impulse
 3 Reckless Impulse
-2 Shatterskull Smashing
 1 Goblin Guide
 2 Goblin Guide
+2 Den of the Bugbear
 3 Goblin Guide
+3 Den of the Bugbear
 4 Goblin Guide
 1 Relic of Progenitus
 1 Pillar of Flame
@@ -119,11 +123,6 @@
 1 Legion Warboss
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
-1 Ancestral Anger
-2 Ancestral Anger
-2 Bedlam Reveler
-3 Ancestral Anger
-4 Ancestral Anger
 1 Goblin Blast-Runner
 1 Mine Collapse
 2 Goblin Blast-Runner
@@ -155,20 +154,6 @@
 3 Rift Bolt
 4 Unholy Heat
 4 Rift Bolt
-1 Bomat Courier
-1 Moonveil Regent
-1 Runaway Steam-Kin
-1 Robber of the Rich
-1 Castle Embereth
-2 Bomat Courier
-2 Robber of the Rich
-2 Runaway Steam-Kin
-3 Bomat Courier
-3 Runaway Steam-Kin
-3 Robber of the Rich
-4 Reckless Impulse
-4 Sunbaked Canyon
-4 Runaway Steam-Kin
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 2 Fiery Islet
@@ -181,15 +166,18 @@
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
 10 Snow-Covered Mountain
-1 Nykthos, Shrine to Nyx
-1 Purphoros, God of the Forge
-1 Shinka, the Bloodsoaked Keep
-2 Magus of the Moon
-3 Magus of the Moon
-3 Torbran, Thane of Red Fell
-3 Shatterskull Smashing
-4 Den of the Bugbear
-4 Spikefield Hazard
-4 Shatterskull Smashing
-4 Bonecrusher Giant
-4 Torbran, Thane of Red Fell
+1 Bomat Courier
+1 Moonveil Regent
+1 Castle Embereth
+1 Runaway Steam-Kin
+1 Robber of the Rich
+2 Bomat Courier
+2 Robber of the Rich
+2 Shatterskull Smashing
+2 Runaway Steam-Kin
+3 Bomat Courier
+3 Runaway Steam-Kin
+3 Robber of the Rich
+4 Sunbaked Canyon
+4 Reckless Impulse
+4 Runaway Steam-Kin

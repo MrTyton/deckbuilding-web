@@ -86,6 +86,6 @@
 |                    4|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)|                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)        |
 |                     |                                                                                                 |                    2|[Sylvan Messenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=27666)       |
 |                     |                                                                                                 |                    2|[Circle of Dreams Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527463)|
-|                     |                                                                                                 |                    3|[Circle of Dreams Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527463)|
 |                     |                                                                                                 |                    3|[Realmwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503804)           |
+|                     |                                                                                                 |                    3|[Circle of Dreams Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=527463)|
 

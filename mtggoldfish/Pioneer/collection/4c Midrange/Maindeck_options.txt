@@ -77,14 +77,14 @@
 4 Risen Reef
 2 Sacred Foundry
 3 Mountain
-3 Temple Garden
 1 Adarkar Wastes
 1 Eldrazi Displacer
 1 Yavimaya Coast
 2 Yavimaya Coast
 2 Adarkar Wastes
-3 Adarkar Wastes
 3 Yavimaya Coast
+3 Adarkar Wastes
+3 Temple Garden
 1 Valakut Exploration
 1 Sokenzan, Crucible of Defiance
 1 Druid Class
@@ -223,10 +223,6 @@
 3 Izzet Charm
 3 Bring to Light
 4 Izzet Charm
-1 Cavalier of Thorns
-2 Cavalier of Thorns
-3 Cavalier of Thorns
-4 Voice of Resurgence
 1 Unclaimed Territory
 1 Awaken the Woods
 1 Tangled Florahedron
@@ -245,6 +241,10 @@
 3 Omnath, Locus of the Roil
 4 Secluded Courtyard
 4 Omnath, Locus of the Roil
+1 Cavalier of Thorns
+2 Cavalier of Thorns
+3 Cavalier of Thorns
+4 Voice of Resurgence
 1 Shatterskull Smashing
 1 Turntimber Symbiosis
 1 Felidar Retreat
