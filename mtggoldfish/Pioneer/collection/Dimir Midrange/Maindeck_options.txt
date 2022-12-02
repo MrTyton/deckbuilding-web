@@ -32,6 +32,7 @@
 1 Blood Fountain
 1 Sai, Master Thopterist
 1 Metallic Rebuke
+1 Temple of Deceit
 1 Ugin, the Spirit Dragon
 1 Whir of Invention
 1 Inventors' Fair
@@ -42,7 +43,6 @@
 1 Battle at the Bridge
 1 Ugin, the Ineffable
 1 Mox Amber
-1 Temple of Deceit
 1 Tezzeret, Master of the Bridge
 1 Karn, the Great Creator
 2 Metallic Rebuke
@@ -60,6 +60,7 @@
 1 Rona's Vortex
 1 Tezzeret, Betrayer of Flesh
 1 Crumbling Vestige
+1 Ashnod, Flesh Mechanist
 1 Liberator, Urza's Battlethopter
 1 Wash Away
 1 Arcane Proxy
@@ -72,15 +73,14 @@
 1 Hall of Tagsin
 1 Nashi, Moon Sage's Scion
 1 Noxious Gearhulk
-1 Ashnod, Flesh Mechanist
 1 Treasure Map
 2 Tezzeret, Betrayer of Flesh
 2 Arcane Proxy
+2 Ashnod, Flesh Mechanist
 2 Micromancer
 2 Emry, Lurker of the Loch
 2 Treasure Map
 2 Raffine's Tower
-2 Ashnod, Flesh Mechanist
 3 Treasure Vault
 3 Micromancer
 3 Mox Amber
@@ -116,9 +116,9 @@
 1 Phyrexian Fleshgorger
 1 Extinction Event
 1 Baleful Mastery
-2 Malakir Rebirth
 2 Phyrexian Fleshgorger
 2 Chart a Course
+2 Malakir Rebirth
 3 Phyrexian Fleshgorger
 3 Chart a Course
 4 Treasure Cruise

@@ -48,7 +48,7 @@
 |                    2|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)        |                    3|[Fury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522202)             |
 |                    3|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)        |                    2|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)      |
 |                    4|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)        |                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)      |
-|                    1|[March of Reckless Joy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548458)|                    3|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)   |
+|                    3|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)            |                    3|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)   |
+|                    1|[March of Reckless Joy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548458)|                     |                                                                                            |
 |                    2|[Dead/Gone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126419)            |                     |                                                                                            |
-|                    3|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)            |                     |                                                                                            |
 

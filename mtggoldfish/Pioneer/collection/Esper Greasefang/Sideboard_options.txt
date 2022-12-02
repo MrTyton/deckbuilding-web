@@ -1,24 +1,24 @@
-2 Disdainful Stroke
-1 Spell Pierce
-1 Negate
-2 Negate
-1 Portable Hole
-1 Vanishing Verse
 2 Vanishing Verse
-1 Kaito Shizuki
+1 Portable Hole
+2 Dovin's Veto
+1 Monastery Mentor
+2 Monastery Mentor
 2 Portable Hole
-2 Noxious Grasp
+1 Jace, Wielder of Mysteries
+1 Noxious Grasp
+1 Fracture
+1 Kaito Shizuki
 1 Heartless Act
-2 Kaito Shizuki
 3 Portable Hole
 4 Portable Hole
 2 Heartless Act
-1 Silence
-2 Silence
+2 Noxious Grasp
+2 Kaito Shizuki
 1 Eliminate
-1 Fracture
 1 Narset, Parter of Veils
 1 Pithing Needle
+1 Silence
+2 Silence
 1 Graveyard Trespasser
 2 Graveyard Trespasser
 1 Skysovereign, Consul Flagship
@@ -28,6 +28,13 @@
 1 Teferi, Hero of Dominaria
 1 Extinction Event
 2 Narset, Parter of Veils
+1 Duress
+1 Sheoldred, the Apocalypse
+1 Wedding Announcement
+2 Sheoldred, the Apocalypse
+2 Wedding Announcement
+2 Duress
+3 Wedding Announcement
 3 Vanishing Verse
 1 Reidane, God of the Worthy
 1 Dream Trawler
@@ -43,7 +50,6 @@
 2 Temporary Lockdown
 2 Supreme Verdict
 1 Raffine, Scheming Seer
-1 Duress
 1 Tormod's Crypt
 1 Heliod's Intervention
 1 Collective Brutality
@@ -61,12 +67,6 @@
 1 Brazen Borrower
 1 Fatal Push
 2 Brazen Borrower
-1 Sheoldred, the Apocalypse
-1 Wedding Announcement
-2 Sheoldred, the Apocalypse
-2 Wedding Announcement
-2 Duress
-3 Wedding Announcement
 3 Monastery Mentor
 1 Liliana of the Veil
 1 Obzedat, Ghost Council
@@ -90,6 +90,8 @@
 2 Eliminate
 2 Disenchant
 3 Unlicensed Hearse
+1 Swan Song
+4 Spell Pierce
 1 Skyclave Apparition
 1 Reckoner Bankbuster
 1 Make Disappear
@@ -98,8 +100,6 @@
 3 Skyclave Apparition
 3 Make Disappear
 4 Skyclave Apparition
-1 Swan Song
-4 Spell Pierce
 1 Faithful Mending
 1 Grafdigger's Cage
 2 Grafdigger's Cage

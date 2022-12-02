@@ -1,14 +1,14 @@
 1 Spell Pierce
-1 Snow-Covered Swamp
 1 Snow-Covered Mountain
+1 Snow-Covered Swamp
 2 Spell Pierce
 4 Ledger Shredder
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
 3 Fatal Push
 2 Lightning Bolt
 3 Lightning Bolt
 4 Lightning Bolt
-1 Inquisition of Kozilek
-2 Inquisition of Kozilek
 1 Verdant Catacombs
 3 Blood Crypt
 1 Marsh Flats
@@ -26,15 +26,28 @@
 4 Street Wraith
 4 Blood Crypt
 2 Terminate
-1 Silent Clearing
 1 Temur Battle Rage
+1 Silent Clearing
 1 Nurturing Peatland
 2 Temur Battle Rage
 1 Fiery Islet
 1 Mountain
-4 Fatal Push
 1 Island
 1 Dress Down
+4 Fatal Push
+1 Murktide Regent
+2 Murktide Regent
+1 Stubborn Denial
+1 Consider
+2 Island
+2 Stubborn Denial
+2 Consider
+3 Watery Grave
+3 Murktide Regent
+3 Consider
+4 Murktide Regent
+4 Consider
+4 Watery Grave
 1 Giver of Runes
 1 Godless Shrine
 4 Marsh Flats
@@ -44,27 +57,14 @@
 2 Giver of Runes
 2 Dauthi Voidwalker
 2 Claim/Fame
+3 Giver of Runes
 3 Kroxa, Titan of Death's Hunger
 3 Dauthi Voidwalker
-3 Giver of Runes
 3 Claim/Fame
 4 Dauthi Voidwalker
+4 Giver of Runes
 4 Claim/Fame
 4 Kroxa, Titan of Death's Hunger
-4 Giver of Runes
-1 Murktide Regent
-2 Murktide Regent
-1 Consider
-1 Stubborn Denial
-2 Island
-2 Consider
-2 Stubborn Denial
-3 Watery Grave
-3 Murktide Regent
-3 Consider
-4 Murktide Regent
-4 Consider
-4 Watery Grave
 2 Dress Down
 4 Scalding Tarn
 1 Counterspell
@@ -96,19 +96,16 @@
 1 Plains
 1 Seasoned Pyromancer
 2 Path to Exile
-2 Ranger-Captain of Eos
 2 Prismatic Ending
 2 Boros Charm
 2 Sacred Foundry
+2 Ranger-Captain of Eos
 2 Seasoned Pyromancer
 2 Orzhov Charm
 2 Arid Mesa
 3 Prismatic Ending
 3 Arid Mesa
 4 Arid Mesa
-1 Tainted Indulgence
-3 Night's Whisper
-4 Night's Whisper
 1 Archmage's Charm
 2 Archmage's Charm
 3 Island
@@ -119,3 +116,6 @@
 2 Serum Visions
 3 Serum Visions
 4 Serum Visions
+1 Tainted Indulgence
+3 Night's Whisper
+4 Night's Whisper

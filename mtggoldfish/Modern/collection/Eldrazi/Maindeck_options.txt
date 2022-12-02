@@ -47,9 +47,9 @@
 3 Noble Hierarch
 4 Noble Hierarch
 4 Fable of the Mirror-Breaker
-1 Temple Garden
 1 Brushland
 1 Path to Exile
+1 Temple Garden
 1 Eldrazi Displacer
 1 Plains
 2 Brushland
@@ -73,18 +73,18 @@
 2 Boreal Druid
 1 Birds of Paradise
 4 Windswept Heath
-1 Sea Gate Wreckage
-1 Island
 1 Hallowed Fountain
+1 Sea Gate Wreckage
+1 Prismatic Ending
+1 Eternal Witness
+1 Island
 1 Yavimaya Coast
 1 Breeding Pool
-1 Prismatic Ending
 1 Drowner of Hope
 1 Engineered Explosives
-1 Eternal Witness
 1 Stubborn Denial
-2 Drowner of Hope
 2 Prismatic Ending
+2 Drowner of Hope
 2 Engineered Explosives
 2 Yavimaya Coast
 2 Stubborn Denial
@@ -92,19 +92,19 @@
 3 Drowner of Hope
 1 Gemstone Caverns
 4 Mountain
-1 Batterskull
-1 Sword of Fire and Ice
-1 Kaldra Compleat
 1 Field of Ruin
 1 Stoneforge Mystic
+1 Kaldra Compleat
+1 Sword of Fire and Ice
+1 Batterskull
 2 Plains
 2 Stoneforge Mystic
+3 Stoneforge Mystic
 3 Brushland
 3 Path to Exile
-3 Stoneforge Mystic
+4 Stoneforge Mystic
 4 Brushland
 4 Path to Exile
-4 Stoneforge Mystic
 2 Relic of Progenitus
 3 Relic of Progenitus
 1 Spatial Contortion
@@ -114,6 +114,8 @@
 1 Abundant Harvest
 2 Abundant Harvest
 2 Boseiju, Who Endures
+1 Weather the Storm
+1 Shapers' Sanctuary
 1 Tormod's Crypt
 1 Veil of Summer
 1 Thrun, the Last Troll
@@ -121,28 +123,26 @@
 1 Old-Growth Troll
 1 Rancor
 1 Hashep Oasis
-1 Shapers' Sanctuary
 1 Questing Beast
 1 Strangleroot Geist
-1 Weather the Storm
 1 Treetop Village
 1 Vines of Vastwood
+2 Waterlogged Grove
+2 Shapers' Sanctuary
+2 Weather the Storm
 2 Veil of Summer
+2 Tormod's Crypt
 2 Old-Growth Troll
 2 Vines of Vastwood
-2 Weather the Storm
 2 Questing Beast
-2 Shapers' Sanctuary
-2 Tormod's Crypt
-2 Waterlogged Grove
 2 Hashep Oasis
 2 Strangleroot Geist
+3 Tormod's Crypt
 3 Vines of Vastwood
 3 Forest
 3 Strangleroot Geist
-3 Tormod's Crypt
-4 Strangleroot Geist
 4 Forest
+4 Strangleroot Geist
 5 Forest
 6 Forest
 1 Eternal Scourge
@@ -158,9 +158,9 @@
 2 Flame Slash
 2 Phyrexian Revoker
 1 Endbringer
-1 Shadowspear
-1 Pyrite Spellbomb
 1 Urza's Saga
+1 Pyrite Spellbomb
+1 Shadowspear
 1 Wrenn and Six
 2 Urza's Saga
 2 Endbringer
