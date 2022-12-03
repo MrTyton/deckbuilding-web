@@ -1,97 +1,84 @@
-3 Preordain
-1 Scalding Tarn
 2 Polluted Delta
+3 Preordain
+1 Flooded Strand
 1 Sylvan Library
 2 Scalding Tarn
-2 Impulse
 2 Flooded Strand
+2 Impulse
 1 Drawn from Dreams
+1 City of Traitors
 4 Preordain
-1 Endurance
 3 Emrakul, the Aeons Torn
 1 Flusterstorm
 1 Island
 2 Island
 3 Island
-4 Island
-1 City of Traitors
-1 Boseiju, Who Shelters All
-4 Cunning Wish
 1 Lotus Petal
-2 Tropical Island
-3 Snow-Covered Forest
-2 Lotus Petal
-3 Impulse
+4 Island
+4 Cunning Wish
 3 Polluted Delta
+2 Tropical Island
+1 Boseiju, Who Shelters All
+1 Endurance
+3 Snow-Covered Forest
+3 Impulse
 1 Spell Pierce
 2 City of Traitors
-1 Carpet of Flowers
-4 Impulse
-2 Spell Pierce
-2 Flusterstorm
+2 Lotus Petal
+4 Polluted Delta
 1 Thoughtseize
-1 Snow-Covered Swamp
 1 Underground Sea
 2 Thoughtseize
 2 Underground Sea
-4 Veil of Summer
+4 Impulse
+2 Spell Pierce
+1 Profane Tutor
+2 Profane Tutor
+3 Thoughtseize
+3 Profane Tutor
+4 Profane Tutor
+1 Sea Gate Restoration
+1 Snow-Covered Swamp
+2 Flusterstorm
+1 Carpet of Flowers
 2 Mystic Sanctuary
 1 Eureka
+1 Lim-Dul's Vault
+1 Duress
+2 Sea Gate Restoration
+2 Intuition
 5 Island
 6 Island
 3 Ancient Tomb
-1 Sea Gate Restoration
 3 Lotus Petal
+1 Otawara, Soaring City
 3 Flooded Strand
 3 Scalding Tarn
-4 Polluted Delta
-1 Otawara, Soaring City
 1 Swan Song
 1 Twincast
 2 Boseiju, Who Shelters All
 2 Swan Song
 2 Drawn from Dreams
 3 Drawn from Dreams
+4 Veil of Summer
 1 Predict
 2 Predict
 3 Predict
 4 Predict
-1 Archon of Cruelty
-1 Reanimate
-1 Entomb
-1 Shallow Grave
-1 Animate Dead
-1 Emrakul, the Promised End
-1 Exhume
-2 Archon of Cruelty
-2 Snow-Covered Swamp
-2 Entomb
-2 Exhume
-2 Griselbrand
-3 Entomb
-3 Exhume
-3 Underground Sea
-4 Underground Sea
-4 Entomb
-1 Profane Tutor
-1 Duress
-2 Profane Tutor
-3 Thoughtseize
-3 Profane Tutor
-4 Profane Tutor
+3 Sea Gate Restoration
 1 Monster Manual
-2 Intuition
 1 One with the Multiverse
 1 Boseiju, Who Endures
 6 Snow-Covered Island
 7 Snow-Covered Island
 1 Venser, Shaper Savant
-2 Sea Gate Restoration
 1 Volcanic Island
 1 Tundra
 1 Plains
 4 Flooded Strand
+3 Underground Sea
 1 Breeding Pool
+1 Fatal Push
 1 Brazen Borrower
 2 Boseiju, Who Endures
 3 Uro, Titan of Nature's Wrath
@@ -101,15 +88,15 @@
 2 One with the Multiverse
 2 Eureka
 3 Endurance
-1 Fatal Push
-1 Lim-Dul's Vault
-3 Sea Gate Restoration
 1 Vendilion Clique
 2 Vendilion Clique
 2 Sylvan Library
 2 Monster Manual
 3 Sylvan Library
 3 Monster Manual
+1 Daze
+2 Daze
+3 Daze
 1 Narset, Parter of Veils
 1 Hullbreaker Horror
 1 Expressive Iteration
@@ -121,14 +108,16 @@
 2 Volcanic Island
 3 Volcanic Island
 4 Scalding Tarn
+1 Swamp
+4 Thoughtseize
 1 Stoneforge Mystic
 1 Batterskull
 1 Teferi, Time Raveler
 1 Snapcaster Mage
 1 Swords to Plowshares
 2 Stoneforge Mystic
-2 Teferi, Time Raveler
 2 Plains
+2 Teferi, Time Raveler
 2 Swords to Plowshares
 3 Swords to Plowshares
 4 Swords to Plowshares
@@ -137,6 +126,22 @@
 2 Orim's Chant
 3 Orim's Chant
 4 Orim's Chant
+1 Archon of Cruelty
+1 Emrakul, the Promised End
+1 Reanimate
+1 Entomb
+1 Shallow Grave
+1 Exhume
+1 Animate Dead
+2 Archon of Cruelty
+2 Snow-Covered Swamp
+2 Entomb
+2 Exhume
+2 Griselbrand
+3 Entomb
+3 Exhume
+4 Underground Sea
+4 Entomb
 1 Spy Network
 1 Forest
 2 Spy Network

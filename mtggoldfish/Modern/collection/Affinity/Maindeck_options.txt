@@ -1,9 +1,9 @@
-1 Ingenious Smith
-2 Ingenious Smith
 3 Ingenious Smith
 4 Ingenious Smith
-2 Nettlecyst
+4 Esper Sentinel
+4 Portable Hole
 2 Plains
+2 Nettlecyst
 1 Eiganjo, Seat of the Empire
 1 Kaldra Compleat
 1 Stoneforge Mystic
@@ -24,18 +24,17 @@
 1 Dispatch
 1 Power Conduit
 1 Lightning Greaves
-2 Dispatch
 2 The Restoration of Eiganjo
+2 Dispatch
 2 Power Conduit
-3 Dispatch
 3 The Restoration of Eiganjo
+3 Dispatch
 4 The Restoration of Eiganjo
 4 Dispatch
 3 Patchwork Automaton
 4 Patchwork Automaton
 11 Plains
 2 Silverbluff Bridge
-2 Island
 3 Power Conduit
 1 Soul-Guide Lantern
 3 Treasure Vault
@@ -44,21 +43,15 @@
 3 Mistvault Bridge
 4 Mistvault Bridge
 2 Welding Jar
+2 Island
 1 Razortide Bridge
 4 Power Conduit
-1 Hallowed Fountain
 1 Glimmervoid
 1 Gingerbrute
 1 Spire of Industry
 2 Spire of Industry
 2 Razortide Bridge
-1 Metallic Rebuke
-1 Seachrome Coast
-2 Metallic Rebuke
-2 Hallowed Fountain
-2 Seachrome Coast
-3 Seachrome Coast
-3 Metallic Rebuke
+1 Hallowed Fountain
 1 Watery Grave
 1 Cliffhaven Kitesail
 1 Eiganjo Castle
@@ -77,16 +70,19 @@
 4 Ephemerate
 12 Plains
 2 Relic of Progenitus
+1 Metallic Rebuke
 1 Teferi, Time Raveler
+1 Seachrome Coast
 1 Urza, Lord High Artificer
+2 Seachrome Coast
+2 Metallic Rebuke
 2 Teferi, Time Raveler
 2 Urza, Lord High Artificer
+2 Hallowed Fountain
+3 Seachrome Coast
 3 Hallowed Fountain
+3 Metallic Rebuke
 3 Urza, Lord High Artificer
-1 Flooded Strand
-2 Flooded Strand
-3 Flooded Strand
-4 Seachrome Coast
 3 Razortide Bridge
 1 Etched Champion
 3 Silverbluff Bridge
@@ -105,14 +101,18 @@
 1 Galvanic Blast
 2 Galvanic Blast
 3 Galvanic Blast
-1 Meria, Scholar of Antiquity
+1 Flooded Strand
+2 Flooded Strand
+3 Flooded Strand
 1 Tanglepool Bridge
-2 Meria, Scholar of Antiquity
+1 Meria, Scholar of Antiquity
 2 Etched Champion
 2 Tanglepool Bridge
+2 Meria, Scholar of Antiquity
 2 Otawara, Soaring City
 3 Spire of Industry
 3 Meria, Scholar of Antiquity
+4 Seachrome Coast
 1 Michiko's Reign of Truth
 1 Hex Parasite
 1 Inkmoth Nexus
@@ -139,10 +139,3 @@
 3 Mox Amber
 4 Underworld Breach
 4 Emry, Lurker of the Loch
-1 Moonsnare Prototype
-2 Moonsnare Prototype
-3 Nettlecyst
-3 Moonsnare Prototype
-4 Metallic Rebuke
-4 Moonsnare Prototype
-4 Nettlecyst
