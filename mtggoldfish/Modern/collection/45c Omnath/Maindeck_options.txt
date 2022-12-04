@@ -1,15 +1,17 @@
+1 Risen Reef
 2 Risen Reef
 3 Risen Reef
 4 Risen Reef
+1 Zagoth Triome
+2 Boseiju, Who Endures
 1 Endurance
 3 Fury
 1 Titania, Protector of Argoth
-1 Dress Down
-1 Zagoth Triome
 1 Teferi, Hero of Dominaria
-2 Boseiju, Who Endures
+2 Dress Down
 1 Snow-Covered Island
 1 Snow-Covered Plains
+4 Counterspell
 1 Oath of Nissa
 2 Oath of Nissa
 3 Oath of Nissa
@@ -17,6 +19,8 @@
 1 Ephemerate
 1 Otawara, Soaring City
 1 Snow-Covered Forest
+1 Eladamri's Call
+2 Teferi, Hero of Dominaria
 1 Dryad of the Ilysian Grove
 1 Valakut, the Molten Pinnacle
 1 Scapeshift
@@ -29,10 +33,6 @@
 3 Dryad of the Ilysian Grove
 4 Dryad of the Ilysian Grove
 4 Bring to Light
-2 Dress Down
-1 Eladamri's Call
-2 Teferi, Hero of Dominaria
-4 Counterspell
 1 Savai Triome
 1 Supreme Verdict
 1 Ketria Triome
@@ -49,17 +49,36 @@
 3 Lightning Bolt
 1 Wooded Foothills
 1 Indatha Triome
-1 Soul of Windgrace
-1 Mountain
+1 Jace, the Mind Sculptor
 1 Spara's Headquarters
-1 Watery Grave
+1 Soul of Windgrace
 1 Overgrown Tomb
-1 Xander's Lounge
 2 Endurance
 1 Arboreal Grazer
 2 Stomping Ground
 2 Arboreal Grazer
 3 Arboreal Grazer
+1 Archmage's Charm
+2 Scalding Tarn
+2 Archmage's Charm
+3 Archmage's Charm
+4 Archmage's Charm
+1 Mountain
+3 Ephemerate
+1 Watery Grave
+1 Xander's Lounge
+2 Wooded Foothills
+3 Dress Down
+2 Island
+1 Unholy Heat
+2 Unholy Heat
+1 Mulldrifter
+3 Ketria Triome
+1 Flamekin Harbinger
+2 Flamekin Harbinger
+3 Flamekin Harbinger
+3 Cavern of Souls
+4 Ephemerate
 1 Fire/Ice
 1 Time Warp
 1 Jetmir's Garden
@@ -79,25 +98,6 @@
 4 Soul of Windgrace
 4 Xander's Lounge
 4 Search for Tomorrow
-1 Archmage's Charm
-2 Scalding Tarn
-2 Archmage's Charm
-3 Archmage's Charm
-4 Archmage's Charm
-1 Jace, the Mind Sculptor
-3 Ephemerate
-2 Wooded Foothills
-3 Dress Down
-2 Island
-1 Unholy Heat
-2 Unholy Heat
-1 Mulldrifter
-3 Ketria Triome
-1 Flamekin Harbinger
-2 Flamekin Harbinger
-3 Flamekin Harbinger
-3 Cavern of Souls
-4 Ephemerate
 1 Fable of the Mirror-Breaker
 1 Blood Crypt
 1 Bloodstained Mire
@@ -117,6 +117,7 @@
 4 Fable of the Mirror-Breaker
 4 Ragavan, Nimble Pilferer
 4 Lightning Bolt
+2 Jace, the Mind Sculptor
 2 Hallowed Fountain
 3 Scalding Tarn
 1 Foundation Breaker
@@ -132,10 +133,9 @@
 1 Subtlety
 1 Force of Negation
 2 Snow-Covered Island
-2 Jace, the Mind Sculptor
+1 Tranquil Thicket
 1 Utopia Sprawl
 1 Life from the Loam
-1 Tranquil Thicket
 1 Secluded Steppe
 1 Nissa, Steward of Elements
 2 Utopia Sprawl

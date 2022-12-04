@@ -4,20 +4,20 @@
 1 Thran Portal
 1 Kami's Flare
 3 Reckless Stormseeker
-1 Wedding Announcement
-1 Intrepid Adversary
-2 Thran Portal
-3 Thran Portal
-1 Phoenix Chick
-2 Phoenix Chick
 1 Baird, Argivian Recruiter
 1 Anointed Peacekeeper
-1 Serra Paragon
+1 Wedding Announcement
+2 Thran Portal
+3 Thran Portal
+2 Anointed Peacekeeper
+1 Intrepid Adversary
+1 Phoenix Chick
+2 Phoenix Chick
 1 Sungold Sentinel
+1 Serra Paragon
 2 Valorous Stance
 4 Reckless Stormseeker
 1 Squee, Dubious Monarch
-2 Anointed Peacekeeper
 4 Guardian of New Benalia
 3 Phoenix Chick
 4 Phoenix Chick
@@ -36,20 +36,21 @@
 4 Brutal Cathar
 1 Angelfire Ignition
 1 Rending Flame
-1 Destroy Evil
+1 Thalia, Guardian of Thraben
+2 Thalia, Guardian of Thraben
 1 Extraction Specialist
+1 Destroy Evil
 1 Resolute Reinforcements
 1 Shivan Devastator
 1 Wind-Scarred Crag
 1 Radha's Firebrand
+3 Adeline, Resplendent Cathar
 10 Mountain
 11 Mountain
 3 Anointed Peacekeeper
 2 Destroy Evil
 2 Serra Paragon
 2 Jetmir's Garden
-1 Thalia, Guardian of Thraben
-2 Thalia, Guardian of Thraben
 2 Radha's Firebrand
 3 Radha's Firebrand
 3 Kami's Flare
@@ -58,13 +59,18 @@
 1 Siege Veteran
 2 Siege Veteran
 3 Siege Veteran
+3 Thalia, Guardian of Thraben
+1 Battlefield Forge
+2 Battlefield Forge
+3 Battlefield Forge
+4 Battlefield Forge
 2 Rending Flame
 12 Mountain
 13 Mountain
 1 Atsushi, the Blazing Sky
 2 Wind-Scarred Crag
-3 Adeline, Resplendent Cathar
 1 March of Otherworldly Light
+1 The Wandering Emperor
 10 Plains
 1 Rabbit Battery
 1 Professional Face-Breaker
@@ -76,14 +82,23 @@
 1 Flame Channeler
 2 Flame Channeler
 3 Sungold Sentinel
-2 Resolute Reinforcements
-3 Resolute Reinforcements
-4 Resolute Reinforcements
+4 Wedding Announcement
 2 Sokenzan, Crucible of Defiance
 2 Shivan Devastator
 3 Shivan Devastator
 4 Shivan Devastator
-4 Wedding Announcement
+1 Plaza of Heroes
+1 Feldon, Ronom Excavator
+1 Recommission
+2 The Wandering Emperor
+2 Plaza of Heroes
+2 Recommission
+2 Feldon, Ronom Excavator
+3 Recommission
+4 Adeline, Resplendent Cathar
+2 Resolute Reinforcements
+3 Resolute Reinforcements
+4 Resolute Reinforcements
 1 Recruitment Officer
 2 Recruitment Officer
 3 Recruitment Officer
@@ -92,7 +107,6 @@
 1 Depopulate
 2 Depopulate
 3 Serra Paragon
-3 Thalia, Guardian of Thraben
 4 Thalia, Guardian of Thraben
 1 Volatile Arsonist
 2 Volatile Arsonist
@@ -101,26 +115,22 @@
 3 Volatile Arsonist
 4 Rending Flame
 4 Volatile Arsonist
-1 Battlefield Forge
 1 Monastery Swiftspear
-2 Battlefield Forge
 2 Monastery Swiftspear
-3 Battlefield Forge
 3 Monastery Swiftspear
-4 Battlefield Forge
 4 Siege Veteran
 4 Monastery Swiftspear
-1 Hammerhand
 1 Twinferno
-1 Lizard Blades
 1 Illuminator Virtuoso
 1 Rem Karolus, Stalwart Slayer
+1 Hammerhand
+1 Lizard Blades
 1 Homestead Courage
-2 Hammerhand
 2 Illuminator Virtuoso
 2 Rem Karolus, Stalwart Slayer
 2 Lizard Blades
 2 Twinferno
+2 Hammerhand
 2 Angelfire Ignition
 2 Homestead Courage
 3 Angelfire Ignition
@@ -128,8 +138,8 @@
 3 Hammerhand
 3 Homestead Courage
 3 Illuminator Virtuoso
-4 Homestead Courage
 4 Hammerhand
+4 Homestead Courage
 4 Illuminator Virtuoso
 4 Angelfire Ignition
 1 Borrowed Time
@@ -140,20 +150,19 @@
 15 Mountain
 16 Mountain
 17 Mountain
-1 Welcoming Vampire
 1 The Restoration of Eiganjo
 1 Raffine's Informant
 1 Mage's Attendant
+1 Welcoming Vampire
 1 Riveteers Requisitioner
 1 Michiko's Reign of Truth
-1 The Wandering Emperor
 1 Unlicensed Hearse
+1 Reckoner Bankbuster
 1 Banishing Slash
-1 Lion Sash
 1 Cemetery Gatekeeper
+1 Lion Sash
 1 Manaform Hellkite
 1 Investigator's Journal
-1 Reckoner Bankbuster
 1 Roadside Reliquary
 1 Ogre-Head Helm
 1 Fable of the Mirror-Breaker

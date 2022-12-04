@@ -1,6 +1,6 @@
-1 Spell Pierce
-1 Snow-Covered Mountain
+2 Fatal Push
 1 Snow-Covered Swamp
+1 Snow-Covered Mountain
 4 Ledger Shredder
 2 Spell Pierce
 3 Fatal Push
@@ -18,17 +18,17 @@
 2 Street Wraith
 3 Street Wraith
 4 Street Wraith
+1 Silent Clearing
 1 Scourge of the Skyclaves
+1 Nurturing Peatland
+1 Temur Battle Rage
 2 Swamp
 2 Verdant Catacombs
 2 Scourge of the Skyclaves
+2 Temur Battle Rage
 3 Scourge of the Skyclaves
 4 Scourge of the Skyclaves
 4 Blood Crypt
-1 Temur Battle Rage
-1 Silent Clearing
-1 Nurturing Peatland
-2 Temur Battle Rage
 1 Island
 1 Dress Down
 1 Mountain
@@ -45,13 +45,13 @@
 4 Murktide Regent
 4 Consider
 4 Watery Grave
-4 Fatal Push
 1 Fiery Islet
-2 Terminate
 1 Counterspell
 2 Counterspell
 3 Counterspell
 4 Counterspell
+4 Fatal Push
+2 Terminate
 1 Night's Whisper
 1 Murderous Cut
 1 Flooded Strand
@@ -71,55 +71,41 @@
 1 Archmage's Charm
 2 Archmage's Charm
 4 Misty Rainforest
-1 Giver of Runes
-1 Godless Shrine
-4 Marsh Flats
 1 Tainted Indulgence
 1 Eliminate
 3 Verdant Catacombs
 3 Island
-1 Path to Exile
-1 Ranger-Captain of Eos
-1 Solitude
-1 Kaya's Guile
-1 Prismatic Ending
-1 Arid Mesa
-1 Orzhov Charm
-1 Boros Charm
-1 Sacred Foundry
-1 Plains
-1 Seasoned Pyromancer
-2 Path to Exile
-2 Prismatic Ending
-2 Boros Charm
-2 Sacred Foundry
-2 Ranger-Captain of Eos
-2 Seasoned Pyromancer
-2 Orzhov Charm
-2 Arid Mesa
-3 Prismatic Ending
-3 Arid Mesa
-4 Arid Mesa
 1 Brazen Borrower
 1 Serum Visions
 2 Murderous Cut
 2 Serum Visions
 3 Serum Visions
 4 Serum Visions
-1 Dauthi Voidwalker
-1 Claim/Fame
-2 Godless Shrine
-2 Dauthi Voidwalker
-2 Giver of Runes
-2 Claim/Fame
-3 Giver of Runes
-3 Kroxa, Titan of Death's Hunger
-3 Dauthi Voidwalker
-3 Claim/Fame
-4 Giver of Runes
-4 Dauthi Voidwalker
-4 Claim/Fame
-4 Kroxa, Titan of Death's Hunger
+1 Path to Exile
+1 Giver of Runes
+1 Ranger-Captain of Eos
+1 Solitude
+1 Kaya's Guile
+1 Arid Mesa
+1 Orzhov Charm
+1 Prismatic Ending
+1 Boros Charm
+1 Godless Shrine
+1 Sacred Foundry
+1 Plains
+1 Seasoned Pyromancer
+2 Prismatic Ending
+2 Path to Exile
+2 Ranger-Captain of Eos
+2 Boros Charm
+2 Sacred Foundry
+2 Seasoned Pyromancer
+2 Orzhov Charm
+2 Arid Mesa
+3 Prismatic Ending
+3 Arid Mesa
+4 Arid Mesa
+4 Marsh Flats
 1 Dismember
 2 Dismember
 3 Archmage's Charm

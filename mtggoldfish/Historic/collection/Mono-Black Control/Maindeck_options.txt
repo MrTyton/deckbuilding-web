@@ -15,8 +15,8 @@
 2 Seasoned Pyromancer
 2 Bonecrusher Giant
 2 The World Tree
-3 Seasoned Pyromancer
 3 Unholy Heat
+3 Seasoned Pyromancer
 4 Unholy Heat
 4 Coldsteel Heart
 4 Mountain
@@ -115,15 +115,6 @@
 3 Voldaren Bloodcaster
 3 Check for Traps
 4 Voldaren Bloodcaster
-1 Stomping Ground
-1 Urabrask, Heretic Praetor
-1 Cragcrown Pathway
-1 Klothys, God of Destiny
-2 Urabrask, Heretic Praetor
-2 Stomping Ground
-2 Klothys, God of Destiny
-3 Fable of the Mirror-Breaker
-4 Seasoned Pyromancer
 1 Spawn of Mayhem
 1 Demonic Embrace
 1 Gutterbones
@@ -184,22 +175,31 @@
 4 Godless Shrine
 4 Inquisition of Kozilek
 4 Brightclimb Pathway
-1 Phyrexian Fleshgorger
 1 Malakir Rebirth
 1 Yahenni's Expertise
-2 Phyrexian Fleshgorger
+1 Phyrexian Fleshgorger
 2 Invoke Despair
 2 Malakir Rebirth
+2 Phyrexian Fleshgorger
 2 Yahenni's Expertise
+3 Castle Locthwain
 3 Malakir Rebirth
 3 Hive of the Eye Tyrant
 3 Phyrexian Fleshgorger
-3 Castle Locthwain
 3 Invoke Despair
 3 Fatal Push
 4 Malakir Rebirth
 4 Phyrexian Fleshgorger
 4 Invoke Despair
+1 Stomping Ground
+1 Urabrask, Heretic Praetor
+1 Cragcrown Pathway
+1 Klothys, God of Destiny
+2 Urabrask, Heretic Praetor
+2 Stomping Ground
+2 Klothys, God of Destiny
+3 Fable of the Mirror-Breaker
+4 Seasoned Pyromancer
 1 Solemn Simulacrum
 1 Sweltering Suns
 1 Maestros Theater
@@ -223,8 +223,8 @@
 1 Painful Bond
 1 Gutmorn, Pactbound Servant
 1 Tinybones, Trinket Thief
-2 Snow-Covered Swamp
 2 Junji, the Midnight Sky
+2 Snow-Covered Swamp
 2 Davriel, Rogue Shadowmage
 2 Bojuka Bog
 2 Acquisitions Expert
