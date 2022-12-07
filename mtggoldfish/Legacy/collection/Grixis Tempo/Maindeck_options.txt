@@ -44,10 +44,10 @@
 3 Street Wraith
 4 Street Wraith
 3 Snuff Out
-1 Jace, Vryn's Prodigy
-2 Jace, Vryn's Prodigy
 1 Kaito Shizuki
 2 Kaito Shizuki
+1 Jace, Vryn's Prodigy
+2 Jace, Vryn's Prodigy
 3 Misty Rainforest
 3 Flooded Strand
 4 Flooded Strand
@@ -88,8 +88,12 @@
 3 Gurmag Angler
 1 Snapcaster Mage
 4 Snuff Out
-1 Spell Snare
+1 "Lifetime" Pass Holder
+2 "Lifetime" Pass Holder
+3 "Lifetime" Pass Holder
+4 "Lifetime" Pass Holder
 1 Chain Lightning
+1 Spell Snare
 1 Young Pyromancer
 1 Spell Pierce
 2 Spell Snare
@@ -98,10 +102,6 @@
 3 Preordain
 3 Young Pyromancer
 4 Young Pyromancer
-1 "Lifetime" Pass Holder
-2 "Lifetime" Pass Holder
-3 "Lifetime" Pass Holder
-4 "Lifetime" Pass Holder
 1 Cavern of Souls
 1 Unearth
 1 Temporal Mastery

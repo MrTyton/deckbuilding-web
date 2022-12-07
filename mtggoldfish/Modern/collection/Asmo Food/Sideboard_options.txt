@@ -1,47 +1,48 @@
-2 Fatal Push
-1 Haywire Mite
 2 Haywire Mite
 3 Haywire Mite
 3 Boseiju, Who Endures
 1 Orvar, the All-Form
 2 Orvar, the All-Form
 1 Pyrite Spellbomb
-3 Endurance
-4 Thoughtseize
 1 Veil of Summer
 2 Veil of Summer
+4 Thoughtseize
+1 Force of Vigor
+2 Force of Vigor
 1 Emrakul, the Aeons Torn
+3 Fatal Push
 1 Witherbloom Command
 2 Witherbloom Command
-3 Fatal Push
+3 Endurance
 4 Fatal Push
 3 Force of Vigor
 2 Soul-Guide Lantern
 1 Assassin's Trophy
 2 Assassin's Trophy
-3 Necromentia
 1 Trail of Crumbs
-1 Tear Asunder
 1 Bone Shards
 2 Bone Shards
 3 Assassin's Trophy
+3 Necromentia
 4 Assassin's Trophy
 1 Void Mirror
 1 Damping Sphere
-2 Tear Asunder
 2 Damping Sphere
 1 Jegantha, the Wellspring
 2 Void Mirror
 1 Engineered Explosives
-1 Grist, the Hunger Tide
 1 Tourach, Dread Cantor
 2 Tourach, Dread Cantor
+1 Grist, the Hunger Tide
 1 Fury
 1 Alpine Moon
 2 Fury
 2 Alpine Moon
 1 Flusterstorm
 2 Flusterstorm
+2 Nihil Spellbomb
+1 Outland Liberator
+1 Tear Asunder
 1 Surgical Extraction
 1 Grafdigger's Cage
 1 Metallic Rebuke
@@ -54,7 +55,6 @@
 1 Mystical Dispute
 1 Scavenging Ooze
 1 Relic of Progenitus
-1 Outland Liberator
 1 Time Sieve
 1 Teferi, Time Raveler
 1 Hallowed Moonlight
@@ -81,13 +81,13 @@
 1 Shriekmaw
 1 Wicked Wolf
 2 Shriekmaw
+2 Tear Asunder
 3 Tear Asunder
 2 Trail of Crumbs
 3 Trail of Crumbs
 3 Fury
 3 Soul-Guide Lantern
 4 Soul-Guide Lantern
-2 Nihil Spellbomb
 3 Flusterstorm
 4 Flusterstorm
 1 Invasive Surgery
@@ -99,6 +99,10 @@
 3 Unmoored Ego
 3 Invasive Surgery
 4 Invasive Surgery
+2 Outland Liberator
+3 Nihil Spellbomb
+4 Haywire Mite
+4 Nihil Spellbomb
 1 Fulminator Mage
 1 Portable Hole
 1 Wear/Tear

@@ -1,12 +1,12 @@
+1 Sarinth Steelseeker
+2 Sarinth Steelseeker
+3 Sarinth Steelseeker
+4 Sarinth Steelseeker
 1 Wooded Foothills
 1 Stomping Ground
 1 Wrenn and Six
 2 Wrenn and Six
 3 Wrenn and Six
-1 Sarinth Steelseeker
-2 Sarinth Steelseeker
-3 Sarinth Steelseeker
-4 Sarinth Steelseeker
 3 Feasting Troll King
 2 Stomping Ground
 2 Wooded Foothills
@@ -18,19 +18,21 @@
 3 Wooded Foothills
 4 Stomping Ground
 4 Feasting Troll King
-1 Urborg, Tomb of Yawgmoth
 4 Wooded Foothills
 3 Scrapwork Mutt
+4 Overgrown Tomb
+3 Witch's Oven
+1 Urborg, Tomb of Yawgmoth
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
-3 Witch's Oven
 1 Haywire Mite
 1 Gingerbread Cabin
 2 Grist, the Hunger Tide
 4 Witch's Oven
-4 Overgrown Tomb
 1 Soul-Guide Lantern
-1 Nihil Spellbomb
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Mishra's Bauble
 1 Academy Manufactor
 2 Academy Manufactor
 3 Academy Manufactor
@@ -38,12 +40,9 @@
 1 Time Sieve
 2 Time Sieve
 4 Academy Manufactor
-1 Mishra's Bauble
 1 Island
 1 Emry, Lurker of the Loch
-2 Mishra's Bauble
 2 Emry, Lurker of the Loch
-3 Mishra's Bauble
 3 Emry, Lurker of the Loch
 4 Mishra's Bauble
 3 Time Sieve
@@ -53,13 +52,12 @@
 1 Polluted Delta
 2 Watery Grave
 2 Polluted Delta
+4 Emry, Lurker of the Loch
 1 Ledger Shredder
 2 Ledger Shredder
 3 Ledger Shredder
 4 Ledger Shredder
-4 Emry, Lurker of the Loch
-1 Fatal Push
-2 Fatal Push
+1 Nihil Spellbomb
 1 Breeding Pool
 1 Aether Spellbomb
 3 Polluted Delta
@@ -70,10 +68,11 @@
 3 Grist, the Hunger Tide
 1 Prismatic Vista
 3 Fable of the Mirror-Breaker
-3 Fatal Push
 1 Blood Crypt
 1 Bloodstained Mire
 2 Bloodstained Mire
+1 Fatal Push
+2 Fatal Push
 1 Pyrite Spellbomb
 4 Polluted Delta
 1 Darkslick Shores
@@ -87,6 +86,7 @@
 1 Nurturing Peatland
 1 Darkbore Pathway
 2 Darkbore Pathway
+3 Fatal Push
 4 Time Sieve
 1 Hallowed Fountain
 1 Flooded Strand
@@ -115,16 +115,19 @@
 1 Ziatora's Proving Ground
 1 Minamo, School at Water's Edge
 2 Haywire Mite
+1 Snow-Covered Swamp
+1 Snow-Covered Forest
+2 Snow-Covered Forest
 2 Nurturing Peatland
 3 Darkslick Shores
 1 Life from the Loam
 2 Life from the Loam
 3 Life from the Loam
-1 Aether Vial
 1 Thought Monitor
+1 Aether Vial
 1 Brazen Borrower
-2 Brazen Borrower
 2 Thought Monitor
+2 Brazen Borrower
 3 Thought Monitor
 3 Flooded Strand
 4 Flooded Strand
