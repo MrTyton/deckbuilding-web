@@ -95,7 +95,7 @@
 |                     |                                                                                                |                    2|[Chrome Mox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413761)              |
 |                     |                                                                                                |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
 |                     |                                                                                                |                    3|[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135260)         |
-|                     |                                                                                                |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
 |                     |                                                                                                |                    3|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)          |
+|                     |                                                                                                |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
 |                     |                                                                                                |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
 
