@@ -1,15 +1,15 @@
+1 Phyrexian Dragon Engine
 3 Lotus Petal
 1 Lion's Eye Diamond
 1 Twinshot Sniper
 3 Grindstone
-1 Phyrexian Dragon Engine
+3 Great Furnace
 1 Sokenzan, Crucible of Defiance
 3 Simian Spirit Guide
 1 Chaos Defiler
-3 Great Furnace
-3 Karn, the Great Creator
 9 Mountain
 4 Lightning Bolt
+3 Karn, the Great Creator
 1 Wooded Foothills
 2 Wooded Foothills
 1 Pithing Needle
@@ -27,6 +27,7 @@
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 1 Shadowspear
+3 Fury
 1 Expedition Map
 1 Drossforge Bridge
 2 Drossforge Bridge
@@ -39,47 +40,46 @@
 9 Snow-Covered Mountain
 10 Snow-Covered Mountain
 1 Mishra's Research Desk
+1 Currency Converter
 1 Bloodstained Mire
 1 Wurmcoil Engine
 4 Lotus Petal
 2 Bloodstained Mire
-3 Fury
-4 Red Elemental Blast
-1 Currency Converter
+4 Great Furnace
+1 Retrofitter Foundry
 1 Arid Mesa
 2 Arid Mesa
-1 Retrofitter Foundry
 1 Chrome Mox
 2 Mox Opal
 3 Mox Opal
+1 Thoughtseize
 1 Dark Ritual
 1 Brainstone
 1 Swamp
 1 Tendrils of Agony
 1 Grim Monolith
+1 Wishclaw Talisman
 1 Infernal Tutor
 1 Duress
-1 Thoughtseize
-1 Wishclaw Talisman
 1 Ad Nauseam
 1 Urborg, Tomb of Yawgmoth
 2 Swamp
+2 Thoughtseize
 2 Dark Ritual
 2 Grim Monolith
 2 Chrome Mox
 2 Infernal Tutor
-2 Thoughtseize
 2 Duress
 2 Lion's Eye Diamond
 2 Wishclaw Talisman
 2 Urborg, Tomb of Yawgmoth
+3 Duress
 3 Swamp
+3 Thoughtseize
 3 Dark Ritual
 3 Chrome Mox
 3 Grim Monolith
 3 Infernal Tutor
-3 Thoughtseize
-3 Duress
 3 Lion's Eye Diamond
 4 Swamp
 4 Dark Ritual
@@ -95,18 +95,20 @@
 2 Aether Vial
 2 Wasteland
 3 Aether Vial
-1 Phyrexian Fleshgorger
-1 Mazemind Tome
-1 Blood Moon
 1 Darksteel Citadel
+1 Chandra, Heart of Fire
+1 Mazemind Tome
+1 Phyrexian Fleshgorger
+1 Blood Moon
 1 Spellskite
 1 Magus of the Moon
-1 Chandra, Heart of Fire
-2 Blood Moon
 2 Mazemind Tome
+2 Blood Moon
 2 Magus of the Moon
 1 Trinisphere
 1 Cavern of Souls
+1 Pyrite Spellbomb
+1 Ruin Grinder
 2 Expedition Map
 1 Nihil Spellbomb
 1 Badlands
@@ -121,20 +123,17 @@
 2 Cabal Ritual
 3 Wishclaw Talisman
 4 Duress
-1 Pyrite Spellbomb
-1 Ruin Grinder
-4 Great Furnace
-1 Otawara, Soaring City
-1 Hullbreacher
-1 Dack Fayden
 1 Island
+1 Hullbreacher
+1 Otawara, Soaring City
+1 Dack Fayden
 1 Echo of Eons
 1 Volcanic Island
 1 Seat of the Synod
+2 Island
 2 Dack Fayden
 2 Hullbreacher
 2 Scalding Tarn
-2 Island
 2 Echo of Eons
 3 Echo of Eons
 3 Hullbreacher
@@ -147,10 +146,10 @@
 1 Eiganjo, Seat of the Empire
 1 Esper Sentinel
 1 Portable Hole
+1 Karakas
 1 Crucible of Worlds
 1 Lion Sash
 1 Mother of Runes
-1 Karakas
 1 Oswald Fiddlebender
 1 Kaldra Compleat
 1 Ancient Den
@@ -172,9 +171,9 @@
 3 Ancient Den
 3 Stoneforge Mystic
 3 Oswald Fiddlebender
-4 Wasteland
 4 Esper Sentinel
 4 Plains
+4 Wasteland
 4 Ancient Den
 4 Stoneforge Mystic
 4 Oswald Fiddlebender

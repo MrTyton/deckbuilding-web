@@ -90,7 +90,6 @@
 4 Seasoned Pyromancer
 1 The Meathook Massacre
 1 Henrika Domnathi
-1 Voldaren Bloodcaster
 1 Evelyn, the Covetous
 1 Blood Fountain
 1 Duress
@@ -99,6 +98,7 @@
 1 Hero's Downfall
 1 Deadly Dispute
 1 Check for Traps
+1 Voldaren Bloodcaster
 1 Soul Transfer
 1 Vampire of the Dire Moon
 1 Nighthawk Scavenger
@@ -106,7 +106,6 @@
 1 Bloodbond Vampire
 1 The Haunt of Hightower
 2 The Meathook Massacre
-2 Voldaren Bloodcaster
 2 Soul Transfer
 2 Henrika Domnathi
 2 Check for Traps
@@ -115,6 +114,7 @@
 2 Divest
 2 Duress
 2 Whack
+2 Voldaren Bloodcaster
 2 Deadly Dispute
 2 Hero's Downfall
 2 Vampire of the Dire Moon
@@ -125,8 +125,8 @@
 3 Check for Traps
 4 Voldaren Bloodcaster
 1 Spawn of Mayhem
-1 Demonic Embrace
 1 Gutterbones
+1 Demonic Embrace
 1 Eliminate
 1 Rotting Regisaur
 1 Rankle, Master of Pranks
@@ -147,6 +147,7 @@
 1 Tergrid, God of Fright
 2 Waste Not
 3 Waste Not
+1 Castle Ardenvale
 1 Murderous Rider
 1 Phyrexian Arena
 1 Path of Peril
@@ -155,25 +156,24 @@
 1 Caves of Koilos
 1 Swarm Saboteur
 1 Godless Shrine
+1 Brightclimb Pathway
 1 Rite of Oblivion
 1 Black Market Connections
 1 Wrath of God
 1 Doom Foretold
-1 Brightclimb Pathway
 1 Eiganjo, Seat of the Empire
 1 Plains
 1 Day of Judgment
-1 Castle Ardenvale
 1 The Birth of Meletis
 2 Plains
 2 Path of Peril
 2 Concealed Courtyard
-2 Caves of Koilos
 2 Rite of Oblivion
+2 Caves of Koilos
 2 Swarm Saboteur
 2 Godless Shrine
-2 Doom Foretold
 2 Brightclimb Pathway
+2 Doom Foretold
 2 Black Market Connections
 2 The Birth of Meletis
 3 Inquisition of Kozilek
@@ -200,8 +200,8 @@
 4 Malakir Rebirth
 4 Phyrexian Fleshgorger
 4 Invoke Despair
-1 Solemn Simulacrum
 1 Maestros Theater
+1 Solemn Simulacrum
 1 Sweltering Suns
 2 Solemn Simulacrum
 3 Bonecrusher Giant
@@ -272,8 +272,8 @@
 2 Power Word Kill
 2 Nightmare
 2 Gray Merchant of Asphodel
-3 Power Word Kill
 3 Heartless Act
+3 Power Word Kill
 3 Warlock Class
 3 Malakir Cullblade
 4 Power Word Kill

@@ -1,72 +1,73 @@
-1 Mystic Sanctuary
 2 Polluted Delta
 2 True-Name Nemesis
-1 Pyroblast
-3 Volcanic Island
-1 Misty Rainforest
-1 Ethereal Forager
-2 Ethereal Forager
-3 Ethereal Forager
+1 Mystic Sanctuary
 3 True-Name Nemesis
 1 Stifle
 2 Stifle
 3 Stifle
-4 Stifle
-1 Snow-Covered Island
+1 Pyroblast
 1 Prismatic Vista
 2 Prismatic Vista
-1 Teferi, Time Raveler
-3 Prismatic Vista
-1 Jace, the Mind Sculptor
+1 Ethereal Forager
+2 Ethereal Forager
+3 Ethereal Forager
+3 Volcanic Island
+1 Misty Rainforest
 1 Snapcaster Mage
+4 Stifle
+3 Island
+2 Snapcaster Mage
+1 Teferi, Time Raveler
+1 Snow-Covered Island
+1 Jace, the Mind Sculptor
+3 Prismatic Vista
 1 Mountain
 1 Narset, Parter of Veils
 2 Teferi, Time Raveler
+4 Prismatic Ending
 1 Counterbalance
 4 Prismatic Vista
-2 Snapcaster Mage
-3 Island
 4 Island
+1 Karakas
 2 Plains
 1 Back to Basics
 2 Jace, the Mind Sculptor
 2 Back to Basics
-2 Murktide Regent
 1 Snow-Covered Plains
 3 Polluted Delta
 3 Snapcaster Mage
 3 Jace, the Mind Sculptor
+3 Scalding Tarn
+2 Murktide Regent
 3 Murktide Regent
-4 Prismatic Ending
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
 4 Murktide Regent
 4 Esper Sentinel
 4 Tundra
-1 Karakas
 1 Arid Mesa
 1 Snow-Covered Mountain
-2 Snow-Covered Island
 2 Snow-Covered Plains
+2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
 1 The Wandering Emperor
 5 Island
-1 Lightning Bolt
-2 Lightning Bolt
 1 Plateau
+1 Squadron Hawk
+1 Brazen Borrower
+2 Squadron Hawk
+3 Squadron Hawk
+4 Squadron Hawk
 5 Snow-Covered Island
 6 Snow-Covered Island
 6 Island
 2 Spell Pierce
 1 Supreme Verdict
-3 Scalding Tarn
-1 Dragon's Rage Channeler
-2 Dragon's Rage Channeler
-3 Dragon's Rage Channeler
-4 Dragon's Rage Channeler
 2 Narset, Parter of Veils
+1 Lightning Bolt
+2 Lightning Bolt
 1 Timeless Dragon
 1 Shadowspear
 1 Urza's Saga
@@ -76,11 +77,11 @@
 1 Fiery Islet
 1 Imperial Recruiter
 1 Spell Queller
-1 Recruiter of the Guard
 1 Thalia, Guardian of Thraben
 1 Venser, Shaper Savant
 1 Palace Jailer
 1 Solitude
+1 Recruiter of the Guard
 1 Cavern of Souls
 1 Skyclave Apparition
 1 Aether Vial
@@ -119,13 +120,14 @@
 4 Rattlechains
 4 Mausoleum Wanderer
 1 Pick-a-Beeble
-1 Swinging Ship
 1 Storybook Ride
 1 Bounce Chamber
 1 Information Booth
+1 Swinging Ship
 1 Hall of Mirrors
 1 Steam Vents
 1 Pithing Needle
+1 Caves of Chaos Adventurer
 1 Command Performance
 1 Aarakocra Sneak
 1 Clown Extruder
@@ -134,9 +136,8 @@
 1 Foam Weapons Kiosk
 1 Balloon Stand
 1 Drop Tower
-1 Caves of Chaos Adventurer
-2 Aarakocra Sneak
 2 Caves of Chaos Adventurer
+2 Aarakocra Sneak
 2 Command Performance
 3 Caves of Chaos Adventurer
 3 Urza's Saga
@@ -156,20 +157,15 @@
 1 Dress Down
 2 Timeless Dragon
 2 Dress Down
-1 Red Elemental Blast
-2 Red Elemental Blast
-2 Misty Rainforest
-3 Lightning Bolt
-4 Lightning Bolt
 4 Volcanic Island
-1 Preordain
 1 Sevinne's Reclamation
+1 Preordain
 1 Hullbreacher
 1 Ancient Tomb
 1 Day's Undoing
 1 Karn, the Great Creator
-2 Preordain
 2 Day's Undoing
+2 Preordain
 2 Hullbreacher
 2 Karn, the Great Creator
 2 Ancient Tomb
@@ -182,6 +178,10 @@
 2 Force of Negation
 4 Ethereal Forager
 1 Mishra's Bauble
+1 Dragon's Rage Channeler
 1 March of Otherworldly Light
 2 Mishra's Bauble
+2 Dragon's Rage Channeler
+3 Dragon's Rage Channeler
+4 Dragon's Rage Channeler
 4 Scalding Tarn

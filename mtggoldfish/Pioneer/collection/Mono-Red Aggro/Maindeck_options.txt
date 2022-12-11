@@ -5,32 +5,32 @@
 2 Torbran, Thane of Red Fell
 1 Embercleave
 1 Kari Zev, Skyship Raider
-1 Phoenix Chick
-2 Kari Zev, Skyship Raider
 1 Castle Embereth
+2 Kari Zev, Skyship Raider
 2 Embercleave
-4 Goblin Chainwhirler
+1 Phoenix Chick
 2 Phoenix Chick
+4 Goblin Chainwhirler
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
 1 Skewer the Critics
 2 Skewer the Critics
 3 Skewer the Critics
 4 Skewer the Critics
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
+2 Hazoret the Fervent
 3 Phoenix Chick
 4 Phoenix Chick
-14 Mountain
 3 Kari Zev, Skyship Raider
 2 Castle Embereth
+1 Burning-Tree Emissary
 1 Anax, Hardened in the Forge
 2 Anax, Hardened in the Forge
-3 Embercleave
-1 Burning-Tree Emissary
 2 Burning-Tree Emissary
+3 Embercleave
 3 Anax, Hardened in the Forge
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
-2 Hazoret the Fervent
+14 Mountain
 1 Fanatical Firebrand
 2 Fanatical Firebrand
 1 Viashino Pyromancer
@@ -45,26 +45,30 @@
 4 Wizard's Lightning
 4 Ghitu Lavarunner
 4 Viashino Pyromancer
-4 Chandra, Dressed to Kill
 3 Fanatical Firebrand
 4 Fanatical Firebrand
 3 Torbran, Thane of Red Fell
 4 Anax, Hardened in the Forge
-1 Wild Slash
-2 Wild Slash
+4 Chandra, Dressed to Kill
 1 Feldon, Ronom Excavator
 2 Feldon, Ronom Excavator
+1 Rampaging Ferocidon
+2 Rampaging Ferocidon
+3 Rampaging Ferocidon
+1 Wild Slash
+2 Wild Slash
+1 Mechanized Warfare
+2 Mechanized Warfare
 3 Spikefield Hazard
 3 Chandra, Torch of Defiance
 4 Spikefield Hazard
 3 Feldon, Ronom Excavator
 3 Castle Embereth
 4 Castle Embereth
-1 Mechanized Warfare
-2 Mechanized Warfare
-1 Rampaging Ferocidon
-2 Rampaging Ferocidon
-3 Rampaging Ferocidon
+1 Shatterskull Smashing
+1 Scavenger Grounds
+3 Hazoret the Fervent
+4 Rampaging Ferocidon
 1 Bomat Courier
 1 Burning Hands
 1 Experimental Frenzy
@@ -90,10 +94,6 @@
 2 Runaway Steam-Kin
 2 Zurgo Bellstriker
 3 Runaway Steam-Kin
-1 Shatterskull Smashing
-1 Scavenger Grounds
-3 Hazoret the Fervent
-4 Rampaging Ferocidon
 1 Earthshaker Khenra
 2 Earthshaker Khenra
 3 Earthshaker Khenra
@@ -106,7 +106,17 @@
 3 Reckless Bushwhacker
 4 Fervent Champion
 4 Reckless Bushwhacker
-1 Arni Brokenbrow
-2 Arni Brokenbrow
-15 Mountain
-16 Mountain
+1 Sacred Foundry
+1 Inspiring Vantage
+1 Needleverge Pathway
+1 Battlefield Forge
+2 Sacred Foundry
+2 Inspiring Vantage
+2 Battlefield Forge
+2 Needleverge Pathway
+3 Sacred Foundry
+3 Inspiring Vantage
+3 Needleverge Pathway
+4 Sacred Foundry
+4 Inspiring Vantage
+4 Needleverge Pathway
