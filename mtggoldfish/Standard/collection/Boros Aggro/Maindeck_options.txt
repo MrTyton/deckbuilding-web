@@ -76,14 +76,14 @@
 1 Monastery Swiftspear
 2 Monastery Swiftspear
 3 Monastery Swiftspear
-1 Illuminator Virtuoso
 1 Homestead Courage
-2 Angelfire Ignition
+1 Illuminator Virtuoso
 2 Illuminator Virtuoso
+2 Angelfire Ignition
 2 Homestead Courage
+3 Illuminator Virtuoso
 3 Angelfire Ignition
 3 Homestead Courage
-3 Illuminator Virtuoso
 4 Homestead Courage
 4 Illuminator Virtuoso
 4 Angelfire Ignition
@@ -91,8 +91,8 @@
 1 March of Otherworldly Light
 1 The Wandering Emperor
 10 Plains
-1 Rabbit Battery
 1 Professional Face-Breaker
+1 Rabbit Battery
 2 Rabbit Battery
 3 Rabbit Battery
 4 Intrepid Adversary
@@ -105,6 +105,11 @@
 2 Atsushi, the Blazing Sky
 2 Take Up the Shield
 3 Take Up the Shield
+4 Wedding Announcement
+2 Sokenzan, Crucible of Defiance
+2 Shivan Devastator
+3 Shivan Devastator
+4 Shivan Devastator
 1 Feldon, Ronom Excavator
 1 Plaza of Heroes
 1 Recommission
@@ -114,17 +119,13 @@
 2 Feldon, Ronom Excavator
 3 Recommission
 4 Adeline, Resplendent Cathar
-2 Sokenzan, Crucible of Defiance
-2 Shivan Devastator
-3 Shivan Devastator
-4 Shivan Devastator
+2 Resolute Reinforcements
+3 Resolute Reinforcements
+4 Resolute Reinforcements
 1 Depopulate
 2 Depopulate
 3 Serra Paragon
 4 Thalia, Guardian of Thraben
-2 Resolute Reinforcements
-3 Resolute Reinforcements
-4 Resolute Reinforcements
 1 Volatile Arsonist
 2 Volatile Arsonist
 3 Eiganjo, Seat of the Empire
@@ -132,20 +133,37 @@
 3 Volatile Arsonist
 4 Rending Flame
 4 Volatile Arsonist
-1 Rem Karolus, Stalwart Slayer
 1 Twinferno
+1 Rem Karolus, Stalwart Slayer
 1 Hammerhand
 1 Lizard Blades
 2 Rem Karolus, Stalwart Slayer
-2 Twinferno
 2 Lizard Blades
+2 Twinferno
 2 Hammerhand
 3 Lizard Blades
 3 Hammerhand
 4 Hammerhand
-4 Wedding Announcement
-4 Siege Veteran
-4 Monastery Swiftspear
+1 Roadside Reliquary
+1 The Restoration of Eiganjo
+1 Welcoming Vampire
+1 Mage's Attendant
+1 Raffine's Informant
+1 Riveteers Requisitioner
+1 Unlicensed Hearse
+1 Cemetery Gatekeeper
+1 Banishing Slash
+1 Reckoner Bankbuster
+1 Manaform Hellkite
+1 Lion Sash
+1 Investigator's Journal
+1 Ogre-Head Helm
+1 Fable of the Mirror-Breaker
+1 Michiko's Reign of Truth
+1 Goro-Goro, Disciple of Ryusei
+3 Wind-Scarred Crag
+4 Wind-Scarred Crag
+11 Plains
 1 Borrowed Time
 2 Squee, Dubious Monarch
 2 Borrowed Time
@@ -154,23 +172,5 @@
 15 Mountain
 16 Mountain
 17 Mountain
-1 Roadside Reliquary
-1 Raffine's Informant
-1 The Restoration of Eiganjo
-1 Welcoming Vampire
-1 Mage's Attendant
-1 Riveteers Requisitioner
-1 Michiko's Reign of Truth
-1 Unlicensed Hearse
-1 Cemetery Gatekeeper
-1 Manaform Hellkite
-1 Reckoner Bankbuster
-1 Banishing Slash
-1 Lion Sash
-1 Investigator's Journal
-1 Ogre-Head Helm
-1 Fable of the Mirror-Breaker
-1 Goro-Goro, Disciple of Ryusei
-3 Wind-Scarred Crag
-4 Wind-Scarred Crag
-11 Plains
+4 Siege Veteran
+4 Monastery Swiftspear

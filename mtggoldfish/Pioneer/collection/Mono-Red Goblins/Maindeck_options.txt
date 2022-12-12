@@ -1,14 +1,14 @@
 1 Goblin Ringleader
 4 Conspicuous Snoop
 2 Goblin Ringleader
-4 Fanatical Firebrand
-4 Den of the Bugbear
 2 Mutavault
 3 Goblin Warchief
-4 Goblin Instigator
+4 Fanatical Firebrand
 4 Goblin Warchief
-3 Goblin Piledriver
+4 Goblin Instigator
+4 Den of the Bugbear
 3 Goblin Ringleader
+3 Goblin Piledriver
 17 Mountain
 4 Goblin Ringleader
 1 Ramunap Ruins
@@ -21,16 +21,15 @@
 4 Reckless Bushwhacker
 18 Mountain
 1 Goblin Heelcutter
-4 Goblin Piledriver
 2 Goblin Rabblemaster
-1 Fable of the Mirror-Breaker
-2 Fable of the Mirror-Breaker
 19 Mountain
 2 Goblin Heelcutter
-2 Ramunap Ruins
+4 Goblin Piledriver
+1 Fable of the Mirror-Breaker
+2 Fable of the Mirror-Breaker
 1 Roast
 2 Roast
-3 Squee, Dubious Monarch
+2 Ramunap Ruins
 3 Mutavault
 1 Krenko, Tin Street Kingpin
 1 Legion Warboss
@@ -39,12 +38,6 @@
 2 Frenzied Goblin
 3 Frenzied Goblin
 4 Frenzied Goblin
-1 Goblin Trashmaster
-1 Spikefield Hazard
-1 Siege-Gang Commander
-2 Spikefield Hazard
-4 Castle Embereth
-20 Mountain
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -62,3 +55,9 @@
 15 Snow-Covered Mountain
 16 Snow-Covered Mountain
 17 Snow-Covered Mountain
+20 Mountain
+1 Goblin Trashmaster
+1 Spikefield Hazard
+1 Siege-Gang Commander
+2 Spikefield Hazard
+4 Castle Embereth

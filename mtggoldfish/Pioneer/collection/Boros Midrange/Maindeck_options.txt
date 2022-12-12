@@ -5,8 +5,8 @@
 3 Thraben Inspector
 3 Extraction Specialist
 4 Fabled Passage
-4 Chained to the Rocks
 4 Charming Prince
+4 Chained to the Rocks
 4 Thraben Inspector
 1 Conclave Tribunal
 2 Conclave Tribunal
@@ -20,8 +20,8 @@
 2 Field of Ruin
 2 Elspeth Conquers Death
 1 Ambitious Farmhand
-1 Lay Down Arms
 1 Raugrin Triome
+1 Lay Down Arms
 2 Ambitious Farmhand
 2 Lay Down Arms
 3 Lay Down Arms
@@ -45,8 +45,8 @@
 3 Ambitious Farmhand
 3 Demolition Field
 1 Mutavault
-1 Goblin Cratermaker
 1 Cabaretti Courtyard
+1 Goblin Cratermaker
 1 Tocasia's Welcome
 1 Abrade
 1 Renegade Map
@@ -67,8 +67,8 @@
 4 Battlefield Forge
 3 March of Otherworldly Light
 1 Fateful Absence
-1 Drannith Magistrate
 1 Outlaws' Merriment
+1 Drannith Magistrate
 1 Brutal Cathar
 1 Urabrask, Heretic Praetor
 2 Fateful Absence
@@ -85,53 +85,54 @@
 5 Mountain
 6 Mountain
 1 Cleansing Wildfire
-1 Spikefield Hazard
-1 Blast Zone
 1 Darksteel Citadel
+1 Fires of Invention
 1 Anger of the Gods
 1 Golos, Tireless Pilgrim
+1 Blast Zone
 1 Cascading Cataracts
-1 Fires of Invention
+1 Spikefield Hazard
 1 Cavalier of Flame
 2 Cleansing Wildfire
-2 Spikefield Hazard
 2 Cascading Cataracts
 2 Darksteel Citadel
-2 Anger of the Gods
 2 Fires of Invention
+2 Anger of the Gods
+2 Spikefield Hazard
 2 Golos, Tireless Pilgrim
 2 Cavalier of Flame
 3 Cleansing Wildfire
-3 Spikefield Hazard
 3 Golos, Tireless Pilgrim
 3 Darksteel Citadel
+3 Fires of Invention
 3 Anger of the Gods
+3 Spikefield Hazard
 3 Cavalier of Flame
 3 Cascading Cataracts
-3 Fires of Invention
 4 Cleansing Wildfire
+4 Fires of Invention
 4 Field of Ruin
 4 Cascading Cataracts
 4 Cavalier of Flame
 4 Spikefield Hazard
-4 Fires of Invention
 1 Light Up the Night
 1 Chandra, Heart of Fire
 1 Reidane, God of the Worthy
 2 Reidane, God of the Worthy
-4 Archon of Emeria
 4 Sundown Pass
+4 Archon of Emeria
 1 Sunscourge Champion
 1 Mila, Crafty Companion
 2 Sunscourge Champion
 4 Conclave Tribunal
-1 Elspeth, Sun's Champion
+1 Snow-Covered Mountain
 1 Mazemind Tome
 1 Settle the Wreckage
 1 Gideon, Ally of Zendikar
+1 Elspeth, Sun's Champion
 1 Thalia's Lancers
-1 Chandra, Awakened Inferno
 1 Gideon of the Trials
+1 Chandra, Awakened Inferno
 1 Search for Glory
 1 Snow-Covered Plains
 1 Bruna, the Fading Light
@@ -143,27 +144,26 @@
 1 Arch of Orazca
 1 Furycalm Snarl
 1 Glorious End
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
 2 Mazemind Tome
-2 Gideon, Ally of Zendikar
+2 Snow-Covered Mountain
 2 Gideon of the Trials
+2 Settle the Wreckage
 2 Glorious End
 2 Furycalm Snarl
 2 Alpine Meadow
 2 Thalia's Lancers
-2 Settle the Wreckage
+2 Gideon, Ally of Zendikar
 2 Gisela, the Broken Blade
 2 Snow-Covered Plains
 2 Search for Glory
-3 Snow-Covered Mountain
 3 Mazemind Tome
+3 Snow-Covered Mountain
 3 Alpine Meadow
 3 Snow-Covered Plains
 3 Settle the Wreckage
 3 Search for Glory
-4 Snow-Covered Mountain
 4 Mazemind Tome
+4 Snow-Covered Mountain
 4 March of Otherworldly Light
 4 Alpine Meadow
 4 Snow-Covered Plains
@@ -205,14 +205,14 @@
 4 Battle Cry Goblin
 7 Mountain
 8 Mountain
-1 Sungold Sentinel
 1 Spirited Companion
+1 Sungold Sentinel
 1 Repair and Recharge
 1 Portal to Phyrexia
 1 Overwhelming Splendor
 1 Invoke Justice
-2 Sungold Sentinel
 2 Spirited Companion
+2 Sungold Sentinel
 2 Repair and Recharge
 2 Overwhelming Splendor
 2 Invoke Justice

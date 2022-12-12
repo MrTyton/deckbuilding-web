@@ -47,9 +47,9 @@
 1 Soul Transfer
 10 Swamp
 1 Concealing Curtains
-1 Atsushi, the Blazing Sky
 1 March of Wretched Sorrow
 1 Reckoner Bankbuster
+1 Atsushi, the Blazing Sky
 1 Florian, Voldaren Scion
 2 Jaya, Fiery Negotiator
 8 Mountain
@@ -78,11 +78,11 @@
 2 Phoenix Chick
 3 Phoenix Chick
 4 Phoenix Chick
-1 Jadar, Ghoulcaller of Nephalia
 1 Junji, the Midnight Sky
-1 Professional Face-Breaker
 1 Pilfer
+1 Professional Face-Breaker
 1 Bloodline Culling
+1 Jadar, Ghoulcaller of Nephalia
 1 Duress
 1 Evelyn, the Covetous
 1 Abrade
@@ -94,38 +94,43 @@
 1 Electrostatic Infantry
 1 Goblin Picker
 2 Ziatora's Proving Ground
-1 Mishra, Claimed by Gix
-1 Phyrexian Dragon Engine
-1 Gix, Yawgmoth Praetor
-2 Phyrexian Dragon Engine
-3 Phyrexian Dragon Engine
-1 Reckoner's Bargain
-1 Braids, Arisen Nightmare
 1 Henrika Domnathi
 1 Riveteers Requisitioner
 1 Bloody Betrayal
+1 Braids, Arisen Nightmare
 1 Eaten Alive
 1 Voltage Surge
 1 Anje, Maid of Dishonor
-2 Reckoner's Bargain
+1 Reckoner's Bargain
 2 Henrika Domnathi
 2 Riveteers Requisitioner
 2 Braids, Arisen Nightmare
-2 Voltage Surge
+2 Reckoner's Bargain
 2 Bloody Betrayal
-3 Reckoner's Bargain
+2 Voltage Surge
 3 Bloody Betrayal
 3 Braids, Arisen Nightmare
-2 The Meathook Massacre
-3 Strangle
-3 Liliana of the Veil
-4 Liliana of the Veil
-2 Radha's Firebrand
-3 Xander's Lounge
-3 Radha's Firebrand
-3 Ob Nixilis, the Adversary
-4 Xander's Lounge
-4 Radha's Firebrand
+3 Reckoner's Bargain
+1 Phyrexian Dragon Engine
+1 Gix, Yawgmoth Praetor
+1 Mishra, Claimed by Gix
+2 Phyrexian Dragon Engine
+3 Phyrexian Dragon Engine
+1 Murder
+1 Hurloon Battle Hymn
+1 Yotia Declares War
+1 Rundvelt Hordemaster
+2 Squee, Dubious Monarch
+2 Bloodfell Caves
+2 Reinforced Ronin
+2 Hurloon Battle Hymn
+2 Murder
+2 Yotia Declares War
+2 Battle-Rage Blessing
+3 Squee, Dubious Monarch
+3 Bloodfell Caves
+3 Reinforced Ronin
+4 Bloodfell Caves
 1 Hungry for More
 1 Light Up the Night
 1 The Elder Dragon War
@@ -136,37 +141,32 @@
 2 The Elder Dragon War
 2 Tainted Adversary
 2 Burn Down the House
-3 Light Up the Night
 3 Hungry for More
+3 Light Up the Night
 3 Tainted Adversary
 4 Tainted Adversary
-1 Yotia Declares War
-1 Murder
-1 Hurloon Battle Hymn
-1 Rundvelt Hordemaster
-2 Squee, Dubious Monarch
-2 Bloodfell Caves
-2 Yotia Declares War
-2 Reinforced Ronin
-2 Murder
-2 Hurloon Battle Hymn
-2 Battle-Rage Blessing
-3 Squee, Dubious Monarch
-3 Bloodfell Caves
-3 Reinforced Ronin
-4 Bloodfell Caves
+2 The Meathook Massacre
+3 Strangle
+3 Liliana of the Veil
+4 Liliana of the Veil
+2 Radha's Firebrand
+3 Xander's Lounge
+3 Radha's Firebrand
+3 Ob Nixilis, the Adversary
+4 Xander's Lounge
+4 Radha's Firebrand
 2 Sorin the Mirthless
 3 Jaya, Fiery Negotiator
 4 Cut Down
 4 Invoke Despair
 1 Garna, Bloodfist of Keld
-1 Extinguish the Light
 1 Bone Splinters
+1 Extinguish the Light
 1 Aggressive Sabotage
 1 Phyrexian Rager
 1 Phyrexian Vivisector
-2 Phyrexian Rager
 2 Aggressive Sabotage
+2 Phyrexian Rager
 2 Lagomos, Hand of Hatred
 2 Balduvian Atrocity
 2 Bone Splinters
@@ -187,8 +187,8 @@
 1 Kami's Flare
 1 Thran Portal
 1 Vampire Socialite
-2 Voldaren Epicure
 2 Sokenzan, Crucible of Defiance
+2 Voldaren Epicure
 2 Florian, Voldaren Scion
 2 Vampire Socialite
 2 Thran Portal
@@ -211,9 +211,9 @@
 1 Antagonize
 1 Abandon the Post
 2 Rending Flame
-2 Chandra, Dressed to Kill
 2 Stolen Vitality
 2 Antagonize
+2 Chandra, Dressed to Kill
 2 Shivan Devastator
 2 Abandon the Post
 3 Rending Flame

@@ -41,8 +41,8 @@
 2 Field of Ruin
 2 Censor
 2 Rest in Peace
-1 Spell Pierce
 1 Brazen Borrower
+1 Spell Pierce
 2 Spell Pierce
 1 Cave of the Frost Dragon
 4 Fateful Absence
@@ -51,17 +51,17 @@
 1 Seek New Knowledge
 2 Saiba Syphoner
 3 Saiba Syphoner
+1 Teferi, Who Slows the Sunset
+1 Gates of Istfell
 1 Cavalier of Gales
 1 Grafdigger's Cage
 1 Timely Reinforcements
-1 Gates of Istfell
 1 Signature Spells
 1 Key to the Archive
 1 Witness the Future
 1 Discover the Impossible
 1 Forsaken Crossroads
 1 Failure/Comply
-1 Teferi, Who Slows the Sunset
 1 Revitalize
 2 Teferi, Who Slows the Sunset
 2 Grafdigger's Cage
@@ -75,8 +75,8 @@
 3 Seek New Knowledge
 3 Revitalize
 3 Key to the Archive
-4 Island
 4 Saiba Syphoner
+4 Island
 1 Search for Azcanta
 1 Emeria's Call
 1 Discover the Formula
@@ -94,16 +94,24 @@
 4 The Wandering Emperor
 1 Raffine's Tower
 4 Supreme Verdict
-1 Lotus Field
+1 Opt
+1 Sphinx's Revelation
+2 Opt
+2 Otawara, Soaring City
+2 Sphinx's Revelation
+3 Opt
+4 Opt
+4 Dovin's Veto
 1 Stifle
-1 Strict Proctor
 1 Discontinuity
-2 Lotus Field
+1 Strict Proctor
+1 Lotus Field
 2 Discontinuity
 2 Strict Proctor
-3 Lotus Field
+2 Lotus Field
 3 Discontinuity
 3 Strict Proctor
+3 Lotus Field
 4 Lotus Field
 1 The Restoration of Eiganjo
 1 Karn, the Great Creator
@@ -123,14 +131,6 @@
 4 Karn, the Great Creator
 4 The Restoration of Eiganjo
 4 Plains
-1 Sphinx's Revelation
-1 Opt
-2 Otawara, Soaring City
-2 Sphinx's Revelation
-2 Opt
-3 Opt
-4 Dovin's Veto
-4 Opt
 1 Lazotep Plating
 1 Quench
 1 Mu Yanling, Sky Dancer
@@ -138,9 +138,9 @@
 4 Fragment Reality
 2 Mystical Dispute
 4 Divine Purge
+1 Devious Cover-Up
 1 Sea Gate Restoration
 1 Silundi Vision
-1 Devious Cover-Up
 1 Temple of Enlightenment
 1 Tranquil Cove
 1 Frantic Inventory
@@ -153,8 +153,8 @@
 3 Field of Ruin
 3 Frantic Inventory
 3 Silundi Vision
-4 Field of Ruin
 4 Absorb
+4 Field of Ruin
 4 Frantic Inventory
 4 Silundi Vision
 4 Portable Hole
