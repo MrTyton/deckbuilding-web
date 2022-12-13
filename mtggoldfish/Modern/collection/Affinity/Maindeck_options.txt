@@ -1,4 +1,3 @@
-2 Island
 3 Treasure Vault
 2 Nettlecyst
 1 Eiganjo, Seat of the Empire
@@ -8,8 +7,8 @@
 1 Ingenious Smith
 1 Kaldra Compleat
 1 Stoneforge Mystic
-2 Plains
 2 Portable Hole
+2 Plains
 2 Ingenious Smith
 2 Esper Sentinel
 2 Stoneforge Mystic
@@ -31,6 +30,7 @@
 10 Plains
 11 Plains
 1 Spire of Industry
+1 Silverbluff Bridge
 1 Soul-Guide Lantern
 1 The Restoration of Eiganjo
 1 Dispatch
@@ -53,11 +53,9 @@
 1 Razortide Bridge
 2 Razortide Bridge
 1 Glimmervoid
-1 Watery Grave
-1 Cliffhaven Kitesail
 3 Nettlecyst
-1 Ephemerate
 1 Combat Thresher
+1 Ephemerate
 1 Voyager Staff
 1 Solitude
 2 Ephemerate
@@ -66,8 +64,8 @@
 3 Ephemerate
 3 Combat Thresher
 3 Solitude
-4 Solitude
 4 Ephemerate
+4 Solitude
 4 Combat Thresher
 12 Plains
 1 Lightning Greaves
@@ -78,8 +76,10 @@
 2 Galvanic Blast
 3 Galvanic Blast
 1 Underground River
-1 Steam Vents
+1 Watery Grave
+1 Cliffhaven Kitesail
 1 Grafdigger's Cage
+1 Steam Vents
 1 Eiganjo Castle
 2 Tanglepool Bridge
 1 Ethersworn Sphinx

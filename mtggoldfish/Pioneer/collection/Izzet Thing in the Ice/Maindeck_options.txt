@@ -50,8 +50,8 @@
 1 Hullbreaker Horror
 2 Big Score
 2 Hullbreaker Horror
-3 Hullbreaker Horror
 3 Big Score
+3 Hullbreaker Horror
 4 Big Score
 4 Anticipate
 4 Flame-Blessed Bolt
@@ -68,6 +68,7 @@
 1 Izzet Charm
 1 Sulfur Falls
 1 Unexpected Windfall
+2 Quicken
 1 Obliterating Bolt
 2 Obliterating Bolt
 1 Chandra, Awakened Inferno
@@ -77,7 +78,6 @@
 1 Castle Vantress
 2 Teferi, Temporal Pilgrim
 2 Collective Defiance
-2 Quicken
 1 Make Disappear
 1 Glorybringer
 2 Make Disappear
@@ -87,18 +87,18 @@
 3 Glorybringer
 2 Prismari Command
 3 Prismari Command
-1 Lightning Axe
-1 Pieces of the Puzzle
-1 Temporal Trespass
 1 Galvanic Iteration
 1 Strategic Planning
-2 Lightning Axe
+1 Temporal Trespass
+1 Pieces of the Puzzle
+1 Lightning Axe
 2 Strategic Planning
+2 Lightning Axe
 3 Lightning Axe
 3 Strategic Planning
 4 Lightning Axe
-1 Abrade
 1 Censor
+1 Abrade
 2 Censor
 3 Censor
 4 Censor
@@ -111,12 +111,12 @@
 3 Young Pyromancer
 4 Young Pyromancer
 4 Spell Pierce
-1 Keranos, God of Storms
 1 Jace, Vryn's Prodigy
+1 Keranos, God of Storms
+1 Lightning Strike
 1 Chandra, Torch of Defiance
 1 Lava Coil
 1 Torrential Gearhulk
-1 Lightning Strike
 2 Mountain
 2 Jace, Vryn's Prodigy
 2 Izzet Charm
@@ -129,8 +129,8 @@
 3 Izzet Charm
 3 Lightning Strike
 3 Sulfur Falls
-4 Island
 4 Mountain
 4 Izzet Charm
+4 Island
 4 Sulfur Falls
 4 Lightning Strike

@@ -1,8 +1,8 @@
 1 Dovin's Veto
 3 Scalding Tarn
 3 Teferi, Time Raveler
-4 Scalding Tarn
 3 Dress Down
+4 Scalding Tarn
 1 Raugrin Triome
 1 Castle Vantress
 1 Zagoth Triome
@@ -14,6 +14,7 @@
 3 Snow-Covered Island
 4 Snow-Covered Island
 4 Prismatic Ending
+1 Fire/Ice
 1 Castle Ardenvale
 1 The Wandering Emperor
 1 Breeding Pool
@@ -35,9 +36,9 @@
 1 Kaldra Compleat
 2 Expressive Iteration
 2 Stoneforge Mystic
-3 Expressive Iteration
 3 Lightning Bolt
 3 Stoneforge Mystic
+3 Expressive Iteration
 4 Stoneforge Mystic
 4 Lightning Bolt
 1 Force of Negation
@@ -45,71 +46,40 @@
 1 Teferi, Hero of Dominaria
 2 March of Otherworldly Light
 2 Teferi, Hero of Dominaria
-1 Spell Pierce
 1 Consider
+1 Spell Pierce
 2 Consider
 3 Consider
 4 Consider
 4 Spirebluff Canal
-1 Subtlety
 1 Jace, the Mind Sculptor
+1 Subtlety
 2 Subtlety
-2 Plains
 1 Shadow of Doubt
 2 Shadow of Doubt
+2 Plains
 3 Hallowed Fountain
-1 Fire/Ice
 1 Spreading Seas
 2 Fire/Ice
 2 Spreading Seas
 3 Mystic Gate
-1 Opt
-1 Celestial Colonnade
-2 Castle Vantress
-2 Opt
-3 Opt
-4 Opt
 3 Polluted Delta
 4 Polluted Delta
+1 Opt
+1 Celestial Colonnade
+2 Opt
+2 Castle Vantress
+3 Opt
+4 Opt
 1 Batterskull
 1 Ragavan, Nimble Pilferer
 1 Sokenzan, Crucible of Defiance
-2 Spell Pierce
 2 Ragavan, Nimble Pilferer
+2 Spell Pierce
 3 Ragavan, Nimble Pilferer
 4 Snapcaster Mage
-4 Ragavan, Nimble Pilferer
 4 Expressive Iteration
-1 Zuran Orb
-1 Tolaria West
-1 Greater Gargadon
-1 Otherworldly Gaze
-1 Brazen Borrower
-1 As Foretold
-1 Finale of Promise
-1 Restore Balance
-1 Electrodominance
-1 Crashing Footfalls
-1 Mountain
-2 Brazen Borrower
-2 Greater Gargadon
-2 Otherworldly Gaze
-2 Electrodominance
-2 As Foretold
-2 Crashing Footfalls
-2 Restore Balance
-2 Force of Negation
-3 Otherworldly Gaze
-3 Electrodominance
-3 Crashing Footfalls
-3 As Foretold
-3 Greater Gargadon
-3 Restore Balance
-4 Otherworldly Gaze
-4 Crashing Footfalls
-4 Electrodominance
-4 As Foretold
-4 Restore Balance
+4 Ragavan, Nimble Pilferer
 1 Esper Sentinel
 1 Serra Paragon
 1 Geist of Saint Traft
@@ -127,26 +97,56 @@
 3 Geist of Saint Traft
 4 Esper Sentinel
 4 Fervent Champion
-1 Flagstones of Trokair
-1 Cryptic Command
+1 Tolaria West
+1 Greater Gargadon
+1 Brazen Borrower
+1 Otherworldly Gaze
+1 As Foretold
+1 Finale of Promise
+1 Restore Balance
+1 Electrodominance
+1 Crashing Footfalls
+1 Mountain
+1 Zuran Orb
+2 Brazen Borrower
+2 Greater Gargadon
+2 Force of Negation
+2 Electrodominance
+2 As Foretold
+2 Crashing Footfalls
+2 Restore Balance
+2 Otherworldly Gaze
+3 Otherworldly Gaze
+3 Electrodominance
+3 Crashing Footfalls
+3 As Foretold
+3 Greater Gargadon
+3 Restore Balance
+4 Crashing Footfalls
+4 Electrodominance
+4 As Foretold
+4 Restore Balance
+4 Otherworldly Gaze
 1 Fury
+1 Cryptic Command
+1 Flagstones of Trokair
 1 Blood Sun
 1 Seachrome Coast
 1 Valakut Awakening
 1 Lotus Field
-2 Flagstones of Trokair
-2 Cryptic Command
+2 Seachrome Coast
 2 Fury
+2 Cryptic Command
+2 Flagstones of Trokair
 2 Lotus Field
 2 Blood Sun
 2 Raugrin Triome
 2 Valakut Awakening
-2 Seachrome Coast
 3 Flagstones of Trokair
-3 Teferi, Hero of Dominaria
 3 Fury
 3 March of Otherworldly Light
 3 Valakut Awakening
+3 Teferi, Hero of Dominaria
 3 Lotus Field
 3 Cryptic Command
 3 Chalice of the Void

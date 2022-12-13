@@ -44,8 +44,8 @@
 2 Consider
 2 Stubborn Denial
 2 Island
-3 Murktide Regent
 3 Consider
+3 Murktide Regent
 4 Watery Grave
 4 Murktide Regent
 4 Consider
@@ -54,8 +54,8 @@
 2 Terminate
 1 Night's Whisper
 1 Flooded Strand
-2 Flooded Strand
 2 Night's Whisper
+2 Flooded Strand
 4 Fatal Push
 4 Scalding Tarn
 1 Misty Rainforest
@@ -68,6 +68,7 @@
 2 Misty Rainforest
 3 Misty Rainforest
 2 Murderous Cut
+1 Plains
 1 Prismatic Ending
 1 Giver of Runes
 1 Ranger-Captain of Eos
@@ -75,7 +76,6 @@
 1 Arid Mesa
 1 Godless Shrine
 1 Sacred Foundry
-1 Plains
 2 Seasoned Pyromancer
 2 Sacred Foundry
 2 Prismatic Ending
@@ -83,8 +83,8 @@
 2 Arid Mesa
 3 Prismatic Ending
 4 Marsh Flats
-1 Stomping Ground
 1 Overgrown Tomb
+1 Stomping Ground
 1 Tarmogoyf
 1 Squee, Dubious Monarch
 1 Sunbaked Canyon
@@ -108,6 +108,11 @@
 3 Archmage's Charm
 4 Archmage's Charm
 4 Misty Rainforest
+1 Serum Visions
+1 Brazen Borrower
+2 Serum Visions
+3 Serum Visions
+4 Serum Visions
 1 Boros Charm
 1 Path to Exile
 1 Solitude
@@ -118,29 +123,24 @@
 2 Orzhov Charm
 3 Arid Mesa
 4 Arid Mesa
-1 Serum Visions
-1 Brazen Borrower
-2 Serum Visions
-3 Serum Visions
-4 Serum Visions
-1 Boseiju, Who Endures
 1 Wooded Foothills
 1 Wrenn and Six
 1 Riveteers Charm
+1 Boseiju, Who Endures
 2 Wooded Foothills
 2 Riveteers Charm
 2 Tarmogoyf
 2 Wrenn and Six
 3 Riveteers Charm
-3 Inquisition of Kozilek
 3 Wooded Foothills
+3 Inquisition of Kozilek
 3 Verdant Catacombs
 3 Tarmogoyf
 4 Riveteers Charm
 4 Verdant Catacombs
 4 Tarmogoyf
-1 Become Immense
 1 Tarfire
+1 Become Immense
 1 Kiln Fiend
 1 Mutagenic Growth
 1 Monastery Swiftspear

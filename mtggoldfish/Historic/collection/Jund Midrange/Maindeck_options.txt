@@ -60,8 +60,8 @@
 1 Chandra, Torch of Defiance
 1 Takenuma, Abandoned Mire
 1 Elder Gargaroth
-1 Darkbore Pathway
 1 Valki, God of Lies
+1 Darkbore Pathway
 2 Elder Gargaroth
 2 Cragcrown Pathway
 1 Extinction Event
@@ -86,19 +86,19 @@
 2 Concealed Courtyard
 3 Concealed Courtyard
 1 Rahilda, Wanted Cutthroat
+1 Deathcap Glade
 1 Reckless Stormseeker
 1 Sarulf, Realm Eater
 1 Avabruck Caretaker
+1 Outland Liberator
 1 Bloodfell Caves
 1 Tovolar's Huntmaster
 1 Urborg Repossession
-1 Outland Liberator
 1 Tovolar, Dire Overlord
 1 End the Festivities
-1 Howlpack Piper
-1 Deathcap Glade
-1 Clawing Torment
 1 Arlinn, the Pack's Hope
+1 Howlpack Piper
+1 Clawing Torment
 1 Grave Choice
 1 Rugged Highlands
 1 Ill-Tempered Loner
@@ -134,8 +134,8 @@
 1 Davriel, Rogue Shadowmage
 2 Davriel, Rogue Shadowmage
 1 Sorin the Mirthless
-2 Valki, God of Lies
 2 Darkbore Pathway
+2 Valki, God of Lies
 1 Bedevil
 1 Invoke Despair
 1 Field of Ruin
@@ -178,6 +178,16 @@
 2 Isolated Chapel
 2 Invoke Despair
 2 March of Otherworldly Light
+1 Vraska, Golgari Queen
+1 Infernal Grasp
+1 Cling to Dust
+1 Goblin Dark-Dwellers
+1 Seasoned Pyromancer
+1 Soul-Guide Lantern
+1 Vraska, Relic Seeker
+2 Infernal Grasp
+2 Cling to Dust
+3 Darkbore Pathway
 1 Check for Traps
 2 Sorin the Mirthless
 2 Check for Traps
@@ -191,16 +201,6 @@
 3 Blooming Marsh
 3 Painful Bond
 3 Elder Gargaroth
-1 Vraska, Golgari Queen
-1 Infernal Grasp
-1 Cling to Dust
-1 Goblin Dark-Dwellers
-1 Seasoned Pyromancer
-1 Soul-Guide Lantern
-1 Vraska, Relic Seeker
-2 Infernal Grasp
-2 Cling to Dust
-3 Darkbore Pathway
 1 Swarm Saboteur
 2 Extinction Event
 2 March of Wretched Sorrow
@@ -253,14 +253,14 @@
 1 Werewolf Pack Leader
 4 Tenacious Pup
 4 Packsong Pup
-1 Terror of the Peaks
 1 Gruul Spellbreaker
+1 Terror of the Peaks
 1 Cut/Ribbons
 1 Glorybringer
 1 Find/Finality
 1 Seekers' Squire
-2 Terror of the Peaks
 2 Gruul Spellbreaker
+2 Terror of the Peaks
 2 Seekers' Squire
 3 Gruul Spellbreaker
 3 Seekers' Squire
@@ -277,14 +277,14 @@
 2 Graveyard Trespasser
 2 Heartless Act
 3 Bloodthirsty Adversary
-3 Mountain
 3 Graveyard Trespasser
+3 Mountain
 3 Town-Razer Tyrant
 4 Graveyard Trespasser
 4 Kolaghan's Command
-4 Mountain
 4 Town-Razer Tyrant
 4 Bloodthirsty Adversary
+4 Mountain
 5 Mountain
 1 Bounding Wolf
 1 Pack's Betrayal
