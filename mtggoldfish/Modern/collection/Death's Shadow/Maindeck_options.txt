@@ -1,44 +1,50 @@
-2 Spell Pierce
-2 Kroxa, Titan of Death's Hunger
-1 Fiery Islet
-4 Ledger Shredder
 3 Blood Crypt
-1 Verdant Catacombs
+2 Spell Pierce
+1 Fiery Islet
+2 Kroxa, Titan of Death's Hunger
 2 Lightning Bolt
 3 Lightning Bolt
-1 Inquisition of Kozilek
-2 Inquisition of Kozilek
-3 Fatal Push
+1 Verdant Catacombs
+1 Temur Battle Rage
+2 Temur Battle Rage
 4 Lightning Bolt
-1 Marsh Flats
-2 Marsh Flats
+1 Inquisition of Kozilek
+1 Scourge of the Skyclaves
+2 Scourge of the Skyclaves
+2 Verdant Catacombs
 1 Street Wraith
 2 Street Wraith
 3 Street Wraith
 4 Street Wraith
-1 Temur Battle Rage
-2 Verdant Catacombs
-2 Temur Battle Rage
-3 Marsh Flats
-1 Dress Down
-2 Swamp
-1 Nurturing Peatland
-1 Scourge of the Skyclaves
-2 Scourge of the Skyclaves
-1 Silent Clearing
+2 Inquisition of Kozilek
 3 Scourge of the Skyclaves
-4 Blood Crypt
 4 Scourge of the Skyclaves
-1 Snow-Covered Swamp
+1 Marsh Flats
+2 Marsh Flats
+2 Swamp
+1 Dress Down
+3 Fatal Push
+1 Nurturing Peatland
+4 Ledger Shredder
+3 Marsh Flats
+4 Blood Crypt
 1 Island
+1 Silent Clearing
+1 Snow-Covered Swamp
+1 Mountain
 1 Murktide Regent
 2 Murktide Regent
 1 Snow-Covered Mountain
+2 Terminate
+1 Stomping Ground
+1 Tarmogoyf
 3 Watery Grave
 1 Counterspell
 2 Counterspell
 3 Counterspell
 4 Counterspell
+1 Night's Whisper
+2 Night's Whisper
 1 Consider
 1 Stubborn Denial
 2 Consider
@@ -49,24 +55,42 @@
 4 Watery Grave
 4 Murktide Regent
 4 Consider
-1 Murderous Cut
-1 Mountain
-2 Terminate
-1 Night's Whisper
-1 Flooded Strand
-2 Night's Whisper
-2 Flooded Strand
-4 Fatal Push
 4 Scalding Tarn
 1 Misty Rainforest
+1 Wooded Foothills
+2 Wooded Foothills
+2 Tarmogoyf
+3 Verdant Catacombs
+2 Stomping Ground
+1 Mutagenic Growth
+2 Mutagenic Growth
+3 Temur Battle Rage
+3 Mutagenic Growth
+1 Overgrown Tomb
+1 Murderous Cut
 1 Agadeem's Awakening
-3 Night's Whisper
-4 Night's Whisper
+1 Tarfire
+1 Become Immense
+1 Monastery Swiftspear
+2 Become Immense
+2 Monastery Swiftspear
+3 Monastery Swiftspear
+4 Monastery Swiftspear
+4 Temur Battle Rage
+4 Mutagenic Growth
 1 Snapcaster Mage
 2 Snapcaster Mage
+1 Flooded Strand
+2 Flooded Strand
+4 Fatal Push
 1 Otawara, Soaring City
+1 Dismember
 2 Misty Rainforest
 3 Misty Rainforest
+3 Tarmogoyf
+4 Tarmogoyf
+3 Wooded Foothills
+4 Verdant Catacombs
 2 Murderous Cut
 1 Plains
 1 Prismatic Ending
@@ -83,9 +107,6 @@
 2 Arid Mesa
 3 Prismatic Ending
 4 Marsh Flats
-1 Overgrown Tomb
-1 Stomping Ground
-1 Tarmogoyf
 1 Squee, Dubious Monarch
 1 Sunbaked Canyon
 1 Unearth
@@ -96,18 +117,32 @@
 3 Ranger-Captain of Eos
 3 Seasoned Pyromancer
 4 Seasoned Pyromancer
-1 Tainted Indulgence
-1 Eliminate
 1 Ob Nixilis, the Adversary
+1 Traverse the Ulvenwald
+1 Forest
+2 Traverse the Ulvenwald
 2 Dress Down
+1 Kiln Fiend
+2 Kiln Fiend
 3 Spell Pierce
-1 Dismember
 1 Archmage's Charm
 2 Dismember
 2 Archmage's Charm
 3 Archmage's Charm
 4 Archmage's Charm
 4 Misty Rainforest
+1 Wrenn and Six
+1 Riveteers Charm
+1 Boseiju, Who Endures
+2 Riveteers Charm
+2 Wrenn and Six
+3 Riveteers Charm
+3 Inquisition of Kozilek
+4 Riveteers Charm
+1 Reckless Impulse
+2 Reckless Impulse
+3 Become Immense
+4 Wooded Foothills
 1 Serum Visions
 1 Brazen Borrower
 2 Serum Visions
@@ -123,35 +158,14 @@
 2 Orzhov Charm
 3 Arid Mesa
 4 Arid Mesa
-1 Wooded Foothills
-1 Wrenn and Six
-1 Riveteers Charm
-1 Boseiju, Who Endures
-2 Wooded Foothills
-2 Riveteers Charm
-2 Tarmogoyf
-2 Wrenn and Six
-3 Riveteers Charm
-3 Wooded Foothills
-3 Inquisition of Kozilek
-3 Verdant Catacombs
-3 Tarmogoyf
-4 Riveteers Charm
-4 Verdant Catacombs
-4 Tarmogoyf
-1 Tarfire
-1 Become Immense
-1 Kiln Fiend
-1 Mutagenic Growth
-1 Monastery Swiftspear
-2 Become Immense
-2 Stomping Ground
-2 Mutagenic Growth
-2 Monastery Swiftspear
-2 Kiln Fiend
-3 Temur Battle Rage
-3 Mutagenic Growth
-3 Monastery Swiftspear
-4 Monastery Swiftspear
-4 Temur Battle Rage
-4 Mutagenic Growth
+1 Eliminate
+3 Night's Whisper
+4 Night's Whisper
+1 Lava Spike
+1 Bump in the Night
+2 Lava Spike
+2 Bump in the Night
+3 Bump in the Night
+3 Lava Spike
+4 Lava Spike
+4 Bump in the Night

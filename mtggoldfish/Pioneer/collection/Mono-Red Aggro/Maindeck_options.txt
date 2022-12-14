@@ -6,26 +6,15 @@
 1 Hazoret the Fervent
 1 Embercleave
 3 Chandra, Dressed to Kill
+1 Chandra, Torch of Defiance
+2 Embercleave
+14 Mountain
 1 Kari Zev, Skyship Raider
 2 Kari Zev, Skyship Raider
-2 Embercleave
-1 Chandra, Torch of Defiance
 1 Castle Embereth
 2 Hazoret the Fervent
-14 Mountain
-2 Chandra, Torch of Defiance
-1 Torbran, Thane of Red Fell
-1 Phoenix Chick
-2 Phoenix Chick
-3 Kari Zev, Skyship Raider
-1 Rampaging Ferocidon
-2 Rampaging Ferocidon
-3 Rampaging Ferocidon
 1 Viashino Pyromancer
 2 Viashino Pyromancer
-2 Torbran, Thane of Red Fell
-3 Phoenix Chick
-4 Phoenix Chick
 1 Wizard's Lightning
 1 Ghitu Lavarunner
 2 Wizard's Lightning
@@ -36,9 +25,20 @@
 4 Wizard's Lightning
 4 Ghitu Lavarunner
 4 Viashino Pyromancer
+2 Chandra, Torch of Defiance
+1 Phoenix Chick
+2 Phoenix Chick
+3 Kari Zev, Skyship Raider
+1 Rampaging Ferocidon
+2 Rampaging Ferocidon
+3 Rampaging Ferocidon
+1 Torbran, Thane of Red Fell
+3 Phoenix Chick
+4 Phoenix Chick
+4 Goblin Chainwhirler
 3 Hazoret the Fervent
 4 Rampaging Ferocidon
-4 Goblin Chainwhirler
+2 Torbran, Thane of Red Fell
 1 Shatterskull Smashing
 1 Wild Slash
 2 Wild Slash
@@ -50,7 +50,6 @@
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
 1 Scavenger Grounds
-3 Torbran, Thane of Red Fell
 1 Fanatical Firebrand
 2 Fanatical Firebrand
 3 Fanatical Firebrand
@@ -63,25 +62,23 @@
 1 Feldon, Ronom Excavator
 2 Feldon, Ronom Excavator
 3 Feldon, Ronom Excavator
+3 Torbran, Thane of Red Fell
 1 Bomat Courier
 1 Burning Hands
-1 Obliterating Bolt
-1 Experimental Frenzy
 1 Lava Coil
 1 Rending Volley
 1 Sunscorched Desert
+1 Obliterating Bolt
+1 Experimental Frenzy
 2 Bomat Courier
-2 Obliterating Bolt
-2 Lava Coil
 2 Burning Hands
+2 Lava Coil
 2 Rending Volley
+2 Obliterating Bolt
 3 Bomat Courier
 4 Bomat Courier
 1 Shock
 2 Shock
-3 Spikefield Hazard
-3 Chandra, Torch of Defiance
-4 Spikefield Hazard
 3 Castle Embereth
 4 Castle Embereth
 4 Anax, Hardened in the Forge

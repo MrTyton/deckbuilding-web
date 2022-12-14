@@ -26,11 +26,11 @@
 4 Scalding Tarn
 1 Mystic Sanctuary
 1 Island
-1 Steam Vents
 1 Watery Grave
+1 Steam Vents
 1 Death's Shadow
-2 Death's Shadow
 2 Watery Grave
+2 Death's Shadow
 3 Death's Shadow
 2 Steam Vents
 3 Thoughtseize
@@ -41,8 +41,8 @@
 1 Street Wraith
 2 Street Wraith
 3 Street Wraith
-4 Thoughtseize
 4 Street Wraith
+4 Thoughtseize
 3 Snuff Out
 1 Force of Negation
 1 Kaito Shizuki
@@ -59,23 +59,17 @@
 2 Young Pyromancer
 3 Young Pyromancer
 2 Force of Negation
-1 Reanimate
-2 Reanimate
 1 Stifle
 1 Dismember
 2 Stifle
 2 Brazen Borrower
-1 Ledger Shredder
-2 Ledger Shredder
-3 Ledger Shredder
+1 Reanimate
+2 Reanimate
 1 Dark Confidant
 1 Inquisition of Kozilek
 2 Dark Confidant
 2 Inquisition of Kozilek
 3 Dark Confidant
-1 Third Path Iconoclast
-2 Third Path Iconoclast
-3 Third Path Iconoclast
 1 Dauthi Voidwalker
 1 Rona's Vortex
 1 Chart a Course
@@ -83,26 +77,29 @@
 2 Dauthi Voidwalker
 2 Chart a Course
 3 Dauthi Voidwalker
-1 Angrath's Rampage
+1 Ledger Shredder
+2 Ledger Shredder
+3 Ledger Shredder
+1 Third Path Iconoclast
+2 Third Path Iconoclast
+3 Third Path Iconoclast
 1 Gurmag Angler
+1 Angrath's Rampage
 2 Gurmag Angler
 2 Angrath's Rampage
 3 Angrath's Rampage
 3 Gurmag Angler
-1 Swamp
 1 True-Name Nemesis
+1 Swamp
 1 Sudden Edict
-2 Island
 2 True-Name Nemesis
+2 Island
 2 Sudden Edict
 3 Sudden Edict
 4 Snuff Out
-1 Snow-Covered Island
-3 Ob Nixilis, the Adversary
-4 Underground Sea
-1 Preordain
 1 Chain Lightning
 1 Spell Snare
+1 Preordain
 1 Spell Pierce
 2 Spell Snare
 2 Spell Pierce
@@ -113,3 +110,6 @@
 2 "Lifetime" Pass Holder
 3 "Lifetime" Pass Holder
 4 "Lifetime" Pass Holder
+1 Snow-Covered Island
+3 Ob Nixilis, the Adversary
+4 Underground Sea

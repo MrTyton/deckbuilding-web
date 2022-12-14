@@ -37,9 +37,9 @@
 2 Drawn from Dreams
 3 Sea Gate Restoration
 4 Polluted Delta
-1 Underground Sea
-1 Snow-Covered Swamp
 1 Thoughtseize
+1 Snow-Covered Swamp
+1 Underground Sea
 2 Thoughtseize
 2 Underground Sea
 1 Venser, Shaper Savant
@@ -96,7 +96,6 @@
 3 Sylvan Library
 3 Monster Manual
 3 Uro, Titan of Nature's Wrath
-4 Daze
 1 Stoneforge Mystic
 1 Batterskull
 1 Snapcaster Mage
@@ -106,11 +105,12 @@
 2 Plains
 2 Swords to Plowshares
 2 Teferi, Time Raveler
-3 Scalding Tarn
 3 Swords to Plowshares
+3 Scalding Tarn
 4 Swords to Plowshares
-1 Karakas
+4 Daze
 1 Orim's Chant
+1 Karakas
 2 Orim's Chant
 3 Orim's Chant
 4 Orim's Chant
@@ -129,8 +129,8 @@
 3 Entomb
 3 Exhume
 3 Underground Sea
-4 Entomb
 4 Underground Sea
+4 Entomb
 1 Forest
 1 Spy Network
 2 Spy Network

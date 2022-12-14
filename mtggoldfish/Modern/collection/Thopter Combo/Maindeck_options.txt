@@ -53,7 +53,6 @@
 3 Teferi, Time Raveler
 2 Springleaf Drum
 3 Hallowed Fountain
-1 Swamp
 1 Time Sieve
 1 Godless Shrine
 1 Chalice of the Void
@@ -65,6 +64,7 @@
 1 Radiant Flames
 1 Wishclaw Talisman
 1 Whir of Invention
+1 Swamp
 1 Watery Grave
 1 Inventors' Fair
 1 Polluted Delta
@@ -78,8 +78,8 @@
 3 Island
 3 Tezzeret, Agent of Bolas
 4 Polluted Delta
-1 Inspiring Vantage
 1 Dismember
+1 Inspiring Vantage
 1 Hex Parasite
 1 Experimental Synthesizer
 2 Experimental Synthesizer
@@ -89,13 +89,15 @@
 2 Adarkar Wastes
 3 Adarkar Wastes
 4 Hallowed Fountain
-1 Zagoth Triome
+1 Pyrite Spellbomb
+4 Mishra's Bauble
 1 Leyline Binding
-2 Windswept Heath
+1 Zagoth Triome
 2 Leyline Binding
+2 Windswept Heath
 3 Fable of the Mirror-Breaker
-3 Windswept Heath
 3 Leyline Binding
+3 Windswept Heath
 4 Fable of the Mirror-Breaker
 4 Leyline Binding
 1 Snow-Covered Plains
@@ -114,8 +116,6 @@
 1 Stomping Ground
 3 Moonsnare Prototype
 4 Moonsnare Prototype
-1 Pyrite Spellbomb
-4 Mishra's Bauble
 1 Expressive Iteration
 2 Spirebluff Canal
 2 Expressive Iteration

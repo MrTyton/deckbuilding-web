@@ -1,16 +1,16 @@
 2 Aether Gust
-1 Go Blank
 1 Thoughtseize
+1 Go Blank
 2 Thoughtseize
+2 Narset, Parter of Veils
+1 Farewell
+1 Disdainful Stroke
+1 Narset's Reversal
+1 Yorion, Sky Nomad
+1 Settle the Wreckage
+1 Hullbreaker Horror
 1 Vanishing Verse
 1 Unmoored Ego
-2 Narset, Parter of Veils
-1 Disdainful Stroke
-1 Settle the Wreckage
-1 Farewell
-1 Yorion, Sky Nomad
-1 Hullbreaker Horror
-1 Narset's Reversal
 1 Void Rend
 2 Dovin's Veto
 1 Ray of Enfeeblement
@@ -20,8 +20,9 @@
 1 Unlicensed Hearse
 2 Starnheim Unleashed
 3 Mystical Dispute
-1 Cling to Dust
 1 Supreme Verdict
+3 Temporary Lockdown
+1 Fatal Push
 1 Dennick, Pious Apprentice
 2 Dennick, Pious Apprentice
 1 Lier, Disciple of the Drowned
@@ -38,6 +39,9 @@
 1 Sheoldred, the Apocalypse
 2 Sheoldred, the Apocalypse
 3 Thoughtseize
+2 Fatal Push
+3 Fatal Push
+4 Fatal Push
 1 Noxious Grasp
 2 Noxious Grasp
 1 Sunset Revelry
@@ -46,17 +50,19 @@
 3 Sunset Revelry
 1 Leyline of Sanctity
 2 Leyline of Sanctity
+1 Extinction Event
 2 Thought Distortion
-3 Temporary Lockdown
+1 Cling to Dust
 1 Cut Down
 3 Rest in Peace
-1 Fatal Push
 1 Duress
 2 Duress
 1 Siphon Insight
 1 Drown in the Loch
 1 Summary Dismissal
 1 Kambal, Consul of Allocation
+1 Despark
+1 Professor Onyx
 1 Kalitas, Traitor of Ghet
 2 Kalitas, Traitor of Ghet
 2 Unlicensed Hearse
@@ -72,7 +78,6 @@
 2 Necromentia
 1 Graveyard Trespasser
 2 Graveyard Trespasser
-1 Extinction Event
 1 Arcane Proxy
 1 Behold the Multiverse
 1 Urza's Sylex
@@ -87,19 +92,14 @@
 2 Cling to Dust
 2 Portable Hole
 3 Portable Hole
+1 Disfigure
+4 Aether Gust
+1 Gideon, Ally of Zendikar
+1 Devout Decree
 1 Ashiok, Dream Render
 1 Hallowed Moonlight
 2 Ashiok, Dream Render
 2 Hallowed Moonlight
 3 Hallowed Moonlight
-3 Duress
 4 Duress
-1 Disfigure
-4 Aether Gust
-1 Gideon, Ally of Zendikar
-1 Devout Decree
-1 Despark
-1 Professor Onyx
-2 Fatal Push
-3 Fatal Push
-4 Fatal Push
+3 Duress
