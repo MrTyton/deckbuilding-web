@@ -29,8 +29,8 @@
 1 Watery Grave
 1 Steam Vents
 1 Death's Shadow
-2 Watery Grave
 2 Death's Shadow
+2 Watery Grave
 3 Death's Shadow
 2 Steam Vents
 3 Thoughtseize
@@ -92,11 +92,18 @@
 1 True-Name Nemesis
 1 Swamp
 1 Sudden Edict
-2 True-Name Nemesis
 2 Island
 2 Sudden Edict
+2 True-Name Nemesis
 3 Sudden Edict
 4 Snuff Out
+1 "Lifetime" Pass Holder
+2 "Lifetime" Pass Holder
+3 "Lifetime" Pass Holder
+4 "Lifetime" Pass Holder
+1 Snow-Covered Island
+3 Ob Nixilis, the Adversary
+4 Underground Sea
 1 Chain Lightning
 1 Spell Snare
 1 Preordain
@@ -106,10 +113,3 @@
 2 Preordain
 3 Preordain
 4 Young Pyromancer
-1 "Lifetime" Pass Holder
-2 "Lifetime" Pass Holder
-3 "Lifetime" Pass Holder
-4 "Lifetime" Pass Holder
-1 Snow-Covered Island
-3 Ob Nixilis, the Adversary
-4 Underground Sea

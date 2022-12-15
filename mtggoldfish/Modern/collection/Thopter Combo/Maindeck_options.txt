@@ -1,7 +1,7 @@
-1 Scalding Tarn
 1 Goblin Engineer
-2 Scalding Tarn
+1 Scalding Tarn
 2 Goblin Engineer
+2 Scalding Tarn
 3 Goblin Engineer
 4 Goblin Engineer
 2 Razortide Bridge
@@ -14,8 +14,8 @@
 1 Soul-Guide Lantern
 1 Serra Paragon
 3 Ingenious Smith
-1 Meria, Scholar of Antiquity
 1 Breeding Pool
+1 Meria, Scholar of Antiquity
 2 Meria, Scholar of Antiquity
 3 Meria, Scholar of Antiquity
 2 Darksteel Citadel
@@ -69,11 +69,11 @@
 1 Inventors' Fair
 1 Polluted Delta
 2 Polluted Delta
+2 Engineered Explosives
 2 Counterspell
 2 Whir of Invention
 2 Watery Grave
 2 Tezzeret, Agent of Bolas
-2 Engineered Explosives
 3 Polluted Delta
 3 Island
 3 Tezzeret, Agent of Bolas
@@ -89,10 +89,8 @@
 2 Adarkar Wastes
 3 Adarkar Wastes
 4 Hallowed Fountain
-1 Pyrite Spellbomb
-4 Mishra's Bauble
-1 Leyline Binding
 1 Zagoth Triome
+1 Leyline Binding
 2 Leyline Binding
 2 Windswept Heath
 3 Fable of the Mirror-Breaker
@@ -116,9 +114,11 @@
 1 Stomping Ground
 3 Moonsnare Prototype
 4 Moonsnare Prototype
+1 Pyrite Spellbomb
+4 Mishra's Bauble
 1 Expressive Iteration
 2 Spirebluff Canal
 2 Expressive Iteration
-3 Arid Mesa
 3 Expressive Iteration
+3 Arid Mesa
 4 Expressive Iteration

@@ -1,13 +1,13 @@
 3 Fabled Passage
 3 Charming Prince
 3 Serra Paragon
-3 Thraben Inspector
 3 Chained to the Rocks
+3 Thraben Inspector
 3 Extraction Specialist
 4 Fabled Passage
-4 Thraben Inspector
 4 Chained to the Rocks
 4 Charming Prince
+4 Thraben Inspector
 1 Conclave Tribunal
 2 Conclave Tribunal
 3 Conclave Tribunal
@@ -36,8 +36,8 @@
 2 Clifftop Retreat
 2 Nahiri, the Harbinger
 3 Mountain
-1 Jetmir's Garden
 1 Nykthos, Shrine to Nyx
+1 Jetmir's Garden
 1 Demolition Field
 2 Jetmir's Garden
 2 Nykthos, Shrine to Nyx
@@ -47,8 +47,8 @@
 1 Mutavault
 1 Cabaretti Courtyard
 1 Goblin Cratermaker
-1 Tocasia's Welcome
 1 Abrade
+1 Tocasia's Welcome
 1 Renegade Map
 1 Selfless Savior
 1 Plargg, Dean of Chaos
@@ -88,8 +88,8 @@
 1 Darksteel Citadel
 1 Fires of Invention
 1 Anger of the Gods
-1 Golos, Tireless Pilgrim
 1 Blast Zone
+1 Golos, Tireless Pilgrim
 1 Cascading Cataracts
 1 Spikefield Hazard
 1 Cavalier of Flame
@@ -127,8 +127,8 @@
 4 Conclave Tribunal
 1 Snow-Covered Mountain
 1 Mazemind Tome
-1 Settle the Wreckage
 1 Gideon, Ally of Zendikar
+1 Settle the Wreckage
 1 Elspeth, Sun's Champion
 1 Thalia's Lancers
 1 Gideon of the Trials
@@ -144,8 +144,8 @@
 1 Arch of Orazca
 1 Furycalm Snarl
 1 Glorious End
-2 Mazemind Tome
 2 Snow-Covered Mountain
+2 Mazemind Tome
 2 Gideon of the Trials
 2 Settle the Wreckage
 2 Glorious End
@@ -173,35 +173,35 @@
 7 Snow-Covered Plains
 1 Skirk Prospector
 1 Conspicuous Snoop
-1 Fanatical Firebrand
-1 Goblin Instigator
+1 Battle Cry Goblin
 1 Wily Goblin
 1 Mob Rule
+1 Goblin Instigator
 1 Rally the Ancestors
 1 Legion Loyalist
-1 Battle Cry Goblin
+1 Fanatical Firebrand
 1 Hobgoblin Bandit Lord
 1 Rundvelt Hordemaster
 2 Conspicuous Snoop
-2 Fanatical Firebrand
 2 Skirk Prospector
-2 Goblin Instigator
 2 Wily Goblin
 2 Legion Loyalist
 2 Rally the Ancestors
 2 Battle Cry Goblin
 2 Rundvelt Hordemaster
+2 Fanatical Firebrand
 2 Hobgoblin Bandit Lord
+2 Goblin Instigator
 3 Conspicuous Snoop
-3 Fanatical Firebrand
 3 Skirk Prospector
+3 Fanatical Firebrand
 3 Hobgoblin Bandit Lord
 3 Battle Cry Goblin
 3 Rundvelt Hordemaster
 3 Rally the Ancestors
 4 Rundvelt Hordemaster
-4 Fanatical Firebrand
 4 Skirk Prospector
+4 Fanatical Firebrand
 4 Battle Cry Goblin
 7 Mountain
 8 Mountain
@@ -216,9 +216,9 @@
 2 Repair and Recharge
 2 Overwhelming Splendor
 2 Invoke Justice
+3 Nahiri, the Harbinger
 3 Spirited Companion
 3 Sungold Sentinel
-3 Nahiri, the Harbinger
 3 Repair and Recharge
 3 Invoke Justice
 4 Spirited Companion
