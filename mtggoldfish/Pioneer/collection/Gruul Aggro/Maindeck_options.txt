@@ -44,15 +44,15 @@
 1 Game Trail
 1 Elvish Mystic
 1 Cinder Glade
-2 Klothys, God of Destiny
 2 Cinder Glade
 2 Elvish Mystic
+2 Klothys, God of Destiny
 2 Llanowar Elves
 2 Collected Company
 2 Game Trail
-3 Scavenging Ooze
 3 Collected Company
 3 Llanowar Elves
+3 Scavenging Ooze
 3 Game Trail
 3 Elvish Mystic
 4 Collected Company
@@ -78,11 +78,11 @@
 2 Rootbound Crag
 3 Rootbound Crag
 4 Rootbound Crag
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
 1 Fanatical Firebrand
 1 Yavimaya Iconoclast
 2 Fanatical Firebrand
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
 1 Boseiju, Who Endures
 2 Zurgo Bellstriker
 2 Feldon, Ronom Excavator
@@ -104,6 +104,9 @@
 3 Lightning Strike
 4 Lightning Strike
 4 Legion Loyalist
+7 Mountain
+8 Mountain
+9 Mountain
 1 Mana Confluence
 1 Questing Beast
 1 Zhur-Taa Goblin
@@ -120,6 +123,3 @@
 4 Pelt Collector
 4 Embercleave
 6 Forest
-7 Mountain
-8 Mountain
-9 Mountain

@@ -1,0 +1,27 @@
+# Soulsisters
+
+#### [Export MTGO List](../collection/Soulsisters/Soulsisters.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ajani's%20Pridemate%0A4%09Branchloft%20Pathway%0A4%09Collected%20Company%0A3%09Conclave%20Mentor%0A4%09Eladamri's%20Call%0A1%09Essence%20Warden%0A1%09Forest%0A4%09Ghost%20Quarter%0A4%09Heliod,%20Sun-Crowned%0A1%09Plains%0A3%09Skyclave%20Apparition%0A4%09Soul%20Warden%0A4%09Soul's%20Attendant%0A3%09Spike%20Feeder%0A4%09Sunpetal%20Grove%0A4%09Temple%20Garden%0A4%09Walking%20Ballista%0A4%09Windswept%20Heath&deckside=2%09Damping%20Sphere%0A2%09Outland%20Liberator%0A2%09Path%20to%20Exile%0A2%09Pithing%20Needle%0A2%09Relic%20of%20Progenitus%0A2%09Run%20Afoul%0A2%09Sanctifier%20en-Vec%0A1%09Wilt)
+# Maindeck
+
+|                                         Creature (30)                                          |                                         Instant (8)                                          |                                           Land (22)                                           |
+|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|4 [Ajani's Pridemate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376241)  |4 [Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)|4 [Branchloft Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491909)|
+|3 [Conclave Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485539)    |4 [Eladamri's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442192)  |1 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |
+|1 [Essence Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389505)     |                                                                                              |4 [Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)     |
+|4 [Heliod, Sun-Crowned](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476269)|                                                                                              |1 [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)            |
+|3 [Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)|                                                                                              |4 [Sunpetal Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420946)    |
+|4 [Soul Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129740)        |                                                                                              |4 [Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)     |
+|4 [Soul's Attendant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193499)   |                                                                                              |4 [Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)   |
+|3 [Spike Feeder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21113)        |                                                                                              |                                                                                               |
+|4 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)   |                                                                                              |                                                                                               |
+
+
+# Sideboard
+
+|                                          Artifact (6)                                          |                                         Creature (2)                                         |                                       Instant (5)                                        |    Unknown (2)    |
+|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------|
+|2 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |2 [Sanctifier en-Vec](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522103)|2 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|2 Outland Liberator|
+|2 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)     |                                                                                              |2 [Run Afoul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485524)    |                   |
+|2 [Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|                                                                                              |1 [Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)         |                   |
+
