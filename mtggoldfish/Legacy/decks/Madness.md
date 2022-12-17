@@ -66,7 +66,7 @@
 |                    2|[Firestorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4547)                  |                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)        |
 |                    2|[Shadowgrange Archfiend](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=546986)   |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)        |
 |                    3|[Badlands](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=878)                    |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)        |
-|                    3|[Gamble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413674)                   |                    4|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)        |
-|                    3|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                 |                    4|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)        |
+|                    3|[Gamble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413674)                   |                    4|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)        |
+|                    3|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                 |                    4|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)        |
 |                     |                                                                                                    |                    4|[Meltdown](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10466)               |
 

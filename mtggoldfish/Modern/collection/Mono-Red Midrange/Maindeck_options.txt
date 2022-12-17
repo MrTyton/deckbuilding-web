@@ -1,36 +1,36 @@
-2 Flame Slash
-2 Magus of the Moon
-3 Magus of the Moon
-4 Magus of the Moon
+2 Sokenzan, Crucible of Defiance
 3 Flame Slash
 4 Flame Slash
 1 Experimental Synthesizer
 2 Experimental Synthesizer
 3 Experimental Synthesizer
 4 Experimental Synthesizer
+2 Magus of the Moon
+4 Ramunap Ruins
 9 Mountain
 10 Mountain
+3 Magus of the Moon
+4 Magus of the Moon
 1 Field of Ruin
 2 Field of Ruin
-4 Ramunap Ruins
 1 Shatterskull Smashing
 2 Shatterskull Smashing
 1 Gemstone Caverns
 3 Field of Ruin
 4 Field of Ruin
+1 Phoenix of Ash
 1 Scavenger Grounds
 3 Shatterskull Smashing
 2 Gemstone Caverns
+1 Burst Lightning
+2 Burst Lightning
+3 Burst Lightning
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
 4 Shatterskull Smashing
-1 Burst Lightning
-2 Burst Lightning
-3 Burst Lightning
-1 Phoenix of Ash
 1 Reckless Impulse
 2 Reckless Impulse
 3 Reckless Impulse
@@ -51,6 +51,10 @@
 2 Chandra, Dressed to Kill
 1 Fiery Islet
 2 Fiery Islet
+1 Karn's Sylex
+2 Karn's Sylex
+3 Karn's Sylex
+4 Karn's Sylex
 1 Seal of Fire
 1 Keldon Megaliths
 2 Seal of Fire
@@ -59,6 +63,8 @@
 3 Keldon Megaliths
 4 Seal of Fire
 4 Keldon Megaliths
+1 Mutavault
+2 Mutavault
 1 Ghost Quarter
 1 Geomancer's Gambit
 2 Geomancer's Gambit
@@ -67,7 +73,6 @@
 3 Ghost Quarter
 4 Geomancer's Gambit
 4 Ghost Quarter
-4 Chalice of the Void
 3 Pyrite Spellbomb
 4 Pyrite Spellbomb
 1 Urza's Saga
@@ -93,39 +98,27 @@
 6 Snow-Covered Mountain
 1 Abrade
 2 Abrade
-1 Inscribed Tablet
 1 Shivan Devastator
-1 Mutavault
-2 Mutavault
-1 Desperate Ritual
-1 Pyretic Ritual
-2 Desperate Ritual
-2 Pyretic Ritual
+1 Inscribed Tablet
 1 Wish
 2 Wish
 3 Wish
 4 Wish
+1 Desperate Ritual
+1 Pyretic Ritual
+2 Desperate Ritual
+2 Pyretic Ritual
+4 Chalice of the Void
 1 Fulminator Mage
 2 Fulminator Mage
 3 Fulminator Mage
 4 Fulminator Mage
 1 Ox of Agonas
 2 Ox of Agonas
-3 Ox of Agonas
 3 Soul-Guide Lantern
-4 Ox of Agonas
+3 Ox of Agonas
 4 Soul-Guide Lantern
-1 Dead/Gone
-1 Unlicensed Hearse
-1 Squee, Dubious Monarch
-2 Dead/Gone
-2 Squee, Dubious Monarch
-2 Unlicensed Hearse
-3 Chandra, Torch of Defiance
-3 Dead/Gone
-3 Unlicensed Hearse
-4 Dead/Gone
-4 Unlicensed Hearse
+4 Ox of Agonas
 2 Phoenix of Ash
 3 Phoenix of Ash
 4 Phoenix of Ash
@@ -150,6 +143,8 @@
 3 Shrapnel Blast
 4 Galvanic Blast
 4 Shrapnel Blast
+3 Mutavault
+4 Mutavault
 1 Karn, Scion of Urza
 1 Liquimetal Torque
 1 Scrying Sheets

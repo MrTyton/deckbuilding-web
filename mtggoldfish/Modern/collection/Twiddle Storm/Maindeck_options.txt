@@ -1,8 +1,8 @@
 3 Scalding Tarn
-3 Polluted Delta
 1 Grapeshot
-4 Street Wraith
 4 Underworld Breach
+3 Polluted Delta
+4 Street Wraith
 4 Scalding Tarn
 1 Profane Tutor
 2 Profane Tutor
@@ -13,24 +13,25 @@
 1 Swamp
 4 Wish
 4 Polluted Delta
+2 Pact of Negation
+1 Spell Pierce
+2 Spell Pierce
+3 Spell Pierce
+4 Flooded Strand
 1 Serum Visions
 2 Serum Visions
-2 Pact of Negation
-3 Serum Visions
-4 Flooded Strand
 1 Spoils of the Vault
 1 Amulet of Vigor
 2 Amulet of Vigor
 1 An Offer You Can't Refuse
 2 An Offer You Can't Refuse
-1 Spell Pierce
-2 Spell Pierce
-3 Spell Pierce
-4 Serum Visions
-3 Island
-3 An Offer You Can't Refuse
 2 Tome Scour
-1 Hallowed Fountain
+3 Serum Visions
+3 Island
+1 Grim Tutor
+2 Grim Tutor
+3 An Offer You Can't Refuse
+4 Serum Visions
 1 Echoing Truth
 1 Tolaria West
 1 Lonely Sandbar
@@ -52,13 +53,7 @@
 4 Ideas Unbound
 4 Reach Through Mists
 4 Peer Through Depths
-1 Grim Tutor
-2 Grim Tutor
 3 Pact of Negation
-1 Force of Negation
-2 Force of Negation
-3 Force of Negation
-4 Force of Negation
 1 Vizier of Tumbling Sands
 2 Vizier of Tumbling Sands
 2 Tolaria West
@@ -72,6 +67,7 @@
 1 Izzet Charm
 2 Steam Vents
 1 Breeding Pool
+1 Hallowed Fountain
 1 Merchant Scroll
 2 Merchant Scroll
 1 Past in Flames
@@ -105,25 +101,20 @@
 3 Teferi, Time Raveler
 3 Expressive Iteration
 4 Spell Pierce
-1 Shivan Reef
+1 Force of Negation
+2 Force of Negation
+3 Force of Negation
+4 Force of Negation
 1 Empty the Warrens
+1 Shivan Reef
 2 Shivan Reef
 2 Echoing Truth
 2 Grapeshot
 3 Shivan Reef
 4 Shivan Reef
-1 Drowned Catacomb
-1 Clearwater Pathway
-2 Swamp
-2 Drowned Catacomb
-2 Clearwater Pathway
-3 Swamp
-3 Clearwater Pathway
-3 Drowned Catacomb
-4 Clearwater Pathway
 1 Windswept Heath
-1 Boseiju, Who Endures
 1 Abundant Harvest
+1 Boseiju, Who Endures
 1 Sylvan Scrying
 1 Thespian's Stage
 1 Forest
@@ -133,11 +124,20 @@
 2 Abundant Harvest
 2 Sylvan Scrying
 3 Windswept Heath
-3 Merchant Scroll
 3 Abundant Harvest
+3 Merchant Scroll
 3 Sylvan Scrying
-4 Windswept Heath
 4 Abundant Harvest
+4 Windswept Heath
+1 Drowned Catacomb
+1 Clearwater Pathway
+2 Swamp
+2 Drowned Catacomb
+2 Clearwater Pathway
+3 Swamp
+3 Clearwater Pathway
+3 Drowned Catacomb
+4 Clearwater Pathway
 1 Darkslick Shores
 1 Acererak the Archlich
 1 Thoughtseize

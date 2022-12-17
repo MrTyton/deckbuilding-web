@@ -89,10 +89,6 @@
 2 Sunpetal Grove
 2 Forest
 3 Forest
-1 Brushland
-2 Brushland
-3 Brushland
-4 Brushland
 4 Wooded Foothills
 3 Silhana Ledgewalker
 3 Keen Sense
@@ -100,8 +96,8 @@
 4 Silhana Ledgewalker
 1 Curiosity
 2 Island
-3 Force of Negation
 3 Plains
+3 Force of Negation
 3 Invisible Stalker
 3 Staggering Insight
 3 Seachrome Coast
@@ -111,3 +107,7 @@
 4 Invisible Stalker
 4 Hallowed Fountain
 4 Arcane Flight
+1 Brushland
+2 Brushland
+3 Brushland
+4 Brushland
