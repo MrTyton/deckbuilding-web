@@ -9,13 +9,20 @@
 3 Jeska's Will
 1 Pyretic Ritual
 2 Pyretic Ritual
+4 Gamble
+3 Pyretic Ritual
+1 Irencrag Feat
+1 Manamorphose
+2 Manamorphose
+3 Manamorphose
 1 Summoner's Pact
 2 Summoner's Pact
 3 Summoner's Pact
+4 Summoner's Pact
 1 Pact of Negation
 2 Pact of Negation
 3 Pact of Negation
-4 Summoner's Pact
+1 Turntimber Symbiosis
 1 Dark Ritual
 1 Cabal Ritual
 1 Wild Cantor
@@ -45,27 +52,16 @@
 4 Agadeem's Awakening
 4 Narcomoeba
 4 Balustrade Spy
-1 Turntimber Symbiosis
-3 Cabal Ritual
-3 Pyretic Ritual
-1 Irencrag Feat
-1 Manamorphose
-2 Manamorphose
-3 Manamorphose
 2 Turntimber Symbiosis
 3 Turntimber Symbiosis
-4 Cabal Ritual
-4 Gamble
+3 Cabal Ritual
 1 Thoughtseize
 2 Thoughtseize
-1 Once Upon a Time
-2 Once Upon a Time
 4 Turntimber Symbiosis
 4 Manamorphose
-1 Leyline of Anticipation
-2 Leyline of Anticipation
-3 Leyline of Anticipation
-4 Leyline of Anticipation
+4 Cabal Ritual
+1 Once Upon a Time
+2 Once Upon a Time
 2 Irencrag Feat
 4 Pyretic Ritual
 1 Tendrils of Agony
@@ -84,6 +80,10 @@
 3 Street Wraith
 3 Pyroblast
 4 Street Wraith
+1 Leyline of Anticipation
+2 Leyline of Anticipation
+3 Leyline of Anticipation
+4 Leyline of Anticipation
 4 Empty the Warrens
 1 Serum Powder
 1 Grim Monolith
@@ -119,7 +119,6 @@
 4 Culling the Weak
 4 Infernal Contract
 1 Mox Diamond
-1 Mountain
 1 Blood Moon
 1 Banishing Light
 1 Helm of Obedience
@@ -127,8 +126,8 @@
 1 Scroll Rack
 1 Rest in Peace
 1 Zuran Orb
-1 Runed Halo
 1 Swords to Plowshares
+1 Runed Halo
 1 Wrath of God
 1 Pithing Needle
 1 Aura of Silence
@@ -136,14 +135,15 @@
 1 Humility
 1 Elspeth, Knight-Errant
 1 Trinisphere
+1 Mountain
 1 Land Tax
 1 Enlightened Tutor
 1 Plains
 1 Solitary Confinement
 1 Undiscovered Paradise
 2 Helm of Obedience
-2 Rest in Peace
 2 Swords to Plowshares
+2 Rest in Peace
 2 Undiscovered Paradise
 2 Plains
 2 Banishing Light
@@ -154,9 +154,9 @@
 2 Orim's Chant
 3 Plains
 3 Rest in Peace
+3 Swords to Plowshares
 3 Enlightened Tutor
 3 Orim's Chant
-3 Swords to Plowshares
 3 Banishing Light
 3 Land Tax
 3 Scroll Rack

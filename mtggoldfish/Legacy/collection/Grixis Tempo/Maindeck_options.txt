@@ -1,15 +1,15 @@
 1 Badlands
 3 Bloodstained Mire
 2 Snuff Out
-4 Wasteland
-1 Thoughtseize
+4 Baleful Strix
 4 Volcanic Island
 1 Brazen Borrower
 1 Flooded Strand
-4 Baleful Strix
+4 Wasteland
 3 Mishra's Bauble
 2 Unholy Heat
 3 Unholy Heat
+1 Thoughtseize
 2 Flooded Strand
 1 Misty Rainforest
 2 Misty Rainforest
@@ -18,14 +18,14 @@
 3 Hymn to Tourach
 4 Bloodstained Mire
 4 Unholy Heat
+1 Pyroblast
 2 Thoughtseize
 4 Polluted Delta
 4 Mishra's Bauble
-1 Pyroblast
-4 Hymn to Tourach
-4 Scalding Tarn
 1 Mystic Sanctuary
 1 Island
+4 Hymn to Tourach
+4 Scalding Tarn
 1 Watery Grave
 1 Steam Vents
 1 Death's Shadow
@@ -38,6 +38,7 @@
 1 Ob Nixilis, the Adversary
 2 Ob Nixilis, the Adversary
 1 Blood Crypt
+3 Flooded Strand
 1 Street Wraith
 2 Street Wraith
 3 Street Wraith
@@ -45,12 +46,11 @@
 4 Thoughtseize
 3 Snuff Out
 1 Force of Negation
-1 Kaito Shizuki
-2 Kaito Shizuki
 1 Jace, Vryn's Prodigy
 2 Jace, Vryn's Prodigy
+1 Ledger Shredder
+2 Ledger Shredder
 3 Misty Rainforest
-3 Flooded Strand
 4 Flooded Strand
 3 Watery Grave
 1 Fatal Push
@@ -59,6 +59,8 @@
 2 Young Pyromancer
 3 Young Pyromancer
 2 Force of Negation
+1 Kaito Shizuki
+2 Kaito Shizuki
 1 Stifle
 1 Dismember
 2 Stifle
@@ -80,8 +82,6 @@
 1 Third Path Iconoclast
 2 Third Path Iconoclast
 3 Third Path Iconoclast
-1 Ledger Shredder
-2 Ledger Shredder
 3 Ledger Shredder
 1 Gurmag Angler
 1 Angrath's Rampage

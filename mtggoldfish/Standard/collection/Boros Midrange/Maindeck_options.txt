@@ -1,39 +1,53 @@
-1 Steel Seraph
-1 Lay Down Arms
-2 Lay Down Arms
-2 Steel Seraph
-3 Lay Down Arms
-4 Lay Down Arms
-13 Plains
+11 Plains
+1 Jaya, Fiery Negotiator
+1 The Restoration of Eiganjo
+4 The Wandering Emperor
+1 Battlefield Forge
+12 Plains
+2 The Restoration of Eiganjo
+1 Elspeth Resplendent
+5 Mountain
+1 Loran of the Third Path
+2 Loran of the Third Path
+3 Loran of the Third Path
+4 Ambitious Farmhand
+2 Battlefield Forge
 3 Sanctuary Warden
-7 Mountain
+6 Mountain
+1 Fateful Absence
+2 Jaya, Fiery Negotiator
+1 Spirited Companion
+13 Plains
 1 Anointed Peacekeeper
-1 Roadside Reliquary
-2 Roadside Reliquary
+3 The Restoration of Eiganjo
+1 Farewell
+7 Mountain
+1 Abrade
 1 Riveteers Requisitioner
 2 Riveteers Requisitioner
 3 Riveteers Requisitioner
-1 Spirited Companion
 2 Spirited Companion
 3 Spirited Companion
 4 Spirited Companion
+4 Loran of the Third Path
 2 Fateful Absence
 2 Elspeth Resplendent
-2 Ambitious Farmhand
-3 Ambitious Farmhand
-4 Reckoner Bankbuster
 2 Anointed Peacekeeper
 3 Anointed Peacekeeper
+1 Sacred Peaks
+2 Sacred Peaks
+4 Sanctuary Warden
+1 Invoke Justice
+2 Invoke Justice
+3 Invoke Justice
+4 Invoke Justice
 14 Plains
-3 The Restoration of Eiganjo
-1 Abrade
 3 Ao, the Dawn Sky
 4 Riveteers Requisitioner
 2 Eiganjo, Seat of the Empire
-1 Farewell
-3 Jaya, Fiery Negotiator
 1 Wind-Scarred Crag
 2 Wind-Scarred Crag
+3 Jaya, Fiery Negotiator
 1 Strangle
 2 Strangle
 1 Voltage Surge
@@ -47,12 +61,11 @@
 3 Cabaretti Courtyard
 4 Cabaretti Courtyard
 4 Destroy Evil
-1 Battlefield Forge
-4 Sanctuary Warden
-1 Invoke Justice
-2 Invoke Justice
-3 Invoke Justice
-4 Invoke Justice
+1 Portal to Phyrexia
+1 Bitter Reunion
+2 Bitter Reunion
+4 The Restoration of Eiganjo
+1 Unlicensed Hearse
 1 Flame-Blessed Bolt
 2 Flame-Blessed Bolt
 1 Intrepid Adversary
@@ -73,19 +86,19 @@
 1 Vanquish the Horde
 1 By Invitation Only
 1 Weatherlight Compleated
+2 March of Otherworldly Light
 2 Depopulate
 2 Weatherlight Compleated
 2 By Invitation Only
-2 March of Otherworldly Light
 2 Vanquish the Horde
 1 Shattered Sanctum
 3 Caves of Koilos
 1 Sunset Revelry
+1 Touch the Spirit Realm
 1 Brilliant Restoration
 1 Hallowed Haunting
 1 Circle of Confinement
 1 Borrowed Time
-1 Touch the Spirit Realm
 1 Citizen's Crowbar
 1 Rabble Rousing
 1 Michiko's Reign of Truth
@@ -115,9 +128,14 @@
 3 Rending Flame
 2 Sulfurous Springs
 4 Serra Paragon
+1 Archangel of Wrath
+1 Raffine's Informant
+2 Raffine's Informant
+3 Raffine's Informant
+4 Raffine's Informant
+4 Ao, the Dawn Sky
 1 Raffine's Tower
 1 Xander's Lounge
-1 Unlicensed Hearse
 1 Leyline Binding
 2 Intrepid Adversary
 2 Leyline Binding
@@ -125,14 +143,13 @@
 2 Raffine's Tower
 3 Cathar Commando
 3 Leyline Binding
-4 Cathar Commando
 4 Leyline Binding
-1 Portal to Phyrexia
-1 Sacred Peaks
-1 Bitter Reunion
+4 Cathar Commando
+2 Abrade
+3 Abrade
+3 Sacred Peaks
+4 Sacred Peaks
 2 Portal to Phyrexia
-2 Bitter Reunion
-2 Sacred Peaks
 3 Steel Seraph
 3 Bitter Reunion
 4 Steel Seraph
@@ -149,26 +166,13 @@
 4 Fateful Absence
 4 Lightning Strike
 4 Plaza of Heroes
-1 Archangel of Wrath
-1 Raffine's Informant
-2 Raffine's Informant
-3 Raffine's Informant
-4 Raffine's Informant
-4 Ao, the Dawn Sky
-4 The Restoration of Eiganjo
 1 Sungold Sentinel
 1 Bloodthirsty Adversary
 2 Sungold Sentinel
 2 Bloodthirsty Adversary
-3 Sungold Sentinel
 3 Roadside Reliquary
+3 Sungold Sentinel
 4 Sungold Sentinel
-1 Loran of the Third Path
-2 Loran of the Third Path
-2 Battlefield Forge
-3 Loran of the Third Path
-4 Loran of the Third Path
-4 Ambitious Farmhand
 1 Shivan Devastator
 2 Atsushi, the Blazing Sky
 2 Shivan Devastator
