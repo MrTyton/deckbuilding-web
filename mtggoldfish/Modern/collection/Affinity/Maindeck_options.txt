@@ -3,6 +3,7 @@
 2 Welding Jar
 1 Forging the Anchor
 2 Forging the Anchor
+1 Silverbluff Bridge
 3 Treasure Vault
 2 Nettlecyst
 1 Eiganjo, Seat of the Empire
@@ -12,8 +13,8 @@
 1 Ingenious Smith
 1 Kaldra Compleat
 1 Stoneforge Mystic
-2 Portable Hole
 2 Plains
+2 Portable Hole
 2 Ingenious Smith
 2 Esper Sentinel
 2 Stoneforge Mystic
@@ -22,8 +23,8 @@
 3 Plains
 3 Portable Hole
 3 Ingenious Smith
-4 Ingenious Smith
 4 Plains
+4 Ingenious Smith
 4 Esper Sentinel
 4 Portable Hole
 4 Stoneforge Mystic
@@ -34,7 +35,9 @@
 9 Plains
 10 Plains
 11 Plains
-1 Silverbluff Bridge
+1 Tanglepool Bridge
+3 Forging the Anchor
+2 Silverbluff Bridge
 1 Soul-Guide Lantern
 1 The Restoration of Eiganjo
 1 Dispatch
@@ -48,30 +51,26 @@
 4 Dispatch
 4 Power Conduit
 4 The Restoration of Eiganjo
-1 Tanglepool Bridge
-3 Forging the Anchor
-2 Silverbluff Bridge
 2 Tanglepool Bridge
 4 Forging the Anchor
 1 Razortide Bridge
 2 Razortide Bridge
 1 Glimmervoid
 3 Nettlecyst
-1 Combat Thresher
 1 Ephemerate
+1 Combat Thresher
 1 Voyager Staff
 1 Solitude
-2 Combat Thresher
 2 Ephemerate
+2 Combat Thresher
 2 Solitude
 3 Combat Thresher
 3 Ephemerate
 3 Solitude
-4 Combat Thresher
 4 Solitude
+4 Combat Thresher
 4 Ephemerate
 12 Plains
-1 Lightning Greaves
 1 Myr Enforcer
 3 Silverbluff Bridge
 1 Galvanic Blast
@@ -82,10 +81,11 @@
 2 Neoform
 3 Tanglepool Bridge
 4 Tanglepool Bridge
+1 Steam Vents
+1 Grafdigger's Cage
 1 Watery Grave
 1 Cliffhaven Kitesail
-1 Grafdigger's Cage
-1 Steam Vents
+1 Lightning Greaves
 1 Eiganjo Castle
 1 Underground River
 1 Ethersworn Sphinx

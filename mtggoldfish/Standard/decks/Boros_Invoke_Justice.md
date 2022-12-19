@@ -23,3 +23,19 @@
 |3 [Reckoner Bankbuster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548568)|4 [Anointed Peacekeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574482)|2 [Touch the Spirit Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548335)|1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)      |2 Visions of Phyrexia|
 |2 [Unlicensed Hearse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555447)  |                                                                                                 |                                                                                                   |1 [Destroy Evil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574497)|                     |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                  Maindeck Card                                  |*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
+|--------------------:|---------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------|
+|                    1|The Mightstone and Weakstone                                                     |                    1|The Mightstone and Weakstone                                                           |
+|                    1|Scrapwork Mutt                                                                   |                    1|[Strangle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555326)    |
+|                    1|Ambitious Farmhand                                                               |                    2|[Strangle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555326)    |
+|                    2|The Mightstone and Weakstone                                                     |                    2|[Destroy Evil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574497)|
+|                    2|Scrapwork Mutt                                                                   |                     |                                                                                       |
+|                    2|Cityscape Leveler                                                                |                     |                                                                                       |
+|                    2|Ambitious Farmhand                                                               |                     |                                                                                       |
+|                    3|Scrapwork Mutt                                                                   |                     |                                                                                       |
+|                    4|Scrapwork Mutt                                                                   |                     |                                                                                       |
+|                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                     |                                                                                       |
+

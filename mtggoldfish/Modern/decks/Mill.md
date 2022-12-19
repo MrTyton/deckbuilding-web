@@ -114,7 +114,7 @@
 |                    1|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)      |                     |                                                                                                   |
 |                    1|[Maddening Cacophony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495612)    |                     |                                                                                                   |
 |                    2|[Maddening Cacophony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495612)    |                     |                                                                                                   |
-|                    3|[Maddening Cacophony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495612)    |                     |                                                                                                   |
 |                    3|[Founding the Third Path](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574530)|                     |                                                                                                   |
+|                    3|[Maddening Cacophony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495612)    |                     |                                                                                                   |
 |                    4|[Maddening Cacophony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495612)    |                     |                                                                                                   |
 

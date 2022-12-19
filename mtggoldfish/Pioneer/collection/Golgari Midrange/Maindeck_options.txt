@@ -4,10 +4,10 @@
 2 Lovestruck Beast
 1 Elvish Mystic
 1 Llanowar Elves
-2 Llanowar Elves
 2 Elvish Mystic
-3 Elvish Mystic
+2 Llanowar Elves
 3 Llanowar Elves
+3 Elvish Mystic
 3 Lovestruck Beast
 1 Grim Flayer
 2 Grim Flayer
@@ -73,8 +73,8 @@
 1 Mutavault
 1 Epic Downfall
 1 Ulcerate
-2 Mutavault
 2 Skysovereign, Consul Flagship
+2 Mutavault
 2 Ulcerate
 2 Epic Downfall
 3 Mutavault
@@ -125,21 +125,21 @@
 4 Forest
 5 Forest
 1 Agadeem's Awakening
-1 Cling to Dust
 1 Heart of Kiran
+1 Cling to Dust
 1 Order of Midnight
 1 Primal Might
 1 Bite Down
 2 Old Rutstein
-1 Heartless Act
-1 Polukranos, Unchained
-1 Extinction Event
-1 Gurmag Angler
-2 Heartless Act
-2 Takenuma, Abandoned Mire
 1 Outland Liberator
 1 Kraul Harpooner
 2 Questing Beast
+2 Takenuma, Abandoned Mire
+1 Polukranos, Unchained
+1 Heartless Act
+1 Extinction Event
+1 Gurmag Angler
+2 Heartless Act
 1 Castle Vantress
 2 Castle Vantress
 1 Shigeki, Jukai Visionary
@@ -151,13 +151,13 @@
 2 Shigeki, Jukai Visionary
 2 The Meathook Massacre
 2 Hissing Quagmire
+3 Invoke Despair
 1 Oath of Nissa
 1 Dread Fugue
 2 Oath of Nissa
 2 Dread Fugue
 3 Oath of Nissa
 3 Assassin's Trophy
-3 Invoke Despair
 3 Gifted Aetherborn
 3 Sorin the Mirthless
 4 Gifted Aetherborn
@@ -174,10 +174,10 @@
 1 Castle Garenbrig
 1 Titan of Industry
 1 Valki, God of Lies
-1 Vorinclex, Monstrous Raider
 1 Cityscape Leveler
 1 Ulamog, the Ceaseless Hunger
 1 Fight Rigging
+1 Vorinclex, Monstrous Raider
 1 Stomping Ground
 2 Valki, God of Lies
 2 Shakedown Heavy
@@ -185,18 +185,18 @@
 2 Fight Rigging
 2 Turntimber Symbiosis
 3 Shakedown Heavy
-3 Elder Gargaroth
 3 Fight Rigging
 3 Turntimber Symbiosis
+3 Elder Gargaroth
 4 Elder Gargaroth
 4 Fight Rigging
 4 Shakedown Heavy
 1 Deathrite Shaman
-1 Phyrexian Fleshgorger
 1 Gix, Yawgmoth Praetor
+1 Phyrexian Fleshgorger
 1 Reckoner Bankbuster
-2 Reckoner Bankbuster
 2 Deathrite Shaman
+2 Reckoner Bankbuster
 3 Deathrite Shaman
 3 Reckoner Bankbuster
 4 Deathrite Shaman
@@ -210,8 +210,8 @@
 2 Old-Growth Troll
 2 Boseiju, Who Endures
 3 Woodland Cemetery
-3 Ghalta, Primal Hunger
 3 Boseiju, Who Endures
+3 Ghalta, Primal Hunger
 3 Surrak, the Hunt Caller
 4 The Great Henge
 4 Surrak, the Hunt Caller

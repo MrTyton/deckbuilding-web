@@ -40,8 +40,8 @@
 1 Snow-Covered Swamp
 1 Thoughtseize
 1 Underground Sea
-2 Thoughtseize
 2 Underground Sea
+2 Thoughtseize
 1 Venser, Shaper Savant
 2 Mystic Sanctuary
 1 Profane Tutor
@@ -84,7 +84,6 @@
 1 Fatal Push
 1 Carpet of Flowers
 2 Boseiju, Who Endures
-3 Uro, Titan of Nature's Wrath
 1 Kozilek, Butcher of Truth
 1 Ulamog, the Ceaseless Hunger
 2 Endurance
@@ -96,9 +95,10 @@
 2 Monster Manual
 3 Sylvan Library
 3 Monster Manual
+3 Uro, Titan of Nature's Wrath
 4 Daze
-1 Karakas
 1 Orim's Chant
+1 Karakas
 2 Orim's Chant
 3 Orim's Chant
 4 Orim's Chant
@@ -131,8 +131,8 @@
 3 Exhume
 4 Underground Sea
 4 Entomb
-1 Forest
 1 Spy Network
+1 Forest
 2 Spy Network
 3 Tropical Island
 4 Lotus Petal

@@ -18,9 +18,9 @@
 1 Tundra
 1 Parasitic Strix
 1 Snow-Covered Plains
+1 Savannah
 1 Teferi, Time Raveler
 1 Windswept Heath
-1 Savannah
 1 Swords to Plowshares
 2 Teferi, Time Raveler
 2 Swords to Plowshares
@@ -38,8 +38,8 @@
 1 Snuff Out
 2 Snuff Out
 3 Prismatic Ending
-4 Prismatic Ending
 4 Prismatic Vista
+4 Prismatic Ending
 2 Windswept Heath
 1 Sylvan Library
 2 Flooded Strand
@@ -50,14 +50,14 @@
 1 Cabal Therapy
 1 Veteran Explorer
 2 Cabal Therapy
-1 Forest
 1 Island
 1 Swamp
+1 Forest
 2 Forest
 2 Island
 1 Knight of Autumn
-1 Wooded Foothills
 1 Taiga
+1 Wooded Foothills
 1 Volcanic Island
 3 Windswept Heath
 4 Birds of Paradise
@@ -80,8 +80,8 @@
 1 Malevolent Hermit
 1 Force of Negation
 1 Minsc & Boo, Timeless Heroes
-2 Minsc & Boo, Timeless Heroes
 2 Oath of Nissa
+2 Minsc & Boo, Timeless Heroes
 1 Fable of the Mirror-Breaker
 1 Abundant Growth
 2 Wooded Foothills
@@ -93,13 +93,13 @@
 1 Indatha Triome
 1 Niambi, Esteemed Speaker
 1 Botanical Sanctum
-1 Sheoldred, the Apocalypse
-2 Boseiju, Who Endures
-2 Sheoldred, the Apocalypse
-2 Sylvan Library
 1 Tear Asunder
 2 Fatal Push
 2 Grist, the Hunger Tide
+1 Sheoldred, the Apocalypse
+2 Sheoldred, the Apocalypse
+2 Sylvan Library
+2 Boseiju, Who Endures
 3 Flooded Strand
 3 Island
 1 Thoughtseize
@@ -107,8 +107,8 @@
 3 Thoughtseize
 4 Green Sun's Zenith
 1 Arcane Proxy
-1 Mishra's Bauble
 1 Haywire Mite
+1 Mishra's Bauble
 1 Living Wish
 1 Traverse the Ulvenwald
 2 Mishra's Bauble
