@@ -1,7 +1,3 @@
-1 Taiga
-1 Ancient Tomb
-1 Kiki-Jiki, Mirror Breaker
-2 Ancient Tomb
 3 Ancient Tomb
 3 Wooded Foothills
 3 Goblin Ringleader
@@ -24,31 +20,37 @@
 2 Boggart Harbinger
 3 Conspicuous Snoop
 4 Conspicuous Snoop
-1 Scalding Tarn
+2 Goblin Piledriver
+1 Squee, Dubious Monarch
+3 Rishadan Port
+3 Mountain
+2 Fury
 1 Gempalm Incinerator
 2 Arid Mesa
+1 Scalding Tarn
 1 Karakas
-3 Badlands
-2 Fury
+3 Fury
 2 Goblin Chieftain
 1 Goblin Sharpshooter
 1 Stingscourger
-3 Fury
+3 Badlands
+3 Boggart Harbinger
 2 Scalding Tarn
 4 Mountain
-4 Rundvelt Hordemaster
-3 Skirk Prospector
 1 Snow-Covered Mountain
 3 Scalding Tarn
-3 Boggart Harbinger
 4 Muxus, Goblin Grandee
 3 Arid Mesa
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
-1 Lightning Crafter
+4 Rundvelt Hordemaster
+3 Skirk Prospector
+4 Ancient Tomb
 2 Twinshot Sniper
+1 Lightning Crafter
 5 Mountain
 6 Mountain
+2 Kiki-Jiki, Mirror Breaker
 1 ________ Goblin
 3 Goblin Warchief
 3 Taiga
@@ -56,10 +58,8 @@
 4 Bloodstained Mire
 3 Mogg War Marshal
 1 Goblin Trashmaster
-4 Ancient Tomb
 1 Swamp
 1 Goblin Chainwhirler
-2 Kiki-Jiki, Mirror Breaker
 1 Earwig Squad
 2 Fable of the Mirror-Breaker
 1 City of Traitors
@@ -74,8 +74,8 @@
 2 Goblin Cratermaker
 4 Rishadan Port
 4 Scalding Tarn
-2 Forest
 2 Goblin Sharpshooter
+2 Forest
 4 Arid Mesa
 2 ________ Goblin
 1 Squee, the Immortal
@@ -103,8 +103,8 @@
 3 Fable of the Mirror-Breaker
 4 Fable of the Mirror-Breaker
 4 Munitions Expert
-1 Sokenzan, Crucible of Defiance
 1 Shatterskull Smashing
+1 Sokenzan, Crucible of Defiance
 2 Shatterskull Smashing
 3 Shatterskull Smashing
 3 ________ Goblin

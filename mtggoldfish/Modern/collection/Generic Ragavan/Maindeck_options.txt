@@ -161,10 +161,10 @@
 4 Fable of the Mirror-Breaker
 4 Desperate Ritual
 4 Gemstone Caverns
-1 Shore Up
 1 Snow-Covered Island
 1 Snow-Covered Swamp
 1 Vapor Snag
+1 Shore Up
 1 Stomping Ground
 1 Serum Visions
 1 Harmonic Prodigy
@@ -226,10 +226,6 @@
 3 Marsh Flats
 3 Torbran, Thane of Red Fell
 4 Torbran, Thane of Red Fell
-3 Reckless Impulse
-4 Reckless Impulse
-5 Snow-Covered Mountain
-6 Snow-Covered Mountain
 1 Chandra, Dressed to Kill
 1 Chandra, Awakened Inferno
 1 Chandra, Fire Artisan
@@ -239,7 +235,11 @@
 3 Seasoned Pyromancer
 3 Spikefield Hazard
 4 Seasoned Pyromancer
+9 Mountain
 10 Mountain
 11 Mountain
 12 Mountain
-9 Mountain
+3 Reckless Impulse
+4 Reckless Impulse
+5 Snow-Covered Mountain
+6 Snow-Covered Mountain

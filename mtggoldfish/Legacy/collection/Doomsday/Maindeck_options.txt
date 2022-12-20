@@ -1,14 +1,14 @@
 3 Flooded Strand
 2 Misty Rainforest
+1 Marsh Flats
 3 Street Wraith
 1 Watery Grave
-1 Marsh Flats
 3 Duress
 3 Misty Rainforest
 1 Preordain
 2 Preordain
-4 Flooded Strand
 3 Scalding Tarn
+4 Flooded Strand
 1 Baleful Strix
 2 Baleful Strix
 3 Baleful Strix
@@ -27,10 +27,10 @@
 1 Snow-Covered Island
 1 Snow-Covered Swamp
 1 Unearth
+4 Daze
 3 Cabal Ritual
 4 Lotus Petal
 1 Pact of Negation
-4 Daze
 1 Bloodstained Mire
 1 Profane Tutor
 1 Night's Whisper
@@ -43,27 +43,11 @@
 4 Cabal Ritual
 1 Spell Pierce
 1 Misdirection
-1 Mishra's Bauble
-2 Mishra's Bauble
-3 Mishra's Bauble
-1 Verdant Catacombs
-1 Orim's Chant
-1 Relic of Progenitus
-2 Flusterstorm
-2 Spell Pierce
-2 Island
-1 Force of Negation
-1 Lim-Dul's Vault
-2 Tundra
-2 Lim-Dul's Vault
-2 Force of Negation
-2 Predict
-1 Third Path Iconoclast
 1 Murktide Regent
+1 Third Path Iconoclast
 1 Mystic Sanctuary
 1 Fatal Push
 1 Expressive Iteration
-1 Badlands
 1 Volcanic Island
 2 Murktide Regent
 2 Fatal Push
@@ -71,6 +55,25 @@
 2 Volcanic Island
 3 Murktide Regent
 3 Expressive Iteration
-4 Murktide Regent
 4 Scalding Tarn
 4 Expressive Iteration
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Mishra's Bauble
+1 Verdant Catacombs
+1 Orim's Chant
+1 Relic of Progenitus
+1 Blood Crypt
+1 Steam Vents
+2 Third Path Iconoclast
+2 Flusterstorm
+2 Spell Pierce
+2 Island
+1 Badlands
+4 Murktide Regent
+1 Force of Negation
+1 Lim-Dul's Vault
+2 Tundra
+2 Lim-Dul's Vault
+2 Force of Negation
+2 Predict

@@ -1,19 +1,18 @@
-1 Cast Out
-1 Abundant Growth
 2 Abundant Growth
-1 Carpet of Flowers
-2 Cast Out
-3 Abundant Growth
+1 Paladin Class
 1 Mirri's Guile
-2 Paladin Class
+1 Carpet of Flowers
 1 Bayou
+1 Cast Out
+3 Abundant Growth
 4 Abundant Growth
 6 Snow-Covered Forest
+2 Cast Out
+2 Paladin Class
 2 Green Sun's Zenith
 1 Elephant Grass
 1 Verdant Catacombs
 1 Gloomshrieker
-3 Serra's Sanctum
 2 Elephant Grass
 1 Living Wish
 2 Living Wish
@@ -21,6 +20,8 @@
 4 Living Wish
 2 Carpet of Flowers
 1 Wooded Foothills
+3 Serra's Sanctum
+2 Verdant Catacombs
 1 Swift Reconfiguration
 2 Swift Reconfiguration
 7 Snow-Covered Forest
@@ -28,7 +29,6 @@
 3 Swift Reconfiguration
 4 Swift Reconfiguration
 3 Paladin Class
-2 Verdant Catacombs
 1 Commune with Spirits
 2 Commune with Spirits
 3 Commune with Spirits
@@ -53,9 +53,9 @@
 1 Dryad Arbor
 2 Mirri's Guile
 4 Paladin Class
-1 Temple Garden
 1 Snow-Covered Swamp
 1 Hallowed Fountain
+1 Temple Garden
 1 Marsh Flats
 2 Marsh Flats
 3 Marsh Flats
@@ -66,8 +66,10 @@
 4 Elephant Grass
 1 Hall of Heliod's Generosity
 1 Cavern of Souls
-2 Snow-Covered Plains
+1 Leyline Binding
+2 Leyline Binding
 1 Emrakul, the Aeons Torn
+1 Tropical Island
 1 Elvish Spirit Guide
 2 Elvish Spirit Guide
 1 Enlightened Tutor
@@ -80,15 +82,20 @@
 10 Forest
 11 Forest
 12 Forest
+1 Dress Down
+1 Savai Triome
+2 Dress Down
+3 Leyline Binding
+3 Dress Down
+4 Dress Down
+4 Leyline Binding
 1 Yasharn, Implacable Earth
 1 Seal of Primordium
 1 Touch the Spirit Realm
 1 Eidolon of Blossoms
+1 Yavimaya, Cradle of Growth
 1 Silvanus's Invoker
 1 Exploration
-1 Leyline Binding
-1 Yavimaya, Cradle of Growth
-2 Leyline Binding
 1 Shigeki, Jukai Visionary
 1 Heliod, Sun-Crowned
 1 Quarantine Field
@@ -107,7 +114,6 @@
 1 Trial of Ambition
 1 Cloud of Faeries
 1 Binding the Old Gods
-1 Tropical Island
 1 Estrid's Invocation
 1 Meticulous Excavation
 1 Inventive Iteration
@@ -117,13 +123,13 @@
 1 Surgical Extraction
 1 Land Tax
 1 Back to Basics
-1 Island
 1 Energy Field
 1 Ancestral Knowledge
 1 Instill Energy
+1 Island
 1 Birds of Paradise
-2 Birds of Paradise
 2 Counterspell
+2 Birds of Paradise
 2 Back to Basics
 2 Instill Energy
 2 Energy Field
@@ -132,13 +138,14 @@
 3 Instill Energy
 4 Instill Energy
 4 Elvish Spirit Guide
+2 Snow-Covered Plains
 3 Helm of Obedience
 4 Rest in Peace
 8 Snow-Covered Forest
 9 Snow-Covered Forest
 10 Snow-Covered Forest
-1 Aeve, Progenitor Ooze
 1 Allosaurus Shepherd
+1 Aeve, Progenitor Ooze
 1 Early Harvest
 1 Tendrils of Agony
 1 Rofellos's Gift
@@ -147,8 +154,8 @@
 2 Early Harvest
 2 Unbridled Growth
 2 Rofellos's Gift
-3 Early Harvest
 3 Rofellos's Gift
+3 Early Harvest
 3 Unbridled Growth
 4 Rofellos's Gift
 4 Unbridled Growth

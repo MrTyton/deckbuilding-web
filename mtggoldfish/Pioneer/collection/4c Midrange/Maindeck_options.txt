@@ -1,9 +1,9 @@
 1 Omen of the Sea
 1 Spirited Companion
+1 Glasspool Mimic
 1 Enigmatic Incarnation
 1 Deputy of Detention
 1 Nylea's Presence
-1 Glasspool Mimic
 1 Knight of Autumn
 1 Yorion, Sky Nomad
 2 Omen of the Sea
@@ -11,8 +11,8 @@
 2 Nylea's Presence
 3 Enigmatic Incarnation
 3 Nylea's Presence
-4 Nylea's Presence
 4 Enigmatic Incarnation
+4 Nylea's Presence
 1 Renegade Rallier
 3 Chained to the Rocks
 3 Island
@@ -78,8 +78,8 @@
 2 Sacred Foundry
 3 Mountain
 1 Adarkar Wastes
-1 Yavimaya Coast
 1 Eldrazi Displacer
+1 Yavimaya Coast
 2 Adarkar Wastes
 2 Yavimaya Coast
 3 Yavimaya Coast
@@ -105,8 +105,8 @@
 4 Branchloft Pathway
 1 Skyclave Apparition
 1 Barkchannel Pathway
-2 Barkchannel Pathway
 2 Spirited Companion
+2 Barkchannel Pathway
 3 Barkchannel Pathway
 4 Barkchannel Pathway
 1 Expressive Iteration
@@ -168,10 +168,10 @@
 2 Steam Vents
 3 The Wandering Emperor
 1 Nissa, Who Shakes the World
-1 Settle the Wreckage
 1 Emeria's Call
-1 Divide by Zero
 1 Shigeki, Jukai Visionary
+1 Divide by Zero
+1 Settle the Wreckage
 1 Portal to Phyrexia
 1 Thassa's Intervention
 1 Deserted Beach
@@ -251,17 +251,46 @@
 2 Turntimber Symbiosis
 2 Felidar Retreat
 2 Lair of the Hydra
-3 Lair of the Hydra
 3 Cultivate
+3 Lair of the Hydra
 4 Cultivate
-1 Woodland Cemetery
 1 Nicol Bolas, the Ravager
 1 Magma Opus
+1 Woodland Cemetery
 2 Magma Opus
 3 Magma Opus
 4 Ugin, the Spirit Dragon
 4 Magma Opus
 4 Deafening Clarion
+1 Impulse
+1 Secrets of the Key
+1 Dwarven Mine
+1 Big Score
+1 Fiery Impulse
+1 Xenagos, God of Revels
+1 Worldspine Wurm
+1 Indomitable Creativity
+1 Fire Prophecy
+2 Impulse
+2 Negate
+2 Secrets of the Key
+2 Big Score
+2 Fiery Impulse
+2 Fire Prophecy
+2 Dwarven Mine
+2 Indomitable Creativity
+3 Impulse
+3 Steam Vents
+3 Fire Prophecy
+3 Sacred Foundry
+3 Indomitable Creativity
+3 Dwarven Mine
+4 Impulse
+4 Steam Vents
+4 Fire Prophecy
+4 Sacred Foundry
+4 Dwarven Mine
+4 Indomitable Creativity
 1 Touch the Spirit Realm
 1 Twinshot Sniper
 1 Temporary Lockdown
@@ -275,32 +304,3 @@
 3 Temporary Lockdown
 3 Bonecrusher Giant
 4 Bonecrusher Giant
-1 Impulse
-1 Secrets of the Key
-1 Dwarven Mine
-1 Big Score
-1 Fiery Impulse
-1 Fire Prophecy
-1 Xenagos, God of Revels
-1 Worldspine Wurm
-1 Indomitable Creativity
-2 Impulse
-2 Negate
-2 Secrets of the Key
-2 Big Score
-2 Fire Prophecy
-2 Fiery Impulse
-2 Dwarven Mine
-2 Indomitable Creativity
-3 Impulse
-3 Fire Prophecy
-3 Indomitable Creativity
-3 Dwarven Mine
-3 Sacred Foundry
-3 Steam Vents
-4 Impulse
-4 Sacred Foundry
-4 Steam Vents
-4 Dwarven Mine
-4 Indomitable Creativity
-4 Fire Prophecy

@@ -69,12 +69,11 @@
 2 Arid Mesa
 2 Urza's Saga
 1 Otawara, Soaring City
-1 Palace Jailer
+1 Thalia, Guardian of Thraben
 1 Aether Vial
 1 Venser, Shaper Savant
 1 Spell Queller
 1 Cavern of Souls
-1 Thalia, Guardian of Thraben
 1 Imperial Recruiter
 1 Recruiter of the Guard
 1 Fiery Islet
@@ -83,6 +82,7 @@
 1 Remorseful Cleric
 1 Loran of the Third Path
 1 Moorland Haunt
+1 Palace Jailer
 1 Rattlechains
 1 Eiganjo, Seat of the Empire
 1 Eidolon of the Great Revel
@@ -93,11 +93,11 @@
 2 Aether Vial
 2 Spell Queller
 2 Spirit of the Labyrinth
-2 Cavern of Souls
 2 Supreme Phantom
 2 Rattlechains
 2 Mausoleum Wanderer
 2 Skyclave Apparition
+2 Cavern of Souls
 2 Drogskol Captain
 3 Aether Vial
 3 Spell Queller
@@ -117,7 +117,6 @@
 1 Storybook Ride
 1 Information Booth
 1 Swinging Ship
-1 Caves of Chaos Adventurer
 1 Pithing Needle
 1 Pick-a-Beeble
 1 Command Performance
@@ -129,8 +128,9 @@
 1 Lightning Bolt
 1 Foam Weapons Kiosk
 1 Drop Tower
-2 Caves of Chaos Adventurer
+1 Caves of Chaos Adventurer
 2 Aarakocra Sneak
+2 Caves of Chaos Adventurer
 2 Lightning Bolt
 2 Command Performance
 3 Caves of Chaos Adventurer
@@ -140,10 +140,10 @@
 4 Polluted Delta
 4 Command Performance
 4 Urza's Saga
-1 Teferi, Hero of Dominaria
-1 Flusterstorm
 1 Comet, Stellar Pup
 1 Lion Sash
+1 Flusterstorm
+1 Teferi, Hero of Dominaria
 1 Bonesplitter
 1 Triumph of Saint Katherine
 2 Triumph of Saint Katherine
@@ -157,8 +157,8 @@
 3 Force of Negation
 3 Seasoned Dungeoneer
 4 Volcanic Island
-1 Dovin's Veto
 1 Snow-Covered Mountain
+1 Dovin's Veto
 2 Snow-Covered Island
 2 Snow-Covered Plains
 2 Dovin's Veto
@@ -172,8 +172,8 @@
 1 Day's Undoing
 1 Preordain
 2 Preordain
-2 Karn, the Great Creator
 2 Day's Undoing
+2 Karn, the Great Creator
 2 Hullbreacher
 2 Ancient Tomb
 3 Ancient Tomb

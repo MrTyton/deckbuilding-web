@@ -13,8 +13,8 @@
 3 Fable of the Mirror-Breaker
 4 Chained to the Rocks
 4 Fable of the Mirror-Breaker
-1 Breeding Pool
 1 Steam Vents
+1 Breeding Pool
 1 Barkchannel Pathway
 2 Ketria Triome
 3 Temple Garden
@@ -22,8 +22,8 @@
 1 Gloomshrieker
 1 Glasspool Mimic
 1 Yavimaya Coast
-1 Bitter Reunion
 1 Charming Prince
+1 Bitter Reunion
 1 Nylea's Presence
 1 Sunpetal Grove
 1 Portable Hole
@@ -31,22 +31,22 @@
 1 Callous Bloodmage
 1 Moon-Blessed Cleric
 1 Omen of the Sea
-1 Elder Gargaroth
+1 Titan of Industry
 1 Archon of Emeria
 1 Yorion, Sky Nomad
 1 Agent of Treachery
 1 Skyclave Apparition
-1 Titan of Industry
 1 Oath of Chandra
 1 Enigmatic Incarnation
 1 Dovin's Veto
 1 Archon of Sun's Grace
 1 Knight of Autumn
-2 Yavimaya Coast
+1 Elder Gargaroth
 2 Steam Vents
 2 Nylea's Presence
 2 Omen of the Sea
 2 Portable Hole
+2 Yavimaya Coast
 2 Glacial Fortress
 2 Dovin's Veto
 2 Sunpetal Grove
@@ -79,6 +79,7 @@
 1 Hajar, Loyal Bodyguard
 1 Jodah, the Unifier
 1 Mox Amber
+1 Sokenzan, Crucible of Defiance
 1 Halana and Alena, Partners
 1 Plaza of Heroes
 1 Tovolar, Dire Overlord
@@ -95,7 +96,6 @@
 1 Gallia of the Endless Dance
 1 Rith, Liberated Primeval
 1 Radha, Heart of Keld
-1 Sokenzan, Crucible of Defiance
 1 Surrak, the Hunt Caller
 2 Jodah, the Unifier
 2 Hajar, Loyal Bodyguard
@@ -126,20 +126,20 @@
 2 Oath of Nissa
 3 Oath of Nissa
 4 Oath of Nissa
-1 Hagra Mauling
 1 Kaya, Orzhov Usurper
+1 Hagra Mauling
 1 Darkbore Pathway
 1 Spara's Headquarters
 1 Hall of Storm Giants
 1 Ashiok, Nightmare Muse
 1 Search for Glory
-1 Karn, the Great Creator
 1 Abrupt Decay
+1 Karn, the Great Creator
 1 Supreme Verdict
-1 Cry of the Carnarium
 1 Oath of Kaya
 1 Temple of Malady
 1 Bala Ged Recovery
+1 Cry of the Carnarium
 1 Nicol Bolas, the Ravager
 1 Castle Vantress
 1 Temple of Mystery
@@ -147,10 +147,10 @@
 2 Spara's Headquarters
 2 Indatha Triome
 2 Search for Glory
-2 Cry of the Carnarium
 2 Supreme Verdict
 2 Overgrown Tomb
 2 Oath of Kaya
+2 Cry of the Carnarium
 2 Abrupt Decay
 2 The Wandering Emperor
 2 Ziatora's Proving Ground
@@ -194,11 +194,11 @@
 1 Karn's Bastion
 1 Narset of the Ancient Way
 1 Nissa, Voice of Zendikar
-2 Ugin, the Spirit Dragon
 2 Brushland
 2 Settle the Wreckage
 2 Teferi, Hero of Dominaria
 2 Plains
+2 Ugin, the Spirit Dragon
 2 Nissa, Voice of Zendikar
 2 Nicol Bolas, God-Pharaoh
 2 Chandra, Torch of Defiance
