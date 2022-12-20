@@ -133,7 +133,7 @@
 |                    3|[Castle Garenbrig](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473202)            |                     |                                                                                                    |
 |                    3|[Summoner's Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442178)             |                     |                                                                                                    |
 |                    3|[Cinder Glade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401841)                |                     |                                                                                                    |
-|                    4|[Castle Garenbrig](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473202)            |                     |                                                                                                    |
 |                    4|[Summoner's Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442178)             |                     |                                                                                                    |
+|                    4|[Castle Garenbrig](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473202)            |                     |                                                                                                    |
 |                    4|[Cinder Glade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401841)                |                     |                                                                                                    |
 
