@@ -26,8 +26,8 @@
 1 Island
 4 Hymn to Tourach
 4 Scalding Tarn
-1 Watery Grave
 1 Steam Vents
+1 Watery Grave
 1 Death's Shadow
 2 Death's Shadow
 2 Watery Grave
@@ -42,8 +42,8 @@
 1 Street Wraith
 2 Street Wraith
 3 Street Wraith
-4 Street Wraith
 4 Thoughtseize
+4 Street Wraith
 3 Snuff Out
 1 Force of Negation
 1 Jace, Vryn's Prodigy
@@ -61,17 +61,21 @@
 2 Force of Negation
 1 Kaito Shizuki
 2 Kaito Shizuki
+1 Reanimate
+2 Reanimate
 1 Stifle
 1 Dismember
 2 Stifle
 2 Brazen Borrower
-1 Reanimate
-2 Reanimate
+3 Ledger Shredder
 1 Dark Confidant
 1 Inquisition of Kozilek
 2 Dark Confidant
 2 Inquisition of Kozilek
 3 Dark Confidant
+1 Third Path Iconoclast
+2 Third Path Iconoclast
+3 Third Path Iconoclast
 1 Dauthi Voidwalker
 1 Rona's Vortex
 1 Chart a Course
@@ -79,23 +83,19 @@
 2 Rona's Vortex
 2 Chart a Course
 3 Dauthi Voidwalker
-3 Ledger Shredder
-1 Third Path Iconoclast
-2 Third Path Iconoclast
-3 Third Path Iconoclast
-1 Gurmag Angler
+1 True-Name Nemesis
+1 Swamp
+1 Sudden Edict
+2 Sudden Edict
+2 True-Name Nemesis
+2 Island
+3 Sudden Edict
 1 Angrath's Rampage
+1 Gurmag Angler
 2 Gurmag Angler
 2 Angrath's Rampage
 3 Angrath's Rampage
 3 Gurmag Angler
-1 True-Name Nemesis
-1 Swamp
-1 Sudden Edict
-2 Island
-2 Sudden Edict
-2 True-Name Nemesis
-3 Sudden Edict
 4 Snuff Out
 1 "Lifetime" Pass Holder
 2 "Lifetime" Pass Holder
@@ -104,12 +104,12 @@
 1 Snow-Covered Island
 3 Ob Nixilis, the Adversary
 4 Underground Sea
+1 Preordain
 1 Chain Lightning
 1 Spell Snare
-1 Preordain
 1 Spell Pierce
-2 Preordain
 2 Spell Snare
 2 Spell Pierce
+2 Preordain
 3 Preordain
 4 Young Pyromancer

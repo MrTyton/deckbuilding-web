@@ -15,6 +15,7 @@
 7 Swamp
 8 Swamp
 1 Mountain
+1 Shambling Ghast
 1 Haunted Ridge
 1 Xander's Lounge
 1 Ob Nixilis, the Adversary
@@ -23,9 +24,9 @@
 1 Ziatora's Proving Ground
 1 Gate to Tumbledown
 1 Fable of the Mirror-Breaker
-1 Shambling Ghast
 1 Sokenzan, Crucible of Defiance
 1 Cursebound Witch
+2 Shambling Ghast
 2 Ziatora's Proving Ground
 2 Haunted Ridge
 2 Xander's Lounge
@@ -33,18 +34,17 @@
 2 Mountain
 2 Deadly Dispute
 2 Wyll, Pact-Bound Duelist
-2 Shambling Ghast
 2 Fable of the Mirror-Breaker
 2 Cursebound Witch
+3 Shambling Ghast
 3 Ob Nixilis, the Adversary
 3 Haunted Ridge
 3 Sheoldred, the Apocalypse
 3 Deadly Dispute
 3 Fable of the Mirror-Breaker
 3 Cursebound Witch
-3 Shambling Ghast
-4 Shambling Ghast
 4 Deadly Dispute
+4 Shambling Ghast
 4 Infernal Grasp
 4 Haunted Ridge
 4 Sheoldred, the Apocalypse
@@ -92,8 +92,8 @@
 1 Edgar, Charmed Groom
 1 Sunlit Marsh
 1 Ao, the Dawn Sky
-1 Sorin the Mirthless
 1 Wedding Announcement
+1 Sorin the Mirthless
 1 Graveyard Trespasser
 1 Cut Down
 1 Elspeth Resplendent
@@ -102,11 +102,11 @@
 1 Scoured Barrens
 2 Graveyard Trespasser
 2 Reckoner Bankbuster
+2 Edgar, Charmed Groom
 2 Tenacious Underdog
 2 Sunlit Marsh
 2 The Wandering Emperor
 2 Wedding Announcement
-2 Edgar, Charmed Groom
 2 Cut Down
 2 Farewell
 2 Ao, the Dawn Sky
@@ -123,8 +123,8 @@
 7 Plains
 8 Plains
 1 Selfless Savior
-1 Bloodchief's Thirst
 1 Serra Paragon
+1 Bloodchief's Thirst
 1 Soul Warden
 1 Resplendent Angel
 1 Righteous Valkyrie

@@ -4,17 +4,17 @@
 1 Rending Volley
 2 Rending Volley
 3 Rending Volley
+1 Wear/Tear
+2 Wear/Tear
 1 Stubborn Denial
 2 Stubborn Denial
 1 Disdainful Stroke
 2 Disdainful Stroke
-1 The Royal Scions
-2 The Royal Scions
+1 Pithing Needle
 1 Aether Gust
 2 Aether Gust
-1 Wear/Tear
-2 Wear/Tear
-1 Pithing Needle
+1 The Royal Scions
+2 The Royal Scions
 1 Shadowspear
 4 Glass Casket
 3 Rest in Peace
@@ -38,16 +38,16 @@
 1 Ensoul Artifact
 1 The Blackstaff of Waterdeep
 2 Mutavault
-2 Springleaf Drum
 2 Spire of Industry
+2 Springleaf Drum
 2 Mana Confluence
 2 Darksteel Citadel
 2 The Blackstaff of Waterdeep
 2 Hallowed Fountain
 2 Ensoul Artifact
 3 Mutavault
-3 Spire of Industry
 3 Springleaf Drum
+3 Spire of Industry
 3 Mana Confluence
 3 Darksteel Citadel
 3 Ensoul Artifact
@@ -62,16 +62,21 @@
 1 Soul-Guide Lantern
 4 Unlicensed Hearse
 4 Rending Volley
-1 Damping Sphere
 1 Abrade
 2 Abrade
 1 Temur Battle Rage
 1 Roast
 2 Roast
 3 Wear/Tear
+1 Alpine Moon
+1 Destroy Evil
+2 Alpine Moon
+2 Destroy Evil
+3 Alpine Moon
 3 Deafening Silence
 1 Saheeli, Filigree Master
 2 Saheeli, Filigree Master
+1 Damping Sphere
 2 Damping Sphere
 1 Obliterating Bolt
 2 Obliterating Bolt
@@ -89,11 +94,6 @@
 3 Saheeli, Filigree Master
 2 Declaration in Stone
 3 Declaration in Stone
-1 Alpine Moon
-1 Destroy Evil
-2 Alpine Moon
-2 Destroy Evil
-3 Alpine Moon
 1 Phyrexian Revoker
 1 Tormod's Crypt
 2 Tormod's Crypt
@@ -106,8 +106,8 @@
 1 Pacifism
 2 Pacifism
 3 Pacifism
-1 Aethersphere Harvester
 1 Leyline of the Void
+1 Aethersphere Harvester
 2 Leyline of the Void
 2 Aethersphere Harvester
 3 Obliterating Bolt

@@ -56,19 +56,14 @@
 1 Forgotten Cave
 2 Forgotten Cave
 2 Rampaging Ferocidon
-1 Fervent Champion
-2 Fervent Champion
-3 Fervent Champion
-4 Fervent Champion
-4 Spikefield Hazard
 1 Rootbound Crag
 1 Dreadhorde Arcanist
 1 Cragcrown Pathway
 1 Temple of Abandon
 1 Experimental Frenzy
-2 Dreadhorde Arcanist
 2 Rootbound Crag
 2 Cragcrown Pathway
+2 Dreadhorde Arcanist
 3 Dreadhorde Arcanist
 3 Rootbound Crag
 3 Cragcrown Pathway
@@ -77,28 +72,33 @@
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
 4 Goblin Chainwhirler
+1 Burning-Tree Emissary
 1 March of Reckless Joy
 1 Sunscorched Desert
 1 Hazoret the Fervent
-1 Burning-Tree Emissary
+2 Burning-Tree Emissary
 2 March of Reckless Joy
 2 Hazoret the Fervent
-2 Burning-Tree Emissary
 2 Sunscorched Desert
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
+4 Spikefield Hazard
+1 Fervent Champion
+2 Fervent Champion
+3 Fervent Champion
+4 Fervent Champion
 1 Chandra's Incinerator
 2 Chandra's Incinerator
 2 Grim Lavamancer
 3 Chandra's Incinerator
 4 Chandra's Incinerator
 1 Harmonic Prodigy
-1 Reckless Charge
 1 Pass the Torch
+1 Reckless Charge
 2 Reckless Charge
 2 Harmonic Prodigy
-3 Reckless Charge
 3 Harmonic Prodigy
+3 Reckless Charge
 4 Reckless Charge
 1 Electrostatic Infantry
 1 Monastery Swiftspear
@@ -116,17 +116,17 @@
 4 Monastery Swiftspear
 4 Kessig Flamebreather
 1 Flame Channeler
-1 Roil Eruption
 1 Slaying Fire
 1 The Flame of Keld
+1 Roil Eruption
 2 Flame Channeler
-2 Roil Eruption
 2 Slaying Fire
+2 Roil Eruption
 2 The Flame of Keld
-3 Roil Eruption
 3 Flame Channeler
-4 Roil Eruption
+3 Roil Eruption
 4 Pillar of Flame
+4 Roil Eruption
 4 Flame Channeler
 1 Temple Garden
 1 Inspiring Vantage
@@ -156,9 +156,9 @@
 4 Temple Garden
 4 Clever Lumimancer
 4 Inspiring Vantage
-1 Fanatical Firebrand
 1 Electrostatic Field
 1 Spear Spewer
+1 Fanatical Firebrand
 2 Risk Factor
 2 Electrostatic Field
 2 Spear Spewer

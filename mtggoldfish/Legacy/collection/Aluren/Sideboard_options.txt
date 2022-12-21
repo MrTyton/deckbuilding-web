@@ -42,8 +42,6 @@
 2 Meddling Mage
 1 The Stone Brain
 2 The Stone Brain
-1 Run Afoul
-2 Run Afoul
 1 Mindbreak Trap
 2 Blue Elemental Blast
 1 Deafening Silence
@@ -51,6 +49,8 @@
 1 Pithing Needle
 2 Rest in Peace
 2 Deafening Silence
+1 Run Afoul
+2 Run Afoul
 2 Grist, the Hunger Tide
 2 Fatal Push
 2 Pyroblast
@@ -67,7 +67,7 @@
 1 Sudden Edict
 1 Sylvan Library
 2 Sudden Edict
-3 Sudden Edict
+2 Sylvan Library
 3 Force of Vigor
 3 Veil of Summer
-2 Sylvan Library
+3 Sudden Edict

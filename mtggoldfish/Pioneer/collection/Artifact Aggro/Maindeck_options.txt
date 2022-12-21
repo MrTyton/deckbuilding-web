@@ -1,5 +1,5 @@
-1 Ghostfire Blade
 3 Battlefield Forge
+1 Ghostfire Blade
 1 Shrapnel Blast
 1 Darksteel Citadel
 2 Shrapnel Blast
@@ -7,6 +7,7 @@
 3 Shrapnel Blast
 3 Darksteel Citadel
 4 Darksteel Citadel
+2 Ghostfire Blade
 1 Ensoul Artifact
 2 Ensoul Artifact
 3 Ensoul Artifact
@@ -17,16 +18,17 @@
 2 Spirebluff Canal
 3 Spirebluff Canal
 4 Spirebluff Canal
-2 Ghostfire Blade
 1 Spire of Industry
 2 Spire of Industry
-2 The Blackstaff of Waterdeep
 3 Spire of Industry
+4 Shrapnel Blast
+2 The Blackstaff of Waterdeep
+4 Spire of Industry
 1 Voltage Surge
 2 Voltage Surge
-4 Shrapnel Blast
 1 Steam Vents
 2 Steam Vents
+4 All That Glitters
 1 Mountain
 1 Riverglide Pathway
 1 Otawara, Soaring City
@@ -34,15 +36,18 @@
 3 Riverglide Pathway
 3 Steam Vents
 4 Steam Vents
-4 Spire of Industry
 1 Experimental Synthesizer
 1 Sokenzan, Crucible of Defiance
 2 Experimental Synthesizer
 3 Experimental Synthesizer
-4 All That Glitters
-3 Voltage Surge
+4 Battlefield Forge
 1 Shivan Reef
 3 Ghostfire Blade
+3 Voltage Surge
+1 Steel Seraph
+2 Steel Seraph
+3 Steel Seraph
+4 Steel Seraph
 1 Glass Casket
 2 Glass Casket
 4 Roadside Reliquary
@@ -51,7 +56,6 @@
 3 Hallowed Fountain
 4 Hallowed Fountain
 1 Unlicensed Hearse
-4 Battlefield Forge
 1 Hope of Ghirapur
 1 Stubborn Denial
 4 Ghostfire Blade
@@ -59,8 +63,8 @@
 2 Shivan Reef
 3 Shivan Reef
 4 Shivan Reef
-1 The Royal Scions
 1 Brazen Borrower
+1 The Royal Scions
 1 Lizard Blades
 1 Showdown of the Skalds
 1 Hengegate Pathway
@@ -74,10 +78,6 @@
 3 Yotian Frontliner
 4 Yotian Frontliner
 4 Experimental Synthesizer
-1 Steel Seraph
-2 Steel Seraph
-3 Steel Seraph
-4 Steel Seraph
 1 Surge Engine
 2 Surge Engine
 3 Surge Engine

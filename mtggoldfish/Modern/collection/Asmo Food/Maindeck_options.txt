@@ -1,16 +1,15 @@
 4 Scrapwork Mutt
 4 Wrenn and Six
-3 Fable of the Mirror-Breaker
 1 Yavimaya, Cradle of Growth
 1 Swamp
-1 Haywire Mite
 1 Street Wraith
 2 Street Wraith
 3 Street Wraith
-4 Street Wraith
 1 Overgrown Tomb
 1 Trail of Crumbs
 2 Trail of Crumbs
+1 Haywire Mite
+4 Street Wraith
 1 Blooming Marsh
 1 Cauldron Familiar
 2 Blooming Marsh
@@ -19,8 +18,10 @@
 3 Blooming Marsh
 3 Trail of Crumbs
 3 Cauldron Familiar
-4 Cauldron Familiar
 4 Blooming Marsh
+3 Fable of the Mirror-Breaker
+4 Trail of Crumbs
+4 Cauldron Familiar
 1 Pithing Needle
 1 Mishra's Bauble
 2 Mishra's Bauble
@@ -38,35 +39,34 @@
 2 Emry, Lurker of the Loch
 3 Emry, Lurker of the Loch
 4 Emry, Lurker of the Loch
-1 Unearth
-2 Unearth
-3 Unearth
+1 Breeding Pool
 1 Watery Grave
 1 Academy Manufactor
 1 Otawara, Soaring City
 1 Polluted Delta
 1 Time Sieve
-2 Time Sieve
 2 Watery Grave
 2 Polluted Delta
 2 Academy Manufactor
-3 Academy Manufactor
+2 Time Sieve
 3 Time Sieve
-1 Breeding Pool
+3 Academy Manufactor
 1 Sokenzan, Crucible of Defiance
+1 Unearth
+2 Unearth
+3 Unearth
 3 Overgrown Tomb
-4 Trail of Crumbs
 3 Galvanic Blast
 1 Aether Spellbomb
 3 Polluted Delta
 4 Polluted Delta
-4 Unearth
 3 Watery Grave
 4 Academy Manufactor
 2 Misty Rainforest
 3 Misty Rainforest
 1 Soul-Guide Lantern
 1 Nihil Spellbomb
+4 Unearth
 1 Pyrite Spellbomb
 1 Grist, the Hunger Tide
 4 Time Sieve
@@ -80,8 +80,8 @@
 1 Ketria Triome
 1 Scalding Tarn
 1 Mox Amber
-1 Expressive Iteration
 1 Steam Vents
+1 Expressive Iteration
 2 Scalding Tarn
 2 Expressive Iteration
 3 Expressive Iteration
@@ -97,24 +97,14 @@
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
-1 Marsh Flats
-1 Godless Shrine
-1 Plains
-1 Blood Crypt
-1 Bloodstained Mire
-1 Goblin Engineer
-2 Blood Crypt
-2 Bloodstained Mire
-2 Goblin Engineer
 2 Swamp
-3 Bloodstained Mire
-3 Goblin Engineer
-4 Goblin Engineer
 1 Lightning Bolt
 2 Lightning Bolt
 3 Lightning Bolt
 4 Lightning Bolt
 1 Minamo, School at Water's Edge
+1 Marsh Flats
+1 Godless Shrine
 1 Plaza of Heroes
 1 Tolaria West
 2 Island
@@ -123,6 +113,10 @@
 2 Witch's Oven
 2 Nurturing Peatland
 3 Darkslick Shores
+1 Urborg, Tomb of Yawgmoth
+1 Fatal Push
+2 Fatal Push
+3 Fatal Push
 3 Grist, the Hunger Tide
 3 Windswept Heath
 1 Metallic Rebuke
@@ -130,52 +124,39 @@
 2 Mox Amber
 3 Scalding Tarn
 4 Scalding Tarn
+1 Brazen Borrower
+1 Aether Vial
+1 Thought Monitor
+1 Plains
+2 Brazen Borrower
+2 Thought Monitor
+2 Flooded Strand
+3 Flooded Strand
+3 Thought Monitor
+4 Flooded Strand
+4 Galvanic Blast
+4 Expressive Iteration
+1 Blood Crypt
+1 Bloodstained Mire
 1 Phyrexian Dragon Engine
 1 Blackcleave Cliffs
 1 Mountain
+1 Goblin Engineer
 2 Phyrexian Dragon Engine
+2 Blood Crypt
+2 Bloodstained Mire
+2 Goblin Engineer
 2 Blackcleave Cliffs
 3 Blood Crypt
 3 Phyrexian Dragon Engine
 3 Blackcleave Cliffs
+3 Bloodstained Mire
+3 Goblin Engineer
 4 Phyrexian Dragon Engine
 4 Bloodstained Mire
 4 Blackcleave Cliffs
-1 Brazen Borrower
-1 Aether Vial
-1 Thought Monitor
-2 Brazen Borrower
-2 Thought Monitor
-2 Flooded Strand
-3 Thought Monitor
-3 Flooded Strand
-4 Flooded Strand
-4 Galvanic Blast
-4 Expressive Iteration
+4 Goblin Engineer
 1 Snow-Covered Swamp
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 4 Overgrown Tomb
-1 Arid Mesa
-1 Takenuma, Abandoned Mire
-1 Expedition Map
-1 Voldaren Epicure
-1 Smuggler's Copter
-1 Savai Triome
-1 Greasefang, Okiba Boss
-1 Sacred Foundry
-1 Parhelion II
-1 Skysovereign, Consul Flagship
-2 Arid Mesa
-2 Marsh Flats
-2 Voldaren Epicure
-2 Greasefang, Okiba Boss
-2 Parhelion II
-3 Marsh Flats
-3 Parhelion II
-3 Greasefang, Okiba Boss
-3 Voldaren Epicure
-4 Marsh Flats
-4 Greasefang, Okiba Boss
-4 Voldaren Epicure
-4 Parhelion II

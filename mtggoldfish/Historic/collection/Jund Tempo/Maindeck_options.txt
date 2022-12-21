@@ -17,8 +17,8 @@
 1 Laelia, the Blade Reforged
 2 Laelia, the Blade Reforged
 2 Fabled Passage
-1 Sheoldred, the Apocalypse
 1 Liliana of the Veil
+1 Sheoldred, the Apocalypse
 2 Liliana of the Veil
 3 Liliana of the Veil
 4 Overgrown Tomb
@@ -42,8 +42,8 @@
 1 Scavenging Ooze
 1 Davriel, Soul Broker
 1 Jewel Thief
-1 Shatterskull Smashing
 1 Voltage Surge
+1 Shatterskull Smashing
 1 Heartless Act
 1 Swashbuckler Extraordinaire
 2 Davriel, Soul Broker
@@ -69,9 +69,9 @@
 1 Bloodtithe Harvester
 1 Tramway Station
 1 Riveteers Overlook
-1 Bloodfell Caves
 1 Infernal Grasp
 1 Snow-Covered Swamp
+1 Bloodfell Caves
 2 Bloodtithe Harvester
 2 Tramway Station
 2 Kroxa, Titan of Death's Hunger
@@ -81,10 +81,10 @@
 3 Bloodtithe Harvester
 3 Tramway Station
 3 Riveteers Overlook
+3 Chandra, Torch of Defiance
 3 Bloodfell Caves
 3 Graveyard Trespasser
 3 Infernal Grasp
-3 Chandra, Torch of Defiance
 4 Bloodtithe Harvester
 4 Tramway Station
 4 Bloodfell Caves
@@ -107,7 +107,6 @@
 2 Woe Strider
 2 Korvold, Fae-Cursed King
 2 Priest of Forgotten Gods
-3 Korvold, Fae-Cursed King
 3 Unlucky Witness
 3 Prosperous Innkeeper
 3 Mayhem Devil
@@ -115,6 +114,7 @@
 3 Cabaretti Revels
 3 Priest of Forgotten Gods
 3 Woe Strider
+3 Korvold, Fae-Cursed King
 4 Korvold, Fae-Cursed King
 4 Prosperous Innkeeper
 4 Unlucky Witness
@@ -124,38 +124,38 @@
 4 Priest of Forgotten Gods
 4 Woe Strider
 1 Dragonskull Summit
-1 Hellrider
-1 Big Spender
+1 Castle Embereth
+1 Kumano Faces Kakkazan
 1 Raphael, Fiendish Savior
 1 Kardum, Patron of Flames
-1 Castle Embereth
+1 Hellrider
 1 Sin Prodder
 1 Mayhem Patrol
-1 Kumano Faces Kakkazan
 1 Tiefling Outcasts
+1 Big Spender
 2 Dragonskull Summit
-2 Hellrider
-2 Big Spender
+2 Kumano Faces Kakkazan
 2 Raphael, Fiendish Savior
 2 Tiefling Outcasts
-2 Kumano Faces Kakkazan
+2 Hellrider
 2 Mountain
 2 Kardum, Patron of Flames
 2 Mayhem Patrol
 2 Sin Prodder
-3 Hellrider
+2 Big Spender
 3 Haunted Ridge
 3 Kumano Faces Kakkazan
+3 Hellrider
 3 Big Spender
 3 Mayhem Patrol
 3 Tiefling Outcasts
 3 Mountain
-4 Hellrider
+4 Blightstep Pathway
+4 Kumano Faces Kakkazan
 4 Haunted Ridge
 4 Big Spender
 4 Mayhem Patrol
+4 Hellrider
 4 Mountain
-4 Tiefling Outcasts
-4 Blightstep Pathway
 5 Mountain
-4 Kumano Faces Kakkazan
+4 Tiefling Outcasts

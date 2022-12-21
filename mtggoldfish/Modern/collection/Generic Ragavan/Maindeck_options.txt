@@ -11,43 +11,47 @@
 2 Mountain
 3 Monastery Swiftspear
 4 Monastery Swiftspear
+4 Ragavan, Nimble Pilferer
 1 Light Up the Stage
 2 Light Up the Stage
+1 Arid Mesa
 3 Mountain
-4 Ragavan, Nimble Pilferer
 1 Soul-Scar Mage
 2 Soul-Scar Mage
-1 Arid Mesa
 2 Arid Mesa
 1 Mutagenic Growth
 2 Mutagenic Growth
 3 Soul-Scar Mage
+3 Mutagenic Growth
 3 Light Up the Stage
 4 Light Up the Stage
-3 Mutagenic Growth
 4 Soul-Scar Mage
-3 Steam Vents
 3 Spirebluff Canal
 1 Sacred Foundry
+3 Steam Vents
 1 Underworld Breach
 2 Underworld Breach
 4 Scalding Tarn
+3 Arid Mesa
+1 Wooded Foothills
+2 Wooded Foothills
 1 Ledger Shredder
 2 Ledger Shredder
 3 Ledger Shredder
 4 Ledger Shredder
-3 Arid Mesa
-1 Wooded Foothills
-2 Wooded Foothills
 4 Mutagenic Growth
-2 Fiery Islet
+1 Manamorphose
+2 Manamorphose
 1 Sprite Dragon
 2 Sprite Dragon
+2 Fiery Islet
+1 Snow-Covered Mountain
 4 Mountain
 1 Gut Shot
 1 Den of the Bugbear
-1 Manamorphose
-2 Manamorphose
+1 Sunbaked Canyon
+2 Sunbaked Canyon
+2 Sacred Foundry
 1 Third Path Iconoclast
 2 Third Path Iconoclast
 3 Third Path Iconoclast
@@ -55,29 +59,25 @@
 3 Fiery Islet
 4 Fiery Islet
 3 Sprite Dragon
-1 Snow-Covered Mountain
-1 Sunbaked Canyon
-2 Sunbaked Canyon
-2 Sacred Foundry
-1 Polluted Delta
-2 Polluted Delta
-3 Thought Scour
-4 Tolarian Terror
-1 Tarfire
+4 Spirebluff Canal
 1 Prismatic Ending
-1 Lightning Helix
-1 Inspiring Vantage
-1 Soul-Guide Lantern
-2 Tarfire
 2 Prismatic Ending
-2 Gut Shot
+1 Inspiring Vantage
 2 Inspiring Vantage
 3 Sacred Foundry
 3 Sunbaked Canyon
-3 Tarfire
-3 Prismatic Ending
 3 Inspiring Vantage
 4 Arid Mesa
+1 Polluted Delta
+2 Polluted Delta
+1 Bonecrusher Giant
+1 Tarfire
+1 Lightning Helix
+1 Soul-Guide Lantern
+2 Tarfire
+2 Gut Shot
+3 Tarfire
+3 Prismatic Ending
 1 Mox Amber
 1 Balmor, Battlemage Captain
 2 Balmor, Battlemage Captain
@@ -85,96 +85,60 @@
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
+4 Sprite Dragon
+3 Manamorphose
+4 Manamorphose
+1 Snow-Covered Island
+1 Serum Visions
+1 Reckless Impulse
+2 Reckless Impulse
 1 Terminate
 2 Blood Crypt
-1 Bonecrusher Giant
+2 Fatal Push
+3 Polluted Delta
+1 Darkslick Shores
 1 Sokenzan, Crucible of Defiance
 2 Bonecrusher Giant
+3 Bonecrusher Giant
 1 Fury
 2 Fury
 3 Fury
 4 Fury
-4 Spirebluff Canal
-4 Sprite Dragon
-1 Reckless Impulse
-2 Reckless Impulse
-3 Bonecrusher Giant
-2 Fatal Push
-3 Polluted Delta
-1 Darkslick Shores
+1 Teferi, Time Raveler
+1 Hallowed Fountain
+3 Den of the Bugbear
+4 Bonecrusher Giant
+2 Terminate
+1 Lightning Skelemental
+2 Lightning Skelemental
+3 Lightning Skelemental
+4 Lightning Skelemental
+1 Spikefield Hazard
 5 Mountain
 6 Mountain
+2 Seasoned Pyromancer
+1 Torbran, Thane of Red Fell
 1 Eidolon of the Great Revel
 1 Ramunap Ruins
+2 Torbran, Thane of Red Fell
 2 Eidolon of the Great Revel
 2 Ramunap Ruins
 3 Eidolon of the Great Revel
 3 Ramunap Ruins
 4 Ramunap Ruins
 4 Eidolon of the Great Revel
-3 Den of the Bugbear
-4 Bonecrusher Giant
-1 Spikefield Hazard
-2 Terminate
-1 Lightning Skelemental
-2 Lightning Skelemental
-3 Lightning Skelemental
-4 Lightning Skelemental
-2 Seasoned Pyromancer
-1 Torbran, Thane of Red Fell
-2 Torbran, Thane of Red Fell
-1 Goblin Rabblemaster
-2 Goblin Rabblemaster
-3 Goblin Rabblemaster
-4 Goblin Rabblemaster
-1 Chandra, Torch of Defiance
-1 Blood Moon
-1 Light Up the Night
-1 Magus of the Moon
-2 Blood Moon
-2 Light Up the Night
-2 Chandra, Torch of Defiance
-3 Blood Moon
-4 Blood Moon
-7 Mountain
-8 Mountain
 1 Hallowed Moonlight
 1 Dead/Gone
-1 Fable of the Mirror-Breaker
-1 Chalice of the Void
-1 Desperate Ritual
-1 Gemstone Caverns
-1 Scavenger Grounds
-1 Shatterskull Smashing
-2 Fable of the Mirror-Breaker
-2 Scavenger Grounds
-2 Magus of the Moon
-2 Chalice of the Void
-2 Gemstone Caverns
-2 Shatterskull Smashing
-2 Desperate Ritual
-3 Fable of the Mirror-Breaker
-3 Chandra, Torch of Defiance
-3 Chalice of the Void
-3 Gemstone Caverns
-3 Desperate Ritual
-4 Fable of the Mirror-Breaker
-4 Desperate Ritual
-4 Gemstone Caverns
-1 Snow-Covered Island
 1 Snow-Covered Swamp
 1 Vapor Snag
 1 Shore Up
 1 Stomping Ground
-1 Serum Visions
 1 Harmonic Prodigy
 1 Unlicensed Hearse
 2 Unlicensed Hearse
 1 Unearth
 1 Ziatora's Proving Ground
-1 Teferi, Time Raveler
 1 Leyline Binding
-1 Hallowed Fountain
 1 Plains
 1 Liliana of the Veil
 2 Unearth
@@ -191,8 +155,8 @@
 1 Feign Death
 1 Grief
 2 Feign Death
-2 Watery Grave
 2 Undying Malice
+2 Watery Grave
 2 Grief
 3 Undying Malice
 3 Grief
@@ -201,8 +165,8 @@
 4 Polluted Delta
 1 City of Brass
 1 Force of Negation
-1 Izzet Charm
 1 Misty Rainforest
+1 Izzet Charm
 2 Island
 2 Force of Negation
 2 City of Brass
@@ -213,28 +177,71 @@
 1 Lava Spike
 2 Lava Spike
 4 Den of the Bugbear
-3 Manamorphose
-4 Manamorphose
+1 Desperate Ritual
+1 Grapeshot
+1 Baral, Chief of Compliance
+1 Flooded Strand
+2 Desperate Ritual
+2 Flooded Strand
+2 Baral, Chief of Compliance
+3 Underworld Breach
+3 Flooded Strand
+4 Underworld Breach
+3 Thought Scour
+4 Tolarian Terror
+1 Crash Through
+1 Blistercoil Weird
+1 Boros Charm
+1 Emerge Unscathed
+1 Clever Lumimancer
+2 Crash Through
+2 Blistercoil Weird
+2 Boros Charm
+2 Emerge Unscathed
+2 Clever Lumimancer
+3 Crash Through
+3 Clever Lumimancer
+3 Boros Charm
+3 Emerge Unscathed
+4 Sunbaked Canyon
+4 Clever Lumimancer
+4 Crash Through
+4 Emerge Unscathed
 1 Graven Cairns
 1 Dreadbore
 1 Shinka, the Bloodsoaked Keep
 1 Marsh Flats
 1 Ob Nixilis, the Adversary
+1 Goblin Rabblemaster
 2 Marsh Flats
+2 Goblin Rabblemaster
 3 Blood Crypt
 3 Terminate
 3 Marsh Flats
+3 Goblin Rabblemaster
 3 Torbran, Thane of Red Fell
+4 Goblin Rabblemaster
 4 Torbran, Thane of Red Fell
 1 Chandra, Dressed to Kill
+1 Chandra, Torch of Defiance
+1 Light Up the Night
+1 Blood Moon
+1 Magus of the Moon
 1 Chandra, Awakened Inferno
 1 Chandra, Fire Artisan
+2 Light Up the Night
+2 Blood Moon
 2 Spikefield Hazard
 2 Sokenzan, Crucible of Defiance
 2 Chandra, Fire Artisan
+2 Chandra, Torch of Defiance
 3 Seasoned Pyromancer
+3 Blood Moon
 3 Spikefield Hazard
 4 Seasoned Pyromancer
+4 Blood Moon
+7 Mountain
+8 Mountain
 9 Mountain
 10 Mountain
 11 Mountain
