@@ -28,13 +28,13 @@
 
 |*n*<sup>th</sup> copy|                                  Maindeck Card                                  |*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
 |--------------------:|---------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------|
+|                    1|Ambitious Farmhand                                                               |                    1|[Strangle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555326)    |
 |                    1|The Mightstone and Weakstone                                                     |                    1|The Mightstone and Weakstone                                                           |
-|                    1|Scrapwork Mutt                                                                   |                    1|[Strangle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555326)    |
-|                    1|Ambitious Farmhand                                                               |                    2|[Strangle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555326)    |
-|                    2|The Mightstone and Weakstone                                                     |                    2|[Destroy Evil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574497)|
+|                    1|Scrapwork Mutt                                                                   |                    2|[Strangle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555326)    |
+|                    2|Ambitious Farmhand                                                               |                    2|[Destroy Evil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574497)|
+|                    2|The Mightstone and Weakstone                                                     |                     |                                                                                       |
 |                    2|Scrapwork Mutt                                                                   |                     |                                                                                       |
 |                    2|Cityscape Leveler                                                                |                     |                                                                                       |
-|                    2|Ambitious Farmhand                                                               |                     |                                                                                       |
 |                    3|Scrapwork Mutt                                                                   |                     |                                                                                       |
 |                    4|Scrapwork Mutt                                                                   |                     |                                                                                       |
 |                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                     |                                                                                       |

@@ -30,11 +30,9 @@
 1 Sulfur Falls
 3 Spara's Headquarters
 1 Hinterland Harbor
-1 Urza, Lord Protector
 1 Omen of the Sea
 1 Rockfall Vale
 1 Overgrown Farmland
-1 Dreamroot Cascade
 1 Karn, Scion of Urza
 1 The Mightstone and Weakstone
 1 Growth Spiral
@@ -43,22 +41,24 @@
 1 Glacial Fortress
 1 Sunpetal Grove
 1 Wolfwillow Haven
+1 Urza, Lord Protector
+1 Dreamroot Cascade
 2 Deafening Clarion
-2 Urza, Lord Protector
 2 Breeding Pool
 2 Omen of the Sea
 2 The Mightstone and Weakstone
+2 Urza, Lord Protector
 2 Growth Spiral
 2 Wolfwillow Haven
 2 Temple Garden
 3 Jetmir's Garden
 3 Growth Spiral
-3 The Mightstone and Weakstone
 3 Omen of the Sea
-3 Urza, Lord Protector
 3 Hallowed Fountain
 3 Deafening Clarion
 3 Wolfwillow Haven
+3 Urza, Lord Protector
+3 The Mightstone and Weakstone
 4 Growth Spiral
 1 Anointed Peacekeeper
 1 Anger of the Gods
@@ -81,7 +81,7 @@
 3 Sphinx of Foresight
 3 Clifftop Retreat
 3 Raffine's Tower
-4 Spara's Headquarters
 4 Clifftop Retreat
 4 Raffine's Tower
 4 Sphinx of Foresight
+4 Spara's Headquarters

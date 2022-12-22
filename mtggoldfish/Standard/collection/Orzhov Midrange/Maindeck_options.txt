@@ -114,12 +114,12 @@
 4 Fateful Absence
 4 Sorin the Mirthless
 4 Farewell
-1 Voldaren Bloodcaster
-1 Undead Butler
 1 Panicked Bystander
+1 Undead Butler
 1 Kaya, Geist Hunter
-2 Voldaren Bloodcaster
+1 Voldaren Bloodcaster
 2 Panicked Bystander
+2 Voldaren Bloodcaster
 3 Voldaren Bloodcaster
 4 Voldaren Bloodcaster
 4 Lunarch Veteran
@@ -201,10 +201,10 @@
 3 Battlefield Forge
 4 Battlefield Forge
 1 Knight of Dusk's Shadow
-1 Vengeful Strangler
 1 Ratadrabik of Urborg
 1 Lion Sash
 1 Knight of Dawn's Light
+1 Vengeful Strangler
 2 Ratadrabik of Urborg
 2 Knight of Dawn's Light
 2 Vengeful Strangler
@@ -220,19 +220,6 @@
 3 Thalia, Guardian of Thraben
 4 Thalia, Guardian of Thraben
 4 Destroy Evil
-1 Crystal Grotto
-1 Loran of the Third Path
-1 Dreadfeast Demon
-2 Loran of the Third Path
-2 Crystal Grotto
-2 The Celestus
-2 The Cruelty of Gix
-2 Tainted Adversary
-3 Tainted Adversary
-3 Loran of the Third Path
-3 Crystal Grotto
-4 Tainted Adversary
-4 Crystal Grotto
 1 Body Launderer
 2 Anointed Peacekeeper
 2 Shadow-Rite Priest
@@ -243,20 +230,33 @@
 4 Voice of the Blessed
 4 Shadow-Rite Priest
 4 Haunted Ridge
-1 Soul Partition
 1 Sunlit Marsh
+1 Soul Partition
 2 Sunlit Marsh
 3 Sunlit Marsh
 4 Sunlit Marsh
-1 Misery's Shadow
+1 Crystal Grotto
+1 Loran of the Third Path
+1 Dreadfeast Demon
+2 Loran of the Third Path
+2 Crystal Grotto
+2 The Celestus
+2 Tainted Adversary
+2 The Cruelty of Gix
+3 Tainted Adversary
+3 Loran of the Third Path
+3 Crystal Grotto
+4 Crystal Grotto
+4 Tainted Adversary
 1 Gix, Yawgmoth Praetor
-2 Gix, Yawgmoth Praetor
+1 Misery's Shadow
+2 Phyrexian Fleshgorger
 2 Misery's Shadow
 2 Mishra's Foundry
-2 Phyrexian Fleshgorger
-3 Gix, Yawgmoth Praetor
+2 Gix, Yawgmoth Praetor
 3 Misery's Shadow
 3 Phyrexian Fleshgorger
+3 Gix, Yawgmoth Praetor
 11 Swamp
 12 Swamp
 1 Vanquish the Horde

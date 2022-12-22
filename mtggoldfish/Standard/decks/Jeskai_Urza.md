@@ -1,0 +1,31 @@
+# Jeskai Urza
+
+#### [Export MTGO List](../collection/Jeskai%20Urza/Jeskai%20Urza.txt)
+#### [Export Arena List](../collection/Jeskai%20Urza/Jeskai%20Urza_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Abrade%0A4%09Battlefield%20Forge%0A4%09Brotherhood's%20End%0A3%09Cityscape%20Leveler%0A4%09Deserted%20Beach%0A4%09Fable%20of%20the%20Mirror-Breaker%0A2%09Jetmir's%20Garden%0A2%09Mishra's%20Foundry%0A2%09Mountain%0A1%09Otawara,%20Soaring%20City%0A4%09Reckoner%20Bankbuster%0A4%09Shivan%20Reef%0A4%09Skitterbeam%20Battalion%0A1%09Sokenzan,%20Crucible%20of%20Defiance%0A2%09Stormcarved%20Coast%0A2%09Sundown%20Pass%0A4%09The%20Mightstone%20and%20Weakstone%0A4%09Thran%20Spider%0A3%09Urza,%20Lord%20Protector%0A2%09Xander's%20Lounge&deckside=2%09Destroy%20Evil%0A2%09Disdainful%20Stroke%0A2%09Essence%20Scatter%0A2%09Fateful%20Absence%0A2%09Negate%0A2%09Saheeli,%20Filigree%20Master%0A3%09Strangle)
+# Maindeck
+
+|                                          Artifact (4)                                          |                                    Instant (4)                                    |                                                 Land (24)                                                 |         Unknown (28)         |
+|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|------------------------------|
+|4 [Reckoner Bankbuster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548568)|4 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)|4 [Battlefield Forge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129479)             |4 Brotherhood's End           |
+|                                                                                                |                                                                                   |4 [Deserted Beach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535058)                |3 Cityscape Leveler           |
+|                                                                                                |                                                                                   |2 [Jetmir's Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555451)               |4 Fable of the Mirror-Breaker |
+|                                                                                                |                                                                                   |2 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                      |2 Mishra's Foundry            |
+|                                                                                                |                                                                                   |1 [Otawara, Soaring City](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548584)         |4 Skitterbeam Battalion       |
+|                                                                                                |                                                                                   |4 [Shivan Reef](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129731)                   |4 The Mightstone and Weakstone|
+|                                                                                                |                                                                                   |1 [Sokenzan, Crucible of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548589)|4 Thran Spider                |
+|                                                                                                |                                                                                   |2 [Stormcarved Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541141)             |3 Urza, Lord Protector        |
+|                                                                                                |                                                                                   |2 [Sundown Pass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541142)                  |                              |
+|                                                                                                |                                                                                   |2 [Xander's Lounge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555461)               |                              |
+
+
+# Sideboard
+
+|                                         Instant (10)                                         |                                     Sorcery (3)                                     |       Unknown (2)        |
+|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|--------------------------|
+|2 [Destroy Evil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574497)     |3 [Strangle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555326)|2 Saheeli, Filigree Master|
+|2 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|                                                                                     |                          |
+|2 [Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)  |                                                                                     |                          |
+|2 [Fateful Absence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534774)  |                                                                                     |                          |
+|2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |                                                                                     |                          |
+
