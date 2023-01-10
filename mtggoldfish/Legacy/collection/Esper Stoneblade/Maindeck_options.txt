@@ -3,27 +3,28 @@
 1 Timeless Dragon
 2 Timeless Dragon
 3 Narset, Parter of Veils
-1 Displacer Kitten
-1 Mishra's Bauble
-2 Displacer Kitten
-2 Mishra's Bauble
-4 Teferi, Time Raveler
 1 Snow-Covered Swamp
 1 Snow-Covered Island
 1 Snow-Covered Plains
 2 Snow-Covered Island
 1 Thoughtseize
-3 Mishra's Bauble
-4 Mishra's Bauble
-2 True-Name Nemesis
-2 Prismatic Vista
-1 Brazen Borrower
+1 Displacer Kitten
+1 Mishra's Bauble
+2 Displacer Kitten
+2 Mishra's Bauble
+4 Teferi, Time Raveler
 2 Thoughtseize
 1 Force of Negation
+3 Tundra
+2 True-Name Nemesis
+3 Mishra's Bauble
+4 Mishra's Bauble
+2 Prismatic Vista
+1 Inquisition of Kozilek
+1 Brazen Borrower
 1 Void Rend
 1 Plague Engineer
 3 True-Name Nemesis
-3 Tundra
 1 Opposition Agent
 1 Solitude
 1 Venser, Shaper Savant
@@ -43,8 +44,10 @@
 1 Sevinne's Reclamation
 1 Sword of Fire and Ice
 3 Plains
+1 Kaya, Orzhov Usurper
+3 Snapcaster Mage
+3 Thoughtseize
 1 Jace, the Mind Sculptor
-1 Inquisition of Kozilek
 1 Lavinia, Azorius Renegade
 1 Nahiri, the Lithomancer
 1 The Reality Chip
@@ -53,12 +56,9 @@
 3 Recruiter of the Guard
 3 Prismatic Vista
 2 Solitude
-1 Kaya, Orzhov Usurper
 4 Narset, Parter of Veils
 2 Snow-Covered Plains
 3 Snow-Covered Island
-3 Snapcaster Mage
-3 Thoughtseize
 1 Dress Down
 1 Wasteland
 2 Wasteland
@@ -144,7 +144,7 @@
 2 Ephemerate
 2 Back to Basics
 2 Skeletal Scrying
-3 Void Rend
 3 Ephemerate
+3 Void Rend
 4 Void Rend
 5 Island

@@ -1,16 +1,36 @@
-4 Scrapwork Mutt
+2 Boseiju, Who Endures
 4 Wrenn and Six
 1 Haywire Mite
 1 Overgrown Tomb
 1 Swamp
 1 Windswept Heath
 3 Fable of the Mirror-Breaker
+1 Pithing Needle
+2 Windswept Heath
 1 Yavimaya, Cradle of Growth
+2 Overgrown Tomb
 1 Misty Rainforest
+1 Trail of Crumbs
+1 Blooming Marsh
+1 Cauldron Familiar
 1 Street Wraith
+2 Blooming Marsh
+2 Cauldron Familiar
 2 Street Wraith
+3 Blooming Marsh
 3 Street Wraith
+3 Cauldron Familiar
+4 Blooming Marsh
+3 Overgrown Tomb
 1 Nihil Spellbomb
+1 Sokenzan, Crucible of Defiance
+2 Trail of Crumbs
+3 Trail of Crumbs
+4 Trail of Crumbs
+1 Galvanic Blast
+2 Galvanic Blast
+3 Galvanic Blast
+4 Street Wraith
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
@@ -23,6 +43,7 @@
 2 Academy Manufactor
 2 Time Sieve
 3 Academy Manufactor
+4 Academy Manufactor
 1 Island
 1 Ledger Shredder
 2 Ledger Shredder
@@ -32,41 +53,20 @@
 1 Unearth
 1 Aether Spellbomb
 1 Otawara, Soaring City
+2 Polluted Delta
+2 Unearth
 2 Emry, Lurker of the Loch
 2 Watery Grave
-2 Unearth
-2 Polluted Delta
 3 Polluted Delta
-3 Time Sieve
 3 Unearth
+3 Time Sieve
 3 Emry, Lurker of the Loch
 4 Polluted Delta
-4 Emry, Lurker of the Loch
-4 Academy Manufactor
-2 Overgrown Tomb
-4 Street Wraith
-1 Blooming Marsh
-1 Cauldron Familiar
-2 Blooming Marsh
-2 Cauldron Familiar
-3 Blooming Marsh
-3 Cauldron Familiar
-4 Blooming Marsh
-2 Windswept Heath
-1 Trail of Crumbs
-3 Overgrown Tomb
-1 Pithing Needle
-3 Watery Grave
 4 Unearth
 4 Time Sieve
-1 Sokenzan, Crucible of Defiance
-1 Galvanic Blast
-2 Galvanic Blast
-3 Galvanic Blast
-2 Trail of Crumbs
-3 Trail of Crumbs
-4 Trail of Crumbs
+4 Emry, Lurker of the Loch
 3 Windswept Heath
+3 Watery Grave
 4 Watery Grave
 4 Cauldron Familiar
 2 Misty Rainforest
@@ -75,15 +75,13 @@
 1 Minamo, School at Water's Edge
 1 Persist
 1 Archon of Cruelty
-2 Persist
 2 Archon of Cruelty
-3 Archon of Cruelty
+2 Persist
 3 Persist
+3 Archon of Cruelty
 4 Persist
 4 Archon of Cruelty
-1 Darkslick Shores
 1 Pyrite Spellbomb
-1 Soul-Guide Lantern
 1 Ragavan, Nimble Pilferer
 1 Lightning Bolt
 2 Ragavan, Nimble Pilferer
@@ -92,46 +90,47 @@
 3 Ragavan, Nimble Pilferer
 4 Ragavan, Nimble Pilferer
 4 Lightning Bolt
+1 Expedition Map
 1 Plaza of Heroes
-1 Godless Shrine
-1 Hallowed Fountain
-1 Flooded Strand
-1 Tolaria West
+1 Darkslick Shores
 1 Marsh Flats
-2 Island
-1 Snow-Covered Forest
+1 Godless Shrine
+1 Flooded Strand
+1 Hallowed Fountain
+1 Tolaria West
 1 Snow-Covered Swamp
+1 Snow-Covered Forest
 2 Snow-Covered Forest
-1 Grist, the Hunger Tide
-2 Grist, the Hunger Tide
-2 Haywire Mite
 1 Witch's Oven
 2 Witch's Oven
+2 Island
+1 Grist, the Hunger Tide
+2 Haywire Mite
+2 Grist, the Hunger Tide
 1 Urborg, Tomb of Yawgmoth
 1 Fatal Push
 2 Swamp
 2 Fatal Push
 3 Fatal Push
-2 Darkslick Shores
-3 Darkslick Shores
 1 Terastodon
 1 Satyr Wayfinder
 1 Brainstone
 2 Satyr Wayfinder
 3 Satyr Wayfinder
-1 Expressive Iteration
-1 Scalding Tarn
-1 Mox Amber
-1 Steam Vents
-1 Ketria Triome
-2 Expressive Iteration
-2 Scalding Tarn
-3 Expressive Iteration
-4 Expressive Iteration
-4 Galvanic Blast
-4 Misty Rainforest
-4 Windswept Heath
 1 Unholy Heat
 2 Unholy Heat
 3 Unholy Heat
 4 Unholy Heat
+4 Windswept Heath
+1 Steam Vents
+1 Ketria Triome
+1 Mox Amber
+1 Scalding Tarn
+1 Expressive Iteration
+1 Soul-Guide Lantern
+2 Expressive Iteration
+2 Scalding Tarn
+3 Expressive Iteration
+4 Misty Rainforest
+4 Galvanic Blast
+4 Expressive Iteration
