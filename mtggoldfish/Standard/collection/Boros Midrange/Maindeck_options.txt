@@ -1,68 +1,72 @@
 1 Sokenzan, Crucible of Defiance
-2 Ao, the Dawn Sky
+1 Ao, the Dawn Sky
 3 Loran of the Third Path
-2 Battlefield Forge
+2 Ao, the Dawn Sky
 1 The Restoration of Eiganjo
-10 Plains
 4 Ambitious Farmhand
-11 Plains
-1 Farewell
-1 Elspeth Resplendent
-1 Jaya, Fiery Negotiator
+10 Plains
 4 The Wandering Emperor
+3 Sanctuary Warden
+11 Plains
+1 Elspeth Resplendent
+2 The Restoration of Eiganjo
+1 Farewell
+1 Jaya, Fiery Negotiator
+1 Abrade
 1 Sacred Peaks
 2 Sacred Peaks
 12 Plains
-2 The Restoration of Eiganjo
-4 Loran of the Third Path
+1 Spirited Companion
 5 Mountain
-1 Abrade
-3 Sanctuary Warden
+4 Loran of the Third Path
+3 The Restoration of Eiganjo
+4 Sanctuary Warden
 6 Mountain
 1 Fateful Absence
+2 Spirited Companion
 2 Jaya, Fiery Negotiator
-1 Spirited Companion
-3 The Restoration of Eiganjo
 13 Plains
-1 Anointed Peacekeeper
 7 Mountain
+1 Anointed Peacekeeper
 1 Riveteers Requisitioner
 2 Riveteers Requisitioner
 3 Riveteers Requisitioner
-2 Spirited Companion
 3 Spirited Companion
 4 Spirited Companion
 2 Fateful Absence
 2 Elspeth Resplendent
 2 Anointed Peacekeeper
 3 Anointed Peacekeeper
-4 Sanctuary Warden
+1 March of Otherworldly Light
 1 Invoke Justice
 2 Invoke Justice
 3 Invoke Justice
 4 Invoke Justice
+1 Cabaretti Courtyard
+2 Cabaretti Courtyard
+3 Serra Paragon
+3 Cabaretti Courtyard
 14 Plains
 3 Ao, the Dawn Sky
 4 Riveteers Requisitioner
 2 Eiganjo, Seat of the Empire
+1 Intrepid Adversary
+3 Jaya, Fiery Negotiator
 1 Wind-Scarred Crag
 2 Wind-Scarred Crag
-3 Jaya, Fiery Negotiator
 1 Strangle
 2 Strangle
 1 Voltage Surge
-1 Cabaretti Courtyard
 1 Caves of Koilos
 1 Sulfurous Springs
-2 Cabaretti Courtyard
 2 Caves of Koilos
 3 Destroy Evil
-3 Serra Paragon
-3 Cabaretti Courtyard
 4 Cabaretti Courtyard
 4 Destroy Evil
+4 Serra Paragon
 1 Archangel of Wrath
-1 March of Otherworldly Light
+2 Abrade
+3 Abrade
 1 Portal to Phyrexia
 1 Bitter Reunion
 2 Bitter Reunion
@@ -70,28 +74,34 @@
 1 Raffine's Tower
 2 Raffine's Tower
 3 Cathar Commando
+3 Battlefield Forge
+4 Battlefield Forge
+3 Steel Seraph
+4 Steel Seraph
 1 Unlicensed Hearse
-1 Intrepid Adversary
+2 Intrepid Adversary
+2 March of Otherworldly Light
+3 Roadside Reliquary
 1 Atsushi, the Blazing Sky
 1 Flame-Blessed Bolt
 2 Flame-Blessed Bolt
-1 Lightning Strike
-2 Lightning Strike
-3 Lightning Strike
 3 Wind-Scarred Crag
 3 Strangle
 4 Wind-Scarred Crag
 1 Depopulate
+1 Lightning Strike
+2 Lightning Strike
+3 Lightning Strike
 1 Touch the Spirit Realm
 1 Banishing Slash
 2 Banishing Slash
 15 Plains
 1 Valorous Stance
 1 Selfless Samurai
-1 Vanquish the Horde
+2 Sulfurous Springs
 1 By Invitation Only
+1 Vanquish the Horde
 1 Weatherlight Compleated
-2 March of Otherworldly Light
 2 Depopulate
 2 Weatherlight Compleated
 2 By Invitation Only
@@ -121,13 +131,13 @@
 3 Michiko's Reign of Truth
 3 Citizen's Crowbar
 3 Touch the Spirit Realm
-1 Rending Flame
 1 Burn Down the House
+1 Rending Flame
 1 Cathartic Pyre
 1 The Celestus
 2 Rending Flame
-2 Farewell
 2 Burn Down the House
+2 Farewell
 2 Cathartic Pyre
 3 Rending Flame
 1 Raffine's Informant
@@ -135,25 +145,23 @@
 3 Raffine's Informant
 4 Raffine's Informant
 4 Ao, the Dawn Sky
+3 Intrepid Adversary
+3 March of Otherworldly Light
+4 Intrepid Adversary
+4 March of Otherworldly Light
 1 Xander's Lounge
 1 Leyline Binding
-2 Intrepid Adversary
 2 Leyline Binding
 2 Xander's Lounge
 3 Leyline Binding
 4 Leyline Binding
 4 Cathar Commando
-2 Sulfurous Springs
-4 Serra Paragon
-2 Abrade
-3 Abrade
 3 Sacred Peaks
 4 Sacred Peaks
 2 Portal to Phyrexia
-3 Steel Seraph
 3 Bitter Reunion
-4 Steel Seraph
 4 Bitter Reunion
+4 Abrade
 1 Plaza of Heroes
 1 Chandra, Dressed to Kill
 1 Luxior, Giada's Gift
@@ -170,7 +178,6 @@
 1 Bloodthirsty Adversary
 2 Sungold Sentinel
 2 Bloodthirsty Adversary
-3 Roadside Reliquary
 3 Sungold Sentinel
 4 Sungold Sentinel
 1 Shivan Devastator

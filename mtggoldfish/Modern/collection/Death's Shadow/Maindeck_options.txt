@@ -1,15 +1,18 @@
-4 Lightning Bolt
-2 Spell Pierce
 4 Ledger Shredder
 1 Mountain
+2 Spell Pierce
+4 Lightning Bolt
 1 Fiery Islet
+1 Underworld Breach
 2 Fatal Push
+2 Kroxa, Titan of Death's Hunger
+3 Blood Crypt
 1 Temur Battle Rage
 2 Temur Battle Rage
 1 Scourge of the Skyclaves
 2 Scourge of the Skyclaves
-3 Blood Crypt
-2 Kroxa, Titan of Death's Hunger
+2 Underworld Breach
+3 Underworld Breach
 1 Verdant Catacombs
 2 Verdant Catacombs
 3 Scourge of the Skyclaves
@@ -20,16 +23,10 @@
 4 Street Wraith
 1 Marsh Flats
 2 Marsh Flats
-1 Underworld Breach
-1 Inquisition of Kozilek
-1 Kolaghan's Command
-1 Nurturing Peatland
-2 Inquisition of Kozilek
+1 Dress Down
 1 Stomping Ground
 3 Verdant Catacombs
-2 Underworld Breach
-3 Underworld Breach
-1 Dress Down
+1 Inquisition of Kozilek
 1 Tarmogoyf
 2 Stomping Ground
 1 Mutagenic Growth
@@ -37,8 +34,6 @@
 3 Temur Battle Rage
 3 Mutagenic Growth
 1 Overgrown Tomb
-2 Swamp
-4 Blood Crypt
 4 Verdant Catacombs
 1 Become Immense
 1 Monastery Swiftspear
@@ -48,21 +43,25 @@
 4 Monastery Swiftspear
 4 Temur Battle Rage
 4 Mutagenic Growth
+1 Kolaghan's Command
+1 Nurturing Peatland
 1 Wooded Foothills
 2 Wooded Foothills
-3 Marsh Flats
+2 Inquisition of Kozilek
 1 Snow-Covered Swamp
 2 Terminate
-3 Fatal Push
+2 Swamp
 1 Tarfire
+4 Blood Crypt
 4 Scalding Tarn
 2 Tarmogoyf
 3 Wooded Foothills
+3 Marsh Flats
 4 Marsh Flats
 1 Snow-Covered Mountain
-1 Silent Clearing
 1 Kiln Fiend
 2 Kiln Fiend
+3 Fatal Push
 1 Reckless Impulse
 1 Dismember
 2 Reckless Impulse
@@ -98,11 +97,11 @@
 3 Ranger-Captain of Eos
 3 Seasoned Pyromancer
 4 Seasoned Pyromancer
+1 Silent Clearing
 1 Misty Rainforest
 1 Ob Nixilis, the Adversary
-1 Agadeem's Awakening
-1 Forest
 1 Traverse the Ulvenwald
+1 Forest
 2 Traverse the Ulvenwald
 1 Footfall Crater
 2 Footfall Crater
