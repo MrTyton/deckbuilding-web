@@ -41,7 +41,8 @@
 
 |                                A                                 |                                  B                                   |                                      C                                       |                                  D                                   |                               E                                |
 |------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------|
-|[45c Omnath](./mtggoldfish/Modern/decks/45c_Omnath.md)            |[Crashing Footfalls](./mtggoldfish/Modern/decks/Crashing_Footfalls.md)|[Glimpse Combo](./mtggoldfish/Modern/decks/Glimpse_Combo.md)                  |[Jund Aggro](./mtggoldfish/Modern/decks/Jund_Aggro.md)                |[Murktide Regent](./mtggoldfish/Modern/decks/Murktide_Regent.md)|
+|[45c Omnath](./mtggoldfish/Modern/decks/45c_Omnath.md)            |[Calibrated Blast](./mtggoldfish/Modern/decks/Calibrated_Blast.md)    |[Generic Ragavan](./mtggoldfish/Modern/decks/Generic_Ragavan.md)              |[Jeskai Prowess](./mtggoldfish/Modern/decks/Jeskai_Prowess.md)        |[Mono-Green Tron](./mtggoldfish/Modern/decks/Mono-Green_Tron.md)|
+|[4c Aggro](./mtggoldfish/Modern/decks/4c_Aggro.md)                |[Crashing Footfalls](./mtggoldfish/Modern/decks/Crashing_Footfalls.md)|[Glimpse Combo](./mtggoldfish/Modern/decks/Glimpse_Combo.md)                  |[Jund Aggro](./mtggoldfish/Modern/decks/Jund_Aggro.md)                |[Murktide Regent](./mtggoldfish/Modern/decks/Murktide_Regent.md)|
 |[4c Tameshi Combo](./mtggoldfish/Modern/decks/4c_Tameshi_Combo.md)|[Death & Taxes](./mtggoldfish/Modern/decks/Death_&_Taxes.md)          |[Goblins](./mtggoldfish/Modern/decks/Goblins.md)                              |[Jund Saga](./mtggoldfish/Modern/decks/Jund_Saga.md)                  |[Rakdos Midrange](./mtggoldfish/Modern/decks/Rakdos_Midrange.md)|
 |[Affinity](./mtggoldfish/Modern/decks/Affinity.md)                |[Death's Shadow](./mtggoldfish/Modern/decks/Death's_Shadow.md)        |[Grinding Station](./mtggoldfish/Modern/decks/Grinding_Station.md)            |[Jund](./mtggoldfish/Modern/decks/Jund.md)                            |[Saheeli Combo](./mtggoldfish/Modern/decks/Saheeli_Combo.md)    |
 |[Amulet Titan](./mtggoldfish/Modern/decks/Amulet_Titan.md)        |[Domain Zoo](./mtggoldfish/Modern/decks/Domain_Zoo.md)                |[Gruul Midrange](./mtggoldfish/Modern/decks/Gruul_Midrange.md)                |[Living End](./mtggoldfish/Modern/decks/Living_End.md)                |[Sultai Aggro](./mtggoldfish/Modern/decks/Sultai_Aggro.md)      |
@@ -50,7 +51,6 @@
 |[Belcher](./mtggoldfish/Modern/decks/Belcher.md)                  |[Eldrazi](./mtggoldfish/Modern/decks/Eldrazi.md)                      |[Indomitable Creativity](./mtggoldfish/Modern/decks/Indomitable_Creativity.md)|[Mill](./mtggoldfish/Modern/decks/Mill.md)                            |[Thopter Combo](./mtggoldfish/Modern/decks/Thopter_Combo.md)    |
 |[Bogles](./mtggoldfish/Modern/decks/Bogles.md)                    |[Elementals](./mtggoldfish/Modern/decks/Elementals.md)                |[Izzet Prowess](./mtggoldfish/Modern/decks/Izzet_Prowess.md)                  |[Mono-Black Coffers](./mtggoldfish/Modern/decks/Mono-Black_Coffers.md)|[Titan Shift](./mtggoldfish/Modern/decks/Titan_Shift.md)        |
 |[Burn](./mtggoldfish/Modern/decks/Burn.md)                        |[General Ferrous](./mtggoldfish/Modern/decks/General_Ferrous.md)      |[Jeskai Control](./mtggoldfish/Modern/decks/Jeskai_Control.md)                |[Mono-Blue Tron](./mtggoldfish/Modern/decks/Mono-Blue_Tron.md)        |[Yawgmoth](./mtggoldfish/Modern/decks/Yawgmoth.md)              |
-|[Calibrated Blast](./mtggoldfish/Modern/decks/Calibrated_Blast.md)|[Generic Ragavan](./mtggoldfish/Modern/decks/Generic_Ragavan.md)      |[Jeskai Prowess](./mtggoldfish/Modern/decks/Jeskai_Prowess.md)                |[Mono-Green Tron](./mtggoldfish/Modern/decks/Mono-Green_Tron.md)      |                                                                |
 
 
 # Legacy
@@ -71,4 +71,4 @@
 
 
 
-#### Last Updated at 01:09PM on January 10, 2023
+#### Last Updated at 01:13AM on January 11, 2023

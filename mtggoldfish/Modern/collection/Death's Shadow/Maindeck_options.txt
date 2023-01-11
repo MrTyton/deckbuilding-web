@@ -1,18 +1,18 @@
-4 Unholy Heat
-4 Lightning Bolt
-1 Spell Pierce
 1 Underworld Breach
-2 Spell Pierce
+4 Ledger Shredder
+4 Unholy Heat
+1 Spell Pierce
 2 Underworld Breach
 1 Fiery Islet
 2 Fatal Push
 3 Underworld Breach
-2 Kroxa, Titan of Death's Hunger
-3 Blood Crypt
+2 Spell Pierce
 1 Temur Battle Rage
 2 Temur Battle Rage
 1 Scourge of the Skyclaves
 2 Scourge of the Skyclaves
+3 Blood Crypt
+2 Kroxa, Titan of Death's Hunger
 1 Verdant Catacombs
 2 Verdant Catacombs
 3 Scourge of the Skyclaves
@@ -23,11 +23,12 @@
 4 Street Wraith
 1 Marsh Flats
 2 Marsh Flats
-1 Nurturing Peatland
+1 Dress Down
 1 Inquisition of Kozilek
+1 Nurturing Peatland
+2 Inquisition of Kozilek
 1 Stomping Ground
 3 Verdant Catacombs
-1 Dress Down
 1 Snow-Covered Swamp
 1 Tarmogoyf
 2 Stomping Ground
@@ -38,7 +39,6 @@
 1 Overgrown Tomb
 2 Swamp
 4 Blood Crypt
-2 Inquisition of Kozilek
 4 Verdant Catacombs
 4 Scalding Tarn
 1 Become Immense
@@ -49,16 +49,17 @@
 4 Monastery Swiftspear
 4 Temur Battle Rage
 4 Mutagenic Growth
+1 Kolaghan's Command
 1 Wooded Foothills
 2 Wooded Foothills
-1 Kolaghan's Command
+3 Marsh Flats
+4 Marsh Flats
 1 Snow-Covered Mountain
 2 Terminate
 1 Tarfire
 2 Tarmogoyf
 3 Wooded Foothills
-3 Marsh Flats
-4 Marsh Flats
+3 Terminate
 1 Silent Clearing
 3 Fatal Push
 1 Kiln Fiend
@@ -68,23 +69,44 @@
 2 Reckless Impulse
 3 Become Immense
 4 Wooded Foothills
-1 Island
 1 Murktide Regent
 3 Tarmogoyf
 4 Tarmogoyf
 3 Watery Grave
-1 Ob Nixilis, the Adversary
-1 Misty Rainforest
 1 Seasoned Pyromancer
+1 Fable of the Mirror-Breaker
+1 Prismatic Ending
+1 Godless Shrine
+1 Murderous Cut
+2 Godless Shrine
+2 Prismatic Ending
+3 Prismatic Ending
+1 Squee, Dubious Monarch
+1 Sacred Foundry
+1 Sunbaked Canyon
+1 Arid Mesa
+1 Unearth
+1 Ranger-Captain of Eos
+1 Malakir Rebirth
+1 Plains
+1 Giver of Runes
+2 Sacred Foundry
+2 Arid Mesa
+2 Ranger-Captain of Eos
+2 Seasoned Pyromancer
+2 Murderous Cut
+2 Giver of Runes
+3 Ranger-Captain of Eos
+3 Seasoned Pyromancer
+4 Seasoned Pyromancer
+1 Misty Rainforest
 1 Traverse the Ulvenwald
 1 Forest
 2 Traverse the Ulvenwald
 1 Footfall Crater
 2 Footfall Crater
-1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
 3 Fable of the Mirror-Breaker
-3 Terminate
 1 Boseiju, Who Endures
 1 Wrenn and Six
 1 Riveteers Charm
@@ -95,28 +117,23 @@
 4 Riveteers Charm
 3 Reckless Impulse
 4 Reckless Impulse
+1 Island
 1 Counterspell
 2 Counterspell
 2 Murktide Regent
 3 Spell Pierce
 3 Counterspell
 4 Counterspell
-1 Prismatic Ending
 1 Stubborn Denial
 1 Consider
 1 Tasigur, the Golden Fang
 1 The Royal Scions
-1 Godless Shrine
-1 Tombstalker
-1 Bloodchief's Thirst
 1 Victim of Night
-1 Murderous Cut
-2 Godless Shrine
-2 Prismatic Ending
+1 Bloodchief's Thirst
+1 Tombstalker
 2 Consider
 2 Bloodchief's Thirst
 2 The Royal Scions
-3 Prismatic Ending
 3 Consider
 3 The Royal Scions
 4 Consider
@@ -126,7 +143,7 @@
 2 Night's Whisper
 2 Lava Spike
 2 Bump in the Night
-3 Lava Spike
 3 Bump in the Night
+3 Lava Spike
 4 Lava Spike
 4 Bump in the Night
