@@ -78,8 +78,8 @@
 4 Fervent Champion
 4 Spikefield Hazard
 1 Dreadhorde Arcanist
-1 Cragcrown Pathway
 1 Rootbound Crag
+1 Cragcrown Pathway
 1 Experimental Frenzy
 1 Temple of Abandon
 2 Dreadhorde Arcanist
@@ -132,6 +132,18 @@
 3 Reckless Charge
 3 Harmonic Prodigy
 4 Reckless Charge
+1 Haunted Ridge
+1 Dragonskull Summit
+1 Blood Crypt
+1 Blightstep Pathway
+2 Haunted Ridge
+2 Dragonskull Summit
+2 Blood Crypt
+2 Blightstep Pathway
+3 Blood Crypt
+3 Blightstep Pathway
+4 Blood Crypt
+4 Blightstep Pathway
 1 Electrostatic Infantry
 1 Monastery Swiftspear
 1 Young Pyromancer
@@ -171,19 +183,7 @@
 3 Electrostatic Field
 4 Electrostatic Field
 4 Risk Factor
-4 Spear Spewer
 17 Mountain
 18 Mountain
 19 Mountain
-1 Haunted Ridge
-1 Dragonskull Summit
-1 Blood Crypt
-1 Blightstep Pathway
-2 Haunted Ridge
-2 Dragonskull Summit
-2 Blood Crypt
-2 Blightstep Pathway
-3 Blightstep Pathway
-3 Blood Crypt
-4 Blightstep Pathway
-4 Blood Crypt
+4 Spear Spewer
