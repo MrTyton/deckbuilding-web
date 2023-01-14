@@ -76,13 +76,6 @@
 1 Third Path Iconoclast
 2 Third Path Iconoclast
 3 Third Path Iconoclast
-1 Dauthi Voidwalker
-1 Rona's Vortex
-1 Chart a Course
-2 Rona's Vortex
-2 Dauthi Voidwalker
-2 Chart a Course
-3 Dauthi Voidwalker
 1 Swamp
 1 Sudden Edict
 1 True-Name Nemesis
@@ -90,6 +83,13 @@
 2 Island
 2 True-Name Nemesis
 3 Sudden Edict
+1 Dauthi Voidwalker
+1 Rona's Vortex
+1 Chart a Course
+2 Rona's Vortex
+2 Dauthi Voidwalker
+2 Chart a Course
+3 Dauthi Voidwalker
 1 Angrath's Rampage
 1 Gurmag Angler
 2 Gurmag Angler
@@ -104,9 +104,9 @@
 2 "Lifetime" Pass Holder
 3 "Lifetime" Pass Holder
 4 "Lifetime" Pass Holder
+1 Chain Lightning
 1 Preordain
 1 Spell Pierce
-1 Chain Lightning
 1 Spell Snare
 2 Spell Snare
 2 Spell Pierce

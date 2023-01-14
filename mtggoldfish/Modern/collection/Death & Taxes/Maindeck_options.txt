@@ -100,14 +100,14 @@
 4 Urza's Saga
 4 Flagstones of Trokair
 1 Marsh Flats
-1 Endurance
+1 Yavimaya, Cradle of Growth
 1 Knight of the Reliquary
+1 Endurance
 1 Elvish Reclaimer
 1 Springleaf Drum
-1 Yavimaya, Cradle of Growth
 2 Temple Garden
-2 Elvish Reclaimer
 2 Knight of the Reliquary
+2 Elvish Reclaimer
 3 Knight of the Reliquary
 3 Elvish Reclaimer
 3 Temple Garden
@@ -123,8 +123,8 @@
 3 Imperial Recruiter
 3 Charming Prince
 4 Arid Mesa
-4 Sunbaked Canyon
 4 Charming Prince
+4 Sunbaked Canyon
 4 Marsh Flats
 4 Imperial Recruiter
 1 Needleverge Pathway
@@ -135,26 +135,26 @@
 1 Queen Kayla bin-Kroog
 2 Queen Kayla bin-Kroog
 1 Fiery Islet
+1 Battlefield Forge
 1 Sword of Feast and Famine
-1 Meddling Mage
 1 Snow-Covered Mountain
 1 Fury
 1 Flooded Strand
-1 Battlefield Forge
+1 Meddling Mage
 1 Steam Vents
 1 Scalding Tarn
 1 Sanctifier en-Vec
 1 Fervent Champion
 1 Soulherder
-2 Flooded Strand
-2 Meddling Mage
-2 Fervent Champion
 2 Ranger-Captain of Eos
+2 Flooded Strand
+2 Fervent Champion
+2 Meddling Mage
 2 Scalding Tarn
 2 Fury
+3 Ranger-Captain of Eos
 3 Fervent Champion
 3 Scalding Tarn
-3 Ranger-Captain of Eos
 4 Fervent Champion
 1 Loran of the Third Path
 1 Giant Killer
@@ -168,41 +168,17 @@
 1 Relic of Progenitus
 3 Esper Sentinel
 4 Anointed Peacekeeper
-1 Noble Hierarch
-1 Argoth, Sanctum of Nature
-1 Titania, Voice of Gaea
-1 Misty Rainforest
-1 Courser of Kruphix
-1 Brutal Cathar
-1 Dryad of the Ilysian Grove
-1 Wooded Foothills
-1 Collected Company
-1 Thespian's Stage
-1 Spara's Headquarters
-1 Valakut, the Molten Pinnacle
-2 Forest
-2 Titania, Voice of Gaea
-2 Noble Hierarch
-2 Courser of Kruphix
-2 Endurance
-2 Dryad of the Ilysian Grove
-2 Collected Company
-3 Noble Hierarch
-3 Dryad of the Ilysian Grove
-3 Collected Company
-4 Noble Hierarch
-4 Collected Company
 1 Sword of Light and Shadow
 3 Ambitious Farmhand
 4 Eiganjo, Seat of the Empire
 4 Ambitious Farmhand
 4 Blast Zone
-1 Eladamri's Call
 1 Zuran Orb
+1 Eladamri's Call
 1 Titania, Protector of Argoth
-1 Renegade Rallier
 1 Aven Mindcensor
 1 Bojuka Bog
+1 Renegade Rallier
 1 Sejiri Steppe
 2 Eladamri's Call
 3 Eladamri's Call
@@ -210,6 +186,30 @@
 1 Timeless Dragon
 3 Tectonic Edge
 4 Tectonic Edge
+1 Argoth, Sanctum of Nature
+1 Titania, Voice of Gaea
+1 Misty Rainforest
+1 Courser of Kruphix
+1 Brutal Cathar
+1 Dryad of the Ilysian Grove
+1 Noble Hierarch
+1 Wooded Foothills
+1 Collected Company
+1 Thespian's Stage
+1 Spara's Headquarters
+1 Valakut, the Molten Pinnacle
+2 Forest
+2 Titania, Voice of Gaea
+2 Courser of Kruphix
+2 Endurance
+2 Noble Hierarch
+2 Dryad of the Ilysian Grove
+2 Collected Company
+3 Dryad of the Ilysian Grove
+3 Collected Company
+3 Noble Hierarch
+4 Collected Company
+4 Noble Hierarch
 1 Ragavan, Nimble Pilferer
 1 Winota, Joiner of Forces
 1 Lightning Bolt
@@ -222,20 +222,20 @@
 2 Angrath's Marauders
 2 Mountain
 3 Ragavan, Nimble Pilferer
-3 Winota, Joiner of Forces
 3 Magus of the Moon
 3 Lightning Bolt
 3 Angrath's Marauders
 3 Seasoned Pyromancer
+3 Winota, Joiner of Forces
 3 Mountain
 4 Ragavan, Nimble Pilferer
 4 Fable of the Mirror-Breaker
-4 Mountain
 4 Sacred Foundry
-4 Winota, Joiner of Forces
+4 Mountain
 4 Magus of the Moon
 4 Seasoned Pyromancer
 4 Lightning Bolt
+4 Winota, Joiner of Forces
 4 Inspiring Vantage
 4 Angrath's Marauders
 1 Leonin Relic-Warder
