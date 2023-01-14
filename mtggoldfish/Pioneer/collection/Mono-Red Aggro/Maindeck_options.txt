@@ -1,19 +1,21 @@
-1 Kari Zev, Skyship Raider
-1 Chandra, Dressed to Kill
 2 Chandra, Dressed to Kill
+4 Lightning Strike
+1 Kari Zev, Skyship Raider
 2 Kari Zev, Skyship Raider
+1 Phoenix Chick
+2 Phoenix Chick
 1 Hazoret the Fervent
 1 Castle Embereth
 3 Kari Zev, Skyship Raider
-1 Chandra, Torch of Defiance
-1 Phoenix Chick
-2 Phoenix Chick
 3 Phoenix Chick
-3 Chandra, Dressed to Kill
+4 Phoenix Chick
 1 Goblin Chainwhirler
 2 Goblin Chainwhirler
-4 Phoenix Chick
+1 Chandra, Torch of Defiance
 2 Hazoret the Fervent
+3 Chandra, Dressed to Kill
+4 Chandra, Dressed to Kill
+1 Wild Slash
 1 Embercleave
 2 Embercleave
 1 Rampaging Ferocidon
@@ -21,8 +23,6 @@
 3 Hazoret the Fervent
 3 Rampaging Ferocidon
 4 Rampaging Ferocidon
-4 Chandra, Dressed to Kill
-1 Wild Slash
 2 Wild Slash
 1 Shatterskull Smashing
 3 Goblin Chainwhirler
@@ -53,6 +53,8 @@
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
 4 Fanatical Firebrand
+1 Zurgo Bellstriker
+3 Spikefield Hazard
 1 Anax, Hardened in the Forge
 2 Anax, Hardened in the Forge
 3 Anax, Hardened in the Forge
@@ -65,8 +67,6 @@
 2 Reckless Bushwhacker
 1 Shock
 2 Shock
-1 Zurgo Bellstriker
-3 Spikefield Hazard
 1 Bomat Courier
 1 Reckless Impulse
 1 Shivan Devastator
@@ -82,20 +82,6 @@
 2 Abbot of Keral Keep
 3 Abbot of Keral Keep
 4 Abbot of Keral Keep
-1 Sacred Foundry
-1 Battlefield Forge
-1 Needleverge Pathway
-1 Inspiring Vantage
-2 Inspiring Vantage
-2 Sacred Foundry
-2 Battlefield Forge
-2 Needleverge Pathway
-3 Sacred Foundry
-3 Inspiring Vantage
-3 Needleverge Pathway
-4 Sacred Foundry
-4 Inspiring Vantage
-4 Needleverge Pathway
 1 Feldon, Ronom Excavator
 2 Feldon, Ronom Excavator
 3 Feldon, Ronom Excavator

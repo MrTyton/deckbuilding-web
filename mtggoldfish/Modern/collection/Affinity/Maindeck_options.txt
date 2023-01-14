@@ -6,40 +6,39 @@
 4 Patchwork Automaton
 1 Razortide Bridge
 2 Razortide Bridge
-3 Forging the Anchor
 1 Spire of Industry
+3 Forging the Anchor
 2 Spire of Industry
 2 Tanglepool Bridge
 1 Metallic Rebuke
 2 Metallic Rebuke
-3 Metallic Rebuke
-3 Razortide Bridge
-1 Ingenious Smith
-1 Dispatch
 1 Portable Hole
 1 Esper Sentinel
 1 Plains
-2 Ingenious Smith
-2 Dispatch
 2 Esper Sentinel
 2 Portable Hole
-3 Ingenious Smith
-3 Dispatch
 3 Esper Sentinel
 3 Portable Hole
-4 Ingenious Smith
 4 Esper Sentinel
-4 Portable Hole
-1 Temple Garden
-1 Teferi, Time Raveler
+3 Metallic Rebuke
+3 Razortide Bridge
 1 Hallowed Fountain
 1 Flooded Strand
 2 Hallowed Fountain
 2 Flooded Strand
-2 Teferi, Time Raveler
 3 Flooded Strand
+1 Ingenious Smith
+1 Dispatch
+2 Ingenious Smith
+2 Dispatch
+3 Ingenious Smith
+3 Dispatch
+4 Ingenious Smith
+4 Portable Hole
+1 Temple Garden
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
 4 Razortide Bridge
-2 Otawara, Soaring City
 1 Silverbluff Bridge
 2 Silverbluff Bridge
 1 Talisman of Progress
@@ -48,15 +47,20 @@
 4 Forging the Anchor
 1 Glimmervoid
 2 Glimmervoid
+2 Otawara, Soaring City
 1 Soul-Guide Lantern
 1 Underground River
 1 Ethersworn Sphinx
 2 Ethersworn Sphinx
 1 Haywire Mite
 1 Expedition Map
-1 Paradise Mantle
 1 Etched Champion
+1 Paradise Mantle
 3 Silverbluff Bridge
+1 Kaldra Compleat
+1 Stoneforge Mystic
+2 Stoneforge Mystic
+3 Nettlecyst
 1 Neoform
 1 Griselbrand
 2 Neoform
@@ -85,6 +89,23 @@
 4 Inkmoth Nexus
 3 Welding Jar
 4 Treasure Vault
+1 Moonsnare Prototype
+1 Urza, Lord High Artificer
+1 Seachrome Coast
+1 Polluted Delta
+2 Seachrome Coast
+2 Urza, Lord High Artificer
+2 Moonsnare Prototype
+3 Seachrome Coast
+3 Moonsnare Prototype
+3 Hallowed Fountain
+3 Urza, Lord High Artificer
+4 Flooded Strand
+4 Seachrome Coast
+4 Hallowed Fountain
+4 Moonsnare Prototype
+4 Nettlecyst
+4 Urza, Lord High Artificer
 1 Shrapnel Blast
 1 Mountain
 1 Galvanic Blast
@@ -106,17 +127,13 @@
 1 Eiganjo, Seat of the Empire
 1 The Restoration of Eiganjo
 1 Power Conduit
-1 Kaldra Compleat
-1 Stoneforge Mystic
 2 The Restoration of Eiganjo
-2 Stoneforge Mystic
 2 Power Conduit
 2 Plains
 3 The Restoration of Eiganjo
 3 Power Conduit
 3 Stoneforge Mystic
 3 Plains
-3 Nettlecyst
 4 The Restoration of Eiganjo
 4 Plains
 4 Power Conduit

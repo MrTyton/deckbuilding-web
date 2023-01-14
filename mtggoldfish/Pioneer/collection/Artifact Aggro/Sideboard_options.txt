@@ -8,22 +8,21 @@
 2 Wear/Tear
 4 Glass Casket
 1 Shadowspear
+3 Unlicensed Hearse
+3 Rest in Peace
 1 Stubborn Denial
 2 Stubborn Denial
-3 Rest in Peace
-1 Disdainful Stroke
-2 Disdainful Stroke
-1 Aether Gust
-1 Pithing Needle
-2 Aether Gust
+1 Declaration in Stone
+3 Stubborn Denial
 1 Mystical Dispute
 2 Mystical Dispute
 1 Portable Hole
 2 Portable Hole
 3 Portable Hole
 4 Portable Hole
-1 Declaration in Stone
-3 Stubborn Denial
+1 Aether Gust
+1 Pithing Needle
+2 Aether Gust
 3 Mystical Dispute
 1 Mutavault
 1 Hallowed Fountain
@@ -36,9 +35,9 @@
 1 Otawara, Soaring City
 1 The Blackstaff of Waterdeep
 2 Mutavault
-2 Hallowed Fountain
 2 Spire of Industry
 2 Darksteel Citadel
+2 Hallowed Fountain
 2 Mana Confluence
 2 Springleaf Drum
 2 The Blackstaff of Waterdeep
@@ -56,14 +55,13 @@
 4 Ensoul Artifact
 4 Darksteel Citadel
 4 Stubborn Denial
-3 Unlicensed Hearse
-1 The Royal Scions
-2 The Royal Scions
+4 Unlicensed Hearse
+1 Disdainful Stroke
+2 Disdainful Stroke
 1 Destroy Evil
 1 Alpine Moon
 2 Alpine Moon
 1 Soul-Guide Lantern
-4 Unlicensed Hearse
 4 Rending Volley
 1 Abrade
 2 Abrade
@@ -74,6 +72,10 @@
 2 Destroy Evil
 3 Alpine Moon
 3 Deafening Silence
+1 The Royal Scions
+2 The Royal Scions
+2 Declaration in Stone
+3 Declaration in Stone
 1 Saheeli, Filigree Master
 2 Saheeli, Filigree Master
 1 Damping Sphere
@@ -93,8 +95,6 @@
 2 Gideon, Ally of Zendikar
 1 Reidane, God of the Worthy
 2 Reidane, God of the Worthy
-2 Declaration in Stone
-3 Declaration in Stone
 1 Phyrexian Revoker
 1 Tormod's Crypt
 2 Phyrexian Revoker
@@ -115,6 +115,10 @@
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
+1 The Antiquities War
+2 The Antiquities War
+3 The Antiquities War
+4 The Antiquities War
 1 Leyline of the Void
 1 Aethersphere Harvester
 2 Leyline of the Void

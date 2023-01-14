@@ -1,9 +1,10 @@
-4 Polluted Delta
+1 Kroxa, Titan of Death's Hunger
+4 Ledger Shredder
 1 Fatal Push
-2 Underworld Breach
-3 Underworld Breach
-4 Unholy Heat
 1 Spell Pierce
+3 Underworld Breach
+2 Spell Pierce
+4 Unholy Heat
 1 Fiery Islet
 2 Fatal Push
 1 Temur Battle Rage
@@ -11,10 +12,7 @@
 1 Scourge of the Skyclaves
 2 Scourge of the Skyclaves
 3 Blood Crypt
-2 Spell Pierce
-2 Kroxa, Titan of Death's Hunger
 1 Verdant Catacombs
-1 Dress Down
 2 Verdant Catacombs
 3 Scourge of the Skyclaves
 4 Scourge of the Skyclaves
@@ -24,10 +22,13 @@
 4 Street Wraith
 1 Marsh Flats
 2 Marsh Flats
+2 Kroxa, Titan of Death's Hunger
 1 Nurturing Peatland
 1 Inquisition of Kozilek
 1 Stomping Ground
 3 Verdant Catacombs
+2 Terminate
+1 Dress Down
 1 Tarmogoyf
 2 Stomping Ground
 1 Mutagenic Growth
@@ -50,31 +51,28 @@
 4 Mutagenic Growth
 1 Wooded Foothills
 2 Wooded Foothills
-1 Kolaghan's Command
 1 Snow-Covered Swamp
-1 Snow-Covered Mountain
-2 Terminate
 1 Tarfire
 2 Tarmogoyf
 3 Wooded Foothills
 3 Marsh Flats
 4 Marsh Flats
+1 Snow-Covered Mountain
 3 Terminate
 1 Silent Clearing
+1 Kolaghan's Command
 3 Fatal Push
 1 Kiln Fiend
 2 Kiln Fiend
-1 Reckless Impulse
 1 Dismember
+1 Reckless Impulse
 2 Reckless Impulse
 3 Become Immense
 4 Wooded Foothills
-1 Murktide Regent
 3 Tarmogoyf
 4 Tarmogoyf
 3 Watery Grave
 1 Misty Rainforest
-1 Seasoned Pyromancer
 1 Traverse the Ulvenwald
 1 Forest
 2 Traverse the Ulvenwald
@@ -83,6 +81,8 @@
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
 3 Fable of the Mirror-Breaker
+3 Reckless Impulse
+4 Reckless Impulse
 1 Boseiju, Who Endures
 1 Wrenn and Six
 1 Riveteers Charm
@@ -91,25 +91,24 @@
 3 Inquisition of Kozilek
 3 Riveteers Charm
 4 Riveteers Charm
-3 Reckless Impulse
-4 Reckless Impulse
 1 Island
 1 Counterspell
+1 Murktide Regent
 2 Counterspell
 2 Murktide Regent
-3 Counterspell
 3 Spell Pierce
+3 Counterspell
 4 Counterspell
 1 Prismatic Ending
 1 Stubborn Denial
 1 Consider
 1 Tasigur, the Golden Fang
 1 The Royal Scions
-1 Godless Shrine
-1 Tombstalker
-1 Bloodchief's Thirst
-1 Victim of Night
 1 Murderous Cut
+1 Godless Shrine
+1 Victim of Night
+1 Bloodchief's Thirst
+1 Tombstalker
 2 Godless Shrine
 2 Prismatic Ending
 2 Consider

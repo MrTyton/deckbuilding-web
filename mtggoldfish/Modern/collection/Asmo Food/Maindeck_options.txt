@@ -12,11 +12,11 @@
 1 Misty Rainforest
 1 Trail of Crumbs
 1 Blooming Marsh
-1 Cauldron Familiar
 1 Street Wraith
+1 Cauldron Familiar
 2 Blooming Marsh
-2 Cauldron Familiar
 2 Street Wraith
+2 Cauldron Familiar
 3 Blooming Marsh
 3 Street Wraith
 3 Cauldron Familiar
@@ -37,8 +37,8 @@
 1 Breeding Pool
 1 Watery Grave
 1 Emry, Lurker of the Loch
-1 Time Sieve
 1 Polluted Delta
+1 Time Sieve
 1 Academy Manufactor
 2 Academy Manufactor
 2 Time Sieve
@@ -53,16 +53,16 @@
 1 Unearth
 1 Aether Spellbomb
 1 Otawara, Soaring City
-2 Unearth
 2 Emry, Lurker of the Loch
 2 Watery Grave
+2 Unearth
 2 Polluted Delta
 3 Polluted Delta
 3 Time Sieve
 3 Unearth
 3 Emry, Lurker of the Loch
-4 Polluted Delta
 4 Unearth
+4 Polluted Delta
 4 Time Sieve
 4 Emry, Lurker of the Loch
 3 Windswept Heath
@@ -75,10 +75,10 @@
 1 Minamo, School at Water's Edge
 1 Persist
 1 Archon of Cruelty
-2 Archon of Cruelty
 2 Persist
-3 Persist
+2 Archon of Cruelty
 3 Archon of Cruelty
+3 Persist
 4 Persist
 4 Archon of Cruelty
 1 Pyrite Spellbomb
@@ -91,22 +91,22 @@
 4 Ragavan, Nimble Pilferer
 4 Lightning Bolt
 1 Expedition Map
-1 Plaza of Heroes
-1 Marsh Flats
-1 Godless Shrine
-1 Flooded Strand
 1 Hallowed Fountain
+1 Plaza of Heroes
+1 Godless Shrine
+1 Marsh Flats
+1 Flooded Strand
 1 Darkslick Shores
 1 Tolaria West
-1 Snow-Covered Swamp
+2 Island
 1 Snow-Covered Forest
+1 Snow-Covered Swamp
 2 Snow-Covered Forest
+1 Grist, the Hunger Tide
+2 Grist, the Hunger Tide
+2 Haywire Mite
 1 Witch's Oven
 2 Witch's Oven
-2 Island
-1 Grist, the Hunger Tide
-2 Haywire Mite
-2 Grist, the Hunger Tide
 1 Urborg, Tomb of Yawgmoth
 1 Fatal Push
 2 Swamp
@@ -117,20 +117,20 @@
 1 Brainstone
 2 Satyr Wayfinder
 3 Satyr Wayfinder
+1 Ketria Triome
+1 Expressive Iteration
+1 Scalding Tarn
+1 Mox Amber
+1 Steam Vents
+1 Soul-Guide Lantern
+2 Expressive Iteration
+2 Scalding Tarn
+3 Expressive Iteration
+4 Expressive Iteration
+4 Galvanic Blast
+4 Misty Rainforest
 4 Windswept Heath
 1 Unholy Heat
 2 Unholy Heat
 3 Unholy Heat
 4 Unholy Heat
-1 Steam Vents
-1 Ketria Triome
-1 Mox Amber
-1 Scalding Tarn
-1 Expressive Iteration
-1 Soul-Guide Lantern
-2 Expressive Iteration
-2 Scalding Tarn
-3 Expressive Iteration
-4 Misty Rainforest
-4 Galvanic Blast
-4 Expressive Iteration
