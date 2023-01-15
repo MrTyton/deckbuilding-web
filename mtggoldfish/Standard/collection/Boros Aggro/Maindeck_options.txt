@@ -69,8 +69,8 @@
 1 Plaza of Heroes
 1 Feldon, Ronom Excavator
 1 Recommission
-2 The Wandering Emperor
 2 Plaza of Heroes
+2 The Wandering Emperor
 2 Recommission
 2 Feldon, Ronom Excavator
 2 Destroy Evil
@@ -92,9 +92,9 @@
 2 Illuminator Virtuoso
 2 Angelfire Ignition
 2 Homestead Courage
-3 Illuminator Virtuoso
 3 Angelfire Ignition
 3 Homestead Courage
+3 Illuminator Virtuoso
 4 Homestead Courage
 4 Illuminator Virtuoso
 4 Angelfire Ignition
@@ -116,10 +116,16 @@
 2 Atsushi, the Blazing Sky
 2 Take Up the Shield
 3 Take Up the Shield
+3 Recommission
+4 Adeline, Resplendent Cathar
 2 Resolute Reinforcements
 3 Resolute Reinforcements
 4 Resolute Reinforcements
 4 Wedding Announcement
+1 Depopulate
+2 Depopulate
+3 Serra Paragon
+4 Thalia, Guardian of Thraben
 1 Hammerhand
 1 Lizard Blades
 1 Twinferno
@@ -130,15 +136,9 @@
 3 Hammerhand
 3 Lizard Blades
 4 Hammerhand
-3 Recommission
-4 Adeline, Resplendent Cathar
 2 Sokenzan, Crucible of Defiance
 3 Shivan Devastator
 4 Shivan Devastator
-1 Depopulate
-2 Depopulate
-3 Serra Paragon
-4 Thalia, Guardian of Thraben
 1 Volatile Arsonist
 2 Volatile Arsonist
 3 Eiganjo, Seat of the Empire
@@ -154,8 +154,9 @@
 1 Mage's Attendant
 1 Raffine's Informant
 1 Lion Sash
-1 Banishing Slash
 1 Riveteers Requisitioner
+1 Banishing Slash
+1 Michiko's Reign of Truth
 1 Unlicensed Hearse
 1 Cemetery Gatekeeper
 1 Reckoner Bankbuster
@@ -163,7 +164,6 @@
 1 Investigator's Journal
 1 Ogre-Head Helm
 1 Fable of the Mirror-Breaker
-1 Michiko's Reign of Truth
 1 Goro-Goro, Disciple of Ryusei
 3 Wind-Scarred Crag
 4 Wind-Scarred Crag
