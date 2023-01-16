@@ -35,17 +35,17 @@
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |---------------------|-------------|--------------------:|------------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Depopulate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555211)           |
 |                     |             |                    1|[The Wandering Emperor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548337)|
 |                     |             |                    1|[Make Disappear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555250)       |
 |                     |             |                    1|[Flame-Blessed Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541014)   |
-|                     |             |                    1|[Depopulate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555211)           |
-|                     |             |                    2|[Make Disappear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555250)       |
 |                     |             |                    2|[Depopulate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555211)           |
+|                     |             |                    2|[Make Disappear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555250)       |
 |                     |             |                    2|[Flame-Blessed Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541014)   |
 |                     |             |                    2|[The Wandering Emperor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548337)|
-|                     |             |                    3|[Make Disappear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555250)       |
 |                     |             |                    3|[Depopulate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555211)           |
 |                     |             |                    3|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)    |
 |                     |             |                    3|[Flame-Blessed Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541014)   |
+|                     |             |                    3|[Make Disappear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555250)       |
 |                     |             |                    3|[The Wandering Emperor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548337)|
 

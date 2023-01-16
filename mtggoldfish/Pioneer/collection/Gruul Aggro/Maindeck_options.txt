@@ -34,15 +34,15 @@
 3 Forest
 4 Forest
 5 Forest
-1 Rhonas the Indomitable
 1 Wildborn Preserver
+1 Rhonas the Indomitable
 1 Collected Company
 1 Cinder Glade
 1 Old-Growth Troll
 1 Llanowar Elves
 1 Game Trail
-2 Cinder Glade
 2 Collected Company
+2 Cinder Glade
 2 Klothys, God of Destiny
 2 Llanowar Elves
 2 Game Trail
@@ -79,8 +79,8 @@
 4 Rootbound Crag
 1 Questing Beast
 1 Pelt Collector
-2 Questing Beast
 2 Pelt Collector
+2 Questing Beast
 3 Embercleave
 3 Pelt Collector
 4 Pelt Collector
@@ -91,6 +91,14 @@
 2 Fanatical Firebrand
 2 Feldon, Ronom Excavator
 3 Audacity
+1 Hajar, Loyal Bodyguard
+2 Hajar, Loyal Bodyguard
+3 Hajar, Loyal Bodyguard
+4 Ramunap Ruins
+1 Lightning Strike
+2 Lightning Strike
+3 Lightning Strike
+4 Lightning Strike
 1 Light Up the Stage
 1 Dreadhorde Arcanist
 1 End the Festivities
@@ -99,8 +107,8 @@
 2 Dreadhorde Arcanist
 2 End the Festivities
 2 Reckless Rage
-3 Light Up the Stage
 3 End the Festivities
+3 Light Up the Stage
 3 Dreadhorde Arcanist
 4 Dreadhorde Arcanist
 1 Reckless Impulse
@@ -111,22 +119,14 @@
 1 Voltaic Brawler
 1 Reckless Stormseeker
 1 Lair of the Hydra
-2 The Akroan War
 2 Nullhide Ferox
 2 Reckless Stormseeker
 2 Voltaic Brawler
+2 The Akroan War
 3 Reckless Stormseeker
 4 Elvish Mystic
-1 Lightning Strike
-2 Lightning Strike
-3 Lightning Strike
-4 Lightning Strike
-1 Hajar, Loyal Bodyguard
-2 Hajar, Loyal Bodyguard
-3 Hajar, Loyal Bodyguard
-4 Ramunap Ruins
-1 Zhur-Taa Goblin
 1 Mana Confluence
+1 Zhur-Taa Goblin
 2 Zhur-Taa Goblin
 3 Gallia of the Endless Dance
 3 Zhur-Taa Goblin

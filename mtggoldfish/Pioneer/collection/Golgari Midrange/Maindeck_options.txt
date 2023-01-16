@@ -47,16 +47,16 @@
 2 Tasigur, the Golden Fang
 2 Bloodchief's Thirst
 1 Mutavault
-2 Mutavault
 2 Skysovereign, Consul Flagship
+2 Mutavault
 3 Mutavault
-4 Mutavault
 4 Esika's Chariot
+4 Mutavault
 1 Tenacious Underdog
 2 Sheoldred, the Apocalypse
 2 Assassin's Trophy
-1 Rhonas the Indomitable
 1 Rotting Regisaur
+1 Rhonas the Indomitable
 1 The Great Henge
 2 Rotting Regisaur
 2 The Great Henge
@@ -95,8 +95,8 @@
 4 Werewolf Pack Leader
 1 Cut Down
 4 Liliana of the Veil
-1 Argoth, Sanctum of Nature
 1 Titania, Voice of Gaea
+1 Argoth, Sanctum of Nature
 1 Witherbloom Command
 2 Titania, Voice of Gaea
 2 Witherbloom Command
@@ -128,7 +128,8 @@
 1 Order of Midnight
 1 Primal Might
 1 Bite Down
-2 Old Rutstein
+1 Castle Vantress
+2 Castle Vantress
 1 Outland Liberator
 1 Kraul Harpooner
 2 Questing Beast
@@ -138,8 +139,7 @@
 1 Heartless Act
 1 Extinction Event
 2 Heartless Act
-1 Castle Vantress
-2 Castle Vantress
+2 Old Rutstein
 1 The Meathook Massacre
 1 Shigeki, Jukai Visionary
 1 Soul Transfer
@@ -149,14 +149,14 @@
 2 The Meathook Massacre
 2 Shigeki, Jukai Visionary
 2 Hissing Quagmire
-1 Misery's Shadow
-2 Misery's Shadow
-3 Lair of the Hydra
 1 Dread Fugue
 1 Oath of Nissa
 2 Dread Fugue
 2 Oath of Nissa
 3 Oath of Nissa
+1 Misery's Shadow
+2 Misery's Shadow
+3 Lair of the Hydra
 3 Assassin's Trophy
 4 Skysovereign, Consul Flagship
 1 Go for the Throat
@@ -164,21 +164,21 @@
 2 Scrapheap Scrounger
 3 Scrapheap Scrounger
 4 Scrapheap Scrounger
-1 Ulamog, the Ceaseless Hunger
-1 Turntimber Symbiosis
 1 Shakedown Heavy
+1 Turntimber Symbiosis
 1 Castle Garenbrig
 1 Fight Rigging
 1 Titan of Industry
 1 Valki, God of Lies
+1 Ulamog, the Ceaseless Hunger
 1 Vorinclex, Monstrous Raider
 1 Cityscape Leveler
 1 Stomping Ground
-2 Stomping Ground
-2 Shakedown Heavy
 2 Fight Rigging
 2 Valki, God of Lies
+2 Stomping Ground
 2 Turntimber Symbiosis
+2 Shakedown Heavy
 3 Fight Rigging
 3 Turntimber Symbiosis
 3 Shakedown Heavy
@@ -211,8 +211,8 @@
 2 Ghalta, Primal Hunger
 2 Surrak, the Hunt Caller
 2 Old-Growth Troll
-3 Boseiju, Who Endures
 3 Ghalta, Primal Hunger
+3 Boseiju, Who Endures
 3 Woodland Cemetery
 3 Surrak, the Hunt Caller
 4 The Great Henge
