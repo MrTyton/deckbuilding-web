@@ -57,10 +57,10 @@
 1 Eladamri's Call
 3 Counterspell
 1 Celestial Colonnade
-1 Magus of the Moon
-1 Batterskull
-1 Kaldra Compleat
 1 Stoneforge Mystic
+1 Kaldra Compleat
+1 Batterskull
+1 Magus of the Moon
 2 Snow-Covered Plains
 2 Stoneforge Mystic
 3 Stoneforge Mystic
@@ -93,15 +93,15 @@
 4 Spreading Seas
 1 Utopia Sprawl
 2 Forest
-2 Utopia Sprawl
 2 Stomping Ground
+2 Utopia Sprawl
 3 Utopia Sprawl
 1 Endurance
 1 Arlinn, the Pack's Hope
-1 Polluted Delta
 1 Teferi, Hero of Dominaria
 1 Mystic Gate
 1 Hall of Storm Giants
+1 Polluted Delta
 2 Mystic Gate
 3 Mystic Gate
 3 Supreme Verdict
@@ -131,8 +131,8 @@
 4 Vivien on the Hunt
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
-1 Spirebluff Canal
 1 Unholy Heat
+1 Spirebluff Canal
 2 Spirebluff Canal
 2 Unholy Heat
 1 Wall of Omens
@@ -152,31 +152,31 @@
 1 Savai Triome
 1 Subtlety
 1 Nahiri, the Harbinger
-2 Otawara, Soaring City
 2 Sacred Foundry
+2 Otawara, Soaring City
 1 Qasali Ambusher
 2 Qasali Ambusher
 3 Fire/Ice
+3 Remand
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
 3 Prismatic Vista
-3 Remand
 1 Arbor Elf
 2 Arbor Elf
 3 Eladamri's Call
 3 Arbor Elf
 3 Stomping Ground
+4 Blood Moon
 1 Abundant Growth
 1 Mulldrifter
 2 Abundant Growth
 2 Mulldrifter
 4 Wooded Foothills
-4 Blood Moon
-1 Omen of the Sea
 1 Seachrome Coast
-2 Omen of the Sea
+1 Omen of the Sea
 2 Seachrome Coast
+2 Omen of the Sea
 3 Unholy Heat
 3 Omen of the Sea
 4 Unholy Heat
@@ -189,6 +189,7 @@
 1 Valakut Awakening
 4 Oath of Nissa
 4 Planebound Accomplice
+1 Eiganjo, Seat of the Empire
 1 Charming Prince
 1 Soulherder
 1 Imperial Recruiter
@@ -196,7 +197,6 @@
 1 Skyclave Apparition
 1 Vesperlark
 1 Aether Vial
-1 Eiganjo, Seat of the Empire
 2 Vesperlark
 2 Charming Prince
 2 Imperial Recruiter
@@ -204,15 +204,15 @@
 2 Soulherder
 2 Skyclave Apparition
 2 Auriok Champion
-3 Hallowed Fountain
-3 Plains
-3 March of Otherworldly Light
 3 Arid Mesa
+3 Hallowed Fountain
+3 March of Otherworldly Light
 3 Soulherder
 3 Skyclave Apparition
 3 Charming Prince
 3 Wall of Omens
 3 Imperial Recruiter
+3 Plains
 3 Aether Vial
 4 Arid Mesa
 4 Wall of Omens

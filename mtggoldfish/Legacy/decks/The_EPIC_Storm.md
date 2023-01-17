@@ -54,7 +54,7 @@
 |                    1|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)      |                    1|[Allosaurus Shepherd](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489195)     |
 |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |                    1|[Aeve, Progenitor Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522224)   |
 |                    1|[Pair o' Dice Lost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=580693)   |                    1|[Boseiju, Who Endures](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548579)    |
-|                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)          |
+|                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)          |
 |                    2|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)      |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)          |
-|                     |                                                                                               |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)          |
+|                     |                                                                                               |                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)          |
 

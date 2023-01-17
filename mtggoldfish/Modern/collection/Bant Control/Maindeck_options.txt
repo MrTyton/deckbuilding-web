@@ -1,8 +1,9 @@
-2 Windswept Heath
-2 Castle Vantress
+1 Celestial Colonnade
 2 Dress Down
+2 Castle Vantress
 2 Polluted Delta
 1 Zagoth Triome
+2 Jace, the Mind Sculptor
 1 Snow-Covered Plains
 1 Snow-Covered Island
 2 Snow-Covered Island
@@ -10,39 +11,26 @@
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
-2 Jace, the Mind Sculptor
 1 Force of Negation
-3 Misty Rainforest
 4 Island
+3 Misty Rainforest
 1 The Wandering Emperor
 1 Steam Vents
 3 Snow-Covered Island
+1 Xander's Lounge
+2 Breeding Pool
+1 Castle Ardenvale
+1 Snapcaster Mage
+2 Snapcaster Mage
 2 Force of Negation
 1 Snow-Covered Forest
 1 Temple Garden
-2 Breeding Pool
-1 Castle Ardenvale
-3 Windswept Heath
-1 Noble Hierarch
-2 Noble Hierarch
-3 Noble Hierarch
-4 Noble Hierarch
 1 Shark Typhoon
-1 March of Otherworldly Light
-2 March of Otherworldly Light
-2 Snow-Covered Plains
-1 Boseiju, Who Endures
-1 Ephemerate
-2 Snow-Covered Forest
-2 Ephemerate
 3 Hallowed Fountain
-1 Xander's Lounge
-1 Snapcaster Mage
 1 Fire/Ice
-2 Snapcaster Mage
 2 Fire/Ice
 3 Fire/Ice
-4 Misty Rainforest
+3 Mystic Gate
 1 Narset, Parter of Veils
 1 Geier Reach Sanitarium
 1 Day's Undoing
@@ -50,35 +38,48 @@
 2 Day's Undoing
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
+3 Windswept Heath
+3 Snapcaster Mage
 1 Eiganjo, Seat of the Empire
+1 Noble Hierarch
+2 Noble Hierarch
+3 Noble Hierarch
+4 Noble Hierarch
+4 Misty Rainforest
+1 March of Otherworldly Light
+2 March of Otherworldly Light
+2 Snow-Covered Plains
+1 Boseiju, Who Endures
+1 Ephemerate
+2 Snow-Covered Forest
+2 Ephemerate
+1 Prairie Stream
+1 Raffine's Tower
+1 Ketria Triome
+2 Memory Deluge
+2 Shark Typhoon
+3 Supreme Verdict
+1 Eternal Witness
+1 Soulherder
+2 Eternal Witness
 3 Ephemerate
-1 Stoneforge Mystic
-1 Kaldra Compleat
+4 Ephemerate
+2 Hall of Storm Giants
+2 Plains
 1 Batterskull
+1 Kaldra Compleat
+1 Stoneforge Mystic
+1 Sword of Fire and Ice
 1 Spell Queller
 2 Stoneforge Mystic
 2 Spell Queller
 3 Stoneforge Mystic
-1 Prairie Stream
-3 Mystic Gate
-1 Raffine's Tower
-1 Ketria Triome
-1 Endurance
-2 Memory Deluge
-1 Soulherder
-1 Eternal Witness
-2 Eternal Witness
-4 Ephemerate
-2 Shark Typhoon
-3 Supreme Verdict
-3 Snapcaster Mage
-2 Hall of Storm Giants
-1 Sword of Fire and Ice
 4 Stoneforge Mystic
-4 Windswept Heath
-2 Temple Garden
 3 Force of Negation
 1 Glacial Floodplain
+4 Windswept Heath
+2 Temple Garden
+1 Endurance
 1 Time Warp
 2 Time Warp
 3 Eternal Witness
@@ -110,8 +111,6 @@
 1 Coiling Oracle
 2 Coiling Oracle
 3 Coiling Oracle
-1 Eladamri's Call
-2 Plains
 3 Subtlety
 1 Flooded Grove
 1 Esper Sentinel
@@ -120,6 +119,7 @@
 4 Esper Sentinel
 1 On Thin Ice
 2 On Thin Ice
+1 Eladamri's Call
 1 Cryptic Command
 1 Abundant Growth
 1 Knight of Autumn
@@ -146,19 +146,20 @@
 1 Yavimaya, Cradle of Growth
 3 Spell Queller
 4 Spell Queller
-1 Sword of Feast and Famine
-1 Birds of Paradise
-2 Eladamri's Call
-2 Endurance
-2 Birds of Paradise
-3 Eladamri's Call
-4 Eladamri's Call
 1 Serra Paragon
 1 Vesperlark
 1 Skyclave Apparition
 2 Skyclave Apparition
 3 Skyclave Apparition
 4 Force of Negation
+1 Condemn
+1 Frantic Inventory
+1 Oust
+2 Condemn
+2 Frantic Inventory
+2 Oust
+3 Frantic Inventory
+4 Frantic Inventory
 4 Scalding Tarn
 1 Sanctum Prelate
 1 Horizon Canopy
@@ -195,8 +196,8 @@
 3 Sterling Grove
 3 Phyrexian Unlife
 4 Commune with Spirits
-4 Utopia Sprawl
 4 Temple Garden
+4 Utopia Sprawl
 4 Nine Lives
 4 Greater Auramancy
 4 On Thin Ice
