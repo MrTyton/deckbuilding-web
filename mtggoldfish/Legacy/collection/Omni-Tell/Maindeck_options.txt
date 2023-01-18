@@ -1,13 +1,13 @@
-1 Sylvan Library
 1 Drawn from Dreams
+1 Sylvan Library
 4 Ice-Fang Coatl
+1 City of Traitors
 1 Polluted Delta
 2 Impulse
-1 City of Traitors
 4 Cunning Wish
+3 Flooded Strand
 2 Polluted Delta
 4 Preordain
-3 Flooded Strand
 1 Island
 2 Island
 3 Island
@@ -17,24 +17,26 @@
 4 Flooded Strand
 2 Lotus Petal
 3 Emrakul, the Aeons Torn
-3 Impulse
-4 Impulse
-3 Lotus Petal
 1 Flusterstorm
 1 Sea Gate Restoration
-1 Plains
+3 Impulse
+4 Impulse
 2 Intuition
+3 Lotus Petal
 2 City of Traitors
 2 Sea Gate Restoration
+1 Plains
 3 Polluted Delta
+3 Sea Gate Restoration
 1 Venser, Shaper Savant
-1 Spell Pierce
+1 Orim's Chant
 1 Tundra
+1 Spell Pierce
+3 Intuition
+2 Flusterstorm
 5 Island
 2 Scalding Tarn
-3 Sea Gate Restoration
 4 Polluted Delta
-1 Orim's Chant
 1 Karakas
 2 Orim's Chant
 3 Orim's Chant
@@ -42,9 +44,10 @@
 2 Tropical Island
 2 Spell Pierce
 3 Snow-Covered Forest
-3 Intuition
-2 Flusterstorm
+6 Snow-Covered Island
+7 Snow-Covered Island
 6 Island
+1 Eureka
 1 Snow-Covered Swamp
 1 Profane Tutor
 1 Thoughtseize
@@ -56,30 +59,28 @@
 3 Thoughtseize
 3 Profane Tutor
 4 Profane Tutor
-1 Eureka
 1 Boseiju, Who Shelters All
 3 Flusterstorm
-6 Snow-Covered Island
-7 Snow-Covered Island
+8 Snow-Covered Island
+4 Intuition
 1 Daze
 2 Daze
 3 Daze
 1 Volcanic Island
 1 Predict
-2 Predict
 2 Mystic Sanctuary
+2 Predict
 3 Predict
 4 Predict
 1 Brazen Borrower
 1 Otawara, Soaring City
 1 Lim-Dul's Vault
-8 Snow-Covered Island
 2 Drawn from Dreams
-4 Intuition
 4 Sea Gate Restoration
+1 Snow-Covered Plains
 2 Sylvan Library
-1 Endurance
 1 One with the Multiverse
+1 Endurance
 1 Boseiju, Who Endures
 3 City of Traitors
 3 Ancient Tomb
@@ -87,13 +88,11 @@
 4 Lotus Petal
 3 Scalding Tarn
 1 Fatal Push
-1 Snow-Covered Plains
 1 Carpet of Flowers
 2 Boseiju, Who Shelters All
 2 Boseiju, Who Endures
-3 Uro, Titan of Nature's Wrath
-1 Forest
 1 Spy Network
+1 Forest
 2 Spy Network
 3 Tropical Island
 1 Kozilek, Butcher of Truth
@@ -108,11 +107,17 @@
 2 Monster Manual
 3 Sylvan Library
 3 Monster Manual
-1 Snapcaster Mage
+3 Uro, Titan of Nature's Wrath
+1 Invert/Invent
+1 Sublime Epiphany
+1 Mystical Teachings
+2 Mystical Teachings
+3 Mystical Teachings
 1 Swords to Plowshares
 1 Teferi, Time Raveler
 1 Batterskull
 1 Stoneforge Mystic
+1 Snapcaster Mage
 2 Swords to Plowshares
 2 Teferi, Time Raveler
 2 Plains
@@ -124,8 +129,8 @@
 2 Enter the Infinite
 2 Pact of Negation
 2 Volcanic Island
-3 Enter the Infinite
 3 Volcanic Island
+3 Enter the Infinite
 4 Scalding Tarn
 4 Volcanic Island
 4 Enter the Infinite

@@ -1,3 +1,14 @@
+2 Eiganjo, Seat of the Empire
+1 Brushland
+1 The Mightstone and Weakstone
+2 Brushland
+1 Urza, Lord Protector
+2 The Mightstone and Weakstone
+3 The Mightstone and Weakstone
+1 Repair and Recharge
+1 Portal to Phyrexia
+1 Invoke Justice
+1 One with the Multiverse
 1 Stern Lesson
 1 Thirst for Knowledge
 1 Faithful Mending
@@ -18,38 +29,28 @@
 3 Stern Lesson
 3 Thirst for Knowledge
 4 Invoke Justice
-1 Endless Detour
-2 Teferi, Who Slows the Sunset
-4 Overgrown Farmland
-3 Plains
-1 Hullbreaker Horror
+4 Wedding Announcement
 1 Fateful Absence
 2 Fateful Absence
-1 Make Disappear
-2 Make Disappear
-1 Wedding Announcement
-2 Wedding Announcement
-3 Wedding Announcement
 1 Reckoner Bankbuster
 2 Reckoner Bankbuster
 1 Tamiyo, Compleated Sage
+3 Make Disappear
 4 Dreamroot Cascade
 1 Colossal Skyturtle
 1 Shigeki, Jukai Visionary
-2 Negate
 4 Joint Exploration
 2 Endless Detour
-1 Destroy Evil
+2 Negate
 2 Sunset Revelry
 2 Hullbreaker Horror
 4 Depopulate
-4 Wedding Announcement
 1 Elspeth Resplendent
 1 Wrenn and Seven
 3 Yavimaya Coast
 2 Tamiyo, Compleated Sage
-3 Make Disappear
 3 Teferi, Who Slows the Sunset
+1 Plaza of Heroes
 1 Ertai's Scorn
 1 Sphinx of Clear Skies
 1 Essence Scatter
@@ -74,7 +75,6 @@
 2 Dissipate
 1 Union of the Third Path
 2 Union of the Third Path
-1 Plaza of Heroes
 1 Ajani, Sleeper Agent
 3 Tamiyo, Compleated Sage
 3 Reckoner Bankbuster
@@ -84,18 +84,21 @@
 3 Fateful Absence
 1 The Restoration of Eiganjo
 2 The Restoration of Eiganjo
+2 Destroy Evil
 1 Storm the Festival
 2 Storm the Festival
 3 Storm the Festival
 1 Spell Pierce
 4 Make Disappear
 4 Teferi, Who Slows the Sunset
+1 Outland Liberator
+2 Outland Liberator
 1 The Reality Chip
 1 Courier's Briefcase
 1 Circle of Confinement
-2 Urza, Lord Protector
 2 Courier's Briefcase
 2 Circle of Confinement
+2 Urza, Lord Protector
 3 Brushland
 3 Urza, Lord Protector
 3 Courier's Briefcase
@@ -111,23 +114,6 @@
 2 Shigeki, Jukai Visionary
 2 Jetmir's Garden
 2 Thornwood Falls
-1 Rootcoil Creeper
-1 Spirited Companion
-1 Timeless Lotus
-1 Outland Liberator
-2 Rootcoil Creeper
-2 Spirited Companion
-2 Timeless Lotus
-2 Outland Liberator
-2 Forest
-3 The Restoration of Eiganjo
-3 Rootcoil Creeper
-3 Spirited Companion
-3 Hullbreaker Horror
-3 Timeless Lotus
-4 The Restoration of Eiganjo
-4 Rootcoil Creeper
-4 Spirited Companion
 1 Soul Partition
 2 Soul Partition
 2 Teferi, Temporal Pilgrim
@@ -138,9 +124,23 @@
 4 March of Otherworldly Light
 4 Silver Scrutiny
 4 Soul Partition
+1 Rootcoil Creeper
+1 Spirited Companion
+1 Timeless Lotus
+2 Rootcoil Creeper
+2 Spirited Companion
+2 Timeless Lotus
+2 Forest
+3 The Restoration of Eiganjo
+3 Rootcoil Creeper
+3 Spirited Companion
+3 Hullbreaker Horror
+3 Timeless Lotus
+4 The Restoration of Eiganjo
+4 Rootcoil Creeper
+4 Spirited Companion
 1 Llanowar Loamspeaker
 1 Falco Spara, Pactweaver
-2 Destroy Evil
 2 Elspeth Resplendent
 2 Llanowar Loamspeaker
 2 Brokers Ascendancy
@@ -179,6 +179,24 @@
 3 Negate
 3 Urza Assembles the Titans
 4 Plains
+1 Dennick, Pious Apprentice
+1 Brutal Cathar
+1 Ao, the Dawn Sky
+1 Loran of the Third Path
+1 Shanna, Purifying Blade
+2 Dennick, Pious Apprentice
+2 Plaza of Heroes
+2 Otawara, Soaring City
+2 Brutal Cathar
+2 Loran of the Third Path
+2 Shanna, Purifying Blade
+3 Shanna, Purifying Blade
+3 Plaza of Heroes
+3 Dennick, Pious Apprentice
+3 Outland Liberator
+4 Plaza of Heroes
+4 Outland Liberator
+4 Shanna, Purifying Blade
 4 Portal to Phyrexia
 4 Titan of Industry
 1 Sanctuary Warden

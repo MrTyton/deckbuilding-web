@@ -1,38 +1,39 @@
-3 Expressive Iteration
+2 Hallowed Fountain
+2 Scalding Tarn
+4 Wrenn and Six
+1 Forest
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
 3 Fable of the Mirror-Breaker
 4 Saheeli Rai
-2 Steam Vents
-2 Hallowed Fountain
-2 Scalding Tarn
 3 Fury
-1 Chalice of the Void
 4 Expressive Iteration
 3 Scalding Tarn
-4 Fury
 1 Mountain
+1 Chalice of the Void
+4 Fury
 4 Omnath, Locus of Creation
 1 Castle Vantress
 2 Plains
 2 Chalice of the Void
 3 Chalice of the Void
 3 Leyline Binding
-1 Wooded Foothills
-1 Ketria Triome
 4 Fable of the Mirror-Breaker
 4 Leyline Binding
+1 Wooded Foothills
+1 Ketria Triome
 1 Indatha Triome
-1 Oath of Nissa
 1 Fire/Ice
 1 Prismatic Vista
+1 Oath of Nissa
 1 Blood Moon
 2 Blood Moon
-2 Oath of Nissa
+4 Scalding Tarn
+1 Spreading Seas
+2 Spreading Seas
+1 Counterspell
+2 Counterspell
 1 Jetmir's Garden
-1 Snow-Covered Island
-1 Snow-Covered Plains
-1 Snow-Covered Forest
 1 Portal to Phyrexia
 1 Shape Anew
 1 Gingerbread Cabin
@@ -42,13 +43,12 @@
 2 Gingerbread Cabin
 3 Shape Anew
 4 Shape Anew
-1 Spreading Seas
-2 Spreading Seas
-1 Counterspell
-2 Counterspell
+1 Snow-Covered Plains
+1 Snow-Covered Forest
+1 Snow-Covered Island
 3 Ephemerate
 2 Fire/Ice
-4 Scalding Tarn
+2 Oath of Nissa
 2 Prismatic Vista
 3 Blood Moon
 3 Wooded Foothills
@@ -57,10 +57,10 @@
 1 Eladamri's Call
 3 Counterspell
 1 Celestial Colonnade
-1 Stoneforge Mystic
-1 Kaldra Compleat
-1 Batterskull
 1 Magus of the Moon
+1 Batterskull
+1 Kaldra Compleat
+1 Stoneforge Mystic
 2 Snow-Covered Plains
 2 Stoneforge Mystic
 3 Stoneforge Mystic
@@ -68,7 +68,6 @@
 1 Supreme Verdict
 3 Island
 1 Yavimaya, Cradle of Growth
-2 Breeding Pool
 1 Sulfur Falls
 1 Snapcaster Mage
 1 Serum Visions
@@ -77,11 +76,10 @@
 3 Lightning Bolt
 3 Serum Visions
 4 Serum Visions
-1 Arid Mesa
 1 March of Otherworldly Light
 2 March of Otherworldly Light
-1 Spara's Headquarters
 2 Eladamri's Call
+1 Spara's Headquarters
 1 Archmage's Charm
 2 Archmage's Charm
 3 Archmage's Charm
@@ -91,17 +89,23 @@
 2 Castle Vantress
 3 Spreading Seas
 4 Spreading Seas
+1 Unholy Heat
+1 Spirebluff Canal
+2 Unholy Heat
+2 Spirebluff Canal
 1 Utopia Sprawl
 2 Forest
-2 Stomping Ground
+2 Breeding Pool
 2 Utopia Sprawl
+2 Stomping Ground
 3 Utopia Sprawl
+1 Arid Mesa
 1 Endurance
 1 Arlinn, the Pack's Hope
+1 Polluted Delta
 1 Teferi, Hero of Dominaria
 1 Mystic Gate
 1 Hall of Storm Giants
-1 Polluted Delta
 2 Mystic Gate
 3 Mystic Gate
 3 Supreme Verdict
@@ -114,27 +118,10 @@
 2 Remand
 1 Verdant Catacombs
 2 Verdant Catacombs
-1 Karmic Guide
-1 Ashiok, Dream Render
-1 Silence
-1 Kiki-Jiki, Mirror Breaker
-1 Planebound Accomplice
-1 Vivien on the Hunt
-2 Ashiok, Dream Render
-2 Silence
-2 Vivien on the Hunt
-2 Planebound Accomplice
-2 Karmic Guide
-3 Planebound Accomplice
-3 Oath of Nissa
-3 Vivien on the Hunt
-4 Vivien on the Hunt
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
-1 Unholy Heat
-1 Spirebluff Canal
-2 Spirebluff Canal
-2 Unholy Heat
+3 Unholy Heat
+4 Unholy Heat
 1 Wall of Omens
 2 Wall of Omens
 2 Arid Mesa
@@ -156,39 +143,68 @@
 2 Otawara, Soaring City
 1 Qasali Ambusher
 2 Qasali Ambusher
-3 Fire/Ice
-3 Remand
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
 3 Prismatic Vista
-1 Arbor Elf
-2 Arbor Elf
-3 Eladamri's Call
-3 Arbor Elf
-3 Stomping Ground
+3 Fire/Ice
+3 Remand
 4 Blood Moon
 1 Abundant Growth
 1 Mulldrifter
 2 Abundant Growth
 2 Mulldrifter
 4 Wooded Foothills
+1 Karmic Guide
+1 Ashiok, Dream Render
+1 Silence
+1 Kiki-Jiki, Mirror Breaker
+1 Planebound Accomplice
+1 Arbor Elf
+1 Vivien on the Hunt
+2 Ashiok, Dream Render
+2 Silence
+2 Vivien on the Hunt
+2 Planebound Accomplice
+2 Arbor Elf
+2 Karmic Guide
+3 Eladamri's Call
+3 Planebound Accomplice
+3 Arbor Elf
+3 Oath of Nissa
+3 Vivien on the Hunt
+3 Stomping Ground
+4 Vivien on the Hunt
 1 Seachrome Coast
 1 Omen of the Sea
 2 Seachrome Coast
 2 Omen of the Sea
-3 Unholy Heat
 3 Omen of the Sea
-4 Unholy Heat
 4 Omen of the Sea
 2 Temple Garden
 3 Verdant Catacombs
 3 Gingerbread Cabin
 4 Verdant Catacombs
 4 Utopia Sprawl
-1 Valakut Awakening
-4 Oath of Nissa
-4 Planebound Accomplice
+1 Spell Pierce
+1 Ragavan, Nimble Pilferer
+1 Dragon's Rage Channeler
+1 Ledger Shredder
+1 Mishra's Bauble
+2 Ragavan, Nimble Pilferer
+2 Dragon's Rage Channeler
+2 Ledger Shredder
+2 Mishra's Bauble
+3 Spirebluff Canal
+3 Ragavan, Nimble Pilferer
+3 Ledger Shredder
+3 Mishra's Bauble
+3 Dragon's Rage Channeler
+4 Ledger Shredder
+4 Ragavan, Nimble Pilferer
+4 Dragon's Rage Channeler
+4 Spirebluff Canal
+4 Mishra's Bauble
 1 Eiganjo, Seat of the Empire
 1 Charming Prince
 1 Soulherder
@@ -204,8 +220,8 @@
 2 Soulherder
 2 Skyclave Apparition
 2 Auriok Champion
-3 Arid Mesa
 3 Hallowed Fountain
+3 Arid Mesa
 3 March of Otherworldly Light
 3 Soulherder
 3 Skyclave Apparition
@@ -216,6 +232,6 @@
 3 Aether Vial
 4 Arid Mesa
 4 Wall of Omens
-4 Aether Vial
 4 Charming Prince
+4 Aether Vial
 4 Ephemerate

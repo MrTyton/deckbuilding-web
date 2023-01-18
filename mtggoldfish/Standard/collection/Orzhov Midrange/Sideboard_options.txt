@@ -1,26 +1,29 @@
-1 Farewell
+1 Path of Peril
 2 Pilfer
-2 Unlicensed Hearse
-2 Cut Down
-1 Soul Transfer
-1 Fateful Absence
-1 Disenchant
-1 Sorin the Mirthless
-2 Destroy Evil
-2 Archangel of Wrath
-1 Sheoldred, the Apocalypse
-2 Disenchant
+1 Archangel of Wrath
 1 Depopulate
+1 Disenchant
+1 Fateful Absence
+1 Knockout Blow
+1 Sorin the Mirthless
+1 Sheoldred, the Apocalypse
+2 Destroy Evil
+2 Disenchant
 1 Serra Paragon
+2 Path of Peril
+2 Archangel of Wrath
 2 Farewell
+2 Soul Transfer
+1 Sunset Revelry
+2 Sunset Revelry
 1 Infernal Grasp
-1 Dreams of Steel and Oil
-1 Pithing Needle
-2 Pithing Needle
 1 Lantern of the Lost
 2 Lantern of the Lost
-1 Loran of the Third Path
+1 Pithing Needle
+2 Pithing Needle
+1 Dreams of Steel and Oil
 1 Parasitic Grasp
+1 Loran of the Third Path
 1 Curse of Silence
 2 Curse of Silence
 3 Lantern of the Lost
@@ -29,11 +32,8 @@
 2 Knockout Blow
 2 Depopulate
 2 Sorin the Mirthless
-2 Soul Transfer
-2 Reckoner Bankbuster
 3 Cut Down
-1 Sunset Revelry
-2 Sunset Revelry
+2 Reckoner Bankbuster
 1 Karn's Sylex
 1 Malicious Malfunction
 2 Fateful Absence
@@ -61,14 +61,14 @@
 1 Eaten Alive
 1 Hero's Downfall
 1 Circle of Confinement
+1 Urza's Sylex
+1 Evolved Sleeper
 1 Thalia, Guardian of Thraben
 1 Valorous Stance
-1 Thraben Exorcism
 1 Prayer of Binding
 1 Banishing Slash
 1 Graf Reaver
-1 Urza's Sylex
-1 Evolved Sleeper
+1 Thraben Exorcism
 1 Braids, Arisen Nightmare
 1 Rite of Oblivion
 1 Inspiring Overseer
@@ -92,6 +92,7 @@
 2 Elspeth Resplendent
 3 Graveyard Trespasser
 3 Depopulate
+3 Sunset Revelry
 1 Lay Down Arms
 2 Lay Down Arms
 2 Eaten Alive

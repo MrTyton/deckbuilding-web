@@ -29,12 +29,12 @@
 2 Swamp
 3 Deadly Brew
 1 Sylvan Library
-1 Chain of Smog
 1 Witherbloom Apprentice
-2 Chain of Smog
+1 Chain of Smog
 2 Witherbloom Apprentice
-3 Chain of Smog
+2 Chain of Smog
 3 Witherbloom Apprentice
+3 Chain of Smog
 1 Badlands
 1 Terror of the Peaks
 1 Mountain
@@ -121,8 +121,8 @@
 3 Snow-Covered Swamp
 3 Snow-Covered Forest
 1 Scapeshift
-1 Liliana of the Veil
 1 Liliana, the Last Hope
+1 Liliana of the Veil
 1 Jace, the Mind Sculptor
 1 Garruk Relentless
 1 Karn Liberated
@@ -138,6 +138,7 @@
 3 Mawloc
 4 Fury
 4 Mawloc
+1 Diabolic Intent
 1 Vraska, Golgari Queen
 1 Qasali Pridemage
 1 Voice of Resurgence
@@ -145,7 +146,6 @@
 1 The Gitrog Monster
 1 Path to Exile
 1 Nissa, Vital Force
-1 Diabolic Intent
 1 Kitchen Finks
 1 Acidic Slime
 1 Sigarda, Host of Herons
@@ -183,13 +183,13 @@
 4 Cavern of Souls
 4 Living Wish
 4 Arena Rector
-1 Ice-Fang Coatl
-1 Life from the Loam
 1 Crop Rotation
 1 Cephalid Coliseum
 1 Undermountain Adventurer
+1 Ice-Fang Coatl
 1 Ponder
-2 Ice-Fang Coatl
+1 Life from the Loam
 2 Tropical Island
+2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 4 Brainstorm
