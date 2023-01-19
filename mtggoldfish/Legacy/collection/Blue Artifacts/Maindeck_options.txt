@@ -47,10 +47,10 @@
 1 Retrofitter Foundry
 1 Tanglepool Bridge
 1 Spire of Industry
-1 Tezzeret, Agent of Bolas
 1 Haywire Mite
 1 Sudden Edict
 1 Mistvault Bridge
+1 Tezzeret, Agent of Bolas
 2 Spire of Industry
 2 Tezzeret, Agent of Bolas
 2 Metallic Rebuke
@@ -72,21 +72,16 @@
 1 Cunning Wish
 1 Sylvan Library
 1 Forest
+1 Prismatic Vista
 1 Baleful Mastery
 1 Crucible of Worlds
 1 The Stone Brain
 1 Swamp
-1 Prismatic Vista
 1 Ensnaring Bridge
 1 Transmute Artifact
 1 Dimir Signet
 2 Prismatic Vista
 3 Prismatic Vista
-1 The Antiquities War
-1 Soul-Guide Lantern
-2 The Antiquities War
-3 Metallic Rebuke
-3 The Antiquities War
 1 The Reality Chip
 1 Echoing Truth
 1 Mana Maze
@@ -102,6 +97,11 @@
 2 Grist, the Hunger Tide
 3 Spire of Industry
 3 Sai, Master Thopterist
+1 The Antiquities War
+1 Soul-Guide Lantern
+2 The Antiquities War
+3 The Antiquities War
+3 Metallic Rebuke
 1 Cavern of Souls
 1 Ledger Shredder
 2 Cavern of Souls
@@ -109,7 +109,6 @@
 3 Aarakocra Sneak
 3 Ledger Shredder
 4 Ledger Shredder
-4 Wasteland
 1 Forging the Anchor
 1 Skorpekh Lord
 2 Vault of Whispers
@@ -130,21 +129,21 @@
 3 Tameshi, Reality Architect
 4 Tameshi, Reality Architect
 4 Repeal
-1 Underground Sea
-1 Polluted Delta
 1 Snow-Covered Swamp
+1 Underground Sea
 1 Nimble Obstructionist
 1 Sword of the Meek
 1 Thopter Foundry
 1 Tropical Island
 1 Snow-Covered Forest
 1 Uro, Titan of Nature's Wrath
+1 Polluted Delta
 1 Misty Rainforest
 2 Tropical Island
+2 Misty Rainforest
 2 Polluted Delta
 2 Uro, Titan of Nature's Wrath
 2 Underground Sea
-2 Misty Rainforest
 3 Polluted Delta
 3 Uro, Titan of Nature's Wrath
 3 Urza, Lord High Artificer
@@ -153,6 +152,7 @@
 1 Lightning Greaves
 2 Force of Negation
 4 Chrome Mox
+4 Wasteland
 1 Seasoned Dungeoneer
 1 Plains
 1 White Plume Adventurer

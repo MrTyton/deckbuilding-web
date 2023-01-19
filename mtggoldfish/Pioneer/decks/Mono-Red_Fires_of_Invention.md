@@ -68,8 +68,8 @@
 |                    2|[Reality Smasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407517)           |                     |                                                                                               |
 |                    2|[Sweltering Suns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426851)           |                     |                                                                                               |
 |                    3|[Reality Smasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407517)           |                     |                                                                                               |
-|                    4|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|                     |                                                                                               |
 |                    4|[Reality Smasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407517)           |                     |                                                                                               |
+|                    4|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|                     |                                                                                               |
 |                    1|[Chandra, Heart of Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485458)    |                     |                                                                                               |
 |                    4|[Valakut Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491818)         |                     |                                                                                               |
 

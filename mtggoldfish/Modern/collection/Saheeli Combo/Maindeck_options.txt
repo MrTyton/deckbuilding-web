@@ -1,62 +1,57 @@
-2 Hallowed Fountain
-2 Scalding Tarn
-4 Wrenn and Six
-1 Forest
-1 Fable of the Mirror-Breaker
-2 Fable of the Mirror-Breaker
-3 Fable of the Mirror-Breaker
-4 Saheeli Rai
+2 Expressive Iteration
 3 Fury
-4 Expressive Iteration
-3 Scalding Tarn
+1 Scalding Tarn
+3 Expressive Iteration
+4 Saheeli Rai
+2 Island
 1 Mountain
+1 Ephemerate
+2 Ephemerate
+4 Leyline Binding
+1 Ketria Triome
+2 Steam Vents
+4 Expressive Iteration
+2 Scalding Tarn
+2 Hallowed Fountain
 1 Chalice of the Void
 4 Fury
-4 Omnath, Locus of Creation
-1 Castle Vantress
+3 Scalding Tarn
+4 Fable of the Mirror-Breaker
 2 Plains
 2 Chalice of the Void
 3 Chalice of the Void
-3 Leyline Binding
-4 Fable of the Mirror-Breaker
-4 Leyline Binding
-1 Wooded Foothills
-1 Ketria Triome
-1 Indatha Triome
 1 Fire/Ice
-1 Prismatic Vista
+1 Castle Vantress
+1 Wooded Foothills
+1 Indatha Triome
+2 Fire/Ice
 1 Oath of Nissa
-1 Blood Moon
-2 Blood Moon
-4 Scalding Tarn
-1 Spreading Seas
-2 Spreading Seas
-1 Counterspell
-2 Counterspell
 1 Jetmir's Garden
 1 Portal to Phyrexia
 1 Shape Anew
 1 Gingerbread Cabin
 2 Wooded Foothills
+2 Gingerbread Cabin
 2 Portal to Phyrexia
 2 Shape Anew
-2 Gingerbread Cabin
 3 Shape Anew
 4 Shape Anew
 1 Snow-Covered Plains
 1 Snow-Covered Forest
 1 Snow-Covered Island
-3 Ephemerate
-2 Fire/Ice
 2 Oath of Nissa
-2 Prismatic Vista
-3 Blood Moon
+1 Zagoth Triome
+4 Scalding Tarn
+1 Prismatic Vista
+1 Counterspell
+2 Counterspell
+1 Spreading Seas
+2 Spreading Seas
 3 Wooded Foothills
-1 Lightning Bolt
-2 Lightning Bolt
+1 Blood Moon
+2 Blood Moon
+3 Ephemerate
 1 Eladamri's Call
-3 Counterspell
-1 Celestial Colonnade
 1 Magus of the Moon
 1 Batterskull
 1 Kaldra Compleat
@@ -65,19 +60,17 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+3 Counterspell
 1 Supreme Verdict
 3 Island
 1 Yavimaya, Cradle of Growth
-1 Sulfur Falls
-1 Snapcaster Mage
-1 Serum Visions
-2 Snapcaster Mage
-2 Serum Visions
-3 Lightning Bolt
-3 Serum Visions
-4 Serum Visions
+3 Fire/Ice
+2 Prismatic Vista
+3 Blood Moon
 1 March of Otherworldly Light
 2 March of Otherworldly Light
+1 Lightning Bolt
+2 Lightning Bolt
 2 Eladamri's Call
 1 Spara's Headquarters
 1 Archmage's Charm
@@ -85,6 +78,7 @@
 3 Archmage's Charm
 4 Counterspell
 4 Archmage's Charm
+1 Celestial Colonnade
 2 Supreme Verdict
 2 Castle Vantress
 3 Spreading Seas
@@ -100,8 +94,8 @@
 2 Stomping Ground
 3 Utopia Sprawl
 1 Arid Mesa
-1 Endurance
 1 Arlinn, the Pack's Hope
+1 Endurance
 1 Polluted Delta
 1 Teferi, Hero of Dominaria
 1 Mystic Gate
@@ -109,17 +103,23 @@
 2 Mystic Gate
 3 Mystic Gate
 3 Supreme Verdict
+1 Dead/Gone
+2 Dead/Gone
+4 Fire/Ice
 1 Risen Reef
 2 Risen Reef
 3 Risen Reef
 4 Risen Reef
-1 Zagoth Triome
-1 Remand
-2 Remand
+1 Sulfur Falls
+1 Snapcaster Mage
+1 Serum Visions
+2 Snapcaster Mage
+2 Serum Visions
+3 Lightning Bolt
+3 Serum Visions
+4 Serum Visions
 1 Verdant Catacombs
 2 Verdant Catacombs
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
 3 Unholy Heat
 4 Unholy Heat
 1 Wall of Omens
@@ -129,16 +129,18 @@
 1 The Wandering Emperor
 1 Faithful Mending
 1 Field of Ruin
+1 Narset, Parter of Veils
 1 Force of Negation
 1 Memory Deluge
 2 Faithful Mending
+2 Narset, Parter of Veils
 2 Force of Negation
 2 Field of Ruin
 3 Narset, Parter of Veils
 4 Chalice of the Void
 1 Savai Triome
-1 Subtlety
 1 Nahiri, the Harbinger
+1 Subtlety
 2 Sacred Foundry
 2 Otawara, Soaring City
 1 Qasali Ambusher
@@ -147,9 +149,9 @@
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
 3 Prismatic Vista
-3 Fire/Ice
+1 Remand
+2 Remand
 3 Remand
-4 Blood Moon
 1 Abundant Growth
 1 Mulldrifter
 2 Abundant Growth
@@ -192,8 +194,8 @@
 1 Ledger Shredder
 1 Mishra's Bauble
 2 Ragavan, Nimble Pilferer
-2 Dragon's Rage Channeler
 2 Ledger Shredder
+2 Dragon's Rage Channeler
 2 Mishra's Bauble
 3 Spirebluff Canal
 3 Ragavan, Nimble Pilferer
@@ -232,6 +234,6 @@
 3 Aether Vial
 4 Arid Mesa
 4 Wall of Omens
-4 Charming Prince
 4 Aether Vial
+4 Charming Prince
 4 Ephemerate

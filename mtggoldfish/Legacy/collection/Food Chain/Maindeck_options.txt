@@ -29,22 +29,22 @@
 3 Expressive Iteration
 1 Wooded Foothills
 2 Wooded Foothills
-1 Bloodstained Mire
-1 Ancient Tomb
+1 Cavern of Souls
 1 Goblin Cratermaker
 1 Goblin Matron
 1 Goblin Ringleader
 1 Goblin Lackey
+1 Bloodstained Mire
 1 Ignoble Hierarch
-1 Cavern of Souls
+1 Ancient Tomb
 1 Muxus, Goblin Grandee
+2 Goblin Matron
 2 Bloodstained Mire
 2 Ignoble Hierarch
-2 Ancient Tomb
-2 Goblin Matron
 2 Muxus, Goblin Grandee
 2 Goblin Lackey
 2 Taiga
+2 Ancient Tomb
 2 Goblin Ringleader
 2 Cavern of Souls
 3 Cavern of Souls
@@ -61,8 +61,8 @@
 1 Forest
 1 Sling-Gang Lieutenant
 2 Sling-Gang Lieutenant
-3 Wooded Foothills
 3 Ancient Tomb
+3 Wooded Foothills
 4 Muxus, Goblin Grandee
 4 Wooded Foothills
 4 Goblin Ringleader
@@ -108,10 +108,10 @@
 1 Mogg Fanatic
 3 Goblin Anarchomancer
 1 Mogg War Marshal
-3 Bloodstained Mire
 1 Conspicuous Snoop
 2 Conspicuous Snoop
 3 Conspicuous Snoop
+3 Bloodstained Mire
 1 Goblin Chieftain
 1 Brazen Borrower
 1 Punishing Fire
@@ -122,22 +122,22 @@
 2 Grove of the Burnwillows
 3 Punishing Fire
 3 Grove of the Burnwillows
+4 Snow-Covered Island
 4 Grove of the Burnwillows
 4 Prismatic Vista
-4 Snow-Covered Island
-1 Recruiter of the Guard
 1 Solitude
 1 Eladamri's Call
-2 Minsc & Boo, Timeless Heroes
+1 Recruiter of the Guard
 2 Tundra
+2 Minsc & Boo, Timeless Heroes
 4 Uro, Titan of Nature's Wrath
 1 Munitions Expert
 1 Verdant Catacombs
 2 Mogg War Marshal
 2 Munitions Expert
-2 Badlands
 2 Pashalik Mons
 2 Skirk Prospector
+2 Badlands
 3 Mogg War Marshal
 1 Waterlogged Grove
 1 Subtlety
@@ -149,16 +149,16 @@
 2 Windswept Heath
 2 White Plume Adventurer
 3 White Plume Adventurer
-4 Birds of Paradise
-2 Snow-Covered Mountain
-4 Goblin Anarchomancer
-4 Bloodstained Mire
-1 Goblin Sharpshooter
-2 Goblin Chieftain
-4 Ancient Tomb
 1 Goblin Piledriver
 1 Stingscourger
 2 Arid Mesa
+3 Mountain
 4 Conspicuous Snoop
 4 Taiga
-3 Mountain
+2 Snow-Covered Mountain
+4 Bloodstained Mire
+4 Goblin Anarchomancer
+1 Goblin Sharpshooter
+2 Goblin Chieftain
+4 Ancient Tomb
+4 Birds of Paradise

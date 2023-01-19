@@ -1,14 +1,15 @@
 1 Patchwork Automaton
 2 Patchwork Automaton
-3 Patchwork Automaton
-4 Patchwork Automaton
 2 Island
+3 Patchwork Automaton
 2 Nettlecyst
+4 Patchwork Automaton
+1 Tanglepool Bridge
 3 Razortide Bridge
 3 Treasure Vault
-1 Tanglepool Bridge
-1 Hallowed Fountain
 1 Spire of Industry
+3 Forging the Anchor
+1 Hallowed Fountain
 1 Metallic Rebuke
 2 Metallic Rebuke
 4 Razortide Bridge
@@ -17,74 +18,75 @@
 2 Esper Sentinel
 3 Esper Sentinel
 2 Hallowed Fountain
+2 Spire of Industry
+1 Seachrome Coast
+1 Haywire Mite
+2 Seachrome Coast
+2 Tanglepool Bridge
 4 Esper Sentinel
 2 Flooded Strand
 1 Portable Hole
 1 Plains
 2 Portable Hole
 3 Portable Hole
-1 Seachrome Coast
-2 Seachrome Coast
+1 Expedition Map
 1 Ingenious Smith
 2 Ingenious Smith
 3 Metallic Rebuke
 3 Ingenious Smith
-2 Spire of Industry
-1 Haywire Mite
-2 Tanglepool Bridge
-1 Expedition Map
-3 Forging the Anchor
+1 Urza, Lord High Artificer
+2 Urza, Lord High Artificer
+3 Urza, Lord High Artificer
+1 Ethersworn Sphinx
+1 Glimmervoid
 4 Portable Hole
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 4 Ingenious Smith
+3 Seachrome Coast
+3 Nettlecyst
 3 Flooded Strand
+3 Spire of Industry
+1 Moonsnare Prototype
+2 Moonsnare Prototype
+3 Moonsnare Prototype
+1 The Reality Chip
+2 Otawara, Soaring City
 1 Temple Garden
 1 Dispatch
 2 Dispatch
 3 Dispatch
-1 Ethersworn Sphinx
-1 Glimmervoid
-3 Seachrome Coast
-3 Nettlecyst
-1 Urza, Lord High Artificer
-2 Urza, Lord High Artificer
-3 Urza, Lord High Artificer
+1 Inkmoth Nexus
+2 Ethersworn Sphinx
+4 Forging the Anchor
+2 Glimmervoid
+1 Emry, Lurker of the Loch
+2 Emry, Lurker of the Loch
+3 Hallowed Fountain
+4 Seachrome Coast
+4 Nettlecyst
+4 Urza, Lord High Artificer
+1 Mishra's Bauble
+1 Paradise Mantle
+1 Snow-Covered Island
 1 Silverbluff Bridge
 2 Silverbluff Bridge
-3 Spire of Industry
+3 Silverbluff Bridge
+4 Spire of Industry
+1 Soul-Guide Lantern
+3 Island
+4 Moonsnare Prototype
+1 Polluted Delta
+2 Mishra's Bauble
+3 Mishra's Bauble
+3 Emry, Lurker of the Loch
+1 Kaldra Compleat
+1 Stoneforge Mystic
+1 Cliffhaven Kitesail
 1 Talisman of Progress
 2 Talisman of Progress
 1 Myr Enforcer
 2 Myr Enforcer
-2 Ethersworn Sphinx
-4 Forging the Anchor
-1 Inkmoth Nexus
-2 Glimmervoid
-1 Moonsnare Prototype
-2 Moonsnare Prototype
-3 Moonsnare Prototype
-4 Nettlecyst
-4 Urza, Lord High Artificer
-3 Hallowed Fountain
-4 Seachrome Coast
-1 Paradise Mantle
-1 The Reality Chip
-3 Silverbluff Bridge
-1 Snow-Covered Island
-4 Spire of Industry
-1 Polluted Delta
-1 Mishra's Bauble
-2 Mishra's Bauble
-3 Mishra's Bauble
-1 Emry, Lurker of the Loch
-2 Emry, Lurker of the Loch
-1 Kaldra Compleat
-1 Stoneforge Mystic
-1 Soul-Guide Lantern
-1 Cliffhaven Kitesail
-2 Otawara, Soaring City
-2 Relic of Progenitus
 2 Snow-Covered Island
 3 Snow-Covered Island
 1 Mishra's Research Desk
@@ -92,13 +94,11 @@
 1 Reality Heist
 2 Reality Heist
 3 Reality Heist
-3 Island
 3 Welding Jar
 4 Treasure Vault
 2 Stoneforge Mystic
 4 Flooded Strand
 4 Hallowed Fountain
-4 Moonsnare Prototype
 1 Galvanic Blast
 1 Boom/Bust
 2 Galvanic Blast
@@ -117,8 +117,8 @@
 1 Arcbound Ravager
 2 Chalice of the Void
 2 Inkmoth Nexus
-2 Paradise Mantle
 2 Arcbound Ravager
+2 Paradise Mantle
 3 Paradise Mantle
 3 Inkmoth Nexus
 4 Inkmoth Nexus
@@ -135,22 +135,38 @@
 2 Haywire Mite
 2 Watery Grave
 2 The Underworld Cookbook
-2 Academy Manufactor
 2 Asmoranomardicadaistinaculdacar
 2 Ovalchase Daredevil
 2 Polluted Delta
+2 Academy Manufactor
 3 Ledger Shredder
 3 Watery Grave
 3 Polluted Delta
 3 Ovalchase Daredevil
 3 Asmoranomardicadaistinaculdacar
-3 Emry, Lurker of the Loch
 3 The Underworld Cookbook
 4 Ledger Shredder
 4 The Underworld Cookbook
 4 Polluted Delta
 4 Watery Grave
 4 Asmoranomardicadaistinaculdacar
+1 Sai, Master Thopterist
+1 Upheaval
+1 Mox Amber
+2 Sai, Master Thopterist
+2 Mox Amber
+2 Upheaval
+3 Mox Amber
+3 Sai, Master Thopterist
+3 Upheaval
+4 Island
+4 Sai, Master Thopterist
+5 Island
+6 Island
+7 Island
+8 Island
+9 Island
+10 Island
 1 Silent Clearing
 1 Marsh Flats
 1 Arid Mesa

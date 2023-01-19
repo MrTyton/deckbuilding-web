@@ -1,11 +1,11 @@
 1 Force of Negation
 1 Wear/Tear
 1 Ashiok, Dream Render
-2 March of Otherworldly Light
 1 Summary Dismissal
 1 Rest in Peace
 2 Rest in Peace
 1 Temporary Lockdown
+2 March of Otherworldly Light
 2 Ashiok, Dream Render
 1 Relic of Progenitus
 2 Summary Dismissal
@@ -13,14 +13,17 @@
 1 Emrakul, the Promised End
 1 Blossoming Calm
 1 Spreading Seas
-1 Engineered Explosives
 1 Pithing Needle
+1 Celestial Purge
+1 Engineered Explosives
 2 Wear/Tear
 2 Temporary Lockdown
 2 Spreading Seas
-1 Celestial Purge
 1 Flusterstorm
+1 Mystical Dispute
 1 Endurance
+1 Leyline of Sanctity
+2 Leyline of Sanctity
 1 Knight of Autumn
 1 Burrenton Forge-Tender
 1 Orvar, the All-Form
@@ -33,15 +36,10 @@
 2 Venser, Shaper Savant
 2 Prismatic Ending
 3 Prismatic Ending
-1 Leyline of Sanctity
-2 Leyline of Sanctity
-2 Celestial Purge
 1 Shark Typhoon
-3 Dovin's Veto
-3 Aether Gust
+2 Celestial Purge
 1 Stony Silence
 2 Endurance
-1 Mystical Dispute
 2 Mystical Dispute
 1 Sanctifier en-Vec
 2 Engineered Explosives
@@ -55,19 +53,18 @@
 1 Counterspell
 1 Lion Sash
 1 Ray of Revelation
+1 Sunset Revelry
 1 Kataki, War's Wage
 1 Yorion, Sky Nomad
 1 Collector Ouphe
 1 Realm-Cloaked Giant
 2 Kataki, War's Wage
-2 Subtlety
 1 Jace, the Mind Sculptor
 1 Spell Queller
 1 Kor Firewalker
 2 Force of Negation
 2 Kor Firewalker
-2 Relic of Progenitus
-2 Shark Typhoon
+2 Subtlety
 1 Winds of Abandon
 1 On Thin Ice
 1 Toski, Bearer of Secrets
@@ -90,7 +87,10 @@
 3 Counterspell
 3 Spreading Seas
 3 Hallowed Moonlight
+3 Dovin's Veto
 3 March of Otherworldly Light
+2 Relic of Progenitus
+3 Aether Gust
 4 Endurance
 1 Geist of Saint Traft
 1 Suppression Field
@@ -98,6 +98,6 @@
 2 Suppression Field
 3 Geist of Saint Traft
 3 Suppression Field
-4 Veil of Summer
 4 Leyline of Sanctity
+4 Veil of Summer
 4 Suppression Field

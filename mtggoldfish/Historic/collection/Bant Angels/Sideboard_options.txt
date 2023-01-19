@@ -19,15 +19,15 @@
 2 Fateful Absence
 1 Settle the Wreckage
 1 Leyline of Sanctity
-1 Gaea's Blessing
-1 Disenchant
 1 Soul-Guide Lantern
-1 Cleansing Nova
 1 Valorous Stance
+1 Disenchant
+1 Gaea's Blessing
+1 Cleansing Nova
 1 Angel of Destiny
-2 Disenchant
-2 Soul-Guide Lantern
 2 Valorous Stance
+2 Soul-Guide Lantern
+2 Disenchant
 1 Memory Deluge
 1 Shalai, Voice of Plenty
 1 Brutal Cathar
@@ -43,21 +43,14 @@
 2 Guardian of Faith
 2 Devout Decree
 3 Guardian of Faith
-1 Test of Talents
-1 Vanquish the Horde
-1 Disdainful Stroke
-1 Mystical Dispute
-1 Stonecoil Serpent
-2 Mystical Dispute
-3 Mystical Dispute
 1 Shadowspear
 1 Reclamation Sage
 1 Authority of the Consuls
 2 Reclamation Sage
 2 Settle the Wreckage
 2 Yasharn, Implacable Earth
-3 Settle the Wreckage
 3 Yasharn, Implacable Earth
+3 Settle the Wreckage
 1 Brought Back
 1 Hushbringer
 1 Kabira Takedown
@@ -70,6 +63,13 @@
 3 Hushbringer
 3 Kabira Takedown
 3 Linden, the Steadfast Queen
+1 Mystical Dispute
+1 Test of Talents
+1 Vanquish the Horde
+1 Stonecoil Serpent
+1 Disdainful Stroke
+2 Mystical Dispute
+3 Mystical Dispute
 3 Dovin's Veto
 3 Portable Hole
 1 Doomskar
@@ -87,8 +87,8 @@
 3 Commune with Spirits
 3 Kami of Bamboo Groves
 4 Commune with Spirits
-1 Heartless Act
 1 Thoughtseize
+1 Heartless Act
 1 Crested Sunmare
 2 Thoughtseize
 2 Heartless Act
