@@ -47,17 +47,17 @@
 2 Tasigur, the Golden Fang
 2 Bloodchief's Thirst
 1 Mutavault
-2 Skysovereign, Consul Flagship
 2 Mutavault
+2 Skysovereign, Consul Flagship
 3 Mutavault
-4 Esika's Chariot
 4 Mutavault
+4 Esika's Chariot
 1 Tenacious Underdog
 2 Sheoldred, the Apocalypse
 2 Assassin's Trophy
+1 Rhonas the Indomitable
 1 Rotting Regisaur
 1 The Great Henge
-1 Rhonas the Indomitable
 2 Rotting Regisaur
 2 The Great Henge
 3 Rotting Regisaur
@@ -132,16 +132,16 @@
 1 Kraul Harpooner
 2 Questing Beast
 2 Takenuma, Abandoned Mire
-1 Castle Vantress
-2 Castle Vantress
 1 Gurmag Angler
 1 Polukranos, Unchained
 1 Heartless Act
 1 Extinction Event
 2 Heartless Act
 2 Old Rutstein
-1 The Meathook Massacre
+1 Castle Vantress
+2 Castle Vantress
 1 Shigeki, Jukai Visionary
+1 The Meathook Massacre
 1 Soul Transfer
 1 Dig Up
 1 Bala Ged Recovery
@@ -149,14 +149,14 @@
 2 The Meathook Massacre
 2 Shigeki, Jukai Visionary
 2 Hissing Quagmire
+1 Misery's Shadow
+2 Misery's Shadow
+3 Lair of the Hydra
 1 Dread Fugue
 1 Oath of Nissa
 2 Dread Fugue
 2 Oath of Nissa
 3 Oath of Nissa
-1 Misery's Shadow
-2 Misery's Shadow
-3 Lair of the Hydra
 3 Assassin's Trophy
 4 Skysovereign, Consul Flagship
 1 Go for the Throat
@@ -174,9 +174,9 @@
 1 Valki, God of Lies
 1 Cityscape Leveler
 1 Stomping Ground
+2 Stomping Ground
 2 Fight Rigging
 2 Valki, God of Lies
-2 Stomping Ground
 2 Turntimber Symbiosis
 2 Shakedown Heavy
 3 Fight Rigging
@@ -207,10 +207,10 @@
 1 Ghalta, Primal Hunger
 1 Woodland Cemetery
 2 Woodland Cemetery
-2 Boseiju, Who Endures
 2 Ghalta, Primal Hunger
 2 Surrak, the Hunt Caller
 2 Old-Growth Troll
+2 Boseiju, Who Endures
 3 Ghalta, Primal Hunger
 3 Boseiju, Who Endures
 3 Woodland Cemetery

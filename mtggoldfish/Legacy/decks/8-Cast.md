@@ -63,7 +63,7 @@
 |                     |                                                                                                 |                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)     |
 |                     |                                                                                                 |                    2|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)     |
 |                     |                                                                                                 |                    2|[Hullbreacher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=502308)        |
+|                     |                                                                                                 |                    4|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |
 |                     |                                                                                                 |                    1|[Void Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383429)          |
 |                     |                                                                                                 |                    2|[Void Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383429)          |
-|                     |                                                                                                 |                    4|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |
 
