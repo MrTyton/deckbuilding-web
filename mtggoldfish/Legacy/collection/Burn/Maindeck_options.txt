@@ -1,16 +1,17 @@
-18 Mountain
-2 Roiling Vortex
-1 Wooded Foothills
 1 Arid Mesa
 1 Searing Blaze
 2 Searing Blaze
+2 Roiling Vortex
+17 Mountain
+18 Mountain
 2 Wooded Foothills
+2 Arid Mesa
 1 Bloodstained Mire
 2 Bloodstained Mire
-2 Arid Mesa
 1 Fiery Islet
 3 Wooded Foothills
 3 Arid Mesa
+3 Searing Blaze
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -26,7 +27,6 @@
 4 Arid Mesa
 2 Scalding Tarn
 9 Snow-Covered Mountain
-3 Searing Blaze
 1 Barbarian Ring
 3 Bloodstained Mire
 1 Sunbaked Canyon
@@ -43,6 +43,7 @@
 2 Barbarian Ring
 3 Roiling Vortex
 2 Sulfuric Vortex
+1 Grim Lavamancer
 1 Faerie Macabre
 1 Volcanic Fallout
 4 Searing Blaze

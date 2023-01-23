@@ -1,22 +1,22 @@
+2 Karplusan Forest
 2 Olivia, Crimson Bride
-2 Gwenna, Eyes of Gaea
 2 Urborg Lhurgoyf
 2 Old Stickfingers
-3 Karplusan Forest
+3 Gwenna, Eyes of Gaea
 3 Argoth, Sanctum of Nature
-3 Llanowar Wastes
-3 Old Rutstein
+3 Karplusan Forest
 3 Urborg Lhurgoyf
 3 Deathbonnet Sprout
+3 Old Rutstein
+3 Llanowar Wastes
 3 Plaza of Heroes
 3 Reclusive Taxidermist
-3 Gwenna, Eyes of Gaea
-4 Karplusan Forest
-4 Argoth, Sanctum of Nature
 4 Llanowar Wastes
+4 Argoth, Sanctum of Nature
 4 Reclusive Taxidermist
 4 Deathbonnet Sprout
 4 Plaza of Heroes
+4 Karplusan Forest
 4 Urborg Lhurgoyf
 1 Island
 1 Swamp
@@ -24,8 +24,12 @@
 1 Maestros Theater
 1 Plains
 2 Raffine's Tower
+1 Rockfall Vale
+1 Fable of the Mirror-Breaker
 1 Radha's Firebrand
+1 The Cruelty of Gix
 1 Obscura Storefront
+1 Titan of Industry
 1 Borrowed Time
 1 Shadow Prophecy
 1 Unleash the Inferno
@@ -35,60 +39,56 @@
 1 Nishoba Brawler
 1 Deserted Beach
 1 Llanowar Greenwidow
-1 Fable of the Mirror-Breaker
 1 Meria's Outrider
 1 Shattered Sanctum
 1 The Kami War
 1 Drag to the Bottom
 1 Deathcap Glade
-1 Rockfall Vale
-1 Titan of Industry
 1 The Celestus
 1 Overgrown Farmland
 1 Dreamroot Cascade
-1 The Cruelty of Gix
-2 Unleash the Inferno
 2 Xander's Lounge
+2 Fable of the Mirror-Breaker
 2 Spara's Headquarters
+2 The Cruelty of Gix
 2 Borrowed Time
-2 Courier's Briefcase
 2 Titan of Industry
+2 Unleash the Inferno
+2 Courier's Briefcase
 2 The Kami War
 2 Drag to the Bottom
 2 Shadow Prophecy
-2 Fable of the Mirror-Breaker
 2 Deathcap Glade
-2 The Cruelty of Gix
 2 Meria's Outrider
-3 Borrowed Time
 3 Fable of the Mirror-Breaker
-3 Deathcap Glade
 3 Titan of Industry
+3 Borrowed Time
+3 Deathcap Glade
 3 Shadow Prophecy
 3 Courier's Briefcase
 3 Ziatora's Proving Ground
-4 Ziatora's Proving Ground
 4 Fable of the Mirror-Breaker
+4 Ziatora's Proving Ground
 4 Courier's Briefcase
-1 Workshop Warchief
-1 Tear Asunder
 1 Cabaretti Courtyard
+1 Extraction Specialist
 1 Negate
 1 Spectral Adversary
 1 Impulse
 1 Gala Greeters
 1 Body Launderer
-1 Extraction Specialist
+1 Tear Asunder
 1 Rocco, Cabaretti Caterer
+1 Workshop Warchief
 1 Ziatora's Envoy
 1 The Meathook Massacre
 1 Heirloom Mirror
 2 Impulse
 2 Cabaretti Courtyard
-2 Tear Asunder
 2 Negate
 2 Spectral Adversary
 2 Gala Greeters
+2 Tear Asunder
 2 Island
 2 Swamp
 2 Soul of Windgrace
@@ -100,17 +100,17 @@
 3 Negate
 3 Cabaretti Courtyard
 3 Impulse
-3 Forest
 3 Raffine's Tower
-3 Tear Asunder
 3 Rocco, Cabaretti Caterer
+3 Tear Asunder
 3 Heirloom Mirror
+3 Forest
 3 Gala Greeters
 3 Soul of Windgrace
 3 Swamp
-4 Soul of Windgrace
 4 Cabaretti Courtyard
 4 Raffine's Tower
 4 Gala Greeters
+4 Soul of Windgrace
 4 Forest
 5 Forest

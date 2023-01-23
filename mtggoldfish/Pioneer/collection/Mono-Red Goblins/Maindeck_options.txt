@@ -32,8 +32,8 @@
 1 Krenko, Tin Street Kingpin
 1 Legion Warboss
 1 Embercleave
-2 Embercleave
 2 Goblin Rabblemaster
+2 Embercleave
 1 Roast
 2 Roast
 3 Fable of the Mirror-Breaker
@@ -42,11 +42,17 @@
 2 Frenzied Goblin
 3 Frenzied Goblin
 4 Frenzied Goblin
+1 Goblin Trashmaster
+1 Spikefield Hazard
+1 Siege-Gang Commander
+2 Spikefield Hazard
+3 Castle Embereth
+4 Castle Embereth
+20 Mountain
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
-5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
 8 Snow-Covered Mountain
@@ -59,10 +65,4 @@
 15 Snow-Covered Mountain
 16 Snow-Covered Mountain
 17 Snow-Covered Mountain
-20 Mountain
-1 Goblin Trashmaster
-1 Spikefield Hazard
-1 Siege-Gang Commander
-2 Spikefield Hazard
-3 Castle Embereth
-4 Castle Embereth
+5 Snow-Covered Mountain

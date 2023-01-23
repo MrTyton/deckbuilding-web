@@ -29,8 +29,8 @@
 1 Hydroblast
 2 Hydroblast
 1 Malevolent Hermit
-2 Unlicensed Hearse
 2 Malevolent Hermit
+2 Unlicensed Hearse
 1 Hurkyl's Recall
 1 Karakas
 1 Mindbreak Trap
@@ -43,17 +43,17 @@
 1 Chill
 1 Grafdigger's Cage
 1 Helm of Obedience
+1 Wear/Tear
+1 Brain Freeze
 1 Thought Monitor
 1 Kappa Cannoneer
 1 Trinisphere
 1 Key to the City
-1 Brain Freeze
-1 Wear/Tear
 1 Heroic Intervention
 1 Gloom
 1 Ashiok, Dream Render
-1 End the Festivities
 1 Flame Blitz
+1 End the Festivities
 1 Ravenform
 1 Mana Maze
 1 Fumble
@@ -61,10 +61,6 @@
 1 Chalice of the Void
 1 Metallic Rebuke
 2 Metallic Rebuke
-1 No One Left Behind
-1 Boseiju, Who Endures
-2 Opposition Agent
-2 Hullbreacher
 2 Faerie Macabre
 1 Relic of Progenitus
 1 Thopter Foundry
@@ -73,6 +69,10 @@
 1 Paradox Engine
 2 Engineered Explosives
 2 Abrupt Decay
+1 Boseiju, Who Endures
+1 No One Left Behind
+2 Hullbreacher
+2 Opposition Agent
 1 Choke
 1 Tear Asunder
 1 Toxic Deluge
@@ -80,15 +80,15 @@
 2 Chill
 1 Shadowspear
 3 Unlicensed Hearse
-1 Meekstone
-2 Walking Ballista
-3 Tormod's Crypt
 1 Whipflare
 2 Mindbreak Trap
 2 Hurkyl's Recall
-2 Surgical Extraction
 2 Whipflare
+2 Surgical Extraction
 3 Surgical Extraction
+1 Meekstone
+2 Walking Ballista
+3 Tormod's Crypt
 1 Haywire Mite
 1 Swords to Plowshares
 2 Pithing Needle

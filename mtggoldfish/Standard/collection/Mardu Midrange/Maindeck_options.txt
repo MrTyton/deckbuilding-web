@@ -9,10 +9,10 @@
 3 Rite of Oblivion
 1 Giada, Font of Hope
 1 Inspiring Overseer
-2 Inspiring Overseer
 2 Giada, Font of Hope
-3 Giada, Font of Hope
+2 Inspiring Overseer
 3 Inspiring Overseer
+3 Giada, Font of Hope
 3 Reckoner Bankbuster
 1 Infernal Grasp
 2 Phyrexian Missionary
@@ -41,11 +41,11 @@
 1 Bloodthirsty Adversary
 2 Bloodthirsty Adversary
 2 Swamp
-3 Serra Paragon
-3 Soul Transfer
 3 Brotherhood's End
-4 Brotherhood's End
+3 Soul Transfer
+3 Serra Paragon
 4 Soul Transfer
+4 Brotherhood's End
 3 Plains
 2 Steel Seraph
 1 The Restoration of Eiganjo
@@ -62,16 +62,12 @@
 3 Steel Seraph
 4 Go for the Throat
 1 Thran Portal
-1 Scoured Barrens
 1 Elspeth Resplendent
+1 Scoured Barrens
+2 Eiganjo, Seat of the Empire
+2 Xander's Lounge
 1 Edgar, Charmed Groom
 2 Tenacious Underdog
-1 Phyrexian Fleshgorger
-1 Banishing Slash
-1 Touch the Spirit Realm
-2 Phyrexian Fleshgorger
-2 Banishing Slash
-2 Touch the Spirit Realm
 1 Thalia, Guardian of Thraben
 2 Takenuma, Abandoned Mire
 2 Thalia, Guardian of Thraben
@@ -82,5 +78,9 @@
 2 Jetmir's Garden
 3 Graveyard Trespasser
 3 Cut Down
-2 Xander's Lounge
-2 Eiganjo, Seat of the Empire
+1 Touch the Spirit Realm
+1 Banishing Slash
+1 Phyrexian Fleshgorger
+2 Touch the Spirit Realm
+2 Banishing Slash
+2 Phyrexian Fleshgorger
