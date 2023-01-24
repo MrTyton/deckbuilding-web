@@ -31,6 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Mishra's Research Desk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=583747)|                    3|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)|
+|                    1|[Mishra's Research Desk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=583747)|                    2|[Void Mirror](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522318)     |
+|                    1|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)             |                    3|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)|
+|                    2|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)             |                     |                                                                                           |
 |                    4|[Bomat Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772)         |                     |                                                                                           |
 

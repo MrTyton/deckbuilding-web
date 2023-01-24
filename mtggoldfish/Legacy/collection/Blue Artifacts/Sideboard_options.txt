@@ -13,11 +13,11 @@
 3 Defense Grid
 4 Defense Grid
 1 Crucible of Worlds
-1 Leyline of the Void
 1 Warping Wail
+1 Leyline of the Void
 1 Lion's Eye Diamond
-2 Leyline of the Void
 2 Warping Wail
+2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
 1 Force of Will
@@ -31,8 +31,8 @@
 1 Hydroblast
 2 Hydroblast
 1 Malevolent Hermit
-2 Malevolent Hermit
 2 Unlicensed Hearse
+2 Malevolent Hermit
 1 Hurkyl's Recall
 1 Mindbreak Trap
 1 Haywire Mite
@@ -43,25 +43,29 @@
 1 Nimble Obstructionist
 1 Chalice of the Void
 1 Chill
-1 Grafdigger's Cage
 1 Heroic Intervention
 1 Ashiok, Dream Render
-1 Flame Blitz
 1 End the Festivities
+1 Flame Blitz
 1 Gloom
 1 Ravenform
 1 Mana Maze
 1 Fumble
 1 Bribery
 1 Helm of Obedience
-1 Wear/Tear
-1 Brain Freeze
+1 Grafdigger's Cage
 1 Thought Monitor
-1 Kappa Cannoneer
 1 Trinisphere
+1 Kappa Cannoneer
 1 Key to the City
+1 Brain Freeze
+1 Wear/Tear
 1 Metallic Rebuke
 2 Metallic Rebuke
+1 No One Left Behind
+1 Boseiju, Who Endures
+2 Opposition Agent
+2 Hullbreacher
 2 Faerie Macabre
 2 Torpor Orb
 2 Aether Spellbomb
@@ -72,12 +76,8 @@
 1 Paradox Engine
 2 Engineered Explosives
 2 Abrupt Decay
-1 Boseiju, Who Endures
-1 No One Left Behind
-2 Hullbreacher
-2 Opposition Agent
-1 Choke
 1 Tear Asunder
+1 Choke
 1 Toxic Deluge
 2 Tear Asunder
 2 Chill
@@ -85,9 +85,9 @@
 3 Unlicensed Hearse
 1 Whipflare
 2 Mindbreak Trap
+2 Surgical Extraction
 2 Hurkyl's Recall
 2 Whipflare
-2 Surgical Extraction
 3 Surgical Extraction
 1 Meekstone
 2 Walking Ballista

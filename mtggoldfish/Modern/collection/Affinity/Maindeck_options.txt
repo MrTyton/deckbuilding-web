@@ -1,12 +1,11 @@
-1 Pithing Needle
-2 Razortide Bridge
+1 Patchwork Automaton
+2 Patchwork Automaton
 2 Island
+2 Nettlecyst
 3 Patchwork Automaton
 1 Tanglepool Bridge
-2 Nettlecyst
 4 Patchwork Automaton
 3 Razortide Bridge
-3 Treasure Vault
 1 Spire of Industry
 2 Tanglepool Bridge
 1 Hallowed Fountain
@@ -22,23 +21,26 @@
 2 Metallic Rebuke
 4 Razortide Bridge
 1 Haywire Mite
-1 Expedition Map
-3 Forging the Anchor
+1 Urza, Lord High Artificer
+2 Urza, Lord High Artificer
+3 Urza, Lord High Artificer
 4 Esper Sentinel
 2 Flooded Strand
 1 Portable Hole
 1 Plains
 2 Portable Hole
 3 Portable Hole
-1 Urza, Lord High Artificer
-2 Urza, Lord High Artificer
-3 Urza, Lord High Artificer
-3 Nettlecyst
-3 Seachrome Coast
+3 Treasure Vault
+1 Expedition Map
+3 Forging the Anchor
 1 Moonsnare Prototype
 2 Moonsnare Prototype
 3 Moonsnare Prototype
+3 Nettlecyst
+3 Seachrome Coast
 1 Ethersworn Sphinx
+4 Moonsnare Prototype
+1 The Reality Chip
 1 Glimmervoid
 1 Ingenious Smith
 2 Ingenious Smith
@@ -48,26 +50,44 @@
 4 Urza, Lord High Artificer
 3 Hallowed Fountain
 4 Seachrome Coast
-3 Spire of Industry
 3 Flooded Strand
+3 Spire of Industry
 1 Silverbluff Bridge
 2 Silverbluff Bridge
-4 Moonsnare Prototype
-1 The Reality Chip
+1 Mishra's Bauble
+1 Emry, Lurker of the Loch
+2 Emry, Lurker of the Loch
+1 Soul-Guide Lantern
+3 Island
 1 Polluted Delta
 1 Kaldra Compleat
 1 Stoneforge Mystic
+1 Inkmoth Nexus
 2 Stoneforge Mystic
 4 Flooded Strand
 4 Hallowed Fountain
-1 Inkmoth Nexus
+3 Emry, Lurker of the Loch
+1 Sai, Master Thopterist
+1 Upheaval
+1 Mox Amber
+2 Sai, Master Thopterist
+2 Mox Amber
+2 Upheaval
+3 Mox Amber
+3 Sai, Master Thopterist
+3 Upheaval
+4 Island
+4 Sai, Master Thopterist
+5 Island
+6 Island
+7 Island
+8 Island
+9 Island
+10 Island
 1 Myr Enforcer
 2 Myr Enforcer
 2 Ethersworn Sphinx
 4 Forging the Anchor
-1 Emry, Lurker of the Loch
-2 Emry, Lurker of the Loch
-1 Mishra's Bauble
 2 Glimmervoid
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
@@ -77,11 +97,8 @@
 1 Snow-Covered Island
 3 Silverbluff Bridge
 4 Spire of Industry
-1 Soul-Guide Lantern
-3 Island
 2 Mishra's Bauble
 3 Mishra's Bauble
-3 Emry, Lurker of the Loch
 1 Cliffhaven Kitesail
 2 Otawara, Soaring City
 2 Relic of Progenitus
@@ -97,8 +114,6 @@
 1 Reality Heist
 2 Reality Heist
 3 Reality Heist
-3 Welding Jar
-4 Treasure Vault
 1 Galvanic Blast
 1 Boom/Bust
 2 Galvanic Blast
@@ -150,29 +165,12 @@
 4 Polluted Delta
 4 Watery Grave
 4 Asmoranomardicadaistinaculdacar
-1 Sai, Master Thopterist
-1 Upheaval
-1 Mox Amber
-2 Sai, Master Thopterist
-2 Mox Amber
-2 Upheaval
-3 Mox Amber
-3 Sai, Master Thopterist
-3 Upheaval
-4 Island
-4 Sai, Master Thopterist
-5 Island
-6 Island
-7 Island
-8 Island
-9 Island
-10 Island
 1 Silent Clearing
 1 Marsh Flats
 1 Arid Mesa
 1 Spell Pierce
+1 Sigarda's Aid
 1 Windswept Heath
 1 Blacksmith's Skill
 1 Puresteel Paladin
-1 Sigarda's Aid
 1 Giver of Runes

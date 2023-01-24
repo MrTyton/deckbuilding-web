@@ -18,19 +18,19 @@
 3 Academy Manufactor
 2 Overgrown Tomb
 1 Breeding Pool
-1 Polluted Delta
 1 Emry, Lurker of the Loch
+1 Polluted Delta
 1 Watery Grave
 1 Time Sieve
 2 Time Sieve
 4 Academy Manufactor
+1 Mishra's Bauble
 1 Island
 1 Ledger Shredder
-1 Mishra's Bauble
-2 Ledger Shredder
 2 Mishra's Bauble
-3 Ledger Shredder
+2 Ledger Shredder
 3 Mishra's Bauble
+3 Ledger Shredder
 4 Ledger Shredder
 2 Misty Rainforest
 1 Unearth
@@ -48,14 +48,14 @@
 4 Polluted Delta
 1 Yavimaya, Cradle of Growth
 1 Blooming Marsh
-1 Street Wraith
 1 Cauldron Familiar
+1 Street Wraith
 2 Blooming Marsh
-2 Street Wraith
 2 Cauldron Familiar
+2 Street Wraith
 3 Blooming Marsh
-3 Street Wraith
 3 Cauldron Familiar
+3 Street Wraith
 4 Blooming Marsh
 1 Trail of Crumbs
 4 Mishra's Bauble
@@ -108,8 +108,8 @@
 2 Gingerbread Cabin
 1 Fatal Push
 1 Urborg, Tomb of Yawgmoth
-2 Swamp
 2 Fatal Push
+2 Swamp
 3 Fatal Push
 1 Satyr Wayfinder
 1 Terastodon
@@ -134,11 +134,11 @@
 4 Expressive Iteration
 1 Blood Crypt
 1 Portable Hole
-1 Den of the Bugbear
 1 Plains
 1 Parhelion II
 1 Arid Mesa
 1 Concealed Courtyard
+1 Den of the Bugbear
 1 Inspiring Vantage
 1 Greasefang, Okiba Boss
 1 Sacred Foundry
@@ -168,10 +168,10 @@
 1 Cragcrown Pathway
 1 Sundering Titan
 2 Snow-Covered Mountain
-2 Copperline Gorge
 2 Portal to Phyrexia
-2 Mountain
+2 Copperline Gorge
 2 Voldaren Epicure
+2 Mountain
 2 Cragcrown Pathway
 2 Trash for Treasure
 3 Cragcrown Pathway
@@ -180,9 +180,9 @@
 3 Trash for Treasure
 3 Voldaren Epicure
 4 Cragcrown Pathway
-4 Fable of the Mirror-Breaker
 4 Voldaren Epicure
 4 Copperline Gorge
+4 Fable of the Mirror-Breaker
 4 Snow-Covered Mountain
 4 Trash for Treasure
 5 Snow-Covered Mountain

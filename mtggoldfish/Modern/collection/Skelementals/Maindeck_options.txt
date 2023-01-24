@@ -6,11 +6,11 @@
 3 Inquisition of Kozilek
 2 Den of the Bugbear
 2 Sunbaked Canyon
+1 Voldaren Epicure
 1 Sokenzan, Crucible of Defiance
 1 Terminate
-1 Voldaren Epicure
-2 Terminate
 2 Voldaren Epicure
+2 Terminate
 3 Voldaren Epicure
 1 Marsh Flats
 3 Dauthi Voidwalker
@@ -22,8 +22,8 @@
 2 Bloodghast
 3 Bloodghast
 3 Terminate
-4 Terminate
 4 Voldaren Epicure
+4 Terminate
 3 Kroxa, Titan of Death's Hunger
 4 Wooded Foothills
 1 Dragonskull Summit
@@ -39,12 +39,12 @@
 3 Fatal Push
 3 Thoughtseize
 1 Tourach, Dread Cantor
-1 Claim the Firstborn
 1 Burning Inquiry
+1 Claim the Firstborn
 1 Magus of the Moon
 1 Flamekin Harbinger
-2 Claim the Firstborn
 2 Magus of the Moon
+2 Claim the Firstborn
 1 Bone Shards
 1 Egon, God of Death
 2 Egon, God of Death
@@ -62,18 +62,18 @@
 4 Graven Cairns
 4 Fatal Push
 1 Arid Mesa
+1 Lava Spike
 1 Spark Elemental
 1 Bump in the Night
 1 Sin Prodder
-1 Lava Spike
 1 Vexing Devil
+2 Lava Spike
 2 Vexing Devil
 2 Spark Elemental
-2 Lava Spike
 2 Bump in the Night
 2 Sin Prodder
-3 Bump in the Night
 3 Lava Spike
+3 Bump in the Night
 3 Vexing Devil
 3 Spark Elemental
 3 Sin Prodder
@@ -83,25 +83,25 @@
 4 Spark Elemental
 1 Verdant Catacombs
 1 Ignoble Hierarch
-1 Bloodbraid Elf
 1 Ziatora's Proving Ground
 1 Overgrown Tomb
+1 Cavern of Souls
 1 Hell's Thunder
 1 Groundbreaker
-1 Cavern of Souls
+1 Bloodbraid Elf
 1 Hellspark Elemental
 1 Stomping Ground
 1 Grief
-2 Ignoble Hierarch
 2 Bloodbraid Elf
+2 Ignoble Hierarch
 2 Ziatora's Proving Ground
 2 Verdant Catacombs
+2 Cavern of Souls
 2 Hell's Thunder
 2 Groundbreaker
 2 Stomping Ground
 2 Hellspark Elemental
 2 Grief
-2 Cavern of Souls
 3 Ignoble Hierarch
 3 Bloodbraid Elf
 3 Verdant Catacombs
@@ -111,8 +111,8 @@
 3 Hell's Thunder
 3 Stomping Ground
 3 Groundbreaker
-4 Ignoble Hierarch
 4 Verdant Catacombs
+4 Ignoble Hierarch
 4 Groundbreaker
 4 Hellspark Elemental
 1 Fiery Islet

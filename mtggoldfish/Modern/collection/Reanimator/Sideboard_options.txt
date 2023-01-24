@@ -35,11 +35,11 @@
 2 Flusterstorm
 1 Lingering Souls
 2 Hurkyl's Recall
-1 Wheel of Sun and Moon
-3 Spreading Seas
 1 Ragavan, Nimble Pilferer
 2 Ragavan, Nimble Pilferer
 3 Ragavan, Nimble Pilferer
+1 Wheel of Sun and Moon
+3 Spreading Seas
 1 Necromentia
 2 Necromentia
 1 Rite of Oblivion
@@ -53,8 +53,8 @@
 2 Path to Exile
 2 Leyline Binding
 1 Soul-Guide Lantern
-2 Soul-Guide Lantern
 2 Hallowed Moonlight
+2 Soul-Guide Lantern
 3 Hallowed Moonlight
 2 Lingering Souls
 1 Lavinia, Azorius Renegade
@@ -70,26 +70,26 @@
 1 Nihil Spellbomb
 1 Kataki, War's Wage
 1 Ashiok, Nightmare Weaver
-1 Chalice of the Void
-1 Tourach, Dread Cantor
-2 Tourach, Dread Cantor
-2 Lavinia, Azorius Renegade
-1 Unmoored Ego
-1 Burrenton Forge-Tender
-2 Unmoored Ego
-2 Burrenton Forge-Tender
 1 Dovin's Veto
 1 Jace, the Mind Sculptor
 1 Dress Down
 2 Dress Down
+1 Tourach, Dread Cantor
+1 Chalice of the Void
+2 Tourach, Dread Cantor
+2 Lavinia, Azorius Renegade
 1 Tormod's Crypt
 1 Detention Sphere
 2 Fatal Push
+2 Ashiok, Dream Render
 2 Tormod's Crypt
 2 Detention Sphere
-2 Ashiok, Dream Render
-1 Pithing Needle
+1 Unmoored Ego
+1 Burrenton Forge-Tender
+2 Unmoored Ego
+2 Burrenton Forge-Tender
 1 Elspeth, Sun's Champion
+1 Pithing Needle
 1 Liliana, the Last Hope
 1 Damnation
 1 The Meathook Massacre
@@ -97,8 +97,8 @@
 1 Supreme Verdict
 2 Liliana, the Last Hope
 1 Bone Shards
-1 Emrakul, the Aeons Torn
 1 Through the Breach
+1 Emrakul, the Aeons Torn
 2 Bone Shards
 2 Through the Breach
 3 Path to Exile
@@ -107,21 +107,23 @@
 1 Divest
 1 Flaying Tendrils
 1 Assassin's Trophy
-2 Assassin's Trophy
 2 Abrupt Decay
-2 Endurance
 2 Force of Negation
+2 Endurance
 2 Flaying Tendrils
 2 Divest
+2 Assassin's Trophy
 3 Endurance
 3 Flusterstorm
-1 Collective Brutality
 1 Tale's End
+1 Collective Brutality
 2 Collective Brutality
 2 Tale's End
 3 Tale's End
 3 Leyline Binding
 4 Leyline Binding
+3 Soul-Guide Lantern
+4 Soul-Guide Lantern
 1 Void Rend
 1 Kaya, Orzhov Usurper
 1 Leyline of Sanctity
@@ -130,5 +132,3 @@
 4 Leyline of Sanctity
 3 Lingering Souls
 4 Lingering Souls
-3 Soul-Guide Lantern
-4 Soul-Guide Lantern
