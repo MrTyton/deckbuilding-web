@@ -1,39 +1,39 @@
-2 The Mightstone and Weakstone
-4 Reckoner Bankbuster
-1 Disdainful Stroke
-1 The Restoration of Eiganjo
-2 The Restoration of Eiganjo
-3 The Restoration of Eiganjo
-9 Plains
-1 The Celestus
-4 Island
-2 Silver Scrutiny
-2 Memory Deluge
-2 March of Otherworldly Light
-4 The Wandering Emperor
-1 Destroy Evil
-5 Island
 1 Sanctuary Warden
 1 Loran of the Third Path
 2 Sanctuary Warden
 2 Loran of the Third Path
 1 Ambitious Farmhand
 2 Ambitious Farmhand
+1 Disdainful Stroke
 10 Plains
 1 Urza's Sylex
 2 Urza's Sylex
 3 Ambitious Farmhand
 3 Loran of the Third Path
+2 Destroy Evil
+1 Dissipate
+2 Dissipate
+3 Island
+1 The Mightstone and Weakstone
+1 Urza, Lord Protector
+2 Fateful Absence
+2 Silver Scrutiny
+2 Memory Deluge
+1 Touch the Spirit Realm
+2 The Mightstone and Weakstone
+2 Urza, Lord Protector
+1 The Celestus
+4 Island
+2 March of Otherworldly Light
+1 Idyllic Beachfront
+2 Negate
+5 Island
+1 Syncopate
+3 Teferi, Temporal Pilgrim
 6 Island
 7 Island
 1 Impulse
 2 Impulse
-2 Destroy Evil
-2 Negate
-1 Syncopate
-1 Touch the Spirit Realm
-3 Teferi, Temporal Pilgrim
-1 Idyllic Beachfront
 2 Idyllic Beachfront
 3 Idyllic Beachfront
 1 Leyline Binding
@@ -43,30 +43,30 @@
 3 Dissipate
 4 Idyllic Beachfront
 1 Tocasia's Dig Site
-4 Wedding Announcement
 3 Syncopate
-2 Teferi, Who Slows the Sunset
 1 Blast Zone
 1 Soul Partition
 2 Soul Partition
+4 Wedding Announcement
 1 Essence Scatter
 2 Essence Scatter
 3 Farewell
 1 Dennick, Pious Apprentice
 2 Dennick, Pious Apprentice
-3 March of Otherworldly Light
-3 The Mightstone and Weakstone
 3 Urza, Lord Protector
+3 The Mightstone and Weakstone
+3 March of Otherworldly Light
+2 Teferi, Who Slows the Sunset
 3 Depopulate
 3 Sanctuary Warden
 1 Devious Cover-Up
 1 Consider
 2 Consider
 3 Consider
-1 Ertai's Scorn
-2 Ertai's Scorn
-3 Impulse
-1 Spell Pierce
+1 Skybridge Towers
+2 Skybridge Towers
+1 Tranquil Cove
+2 Tranquil Cove
 3 Memory Deluge
 3 Silver Scrutiny
 1 Thirst for Discovery
@@ -79,23 +79,22 @@
 2 Cityscape Leveler
 2 Tezzeret, Betrayer of Flesh
 3 Cityscape Leveler
+4 Syncopate
 2 Devious Cover-Up
 3 Fateful Absence
-4 Syncopate
 4 Sanctuary Warden
 4 The Restoration of Eiganjo
-1 The Temporal Anchor
+1 Ertai's Scorn
+2 Ertai's Scorn
+3 Impulse
 1 Make Disappear
 2 Make Disappear
-1 Skybridge Towers
-2 Skybridge Towers
+1 Spell Pierce
 2 Thirst for Discovery
 3 Thirst for Discovery
 2 Hullbreaker Horror
 3 Essence Scatter
-2 Eiganjo, Seat of the Empire
-1 Tranquil Cove
-2 Tranquil Cove
+1 Runic Shot
 4 Memory Deluge
 1 Union of the Third Path
 2 Union of the Third Path
@@ -109,9 +108,9 @@
 4 March of Otherworldly Light
 4 Depopulate
 4 Plaza of Heroes
+1 Banishing Slash
 1 Spirited Companion
 2 Spirited Companion
-1 Banishing Slash
 9 Island
 1 Surge Engine
 2 Surge Engine
@@ -124,14 +123,15 @@
 4 Silver Scrutiny
 4 Destroy Evil
 1 Witness the Future
-1 Runic Shot
-1 Anointed Peacekeeper
 1 Unlicensed Hearse
+1 Anointed Peacekeeper
 2 Otawara, Soaring City
 11 Plains
 12 Plains
 13 Plains
 1 Vanquish the Horde
+1 Jetmir's Garden
+1 Archangel of Wrath
 1 Hurkyl's Final Meditation
 1 Dorothea, Vengeful Victim
 2 The Celestus
@@ -143,7 +143,7 @@
 2 Pithing Needle
 1 Elspeth Resplendent
 2 Disdainful Stroke
-3 Dennick, Pious Apprentice
+1 The Temporal Anchor
 3 Make Disappear
 1 Spectrum Sentinel
 1 Urza, Prince of Kroog
@@ -151,9 +151,11 @@
 2 Urza, Prince of Kroog
 3 Spectrum Sentinel
 3 Skybridge Towers
+3 Tranquil Cove
 1 Urza's Rebuff
 2 Urza's Rebuff
 2 Leyline Binding
+2 Eiganjo, Seat of the Empire
 3 Leyline Binding
 4 Leyline Binding
 1 Sunset Revelry

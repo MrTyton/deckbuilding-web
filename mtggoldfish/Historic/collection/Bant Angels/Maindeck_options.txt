@@ -50,8 +50,8 @@
 2 Authority of the Consuls
 2 Ajani's Welcome
 2 Ajani's Pridemate
-3 Ajani's Pridemate
 3 Heliod, Sun-Crowned
+3 Ajani's Pridemate
 3 Ajani's Welcome
 1 Giada, Font of Hope
 2 Giada, Font of Hope
@@ -94,8 +94,8 @@
 1 Spirited Companion
 1 Lunarch Veteran
 1 Light of Hope
-1 Doomskar
 1 Farewell
+1 Doomskar
 2 Lunarch Veteran
 2 Spirited Companion
 2 Light of Hope
@@ -149,6 +149,21 @@
 1 Declaration in Stone
 2 Declaration in Stone
 3 Declaration in Stone
+1 Godless Shrine
+1 Brightclimb Pathway
+1 Fateful Absence
+1 Vito, Thorn of the Dusk Rose
+1 Concealed Courtyard
+2 Godless Shrine
+2 Brightclimb Pathway
+2 Fateful Absence
+2 Vito, Thorn of the Dusk Rose
+3 Brightclimb Pathway
+3 Godless Shrine
+3 Fateful Absence
+3 Vito, Thorn of the Dusk Rose
+4 Godless Shrine
+4 Brightclimb Pathway
 1 Field of Ruin
 1 Lyra Dawnbringer
 1 Baneslayer Angel
@@ -157,21 +172,6 @@
 2 Starnheim Aspirant
 3 Starnheim Aspirant
 4 Starnheim Aspirant
-1 Brightclimb Pathway
-1 Fateful Absence
-1 Godless Shrine
-1 Vito, Thorn of the Dusk Rose
-1 Concealed Courtyard
-2 Brightclimb Pathway
-2 Fateful Absence
-2 Vito, Thorn of the Dusk Rose
-2 Godless Shrine
-3 Brightclimb Pathway
-3 Fateful Absence
-3 Godless Shrine
-3 Vito, Thorn of the Dusk Rose
-4 Brightclimb Pathway
-4 Godless Shrine
 1 Scattered Groves
 1 Settle the Wreckage
 2 Cave of the Frost Dragon
@@ -180,11 +180,11 @@
 4 Overgrown Farmland
 1 Serra Paragon
 1 Adarkar Wastes
-1 Eiganjo, Seat of the Empire
 1 Spara's Headquarters
+1 Eiganjo, Seat of the Empire
 1 Boseiju, Who Endures
 2 Serra Paragon
-2 Adarkar Wastes
 2 Spara's Headquarters
+2 Adarkar Wastes
 3 Spara's Headquarters
 4 Giada, Font of Hope

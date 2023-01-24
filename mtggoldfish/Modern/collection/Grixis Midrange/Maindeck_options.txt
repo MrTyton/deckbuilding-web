@@ -48,8 +48,8 @@
 2 Snapcaster Mage
 3 Snapcaster Mage
 3 Unholy Heat
-1 Snow-Covered Swamp
 1 Snow-Covered Mountain
+1 Snow-Covered Swamp
 3 Drown in the Loch
 2 Spirebluff Canal
 2 Scalding Tarn
@@ -123,29 +123,13 @@
 3 Ob Nixilis, the Adversary
 3 Spirebluff Canal
 4 Blood Crypt
-1 Darkslick Shores
-1 Counterspell
-1 Sprite Dragon
-2 Darkslick Shores
-2 Counterspell
-2 Sprite Dragon
-2 Island
-3 Sprite Dragon
-4 Sprite Dragon
-4 Snapcaster Mage
-1 Aether Spellbomb
-1 Urza's Saga
-1 Tarfire
-1 Nihil Spellbomb
-1 Pyrite Spellbomb
-1 Rise/Fall
-2 Fiery Islet
-2 Urza's Saga
-2 Rise/Fall
-3 Urza's Saga
-4 Urza's Saga
-1 Strike It Rich
+1 Dreadhorde Arcanist
+2 Dreadhorde Arcanist
+3 Dreadhorde Arcanist
+4 Dreadhorde Arcanist
+4 Ledger Shredder
 1 Surgical Extraction
+1 Strike It Rich
 1 Overgrown Tomb
 1 Hidetsugu Consumes All
 2 Verdant Catacombs
@@ -166,8 +150,24 @@
 3 Graven Cairns
 4 Waste Not
 4 Burning Inquiry
-1 Dreadhorde Arcanist
-2 Dreadhorde Arcanist
-3 Dreadhorde Arcanist
-4 Ledger Shredder
-4 Dreadhorde Arcanist
+1 Aether Spellbomb
+1 Nihil Spellbomb
+1 Tarfire
+1 Pyrite Spellbomb
+1 Rise/Fall
+1 Urza's Saga
+2 Fiery Islet
+2 Rise/Fall
+2 Urza's Saga
+3 Urza's Saga
+4 Urza's Saga
+1 Darkslick Shores
+1 Counterspell
+1 Sprite Dragon
+2 Darkslick Shores
+2 Counterspell
+2 Sprite Dragon
+2 Island
+3 Sprite Dragon
+4 Sprite Dragon
+4 Snapcaster Mage

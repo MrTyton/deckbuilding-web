@@ -30,15 +30,15 @@
 1 Portal to Phyrexia
 1 Shape Anew
 1 Gingerbread Cabin
-2 Wooded Foothills
 2 Gingerbread Cabin
 2 Portal to Phyrexia
+2 Wooded Foothills
 2 Shape Anew
 3 Shape Anew
 4 Shape Anew
 1 Snow-Covered Plains
-1 Snow-Covered Forest
 1 Snow-Covered Island
+1 Snow-Covered Forest
 2 Oath of Nissa
 1 Zagoth Triome
 4 Scalding Tarn
@@ -88,21 +88,21 @@
 2 Unholy Heat
 2 Spirebluff Canal
 1 Utopia Sprawl
-2 Stomping Ground
 2 Forest
-2 Breeding Pool
 2 Utopia Sprawl
+2 Breeding Pool
+2 Stomping Ground
 3 Utopia Sprawl
 1 Arid Mesa
 1 Arlinn, the Pack's Hope
 1 Endurance
-1 Polluted Delta
 1 Teferi, Hero of Dominaria
 1 Mystic Gate
 1 Hall of Storm Giants
+1 Polluted Delta
 2 Mystic Gate
-3 Mystic Gate
 3 Supreme Verdict
+3 Mystic Gate
 1 Dead/Gone
 2 Dead/Gone
 4 Fire/Ice
@@ -111,8 +111,8 @@
 3 Risen Reef
 4 Risen Reef
 1 Sulfur Falls
-1 Snapcaster Mage
 1 Serum Visions
+1 Snapcaster Mage
 2 Snapcaster Mage
 2 Serum Visions
 3 Lightning Bolt
@@ -126,11 +126,11 @@
 2 Wall of Omens
 2 Arid Mesa
 2 Raugrin Triome
-1 The Wandering Emperor
 1 Faithful Mending
 1 Field of Ruin
 1 Narset, Parter of Veils
 1 Force of Negation
+1 The Wandering Emperor
 1 Memory Deluge
 2 Faithful Mending
 2 Narset, Parter of Veils
@@ -152,11 +152,17 @@
 1 Remand
 2 Remand
 3 Remand
-1 Abundant Growth
-1 Mulldrifter
-2 Abundant Growth
-2 Mulldrifter
-4 Wooded Foothills
+2 Temple Garden
+3 Verdant Catacombs
+3 Gingerbread Cabin
+4 Verdant Catacombs
+4 Utopia Sprawl
+1 Omen of the Sea
+1 Seachrome Coast
+2 Omen of the Sea
+2 Seachrome Coast
+3 Omen of the Sea
+4 Omen of the Sea
 1 Karmic Guide
 1 Ashiok, Dream Render
 1 Silence
@@ -177,37 +183,30 @@
 3 Oath of Nissa
 3 Vivien on the Hunt
 4 Vivien on the Hunt
-1 Seachrome Coast
-1 Omen of the Sea
-2 Seachrome Coast
-2 Omen of the Sea
-3 Omen of the Sea
-4 Omen of the Sea
-2 Temple Garden
-3 Verdant Catacombs
-3 Gingerbread Cabin
-4 Verdant Catacombs
-4 Utopia Sprawl
-1 Spell Pierce
-1 Ragavan, Nimble Pilferer
 1 Dragon's Rage Channeler
-1 Ledger Shredder
+1 Spell Pierce
 1 Mishra's Bauble
-2 Ragavan, Nimble Pilferer
-2 Ledger Shredder
+1 Ragavan, Nimble Pilferer
+1 Ledger Shredder
 2 Dragon's Rage Channeler
 2 Mishra's Bauble
+2 Ragavan, Nimble Pilferer
+2 Ledger Shredder
+3 Dragon's Rage Channeler
 3 Spirebluff Canal
+3 Mishra's Bauble
 3 Ragavan, Nimble Pilferer
 3 Ledger Shredder
-3 Mishra's Bauble
-3 Dragon's Rage Channeler
-4 Spirebluff Canal
 4 Ledger Shredder
-4 Ragavan, Nimble Pilferer
 4 Dragon's Rage Channeler
+4 Ragavan, Nimble Pilferer
 4 Mishra's Bauble
-1 Eiganjo, Seat of the Empire
+4 Spirebluff Canal
+1 Abundant Growth
+1 Mulldrifter
+2 Abundant Growth
+2 Mulldrifter
+4 Wooded Foothills
 1 Charming Prince
 1 Soulherder
 1 Imperial Recruiter
@@ -215,6 +214,7 @@
 1 Skyclave Apparition
 1 Vesperlark
 1 Aether Vial
+1 Eiganjo, Seat of the Empire
 2 Vesperlark
 2 Charming Prince
 2 Imperial Recruiter
@@ -222,15 +222,15 @@
 2 Soulherder
 2 Skyclave Apparition
 2 Auriok Champion
-3 Hallowed Fountain
 3 Arid Mesa
+3 Hallowed Fountain
 3 March of Otherworldly Light
+3 Plains
 3 Soulherder
 3 Skyclave Apparition
 3 Charming Prince
 3 Wall of Omens
 3 Imperial Recruiter
-3 Plains
 3 Aether Vial
 4 Arid Mesa
 4 Wall of Omens

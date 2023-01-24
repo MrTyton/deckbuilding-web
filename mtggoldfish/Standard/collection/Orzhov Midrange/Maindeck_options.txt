@@ -170,10 +170,10 @@
 1 Shadow-Rite Priest
 2 Elas il-Kor, Sadistic Pilgrim
 1 Junji, the Midnight Sky
-1 Invoke Justice
 1 Luxior, Giada's Gift
 1 Rabble Rousing
 1 Sanctify
+1 Invoke Justice
 1 Traveling Minister
 1 Markov Purifier
 1 Serra Redeemer
@@ -197,19 +197,14 @@
 2 Mishra's Research Desk
 2 Obscura Storefront
 2 Malicious Malfunction
-1 Dreams of Steel and Oil
-1 Unlicensed Hearse
-2 The Restoration of Eiganjo
-2 Touch the Spirit Realm
-2 Dreams of Steel and Oil
-3 The Restoration of Eiganjo
 1 Banishing Slash
 3 Roadside Reliquary
-1 Legions to Ashes
-2 Legions to Ashes
-2 Battlefield Forge
-3 Battlefield Forge
-4 Battlefield Forge
+1 Dreams of Steel and Oil
+1 Unlicensed Hearse
+2 Touch the Spirit Realm
+2 Dreams of Steel and Oil
+2 The Restoration of Eiganjo
+3 The Restoration of Eiganjo
 1 Knight of Dusk's Shadow
 1 Ratadrabik of Urborg
 1 Lion Sash
@@ -220,6 +215,11 @@
 2 Knight of Dawn's Light
 3 Knight of Dawn's Light
 4 Sheoldred, the Apocalypse
+1 Legions to Ashes
+2 Battlefield Forge
+2 Legions to Ashes
+3 Battlefield Forge
+4 Battlefield Forge
 2 Jetmir's Garden
 2 Secluded Courtyard
 4 Ambitious Farmhand
@@ -246,9 +246,9 @@
 4 Haunted Ridge
 1 Crystal Grotto
 1 Dreadfeast Demon
-2 The Celestus
 2 Crystal Grotto
 2 Tainted Adversary
+2 The Celestus
 2 The Cruelty of Gix
 3 Tainted Adversary
 3 Crystal Grotto
@@ -261,8 +261,8 @@
 4 Thalia, Guardian of Thraben
 1 Gix, Yawgmoth Praetor
 1 Misery's Shadow
-2 Phyrexian Fleshgorger
 2 Misery's Shadow
+2 Phyrexian Fleshgorger
 2 Gix, Yawgmoth Praetor
 3 Misery's Shadow
 3 Gix, Yawgmoth Praetor

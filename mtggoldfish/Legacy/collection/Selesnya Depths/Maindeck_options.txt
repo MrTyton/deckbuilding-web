@@ -1,12 +1,9 @@
-4 Mox Diamond
 3 Minsc & Boo, Timeless Heroes
-3 Yavimaya, Cradle of Growth
+4 Mox Diamond
 1 Outland Liberator
+3 Yavimaya, Cradle of Growth
 1 Wooded Foothills
 2 Endurance
-1 Blast Zone
-1 Argoth, Sanctum of Nature
-1 Titania, Voice of Gaea
 1 Horizon Canopy
 1 Snow-Covered Forest
 1 Life from the Loam
@@ -23,9 +20,9 @@
 1 Ghost Quarter
 1 Manabond
 2 Boseiju, Who Endures
-2 Field of the Dead
 2 Exploration
 2 Mulch
+2 Field of the Dead
 2 Ghost Quarter
 2 Winding Way
 2 Manabond
@@ -45,16 +42,19 @@
 4 Exploration
 4 Wasteland
 4 Mulch
-1 Cavern of Souls
+1 Blast Zone
+1 Argoth, Sanctum of Nature
+1 Titania, Voice of Gaea
 1 Scattered Groves
 3 Sylvan Library
+1 Cavern of Souls
+1 Temple Garden
 2 Forest
 1 Urza's Saga
 2 Urza's Saga
 1 Reclamation Sage
 1 Expedition Map
 1 Vesuva
-1 Once Upon a Time
 1 Ulamog, the Ceaseless Hunger
 1 Titania, Protector of Argoth
 1 Selesnya Sanctuary
@@ -68,6 +68,7 @@
 1 Eye of Ugin
 1 Riftstone Portal
 1 Candelabra of Tawnos
+1 Once Upon a Time
 1 Emrakul, the Aeons Torn
 1 Primeval Titan
 2 Expedition Map
@@ -81,27 +82,31 @@
 3 Expedition Map
 3 Forest
 3 Primeval Titan
-3 Savannah
 3 Vesuva
 3 Urza's Saga
-3 Pithing Needle
 3 Cloudpost
 3 Glimmerpost
+3 Pithing Needle
+3 Savannah
 3 Endurance
 3 Once Upon a Time
-4 Expedition Map
 4 Once Upon a Time
-4 Primeval Titan
+4 Expedition Map
 4 Forest
 4 Endurance
 4 Cloudpost
+4 Primeval Titan
 4 Savannah
 4 Glimmerpost
+1 Comet, Stellar Pup
 1 Scavenging Ooze
 1 Rishadan Port
-1 Temple Garden
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
+1 Jetmir's Garden
+1 Qasali Pridemage
+1 Misty Rainforest
+2 Misty Rainforest
 3 Flagstones of Trokair
 2 Taiga
 3 Dark Depths

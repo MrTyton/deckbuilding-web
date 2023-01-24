@@ -6,6 +6,9 @@
 1 Energy Flux
 1 Unlicensed Hearse
 2 Brazen Borrower
+1 Faerie Macabre
+1 Submerge
+2 Submerge
 2 Blue Elemental Blast
 1 Leyline of the Void
 2 Leyline of the Void
@@ -15,23 +18,20 @@
 1 Relic of Progenitus
 2 Unlicensed Hearse
 3 Force of Negation
-1 Faerie Macabre
-1 Submerge
-2 Submerge
-1 Surgical Extraction
-1 Echoing Truth
-1 Ashiok, Dream Render
 2 Faerie Macabre
 3 Flusterstorm
 3 Submerge
 4 Submerge
+1 Surgical Extraction
+1 Echoing Truth
+1 Ashiok, Dream Render
 3 Dismember
 1 Cursed Totem
 3 Chalice of the Void
 2 Hullbreacher
-2 Back to Basics
 1 Umezawa's Jitte
 2 Relic of Progenitus
+2 Back to Basics
 1 Thassa's Oracle
 1 Paradigm Shift
 2 Thassa's Oracle
@@ -44,17 +44,17 @@
 3 Paradigm Shift
 1 Pithing Needle
 1 Grip of Phyresis
-2 Surgical Extraction
 1 Tormod's Crypt
 1 Kopala, Warden of Waves
-1 Aether Gust
-2 Aether Gust
-1 Vapor Snag
-2 Vapor Snag
 1 Court of Cunning
 2 Court of Cunning
+1 Vapor Snag
+2 Vapor Snag
+1 Aether Gust
+2 Aether Gust
 1 Phantasmal Terrain
 2 Pithing Needle
+2 Surgical Extraction
 2 Phantasmal Terrain
 1 Gilded Drake
 1 Thought Lash
@@ -64,22 +64,17 @@
 2 Hibernation
 1 Chill
 2 Cursed Totem
-1 Run Afoul
 1 Veil of Summer
+1 Run Afoul
 1 Ensnare
 1 Endurance
 2 Run Afoul
 2 Endurance
 3 Endurance
-1 Phantasmal Image
-1 Mistcaller
-1 Merfolk Trickster
-1 True-Name Nemesis
-2 True-Name Nemesis
-2 Phantasmal Image
-3 True-Name Nemesis
-3 Hurkyl's Recall
-4 True-Name Nemesis
 3 Thassa's Oracle
 4 Thassa's Oracle
+1 Plague Engineer
+2 Plague Engineer
+3 Plague Engineer
+4 Plague Engineer
 4 Paradigm Shift
