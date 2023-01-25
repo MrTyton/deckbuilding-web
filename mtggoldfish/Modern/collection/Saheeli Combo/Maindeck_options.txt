@@ -84,10 +84,10 @@
 2 Unholy Heat
 2 Spirebluff Canal
 1 Utopia Sprawl
-2 Stomping Ground
 2 Utopia Sprawl
 2 Forest
 2 Breeding Pool
+2 Stomping Ground
 3 Utopia Sprawl
 3 Ephemerate
 1 Arid Mesa
@@ -98,8 +98,8 @@
 1 Mystic Gate
 1 Hall of Storm Giants
 2 Mystic Gate
-3 Mystic Gate
 3 Supreme Verdict
+3 Mystic Gate
 1 Dead/Gone
 2 Dead/Gone
 3 Fire/Ice
@@ -108,8 +108,8 @@
 2 Risen Reef
 3 Risen Reef
 4 Risen Reef
-1 Snapcaster Mage
 1 Serum Visions
+1 Snapcaster Mage
 2 Snapcaster Mage
 2 Serum Visions
 3 Lightning Bolt
@@ -158,6 +158,12 @@
 2 Abundant Growth
 2 Mulldrifter
 4 Wooded Foothills
+1 Seachrome Coast
+1 Omen of the Sea
+2 Seachrome Coast
+2 Omen of the Sea
+3 Omen of the Sea
+4 Omen of the Sea
 2 Temple Garden
 3 Verdant Catacombs
 3 Gingerbread Cabin
@@ -183,12 +189,6 @@
 3 Arbor Elf
 3 Vivien on the Hunt
 4 Vivien on the Hunt
-1 Seachrome Coast
-1 Omen of the Sea
-2 Seachrome Coast
-2 Omen of the Sea
-3 Omen of the Sea
-4 Omen of the Sea
 1 Spell Pierce
 1 Ragavan, Nimble Pilferer
 1 Dragon's Rage Channeler
@@ -208,7 +208,6 @@
 4 Dragon's Rage Channeler
 4 Spirebluff Canal
 4 Mishra's Bauble
-1 Eiganjo, Seat of the Empire
 1 Charming Prince
 1 Soulherder
 1 Imperial Recruiter
@@ -216,6 +215,7 @@
 1 Skyclave Apparition
 1 Vesperlark
 1 Aether Vial
+1 Eiganjo, Seat of the Empire
 2 Vesperlark
 2 Charming Prince
 2 Imperial Recruiter

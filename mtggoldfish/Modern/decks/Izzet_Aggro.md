@@ -32,7 +32,9 @@
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
 |                    1|[Mishra's Research Desk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=583747)|                    2|[Void Mirror](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=522318)     |
+|                    4|[Bomat Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772)         |                    2|[The Stone Brain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=583827) |
 |                    1|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)             |                    3|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)|
 |                    2|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)             |                     |                                                                                           |
-|                    4|[Bomat Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772)         |                     |                                                                                           |
+|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)      |                     |                                                                                           |
+|                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)     |                     |                                                                                           |
 

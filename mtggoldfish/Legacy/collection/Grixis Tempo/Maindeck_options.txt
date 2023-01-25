@@ -1,3 +1,4 @@
+3 Lightning Bolt
 3 Polluted Delta
 1 Baleful Strix
 2 Baleful Strix
@@ -5,7 +6,6 @@
 3 Underground Sea
 1 Unholy Heat
 3 Scalding Tarn
-3 Snuff Out
 4 Snuff Out
 4 Lightning Bolt
 1 Bloodstained Mire
@@ -17,12 +17,12 @@
 3 Unholy Heat
 4 Unholy Heat
 3 Bloodstained Mire
+4 Bloodstained Mire
 1 Hymn to Tourach
 2 Hymn to Tourach
 3 Hymn to Tourach
-4 Mishra's Bauble
-4 Bloodstained Mire
 4 Hymn to Tourach
+4 Mishra's Bauble
 1 Pyroblast
 4 Polluted Delta
 1 Ledger Shredder
@@ -36,8 +36,6 @@
 1 Stifle
 2 Stifle
 1 Snapcaster Mage
-1 Jace, Vryn's Prodigy
-2 Jace, Vryn's Prodigy
 1 Dark Confidant
 1 Fatal Push
 1 Inquisition of Kozilek

@@ -43,8 +43,8 @@
 3 Forest
 3 Boseiju, Who Endures
 2 Sylvan Library
-1 Ancient Tomb
 1 Reclamation Sage
+1 Ancient Tomb
 3 Primeval Titan
 4 Chain of Smog
 1 Opposition Agent
@@ -93,15 +93,15 @@
 2 Fury
 4 Misty Rainforest
 1 Snow-Covered Island
-1 Brainstorm
 1 Wasteland
+1 Brainstorm
 2 Brainstorm
 3 Brainstorm
 4 Once Upon a Time
 1 Diabolic Intent
 1 Eternal Witness
-1 Indatha Triome
 1 Plains
+1 Indatha Triome
 1 Knight of Autumn
 1 Siege Rhino
 1 Swords to Plowshares
@@ -121,14 +121,14 @@
 1 Sarulf, Realm Eater
 1 Tourach, Dread Cantor
 1 Sarkhan Vol
-1 Scapeshift
 1 Liliana of the Veil
+1 Scapeshift
 1 Liliana, the Last Hope
 1 Jace, the Mind Sculptor
 1 Garruk Relentless
 1 Karn Liberated
-2 Leovold, Emissary of Trest
 2 Wasteland
+2 Leovold, Emissary of Trest
 2 Polluted Delta
 3 Wasteland
 3 Polluted Delta
@@ -137,6 +137,12 @@
 2 Reanimate
 3 Reanimate
 4 Windswept Heath
+1 Mawloc
+2 Mawloc
+3 Fury
+3 Mawloc
+4 Fury
+4 Mawloc
 1 Marsh Flats
 1 Vraska, Golgari Queen
 1 Qasali Pridemage
@@ -154,15 +160,9 @@
 2 Siege Rhino
 3 Marsh Flats
 4 Forest
-1 Mawloc
-2 Mawloc
-3 Fury
-3 Mawloc
-4 Fury
-4 Mawloc
 1 Archon of Valor's Reach
-1 Outland Liberator
 1 Sylvan Safekeeper
+1 Outland Liberator
 2 Swords to Plowshares
 3 Swords to Plowshares
 4 Swords to Plowshares
