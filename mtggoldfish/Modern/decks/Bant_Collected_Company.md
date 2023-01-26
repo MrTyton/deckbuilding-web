@@ -67,6 +67,6 @@
 |                     |                                                                                               |                    3|[Test of Talents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513536)            |
 |                     |                                                                                               |                    1|[Hallowed Moonlight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398505)         |
 |                     |                                                                                               |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)               |
-|                     |                                                                                               |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)               |
 |                     |                                                                                               |                    2|[Hallowed Moonlight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398505)         |
+|                     |                                                                                               |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)               |
 

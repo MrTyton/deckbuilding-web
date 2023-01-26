@@ -66,6 +66,6 @@
 |                     |                                                                                                     |                    1|[Fog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=746)                          |
 |                     |                                                                                                     |                    2|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)             |
 |                     |                                                                                                     |                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)       |
-|                     |                                                                                                     |                    3|[Languish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420731)                  |
 |                     |                                                                                                     |                    3|[Thought Distortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466871)        |
+|                     |                                                                                                     |                    3|[Languish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420731)                  |
 

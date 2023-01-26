@@ -94,7 +94,7 @@
 |                     |                                                                                                    |                    2|[Karn's Sylex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574714)              |
 |                     |                                                                                                    |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)       |
 |                     |                                                                                                    |                    3|[Karn's Sylex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574714)              |
+|                     |                                                                                                    |                    4|[Karn's Sylex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574714)              |
 |                     |                                                                                                    |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)       |
 |                     |                                                                                                    |                    4|[Feed the Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491737)            |
-|                     |                                                                                                    |                    4|[Karn's Sylex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574714)              |
 
