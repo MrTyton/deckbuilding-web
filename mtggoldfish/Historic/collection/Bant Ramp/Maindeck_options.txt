@@ -18,8 +18,8 @@
 3 Llanowar Elves
 4 Llanowar Elves
 1 Ipnu Rivulet
-1 Extinction Event
 1 Swamp
+1 Extinction Event
 1 Overgrown Tomb
 2 Extinction Event
 2 Overgrown Tomb
@@ -38,8 +38,8 @@
 1 Sunpetal Grove
 3 Temple Garden
 1 Fabled Passage
-2 Castle Vantress
 2 Fabled Passage
+2 Castle Vantress
 3 Fabled Passage
 1 Absorb
 2 Glacial Fortress
@@ -66,8 +66,8 @@
 1 Scavenging Ooze
 2 River's Rebuke
 4 Fabled Passage
-1 Heroic Intervention
 1 Thran Temporal Gateway
+1 Heroic Intervention
 2 Heroic Intervention
 2 Thran Temporal Gateway
 3 Heroic Intervention
@@ -76,19 +76,6 @@
 2 Champion of Wits
 2 Blast Zone
 3 Castle Garenbrig
-1 Discontinuity
-1 Deputy of Detention
-1 Glass Casket
-1 Kiora Bests the Sea God
-1 Memorial to Genius
-2 Discontinuity
-2 Deputy of Detention
-2 Glass Casket
-2 Kiora Bests the Sea God
-3 Discontinuity
-3 Dovin's Veto
-3 Kiora Bests the Sea God
-4 Discontinuity
 1 Elspeth Conquers Death
 1 Temple of Enlightenment
 1 Tale's End
@@ -134,6 +121,19 @@
 4 Hieroglyphic Illumination
 4 Eureka Moment
 4 Archmage's Charm
+1 Deputy of Detention
+1 Glass Casket
+1 Discontinuity
+1 Kiora Bests the Sea God
+1 Memorial to Genius
+2 Deputy of Detention
+2 Glass Casket
+2 Kiora Bests the Sea God
+2 Discontinuity
+3 Dovin's Veto
+3 Discontinuity
+3 Kiora Bests the Sea God
+4 Discontinuity
 3 Ugin, the Ineffable
 4 Island
 5 Island

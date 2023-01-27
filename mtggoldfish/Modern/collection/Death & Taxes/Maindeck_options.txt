@@ -45,9 +45,9 @@
 3 Blast Zone
 1 Ambitious Farmhand
 2 Ambitious Farmhand
+1 Forest
 1 Temple Garden
 1 Windswept Heath
-1 Forest
 2 Windswept Heath
 3 Windswept Heath
 4 Windswept Heath
@@ -98,6 +98,7 @@
 2 Queen Kayla bin-Kroog
 3 Inspiring Vantage
 1 Fiery Islet
+1 Fury
 1 Sword of Feast and Famine
 1 Snow-Covered Mountain
 1 Battlefield Forge
@@ -106,7 +107,6 @@
 1 Flooded Strand
 1 Magus of the Moon
 1 Imperial Recruiter
-1 Fury
 1 Steam Vents
 1 Scalding Tarn
 1 Sanctifier en-Vec
@@ -114,13 +114,13 @@
 1 Fervent Champion
 1 Soulherder
 2 Ranger-Captain of Eos
+2 Fury
 2 Flooded Strand
 2 Magus of the Moon
 2 Fervent Champion
 2 Meddling Mage
 2 Scalding Tarn
 2 Imperial Recruiter
-2 Fury
 3 Ranger-Captain of Eos
 3 Sacred Foundry
 3 Fervent Champion
@@ -162,19 +162,19 @@
 4 Tectonic Edge
 1 Titania, Voice of Gaea
 1 Argoth, Sanctum of Nature
+1 Marsh Flats
+1 Misty Rainforest
 1 Brutal Cathar
 1 Dryad of the Ilysian Grove
 1 Noble Hierarch
-1 Marsh Flats
 1 Wooded Foothills
 1 Collected Company
 1 Spara's Headquarters
 1 Thespian's Stage
-1 Misty Rainforest
 1 Courser of Kruphix
 1 Valakut, the Molten Pinnacle
-2 Forest
 2 Endurance
+2 Forest
 2 Noble Hierarch
 2 Dryad of the Ilysian Grove
 2 Courser of Kruphix

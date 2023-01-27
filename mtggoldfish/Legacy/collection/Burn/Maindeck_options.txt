@@ -1,18 +1,18 @@
-15 Mountain
-16 Mountain
-4 Skewer the Critics
+1 Arid Mesa
+1 Searing Blaze
+2 Searing Blaze
 2 Wooded Foothills
-2 Roiling Vortex
-2 Arid Mesa
 17 Mountain
 18 Mountain
+2 Roiling Vortex
+2 Arid Mesa
 1 Bloodstained Mire
 2 Bloodstained Mire
 3 Wooded Foothills
 3 Arid Mesa
-1 Fiery Islet
 3 Searing Blaze
 1 Snow-Covered Mountain
+1 Fiery Islet
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
@@ -20,16 +20,16 @@
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
 8 Snow-Covered Mountain
-1 Scalding Tarn
+19 Mountain
 1 Light Up the Stage
 2 Light Up the Stage
 4 Arid Mesa
-2 Scalding Tarn
 9 Snow-Covered Mountain
 1 Barbarian Ring
-19 Mountain
-3 Bloodstained Mire
+1 Scalding Tarn
 1 Sunbaked Canyon
+3 Bloodstained Mire
+2 Scalding Tarn
 1 Maddening Hex
 2 Maddening Hex
 3 Exquisite Firecraft
@@ -54,8 +54,8 @@
 2 Prismatic Vista
 1 Skullcrack
 2 Skullcrack
-1 Karakas
 1 Dead/Gone
+1 Karakas
 2 Dead/Gone
 3 Dead/Gone
 1 Wheel of Misfortune
@@ -69,6 +69,7 @@
 2 Vexing Devil
 3 Vexing Devil
 4 Vexing Devil
+4 Exquisite Firecraft
 1 Fabled Passage
 1 Thunderous Wrath
 2 Thunderous Wrath
@@ -78,4 +79,3 @@
 11 Snow-Covered Mountain
 12 Snow-Covered Mountain
 13 Snow-Covered Mountain
-4 Exquisite Firecraft
