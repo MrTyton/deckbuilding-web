@@ -53,6 +53,7 @@
 1 Urza's Saga
 2 Urza's Saga
 1 Reclamation Sage
+1 Expedition Map
 1 Vesuva
 1 Ulamog, the Ceaseless Hunger
 1 Titania, Protector of Argoth
@@ -62,7 +63,6 @@
 1 Pithing Needle
 1 Glimmerpost
 1 Glacial Chasm
-1 Expedition Map
 1 Cloudpost
 1 Cultivator Colossus
 1 Eye of Ugin
@@ -79,9 +79,9 @@
 2 Once Upon a Time
 2 Cloudpost
 2 Glimmerpost
+3 Forest
 3 Expedition Map
 3 Primeval Titan
-3 Forest
 3 Vesuva
 3 Urza's Saga
 3 Cloudpost
@@ -111,9 +111,9 @@
 2 Taiga
 3 Dark Depths
 4 Thespian's Stage
-1 Snow-Covered Plains
-1 Bayou
-1 Grist, the Hunger Tide
 1 Shadowspear
+1 Snow-Covered Plains
+1 Grist, the Hunger Tide
+1 Bayou
 3 Prismatic Ending
 4 Sylvan Library

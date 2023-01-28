@@ -1,32 +1,38 @@
-2 Bayou
 1 Scavenging Ooze
 3 Misty Rainforest
+2 Bayou
 3 Endurance
+2 Witherbloom Command
+1 Taiga
 1 Wooded Foothills
 2 Wooded Foothills
 2 Boseiju, Who Endures
-1 Deadly Brew
-4 Endurance
-1 Grief
-1 Taiga
 1 Minsc & Boo, Timeless Heroes
+1 Deadly Brew
+1 Grief
+1 Titania, Protector of Argoth
+2 Minsc & Boo, Timeless Heroes
 2 Grief
 3 Grief
+4 Endurance
 1 Elder Gargaroth
-1 Questing Beast
-1 Meren of Clan Nel Toth
-2 Deadly Brew
-2 Minsc & Boo, Timeless Heroes
-2 Witherbloom Command
-1 Titania, Protector of Argoth
-1 Snow-Covered Mountain
-4 Grief
-3 Wooded Foothills
 1 Sylvan Library
+1 Meren of Clan Nel Toth
+1 Snow-Covered Mountain
+2 Deadly Brew
+1 Questing Beast
 1 Greater Gargadon
 2 Greater Gargadon
 3 Greater Gargadon
+4 Grief
 1 Badlands
+3 Forest
+1 Terror of the Peaks
+3 Thoughtseize
+1 Mountain
+3 Wooded Foothills
+2 Scavenging Ooze
+3 Boseiju, Who Endures
 1 Kalitas, Traitor of Ghet
 1 Chain of Smog
 1 Witherbloom Apprentice
@@ -34,36 +40,25 @@
 2 Witherbloom Apprentice
 3 Chain of Smog
 3 Witherbloom Apprentice
+4 Chain of Smog
 3 Deadly Brew
-2 Swamp
-1 Terror of the Peaks
-1 Mountain
-3 Thoughtseize
-2 Scavenging Ooze
-3 Forest
-3 Boseiju, Who Endures
 2 Sylvan Library
+2 Swamp
 1 Reclamation Sage
 1 Ancient Tomb
 3 Primeval Titan
-4 Chain of Smog
-1 Opposition Agent
-2 Opposition Agent
-3 Opposition Agent
+1 Collector Ouphe
 1 Vivien, Monsters' Advocate
-2 Taiga
 1 Mayhem Devil
 2 Mayhem Devil
 3 Mayhem Devil
+2 Taiga
 3 Minsc & Boo, Timeless Heroes
 1 Abrupt Decay
-1 Cavern of Souls
 1 Polluted Delta
-1 Collector Ouphe
 1 Prismatic Vista
 1 Fable of the Mirror-Breaker
 2 Fable of the Mirror-Breaker
-1 Castle Locthwain
 2 Titania, Protector of Argoth
 1 Windswept Heath
 2 Windswept Heath
@@ -71,42 +66,46 @@
 1 Sheoldred, the Apocalypse
 1 Nurturing Peatland
 1 Pernicious Deed
-2 Cavern of Souls
 1 Underground Sea
 1 Leovold, Emissary of Trest
+1 Wasteland
+1 Diabolic Intent
 1 Tireless Tracker
-1 Vesuva
-1 Bushwhack
+1 Ramunap Excavator
 2 Pernicious Deed
+1 Vesuva
+1 Opposition Agent
+2 Opposition Agent
+3 Opposition Agent
+1 Bushwhack
 1 Savannah
 2 Phyrexian Tower
 2 Snow-Covered Mountain
-4 Deadly Brew
 3 Fable of the Mirror-Breaker
 2 Snow-Covered Swamp
 3 Snow-Covered Swamp
 3 Snow-Covered Forest
-4 Wooded Foothills
 4 Greater Gargadon
 4 Mayhem Devil
+4 Wooded Foothills
 1 Fury
 2 Fury
 4 Misty Rainforest
 1 Snow-Covered Island
-1 Wasteland
+2 Wasteland
+3 Wasteland
 1 Brainstorm
 2 Brainstorm
 3 Brainstorm
+1 Cavern of Souls
 4 Once Upon a Time
-1 Diabolic Intent
 1 Eternal Witness
 1 Plains
 1 Indatha Triome
 1 Knight of Autumn
 1 Siege Rhino
-1 Swords to Plowshares
 3 Pernicious Deed
-1 Ramunap Excavator
+1 Swords to Plowshares
 1 Scrubland
 1 Waterlogged Grove
 1 Natural Order
@@ -117,20 +116,20 @@
 2 Mountain
 2 Dryad Arbor
 4 Fable of the Mirror-Breaker
-1 The Meathook Massacre
+1 Sarkhan Vol
+1 Yavimaya, Cradle of Growth
 1 Sarulf, Realm Eater
 1 Tourach, Dread Cantor
-1 Sarkhan Vol
+2 Overgrown Tomb
+3 Swamp
 1 Liliana of the Veil
 1 Liliana, the Last Hope
 1 Scapeshift
 1 Jace, the Mind Sculptor
 1 Garruk Relentless
 1 Karn Liberated
-2 Wasteland
 2 Leovold, Emissary of Trest
 2 Polluted Delta
-3 Wasteland
 3 Polluted Delta
 1 Reanimate
 1 Henrika Domnathi
@@ -146,7 +145,6 @@
 1 Marsh Flats
 1 Vraska, Golgari Queen
 1 Qasali Pridemage
-1 Voice of Resurgence
 1 The Gitrog Monster
 1 Path to Exile
 1 Nissa, Vital Force
@@ -155,6 +153,7 @@
 1 Sigarda, Host of Herons
 1 Nissa, Vastwood Seer
 1 Recurring Nightmare
+1 Voice of Resurgence
 2 Marsh Flats
 2 Plains
 2 Siege Rhino
@@ -166,6 +165,8 @@
 2 Swords to Plowshares
 3 Swords to Plowshares
 4 Swords to Plowshares
+1 Castle Locthwain
+4 Deadly Brew
 1 Crop Rotation
 1 Cephalid Coliseum
 1 Undermountain Adventurer
@@ -189,6 +190,7 @@
 2 Living Wish
 2 Academy Rector
 2 Arena Rector
+2 Cavern of Souls
 3 Living Wish
 3 Arena Rector
 3 Phyrexian Tower
