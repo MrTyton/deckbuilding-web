@@ -1,28 +1,29 @@
-3 Witch's Cottage
-1 Priest of Fell Rites
-1 Bloodstained Mire
 2 Bloodstained Mire
+1 Priest of Fell Rites
+3 Witch's Cottage
 3 Bloodstained Mire
+1 Flooded Strand
+3 Watery Grave
 1 Faithful Mending
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-2 Priest of Fell Rites
 2 Flooded Strand
+2 Faithful Mending
 2 Swamp
+2 Priest of Fell Rites
+1 Malakir Rebirth
+3 Prismatic Ending
+2 Malakir Rebirth
 1 Savai Triome
 1 Arid Mesa
 1 Seasoned Pyromancer
 1 Fury
 1 Blood Crypt
-1 Malakir Rebirth
 1 Fable of the Mirror-Breaker
 1 Sacred Foundry
-2 Arid Mesa
 2 Sacred Foundry
 2 Blood Crypt
 2 Seasoned Pyromancer
+2 Arid Mesa
 2 Fury
-2 Malakir Rebirth
 2 Fable of the Mirror-Breaker
 3 Fury
 3 Arid Mesa
@@ -30,40 +31,37 @@
 3 Malakir Rebirth
 3 Fable of the Mirror-Breaker
 4 Fable of the Mirror-Breaker
-3 Watery Grave
-3 Prismatic Ending
-2 Faithful Mending
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+3 Faithful Mending
+4 Faithful Mending
 1 Serra's Emissary
 1 Bitter Reunion
 1 Mountain
 2 Bitter Reunion
 3 Bitter Reunion
-3 Teferi, Time Raveler
 3 Flooded Strand
-3 Faithful Mending
-4 Faithful Mending
 1 Leyline Binding
 2 Leyline Binding
 3 Leyline Binding
-3 Priest of Fell Rites
 1 Otherworldly Gaze
 2 Otherworldly Gaze
 1 Blackcleave Cliffs
 1 Inspiring Vantage
 4 Leyline Binding
+3 Priest of Fell Rites
+3 Teferi, Time Raveler
 3 Otherworldly Gaze
 4 Otherworldly Gaze
 4 Flooded Strand
-2 Hallowed Fountain
 1 Concealed Courtyard
+2 Concealed Courtyard
+2 Hallowed Fountain
 1 Otawara, Soaring City
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
+1 Verdant Catacombs
 1 Indatha Triome
 1 Brought Back
 2 Plains
-4 Priest of Fell Rites
 1 Bloodghast
 1 Village Rites
 1 Ragavan, Nimble Pilferer
@@ -79,24 +77,26 @@
 3 Ragavan, Nimble Pilferer
 4 Bloodghast
 4 Village Rites
+4 Priest of Fell Rites
 4 Ragavan, Nimble Pilferer
 4 Seasoned Pyromancer
 4 Malakir Rebirth
-1 Darkslick Shores
-2 Concealed Courtyard
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
 1 Glacial Fortress
 1 Founding the Third Path
 2 Founding the Third Path
 3 Founding the Third Path
 4 Founding the Third Path
 4 Prismatic Ending
-1 Verdant Catacombs
 2 Verdant Catacombs
 3 Verdant Catacombs
 4 Verdant Catacombs
 1 Xander's Lounge
 1 Shadow Prophecy
 2 Shadow Prophecy
+1 Darkslick Shores
 1 Castle Locthwain
 1 Ziatora's Proving Ground
 1 Viscera Seer
@@ -114,24 +114,22 @@
 4 Protean Hulk
 4 Footsteps of the Goryo
 1 March of Otherworldly Light
-4 Godless Shrine
 3 Shadow Prophecy
 4 Shadow Prophecy
 2 Unburial Rites
+1 Urborg, Tomb of Yawgmoth
 1 Counterspell
 2 Counterspell
 4 Teferi, Time Raveler
-1 Silent Clearing
 1 Terastodon
 2 Savai Triome
 4 Fury
-1 Bone Shards
 1 Spell Pierce
 2 Spell Pierce
 4 Thoughtseize
-4 Bitter Reunion
 4 Bloodstained Mire
 4 Arid Mesa
+4 Bitter Reunion
 1 Carrion Feeder
 1 Kaito Shizuki
 1 Elesh Norn, Grand Cenobite
@@ -141,25 +139,13 @@
 2 Viscera Seer
 1 Seachrome Coast
 2 March of Otherworldly Light
-1 Undying Evil
-1 Divest
-1 Discovery/Dispersal
-1 Dakkon, Shadow Slayer
-1 Ransack the Lab
-1 Hengegate Pathway
-1 Adarkar Wastes
-1 Oona's Prowler
-2 Undying Evil
-2 Divest
 1 Shriekmaw
 1 Ashen Rider
 2 Ashen Rider
 1 Dovin's Veto
 2 Dovin's Veto
 3 Dovin's Veto
-4 Watery Grave
 1 Flagstones of Trokair
-1 Urborg, Tomb of Yawgmoth
 1 Lingering Souls
 1 Smallpox
 1 See the Truth
@@ -172,8 +158,8 @@
 3 Smallpox
 4 Flagstones of Trokair
 4 Smallpox
-1 Windswept Heath
 1 Ketria Triome
+1 Windswept Heath
 1 Scalding Tarn
 1 Misty Rainforest
 2 Windswept Heath
@@ -183,6 +169,7 @@
 1 Consider
 1 Gifts Ungiven
 1 Isolated Chapel
+1 Silent Clearing
 2 Glacial Fortress
 2 Silent Clearing
 2 Serra's Emissary
@@ -192,6 +179,7 @@
 1 Breeding Pool
 1 Zagoth Triome
 1 Fatal Push
+1 Bone Shards
 1 Overgrown Tomb
 1 Drown in the Loch
 1 Tarmogoyf
@@ -212,3 +200,5 @@
 2 Brought Back
 3 Brought Back
 4 Brought Back
+4 Watery Grave
+4 Godless Shrine

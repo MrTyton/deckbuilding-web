@@ -1,17 +1,15 @@
 1 Choke
 2 Choke
-3 Deafening Silence
-1 Mindbreak Trap
 1 Hall of Gemstone
-2 Hall of Gemstone
+1 Mindbreak Trap
 1 Torpor Orb
+2 Hall of Gemstone
+3 Deafening Silence
 1 Anarchy
 2 Red Elemental Blast
-1 The Tabernacle at Pendrell Vale
 3 Force of Vigor
+1 The Tabernacle at Pendrell Vale
 4 Endurance
-1 Hushbringer
-2 Hushbringer
 1 Path to Exile
 1 Stony Silence
 2 Stony Silence
@@ -19,6 +17,8 @@
 1 Drop of Honey
 1 Maze of Ith
 3 Pyroblast
+1 Hushbringer
+2 Hushbringer
 4 Deafening Silence
 2 Mindbreak Trap
 1 Field of the Dead
@@ -26,7 +26,12 @@
 1 Surgical Extraction
 2 Surgical Extraction
 1 Blast Zone
+1 Sylvan Library
 1 Ramunap Excavator
+1 Qasali Pridemage
+1 Meltdown
+1 Pyroclasm
+2 Pyroclasm
 1 Seeds of Innocence
 1 Ethersworn Canonist
 2 Ethersworn Canonist
@@ -44,13 +49,13 @@
 2 Containment Priest
 1 Veil of Summer
 2 Veil of Summer
-1 Flametongue Kavu
-2 Flametongue Kavu
+1 Dismember
+2 Dismember
+3 Mindbreak Trap
+3 Dismember
 1 Yorion, Sky Nomad
 1 Wicked Wolf
 3 Surgical Extraction
 4 Surgical Extraction
-1 Dismember
-2 Dismember
-3 Dismember
-3 Mindbreak Trap
+1 Flametongue Kavu
+2 Flametongue Kavu

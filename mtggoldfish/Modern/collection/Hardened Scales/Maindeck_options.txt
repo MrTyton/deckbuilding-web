@@ -1,12 +1,12 @@
-1 Shadowspear
 3 Cragcrown Pathway
 4 Cragcrown Pathway
+1 Shadowspear
 1 Animation Module
 1 Throne of Geth
 2 Karplusan Forest
-4 Ancient Stirrings
 1 Arcbound Worker
 3 Karplusan Forest
+4 Ancient Stirrings
 4 Forest
 2 Llanowar Reborn
 1 Pithing Needle
@@ -23,9 +23,6 @@
 4 Esper Sentinel
 1 Basilisk Collar
 1 Inventors' Fair
-1 Roadside Reliquary
-1 Yavimaya, Cradle of Growth
-2 Roadside Reliquary
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
@@ -45,8 +42,18 @@
 1 Blinkmoth Nexus
 1 Relic of Progenitus
 1 Plains
+1 Roadside Reliquary
+1 Yavimaya, Cradle of Growth
+2 Roadside Reliquary
 2 Spire of Industry
 3 Spire of Industry
+1 Experimental Synthesizer
+2 Experimental Synthesizer
+2 Stomping Ground
+3 Experimental Synthesizer
+3 Springleaf Drum
+3 Throne of Geth
+4 Experimental Synthesizer
 1 Battlefield Forge
 1 Brushland
 1 Steel Seraph
@@ -57,21 +64,14 @@
 3 Brushland
 4 Razorverge Thicket
 4 Brushland
-1 Eiganjo, Seat of the Empire
-1 Sacred Foundry
-2 Sacred Foundry
-3 Temple Garden
-4 Temple Garden
-4 Branchloft Pathway
 1 Treasure Vault
 1 Implement of Ferocity
 2 Treasure Vault
 4 Karplusan Forest
 6 Forest
-1 Experimental Synthesizer
-2 Experimental Synthesizer
-2 Stomping Ground
-3 Experimental Synthesizer
-3 Springleaf Drum
-4 Experimental Synthesizer
-3 Throne of Geth
+1 Eiganjo, Seat of the Empire
+1 Sacred Foundry
+2 Sacred Foundry
+3 Temple Garden
+4 Branchloft Pathway
+4 Temple Garden

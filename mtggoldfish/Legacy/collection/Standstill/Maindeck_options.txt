@@ -28,11 +28,11 @@
 2 Snapcaster Mage
 1 Misty Rainforest
 2 Volcanic Island
-1 Mountain
 1 Day's Undoing
+1 Mountain
 1 Geier Reach Sanitarium
-2 Day's Undoing
 2 Hullbreacher
+2 Day's Undoing
 3 Day's Undoing
 3 Hullbreacher
 4 Hullbreacher
@@ -98,34 +98,31 @@
 4 Recruiter of the Guard
 1 Steam Vents
 1 Archmage's Charm
-1 Arid Mesa
 1 Meekstone
+1 Arid Mesa
 1 Dress Down
 2 Dress Down
 2 Subtlety
 3 Narset, Parter of Veils
+1 Boseiju, Who Endures
+1 Forest
 1 Colossal Skyturtle
 1 Cast Out
 1 Savannah
-1 Boseiju, Who Endures
 1 Tropical Island
-1 Forest
 1 Replenish
 2 Colossal Skyturtle
 2 Replenish
 3 Colossal Skyturtle
-4 Wasteland
-1 Aether Spellbomb
-1 Expedition Map
-1 Lightning Bolt
-1 Phyrexian Dreadnought
-2 Brazen Borrower
-2 Lightning Bolt
-2 Phyrexian Dreadnought
-3 Lightning Bolt
-4 Stifle
-4 Volcanic Island
-4 Lightning Bolt
+1 Torpor Orb
+1 Terminus
+1 Ancient Tomb
+2 Torpor Orb
+2 Terminus
+2 Ancient Tomb
+3 Terminus
+3 Ancient Tomb
+4 Terminus
 1 Dragon's Rage Channeler
 1 Predict
 1 Monastery Mentor
@@ -140,11 +137,24 @@
 2 Murktide Regent
 3 Dragon's Rage Channeler
 3 Daze
-4 Dragon's Rage Channeler
 4 Daze
+4 Dragon's Rage Channeler
+4 Wasteland
+1 Aether Spellbomb
+1 Expedition Map
+1 Lightning Bolt
+1 Phyrexian Dreadnought
+2 Brazen Borrower
+2 Lightning Bolt
+2 Phyrexian Dreadnought
+3 Lightning Bolt
+4 Stifle
+4 Volcanic Island
+4 Lightning Bolt
 4 Currency Converter
-1 Delay
+5 Snow-Covered Island
 1 Suspend
+1 Delay
 2 Suspend
 2 Delay
 3 Suspend
@@ -153,13 +163,3 @@
 4 Plains
 4 Suspend
 4 Delay
-1 Torpor Orb
-1 Terminus
-1 Ancient Tomb
-2 Torpor Orb
-2 Terminus
-2 Ancient Tomb
-3 Terminus
-3 Ancient Tomb
-4 Terminus
-5 Snow-Covered Island
