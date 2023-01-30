@@ -106,15 +106,15 @@
 1 Spara's Headquarters
 1 Archon of Cruelty
 1 Thassa's Oracle
-1 Xander's Lounge
 1 Mesmeric Orb
 1 Memory's Journey
 1 Fatestitcher
+1 Xander's Lounge
 2 Mesmeric Orb
 2 Thassa's Oracle
 2 Fatestitcher
-3 Shadow Prophecy
 3 Fatestitcher
+3 Shadow Prophecy
 3 Mesmeric Orb
 4 Shadow Prophecy
 4 Mesmeric Orb
@@ -167,7 +167,6 @@
 1 Prairie Stream
 2 Dovin's Veto
 2 Glacial Fortress
-4 Faithful Mending
 1 Thought Scour
 1 Murktide Regent
 2 Thought Scour
@@ -200,6 +199,7 @@
 3 Founding the Third Path
 3 Drown in the Loch
 4 Drown in the Loch
+4 Faithful Mending
 1 Jetmir's Garden
 1 Mana Leak
 1 Gifts Ungiven
@@ -214,9 +214,9 @@
 4 Shark Typhoon
 1 Cavern of Souls
 1 Flusterstorm
+1 Ertai Resurrected
 1 Meddling Mage
 1 Silence
-1 Ertai Resurrected
 1 Spoils of the Vault
 1 Umara Wizard
 1 Angel's Grace
@@ -232,8 +232,8 @@
 3 Step Through
 4 Step Through
 4 Micromancer
-1 Otherworldly Gaze
 1 Kaito Shizuki
+1 Otherworldly Gaze
 1 Faerie Seer
 1 Spellstutter Sprite
 1 Bitterblossom
@@ -244,17 +244,15 @@
 2 Faerie Seer
 2 Bitterblossom
 2 Spellstutter Sprite
-3 Kaito Shizuki
-3 Otherworldly Gaze
 3 Faerie Seer
+3 Otherworldly Gaze
 3 Bitterblossom
 3 Bone Shards
+3 Kaito Shizuki
 3 Spellstutter Sprite
 4 Bone Shards
 4 Faerie Seer
 4 Otherworldly Gaze
-2 The Wandering Emperor
-5 Island
 1 Force of Negation
 1 Narset, Parter of Veils
 1 Geier Reach Sanitarium
@@ -267,3 +265,5 @@
 3 Force of Negation
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
+2 The Wandering Emperor
+5 Island

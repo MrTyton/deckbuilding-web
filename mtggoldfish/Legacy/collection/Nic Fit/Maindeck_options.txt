@@ -35,8 +35,8 @@
 1 Mountain
 3 Wooded Foothills
 2 Sylvan Library
-1 Ancient Tomb
 1 Reclamation Sage
+1 Ancient Tomb
 3 Primeval Titan
 1 Abrupt Decay
 1 Kalitas, Traitor of Ghet
@@ -99,8 +99,8 @@
 1 Cavern of Souls
 4 Once Upon a Time
 1 Eternal Witness
-1 Indatha Triome
 1 Plains
+1 Indatha Triome
 1 Knight of Autumn
 1 Siege Rhino
 3 Pernicious Deed
@@ -128,9 +128,9 @@
 2 Snapcaster Mage
 2 Island
 2 Baleful Strix
+1 Yavimaya, Cradle of Growth
 1 Sarulf, Realm Eater
 1 Tourach, Dread Cantor
-1 Yavimaya, Cradle of Growth
 2 Overgrown Tomb
 3 Swamp
 1 Liliana, the Last Hope
@@ -158,6 +158,12 @@
 3 Snow-Covered Forest
 3 Reanimate
 4 Windswept Heath
+1 Mawloc
+2 Mawloc
+3 Fury
+3 Mawloc
+4 Mawloc
+4 Fury
 1 Marsh Flats
 1 Vraska, Golgari Queen
 1 Qasali Pridemage
@@ -174,32 +180,26 @@
 2 Siege Rhino
 3 Marsh Flats
 4 Forest
-1 Mawloc
-2 Mawloc
-3 Fury
-3 Mawloc
-4 Mawloc
-4 Fury
 1 Archon of Valor's Reach
-1 Outland Liberator
 1 Sylvan Safekeeper
+1 Outland Liberator
 2 Swords to Plowshares
 3 Swords to Plowshares
 4 Swords to Plowshares
+1 Snow-Covered Plains
 1 Living Wish
 1 Shifting Ceratops
 1 Overwhelming Splendor
 1 Academy Rector
 1 Arena Rector
-1 Snow-Covered Plains
 1 Garruk, Apex Predator
 1 Ugin, the Spirit Dragon
 1 Ethereal Absolution
 1 Cruel Reality
 2 Living Wish
-2 Cavern of Souls
 2 Academy Rector
 2 Arena Rector
+2 Cavern of Souls
 3 Living Wish
 3 Arena Rector
 3 Phyrexian Tower

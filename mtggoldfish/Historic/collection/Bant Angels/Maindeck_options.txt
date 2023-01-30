@@ -91,14 +91,14 @@
 2 Blossoming Sands
 3 Blossoming Sands
 2 Castle Ardenvale
+1 Spirited Companion
 1 Light of Hope
 1 Lunarch Veteran
 1 Doomskar
 1 Farewell
-1 Spirited Companion
-2 Spirited Companion
 2 Light of Hope
 2 Lunarch Veteran
+2 Spirited Companion
 2 Doomskar
 3 Lunarch Veteran
 3 Spirited Companion
@@ -129,14 +129,14 @@
 3 Angelic Ascension
 4 Blossoming Sands
 8 Forest
-1 Take Up the Shield
 1 Heliod's Punishment
+1 Take Up the Shield
 1 Well of Lost Dreams
 2 Take Up the Shield
 2 Well of Lost Dreams
 2 Heliod's Punishment
-3 Take Up the Shield
 3 Heliod's Punishment
+3 Take Up the Shield
 4 Take Up the Shield
 1 Brushland
 1 Scurry Oak
@@ -149,12 +149,6 @@
 1 Declaration in Stone
 2 Declaration in Stone
 3 Declaration in Stone
-1 Scattered Groves
-1 Settle the Wreckage
-2 Cave of the Frost Dragon
-3 Overgrown Farmland
-3 Cave of the Frost Dragon
-4 Overgrown Farmland
 1 Godless Shrine
 1 Brightclimb Pathway
 1 Fateful Absence
@@ -164,9 +158,9 @@
 2 Brightclimb Pathway
 2 Fateful Absence
 2 Vito, Thorn of the Dusk Rose
+3 Fateful Absence
 3 Brightclimb Pathway
 3 Godless Shrine
-3 Fateful Absence
 3 Vito, Thorn of the Dusk Rose
 4 Godless Shrine
 4 Brightclimb Pathway
@@ -178,13 +172,19 @@
 2 Starnheim Aspirant
 3 Starnheim Aspirant
 4 Starnheim Aspirant
-1 Adarkar Wastes
+1 Scattered Groves
+1 Settle the Wreckage
+2 Cave of the Frost Dragon
+3 Cave of the Frost Dragon
+3 Overgrown Farmland
+4 Overgrown Farmland
 1 Serra Paragon
+1 Adarkar Wastes
 1 Eiganjo, Seat of the Empire
 1 Spara's Headquarters
 1 Boseiju, Who Endures
-2 Adarkar Wastes
 2 Serra Paragon
+2 Adarkar Wastes
 2 Spara's Headquarters
 3 Spara's Headquarters
 4 Giada, Font of Hope

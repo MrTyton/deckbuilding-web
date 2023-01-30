@@ -34,16 +34,15 @@
 1 Baleful Mastery
 2 Liliana of the Veil
 3 Liliana of the Veil
-2 Field of Ruin
 2 Dig Through Time
+2 Field of Ruin
 2 Censor
-3 Fabled Passage
 3 Drowned Catacomb
+3 Fabled Passage
 3 Censor
 1 Reckoner Bankbuster
 1 Malakir Rebirth
 1 Whir of Invention
-1 Blood Fountain
 1 Sai, Master Thopterist
 1 Metallic Rebuke
 1 Ugin, the Spirit Dragon
@@ -56,6 +55,7 @@
 1 Cascading Cataracts
 1 Golos, Tireless Pilgrim
 1 Battle at the Bridge
+1 Blood Fountain
 1 Inventors' Fair
 1 Temple of Deceit
 1 Tezzeret, Master of the Bridge
@@ -71,27 +71,27 @@
 1 Emrakul, the Promised End
 1 Tezzeret, Betrayer of Flesh
 1 Rona's Vortex
-1 Arcane Proxy
-1 Raffine's Tower
-1 Wash Away
 1 Liberator, Urza's Battlethopter
+1 Wash Away
+1 Arcane Proxy
 1 Blast Zone
-1 Nashi, Moon Sage's Scion
 1 Micromancer
-1 Ashnod, Flesh Mechanist
 1 Multiple Choice
+1 Raffine's Tower
 1 Secrets of the Key
+1 Nashi, Moon Sage's Scion
 1 Emry, Lurker of the Loch
 1 Hall of Tagsin
 1 Crumbling Vestige
 1 Noxious Gearhulk
+1 Ashnod, Flesh Mechanist
 1 Treasure Map
 2 Tezzeret, Betrayer of Flesh
 2 Arcane Proxy
-2 Raffine's Tower
 2 Micromancer
 2 Emry, Lurker of the Loch
 2 Treasure Map
+2 Raffine's Tower
 2 Ashnod, Flesh Mechanist
 3 Treasure Vault
 3 Micromancer
@@ -121,10 +121,10 @@
 1 Hedron Archive
 2 Ugin, the Ineffable
 2 Sai, Master Thopterist
-2 Blood Fountain
 2 Inscribed Tablet
 2 The Stone Brain
 2 Oblivion Sower
+2 Blood Fountain
 2 Yahenni's Expertise
 3 Sai, Master Thopterist
 3 Thran Spider
@@ -134,31 +134,31 @@
 3 Drown in the Loch
 3 Misery's Shadow
 1 Founding the Third Path
-1 Phyrexian Fleshgorger
 1 Chart a Course
+1 Phyrexian Fleshgorger
 1 Extinction Event
 2 Chart a Course
 2 Malakir Rebirth
 2 Phyrexian Fleshgorger
 3 Phyrexian Fleshgorger
 3 Chart a Course
-1 Opt
+4 Treasure Cruise
 1 Saw It Coming
-1 Liliana, the Last Hope
+1 Opt
 1 Tolarian Terror
+1 Liliana, the Last Hope
 1 Tenacious Underdog
 2 Opt
-2 Tolarian Terror
 2 Saw It Coming
+2 Tolarian Terror
 2 Liliana, the Last Hope
 3 Opt
 3 Tolarian Terror
-4 Drowned Catacomb
-4 Censor
 4 Opt
-4 Tolarian Terror
+4 Drowned Catacomb
 4 Fabled Passage
-4 Treasure Cruise
+4 Censor
+4 Tolarian Terror
 1 Jace, Vryn's Prodigy
 2 Kaito Shizuki
 2 Jace, Vryn's Prodigy
