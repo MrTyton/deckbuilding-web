@@ -1,34 +1,33 @@
-1 Razortide Bridge
 3 Patchwork Automaton
+1 Razortide Bridge
 4 Patchwork Automaton
-2 Razortide Bridge
 2 Nettlecyst
 1 Pithing Needle
 1 Tanglepool Bridge
+2 Razortide Bridge
 1 Spire of Industry
 2 Tanglepool Bridge
-3 Razortide Bridge
 1 Hallowed Fountain
 1 Seachrome Coast
 2 Seachrome Coast
-3 Treasure Vault
-1 Expedition Map
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
+3 Razortide Bridge
+3 Treasure Vault
+1 Expedition Map
 1 Flooded Strand
 1 Urza, Lord High Artificer
 2 Urza, Lord High Artificer
 3 Urza, Lord High Artificer
-3 Forging the Anchor
-2 Hallowed Fountain
 4 Esper Sentinel
+2 Hallowed Fountain
+1 Portable Hole
+2 Portable Hole
 4 Razortide Bridge
 1 Moonsnare Prototype
 2 Moonsnare Prototype
 3 Moonsnare Prototype
-1 Portable Hole
-2 Portable Hole
 1 Metallic Rebuke
 2 Metallic Rebuke
 2 Spire of Industry
@@ -38,63 +37,41 @@
 3 Seachrome Coast
 1 Plains
 3 Portable Hole
-1 Ethersworn Sphinx
-4 Moonsnare Prototype
-1 Glimmervoid
-4 Forging the Anchor
-1 The Reality Chip
 1 Soul-Guide Lantern
-4 Nettlecyst
-4 Urza, Lord High Artificer
-3 Hallowed Fountain
-4 Seachrome Coast
 1 Kaldra Compleat
 1 Stoneforge Mystic
-1 Silverbluff Bridge
-2 Silverbluff Bridge
-1 Emry, Lurker of the Loch
-2 Emry, Lurker of the Loch
-1 Mishra's Bauble
 2 Stoneforge Mystic
-1 Polluted Delta
-3 Island
-3 Flooded Strand
-4 Flooded Strand
-4 Hallowed Fountain
-3 Tanglepool Bridge
-4 Tanglepool Bridge
-1 Inkmoth Nexus
 1 Windswept Heath
 1 Marsh Flats
 1 Arid Mesa
 1 Field of Ruin
+1 Thraben Inspector
 1 Ephemerate
 1 Snow-Covered Plains
 1 March of Otherworldly Light
 1 Power Conduit
 1 The Restoration of Eiganjo
 1 Solitude
-1 Thraben Inspector
 1 Smuggler's Copter
 2 Windswept Heath
 2 March of Otherworldly Light
-2 Snow-Covered Plains
 2 Field of Ruin
 2 Marsh Flats
+2 Snow-Covered Plains
+2 Thraben Inspector
 2 Ephemerate
 2 Smuggler's Copter
-2 Thraben Inspector
 2 The Restoration of Eiganjo
 2 Solitude
 2 Power Conduit
 2 Arid Mesa
 3 The Restoration of Eiganjo
-3 Snow-Covered Plains
 3 Marsh Flats
+3 Snow-Covered Plains
 3 Windswept Heath
+3 Thraben Inspector
 3 Field of Ruin
 3 Ephemerate
-3 Thraben Inspector
 3 Solitude
 3 Stoneforge Mystic
 3 Arid Mesa
@@ -106,6 +83,25 @@
 4 Field of Ruin
 5 Snow-Covered Plains
 6 Snow-Covered Plains
+4 Moonsnare Prototype
+3 Forging the Anchor
+1 The Reality Chip
+4 Nettlecyst
+4 Urza, Lord High Artificer
+3 Hallowed Fountain
+4 Seachrome Coast
+1 Emry, Lurker of the Loch
+2 Emry, Lurker of the Loch
+1 Mishra's Bauble
+1 Polluted Delta
+3 Island
+1 Inkmoth Nexus
+3 Flooded Strand
+4 Flooded Strand
+4 Hallowed Fountain
+1 Glimmervoid
+3 Tanglepool Bridge
+4 Tanglepool Bridge
 3 Emry, Lurker of the Loch
 1 Sai, Master Thopterist
 1 Upheaval
@@ -114,8 +110,8 @@
 2 Mox Amber
 2 Upheaval
 3 Sai, Master Thopterist
-3 Mox Amber
 3 Upheaval
+3 Mox Amber
 4 Island
 4 Sai, Master Thopterist
 5 Island
@@ -124,9 +120,10 @@
 8 Island
 9 Island
 10 Island
+1 Ethersworn Sphinx
+4 Forging the Anchor
 1 Myr Enforcer
 2 Myr Enforcer
-2 Ethersworn Sphinx
 1 Ingenious Smith
 2 Ingenious Smith
 3 Ingenious Smith
@@ -134,13 +131,14 @@
 1 Paradise Mantle
 1 Snow-Covered Island
 3 Spire of Industry
-3 Silverbluff Bridge
+1 Silverbluff Bridge
+2 Silverbluff Bridge
 2 Mishra's Bauble
 3 Mishra's Bauble
 1 Cliffhaven Kitesail
 2 Otawara, Soaring City
 2 Relic of Progenitus
-2 Glimmervoid
+2 Ethersworn Sphinx
 2 Shadowspear
 2 Snow-Covered Island
 3 Snow-Covered Island
@@ -152,6 +150,18 @@
 4 Ingenious Smith
 1 Mishra's Research Desk
 4 Treasure Vault
+1 Galvanic Blast
+1 Boom/Bust
+2 Galvanic Blast
+2 Boom/Bust
+3 Galvanic Blast
+3 Boom/Bust
+3 Silverbluff Bridge
+4 Galvanic Blast
+4 Mishra's Bauble
+4 Boom/Bust
+4 Silverbluff Bridge
+4 Spire of Industry
 1 Lightning Greaves
 1 Etched Champion
 1 Chalice of the Void
@@ -163,17 +173,6 @@
 3 Paradise Mantle
 3 Inkmoth Nexus
 4 Inkmoth Nexus
-1 Galvanic Blast
-1 Boom/Bust
-2 Galvanic Blast
-2 Boom/Bust
-3 Galvanic Blast
-3 Boom/Bust
-4 Galvanic Blast
-4 Mishra's Bauble
-4 Silverbluff Bridge
-4 Spire of Industry
-4 Boom/Bust
 4 Portable Hole
 1 Breeding Pool
 1 Ledger Shredder

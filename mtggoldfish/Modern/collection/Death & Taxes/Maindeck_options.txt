@@ -45,9 +45,9 @@
 3 Blast Zone
 1 Ambitious Farmhand
 2 Ambitious Farmhand
+1 Forest
 1 Temple Garden
 1 Windswept Heath
-1 Forest
 2 Windswept Heath
 3 Windswept Heath
 4 Windswept Heath
@@ -75,20 +75,20 @@
 2 Arid Mesa
 1 Jetmir's Garden
 4 Urza's Saga
+1 Springleaf Drum
 1 Yavimaya, Cradle of Growth
+1 Flagstones of Trokair
 1 Knight of the Reliquary
 1 Endurance
 1 Elvish Reclaimer
-1 Springleaf Drum
-1 Flagstones of Trokair
+2 Flagstones of Trokair
 2 Temple Garden
 2 Knight of the Reliquary
 2 Elvish Reclaimer
-2 Flagstones of Trokair
+3 Flagstones of Trokair
 3 Knight of the Reliquary
 3 Temple Garden
 3 Elvish Reclaimer
-3 Flagstones of Trokair
 4 Knight of the Reliquary
 4 Elvish Reclaimer
 1 Prismatic Ending
@@ -98,6 +98,7 @@
 2 Queen Kayla bin-Kroog
 3 Inspiring Vantage
 1 Fiery Islet
+1 Imperial Recruiter
 1 Sword of Feast and Famine
 1 Snow-Covered Mountain
 1 Battlefield Forge
@@ -105,7 +106,6 @@
 1 Hallowed Fountain
 1 Flooded Strand
 1 Magus of the Moon
-1 Imperial Recruiter
 1 Fury
 1 Steam Vents
 1 Scalding Tarn
@@ -113,13 +113,13 @@
 1 Meddling Mage
 1 Fervent Champion
 1 Soulherder
+2 Imperial Recruiter
 2 Flooded Strand
 2 Magus of the Moon
 2 Fervent Champion
 2 Meddling Mage
 2 Ranger-Captain of Eos
 2 Scalding Tarn
-2 Imperial Recruiter
 2 Fury
 3 Sacred Foundry
 3 Fervent Champion
@@ -153,18 +153,17 @@
 2 Eladamri's Call
 3 Prismatic Ending
 3 Eladamri's Call
-4 Prismatic Ending
 4 Flagstones of Trokair
+4 Prismatic Ending
 4 Eladamri's Call
 1 Timeless Dragon
 3 Tectonic Edge
 4 Tectonic Edge
-1 Titania, Voice of Gaea
-1 Argoth, Sanctum of Nature
 1 Valakut, the Molten Pinnacle
 1 Dryad of the Ilysian Grove
 1 Brutal Cathar
 1 Noble Hierarch
+1 Argoth, Sanctum of Nature
 1 Marsh Flats
 1 Wooded Foothills
 1 Collected Company
@@ -172,9 +171,10 @@
 1 Thespian's Stage
 1 Misty Rainforest
 1 Courser of Kruphix
+1 Titania, Voice of Gaea
+2 Endurance
 2 Forest
 2 Dryad of the Ilysian Grove
-2 Endurance
 2 Noble Hierarch
 2 Courser of Kruphix
 2 Collected Company

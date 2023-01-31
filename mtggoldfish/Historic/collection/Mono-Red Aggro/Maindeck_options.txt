@@ -122,12 +122,12 @@
 2 Conspicuous Snoop
 2 Hobgoblin Bandit Lord
 2 Goblin Warchief
+3 Conspicuous Snoop
 3 Goblin Matron
 3 Muxus, Goblin Grandee
 3 Goblin Chieftain
 3 Wily Goblin
 3 Goblin Warchief
-3 Conspicuous Snoop
 3 Irencrag Feat
 3 Krenko, Mob Boss
 4 Goblin Warchief
@@ -161,9 +161,9 @@
 4 Festival Crasher
 4 Kiln Fiend
 1 Mechanized Warfare
+1 Squee, Dubious Monarch
 1 Krenko, Tin Street Kingpin
 1 Feldon, Ronom Excavator
-1 Squee, Dubious Monarch
 1 Toralf's Disciple
 1 Mephit's Enthusiasm
 2 Mechanized Warfare
@@ -177,15 +177,15 @@
 4 Toralf's Disciple
 4 Mephit's Enthusiasm
 1 Urabrask, Heretic Praetor
-1 Chandra, Acolyte of Flame
 1 Thundering Rebuke
+1 Chandra, Acolyte of Flame
 1 Goro-Goro, Disciple of Ryusei
 1 Roil Eruption
 2 Urabrask, Heretic Praetor
-2 Chandra, Acolyte of Flame
 2 Chandra, Torch of Defiance
 2 Thundering Rebuke
 2 Roil Eruption
+2 Chandra, Acolyte of Flame
 2 Goro-Goro, Disciple of Ryusei
 3 Thundering Rebuke
 3 Chandra, Acolyte of Flame
@@ -194,29 +194,29 @@
 4 Goro-Goro, Disciple of Ryusei
 4 Roil Eruption
 1 Rockfall Vale
-1 Cragcrown Pathway
 1 Sheltered Thicket
 1 Combat Celebrant
-1 Rootbound Crag
 1 Swamp
+1 Cragcrown Pathway
 1 Stomping Ground
-2 Rockfall Vale
-2 Cragcrown Pathway
-2 Sheltered Thicket
-2 Combat Celebrant
+1 Rootbound Crag
 2 Rootbound Crag
+2 Sheltered Thicket
+2 Rockfall Vale
+2 Combat Celebrant
 2 Swamp
 2 Stomping Ground
-3 Cragcrown Pathway
-3 Rootbound Crag
+2 Cragcrown Pathway
 3 Rockfall Vale
+3 Rootbound Crag
 3 Swamp
 3 Stomping Ground
+3 Cragcrown Pathway
 4 Swamp
-4 Cragcrown Pathway
-4 Stomping Ground
 4 Rockfall Vale
 4 Rootbound Crag
+4 Stomping Ground
+4 Cragcrown Pathway
 5 Swamp
 6 Swamp
 7 Swamp
@@ -225,8 +225,8 @@
 1 Risk Factor
 1 Dreadhorde Arcanist
 1 Big Score
+2 Dreadhorde Arcanist
 2 Cathartic Pyre
 2 Big Score
-2 Dreadhorde Arcanist
 4 Shock
 21 Mountain
