@@ -70,13 +70,13 @@
 2 Polluted Delta
 1 Daze
 2 Daze
+1 Umezawa's Jitte
 1 Aether Vial
 1 Spellseeker
 1 Venser, Shaper Savant
 1 Recruiter of the Guard
 1 Skyclave Apparition
 1 Vendilion Clique
-1 Umezawa's Jitte
 1 March of Otherworldly Light
 1 Ephemerate
 1 Stoneforge Mystic
@@ -97,17 +97,17 @@
 4 Stoneforge Mystic
 4 Recruiter of the Guard
 1 Steam Vents
-1 Archmage's Charm
 1 Meekstone
 1 Arid Mesa
+1 Archmage's Charm
 1 Dress Down
 2 Dress Down
 2 Subtlety
 3 Narset, Parter of Veils
 1 Boseiju, Who Endures
-1 Forest
 1 Colossal Skyturtle
 1 Cast Out
+1 Forest
 1 Savannah
 1 Tropical Island
 1 Replenish
@@ -123,9 +123,8 @@
 3 Terminus
 3 Ancient Tomb
 4 Terminus
-4 Wasteland
-1 Aether Spellbomb
 1 Expedition Map
+1 Aether Spellbomb
 1 Lightning Bolt
 1 Phyrexian Dreadnought
 2 Brazen Borrower
@@ -137,13 +136,13 @@
 4 Lightning Bolt
 1 Dragon's Rage Channeler
 1 Predict
-1 Monastery Mentor
 1 Ledger Shredder
+1 Monastery Mentor
 1 Murktide Regent
 1 Mishra's Bauble
-2 Ledger Shredder
 2 Dragon's Rage Channeler
 2 Predict
+2 Ledger Shredder
 2 Monastery Mentor
 2 Mishra's Bauble
 2 Murktide Regent
@@ -152,7 +151,6 @@
 4 Dragon's Rage Channeler
 4 Daze
 4 Currency Converter
-5 Snow-Covered Island
 1 Suspend
 1 Delay
 2 Suspend
@@ -163,3 +161,5 @@
 4 Plains
 4 Suspend
 4 Delay
+5 Snow-Covered Island
+4 Wasteland

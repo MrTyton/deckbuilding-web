@@ -1,46 +1,51 @@
-3 Patchwork Automaton
-1 Razortide Bridge
 4 Patchwork Automaton
-2 Nettlecyst
-1 Pithing Needle
-1 Tanglepool Bridge
-2 Razortide Bridge
+2 Forging the Anchor
+1 Razortide Bridge
 1 Spire of Industry
+2 Razortide Bridge
+1 Tanglepool Bridge
 2 Tanglepool Bridge
+2 Welding Jar
+1 Haywire Mite
 1 Hallowed Fountain
 1 Seachrome Coast
-2 Seachrome Coast
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
+2 Seachrome Coast
 3 Razortide Bridge
-3 Treasure Vault
-1 Expedition Map
+1 Pithing Needle
+4 Esper Sentinel
 1 Flooded Strand
 1 Urza, Lord High Artificer
 2 Urza, Lord High Artificer
 3 Urza, Lord High Artificer
-4 Esper Sentinel
-2 Hallowed Fountain
 1 Portable Hole
 2 Portable Hole
-4 Razortide Bridge
+2 Hallowed Fountain
 1 Moonsnare Prototype
 2 Moonsnare Prototype
 3 Moonsnare Prototype
-1 Metallic Rebuke
-2 Metallic Rebuke
+4 Razortide Bridge
+1 Plains
+3 Portable Hole
 2 Spire of Industry
-1 Haywire Mite
 2 Flooded Strand
 3 Nettlecyst
 3 Seachrome Coast
-1 Plains
-3 Portable Hole
 1 Soul-Guide Lantern
+3 Treasure Vault
 1 Kaldra Compleat
 1 Stoneforge Mystic
 2 Stoneforge Mystic
+1 Power Conduit
+1 The Restoration of Eiganjo
+2 The Restoration of Eiganjo
+2 Power Conduit
+3 The Restoration of Eiganjo
+3 Stoneforge Mystic
+4 The Restoration of Eiganjo
+4 Stoneforge Mystic
 1 Windswept Heath
 1 Marsh Flats
 1 Arid Mesa
@@ -49,8 +54,6 @@
 1 Ephemerate
 1 Snow-Covered Plains
 1 March of Otherworldly Light
-1 Power Conduit
-1 The Restoration of Eiganjo
 1 Solitude
 1 Smuggler's Copter
 2 Windswept Heath
@@ -61,11 +64,8 @@
 2 Thraben Inspector
 2 Ephemerate
 2 Smuggler's Copter
-2 The Restoration of Eiganjo
 2 Solitude
-2 Power Conduit
 2 Arid Mesa
-3 The Restoration of Eiganjo
 3 Marsh Flats
 3 Snow-Covered Plains
 3 Windswept Heath
@@ -73,45 +73,49 @@
 3 Field of Ruin
 3 Ephemerate
 3 Solitude
-3 Stoneforge Mystic
 3 Arid Mesa
 4 Solitude
 4 Snow-Covered Plains
-4 The Restoration of Eiganjo
 4 Thraben Inspector
-4 Stoneforge Mystic
 4 Field of Ruin
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 4 Moonsnare Prototype
+1 Glimmervoid
+3 Tanglepool Bridge
+1 Expedition Map
 3 Forging the Anchor
 1 The Reality Chip
 4 Nettlecyst
 4 Urza, Lord High Artificer
+1 Metallic Rebuke
+2 Metallic Rebuke
 3 Hallowed Fountain
 4 Seachrome Coast
-1 Emry, Lurker of the Loch
-2 Emry, Lurker of the Loch
+1 Ingenious Smith
+2 Ingenious Smith
+3 Ingenious Smith
+1 Silverbluff Bridge
+2 Silverbluff Bridge
 1 Mishra's Bauble
 1 Polluted Delta
-3 Island
-1 Inkmoth Nexus
 3 Flooded Strand
 4 Flooded Strand
 4 Hallowed Fountain
-1 Glimmervoid
-3 Tanglepool Bridge
 4 Tanglepool Bridge
+1 Emry, Lurker of the Loch
+2 Emry, Lurker of the Loch
 3 Emry, Lurker of the Loch
-1 Sai, Master Thopterist
-1 Upheaval
 1 Mox Amber
-2 Sai, Master Thopterist
+1 Upheaval
+1 Sai, Master Thopterist
 2 Mox Amber
+2 Sai, Master Thopterist
 2 Upheaval
 3 Sai, Master Thopterist
-3 Upheaval
+3 Island
 3 Mox Amber
+3 Upheaval
 4 Island
 4 Sai, Master Thopterist
 5 Island
@@ -121,59 +125,43 @@
 9 Island
 10 Island
 1 Ethersworn Sphinx
-4 Forging the Anchor
 1 Myr Enforcer
 2 Myr Enforcer
-1 Ingenious Smith
-2 Ingenious Smith
-3 Ingenious Smith
+4 Forging the Anchor
 3 Metallic Rebuke
-1 Paradise Mantle
-1 Snow-Covered Island
 3 Spire of Industry
-1 Silverbluff Bridge
-2 Silverbluff Bridge
-2 Mishra's Bauble
-3 Mishra's Bauble
-1 Cliffhaven Kitesail
-2 Otawara, Soaring City
-2 Relic of Progenitus
-2 Ethersworn Sphinx
-2 Shadowspear
-2 Snow-Covered Island
-3 Snow-Covered Island
-1 Reality Heist
-2 Reality Heist
-3 Reality Heist
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-4 Ingenious Smith
-1 Mishra's Research Desk
-4 Treasure Vault
 1 Galvanic Blast
-1 Boom/Bust
 2 Galvanic Blast
-2 Boom/Bust
 3 Galvanic Blast
-3 Boom/Bust
 3 Silverbluff Bridge
 4 Galvanic Blast
+4 Silverbluff Bridge
+4 Portable Hole
+4 Ingenious Smith
+2 Mishra's Bauble
+3 Mishra's Bauble
+1 Inkmoth Nexus
+1 Paradise Mantle
+2 Otawara, Soaring City
+1 Etched Champion
+1 Fiery Islet
+2 Fiery Islet
+2 Relic of Progenitus
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+2 Ethersworn Sphinx
+2 Shadowspear
+1 Snow-Covered Island
+2 Snow-Covered Island
+3 Snow-Covered Island
+1 Mishra's Research Desk
+4 Treasure Vault
+1 Boom/Bust
+2 Boom/Bust
+3 Boom/Bust
 4 Mishra's Bauble
 4 Boom/Bust
-4 Silverbluff Bridge
 4 Spire of Industry
-1 Lightning Greaves
-1 Etched Champion
-1 Chalice of the Void
-1 Arcbound Ravager
-2 Chalice of the Void
-2 Paradise Mantle
-2 Inkmoth Nexus
-2 Arcbound Ravager
-3 Paradise Mantle
-3 Inkmoth Nexus
-4 Inkmoth Nexus
-4 Portable Hole
 1 Breeding Pool
 1 Ledger Shredder
 1 Nihil Spellbomb
@@ -185,12 +173,12 @@
 1 Academy Manufactor
 2 Ledger Shredder
 2 Haywire Mite
-2 Academy Manufactor
 2 Watery Grave
 2 The Underworld Cookbook
 2 Asmoranomardicadaistinaculdacar
 2 Ovalchase Daredevil
 2 Polluted Delta
+2 Academy Manufactor
 3 Ledger Shredder
 3 Watery Grave
 3 Polluted Delta
@@ -202,9 +190,27 @@
 4 Polluted Delta
 4 Watery Grave
 4 Asmoranomardicadaistinaculdacar
+1 Lightning Greaves
+1 Eiganjo, Seat of the Empire
+1 Dispatch
+2 Plains
+2 Dispatch
+3 Dispatch
+3 Plains
+3 Power Conduit
+4 Dispatch
+4 Power Conduit
+4 Plains
+5 Plains
+6 Plains
+7 Plains
+8 Plains
+9 Plains
+10 Plains
+11 Plains
 1 Silent Clearing
+1 Sigarda's Aid
 1 Spell Pierce
 1 Blacksmith's Skill
 1 Puresteel Paladin
-1 Sigarda's Aid
 1 Giver of Runes
