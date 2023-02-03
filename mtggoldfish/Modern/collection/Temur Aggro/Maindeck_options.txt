@@ -1,20 +1,19 @@
+1 Forest
 3 Wooded Foothills
-2 Stomping Ground
 4 Scalding Tarn
 2 Spirebluff Canal
+4 Urza's Saga
 1 Mana Leak
 2 Mana Leak
 2 Fable of the Mirror-Breaker
 2 Spell Pierce
-4 Urza's Saga
 3 Misty Rainforest
-3 Mana Leak
 4 Lightning Bolt
+3 Mana Leak
+1 Pyrite Spellbomb
 4 Wooded Foothills
 1 Spell Snare
 1 Soul-Guide Lantern
-1 Pyrite Spellbomb
-1 Ketria Triome
 1 Experimental Synthesizer
 1 Shrapnel Blast
 1 Galvanic Blast
@@ -25,21 +24,23 @@
 3 Shrapnel Blast
 3 Galvanic Blast
 4 Experimental Synthesizer
+1 Ketria Triome
+1 Bloodstained Mire
+2 Bloodstained Mire
+1 Arid Mesa
 3 Fable of the Mirror-Breaker
 1 Sokenzan, Crucible of Defiance
 1 Den of the Bugbear
-1 Bloodstained Mire
-2 Bloodstained Mire
 3 Stomping Ground
 4 Shrapnel Blast
 4 Galvanic Blast
-1 Arid Mesa
-1 Otawara, Soaring City
 2 Mountain
 1 Haywire Mite
+1 Otawara, Soaring City
 4 Ledger Shredder
 4 Misty Rainforest
 3 Spirebluff Canal
+1 Copperline Gorge
 1 Snow-Covered Forest
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
@@ -56,6 +57,11 @@
 2 Traverse the Ulvenwald
 3 Traverse the Ulvenwald
 4 Traverse the Ulvenwald
+1 Chromatic Star
+2 Arid Mesa
+2 Copperline Gorge
+3 Mountain
+4 Mountain
 1 Counterspell
 2 Counterspell
 3 Counterspell
@@ -65,24 +71,18 @@
 2 Consider
 3 Consider
 4 Consider
-1 Copperline Gorge
 1 Unlicensed Hearse
 1 Tireless Tracker
 1 Pithing Needle
 1 Boseiju, Who Shelters All
 2 Boseiju, Who Shelters All
+1 Bomat Courier
+3 Arid Mesa
+3 Copperline Gorge
 1 Blood Moon
 1 The Royal Scions
 2 Blood Moon
 3 Blood Moon
-1 Bomat Courier
-1 Chromatic Star
-2 Arid Mesa
-2 Copperline Gorge
-3 Arid Mesa
-3 Copperline Gorge
-3 Mountain
-4 Mountain
 3 Bloodstained Mire
 4 Bloodstained Mire
 1 Murktide Regent
@@ -90,6 +90,9 @@
 2 Murktide Regent
 3 Murktide Regent
 4 Murktide Regent
+1 Relic of Progenitus
+1 Inscribed Tablet
+5 Mountain
 1 Abundant Harvest
 1 Shardless Agent
 1 Fire/Ice
