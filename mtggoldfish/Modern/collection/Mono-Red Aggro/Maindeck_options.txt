@@ -1,12 +1,14 @@
 2 Gut Shot
 3 Scalding Tarn
 9 Mountain
+3 Arid Mesa
+4 Arid Mesa
 3 Bloodstained Mire
-1 Ragavan, Nimble Pilferer
 10 Mountain
+1 Ragavan, Nimble Pilferer
+11 Mountain
 1 Blood Moon
 2 Ragavan, Nimble Pilferer
-11 Mountain
 1 Ramunap Ruins
 2 Ramunap Ruins
 1 Fury
@@ -33,30 +35,28 @@
 4 Ragavan, Nimble Pilferer
 4 Eidolon of the Great Revel
 4 Ramunap Ruins
-1 Bedlam Reveler
 2 Sokenzan, Crucible of Defiance
 3 Bonecrusher Giant
 4 Fury
 4 Seasoned Pyromancer
 1 Chandra, Torch of Defiance
-3 Arid Mesa
-4 Arid Mesa
+1 Bedlam Reveler
 12 Mountain
 1 Torbran, Thane of Red Fell
 2 Torbran, Thane of Red Fell
 1 Chandra, Fire Artisan
 2 Chandra, Torch of Defiance
 1 Magus of the Moon
+1 Goblin Blast-Runner
+2 Goblin Blast-Runner
+3 Goblin Blast-Runner
+4 Goblin Blast-Runner
 1 Den of the Bugbear
 1 Chandra, Dressed to Kill
 2 Bedlam Reveler
 4 Bloodstained Mire
-1 Goblin Blast-Runner
-2 Goblin Blast-Runner
 3 Wooded Foothills
-3 Goblin Blast-Runner
 4 Wooded Foothills
-4 Goblin Blast-Runner
 1 Mine Collapse
 1 Reckless Impulse
 2 Reckless Impulse
@@ -74,9 +74,9 @@
 4 Leyline of Combustion
 1 Shatterskull Smashing
 1 Squee, Dubious Monarch
-1 Sunbaked Canyon
 4 Scalding Tarn
-1 Unholy Heat
+1 Seal of Fire
+1 Sunbaked Canyon
 1 Lava Spike
 2 Lava Spike
 3 Lava Spike
@@ -84,15 +84,14 @@
 1 Apostle's Blessing
 2 Apostle's Blessing
 1 Mutavault
+1 Shard Volley
+2 Shard Volley
 3 Light Up the Night
 3 Chandra, Torch of Defiance
 4 Chandra, Torch of Defiance
-1 Mishra's Factory
-1 Crash Through
-1 Firebolt
-2 Mishra's Factory
-2 Firebolt
 2 Chandra, Dressed to Kill
+1 Fiery Islet
+2 Seal of Fire
 1 Abbot of Keral Keep
 1 Forked Bolt
 1 Wayward Guide-Beast
@@ -103,9 +102,7 @@
 4 Forked Bolt
 4 Wayward Guide-Beast
 13 Mountain
-1 Seal of Fire
-2 Seal of Fire
-1 Fiery Islet
+1 Unholy Heat
 1 Relic of Progenitus
 1 Pillar of Flame
 1 Furor of the Bitten
@@ -116,19 +113,23 @@
 3 Furor of the Bitten
 3 Pillar of Flame
 14 Mountain
+1 Pyrite Spellbomb
 1 Grapeshot
 2 Grapeshot
 1 Goblin Rabblemaster
 1 Legion Warboss
 2 Goblin Rabblemaster
-1 Scavenger Grounds
 1 Gemstone Caverns
+1 Scavenger Grounds
 2 Gemstone Caverns
 2 Scavenger Grounds
-1 Shard Volley
-2 Shard Volley
 3 Seal of Fire
+1 Mishra's Factory
+1 Firebolt
+1 Crash Through
 2 Sunbaked Canyon
+2 Mishra's Factory
+2 Firebolt
 3 Sunbaked Canyon
 1 Tarfire
 1 Infuriate
@@ -149,22 +150,10 @@
 2 Kumano Faces Kakkazan
 2 Rift Bolt
 3 Den of the Bugbear
-3 Kumano Faces Kakkazan
 3 Unholy Heat
+3 Kumano Faces Kakkazan
 3 Goblin Guide
 3 Rift Bolt
 4 Unholy Heat
 4 Rift Bolt
 4 Goblin Guide
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-2 Fiery Islet
-3 Snow-Covered Mountain
-3 Fiery Islet
-4 Snow-Covered Mountain
-5 Snow-Covered Mountain
-6 Snow-Covered Mountain
-7 Snow-Covered Mountain
-8 Snow-Covered Mountain
-9 Snow-Covered Mountain
-10 Snow-Covered Mountain

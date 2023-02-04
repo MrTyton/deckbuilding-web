@@ -1,40 +1,28 @@
-4 Patchwork Automaton
-2 Forging the Anchor
 1 Razortide Bridge
 1 Spire of Industry
+2 Nettlecyst
+2 Forging the Anchor
 2 Razortide Bridge
+2 Welding Jar
 1 Tanglepool Bridge
 2 Tanglepool Bridge
-2 Welding Jar
 1 Haywire Mite
 1 Hallowed Fountain
-1 Seachrome Coast
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
-2 Seachrome Coast
 3 Razortide Bridge
+1 Seachrome Coast
 1 Pithing Needle
-4 Esper Sentinel
-1 Flooded Strand
 1 Urza, Lord High Artificer
 2 Urza, Lord High Artificer
 3 Urza, Lord High Artificer
+2 Seachrome Coast
+4 Esper Sentinel
 1 Portable Hole
 2 Portable Hole
-2 Hallowed Fountain
-1 Moonsnare Prototype
-2 Moonsnare Prototype
-3 Moonsnare Prototype
-4 Razortide Bridge
-1 Plains
-3 Portable Hole
-2 Spire of Industry
-2 Flooded Strand
-3 Nettlecyst
-3 Seachrome Coast
 1 Soul-Guide Lantern
-3 Treasure Vault
+2 Hallowed Fountain
 1 Kaldra Compleat
 1 Stoneforge Mystic
 2 Stoneforge Mystic
@@ -44,11 +32,10 @@
 2 Power Conduit
 3 The Restoration of Eiganjo
 3 Stoneforge Mystic
-4 The Restoration of Eiganjo
 4 Stoneforge Mystic
-1 Windswept Heath
 1 Marsh Flats
 1 Arid Mesa
+1 Windswept Heath
 1 Field of Ruin
 1 Thraben Inspector
 1 Ephemerate
@@ -63,16 +50,14 @@
 2 Marsh Flats
 2 Thraben Inspector
 2 Ephemerate
-2 Smuggler's Copter
 2 Solitude
 2 Arid Mesa
 3 Arid Mesa
 3 Snow-Covered Plains
 3 Marsh Flats
-3 Windswept Heath
 3 Thraben Inspector
-3 Field of Ruin
 3 Ephemerate
+3 Field of Ruin
 3 Solitude
 4 Solitude
 4 Snow-Covered Plains
@@ -80,29 +65,38 @@
 4 Field of Ruin
 5 Snow-Covered Plains
 6 Snow-Covered Plains
-4 Moonsnare Prototype
-1 Glimmervoid
 3 Tanglepool Bridge
+1 Moonsnare Prototype
+2 Moonsnare Prototype
+3 Moonsnare Prototype
+1 Flooded Strand
+4 Razortide Bridge
+4 The Restoration of Eiganjo
+3 Treasure Vault
+2 Spire of Industry
+1 Plains
+3 Portable Hole
+2 Smuggler's Copter
+3 Windswept Heath
+1 Glimmervoid
 1 Expedition Map
 3 Forging the Anchor
+4 Moonsnare Prototype
+4 Tanglepool Bridge
 1 The Reality Chip
-4 Nettlecyst
-4 Urza, Lord High Artificer
 1 Metallic Rebuke
 2 Metallic Rebuke
-3 Hallowed Fountain
-4 Seachrome Coast
+2 Flooded Strand
+3 Nettlecyst
+3 Seachrome Coast
+4 Urza, Lord High Artificer
+1 Silverbluff Bridge
+2 Silverbluff Bridge
 1 Ingenious Smith
 2 Ingenious Smith
 3 Ingenious Smith
-1 Silverbluff Bridge
-2 Silverbluff Bridge
 1 Mishra's Bauble
-1 Polluted Delta
-3 Flooded Strand
-4 Flooded Strand
-4 Hallowed Fountain
-4 Tanglepool Bridge
+3 Island
 1 Emry, Lurker of the Loch
 2 Emry, Lurker of the Loch
 3 Emry, Lurker of the Loch
@@ -113,7 +107,6 @@
 2 Sai, Master Thopterist
 2 Upheaval
 3 Sai, Master Thopterist
-3 Island
 3 Mox Amber
 3 Upheaval
 4 Island
@@ -128,7 +121,14 @@
 1 Myr Enforcer
 2 Myr Enforcer
 4 Forging the Anchor
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
 3 Metallic Rebuke
+4 Nettlecyst
+3 Hallowed Fountain
+4 Seachrome Coast
+2 Otawara, Soaring City
+2 Relic of Progenitus
 3 Spire of Industry
 1 Galvanic Blast
 2 Galvanic Blast
@@ -136,19 +136,15 @@
 3 Silverbluff Bridge
 4 Galvanic Blast
 4 Silverbluff Bridge
-4 Portable Hole
 4 Ingenious Smith
+4 Portable Hole
+1 Polluted Delta
 2 Mishra's Bauble
 3 Mishra's Bauble
 1 Inkmoth Nexus
-1 Paradise Mantle
-2 Otawara, Soaring City
 1 Etched Champion
 1 Fiery Islet
 2 Fiery Islet
-2 Relic of Progenitus
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
 2 Ethersworn Sphinx
 2 Shadowspear
 1 Snow-Covered Island
@@ -156,6 +152,9 @@
 3 Snow-Covered Island
 1 Mishra's Research Desk
 4 Treasure Vault
+3 Flooded Strand
+4 Flooded Strand
+4 Hallowed Fountain
 1 Boom/Bust
 2 Boom/Bust
 3 Boom/Bust
@@ -190,8 +189,15 @@
 4 Polluted Delta
 4 Watery Grave
 4 Asmoranomardicadaistinaculdacar
-1 Lightning Greaves
+1 Waterlogged Grove
+1 Oboro, Palace in the Clouds
+1 Flayer Husk
+2 Flayer Husk
+3 Relic of Progenitus
+3 Flayer Husk
+4 Relic of Progenitus
 1 Eiganjo, Seat of the Empire
+1 Lightning Greaves
 1 Dispatch
 2 Plains
 2 Dispatch
@@ -210,7 +216,7 @@
 11 Plains
 1 Silent Clearing
 1 Sigarda's Aid
-1 Spell Pierce
 1 Blacksmith's Skill
+1 Spell Pierce
 1 Puresteel Paladin
 1 Giver of Runes

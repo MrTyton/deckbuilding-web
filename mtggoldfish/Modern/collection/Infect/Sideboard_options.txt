@@ -1,27 +1,27 @@
 2 Kitchen Finks
 3 Kitchen Finks
-3 Necromentia
 1 Nature's Claim
 1 Weather the Storm
+3 Necromentia
 2 Nature's Claim
 1 Thoughtseize
 1 Ashiok, Dream Render
 2 Thoughtseize
+1 Liliana of the Veil
 1 Dismember
 2 Dismember
-1 Liliana of the Veil
 1 Viridian Corrupter
 1 Spell Pierce
-2 Spell Pierce
-1 Void Mirror
-1 Surgical Extraction
-2 Surgical Extraction
-2 Void Mirror
-3 Dismember
 1 Fatal Push
-3 Thoughtseize
 1 Leyline of the Void
 2 Leyline of the Void
+1 Shapers' Sanctuary
+2 Fatal Push
+1 Void Mirror
+2 Spell Pierce
+1 Surgical Extraction
+2 Surgical Extraction
+3 Thoughtseize
 1 Gemrazer
 1 Murderous Cut
 1 Chalice of the Void
@@ -29,17 +29,17 @@
 2 Gemrazer
 1 Tormod's Crypt
 2 Tormod's Crypt
+2 Void Mirror
 3 Void Mirror
-1 Shapers' Sanctuary
-2 Fatal Push
+3 Dismember
 2 Viridian Corrupter
 4 Veil of Summer
 1 Flusterstorm
 2 Flusterstorm
 2 Shapers' Sanctuary
-2 Ashiok, Dream Render
 1 Abrupt Decay
 2 Abrupt Decay
+3 Leyline of the Void
 2 Weather the Storm
 1 Mystical Dispute
 1 Wild Defiance
@@ -52,15 +52,7 @@
 1 Grafdigger's Cage
 1 Collector Ouphe
 2 Wild Defiance
-1 Prismatic Ending
-1 Path to Exile
-1 Rest in Peace
-2 Prismatic Ending
-2 Path to Exile
-2 Soul-Guide Lantern
-2 Rest in Peace
-3 Prismatic Ending
-3 Path to Exile
+3 Shapers' Sanctuary
 1 Heroic Intervention
 1 Shadowspear
 2 Heroic Intervention
@@ -69,9 +61,17 @@
 1 Extirpate
 2 Defense Grid
 2 Extirpate
-3 Leyline of the Void
 3 Defense Grid
-3 Shapers' Sanctuary
+1 Path to Exile
+1 Prismatic Ending
+1 Rest in Peace
+2 Prismatic Ending
+2 Path to Exile
+2 Soul-Guide Lantern
+2 Rest in Peace
+3 Prismatic Ending
+3 Path to Exile
+2 Ashiok, Dream Render
 3 Ashiok, Dream Render
 1 Wild Shape
 1 Relic of Progenitus
@@ -82,6 +82,7 @@
 3 Fatal Push
 4 Thoughtseize
 4 Kitchen Finks
+4 Leyline of the Void
 4 Force of Vigor
 1 Ceremonious Rejection
 1 Invisible Stalker
