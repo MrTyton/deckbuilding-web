@@ -1,19 +1,17 @@
 1 Stubborn Denial
 4 Polluted Delta
-2 Murktide Regent
 1 Island
+2 Murktide Regent
+3 Misty Rainforest
 1 Slip Out the Back
 1 Force of Negation
 1 Underground Sea
 2 Underground Sea
-3 Misty Rainforest
+4 Misty Rainforest
 1 Snow-Covered Island
 2 Brazen Borrower
-4 Misty Rainforest
-3 Expressive Iteration
 1 Sylvan Library
-4 Volcanic Island
-2 Slip Out the Back
+4 Tropical Island
 2 Island
 4 Uro, Titan of Nature's Wrath
 1 Scroll of Fate
@@ -23,10 +21,11 @@
 3 Flooded Strand
 4 Flooded Strand
 3 Underground Sea
+3 Expressive Iteration
+4 Volcanic Island
 1 Pyroblast
-4 Tropical Island
 3 Thoughtseize
-1 Snuff Out
+2 Slip Out the Back
 3 Murktide Regent
 3 Island
 1 Bayou
@@ -36,6 +35,7 @@
 3 Urza's Saga
 4 Urza's Saga
 4 Island
+1 Snuff Out
 1 Lazav, the Multifarious
 2 Lazav, the Multifarious
 1 Abrupt Decay
@@ -45,8 +45,6 @@
 2 Torpor Orb
 3 Torpor Orb
 1 Tundra
-1 Kroxa, Titan of Death's Hunger
-2 Kroxa, Titan of Death's Hunger
 4 Expressive Iteration
 1 Minsc & Boo, Timeless Heroes
 2 Minsc & Boo, Timeless Heroes
@@ -65,11 +63,13 @@
 1 Thing in the Ice
 2 Thing in the Ice
 1 Taiga
+1 Kroxa, Titan of Death's Hunger
+2 Kroxa, Titan of Death's Hunger
 1 Grist, the Hunger Tide
 1 Life from the Loam
-1 Assassin's Trophy
 1 Boseiju, Who Endures
 1 Nihil Spellbomb
+1 Assassin's Trophy
 2 Bayou
 3 Tarmogoyf
 1 Flusterstorm
@@ -96,13 +96,14 @@
 1 Pithing Needle
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
+2 Snow-Covered Island
+1 Prismatic Vista
 1 Ethereal Forager
 1 Fury
 1 Hullbreacher
 2 Grist, the Hunger Tide
 1 Fatal Push
 1 Sudden Edict
-2 Snow-Covered Island
 2 Fatal Push
 3 Abrupt Decay
 1 Snow-Covered Plains
@@ -133,15 +134,14 @@
 3 Breeding Pool
 4 Ledger Shredder
 4 Breeding Pool
-1 Prismatic Vista
 1 Mox Diamond
 1 Oblivion Ring
 1 Enlightened Tutor
 1 Strict Proctor
 1 Plains
-2 Plains
 2 Mox Diamond
 2 Prismatic Vista
+2 Plains
 2 Enlightened Tutor
 2 Strict Proctor
 3 Mox Diamond
@@ -152,6 +152,32 @@
 4 Mox Diamond
 4 Enlightened Tutor
 4 Strict Proctor
+1 Preordain
+1 Spell Pierce
+1 Show and Tell
+1 Snow-Covered Forest
+1 Ice-Fang Coatl
+1 Omniscience
+1 Emrakul, the Aeons Torn
+1 Griselbrand
+1 Mosswort Bridge
+2 Omniscience
+2 Emrakul, the Aeons Torn
+2 Ice-Fang Coatl
+2 Show and Tell
+2 Mosswort Bridge
+3 Snow-Covered Island
+3 Emrakul, the Aeons Torn
+3 Show and Tell
+3 Mosswort Bridge
+3 Ice-Fang Coatl
+4 Ice-Fang Coatl
+4 Snow-Covered Island
+4 Emrakul, the Aeons Torn
+4 Show and Tell
+4 Mosswort Bridge
+5 Snow-Covered Island
+6 Snow-Covered Island
 1 Thought Scour
 2 Thought Scour
 6 Island

@@ -67,14 +67,14 @@
 1 Recommission
 1 Wall of Omens
 1 Glasspool Mimic
+1 Time Warp
 1 Collected Company
 1 Deputy of Detention
 1 Aether Channeler
-1 Time Warp
 2 Wall of Omens
 2 Collected Company
-2 Aether Channeler
 2 Time Warp
+2 Aether Channeler
 3 Wall of Omens
 3 Eternal Witness
 3 Aether Channeler
@@ -120,24 +120,6 @@
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
 4 Scalding Tarn
-1 Eladamri's Call
-1 Glacial Fortress
-1 Spell Snare
-1 Consider
-1 Knight of Autumn
-1 Cryptic Command
-1 Hinterland Harbor
-1 Forest
-2 Eladamri's Call
-2 Consider
-3 Breeding Pool
-3 Consider
-3 Eladamri's Call
-4 Snapcaster Mage
-4 Consider
-1 Yavimaya, Cradle of Growth
-3 Spell Queller
-4 Spell Queller
 1 Serra Paragon
 1 Coiling Oracle
 1 Vesperlark
@@ -153,11 +135,29 @@
 2 Sanctum Prelate
 3 Sanctum Prelate
 4 Sanctum Prelate
+1 Yavimaya, Cradle of Growth
+3 Spell Queller
+4 Spell Queller
 1 Spreading Seas
 2 Spreading Seas
 3 Shark Typhoon
 3 Spreading Seas
 4 Shark Typhoon
+1 Eladamri's Call
+1 Glacial Fortress
+1 Spell Snare
+1 Consider
+1 Knight of Autumn
+1 Cryptic Command
+1 Hinterland Harbor
+1 Forest
+2 Eladamri's Call
+2 Consider
+3 Breeding Pool
+3 Consider
+3 Eladamri's Call
+4 Consider
+4 Snapcaster Mage
 1 Utopia Sprawl
 1 Hall of Heliod's Generosity
 1 On Thin Ice
@@ -179,8 +179,8 @@
 2 Calix, Destiny's Hand
 2 Greater Auramancy
 2 Nine Lives
-3 Snow-Covered Plains
 3 Utopia Sprawl
+3 Snow-Covered Plains
 3 Temple Garden
 3 Commune with Spirits
 3 Nine Lives

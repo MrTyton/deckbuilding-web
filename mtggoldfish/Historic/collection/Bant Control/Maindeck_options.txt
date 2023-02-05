@@ -94,16 +94,16 @@
 4 Spara's Headquarters
 1 Deserted Beach
 1 March of Otherworldly Light
-1 Jwari Disruption
 1 Farewell
 1 Fragment Reality
 1 The Wandering Emperor
+1 Jwari Disruption
 1 Endless Detour
 1 Hall of Storm Giants
 2 Deserted Beach
-2 Jwari Disruption
-2 The Wandering Emperor
 2 March of Otherworldly Light
+2 The Wandering Emperor
+2 Jwari Disruption
 2 Endless Detour
 3 Endless Detour
 4 Archmage's Charm
@@ -127,8 +127,8 @@
 4 Forest
 5 Forest
 1 Skyclave Apparition
-1 Kayla's Reconstruction
 1 Soulherder
+1 Kayla's Reconstruction
 1 Prosperous Innkeeper
 1 Militia Bugler
 1 Adarkar Wastes
@@ -222,19 +222,6 @@
 3 Raugrin Triome
 4 Bonecrusher Giant
 4 Raugrin Triome
-1 Ephemerate
-1 Reflector Mage
-1 Knight of Autumn
-1 Dovin's Veto
-2 Deputy of Detention
-2 Glasspool Mimic
-3 Adarkar Wastes
-3 Deputy of Detention
-3 Wall of Blossoms
-3 Plains
-3 Glasspool Mimic
-4 Adarkar Wastes
-4 Plains
 1 Into the North
 1 Snow-Covered Forest
 1 Snow-Covered Island
@@ -256,8 +243,21 @@
 3 Yasharn, Implacable Earth
 3 Into the North
 4 Snow-Covered Forest
-4 Into the North
 4 Snow-Covered Plains
+4 Into the North
+1 Ephemerate
+1 Reflector Mage
+1 Knight of Autumn
+1 Dovin's Veto
+2 Deputy of Detention
+2 Glasspool Mimic
+3 Adarkar Wastes
+3 Deputy of Detention
+3 Wall of Blossoms
+3 Plains
+3 Glasspool Mimic
+4 Adarkar Wastes
+4 Plains
 1 Mana Confluence
 1 Blooming Marsh
 1 Aether Channeler
@@ -279,8 +279,8 @@
 3 Rope Line Attendant
 4 Militia Bugler
 4 Rope Line Attendant
-1 Zagoth Triome
 1 Rewind
+1 Zagoth Triome
 2 Rewind
 3 Rewind
 4 Rewind

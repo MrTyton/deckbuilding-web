@@ -17,8 +17,8 @@
 2 The World Tree
 3 Unholy Heat
 3 Seasoned Pyromancer
-4 Unholy Heat
 4 Coldsteel Heart
+4 Unholy Heat
 4 Mountain
 5 Mountain
 6 Mountain
@@ -132,10 +132,10 @@
 1 Swarm Saboteur
 1 Sulfurous Springs
 1 Dragonskull Summit
+2 Kroxa, Titan of Death's Hunger
 2 Dragonskull Summit
 2 Kolaghan's Command
 2 Murderous Rider
-2 Kroxa, Titan of Death's Hunger
 2 Swarm Saboteur
 2 Black Market Connections
 2 Sulfurous Springs
@@ -164,8 +164,8 @@
 1 Yahenni's Expertise
 1 Phyrexian Fleshgorger
 2 Phyrexian Fleshgorger
-2 Malakir Rebirth
 2 Invoke Despair
+2 Malakir Rebirth
 2 Yahenni's Expertise
 3 Castle Locthwain
 3 Hive of the Eye Tyrant
@@ -230,8 +230,8 @@
 15 Mountain
 2 Heartless Act
 1 Snow-Covered Swamp
-1 Junji, the Midnight Sky
 1 Acquisitions Expert
+1 Junji, the Midnight Sky
 1 Blood on the Snow
 1 Infernal Grasp
 1 Bojuka Bog
@@ -267,6 +267,7 @@
 14 Snow-Covered Swamp
 15 Snow-Covered Swamp
 16 Snow-Covered Swamp
+1 Lolth, Spider Queen
 1 Nightmare
 1 Warlock Class
 1 Gray Merchant of Asphodel
@@ -275,7 +276,6 @@
 1 Malakir Cullblade
 1 Eternal Thirst
 1 Poison the Cup
-1 Lolth, Spider Queen
 2 Bloodchief's Thirst
 2 Warlock Class
 2 Eternal Thirst

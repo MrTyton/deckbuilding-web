@@ -1,12 +1,9 @@
 1 Razortide Bridge
-1 Spire of Industry
+2 Welding Jar
 2 Nettlecyst
 2 Forging the Anchor
 2 Razortide Bridge
-2 Welding Jar
-1 Tanglepool Bridge
-2 Tanglepool Bridge
-1 Haywire Mite
+1 Spire of Industry
 1 Hallowed Fountain
 1 Esper Sentinel
 2 Esper Sentinel
@@ -14,10 +11,10 @@
 3 Razortide Bridge
 1 Seachrome Coast
 1 Pithing Needle
+2 Seachrome Coast
 1 Urza, Lord High Artificer
 2 Urza, Lord High Artificer
 3 Urza, Lord High Artificer
-2 Seachrome Coast
 4 Esper Sentinel
 1 Portable Hole
 2 Portable Hole
@@ -37,35 +34,36 @@
 1 Arid Mesa
 1 Windswept Heath
 1 Field of Ruin
-1 Thraben Inspector
-1 Ephemerate
 1 Snow-Covered Plains
+1 Ephemerate
 1 March of Otherworldly Light
 1 Solitude
+1 Thraben Inspector
 1 Smuggler's Copter
 2 Windswept Heath
 2 March of Otherworldly Light
+2 Marsh Flats
 2 Field of Ruin
 2 Snow-Covered Plains
-2 Marsh Flats
-2 Thraben Inspector
 2 Ephemerate
+2 Thraben Inspector
 2 Solitude
 2 Arid Mesa
 3 Arid Mesa
-3 Snow-Covered Plains
 3 Marsh Flats
-3 Thraben Inspector
+3 Snow-Covered Plains
 3 Ephemerate
+3 Thraben Inspector
 3 Field of Ruin
 3 Solitude
-4 Solitude
 4 Snow-Covered Plains
 4 Thraben Inspector
+4 Solitude
 4 Field of Ruin
 5 Snow-Covered Plains
 6 Snow-Covered Plains
-3 Tanglepool Bridge
+1 Tanglepool Bridge
+2 Tanglepool Bridge
 1 Moonsnare Prototype
 2 Moonsnare Prototype
 3 Moonsnare Prototype
@@ -73,24 +71,24 @@
 4 Razortide Bridge
 4 The Restoration of Eiganjo
 3 Treasure Vault
+1 Silverbluff Bridge
 2 Spire of Industry
+1 Haywire Mite
 1 Plains
 3 Portable Hole
 2 Smuggler's Copter
 3 Windswept Heath
-1 Glimmervoid
 1 Expedition Map
 3 Forging the Anchor
 4 Moonsnare Prototype
-4 Tanglepool Bridge
 1 The Reality Chip
+3 Tanglepool Bridge
 1 Metallic Rebuke
 2 Metallic Rebuke
 2 Flooded Strand
 3 Nettlecyst
 3 Seachrome Coast
 4 Urza, Lord High Artificer
-1 Silverbluff Bridge
 2 Silverbluff Bridge
 1 Ingenious Smith
 2 Ingenious Smith
@@ -117,6 +115,7 @@
 8 Island
 9 Island
 10 Island
+1 Glimmervoid
 1 Ethersworn Sphinx
 1 Myr Enforcer
 2 Myr Enforcer
@@ -129,6 +128,7 @@
 4 Seachrome Coast
 2 Otawara, Soaring City
 2 Relic of Progenitus
+4 Tanglepool Bridge
 3 Spire of Industry
 1 Galvanic Blast
 2 Galvanic Blast
@@ -138,10 +138,12 @@
 4 Silverbluff Bridge
 4 Ingenious Smith
 4 Portable Hole
+1 Watery Grave
 1 Polluted Delta
 2 Mishra's Bauble
 3 Mishra's Bauble
 1 Inkmoth Nexus
+1 Cliffhaven Kitesail
 1 Etched Champion
 1 Fiery Islet
 2 Fiery Islet
@@ -164,7 +166,6 @@
 1 Breeding Pool
 1 Ledger Shredder
 1 Nihil Spellbomb
-1 Watery Grave
 1 Swamp
 1 The Underworld Cookbook
 1 Ovalchase Daredevil
@@ -205,8 +206,8 @@
 3 Plains
 3 Power Conduit
 4 Dispatch
-4 Power Conduit
 4 Plains
+4 Power Conduit
 5 Plains
 6 Plains
 7 Plains

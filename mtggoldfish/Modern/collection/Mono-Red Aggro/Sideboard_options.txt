@@ -3,31 +3,31 @@
 1 Abrade
 2 Abrade
 1 Pyrite Spellbomb
-2 Pyrite Spellbomb
 3 Dragon's Claw
+4 Shattering Spree
+2 Pyrite Spellbomb
 1 Kozilek's Return
 2 Kozilek's Return
-4 Shattering Spree
 3 Pyrite Spellbomb
-3 Chalice of the Void
 1 Pillage
 2 Pillage
 3 Pillage
+1 Pithing Needle
+3 Chalice of the Void
 1 Smash to Smithereens
 2 Smash to Smithereens
+1 Relic of Progenitus
 1 Ratchet Bomb
-1 Pithing Needle
+1 Engineered Explosives
+2 Relic of Progenitus
+1 Magus of the Moon
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
+2 Magus of the Moon
 1 Apostle's Blessing
 3 Alpine Moon
-1 Magus of the Moon
-1 Engineered Explosives
-2 Magus of the Moon
-1 Relic of Progenitus
-2 Relic of Progenitus
 3 Relic of Progenitus
 1 Searing Blaze
 2 Searing Blaze
@@ -37,6 +37,7 @@
 4 Soul-Guide Lantern
 3 Abrade
 3 Smash to Smithereens
+1 Void Mirror
 1 Torpor Orb
 1 Roiling Vortex
 2 Roiling Vortex
@@ -44,6 +45,8 @@
 1 Stormbreath Dragon
 2 Stormbreath Dragon
 3 Blood Moon
+1 Shadowspear
+2 Void Mirror
 4 Smash to Smithereens
 1 Jaya, Fiery Negotiator
 2 Jaya, Fiery Negotiator
@@ -54,16 +57,15 @@
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 1 Flame Slash
-1 Void Mirror
 2 Flame Slash
-1 Electrostatic Infantry
-2 Electrostatic Infantry
-2 Unholy Heat
 1 Obsidian Charmaw
 1 Shatterstorm
 1 Unlicensed Hearse
 2 Obsidian Charmaw
 2 Unlicensed Hearse
+1 Electrostatic Infantry
+2 Electrostatic Infantry
+2 Unholy Heat
 1 Mine Collapse
 2 Engineered Explosives
 1 Reckless Impulse
@@ -71,12 +73,14 @@
 3 Reckless Impulse
 1 Grafdigger's Cage
 3 Jaya, Fiery Negotiator
-3 Roiling Vortex
 2 Pithing Needle
 3 Ratchet Bomb
+1 The Stone Brain
+3 Void Mirror
+3 Roiling Vortex
 4 Dragon's Claw
-2 Torpor Orb
-4 Pillage
-4 Relic of Progenitus
 3 Tormod's Crypt
 4 Tormod's Crypt
+2 Torpor Orb
+4 Relic of Progenitus
+4 Pillage

@@ -73,10 +73,10 @@
 1 Dragon's Rage Channeler
 2 Snapcaster Mage
 2 Dragon's Rage Channeler
-3 Dragon's Rage Channeler
 3 Snapcaster Mage
-4 Dragon's Rage Channeler
+3 Dragon's Rage Channeler
 4 Unholy Heat
+4 Dragon's Rage Channeler
 3 Marsh Flats
 1 Hive of the Eye Tyrant
 1 Night's Whisper
@@ -87,9 +87,9 @@
 2 Persist
 2 Archon of Cruelty
 2 Tainted Indulgence
+3 Malakir Rebirth
 3 Persist
 3 Archon of Cruelty
-3 Malakir Rebirth
 3 Tainted Indulgence
 4 Archon of Cruelty
 4 Persist
@@ -114,28 +114,17 @@
 1 Sacred Foundry
 2 Blightstep Pathway
 2 Dreadbore
-1 Shriekmaw
 1 Murktide Regent
+1 Shriekmaw
 2 Murktide Regent
 2 Shriekmaw
 1 Sheoldred, the Apocalypse
 2 Ob Nixilis, the Adversary
 2 Sheoldred, the Apocalypse
 3 Ob Nixilis, the Adversary
-3 Fatal Push
 3 Spirebluff Canal
-1 Snow-Covered Island
-1 Seal of Removal
-4 Scalding Tarn
+3 Fatal Push
 4 Blood Crypt
-1 Surgical Extraction
-1 Overgrown Tomb
-1 Strike It Rich
-1 Hidetsugu Consumes All
-2 Verdant Catacombs
-2 Strike It Rich
-3 Verdant Catacombs
-4 Marsh Flats
 1 Aether Spellbomb
 1 Tarfire
 1 Pyrite Spellbomb
@@ -147,6 +136,17 @@
 2 Urza's Saga
 3 Urza's Saga
 4 Urza's Saga
+1 Overgrown Tomb
+1 Surgical Extraction
+1 Strike It Rich
+1 Hidetsugu Consumes All
+2 Verdant Catacombs
+2 Strike It Rich
+3 Verdant Catacombs
+4 Marsh Flats
+1 Seal of Removal
+1 Snow-Covered Island
+4 Scalding Tarn
 1 Geier Reach Sanitarium
 1 Underworld Breach
 1 Burning Inquiry

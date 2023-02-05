@@ -1,60 +1,60 @@
 2 Gut Shot
 3 Scalding Tarn
+3 Bloodstained Mire
 9 Mountain
 3 Arid Mesa
 4 Arid Mesa
-3 Bloodstained Mire
-10 Mountain
 1 Ragavan, Nimble Pilferer
+2 Ragavan, Nimble Pilferer
+10 Mountain
+3 Ragavan, Nimble Pilferer
+4 Ragavan, Nimble Pilferer
 11 Mountain
 1 Blood Moon
-2 Ragavan, Nimble Pilferer
 1 Ramunap Ruins
 2 Ramunap Ruins
-1 Fury
+1 Seasoned Pyromancer
 1 Light Up the Night
+1 Fury
 1 Bonecrusher Giant
 1 Eidolon of the Great Revel
-1 Seasoned Pyromancer
 1 Spikefield Hazard
+2 Seasoned Pyromancer
 2 Fury
 2 Light Up the Night
 2 Bonecrusher Giant
 2 Spikefield Hazard
-2 Seasoned Pyromancer
 2 Blood Moon
 2 Eidolon of the Great Revel
-3 Blood Moon
-3 Eidolon of the Great Revel
-3 Ragavan, Nimble Pilferer
-3 Spikefield Hazard
-3 Ramunap Ruins
 3 Seasoned Pyromancer
 3 Fury
+3 Blood Moon
+3 Eidolon of the Great Revel
+3 Spikefield Hazard
+3 Ramunap Ruins
 4 Blood Moon
-4 Ragavan, Nimble Pilferer
 4 Eidolon of the Great Revel
 4 Ramunap Ruins
 2 Sokenzan, Crucible of Defiance
+1 Den of the Bugbear
 3 Bonecrusher Giant
 4 Fury
 4 Seasoned Pyromancer
 1 Chandra, Torch of Defiance
-1 Bedlam Reveler
 12 Mountain
+1 Bedlam Reveler
 1 Torbran, Thane of Red Fell
 2 Torbran, Thane of Red Fell
 1 Chandra, Fire Artisan
-2 Chandra, Torch of Defiance
 1 Magus of the Moon
+2 Chandra, Torch of Defiance
 1 Goblin Blast-Runner
 2 Goblin Blast-Runner
 3 Goblin Blast-Runner
 4 Goblin Blast-Runner
-1 Den of the Bugbear
 1 Chandra, Dressed to Kill
-2 Bedlam Reveler
 4 Bloodstained Mire
+2 Bedlam Reveler
 3 Wooded Foothills
 4 Wooded Foothills
 1 Mine Collapse
@@ -77,21 +77,44 @@
 4 Scalding Tarn
 1 Seal of Fire
 1 Sunbaked Canyon
+1 Pyrite Spellbomb
 1 Lava Spike
 2 Lava Spike
 3 Lava Spike
 4 Lava Spike
 1 Apostle's Blessing
 2 Apostle's Blessing
+1 Relic of Progenitus
+2 Den of the Bugbear
 1 Mutavault
 1 Shard Volley
 2 Shard Volley
 3 Light Up the Night
 3 Chandra, Torch of Defiance
 4 Chandra, Torch of Defiance
-2 Chandra, Dressed to Kill
+1 Urza's Saga
+1 Shrapnel Blast
+1 Galvanic Blast
+1 Voldaren Epicure
+1 Bomat Courier
+1 Experimental Synthesizer
+2 Urza's Saga
+2 Voldaren Epicure
+2 Shrapnel Blast
+2 Experimental Synthesizer
+2 Galvanic Blast
+3 Urza's Saga
+3 Experimental Synthesizer
+3 Shrapnel Blast
+3 Galvanic Blast
+3 Voldaren Epicure
+4 Urza's Saga
+4 Experimental Synthesizer
+4 Galvanic Blast
 1 Fiery Islet
+2 Chandra, Dressed to Kill
 2 Seal of Fire
+3 Den of the Bugbear
 1 Abbot of Keral Keep
 1 Forked Bolt
 1 Wayward Guide-Beast
@@ -103,7 +126,6 @@
 4 Wayward Guide-Beast
 13 Mountain
 1 Unholy Heat
-1 Relic of Progenitus
 1 Pillar of Flame
 1 Furor of the Bitten
 2 Relic of Progenitus
@@ -113,17 +135,17 @@
 3 Furor of the Bitten
 3 Pillar of Flame
 14 Mountain
-1 Pyrite Spellbomb
 1 Grapeshot
 2 Grapeshot
+1 Springleaf Drum
+2 Bomat Courier
 1 Goblin Rabblemaster
 1 Legion Warboss
 2 Goblin Rabblemaster
-1 Gemstone Caverns
 1 Scavenger Grounds
+1 Gemstone Caverns
 2 Gemstone Caverns
 2 Scavenger Grounds
-3 Seal of Fire
 1 Mishra's Factory
 1 Firebolt
 1 Crash Through
@@ -131,6 +153,7 @@
 2 Mishra's Factory
 2 Firebolt
 3 Sunbaked Canyon
+3 Seal of Fire
 1 Tarfire
 1 Infuriate
 2 Tarfire
@@ -141,17 +164,17 @@
 3 Infuriate
 4 Tarfire
 4 Infuriate
+1 Shinka, the Bloodsoaked Keep
+4 Voldaren Epicure
 1 Kumano Faces Kakkazan
 1 Goblin Guide
 1 Rift Bolt
-2 Den of the Bugbear
 2 Unholy Heat
 2 Goblin Guide
 2 Kumano Faces Kakkazan
 2 Rift Bolt
-3 Den of the Bugbear
-3 Unholy Heat
 3 Kumano Faces Kakkazan
+3 Unholy Heat
 3 Goblin Guide
 3 Rift Bolt
 4 Unholy Heat
