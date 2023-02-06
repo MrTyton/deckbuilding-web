@@ -106,8 +106,8 @@
 1 Fatal Push
 2 Tropical Island
 4 Brainstorm
-1 Plains
 1 Indatha Triome
+1 Plains
 1 Knight of Autumn
 1 Siege Rhino
 3 Pernicious Deed
@@ -126,10 +126,10 @@
 4 Greater Gargadon
 4 Fable of the Mirror-Breaker
 4 Mayhem Devil
-1 Yavimaya, Cradle of Growth
-1 Sarulf, Realm Eater
-2 Overgrown Tomb
 2 Snow-Covered Mountain
+1 Sarulf, Realm Eater
+1 Yavimaya, Cradle of Growth
+2 Overgrown Tomb
 1 Hullbreacher
 1 Sudden Edict
 1 Toxic Deluge
@@ -141,14 +141,14 @@
 2 Island
 2 Baleful Strix
 1 Marsh Flats
+1 Vraska, Golgari Queen
 1 Qasali Pridemage
+1 The Gitrog Monster
 1 Path to Exile
 1 Kitchen Finks
 1 Acidic Slime
-1 The Gitrog Monster
 1 Sigarda, Host of Herons
 1 Nissa, Vastwood Seer
-1 Vraska, Golgari Queen
 1 Recurring Nightmare
 1 Voice of Resurgence
 2 Marsh Flats
@@ -183,22 +183,21 @@
 4 Reanimate
 3 Fury
 4 Fury
-1 Sylvan Safekeeper
 1 Archon of Valor's Reach
 1 Outland Liberator
+1 Sylvan Safekeeper
 2 Swords to Plowshares
 3 Swords to Plowshares
 4 Swords to Plowshares
 1 Night's Whisper
-1 Bloodstained Mire
 1 Riveteers Charm
+1 Bloodstained Mire
 1 Takenuma, Abandoned Mire
 1 Hymn to Tourach
 2 Tourach, Dread Cantor
 2 Hymn to Tourach
 3 Hymn to Tourach
 4 Hymn to Tourach
-1 Living Wish
 1 Shifting Ceratops
 1 Academy Rector
 1 Snow-Covered Plains
@@ -208,8 +207,9 @@
 1 Overwhelming Splendor
 1 Cruel Reality
 1 Arena Rector
-2 Living Wish
+1 Living Wish
 2 Cavern of Souls
+2 Living Wish
 2 Academy Rector
 2 Arena Rector
 3 Living Wish

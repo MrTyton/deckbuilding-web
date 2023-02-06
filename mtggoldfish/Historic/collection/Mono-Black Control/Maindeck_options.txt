@@ -104,8 +104,8 @@
 1 Demogorgon's Clutches
 2 Gix, Yawgmoth Praetor
 2 Eaten Alive
-2 Liliana's Triumph
 2 Vicious Rumors
+2 Liliana's Triumph
 2 Witch's Cottage
 2 Cursebound Witch
 2 Ob Nixilis, the Hate-Twisted
@@ -142,6 +142,41 @@
 3 Inquisition of Kozilek
 3 Kroxa, Titan of Death's Hunger
 3 Swarm Saboteur
+1 Hero's Downfall
+1 Voldaren Bloodcaster
+1 Henrika Domnathi
+1 Soul Transfer
+1 Nighthawk Scavenger
+1 Duress
+1 Deadly Dispute
+1 Check for Traps
+1 Divest
+1 Whack
+1 Vampire of the Dire Moon
+1 Evelyn, the Covetous
+1 Blood Fountain
+1 Fake Your Own Death
+1 Bloodbond Vampire
+1 The Haunt of Hightower
+2 Soul Transfer
+2 Voldaren Bloodcaster
+2 Henrika Domnathi
+2 Hero's Downfall
+2 The Meathook Massacre
+2 Duress
+2 Deadly Dispute
+2 Whack
+2 Divest
+2 Vampire of the Dire Moon
+2 Nighthawk Scavenger
+2 Bloodbond Vampire
+2 Blood Fountain
+2 Fake Your Own Death
+2 Check for Traps
+2 Evelyn, the Covetous
+3 Voldaren Bloodcaster
+3 Check for Traps
+4 Voldaren Bloodcaster
 1 Rotting Regisaur
 1 Gutterbones
 1 Demonic Embrace
@@ -172,44 +207,9 @@
 3 Phyrexian Fleshgorger
 3 Malakir Rebirth
 3 Invoke Despair
-4 Malakir Rebirth
 4 Phyrexian Fleshgorger
+4 Malakir Rebirth
 4 Invoke Despair
-1 Henrika Domnathi
-1 Soul Transfer
-1 Nighthawk Scavenger
-1 Duress
-1 Deadly Dispute
-1 Check for Traps
-1 Divest
-1 Whack
-1 Vampire of the Dire Moon
-1 Hero's Downfall
-1 Evelyn, the Covetous
-1 Blood Fountain
-1 Voldaren Bloodcaster
-1 Fake Your Own Death
-1 Bloodbond Vampire
-1 The Haunt of Hightower
-2 Soul Transfer
-2 Henrika Domnathi
-2 The Meathook Massacre
-2 Duress
-2 Deadly Dispute
-2 Divest
-2 Whack
-2 Vampire of the Dire Moon
-2 Nighthawk Scavenger
-2 Bloodbond Vampire
-2 Voldaren Bloodcaster
-2 Blood Fountain
-2 Fake Your Own Death
-2 Check for Traps
-2 Hero's Downfall
-2 Evelyn, the Covetous
-3 Voldaren Bloodcaster
-3 Check for Traps
-4 Voldaren Bloodcaster
 1 Urabrask, Heretic Praetor
 1 Stomping Ground
 1 Cragcrown Pathway
@@ -229,9 +229,33 @@
 14 Mountain
 15 Mountain
 2 Heartless Act
+1 Lolth, Spider Queen
+1 Nightmare
+1 Warlock Class
+1 Gray Merchant of Asphodel
+1 Bloodchief's Thirst
+1 Morbid Opportunist
+1 Malakir Cullblade
+1 Eternal Thirst
+1 Poison the Cup
+2 Bloodchief's Thirst
+2 Warlock Class
+2 Eternal Thirst
+2 Malakir Cullblade
+2 Power Word Kill
+2 Poison the Cup
+2 Nightmare
+2 Gray Merchant of Asphodel
+3 Power Word Kill
+3 Warlock Class
+3 Malakir Cullblade
+3 Heartless Act
+4 Power Word Kill
+4 Heartless Act
+25 Swamp
 1 Snow-Covered Swamp
-1 Acquisitions Expert
 1 Junji, the Midnight Sky
+1 Acquisitions Expert
 1 Blood on the Snow
 1 Infernal Grasp
 1 Bojuka Bog
@@ -240,8 +264,8 @@
 1 Tinybones, Trinket Thief
 2 Snow-Covered Swamp
 2 Acquisitions Expert
-2 Gutmorn, Pactbound Servant
 2 Junji, the Midnight Sky
+2 Gutmorn, Pactbound Servant
 2 Tinybones, Trinket Thief
 2 Bojuka Bog
 2 Tergrid, God of Fright
@@ -267,27 +291,3 @@
 14 Snow-Covered Swamp
 15 Snow-Covered Swamp
 16 Snow-Covered Swamp
-1 Lolth, Spider Queen
-1 Nightmare
-1 Warlock Class
-1 Gray Merchant of Asphodel
-1 Bloodchief's Thirst
-1 Morbid Opportunist
-1 Malakir Cullblade
-1 Eternal Thirst
-1 Poison the Cup
-2 Bloodchief's Thirst
-2 Warlock Class
-2 Eternal Thirst
-2 Malakir Cullblade
-2 Power Word Kill
-2 Poison the Cup
-2 Nightmare
-2 Gray Merchant of Asphodel
-3 Power Word Kill
-3 Warlock Class
-3 Malakir Cullblade
-3 Heartless Act
-4 Power Word Kill
-4 Heartless Act
-25 Swamp

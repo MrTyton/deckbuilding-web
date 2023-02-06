@@ -5,8 +5,8 @@
 2 Spell Pierce
 3 Counterspell
 2 Forest
-3 Wooded Foothills
 1 Fury
+3 Wooded Foothills
 4 Counterspell
 1 Snapcaster Mage
 1 Explore
@@ -16,8 +16,8 @@
 2 Explore
 1 Fable of the Mirror-Breaker
 1 Ragavan, Nimble Pilferer
-1 Mishra's Bauble
 1 Mana Leak
+1 Mishra's Bauble
 1 Unholy Heat
 1 Dragon's Rage Channeler
 1 Aether Spellbomb
@@ -37,14 +37,13 @@
 3 Unholy Heat
 3 Dragon's Rage Channeler
 3 Urza's Saga
-3 Tarmogoyf
 3 Mana Leak
+3 Tarmogoyf
 4 Ragavan, Nimble Pilferer
 4 Tarmogoyf
-1 Impulse
 1 Snow-Covered Island
-1 Snow-Covered Forest
 1 Snow-Covered Mountain
+1 Snow-Covered Forest
 1 Cryptic Command
 2 Sakura-Tribe Elder
 1 Wish
@@ -60,24 +59,19 @@
 3 Cryptic Command
 4 Sakura-Tribe Elder
 1 Brazen Borrower
-2 Impulse
 4 Valakut, the Molten Pinnacle
+1 Impulse
 2 Dress Down
 1 Dwarven Mine
 1 Otawara, Soaring City
 2 Island
 1 Shark Typhoon
+1 Burst Lightning
 2 Snow-Covered Forest
 1 Flame Slash
 2 Flame Slash
+2 Impulse
 3 Fable of the Mirror-Breaker
-1 Jetmir's Garden
-1 Joint Exploration
-1 Raugrin Triome
-2 Boseiju, Who Endures
-2 Joint Exploration
-3 Joint Exploration
-4 Joint Exploration
 1 Primeval Titan
 2 Primeval Titan
 2 Dwarven Mine
@@ -86,3 +80,10 @@
 3 Dwarven Mine
 3 Primeval Titan
 4 Wish
+1 Jetmir's Garden
+1 Joint Exploration
+1 Raugrin Triome
+2 Boseiju, Who Endures
+2 Joint Exploration
+3 Joint Exploration
+4 Joint Exploration

@@ -1,17 +1,17 @@
 2 Shardless Agent
 2 Verdant Catacombs
 3 Cavern Harpy
-1 Brazen Borrower
 3 Abrupt Decay
+1 Brazen Borrower
 1 Leovold, Emissary of Trest
-2 Underground Sea
-3 Snow-Covered Island
 1 Grist, the Hunger Tide
+3 Snow-Covered Island
+2 Underground Sea
+3 Prismatic Vista
 3 Shardless Agent
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
-3 Prismatic Vista
 3 Verdant Catacombs
 4 Aluren
 2 Brazen Borrower
@@ -22,10 +22,10 @@
 1 Island
 1 Tundra
 1 Flooded Strand
+1 Sylvan Library
 1 Breeding Pool
 2 Green Sun's Zenith
 3 Green Sun's Zenith
-1 Arcane Proxy
 3 Aether Channeler
 1 Forest
 1 Swamp
@@ -46,12 +46,10 @@
 3 Swords to Plowshares
 4 Swords to Plowshares
 2 Acererak the Archlich
-4 Uro, Titan of Nature's Wrath
 1 Otawara, Soaring City
 1 Fatal Push
 1 Destiny Spinner
 1 Force of Negation
-1 Sylvan Library
 2 Assassin's Trophy
 1 Dismember
 2 Dismember
@@ -62,35 +60,14 @@
 1 Windswept Heath
 2 Teferi, Time Raveler
 2 Windswept Heath
+1 Arcane Proxy
 1 Chrome Mox
 2 Chrome Mox
-1 Traverse the Ulvenwald
-1 Haywire Mite
-1 Mishra's Bauble
-1 Living Wish
-2 Mishra's Bauble
-2 Traverse the Ulvenwald
-2 Living Wish
-3 Snow-Covered Forest
 3 Island
 1 Botanical Sanctum
 1 Watcher for Tomorrow
 2 Watcher for Tomorrow
 3 Watcher for Tomorrow
-1 Slip Out the Back
-1 Scalding Tarn
-1 Badlands
-1 Taiga
-1 Stifle
-1 Kroxa, Titan of Death's Hunger
-1 Volcanic Island
-2 Bayou
-2 Scalding Tarn
-2 Stifle
-2 Slip Out the Back
-2 Kroxa, Titan of Death's Hunger
-3 Stifle
-4 Stifle
 1 White Plume Adventurer
 1 Snow-Covered Plains
 1 Prismatic Ending
@@ -108,3 +85,18 @@
 3 Cabal Therapy
 4 Recruiter of the Guard
 4 Cabal Therapy
+1 Slip Out the Back
+1 Scalding Tarn
+1 Badlands
+1 Taiga
+1 Stifle
+1 Kroxa, Titan of Death's Hunger
+1 Volcanic Island
+2 Bayou
+2 Scalding Tarn
+2 Stifle
+2 Slip Out the Back
+2 Kroxa, Titan of Death's Hunger
+3 Stifle
+4 Stifle
+4 Uro, Titan of Nature's Wrath

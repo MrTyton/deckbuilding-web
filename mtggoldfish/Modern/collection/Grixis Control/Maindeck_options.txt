@@ -118,8 +118,6 @@
 2 Darkslick Shores
 3 Darkslick Shores
 3 Murktide Regent
-3 Subtlety
-4 Subtlety
 1 Persist
 1 Ox of Agonas
 1 Archon of Cruelty
@@ -130,13 +128,15 @@
 2 Persist
 2 Otherworldly Gaze
 2 Prismari Command
-3 Persist
 3 Archon of Cruelty
+3 Persist
 3 Otherworldly Gaze
 3 Prismari Command
 3 Seasoned Pyromancer
 4 Persist
 4 Archon of Cruelty
+3 Subtlety
+4 Subtlety
 1 Reflecting Pool
 2 Dreadbore
 3 Memory Deluge
@@ -174,7 +174,6 @@
 1 Sokenzan, Crucible of Defiance
 1 Gemstone Caverns
 1 Chandra, Torch of Defiance
-1 Omen of the Sea
 1 Chalice of the Void
 1 Yidaro, Wandering Monster
 1 Dictate of Kruphix
@@ -183,10 +182,11 @@
 1 Fires of Invention
 1 Flooded Strand
 1 Nexus of Fate
+1 Omen of the Sea
 1 Time Warp
-2 Omen of the Sea
 2 Chalice of the Void
 2 Savor the Moment
+2 Omen of the Sea
 2 Dictate of Kruphix
 2 Fires of Invention
 2 Temporal Mastery
