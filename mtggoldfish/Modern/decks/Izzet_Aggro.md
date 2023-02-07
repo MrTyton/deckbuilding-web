@@ -60,7 +60,7 @@
 |                    2|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)       |                     |                                                                                               |
 |                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)       |                     |                                                                                               |
 |                    1|[Chromatic Star](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135279)        |                     |                                                                                               |
-|                    3|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)             |                     |                                                                                               |
 |                    3|[Underworld Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476412)     |                     |                                                                                               |
 |                    3|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)     |                     |                                                                                               |
+|                    3|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)             |                     |                                                                                               |
 
