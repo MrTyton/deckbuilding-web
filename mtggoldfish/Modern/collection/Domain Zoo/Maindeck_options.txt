@@ -1,19 +1,24 @@
-2 Tarmogoyf
+1 Arid Mesa
 1 Xander's Lounge
 4 Nishoba Brawler
-2 Arid Mesa
-1 Stomping Ground
-3 Arid Mesa
-1 Indatha Triome
-1 Misty Rainforest
-1 Blood Crypt
 3 Tarmogoyf
 4 Tarmogoyf
-1 Verdant Catacombs
+1 Indatha Triome
+2 Arid Mesa
+1 Stomping Ground
+1 Misty Rainforest
+3 Arid Mesa
+1 Blood Crypt
 1 Tarfire
+1 Verdant Catacombs
+1 Burst Lightning
 1 Bloodbraid Elf
 2 Bloodbraid Elf
 3 Bloodbraid Elf
+4 Arid Mesa
+1 Scalding Tarn
+2 Misty Rainforest
+1 Teferi, Time Raveler
 1 Bloodstained Mire
 1 Lightning Helix
 1 Shardless Agent
@@ -23,15 +28,6 @@
 3 Shardless Agent
 4 Lightning Helix
 4 Bloodbraid Elf
-1 Burst Lightning
-1 Scalding Tarn
-1 General Ferrous Rokiric
-1 Geist of Saint Traft
-2 Geist of Saint Traft
-4 Shardless Agent
-4 Arid Mesa
-1 Teferi, Time Raveler
-2 Misty Rainforest
 1 Expressive Iteration
 2 Expressive Iteration
 3 Expressive Iteration
@@ -40,23 +36,23 @@
 1 Chalice of the Void
 1 Island
 2 Chalice of the Void
-1 Ketria Triome
 1 Shadow Prophecy
 1 Omnath, Locus of Creation
-1 Raugrin Triome
 1 Scapeshift
+1 Raugrin Triome
 1 Boseiju, Who Endures
-1 Prismatic Ending
 1 Dryad of the Ilysian Grove
 1 Wrenn and Six
+1 Prismatic Ending
 1 Valakut, the Molten Pinnacle
+1 Ketria Triome
 2 Shadow Prophecy
 2 Valakut, the Molten Pinnacle
-2 Omnath, Locus of Creation
 2 Scapeshift
-2 Prismatic Ending
+2 Omnath, Locus of Creation
 2 Wrenn and Six
 2 Dryad of the Ilysian Grove
+2 Prismatic Ending
 3 Chalice of the Void
 3 Omnath, Locus of Creation
 3 Wrenn and Six
@@ -70,7 +66,11 @@
 4 Valakut, the Molten Pinnacle
 3 Misty Rainforest
 1 Spell Snare
+1 General Ferrous Rokiric
+1 Geist of Saint Traft
+2 Geist of Saint Traft
 2 General Ferrous Rokiric
+4 Shardless Agent
 2 Teferi, Time Raveler
 2 Verdant Catacombs
 3 Verdant Catacombs
@@ -89,8 +89,8 @@
 1 Rest in Peace
 1 Damping Sphere
 1 Hidetsugu Consumes All
-2 Lavinia, Azorius Renegade
 2 Force of Vigor
+2 Lavinia, Azorius Renegade
 2 Ob Nixilis, the Adversary
 2 Fury
 2 Rest in Peace
@@ -105,10 +105,7 @@
 1 Snow-Covered Forest
 1 Snow-Covered Plains
 2 Spell Snare
-1 Reflector Mage
-2 Reflector Mage
 3 General Ferrous Rokiric
-3 Dromoka's Command
 1 Zur, Eternal Schemer
 2 Zur, Eternal Schemer
 3 Zur, Eternal Schemer
@@ -143,13 +140,13 @@
 2 Vampire's Kiss
 2 Smiting Helix
 3 Countersquall
+3 Prismari Command
 3 Ionize
 3 Vampire's Kiss
 3 Searing Blood
 3 Bloodstained Mire
 3 Unlicensed Disintegration
 3 Searing Blaze
-3 Prismari Command
 4 Scalding Tarn
 4 Searing Blood
 4 Searing Blaze

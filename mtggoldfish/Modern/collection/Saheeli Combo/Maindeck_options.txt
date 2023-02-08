@@ -28,13 +28,13 @@
 1 Wooded Foothills
 1 Jetmir's Garden
 1 Snow-Covered Plains
-1 Snow-Covered Forest
 1 Snow-Covered Island
+1 Snow-Covered Forest
 1 Portal to Phyrexia
 1 Shape Anew
 1 Gingerbread Cabin
-2 Wooded Foothills
 2 Portal to Phyrexia
+2 Wooded Foothills
 2 Shape Anew
 2 Gingerbread Cabin
 3 Shape Anew
@@ -59,8 +59,8 @@
 4 Fire/Ice
 4 Scalding Tarn
 1 Yavimaya, Cradle of Growth
-1 Counterspell
 1 Supreme Verdict
+1 Counterspell
 2 Counterspell
 1 Spreading Seas
 2 Spreading Seas
@@ -83,8 +83,8 @@
 4 Spreading Seas
 1 Unholy Heat
 1 Spirebluff Canal
-2 Unholy Heat
 2 Spirebluff Canal
+2 Unholy Heat
 1 Utopia Sprawl
 2 Stomping Ground
 2 Utopia Sprawl
@@ -92,11 +92,11 @@
 3 Utopia Sprawl
 3 Ephemerate
 1 Arid Mesa
-1 Polluted Delta
 1 Teferi, Hero of Dominaria
 1 Mystic Gate
 1 Hall of Storm Giants
 1 Celestial Colonnade
+1 Polluted Delta
 2 Mystic Gate
 3 Mystic Gate
 3 Supreme Verdict
@@ -120,8 +120,8 @@
 2 Arid Mesa
 1 The Wandering Emperor
 1 Faithful Mending
-1 Narset, Parter of Veils
 1 Field of Ruin
+1 Narset, Parter of Veils
 1 Force of Negation
 1 Memory Deluge
 2 Faithful Mending
@@ -133,8 +133,8 @@
 1 Savai Triome
 1 Nahiri, the Harbinger
 1 Arlinn, the Pack's Hope
-2 Otawara, Soaring City
 2 Sacred Foundry
+2 Otawara, Soaring City
 2 Boseiju, Who Endures
 1 Qasali Ambusher
 2 Qasali Ambusher
@@ -143,20 +143,20 @@
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
 3 Prismatic Vista
-2 Temple Garden
-3 Verdant Catacombs
-3 Gingerbread Cabin
-4 Verdant Catacombs
-4 Utopia Sprawl
 1 Abundant Growth
 1 Mulldrifter
 2 Abundant Growth
 2 Mulldrifter
 4 Wooded Foothills
-1 Seachrome Coast
+2 Temple Garden
+3 Verdant Catacombs
+3 Gingerbread Cabin
+4 Verdant Catacombs
+4 Utopia Sprawl
 1 Omen of the Sea
-2 Seachrome Coast
+1 Seachrome Coast
 2 Omen of the Sea
+2 Seachrome Coast
 3 Omen of the Sea
 4 Omen of the Sea
 4 Oath of Nissa
@@ -189,25 +189,25 @@
 3 Vivien on the Hunt
 3 Eladamri's Call
 4 Vivien on the Hunt
+1 Mishra's Bauble
 1 Spell Pierce
 1 Ragavan, Nimble Pilferer
 1 Dragon's Rage Channeler
 1 Ledger Shredder
-1 Mishra's Bauble
+2 Mishra's Bauble
 2 Ragavan, Nimble Pilferer
 2 Ledger Shredder
 2 Dragon's Rage Channeler
-2 Mishra's Bauble
 3 Spirebluff Canal
+3 Mishra's Bauble
 3 Ragavan, Nimble Pilferer
 3 Ledger Shredder
-3 Mishra's Bauble
 3 Dragon's Rage Channeler
 4 Ledger Shredder
 4 Ragavan, Nimble Pilferer
+4 Mishra's Bauble
 4 Dragon's Rage Channeler
 4 Spirebluff Canal
-4 Mishra's Bauble
 1 Skyclave Apparition
 1 Charming Prince
 1 Soulherder
@@ -224,13 +224,13 @@
 2 Soulherder
 2 Vesperlark
 3 Arid Mesa
-3 Plains
+3 Hallowed Fountain
 3 Imperial Recruiter
 3 Wall of Omens
+3 Plains
 3 Skyclave Apparition
 3 March of Otherworldly Light
 3 Soulherder
-3 Hallowed Fountain
 3 Charming Prince
 3 Aether Vial
 4 Wall of Omens

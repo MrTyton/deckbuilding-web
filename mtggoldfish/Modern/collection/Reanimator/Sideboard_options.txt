@@ -43,8 +43,8 @@
 2 Spreading Seas
 1 Hurkyl's Recall
 1 Surgical Extraction
-2 Surgical Extraction
 2 Hurkyl's Recall
+2 Surgical Extraction
 1 Damping Sphere
 2 Damping Sphere
 1 Priest of Fell Rites
@@ -77,14 +77,14 @@
 1 Burrenton Forge-Tender
 2 Unmoored Ego
 2 Burrenton Forge-Tender
-1 Dovin's Veto
 1 Jace, the Mind Sculptor
+1 Dovin's Veto
 1 Dress Down
 2 Dress Down
 1 Elspeth, Sun's Champion
+1 Pithing Needle
 1 Liliana, the Last Hope
 1 Damnation
-1 Pithing Needle
 1 Void Winnower
 1 The Meathook Massacre
 1 Supreme Verdict
@@ -95,19 +95,11 @@
 2 Bone Shards
 2 Through the Breach
 3 Path to Exile
-1 Leyline of the Void
-1 Leave No Trace
-2 Leyline of the Void
-2 Fatal Push
-2 Engineered Explosives
-3 Leyline of the Void
-1 Wheel of Sun and Moon
-3 Spreading Seas
-1 Abrupt Decay
+1 Assassin's Trophy
 1 Endurance
 1 Divest
 1 Flaying Tendrils
-1 Assassin's Trophy
+1 Abrupt Decay
 2 Force of Negation
 2 Abrupt Decay
 2 Assassin's Trophy
@@ -115,7 +107,15 @@
 2 Flaying Tendrils
 2 Divest
 3 Endurance
+1 Wheel of Sun and Moon
+3 Spreading Seas
 3 Flusterstorm
+1 Leave No Trace
+1 Leyline of the Void
+2 Fatal Push
+2 Engineered Explosives
+2 Leyline of the Void
+3 Leyline of the Void
 1 Tale's End
 1 Collective Brutality
 2 Collective Brutality
@@ -123,8 +123,6 @@
 3 Tale's End
 3 Leyline Binding
 4 Leyline Binding
-3 Soul-Guide Lantern
-4 Soul-Guide Lantern
 1 Void Rend
 1 Kaya, Orzhov Usurper
 1 Leyline of Sanctity
@@ -133,3 +131,5 @@
 4 Leyline of Sanctity
 3 Lingering Souls
 4 Lingering Souls
+3 Soul-Guide Lantern
+4 Soul-Guide Lantern

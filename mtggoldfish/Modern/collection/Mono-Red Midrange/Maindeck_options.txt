@@ -1,6 +1,6 @@
 4 Flame Slash
-8 Mountain
 1 Magus of the Moon
+8 Mountain
 4 Ramunap Ruins
 1 Experimental Synthesizer
 2 Experimental Synthesizer
@@ -13,13 +13,13 @@
 2 Mutavault
 3 Field of Ruin
 4 Field of Ruin
-9 Mountain
-10 Mountain
 3 Mutavault
 4 Mutavault
 1 Gemstone Caverns
 2 Gemstone Caverns
 1 Mishra's Research Desk
+9 Mountain
+10 Mountain
 2 Mishra's Research Desk
 3 Mishra's Research Desk
 4 Mishra's Research Desk
@@ -32,20 +32,22 @@
 2 Burst Lightning
 3 Burst Lightning
 1 Fiery Islet
+1 Pyrite Spellbomb
+2 Pyrite Spellbomb
 1 Shatterskull Smashing
 2 Shatterskull Smashing
 3 Shatterskull Smashing
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
 1 Voldaren Epicure
 2 Voldaren Epicure
 3 Voldaren Epicure
 4 Voldaren Epicure
+3 Pyrite Spellbomb
+4 Pyrite Spellbomb
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 4 Shatterskull Smashing
-1 Pyrite Spellbomb
-2 Pyrite Spellbomb
 1 Abrade
 2 Abrade
 1 Scavenger Grounds
@@ -96,16 +98,10 @@
 2 Seal of Fire
 3 Seal of Fire
 4 Seal of Fire
-1 Unholy Heat
-2 Unholy Heat
-3 Unholy Heat
-4 Unholy Heat
 1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
 4 Urza's Saga
-3 Pyrite Spellbomb
-4 Pyrite Spellbomb
 1 Cleansing Wildfire
 2 Cleansing Wildfire
 3 Cleansing Wildfire
@@ -153,16 +149,16 @@
 1 Eldrazi Temple
 1 Matter Reshaper
 1 Chalice of the Void
-2 Wastes
 2 Prismatic Vista
 2 Cavern of Souls
+2 Wastes
 2 Thought-Knot Seer
 2 Matter Reshaper
 2 Chalice of the Void
 2 Eldrazi Temple
 3 Prismatic Vista
-3 Matter Reshaper
 3 Cavern of Souls
+3 Matter Reshaper
 3 Chalice of the Void
 3 Eldrazi Temple
 3 Thought-Knot Seer
@@ -176,13 +172,19 @@
 2 Plundering Barbarian
 3 Plundering Barbarian
 4 Plundering Barbarian
-1 Darksteel Citadel
+3 Sokenzan, Crucible of Defiance
+4 Sokenzan, Crucible of Defiance
 1 Shadowspear
+1 Darksteel Citadel
+1 Unholy Heat
 1 Koth of the Hammer
 2 Darksteel Citadel
+2 Unholy Heat
 2 Koth of the Hammer
+3 Unholy Heat
 3 Koth of the Hammer
 3 Darksteel Citadel
+4 Unholy Heat
 4 Darksteel Citadel
 1 Keldon Megaliths
 2 Keldon Megaliths
@@ -192,9 +194,9 @@
 1 Galvanic Blast
 1 Shrapnel Blast
 1 Bomat Courier
-2 Blinkmoth Nexus
 2 Galvanic Blast
 2 Shrapnel Blast
+2 Blinkmoth Nexus
 3 Shrapnel Blast
 3 Galvanic Blast
 4 Shrapnel Blast
