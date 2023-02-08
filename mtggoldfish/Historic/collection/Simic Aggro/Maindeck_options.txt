@@ -12,10 +12,11 @@
 4 Island
 5 Island
 1 Manifold Key
+1 Hengegate Pathway
+1 Saheeli, Sublime Artificer
+1 Emry, Lurker of the Loch
 1 Mox Amber
 1 Lodestone Golem
-1 Emry, Lurker of the Loch
-1 Saheeli, Sublime Artificer
 1 Metalwork Colossus
 1 Magma Opus
 1 Ulamog, the Ceaseless Hunger
@@ -28,29 +29,29 @@
 1 Glacial Fortress
 1 Mirror Box
 1 Ichor Wellspring
-1 Hengegate Pathway
 1 Cloud Key
 1 Drafna, Founder of Lat-Nam
 1 Spark Double
+2 Hallowed Fountain
 2 Ichor Wellspring
+2 Hengegate Pathway
+2 Saheeli, Sublime Artificer
+2 Emry, Lurker of the Loch
 2 Mox Amber
 2 Manifold Key
 2 Lodestone Golem
 2 Sai, Master Thopterist
 2 Paradox Engine
 2 Metalwork Colossus
-2 Emry, Lurker of the Loch
 2 Ulamog, the Ceaseless Hunger
 2 Magma Opus
-2 Saheeli, Sublime Artificer
-2 Hengegate Pathway
-2 Hallowed Fountain
 2 Mirror Box
 2 Drafna, Founder of Lat-Nam
 2 Cloud Key
 2 Mechtitan Core
 2 Spark Double
 3 Ichor Wellspring
+3 Hallowed Fountain
 3 Emry, Lurker of the Loch
 3 Mox Amber
 3 Saheeli, Sublime Artificer
@@ -58,7 +59,6 @@
 3 Cloud Key
 3 Drafna, Founder of Lat-Nam
 3 Spark Double
-3 Hallowed Fountain
 3 Manifold Key
 4 Ichor Wellspring
 4 Emry, Lurker of the Loch
@@ -108,9 +108,9 @@
 1 Sawtusk Demolisher
 1 Auspicious Starrix
 1 Pouncing Shoreshark
+2 Ancient Ziggurat
 2 Gemrazer
 2 Migratory Greathorn
-2 Ancient Ziggurat
 2 Craterhoof Behemoth
 2 Paradise Druid
 2 Dreamtail Heron
@@ -139,10 +139,10 @@
 1 Voltage Surge
 1 Thought Monitor
 1 Silverbluff Bridge
-1 Metallic Rebuke
-1 Darksteel Citadel
-1 Retrofitter Foundry
 1 Spire of Industry
+1 Darksteel Citadel
+1 Metallic Rebuke
+1 Retrofitter Foundry
 1 Den of the Bugbear
 1 Steam Vents
 1 Spirebluff Canal
@@ -152,6 +152,7 @@
 2 Voltage Surge
 2 Silverbluff Bridge
 2 Thought Monitor
+2 Spire of Industry
 2 Retrofitter Foundry
 2 Metallic Rebuke
 2 Seek New Knowledge
@@ -159,15 +160,14 @@
 2 Steam Vents
 2 Yotia Declares War
 2 Darksteel Citadel
-2 Spire of Industry
 3 Voltage Surge
 3 Nettlecyst
 3 Silverbluff Bridge
 3 Thought Monitor
+3 Spire of Industry
 3 Retrofitter Foundry
 3 Metallic Rebuke
 3 Seek New Knowledge
-3 Spire of Industry
 3 Darksteel Citadel
 3 Yotia Declares War
 3 Spirebluff Canal
@@ -177,12 +177,12 @@
 4 Silverbluff Bridge
 4 Thought Monitor
 4 Retrofitter Foundry
+4 Spire of Industry
 4 Steam Vents
 4 Seek New Knowledge
 4 Darksteel Citadel
 4 Spirebluff Canal
 4 Metallic Rebuke
-4 Spire of Industry
 4 Yotia Declares War
 1 Werewolf Pack Leader
 1 Rhonas the Indomitable
@@ -219,12 +219,12 @@
 3 Old-Growth Troll
 3 Llanowar Elves
 4 Werewolf Pack Leader
+4 Botanical Sanctum
 4 Steel Leaf Champion
 4 Scavenging Ooze
 4 Pelt Collector
 4 Collected Company
 4 Old-Growth Troll
-4 Botanical Sanctum
 4 Decisive Denial
 4 Lair of the Hydra
 4 Llanowar Elves

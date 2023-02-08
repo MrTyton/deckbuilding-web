@@ -42,12 +42,12 @@
 1 Drown in the Loch
 2 Raffine's Tower
 1 Thought Erasure
-1 Sheoldred, the Apocalypse
 1 Fatal Push
+1 Sheoldred, the Apocalypse
 1 Haunted Ridge
-2 Sheoldred, the Apocalypse
 2 Fatal Push
 2 Knight of Autumn
+2 Sheoldred, the Apocalypse
 3 Fatal Push
 3 Savai Triome
 4 Fatal Push
@@ -73,12 +73,12 @@
 1 Oath of Kaya
 2 The Celestus
 2 Kambal, Consul of Allocation
-1 Anguished Unmaking
 1 Dragonlord Dromoka
 1 Kolaghan, the Storm's Fury
 1 Dragonlord Ojutai
 1 Dragonlord Silumgar
 1 Dragonlord Atarka
+1 Anguished Unmaking
 2 Dragonlord Silumgar
 1 Deathrite Shaman
 2 Deathrite Shaman
@@ -103,28 +103,27 @@
 2 Sulfur Falls
 2 Blood Crypt
 2 Woodland Cemetery
+1 Hall of Storm Giants
 1 Dream Trawler
 1 Sphinx's Revelation
 1 Ionize
 1 Kaya, Orzhov Usurper
 1 Ertai Resurrected
 1 Field of Ruin
-1 Hall of Storm Giants
 1 Boseiju, Who Endures
 1 Valakut Awakening
-2 Field of Ruin
-2 Extinction Event
-2 Kaya, Orzhov Usurper
-2 Ionize
 2 Hall of Storm Giants
+2 Kaya, Orzhov Usurper
+2 Extinction Event
+2 Ionize
 2 Valakut Awakening
-3 Field of Ruin
-3 Ionize
+2 Field of Ruin
 3 Extinction Event
-1 Golos, Tireless Pilgrim
+3 Ionize
+3 Field of Ruin
 1 March of Otherworldly Light
+1 Golos, Tireless Pilgrim
 1 Absorb
-2 Golos, Tireless Pilgrim
 2 March of Otherworldly Light
 2 Valki, God of Lies
 2 Plains
@@ -132,6 +131,7 @@
 2 Island
 2 Absorb
 2 Evolving Wilds
+2 Golos, Tireless Pilgrim
 3 Dovin's Veto
 3 Evolving Wilds
 3 Absorb

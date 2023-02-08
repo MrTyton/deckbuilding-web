@@ -109,8 +109,8 @@
 2 Otawara, Soaring City
 2 Geyadrone Dihada
 3 Brazen Borrower
-1 Ob Nixilis, the Adversary
 1 Misty Rainforest
+1 Ob Nixilis, the Adversary
 2 Ob Nixilis, the Adversary
 3 Ob Nixilis, the Adversary
 3 Tasigur, the Golden Fang
@@ -118,25 +118,25 @@
 2 Darkslick Shores
 3 Darkslick Shores
 3 Murktide Regent
-1 Persist
-1 Ox of Agonas
+3 Subtlety
+4 Subtlety
 1 Archon of Cruelty
-1 Den of the Bugbear
+1 Persist
 1 Otherworldly Gaze
 1 Prismari Command
-2 Archon of Cruelty
+1 Den of the Bugbear
+1 Ox of Agonas
 2 Persist
+2 Archon of Cruelty
 2 Otherworldly Gaze
 2 Prismari Command
-3 Archon of Cruelty
 3 Persist
+3 Archon of Cruelty
 3 Otherworldly Gaze
 3 Prismari Command
 3 Seasoned Pyromancer
-4 Persist
 4 Archon of Cruelty
-3 Subtlety
-4 Subtlety
+4 Persist
 1 Reflecting Pool
 2 Dreadbore
 3 Memory Deluge
@@ -147,10 +147,10 @@
 1 Notion Thief
 2 Day's Undoing
 2 Notion Thief
+3 Fury
 3 Terminate
 3 Narset, Parter of Veils
 3 Hidetsugu Consumes All
-3 Fury
 4 Hidetsugu Consumes All
 4 Terminate
 1 Urborg, Tomb of Yawgmoth
@@ -158,9 +158,9 @@
 1 Tale's End
 1 Nicol Bolas, Dragon-God
 1 Force of Despair
+2 Swamp
 2 Damnation
 2 Nicol Bolas, Dragon-God
-2 Swamp
 3 Swamp
 3 Nicol Bolas, Dragon-God
 4 Nicol Bolas, Dragon-God
@@ -172,7 +172,6 @@
 3 Aven Heartstabber
 4 Aven Heartstabber
 1 Sokenzan, Crucible of Defiance
-1 Gemstone Caverns
 1 Chandra, Torch of Defiance
 1 Chalice of the Void
 1 Yidaro, Wandering Monster
@@ -182,6 +181,7 @@
 1 Fires of Invention
 1 Flooded Strand
 1 Nexus of Fate
+1 Gemstone Caverns
 1 Omen of the Sea
 1 Time Warp
 2 Chalice of the Void
@@ -209,6 +209,6 @@
 4 Island
 1 Thought Scour
 2 Thought Scour
-3 Inquisition of Kozilek
 3 Thought Scour
+3 Inquisition of Kozilek
 4 Thought Scour
