@@ -11,15 +11,15 @@
 2 Hajar, Loyal Bodyguard
 2 Mountain
 3 Fable of the Mirror-Breaker
+4 The Akroan War
+4 Fable of the Mirror-Breaker
 1 Ramunap Ruins
 1 Hashep Oasis
+1 Glorybringer
 1 Thought-Knot Seer
 2 Thought-Knot Seer
 3 Thought-Knot Seer
 4 Thought-Knot Seer
-4 The Akroan War
-4 Fable of the Mirror-Breaker
-1 Glorybringer
 3 Scavenging Ooze
 2 Ramunap Ruins
 1 Hanweir Battlements
@@ -40,6 +40,9 @@
 3 Mountain
 4 Forest
 4 Mountain
+1 Copperline Gorge
+2 Copperline Gorge
+3 Copperline Gorge
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
@@ -49,6 +52,8 @@
 1 Field of Ruin
 1 Embercleave
 2 Embercleave
+1 Migloz, Maze Crusher
+2 Migloz, Maze Crusher
 1 Blood Crypt
 2 Blood Crypt
 1 Combat Celebrant
@@ -57,11 +62,6 @@
 1 Gruul Spellbreaker
 2 Gruul Spellbreaker
 3 Gruul Spellbreaker
-1 Copperline Gorge
-1 Migloz, Maze Crusher
-2 Copperline Gorge
-2 Migloz, Maze Crusher
-3 Copperline Gorge
 1 Ranger Class
 1 Kari Zev, Skyship Raider
 2 Ranger Class
@@ -71,6 +71,12 @@
 2 Abrade
 3 Abrade
 4 Glorybringer
+1 Sword of Forge and Frontier
+1 Lukka, Bound to Ruin
+2 Lukka, Bound to Ruin
+2 Sword of Forge and Frontier
+3 Sword of Forge and Frontier
+4 Copperline Gorge
 1 Terror of the Peaks
 1 Blast Zone
 1 Sheltered Thicket
@@ -87,8 +93,8 @@
 2 Rockfall Vale
 3 Terror of the Peaks
 3 Rootwire Amalgam
-3 Rockfall Vale
 3 Cut/Ribbons
+3 Rockfall Vale
 3 Fires of Invention
 3 Careful Cultivation
 4 Rockfall Vale
