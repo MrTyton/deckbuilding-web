@@ -1,43 +1,46 @@
 2 Nettlecyst
 2 Forging the Anchor
-1 Razortide Bridge
-2 Welding Jar
 1 Haywire Mite
-1 Tanglepool Bridge
-2 Tanglepool Bridge
-1 Spire of Industry
+1 Razortide Bridge
 1 Hallowed Fountain
 1 Esper Sentinel
 2 Esper Sentinel
 3 Esper Sentinel
-2 Razortide Bridge
-1 Seachrome Coast
+4 Esper Sentinel
+1 Spire of Industry
+1 Tanglepool Bridge
+2 Tanglepool Bridge
 1 Urza, Lord High Artificer
 2 Urza, Lord High Artificer
-2 Seachrome Coast
 1 Moonsnare Prototype
 2 Moonsnare Prototype
 3 Moonsnare Prototype
-4 Esper Sentinel
 3 Urza, Lord High Artificer
 1 Portable Hole
 2 Portable Hole
-3 Razortide Bridge
+1 Seachrome Coast
+2 Razortide Bridge
+2 Seachrome Coast
 1 Flooded Strand
-2 Hallowed Fountain
-1 Soul-Guide Lantern
+1 Plains
+3 Portable Hole
 1 Kaldra Compleat
 1 Stoneforge Mystic
+2 Hallowed Fountain
 2 Stoneforge Mystic
+1 Soul-Guide Lantern
+3 Stoneforge Mystic
+4 Stoneforge Mystic
 1 The Restoration of Eiganjo
 1 Power Conduit
 2 The Restoration of Eiganjo
 2 Power Conduit
 3 The Restoration of Eiganjo
-3 Stoneforge Mystic
-4 Stoneforge Mystic
-1 Marsh Flats
 1 Arid Mesa
+4 The Restoration of Eiganjo
+2 Arid Mesa
+3 Arid Mesa
+1 Marsh Flats
 1 Windswept Heath
 1 Field of Ruin
 1 Snow-Covered Plains
@@ -54,8 +57,6 @@
 2 Ephemerate
 2 March of Otherworldly Light
 2 Solitude
-2 Arid Mesa
-3 Arid Mesa
 3 Snow-Covered Plains
 3 Marsh Flats
 3 Thraben Inspector
@@ -68,49 +69,50 @@
 4 Solitude
 5 Snow-Covered Plains
 6 Snow-Covered Plains
+2 Welding Jar
 4 Moonsnare Prototype
-1 Plains
-3 Portable Hole
-3 Forging the Anchor
 1 Silverbluff Bridge
+3 Forging the Anchor
 3 Tanglepool Bridge
-4 Razortide Bridge
-4 The Restoration of Eiganjo
-1 Metallic Rebuke
-2 Metallic Rebuke
-2 Flooded Strand
 1 Pithing Needle
+3 Razortide Bridge
+4 Razortide Bridge
+2 Flooded Strand
+3 Treasure Vault
 1 Ingenious Smith
 2 Ingenious Smith
 3 Ingenious Smith
+4 Ingenious Smith
 2 Smuggler's Copter
 3 Windswept Heath
+4 Portable Hole
 1 Expedition Map
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
+1 Metallic Rebuke
+2 Metallic Rebuke
 2 Spire of Industry
-3 Metallic Rebuke
-3 Nettlecyst
 3 Seachrome Coast
 3 Hallowed Fountain
 4 Tanglepool Bridge
 4 Urza, Lord High Artificer
-4 Portable Hole
-4 Ingenious Smith
-3 Treasure Vault
+3 Nettlecyst
+3 Flooded Strand
+4 Flooded Strand
+1 Dispatch
 1 Watery Grave
 1 The Reality Chip
 3 Island
-1 Cliffhaven Kitesail
-1 Glimmervoid
+1 Mox Amber
+2 Mox Amber
 1 Mishra's Bauble
 1 Emry, Lurker of the Loch
 2 Emry, Lurker of the Loch
 3 Emry, Lurker of the Loch
-1 Mox Amber
+1 Cliffhaven Kitesail
+1 Glimmervoid
 1 Upheaval
 1 Sai, Master Thopterist
-2 Mox Amber
 2 Sai, Master Thopterist
 2 Upheaval
 3 Sai, Master Thopterist
@@ -124,43 +126,68 @@
 8 Island
 9 Island
 10 Island
+1 Lightning Greaves
+1 Eiganjo, Seat of the Empire
+2 Plains
+2 Dispatch
+3 Dispatch
+3 Plains
+3 Power Conduit
+4 Dispatch
+4 Plains
+5 Plains
+6 Plains
+7 Plains
+8 Plains
+9 Plains
+10 Plains
+11 Plains
+3 Metallic Rebuke
 1 Myr Enforcer
 2 Myr Enforcer
 4 Forging the Anchor
 4 Seachrome Coast
 4 Nettlecyst
-3 Flooded Strand
-4 Flooded Strand
 2 Otawara, Soaring City
 2 Relic of Progenitus
 1 Waterlogged Grove
 2 Silverbluff Bridge
-1 Dispatch
+1 Mishra's Research Desk
+1 Galvanic Blast
+2 Galvanic Blast
+3 Galvanic Blast
+4 Galvanic Blast
 1 Polluted Delta
 1 Breeding Pool
-1 Inkmoth Nexus
 1 Temple Garden
 1 Ethersworn Sphinx
 2 Ethersworn Sphinx
 2 Shadowspear
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
 3 Spire of Industry
 2 Waterlogged Grove
 3 Waterlogged Grove
-1 Mishra's Research Desk
 4 Treasure Vault
 4 Hallowed Fountain
-1 Galvanic Blast
 1 Fiery Islet
 1 Etched Champion
-2 Galvanic Blast
 2 Fiery Islet
-3 Galvanic Blast
 3 Silverbluff Bridge
-4 Galvanic Blast
 4 Silverbluff Bridge
+4 Power Conduit
+1 Steam Vents
+1 Sunbaked Canyon
+1 Sacred Foundry
+1 Skrelv, Defector Mite
+1 Malcator, Purity Overseer
+1 Ragavan, Nimble Pilferer
+2 Sunbaked Canyon
+2 Ragavan, Nimble Pilferer
+2 Skrelv, Defector Mite
+2 Malcator, Purity Overseer
+3 Skrelv, Defector Mite
+3 Ragavan, Nimble Pilferer
+4 Ragavan, Nimble Pilferer
+4 Skrelv, Defector Mite
 1 Swamp
 1 Ledger Shredder
 1 Nihil Spellbomb
@@ -173,16 +200,16 @@
 2 Haywire Mite
 2 Watery Grave
 2 The Underworld Cookbook
+2 Academy Manufactor
 2 Asmoranomardicadaistinaculdacar
 2 Ovalchase Daredevil
 2 Polluted Delta
-2 Academy Manufactor
 3 Watery Grave
 3 Ledger Shredder
 3 Mishra's Bauble
 3 Polluted Delta
-3 Ovalchase Daredevil
 3 Asmoranomardicadaistinaculdacar
+3 Ovalchase Daredevil
 3 The Underworld Cookbook
 4 Ledger Shredder
 4 The Underworld Cookbook
@@ -195,26 +222,10 @@
 3 Relic of Progenitus
 3 Flayer Husk
 4 Relic of Progenitus
-1 Lightning Greaves
-1 Eiganjo, Seat of the Empire
-2 Plains
-2 Dispatch
-3 Dispatch
-3 Power Conduit
-3 Plains
-4 Dispatch
-4 Plains
-4 Power Conduit
-5 Plains
-6 Plains
-7 Plains
-8 Plains
-9 Plains
-10 Plains
-11 Plains
 1 Silent Clearing
+1 Sigarda's Aid
 1 Blacksmith's Skill
 1 Spell Pierce
+1 Inkmoth Nexus
 1 Puresteel Paladin
-1 Sigarda's Aid
 1 Giver of Runes

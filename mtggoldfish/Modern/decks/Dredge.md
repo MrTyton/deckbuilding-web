@@ -62,6 +62,6 @@
 |                    3|[Gemstone Caverns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122094)   |                     |                                                                                                 |
 |                    4|[Gemstone Caverns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122094)   |                     |                                                                                                 |
 |                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)  |                     |                                                                                                 |
-|                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)   |                     |                                                                                                 |
 |                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)   |                     |                                                                                                 |
+|                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)   |                     |                                                                                                 |
 

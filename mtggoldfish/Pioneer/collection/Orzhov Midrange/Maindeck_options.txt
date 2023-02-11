@@ -16,22 +16,22 @@
 2 Invoke Despair
 3 Misery's Shadow
 2 Skysovereign, Consul Flagship
-1 Raffine's Informant
-1 Greasefang, Okiba Boss
-1 Parhelion II
 1 Stitcher's Supplier
+1 Parhelion II
+1 Greasefang, Okiba Boss
+1 Raffine's Informant
 2 Raffine's Informant
 2 Parhelion II
-2 Greasefang, Okiba Boss
 2 Stitcher's Supplier
-3 Raffine's Informant
+2 Greasefang, Okiba Boss
 3 Parhelion II
-3 Greasefang, Okiba Boss
+3 Raffine's Informant
 3 Stitcher's Supplier
+3 Greasefang, Okiba Boss
 4 Raffine's Informant
-4 Greasefang, Okiba Boss
-4 Parhelion II
 4 Stitcher's Supplier
+4 Parhelion II
+4 Greasefang, Okiba Boss
 1 Guardian of New Benalia
 2 Guardian of New Benalia
 3 Serra Paragon
@@ -58,8 +58,8 @@
 2 Luminarch Aspirant
 3 Luminarch Aspirant
 4 Luminarch Aspirant
-1 Power Word Kill
 1 Portable Hole
+1 Power Word Kill
 1 Wasteland Strangler
 2 Portable Hole
 2 Wasteland Strangler
@@ -84,8 +84,8 @@
 3 Field of Ruin
 4 Field of Ruin
 2 Isolated Chapel
-1 Benalish Sleeper
 1 Obzedat, Ghost Council
+1 Benalish Sleeper
 2 Obzedat, Ghost Council
 2 Benalish Sleeper
 3 Benalish Sleeper
@@ -120,40 +120,47 @@
 2 Cave of the Frost Dragon
 2 Power Word Kill
 3 Portable Hole
+1 Hagra Mauling
 1 Demolition Field
 1 Reidane, God of the Worthy
-1 Eliminate
 1 Go for the Throat
-1 Hagra Mauling
+1 Eliminate
 1 Fabled Passage
 1 Liliana, the Last Hope
 1 Ayli, Eternal Pilgrim
 2 Fabled Passage
 2 Archangel Avacyn
+1 Anguished Unmaking
 1 Liliana, Dreadhorde General
 1 Extinction Event
-1 Anguished Unmaking
 2 Oath of Kaya
 2 Extinction Event
-3 Thraben Inspector
 1 Declaration in Stone
 1 Temporary Lockdown
 2 Temporary Lockdown
 3 Temporary Lockdown
+3 Thraben Inspector
+1 Nykthos, Shrine to Nyx
 1 Snow-Covered Swamp
 1 Path of Peril
-1 Nykthos, Shrine to Nyx
 1 Phyrexian Obliterator
 1 Black Sun's Twilight
-2 Takenuma, Abandoned Mire
-2 Murderous Rider
-2 Path of Peril
 2 Nykthos, Shrine to Nyx
+2 Takenuma, Abandoned Mire
+2 Path of Peril
+2 Murderous Rider
 2 Phyrexian Obliterator
 2 Black Sun's Twilight
 3 Murderous Rider
 3 Path of Peril
 3 Kalitas, Traitor of Ghet
+1 Bloodsoaked Champion
+1 Rankle, Master of Pranks
+2 Rankle, Master of Pranks
+2 Bloodsoaked Champion
+3 Bloodsoaked Champion
+3 Gix, Yawgmoth Praetor
+4 Bloodsoaked Champion
 1 Charming Prince
 1 Phyrexian Fleshgorger
 1 Hushbringer
@@ -167,32 +174,48 @@
 1 The Meathook Massacre
 2 The Meathook Massacre
 4 Spirited Companion
+1 Archon of Emeria
+2 Archon of Emeria
+4 Phyrexian Missionary
+1 Inspiring Vantage
+1 Fable of the Mirror-Breaker
+1 Needleverge Pathway
+1 Sulfurous Springs
+1 Sacred Foundry
+1 Blood Crypt
+1 Blightstep Pathway
+1 Mire Triton
+2 Sacred Foundry
+2 Can't Stay Away
+2 Inspiring Vantage
+2 Fable of the Mirror-Breaker
+2 Blood Crypt
+2 Mire Triton
+3 Fable of the Mirror-Breaker
+3 Blood Crypt
+3 Mire Triton
+3 Can't Stay Away
+4 Skysovereign, Consul Flagship
+4 Can't Stay Away
+4 Fable of the Mirror-Breaker
+4 Blood Crypt
+4 Mire Triton
+1 Silverquill Silencer
+2 Silverquill Silencer
+3 Silverquill Silencer
+3 Invoke Despair
+4 Silverquill Silencer
+4 Invoke Despair
 1 Thalia, Heretic Cathar
 1 Steel Seraph
 1 Kunoros, Hound of Athreos
 2 Steel Seraph
 3 Steel Seraph
-3 Castle Locthwain
 3 Reckoner Bankbuster
+3 Castle Locthwain
 4 Steel Seraph
-4 Swamp
 4 Sheoldred, the Apocalypse
-1 Archon of Emeria
-2 Archon of Emeria
-4 Phyrexian Missionary
-1 Bloodsoaked Champion
-1 Rankle, Master of Pranks
-2 Rankle, Master of Pranks
-2 Bloodsoaked Champion
-3 Bloodsoaked Champion
-3 Gix, Yawgmoth Praetor
-4 Bloodsoaked Champion
-1 Silverquill Silencer
-2 Silverquill Silencer
-3 Silverquill Silencer
-3 Invoke Despair
-4 Invoke Despair
-4 Silverquill Silencer
+4 Swamp
 1 Sorin the Mirthless
 1 Adanto Vanguard
 1 Adeline, Resplendent Cathar
@@ -200,26 +223,3 @@
 2 Adanto Vanguard
 3 Adanto Vanguard
 4 Adanto Vanguard
-1 Needleverge Pathway
-1 Sulfurous Springs
-1 Fable of the Mirror-Breaker
-1 Blood Crypt
-1 Inspiring Vantage
-1 Blightstep Pathway
-1 Sacred Foundry
-1 Mire Triton
-2 Inspiring Vantage
-2 Fable of the Mirror-Breaker
-2 Blood Crypt
-2 Can't Stay Away
-2 Sacred Foundry
-2 Mire Triton
-3 Fable of the Mirror-Breaker
-3 Blood Crypt
-3 Mire Triton
-3 Can't Stay Away
-4 Mire Triton
-4 Fable of the Mirror-Breaker
-4 Skysovereign, Consul Flagship
-4 Can't Stay Away
-4 Blood Crypt

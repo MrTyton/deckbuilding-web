@@ -106,7 +106,7 @@
 |                    3|[Reckless Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439767)             |                     |                                                                                                   |
 |                    4|[Reckless Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439767)             |                     |                                                                                                   |
 |                    3|[Shivan Reef](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129731)               |                     |                                                                                                   |
-|                    4|[Shivan Reef](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129731)               |                     |                                                                                                   |
 |                    4|[Play with Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534933)            |                     |                                                                                                   |
 |                    4|[Balmor, Battlemage Captain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=574676)|                     |                                                                                                   |
+|                    4|[Shivan Reef](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129731)               |                     |                                                                                                   |
 
