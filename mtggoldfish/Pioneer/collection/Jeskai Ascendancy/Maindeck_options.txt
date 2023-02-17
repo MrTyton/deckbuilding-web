@@ -1,29 +1,28 @@
-2 Jetmir's Garden
-3 Ketria Triome
-2 Breeding Pool
-3 Raugrin Triome
+2 Ketria Triome
+4 Strategic Planning
 1 Rootbound Crag
 1 Sulfur Falls
 2 Rootbound Crag
-1 Portable Hole
-2 Portable Hole
+3 Ketria Triome
 2 Glacial Fortress
 2 Sulfur Falls
 3 Glacial Fortress
 3 Sulfur Falls
 3 Spara's Headquarters
 4 Ketria Triome
+1 Portable Hole
+2 Portable Hole
 1 Dig Through Time
 2 Dig Through Time
 3 Dig Through Time
 2 Hallowed Fountain
-1 Hengegate Pathway
+3 Raugrin Triome
 1 Boseiju, Who Endures
-2 Stomping Ground
+4 Botanical Sanctum
+1 Hengegate Pathway
 1 Tormod's Crypt
 1 Spirebluff Canal
 2 Tormod's Crypt
-2 Hengegate Pathway
 1 Retraction Helix
 2 Retraction Helix
 1 Emry, Lurker of the Loch
@@ -36,6 +35,7 @@
 3 Emry, Lurker of the Loch
 3 Fallaji Archaeologist
 4 Emry, Lurker of the Loch
+2 Hengegate Pathway
 4 Fallaji Archaeologist
 3 Mox Amber
 1 Mishra's Research Desk
@@ -51,52 +51,53 @@
 2 Inspiring Vantage
 4 Spirebluff Canal
 3 Retraction Helix
-4 Botanical Sanctum
 4 Spara's Headquarters
 4 Fiery Impulse
 3 Jetmir's Garden
+2 Stomping Ground
+1 Leyline Binding
+2 Leyline Binding
 3 Steam Vents
 1 Saheeli, Sublime Artificer
 2 Saheeli, Sublime Artificer
-3 Hengegate Pathway
 3 Inspiring Vantage
-1 Leyline Binding
-2 Leyline Binding
-1 Dreamroot Cascade
+1 Expedite
 1 Otherworldly Gaze
 3 Bitter Reunion
 3 Saheeli, Sublime Artificer
 1 Riverglide Pathway
 4 Inspiring Vantage
-1 Expedite
 1 Tamiyo, Collector of Tales
+3 Hengegate Pathway
 4 Dig Through Time
 1 Izzet Charm
 2 Izzet Charm
-4 Sylvan Awakening
 4 Chained to the Rocks
+4 Sylvan Awakening
 3 Leyline Binding
 4 Leyline Binding
+1 Dreamroot Cascade
 1 Founding the Third Path
 1 Adarkar Wastes
 2 Adarkar Wastes
-3 Portable Hole
-1 Idyllic Tutor
-1 Blisterspit Gremlin
-1 Escape to the Wilds
-3 Izzet Charm
-2 Dreamroot Cascade
-2 Founding the Third Path
 1 Mana Confluence
 2 Mana Confluence
 3 Mana Confluence
+1 Blisterspit Gremlin
+1 Escape to the Wilds
+3 Breeding Pool
+3 Izzet Charm
+2 Founding the Third Path
 1 Impulse
 2 Impulse
 3 Impulse
+3 Portable Hole
 4 Portable Hole
-1 Paradise Druid
 1 Deserted Beach
-3 Breeding Pool
+1 Idyllic Tutor
+1 Paradise Druid
+1 Mountain
+1 Temple Garden
 1 Galvanic Iteration
 1 Overgrown Farmland
 1 Showdown of the Skalds
@@ -114,18 +115,34 @@
 1 Hinterland Harbor
 2 Hinterland Harbor
 3 Hinterland Harbor
-2 Expedite
-3 Stomping Ground
+1 Dig Up
+1 Forest
+1 Commune with Spirits
+1 Claim/Fame
+1 Rona's Vortex
+1 Unbridled Growth
+2 Dig Up
+2 Commune with Spirits
+2 Claim/Fame
+2 Rona's Vortex
+2 Paradise Druid
+2 Unbridled Growth
+3 Commune with Spirits
+3 Unbridled Growth
+3 Paradise Druid
+3 Rona's Vortex
+4 Unbridled Growth
 1 Strangle
 2 Strangle
 4 Impulse
+2 Dreamroot Cascade
+2 Expedite
 1 Ledger Shredder
 1 Terrarion
 2 Ledger Shredder
-1 Mountain
 4 Breeding Pool
-1 Temple Garden
 1 Yavimaya Coast
+1 Seachrome Coast
 1 Voldaren Epicure
 1 Xander's Lounge
 1 Spell Pierce
@@ -135,6 +152,7 @@
 2 Third Path Iconoclast
 3 Third Path Iconoclast
 3 Strangle
+3 Stomping Ground
 4 Izzet Charm
 1 Spire of Industry
 1 Moonsnare Prototype
@@ -165,32 +183,13 @@
 3 Tormod's Crypt
 4 Hengegate Pathway
 4 Steam Vents
-1 Silence
-4 Stomping Ground
-1 Dig Up
-1 Rona's Vortex
-1 Forest
-1 Commune with Spirits
-1 Claim/Fame
-1 Unbridled Growth
-2 Dig Up
-2 Commune with Spirits
-2 Claim/Fame
-2 Rona's Vortex
-2 Paradise Druid
-2 Unbridled Growth
-3 Commune with Spirits
-3 Unbridled Growth
-3 Paradise Druid
-3 Rona's Vortex
-4 Unbridled Growth
 3 Dreamroot Cascade
 4 Jetmir's Garden
 1 Altar of the Brood
 1 Twinflame
 1 Briber's Purse
-1 Mystical Dispute
 1 Reclaim
+1 Mystical Dispute
 1 Dragon Mantle
 1 Taigam's Scheming
 1 Commune with the Gods

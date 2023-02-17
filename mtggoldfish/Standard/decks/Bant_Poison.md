@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Bant%20Poison/Bant%20Poison.txt)
 #### [Export Arena List](../collection/Bant%20Poison/Bant%20Poison_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Adarkar%20Wastes%0A3%09Bloated%20Contaminator%0A1%09Boseiju,%20Who%20Endures%0A2%09Brushland%0A1%09Eiganjo,%20Seat%20of%20the%20Empire%0A4%09Experimental%20Augury%0A1%09Forest%0A4%09Homestead%20Courage%0A1%09Island%0A4%09Jawbone%20Duelist%0A1%09March%20of%20Burgeoning%20Life%0A3%09March%20of%20Swirling%20Mist%0A1%09Mirrex%0A1%09Plains%0A4%09Razorverge%20Thicket%0A4%09Seachrome%20Coast%0A3%09Serum%20Snare%0A4%09Skrelv,%20Defector%20Mite%0A3%09Slip%20Out%20the%20Back%0A3%09Spara's%20Headquarters%0A3%09Tyvar's%20Stand%0A4%09Venerated%20Rotpriest%0A3%09Yavimaya%20Coast&deckside=2%09Annex%20Sentry%0A3%09Bring%20the%20Ending%0A3%09Cankerbloom%0A2%09Dennick,%20Pious%20Apprentice%0A2%09Extraction%20Specialist%0A3%09Fateful%20Absence)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Adarkar%20Wastes%0A3%09Bloated%20Contaminator%0A1%09Boseiju,%20Who%20Endures%0A2%09Brushland%0A1%09Eiganjo,%20Seat%20of%20the%20Empire%0A4%09Experimental%20Augury%0A1%09Forest%0A4%09Homestead%20Courage%0A1%09Island%0A4%09Jawbone%20Duelist%0A1%09March%20of%20Burgeoning%20Life%0A3%09March%20of%20Swirling%20Mist%0A1%09Mirrex%0A1%09Plains%0A4%09Razorverge%20Thicket%0A4%09Seachrome%20Coast%0A3%09Serum%20Snare%0A4%09Skrelv,%20Defector%20Mite%0A3%09Slip%20Out%20the%20Back%0A3%09Spara's%20Headquarters%0A3%09Tyvar's%20Stand%0A4%09Venerated%20Rotpriest%0A3%09Yavimaya%20Coast&deckside=3%09Annex%20Sentry%0A3%09Cankerbloom%0A1%09Dennick,%20Pious%20Apprentice%0A2%09Disdainful%20Stroke%0A1%09Lantern%20Flare%0A2%09Loran%20of%20the%20Third%20Path%0A3%09Negate)
 # Maindeck
 
 |                                             Instant (7)                                             |                                               Land (23)                                                |                                         Sorcery (4)                                          |     Unknown (26)      |
@@ -22,10 +22,24 @@
 
 # Sideboard
 
-|                                           Creature (2)                                           |                                        Instant (3)                                         |       Unknown (10)        |
-|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------|
-|2 [Extraction Specialist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555213)|3 [Fateful Absence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534774)|2 Annex Sentry             |
-|                                                                                                  |                                                                                            |3 Bring the Ending         |
-|                                                                                                  |                                                                                            |3 Cankerbloom              |
-|                                                                                                  |                                                                                            |2 Dennick, Pious Apprentice|
+|                                            Creature (2)                                            |                                         Instant (6)                                          |        Unknown (7)        |
+|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------|
+|2 [Loran of the Third Path](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=583597)|2 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|3 Annex Sentry             |
+|                                                                                                    |1 [Lantern Flare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=540855)    |3 Cankerbloom              |
+|                                                                                                    |3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |1 Dennick, Pious Apprentice|
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
+|--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
+|                    1|Skrelv's Hive                                                                                      |                    1|[Fateful Absence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534774)      |
+|                    2|Skrelv's Hive                                                                                      |                    1|Bring the Ending                                                                                |
+|                    2|[March of Burgeoning Life](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548510)|                    1|[Extraction Specialist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555213)|
+|                    3|Skrelv's Hive                                                                                      |                    2|Bring the Ending                                                                                |
+|                    3|[Brushland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129496)               |                    2|[Extraction Specialist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555213)|
+|                    4|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)          |                    2|Dennick, Pious Apprentice                                                                       |
+|                    4|Skrelv's Hive                                                                                      |                    2|[Fateful Absence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534774)      |
+|                    4|Bloated Contaminator                                                                               |                    3|[Fateful Absence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=534774)      |
+|                    4|Tyvar's Stand                                                                                      |                    3|Bring the Ending                                                                                |
 

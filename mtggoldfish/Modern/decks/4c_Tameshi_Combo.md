@@ -110,6 +110,6 @@
 |                    1|[Explore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451098)                     |                     |                                                                                                    |
 |                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)         |                     |                                                                                                    |
 |                    2|[Explore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451098)                     |                     |                                                                                                    |
-|                    2|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)               |                     |                                                                                                    |
 |                    3|[Explore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451098)                     |                     |                                                                                                    |
+|                    2|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)               |                     |                                                                                                    |
 
