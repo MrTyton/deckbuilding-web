@@ -66,41 +66,37 @@
 1 Consider
 1 Search for Azcanta
 1 Watery Grave
+1 Ephemerate
 1 The Reality Chip
 1 Indatha Triome
 1 Time of Need
 1 Eternal Witness
+1 Noble Hierarch
 1 Bring to Light
 1 Valakut, the Molten Pinnacle
 1 Scapeshift
+1 Time Warp
 1 Savai Triome
 1 Valki, God of Lies
-1 Xander's Lounge
-1 Noble Hierarch
-1 Drowned Catacomb
-1 Time Warp
 1 Overgrown Tomb
 1 Arid Mesa
-1 Dragonskull Summit
+1 Godless Shrine
 1 Ragavan, Nimble Pilferer
-1 Fable of the Mirror-Breaker
 1 Approach of the Second Sun
 1 Marsh Flats
+1 Fable of the Mirror-Breaker
+1 Drowned Catacomb
 1 Kess, Dissident Mage
-1 Flamekin Harbinger
 1 Chromatic Lantern
+1 Dragonskull Summit
 1 Murktide Regent
 1 Explore
 1 Clifftop Retreat
+1 Xander's Lounge
 1 Primeval Titan
 1 The Flame of Keld
-1 Grief
-1 Tamiyo, Compleated Sage
-1 Lava Spike
 1 Kiki-Jiki, Mirror Breaker
-1 Birds of Paradise
-1 Sin Prodder
-1 Godless Shrine
+1 Tamiyo, Compleated Sage
 1 Fires of Invention
 1 Temporal Mastery
 1 Fury
@@ -110,7 +106,6 @@
 1 Platinum Emperion
 1 Fact or Fiction
 1 Subtlety
-1 Ledger Shredder
 1 Path to Exile
 1 Risen Reef
 1 Azor's Elocutors
@@ -124,6 +119,7 @@
 1 Emrakul, the Aeons Torn
 1 Eldrazi Conscription
 1 Coalition Victory
+1 Birds of Paradise
 1 Jasmine Boreal
 1 Fiery Justice
 1 Massive Raid
@@ -137,6 +133,8 @@
 1 Sunpetal Grove
 1 Trading Post
 1 Happily Ever After
+1 Flamekin Harbinger
+1 Sin Prodder
 1 Drift of Phantasms
 1 Salt Road Patrol
 1 Neoform
@@ -156,13 +154,15 @@
 1 Cruel Ultimatum
 1 Deflecting Palm
 1 Chance Encounter
+1 Lava Spike
 1 The Kami War
 1 Trait Doctoring
 1 Hedron Alignment
-1 Ephemerate
+1 Ledger Shredder
 1 Devastation Tide
 1 Sailor of Means
 1 Terminus
+1 Grief
 1 Saddleback Lagac
 1 Battle of Wits
 1 Blood Crypt
@@ -181,16 +181,16 @@
 1 Felidar Sovereign
 1 Rootbound Crag
 2 Wooded Foothills
-2 Bring to Light
-2 Valakut, the Molten Pinnacle
 2 Sacred Foundry
-2 Raugrin Triome
 2 Arid Mesa
 2 Stomping Ground
 2 Noble Hierarch
+2 Bring to Light
+2 Raugrin Triome
+2 Valakut, the Molten Pinnacle
 2 Ragavan, Nimble Pilferer
-2 Explore
 2 Fable of the Mirror-Breaker
+2 Explore
 2 Reflecting Pool
 2 Fires of Invention
 2 Abundant Harvest
@@ -209,12 +209,12 @@
 2 Hedron Alignment
 2 Massive Raid
 3 Temple Garden
-3 Bring to Light
 3 Wooded Foothills
 3 Noble Hierarch
+3 Bring to Light
+3 Steam Vents
 3 Ragavan, Nimble Pilferer
 3 Reflecting Pool
-3 Steam Vents
 3 Explore
 3 Sacred Foundry
 3 Arid Mesa
@@ -232,9 +232,9 @@
 3 Battle of Wits
 3 Utopia Sprawl
 4 Explore
-4 Bring to Light
 4 Temple Garden
 4 Noble Hierarch
+4 Bring to Light
 4 Wooded Foothills
 4 Ragavan, Nimble Pilferer
 4 Arid Mesa
@@ -316,8 +316,8 @@
 2 Field of Ruin
 2 Nexus of Fate
 3 Nexus of Fate
-1 Assassin's Trophy
 1 Creeping Tar Pit
+1 Assassin's Trophy
 1 Snow-Covered Swamp
 1 Pulse of Murasa
 1 Abrupt Decay

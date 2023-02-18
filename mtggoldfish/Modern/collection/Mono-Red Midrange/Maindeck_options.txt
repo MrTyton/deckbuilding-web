@@ -1,69 +1,65 @@
-1 Magus of the Moon
+4 Den of the Bugbear
 4 Ramunap Ruins
+1 Magus of the Moon
 1 Mutavault
 1 Phoenix of Ash
 2 Mutavault
-4 Den of the Bugbear
 3 Mutavault
 4 Mutavault
 8 Mountain
 1 Field of Ruin
 2 Field of Ruin
+3 Field of Ruin
+4 Field of Ruin
+1 Mishra's Research Desk
+1 Pyrite Spellbomb
+2 Pyrite Spellbomb
 1 Experimental Synthesizer
 2 Experimental Synthesizer
 3 Experimental Synthesizer
 4 Experimental Synthesizer
-3 Field of Ruin
-4 Field of Ruin
-1 Gemstone Caverns
-2 Gemstone Caverns
-1 Mishra's Research Desk
 2 Mishra's Research Desk
 3 Mishra's Research Desk
 4 Mishra's Research Desk
-1 Pyrite Spellbomb
-2 Pyrite Spellbomb
-1 Voldaren Epicure
-2 Voldaren Epicure
-3 Voldaren Epicure
-4 Voldaren Epicure
-3 Pyrite Spellbomb
-4 Pyrite Spellbomb
-1 Soul-Guide Lantern
-2 Soul-Guide Lantern
 1 Karn's Sylex
 2 Karn's Sylex
 3 Karn's Sylex
 4 Karn's Sylex
+1 Gemstone Caverns
+2 Gemstone Caverns
+1 Soul-Guide Lantern
+2 Soul-Guide Lantern
+1 Fiery Islet
+1 Voldaren Epicure
 1 Ox of Agonas
+2 Voldaren Epicure
 2 Ox of Agonas
 3 Soul-Guide Lantern
 3 Ox of Agonas
+3 Voldaren Epicure
+4 Voldaren Epicure
 4 Soul-Guide Lantern
 4 Ox of Agonas
-1 Fiery Islet
+3 Pyrite Spellbomb
+4 Pyrite Spellbomb
 9 Mountain
 10 Mountain
-11 Mountain
-12 Mountain
-1 Burst Lightning
-2 Burst Lightning
-2 Fiery Islet
-3 Burst Lightning
 1 Shatterskull Smashing
 2 Shatterskull Smashing
 3 Shatterskull Smashing
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
+1 Seal of Fire
 1 Abrade
 2 Abrade
 1 Urza's Saga
 2 Urza's Saga
 3 Urza's Saga
 4 Urza's Saga
-13 Mountain
 2 Magus of the Moon
 4 Shatterskull Smashing
+11 Mountain
+12 Mountain
 1 Chalice of the Void
 1 Karn, the Great Creator
 2 Karn, the Great Creator
@@ -72,18 +68,24 @@
 3 Snow-Covered Mountain
 3 Abrade
 1 Scavenger Grounds
+1 Mishra's Factory
+2 Mishra's Factory
 1 Strike It Rich
 2 Strike It Rich
 3 Strike It Rich
+1 Burst Lightning
+2 Burst Lightning
+2 Fiery Islet
+3 Burst Lightning
 1 Reckless Impulse
 2 Reckless Impulse
 3 Reckless Impulse
 4 Reckless Impulse
 1 Wastes
-1 Matter Reshaper
 1 Eldrazi Temple
-1 Cavern of Souls
+1 Matter Reshaper
 1 Thought-Knot Seer
+1 Cavern of Souls
 1 Prismatic Vista
 2 Eldrazi Temple
 2 Matter Reshaper
@@ -105,16 +107,16 @@
 4 Abrade
 4 Chalice of the Void
 1 Arid Mesa
-1 Sacred Foundry
 1 Chandra, Torch of Defiance
 1 Ensnaring Bridge
 1 Chandra, Awakened Inferno
 1 Koth, Fire of Resistance
-2 Ensnaring Bridge
+1 Sacred Foundry
 2 Arid Mesa
+2 Ensnaring Bridge
 2 Sacred Foundry
-2 Koth, Fire of Resistance
 2 Chandra, Torch of Defiance
+2 Koth, Fire of Resistance
 3 Ensnaring Bridge
 3 Arid Mesa
 3 Koth, Fire of Resistance
@@ -124,7 +126,6 @@
 2 Forgotten Cave
 3 Forgotten Cave
 4 Forgotten Cave
-1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
 4 Seal of Fire
@@ -162,18 +163,7 @@
 4 Cleansing Wildfire
 4 Unholy Heat
 4 Darksteel Citadel
-1 Galvanic Blast
-1 Blinkmoth Nexus
-1 Shrapnel Blast
-1 Bomat Courier
-2 Galvanic Blast
-2 Blinkmoth Nexus
-2 Shrapnel Blast
-3 Galvanic Blast
-3 Shrapnel Blast
-4 Shrapnel Blast
-4 Galvanic Blast
-14 Mountain
+13 Mountain
 1 Karn, Scion of Urza
 1 Liquimetal Torque
 1 Scrying Sheets

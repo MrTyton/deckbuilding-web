@@ -69,19 +69,19 @@
 1 Night's Whisper
 1 Gix, Yawgmoth Praetor
 1 Hive of the Eye Tyrant
-1 Tainted Indulgence
 1 Persist
+1 Tainted Indulgence
 1 Archon of Cruelty
+2 Archon of Cruelty
 2 Persist
 2 Tainted Indulgence
-2 Archon of Cruelty
-3 Persist
-3 Tainted Indulgence
 3 Malakir Rebirth
+3 Tainted Indulgence
 3 Archon of Cruelty
+3 Persist
+4 Malakir Rebirth
 4 Tainted Indulgence
 4 Persist
-4 Malakir Rebirth
 4 Archon of Cruelty
 3 Blood Moon
 1 Sokenzan, Crucible of Defiance
@@ -101,8 +101,8 @@
 2 Dragon's Rage Channeler
 3 Snapcaster Mage
 3 Dragon's Rage Channeler
-4 Dragon's Rage Channeler
 4 Unholy Heat
+4 Dragon's Rage Channeler
 1 Fiery Islet
 1 Phyrexian Fleshgorger
 1 Magus of the Moon
@@ -127,22 +127,14 @@
 3 Spirebluff Canal
 2 Snow-Covered Swamp
 3 Snow-Covered Swamp
-1 Strike It Rich
-1 Surgical Extraction
-1 Overgrown Tomb
-1 Hidetsugu Consumes All
-2 Verdant Catacombs
-2 Strike It Rich
-3 Verdant Catacombs
-4 Marsh Flats
 1 Aether Spellbomb
 1 Tarfire
 1 Urza's Saga
-1 Nihil Spellbomb
 1 Pyrite Spellbomb
 1 Rise/Fall
-2 Fiery Islet
+1 Nihil Spellbomb
 2 Urza's Saga
+2 Fiery Islet
 2 Rise/Fall
 3 Urza's Saga
 4 Urza's Saga
@@ -151,6 +143,14 @@
 3 Dreadhorde Arcanist
 4 Ledger Shredder
 4 Dreadhorde Arcanist
+1 Strike It Rich
+1 Surgical Extraction
+1 Overgrown Tomb
+1 Hidetsugu Consumes All
+2 Strike It Rich
+2 Verdant Catacombs
+3 Verdant Catacombs
+4 Marsh Flats
 1 Geier Reach Sanitarium
 1 Underworld Breach
 1 Burning Inquiry

@@ -1,9 +1,8 @@
-3 Tanglepool Bridge
 1 Spire of Industry
-2 Island
-2 Welding Jar
+3 Tanglepool Bridge
 1 Forging the Anchor
 1 Glimmervoid
+2 Island
 1 Hallowed Fountain
 1 Portable Hole
 1 Esper Sentinel
@@ -11,31 +10,31 @@
 2 Esper Sentinel
 3 Esper Sentinel
 4 Esper Sentinel
-1 Silverbluff Bridge
-3 Patchwork Automaton
-4 Patchwork Automaton
-1 Metallic Rebuke
-2 Metallic Rebuke
-3 Metallic Rebuke
-1 Urza, Lord High Artificer
-2 Urza, Lord High Artificer
+2 Welding Jar
 1 Plains
 3 Portable Hole
 4 Portable Hole
-3 Urza, Lord High Artificer
+1 Urza, Lord High Artificer
+2 Urza, Lord High Artificer
+1 Metallic Rebuke
+2 Metallic Rebuke
+3 Metallic Rebuke
+3 Patchwork Automaton
+4 Patchwork Automaton
+1 Ingenious Smith
+2 Ingenious Smith
+3 Ingenious Smith
 1 Flooded Strand
 2 Flooded Strand
 3 Flooded Strand
 4 Flooded Strand
 2 Hallowed Fountain
 1 Dispatch
-1 Ingenious Smith
-2 Ingenious Smith
-3 Ingenious Smith
 4 Ingenious Smith
 1 Razortide Bridge
 2 Razortide Bridge
 1 Arid Mesa
+3 Urza, Lord High Artificer
 1 Teferi, Time Raveler
 1 Pithing Needle
 1 Kaldra Compleat
@@ -45,8 +44,8 @@
 4 Stoneforge Mystic
 1 Soul-Guide Lantern
 2 Arid Mesa
-1 Power Conduit
 1 The Restoration of Eiganjo
+1 Power Conduit
 2 The Restoration of Eiganjo
 2 Power Conduit
 3 The Restoration of Eiganjo
@@ -83,7 +82,9 @@
 6 Snow-Covered Plains
 2 Teferi, Time Raveler
 3 Razortide Bridge
+1 Silverbluff Bridge
 1 Seachrome Coast
+2 Forging the Anchor
 3 Treasure Vault
 3 Island
 1 Moonsnare Prototype
@@ -97,14 +98,12 @@
 2 Talisman of Progress
 4 Razortide Bridge
 1 Cliffhaven Kitesail
-2 Forging the Anchor
-2 Silverbluff Bridge
+3 Forging the Anchor
 4 Tanglepool Bridge
 1 Watery Grave
 1 Reality Heist
 2 Reality Heist
 1 Myr Enforcer
-2 Myr Enforcer
 1 Eiganjo, Seat of the Empire
 1 Lightning Greaves
 2 Plains
@@ -121,14 +120,12 @@
 9 Plains
 10 Plains
 11 Plains
-1 Expedition Map
-3 Forging the Anchor
 3 Nettlecyst
 2 Seachrome Coast
 3 Hallowed Fountain
-2 Relic of Progenitus
+1 Expedition Map
+2 Silverbluff Bridge
 1 Waterlogged Grove
-4 Urza, Lord High Artificer
 1 Sacred Foundry
 1 Mishra's Research Desk
 1 Galvanic Blast
@@ -139,6 +136,7 @@
 2 Mox Amber
 1 Temple Garden
 2 Shadowspear
+2 Myr Enforcer
 1 Breeding Pool
 2 Waterlogged Grove
 3 Waterlogged Grove
@@ -150,11 +148,15 @@
 2 Spire of Industry
 3 Silverbluff Bridge
 4 Silverbluff Bridge
-1 Polluted Delta
-3 Seachrome Coast
-4 Seachrome Coast
-4 Hallowed Fountain
-4 Nettlecyst
+1 Oboro, Palace in the Clouds
+1 Flayer Husk
+2 Otawara, Soaring City
+2 Relic of Progenitus
+2 Flayer Husk
+3 Relic of Progenitus
+3 Flayer Husk
+4 Relic of Progenitus
+4 Urza, Lord High Artificer
 4 Power Conduit
 1 Steam Vents
 1 Sunbaked Canyon
@@ -169,13 +171,11 @@
 3 Skrelv, Defector Mite
 4 Ragavan, Nimble Pilferer
 4 Skrelv, Defector Mite
-1 Oboro, Palace in the Clouds
-1 Flayer Husk
-2 Otawara, Soaring City
-2 Flayer Husk
-3 Relic of Progenitus
-3 Flayer Husk
-4 Relic of Progenitus
+1 Unctus, Grand Metatect
+2 Unctus, Grand Metatect
+3 Seachrome Coast
+4 Seachrome Coast
+4 Hallowed Fountain
 1 The Reality Chip
 1 Mishra's Bauble
 1 Emry, Lurker of the Loch
