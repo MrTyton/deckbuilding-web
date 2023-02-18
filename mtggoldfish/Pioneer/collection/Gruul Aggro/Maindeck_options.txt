@@ -1,13 +1,14 @@
-2 Anax, Hardened in the Forge
-1 Rimrock Knight
-2 Rimrock Knight
+2 Audacity
 2 Kari Zev, Skyship Raider
-1 Spikefield Hazard
+1 Anax, Hardened in the Forge
+2 Anax, Hardened in the Forge
 4 Mountain
+1 Spikefield Hazard
 2 Spikefield Hazard
 3 Rimrock Knight
-1 Forest
 1 Bomat Courier
+1 Forest
+2 Bomat Courier
 2 Forest
 3 Bonecrusher Giant
 1 Ghor-Clan Rampager
@@ -21,12 +22,12 @@
 1 Scavenging Ooze
 2 Scavenging Ooze
 3 Forest
-4 Bonecrusher Giant
 4 Forest
+4 Bonecrusher Giant
 5 Forest
 1 Wildborn Preserver
-1 Rhonas the Indomitable
 1 Llanowar Elves
+1 Rhonas the Indomitable
 1 Collected Company
 1 Old-Growth Troll
 1 Cinder Glade
@@ -41,11 +42,11 @@
 3 Collected Company
 3 Game Trail
 4 Collected Company
-2 Bomat Courier
-3 Soul-Scar Mage
 2 Embercleave
 1 Ramunap Ruins
 5 Mountain
+3 Soul-Scar Mage
+3 Bomat Courier
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 Lovestruck Beast
@@ -60,13 +61,10 @@
 1 Zurgo Bellstriker
 2 Zurgo Bellstriker
 2 Ghor-Clan Rampager
-2 Sokenzan, Crucible of Defiance
 1 Heartfire
-3 Bomat Courier
 4 Legion Loyalist
 6 Mountain
 7 Mountain
-3 Kari Zev, Skyship Raider
 1 Rootbound Crag
 2 Rootbound Crag
 3 Rootbound Crag
@@ -80,6 +78,7 @@
 3 Pelt Collector
 4 Pelt Collector
 2 Ramunap Ruins
+2 Sokenzan, Crucible of Defiance
 1 Feldon, Ronom Excavator
 2 Feldon, Ronom Excavator
 3 Audacity
@@ -101,15 +100,9 @@
 2 Skewer the Critics
 3 Light Up the Stage
 3 Ramunap Ruins
+3 Kari Zev, Skyship Raider
 4 Ramunap Ruins
 4 Light Up the Stage
-1 Fanatical Firebrand
-1 Voldaren Epicure
-2 Fanatical Firebrand
-2 Voldaren Epicure
-3 Fanatical Firebrand
-3 Voldaren Epicure
-4 Voldaren Epicure
 1 Nullhide Ferox
 1 Reckless Stormseeker
 1 The Akroan War
@@ -121,7 +114,13 @@
 2 Voltaic Brawler
 3 Reckless Stormseeker
 4 Elvish Mystic
-4 Soul-Scar Mage
+1 Fanatical Firebrand
+1 Voldaren Epicure
+2 Fanatical Firebrand
+2 Voldaren Epicure
+3 Fanatical Firebrand
+3 Voldaren Epicure
+4 Voldaren Epicure
 8 Mountain
 9 Mountain
 1 Mana Confluence
