@@ -1,30 +1,31 @@
 4 Prismatic Ending
-1 Scalding Tarn
 3 Fury
-1 Mountain
-1 Oath of Nissa
 1 Ketria Triome
 1 Indatha Triome
+1 Scalding Tarn
 1 Expressive Iteration
 2 Expressive Iteration
+1 Mountain
+2 Scalding Tarn
 2 Steam Vents
 1 Chalice of the Void
-2 Scalding Tarn
 2 Hallowed Fountain
-1 Fire/Ice
 2 Plains
 1 Ephemerate
 2 Ephemerate
+1 Oath of Nissa
 4 Fable of the Mirror-Breaker
 3 Expressive Iteration
 3 Scalding Tarn
 1 Zagoth Triome
 2 Island
-2 Oath of Nissa
+1 Fire/Ice
 2 Chalice of the Void
 3 Chalice of the Void
+2 Oath of Nissa
 1 Castle Vantress
 4 Expressive Iteration
+1 Eladamri's Call
 1 Snow-Covered Island
 1 Snow-Covered Forest
 1 Snow-Covered Plains
@@ -39,16 +40,16 @@
 2 Gingerbread Cabin
 3 Shape Anew
 4 Shape Anew
-2 Fire/Ice
 4 Fury
-1 Eladamri's Call
+2 Fire/Ice
 4 Scalding Tarn
 1 Magus of the Moon
+2 Eladamri's Call
 3 Wooded Foothills
 1 Counterspell
 2 Counterspell
-2 Eladamri's Call
-2 Forest
+1 Arid Mesa
+1 Spara's Headquarters
 1 Batterskull
 1 Kaldra Compleat
 1 Stoneforge Mystic
@@ -60,16 +61,19 @@
 2 Dead/Gone
 3 Fire/Ice
 4 Fire/Ice
+1 Risen Reef
+2 Risen Reef
+3 Risen Reef
+4 Risen Reef
 1 Yavimaya, Cradle of Growth
 1 Supreme Verdict
 1 Spreading Seas
 2 Spreading Seas
 3 Island
-1 Arid Mesa
 1 Prismatic Vista
-1 Spara's Headquarters
 1 March of Otherworldly Light
 2 March of Otherworldly Light
+2 Forest
 1 Lightning Bolt
 2 Lightning Bolt
 1 Blood Moon
@@ -89,11 +93,7 @@
 1 Spirebluff Canal
 2 Spirebluff Canal
 2 Unholy Heat
-1 Utopia Sprawl
-2 Stomping Ground
-2 Breeding Pool
-2 Utopia Sprawl
-3 Utopia Sprawl
+2 Arid Mesa
 3 Ephemerate
 1 Polluted Delta
 1 Teferi, Hero of Dominaria
@@ -102,26 +102,27 @@
 2 Mystic Gate
 3 Mystic Gate
 3 Supreme Verdict
-1 Risen Reef
-2 Risen Reef
-3 Risen Reef
-4 Risen Reef
-1 Verdant Catacombs
-2 Verdant Catacombs
+1 Endurance
 2 Prismatic Vista
 3 Blood Moon
+1 Verdant Catacombs
+2 Verdant Catacombs
+1 Utopia Sprawl
+2 Stomping Ground
+2 Breeding Pool
+2 Utopia Sprawl
+3 Utopia Sprawl
+1 Subtlety
 1 Snapcaster Mage
 1 Serum Visions
 2 Snapcaster Mage
 2 Serum Visions
 3 Lightning Bolt
-3 Oath of Nissa
 1 Spell Pierce
 3 Unholy Heat
 4 Unholy Heat
 1 Wall of Omens
 2 Wall of Omens
-2 Arid Mesa
 2 Raugrin Triome
 1 Faithful Mending
 1 The Wandering Emperor
@@ -139,11 +140,9 @@
 1 Nahiri, the Harbinger
 2 Otawara, Soaring City
 2 Sacred Foundry
-1 Endurance
 2 Boseiju, Who Endures
 1 Qasali Ambusher
 2 Qasali Ambusher
-1 Subtlety
 1 Peek
 1 Dress Down
 2 Dress Down
@@ -159,37 +158,19 @@
 2 Abundant Growth
 2 Mulldrifter
 4 Wooded Foothills
-1 Seachrome Coast
-1 Omen of the Sea
-2 Seachrome Coast
-2 Omen of the Sea
-3 Omen of the Sea
-4 Omen of the Sea
+3 Oath of Nissa
 4 Oath of Nissa
 1 Remand
 2 Remand
 3 Remand
 3 Serum Visions
 4 Serum Visions
-1 Silence
-1 Karmic Guide
-1 Arbor Elf
-1 Ashiok, Dream Render
-1 Vivien on the Hunt
-1 Kiki-Jiki, Mirror Breaker
-1 Planebound Accomplice
-2 Silence
-2 Arbor Elf
-2 Ashiok, Dream Render
-2 Vivien on the Hunt
-2 Planebound Accomplice
-2 Karmic Guide
-3 Arbor Elf
-3 Stomping Ground
-3 Planebound Accomplice
-3 Vivien on the Hunt
-3 Eladamri's Call
-4 Vivien on the Hunt
+1 Seachrome Coast
+1 Omen of the Sea
+2 Seachrome Coast
+2 Omen of the Sea
+3 Omen of the Sea
+4 Omen of the Sea
 2 Temple Garden
 3 Verdant Catacombs
 3 Gingerbread Cabin

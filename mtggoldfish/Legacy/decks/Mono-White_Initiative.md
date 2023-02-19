@@ -77,7 +77,7 @@
 |                     |                                                                                                      |                    3|[Empty-Shrine Kannushi](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74513)   |
 |                     |                                                                                                      |                    3|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)         |
 |                     |                                                                                                      |                    3|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470)     |
-|                     |                                                                                                      |                    4|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)         |
 |                     |                                                                                                      |                    4|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)         |
+|                     |                                                                                                      |                    4|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)         |
 |                     |                                                                                                      |                    4|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)    |
 

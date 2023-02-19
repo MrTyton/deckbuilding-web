@@ -5,13 +5,13 @@
 3 Walking Ballista
 1 Ulamog, the Ceaseless Hunger
 1 Swamp
-1 Dismember
 1 All Is Dust
+1 Dismember
 2 Dismember
 2 Ulamog, the Ceaseless Hunger
 4 Walking Ballista
-1 Cavern of Souls
 1 Thought-Knot Seer
+1 Cavern of Souls
 2 Thought-Knot Seer
 3 Dismember
 3 Thought-Knot Seer
@@ -24,8 +24,8 @@
 3 Warping Wail
 1 Mazemind Tome
 2 Mazemind Tome
-1 Matter Reshaper
 1 Eldrazi Temple
+1 Matter Reshaper
 2 Matter Reshaper
 2 Eldrazi Temple
 3 Matter Reshaper
@@ -66,19 +66,19 @@
 1 Inscribed Tablet
 1 Basilisk Collar
 1 Gemstone Caverns
-1 Serum Powder
 1 Sorcerous Spyglass
 1 Ensnaring Bridge
+1 Serum Powder
 2 Inscribed Tablet
 2 Gemstone Caverns
-2 Serum Powder
 2 Inventors' Fair
 2 Ensnaring Bridge
+2 Serum Powder
 3 Inscribed Tablet
-3 Serum Powder
+3 Inventors' Fair
 3 Ensnaring Bridge
 3 Spellskite
-3 Inventors' Fair
+3 Serum Powder
 4 Inscribed Tablet
 4 Spellskite
 4 Serum Powder
@@ -89,13 +89,13 @@
 1 Chalice of the Void
 2 Chalice of the Void
 1 Spire of Industry
-1 Treasure Vault
 1 Emrakul, the Aeons Torn
-1 Void Winnower
 1 Paradox Engine
+1 Void Winnower
 1 Witch's Oven
 1 Hedron Archive
 1 Powerstone Shard
+1 Treasure Vault
 1 Metalwork Colossus
 1 Mishra's Bauble
 1 Automated Artificer
@@ -163,8 +163,8 @@
 3 Polymorph
 3 Misty Rainforest
 3 Hard Evidence
-4 Fire/Ice
 4 Warping Wail
+4 Fire/Ice
 4 Polymorph
 4 Hard Evidence
 1 Breeding Pool
@@ -175,9 +175,9 @@
 1 Divide by Zero
 1 Simic Signet
 2 Sylvan Scrying
-2 Nimble Obstructionist
 2 Divide by Zero
 2 Hydroid Krasis
+2 Nimble Obstructionist
 2 Simic Signet
 2 Dreamroot Cascade
 3 Sylvan Scrying

@@ -11,13 +11,12 @@
 3 Island
 4 Island
 5 Island
-1 Manifold Key
+1 Paradox Engine
 1 Lodestone Golem
 1 Ulamog, the Ceaseless Hunger
 1 Saheeli, Sublime Artificer
 1 Emry, Lurker of the Loch
 1 Metalwork Colossus
-1 Paradox Engine
 1 Magma Opus
 1 The Immortal Sun
 1 Sai, Master Thopterist
@@ -25,6 +24,7 @@
 1 Caged Sun
 1 Mox Amber
 1 Hallowed Fountain
+1 Manifold Key
 1 Glacial Fortress
 1 Mirror Box
 1 Ichor Wellspring
@@ -32,7 +32,6 @@
 1 Cloud Key
 1 Drafna, Founder of Lat-Nam
 1 Spark Double
-2 Manifold Key
 2 Lodestone Golem
 2 Emry, Lurker of the Loch
 2 Paradox Engine
@@ -45,6 +44,7 @@
 2 Hengegate Pathway
 2 Hallowed Fountain
 2 Mirror Box
+2 Manifold Key
 2 Drafna, Founder of Lat-Nam
 2 Cloud Key
 2 Mechtitan Core
@@ -108,11 +108,11 @@
 1 Sawtusk Demolisher
 1 Auspicious Starrix
 1 Pouncing Shoreshark
-2 Craterhoof Behemoth
 2 Ancient Ziggurat
 2 Paradise Druid
 2 Gemrazer
 2 Migratory Greathorn
+2 Craterhoof Behemoth
 2 Dreamtail Heron
 2 Auspicious Starrix
 2 Sea-Dasher Octopus
