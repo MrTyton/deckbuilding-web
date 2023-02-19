@@ -61,20 +61,20 @@
 8 Plains
 1 Field of Ruin
 2 Field of Ruin
+1 Extraction Specialist
 1 Serra Paragon
 1 Chained to the Rocks
 1 Fabled Passage
-1 Extraction Specialist
 2 Extraction Specialist
 2 Serra Paragon
 2 Chained to the Rocks
 2 Fabled Passage
 3 Fabled Passage
 3 Thraben Inspector
-3 Extraction Specialist
 3 Charming Prince
-3 Serra Paragon
+3 Extraction Specialist
 3 Chained to the Rocks
+3 Serra Paragon
 4 Thraben Inspector
 4 Charming Prince
 4 Chained to the Rocks
@@ -142,6 +142,11 @@
 1 Urabrask, Heretic Praetor
 2 Fateful Absence
 2 Urabrask, Heretic Praetor
+1 Light Up the Night
+1 Reidane, God of the Worthy
+1 Chandra, Heart of Fire
+2 Reidane, God of the Worthy
+4 Archon of Emeria
 1 Fiery Temper
 1 Aurelia, the Warleader
 1 Stromkirk Occultist
@@ -150,11 +155,6 @@
 3 Stromkirk Occultist
 3 Fiery Temper
 4 Fiery Temper
-1 Light Up the Night
-1 Reidane, God of the Worthy
-1 Chandra, Heart of Fire
-2 Reidane, God of the Worthy
-4 Archon of Emeria
 1 Blast Zone
 1 Anger of the Gods
 1 Spikefield Hazard
@@ -176,9 +176,9 @@
 1 Settle the Wreckage
 1 Linvala, the Preserver
 1 Glorious End
-2 Furycalm Snarl
 2 Settle the Wreckage
 2 Glorious End
+2 Furycalm Snarl
 2 Gisela, the Broken Blade
 3 Settle the Wreckage
 4 March of Otherworldly Light
@@ -219,10 +219,10 @@
 7 Mountain
 8 Mountain
 1 Portal to Phyrexia
-1 Spirited Companion
-1 Repair and Recharge
-1 Overwhelming Splendor
 1 Invoke Justice
+1 Spirited Companion
+1 Overwhelming Splendor
+1 Repair and Recharge
 1 Sungold Sentinel
 2 Spirited Companion
 2 Invoke Justice

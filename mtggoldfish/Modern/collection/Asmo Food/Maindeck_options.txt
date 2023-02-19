@@ -1,5 +1,5 @@
-1 Haywire Mite
 1 Overgrown Tomb
+1 Fable of the Mirror-Breaker
 1 Swamp
 1 Trail of Crumbs
 2 Boseiju, Who Endures
@@ -13,6 +13,7 @@
 2 Academy Manufactor
 3 Academy Manufactor
 1 Mishra's Research Desk
+1 Yavimaya, Cradle of Growth
 1 Nihil Spellbomb
 1 Unearth
 1 Mishra's Bauble
@@ -36,6 +37,8 @@
 3 Time Sieve
 4 Ledger Shredder
 4 Academy Manufactor
+1 Windswept Heath
+2 Windswept Heath
 1 Misty Rainforest
 2 Misty Rainforest
 1 Street Wraith
@@ -48,14 +51,13 @@
 4 Time Sieve
 4 Emry, Lurker of the Loch
 2 Fable of the Mirror-Breaker
-1 Yavimaya, Cradle of Growth
 1 Nurturing Peatland
 1 Witherbloom Command
 2 Witherbloom Command
 2 Nurturing Peatland
 3 Witherbloom Command
-1 Windswept Heath
-2 Windswept Heath
+3 Windswept Heath
+4 Windswept Heath
 1 Breeding Pool
 1 Polluted Delta
 1 Flooded Strand
@@ -71,42 +73,40 @@
 4 Trail of Crumbs
 4 Cauldron Familiar
 1 Soul-Guide Lantern
-1 Cragcrown Pathway
 1 Mountain
 1 Blightstep Pathway
 1 Portal to Phyrexia
 1 Voldaren Epicure
 1 Phyrexian Dragon Engine
 1 Sundering Titan
+1 Cragcrown Pathway
 1 Trash for Treasure
 1 Goblin Engineer
-2 Cragcrown Pathway
 2 Portal to Phyrexia
 2 Voldaren Epicure
 2 Mountain
+2 Cragcrown Pathway
 2 Goblin Engineer
 2 Trash for Treasure
-3 Cragcrown Pathway
 3 Voldaren Epicure
 3 Fable of the Mirror-Breaker
+3 Cragcrown Pathway
 3 Trash for Treasure
 3 Goblin Engineer
-4 Cragcrown Pathway
 4 Fable of the Mirror-Breaker
 4 Voldaren Epicure
 4 Goblin Engineer
 4 Trash for Treasure
+4 Cragcrown Pathway
+1 Minamo, School at Water's Edge
 1 Godless Shrine
 1 Hallowed Fountain
 1 Marsh Flats
-1 Minamo, School at Water's Edge
 1 Lightning Bolt
 2 Lightning Bolt
 3 Lightning Bolt
 3 Misty Rainforest
 4 Misty Rainforest
-3 Windswept Heath
-4 Windswept Heath
 1 Aether Vial
 1 Witch's Oven
 1 Teething Wurmlet
@@ -127,6 +127,7 @@
 3 Copperline Gorge
 4 Copperline Gorge
 1 Gemstone Caverns
+1 Tranquil Thicket
 2 Gingerbread Cabin
 1 Prismatic Vista
 1 Grist, the Hunger Tide

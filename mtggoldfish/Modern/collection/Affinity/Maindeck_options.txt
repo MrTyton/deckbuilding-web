@@ -1,7 +1,7 @@
 1 Spire of Industry
-3 Tanglepool Bridge
+3 Mistvault Bridge
+4 Mistvault Bridge
 1 Forging the Anchor
-1 Glimmervoid
 2 Island
 1 Hallowed Fountain
 1 Portable Hole
@@ -34,6 +34,7 @@
 1 Razortide Bridge
 2 Razortide Bridge
 1 Arid Mesa
+2 Haywire Mite
 3 Urza, Lord High Artificer
 1 Teferi, Time Raveler
 1 Pithing Needle
@@ -69,14 +70,14 @@
 2 March of Otherworldly Light
 2 Solitude
 3 Snow-Covered Plains
+3 Field of Ruin
 3 Marsh Flats
 3 Thraben Inspector
 3 Ephemerate
-3 Field of Ruin
 3 Solitude
 4 Snow-Covered Plains
-4 Thraben Inspector
 4 Field of Ruin
+4 Thraben Inspector
 4 Solitude
 5 Snow-Covered Plains
 6 Snow-Covered Plains
@@ -84,20 +85,19 @@
 3 Razortide Bridge
 1 Silverbluff Bridge
 1 Seachrome Coast
-2 Forging the Anchor
 3 Treasure Vault
 3 Island
 1 Moonsnare Prototype
 2 Moonsnare Prototype
 3 Moonsnare Prototype
 4 Moonsnare Prototype
-2 Haywire Mite
 2 Smuggler's Copter
 3 Windswept Heath
 1 Talisman of Progress
 2 Talisman of Progress
 4 Razortide Bridge
 1 Cliffhaven Kitesail
+2 Forging the Anchor
 3 Forging the Anchor
 4 Tanglepool Bridge
 1 Watery Grave
@@ -134,8 +134,8 @@
 4 Galvanic Blast
 1 Mox Amber
 2 Mox Amber
+1 Manifold Key
 1 Temple Garden
-2 Shadowspear
 2 Myr Enforcer
 1 Breeding Pool
 2 Waterlogged Grove
@@ -148,15 +148,6 @@
 2 Spire of Industry
 3 Silverbluff Bridge
 4 Silverbluff Bridge
-1 Oboro, Palace in the Clouds
-1 Flayer Husk
-2 Otawara, Soaring City
-2 Relic of Progenitus
-2 Flayer Husk
-3 Relic of Progenitus
-3 Flayer Husk
-4 Relic of Progenitus
-4 Urza, Lord High Artificer
 4 Power Conduit
 1 Steam Vents
 1 Sunbaked Canyon
@@ -176,6 +167,15 @@
 3 Seachrome Coast
 4 Seachrome Coast
 4 Hallowed Fountain
+1 Oboro, Palace in the Clouds
+1 Flayer Husk
+2 Otawara, Soaring City
+2 Relic of Progenitus
+2 Flayer Husk
+3 Flayer Husk
+3 Relic of Progenitus
+4 Urza, Lord High Artificer
+4 Relic of Progenitus
 1 The Reality Chip
 1 Mishra's Bauble
 1 Emry, Lurker of the Loch

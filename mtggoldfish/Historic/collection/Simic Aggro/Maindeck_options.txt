@@ -13,10 +13,10 @@
 5 Island
 1 Paradox Engine
 1 Lodestone Golem
-1 Ulamog, the Ceaseless Hunger
 1 Saheeli, Sublime Artificer
 1 Emry, Lurker of the Loch
 1 Metalwork Colossus
+1 Ulamog, the Ceaseless Hunger
 1 Magma Opus
 1 The Immortal Sun
 1 Sai, Master Thopterist
@@ -138,9 +138,8 @@
 1 Mountain
 1 Thought Monitor
 1 Voltage Surge
-1 Silverbluff Bridge
 1 Yotia Declares War
-1 Darksteel Citadel
+1 Silverbluff Bridge
 1 Metallic Rebuke
 1 Retrofitter Foundry
 1 Spire of Industry
@@ -148,6 +147,7 @@
 1 Steam Vents
 1 Spirebluff Canal
 1 Seek New Knowledge
+1 Darksteel Citadel
 2 Thought Monitor
 2 Voltage Surge
 2 Silverbluff Bridge
@@ -218,7 +218,6 @@
 3 Werewolf Pack Leader
 3 Old-Growth Troll
 3 Llanowar Elves
-4 Werewolf Pack Leader
 4 Steel Leaf Champion
 4 Scavenging Ooze
 4 Pelt Collector
@@ -228,4 +227,5 @@
 4 Botanical Sanctum
 4 Lair of the Hydra
 4 Llanowar Elves
+4 Werewolf Pack Leader
 8 Forest

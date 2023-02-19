@@ -109,7 +109,6 @@
 4 Consider
 1 Hall of Storm Giants
 1 Narset, Parter of Veils
-1 The Cruelty of Gix
 1 Karn, the Great Creator
 1 Teferi, Temporal Pilgrim
 1 Omen of the Sea
@@ -121,8 +120,9 @@
 1 Trial of Ambition
 1 Fires of Invention
 1 Demonic Pact
-2 The Cruelty of Gix
+1 The Cruelty of Gix
 2 Omen of the Sea
+2 The Cruelty of Gix
 2 Fires of Invention
 2 Trial of Ambition
 2 Narset, Parter of Veils
@@ -148,8 +148,8 @@
 1 Kaito Shizuki
 1 Lava Coil
 1 Jace, Vryn's Prodigy
-1 The Scarab God
 1 Murderous Rider
+1 The Scarab God
 2 Jace, Vryn's Prodigy
 2 Mountain
 1 Shark Typhoon
@@ -158,12 +158,14 @@
 2 Sulfurous Springs
 2 Underground River
 2 Ertai Resurrected
-3 Stormcarved Coast
 3 Ertai Resurrected
+3 Stormcarved Coast
 3 Power Word Kill
 2 Reckoner Bankbuster
 3 Reckoner Bankbuster
 3 Riverglide Pathway
+3 Drowned Catacomb
+4 Drowned Catacomb
 3 Darkslick Shores
 4 Darkslick Shores
 1 Slip Out the Back
@@ -189,8 +191,6 @@
 3 Jwari Disruption
 4 Drown in the Loch
 4 Jwari Disruption
-3 Drowned Catacomb
-4 Drowned Catacomb
 3 Treasure Cruise
 4 Treasure Cruise
 1 Glorybringer
@@ -205,8 +205,8 @@
 4 Dragonskull Summit
 4 Kolaghan's Command
 4 Dreadbore
-1 The Royal Scions
 1 Young Pyromancer
+1 The Royal Scions
 1 Chart a Course
 1 Claim/Fame
 2 Young Pyromancer
