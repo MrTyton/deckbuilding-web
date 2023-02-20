@@ -17,8 +17,8 @@
 2 Savai Triome
 1 Glacial Fortress
 2 Ziatora's Proving Ground
-1 Soul of Windgrace
 1 Lotus Cobra
+1 Soul of Windgrace
 2 Lotus Cobra
 3 Lotus Cobra
 1 Rootbound Crag
@@ -29,24 +29,24 @@
 1 Binding the Old Gods
 2 Binding the Old Gods
 2 Forest
-1 Evolving Wilds
 1 Dryad of the Ilysian Grove
 1 Fae of Wishes
 1 Tamiyo, Compleated Sage
 1 Valakut Exploration
 1 Growth Spiral
 1 Druid Class
+1 Evolving Wilds
 2 Soul of Windgrace
-2 Dryad of the Ilysian Grove
 2 Island
-2 Evolving Wilds
+2 Dryad of the Ilysian Grove
 2 Valakut Exploration
+2 Evolving Wilds
 2 Fae of Wishes
 2 Growth Spiral
 2 Druid Class
 3 Dryad of the Ilysian Grove
-3 Evolving Wilds
 3 Valakut Exploration
+3 Evolving Wilds
 4 Dryad of the Ilysian Grove
 4 Evolving Wilds
 4 Jetmir's Garden
@@ -91,9 +91,9 @@
 1 Archon of Emeria
 1 Yorion, Sky Nomad
 1 Portable Hole
-1 Titan of Industry
 1 Agent of Treachery
 1 Skyclave Apparition
+1 Titan of Industry
 1 Knight of Autumn
 1 Enigmatic Incarnation
 1 Callous Bloodmage
@@ -126,52 +126,52 @@
 1 Esika's Chariot
 1 Pithing Needle
 1 The Kami War
-1 Strangle
 1 The Celestus
 1 Deafening Clarion
 1 Tale's End
-2 Raugrin Triome
+1 Strangle
 2 Strangle
+2 Raugrin Triome
 3 Raugrin Triome
 3 Spara's Headquarters
 1 Oath of Nissa
 1 Esika, God of the Tree
+1 Nicol Bolas, Dragon-God
 1 The World Tree
 1 Teferi, Hero of Dominaria
 1 Castle Ardenvale
-1 Nicol Bolas, Dragon-God
 1 The Wandering Emperor
 2 Oath of Nissa
 3 Oath of Nissa
 4 Oath of Nissa
 1 Search for Glory
-1 Nicol Bolas, the Ravager
-1 Kaya, Orzhov Usurper
-1 Hall of Storm Giants
 1 Hagra Mauling
+1 Kaya, Orzhov Usurper
+1 Darkbore Pathway
 1 Ashiok, Nightmare Muse
 1 Supreme Verdict
 1 Karn, the Great Creator
 1 Oath of Kaya
-1 Darkbore Pathway
 1 Temple of Mystery
 1 Castle Vantress
 1 Cry of the Carnarium
 1 Temple of Malady
 1 Abrupt Decay
 1 Bala Ged Recovery
-2 Indatha Triome
+1 Hall of Storm Giants
+1 Nicol Bolas, the Ravager
 2 Nicol Bolas, the Ravager
 2 Search for Glory
 2 Supreme Verdict
 2 Cry of the Carnarium
+2 Indatha Triome
 2 Overgrown Tomb
 2 Oath of Kaya
 2 The Wandering Emperor
 2 Abrupt Decay
-3 Ziatora's Proving Ground
 3 Search for Glory
 3 Abrupt Decay
+3 Ziatora's Proving Ground
 3 Cry of the Carnarium
 3 The Wandering Emperor
 4 Cry of the Carnarium
@@ -179,7 +179,6 @@
 1 Brushland
 1 Settle the Wreckage
 1 Field of Ruin
-1 Paradise Druid
 1 Elspeth, Sun's Champion
 1 Nicol Bolas, God-Pharaoh
 1 Interplanar Beacon
@@ -189,6 +188,7 @@
 1 Sorin, Grim Nemesis
 1 Chandra, Torch of Defiance
 1 Karn's Bastion
+1 Paradise Druid
 1 Chandra, Flamecaller
 1 Narset of the Ancient Way
 1 Branchloft Pathway

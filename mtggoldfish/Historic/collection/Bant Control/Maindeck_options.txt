@@ -93,9 +93,9 @@
 3 Spara's Headquarters
 4 Spara's Headquarters
 1 Deserted Beach
-1 March of Otherworldly Light
 1 Jwari Disruption
 1 The Wandering Emperor
+1 March of Otherworldly Light
 1 Farewell
 1 Fragment Reality
 1 Endless Detour
@@ -176,6 +176,12 @@
 2 Storm's Wrath
 2 Questing Beast
 2 Radha, Heart of Keld
+1 Opt
+1 Niv-Mizzet, Parun
+1 Flame Sweep
+2 Opt
+2 Niv-Mizzet, Parun
+3 Opt
 1 Teferi's Ageless Insight
 2 Teferi's Ageless Insight
 3 Pact of Negation
@@ -183,14 +189,8 @@
 1 Quench
 2 Sinister Sabotage
 3 Sinister Sabotage
-1 Niv-Mizzet, Parun
-1 Flame Sweep
-1 Opt
-2 Niv-Mizzet, Parun
-2 Opt
-3 Opt
-4 Shark Typhoon
 4 Abrade
+4 Shark Typhoon
 1 Klothys, God of Destiny
 1 Bonecrusher Giant
 1 Raugrin Triome
@@ -211,11 +211,11 @@
 4 Expansion/Explosion
 1 Into the North
 1 Snow-Covered Forest
-1 Emeria's Call
-1 Snow-Covered Island
 1 Snow-Covered Plains
+1 Snow-Covered Island
 1 Baffling End
 1 Arctic Treeline
+1 Emeria's Call
 1 Rimewood Falls
 2 Into the North
 2 Snow-Covered Forest

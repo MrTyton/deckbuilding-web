@@ -1,17 +1,17 @@
-1 Serenity
 1 Blue Elemental Blast
-1 Thassa's Oracle
-1 Pithing Needle
+1 Serenity
 2 Blue Elemental Blast
+1 Pithing Needle
 2 Serenity
+1 Thassa's Oracle
 3 Prismatic Ending
-1 Nihil Spellbomb
 3 Force of Negation
+1 Nihil Spellbomb
 1 Faerie Macabre
 2 Faerie Macabre
-1 Kataki, War's Wage
 1 Containment Priest
 1 Mother of Runes
+1 Kataki, War's Wage
 1 Deafening Silence
 3 Flusterstorm
 1 Grand Abolisher
@@ -21,7 +21,7 @@
 1 Seal of Cleansing
 2 Triumph of Saint Katherine
 3 Triumph of Saint Katherine
-2 Brazen Borrower
+4 Force of Negation
 1 Divining Witch
 2 Divining Witch
 1 Leyline of the Void
@@ -29,8 +29,9 @@
 3 Leyline of the Void
 1 Plague Engineer
 1 Dress Down
-1 Cabal Therapy
-1 Thoughtseize
+1 Void Rend
+2 Void Rend
+2 Brazen Borrower
 1 True-Name Nemesis
 1 Vendilion Clique
 1 Null Rod
@@ -45,7 +46,6 @@
 2 Spell Pierce
 2 Teferi, Time Raveler
 3 Faerie Macabre
-4 Force of Negation
 1 Orim's Chant
 2 Orim's Chant
 2 Thassa's Oracle
