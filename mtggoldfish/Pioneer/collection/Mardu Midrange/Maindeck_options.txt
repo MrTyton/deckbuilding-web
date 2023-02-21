@@ -61,8 +61,8 @@
 1 Needleverge Pathway
 2 Kalitas, Traitor of Ghet
 1 Liliana, the Last Hope
-1 Kaya, Orzhov Usurper
 1 Reckoner Bankbuster
+1 Kaya, Orzhov Usurper
 1 Kaya's Wrath
 2 Kaya's Wrath
 1 Evolved Sleeper
@@ -77,8 +77,8 @@
 4 Sheoldred, the Apocalypse
 4 Sacred Foundry
 4 Concealed Courtyard
-1 Ob Nixilis, the Adversary
 1 Sulfurous Springs
+1 Ob Nixilis, the Adversary
 2 Ob Nixilis, the Adversary
 3 Ob Nixilis, the Adversary
 1 Village Rites
@@ -96,14 +96,55 @@
 4 Deadly Dispute
 1 Bloodthirsty Adversary
 1 Fracture
-2 Fracture
 2 Sundown Pass
+2 Fracture
 3 Sundown Pass
+2 Mountain
+1 Crackling Doom
+1 The Meathook Massacre
+1 Angrath's Rampage
+1 Boros Charm
+1 The Elderspell
+2 Sulfurous Springs
+2 Eiganjo, Seat of the Empire
+2 Plains
+2 Angrath's Rampage
+2 The Meathook Massacre
+2 Boros Charm
+2 Crackling Doom
+3 Goblin Dark-Dwellers
+3 Crackling Doom
+3 Angrath's Rampage
+4 Goblin Dark-Dwellers
+1 Blackcleave Cliffs
+1 Mayhem Devil
+1 Battlefield Forge
+1 Witch's Oven
+1 Rite of Oblivion
+1 Showdown of the Skalds
+1 Cauldron Familiar
+2 Blackcleave Cliffs
+2 Mayhem Devil
+2 Cauldron Familiar
+2 Battlefield Forge
+2 Witch's Oven
+2 Rite of Oblivion
+2 Showdown of the Skalds
+3 Blackcleave Cliffs
+3 Mayhem Devil
+3 Rite of Oblivion
+3 Cauldron Familiar
+3 Showdown of the Skalds
+3 Witch's Oven
+4 Cauldron Familiar
+4 Mayhem Devil
+4 Showdown of the Skalds
+4 Witch's Oven
 1 Dreadhorde Arcanist
 1 Young Pyromancer
 1 Recommission
-1 Monastery Mentor
 1 Eaten Alive
+1 Monastery Mentor
 1 Fiery Impulse
 2 Recommission
 2 Inspiring Vantage
@@ -120,49 +161,8 @@
 3 Stitcher's Supplier
 4 Stitcher's Supplier
 4 Recommission
-4 Inspiring Vantage
 4 Dreadhorde Arcanist
-2 Mountain
-1 Crackling Doom
-1 The Meathook Massacre
-1 Angrath's Rampage
-1 Boros Charm
-1 The Elderspell
-2 Eiganjo, Seat of the Empire
-2 Plains
-2 Angrath's Rampage
-2 The Meathook Massacre
-2 Boros Charm
-2 Crackling Doom
-2 Sulfurous Springs
-3 Goblin Dark-Dwellers
-3 Crackling Doom
-3 Angrath's Rampage
-4 Goblin Dark-Dwellers
-1 Blackcleave Cliffs
-1 Mayhem Devil
-1 Battlefield Forge
-1 Witch's Oven
-1 Rite of Oblivion
-1 Showdown of the Skalds
-1 Cauldron Familiar
-2 Battlefield Forge
-2 Blackcleave Cliffs
-2 Mayhem Devil
-2 Cauldron Familiar
-2 Witch's Oven
-2 Rite of Oblivion
-2 Showdown of the Skalds
-3 Blackcleave Cliffs
-3 Mayhem Devil
-3 Rite of Oblivion
-3 Cauldron Familiar
-3 Showdown of the Skalds
-3 Witch's Oven
-4 Mayhem Devil
-4 Cauldron Familiar
-4 Showdown of the Skalds
-4 Witch's Oven
+4 Inspiring Vantage
 1 Malakir Rebirth
 1 Shambling Ghast
 1 The Akroan War
@@ -190,8 +190,8 @@
 1 Scavenger Grounds
 1 Demolition Field
 1 Abrade
-1 Portal to Phyrexia
 1 Cleansing Wildfire
+1 Portal to Phyrexia
 1 Brotherhood's End
 1 Chaotic Transformation
 1 Fire Prophecy
@@ -205,6 +205,7 @@
 2 Karn, the Great Creator
 2 Demolition Field
 2 Portal to Phyrexia
+2 Cleansing Wildfire
 2 Ashen Rider
 2 Abrade
 2 Spikefield Hazard
@@ -215,7 +216,6 @@
 2 Field of Ruin
 2 Obliterating Bolt
 2 Chaotic Transformation
-2 Cleansing Wildfire
 2 Valakut Awakening
 3 Mountain
 3 Cleansing Wildfire
@@ -224,10 +224,10 @@
 3 Invoke Calamity
 3 Cascading Cataracts
 3 Fire Prophecy
+4 Cleansing Wildfire
 4 Mountain
 4 Invoke Calamity
 4 Big Score
-4 Cleansing Wildfire
 5 Mountain
 6 Mountain
 7 Mountain

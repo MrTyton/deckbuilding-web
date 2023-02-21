@@ -73,12 +73,6 @@
 1 Soul Transfer
 1 Dark Petition
 2 Soul Transfer
-1 Isolated Chapel
-1 Clifftop Retreat
-1 Eiganjo, Seat of the Empire
-1 Dragonskull Summit
-2 Isolated Chapel
-2 Dragonskull Summit
 1 Portable Hole
 2 Nahiri, the Harbinger
 1 Edgar's Awakening
@@ -86,6 +80,12 @@
 1 Unlicensed Hearse
 2 Unlicensed Hearse
 2 Haunted Ridge
+1 Isolated Chapel
+1 Clifftop Retreat
+1 Dragonskull Summit
+1 Eiganjo, Seat of the Empire
+2 Isolated Chapel
+2 Dragonskull Summit
 3 Vanishing Verse
 1 Jaya, Fiery Negotiator
 2 Cathartic Pyre
@@ -102,13 +102,13 @@
 3 Lightning Axe
 3 Hazoret the Fervent
 4 Lightning Axe
-2 Can't Stay Away
 2 Swamp
 2 Mountain
+2 Can't Stay Away
+3 Swamp
 3 Can't Stay Away
 3 Needleverge Pathway
 3 Brightclimb Pathway
-3 Swamp
 4 Brightclimb Pathway
 4 Needleverge Pathway
 1 Witch's Oven

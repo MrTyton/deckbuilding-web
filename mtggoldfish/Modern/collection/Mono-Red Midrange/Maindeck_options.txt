@@ -10,16 +10,16 @@
 2 Field of Ruin
 3 Field of Ruin
 4 Field of Ruin
+1 Fiery Islet
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
-1 Pyrite Spellbomb
-2 Pyrite Spellbomb
-1 Mishra's Research Desk
 3 Soul-Guide Lantern
+1 Mishra's Research Desk
 2 Mishra's Research Desk
 3 Mishra's Research Desk
 4 Mishra's Research Desk
-8 Mountain
+1 Pyrite Spellbomb
+2 Pyrite Spellbomb
 1 Voldaren Epicure
 1 Ox of Agonas
 2 Voldaren Epicure
@@ -29,7 +29,6 @@
 4 Voldaren Epicure
 4 Soul-Guide Lantern
 4 Ox of Agonas
-1 Fiery Islet
 1 Karn's Sylex
 2 Karn's Sylex
 3 Karn's Sylex
@@ -40,31 +39,26 @@
 4 Experimental Synthesizer
 3 Pyrite Spellbomb
 4 Pyrite Spellbomb
-9 Mountain
-10 Mountain
-1 Shatterskull Smashing
-2 Shatterskull Smashing
-3 Shatterskull Smashing
+8 Mountain
+2 Fiery Islet
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 1 Seal of Fire
-1 Abrade
-2 Abrade
-1 Urza's Saga
-2 Urza's Saga
-3 Urza's Saga
-4 Urza's Saga
+1 Shatterskull Smashing
+2 Shatterskull Smashing
+3 Shatterskull Smashing
 4 Shatterskull Smashing
-11 Mountain
-12 Mountain
+9 Mountain
+10 Mountain
 1 Chalice of the Void
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 4 Karn, the Great Creator
+1 Abrade
+2 Abrade
 3 Snow-Covered Mountain
 3 Abrade
-2 Fiery Islet
 1 Mishra's Factory
 2 Mishra's Factory
 1 Gemstone Caverns
@@ -76,28 +70,16 @@
 2 Reckless Impulse
 3 Reckless Impulse
 4 Reckless Impulse
-1 Sacred Foundry
-1 Arid Mesa
-1 Ensnaring Bridge
-1 Koth, Fire of Resistance
-1 Chandra, Torch of Defiance
-1 Chandra, Awakened Inferno
-2 Arid Mesa
-2 Sacred Foundry
-2 Ensnaring Bridge
-2 Chandra, Torch of Defiance
-2 Koth, Fire of Resistance
-3 Arid Mesa
-3 Ensnaring Bridge
-3 Koth, Fire of Resistance
-4 Arid Mesa
-4 Koth, Fire of Resistance
 1 Forgotten Cave
 2 Forgotten Cave
 3 Forgotten Cave
 4 Forgotten Cave
+1 Urza's Saga
+2 Urza's Saga
 2 Seal of Fire
+3 Urza's Saga
 3 Seal of Fire
+4 Urza's Saga
 4 Seal of Fire
 1 Plundering Barbarian
 2 Plundering Barbarian
@@ -111,10 +93,10 @@
 1 Matter Reshaper
 2 Prismatic Vista
 2 Wastes
-2 Chalice of the Void
 2 Cavern of Souls
 2 Thought-Knot Seer
 2 Matter Reshaper
+2 Chalice of the Void
 2 Eldrazi Temple
 2 Magus of the Moon
 3 Cavern of Souls
@@ -143,23 +125,24 @@
 4 Zhalfirin Void
 3 Sokenzan, Crucible of Defiance
 4 Sokenzan, Crucible of Defiance
-1 Cleansing Wildfire
-1 Shadowspear
-1 Unholy Heat
-1 Koth of the Hammer
-1 Darksteel Citadel
-2 Cleansing Wildfire
-2 Unholy Heat
-2 Koth of the Hammer
-2 Darksteel Citadel
-3 Cleansing Wildfire
-3 Unholy Heat
-3 Darksteel Citadel
-3 Koth of the Hammer
-4 Cleansing Wildfire
-4 Darksteel Citadel
-4 Unholy Heat
-13 Mountain
+1 Sacred Foundry
+1 Arid Mesa
+1 Ensnaring Bridge
+1 Koth, Fire of Resistance
+1 Chandra, Torch of Defiance
+1 Chandra, Awakened Inferno
+2 Arid Mesa
+2 Sacred Foundry
+2 Ensnaring Bridge
+2 Koth, Fire of Resistance
+2 Chandra, Torch of Defiance
+3 Arid Mesa
+3 Ensnaring Bridge
+3 Koth, Fire of Resistance
+4 Arid Mesa
+4 Koth, Fire of Resistance
+11 Mountain
+12 Mountain
 1 Karn, Scion of Urza
 1 Liquimetal Torque
 1 Scrying Sheets

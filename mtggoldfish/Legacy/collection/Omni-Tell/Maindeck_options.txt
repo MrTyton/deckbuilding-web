@@ -72,14 +72,14 @@
 3 City of Traitors
 4 Scalding Tarn
 2 Volcanic Island
-3 Ancient Tomb
 3 Volcanic Island
-1 Otawara, Soaring City
+3 Ancient Tomb
 1 Snow-Covered Swamp
 1 Thoughtseize
 1 Underground Sea
-2 Underground Sea
+1 Otawara, Soaring City
 2 Thoughtseize
+2 Underground Sea
 1 Narset, Parter of Veils
 1 Brazen Borrower
 1 Carpet of Flowers
@@ -102,21 +102,14 @@
 1 Mystical Teachings
 2 Mystical Teachings
 3 Mystical Teachings
-1 Profane Tutor
-1 Lim-Dul's Vault
-1 Duress
-2 Profane Tutor
-3 Profane Tutor
-3 Thoughtseize
-4 Profane Tutor
 1 Predict
 2 Predict
 2 Spell Pierce
 3 Predict
 4 Predict
 4 Veil of Summer
-1 Expressive Iteration
 1 Burning Wish
+1 Expressive Iteration
 2 Burning Wish
 3 Burning Wish
 4 Burning Wish
@@ -133,9 +126,9 @@
 4 Swords to Plowshares
 1 Reanimate
 1 Emrakul, the Promised End
-1 Entomb
 1 Shallow Grave
 1 Animate Dead
+1 Entomb
 1 Exhume
 1 Archon of Cruelty
 2 Snow-Covered Swamp
@@ -147,6 +140,13 @@
 3 Exhume
 4 Underground Sea
 4 Entomb
+1 Lim-Dul's Vault
+1 Duress
+1 Profane Tutor
+2 Profane Tutor
+3 Thoughtseize
+3 Profane Tutor
+4 Profane Tutor
 1 Enter the Infinite
 1 Pact of Negation
 2 Enter the Infinite

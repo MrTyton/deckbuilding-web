@@ -45,9 +45,9 @@
 4 Windswept Heath
 2 Snow-Covered Plains
 1 Wall of Omens
-1 Aether Channeler
 1 Soulherder
 1 Glasspool Mimic
+1 Aether Channeler
 1 Time Warp
 2 Wall of Omens
 2 Soulherder
@@ -118,6 +118,9 @@
 4 Scalding Tarn
 2 Shark Typhoon
 4 Fire/Ice
+1 Yavimaya, Cradle of Growth
+3 Spell Queller
+4 Spell Queller
 1 Eladamri's Call
 1 Glacial Fortress
 1 Consider
@@ -131,11 +134,8 @@
 3 Breeding Pool
 3 Consider
 3 Eladamri's Call
-4 Snapcaster Mage
 4 Consider
-1 Yavimaya, Cradle of Growth
-3 Spell Queller
-4 Spell Queller
+4 Snapcaster Mage
 1 Aether Vial
 1 Lion Sash
 2 Glasspool Mimic
@@ -160,8 +160,8 @@
 1 Sphere of Safety
 1 Nine Lives
 1 Greater Auramancy
-2 Hall of Heliod's Generosity
 2 Utopia Sprawl
+2 Hall of Heliod's Generosity
 2 Commune with Spirits
 2 On Thin Ice
 2 Phyrexian Unlife
