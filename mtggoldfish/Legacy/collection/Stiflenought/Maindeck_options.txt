@@ -141,20 +141,11 @@
 2 Esper Sentinel
 3 Esper Sentinel
 4 Esper Sentinel
-3 Consider
-4 Consider
 1 Drown in the Loch
 2 Drown in the Loch
 4 Underground Sea
-1 Noble Hierarch
-1 Mother of Runes
-1 Hushbringer
-2 Noble Hierarch
-2 Mother of Runes
-2 Hushbringer
-3 Noble Hierarch
-3 Hushbringer
-4 Hushbringer
+3 Consider
+4 Consider
 1 Oblivion Ring
 1 Strict Proctor
 1 Plains
@@ -165,12 +156,6 @@
 3 Prismatic Vista
 4 Prismatic Vista
 4 Strict Proctor
-1 Thought Scour
-1 Sailors' Bane
-2 Thought Scour
-2 Sailors' Bane
-3 Sailors' Bane
-6 Island
 1 Preordain
 1 Spell Pierce
 1 Show and Tell
@@ -190,10 +175,25 @@
 3 Show and Tell
 3 Mosswort Bridge
 3 Ice-Fang Coatl
-4 Emrakul, the Aeons Torn
 4 Ice-Fang Coatl
 4 Snow-Covered Island
 4 Show and Tell
+4 Mosswort Bridge
+4 Emrakul, the Aeons Torn
 5 Snow-Covered Island
 6 Snow-Covered Island
-4 Mosswort Bridge
+1 Thought Scour
+1 Sailors' Bane
+2 Thought Scour
+2 Sailors' Bane
+3 Sailors' Bane
+6 Island
+1 Noble Hierarch
+1 Mother of Runes
+1 Hushbringer
+2 Noble Hierarch
+2 Mother of Runes
+2 Hushbringer
+3 Noble Hierarch
+3 Hushbringer
+4 Hushbringer

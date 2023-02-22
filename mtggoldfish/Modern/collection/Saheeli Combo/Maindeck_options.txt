@@ -95,10 +95,10 @@
 2 Unholy Heat
 2 Arid Mesa
 3 Ephemerate
+1 Celestial Colonnade
 1 Polluted Delta
 1 Teferi, Hero of Dominaria
 1 Mystic Gate
-1 Celestial Colonnade
 2 Mystic Gate
 3 Mystic Gate
 3 Supreme Verdict
@@ -113,8 +113,8 @@
 2 Utopia Sprawl
 3 Utopia Sprawl
 1 Subtlety
-1 Snapcaster Mage
 1 Serum Visions
+1 Snapcaster Mage
 2 Snapcaster Mage
 2 Serum Visions
 3 Lightning Bolt
@@ -124,12 +124,12 @@
 1 Wall of Omens
 2 Wall of Omens
 2 Raugrin Triome
-1 Faithful Mending
 1 The Wandering Emperor
 1 Field of Ruin
 1 Narset, Parter of Veils
 1 Force of Negation
 1 Memory Deluge
+1 Faithful Mending
 2 Faithful Mending
 2 Narset, Parter of Veils
 2 Force of Negation
@@ -158,6 +158,12 @@
 2 Abundant Growth
 2 Mulldrifter
 4 Wooded Foothills
+1 Seachrome Coast
+1 Omen of the Sea
+2 Seachrome Coast
+2 Omen of the Sea
+3 Omen of the Sea
+4 Omen of the Sea
 3 Oath of Nissa
 4 Oath of Nissa
 1 Remand
@@ -165,12 +171,6 @@
 3 Remand
 3 Serum Visions
 4 Serum Visions
-1 Seachrome Coast
-1 Omen of the Sea
-2 Seachrome Coast
-2 Omen of the Sea
-3 Omen of the Sea
-4 Omen of the Sea
 2 Temple Garden
 3 Verdant Catacombs
 3 Gingerbread Cabin
@@ -189,8 +189,8 @@
 3 Ledger Shredder
 3 Mishra's Bauble
 3 Dragon's Rage Channeler
-4 Ledger Shredder
 4 Ragavan, Nimble Pilferer
+4 Ledger Shredder
 4 Dragon's Rage Channeler
 4 Spirebluff Canal
 4 Mishra's Bauble

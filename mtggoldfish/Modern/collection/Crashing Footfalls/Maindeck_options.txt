@@ -8,8 +8,8 @@
 2 Ardent Plea
 2 Fiery Islet
 1 Become Immense
-4 Flooded Strand
 2 Island
+4 Flooded Strand
 1 Indatha Triome
 2 Become Immense
 1 Endurance
@@ -17,19 +17,19 @@
 4 Scalding Tarn
 1 Prismari Command
 2 Otawara, Soaring City
-1 Waterlogged Grove
 4 Ardent Plea
 1 Subtlety
+1 Waterlogged Grove
+1 Bonecrusher Giant
+2 Bonecrusher Giant
 1 Blood Moon
 2 Steam Vents
 2 Endurance
 1 Plains
-1 Bonecrusher Giant
-2 Bonecrusher Giant
 2 Blood Moon
 3 Blood Moon
-2 Forest
 2 Subtlety
+2 Forest
 1 Hallowed Fountain
 1 Savai Triome
 1 Scion of Draco
@@ -44,12 +44,6 @@
 2 Snow-Covered Island
 2 Prismari Command
 3 Bonecrusher Giant
-1 Archmage's Charm
-1 Flooded Grove
-2 Flooded Grove
-2 Archmage's Charm
-3 Archmage's Charm
-4 Archmage's Charm
 1 Solitude
 1 Teferi, Time Raveler
 2 Solitude
@@ -63,13 +57,17 @@
 1 Arid Mesa
 1 Omnath, Locus of Creation
 2 Omnath, Locus of Creation
-2 Verdant Catacombs
 2 Arid Mesa
-3 Verdant Catacombs
+2 Verdant Catacombs
 3 Arid Mesa
+3 Verdant Catacombs
 3 Omnath, Locus of Creation
 4 Verdant Catacombs
 4 Omnath, Locus of Creation
+1 Mystical Dispute
+1 Fable of the Mirror-Breaker
+2 Boseiju, Who Endures
+2 Fable of the Mirror-Breaker
 2 Murktide Regent
 1 Tireless Tracker
 1 Spara's Headquarters
@@ -98,3 +96,9 @@
 3 Gemstone Caverns
 4 Blood Moon
 4 Bloodbraid Elf
+1 Archmage's Charm
+1 Flooded Grove
+2 Flooded Grove
+2 Archmage's Charm
+3 Archmage's Charm
+4 Archmage's Charm

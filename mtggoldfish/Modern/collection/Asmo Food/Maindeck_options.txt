@@ -5,8 +5,8 @@
 2 Boseiju, Who Endures
 1 Blooming Marsh
 2 Overgrown Tomb
-2 Trail of Crumbs
 2 Blooming Marsh
+2 Trail of Crumbs
 3 Blooming Marsh
 4 Blooming Marsh
 1 Academy Manufactor
@@ -14,41 +14,41 @@
 3 Academy Manufactor
 1 Mishra's Research Desk
 1 Yavimaya, Cradle of Growth
-1 Nihil Spellbomb
-1 Unearth
-1 Mishra's Bauble
-1 Ledger Shredder
-1 Emry, Lurker of the Loch
-1 Aether Spellbomb
-1 Watery Grave
-1 Otawara, Soaring City
-1 Island
-1 Time Sieve
-2 Unearth
-2 Mishra's Bauble
-2 Ledger Shredder
-2 Emry, Lurker of the Loch
-2 Watery Grave
-2 Time Sieve
-3 Watery Grave
-3 Mishra's Bauble
-3 Ledger Shredder
-3 Emry, Lurker of the Loch
-3 Time Sieve
-4 Ledger Shredder
-4 Academy Manufactor
 1 Windswept Heath
 2 Windswept Heath
-1 Misty Rainforest
-2 Misty Rainforest
 1 Street Wraith
 2 Street Wraith
 3 Street Wraith
 4 Street Wraith
+1 Nihil Spellbomb
+1 Unearth
+1 Watery Grave
+1 Aether Spellbomb
+1 Time Sieve
+2 Unearth
+2 Watery Grave
+2 Time Sieve
 3 Unearth
-4 Mishra's Bauble
+3 Time Sieve
 4 Unearth
+4 Academy Manufactor
 4 Time Sieve
+1 Misty Rainforest
+2 Misty Rainforest
+1 Mishra's Bauble
+1 Ledger Shredder
+1 Emry, Lurker of the Loch
+1 Otawara, Soaring City
+1 Island
+2 Mishra's Bauble
+2 Ledger Shredder
+2 Emry, Lurker of the Loch
+3 Watery Grave
+3 Mishra's Bauble
+3 Ledger Shredder
+3 Emry, Lurker of the Loch
+4 Mishra's Bauble
+4 Ledger Shredder
 4 Emry, Lurker of the Loch
 2 Fable of the Mirror-Breaker
 1 Nurturing Peatland
@@ -58,13 +58,6 @@
 3 Witherbloom Command
 3 Windswept Heath
 4 Windswept Heath
-1 Breeding Pool
-1 Polluted Delta
-1 Flooded Strand
-2 Polluted Delta
-3 Polluted Delta
-4 Watery Grave
-4 Polluted Delta
 1 Cauldron Familiar
 2 Cauldron Familiar
 3 Overgrown Tomb
@@ -73,18 +66,18 @@
 4 Cauldron Familiar
 4 Trail of Crumbs
 1 Soul-Guide Lantern
-1 Mountain
 1 Blightstep Pathway
+1 Mountain
 1 Portal to Phyrexia
 1 Voldaren Epicure
 1 Phyrexian Dragon Engine
 1 Sundering Titan
-1 Cragcrown Pathway
 1 Trash for Treasure
+1 Cragcrown Pathway
 1 Goblin Engineer
 2 Portal to Phyrexia
-2 Voldaren Epicure
 2 Mountain
+2 Voldaren Epicure
 2 Cragcrown Pathway
 2 Goblin Engineer
 2 Trash for Treasure
@@ -98,15 +91,22 @@
 4 Goblin Engineer
 4 Trash for Treasure
 4 Cragcrown Pathway
-1 Minamo, School at Water's Edge
-1 Godless Shrine
-1 Hallowed Fountain
-1 Marsh Flats
+1 Polluted Delta
 1 Lightning Bolt
 2 Lightning Bolt
 3 Lightning Bolt
+1 Breeding Pool
 3 Misty Rainforest
 4 Misty Rainforest
+1 Minamo, School at Water's Edge
+1 Flooded Strand
+1 Godless Shrine
+1 Hallowed Fountain
+1 Marsh Flats
+2 Polluted Delta
+3 Polluted Delta
+4 Watery Grave
+4 Polluted Delta
 1 Aether Vial
 1 Witch's Oven
 1 Teething Wurmlet
@@ -134,10 +134,18 @@
 2 Prismatic Vista
 1 Galvanic Blast
 2 Galvanic Blast
-1 Darksteel Citadel
-2 Island
-2 Haywire Mite
-2 Darksteel Citadel
+1 Darkslick Shores
+1 Takenuma, Abandoned Mire
+1 Deadly Dispute
+1 Blood Fountain
+1 Thought Monitor
+2 Swamp
+2 Darkslick Shores
+2 Blood Fountain
+2 Deadly Dispute
+3 Blood Fountain
+3 Deadly Dispute
+4 Blood Fountain
 1 Karplusan Forest
 2 Karplusan Forest
 3 Karplusan Forest
