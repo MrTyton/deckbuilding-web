@@ -12,13 +12,13 @@
 2 Dark Confidant
 3 Uro, Titan of Nature's Wrath
 3 Tarmogoyf
-1 Watery Grave
-1 Overgrown Tomb
-1 Death's Shadow
 1 Breeding Pool
+1 Overgrown Tomb
+1 Watery Grave
+1 Death's Shadow
 1 Street Wraith
-2 Watery Grave
 2 Death's Shadow
+2 Watery Grave
 2 Street Wraith
 3 Death's Shadow
 4 Death's Shadow
@@ -72,8 +72,8 @@
 1 Life from the Loam
 4 Tropical Island
 1 Dismember
-1 Jace, the Mind Sculptor
 1 Snow-Covered Island
+1 Jace, the Mind Sculptor
 1 Dress Down
 2 Dress Down
 1 Gurmag Angler
@@ -93,7 +93,6 @@
 2 Elvish Reclaimer
 2 Drown in the Loch
 3 Drown in the Loch
-4 Street Wraith
 1 Thought Scour
 1 Witherbloom Command
 1 Hooting Mandrills
@@ -112,7 +111,8 @@
 2 Hymn to Tourach
 3 Hymn to Tourach
 4 Hymn to Tourach
-1 Swamp
+4 Street Wraith
 1 Island
+1 Swamp
 3 Sedgemoor Witch
 4 Sedgemoor Witch

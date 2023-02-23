@@ -80,8 +80,8 @@
 2 Blood Moon
 1 Archmage's Charm
 2 Archmage's Charm
-3 Counterspell
 3 Archmage's Charm
+3 Counterspell
 4 Counterspell
 4 Archmage's Charm
 2 Castle Vantress
@@ -127,19 +127,19 @@
 1 The Wandering Emperor
 1 Field of Ruin
 1 Narset, Parter of Veils
+1 Faithful Mending
 1 Force of Negation
 1 Memory Deluge
-1 Faithful Mending
 2 Faithful Mending
 2 Narset, Parter of Veils
-2 Force of Negation
 2 Field of Ruin
+2 Force of Negation
 3 Narset, Parter of Veils
 4 Chalice of the Void
-1 Savai Triome
 1 Nahiri, the Harbinger
-2 Otawara, Soaring City
+1 Savai Triome
 2 Sacred Foundry
+2 Otawara, Soaring City
 2 Boseiju, Who Endures
 1 Qasali Ambusher
 2 Qasali Ambusher
@@ -148,11 +148,11 @@
 2 Dress Down
 2 Spell Pierce
 2 Peek
-1 Seasoned Pyromancer
 1 Sulfur Falls
+1 Seasoned Pyromancer
 2 Seasoned Pyromancer
-3 Seasoned Pyromancer
 3 Prismatic Vista
+3 Seasoned Pyromancer
 1 Abundant Growth
 1 Mulldrifter
 2 Abundant Growth
@@ -176,24 +176,6 @@
 3 Gingerbread Cabin
 4 Verdant Catacombs
 4 Utopia Sprawl
-1 Ragavan, Nimble Pilferer
-1 Dragon's Rage Channeler
-1 Ledger Shredder
-1 Mishra's Bauble
-2 Ragavan, Nimble Pilferer
-2 Dragon's Rage Channeler
-2 Ledger Shredder
-2 Mishra's Bauble
-3 Spirebluff Canal
-3 Ragavan, Nimble Pilferer
-3 Ledger Shredder
-3 Mishra's Bauble
-3 Dragon's Rage Channeler
-4 Ragavan, Nimble Pilferer
-4 Ledger Shredder
-4 Dragon's Rage Channeler
-4 Spirebluff Canal
-4 Mishra's Bauble
 1 Eiganjo, Seat of the Empire
 1 Imperial Recruiter
 1 Charming Prince
@@ -219,8 +201,26 @@
 3 Skyclave Apparition
 3 Charming Prince
 3 Aether Vial
+4 Ephemerate
 4 Arid Mesa
 4 Wall of Omens
 4 Aether Vial
 4 Charming Prince
-4 Ephemerate
+1 Ragavan, Nimble Pilferer
+1 Dragon's Rage Channeler
+1 Ledger Shredder
+1 Mishra's Bauble
+2 Ragavan, Nimble Pilferer
+2 Dragon's Rage Channeler
+2 Ledger Shredder
+2 Mishra's Bauble
+3 Spirebluff Canal
+3 Ragavan, Nimble Pilferer
+3 Ledger Shredder
+3 Mishra's Bauble
+3 Dragon's Rage Channeler
+4 Ragavan, Nimble Pilferer
+4 Ledger Shredder
+4 Dragon's Rage Channeler
+4 Spirebluff Canal
+4 Mishra's Bauble
