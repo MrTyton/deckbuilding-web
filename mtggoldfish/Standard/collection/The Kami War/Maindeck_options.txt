@@ -1,42 +1,33 @@
-1 Llanowar Greenwidow
 2 Xander's Lounge
 3 Spara's Headquarters
+1 Llanowar Greenwidow
 2 Llanowar Greenwidow
+1 Sheoldred, the Apocalypse
+3 Reckoner Bankbuster
 1 Abrade
 1 Destroy Evil
 3 Llanowar Greenwidow
-3 Reckoner Bankbuster
-1 Drag to the Bottom
-2 Destroy Evil
-1 Sheoldred, the Apocalypse
-2 Abrade
-4 Ziatora's Proving Ground
-4 Llanowar Greenwidow
 1 Sulfurous Springs
+1 Drag to the Bottom
 2 Shadow Prophecy
+2 Destroy Evil
 2 Yavimaya Coast
-2 Drag to the Bottom
-3 Drag to the Bottom
-4 Reckoner Bankbuster
-1 Topiary Stomper
+2 Abrade
 1 Archangel of Wrath
+4 Ziatora's Proving Ground
 3 Shadow Prophecy
-2 Topiary Stomper
-3 Topiary Stomper
-4 Topiary Stomper
-2 Swamp
+4 Llanowar Greenwidow
+4 Reckoner Bankbuster
 3 Plains
 2 Sheoldred, the Apocalypse
+2 Drag to the Bottom
+3 Drag to the Bottom
 2 Tear Asunder
 3 Forest
-2 Island
-4 Drag to the Bottom
-2 Archangel of Wrath
-1 Adarkar Wastes
-4 Shadow Prophecy
-1 The Wandering Emperor
+1 Topiary Stomper
 1 Farewell
 1 Eiganjo, Seat of the Empire
+1 Adarkar Wastes
 3 Xander's Lounge
 1 Depopulate
 1 Go for the Throat
@@ -44,17 +35,19 @@
 2 Go for the Throat
 2 Atraxa, Grand Unifier
 3 Atraxa, Grand Unifier
-3 Karplusan Forest
+1 The Wandering Emperor
+2 Archangel of Wrath
+4 Shadow Prophecy
+2 Topiary Stomper
+3 Topiary Stomper
+4 Topiary Stomper
+2 Swamp
 3 Yavimaya Coast
 4 Workshop Warchief
 4 Unleash the Inferno
-3 Archangel of Wrath
-2 The Wandering Emperor
 4 Raffine's Tower
 1 Boseiju, Who Endures
-1 Courier's Briefcase
-2 Courier's Briefcase
-3 The Wandering Emperor
+3 Archangel of Wrath
 4 Xander's Lounge
 1 Rockfall Vale
 1 Stormcarved Coast
@@ -70,13 +63,20 @@
 2 Deserted Beach
 2 Strangle
 2 Burn Down the House
+3 Mirrex
 3 Strangle
 3 Burn Down the House
-3 Mirrex
 4 Atraxa, Grand Unifier
+2 Island
+4 Drag to the Bottom
+2 The Wandering Emperor
+1 The Cruelty of Gix
+1 Courier's Briefcase
+2 Courier's Briefcase
+3 The Wandering Emperor
+3 Karplusan Forest
 3 Courier's Briefcase
 1 Titan of Industry
-1 The Cruelty of Gix
 1 Vraska, Betrayal's Sting
 2 Vraska, Betrayal's Sting
 1 Blue Sun's Twilight
@@ -84,6 +84,7 @@
 3 Blue Sun's Twilight
 1 Zur, Eternal Schemer
 1 Brotherhood's End
+2 The Cruelty of Gix
 1 Wedding Announcement
 2 Titan of Industry
 1 Shigeki, Jukai Visionary
@@ -102,6 +103,7 @@
 3 Wedding Announcement
 4 Wedding Announcement
 1 Duress
+1 Urborg Repossession
 1 Kaito Shizuki
 1 The Elder Dragon War
 1 Threats Undetected
@@ -121,16 +123,14 @@
 2 Lay Down Arms
 1 Disdainful Stroke
 2 Disdainful Stroke
-1 Urborg Repossession
-2 The Cruelty of Gix
 1 Sphinx of Clear Skies
 1 Jewel Thief
 2 Jewel Thief
 3 Jewel Thief
 1 Borrowed Time
 1 Negate
-1 Rabble Rousing
 1 Teferi, Who Slows the Sunset
+1 Rabble Rousing
 1 Silver Scrutiny
 1 Brokers Charm
 1 The Restoration of Eiganjo
@@ -154,8 +154,8 @@
 4 Destroy Evil
 1 Infernal Grasp
 1 Sanctuary Warden
-2 Caves of Koilos
 2 Sanctuary Warden
+2 Caves of Koilos
 2 Overgrown Farmland
 3 Overgrown Farmland
 4 Overgrown Farmland
@@ -193,8 +193,8 @@
 3 Farewell
 3 March of Otherworldly Light
 3 Tear Asunder
-4 The Wandering Emperor
 4 March of Otherworldly Light
+4 The Wandering Emperor
 4 Tear Asunder
 4 Plains
 5 Forest

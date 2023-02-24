@@ -78,10 +78,10 @@
 2 Hellrider
 3 Hellrider
 4 Hellrider
-1 Soul-Scar Mage
-2 Soul-Scar Mage
 1 Unlicensed Hearse
 2 Unlicensed Hearse
+1 Soul-Scar Mage
+2 Soul-Scar Mage
 2 Abrade
 3 Abrade
 1 Shivan Devastator
@@ -99,8 +99,8 @@
 2 Skirk Prospector
 3 Skirk Prospector
 4 Skirk Prospector
-1 Muxus, Goblin Grandee
 1 Shatterskull Smashing
+1 Muxus, Goblin Grandee
 1 Krenko, Mob Boss
 1 Goblin Matron
 1 Wily Goblin
@@ -135,25 +135,23 @@
 4 Muxus, Goblin Grandee
 4 Wily Goblin
 4 Goblin Warchief
-1 Reckless Charge
-1 Crash Through
-1 Hazoret the Fervent
-1 Festival Crasher
-1 Kiln Fiend
-2 Crash Through
-2 Reckless Charge
-2 Hazoret the Fervent
-2 Kiln Fiend
-2 Festival Crasher
-3 Hazoret the Fervent
-3 Reckless Charge
-3 Skewer the Critics
-3 Kiln Fiend
-3 Festival Crasher
-3 Crash Through
-4 Skewer the Critics
-4 Festival Crasher
-4 Kiln Fiend
+1 Roil Eruption
+1 Chandra, Acolyte of Flame
+1 Thundering Rebuke
+1 Goro-Goro, Disciple of Ryusei
+1 Urabrask, Heretic Praetor
+2 Roil Eruption
+2 Chandra, Torch of Defiance
+2 Chandra, Acolyte of Flame
+2 Thundering Rebuke
+2 Goro-Goro, Disciple of Ryusei
+2 Urabrask, Heretic Praetor
+3 Roil Eruption
+3 Chandra, Acolyte of Flame
+3 Thundering Rebuke
+3 Goro-Goro, Disciple of Ryusei
+4 Roil Eruption
+4 Goro-Goro, Disciple of Ryusei
 1 Mechanized Warfare
 1 Feldon, Ronom Excavator
 1 Squee, Dubious Monarch
@@ -176,56 +174,58 @@
 3 Chandra's Pyreling
 4 Chandra's Pyreling
 4 Castle Embereth
-1 Chandra, Acolyte of Flame
-1 Thundering Rebuke
-1 Goro-Goro, Disciple of Ryusei
-1 Urabrask, Heretic Praetor
-1 Roil Eruption
-2 Chandra, Torch of Defiance
-2 Chandra, Acolyte of Flame
-2 Thundering Rebuke
-2 Roil Eruption
-2 Goro-Goro, Disciple of Ryusei
-2 Urabrask, Heretic Praetor
-3 Thundering Rebuke
-3 Chandra, Acolyte of Flame
-3 Goro-Goro, Disciple of Ryusei
-3 Roil Eruption
-4 Goro-Goro, Disciple of Ryusei
-4 Roil Eruption
+1 Crash Through
+1 Reckless Charge
+1 Hazoret the Fervent
+1 Festival Crasher
+1 Kiln Fiend
+2 Crash Through
+2 Reckless Charge
+2 Hazoret the Fervent
+2 Kiln Fiend
+2 Festival Crasher
+3 Hazoret the Fervent
+3 Reckless Charge
+3 Skewer the Critics
+3 Kiln Fiend
+3 Festival Crasher
+3 Crash Through
+4 Festival Crasher
+4 Kiln Fiend
+4 Skewer the Critics
 1 Cathartic Pyre
 1 Risk Factor
-1 Big Score
 1 Dreadhorde Arcanist
+1 Big Score
 2 Cathartic Pyre
-2 Big Score
 2 Dreadhorde Arcanist
+2 Big Score
 4 Shock
 21 Mountain
-1 Sheltered Thicket
-1 Rootbound Crag
-1 Combat Celebrant
 1 Swamp
+1 Stomping Ground
+1 Rootbound Crag
+1 Sheltered Thicket
 1 Cragcrown Pathway
 1 Rockfall Vale
-1 Stomping Ground
-2 Rootbound Crag
-2 Combat Celebrant
-2 Swamp
+1 Combat Celebrant
 2 Stomping Ground
 2 Cragcrown Pathway
-2 Sheltered Thicket
+2 Rootbound Crag
 2 Rockfall Vale
-3 Rootbound Crag
-3 Cragcrown Pathway
-3 Rockfall Vale
-3 Swamp
+2 Swamp
+2 Combat Celebrant
+2 Sheltered Thicket
 3 Stomping Ground
+3 Cragcrown Pathway
+3 Rootbound Crag
+3 Swamp
+3 Rockfall Vale
+4 Stomping Ground
 4 Swamp
 4 Rootbound Crag
-4 Rockfall Vale
-4 Stomping Ground
 4 Cragcrown Pathway
+4 Rockfall Vale
 5 Swamp
 6 Swamp
 7 Swamp

@@ -1,15 +1,16 @@
 2 Abrade
+3 Xander's Lounge
+1 Raffine's Tower
 1 Caves of Koilos
+1 Make Disappear
+2 Make Disappear
+1 Plains
 1 Sundown Pass
 2 Cut Down
-1 Raffine's Tower
-1 Plains
-3 Xander's Lounge
 1 Spara's Headquarters
+1 The Wandering Emperor
 2 Raffine's Tower
 3 Raffine's Tower
-1 The Wandering Emperor
-1 Make Disappear
 1 Eiganjo, Seat of the Empire
 1 Ertai Resurrected
 1 Spirited Companion
@@ -22,7 +23,6 @@
 3 Leyline Binding
 4 Leyline Binding
 1 Colossal Skyturtle
-2 Make Disappear
 1 Zur, Eternal Schemer
 1 Thran Portal
 2 Sundown Pass
@@ -37,20 +37,28 @@
 4 Adarkar Wastes
 4 Raffine's Tower
 4 Make Disappear
+4 Xander's Lounge
+1 Shipwreck Marsh
 1 The Meathook Massacre
 1 Farewell
+1 Stormcarved Coast
+1 Island
 1 Deathcap Glade
 3 Thran Portal
-4 Xander's Lounge
 4 Spirited Companion
 1 Jetmir's Garden
-1 Shipwreck Marsh
+3 Abrade
+1 Big Score
+2 Big Score
+3 Big Score
 1 Plaza of Heroes
-1 Drag to the Bottom
 1 Rockfall Vale
 1 Shattered Sanctum
-1 Island
-1 Stormcarved Coast
+1 Drag to the Bottom
+1 Phyrexian Fleshgorger
+2 Shipwreck Marsh
+1 Shivan Reef
+1 Otawara, Soaring City
 3 Ziatora's Proving Ground
 4 Ziatora's Proving Ground
 1 Herd Migration
@@ -67,16 +75,15 @@
 1 Brokers Hideout
 1 The Celestus
 1 Tear Asunder
-1 Phyrexian Fleshgorger
 1 Urborg Repossession
 1 Graveyard Trespasser
 1 Unleash the Inferno
 1 Courier's Briefcase
 1 Unlicensed Hearse
 1 Dig Up
+1 Infernal Grasp
 1 Honored Heirloom
 1 Misery's Shadow
-1 Infernal Grasp
 1 Depopulate
 1 March of Wretched Sorrow
 1 Overgrown Farmland
@@ -85,7 +92,6 @@
 1 Shigeki, Jukai Visionary
 2 Flame-Blessed Bolt
 2 Depopulate
-2 Shipwreck Marsh
 2 Unleash the Inferno
 2 Riveteers Charm
 2 Colossal Skyturtle
@@ -94,22 +100,19 @@
 2 Courier's Briefcase
 1 Sol'Kanar the Tainted
 2 Drag to the Bottom
-3 Abrade
 1 Archangel of Wrath
 1 Wind-Scarred Crag
 1 Tribute to Urborg
 1 Wedding Announcement
 1 Fires of Victory
+1 Hullbreaker Horror
 1 Lier, Disciple of the Drowned
 1 Silver Scrutiny
-1 Shivan Reef
 1 Rona's Vortex
 1 Teferi, Who Slows the Sunset
 1 Blood Pact
-1 Hullbreaker Horror
 1 Tramway Station
 1 Shore Up
-1 Otawara, Soaring City
 1 Pilfer
 1 Void Rend
 1 Light the Way
@@ -140,6 +143,16 @@
 4 Plaza of Heroes
 4 Copperline Gorge
 4 Lukka, Bound to Ruin
+1 Spell Pierce
+1 Negate
+1 Blue Sun's Twilight
+1 Darkslick Shores
+2 Shivan Reef
+2 Darkslick Shores
+2 Phyrexian Fleshgorger
+3 Shipwreck Marsh
+3 Shivan Reef
+4 Shivan Reef
 1 Topiary Stomper
 1 Llanowar Greenwidow
 1 The Kami War
@@ -166,9 +179,6 @@
 4 Llanowar Greenwidow
 1 Invoke Despair
 1 Edgar's Awakening
-1 Big Score
 2 Edgar's Awakening
-2 Big Score
-3 Big Score
 3 Sheoldred, the Apocalypse
 6 Swamp

@@ -11,8 +11,8 @@
 3 Jetmir's Garden
 1 Hinterland Harbor
 1 Breeding Pool
-2 Steam Vents
 2 Sunpetal Grove
+2 Steam Vents
 3 Ketria Triome
 2 Savai Triome
 1 Glacial Fortress
@@ -30,8 +30,8 @@
 2 Binding the Old Gods
 2 Forest
 1 Valakut Exploration
-1 Fae of Wishes
 1 Tamiyo, Compleated Sage
+1 Fae of Wishes
 1 Growth Spiral
 1 Dryad of the Ilysian Grove
 1 Druid Class
@@ -52,13 +52,6 @@
 4 Jetmir's Garden
 1 Golos, Tireless Pilgrim
 1 Overgrown Tomb
-1 Deputy of Detention
-1 Elder Gargaroth
-2 Glacial Fortress
-4 Sacred Foundry
-1 Blood Crypt
-1 Mana Confluence
-2 Rootbound Crag
 1 Atraxa, Grand Unifier
 1 Thoughtseize
 1 Fatal Push
@@ -67,9 +60,17 @@
 2 Thoughtseize
 3 Fatal Push
 3 Thoughtseize
-4 Thoughtseize
 4 Fatal Push
+4 Thoughtseize
+1 Blood Crypt
+1 Deputy of Detention
+1 Elder Gargaroth
+2 Glacial Fortress
+4 Sacred Foundry
+1 Mana Confluence
+2 Rootbound Crag
 2 Zagoth Triome
+1 Esika's Chariot
 1 Klothys, God of Destiny
 1 Drowned Catacomb
 1 Kenrith, the Returned King
@@ -115,17 +116,18 @@
 3 Nylea's Presence
 3 Portable Hole
 3 Steam Vents
+4 Ketria Triome
 4 Omen of the Sea
 4 Portable Hole
 4 Savai Triome
 4 Nylea's Presence
-4 Ketria Triome
 4 Enigmatic Incarnation
 4 Steam Vents
-1 Reidane, God of the Worthy
-1 Esika's Chariot
-1 Pithing Needle
+1 The World Tree
+1 Oath of Nissa
 1 The Kami War
+1 Reidane, God of the Worthy
+1 Pithing Needle
 1 The Celestus
 1 Tale's End
 1 Deafening Clarion
@@ -134,13 +136,13 @@
 2 Raugrin Triome
 3 Raugrin Triome
 3 Spara's Headquarters
-1 Oath of Nissa
+1 Darkbore Pathway
+2 Overgrown Tomb
 1 Esika, God of the Tree
-1 The World Tree
 1 Teferi, Hero of Dominaria
-1 Castle Ardenvale
-1 Nicol Bolas, Dragon-God
 1 The Wandering Emperor
+1 Nicol Bolas, Dragon-God
+1 Castle Ardenvale
 2 Oath of Nissa
 3 Oath of Nissa
 4 Oath of Nissa
@@ -152,22 +154,20 @@
 1 Supreme Verdict
 1 Karn, the Great Creator
 1 Oath of Kaya
-1 Darkbore Pathway
 1 Temple of Mystery
-1 Castle Vantress
 1 Cry of the Carnarium
 1 Temple of Malady
 1 Abrupt Decay
+1 Castle Vantress
 1 Bala Ged Recovery
 1 Nicol Bolas, the Ravager
 2 Nicol Bolas, the Ravager
 2 Search for Glory
 2 Supreme Verdict
 2 Cry of the Carnarium
-2 Indatha Triome
-2 Overgrown Tomb
-2 Oath of Kaya
 2 The Wandering Emperor
+2 Indatha Triome
+2 Oath of Kaya
 2 Abrupt Decay
 3 Search for Glory
 3 Abrupt Decay
@@ -180,8 +180,8 @@
 1 Field of Ruin
 1 Elspeth, Sun's Champion
 1 Nicol Bolas, God-Pharaoh
-1 Interplanar Beacon
 1 Settle the Wreckage
+1 Interplanar Beacon
 1 Nissa, Voice of Zendikar
 1 Slaughter the Strong
 1 Ugin, the Spirit Dragon
@@ -214,12 +214,44 @@
 3 Chandra, Torch of Defiance
 4 Interplanar Beacon
 4 Deploy the Gatewatch
+1 Sokenzan, Crucible of Defiance
+1 Bond of Revival
+3 Atraxa, Grand Unifier
+1 Blightstep Pathway
+1 Ob Nixilis, the Adversary
+1 Sulfurous Springs
+1 Careful Cultivation
+1 Transmogrify
+1 Fire Prophecy
+1 Karplusan Forest
+2 Blightstep Pathway
+2 Karplusan Forest
+2 Transmogrify
+2 Careful Cultivation
+2 Sulfurous Springs
+2 Fire Prophecy
+2 Darkbore Pathway
+2 Esika's Chariot
+2 The World Tree
+3 Darkbore Pathway
+3 Overgrown Tomb
+3 Courier's Briefcase
+3 Careful Cultivation
+3 Fire Prophecy
+3 Transmogrify
+3 Sulfurous Springs
+3 Esika's Chariot
+4 Sulfurous Springs
+4 Overgrown Tomb
+4 Careful Cultivation
+4 Courier's Briefcase
+4 Transmogrify
+4 Esika's Chariot
 1 Questing Beast
 1 Shanna, Purifying Blade
 1 Hajar, Loyal Bodyguard
 1 Jodah, the Unifier
 1 Mox Amber
-1 Sokenzan, Crucible of Defiance
 1 Halana and Alena, Partners
 1 Plaza of Heroes
 1 Surrak Dragonclaw
@@ -254,7 +286,6 @@
 1 Dwarven Mine
 1 Duress
 1 Liliana of the Veil
-1 Bond of Revival
 1 Smoldering Marsh
 1 Seize the Spoils
 1 Indomitable Creativity
@@ -271,7 +302,6 @@
 2 Liliana, Death's Majesty
 2 Canyon Slough
 2 Indomitable Creativity
-3 Atraxa, Grand Unifier
 3 Mountain
 3 Fiery Impulse
 3 Indomitable Creativity
@@ -281,11 +311,11 @@
 3 Smoldering Marsh
 4 Atraxa, Grand Unifier
 4 Mountain
-4 Canyon Slough
 4 Smoldering Marsh
 4 Dwarven Mine
 4 Fiery Impulse
 4 Blood Crypt
+4 Canyon Slough
 4 Indomitable Creativity
 5 Mountain
 1 Reflector Mage

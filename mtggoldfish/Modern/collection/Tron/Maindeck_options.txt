@@ -4,8 +4,8 @@
 2 Relic of Progenitus
 3 Walking Ballista
 1 Ulamog, the Ceaseless Hunger
-1 All Is Dust
 1 Dismember
+1 All Is Dust
 1 Swamp
 2 Dismember
 2 Ulamog, the Ceaseless Hunger
@@ -13,8 +13,8 @@
 1 Cavern of Souls
 1 Thought-Knot Seer
 2 Thought-Knot Seer
-3 Dismember
 3 Thought-Knot Seer
+3 Dismember
 4 Thought-Knot Seer
 3 Relic of Progenitus
 1 Warping Wail
@@ -66,19 +66,19 @@
 1 Inscribed Tablet
 1 Basilisk Collar
 1 Gemstone Caverns
+1 Serum Powder
 1 Sorcerous Spyglass
 1 Ensnaring Bridge
-1 Serum Powder
 2 Inscribed Tablet
 2 Gemstone Caverns
-2 Inventors' Fair
-2 Ensnaring Bridge
 2 Serum Powder
+2 Ensnaring Bridge
+2 Inventors' Fair
 3 Inscribed Tablet
-3 Inventors' Fair
+3 Serum Powder
 3 Ensnaring Bridge
 3 Spellskite
-3 Serum Powder
+3 Inventors' Fair
 4 Inscribed Tablet
 4 Spellskite
 4 Serum Powder
@@ -126,8 +126,8 @@
 2 Island
 2 Cavern of Souls
 1 Welding Jar
-2 Sorcerous Spyglass
 2 Pithing Needle
+2 Sorcerous Spyglass
 1 The Stone Brain
 2 The Stone Brain
 3 The Stone Brain
@@ -141,17 +141,17 @@
 3 Chalice of the Void
 4 Chalice of the Void
 1 Shark Typhoon
-1 Steam Vents
 1 Fire/Ice
+1 Steam Vents
 1 Hullbreaker Horror
 1 Hard Evidence
 1 Talisman of Creativity
 1 Polymorph
 1 Misty Rainforest
 2 Fire/Ice
-2 Hard Evidence
 2 Shark Typhoon
 2 Hullbreaker Horror
+2 Hard Evidence
 2 Polymorph
 2 Talisman of Creativity
 2 Misty Rainforest
@@ -163,8 +163,8 @@
 3 Island
 3 Hard Evidence
 3 Hullbreaker Horror
-4 Warping Wail
 4 Fire/Ice
+4 Warping Wail
 4 Polymorph
 4 Hard Evidence
 1 Hydroid Krasis

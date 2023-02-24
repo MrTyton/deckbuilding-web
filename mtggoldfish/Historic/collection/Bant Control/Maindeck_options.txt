@@ -98,13 +98,13 @@
 1 Hall of Storm Giants
 1 The Wandering Emperor
 1 Farewell
-1 Fragment Reality
 1 Endless Detour
+1 Fragment Reality
+2 Deserted Beach
 2 Jwari Disruption
 2 The Wandering Emperor
-2 March of Otherworldly Light
-2 Deserted Beach
 2 Endless Detour
+2 March of Otherworldly Light
 3 Endless Detour
 4 Archmage's Charm
 3 Aether Gust
@@ -133,8 +133,8 @@
 1 Deputy of Detention
 1 Collected Company
 1 Botanical Sanctum
-1 Kayla's Reconstruction
 1 Skyclave Apparition
+1 Kayla's Reconstruction
 1 Wall of Blossoms
 1 Glasspool Mimic
 2 Adarkar Wastes
@@ -143,14 +143,14 @@
 2 Prosperous Innkeeper
 2 Collected Company
 2 Botanical Sanctum
+2 Skyclave Apparition
 2 Wall of Blossoms
 2 Kayla's Reconstruction
-2 Skyclave Apparition
 3 Soulherder
 3 Prosperous Innkeeper
 3 Collected Company
-3 Kayla's Reconstruction
 3 Skyclave Apparition
+3 Kayla's Reconstruction
 3 Militia Bugler
 4 Prosperous Innkeeper
 4 Collected Company
@@ -159,9 +159,9 @@
 4 Soulherder
 2 Settle the Wreckage
 2 Elspeth Conquers Death
+1 Field of Ruin
 1 Knockout Blow
 1 Rest in Peace
-1 Field of Ruin
 1 Sweltering Suns
 2 Sweltering Suns
 1 Temple of Enlightenment
@@ -169,8 +169,8 @@
 1 Shock
 1 Scavenging Ooze
 1 Radha, Heart of Keld
-1 Questing Beast
 1 Storm's Wrath
+1 Questing Beast
 1 Neyith of the Dire Hunt
 2 Shock
 2 Storm's Wrath
@@ -189,8 +189,6 @@
 2 Niv-Mizzet, Parun
 2 Opt
 3 Opt
-4 Abrade
-4 Shark Typhoon
 1 Raugrin Triome
 1 Klothys, God of Destiny
 1 Bonecrusher Giant
@@ -200,12 +198,14 @@
 3 Bonecrusher Giant
 4 Raugrin Triome
 4 Bonecrusher Giant
+4 Shark Typhoon
+4 Abrade
+1 Expansion/Explosion
 1 Syncopate
 1 Scorching Dragonfire
-1 Expansion/Explosion
 2 Syncopate
-2 Scorching Dragonfire
 2 Expansion/Explosion
+2 Scorching Dragonfire
 3 Syncopate
 3 Expansion/Explosion
 4 Expansion/Explosion
@@ -220,8 +220,8 @@
 2 Into the North
 2 Snow-Covered Forest
 2 Snow-Covered Plains
-2 Rimewood Falls
 2 Yasharn, Implacable Earth
+2 Rimewood Falls
 2 Baffling End
 2 Snow-Covered Island
 3 Snow-Covered Forest
@@ -285,19 +285,19 @@
 3 Rewind
 4 Rewind
 6 Island
-1 Arboreal Grazer
 1 Castle Garenbrig
 1 Ulamog, the Ceaseless Hunger
-1 Cultivate
 1 Cascading Cataracts
+1 Arboreal Grazer
+1 Cultivate
 1 Labyrinth of Skophos
 1 Oracle of Mul Daya
+2 Castle Garenbrig
+2 Ugin, the Spirit Dragon
+2 Ulamog, the Ceaseless Hunger
 2 Oracle of Mul Daya
 2 Cultivate
-2 Castle Garenbrig
 2 Arboreal Grazer
-2 Ulamog, the Ceaseless Hunger
-2 Ugin, the Spirit Dragon
 3 Temple of Mystery
 3 Ugin, the Spirit Dragon
 3 Cultivate
