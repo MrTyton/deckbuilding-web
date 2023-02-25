@@ -52,8 +52,8 @@
 1 Shinka, the Bloodsoaked Keep
 2 Unearth
 2 Lightning Skelemental
-3 Kolaghan's Command
 3 Lightning Skelemental
+3 Kolaghan's Command
 4 Inquisition of Kozilek
 4 Lightning Skelemental
 1 Xander's Lounge
@@ -72,9 +72,9 @@
 1 Tainted Indulgence
 1 Archon of Cruelty
 1 Persist
-2 Persist
 2 Tainted Indulgence
 2 Archon of Cruelty
+2 Persist
 3 Malakir Rebirth
 3 Archon of Cruelty
 3 Tainted Indulgence
@@ -119,6 +119,7 @@
 2 Shriekmaw
 2 Snow-Covered Swamp
 3 Snow-Covered Swamp
+3 Fatal Push
 2 Scalding Tarn
 3 Scalding Tarn
 3 Spirebluff Canal
@@ -126,7 +127,6 @@
 2 Ob Nixilis, the Adversary
 2 Sheoldred, the Apocalypse
 3 Ob Nixilis, the Adversary
-3 Fatal Push
 1 Overgrown Tomb
 1 Surgical Extraction
 1 Strike It Rich

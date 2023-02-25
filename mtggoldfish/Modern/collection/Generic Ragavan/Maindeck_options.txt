@@ -2,10 +2,10 @@
 1 Mountain
 1 Arid Mesa
 2 Prismatic Ending
+2 Arid Mesa
 3 Spell Pierce
 1 Fiery Islet
 4 Unholy Heat
-2 Arid Mesa
 1 Third Path Iconoclast
 1 Mercurial Spelldancer
 1 Counterspell
@@ -14,57 +14,57 @@
 2 Island
 3 Third Path Iconoclast
 3 Counterspell
+3 Arid Mesa
+4 Arid Mesa
 1 Esper Sentinel
-1 Luminarch Aspirant
-1 Hopeful Initiate
-1 Sunbaked Canyon
+1 Shining Shoal
+1 Chancellor of the Annex
 1 Raffine's Informant
-1 Adeline, Resplendent Cathar
+1 Luminarch Aspirant
+1 Sunbaked Canyon
 1 Inspiring Vantage
 1 Thalia's Lieutenant
 1 Solitude
 1 Champion of the Parish
 1 Cavern of Souls
-1 Chancellor of the Annex
-1 Shining Shoal
 1 Emeria's Call
+1 Adeline, Resplendent Cathar
+1 Hopeful Initiate
 1 Plains
 2 Esper Sentinel
+2 Shining Shoal
+2 Chancellor of the Annex
 2 Luminarch Aspirant
-2 Emeria's Call
 2 Raffine's Informant
-2 Adeline, Resplendent Cathar
+2 Emeria's Call
 2 Inspiring Vantage
-2 Hopeful Initiate
 2 Plains
 2 Sacred Foundry
+2 Adeline, Resplendent Cathar
 2 Champion of the Parish
+2 Hopeful Initiate
 2 Thalia's Lieutenant
-2 Chancellor of the Annex
 2 Solitude
-2 Shining Shoal
 2 Cavern of Souls
 2 Sunbaked Canyon
 3 Esper Sentinel
-3 Luminarch Aspirant
-3 Arid Mesa
 3 Adeline, Resplendent Cathar
+3 Shining Shoal
+3 Chancellor of the Annex
+3 Luminarch Aspirant
 3 Solitude
 3 Inspiring Vantage
 3 Champion of the Parish
-3 Cavern of Souls
-3 Chancellor of the Annex
 3 Sunbaked Canyon
-3 Shining Shoal
 3 Thalia's Lieutenant
-4 Arid Mesa
+3 Cavern of Souls
 4 Esper Sentinel
-4 Luminarch Aspirant
-4 Adeline, Resplendent Cathar
-4 Champion of the Parish
 4 Chancellor of the Annex
-4 Thalia's Lieutenant
 4 Shining Shoal
+4 Adeline, Resplendent Cathar
+4 Luminarch Aspirant
+4 Champion of the Parish
+4 Thalia's Lieutenant
 4 Cavern of Souls
 1 Otawara, Soaring City
 1 Blood Moon
@@ -72,6 +72,15 @@
 1 Stomping Ground
 1 Wooded Foothills
 2 Wooded Foothills
+1 Bloodstained Mire
+1 Monastery Swiftspear
+2 Bloodstained Mire
+2 Monastery Swiftspear
+2 Mountain
+3 Bloodstained Mire
+3 Monastery Swiftspear
+4 Bloodstained Mire
+4 Monastery Swiftspear
 1 Sanctum Prelate
 1 Remand
 1 An Offer You Can't Refuse
@@ -107,22 +116,16 @@
 1 Burning-Tree Emissary
 1 Bloodbraid Elf
 1 Atarka's Command
-1 Bloodstained Mire
 1 Bloodbraid Marauder
-1 Monastery Swiftspear
 2 Bloodbraid Elf
-2 Bloodstained Mire
 2 Stomping Ground
 2 Manamorphose
 2 Copperline Gorge
 2 Atarka's Command
-2 Monastery Swiftspear
 2 Burning-Tree Emissary
-2 Mountain
 2 Bloodbraid Marauder
 3 Stomping Ground
 3 Blood Moon
-3 Bloodstained Mire
 3 Manamorphose
 3 Bloodbraid Elf
 3 Copperline Gorge
@@ -130,12 +133,25 @@
 3 Burning-Tree Emissary
 3 Atarka's Command
 3 Bloodbraid Marauder
-3 Monastery Swiftspear
-4 Bloodstained Mire
 4 Wooded Foothills
 4 Copperline Gorge
 4 Manamorphose
 4 Burning-Tree Emissary
 4 Stomping Ground
-4 Monastery Swiftspear
 4 Atarka's Command
+1 Mutagenic Growth
+1 Gut Shot
+1 Lava Dart
+1 Vapor Snag
+1 Soul-Scar Mage
+1 Light Up the Stage
+2 Mutagenic Growth
+2 Lava Dart
+2 Soul-Scar Mage
+2 Light Up the Stage
+3 Mutagenic Growth
+3 Lava Dart
+3 Soul-Scar Mage
+3 Mountain
+4 Lava Dart
+4 Soul-Scar Mage

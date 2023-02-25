@@ -1,33 +1,28 @@
+1 Memory Deluge
 1 Mystic Gate
 2 Mystic Gate
-1 Ketria Triome
-2 Teferi, Hero of Dominaria
 2 Supreme Verdict
-1 Raugrin Triome
+2 Teferi, Hero of Dominaria
 1 Raffine's Tower
+1 Raugrin Triome
 2 Brokers Charm
-1 Zagoth Triome
 1 Snow-Covered Plains
-1 Ice-Fang Coatl
 1 Snow-Covered Island
+1 Ice-Fang Coatl
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
+2 Snow-Covered Island
 1 Celestial Colonnade
 1 Xander's Lounge
-2 Snow-Covered Island
 3 Misty Rainforest
+1 Zagoth Triome
 2 Castle Vantress
-4 Island
 3 Snow-Covered Island
-3 Hallowed Fountain
 3 Windswept Heath
 1 Snow-Covered Forest
-1 Prairie Stream
-1 Endurance
-1 Ephemerate
-2 Ephemerate
-1 Boseiju, Who Endures
+4 Island
+3 Hallowed Fountain
 1 Stoneforge Mystic
 1 Kaldra Compleat
 1 Batterskull
@@ -35,32 +30,42 @@
 3 Stoneforge Mystic
 4 Windswept Heath
 2 Snow-Covered Plains
+1 Sword of Fire and Ice
+4 Stoneforge Mystic
+1 Endurance
+1 Prairie Stream
+1 Boseiju, Who Endures
+1 Ephemerate
+2 Ephemerate
 1 Temple Garden
 1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
+3 Jace, the Mind Sculptor
+1 Esper Sentinel
+2 Esper Sentinel
+3 Esper Sentinel
+4 Esper Sentinel
 1 Eternal Witness
 2 Eternal Witness
 3 Ephemerate
 4 Ephemerate
-1 Time Warp
+2 Snow-Covered Forest
 1 Wall of Omens
 1 Soulherder
+1 Time Warp
 1 Aether Channeler
 1 Glasspool Mimic
 2 Wall of Omens
 2 Time Warp
 2 Aether Channeler
 2 Soulherder
-3 Wall of Omens
-3 Aether Channeler
 3 Soulherder
+3 Aether Channeler
+3 Wall of Omens
 3 Eternal Witness
-2 Snow-Covered Forest
 1 Eiganjo, Seat of the Empire
-1 Sword of Fire and Ice
-4 Stoneforge Mystic
 3 Mystic Gate
 1 Snapcaster Mage
 2 Snapcaster Mage
@@ -73,9 +78,15 @@
 2 Charming Prince
 2 Collected Company
 3 Charming Prince
+1 Sword of Feast and Famine
+1 Rimewood Falls
+4 Hallowed Fountain
+4 Snow-Covered Island
+4 Jace, the Mind Sculptor
+5 Snow-Covered Island
 3 Scalding Tarn
-1 Steam Vents
 1 Fire/Ice
+1 Steam Vents
 2 Fire/Ice
 3 Fire/Ice
 3 Dress Down
@@ -87,24 +98,17 @@
 2 Oust
 3 Frantic Inventory
 4 Frantic Inventory
-1 Prismatic Vista
 2 Plains
-3 Jace, the Mind Sculptor
 1 Spell Queller
 2 Spell Queller
-1 Esper Sentinel
-2 Esper Sentinel
-3 Esper Sentinel
-4 Esper Sentinel
 1 Force of Negation
 3 Snapcaster Mage
 4 Misty Rainforest
 1 Indatha Triome
 1 The Wandering Emperor
-2 Hall of Storm Giants
 2 Memory Deluge
-3 Subtlety
 3 Polluted Delta
+3 Subtlety
 1 Geier Reach Sanitarium
 1 Day's Undoing
 1 Narset, Parter of Veils
@@ -114,31 +118,32 @@
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
 4 Scalding Tarn
+2 Shark Typhoon
+4 Fire/Ice
 1 Yavimaya, Cradle of Growth
 3 Spell Queller
 4 Spell Queller
-2 Shark Typhoon
-4 Fire/Ice
 1 Aether Vial
+1 Prismatic Vista
 1 Lion Sash
 2 Glasspool Mimic
 2 Aether Vial
 3 Aether Vial
 4 Aether Vial
 4 Wall of Omens
-1 Flooded Grove
 1 Sanctum Prelate
+1 Flooded Grove
 1 Horizon Canopy
 2 Sanctum Prelate
 3 Sanctum Prelate
 4 Sanctum Prelate
 1 Glacial Fortress
-1 Cryptic Command
 1 Eladamri's Call
-1 Consider
 1 Knight of Autumn
 1 Spell Snare
+1 Cryptic Command
 1 Hinterland Harbor
+1 Consider
 1 Forest
 2 Eladamri's Call
 2 Consider
@@ -147,15 +152,9 @@
 3 Eladamri's Call
 4 Consider
 4 Snapcaster Mage
-1 Sword of Feast and Famine
-1 Rimewood Falls
-4 Hallowed Fountain
-4 Snow-Covered Island
-4 Jace, the Mind Sculptor
-5 Snow-Covered Island
+1 Hall of Heliod's Generosity
 1 Commune with Spirits
 1 Utopia Sprawl
-1 Hall of Heliod's Generosity
 1 On Thin Ice
 1 Solemnity
 1 Calix, Destiny's Hand
@@ -165,30 +164,30 @@
 1 Nine Lives
 1 Greater Auramancy
 2 Utopia Sprawl
+2 On Thin Ice
 2 Hall of Heliod's Generosity
 2 Commune with Spirits
-2 On Thin Ice
 2 Phyrexian Unlife
 2 Solemnity
 2 Sterling Grove
 2 Calix, Destiny's Hand
 2 Greater Auramancy
 2 Nine Lives
-3 Temple Garden
 3 Utopia Sprawl
-3 Snow-Covered Plains
 3 Commune with Spirits
+3 Snow-Covered Plains
 3 On Thin Ice
 3 Nine Lives
 3 Greater Auramancy
 3 Solemnity
+3 Temple Garden
 3 Sterling Grove
 3 Phyrexian Unlife
-4 Temple Garden
-4 Commune with Spirits
 4 Utopia Sprawl
+4 Commune with Spirits
 4 Greater Auramancy
 4 Nine Lives
+4 Temple Garden
 4 Solemnity
 4 On Thin Ice
 4 Phyrexian Unlife
