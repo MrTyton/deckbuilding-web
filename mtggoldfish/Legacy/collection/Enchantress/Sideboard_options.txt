@@ -1,11 +1,12 @@
-2 Carpet of Flowers
-1 Boseiju, Who Endures
-1 Cast Out
-2 Dread of Night
-2 Engineered Plague
-2 Stony Silence
+1 Bayou
 1 Mindbreak Trap
 2 Mindbreak Trap
+2 Engineered Plague
+3 Mindbreak Trap
+1 Dread of Night
+2 Stony Silence
+1 Cast Out
+2 Dread of Night
 1 Karakas
 1 Choke
 1 Collector Ouphe
@@ -14,31 +15,30 @@
 1 Argothian Enchantress
 1 Serra's Sanctum
 1 Emrakul, the Aeons Torn
-3 Mindbreak Trap
+1 Surgical Extraction
+2 Surgical Extraction
+1 Ossification
+2 Ossification
 1 Gaddock Teeg
 1 Scavenging Ooze
 1 Knight of Autumn
 1 Devoted Druid
-1 Grist, the Hunger Tide
 1 Rest in Peace
+1 Grist, the Hunger Tide
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
-1 Surgical Extraction
 1 Elephant Grass
 2 Elephant Grass
-1 Curse of Silence
-2 Curse of Silence
-2 Surgical Extraction
 1 Abrupt Decay
 2 Abrupt Decay
+4 Leyline of the Void
 1 Leyline of Sanctity
 2 Leyline of Sanctity
-4 Leyline of the Void
-1 Ossification
-2 Ossification
 2 Cast Out
 1 Prayer of Binding
+1 Curse of Silence
+2 Curse of Silence
 1 Energy Flux
 1 Tormod's Crypt
 2 Energy Flux
@@ -56,8 +56,8 @@
 1 Out of Time
 2 Choke
 1 Torpor Orb
-1 Kataki, War's Wage
 1 Cathar Commando
+1 Kataki, War's Wage
 1 Sigil of the Empty Throne
 1 Gloomshrieker
 1 Hall of Heliod's Generosity
@@ -77,19 +77,19 @@
 1 Sterling Grove
 2 Sterling Grove
 2 On Thin Ice
+1 Meddling Mage
 1 Seal of Cleansing
 1 Winter Orb
-1 Meddling Mage
 1 Seal of Removal
 1 Solitary Confinement
 1 Regeneration
 1 Conversion
 1 Argivian Find
 1 Second Chance
+2 Winter Orb
 2 Seal of Cleansing
 2 Seal of Removal
 2 Solitary Confinement
-2 Winter Orb
 3 Winter Orb
 3 Tormod's Crypt
 1 Leovold, Emissary of Trest

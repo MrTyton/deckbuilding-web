@@ -1,14 +1,14 @@
+1 Stifle
+2 Mana Confluence
 2 Gemstone Mine
 2 Stifle
 3 Gemstone Mine
 4 Gemstone Mine
 1 Yavimaya, Cradle of Growth
-2 Inquisition of Kozilek
-1 Sylvan Safekeeper
-3 Mana Confluence
-4 Mana Confluence
 1 Snow-Covered Swamp
 1 Snow-Covered Forest
+3 Mana Confluence
+4 Mana Confluence
 1 Expedition Map
 1 Urza's Saga
 2 Urza's Saga
@@ -23,33 +23,33 @@
 3 Dark Ritual
 3 Dauthi Voidwalker
 4 Dauthi Voidwalker
-1 Elvish Reclaimer
-4 Pithing Needle
 4 Dark Ritual
 1 Opposition Agent
+1 Elvish Reclaimer
+4 Pithing Needle
 3 Swamp
-4 Swamp
 4 Urza's Saga
+4 Swamp
 1 Ancient Tomb
+2 Opposition Agent
 1 Wasteland
 3 Duress
+3 Opposition Agent
 2 Ancient Tomb
 2 Expedition Map
 3 Expedition Map
-2 Opposition Agent
-1 Sylvan Library
 4 Duress
-5 Swamp
-3 Opposition Agent
-4 Not of This World
-1 Chrome Mox
 1 Profane Tutor
-1 Maralen of the Mornsong
-2 Chrome Mox
+1 Chrome Mox
 2 Profane Tutor
-3 Chrome Mox
+2 Chrome Mox
 3 Profane Tutor
+3 Chrome Mox
 4 Opposition Agent
+1 Sylvan Library
+5 Swamp
+4 Not of This World
+1 Maralen of the Mornsong
 2 Elvish Reclaimer
 3 Elvish Reclaimer
 4 Elvish Reclaimer
@@ -60,6 +60,9 @@
 1 City of Brass
 1 Into the North
 2 Into the North
+1 Once Upon a Time
+2 Once Upon a Time
+3 Once Upon a Time
 1 Helm of Obedience
 1 Leyline of the Void
 1 Hymn to Tourach
@@ -69,9 +72,6 @@
 4 Leyline of the Void
 1 Sudden Edict
 3 Inquisition of Kozilek
-1 Once Upon a Time
-2 Once Upon a Time
-3 Once Upon a Time
 1 Fable of the Mirror-Breaker
 1 Assassin's Trophy
 1 Badlands
@@ -86,6 +86,8 @@
 2 Dark Confidant
 3 Dark Confidant
 4 Dark Confidant
+1 Snuff Out
+2 Snuff Out
 1 Life from the Loam
 1 Forest
 2 City of Brass
@@ -95,13 +97,11 @@
 2 Sheoldred, the Apocalypse
 3 Agadeem's Awakening
 4 Agadeem's Awakening
-1 Village Rites
 1 Nihil Spellbomb
-1 Snuff Out
+1 Village Rites
 1 Reanimate
 1 Grief
 2 Grief
-2 Snuff Out
 2 Sudden Edict
 2 Reanimate
 3 Grief

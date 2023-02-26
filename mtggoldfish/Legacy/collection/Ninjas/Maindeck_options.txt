@@ -1,5 +1,5 @@
-2 Brazen Borrower
 4 Ponder
+2 Brazen Borrower
 3 Daze
 4 Baleful Strix
 1 Flooded Strand
@@ -12,10 +12,10 @@
 3 Snuff Out
 4 Moon-Circuit Hacker
 2 Force of Negation
-3 Swamp
 1 Mystic Sanctuary
 1 Chrome Mox
 2 Chrome Mox
+3 Swamp
 1 Tourach, Dread Cantor
 2 Tourach, Dread Cantor
 1 Thousand-Faced Shadow
@@ -44,9 +44,6 @@
 2 Zephyr Sentinel
 1 Reanimate
 2 Reanimate
-1 Spellstutter Sprite
-1 Flusterstorm
-2 Spellstutter Sprite
 2 Murderous Cut
 1 Kaito Shizuki
 2 Misty Rainforest
@@ -57,7 +54,10 @@
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
-4 Daze
+1 Spellstutter Sprite
+2 Spellstutter Sprite
+3 Spellstutter Sprite
+4 Spellstutter Sprite
 1 Expressive Iteration
 1 Murktide Regent
 1 Dragon's Rage Channeler
@@ -77,3 +77,4 @@
 4 Dragon's Rage Channeler
 4 Wasteland
 4 Scalding Tarn
+4 Daze

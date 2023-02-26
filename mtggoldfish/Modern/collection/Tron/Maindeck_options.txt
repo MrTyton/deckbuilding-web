@@ -4,9 +4,9 @@
 2 Relic of Progenitus
 3 Walking Ballista
 1 Ulamog, the Ceaseless Hunger
+1 Swamp
 1 Dismember
 1 All Is Dust
-1 Swamp
 2 Dismember
 2 Ulamog, the Ceaseless Hunger
 4 Walking Ballista
@@ -31,8 +31,8 @@
 3 Eldrazi Temple
 3 Matter Reshaper
 4 Matter Reshaper
-4 Relic of Progenitus
 4 Eldrazi Temple
+4 Relic of Progenitus
 1 Ghost Quarter
 1 Urborg, Tomb of Yawgmoth
 2 Spellskite
@@ -88,11 +88,11 @@
 1 Forsaken Monument
 1 Chalice of the Void
 2 Chalice of the Void
-1 Spire of Industry
 1 Treasure Vault
 1 Emrakul, the Aeons Torn
 1 Paradox Engine
 1 Witch's Oven
+1 Spire of Industry
 1 Hedron Archive
 1 Void Winnower
 1 Powerstone Shard
@@ -114,8 +114,8 @@
 3 Mishra's Bauble
 3 Automated Artificer
 3 Hedron Archive
-4 Mishra's Bauble
 4 Automated Artificer
+4 Mishra's Bauble
 4 Hedron Archive
 4 Powerstone Shard
 1 Gut Shot
@@ -126,8 +126,8 @@
 2 Island
 2 Cavern of Souls
 1 Welding Jar
-2 Pithing Needle
 2 Sorcerous Spyglass
+2 Pithing Needle
 1 The Stone Brain
 2 The Stone Brain
 3 The Stone Brain
@@ -141,11 +141,11 @@
 3 Chalice of the Void
 4 Chalice of the Void
 1 Shark Typhoon
-1 Steam Vents
 1 Fire/Ice
 1 Hullbreaker Horror
 1 Hard Evidence
 1 Talisman of Creativity
+1 Steam Vents
 1 Polymorph
 1 Misty Rainforest
 2 Fire/Ice
@@ -155,12 +155,12 @@
 2 Polymorph
 2 Talisman of Creativity
 2 Misty Rainforest
-3 Misty Rainforest
 3 Shark Typhoon
 3 Fire/Ice
+3 Island
 3 Talisman of Creativity
 3 Polymorph
-3 Island
+3 Misty Rainforest
 3 Hard Evidence
 3 Hullbreaker Horror
 4 Fire/Ice
@@ -168,25 +168,25 @@
 4 Polymorph
 4 Hard Evidence
 1 Hydroid Krasis
-1 Dreamroot Cascade
+1 Breeding Pool
+1 Sylvan Scrying
 1 Nimble Obstructionist
 1 Divide by Zero
 1 Simic Signet
-1 Sylvan Scrying
-1 Breeding Pool
-2 Nimble Obstructionist
+1 Dreamroot Cascade
 2 Hydroid Krasis
-2 Divide by Zero
 2 Sylvan Scrying
+2 Divide by Zero
+2 Nimble Obstructionist
 2 Simic Signet
 2 Dreamroot Cascade
+3 Dreamroot Cascade
+3 Sylvan Scrying
 3 Hydroid Krasis
 3 Nimble Obstructionist
-3 Sylvan Scrying
 3 Divide by Zero
-3 Dreamroot Cascade
+4 Dreamroot Cascade
 4 Hydroid Krasis
 4 Nimble Obstructionist
 4 Divide by Zero
 4 Sylvan Scrying
-4 Dreamroot Cascade

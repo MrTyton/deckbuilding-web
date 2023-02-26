@@ -3,24 +3,24 @@
 3 Underworld Breach
 1 Inquisition of Kozilek
 1 Fatal Push
-4 Scalding Tarn
-4 Unholy Heat
 2 Inquisition of Kozilek
+4 Unholy Heat
 2 Fatal Push
+4 Scalding Tarn
 1 Spell Pierce
 1 Temur Battle Rage
 1 Scourge of the Skyclaves
 2 Scourge of the Skyclaves
 2 Temur Battle Rage
 3 Blood Crypt
-2 Terminate
-2 Spell Pierce
 1 Street Wraith
 2 Street Wraith
 3 Street Wraith
 4 Street Wraith
 1 Verdant Catacombs
 2 Verdant Catacombs
+2 Terminate
+2 Spell Pierce
 3 Verdant Catacombs
 4 Verdant Catacombs
 3 Scourge of the Skyclaves
@@ -30,8 +30,8 @@
 2 Kroxa, Titan of Death's Hunger
 3 Steam Vents
 1 Marsh Flats
-2 Swamp
 2 Marsh Flats
+2 Swamp
 4 Blood Crypt
 4 Scourge of the Skyclaves
 1 Stomping Ground
@@ -40,6 +40,7 @@
 1 Wooded Foothills
 2 Wooded Foothills
 3 Wooded Foothills
+1 Dismember
 1 Snow-Covered Mountain
 1 Snow-Covered Swamp
 3 Terminate
@@ -58,27 +59,53 @@
 4 Monastery Swiftspear
 4 Temur Battle Rage
 4 Mutagenic Growth
-1 Fiery Islet
 1 Agadeem's Awakening
-1 Dismember
 1 Godless Shrine
 1 Nurturing Peatland
 1 Island
+2 Dismember
+1 Stubborn Denial
+1 Fiery Islet
 1 Sheoldred's Edict
 1 Kolaghan's Command
-2 Dismember
 1 Sacred Foundry
 1 Teferi, Time Raveler
 1 Hallowed Fountain
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
-3 Spell Pierce
-1 Stubborn Denial
-3 Kroxa, Titan of Death's Hunger
 3 Inquisition of Kozilek
-2 Tarmogoyf
-3 Tarmogoyf
-4 Tarmogoyf
+3 Kroxa, Titan of Death's Hunger
+3 Spell Pierce
 2 Nurturing Peatland
 3 Marsh Flats
 4 Marsh Flats
+2 Tarmogoyf
+3 Tarmogoyf
+4 Tarmogoyf
+1 Castle Locthwain
+1 Tainted Indulgence
+1 Underground River
+1 Counterspell
+1 Misty Rainforest
+1 Urborg, Tomb of Yawgmoth
+1 Murderous Cut
+1 Tasigur, the Golden Fang
+1 Consider
+1 Thought Scour
+1 Flooded Strand
+1 Gurmag Angler
+2 Tainted Indulgence
+2 Island
+2 Counterspell
+2 Misty Rainforest
+2 Gurmag Angler
+2 Flooded Strand
+2 Consider
+2 Stubborn Denial
+3 Counterspell
+3 Fatal Push
+3 Consider
+3 Island
+4 Fatal Push
+4 Counterspell
+4 Island

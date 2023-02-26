@@ -2,10 +2,10 @@
 1 Snow-Covered Plains
 1 Dollhouse of Horrors
 1 Sanctify
+1 Sigarda's Splendor
 1 Pacifism
 1 Shield Mare
 1 Mirror Shield
-1 Sigarda's Splendor
 1 Cleric Class
 1 Ajani's Welcome
 1 Angel of Destiny
@@ -19,12 +19,12 @@
 2 The Book of Exalted Deeds
 2 Snow-Covered Plains
 2 Sanctify
+2 Sigarda's Splendor
 2 Cleric Class
 2 Ajani's Welcome
 2 Healer's Hawk
 2 Shield Mare
 2 Smothering Tithe
-2 Sigarda's Splendor
 2 Helm of the Host
 2 Faceless Haven
 2 Anointed Procession
@@ -33,13 +33,13 @@
 2 Attended Healer
 2 Dollhouse of Horrors
 3 The Book of Exalted Deeds
+3 Sigarda's Splendor
 3 Snow-Covered Plains
 3 Smothering Tithe
 3 Sanctify
 3 Faceless Haven
 3 Crested Sunmare
 3 Anointed Procession
-3 Sigarda's Splendor
 3 Healer's Hawk
 3 Shield Mare
 3 Pacifism
@@ -82,12 +82,12 @@
 1 Cave of the Frost Dragon
 1 Crawling Barrens
 1 Castle Ardenvale
-1 Curse of Silence
 1 Field of Ruin
 1 Adeline, Resplendent Cathar
-1 Karn's Bastion
 1 Anointed Peacekeeper
+1 Karn's Bastion
 1 The Wandering Emperor
+1 Curse of Silence
 1 Lurrus of the Dream-Den
 1 Thalia, Guardian of Thraben
 1 Karn, the Great Creator
@@ -103,8 +103,8 @@
 2 Intrepid Adversary
 2 Castle Ardenvale
 2 Field of Ruin
-2 Thalia, Guardian of Thraben
 2 The Wandering Emperor
+2 Thalia, Guardian of Thraben
 2 Esper Sentinel
 2 Karn's Bastion
 2 Lurrus of the Dream-Den
@@ -119,6 +119,6 @@
 3 Patriar's Humiliation
 3 Thalia, Guardian of Thraben
 3 Castle Ardenvale
-4 Borrowed Time
 4 Thalia, Guardian of Thraben
 4 Esper Sentinel
+4 Borrowed Time
